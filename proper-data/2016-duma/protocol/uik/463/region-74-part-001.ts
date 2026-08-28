@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 271,
-      "Волошина Гузелия Радиковна": 42,
-      "Гильмутдинов Эльдар Рафаильевич": 35,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 4,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 45
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 271,
+      "gas:candidate-vibid:4744041290586": 42,
+      "gas:candidate-vibid:4744041290886": 35,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 4,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 86,
-      "Волошина Гузелия Радиковна": 30,
-      "Гильмутдинов Эльдар Рафаильевич": 6,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 19
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 86,
+      "gas:candidate-vibid:4744041290586": 30,
+      "gas:candidate-vibid:4744041290886": 6,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 79,
-      "Волошина Гузелия Радиковна": 17,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 11
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 79,
+      "gas:candidate-vibid:4744041290586": 17,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 8,
-      "Барышев Андрей Викторович": 128,
-      "Волошина Гузелия Радиковна": 10,
-      "Гильмутдинов Эльдар Рафаильевич": 18,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 4,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 6
+      "gas:candidate-vibid:4744041290924": 8,
+      "gas:candidate-vibid:4744041290994": 128,
+      "gas:candidate-vibid:4744041290586": 10,
+      "gas:candidate-vibid:4744041290886": 18,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 4,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 348,
-      "Волошина Гузелия Радиковна": 126,
-      "Гильмутдинов Эльдар Рафаильевич": 65,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 5,
-      "Федотова Екатерина Игоревна": 97
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 348,
+      "gas:candidate-vibid:4744041290586": 126,
+      "gas:candidate-vibid:4744041290886": 65,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 5,
+      "gas:candidate-vibid:4744041290477": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 218,
-      "Волошина Гузелия Радиковна": 15,
-      "Гильмутдинов Эльдар Рафаильевич": 18,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 36
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 218,
+      "gas:candidate-vibid:4744041290586": 15,
+      "gas:candidate-vibid:4744041290886": 18,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 42,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 4,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 3,
-      "Федотова Екатерина Игоревна": 16
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 42,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 4,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 3,
+      "gas:candidate-vibid:4744041290477": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 163,
-      "Волошина Гузелия Радиковна": 13,
-      "Гильмутдинов Эльдар Рафаильевич": 11,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 48
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 163,
+      "gas:candidate-vibid:4744041290586": 13,
+      "gas:candidate-vibid:4744041290886": 11,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 402,
-      "Волошина Гузелия Радиковна": 131,
-      "Гильмутдинов Эльдар Рафаильевич": 88,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 12,
-      "Федотова Екатерина Игоревна": 107
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 402,
+      "gas:candidate-vibid:4744041290586": 131,
+      "gas:candidate-vibid:4744041290886": 88,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 12,
+      "gas:candidate-vibid:4744041290477": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 75,
-      "Волошина Гузелия Радиковна": 13,
-      "Гильмутдинов Эльдар Рафаильевич": 8,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 21
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 75,
+      "gas:candidate-vibid:4744041290586": 13,
+      "gas:candidate-vibid:4744041290886": 8,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 67,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 9,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 19
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 67,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 9,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 88,
-      "Волошина Гузелия Радиковна": 8,
-      "Гильмутдинов Эльдар Рафаильевич": 12,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 13
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 88,
+      "gas:candidate-vibid:4744041290586": 8,
+      "gas:candidate-vibid:4744041290886": 12,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 74,
-      "Волошина Гузелия Радиковна": 23,
-      "Гильмутдинов Эльдар Рафаильевич": 25,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 22
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 74,
+      "gas:candidate-vibid:4744041290586": 23,
+      "gas:candidate-vibid:4744041290886": 25,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 58,
-      "Волошина Гузелия Радиковна": 9,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 9
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 58,
+      "gas:candidate-vibid:4744041290586": 9,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 76,
-      "Волошина Гузелия Радиковна": 12,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 14
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 76,
+      "gas:candidate-vibid:4744041290586": 12,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 46,
-      "Волошина Гузелия Радиковна": 5,
-      "Гильмутдинов Эльдар Рафаильевич": 7,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 5,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 14
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 46,
+      "gas:candidate-vibid:4744041290586": 5,
+      "gas:candidate-vibid:4744041290886": 7,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 5,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 133,
-      "Волошина Гузелия Радиковна": 43,
-      "Гильмутдинов Эльдар Рафаильевич": 26,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 3,
-      "Федотова Екатерина Игоревна": 24
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 133,
+      "gas:candidate-vibid:4744041290586": 43,
+      "gas:candidate-vibid:4744041290886": 26,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 3,
+      "gas:candidate-vibid:4744041290477": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 47,
-      "Волошина Гузелия Радиковна": 7,
-      "Гильмутдинов Эльдар Рафаильевич": 7,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 9
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 47,
+      "gas:candidate-vibid:4744041290586": 7,
+      "gas:candidate-vibid:4744041290886": 7,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 79,
-      "Волошина Гузелия Радиковна": 17,
-      "Гильмутдинов Эльдар Рафаильевич": 12,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 10
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 79,
+      "gas:candidate-vibid:4744041290586": 17,
+      "gas:candidate-vibid:4744041290886": 12,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 193,
-      "Волошина Гузелия Радиковна": 40,
-      "Гильмутдинов Эльдар Рафаильевич": 32,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 26,
-      "Федотова Екатерина Игоревна": 40
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 193,
+      "gas:candidate-vibid:4744041290586": 40,
+      "gas:candidate-vibid:4744041290886": 32,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 26,
+      "gas:candidate-vibid:4744041290477": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 22,
-      "Волошина Гузелия Радиковна": 69,
-      "Гильмутдинов Эльдар Рафаильевич": 4,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 5,
-      "Федотова Екатерина Игоревна": 17
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 22,
+      "gas:candidate-vibid:4744041290586": 69,
+      "gas:candidate-vibid:4744041290886": 4,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 5,
+      "gas:candidate-vibid:4744041290477": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 45,
-      "Волошина Гузелия Радиковна": 2,
-      "Гильмутдинов Эльдар Рафаильевич": 6,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 6
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 45,
+      "gas:candidate-vibid:4744041290586": 2,
+      "gas:candidate-vibid:4744041290886": 6,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 214,
-      "Волошина Гузелия Радиковна": 31,
-      "Гильмутдинов Эльдар Рафаильевич": 26,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 44
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 214,
+      "gas:candidate-vibid:4744041290586": 31,
+      "gas:candidate-vibid:4744041290886": 26,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 8,
-      "Барышев Андрей Викторович": 135,
-      "Волошина Гузелия Радиковна": 56,
-      "Гильмутдинов Эльдар Рафаильевич": 38,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 3,
-      "Федотова Екатерина Игоревна": 64
+      "gas:candidate-vibid:4744041290924": 8,
+      "gas:candidate-vibid:4744041290994": 135,
+      "gas:candidate-vibid:4744041290586": 56,
+      "gas:candidate-vibid:4744041290886": 38,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 3,
+      "gas:candidate-vibid:4744041290477": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 105,
-      "Волошина Гузелия Радиковна": 20,
-      "Гильмутдинов Эльдар Рафаильевич": 9,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 31
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 105,
+      "gas:candidate-vibid:4744041290586": 20,
+      "gas:candidate-vibid:4744041290886": 9,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 61,
-      "Волошина Гузелия Радиковна": 22,
-      "Гильмутдинов Эльдар Рафаильевич": 24,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 25
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 61,
+      "gas:candidate-vibid:4744041290586": 22,
+      "gas:candidate-vibid:4744041290886": 24,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 43,
-      "Волошина Гузелия Радиковна": 6,
-      "Гильмутдинов Эльдар Рафаильевич": 4,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 8
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 43,
+      "gas:candidate-vibid:4744041290586": 6,
+      "gas:candidate-vibid:4744041290886": 4,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 537,
-      "Волошина Гузелия Радиковна": 74,
-      "Гильмутдинов Эльдар Рафаильевич": 101,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 4,
-      "Разживин Михаил Юрьевич": 6,
-      "Талевлин Андрей Александрович": 6,
-      "Федотова Екатерина Игоревна": 116
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 537,
+      "gas:candidate-vibid:4744041290586": 74,
+      "gas:candidate-vibid:4744041290886": 101,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 4,
+      "gas:candidate-vibid:4744041290837": 6,
+      "gas:candidate-vibid:4744041291185": 6,
+      "gas:candidate-vibid:4744041290477": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 50,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 4,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 11
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 50,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 4,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 141,
-      "Волошина Гузелия Радиковна": 17,
-      "Гильмутдинов Эльдар Рафаильевич": 23,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 28
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 141,
+      "gas:candidate-vibid:4744041290586": 17,
+      "gas:candidate-vibid:4744041290886": 23,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 76,
-      "Волошина Гузелия Радиковна": 17,
-      "Гильмутдинов Эльдар Рафаильевич": 15,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 37
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 76,
+      "gas:candidate-vibid:4744041290586": 17,
+      "gas:candidate-vibid:4744041290886": 15,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 67,
-      "Волошина Гузелия Радиковна": 39,
-      "Гильмутдинов Эльдар Рафаильевич": 24,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 7,
-      "Федотова Екатерина Игоревна": 41
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 67,
+      "gas:candidate-vibid:4744041290586": 39,
+      "gas:candidate-vibid:4744041290886": 24,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 7,
+      "gas:candidate-vibid:4744041290477": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 59,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 3,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 14
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 59,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 3,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 53,
-      "Волошина Гузелия Радиковна": 11,
-      "Гильмутдинов Эльдар Рафаильевич": 8,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 11
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 53,
+      "gas:candidate-vibid:4744041290586": 11,
+      "gas:candidate-vibid:4744041290886": 8,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 68,
-      "Волошина Гузелия Радиковна": 16,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 10
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 68,
+      "gas:candidate-vibid:4744041290586": 16,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 204,
-      "Волошина Гузелия Радиковна": 103,
-      "Гильмутдинов Эльдар Рафаильевич": 55,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 69
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 204,
+      "gas:candidate-vibid:4744041290586": 103,
+      "gas:candidate-vibid:4744041290886": 55,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 114,
-      "Волошина Гузелия Радиковна": 7,
-      "Гильмутдинов Эльдар Рафаильевич": 14,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 15
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 114,
+      "gas:candidate-vibid:4744041290586": 7,
+      "gas:candidate-vibid:4744041290886": 14,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 56,
-      "Волошина Гузелия Радиковна": 6,
-      "Гильмутдинов Эльдар Рафаильевич": 6,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 5
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 56,
+      "gas:candidate-vibid:4744041290586": 6,
+      "gas:candidate-vibid:4744041290886": 6,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 96,
-      "Волошина Гузелия Радиковна": 23,
-      "Гильмутдинов Эльдар Рафаильевич": 42,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 25
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 96,
+      "gas:candidate-vibid:4744041290586": 23,
+      "gas:candidate-vibid:4744041290886": 42,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 210,
-      "Волошина Гузелия Радиковна": 20,
-      "Гильмутдинов Эльдар Рафаильевич": 33,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 31
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 210,
+      "gas:candidate-vibid:4744041290586": 20,
+      "gas:candidate-vibid:4744041290886": 33,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 54,
-      "Волошина Гузелия Радиковна": 5,
-      "Гильмутдинов Эльдар Рафаильевич": 6,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 16
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 54,
+      "gas:candidate-vibid:4744041290586": 5,
+      "gas:candidate-vibid:4744041290886": 6,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 73,
-      "Волошина Гузелия Радиковна": 10,
-      "Гильмутдинов Эльдар Рафаильевич": 3,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 11
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 73,
+      "gas:candidate-vibid:4744041290586": 10,
+      "gas:candidate-vibid:4744041290886": 3,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 50,
-      "Волошина Гузелия Радиковна": 7,
-      "Гильмутдинов Эльдар Рафаильевич": 3,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 23
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 50,
+      "gas:candidate-vibid:4744041290586": 7,
+      "gas:candidate-vibid:4744041290886": 3,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 234,
-      "Волошина Гузелия Радиковна": 168,
-      "Гильмутдинов Эльдар Рафаильевич": 85,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 11,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 5,
-      "Талевлин Андрей Александрович": 11,
-      "Федотова Екатерина Игоревна": 157
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 234,
+      "gas:candidate-vibid:4744041290586": 168,
+      "gas:candidate-vibid:4744041290886": 85,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 11,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 5,
+      "gas:candidate-vibid:4744041291185": 11,
+      "gas:candidate-vibid:4744041290477": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 59,
-      "Волошина Гузелия Радиковна": 16,
-      "Гильмутдинов Эльдар Рафаильевич": 2,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 6
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 59,
+      "gas:candidate-vibid:4744041290586": 16,
+      "gas:candidate-vibid:4744041290886": 2,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143135&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143135&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 267,
-      "Волошина Гузелия Радиковна": 29,
-      "Гильмутдинов Эльдар Рафаильевич": 28,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 7,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 59
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 267,
+      "gas:candidate-vibid:4744041290586": 29,
+      "gas:candidate-vibid:4744041290886": 28,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 7,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 50,
-      "Волошина Гузелия Радиковна": 8,
-      "Гильмутдинов Эльдар Рафаильевич": 2,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 1
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 50,
+      "gas:candidate-vibid:4744041290586": 8,
+      "gas:candidate-vibid:4744041290886": 2,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 42,
-      "Волошина Гузелия Радиковна": 11,
-      "Гильмутдинов Эльдар Рафаильевич": 15,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 10
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 42,
+      "gas:candidate-vibid:4744041290586": 11,
+      "gas:candidate-vibid:4744041290886": 15,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 118,
-      "Волошина Гузелия Радиковна": 7,
-      "Гильмутдинов Эльдар Рафаильевич": 5,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 4
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 118,
+      "gas:candidate-vibid:4744041290586": 7,
+      "gas:candidate-vibid:4744041290886": 5,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 358,
-      "Волошина Гузелия Радиковна": 34,
-      "Гильмутдинов Эльдар Рафаильевич": 45,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 5,
-      "Федотова Екатерина Игоревна": 51
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 358,
+      "gas:candidate-vibid:4744041290586": 34,
+      "gas:candidate-vibid:4744041290886": 45,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 5,
+      "gas:candidate-vibid:4744041290477": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 63,
-      "Волошина Гузелия Радиковна": 13,
-      "Гильмутдинов Эльдар Рафаильевич": 16,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 23
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 63,
+      "gas:candidate-vibid:4744041290586": 13,
+      "gas:candidate-vibid:4744041290886": 16,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 282,
-      "Волошина Гузелия Радиковна": 14,
-      "Гильмутдинов Эльдар Рафаильевич": 26,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 6,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 18
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 282,
+      "gas:candidate-vibid:4744041290586": 14,
+      "gas:candidate-vibid:4744041290886": 26,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 6,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 38,
-      "Волошина Гузелия Радиковна": 5,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 0
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 38,
+      "gas:candidate-vibid:4744041290586": 5,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 24,
-      "Волошина Гузелия Радиковна": 5,
-      "Гильмутдинов Эльдар Рафаильевич": 3,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 6
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 24,
+      "gas:candidate-vibid:4744041290586": 5,
+      "gas:candidate-vibid:4744041290886": 3,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 68,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 11,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 16
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 68,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 11,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 43,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 4,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 17
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 43,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 4,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 18,
-      "Волошина Гузелия Радиковна": 2,
-      "Гильмутдинов Эльдар Рафаильевич": 5,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 18
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 18,
+      "gas:candidate-vibid:4744041290586": 2,
+      "gas:candidate-vibid:4744041290886": 5,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 115,
-      "Волошина Гузелия Радиковна": 15,
-      "Гильмутдинов Эльдар Рафаильевич": 24,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 40
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 115,
+      "gas:candidate-vibid:4744041290586": 15,
+      "gas:candidate-vibid:4744041290886": 24,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 163,
-      "Волошина Гузелия Радиковна": 13,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 15
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 163,
+      "gas:candidate-vibid:4744041290586": 13,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 56,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 12,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 12
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 56,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 12,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 260,
-      "Волошина Гузелия Радиковна": 41,
-      "Гильмутдинов Эльдар Рафаильевич": 47,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 65
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 260,
+      "gas:candidate-vibid:4744041290586": 41,
+      "gas:candidate-vibid:4744041290886": 47,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 152,
-      "Волошина Гузелия Радиковна": 12,
-      "Гильмутдинов Эльдар Рафаильевич": 22,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 3,
-      "Федотова Екатерина Игоревна": 27
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 152,
+      "gas:candidate-vibid:4744041290586": 12,
+      "gas:candidate-vibid:4744041290886": 22,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 3,
+      "gas:candidate-vibid:4744041290477": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 149,
-      "Волошина Гузелия Радиковна": 20,
-      "Гильмутдинов Эльдар Рафаильевич": 47,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 72
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 149,
+      "gas:candidate-vibid:4744041290586": 20,
+      "gas:candidate-vibid:4744041290886": 47,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 275,
-      "Волошина Гузелия Радиковна": 60,
-      "Гильмутдинов Эльдар Рафаильевич": 87,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 11,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 8,
-      "Талевлин Андрей Александрович": 14,
-      "Федотова Екатерина Игоревна": 120
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 275,
+      "gas:candidate-vibid:4744041290586": 60,
+      "gas:candidate-vibid:4744041290886": 87,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 11,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 8,
+      "gas:candidate-vibid:4744041291185": 14,
+      "gas:candidate-vibid:4744041290477": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 130,
-      "Волошина Гузелия Радиковна": 32,
-      "Гильмутдинов Эльдар Рафаильевич": 32,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 46
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 130,
+      "gas:candidate-vibid:4744041290586": 32,
+      "gas:candidate-vibid:4744041290886": 32,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 73,
-      "Волошина Гузелия Радиковна": 5,
-      "Гильмутдинов Эльдар Рафаильевич": 14,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 14
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 73,
+      "gas:candidate-vibid:4744041290586": 5,
+      "gas:candidate-vibid:4744041290886": 14,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 8,
-      "Барышев Андрей Викторович": 206,
-      "Волошина Гузелия Радиковна": 38,
-      "Гильмутдинов Эльдар Рафаильевич": 34,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 6,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 57
+      "gas:candidate-vibid:4744041290924": 8,
+      "gas:candidate-vibid:4744041290994": 206,
+      "gas:candidate-vibid:4744041290586": 38,
+      "gas:candidate-vibid:4744041290886": 34,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 6,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 56,
-      "Волошина Гузелия Радиковна": 7,
-      "Гильмутдинов Эльдар Рафаильевич": 4,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 15
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 56,
+      "gas:candidate-vibid:4744041290586": 7,
+      "gas:candidate-vibid:4744041290886": 4,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 139,
-      "Волошина Гузелия Радиковна": 16,
-      "Гильмутдинов Эльдар Рафаильевич": 12,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 27
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 139,
+      "gas:candidate-vibid:4744041290586": 16,
+      "gas:candidate-vibid:4744041290886": 12,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 63,
-      "Волошина Гузелия Радиковна": 14,
-      "Гильмутдинов Эльдар Рафаильевич": 20,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 36
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 63,
+      "gas:candidate-vibid:4744041290586": 14,
+      "gas:candidate-vibid:4744041290886": 20,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 259,
-      "Волошина Гузелия Радиковна": 36,
-      "Гильмутдинов Эльдар Рафаильевич": 70,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 6,
-      "Талевлин Андрей Александрович": 5,
-      "Федотова Екатерина Игоревна": 95
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 259,
+      "gas:candidate-vibid:4744041290586": 36,
+      "gas:candidate-vibid:4744041290886": 70,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 6,
+      "gas:candidate-vibid:4744041291185": 5,
+      "gas:candidate-vibid:4744041290477": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 76,
-      "Волошина Гузелия Радиковна": 9,
-      "Гильмутдинов Эльдар Рафаильевич": 16,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 9
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 76,
+      "gas:candidate-vibid:4744041290586": 9,
+      "gas:candidate-vibid:4744041290886": 16,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 97,
-      "Волошина Гузелия Радиковна": 18,
-      "Гильмутдинов Эльдар Рафаильевич": 11,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 6,
-      "Федотова Екатерина Игоревна": 20
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 97,
+      "gas:candidate-vibid:4744041290586": 18,
+      "gas:candidate-vibid:4744041290886": 11,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 6,
+      "gas:candidate-vibid:4744041290477": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 7,
-      "Барышев Андрей Викторович": 234,
-      "Волошина Гузелия Радиковна": 72,
-      "Гильмутдинов Эльдар Рафаильевич": 87,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 14,
-      "Талевлин Андрей Александрович": 6,
-      "Федотова Екатерина Игоревна": 105
+      "gas:candidate-vibid:4744041290924": 7,
+      "gas:candidate-vibid:4744041290994": 234,
+      "gas:candidate-vibid:4744041290586": 72,
+      "gas:candidate-vibid:4744041290886": 87,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 14,
+      "gas:candidate-vibid:4744041291185": 6,
+      "gas:candidate-vibid:4744041290477": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 249,
-      "Волошина Гузелия Радиковна": 19,
-      "Гильмутдинов Эльдар Рафаильевич": 39,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 61
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 249,
+      "gas:candidate-vibid:4744041290586": 19,
+      "gas:candidate-vibid:4744041290886": 39,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 154,
-      "Волошина Гузелия Радиковна": 29,
-      "Гильмутдинов Эльдар Рафаильевич": 36,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 5,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 63
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 154,
+      "gas:candidate-vibid:4744041290586": 29,
+      "gas:candidate-vibid:4744041290886": 36,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 5,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 16,
-      "Волошина Гузелия Радиковна": 10,
-      "Гильмутдинов Эльдар Рафаильевич": 5,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 3,
-      "Федотова Екатерина Игоревна": 12
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 16,
+      "gas:candidate-vibid:4744041290586": 10,
+      "gas:candidate-vibid:4744041290886": 5,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 3,
+      "gas:candidate-vibid:4744041290477": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 100,
-      "Волошина Гузелия Радиковна": 17,
-      "Гильмутдинов Эльдар Рафаильевич": 24,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 41
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 100,
+      "gas:candidate-vibid:4744041290586": 17,
+      "gas:candidate-vibid:4744041290886": 24,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 73,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 7,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 19
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 73,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 7,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 86,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 5,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 14
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 86,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 5,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 24,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 1,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 4
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 24,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 1,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 203,
-      "Волошина Гузелия Радиковна": 39,
-      "Гильмутдинов Эльдар Рафаильевич": 73,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 13,
-      "Неуймин Алексей Викторович": 11,
-      "Разживин Михаил Юрьевич": 5,
-      "Талевлин Андрей Александрович": 10,
-      "Федотова Екатерина Игоревна": 90
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 203,
+      "gas:candidate-vibid:4744041290586": 39,
+      "gas:candidate-vibid:4744041290886": 73,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 13,
+      "gas:candidate-vibid:4744041291088": 11,
+      "gas:candidate-vibid:4744041290837": 5,
+      "gas:candidate-vibid:4744041291185": 10,
+      "gas:candidate-vibid:4744041290477": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 5,
-      "Барышев Андрей Викторович": 60,
-      "Волошина Гузелия Радиковна": 7,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 6,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 8
+      "gas:candidate-vibid:4744041290924": 5,
+      "gas:candidate-vibid:4744041290994": 60,
+      "gas:candidate-vibid:4744041290586": 7,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 6,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 71,
-      "Волошина Гузелия Радиковна": 8,
-      "Гильмутдинов Эльдар Рафаильевич": 21,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 10
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 71,
+      "gas:candidate-vibid:4744041290586": 8,
+      "gas:candidate-vibid:4744041290886": 21,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 25,
-      "Волошина Гузелия Радиковна": 2,
-      "Гильмутдинов Эльдар Рафаильевич": 1,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 5
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 25,
+      "gas:candidate-vibid:4744041290586": 2,
+      "gas:candidate-vibid:4744041290886": 1,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 52,
-      "Волошина Гузелия Радиковна": 7,
-      "Гильмутдинов Эльдар Рафаильевич": 7,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 3
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 52,
+      "gas:candidate-vibid:4744041290586": 7,
+      "gas:candidate-vibid:4744041290886": 7,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 9,
-      "Барышев Андрей Викторович": 413,
-      "Волошина Гузелия Радиковна": 36,
-      "Гильмутдинов Эльдар Рафаильевич": 55,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 4,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 78
+      "gas:candidate-vibid:4744041290924": 9,
+      "gas:candidate-vibid:4744041290994": 413,
+      "gas:candidate-vibid:4744041290586": 36,
+      "gas:candidate-vibid:4744041290886": 55,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 4,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 46,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 3,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 1
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 46,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 3,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 58,
-      "Волошина Гузелия Радиковна": 4,
-      "Гильмутдинов Эльдар Рафаильевич": 6,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 16
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 58,
+      "gas:candidate-vibid:4744041290586": 4,
+      "gas:candidate-vibid:4744041290886": 6,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 4,
-      "Барышев Андрей Викторович": 88,
-      "Волошина Гузелия Радиковна": 2,
-      "Гильмутдинов Эльдар Рафаильевич": 19,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 16
+      "gas:candidate-vibid:4744041290924": 4,
+      "gas:candidate-vibid:4744041290994": 88,
+      "gas:candidate-vibid:4744041290586": 2,
+      "gas:candidate-vibid:4744041290886": 19,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 103,
-      "Волошина Гузелия Радиковна": 1,
-      "Гильмутдинов Эльдар Рафаильевич": 17,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 2,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 7
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 103,
+      "gas:candidate-vibid:4744041290586": 1,
+      "gas:candidate-vibid:4744041290886": 17,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 2,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 2,
-      "Барышев Андрей Викторович": 49,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 11,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 7
+      "gas:candidate-vibid:4744041290924": 2,
+      "gas:candidate-vibid:4744041290994": 49,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 11,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 36,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 1,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 8
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 36,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 1,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 265,
-      "Волошина Гузелия Радиковна": 20,
-      "Гильмутдинов Эльдар Рафаильевич": 41,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 4,
-      "Разживин Михаил Юрьевич": 5,
-      "Талевлин Андрей Александрович": 1,
-      "Федотова Екатерина Игоревна": 79
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 265,
+      "gas:candidate-vibid:4744041290586": 20,
+      "gas:candidate-vibid:4744041290886": 41,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 4,
+      "gas:candidate-vibid:4744041290837": 5,
+      "gas:candidate-vibid:4744041291185": 1,
+      "gas:candidate-vibid:4744041290477": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 101,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 10,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 9
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 101,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 10,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 7,
-      "Барышев Андрей Викторович": 54,
-      "Волошина Гузелия Радиковна": 5,
-      "Гильмутдинов Эльдар Рафаильевич": 18,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 5,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 19
+      "gas:candidate-vibid:4744041290924": 7,
+      "gas:candidate-vibid:4744041290994": 54,
+      "gas:candidate-vibid:4744041290586": 5,
+      "gas:candidate-vibid:4744041290886": 18,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 5,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 60,
-      "Волошина Гузелия Радиковна": 1,
-      "Гильмутдинов Эльдар Рафаильевич": 2,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 0
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 60,
+      "gas:candidate-vibid:4744041290586": 1,
+      "gas:candidate-vibid:4744041290886": 2,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 66,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 1,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 1,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 10
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 66,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 1,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 1,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 152,
-      "Волошина Гузелия Радиковна": 16,
-      "Гильмутдинов Эльдар Рафаильевич": 12,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 28
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 152,
+      "gas:candidate-vibid:4744041290586": 16,
+      "gas:candidate-vibid:4744041290886": 12,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 64,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 5,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 12
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 64,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 5,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 24,
-      "Волошина Гузелия Радиковна": 2,
-      "Гильмутдинов Эльдар Рафаильевич": 4,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 10
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 24,
+      "gas:candidate-vibid:4744041290586": 2,
+      "gas:candidate-vibid:4744041290886": 4,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 27,
-      "Волошина Гузелия Радиковна": 2,
-      "Гильмутдинов Эльдар Рафаильевич": 3,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 0,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 0,
-      "Федотова Екатерина Игоревна": 8
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 27,
+      "gas:candidate-vibid:4744041290586": 2,
+      "gas:candidate-vibid:4744041290886": 3,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 0,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 0,
+      "gas:candidate-vibid:4744041290477": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143136&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143136&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 215,
-      "Волошина Гузелия Радиковна": 120,
-      "Гильмутдинов Эльдар Рафаильевич": 61,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 30,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 59,
-      "Федотова Екатерина Игоревна": 77
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 215,
+      "gas:candidate-vibid:4744041290586": 120,
+      "gas:candidate-vibid:4744041290886": 61,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 30,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 59,
+      "gas:candidate-vibid:4744041290477": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 23,
-      "Барышев Андрей Викторович": 256,
-      "Волошина Гузелия Радиковна": 194,
-      "Гильмутдинов Эльдар Рафаильевич": 103,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 20,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 50,
-      "Федотова Екатерина Игоревна": 98
+      "gas:candidate-vibid:4744041290924": 23,
+      "gas:candidate-vibid:4744041290994": 256,
+      "gas:candidate-vibid:4744041290586": 194,
+      "gas:candidate-vibid:4744041290886": 103,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 20,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 50,
+      "gas:candidate-vibid:4744041290477": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 9,
-      "Барышев Андрей Викторович": 173,
-      "Волошина Гузелия Радиковна": 193,
-      "Гильмутдинов Эльдар Рафаильевич": 52,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 46,
-      "Федотова Екатерина Игоревна": 73
+      "gas:candidate-vibid:4744041290924": 9,
+      "gas:candidate-vibid:4744041290994": 173,
+      "gas:candidate-vibid:4744041290586": 193,
+      "gas:candidate-vibid:4744041290886": 52,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 46,
+      "gas:candidate-vibid:4744041290477": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 8,
-      "Барышев Андрей Викторович": 170,
-      "Волошина Гузелия Радиковна": 100,
-      "Гильмутдинов Эльдар Рафаильевич": 63,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 11,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 35,
-      "Федотова Екатерина Игоревна": 47
+      "gas:candidate-vibid:4744041290924": 8,
+      "gas:candidate-vibid:4744041290994": 170,
+      "gas:candidate-vibid:4744041290586": 100,
+      "gas:candidate-vibid:4744041290886": 63,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 11,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 35,
+      "gas:candidate-vibid:4744041290477": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 205,
-      "Волошина Гузелия Радиковна": 100,
-      "Гильмутдинов Эльдар Рафаильевич": 47,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 29,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 57,
-      "Федотова Екатерина Игоревна": 56
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 205,
+      "gas:candidate-vibid:4744041290586": 100,
+      "gas:candidate-vibid:4744041290886": 47,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 29,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 57,
+      "gas:candidate-vibid:4744041290477": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 199,
-      "Волошина Гузелия Радиковна": 160,
-      "Гильмутдинов Эльдар Рафаильевич": 83,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 20,
-      "Разживин Михаил Юрьевич": 14,
-      "Талевлин Андрей Александрович": 45,
-      "Федотова Екатерина Игоревна": 64
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 199,
+      "gas:candidate-vibid:4744041290586": 160,
+      "gas:candidate-vibid:4744041290886": 83,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 20,
+      "gas:candidate-vibid:4744041290837": 14,
+      "gas:candidate-vibid:4744041291185": 45,
+      "gas:candidate-vibid:4744041290477": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 23,
-      "Барышев Андрей Викторович": 229,
-      "Волошина Гузелия Радиковна": 210,
-      "Гильмутдинов Эльдар Рафаильевич": 106,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 37,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 67,
-      "Федотова Екатерина Игоревна": 76
+      "gas:candidate-vibid:4744041290924": 23,
+      "gas:candidate-vibid:4744041290994": 229,
+      "gas:candidate-vibid:4744041290586": 210,
+      "gas:candidate-vibid:4744041290886": 106,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 37,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 67,
+      "gas:candidate-vibid:4744041290477": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 195,
-      "Волошина Гузелия Радиковна": 137,
-      "Гильмутдинов Эльдар Рафаильевич": 87,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 34,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 78,
-      "Федотова Екатерина Игоревна": 65
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 195,
+      "gas:candidate-vibid:4744041290586": 137,
+      "gas:candidate-vibid:4744041290886": 87,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 34,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 78,
+      "gas:candidate-vibid:4744041290477": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 320,
-      "Волошина Гузелия Радиковна": 226,
-      "Гильмутдинов Эльдар Рафаильевич": 117,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 58,
-      "Разживин Михаил Юрьевич": 20,
-      "Талевлин Андрей Александрович": 138,
-      "Федотова Екатерина Игоревна": 80
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 320,
+      "gas:candidate-vibid:4744041290586": 226,
+      "gas:candidate-vibid:4744041290886": 117,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 58,
+      "gas:candidate-vibid:4744041290837": 20,
+      "gas:candidate-vibid:4744041291185": 138,
+      "gas:candidate-vibid:4744041290477": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 102,
-      "Волошина Гузелия Радиковна": 84,
-      "Гильмутдинов Эльдар Рафаильевич": 56,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 12,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 47,
-      "Федотова Екатерина Игоревна": 39
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 102,
+      "gas:candidate-vibid:4744041290586": 84,
+      "gas:candidate-vibid:4744041290886": 56,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 12,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 47,
+      "gas:candidate-vibid:4744041290477": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 27,
-      "Барышев Андрей Викторович": 321,
-      "Волошина Гузелия Радиковна": 197,
-      "Гильмутдинов Эльдар Рафаильевич": 127,
-      "Кунгурцев Алексей Александрович": 12,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 34,
-      "Разживин Михаил Юрьевич": 20,
-      "Талевлин Андрей Александрович": 92,
-      "Федотова Екатерина Игоревна": 114
+      "gas:candidate-vibid:4744041290924": 27,
+      "gas:candidate-vibid:4744041290994": 321,
+      "gas:candidate-vibid:4744041290586": 197,
+      "gas:candidate-vibid:4744041290886": 127,
+      "gas:candidate-vibid:4744041291138": 12,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 34,
+      "gas:candidate-vibid:4744041290837": 20,
+      "gas:candidate-vibid:4744041291185": 92,
+      "gas:candidate-vibid:4744041290477": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 277,
-      "Волошина Гузелия Радиковна": 184,
-      "Гильмутдинов Эльдар Рафаильевич": 106,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 18,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 74,
-      "Федотова Екатерина Игоревна": 67
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 277,
+      "gas:candidate-vibid:4744041290586": 184,
+      "gas:candidate-vibid:4744041290886": 106,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 18,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 74,
+      "gas:candidate-vibid:4744041290477": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 17,
-      "Барышев Андрей Викторович": 158,
-      "Волошина Гузелия Радиковна": 113,
-      "Гильмутдинов Эльдар Рафаильевич": 59,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 19,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 59,
-      "Федотова Екатерина Игоревна": 45
+      "gas:candidate-vibid:4744041290924": 17,
+      "gas:candidate-vibid:4744041290994": 158,
+      "gas:candidate-vibid:4744041290586": 113,
+      "gas:candidate-vibid:4744041290886": 59,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 19,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 59,
+      "gas:candidate-vibid:4744041290477": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 160,
-      "Волошина Гузелия Радиковна": 148,
-      "Гильмутдинов Эльдар Рафаильевич": 60,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 37,
-      "Федотова Екатерина Игоревна": 54
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 160,
+      "gas:candidate-vibid:4744041290586": 148,
+      "gas:candidate-vibid:4744041290886": 60,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 37,
+      "gas:candidate-vibid:4744041290477": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 168,
-      "Волошина Гузелия Радиковна": 96,
-      "Гильмутдинов Эльдар Рафаильевич": 61,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 24,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 79,
-      "Федотова Екатерина Игоревна": 28
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 168,
+      "gas:candidate-vibid:4744041290586": 96,
+      "gas:candidate-vibid:4744041290886": 61,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 24,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 79,
+      "gas:candidate-vibid:4744041290477": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 161,
-      "Волошина Гузелия Радиковна": 52,
-      "Гильмутдинов Эльдар Рафаильевич": 43,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 12,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 26,
-      "Федотова Екатерина Игоревна": 35
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 161,
+      "gas:candidate-vibid:4744041290586": 52,
+      "gas:candidate-vibid:4744041290886": 43,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 12,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 26,
+      "gas:candidate-vibid:4744041290477": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 125,
-      "Волошина Гузелия Радиковна": 88,
-      "Гильмутдинов Эльдар Рафаильевич": 43,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 15,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 21,
-      "Федотова Екатерина Игоревна": 44
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 125,
+      "gas:candidate-vibid:4744041290586": 88,
+      "gas:candidate-vibid:4744041290886": 43,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 15,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 21,
+      "gas:candidate-vibid:4744041290477": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 65,
-      "Волошина Гузелия Радиковна": 43,
-      "Гильмутдинов Эльдар Рафаильевич": 30,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 5,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 22,
-      "Федотова Екатерина Игоревна": 22
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 65,
+      "gas:candidate-vibid:4744041290586": 43,
+      "gas:candidate-vibid:4744041290886": 30,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 5,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 22,
+      "gas:candidate-vibid:4744041290477": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 182,
-      "Волошина Гузелия Радиковна": 88,
-      "Гильмутдинов Эльдар Рафаильевич": 55,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 15,
-      "Разживин Михаил Юрьевич": 8,
-      "Талевлин Андрей Александрович": 55,
-      "Федотова Екатерина Игоревна": 62
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 182,
+      "gas:candidate-vibid:4744041290586": 88,
+      "gas:candidate-vibid:4744041290886": 55,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 15,
+      "gas:candidate-vibid:4744041290837": 8,
+      "gas:candidate-vibid:4744041291185": 55,
+      "gas:candidate-vibid:4744041290477": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 151,
-      "Волошина Гузелия Радиковна": 103,
-      "Гильмутдинов Эльдар Рафаильевич": 93,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 33,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 81,
-      "Федотова Екатерина Игоревна": 50
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 151,
+      "gas:candidate-vibid:4744041290586": 103,
+      "gas:candidate-vibid:4744041290886": 93,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 33,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 81,
+      "gas:candidate-vibid:4744041290477": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 151,
-      "Волошина Гузелия Радиковна": 121,
-      "Гильмутдинов Эльдар Рафаильевич": 84,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 16,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 44,
-      "Федотова Екатерина Игоревна": 47
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 151,
+      "gas:candidate-vibid:4744041290586": 121,
+      "gas:candidate-vibid:4744041290886": 84,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 16,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 44,
+      "gas:candidate-vibid:4744041290477": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 204,
-      "Волошина Гузелия Радиковна": 161,
-      "Гильмутдинов Эльдар Рафаильевич": 93,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 29,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 90,
-      "Федотова Екатерина Игоревна": 72
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 204,
+      "gas:candidate-vibid:4744041290586": 161,
+      "gas:candidate-vibid:4744041290886": 93,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 29,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 90,
+      "gas:candidate-vibid:4744041290477": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 214,
-      "Волошина Гузелия Радиковна": 117,
-      "Гильмутдинов Эльдар Рафаильевич": 102,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 43,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 59,
-      "Федотова Екатерина Игоревна": 80
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 214,
+      "gas:candidate-vibid:4744041290586": 117,
+      "gas:candidate-vibid:4744041290886": 102,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 43,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 59,
+      "gas:candidate-vibid:4744041290477": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 248,
-      "Волошина Гузелия Радиковна": 138,
-      "Гильмутдинов Эльдар Рафаильевич": 67,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 31,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 52,
-      "Федотова Екатерина Игоревна": 80
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 248,
+      "gas:candidate-vibid:4744041290586": 138,
+      "gas:candidate-vibid:4744041290886": 67,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 31,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 52,
+      "gas:candidate-vibid:4744041290477": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 22,
-      "Барышев Андрей Викторович": 263,
-      "Волошина Гузелия Радиковна": 160,
-      "Гильмутдинов Эльдар Рафаильевич": 114,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 34,
-      "Разживин Михаил Юрьевич": 30,
-      "Талевлин Андрей Александрович": 70,
-      "Федотова Екатерина Игоревна": 128
+      "gas:candidate-vibid:4744041290924": 22,
+      "gas:candidate-vibid:4744041290994": 263,
+      "gas:candidate-vibid:4744041290586": 160,
+      "gas:candidate-vibid:4744041290886": 114,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 34,
+      "gas:candidate-vibid:4744041290837": 30,
+      "gas:candidate-vibid:4744041291185": 70,
+      "gas:candidate-vibid:4744041290477": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 179,
-      "Волошина Гузелия Радиковна": 92,
-      "Гильмутдинов Эльдар Рафаильевич": 60,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 14,
-      "Талевлин Андрей Александрович": 55,
-      "Федотова Екатерина Игоревна": 61
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 179,
+      "gas:candidate-vibid:4744041290586": 92,
+      "gas:candidate-vibid:4744041290886": 60,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 14,
+      "gas:candidate-vibid:4744041291185": 55,
+      "gas:candidate-vibid:4744041290477": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 219,
-      "Волошина Гузелия Радиковна": 134,
-      "Гильмутдинов Эльдар Рафаильевич": 90,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 37,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 49,
-      "Федотова Екатерина Игоревна": 75
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 219,
+      "gas:candidate-vibid:4744041290586": 134,
+      "gas:candidate-vibid:4744041290886": 90,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 37,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 49,
+      "gas:candidate-vibid:4744041290477": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 203,
-      "Волошина Гузелия Радиковна": 138,
-      "Гильмутдинов Эльдар Рафаильевич": 91,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 23,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 58,
-      "Федотова Екатерина Игоревна": 58
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 203,
+      "gas:candidate-vibid:4744041290586": 138,
+      "gas:candidate-vibid:4744041290886": 91,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 23,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 58,
+      "gas:candidate-vibid:4744041290477": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 34,
-      "Барышев Андрей Викторович": 274,
-      "Волошина Гузелия Радиковна": 213,
-      "Гильмутдинов Эльдар Рафаильевич": 122,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 38,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 93,
-      "Федотова Екатерина Игоревна": 114
+      "gas:candidate-vibid:4744041290924": 34,
+      "gas:candidate-vibid:4744041290994": 274,
+      "gas:candidate-vibid:4744041290586": 213,
+      "gas:candidate-vibid:4744041290886": 122,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 38,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 93,
+      "gas:candidate-vibid:4744041290477": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 128,
-      "Волошина Гузелия Радиковна": 92,
-      "Гильмутдинов Эльдар Рафаильевич": 53,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 21,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 29,
-      "Федотова Екатерина Игоревна": 46
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 128,
+      "gas:candidate-vibid:4744041290586": 92,
+      "gas:candidate-vibid:4744041290886": 53,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 21,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 29,
+      "gas:candidate-vibid:4744041290477": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 230,
-      "Волошина Гузелия Радиковна": 154,
-      "Гильмутдинов Эльдар Рафаильевич": 96,
-      "Кунгурцев Алексей Александрович": 12,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 42,
-      "Разживин Михаил Юрьевич": 25,
-      "Талевлин Андрей Александрович": 85,
-      "Федотова Екатерина Игоревна": 54
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 230,
+      "gas:candidate-vibid:4744041290586": 154,
+      "gas:candidate-vibid:4744041290886": 96,
+      "gas:candidate-vibid:4744041291138": 12,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 42,
+      "gas:candidate-vibid:4744041290837": 25,
+      "gas:candidate-vibid:4744041291185": 85,
+      "gas:candidate-vibid:4744041290477": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 21,
-      "Барышев Андрей Викторович": 191,
-      "Волошина Гузелия Радиковна": 82,
-      "Гильмутдинов Эльдар Рафаильевич": 73,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 38,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 72,
-      "Федотова Екатерина Игоревна": 63
+      "gas:candidate-vibid:4744041290924": 21,
+      "gas:candidate-vibid:4744041290994": 191,
+      "gas:candidate-vibid:4744041290586": 82,
+      "gas:candidate-vibid:4744041290886": 73,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 38,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 72,
+      "gas:candidate-vibid:4744041290477": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 122,
-      "Волошина Гузелия Радиковна": 73,
-      "Гильмутдинов Эльдар Рафаильевич": 46,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 11,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 37,
-      "Федотова Екатерина Игоревна": 32
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 122,
+      "gas:candidate-vibid:4744041290586": 73,
+      "gas:candidate-vibid:4744041290886": 46,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 11,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 37,
+      "gas:candidate-vibid:4744041290477": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 22,
-      "Барышев Андрей Викторович": 322,
-      "Волошина Гузелия Радиковна": 174,
-      "Гильмутдинов Эльдар Рафаильевич": 97,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 32,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 74,
-      "Федотова Екатерина Игоревна": 94
+      "gas:candidate-vibid:4744041290924": 22,
+      "gas:candidate-vibid:4744041290994": 322,
+      "gas:candidate-vibid:4744041290586": 174,
+      "gas:candidate-vibid:4744041290886": 97,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 32,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 74,
+      "gas:candidate-vibid:4744041290477": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 368,
-      "Волошина Гузелия Радиковна": 212,
-      "Гильмутдинов Эльдар Рафаильевич": 108,
-      "Кунгурцев Алексей Александрович": 12,
-      "Мухаметшин Рамиль Анварович": 13,
-      "Неуймин Алексей Викторович": 48,
-      "Разживин Михаил Юрьевич": 21,
-      "Талевлин Андрей Александрович": 75,
-      "Федотова Екатерина Игоревна": 138
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 368,
+      "gas:candidate-vibid:4744041290586": 212,
+      "gas:candidate-vibid:4744041290886": 108,
+      "gas:candidate-vibid:4744041291138": 12,
+      "gas:candidate-vibid:4744041291119": 13,
+      "gas:candidate-vibid:4744041291088": 48,
+      "gas:candidate-vibid:4744041290837": 21,
+      "gas:candidate-vibid:4744041291185": 75,
+      "gas:candidate-vibid:4744041290477": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 17,
-      "Барышев Андрей Викторович": 181,
-      "Волошина Гузелия Радиковна": 130,
-      "Гильмутдинов Эльдар Рафаильевич": 73,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 55,
-      "Федотова Екатерина Игоревна": 51
+      "gas:candidate-vibid:4744041290924": 17,
+      "gas:candidate-vibid:4744041290994": 181,
+      "gas:candidate-vibid:4744041290586": 130,
+      "gas:candidate-vibid:4744041290886": 73,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 55,
+      "gas:candidate-vibid:4744041290477": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 87,
-      "Волошина Гузелия Радиковна": 60,
-      "Гильмутдинов Эльдар Рафаильевич": 36,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 12,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 24,
-      "Федотова Екатерина Игоревна": 39
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 87,
+      "gas:candidate-vibid:4744041290586": 60,
+      "gas:candidate-vibid:4744041290886": 36,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 12,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 24,
+      "gas:candidate-vibid:4744041290477": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 34,
-      "Барышев Андрей Викторович": 284,
-      "Волошина Гузелия Радиковна": 187,
-      "Гильмутдинов Эльдар Рафаильевич": 96,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 41,
-      "Разживин Михаил Юрьевич": 14,
-      "Талевлин Андрей Александрович": 64,
-      "Федотова Екатерина Игоревна": 85
+      "gas:candidate-vibid:4744041290924": 34,
+      "gas:candidate-vibid:4744041290994": 284,
+      "gas:candidate-vibid:4744041290586": 187,
+      "gas:candidate-vibid:4744041290886": 96,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 41,
+      "gas:candidate-vibid:4744041290837": 14,
+      "gas:candidate-vibid:4744041291185": 64,
+      "gas:candidate-vibid:4744041290477": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 29,
-      "Барышев Андрей Викторович": 197,
-      "Волошина Гузелия Радиковна": 154,
-      "Гильмутдинов Эльдар Рафаильевич": 73,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 16,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 55,
-      "Федотова Екатерина Игоревна": 80
+      "gas:candidate-vibid:4744041290924": 29,
+      "gas:candidate-vibid:4744041290994": 197,
+      "gas:candidate-vibid:4744041290586": 154,
+      "gas:candidate-vibid:4744041290886": 73,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 16,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 55,
+      "gas:candidate-vibid:4744041290477": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 262,
-      "Волошина Гузелия Радиковна": 125,
-      "Гильмутдинов Эльдар Рафаильевич": 45,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 23,
-      "Разживин Михаил Юрьевич": 8,
-      "Талевлин Андрей Александрович": 19,
-      "Федотова Екатерина Игоревна": 158
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 262,
+      "gas:candidate-vibid:4744041290586": 125,
+      "gas:candidate-vibid:4744041290886": 45,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 23,
+      "gas:candidate-vibid:4744041290837": 8,
+      "gas:candidate-vibid:4744041291185": 19,
+      "gas:candidate-vibid:4744041290477": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 29,
-      "Барышев Андрей Викторович": 248,
-      "Волошина Гузелия Радиковна": 180,
-      "Гильмутдинов Эльдар Рафаильевич": 86,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 45,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 67,
-      "Федотова Екатерина Игоревна": 109
+      "gas:candidate-vibid:4744041290924": 29,
+      "gas:candidate-vibid:4744041290994": 248,
+      "gas:candidate-vibid:4744041290586": 180,
+      "gas:candidate-vibid:4744041290886": 86,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 45,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 67,
+      "gas:candidate-vibid:4744041290477": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 27,
-      "Барышев Андрей Викторович": 223,
-      "Волошина Гузелия Радиковна": 141,
-      "Гильмутдинов Эльдар Рафаильевич": 57,
-      "Кунгурцев Алексей Александрович": 16,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 34,
-      "Разживин Михаил Юрьевич": 22,
-      "Талевлин Андрей Александрович": 68,
-      "Федотова Екатерина Игоревна": 90
+      "gas:candidate-vibid:4744041290924": 27,
+      "gas:candidate-vibid:4744041290994": 223,
+      "gas:candidate-vibid:4744041290586": 141,
+      "gas:candidate-vibid:4744041290886": 57,
+      "gas:candidate-vibid:4744041291138": 16,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 34,
+      "gas:candidate-vibid:4744041290837": 22,
+      "gas:candidate-vibid:4744041291185": 68,
+      "gas:candidate-vibid:4744041290477": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 43,
-      "Волошина Гузелия Радиковна": 22,
-      "Гильмутдинов Эльдар Рафаильевич": 15,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 3,
-      "Разживин Михаил Юрьевич": 2,
-      "Талевлин Андрей Александрович": 7,
-      "Федотова Екатерина Игоревна": 11
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 43,
+      "gas:candidate-vibid:4744041290586": 22,
+      "gas:candidate-vibid:4744041290886": 15,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 3,
+      "gas:candidate-vibid:4744041290837": 2,
+      "gas:candidate-vibid:4744041291185": 7,
+      "gas:candidate-vibid:4744041290477": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 3,
-      "Барышев Андрей Викторович": 59,
-      "Волошина Гузелия Радиковна": 26,
-      "Гильмутдинов Эльдар Рафаильевич": 11,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 5,
-      "Разживин Михаил Юрьевич": 3,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 9
+      "gas:candidate-vibid:4744041290924": 3,
+      "gas:candidate-vibid:4744041290994": 59,
+      "gas:candidate-vibid:4744041290586": 26,
+      "gas:candidate-vibid:4744041290886": 11,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 5,
+      "gas:candidate-vibid:4744041290837": 3,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 1,
-      "Барышев Андрей Викторович": 13,
-      "Волошина Гузелия Радиковна": 3,
-      "Гильмутдинов Эльдар Рафаильевич": 5,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 4,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 7
+      "gas:candidate-vibid:4744041290924": 1,
+      "gas:candidate-vibid:4744041290994": 13,
+      "gas:candidate-vibid:4744041290586": 3,
+      "gas:candidate-vibid:4744041290886": 5,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 4,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 12,
-      "Волошина Гузелия Радиковна": 8,
-      "Гильмутдинов Эльдар Рафаильевич": 6,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 1,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 2,
-      "Федотова Екатерина Игоревна": 3
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 12,
+      "gas:candidate-vibid:4744041290586": 8,
+      "gas:candidate-vibid:4744041290886": 6,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 1,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 2,
+      "gas:candidate-vibid:4744041290477": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 245,
-      "Волошина Гузелия Радиковна": 201,
-      "Гильмутдинов Эльдар Рафаильевич": 119,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 47,
-      "Разживин Михаил Юрьевич": 23,
-      "Талевлин Андрей Александрович": 64,
-      "Федотова Екатерина Игоревна": 120
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 245,
+      "gas:candidate-vibid:4744041290586": 201,
+      "gas:candidate-vibid:4744041290886": 119,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 47,
+      "gas:candidate-vibid:4744041290837": 23,
+      "gas:candidate-vibid:4744041291185": 64,
+      "gas:candidate-vibid:4744041290477": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 133,
-      "Волошина Гузелия Радиковна": 63,
-      "Гильмутдинов Эльдар Рафаильевич": 50,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 20,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 17,
-      "Федотова Екатерина Игоревна": 62
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 133,
+      "gas:candidate-vibid:4744041290586": 63,
+      "gas:candidate-vibid:4744041290886": 50,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 20,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 17,
+      "gas:candidate-vibid:4744041290477": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143137&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143137&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 251,
-      "Волошина Гузелия Радиковна": 146,
-      "Гильмутдинов Эльдар Рафаильевич": 93,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 18,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 50,
-      "Федотова Екатерина Игоревна": 98
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 251,
+      "gas:candidate-vibid:4744041290586": 146,
+      "gas:candidate-vibid:4744041290886": 93,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 18,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 50,
+      "gas:candidate-vibid:4744041290477": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 230,
-      "Волошина Гузелия Радиковна": 184,
-      "Гильмутдинов Эльдар Рафаильевич": 91,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 30,
-      "Разживин Михаил Юрьевич": 23,
-      "Талевлин Андрей Александрович": 105,
-      "Федотова Екатерина Игоревна": 24
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 230,
+      "gas:candidate-vibid:4744041290586": 184,
+      "gas:candidate-vibid:4744041290886": 91,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 30,
+      "gas:candidate-vibid:4744041290837": 23,
+      "gas:candidate-vibid:4744041291185": 105,
+      "gas:candidate-vibid:4744041290477": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 9,
-      "Барышев Андрей Викторович": 249,
-      "Волошина Гузелия Радиковна": 142,
-      "Гильмутдинов Эльдар Рафаильевич": 63,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 21,
-      "Разживин Михаил Юрьевич": 14,
-      "Талевлин Андрей Александрович": 27,
-      "Федотова Екатерина Игоревна": 70
+      "gas:candidate-vibid:4744041290924": 9,
+      "gas:candidate-vibid:4744041290994": 249,
+      "gas:candidate-vibid:4744041290586": 142,
+      "gas:candidate-vibid:4744041290886": 63,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 21,
+      "gas:candidate-vibid:4744041290837": 14,
+      "gas:candidate-vibid:4744041291185": 27,
+      "gas:candidate-vibid:4744041290477": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 248,
-      "Волошина Гузелия Радиковна": 190,
-      "Гильмутдинов Эльдар Рафаильевич": 68,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 29,
-      "Федотова Екатерина Игоревна": 98
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 248,
+      "gas:candidate-vibid:4744041290586": 190,
+      "gas:candidate-vibid:4744041290886": 68,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 29,
+      "gas:candidate-vibid:4744041290477": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 9,
-      "Барышев Андрей Викторович": 205,
-      "Волошина Гузелия Радиковна": 124,
-      "Гильмутдинов Эльдар Рафаильевич": 48,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 8,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 26,
-      "Федотова Екатерина Игоревна": 51
+      "gas:candidate-vibid:4744041290924": 9,
+      "gas:candidate-vibid:4744041290994": 205,
+      "gas:candidate-vibid:4744041290586": 124,
+      "gas:candidate-vibid:4744041290886": 48,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 8,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 26,
+      "gas:candidate-vibid:4744041290477": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 173,
-      "Волошина Гузелия Радиковна": 137,
-      "Гильмутдинов Эльдар Рафаильевич": 57,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 13,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 16,
-      "Федотова Екатерина Игоревна": 51
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 173,
+      "gas:candidate-vibid:4744041290586": 137,
+      "gas:candidate-vibid:4744041290886": 57,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 13,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 16,
+      "gas:candidate-vibid:4744041290477": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 24,
-      "Барышев Андрей Викторович": 298,
-      "Волошина Гузелия Радиковна": 236,
-      "Гильмутдинов Эльдар Рафаильевич": 101,
-      "Кунгурцев Алексей Александрович": 14,
-      "Мухаметшин Рамиль Анварович": 13,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 23,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 116
+      "gas:candidate-vibid:4744041290924": 24,
+      "gas:candidate-vibid:4744041290994": 298,
+      "gas:candidate-vibid:4744041290586": 236,
+      "gas:candidate-vibid:4744041290886": 101,
+      "gas:candidate-vibid:4744041291138": 14,
+      "gas:candidate-vibid:4744041291119": 13,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 23,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 24,
-      "Барышев Андрей Викторович": 275,
-      "Волошина Гузелия Радиковна": 190,
-      "Гильмутдинов Эльдар Рафаильевич": 132,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 23,
-      "Неуймин Алексей Викторович": 27,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 76
+      "gas:candidate-vibid:4744041290924": 24,
+      "gas:candidate-vibid:4744041290994": 275,
+      "gas:candidate-vibid:4744041290586": 190,
+      "gas:candidate-vibid:4744041290886": 132,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 23,
+      "gas:candidate-vibid:4744041291088": 27,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 246,
-      "Волошина Гузелия Радиковна": 168,
-      "Гильмутдинов Эльдар Рафаильевич": 98,
-      "Кунгурцев Алексей Александрович": 14,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 17,
-      "Талевлин Андрей Александрович": 40,
-      "Федотова Екатерина Игоревна": 88
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 246,
+      "gas:candidate-vibid:4744041290586": 168,
+      "gas:candidate-vibid:4744041290886": 98,
+      "gas:candidate-vibid:4744041291138": 14,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 17,
+      "gas:candidate-vibid:4744041291185": 40,
+      "gas:candidate-vibid:4744041290477": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 164,
-      "Волошина Гузелия Радиковна": 122,
-      "Гильмутдинов Эльдар Рафаильевич": 84,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 12,
-      "Неуймин Алексей Викторович": 17,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 28,
-      "Федотова Екатерина Игоревна": 68
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 164,
+      "gas:candidate-vibid:4744041290586": 122,
+      "gas:candidate-vibid:4744041290886": 84,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 12,
+      "gas:candidate-vibid:4744041291088": 17,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 28,
+      "gas:candidate-vibid:4744041290477": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 180,
-      "Волошина Гузелия Радиковна": 145,
-      "Гильмутдинов Эльдар Рафаильевич": 62,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 8,
-      "Талевлин Андрей Александрович": 21,
-      "Федотова Екатерина Игоревна": 50
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 180,
+      "gas:candidate-vibid:4744041290586": 145,
+      "gas:candidate-vibid:4744041290886": 62,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 8,
+      "gas:candidate-vibid:4744041291185": 21,
+      "gas:candidate-vibid:4744041290477": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 226,
-      "Волошина Гузелия Радиковна": 160,
-      "Гильмутдинов Эльдар Рафаильевич": 95,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 15,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 31,
-      "Федотова Екатерина Игоревна": 65
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 226,
+      "gas:candidate-vibid:4744041290586": 160,
+      "gas:candidate-vibid:4744041290886": 95,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 15,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 31,
+      "gas:candidate-vibid:4744041290477": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 278,
-      "Волошина Гузелия Радиковна": 180,
-      "Гильмутдинов Эльдар Рафаильевич": 73,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 18,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 27,
-      "Федотова Екатерина Игоревна": 59
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 278,
+      "gas:candidate-vibid:4744041290586": 180,
+      "gas:candidate-vibid:4744041290886": 73,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 18,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 27,
+      "gas:candidate-vibid:4744041290477": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 22,
-      "Барышев Андрей Викторович": 310,
-      "Волошина Гузелия Радиковна": 260,
-      "Гильмутдинов Эльдар Рафаильевич": 114,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 11,
-      "Неуймин Алексей Викторович": 28,
-      "Разживин Михаил Юрьевич": 17,
-      "Талевлин Андрей Александрович": 42,
-      "Федотова Екатерина Игоревна": 89
+      "gas:candidate-vibid:4744041290924": 22,
+      "gas:candidate-vibid:4744041290994": 310,
+      "gas:candidate-vibid:4744041290586": 260,
+      "gas:candidate-vibid:4744041290886": 114,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 11,
+      "gas:candidate-vibid:4744041291088": 28,
+      "gas:candidate-vibid:4744041290837": 17,
+      "gas:candidate-vibid:4744041291185": 42,
+      "gas:candidate-vibid:4744041290477": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 8,
-      "Барышев Андрей Викторович": 298,
-      "Волошина Гузелия Радиковна": 155,
-      "Гильмутдинов Эльдар Рафаильевич": 62,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 24,
-      "Федотова Екатерина Игоревна": 82
+      "gas:candidate-vibid:4744041290924": 8,
+      "gas:candidate-vibid:4744041290994": 298,
+      "gas:candidate-vibid:4744041290586": 155,
+      "gas:candidate-vibid:4744041290886": 62,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 24,
+      "gas:candidate-vibid:4744041290477": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 270,
-      "Волошина Гузелия Радиковна": 191,
-      "Гильмутдинов Эльдар Рафаильевич": 86,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 28,
-      "Федотова Екатерина Игоревна": 52
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 270,
+      "gas:candidate-vibid:4744041290586": 191,
+      "gas:candidate-vibid:4744041290886": 86,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 28,
+      "gas:candidate-vibid:4744041290477": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 7,
-      "Барышев Андрей Викторович": 170,
-      "Волошина Гузелия Радиковна": 150,
-      "Гильмутдинов Эльдар Рафаильевич": 73,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 16,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 47,
-      "Федотова Екатерина Игоревна": 62
+      "gas:candidate-vibid:4744041290924": 7,
+      "gas:candidate-vibid:4744041290994": 170,
+      "gas:candidate-vibid:4744041290586": 150,
+      "gas:candidate-vibid:4744041290886": 73,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 16,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 47,
+      "gas:candidate-vibid:4744041290477": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 213,
-      "Волошина Гузелия Радиковна": 203,
-      "Гильмутдинов Эльдар Рафаильевич": 76,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 30,
-      "Федотова Екатерина Игоревна": 66
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 213,
+      "gas:candidate-vibid:4744041290586": 203,
+      "gas:candidate-vibid:4744041290886": 76,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 30,
+      "gas:candidate-vibid:4744041290477": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 9,
-      "Барышев Андрей Викторович": 181,
-      "Волошина Гузелия Радиковна": 202,
-      "Гильмутдинов Эльдар Рафаильевич": 68,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 15,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 20,
-      "Федотова Екатерина Игоревна": 51
+      "gas:candidate-vibid:4744041290924": 9,
+      "gas:candidate-vibid:4744041290994": 181,
+      "gas:candidate-vibid:4744041290586": 202,
+      "gas:candidate-vibid:4744041290886": 68,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 15,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 20,
+      "gas:candidate-vibid:4744041290477": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 314,
-      "Волошина Гузелия Радиковна": 307,
-      "Гильмутдинов Эльдар Рафаильевич": 124,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 28,
-      "Разживин Михаил Юрьевич": 20,
-      "Талевлин Андрей Александрович": 52,
-      "Федотова Екатерина Игоревна": 102
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 314,
+      "gas:candidate-vibid:4744041290586": 307,
+      "gas:candidate-vibid:4744041290886": 124,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 28,
+      "gas:candidate-vibid:4744041290837": 20,
+      "gas:candidate-vibid:4744041291185": 52,
+      "gas:candidate-vibid:4744041290477": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 9,
-      "Барышев Андрей Викторович": 232,
-      "Волошина Гузелия Радиковна": 266,
-      "Гильмутдинов Эльдар Рафаильевич": 104,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 19,
-      "Разживин Михаил Юрьевич": 17,
-      "Талевлин Андрей Александрович": 32,
-      "Федотова Екатерина Игоревна": 86
+      "gas:candidate-vibid:4744041290924": 9,
+      "gas:candidate-vibid:4744041290994": 232,
+      "gas:candidate-vibid:4744041290586": 266,
+      "gas:candidate-vibid:4744041290886": 104,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 19,
+      "gas:candidate-vibid:4744041290837": 17,
+      "gas:candidate-vibid:4744041291185": 32,
+      "gas:candidate-vibid:4744041290477": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 17,
-      "Барышев Андрей Викторович": 276,
-      "Волошина Гузелия Радиковна": 255,
-      "Гильмутдинов Эльдар Рафаильевич": 126,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 32,
-      "Разживин Михаил Юрьевич": 20,
-      "Талевлин Андрей Александрович": 47,
-      "Федотова Екатерина Игоревна": 90
+      "gas:candidate-vibid:4744041290924": 17,
+      "gas:candidate-vibid:4744041290994": 276,
+      "gas:candidate-vibid:4744041290586": 255,
+      "gas:candidate-vibid:4744041290886": 126,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 32,
+      "gas:candidate-vibid:4744041290837": 20,
+      "gas:candidate-vibid:4744041291185": 47,
+      "gas:candidate-vibid:4744041290477": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 244,
-      "Волошина Гузелия Радиковна": 145,
-      "Гильмутдинов Эльдар Рафаильевич": 97,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 27,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 37,
-      "Федотова Екатерина Игоревна": 91
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 244,
+      "gas:candidate-vibid:4744041290586": 145,
+      "gas:candidate-vibid:4744041290886": 97,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 27,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 37,
+      "gas:candidate-vibid:4744041290477": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 348,
-      "Волошина Гузелия Радиковна": 292,
-      "Гильмутдинов Эльдар Рафаильевич": 123,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 11,
-      "Неуймин Алексей Викторович": 28,
-      "Разживин Михаил Юрьевич": 20,
-      "Талевлин Андрей Александрович": 38,
-      "Федотова Екатерина Игоревна": 115
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 348,
+      "gas:candidate-vibid:4744041290586": 292,
+      "gas:candidate-vibid:4744041290886": 123,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 11,
+      "gas:candidate-vibid:4744041291088": 28,
+      "gas:candidate-vibid:4744041290837": 20,
+      "gas:candidate-vibid:4744041291185": 38,
+      "gas:candidate-vibid:4744041290477": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 179,
-      "Волошина Гузелия Радиковна": 145,
-      "Гильмутдинов Эльдар Рафаильевич": 82,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 23,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 47,
-      "Федотова Екатерина Игоревна": 59
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 179,
+      "gas:candidate-vibid:4744041290586": 145,
+      "gas:candidate-vibid:4744041290886": 82,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 23,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 47,
+      "gas:candidate-vibid:4744041290477": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 323,
-      "Волошина Гузелия Радиковна": 271,
-      "Гильмутдинов Эльдар Рафаильевич": 112,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 29,
-      "Разживин Михаил Юрьевич": 20,
-      "Талевлин Андрей Александрович": 40,
-      "Федотова Екатерина Игоревна": 83
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 323,
+      "gas:candidate-vibid:4744041290586": 271,
+      "gas:candidate-vibid:4744041290886": 112,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 29,
+      "gas:candidate-vibid:4744041290837": 20,
+      "gas:candidate-vibid:4744041291185": 40,
+      "gas:candidate-vibid:4744041290477": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 308,
-      "Волошина Гузелия Радиковна": 216,
-      "Гильмутдинов Эльдар Рафаильевич": 109,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 21,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 69,
-      "Федотова Екатерина Игоревна": 108
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 308,
+      "gas:candidate-vibid:4744041290586": 216,
+      "gas:candidate-vibid:4744041290886": 109,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 21,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 69,
+      "gas:candidate-vibid:4744041290477": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 215,
-      "Волошина Гузелия Радиковна": 218,
-      "Гильмутдинов Эльдар Рафаильевич": 89,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 34,
-      "Разживин Михаил Юрьевич": 17,
-      "Талевлин Андрей Александрович": 52,
-      "Федотова Екатерина Игоревна": 112
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 215,
+      "gas:candidate-vibid:4744041290586": 218,
+      "gas:candidate-vibid:4744041290886": 89,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 34,
+      "gas:candidate-vibid:4744041290837": 17,
+      "gas:candidate-vibid:4744041291185": 52,
+      "gas:candidate-vibid:4744041290477": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 296,
-      "Волошина Гузелия Радиковна": 189,
-      "Гильмутдинов Эльдар Рафаильевич": 125,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 53,
-      "Федотова Екатерина Игоревна": 100
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 296,
+      "gas:candidate-vibid:4744041290586": 189,
+      "gas:candidate-vibid:4744041290886": 125,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 53,
+      "gas:candidate-vibid:4744041290477": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 28,
-      "Барышев Андрей Викторович": 382,
-      "Волошина Гузелия Радиковна": 247,
-      "Гильмутдинов Эльдар Рафаильевич": 123,
-      "Кунгурцев Алексей Александрович": 14,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 21,
-      "Талевлин Андрей Александрович": 44,
-      "Федотова Екатерина Игоревна": 134
+      "gas:candidate-vibid:4744041290924": 28,
+      "gas:candidate-vibid:4744041290994": 382,
+      "gas:candidate-vibid:4744041290586": 247,
+      "gas:candidate-vibid:4744041290886": 123,
+      "gas:candidate-vibid:4744041291138": 14,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 21,
+      "gas:candidate-vibid:4744041291185": 44,
+      "gas:candidate-vibid:4744041290477": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 7,
-      "Барышев Андрей Викторович": 225,
-      "Волошина Гузелия Радиковна": 201,
-      "Гильмутдинов Эльдар Рафаильевич": 83,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 9,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 81
+      "gas:candidate-vibid:4744041290924": 7,
+      "gas:candidate-vibid:4744041290994": 225,
+      "gas:candidate-vibid:4744041290586": 201,
+      "gas:candidate-vibid:4744041290886": 83,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 9,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 217,
-      "Волошина Гузелия Радиковна": 159,
-      "Гильмутдинов Эльдар Рафаильевич": 83,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 40,
-      "Федотова Екатерина Игоревна": 77
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 217,
+      "gas:candidate-vibid:4744041290586": 159,
+      "gas:candidate-vibid:4744041290886": 83,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 40,
+      "gas:candidate-vibid:4744041290477": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 195,
-      "Волошина Гузелия Радиковна": 168,
-      "Гильмутдинов Эльдар Рафаильевич": 100,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 17,
-      "Федотова Екатерина Игоревна": 54
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 195,
+      "gas:candidate-vibid:4744041290586": 168,
+      "gas:candidate-vibid:4744041290886": 100,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 17,
+      "gas:candidate-vibid:4744041290477": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 294,
-      "Волошина Гузелия Радиковна": 255,
-      "Гильмутдинов Эльдар Рафаильевич": 100,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 41,
-      "Федотова Екатерина Игоревна": 89
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 294,
+      "gas:candidate-vibid:4744041290586": 255,
+      "gas:candidate-vibid:4744041290886": 100,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 41,
+      "gas:candidate-vibid:4744041290477": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 282,
-      "Волошина Гузелия Радиковна": 177,
-      "Гильмутдинов Эльдар Рафаильевич": 65,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 31,
-      "Федотова Екатерина Игоревна": 58
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 282,
+      "gas:candidate-vibid:4744041290586": 177,
+      "gas:candidate-vibid:4744041290886": 65,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 31,
+      "gas:candidate-vibid:4744041290477": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 269,
-      "Волошина Гузелия Радиковна": 259,
-      "Гильмутдинов Эльдар Рафаильевич": 114,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 20,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 47,
-      "Федотова Екатерина Игоревна": 115
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 269,
+      "gas:candidate-vibid:4744041290586": 259,
+      "gas:candidate-vibid:4744041290886": 114,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 20,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 47,
+      "gas:candidate-vibid:4744041290477": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 284,
-      "Волошина Гузелия Радиковна": 282,
-      "Гильмутдинов Эльдар Рафаильевич": 118,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 28,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 127
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 284,
+      "gas:candidate-vibid:4744041290586": 282,
+      "gas:candidate-vibid:4744041290886": 118,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 28,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 394,
-      "Волошина Гузелия Радиковна": 345,
-      "Гильмутдинов Эльдар Рафаильевич": 105,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 31,
-      "Разживин Михаил Юрьевич": 22,
-      "Талевлин Андрей Александрович": 51,
-      "Федотова Екатерина Игоревна": 125
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 394,
+      "gas:candidate-vibid:4744041290586": 345,
+      "gas:candidate-vibid:4744041290886": 105,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 31,
+      "gas:candidate-vibid:4744041290837": 22,
+      "gas:candidate-vibid:4744041291185": 51,
+      "gas:candidate-vibid:4744041290477": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 27,
-      "Барышев Андрей Викторович": 366,
-      "Волошина Гузелия Радиковна": 302,
-      "Гильмутдинов Эльдар Рафаильевич": 99,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 44,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 41,
-      "Федотова Екатерина Игоревна": 124
+      "gas:candidate-vibid:4744041290924": 27,
+      "gas:candidate-vibid:4744041290994": 366,
+      "gas:candidate-vibid:4744041290586": 302,
+      "gas:candidate-vibid:4744041290886": 99,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 44,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 41,
+      "gas:candidate-vibid:4744041290477": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 10,
-      "Барышев Андрей Викторович": 230,
-      "Волошина Гузелия Радиковна": 187,
-      "Гильмутдинов Эльдар Рафаильевич": 62,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 11,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 49,
-      "Федотова Екатерина Игоревна": 72
+      "gas:candidate-vibid:4744041290924": 10,
+      "gas:candidate-vibid:4744041290994": 230,
+      "gas:candidate-vibid:4744041290586": 187,
+      "gas:candidate-vibid:4744041290886": 62,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 11,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 49,
+      "gas:candidate-vibid:4744041290477": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 240,
-      "Волошина Гузелия Радиковна": 197,
-      "Гильмутдинов Эльдар Рафаильевич": 77,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 14,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 26,
-      "Федотова Екатерина Игоревна": 81
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 240,
+      "gas:candidate-vibid:4744041290586": 197,
+      "gas:candidate-vibid:4744041290886": 77,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 14,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 26,
+      "gas:candidate-vibid:4744041290477": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 254,
-      "Волошина Гузелия Радиковна": 173,
-      "Гильмутдинов Эльдар Рафаильевич": 62,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 17,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 66
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 254,
+      "gas:candidate-vibid:4744041290586": 173,
+      "gas:candidate-vibid:4744041290886": 62,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 17,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 17,
-      "Барышев Андрей Викторович": 251,
-      "Волошина Гузелия Радиковна": 164,
-      "Гильмутдинов Эльдар Рафаильевич": 81,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 23,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 35,
-      "Федотова Екатерина Игоревна": 65
+      "gas:candidate-vibid:4744041290924": 17,
+      "gas:candidate-vibid:4744041290994": 251,
+      "gas:candidate-vibid:4744041290586": 164,
+      "gas:candidate-vibid:4744041290886": 81,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 23,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 35,
+      "gas:candidate-vibid:4744041290477": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 252,
-      "Волошина Гузелия Радиковна": 206,
-      "Гильмутдинов Эльдар Рафаильевич": 77,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 37,
-      "Федотова Екатерина Игоревна": 95
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 252,
+      "gas:candidate-vibid:4744041290586": 206,
+      "gas:candidate-vibid:4744041290886": 77,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 37,
+      "gas:candidate-vibid:4744041290477": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 303,
-      "Волошина Гузелия Радиковна": 235,
-      "Гильмутдинов Эльдар Рафаильевич": 81,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 29,
-      "Разживин Михаил Юрьевич": 14,
-      "Талевлин Андрей Александрович": 48,
-      "Федотова Екатерина Игоревна": 99
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 303,
+      "gas:candidate-vibid:4744041290586": 235,
+      "gas:candidate-vibid:4744041290886": 81,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 29,
+      "gas:candidate-vibid:4744041290837": 14,
+      "gas:candidate-vibid:4744041291185": 48,
+      "gas:candidate-vibid:4744041290477": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 23,
-      "Барышев Андрей Викторович": 392,
-      "Волошина Гузелия Радиковна": 284,
-      "Гильмутдинов Эльдар Рафаильевич": 125,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 41,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 39,
-      "Федотова Екатерина Игоревна": 136
+      "gas:candidate-vibid:4744041290924": 23,
+      "gas:candidate-vibid:4744041290994": 392,
+      "gas:candidate-vibid:4744041290586": 284,
+      "gas:candidate-vibid:4744041290886": 125,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 41,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 39,
+      "gas:candidate-vibid:4744041290477": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 204,
-      "Волошина Гузелия Радиковна": 222,
-      "Гильмутдинов Эльдар Рафаильевич": 102,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 37,
-      "Федотова Екатерина Игоревна": 70
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 204,
+      "gas:candidate-vibid:4744041290586": 222,
+      "gas:candidate-vibid:4744041290886": 102,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 37,
+      "gas:candidate-vibid:4744041290477": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 275,
-      "Волошина Гузелия Радиковна": 216,
-      "Гильмутдинов Эльдар Рафаильевич": 116,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 25,
-      "Разживин Михаил Юрьевич": 28,
-      "Талевлин Андрей Александрович": 39,
-      "Федотова Екатерина Игоревна": 84
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 275,
+      "gas:candidate-vibid:4744041290586": 216,
+      "gas:candidate-vibid:4744041290886": 116,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 25,
+      "gas:candidate-vibid:4744041290837": 28,
+      "gas:candidate-vibid:4744041291185": 39,
+      "gas:candidate-vibid:4744041290477": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 219,
-      "Волошина Гузелия Радиковна": 135,
-      "Гильмутдинов Эльдар Рафаильевич": 58,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 16,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 14,
-      "Федотова Екатерина Игоревна": 51
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 219,
+      "gas:candidate-vibid:4744041290586": 135,
+      "gas:candidate-vibid:4744041290886": 58,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 16,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 14,
+      "gas:candidate-vibid:4744041290477": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 191,
-      "Волошина Гузелия Радиковна": 200,
-      "Гильмутдинов Эльдар Рафаильевич": 66,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 9,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 42,
-      "Федотова Екатерина Игоревна": 70
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 191,
+      "gas:candidate-vibid:4744041290586": 200,
+      "gas:candidate-vibid:4744041290886": 66,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 9,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 42,
+      "gas:candidate-vibid:4744041290477": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 22,
-      "Барышев Андрей Викторович": 182,
-      "Волошина Гузелия Радиковна": 184,
-      "Гильмутдинов Эльдар Рафаильевич": 89,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 2,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 27,
-      "Федотова Екатерина Игоревна": 66
+      "gas:candidate-vibid:4744041290924": 22,
+      "gas:candidate-vibid:4744041290994": 182,
+      "gas:candidate-vibid:4744041290586": 184,
+      "gas:candidate-vibid:4744041290886": 89,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 2,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 27,
+      "gas:candidate-vibid:4744041290477": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 213,
-      "Волошина Гузелия Радиковна": 174,
-      "Гильмутдинов Эльдар Рафаильевич": 80,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 17,
-      "Разживин Михаил Юрьевич": 31,
-      "Талевлин Андрей Александрович": 53,
-      "Федотова Екатерина Игоревна": 81
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 213,
+      "gas:candidate-vibid:4744041290586": 174,
+      "gas:candidate-vibid:4744041290886": 80,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 17,
+      "gas:candidate-vibid:4744041290837": 31,
+      "gas:candidate-vibid:4744041291185": 53,
+      "gas:candidate-vibid:4744041290477": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 263,
-      "Волошина Гузелия Радиковна": 184,
-      "Гильмутдинов Эльдар Рафаильевич": 69,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 36,
-      "Федотова Екатерина Игоревна": 63
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 263,
+      "gas:candidate-vibid:4744041290586": 184,
+      "gas:candidate-vibid:4744041290886": 69,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 36,
+      "gas:candidate-vibid:4744041290477": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 225,
-      "Волошина Гузелия Радиковна": 211,
-      "Гильмутдинов Эльдар Рафаильевич": 88,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 19,
-      "Федотова Екатерина Игоревна": 71
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 225,
+      "gas:candidate-vibid:4744041290586": 211,
+      "gas:candidate-vibid:4744041290886": 88,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 19,
+      "gas:candidate-vibid:4744041290477": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 208,
-      "Волошина Гузелия Радиковна": 196,
-      "Гильмутдинов Эльдар Рафаильевич": 97,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 18,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 30,
-      "Федотова Екатерина Игоревна": 98
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 208,
+      "gas:candidate-vibid:4744041290586": 196,
+      "gas:candidate-vibid:4744041290886": 97,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 18,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 30,
+      "gas:candidate-vibid:4744041290477": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 17,
-      "Барышев Андрей Викторович": 296,
-      "Волошина Гузелия Радиковна": 275,
-      "Гильмутдинов Эльдар Рафаильевич": 141,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 23,
-      "Разживин Михаил Юрьевич": 19,
-      "Талевлин Андрей Александрович": 62,
-      "Федотова Екатерина Игоревна": 131
+      "gas:candidate-vibid:4744041290924": 17,
+      "gas:candidate-vibid:4744041290994": 296,
+      "gas:candidate-vibid:4744041290586": 275,
+      "gas:candidate-vibid:4744041290886": 141,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 23,
+      "gas:candidate-vibid:4744041290837": 19,
+      "gas:candidate-vibid:4744041291185": 62,
+      "gas:candidate-vibid:4744041290477": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 315,
-      "Волошина Гузелия Радиковна": 167,
-      "Гильмутдинов Эльдар Рафаильевич": 82,
-      "Кунгурцев Алексей Александрович": 12,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 15,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 21,
-      "Федотова Екатерина Игоревна": 90
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 315,
+      "gas:candidate-vibid:4744041290586": 167,
+      "gas:candidate-vibid:4744041290886": 82,
+      "gas:candidate-vibid:4744041291138": 12,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 15,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 21,
+      "gas:candidate-vibid:4744041290477": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 293,
-      "Волошина Гузелия Радиковна": 126,
-      "Гильмутдинов Эльдар Рафаильевич": 85,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 13,
-      "Неуймин Алексей Викторович": 8,
-      "Разживин Михаил Юрьевич": 12,
-      "Талевлин Андрей Александрович": 17,
-      "Федотова Екатерина Игоревна": 55
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 293,
+      "gas:candidate-vibid:4744041290586": 126,
+      "gas:candidate-vibid:4744041290886": 85,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 13,
+      "gas:candidate-vibid:4744041291088": 8,
+      "gas:candidate-vibid:4744041290837": 12,
+      "gas:candidate-vibid:4744041291185": 17,
+      "gas:candidate-vibid:4744041290477": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 528,
-      "Волошина Гузелия Радиковна": 228,
-      "Гильмутдинов Эльдар Рафаильевич": 108,
-      "Кунгурцев Алексей Александрович": 14,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 45,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 25,
-      "Федотова Екатерина Игоревна": 111
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 528,
+      "gas:candidate-vibid:4744041290586": 228,
+      "gas:candidate-vibid:4744041290886": 108,
+      "gas:candidate-vibid:4744041291138": 14,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 45,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 25,
+      "gas:candidate-vibid:4744041290477": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 8,
-      "Барышев Андрей Викторович": 315,
-      "Волошина Гузелия Радиковна": 147,
-      "Гильмутдинов Эльдар Рафаильевич": 64,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 33,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 14,
-      "Федотова Екатерина Игоревна": 107
+      "gas:candidate-vibid:4744041290924": 8,
+      "gas:candidate-vibid:4744041290994": 315,
+      "gas:candidate-vibid:4744041290586": 147,
+      "gas:candidate-vibid:4744041290886": 64,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 33,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 14,
+      "gas:candidate-vibid:4744041290477": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 244,
-      "Волошина Гузелия Радиковна": 206,
-      "Гильмутдинов Эльдар Рафаильевич": 112,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 23,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 44,
-      "Федотова Екатерина Игоревна": 108
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 244,
+      "gas:candidate-vibid:4744041290586": 206,
+      "gas:candidate-vibid:4744041290886": 112,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 23,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 44,
+      "gas:candidate-vibid:4744041290477": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 241,
-      "Волошина Гузелия Радиковна": 218,
-      "Гильмутдинов Эльдар Рафаильевич": 72,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 11,
-      "Неуймин Алексей Викторович": 27,
-      "Разживин Михаил Юрьевич": 7,
-      "Талевлин Андрей Александрович": 36,
-      "Федотова Екатерина Игоревна": 100
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 241,
+      "gas:candidate-vibid:4744041290586": 218,
+      "gas:candidate-vibid:4744041290886": 72,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 11,
+      "gas:candidate-vibid:4744041291088": 27,
+      "gas:candidate-vibid:4744041290837": 7,
+      "gas:candidate-vibid:4744041291185": 36,
+      "gas:candidate-vibid:4744041290477": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 193,
-      "Волошина Гузелия Радиковна": 151,
-      "Гильмутдинов Эльдар Рафаильевич": 62,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 9,
-      "Разживин Михаил Юрьевич": 14,
-      "Талевлин Андрей Александрович": 32,
-      "Федотова Екатерина Игоревна": 101
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 193,
+      "gas:candidate-vibid:4744041290586": 151,
+      "gas:candidate-vibid:4744041290886": 62,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 9,
+      "gas:candidate-vibid:4744041290837": 14,
+      "gas:candidate-vibid:4744041291185": 32,
+      "gas:candidate-vibid:4744041290477": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 37,
-      "Барышев Андрей Викторович": 270,
-      "Волошина Гузелия Радиковна": 165,
-      "Гильмутдинов Эльдар Рафаильевич": 117,
-      "Кунгурцев Алексей Александрович": 15,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 60,
-      "Разживин Михаил Юрьевич": 23,
-      "Талевлин Андрей Александрович": 107,
-      "Федотова Екатерина Игоревна": 136
+      "gas:candidate-vibid:4744041290924": 37,
+      "gas:candidate-vibid:4744041290994": 270,
+      "gas:candidate-vibid:4744041290586": 165,
+      "gas:candidate-vibid:4744041290886": 117,
+      "gas:candidate-vibid:4744041291138": 15,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 60,
+      "gas:candidate-vibid:4744041290837": 23,
+      "gas:candidate-vibid:4744041291185": 107,
+      "gas:candidate-vibid:4744041290477": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 24,
-      "Барышев Андрей Викторович": 291,
-      "Волошина Гузелия Радиковна": 256,
-      "Гильмутдинов Эльдар Рафаильевич": 114,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 37,
-      "Разживин Михаил Юрьевич": 23,
-      "Талевлин Андрей Александрович": 62,
-      "Федотова Екатерина Игоревна": 138
+      "gas:candidate-vibid:4744041290924": 24,
+      "gas:candidate-vibid:4744041290994": 291,
+      "gas:candidate-vibid:4744041290586": 256,
+      "gas:candidate-vibid:4744041290886": 114,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 37,
+      "gas:candidate-vibid:4744041290837": 23,
+      "gas:candidate-vibid:4744041291185": 62,
+      "gas:candidate-vibid:4744041290477": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 319,
-      "Волошина Гузелия Радиковна": 281,
-      "Гильмутдинов Эльдар Рафаильевич": 120,
-      "Кунгурцев Алексей Александрович": 14,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 27,
-      "Разживин Михаил Юрьевич": 26,
-      "Талевлин Андрей Александрович": 40,
-      "Федотова Екатерина Игоревна": 123
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 319,
+      "gas:candidate-vibid:4744041290586": 281,
+      "gas:candidate-vibid:4744041290886": 120,
+      "gas:candidate-vibid:4744041291138": 14,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 27,
+      "gas:candidate-vibid:4744041290837": 26,
+      "gas:candidate-vibid:4744041291185": 40,
+      "gas:candidate-vibid:4744041290477": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 32,
-      "Барышев Андрей Викторович": 308,
-      "Волошина Гузелия Радиковна": 244,
-      "Гильмутдинов Эльдар Рафаильевич": 108,
-      "Кунгурцев Алексей Александрович": 12,
-      "Мухаметшин Рамиль Анварович": 11,
-      "Неуймин Алексей Викторович": 34,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 60,
-      "Федотова Екатерина Игоревна": 148
+      "gas:candidate-vibid:4744041290924": 32,
+      "gas:candidate-vibid:4744041290994": 308,
+      "gas:candidate-vibid:4744041290586": 244,
+      "gas:candidate-vibid:4744041290886": 108,
+      "gas:candidate-vibid:4744041291138": 12,
+      "gas:candidate-vibid:4744041291119": 11,
+      "gas:candidate-vibid:4744041291088": 34,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 60,
+      "gas:candidate-vibid:4744041290477": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 23,
-      "Барышев Андрей Викторович": 254,
-      "Волошина Гузелия Радиковна": 174,
-      "Гильмутдинов Эльдар Рафаильевич": 90,
-      "Кунгурцев Алексей Александрович": 15,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 32,
-      "Разживин Михаил Юрьевич": 34,
-      "Талевлин Андрей Александрович": 61,
-      "Федотова Екатерина Игоревна": 117
+      "gas:candidate-vibid:4744041290924": 23,
+      "gas:candidate-vibid:4744041290994": 254,
+      "gas:candidate-vibid:4744041290586": 174,
+      "gas:candidate-vibid:4744041290886": 90,
+      "gas:candidate-vibid:4744041291138": 15,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 32,
+      "gas:candidate-vibid:4744041290837": 34,
+      "gas:candidate-vibid:4744041291185": 61,
+      "gas:candidate-vibid:4744041290477": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 64,
-      "Барышев Андрей Викторович": 1500,
-      "Волошина Гузелия Радиковна": 93,
-      "Гильмутдинов Эльдар Рафаильевич": 131,
-      "Кунгурцев Алексей Александрович": 41,
-      "Мухаметшин Рамиль Анварович": 42,
-      "Неуймин Алексей Викторович": 68,
-      "Разживин Михаил Юрьевич": 51,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 299
+      "gas:candidate-vibid:4744041290924": 64,
+      "gas:candidate-vibid:4744041290994": 1500,
+      "gas:candidate-vibid:4744041290586": 93,
+      "gas:candidate-vibid:4744041290886": 131,
+      "gas:candidate-vibid:4744041291138": 41,
+      "gas:candidate-vibid:4744041291119": 42,
+      "gas:candidate-vibid:4744041291088": 68,
+      "gas:candidate-vibid:4744041290837": 51,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 0,
-      "Барышев Андрей Викторович": 615,
-      "Волошина Гузелия Радиковна": 148,
-      "Гильмутдинов Эльдар Рафаильевич": 63,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 13,
-      "Разживин Михаил Юрьевич": 0,
-      "Талевлин Андрей Александрович": 7,
-      "Федотова Екатерина Игоревна": 96
+      "gas:candidate-vibid:4744041290924": 0,
+      "gas:candidate-vibid:4744041290994": 615,
+      "gas:candidate-vibid:4744041290586": 148,
+      "gas:candidate-vibid:4744041290886": 63,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 13,
+      "gas:candidate-vibid:4744041290837": 0,
+      "gas:candidate-vibid:4744041291185": 7,
+      "gas:candidate-vibid:4744041290477": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 11,
-      "Барышев Андрей Викторович": 754,
-      "Волошина Гузелия Радиковна": 66,
-      "Гильмутдинов Эльдар Рафаильевич": 59,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 12,
-      "Разживин Михаил Юрьевич": 4,
-      "Талевлин Андрей Александрович": 21,
-      "Федотова Екатерина Игоревна": 46
+      "gas:candidate-vibid:4744041290924": 11,
+      "gas:candidate-vibid:4744041290994": 754,
+      "gas:candidate-vibid:4744041290586": 66,
+      "gas:candidate-vibid:4744041290886": 59,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 12,
+      "gas:candidate-vibid:4744041290837": 4,
+      "gas:candidate-vibid:4744041291185": 21,
+      "gas:candidate-vibid:4744041290477": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 292,
-      "Волошина Гузелия Радиковна": 101,
-      "Гильмутдинов Эльдар Рафаильевич": 50,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 9,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 14,
-      "Федотова Екатерина Игоревна": 34
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 292,
+      "gas:candidate-vibid:4744041290586": 101,
+      "gas:candidate-vibid:4744041290886": 50,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 9,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 14,
+      "gas:candidate-vibid:4744041290477": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 26,
-      "Барышев Андрей Викторович": 165,
-      "Волошина Гузелия Радиковна": 168,
-      "Гильмутдинов Эльдар Рафаильевич": 67,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 34,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 41,
-      "Федотова Екатерина Игоревна": 115
+      "gas:candidate-vibid:4744041290924": 26,
+      "gas:candidate-vibid:4744041290994": 165,
+      "gas:candidate-vibid:4744041290586": 168,
+      "gas:candidate-vibid:4744041290886": 67,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 34,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 41,
+      "gas:candidate-vibid:4744041290477": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 221,
-      "Волошина Гузелия Радиковна": 179,
-      "Гильмутдинов Эльдар Рафаильевич": 74,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 25,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 30,
-      "Федотова Екатерина Игоревна": 103
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 221,
+      "gas:candidate-vibid:4744041290586": 179,
+      "gas:candidate-vibid:4744041290886": 74,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 25,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 30,
+      "gas:candidate-vibid:4744041290477": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 27,
-      "Барышев Андрей Викторович": 301,
-      "Волошина Гузелия Радиковна": 189,
-      "Гильмутдинов Эльдар Рафаильевич": 89,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 42,
-      "Разживин Михаил Юрьевич": 20,
-      "Талевлин Андрей Александрович": 61,
-      "Федотова Екатерина Игоревна": 169
+      "gas:candidate-vibid:4744041290924": 27,
+      "gas:candidate-vibid:4744041290994": 301,
+      "gas:candidate-vibid:4744041290586": 189,
+      "gas:candidate-vibid:4744041290886": 89,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 42,
+      "gas:candidate-vibid:4744041290837": 20,
+      "gas:candidate-vibid:4744041291185": 61,
+      "gas:candidate-vibid:4744041290477": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 25,
-      "Барышев Андрей Викторович": 305,
-      "Волошина Гузелия Радиковна": 204,
-      "Гильмутдинов Эльдар Рафаильевич": 78,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 57,
-      "Федотова Екатерина Игоревна": 145
+      "gas:candidate-vibid:4744041290924": 25,
+      "gas:candidate-vibid:4744041290994": 305,
+      "gas:candidate-vibid:4744041290586": 204,
+      "gas:candidate-vibid:4744041290886": 78,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 57,
+      "gas:candidate-vibid:4744041290477": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143138&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143138&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 7,
-      "Барышев Андрей Викторович": 168,
-      "Волошина Гузелия Радиковна": 128,
-      "Гильмутдинов Эльдар Рафаильевич": 66,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 11,
-      "Разживин Михаил Юрьевич": 8,
-      "Талевлин Андрей Александрович": 20,
-      "Федотова Екатерина Игоревна": 89
+      "gas:candidate-vibid:4744041290924": 7,
+      "gas:candidate-vibid:4744041290994": 168,
+      "gas:candidate-vibid:4744041290586": 128,
+      "gas:candidate-vibid:4744041290886": 66,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 11,
+      "gas:candidate-vibid:4744041290837": 8,
+      "gas:candidate-vibid:4744041291185": 20,
+      "gas:candidate-vibid:4744041290477": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 103,
-      "Волошина Гузелия Радиковна": 84,
-      "Гильмутдинов Эльдар Рафаильевич": 48,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 0,
-      "Неуймин Алексей Викторович": 6,
-      "Разживин Михаил Юрьевич": 6,
-      "Талевлин Андрей Александрович": 4,
-      "Федотова Екатерина Игоревна": 49
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 103,
+      "gas:candidate-vibid:4744041290586": 84,
+      "gas:candidate-vibid:4744041290886": 48,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 0,
+      "gas:candidate-vibid:4744041291088": 6,
+      "gas:candidate-vibid:4744041290837": 6,
+      "gas:candidate-vibid:4744041291185": 4,
+      "gas:candidate-vibid:4744041290477": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 279,
-      "Волошина Гузелия Радиковна": 241,
-      "Гильмутдинов Эльдар Рафаильевич": 79,
-      "Кунгурцев Алексей Александрович": 2,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 27,
-      "Разживин Михаил Юрьевич": 26,
-      "Талевлин Андрей Александрович": 30,
-      "Федотова Екатерина Игоревна": 97
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 279,
+      "gas:candidate-vibid:4744041290586": 241,
+      "gas:candidate-vibid:4744041290886": 79,
+      "gas:candidate-vibid:4744041291138": 2,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 27,
+      "gas:candidate-vibid:4744041290837": 26,
+      "gas:candidate-vibid:4744041291185": 30,
+      "gas:candidate-vibid:4744041290477": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 270,
-      "Волошина Гузелия Радиковна": 198,
-      "Гильмутдинов Эльдар Рафаильевич": 88,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 6,
-      "Неуймин Алексей Викторович": 23,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 22,
-      "Федотова Екатерина Игоревна": 81
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 270,
+      "gas:candidate-vibid:4744041290586": 198,
+      "gas:candidate-vibid:4744041290886": 88,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 6,
+      "gas:candidate-vibid:4744041291088": 23,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 22,
+      "gas:candidate-vibid:4744041290477": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 252,
-      "Волошина Гузелия Радиковна": 102,
-      "Гильмутдинов Эльдар Рафаильевич": 65,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 13,
-      "Неуймин Алексей Викторович": 21,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 25,
-      "Федотова Екатерина Игоревна": 68
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 252,
+      "gas:candidate-vibid:4744041290586": 102,
+      "gas:candidate-vibid:4744041290886": 65,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 13,
+      "gas:candidate-vibid:4744041291088": 21,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 25,
+      "gas:candidate-vibid:4744041290477": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 172,
-      "Волошина Гузелия Радиковна": 87,
-      "Гильмутдинов Эльдар Рафаильевич": 49,
-      "Кунгурцев Алексей Александрович": 1,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 11,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 19,
-      "Федотова Екатерина Игоревна": 63
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 172,
+      "gas:candidate-vibid:4744041290586": 87,
+      "gas:candidate-vibid:4744041290886": 49,
+      "gas:candidate-vibid:4744041291138": 1,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 11,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 19,
+      "gas:candidate-vibid:4744041290477": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 9,
-      "Барышев Андрей Викторович": 168,
-      "Волошина Гузелия Радиковна": 107,
-      "Гильмутдинов Эльдар Рафаильевич": 38,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 10,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 6,
-      "Федотова Екатерина Игоревна": 80
+      "gas:candidate-vibid:4744041290924": 9,
+      "gas:candidate-vibid:4744041290994": 168,
+      "gas:candidate-vibid:4744041290586": 107,
+      "gas:candidate-vibid:4744041290886": 38,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 10,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 6,
+      "gas:candidate-vibid:4744041290477": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 285,
-      "Волошина Гузелия Радиковна": 78,
-      "Гильмутдинов Эльдар Рафаильевич": 33,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 12,
-      "Разживин Михаил Юрьевич": 6,
-      "Талевлин Андрей Александрович": 8,
-      "Федотова Екатерина Игоревна": 46
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 285,
+      "gas:candidate-vibid:4744041290586": 78,
+      "gas:candidate-vibid:4744041290886": 33,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 12,
+      "gas:candidate-vibid:4744041290837": 6,
+      "gas:candidate-vibid:4744041291185": 8,
+      "gas:candidate-vibid:4744041290477": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 6,
-      "Барышев Андрей Викторович": 380,
-      "Волошина Гузелия Радиковна": 79,
-      "Гильмутдинов Эльдар Рафаильевич": 75,
-      "Кунгурцев Алексей Александрович": 0,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 9,
-      "Разживин Михаил Юрьевич": 9,
-      "Талевлин Андрей Александрович": 7,
-      "Федотова Екатерина Игоревна": 45
+      "gas:candidate-vibid:4744041290924": 6,
+      "gas:candidate-vibid:4744041290994": 380,
+      "gas:candidate-vibid:4744041290586": 79,
+      "gas:candidate-vibid:4744041290886": 75,
+      "gas:candidate-vibid:4744041291138": 0,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 9,
+      "gas:candidate-vibid:4744041290837": 9,
+      "gas:candidate-vibid:4744041291185": 7,
+      "gas:candidate-vibid:4744041290477": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 170,
-      "Волошина Гузелия Радиковна": 102,
-      "Гильмутдинов Эльдар Рафаильевич": 57,
-      "Кунгурцев Алексей Александрович": 9,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 21,
-      "Разживин Михаил Юрьевич": 18,
-      "Талевлин Андрей Александрович": 16,
-      "Федотова Екатерина Игоревна": 83
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 170,
+      "gas:candidate-vibid:4744041290586": 102,
+      "gas:candidate-vibid:4744041290886": 57,
+      "gas:candidate-vibid:4744041291138": 9,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 21,
+      "gas:candidate-vibid:4744041290837": 18,
+      "gas:candidate-vibid:4744041291185": 16,
+      "gas:candidate-vibid:4744041290477": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 15,
-      "Барышев Андрей Викторович": 176,
-      "Волошина Гузелия Радиковна": 86,
-      "Гильмутдинов Эльдар Рафаильевич": 42,
-      "Кунгурцев Алексей Александрович": 4,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 9,
-      "Разживин Михаил Юрьевич": 11,
-      "Талевлин Андрей Александрович": 22,
-      "Федотова Екатерина Игоревна": 67
+      "gas:candidate-vibid:4744041290924": 15,
+      "gas:candidate-vibid:4744041290994": 176,
+      "gas:candidate-vibid:4744041290586": 86,
+      "gas:candidate-vibid:4744041290886": 42,
+      "gas:candidate-vibid:4744041291138": 4,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 9,
+      "gas:candidate-vibid:4744041290837": 11,
+      "gas:candidate-vibid:4744041291185": 22,
+      "gas:candidate-vibid:4744041290477": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 20,
-      "Барышев Андрей Викторович": 305,
-      "Волошина Гузелия Радиковна": 107,
-      "Гильмутдинов Эльдар Рафаильевич": 64,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 13,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 34,
-      "Федотова Екатерина Игоревна": 53
+      "gas:candidate-vibid:4744041290924": 20,
+      "gas:candidate-vibid:4744041290994": 305,
+      "gas:candidate-vibid:4744041290586": 107,
+      "gas:candidate-vibid:4744041290886": 64,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 13,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 34,
+      "gas:candidate-vibid:4744041290477": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 204,
-      "Волошина Гузелия Радиковна": 155,
-      "Гильмутдинов Эльдар Рафаильевич": 79,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 12,
-      "Неуймин Алексей Викторович": 13,
-      "Разживин Михаил Юрьевич": 17,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 74
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 204,
+      "gas:candidate-vibid:4744041290586": 155,
+      "gas:candidate-vibid:4744041290886": 79,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 12,
+      "gas:candidate-vibid:4744041291088": 13,
+      "gas:candidate-vibid:4744041290837": 17,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 361,
-      "Волошина Гузелия Радиковна": 189,
-      "Гильмутдинов Эльдар Рафаильевич": 119,
-      "Кунгурцев Алексей Александрович": 11,
-      "Мухаметшин Рамиль Анварович": 7,
-      "Неуймин Алексей Викторович": 29,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 47,
-      "Федотова Екатерина Игоревна": 125
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 361,
+      "gas:candidate-vibid:4744041290586": 189,
+      "gas:candidate-vibid:4744041290886": 119,
+      "gas:candidate-vibid:4744041291138": 11,
+      "gas:candidate-vibid:4744041291119": 7,
+      "gas:candidate-vibid:4744041291088": 29,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 47,
+      "gas:candidate-vibid:4744041290477": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 276,
-      "Волошина Гузелия Радиковна": 189,
-      "Гильмутдинов Эльдар Рафаильевич": 116,
-      "Кунгурцев Алексей Александрович": 3,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 20,
-      "Разживин Михаил Юрьевич": 19,
-      "Талевлин Андрей Александрович": 37,
-      "Федотова Екатерина Игоревна": 74
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 276,
+      "gas:candidate-vibid:4744041290586": 189,
+      "gas:candidate-vibid:4744041290886": 116,
+      "gas:candidate-vibid:4744041291138": 3,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 20,
+      "gas:candidate-vibid:4744041290837": 19,
+      "gas:candidate-vibid:4744041291185": 37,
+      "gas:candidate-vibid:4744041290477": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 16,
-      "Барышев Андрей Викторович": 256,
-      "Волошина Гузелия Радиковна": 142,
-      "Гильмутдинов Эльдар Рафаильевич": 81,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 17,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 40,
-      "Федотова Екатерина Игоревна": 67
+      "gas:candidate-vibid:4744041290924": 16,
+      "gas:candidate-vibid:4744041290994": 256,
+      "gas:candidate-vibid:4744041290586": 142,
+      "gas:candidate-vibid:4744041290886": 81,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 17,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 40,
+      "gas:candidate-vibid:4744041290477": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 17,
-      "Барышев Андрей Викторович": 364,
-      "Волошина Гузелия Радиковна": 235,
-      "Гильмутдинов Эльдар Рафаильевич": 122,
-      "Кунгурцев Алексей Александрович": 12,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 22,
-      "Разживин Михаил Юрьевич": 25,
-      "Талевлин Андрей Александрович": 49,
-      "Федотова Екатерина Игоревна": 106
+      "gas:candidate-vibid:4744041290924": 17,
+      "gas:candidate-vibid:4744041290994": 364,
+      "gas:candidate-vibid:4744041290586": 235,
+      "gas:candidate-vibid:4744041290886": 122,
+      "gas:candidate-vibid:4744041291138": 12,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 22,
+      "gas:candidate-vibid:4744041290837": 25,
+      "gas:candidate-vibid:4744041291185": 49,
+      "gas:candidate-vibid:4744041290477": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 33,
-      "Барышев Андрей Викторович": 241,
-      "Волошина Гузелия Радиковна": 176,
-      "Гильмутдинов Эльдар Рафаильевич": 86,
-      "Кунгурцев Алексей Александрович": 7,
-      "Мухаметшин Рамиль Анварович": 10,
-      "Неуймин Алексей Викторович": 24,
-      "Разживин Михаил Юрьевич": 8,
-      "Талевлин Андрей Александрович": 42,
-      "Федотова Екатерина Игоревна": 81
+      "gas:candidate-vibid:4744041290924": 33,
+      "gas:candidate-vibid:4744041290994": 241,
+      "gas:candidate-vibid:4744041290586": 176,
+      "gas:candidate-vibid:4744041290886": 86,
+      "gas:candidate-vibid:4744041291138": 7,
+      "gas:candidate-vibid:4744041291119": 10,
+      "gas:candidate-vibid:4744041291088": 24,
+      "gas:candidate-vibid:4744041290837": 8,
+      "gas:candidate-vibid:4744041291185": 42,
+      "gas:candidate-vibid:4744041290477": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 13,
-      "Барышев Андрей Викторович": 230,
-      "Волошина Гузелия Радиковна": 156,
-      "Гильмутдинов Эльдар Рафаильевич": 86,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 4,
-      "Неуймин Алексей Викторович": 26,
-      "Разживин Михаил Юрьевич": 16,
-      "Талевлин Андрей Александрович": 33,
-      "Федотова Екатерина Игоревна": 95
+      "gas:candidate-vibid:4744041290924": 13,
+      "gas:candidate-vibid:4744041290994": 230,
+      "gas:candidate-vibid:4744041290586": 156,
+      "gas:candidate-vibid:4744041290886": 86,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 4,
+      "gas:candidate-vibid:4744041291088": 26,
+      "gas:candidate-vibid:4744041290837": 16,
+      "gas:candidate-vibid:4744041291185": 33,
+      "gas:candidate-vibid:4744041290477": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 14,
-      "Барышев Андрей Викторович": 230,
-      "Волошина Гузелия Радиковна": 163,
-      "Гильмутдинов Эльдар Рафаильевич": 95,
-      "Кунгурцев Алексей Александрович": 5,
-      "Мухаметшин Рамиль Анварович": 8,
-      "Неуймин Алексей Викторович": 30,
-      "Разживин Михаил Юрьевич": 13,
-      "Талевлин Андрей Александрович": 23,
-      "Федотова Екатерина Игоревна": 63
+      "gas:candidate-vibid:4744041290924": 14,
+      "gas:candidate-vibid:4744041290994": 230,
+      "gas:candidate-vibid:4744041290586": 163,
+      "gas:candidate-vibid:4744041290886": 95,
+      "gas:candidate-vibid:4744041291138": 5,
+      "gas:candidate-vibid:4744041291119": 8,
+      "gas:candidate-vibid:4744041291088": 30,
+      "gas:candidate-vibid:4744041290837": 13,
+      "gas:candidate-vibid:4744041291185": 23,
+      "gas:candidate-vibid:4744041290477": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 18,
-      "Барышев Андрей Викторович": 258,
-      "Волошина Гузелия Радиковна": 196,
-      "Гильмутдинов Эльдар Рафаильевич": 107,
-      "Кунгурцев Алексей Александрович": 8,
-      "Мухаметшин Рамиль Анварович": 9,
-      "Неуймин Алексей Викторович": 18,
-      "Разживин Михаил Юрьевич": 17,
-      "Талевлин Андрей Александрович": 42,
-      "Федотова Екатерина Игоревна": 118
+      "gas:candidate-vibid:4744041290924": 18,
+      "gas:candidate-vibid:4744041290994": 258,
+      "gas:candidate-vibid:4744041290586": 196,
+      "gas:candidate-vibid:4744041290886": 107,
+      "gas:candidate-vibid:4744041291138": 8,
+      "gas:candidate-vibid:4744041291119": 9,
+      "gas:candidate-vibid:4744041291088": 18,
+      "gas:candidate-vibid:4744041290837": 17,
+      "gas:candidate-vibid:4744041291185": 42,
+      "gas:candidate-vibid:4744041290477": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 19,
-      "Барышев Андрей Викторович": 234,
-      "Волошина Гузелия Радиковна": 184,
-      "Гильмутдинов Эльдар Рафаильевич": 78,
-      "Кунгурцев Алексей Александрович": 6,
-      "Мухаметшин Рамиль Анварович": 1,
-      "Неуймин Алексей Викторович": 24,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 53,
-      "Федотова Екатерина Игоревна": 93
+      "gas:candidate-vibid:4744041290924": 19,
+      "gas:candidate-vibid:4744041290994": 234,
+      "gas:candidate-vibid:4744041290586": 184,
+      "gas:candidate-vibid:4744041290886": 78,
+      "gas:candidate-vibid:4744041291138": 6,
+      "gas:candidate-vibid:4744041291119": 1,
+      "gas:candidate-vibid:4744041291088": 24,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 53,
+      "gas:candidate-vibid:4744041290477": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 35,
-      "Барышев Андрей Викторович": 271,
-      "Волошина Гузелия Радиковна": 193,
-      "Гильмутдинов Эльдар Рафаильевич": 160,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 5,
-      "Неуймин Алексей Викторович": 42,
-      "Разживин Михаил Юрьевич": 10,
-      "Талевлин Андрей Александрович": 90,
-      "Федотова Екатерина Игоревна": 90
+      "gas:candidate-vibid:4744041290924": 35,
+      "gas:candidate-vibid:4744041290994": 271,
+      "gas:candidate-vibid:4744041290586": 193,
+      "gas:candidate-vibid:4744041290886": 160,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 5,
+      "gas:candidate-vibid:4744041291088": 42,
+      "gas:candidate-vibid:4744041290837": 10,
+      "gas:candidate-vibid:4744041291185": 90,
+      "gas:candidate-vibid:4744041290477": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_74_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асатуллин Гамиль Юсупович": 12,
-      "Барышев Андрей Викторович": 254,
-      "Волошина Гузелия Радиковна": 277,
-      "Гильмутдинов Эльдар Рафаильевич": 96,
-      "Кунгурцев Алексей Александрович": 10,
-      "Мухаметшин Рамиль Анварович": 3,
-      "Неуймин Алексей Викторович": 35,
-      "Разживин Михаил Юрьевич": 15,
-      "Талевлин Андрей Александрович": 68,
-      "Федотова Екатерина Игоревна": 78
+      "gas:candidate-vibid:4744041290924": 12,
+      "gas:candidate-vibid:4744041290994": 254,
+      "gas:candidate-vibid:4744041290586": 277,
+      "gas:candidate-vibid:4744041290886": 96,
+      "gas:candidate-vibid:4744041291138": 10,
+      "gas:candidate-vibid:4744041291119": 3,
+      "gas:candidate-vibid:4744041291088": 35,
+      "gas:candidate-vibid:4744041290837": 15,
+      "gas:candidate-vibid:4744041291185": 68,
+      "gas:candidate-vibid:4744041290477": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000251&tvd=27420001143139&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143139&type=464",

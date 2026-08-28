@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 27,
-      "Ворсин Алексей Юрьевич": 24,
-      "Гладких Борис Михайлович": 206,
-      "Глухов Игорь Станиславович": 35,
-      "Грешнякова Елена Геннадьевна": 132,
-      "Петров Андрей Петрович": 17,
-      "Постников Виктор Михайлович": 130,
-      "Титоренко Владимир Федорович": 34
+      "gas:candidate-vibid:2272000774353": 27,
+      "gas:candidate-vibid:2272000774877": 24,
+      "gas:candidate-vibid:2272000773431": 206,
+      "gas:candidate-vibid:2272000772718": 35,
+      "gas:candidate-vibid:2272000743845": 132,
+      "gas:candidate-vibid:2272000775074": 17,
+      "gas:candidate-vibid:2272000772110": 130,
+      "gas:candidate-vibid:2272000772408": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 166,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 31,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 33,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 166,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 31,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 33,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 16,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 180,
-      "Глухов Игорь Станиславович": 18,
-      "Грешнякова Елена Геннадьевна": 63,
-      "Петров Андрей Петрович": 11,
-      "Постников Виктор Михайлович": 52,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 16,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 180,
+      "gas:candidate-vibid:2272000772718": 18,
+      "gas:candidate-vibid:2272000743845": 63,
+      "gas:candidate-vibid:2272000775074": 11,
+      "gas:candidate-vibid:2272000772110": 52,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 67,
-      "Глухов Игорь Станиславович": 5,
-      "Грешнякова Елена Геннадьевна": 22,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 19,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 67,
+      "gas:candidate-vibid:2272000772718": 5,
+      "gas:candidate-vibid:2272000743845": 22,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 19,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 110,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 41,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 33,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 110,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 41,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 33,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 157,
-      "Глухов Игорь Станиславович": 27,
-      "Грешнякова Елена Геннадьевна": 50,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 45,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 157,
+      "gas:candidate-vibid:2272000772718": 27,
+      "gas:candidate-vibid:2272000743845": 50,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 45,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 15,
-      "Гладких Борис Михайлович": 155,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 49,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 31,
-      "Титоренко Владимир Федорович": 18
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 15,
+      "gas:candidate-vibid:2272000773431": 155,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 49,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 31,
+      "gas:candidate-vibid:2272000772408": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 1,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 40,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 13,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 9,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 1,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 40,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 13,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 9,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 3,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 55,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 14,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 5,
-      "Титоренко Владимир Федорович": 0
+      "gas:candidate-vibid:2272000774353": 3,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 55,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 14,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 5,
+      "gas:candidate-vibid:2272000772408": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 120,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 17,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 12,
-      "Титоренко Владимир Федорович": 9
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 120,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 17,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 12,
+      "gas:candidate-vibid:2272000772408": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 12,
-      "Гладких Борис Михайлович": 90,
-      "Глухов Игорь Станиславович": 8,
-      "Грешнякова Елена Геннадьевна": 51,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 20,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 12,
+      "gas:candidate-vibid:2272000773431": 90,
+      "gas:candidate-vibid:2272000772718": 8,
+      "gas:candidate-vibid:2272000743845": 51,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 20,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 21,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 186,
-      "Глухов Игорь Станиславович": 18,
-      "Грешнякова Елена Геннадьевна": 129,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 54,
-      "Титоренко Владимир Федорович": 15
+      "gas:candidate-vibid:2272000774353": 21,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 186,
+      "gas:candidate-vibid:2272000772718": 18,
+      "gas:candidate-vibid:2272000743845": 129,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 54,
+      "gas:candidate-vibid:2272000772408": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 160,
-      "Глухов Игорь Станиславович": 24,
-      "Грешнякова Елена Геннадьевна": 91,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 67,
-      "Титоренко Владимир Федорович": 15
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 160,
+      "gas:candidate-vibid:2272000772718": 24,
+      "gas:candidate-vibid:2272000743845": 91,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 67,
+      "gas:candidate-vibid:2272000772408": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 158,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 78,
-      "Петров Андрей Петрович": 11,
-      "Постников Виктор Михайлович": 37,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 158,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 78,
+      "gas:candidate-vibid:2272000775074": 11,
+      "gas:candidate-vibid:2272000772110": 37,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 152,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 81,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 25,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 152,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 81,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 25,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 20,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 210,
-      "Глухов Игорь Станиславович": 29,
-      "Грешнякова Елена Геннадьевна": 65,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 93,
-      "Титоренко Владимир Федорович": 22
+      "gas:candidate-vibid:2272000774353": 20,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 210,
+      "gas:candidate-vibid:2272000772718": 29,
+      "gas:candidate-vibid:2272000743845": 65,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 93,
+      "gas:candidate-vibid:2272000772408": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 28,
-      "Гладких Борис Михайлович": 152,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 78,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 56,
-      "Титоренко Владимир Федорович": 18
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 28,
+      "gas:candidate-vibid:2272000773431": 152,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 78,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 56,
+      "gas:candidate-vibid:2272000772408": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 7,
-      "Гладких Борис Михайлович": 196,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 30,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 36,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 7,
+      "gas:candidate-vibid:2272000773431": 196,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 30,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 36,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 17,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 116,
-      "Глухов Игорь Станиславович": 17,
-      "Грешнякова Елена Геннадьевна": 16,
-      "Петров Андрей Петрович": 8,
-      "Постников Виктор Михайлович": 31,
-      "Титоренко Владимир Федорович": 3
+      "gas:candidate-vibid:2272000774353": 17,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 116,
+      "gas:candidate-vibid:2272000772718": 17,
+      "gas:candidate-vibid:2272000743845": 16,
+      "gas:candidate-vibid:2272000775074": 8,
+      "gas:candidate-vibid:2272000772110": 31,
+      "gas:candidate-vibid:2272000772408": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676919&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676919&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 50,
-      "Ворсин Алексей Юрьевич": 12,
-      "Гладких Борис Михайлович": 227,
-      "Глухов Игорь Станиславович": 58,
-      "Грешнякова Елена Геннадьевна": 157,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 122,
-      "Титоренко Владимир Федорович": 36
+      "gas:candidate-vibid:2272000774353": 50,
+      "gas:candidate-vibid:2272000774877": 12,
+      "gas:candidate-vibid:2272000773431": 227,
+      "gas:candidate-vibid:2272000772718": 58,
+      "gas:candidate-vibid:2272000743845": 157,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 122,
+      "gas:candidate-vibid:2272000772408": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 26,
-      "Ворсин Алексей Юрьевич": 25,
-      "Гладких Борис Михайлович": 451,
-      "Глухов Игорь Станиславович": 34,
-      "Грешнякова Елена Геннадьевна": 49,
-      "Петров Андрей Петрович": 23,
-      "Постников Виктор Михайлович": 159,
-      "Титоренко Владимир Федорович": 30
+      "gas:candidate-vibid:2272000774353": 26,
+      "gas:candidate-vibid:2272000774877": 25,
+      "gas:candidate-vibid:2272000773431": 451,
+      "gas:candidate-vibid:2272000772718": 34,
+      "gas:candidate-vibid:2272000743845": 49,
+      "gas:candidate-vibid:2272000775074": 23,
+      "gas:candidate-vibid:2272000772110": 159,
+      "gas:candidate-vibid:2272000772408": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 59,
-      "Ворсин Алексей Юрьевич": 31,
-      "Гладких Борис Михайлович": 230,
-      "Глухов Игорь Станиславович": 76,
-      "Грешнякова Елена Геннадьевна": 135,
-      "Петров Андрей Петрович": 25,
-      "Постников Виктор Михайлович": 51,
-      "Титоренко Владимир Федорович": 27
+      "gas:candidate-vibid:2272000774353": 59,
+      "gas:candidate-vibid:2272000774877": 31,
+      "gas:candidate-vibid:2272000773431": 230,
+      "gas:candidate-vibid:2272000772718": 76,
+      "gas:candidate-vibid:2272000743845": 135,
+      "gas:candidate-vibid:2272000775074": 25,
+      "gas:candidate-vibid:2272000772110": 51,
+      "gas:candidate-vibid:2272000772408": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 168,
-      "Глухов Игорь Станиславович": 12,
-      "Грешнякова Елена Геннадьевна": 31,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 35,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 168,
+      "gas:candidate-vibid:2272000772718": 12,
+      "gas:candidate-vibid:2272000743845": 31,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 35,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 43,
-      "Ворсин Алексей Юрьевич": 16,
-      "Гладких Борис Михайлович": 460,
-      "Глухов Игорь Станиславович": 25,
-      "Грешнякова Елена Геннадьевна": 109,
-      "Петров Андрей Петрович": 13,
-      "Постников Виктор Михайлович": 91,
-      "Титоренко Владимир Федорович": 29
+      "gas:candidate-vibid:2272000774353": 43,
+      "gas:candidate-vibid:2272000774877": 16,
+      "gas:candidate-vibid:2272000773431": 460,
+      "gas:candidate-vibid:2272000772718": 25,
+      "gas:candidate-vibid:2272000743845": 109,
+      "gas:candidate-vibid:2272000775074": 13,
+      "gas:candidate-vibid:2272000772110": 91,
+      "gas:candidate-vibid:2272000772408": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 78,
-      "Ворсин Алексей Юрьевич": 31,
-      "Гладких Борис Михайлович": 799,
-      "Глухов Игорь Станиславович": 53,
-      "Грешнякова Елена Геннадьевна": 135,
-      "Петров Андрей Петрович": 32,
-      "Постников Виктор Михайлович": 69,
-      "Титоренко Владимир Федорович": 21
+      "gas:candidate-vibid:2272000774353": 78,
+      "gas:candidate-vibid:2272000774877": 31,
+      "gas:candidate-vibid:2272000773431": 799,
+      "gas:candidate-vibid:2272000772718": 53,
+      "gas:candidate-vibid:2272000743845": 135,
+      "gas:candidate-vibid:2272000775074": 32,
+      "gas:candidate-vibid:2272000772110": 69,
+      "gas:candidate-vibid:2272000772408": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 63,
-      "Ворсин Алексей Юрьевич": 35,
-      "Гладких Борис Михайлович": 419,
-      "Глухов Игорь Станиславович": 39,
-      "Грешнякова Елена Геннадьевна": 175,
-      "Петров Андрей Петрович": 18,
-      "Постников Виктор Михайлович": 75,
-      "Титоренко Владимир Федорович": 28
+      "gas:candidate-vibid:2272000774353": 63,
+      "gas:candidate-vibid:2272000774877": 35,
+      "gas:candidate-vibid:2272000773431": 419,
+      "gas:candidate-vibid:2272000772718": 39,
+      "gas:candidate-vibid:2272000743845": 175,
+      "gas:candidate-vibid:2272000775074": 18,
+      "gas:candidate-vibid:2272000772110": 75,
+      "gas:candidate-vibid:2272000772408": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 17,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 175,
-      "Глухов Игорь Станиславович": 20,
-      "Грешнякова Елена Геннадьевна": 70,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 42,
-      "Титоренко Владимир Федорович": 9
+      "gas:candidate-vibid:2272000774353": 17,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 175,
+      "gas:candidate-vibid:2272000772718": 20,
+      "gas:candidate-vibid:2272000743845": 70,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 42,
+      "gas:candidate-vibid:2272000772408": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 22,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 147,
-      "Глухов Игорь Станиславович": 26,
-      "Грешнякова Елена Геннадьевна": 64,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 15,
-      "Титоренко Владимир Федорович": 14
+      "gas:candidate-vibid:2272000774353": 22,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 147,
+      "gas:candidate-vibid:2272000772718": 26,
+      "gas:candidate-vibid:2272000743845": 64,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 15,
+      "gas:candidate-vibid:2272000772408": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 171,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 35,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 13,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 171,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 35,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 13,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 1,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 27,
-      "Глухов Игорь Станиславович": 1,
-      "Грешнякова Елена Геннадьевна": 6,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 7,
-      "Титоренко Владимир Федорович": 0
+      "gas:candidate-vibid:2272000774353": 1,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 27,
+      "gas:candidate-vibid:2272000772718": 1,
+      "gas:candidate-vibid:2272000743845": 6,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 7,
+      "gas:candidate-vibid:2272000772408": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 5,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 45,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 9,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 6,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 5,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 45,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 9,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 6,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 50,
-      "Ворсин Алексей Юрьевич": 31,
-      "Гладких Борис Михайлович": 268,
-      "Глухов Игорь Станиславович": 37,
-      "Грешнякова Елена Геннадьевна": 143,
-      "Петров Андрей Петрович": 24,
-      "Постников Виктор Михайлович": 85,
-      "Титоренко Владимир Федорович": 38
+      "gas:candidate-vibid:2272000774353": 50,
+      "gas:candidate-vibid:2272000774877": 31,
+      "gas:candidate-vibid:2272000773431": 268,
+      "gas:candidate-vibid:2272000772718": 37,
+      "gas:candidate-vibid:2272000743845": 143,
+      "gas:candidate-vibid:2272000775074": 24,
+      "gas:candidate-vibid:2272000772110": 85,
+      "gas:candidate-vibid:2272000772408": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 189,
-      "Глухов Игорь Станиславович": 20,
-      "Грешнякова Елена Геннадьевна": 61,
-      "Петров Андрей Петрович": 35,
-      "Постников Виктор Михайлович": 28,
-      "Титоренко Владимир Федорович": 16
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 189,
+      "gas:candidate-vibid:2272000772718": 20,
+      "gas:candidate-vibid:2272000743845": 61,
+      "gas:candidate-vibid:2272000775074": 35,
+      "gas:candidate-vibid:2272000772110": 28,
+      "gas:candidate-vibid:2272000772408": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 2,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 192,
-      "Глухов Игорь Станиславович": 5,
-      "Грешнякова Елена Геннадьевна": 6,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 4,
-      "Титоренко Владимир Федорович": 0
+      "gas:candidate-vibid:2272000774353": 2,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 192,
+      "gas:candidate-vibid:2272000772718": 5,
+      "gas:candidate-vibid:2272000743845": 6,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 4,
+      "gas:candidate-vibid:2272000772408": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 1,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 79,
-      "Глухов Игорь Станиславович": 1,
-      "Грешнякова Елена Геннадьевна": 10,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 3,
-      "Титоренко Владимир Федорович": 0
+      "gas:candidate-vibid:2272000774353": 1,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 79,
+      "gas:candidate-vibid:2272000772718": 1,
+      "gas:candidate-vibid:2272000743845": 10,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 3,
+      "gas:candidate-vibid:2272000772408": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 154,
-      "Глухов Игорь Станиславович": 8,
-      "Грешнякова Елена Геннадьевна": 9,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 10,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 154,
+      "gas:candidate-vibid:2272000772718": 8,
+      "gas:candidate-vibid:2272000743845": 9,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 10,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 132,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 39,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 29,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 132,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 39,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 29,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 80,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 17,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 12,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 80,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 17,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 12,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 4,
-      "Ворсин Алексей Юрьевич": 7,
-      "Гладких Борис Михайлович": 122,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 11,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 4,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 4,
+      "gas:candidate-vibid:2272000774877": 7,
+      "gas:candidate-vibid:2272000773431": 122,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 11,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 4,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 10,
-      "Гладких Борис Михайлович": 207,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 123,
-      "Петров Андрей Петрович": 14,
-      "Постников Виктор Михайлович": 24,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 10,
+      "gas:candidate-vibid:2272000773431": 207,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 123,
+      "gas:candidate-vibid:2272000775074": 14,
+      "gas:candidate-vibid:2272000772110": 24,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 33,
-      "Ворсин Алексей Юрьевич": 13,
-      "Гладких Борис Михайлович": 380,
-      "Глухов Игорь Станиславович": 44,
-      "Грешнякова Елена Геннадьевна": 98,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 55,
-      "Титоренко Владимир Федорович": 32
+      "gas:candidate-vibid:2272000774353": 33,
+      "gas:candidate-vibid:2272000774877": 13,
+      "gas:candidate-vibid:2272000773431": 380,
+      "gas:candidate-vibid:2272000772718": 44,
+      "gas:candidate-vibid:2272000743845": 98,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 55,
+      "gas:candidate-vibid:2272000772408": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 41,
-      "Ворсин Алексей Юрьевич": 12,
-      "Гладких Борис Михайлович": 261,
-      "Глухов Игорь Станиславович": 28,
-      "Грешнякова Елена Геннадьевна": 85,
-      "Петров Андрей Петрович": 14,
-      "Постников Виктор Михайлович": 60,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 41,
+      "gas:candidate-vibid:2272000774877": 12,
+      "gas:candidate-vibid:2272000773431": 261,
+      "gas:candidate-vibid:2272000772718": 28,
+      "gas:candidate-vibid:2272000743845": 85,
+      "gas:candidate-vibid:2272000775074": 14,
+      "gas:candidate-vibid:2272000772110": 60,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 4,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 228,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 13,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 7,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 4,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 228,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 13,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 7,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 33,
-      "Ворсин Алексей Юрьевич": 19,
-      "Гладких Борис Михайлович": 483,
-      "Глухов Игорь Станиславович": 34,
-      "Грешнякова Елена Геннадьевна": 132,
-      "Петров Андрей Петрович": 22,
-      "Постников Виктор Михайлович": 80,
-      "Титоренко Владимир Федорович": 22
+      "gas:candidate-vibid:2272000774353": 33,
+      "gas:candidate-vibid:2272000774877": 19,
+      "gas:candidate-vibid:2272000773431": 483,
+      "gas:candidate-vibid:2272000772718": 34,
+      "gas:candidate-vibid:2272000743845": 132,
+      "gas:candidate-vibid:2272000775074": 22,
+      "gas:candidate-vibid:2272000772110": 80,
+      "gas:candidate-vibid:2272000772408": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 171,
-      "Глухов Игорь Станиславович": 15,
-      "Грешнякова Елена Геннадьевна": 61,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 41,
-      "Титоренко Владимир Федорович": 16
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 171,
+      "gas:candidate-vibid:2272000772718": 15,
+      "gas:candidate-vibid:2272000743845": 61,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 41,
+      "gas:candidate-vibid:2272000772408": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 49,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 241,
-      "Глухов Игорь Станиславович": 21,
-      "Грешнякова Елена Геннадьевна": 69,
-      "Петров Андрей Петрович": 16,
-      "Постников Виктор Михайлович": 32,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 49,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 241,
+      "gas:candidate-vibid:2272000772718": 21,
+      "gas:candidate-vibid:2272000743845": 69,
+      "gas:candidate-vibid:2272000775074": 16,
+      "gas:candidate-vibid:2272000772110": 32,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 53,
-      "Ворсин Алексей Юрьевич": 31,
-      "Гладких Борис Михайлович": 300,
-      "Глухов Игорь Станиславович": 50,
-      "Грешнякова Елена Геннадьевна": 93,
-      "Петров Андрей Петрович": 13,
-      "Постников Виктор Михайлович": 50,
-      "Титоренко Владимир Федорович": 18
+      "gas:candidate-vibid:2272000774353": 53,
+      "gas:candidate-vibid:2272000774877": 31,
+      "gas:candidate-vibid:2272000773431": 300,
+      "gas:candidate-vibid:2272000772718": 50,
+      "gas:candidate-vibid:2272000743845": 93,
+      "gas:candidate-vibid:2272000775074": 13,
+      "gas:candidate-vibid:2272000772110": 50,
+      "gas:candidate-vibid:2272000772408": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676920&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676920&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 124,
-      "Глухов Игорь Станиславович": 9,
-      "Грешнякова Елена Геннадьевна": 29,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 15,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 124,
+      "gas:candidate-vibid:2272000772718": 9,
+      "gas:candidate-vibid:2272000743845": 29,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 15,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 33,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 95,
-      "Глухов Игорь Станиславович": 23,
-      "Грешнякова Елена Геннадьевна": 46,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 19,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 33,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 95,
+      "gas:candidate-vibid:2272000772718": 23,
+      "gas:candidate-vibid:2272000743845": 46,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 19,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 150,
-      "Глухов Игорь Станиславович": 20,
-      "Грешнякова Елена Геннадьевна": 55,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 43,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 150,
+      "gas:candidate-vibid:2272000772718": 20,
+      "gas:candidate-vibid:2272000743845": 55,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 43,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 14,
-      "Гладких Борис Михайлович": 120,
-      "Глухов Игорь Станиславович": 17,
-      "Грешнякова Елена Геннадьевна": 80,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 63,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 14,
+      "gas:candidate-vibid:2272000773431": 120,
+      "gas:candidate-vibid:2272000772718": 17,
+      "gas:candidate-vibid:2272000743845": 80,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 63,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 26,
-      "Ворсин Алексей Юрьевич": 7,
-      "Гладких Борис Михайлович": 161,
-      "Глухов Игорь Станиславович": 31,
-      "Грешнякова Елена Геннадьевна": 87,
-      "Петров Андрей Петрович": 14,
-      "Постников Виктор Михайлович": 63,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 26,
+      "gas:candidate-vibid:2272000774877": 7,
+      "gas:candidate-vibid:2272000773431": 161,
+      "gas:candidate-vibid:2272000772718": 31,
+      "gas:candidate-vibid:2272000743845": 87,
+      "gas:candidate-vibid:2272000775074": 14,
+      "gas:candidate-vibid:2272000772110": 63,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 38,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 228,
-      "Глухов Игорь Станиславович": 46,
-      "Грешнякова Елена Геннадьевна": 132,
-      "Петров Андрей Петрович": 20,
-      "Постников Виктор Михайлович": 116,
-      "Титоренко Владимир Федорович": 35
+      "gas:candidate-vibid:2272000774353": 38,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 228,
+      "gas:candidate-vibid:2272000772718": 46,
+      "gas:candidate-vibid:2272000743845": 132,
+      "gas:candidate-vibid:2272000775074": 20,
+      "gas:candidate-vibid:2272000772110": 116,
+      "gas:candidate-vibid:2272000772408": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 34,
-      "Ворсин Алексей Юрьевич": 21,
-      "Гладких Борис Михайлович": 289,
-      "Глухов Игорь Станиславович": 36,
-      "Грешнякова Елена Геннадьевна": 153,
-      "Петров Андрей Петрович": 22,
-      "Постников Виктор Михайлович": 117,
-      "Титоренко Владимир Федорович": 29
+      "gas:candidate-vibid:2272000774353": 34,
+      "gas:candidate-vibid:2272000774877": 21,
+      "gas:candidate-vibid:2272000773431": 289,
+      "gas:candidate-vibid:2272000772718": 36,
+      "gas:candidate-vibid:2272000743845": 153,
+      "gas:candidate-vibid:2272000775074": 22,
+      "gas:candidate-vibid:2272000772110": 117,
+      "gas:candidate-vibid:2272000772408": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 13,
-      "Гладких Борис Михайлович": 189,
-      "Глухов Игорь Станиславович": 27,
-      "Грешнякова Елена Геннадьевна": 116,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 104,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 13,
+      "gas:candidate-vibid:2272000773431": 189,
+      "gas:candidate-vibid:2272000772718": 27,
+      "gas:candidate-vibid:2272000743845": 116,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 104,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 20,
-      "Ворсин Алексей Юрьевич": 9,
-      "Гладких Борис Михайлович": 105,
-      "Глухов Игорь Станиславович": 19,
-      "Грешнякова Елена Геннадьевна": 74,
-      "Петров Андрей Петрович": 11,
-      "Постников Виктор Михайлович": 78,
-      "Титоренко Владимир Федорович": 16
+      "gas:candidate-vibid:2272000774353": 20,
+      "gas:candidate-vibid:2272000774877": 9,
+      "gas:candidate-vibid:2272000773431": 105,
+      "gas:candidate-vibid:2272000772718": 19,
+      "gas:candidate-vibid:2272000743845": 74,
+      "gas:candidate-vibid:2272000775074": 11,
+      "gas:candidate-vibid:2272000772110": 78,
+      "gas:candidate-vibid:2272000772408": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 137,
-      "Глухов Игорь Станиславович": 28,
-      "Грешнякова Елена Геннадьевна": 112,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 62,
-      "Титоренко Владимир Федорович": 14
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 137,
+      "gas:candidate-vibid:2272000772718": 28,
+      "gas:candidate-vibid:2272000743845": 112,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 62,
+      "gas:candidate-vibid:2272000772408": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 25,
-      "Ворсин Алексей Юрьевич": 40,
-      "Гладких Борис Михайлович": 205,
-      "Глухов Игорь Станиславович": 19,
-      "Грешнякова Елена Геннадьевна": 77,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 42,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 25,
+      "gas:candidate-vibid:2272000774877": 40,
+      "gas:candidate-vibid:2272000773431": 205,
+      "gas:candidate-vibid:2272000772718": 19,
+      "gas:candidate-vibid:2272000743845": 77,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 42,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 29,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 128,
-      "Глухов Игорь Станиславович": 32,
-      "Грешнякова Елена Геннадьевна": 99,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 49,
-      "Титоренко Владимир Федорович": 21
+      "gas:candidate-vibid:2272000774353": 29,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 128,
+      "gas:candidate-vibid:2272000772718": 32,
+      "gas:candidate-vibid:2272000743845": 99,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 49,
+      "gas:candidate-vibid:2272000772408": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 4,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 76,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 30,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 29,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 4,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 76,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 30,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 29,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 40,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 27,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 20,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 40,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 27,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 20,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 78,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 54,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 53,
-      "Титоренко Владимир Федорович": 31
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 78,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 54,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 53,
+      "gas:candidate-vibid:2272000772408": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 2,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 18,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 13,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 2,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 2,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 18,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 13,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 2,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 36,
-      "Ворсин Алексей Юрьевич": 15,
-      "Гладких Борис Михайлович": 153,
-      "Глухов Игорь Станиславович": 44,
-      "Грешнякова Елена Геннадьевна": 112,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 101,
-      "Титоренко Владимир Федорович": 33
+      "gas:candidate-vibid:2272000774353": 36,
+      "gas:candidate-vibid:2272000774877": 15,
+      "gas:candidate-vibid:2272000773431": 153,
+      "gas:candidate-vibid:2272000772718": 44,
+      "gas:candidate-vibid:2272000743845": 112,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 101,
+      "gas:candidate-vibid:2272000772408": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 52,
-      "Ворсин Алексей Юрьевич": 21,
-      "Гладких Борис Михайлович": 344,
-      "Глухов Игорь Станиславович": 118,
-      "Грешнякова Елена Геннадьевна": 215,
-      "Петров Андрей Петрович": 21,
-      "Постников Виктор Михайлович": 210,
-      "Титоренко Владимир Федорович": 53
+      "gas:candidate-vibid:2272000774353": 52,
+      "gas:candidate-vibid:2272000774877": 21,
+      "gas:candidate-vibid:2272000773431": 344,
+      "gas:candidate-vibid:2272000772718": 118,
+      "gas:candidate-vibid:2272000743845": 215,
+      "gas:candidate-vibid:2272000775074": 21,
+      "gas:candidate-vibid:2272000772110": 210,
+      "gas:candidate-vibid:2272000772408": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 35,
-      "Ворсин Алексей Юрьевич": 31,
-      "Гладких Борис Михайлович": 185,
-      "Глухов Игорь Станиславович": 26,
-      "Грешнякова Елена Геннадьевна": 150,
-      "Петров Андрей Петрович": 20,
-      "Постников Виктор Михайлович": 110,
-      "Титоренко Владимир Федорович": 32
+      "gas:candidate-vibid:2272000774353": 35,
+      "gas:candidate-vibid:2272000774877": 31,
+      "gas:candidate-vibid:2272000773431": 185,
+      "gas:candidate-vibid:2272000772718": 26,
+      "gas:candidate-vibid:2272000743845": 150,
+      "gas:candidate-vibid:2272000775074": 20,
+      "gas:candidate-vibid:2272000772110": 110,
+      "gas:candidate-vibid:2272000772408": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 33,
-      "Ворсин Алексей Юрьевич": 25,
-      "Гладких Борис Михайлович": 289,
-      "Глухов Игорь Станиславович": 67,
-      "Грешнякова Елена Геннадьевна": 188,
-      "Петров Андрей Петрович": 22,
-      "Постников Виктор Михайлович": 192,
-      "Титоренко Владимир Федорович": 34
+      "gas:candidate-vibid:2272000774353": 33,
+      "gas:candidate-vibid:2272000774877": 25,
+      "gas:candidate-vibid:2272000773431": 289,
+      "gas:candidate-vibid:2272000772718": 67,
+      "gas:candidate-vibid:2272000743845": 188,
+      "gas:candidate-vibid:2272000775074": 22,
+      "gas:candidate-vibid:2272000772110": 192,
+      "gas:candidate-vibid:2272000772408": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 21,
-      "Ворсин Алексей Юрьевич": 7,
-      "Гладких Борис Михайлович": 85,
-      "Глухов Игорь Станиславович": 12,
-      "Грешнякова Елена Геннадьевна": 37,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 18,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 21,
+      "gas:candidate-vibid:2272000774877": 7,
+      "gas:candidate-vibid:2272000773431": 85,
+      "gas:candidate-vibid:2272000772718": 12,
+      "gas:candidate-vibid:2272000743845": 37,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 18,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 77,
-      "Глухов Игорь Станиславович": 16,
-      "Грешнякова Елена Геннадьевна": 73,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 28,
-      "Титоренко Владимир Федорович": 4
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 77,
+      "gas:candidate-vibid:2272000772718": 16,
+      "gas:candidate-vibid:2272000743845": 73,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 28,
+      "gas:candidate-vibid:2272000772408": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 50,
-      "Глухов Игорь Станиславович": 8,
-      "Грешнякова Елена Геннадьевна": 14,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 12,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 50,
+      "gas:candidate-vibid:2272000772718": 8,
+      "gas:candidate-vibid:2272000743845": 14,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 12,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 75,
-      "Глухов Игорь Станиславович": 25,
-      "Грешнякова Елена Геннадьевна": 58,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 31,
-      "Титоренко Владимир Федорович": 9
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 75,
+      "gas:candidate-vibid:2272000772718": 25,
+      "gas:candidate-vibid:2272000743845": 58,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 31,
+      "gas:candidate-vibid:2272000772408": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 0,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 34,
-      "Глухов Игорь Станиславович": 0,
-      "Грешнякова Елена Геннадьевна": 18,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 3,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 0,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 34,
+      "gas:candidate-vibid:2272000772718": 0,
+      "gas:candidate-vibid:2272000743845": 18,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 3,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 18,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 124,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 60,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 49,
-      "Титоренко Владимир Федорович": 16
+      "gas:candidate-vibid:2272000774353": 18,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 124,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 60,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 49,
+      "gas:candidate-vibid:2272000772408": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 91,
-      "Глухов Игорь Станиславович": 12,
-      "Грешнякова Елена Геннадьевна": 31,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 21,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 91,
+      "gas:candidate-vibid:2272000772718": 12,
+      "gas:candidate-vibid:2272000743845": 31,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 21,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 118,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 40,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 23,
-      "Титоренко Владимир Федорович": 15
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 118,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 40,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 23,
+      "gas:candidate-vibid:2272000772408": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 0,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 31,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 5,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 2,
-      "Титоренко Владимир Федорович": 0
+      "gas:candidate-vibid:2272000774353": 0,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 31,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 5,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 2,
+      "gas:candidate-vibid:2272000772408": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 5,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 80,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 26,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 40,
-      "Титоренко Владимир Федорович": 3
+      "gas:candidate-vibid:2272000774353": 5,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 80,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 26,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 40,
+      "gas:candidate-vibid:2272000772408": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 4,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 10,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 12,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 5,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 4,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 10,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 12,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 5,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 16,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 47,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 20,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 44,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 16,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 47,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 20,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 44,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 62,
-      "Глухов Игорь Станиславович": 22,
-      "Грешнякова Елена Геннадьевна": 20,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 7,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 62,
+      "gas:candidate-vibid:2272000772718": 22,
+      "gas:candidate-vibid:2272000743845": 20,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 7,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 139,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 33,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 23,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 139,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 33,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 23,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 16,
-      "Ворсин Алексей Юрьевич": 10,
-      "Гладких Борис Михайлович": 128,
-      "Глухов Игорь Станиславович": 16,
-      "Грешнякова Елена Геннадьевна": 47,
-      "Петров Андрей Петрович": 22,
-      "Постников Виктор Михайлович": 33,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 16,
+      "gas:candidate-vibid:2272000774877": 10,
+      "gas:candidate-vibid:2272000773431": 128,
+      "gas:candidate-vibid:2272000772718": 16,
+      "gas:candidate-vibid:2272000743845": 47,
+      "gas:candidate-vibid:2272000775074": 22,
+      "gas:candidate-vibid:2272000772110": 33,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 0,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 24,
-      "Глухов Игорь Станиславович": 5,
-      "Грешнякова Елена Геннадьевна": 21,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 4,
-      "Титоренко Владимир Федорович": 3
+      "gas:candidate-vibid:2272000774353": 0,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 24,
+      "gas:candidate-vibid:2272000772718": 5,
+      "gas:candidate-vibid:2272000743845": 21,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 4,
+      "gas:candidate-vibid:2272000772408": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 111,
-      "Глухов Игорь Станиславович": 16,
-      "Грешнякова Елена Геннадьевна": 60,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 51,
-      "Титоренко Владимир Федорович": 15
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 111,
+      "gas:candidate-vibid:2272000772718": 16,
+      "gas:candidate-vibid:2272000743845": 60,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 51,
+      "gas:candidate-vibid:2272000772408": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 6,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 43,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 7,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 14,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 6,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 43,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 7,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 14,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 18,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 131,
-      "Глухов Игорь Станиславович": 10,
-      "Грешнякова Елена Геннадьевна": 50,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 42,
-      "Титоренко Владимир Федорович": 9
+      "gas:candidate-vibid:2272000774353": 18,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 131,
+      "gas:candidate-vibid:2272000772718": 10,
+      "gas:candidate-vibid:2272000743845": 50,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 42,
+      "gas:candidate-vibid:2272000772408": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 121,
-      "Глухов Игорь Станиславович": 22,
-      "Грешнякова Елена Геннадьевна": 55,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 49,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 121,
+      "gas:candidate-vibid:2272000772718": 22,
+      "gas:candidate-vibid:2272000743845": 55,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 49,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 1,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 28,
-      "Глухов Игорь Станиславович": 6,
-      "Грешнякова Елена Геннадьевна": 4,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 2,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 1,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 28,
+      "gas:candidate-vibid:2272000772718": 6,
+      "gas:candidate-vibid:2272000743845": 4,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 2,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 6,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 18,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 20,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 8,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 6,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 18,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 20,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 8,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 5,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 73,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 25,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 19,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 5,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 73,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 25,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 19,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 28,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 15,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 4,
-      "Титоренко Владимир Федорович": 4
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 28,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 15,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 4,
+      "gas:candidate-vibid:2272000772408": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 3,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 43,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 20,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 6,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 3,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 43,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 20,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 6,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 71,
-      "Глухов Игорь Станиславович": 4,
-      "Грешнякова Елена Геннадьевна": 17,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 14,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 71,
+      "gas:candidate-vibid:2272000772718": 4,
+      "gas:candidate-vibid:2272000743845": 17,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 14,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 17,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 42,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 19,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 9,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 17,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 42,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 19,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 9,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 39,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 14,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 7,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 39,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 14,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 7,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 104,
-      "Глухов Игорь Станиславович": 6,
-      "Грешнякова Елена Геннадьевна": 31,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 20,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 104,
+      "gas:candidate-vibid:2272000772718": 6,
+      "gas:candidate-vibid:2272000743845": 31,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 20,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 33,
-      "Глухов Игорь Станиславович": 4,
-      "Грешнякова Елена Геннадьевна": 25,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 9,
-      "Титоренко Владимир Федорович": 3
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 33,
+      "gas:candidate-vibid:2272000772718": 4,
+      "gas:candidate-vibid:2272000743845": 25,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 9,
+      "gas:candidate-vibid:2272000772408": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 25,
-      "Ворсин Алексей Юрьевич": 13,
-      "Гладких Борис Михайлович": 188,
-      "Глухов Игорь Станиславович": 31,
-      "Грешнякова Елена Геннадьевна": 81,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 114,
-      "Титоренко Владимир Федорович": 23
+      "gas:candidate-vibid:2272000774353": 25,
+      "gas:candidate-vibid:2272000774877": 13,
+      "gas:candidate-vibid:2272000773431": 188,
+      "gas:candidate-vibid:2272000772718": 31,
+      "gas:candidate-vibid:2272000743845": 81,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 114,
+      "gas:candidate-vibid:2272000772408": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 3,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 117,
-      "Глухов Игорь Станиславович": 4,
-      "Грешнякова Елена Геннадьевна": 22,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 18,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 3,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 117,
+      "gas:candidate-vibid:2272000772718": 4,
+      "gas:candidate-vibid:2272000743845": 22,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 18,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 16,
-      "Ворсин Алексей Юрьевич": 10,
-      "Гладких Борис Михайлович": 134,
-      "Глухов Игорь Станиславович": 27,
-      "Грешнякова Елена Геннадьевна": 46,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 42,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 16,
+      "gas:candidate-vibid:2272000774877": 10,
+      "gas:candidate-vibid:2272000773431": 134,
+      "gas:candidate-vibid:2272000772718": 27,
+      "gas:candidate-vibid:2272000743845": 46,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 42,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 12,
-      "Гладких Борис Михайлович": 66,
-      "Глухов Игорь Станиславович": 19,
-      "Грешнякова Елена Геннадьевна": 73,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 28,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 12,
+      "gas:candidate-vibid:2272000773431": 66,
+      "gas:candidate-vibid:2272000772718": 19,
+      "gas:candidate-vibid:2272000743845": 73,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 28,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 132,
-      "Глухов Игорь Станиславович": 18,
-      "Грешнякова Елена Геннадьевна": 57,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 28,
-      "Титоренко Владимир Федорович": 16
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 132,
+      "gas:candidate-vibid:2272000772718": 18,
+      "gas:candidate-vibid:2272000743845": 57,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 28,
+      "gas:candidate-vibid:2272000772408": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676921&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676921&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 5,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 47,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 14,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 7,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 5,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 47,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 14,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 7,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 58,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 13,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 21,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 58,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 13,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 21,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 18,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 101,
-      "Глухов Игорь Станиславович": 18,
-      "Грешнякова Елена Геннадьевна": 55,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 29,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 18,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 101,
+      "gas:candidate-vibid:2272000772718": 18,
+      "gas:candidate-vibid:2272000743845": 55,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 29,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 2,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 26,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 15,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 16,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 2,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 26,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 15,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 16,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 39,
-      "Глухов Игорь Станиславович": 4,
-      "Грешнякова Елена Геннадьевна": 34,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 9,
-      "Титоренко Владимир Федорович": 3
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 39,
+      "gas:candidate-vibid:2272000772718": 4,
+      "gas:candidate-vibid:2272000743845": 34,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 9,
+      "gas:candidate-vibid:2272000772408": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 56,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 58,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 29,
-      "Титоренко Владимир Федорович": 3
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 56,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 58,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 29,
+      "gas:candidate-vibid:2272000772408": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 55,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 23,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 12,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 55,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 23,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 12,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 117,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 65,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 48,
-      "Титоренко Владимир Федорович": 16
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 117,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 65,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 48,
+      "gas:candidate-vibid:2272000772408": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 16,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 99,
-      "Глухов Игорь Станиславович": 22,
-      "Грешнякова Елена Геннадьевна": 83,
-      "Петров Андрей Петрович": 8,
-      "Постников Виктор Михайлович": 31,
-      "Титоренко Владимир Федорович": 21
+      "gas:candidate-vibid:2272000774353": 16,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 99,
+      "gas:candidate-vibid:2272000772718": 22,
+      "gas:candidate-vibid:2272000743845": 83,
+      "gas:candidate-vibid:2272000775074": 8,
+      "gas:candidate-vibid:2272000772110": 31,
+      "gas:candidate-vibid:2272000772408": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 5,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 81,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 41,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 16,
-      "Титоренко Владимир Федорович": 4
+      "gas:candidate-vibid:2272000774353": 5,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 81,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 41,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 16,
+      "gas:candidate-vibid:2272000772408": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 75,
-      "Глухов Игорь Станиславович": 21,
-      "Грешнякова Елена Геннадьевна": 66,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 21,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 75,
+      "gas:candidate-vibid:2272000772718": 21,
+      "gas:candidate-vibid:2272000743845": 66,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 21,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 64,
-      "Глухов Игорь Станиславович": 9,
-      "Грешнякова Елена Геннадьевна": 63,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 25,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 64,
+      "gas:candidate-vibid:2272000772718": 9,
+      "gas:candidate-vibid:2272000743845": 63,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 25,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 4,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 53,
-      "Глухов Игорь Станиславович": 4,
-      "Грешнякова Елена Геннадьевна": 18,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 10,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 4,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 53,
+      "gas:candidate-vibid:2272000772718": 4,
+      "gas:candidate-vibid:2272000743845": 18,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 10,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 18,
-      "Ворсин Алексей Юрьевич": 9,
-      "Гладких Борис Михайлович": 167,
-      "Глухов Игорь Станиславович": 34,
-      "Грешнякова Елена Геннадьевна": 131,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 47,
-      "Титоренко Владимир Федорович": 22
+      "gas:candidate-vibid:2272000774353": 18,
+      "gas:candidate-vibid:2272000774877": 9,
+      "gas:candidate-vibid:2272000773431": 167,
+      "gas:candidate-vibid:2272000772718": 34,
+      "gas:candidate-vibid:2272000743845": 131,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 47,
+      "gas:candidate-vibid:2272000772408": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 124,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 53,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 12,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 124,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 53,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 12,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 1,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 10,
-      "Глухов Игорь Станиславович": 0,
-      "Грешнякова Елена Геннадьевна": 10,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 11,
-      "Титоренко Владимир Федорович": 1
+      "gas:candidate-vibid:2272000774353": 1,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 10,
+      "gas:candidate-vibid:2272000772718": 0,
+      "gas:candidate-vibid:2272000743845": 10,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 11,
+      "gas:candidate-vibid:2272000772408": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 60,
-      "Глухов Игорь Станиславович": 5,
-      "Грешнякова Елена Геннадьевна": 37,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 14,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 60,
+      "gas:candidate-vibid:2272000772718": 5,
+      "gas:candidate-vibid:2272000743845": 37,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 14,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 5,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 64,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 38,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 8,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 5,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 64,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 38,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 8,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 168,
-      "Глухов Игорь Станиславович": 42,
-      "Грешнякова Елена Геннадьевна": 112,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 66,
-      "Титоренко Владимир Федорович": 20
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 168,
+      "gas:candidate-vibid:2272000772718": 42,
+      "gas:candidate-vibid:2272000743845": 112,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 66,
+      "gas:candidate-vibid:2272000772408": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 85,
-      "Глухов Игорь Станиславович": 9,
-      "Грешнякова Елена Геннадьевна": 74,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 36,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 85,
+      "gas:candidate-vibid:2272000772718": 9,
+      "gas:candidate-vibid:2272000743845": 74,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 36,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 101,
-      "Глухов Игорь Станиславович": 17,
-      "Грешнякова Елена Геннадьевна": 87,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 50,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 101,
+      "gas:candidate-vibid:2272000772718": 17,
+      "gas:candidate-vibid:2272000743845": 87,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 50,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 12,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 88,
-      "Глухов Игорь Станиславович": 9,
-      "Грешнякова Елена Геннадьевна": 73,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 38,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 12,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 88,
+      "gas:candidate-vibid:2272000772718": 9,
+      "gas:candidate-vibid:2272000743845": 73,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 38,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 121,
-      "Глухов Игорь Станиславович": 21,
-      "Грешнякова Елена Геннадьевна": 104,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 66,
-      "Титоренко Владимир Федорович": 14
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 121,
+      "gas:candidate-vibid:2272000772718": 21,
+      "gas:candidate-vibid:2272000743845": 104,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 66,
+      "gas:candidate-vibid:2272000772408": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 96,
-      "Глухов Игорь Станиславович": 16,
-      "Грешнякова Елена Геннадьевна": 65,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 24,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 96,
+      "gas:candidate-vibid:2272000772718": 16,
+      "gas:candidate-vibid:2272000743845": 65,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 24,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 48,
-      "Глухов Игорь Станиславович": 8,
-      "Грешнякова Елена Геннадьевна": 42,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 27,
-      "Титоренко Владимир Федорович": 4
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 48,
+      "gas:candidate-vibid:2272000772718": 8,
+      "gas:candidate-vibid:2272000743845": 42,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 27,
+      "gas:candidate-vibid:2272000772408": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 3,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 43,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 30,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 20,
-      "Титоренко Владимир Федорович": 6
+      "gas:candidate-vibid:2272000774353": 3,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 43,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 30,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 20,
+      "gas:candidate-vibid:2272000772408": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 170,
-      "Глухов Игорь Станиславович": 27,
-      "Грешнякова Елена Геннадьевна": 105,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 66,
-      "Титоренко Владимир Федорович": 19
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 170,
+      "gas:candidate-vibid:2272000772718": 27,
+      "gas:candidate-vibid:2272000743845": 105,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 66,
+      "gas:candidate-vibid:2272000772408": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 34,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 210,
-      "Глухов Игорь Станиславович": 43,
-      "Грешнякова Елена Геннадьевна": 164,
-      "Петров Андрей Петрович": 19,
-      "Постников Виктор Михайлович": 115,
-      "Титоренко Владимир Федорович": 24
+      "gas:candidate-vibid:2272000774353": 34,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 210,
+      "gas:candidate-vibid:2272000772718": 43,
+      "gas:candidate-vibid:2272000743845": 164,
+      "gas:candidate-vibid:2272000775074": 19,
+      "gas:candidate-vibid:2272000772110": 115,
+      "gas:candidate-vibid:2272000772408": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 34,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 27,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 25,
-      "Титоренко Владимир Федорович": 0
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 34,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 27,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 25,
+      "gas:candidate-vibid:2272000772408": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 101,
-      "Глухов Игорь Станиславович": 10,
-      "Грешнякова Елена Геннадьевна": 72,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 50,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 101,
+      "gas:candidate-vibid:2272000772718": 10,
+      "gas:candidate-vibid:2272000743845": 72,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 50,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 16,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 160,
-      "Глухов Игорь Станиславович": 18,
-      "Грешнякова Елена Геннадьевна": 103,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 44,
-      "Титоренко Владимир Федорович": 18
+      "gas:candidate-vibid:2272000774353": 16,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 160,
+      "gas:candidate-vibid:2272000772718": 18,
+      "gas:candidate-vibid:2272000743845": 103,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 44,
+      "gas:candidate-vibid:2272000772408": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 93,
-      "Глухов Игорь Станиславович": 28,
-      "Грешнякова Елена Геннадьевна": 80,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 27,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 93,
+      "gas:candidate-vibid:2272000772718": 28,
+      "gas:candidate-vibid:2272000743845": 80,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 27,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676922&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676922&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 33,
-      "Ворсин Алексей Юрьевич": 18,
-      "Гладких Борис Михайлович": 155,
-      "Глухов Игорь Станиславович": 35,
-      "Грешнякова Елена Геннадьевна": 260,
-      "Петров Андрей Петрович": 15,
-      "Постников Виктор Михайлович": 103,
-      "Титоренко Владимир Федорович": 29
+      "gas:candidate-vibid:2272000774353": 33,
+      "gas:candidate-vibid:2272000774877": 18,
+      "gas:candidate-vibid:2272000773431": 155,
+      "gas:candidate-vibid:2272000772718": 35,
+      "gas:candidate-vibid:2272000743845": 260,
+      "gas:candidate-vibid:2272000775074": 15,
+      "gas:candidate-vibid:2272000772110": 103,
+      "gas:candidate-vibid:2272000772408": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 19,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 172,
-      "Глухов Игорь Станиславович": 25,
-      "Грешнякова Елена Геннадьевна": 169,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 78,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 19,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 172,
+      "gas:candidate-vibid:2272000772718": 25,
+      "gas:candidate-vibid:2272000743845": 169,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 78,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 1,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 39,
-      "Глухов Игорь Станиславович": 6,
-      "Грешнякова Елена Геннадьевна": 54,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 21,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 1,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 39,
+      "gas:candidate-vibid:2272000772718": 6,
+      "gas:candidate-vibid:2272000743845": 54,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 21,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 78,
-      "Глухов Игорь Станиславович": 19,
-      "Грешнякова Елена Геннадьевна": 100,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 70,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 78,
+      "gas:candidate-vibid:2272000772718": 19,
+      "gas:candidate-vibid:2272000743845": 100,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 70,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 32,
-      "Ворсин Алексей Юрьевич": 21,
-      "Гладких Борис Михайлович": 177,
-      "Глухов Игорь Станиславович": 41,
-      "Грешнякова Елена Геннадьевна": 268,
-      "Петров Андрей Петрович": 18,
-      "Постников Виктор Михайлович": 103,
-      "Титоренко Владимир Федорович": 38
+      "gas:candidate-vibid:2272000774353": 32,
+      "gas:candidate-vibid:2272000774877": 21,
+      "gas:candidate-vibid:2272000773431": 177,
+      "gas:candidate-vibid:2272000772718": 41,
+      "gas:candidate-vibid:2272000743845": 268,
+      "gas:candidate-vibid:2272000775074": 18,
+      "gas:candidate-vibid:2272000772110": 103,
+      "gas:candidate-vibid:2272000772408": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 18,
-      "Ворсин Алексей Юрьевич": 9,
-      "Гладких Борис Михайлович": 103,
-      "Глухов Игорь Станиславович": 26,
-      "Грешнякова Елена Геннадьевна": 117,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 63,
-      "Титоренко Владимир Федорович": 22
+      "gas:candidate-vibid:2272000774353": 18,
+      "gas:candidate-vibid:2272000774877": 9,
+      "gas:candidate-vibid:2272000773431": 103,
+      "gas:candidate-vibid:2272000772718": 26,
+      "gas:candidate-vibid:2272000743845": 117,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 63,
+      "gas:candidate-vibid:2272000772408": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 15,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 114,
-      "Глухов Игорь Станиславович": 24,
-      "Грешнякова Елена Геннадьевна": 133,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 53,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 15,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 114,
+      "gas:candidate-vibid:2272000772718": 24,
+      "gas:candidate-vibid:2272000743845": 133,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 53,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 25,
-      "Ворсин Алексей Юрьевич": 19,
-      "Гладких Борис Михайлович": 203,
-      "Глухов Игорь Станиславович": 40,
-      "Грешнякова Елена Геннадьевна": 250,
-      "Петров Андрей Петрович": 19,
-      "Постников Виктор Михайлович": 108,
-      "Титоренко Владимир Федорович": 23
+      "gas:candidate-vibid:2272000774353": 25,
+      "gas:candidate-vibid:2272000774877": 19,
+      "gas:candidate-vibid:2272000773431": 203,
+      "gas:candidate-vibid:2272000772718": 40,
+      "gas:candidate-vibid:2272000743845": 250,
+      "gas:candidate-vibid:2272000775074": 19,
+      "gas:candidate-vibid:2272000772110": 108,
+      "gas:candidate-vibid:2272000772408": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 9,
-      "Гладких Борис Михайлович": 81,
-      "Глухов Игорь Станиславович": 20,
-      "Грешнякова Елена Геннадьевна": 92,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 69,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 9,
+      "gas:candidate-vibid:2272000773431": 81,
+      "gas:candidate-vibid:2272000772718": 20,
+      "gas:candidate-vibid:2272000743845": 92,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 69,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 36,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 192,
-      "Глухов Игорь Станиславович": 36,
-      "Грешнякова Елена Геннадьевна": 230,
-      "Петров Андрей Петрович": 21,
-      "Постников Виктор Михайлович": 122,
-      "Титоренко Владимир Федорович": 27
+      "gas:candidate-vibid:2272000774353": 36,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 192,
+      "gas:candidate-vibid:2272000772718": 36,
+      "gas:candidate-vibid:2272000743845": 230,
+      "gas:candidate-vibid:2272000775074": 21,
+      "gas:candidate-vibid:2272000772110": 122,
+      "gas:candidate-vibid:2272000772408": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 30,
-      "Ворсин Алексей Юрьевич": 16,
-      "Гладких Борис Михайлович": 164,
-      "Глухов Игорь Станиславович": 53,
-      "Грешнякова Елена Геннадьевна": 222,
-      "Петров Андрей Петрович": 18,
-      "Постников Виктор Михайлович": 106,
-      "Титоренко Владимир Федорович": 25
+      "gas:candidate-vibid:2272000774353": 30,
+      "gas:candidate-vibid:2272000774877": 16,
+      "gas:candidate-vibid:2272000773431": 164,
+      "gas:candidate-vibid:2272000772718": 53,
+      "gas:candidate-vibid:2272000743845": 222,
+      "gas:candidate-vibid:2272000775074": 18,
+      "gas:candidate-vibid:2272000772110": 106,
+      "gas:candidate-vibid:2272000772408": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 25,
-      "Ворсин Алексей Юрьевич": 13,
-      "Гладких Борис Михайлович": 141,
-      "Глухов Игорь Станиславович": 39,
-      "Грешнякова Елена Геннадьевна": 165,
-      "Петров Андрей Петрович": 14,
-      "Постников Виктор Михайлович": 92,
-      "Титоренко Владимир Федорович": 28
+      "gas:candidate-vibid:2272000774353": 25,
+      "gas:candidate-vibid:2272000774877": 13,
+      "gas:candidate-vibid:2272000773431": 141,
+      "gas:candidate-vibid:2272000772718": 39,
+      "gas:candidate-vibid:2272000743845": 165,
+      "gas:candidate-vibid:2272000775074": 14,
+      "gas:candidate-vibid:2272000772110": 92,
+      "gas:candidate-vibid:2272000772408": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 21,
-      "Ворсин Алексей Юрьевич": 7,
-      "Гладких Борис Михайлович": 76,
-      "Глухов Игорь Станиславович": 12,
-      "Грешнякова Елена Геннадьевна": 87,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 45,
-      "Титоренко Владимир Федорович": 17
+      "gas:candidate-vibid:2272000774353": 21,
+      "gas:candidate-vibid:2272000774877": 7,
+      "gas:candidate-vibid:2272000773431": 76,
+      "gas:candidate-vibid:2272000772718": 12,
+      "gas:candidate-vibid:2272000743845": 87,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 45,
+      "gas:candidate-vibid:2272000772408": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 7,
-      "Гладких Борис Михайлович": 87,
-      "Глухов Игорь Станиславович": 27,
-      "Грешнякова Елена Геннадьевна": 102,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 32,
-      "Титоренко Владимир Федорович": 16
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 7,
+      "gas:candidate-vibid:2272000773431": 87,
+      "gas:candidate-vibid:2272000772718": 27,
+      "gas:candidate-vibid:2272000743845": 102,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 32,
+      "gas:candidate-vibid:2272000772408": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 21,
-      "Гладких Борис Михайлович": 83,
-      "Глухов Игорь Станиславович": 18,
-      "Грешнякова Елена Геннадьевна": 86,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 25,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 21,
+      "gas:candidate-vibid:2272000773431": 83,
+      "gas:candidate-vibid:2272000772718": 18,
+      "gas:candidate-vibid:2272000743845": 86,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 25,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 29,
-      "Ворсин Алексей Юрьевич": 23,
-      "Гладких Борис Михайлович": 140,
-      "Глухов Игорь Станиславович": 26,
-      "Грешнякова Елена Геннадьевна": 161,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 54,
-      "Титоренко Владимир Федорович": 14
+      "gas:candidate-vibid:2272000774353": 29,
+      "gas:candidate-vibid:2272000774877": 23,
+      "gas:candidate-vibid:2272000773431": 140,
+      "gas:candidate-vibid:2272000772718": 26,
+      "gas:candidate-vibid:2272000743845": 161,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 54,
+      "gas:candidate-vibid:2272000772408": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 63,
-      "Глухов Игорь Станиславович": 15,
-      "Грешнякова Елена Геннадьевна": 89,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 28,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 63,
+      "gas:candidate-vibid:2272000772718": 15,
+      "gas:candidate-vibid:2272000743845": 89,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 28,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 18,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 103,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 94,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 25,
-      "Титоренко Владимир Федорович": 9
+      "gas:candidate-vibid:2272000774353": 18,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 103,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 94,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 25,
+      "gas:candidate-vibid:2272000772408": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 76,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 59,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 27,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 76,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 59,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 27,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 16,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 51,
-      "Глухов Игорь Станиславович": 8,
-      "Грешнякова Елена Геннадьевна": 31,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 20,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 16,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 51,
+      "gas:candidate-vibid:2272000772718": 8,
+      "gas:candidate-vibid:2272000743845": 31,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 20,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 34,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 131,
-      "Глухов Игорь Станиславович": 55,
-      "Грешнякова Елена Геннадьевна": 135,
-      "Петров Андрей Петрович": 18,
-      "Постников Виктор Михайлович": 48,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 34,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 131,
+      "gas:candidate-vibid:2272000772718": 55,
+      "gas:candidate-vibid:2272000743845": 135,
+      "gas:candidate-vibid:2272000775074": 18,
+      "gas:candidate-vibid:2272000772110": 48,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 12,
-      "Гладких Борис Михайлович": 117,
-      "Глухов Игорь Станиславович": 27,
-      "Грешнякова Елена Геннадьевна": 115,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 47,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 12,
+      "gas:candidate-vibid:2272000773431": 117,
+      "gas:candidate-vibid:2272000772718": 27,
+      "gas:candidate-vibid:2272000743845": 115,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 47,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 43,
-      "Ворсин Алексей Юрьевич": 18,
-      "Гладких Борис Михайлович": 164,
-      "Глухов Игорь Станиславович": 28,
-      "Грешнякова Елена Геннадьевна": 137,
-      "Петров Андрей Петрович": 20,
-      "Постников Виктор Михайлович": 53,
-      "Титоренко Владимир Федорович": 24
+      "gas:candidate-vibid:2272000774353": 43,
+      "gas:candidate-vibid:2272000774877": 18,
+      "gas:candidate-vibid:2272000773431": 164,
+      "gas:candidate-vibid:2272000772718": 28,
+      "gas:candidate-vibid:2272000743845": 137,
+      "gas:candidate-vibid:2272000775074": 20,
+      "gas:candidate-vibid:2272000772110": 53,
+      "gas:candidate-vibid:2272000772408": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 6,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 33,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 30,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 18,
-      "Титоренко Владимир Федорович": 4
+      "gas:candidate-vibid:2272000774353": 6,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 33,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 30,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 18,
+      "gas:candidate-vibid:2272000772408": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676923&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676923&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 20,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 92,
-      "Глухов Игорь Станиславович": 17,
-      "Грешнякова Елена Геннадьевна": 118,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 35,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 20,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 92,
+      "gas:candidate-vibid:2272000772718": 17,
+      "gas:candidate-vibid:2272000743845": 118,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 35,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 14,
-      "Гладких Борис Михайлович": 171,
-      "Глухов Игорь Станиславович": 29,
-      "Грешнякова Елена Геннадьевна": 153,
-      "Петров Андрей Петрович": 17,
-      "Постников Виктор Михайлович": 66,
-      "Титоренко Владимир Федорович": 21
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 14,
+      "gas:candidate-vibid:2272000773431": 171,
+      "gas:candidate-vibid:2272000772718": 29,
+      "gas:candidate-vibid:2272000743845": 153,
+      "gas:candidate-vibid:2272000775074": 17,
+      "gas:candidate-vibid:2272000772110": 66,
+      "gas:candidate-vibid:2272000772408": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 5,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 59,
-      "Глухов Игорь Станиславович": 2,
-      "Грешнякова Елена Геннадьевна": 63,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 18,
-      "Титоренко Владимир Федорович": 3
+      "gas:candidate-vibid:2272000774353": 5,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 59,
+      "gas:candidate-vibid:2272000772718": 2,
+      "gas:candidate-vibid:2272000743845": 63,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 18,
+      "gas:candidate-vibid:2272000772408": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 65,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 70,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 33,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 65,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 70,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 33,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 115,
-      "Ворсин Алексей Юрьевич": 57,
-      "Гладких Борис Михайлович": 769,
-      "Глухов Игорь Станиславович": 80,
-      "Грешнякова Елена Геннадьевна": 197,
-      "Петров Андрей Петрович": 42,
-      "Постников Виктор Михайлович": 66,
-      "Титоренко Владимир Федорович": 37
+      "gas:candidate-vibid:2272000774353": 115,
+      "gas:candidate-vibid:2272000774877": 57,
+      "gas:candidate-vibid:2272000773431": 769,
+      "gas:candidate-vibid:2272000772718": 80,
+      "gas:candidate-vibid:2272000743845": 197,
+      "gas:candidate-vibid:2272000775074": 42,
+      "gas:candidate-vibid:2272000772110": 66,
+      "gas:candidate-vibid:2272000772408": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 20,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 100,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 58,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 39,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 20,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 100,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 58,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 39,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 77,
-      "Глухов Игорь Станиславович": 18,
-      "Грешнякова Елена Геннадьевна": 96,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 30,
-      "Титоренко Владимир Федорович": 10
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 77,
+      "gas:candidate-vibid:2272000772718": 18,
+      "gas:candidate-vibid:2272000743845": 96,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 30,
+      "gas:candidate-vibid:2272000772408": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 101,
-      "Глухов Игорь Станиславович": 5,
-      "Грешнякова Елена Геннадьевна": 114,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 33,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 101,
+      "gas:candidate-vibid:2272000772718": 5,
+      "gas:candidate-vibid:2272000743845": 114,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 33,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 6,
-      "Ворсин Алексей Юрьевич": 4,
-      "Гладких Борис Михайлович": 78,
-      "Глухов Игорь Станиславович": 10,
-      "Грешнякова Елена Геннадьевна": 78,
-      "Петров Андрей Петрович": 6,
-      "Постников Виктор Михайлович": 30,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 6,
+      "gas:candidate-vibid:2272000774877": 4,
+      "gas:candidate-vibid:2272000773431": 78,
+      "gas:candidate-vibid:2272000772718": 10,
+      "gas:candidate-vibid:2272000743845": 78,
+      "gas:candidate-vibid:2272000775074": 6,
+      "gas:candidate-vibid:2272000772110": 30,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 19,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 163,
-      "Глухов Игорь Станиславович": 25,
-      "Грешнякова Елена Геннадьевна": 182,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 78,
-      "Титоренко Владимир Федорович": 18
+      "gas:candidate-vibid:2272000774353": 19,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 163,
+      "gas:candidate-vibid:2272000772718": 25,
+      "gas:candidate-vibid:2272000743845": 182,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 78,
+      "gas:candidate-vibid:2272000772408": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 7,
-      "Гладких Борис Михайлович": 150,
-      "Глухов Игорь Станиславович": 20,
-      "Грешнякова Елена Геннадьевна": 179,
-      "Петров Андрей Петрович": 15,
-      "Постников Виктор Михайлович": 86,
-      "Титоренко Владимир Федорович": 26
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 7,
+      "gas:candidate-vibid:2272000773431": 150,
+      "gas:candidate-vibid:2272000772718": 20,
+      "gas:candidate-vibid:2272000743845": 179,
+      "gas:candidate-vibid:2272000775074": 15,
+      "gas:candidate-vibid:2272000772110": 86,
+      "gas:candidate-vibid:2272000772408": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 116,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 174,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 44,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 116,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 174,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 44,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 74,
-      "Глухов Игорь Станиславович": 13,
-      "Грешнякова Елена Геннадьевна": 62,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 39,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 74,
+      "gas:candidate-vibid:2272000772718": 13,
+      "gas:candidate-vibid:2272000743845": 62,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 39,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 54,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 24,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 9,
-      "Титоренко Владимир Федорович": 0
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 54,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 24,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 9,
+      "gas:candidate-vibid:2272000772408": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 3,
-      "Гладких Борис Михайлович": 57,
-      "Глухов Игорь Станиславович": 9,
-      "Грешнякова Елена Геннадьевна": 58,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 56,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 3,
+      "gas:candidate-vibid:2272000773431": 57,
+      "gas:candidate-vibid:2272000772718": 9,
+      "gas:candidate-vibid:2272000743845": 58,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 56,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 0,
-      "Ворсин Алексей Юрьевич": 0,
-      "Гладких Борис Михайлович": 21,
-      "Глухов Игорь Станиславович": 1,
-      "Грешнякова Елена Геннадьевна": 8,
-      "Петров Андрей Петрович": 0,
-      "Постников Виктор Михайлович": 6,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 0,
+      "gas:candidate-vibid:2272000774877": 0,
+      "gas:candidate-vibid:2272000773431": 21,
+      "gas:candidate-vibid:2272000772718": 1,
+      "gas:candidate-vibid:2272000743845": 8,
+      "gas:candidate-vibid:2272000775074": 0,
+      "gas:candidate-vibid:2272000772110": 6,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 8,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 46,
-      "Глухов Игорь Станиславович": 3,
-      "Грешнякова Елена Геннадьевна": 37,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 13,
-      "Титоренко Владимир Федорович": 2
+      "gas:candidate-vibid:2272000774353": 8,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 46,
+      "gas:candidate-vibid:2272000772718": 3,
+      "gas:candidate-vibid:2272000743845": 37,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 13,
+      "gas:candidate-vibid:2272000772408": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 7,
-      "Ворсин Алексей Юрьевич": 5,
-      "Гладких Борис Михайлович": 94,
-      "Глухов Игорь Станиславович": 14,
-      "Грешнякова Елена Геннадьевна": 33,
-      "Петров Андрей Петрович": 3,
-      "Постников Виктор Михайлович": 17,
-      "Титоренко Владимир Федорович": 4
+      "gas:candidate-vibid:2272000774353": 7,
+      "gas:candidate-vibid:2272000774877": 5,
+      "gas:candidate-vibid:2272000773431": 94,
+      "gas:candidate-vibid:2272000772718": 14,
+      "gas:candidate-vibid:2272000743845": 33,
+      "gas:candidate-vibid:2272000775074": 3,
+      "gas:candidate-vibid:2272000772110": 17,
+      "gas:candidate-vibid:2272000772408": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 3,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 36,
-      "Глухов Игорь Станиславович": 8,
-      "Грешнякова Елена Геннадьевна": 9,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 4,
-      "Титоренко Владимир Федорович": 4
+      "gas:candidate-vibid:2272000774353": 3,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 36,
+      "gas:candidate-vibid:2272000772718": 8,
+      "gas:candidate-vibid:2272000743845": 9,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 4,
+      "gas:candidate-vibid:2272000772408": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 26,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 266,
-      "Глухов Игорь Станиславович": 26,
-      "Грешнякова Елена Геннадьевна": 123,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 47,
-      "Титоренко Владимир Федорович": 17
+      "gas:candidate-vibid:2272000774353": 26,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 266,
+      "gas:candidate-vibid:2272000772718": 26,
+      "gas:candidate-vibid:2272000743845": 123,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 47,
+      "gas:candidate-vibid:2272000772408": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 13,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 212,
-      "Глухов Игорь Станиславович": 15,
-      "Грешнякова Елена Геннадьевна": 44,
-      "Петров Андрей Петрович": 1,
-      "Постников Виктор Михайлович": 22,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 13,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 212,
+      "gas:candidate-vibid:2272000772718": 15,
+      "gas:candidate-vibid:2272000743845": 44,
+      "gas:candidate-vibid:2272000775074": 1,
+      "gas:candidate-vibid:2272000772110": 22,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 9,
-      "Ворсин Алексей Юрьевич": 1,
-      "Гладких Борис Михайлович": 60,
-      "Глухов Игорь Станиславович": 7,
-      "Грешнякова Елена Геннадьевна": 37,
-      "Петров Андрей Петрович": 2,
-      "Постников Виктор Михайлович": 26,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 9,
+      "gas:candidate-vibid:2272000774877": 1,
+      "gas:candidate-vibid:2272000773431": 60,
+      "gas:candidate-vibid:2272000772718": 7,
+      "gas:candidate-vibid:2272000743845": 37,
+      "gas:candidate-vibid:2272000775074": 2,
+      "gas:candidate-vibid:2272000772110": 26,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676924&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676924&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 17,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 146,
-      "Глухов Игорь Станиславович": 12,
-      "Грешнякова Елена Геннадьевна": 83,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 30,
-      "Титоренко Владимир Федорович": 12
+      "gas:candidate-vibid:2272000774353": 17,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 146,
+      "gas:candidate-vibid:2272000772718": 12,
+      "gas:candidate-vibid:2272000743845": 83,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 30,
+      "gas:candidate-vibid:2272000772408": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 26,
-      "Ворсин Алексей Юрьевич": 14,
-      "Гладких Борис Михайлович": 192,
-      "Глухов Игорь Станиславович": 39,
-      "Грешнякова Елена Геннадьевна": 94,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 113,
-      "Титоренко Владимир Федорович": 22
+      "gas:candidate-vibid:2272000774353": 26,
+      "gas:candidate-vibid:2272000774877": 14,
+      "gas:candidate-vibid:2272000773431": 192,
+      "gas:candidate-vibid:2272000772718": 39,
+      "gas:candidate-vibid:2272000743845": 94,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 113,
+      "gas:candidate-vibid:2272000772408": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 116,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 54,
-      "Петров Андрей Петрович": 5,
-      "Постников Виктор Михайлович": 56,
-      "Титоренко Владимир Федорович": 13
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 116,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 54,
+      "gas:candidate-vibid:2272000775074": 5,
+      "gas:candidate-vibid:2272000772110": 56,
+      "gas:candidate-vibid:2272000772408": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 20,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 82,
-      "Глухов Игорь Станиславович": 11,
-      "Грешнякова Елена Геннадьевна": 41,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 25,
-      "Титоренко Владимир Федорович": 5
+      "gas:candidate-vibid:2272000774353": 20,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 82,
+      "gas:candidate-vibid:2272000772718": 11,
+      "gas:candidate-vibid:2272000743845": 41,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 25,
+      "gas:candidate-vibid:2272000772408": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 26,
-      "Ворсин Алексей Юрьевич": 24,
-      "Гладких Борис Михайлович": 244,
-      "Глухов Игорь Станиславович": 46,
-      "Грешнякова Елена Геннадьевна": 145,
-      "Петров Андрей Петрович": 16,
-      "Постников Виктор Михайлович": 84,
-      "Титоренко Владимир Федорович": 30
+      "gas:candidate-vibid:2272000774353": 26,
+      "gas:candidate-vibid:2272000774877": 24,
+      "gas:candidate-vibid:2272000773431": 244,
+      "gas:candidate-vibid:2272000772718": 46,
+      "gas:candidate-vibid:2272000743845": 145,
+      "gas:candidate-vibid:2272000775074": 16,
+      "gas:candidate-vibid:2272000772110": 84,
+      "gas:candidate-vibid:2272000772408": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 28,
-      "Ворсин Алексей Юрьевич": 9,
-      "Гладких Борис Михайлович": 193,
-      "Глухов Игорь Станиславович": 59,
-      "Грешнякова Елена Геннадьевна": 171,
-      "Петров Андрей Петрович": 20,
-      "Постников Виктор Михайлович": 156,
-      "Титоренко Владимир Федорович": 38
+      "gas:candidate-vibid:2272000774353": 28,
+      "gas:candidate-vibid:2272000774877": 9,
+      "gas:candidate-vibid:2272000773431": 193,
+      "gas:candidate-vibid:2272000772718": 59,
+      "gas:candidate-vibid:2272000743845": 171,
+      "gas:candidate-vibid:2272000775074": 20,
+      "gas:candidate-vibid:2272000772110": 156,
+      "gas:candidate-vibid:2272000772408": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 26,
-      "Ворсин Алексей Юрьевич": 8,
-      "Гладких Борис Михайлович": 125,
-      "Глухов Игорь Станиславович": 20,
-      "Грешнякова Елена Геннадьевна": 90,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 79,
-      "Титоренко Владимир Федорович": 20
+      "gas:candidate-vibid:2272000774353": 26,
+      "gas:candidate-vibid:2272000774877": 8,
+      "gas:candidate-vibid:2272000773431": 125,
+      "gas:candidate-vibid:2272000772718": 20,
+      "gas:candidate-vibid:2272000743845": 90,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 79,
+      "gas:candidate-vibid:2272000772408": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 72,
-      "Глухов Игорь Станиславович": 8,
-      "Грешнякова Елена Геннадьевна": 46,
-      "Петров Андрей Петрович": 11,
-      "Постников Виктор Михайлович": 37,
-      "Титоренко Владимир Федорович": 11
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 72,
+      "gas:candidate-vibid:2272000772718": 8,
+      "gas:candidate-vibid:2272000743845": 46,
+      "gas:candidate-vibid:2272000775074": 11,
+      "gas:candidate-vibid:2272000772110": 37,
+      "gas:candidate-vibid:2272000772408": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 24,
-      "Ворсин Алексей Юрьевич": 17,
-      "Гладких Борис Михайлович": 133,
-      "Глухов Игорь Станиславович": 22,
-      "Грешнякова Елена Геннадьевна": 91,
-      "Петров Андрей Петрович": 16,
-      "Постников Виктор Михайлович": 34,
-      "Титоренко Владимир Федорович": 18
+      "gas:candidate-vibid:2272000774353": 24,
+      "gas:candidate-vibid:2272000774877": 17,
+      "gas:candidate-vibid:2272000773431": 133,
+      "gas:candidate-vibid:2272000772718": 22,
+      "gas:candidate-vibid:2272000743845": 91,
+      "gas:candidate-vibid:2272000775074": 16,
+      "gas:candidate-vibid:2272000772110": 34,
+      "gas:candidate-vibid:2272000772408": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 10,
-      "Ворсин Алексей Юрьевич": 6,
-      "Гладких Борис Михайлович": 112,
-      "Глухов Игорь Станиславович": 22,
-      "Грешнякова Елена Геннадьевна": 71,
-      "Петров Андрей Петрович": 9,
-      "Постников Виктор Михайлович": 57,
-      "Титоренко Владимир Федорович": 7
+      "gas:candidate-vibid:2272000774353": 10,
+      "gas:candidate-vibid:2272000774877": 6,
+      "gas:candidate-vibid:2272000773431": 112,
+      "gas:candidate-vibid:2272000772718": 22,
+      "gas:candidate-vibid:2272000743845": 71,
+      "gas:candidate-vibid:2272000775074": 9,
+      "gas:candidate-vibid:2272000772110": 57,
+      "gas:candidate-vibid:2272000772408": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 48,
-      "Ворсин Алексей Юрьевич": 33,
-      "Гладких Борис Михайлович": 733,
-      "Глухов Игорь Станиславович": 58,
-      "Грешнякова Елена Геннадьевна": 210,
-      "Петров Андрей Петрович": 28,
-      "Постников Виктор Михайлович": 88,
-      "Титоренко Владимир Федорович": 25
+      "gas:candidate-vibid:2272000774353": 48,
+      "gas:candidate-vibid:2272000774877": 33,
+      "gas:candidate-vibid:2272000773431": 733,
+      "gas:candidate-vibid:2272000772718": 58,
+      "gas:candidate-vibid:2272000743845": 210,
+      "gas:candidate-vibid:2272000775074": 28,
+      "gas:candidate-vibid:2272000772110": 88,
+      "gas:candidate-vibid:2272000772408": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 209,
-      "Ворсин Алексей Юрьевич": 73,
-      "Гладких Борис Михайлович": 989,
-      "Глухов Игорь Станиславович": 124,
-      "Грешнякова Елена Геннадьевна": 265,
-      "Петров Андрей Петрович": 72,
-      "Постников Виктор Михайлович": 141,
-      "Титоренко Владимир Федорович": 40
+      "gas:candidate-vibid:2272000774353": 209,
+      "gas:candidate-vibid:2272000774877": 73,
+      "gas:candidate-vibid:2272000773431": 989,
+      "gas:candidate-vibid:2272000772718": 124,
+      "gas:candidate-vibid:2272000743845": 265,
+      "gas:candidate-vibid:2272000775074": 72,
+      "gas:candidate-vibid:2272000772110": 141,
+      "gas:candidate-vibid:2272000772408": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 102,
-      "Ворсин Алексей Юрьевич": 69,
-      "Гладких Борис Михайлович": 559,
-      "Глухов Игорь Станиславович": 119,
-      "Грешнякова Елена Геннадьевна": 144,
-      "Петров Андрей Петрович": 51,
-      "Постников Виктор Михайлович": 79,
-      "Титоренко Владимир Федорович": 46
+      "gas:candidate-vibid:2272000774353": 102,
+      "gas:candidate-vibid:2272000774877": 69,
+      "gas:candidate-vibid:2272000773431": 559,
+      "gas:candidate-vibid:2272000772718": 119,
+      "gas:candidate-vibid:2272000743845": 144,
+      "gas:candidate-vibid:2272000775074": 51,
+      "gas:candidate-vibid:2272000772110": 79,
+      "gas:candidate-vibid:2272000772408": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 35,
-      "Ворсин Алексей Юрьевич": 17,
-      "Гладких Борис Михайлович": 179,
-      "Глухов Игорь Станиславович": 40,
-      "Грешнякова Елена Геннадьевна": 125,
-      "Петров Андрей Петрович": 12,
-      "Постников Виктор Михайлович": 63,
-      "Титоренко Владимир Федорович": 21
+      "gas:candidate-vibid:2272000774353": 35,
+      "gas:candidate-vibid:2272000774877": 17,
+      "gas:candidate-vibid:2272000773431": 179,
+      "gas:candidate-vibid:2272000772718": 40,
+      "gas:candidate-vibid:2272000743845": 125,
+      "gas:candidate-vibid:2272000775074": 12,
+      "gas:candidate-vibid:2272000772110": 63,
+      "gas:candidate-vibid:2272000772408": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 23,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 200,
-      "Глухов Игорь Станиславович": 17,
-      "Грешнякова Елена Геннадьевна": 54,
-      "Петров Андрей Петрович": 7,
-      "Постников Виктор Михайлович": 21,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 23,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 200,
+      "gas:candidate-vibid:2272000772718": 17,
+      "gas:candidate-vibid:2272000743845": 54,
+      "gas:candidate-vibid:2272000775074": 7,
+      "gas:candidate-vibid:2272000772110": 21,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 14,
-      "Ворсин Алексей Юрьевич": 2,
-      "Гладких Борис Михайлович": 84,
-      "Глухов Игорь Станиславович": 16,
-      "Грешнякова Елена Геннадьевна": 50,
-      "Петров Андрей Петрович": 4,
-      "Постников Виктор Михайлович": 26,
-      "Титоренко Владимир Федорович": 8
+      "gas:candidate-vibid:2272000774353": 14,
+      "gas:candidate-vibid:2272000774877": 2,
+      "gas:candidate-vibid:2272000773431": 84,
+      "gas:candidate-vibid:2272000772718": 16,
+      "gas:candidate-vibid:2272000743845": 50,
+      "gas:candidate-vibid:2272000775074": 4,
+      "gas:candidate-vibid:2272000772110": 26,
+      "gas:candidate-vibid:2272000772408": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 34,
-      "Ворсин Алексей Юрьевич": 10,
-      "Гладких Борис Михайлович": 180,
-      "Глухов Игорь Станиславович": 28,
-      "Грешнякова Елена Геннадьевна": 103,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 95,
-      "Титоренко Владимир Федорович": 19
+      "gas:candidate-vibid:2272000774353": 34,
+      "gas:candidate-vibid:2272000774877": 10,
+      "gas:candidate-vibid:2272000773431": 180,
+      "gas:candidate-vibid:2272000772718": 28,
+      "gas:candidate-vibid:2272000743845": 103,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 95,
+      "gas:candidate-vibid:2272000772408": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 29,
-      "Ворсин Алексей Юрьевич": 12,
-      "Гладких Борис Михайлович": 198,
-      "Глухов Игорь Станиславович": 44,
-      "Грешнякова Елена Геннадьевна": 117,
-      "Петров Андрей Петрович": 21,
-      "Постников Виктор Михайлович": 92,
-      "Титоренко Владимир Федорович": 37
+      "gas:candidate-vibid:2272000774353": 29,
+      "gas:candidate-vibid:2272000774877": 12,
+      "gas:candidate-vibid:2272000773431": 198,
+      "gas:candidate-vibid:2272000772718": 44,
+      "gas:candidate-vibid:2272000743845": 117,
+      "gas:candidate-vibid:2272000775074": 21,
+      "gas:candidate-vibid:2272000772110": 92,
+      "gas:candidate-vibid:2272000772408": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 42,
-      "Ворсин Алексей Юрьевич": 20,
-      "Гладких Борис Михайлович": 236,
-      "Глухов Игорь Станиславович": 48,
-      "Грешнякова Елена Геннадьевна": 177,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 94,
-      "Титоренко Владимир Федорович": 37
+      "gas:candidate-vibid:2272000774353": 42,
+      "gas:candidate-vibid:2272000774877": 20,
+      "gas:candidate-vibid:2272000773431": 236,
+      "gas:candidate-vibid:2272000772718": 48,
+      "gas:candidate-vibid:2272000743845": 177,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 94,
+      "gas:candidate-vibid:2272000772408": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 25,
-      "Ворсин Алексей Юрьевич": 19,
-      "Гладких Борис Михайлович": 186,
-      "Глухов Игорь Станиславович": 42,
-      "Грешнякова Елена Геннадьевна": 125,
-      "Петров Андрей Петрович": 15,
-      "Постников Виктор Михайлович": 127,
-      "Титоренко Владимир Федорович": 23
+      "gas:candidate-vibid:2272000774353": 25,
+      "gas:candidate-vibid:2272000774877": 19,
+      "gas:candidate-vibid:2272000773431": 186,
+      "gas:candidate-vibid:2272000772718": 42,
+      "gas:candidate-vibid:2272000743845": 125,
+      "gas:candidate-vibid:2272000775074": 15,
+      "gas:candidate-vibid:2272000772110": 127,
+      "gas:candidate-vibid:2272000772408": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 27,
-      "Ворсин Алексей Юрьевич": 11,
-      "Гладких Борис Михайлович": 146,
-      "Глухов Игорь Станиславович": 26,
-      "Грешнякова Елена Геннадьевна": 112,
-      "Петров Андрей Петрович": 10,
-      "Постников Виктор Михайлович": 100,
-      "Титоренко Владимир Федорович": 23
+      "gas:candidate-vibid:2272000774353": 27,
+      "gas:candidate-vibid:2272000774877": 11,
+      "gas:candidate-vibid:2272000773431": 146,
+      "gas:candidate-vibid:2272000772718": 26,
+      "gas:candidate-vibid:2272000743845": 112,
+      "gas:candidate-vibid:2272000775074": 10,
+      "gas:candidate-vibid:2272000772110": 100,
+      "gas:candidate-vibid:2272000772408": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташова Елена Николаевна": 11,
-      "Ворсин Алексей Юрьевич": 18,
-      "Гладких Борис Михайлович": 411,
-      "Глухов Игорь Станиславович": 28,
-      "Грешнякова Елена Геннадьевна": 122,
-      "Петров Андрей Петрович": 13,
-      "Постников Виктор Михайлович": 102,
-      "Титоренко Владимир Федорович": 20
+      "gas:candidate-vibid:2272000774353": 11,
+      "gas:candidate-vibid:2272000774877": 18,
+      "gas:candidate-vibid:2272000773431": 411,
+      "gas:candidate-vibid:2272000772718": 28,
+      "gas:candidate-vibid:2272000743845": 122,
+      "gas:candidate-vibid:2272000775074": 13,
+      "gas:candidate-vibid:2272000772110": 102,
+      "gas:candidate-vibid:2272000772408": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000086&tvd=2272000676929&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676929&type=464",
@@ -11759,13 +11759,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 42,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 7,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 26,
-      "Фургал Сергей Иванович": 94,
-      "Швецов Эдуард Александрович": 17
+      "gas:candidate-vibid:2272000772163": 42,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 7,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 26,
+      "gas:candidate-vibid:2272000743808": 94,
+      "gas:candidate-vibid:2272000775314": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -11816,13 +11816,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 18,
-      "Доськов Дмитрий Викторович": 11,
-      "Паньков Олег Григорьевич": 6,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 15,
-      "Фургал Сергей Иванович": 46,
-      "Швецов Эдуард Александрович": 8
+      "gas:candidate-vibid:2272000772163": 18,
+      "gas:candidate-vibid:2272000772396": 11,
+      "gas:candidate-vibid:2272000774641": 6,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 15,
+      "gas:candidate-vibid:2272000743808": 46,
+      "gas:candidate-vibid:2272000775314": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -11873,13 +11873,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 19,
-      "Доськов Дмитрий Викторович": 8,
-      "Паньков Олег Григорьевич": 6,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 9,
-      "Фургал Сергей Иванович": 55,
-      "Швецов Эдуард Александрович": 1
+      "gas:candidate-vibid:2272000772163": 19,
+      "gas:candidate-vibid:2272000772396": 8,
+      "gas:candidate-vibid:2272000774641": 6,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 9,
+      "gas:candidate-vibid:2272000743808": 55,
+      "gas:candidate-vibid:2272000775314": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -11930,13 +11930,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 88,
-      "Доськов Дмитрий Викторович": 36,
-      "Паньков Олег Григорьевич": 18,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 63,
-      "Фургал Сергей Иванович": 191,
-      "Швецов Эдуард Александрович": 17
+      "gas:candidate-vibid:2272000772163": 88,
+      "gas:candidate-vibid:2272000772396": 36,
+      "gas:candidate-vibid:2272000774641": 18,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 63,
+      "gas:candidate-vibid:2272000743808": 191,
+      "gas:candidate-vibid:2272000775314": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -11987,13 +11987,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 25,
-      "Доськов Дмитрий Викторович": 10,
-      "Паньков Олег Григорьевич": 7,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 24,
-      "Фургал Сергей Иванович": 99,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 25,
+      "gas:candidate-vibid:2272000772396": 10,
+      "gas:candidate-vibid:2272000774641": 7,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 24,
+      "gas:candidate-vibid:2272000743808": 99,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12044,13 +12044,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 11,
-      "Доськов Дмитрий Викторович": 2,
-      "Паньков Олег Григорьевич": 1,
-      "Симонцев Александр Сергеевич": 0,
-      "Сысоев Евгений Олегович": 5,
-      "Фургал Сергей Иванович": 33,
-      "Швецов Эдуард Александрович": 4
+      "gas:candidate-vibid:2272000772163": 11,
+      "gas:candidate-vibid:2272000772396": 2,
+      "gas:candidate-vibid:2272000774641": 1,
+      "gas:candidate-vibid:2272000774545": 0,
+      "gas:candidate-vibid:2272000774612": 5,
+      "gas:candidate-vibid:2272000743808": 33,
+      "gas:candidate-vibid:2272000775314": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12101,13 +12101,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 52,
-      "Доськов Дмитрий Викторович": 35,
-      "Паньков Олег Григорьевич": 17,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 45,
-      "Фургал Сергей Иванович": 145,
-      "Швецов Эдуард Александрович": 9
+      "gas:candidate-vibid:2272000772163": 52,
+      "gas:candidate-vibid:2272000772396": 35,
+      "gas:candidate-vibid:2272000774641": 17,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 45,
+      "gas:candidate-vibid:2272000743808": 145,
+      "gas:candidate-vibid:2272000775314": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12158,13 +12158,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 6,
-      "Доськов Дмитрий Викторович": 3,
-      "Паньков Олег Григорьевич": 0,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 0,
-      "Фургал Сергей Иванович": 5,
-      "Швецов Эдуард Александрович": 0
+      "gas:candidate-vibid:2272000772163": 6,
+      "gas:candidate-vibid:2272000772396": 3,
+      "gas:candidate-vibid:2272000774641": 0,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 0,
+      "gas:candidate-vibid:2272000743808": 5,
+      "gas:candidate-vibid:2272000775314": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12215,13 +12215,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 33,
-      "Доськов Дмитрий Викторович": 13,
-      "Паньков Олег Григорьевич": 9,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 32,
-      "Фургал Сергей Иванович": 102,
-      "Швецов Эдуард Александрович": 11
+      "gas:candidate-vibid:2272000772163": 33,
+      "gas:candidate-vibid:2272000772396": 13,
+      "gas:candidate-vibid:2272000774641": 9,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 32,
+      "gas:candidate-vibid:2272000743808": 102,
+      "gas:candidate-vibid:2272000775314": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12272,13 +12272,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 23,
-      "Доськов Дмитрий Викторович": 9,
-      "Паньков Олег Григорьевич": 2,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 16,
-      "Фургал Сергей Иванович": 53,
-      "Швецов Эдуард Александрович": 3
+      "gas:candidate-vibid:2272000772163": 23,
+      "gas:candidate-vibid:2272000772396": 9,
+      "gas:candidate-vibid:2272000774641": 2,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 16,
+      "gas:candidate-vibid:2272000743808": 53,
+      "gas:candidate-vibid:2272000775314": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12329,13 +12329,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 27,
-      "Доськов Дмитрий Викторович": 21,
-      "Паньков Олег Григорьевич": 5,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 19,
-      "Фургал Сергей Иванович": 78,
-      "Швецов Эдуард Александрович": 8
+      "gas:candidate-vibid:2272000772163": 27,
+      "gas:candidate-vibid:2272000772396": 21,
+      "gas:candidate-vibid:2272000774641": 5,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 19,
+      "gas:candidate-vibid:2272000743808": 78,
+      "gas:candidate-vibid:2272000775314": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12386,13 +12386,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 2,
-      "Доськов Дмитрий Викторович": 5,
-      "Паньков Олег Григорьевич": 9,
-      "Симонцев Александр Сергеевич": 0,
-      "Сысоев Евгений Олегович": 4,
-      "Фургал Сергей Иванович": 30,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 2,
+      "gas:candidate-vibid:2272000772396": 5,
+      "gas:candidate-vibid:2272000774641": 9,
+      "gas:candidate-vibid:2272000774545": 0,
+      "gas:candidate-vibid:2272000774612": 4,
+      "gas:candidate-vibid:2272000743808": 30,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12443,13 +12443,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 20,
-      "Доськов Дмитрий Викторович": 1,
-      "Паньков Олег Григорьевич": 2,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 3,
-      "Фургал Сергей Иванович": 9,
-      "Швецов Эдуард Александрович": 0
+      "gas:candidate-vibid:2272000772163": 20,
+      "gas:candidate-vibid:2272000772396": 1,
+      "gas:candidate-vibid:2272000774641": 2,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 3,
+      "gas:candidate-vibid:2272000743808": 9,
+      "gas:candidate-vibid:2272000775314": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12500,13 +12500,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 20,
-      "Доськов Дмитрий Викторович": 8,
-      "Паньков Олег Григорьевич": 4,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 23,
-      "Фургал Сергей Иванович": 83,
-      "Швецов Эдуард Александрович": 3
+      "gas:candidate-vibid:2272000772163": 20,
+      "gas:candidate-vibid:2272000772396": 8,
+      "gas:candidate-vibid:2272000774641": 4,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 23,
+      "gas:candidate-vibid:2272000743808": 83,
+      "gas:candidate-vibid:2272000775314": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12557,13 +12557,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 151,
-      "Доськов Дмитрий Викторович": 54,
-      "Паньков Олег Григорьевич": 56,
-      "Симонцев Александр Сергеевич": 54,
-      "Сысоев Евгений Олегович": 186,
-      "Фургал Сергей Иванович": 186,
-      "Швецов Эдуард Александрович": 46
+      "gas:candidate-vibid:2272000772163": 151,
+      "gas:candidate-vibid:2272000772396": 54,
+      "gas:candidate-vibid:2272000774641": 56,
+      "gas:candidate-vibid:2272000774545": 54,
+      "gas:candidate-vibid:2272000774612": 186,
+      "gas:candidate-vibid:2272000743808": 186,
+      "gas:candidate-vibid:2272000775314": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12614,13 +12614,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 20,
-      "Доськов Дмитрий Викторович": 8,
-      "Паньков Олег Григорьевич": 3,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 18,
-      "Фургал Сергей Иванович": 23,
-      "Швецов Эдуард Александрович": 5
+      "gas:candidate-vibid:2272000772163": 20,
+      "gas:candidate-vibid:2272000772396": 8,
+      "gas:candidate-vibid:2272000774641": 3,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 18,
+      "gas:candidate-vibid:2272000743808": 23,
+      "gas:candidate-vibid:2272000775314": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12671,13 +12671,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 52,
-      "Доськов Дмитрий Викторович": 21,
-      "Паньков Олег Григорьевич": 5,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 23,
-      "Фургал Сергей Иванович": 123,
-      "Швецов Эдуард Александрович": 5
+      "gas:candidate-vibid:2272000772163": 52,
+      "gas:candidate-vibid:2272000772396": 21,
+      "gas:candidate-vibid:2272000774641": 5,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 23,
+      "gas:candidate-vibid:2272000743808": 123,
+      "gas:candidate-vibid:2272000775314": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12728,13 +12728,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 7,
-      "Доськов Дмитрий Викторович": 5,
-      "Паньков Олег Григорьевич": 4,
-      "Симонцев Александр Сергеевич": 0,
-      "Сысоев Евгений Олегович": 5,
-      "Фургал Сергей Иванович": 23,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 7,
+      "gas:candidate-vibid:2272000772396": 5,
+      "gas:candidate-vibid:2272000774641": 4,
+      "gas:candidate-vibid:2272000774545": 0,
+      "gas:candidate-vibid:2272000774612": 5,
+      "gas:candidate-vibid:2272000743808": 23,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12785,13 +12785,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 147,
-      "Доськов Дмитрий Викторович": 58,
-      "Паньков Олег Григорьевич": 35,
-      "Симонцев Александр Сергеевич": 16,
-      "Сысоев Евгений Олегович": 100,
-      "Фургал Сергей Иванович": 315,
-      "Швецов Эдуард Александрович": 36
+      "gas:candidate-vibid:2272000772163": 147,
+      "gas:candidate-vibid:2272000772396": 58,
+      "gas:candidate-vibid:2272000774641": 35,
+      "gas:candidate-vibid:2272000774545": 16,
+      "gas:candidate-vibid:2272000774612": 100,
+      "gas:candidate-vibid:2272000743808": 315,
+      "gas:candidate-vibid:2272000775314": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12842,13 +12842,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 298,
-      "Доськов Дмитрий Викторович": 96,
-      "Паньков Олег Григорьевич": 128,
-      "Симонцев Александр Сергеевич": 105,
-      "Сысоев Евгений Олегович": 316,
-      "Фургал Сергей Иванович": 259,
-      "Швецов Эдуард Александрович": 116
+      "gas:candidate-vibid:2272000772163": 298,
+      "gas:candidate-vibid:2272000772396": 96,
+      "gas:candidate-vibid:2272000774641": 128,
+      "gas:candidate-vibid:2272000774545": 105,
+      "gas:candidate-vibid:2272000774612": 316,
+      "gas:candidate-vibid:2272000743808": 259,
+      "gas:candidate-vibid:2272000775314": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12899,13 +12899,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 12,
-      "Доськов Дмитрий Викторович": 10,
-      "Паньков Олег Григорьевич": 9,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 9,
-      "Фургал Сергей Иванович": 51,
-      "Швецов Эдуард Александрович": 4
+      "gas:candidate-vibid:2272000772163": 12,
+      "gas:candidate-vibid:2272000772396": 10,
+      "gas:candidate-vibid:2272000774641": 9,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 9,
+      "gas:candidate-vibid:2272000743808": 51,
+      "gas:candidate-vibid:2272000775314": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -12956,13 +12956,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 58,
-      "Доськов Дмитрий Викторович": 28,
-      "Паньков Олег Григорьевич": 13,
-      "Симонцев Александр Сергеевич": 13,
-      "Сысоев Евгений Олегович": 63,
-      "Фургал Сергей Иванович": 202,
-      "Швецов Эдуард Александрович": 14
+      "gas:candidate-vibid:2272000772163": 58,
+      "gas:candidate-vibid:2272000772396": 28,
+      "gas:candidate-vibid:2272000774641": 13,
+      "gas:candidate-vibid:2272000774545": 13,
+      "gas:candidate-vibid:2272000774612": 63,
+      "gas:candidate-vibid:2272000743808": 202,
+      "gas:candidate-vibid:2272000775314": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13013,13 +13013,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 107,
-      "Доськов Дмитрий Викторович": 50,
-      "Паньков Олег Григорьевич": 34,
-      "Симонцев Александр Сергеевич": 9,
-      "Сысоев Евгений Олегович": 110,
-      "Фургал Сергей Иванович": 217,
-      "Швецов Эдуард Александрович": 38
+      "gas:candidate-vibid:2272000772163": 107,
+      "gas:candidate-vibid:2272000772396": 50,
+      "gas:candidate-vibid:2272000774641": 34,
+      "gas:candidate-vibid:2272000774545": 9,
+      "gas:candidate-vibid:2272000774612": 110,
+      "gas:candidate-vibid:2272000743808": 217,
+      "gas:candidate-vibid:2272000775314": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13070,13 +13070,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 69,
-      "Доськов Дмитрий Викторович": 28,
-      "Паньков Олег Григорьевич": 9,
-      "Симонцев Александр Сергеевич": 9,
-      "Сысоев Евгений Олегович": 34,
-      "Фургал Сергей Иванович": 184,
-      "Швецов Эдуард Александрович": 18
+      "gas:candidate-vibid:2272000772163": 69,
+      "gas:candidate-vibid:2272000772396": 28,
+      "gas:candidate-vibid:2272000774641": 9,
+      "gas:candidate-vibid:2272000774545": 9,
+      "gas:candidate-vibid:2272000774612": 34,
+      "gas:candidate-vibid:2272000743808": 184,
+      "gas:candidate-vibid:2272000775314": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13127,13 +13127,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 10,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 7,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 7,
-      "Фургал Сергей Иванович": 30,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 10,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 7,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 7,
+      "gas:candidate-vibid:2272000743808": 30,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13184,13 +13184,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 120,
-      "Доськов Дмитрий Викторович": 53,
-      "Паньков Олег Григорьевич": 21,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 99,
-      "Фургал Сергей Иванович": 332,
-      "Швецов Эдуард Александрович": 31
+      "gas:candidate-vibid:2272000772163": 120,
+      "gas:candidate-vibid:2272000772396": 53,
+      "gas:candidate-vibid:2272000774641": 21,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 99,
+      "gas:candidate-vibid:2272000743808": 332,
+      "gas:candidate-vibid:2272000775314": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13241,13 +13241,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 97,
-      "Доськов Дмитрий Викторович": 24,
-      "Паньков Олег Григорьевич": 21,
-      "Симонцев Александр Сергеевич": 14,
-      "Сысоев Евгений Олегович": 98,
-      "Фургал Сергей Иванович": 245,
-      "Швецов Эдуард Александрович": 34
+      "gas:candidate-vibid:2272000772163": 97,
+      "gas:candidate-vibid:2272000772396": 24,
+      "gas:candidate-vibid:2272000774641": 21,
+      "gas:candidate-vibid:2272000774545": 14,
+      "gas:candidate-vibid:2272000774612": 98,
+      "gas:candidate-vibid:2272000743808": 245,
+      "gas:candidate-vibid:2272000775314": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13298,13 +13298,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 84,
-      "Доськов Дмитрий Викторович": 29,
-      "Паньков Олег Григорьевич": 21,
-      "Симонцев Александр Сергеевич": 15,
-      "Сысоев Евгений Олегович": 82,
-      "Фургал Сергей Иванович": 252,
-      "Швецов Эдуард Александрович": 17
+      "gas:candidate-vibid:2272000772163": 84,
+      "gas:candidate-vibid:2272000772396": 29,
+      "gas:candidate-vibid:2272000774641": 21,
+      "gas:candidate-vibid:2272000774545": 15,
+      "gas:candidate-vibid:2272000774612": 82,
+      "gas:candidate-vibid:2272000743808": 252,
+      "gas:candidate-vibid:2272000775314": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13355,13 +13355,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 39,
-      "Доськов Дмитрий Викторович": 19,
-      "Паньков Олег Григорьевич": 8,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 28,
-      "Фургал Сергей Иванович": 130,
-      "Швецов Эдуард Александрович": 16
+      "gas:candidate-vibid:2272000772163": 39,
+      "gas:candidate-vibid:2272000772396": 19,
+      "gas:candidate-vibid:2272000774641": 8,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 28,
+      "gas:candidate-vibid:2272000743808": 130,
+      "gas:candidate-vibid:2272000775314": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13412,13 +13412,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 109,
-      "Доськов Дмитрий Викторович": 47,
-      "Паньков Олег Григорьевич": 22,
-      "Симонцев Александр Сергеевич": 12,
-      "Сысоев Евгений Олегович": 66,
-      "Фургал Сергей Иванович": 295,
-      "Швецов Эдуард Александрович": 11
+      "gas:candidate-vibid:2272000772163": 109,
+      "gas:candidate-vibid:2272000772396": 47,
+      "gas:candidate-vibid:2272000774641": 22,
+      "gas:candidate-vibid:2272000774545": 12,
+      "gas:candidate-vibid:2272000774612": 66,
+      "gas:candidate-vibid:2272000743808": 295,
+      "gas:candidate-vibid:2272000775314": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13469,13 +13469,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 41,
-      "Доськов Дмитрий Викторович": 19,
-      "Паньков Олег Григорьевич": 4,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 44,
-      "Фургал Сергей Иванович": 150,
-      "Швецов Эдуард Александрович": 9
+      "gas:candidate-vibid:2272000772163": 41,
+      "gas:candidate-vibid:2272000772396": 19,
+      "gas:candidate-vibid:2272000774641": 4,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 44,
+      "gas:candidate-vibid:2272000743808": 150,
+      "gas:candidate-vibid:2272000775314": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13526,13 +13526,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 136,
-      "Доськов Дмитрий Викторович": 47,
-      "Паньков Олег Григорьевич": 32,
-      "Симонцев Александр Сергеевич": 17,
-      "Сысоев Евгений Олегович": 98,
-      "Фургал Сергей Иванович": 325,
-      "Швецов Эдуард Александрович": 46
+      "gas:candidate-vibid:2272000772163": 136,
+      "gas:candidate-vibid:2272000772396": 47,
+      "gas:candidate-vibid:2272000774641": 32,
+      "gas:candidate-vibid:2272000774545": 17,
+      "gas:candidate-vibid:2272000774612": 98,
+      "gas:candidate-vibid:2272000743808": 325,
+      "gas:candidate-vibid:2272000775314": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13583,13 +13583,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 122,
-      "Доськов Дмитрий Викторович": 43,
-      "Паньков Олег Григорьевич": 31,
-      "Симонцев Александр Сергеевич": 10,
-      "Сысоев Евгений Олегович": 67,
-      "Фургал Сергей Иванович": 236,
-      "Швецов Эдуард Александрович": 28
+      "gas:candidate-vibid:2272000772163": 122,
+      "gas:candidate-vibid:2272000772396": 43,
+      "gas:candidate-vibid:2272000774641": 31,
+      "gas:candidate-vibid:2272000774545": 10,
+      "gas:candidate-vibid:2272000774612": 67,
+      "gas:candidate-vibid:2272000743808": 236,
+      "gas:candidate-vibid:2272000775314": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13640,13 +13640,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 104,
-      "Доськов Дмитрий Викторович": 41,
-      "Паньков Олег Григорьевич": 33,
-      "Симонцев Александр Сергеевич": 19,
-      "Сысоев Евгений Олегович": 90,
-      "Фургал Сергей Иванович": 279,
-      "Швецов Эдуард Александрович": 32
+      "gas:candidate-vibid:2272000772163": 104,
+      "gas:candidate-vibid:2272000772396": 41,
+      "gas:candidate-vibid:2272000774641": 33,
+      "gas:candidate-vibid:2272000774545": 19,
+      "gas:candidate-vibid:2272000774612": 90,
+      "gas:candidate-vibid:2272000743808": 279,
+      "gas:candidate-vibid:2272000775314": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13697,13 +13697,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 32,
-      "Доськов Дмитрий Викторович": 13,
-      "Паньков Олег Григорьевич": 7,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 24,
-      "Фургал Сергей Иванович": 73,
-      "Швецов Эдуард Александрович": 4
+      "gas:candidate-vibid:2272000772163": 32,
+      "gas:candidate-vibid:2272000772396": 13,
+      "gas:candidate-vibid:2272000774641": 7,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 24,
+      "gas:candidate-vibid:2272000743808": 73,
+      "gas:candidate-vibid:2272000775314": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676930&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676930&type=464",
@@ -13754,13 +13754,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 157,
-      "Доськов Дмитрий Викторович": 33,
-      "Паньков Олег Григорьевич": 27,
-      "Симонцев Александр Сергеевич": 22,
-      "Сысоев Евгений Олегович": 136,
-      "Фургал Сергей Иванович": 239,
-      "Швецов Эдуард Александрович": 22
+      "gas:candidate-vibid:2272000772163": 157,
+      "gas:candidate-vibid:2272000772396": 33,
+      "gas:candidate-vibid:2272000774641": 27,
+      "gas:candidate-vibid:2272000774545": 22,
+      "gas:candidate-vibid:2272000774612": 136,
+      "gas:candidate-vibid:2272000743808": 239,
+      "gas:candidate-vibid:2272000775314": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -13811,13 +13811,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 104,
-      "Доськов Дмитрий Викторович": 28,
-      "Паньков Олег Григорьевич": 21,
-      "Симонцев Александр Сергеевич": 8,
-      "Сысоев Евгений Олегович": 104,
-      "Фургал Сергей Иванович": 210,
-      "Швецов Эдуард Александрович": 24
+      "gas:candidate-vibid:2272000772163": 104,
+      "gas:candidate-vibid:2272000772396": 28,
+      "gas:candidate-vibid:2272000774641": 21,
+      "gas:candidate-vibid:2272000774545": 8,
+      "gas:candidate-vibid:2272000774612": 104,
+      "gas:candidate-vibid:2272000743808": 210,
+      "gas:candidate-vibid:2272000775314": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -13868,13 +13868,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 82,
-      "Доськов Дмитрий Викторович": 16,
-      "Паньков Олег Григорьевич": 19,
-      "Симонцев Александр Сергеевич": 10,
-      "Сысоев Евгений Олегович": 70,
-      "Фургал Сергей Иванович": 111,
-      "Швецов Эдуард Александрович": 21
+      "gas:candidate-vibid:2272000772163": 82,
+      "gas:candidate-vibid:2272000772396": 16,
+      "gas:candidate-vibid:2272000774641": 19,
+      "gas:candidate-vibid:2272000774545": 10,
+      "gas:candidate-vibid:2272000774612": 70,
+      "gas:candidate-vibid:2272000743808": 111,
+      "gas:candidate-vibid:2272000775314": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -13925,13 +13925,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 154,
-      "Доськов Дмитрий Викторович": 38,
-      "Паньков Олег Григорьевич": 27,
-      "Симонцев Александр Сергеевич": 17,
-      "Сысоев Евгений Олегович": 97,
-      "Фургал Сергей Иванович": 306,
-      "Швецов Эдуард Александрович": 20
+      "gas:candidate-vibid:2272000772163": 154,
+      "gas:candidate-vibid:2272000772396": 38,
+      "gas:candidate-vibid:2272000774641": 27,
+      "gas:candidate-vibid:2272000774545": 17,
+      "gas:candidate-vibid:2272000774612": 97,
+      "gas:candidate-vibid:2272000743808": 306,
+      "gas:candidate-vibid:2272000775314": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -13982,13 +13982,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 128,
-      "Доськов Дмитрий Викторович": 30,
-      "Паньков Олег Григорьевич": 33,
-      "Симонцев Александр Сергеевич": 12,
-      "Сысоев Евгений Олегович": 86,
-      "Фургал Сергей Иванович": 215,
-      "Швецов Эдуард Александрович": 36
+      "gas:candidate-vibid:2272000772163": 128,
+      "gas:candidate-vibid:2272000772396": 30,
+      "gas:candidate-vibid:2272000774641": 33,
+      "gas:candidate-vibid:2272000774545": 12,
+      "gas:candidate-vibid:2272000774612": 86,
+      "gas:candidate-vibid:2272000743808": 215,
+      "gas:candidate-vibid:2272000775314": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14039,13 +14039,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 150,
-      "Доськов Дмитрий Викторович": 38,
-      "Паньков Олег Григорьевич": 34,
-      "Симонцев Александр Сергеевич": 8,
-      "Сысоев Евгений Олегович": 138,
-      "Фургал Сергей Иванович": 266,
-      "Швецов Эдуард Александрович": 40
+      "gas:candidate-vibid:2272000772163": 150,
+      "gas:candidate-vibid:2272000772396": 38,
+      "gas:candidate-vibid:2272000774641": 34,
+      "gas:candidate-vibid:2272000774545": 8,
+      "gas:candidate-vibid:2272000774612": 138,
+      "gas:candidate-vibid:2272000743808": 266,
+      "gas:candidate-vibid:2272000775314": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14096,13 +14096,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 176,
-      "Доськов Дмитрий Викторович": 32,
-      "Паньков Олег Григорьевич": 19,
-      "Симонцев Александр Сергеевич": 22,
-      "Сысоев Евгений Олегович": 111,
-      "Фургал Сергей Иванович": 275,
-      "Швецов Эдуард Александрович": 21
+      "gas:candidate-vibid:2272000772163": 176,
+      "gas:candidate-vibid:2272000772396": 32,
+      "gas:candidate-vibid:2272000774641": 19,
+      "gas:candidate-vibid:2272000774545": 22,
+      "gas:candidate-vibid:2272000774612": 111,
+      "gas:candidate-vibid:2272000743808": 275,
+      "gas:candidate-vibid:2272000775314": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14153,13 +14153,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 147,
-      "Доськов Дмитрий Викторович": 38,
-      "Паньков Олег Григорьевич": 33,
-      "Симонцев Александр Сергеевич": 16,
-      "Сысоев Евгений Олегович": 115,
-      "Фургал Сергей Иванович": 330,
-      "Швецов Эдуард Александрович": 25
+      "gas:candidate-vibid:2272000772163": 147,
+      "gas:candidate-vibid:2272000772396": 38,
+      "gas:candidate-vibid:2272000774641": 33,
+      "gas:candidate-vibid:2272000774545": 16,
+      "gas:candidate-vibid:2272000774612": 115,
+      "gas:candidate-vibid:2272000743808": 330,
+      "gas:candidate-vibid:2272000775314": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14210,13 +14210,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 55,
-      "Доськов Дмитрий Викторович": 22,
-      "Паньков Олег Григорьевич": 12,
-      "Симонцев Александр Сергеевич": 12,
-      "Сысоев Евгений Олегович": 35,
-      "Фургал Сергей Иванович": 129,
-      "Швецов Эдуард Александрович": 9
+      "gas:candidate-vibid:2272000772163": 55,
+      "gas:candidate-vibid:2272000772396": 22,
+      "gas:candidate-vibid:2272000774641": 12,
+      "gas:candidate-vibid:2272000774545": 12,
+      "gas:candidate-vibid:2272000774612": 35,
+      "gas:candidate-vibid:2272000743808": 129,
+      "gas:candidate-vibid:2272000775314": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14267,13 +14267,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 190,
-      "Доськов Дмитрий Викторович": 37,
-      "Паньков Олег Григорьевич": 36,
-      "Симонцев Александр Сергеевич": 22,
-      "Сысоев Евгений Олегович": 124,
-      "Фургал Сергей Иванович": 338,
-      "Швецов Эдуард Александрович": 38
+      "gas:candidate-vibid:2272000772163": 190,
+      "gas:candidate-vibid:2272000772396": 37,
+      "gas:candidate-vibid:2272000774641": 36,
+      "gas:candidate-vibid:2272000774545": 22,
+      "gas:candidate-vibid:2272000774612": 124,
+      "gas:candidate-vibid:2272000743808": 338,
+      "gas:candidate-vibid:2272000775314": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14324,13 +14324,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 138,
-      "Доськов Дмитрий Викторович": 53,
-      "Паньков Олег Григорьевич": 43,
-      "Симонцев Александр Сергеевич": 16,
-      "Сысоев Евгений Олегович": 121,
-      "Фургал Сергей Иванович": 318,
-      "Швецов Эдуард Александрович": 43
+      "gas:candidate-vibid:2272000772163": 138,
+      "gas:candidate-vibid:2272000772396": 53,
+      "gas:candidate-vibid:2272000774641": 43,
+      "gas:candidate-vibid:2272000774545": 16,
+      "gas:candidate-vibid:2272000774612": 121,
+      "gas:candidate-vibid:2272000743808": 318,
+      "gas:candidate-vibid:2272000775314": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14381,13 +14381,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 209,
-      "Доськов Дмитрий Викторович": 53,
-      "Паньков Олег Григорьевич": 36,
-      "Симонцев Александр Сергеевич": 14,
-      "Сысоев Евгений Олегович": 127,
-      "Фургал Сергей Иванович": 309,
-      "Швецов Эдуард Александрович": 36
+      "gas:candidate-vibid:2272000772163": 209,
+      "gas:candidate-vibid:2272000772396": 53,
+      "gas:candidate-vibid:2272000774641": 36,
+      "gas:candidate-vibid:2272000774545": 14,
+      "gas:candidate-vibid:2272000774612": 127,
+      "gas:candidate-vibid:2272000743808": 309,
+      "gas:candidate-vibid:2272000775314": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",
@@ -14438,13 +14438,13 @@ export const duma_2016_uik_463_region_27_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 196,
-      "Доськов Дмитрий Викторович": 32,
-      "Паньков Олег Григорьевич": 30,
-      "Симонцев Александр Сергеевич": 21,
-      "Сысоев Евгений Олегович": 126,
-      "Фургал Сергей Иванович": 344,
-      "Швецов Эдуард Александрович": 49
+      "gas:candidate-vibid:2272000772163": 196,
+      "gas:candidate-vibid:2272000772396": 32,
+      "gas:candidate-vibid:2272000774641": 30,
+      "gas:candidate-vibid:2272000774545": 21,
+      "gas:candidate-vibid:2272000774612": 126,
+      "gas:candidate-vibid:2272000743808": 344,
+      "gas:candidate-vibid:2272000775314": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676931&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676931&type=464",

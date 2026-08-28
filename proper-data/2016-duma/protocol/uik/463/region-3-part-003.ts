@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 149,
-      "Бикбаев Ильдар Зинурович": 722,
-      "Кадыров Рафис Фаизович": 55,
-      "Кузьмина Алла Александровна": 33,
-      "Лихачев Олег Эдуардович": 109,
-      "Рябов Вячеслав Владимирович": 137,
-      "Хафизов Рустам Фларидович": 110
+      "gas:candidate-vibid:4024058207925": 149,
+      "gas:candidate-vibid:4024058208161": 722,
+      "gas:candidate-vibid:4024058208025": 55,
+      "gas:candidate-vibid:4024058208193": 33,
+      "gas:candidate-vibid:4024058187280": 109,
+      "gas:candidate-vibid:4024058186602": 137,
+      "gas:candidate-vibid:4024058187114": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 81,
-      "Бикбаев Ильдар Зинурович": 521,
-      "Кадыров Рафис Фаизович": 67,
-      "Кузьмина Алла Александровна": 82,
-      "Лихачев Олег Эдуардович": 118,
-      "Рябов Вячеслав Владимирович": 223,
-      "Хафизов Рустам Фларидович": 89
+      "gas:candidate-vibid:4024058207925": 81,
+      "gas:candidate-vibid:4024058208161": 521,
+      "gas:candidate-vibid:4024058208025": 67,
+      "gas:candidate-vibid:4024058208193": 82,
+      "gas:candidate-vibid:4024058187280": 118,
+      "gas:candidate-vibid:4024058186602": 223,
+      "gas:candidate-vibid:4024058187114": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 47,
-      "Бикбаев Ильдар Зинурович": 665,
-      "Кадыров Рафис Фаизович": 74,
-      "Кузьмина Алла Александровна": 22,
-      "Лихачев Олег Эдуардович": 36,
-      "Рябов Вячеслав Владимирович": 108,
-      "Хафизов Рустам Фларидович": 75
+      "gas:candidate-vibid:4024058207925": 47,
+      "gas:candidate-vibid:4024058208161": 665,
+      "gas:candidate-vibid:4024058208025": 74,
+      "gas:candidate-vibid:4024058208193": 22,
+      "gas:candidate-vibid:4024058187280": 36,
+      "gas:candidate-vibid:4024058186602": 108,
+      "gas:candidate-vibid:4024058187114": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 88,
-      "Бикбаев Ильдар Зинурович": 238,
-      "Кадыров Рафис Фаизович": 107,
-      "Кузьмина Алла Александровна": 26,
-      "Лихачев Олег Эдуардович": 30,
-      "Рябов Вячеслав Владимирович": 93,
-      "Хафизов Рустам Фларидович": 79
+      "gas:candidate-vibid:4024058207925": 88,
+      "gas:candidate-vibid:4024058208161": 238,
+      "gas:candidate-vibid:4024058208025": 107,
+      "gas:candidate-vibid:4024058208193": 26,
+      "gas:candidate-vibid:4024058187280": 30,
+      "gas:candidate-vibid:4024058186602": 93,
+      "gas:candidate-vibid:4024058187114": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 87,
-      "Бикбаев Ильдар Зинурович": 354,
-      "Кадыров Рафис Фаизович": 88,
-      "Кузьмина Алла Александровна": 28,
-      "Лихачев Олег Эдуардович": 44,
-      "Рябов Вячеслав Владимирович": 105,
-      "Хафизов Рустам Фларидович": 89
+      "gas:candidate-vibid:4024058207925": 87,
+      "gas:candidate-vibid:4024058208161": 354,
+      "gas:candidate-vibid:4024058208025": 88,
+      "gas:candidate-vibid:4024058208193": 28,
+      "gas:candidate-vibid:4024058187280": 44,
+      "gas:candidate-vibid:4024058186602": 105,
+      "gas:candidate-vibid:4024058187114": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 61,
-      "Бикбаев Ильдар Зинурович": 291,
-      "Кадыров Рафис Фаизович": 83,
-      "Кузьмина Алла Александровна": 32,
-      "Лихачев Олег Эдуардович": 46,
-      "Рябов Вячеслав Владимирович": 96,
-      "Хафизов Рустам Фларидович": 135
+      "gas:candidate-vibid:4024058207925": 61,
+      "gas:candidate-vibid:4024058208161": 291,
+      "gas:candidate-vibid:4024058208025": 83,
+      "gas:candidate-vibid:4024058208193": 32,
+      "gas:candidate-vibid:4024058187280": 46,
+      "gas:candidate-vibid:4024058186602": 96,
+      "gas:candidate-vibid:4024058187114": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 36,
-      "Бикбаев Ильдар Зинурович": 784,
-      "Кадыров Рафис Фаизович": 6,
-      "Кузьмина Алла Александровна": 18,
-      "Лихачев Олег Эдуардович": 32,
-      "Рябов Вячеслав Владимирович": 134,
-      "Хафизов Рустам Фларидович": 312
+      "gas:candidate-vibid:4024058207925": 36,
+      "gas:candidate-vibid:4024058208161": 784,
+      "gas:candidate-vibid:4024058208025": 6,
+      "gas:candidate-vibid:4024058208193": 18,
+      "gas:candidate-vibid:4024058187280": 32,
+      "gas:candidate-vibid:4024058186602": 134,
+      "gas:candidate-vibid:4024058187114": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 52,
-      "Бикбаев Ильдар Зинурович": 268,
-      "Кадыров Рафис Фаизович": 34,
-      "Кузьмина Алла Александровна": 10,
-      "Лихачев Олег Эдуардович": 35,
-      "Рябов Вячеслав Владимирович": 53,
-      "Хафизов Рустам Фларидович": 47
+      "gas:candidate-vibid:4024058207925": 52,
+      "gas:candidate-vibid:4024058208161": 268,
+      "gas:candidate-vibid:4024058208025": 34,
+      "gas:candidate-vibid:4024058208193": 10,
+      "gas:candidate-vibid:4024058187280": 35,
+      "gas:candidate-vibid:4024058186602": 53,
+      "gas:candidate-vibid:4024058187114": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 17,
-      "Бикбаев Ильдар Зинурович": 310,
-      "Кадыров Рафис Фаизович": 19,
-      "Кузьмина Алла Александровна": 18,
-      "Лихачев Олег Эдуардович": 22,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 30
+      "gas:candidate-vibid:4024058207925": 17,
+      "gas:candidate-vibid:4024058208161": 310,
+      "gas:candidate-vibid:4024058208025": 19,
+      "gas:candidate-vibid:4024058208193": 18,
+      "gas:candidate-vibid:4024058187280": 22,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 11,
-      "Бикбаев Ильдар Зинурович": 262,
-      "Кадыров Рафис Фаизович": 10,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 4,
-      "Рябов Вячеслав Владимирович": 9,
-      "Хафизов Рустам Фларидович": 14
+      "gas:candidate-vibid:4024058207925": 11,
+      "gas:candidate-vibid:4024058208161": 262,
+      "gas:candidate-vibid:4024058208025": 10,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 4,
+      "gas:candidate-vibid:4024058186602": 9,
+      "gas:candidate-vibid:4024058187114": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 6,
-      "Бикбаев Ильдар Зинурович": 154,
-      "Кадыров Рафис Фаизович": 10,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 1,
-      "Хафизов Рустам Фларидович": 34
+      "gas:candidate-vibid:4024058207925": 6,
+      "gas:candidate-vibid:4024058208161": 154,
+      "gas:candidate-vibid:4024058208025": 10,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 1,
+      "gas:candidate-vibid:4024058187114": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 19,
-      "Бикбаев Ильдар Зинурович": 133,
-      "Кадыров Рафис Фаизович": 16,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 4,
-      "Хафизов Рустам Фларидович": 24
+      "gas:candidate-vibid:4024058207925": 19,
+      "gas:candidate-vibid:4024058208161": 133,
+      "gas:candidate-vibid:4024058208025": 16,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 4,
+      "gas:candidate-vibid:4024058187114": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 20,
-      "Бикбаев Ильдар Зинурович": 194,
-      "Кадыров Рафис Фаизович": 11,
-      "Кузьмина Алла Александровна": 16,
-      "Лихачев Олег Эдуардович": 27,
-      "Рябов Вячеслав Владимирович": 33,
-      "Хафизов Рустам Фларидович": 44
+      "gas:candidate-vibid:4024058207925": 20,
+      "gas:candidate-vibid:4024058208161": 194,
+      "gas:candidate-vibid:4024058208025": 11,
+      "gas:candidate-vibid:4024058208193": 16,
+      "gas:candidate-vibid:4024058187280": 27,
+      "gas:candidate-vibid:4024058186602": 33,
+      "gas:candidate-vibid:4024058187114": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 12,
-      "Бикбаев Ильдар Зинурович": 269,
-      "Кадыров Рафис Фаизович": 9,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 12
+      "gas:candidate-vibid:4024058207925": 12,
+      "gas:candidate-vibid:4024058208161": 269,
+      "gas:candidate-vibid:4024058208025": 9,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 32,
-      "Бикбаев Ильдар Зинурович": 180,
-      "Кадыров Рафис Фаизович": 52,
-      "Кузьмина Алла Александровна": 15,
-      "Лихачев Олег Эдуардович": 15,
-      "Рябов Вячеслав Владимирович": 46,
-      "Хафизов Рустам Фларидович": 32
+      "gas:candidate-vibid:4024058207925": 32,
+      "gas:candidate-vibid:4024058208161": 180,
+      "gas:candidate-vibid:4024058208025": 52,
+      "gas:candidate-vibid:4024058208193": 15,
+      "gas:candidate-vibid:4024058187280": 15,
+      "gas:candidate-vibid:4024058186602": 46,
+      "gas:candidate-vibid:4024058187114": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 29,
-      "Бикбаев Ильдар Зинурович": 128,
-      "Кадыров Рафис Фаизович": 22,
-      "Кузьмина Алла Александровна": 11,
-      "Лихачев Олег Эдуардович": 18,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 12
+      "gas:candidate-vibid:4024058207925": 29,
+      "gas:candidate-vibid:4024058208161": 128,
+      "gas:candidate-vibid:4024058208025": 22,
+      "gas:candidate-vibid:4024058208193": 11,
+      "gas:candidate-vibid:4024058187280": 18,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 26,
-      "Бикбаев Ильдар Зинурович": 724,
-      "Кадыров Рафис Фаизович": 18,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 9,
-      "Рябов Вячеслав Владимирович": 21,
-      "Хафизов Рустам Фларидович": 6
+      "gas:candidate-vibid:4024058207925": 26,
+      "gas:candidate-vibid:4024058208161": 724,
+      "gas:candidate-vibid:4024058208025": 18,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 9,
+      "gas:candidate-vibid:4024058186602": 21,
+      "gas:candidate-vibid:4024058187114": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 29,
-      "Бикбаев Ильдар Зинурович": 137,
-      "Кадыров Рафис Фаизович": 24,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 16,
-      "Рябов Вячеслав Владимирович": 28,
-      "Хафизов Рустам Фларидович": 39
+      "gas:candidate-vibid:4024058207925": 29,
+      "gas:candidate-vibid:4024058208161": 137,
+      "gas:candidate-vibid:4024058208025": 24,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 16,
+      "gas:candidate-vibid:4024058186602": 28,
+      "gas:candidate-vibid:4024058187114": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 13,
-      "Бикбаев Ильдар Зинурович": 162,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 16,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 15
+      "gas:candidate-vibid:4024058207925": 13,
+      "gas:candidate-vibid:4024058208161": 162,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 16,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 6,
-      "Бикбаев Ильдар Зинурович": 287,
-      "Кадыров Рафис Фаизович": 2,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 8,
-      "Рябов Вячеслав Владимирович": 17,
-      "Хафизов Рустам Фларидович": 9
+      "gas:candidate-vibid:4024058207925": 6,
+      "gas:candidate-vibid:4024058208161": 287,
+      "gas:candidate-vibid:4024058208025": 2,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 8,
+      "gas:candidate-vibid:4024058186602": 17,
+      "gas:candidate-vibid:4024058187114": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 9,
-      "Бикбаев Ильдар Зинурович": 109,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 5,
-      "Лихачев Олег Эдуардович": 6,
-      "Рябов Вячеслав Владимирович": 11,
-      "Хафизов Рустам Фларидович": 5
+      "gas:candidate-vibid:4024058207925": 9,
+      "gas:candidate-vibid:4024058208161": 109,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 5,
+      "gas:candidate-vibid:4024058187280": 6,
+      "gas:candidate-vibid:4024058186602": 11,
+      "gas:candidate-vibid:4024058187114": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 13,
-      "Бикбаев Ильдар Зинурович": 362,
-      "Кадыров Рафис Фаизович": 9,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 10,
-      "Рябов Вячеслав Владимирович": 16,
-      "Хафизов Рустам Фларидович": 25
+      "gas:candidate-vibid:4024058207925": 13,
+      "gas:candidate-vibid:4024058208161": 362,
+      "gas:candidate-vibid:4024058208025": 9,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 10,
+      "gas:candidate-vibid:4024058186602": 16,
+      "gas:candidate-vibid:4024058187114": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 37,
-      "Бикбаев Ильдар Зинурович": 298,
-      "Кадыров Рафис Фаизович": 24,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 17,
-      "Рябов Вячеслав Владимирович": 100,
-      "Хафизов Рустам Фларидович": 33
+      "gas:candidate-vibid:4024058207925": 37,
+      "gas:candidate-vibid:4024058208161": 298,
+      "gas:candidate-vibid:4024058208025": 24,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 17,
+      "gas:candidate-vibid:4024058186602": 100,
+      "gas:candidate-vibid:4024058187114": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 92,
-      "Кадыров Рафис Фаизович": 10,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 10,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 92,
+      "gas:candidate-vibid:4024058208025": 10,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 10,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 40,
-      "Бикбаев Ильдар Зинурович": 421,
-      "Кадыров Рафис Фаизович": 23,
-      "Кузьмина Алла Александровна": 12,
-      "Лихачев Олег Эдуардович": 31,
-      "Рябов Вячеслав Владимирович": 31,
-      "Хафизов Рустам Фларидович": 14
+      "gas:candidate-vibid:4024058207925": 40,
+      "gas:candidate-vibid:4024058208161": 421,
+      "gas:candidate-vibid:4024058208025": 23,
+      "gas:candidate-vibid:4024058208193": 12,
+      "gas:candidate-vibid:4024058187280": 31,
+      "gas:candidate-vibid:4024058186602": 31,
+      "gas:candidate-vibid:4024058187114": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 35,
-      "Бикбаев Ильдар Зинурович": 719,
-      "Кадыров Рафис Фаизович": 15,
-      "Кузьмина Алла Александровна": 36,
-      "Лихачев Олег Эдуардович": 23,
-      "Рябов Вячеслав Владимирович": 46,
-      "Хафизов Рустам Фларидович": 21
+      "gas:candidate-vibid:4024058207925": 35,
+      "gas:candidate-vibid:4024058208161": 719,
+      "gas:candidate-vibid:4024058208025": 15,
+      "gas:candidate-vibid:4024058208193": 36,
+      "gas:candidate-vibid:4024058187280": 23,
+      "gas:candidate-vibid:4024058186602": 46,
+      "gas:candidate-vibid:4024058187114": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 428,
-      "Кадыров Рафис Фаизович": 11,
-      "Кузьмина Алла Александровна": 16,
-      "Лихачев Олег Эдуардович": 24,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 22
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 428,
+      "gas:candidate-vibid:4024058208025": 11,
+      "gas:candidate-vibid:4024058208193": 16,
+      "gas:candidate-vibid:4024058187280": 24,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 252,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 9,
-      "Хафизов Рустам Фларидович": 5
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 252,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 9,
+      "gas:candidate-vibid:4024058187114": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 10,
-      "Бикбаев Ильдар Зинурович": 157,
-      "Кадыров Рафис Фаизович": 24,
-      "Кузьмина Алла Александровна": 9,
-      "Лихачев Олег Эдуардович": 16,
-      "Рябов Вячеслав Владимирович": 33,
-      "Хафизов Рустам Фларидович": 22
+      "gas:candidate-vibid:4024058207925": 10,
+      "gas:candidate-vibid:4024058208161": 157,
+      "gas:candidate-vibid:4024058208025": 24,
+      "gas:candidate-vibid:4024058208193": 9,
+      "gas:candidate-vibid:4024058187280": 16,
+      "gas:candidate-vibid:4024058186602": 33,
+      "gas:candidate-vibid:4024058187114": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 30,
-      "Бикбаев Ильдар Зинурович": 143,
-      "Кадыров Рафис Фаизович": 24,
-      "Кузьмина Алла Александровна": 12,
-      "Лихачев Олег Эдуардович": 24,
-      "Рябов Вячеслав Владимирович": 21,
-      "Хафизов Рустам Фларидович": 129
+      "gas:candidate-vibid:4024058207925": 30,
+      "gas:candidate-vibid:4024058208161": 143,
+      "gas:candidate-vibid:4024058208025": 24,
+      "gas:candidate-vibid:4024058208193": 12,
+      "gas:candidate-vibid:4024058187280": 24,
+      "gas:candidate-vibid:4024058186602": 21,
+      "gas:candidate-vibid:4024058187114": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 35,
-      "Бикбаев Ильдар Зинурович": 246,
-      "Кадыров Рафис Фаизович": 22,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 1,
-      "Хафизов Рустам Фларидович": 22
+      "gas:candidate-vibid:4024058207925": 35,
+      "gas:candidate-vibid:4024058208161": 246,
+      "gas:candidate-vibid:4024058208025": 22,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 1,
+      "gas:candidate-vibid:4024058187114": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 24,
-      "Бикбаев Ильдар Зинурович": 259,
-      "Кадыров Рафис Фаизович": 16,
-      "Кузьмина Алла Александровна": 11,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 11,
-      "Хафизов Рустам Фларидович": 22
+      "gas:candidate-vibid:4024058207925": 24,
+      "gas:candidate-vibid:4024058208161": 259,
+      "gas:candidate-vibid:4024058208025": 16,
+      "gas:candidate-vibid:4024058208193": 11,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 11,
+      "gas:candidate-vibid:4024058187114": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 27,
-      "Бикбаев Ильдар Зинурович": 233,
-      "Кадыров Рафис Фаизович": 12,
-      "Кузьмина Алла Александровна": 8,
-      "Лихачев Олег Эдуардович": 13,
-      "Рябов Вячеслав Владимирович": 39,
-      "Хафизов Рустам Фларидович": 29
+      "gas:candidate-vibid:4024058207925": 27,
+      "gas:candidate-vibid:4024058208161": 233,
+      "gas:candidate-vibid:4024058208025": 12,
+      "gas:candidate-vibid:4024058208193": 8,
+      "gas:candidate-vibid:4024058187280": 13,
+      "gas:candidate-vibid:4024058186602": 39,
+      "gas:candidate-vibid:4024058187114": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 132,
-      "Бикбаев Ильдар Зинурович": 469,
-      "Кадыров Рафис Фаизович": 133,
-      "Кузьмина Алла Александровна": 87,
-      "Лихачев Олег Эдуардович": 81,
-      "Рябов Вячеслав Владимирович": 257,
-      "Хафизов Рустам Фларидович": 79
+      "gas:candidate-vibid:4024058207925": 132,
+      "gas:candidate-vibid:4024058208161": 469,
+      "gas:candidate-vibid:4024058208025": 133,
+      "gas:candidate-vibid:4024058208193": 87,
+      "gas:candidate-vibid:4024058187280": 81,
+      "gas:candidate-vibid:4024058186602": 257,
+      "gas:candidate-vibid:4024058187114": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 112,
-      "Бикбаев Ильдар Зинурович": 479,
-      "Кадыров Рафис Фаизович": 165,
-      "Кузьмина Алла Александровна": 101,
-      "Лихачев Олег Эдуардович": 74,
-      "Рябов Вячеслав Владимирович": 255,
-      "Хафизов Рустам Фларидович": 74
+      "gas:candidate-vibid:4024058207925": 112,
+      "gas:candidate-vibid:4024058208161": 479,
+      "gas:candidate-vibid:4024058208025": 165,
+      "gas:candidate-vibid:4024058208193": 101,
+      "gas:candidate-vibid:4024058187280": 74,
+      "gas:candidate-vibid:4024058186602": 255,
+      "gas:candidate-vibid:4024058187114": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 157,
-      "Бикбаев Ильдар Зинурович": 502,
-      "Кадыров Рафис Фаизович": 31,
-      "Кузьмина Алла Александровна": 56,
-      "Лихачев Олег Эдуардович": 47,
-      "Рябов Вячеслав Владимирович": 370,
-      "Хафизов Рустам Фларидович": 96
+      "gas:candidate-vibid:4024058207925": 157,
+      "gas:candidate-vibid:4024058208161": 502,
+      "gas:candidate-vibid:4024058208025": 31,
+      "gas:candidate-vibid:4024058208193": 56,
+      "gas:candidate-vibid:4024058187280": 47,
+      "gas:candidate-vibid:4024058186602": 370,
+      "gas:candidate-vibid:4024058187114": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 160,
-      "Бикбаев Ильдар Зинурович": 383,
-      "Кадыров Рафис Фаизович": 99,
-      "Кузьмина Алла Александровна": 165,
-      "Лихачев Олег Эдуардович": 104,
-      "Рябов Вячеслав Владимирович": 217,
-      "Хафизов Рустам Фларидович": 103
+      "gas:candidate-vibid:4024058207925": 160,
+      "gas:candidate-vibid:4024058208161": 383,
+      "gas:candidate-vibid:4024058208025": 99,
+      "gas:candidate-vibid:4024058208193": 165,
+      "gas:candidate-vibid:4024058187280": 104,
+      "gas:candidate-vibid:4024058186602": 217,
+      "gas:candidate-vibid:4024058187114": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 71,
-      "Бикбаев Ильдар Зинурович": 484,
-      "Кадыров Рафис Фаизович": 103,
-      "Кузьмина Алла Александровна": 83,
-      "Лихачев Олег Эдуардович": 8,
-      "Рябов Вячеслав Владимирович": 224,
-      "Хафизов Рустам Фларидович": 205
+      "gas:candidate-vibid:4024058207925": 71,
+      "gas:candidate-vibid:4024058208161": 484,
+      "gas:candidate-vibid:4024058208025": 103,
+      "gas:candidate-vibid:4024058208193": 83,
+      "gas:candidate-vibid:4024058187280": 8,
+      "gas:candidate-vibid:4024058186602": 224,
+      "gas:candidate-vibid:4024058187114": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 103,
-      "Бикбаев Ильдар Зинурович": 492,
-      "Кадыров Рафис Фаизович": 155,
-      "Кузьмина Алла Александровна": 129,
-      "Лихачев Олег Эдуардович": 104,
-      "Рябов Вячеслав Владимирович": 234,
-      "Хафизов Рустам Фларидович": 78
+      "gas:candidate-vibid:4024058207925": 103,
+      "gas:candidate-vibid:4024058208161": 492,
+      "gas:candidate-vibid:4024058208025": 155,
+      "gas:candidate-vibid:4024058208193": 129,
+      "gas:candidate-vibid:4024058187280": 104,
+      "gas:candidate-vibid:4024058186602": 234,
+      "gas:candidate-vibid:4024058187114": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 176,
-      "Бикбаев Ильдар Зинурович": 465,
-      "Кадыров Рафис Фаизович": 119,
-      "Кузьмина Алла Александровна": 108,
-      "Лихачев Олег Эдуардович": 95,
-      "Рябов Вячеслав Владимирович": 175,
-      "Хафизов Рустам Фларидович": 112
+      "gas:candidate-vibid:4024058207925": 176,
+      "gas:candidate-vibid:4024058208161": 465,
+      "gas:candidate-vibid:4024058208025": 119,
+      "gas:candidate-vibid:4024058208193": 108,
+      "gas:candidate-vibid:4024058187280": 95,
+      "gas:candidate-vibid:4024058186602": 175,
+      "gas:candidate-vibid:4024058187114": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 49,
-      "Бикбаев Ильдар Зинурович": 578,
-      "Кадыров Рафис Фаизович": 51,
-      "Кузьмина Алла Александровна": 63,
-      "Лихачев Олег Эдуардович": 38,
-      "Рябов Вячеслав Владимирович": 261,
-      "Хафизов Рустам Фларидович": 62
+      "gas:candidate-vibid:4024058207925": 49,
+      "gas:candidate-vibid:4024058208161": 578,
+      "gas:candidate-vibid:4024058208025": 51,
+      "gas:candidate-vibid:4024058208193": 63,
+      "gas:candidate-vibid:4024058187280": 38,
+      "gas:candidate-vibid:4024058186602": 261,
+      "gas:candidate-vibid:4024058187114": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 155,
-      "Бикбаев Ильдар Зинурович": 551,
-      "Кадыров Рафис Фаизович": 23,
-      "Кузьмина Алла Александровна": 61,
-      "Лихачев Олег Эдуардович": 43,
-      "Рябов Вячеслав Владимирович": 160,
-      "Хафизов Рустам Фларидович": 58
+      "gas:candidate-vibid:4024058207925": 155,
+      "gas:candidate-vibid:4024058208161": 551,
+      "gas:candidate-vibid:4024058208025": 23,
+      "gas:candidate-vibid:4024058208193": 61,
+      "gas:candidate-vibid:4024058187280": 43,
+      "gas:candidate-vibid:4024058186602": 160,
+      "gas:candidate-vibid:4024058187114": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 130,
-      "Бикбаев Ильдар Зинурович": 555,
-      "Кадыров Рафис Фаизович": 94,
-      "Кузьмина Алла Александровна": 100,
-      "Лихачев Олег Эдуардович": 97,
-      "Рябов Вячеслав Владимирович": 287,
-      "Хафизов Рустам Фларидович": 104
+      "gas:candidate-vibid:4024058207925": 130,
+      "gas:candidate-vibid:4024058208161": 555,
+      "gas:candidate-vibid:4024058208025": 94,
+      "gas:candidate-vibid:4024058208193": 100,
+      "gas:candidate-vibid:4024058187280": 97,
+      "gas:candidate-vibid:4024058186602": 287,
+      "gas:candidate-vibid:4024058187114": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 161,
-      "Бикбаев Ильдар Зинурович": 492,
-      "Кадыров Рафис Фаизович": 142,
-      "Кузьмина Алла Александровна": 87,
-      "Лихачев Олег Эдуардович": 34,
-      "Рябов Вячеслав Владимирович": 252,
-      "Хафизов Рустам Фларидович": 73
+      "gas:candidate-vibid:4024058207925": 161,
+      "gas:candidate-vibid:4024058208161": 492,
+      "gas:candidate-vibid:4024058208025": 142,
+      "gas:candidate-vibid:4024058208193": 87,
+      "gas:candidate-vibid:4024058187280": 34,
+      "gas:candidate-vibid:4024058186602": 252,
+      "gas:candidate-vibid:4024058187114": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 71,
-      "Бикбаев Ильдар Зинурович": 230,
-      "Кадыров Рафис Фаизович": 47,
-      "Кузьмина Алла Александровна": 63,
-      "Лихачев Олег Эдуардович": 64,
-      "Рябов Вячеслав Владимирович": 116,
-      "Хафизов Рустам Фларидович": 67
+      "gas:candidate-vibid:4024058207925": 71,
+      "gas:candidate-vibid:4024058208161": 230,
+      "gas:candidate-vibid:4024058208025": 47,
+      "gas:candidate-vibid:4024058208193": 63,
+      "gas:candidate-vibid:4024058187280": 64,
+      "gas:candidate-vibid:4024058186602": 116,
+      "gas:candidate-vibid:4024058187114": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 143,
-      "Бикбаев Ильдар Зинурович": 618,
-      "Кадыров Рафис Фаизович": 211,
-      "Кузьмина Алла Александровна": 209,
-      "Лихачев Олег Эдуардович": 203,
-      "Рябов Вячеслав Владимирович": 372,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 143,
+      "gas:candidate-vibid:4024058208161": 618,
+      "gas:candidate-vibid:4024058208025": 211,
+      "gas:candidate-vibid:4024058208193": 209,
+      "gas:candidate-vibid:4024058187280": 203,
+      "gas:candidate-vibid:4024058186602": 372,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 19,
-      "Бикбаев Ильдар Зинурович": 421,
-      "Кадыров Рафис Фаизович": 198,
-      "Кузьмина Алла Александровна": 111,
-      "Лихачев Олег Эдуардович": 76,
-      "Рябов Вячеслав Владимирович": 211,
-      "Хафизов Рустам Фларидович": 144
+      "gas:candidate-vibid:4024058207925": 19,
+      "gas:candidate-vibid:4024058208161": 421,
+      "gas:candidate-vibid:4024058208025": 198,
+      "gas:candidate-vibid:4024058208193": 111,
+      "gas:candidate-vibid:4024058187280": 76,
+      "gas:candidate-vibid:4024058186602": 211,
+      "gas:candidate-vibid:4024058187114": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 134,
-      "Бикбаев Ильдар Зинурович": 667,
-      "Кадыров Рафис Фаизович": 69,
-      "Кузьмина Алла Александровна": 38,
-      "Лихачев Олег Эдуардович": 74,
-      "Рябов Вячеслав Владимирович": 298,
-      "Хафизов Рустам Фларидович": 116
+      "gas:candidate-vibid:4024058207925": 134,
+      "gas:candidate-vibid:4024058208161": 667,
+      "gas:candidate-vibid:4024058208025": 69,
+      "gas:candidate-vibid:4024058208193": 38,
+      "gas:candidate-vibid:4024058187280": 74,
+      "gas:candidate-vibid:4024058186602": 298,
+      "gas:candidate-vibid:4024058187114": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 130,
-      "Бикбаев Ильдар Зинурович": 604,
-      "Кадыров Рафис Фаизович": 106,
-      "Кузьмина Алла Александровна": 51,
-      "Лихачев Олег Эдуардович": 68,
-      "Рябов Вячеслав Владимирович": 328,
-      "Хафизов Рустам Фларидович": 345
+      "gas:candidate-vibid:4024058207925": 130,
+      "gas:candidate-vibid:4024058208161": 604,
+      "gas:candidate-vibid:4024058208025": 106,
+      "gas:candidate-vibid:4024058208193": 51,
+      "gas:candidate-vibid:4024058187280": 68,
+      "gas:candidate-vibid:4024058186602": 328,
+      "gas:candidate-vibid:4024058187114": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 134,
-      "Бикбаев Ильдар Зинурович": 513,
-      "Кадыров Рафис Фаизович": 112,
-      "Кузьмина Алла Александровна": 121,
-      "Лихачев Олег Эдуардович": 128,
-      "Рябов Вячеслав Владимирович": 307,
-      "Хафизов Рустам Фларидович": 144
+      "gas:candidate-vibid:4024058207925": 134,
+      "gas:candidate-vibid:4024058208161": 513,
+      "gas:candidate-vibid:4024058208025": 112,
+      "gas:candidate-vibid:4024058208193": 121,
+      "gas:candidate-vibid:4024058187280": 128,
+      "gas:candidate-vibid:4024058186602": 307,
+      "gas:candidate-vibid:4024058187114": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 214,
-      "Бикбаев Ильдар Зинурович": 714,
-      "Кадыров Рафис Фаизович": 191,
-      "Кузьмина Алла Александровна": 250,
-      "Лихачев Олег Эдуардович": 199,
-      "Рябов Вячеслав Владимирович": 469,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 214,
+      "gas:candidate-vibid:4024058208161": 714,
+      "gas:candidate-vibid:4024058208025": 191,
+      "gas:candidate-vibid:4024058208193": 250,
+      "gas:candidate-vibid:4024058187280": 199,
+      "gas:candidate-vibid:4024058186602": 469,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 83,
-      "Бикбаев Ильдар Зинурович": 324,
-      "Кадыров Рафис Фаизович": 49,
-      "Кузьмина Алла Александровна": 36,
-      "Лихачев Олег Эдуардович": 56,
-      "Рябов Вячеслав Владимирович": 165,
-      "Хафизов Рустам Фларидович": 44
+      "gas:candidate-vibid:4024058207925": 83,
+      "gas:candidate-vibid:4024058208161": 324,
+      "gas:candidate-vibid:4024058208025": 49,
+      "gas:candidate-vibid:4024058208193": 36,
+      "gas:candidate-vibid:4024058187280": 56,
+      "gas:candidate-vibid:4024058186602": 165,
+      "gas:candidate-vibid:4024058187114": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 172,
-      "Бикбаев Ильдар Зинурович": 512,
-      "Кадыров Рафис Фаизович": 165,
-      "Кузьмина Алла Александровна": 94,
-      "Лихачев Олег Эдуардович": 38,
-      "Рябов Вячеслав Владимирович": 329,
-      "Хафизов Рустам Фларидович": 229
+      "gas:candidate-vibid:4024058207925": 172,
+      "gas:candidate-vibid:4024058208161": 512,
+      "gas:candidate-vibid:4024058208025": 165,
+      "gas:candidate-vibid:4024058208193": 94,
+      "gas:candidate-vibid:4024058187280": 38,
+      "gas:candidate-vibid:4024058186602": 329,
+      "gas:candidate-vibid:4024058187114": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 96,
-      "Бикбаев Ильдар Зинурович": 444,
-      "Кадыров Рафис Фаизович": 36,
-      "Кузьмина Алла Александровна": 48,
-      "Лихачев Олег Эдуардович": 36,
-      "Рябов Вячеслав Владимирович": 190,
-      "Хафизов Рустам Фларидович": 54
+      "gas:candidate-vibid:4024058207925": 96,
+      "gas:candidate-vibid:4024058208161": 444,
+      "gas:candidate-vibid:4024058208025": 36,
+      "gas:candidate-vibid:4024058208193": 48,
+      "gas:candidate-vibid:4024058187280": 36,
+      "gas:candidate-vibid:4024058186602": 190,
+      "gas:candidate-vibid:4024058187114": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 178,
-      "Бикбаев Ильдар Зинурович": 376,
-      "Кадыров Рафис Фаизович": 95,
-      "Кузьмина Алла Александровна": 98,
-      "Лихачев Олег Эдуардович": 233,
-      "Рябов Вячеслав Владимирович": 276,
-      "Хафизов Рустам Фларидович": 82
+      "gas:candidate-vibid:4024058207925": 178,
+      "gas:candidate-vibid:4024058208161": 376,
+      "gas:candidate-vibid:4024058208025": 95,
+      "gas:candidate-vibid:4024058208193": 98,
+      "gas:candidate-vibid:4024058187280": 233,
+      "gas:candidate-vibid:4024058186602": 276,
+      "gas:candidate-vibid:4024058187114": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 27,
-      "Бикбаев Ильдар Зинурович": 812,
-      "Кадыров Рафис Фаизович": 75,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 129,
-      "Рябов Вячеслав Владимирович": 165,
-      "Хафизов Рустам Фларидович": 28
+      "gas:candidate-vibid:4024058207925": 27,
+      "gas:candidate-vibid:4024058208161": 812,
+      "gas:candidate-vibid:4024058208025": 75,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 129,
+      "gas:candidate-vibid:4024058186602": 165,
+      "gas:candidate-vibid:4024058187114": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 109,
-      "Бикбаев Ильдар Зинурович": 812,
-      "Кадыров Рафис Фаизович": 27,
-      "Кузьмина Алла Александровна": 84,
-      "Лихачев Олег Эдуардович": 49,
-      "Рябов Вячеслав Владимирович": 505,
-      "Хафизов Рустам Фларидович": 90
+      "gas:candidate-vibid:4024058207925": 109,
+      "gas:candidate-vibid:4024058208161": 812,
+      "gas:candidate-vibid:4024058208025": 27,
+      "gas:candidate-vibid:4024058208193": 84,
+      "gas:candidate-vibid:4024058187280": 49,
+      "gas:candidate-vibid:4024058186602": 505,
+      "gas:candidate-vibid:4024058187114": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 9,
-      "Бикбаев Ильдар Зинурович": 844,
-      "Кадыров Рафис Фаизович": 12,
-      "Кузьмина Алла Александровна": 79,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 253,
-      "Хафизов Рустам Фларидович": 57
+      "gas:candidate-vibid:4024058207925": 9,
+      "gas:candidate-vibid:4024058208161": 844,
+      "gas:candidate-vibid:4024058208025": 12,
+      "gas:candidate-vibid:4024058208193": 79,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 253,
+      "gas:candidate-vibid:4024058187114": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 137,
-      "Бикбаев Ильдар Зинурович": 568,
-      "Кадыров Рафис Фаизович": 104,
-      "Кузьмина Алла Александровна": 289,
-      "Лихачев Олег Эдуардович": 57,
-      "Рябов Вячеслав Владимирович": 304,
-      "Хафизов Рустам Фларидович": 114
+      "gas:candidate-vibid:4024058207925": 137,
+      "gas:candidate-vibid:4024058208161": 568,
+      "gas:candidate-vibid:4024058208025": 104,
+      "gas:candidate-vibid:4024058208193": 289,
+      "gas:candidate-vibid:4024058187280": 57,
+      "gas:candidate-vibid:4024058186602": 304,
+      "gas:candidate-vibid:4024058187114": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 156,
-      "Бикбаев Ильдар Зинурович": 413,
-      "Кадыров Рафис Фаизович": 56,
-      "Кузьмина Алла Александровна": 96,
-      "Лихачев Олег Эдуардович": 98,
-      "Рябов Вячеслав Владимирович": 128,
-      "Хафизов Рустам Фларидович": 212
+      "gas:candidate-vibid:4024058207925": 156,
+      "gas:candidate-vibid:4024058208161": 413,
+      "gas:candidate-vibid:4024058208025": 56,
+      "gas:candidate-vibid:4024058208193": 96,
+      "gas:candidate-vibid:4024058187280": 98,
+      "gas:candidate-vibid:4024058186602": 128,
+      "gas:candidate-vibid:4024058187114": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 31,
-      "Бикбаев Ильдар Зинурович": 202,
-      "Кадыров Рафис Фаизович": 15,
-      "Кузьмина Алла Александровна": 50,
-      "Лихачев Олег Эдуардович": 55,
-      "Рябов Вячеслав Владимирович": 106,
-      "Хафизов Рустам Фларидович": 46
+      "gas:candidate-vibid:4024058207925": 31,
+      "gas:candidate-vibid:4024058208161": 202,
+      "gas:candidate-vibid:4024058208025": 15,
+      "gas:candidate-vibid:4024058208193": 50,
+      "gas:candidate-vibid:4024058187280": 55,
+      "gas:candidate-vibid:4024058186602": 106,
+      "gas:candidate-vibid:4024058187114": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 23,
-      "Бикбаев Ильдар Зинурович": 150,
-      "Кадыров Рафис Фаизович": 15,
-      "Кузьмина Алла Александровна": 8,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 12,
-      "Хафизов Рустам Фларидович": 26
+      "gas:candidate-vibid:4024058207925": 23,
+      "gas:candidate-vibid:4024058208161": 150,
+      "gas:candidate-vibid:4024058208025": 15,
+      "gas:candidate-vibid:4024058208193": 8,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 12,
+      "gas:candidate-vibid:4024058187114": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 74,
-      "Бикбаев Ильдар Зинурович": 611,
-      "Кадыров Рафис Фаизович": 43,
-      "Кузьмина Алла Александровна": 25,
-      "Лихачев Олег Эдуардович": 70,
-      "Рябов Вячеслав Владимирович": 247,
-      "Хафизов Рустам Фларидович": 148
+      "gas:candidate-vibid:4024058207925": 74,
+      "gas:candidate-vibid:4024058208161": 611,
+      "gas:candidate-vibid:4024058208025": 43,
+      "gas:candidate-vibid:4024058208193": 25,
+      "gas:candidate-vibid:4024058187280": 70,
+      "gas:candidate-vibid:4024058186602": 247,
+      "gas:candidate-vibid:4024058187114": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 42,
-      "Бикбаев Ильдар Зинурович": 266,
-      "Кадыров Рафис Фаизович": 16,
-      "Кузьмина Алла Александровна": 9,
-      "Лихачев Олег Эдуардович": 27,
-      "Рябов Вячеслав Владимирович": 42,
-      "Хафизов Рустам Фларидович": 86
+      "gas:candidate-vibid:4024058207925": 42,
+      "gas:candidate-vibid:4024058208161": 266,
+      "gas:candidate-vibid:4024058208025": 16,
+      "gas:candidate-vibid:4024058208193": 9,
+      "gas:candidate-vibid:4024058187280": 27,
+      "gas:candidate-vibid:4024058186602": 42,
+      "gas:candidate-vibid:4024058187114": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 17,
-      "Бикбаев Ильдар Зинурович": 430,
-      "Кадыров Рафис Фаизович": 17,
-      "Кузьмина Алла Александровна": 31,
-      "Лихачев Олег Эдуардович": 30,
-      "Рябов Вячеслав Владимирович": 140,
-      "Хафизов Рустам Фларидович": 150
+      "gas:candidate-vibid:4024058207925": 17,
+      "gas:candidate-vibid:4024058208161": 430,
+      "gas:candidate-vibid:4024058208025": 17,
+      "gas:candidate-vibid:4024058208193": 31,
+      "gas:candidate-vibid:4024058187280": 30,
+      "gas:candidate-vibid:4024058186602": 140,
+      "gas:candidate-vibid:4024058187114": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 65,
-      "Бикбаев Ильдар Зинурович": 450,
-      "Кадыров Рафис Фаизович": 46,
-      "Кузьмина Алла Александровна": 60,
-      "Лихачев Олег Эдуардович": 68,
-      "Рябов Вячеслав Владимирович": 320,
-      "Хафизов Рустам Фларидович": 244
+      "gas:candidate-vibid:4024058207925": 65,
+      "gas:candidate-vibid:4024058208161": 450,
+      "gas:candidate-vibid:4024058208025": 46,
+      "gas:candidate-vibid:4024058208193": 60,
+      "gas:candidate-vibid:4024058187280": 68,
+      "gas:candidate-vibid:4024058186602": 320,
+      "gas:candidate-vibid:4024058187114": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 185,
-      "Бикбаев Ильдар Зинурович": 752,
-      "Кадыров Рафис Фаизович": 224,
-      "Кузьмина Алла Александровна": 96,
-      "Лихачев Олег Эдуардович": 72,
-      "Рябов Вячеслав Владимирович": 404,
-      "Хафизов Рустам Фларидович": 126
+      "gas:candidate-vibid:4024058207925": 185,
+      "gas:candidate-vibid:4024058208161": 752,
+      "gas:candidate-vibid:4024058208025": 224,
+      "gas:candidate-vibid:4024058208193": 96,
+      "gas:candidate-vibid:4024058187280": 72,
+      "gas:candidate-vibid:4024058186602": 404,
+      "gas:candidate-vibid:4024058187114": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 37,
-      "Бикбаев Ильдар Зинурович": 452,
-      "Кадыров Рафис Фаизович": 215,
-      "Кузьмина Алла Александровна": 129,
-      "Лихачев Олег Эдуардович": 28,
-      "Рябов Вячеслав Владимирович": 367,
-      "Хафизов Рустам Фларидович": 153
+      "gas:candidate-vibid:4024058207925": 37,
+      "gas:candidate-vibid:4024058208161": 452,
+      "gas:candidate-vibid:4024058208025": 215,
+      "gas:candidate-vibid:4024058208193": 129,
+      "gas:candidate-vibid:4024058187280": 28,
+      "gas:candidate-vibid:4024058186602": 367,
+      "gas:candidate-vibid:4024058187114": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 159,
-      "Бикбаев Ильдар Зинурович": 487,
-      "Кадыров Рафис Фаизович": 61,
-      "Кузьмина Алла Александровна": 94,
-      "Лихачев Олег Эдуардович": 32,
-      "Рябов Вячеслав Владимирович": 237,
-      "Хафизов Рустам Фларидович": 154
+      "gas:candidate-vibid:4024058207925": 159,
+      "gas:candidate-vibid:4024058208161": 487,
+      "gas:candidate-vibid:4024058208025": 61,
+      "gas:candidate-vibid:4024058208193": 94,
+      "gas:candidate-vibid:4024058187280": 32,
+      "gas:candidate-vibid:4024058186602": 237,
+      "gas:candidate-vibid:4024058187114": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 56,
-      "Бикбаев Ильдар Зинурович": 324,
-      "Кадыров Рафис Фаизович": 46,
-      "Кузьмина Алла Александровна": 25,
-      "Лихачев Олег Эдуардович": 8,
-      "Рябов Вячеслав Владимирович": 163,
-      "Хафизов Рустам Фларидович": 17
+      "gas:candidate-vibid:4024058207925": 56,
+      "gas:candidate-vibid:4024058208161": 324,
+      "gas:candidate-vibid:4024058208025": 46,
+      "gas:candidate-vibid:4024058208193": 25,
+      "gas:candidate-vibid:4024058187280": 8,
+      "gas:candidate-vibid:4024058186602": 163,
+      "gas:candidate-vibid:4024058187114": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 68,
-      "Бикбаев Ильдар Зинурович": 286,
-      "Кадыров Рафис Фаизович": 19,
-      "Кузьмина Алла Александровна": 49,
-      "Лихачев Олег Эдуардович": 39,
-      "Рябов Вячеслав Владимирович": 106,
-      "Хафизов Рустам Фларидович": 36
+      "gas:candidate-vibid:4024058207925": 68,
+      "gas:candidate-vibid:4024058208161": 286,
+      "gas:candidate-vibid:4024058208025": 19,
+      "gas:candidate-vibid:4024058208193": 49,
+      "gas:candidate-vibid:4024058187280": 39,
+      "gas:candidate-vibid:4024058186602": 106,
+      "gas:candidate-vibid:4024058187114": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 99,
-      "Бикбаев Ильдар Зинурович": 616,
-      "Кадыров Рафис Фаизович": 13,
-      "Кузьмина Алла Александровна": 32,
-      "Лихачев Олег Эдуардович": 27,
-      "Рябов Вячеслав Владимирович": 139,
-      "Хафизов Рустам Фларидович": 283
+      "gas:candidate-vibid:4024058207925": 99,
+      "gas:candidate-vibid:4024058208161": 616,
+      "gas:candidate-vibid:4024058208025": 13,
+      "gas:candidate-vibid:4024058208193": 32,
+      "gas:candidate-vibid:4024058187280": 27,
+      "gas:candidate-vibid:4024058186602": 139,
+      "gas:candidate-vibid:4024058187114": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 22,
-      "Бикбаев Ильдар Зинурович": 461,
-      "Кадыров Рафис Фаизович": 31,
-      "Кузьмина Алла Александровна": 112,
-      "Лихачев Олег Эдуардович": 21,
-      "Рябов Вячеслав Владимирович": 209,
-      "Хафизов Рустам Фларидович": 171
+      "gas:candidate-vibid:4024058207925": 22,
+      "gas:candidate-vibid:4024058208161": 461,
+      "gas:candidate-vibid:4024058208025": 31,
+      "gas:candidate-vibid:4024058208193": 112,
+      "gas:candidate-vibid:4024058187280": 21,
+      "gas:candidate-vibid:4024058186602": 209,
+      "gas:candidate-vibid:4024058187114": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 186,
-      "Бикбаев Ильдар Зинурович": 487,
-      "Кадыров Рафис Фаизович": 28,
-      "Кузьмина Алла Александровна": 48,
-      "Лихачев Олег Эдуардович": 38,
-      "Рябов Вячеслав Владимирович": 189,
-      "Хафизов Рустам Фларидович": 36
+      "gas:candidate-vibid:4024058207925": 186,
+      "gas:candidate-vibid:4024058208161": 487,
+      "gas:candidate-vibid:4024058208025": 28,
+      "gas:candidate-vibid:4024058208193": 48,
+      "gas:candidate-vibid:4024058187280": 38,
+      "gas:candidate-vibid:4024058186602": 189,
+      "gas:candidate-vibid:4024058187114": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 97,
-      "Бикбаев Ильдар Зинурович": 599,
-      "Кадыров Рафис Фаизович": 81,
-      "Кузьмина Алла Александровна": 56,
-      "Лихачев Олег Эдуардович": 31,
-      "Рябов Вячеслав Владимирович": 181,
-      "Хафизов Рустам Фларидович": 103
+      "gas:candidate-vibid:4024058207925": 97,
+      "gas:candidate-vibid:4024058208161": 599,
+      "gas:candidate-vibid:4024058208025": 81,
+      "gas:candidate-vibid:4024058208193": 56,
+      "gas:candidate-vibid:4024058187280": 31,
+      "gas:candidate-vibid:4024058186602": 181,
+      "gas:candidate-vibid:4024058187114": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 9,
-      "Бикбаев Ильдар Зинурович": 512,
-      "Кадыров Рафис Фаизович": 12,
-      "Кузьмина Алла Александровна": 12,
-      "Лихачев Олег Эдуардович": 16,
-      "Рябов Вячеслав Владимирович": 222,
-      "Хафизов Рустам Фларидович": 522
+      "gas:candidate-vibid:4024058207925": 9,
+      "gas:candidate-vibid:4024058208161": 512,
+      "gas:candidate-vibid:4024058208025": 12,
+      "gas:candidate-vibid:4024058208193": 12,
+      "gas:candidate-vibid:4024058187280": 16,
+      "gas:candidate-vibid:4024058186602": 222,
+      "gas:candidate-vibid:4024058187114": 522
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 182,
-      "Бикбаев Ильдар Зинурович": 548,
-      "Кадыров Рафис Фаизович": 128,
-      "Кузьмина Алла Александровна": 36,
-      "Лихачев Олег Эдуардович": 15,
-      "Рябов Вячеслав Владимирович": 302,
-      "Хафизов Рустам Фларидович": 93
+      "gas:candidate-vibid:4024058207925": 182,
+      "gas:candidate-vibid:4024058208161": 548,
+      "gas:candidate-vibid:4024058208025": 128,
+      "gas:candidate-vibid:4024058208193": 36,
+      "gas:candidate-vibid:4024058187280": 15,
+      "gas:candidate-vibid:4024058186602": 302,
+      "gas:candidate-vibid:4024058187114": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 49,
-      "Бикбаев Ильдар Зинурович": 295,
-      "Кадыров Рафис Фаизович": 72,
-      "Кузьмина Алла Александровна": 48,
-      "Лихачев Олег Эдуардович": 24,
-      "Рябов Вячеслав Владимирович": 178,
-      "Хафизов Рустам Фларидович": 316
+      "gas:candidate-vibid:4024058207925": 49,
+      "gas:candidate-vibid:4024058208161": 295,
+      "gas:candidate-vibid:4024058208025": 72,
+      "gas:candidate-vibid:4024058208193": 48,
+      "gas:candidate-vibid:4024058187280": 24,
+      "gas:candidate-vibid:4024058186602": 178,
+      "gas:candidate-vibid:4024058187114": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 70,
-      "Бикбаев Ильдар Зинурович": 573,
-      "Кадыров Рафис Фаизович": 21,
-      "Кузьмина Алла Александровна": 20,
-      "Лихачев Олег Эдуардович": 118,
-      "Рябов Вячеслав Владимирович": 144,
-      "Хафизов Рустам Фларидович": 597
+      "gas:candidate-vibid:4024058207925": 70,
+      "gas:candidate-vibid:4024058208161": 573,
+      "gas:candidate-vibid:4024058208025": 21,
+      "gas:candidate-vibid:4024058208193": 20,
+      "gas:candidate-vibid:4024058187280": 118,
+      "gas:candidate-vibid:4024058186602": 144,
+      "gas:candidate-vibid:4024058187114": 597
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 92,
-      "Бикбаев Ильдар Зинурович": 445,
-      "Кадыров Рафис Фаизович": 150,
-      "Кузьмина Алла Александровна": 72,
-      "Лихачев Олег Эдуардович": 89,
-      "Рябов Вячеслав Владимирович": 249,
-      "Хафизов Рустам Фларидович": 101
+      "gas:candidate-vibid:4024058207925": 92,
+      "gas:candidate-vibid:4024058208161": 445,
+      "gas:candidate-vibid:4024058208025": 150,
+      "gas:candidate-vibid:4024058208193": 72,
+      "gas:candidate-vibid:4024058187280": 89,
+      "gas:candidate-vibid:4024058186602": 249,
+      "gas:candidate-vibid:4024058187114": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 126,
-      "Бикбаев Ильдар Зинурович": 535,
-      "Кадыров Рафис Фаизович": 64,
-      "Кузьмина Алла Александровна": 80,
-      "Лихачев Олег Эдуардович": 62,
-      "Рябов Вячеслав Владимирович": 118,
-      "Хафизов Рустам Фларидович": 95
+      "gas:candidate-vibid:4024058207925": 126,
+      "gas:candidate-vibid:4024058208161": 535,
+      "gas:candidate-vibid:4024058208025": 64,
+      "gas:candidate-vibid:4024058208193": 80,
+      "gas:candidate-vibid:4024058187280": 62,
+      "gas:candidate-vibid:4024058186602": 118,
+      "gas:candidate-vibid:4024058187114": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 93,
-      "Бикбаев Ильдар Зинурович": 505,
-      "Кадыров Рафис Фаизович": 49,
-      "Кузьмина Алла Александровна": 213,
-      "Лихачев Олег Эдуардович": 58,
-      "Рябов Вячеслав Владимирович": 206,
-      "Хафизов Рустам Фларидович": 56
+      "gas:candidate-vibid:4024058207925": 93,
+      "gas:candidate-vibid:4024058208161": 505,
+      "gas:candidate-vibid:4024058208025": 49,
+      "gas:candidate-vibid:4024058208193": 213,
+      "gas:candidate-vibid:4024058187280": 58,
+      "gas:candidate-vibid:4024058186602": 206,
+      "gas:candidate-vibid:4024058187114": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 106,
-      "Бикбаев Ильдар Зинурович": 453,
-      "Кадыров Рафис Фаизович": 72,
-      "Кузьмина Алла Александровна": 119,
-      "Лихачев Олег Эдуардович": 95,
-      "Рябов Вячеслав Владимирович": 221,
-      "Хафизов Рустам Фларидович": 149
+      "gas:candidate-vibid:4024058207925": 106,
+      "gas:candidate-vibid:4024058208161": 453,
+      "gas:candidate-vibid:4024058208025": 72,
+      "gas:candidate-vibid:4024058208193": 119,
+      "gas:candidate-vibid:4024058187280": 95,
+      "gas:candidate-vibid:4024058186602": 221,
+      "gas:candidate-vibid:4024058187114": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 52,
-      "Бикбаев Ильдар Зинурович": 121,
-      "Кадыров Рафис Фаизович": 24,
-      "Кузьмина Алла Александровна": 32,
-      "Лихачев Олег Эдуардович": 35,
-      "Рябов Вячеслав Владимирович": 80,
-      "Хафизов Рустам Фларидович": 54
+      "gas:candidate-vibid:4024058207925": 52,
+      "gas:candidate-vibid:4024058208161": 121,
+      "gas:candidate-vibid:4024058208025": 24,
+      "gas:candidate-vibid:4024058208193": 32,
+      "gas:candidate-vibid:4024058187280": 35,
+      "gas:candidate-vibid:4024058186602": 80,
+      "gas:candidate-vibid:4024058187114": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 10,
-      "Бикбаев Ильдар Зинурович": 821,
-      "Кадыров Рафис Фаизович": 76,
-      "Кузьмина Алла Александровна": 13,
-      "Лихачев Олег Эдуардович": 32,
-      "Рябов Вячеслав Владимирович": 672,
-      "Хафизов Рустам Фларидович": 170
+      "gas:candidate-vibid:4024058207925": 10,
+      "gas:candidate-vibid:4024058208161": 821,
+      "gas:candidate-vibid:4024058208025": 76,
+      "gas:candidate-vibid:4024058208193": 13,
+      "gas:candidate-vibid:4024058187280": 32,
+      "gas:candidate-vibid:4024058186602": 672,
+      "gas:candidate-vibid:4024058187114": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 185,
-      "Бикбаев Ильдар Зинурович": 532,
-      "Кадыров Рафис Фаизович": 129,
-      "Кузьмина Алла Александровна": 78,
-      "Лихачев Олег Эдуардович": 36,
-      "Рябов Вячеслав Владимирович": 301,
-      "Хафизов Рустам Фларидович": 245
+      "gas:candidate-vibid:4024058207925": 185,
+      "gas:candidate-vibid:4024058208161": 532,
+      "gas:candidate-vibid:4024058208025": 129,
+      "gas:candidate-vibid:4024058208193": 78,
+      "gas:candidate-vibid:4024058187280": 36,
+      "gas:candidate-vibid:4024058186602": 301,
+      "gas:candidate-vibid:4024058187114": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 35,
-      "Бикбаев Ильдар Зинурович": 357,
-      "Кадыров Рафис Фаизович": 33,
-      "Кузьмина Алла Александровна": 45,
-      "Лихачев Олег Эдуардович": 20,
-      "Рябов Вячеслав Владимирович": 173,
-      "Хафизов Рустам Фларидович": 355
+      "gas:candidate-vibid:4024058207925": 35,
+      "gas:candidate-vibid:4024058208161": 357,
+      "gas:candidate-vibid:4024058208025": 33,
+      "gas:candidate-vibid:4024058208193": 45,
+      "gas:candidate-vibid:4024058187280": 20,
+      "gas:candidate-vibid:4024058186602": 173,
+      "gas:candidate-vibid:4024058187114": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 117,
-      "Бикбаев Ильдар Зинурович": 492,
-      "Кадыров Рафис Фаизович": 45,
-      "Кузьмина Алла Александровна": 101,
-      "Лихачев Олег Эдуардович": 94,
-      "Рябов Вячеслав Владимирович": 248,
-      "Хафизов Рустам Фларидович": 172
+      "gas:candidate-vibid:4024058207925": 117,
+      "gas:candidate-vibid:4024058208161": 492,
+      "gas:candidate-vibid:4024058208025": 45,
+      "gas:candidate-vibid:4024058208193": 101,
+      "gas:candidate-vibid:4024058187280": 94,
+      "gas:candidate-vibid:4024058186602": 248,
+      "gas:candidate-vibid:4024058187114": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 151,
-      "Бикбаев Ильдар Зинурович": 519,
-      "Кадыров Рафис Фаизович": 167,
-      "Кузьмина Алла Александровна": 148,
-      "Лихачев Олег Эдуардович": 153,
-      "Рябов Вячеслав Владимирович": 341,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 151,
+      "gas:candidate-vibid:4024058208161": 519,
+      "gas:candidate-vibid:4024058208025": 167,
+      "gas:candidate-vibid:4024058208193": 148,
+      "gas:candidate-vibid:4024058187280": 153,
+      "gas:candidate-vibid:4024058186602": 341,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 72,
-      "Бикбаев Ильдар Зинурович": 117,
-      "Кадыров Рафис Фаизович": 14,
-      "Кузьмина Алла Александровна": 33,
-      "Лихачев Олег Эдуардович": 33,
-      "Рябов Вячеслав Владимирович": 106,
-      "Хафизов Рустам Фларидович": 67
+      "gas:candidate-vibid:4024058207925": 72,
+      "gas:candidate-vibid:4024058208161": 117,
+      "gas:candidate-vibid:4024058208025": 14,
+      "gas:candidate-vibid:4024058208193": 33,
+      "gas:candidate-vibid:4024058187280": 33,
+      "gas:candidate-vibid:4024058186602": 106,
+      "gas:candidate-vibid:4024058187114": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 147,
-      "Бикбаев Ильдар Зинурович": 546,
-      "Кадыров Рафис Фаизович": 136,
-      "Кузьмина Алла Александровна": 142,
-      "Лихачев Олег Эдуардович": 37,
-      "Рябов Вячеслав Владимирович": 274,
-      "Хафизов Рустам Фларидович": 92
+      "gas:candidate-vibid:4024058207925": 147,
+      "gas:candidate-vibid:4024058208161": 546,
+      "gas:candidate-vibid:4024058208025": 136,
+      "gas:candidate-vibid:4024058208193": 142,
+      "gas:candidate-vibid:4024058187280": 37,
+      "gas:candidate-vibid:4024058186602": 274,
+      "gas:candidate-vibid:4024058187114": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 109,
-      "Бикбаев Ильдар Зинурович": 672,
-      "Кадыров Рафис Фаизович": 48,
-      "Кузьмина Алла Александровна": 52,
-      "Лихачев Олег Эдуардович": 59,
-      "Рябов Вячеслав Владимирович": 219,
-      "Хафизов Рустам Фларидович": 68
+      "gas:candidate-vibid:4024058207925": 109,
+      "gas:candidate-vibid:4024058208161": 672,
+      "gas:candidate-vibid:4024058208025": 48,
+      "gas:candidate-vibid:4024058208193": 52,
+      "gas:candidate-vibid:4024058187280": 59,
+      "gas:candidate-vibid:4024058186602": 219,
+      "gas:candidate-vibid:4024058187114": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 40,
-      "Бикбаев Ильдар Зинурович": 410,
-      "Кадыров Рафис Фаизович": 5,
-      "Кузьмина Алла Александровна": 45,
-      "Лихачев Олег Эдуардович": 78,
-      "Рябов Вячеслав Владимирович": 201,
-      "Хафизов Рустам Фларидович": 402
+      "gas:candidate-vibid:4024058207925": 40,
+      "gas:candidate-vibid:4024058208161": 410,
+      "gas:candidate-vibid:4024058208025": 5,
+      "gas:candidate-vibid:4024058208193": 45,
+      "gas:candidate-vibid:4024058187280": 78,
+      "gas:candidate-vibid:4024058186602": 201,
+      "gas:candidate-vibid:4024058187114": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 15,
-      "Бикбаев Ильдар Зинурович": 458,
-      "Кадыров Рафис Фаизович": 13,
-      "Кузьмина Алла Александровна": 24,
-      "Лихачев Олег Эдуардович": 8,
-      "Рябов Вячеслав Владимирович": 259,
-      "Хафизов Рустам Фларидович": 458
+      "gas:candidate-vibid:4024058207925": 15,
+      "gas:candidate-vibid:4024058208161": 458,
+      "gas:candidate-vibid:4024058208025": 13,
+      "gas:candidate-vibid:4024058208193": 24,
+      "gas:candidate-vibid:4024058187280": 8,
+      "gas:candidate-vibid:4024058186602": 259,
+      "gas:candidate-vibid:4024058187114": 458
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 95,
-      "Бикбаев Ильдар Зинурович": 786,
-      "Кадыров Рафис Фаизович": 24,
-      "Кузьмина Алла Александровна": 56,
-      "Лихачев Олег Эдуардович": 37,
-      "Рябов Вячеслав Владимирович": 162,
-      "Хафизов Рустам Фларидович": 70
+      "gas:candidate-vibid:4024058207925": 95,
+      "gas:candidate-vibid:4024058208161": 786,
+      "gas:candidate-vibid:4024058208025": 24,
+      "gas:candidate-vibid:4024058208193": 56,
+      "gas:candidate-vibid:4024058187280": 37,
+      "gas:candidate-vibid:4024058186602": 162,
+      "gas:candidate-vibid:4024058187114": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 1,
-      "Бикбаев Ильдар Зинурович": 44,
-      "Кадыров Рафис Фаизович": 1,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 7,
-      "Хафизов Рустам Фларидович": 9
+      "gas:candidate-vibid:4024058207925": 1,
+      "gas:candidate-vibid:4024058208161": 44,
+      "gas:candidate-vibid:4024058208025": 1,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 7,
+      "gas:candidate-vibid:4024058187114": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 15,
-      "Бикбаев Ильдар Зинурович": 40,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 9,
-      "Рябов Вячеслав Владимирович": 7,
-      "Хафизов Рустам Фларидович": 13
+      "gas:candidate-vibid:4024058207925": 15,
+      "gas:candidate-vibid:4024058208161": 40,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 9,
+      "gas:candidate-vibid:4024058186602": 7,
+      "gas:candidate-vibid:4024058187114": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 1,
-      "Бикбаев Ильдар Зинурович": 25,
-      "Кадыров Рафис Фаизович": 1,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 1,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 1,
+      "gas:candidate-vibid:4024058208161": 25,
+      "gas:candidate-vibid:4024058208025": 1,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 1,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 1,
-      "Бикбаев Ильдар Зинурович": 5,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 0,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 1,
+      "gas:candidate-vibid:4024058208161": 5,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 0,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684939&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684939&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 86,
-      "Бикбаев Ильдар Зинурович": 228,
-      "Кадыров Рафис Фаизович": 44,
-      "Кузьмина Алла Александровна": 41,
-      "Лихачев Олег Эдуардович": 38,
-      "Рябов Вячеслав Владимирович": 136,
-      "Хафизов Рустам Фларидович": 86
+      "gas:candidate-vibid:4024058207925": 86,
+      "gas:candidate-vibid:4024058208161": 228,
+      "gas:candidate-vibid:4024058208025": 44,
+      "gas:candidate-vibid:4024058208193": 41,
+      "gas:candidate-vibid:4024058187280": 38,
+      "gas:candidate-vibid:4024058186602": 136,
+      "gas:candidate-vibid:4024058187114": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 82,
-      "Бикбаев Ильдар Зинурович": 212,
-      "Кадыров Рафис Фаизович": 55,
-      "Кузьмина Алла Александровна": 42,
-      "Лихачев Олег Эдуардович": 34,
-      "Рябов Вячеслав Владимирович": 119,
-      "Хафизов Рустам Фларидович": 94
+      "gas:candidate-vibid:4024058207925": 82,
+      "gas:candidate-vibid:4024058208161": 212,
+      "gas:candidate-vibid:4024058208025": 55,
+      "gas:candidate-vibid:4024058208193": 42,
+      "gas:candidate-vibid:4024058187280": 34,
+      "gas:candidate-vibid:4024058186602": 119,
+      "gas:candidate-vibid:4024058187114": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 9,
-      "Бикбаев Ильдар Зинурович": 279,
-      "Кадыров Рафис Фаизович": 82,
-      "Кузьмина Алла Александровна": 11,
-      "Лихачев Олег Эдуардович": 16,
-      "Рябов Вячеслав Владимирович": 130,
-      "Хафизов Рустам Фларидович": 139
+      "gas:candidate-vibid:4024058207925": 9,
+      "gas:candidate-vibid:4024058208161": 279,
+      "gas:candidate-vibid:4024058208025": 82,
+      "gas:candidate-vibid:4024058208193": 11,
+      "gas:candidate-vibid:4024058187280": 16,
+      "gas:candidate-vibid:4024058186602": 130,
+      "gas:candidate-vibid:4024058187114": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 57,
-      "Бикбаев Ильдар Зинурович": 241,
-      "Кадыров Рафис Фаизович": 58,
-      "Кузьмина Алла Александровна": 37,
-      "Лихачев Олег Эдуардович": 23,
-      "Рябов Вячеслав Владимирович": 152,
-      "Хафизов Рустам Фларидович": 35
+      "gas:candidate-vibid:4024058207925": 57,
+      "gas:candidate-vibid:4024058208161": 241,
+      "gas:candidate-vibid:4024058208025": 58,
+      "gas:candidate-vibid:4024058208193": 37,
+      "gas:candidate-vibid:4024058187280": 23,
+      "gas:candidate-vibid:4024058186602": 152,
+      "gas:candidate-vibid:4024058187114": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 98,
-      "Бикбаев Ильдар Зинурович": 230,
-      "Кадыров Рафис Фаизович": 29,
-      "Кузьмина Алла Александровна": 29,
-      "Лихачев Олег Эдуардович": 30,
-      "Рябов Вячеслав Владимирович": 138,
-      "Хафизов Рустам Фларидович": 120
+      "gas:candidate-vibid:4024058207925": 98,
+      "gas:candidate-vibid:4024058208161": 230,
+      "gas:candidate-vibid:4024058208025": 29,
+      "gas:candidate-vibid:4024058208193": 29,
+      "gas:candidate-vibid:4024058187280": 30,
+      "gas:candidate-vibid:4024058186602": 138,
+      "gas:candidate-vibid:4024058187114": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 90,
-      "Бикбаев Ильдар Зинурович": 300,
-      "Кадыров Рафис Фаизович": 185,
-      "Кузьмина Алла Александровна": 68,
-      "Лихачев Олег Эдуардович": 31,
-      "Рябов Вячеслав Владимирович": 227,
-      "Хафизов Рустам Фларидович": 145
+      "gas:candidate-vibid:4024058207925": 90,
+      "gas:candidate-vibid:4024058208161": 300,
+      "gas:candidate-vibid:4024058208025": 185,
+      "gas:candidate-vibid:4024058208193": 68,
+      "gas:candidate-vibid:4024058187280": 31,
+      "gas:candidate-vibid:4024058186602": 227,
+      "gas:candidate-vibid:4024058187114": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 41,
-      "Бикбаев Ильдар Зинурович": 341,
-      "Кадыров Рафис Фаизович": 27,
-      "Кузьмина Алла Александровна": 27,
-      "Лихачев Олег Эдуардович": 18,
-      "Рябов Вячеслав Владимирович": 70,
-      "Хафизов Рустам Фларидович": 200
+      "gas:candidate-vibid:4024058207925": 41,
+      "gas:candidate-vibid:4024058208161": 341,
+      "gas:candidate-vibid:4024058208025": 27,
+      "gas:candidate-vibid:4024058208193": 27,
+      "gas:candidate-vibid:4024058187280": 18,
+      "gas:candidate-vibid:4024058186602": 70,
+      "gas:candidate-vibid:4024058187114": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 10,
-      "Бикбаев Ильдар Зинурович": 392,
-      "Кадыров Рафис Фаизович": 53,
-      "Кузьмина Алла Александровна": 12,
-      "Лихачев Олег Эдуардович": 26,
-      "Рябов Вячеслав Владимирович": 172,
-      "Хафизов Рустам Фларидович": 139
+      "gas:candidate-vibid:4024058207925": 10,
+      "gas:candidate-vibid:4024058208161": 392,
+      "gas:candidate-vibid:4024058208025": 53,
+      "gas:candidate-vibid:4024058208193": 12,
+      "gas:candidate-vibid:4024058187280": 26,
+      "gas:candidate-vibid:4024058186602": 172,
+      "gas:candidate-vibid:4024058187114": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 36,
-      "Бикбаев Ильдар Зинурович": 217,
-      "Кадыров Рафис Фаизович": 111,
-      "Кузьмина Алла Александровна": 18,
-      "Лихачев Олег Эдуардович": 114,
-      "Рябов Вячеслав Владимирович": 144,
-      "Хафизов Рустам Фларидович": 23
+      "gas:candidate-vibid:4024058207925": 36,
+      "gas:candidate-vibid:4024058208161": 217,
+      "gas:candidate-vibid:4024058208025": 111,
+      "gas:candidate-vibid:4024058208193": 18,
+      "gas:candidate-vibid:4024058187280": 114,
+      "gas:candidate-vibid:4024058186602": 144,
+      "gas:candidate-vibid:4024058187114": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 25,
-      "Бикбаев Ильдар Зинурович": 298,
-      "Кадыров Рафис Фаизович": 62,
-      "Кузьмина Алла Александровна": 31,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 146,
-      "Хафизов Рустам Фларидович": 15
+      "gas:candidate-vibid:4024058207925": 25,
+      "gas:candidate-vibid:4024058208161": 298,
+      "gas:candidate-vibid:4024058208025": 62,
+      "gas:candidate-vibid:4024058208193": 31,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 146,
+      "gas:candidate-vibid:4024058187114": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 90,
-      "Бикбаев Ильдар Зинурович": 289,
-      "Кадыров Рафис Фаизович": 60,
-      "Кузьмина Алла Александровна": 17,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 174,
-      "Хафизов Рустам Фларидович": 200
+      "gas:candidate-vibid:4024058207925": 90,
+      "gas:candidate-vibid:4024058208161": 289,
+      "gas:candidate-vibid:4024058208025": 60,
+      "gas:candidate-vibid:4024058208193": 17,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 174,
+      "gas:candidate-vibid:4024058187114": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 43,
-      "Бикбаев Ильдар Зинурович": 102,
-      "Кадыров Рафис Фаизович": 10,
-      "Кузьмина Алла Александровна": 21,
-      "Лихачев Олег Эдуардович": 23,
-      "Рябов Вячеслав Владимирович": 60,
-      "Хафизов Рустам Фларидович": 34
+      "gas:candidate-vibid:4024058207925": 43,
+      "gas:candidate-vibid:4024058208161": 102,
+      "gas:candidate-vibid:4024058208025": 10,
+      "gas:candidate-vibid:4024058208193": 21,
+      "gas:candidate-vibid:4024058187280": 23,
+      "gas:candidate-vibid:4024058186602": 60,
+      "gas:candidate-vibid:4024058187114": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 91,
-      "Бикбаев Ильдар Зинурович": 184,
-      "Кадыров Рафис Фаизович": 35,
-      "Кузьмина Алла Александровна": 36,
-      "Лихачев Олег Эдуардович": 24,
-      "Рябов Вячеслав Владимирович": 109,
-      "Хафизов Рустам Фларидович": 47
+      "gas:candidate-vibid:4024058207925": 91,
+      "gas:candidate-vibid:4024058208161": 184,
+      "gas:candidate-vibid:4024058208025": 35,
+      "gas:candidate-vibid:4024058208193": 36,
+      "gas:candidate-vibid:4024058187280": 24,
+      "gas:candidate-vibid:4024058186602": 109,
+      "gas:candidate-vibid:4024058187114": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 31,
-      "Бикбаев Ильдар Зинурович": 62,
-      "Кадыров Рафис Фаизович": 11,
-      "Кузьмина Алла Александровна": 19,
-      "Лихачев Олег Эдуардович": 16,
-      "Рябов Вячеслав Владимирович": 31,
-      "Хафизов Рустам Фларидович": 32
+      "gas:candidate-vibid:4024058207925": 31,
+      "gas:candidate-vibid:4024058208161": 62,
+      "gas:candidate-vibid:4024058208025": 11,
+      "gas:candidate-vibid:4024058208193": 19,
+      "gas:candidate-vibid:4024058187280": 16,
+      "gas:candidate-vibid:4024058186602": 31,
+      "gas:candidate-vibid:4024058187114": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 50,
-      "Бикбаев Ильдар Зинурович": 108,
-      "Кадыров Рафис Фаизович": 12,
-      "Кузьмина Алла Александровна": 30,
-      "Лихачев Олег Эдуардович": 25,
-      "Рябов Вячеслав Владимирович": 36,
-      "Хафизов Рустам Фларидович": 49
+      "gas:candidate-vibid:4024058207925": 50,
+      "gas:candidate-vibid:4024058208161": 108,
+      "gas:candidate-vibid:4024058208025": 12,
+      "gas:candidate-vibid:4024058208193": 30,
+      "gas:candidate-vibid:4024058187280": 25,
+      "gas:candidate-vibid:4024058186602": 36,
+      "gas:candidate-vibid:4024058187114": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 33,
-      "Бикбаев Ильдар Зинурович": 90,
-      "Кадыров Рафис Фаизович": 16,
-      "Кузьмина Алла Александровна": 19,
-      "Лихачев Олег Эдуардович": 24,
-      "Рябов Вячеслав Владимирович": 49,
-      "Хафизов Рустам Фларидович": 28
+      "gas:candidate-vibid:4024058207925": 33,
+      "gas:candidate-vibid:4024058208161": 90,
+      "gas:candidate-vibid:4024058208025": 16,
+      "gas:candidate-vibid:4024058208193": 19,
+      "gas:candidate-vibid:4024058187280": 24,
+      "gas:candidate-vibid:4024058186602": 49,
+      "gas:candidate-vibid:4024058187114": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 71,
-      "Бикбаев Ильдар Зинурович": 239,
-      "Кадыров Рафис Фаизович": 50,
-      "Кузьмина Алла Александровна": 69,
-      "Лихачев Олег Эдуардович": 63,
-      "Рябов Вячеслав Владимирович": 122,
-      "Хафизов Рустам Фларидович": 104
+      "gas:candidate-vibid:4024058207925": 71,
+      "gas:candidate-vibid:4024058208161": 239,
+      "gas:candidate-vibid:4024058208025": 50,
+      "gas:candidate-vibid:4024058208193": 69,
+      "gas:candidate-vibid:4024058187280": 63,
+      "gas:candidate-vibid:4024058186602": 122,
+      "gas:candidate-vibid:4024058187114": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 104,
-      "Бикбаев Ильдар Зинурович": 454,
-      "Кадыров Рафис Фаизович": 132,
-      "Кузьмина Алла Александровна": 43,
-      "Лихачев Олег Эдуардович": 57,
-      "Рябов Вячеслав Владимирович": 293,
-      "Хафизов Рустам Фларидович": 190
+      "gas:candidate-vibid:4024058207925": 104,
+      "gas:candidate-vibid:4024058208161": 454,
+      "gas:candidate-vibid:4024058208025": 132,
+      "gas:candidate-vibid:4024058208193": 43,
+      "gas:candidate-vibid:4024058187280": 57,
+      "gas:candidate-vibid:4024058186602": 293,
+      "gas:candidate-vibid:4024058187114": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 27,
-      "Бикбаев Ильдар Зинурович": 266,
-      "Кадыров Рафис Фаизович": 36,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 18,
-      "Рябов Вячеслав Владимирович": 88,
-      "Хафизов Рустам Фларидович": 59
+      "gas:candidate-vibid:4024058207925": 27,
+      "gas:candidate-vibid:4024058208161": 266,
+      "gas:candidate-vibid:4024058208025": 36,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 18,
+      "gas:candidate-vibid:4024058186602": 88,
+      "gas:candidate-vibid:4024058187114": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 92,
-      "Бикбаев Ильдар Зинурович": 325,
-      "Кадыров Рафис Фаизович": 68,
-      "Кузьмина Алла Александровна": 56,
-      "Лихачев Олег Эдуардович": 88,
-      "Рябов Вячеслав Владимирович": 189,
-      "Хафизов Рустам Фларидович": 96
+      "gas:candidate-vibid:4024058207925": 92,
+      "gas:candidate-vibid:4024058208161": 325,
+      "gas:candidate-vibid:4024058208025": 68,
+      "gas:candidate-vibid:4024058208193": 56,
+      "gas:candidate-vibid:4024058187280": 88,
+      "gas:candidate-vibid:4024058186602": 189,
+      "gas:candidate-vibid:4024058187114": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 111,
-      "Бикбаев Ильдар Зинурович": 380,
-      "Кадыров Рафис Фаизович": 40,
-      "Кузьмина Алла Александровна": 32,
-      "Лихачев Олег Эдуардович": 31,
-      "Рябов Вячеслав Владимирович": 236,
-      "Хафизов Рустам Фларидович": 101
+      "gas:candidate-vibid:4024058207925": 111,
+      "gas:candidate-vibid:4024058208161": 380,
+      "gas:candidate-vibid:4024058208025": 40,
+      "gas:candidate-vibid:4024058208193": 32,
+      "gas:candidate-vibid:4024058187280": 31,
+      "gas:candidate-vibid:4024058186602": 236,
+      "gas:candidate-vibid:4024058187114": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 19,
-      "Бикбаев Ильдар Зинурович": 85,
-      "Кадыров Рафис Фаизович": 11,
-      "Кузьмина Алла Александровна": 23,
-      "Лихачев Олег Эдуардович": 22,
-      "Рябов Вячеслав Владимирович": 37,
-      "Хафизов Рустам Фларидович": 30
+      "gas:candidate-vibid:4024058207925": 19,
+      "gas:candidate-vibid:4024058208161": 85,
+      "gas:candidate-vibid:4024058208025": 11,
+      "gas:candidate-vibid:4024058208193": 23,
+      "gas:candidate-vibid:4024058187280": 22,
+      "gas:candidate-vibid:4024058186602": 37,
+      "gas:candidate-vibid:4024058187114": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 84,
-      "Бикбаев Ильдар Зинурович": 440,
-      "Кадыров Рафис Фаизович": 30,
-      "Кузьмина Алла Александровна": 38,
-      "Лихачев Олег Эдуардович": 79,
-      "Рябов Вячеслав Владимирович": 141,
-      "Хафизов Рустам Фларидович": 140
+      "gas:candidate-vibid:4024058207925": 84,
+      "gas:candidate-vibid:4024058208161": 440,
+      "gas:candidate-vibid:4024058208025": 30,
+      "gas:candidate-vibid:4024058208193": 38,
+      "gas:candidate-vibid:4024058187280": 79,
+      "gas:candidate-vibid:4024058186602": 141,
+      "gas:candidate-vibid:4024058187114": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 75,
-      "Бикбаев Ильдар Зинурович": 298,
-      "Кадыров Рафис Фаизович": 83,
-      "Кузьмина Алла Александровна": 38,
-      "Лихачев Олег Эдуардович": 55,
-      "Рябов Вячеслав Владимирович": 166,
-      "Хафизов Рустам Фларидович": 85
+      "gas:candidate-vibid:4024058207925": 75,
+      "gas:candidate-vibid:4024058208161": 298,
+      "gas:candidate-vibid:4024058208025": 83,
+      "gas:candidate-vibid:4024058208193": 38,
+      "gas:candidate-vibid:4024058187280": 55,
+      "gas:candidate-vibid:4024058186602": 166,
+      "gas:candidate-vibid:4024058187114": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 85,
-      "Бикбаев Ильдар Зинурович": 580,
-      "Кадыров Рафис Фаизович": 43,
-      "Кузьмина Алла Александровна": 24,
-      "Лихачев Олег Эдуардович": 46,
-      "Рябов Вячеслав Владимирович": 139,
-      "Хафизов Рустам Фларидович": 302
+      "gas:candidate-vibid:4024058207925": 85,
+      "gas:candidate-vibid:4024058208161": 580,
+      "gas:candidate-vibid:4024058208025": 43,
+      "gas:candidate-vibid:4024058208193": 24,
+      "gas:candidate-vibid:4024058187280": 46,
+      "gas:candidate-vibid:4024058186602": 139,
+      "gas:candidate-vibid:4024058187114": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 121,
-      "Бикбаев Ильдар Зинурович": 310,
-      "Кадыров Рафис Фаизович": 108,
-      "Кузьмина Алла Александровна": 19,
-      "Лихачев Олег Эдуардович": 30,
-      "Рябов Вячеслав Владимирович": 185,
-      "Хафизов Рустам Фларидович": 100
+      "gas:candidate-vibid:4024058207925": 121,
+      "gas:candidate-vibid:4024058208161": 310,
+      "gas:candidate-vibid:4024058208025": 108,
+      "gas:candidate-vibid:4024058208193": 19,
+      "gas:candidate-vibid:4024058187280": 30,
+      "gas:candidate-vibid:4024058186602": 185,
+      "gas:candidate-vibid:4024058187114": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 56,
-      "Бикбаев Ильдар Зинурович": 138,
-      "Кадыров Рафис Фаизович": 35,
-      "Кузьмина Алла Александровна": 28,
-      "Лихачев Олег Эдуардович": 42,
-      "Рябов Вячеслав Владимирович": 94,
-      "Хафизов Рустам Фларидович": 44
+      "gas:candidate-vibid:4024058207925": 56,
+      "gas:candidate-vibid:4024058208161": 138,
+      "gas:candidate-vibid:4024058208025": 35,
+      "gas:candidate-vibid:4024058208193": 28,
+      "gas:candidate-vibid:4024058187280": 42,
+      "gas:candidate-vibid:4024058186602": 94,
+      "gas:candidate-vibid:4024058187114": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 87,
-      "Бикбаев Ильдар Зинурович": 782,
-      "Кадыров Рафис Фаизович": 34,
-      "Кузьмина Алла Александровна": 67,
-      "Лихачев Олег Эдуардович": 44,
-      "Рябов Вячеслав Владимирович": 425,
-      "Хафизов Рустам Фларидович": 91
+      "gas:candidate-vibid:4024058207925": 87,
+      "gas:candidate-vibid:4024058208161": 782,
+      "gas:candidate-vibid:4024058208025": 34,
+      "gas:candidate-vibid:4024058208193": 67,
+      "gas:candidate-vibid:4024058187280": 44,
+      "gas:candidate-vibid:4024058186602": 425,
+      "gas:candidate-vibid:4024058187114": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 114,
-      "Бикбаев Ильдар Зинурович": 535,
-      "Кадыров Рафис Фаизович": 227,
-      "Кузьмина Алла Александровна": 55,
-      "Лихачев Олег Эдуардович": 189,
-      "Рябов Вячеслав Владимирович": 315,
-      "Хафизов Рустам Фларидович": 117
+      "gas:candidate-vibid:4024058207925": 114,
+      "gas:candidate-vibid:4024058208161": 535,
+      "gas:candidate-vibid:4024058208025": 227,
+      "gas:candidate-vibid:4024058208193": 55,
+      "gas:candidate-vibid:4024058187280": 189,
+      "gas:candidate-vibid:4024058186602": 315,
+      "gas:candidate-vibid:4024058187114": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 150,
-      "Бикбаев Ильдар Зинурович": 382,
-      "Кадыров Рафис Фаизович": 119,
-      "Кузьмина Алла Александровна": 62,
-      "Лихачев Олег Эдуардович": 91,
-      "Рябов Вячеслав Владимирович": 224,
-      "Хафизов Рустам Фларидович": 99
+      "gas:candidate-vibid:4024058207925": 150,
+      "gas:candidate-vibid:4024058208161": 382,
+      "gas:candidate-vibid:4024058208025": 119,
+      "gas:candidate-vibid:4024058208193": 62,
+      "gas:candidate-vibid:4024058187280": 91,
+      "gas:candidate-vibid:4024058186602": 224,
+      "gas:candidate-vibid:4024058187114": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 69,
-      "Бикбаев Ильдар Зинурович": 303,
-      "Кадыров Рафис Фаизович": 19,
-      "Кузьмина Алла Александровна": 19,
-      "Лихачев Олег Эдуардович": 28,
-      "Рябов Вячеслав Владимирович": 95,
-      "Хафизов Рустам Фларидович": 82
+      "gas:candidate-vibid:4024058207925": 69,
+      "gas:candidate-vibid:4024058208161": 303,
+      "gas:candidate-vibid:4024058208025": 19,
+      "gas:candidate-vibid:4024058208193": 19,
+      "gas:candidate-vibid:4024058187280": 28,
+      "gas:candidate-vibid:4024058186602": 95,
+      "gas:candidate-vibid:4024058187114": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 93,
-      "Бикбаев Ильдар Зинурович": 99,
-      "Кадыров Рафис Фаизович": 33,
-      "Кузьмина Алла Александровна": 25,
-      "Лихачев Олег Эдуардович": 34,
-      "Рябов Вячеслав Владимирович": 70,
-      "Хафизов Рустам Фларидович": 74
+      "gas:candidate-vibid:4024058207925": 93,
+      "gas:candidate-vibid:4024058208161": 99,
+      "gas:candidate-vibid:4024058208025": 33,
+      "gas:candidate-vibid:4024058208193": 25,
+      "gas:candidate-vibid:4024058187280": 34,
+      "gas:candidate-vibid:4024058186602": 70,
+      "gas:candidate-vibid:4024058187114": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 124,
-      "Бикбаев Ильдар Зинурович": 492,
-      "Кадыров Рафис Фаизович": 161,
-      "Кузьмина Алла Александровна": 19,
-      "Лихачев Олег Эдуардович": 85,
-      "Рябов Вячеслав Владимирович": 395,
-      "Хафизов Рустам Фларидович": 150
+      "gas:candidate-vibid:4024058207925": 124,
+      "gas:candidate-vibid:4024058208161": 492,
+      "gas:candidate-vibid:4024058208025": 161,
+      "gas:candidate-vibid:4024058208193": 19,
+      "gas:candidate-vibid:4024058187280": 85,
+      "gas:candidate-vibid:4024058186602": 395,
+      "gas:candidate-vibid:4024058187114": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 90,
-      "Бикбаев Ильдар Зинурович": 191,
-      "Кадыров Рафис Фаизович": 50,
-      "Кузьмина Алла Александровна": 39,
-      "Лихачев Олег Эдуардович": 33,
-      "Рябов Вячеслав Владимирович": 210,
-      "Хафизов Рустам Фларидович": 99
+      "gas:candidate-vibid:4024058207925": 90,
+      "gas:candidate-vibid:4024058208161": 191,
+      "gas:candidate-vibid:4024058208025": 50,
+      "gas:candidate-vibid:4024058208193": 39,
+      "gas:candidate-vibid:4024058187280": 33,
+      "gas:candidate-vibid:4024058186602": 210,
+      "gas:candidate-vibid:4024058187114": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 128,
-      "Бикбаев Ильдар Зинурович": 240,
-      "Кадыров Рафис Фаизович": 59,
-      "Кузьмина Алла Александровна": 39,
-      "Лихачев Олег Эдуардович": 43,
-      "Рябов Вячеслав Владимирович": 121,
-      "Хафизов Рустам Фларидович": 76
+      "gas:candidate-vibid:4024058207925": 128,
+      "gas:candidate-vibid:4024058208161": 240,
+      "gas:candidate-vibid:4024058208025": 59,
+      "gas:candidate-vibid:4024058208193": 39,
+      "gas:candidate-vibid:4024058187280": 43,
+      "gas:candidate-vibid:4024058186602": 121,
+      "gas:candidate-vibid:4024058187114": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 114,
-      "Бикбаев Ильдар Зинурович": 406,
-      "Кадыров Рафис Фаизович": 198,
-      "Кузьмина Алла Александровна": 40,
-      "Лихачев Олег Эдуардович": 45,
-      "Рябов Вячеслав Владимирович": 261,
-      "Хафизов Рустам Фларидович": 202
+      "gas:candidate-vibid:4024058207925": 114,
+      "gas:candidate-vibid:4024058208161": 406,
+      "gas:candidate-vibid:4024058208025": 198,
+      "gas:candidate-vibid:4024058208193": 40,
+      "gas:candidate-vibid:4024058187280": 45,
+      "gas:candidate-vibid:4024058186602": 261,
+      "gas:candidate-vibid:4024058187114": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 62,
-      "Бикбаев Ильдар Зинурович": 151,
-      "Кадыров Рафис Фаизович": 17,
-      "Кузьмина Алла Александровна": 12,
-      "Лихачев Олег Эдуардович": 4,
-      "Рябов Вячеслав Владимирович": 17,
-      "Хафизов Рустам Фларидович": 11
+      "gas:candidate-vibid:4024058207925": 62,
+      "gas:candidate-vibid:4024058208161": 151,
+      "gas:candidate-vibid:4024058208025": 17,
+      "gas:candidate-vibid:4024058208193": 12,
+      "gas:candidate-vibid:4024058187280": 4,
+      "gas:candidate-vibid:4024058186602": 17,
+      "gas:candidate-vibid:4024058187114": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684940&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684940&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 6,
-      "Бикбаев Ильдар Зинурович": 143,
-      "Кадыров Рафис Фаизович": 91,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 6,
-      "Рябов Вячеслав Владимирович": 58,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 6,
+      "gas:candidate-vibid:4024058208161": 143,
+      "gas:candidate-vibid:4024058208025": 91,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 6,
+      "gas:candidate-vibid:4024058186602": 58,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 50,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 3,
-      "Хафизов Рустам Фларидович": 1
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 50,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 3,
+      "gas:candidate-vibid:4024058187114": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 135,
-      "Кадыров Рафис Фаизович": 86,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 54,
-      "Хафизов Рустам Фларидович": 4
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 135,
+      "gas:candidate-vibid:4024058208025": 86,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 54,
+      "gas:candidate-vibid:4024058187114": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 11,
-      "Бикбаев Ильдар Зинурович": 388,
-      "Кадыров Рафис Фаизович": 18,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 8,
-      "Рябов Вячеслав Владимирович": 10,
-      "Хафизов Рустам Фларидович": 25
+      "gas:candidate-vibid:4024058207925": 11,
+      "gas:candidate-vibid:4024058208161": 388,
+      "gas:candidate-vibid:4024058208025": 18,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 8,
+      "gas:candidate-vibid:4024058186602": 10,
+      "gas:candidate-vibid:4024058187114": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 10,
-      "Бикбаев Ильдар Зинурович": 72,
-      "Кадыров Рафис Фаизович": 45,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 11,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 10,
+      "gas:candidate-vibid:4024058208161": 72,
+      "gas:candidate-vibid:4024058208025": 45,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 11,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 118,
-      "Кадыров Рафис Фаизович": 32,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 44,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 118,
+      "gas:candidate-vibid:4024058208025": 32,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 44,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 38,
-      "Кадыров Рафис Фаизович": 9,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 100,
-      "Хафизов Рустам Фларидович": 14
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 38,
+      "gas:candidate-vibid:4024058208025": 9,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 100,
+      "gas:candidate-vibid:4024058187114": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 5,
-      "Бикбаев Ильдар Зинурович": 156,
-      "Кадыров Рафис Фаизович": 30,
-      "Кузьмина Алла Александровна": 5,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 33,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 5,
+      "gas:candidate-vibid:4024058208161": 156,
+      "gas:candidate-vibid:4024058208025": 30,
+      "gas:candidate-vibid:4024058208193": 5,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 33,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 47,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 6,
-      "Хафизов Рустам Фларидович": 5
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 47,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 6,
+      "gas:candidate-vibid:4024058187114": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 145,
-      "Кадыров Рафис Фаизович": 41,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 47,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 145,
+      "gas:candidate-vibid:4024058208025": 41,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 47,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 5,
-      "Бикбаев Ильдар Зинурович": 166,
-      "Кадыров Рафис Фаизович": 104,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 66,
-      "Хафизов Рустам Фларидович": 5
+      "gas:candidate-vibid:4024058207925": 5,
+      "gas:candidate-vibid:4024058208161": 166,
+      "gas:candidate-vibid:4024058208025": 104,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 66,
+      "gas:candidate-vibid:4024058187114": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 118,
-      "Кадыров Рафис Фаизович": 1,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 3,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 118,
+      "gas:candidate-vibid:4024058208025": 1,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 3,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 96,
-      "Кадыров Рафис Фаизович": 1,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 3,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 96,
+      "gas:candidate-vibid:4024058208025": 1,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 3,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 23,
-      "Бикбаев Ильдар Зинурович": 424,
-      "Кадыров Рафис Фаизович": 17,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 15,
-      "Хафизов Рустам Фларидович": 11
+      "gas:candidate-vibid:4024058207925": 23,
+      "gas:candidate-vibid:4024058208161": 424,
+      "gas:candidate-vibid:4024058208025": 17,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 15,
+      "gas:candidate-vibid:4024058187114": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 20,
-      "Бикбаев Ильдар Зинурович": 232,
-      "Кадыров Рафис Фаизович": 49,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 29,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 20,
+      "gas:candidate-vibid:4024058208161": 232,
+      "gas:candidate-vibid:4024058208025": 49,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 29,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 16,
-      "Бикбаев Ильдар Зинурович": 182,
-      "Кадыров Рафис Фаизович": 11,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 5,
-      "Хафизов Рустам Фларидович": 4
+      "gas:candidate-vibid:4024058207925": 16,
+      "gas:candidate-vibid:4024058208161": 182,
+      "gas:candidate-vibid:4024058208025": 11,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 5,
+      "gas:candidate-vibid:4024058187114": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 4,
-      "Бикбаев Ильдар Зинурович": 143,
-      "Кадыров Рафис Фаизович": 92,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 58,
-      "Хафизов Рустам Фларидович": 5
+      "gas:candidate-vibid:4024058207925": 4,
+      "gas:candidate-vibid:4024058208161": 143,
+      "gas:candidate-vibid:4024058208025": 92,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 58,
+      "gas:candidate-vibid:4024058187114": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 39,
-      "Кадыров Рафис Фаизович": 25,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 15,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 39,
+      "gas:candidate-vibid:4024058208025": 25,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 15,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 561,
-      "Кадыров Рафис Фаизович": 359,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 227,
-      "Хафизов Рустам Фларидович": 46
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 561,
+      "gas:candidate-vibid:4024058208025": 359,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 227,
+      "gas:candidate-vibid:4024058187114": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 666,
-      "Кадыров Рафис Фаизович": 373,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 241,
-      "Хафизов Рустам Фларидович": 18
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 666,
+      "gas:candidate-vibid:4024058208025": 373,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 241,
+      "gas:candidate-vibid:4024058187114": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 36,
-      "Бикбаев Ильдар Зинурович": 181,
-      "Кадыров Рафис Фаизович": 142,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 92,
-      "Хафизов Рустам Фларидович": 21
+      "gas:candidate-vibid:4024058207925": 36,
+      "gas:candidate-vibid:4024058208161": 181,
+      "gas:candidate-vibid:4024058208025": 142,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 92,
+      "gas:candidate-vibid:4024058187114": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 586,
-      "Кадыров Рафис Фаизович": 374,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 237,
-      "Хафизов Рустам Фларидович": 17
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 586,
+      "gas:candidate-vibid:4024058208025": 374,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 237,
+      "gas:candidate-vibid:4024058187114": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 13,
-      "Бикбаев Ильдар Зинурович": 5,
-      "Кадыров Рафис Фаизович": 388,
-      "Кузьмина Алла Александровна": 17,
-      "Лихачев Олег Эдуардович": 14,
-      "Рябов Вячеслав Владимирович": 562,
-      "Хафизов Рустам Фларидович": 26
+      "gas:candidate-vibid:4024058207925": 13,
+      "gas:candidate-vibid:4024058208161": 5,
+      "gas:candidate-vibid:4024058208025": 388,
+      "gas:candidate-vibid:4024058208193": 17,
+      "gas:candidate-vibid:4024058187280": 14,
+      "gas:candidate-vibid:4024058186602": 562,
+      "gas:candidate-vibid:4024058187114": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 12,
-      "Бикбаев Ильдар Зинурович": 394,
-      "Кадыров Рафис Фаизович": 15,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 8,
-      "Рябов Вячеслав Владимирович": 12,
-      "Хафизов Рустам Фларидович": 7
+      "gas:candidate-vibid:4024058207925": 12,
+      "gas:candidate-vibid:4024058208161": 394,
+      "gas:candidate-vibid:4024058208025": 15,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 8,
+      "gas:candidate-vibid:4024058186602": 12,
+      "gas:candidate-vibid:4024058187114": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 7,
-      "Бикбаев Ильдар Зинурович": 157,
-      "Кадыров Рафис Фаизович": 6,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 7,
-      "Хафизов Рустам Фларидович": 4
+      "gas:candidate-vibid:4024058207925": 7,
+      "gas:candidate-vibid:4024058208161": 157,
+      "gas:candidate-vibid:4024058208025": 6,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 7,
+      "gas:candidate-vibid:4024058187114": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 1,
-      "Бикбаев Ильдар Зинурович": 52,
-      "Кадыров Рафис Фаизович": 2,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 0,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 1,
+      "gas:candidate-vibid:4024058208161": 52,
+      "gas:candidate-vibid:4024058208025": 2,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 0,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 4,
-      "Бикбаев Ильдар Зинурович": 188,
-      "Кадыров Рафис Фаизович": 120,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 4,
-      "Рябов Вячеслав Владимирович": 76,
-      "Хафизов Рустам Фларидович": 5
+      "gas:candidate-vibid:4024058207925": 4,
+      "gas:candidate-vibid:4024058208161": 188,
+      "gas:candidate-vibid:4024058208025": 120,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 4,
+      "gas:candidate-vibid:4024058186602": 76,
+      "gas:candidate-vibid:4024058187114": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 222,
-      "Кадыров Рафис Фаизович": 123,
-      "Кузьмина Алла Александровна": 10,
-      "Лихачев Олег Эдуардович": 4,
-      "Рябов Вячеслав Владимирович": 78,
-      "Хафизов Рустам Фларидович": 2
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 222,
+      "gas:candidate-vibid:4024058208025": 123,
+      "gas:candidate-vibid:4024058208193": 10,
+      "gas:candidate-vibid:4024058187280": 4,
+      "gas:candidate-vibid:4024058186602": 78,
+      "gas:candidate-vibid:4024058187114": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 30,
-      "Кадыров Рафис Фаизович": 19,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 11,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 30,
+      "gas:candidate-vibid:4024058208025": 19,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 11,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 4,
-      "Бикбаев Ильдар Зинурович": 176,
-      "Кадыров Рафис Фаизович": 112,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 4,
-      "Рябов Вячеслав Владимирович": 71,
-      "Хафизов Рустам Фларидович": 2
+      "gas:candidate-vibid:4024058207925": 4,
+      "gas:candidate-vibid:4024058208161": 176,
+      "gas:candidate-vibid:4024058208025": 112,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 4,
+      "gas:candidate-vibid:4024058186602": 71,
+      "gas:candidate-vibid:4024058187114": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 117,
-      "Кадыров Рафис Фаизович": 74,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 48,
-      "Хафизов Рустам Фларидович": 4
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 117,
+      "gas:candidate-vibid:4024058208025": 74,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 48,
+      "gas:candidate-vibid:4024058187114": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 7,
-      "Бикбаев Ильдар Зинурович": 255,
-      "Кадыров Рафис Фаизович": 163,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 103,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 7,
+      "gas:candidate-vibid:4024058208161": 255,
+      "gas:candidate-vibid:4024058208025": 163,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 103,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 102,
-      "Кадыров Рафис Фаизович": 65,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 41,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 102,
+      "gas:candidate-vibid:4024058208025": 65,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 41,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 275,
-      "Кадыров Рафис Фаизович": 82,
-      "Кузьмина Алла Александровна": 9,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 43,
-      "Хафизов Рустам Фларидович": 30
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 275,
+      "gas:candidate-vibid:4024058208025": 82,
+      "gas:candidate-vibid:4024058208193": 9,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 43,
+      "gas:candidate-vibid:4024058187114": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 6,
-      "Бикбаев Ильдар Зинурович": 186,
-      "Кадыров Рафис Фаизович": 119,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 75,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 6,
+      "gas:candidate-vibid:4024058208161": 186,
+      "gas:candidate-vibid:4024058208025": 119,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 75,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 14,
-      "Бикбаев Ильдар Зинурович": 54,
-      "Кадыров Рафис Фаизович": 47,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 37,
-      "Рябов Вячеслав Владимирович": 0,
-      "Хафизов Рустам Фларидович": 4
+      "gas:candidate-vibid:4024058207925": 14,
+      "gas:candidate-vibid:4024058208161": 54,
+      "gas:candidate-vibid:4024058208025": 47,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 37,
+      "gas:candidate-vibid:4024058186602": 0,
+      "gas:candidate-vibid:4024058187114": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 13,
-      "Бикбаев Ильдар Зинурович": 116,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 4,
-      "Хафизов Рустам Фларидович": 5
+      "gas:candidate-vibid:4024058207925": 13,
+      "gas:candidate-vibid:4024058208161": 116,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 4,
+      "gas:candidate-vibid:4024058187114": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 67,
-      "Кадыров Рафис Фаизович": 21,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 16,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 67,
+      "gas:candidate-vibid:4024058208025": 21,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 16,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 14,
-      "Бикбаев Ильдар Зинурович": 7,
-      "Кадыров Рафис Фаизович": 204,
-      "Кузьмина Алла Александровна": 18,
-      "Лихачев Олег Эдуардович": 10,
-      "Рябов Вячеслав Владимирович": 330,
-      "Хафизов Рустам Фларидович": 14
+      "gas:candidate-vibid:4024058207925": 14,
+      "gas:candidate-vibid:4024058208161": 7,
+      "gas:candidate-vibid:4024058208025": 204,
+      "gas:candidate-vibid:4024058208193": 18,
+      "gas:candidate-vibid:4024058187280": 10,
+      "gas:candidate-vibid:4024058186602": 330,
+      "gas:candidate-vibid:4024058187114": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 97,
-      "Кадыров Рафис Фаизович": 73,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 31,
-      "Хафизов Рустам Фларидович": 11
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 97,
+      "gas:candidate-vibid:4024058208025": 73,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 31,
+      "gas:candidate-vibid:4024058187114": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 108,
-      "Кадыров Рафис Фаизович": 99,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 38,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 108,
+      "gas:candidate-vibid:4024058208025": 99,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 38,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 67,
-      "Кадыров Рафис Фаизович": 45,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 17,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 67,
+      "gas:candidate-vibid:4024058208025": 45,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 17,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 5,
-      "Бикбаев Ильдар Зинурович": 233,
-      "Кадыров Рафис Фаизович": 148,
-      "Кузьмина Алла Александровна": 8,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 94,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 5,
+      "gas:candidate-vibid:4024058208161": 233,
+      "gas:candidate-vibid:4024058208025": 148,
+      "gas:candidate-vibid:4024058208193": 8,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 94,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 3,
-      "Бикбаев Ильдар Зинурович": 95,
-      "Кадыров Рафис Фаизович": 54,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 34,
-      "Хафизов Рустам Фларидович": 1
+      "gas:candidate-vibid:4024058207925": 3,
+      "gas:candidate-vibid:4024058208161": 95,
+      "gas:candidate-vibid:4024058208025": 54,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 34,
+      "gas:candidate-vibid:4024058187114": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 9,
-      "Бикбаев Ильдар Зинурович": 164,
-      "Кадыров Рафис Фаизович": 107,
-      "Кузьмина Алла Александровна": 8,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 64,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 9,
+      "gas:candidate-vibid:4024058208161": 164,
+      "gas:candidate-vibid:4024058208025": 107,
+      "gas:candidate-vibid:4024058208193": 8,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 64,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 34,
-      "Бикбаев Ильдар Зинурович": 501,
-      "Кадыров Рафис Фаизович": 39,
-      "Кузьмина Алла Александровна": 10,
-      "Лихачев Олег Эдуардович": 21,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 26
+      "gas:candidate-vibid:4024058207925": 34,
+      "gas:candidate-vibid:4024058208161": 501,
+      "gas:candidate-vibid:4024058208025": 39,
+      "gas:candidate-vibid:4024058208193": 10,
+      "gas:candidate-vibid:4024058187280": 21,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 12,
-      "Бикбаев Ильдар Зинурович": 187,
-      "Кадыров Рафис Фаизович": 111,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 6,
-      "Рябов Вячеслав Владимирович": 70,
-      "Хафизов Рустам Фларидович": 12
+      "gas:candidate-vibid:4024058207925": 12,
+      "gas:candidate-vibid:4024058208161": 187,
+      "gas:candidate-vibid:4024058208025": 111,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 6,
+      "gas:candidate-vibid:4024058186602": 70,
+      "gas:candidate-vibid:4024058187114": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 17,
-      "Бикбаев Ильдар Зинурович": 1,
-      "Кадыров Рафис Фаизович": 109,
-      "Кузьмина Алла Александровна": 17,
-      "Лихачев Олег Эдуардович": 19,
-      "Рябов Вячеслав Владимирович": 135,
-      "Хафизов Рустам Фларидович": 32
+      "gas:candidate-vibid:4024058207925": 17,
+      "gas:candidate-vibid:4024058208161": 1,
+      "gas:candidate-vibid:4024058208025": 109,
+      "gas:candidate-vibid:4024058208193": 17,
+      "gas:candidate-vibid:4024058187280": 19,
+      "gas:candidate-vibid:4024058186602": 135,
+      "gas:candidate-vibid:4024058187114": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 12,
-      "Бикбаев Ильдар Зинурович": 174,
-      "Кадыров Рафис Фаизович": 54,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 6,
-      "Рябов Вячеслав Владимирович": 74,
-      "Хафизов Рустам Фларидович": 7
+      "gas:candidate-vibid:4024058207925": 12,
+      "gas:candidate-vibid:4024058208161": 174,
+      "gas:candidate-vibid:4024058208025": 54,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 6,
+      "gas:candidate-vibid:4024058186602": 74,
+      "gas:candidate-vibid:4024058187114": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 150,
-      "Кадыров Рафис Фаизович": 13,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 26,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 150,
+      "gas:candidate-vibid:4024058208025": 13,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 26,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 118,
-      "Кадыров Рафис Фаизович": 30,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 0
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 118,
+      "gas:candidate-vibid:4024058208025": 30,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684941&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684941&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 24,
-      "Бикбаев Ильдар Зинурович": 189,
-      "Кадыров Рафис Фаизович": 16,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 6,
-      "Рябов Вячеслав Владимирович": 51,
-      "Хафизов Рустам Фларидович": 16
+      "gas:candidate-vibid:4024058207925": 24,
+      "gas:candidate-vibid:4024058208161": 189,
+      "gas:candidate-vibid:4024058208025": 16,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 6,
+      "gas:candidate-vibid:4024058186602": 51,
+      "gas:candidate-vibid:4024058187114": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 5,
-      "Бикбаев Ильдар Зинурович": 77,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 18,
-      "Хафизов Рустам Фларидович": 11
+      "gas:candidate-vibid:4024058207925": 5,
+      "gas:candidate-vibid:4024058208161": 77,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 18,
+      "gas:candidate-vibid:4024058187114": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 30,
-      "Бикбаев Ильдар Зинурович": 92,
-      "Кадыров Рафис Фаизович": 17,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 13,
-      "Рябов Вячеслав Владимирович": 10,
-      "Хафизов Рустам Фларидович": 27
+      "gas:candidate-vibid:4024058207925": 30,
+      "gas:candidate-vibid:4024058208161": 92,
+      "gas:candidate-vibid:4024058208025": 17,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 13,
+      "gas:candidate-vibid:4024058186602": 10,
+      "gas:candidate-vibid:4024058187114": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 5,
-      "Бикбаев Ильдар Зинурович": 67,
-      "Кадыров Рафис Фаизович": 6,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 3,
-      "Хафизов Рустам Фларидович": 6
+      "gas:candidate-vibid:4024058207925": 5,
+      "gas:candidate-vibid:4024058208161": 67,
+      "gas:candidate-vibid:4024058208025": 6,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 3,
+      "gas:candidate-vibid:4024058187114": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 3,
-      "Бикбаев Ильдар Зинурович": 124,
-      "Кадыров Рафис Фаизович": 6,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 29,
-      "Хафизов Рустам Фларидович": 19
+      "gas:candidate-vibid:4024058207925": 3,
+      "gas:candidate-vibid:4024058208161": 124,
+      "gas:candidate-vibid:4024058208025": 6,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 29,
+      "gas:candidate-vibid:4024058187114": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 38,
-      "Бикбаев Ильдар Зинурович": 755,
-      "Кадыров Рафис Фаизович": 8,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 272,
-      "Хафизов Рустам Фларидович": 75
+      "gas:candidate-vibid:4024058207925": 38,
+      "gas:candidate-vibid:4024058208161": 755,
+      "gas:candidate-vibid:4024058208025": 8,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 272,
+      "gas:candidate-vibid:4024058187114": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 11,
-      "Бикбаев Ильдар Зинурович": 93,
-      "Кадыров Рафис Фаизович": 4,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 6,
-      "Рябов Вячеслав Владимирович": 6,
-      "Хафизов Рустам Фларидович": 13
+      "gas:candidate-vibid:4024058207925": 11,
+      "gas:candidate-vibid:4024058208161": 93,
+      "gas:candidate-vibid:4024058208025": 4,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 6,
+      "gas:candidate-vibid:4024058186602": 6,
+      "gas:candidate-vibid:4024058187114": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 13,
-      "Бикбаев Ильдар Зинурович": 90,
-      "Кадыров Рафис Фаизович": 8,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 6,
-      "Хафизов Рустам Фларидович": 8
+      "gas:candidate-vibid:4024058207925": 13,
+      "gas:candidate-vibid:4024058208161": 90,
+      "gas:candidate-vibid:4024058208025": 8,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 6,
+      "gas:candidate-vibid:4024058187114": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 26,
-      "Бикбаев Ильдар Зинурович": 170,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 39,
-      "Хафизов Рустам Фларидович": 26
+      "gas:candidate-vibid:4024058207925": 26,
+      "gas:candidate-vibid:4024058208161": 170,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 39,
+      "gas:candidate-vibid:4024058187114": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 7,
-      "Бикбаев Ильдар Зинурович": 138,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 29,
-      "Хафизов Рустам Фларидович": 20
+      "gas:candidate-vibid:4024058207925": 7,
+      "gas:candidate-vibid:4024058208161": 138,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 29,
+      "gas:candidate-vibid:4024058187114": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 17,
-      "Бикбаев Ильдар Зинурович": 170,
-      "Кадыров Рафис Фаизович": 8,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 57,
-      "Хафизов Рустам Фларидович": 26
+      "gas:candidate-vibid:4024058207925": 17,
+      "gas:candidate-vibid:4024058208161": 170,
+      "gas:candidate-vibid:4024058208025": 8,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 57,
+      "gas:candidate-vibid:4024058187114": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 61,
-      "Бикбаев Ильдар Зинурович": 335,
-      "Кадыров Рафис Фаизович": 17,
-      "Кузьмина Алла Александровна": 5,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 11,
-      "Хафизов Рустам Фларидович": 33
+      "gas:candidate-vibid:4024058207925": 61,
+      "gas:candidate-vibid:4024058208161": 335,
+      "gas:candidate-vibid:4024058208025": 17,
+      "gas:candidate-vibid:4024058208193": 5,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 11,
+      "gas:candidate-vibid:4024058187114": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 10,
-      "Бикбаев Ильдар Зинурович": 160,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 35,
-      "Хафизов Рустам Фларидович": 24
+      "gas:candidate-vibid:4024058207925": 10,
+      "gas:candidate-vibid:4024058208161": 160,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 35,
+      "gas:candidate-vibid:4024058187114": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 12,
-      "Бикбаев Ильдар Зинурович": 109,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 3,
-      "Хафизов Рустам Фларидович": 10
+      "gas:candidate-vibid:4024058207925": 12,
+      "gas:candidate-vibid:4024058208161": 109,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 3,
+      "gas:candidate-vibid:4024058187114": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 58,
-      "Бикбаев Ильдар Зинурович": 254,
-      "Кадыров Рафис Фаизович": 41,
-      "Кузьмина Алла Александровна": 11,
-      "Лихачев Олег Эдуардович": 29,
-      "Рябов Вячеслав Владимирович": 13,
-      "Хафизов Рустам Фларидович": 54
+      "gas:candidate-vibid:4024058207925": 58,
+      "gas:candidate-vibid:4024058208161": 254,
+      "gas:candidate-vibid:4024058208025": 41,
+      "gas:candidate-vibid:4024058208193": 11,
+      "gas:candidate-vibid:4024058187280": 29,
+      "gas:candidate-vibid:4024058186602": 13,
+      "gas:candidate-vibid:4024058187114": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 15,
-      "Бикбаев Ильдар Зинурович": 175,
-      "Кадыров Рафис Фаизович": 11,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 59,
-      "Хафизов Рустам Фларидович": 23
+      "gas:candidate-vibid:4024058207925": 15,
+      "gas:candidate-vibid:4024058208161": 175,
+      "gas:candidate-vibid:4024058208025": 11,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 59,
+      "gas:candidate-vibid:4024058187114": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 24,
-      "Бикбаев Ильдар Зинурович": 116,
-      "Кадыров Рафис Фаизович": 8,
-      "Кузьмина Алла Александровна": 5,
-      "Лихачев Олег Эдуардович": 20,
-      "Рябов Вячеслав Владимирович": 26,
-      "Хафизов Рустам Фларидович": 18
+      "gas:candidate-vibid:4024058207925": 24,
+      "gas:candidate-vibid:4024058208161": 116,
+      "gas:candidate-vibid:4024058208025": 8,
+      "gas:candidate-vibid:4024058208193": 5,
+      "gas:candidate-vibid:4024058187280": 20,
+      "gas:candidate-vibid:4024058186602": 26,
+      "gas:candidate-vibid:4024058187114": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 229,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 137,
-      "Хафизов Рустам Фларидович": 92
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 229,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 137,
+      "gas:candidate-vibid:4024058187114": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 20,
-      "Бикбаев Ильдар Зинурович": 334,
-      "Кадыров Рафис Фаизович": 10,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 25,
-      "Рябов Вячеслав Владимирович": 20,
-      "Хафизов Рустам Фларидович": 12
+      "gas:candidate-vibid:4024058207925": 20,
+      "gas:candidate-vibid:4024058208161": 334,
+      "gas:candidate-vibid:4024058208025": 10,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 25,
+      "gas:candidate-vibid:4024058186602": 20,
+      "gas:candidate-vibid:4024058187114": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 6,
-      "Бикбаев Ильдар Зинурович": 110,
-      "Кадыров Рафис Фаизович": 3,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 4,
-      "Хафизов Рустам Фларидович": 8
+      "gas:candidate-vibid:4024058207925": 6,
+      "gas:candidate-vibid:4024058208161": 110,
+      "gas:candidate-vibid:4024058208025": 3,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 4,
+      "gas:candidate-vibid:4024058187114": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 30,
-      "Бикбаев Ильдар Зинурович": 282,
-      "Кадыров Рафис Фаизович": 20,
-      "Кузьмина Алла Александровна": 10,
-      "Лихачев Олег Эдуардович": 10,
-      "Рябов Вячеслав Владимирович": 94,
-      "Хафизов Рустам Фларидович": 24
+      "gas:candidate-vibid:4024058207925": 30,
+      "gas:candidate-vibid:4024058208161": 282,
+      "gas:candidate-vibid:4024058208025": 20,
+      "gas:candidate-vibid:4024058208193": 10,
+      "gas:candidate-vibid:4024058187280": 10,
+      "gas:candidate-vibid:4024058186602": 94,
+      "gas:candidate-vibid:4024058187114": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 9,
-      "Бикбаев Ильдар Зинурович": 124,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 20,
-      "Хафизов Рустам Фларидович": 13
+      "gas:candidate-vibid:4024058207925": 9,
+      "gas:candidate-vibid:4024058208161": 124,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 20,
+      "gas:candidate-vibid:4024058187114": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 0,
-      "Бикбаев Ильдар Зинурович": 237,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 75,
-      "Хафизов Рустам Фларидович": 56
+      "gas:candidate-vibid:4024058207925": 0,
+      "gas:candidate-vibid:4024058208161": 237,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 75,
+      "gas:candidate-vibid:4024058187114": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 16,
-      "Бикбаев Ильдар Зинурович": 101,
-      "Кадыров Рафис Фаизович": 12,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 1,
-      "Рябов Вячеслав Владимирович": 13,
-      "Хафизов Рустам Фларидович": 6
+      "gas:candidate-vibid:4024058207925": 16,
+      "gas:candidate-vibid:4024058208161": 101,
+      "gas:candidate-vibid:4024058208025": 12,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 1,
+      "gas:candidate-vibid:4024058186602": 13,
+      "gas:candidate-vibid:4024058187114": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 12,
-      "Бикбаев Ильдар Зинурович": 196,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 10,
-      "Рябов Вячеслав Владимирович": 45,
-      "Хафизов Рустам Фларидович": 30
+      "gas:candidate-vibid:4024058207925": 12,
+      "gas:candidate-vibid:4024058208161": 196,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 10,
+      "gas:candidate-vibid:4024058186602": 45,
+      "gas:candidate-vibid:4024058187114": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 11,
-      "Бикбаев Ильдар Зинурович": 160,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 55,
-      "Хафизов Рустам Фларидович": 16
+      "gas:candidate-vibid:4024058207925": 11,
+      "gas:candidate-vibid:4024058208161": 160,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 55,
+      "gas:candidate-vibid:4024058187114": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 6,
-      "Бикбаев Ильдар Зинурович": 112,
-      "Кадыров Рафис Фаизович": 1,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 37,
-      "Хафизов Рустам Фларидович": 22
+      "gas:candidate-vibid:4024058207925": 6,
+      "gas:candidate-vibid:4024058208161": 112,
+      "gas:candidate-vibid:4024058208025": 1,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 37,
+      "gas:candidate-vibid:4024058187114": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 91,
-      "Бикбаев Ильдар Зинурович": 520,
-      "Кадыров Рафис Фаизович": 72,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 22,
-      "Рябов Вячеслав Владимирович": 28,
-      "Хафизов Рустам Фларидович": 92
+      "gas:candidate-vibid:4024058207925": 91,
+      "gas:candidate-vibid:4024058208161": 520,
+      "gas:candidate-vibid:4024058208025": 72,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 22,
+      "gas:candidate-vibid:4024058186602": 28,
+      "gas:candidate-vibid:4024058187114": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 26,
-      "Бикбаев Ильдар Зинурович": 363,
-      "Кадыров Рафис Фаизович": 21,
-      "Кузьмина Алла Александровна": 20,
-      "Лихачев Олег Эдуардович": 19,
-      "Рябов Вячеслав Владимирович": 117,
-      "Хафизов Рустам Фларидович": 31
+      "gas:candidate-vibid:4024058207925": 26,
+      "gas:candidate-vibid:4024058208161": 363,
+      "gas:candidate-vibid:4024058208025": 21,
+      "gas:candidate-vibid:4024058208193": 20,
+      "gas:candidate-vibid:4024058187280": 19,
+      "gas:candidate-vibid:4024058186602": 117,
+      "gas:candidate-vibid:4024058187114": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 150,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 22,
-      "Хафизов Рустам Фларидович": 11
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 150,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 22,
+      "gas:candidate-vibid:4024058187114": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 22,
-      "Бикбаев Ильдар Зинурович": 125,
-      "Кадыров Рафис Фаизович": 10,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 10,
-      "Хафизов Рустам Фларидович": 16
+      "gas:candidate-vibid:4024058207925": 22,
+      "gas:candidate-vibid:4024058208161": 125,
+      "gas:candidate-vibid:4024058208025": 10,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 10,
+      "gas:candidate-vibid:4024058187114": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 32,
-      "Бикбаев Ильдар Зинурович": 332,
-      "Кадыров Рафис Фаизович": 80,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 10,
-      "Рябов Вячеслав Владимирович": 133,
-      "Хафизов Рустам Фларидович": 61
+      "gas:candidate-vibid:4024058207925": 32,
+      "gas:candidate-vibid:4024058208161": 332,
+      "gas:candidate-vibid:4024058208025": 80,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 10,
+      "gas:candidate-vibid:4024058186602": 133,
+      "gas:candidate-vibid:4024058187114": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 10,
-      "Бикбаев Ильдар Зинурович": 539,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 26,
-      "Рябов Вячеслав Владимирович": 224,
-      "Хафизов Рустам Фларидович": 84
+      "gas:candidate-vibid:4024058207925": 10,
+      "gas:candidate-vibid:4024058208161": 539,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 26,
+      "gas:candidate-vibid:4024058186602": 224,
+      "gas:candidate-vibid:4024058187114": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 39,
-      "Бикбаев Ильдар Зинурович": 741,
-      "Кадыров Рафис Фаизович": 110,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 120,
-      "Хафизов Рустам Фларидович": 261
+      "gas:candidate-vibid:4024058207925": 39,
+      "gas:candidate-vibid:4024058208161": 741,
+      "gas:candidate-vibid:4024058208025": 110,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 120,
+      "gas:candidate-vibid:4024058187114": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 17,
-      "Бикбаев Ильдар Зинурович": 220,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 4,
-      "Рябов Вячеслав Владимирович": 51,
-      "Хафизов Рустам Фларидович": 34
+      "gas:candidate-vibid:4024058207925": 17,
+      "gas:candidate-vibid:4024058208161": 220,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 4,
+      "gas:candidate-vibid:4024058186602": 51,
+      "gas:candidate-vibid:4024058187114": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 28,
-      "Бикбаев Ильдар Зинурович": 295,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 88,
-      "Хафизов Рустам Фларидович": 30
+      "gas:candidate-vibid:4024058207925": 28,
+      "gas:candidate-vibid:4024058208161": 295,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 88,
+      "gas:candidate-vibid:4024058187114": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 36,
-      "Бикбаев Ильдар Зинурович": 221,
-      "Кадыров Рафис Фаизович": 31,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 44,
-      "Рябов Вячеслав Владимирович": 43,
-      "Хафизов Рустам Фларидович": 35
+      "gas:candidate-vibid:4024058207925": 36,
+      "gas:candidate-vibid:4024058208161": 221,
+      "gas:candidate-vibid:4024058208025": 31,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 44,
+      "gas:candidate-vibid:4024058186602": 43,
+      "gas:candidate-vibid:4024058187114": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 387,
-      "Кадыров Рафис Фаизович": 6,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 84,
-      "Хафизов Рустам Фларидович": 56
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 387,
+      "gas:candidate-vibid:4024058208025": 6,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 84,
+      "gas:candidate-vibid:4024058187114": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 2,
-      "Бикбаев Ильдар Зинурович": 71,
-      "Кадыров Рафис Фаизович": 4,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 26,
-      "Хафизов Рустам Фларидович": 21
+      "gas:candidate-vibid:4024058207925": 2,
+      "gas:candidate-vibid:4024058208161": 71,
+      "gas:candidate-vibid:4024058208025": 4,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 26,
+      "gas:candidate-vibid:4024058187114": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 29,
-      "Бикбаев Ильдар Зинурович": 387,
-      "Кадыров Рафис Фаизович": 23,
-      "Кузьмина Алла Александровна": 20,
-      "Лихачев Олег Эдуардович": 25,
-      "Рябов Вячеслав Владимирович": 130,
-      "Хафизов Рустам Фларидович": 33
+      "gas:candidate-vibid:4024058207925": 29,
+      "gas:candidate-vibid:4024058208161": 387,
+      "gas:candidate-vibid:4024058208025": 23,
+      "gas:candidate-vibid:4024058208193": 20,
+      "gas:candidate-vibid:4024058187280": 25,
+      "gas:candidate-vibid:4024058186602": 130,
+      "gas:candidate-vibid:4024058187114": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 22,
-      "Бикбаев Ильдар Зинурович": 232,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 4,
-      "Хафизов Рустам Фларидович": 14
+      "gas:candidate-vibid:4024058207925": 22,
+      "gas:candidate-vibid:4024058208161": 232,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 4,
+      "gas:candidate-vibid:4024058187114": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 7,
-      "Бикбаев Ильдар Зинурович": 219,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 46,
-      "Хафизов Рустам Фларидович": 35
+      "gas:candidate-vibid:4024058207925": 7,
+      "gas:candidate-vibid:4024058208161": 219,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 46,
+      "gas:candidate-vibid:4024058187114": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 89,
-      "Бикбаев Ильдар Зинурович": 293,
-      "Кадыров Рафис Фаизович": 10,
-      "Кузьмина Алла Александровна": 9,
-      "Лихачев Олег Эдуардович": 23,
-      "Рябов Вячеслав Владимирович": 96,
-      "Хафизов Рустам Фларидович": 58
+      "gas:candidate-vibid:4024058207925": 89,
+      "gas:candidate-vibid:4024058208161": 293,
+      "gas:candidate-vibid:4024058208025": 10,
+      "gas:candidate-vibid:4024058208193": 9,
+      "gas:candidate-vibid:4024058187280": 23,
+      "gas:candidate-vibid:4024058186602": 96,
+      "gas:candidate-vibid:4024058187114": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 16,
-      "Бикбаев Ильдар Зинурович": 234,
-      "Кадыров Рафис Фаизович": 29,
-      "Кузьмина Алла Александровна": 9,
-      "Лихачев Олег Эдуардович": 12,
-      "Рябов Вячеслав Владимирович": 161,
-      "Хафизов Рустам Фларидович": 57
+      "gas:candidate-vibid:4024058207925": 16,
+      "gas:candidate-vibid:4024058208161": 234,
+      "gas:candidate-vibid:4024058208025": 29,
+      "gas:candidate-vibid:4024058208193": 9,
+      "gas:candidate-vibid:4024058187280": 12,
+      "gas:candidate-vibid:4024058186602": 161,
+      "gas:candidate-vibid:4024058187114": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684942&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684942&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 198,
-      "Кадыров Рафис Фаизович": 21,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 5,
-      "Рябов Вячеслав Владимирович": 9,
-      "Хафизов Рустам Фларидович": 12
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 198,
+      "gas:candidate-vibid:4024058208025": 21,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 5,
+      "gas:candidate-vibid:4024058186602": 9,
+      "gas:candidate-vibid:4024058187114": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 5,
-      "Бикбаев Ильдар Зинурович": 68,
-      "Кадыров Рафис Фаизович": 9,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 4,
-      "Рябов Вячеслав Владимирович": 5,
-      "Хафизов Рустам Фларидович": 2
+      "gas:candidate-vibid:4024058207925": 5,
+      "gas:candidate-vibid:4024058208161": 68,
+      "gas:candidate-vibid:4024058208025": 9,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 4,
+      "gas:candidate-vibid:4024058186602": 5,
+      "gas:candidate-vibid:4024058187114": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 7,
-      "Бикбаев Ильдар Зинурович": 78,
-      "Кадыров Рафис Фаизович": 8,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 2,
-      "Рябов Вячеслав Владимирович": 12,
-      "Хафизов Рустам Фларидович": 3
+      "gas:candidate-vibid:4024058207925": 7,
+      "gas:candidate-vibid:4024058208161": 78,
+      "gas:candidate-vibid:4024058208025": 8,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 2,
+      "gas:candidate-vibid:4024058186602": 12,
+      "gas:candidate-vibid:4024058187114": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 196,
-      "Кадыров Рафис Фаизович": 12,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 27,
-      "Хафизов Рустам Фларидович": 4
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 196,
+      "gas:candidate-vibid:4024058208025": 12,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 27,
+      "gas:candidate-vibid:4024058187114": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 11,
-      "Бикбаев Ильдар Зинурович": 111,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 2,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 19,
-      "Хафизов Рустам Фларидович": 16
+      "gas:candidate-vibid:4024058207925": 11,
+      "gas:candidate-vibid:4024058208161": 111,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 2,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 19,
+      "gas:candidate-vibid:4024058187114": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 7,
-      "Бикбаев Ильдар Зинурович": 112,
-      "Кадыров Рафис Фаизович": 7,
-      "Кузьмина Алла Александровна": 1,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 10,
-      "Хафизов Рустам Фларидович": 12
+      "gas:candidate-vibid:4024058207925": 7,
+      "gas:candidate-vibid:4024058208161": 112,
+      "gas:candidate-vibid:4024058208025": 7,
+      "gas:candidate-vibid:4024058208193": 1,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 10,
+      "gas:candidate-vibid:4024058187114": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 21,
-      "Бикбаев Ильдар Зинурович": 437,
-      "Кадыров Рафис Фаизович": 19,
-      "Кузьмина Алла Александровна": 0,
-      "Лихачев Олег Эдуардович": 3,
-      "Рябов Вячеслав Владимирович": 64,
-      "Хафизов Рустам Фларидович": 8
+      "gas:candidate-vibid:4024058207925": 21,
+      "gas:candidate-vibid:4024058208161": 437,
+      "gas:candidate-vibid:4024058208025": 19,
+      "gas:candidate-vibid:4024058208193": 0,
+      "gas:candidate-vibid:4024058187280": 3,
+      "gas:candidate-vibid:4024058186602": 64,
+      "gas:candidate-vibid:4024058187114": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 62,
-      "Бикбаев Ильдар Зинурович": 547,
-      "Кадыров Рафис Фаизович": 31,
-      "Кузьмина Алла Александровна": 3,
-      "Лихачев Олег Эдуардович": 24,
-      "Рябов Вячеслав Владимирович": 316,
-      "Хафизов Рустам Фларидович": 38
+      "gas:candidate-vibid:4024058207925": 62,
+      "gas:candidate-vibid:4024058208161": 547,
+      "gas:candidate-vibid:4024058208025": 31,
+      "gas:candidate-vibid:4024058208193": 3,
+      "gas:candidate-vibid:4024058187280": 24,
+      "gas:candidate-vibid:4024058186602": 316,
+      "gas:candidate-vibid:4024058187114": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 48,
-      "Бикбаев Ильдар Зинурович": 213,
-      "Кадыров Рафис Фаизович": 6,
-      "Кузьмина Алла Александровна": 34,
-      "Лихачев Олег Эдуардович": 21,
-      "Рябов Вячеслав Владимирович": 85,
-      "Хафизов Рустам Фларидович": 41
+      "gas:candidate-vibid:4024058207925": 48,
+      "gas:candidate-vibid:4024058208161": 213,
+      "gas:candidate-vibid:4024058208025": 6,
+      "gas:candidate-vibid:4024058208193": 34,
+      "gas:candidate-vibid:4024058187280": 21,
+      "gas:candidate-vibid:4024058186602": 85,
+      "gas:candidate-vibid:4024058187114": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 29,
-      "Бикбаев Ильдар Зинурович": 133,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 19,
-      "Лихачев Олег Эдуардович": 14,
-      "Рябов Вячеслав Владимирович": 53,
-      "Хафизов Рустам Фларидович": 26
+      "gas:candidate-vibid:4024058207925": 29,
+      "gas:candidate-vibid:4024058208161": 133,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 19,
+      "gas:candidate-vibid:4024058187280": 14,
+      "gas:candidate-vibid:4024058186602": 53,
+      "gas:candidate-vibid:4024058187114": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 17,
-      "Бикбаев Ильдар Зинурович": 105,
-      "Кадыров Рафис Фаизович": 0,
-      "Кузьмина Алла Александровна": 11,
-      "Лихачев Олег Эдуардович": 7,
-      "Рябов Вячеслав Владимирович": 37,
-      "Хафизов Рустам Фларидович": 18
+      "gas:candidate-vibid:4024058207925": 17,
+      "gas:candidate-vibid:4024058208161": 105,
+      "gas:candidate-vibid:4024058208025": 0,
+      "gas:candidate-vibid:4024058208193": 11,
+      "gas:candidate-vibid:4024058187280": 7,
+      "gas:candidate-vibid:4024058186602": 37,
+      "gas:candidate-vibid:4024058187114": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 42,
-      "Бикбаев Ильдар Зинурович": 176,
-      "Кадыров Рафис Фаизович": 4,
-      "Кузьмина Алла Александровна": 32,
-      "Лихачев Олег Эдуардович": 20,
-      "Рябов Вячеслав Владимирович": 24,
-      "Хафизов Рустам Фларидович": 24
+      "gas:candidate-vibid:4024058207925": 42,
+      "gas:candidate-vibid:4024058208161": 176,
+      "gas:candidate-vibid:4024058208025": 4,
+      "gas:candidate-vibid:4024058208193": 32,
+      "gas:candidate-vibid:4024058187280": 20,
+      "gas:candidate-vibid:4024058186602": 24,
+      "gas:candidate-vibid:4024058187114": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 43,
-      "Бикбаев Ильдар Зинурович": 165,
-      "Кадыров Рафис Фаизович": 5,
-      "Кузьмина Алла Александровна": 10,
-      "Лихачев Олег Эдуардович": 21,
-      "Рябов Вячеслав Владимирович": 54,
-      "Хафизов Рустам Фларидович": 22
+      "gas:candidate-vibid:4024058207925": 43,
+      "gas:candidate-vibid:4024058208161": 165,
+      "gas:candidate-vibid:4024058208025": 5,
+      "gas:candidate-vibid:4024058208193": 10,
+      "gas:candidate-vibid:4024058187280": 21,
+      "gas:candidate-vibid:4024058186602": 54,
+      "gas:candidate-vibid:4024058187114": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 24,
-      "Бикбаев Ильдар Зинурович": 91,
-      "Кадыров Рафис Фаизович": 12,
-      "Кузьмина Алла Александровна": 6,
-      "Лихачев Олег Эдуардович": 11,
-      "Рябов Вячеслав Владимирович": 32,
-      "Хафизов Рустам Фларидович": 8
+      "gas:candidate-vibid:4024058207925": 24,
+      "gas:candidate-vibid:4024058208161": 91,
+      "gas:candidate-vibid:4024058208025": 12,
+      "gas:candidate-vibid:4024058208193": 6,
+      "gas:candidate-vibid:4024058187280": 11,
+      "gas:candidate-vibid:4024058186602": 32,
+      "gas:candidate-vibid:4024058187114": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 28,
-      "Бикбаев Ильдар Зинурович": 226,
-      "Кадыров Рафис Фаизович": 19,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 23,
-      "Рябов Вячеслав Владимирович": 128,
-      "Хафизов Рустам Фларидович": 40
+      "gas:candidate-vibid:4024058207925": 28,
+      "gas:candidate-vibid:4024058208161": 226,
+      "gas:candidate-vibid:4024058208025": 19,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 23,
+      "gas:candidate-vibid:4024058186602": 128,
+      "gas:candidate-vibid:4024058187114": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 42,
-      "Бикбаев Ильдар Зинурович": 229,
-      "Кадыров Рафис Фаизович": 29,
-      "Кузьмина Алла Александровна": 14,
-      "Лихачев Олег Эдуардович": 23,
-      "Рябов Вячеслав Владимирович": 203,
-      "Хафизов Рустам Фларидович": 79
+      "gas:candidate-vibid:4024058207925": 42,
+      "gas:candidate-vibid:4024058208161": 229,
+      "gas:candidate-vibid:4024058208025": 29,
+      "gas:candidate-vibid:4024058208193": 14,
+      "gas:candidate-vibid:4024058187280": 23,
+      "gas:candidate-vibid:4024058186602": 203,
+      "gas:candidate-vibid:4024058187114": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 54,
-      "Бикбаев Ильдар Зинурович": 314,
-      "Кадыров Рафис Фаизович": 27,
-      "Кузьмина Алла Александровна": 11,
-      "Лихачев Олег Эдуардович": 24,
-      "Рябов Вячеслав Владимирович": 143,
-      "Хафизов Рустам Фларидович": 77
+      "gas:candidate-vibid:4024058207925": 54,
+      "gas:candidate-vibid:4024058208161": 314,
+      "gas:candidate-vibid:4024058208025": 27,
+      "gas:candidate-vibid:4024058208193": 11,
+      "gas:candidate-vibid:4024058187280": 24,
+      "gas:candidate-vibid:4024058186602": 143,
+      "gas:candidate-vibid:4024058187114": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 36,
-      "Бикбаев Ильдар Зинурович": 245,
-      "Кадыров Рафис Фаизович": 28,
-      "Кузьмина Алла Александровна": 7,
-      "Лихачев Олег Эдуардович": 30,
-      "Рябов Вячеслав Владимирович": 130,
-      "Хафизов Рустам Фларидович": 94
+      "gas:candidate-vibid:4024058207925": 36,
+      "gas:candidate-vibid:4024058208161": 245,
+      "gas:candidate-vibid:4024058208025": 28,
+      "gas:candidate-vibid:4024058208193": 7,
+      "gas:candidate-vibid:4024058187280": 30,
+      "gas:candidate-vibid:4024058186602": 130,
+      "gas:candidate-vibid:4024058187114": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_3_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 12,
-      "Бикбаев Ильдар Зинурович": 159,
-      "Кадыров Рафис Фаизович": 20,
-      "Кузьмина Алла Александровна": 4,
-      "Лихачев Олег Эдуардович": 0,
-      "Рябов Вячеслав Владимирович": 42,
-      "Хафизов Рустам Фларидович": 24
+      "gas:candidate-vibid:4024058207925": 12,
+      "gas:candidate-vibid:4024058208161": 159,
+      "gas:candidate-vibid:4024058208025": 20,
+      "gas:candidate-vibid:4024058208193": 4,
+      "gas:candidate-vibid:4024058187280": 0,
+      "gas:candidate-vibid:4024058186602": 42,
+      "gas:candidate-vibid:4024058187114": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684943&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684943&type=464",

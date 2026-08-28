@@ -11,6 +11,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944876",
     "tikName": "Чаплыгинская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23149,
@@ -97,6 +100,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944877",
     "tikName": "Становлянская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13488,
@@ -175,6 +181,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944878",
     "tikName": "Липецкая 114 ок",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20869,
@@ -244,6 +253,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944879",
     "tikName": "Липецк, Советская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 136444,
@@ -372,6 +384,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944880",
     "tikName": "Липецк, Правобережная",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68616,
@@ -463,6 +478,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944881",
     "tikName": "Лев-Толстовская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12155,
@@ -542,6 +560,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944882",
     "tikName": "Лебедянская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32592,
@@ -639,6 +660,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944883",
     "tikName": "Краснинская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10508,
@@ -711,6 +735,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944884",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80241,
@@ -815,6 +842,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944885",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21693,
@@ -897,6 +927,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944886",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20144,
@@ -976,6 +1009,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944887",
     "tikName": "Данковская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27387,
@@ -1063,6 +1099,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944888",
     "tikName": "Липецк, Октябрьская №2",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67444,
@@ -1143,6 +1182,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944889",
     "tikName": "Хлевенская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15658,
@@ -1214,6 +1256,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944890",
     "tikName": "Усманская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36307,
@@ -1305,6 +1350,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944891",
     "tikName": "Тербунская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16739,
@@ -1384,6 +1432,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944892",
     "tikName": "Липецкая 115 ок",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24904,
@@ -1455,6 +1506,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944893",
     "tikName": "Липецк, Октябрьская №1",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 99293,
@@ -1559,6 +1613,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944894",
     "tikName": "Липецк, Левобережная",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36877,
@@ -1633,6 +1690,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944895",
     "tikName": "Измалковская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12031,
@@ -1714,6 +1774,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944896",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25482,
@@ -1815,6 +1878,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944897",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13899,
@@ -1893,6 +1959,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944898",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26226,
@@ -1988,6 +2057,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944899",
     "tikName": "Грязинская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61360,
@@ -2085,6 +2157,9 @@ export const duma_2021_tic_233_region_48 = [
     "ballot": "party",
     "tikTvd": "2482000944900",
     "tikName": "Воловская",
+    "regionCode": "48",
+    "regionTvd": "100100225883567",
+    "regionName": "Липецкая область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10502,

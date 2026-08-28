@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 406,
-      "Бушуева Александра Васильевна": 158,
-      "Козлов Викентий Александрович": 277,
-      "Мусинов Леонид Алексеевич": 157,
-      "Незнанов Евгений Сергеевич": 46,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 211,
-      "Против всех": 339
+      "gas:candidate-vibid:211200071297": 406,
+      "gas:candidate-vibid:1001000113897": 158,
+      "gas:candidate-vibid:211200070812": 277,
+      "gas:candidate-vibid:1001000121793": 157,
+      "gas:candidate-vibid:1001000135998": 46,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 211,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 42,
-      "Бушуева Александра Васильевна": 22,
-      "Козлов Викентий Александрович": 31,
-      "Мусинов Леонид Алексеевич": 15,
-      "Незнанов Евгений Сергеевич": 12,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 36,
-      "Против всех": 67
+      "gas:candidate-vibid:211200071297": 42,
+      "gas:candidate-vibid:1001000113897": 22,
+      "gas:candidate-vibid:211200070812": 31,
+      "gas:candidate-vibid:1001000121793": 15,
+      "gas:candidate-vibid:1001000135998": 12,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 36,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 183,
-      "Бушуева Александра Васильевна": 61,
-      "Козлов Викентий Александрович": 87,
-      "Мусинов Леонид Алексеевич": 39,
-      "Незнанов Евгений Сергеевич": 42,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 79,
-      "Против всех": 184
+      "gas:candidate-vibid:211200071297": 183,
+      "gas:candidate-vibid:1001000113897": 61,
+      "gas:candidate-vibid:211200070812": 87,
+      "gas:candidate-vibid:1001000121793": 39,
+      "gas:candidate-vibid:1001000135998": 42,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 79,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 206,
-      "Бушуева Александра Васильевна": 149,
-      "Козлов Викентий Александрович": 183,
-      "Мусинов Леонид Алексеевич": 80,
-      "Незнанов Евгений Сергеевич": 35,
-      "Соботюк Павел Михайлович": 13,
-      "Спиридонов Юрий Алексеевич": 197,
-      "Против всех": 344
+      "gas:candidate-vibid:211200071297": 206,
+      "gas:candidate-vibid:1001000113897": 149,
+      "gas:candidate-vibid:211200070812": 183,
+      "gas:candidate-vibid:1001000121793": 80,
+      "gas:candidate-vibid:1001000135998": 35,
+      "gas:candidate-vibid:1001000261391": 13,
+      "gas:candidate-vibid:211200071366": 197,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 283,
-      "Бушуева Александра Васильевна": 103,
-      "Козлов Викентий Александрович": 229,
-      "Мусинов Леонид Алексеевич": 104,
-      "Незнанов Евгений Сергеевич": 30,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 123,
-      "Против всех": 288
+      "gas:candidate-vibid:211200071297": 283,
+      "gas:candidate-vibid:1001000113897": 103,
+      "gas:candidate-vibid:211200070812": 229,
+      "gas:candidate-vibid:1001000121793": 104,
+      "gas:candidate-vibid:1001000135998": 30,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 123,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 311,
-      "Бушуева Александра Васильевна": 75,
-      "Козлов Викентий Александрович": 231,
-      "Мусинов Леонид Алексеевич": 104,
-      "Незнанов Евгений Сергеевич": 43,
-      "Соботюк Павел Михайлович": 13,
-      "Спиридонов Юрий Алексеевич": 149,
-      "Против всех": 190
+      "gas:candidate-vibid:211200071297": 311,
+      "gas:candidate-vibid:1001000113897": 75,
+      "gas:candidate-vibid:211200070812": 231,
+      "gas:candidate-vibid:1001000121793": 104,
+      "gas:candidate-vibid:1001000135998": 43,
+      "gas:candidate-vibid:1001000261391": 13,
+      "gas:candidate-vibid:211200071366": 149,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 307,
-      "Бушуева Александра Васильевна": 94,
-      "Козлов Викентий Александрович": 214,
-      "Мусинов Леонид Алексеевич": 152,
-      "Незнанов Евгений Сергеевич": 37,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 146,
-      "Против всех": 241
+      "gas:candidate-vibid:211200071297": 307,
+      "gas:candidate-vibid:1001000113897": 94,
+      "gas:candidate-vibid:211200070812": 214,
+      "gas:candidate-vibid:1001000121793": 152,
+      "gas:candidate-vibid:1001000135998": 37,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 146,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 300,
-      "Бушуева Александра Васильевна": 65,
-      "Козлов Викентий Александрович": 214,
-      "Мусинов Леонид Алексеевич": 75,
-      "Незнанов Евгений Сергеевич": 36,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 118,
-      "Против всех": 240
+      "gas:candidate-vibid:211200071297": 300,
+      "gas:candidate-vibid:1001000113897": 65,
+      "gas:candidate-vibid:211200070812": 214,
+      "gas:candidate-vibid:1001000121793": 75,
+      "gas:candidate-vibid:1001000135998": 36,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 118,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 311,
-      "Бушуева Александра Васильевна": 76,
-      "Козлов Викентий Александрович": 179,
-      "Мусинов Леонид Алексеевич": 112,
-      "Незнанов Евгений Сергеевич": 23,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 150,
-      "Против всех": 261
+      "gas:candidate-vibid:211200071297": 311,
+      "gas:candidate-vibid:1001000113897": 76,
+      "gas:candidate-vibid:211200070812": 179,
+      "gas:candidate-vibid:1001000121793": 112,
+      "gas:candidate-vibid:1001000135998": 23,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 150,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 284,
-      "Бушуева Александра Васильевна": 115,
-      "Козлов Викентий Александрович": 208,
-      "Мусинов Леонид Алексеевич": 94,
-      "Незнанов Евгений Сергеевич": 34,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 164,
-      "Против всех": 267
+      "gas:candidate-vibid:211200071297": 284,
+      "gas:candidate-vibid:1001000113897": 115,
+      "gas:candidate-vibid:211200070812": 208,
+      "gas:candidate-vibid:1001000121793": 94,
+      "gas:candidate-vibid:1001000135998": 34,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 164,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 406,
-      "Бушуева Александра Васильевна": 118,
-      "Козлов Викентий Александрович": 282,
-      "Мусинов Леонид Алексеевич": 116,
-      "Незнанов Евгений Сергеевич": 45,
-      "Соботюк Павел Михайлович": 17,
-      "Спиридонов Юрий Алексеевич": 246,
-      "Против всех": 349
+      "gas:candidate-vibid:211200071297": 406,
+      "gas:candidate-vibid:1001000113897": 118,
+      "gas:candidate-vibid:211200070812": 282,
+      "gas:candidate-vibid:1001000121793": 116,
+      "gas:candidate-vibid:1001000135998": 45,
+      "gas:candidate-vibid:1001000261391": 17,
+      "gas:candidate-vibid:211200071366": 246,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 167,
-      "Бушуева Александра Васильевна": 69,
-      "Козлов Викентий Александрович": 116,
-      "Мусинов Леонид Алексеевич": 69,
-      "Незнанов Евгений Сергеевич": 18,
-      "Соботюк Павел Михайлович": 8,
-      "Спиридонов Юрий Алексеевич": 107,
-      "Против всех": 147
+      "gas:candidate-vibid:211200071297": 167,
+      "gas:candidate-vibid:1001000113897": 69,
+      "gas:candidate-vibid:211200070812": 116,
+      "gas:candidate-vibid:1001000121793": 69,
+      "gas:candidate-vibid:1001000135998": 18,
+      "gas:candidate-vibid:1001000261391": 8,
+      "gas:candidate-vibid:211200071366": 107,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 180,
-      "Бушуева Александра Васильевна": 45,
-      "Козлов Викентий Александрович": 129,
-      "Мусинов Леонид Алексеевич": 36,
-      "Незнанов Евгений Сергеевич": 19,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 106,
-      "Против всех": 147
+      "gas:candidate-vibid:211200071297": 180,
+      "gas:candidate-vibid:1001000113897": 45,
+      "gas:candidate-vibid:211200070812": 129,
+      "gas:candidate-vibid:1001000121793": 36,
+      "gas:candidate-vibid:1001000135998": 19,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 106,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 228,
-      "Бушуева Александра Васильевна": 58,
-      "Козлов Викентий Александрович": 192,
-      "Мусинов Леонид Алексеевич": 103,
-      "Незнанов Евгений Сергеевич": 28,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 149,
-      "Против всех": 193
+      "gas:candidate-vibid:211200071297": 228,
+      "gas:candidate-vibid:1001000113897": 58,
+      "gas:candidate-vibid:211200070812": 192,
+      "gas:candidate-vibid:1001000121793": 103,
+      "gas:candidate-vibid:1001000135998": 28,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 149,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 35,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 161,
-      "Мусинов Леонид Алексеевич": 25,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 266,
-      "Против всех": 47
+      "gas:candidate-vibid:211200071297": 35,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 161,
+      "gas:candidate-vibid:1001000121793": 25,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 266,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 37,
-      "Бушуева Александра Васильевна": 12,
-      "Козлов Викентий Александрович": 71,
-      "Мусинов Леонид Алексеевич": 56,
-      "Незнанов Евгений Сергеевич": 13,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 40,
-      "Против всех": 42
+      "gas:candidate-vibid:211200071297": 37,
+      "gas:candidate-vibid:1001000113897": 12,
+      "gas:candidate-vibid:211200070812": 71,
+      "gas:candidate-vibid:1001000121793": 56,
+      "gas:candidate-vibid:1001000135998": 13,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 40,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 119,
-      "Бушуева Александра Васильевна": 61,
-      "Козлов Викентий Александрович": 152,
-      "Мусинов Леонид Алексеевич": 40,
-      "Незнанов Евгений Сергеевич": 15,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 237,
-      "Против всех": 187
+      "gas:candidate-vibid:211200071297": 119,
+      "gas:candidate-vibid:1001000113897": 61,
+      "gas:candidate-vibid:211200070812": 152,
+      "gas:candidate-vibid:1001000121793": 40,
+      "gas:candidate-vibid:1001000135998": 15,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 237,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 140,
-      "Бушуева Александра Васильевна": 87,
-      "Козлов Викентий Александрович": 186,
-      "Мусинов Леонид Алексеевич": 101,
-      "Незнанов Евгений Сергеевич": 24,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 305,
-      "Против всех": 249
+      "gas:candidate-vibid:211200071297": 140,
+      "gas:candidate-vibid:1001000113897": 87,
+      "gas:candidate-vibid:211200070812": 186,
+      "gas:candidate-vibid:1001000121793": 101,
+      "gas:candidate-vibid:1001000135998": 24,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 305,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 221,
-      "Бушуева Александра Васильевна": 82,
-      "Козлов Викентий Александрович": 204,
-      "Мусинов Леонид Алексеевич": 59,
-      "Незнанов Евгений Сергеевич": 27,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 140,
-      "Против всех": 271
+      "gas:candidate-vibid:211200071297": 221,
+      "gas:candidate-vibid:1001000113897": 82,
+      "gas:candidate-vibid:211200070812": 204,
+      "gas:candidate-vibid:1001000121793": 59,
+      "gas:candidate-vibid:1001000135998": 27,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 140,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 148,
-      "Бушуева Александра Васильевна": 71,
-      "Козлов Викентий Александрович": 197,
-      "Мусинов Леонид Алексеевич": 65,
-      "Незнанов Евгений Сергеевич": 36,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 79,
-      "Против всех": 161
+      "gas:candidate-vibid:211200071297": 148,
+      "gas:candidate-vibid:1001000113897": 71,
+      "gas:candidate-vibid:211200070812": 197,
+      "gas:candidate-vibid:1001000121793": 65,
+      "gas:candidate-vibid:1001000135998": 36,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 79,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 17,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 31,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:211200071297": 17,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 31,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 305,
-      "Бушуева Александра Васильевна": 97,
-      "Козлов Викентий Александрович": 215,
-      "Мусинов Леонид Алексеевич": 127,
-      "Незнанов Евгений Сергеевич": 33,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 174,
-      "Против всех": 344
+      "gas:candidate-vibid:211200071297": 305,
+      "gas:candidate-vibid:1001000113897": 97,
+      "gas:candidate-vibid:211200070812": 215,
+      "gas:candidate-vibid:1001000121793": 127,
+      "gas:candidate-vibid:1001000135998": 33,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 174,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 239,
-      "Бушуева Александра Васильевна": 69,
-      "Козлов Викентий Александрович": 216,
-      "Мусинов Леонид Алексеевич": 87,
-      "Незнанов Евгений Сергеевич": 31,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 193,
-      "Против всех": 269
+      "gas:candidate-vibid:211200071297": 239,
+      "gas:candidate-vibid:1001000113897": 69,
+      "gas:candidate-vibid:211200070812": 216,
+      "gas:candidate-vibid:1001000121793": 87,
+      "gas:candidate-vibid:1001000135998": 31,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 193,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 441,
-      "Бушуева Александра Васильевна": 123,
-      "Козлов Викентий Александрович": 238,
-      "Мусинов Леонид Алексеевич": 133,
-      "Незнанов Евгений Сергеевич": 45,
-      "Соботюк Павел Михайлович": 14,
-      "Спиридонов Юрий Алексеевич": 200,
-      "Против всех": 339
+      "gas:candidate-vibid:211200071297": 441,
+      "gas:candidate-vibid:1001000113897": 123,
+      "gas:candidate-vibid:211200070812": 238,
+      "gas:candidate-vibid:1001000121793": 133,
+      "gas:candidate-vibid:1001000135998": 45,
+      "gas:candidate-vibid:1001000261391": 14,
+      "gas:candidate-vibid:211200071366": 200,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 146,
-      "Бушуева Александра Васильевна": 30,
-      "Козлов Викентий Александрович": 78,
-      "Мусинов Леонид Алексеевич": 33,
-      "Незнанов Евгений Сергеевич": 19,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 71,
-      "Против всех": 87
+      "gas:candidate-vibid:211200071297": 146,
+      "gas:candidate-vibid:1001000113897": 30,
+      "gas:candidate-vibid:211200070812": 78,
+      "gas:candidate-vibid:1001000121793": 33,
+      "gas:candidate-vibid:1001000135998": 19,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 71,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 350,
-      "Бушуева Александра Васильевна": 102,
-      "Козлов Викентий Александрович": 184,
-      "Мусинов Леонид Алексеевич": 74,
-      "Незнанов Евгений Сергеевич": 32,
-      "Соботюк Павел Михайлович": 13,
-      "Спиридонов Юрий Алексеевич": 126,
-      "Против всех": 276
+      "gas:candidate-vibid:211200071297": 350,
+      "gas:candidate-vibid:1001000113897": 102,
+      "gas:candidate-vibid:211200070812": 184,
+      "gas:candidate-vibid:1001000121793": 74,
+      "gas:candidate-vibid:1001000135998": 32,
+      "gas:candidate-vibid:1001000261391": 13,
+      "gas:candidate-vibid:211200071366": 126,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 390,
-      "Бушуева Александра Васильевна": 150,
-      "Козлов Викентий Александрович": 206,
-      "Мусинов Леонид Алексеевич": 70,
-      "Незнанов Евгений Сергеевич": 45,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 167,
-      "Против всех": 245
+      "gas:candidate-vibid:211200071297": 390,
+      "gas:candidate-vibid:1001000113897": 150,
+      "gas:candidate-vibid:211200070812": 206,
+      "gas:candidate-vibid:1001000121793": 70,
+      "gas:candidate-vibid:1001000135998": 45,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 167,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 258,
-      "Бушуева Александра Васильевна": 78,
-      "Козлов Викентий Александрович": 189,
-      "Мусинов Леонид Алексеевич": 89,
-      "Незнанов Евгений Сергеевич": 18,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 111,
-      "Против всех": 178
+      "gas:candidate-vibid:211200071297": 258,
+      "gas:candidate-vibid:1001000113897": 78,
+      "gas:candidate-vibid:211200070812": 189,
+      "gas:candidate-vibid:1001000121793": 89,
+      "gas:candidate-vibid:1001000135998": 18,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 111,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 300,
-      "Бушуева Александра Васильевна": 68,
-      "Козлов Викентий Александрович": 138,
-      "Мусинов Леонид Алексеевич": 55,
-      "Незнанов Евгений Сергеевич": 31,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 95,
-      "Против всех": 240
+      "gas:candidate-vibid:211200071297": 300,
+      "gas:candidate-vibid:1001000113897": 68,
+      "gas:candidate-vibid:211200070812": 138,
+      "gas:candidate-vibid:1001000121793": 55,
+      "gas:candidate-vibid:1001000135998": 31,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 95,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 243,
-      "Бушуева Александра Васильевна": 68,
-      "Козлов Викентий Александрович": 147,
-      "Мусинов Леонид Алексеевич": 50,
-      "Незнанов Евгений Сергеевич": 36,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 126,
-      "Против всех": 206
+      "gas:candidate-vibid:211200071297": 243,
+      "gas:candidate-vibid:1001000113897": 68,
+      "gas:candidate-vibid:211200070812": 147,
+      "gas:candidate-vibid:1001000121793": 50,
+      "gas:candidate-vibid:1001000135998": 36,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 126,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 316,
-      "Бушуева Александра Васильевна": 95,
-      "Козлов Викентий Александрович": 220,
-      "Мусинов Леонид Алексеевич": 83,
-      "Незнанов Евгений Сергеевич": 35,
-      "Соботюк Павел Михайлович": 19,
-      "Спиридонов Юрий Алексеевич": 168,
-      "Против всех": 262
+      "gas:candidate-vibid:211200071297": 316,
+      "gas:candidate-vibid:1001000113897": 95,
+      "gas:candidate-vibid:211200070812": 220,
+      "gas:candidate-vibid:1001000121793": 83,
+      "gas:candidate-vibid:1001000135998": 35,
+      "gas:candidate-vibid:1001000261391": 19,
+      "gas:candidate-vibid:211200071366": 168,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 321,
-      "Бушуева Александра Васильевна": 71,
-      "Козлов Викентий Александрович": 171,
-      "Мусинов Леонид Алексеевич": 86,
-      "Незнанов Евгений Сергеевич": 30,
-      "Соботюк Павел Михайлович": 14,
-      "Спиридонов Юрий Алексеевич": 123,
-      "Против всех": 245
+      "gas:candidate-vibid:211200071297": 321,
+      "gas:candidate-vibid:1001000113897": 71,
+      "gas:candidate-vibid:211200070812": 171,
+      "gas:candidate-vibid:1001000121793": 86,
+      "gas:candidate-vibid:1001000135998": 30,
+      "gas:candidate-vibid:1001000261391": 14,
+      "gas:candidate-vibid:211200071366": 123,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 191,
-      "Бушуева Александра Васильевна": 54,
-      "Козлов Викентий Александрович": 110,
-      "Мусинов Леонид Алексеевич": 58,
-      "Незнанов Евгений Сергеевич": 8,
-      "Соботюк Павел Михайлович": 8,
-      "Спиридонов Юрий Алексеевич": 87,
-      "Против всех": 144
+      "gas:candidate-vibid:211200071297": 191,
+      "gas:candidate-vibid:1001000113897": 54,
+      "gas:candidate-vibid:211200070812": 110,
+      "gas:candidate-vibid:1001000121793": 58,
+      "gas:candidate-vibid:1001000135998": 8,
+      "gas:candidate-vibid:1001000261391": 8,
+      "gas:candidate-vibid:211200071366": 87,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 32,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 20,
-      "Мусинов Леонид Алексеевич": 12,
-      "Незнанов Евгений Сергеевич": 10,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 25,
-      "Против всех": 52
+      "gas:candidate-vibid:211200071297": 32,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 20,
+      "gas:candidate-vibid:1001000121793": 12,
+      "gas:candidate-vibid:1001000135998": 10,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 25,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 407,
-      "Бушуева Александра Васильевна": 133,
-      "Козлов Викентий Александрович": 319,
-      "Мусинов Леонид Алексеевич": 90,
-      "Незнанов Евгений Сергеевич": 34,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 176,
-      "Против всех": 389
+      "gas:candidate-vibid:211200071297": 407,
+      "gas:candidate-vibid:1001000113897": 133,
+      "gas:candidate-vibid:211200070812": 319,
+      "gas:candidate-vibid:1001000121793": 90,
+      "gas:candidate-vibid:1001000135998": 34,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 176,
+      "special:against-all": 389
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 114,
-      "Бушуева Александра Васильевна": 46,
-      "Козлов Викентий Александрович": 116,
-      "Мусинов Леонид Алексеевич": 55,
-      "Незнанов Евгений Сергеевич": 18,
-      "Соботюк Павел Михайлович": 8,
-      "Спиридонов Юрий Алексеевич": 62,
-      "Против всех": 130
+      "gas:candidate-vibid:211200071297": 114,
+      "gas:candidate-vibid:1001000113897": 46,
+      "gas:candidate-vibid:211200070812": 116,
+      "gas:candidate-vibid:1001000121793": 55,
+      "gas:candidate-vibid:1001000135998": 18,
+      "gas:candidate-vibid:1001000261391": 8,
+      "gas:candidate-vibid:211200071366": 62,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 231,
-      "Бушуева Александра Васильевна": 88,
-      "Козлов Викентий Александрович": 157,
-      "Мусинов Леонид Алексеевич": 54,
-      "Незнанов Евгений Сергеевич": 20,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 132,
-      "Против всех": 234
+      "gas:candidate-vibid:211200071297": 231,
+      "gas:candidate-vibid:1001000113897": 88,
+      "gas:candidate-vibid:211200070812": 157,
+      "gas:candidate-vibid:1001000121793": 54,
+      "gas:candidate-vibid:1001000135998": 20,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 132,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 316,
-      "Бушуева Александра Васильевна": 97,
-      "Козлов Викентий Александрович": 207,
-      "Мусинов Леонид Алексеевич": 81,
-      "Незнанов Евгений Сергеевич": 41,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 163,
-      "Против всех": 282
+      "gas:candidate-vibid:211200071297": 316,
+      "gas:candidate-vibid:1001000113897": 97,
+      "gas:candidate-vibid:211200070812": 207,
+      "gas:candidate-vibid:1001000121793": 81,
+      "gas:candidate-vibid:1001000135998": 41,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 163,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 371,
-      "Бушуева Александра Васильевна": 88,
-      "Козлов Викентий Александрович": 198,
-      "Мусинов Леонид Алексеевич": 63,
-      "Незнанов Евгений Сергеевич": 41,
-      "Соботюк Павел Михайлович": 17,
-      "Спиридонов Юрий Алексеевич": 165,
-      "Против всех": 371
+      "gas:candidate-vibid:211200071297": 371,
+      "gas:candidate-vibid:1001000113897": 88,
+      "gas:candidate-vibid:211200070812": 198,
+      "gas:candidate-vibid:1001000121793": 63,
+      "gas:candidate-vibid:1001000135998": 41,
+      "gas:candidate-vibid:1001000261391": 17,
+      "gas:candidate-vibid:211200071366": 165,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 240,
-      "Бушуева Александра Васильевна": 75,
-      "Козлов Викентий Александрович": 147,
-      "Мусинов Леонид Алексеевич": 51,
-      "Незнанов Евгений Сергеевич": 29,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 130,
-      "Против всех": 276
+      "gas:candidate-vibid:211200071297": 240,
+      "gas:candidate-vibid:1001000113897": 75,
+      "gas:candidate-vibid:211200070812": 147,
+      "gas:candidate-vibid:1001000121793": 51,
+      "gas:candidate-vibid:1001000135998": 29,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 130,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 209,
-      "Бушуева Александра Васильевна": 43,
-      "Козлов Викентий Александрович": 86,
-      "Мусинов Леонид Алексеевич": 39,
-      "Незнанов Евгений Сергеевич": 17,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 90,
-      "Против всех": 176
+      "gas:candidate-vibid:211200071297": 209,
+      "gas:candidate-vibid:1001000113897": 43,
+      "gas:candidate-vibid:211200070812": 86,
+      "gas:candidate-vibid:1001000121793": 39,
+      "gas:candidate-vibid:1001000135998": 17,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 90,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 445,
-      "Бушуева Александра Васильевна": 134,
-      "Козлов Викентий Александрович": 278,
-      "Мусинов Леонид Алексеевич": 121,
-      "Незнанов Евгений Сергеевич": 37,
-      "Соботюк Павел Михайлович": 25,
-      "Спиридонов Юрий Алексеевич": 226,
-      "Против всех": 394
+      "gas:candidate-vibid:211200071297": 445,
+      "gas:candidate-vibid:1001000113897": 134,
+      "gas:candidate-vibid:211200070812": 278,
+      "gas:candidate-vibid:1001000121793": 121,
+      "gas:candidate-vibid:1001000135998": 37,
+      "gas:candidate-vibid:1001000261391": 25,
+      "gas:candidate-vibid:211200071366": 226,
+      "special:against-all": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 249,
-      "Бушуева Александра Васильевна": 65,
-      "Козлов Викентий Александрович": 164,
-      "Мусинов Леонид Алексеевич": 65,
-      "Незнанов Евгений Сергеевич": 34,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 133,
-      "Против всех": 301
+      "gas:candidate-vibid:211200071297": 249,
+      "gas:candidate-vibid:1001000113897": 65,
+      "gas:candidate-vibid:211200070812": 164,
+      "gas:candidate-vibid:1001000121793": 65,
+      "gas:candidate-vibid:1001000135998": 34,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 133,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 337,
-      "Бушуева Александра Васильевна": 118,
-      "Козлов Викентий Александрович": 215,
-      "Мусинов Леонид Алексеевич": 79,
-      "Незнанов Евгений Сергеевич": 47,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 153,
-      "Против всех": 371
+      "gas:candidate-vibid:211200071297": 337,
+      "gas:candidate-vibid:1001000113897": 118,
+      "gas:candidate-vibid:211200070812": 215,
+      "gas:candidate-vibid:1001000121793": 79,
+      "gas:candidate-vibid:1001000135998": 47,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 153,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 511,
-      "Бушуева Александра Васильевна": 96,
-      "Козлов Викентий Александрович": 314,
-      "Мусинов Леонид Алексеевич": 93,
-      "Незнанов Евгений Сергеевич": 36,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 241,
-      "Против всех": 307
+      "gas:candidate-vibid:211200071297": 511,
+      "gas:candidate-vibid:1001000113897": 96,
+      "gas:candidate-vibid:211200070812": 314,
+      "gas:candidate-vibid:1001000121793": 93,
+      "gas:candidate-vibid:1001000135998": 36,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 241,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 163,
-      "Бушуева Александра Васильевна": 21,
-      "Козлов Викентий Александрович": 69,
-      "Мусинов Леонид Алексеевич": 13,
-      "Незнанов Евгений Сергеевич": 16,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 28,
-      "Против всех": 118
+      "gas:candidate-vibid:211200071297": 163,
+      "gas:candidate-vibid:1001000113897": 21,
+      "gas:candidate-vibid:211200070812": 69,
+      "gas:candidate-vibid:1001000121793": 13,
+      "gas:candidate-vibid:1001000135998": 16,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 28,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 42,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 106,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 36,
-      "Против всех": 16
+      "gas:candidate-vibid:211200071297": 42,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 106,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 36,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 94,
-      "Бушуева Александра Васильевна": 62,
-      "Козлов Викентий Александрович": 262,
-      "Мусинов Леонид Алексеевич": 85,
-      "Незнанов Евгений Сергеевич": 26,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 158,
-      "Против всех": 249
+      "gas:candidate-vibid:211200071297": 94,
+      "gas:candidate-vibid:1001000113897": 62,
+      "gas:candidate-vibid:211200070812": 262,
+      "gas:candidate-vibid:1001000121793": 85,
+      "gas:candidate-vibid:1001000135998": 26,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 158,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 114,
-      "Бушуева Александра Васильевна": 62,
-      "Козлов Викентий Александрович": 267,
-      "Мусинов Леонид Алексеевич": 105,
-      "Незнанов Евгений Сергеевич": 19,
-      "Соботюк Павел Михайлович": 13,
-      "Спиридонов Юрий Алексеевич": 205,
-      "Против всех": 294
+      "gas:candidate-vibid:211200071297": 114,
+      "gas:candidate-vibid:1001000113897": 62,
+      "gas:candidate-vibid:211200070812": 267,
+      "gas:candidate-vibid:1001000121793": 105,
+      "gas:candidate-vibid:1001000135998": 19,
+      "gas:candidate-vibid:1001000261391": 13,
+      "gas:candidate-vibid:211200071366": 205,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 67,
-      "Бушуева Александра Васильевна": 25,
-      "Козлов Викентий Александрович": 434,
-      "Мусинов Леонид Алексеевич": 139,
-      "Незнанов Евгений Сергеевич": 19,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 90,
-      "Против всех": 97
+      "gas:candidate-vibid:211200071297": 67,
+      "gas:candidate-vibid:1001000113897": 25,
+      "gas:candidate-vibid:211200070812": 434,
+      "gas:candidate-vibid:1001000121793": 139,
+      "gas:candidate-vibid:1001000135998": 19,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 90,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 44,
-      "Мусинов Леонид Алексеевич": 10,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 14,
-      "Против всех": 11
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 44,
+      "gas:candidate-vibid:1001000121793": 10,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 14,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 144,
-      "Бушуева Александра Васильевна": 64,
-      "Козлов Викентий Александрович": 295,
-      "Мусинов Леонид Алексеевич": 88,
-      "Незнанов Евгений Сергеевич": 22,
-      "Соботюк Павел Михайлович": 8,
-      "Спиридонов Юрий Алексеевич": 268,
-      "Против всех": 341
+      "gas:candidate-vibid:211200071297": 144,
+      "gas:candidate-vibid:1001000113897": 64,
+      "gas:candidate-vibid:211200070812": 295,
+      "gas:candidate-vibid:1001000121793": 88,
+      "gas:candidate-vibid:1001000135998": 22,
+      "gas:candidate-vibid:1001000261391": 8,
+      "gas:candidate-vibid:211200071366": 268,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 69,
-      "Бушуева Александра Васильевна": 30,
-      "Козлов Викентий Александрович": 180,
-      "Мусинов Леонид Алексеевич": 45,
-      "Незнанов Евгений Сергеевич": 9,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 96,
-      "Против всех": 128
+      "gas:candidate-vibid:211200071297": 69,
+      "gas:candidate-vibid:1001000113897": 30,
+      "gas:candidate-vibid:211200070812": 180,
+      "gas:candidate-vibid:1001000121793": 45,
+      "gas:candidate-vibid:1001000135998": 9,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 96,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 236,
-      "Бушуева Александра Васильевна": 82,
-      "Козлов Викентий Александрович": 388,
-      "Мусинов Леонид Алексеевич": 95,
-      "Незнанов Евгений Сергеевич": 34,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 252,
-      "Против всех": 286
+      "gas:candidate-vibid:211200071297": 236,
+      "gas:candidate-vibid:1001000113897": 82,
+      "gas:candidate-vibid:211200070812": 388,
+      "gas:candidate-vibid:1001000121793": 95,
+      "gas:candidate-vibid:1001000135998": 34,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 252,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 15,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 12,
-      "Мусинов Леонид Алексеевич": 2,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 13,
-      "Против всех": 21
+      "gas:candidate-vibid:211200071297": 15,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 12,
+      "gas:candidate-vibid:1001000121793": 2,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 13,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 178,
-      "Бушуева Александра Васильевна": 56,
-      "Козлов Викентий Александрович": 338,
-      "Мусинов Леонид Алексеевич": 58,
-      "Незнанов Евгений Сергеевич": 23,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 191,
-      "Против всех": 279
+      "gas:candidate-vibid:211200071297": 178,
+      "gas:candidate-vibid:1001000113897": 56,
+      "gas:candidate-vibid:211200070812": 338,
+      "gas:candidate-vibid:1001000121793": 58,
+      "gas:candidate-vibid:1001000135998": 23,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 191,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 191,
-      "Бушуева Александра Васильевна": 55,
-      "Козлов Викентий Александрович": 325,
-      "Мусинов Леонид Алексеевич": 92,
-      "Незнанов Евгений Сергеевич": 14,
-      "Соботюк Павел Михайлович": 14,
-      "Спиридонов Юрий Алексеевич": 220,
-      "Против всех": 333
+      "gas:candidate-vibid:211200071297": 191,
+      "gas:candidate-vibid:1001000113897": 55,
+      "gas:candidate-vibid:211200070812": 325,
+      "gas:candidate-vibid:1001000121793": 92,
+      "gas:candidate-vibid:1001000135998": 14,
+      "gas:candidate-vibid:1001000261391": 14,
+      "gas:candidate-vibid:211200071366": 220,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070608&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 12,
-      "Бушуева Александра Васильевна": 27,
-      "Козлов Викентий Александрович": 199,
-      "Мусинов Леонид Алексеевич": 34,
-      "Незнанов Евгений Сергеевич": 13,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 106,
-      "Против всех": 49
+      "gas:candidate-vibid:211200071297": 12,
+      "gas:candidate-vibid:1001000113897": 27,
+      "gas:candidate-vibid:211200070812": 199,
+      "gas:candidate-vibid:1001000121793": 34,
+      "gas:candidate-vibid:1001000135998": 13,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 106,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 12,
-      "Козлов Викентий Александрович": 87,
-      "Мусинов Леонид Алексеевич": 5,
-      "Незнанов Евгений Сергеевич": 12,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 61,
-      "Против всех": 47
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 12,
+      "gas:candidate-vibid:211200070812": 87,
+      "gas:candidate-vibid:1001000121793": 5,
+      "gas:candidate-vibid:1001000135998": 12,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 61,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 7,
-      "Бушуева Александра Васильевна": 20,
-      "Козлов Викентий Александрович": 153,
-      "Мусинов Леонид Алексеевич": 21,
-      "Незнанов Евгений Сергеевич": 11,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 53,
-      "Против всех": 48
+      "gas:candidate-vibid:211200071297": 7,
+      "gas:candidate-vibid:1001000113897": 20,
+      "gas:candidate-vibid:211200070812": 153,
+      "gas:candidate-vibid:1001000121793": 21,
+      "gas:candidate-vibid:1001000135998": 11,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 53,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 61,
-      "Мусинов Леонид Алексеевич": 19,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 61,
+      "gas:candidate-vibid:1001000121793": 19,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 17,
-      "Бушуева Александра Васильевна": 37,
-      "Козлов Викентий Александрович": 254,
-      "Мусинов Леонид Алексеевич": 92,
-      "Незнанов Евгений Сергеевич": 14,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 139,
-      "Против всех": 99
+      "gas:candidate-vibid:211200071297": 17,
+      "gas:candidate-vibid:1001000113897": 37,
+      "gas:candidate-vibid:211200070812": 254,
+      "gas:candidate-vibid:1001000121793": 92,
+      "gas:candidate-vibid:1001000135998": 14,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 139,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 36,
-      "Бушуева Александра Васильевна": 70,
-      "Козлов Викентий Александрович": 470,
-      "Мусинов Леонид Алексеевич": 94,
-      "Незнанов Евгений Сергеевич": 39,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 242,
-      "Против всех": 210
+      "gas:candidate-vibid:211200071297": 36,
+      "gas:candidate-vibid:1001000113897": 70,
+      "gas:candidate-vibid:211200070812": 470,
+      "gas:candidate-vibid:1001000121793": 94,
+      "gas:candidate-vibid:1001000135998": 39,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 242,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 40,
-      "Бушуева Александра Васильевна": 127,
-      "Козлов Викентий Александрович": 521,
-      "Мусинов Леонид Алексеевич": 127,
-      "Незнанов Евгений Сергеевич": 42,
-      "Соботюк Павел Михайлович": 14,
-      "Спиридонов Юрий Алексеевич": 265,
-      "Против всех": 259
+      "gas:candidate-vibid:211200071297": 40,
+      "gas:candidate-vibid:1001000113897": 127,
+      "gas:candidate-vibid:211200070812": 521,
+      "gas:candidate-vibid:1001000121793": 127,
+      "gas:candidate-vibid:1001000135998": 42,
+      "gas:candidate-vibid:1001000261391": 14,
+      "gas:candidate-vibid:211200071366": 265,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 35,
-      "Бушуева Александра Васильевна": 59,
-      "Козлов Викентий Александрович": 334,
-      "Мусинов Леонид Алексеевич": 69,
-      "Незнанов Евгений Сергеевич": 45,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 143,
-      "Против всех": 147
+      "gas:candidate-vibid:211200071297": 35,
+      "gas:candidate-vibid:1001000113897": 59,
+      "gas:candidate-vibid:211200070812": 334,
+      "gas:candidate-vibid:1001000121793": 69,
+      "gas:candidate-vibid:1001000135998": 45,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 143,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 12,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 104,
-      "Мусинов Леонид Алексеевич": 41,
-      "Незнанов Евгений Сергеевич": 9,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 24,
-      "Против всех": 29
+      "gas:candidate-vibid:211200071297": 12,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 104,
+      "gas:candidate-vibid:1001000121793": 41,
+      "gas:candidate-vibid:1001000135998": 9,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 24,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 5,
-      "Козлов Викентий Александрович": 32,
-      "Мусинов Леонид Алексеевич": 14,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 13,
-      "Против всех": 6
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 5,
+      "gas:candidate-vibid:211200070812": 32,
+      "gas:candidate-vibid:1001000121793": 14,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 13,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 111,
-      "Мусинов Леонид Алексеевич": 32,
-      "Незнанов Евгений Сергеевич": 9,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 57,
-      "Против всех": 18
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 111,
+      "gas:candidate-vibid:1001000121793": 32,
+      "gas:candidate-vibid:1001000135998": 9,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 57,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 29,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 16,
-      "Против всех": 3
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 29,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 16,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 49,
-      "Бушуева Александра Васильевна": 78,
-      "Козлов Викентий Александрович": 657,
-      "Мусинов Леонид Алексеевич": 149,
-      "Незнанов Евгений Сергеевич": 48,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 420,
-      "Против всех": 200
+      "gas:candidate-vibid:211200071297": 49,
+      "gas:candidate-vibid:1001000113897": 78,
+      "gas:candidate-vibid:211200070812": 657,
+      "gas:candidate-vibid:1001000121793": 149,
+      "gas:candidate-vibid:1001000135998": 48,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 420,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 65,
-      "Мусинов Леонид Алексеевич": 14,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 66,
-      "Против всех": 18
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 65,
+      "gas:candidate-vibid:1001000121793": 14,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 66,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 14,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 128,
-      "Мусинов Леонид Алексеевич": 52,
-      "Незнанов Евгений Сергеевич": 10,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 154,
-      "Против всех": 38
+      "gas:candidate-vibid:211200071297": 14,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 128,
+      "gas:candidate-vibid:1001000121793": 52,
+      "gas:candidate-vibid:1001000135998": 10,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 154,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 113,
-      "Мусинов Леонид Алексеевич": 28,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 125,
-      "Против всех": 30
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 113,
+      "gas:candidate-vibid:1001000121793": 28,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 125,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 40,
-      "Мусинов Леонид Алексеевич": 8,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 8,
-      "Против всех": 6
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 40,
+      "gas:candidate-vibid:1001000121793": 8,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 8,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 96,
-      "Мусинов Леонид Алексеевич": 17,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 26,
-      "Против всех": 10
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 96,
+      "gas:candidate-vibid:1001000121793": 17,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 26,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 13,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 74,
-      "Мусинов Леонид Алексеевич": 38,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 15,
-      "Против всех": 16
+      "gas:candidate-vibid:211200071297": 13,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 74,
+      "gas:candidate-vibid:1001000121793": 38,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 15,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 61,
-      "Мусинов Леонид Алексеевич": 14,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 20,
-      "Против всех": 4
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 61,
+      "gas:candidate-vibid:1001000121793": 14,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 20,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 66,
-      "Мусинов Леонид Алексеевич": 19,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 19,
-      "Против всех": 3
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 66,
+      "gas:candidate-vibid:1001000121793": 19,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 19,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 40,
-      "Бушуева Александра Васильевна": 42,
-      "Козлов Викентий Александрович": 141,
-      "Мусинов Леонид Алексеевич": 34,
-      "Незнанов Евгений Сергеевич": 16,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 202,
-      "Против всех": 85
+      "gas:candidate-vibid:211200071297": 40,
+      "gas:candidate-vibid:1001000113897": 42,
+      "gas:candidate-vibid:211200070812": 141,
+      "gas:candidate-vibid:1001000121793": 34,
+      "gas:candidate-vibid:1001000135998": 16,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 202,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 31,
-      "Бушуева Александра Васильевна": 49,
-      "Козлов Викентий Александрович": 257,
-      "Мусинов Леонид Алексеевич": 69,
-      "Незнанов Евгений Сергеевич": 15,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 295,
-      "Против всех": 133
+      "gas:candidate-vibid:211200071297": 31,
+      "gas:candidate-vibid:1001000113897": 49,
+      "gas:candidate-vibid:211200070812": 257,
+      "gas:candidate-vibid:1001000121793": 69,
+      "gas:candidate-vibid:1001000135998": 15,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 295,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 57,
-      "Бушуева Александра Васильевна": 99,
-      "Козлов Викентий Александрович": 438,
-      "Мусинов Леонид Алексеевич": 111,
-      "Незнанов Евгений Сергеевич": 28,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 545,
-      "Против всех": 186
+      "gas:candidate-vibid:211200071297": 57,
+      "gas:candidate-vibid:1001000113897": 99,
+      "gas:candidate-vibid:211200070812": 438,
+      "gas:candidate-vibid:1001000121793": 111,
+      "gas:candidate-vibid:1001000135998": 28,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 545,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 80,
-      "Бушуева Александра Васильевна": 54,
-      "Козлов Викентий Александрович": 187,
-      "Мусинов Леонид Алексеевич": 52,
-      "Незнанов Евгений Сергеевич": 15,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 264,
-      "Против всех": 129
+      "gas:candidate-vibid:211200071297": 80,
+      "gas:candidate-vibid:1001000113897": 54,
+      "gas:candidate-vibid:211200070812": 187,
+      "gas:candidate-vibid:1001000121793": 52,
+      "gas:candidate-vibid:1001000135998": 15,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 264,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 21,
-      "Бушуева Александра Васильевна": 37,
-      "Козлов Викентий Александрович": 116,
-      "Мусинов Леонид Алексеевич": 31,
-      "Незнанов Евгений Сергеевич": 13,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 207,
-      "Против всех": 93
+      "gas:candidate-vibid:211200071297": 21,
+      "gas:candidate-vibid:1001000113897": 37,
+      "gas:candidate-vibid:211200070812": 116,
+      "gas:candidate-vibid:1001000121793": 31,
+      "gas:candidate-vibid:1001000135998": 13,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 207,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 45,
-      "Мусинов Леонид Алексеевич": 13,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 139,
-      "Против всех": 22
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 45,
+      "gas:candidate-vibid:1001000121793": 13,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 139,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070609&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 42,
-      "Мусинов Леонид Алексеевич": 29,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 66,
-      "Против всех": 14
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 42,
+      "gas:candidate-vibid:1001000121793": 29,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 66,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 12,
-      "Бушуева Александра Васильевна": 5,
-      "Козлов Викентий Александрович": 133,
-      "Мусинов Леонид Алексеевич": 28,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 181,
-      "Против всех": 13
+      "gas:candidate-vibid:211200071297": 12,
+      "gas:candidate-vibid:1001000113897": 5,
+      "gas:candidate-vibid:211200070812": 133,
+      "gas:candidate-vibid:1001000121793": 28,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 181,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 122,
-      "Мусинов Леонид Алексеевич": 18,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 97,
-      "Против всех": 16
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 122,
+      "gas:candidate-vibid:1001000121793": 18,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 97,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 13,
-      "Козлов Викентий Александрович": 51,
-      "Мусинов Леонид Алексеевич": 31,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 68,
-      "Против всех": 21
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 13,
+      "gas:candidate-vibid:211200070812": 51,
+      "gas:candidate-vibid:1001000121793": 31,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 68,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 7,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 112,
-      "Мусинов Леонид Алексеевич": 8,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 44,
-      "Против всех": 26
+      "gas:candidate-vibid:211200071297": 7,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 112,
+      "gas:candidate-vibid:1001000121793": 8,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 44,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 71,
-      "Мусинов Леонид Алексеевич": 12,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 85,
-      "Против всех": 28
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 71,
+      "gas:candidate-vibid:1001000121793": 12,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 85,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 15,
-      "Бушуева Александра Васильевна": 19,
-      "Козлов Викентий Александрович": 222,
-      "Мусинов Леонид Алексеевич": 19,
-      "Незнанов Евгений Сергеевич": 18,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 248,
-      "Против всех": 60
+      "gas:candidate-vibid:211200071297": 15,
+      "gas:candidate-vibid:1001000113897": 19,
+      "gas:candidate-vibid:211200070812": 222,
+      "gas:candidate-vibid:1001000121793": 19,
+      "gas:candidate-vibid:1001000135998": 18,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 248,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 5,
-      "Козлов Викентий Александрович": 61,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 61,
-      "Против всех": 13
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 5,
+      "gas:candidate-vibid:211200070812": 61,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 61,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 25,
-      "Мусинов Леонид Алексеевич": 5,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 172,
-      "Против всех": 13
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 25,
+      "gas:candidate-vibid:1001000121793": 5,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 172,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 17,
-      "Бушуева Александра Васильевна": 33,
-      "Козлов Викентий Александрович": 309,
-      "Мусинов Леонид Алексеевич": 61,
-      "Незнанов Евгений Сергеевич": 6,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 269,
-      "Против всех": 107
+      "gas:candidate-vibid:211200071297": 17,
+      "gas:candidate-vibid:1001000113897": 33,
+      "gas:candidate-vibid:211200070812": 309,
+      "gas:candidate-vibid:1001000121793": 61,
+      "gas:candidate-vibid:1001000135998": 6,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 269,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 22,
-      "Козлов Викентий Александрович": 176,
-      "Мусинов Леонид Алексеевич": 42,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 147,
-      "Против всех": 61
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 22,
+      "gas:candidate-vibid:211200070812": 176,
+      "gas:candidate-vibid:1001000121793": 42,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 147,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 12,
-      "Бушуева Александра Васильевна": 21,
-      "Козлов Викентий Александрович": 168,
-      "Мусинов Леонид Алексеевич": 36,
-      "Незнанов Евгений Сергеевич": 13,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 140,
-      "Против всех": 58
+      "gas:candidate-vibid:211200071297": 12,
+      "gas:candidate-vibid:1001000113897": 21,
+      "gas:candidate-vibid:211200070812": 168,
+      "gas:candidate-vibid:1001000121793": 36,
+      "gas:candidate-vibid:1001000135998": 13,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 140,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 24,
-      "Бушуева Александра Васильевна": 16,
-      "Козлов Викентий Александрович": 217,
-      "Мусинов Леонид Алексеевич": 27,
-      "Незнанов Евгений Сергеевич": 6,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 149,
-      "Против всех": 57
+      "gas:candidate-vibid:211200071297": 24,
+      "gas:candidate-vibid:1001000113897": 16,
+      "gas:candidate-vibid:211200070812": 217,
+      "gas:candidate-vibid:1001000121793": 27,
+      "gas:candidate-vibid:1001000135998": 6,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 149,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 9,
-      "Бушуева Александра Васильевна": 44,
-      "Козлов Викентий Александрович": 211,
-      "Мусинов Леонид Алексеевич": 16,
-      "Незнанов Евгений Сергеевич": 6,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 291,
-      "Против всех": 67
+      "gas:candidate-vibid:211200071297": 9,
+      "gas:candidate-vibid:1001000113897": 44,
+      "gas:candidate-vibid:211200070812": 211,
+      "gas:candidate-vibid:1001000121793": 16,
+      "gas:candidate-vibid:1001000135998": 6,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 291,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 17,
-      "Козлов Викентий Александрович": 53,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 42,
-      "Против всех": 18
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 17,
+      "gas:candidate-vibid:211200070812": 53,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 42,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 10,
-      "Козлов Викентий Александрович": 111,
-      "Мусинов Леонид Алексеевич": 19,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 70,
-      "Против всех": 14
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 10,
+      "gas:candidate-vibid:211200070812": 111,
+      "gas:candidate-vibid:1001000121793": 19,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 70,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 43,
-      "Мусинов Леонид Алексеевич": 2,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 73,
-      "Против всех": 2
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 43,
+      "gas:candidate-vibid:1001000121793": 2,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 73,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 53,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 43,
-      "Против всех": 10
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 53,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 43,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 17,
-      "Бушуева Александра Васильевна": 40,
-      "Козлов Викентий Александрович": 238,
-      "Мусинов Леонид Алексеевич": 24,
-      "Незнанов Евгений Сергеевич": 16,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 251,
-      "Против всех": 58
+      "gas:candidate-vibid:211200071297": 17,
+      "gas:candidate-vibid:1001000113897": 40,
+      "gas:candidate-vibid:211200070812": 238,
+      "gas:candidate-vibid:1001000121793": 24,
+      "gas:candidate-vibid:1001000135998": 16,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 251,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 65,
-      "Мусинов Леонид Алексеевич": 1,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 85,
-      "Против всех": 16
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 65,
+      "gas:candidate-vibid:1001000121793": 1,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 85,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 13,
-      "Козлов Викентий Александрович": 154,
-      "Мусинов Леонид Алексеевич": 5,
-      "Незнанов Евгений Сергеевич": 9,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 72,
-      "Против всех": 38
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 13,
+      "gas:candidate-vibid:211200070812": 154,
+      "gas:candidate-vibid:1001000121793": 5,
+      "gas:candidate-vibid:1001000135998": 9,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 72,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 126,
-      "Мусинов Леонид Алексеевич": 21,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 166,
-      "Против всех": 24
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 126,
+      "gas:candidate-vibid:1001000121793": 21,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 166,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 21,
-      "Мусинов Леонид Алексеевич": 0,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 35,
-      "Против всех": 16
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 21,
+      "gas:candidate-vibid:1001000121793": 0,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 35,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 28,
-      "Мусинов Леонид Алексеевич": 3,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 28,
+      "gas:candidate-vibid:1001000121793": 3,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 5,
-      "Козлов Викентий Александрович": 48,
-      "Мусинов Леонид Алексеевич": 2,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 25,
-      "Против всех": 11
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 5,
+      "gas:candidate-vibid:211200070812": 48,
+      "gas:candidate-vibid:1001000121793": 2,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 25,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 26,
-      "Мусинов Леонид Алексеевич": 2,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 14,
-      "Против всех": 1
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 26,
+      "gas:candidate-vibid:1001000121793": 2,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 14,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 108,
-      "Мусинов Леонид Алексеевич": 2,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 50,
-      "Против всех": 14
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 108,
+      "gas:candidate-vibid:1001000121793": 2,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 50,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 174,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 64,
-      "Против всех": 20
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 174,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 64,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 13,
-      "Козлов Викентий Александрович": 106,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 71,
-      "Против всех": 8
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 13,
+      "gas:candidate-vibid:211200070812": 106,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 71,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 19,
-      "Бушуева Александра Васильевна": 19,
-      "Козлов Викентий Александрович": 162,
-      "Мусинов Леонид Алексеевич": 32,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 164,
-      "Против всех": 46
+      "gas:candidate-vibid:211200071297": 19,
+      "gas:candidate-vibid:1001000113897": 19,
+      "gas:candidate-vibid:211200070812": 162,
+      "gas:candidate-vibid:1001000121793": 32,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 164,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 99,
-      "Мусинов Леонид Алексеевич": 26,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 104,
-      "Против всех": 28
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 99,
+      "gas:candidate-vibid:1001000121793": 26,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 104,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 22,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 66,
-      "Мусинов Леонид Алексеевич": 8,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 40,
-      "Против всех": 23
+      "gas:candidate-vibid:211200071297": 22,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 66,
+      "gas:candidate-vibid:1001000121793": 8,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 40,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 9,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 85,
-      "Мусинов Леонид Алексеевич": 22,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 29,
-      "Против всех": 34
+      "gas:candidate-vibid:211200071297": 9,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 85,
+      "gas:candidate-vibid:1001000121793": 22,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 29,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 71,
-      "Мусинов Леонид Алексеевич": 5,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 17,
-      "Против всех": 2
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 71,
+      "gas:candidate-vibid:1001000121793": 5,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 17,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 36,
-      "Бушуева Александра Васильевна": 21,
-      "Козлов Викентий Александрович": 86,
-      "Мусинов Леонид Алексеевич": 25,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 84,
-      "Против всех": 36
+      "gas:candidate-vibid:211200071297": 36,
+      "gas:candidate-vibid:1001000113897": 21,
+      "gas:candidate-vibid:211200070812": 86,
+      "gas:candidate-vibid:1001000121793": 25,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 84,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 38,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 114,
-      "Мусинов Леонид Алексеевич": 24,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 84,
-      "Против всех": 36
+      "gas:candidate-vibid:211200071297": 38,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 114,
+      "gas:candidate-vibid:1001000121793": 24,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 84,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 30,
-      "Бушуева Александра Васильевна": 0,
-      "Козлов Викентий Александрович": 42,
-      "Мусинов Леонид Алексеевич": 14,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 49,
-      "Против всех": 10
+      "gas:candidate-vibid:211200071297": 30,
+      "gas:candidate-vibid:1001000113897": 0,
+      "gas:candidate-vibid:211200070812": 42,
+      "gas:candidate-vibid:1001000121793": 14,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 49,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 38,
-      "Бушуева Александра Васильевна": 44,
-      "Козлов Викентий Александрович": 222,
-      "Мусинов Леонид Алексеевич": 71,
-      "Незнанов Евгений Сергеевич": 14,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 193,
-      "Против всех": 98
+      "gas:candidate-vibid:211200071297": 38,
+      "gas:candidate-vibid:1001000113897": 44,
+      "gas:candidate-vibid:211200070812": 222,
+      "gas:candidate-vibid:1001000121793": 71,
+      "gas:candidate-vibid:1001000135998": 14,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 193,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 80,
-      "Мусинов Леонид Алексеевич": 40,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 73,
-      "Против всех": 24
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 80,
+      "gas:candidate-vibid:1001000121793": 40,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 73,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 10,
-      "Козлов Викентий Александрович": 129,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 75,
-      "Против всех": 20
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 10,
+      "gas:candidate-vibid:211200070812": 129,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 75,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 18,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 59,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 25,
-      "Против всех": 14
+      "gas:candidate-vibid:211200071297": 18,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 59,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 25,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 12,
-      "Козлов Викентий Александрович": 73,
-      "Мусинов Леонид Алексеевич": 15,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 35,
-      "Против всех": 35
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 12,
+      "gas:candidate-vibid:211200070812": 73,
+      "gas:candidate-vibid:1001000121793": 15,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 35,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 5,
-      "Козлов Викентий Александрович": 59,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 61,
-      "Против всех": 19
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 5,
+      "gas:candidate-vibid:211200070812": 59,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 61,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070610&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 29,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 61,
-      "Мусинов Леонид Алексеевич": 8,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 24,
-      "Против всех": 21
+      "gas:candidate-vibid:211200071297": 29,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 61,
+      "gas:candidate-vibid:1001000121793": 8,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 24,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 22,
-      "Бушуева Александра Васильевна": 11,
-      "Козлов Викентий Александрович": 111,
-      "Мусинов Леонид Алексеевич": 13,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 201,
-      "Против всех": 26
+      "gas:candidate-vibid:211200071297": 22,
+      "gas:candidate-vibid:1001000113897": 11,
+      "gas:candidate-vibid:211200070812": 111,
+      "gas:candidate-vibid:1001000121793": 13,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 201,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 24,
-      "Бушуева Александра Васильевна": 10,
-      "Козлов Викентий Александрович": 108,
-      "Мусинов Леонид Алексеевич": 19,
-      "Незнанов Евгений Сергеевич": 6,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 121,
-      "Против всех": 35
+      "gas:candidate-vibid:211200071297": 24,
+      "gas:candidate-vibid:1001000113897": 10,
+      "gas:candidate-vibid:211200070812": 108,
+      "gas:candidate-vibid:1001000121793": 19,
+      "gas:candidate-vibid:1001000135998": 6,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 121,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 65,
-      "Бушуева Александра Васильевна": 31,
-      "Козлов Викентий Александрович": 429,
-      "Мусинов Леонид Алексеевич": 67,
-      "Незнанов Евгений Сергеевич": 15,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 465,
-      "Против всех": 163
+      "gas:candidate-vibid:211200071297": 65,
+      "gas:candidate-vibid:1001000113897": 31,
+      "gas:candidate-vibid:211200070812": 429,
+      "gas:candidate-vibid:1001000121793": 67,
+      "gas:candidate-vibid:1001000135998": 15,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 465,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 49,
-      "Бушуева Александра Васильевна": 24,
-      "Козлов Викентий Александрович": 348,
-      "Мусинов Леонид Алексеевич": 45,
-      "Незнанов Евгений Сергеевич": 10,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 254,
-      "Против всех": 95
+      "gas:candidate-vibid:211200071297": 49,
+      "gas:candidate-vibid:1001000113897": 24,
+      "gas:candidate-vibid:211200070812": 348,
+      "gas:candidate-vibid:1001000121793": 45,
+      "gas:candidate-vibid:1001000135998": 10,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 254,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 0,
-      "Козлов Викентий Александрович": 55,
-      "Мусинов Леонид Алексеевич": 10,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 28,
-      "Против всех": 3
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 0,
+      "gas:candidate-vibid:211200070812": 55,
+      "gas:candidate-vibid:1001000121793": 10,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 28,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 87,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 55,
-      "Против всех": 19
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 87,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 55,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 17,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 125,
-      "Мусинов Леонид Алексеевич": 3,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 50,
-      "Против всех": 39
+      "gas:candidate-vibid:211200071297": 17,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 125,
+      "gas:candidate-vibid:1001000121793": 3,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 50,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 32,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 199,
-      "Мусинов Леонид Алексеевич": 20,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 105,
-      "Против всех": 39
+      "gas:candidate-vibid:211200071297": 32,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 199,
+      "gas:candidate-vibid:1001000121793": 20,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 105,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 19,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 44,
-      "Мусинов Леонид Алексеевич": 10,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 126,
-      "Против всех": 25
+      "gas:candidate-vibid:211200071297": 19,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 44,
+      "gas:candidate-vibid:1001000121793": 10,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 126,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 87,
-      "Бушуева Александра Васильевна": 12,
-      "Козлов Викентий Александрович": 59,
-      "Мусинов Леонид Алексеевич": 46,
-      "Незнанов Евгений Сергеевич": 12,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 29,
-      "Против всех": 30
+      "gas:candidate-vibid:211200071297": 87,
+      "gas:candidate-vibid:1001000113897": 12,
+      "gas:candidate-vibid:211200070812": 59,
+      "gas:candidate-vibid:1001000121793": 46,
+      "gas:candidate-vibid:1001000135998": 12,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 29,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 33,
-      "Бушуева Александра Васильевна": 11,
-      "Козлов Викентий Александрович": 175,
-      "Мусинов Леонид Алексеевич": 34,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 64,
-      "Против всех": 31
+      "gas:candidate-vibid:211200071297": 33,
+      "gas:candidate-vibid:1001000113897": 11,
+      "gas:candidate-vibid:211200070812": 175,
+      "gas:candidate-vibid:1001000121793": 34,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 64,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 11,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 54,
-      "Мусинов Леонид Алексеевич": 17,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 26,
-      "Против всех": 31
+      "gas:candidate-vibid:211200071297": 11,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 54,
+      "gas:candidate-vibid:1001000121793": 17,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 26,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 34,
-      "Бушуева Александра Васильевна": 5,
-      "Козлов Викентий Александрович": 54,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 53,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 34,
+      "gas:candidate-vibid:1001000113897": 5,
+      "gas:candidate-vibid:211200070812": 54,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 53,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 5,
-      "Козлов Викентий Александрович": 49,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 12,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 124,
-      "Против всех": 20
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 5,
+      "gas:candidate-vibid:211200070812": 49,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 12,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 124,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 7,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 92,
-      "Мусинов Леонид Алексеевич": 7,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 45,
-      "Против всех": 21
+      "gas:candidate-vibid:211200071297": 7,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 92,
+      "gas:candidate-vibid:1001000121793": 7,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 45,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 18,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 161,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 105,
-      "Против всех": 25
+      "gas:candidate-vibid:211200071297": 18,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 161,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 105,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 100,
-      "Мусинов Леонид Алексеевич": 0,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 22,
-      "Против всех": 8
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 100,
+      "gas:candidate-vibid:1001000121793": 0,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 22,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 234,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 104,
-      "Против всех": 53
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 234,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 104,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 11,
-      "Козлов Викентий Александрович": 89,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 17,
-      "Против всех": 19
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 11,
+      "gas:candidate-vibid:211200070812": 89,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 17,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 80,
-      "Мусинов Леонид Алексеевич": 21,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 52,
-      "Против всех": 28
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 80,
+      "gas:candidate-vibid:1001000121793": 21,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 52,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070611&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 28,
-      "Мусинов Леонид Алексеевич": 3,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 15,
-      "Против всех": 17
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 28,
+      "gas:candidate-vibid:1001000121793": 3,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 15,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 34,
-      "Бушуева Александра Васильевна": 141,
-      "Козлов Викентий Александрович": 367,
-      "Мусинов Леонид Алексеевич": 69,
-      "Незнанов Евгений Сергеевич": 56,
-      "Соботюк Павел Михайлович": 19,
-      "Спиридонов Юрий Алексеевич": 284,
-      "Против всех": 352
+      "gas:candidate-vibid:211200071297": 34,
+      "gas:candidate-vibid:1001000113897": 141,
+      "gas:candidate-vibid:211200070812": 367,
+      "gas:candidate-vibid:1001000121793": 69,
+      "gas:candidate-vibid:1001000135998": 56,
+      "gas:candidate-vibid:1001000261391": 19,
+      "gas:candidate-vibid:211200071366": 284,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 29,
-      "Бушуева Александра Васильевна": 183,
-      "Козлов Викентий Александрович": 403,
-      "Мусинов Леонид Алексеевич": 74,
-      "Незнанов Евгений Сергеевич": 59,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 256,
-      "Против всех": 410
+      "gas:candidate-vibid:211200071297": 29,
+      "gas:candidate-vibid:1001000113897": 183,
+      "gas:candidate-vibid:211200070812": 403,
+      "gas:candidate-vibid:1001000121793": 74,
+      "gas:candidate-vibid:1001000135998": 59,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 256,
+      "special:against-all": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 30,
-      "Бушуева Александра Васильевна": 68,
-      "Козлов Викентий Александрович": 273,
-      "Мусинов Леонид Алексеевич": 47,
-      "Незнанов Евгений Сергеевич": 29,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 180,
-      "Против всех": 196
+      "gas:candidate-vibid:211200071297": 30,
+      "gas:candidate-vibid:1001000113897": 68,
+      "gas:candidate-vibid:211200070812": 273,
+      "gas:candidate-vibid:1001000121793": 47,
+      "gas:candidate-vibid:1001000135998": 29,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 180,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 18,
-      "Бушуева Александра Васильевна": 78,
-      "Козлов Викентий Александрович": 282,
-      "Мусинов Леонид Алексеевич": 44,
-      "Незнанов Евгений Сергеевич": 43,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 211,
-      "Против всех": 233
+      "gas:candidate-vibid:211200071297": 18,
+      "gas:candidate-vibid:1001000113897": 78,
+      "gas:candidate-vibid:211200070812": 282,
+      "gas:candidate-vibid:1001000121793": 44,
+      "gas:candidate-vibid:1001000135998": 43,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 211,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 30,
-      "Бушуева Александра Васильевна": 98,
-      "Козлов Викентий Александрович": 223,
-      "Мусинов Леонид Алексеевич": 66,
-      "Незнанов Евгений Сергеевич": 37,
-      "Соботюк Павел Михайлович": 18,
-      "Спиридонов Юрий Алексеевич": 227,
-      "Против всех": 245
+      "gas:candidate-vibid:211200071297": 30,
+      "gas:candidate-vibid:1001000113897": 98,
+      "gas:candidate-vibid:211200070812": 223,
+      "gas:candidate-vibid:1001000121793": 66,
+      "gas:candidate-vibid:1001000135998": 37,
+      "gas:candidate-vibid:1001000261391": 18,
+      "gas:candidate-vibid:211200071366": 227,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 25,
-      "Бушуева Александра Васильевна": 77,
-      "Козлов Викентий Александрович": 191,
-      "Мусинов Леонид Алексеевич": 51,
-      "Незнанов Евгений Сергеевич": 45,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 172,
-      "Против всех": 176
+      "gas:candidate-vibid:211200071297": 25,
+      "gas:candidate-vibid:1001000113897": 77,
+      "gas:candidate-vibid:211200070812": 191,
+      "gas:candidate-vibid:1001000121793": 51,
+      "gas:candidate-vibid:1001000135998": 45,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 172,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 36,
-      "Бушуева Александра Васильевна": 123,
-      "Козлов Викентий Александрович": 216,
-      "Мусинов Леонид Алексеевич": 58,
-      "Незнанов Евгений Сергеевич": 48,
-      "Соботюк Павел Михайлович": 16,
-      "Спиридонов Юрий Алексеевич": 194,
-      "Против всех": 258
+      "gas:candidate-vibid:211200071297": 36,
+      "gas:candidate-vibid:1001000113897": 123,
+      "gas:candidate-vibid:211200070812": 216,
+      "gas:candidate-vibid:1001000121793": 58,
+      "gas:candidate-vibid:1001000135998": 48,
+      "gas:candidate-vibid:1001000261391": 16,
+      "gas:candidate-vibid:211200071366": 194,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 14,
-      "Бушуева Александра Васильевна": 83,
-      "Козлов Викентий Александрович": 196,
-      "Мусинов Леонид Алексеевич": 40,
-      "Незнанов Евгений Сергеевич": 37,
-      "Соботюк Павел Михайлович": 8,
-      "Спиридонов Юрий Алексеевич": 156,
-      "Против всех": 226
+      "gas:candidate-vibid:211200071297": 14,
+      "gas:candidate-vibid:1001000113897": 83,
+      "gas:candidate-vibid:211200070812": 196,
+      "gas:candidate-vibid:1001000121793": 40,
+      "gas:candidate-vibid:1001000135998": 37,
+      "gas:candidate-vibid:1001000261391": 8,
+      "gas:candidate-vibid:211200071366": 156,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 20,
-      "Бушуева Александра Васильевна": 74,
-      "Козлов Викентий Александрович": 253,
-      "Мусинов Леонид Алексеевич": 34,
-      "Незнанов Евгений Сергеевич": 27,
-      "Соботюк Павел Михайлович": 15,
-      "Спиридонов Юрий Алексеевич": 196,
-      "Против всех": 235
+      "gas:candidate-vibid:211200071297": 20,
+      "gas:candidate-vibid:1001000113897": 74,
+      "gas:candidate-vibid:211200070812": 253,
+      "gas:candidate-vibid:1001000121793": 34,
+      "gas:candidate-vibid:1001000135998": 27,
+      "gas:candidate-vibid:1001000261391": 15,
+      "gas:candidate-vibid:211200071366": 196,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 22,
-      "Бушуева Александра Васильевна": 74,
-      "Козлов Викентий Александрович": 222,
-      "Мусинов Леонид Алексеевич": 33,
-      "Незнанов Евгений Сергеевич": 23,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 169,
-      "Против всех": 211
+      "gas:candidate-vibid:211200071297": 22,
+      "gas:candidate-vibid:1001000113897": 74,
+      "gas:candidate-vibid:211200070812": 222,
+      "gas:candidate-vibid:1001000121793": 33,
+      "gas:candidate-vibid:1001000135998": 23,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 169,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 20,
-      "Бушуева Александра Васильевна": 90,
-      "Козлов Викентий Александрович": 240,
-      "Мусинов Леонид Алексеевич": 67,
-      "Незнанов Евгений Сергеевич": 44,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 206,
-      "Против всех": 281
+      "gas:candidate-vibid:211200071297": 20,
+      "gas:candidate-vibid:1001000113897": 90,
+      "gas:candidate-vibid:211200070812": 240,
+      "gas:candidate-vibid:1001000121793": 67,
+      "gas:candidate-vibid:1001000135998": 44,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 206,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 19,
-      "Бушуева Александра Васильевна": 80,
-      "Козлов Викентий Александрович": 262,
-      "Мусинов Леонид Алексеевич": 48,
-      "Незнанов Евгений Сергеевич": 22,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 186,
-      "Против всех": 209
+      "gas:candidate-vibid:211200071297": 19,
+      "gas:candidate-vibid:1001000113897": 80,
+      "gas:candidate-vibid:211200070812": 262,
+      "gas:candidate-vibid:1001000121793": 48,
+      "gas:candidate-vibid:1001000135998": 22,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 186,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 29,
-      "Бушуева Александра Васильевна": 88,
-      "Козлов Викентий Александрович": 193,
-      "Мусинов Леонид Алексеевич": 33,
-      "Незнанов Евгений Сергеевич": 30,
-      "Соботюк Павел Михайлович": 17,
-      "Спиридонов Юрий Алексеевич": 216,
-      "Против всех": 200
+      "gas:candidate-vibid:211200071297": 29,
+      "gas:candidate-vibid:1001000113897": 88,
+      "gas:candidate-vibid:211200070812": 193,
+      "gas:candidate-vibid:1001000121793": 33,
+      "gas:candidate-vibid:1001000135998": 30,
+      "gas:candidate-vibid:1001000261391": 17,
+      "gas:candidate-vibid:211200071366": 216,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 22,
-      "Бушуева Александра Васильевна": 100,
-      "Козлов Викентий Александрович": 232,
-      "Мусинов Леонид Алексеевич": 67,
-      "Незнанов Евгений Сергеевич": 47,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 243,
-      "Против всех": 293
+      "gas:candidate-vibid:211200071297": 22,
+      "gas:candidate-vibid:1001000113897": 100,
+      "gas:candidate-vibid:211200070812": 232,
+      "gas:candidate-vibid:1001000121793": 67,
+      "gas:candidate-vibid:1001000135998": 47,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 243,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 27,
-      "Бушуева Александра Васильевна": 82,
-      "Козлов Викентий Александрович": 286,
-      "Мусинов Леонид Алексеевич": 54,
-      "Незнанов Евгений Сергеевич": 27,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 243,
-      "Против всех": 276
+      "gas:candidate-vibid:211200071297": 27,
+      "gas:candidate-vibid:1001000113897": 82,
+      "gas:candidate-vibid:211200070812": 286,
+      "gas:candidate-vibid:1001000121793": 54,
+      "gas:candidate-vibid:1001000135998": 27,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 243,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 26,
-      "Бушуева Александра Васильевна": 103,
-      "Козлов Викентий Александрович": 272,
-      "Мусинов Леонид Алексеевич": 39,
-      "Незнанов Евгений Сергеевич": 42,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 234,
-      "Против всех": 260
+      "gas:candidate-vibid:211200071297": 26,
+      "gas:candidate-vibid:1001000113897": 103,
+      "gas:candidate-vibid:211200070812": 272,
+      "gas:candidate-vibid:1001000121793": 39,
+      "gas:candidate-vibid:1001000135998": 42,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 234,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 28,
-      "Бушуева Александра Васильевна": 112,
-      "Козлов Викентий Александрович": 333,
-      "Мусинов Леонид Алексеевич": 58,
-      "Незнанов Евгений Сергеевич": 40,
-      "Соботюк Павел Михайлович": 19,
-      "Спиридонов Юрий Алексеевич": 206,
-      "Против всех": 289
+      "gas:candidate-vibid:211200071297": 28,
+      "gas:candidate-vibid:1001000113897": 112,
+      "gas:candidate-vibid:211200070812": 333,
+      "gas:candidate-vibid:1001000121793": 58,
+      "gas:candidate-vibid:1001000135998": 40,
+      "gas:candidate-vibid:1001000261391": 19,
+      "gas:candidate-vibid:211200071366": 206,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 34,
-      "Козлов Викентий Александрович": 108,
-      "Мусинов Леонид Алексеевич": 23,
-      "Незнанов Евгений Сергеевич": 10,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 106,
-      "Против всех": 106
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 34,
+      "gas:candidate-vibid:211200070812": 108,
+      "gas:candidate-vibid:1001000121793": 23,
+      "gas:candidate-vibid:1001000135998": 10,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 106,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 14,
-      "Козлов Викентий Александрович": 84,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 43,
-      "Против всех": 20
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 14,
+      "gas:candidate-vibid:211200070812": 84,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 43,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 97,
-      "Мусинов Леонид Алексеевич": 3,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 48,
-      "Против всех": 21
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 97,
+      "gas:candidate-vibid:1001000121793": 3,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 48,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 176,
-      "Мусинов Леонид Алексеевич": 19,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 190,
-      "Против всех": 44
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 176,
+      "gas:candidate-vibid:1001000121793": 19,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 190,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 53,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 67,
-      "Против всех": 17
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 53,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 67,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 83,
-      "Мусинов Леонид Алексеевич": 5,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 64,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 83,
+      "gas:candidate-vibid:1001000121793": 5,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 64,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 41,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 19,
-      "Против всех": 7
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 41,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 19,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 147,
-      "Мусинов Леонид Алексеевич": 7,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 72,
-      "Против всех": 39
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 147,
+      "gas:candidate-vibid:1001000121793": 7,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 72,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 171,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 13,
-      "Против всех": 18
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 171,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 13,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 7,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 130,
-      "Мусинов Леонид Алексеевич": 7,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 337,
-      "Против всех": 38
+      "gas:candidate-vibid:211200071297": 7,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 130,
+      "gas:candidate-vibid:1001000121793": 7,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 337,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 151,
-      "Мусинов Леонид Алексеевич": 1,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 56,
-      "Против всех": 6
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 151,
+      "gas:candidate-vibid:1001000121793": 1,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 56,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070612&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 0,
-      "Козлов Викентий Александрович": 6,
-      "Мусинов Леонид Алексеевич": 19,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 14,
-      "Против всех": 4
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 0,
+      "gas:candidate-vibid:211200070812": 6,
+      "gas:candidate-vibid:1001000121793": 19,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 14,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 19,
-      "Бушуева Александра Васильевна": 11,
-      "Козлов Викентий Александрович": 67,
-      "Мусинов Леонид Алексеевич": 50,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 114,
-      "Против всех": 16
+      "gas:candidate-vibid:211200071297": 19,
+      "gas:candidate-vibid:1001000113897": 11,
+      "gas:candidate-vibid:211200070812": 67,
+      "gas:candidate-vibid:1001000121793": 50,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 114,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 12,
-      "Козлов Викентий Александрович": 60,
-      "Мусинов Леонид Алексеевич": 22,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 81,
-      "Против всех": 28
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 12,
+      "gas:candidate-vibid:211200070812": 60,
+      "gas:candidate-vibid:1001000121793": 22,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 81,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 36,
-      "Бушуева Александра Васильевна": 79,
-      "Козлов Викентий Александрович": 395,
-      "Мусинов Леонид Алексеевич": 209,
-      "Незнанов Евгений Сергеевич": 29,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 352,
-      "Против всех": 209
+      "gas:candidate-vibid:211200071297": 36,
+      "gas:candidate-vibid:1001000113897": 79,
+      "gas:candidate-vibid:211200070812": 395,
+      "gas:candidate-vibid:1001000121793": 209,
+      "gas:candidate-vibid:1001000135998": 29,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 352,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 11,
-      "Козлов Викентий Александрович": 48,
-      "Мусинов Леонид Алексеевич": 16,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 33,
-      "Против всех": 40
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 11,
+      "gas:candidate-vibid:211200070812": 48,
+      "gas:candidate-vibid:1001000121793": 16,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 33,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 42,
-      "Мусинов Леонид Алексеевич": 5,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 96,
-      "Против всех": 35
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 42,
+      "gas:candidate-vibid:1001000121793": 5,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 96,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 16,
-      "Козлов Викентий Александрович": 55,
-      "Мусинов Леонид Алексеевич": 13,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 83,
-      "Против всех": 38
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 16,
+      "gas:candidate-vibid:211200070812": 55,
+      "gas:candidate-vibid:1001000121793": 13,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 83,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 19,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 18,
-      "Против всех": 1
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 19,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 18,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 12,
-      "Козлов Викентий Александрович": 120,
-      "Мусинов Леонид Алексеевич": 29,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 71,
-      "Против всех": 34
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 12,
+      "gas:candidate-vibid:211200070812": 120,
+      "gas:candidate-vibid:1001000121793": 29,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 71,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 28,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 22,
-      "Против всех": 11
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 28,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 22,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 9,
-      "Бушуева Александра Васильевна": 22,
-      "Козлов Викентий Александрович": 110,
-      "Мусинов Леонид Алексеевич": 25,
-      "Незнанов Евгений Сергеевич": 13,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 57,
-      "Против всех": 63
+      "gas:candidate-vibid:211200071297": 9,
+      "gas:candidate-vibid:1001000113897": 22,
+      "gas:candidate-vibid:211200070812": 110,
+      "gas:candidate-vibid:1001000121793": 25,
+      "gas:candidate-vibid:1001000135998": 13,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 57,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 18,
-      "Козлов Викентий Александрович": 58,
-      "Мусинов Леонид Алексеевич": 21,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 79,
-      "Против всех": 54
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 18,
+      "gas:candidate-vibid:211200070812": 58,
+      "gas:candidate-vibid:1001000121793": 21,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 79,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 43,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 35,
-      "Против всех": 13
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 43,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 35,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 17,
-      "Козлов Викентий Александрович": 78,
-      "Мусинов Леонид Алексеевич": 49,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 83,
-      "Против всех": 43
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 17,
+      "gas:candidate-vibid:211200070812": 78,
+      "gas:candidate-vibid:1001000121793": 49,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 83,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 9,
-      "Мусинов Леонид Алексеевич": 16,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 32,
-      "Против всех": 3
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 9,
+      "gas:candidate-vibid:1001000121793": 16,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 32,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 10,
-      "Козлов Викентий Александрович": 55,
-      "Мусинов Леонид Алексеевич": 29,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 35,
-      "Против всех": 20
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 10,
+      "gas:candidate-vibid:211200070812": 55,
+      "gas:candidate-vibid:1001000121793": 29,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 35,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 63,
-      "Мусинов Леонид Алексеевич": 13,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 16,
-      "Против всех": 12
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 63,
+      "gas:candidate-vibid:1001000121793": 13,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 16,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 73,
-      "Мусинов Леонид Алексеевич": 23,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 35,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 73,
+      "gas:candidate-vibid:1001000121793": 23,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 35,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 20,
-      "Бушуева Александра Васильевна": 85,
-      "Козлов Викентий Александрович": 315,
-      "Мусинов Леонид Алексеевич": 103,
-      "Незнанов Евгений Сергеевич": 35,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 363,
-      "Против всех": 218
+      "gas:candidate-vibid:211200071297": 20,
+      "gas:candidate-vibid:1001000113897": 85,
+      "gas:candidate-vibid:211200070812": 315,
+      "gas:candidate-vibid:1001000121793": 103,
+      "gas:candidate-vibid:1001000135998": 35,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 363,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 17,
-      "Бушуева Александра Васильевна": 80,
-      "Козлов Викентий Александрович": 263,
-      "Мусинов Леонид Алексеевич": 95,
-      "Незнанов Евгений Сергеевич": 33,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 314,
-      "Против всех": 176
+      "gas:candidate-vibid:211200071297": 17,
+      "gas:candidate-vibid:1001000113897": 80,
+      "gas:candidate-vibid:211200070812": 263,
+      "gas:candidate-vibid:1001000121793": 95,
+      "gas:candidate-vibid:1001000135998": 33,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 314,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 54,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 78,
-      "Против всех": 39
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 54,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 78,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 29,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 19,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 29,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 19,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 22,
-      "Бушуева Александра Васильевна": 81,
-      "Козлов Викентий Александрович": 272,
-      "Мусинов Леонид Алексеевич": 54,
-      "Незнанов Евгений Сергеевич": 48,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 355,
-      "Против всех": 201
+      "gas:candidate-vibid:211200071297": 22,
+      "gas:candidate-vibid:1001000113897": 81,
+      "gas:candidate-vibid:211200070812": 272,
+      "gas:candidate-vibid:1001000121793": 54,
+      "gas:candidate-vibid:1001000135998": 48,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 355,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 10,
-      "Козлов Викентий Александрович": 27,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 59,
-      "Против всех": 24
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 10,
+      "gas:candidate-vibid:211200070812": 27,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 59,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 8,
-      "Бушуева Александра Васильевна": 14,
-      "Козлов Викентий Александрович": 88,
-      "Мусинов Леонид Алексеевич": 16,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 72,
-      "Против всех": 26
+      "gas:candidate-vibid:211200071297": 8,
+      "gas:candidate-vibid:1001000113897": 14,
+      "gas:candidate-vibid:211200070812": 88,
+      "gas:candidate-vibid:1001000121793": 16,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 72,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 24,
-      "Бушуева Александра Васильевна": 47,
-      "Козлов Викентий Александрович": 137,
-      "Мусинов Леонид Алексеевич": 53,
-      "Незнанов Евгений Сергеевич": 37,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 224,
-      "Против всех": 192
+      "gas:candidate-vibid:211200071297": 24,
+      "gas:candidate-vibid:1001000113897": 47,
+      "gas:candidate-vibid:211200070812": 137,
+      "gas:candidate-vibid:1001000121793": 53,
+      "gas:candidate-vibid:1001000135998": 37,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 224,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 17,
-      "Мусинов Леонид Алексеевич": 3,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 31,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 17,
+      "gas:candidate-vibid:1001000121793": 3,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 31,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 16,
-      "Бушуева Александра Васильевна": 41,
-      "Козлов Викентий Александрович": 70,
-      "Мусинов Леонид Алексеевич": 28,
-      "Незнанов Евгений Сергеевич": 21,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 263,
-      "Против всех": 80
+      "gas:candidate-vibid:211200071297": 16,
+      "gas:candidate-vibid:1001000113897": 41,
+      "gas:candidate-vibid:211200070812": 70,
+      "gas:candidate-vibid:1001000121793": 28,
+      "gas:candidate-vibid:1001000135998": 21,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 263,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 4,
-      "Козлов Викентий Александрович": 14,
-      "Мусинов Леонид Алексеевич": 10,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 190,
-      "Против всех": 20
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 4,
+      "gas:candidate-vibid:211200070812": 14,
+      "gas:candidate-vibid:1001000121793": 10,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 190,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 4,
-      "Бушуева Александра Васильевна": 17,
-      "Козлов Викентий Александрович": 65,
-      "Мусинов Леонид Алексеевич": 21,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 232,
-      "Против всех": 55
+      "gas:candidate-vibid:211200071297": 4,
+      "gas:candidate-vibid:1001000113897": 17,
+      "gas:candidate-vibid:211200070812": 65,
+      "gas:candidate-vibid:1001000121793": 21,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 232,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070613&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 31,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 31,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 2,
-      "Козлов Викентий Александрович": 42,
-      "Мусинов Леонид Алексеевич": 8,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 40,
-      "Против всех": 26
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 2,
+      "gas:candidate-vibid:211200070812": 42,
+      "gas:candidate-vibid:1001000121793": 8,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 40,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 11,
-      "Бушуева Александра Васильевна": 20,
-      "Козлов Викентий Александрович": 156,
-      "Мусинов Леонид Алексеевич": 25,
-      "Незнанов Евгений Сергеевич": 11,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 162,
-      "Против всех": 111
+      "gas:candidate-vibid:211200071297": 11,
+      "gas:candidate-vibid:1001000113897": 20,
+      "gas:candidate-vibid:211200070812": 156,
+      "gas:candidate-vibid:1001000121793": 25,
+      "gas:candidate-vibid:1001000135998": 11,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 162,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 7,
-      "Бушуева Александра Васильевна": 11,
-      "Козлов Викентий Александрович": 70,
-      "Мусинов Леонид Алексеевич": 10,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 84,
-      "Против всех": 21
+      "gas:candidate-vibid:211200071297": 7,
+      "gas:candidate-vibid:1001000113897": 11,
+      "gas:candidate-vibid:211200070812": 70,
+      "gas:candidate-vibid:1001000121793": 10,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 84,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 11,
-      "Бушуева Александра Васильевна": 28,
-      "Козлов Викентий Александрович": 102,
-      "Мусинов Леонид Алексеевич": 49,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 166,
-      "Против всех": 56
+      "gas:candidate-vibid:211200071297": 11,
+      "gas:candidate-vibid:1001000113897": 28,
+      "gas:candidate-vibid:211200070812": 102,
+      "gas:candidate-vibid:1001000121793": 49,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 166,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 3,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 26,
-      "Мусинов Леонид Алексеевич": 2,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 67,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 3,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 26,
+      "gas:candidate-vibid:1001000121793": 2,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 67,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 13,
-      "Козлов Викентий Александрович": 74,
-      "Мусинов Леонид Алексеевич": 15,
-      "Незнанов Евгений Сергеевич": 11,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 79,
-      "Против всех": 35
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 13,
+      "gas:candidate-vibid:211200070812": 74,
+      "gas:candidate-vibid:1001000121793": 15,
+      "gas:candidate-vibid:1001000135998": 11,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 79,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 57,
-      "Мусинов Леонид Алексеевич": 2,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 30,
-      "Против всех": 18
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 57,
+      "gas:candidate-vibid:1001000121793": 2,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 30,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 14,
-      "Бушуева Александра Васильевна": 10,
-      "Козлов Викентий Александрович": 119,
-      "Мусинов Леонид Алексеевич": 11,
-      "Незнанов Евгений Сергеевич": 6,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 26,
-      "Против всех": 32
+      "gas:candidate-vibid:211200071297": 14,
+      "gas:candidate-vibid:1001000113897": 10,
+      "gas:candidate-vibid:211200070812": 119,
+      "gas:candidate-vibid:1001000121793": 11,
+      "gas:candidate-vibid:1001000135998": 6,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 26,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 0,
-      "Козлов Викентий Александрович": 38,
-      "Мусинов Леонид Алексеевич": 0,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 0,
+      "gas:candidate-vibid:211200070812": 38,
+      "gas:candidate-vibid:1001000121793": 0,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 6,
-      "Козлов Викентий Александрович": 30,
-      "Мусинов Леонид Алексеевич": 12,
-      "Незнанов Евгений Сергеевич": 5,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 71,
-      "Против всех": 9
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 6,
+      "gas:candidate-vibid:211200070812": 30,
+      "gas:candidate-vibid:1001000121793": 12,
+      "gas:candidate-vibid:1001000135998": 5,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 71,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 0,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 21,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 0,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 8,
-      "Против всех": 4
+      "gas:candidate-vibid:211200071297": 0,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 21,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 0,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 8,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 9,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 67,
-      "Мусинов Леонид Алексеевич": 12,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 4,
-      "Спиридонов Юрий Алексеевич": 118,
-      "Против всех": 43
+      "gas:candidate-vibid:211200071297": 9,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 67,
+      "gas:candidate-vibid:1001000121793": 12,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 4,
+      "gas:candidate-vibid:211200071366": 118,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 13,
-      "Бушуева Александра Васильевна": 7,
-      "Козлов Викентий Александрович": 58,
-      "Мусинов Леонид Алексеевич": 24,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 66,
-      "Против всех": 42
+      "gas:candidate-vibid:211200071297": 13,
+      "gas:candidate-vibid:1001000113897": 7,
+      "gas:candidate-vibid:211200070812": 58,
+      "gas:candidate-vibid:1001000121793": 24,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 66,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 42,
-      "Бушуева Александра Васильевна": 24,
-      "Козлов Викентий Александрович": 286,
-      "Мусинов Леонид Алексеевич": 122,
-      "Незнанов Евгений Сергеевич": 22,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 264,
-      "Против всех": 143
+      "gas:candidate-vibid:211200071297": 42,
+      "gas:candidate-vibid:1001000113897": 24,
+      "gas:candidate-vibid:211200070812": 286,
+      "gas:candidate-vibid:1001000121793": 122,
+      "gas:candidate-vibid:1001000135998": 22,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 264,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 37,
-      "Бушуева Александра Васильевна": 20,
-      "Козлов Викентий Александрович": 160,
-      "Мусинов Леонид Алексеевич": 51,
-      "Незнанов Евгений Сергеевич": 11,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 158,
-      "Против всех": 83
+      "gas:candidate-vibid:211200071297": 37,
+      "gas:candidate-vibid:1001000113897": 20,
+      "gas:candidate-vibid:211200070812": 160,
+      "gas:candidate-vibid:1001000121793": 51,
+      "gas:candidate-vibid:1001000135998": 11,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 158,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 73,
-      "Бушуева Александра Васильевна": 63,
-      "Козлов Викентий Александрович": 450,
-      "Мусинов Леонид Алексеевич": 198,
-      "Незнанов Евгений Сергеевич": 28,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 516,
-      "Против всех": 230
+      "gas:candidate-vibid:211200071297": 73,
+      "gas:candidate-vibid:1001000113897": 63,
+      "gas:candidate-vibid:211200070812": 450,
+      "gas:candidate-vibid:1001000121793": 198,
+      "gas:candidate-vibid:1001000135998": 28,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 516,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 22,
-      "Бушуева Александра Васильевна": 17,
-      "Козлов Викентий Александрович": 232,
-      "Мусинов Леонид Алексеевич": 35,
-      "Незнанов Евгений Сергеевич": 14,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 270,
-      "Против всех": 91
+      "gas:candidate-vibid:211200071297": 22,
+      "gas:candidate-vibid:1001000113897": 17,
+      "gas:candidate-vibid:211200070812": 232,
+      "gas:candidate-vibid:1001000121793": 35,
+      "gas:candidate-vibid:1001000135998": 14,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 270,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 6,
-      "Бушуева Александра Васильевна": 0,
-      "Козлов Викентий Александрович": 23,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 17,
-      "Против всех": 13
+      "gas:candidate-vibid:211200071297": 6,
+      "gas:candidate-vibid:1001000113897": 0,
+      "gas:candidate-vibid:211200070812": 23,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 17,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 19,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 66,
-      "Мусинов Леонид Алексеевич": 6,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 1,
-      "Спиридонов Юрий Алексеевич": 24,
-      "Против всех": 40
+      "gas:candidate-vibid:211200071297": 19,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 66,
+      "gas:candidate-vibid:1001000121793": 6,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 1,
+      "gas:candidate-vibid:211200071366": 24,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 7,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 63,
-      "Мусинов Леонид Алексеевич": 8,
-      "Незнанов Евгений Сергеевич": 1,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 37,
-      "Против всех": 15
+      "gas:candidate-vibid:211200071297": 7,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 63,
+      "gas:candidate-vibid:1001000121793": 8,
+      "gas:candidate-vibid:1001000135998": 1,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 37,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 9,
-      "Козлов Викентий Александрович": 32,
-      "Мусинов Леонид Алексеевич": 4,
-      "Незнанов Евгений Сергеевич": 2,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 9,
+      "gas:candidate-vibid:211200070812": 32,
+      "gas:candidate-vibid:1001000121793": 4,
+      "gas:candidate-vibid:1001000135998": 2,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 0,
-      "Козлов Викентий Александрович": 29,
-      "Мусинов Леонид Алексеевич": 7,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 19,
-      "Против всех": 30
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 0,
+      "gas:candidate-vibid:211200070812": 29,
+      "gas:candidate-vibid:1001000121793": 7,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 19,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 3,
-      "Козлов Викентий Александрович": 113,
-      "Мусинов Леонид Алексеевич": 9,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 41,
-      "Против всех": 31
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 3,
+      "gas:candidate-vibid:211200070812": 113,
+      "gas:candidate-vibid:1001000121793": 9,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 41,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070614&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 1,
-      "Козлов Викентий Александрович": 19,
-      "Мусинов Леонид Алексеевич": 3,
-      "Незнанов Евгений Сергеевич": 7,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 17,
-      "Против всех": 10
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 1,
+      "gas:candidate-vibid:211200070812": 19,
+      "gas:candidate-vibid:1001000121793": 3,
+      "gas:candidate-vibid:1001000135998": 7,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 17,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 42,
-      "Бушуева Александра Васильевна": 78,
-      "Козлов Викентий Александрович": 360,
-      "Мусинов Леонид Алексеевич": 133,
-      "Незнанов Евгений Сергеевич": 48,
-      "Соботюк Павел Михайлович": 20,
-      "Спиридонов Юрий Алексеевич": 385,
-      "Против всех": 280
+      "gas:candidate-vibid:211200071297": 42,
+      "gas:candidate-vibid:1001000113897": 78,
+      "gas:candidate-vibid:211200070812": 360,
+      "gas:candidate-vibid:1001000121793": 133,
+      "gas:candidate-vibid:1001000135998": 48,
+      "gas:candidate-vibid:1001000261391": 20,
+      "gas:candidate-vibid:211200071366": 385,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 5,
-      "Бушуева Александра Васильевна": 8,
-      "Козлов Викентий Александрович": 75,
-      "Мусинов Леонид Алексеевич": 21,
-      "Незнанов Евгений Сергеевич": 13,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 72,
-      "Против всех": 63
+      "gas:candidate-vibid:211200071297": 5,
+      "gas:candidate-vibid:1001000113897": 8,
+      "gas:candidate-vibid:211200070812": 75,
+      "gas:candidate-vibid:1001000121793": 21,
+      "gas:candidate-vibid:1001000135998": 13,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 72,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 24,
-      "Бушуева Александра Васильевна": 36,
-      "Козлов Викентий Александрович": 204,
-      "Мусинов Леонид Алексеевич": 70,
-      "Незнанов Евгений Сергеевич": 13,
-      "Соботюк Павел Михайлович": 14,
-      "Спиридонов Юрий Алексеевич": 177,
-      "Против всех": 148
+      "gas:candidate-vibid:211200071297": 24,
+      "gas:candidate-vibid:1001000113897": 36,
+      "gas:candidate-vibid:211200070812": 204,
+      "gas:candidate-vibid:1001000121793": 70,
+      "gas:candidate-vibid:1001000135998": 13,
+      "gas:candidate-vibid:1001000261391": 14,
+      "gas:candidate-vibid:211200071366": 177,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 1,
-      "Бушуева Александра Васильевна": 13,
-      "Козлов Викентий Александрович": 67,
-      "Мусинов Леонид Алексеевич": 10,
-      "Незнанов Евгений Сергеевич": 3,
-      "Соботюк Павел Михайлович": 0,
-      "Спиридонов Юрий Алексеевич": 23,
-      "Против всех": 29
+      "gas:candidate-vibid:211200071297": 1,
+      "gas:candidate-vibid:1001000113897": 13,
+      "gas:candidate-vibid:211200070812": 67,
+      "gas:candidate-vibid:1001000121793": 10,
+      "gas:candidate-vibid:1001000135998": 3,
+      "gas:candidate-vibid:1001000261391": 0,
+      "gas:candidate-vibid:211200071366": 23,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 20,
-      "Бушуева Александра Васильевна": 58,
-      "Козлов Викентий Александрович": 120,
-      "Мусинов Леонид Алексеевич": 38,
-      "Незнанов Евгений Сергеевич": 19,
-      "Соботюк Павел Михайлович": 13,
-      "Спиридонов Юрий Алексеевич": 179,
-      "Против всех": 77
+      "gas:candidate-vibid:211200071297": 20,
+      "gas:candidate-vibid:1001000113897": 58,
+      "gas:candidate-vibid:211200070812": 120,
+      "gas:candidate-vibid:1001000121793": 38,
+      "gas:candidate-vibid:1001000135998": 19,
+      "gas:candidate-vibid:1001000261391": 13,
+      "gas:candidate-vibid:211200071366": 179,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 23,
-      "Бушуева Александра Васильевна": 72,
-      "Козлов Викентий Александрович": 245,
-      "Мусинов Леонид Алексеевич": 121,
-      "Незнанов Евгений Сергеевич": 16,
-      "Соботюк Павел Михайлович": 11,
-      "Спиридонов Юрий Алексеевич": 265,
-      "Против всех": 166
+      "gas:candidate-vibid:211200071297": 23,
+      "gas:candidate-vibid:1001000113897": 72,
+      "gas:candidate-vibid:211200070812": 245,
+      "gas:candidate-vibid:1001000121793": 121,
+      "gas:candidate-vibid:1001000135998": 16,
+      "gas:candidate-vibid:1001000261391": 11,
+      "gas:candidate-vibid:211200071366": 265,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 28,
-      "Бушуева Александра Васильевна": 74,
-      "Козлов Викентий Александрович": 223,
-      "Мусинов Леонид Алексеевич": 113,
-      "Незнанов Евгений Сергеевич": 32,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 251,
-      "Против всех": 170
+      "gas:candidate-vibid:211200071297": 28,
+      "gas:candidate-vibid:1001000113897": 74,
+      "gas:candidate-vibid:211200070812": 223,
+      "gas:candidate-vibid:1001000121793": 113,
+      "gas:candidate-vibid:1001000135998": 32,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 251,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 33,
-      "Бушуева Александра Васильевна": 66,
-      "Козлов Викентий Александрович": 246,
-      "Мусинов Леонид Алексеевич": 92,
-      "Незнанов Евгений Сергеевич": 21,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 229,
-      "Против всех": 136
+      "gas:candidate-vibid:211200071297": 33,
+      "gas:candidate-vibid:1001000113897": 66,
+      "gas:candidate-vibid:211200070812": 246,
+      "gas:candidate-vibid:1001000121793": 92,
+      "gas:candidate-vibid:1001000135998": 21,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 229,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 13,
-      "Бушуева Александра Васильевна": 37,
-      "Козлов Викентий Александрович": 130,
-      "Мусинов Леонид Алексеевич": 48,
-      "Незнанов Евгений Сергеевич": 14,
-      "Соботюк Павел Михайлович": 6,
-      "Спиридонов Юрий Алексеевич": 173,
-      "Против всех": 66
+      "gas:candidate-vibid:211200071297": 13,
+      "gas:candidate-vibid:1001000113897": 37,
+      "gas:candidate-vibid:211200070812": 130,
+      "gas:candidate-vibid:1001000121793": 48,
+      "gas:candidate-vibid:1001000135998": 14,
+      "gas:candidate-vibid:1001000261391": 6,
+      "gas:candidate-vibid:211200071366": 173,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 22,
-      "Бушуева Александра Васильевна": 38,
-      "Козлов Викентий Александрович": 214,
-      "Мусинов Леонид Алексеевич": 53,
-      "Незнанов Евгений Сергеевич": 12,
-      "Соботюк Павел Михайлович": 5,
-      "Спиридонов Юрий Алексеевич": 206,
-      "Против всех": 153
+      "gas:candidate-vibid:211200071297": 22,
+      "gas:candidate-vibid:1001000113897": 38,
+      "gas:candidate-vibid:211200070812": 214,
+      "gas:candidate-vibid:1001000121793": 53,
+      "gas:candidate-vibid:1001000135998": 12,
+      "gas:candidate-vibid:1001000261391": 5,
+      "gas:candidate-vibid:211200071366": 206,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 14,
-      "Бушуева Александра Васильевна": 36,
-      "Козлов Викентий Александрович": 156,
-      "Мусинов Леонид Алексеевич": 42,
-      "Незнанов Евгений Сергеевич": 24,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 162,
-      "Против всех": 145
+      "gas:candidate-vibid:211200071297": 14,
+      "gas:candidate-vibid:1001000113897": 36,
+      "gas:candidate-vibid:211200070812": 156,
+      "gas:candidate-vibid:1001000121793": 42,
+      "gas:candidate-vibid:1001000135998": 24,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 162,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 16,
-      "Бушуева Александра Васильевна": 60,
-      "Козлов Викентий Александрович": 203,
-      "Мусинов Леонид Алексеевич": 47,
-      "Незнанов Евгений Сергеевич": 30,
-      "Соботюк Павел Михайлович": 9,
-      "Спиридонов Юрий Алексеевич": 210,
-      "Против всех": 155
+      "gas:candidate-vibid:211200071297": 16,
+      "gas:candidate-vibid:1001000113897": 60,
+      "gas:candidate-vibid:211200070812": 203,
+      "gas:candidate-vibid:1001000121793": 47,
+      "gas:candidate-vibid:1001000135998": 30,
+      "gas:candidate-vibid:1001000261391": 9,
+      "gas:candidate-vibid:211200071366": 210,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 33,
-      "Бушуева Александра Васильевна": 83,
-      "Козлов Викентий Александрович": 226,
-      "Мусинов Леонид Алексеевич": 74,
-      "Незнанов Евгений Сергеевич": 26,
-      "Соботюк Павел Михайлович": 8,
-      "Спиридонов Юрий Алексеевич": 267,
-      "Против всех": 187
+      "gas:candidate-vibid:211200071297": 33,
+      "gas:candidate-vibid:1001000113897": 83,
+      "gas:candidate-vibid:211200070812": 226,
+      "gas:candidate-vibid:1001000121793": 74,
+      "gas:candidate-vibid:1001000135998": 26,
+      "gas:candidate-vibid:1001000261391": 8,
+      "gas:candidate-vibid:211200071366": 267,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 18,
-      "Бушуева Александра Васильевна": 46,
-      "Козлов Викентий Александрович": 177,
-      "Мусинов Леонид Алексеевич": 47,
-      "Незнанов Евгений Сергеевич": 23,
-      "Соботюк Павел Михайлович": 2,
-      "Спиридонов Юрий Алексеевич": 143,
-      "Против всех": 132
+      "gas:candidate-vibid:211200071297": 18,
+      "gas:candidate-vibid:1001000113897": 46,
+      "gas:candidate-vibid:211200070812": 177,
+      "gas:candidate-vibid:1001000121793": 47,
+      "gas:candidate-vibid:1001000135998": 23,
+      "gas:candidate-vibid:1001000261391": 2,
+      "gas:candidate-vibid:211200071366": 143,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 10,
-      "Бушуева Александра Васильевна": 46,
-      "Козлов Викентий Александрович": 161,
-      "Мусинов Леонид Алексеевич": 43,
-      "Незнанов Евгений Сергеевич": 17,
-      "Соботюк Павел Михайлович": 7,
-      "Спиридонов Юрий Алексеевич": 190,
-      "Против всех": 103
+      "gas:candidate-vibid:211200071297": 10,
+      "gas:candidate-vibid:1001000113897": 46,
+      "gas:candidate-vibid:211200070812": 161,
+      "gas:candidate-vibid:1001000121793": 43,
+      "gas:candidate-vibid:1001000135998": 17,
+      "gas:candidate-vibid:1001000261391": 7,
+      "gas:candidate-vibid:211200071366": 190,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 2,
-      "Бушуева Александра Васильевна": 15,
-      "Козлов Викентий Александрович": 51,
-      "Мусинов Леонид Алексеевич": 12,
-      "Незнанов Евгений Сергеевич": 4,
-      "Соботюк Павел Михайлович": 3,
-      "Спиридонов Юрий Алексеевич": 60,
-      "Против всех": 52
+      "gas:candidate-vibid:211200071297": 2,
+      "gas:candidate-vibid:1001000113897": 15,
+      "gas:candidate-vibid:211200070812": 51,
+      "gas:candidate-vibid:1001000121793": 12,
+      "gas:candidate-vibid:1001000135998": 4,
+      "gas:candidate-vibid:1001000261391": 3,
+      "gas:candidate-vibid:211200071366": 60,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 63,
-      "Бушуева Александра Васильевна": 105,
-      "Козлов Викентий Александрович": 311,
-      "Мусинов Леонид Алексеевич": 154,
-      "Незнанов Евгений Сергеевич": 30,
-      "Соботюк Павел Михайлович": 10,
-      "Спиридонов Юрий Алексеевич": 520,
-      "Против всех": 249
+      "gas:candidate-vibid:211200071297": 63,
+      "gas:candidate-vibid:1001000113897": 105,
+      "gas:candidate-vibid:211200070812": 311,
+      "gas:candidate-vibid:1001000121793": 154,
+      "gas:candidate-vibid:1001000135998": 30,
+      "gas:candidate-vibid:1001000261391": 10,
+      "gas:candidate-vibid:211200071366": 520,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_11_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Авдеев Василий Мануилович": 43,
-      "Бушуева Александра Васильевна": 120,
-      "Козлов Викентий Александрович": 285,
-      "Мусинов Леонид Алексеевич": 175,
-      "Незнанов Евгений Сергеевич": 39,
-      "Соботюк Павел Михайлович": 12,
-      "Спиридонов Юрий Алексеевич": 488,
-      "Против всех": 250
+      "gas:candidate-vibid:211200071297": 43,
+      "gas:candidate-vibid:1001000113897": 120,
+      "gas:candidate-vibid:211200070812": 285,
+      "gas:candidate-vibid:1001000121793": 175,
+      "gas:candidate-vibid:1001000135998": 39,
+      "gas:candidate-vibid:1001000261391": 12,
+      "gas:candidate-vibid:211200071366": 488,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=112000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=211200070615&region=0&sub_region=0&type=429",

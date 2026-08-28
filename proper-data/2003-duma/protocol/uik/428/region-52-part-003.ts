@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 173,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 8,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 173,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 8,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270487&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 268,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 22,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 13,
-      "Против всех": 16
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 268,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 22,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 13,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270487&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 69,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 2,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 69,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 2,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270487&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 14,
-      "Козерадский Анатолий Александрович": 110,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 16,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:352300270389": 14,
+      "gas:candidate-vibid:1001000225962": 110,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 16,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270487&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 169,
-      "Кочетков Александр Александрович": 17,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 197,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 24,
-      "Против всех": 42
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 169,
+      "gas:candidate-vibid:1001000136083": 17,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 197,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 24,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 264,
-      "Кочетков Александр Александрович": 37,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 326,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 56,
-      "Против всех": 50
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 264,
+      "gas:candidate-vibid:1001000136083": 37,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 326,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 56,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 165,
-      "Кочетков Александр Александрович": 15,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 235,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 33,
-      "Против всех": 20
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 165,
+      "gas:candidate-vibid:1001000136083": 15,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 235,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 33,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 42,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 84,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 14,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 42,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 84,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 14,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 40,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 34,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 40,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 34,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 92,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 17,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 92,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 17,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 43,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 25,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 43,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 25,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 117,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 22,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 117,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 22,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 121,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 49,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 121,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 49,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 73,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 79,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 20,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 73,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 79,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 20,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 72,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 18,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 72,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 18,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 149,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 95,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 149,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 95,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 48,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 17,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 48,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 17,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 23,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 25,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 23,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 25,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 97,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 182,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 97,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 182,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 47,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 24,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 47,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 24,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 8,
-      "Козерадский Анатолий Александрович": 96,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 33,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 8,
+      "gas:candidate-vibid:1001000225962": 96,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 33,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 115,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 144,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 22,
-      "Против всех": 24
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 115,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 144,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 22,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 43,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 23,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 43,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 23,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 46,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 33,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 46,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 33,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 73,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 23,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 73,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 23,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 120,
-      "Кочетков Александр Александрович": 13,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 56,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 120,
+      "gas:candidate-vibid:1001000136083": 13,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 56,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 31,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 47,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 31,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 47,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 37,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 75,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 37,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 75,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 97,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 69,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 97,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 69,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 16,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 18,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 16,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 18,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 33,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 14,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 33,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 14,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 143,
-      "Кочетков Александр Александрович": 11,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 108,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 15,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 143,
+      "gas:candidate-vibid:1001000136083": 11,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 108,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 15,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 31,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 43,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 10,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 31,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 43,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 10,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 17,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 16,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 17,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 16,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 148,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 59,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 148,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 59,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 56,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 51,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 56,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 51,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 25,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 12,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 25,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 12,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 107,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 87,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 107,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 87,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 83,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 9,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 83,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 9,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 130,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 14,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 130,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 14,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 93,
-      "Кочетков Александр Александрович": 11,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 225,
-      "Федяков Борис Львович": 10,
-      "Щавлева Татьяна Михайловна": 16,
-      "Против всех": 31
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 93,
+      "gas:candidate-vibid:1001000136083": 11,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 225,
+      "gas:candidate-vibid:352300270392": 10,
+      "gas:candidate-vibid:352300270559": 16,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 34,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 71,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 34,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 71,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 140,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 56,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 14,
-      "Против всех": 34
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 140,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 56,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 14,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270488&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 81,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 111,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 81,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 111,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 128,
-      "Кочетков Александр Александрович": 12,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 43,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 25
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 128,
+      "gas:candidate-vibid:1001000136083": 12,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 43,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 225,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 45,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 225,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 45,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 27,
-      "Козерадский Анатолий Александрович": 277,
-      "Кочетков Александр Александрович": 24,
-      "Кулагин Александр Михайлович": 101,
-      "Никитчук Иван Игнатьевич": 283,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 36,
-      "Против всех": 92
+      "gas:candidate-vibid:352300270389": 27,
+      "gas:candidate-vibid:1001000225962": 277,
+      "gas:candidate-vibid:1001000136083": 24,
+      "gas:candidate-vibid:1001000339411": 101,
+      "gas:candidate-vibid:1001000121873": 283,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 36,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 22,
-      "Козерадский Анатолий Александрович": 142,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 48,
-      "Никитчук Иван Игнатьевич": 78,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 10,
-      "Против всех": 39
+      "gas:candidate-vibid:352300270389": 22,
+      "gas:candidate-vibid:1001000225962": 142,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 48,
+      "gas:candidate-vibid:1001000121873": 78,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 10,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 16,
-      "Козерадский Анатолий Александрович": 221,
-      "Кочетков Александр Александрович": 14,
-      "Кулагин Александр Михайлович": 68,
-      "Никитчук Иван Игнатьевич": 178,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 26,
-      "Против всех": 44
+      "gas:candidate-vibid:352300270389": 16,
+      "gas:candidate-vibid:1001000225962": 221,
+      "gas:candidate-vibid:1001000136083": 14,
+      "gas:candidate-vibid:1001000339411": 68,
+      "gas:candidate-vibid:1001000121873": 178,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 26,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 19,
-      "Козерадский Анатолий Александрович": 151,
-      "Кочетков Александр Александрович": 12,
-      "Кулагин Александр Михайлович": 15,
-      "Никитчук Иван Игнатьевич": 59,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 15,
-      "Против всех": 29
+      "gas:candidate-vibid:352300270389": 19,
+      "gas:candidate-vibid:1001000225962": 151,
+      "gas:candidate-vibid:1001000136083": 12,
+      "gas:candidate-vibid:1001000339411": 15,
+      "gas:candidate-vibid:1001000121873": 59,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 15,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 138,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 52,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 138,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 52,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 53,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 15,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 53,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 15,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 86,
-      "Кочетков Александр Александрович": 13,
-      "Кулагин Александр Михайлович": 13,
-      "Никитчук Иван Игнатьевич": 80,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 86,
+      "gas:candidate-vibid:1001000136083": 13,
+      "gas:candidate-vibid:1001000339411": 13,
+      "gas:candidate-vibid:1001000121873": 80,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 166,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 14,
-      "Никитчук Иван Игнатьевич": 36,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 166,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 14,
+      "gas:candidate-vibid:1001000121873": 36,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 26,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 22,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 26,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 22,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 48,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 9,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 48,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 9,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 74,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 38,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 74,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 38,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 73,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 41,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 73,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 41,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 19,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 14,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 19,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 14,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 52,
-      "Козерадский Анатолий Александрович": 334,
-      "Кочетков Александр Александрович": 65,
-      "Кулагин Александр Михайлович": 30,
-      "Никитчук Иван Игнатьевич": 249,
-      "Федяков Борис Львович": 20,
-      "Щавлева Татьяна Михайловна": 45,
-      "Против всех": 133
+      "gas:candidate-vibid:352300270389": 52,
+      "gas:candidate-vibid:1001000225962": 334,
+      "gas:candidate-vibid:1001000136083": 65,
+      "gas:candidate-vibid:1001000339411": 30,
+      "gas:candidate-vibid:1001000121873": 249,
+      "gas:candidate-vibid:352300270392": 20,
+      "gas:candidate-vibid:352300270559": 45,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 52,
-      "Кочетков Александр Александрович": 11,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 37,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 52,
+      "gas:candidate-vibid:1001000136083": 11,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 37,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 58,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 45,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 58,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 45,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 202,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 25,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 27
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 202,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 25,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 8,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 18,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 8,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 18,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 40,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 11,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 40,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 11,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270489&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 246,
-      "Кочетков Александр Александрович": 36,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 150,
-      "Федяков Борис Львович": 11,
-      "Щавлева Татьяна Михайловна": 25,
-      "Против всех": 60
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 246,
+      "gas:candidate-vibid:1001000136083": 36,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 150,
+      "gas:candidate-vibid:352300270392": 11,
+      "gas:candidate-vibid:352300270559": 25,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 13,
-      "Козерадский Анатолий Александрович": 200,
-      "Кочетков Александр Александрович": 32,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 121,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 22,
-      "Против всех": 66
+      "gas:candidate-vibid:352300270389": 13,
+      "gas:candidate-vibid:1001000225962": 200,
+      "gas:candidate-vibid:1001000136083": 32,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 121,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 22,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 302,
-      "Кочетков Александр Александрович": 62,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 172,
-      "Федяков Борис Львович": 17,
-      "Щавлева Татьяна Михайловна": 11,
-      "Против всех": 75
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 302,
+      "gas:candidate-vibid:1001000136083": 62,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 172,
+      "gas:candidate-vibid:352300270392": 17,
+      "gas:candidate-vibid:352300270559": 11,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 12,
-      "Козерадский Анатолий Александрович": 201,
-      "Кочетков Александр Александрович": 39,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 97,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 16,
-      "Против всех": 61
+      "gas:candidate-vibid:352300270389": 12,
+      "gas:candidate-vibid:1001000225962": 201,
+      "gas:candidate-vibid:1001000136083": 39,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 97,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 16,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 16,
-      "Козерадский Анатолий Александрович": 258,
-      "Кочетков Александр Александрович": 50,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 151,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 18,
-      "Против всех": 74
+      "gas:candidate-vibid:352300270389": 16,
+      "gas:candidate-vibid:1001000225962": 258,
+      "gas:candidate-vibid:1001000136083": 50,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 151,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 18,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 252,
-      "Кочетков Александр Александрович": 53,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 148,
-      "Федяков Борис Львович": 17,
-      "Щавлева Татьяна Михайловна": 21,
-      "Против всех": 98
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 252,
+      "gas:candidate-vibid:1001000136083": 53,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 148,
+      "gas:candidate-vibid:352300270392": 17,
+      "gas:candidate-vibid:352300270559": 21,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 8,
-      "Козерадский Анатолий Александрович": 251,
-      "Кочетков Александр Александрович": 28,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 147,
-      "Федяков Борис Львович": 15,
-      "Щавлева Татьяна Михайловна": 10,
-      "Против всех": 75
+      "gas:candidate-vibid:352300270389": 8,
+      "gas:candidate-vibid:1001000225962": 251,
+      "gas:candidate-vibid:1001000136083": 28,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 147,
+      "gas:candidate-vibid:352300270392": 15,
+      "gas:candidate-vibid:352300270559": 10,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 14,
-      "Козерадский Анатолий Александрович": 220,
-      "Кочетков Александр Александрович": 47,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 123,
-      "Федяков Борис Львович": 15,
-      "Щавлева Татьяна Михайловна": 17,
-      "Против всех": 105
+      "gas:candidate-vibid:352300270389": 14,
+      "gas:candidate-vibid:1001000225962": 220,
+      "gas:candidate-vibid:1001000136083": 47,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 123,
+      "gas:candidate-vibid:352300270392": 15,
+      "gas:candidate-vibid:352300270559": 17,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 247,
-      "Кочетков Александр Александрович": 52,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 152,
-      "Федяков Борис Львович": 11,
-      "Щавлева Татьяна Михайловна": 22,
-      "Против всех": 94
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 247,
+      "gas:candidate-vibid:1001000136083": 52,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 152,
+      "gas:candidate-vibid:352300270392": 11,
+      "gas:candidate-vibid:352300270559": 22,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 14,
-      "Козерадский Анатолий Александрович": 492,
-      "Кочетков Александр Александрович": 123,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 146,
-      "Федяков Борис Львович": 28,
-      "Щавлева Татьяна Михайловна": 14,
-      "Против всех": 174
+      "gas:candidate-vibid:352300270389": 14,
+      "gas:candidate-vibid:1001000225962": 492,
+      "gas:candidate-vibid:1001000136083": 123,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 146,
+      "gas:candidate-vibid:352300270392": 28,
+      "gas:candidate-vibid:352300270559": 14,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 12,
-      "Козерадский Анатолий Александрович": 248,
-      "Кочетков Александр Александрович": 58,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 112,
-      "Федяков Борис Львович": 14,
-      "Щавлева Татьяна Михайловна": 21,
-      "Против всех": 82
+      "gas:candidate-vibid:352300270389": 12,
+      "gas:candidate-vibid:1001000225962": 248,
+      "gas:candidate-vibid:1001000136083": 58,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 112,
+      "gas:candidate-vibid:352300270392": 14,
+      "gas:candidate-vibid:352300270559": 21,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 12,
-      "Козерадский Анатолий Александрович": 246,
-      "Кочетков Александр Александрович": 50,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 96,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 27,
-      "Против всех": 84
+      "gas:candidate-vibid:352300270389": 12,
+      "gas:candidate-vibid:1001000225962": 246,
+      "gas:candidate-vibid:1001000136083": 50,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 96,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 27,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 15,
-      "Козерадский Анатолий Александрович": 328,
-      "Кочетков Александр Александрович": 73,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 95,
-      "Федяков Борис Львович": 19,
-      "Щавлева Татьяна Михайловна": 17,
-      "Против всех": 85
+      "gas:candidate-vibid:352300270389": 15,
+      "gas:candidate-vibid:1001000225962": 328,
+      "gas:candidate-vibid:1001000136083": 73,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 95,
+      "gas:candidate-vibid:352300270392": 19,
+      "gas:candidate-vibid:352300270559": 17,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 279,
-      "Кочетков Александр Александрович": 43,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 139,
-      "Федяков Борис Львович": 22,
-      "Щавлева Татьяна Михайловна": 17,
-      "Против всех": 70
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 279,
+      "gas:candidate-vibid:1001000136083": 43,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 139,
+      "gas:candidate-vibid:352300270392": 22,
+      "gas:candidate-vibid:352300270559": 17,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 249,
-      "Кочетков Александр Александрович": 51,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 86,
-      "Федяков Борис Львович": 12,
-      "Щавлева Татьяна Михайловна": 17,
-      "Против всех": 51
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 249,
+      "gas:candidate-vibid:1001000136083": 51,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 86,
+      "gas:candidate-vibid:352300270392": 12,
+      "gas:candidate-vibid:352300270559": 17,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 210,
-      "Кочетков Александр Александрович": 69,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 96,
-      "Федяков Борис Львович": 28,
-      "Щавлева Татьяна Михайловна": 10,
-      "Против всех": 63
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 210,
+      "gas:candidate-vibid:1001000136083": 69,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 96,
+      "gas:candidate-vibid:352300270392": 28,
+      "gas:candidate-vibid:352300270559": 10,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 293,
-      "Кочетков Александр Александрович": 58,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 82,
-      "Федяков Борис Львович": 12,
-      "Щавлева Татьяна Михайловна": 18,
-      "Против всех": 81
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 293,
+      "gas:candidate-vibid:1001000136083": 58,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 82,
+      "gas:candidate-vibid:352300270392": 12,
+      "gas:candidate-vibid:352300270559": 18,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 254,
-      "Кочетков Александр Александрович": 40,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 90,
-      "Федяков Борис Львович": 16,
-      "Щавлева Татьяна Михайловна": 13,
-      "Против всех": 53
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 254,
+      "gas:candidate-vibid:1001000136083": 40,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 90,
+      "gas:candidate-vibid:352300270392": 16,
+      "gas:candidate-vibid:352300270559": 13,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 191,
-      "Кочетков Александр Александрович": 50,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 89,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 20,
-      "Против всех": 49
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 191,
+      "gas:candidate-vibid:1001000136083": 50,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 89,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 20,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 18,
-      "Козерадский Анатолий Александрович": 267,
-      "Кочетков Александр Александрович": 56,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 98,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 17,
-      "Против всех": 70
+      "gas:candidate-vibid:352300270389": 18,
+      "gas:candidate-vibid:1001000225962": 267,
+      "gas:candidate-vibid:1001000136083": 56,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 98,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 17,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 199,
-      "Кочетков Александр Александрович": 41,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 59,
-      "Федяков Борис Львович": 20,
-      "Щавлева Татьяна Михайловна": 15,
-      "Против всех": 60
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 199,
+      "gas:candidate-vibid:1001000136083": 41,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 59,
+      "gas:candidate-vibid:352300270392": 20,
+      "gas:candidate-vibid:352300270559": 15,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 261,
-      "Кочетков Александр Александрович": 44,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 100,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 18,
-      "Против всех": 66
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 261,
+      "gas:candidate-vibid:1001000136083": 44,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 100,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 18,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 248,
-      "Кочетков Александр Александрович": 64,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 107,
-      "Федяков Борис Львович": 16,
-      "Щавлева Татьяна Михайловна": 22,
-      "Против всех": 65
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 248,
+      "gas:candidate-vibid:1001000136083": 64,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 107,
+      "gas:candidate-vibid:352300270392": 16,
+      "gas:candidate-vibid:352300270559": 22,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 28,
-      "Козерадский Анатолий Александрович": 393,
-      "Кочетков Александр Александрович": 105,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 192,
-      "Федяков Борис Львович": 29,
-      "Щавлева Татьяна Михайловна": 25,
-      "Против всех": 83
+      "gas:candidate-vibid:352300270389": 28,
+      "gas:candidate-vibid:1001000225962": 393,
+      "gas:candidate-vibid:1001000136083": 105,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 192,
+      "gas:candidate-vibid:352300270392": 29,
+      "gas:candidate-vibid:352300270559": 25,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 66,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 19,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 66,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 19,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 116,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 17,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 116,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 17,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 25,
-      "Козерадский Анатолий Александрович": 124,
-      "Кочетков Александр Александрович": 63,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 80,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:352300270389": 25,
+      "gas:candidate-vibid:1001000225962": 124,
+      "gas:candidate-vibid:1001000136083": 63,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 80,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 16,
-      "Козерадский Анатолий Александрович": 137,
-      "Кочетков Александр Александрович": 62,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 61,
-      "Федяков Борис Львович": 14,
-      "Щавлева Татьяна Михайловна": 20,
-      "Против всех": 41
+      "gas:candidate-vibid:352300270389": 16,
+      "gas:candidate-vibid:1001000225962": 137,
+      "gas:candidate-vibid:1001000136083": 62,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 61,
+      "gas:candidate-vibid:352300270392": 14,
+      "gas:candidate-vibid:352300270559": 20,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 28,
-      "Козерадский Анатолий Александрович": 229,
-      "Кочетков Александр Александрович": 69,
-      "Кулагин Александр Михайлович": 13,
-      "Никитчук Иван Игнатьевич": 101,
-      "Федяков Борис Львович": 35,
-      "Щавлева Татьяна Михайловна": 17,
-      "Против всех": 38
+      "gas:candidate-vibid:352300270389": 28,
+      "gas:candidate-vibid:1001000225962": 229,
+      "gas:candidate-vibid:1001000136083": 69,
+      "gas:candidate-vibid:1001000339411": 13,
+      "gas:candidate-vibid:1001000121873": 101,
+      "gas:candidate-vibid:352300270392": 35,
+      "gas:candidate-vibid:352300270559": 17,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 13,
-      "Козерадский Анатолий Александрович": 107,
-      "Кочетков Александр Александрович": 60,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 52,
-      "Федяков Борис Львович": 18,
-      "Щавлева Татьяна Михайловна": 16,
-      "Против всех": 35
+      "gas:candidate-vibid:352300270389": 13,
+      "gas:candidate-vibid:1001000225962": 107,
+      "gas:candidate-vibid:1001000136083": 60,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 52,
+      "gas:candidate-vibid:352300270392": 18,
+      "gas:candidate-vibid:352300270559": 16,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 14,
-      "Козерадский Анатолий Александрович": 170,
-      "Кочетков Александр Александрович": 71,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 169,
-      "Федяков Борис Львович": 28,
-      "Щавлева Татьяна Михайловна": 20,
-      "Против всех": 54
+      "gas:candidate-vibid:352300270389": 14,
+      "gas:candidate-vibid:1001000225962": 170,
+      "gas:candidate-vibid:1001000136083": 71,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 169,
+      "gas:candidate-vibid:352300270392": 28,
+      "gas:candidate-vibid:352300270559": 20,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 14,
-      "Козерадский Анатолий Александрович": 176,
-      "Кочетков Александр Александрович": 75,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 145,
-      "Федяков Борис Львович": 19,
-      "Щавлева Татьяна Михайловна": 14,
-      "Против всех": 69
+      "gas:candidate-vibid:352300270389": 14,
+      "gas:candidate-vibid:1001000225962": 176,
+      "gas:candidate-vibid:1001000136083": 75,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 145,
+      "gas:candidate-vibid:352300270392": 19,
+      "gas:candidate-vibid:352300270559": 14,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 13,
-      "Козерадский Анатолий Александрович": 256,
-      "Кочетков Александр Александрович": 23,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 55,
-      "Федяков Борис Львович": 55,
-      "Щавлева Татьяна Михайловна": 12,
-      "Против всех": 47
+      "gas:candidate-vibid:352300270389": 13,
+      "gas:candidate-vibid:1001000225962": 256,
+      "gas:candidate-vibid:1001000136083": 23,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 55,
+      "gas:candidate-vibid:352300270392": 55,
+      "gas:candidate-vibid:352300270559": 12,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 18,
-      "Козерадский Анатолий Александрович": 253,
-      "Кочетков Александр Александрович": 82,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 104,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 18,
-      "Против всех": 52
+      "gas:candidate-vibid:352300270389": 18,
+      "gas:candidate-vibid:1001000225962": 253,
+      "gas:candidate-vibid:1001000136083": 82,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 104,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 18,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 58,
-      "Кочетков Александр Александрович": 16,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 35,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 58,
+      "gas:candidate-vibid:1001000136083": 16,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 35,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 33,
-      "Кочетков Александр Александрович": 21,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 22,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 33,
+      "gas:candidate-vibid:1001000136083": 21,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 22,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 23,
-      "Козерадский Анатолий Александрович": 156,
-      "Кочетков Александр Александрович": 24,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 42,
-      "Федяков Борис Львович": 15,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:352300270389": 23,
+      "gas:candidate-vibid:1001000225962": 156,
+      "gas:candidate-vibid:1001000136083": 24,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 42,
+      "gas:candidate-vibid:352300270392": 15,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 60,
-      "Козерадский Анатолий Александрович": 294,
-      "Кочетков Александр Александрович": 139,
-      "Кулагин Александр Михайлович": 32,
-      "Никитчук Иван Игнатьевич": 127,
-      "Федяков Борис Львович": 118,
-      "Щавлева Татьяна Михайловна": 61,
-      "Против всех": 351
+      "gas:candidate-vibid:352300270389": 60,
+      "gas:candidate-vibid:1001000225962": 294,
+      "gas:candidate-vibid:1001000136083": 139,
+      "gas:candidate-vibid:1001000339411": 32,
+      "gas:candidate-vibid:1001000121873": 127,
+      "gas:candidate-vibid:352300270392": 118,
+      "gas:candidate-vibid:352300270559": 61,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270490&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 292,
-      "Кочетков Александр Александрович": 27,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 346,
-      "Федяков Борис Львович": 15,
-      "Щавлева Татьяна Михайловна": 32,
-      "Против всех": 60
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 292,
+      "gas:candidate-vibid:1001000136083": 27,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 346,
+      "gas:candidate-vibid:352300270392": 15,
+      "gas:candidate-vibid:352300270559": 32,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 222,
-      "Кочетков Александр Александрович": 17,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 293,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 37,
-      "Против всех": 76
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 222,
+      "gas:candidate-vibid:1001000136083": 17,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 293,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 37,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 226,
-      "Кочетков Александр Александрович": 15,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 273,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 23,
-      "Против всех": 68
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 226,
+      "gas:candidate-vibid:1001000136083": 15,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 273,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 23,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 8,
-      "Козерадский Анатолий Александрович": 255,
-      "Кочетков Александр Александрович": 27,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 327,
-      "Федяков Борис Львович": 11,
-      "Щавлева Татьяна Михайловна": 23,
-      "Против всех": 71
+      "gas:candidate-vibid:352300270389": 8,
+      "gas:candidate-vibid:1001000225962": 255,
+      "gas:candidate-vibid:1001000136083": 27,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 327,
+      "gas:candidate-vibid:352300270392": 11,
+      "gas:candidate-vibid:352300270559": 23,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 308,
-      "Кочетков Александр Александрович": 34,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 460,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 34,
-      "Против всех": 76
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 308,
+      "gas:candidate-vibid:1001000136083": 34,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 460,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 34,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 277,
-      "Кочетков Александр Александрович": 30,
-      "Кулагин Александр Михайлович": 13,
-      "Никитчук Иван Игнатьевич": 312,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 40,
-      "Против всех": 74
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 277,
+      "gas:candidate-vibid:1001000136083": 30,
+      "gas:candidate-vibid:1001000339411": 13,
+      "gas:candidate-vibid:1001000121873": 312,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 40,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 125,
-      "Кочетков Александр Александрович": 11,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 102,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 13,
-      "Против всех": 20
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 125,
+      "gas:candidate-vibid:1001000136083": 11,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 102,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 13,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 300,
-      "Кочетков Александр Александрович": 18,
-      "Кулагин Александр Михайлович": 12,
-      "Никитчук Иван Игнатьевич": 273,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 32,
-      "Против всех": 58
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 300,
+      "gas:candidate-vibid:1001000136083": 18,
+      "gas:candidate-vibid:1001000339411": 12,
+      "gas:candidate-vibid:1001000121873": 273,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 32,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 111,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 77,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 13,
-      "Против всех": 13
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 111,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 77,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 13,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 50,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 59,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 50,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 59,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 159,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 88,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 16,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 159,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 88,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 16,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 57,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 70,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 57,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 70,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 53,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 19,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 53,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 19,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 54,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 22,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 54,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 22,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 95,
-      "Кочетков Александр Александрович": 20,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 100,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 95,
+      "gas:candidate-vibid:1001000136083": 20,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 100,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 70,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 12,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 70,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 12,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 67,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 19,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 67,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 19,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 74,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 58,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 74,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 58,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 163,
-      "Кочетков Александр Александрович": 15,
-      "Кулагин Александр Михайлович": 16,
-      "Никитчук Иван Игнатьевич": 215,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 19,
-      "Против всех": 34
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 163,
+      "gas:candidate-vibid:1001000136083": 15,
+      "gas:candidate-vibid:1001000339411": 16,
+      "gas:candidate-vibid:1001000121873": 215,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 19,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 14,
-      "Козерадский Анатолий Александрович": 76,
-      "Кочетков Александр Александрович": 18,
-      "Кулагин Александр Михайлович": 15,
-      "Никитчук Иван Игнатьевич": 239,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 14,
-      "Против всех": 80
+      "gas:candidate-vibid:352300270389": 14,
+      "gas:candidate-vibid:1001000225962": 76,
+      "gas:candidate-vibid:1001000136083": 18,
+      "gas:candidate-vibid:1001000339411": 15,
+      "gas:candidate-vibid:1001000121873": 239,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 14,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 149,
-      "Кочетков Александр Александрович": 17,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 156,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 17,
-      "Против всех": 25
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 149,
+      "gas:candidate-vibid:1001000136083": 17,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 156,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 17,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 9,
-      "Кочетков Александр Александрович": 16,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 17,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 9,
+      "gas:candidate-vibid:1001000136083": 16,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 17,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 129,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 41,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 14,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 129,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 41,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 14,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 118,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 221,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 118,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 221,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 52,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 32,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 52,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 32,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 50,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 87,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 50,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 87,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 136,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 96,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 23,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 136,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 96,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 23,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 97,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 17,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 19,
-      "Против всех": 16
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 97,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 17,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 19,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 109,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 48,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 109,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 48,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 72,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 30,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 72,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 30,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 36,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 25,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 36,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 25,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 156,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 96,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 156,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 96,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 54,
-      "Кочетков Александр Александрович": 14,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 35,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 54,
+      "gas:candidate-vibid:1001000136083": 14,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 35,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 19,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 45,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 19,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 45,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 30,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 13,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 30,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 13,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 144,
-      "Кочетков Александр Александрович": 16,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 80,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 10,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 144,
+      "gas:candidate-vibid:1001000136083": 16,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 80,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 10,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 79,
-      "Кочетков Александр Александрович": 18,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 38,
-      "Федяков Борис Львович": 21,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 18
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 79,
+      "gas:candidate-vibid:1001000136083": 18,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 38,
+      "gas:candidate-vibid:352300270392": 21,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 45,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 16,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 45,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 16,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 82,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 60,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 82,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 60,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 45,
-      "Кочетков Александр Александрович": 10,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 54,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 45,
+      "gas:candidate-vibid:1001000136083": 10,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 54,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 122,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 100,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 122,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 100,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 47,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 13,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 12,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 47,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 13,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 12,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 36,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 30,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 36,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 30,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 75,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 74,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 9,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 75,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 74,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 9,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 117,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 29,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 117,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 29,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 45,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 23,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 45,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 23,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 57,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 75,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 57,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 75,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 118,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 41,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 118,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 41,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270491&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 20,
-      "Козерадский Анатолий Александрович": 460,
-      "Кочетков Александр Александрович": 81,
-      "Кулагин Александр Михайлович": 21,
-      "Никитчук Иван Игнатьевич": 297,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 50,
-      "Против всех": 163
+      "gas:candidate-vibid:352300270389": 20,
+      "gas:candidate-vibid:1001000225962": 460,
+      "gas:candidate-vibid:1001000136083": 81,
+      "gas:candidate-vibid:1001000339411": 21,
+      "gas:candidate-vibid:1001000121873": 297,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 50,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 228,
-      "Кочетков Александр Александрович": 28,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 258,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 45,
-      "Против всех": 95
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 228,
+      "gas:candidate-vibid:1001000136083": 28,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 258,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 45,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 17,
-      "Козерадский Анатолий Александрович": 291,
-      "Кочетков Александр Александрович": 53,
-      "Кулагин Александр Михайлович": 20,
-      "Никитчук Иван Игнатьевич": 377,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 117,
-      "Против всех": 163
+      "gas:candidate-vibid:352300270389": 17,
+      "gas:candidate-vibid:1001000225962": 291,
+      "gas:candidate-vibid:1001000136083": 53,
+      "gas:candidate-vibid:1001000339411": 20,
+      "gas:candidate-vibid:1001000121873": 377,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 117,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 22,
-      "Козерадский Анатолий Александрович": 200,
-      "Кочетков Александр Александрович": 46,
-      "Кулагин Александр Михайлович": 15,
-      "Никитчук Иван Игнатьевич": 279,
-      "Федяков Борис Львович": 10,
-      "Щавлева Татьяна Михайловна": 85,
-      "Против всех": 110
+      "gas:candidate-vibid:352300270389": 22,
+      "gas:candidate-vibid:1001000225962": 200,
+      "gas:candidate-vibid:1001000136083": 46,
+      "gas:candidate-vibid:1001000339411": 15,
+      "gas:candidate-vibid:1001000121873": 279,
+      "gas:candidate-vibid:352300270392": 10,
+      "gas:candidate-vibid:352300270559": 85,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 178,
-      "Кочетков Александр Александрович": 18,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 124,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 124,
-      "Против всех": 54
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 178,
+      "gas:candidate-vibid:1001000136083": 18,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 124,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 124,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 15,
-      "Козерадский Анатолий Александрович": 257,
-      "Кочетков Александр Александрович": 72,
-      "Кулагин Александр Михайлович": 12,
-      "Никитчук Иван Игнатьевич": 188,
-      "Федяков Борис Львович": 17,
-      "Щавлева Татьяна Михайловна": 63,
-      "Против всех": 104
+      "gas:candidate-vibid:352300270389": 15,
+      "gas:candidate-vibid:1001000225962": 257,
+      "gas:candidate-vibid:1001000136083": 72,
+      "gas:candidate-vibid:1001000339411": 12,
+      "gas:candidate-vibid:1001000121873": 188,
+      "gas:candidate-vibid:352300270392": 17,
+      "gas:candidate-vibid:352300270559": 63,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 28,
-      "Кочетков Александр Александрович": 13,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 40,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 28,
+      "gas:candidate-vibid:1001000136083": 13,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 40,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 62,
-      "Кочетков Александр Александрович": 16,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 37,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 62,
+      "gas:candidate-vibid:1001000136083": 16,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 37,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 173,
-      "Кочетков Александр Александрович": 19,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 223,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 19,
-      "Против всех": 42
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 173,
+      "gas:candidate-vibid:1001000136083": 19,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 223,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 19,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 45,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 17,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 45,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 17,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 88,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 15,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 88,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 15,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 8,
-      "Козерадский Анатолий Александрович": 165,
-      "Кочетков Александр Александрович": 16,
-      "Кулагин Александр Михайлович": 15,
-      "Никитчук Иван Игнатьевич": 67,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 37,
-      "Против всех": 32
+      "gas:candidate-vibid:352300270389": 8,
+      "gas:candidate-vibid:1001000225962": 165,
+      "gas:candidate-vibid:1001000136083": 16,
+      "gas:candidate-vibid:1001000339411": 15,
+      "gas:candidate-vibid:1001000121873": 67,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 37,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 22,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 38,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 22,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 38,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 32,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 20,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 32,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 20,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 81,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 47,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 81,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 47,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 35,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 31,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 35,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 31,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 86,
-      "Кочетков Александр Александрович": 11,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 58,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 86,
+      "gas:candidate-vibid:1001000136083": 11,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 58,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 53,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 0,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 53,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 0,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 80,
-      "Кочетков Александр Александрович": 10,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 52,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 80,
+      "gas:candidate-vibid:1001000136083": 10,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 52,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 43,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 26,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 43,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 26,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 126,
-      "Кочетков Александр Александрович": 48,
-      "Кулагин Александр Михайлович": 13,
-      "Никитчук Иван Игнатьевич": 170,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 45,
-      "Против всех": 64
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 126,
+      "gas:candidate-vibid:1001000136083": 48,
+      "gas:candidate-vibid:1001000339411": 13,
+      "gas:candidate-vibid:1001000121873": 170,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 45,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 9,
-      "Козерадский Анатолий Александрович": 117,
-      "Кочетков Александр Александрович": 18,
-      "Кулагин Александр Михайлович": 13,
-      "Никитчук Иван Игнатьевич": 43,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 12,
-      "Против всех": 22
+      "gas:candidate-vibid:352300270389": 9,
+      "gas:candidate-vibid:1001000225962": 117,
+      "gas:candidate-vibid:1001000136083": 18,
+      "gas:candidate-vibid:1001000339411": 13,
+      "gas:candidate-vibid:1001000121873": 43,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 12,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 8,
-      "Козерадский Анатолий Александрович": 179,
-      "Кочетков Александр Александрович": 24,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 43,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 35,
-      "Против всех": 39
+      "gas:candidate-vibid:352300270389": 8,
+      "gas:candidate-vibid:1001000225962": 179,
+      "gas:candidate-vibid:1001000136083": 24,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 43,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 35,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 13,
-      "Козерадский Анатолий Александрович": 196,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 38,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 40,
-      "Против всех": 20
+      "gas:candidate-vibid:352300270389": 13,
+      "gas:candidate-vibid:1001000225962": 196,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 38,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 40,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 85,
-      "Кочетков Александр Александрович": 12,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 63,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 37,
-      "Против всех": 14
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 85,
+      "gas:candidate-vibid:1001000136083": 12,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 63,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 37,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 73,
-      "Кочетков Александр Александрович": 10,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 43,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 73,
+      "gas:candidate-vibid:1001000136083": 10,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 43,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 94,
-      "Кочетков Александр Александрович": 17,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 109,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 16,
-      "Против всех": 35
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 94,
+      "gas:candidate-vibid:1001000136083": 17,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 109,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 16,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 25,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 1,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 25,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 1,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 96,
-      "Кочетков Александр Александрович": 11,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 24,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 21,
-      "Против всех": 40
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 96,
+      "gas:candidate-vibid:1001000136083": 11,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 24,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 21,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 93,
-      "Кочетков Александр Александрович": 10,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 28,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 12,
-      "Против всех": 33
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 93,
+      "gas:candidate-vibid:1001000136083": 10,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 28,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 12,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 55,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 41,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 55,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 41,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 100,
-      "Кочетков Александр Александрович": 7,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 20,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 9,
-      "Против всех": 33
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 100,
+      "gas:candidate-vibid:1001000136083": 7,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 20,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 9,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 68,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 10,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 68,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 10,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 105,
-      "Кочетков Александр Александрович": 18,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 45,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 38
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 105,
+      "gas:candidate-vibid:1001000136083": 18,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 45,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 234,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 80,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 15,
-      "Против всех": 23
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 234,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 80,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 15,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 76,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 43,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 12,
-      "Против всех": 15
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 76,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 43,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 12,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 38,
-      "Кочетков Александр Александрович": 16,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 68,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 38,
+      "gas:candidate-vibid:1001000136083": 16,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 68,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 70,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 32,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 70,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 32,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 27,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 17,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 27,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 17,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270492&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 339,
-      "Кочетков Александр Александрович": 17,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 312,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 42,
-      "Против всех": 81
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 339,
+      "gas:candidate-vibid:1001000136083": 17,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 312,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 42,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 8,
-      "Козерадский Анатолий Александрович": 439,
-      "Кочетков Александр Александрович": 21,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 438,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 25,
-      "Против всех": 106
+      "gas:candidate-vibid:352300270389": 8,
+      "gas:candidate-vibid:1001000225962": 439,
+      "gas:candidate-vibid:1001000136083": 21,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 438,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 25,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 343,
-      "Кочетков Александр Александрович": 20,
-      "Кулагин Александр Михайлович": 13,
-      "Никитчук Иван Игнатьевич": 293,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 29,
-      "Против всех": 63
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 343,
+      "gas:candidate-vibid:1001000136083": 20,
+      "gas:candidate-vibid:1001000339411": 13,
+      "gas:candidate-vibid:1001000121873": 293,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 29,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 15,
-      "Козерадский Анатолий Александрович": 533,
-      "Кочетков Александр Александрович": 27,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 660,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 78,
-      "Против всех": 105
+      "gas:candidate-vibid:352300270389": 15,
+      "gas:candidate-vibid:1001000225962": 533,
+      "gas:candidate-vibid:1001000136083": 27,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 660,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 78,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 8,
-      "Козерадский Анатолий Александрович": 601,
-      "Кочетков Александр Александрович": 19,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 512,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 35,
-      "Против всех": 115
+      "gas:candidate-vibid:352300270389": 8,
+      "gas:candidate-vibid:1001000225962": 601,
+      "gas:candidate-vibid:1001000136083": 19,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 512,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 35,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 351,
-      "Кочетков Александр Александрович": 22,
-      "Кулагин Александр Михайлович": 12,
-      "Никитчук Иван Игнатьевич": 166,
-      "Федяков Борис Львович": 7,
-      "Щавлева Татьяна Михайловна": 38,
-      "Против всех": 57
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 351,
+      "gas:candidate-vibid:1001000136083": 22,
+      "gas:candidate-vibid:1001000339411": 12,
+      "gas:candidate-vibid:1001000121873": 166,
+      "gas:candidate-vibid:352300270392": 7,
+      "gas:candidate-vibid:352300270559": 38,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 97,
-      "Кочетков Александр Александрович": 12,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 85,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 25,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 97,
+      "gas:candidate-vibid:1001000136083": 12,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 85,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 25,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 171,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 61,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 171,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 61,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 161,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 86,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 23,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 161,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 86,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 23,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 118,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 50,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 118,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 50,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 101,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 41,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 101,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 41,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 75,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 96,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 75,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 96,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 28,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 39,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 28,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 39,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 107,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 58,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 20,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 107,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 58,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 20,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 39,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 0,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 39,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 0,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 48,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 10,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 48,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 10,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 113,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 43,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 12,
-      "Против всех": 28
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 113,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 43,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 12,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 49,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 11,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 49,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 11,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 43,
-      "Кочетков Александр Александрович": 2,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 21,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 43,
+      "gas:candidate-vibid:1001000136083": 2,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 21,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 183,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 62,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 183,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 62,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 27,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 21,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 27,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 21,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270493&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 11,
-      "Козерадский Анатолий Александрович": 501,
-      "Кочетков Александр Александрович": 48,
-      "Кулагин Александр Михайлович": 29,
-      "Никитчук Иван Игнатьевич": 203,
-      "Федяков Борис Львович": 9,
-      "Щавлева Татьяна Михайловна": 46,
-      "Против всех": 72
+      "gas:candidate-vibid:352300270389": 11,
+      "gas:candidate-vibid:1001000225962": 501,
+      "gas:candidate-vibid:1001000136083": 48,
+      "gas:candidate-vibid:1001000339411": 29,
+      "gas:candidate-vibid:1001000121873": 203,
+      "gas:candidate-vibid:352300270392": 9,
+      "gas:candidate-vibid:352300270559": 46,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 12,
-      "Козерадский Анатолий Александрович": 546,
-      "Кочетков Александр Александрович": 47,
-      "Кулагин Александр Михайлович": 39,
-      "Никитчук Иван Игнатьевич": 151,
-      "Федяков Борис Львович": 20,
-      "Щавлева Татьяна Михайловна": 70,
-      "Против всех": 93
+      "gas:candidate-vibid:352300270389": 12,
+      "gas:candidate-vibid:1001000225962": 546,
+      "gas:candidate-vibid:1001000136083": 47,
+      "gas:candidate-vibid:1001000339411": 39,
+      "gas:candidate-vibid:1001000121873": 151,
+      "gas:candidate-vibid:352300270392": 20,
+      "gas:candidate-vibid:352300270559": 70,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 16,
-      "Козерадский Анатолий Александрович": 816,
-      "Кочетков Александр Александрович": 66,
-      "Кулагин Александр Михайлович": 39,
-      "Никитчук Иван Игнатьевич": 231,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 102,
-      "Против всех": 124
+      "gas:candidate-vibid:352300270389": 16,
+      "gas:candidate-vibid:1001000225962": 816,
+      "gas:candidate-vibid:1001000136083": 66,
+      "gas:candidate-vibid:1001000339411": 39,
+      "gas:candidate-vibid:1001000121873": 231,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 102,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 404,
-      "Кочетков Александр Александрович": 68,
-      "Кулагин Александр Михайлович": 33,
-      "Никитчук Иван Игнатьевич": 150,
-      "Федяков Борис Львович": 14,
-      "Щавлева Татьяна Михайловна": 37,
-      "Против всех": 96
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 404,
+      "gas:candidate-vibid:1001000136083": 68,
+      "gas:candidate-vibid:1001000339411": 33,
+      "gas:candidate-vibid:1001000121873": 150,
+      "gas:candidate-vibid:352300270392": 14,
+      "gas:candidate-vibid:352300270559": 37,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 816,
-      "Кочетков Александр Александрович": 77,
-      "Кулагин Александр Михайлович": 54,
-      "Никитчук Иван Игнатьевич": 202,
-      "Федяков Борис Львович": 21,
-      "Щавлева Татьяна Михайловна": 131,
-      "Против всех": 181
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 816,
+      "gas:candidate-vibid:1001000136083": 77,
+      "gas:candidate-vibid:1001000339411": 54,
+      "gas:candidate-vibid:1001000121873": 202,
+      "gas:candidate-vibid:352300270392": 21,
+      "gas:candidate-vibid:352300270559": 131,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 143,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 12,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 22,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 143,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 12,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 22,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 271,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 47,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 271,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 47,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 139,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 23,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 139,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 23,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 177,
-      "Кочетков Александр Александрович": 18,
-      "Кулагин Александр Михайлович": 10,
-      "Никитчук Иван Игнатьевич": 89,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 22,
-      "Против всех": 29
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 177,
+      "gas:candidate-vibid:1001000136083": 18,
+      "gas:candidate-vibid:1001000339411": 10,
+      "gas:candidate-vibid:1001000121873": 89,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 22,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 315,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 10,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 315,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 10,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 157,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 27,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 10,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 157,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 27,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 10,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 15,
-      "Козерадский Анатолий Александрович": 649,
-      "Кочетков Александр Александрович": 52,
-      "Кулагин Александр Михайлович": 34,
-      "Никитчук Иван Игнатьевич": 138,
-      "Федяков Борис Львович": 13,
-      "Щавлева Татьяна Михайловна": 22,
-      "Против всех": 82
+      "gas:candidate-vibid:352300270389": 15,
+      "gas:candidate-vibid:1001000225962": 649,
+      "gas:candidate-vibid:1001000136083": 52,
+      "gas:candidate-vibid:1001000339411": 34,
+      "gas:candidate-vibid:1001000121873": 138,
+      "gas:candidate-vibid:352300270392": 13,
+      "gas:candidate-vibid:352300270559": 22,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 18,
-      "Козерадский Анатолий Александрович": 278,
-      "Кочетков Александр Александрович": 20,
-      "Кулагин Александр Михайлович": 20,
-      "Никитчук Иван Игнатьевич": 48,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 26,
-      "Против всех": 36
+      "gas:candidate-vibid:352300270389": 18,
+      "gas:candidate-vibid:1001000225962": 278,
+      "gas:candidate-vibid:1001000136083": 20,
+      "gas:candidate-vibid:1001000339411": 20,
+      "gas:candidate-vibid:1001000121873": 48,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 26,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 259,
-      "Кочетков Александр Александрович": 22,
-      "Кулагин Александр Михайлович": 15,
-      "Никитчук Иван Игнатьевич": 34,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 16,
-      "Против всех": 32
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 259,
+      "gas:candidate-vibid:1001000136083": 22,
+      "gas:candidate-vibid:1001000339411": 15,
+      "gas:candidate-vibid:1001000121873": 34,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 16,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 188,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 50,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 188,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 50,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 511,
-      "Кочетков Александр Александрович": 13,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 85,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 11,
-      "Против всех": 18
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 511,
+      "gas:candidate-vibid:1001000136083": 13,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 85,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 11,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 160,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 57,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 160,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 57,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 10,
-      "Козерадский Анатолий Александрович": 286,
-      "Кочетков Александр Александрович": 10,
-      "Кулагин Александр Михайлович": 29,
-      "Никитчук Иван Игнатьевич": 76,
-      "Федяков Борис Львович": 11,
-      "Щавлева Татьяна Михайловна": 15,
-      "Против всех": 27
+      "gas:candidate-vibid:352300270389": 10,
+      "gas:candidate-vibid:1001000225962": 286,
+      "gas:candidate-vibid:1001000136083": 10,
+      "gas:candidate-vibid:1001000339411": 29,
+      "gas:candidate-vibid:1001000121873": 76,
+      "gas:candidate-vibid:352300270392": 11,
+      "gas:candidate-vibid:352300270559": 15,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 50,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 13,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 50,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 13,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 220,
-      "Кочетков Александр Александрович": 10,
-      "Кулагин Александр Михайлович": 4,
-      "Никитчук Иван Игнатьевич": 28,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 38,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 220,
+      "gas:candidate-vibid:1001000136083": 10,
+      "gas:candidate-vibid:1001000339411": 4,
+      "gas:candidate-vibid:1001000121873": 28,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 38,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 151,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 7,
-      "Никитчук Иван Игнатьевич": 16,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 151,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 7,
+      "gas:candidate-vibid:1001000121873": 16,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 29,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 24,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 29,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 24,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 6,
-      "Козерадский Анатолий Александрович": 439,
-      "Кочетков Александр Александрович": 15,
-      "Кулагин Александр Михайлович": 19,
-      "Никитчук Иван Игнатьевич": 265,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 48,
-      "Против всех": 22
+      "gas:candidate-vibid:352300270389": 6,
+      "gas:candidate-vibid:1001000225962": 439,
+      "gas:candidate-vibid:1001000136083": 15,
+      "gas:candidate-vibid:1001000339411": 19,
+      "gas:candidate-vibid:1001000121873": 265,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 48,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 120,
-      "Кочетков Александр Александрович": 8,
-      "Кулагин Александр Михайлович": 8,
-      "Никитчук Иван Игнатьевич": 89,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 120,
+      "gas:candidate-vibid:1001000136083": 8,
+      "gas:candidate-vibid:1001000339411": 8,
+      "gas:candidate-vibid:1001000121873": 89,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 35,
-      "Кочетков Александр Александрович": 3,
-      "Кулагин Александр Михайлович": 6,
-      "Никитчук Иван Игнатьевич": 5,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 35,
+      "gas:candidate-vibid:1001000136083": 3,
+      "gas:candidate-vibid:1001000339411": 6,
+      "gas:candidate-vibid:1001000121873": 5,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 169,
-      "Кочетков Александр Александрович": 17,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 63,
-      "Федяков Борис Львович": 8,
-      "Щавлева Татьяна Михайловна": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 169,
+      "gas:candidate-vibid:1001000136083": 17,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 63,
+      "gas:candidate-vibid:352300270392": 8,
+      "gas:candidate-vibid:352300270559": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 50,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 9,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 50,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 9,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 339,
-      "Кочетков Александр Александрович": 12,
-      "Кулагин Александр Михайлович": 14,
-      "Никитчук Иван Игнатьевич": 55,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 36,
-      "Против всех": 24
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 339,
+      "gas:candidate-vibid:1001000136083": 12,
+      "gas:candidate-vibid:1001000339411": 14,
+      "gas:candidate-vibid:1001000121873": 55,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 36,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 55,
-      "Кочетков Александр Александрович": 0,
-      "Кулагин Александр Михайлович": 3,
-      "Никитчук Иван Игнатьевич": 2,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 55,
+      "gas:candidate-vibid:1001000136083": 0,
+      "gas:candidate-vibid:1001000339411": 3,
+      "gas:candidate-vibid:1001000121873": 2,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 4,
-      "Козерадский Анатолий Александрович": 205,
-      "Кочетков Александр Александрович": 11,
-      "Кулагин Александр Михайлович": 2,
-      "Никитчук Иван Игнатьевич": 46,
-      "Федяков Борис Львович": 5,
-      "Щавлева Татьяна Михайловна": 45,
-      "Против всех": 13
+      "gas:candidate-vibid:352300270389": 4,
+      "gas:candidate-vibid:1001000225962": 205,
+      "gas:candidate-vibid:1001000136083": 11,
+      "gas:candidate-vibid:1001000339411": 2,
+      "gas:candidate-vibid:1001000121873": 46,
+      "gas:candidate-vibid:352300270392": 5,
+      "gas:candidate-vibid:352300270559": 45,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 181,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 20,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 8,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 181,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 20,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 8,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 190,
-      "Кочетков Александр Александрович": 9,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 52,
-      "Федяков Борис Львович": 6,
-      "Щавлева Татьяна Михайловна": 18,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 190,
+      "gas:candidate-vibid:1001000136083": 9,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 52,
+      "gas:candidate-vibid:352300270392": 6,
+      "gas:candidate-vibid:352300270559": 18,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 59,
-      "Кочетков Александр Александрович": 1,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 4,
-      "Федяков Борис Львович": 4,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 59,
+      "gas:candidate-vibid:1001000136083": 1,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 4,
+      "gas:candidate-vibid:352300270392": 4,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 7,
-      "Козерадский Анатолий Александрович": 264,
-      "Кочетков Александр Александрович": 12,
-      "Кулагин Александр Михайлович": 14,
-      "Никитчук Иван Игнатьевич": 21,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:352300270389": 7,
+      "gas:candidate-vibid:1001000225962": 264,
+      "gas:candidate-vibid:1001000136083": 12,
+      "gas:candidate-vibid:1001000339411": 14,
+      "gas:candidate-vibid:1001000121873": 21,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 1,
-      "Козерадский Анатолий Александрович": 62,
-      "Кочетков Александр Александрович": 6,
-      "Кулагин Александр Михайлович": 1,
-      "Никитчук Иван Игнатьевич": 1,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:352300270389": 1,
+      "gas:candidate-vibid:1001000225962": 62,
+      "gas:candidate-vibid:1001000136083": 6,
+      "gas:candidate-vibid:1001000339411": 1,
+      "gas:candidate-vibid:1001000121873": 1,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 5,
-      "Козерадский Анатолий Александрович": 145,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 83,
-      "Федяков Борис Львович": 2,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:352300270389": 5,
+      "gas:candidate-vibid:1001000225962": 145,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 83,
+      "gas:candidate-vibid:352300270392": 2,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 3,
-      "Козерадский Анатолий Александрович": 121,
-      "Кочетков Александр Александрович": 4,
-      "Кулагин Александр Михайлович": 5,
-      "Никитчук Иван Игнатьевич": 16,
-      "Федяков Борис Львович": 1,
-      "Щавлева Татьяна Михайловна": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:352300270389": 3,
+      "gas:candidate-vibid:1001000225962": 121,
+      "gas:candidate-vibid:1001000136083": 4,
+      "gas:candidate-vibid:1001000339411": 5,
+      "gas:candidate-vibid:1001000121873": 16,
+      "gas:candidate-vibid:352300270392": 1,
+      "gas:candidate-vibid:352300270559": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 0,
-      "Козерадский Анатолий Александрович": 49,
-      "Кочетков Александр Александрович": 5,
-      "Кулагин Александр Михайлович": 0,
-      "Никитчук Иван Игнатьевич": 31,
-      "Федяков Борис Львович": 3,
-      "Щавлева Татьяна Михайловна": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:352300270389": 0,
+      "gas:candidate-vibid:1001000225962": 49,
+      "gas:candidate-vibid:1001000136083": 5,
+      "gas:candidate-vibid:1001000339411": 0,
+      "gas:candidate-vibid:1001000121873": 31,
+      "gas:candidate-vibid:352300270392": 3,
+      "gas:candidate-vibid:352300270559": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_52_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бардин Юрий Иванович": 2,
-      "Козерадский Анатолий Александрович": 200,
-      "Кочетков Александр Александрович": 12,
-      "Кулагин Александр Михайлович": 9,
-      "Никитчук Иван Игнатьевич": 35,
-      "Федяков Борис Львович": 0,
-      "Щавлева Татьяна Михайловна": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:352300270389": 2,
+      "gas:candidate-vibid:1001000225962": 200,
+      "gas:candidate-vibid:1001000136083": 12,
+      "gas:candidate-vibid:1001000339411": 9,
+      "gas:candidate-vibid:1001000121873": 35,
+      "gas:candidate-vibid:352300270392": 0,
+      "gas:candidate-vibid:352300270559": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300270494&region=0&sub_region=0&type=429",

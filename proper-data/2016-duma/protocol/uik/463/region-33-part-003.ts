@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 51,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 213,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 24,
-      "Петухов Сергей Викторович": 6,
-      "Сипягин Владимир Владимирович": 52
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 51,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 213,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 24,
+      "gas:candidate-vibid:2332000798996": 6,
+      "gas:candidate-vibid:2332000784676": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 30,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 134,
-      "Казаков Сергей Валентинович": 9,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 17,
-      "Петухов Сергей Викторович": 6,
-      "Сипягин Владимир Владимирович": 39
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 30,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 134,
+      "gas:candidate-vibid:2332000790869": 9,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 17,
+      "gas:candidate-vibid:2332000798996": 6,
+      "gas:candidate-vibid:2332000784676": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 73,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 487,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 49,
-      "Петухов Сергей Викторович": 24,
-      "Сипягин Владимир Владимирович": 89
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 73,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 487,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 49,
+      "gas:candidate-vibid:2332000798996": 24,
+      "gas:candidate-vibid:2332000784676": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 36,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 224,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 42,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 43
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 36,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 224,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 42,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 66,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 390,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 60,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 70
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 66,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 390,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 60,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 29,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 171,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 55,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 39
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 29,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 171,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 55,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 20,
-      "Игошин Игорь Николаевич": 265,
-      "Казаков Сергей Валентинович": 30,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 59,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 65
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 20,
+      "gas:candidate-vibid:2332000795528": 265,
+      "gas:candidate-vibid:2332000790869": 30,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 59,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 55,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 184,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 73,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 42
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 55,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 184,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 73,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 20,
-      "Емельянова Лариса Николаевна": 105,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 482,
-      "Казаков Сергей Валентинович": 20,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 91,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 112
+      "gas:candidate-vibid:2332000796818": 20,
+      "gas:candidate-vibid:2332000789037": 105,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 482,
+      "gas:candidate-vibid:2332000790869": 20,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 91,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 53,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 173,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 32,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 45
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 53,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 173,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 32,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 105,
-      "Ефремов Алексей Николаевич": 19,
-      "Игошин Игорь Николаевич": 417,
-      "Казаков Сергей Валентинович": 22,
-      "Ковалев Кирилл Юрьевич": 14,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 93,
-      "Петухов Сергей Викторович": 23,
-      "Сипягин Владимир Владимирович": 85
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 105,
+      "gas:candidate-vibid:2332000799050": 19,
+      "gas:candidate-vibid:2332000795528": 417,
+      "gas:candidate-vibid:2332000790869": 22,
+      "gas:candidate-vibid:2332000791433": 14,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 93,
+      "gas:candidate-vibid:2332000798996": 23,
+      "gas:candidate-vibid:2332000784676": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 73,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 352,
-      "Казаков Сергей Валентинович": 9,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 46,
-      "Петухов Сергей Викторович": 17,
-      "Сипягин Владимир Владимирович": 53
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 73,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 352,
+      "gas:candidate-vibid:2332000790869": 9,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 46,
+      "gas:candidate-vibid:2332000798996": 17,
+      "gas:candidate-vibid:2332000784676": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 41,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 175,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 44,
-      "Петухов Сергей Викторович": 6,
-      "Сипягин Владимир Владимирович": 47
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 41,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 175,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 44,
+      "gas:candidate-vibid:2332000798996": 6,
+      "gas:candidate-vibid:2332000784676": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 19,
-      "Емельянова Лариса Николаевна": 85,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 459,
-      "Казаков Сергей Валентинович": 21,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 73,
-      "Петухов Сергей Викторович": 26,
-      "Сипягин Владимир Владимирович": 98
+      "gas:candidate-vibid:2332000796818": 19,
+      "gas:candidate-vibid:2332000789037": 85,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 459,
+      "gas:candidate-vibid:2332000790869": 21,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 73,
+      "gas:candidate-vibid:2332000798996": 26,
+      "gas:candidate-vibid:2332000784676": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 54,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 255,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 49,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 49
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 54,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 255,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 49,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 18,
-      "Емельянова Лариса Николаевна": 109,
-      "Ефремов Алексей Николаевич": 22,
-      "Игошин Игорь Николаевич": 471,
-      "Казаков Сергей Валентинович": 20,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 93,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 90
+      "gas:candidate-vibid:2332000796818": 18,
+      "gas:candidate-vibid:2332000789037": 109,
+      "gas:candidate-vibid:2332000799050": 22,
+      "gas:candidate-vibid:2332000795528": 471,
+      "gas:candidate-vibid:2332000790869": 20,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 93,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 107,
-      "Ефремов Алексей Николаевич": 32,
-      "Игошин Игорь Николаевич": 453,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 15,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 101,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 88
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 107,
+      "gas:candidate-vibid:2332000799050": 32,
+      "gas:candidate-vibid:2332000795528": 453,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 15,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 101,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 47,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 278,
-      "Казаков Сергей Валентинович": 33,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 27,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 47
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 47,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 278,
+      "gas:candidate-vibid:2332000790869": 33,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 27,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 33,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 211,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 14,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 33
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 33,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 211,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 14,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -1183,15 +1183,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 667,
-      "Беляков Валерий Иванович": 41,
-      "Бундина Людмила Александровна": 66,
-      "Клопов Сергей Михайлович": 15,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 9,
-      "Потапов Илья Александрович": 45,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 667,
+      "gas:candidate-vibid:2332000788930": 41,
+      "gas:candidate-vibid:2332000795020": 66,
+      "gas:candidate-vibid:2332000787629": 15,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 9,
+      "gas:candidate-vibid:2332000783787": 45,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1242,15 +1242,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 308,
-      "Беляков Валерий Иванович": 14,
-      "Бундина Людмила Александровна": 48,
-      "Клопов Сергей Михайлович": 12,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 42,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 308,
+      "gas:candidate-vibid:2332000788930": 14,
+      "gas:candidate-vibid:2332000795020": 48,
+      "gas:candidate-vibid:2332000787629": 12,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 42,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1301,15 +1301,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 329,
-      "Беляков Валерий Иванович": 27,
-      "Бундина Людмила Александровна": 77,
-      "Клопов Сергей Михайлович": 17,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 56,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 329,
+      "gas:candidate-vibid:2332000788930": 27,
+      "gas:candidate-vibid:2332000795020": 77,
+      "gas:candidate-vibid:2332000787629": 17,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 56,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1360,15 +1360,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 317,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 59,
-      "Клопов Сергей Михайлович": 19,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 37,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 317,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 59,
+      "gas:candidate-vibid:2332000787629": 19,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 37,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1419,15 +1419,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 320,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 86,
-      "Клопов Сергей Михайлович": 15,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 53,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 320,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 86,
+      "gas:candidate-vibid:2332000787629": 15,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 53,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1478,15 +1478,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 576,
-      "Беляков Валерий Иванович": 53,
-      "Бундина Людмила Александровна": 121,
-      "Клопов Сергей Михайлович": 20,
-      "Колесник Анна Владимировна": 8,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 11,
-      "Потапов Илья Александрович": 56,
-      "Усачев Алексей Викторович": 10
+      "gas:candidate-vibid:2332000794590": 576,
+      "gas:candidate-vibid:2332000788930": 53,
+      "gas:candidate-vibid:2332000795020": 121,
+      "gas:candidate-vibid:2332000787629": 20,
+      "gas:candidate-vibid:2332000796628": 8,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 11,
+      "gas:candidate-vibid:2332000783787": 56,
+      "gas:candidate-vibid:2332000796850": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1537,15 +1537,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 544,
-      "Беляков Валерий Иванович": 43,
-      "Бундина Людмила Александровна": 92,
-      "Клопов Сергей Михайлович": 15,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 10,
-      "Потапов Илья Александрович": 68,
-      "Усачев Алексей Викторович": 8
+      "gas:candidate-vibid:2332000794590": 544,
+      "gas:candidate-vibid:2332000788930": 43,
+      "gas:candidate-vibid:2332000795020": 92,
+      "gas:candidate-vibid:2332000787629": 15,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 10,
+      "gas:candidate-vibid:2332000783787": 68,
+      "gas:candidate-vibid:2332000796850": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1596,15 +1596,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 293,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 75,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 35,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 293,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 75,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 35,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1655,15 +1655,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 293,
-      "Беляков Валерий Иванович": 29,
-      "Бундина Людмила Александровна": 58,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 35,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 293,
+      "gas:candidate-vibid:2332000788930": 29,
+      "gas:candidate-vibid:2332000795020": 58,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 35,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1714,15 +1714,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 180,
-      "Беляков Валерий Иванович": 12,
-      "Бундина Людмила Александровна": 18,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 28,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 180,
+      "gas:candidate-vibid:2332000788930": 12,
+      "gas:candidate-vibid:2332000795020": 18,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 28,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1773,15 +1773,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 141,
-      "Беляков Валерий Иванович": 12,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 11,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 19,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 141,
+      "gas:candidate-vibid:2332000788930": 12,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 11,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 19,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1832,15 +1832,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 275,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 50,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 51,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 275,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 50,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 51,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1891,15 +1891,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 149,
-      "Беляков Валерий Иванович": 17,
-      "Бундина Людмила Александровна": 20,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 149,
+      "gas:candidate-vibid:2332000788930": 17,
+      "gas:candidate-vibid:2332000795020": 20,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -1950,15 +1950,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 133,
-      "Беляков Валерий Иванович": 5,
-      "Бундина Людмила Александровна": 25,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 5,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 133,
+      "gas:candidate-vibid:2332000788930": 5,
+      "gas:candidate-vibid:2332000795020": 25,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 5,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2009,15 +2009,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 110,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 10,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 25,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 110,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 10,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 25,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2068,15 +2068,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 101,
-      "Беляков Валерий Иванович": 6,
-      "Бундина Людмила Александровна": 50,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 101,
+      "gas:candidate-vibid:2332000788930": 6,
+      "gas:candidate-vibid:2332000795020": 50,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2127,15 +2127,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 193,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 24,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 25,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 193,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 24,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 25,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2186,15 +2186,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 108,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 35,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 108,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 35,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2245,15 +2245,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 155,
-      "Беляков Валерий Иванович": 5,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 19,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 155,
+      "gas:candidate-vibid:2332000788930": 5,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 19,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2304,15 +2304,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 280,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 23,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 32,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 280,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 23,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 32,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2363,15 +2363,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 217,
-      "Беляков Валерий Иванович": 18,
-      "Бундина Людмила Александровна": 28,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 27,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 217,
+      "gas:candidate-vibid:2332000788930": 18,
+      "gas:candidate-vibid:2332000795020": 28,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 27,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2422,15 +2422,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 273,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 273,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2481,15 +2481,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 215,
-      "Беляков Валерий Иванович": 20,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 31,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 215,
+      "gas:candidate-vibid:2332000788930": 20,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 31,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2540,15 +2540,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 207,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 22,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 22,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 207,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 22,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 22,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2599,15 +2599,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 116,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 34,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 12,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 116,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 34,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 12,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2658,15 +2658,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 112,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 18,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 13,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 112,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 18,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 13,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2717,15 +2717,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 366,
-      "Беляков Валерий Иванович": 22,
-      "Бундина Людмила Александровна": 24,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 33,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 366,
+      "gas:candidate-vibid:2332000788930": 22,
+      "gas:candidate-vibid:2332000795020": 24,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 33,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2776,15 +2776,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 393,
-      "Беляков Валерий Иванович": 20,
-      "Бундина Людмила Александровна": 105,
-      "Клопов Сергей Михайлович": 14,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 24,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 393,
+      "gas:candidate-vibid:2332000788930": 20,
+      "gas:candidate-vibid:2332000795020": 105,
+      "gas:candidate-vibid:2332000787629": 14,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 24,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2835,15 +2835,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 327,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 30,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 327,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 30,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2894,15 +2894,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 211,
-      "Беляков Валерий Иванович": 6,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 17,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 211,
+      "gas:candidate-vibid:2332000788930": 6,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 17,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -2953,15 +2953,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 81,
-      "Беляков Валерий Иванович": 6,
-      "Бундина Людмила Александровна": 9,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 4,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 81,
+      "gas:candidate-vibid:2332000788930": 6,
+      "gas:candidate-vibid:2332000795020": 9,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 4,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3012,15 +3012,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 142,
-      "Беляков Валерий Иванович": 5,
-      "Бундина Людмила Александровна": 13,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 142,
+      "gas:candidate-vibid:2332000788930": 5,
+      "gas:candidate-vibid:2332000795020": 13,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3071,15 +3071,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 179,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 11,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 14,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 179,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 11,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 14,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3130,15 +3130,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 116,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 14,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 13,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 116,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 14,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 13,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3189,15 +3189,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 87,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 23,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 13,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 87,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 23,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 13,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3248,15 +3248,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 85,
-      "Беляков Валерий Иванович": 7,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 85,
+      "gas:candidate-vibid:2332000788930": 7,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3307,15 +3307,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 57,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 3,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 57,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 3,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3366,15 +3366,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 68,
-      "Беляков Валерий Иванович": 8,
-      "Бундина Людмила Александровна": 27,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 68,
+      "gas:candidate-vibid:2332000788930": 8,
+      "gas:candidate-vibid:2332000795020": 27,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3425,15 +3425,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 334,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 51,
-      "Клопов Сергей Михайлович": 16,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 43,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 334,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 51,
+      "gas:candidate-vibid:2332000787629": 16,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 43,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3484,15 +3484,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 301,
-      "Беляков Валерий Иванович": 28,
-      "Бундина Людмила Александровна": 47,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 13,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 36,
-      "Усачев Алексей Викторович": 7
+      "gas:candidate-vibid:2332000794590": 301,
+      "gas:candidate-vibid:2332000788930": 28,
+      "gas:candidate-vibid:2332000795020": 47,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 13,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 36,
+      "gas:candidate-vibid:2332000796850": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725984&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725984&type=464",
@@ -3543,15 +3543,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 445,
-      "Беляков Валерий Иванович": 17,
-      "Бундина Людмила Александровна": 60,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 10,
-      "Потапов Илья Александрович": 34,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 445,
+      "gas:candidate-vibid:2332000788930": 17,
+      "gas:candidate-vibid:2332000795020": 60,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 10,
+      "gas:candidate-vibid:2332000783787": 34,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -3602,15 +3602,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 369,
-      "Беляков Валерий Иванович": 37,
-      "Бундина Людмила Александровна": 51,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 15,
-      "Потапов Илья Александрович": 38,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 369,
+      "gas:candidate-vibid:2332000788930": 37,
+      "gas:candidate-vibid:2332000795020": 51,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 15,
+      "gas:candidate-vibid:2332000783787": 38,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -3661,15 +3661,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 158,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 11,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 13,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 158,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 11,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 13,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -3720,15 +3720,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 89,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 4,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 3,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 89,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 4,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 3,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -3779,15 +3779,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 45,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 7,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 45,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 7,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -3838,15 +3838,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 313,
-      "Беляков Валерий Иванович": 25,
-      "Бундина Людмила Александровна": 30,
-      "Клопов Сергей Михайлович": 12,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 24,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 313,
+      "gas:candidate-vibid:2332000788930": 25,
+      "gas:candidate-vibid:2332000795020": 30,
+      "gas:candidate-vibid:2332000787629": 12,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 24,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -3897,15 +3897,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 448,
-      "Беляков Валерий Иванович": 14,
-      "Бундина Людмила Александровна": 26,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 25,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 448,
+      "gas:candidate-vibid:2332000788930": 14,
+      "gas:candidate-vibid:2332000795020": 26,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 25,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -3956,15 +3956,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 175,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 175,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4015,15 +4015,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 116,
-      "Беляков Валерий Иванович": 7,
-      "Бундина Людмила Александровна": 9,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 12,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 116,
+      "gas:candidate-vibid:2332000788930": 7,
+      "gas:candidate-vibid:2332000795020": 9,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 12,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4074,15 +4074,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 182,
-      "Беляков Валерий Иванович": 15,
-      "Бундина Людмила Александровна": 25,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 9,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 182,
+      "gas:candidate-vibid:2332000788930": 15,
+      "gas:candidate-vibid:2332000795020": 25,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 9,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4133,15 +4133,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 317,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 26,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 26,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 317,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 26,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 26,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4192,15 +4192,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 145,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 9,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 145,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 9,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4251,15 +4251,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 374,
-      "Беляков Валерий Иванович": 31,
-      "Бундина Людмила Александровна": 31,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 18,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 30,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 374,
+      "gas:candidate-vibid:2332000788930": 31,
+      "gas:candidate-vibid:2332000795020": 31,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 18,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 30,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4310,15 +4310,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 93,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 16,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 13,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 93,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 16,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 13,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4369,15 +4369,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 67,
-      "Беляков Валерий Иванович": 2,
-      "Бундина Людмила Александровна": 16,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 3,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 67,
+      "gas:candidate-vibid:2332000788930": 2,
+      "gas:candidate-vibid:2332000795020": 16,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 3,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4428,15 +4428,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 212,
-      "Беляков Валерий Иванович": 33,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 212,
+      "gas:candidate-vibid:2332000788930": 33,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4487,15 +4487,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 210,
-      "Беляков Валерий Иванович": 15,
-      "Бундина Людмила Александровна": 18,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 19,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 210,
+      "gas:candidate-vibid:2332000788930": 15,
+      "gas:candidate-vibid:2332000795020": 18,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 19,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4546,15 +4546,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 128,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 5,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 12,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 128,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 5,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 12,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4605,15 +4605,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 453,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 28,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 11,
-      "Потапов Илья Александрович": 43,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 453,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 28,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 11,
+      "gas:candidate-vibid:2332000783787": 43,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4664,15 +4664,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 161,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 161,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4723,15 +4723,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 178,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 12,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 178,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 12,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4782,15 +4782,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 176,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 9,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 176,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 9,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4841,15 +4841,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 184,
-      "Беляков Валерий Иванович": 5,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 4,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 184,
+      "gas:candidate-vibid:2332000788930": 5,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 4,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4900,15 +4900,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 627,
-      "Беляков Валерий Иванович": 35,
-      "Бундина Людмила Александровна": 40,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 18,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 61,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 627,
+      "gas:candidate-vibid:2332000788930": 35,
+      "gas:candidate-vibid:2332000795020": 40,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 18,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 61,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -4959,15 +4959,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 86,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 6,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 5,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 86,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 6,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 5,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5018,15 +5018,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 68,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 7,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 9,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 68,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 7,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 9,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5077,15 +5077,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 254,
-      "Беляков Валерий Иванович": 33,
-      "Бундина Людмила Александровна": 10,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 27,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 254,
+      "gas:candidate-vibid:2332000788930": 33,
+      "gas:candidate-vibid:2332000795020": 10,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 27,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5136,15 +5136,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 347,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 27,
-      "Клопов Сергей Михайлович": 11,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 20,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 347,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 27,
+      "gas:candidate-vibid:2332000787629": 11,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 20,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5195,15 +5195,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 48,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 6,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 0,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 48,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 6,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 0,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5254,15 +5254,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 141,
-      "Беляков Валерий Иванович": 25,
-      "Бундина Людмила Александровна": 24,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 0,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 141,
+      "gas:candidate-vibid:2332000788930": 25,
+      "gas:candidate-vibid:2332000795020": 24,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 0,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5313,15 +5313,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 149,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 14,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 149,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 14,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5372,15 +5372,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 119,
-      "Беляков Валерий Иванович": 14,
-      "Бундина Людмила Александровна": 10,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 15,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 119,
+      "gas:candidate-vibid:2332000788930": 14,
+      "gas:candidate-vibid:2332000795020": 10,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 15,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5431,15 +5431,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 326,
-      "Беляков Валерий Иванович": 25,
-      "Бундина Людмила Александровна": 48,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 28,
-      "Усачев Алексей Викторович": 11
+      "gas:candidate-vibid:2332000794590": 326,
+      "gas:candidate-vibid:2332000788930": 25,
+      "gas:candidate-vibid:2332000795020": 48,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 28,
+      "gas:candidate-vibid:2332000796850": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5490,15 +5490,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 28,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 5,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 2,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 28,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 5,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 2,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5549,15 +5549,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 96,
-      "Беляков Валерий Иванович": 6,
-      "Бундина Людмила Александровна": 9,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 14,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 96,
+      "gas:candidate-vibid:2332000788930": 6,
+      "gas:candidate-vibid:2332000795020": 9,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 14,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5608,15 +5608,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 40,
-      "Беляков Валерий Иванович": 1,
-      "Бундина Людмила Александровна": 3,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 2,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 40,
+      "gas:candidate-vibid:2332000788930": 1,
+      "gas:candidate-vibid:2332000795020": 3,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 2,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5667,15 +5667,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 215,
-      "Беляков Валерий Иванович": 21,
-      "Бундина Людмила Александровна": 6,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 215,
+      "gas:candidate-vibid:2332000788930": 21,
+      "gas:candidate-vibid:2332000795020": 6,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5726,15 +5726,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 187,
-      "Беляков Валерий Иванович": 8,
-      "Бундина Людмила Александровна": 11,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 4,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 187,
+      "gas:candidate-vibid:2332000788930": 8,
+      "gas:candidate-vibid:2332000795020": 11,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 4,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5785,15 +5785,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 146,
-      "Беляков Валерий Иванович": 25,
-      "Бундина Людмила Александровна": 25,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 16,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 146,
+      "gas:candidate-vibid:2332000788930": 25,
+      "gas:candidate-vibid:2332000795020": 25,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 16,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5844,15 +5844,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 426,
-      "Беляков Валерий Иванович": 50,
-      "Бундина Людмила Александровна": 65,
-      "Клопов Сергей Михайлович": 10,
-      "Колесник Анна Владимировна": 8,
-      "Кушпита Дмитрий Юрьевич": 10,
-      "Николенко Кирилл Дмитриевич": 11,
-      "Потапов Илья Александрович": 52,
-      "Усачев Алексей Викторович": 20
+      "gas:candidate-vibid:2332000794590": 426,
+      "gas:candidate-vibid:2332000788930": 50,
+      "gas:candidate-vibid:2332000795020": 65,
+      "gas:candidate-vibid:2332000787629": 10,
+      "gas:candidate-vibid:2332000796628": 8,
+      "gas:candidate-vibid:2332000799068": 10,
+      "gas:candidate-vibid:2332000790574": 11,
+      "gas:candidate-vibid:2332000783787": 52,
+      "gas:candidate-vibid:2332000796850": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5903,15 +5903,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 332,
-      "Беляков Валерий Иванович": 22,
-      "Бундина Людмила Александровна": 39,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 24,
-      "Усачев Алексей Викторович": 12
+      "gas:candidate-vibid:2332000794590": 332,
+      "gas:candidate-vibid:2332000788930": 22,
+      "gas:candidate-vibid:2332000795020": 39,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 24,
+      "gas:candidate-vibid:2332000796850": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -5962,15 +5962,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 421,
-      "Беляков Валерий Иванович": 62,
-      "Бундина Людмила Александровна": 63,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 15,
-      "Николенко Кирилл Дмитриевич": 15,
-      "Потапов Илья Александрович": 51,
-      "Усачев Алексей Викторович": 11
+      "gas:candidate-vibid:2332000794590": 421,
+      "gas:candidate-vibid:2332000788930": 62,
+      "gas:candidate-vibid:2332000795020": 63,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 15,
+      "gas:candidate-vibid:2332000790574": 15,
+      "gas:candidate-vibid:2332000783787": 51,
+      "gas:candidate-vibid:2332000796850": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -6021,15 +6021,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 500,
-      "Беляков Валерий Иванович": 52,
-      "Бундина Людмила Александровна": 81,
-      "Клопов Сергей Михайлович": 21,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 21,
-      "Николенко Кирилл Дмитриевич": 13,
-      "Потапов Илья Александрович": 51,
-      "Усачев Алексей Викторович": 11
+      "gas:candidate-vibid:2332000794590": 500,
+      "gas:candidate-vibid:2332000788930": 52,
+      "gas:candidate-vibid:2332000795020": 81,
+      "gas:candidate-vibid:2332000787629": 21,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 21,
+      "gas:candidate-vibid:2332000790574": 13,
+      "gas:candidate-vibid:2332000783787": 51,
+      "gas:candidate-vibid:2332000796850": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -6080,15 +6080,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 471,
-      "Беляков Валерий Иванович": 53,
-      "Бундина Людмила Александровна": 64,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 17,
-      "Николенко Кирилл Дмитриевич": 12,
-      "Потапов Илья Александрович": 28,
-      "Усачев Алексей Викторович": 7
+      "gas:candidate-vibid:2332000794590": 471,
+      "gas:candidate-vibid:2332000788930": 53,
+      "gas:candidate-vibid:2332000795020": 64,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 17,
+      "gas:candidate-vibid:2332000790574": 12,
+      "gas:candidate-vibid:2332000783787": 28,
+      "gas:candidate-vibid:2332000796850": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725985&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725985&type=464",
@@ -6139,15 +6139,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 342,
-      "Беляков Валерий Иванович": 42,
-      "Бундина Людмила Александровна": 48,
-      "Клопов Сергей Михайлович": 24,
-      "Колесник Анна Владимировна": 8,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 50,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 342,
+      "gas:candidate-vibid:2332000788930": 42,
+      "gas:candidate-vibid:2332000795020": 48,
+      "gas:candidate-vibid:2332000787629": 24,
+      "gas:candidate-vibid:2332000796628": 8,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 50,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6198,15 +6198,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 467,
-      "Беляков Валерий Иванович": 27,
-      "Бундина Людмила Александровна": 55,
-      "Клопов Сергей Михайлович": 23,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 10,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 30,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 467,
+      "gas:candidate-vibid:2332000788930": 27,
+      "gas:candidate-vibid:2332000795020": 55,
+      "gas:candidate-vibid:2332000787629": 23,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 10,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 30,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6257,15 +6257,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 364,
-      "Беляков Валерий Иванович": 40,
-      "Бундина Людмила Александровна": 69,
-      "Клопов Сергей Михайлович": 34,
-      "Колесник Анна Владимировна": 10,
-      "Кушпита Дмитрий Юрьевич": 10,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 45,
-      "Усачев Алексей Викторович": 8
+      "gas:candidate-vibid:2332000794590": 364,
+      "gas:candidate-vibid:2332000788930": 40,
+      "gas:candidate-vibid:2332000795020": 69,
+      "gas:candidate-vibid:2332000787629": 34,
+      "gas:candidate-vibid:2332000796628": 10,
+      "gas:candidate-vibid:2332000799068": 10,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 45,
+      "gas:candidate-vibid:2332000796850": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6316,15 +6316,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 461,
-      "Беляков Валерий Иванович": 43,
-      "Бундина Людмила Александровна": 71,
-      "Клопов Сергей Михайлович": 22,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 36,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 461,
+      "gas:candidate-vibid:2332000788930": 43,
+      "gas:candidate-vibid:2332000795020": 71,
+      "gas:candidate-vibid:2332000787629": 22,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 36,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6375,15 +6375,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 423,
-      "Беляков Валерий Иванович": 33,
-      "Бундина Людмила Александровна": 82,
-      "Клопов Сергей Михайлович": 19,
-      "Колесник Анна Владимировна": 16,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 37,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 423,
+      "gas:candidate-vibid:2332000788930": 33,
+      "gas:candidate-vibid:2332000795020": 82,
+      "gas:candidate-vibid:2332000787629": 19,
+      "gas:candidate-vibid:2332000796628": 16,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 37,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6434,15 +6434,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 293,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 53,
-      "Клопов Сергей Михайлович": 23,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 38,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 293,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 53,
+      "gas:candidate-vibid:2332000787629": 23,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 38,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6493,15 +6493,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 331,
-      "Беляков Валерий Иванович": 20,
-      "Бундина Людмила Александровна": 43,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 22,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 331,
+      "gas:candidate-vibid:2332000788930": 20,
+      "gas:candidate-vibid:2332000795020": 43,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 22,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6552,15 +6552,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 399,
-      "Беляков Валерий Иванович": 25,
-      "Бундина Людмила Александровна": 40,
-      "Клопов Сергей Михайлович": 17,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 52,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 399,
+      "gas:candidate-vibid:2332000788930": 25,
+      "gas:candidate-vibid:2332000795020": 40,
+      "gas:candidate-vibid:2332000787629": 17,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 52,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6611,15 +6611,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 187,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 18,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 16,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 187,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 18,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 16,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6670,15 +6670,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 229,
-      "Беляков Валерий Иванович": 12,
-      "Бундина Людмила Александровна": 30,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 229,
+      "gas:candidate-vibid:2332000788930": 12,
+      "gas:candidate-vibid:2332000795020": 30,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6729,15 +6729,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 74,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 15,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 8,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 74,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 15,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 8,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6788,15 +6788,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 53,
-      "Беляков Валерий Иванович": 6,
-      "Бундина Людмила Александровна": 11,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 53,
+      "gas:candidate-vibid:2332000788930": 6,
+      "gas:candidate-vibid:2332000795020": 11,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6847,15 +6847,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 158,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 6,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 1,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 158,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 6,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 1,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6906,15 +6906,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 95,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 2,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 95,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 2,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -6965,15 +6965,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 75,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 3,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 75,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 3,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7024,15 +7024,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 395,
-      "Беляков Валерий Иванович": 46,
-      "Бундина Людмила Александровна": 67,
-      "Клопов Сергей Михайлович": 11,
-      "Колесник Анна Владимировна": 8,
-      "Кушпита Дмитрий Юрьевич": 19,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 43,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 395,
+      "gas:candidate-vibid:2332000788930": 46,
+      "gas:candidate-vibid:2332000795020": 67,
+      "gas:candidate-vibid:2332000787629": 11,
+      "gas:candidate-vibid:2332000796628": 8,
+      "gas:candidate-vibid:2332000799068": 19,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 43,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7083,15 +7083,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 206,
-      "Беляков Валерий Иванович": 14,
-      "Бундина Людмила Александровна": 30,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 21,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 206,
+      "gas:candidate-vibid:2332000788930": 14,
+      "gas:candidate-vibid:2332000795020": 30,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 21,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7142,15 +7142,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 185,
-      "Беляков Валерий Иванович": 22,
-      "Бундина Людмила Александровна": 22,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 5,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 185,
+      "gas:candidate-vibid:2332000788930": 22,
+      "gas:candidate-vibid:2332000795020": 22,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 5,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7201,15 +7201,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 85,
-      "Беляков Валерий Иванович": 14,
-      "Бундина Людмила Александровна": 5,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 5,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 85,
+      "gas:candidate-vibid:2332000788930": 14,
+      "gas:candidate-vibid:2332000795020": 5,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 5,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7260,15 +7260,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 374,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 36,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 16,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 374,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 36,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 16,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7319,15 +7319,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 336,
-      "Беляков Валерий Иванович": 27,
-      "Бундина Людмила Александровна": 24,
-      "Клопов Сергей Михайлович": 12,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 13,
-      "Усачев Алексей Викторович": 9
+      "gas:candidate-vibid:2332000794590": 336,
+      "gas:candidate-vibid:2332000788930": 27,
+      "gas:candidate-vibid:2332000795020": 24,
+      "gas:candidate-vibid:2332000787629": 12,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 13,
+      "gas:candidate-vibid:2332000796850": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7378,15 +7378,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 90,
-      "Беляков Валерий Иванович": 8,
-      "Бундина Людмила Александровна": 2,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 90,
+      "gas:candidate-vibid:2332000788930": 8,
+      "gas:candidate-vibid:2332000795020": 2,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7437,15 +7437,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 177,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 12,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 8,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 177,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 12,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 8,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7496,15 +7496,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 183,
-      "Беляков Валерий Иванович": 12,
-      "Бундина Людмила Александровна": 14,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 13,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 183,
+      "gas:candidate-vibid:2332000788930": 12,
+      "gas:candidate-vibid:2332000795020": 14,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 13,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7555,15 +7555,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 62,
-      "Беляков Валерий Иванович": 0,
-      "Бундина Людмила Александровна": 4,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 62,
+      "gas:candidate-vibid:2332000788930": 0,
+      "gas:candidate-vibid:2332000795020": 4,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7614,15 +7614,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 316,
-      "Беляков Валерий Иванович": 26,
-      "Бундина Людмила Александровна": 37,
-      "Клопов Сергей Михайлович": 17,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 29,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 316,
+      "gas:candidate-vibid:2332000788930": 26,
+      "gas:candidate-vibid:2332000795020": 37,
+      "gas:candidate-vibid:2332000787629": 17,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 29,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7673,15 +7673,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 258,
-      "Беляков Валерий Иванович": 26,
-      "Бундина Людмила Александровна": 47,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 12,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 258,
+      "gas:candidate-vibid:2332000788930": 26,
+      "gas:candidate-vibid:2332000795020": 47,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 12,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7732,15 +7732,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 656,
-      "Беляков Валерий Иванович": 35,
-      "Бундина Людмила Александровна": 76,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 656,
+      "gas:candidate-vibid:2332000788930": 35,
+      "gas:candidate-vibid:2332000795020": 76,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7791,15 +7791,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 328,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 39,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 33,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 328,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 39,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 33,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7850,15 +7850,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 170,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 6,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 1,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 170,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 6,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 1,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7909,15 +7909,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 141,
-      "Беляков Валерий Иванович": 17,
-      "Бундина Людмила Александровна": 24,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 14,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 141,
+      "gas:candidate-vibid:2332000788930": 17,
+      "gas:candidate-vibid:2332000795020": 24,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 14,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -7968,15 +7968,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 97,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 6,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 5,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 97,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 6,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 5,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8027,15 +8027,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 51,
-      "Беляков Валерий Иванович": 0,
-      "Бундина Людмила Александровна": 4,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 0,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 51,
+      "gas:candidate-vibid:2332000788930": 0,
+      "gas:candidate-vibid:2332000795020": 4,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 0,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8086,15 +8086,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 323,
-      "Беляков Валерий Иванович": 37,
-      "Бундина Людмила Александровна": 56,
-      "Клопов Сергей Михайлович": 14,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 62,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 323,
+      "gas:candidate-vibid:2332000788930": 37,
+      "gas:candidate-vibid:2332000795020": 56,
+      "gas:candidate-vibid:2332000787629": 14,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 62,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8145,15 +8145,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 319,
-      "Беляков Валерий Иванович": 21,
-      "Бундина Людмила Александровна": 34,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 35,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 319,
+      "gas:candidate-vibid:2332000788930": 21,
+      "gas:candidate-vibid:2332000795020": 34,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 35,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8204,15 +8204,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 27,
-      "Беляков Валерий Иванович": 1,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 1,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 27,
+      "gas:candidate-vibid:2332000788930": 1,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 1,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8263,15 +8263,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 35,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 2,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 35,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 2,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8322,15 +8322,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 267,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 23,
-      "Клопов Сергей Михайлович": 12,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 26,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 267,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 23,
+      "gas:candidate-vibid:2332000787629": 12,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 26,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8381,15 +8381,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 81,
-      "Беляков Валерий Иванович": 2,
-      "Бундина Людмила Александровна": 16,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 8,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 81,
+      "gas:candidate-vibid:2332000788930": 2,
+      "gas:candidate-vibid:2332000795020": 16,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 8,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725986&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725986&type=464",
@@ -8440,15 +8440,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 324,
-      "Беляков Валерий Иванович": 21,
-      "Бундина Людмила Александровна": 13,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 324,
+      "gas:candidate-vibid:2332000788930": 21,
+      "gas:candidate-vibid:2332000795020": 13,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8499,15 +8499,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 345,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 20,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 345,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 20,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8558,15 +8558,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 240,
-      "Беляков Валерий Иванович": 18,
-      "Бундина Людмила Александровна": 13,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 20,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 240,
+      "gas:candidate-vibid:2332000788930": 18,
+      "gas:candidate-vibid:2332000795020": 13,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 20,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8617,15 +8617,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 194,
-      "Беляков Валерий Иванович": 5,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 8,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 194,
+      "gas:candidate-vibid:2332000788930": 5,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 8,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8676,15 +8676,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 711,
-      "Беляков Валерий Иванович": 43,
-      "Бундина Людмила Александровна": 35,
-      "Клопов Сергей Михайлович": 16,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 10,
-      "Потапов Илья Александрович": 39,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 711,
+      "gas:candidate-vibid:2332000788930": 43,
+      "gas:candidate-vibid:2332000795020": 35,
+      "gas:candidate-vibid:2332000787629": 16,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 10,
+      "gas:candidate-vibid:2332000783787": 39,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8735,15 +8735,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 216,
-      "Беляков Валерий Иванович": 15,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 10,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 216,
+      "gas:candidate-vibid:2332000788930": 15,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 10,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8794,15 +8794,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 496,
-      "Беляков Валерий Иванович": 43,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 43,
-      "Усачев Алексей Викторович": 9
+      "gas:candidate-vibid:2332000794590": 496,
+      "gas:candidate-vibid:2332000788930": 43,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 43,
+      "gas:candidate-vibid:2332000796850": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8853,15 +8853,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 254,
-      "Беляков Валерий Иванович": 22,
-      "Бундина Людмила Александровна": 22,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 22,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 254,
+      "gas:candidate-vibid:2332000788930": 22,
+      "gas:candidate-vibid:2332000795020": 22,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 22,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8912,15 +8912,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 115,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 10,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 12,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 115,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 10,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 12,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -8971,15 +8971,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 203,
-      "Беляков Валерий Иванович": 13,
-      "Бундина Людмила Александровна": 13,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 21,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 203,
+      "gas:candidate-vibid:2332000788930": 13,
+      "gas:candidate-vibid:2332000795020": 13,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 21,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9030,15 +9030,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 197,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 15,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 34,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 197,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 15,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 34,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9089,15 +9089,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 153,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 18,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 15,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 153,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 18,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 15,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9148,15 +9148,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 55,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 55,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9207,15 +9207,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 336,
-      "Беляков Валерий Иванович": 37,
-      "Бундина Людмила Александровна": 70,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 45,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 336,
+      "gas:candidate-vibid:2332000788930": 37,
+      "gas:candidate-vibid:2332000795020": 70,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 45,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9266,15 +9266,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 429,
-      "Беляков Валерий Иванович": 40,
-      "Бундина Людмила Александровна": 77,
-      "Клопов Сергей Михайлович": 11,
-      "Колесник Анна Владимировна": 8,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 9,
-      "Потапов Илья Александрович": 56,
-      "Усачев Алексей Викторович": 10
+      "gas:candidate-vibid:2332000794590": 429,
+      "gas:candidate-vibid:2332000788930": 40,
+      "gas:candidate-vibid:2332000795020": 77,
+      "gas:candidate-vibid:2332000787629": 11,
+      "gas:candidate-vibid:2332000796628": 8,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 9,
+      "gas:candidate-vibid:2332000783787": 56,
+      "gas:candidate-vibid:2332000796850": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9325,15 +9325,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 364,
-      "Беляков Валерий Иванович": 54,
-      "Бундина Людмила Александровна": 91,
-      "Клопов Сергей Михайлович": 15,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 60,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 364,
+      "gas:candidate-vibid:2332000788930": 54,
+      "gas:candidate-vibid:2332000795020": 91,
+      "gas:candidate-vibid:2332000787629": 15,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 60,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9384,15 +9384,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 389,
-      "Беляков Валерий Иванович": 39,
-      "Бундина Людмила Александровна": 68,
-      "Клопов Сергей Михайлович": 10,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 11,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 57,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 389,
+      "gas:candidate-vibid:2332000788930": 39,
+      "gas:candidate-vibid:2332000795020": 68,
+      "gas:candidate-vibid:2332000787629": 10,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 11,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 57,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9443,15 +9443,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 389,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 24,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 64,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 389,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 24,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 64,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9502,15 +9502,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 96,
-      "Беляков Валерий Иванович": 7,
-      "Бундина Людмила Александровна": 9,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 23,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 96,
+      "gas:candidate-vibid:2332000788930": 7,
+      "gas:candidate-vibid:2332000795020": 9,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 23,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9561,15 +9561,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 285,
-      "Беляков Валерий Иванович": 20,
-      "Бундина Людмила Александровна": 26,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 22,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 285,
+      "gas:candidate-vibid:2332000788930": 20,
+      "gas:candidate-vibid:2332000795020": 26,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 22,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9620,15 +9620,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 86,
-      "Беляков Валерий Иванович": 2,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 3,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 86,
+      "gas:candidate-vibid:2332000788930": 2,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 3,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9679,15 +9679,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 369,
-      "Беляков Валерий Иванович": 19,
-      "Бундина Людмила Александровна": 33,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 14,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 369,
+      "gas:candidate-vibid:2332000788930": 19,
+      "gas:candidate-vibid:2332000795020": 33,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 14,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9738,15 +9738,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 148,
-      "Беляков Валерий Иванович": 8,
-      "Бундина Людмила Александровна": 9,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 25,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 148,
+      "gas:candidate-vibid:2332000788930": 8,
+      "gas:candidate-vibid:2332000795020": 9,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 25,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9797,15 +9797,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 253,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 5,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 9,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 253,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 5,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 9,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9856,15 +9856,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 638,
-      "Беляков Валерий Иванович": 39,
-      "Бундина Людмила Александровна": 40,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 41,
-      "Усачев Алексей Викторович": 19
+      "gas:candidate-vibid:2332000794590": 638,
+      "gas:candidate-vibid:2332000788930": 39,
+      "gas:candidate-vibid:2332000795020": 40,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 41,
+      "gas:candidate-vibid:2332000796850": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9915,15 +9915,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 493,
-      "Беляков Валерий Иванович": 64,
-      "Бундина Людмила Александровна": 41,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 9,
-      "Потапов Илья Александрович": 64,
-      "Усачев Алексей Викторович": 10
+      "gas:candidate-vibid:2332000794590": 493,
+      "gas:candidate-vibid:2332000788930": 64,
+      "gas:candidate-vibid:2332000795020": 41,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 9,
+      "gas:candidate-vibid:2332000783787": 64,
+      "gas:candidate-vibid:2332000796850": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -9974,15 +9974,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 506,
-      "Беляков Валерий Иванович": 31,
-      "Бундина Людмила Александровна": 33,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 13,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 56,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 506,
+      "gas:candidate-vibid:2332000788930": 31,
+      "gas:candidate-vibid:2332000795020": 33,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 13,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 56,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10033,15 +10033,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 475,
-      "Беляков Валерий Иванович": 59,
-      "Бундина Людмила Александровна": 65,
-      "Клопов Сергей Михайлович": 18,
-      "Колесник Анна Владимировна": 8,
-      "Кушпита Дмитрий Юрьевич": 12,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 53,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 475,
+      "gas:candidate-vibid:2332000788930": 59,
+      "gas:candidate-vibid:2332000795020": 65,
+      "gas:candidate-vibid:2332000787629": 18,
+      "gas:candidate-vibid:2332000796628": 8,
+      "gas:candidate-vibid:2332000799068": 12,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 53,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10092,15 +10092,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 500,
-      "Беляков Валерий Иванович": 43,
-      "Бундина Людмила Александровна": 62,
-      "Клопов Сергей Михайлович": 11,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 67,
-      "Усачев Алексей Викторович": 8
+      "gas:candidate-vibid:2332000794590": 500,
+      "gas:candidate-vibid:2332000788930": 43,
+      "gas:candidate-vibid:2332000795020": 62,
+      "gas:candidate-vibid:2332000787629": 11,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 67,
+      "gas:candidate-vibid:2332000796850": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10151,15 +10151,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 430,
-      "Беляков Валерий Иванович": 41,
-      "Бундина Людмила Александровна": 47,
-      "Клопов Сергей Михайлович": 19,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 74,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 430,
+      "gas:candidate-vibid:2332000788930": 41,
+      "gas:candidate-vibid:2332000795020": 47,
+      "gas:candidate-vibid:2332000787629": 19,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 74,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10210,15 +10210,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 466,
-      "Беляков Валерий Иванович": 37,
-      "Бундина Людмила Александровна": 37,
-      "Клопов Сергей Михайлович": 20,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 15,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 47,
-      "Усачев Алексей Викторович": 9
+      "gas:candidate-vibid:2332000794590": 466,
+      "gas:candidate-vibid:2332000788930": 37,
+      "gas:candidate-vibid:2332000795020": 37,
+      "gas:candidate-vibid:2332000787629": 20,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 15,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 47,
+      "gas:candidate-vibid:2332000796850": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10269,15 +10269,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 426,
-      "Беляков Валерий Иванович": 45,
-      "Бундина Людмила Александровна": 37,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 9,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 75,
-      "Усачев Алексей Викторович": 9
+      "gas:candidate-vibid:2332000794590": 426,
+      "gas:candidate-vibid:2332000788930": 45,
+      "gas:candidate-vibid:2332000795020": 37,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 9,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 75,
+      "gas:candidate-vibid:2332000796850": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10328,15 +10328,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 291,
-      "Беляков Валерий Иванович": 52,
-      "Бундина Людмила Александровна": 34,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 40,
-      "Усачев Алексей Викторович": 7
+      "gas:candidate-vibid:2332000794590": 291,
+      "gas:candidate-vibid:2332000788930": 52,
+      "gas:candidate-vibid:2332000795020": 34,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 40,
+      "gas:candidate-vibid:2332000796850": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10387,15 +10387,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 354,
-      "Беляков Валерий Иванович": 39,
-      "Бундина Людмила Александровна": 42,
-      "Клопов Сергей Михайлович": 18,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 47,
-      "Усачев Алексей Викторович": 7
+      "gas:candidate-vibid:2332000794590": 354,
+      "gas:candidate-vibid:2332000788930": 39,
+      "gas:candidate-vibid:2332000795020": 42,
+      "gas:candidate-vibid:2332000787629": 18,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 47,
+      "gas:candidate-vibid:2332000796850": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10446,15 +10446,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 369,
-      "Беляков Валерий Иванович": 40,
-      "Бундина Людмила Александровна": 26,
-      "Клопов Сергей Михайлович": 17,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 14,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 52,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 369,
+      "gas:candidate-vibid:2332000788930": 40,
+      "gas:candidate-vibid:2332000795020": 26,
+      "gas:candidate-vibid:2332000787629": 17,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 14,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 52,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10505,15 +10505,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 475,
-      "Беляков Валерий Иванович": 52,
-      "Бундина Людмила Александровна": 38,
-      "Клопов Сергей Михайлович": 19,
-      "Колесник Анна Владимировна": 15,
-      "Кушпита Дмитрий Юрьевич": 10,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 62,
-      "Усачев Алексей Викторович": 8
+      "gas:candidate-vibid:2332000794590": 475,
+      "gas:candidate-vibid:2332000788930": 52,
+      "gas:candidate-vibid:2332000795020": 38,
+      "gas:candidate-vibid:2332000787629": 19,
+      "gas:candidate-vibid:2332000796628": 15,
+      "gas:candidate-vibid:2332000799068": 10,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 62,
+      "gas:candidate-vibid:2332000796850": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10564,15 +10564,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 468,
-      "Беляков Валерий Иванович": 60,
-      "Бундина Людмила Александровна": 43,
-      "Клопов Сергей Михайлович": 22,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 43,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 468,
+      "gas:candidate-vibid:2332000788930": 60,
+      "gas:candidate-vibid:2332000795020": 43,
+      "gas:candidate-vibid:2332000787629": 22,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 43,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10623,15 +10623,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 396,
-      "Беляков Валерий Иванович": 52,
-      "Бундина Людмила Александровна": 45,
-      "Клопов Сергей Михайлович": 24,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 67,
-      "Усачев Алексей Викторович": 11
+      "gas:candidate-vibid:2332000794590": 396,
+      "gas:candidate-vibid:2332000788930": 52,
+      "gas:candidate-vibid:2332000795020": 45,
+      "gas:candidate-vibid:2332000787629": 24,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 67,
+      "gas:candidate-vibid:2332000796850": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10682,15 +10682,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 295,
-      "Беляков Валерий Иванович": 50,
-      "Бундина Людмила Александровна": 25,
-      "Клопов Сергей Михайлович": 10,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 28,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 295,
+      "gas:candidate-vibid:2332000788930": 50,
+      "gas:candidate-vibid:2332000795020": 25,
+      "gas:candidate-vibid:2332000787629": 10,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 28,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10741,15 +10741,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 94,
-      "Беляков Валерий Иванович": 6,
-      "Бундина Людмила Александровна": 10,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 9,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 94,
+      "gas:candidate-vibid:2332000788930": 6,
+      "gas:candidate-vibid:2332000795020": 10,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 9,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10800,15 +10800,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 90,
-      "Беляков Валерий Иванович": 5,
-      "Бундина Людмила Александровна": 12,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 10,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 90,
+      "gas:candidate-vibid:2332000788930": 5,
+      "gas:candidate-vibid:2332000795020": 12,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 10,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725987&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725987&type=464",
@@ -10859,15 +10859,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 282,
-      "Беляков Валерий Иванович": 20,
-      "Бундина Людмила Александровна": 33,
-      "Клопов Сергей Михайлович": 22,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 9,
-      "Потапов Илья Александрович": 43,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 282,
+      "gas:candidate-vibid:2332000788930": 20,
+      "gas:candidate-vibid:2332000795020": 33,
+      "gas:candidate-vibid:2332000787629": 22,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 9,
+      "gas:candidate-vibid:2332000783787": 43,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -10918,15 +10918,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 391,
-      "Беляков Валерий Иванович": 46,
-      "Бундина Людмила Александровна": 61,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 41,
-      "Усачев Алексей Викторович": 8
+      "gas:candidate-vibid:2332000794590": 391,
+      "gas:candidate-vibid:2332000788930": 46,
+      "gas:candidate-vibid:2332000795020": 61,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 41,
+      "gas:candidate-vibid:2332000796850": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -10977,15 +10977,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 196,
-      "Беляков Валерий Иванович": 15,
-      "Бундина Людмила Александровна": 14,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 196,
+      "gas:candidate-vibid:2332000788930": 15,
+      "gas:candidate-vibid:2332000795020": 14,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11036,15 +11036,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 76,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 4,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 9,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 17,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 76,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 4,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 9,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 17,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11095,15 +11095,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 106,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 9,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 15,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 106,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 9,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 15,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11154,15 +11154,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 453,
-      "Беляков Валерий Иванович": 27,
-      "Бундина Людмила Александровна": 59,
-      "Клопов Сергей Михайлович": 11,
-      "Колесник Анна Владимировна": 10,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 12,
-      "Потапов Илья Александрович": 44,
-      "Усачев Алексей Викторович": 9
+      "gas:candidate-vibid:2332000794590": 453,
+      "gas:candidate-vibid:2332000788930": 27,
+      "gas:candidate-vibid:2332000795020": 59,
+      "gas:candidate-vibid:2332000787629": 11,
+      "gas:candidate-vibid:2332000796628": 10,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 12,
+      "gas:candidate-vibid:2332000783787": 44,
+      "gas:candidate-vibid:2332000796850": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11213,15 +11213,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 399,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 56,
-      "Клопов Сергей Михайлович": 10,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 10,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 50,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 399,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 56,
+      "gas:candidate-vibid:2332000787629": 10,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 10,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 50,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11272,15 +11272,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 182,
-      "Беляков Валерий Иванович": 21,
-      "Бундина Людмила Александровна": 21,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 14,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 24,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 182,
+      "gas:candidate-vibid:2332000788930": 21,
+      "gas:candidate-vibid:2332000795020": 21,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 14,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 24,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11331,15 +11331,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 139,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 20,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 30,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 139,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 20,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 30,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11390,15 +11390,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 125,
-      "Беляков Валерий Иванович": 20,
-      "Бундина Людмила Александровна": 19,
-      "Клопов Сергей Михайлович": 12,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 25,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 125,
+      "gas:candidate-vibid:2332000788930": 20,
+      "gas:candidate-vibid:2332000795020": 19,
+      "gas:candidate-vibid:2332000787629": 12,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 25,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11449,15 +11449,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 173,
-      "Беляков Валерий Иванович": 7,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 27,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 173,
+      "gas:candidate-vibid:2332000788930": 7,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 27,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11508,15 +11508,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 157,
-      "Беляков Валерий Иванович": 12,
-      "Бундина Людмила Александровна": 25,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 157,
+      "gas:candidate-vibid:2332000788930": 12,
+      "gas:candidate-vibid:2332000795020": 25,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11567,15 +11567,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 112,
-      "Беляков Валерий Иванович": 15,
-      "Бундина Людмила Александровна": 22,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 23,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 112,
+      "gas:candidate-vibid:2332000788930": 15,
+      "gas:candidate-vibid:2332000795020": 22,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 23,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11626,15 +11626,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 37,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 12,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 37,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 12,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11685,15 +11685,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 39,
-      "Беляков Валерий Иванович": 9,
-      "Бундина Людмила Александровна": 13,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 18,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 39,
+      "gas:candidate-vibid:2332000788930": 9,
+      "gas:candidate-vibid:2332000795020": 13,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 18,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11744,15 +11744,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 83,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 14,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 3,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 83,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 14,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 3,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11803,15 +11803,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 152,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 28,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 16,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 152,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 28,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 16,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11862,15 +11862,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 131,
-      "Беляков Валерий Иванович": 15,
-      "Бундина Людмила Александровна": 28,
-      "Клопов Сергей Михайлович": 24,
-      "Колесник Анна Владимировна": 9,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 9,
-      "Потапов Илья Александрович": 42,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 131,
+      "gas:candidate-vibid:2332000788930": 15,
+      "gas:candidate-vibid:2332000795020": 28,
+      "gas:candidate-vibid:2332000787629": 24,
+      "gas:candidate-vibid:2332000796628": 9,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 9,
+      "gas:candidate-vibid:2332000783787": 42,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11921,15 +11921,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 71,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 15,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 12,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 71,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 15,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 12,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -11980,15 +11980,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 136,
-      "Беляков Валерий Иванович": 10,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 17,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 136,
+      "gas:candidate-vibid:2332000788930": 10,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 17,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12039,15 +12039,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 247,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 29,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 10,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 247,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 29,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 10,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12098,15 +12098,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 164,
-      "Беляков Валерий Иванович": 16,
-      "Бундина Людмила Александровна": 11,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 4,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 164,
+      "gas:candidate-vibid:2332000788930": 16,
+      "gas:candidate-vibid:2332000795020": 11,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 4,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12157,15 +12157,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 352,
-      "Беляков Валерий Иванович": 18,
-      "Бундина Людмила Александровна": 14,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 9,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 352,
+      "gas:candidate-vibid:2332000788930": 18,
+      "gas:candidate-vibid:2332000795020": 14,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 9,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12216,15 +12216,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 82,
-      "Беляков Валерий Иванович": 17,
-      "Бундина Людмила Александровна": 23,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 6,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 23,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 82,
+      "gas:candidate-vibid:2332000788930": 17,
+      "gas:candidate-vibid:2332000795020": 23,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 6,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 23,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12275,15 +12275,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 132,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 8,
-      "Клопов Сергей Михайлович": 4,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 8,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 132,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 8,
+      "gas:candidate-vibid:2332000787629": 4,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 8,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12334,15 +12334,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 47,
-      "Беляков Валерий Иванович": 0,
-      "Бундина Людмила Александровна": 1,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 0,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 47,
+      "gas:candidate-vibid:2332000788930": 0,
+      "gas:candidate-vibid:2332000795020": 1,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 0,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12393,15 +12393,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 51,
-      "Беляков Валерий Иванович": 7,
-      "Бундина Людмила Александровна": 6,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 10,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 51,
+      "gas:candidate-vibid:2332000788930": 7,
+      "gas:candidate-vibid:2332000795020": 6,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 10,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12452,15 +12452,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 51,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 5,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 6,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 51,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 5,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 6,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12511,15 +12511,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 62,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 7,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 62,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 7,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12570,15 +12570,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 69,
-      "Беляков Валерий Иванович": 2,
-      "Бундина Людмила Александровна": 2,
-      "Клопов Сергей Михайлович": 0,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 2,
-      "Усачев Алексей Викторович": 0
+      "gas:candidate-vibid:2332000794590": 69,
+      "gas:candidate-vibid:2332000788930": 2,
+      "gas:candidate-vibid:2332000795020": 2,
+      "gas:candidate-vibid:2332000787629": 0,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 2,
+      "gas:candidate-vibid:2332000796850": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12629,15 +12629,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 218,
-      "Беляков Валерий Иванович": 37,
-      "Бундина Людмила Александровна": 34,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 30,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 218,
+      "gas:candidate-vibid:2332000788930": 37,
+      "gas:candidate-vibid:2332000795020": 34,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 30,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12688,15 +12688,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 263,
-      "Беляков Валерий Иванович": 21,
-      "Бундина Людмила Александровна": 33,
-      "Клопов Сергей Михайлович": 14,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 32,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 263,
+      "gas:candidate-vibid:2332000788930": 21,
+      "gas:candidate-vibid:2332000795020": 33,
+      "gas:candidate-vibid:2332000787629": 14,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 32,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12747,15 +12747,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 262,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 45,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 13,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 30,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 262,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 45,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 13,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 30,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12806,15 +12806,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 388,
-      "Беляков Валерий Иванович": 20,
-      "Бундина Людмила Александровна": 25,
-      "Клопов Сергей Михайлович": 15,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 3,
-      "Потапов Илья Александрович": 30,
-      "Усачев Алексей Викторович": 4
+      "gas:candidate-vibid:2332000794590": 388,
+      "gas:candidate-vibid:2332000788930": 20,
+      "gas:candidate-vibid:2332000795020": 25,
+      "gas:candidate-vibid:2332000787629": 15,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 3,
+      "gas:candidate-vibid:2332000783787": 30,
+      "gas:candidate-vibid:2332000796850": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12865,15 +12865,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 343,
-      "Беляков Валерий Иванович": 32,
-      "Бундина Людмила Александровна": 40,
-      "Клопов Сергей Михайлович": 14,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 38,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 343,
+      "gas:candidate-vibid:2332000788930": 32,
+      "gas:candidate-vibid:2332000795020": 40,
+      "gas:candidate-vibid:2332000787629": 14,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 38,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12924,15 +12924,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 228,
-      "Беляков Валерий Иванович": 21,
-      "Бундина Людмила Александровна": 39,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 8,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 43,
-      "Усачев Алексей Викторович": 7
+      "gas:candidate-vibid:2332000794590": 228,
+      "gas:candidate-vibid:2332000788930": 21,
+      "gas:candidate-vibid:2332000795020": 39,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 8,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 43,
+      "gas:candidate-vibid:2332000796850": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -12983,15 +12983,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 431,
-      "Беляков Валерий Иванович": 28,
-      "Бундина Людмила Александровна": 53,
-      "Клопов Сергей Михайлович": 15,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 18,
-      "Николенко Кирилл Дмитриевич": 11,
-      "Потапов Илья Александрович": 66,
-      "Усачев Алексей Викторович": 9
+      "gas:candidate-vibid:2332000794590": 431,
+      "gas:candidate-vibid:2332000788930": 28,
+      "gas:candidate-vibid:2332000795020": 53,
+      "gas:candidate-vibid:2332000787629": 15,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 18,
+      "gas:candidate-vibid:2332000790574": 11,
+      "gas:candidate-vibid:2332000783787": 66,
+      "gas:candidate-vibid:2332000796850": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13042,15 +13042,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 239,
-      "Беляков Валерий Иванович": 28,
-      "Бундина Людмила Александровна": 54,
-      "Клопов Сергей Михайлович": 15,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 6,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 54,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 239,
+      "gas:candidate-vibid:2332000788930": 28,
+      "gas:candidate-vibid:2332000795020": 54,
+      "gas:candidate-vibid:2332000787629": 15,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 6,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 54,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13101,15 +13101,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 242,
-      "Беляков Валерий Иванович": 30,
-      "Бундина Людмила Александровна": 53,
-      "Клопов Сергей Михайлович": 11,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 11,
-      "Николенко Кирилл Дмитриевич": 8,
-      "Потапов Илья Александрович": 35,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 242,
+      "gas:candidate-vibid:2332000788930": 30,
+      "gas:candidate-vibid:2332000795020": 53,
+      "gas:candidate-vibid:2332000787629": 11,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 11,
+      "gas:candidate-vibid:2332000790574": 8,
+      "gas:candidate-vibid:2332000783787": 35,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13160,15 +13160,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 385,
-      "Беляков Валерий Иванович": 22,
-      "Бундина Людмила Александровна": 52,
-      "Клопов Сергей Михайлович": 14,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 18,
-      "Николенко Кирилл Дмитриевич": 11,
-      "Потапов Илья Александрович": 38,
-      "Усачев Алексей Викторович": 12
+      "gas:candidate-vibid:2332000794590": 385,
+      "gas:candidate-vibid:2332000788930": 22,
+      "gas:candidate-vibid:2332000795020": 52,
+      "gas:candidate-vibid:2332000787629": 14,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 18,
+      "gas:candidate-vibid:2332000790574": 11,
+      "gas:candidate-vibid:2332000783787": 38,
+      "gas:candidate-vibid:2332000796850": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13219,15 +13219,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 263,
-      "Беляков Валерий Иванович": 29,
-      "Бундина Людмила Александровна": 50,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 7,
-      "Николенко Кирилл Дмитриевич": 13,
-      "Потапов Илья Александрович": 37,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 263,
+      "gas:candidate-vibid:2332000788930": 29,
+      "gas:candidate-vibid:2332000795020": 50,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 7,
+      "gas:candidate-vibid:2332000790574": 13,
+      "gas:candidate-vibid:2332000783787": 37,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13278,15 +13278,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 207,
-      "Беляков Валерий Иванович": 21,
-      "Бундина Людмила Александровна": 41,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 14,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 35,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 207,
+      "gas:candidate-vibid:2332000788930": 21,
+      "gas:candidate-vibid:2332000795020": 41,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 14,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 35,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13337,15 +13337,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 63,
-      "Беляков Валерий Иванович": 8,
-      "Бундина Людмила Александровна": 13,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 63,
+      "gas:candidate-vibid:2332000788930": 8,
+      "gas:candidate-vibid:2332000795020": 13,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13396,15 +13396,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 462,
-      "Беляков Валерий Иванович": 47,
-      "Бундина Людмила Александровна": 67,
-      "Клопов Сергей Михайлович": 20,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 27,
-      "Николенко Кирилл Дмитриевич": 12,
-      "Потапов Илья Александрович": 56,
-      "Усачев Алексей Викторович": 20
+      "gas:candidate-vibid:2332000794590": 462,
+      "gas:candidate-vibid:2332000788930": 47,
+      "gas:candidate-vibid:2332000795020": 67,
+      "gas:candidate-vibid:2332000787629": 20,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 27,
+      "gas:candidate-vibid:2332000790574": 12,
+      "gas:candidate-vibid:2332000783787": 56,
+      "gas:candidate-vibid:2332000796850": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13455,15 +13455,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 454,
-      "Беляков Валерий Иванович": 58,
-      "Бундина Людмила Александровна": 83,
-      "Клопов Сергей Михайлович": 22,
-      "Колесник Анна Владимировна": 7,
-      "Кушпита Дмитрий Юрьевич": 33,
-      "Николенко Кирилл Дмитриевич": 10,
-      "Потапов Илья Александрович": 74,
-      "Усачев Алексей Викторович": 24
+      "gas:candidate-vibid:2332000794590": 454,
+      "gas:candidate-vibid:2332000788930": 58,
+      "gas:candidate-vibid:2332000795020": 83,
+      "gas:candidate-vibid:2332000787629": 22,
+      "gas:candidate-vibid:2332000796628": 7,
+      "gas:candidate-vibid:2332000799068": 33,
+      "gas:candidate-vibid:2332000790574": 10,
+      "gas:candidate-vibid:2332000783787": 74,
+      "gas:candidate-vibid:2332000796850": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13514,15 +13514,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 161,
-      "Беляков Валерий Иванович": 15,
-      "Бундина Людмила Александровна": 31,
-      "Клопов Сергей Михайлович": 13,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 4,
-      "Николенко Кирилл Дмитриевич": 5,
-      "Потапов Илья Александрович": 19,
-      "Усачев Алексей Викторович": 7
+      "gas:candidate-vibid:2332000794590": 161,
+      "gas:candidate-vibid:2332000788930": 15,
+      "gas:candidate-vibid:2332000795020": 31,
+      "gas:candidate-vibid:2332000787629": 13,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 4,
+      "gas:candidate-vibid:2332000790574": 5,
+      "gas:candidate-vibid:2332000783787": 19,
+      "gas:candidate-vibid:2332000796850": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13573,15 +13573,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 94,
-      "Беляков Валерий Иванович": 3,
-      "Бундина Людмила Александровна": 2,
-      "Клопов Сергей Михайлович": 1,
-      "Колесник Анна Владимировна": 0,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 2
+      "gas:candidate-vibid:2332000794590": 94,
+      "gas:candidate-vibid:2332000788930": 3,
+      "gas:candidate-vibid:2332000795020": 2,
+      "gas:candidate-vibid:2332000787629": 1,
+      "gas:candidate-vibid:2332000796628": 0,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13632,15 +13632,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 76,
-      "Беляков Валерий Иванович": 8,
-      "Бундина Людмила Александровна": 13,
-      "Клопов Сергей Михайлович": 5,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 11,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 76,
+      "gas:candidate-vibid:2332000788930": 8,
+      "gas:candidate-vibid:2332000795020": 13,
+      "gas:candidate-vibid:2332000787629": 5,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 11,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13691,15 +13691,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 59,
-      "Беляков Валерий Иванович": 4,
-      "Бундина Людмила Александровна": 17,
-      "Клопов Сергей Михайлович": 6,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 3,
-      "Николенко Кирилл Дмитриевич": 2,
-      "Потапов Илья Александрович": 23,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 59,
+      "gas:candidate-vibid:2332000788930": 4,
+      "gas:candidate-vibid:2332000795020": 17,
+      "gas:candidate-vibid:2332000787629": 6,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 3,
+      "gas:candidate-vibid:2332000790574": 2,
+      "gas:candidate-vibid:2332000783787": 23,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13750,15 +13750,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 55,
-      "Беляков Валерий Иванович": 6,
-      "Бундина Людмила Александровна": 2,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 2,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 5,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 55,
+      "gas:candidate-vibid:2332000788930": 6,
+      "gas:candidate-vibid:2332000795020": 2,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 2,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 5,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13809,15 +13809,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 44,
-      "Беляков Валерий Иванович": 2,
-      "Бундина Людмила Александровна": 2,
-      "Клопов Сергей Михайлович": 3,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 2,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 44,
+      "gas:candidate-vibid:2332000788930": 2,
+      "gas:candidate-vibid:2332000795020": 2,
+      "gas:candidate-vibid:2332000787629": 3,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 2,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13868,15 +13868,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 62,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 10,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 1,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 7,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 62,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 10,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 1,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 7,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13927,15 +13927,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 55,
-      "Беляков Валерий Иванович": 7,
-      "Бундина Людмила Александровна": 10,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 1,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 0,
-      "Потапов Илья Александрович": 5,
-      "Усачев Алексей Викторович": 3
+      "gas:candidate-vibid:2332000794590": 55,
+      "gas:candidate-vibid:2332000788930": 7,
+      "gas:candidate-vibid:2332000795020": 10,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 1,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 0,
+      "gas:candidate-vibid:2332000783787": 5,
+      "gas:candidate-vibid:2332000796850": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -13986,15 +13986,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 210,
-      "Беляков Валерий Иванович": 11,
-      "Бундина Людмила Александровна": 7,
-      "Клопов Сергей Михайлович": 2,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 0,
-      "Николенко Кирилл Дмитриевич": 1,
-      "Потапов Илья Александрович": 12,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 210,
+      "gas:candidate-vibid:2332000788930": 11,
+      "gas:candidate-vibid:2332000795020": 7,
+      "gas:candidate-vibid:2332000787629": 2,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 0,
+      "gas:candidate-vibid:2332000790574": 1,
+      "gas:candidate-vibid:2332000783787": 12,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -14045,15 +14045,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 426,
-      "Беляков Валерий Иванович": 29,
-      "Бундина Людмила Александровна": 48,
-      "Клопов Сергей Михайлович": 19,
-      "Колесник Анна Владимировна": 9,
-      "Кушпита Дмитрий Юрьевич": 14,
-      "Николенко Кирилл Дмитриевич": 10,
-      "Потапов Илья Александрович": 50,
-      "Усачев Алексей Викторович": 8
+      "gas:candidate-vibid:2332000794590": 426,
+      "gas:candidate-vibid:2332000788930": 29,
+      "gas:candidate-vibid:2332000795020": 48,
+      "gas:candidate-vibid:2332000787629": 19,
+      "gas:candidate-vibid:2332000796628": 9,
+      "gas:candidate-vibid:2332000799068": 14,
+      "gas:candidate-vibid:2332000790574": 10,
+      "gas:candidate-vibid:2332000783787": 50,
+      "gas:candidate-vibid:2332000796850": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -14104,15 +14104,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 333,
-      "Беляков Валерий Иванович": 33,
-      "Бундина Людмила Александровна": 51,
-      "Клопов Сергей Михайлович": 23,
-      "Колесник Анна Владимировна": 9,
-      "Кушпита Дмитрий Юрьевич": 11,
-      "Николенко Кирилл Дмитриевич": 9,
-      "Потапов Илья Александрович": 56,
-      "Усачев Алексей Викторович": 12
+      "gas:candidate-vibid:2332000794590": 333,
+      "gas:candidate-vibid:2332000788930": 33,
+      "gas:candidate-vibid:2332000795020": 51,
+      "gas:candidate-vibid:2332000787629": 23,
+      "gas:candidate-vibid:2332000796628": 9,
+      "gas:candidate-vibid:2332000799068": 11,
+      "gas:candidate-vibid:2332000790574": 9,
+      "gas:candidate-vibid:2332000783787": 56,
+      "gas:candidate-vibid:2332000796850": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725988&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725988&type=464",
@@ -14163,15 +14163,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 618,
-      "Беляков Валерий Иванович": 61,
-      "Бундина Людмила Александровна": 88,
-      "Клопов Сергей Михайлович": 21,
-      "Колесник Анна Владимировна": 15,
-      "Кушпита Дмитрий Юрьевич": 14,
-      "Николенко Кирилл Дмитриевич": 12,
-      "Потапов Илья Александрович": 108,
-      "Усачев Алексей Викторович": 15
+      "gas:candidate-vibid:2332000794590": 618,
+      "gas:candidate-vibid:2332000788930": 61,
+      "gas:candidate-vibid:2332000795020": 88,
+      "gas:candidate-vibid:2332000787629": 21,
+      "gas:candidate-vibid:2332000796628": 15,
+      "gas:candidate-vibid:2332000799068": 14,
+      "gas:candidate-vibid:2332000790574": 12,
+      "gas:candidate-vibid:2332000783787": 108,
+      "gas:candidate-vibid:2332000796850": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14222,15 +14222,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 505,
-      "Беляков Валерий Иванович": 55,
-      "Бундина Людмила Александровна": 56,
-      "Клопов Сергей Михайлович": 10,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 53,
-      "Усачев Алексей Викторович": 7
+      "gas:candidate-vibid:2332000794590": 505,
+      "gas:candidate-vibid:2332000788930": 55,
+      "gas:candidate-vibid:2332000795020": 56,
+      "gas:candidate-vibid:2332000787629": 10,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 53,
+      "gas:candidate-vibid:2332000796850": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14281,15 +14281,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 369,
-      "Беляков Валерий Иванович": 32,
-      "Бундина Людмила Александровна": 35,
-      "Клопов Сергей Михайлович": 7,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 13,
-      "Николенко Кирилл Дмитриевич": 6,
-      "Потапов Илья Александрович": 28,
-      "Усачев Алексей Викторович": 5
+      "gas:candidate-vibid:2332000794590": 369,
+      "gas:candidate-vibid:2332000788930": 32,
+      "gas:candidate-vibid:2332000795020": 35,
+      "gas:candidate-vibid:2332000787629": 7,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 13,
+      "gas:candidate-vibid:2332000790574": 6,
+      "gas:candidate-vibid:2332000783787": 28,
+      "gas:candidate-vibid:2332000796850": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14340,15 +14340,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 488,
-      "Беляков Валерий Иванович": 51,
-      "Бундина Людмила Александровна": 78,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 14,
-      "Николенко Кирилл Дмитриевич": 10,
-      "Потапов Илья Александрович": 79,
-      "Усачев Алексей Викторович": 8
+      "gas:candidate-vibid:2332000794590": 488,
+      "gas:candidate-vibid:2332000788930": 51,
+      "gas:candidate-vibid:2332000795020": 78,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 14,
+      "gas:candidate-vibid:2332000790574": 10,
+      "gas:candidate-vibid:2332000783787": 79,
+      "gas:candidate-vibid:2332000796850": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14399,15 +14399,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 501,
-      "Беляков Валерий Иванович": 24,
-      "Бундина Людмила Александровна": 69,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 8,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 42,
-      "Усачев Алексей Викторович": 9
+      "gas:candidate-vibid:2332000794590": 501,
+      "gas:candidate-vibid:2332000788930": 24,
+      "gas:candidate-vibid:2332000795020": 69,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 8,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 42,
+      "gas:candidate-vibid:2332000796850": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14458,15 +14458,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 318,
-      "Беляков Валерий Иванович": 23,
-      "Бундина Людмила Александровна": 35,
-      "Клопов Сергей Михайлович": 9,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 5,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 27,
-      "Усачев Алексей Викторович": 1
+      "gas:candidate-vibid:2332000794590": 318,
+      "gas:candidate-vibid:2332000788930": 23,
+      "gas:candidate-vibid:2332000795020": 35,
+      "gas:candidate-vibid:2332000787629": 9,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 5,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 27,
+      "gas:candidate-vibid:2332000796850": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14517,15 +14517,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 582,
-      "Беляков Валерий Иванович": 50,
-      "Бундина Людмила Александровна": 69,
-      "Клопов Сергей Михайлович": 10,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 17,
-      "Николенко Кирилл Дмитриевич": 12,
-      "Потапов Илья Александрович": 56,
-      "Усачев Алексей Викторович": 12
+      "gas:candidate-vibid:2332000794590": 582,
+      "gas:candidate-vibid:2332000788930": 50,
+      "gas:candidate-vibid:2332000795020": 69,
+      "gas:candidate-vibid:2332000787629": 10,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 17,
+      "gas:candidate-vibid:2332000790574": 12,
+      "gas:candidate-vibid:2332000783787": 56,
+      "gas:candidate-vibid:2332000796850": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14576,15 +14576,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 846,
-      "Беляков Валерий Иванович": 113,
-      "Бундина Людмила Александровна": 101,
-      "Клопов Сергей Михайлович": 24,
-      "Колесник Анна Владимировна": 5,
-      "Кушпита Дмитрий Юрьевич": 28,
-      "Николенко Кирилл Дмитриевич": 14,
-      "Потапов Илья Александрович": 92,
-      "Усачев Алексей Викторович": 13
+      "gas:candidate-vibid:2332000794590": 846,
+      "gas:candidate-vibid:2332000788930": 113,
+      "gas:candidate-vibid:2332000795020": 101,
+      "gas:candidate-vibid:2332000787629": 24,
+      "gas:candidate-vibid:2332000796628": 5,
+      "gas:candidate-vibid:2332000799068": 28,
+      "gas:candidate-vibid:2332000790574": 14,
+      "gas:candidate-vibid:2332000783787": 92,
+      "gas:candidate-vibid:2332000796850": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14635,15 +14635,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 339,
-      "Беляков Валерий Иванович": 48,
-      "Бундина Людмила Александровна": 51,
-      "Клопов Сергей Михайлович": 10,
-      "Колесник Анна Владимировна": 3,
-      "Кушпита Дмитрий Юрьевич": 10,
-      "Николенко Кирилл Дмитриевич": 7,
-      "Потапов Илья Александрович": 33,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 339,
+      "gas:candidate-vibid:2332000788930": 48,
+      "gas:candidate-vibid:2332000795020": 51,
+      "gas:candidate-vibid:2332000787629": 10,
+      "gas:candidate-vibid:2332000796628": 3,
+      "gas:candidate-vibid:2332000799068": 10,
+      "gas:candidate-vibid:2332000790574": 7,
+      "gas:candidate-vibid:2332000783787": 33,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14694,15 +14694,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 554,
-      "Беляков Валерий Иванович": 68,
-      "Бундина Людмила Александровна": 57,
-      "Клопов Сергей Михайлович": 8,
-      "Колесник Анна Владимировна": 2,
-      "Кушпита Дмитрий Юрьевич": 19,
-      "Николенко Кирилл Дмитриевич": 4,
-      "Потапов Илья Александрович": 46,
-      "Усачев Алексей Викторович": 12
+      "gas:candidate-vibid:2332000794590": 554,
+      "gas:candidate-vibid:2332000788930": 68,
+      "gas:candidate-vibid:2332000795020": 57,
+      "gas:candidate-vibid:2332000787629": 8,
+      "gas:candidate-vibid:2332000796628": 2,
+      "gas:candidate-vibid:2332000799068": 19,
+      "gas:candidate-vibid:2332000790574": 4,
+      "gas:candidate-vibid:2332000783787": 46,
+      "gas:candidate-vibid:2332000796850": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",
@@ -14753,15 +14753,15 @@ export const duma_2016_uik_463_region_33_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аникеев Григорий Викторович": 684,
-      "Беляков Валерий Иванович": 71,
-      "Бундина Людмила Александровна": 99,
-      "Клопов Сергей Михайлович": 18,
-      "Колесник Анна Владимировна": 10,
-      "Кушпита Дмитрий Юрьевич": 15,
-      "Николенко Кирилл Дмитриевич": 12,
-      "Потапов Илья Александрович": 79,
-      "Усачев Алексей Викторович": 6
+      "gas:candidate-vibid:2332000794590": 684,
+      "gas:candidate-vibid:2332000788930": 71,
+      "gas:candidate-vibid:2332000795020": 99,
+      "gas:candidate-vibid:2332000787629": 18,
+      "gas:candidate-vibid:2332000796628": 10,
+      "gas:candidate-vibid:2332000799068": 15,
+      "gas:candidate-vibid:2332000790574": 12,
+      "gas:candidate-vibid:2332000783787": 79,
+      "gas:candidate-vibid:2332000796850": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000103&tvd=2332000725989&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725989&type=464",

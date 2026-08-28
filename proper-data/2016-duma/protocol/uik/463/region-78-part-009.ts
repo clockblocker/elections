@@ -43,17 +43,17 @@ export const duma_2016_uik_463_region_78_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 54,
-      "Иванова Ирина Владимировна": 99,
-      "Катенев Владимир Иванович": 178,
-      "Крутов Андрей Дмитриевич": 53,
-      "Лавров Олег Леонидович": 52,
-      "Максаков Олег Борисович": 22,
-      "Нилов Олег Анатольевич": 235,
-      "Новиков Александр Иванович": 10,
-      "Попова Ольга Валерьевна": 6,
-      "Привалов Александр Станиславович": 10,
-      "Стародубцев Михаил Павлович": 11
+      "gas:candidate-vibid:4784009155263": 54,
+      "gas:candidate-vibid:4784009154908": 99,
+      "gas:candidate-vibid:4784009155275": 178,
+      "gas:candidate-vibid:4784009155165": 53,
+      "gas:candidate-vibid:4784009154892": 52,
+      "gas:candidate-vibid:4784009155058": 22,
+      "gas:candidate-vibid:4784009154925": 235,
+      "gas:candidate-vibid:4784009155069": 10,
+      "gas:candidate-vibid:4784009155219": 6,
+      "gas:candidate-vibid:4784009154880": 10,
+      "gas:candidate-vibid:4784009155025": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678946&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678946&type=464",
@@ -104,17 +104,17 @@ export const duma_2016_uik_463_region_78_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 100,
-      "Иванова Ирина Владимировна": 80,
-      "Катенев Владимир Иванович": 163,
-      "Крутов Андрей Дмитриевич": 36,
-      "Лавров Олег Леонидович": 48,
-      "Максаков Олег Борисович": 12,
-      "Нилов Олег Анатольевич": 151,
-      "Новиков Александр Иванович": 12,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 9,
-      "Стародубцев Михаил Павлович": 10
+      "gas:candidate-vibid:4784009155263": 100,
+      "gas:candidate-vibid:4784009154908": 80,
+      "gas:candidate-vibid:4784009155275": 163,
+      "gas:candidate-vibid:4784009155165": 36,
+      "gas:candidate-vibid:4784009154892": 48,
+      "gas:candidate-vibid:4784009155058": 12,
+      "gas:candidate-vibid:4784009154925": 151,
+      "gas:candidate-vibid:4784009155069": 12,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 9,
+      "gas:candidate-vibid:4784009155025": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678946&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678946&type=464",
@@ -165,17 +165,17 @@ export const duma_2016_uik_463_region_78_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 43,
-      "Иванова Ирина Владимировна": 75,
-      "Катенев Владимир Иванович": 151,
-      "Крутов Андрей Дмитриевич": 45,
-      "Лавров Олег Леонидович": 34,
-      "Максаков Олег Борисович": 12,
-      "Нилов Олег Анатольевич": 125,
-      "Новиков Александр Иванович": 4,
-      "Попова Ольга Валерьевна": 5,
-      "Привалов Александр Станиславович": 8,
-      "Стародубцев Михаил Павлович": 19
+      "gas:candidate-vibid:4784009155263": 43,
+      "gas:candidate-vibid:4784009154908": 75,
+      "gas:candidate-vibid:4784009155275": 151,
+      "gas:candidate-vibid:4784009155165": 45,
+      "gas:candidate-vibid:4784009154892": 34,
+      "gas:candidate-vibid:4784009155058": 12,
+      "gas:candidate-vibid:4784009154925": 125,
+      "gas:candidate-vibid:4784009155069": 4,
+      "gas:candidate-vibid:4784009155219": 5,
+      "gas:candidate-vibid:4784009154880": 8,
+      "gas:candidate-vibid:4784009155025": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678946&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678946&type=464",
@@ -226,17 +226,17 @@ export const duma_2016_uik_463_region_78_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 86,
-      "Иванова Ирина Владимировна": 61,
-      "Катенев Владимир Иванович": 149,
-      "Крутов Андрей Дмитриевич": 62,
-      "Лавров Олег Леонидович": 62,
-      "Максаков Олег Борисович": 21,
-      "Нилов Олег Анатольевич": 91,
-      "Новиков Александр Иванович": 21,
-      "Попова Ольга Валерьевна": 7,
-      "Привалов Александр Станиславович": 7,
-      "Стародубцев Михаил Павлович": 15
+      "gas:candidate-vibid:4784009155263": 86,
+      "gas:candidate-vibid:4784009154908": 61,
+      "gas:candidate-vibid:4784009155275": 149,
+      "gas:candidate-vibid:4784009155165": 62,
+      "gas:candidate-vibid:4784009154892": 62,
+      "gas:candidate-vibid:4784009155058": 21,
+      "gas:candidate-vibid:4784009154925": 91,
+      "gas:candidate-vibid:4784009155069": 21,
+      "gas:candidate-vibid:4784009155219": 7,
+      "gas:candidate-vibid:4784009154880": 7,
+      "gas:candidate-vibid:4784009155025": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678946&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678946&type=464",
@@ -287,17 +287,17 @@ export const duma_2016_uik_463_region_78_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Голов Анатолий Григорьевич": 89,
-      "Иванова Ирина Владимировна": 82,
-      "Катенев Владимир Иванович": 178,
-      "Крутов Андрей Дмитриевич": 50,
-      "Лавров Олег Леонидович": 42,
-      "Максаков Олег Борисович": 25,
-      "Нилов Олег Анатольевич": 152,
-      "Новиков Александр Иванович": 17,
-      "Попова Ольга Валерьевна": 5,
-      "Привалов Александр Станиславович": 14,
-      "Стародубцев Михаил Павлович": 12
+      "gas:candidate-vibid:4784009155263": 89,
+      "gas:candidate-vibid:4784009154908": 82,
+      "gas:candidate-vibid:4784009155275": 178,
+      "gas:candidate-vibid:4784009155165": 50,
+      "gas:candidate-vibid:4784009154892": 42,
+      "gas:candidate-vibid:4784009155058": 25,
+      "gas:candidate-vibid:4784009154925": 152,
+      "gas:candidate-vibid:4784009155069": 17,
+      "gas:candidate-vibid:4784009155219": 5,
+      "gas:candidate-vibid:4784009154880": 14,
+      "gas:candidate-vibid:4784009155025": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000280&tvd=2782000678946&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678946&type=464",

@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 51,
-      "Кокарев Юрий Петрович": 35,
-      "Панина Елена Владимировна": 545,
-      "Политухин Юрий Алексеевич": 58,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 146,
-      "Шабалов Александр Павлович": 171,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 51,
+      "gas:candidate-vibid:377300570432": 35,
+      "gas:candidate-vibid:1001000226007": 545,
+      "gas:candidate-vibid:1001000121935": 58,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 146,
+      "gas:candidate-vibid:1001000190445": 171,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 32,
-      "Игрунов Вячеслав Владимирович": 61,
-      "Кокарев Юрий Петрович": 50,
-      "Панина Елена Владимировна": 622,
-      "Политухин Юрий Алексеевич": 62,
-      "Прияткин Андрей Николаевич": 36,
-      "Федоров Борис Григорьевич": 160,
-      "Шабалов Александр Павлович": 142,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000136150": 32,
+      "gas:candidate-vibid:1001000253497": 61,
+      "gas:candidate-vibid:377300570432": 50,
+      "gas:candidate-vibid:1001000226007": 622,
+      "gas:candidate-vibid:1001000121935": 62,
+      "gas:candidate-vibid:377300570544": 36,
+      "gas:candidate-vibid:1001000118564": 160,
+      "gas:candidate-vibid:1001000190445": 142,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 31,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 404,
-      "Политухин Юрий Алексеевич": 85,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 150,
-      "Шабалов Александр Павлович": 117,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 31,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 404,
+      "gas:candidate-vibid:1001000121935": 85,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 150,
+      "gas:candidate-vibid:1001000190445": 117,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 36,
-      "Кокарев Юрий Петрович": 40,
-      "Панина Елена Владимировна": 333,
-      "Политухин Юрий Алексеевич": 84,
-      "Прияткин Андрей Николаевич": 6,
-      "Федоров Борис Григорьевич": 134,
-      "Шабалов Александр Павлович": 111,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 36,
+      "gas:candidate-vibid:377300570432": 40,
+      "gas:candidate-vibid:1001000226007": 333,
+      "gas:candidate-vibid:1001000121935": 84,
+      "gas:candidate-vibid:377300570544": 6,
+      "gas:candidate-vibid:1001000118564": 134,
+      "gas:candidate-vibid:1001000190445": 111,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 35,
-      "Игрунов Вячеслав Владимирович": 37,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 462,
-      "Политухин Юрий Алексеевич": 75,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 178,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000136150": 35,
+      "gas:candidate-vibid:1001000253497": 37,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 462,
+      "gas:candidate-vibid:1001000121935": 75,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 178,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 36,
-      "Кокарев Юрий Петрович": 28,
-      "Панина Елена Владимировна": 588,
-      "Политухин Юрий Алексеевич": 55,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 115,
-      "Шабалов Александр Павлович": 92,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 36,
+      "gas:candidate-vibid:377300570432": 28,
+      "gas:candidate-vibid:1001000226007": 588,
+      "gas:candidate-vibid:1001000121935": 55,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 115,
+      "gas:candidate-vibid:1001000190445": 92,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 9,
-      "Игрунов Вячеслав Владимирович": 6,
-      "Кокарев Юрий Петрович": 10,
-      "Панина Елена Владимировна": 159,
-      "Политухин Юрий Алексеевич": 26,
-      "Прияткин Андрей Николаевич": 1,
-      "Федоров Борис Григорьевич": 21,
-      "Шабалов Александр Павлович": 7,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136150": 9,
+      "gas:candidate-vibid:1001000253497": 6,
+      "gas:candidate-vibid:377300570432": 10,
+      "gas:candidate-vibid:1001000226007": 159,
+      "gas:candidate-vibid:1001000121935": 26,
+      "gas:candidate-vibid:377300570544": 1,
+      "gas:candidate-vibid:1001000118564": 21,
+      "gas:candidate-vibid:1001000190445": 7,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 63,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 565,
-      "Политухин Юрий Алексеевич": 78,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 194,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 63,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 565,
+      "gas:candidate-vibid:1001000121935": 78,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 194,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 38,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 519,
-      "Политухин Юрий Алексеевич": 48,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 178,
-      "Шабалов Александр Павлович": 109,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 38,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 519,
+      "gas:candidate-vibid:1001000121935": 48,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 178,
+      "gas:candidate-vibid:1001000190445": 109,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 37,
-      "Игрунов Вячеслав Владимирович": 36,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 524,
-      "Политухин Юрий Алексеевич": 84,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 189,
-      "Шабалов Александр Павлович": 141,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000136150": 37,
+      "gas:candidate-vibid:1001000253497": 36,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 524,
+      "gas:candidate-vibid:1001000121935": 84,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 189,
+      "gas:candidate-vibid:1001000190445": 141,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 64,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 640,
-      "Политухин Юрий Алексеевич": 52,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 172,
-      "Шабалов Александр Павлович": 158,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 64,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 640,
+      "gas:candidate-vibid:1001000121935": 52,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 172,
+      "gas:candidate-vibid:1001000190445": 158,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 44,
-      "Кокарев Юрий Петрович": 20,
-      "Панина Елена Владимировна": 568,
-      "Политухин Юрий Алексеевич": 74,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 104,
-      "Шабалов Александр Павлович": 153,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 44,
+      "gas:candidate-vibid:377300570432": 20,
+      "gas:candidate-vibid:1001000226007": 568,
+      "gas:candidate-vibid:1001000121935": 74,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 104,
+      "gas:candidate-vibid:1001000190445": 153,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 48,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 609,
-      "Политухин Юрий Алексеевич": 69,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 161,
-      "Шабалов Александр Павлович": 178,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 48,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 609,
+      "gas:candidate-vibid:1001000121935": 69,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 161,
+      "gas:candidate-vibid:1001000190445": 178,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 27,
-      "Игрунов Вячеслав Владимирович": 30,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 689,
-      "Политухин Юрий Алексеевич": 110,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 150,
-      "Шабалов Александр Павлович": 163,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000136150": 27,
+      "gas:candidate-vibid:1001000253497": 30,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 689,
+      "gas:candidate-vibid:1001000121935": 110,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 150,
+      "gas:candidate-vibid:1001000190445": 163,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 2,
-      "Игрунов Вячеслав Владимирович": 3,
-      "Кокарев Юрий Петрович": 2,
-      "Панина Елена Владимировна": 107,
-      "Политухин Юрий Алексеевич": 5,
-      "Прияткин Андрей Николаевич": 2,
-      "Федоров Борис Григорьевич": 21,
-      "Шабалов Александр Павлович": 14,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136150": 2,
+      "gas:candidate-vibid:1001000253497": 3,
+      "gas:candidate-vibid:377300570432": 2,
+      "gas:candidate-vibid:1001000226007": 107,
+      "gas:candidate-vibid:1001000121935": 5,
+      "gas:candidate-vibid:377300570544": 2,
+      "gas:candidate-vibid:1001000118564": 21,
+      "gas:candidate-vibid:1001000190445": 14,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 38,
-      "Игрунов Вячеслав Владимирович": 34,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 170,
-      "Политухин Юрий Алексеевич": 68,
-      "Прияткин Андрей Николаевич": 19,
-      "Федоров Борис Григорьевич": 26,
-      "Шабалов Александр Павлович": 61,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136150": 38,
+      "gas:candidate-vibid:1001000253497": 34,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 170,
+      "gas:candidate-vibid:1001000121935": 68,
+      "gas:candidate-vibid:377300570544": 19,
+      "gas:candidate-vibid:1001000118564": 26,
+      "gas:candidate-vibid:1001000190445": 61,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 16,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 213,
-      "Политухин Юрий Алексеевич": 44,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 24,
-      "Шабалов Александр Павлович": 23,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 16,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 213,
+      "gas:candidate-vibid:1001000121935": 44,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 24,
+      "gas:candidate-vibid:1001000190445": 23,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 9,
-      "Игрунов Вячеслав Владимирович": 20,
-      "Кокарев Юрий Петрович": 13,
-      "Панина Елена Владимировна": 49,
-      "Политухин Юрий Алексеевич": 18,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 11,
-      "Шабалов Александр Павлович": 19,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000136150": 9,
+      "gas:candidate-vibid:1001000253497": 20,
+      "gas:candidate-vibid:377300570432": 13,
+      "gas:candidate-vibid:1001000226007": 49,
+      "gas:candidate-vibid:1001000121935": 18,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 11,
+      "gas:candidate-vibid:1001000190445": 19,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 44,
-      "Игрунов Вячеслав Владимирович": 56,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 125,
-      "Политухин Юрий Алексеевич": 88,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 29,
-      "Шабалов Александр Павлович": 39,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136150": 44,
+      "gas:candidate-vibid:1001000253497": 56,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 125,
+      "gas:candidate-vibid:1001000121935": 88,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 29,
+      "gas:candidate-vibid:1001000190445": 39,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 21,
-      "Кокарев Юрий Петрович": 9,
-      "Панина Елена Владимировна": 68,
-      "Политухин Юрий Алексеевич": 32,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 12,
-      "Шабалов Александр Павлович": 27,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 21,
+      "gas:candidate-vibid:377300570432": 9,
+      "gas:candidate-vibid:1001000226007": 68,
+      "gas:candidate-vibid:1001000121935": 32,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 12,
+      "gas:candidate-vibid:1001000190445": 27,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 16,
-      "Игрунов Вячеслав Владимирович": 22,
-      "Кокарев Юрий Петрович": 13,
-      "Панина Елена Владимировна": 70,
-      "Политухин Юрий Алексеевич": 39,
-      "Прияткин Андрей Николаевич": 4,
-      "Федоров Борис Григорьевич": 10,
-      "Шабалов Александр Павлович": 13,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136150": 16,
+      "gas:candidate-vibid:1001000253497": 22,
+      "gas:candidate-vibid:377300570432": 13,
+      "gas:candidate-vibid:1001000226007": 70,
+      "gas:candidate-vibid:1001000121935": 39,
+      "gas:candidate-vibid:377300570544": 4,
+      "gas:candidate-vibid:1001000118564": 10,
+      "gas:candidate-vibid:1001000190445": 13,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570362&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 12,
-      "Игрунов Вячеслав Владимирович": 48,
-      "Кокарев Юрий Петрович": 15,
-      "Панина Елена Владимировна": 327,
-      "Политухин Юрий Алексеевич": 69,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 135,
-      "Шабалов Александр Павлович": 90,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000136150": 12,
+      "gas:candidate-vibid:1001000253497": 48,
+      "gas:candidate-vibid:377300570432": 15,
+      "gas:candidate-vibid:1001000226007": 327,
+      "gas:candidate-vibid:1001000121935": 69,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 135,
+      "gas:candidate-vibid:1001000190445": 90,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 32,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 304,
-      "Политухин Юрий Алексеевич": 62,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 157,
-      "Шабалов Александр Павлович": 63,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 32,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 304,
+      "gas:candidate-vibid:1001000121935": 62,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 157,
+      "gas:candidate-vibid:1001000190445": 63,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 34,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 339,
-      "Политухин Юрий Алексеевич": 60,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 150,
-      "Шабалов Александр Павлович": 108,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 34,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 339,
+      "gas:candidate-vibid:1001000121935": 60,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 150,
+      "gas:candidate-vibid:1001000190445": 108,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 15,
-      "Игрунов Вячеслав Владимирович": 43,
-      "Кокарев Юрий Петрович": 42,
-      "Панина Елена Владимировна": 513,
-      "Политухин Юрий Алексеевич": 87,
-      "Прияткин Андрей Николаевич": 26,
-      "Федоров Борис Григорьевич": 207,
-      "Шабалов Александр Павлович": 146,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000136150": 15,
+      "gas:candidate-vibid:1001000253497": 43,
+      "gas:candidate-vibid:377300570432": 42,
+      "gas:candidate-vibid:1001000226007": 513,
+      "gas:candidate-vibid:1001000121935": 87,
+      "gas:candidate-vibid:377300570544": 26,
+      "gas:candidate-vibid:1001000118564": 207,
+      "gas:candidate-vibid:1001000190445": 146,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 27,
-      "Игрунов Вячеслав Владимирович": 72,
-      "Кокарев Юрий Петрович": 42,
-      "Панина Елена Владимировна": 537,
-      "Политухин Юрий Алексеевич": 98,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 263,
-      "Шабалов Александр Павлович": 110,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000136150": 27,
+      "gas:candidate-vibid:1001000253497": 72,
+      "gas:candidate-vibid:377300570432": 42,
+      "gas:candidate-vibid:1001000226007": 537,
+      "gas:candidate-vibid:1001000121935": 98,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 263,
+      "gas:candidate-vibid:1001000190445": 110,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 73,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 474,
-      "Политухин Юрий Алексеевич": 76,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 209,
-      "Шабалов Александр Павлович": 144,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 73,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 474,
+      "gas:candidate-vibid:1001000121935": 76,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 209,
+      "gas:candidate-vibid:1001000190445": 144,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 59,
-      "Кокарев Юрий Петрович": 39,
-      "Панина Елена Владимировна": 482,
-      "Политухин Юрий Алексеевич": 87,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 205,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 59,
+      "gas:candidate-vibid:377300570432": 39,
+      "gas:candidate-vibid:1001000226007": 482,
+      "gas:candidate-vibid:1001000121935": 87,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 205,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 15,
-      "Игрунов Вячеслав Владимирович": 55,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 511,
-      "Политухин Юрий Алексеевич": 85,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 199,
-      "Шабалов Александр Павлович": 126,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000136150": 15,
+      "gas:candidate-vibid:1001000253497": 55,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 511,
+      "gas:candidate-vibid:1001000121935": 85,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 199,
+      "gas:candidate-vibid:1001000190445": 126,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 36,
-      "Игрунов Вячеслав Владимирович": 69,
-      "Кокарев Юрий Петрович": 29,
-      "Панина Елена Владимировна": 484,
-      "Политухин Юрий Алексеевич": 106,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 212,
-      "Шабалов Александр Павлович": 109,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000136150": 36,
+      "gas:candidate-vibid:1001000253497": 69,
+      "gas:candidate-vibid:377300570432": 29,
+      "gas:candidate-vibid:1001000226007": 484,
+      "gas:candidate-vibid:1001000121935": 106,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 212,
+      "gas:candidate-vibid:1001000190445": 109,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 53,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 506,
-      "Политухин Юрий Алексеевич": 99,
-      "Прияткин Андрей Николаевич": 21,
-      "Федоров Борис Григорьевич": 238,
-      "Шабалов Александр Павлович": 116,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 53,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 506,
+      "gas:candidate-vibid:1001000121935": 99,
+      "gas:candidate-vibid:377300570544": 21,
+      "gas:candidate-vibid:1001000118564": 238,
+      "gas:candidate-vibid:1001000190445": 116,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 10
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 72,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 557,
-      "Политухин Юрий Алексеевич": 79,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 221,
-      "Шабалов Александр Павлович": 126,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 72,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 557,
+      "gas:candidate-vibid:1001000121935": 79,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 221,
+      "gas:candidate-vibid:1001000190445": 126,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 54,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 597,
-      "Политухин Юрий Алексеевич": 78,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 220,
-      "Шабалов Александр Павлович": 122,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 54,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 597,
+      "gas:candidate-vibid:1001000121935": 78,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 220,
+      "gas:candidate-vibid:1001000190445": 122,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 41,
-      "Игрунов Вячеслав Владимирович": 77,
-      "Кокарев Юрий Петрович": 70,
-      "Панина Елена Владимировна": 499,
-      "Политухин Юрий Алексеевич": 94,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 298,
-      "Шабалов Александр Павлович": 170,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000136150": 41,
+      "gas:candidate-vibid:1001000253497": 77,
+      "gas:candidate-vibid:377300570432": 70,
+      "gas:candidate-vibid:1001000226007": 499,
+      "gas:candidate-vibid:1001000121935": 94,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 298,
+      "gas:candidate-vibid:1001000190445": 170,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 9,
-      "Игрунов Вячеслав Владимирович": 50,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 278,
-      "Политухин Юрий Алексеевич": 39,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 146,
-      "Шабалов Александр Павлович": 91,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136150": 9,
+      "gas:candidate-vibid:1001000253497": 50,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 278,
+      "gas:candidate-vibid:1001000121935": 39,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 146,
+      "gas:candidate-vibid:1001000190445": 91,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 54,
-      "Кокарев Юрий Петрович": 40,
-      "Панина Елена Владимировна": 355,
-      "Политухин Юрий Алексеевич": 83,
-      "Прияткин Андрей Николаевич": 6,
-      "Федоров Борис Григорьевич": 175,
-      "Шабалов Александр Павлович": 96,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 54,
+      "gas:candidate-vibid:377300570432": 40,
+      "gas:candidate-vibid:1001000226007": 355,
+      "gas:candidate-vibid:1001000121935": 83,
+      "gas:candidate-vibid:377300570544": 6,
+      "gas:candidate-vibid:1001000118564": 175,
+      "gas:candidate-vibid:1001000190445": 96,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 42,
-      "Кокарев Юрий Петрович": 22,
-      "Панина Елена Владимировна": 328,
-      "Политухин Юрий Алексеевич": 47,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 147,
-      "Шабалов Александр Павлович": 58,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 42,
+      "gas:candidate-vibid:377300570432": 22,
+      "gas:candidate-vibid:1001000226007": 328,
+      "gas:candidate-vibid:1001000121935": 47,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 147,
+      "gas:candidate-vibid:1001000190445": 58,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 85,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 532,
-      "Политухин Юрий Алексеевич": 65,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 219,
-      "Шабалов Александр Павлович": 137,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 85,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 532,
+      "gas:candidate-vibid:1001000121935": 65,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 219,
+      "gas:candidate-vibid:1001000190445": 137,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 81,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 515,
-      "Политухин Юрий Алексеевич": 78,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 210,
-      "Шабалов Александр Павлович": 101,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 81,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 515,
+      "gas:candidate-vibid:1001000121935": 78,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 210,
+      "gas:candidate-vibid:1001000190445": 101,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 102,
-      "Кокарев Юрий Петрович": 29,
-      "Панина Елена Владимировна": 475,
-      "Политухин Юрий Алексеевич": 87,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 257,
-      "Шабалов Александр Павлович": 150,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 102,
+      "gas:candidate-vibid:377300570432": 29,
+      "gas:candidate-vibid:1001000226007": 475,
+      "gas:candidate-vibid:1001000121935": 87,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 257,
+      "gas:candidate-vibid:1001000190445": 150,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 34,
-      "Игрунов Вячеслав Владимирович": 63,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 510,
-      "Политухин Юрий Алексеевич": 117,
-      "Прияткин Андрей Николаевич": 20,
-      "Федоров Борис Григорьевич": 268,
-      "Шабалов Александр Павлович": 121,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136150": 34,
+      "gas:candidate-vibid:1001000253497": 63,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 510,
+      "gas:candidate-vibid:1001000121935": 117,
+      "gas:candidate-vibid:377300570544": 20,
+      "gas:candidate-vibid:1001000118564": 268,
+      "gas:candidate-vibid:1001000190445": 121,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 70,
-      "Кокарев Юрий Петрович": 48,
-      "Панина Елена Владимировна": 395,
-      "Политухин Юрий Алексеевич": 79,
-      "Прияткин Андрей Николаевич": 2,
-      "Федоров Борис Григорьевич": 201,
-      "Шабалов Александр Павлович": 149,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 70,
+      "gas:candidate-vibid:377300570432": 48,
+      "gas:candidate-vibid:1001000226007": 395,
+      "gas:candidate-vibid:1001000121935": 79,
+      "gas:candidate-vibid:377300570544": 2,
+      "gas:candidate-vibid:1001000118564": 201,
+      "gas:candidate-vibid:1001000190445": 149,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 70,
-      "Кокарев Юрий Петрович": 53,
-      "Панина Елена Владимировна": 396,
-      "Политухин Юрий Алексеевич": 65,
-      "Прияткин Андрей Николаевич": 6,
-      "Федоров Борис Григорьевич": 188,
-      "Шабалов Александр Павлович": 99,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 70,
+      "gas:candidate-vibid:377300570432": 53,
+      "gas:candidate-vibid:1001000226007": 396,
+      "gas:candidate-vibid:1001000121935": 65,
+      "gas:candidate-vibid:377300570544": 6,
+      "gas:candidate-vibid:1001000118564": 188,
+      "gas:candidate-vibid:1001000190445": 99,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 29,
-      "Игрунов Вячеслав Владимирович": 82,
-      "Кокарев Юрий Петрович": 39,
-      "Панина Елена Владимировна": 407,
-      "Политухин Юрий Алексеевич": 91,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 180,
-      "Шабалов Александр Павлович": 113,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000136150": 29,
+      "gas:candidate-vibid:1001000253497": 82,
+      "gas:candidate-vibid:377300570432": 39,
+      "gas:candidate-vibid:1001000226007": 407,
+      "gas:candidate-vibid:1001000121935": 91,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 180,
+      "gas:candidate-vibid:1001000190445": 113,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 43,
-      "Игрунов Вячеслав Владимирович": 73,
-      "Кокарев Юрий Петрович": 54,
-      "Панина Елена Владимировна": 407,
-      "Политухин Юрий Алексеевич": 95,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 234,
-      "Шабалов Александр Павлович": 144,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000136150": 43,
+      "gas:candidate-vibid:1001000253497": 73,
+      "gas:candidate-vibid:377300570432": 54,
+      "gas:candidate-vibid:1001000226007": 407,
+      "gas:candidate-vibid:1001000121935": 95,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 234,
+      "gas:candidate-vibid:1001000190445": 144,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 87,
-      "Кокарев Юрий Петрович": 40,
-      "Панина Елена Владимировна": 484,
-      "Политухин Юрий Алексеевич": 81,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 216,
-      "Шабалов Александр Павлович": 124,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 87,
+      "gas:candidate-vibid:377300570432": 40,
+      "gas:candidate-vibid:1001000226007": 484,
+      "gas:candidate-vibid:1001000121935": 81,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 216,
+      "gas:candidate-vibid:1001000190445": 124,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 16,
-      "Игрунов Вячеслав Владимирович": 90,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 556,
-      "Политухин Юрий Алексеевич": 109,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 175,
-      "Шабалов Александр Павлович": 120,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000136150": 16,
+      "gas:candidate-vibid:1001000253497": 90,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 556,
+      "gas:candidate-vibid:1001000121935": 109,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 175,
+      "gas:candidate-vibid:1001000190445": 120,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 27,
-      "Игрунов Вячеслав Владимирович": 60,
-      "Кокарев Юрий Петрович": 40,
-      "Панина Елена Владимировна": 551,
-      "Политухин Юрий Алексеевич": 112,
-      "Прияткин Андрей Николаевич": 6,
-      "Федоров Борис Григорьевич": 225,
-      "Шабалов Александр Павлович": 142,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000136150": 27,
+      "gas:candidate-vibid:1001000253497": 60,
+      "gas:candidate-vibid:377300570432": 40,
+      "gas:candidate-vibid:1001000226007": 551,
+      "gas:candidate-vibid:1001000121935": 112,
+      "gas:candidate-vibid:377300570544": 6,
+      "gas:candidate-vibid:1001000118564": 225,
+      "gas:candidate-vibid:1001000190445": 142,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 72,
-      "Кокарев Юрий Петрович": 22,
-      "Панина Елена Владимировна": 467,
-      "Политухин Юрий Алексеевич": 98,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 289,
-      "Шабалов Александр Павлович": 113,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 72,
+      "gas:candidate-vibid:377300570432": 22,
+      "gas:candidate-vibid:1001000226007": 467,
+      "gas:candidate-vibid:1001000121935": 98,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 289,
+      "gas:candidate-vibid:1001000190445": 113,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 43,
-      "Кокарев Юрий Петрович": 14,
-      "Панина Елена Владимировна": 364,
-      "Политухин Юрий Алексеевич": 58,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 186,
-      "Шабалов Александр Павлович": 61,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 43,
+      "gas:candidate-vibid:377300570432": 14,
+      "gas:candidate-vibid:1001000226007": 364,
+      "gas:candidate-vibid:1001000121935": 58,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 186,
+      "gas:candidate-vibid:1001000190445": 61,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 41,
-      "Кокарев Юрий Петрович": 26,
-      "Панина Елена Владимировна": 452,
-      "Политухин Юрий Алексеевич": 51,
-      "Прияткин Андрей Николаевич": 6,
-      "Федоров Борис Григорьевич": 168,
-      "Шабалов Александр Павлович": 75,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 41,
+      "gas:candidate-vibid:377300570432": 26,
+      "gas:candidate-vibid:1001000226007": 452,
+      "gas:candidate-vibid:1001000121935": 51,
+      "gas:candidate-vibid:377300570544": 6,
+      "gas:candidate-vibid:1001000118564": 168,
+      "gas:candidate-vibid:1001000190445": 75,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 31,
-      "Игрунов Вячеслав Владимирович": 98,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 560,
-      "Политухин Юрий Алексеевич": 116,
-      "Прияткин Андрей Николаевич": 26,
-      "Федоров Борис Григорьевич": 205,
-      "Шабалов Александр Павлович": 141,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000136150": 31,
+      "gas:candidate-vibid:1001000253497": 98,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 560,
+      "gas:candidate-vibid:1001000121935": 116,
+      "gas:candidate-vibid:377300570544": 26,
+      "gas:candidate-vibid:1001000118564": 205,
+      "gas:candidate-vibid:1001000190445": 141,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 31,
-      "Игрунов Вячеслав Владимирович": 67,
-      "Кокарев Юрий Петрович": 31,
-      "Панина Елена Владимировна": 485,
-      "Политухин Юрий Алексеевич": 76,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 220,
-      "Шабалов Александр Павлович": 149,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000136150": 31,
+      "gas:candidate-vibid:1001000253497": 67,
+      "gas:candidate-vibid:377300570432": 31,
+      "gas:candidate-vibid:1001000226007": 485,
+      "gas:candidate-vibid:1001000121935": 76,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 220,
+      "gas:candidate-vibid:1001000190445": 149,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 15,
-      "Игрунов Вячеслав Владимирович": 61,
-      "Кокарев Юрий Петрович": 29,
-      "Панина Елена Владимировна": 497,
-      "Политухин Юрий Алексеевич": 105,
-      "Прияткин Андрей Николаевич": 18,
-      "Федоров Борис Григорьевич": 146,
-      "Шабалов Александр Павлович": 118,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000136150": 15,
+      "gas:candidate-vibid:1001000253497": 61,
+      "gas:candidate-vibid:377300570432": 29,
+      "gas:candidate-vibid:1001000226007": 497,
+      "gas:candidate-vibid:1001000121935": 105,
+      "gas:candidate-vibid:377300570544": 18,
+      "gas:candidate-vibid:1001000118564": 146,
+      "gas:candidate-vibid:1001000190445": 118,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 36,
-      "Игрунов Вячеслав Владимирович": 58,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 487,
-      "Политухин Юрий Алексеевич": 104,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 204,
-      "Шабалов Александр Павлович": 121,
-      "Против всех": 360
+      "gas:candidate-vibid:1001000136150": 36,
+      "gas:candidate-vibid:1001000253497": 58,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 487,
+      "gas:candidate-vibid:1001000121935": 104,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 204,
+      "gas:candidate-vibid:1001000190445": 121,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 27,
-      "Игрунов Вячеслав Владимирович": 51,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 406,
-      "Политухин Юрий Алексеевич": 62,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 146,
-      "Шабалов Александр Павлович": 79,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000136150": 27,
+      "gas:candidate-vibid:1001000253497": 51,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 406,
+      "gas:candidate-vibid:1001000121935": 62,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 146,
+      "gas:candidate-vibid:1001000190445": 79,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570364&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 40,
-      "Игрунов Вячеслав Владимирович": 63,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 488,
-      "Политухин Юрий Алексеевич": 76,
-      "Прияткин Андрей Николаевич": 18,
-      "Федоров Борис Григорьевич": 230,
-      "Шабалов Александр Павлович": 154,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000136150": 40,
+      "gas:candidate-vibid:1001000253497": 63,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 488,
+      "gas:candidate-vibid:1001000121935": 76,
+      "gas:candidate-vibid:377300570544": 18,
+      "gas:candidate-vibid:1001000118564": 230,
+      "gas:candidate-vibid:1001000190445": 154,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 14,
-      "Игрунов Вячеслав Владимирович": 71,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 273,
-      "Политухин Юрий Алексеевич": 58,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 160,
-      "Шабалов Александр Павлович": 97,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000136150": 14,
+      "gas:candidate-vibid:1001000253497": 71,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 273,
+      "gas:candidate-vibid:1001000121935": 58,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 160,
+      "gas:candidate-vibid:1001000190445": 97,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 23,
-      "Кокарев Юрий Петрович": 39,
-      "Панина Елена Владимировна": 412,
-      "Политухин Юрий Алексеевич": 54,
-      "Прияткин Андрей Николаевич": 5,
-      "Федоров Борис Григорьевич": 140,
-      "Шабалов Александр Павлович": 95,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 23,
+      "gas:candidate-vibid:377300570432": 39,
+      "gas:candidate-vibid:1001000226007": 412,
+      "gas:candidate-vibid:1001000121935": 54,
+      "gas:candidate-vibid:377300570544": 5,
+      "gas:candidate-vibid:1001000118564": 140,
+      "gas:candidate-vibid:1001000190445": 95,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 8,
-      "Игрунов Вячеслав Владимирович": 25,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 401,
-      "Политухин Юрий Алексеевич": 64,
-      "Прияткин Андрей Николаевич": 4,
-      "Федоров Борис Григорьевич": 107,
-      "Шабалов Александр Павлович": 63,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000136150": 8,
+      "gas:candidate-vibid:1001000253497": 25,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 401,
+      "gas:candidate-vibid:1001000121935": 64,
+      "gas:candidate-vibid:377300570544": 4,
+      "gas:candidate-vibid:1001000118564": 107,
+      "gas:candidate-vibid:1001000190445": 63,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 48,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 349,
-      "Политухин Юрий Алексеевич": 86,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 175,
-      "Шабалов Александр Павлович": 92,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 48,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 349,
+      "gas:candidate-vibid:1001000121935": 86,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 175,
+      "gas:candidate-vibid:1001000190445": 92,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 69,
-      "Кокарев Юрий Петрович": 31,
-      "Панина Елена Владимировна": 396,
-      "Политухин Юрий Алексеевич": 85,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 140,
-      "Шабалов Александр Павлович": 91,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 69,
+      "gas:candidate-vibid:377300570432": 31,
+      "gas:candidate-vibid:1001000226007": 396,
+      "gas:candidate-vibid:1001000121935": 85,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 140,
+      "gas:candidate-vibid:1001000190445": 91,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 15,
-      "Игрунов Вячеслав Владимирович": 100,
-      "Кокарев Юрий Петрович": 47,
-      "Панина Елена Владимировна": 382,
-      "Политухин Юрий Алексеевич": 58,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 195,
-      "Шабалов Александр Павлович": 97,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000136150": 15,
+      "gas:candidate-vibid:1001000253497": 100,
+      "gas:candidate-vibid:377300570432": 47,
+      "gas:candidate-vibid:1001000226007": 382,
+      "gas:candidate-vibid:1001000121935": 58,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 195,
+      "gas:candidate-vibid:1001000190445": 97,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 15,
-      "Игрунов Вячеслав Владимирович": 44,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 242,
-      "Политухин Юрий Алексеевич": 38,
-      "Прияткин Андрей Николаевич": 3,
-      "Федоров Борис Григорьевич": 91,
-      "Шабалов Александр Павлович": 62,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136150": 15,
+      "gas:candidate-vibid:1001000253497": 44,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 242,
+      "gas:candidate-vibid:1001000121935": 38,
+      "gas:candidate-vibid:377300570544": 3,
+      "gas:candidate-vibid:1001000118564": 91,
+      "gas:candidate-vibid:1001000190445": 62,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 17,
-      "Игрунов Вячеслав Владимирович": 27,
-      "Кокарев Юрий Петрович": 25,
-      "Панина Елена Владимировна": 243,
-      "Политухин Юрий Алексеевич": 49,
-      "Прияткин Андрей Николаевич": 2,
-      "Федоров Борис Григорьевич": 95,
-      "Шабалов Александр Павлович": 33,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136150": 17,
+      "gas:candidate-vibid:1001000253497": 27,
+      "gas:candidate-vibid:377300570432": 25,
+      "gas:candidate-vibid:1001000226007": 243,
+      "gas:candidate-vibid:1001000121935": 49,
+      "gas:candidate-vibid:377300570544": 2,
+      "gas:candidate-vibid:1001000118564": 95,
+      "gas:candidate-vibid:1001000190445": 33,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 13,
-      "Игрунов Вячеслав Владимирович": 36,
-      "Кокарев Юрий Петрович": 16,
-      "Панина Елена Владимировна": 447,
-      "Политухин Юрий Алексеевич": 47,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 108,
-      "Шабалов Александр Павлович": 113,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136150": 13,
+      "gas:candidate-vibid:1001000253497": 36,
+      "gas:candidate-vibid:377300570432": 16,
+      "gas:candidate-vibid:1001000226007": 447,
+      "gas:candidate-vibid:1001000121935": 47,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 108,
+      "gas:candidate-vibid:1001000190445": 113,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 31,
-      "Игрунов Вячеслав Владимирович": 29,
-      "Кокарев Юрий Петрович": 17,
-      "Панина Елена Владимировна": 376,
-      "Политухин Юрий Алексеевич": 75,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 106,
-      "Шабалов Александр Павлович": 77,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136150": 31,
+      "gas:candidate-vibid:1001000253497": 29,
+      "gas:candidate-vibid:377300570432": 17,
+      "gas:candidate-vibid:1001000226007": 376,
+      "gas:candidate-vibid:1001000121935": 75,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 106,
+      "gas:candidate-vibid:1001000190445": 77,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 44,
-      "Кокарев Юрий Петрович": 29,
-      "Панина Елена Владимировна": 352,
-      "Политухин Юрий Алексеевич": 43,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 83,
-      "Шабалов Александр Павлович": 90,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 44,
+      "gas:candidate-vibid:377300570432": 29,
+      "gas:candidate-vibid:1001000226007": 352,
+      "gas:candidate-vibid:1001000121935": 43,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 83,
+      "gas:candidate-vibid:1001000190445": 90,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 14,
-      "Игрунов Вячеслав Владимирович": 35,
-      "Кокарев Юрий Петрович": 17,
-      "Панина Елена Владимировна": 357,
-      "Политухин Юрий Алексеевич": 61,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 125,
-      "Шабалов Александр Павлович": 91,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000136150": 14,
+      "gas:candidate-vibid:1001000253497": 35,
+      "gas:candidate-vibid:377300570432": 17,
+      "gas:candidate-vibid:1001000226007": 357,
+      "gas:candidate-vibid:1001000121935": 61,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 125,
+      "gas:candidate-vibid:1001000190445": 91,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 38,
-      "Кокарев Юрий Петрович": 47,
-      "Панина Елена Владимировна": 502,
-      "Политухин Юрий Алексеевич": 81,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 146,
-      "Шабалов Александр Павлович": 140,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 38,
+      "gas:candidate-vibid:377300570432": 47,
+      "gas:candidate-vibid:1001000226007": 502,
+      "gas:candidate-vibid:1001000121935": 81,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 146,
+      "gas:candidate-vibid:1001000190445": 140,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 72,
-      "Кокарев Юрий Петрович": 51,
-      "Панина Елена Владимировна": 492,
-      "Политухин Юрий Алексеевич": 80,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 161,
-      "Шабалов Александр Павлович": 156,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 72,
+      "gas:candidate-vibid:377300570432": 51,
+      "gas:candidate-vibid:1001000226007": 492,
+      "gas:candidate-vibid:1001000121935": 80,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 161,
+      "gas:candidate-vibid:1001000190445": 156,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 62,
-      "Кокарев Юрий Петрович": 39,
-      "Панина Елена Владимировна": 457,
-      "Политухин Юрий Алексеевич": 69,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 155,
-      "Шабалов Александр Павлович": 188,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 62,
+      "gas:candidate-vibid:377300570432": 39,
+      "gas:candidate-vibid:1001000226007": 457,
+      "gas:candidate-vibid:1001000121935": 69,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 155,
+      "gas:candidate-vibid:1001000190445": 188,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 88,
-      "Кокарев Юрий Петрович": 47,
-      "Панина Елена Владимировна": 234,
-      "Политухин Юрий Алексеевич": 88,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 214,
-      "Шабалов Александр Павлович": 287,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 88,
+      "gas:candidate-vibid:377300570432": 47,
+      "gas:candidate-vibid:1001000226007": 234,
+      "gas:candidate-vibid:1001000121935": 88,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 214,
+      "gas:candidate-vibid:1001000190445": 287,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 34,
-      "Игрунов Вячеслав Владимирович": 76,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 411,
-      "Политухин Юрий Алексеевич": 79,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 159,
-      "Шабалов Александр Павлович": 282,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000136150": 34,
+      "gas:candidate-vibid:1001000253497": 76,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 411,
+      "gas:candidate-vibid:1001000121935": 79,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 159,
+      "gas:candidate-vibid:1001000190445": 282,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 33,
-      "Игрунов Вячеслав Владимирович": 67,
-      "Кокарев Юрий Петрович": 38,
-      "Панина Елена Владимировна": 518,
-      "Политухин Юрий Алексеевич": 92,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 166,
-      "Шабалов Александр Павлович": 215,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000136150": 33,
+      "gas:candidate-vibid:1001000253497": 67,
+      "gas:candidate-vibid:377300570432": 38,
+      "gas:candidate-vibid:1001000226007": 518,
+      "gas:candidate-vibid:1001000121935": 92,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 166,
+      "gas:candidate-vibid:1001000190445": 215,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 56,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 512,
-      "Политухин Юрий Алексеевич": 82,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 163,
-      "Шабалов Александр Павлович": 271,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 56,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 512,
+      "gas:candidate-vibid:1001000121935": 82,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 163,
+      "gas:candidate-vibid:1001000190445": 271,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 76,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 451,
-      "Политухин Юрий Алексеевич": 67,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 177,
-      "Шабалов Александр Павлович": 224,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 76,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 451,
+      "gas:candidate-vibid:1001000121935": 67,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 177,
+      "gas:candidate-vibid:1001000190445": 224,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 90,
-      "Кокарев Юрий Петрович": 49,
-      "Панина Елена Владимировна": 382,
-      "Политухин Юрий Алексеевич": 102,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 193,
-      "Шабалов Александр Павлович": 182,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 90,
+      "gas:candidate-vibid:377300570432": 49,
+      "gas:candidate-vibid:1001000226007": 382,
+      "gas:candidate-vibid:1001000121935": 102,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 193,
+      "gas:candidate-vibid:1001000190445": 182,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 59,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 412,
-      "Политухин Юрий Алексеевич": 41,
-      "Прияткин Андрей Николаевич": 4,
-      "Федоров Борис Григорьевич": 194,
-      "Шабалов Александр Павлович": 178,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 59,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 412,
+      "gas:candidate-vibid:1001000121935": 41,
+      "gas:candidate-vibid:377300570544": 4,
+      "gas:candidate-vibid:1001000118564": 194,
+      "gas:candidate-vibid:1001000190445": 178,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 51,
-      "Кокарев Юрий Петрович": 63,
-      "Панина Елена Владимировна": 385,
-      "Политухин Юрий Алексеевич": 60,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 148,
-      "Шабалов Александр Павлович": 146,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 51,
+      "gas:candidate-vibid:377300570432": 63,
+      "gas:candidate-vibid:1001000226007": 385,
+      "gas:candidate-vibid:1001000121935": 60,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 148,
+      "gas:candidate-vibid:1001000190445": 146,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 62,
-      "Кокарев Юрий Петрович": 105,
-      "Панина Елена Владимировна": 465,
-      "Политухин Юрий Алексеевич": 65,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 140,
-      "Шабалов Александр Павлович": 189,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 62,
+      "gas:candidate-vibid:377300570432": 105,
+      "gas:candidate-vibid:1001000226007": 465,
+      "gas:candidate-vibid:1001000121935": 65,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 140,
+      "gas:candidate-vibid:1001000190445": 189,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 16,
-      "Игрунов Вячеслав Владимирович": 56,
-      "Кокарев Юрий Петрович": 25,
-      "Панина Елена Владимировна": 289,
-      "Политухин Юрий Алексеевич": 45,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 109,
-      "Шабалов Александр Павлович": 138,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136150": 16,
+      "gas:candidate-vibid:1001000253497": 56,
+      "gas:candidate-vibid:377300570432": 25,
+      "gas:candidate-vibid:1001000226007": 289,
+      "gas:candidate-vibid:1001000121935": 45,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 109,
+      "gas:candidate-vibid:1001000190445": 138,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 14,
-      "Игрунов Вячеслав Владимирович": 24,
-      "Кокарев Юрий Петрович": 14,
-      "Панина Елена Владимировна": 176,
-      "Политухин Юрий Алексеевич": 21,
-      "Прияткин Андрей Николаевич": 4,
-      "Федоров Борис Григорьевич": 64,
-      "Шабалов Александр Павлович": 62,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136150": 14,
+      "gas:candidate-vibid:1001000253497": 24,
+      "gas:candidate-vibid:377300570432": 14,
+      "gas:candidate-vibid:1001000226007": 176,
+      "gas:candidate-vibid:1001000121935": 21,
+      "gas:candidate-vibid:377300570544": 4,
+      "gas:candidate-vibid:1001000118564": 64,
+      "gas:candidate-vibid:1001000190445": 62,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 41,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 335,
-      "Политухин Юрий Алексеевич": 41,
-      "Прияткин Андрей Николаевич": 5,
-      "Федоров Борис Григорьевич": 95,
-      "Шабалов Александр Павлович": 105,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 41,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 335,
+      "gas:candidate-vibid:1001000121935": 41,
+      "gas:candidate-vibid:377300570544": 5,
+      "gas:candidate-vibid:1001000118564": 95,
+      "gas:candidate-vibid:1001000190445": 105,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 7,
-      "Игрунов Вячеслав Владимирович": 58,
-      "Кокарев Юрий Петрович": 14,
-      "Панина Елена Владимировна": 265,
-      "Политухин Юрий Алексеевич": 72,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 121,
-      "Шабалов Александр Павлович": 98,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000136150": 7,
+      "gas:candidate-vibid:1001000253497": 58,
+      "gas:candidate-vibid:377300570432": 14,
+      "gas:candidate-vibid:1001000226007": 265,
+      "gas:candidate-vibid:1001000121935": 72,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 121,
+      "gas:candidate-vibid:1001000190445": 98,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 10,
-      "Игрунов Вячеслав Владимирович": 30,
-      "Кокарев Юрий Петрович": 14,
-      "Панина Елена Владимировна": 283,
-      "Политухин Юрий Алексеевич": 27,
-      "Прияткин Андрей Николаевич": 2,
-      "Федоров Борис Григорьевич": 100,
-      "Шабалов Александр Павлович": 63,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136150": 10,
+      "gas:candidate-vibid:1001000253497": 30,
+      "gas:candidate-vibid:377300570432": 14,
+      "gas:candidate-vibid:1001000226007": 283,
+      "gas:candidate-vibid:1001000121935": 27,
+      "gas:candidate-vibid:377300570544": 2,
+      "gas:candidate-vibid:1001000118564": 100,
+      "gas:candidate-vibid:1001000190445": 63,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 34,
-      "Игрунов Вячеслав Владимирович": 40,
-      "Кокарев Юрий Петрович": 54,
-      "Панина Елена Владимировна": 433,
-      "Политухин Юрий Алексеевич": 93,
-      "Прияткин Андрей Николаевич": 20,
-      "Федоров Борис Григорьевич": 181,
-      "Шабалов Александр Павлович": 162,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000136150": 34,
+      "gas:candidate-vibid:1001000253497": 40,
+      "gas:candidate-vibid:377300570432": 54,
+      "gas:candidate-vibid:1001000226007": 433,
+      "gas:candidate-vibid:1001000121935": 93,
+      "gas:candidate-vibid:377300570544": 20,
+      "gas:candidate-vibid:1001000118564": 181,
+      "gas:candidate-vibid:1001000190445": 162,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 35,
-      "Игрунов Вячеслав Владимирович": 81,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 576,
-      "Политухин Юрий Алексеевич": 51,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 146,
-      "Шабалов Александр Павлович": 146,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000136150": 35,
+      "gas:candidate-vibid:1001000253497": 81,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 576,
+      "gas:candidate-vibid:1001000121935": 51,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 146,
+      "gas:candidate-vibid:1001000190445": 146,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 62,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 500,
-      "Политухин Юрий Алексеевич": 84,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 161,
-      "Шабалов Александр Павлович": 115,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 62,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 500,
+      "gas:candidate-vibid:1001000121935": 84,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 161,
+      "gas:candidate-vibid:1001000190445": 115,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 67,
-      "Кокарев Юрий Петрович": 42,
-      "Панина Елена Владимировна": 628,
-      "Политухин Юрий Алексеевич": 87,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 239,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 67,
+      "gas:candidate-vibid:377300570432": 42,
+      "gas:candidate-vibid:1001000226007": 628,
+      "gas:candidate-vibid:1001000121935": 87,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 239,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 17,
-      "Игрунов Вячеслав Владимирович": 47,
-      "Кокарев Юрий Петрович": 22,
-      "Панина Елена Владимировна": 388,
-      "Политухин Юрий Алексеевич": 51,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 115,
-      "Шабалов Александр Павлович": 57,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136150": 17,
+      "gas:candidate-vibid:1001000253497": 47,
+      "gas:candidate-vibid:377300570432": 22,
+      "gas:candidate-vibid:1001000226007": 388,
+      "gas:candidate-vibid:1001000121935": 51,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 115,
+      "gas:candidate-vibid:1001000190445": 57,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 78,
-      "Кокарев Юрий Петрович": 58,
-      "Панина Елена Владимировна": 533,
-      "Политухин Юрий Алексеевич": 88,
-      "Прияткин Андрей Николаевич": 19,
-      "Федоров Борис Григорьевич": 218,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 78,
+      "gas:candidate-vibid:377300570432": 58,
+      "gas:candidate-vibid:1001000226007": 533,
+      "gas:candidate-vibid:1001000121935": 88,
+      "gas:candidate-vibid:377300570544": 19,
+      "gas:candidate-vibid:1001000118564": 218,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 63,
-      "Кокарев Юрий Петрович": 48,
-      "Панина Елена Владимировна": 440,
-      "Политухин Юрий Алексеевич": 71,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 176,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 63,
+      "gas:candidate-vibid:377300570432": 48,
+      "gas:candidate-vibid:1001000226007": 440,
+      "gas:candidate-vibid:1001000121935": 71,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 176,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 14,
-      "Игрунов Вячеслав Владимирович": 26,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 385,
-      "Политухин Юрий Алексеевич": 56,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 141,
-      "Шабалов Александр Павлович": 124,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000136150": 14,
+      "gas:candidate-vibid:1001000253497": 26,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 385,
+      "gas:candidate-vibid:1001000121935": 56,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 141,
+      "gas:candidate-vibid:1001000190445": 124,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 57,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 527,
-      "Политухин Юрий Алексеевич": 71,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 170,
-      "Шабалов Александр Павлович": 119,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 57,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 527,
+      "gas:candidate-vibid:1001000121935": 71,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 170,
+      "gas:candidate-vibid:1001000190445": 119,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 33,
-      "Кокарев Юрий Петрович": 29,
-      "Панина Елена Владимировна": 273,
-      "Политухин Юрий Алексеевич": 38,
-      "Прияткин Андрей Николаевич": 4,
-      "Федоров Борис Григорьевич": 124,
-      "Шабалов Александр Павлович": 85,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 33,
+      "gas:candidate-vibid:377300570432": 29,
+      "gas:candidate-vibid:1001000226007": 273,
+      "gas:candidate-vibid:1001000121935": 38,
+      "gas:candidate-vibid:377300570544": 4,
+      "gas:candidate-vibid:1001000118564": 124,
+      "gas:candidate-vibid:1001000190445": 85,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 92,
-      "Кокарев Юрий Петрович": 51,
-      "Панина Елена Владимировна": 529,
-      "Политухин Юрий Алексеевич": 70,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 148,
-      "Шабалов Александр Павлович": 255,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 92,
+      "gas:candidate-vibid:377300570432": 51,
+      "gas:candidate-vibid:1001000226007": 529,
+      "gas:candidate-vibid:1001000121935": 70,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 148,
+      "gas:candidate-vibid:1001000190445": 255,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 9,
-      "Игрунов Вячеслав Владимирович": 9,
-      "Кокарев Юрий Петрович": 3,
-      "Панина Елена Владимировна": 77,
-      "Политухин Юрий Алексеевич": 6,
-      "Прияткин Андрей Николаевич": 3,
-      "Федоров Борис Григорьевич": 16,
-      "Шабалов Александр Павлович": 17,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136150": 9,
+      "gas:candidate-vibid:1001000253497": 9,
+      "gas:candidate-vibid:377300570432": 3,
+      "gas:candidate-vibid:1001000226007": 77,
+      "gas:candidate-vibid:1001000121935": 6,
+      "gas:candidate-vibid:377300570544": 3,
+      "gas:candidate-vibid:1001000118564": 16,
+      "gas:candidate-vibid:1001000190445": 17,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 1,
-      "Игрунов Вячеслав Владимирович": 5,
-      "Кокарев Юрий Петрович": 4,
-      "Панина Елена Владимировна": 53,
-      "Политухин Юрий Алексеевич": 6,
-      "Прияткин Андрей Николаевич": 3,
-      "Федоров Борис Григорьевич": 6,
-      "Шабалов Александр Павлович": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136150": 1,
+      "gas:candidate-vibid:1001000253497": 5,
+      "gas:candidate-vibid:377300570432": 4,
+      "gas:candidate-vibid:1001000226007": 53,
+      "gas:candidate-vibid:1001000121935": 6,
+      "gas:candidate-vibid:377300570544": 3,
+      "gas:candidate-vibid:1001000118564": 6,
+      "gas:candidate-vibid:1001000190445": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 10,
-      "Игрунов Вячеслав Владимирович": 12,
-      "Кокарев Юрий Петрович": 2,
-      "Панина Елена Владимировна": 140,
-      "Политухин Юрий Алексеевич": 9,
-      "Прияткин Андрей Николаевич": 2,
-      "Федоров Борис Григорьевич": 29,
-      "Шабалов Александр Павлович": 31,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136150": 10,
+      "gas:candidate-vibid:1001000253497": 12,
+      "gas:candidate-vibid:377300570432": 2,
+      "gas:candidate-vibid:1001000226007": 140,
+      "gas:candidate-vibid:1001000121935": 9,
+      "gas:candidate-vibid:377300570544": 2,
+      "gas:candidate-vibid:1001000118564": 29,
+      "gas:candidate-vibid:1001000190445": 31,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 62,
-      "Игрунов Вячеслав Владимирович": 54,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 608,
-      "Политухин Юрий Алексеевич": 108,
-      "Прияткин Андрей Николаевич": 25,
-      "Федоров Борис Григорьевич": 143,
-      "Шабалов Александр Павлович": 152,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000136150": 62,
+      "gas:candidate-vibid:1001000253497": 54,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 608,
+      "gas:candidate-vibid:1001000121935": 108,
+      "gas:candidate-vibid:377300570544": 25,
+      "gas:candidate-vibid:1001000118564": 143,
+      "gas:candidate-vibid:1001000190445": 152,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 105,
-      "Игрунов Вячеслав Владимирович": 47,
-      "Кокарев Юрий Петрович": 25,
-      "Панина Елена Владимировна": 632,
-      "Политухин Юрий Алексеевич": 129,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 113,
-      "Шабалов Александр Павлович": 153,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000136150": 105,
+      "gas:candidate-vibid:1001000253497": 47,
+      "gas:candidate-vibid:377300570432": 25,
+      "gas:candidate-vibid:1001000226007": 632,
+      "gas:candidate-vibid:1001000121935": 129,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 113,
+      "gas:candidate-vibid:1001000190445": 153,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 4,
-      "Игрунов Вячеслав Владимирович": 4,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 46,
-      "Политухин Юрий Алексеевич": 2,
-      "Прияткин Андрей Николаевич": 2,
-      "Федоров Борис Григорьевич": 8,
-      "Шабалов Александр Павлович": 53,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136150": 4,
+      "gas:candidate-vibid:1001000253497": 4,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 46,
+      "gas:candidate-vibid:1001000121935": 2,
+      "gas:candidate-vibid:377300570544": 2,
+      "gas:candidate-vibid:1001000118564": 8,
+      "gas:candidate-vibid:1001000190445": 53,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 3,
-      "Игрунов Вячеслав Владимирович": 6,
-      "Кокарев Юрий Петрович": 4,
-      "Панина Елена Владимировна": 63,
-      "Политухин Юрий Алексеевич": 8,
-      "Прияткин Андрей Николаевич": 2,
-      "Федоров Борис Григорьевич": 33,
-      "Шабалов Александр Павлович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136150": 3,
+      "gas:candidate-vibid:1001000253497": 6,
+      "gas:candidate-vibid:377300570432": 4,
+      "gas:candidate-vibid:1001000226007": 63,
+      "gas:candidate-vibid:1001000121935": 8,
+      "gas:candidate-vibid:377300570544": 2,
+      "gas:candidate-vibid:1001000118564": 33,
+      "gas:candidate-vibid:1001000190445": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 1,
-      "Игрунов Вячеслав Владимирович": 1,
-      "Кокарев Юрий Петрович": 2,
-      "Панина Елена Владимировна": 33,
-      "Политухин Юрий Алексеевич": 5,
-      "Прияткин Андрей Николаевич": 0,
-      "Федоров Борис Григорьевич": 7,
-      "Шабалов Александр Павлович": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136150": 1,
+      "gas:candidate-vibid:1001000253497": 1,
+      "gas:candidate-vibid:377300570432": 2,
+      "gas:candidate-vibid:1001000226007": 33,
+      "gas:candidate-vibid:1001000121935": 5,
+      "gas:candidate-vibid:377300570544": 0,
+      "gas:candidate-vibid:1001000118564": 7,
+      "gas:candidate-vibid:1001000190445": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 0,
-      "Игрунов Вячеслав Владимирович": 0,
-      "Кокарев Юрий Петрович": 0,
-      "Панина Елена Владимировна": 1,
-      "Политухин Юрий Алексеевич": 0,
-      "Прияткин Андрей Николаевич": 0,
-      "Федоров Борис Григорьевич": 0,
-      "Шабалов Александр Павлович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136150": 0,
+      "gas:candidate-vibid:1001000253497": 0,
+      "gas:candidate-vibid:377300570432": 0,
+      "gas:candidate-vibid:1001000226007": 1,
+      "gas:candidate-vibid:1001000121935": 0,
+      "gas:candidate-vibid:377300570544": 0,
+      "gas:candidate-vibid:1001000118564": 0,
+      "gas:candidate-vibid:1001000190445": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570366&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 64,
-      "Кокарев Юрий Петрович": 26,
-      "Панина Елена Владимировна": 630,
-      "Политухин Юрий Алексеевич": 65,
-      "Прияткин Андрей Николаевич": 5,
-      "Федоров Борис Григорьевич": 152,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 64,
+      "gas:candidate-vibid:377300570432": 26,
+      "gas:candidate-vibid:1001000226007": 630,
+      "gas:candidate-vibid:1001000121935": 65,
+      "gas:candidate-vibid:377300570544": 5,
+      "gas:candidate-vibid:1001000118564": 152,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 59,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 408,
-      "Политухин Юрий Алексеевич": 115,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 192,
-      "Шабалов Александр Павлович": 92,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 59,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 408,
+      "gas:candidate-vibid:1001000121935": 115,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 192,
+      "gas:candidate-vibid:1001000190445": 92,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 58,
-      "Кокарев Юрий Петрович": 28,
-      "Панина Елена Владимировна": 436,
-      "Политухин Юрий Алексеевич": 76,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 198,
-      "Шабалов Александр Павлович": 165,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 58,
+      "gas:candidate-vibid:377300570432": 28,
+      "gas:candidate-vibid:1001000226007": 436,
+      "gas:candidate-vibid:1001000121935": 76,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 198,
+      "gas:candidate-vibid:1001000190445": 165,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 35,
-      "Игрунов Вячеслав Владимирович": 77,
-      "Кокарев Юрий Петрович": 28,
-      "Панина Елена Владимировна": 513,
-      "Политухин Юрий Алексеевич": 100,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 194,
-      "Шабалов Александр Павлович": 152,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000136150": 35,
+      "gas:candidate-vibid:1001000253497": 77,
+      "gas:candidate-vibid:377300570432": 28,
+      "gas:candidate-vibid:1001000226007": 513,
+      "gas:candidate-vibid:1001000121935": 100,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 194,
+      "gas:candidate-vibid:1001000190445": 152,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 36,
-      "Игрунов Вячеслав Владимирович": 80,
-      "Кокарев Юрий Петрович": 22,
-      "Панина Елена Владимировна": 586,
-      "Политухин Юрий Алексеевич": 90,
-      "Прияткин Андрей Николаевич": 21,
-      "Федоров Борис Григорьевич": 212,
-      "Шабалов Александр Павлович": 180,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000136150": 36,
+      "gas:candidate-vibid:1001000253497": 80,
+      "gas:candidate-vibid:377300570432": 22,
+      "gas:candidate-vibid:1001000226007": 586,
+      "gas:candidate-vibid:1001000121935": 90,
+      "gas:candidate-vibid:377300570544": 21,
+      "gas:candidate-vibid:1001000118564": 212,
+      "gas:candidate-vibid:1001000190445": 180,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 33,
-      "Кокарев Юрий Петрович": 13,
-      "Панина Елена Владимировна": 576,
-      "Политухин Юрий Алексеевич": 59,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 138,
-      "Шабалов Александр Павлович": 147,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 33,
+      "gas:candidate-vibid:377300570432": 13,
+      "gas:candidate-vibid:1001000226007": 576,
+      "gas:candidate-vibid:1001000121935": 59,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 138,
+      "gas:candidate-vibid:1001000190445": 147,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 27,
-      "Игрунов Вячеслав Владимирович": 60,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 580,
-      "Политухин Юрий Алексеевич": 79,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 145,
-      "Шабалов Александр Павлович": 172,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000136150": 27,
+      "gas:candidate-vibid:1001000253497": 60,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 580,
+      "gas:candidate-vibid:1001000121935": 79,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 145,
+      "gas:candidate-vibid:1001000190445": 172,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 79,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 574,
-      "Политухин Юрий Алексеевич": 111,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 183,
-      "Шабалов Александр Павлович": 155,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 79,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 574,
+      "gas:candidate-vibid:1001000121935": 111,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 183,
+      "gas:candidate-vibid:1001000190445": 155,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 56,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 618,
-      "Политухин Юрий Алексеевич": 68,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 116,
-      "Шабалов Александр Павлович": 148,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 56,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 618,
+      "gas:candidate-vibid:1001000121935": 68,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 116,
+      "gas:candidate-vibid:1001000190445": 148,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 31,
-      "Игрунов Вячеслав Владимирович": 69,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 575,
-      "Политухин Юрий Алексеевич": 56,
-      "Прияткин Андрей Николаевич": 20,
-      "Федоров Борис Григорьевич": 119,
-      "Шабалов Александр Павлович": 144,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000136150": 31,
+      "gas:candidate-vibid:1001000253497": 69,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 575,
+      "gas:candidate-vibid:1001000121935": 56,
+      "gas:candidate-vibid:377300570544": 20,
+      "gas:candidate-vibid:1001000118564": 119,
+      "gas:candidate-vibid:1001000190445": 144,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 15,
-      "Игрунов Вячеслав Владимирович": 47,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 551,
-      "Политухин Юрий Алексеевич": 63,
-      "Прияткин Андрей Николаевич": 5,
-      "Федоров Борис Григорьевич": 145,
-      "Шабалов Александр Павлович": 136,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000136150": 15,
+      "gas:candidate-vibid:1001000253497": 47,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 551,
+      "gas:candidate-vibid:1001000121935": 63,
+      "gas:candidate-vibid:377300570544": 5,
+      "gas:candidate-vibid:1001000118564": 145,
+      "gas:candidate-vibid:1001000190445": 136,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 49,
-      "Кокарев Юрий Петрович": 18,
-      "Панина Елена Владимировна": 540,
-      "Политухин Юрий Алексеевич": 65,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 127,
-      "Шабалов Александр Павлович": 137,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 49,
+      "gas:candidate-vibid:377300570432": 18,
+      "gas:candidate-vibid:1001000226007": 540,
+      "gas:candidate-vibid:1001000121935": 65,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 127,
+      "gas:candidate-vibid:1001000190445": 137,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 70,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 645,
-      "Политухин Юрий Алексеевич": 78,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 178,
-      "Шабалов Александр Павлович": 240,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 70,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 645,
+      "gas:candidate-vibid:1001000121935": 78,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 178,
+      "gas:candidate-vibid:1001000190445": 240,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 50,
-      "Кокарев Юрий Петрович": 28,
-      "Панина Елена Владимировна": 724,
-      "Политухин Юрий Алексеевич": 58,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 156,
-      "Шабалов Александр Павлович": 166,
-      "Против всех": 378
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 50,
+      "gas:candidate-vibid:377300570432": 28,
+      "gas:candidate-vibid:1001000226007": 724,
+      "gas:candidate-vibid:1001000121935": 58,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 156,
+      "gas:candidate-vibid:1001000190445": 166,
+      "special:against-all": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 37,
-      "Игрунов Вячеслав Владимирович": 60,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 614,
-      "Политухин Юрий Алексеевич": 93,
-      "Прияткин Андрей Николаевич": 21,
-      "Федоров Борис Григорьевич": 135,
-      "Шабалов Александр Павлович": 170,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000136150": 37,
+      "gas:candidate-vibid:1001000253497": 60,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 614,
+      "gas:candidate-vibid:1001000121935": 93,
+      "gas:candidate-vibid:377300570544": 21,
+      "gas:candidate-vibid:1001000118564": 135,
+      "gas:candidate-vibid:1001000190445": 170,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 63,
-      "Кокарев Юрий Петрович": 26,
-      "Панина Елена Владимировна": 653,
-      "Политухин Юрий Алексеевич": 84,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 144,
-      "Шабалов Александр Павлович": 147,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 63,
+      "gas:candidate-vibid:377300570432": 26,
+      "gas:candidate-vibid:1001000226007": 653,
+      "gas:candidate-vibid:1001000121935": 84,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 144,
+      "gas:candidate-vibid:1001000190445": 147,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 50,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 553,
-      "Политухин Юрий Алексеевич": 98,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 139,
-      "Шабалов Александр Павлович": 198,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 50,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 553,
+      "gas:candidate-vibid:1001000121935": 98,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 139,
+      "gas:candidate-vibid:1001000190445": 198,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 43,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 471,
-      "Политухин Юрий Алексеевич": 61,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 131,
-      "Шабалов Александр Павлович": 125,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 43,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 471,
+      "gas:candidate-vibid:1001000121935": 61,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 131,
+      "gas:candidate-vibid:1001000190445": 125,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 29,
-      "Игрунов Вячеслав Владимирович": 55,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 427,
-      "Политухин Юрий Алексеевич": 67,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 156,
-      "Шабалов Александр Павлович": 189,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000136150": 29,
+      "gas:candidate-vibid:1001000253497": 55,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 427,
+      "gas:candidate-vibid:1001000121935": 67,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 156,
+      "gas:candidate-vibid:1001000190445": 189,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 68,
-      "Кокарев Юрий Петрович": 31,
-      "Панина Елена Владимировна": 548,
-      "Политухин Юрий Алексеевич": 74,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 179,
-      "Шабалов Александр Павлович": 131,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 68,
+      "gas:candidate-vibid:377300570432": 31,
+      "gas:candidate-vibid:1001000226007": 548,
+      "gas:candidate-vibid:1001000121935": 74,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 179,
+      "gas:candidate-vibid:1001000190445": 131,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 27,
-      "Игрунов Вячеслав Владимирович": 57,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 475,
-      "Политухин Юрий Алексеевич": 76,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 141,
-      "Шабалов Александр Павлович": 222,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000136150": 27,
+      "gas:candidate-vibid:1001000253497": 57,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 475,
+      "gas:candidate-vibid:1001000121935": 76,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 141,
+      "gas:candidate-vibid:1001000190445": 222,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 61,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 507,
-      "Политухин Юрий Алексеевич": 80,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 156,
-      "Шабалов Александр Павлович": 278,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 61,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 507,
+      "gas:candidate-vibid:1001000121935": 80,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 156,
+      "gas:candidate-vibid:1001000190445": 278,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 98,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 550,
-      "Политухин Юрий Алексеевич": 126,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 195,
-      "Шабалов Александр Павлович": 200,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 98,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 550,
+      "gas:candidate-vibid:1001000121935": 126,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 195,
+      "gas:candidate-vibid:1001000190445": 200,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 85,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 645,
-      "Политухин Юрий Алексеевич": 70,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 195,
-      "Шабалов Александр Павлович": 119,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 85,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 645,
+      "gas:candidate-vibid:1001000121935": 70,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 195,
+      "gas:candidate-vibid:1001000190445": 119,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 101,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 587,
-      "Политухин Юрий Алексеевич": 77,
-      "Прияткин Андрей Николаевич": 19,
-      "Федоров Борис Григорьевич": 181,
-      "Шабалов Александр Павлович": 201,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 101,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 587,
+      "gas:candidate-vibid:1001000121935": 77,
+      "gas:candidate-vibid:377300570544": 19,
+      "gas:candidate-vibid:1001000118564": 181,
+      "gas:candidate-vibid:1001000190445": 201,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 29,
-      "Игрунов Вячеслав Владимирович": 81,
-      "Кокарев Юрий Петрович": 38,
-      "Панина Елена Владимировна": 382,
-      "Политухин Юрий Алексеевич": 85,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 203,
-      "Шабалов Александр Павлович": 138,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000136150": 29,
+      "gas:candidate-vibid:1001000253497": 81,
+      "gas:candidate-vibid:377300570432": 38,
+      "gas:candidate-vibid:1001000226007": 382,
+      "gas:candidate-vibid:1001000121935": 85,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 203,
+      "gas:candidate-vibid:1001000190445": 138,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 62,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 547,
-      "Политухин Юрий Алексеевич": 66,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 164,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 62,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 547,
+      "gas:candidate-vibid:1001000121935": 66,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 164,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 82,
-      "Кокарев Юрий Петрович": 44,
-      "Панина Елена Владимировна": 610,
-      "Политухин Юрий Алексеевич": 74,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 181,
-      "Шабалов Александр Павлович": 163,
-      "Против всех": 351
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 82,
+      "gas:candidate-vibid:377300570432": 44,
+      "gas:candidate-vibid:1001000226007": 610,
+      "gas:candidate-vibid:1001000121935": 74,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 181,
+      "gas:candidate-vibid:1001000190445": 163,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 36,
-      "Игрунов Вячеслав Владимирович": 89,
-      "Кокарев Юрий Петрович": 45,
-      "Панина Елена Владимировна": 618,
-      "Политухин Юрий Алексеевич": 116,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 224,
-      "Шабалов Александр Павлович": 163,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000136150": 36,
+      "gas:candidate-vibid:1001000253497": 89,
+      "gas:candidate-vibid:377300570432": 45,
+      "gas:candidate-vibid:1001000226007": 618,
+      "gas:candidate-vibid:1001000121935": 116,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 224,
+      "gas:candidate-vibid:1001000190445": 163,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 14,
-      "Игрунов Вячеслав Владимирович": 60,
-      "Кокарев Юрий Петрович": 31,
-      "Панина Елена Владимировна": 702,
-      "Политухин Юрий Алексеевич": 69,
-      "Прияткин Андрей Николаевич": 22,
-      "Федоров Борис Григорьевич": 147,
-      "Шабалов Александр Павлович": 134,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000136150": 14,
+      "gas:candidate-vibid:1001000253497": 60,
+      "gas:candidate-vibid:377300570432": 31,
+      "gas:candidate-vibid:1001000226007": 702,
+      "gas:candidate-vibid:1001000121935": 69,
+      "gas:candidate-vibid:377300570544": 22,
+      "gas:candidate-vibid:1001000118564": 147,
+      "gas:candidate-vibid:1001000190445": 134,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 89,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 674,
-      "Политухин Юрий Алексеевич": 75,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 171,
-      "Шабалов Александр Павлович": 182,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 89,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 674,
+      "gas:candidate-vibid:1001000121935": 75,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 171,
+      "gas:candidate-vibid:1001000190445": 182,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 39,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 576,
-      "Политухин Юрий Алексеевич": 61,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 137,
-      "Шабалов Александр Павлович": 116,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 39,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 576,
+      "gas:candidate-vibid:1001000121935": 61,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 137,
+      "gas:candidate-vibid:1001000190445": 116,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 44,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 486,
-      "Политухин Юрий Алексеевич": 70,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 135,
-      "Шабалов Александр Павлович": 131,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 44,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 486,
+      "gas:candidate-vibid:1001000121935": 70,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 135,
+      "gas:candidate-vibid:1001000190445": 131,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 33,
-      "Игрунов Вячеслав Владимирович": 74,
-      "Кокарев Юрий Петрович": 72,
-      "Панина Елена Владимировна": 589,
-      "Политухин Юрий Алексеевич": 88,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 228,
-      "Шабалов Александр Павлович": 179,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000136150": 33,
+      "gas:candidate-vibid:1001000253497": 74,
+      "gas:candidate-vibid:377300570432": 72,
+      "gas:candidate-vibid:1001000226007": 589,
+      "gas:candidate-vibid:1001000121935": 88,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 228,
+      "gas:candidate-vibid:1001000190445": 179,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 37,
-      "Игрунов Вячеслав Владимирович": 67,
-      "Кокарев Юрий Петрович": 47,
-      "Панина Елена Владимировна": 737,
-      "Политухин Юрий Алексеевич": 81,
-      "Прияткин Андрей Николаевич": 22,
-      "Федоров Борис Григорьевич": 170,
-      "Шабалов Александр Павлович": 259,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000136150": 37,
+      "gas:candidate-vibid:1001000253497": 67,
+      "gas:candidate-vibid:377300570432": 47,
+      "gas:candidate-vibid:1001000226007": 737,
+      "gas:candidate-vibid:1001000121935": 81,
+      "gas:candidate-vibid:377300570544": 22,
+      "gas:candidate-vibid:1001000118564": 170,
+      "gas:candidate-vibid:1001000190445": 259,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 69,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 615,
-      "Политухин Юрий Алексеевич": 70,
-      "Прияткин Андрей Николаевич": 19,
-      "Федоров Борис Григорьевич": 132,
-      "Шабалов Александр Павлович": 203,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 69,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 615,
+      "gas:candidate-vibid:1001000121935": 70,
+      "gas:candidate-vibid:377300570544": 19,
+      "gas:candidate-vibid:1001000118564": 132,
+      "gas:candidate-vibid:1001000190445": 203,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 77,
-      "Кокарев Юрий Петрович": 53,
-      "Панина Елена Владимировна": 643,
-      "Политухин Юрий Алексеевич": 89,
-      "Прияткин Андрей Николаевич": 21,
-      "Федоров Борис Григорьевич": 184,
-      "Шабалов Александр Павлович": 203,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 77,
+      "gas:candidate-vibid:377300570432": 53,
+      "gas:candidate-vibid:1001000226007": 643,
+      "gas:candidate-vibid:1001000121935": 89,
+      "gas:candidate-vibid:377300570544": 21,
+      "gas:candidate-vibid:1001000118564": 184,
+      "gas:candidate-vibid:1001000190445": 203,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 41,
-      "Игрунов Вячеслав Владимирович": 147,
-      "Кокарев Юрий Петрович": 74,
-      "Панина Елена Владимировна": 741,
-      "Политухин Юрий Алексеевич": 94,
-      "Прияткин Андрей Николаевич": 38,
-      "Федоров Борис Григорьевич": 256,
-      "Шабалов Александр Павлович": 138,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000136150": 41,
+      "gas:candidate-vibid:1001000253497": 147,
+      "gas:candidate-vibid:377300570432": 74,
+      "gas:candidate-vibid:1001000226007": 741,
+      "gas:candidate-vibid:1001000121935": 94,
+      "gas:candidate-vibid:377300570544": 38,
+      "gas:candidate-vibid:1001000118564": 256,
+      "gas:candidate-vibid:1001000190445": 138,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 32,
-      "Игрунов Вячеслав Владимирович": 125,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 927,
-      "Политухин Юрий Алексеевич": 104,
-      "Прияткин Андрей Николаевич": 26,
-      "Федоров Борис Григорьевич": 259,
-      "Шабалов Александр Павлович": 245,
-      "Против всех": 355
+      "gas:candidate-vibid:1001000136150": 32,
+      "gas:candidate-vibid:1001000253497": 125,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 927,
+      "gas:candidate-vibid:1001000121935": 104,
+      "gas:candidate-vibid:377300570544": 26,
+      "gas:candidate-vibid:1001000118564": 259,
+      "gas:candidate-vibid:1001000190445": 245,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 41,
-      "Игрунов Вячеслав Владимирович": 75,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 551,
-      "Политухин Юрий Алексеевич": 71,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 203,
-      "Шабалов Александр Павлович": 120,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000136150": 41,
+      "gas:candidate-vibid:1001000253497": 75,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 551,
+      "gas:candidate-vibid:1001000121935": 71,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 203,
+      "gas:candidate-vibid:1001000190445": 120,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 81,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 448,
-      "Политухин Юрий Алексеевич": 66,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 139,
-      "Шабалов Александр Павлович": 114,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 81,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 448,
+      "gas:candidate-vibid:1001000121935": 66,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 139,
+      "gas:candidate-vibid:1001000190445": 114,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 82,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 475,
-      "Политухин Юрий Алексеевич": 77,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 160,
-      "Шабалов Александр Павлович": 150,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 82,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 475,
+      "gas:candidate-vibid:1001000121935": 77,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 160,
+      "gas:candidate-vibid:1001000190445": 150,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 17,
-      "Игрунов Вячеслав Владимирович": 55,
-      "Кокарев Юрий Петрович": 18,
-      "Панина Елена Владимировна": 518,
-      "Политухин Юрий Алексеевич": 41,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 111,
-      "Шабалов Александр Павлович": 101,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136150": 17,
+      "gas:candidate-vibid:1001000253497": 55,
+      "gas:candidate-vibid:377300570432": 18,
+      "gas:candidate-vibid:1001000226007": 518,
+      "gas:candidate-vibid:1001000121935": 41,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 111,
+      "gas:candidate-vibid:1001000190445": 101,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 68,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 586,
-      "Политухин Юрий Алексеевич": 48,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 103,
-      "Шабалов Александр Павлович": 116,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 68,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 586,
+      "gas:candidate-vibid:1001000121935": 48,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 103,
+      "gas:candidate-vibid:1001000190445": 116,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 14,
-      "Игрунов Вячеслав Владимирович": 60,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 637,
-      "Политухин Юрий Алексеевич": 55,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 121,
-      "Шабалов Александр Павлович": 116,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136150": 14,
+      "gas:candidate-vibid:1001000253497": 60,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 637,
+      "gas:candidate-vibid:1001000121935": 55,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 121,
+      "gas:candidate-vibid:1001000190445": 116,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 17,
-      "Игрунов Вячеслав Владимирович": 51,
-      "Кокарев Юрий Петрович": 29,
-      "Панина Елена Владимировна": 529,
-      "Политухин Юрий Алексеевич": 53,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 90,
-      "Шабалов Александр Павлович": 106,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000136150": 17,
+      "gas:candidate-vibid:1001000253497": 51,
+      "gas:candidate-vibid:377300570432": 29,
+      "gas:candidate-vibid:1001000226007": 529,
+      "gas:candidate-vibid:1001000121935": 53,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 90,
+      "gas:candidate-vibid:1001000190445": 106,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 38,
-      "Игрунов Вячеслав Владимирович": 60,
-      "Кокарев Юрий Петрович": 25,
-      "Панина Елена Владимировна": 665,
-      "Политухин Юрий Алексеевич": 83,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 127,
-      "Шабалов Александр Павлович": 145,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136150": 38,
+      "gas:candidate-vibid:1001000253497": 60,
+      "gas:candidate-vibid:377300570432": 25,
+      "gas:candidate-vibid:1001000226007": 665,
+      "gas:candidate-vibid:1001000121935": 83,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 127,
+      "gas:candidate-vibid:1001000190445": 145,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 65,
-      "Кокарев Юрий Петрович": 49,
-      "Панина Елена Владимировна": 709,
-      "Политухин Юрий Алексеевич": 93,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 144,
-      "Шабалов Александр Павлович": 143,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 65,
+      "gas:candidate-vibid:377300570432": 49,
+      "gas:candidate-vibid:1001000226007": 709,
+      "gas:candidate-vibid:1001000121935": 93,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 144,
+      "gas:candidate-vibid:1001000190445": 143,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 67,
-      "Кокарев Юрий Петрович": 31,
-      "Панина Елена Владимировна": 740,
-      "Политухин Юрий Алексеевич": 72,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 118,
-      "Шабалов Александр Павлович": 123,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 67,
+      "gas:candidate-vibid:377300570432": 31,
+      "gas:candidate-vibid:1001000226007": 740,
+      "gas:candidate-vibid:1001000121935": 72,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 118,
+      "gas:candidate-vibid:1001000190445": 123,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 130,
-      "Кокарев Юрий Петрович": 43,
-      "Панина Елена Владимировна": 764,
-      "Политухин Юрий Алексеевич": 104,
-      "Прияткин Андрей Николаевич": 30,
-      "Федоров Борис Григорьевич": 200,
-      "Шабалов Александр Павлович": 227,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 130,
+      "gas:candidate-vibid:377300570432": 43,
+      "gas:candidate-vibid:1001000226007": 764,
+      "gas:candidate-vibid:1001000121935": 104,
+      "gas:candidate-vibid:377300570544": 30,
+      "gas:candidate-vibid:1001000118564": 200,
+      "gas:candidate-vibid:1001000190445": 227,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 67,
-      "Кокарев Юрий Петрович": 37,
-      "Панина Елена Владимировна": 644,
-      "Политухин Юрий Алексеевич": 75,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 160,
-      "Шабалов Александр Павлович": 129,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 67,
+      "gas:candidate-vibid:377300570432": 37,
+      "gas:candidate-vibid:1001000226007": 644,
+      "gas:candidate-vibid:1001000121935": 75,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 160,
+      "gas:candidate-vibid:1001000190445": 129,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 36,
-      "Игрунов Вячеслав Владимирович": 104,
-      "Кокарев Юрий Петрович": 38,
-      "Панина Елена Владимировна": 453,
-      "Политухин Юрий Алексеевич": 55,
-      "Прияткин Андрей Николаевич": 18,
-      "Федоров Борис Григорьевич": 206,
-      "Шабалов Александр Павлович": 117,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000136150": 36,
+      "gas:candidate-vibid:1001000253497": 104,
+      "gas:candidate-vibid:377300570432": 38,
+      "gas:candidate-vibid:1001000226007": 453,
+      "gas:candidate-vibid:1001000121935": 55,
+      "gas:candidate-vibid:377300570544": 18,
+      "gas:candidate-vibid:1001000118564": 206,
+      "gas:candidate-vibid:1001000190445": 117,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 49,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 462,
-      "Политухин Юрий Алексеевич": 54,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 149,
-      "Шабалов Александр Павлович": 142,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 49,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 462,
+      "gas:candidate-vibid:1001000121935": 54,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 149,
+      "gas:candidate-vibid:1001000190445": 142,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 31,
-      "Игрунов Вячеслав Владимирович": 87,
-      "Кокарев Юрий Петрович": 26,
-      "Панина Елена Владимировна": 483,
-      "Политухин Юрий Алексеевич": 66,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 162,
-      "Шабалов Александр Павлович": 146,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136150": 31,
+      "gas:candidate-vibid:1001000253497": 87,
+      "gas:candidate-vibid:377300570432": 26,
+      "gas:candidate-vibid:1001000226007": 483,
+      "gas:candidate-vibid:1001000121935": 66,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 162,
+      "gas:candidate-vibid:1001000190445": 146,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 27,
-      "Игрунов Вячеслав Владимирович": 73,
-      "Кокарев Юрий Петрович": 40,
-      "Панина Елена Владимировна": 733,
-      "Политухин Юрий Алексеевич": 46,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 172,
-      "Шабалов Александр Павлович": 138,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000136150": 27,
+      "gas:candidate-vibid:1001000253497": 73,
+      "gas:candidate-vibid:377300570432": 40,
+      "gas:candidate-vibid:1001000226007": 733,
+      "gas:candidate-vibid:1001000121935": 46,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 172,
+      "gas:candidate-vibid:1001000190445": 138,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 74,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 569,
-      "Политухин Юрий Алексеевич": 56,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 68,
-      "Шабалов Александр Павлович": 88,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 74,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 569,
+      "gas:candidate-vibid:1001000121935": 56,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 68,
+      "gas:candidate-vibid:1001000190445": 88,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 38,
-      "Игрунов Вячеслав Владимирович": 82,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 1037,
-      "Политухин Юрий Алексеевич": 107,
-      "Прияткин Андрей Николаевич": 30,
-      "Федоров Борис Григорьевич": 157,
-      "Шабалов Александр Павлович": 179,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000136150": 38,
+      "gas:candidate-vibid:1001000253497": 82,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 1037,
+      "gas:candidate-vibid:1001000121935": 107,
+      "gas:candidate-vibid:377300570544": 30,
+      "gas:candidate-vibid:1001000118564": 157,
+      "gas:candidate-vibid:1001000190445": 179,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 35,
-      "Игрунов Вячеслав Владимирович": 88,
-      "Кокарев Юрий Петрович": 21,
-      "Панина Елена Владимировна": 1012,
-      "Политухин Юрий Алексеевич": 130,
-      "Прияткин Андрей Николаевич": 43,
-      "Федоров Борис Григорьевич": 167,
-      "Шабалов Александр Павлович": 278,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000136150": 35,
+      "gas:candidate-vibid:1001000253497": 88,
+      "gas:candidate-vibid:377300570432": 21,
+      "gas:candidate-vibid:1001000226007": 1012,
+      "gas:candidate-vibid:1001000121935": 130,
+      "gas:candidate-vibid:377300570544": 43,
+      "gas:candidate-vibid:1001000118564": 167,
+      "gas:candidate-vibid:1001000190445": 278,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 59,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 770,
-      "Политухин Юрий Алексеевич": 68,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 127,
-      "Шабалов Александр Павлович": 141,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 59,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 770,
+      "gas:candidate-vibid:1001000121935": 68,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 127,
+      "gas:candidate-vibid:1001000190445": 141,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 47,
-      "Кокарев Юрий Петрович": 16,
-      "Панина Елена Владимировна": 702,
-      "Политухин Юрий Алексеевич": 52,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 85,
-      "Шабалов Александр Павлович": 77,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 47,
+      "gas:candidate-vibid:377300570432": 16,
+      "gas:candidate-vibid:1001000226007": 702,
+      "gas:candidate-vibid:1001000121935": 52,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 85,
+      "gas:candidate-vibid:1001000190445": 77,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570368&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 29,
-      "Игрунов Вячеслав Владимирович": 27,
-      "Кокарев Юрий Петрович": 25,
-      "Панина Елена Владимировна": 697,
-      "Политухин Юрий Алексеевич": 64,
-      "Прияткин Андрей Николаевич": 22,
-      "Федоров Борис Григорьевич": 146,
-      "Шабалов Александр Павлович": 198,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000136150": 29,
+      "gas:candidate-vibid:1001000253497": 27,
+      "gas:candidate-vibid:377300570432": 25,
+      "gas:candidate-vibid:1001000226007": 697,
+      "gas:candidate-vibid:1001000121935": 64,
+      "gas:candidate-vibid:377300570544": 22,
+      "gas:candidate-vibid:1001000118564": 146,
+      "gas:candidate-vibid:1001000190445": 198,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570370&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 13,
-      "Кокарев Юрий Петрович": 14,
-      "Панина Елена Владимировна": 513,
-      "Политухин Юрий Алексеевич": 33,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 109,
-      "Шабалов Александр Павлович": 53,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 13,
+      "gas:candidate-vibid:377300570432": 14,
+      "gas:candidate-vibid:1001000226007": 513,
+      "gas:candidate-vibid:1001000121935": 33,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 109,
+      "gas:candidate-vibid:1001000190445": 53,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570370&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 6,
-      "Кокарев Юрий Петрович": 13,
-      "Панина Елена Владимировна": 415,
-      "Политухин Юрий Алексеевич": 33,
-      "Прияткин Андрей Николаевич": 3,
-      "Федоров Борис Григорьевич": 94,
-      "Шабалов Александр Павлович": 66,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 6,
+      "gas:candidate-vibid:377300570432": 13,
+      "gas:candidate-vibid:1001000226007": 415,
+      "gas:candidate-vibid:1001000121935": 33,
+      "gas:candidate-vibid:377300570544": 3,
+      "gas:candidate-vibid:1001000118564": 94,
+      "gas:candidate-vibid:1001000190445": 66,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570370&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 1,
-      "Игрунов Вячеслав Владимирович": 2,
-      "Кокарев Юрий Петрович": 1,
-      "Панина Елена Владимировна": 17,
-      "Политухин Юрий Алексеевич": 0,
-      "Прияткин Андрей Николаевич": 0,
-      "Федоров Борис Григорьевич": 4,
-      "Шабалов Александр Павлович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136150": 1,
+      "gas:candidate-vibid:1001000253497": 2,
+      "gas:candidate-vibid:377300570432": 1,
+      "gas:candidate-vibid:1001000226007": 17,
+      "gas:candidate-vibid:1001000121935": 0,
+      "gas:candidate-vibid:377300570544": 0,
+      "gas:candidate-vibid:1001000118564": 4,
+      "gas:candidate-vibid:1001000190445": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570370&region=0&sub_region=0&type=429",
@@ -9902,13 +9902,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 102,
-      "Боос Георгий Валентинович": 869,
-      "Голицына Виленина Анатольевна": 34,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 61,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000394547": 102,
+      "gas:candidate-vibid:1001000226008": 869,
+      "gas:candidate-vibid:1001000289817": 34,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 61,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -9958,13 +9958,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 122,
-      "Боос Георгий Валентинович": 710,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 85,
-      "Новодворская Валерия Ильинична": 53,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000394547": 122,
+      "gas:candidate-vibid:1001000226008": 710,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 85,
+      "gas:candidate-vibid:377300670522": 53,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10014,13 +10014,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 130,
-      "Боос Георгий Валентинович": 812,
-      "Голицына Виленина Анатольевна": 32,
-      "Киптик Михаил Иванович": 11,
-      "Миронов Александр Сергеевич": 74,
-      "Новодворская Валерия Ильинична": 65,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000394547": 130,
+      "gas:candidate-vibid:1001000226008": 812,
+      "gas:candidate-vibid:1001000289817": 32,
+      "gas:candidate-vibid:377300670739": 11,
+      "gas:candidate-vibid:1001000126653": 74,
+      "gas:candidate-vibid:377300670522": 65,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10070,13 +10070,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 76,
-      "Боос Георгий Валентинович": 916,
-      "Голицына Виленина Анатольевна": 35,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 75,
-      "Новодворская Валерия Ильинична": 68,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000394547": 76,
+      "gas:candidate-vibid:1001000226008": 916,
+      "gas:candidate-vibid:1001000289817": 35,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 75,
+      "gas:candidate-vibid:377300670522": 68,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10126,13 +10126,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 95,
-      "Боос Георгий Валентинович": 786,
-      "Голицына Виленина Анатольевна": 42,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 93,
-      "Новодворская Валерия Ильинична": 70,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000394547": 95,
+      "gas:candidate-vibid:1001000226008": 786,
+      "gas:candidate-vibid:1001000289817": 42,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 93,
+      "gas:candidate-vibid:377300670522": 70,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10182,13 +10182,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 121,
-      "Боос Георгий Валентинович": 1072,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 107,
-      "Новодворская Валерия Ильинична": 83,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000394547": 121,
+      "gas:candidate-vibid:1001000226008": 1072,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 107,
+      "gas:candidate-vibid:377300670522": 83,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10238,13 +10238,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 105,
-      "Боос Георгий Валентинович": 978,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 94,
-      "Новодворская Валерия Ильинична": 65,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000394547": 105,
+      "gas:candidate-vibid:1001000226008": 978,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 94,
+      "gas:candidate-vibid:377300670522": 65,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10294,13 +10294,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 96,
-      "Боос Георгий Валентинович": 1007,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 107,
-      "Новодворская Валерия Ильинична": 83,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000394547": 96,
+      "gas:candidate-vibid:1001000226008": 1007,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 107,
+      "gas:candidate-vibid:377300670522": 83,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10350,13 +10350,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 107,
-      "Боос Георгий Валентинович": 994,
-      "Голицына Виленина Анатольевна": 30,
-      "Киптик Михаил Иванович": 12,
-      "Миронов Александр Сергеевич": 115,
-      "Новодворская Валерия Ильинична": 78,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000394547": 107,
+      "gas:candidate-vibid:1001000226008": 994,
+      "gas:candidate-vibid:1001000289817": 30,
+      "gas:candidate-vibid:377300670739": 12,
+      "gas:candidate-vibid:1001000126653": 115,
+      "gas:candidate-vibid:377300670522": 78,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10406,13 +10406,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 113,
-      "Боос Георгий Валентинович": 1015,
-      "Голицына Виленина Анатольевна": 44,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 86,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000394547": 113,
+      "gas:candidate-vibid:1001000226008": 1015,
+      "gas:candidate-vibid:1001000289817": 44,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 86,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10462,13 +10462,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 115,
-      "Боос Георгий Валентинович": 938,
-      "Голицына Виленина Анатольевна": 34,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 136,
-      "Новодворская Валерия Ильинична": 123,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000394547": 115,
+      "gas:candidate-vibid:1001000226008": 938,
+      "gas:candidate-vibid:1001000289817": 34,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 136,
+      "gas:candidate-vibid:377300670522": 123,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10518,13 +10518,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 108,
-      "Боос Георгий Валентинович": 999,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 89,
-      "Новодворская Валерия Ильинична": 88,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000394547": 108,
+      "gas:candidate-vibid:1001000226008": 999,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 89,
+      "gas:candidate-vibid:377300670522": 88,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10574,13 +10574,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 97,
-      "Боос Георгий Валентинович": 989,
-      "Голицына Виленина Анатольевна": 41,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000394547": 97,
+      "gas:candidate-vibid:1001000226008": 989,
+      "gas:candidate-vibid:1001000289817": 41,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670399&region=0&sub_region=0&type=429",
@@ -10630,13 +10630,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 103,
-      "Боос Георгий Валентинович": 871,
-      "Голицына Виленина Анатольевна": 41,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 74,
-      "Новодворская Валерия Ильинична": 96,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000394547": 103,
+      "gas:candidate-vibid:1001000226008": 871,
+      "gas:candidate-vibid:1001000289817": 41,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 74,
+      "gas:candidate-vibid:377300670522": 96,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -10686,13 +10686,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 105,
-      "Боос Георгий Валентинович": 967,
-      "Голицына Виленина Анатольевна": 42,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 94,
-      "Новодворская Валерия Ильинична": 85,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000394547": 105,
+      "gas:candidate-vibid:1001000226008": 967,
+      "gas:candidate-vibid:1001000289817": 42,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 94,
+      "gas:candidate-vibid:377300670522": 85,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -10742,13 +10742,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 129,
-      "Боос Георгий Валентинович": 939,
-      "Голицына Виленина Анатольевна": 11,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 153,
-      "Новодворская Валерия Ильинична": 82,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000394547": 129,
+      "gas:candidate-vibid:1001000226008": 939,
+      "gas:candidate-vibid:1001000289817": 11,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 153,
+      "gas:candidate-vibid:377300670522": 82,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -10798,13 +10798,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 132,
-      "Боос Георгий Валентинович": 932,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 161,
-      "Новодворская Валерия Ильинична": 77,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000394547": 132,
+      "gas:candidate-vibid:1001000226008": 932,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 161,
+      "gas:candidate-vibid:377300670522": 77,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -10854,13 +10854,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 141,
-      "Боос Георгий Валентинович": 969,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 117,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000394547": 141,
+      "gas:candidate-vibid:1001000226008": 969,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 117,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -10910,13 +10910,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 132,
-      "Боос Георгий Валентинович": 859,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 120,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000394547": 132,
+      "gas:candidate-vibid:1001000226008": 859,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 120,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -10966,13 +10966,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 102,
-      "Боос Георгий Валентинович": 791,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 98,
-      "Новодворская Валерия Ильинична": 97,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000394547": 102,
+      "gas:candidate-vibid:1001000226008": 791,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 98,
+      "gas:candidate-vibid:377300670522": 97,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11022,13 +11022,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 111,
-      "Боос Георгий Валентинович": 1037,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 96,
-      "Новодворская Валерия Ильинична": 68,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000394547": 111,
+      "gas:candidate-vibid:1001000226008": 1037,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 96,
+      "gas:candidate-vibid:377300670522": 68,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11078,13 +11078,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 99,
-      "Боос Георгий Валентинович": 1159,
-      "Голицына Виленина Анатольевна": 49,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 110,
-      "Новодворская Валерия Ильинична": 115,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000394547": 99,
+      "gas:candidate-vibid:1001000226008": 1159,
+      "gas:candidate-vibid:1001000289817": 49,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 110,
+      "gas:candidate-vibid:377300670522": 115,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11134,13 +11134,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 100,
-      "Боос Георгий Валентинович": 1090,
-      "Голицына Виленина Анатольевна": 30,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 97,
-      "Новодворская Валерия Ильинична": 81,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000394547": 100,
+      "gas:candidate-vibid:1001000226008": 1090,
+      "gas:candidate-vibid:1001000289817": 30,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 97,
+      "gas:candidate-vibid:377300670522": 81,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11190,13 +11190,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 114,
-      "Боос Георгий Валентинович": 1006,
-      "Голицына Виленина Анатольевна": 20,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 89,
-      "Новодворская Валерия Ильинична": 68,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000394547": 114,
+      "gas:candidate-vibid:1001000226008": 1006,
+      "gas:candidate-vibid:1001000289817": 20,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 89,
+      "gas:candidate-vibid:377300670522": 68,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11246,13 +11246,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 83,
-      "Боос Георгий Валентинович": 659,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 81,
-      "Новодворская Валерия Ильинична": 66,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000394547": 83,
+      "gas:candidate-vibid:1001000226008": 659,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 81,
+      "gas:candidate-vibid:377300670522": 66,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11302,13 +11302,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 147,
-      "Боос Георгий Валентинович": 929,
-      "Голицына Виленина Анатольевна": 36,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 83,
-      "Новодворская Валерия Ильинична": 108,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000394547": 147,
+      "gas:candidate-vibid:1001000226008": 929,
+      "gas:candidate-vibid:1001000289817": 36,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 83,
+      "gas:candidate-vibid:377300670522": 108,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11358,13 +11358,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 68,
-      "Боос Георгий Валентинович": 974,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 70,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000394547": 68,
+      "gas:candidate-vibid:1001000226008": 974,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 70,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11414,13 +11414,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 97,
-      "Боос Георгий Валентинович": 971,
-      "Голицына Виленина Анатольевна": 32,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 78,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000394547": 97,
+      "gas:candidate-vibid:1001000226008": 971,
+      "gas:candidate-vibid:1001000289817": 32,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 78,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11470,13 +11470,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 46,
-      "Боос Георгий Валентинович": 825,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 13,
-      "Миронов Александр Сергеевич": 77,
-      "Новодворская Валерия Ильинична": 60,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000394547": 46,
+      "gas:candidate-vibid:1001000226008": 825,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 13,
+      "gas:candidate-vibid:1001000126653": 77,
+      "gas:candidate-vibid:377300670522": 60,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11526,13 +11526,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 123,
-      "Боос Георгий Валентинович": 930,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 87,
-      "Новодворская Валерия Ильинична": 79,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000394547": 123,
+      "gas:candidate-vibid:1001000226008": 930,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 87,
+      "gas:candidate-vibid:377300670522": 79,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11582,13 +11582,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 114,
-      "Боос Георгий Валентинович": 854,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 17,
-      "Миронов Александр Сергеевич": 85,
-      "Новодворская Валерия Ильинична": 75,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000394547": 114,
+      "gas:candidate-vibid:1001000226008": 854,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 17,
+      "gas:candidate-vibid:1001000126653": 85,
+      "gas:candidate-vibid:377300670522": 75,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11638,13 +11638,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 117,
-      "Боос Георгий Валентинович": 847,
-      "Голицына Виленина Анатольевна": 45,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 83,
-      "Новодворская Валерия Ильинична": 81,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000394547": 117,
+      "gas:candidate-vibid:1001000226008": 847,
+      "gas:candidate-vibid:1001000289817": 45,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 83,
+      "gas:candidate-vibid:377300670522": 81,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11694,13 +11694,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 114,
-      "Боос Георгий Валентинович": 859,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 107,
-      "Новодворская Валерия Ильинична": 65,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000394547": 114,
+      "gas:candidate-vibid:1001000226008": 859,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 107,
+      "gas:candidate-vibid:377300670522": 65,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11750,13 +11750,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 124,
-      "Боос Георгий Валентинович": 1004,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 115,
-      "Новодворская Валерия Ильинична": 69,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000394547": 124,
+      "gas:candidate-vibid:1001000226008": 1004,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 115,
+      "gas:candidate-vibid:377300670522": 69,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11806,13 +11806,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 1,
-      "Боос Георгий Валентинович": 192,
-      "Голицына Виленина Анатольевна": 2,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 1,
-      "Новодворская Валерия Ильинична": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000394547": 1,
+      "gas:candidate-vibid:1001000226008": 192,
+      "gas:candidate-vibid:1001000289817": 2,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 1,
+      "gas:candidate-vibid:377300670522": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670400&region=0&sub_region=0&type=429",
@@ -11862,13 +11862,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 51,
-      "Боос Георгий Валентинович": 507,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 39,
-      "Новодворская Валерия Ильинична": 35,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000394547": 51,
+      "gas:candidate-vibid:1001000226008": 507,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 39,
+      "gas:candidate-vibid:377300670522": 35,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -11918,13 +11918,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 50,
-      "Боос Георгий Валентинович": 473,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 29,
-      "Новодворская Валерия Ильинична": 26,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000394547": 50,
+      "gas:candidate-vibid:1001000226008": 473,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 29,
+      "gas:candidate-vibid:377300670522": 26,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -11974,13 +11974,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 303,
-      "Боос Георгий Валентинович": 859,
-      "Голицына Виленина Анатольевна": 15,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 101,
-      "Новодворская Валерия Ильинична": 100,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000394547": 303,
+      "gas:candidate-vibid:1001000226008": 859,
+      "gas:candidate-vibid:1001000289817": 15,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 101,
+      "gas:candidate-vibid:377300670522": 100,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12030,13 +12030,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 176,
-      "Боос Георгий Валентинович": 726,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 87,
-      "Новодворская Валерия Ильинична": 91,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000394547": 176,
+      "gas:candidate-vibid:1001000226008": 726,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 87,
+      "gas:candidate-vibid:377300670522": 91,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12086,13 +12086,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 107,
-      "Боос Георгий Валентинович": 893,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 107,
-      "Новодворская Валерия Ильинична": 93,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000394547": 107,
+      "gas:candidate-vibid:1001000226008": 893,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 107,
+      "gas:candidate-vibid:377300670522": 93,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12142,13 +12142,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 246,
-      "Боос Георгий Валентинович": 883,
-      "Голицына Виленина Анатольевна": 35,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 141,
-      "Новодворская Валерия Ильинична": 113,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000394547": 246,
+      "gas:candidate-vibid:1001000226008": 883,
+      "gas:candidate-vibid:1001000289817": 35,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 141,
+      "gas:candidate-vibid:377300670522": 113,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12198,13 +12198,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 398,
-      "Боос Георгий Валентинович": 687,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 102,
-      "Новодворская Валерия Ильинична": 154,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000394547": 398,
+      "gas:candidate-vibid:1001000226008": 687,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 102,
+      "gas:candidate-vibid:377300670522": 154,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12254,13 +12254,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 375,
-      "Боос Георгий Валентинович": 712,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 63,
-      "Новодворская Валерия Ильинична": 79,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000394547": 375,
+      "gas:candidate-vibid:1001000226008": 712,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 63,
+      "gas:candidate-vibid:377300670522": 79,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12310,13 +12310,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 325,
-      "Боос Георгий Валентинович": 734,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 88,
-      "Новодворская Валерия Ильинична": 122,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000394547": 325,
+      "gas:candidate-vibid:1001000226008": 734,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 88,
+      "gas:candidate-vibid:377300670522": 122,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12366,13 +12366,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 319,
-      "Боос Георгий Валентинович": 745,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 102,
-      "Новодворская Валерия Ильинична": 88,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000394547": 319,
+      "gas:candidate-vibid:1001000226008": 745,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 102,
+      "gas:candidate-vibid:377300670522": 88,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12422,13 +12422,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 155,
-      "Боос Георгий Валентинович": 885,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 110,
-      "Новодворская Валерия Ильинична": 105,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000394547": 155,
+      "gas:candidate-vibid:1001000226008": 885,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 110,
+      "gas:candidate-vibid:377300670522": 105,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12478,13 +12478,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 191,
-      "Боос Георгий Валентинович": 833,
-      "Голицына Виленина Анатольевна": 32,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 119,
-      "Новодворская Валерия Ильинична": 128,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000394547": 191,
+      "gas:candidate-vibid:1001000226008": 833,
+      "gas:candidate-vibid:1001000289817": 32,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 119,
+      "gas:candidate-vibid:377300670522": 128,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12534,13 +12534,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 135,
-      "Боос Георгий Валентинович": 835,
-      "Голицына Виленина Анатольевна": 39,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 73,
-      "Новодворская Валерия Ильинична": 91,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000394547": 135,
+      "gas:candidate-vibid:1001000226008": 835,
+      "gas:candidate-vibid:1001000289817": 39,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 73,
+      "gas:candidate-vibid:377300670522": 91,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12590,13 +12590,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 174,
-      "Боос Георгий Валентинович": 969,
-      "Голицына Виленина Анатольевна": 42,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 100,
-      "Новодворская Валерия Ильинична": 110,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000394547": 174,
+      "gas:candidate-vibid:1001000226008": 969,
+      "gas:candidate-vibid:1001000289817": 42,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 100,
+      "gas:candidate-vibid:377300670522": 110,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12646,13 +12646,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 122,
-      "Боос Георгий Валентинович": 660,
-      "Голицына Виленина Анатольевна": 19,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 83,
-      "Новодворская Валерия Ильинична": 91,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000394547": 122,
+      "gas:candidate-vibid:1001000226008": 660,
+      "gas:candidate-vibid:1001000289817": 19,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 83,
+      "gas:candidate-vibid:377300670522": 91,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12702,13 +12702,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 109,
-      "Боос Георгий Валентинович": 779,
-      "Голицына Виленина Анатольевна": 32,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 83,
-      "Новодворская Валерия Ильинична": 106,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000394547": 109,
+      "gas:candidate-vibid:1001000226008": 779,
+      "gas:candidate-vibid:1001000289817": 32,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 83,
+      "gas:candidate-vibid:377300670522": 106,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12758,13 +12758,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 204,
-      "Боос Георгий Валентинович": 811,
-      "Голицына Виленина Анатольевна": 39,
-      "Киптик Михаил Иванович": 15,
-      "Миронов Александр Сергеевич": 120,
-      "Новодворская Валерия Ильинична": 127,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000394547": 204,
+      "gas:candidate-vibid:1001000226008": 811,
+      "gas:candidate-vibid:1001000289817": 39,
+      "gas:candidate-vibid:377300670739": 15,
+      "gas:candidate-vibid:1001000126653": 120,
+      "gas:candidate-vibid:377300670522": 127,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12814,13 +12814,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 174,
-      "Боос Георгий Валентинович": 854,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 17,
-      "Миронов Александр Сергеевич": 85,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000394547": 174,
+      "gas:candidate-vibid:1001000226008": 854,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 17,
+      "gas:candidate-vibid:1001000126653": 85,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12870,13 +12870,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 151,
-      "Боос Георгий Валентинович": 786,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 122,
-      "Новодворская Валерия Ильинична": 89,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000394547": 151,
+      "gas:candidate-vibid:1001000226008": 786,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 122,
+      "gas:candidate-vibid:377300670522": 89,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12926,13 +12926,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 105,
-      "Боос Георгий Валентинович": 808,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 89,
-      "Новодворская Валерия Ильинична": 78,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000394547": 105,
+      "gas:candidate-vibid:1001000226008": 808,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 89,
+      "gas:candidate-vibid:377300670522": 78,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -12982,13 +12982,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 166,
-      "Боос Георгий Валентинович": 809,
-      "Голицына Виленина Анатольевна": 24,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 122,
-      "Новодворская Валерия Ильинична": 94,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000394547": 166,
+      "gas:candidate-vibid:1001000226008": 809,
+      "gas:candidate-vibid:1001000289817": 24,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 122,
+      "gas:candidate-vibid:377300670522": 94,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13038,13 +13038,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 113,
-      "Боос Георгий Валентинович": 803,
-      "Голицына Виленина Анатольевна": 30,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 80,
-      "Новодворская Валерия Ильинична": 71,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000394547": 113,
+      "gas:candidate-vibid:1001000226008": 803,
+      "gas:candidate-vibid:1001000289817": 30,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 80,
+      "gas:candidate-vibid:377300670522": 71,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13094,13 +13094,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 213,
-      "Боос Георгий Валентинович": 873,
-      "Голицына Виленина Анатольевна": 46,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 107,
-      "Новодворская Валерия Ильинична": 116,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000394547": 213,
+      "gas:candidate-vibid:1001000226008": 873,
+      "gas:candidate-vibid:1001000289817": 46,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 107,
+      "gas:candidate-vibid:377300670522": 116,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13150,13 +13150,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 144,
-      "Боос Георгий Валентинович": 951,
-      "Голицына Виленина Анатольевна": 24,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 114,
-      "Новодворская Валерия Ильинична": 78,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000394547": 144,
+      "gas:candidate-vibid:1001000226008": 951,
+      "gas:candidate-vibid:1001000289817": 24,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 114,
+      "gas:candidate-vibid:377300670522": 78,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13206,13 +13206,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 148,
-      "Боос Георгий Валентинович": 706,
-      "Голицына Виленина Анатольевна": 33,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 81,
-      "Новодворская Валерия Ильинична": 66,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000394547": 148,
+      "gas:candidate-vibid:1001000226008": 706,
+      "gas:candidate-vibid:1001000289817": 33,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 81,
+      "gas:candidate-vibid:377300670522": 66,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13262,13 +13262,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 170,
-      "Боос Георгий Валентинович": 783,
-      "Голицына Виленина Анатольевна": 45,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 99,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000394547": 170,
+      "gas:candidate-vibid:1001000226008": 783,
+      "gas:candidate-vibid:1001000289817": 45,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 99,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13318,13 +13318,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 173,
-      "Боос Георгий Валентинович": 798,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 96,
-      "Новодворская Валерия Ильинична": 98,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000394547": 173,
+      "gas:candidate-vibid:1001000226008": 798,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 96,
+      "gas:candidate-vibid:377300670522": 98,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13374,13 +13374,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 170,
-      "Боос Георгий Валентинович": 740,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 108,
-      "Новодворская Валерия Ильинична": 95,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000394547": 170,
+      "gas:candidate-vibid:1001000226008": 740,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 108,
+      "gas:candidate-vibid:377300670522": 95,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13430,13 +13430,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 138,
-      "Боос Георгий Валентинович": 809,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 79,
-      "Новодворская Валерия Ильинична": 100,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000394547": 138,
+      "gas:candidate-vibid:1001000226008": 809,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 79,
+      "gas:candidate-vibid:377300670522": 100,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13486,13 +13486,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 120,
-      "Боос Георгий Валентинович": 659,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 94,
-      "Новодворская Валерия Ильинична": 89,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000394547": 120,
+      "gas:candidate-vibid:1001000226008": 659,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 94,
+      "gas:candidate-vibid:377300670522": 89,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13542,13 +13542,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 127,
-      "Боос Георгий Валентинович": 862,
-      "Голицына Виленина Анатольевна": 34,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 88,
-      "Новодворская Валерия Ильинична": 93,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000394547": 127,
+      "gas:candidate-vibid:1001000226008": 862,
+      "gas:candidate-vibid:1001000289817": 34,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 88,
+      "gas:candidate-vibid:377300670522": 93,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13598,13 +13598,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 127,
-      "Боос Георгий Валентинович": 768,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 69,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000394547": 127,
+      "gas:candidate-vibid:1001000226008": 768,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 69,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13654,13 +13654,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 115,
-      "Боос Георгий Валентинович": 662,
-      "Голицына Виленина Анатольевна": 30,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 74,
-      "Новодворская Валерия Ильинична": 83,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000394547": 115,
+      "gas:candidate-vibid:1001000226008": 662,
+      "gas:candidate-vibid:1001000289817": 30,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 74,
+      "gas:candidate-vibid:377300670522": 83,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13710,13 +13710,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 141,
-      "Боос Георгий Валентинович": 762,
-      "Голицына Виленина Анатольевна": 16,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 118,
-      "Новодворская Валерия Ильинична": 62,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000394547": 141,
+      "gas:candidate-vibid:1001000226008": 762,
+      "gas:candidate-vibid:1001000289817": 16,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 118,
+      "gas:candidate-vibid:377300670522": 62,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13766,13 +13766,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 93,
-      "Боос Георгий Валентинович": 817,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 73,
-      "Новодворская Валерия Ильинична": 81,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000394547": 93,
+      "gas:candidate-vibid:1001000226008": 817,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 73,
+      "gas:candidate-vibid:377300670522": 81,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13822,13 +13822,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 145,
-      "Боос Георгий Валентинович": 782,
-      "Голицына Виленина Анатольевна": 19,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 111,
-      "Новодворская Валерия Ильинична": 94,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000394547": 145,
+      "gas:candidate-vibid:1001000226008": 782,
+      "gas:candidate-vibid:1001000289817": 19,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 111,
+      "gas:candidate-vibid:377300670522": 94,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13878,13 +13878,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 137,
-      "Боос Георгий Валентинович": 690,
-      "Голицына Виленина Анатольевна": 25,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 73,
-      "Новодворская Валерия Ильинична": 67,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000394547": 137,
+      "gas:candidate-vibid:1001000226008": 690,
+      "gas:candidate-vibid:1001000289817": 25,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 73,
+      "gas:candidate-vibid:377300670522": 67,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13934,13 +13934,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 148,
-      "Боос Георгий Валентинович": 851,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 85,
-      "Новодворская Валерия Ильинична": 68,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000394547": 148,
+      "gas:candidate-vibid:1001000226008": 851,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 85,
+      "gas:candidate-vibid:377300670522": 68,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -13990,13 +13990,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 117,
-      "Боос Георгий Валентинович": 797,
-      "Голицына Виленина Анатольевна": 33,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 96,
-      "Новодворская Валерия Ильинична": 103,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000394547": 117,
+      "gas:candidate-vibid:1001000226008": 797,
+      "gas:candidate-vibid:1001000289817": 33,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 96,
+      "gas:candidate-vibid:377300670522": 103,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -14046,13 +14046,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 163,
-      "Боос Георгий Валентинович": 712,
-      "Голицына Виленина Анатольевна": 25,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 80,
-      "Новодворская Валерия Ильинична": 121,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000394547": 163,
+      "gas:candidate-vibid:1001000226008": 712,
+      "gas:candidate-vibid:1001000289817": 25,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 80,
+      "gas:candidate-vibid:377300670522": 121,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -14102,13 +14102,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 155,
-      "Боос Георгий Валентинович": 875,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 92,
-      "Новодворская Валерия Ильинична": 64,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000394547": 155,
+      "gas:candidate-vibid:1001000226008": 875,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 92,
+      "gas:candidate-vibid:377300670522": 64,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -14158,13 +14158,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 152,
-      "Боос Георгий Валентинович": 843,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 74,
-      "Новодворская Валерия Ильинична": 86,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000394547": 152,
+      "gas:candidate-vibid:1001000226008": 843,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 74,
+      "gas:candidate-vibid:377300670522": 86,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -14214,13 +14214,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 146,
-      "Боос Георгий Валентинович": 851,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 12,
-      "Миронов Александр Сергеевич": 104,
-      "Новодворская Валерия Ильинична": 80,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000394547": 146,
+      "gas:candidate-vibid:1001000226008": 851,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 12,
+      "gas:candidate-vibid:1001000126653": 104,
+      "gas:candidate-vibid:377300670522": 80,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -14270,13 +14270,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 131,
-      "Боос Георгий Валентинович": 827,
-      "Голицына Виленина Анатольевна": 33,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 114,
-      "Новодворская Валерия Ильинична": 76,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000394547": 131,
+      "gas:candidate-vibid:1001000226008": 827,
+      "gas:candidate-vibid:1001000289817": 33,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 114,
+      "gas:candidate-vibid:377300670522": 76,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -14326,13 +14326,13 @@ export const duma_2003_uik_428_region_77_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 143,
-      "Боос Георгий Валентинович": 828,
-      "Голицына Виленина Анатольевна": 38,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 102,
-      "Новодворская Валерия Ильинична": 85,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000394547": 143,
+      "gas:candidate-vibid:1001000226008": 828,
+      "gas:candidate-vibid:1001000289817": 38,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 102,
+      "gas:candidate-vibid:377300670522": 85,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",

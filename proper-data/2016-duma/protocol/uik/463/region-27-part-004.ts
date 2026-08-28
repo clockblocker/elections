@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 88,
-      "Доськов Дмитрий Викторович": 36,
-      "Паньков Олег Григорьевич": 20,
-      "Симонцев Александр Сергеевич": 9,
-      "Сысоев Евгений Олегович": 69,
-      "Фургал Сергей Иванович": 301,
-      "Швецов Эдуард Александрович": 35
+      "gas:candidate-vibid:2272000772163": 88,
+      "gas:candidate-vibid:2272000772396": 36,
+      "gas:candidate-vibid:2272000774641": 20,
+      "gas:candidate-vibid:2272000774545": 9,
+      "gas:candidate-vibid:2272000774612": 69,
+      "gas:candidate-vibid:2272000743808": 301,
+      "gas:candidate-vibid:2272000775314": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 71,
-      "Доськов Дмитрий Викторович": 27,
-      "Паньков Олег Григорьевич": 24,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 48,
-      "Фургал Сергей Иванович": 306,
-      "Швецов Эдуард Александрович": 20
+      "gas:candidate-vibid:2272000772163": 71,
+      "gas:candidate-vibid:2272000772396": 27,
+      "gas:candidate-vibid:2272000774641": 24,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 48,
+      "gas:candidate-vibid:2272000743808": 306,
+      "gas:candidate-vibid:2272000775314": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 68,
-      "Доськов Дмитрий Викторович": 29,
-      "Паньков Олег Григорьевич": 19,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 59,
-      "Фургал Сергей Иванович": 329,
-      "Швецов Эдуард Александрович": 19
+      "gas:candidate-vibid:2272000772163": 68,
+      "gas:candidate-vibid:2272000772396": 29,
+      "gas:candidate-vibid:2272000774641": 19,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 59,
+      "gas:candidate-vibid:2272000743808": 329,
+      "gas:candidate-vibid:2272000775314": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 81,
-      "Доськов Дмитрий Викторович": 23,
-      "Паньков Олег Григорьевич": 16,
-      "Симонцев Александр Сергеевич": 8,
-      "Сысоев Евгений Олегович": 72,
-      "Фургал Сергей Иванович": 313,
-      "Швецов Эдуард Александрович": 14
+      "gas:candidate-vibid:2272000772163": 81,
+      "gas:candidate-vibid:2272000772396": 23,
+      "gas:candidate-vibid:2272000774641": 16,
+      "gas:candidate-vibid:2272000774545": 8,
+      "gas:candidate-vibid:2272000774612": 72,
+      "gas:candidate-vibid:2272000743808": 313,
+      "gas:candidate-vibid:2272000775314": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 34,
-      "Доськов Дмитрий Викторович": 8,
-      "Паньков Олег Григорьевич": 8,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 22,
-      "Фургал Сергей Иванович": 113,
-      "Швецов Эдуард Александрович": 5
+      "gas:candidate-vibid:2272000772163": 34,
+      "gas:candidate-vibid:2272000772396": 8,
+      "gas:candidate-vibid:2272000774641": 8,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 22,
+      "gas:candidate-vibid:2272000743808": 113,
+      "gas:candidate-vibid:2272000775314": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 24,
-      "Доськов Дмитрий Викторович": 14,
-      "Паньков Олег Григорьевич": 4,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 24,
-      "Фургал Сергей Иванович": 121,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 24,
+      "gas:candidate-vibid:2272000772396": 14,
+      "gas:candidate-vibid:2272000774641": 4,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 24,
+      "gas:candidate-vibid:2272000743808": 121,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 21,
-      "Доськов Дмитрий Викторович": 7,
-      "Паньков Олег Григорьевич": 6,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 12,
-      "Фургал Сергей Иванович": 142,
-      "Швецов Эдуард Александрович": 8
+      "gas:candidate-vibid:2272000772163": 21,
+      "gas:candidate-vibid:2272000772396": 7,
+      "gas:candidate-vibid:2272000774641": 6,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 12,
+      "gas:candidate-vibid:2272000743808": 142,
+      "gas:candidate-vibid:2272000775314": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 36,
-      "Доськов Дмитрий Викторович": 12,
-      "Паньков Олег Григорьевич": 8,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 27,
-      "Фургал Сергей Иванович": 135,
-      "Швецов Эдуард Александрович": 11
+      "gas:candidate-vibid:2272000772163": 36,
+      "gas:candidate-vibid:2272000772396": 12,
+      "gas:candidate-vibid:2272000774641": 8,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 27,
+      "gas:candidate-vibid:2272000743808": 135,
+      "gas:candidate-vibid:2272000775314": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 58,
-      "Доськов Дмитрий Викторович": 18,
-      "Паньков Олег Григорьевич": 26,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 64,
-      "Фургал Сергей Иванович": 192,
-      "Швецов Эдуард Александрович": 11
+      "gas:candidate-vibid:2272000772163": 58,
+      "gas:candidate-vibid:2272000772396": 18,
+      "gas:candidate-vibid:2272000774641": 26,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 64,
+      "gas:candidate-vibid:2272000743808": 192,
+      "gas:candidate-vibid:2272000775314": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 64,
-      "Доськов Дмитрий Викторович": 25,
-      "Паньков Олег Григорьевич": 12,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 52,
-      "Фургал Сергей Иванович": 207,
-      "Швецов Эдуард Александрович": 16
+      "gas:candidate-vibid:2272000772163": 64,
+      "gas:candidate-vibid:2272000772396": 25,
+      "gas:candidate-vibid:2272000774641": 12,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 52,
+      "gas:candidate-vibid:2272000743808": 207,
+      "gas:candidate-vibid:2272000775314": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 13,
-      "Доськов Дмитрий Викторович": 10,
-      "Паньков Олег Григорьевич": 5,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 15,
-      "Фургал Сергей Иванович": 67,
-      "Швецов Эдуард Александрович": 5
+      "gas:candidate-vibid:2272000772163": 13,
+      "gas:candidate-vibid:2272000772396": 10,
+      "gas:candidate-vibid:2272000774641": 5,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 15,
+      "gas:candidate-vibid:2272000743808": 67,
+      "gas:candidate-vibid:2272000775314": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 43,
-      "Доськов Дмитрий Викторович": 17,
-      "Паньков Олег Григорьевич": 12,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 31,
-      "Фургал Сергей Иванович": 118,
-      "Швецов Эдуард Александрович": 14
+      "gas:candidate-vibid:2272000772163": 43,
+      "gas:candidate-vibid:2272000772396": 17,
+      "gas:candidate-vibid:2272000774641": 12,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 31,
+      "gas:candidate-vibid:2272000743808": 118,
+      "gas:candidate-vibid:2272000775314": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 14,
-      "Доськов Дмитрий Викторович": 7,
-      "Паньков Олег Григорьевич": 8,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 17,
-      "Фургал Сергей Иванович": 77,
-      "Швецов Эдуард Александрович": 8
+      "gas:candidate-vibid:2272000772163": 14,
+      "gas:candidate-vibid:2272000772396": 7,
+      "gas:candidate-vibid:2272000774641": 8,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 17,
+      "gas:candidate-vibid:2272000743808": 77,
+      "gas:candidate-vibid:2272000775314": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 18,
-      "Доськов Дмитрий Викторович": 4,
-      "Паньков Олег Григорьевич": 6,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 13,
-      "Фургал Сергей Иванович": 60,
-      "Швецов Эдуард Александрович": 3
+      "gas:candidate-vibid:2272000772163": 18,
+      "gas:candidate-vibid:2272000772396": 4,
+      "gas:candidate-vibid:2272000774641": 6,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 13,
+      "gas:candidate-vibid:2272000743808": 60,
+      "gas:candidate-vibid:2272000775314": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 23,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 8,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 26,
-      "Фургал Сергей Иванович": 68,
-      "Швецов Эдуард Александрович": 8
+      "gas:candidate-vibid:2272000772163": 23,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 8,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 26,
+      "gas:candidate-vibid:2272000743808": 68,
+      "gas:candidate-vibid:2272000775314": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 57,
-      "Доськов Дмитрий Викторович": 20,
-      "Паньков Олег Григорьевич": 15,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 15,
-      "Фургал Сергей Иванович": 123,
-      "Швецов Эдуард Александрович": 6
+      "gas:candidate-vibid:2272000772163": 57,
+      "gas:candidate-vibid:2272000772396": 20,
+      "gas:candidate-vibid:2272000774641": 15,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 15,
+      "gas:candidate-vibid:2272000743808": 123,
+      "gas:candidate-vibid:2272000775314": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 13,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 2,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 27,
-      "Фургал Сергей Иванович": 23,
-      "Швецов Эдуард Александрович": 1
+      "gas:candidate-vibid:2272000772163": 13,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 2,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 27,
+      "gas:candidate-vibid:2272000743808": 23,
+      "gas:candidate-vibid:2272000775314": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 38,
-      "Доськов Дмитрий Викторович": 3,
-      "Паньков Олег Григорьевич": 1,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 6,
-      "Фургал Сергей Иванович": 29,
-      "Швецов Эдуард Александрович": 1
+      "gas:candidate-vibid:2272000772163": 38,
+      "gas:candidate-vibid:2272000772396": 3,
+      "gas:candidate-vibid:2272000774641": 1,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 6,
+      "gas:candidate-vibid:2272000743808": 29,
+      "gas:candidate-vibid:2272000775314": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 8,
-      "Доськов Дмитрий Викторович": 0,
-      "Паньков Олег Григорьевич": 0,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 4,
-      "Фургал Сергей Иванович": 13,
-      "Швецов Эдуард Александрович": 1
+      "gas:candidate-vibid:2272000772163": 8,
+      "gas:candidate-vibid:2272000772396": 0,
+      "gas:candidate-vibid:2272000774641": 0,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 4,
+      "gas:candidate-vibid:2272000743808": 13,
+      "gas:candidate-vibid:2272000775314": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 18,
-      "Доськов Дмитрий Викторович": 4,
-      "Паньков Олег Григорьевич": 2,
-      "Симонцев Александр Сергеевич": 0,
-      "Сысоев Евгений Олегович": 5,
-      "Фургал Сергей Иванович": 59,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 18,
+      "gas:candidate-vibid:2272000772396": 4,
+      "gas:candidate-vibid:2272000774641": 2,
+      "gas:candidate-vibid:2272000774545": 0,
+      "gas:candidate-vibid:2272000774612": 5,
+      "gas:candidate-vibid:2272000743808": 59,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 63,
-      "Доськов Дмитрий Викторович": 14,
-      "Паньков Олег Григорьевич": 10,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 42,
-      "Фургал Сергей Иванович": 106,
-      "Швецов Эдуард Александрович": 12
+      "gas:candidate-vibid:2272000772163": 63,
+      "gas:candidate-vibid:2272000772396": 14,
+      "gas:candidate-vibid:2272000774641": 10,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 42,
+      "gas:candidate-vibid:2272000743808": 106,
+      "gas:candidate-vibid:2272000775314": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 68,
-      "Доськов Дмитрий Викторович": 21,
-      "Паньков Олег Григорьевич": 11,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 48,
-      "Фургал Сергей Иванович": 109,
-      "Швецов Эдуард Александрович": 14
+      "gas:candidate-vibid:2272000772163": 68,
+      "gas:candidate-vibid:2272000772396": 21,
+      "gas:candidate-vibid:2272000774641": 11,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 48,
+      "gas:candidate-vibid:2272000743808": 109,
+      "gas:candidate-vibid:2272000775314": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 12,
-      "Доськов Дмитрий Викторович": 13,
-      "Паньков Олег Григорьевич": 10,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 14,
-      "Фургал Сергей Иванович": 93,
-      "Швецов Эдуард Александрович": 8
+      "gas:candidate-vibid:2272000772163": 12,
+      "gas:candidate-vibid:2272000772396": 13,
+      "gas:candidate-vibid:2272000774641": 10,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 14,
+      "gas:candidate-vibid:2272000743808": 93,
+      "gas:candidate-vibid:2272000775314": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 46,
-      "Доськов Дмитрий Викторович": 8,
-      "Паньков Олег Григорьевич": 15,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 29,
-      "Фургал Сергей Иванович": 133,
-      "Швецов Эдуард Александрович": 9
+      "gas:candidate-vibid:2272000772163": 46,
+      "gas:candidate-vibid:2272000772396": 8,
+      "gas:candidate-vibid:2272000774641": 15,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 29,
+      "gas:candidate-vibid:2272000743808": 133,
+      "gas:candidate-vibid:2272000775314": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 81,
-      "Доськов Дмитрий Викторович": 21,
-      "Паньков Олег Григорьевич": 23,
-      "Симонцев Александр Сергеевич": 9,
-      "Сысоев Евгений Олегович": 64,
-      "Фургал Сергей Иванович": 161,
-      "Швецов Эдуард Александрович": 14
+      "gas:candidate-vibid:2272000772163": 81,
+      "gas:candidate-vibid:2272000772396": 21,
+      "gas:candidate-vibid:2272000774641": 23,
+      "gas:candidate-vibid:2272000774545": 9,
+      "gas:candidate-vibid:2272000774612": 64,
+      "gas:candidate-vibid:2272000743808": 161,
+      "gas:candidate-vibid:2272000775314": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 72,
-      "Доськов Дмитрий Викторович": 40,
-      "Паньков Олег Григорьевич": 31,
-      "Симонцев Александр Сергеевич": 9,
-      "Сысоев Евгений Олегович": 50,
-      "Фургал Сергей Иванович": 198,
-      "Швецов Эдуард Александрович": 19
+      "gas:candidate-vibid:2272000772163": 72,
+      "gas:candidate-vibid:2272000772396": 40,
+      "gas:candidate-vibid:2272000774641": 31,
+      "gas:candidate-vibid:2272000774545": 9,
+      "gas:candidate-vibid:2272000774612": 50,
+      "gas:candidate-vibid:2272000743808": 198,
+      "gas:candidate-vibid:2272000775314": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 51,
-      "Доськов Дмитрий Викторович": 15,
-      "Паньков Олег Григорьевич": 10,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 32,
-      "Фургал Сергей Иванович": 117,
-      "Швецов Эдуард Александрович": 6
+      "gas:candidate-vibid:2272000772163": 51,
+      "gas:candidate-vibid:2272000772396": 15,
+      "gas:candidate-vibid:2272000774641": 10,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 32,
+      "gas:candidate-vibid:2272000743808": 117,
+      "gas:candidate-vibid:2272000775314": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676938&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676938&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 11,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 4,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 26,
-      "Фургал Сергей Иванович": 6,
-      "Швецов Эдуард Александрович": 6
+      "gas:candidate-vibid:2272000772163": 11,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 4,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 26,
+      "gas:candidate-vibid:2272000743808": 6,
+      "gas:candidate-vibid:2272000775314": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676939&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676939&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 71,
-      "Доськов Дмитрий Викторович": 19,
-      "Паньков Олег Григорьевич": 28,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 71,
-      "Фургал Сергей Иванович": 141,
-      "Швецов Эдуард Александрович": 23
+      "gas:candidate-vibid:2272000772163": 71,
+      "gas:candidate-vibid:2272000772396": 19,
+      "gas:candidate-vibid:2272000774641": 28,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 71,
+      "gas:candidate-vibid:2272000743808": 141,
+      "gas:candidate-vibid:2272000775314": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676939&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676939&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 30,
-      "Доськов Дмитрий Викторович": 8,
-      "Паньков Олег Григорьевич": 6,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 21,
-      "Фургал Сергей Иванович": 27,
-      "Швецов Эдуард Александрович": 10
+      "gas:candidate-vibid:2272000772163": 30,
+      "gas:candidate-vibid:2272000772396": 8,
+      "gas:candidate-vibid:2272000774641": 6,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 21,
+      "gas:candidate-vibid:2272000743808": 27,
+      "gas:candidate-vibid:2272000775314": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676939&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676939&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 66,
-      "Доськов Дмитрий Викторович": 29,
-      "Паньков Олег Григорьевич": 13,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 73,
-      "Фургал Сергей Иванович": 112,
-      "Швецов Эдуард Александрович": 18
+      "gas:candidate-vibid:2272000772163": 66,
+      "gas:candidate-vibid:2272000772396": 29,
+      "gas:candidate-vibid:2272000774641": 13,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 73,
+      "gas:candidate-vibid:2272000743808": 112,
+      "gas:candidate-vibid:2272000775314": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676939&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676939&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 220,
-      "Доськов Дмитрий Викторович": 43,
-      "Паньков Олег Григорьевич": 16,
-      "Симонцев Александр Сергеевич": 11,
-      "Сысоев Евгений Олегович": 89,
-      "Фургал Сергей Иванович": 205,
-      "Швецов Эдуард Александрович": 26
+      "gas:candidate-vibid:2272000772163": 220,
+      "gas:candidate-vibid:2272000772396": 43,
+      "gas:candidate-vibid:2272000774641": 16,
+      "gas:candidate-vibid:2272000774545": 11,
+      "gas:candidate-vibid:2272000774612": 89,
+      "gas:candidate-vibid:2272000743808": 205,
+      "gas:candidate-vibid:2272000775314": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 186,
-      "Доськов Дмитрий Викторович": 40,
-      "Паньков Олег Григорьевич": 28,
-      "Симонцев Александр Сергеевич": 10,
-      "Сысоев Евгений Олегович": 96,
-      "Фургал Сергей Иванович": 213,
-      "Швецов Эдуард Александрович": 20
+      "gas:candidate-vibid:2272000772163": 186,
+      "gas:candidate-vibid:2272000772396": 40,
+      "gas:candidate-vibid:2272000774641": 28,
+      "gas:candidate-vibid:2272000774545": 10,
+      "gas:candidate-vibid:2272000774612": 96,
+      "gas:candidate-vibid:2272000743808": 213,
+      "gas:candidate-vibid:2272000775314": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 177,
-      "Доськов Дмитрий Викторович": 30,
-      "Паньков Олег Григорьевич": 16,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 69,
-      "Фургал Сергей Иванович": 201,
-      "Швецов Эдуард Александрович": 20
+      "gas:candidate-vibid:2272000772163": 177,
+      "gas:candidate-vibid:2272000772396": 30,
+      "gas:candidate-vibid:2272000774641": 16,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 69,
+      "gas:candidate-vibid:2272000743808": 201,
+      "gas:candidate-vibid:2272000775314": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 127,
-      "Доськов Дмитрий Викторович": 20,
-      "Паньков Олег Григорьевич": 8,
-      "Симонцев Александр Сергеевич": 10,
-      "Сысоев Евгений Олегович": 45,
-      "Фургал Сергей Иванович": 151,
-      "Швецов Эдуард Александрович": 12
+      "gas:candidate-vibid:2272000772163": 127,
+      "gas:candidate-vibid:2272000772396": 20,
+      "gas:candidate-vibid:2272000774641": 8,
+      "gas:candidate-vibid:2272000774545": 10,
+      "gas:candidate-vibid:2272000774612": 45,
+      "gas:candidate-vibid:2272000743808": 151,
+      "gas:candidate-vibid:2272000775314": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 174,
-      "Доськов Дмитрий Викторович": 37,
-      "Паньков Олег Григорьевич": 27,
-      "Симонцев Александр Сергеевич": 12,
-      "Сысоев Евгений Олегович": 67,
-      "Фургал Сергей Иванович": 174,
-      "Швецов Эдуард Александрович": 19
+      "gas:candidate-vibid:2272000772163": 174,
+      "gas:candidate-vibid:2272000772396": 37,
+      "gas:candidate-vibid:2272000774641": 27,
+      "gas:candidate-vibid:2272000774545": 12,
+      "gas:candidate-vibid:2272000774612": 67,
+      "gas:candidate-vibid:2272000743808": 174,
+      "gas:candidate-vibid:2272000775314": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 146,
-      "Доськов Дмитрий Викторович": 26,
-      "Паньков Олег Григорьевич": 17,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 51,
-      "Фургал Сергей Иванович": 125,
-      "Швецов Эдуард Александрович": 12
+      "gas:candidate-vibid:2272000772163": 146,
+      "gas:candidate-vibid:2272000772396": 26,
+      "gas:candidate-vibid:2272000774641": 17,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 51,
+      "gas:candidate-vibid:2272000743808": 125,
+      "gas:candidate-vibid:2272000775314": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 199,
-      "Доськов Дмитрий Викторович": 33,
-      "Паньков Олег Григорьевич": 26,
-      "Симонцев Александр Сергеевич": 10,
-      "Сысоев Евгений Олегович": 66,
-      "Фургал Сергей Иванович": 182,
-      "Швецов Эдуард Александрович": 32
+      "gas:candidate-vibid:2272000772163": 199,
+      "gas:candidate-vibid:2272000772396": 33,
+      "gas:candidate-vibid:2272000774641": 26,
+      "gas:candidate-vibid:2272000774545": 10,
+      "gas:candidate-vibid:2272000774612": 66,
+      "gas:candidate-vibid:2272000743808": 182,
+      "gas:candidate-vibid:2272000775314": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 201,
-      "Доськов Дмитрий Викторович": 48,
-      "Паньков Олег Григорьевич": 28,
-      "Симонцев Александр Сергеевич": 16,
-      "Сысоев Евгений Олегович": 82,
-      "Фургал Сергей Иванович": 145,
-      "Швецов Эдуард Александрович": 30
+      "gas:candidate-vibid:2272000772163": 201,
+      "gas:candidate-vibid:2272000772396": 48,
+      "gas:candidate-vibid:2272000774641": 28,
+      "gas:candidate-vibid:2272000774545": 16,
+      "gas:candidate-vibid:2272000774612": 82,
+      "gas:candidate-vibid:2272000743808": 145,
+      "gas:candidate-vibid:2272000775314": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 210,
-      "Доськов Дмитрий Викторович": 36,
-      "Паньков Олег Григорьевич": 25,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 68,
-      "Фургал Сергей Иванович": 189,
-      "Швецов Эдуард Александрович": 28
+      "gas:candidate-vibid:2272000772163": 210,
+      "gas:candidate-vibid:2272000772396": 36,
+      "gas:candidate-vibid:2272000774641": 25,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 68,
+      "gas:candidate-vibid:2272000743808": 189,
+      "gas:candidate-vibid:2272000775314": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 147,
-      "Доськов Дмитрий Викторович": 16,
-      "Паньков Олег Григорьевич": 17,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 54,
-      "Фургал Сергей Иванович": 116,
-      "Швецов Эдуард Александрович": 18
+      "gas:candidate-vibid:2272000772163": 147,
+      "gas:candidate-vibid:2272000772396": 16,
+      "gas:candidate-vibid:2272000774641": 17,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 54,
+      "gas:candidate-vibid:2272000743808": 116,
+      "gas:candidate-vibid:2272000775314": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 112,
-      "Доськов Дмитрий Викторович": 34,
-      "Паньков Олег Григорьевич": 19,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 66,
-      "Фургал Сергей Иванович": 134,
-      "Швецов Эдуард Александрович": 11
+      "gas:candidate-vibid:2272000772163": 112,
+      "gas:candidate-vibid:2272000772396": 34,
+      "gas:candidate-vibid:2272000774641": 19,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 66,
+      "gas:candidate-vibid:2272000743808": 134,
+      "gas:candidate-vibid:2272000775314": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 155,
-      "Доськов Дмитрий Викторович": 49,
-      "Паньков Олег Григорьевич": 15,
-      "Симонцев Александр Сергеевич": 9,
-      "Сысоев Евгений Олегович": 47,
-      "Фургал Сергей Иванович": 126,
-      "Швецов Эдуард Александрович": 14
+      "gas:candidate-vibid:2272000772163": 155,
+      "gas:candidate-vibid:2272000772396": 49,
+      "gas:candidate-vibid:2272000774641": 15,
+      "gas:candidate-vibid:2272000774545": 9,
+      "gas:candidate-vibid:2272000774612": 47,
+      "gas:candidate-vibid:2272000743808": 126,
+      "gas:candidate-vibid:2272000775314": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 139,
-      "Доськов Дмитрий Викторович": 47,
-      "Паньков Олег Григорьевич": 13,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 67,
-      "Фургал Сергей Иванович": 189,
-      "Швецов Эдуард Александрович": 13
+      "gas:candidate-vibid:2272000772163": 139,
+      "gas:candidate-vibid:2272000772396": 47,
+      "gas:candidate-vibid:2272000774641": 13,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 67,
+      "gas:candidate-vibid:2272000743808": 189,
+      "gas:candidate-vibid:2272000775314": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 144,
-      "Доськов Дмитрий Викторович": 21,
-      "Паньков Олег Григорьевич": 19,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 57,
-      "Фургал Сергей Иванович": 185,
-      "Швецов Эдуард Александрович": 23
+      "gas:candidate-vibid:2272000772163": 144,
+      "gas:candidate-vibid:2272000772396": 21,
+      "gas:candidate-vibid:2272000774641": 19,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 57,
+      "gas:candidate-vibid:2272000743808": 185,
+      "gas:candidate-vibid:2272000775314": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 168,
-      "Доськов Дмитрий Викторович": 30,
-      "Паньков Олег Григорьевич": 19,
-      "Симонцев Александр Сергеевич": 9,
-      "Сысоев Евгений Олегович": 81,
-      "Фургал Сергей Иванович": 225,
-      "Швецов Эдуард Александрович": 21
+      "gas:candidate-vibid:2272000772163": 168,
+      "gas:candidate-vibid:2272000772396": 30,
+      "gas:candidate-vibid:2272000774641": 19,
+      "gas:candidate-vibid:2272000774545": 9,
+      "gas:candidate-vibid:2272000774612": 81,
+      "gas:candidate-vibid:2272000743808": 225,
+      "gas:candidate-vibid:2272000775314": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 99,
-      "Доськов Дмитрий Викторович": 23,
-      "Паньков Олег Григорьевич": 15,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 77,
-      "Фургал Сергей Иванович": 156,
-      "Швецов Эдуард Александрович": 17
+      "gas:candidate-vibid:2272000772163": 99,
+      "gas:candidate-vibid:2272000772396": 23,
+      "gas:candidate-vibid:2272000774641": 15,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 77,
+      "gas:candidate-vibid:2272000743808": 156,
+      "gas:candidate-vibid:2272000775314": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 151,
-      "Доськов Дмитрий Викторович": 38,
-      "Паньков Олег Григорьевич": 28,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 82,
-      "Фургал Сергей Иванович": 236,
-      "Швецов Эдуард Александрович": 15
+      "gas:candidate-vibid:2272000772163": 151,
+      "gas:candidate-vibid:2272000772396": 38,
+      "gas:candidate-vibid:2272000774641": 28,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 82,
+      "gas:candidate-vibid:2272000743808": 236,
+      "gas:candidate-vibid:2272000775314": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 131,
-      "Доськов Дмитрий Викторович": 43,
-      "Паньков Олег Григорьевич": 21,
-      "Симонцев Александр Сергеевич": 10,
-      "Сысоев Евгений Олегович": 82,
-      "Фургал Сергей Иванович": 228,
-      "Швецов Эдуард Александрович": 11
+      "gas:candidate-vibid:2272000772163": 131,
+      "gas:candidate-vibid:2272000772396": 43,
+      "gas:candidate-vibid:2272000774641": 21,
+      "gas:candidate-vibid:2272000774545": 10,
+      "gas:candidate-vibid:2272000774612": 82,
+      "gas:candidate-vibid:2272000743808": 228,
+      "gas:candidate-vibid:2272000775314": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 140,
-      "Доськов Дмитрий Викторович": 32,
-      "Паньков Олег Григорьевич": 12,
-      "Симонцев Александр Сергеевич": 12,
-      "Сысоев Евгений Олегович": 63,
-      "Фургал Сергей Иванович": 191,
-      "Швецов Эдуард Александрович": 18
+      "gas:candidate-vibid:2272000772163": 140,
+      "gas:candidate-vibid:2272000772396": 32,
+      "gas:candidate-vibid:2272000774641": 12,
+      "gas:candidate-vibid:2272000774545": 12,
+      "gas:candidate-vibid:2272000774612": 63,
+      "gas:candidate-vibid:2272000743808": 191,
+      "gas:candidate-vibid:2272000775314": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 152,
-      "Доськов Дмитрий Викторович": 33,
-      "Паньков Олег Григорьевич": 19,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 74,
-      "Фургал Сергей Иванович": 168,
-      "Швецов Эдуард Александрович": 10
+      "gas:candidate-vibid:2272000772163": 152,
+      "gas:candidate-vibid:2272000772396": 33,
+      "gas:candidate-vibid:2272000774641": 19,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 74,
+      "gas:candidate-vibid:2272000743808": 168,
+      "gas:candidate-vibid:2272000775314": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 29,
-      "Доськов Дмитрий Викторович": 14,
-      "Паньков Олег Григорьевич": 2,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 20,
-      "Фургал Сергей Иванович": 38,
-      "Швецов Эдуард Александрович": 3
+      "gas:candidate-vibid:2272000772163": 29,
+      "gas:candidate-vibid:2272000772396": 14,
+      "gas:candidate-vibid:2272000774641": 2,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 20,
+      "gas:candidate-vibid:2272000743808": 38,
+      "gas:candidate-vibid:2272000775314": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 51,
-      "Доськов Дмитрий Викторович": 16,
-      "Паньков Олег Григорьевич": 5,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 13,
-      "Фургал Сергей Иванович": 79,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 51,
+      "gas:candidate-vibid:2272000772396": 16,
+      "gas:candidate-vibid:2272000774641": 5,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 13,
+      "gas:candidate-vibid:2272000743808": 79,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 76,
-      "Доськов Дмитрий Викторович": 69,
-      "Паньков Олег Григорьевич": 23,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 82,
-      "Фургал Сергей Иванович": 224,
-      "Швецов Эдуард Александрович": 23
+      "gas:candidate-vibid:2272000772163": 76,
+      "gas:candidate-vibid:2272000772396": 69,
+      "gas:candidate-vibid:2272000774641": 23,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 82,
+      "gas:candidate-vibid:2272000743808": 224,
+      "gas:candidate-vibid:2272000775314": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 92,
-      "Доськов Дмитрий Викторович": 67,
-      "Паньков Олег Григорьевич": 21,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 69,
-      "Фургал Сергей Иванович": 199,
-      "Швецов Эдуард Александрович": 16
+      "gas:candidate-vibid:2272000772163": 92,
+      "gas:candidate-vibid:2272000772396": 67,
+      "gas:candidate-vibid:2272000774641": 21,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 69,
+      "gas:candidate-vibid:2272000743808": 199,
+      "gas:candidate-vibid:2272000775314": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 105,
-      "Доськов Дмитрий Викторович": 92,
-      "Паньков Олег Григорьевич": 21,
-      "Симонцев Александр Сергеевич": 12,
-      "Сысоев Евгений Олегович": 106,
-      "Фургал Сергей Иванович": 318,
-      "Швецов Эдуард Александрович": 30
+      "gas:candidate-vibid:2272000772163": 105,
+      "gas:candidate-vibid:2272000772396": 92,
+      "gas:candidate-vibid:2272000774641": 21,
+      "gas:candidate-vibid:2272000774545": 12,
+      "gas:candidate-vibid:2272000774612": 106,
+      "gas:candidate-vibid:2272000743808": 318,
+      "gas:candidate-vibid:2272000775314": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 108,
-      "Доськов Дмитрий Викторович": 40,
-      "Паньков Олег Григорьевич": 13,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 89,
-      "Фургал Сергей Иванович": 161,
-      "Швецов Эдуард Александрович": 27
+      "gas:candidate-vibid:2272000772163": 108,
+      "gas:candidate-vibid:2272000772396": 40,
+      "gas:candidate-vibid:2272000774641": 13,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 89,
+      "gas:candidate-vibid:2272000743808": 161,
+      "gas:candidate-vibid:2272000775314": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 64,
-      "Доськов Дмитрий Викторович": 63,
-      "Паньков Олег Григорьевич": 8,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 47,
-      "Фургал Сергей Иванович": 165,
-      "Швецов Эдуард Александрович": 16
+      "gas:candidate-vibid:2272000772163": 64,
+      "gas:candidate-vibid:2272000772396": 63,
+      "gas:candidate-vibid:2272000774641": 8,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 47,
+      "gas:candidate-vibid:2272000743808": 165,
+      "gas:candidate-vibid:2272000775314": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 113,
-      "Доськов Дмитрий Викторович": 89,
-      "Паньков Олег Григорьевич": 18,
-      "Симонцев Александр Сергеевич": 7,
-      "Сысоев Евгений Олегович": 76,
-      "Фургал Сергей Иванович": 193,
-      "Швецов Эдуард Александрович": 18
+      "gas:candidate-vibid:2272000772163": 113,
+      "gas:candidate-vibid:2272000772396": 89,
+      "gas:candidate-vibid:2272000774641": 18,
+      "gas:candidate-vibid:2272000774545": 7,
+      "gas:candidate-vibid:2272000774612": 76,
+      "gas:candidate-vibid:2272000743808": 193,
+      "gas:candidate-vibid:2272000775314": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 45,
-      "Доськов Дмитрий Викторович": 29,
-      "Паньков Олег Григорьевич": 33,
-      "Симонцев Александр Сергеевич": 20,
-      "Сысоев Евгений Олегович": 34,
-      "Фургал Сергей Иванович": 130,
-      "Швецов Эдуард Александрович": 15
+      "gas:candidate-vibid:2272000772163": 45,
+      "gas:candidate-vibid:2272000772396": 29,
+      "gas:candidate-vibid:2272000774641": 33,
+      "gas:candidate-vibid:2272000774545": 20,
+      "gas:candidate-vibid:2272000774612": 34,
+      "gas:candidate-vibid:2272000743808": 130,
+      "gas:candidate-vibid:2272000775314": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 18,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 6,
-      "Симонцев Александр Сергеевич": 2,
-      "Сысоев Евгений Олегович": 22,
-      "Фургал Сергей Иванович": 27,
-      "Швецов Эдуард Александрович": 5
+      "gas:candidate-vibid:2272000772163": 18,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 6,
+      "gas:candidate-vibid:2272000774545": 2,
+      "gas:candidate-vibid:2272000774612": 22,
+      "gas:candidate-vibid:2272000743808": 27,
+      "gas:candidate-vibid:2272000775314": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 79,
-      "Доськов Дмитрий Викторович": 31,
-      "Паньков Олег Григорьевич": 11,
-      "Симонцев Александр Сергеевич": 6,
-      "Сысоев Евгений Олегович": 61,
-      "Фургал Сергей Иванович": 139,
-      "Швецов Эдуард Александрович": 13
+      "gas:candidate-vibid:2272000772163": 79,
+      "gas:candidate-vibid:2272000772396": 31,
+      "gas:candidate-vibid:2272000774641": 11,
+      "gas:candidate-vibid:2272000774545": 6,
+      "gas:candidate-vibid:2272000774612": 61,
+      "gas:candidate-vibid:2272000743808": 139,
+      "gas:candidate-vibid:2272000775314": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 17,
-      "Доськов Дмитрий Викторович": 1,
-      "Паньков Олег Григорьевич": 2,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 7,
-      "Фургал Сергей Иванович": 15,
-      "Швецов Эдуард Александрович": 0
+      "gas:candidate-vibid:2272000772163": 17,
+      "gas:candidate-vibid:2272000772396": 1,
+      "gas:candidate-vibid:2272000774641": 2,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 7,
+      "gas:candidate-vibid:2272000743808": 15,
+      "gas:candidate-vibid:2272000775314": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 8,
-      "Доськов Дмитрий Викторович": 7,
-      "Паньков Олег Григорьевич": 2,
-      "Симонцев Александр Сергеевич": 0,
-      "Сысоев Евгений Олегович": 4,
-      "Фургал Сергей Иванович": 14,
-      "Швецов Эдуард Александрович": 1
+      "gas:candidate-vibid:2272000772163": 8,
+      "gas:candidate-vibid:2272000772396": 7,
+      "gas:candidate-vibid:2272000774641": 2,
+      "gas:candidate-vibid:2272000774545": 0,
+      "gas:candidate-vibid:2272000774612": 4,
+      "gas:candidate-vibid:2272000743808": 14,
+      "gas:candidate-vibid:2272000775314": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 168,
-      "Доськов Дмитрий Викторович": 44,
-      "Паньков Олег Григорьевич": 30,
-      "Симонцев Александр Сергеевич": 20,
-      "Сысоев Евгений Олегович": 108,
-      "Фургал Сергей Иванович": 134,
-      "Швецов Эдуард Александрович": 22
+      "gas:candidate-vibid:2272000772163": 168,
+      "gas:candidate-vibid:2272000772396": 44,
+      "gas:candidate-vibid:2272000774641": 30,
+      "gas:candidate-vibid:2272000774545": 20,
+      "gas:candidate-vibid:2272000774612": 108,
+      "gas:candidate-vibid:2272000743808": 134,
+      "gas:candidate-vibid:2272000775314": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 36,
-      "Доськов Дмитрий Викторович": 27,
-      "Паньков Олег Григорьевич": 18,
-      "Симонцев Александр Сергеевич": 5,
-      "Сысоев Евгений Олегович": 44,
-      "Фургал Сергей Иванович": 44,
-      "Швецов Эдуард Александрович": 8
+      "gas:candidate-vibid:2272000772163": 36,
+      "gas:candidate-vibid:2272000772396": 27,
+      "gas:candidate-vibid:2272000774641": 18,
+      "gas:candidate-vibid:2272000774545": 5,
+      "gas:candidate-vibid:2272000774612": 44,
+      "gas:candidate-vibid:2272000743808": 44,
+      "gas:candidate-vibid:2272000775314": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 51,
-      "Доськов Дмитрий Викторович": 22,
-      "Паньков Олег Григорьевич": 13,
-      "Симонцев Александр Сергеевич": 8,
-      "Сысоев Евгений Олегович": 49,
-      "Фургал Сергей Иванович": 80,
-      "Швецов Эдуард Александрович": 24
+      "gas:candidate-vibid:2272000772163": 51,
+      "gas:candidate-vibid:2272000772396": 22,
+      "gas:candidate-vibid:2272000774641": 13,
+      "gas:candidate-vibid:2272000774545": 8,
+      "gas:candidate-vibid:2272000774612": 49,
+      "gas:candidate-vibid:2272000743808": 80,
+      "gas:candidate-vibid:2272000775314": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 22,
-      "Доськов Дмитрий Викторович": 14,
-      "Паньков Олег Григорьевич": 12,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 25,
-      "Фургал Сергей Иванович": 19,
-      "Швецов Эдуард Александрович": 5
+      "gas:candidate-vibid:2272000772163": 22,
+      "gas:candidate-vibid:2272000772396": 14,
+      "gas:candidate-vibid:2272000774641": 12,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 25,
+      "gas:candidate-vibid:2272000743808": 19,
+      "gas:candidate-vibid:2272000775314": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 70,
-      "Доськов Дмитрий Викторович": 27,
-      "Паньков Олег Григорьевич": 7,
-      "Симонцев Александр Сергеевич": 4,
-      "Сысоев Евгений Олегович": 39,
-      "Фургал Сергей Иванович": 139,
-      "Швецов Эдуард Александрович": 25
+      "gas:candidate-vibid:2272000772163": 70,
+      "gas:candidate-vibid:2272000772396": 27,
+      "gas:candidate-vibid:2272000774641": 7,
+      "gas:candidate-vibid:2272000774545": 4,
+      "gas:candidate-vibid:2272000774612": 39,
+      "gas:candidate-vibid:2272000743808": 139,
+      "gas:candidate-vibid:2272000775314": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 20,
-      "Доськов Дмитрий Викторович": 4,
-      "Паньков Олег Григорьевич": 4,
-      "Симонцев Александр Сергеевич": 3,
-      "Сысоев Евгений Олегович": 7,
-      "Фургал Сергей Иванович": 15,
-      "Швецов Эдуард Александрович": 2
+      "gas:candidate-vibid:2272000772163": 20,
+      "gas:candidate-vibid:2272000772396": 4,
+      "gas:candidate-vibid:2272000774641": 4,
+      "gas:candidate-vibid:2272000774545": 3,
+      "gas:candidate-vibid:2272000774612": 7,
+      "gas:candidate-vibid:2272000743808": 15,
+      "gas:candidate-vibid:2272000775314": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 89,
-      "Доськов Дмитрий Викторович": 31,
-      "Паньков Олег Григорьевич": 24,
-      "Симонцев Александр Сергеевич": 12,
-      "Сысоев Евгений Олегович": 69,
-      "Фургал Сергей Иванович": 210,
-      "Швецов Эдуард Александрович": 31
+      "gas:candidate-vibid:2272000772163": 89,
+      "gas:candidate-vibid:2272000772396": 31,
+      "gas:candidate-vibid:2272000774641": 24,
+      "gas:candidate-vibid:2272000774545": 12,
+      "gas:candidate-vibid:2272000774612": 69,
+      "gas:candidate-vibid:2272000743808": 210,
+      "gas:candidate-vibid:2272000775314": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 12,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 0,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 17,
-      "Фургал Сергей Иванович": 65,
-      "Швецов Эдуард Александрович": 7
+      "gas:candidate-vibid:2272000772163": 12,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 0,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 17,
+      "gas:candidate-vibid:2272000743808": 65,
+      "gas:candidate-vibid:2272000775314": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 12,
-      "Доськов Дмитрий Викторович": 6,
-      "Паньков Олег Григорьевич": 0,
-      "Симонцев Александр Сергеевич": 1,
-      "Сысоев Евгений Олегович": 3,
-      "Фургал Сергей Иванович": 30,
-      "Швецов Эдуард Александрович": 1
+      "gas:candidate-vibid:2272000772163": 12,
+      "gas:candidate-vibid:2272000772396": 6,
+      "gas:candidate-vibid:2272000774641": 0,
+      "gas:candidate-vibid:2272000774545": 1,
+      "gas:candidate-vibid:2272000774612": 3,
+      "gas:candidate-vibid:2272000743808": 30,
+      "gas:candidate-vibid:2272000775314": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_27_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Воеводин Вадим Александрович": 1,
-      "Доськов Дмитрий Викторович": 0,
-      "Паньков Олег Григорьевич": 0,
-      "Симонцев Александр Сергеевич": 0,
-      "Сысоев Евгений Олегович": 0,
-      "Фургал Сергей Иванович": 12,
-      "Швецов Эдуард Александрович": 1
+      "gas:candidate-vibid:2272000772163": 1,
+      "gas:candidate-vibid:2272000772396": 0,
+      "gas:candidate-vibid:2272000774641": 0,
+      "gas:candidate-vibid:2272000774545": 0,
+      "gas:candidate-vibid:2272000774612": 0,
+      "gas:candidate-vibid:2272000743808": 12,
+      "gas:candidate-vibid:2272000775314": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khabarovsk?action=show&root=1000087&tvd=2272000676940&vrn=100100067795849&region=27&global=&sub_region=27&prver=0&pronetvd=null&vibid=2272000676940&type=464",

@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 53,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 72,
-      "Мишкин Валерий Николаевич": 14,
-      "Николаева Виктория Викторовна": 229,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 17
+      "gas:candidate-vibid:22520001122541": 53,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 72,
+      "gas:candidate-vibid:22520001123784": 14,
+      "gas:candidate-vibid:22520001070855": 229,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 21,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 36,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 64,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 21,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 36,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 64,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 32,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 52,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 87,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 32,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 52,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 87,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 10,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 12,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 14,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 10,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 12,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 14,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 33,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 53,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 64,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 33,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 53,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 64,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 9,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 13,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 28,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 9,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 13,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 28,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 32,
-      "Журлов Григорий Викторович": 11,
-      "Зотов Евгений Александрович": 35,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 43,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 32,
+      "gas:candidate-vibid:22520001123847": 11,
+      "gas:candidate-vibid:22520001065918": 35,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 43,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 20,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 56,
-      "Мишкин Валерий Николаевич": 9,
-      "Николаева Виктория Викторовна": 148,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 11
+      "gas:candidate-vibid:22520001122541": 20,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 56,
+      "gas:candidate-vibid:22520001123784": 9,
+      "gas:candidate-vibid:22520001070855": 148,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 19,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 28,
-      "Мишкин Валерий Николаевич": 9,
-      "Николаева Виктория Викторовна": 41,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 19,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 28,
+      "gas:candidate-vibid:22520001123784": 9,
+      "gas:candidate-vibid:22520001070855": 41,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 28,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 62,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 84,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 28,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 62,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 84,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 13,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 32,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 50,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 13,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 32,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 50,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 39,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 85,
-      "Мишкин Валерий Николаевич": 13,
-      "Николаева Виктория Викторовна": 122,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 21
+      "gas:candidate-vibid:22520001122541": 39,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 85,
+      "gas:candidate-vibid:22520001123784": 13,
+      "gas:candidate-vibid:22520001070855": 122,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 32,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 58,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 114,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 20
+      "gas:candidate-vibid:22520001122541": 32,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 58,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 114,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 14,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 48,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 22,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 5
+      "gas:candidate-vibid:22520001122541": 14,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 48,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 22,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 34,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 58,
-      "Мишкин Валерий Николаевич": 21,
-      "Николаева Виктория Викторовна": 40,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 9
+      "gas:candidate-vibid:22520001122541": 34,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 58,
+      "gas:candidate-vibid:22520001123784": 21,
+      "gas:candidate-vibid:22520001070855": 40,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 5,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 13,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 5,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 5,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 13,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 5,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 14,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 14,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 13,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 14,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 14,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 13,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999754&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999754&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 60,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 44,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 130,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 60,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 44,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 130,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 37,
-      "Журлов Григорий Викторович": 10,
-      "Зотов Евгений Александрович": 45,
-      "Мишкин Валерий Николаевич": 15,
-      "Николаева Виктория Викторовна": 150,
-      "Суляндзига Павел Васильевич": 8,
-      "Фролов Дмитрий Андреевич": 14
+      "gas:candidate-vibid:22520001122541": 37,
+      "gas:candidate-vibid:22520001123847": 10,
+      "gas:candidate-vibid:22520001065918": 45,
+      "gas:candidate-vibid:22520001123784": 15,
+      "gas:candidate-vibid:22520001070855": 150,
+      "gas:candidate-vibid:22520001122487": 8,
+      "gas:candidate-vibid:22520001123399": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 49,
-      "Журлов Григорий Викторович": 13,
-      "Зотов Евгений Александрович": 25,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 141,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 13
+      "gas:candidate-vibid:22520001122541": 49,
+      "gas:candidate-vibid:22520001123847": 13,
+      "gas:candidate-vibid:22520001065918": 25,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 141,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 30,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 27,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 100,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 30,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 27,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 100,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 21,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 54,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 110,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 18
+      "gas:candidate-vibid:22520001122541": 21,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 54,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 110,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 39,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 35,
-      "Мишкин Валерий Николаевич": 20,
-      "Николаева Виктория Викторовна": 143,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 19
+      "gas:candidate-vibid:22520001122541": 39,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 35,
+      "gas:candidate-vibid:22520001123784": 20,
+      "gas:candidate-vibid:22520001070855": 143,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 39,
-      "Журлов Григорий Викторович": 10,
-      "Зотов Евгений Александрович": 45,
-      "Мишкин Валерий Николаевич": 22,
-      "Николаева Виктория Викторовна": 128,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 18
+      "gas:candidate-vibid:22520001122541": 39,
+      "gas:candidate-vibid:22520001123847": 10,
+      "gas:candidate-vibid:22520001065918": 45,
+      "gas:candidate-vibid:22520001123784": 22,
+      "gas:candidate-vibid:22520001070855": 128,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 32,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 47,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 117,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 32,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 47,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 117,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 19,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 43,
-      "Мишкин Валерий Николаевич": 9,
-      "Николаева Виктория Викторовна": 186,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 18
+      "gas:candidate-vibid:22520001122541": 19,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 43,
+      "gas:candidate-vibid:22520001123784": 9,
+      "gas:candidate-vibid:22520001070855": 186,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 2,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 10,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 33,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 2,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 10,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 33,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 56,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 33,
-      "Мишкин Валерий Николаевич": 24,
-      "Николаева Виктория Викторовна": 106,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 20
+      "gas:candidate-vibid:22520001122541": 56,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 33,
+      "gas:candidate-vibid:22520001123784": 24,
+      "gas:candidate-vibid:22520001070855": 106,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 5,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 7,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 31,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 5,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 7,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 31,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 72,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 76,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 140,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 24
+      "gas:candidate-vibid:22520001122541": 72,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 76,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 140,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 38,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 39,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 95,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 8
+      "gas:candidate-vibid:22520001122541": 38,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 39,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 95,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 50,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 32,
-      "Мишкин Валерий Николаевич": 14,
-      "Николаева Виктория Викторовна": 98,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 19
+      "gas:candidate-vibid:22520001122541": 50,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 32,
+      "gas:candidate-vibid:22520001123784": 14,
+      "gas:candidate-vibid:22520001070855": 98,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 61,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 50,
-      "Мишкин Валерий Николаевич": 23,
-      "Николаева Виктория Викторовна": 247,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 15
+      "gas:candidate-vibid:22520001122541": 61,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 50,
+      "gas:candidate-vibid:22520001123784": 23,
+      "gas:candidate-vibid:22520001070855": 247,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 85,
-      "Журлов Григорий Викторович": 8,
-      "Зотов Евгений Александрович": 68,
-      "Мишкин Валерий Николаевич": 19,
-      "Николаева Виктория Викторовна": 159,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 15
+      "gas:candidate-vibid:22520001122541": 85,
+      "gas:candidate-vibid:22520001123847": 8,
+      "gas:candidate-vibid:22520001065918": 68,
+      "gas:candidate-vibid:22520001123784": 19,
+      "gas:candidate-vibid:22520001070855": 159,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 4,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 21,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 68,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 4,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 21,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 68,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 16,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 22,
-      "Мишкин Валерий Николаевич": 7,
-      "Николаева Виктория Викторовна": 92,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 16,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 22,
+      "gas:candidate-vibid:22520001123784": 7,
+      "gas:candidate-vibid:22520001070855": 92,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 17,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 28,
-      "Мишкин Валерий Николаевич": 13,
-      "Николаева Виктория Викторовна": 135,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 17,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 28,
+      "gas:candidate-vibid:22520001123784": 13,
+      "gas:candidate-vibid:22520001070855": 135,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 7,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 2,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 55,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 7,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 2,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 55,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 18,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 36,
-      "Мишкин Валерий Николаевич": 18,
-      "Николаева Виктория Викторовна": 121,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 18,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 36,
+      "gas:candidate-vibid:22520001123784": 18,
+      "gas:candidate-vibid:22520001070855": 121,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 28,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 58,
-      "Мишкин Валерий Николаевич": 21,
-      "Николаева Виктория Викторовна": 182,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 28
+      "gas:candidate-vibid:22520001122541": 28,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 58,
+      "gas:candidate-vibid:22520001123784": 21,
+      "gas:candidate-vibid:22520001070855": 182,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 8,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 14,
-      "Мишкин Валерий Николаевич": 12,
-      "Николаева Виктория Викторовна": 96,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 5
+      "gas:candidate-vibid:22520001122541": 8,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 14,
+      "gas:candidate-vibid:22520001123784": 12,
+      "gas:candidate-vibid:22520001070855": 96,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 2,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 0,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 2,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 2,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 0,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 2,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 0,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 0,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 4,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 0,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 0,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 4,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 6,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 14,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 30,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 6,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 14,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 30,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 1,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 12,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 51,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 1,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 12,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 51,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 2,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 2,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 23,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 2,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 2,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 23,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 4,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 2,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 21,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 4,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 2,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 21,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 1,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 8,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 15,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 1,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 8,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 15,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 4,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 3,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 8,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 4,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 3,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 8,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 4,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 6,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 6,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 4,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 6,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 6,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 0,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 0,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 14,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 0,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 0,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 14,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 1,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 1,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 0,
-      "Суляндзига Павел Васильевич": 19,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 1,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 1,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 0,
+      "gas:candidate-vibid:22520001122487": 19,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 1,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 7,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 14,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 1,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 7,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 14,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 4,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 2,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 2,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 4,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 2,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 2,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999755&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999755&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 33,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 29,
-      "Мишкин Валерий Николаевич": 11,
-      "Николаева Виктория Викторовна": 144,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 33,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 29,
+      "gas:candidate-vibid:22520001123784": 11,
+      "gas:candidate-vibid:22520001070855": 144,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 3,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 5,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 49,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 3,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 5,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 49,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 17,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 17,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 86,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 17,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 17,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 86,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 38,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 8,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 11,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 38,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 8,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 11,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 1,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 6,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 12,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 1,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 6,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 12,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 31,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 26,
-      "Мишкин Валерий Николаевич": 9,
-      "Николаева Виктория Викторовна": 65,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 9
+      "gas:candidate-vibid:22520001122541": 31,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 26,
+      "gas:candidate-vibid:22520001123784": 9,
+      "gas:candidate-vibid:22520001070855": 65,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 8,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 14,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 50,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 8,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 14,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 50,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 21,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 20,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 67,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 21,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 20,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 67,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 328,
-      "Журлов Григорий Викторович": 32,
-      "Зотов Евгений Александрович": 227,
-      "Мишкин Валерий Николаевич": 67,
-      "Николаева Виктория Викторовна": 444,
-      "Суляндзига Павел Васильевич": 89,
-      "Фролов Дмитрий Андреевич": 51
+      "gas:candidate-vibid:22520001122541": 328,
+      "gas:candidate-vibid:22520001123847": 32,
+      "gas:candidate-vibid:22520001065918": 227,
+      "gas:candidate-vibid:22520001123784": 67,
+      "gas:candidate-vibid:22520001070855": 444,
+      "gas:candidate-vibid:22520001122487": 89,
+      "gas:candidate-vibid:22520001123399": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 21,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 7,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 23,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 21,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 7,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 23,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 16,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 16,
-      "Мишкин Валерий Николаевич": 7,
-      "Николаева Виктория Викторовна": 49,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 16,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 16,
+      "gas:candidate-vibid:22520001123784": 7,
+      "gas:candidate-vibid:22520001070855": 49,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 3,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 3,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 18,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 3,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 3,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 18,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 62,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 56,
-      "Мишкин Валерий Николаевич": 18,
-      "Николаева Виктория Викторовна": 131,
-      "Суляндзига Павел Васильевич": 19,
-      "Фролов Дмитрий Андреевич": 8
+      "gas:candidate-vibid:22520001122541": 62,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 56,
+      "gas:candidate-vibid:22520001123784": 18,
+      "gas:candidate-vibid:22520001070855": 131,
+      "gas:candidate-vibid:22520001122487": 19,
+      "gas:candidate-vibid:22520001123399": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 163,
-      "Журлов Григорий Викторович": 19,
-      "Зотов Евгений Александрович": 127,
-      "Мишкин Валерий Николаевич": 36,
-      "Николаева Виктория Викторовна": 195,
-      "Суляндзига Павел Васильевич": 41,
-      "Фролов Дмитрий Андреевич": 33
+      "gas:candidate-vibid:22520001122541": 163,
+      "gas:candidate-vibid:22520001123847": 19,
+      "gas:candidate-vibid:22520001065918": 127,
+      "gas:candidate-vibid:22520001123784": 36,
+      "gas:candidate-vibid:22520001070855": 195,
+      "gas:candidate-vibid:22520001122487": 41,
+      "gas:candidate-vibid:22520001123399": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 122,
-      "Журлов Григорий Викторович": 18,
-      "Зотов Евгений Александрович": 98,
-      "Мишкин Валерий Николаевич": 31,
-      "Николаева Виктория Викторовна": 136,
-      "Суляндзига Павел Васильевич": 30,
-      "Фролов Дмитрий Андреевич": 29
+      "gas:candidate-vibid:22520001122541": 122,
+      "gas:candidate-vibid:22520001123847": 18,
+      "gas:candidate-vibid:22520001065918": 98,
+      "gas:candidate-vibid:22520001123784": 31,
+      "gas:candidate-vibid:22520001070855": 136,
+      "gas:candidate-vibid:22520001122487": 30,
+      "gas:candidate-vibid:22520001123399": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 26,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 10,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 23,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 26,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 10,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 23,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 23,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 25,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 82,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 5
+      "gas:candidate-vibid:22520001122541": 23,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 25,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 82,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 17,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 13,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 49,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 5
+      "gas:candidate-vibid:22520001122541": 17,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 13,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 49,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 133,
-      "Журлов Григорий Викторович": 16,
-      "Зотов Евгений Александрович": 83,
-      "Мишкин Валерий Николаевич": 33,
-      "Николаева Виктория Викторовна": 180,
-      "Суляндзига Павел Васильевич": 24,
-      "Фролов Дмитрий Андреевич": 33
+      "gas:candidate-vibid:22520001122541": 133,
+      "gas:candidate-vibid:22520001123847": 16,
+      "gas:candidate-vibid:22520001065918": 83,
+      "gas:candidate-vibid:22520001123784": 33,
+      "gas:candidate-vibid:22520001070855": 180,
+      "gas:candidate-vibid:22520001122487": 24,
+      "gas:candidate-vibid:22520001123399": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 149,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 80,
-      "Мишкин Валерий Николаевич": 33,
-      "Николаева Виктория Викторовна": 146,
-      "Суляндзига Павел Васильевич": 22,
-      "Фролов Дмитрий Андреевич": 19
+      "gas:candidate-vibid:22520001122541": 149,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 80,
+      "gas:candidate-vibid:22520001123784": 33,
+      "gas:candidate-vibid:22520001070855": 146,
+      "gas:candidate-vibid:22520001122487": 22,
+      "gas:candidate-vibid:22520001123399": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 31,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 28,
-      "Мишкин Валерий Николаевич": 9,
-      "Николаева Виктория Викторовна": 90,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 31,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 28,
+      "gas:candidate-vibid:22520001123784": 9,
+      "gas:candidate-vibid:22520001070855": 90,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 168,
-      "Журлов Григорий Викторович": 16,
-      "Зотов Евгений Александрович": 89,
-      "Мишкин Валерий Николаевич": 28,
-      "Николаева Виктория Викторовна": 148,
-      "Суляндзига Павел Васильевич": 29,
-      "Фролов Дмитрий Андреевич": 26
+      "gas:candidate-vibid:22520001122541": 168,
+      "gas:candidate-vibid:22520001123847": 16,
+      "gas:candidate-vibid:22520001065918": 89,
+      "gas:candidate-vibid:22520001123784": 28,
+      "gas:candidate-vibid:22520001070855": 148,
+      "gas:candidate-vibid:22520001122487": 29,
+      "gas:candidate-vibid:22520001123399": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 26,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 13,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 23,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 26,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 13,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 23,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 1,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 15,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 7,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 1,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 15,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 7,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 7,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 15,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 31,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 7,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 15,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 31,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999756&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999756&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 31,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 26,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 53,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 5
+      "gas:candidate-vibid:22520001122541": 31,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 26,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 53,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 10,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 10,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 29,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 10,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 10,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 29,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 26,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 20,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 70,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 26,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 20,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 70,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 6,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 1,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 12,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 6,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 1,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 12,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 0,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 17,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 21,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 1
+      "gas:candidate-vibid:22520001122541": 0,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 17,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 21,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 11,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 10,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 26,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 11,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 10,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 26,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 39,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 60,
-      "Мишкин Валерий Николаевич": 18,
-      "Николаева Виктория Викторовна": 142,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 39,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 60,
+      "gas:candidate-vibid:22520001123784": 18,
+      "gas:candidate-vibid:22520001070855": 142,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 17,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 19,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 32,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 17,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 19,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 32,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 48,
-      "Журлов Григорий Викторович": 13,
-      "Зотов Евгений Александрович": 88,
-      "Мишкин Валерий Николаевич": 19,
-      "Николаева Виктория Викторовна": 137,
-      "Суляндзига Павел Васильевич": 14,
-      "Фролов Дмитрий Андреевич": 31
+      "gas:candidate-vibid:22520001122541": 48,
+      "gas:candidate-vibid:22520001123847": 13,
+      "gas:candidate-vibid:22520001065918": 88,
+      "gas:candidate-vibid:22520001123784": 19,
+      "gas:candidate-vibid:22520001070855": 137,
+      "gas:candidate-vibid:22520001122487": 14,
+      "gas:candidate-vibid:22520001123399": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 18,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 45,
-      "Мишкин Валерий Николаевич": 7,
-      "Николаева Виктория Викторовна": 72,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 13
+      "gas:candidate-vibid:22520001122541": 18,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 45,
+      "gas:candidate-vibid:22520001123784": 7,
+      "gas:candidate-vibid:22520001070855": 72,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 28,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 55,
-      "Мишкин Валерий Николаевич": 15,
-      "Николаева Виктория Викторовна": 68,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 28,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 55,
+      "gas:candidate-vibid:22520001123784": 15,
+      "gas:candidate-vibid:22520001070855": 68,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 51,
-      "Журлов Григорий Викторович": 8,
-      "Зотов Евгений Александрович": 81,
-      "Мишкин Валерий Николаевич": 21,
-      "Николаева Виктория Викторовна": 138,
-      "Суляндзига Павел Васильевич": 8,
-      "Фролов Дмитрий Андреевич": 23
+      "gas:candidate-vibid:22520001122541": 51,
+      "gas:candidate-vibid:22520001123847": 8,
+      "gas:candidate-vibid:22520001065918": 81,
+      "gas:candidate-vibid:22520001123784": 21,
+      "gas:candidate-vibid:22520001070855": 138,
+      "gas:candidate-vibid:22520001122487": 8,
+      "gas:candidate-vibid:22520001123399": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 27,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 40,
-      "Мишкин Валерий Николаевич": 13,
-      "Николаева Виктория Викторовна": 74,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 27,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 40,
+      "gas:candidate-vibid:22520001123784": 13,
+      "gas:candidate-vibid:22520001070855": 74,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 71,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 70,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 129,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 22
+      "gas:candidate-vibid:22520001122541": 71,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 70,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 129,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 29,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 34,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 69,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 29,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 34,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 69,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 68,
-      "Журлов Григорий Викторович": 13,
-      "Зотов Евгений Александрович": 83,
-      "Мишкин Валерий Николаевич": 29,
-      "Николаева Виктория Викторовна": 166,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 28
+      "gas:candidate-vibid:22520001122541": 68,
+      "gas:candidate-vibid:22520001123847": 13,
+      "gas:candidate-vibid:22520001065918": 83,
+      "gas:candidate-vibid:22520001123784": 29,
+      "gas:candidate-vibid:22520001070855": 166,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 19,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 27,
-      "Мишкин Валерий Николаевич": 13,
-      "Николаева Виктория Викторовна": 43,
-      "Суляндзига Павел Васильевич": 10,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 19,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 27,
+      "gas:candidate-vibid:22520001123784": 13,
+      "gas:candidate-vibid:22520001070855": 43,
+      "gas:candidate-vibid:22520001122487": 10,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 36,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 39,
-      "Мишкин Валерий Николаевич": 10,
-      "Николаева Виктория Викторовна": 83,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 11
+      "gas:candidate-vibid:22520001122541": 36,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 39,
+      "gas:candidate-vibid:22520001123784": 10,
+      "gas:candidate-vibid:22520001070855": 83,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 13,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 29,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 62,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 13,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 29,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 62,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 15,
-      "Журлов Григорий Викторович": 8,
-      "Зотов Евгений Александрович": 29,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 65,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 9
+      "gas:candidate-vibid:22520001122541": 15,
+      "gas:candidate-vibid:22520001123847": 8,
+      "gas:candidate-vibid:22520001065918": 29,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 65,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 5,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 18,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 44,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 5,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 18,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 44,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 16,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 48,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 49,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 16,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 48,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 49,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 49,
-      "Журлов Григорий Викторович": 8,
-      "Зотов Евгений Александрович": 71,
-      "Мишкин Валерий Николаевич": 12,
-      "Николаева Виктория Викторовна": 107,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 24
+      "gas:candidate-vibid:22520001122541": 49,
+      "gas:candidate-vibid:22520001123847": 8,
+      "gas:candidate-vibid:22520001065918": 71,
+      "gas:candidate-vibid:22520001123784": 12,
+      "gas:candidate-vibid:22520001070855": 107,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 9,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 19,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 73,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 9,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 19,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 73,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 3,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 9,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 23,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 3,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 9,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 23,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 5,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 14,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 24,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 5,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 14,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 24,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 12,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 26,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 53,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 5
+      "gas:candidate-vibid:22520001122541": 12,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 26,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 53,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 8,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 3,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 16,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 8,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 3,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 16,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 12,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 21,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 39,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 12,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 21,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 39,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 21,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 14,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 63,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 21,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 14,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 63,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 3,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 9,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 10,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 3,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 9,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 10,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 47,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 65,
-      "Мишкин Валерий Николаевич": 11,
-      "Николаева Виктория Викторовна": 42,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 14
+      "gas:candidate-vibid:22520001122541": 47,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 65,
+      "gas:candidate-vibid:22520001123784": 11,
+      "gas:candidate-vibid:22520001070855": 42,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 71,
-      "Журлов Григорий Викторович": 11,
-      "Зотов Евгений Александрович": 77,
-      "Мишкин Валерий Николаевич": 20,
-      "Николаева Виктория Викторовна": 123,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 24
+      "gas:candidate-vibid:22520001122541": 71,
+      "gas:candidate-vibid:22520001123847": 11,
+      "gas:candidate-vibid:22520001065918": 77,
+      "gas:candidate-vibid:22520001123784": 20,
+      "gas:candidate-vibid:22520001070855": 123,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 26,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 34,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 29,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 26,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 34,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 29,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 47,
-      "Журлов Григорий Викторович": 8,
-      "Зотов Евгений Александрович": 52,
-      "Мишкин Валерий Николаевич": 10,
-      "Николаева Виктория Викторовна": 50,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 11
+      "gas:candidate-vibid:22520001122541": 47,
+      "gas:candidate-vibid:22520001123847": 8,
+      "gas:candidate-vibid:22520001065918": 52,
+      "gas:candidate-vibid:22520001123784": 10,
+      "gas:candidate-vibid:22520001070855": 50,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 31,
-      "Журлов Григорий Викторович": 8,
-      "Зотов Евгений Александрович": 25,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 33,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 31,
+      "gas:candidate-vibid:22520001123847": 8,
+      "gas:candidate-vibid:22520001065918": 25,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 33,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 35,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 30,
-      "Мишкин Валерий Николаевич": 7,
-      "Николаева Виктория Викторовна": 40,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 13
+      "gas:candidate-vibid:22520001122541": 35,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 30,
+      "gas:candidate-vibid:22520001123784": 7,
+      "gas:candidate-vibid:22520001070855": 40,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 20,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 29,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 36,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 20,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 29,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 36,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 100,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 93,
-      "Мишкин Валерий Николаевич": 23,
-      "Николаева Виктория Викторовна": 97,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 17
+      "gas:candidate-vibid:22520001122541": 100,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 93,
+      "gas:candidate-vibid:22520001123784": 23,
+      "gas:candidate-vibid:22520001070855": 97,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 6,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 1,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 6,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 0
+      "gas:candidate-vibid:22520001122541": 6,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 1,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 6,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999757&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999757&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 35,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 34,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 65,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 13
+      "gas:candidate-vibid:22520001122541": 35,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 34,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 65,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 30,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 10,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 34,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 30,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 10,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 34,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 12,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 9,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 33,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 12,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 9,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 33,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 37,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 28,
-      "Мишкин Валерий Николаевич": 7,
-      "Николаева Виктория Викторовна": 48,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 11
+      "gas:candidate-vibid:22520001122541": 37,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 28,
+      "gas:candidate-vibid:22520001123784": 7,
+      "gas:candidate-vibid:22520001070855": 48,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 20,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 21,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 52,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 8
+      "gas:candidate-vibid:22520001122541": 20,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 21,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 52,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 24,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 9,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 31,
-      "Суляндзига Павел Васильевич": 8,
-      "Фролов Дмитрий Андреевич": 13
+      "gas:candidate-vibid:22520001122541": 24,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 9,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 31,
+      "gas:candidate-vibid:22520001122487": 8,
+      "gas:candidate-vibid:22520001123399": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 116,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 71,
-      "Мишкин Валерий Николаевич": 32,
-      "Николаева Виктория Викторовна": 140,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 24
+      "gas:candidate-vibid:22520001122541": 116,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 71,
+      "gas:candidate-vibid:22520001123784": 32,
+      "gas:candidate-vibid:22520001070855": 140,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 125,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 53,
-      "Мишкин Валерий Николаевич": 24,
-      "Николаева Виктория Викторовна": 149,
-      "Суляндзига Павел Васильевич": 10,
-      "Фролов Дмитрий Андреевич": 34
+      "gas:candidate-vibid:22520001122541": 125,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 53,
+      "gas:candidate-vibid:22520001123784": 24,
+      "gas:candidate-vibid:22520001070855": 149,
+      "gas:candidate-vibid:22520001122487": 10,
+      "gas:candidate-vibid:22520001123399": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 86,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 64,
-      "Мишкин Валерий Николаевич": 15,
-      "Николаева Виктория Викторовна": 92,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 27
+      "gas:candidate-vibid:22520001122541": 86,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 64,
+      "gas:candidate-vibid:22520001123784": 15,
+      "gas:candidate-vibid:22520001070855": 92,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 178,
-      "Журлов Григорий Викторович": 16,
-      "Зотов Евгений Александрович": 107,
-      "Мишкин Валерий Николаевич": 33,
-      "Николаева Виктория Викторовна": 178,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 36
+      "gas:candidate-vibid:22520001122541": 178,
+      "gas:candidate-vibid:22520001123847": 16,
+      "gas:candidate-vibid:22520001065918": 107,
+      "gas:candidate-vibid:22520001123784": 33,
+      "gas:candidate-vibid:22520001070855": 178,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 136,
-      "Журлов Григорий Викторович": 19,
-      "Зотов Евгений Александрович": 93,
-      "Мишкин Валерий Николаевич": 35,
-      "Николаева Виктория Викторовна": 134,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 28
+      "gas:candidate-vibid:22520001122541": 136,
+      "gas:candidate-vibid:22520001123847": 19,
+      "gas:candidate-vibid:22520001065918": 93,
+      "gas:candidate-vibid:22520001123784": 35,
+      "gas:candidate-vibid:22520001070855": 134,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 173,
-      "Журлов Григорий Викторович": 16,
-      "Зотов Евгений Александрович": 82,
-      "Мишкин Валерий Николаевич": 32,
-      "Николаева Виктория Викторовна": 139,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 27
+      "gas:candidate-vibid:22520001122541": 173,
+      "gas:candidate-vibid:22520001123847": 16,
+      "gas:candidate-vibid:22520001065918": 82,
+      "gas:candidate-vibid:22520001123784": 32,
+      "gas:candidate-vibid:22520001070855": 139,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 154,
-      "Журлов Григорий Викторович": 18,
-      "Зотов Евгений Александрович": 93,
-      "Мишкин Валерий Николаевич": 42,
-      "Николаева Виктория Викторовна": 164,
-      "Суляндзига Павел Васильевич": 18,
-      "Фролов Дмитрий Андреевич": 38
+      "gas:candidate-vibid:22520001122541": 154,
+      "gas:candidate-vibid:22520001123847": 18,
+      "gas:candidate-vibid:22520001065918": 93,
+      "gas:candidate-vibid:22520001123784": 42,
+      "gas:candidate-vibid:22520001070855": 164,
+      "gas:candidate-vibid:22520001122487": 18,
+      "gas:candidate-vibid:22520001123399": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 191,
-      "Журлов Григорий Викторович": 19,
-      "Зотов Евгений Александрович": 92,
-      "Мишкин Валерий Николаевич": 35,
-      "Николаева Виктория Викторовна": 144,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 30
+      "gas:candidate-vibid:22520001122541": 191,
+      "gas:candidate-vibid:22520001123847": 19,
+      "gas:candidate-vibid:22520001065918": 92,
+      "gas:candidate-vibid:22520001123784": 35,
+      "gas:candidate-vibid:22520001070855": 144,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 184,
-      "Журлов Григорий Викторович": 16,
-      "Зотов Евгений Александрович": 94,
-      "Мишкин Валерий Николаевич": 30,
-      "Николаева Виктория Викторовна": 144,
-      "Суляндзига Павел Васильевич": 10,
-      "Фролов Дмитрий Андреевич": 40
+      "gas:candidate-vibid:22520001122541": 184,
+      "gas:candidate-vibid:22520001123847": 16,
+      "gas:candidate-vibid:22520001065918": 94,
+      "gas:candidate-vibid:22520001123784": 30,
+      "gas:candidate-vibid:22520001070855": 144,
+      "gas:candidate-vibid:22520001122487": 10,
+      "gas:candidate-vibid:22520001123399": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 144,
-      "Журлов Григорий Викторович": 13,
-      "Зотов Евгений Александрович": 80,
-      "Мишкин Валерий Николаевич": 24,
-      "Николаева Виктория Викторовна": 107,
-      "Суляндзига Павел Васильевич": 13,
-      "Фролов Дмитрий Андреевич": 29
+      "gas:candidate-vibid:22520001122541": 144,
+      "gas:candidate-vibid:22520001123847": 13,
+      "gas:candidate-vibid:22520001065918": 80,
+      "gas:candidate-vibid:22520001123784": 24,
+      "gas:candidate-vibid:22520001070855": 107,
+      "gas:candidate-vibid:22520001122487": 13,
+      "gas:candidate-vibid:22520001123399": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 83,
-      "Журлов Григорий Викторович": 17,
-      "Зотов Евгений Александрович": 67,
-      "Мишкин Валерий Николаевич": 13,
-      "Николаева Виктория Викторовна": 103,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 32
+      "gas:candidate-vibid:22520001122541": 83,
+      "gas:candidate-vibid:22520001123847": 17,
+      "gas:candidate-vibid:22520001065918": 67,
+      "gas:candidate-vibid:22520001123784": 13,
+      "gas:candidate-vibid:22520001070855": 103,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 162,
-      "Журлов Григорий Викторович": 15,
-      "Зотов Евгений Александрович": 78,
-      "Мишкин Валерий Николаевич": 31,
-      "Николаева Виктория Викторовна": 141,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 44
+      "gas:candidate-vibid:22520001122541": 162,
+      "gas:candidate-vibid:22520001123847": 15,
+      "gas:candidate-vibid:22520001065918": 78,
+      "gas:candidate-vibid:22520001123784": 31,
+      "gas:candidate-vibid:22520001070855": 141,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 75,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 47,
-      "Мишкин Валерий Николаевич": 20,
-      "Николаева Виктория Викторовна": 72,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 18
+      "gas:candidate-vibid:22520001122541": 75,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 47,
+      "gas:candidate-vibid:22520001123784": 20,
+      "gas:candidate-vibid:22520001070855": 72,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 45,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 35,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 62,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 14
+      "gas:candidate-vibid:22520001122541": 45,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 35,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 62,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 89,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 66,
-      "Мишкин Валерий Николаевич": 19,
-      "Николаева Виктория Викторовна": 86,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 19
+      "gas:candidate-vibid:22520001122541": 89,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 66,
+      "gas:candidate-vibid:22520001123784": 19,
+      "gas:candidate-vibid:22520001070855": 86,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 75,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 49,
-      "Мишкин Валерий Николаевич": 13,
-      "Николаева Виктория Викторовна": 81,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 11
+      "gas:candidate-vibid:22520001122541": 75,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 49,
+      "gas:candidate-vibid:22520001123784": 13,
+      "gas:candidate-vibid:22520001070855": 81,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 109,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 73,
-      "Мишкин Валерий Николаевич": 19,
-      "Николаева Виктория Викторовна": 158,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 36
+      "gas:candidate-vibid:22520001122541": 109,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 73,
+      "gas:candidate-vibid:22520001123784": 19,
+      "gas:candidate-vibid:22520001070855": 158,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 62,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 34,
-      "Мишкин Валерий Николаевич": 15,
-      "Николаева Виктория Викторовна": 60,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 62,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 34,
+      "gas:candidate-vibid:22520001123784": 15,
+      "gas:candidate-vibid:22520001070855": 60,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 37,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 21,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 47,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 37,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 21,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 47,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 8,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 16,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 13,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 8,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 16,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 13,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999758&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999758&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 145,
-      "Журлов Григорий Викторович": 10,
-      "Зотов Евгений Александрович": 81,
-      "Мишкин Валерий Николаевич": 27,
-      "Николаева Виктория Викторовна": 184,
-      "Суляндзига Павел Васильевич": 21,
-      "Фролов Дмитрий Андреевич": 44
+      "gas:candidate-vibid:22520001122541": 145,
+      "gas:candidate-vibid:22520001123847": 10,
+      "gas:candidate-vibid:22520001065918": 81,
+      "gas:candidate-vibid:22520001123784": 27,
+      "gas:candidate-vibid:22520001070855": 184,
+      "gas:candidate-vibid:22520001122487": 21,
+      "gas:candidate-vibid:22520001123399": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 154,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 87,
-      "Мишкин Валерий Николаевич": 40,
-      "Николаева Виктория Викторовна": 229,
-      "Суляндзига Павел Васильевич": 25,
-      "Фролов Дмитрий Андреевич": 35
+      "gas:candidate-vibid:22520001122541": 154,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 87,
+      "gas:candidate-vibid:22520001123784": 40,
+      "gas:candidate-vibid:22520001070855": 229,
+      "gas:candidate-vibid:22520001122487": 25,
+      "gas:candidate-vibid:22520001123399": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 166,
-      "Журлов Григорий Викторович": 14,
-      "Зотов Евгений Александрович": 127,
-      "Мишкин Валерий Николаевич": 34,
-      "Николаева Виктория Викторовна": 250,
-      "Суляндзига Павел Васильевич": 17,
-      "Фролов Дмитрий Андреевич": 29
+      "gas:candidate-vibid:22520001122541": 166,
+      "gas:candidate-vibid:22520001123847": 14,
+      "gas:candidate-vibid:22520001065918": 127,
+      "gas:candidate-vibid:22520001123784": 34,
+      "gas:candidate-vibid:22520001070855": 250,
+      "gas:candidate-vibid:22520001122487": 17,
+      "gas:candidate-vibid:22520001123399": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 151,
-      "Журлов Григорий Викторович": 10,
-      "Зотов Евгений Александрович": 92,
-      "Мишкин Валерий Николаевич": 36,
-      "Николаева Виктория Викторовна": 232,
-      "Суляндзига Павел Васильевич": 35,
-      "Фролов Дмитрий Андреевич": 28
+      "gas:candidate-vibid:22520001122541": 151,
+      "gas:candidate-vibid:22520001123847": 10,
+      "gas:candidate-vibid:22520001065918": 92,
+      "gas:candidate-vibid:22520001123784": 36,
+      "gas:candidate-vibid:22520001070855": 232,
+      "gas:candidate-vibid:22520001122487": 35,
+      "gas:candidate-vibid:22520001123399": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 72,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 59,
-      "Мишкин Валерий Николаевич": 23,
-      "Николаева Виктория Викторовна": 148,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 21
+      "gas:candidate-vibid:22520001122541": 72,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 59,
+      "gas:candidate-vibid:22520001123784": 23,
+      "gas:candidate-vibid:22520001070855": 148,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 84,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 73,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 166,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 23
+      "gas:candidate-vibid:22520001122541": 84,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 73,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 166,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 111,
-      "Журлов Григорий Викторович": 7,
-      "Зотов Евгений Александрович": 60,
-      "Мишкин Валерий Николаевич": 14,
-      "Николаева Виктория Викторовна": 156,
-      "Суляндзига Павел Васильевич": 21,
-      "Фролов Дмитрий Андреевич": 18
+      "gas:candidate-vibid:22520001122541": 111,
+      "gas:candidate-vibid:22520001123847": 7,
+      "gas:candidate-vibid:22520001065918": 60,
+      "gas:candidate-vibid:22520001123784": 14,
+      "gas:candidate-vibid:22520001070855": 156,
+      "gas:candidate-vibid:22520001122487": 21,
+      "gas:candidate-vibid:22520001123399": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 112,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 71,
-      "Мишкин Валерий Николаевич": 24,
-      "Николаева Виктория Викторовна": 136,
-      "Суляндзига Павел Васильевич": 14,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 112,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 71,
+      "gas:candidate-vibid:22520001123784": 24,
+      "gas:candidate-vibid:22520001070855": 136,
+      "gas:candidate-vibid:22520001122487": 14,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 85,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 87,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 112,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 20
+      "gas:candidate-vibid:22520001122541": 85,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 87,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 112,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 93,
-      "Журлов Григорий Викторович": 10,
-      "Зотов Евгений Александрович": 86,
-      "Мишкин Валерий Николаевич": 26,
-      "Николаева Виктория Викторовна": 172,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 93,
+      "gas:candidate-vibid:22520001123847": 10,
+      "gas:candidate-vibid:22520001065918": 86,
+      "gas:candidate-vibid:22520001123784": 26,
+      "gas:candidate-vibid:22520001070855": 172,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 106,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 91,
-      "Мишкин Валерий Николаевич": 26,
-      "Николаева Виктория Викторовна": 182,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 33
+      "gas:candidate-vibid:22520001122541": 106,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 91,
+      "gas:candidate-vibid:22520001123784": 26,
+      "gas:candidate-vibid:22520001070855": 182,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 86,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 82,
-      "Мишкин Валерий Николаевич": 21,
-      "Николаева Виктория Викторовна": 132,
-      "Суляндзига Павел Васильевич": 17,
-      "Фролов Дмитрий Андреевич": 20
+      "gas:candidate-vibid:22520001122541": 86,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 82,
+      "gas:candidate-vibid:22520001123784": 21,
+      "gas:candidate-vibid:22520001070855": 132,
+      "gas:candidate-vibid:22520001122487": 17,
+      "gas:candidate-vibid:22520001123399": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 84,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 82,
-      "Мишкин Валерий Николаевич": 13,
-      "Николаева Виктория Викторовна": 144,
-      "Суляндзига Павел Васильевич": 14,
-      "Фролов Дмитрий Андреевич": 17
+      "gas:candidate-vibid:22520001122541": 84,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 82,
+      "gas:candidate-vibid:22520001123784": 13,
+      "gas:candidate-vibid:22520001070855": 144,
+      "gas:candidate-vibid:22520001122487": 14,
+      "gas:candidate-vibid:22520001123399": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 91,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 85,
-      "Мишкин Валерий Николаевич": 23,
-      "Николаева Виктория Викторовна": 163,
-      "Суляндзига Павел Васильевич": 18,
-      "Фролов Дмитрий Андреевич": 11
+      "gas:candidate-vibid:22520001122541": 91,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 85,
+      "gas:candidate-vibid:22520001123784": 23,
+      "gas:candidate-vibid:22520001070855": 163,
+      "gas:candidate-vibid:22520001122487": 18,
+      "gas:candidate-vibid:22520001123399": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 98,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 78,
-      "Мишкин Валерий Николаевич": 22,
-      "Николаева Виктория Викторовна": 156,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 24
+      "gas:candidate-vibid:22520001122541": 98,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 78,
+      "gas:candidate-vibid:22520001123784": 22,
+      "gas:candidate-vibid:22520001070855": 156,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 91,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 65,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 87,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 20
+      "gas:candidate-vibid:22520001122541": 91,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 65,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 87,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 77,
-      "Журлов Григорий Викторович": 8,
-      "Зотов Евгений Александрович": 78,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 167,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 77,
+      "gas:candidate-vibid:22520001123847": 8,
+      "gas:candidate-vibid:22520001065918": 78,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 167,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 46,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 35,
-      "Мишкин Валерий Николаевич": 11,
-      "Николаева Виктория Викторовна": 89,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 22
+      "gas:candidate-vibid:22520001122541": 46,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 35,
+      "gas:candidate-vibid:22520001123784": 11,
+      "gas:candidate-vibid:22520001070855": 89,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 18,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 20,
-      "Мишкин Валерий Николаевич": 11,
-      "Николаева Виктория Викторовна": 55,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 18,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 20,
+      "gas:candidate-vibid:22520001123784": 11,
+      "gas:candidate-vibid:22520001070855": 55,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 15,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 3,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 28,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 15,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 3,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 28,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 78,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 50,
-      "Мишкин Валерий Николаевич": 12,
-      "Николаева Виктория Викторовна": 227,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 78,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 50,
+      "gas:candidate-vibid:22520001123784": 12,
+      "gas:candidate-vibid:22520001070855": 227,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 41,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 22,
-      "Мишкин Валерий Николаевич": 9,
-      "Николаева Виктория Викторовна": 79,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 15
+      "gas:candidate-vibid:22520001122541": 41,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 22,
+      "gas:candidate-vibid:22520001123784": 9,
+      "gas:candidate-vibid:22520001070855": 79,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999759&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999759&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 174,
-      "Журлов Григорий Викторович": 16,
-      "Зотов Евгений Александрович": 111,
-      "Мишкин Валерий Николаевич": 45,
-      "Николаева Виктория Викторовна": 270,
-      "Суляндзига Павел Васильевич": 15,
-      "Фролов Дмитрий Андреевич": 54
+      "gas:candidate-vibid:22520001122541": 174,
+      "gas:candidate-vibid:22520001123847": 16,
+      "gas:candidate-vibid:22520001065918": 111,
+      "gas:candidate-vibid:22520001123784": 45,
+      "gas:candidate-vibid:22520001070855": 270,
+      "gas:candidate-vibid:22520001122487": 15,
+      "gas:candidate-vibid:22520001123399": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 78,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 34,
-      "Мишкин Валерий Николаевич": 11,
-      "Николаева Виктория Викторовна": 113,
-      "Суляндзига Павел Васильевич": 8,
-      "Фролов Дмитрий Андреевич": 27
+      "gas:candidate-vibid:22520001122541": 78,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 34,
+      "gas:candidate-vibid:22520001123784": 11,
+      "gas:candidate-vibid:22520001070855": 113,
+      "gas:candidate-vibid:22520001122487": 8,
+      "gas:candidate-vibid:22520001123399": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 96,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 67,
-      "Мишкин Валерий Николаевич": 18,
-      "Николаева Виктория Викторовна": 148,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 14
+      "gas:candidate-vibid:22520001122541": 96,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 67,
+      "gas:candidate-vibid:22520001123784": 18,
+      "gas:candidate-vibid:22520001070855": 148,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 179,
-      "Журлов Григорий Викторович": 20,
-      "Зотов Евгений Александрович": 100,
-      "Мишкин Валерий Николаевич": 36,
-      "Николаева Виктория Викторовна": 189,
-      "Суляндзига Павел Васильевич": 19,
-      "Фролов Дмитрий Андреевич": 26
+      "gas:candidate-vibid:22520001122541": 179,
+      "gas:candidate-vibid:22520001123847": 20,
+      "gas:candidate-vibid:22520001065918": 100,
+      "gas:candidate-vibid:22520001123784": 36,
+      "gas:candidate-vibid:22520001070855": 189,
+      "gas:candidate-vibid:22520001122487": 19,
+      "gas:candidate-vibid:22520001123399": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 220,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 85,
-      "Мишкин Валерий Николаевич": 42,
-      "Николаева Виктория Викторовна": 257,
-      "Суляндзига Павел Васильевич": 20,
-      "Фролов Дмитрий Андреевич": 41
+      "gas:candidate-vibid:22520001122541": 220,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 85,
+      "gas:candidate-vibid:22520001123784": 42,
+      "gas:candidate-vibid:22520001070855": 257,
+      "gas:candidate-vibid:22520001122487": 20,
+      "gas:candidate-vibid:22520001123399": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 171,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 70,
-      "Мишкин Валерий Николаевич": 21,
-      "Николаева Виктория Викторовна": 189,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 22
+      "gas:candidate-vibid:22520001122541": 171,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 70,
+      "gas:candidate-vibid:22520001123784": 21,
+      "gas:candidate-vibid:22520001070855": 189,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 145,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 78,
-      "Мишкин Валерий Николаевич": 27,
-      "Николаева Виктория Викторовна": 139,
-      "Суляндзига Павел Васильевич": 16,
-      "Фролов Дмитрий Андреевич": 22
+      "gas:candidate-vibid:22520001122541": 145,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 78,
+      "gas:candidate-vibid:22520001123784": 27,
+      "gas:candidate-vibid:22520001070855": 139,
+      "gas:candidate-vibid:22520001122487": 16,
+      "gas:candidate-vibid:22520001123399": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 144,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 75,
-      "Мишкин Валерий Николаевич": 26,
-      "Николаева Виктория Викторовна": 173,
-      "Суляндзига Павел Васильевич": 16,
-      "Фролов Дмитрий Андреевич": 20
+      "gas:candidate-vibid:22520001122541": 144,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 75,
+      "gas:candidate-vibid:22520001123784": 26,
+      "gas:candidate-vibid:22520001070855": 173,
+      "gas:candidate-vibid:22520001122487": 16,
+      "gas:candidate-vibid:22520001123399": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 214,
-      "Журлов Григорий Викторович": 15,
-      "Зотов Евгений Александрович": 109,
-      "Мишкин Валерий Николаевич": 32,
-      "Николаева Виктория Викторовна": 216,
-      "Суляндзига Павел Васильевич": 17,
-      "Фролов Дмитрий Андреевич": 33
+      "gas:candidate-vibid:22520001122541": 214,
+      "gas:candidate-vibid:22520001123847": 15,
+      "gas:candidate-vibid:22520001065918": 109,
+      "gas:candidate-vibid:22520001123784": 32,
+      "gas:candidate-vibid:22520001070855": 216,
+      "gas:candidate-vibid:22520001122487": 17,
+      "gas:candidate-vibid:22520001123399": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 187,
-      "Журлов Григорий Викторович": 14,
-      "Зотов Евгений Александрович": 70,
-      "Мишкин Валерий Николаевич": 24,
-      "Николаева Виктория Викторовна": 176,
-      "Суляндзига Павел Васильевич": 18,
-      "Фролов Дмитрий Андреевич": 24
+      "gas:candidate-vibid:22520001122541": 187,
+      "gas:candidate-vibid:22520001123847": 14,
+      "gas:candidate-vibid:22520001065918": 70,
+      "gas:candidate-vibid:22520001123784": 24,
+      "gas:candidate-vibid:22520001070855": 176,
+      "gas:candidate-vibid:22520001122487": 18,
+      "gas:candidate-vibid:22520001123399": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 224,
-      "Журлов Григорий Викторович": 13,
-      "Зотов Евгений Александрович": 107,
-      "Мишкин Валерий Николаевич": 44,
-      "Николаева Виктория Викторовна": 257,
-      "Суляндзига Павел Васильевич": 24,
-      "Фролов Дмитрий Андреевич": 34
+      "gas:candidate-vibid:22520001122541": 224,
+      "gas:candidate-vibid:22520001123847": 13,
+      "gas:candidate-vibid:22520001065918": 107,
+      "gas:candidate-vibid:22520001123784": 44,
+      "gas:candidate-vibid:22520001070855": 257,
+      "gas:candidate-vibid:22520001122487": 24,
+      "gas:candidate-vibid:22520001123399": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 234,
-      "Журлов Григорий Викторович": 23,
-      "Зотов Евгений Александрович": 126,
-      "Мишкин Валерий Николаевич": 38,
-      "Николаева Виктория Викторовна": 278,
-      "Суляндзига Павел Васильевич": 19,
-      "Фролов Дмитрий Андреевич": 29
+      "gas:candidate-vibid:22520001122541": 234,
+      "gas:candidate-vibid:22520001123847": 23,
+      "gas:candidate-vibid:22520001065918": 126,
+      "gas:candidate-vibid:22520001123784": 38,
+      "gas:candidate-vibid:22520001070855": 278,
+      "gas:candidate-vibid:22520001122487": 19,
+      "gas:candidate-vibid:22520001123399": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 168,
-      "Журлов Григорий Викторович": 11,
-      "Зотов Евгений Александрович": 73,
-      "Мишкин Валерий Николаевич": 25,
-      "Николаева Виктория Викторовна": 212,
-      "Суляндзига Павел Васильевич": 21,
-      "Фролов Дмитрий Андреевич": 25
+      "gas:candidate-vibid:22520001122541": 168,
+      "gas:candidate-vibid:22520001123847": 11,
+      "gas:candidate-vibid:22520001065918": 73,
+      "gas:candidate-vibid:22520001123784": 25,
+      "gas:candidate-vibid:22520001070855": 212,
+      "gas:candidate-vibid:22520001122487": 21,
+      "gas:candidate-vibid:22520001123399": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 171,
-      "Журлов Григорий Викторович": 14,
-      "Зотов Евгений Александрович": 97,
-      "Мишкин Валерий Николаевич": 37,
-      "Николаева Виктория Викторовна": 227,
-      "Суляндзига Павел Васильевич": 21,
-      "Фролов Дмитрий Андреевич": 23
+      "gas:candidate-vibid:22520001122541": 171,
+      "gas:candidate-vibid:22520001123847": 14,
+      "gas:candidate-vibid:22520001065918": 97,
+      "gas:candidate-vibid:22520001123784": 37,
+      "gas:candidate-vibid:22520001070855": 227,
+      "gas:candidate-vibid:22520001122487": 21,
+      "gas:candidate-vibid:22520001123399": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 202,
-      "Журлов Григорий Викторович": 15,
-      "Зотов Евгений Александрович": 84,
-      "Мишкин Валерий Николаевич": 26,
-      "Николаева Виктория Викторовна": 215,
-      "Суляндзига Павел Васильевич": 22,
-      "Фролов Дмитрий Андреевич": 32
+      "gas:candidate-vibid:22520001122541": 202,
+      "gas:candidate-vibid:22520001123847": 15,
+      "gas:candidate-vibid:22520001065918": 84,
+      "gas:candidate-vibid:22520001123784": 26,
+      "gas:candidate-vibid:22520001070855": 215,
+      "gas:candidate-vibid:22520001122487": 22,
+      "gas:candidate-vibid:22520001123399": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 198,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 99,
-      "Мишкин Валерий Николаевич": 34,
-      "Николаева Виктория Викторовна": 186,
-      "Суляндзига Павел Васильевич": 16,
-      "Фролов Дмитрий Андреевич": 30
+      "gas:candidate-vibid:22520001122541": 198,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 99,
+      "gas:candidate-vibid:22520001123784": 34,
+      "gas:candidate-vibid:22520001070855": 186,
+      "gas:candidate-vibid:22520001122487": 16,
+      "gas:candidate-vibid:22520001123399": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 207,
-      "Журлов Григорий Викторович": 11,
-      "Зотов Евгений Александрович": 97,
-      "Мишкин Валерий Николаевич": 31,
-      "Николаева Виктория Викторовна": 214,
-      "Суляндзига Павел Васильевич": 26,
-      "Фролов Дмитрий Андреевич": 24
+      "gas:candidate-vibid:22520001122541": 207,
+      "gas:candidate-vibid:22520001123847": 11,
+      "gas:candidate-vibid:22520001065918": 97,
+      "gas:candidate-vibid:22520001123784": 31,
+      "gas:candidate-vibid:22520001070855": 214,
+      "gas:candidate-vibid:22520001122487": 26,
+      "gas:candidate-vibid:22520001123399": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 215,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 92,
-      "Мишкин Валерий Николаевич": 38,
-      "Николаева Виктория Викторовна": 246,
-      "Суляндзига Павел Васильевич": 23,
-      "Фролов Дмитрий Андреевич": 35
+      "gas:candidate-vibid:22520001122541": 215,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 92,
+      "gas:candidate-vibid:22520001123784": 38,
+      "gas:candidate-vibid:22520001070855": 246,
+      "gas:candidate-vibid:22520001122487": 23,
+      "gas:candidate-vibid:22520001123399": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 173,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 84,
-      "Мишкин Валерий Николаевич": 31,
-      "Николаева Виктория Викторовна": 212,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 36
+      "gas:candidate-vibid:22520001122541": 173,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 84,
+      "gas:candidate-vibid:22520001123784": 31,
+      "gas:candidate-vibid:22520001070855": 212,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 101,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 43,
-      "Мишкин Валерий Николаевич": 32,
-      "Николаева Виктория Викторовна": 164,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 26
+      "gas:candidate-vibid:22520001122541": 101,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 43,
+      "gas:candidate-vibid:22520001123784": 32,
+      "gas:candidate-vibid:22520001070855": 164,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 220,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 69,
-      "Мишкин Валерий Николаевич": 36,
-      "Николаева Виктория Викторовна": 343,
-      "Суляндзига Павел Васильевич": 17,
-      "Фролов Дмитрий Андреевич": 19
+      "gas:candidate-vibid:22520001122541": 220,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 69,
+      "gas:candidate-vibid:22520001123784": 36,
+      "gas:candidate-vibid:22520001070855": 343,
+      "gas:candidate-vibid:22520001122487": 17,
+      "gas:candidate-vibid:22520001123399": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 114,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 57,
-      "Мишкин Валерий Николаевич": 28,
-      "Николаева Виктория Викторовна": 248,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 22
+      "gas:candidate-vibid:22520001122541": 114,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 57,
+      "gas:candidate-vibid:22520001123784": 28,
+      "gas:candidate-vibid:22520001070855": 248,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999760&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999760&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 209,
-      "Журлов Григорий Викторович": 10,
-      "Зотов Евгений Александрович": 103,
-      "Мишкин Валерий Николаевич": 34,
-      "Николаева Виктория Викторовна": 191,
-      "Суляндзига Павел Васильевич": 22,
-      "Фролов Дмитрий Андреевич": 28
+      "gas:candidate-vibid:22520001122541": 209,
+      "gas:candidate-vibid:22520001123847": 10,
+      "gas:candidate-vibid:22520001065918": 103,
+      "gas:candidate-vibid:22520001123784": 34,
+      "gas:candidate-vibid:22520001070855": 191,
+      "gas:candidate-vibid:22520001122487": 22,
+      "gas:candidate-vibid:22520001123399": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 310,
-      "Журлов Григорий Викторович": 27,
-      "Зотов Евгений Александрович": 120,
-      "Мишкин Валерий Николаевич": 73,
-      "Николаева Виктория Викторовна": 285,
-      "Суляндзига Павел Васильевич": 28,
-      "Фролов Дмитрий Андреевич": 47
+      "gas:candidate-vibid:22520001122541": 310,
+      "gas:candidate-vibid:22520001123847": 27,
+      "gas:candidate-vibid:22520001065918": 120,
+      "gas:candidate-vibid:22520001123784": 73,
+      "gas:candidate-vibid:22520001070855": 285,
+      "gas:candidate-vibid:22520001122487": 28,
+      "gas:candidate-vibid:22520001123399": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 277,
-      "Журлов Григорий Викторович": 18,
-      "Зотов Евгений Александрович": 138,
-      "Мишкин Валерий Николаевич": 60,
-      "Николаева Виктория Викторовна": 244,
-      "Суляндзига Павел Васильевич": 23,
-      "Фролов Дмитрий Андреевич": 48
+      "gas:candidate-vibid:22520001122541": 277,
+      "gas:candidate-vibid:22520001123847": 18,
+      "gas:candidate-vibid:22520001065918": 138,
+      "gas:candidate-vibid:22520001123784": 60,
+      "gas:candidate-vibid:22520001070855": 244,
+      "gas:candidate-vibid:22520001122487": 23,
+      "gas:candidate-vibid:22520001123399": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 318,
-      "Журлов Григорий Викторович": 24,
-      "Зотов Евгений Александрович": 118,
-      "Мишкин Валерий Николаевич": 62,
-      "Николаева Виктория Викторовна": 260,
-      "Суляндзига Павел Васильевич": 27,
-      "Фролов Дмитрий Андреевич": 51
+      "gas:candidate-vibid:22520001122541": 318,
+      "gas:candidate-vibid:22520001123847": 24,
+      "gas:candidate-vibid:22520001065918": 118,
+      "gas:candidate-vibid:22520001123784": 62,
+      "gas:candidate-vibid:22520001070855": 260,
+      "gas:candidate-vibid:22520001122487": 27,
+      "gas:candidate-vibid:22520001123399": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 64,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 51,
-      "Мишкин Валерий Николаевич": 19,
-      "Николаева Виктория Викторовна": 99,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 14
+      "gas:candidate-vibid:22520001122541": 64,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 51,
+      "gas:candidate-vibid:22520001123784": 19,
+      "gas:candidate-vibid:22520001070855": 99,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 88,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 61,
-      "Мишкин Валерий Николаевич": 23,
-      "Николаева Виктория Викторовна": 123,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 17
+      "gas:candidate-vibid:22520001122541": 88,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 61,
+      "gas:candidate-vibid:22520001123784": 23,
+      "gas:candidate-vibid:22520001070855": 123,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 379,
-      "Журлов Григорий Викторович": 24,
-      "Зотов Евгений Александрович": 137,
-      "Мишкин Валерий Николаевич": 81,
-      "Николаева Виктория Викторовна": 261,
-      "Суляндзига Павел Васильевич": 36,
-      "Фролов Дмитрий Андреевич": 72
+      "gas:candidate-vibid:22520001122541": 379,
+      "gas:candidate-vibid:22520001123847": 24,
+      "gas:candidate-vibid:22520001065918": 137,
+      "gas:candidate-vibid:22520001123784": 81,
+      "gas:candidate-vibid:22520001070855": 261,
+      "gas:candidate-vibid:22520001122487": 36,
+      "gas:candidate-vibid:22520001123399": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 394,
-      "Журлов Григорий Викторович": 23,
-      "Зотов Евгений Александрович": 162,
-      "Мишкин Валерий Николаевич": 92,
-      "Николаева Виктория Викторовна": 273,
-      "Суляндзига Павел Васильевич": 31,
-      "Фролов Дмитрий Андреевич": 38
+      "gas:candidate-vibid:22520001122541": 394,
+      "gas:candidate-vibid:22520001123847": 23,
+      "gas:candidate-vibid:22520001065918": 162,
+      "gas:candidate-vibid:22520001123784": 92,
+      "gas:candidate-vibid:22520001070855": 273,
+      "gas:candidate-vibid:22520001122487": 31,
+      "gas:candidate-vibid:22520001123399": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 306,
-      "Журлов Григорий Викторович": 22,
-      "Зотов Евгений Александрович": 117,
-      "Мишкин Валерий Николаевич": 94,
-      "Николаева Виктория Викторовна": 283,
-      "Суляндзига Павел Васильевич": 41,
-      "Фролов Дмитрий Андреевич": 44
+      "gas:candidate-vibid:22520001122541": 306,
+      "gas:candidate-vibid:22520001123847": 22,
+      "gas:candidate-vibid:22520001065918": 117,
+      "gas:candidate-vibid:22520001123784": 94,
+      "gas:candidate-vibid:22520001070855": 283,
+      "gas:candidate-vibid:22520001122487": 41,
+      "gas:candidate-vibid:22520001123399": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 301,
-      "Журлов Григорий Викторович": 18,
-      "Зотов Евгений Александрович": 130,
-      "Мишкин Валерий Николаевич": 67,
-      "Николаева Виктория Викторовна": 251,
-      "Суляндзига Павел Васильевич": 19,
-      "Фролов Дмитрий Андреевич": 43
+      "gas:candidate-vibid:22520001122541": 301,
+      "gas:candidate-vibid:22520001123847": 18,
+      "gas:candidate-vibid:22520001065918": 130,
+      "gas:candidate-vibid:22520001123784": 67,
+      "gas:candidate-vibid:22520001070855": 251,
+      "gas:candidate-vibid:22520001122487": 19,
+      "gas:candidate-vibid:22520001123399": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 362,
-      "Журлов Григорий Викторович": 35,
-      "Зотов Евгений Александрович": 192,
-      "Мишкин Валерий Николаевич": 87,
-      "Николаева Виктория Викторовна": 339,
-      "Суляндзига Павел Васильевич": 46,
-      "Фролов Дмитрий Андреевич": 48
+      "gas:candidate-vibid:22520001122541": 362,
+      "gas:candidate-vibid:22520001123847": 35,
+      "gas:candidate-vibid:22520001065918": 192,
+      "gas:candidate-vibid:22520001123784": 87,
+      "gas:candidate-vibid:22520001070855": 339,
+      "gas:candidate-vibid:22520001122487": 46,
+      "gas:candidate-vibid:22520001123399": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 406,
-      "Журлов Григорий Викторович": 21,
-      "Зотов Евгений Александрович": 139,
-      "Мишкин Валерий Николаевич": 83,
-      "Николаева Виктория Викторовна": 297,
-      "Суляндзига Павел Васильевич": 40,
-      "Фролов Дмитрий Андреевич": 48
+      "gas:candidate-vibid:22520001122541": 406,
+      "gas:candidate-vibid:22520001123847": 21,
+      "gas:candidate-vibid:22520001065918": 139,
+      "gas:candidate-vibid:22520001123784": 83,
+      "gas:candidate-vibid:22520001070855": 297,
+      "gas:candidate-vibid:22520001122487": 40,
+      "gas:candidate-vibid:22520001123399": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 251,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 114,
-      "Мишкин Валерий Николаевич": 44,
-      "Николаева Виктория Викторовна": 232,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 44
+      "gas:candidate-vibid:22520001122541": 251,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 114,
+      "gas:candidate-vibid:22520001123784": 44,
+      "gas:candidate-vibid:22520001070855": 232,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 257,
-      "Журлов Григорий Викторович": 22,
-      "Зотов Евгений Александрович": 121,
-      "Мишкин Валерий Николаевич": 59,
-      "Николаева Виктория Викторовна": 257,
-      "Суляндзига Павел Васильевич": 22,
-      "Фролов Дмитрий Андреевич": 41
+      "gas:candidate-vibid:22520001122541": 257,
+      "gas:candidate-vibid:22520001123847": 22,
+      "gas:candidate-vibid:22520001065918": 121,
+      "gas:candidate-vibid:22520001123784": 59,
+      "gas:candidate-vibid:22520001070855": 257,
+      "gas:candidate-vibid:22520001122487": 22,
+      "gas:candidate-vibid:22520001123399": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 329,
-      "Журлов Григорий Викторович": 18,
-      "Зотов Евгений Александрович": 133,
-      "Мишкин Валерий Николаевич": 79,
-      "Николаева Виктория Викторовна": 297,
-      "Суляндзига Павел Васильевич": 27,
-      "Фролов Дмитрий Андреевич": 41
+      "gas:candidate-vibid:22520001122541": 329,
+      "gas:candidate-vibid:22520001123847": 18,
+      "gas:candidate-vibid:22520001065918": 133,
+      "gas:candidate-vibid:22520001123784": 79,
+      "gas:candidate-vibid:22520001070855": 297,
+      "gas:candidate-vibid:22520001122487": 27,
+      "gas:candidate-vibid:22520001123399": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 314,
-      "Журлов Григорий Викторович": 12,
-      "Зотов Евгений Александрович": 164,
-      "Мишкин Валерий Николаевич": 69,
-      "Николаева Виктория Викторовна": 260,
-      "Суляндзига Павел Васильевич": 26,
-      "Фролов Дмитрий Андреевич": 36
+      "gas:candidate-vibid:22520001122541": 314,
+      "gas:candidate-vibid:22520001123847": 12,
+      "gas:candidate-vibid:22520001065918": 164,
+      "gas:candidate-vibid:22520001123784": 69,
+      "gas:candidate-vibid:22520001070855": 260,
+      "gas:candidate-vibid:22520001122487": 26,
+      "gas:candidate-vibid:22520001123399": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 413,
-      "Журлов Григорий Викторович": 30,
-      "Зотов Евгений Александрович": 117,
-      "Мишкин Валерий Николаевич": 66,
-      "Николаева Виктория Викторовна": 231,
-      "Суляндзига Павел Васильевич": 38,
-      "Фролов Дмитрий Андреевич": 44
+      "gas:candidate-vibid:22520001122541": 413,
+      "gas:candidate-vibid:22520001123847": 30,
+      "gas:candidate-vibid:22520001065918": 117,
+      "gas:candidate-vibid:22520001123784": 66,
+      "gas:candidate-vibid:22520001070855": 231,
+      "gas:candidate-vibid:22520001122487": 38,
+      "gas:candidate-vibid:22520001123399": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 221,
-      "Журлов Григорий Викторович": 25,
-      "Зотов Евгений Александрович": 170,
-      "Мишкин Валерий Николаевич": 44,
-      "Николаева Виктория Викторовна": 242,
-      "Суляндзига Павел Васильевич": 26,
-      "Фролов Дмитрий Андреевич": 41
+      "gas:candidate-vibid:22520001122541": 221,
+      "gas:candidate-vibid:22520001123847": 25,
+      "gas:candidate-vibid:22520001065918": 170,
+      "gas:candidate-vibid:22520001123784": 44,
+      "gas:candidate-vibid:22520001070855": 242,
+      "gas:candidate-vibid:22520001122487": 26,
+      "gas:candidate-vibid:22520001123399": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 283,
-      "Журлов Григорий Викторович": 25,
-      "Зотов Евгений Александрович": 155,
-      "Мишкин Валерий Николаевич": 57,
-      "Николаева Виктория Викторовна": 273,
-      "Суляндзига Павел Васильевич": 34,
-      "Фролов Дмитрий Андреевич": 56
+      "gas:candidate-vibid:22520001122541": 283,
+      "gas:candidate-vibid:22520001123847": 25,
+      "gas:candidate-vibid:22520001065918": 155,
+      "gas:candidate-vibid:22520001123784": 57,
+      "gas:candidate-vibid:22520001070855": 273,
+      "gas:candidate-vibid:22520001122487": 34,
+      "gas:candidate-vibid:22520001123399": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 209,
-      "Журлов Григорий Викторович": 20,
-      "Зотов Евгений Александрович": 127,
-      "Мишкин Валерий Николаевич": 45,
-      "Николаева Виктория Викторовна": 235,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 36
+      "gas:candidate-vibid:22520001122541": 209,
+      "gas:candidate-vibid:22520001123847": 20,
+      "gas:candidate-vibid:22520001065918": 127,
+      "gas:candidate-vibid:22520001123784": 45,
+      "gas:candidate-vibid:22520001070855": 235,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 371,
-      "Журлов Григорий Викторович": 21,
-      "Зотов Евгений Александрович": 147,
-      "Мишкин Валерий Николаевич": 54,
-      "Николаева Виктория Викторовна": 287,
-      "Суляндзига Павел Васильевич": 34,
-      "Фролов Дмитрий Андреевич": 52
+      "gas:candidate-vibid:22520001122541": 371,
+      "gas:candidate-vibid:22520001123847": 21,
+      "gas:candidate-vibid:22520001065918": 147,
+      "gas:candidate-vibid:22520001123784": 54,
+      "gas:candidate-vibid:22520001070855": 287,
+      "gas:candidate-vibid:22520001122487": 34,
+      "gas:candidate-vibid:22520001123399": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999761&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999761&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 66,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 44,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 92,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 9
+      "gas:candidate-vibid:22520001122541": 66,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 44,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 92,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 69,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 47,
-      "Мишкин Валерий Николаевич": 19,
-      "Николаева Виктория Викторовна": 155,
-      "Суляндзига Павел Васильевич": 9,
-      "Фролов Дмитрий Андреевич": 15
+      "gas:candidate-vibid:22520001122541": 69,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 47,
+      "gas:candidate-vibid:22520001123784": 19,
+      "gas:candidate-vibid:22520001070855": 155,
+      "gas:candidate-vibid:22520001122487": 9,
+      "gas:candidate-vibid:22520001123399": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 74,
-      "Журлов Григорий Викторович": 11,
-      "Зотов Евгений Александрович": 49,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 109,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 13
+      "gas:candidate-vibid:22520001122541": 74,
+      "gas:candidate-vibid:22520001123847": 11,
+      "gas:candidate-vibid:22520001065918": 49,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 109,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 50,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 46,
-      "Мишкин Валерий Николаевич": 10,
-      "Николаева Виктория Викторовна": 119,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 22
+      "gas:candidate-vibid:22520001122541": 50,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 46,
+      "gas:candidate-vibid:22520001123784": 10,
+      "gas:candidate-vibid:22520001070855": 119,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 25,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 20,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 67,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 25,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 20,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 67,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 34,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 25,
-      "Мишкин Валерий Николаевич": 7,
-      "Николаева Виктория Викторовна": 68,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 13
+      "gas:candidate-vibid:22520001122541": 34,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 25,
+      "gas:candidate-vibid:22520001123784": 7,
+      "gas:candidate-vibid:22520001070855": 68,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 32,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 15,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 33,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 32,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 15,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 33,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 15,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 9,
-      "Мишкин Валерий Николаевич": 1,
-      "Николаева Виктория Викторовна": 55,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 15,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 9,
+      "gas:candidate-vibid:22520001123784": 1,
+      "gas:candidate-vibid:22520001070855": 55,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 21,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 17,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 39,
-      "Суляндзига Павел Васильевич": 1,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 21,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 17,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 39,
+      "gas:candidate-vibid:22520001122487": 1,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 30,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 17,
-      "Мишкин Валерий Николаевич": 7,
-      "Николаева Виктория Викторовна": 28,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 12
+      "gas:candidate-vibid:22520001122541": 30,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 17,
+      "gas:candidate-vibid:22520001123784": 7,
+      "gas:candidate-vibid:22520001070855": 28,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 31,
-      "Журлов Григорий Викторович": 9,
-      "Зотов Евгений Александрович": 15,
-      "Мишкин Валерий Николаевич": 8,
-      "Николаева Виктория Викторовна": 108,
-      "Суляндзига Павел Васильевич": 12,
-      "Фролов Дмитрий Андреевич": 8
+      "gas:candidate-vibid:22520001122541": 31,
+      "gas:candidate-vibid:22520001123847": 9,
+      "gas:candidate-vibid:22520001065918": 15,
+      "gas:candidate-vibid:22520001123784": 8,
+      "gas:candidate-vibid:22520001070855": 108,
+      "gas:candidate-vibid:22520001122487": 12,
+      "gas:candidate-vibid:22520001123399": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 8,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 7,
-      "Мишкин Валерий Николаевич": 2,
-      "Николаева Виктория Викторовна": 15,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 8,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 7,
+      "gas:candidate-vibid:22520001123784": 2,
+      "gas:candidate-vibid:22520001070855": 15,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 29,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 11,
-      "Мишкин Валерий Николаевич": 11,
-      "Николаева Виктория Викторовна": 55,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 29,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 11,
+      "gas:candidate-vibid:22520001123784": 11,
+      "gas:candidate-vibid:22520001070855": 55,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 6,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 18,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 33,
-      "Суляндзига Павел Васильевич": 5,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 6,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 18,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 33,
+      "gas:candidate-vibid:22520001122487": 5,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 15,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 9,
-      "Мишкин Валерий Николаевич": 4,
-      "Николаева Виктория Викторовна": 25,
-      "Суляндзига Павел Васильевич": 7,
-      "Фролов Дмитрий Андреевич": 2
+      "gas:candidate-vibid:22520001122541": 15,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 9,
+      "gas:candidate-vibid:22520001123784": 4,
+      "gas:candidate-vibid:22520001070855": 25,
+      "gas:candidate-vibid:22520001122487": 7,
+      "gas:candidate-vibid:22520001123399": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 37,
-      "Журлов Григорий Викторович": 10,
-      "Зотов Евгений Александрович": 40,
-      "Мишкин Валерий Николаевич": 17,
-      "Николаева Виктория Викторовна": 102,
-      "Суляндзига Павел Васильевич": 11,
-      "Фролов Дмитрий Андреевич": 7
+      "gas:candidate-vibid:22520001122541": 37,
+      "gas:candidate-vibid:22520001123847": 10,
+      "gas:candidate-vibid:22520001065918": 40,
+      "gas:candidate-vibid:22520001123784": 17,
+      "gas:candidate-vibid:22520001070855": 102,
+      "gas:candidate-vibid:22520001122487": 11,
+      "gas:candidate-vibid:22520001123399": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 36,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 25,
-      "Мишкин Валерий Николаевич": 10,
-      "Николаева Виктория Викторовна": 31,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 8
+      "gas:candidate-vibid:22520001122541": 36,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 25,
+      "gas:candidate-vibid:22520001123784": 10,
+      "gas:candidate-vibid:22520001070855": 31,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 18,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 19,
-      "Мишкин Валерий Николаевич": 5,
-      "Николаева Виктория Викторовна": 38,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 4
+      "gas:candidate-vibid:22520001122541": 18,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 19,
+      "gas:candidate-vibid:22520001123784": 5,
+      "gas:candidate-vibid:22520001070855": 38,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 38,
-      "Журлов Григорий Викторович": 5,
-      "Зотов Евгений Александрович": 22,
-      "Мишкин Валерий Николаевич": 6,
-      "Николаева Виктория Викторовна": 49,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 17
+      "gas:candidate-vibid:22520001122541": 38,
+      "gas:candidate-vibid:22520001123847": 5,
+      "gas:candidate-vibid:22520001065918": 22,
+      "gas:candidate-vibid:22520001123784": 6,
+      "gas:candidate-vibid:22520001070855": 49,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 13,
-      "Журлов Григорий Викторович": 2,
-      "Зотов Евгений Александрович": 9,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 29,
-      "Суляндзига Павел Васильевич": 0,
-      "Фролов Дмитрий Андреевич": 6
+      "gas:candidate-vibid:22520001122541": 13,
+      "gas:candidate-vibid:22520001123847": 2,
+      "gas:candidate-vibid:22520001065918": 9,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 29,
+      "gas:candidate-vibid:22520001122487": 0,
+      "gas:candidate-vibid:22520001123399": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 14,
-      "Журлов Григорий Викторович": 3,
-      "Зотов Евгений Александрович": 17,
-      "Мишкин Валерий Николаевич": 0,
-      "Николаева Виктория Викторовна": 46,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 3
+      "gas:candidate-vibid:22520001122541": 14,
+      "gas:candidate-vibid:22520001123847": 3,
+      "gas:candidate-vibid:22520001065918": 17,
+      "gas:candidate-vibid:22520001123784": 0,
+      "gas:candidate-vibid:22520001070855": 46,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 44,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 57,
-      "Мишкин Валерий Николаевич": 18,
-      "Николаева Виктория Викторовна": 127,
-      "Суляндзига Павел Васильевич": 3,
-      "Фролов Дмитрий Андреевич": 15
+      "gas:candidate-vibid:22520001122541": 44,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 57,
+      "gas:candidate-vibid:22520001123784": 18,
+      "gas:candidate-vibid:22520001070855": 127,
+      "gas:candidate-vibid:22520001122487": 3,
+      "gas:candidate-vibid:22520001123399": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 50,
-      "Журлов Григорий Викторович": 4,
-      "Зотов Евгений Александрович": 44,
-      "Мишкин Валерий Николаевич": 10,
-      "Николаева Виктория Викторовна": 92,
-      "Суляндзига Павел Васильевич": 8,
-      "Фролов Дмитрий Андреевич": 14
+      "gas:candidate-vibid:22520001122541": 50,
+      "gas:candidate-vibid:22520001123847": 4,
+      "gas:candidate-vibid:22520001065918": 44,
+      "gas:candidate-vibid:22520001123784": 10,
+      "gas:candidate-vibid:22520001070855": 92,
+      "gas:candidate-vibid:22520001122487": 8,
+      "gas:candidate-vibid:22520001123399": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 50,
-      "Журлов Григорий Викторович": 19,
-      "Зотов Евгений Александрович": 83,
-      "Мишкин Валерий Николаевич": 44,
-      "Николаева Виктория Викторовна": 207,
-      "Суляндзига Павел Васильевич": 25,
-      "Фролов Дмитрий Андреевич": 44
+      "gas:candidate-vibid:22520001122541": 50,
+      "gas:candidate-vibid:22520001123847": 19,
+      "gas:candidate-vibid:22520001065918": 83,
+      "gas:candidate-vibid:22520001123784": 44,
+      "gas:candidate-vibid:22520001070855": 207,
+      "gas:candidate-vibid:22520001122487": 25,
+      "gas:candidate-vibid:22520001123399": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 40,
-      "Журлов Григорий Викторович": 1,
-      "Зотов Евгений Александрович": 26,
-      "Мишкин Валерий Николаевич": 9,
-      "Николаева Виктория Викторовна": 90,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 16
+      "gas:candidate-vibid:22520001122541": 40,
+      "gas:candidate-vibid:22520001123847": 1,
+      "gas:candidate-vibid:22520001065918": 26,
+      "gas:candidate-vibid:22520001123784": 9,
+      "gas:candidate-vibid:22520001070855": 90,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 43,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 36,
-      "Мишкин Валерий Николаевич": 30,
-      "Николаева Виктория Викторовна": 91,
-      "Суляндзига Павел Васильевич": 6,
-      "Фролов Дмитрий Андреевич": 18
+      "gas:candidate-vibid:22520001122541": 43,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 36,
+      "gas:candidate-vibid:22520001123784": 30,
+      "gas:candidate-vibid:22520001070855": 91,
+      "gas:candidate-vibid:22520001122487": 6,
+      "gas:candidate-vibid:22520001123399": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 21,
-      "Журлов Григорий Викторович": 0,
-      "Зотов Евгений Александрович": 16,
-      "Мишкин Валерий Николаевич": 3,
-      "Николаева Виктория Викторовна": 29,
-      "Суляндзига Павел Васильевич": 2,
-      "Фролов Дмитрий Андреевич": 9
+      "gas:candidate-vibid:22520001122541": 21,
+      "gas:candidate-vibid:22520001123847": 0,
+      "gas:candidate-vibid:22520001065918": 16,
+      "gas:candidate-vibid:22520001123784": 3,
+      "gas:candidate-vibid:22520001070855": 29,
+      "gas:candidate-vibid:22520001122487": 2,
+      "gas:candidate-vibid:22520001123399": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_25_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришуков Владимир Витальевич": 49,
-      "Журлов Григорий Викторович": 6,
-      "Зотов Евгений Александрович": 29,
-      "Мишкин Валерий Николаевич": 16,
-      "Николаева Виктория Викторовна": 120,
-      "Суляндзига Павел Васильевич": 4,
-      "Фролов Дмитрий Андреевич": 10
+      "gas:candidate-vibid:22520001122541": 49,
+      "gas:candidate-vibid:22520001123847": 6,
+      "gas:candidate-vibid:22520001065918": 29,
+      "gas:candidate-vibid:22520001123784": 16,
+      "gas:candidate-vibid:22520001070855": 120,
+      "gas:candidate-vibid:22520001122487": 4,
+      "gas:candidate-vibid:22520001123399": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000079&tvd=2252000999762&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999762&type=464",

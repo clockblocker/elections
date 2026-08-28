@@ -8,4500 +8,12000 @@ export const duma_2021_uik_to_tik_region_28 = [
     "uikNumber": 1,
     "uikTvd": "4284000236713",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №1",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4284000236714",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №2",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4284000236715",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №3",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4284000236716",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №4",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4284000236717",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №5",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4284000236718",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №6",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4284000236719",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №7",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4284000236720",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №8",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4284000236721",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №9",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4284000236722",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №10",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4284000236723",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №11",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4284000236724",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №12",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4284000236725",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №13",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4284000236726",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №14",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4284000236727",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №15",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4284000236728",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №16",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4284000236729",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №17",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4284000236730",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №18",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4284000236731",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №19",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4284000236732",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №20",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4284000236733",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №21",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4284000236734",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №22",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4284000236735",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №23",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4284000236736",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №24",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4284000236737",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №25",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4284000236738",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №26",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4284000236739",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №27",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4284000236740",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №28",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4284000236741",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №29",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4284000236742",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №30",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4284000236743",
     "tikTvd": "22820001148744",
-    "tikName": "Благовещенского района"
+    "tikName": "Благовещенского района",
+    "uikName": "УИК №31",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4284001238882",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №101",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4284001238883",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №102",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4284001238884",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №103",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4284001238885",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №104",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4284001238886",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №105",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4284001238887",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №106",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4284001238888",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №107",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4284001238889",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №108",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4284001238890",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №109",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4284001238891",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №110",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4284001238892",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №111",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4284001238893",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №112",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4284001238894",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №113",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4284001238895",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №115",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4284001238896",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №116",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4284001238897",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №117",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4284001238898",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №119",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4284001238899",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №120",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4284001238900",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №122",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4284001238901",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №123",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4284001238902",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №124",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4284001238903",
     "tikTvd": "22820001148747",
-    "tikName": "Архаринского района"
+    "tikName": "Архаринского района",
+    "uikName": "УИК №125",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4284002240383",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №201",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4284002240384",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №202",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4284002240385",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №203",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4284002240386",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №204",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4284002240387",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №205",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4284002240388",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №206",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4284002240389",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №207",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4284002240390",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №208",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4284002240391",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №209",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4284002240392",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №210",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4284002240393",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №211",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4284002240394",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №212",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4284002240395",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №213",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4284002240396",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №214",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4284002240397",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №215",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4284002240398",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №216",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4284002240399",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №217",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4284002240400",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №218",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4284002240401",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №219",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4284002240402",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №220",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4284002240403",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №221",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4284002240404",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №222",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4284002240405",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №223",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4284002240406",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №224",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4284002240407",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №225",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4284002240408",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №226",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4284002240409",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №227",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4284002240410",
     "tikTvd": "22820001148745",
-    "tikName": "города Белогорск "
+    "tikName": "города Белогорск ",
+    "uikName": "УИК №228",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4284003675541",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №301",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4284003675542",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №302",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4284003675543",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №303",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4284003675544",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №304",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4284003675545",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №305",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4284003675546",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №306",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4284003675547",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №307",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4284003675548",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №308",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4284003675549",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №309",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4284003675550",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №310",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4284003675551",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №311",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4284003675552",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №312",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4284003675553",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №313",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4284003675554",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №314",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4284003675555",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №315",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4284003675556",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №316",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4284003675557",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №317",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4284003675558",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №318",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4284003675559",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №319",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4284003675560",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №320",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4284003675561",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №321",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4284003675562",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №322",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4284003675563",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №323",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4284003675564",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №324",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4284003675565",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №325",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4284003675566",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №326",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4284003675567",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №327",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4284003675568",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №328",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4284003675569",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №329",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4284003675570",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №330",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4284003675571",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №331",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4284003675572",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №332",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4284003675573",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №333",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4284003675574",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №334",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4284003675575",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №335",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4284003675576",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №336",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4284003675577",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №337",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4284003675578",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №338",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4284003675579",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №339",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4284003675580",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №340",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4284003675581",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №341",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4284003675582",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №342",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4284003675583",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №343",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4284003675584",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №344",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4284003675585",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №345",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4284003675586",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №346",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4284003675587",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №347",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4284003675588",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №348",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4284003675589",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №349",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4284003675590",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №350",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4284003675591",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №351",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4284003675592",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №352",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4284003675593",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №353",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4284003675594",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №354",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4284003675595",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №355",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4284003675596",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №356",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4284003675597",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №357",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4284003675598",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №358",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4284003675599",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №359",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4284003675600",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №360",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4284003675601",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №361",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4284003675602",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №362",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4284003675603",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №363",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4284003675604",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №364",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4284003675605",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №365",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4284003675606",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №366",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4284003675607",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №367",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4284003675608",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №368",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4284003675609",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №369",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4284003675610",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №370",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4284003675611",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №371",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4284003675612",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №372",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4284003675613",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №373",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4284003675614",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №374",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4284003675615",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №375",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4284003675616",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №376",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4284003675617",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №377",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4284003675618",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №378",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4284003675619",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №379",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4284003675620",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №380",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4284003675621",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №381",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4284003675622",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №382",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4284003675623",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №383",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4284003675624",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №384",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4284003675625",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №385",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4284003675626",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №386",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4284003675627",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №387",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4284003675628",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №388",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4284003675629",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №389",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4284003675630",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №390",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4284003675631",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №391",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4284003675632",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №392",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4284003675633",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №393",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4284003675634",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №394",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4284003675635",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №395",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4284003675636",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №396",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4284003675637",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №397",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4284003675638",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №398",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4284003675639",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №399",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4284004229327",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №401",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4284004229328",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №402",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4284004229329",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №403",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4284004229330",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №404",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4284004229331",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №405",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4284004229332",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №406",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4284004229333",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №407",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4284004229334",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №408",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4284004229335",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №409",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4284004229336",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №410",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4284004229337",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №411",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4284004229338",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №412",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4284004229339",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №413",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4284004229340",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №415",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4284004229341",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №416",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4284004229342",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №417",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4284004229343",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №418",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4284004229344",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №419",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4284004229345",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №420",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4284004229346",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №421",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4284004229347",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №422",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4284004229348",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №423",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4284004229349",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №424",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4284004229350",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №425",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4284004229351",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №426",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4284004229352",
     "tikTvd": "22820001148742",
-    "tikName": "Бурейского округа"
+    "tikName": "Бурейского округа",
+    "uikName": "УИК №427",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4284005219735",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №501",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4284005219736",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №502",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4284005219737",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №503",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4284005219738",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №504",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4284005219739",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №505",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4284005219740",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №506",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4284005219741",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №507",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4284005219742",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №508",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4284005219743",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №509",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4284005219744",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №510",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4284005219745",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №511",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4284005219746",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №512",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4284005219747",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №513",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4284005219748",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №514",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4284005219749",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №515",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4284005219750",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №516",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4284005219751",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №517",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4284005219752",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №518",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4284005219753",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №519",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4284005219754",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №520",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4284005219755",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №521",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4284005219756",
     "tikTvd": "22820001148741",
-    "tikName": "Завитинского округа"
+    "tikName": "Завитинского округа",
+    "uikName": "УИК №522",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4284006168282",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №601",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4284006168283",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №602",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4284006168284",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №603",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4284006168285",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №604",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4284006168286",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №605",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4284006168287",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №606",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4284006168288",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №607",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4284006168289",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №608",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4284006168290",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №609",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4284006168291",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №610",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4284006168292",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №611",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4284006168293",
     "tikTvd": "22820001148739",
-    "tikName": "города Зея"
+    "tikName": "города Зея",
+    "uikName": "УИК №612",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4284007231876",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №701",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4284007231877",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №702",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4284007231878",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №703",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4284007231879",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №704",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4284007231880",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №705",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4284007231881",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №706",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4284007231882",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №707",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4284007231883",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №708",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4284007231884",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №709",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4284007231885",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №710",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4284007231886",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №711",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4284007231887",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №712",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4284007231888",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №713",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4284007231889",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №714",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4284007231890",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №715",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4284007231891",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №716",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4284007231892",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №717",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4284007231893",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №718",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4284007231894",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №719",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4284007231895",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №720",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4284007231896",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №721",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4284007231897",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №722",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4284007231898",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №723",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4284007231899",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №724",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4284007231900",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №725",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4284007231901",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №726",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4284007231902",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №727",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4284007231903",
     "tikTvd": "22820001148738",
-    "tikName": "Ивановского округа"
+    "tikName": "Ивановского округа",
+    "uikName": "УИК №728",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4284008225523",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №801",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4284008225524",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №802",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4284008225525",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №803",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4284008225526",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №804",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4284008225527",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №805",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4284008225528",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №806",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4284008225529",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №807",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4284008225530",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №808",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4284008225531",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №809",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4284008225532",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №810",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4284008225533",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №811",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4284008225534",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №812",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4284008225535",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №813",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4284008225536",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №814",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4284008225537",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №815",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4284008225538",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №816",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4284008225539",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №817",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4284008225540",
     "tikTvd": "22820001148737",
-    "tikName": "Константиновского района"
+    "tikName": "Константиновского района",
+    "uikName": "УИК №818",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4284009227049",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №901",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4284009227050",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №902",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4284009227051",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №903",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4284009227052",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №904",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4284009227053",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №905",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4284009227054",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №906",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4284009227055",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №907",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4284009227056",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №908",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4284009227057",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №909",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4284009227058",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №910",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4284009227059",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №911",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4284009227060",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №912",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4284009227061",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №913",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4284009227062",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №914",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4284009227063",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №915",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4284009227064",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №916",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4284009227065",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №917",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4284009227066",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №918",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4284009229567",
     "tikTvd": "22820001148736",
-    "tikName": "Магдагачинского района"
+    "tikName": "Магдагачинского района",
+    "uikName": "УИК №919",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4284010213414",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1001",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4284010213415",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1002",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4284010213416",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1003",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4284010213417",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1004",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4284010213418",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1005",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4284010213419",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1006",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4284010213420",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1007",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4284010213421",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1008",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4284010213422",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1009",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4284010213423",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1010",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4284010213424",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1011",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4284010213425",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1012",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4284010213426",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1013",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4284010213427",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1014",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4284010213428",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1015",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4284010213429",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1016",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4284010213430",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1017",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4284010213431",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1018",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4284010213432",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1019",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4284010213433",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1020",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4284010213434",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1021",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4284010213435",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1022",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4284010213436",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1023",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4284010213437",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1024",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4284010213438",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1025",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4284010213439",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1026",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4284010213440",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1027",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4284010213441",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1028",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4284010213442",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1029",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4284010213443",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1030",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4284010213444",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1031",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4284010213445",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1032",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4284010213446",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1033",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4284010213447",
     "tikTvd": "22820001148735",
-    "tikName": "Мазановского района"
+    "tikName": "Мазановского района",
+    "uikName": "УИК №1034",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4284011238977",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1101",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4284011238978",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1102",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4284011238979",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1103",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4284011238980",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1104",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4284011238981",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1105",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4284011238982",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1106",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4284011238983",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1107",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4284011238984",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1108",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4284011238985",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1109",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4284011238986",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1110",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4284011238987",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1111",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4284011238988",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1112",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4284011238989",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1116",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4284011238990",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1117",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4284011238991",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1119",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4284011238992",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1122",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4284011238993",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1123",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4284011238994",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1124",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4284011238995",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1125",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4284011238996",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1126",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4284011238997",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1127",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4284011238998",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1128",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4284011238999",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1129",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4284011239000",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1130",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4284011239001",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1131",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4284011239002",
     "tikTvd": "22820001148734",
-    "tikName": "Михайловского района"
+    "tikName": "Михайловского района",
+    "uikName": "УИК №1132",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4284012225087",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1201",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4284012225088",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1202",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4284012225089",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1203",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4284012225090",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1204",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4284012225091",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1205",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4284012225092",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1206",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4284012225093",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1207",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4284012225094",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1208",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4284012225095",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1209",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4284012225096",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1210",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4284012225097",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1211",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4284012225098",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1212",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4284012225099",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1213",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4284012225100",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1214",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4284012225101",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1215",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4284012225102",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1216",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4284012225103",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1217",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4284012225104",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1218",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4284012225105",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1219",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4284012225106",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1220",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4284012225107",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1221",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4284012225108",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1222",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4284012225109",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1223",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4284012225110",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1224",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4284012225111",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1225",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4284012225112",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1226",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4284012225113",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1227",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4284012225114",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1228",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4284012225115",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1229",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4284012225116",
     "tikTvd": "22820001148733",
-    "tikName": "Октябрьского района"
+    "tikName": "Октябрьского района",
+    "uikName": "УИК №1230",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4284013495056",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1301",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4284013495057",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1302",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4284013495058",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1303",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4284013495059",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1304",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4284013495060",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1305",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4284013495061",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1306",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4284013495062",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1307",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4284013495063",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1308",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4284013495064",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1309",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4284013495065",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1310",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4284013495066",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1311",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4284013495067",
     "tikTvd": "22820001148732",
-    "tikName": "города Райчихинск"
+    "tikName": "города Райчихинск",
+    "uikName": "УИК №1312",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4284014219052",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1401",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4284014219053",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1402",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4284014219054",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1403",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4284014219055",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1404",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4284014219056",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1405",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4284014219057",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1406",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4284014219058",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1407",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4284014219059",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1408",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4284014219060",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1409",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4284014219061",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1410",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4284014219062",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1411",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4284014219063",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1412",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4284014219064",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1413",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4284014219065",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1414",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4284014219066",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1415",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4284014219067",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1416",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4284014219068",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1417",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4284014219069",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1418",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4284014219070",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1419",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4284014219071",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1420",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4284014219072",
     "tikTvd": "22820001148731",
-    "tikName": "Ромненского округа"
+    "tikName": "Ромненского округа",
+    "uikName": "УИК №1421",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4284015224587",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1501",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4284015224588",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1502",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4284015224589",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1503",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4284015224590",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1504",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4284015224591",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1505",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4284015224592",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1506",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4284015224593",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1507",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4284015224594",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1508",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4284015224595",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1509",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4284015224596",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1510",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4284015224597",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1511",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4284015224598",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1512",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4284015224599",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1513",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4284015224600",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1514",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4284015224601",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1515",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4284015224602",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1516",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4284015224603",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1517",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4284015224604",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1518",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4284015224605",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1519",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4284015224606",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1520",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4284015224607",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1521",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4284015224608",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1522",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4284015224609",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1523",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4284015224610",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1524",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4284015224611",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1525",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4284015226405",
     "tikTvd": "22820001148729",
-    "tikName": "города Свободный"
+    "tikName": "города Свободный",
+    "uikName": "УИК №1526",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4284016190886",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1601",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4284016190887",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1602",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4284016190888",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1603",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4284016190889",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1604",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4284016190890",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1605",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4284016190891",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1606",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4284016190892",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1607",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4284016190893",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1608",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4284016190894",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1609",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4284016190895",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1610",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4284016190896",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1611",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4284016190897",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1612",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4284016190898",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1613",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4284016190899",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1614",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4284016190900",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1615",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4284016193839",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1616",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4284016193840",
     "tikTvd": "22820001148728",
-    "tikName": "Селемджинского района"
+    "tikName": "Селемджинского района",
+    "uikName": "УИК №1617",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4284017271840",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1701",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4284017271841",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1702",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4284017271842",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1703",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4284017271843",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1705",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4284017271844",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1707",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4284017271845",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1709",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4284017271846",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1710",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4284017271847",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1711",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4284017271848",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1712",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4284017271849",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1713",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4284017271850",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1714",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4284017271851",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1715",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4284017271852",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1716",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4284017271853",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1717",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4284017271854",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1719",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4284017271855",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1720",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4284017271856",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1721",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4284017271857",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1722",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4284017271858",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1723",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4284017271859",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1724",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4284017271860",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1725",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4284017271861",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1726",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4284017271862",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1727",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4284017271863",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1728",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4284017271864",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1729",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4284017271865",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1730",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4284017271866",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1732",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4284017271867",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1733",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4284017271868",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1734",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4284017271869",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1735",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4284017271870",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1736",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4284017271871",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1737",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4284017271872",
     "tikTvd": "22820001148727",
-    "tikName": "Серышевского района"
+    "tikName": "Серышевского района",
+    "uikName": "УИК №1738",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4284018253687",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1801",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4284018253688",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1802",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4284018253689",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1803",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4284018253690",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1804",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4284018253691",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1805",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4284018253692",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1806",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4284018253693",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1807",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4284018253694",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1808",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4284018253695",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1809",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4284018253696",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1810",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4284018253697",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1811",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4284018253698",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1812",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4284018253699",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1814",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4284018253700",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1815",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4284018253701",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1816",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4284018253702",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1817",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4284018253703",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1818",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4284018253704",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1819",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4284018253705",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1820",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4284018253706",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1822",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4284018253707",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1823",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4284018253708",
     "tikTvd": "22820001148726",
-    "tikName": "Сковородинского района"
+    "tikName": "Сковородинского района",
+    "uikName": "УИК №1824",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4284019246877",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1901",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4284019246878",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1902",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4284019246879",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1903",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4284019246880",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1904",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4284019246881",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1905",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4284019246882",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1906",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4284019246883",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1907",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4284019246884",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1908",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4284019246885",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1909",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4284019246886",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1910",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4284019246887",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1911",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4284019246888",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1912",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4284019246889",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1913",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4284019246890",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1914",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4284019246891",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1915",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4284019246892",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1916",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4284019246893",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1917",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4284019246894",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1918",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4284019246895",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1919",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4284019246896",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1920",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4284019246897",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1921",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4284019246898",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1922",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4284019246899",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1923",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4284019246900",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1924",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4284019246901",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1925",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4284019246902",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1926",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4284019246903",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1927",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4284019246904",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1928",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4284019246905",
     "tikTvd": "22820001148725",
-    "tikName": "Тамбовского района"
+    "tikName": "Тамбовского района",
+    "uikName": "УИК №1929",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4284020177114",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2001",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4284020177115",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2002",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4284020177116",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2003",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4284020177117",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2004",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4284020177118",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2005",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4284020177119",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2006",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4284020177120",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2007",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4284020177121",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2008",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4284020177122",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2009",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4284020177123",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2010",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4284020177124",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2011",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4284020177125",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2012",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4284020177126",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2013",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4284020177127",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2014",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4284020177128",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2015",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4284020177129",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2016",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4284020177130",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2017",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4284020177131",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2018",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4284020177132",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2019",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4284020177133",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2020",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4284020177134",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2021",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4284020177135",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2022",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4284020177136",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2023",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4284020177137",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2024",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4284020177138",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2025",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4284020177139",
     "tikTvd": "22820001148723",
-    "tikName": "города Тында"
+    "tikName": "города Тында",
+    "uikName": "УИК №2026",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4284021175844",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2101",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4284021175845",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2102",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4284021175846",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2103",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4284021175847",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2104",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4284021175848",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2105",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4284021175849",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2106",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4284021175851",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2107",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4284021175852",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2108",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4284021175853",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2109",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4284021175854",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2110",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4284021175855",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2111",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4284021177982",
     "tikTvd": "22820001148720",
-    "tikName": "города Шимановск"
+    "tikName": "города Шимановск",
+    "uikName": "УИК №2112",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4284022239727",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2201",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4284022239728",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2202",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4284022239729",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2203",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4284022239730",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2204",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4284022239731",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2205",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4284022239732",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2206",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4284022239733",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2207",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4284022239734",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2208",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4284022239735",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2209",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4284022239736",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2210",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4284022239737",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2211",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4284022239738",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2212",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4284022239739",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2213",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4284022239740",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2214",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4284022239741",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2215",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4284022239742",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2216",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4284022239743",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2217",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4284022239744",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2218",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4284022239745",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2219",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4284022239746",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2220",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4284022239747",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2221",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4284022239748",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2222",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4284022239749",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2223",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4284022239750",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2224",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4284022239751",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2225",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4284022239752",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2226",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4284022239753",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2227",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4284022239754",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2228",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4284022239755",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2229",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4284022239756",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2230",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4284022239757",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2231",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4284022239758",
     "tikTvd": "22820001148746",
-    "tikName": "Белогорского округа"
+    "tikName": "Белогорского округа",
+    "uikName": "УИК №2232",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4284023318777",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2301",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4284023318778",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2302",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4284023318779",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2303",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4284023318780",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2304",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4284023318781",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2305",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4284023318782",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2306",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4284023318783",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2307",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4284023318784",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2308",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4284023318785",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2309",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4284023318786",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2310",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4284023318787",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2311",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4284023318788",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2312",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4284023318789",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2313",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4284023318790",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2314",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4284023318791",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2316",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4284023318792",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2317",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4284023318793",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2319",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4284023318794",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2321",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4284023318795",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2322",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4284023318796",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2323",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4284023318797",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2324",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2325,
     "uikTvd": "4284023318798",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2325",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2326,
     "uikTvd": "4284023318799",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2326",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2327,
     "uikTvd": "4284023318800",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2327",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2328,
     "uikTvd": "4284023318801",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2328",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2329,
     "uikTvd": "4284023318802",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2329",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2330,
     "uikTvd": "4284023324025",
     "tikTvd": "22820001148740",
-    "tikName": "Зейского района"
+    "tikName": "Зейского района",
+    "uikName": "УИК №2330",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4284024255037",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2401",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4284024255038",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2402",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4284024255039",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2403",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4284024255040",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2404",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4284024255041",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2405",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4284024255042",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2406",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4284024255043",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2407",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4284024255044",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2408",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4284024255045",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2409",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4284024255046",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2410",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4284024255047",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2411",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4284024255048",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2412",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4284024255049",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2413",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4284024255050",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2414",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4284024255051",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2415",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4284024255052",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2416",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4284024255053",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2417",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4284024255054",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2418",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4284024255055",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2419",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4284024255056",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2420",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4284024255057",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2421",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4284024255058",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2422",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4284024255059",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2423",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4284024255060",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2424",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4284024255061",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2425",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4284024255062",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2426",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4284024255063",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2427",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4284024255064",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2428",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4284024255065",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2429",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4284024255066",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2430",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4284024255067",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2431",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2432,
     "uikTvd": "4284024255068",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2432",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2433,
     "uikTvd": "4284024255069",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2433",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2434,
     "uikTvd": "4284024255070",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2434",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2435,
     "uikTvd": "4284024255071",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2435",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2436,
     "uikTvd": "4284024255072",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2436",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2437,
     "uikTvd": "4284024255073",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2437",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2438,
     "uikTvd": "4284024257689",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2438",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2439,
     "uikTvd": "4284024257690",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2439",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2440,
     "uikTvd": "4284024257691",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2440",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2441,
     "uikTvd": "4284024257692",
     "tikTvd": "22820001148730",
-    "tikName": "Свободненского района"
+    "tikName": "Свободненского района",
+    "uikName": "УИК №2441",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4284025235343",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2501",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4284025235344",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2502",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4284025235345",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2503",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4284025235346",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2504",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4284025235347",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2505",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4284025235348",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2506",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4284025235349",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2507",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4284025235350",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2508",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4284025235351",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2509",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4284025235352",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2510",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4284025235353",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2512",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4284025235354",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2513",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4284025235355",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2514",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4284025235356",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2515",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4284025235357",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2516",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4284025235358",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2517",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4284025235359",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2518",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4284025235360",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2519",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4284025235361",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2520",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4284025235362",
     "tikTvd": "22820001148724",
-    "tikName": "Тындинского округа"
+    "tikName": "Тындинского округа",
+    "uikName": "УИК №2521",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4284026131336",
     "tikTvd": "22820001148722",
-    "tikName": "ЗАТО Циолковский"
+    "tikName": "ЗАТО Циолковский",
+    "uikName": "УИК №2601",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4284026131337",
     "tikTvd": "22820001148722",
-    "tikName": "ЗАТО Циолковский"
+    "tikName": "ЗАТО Циолковский",
+    "uikName": "УИК №2602",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4284027218559",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2701",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4284027218560",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2702",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4284027218561",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2703",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4284027218562",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2704",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4284027218563",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2705",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4284027218564",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2706",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4284027218565",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2707",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4284027218566",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2708",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4284027218567",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2709",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4284027218568",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2710",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4284027218569",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2711",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4284027218570",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2712",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4284027218571",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2713",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4284027218572",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2714",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4284027218573",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2715",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4284027218574",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2716",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4284027218575",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2717",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4284027218576",
     "tikTvd": "22820001148721",
-    "tikName": "Шимановского района"
+    "tikName": "Шимановского района",
+    "uikName": "УИК №2718",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4284028143984",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2801",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4284028143986",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2802",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4284028143987",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2803",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4284028143988",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2804",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4284028143989",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2805",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4284028143990",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2806",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4284028143991",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2807",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4284028143992",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2808",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4284028143993",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2809",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4284028143994",
     "tikTvd": "22820001148719",
-    "tikName": "рабочего поселка (п.г.т.) Прогресс"
+    "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "uikName": "УИК №2810",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4284003715262",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №3001",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4284003715270",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №3002",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4284003715271",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №3003",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4284003715272",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №3004",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4284003715273",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №3005",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4284003715274",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №3006",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4284003715275",
     "tikTvd": "22820001148743",
-    "tikName": "города Благовещенск"
+    "tikName": "города Благовещенск",
+    "uikName": "УИК №3007",
+    "regionCode": "28",
+    "regionTvd": "100100225883485",
+    "regionName": "Амурская область",
+    "oikTvd": "100100225883486",
+    "oikName": "Амурская область – Амурский",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100225883486"
+    }
   }
 ] satisfies readonly UikTikRelation[];

@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 2,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 2,
-      "Крашенинников Павел Владимирович": 119,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 3,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 8,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000217965": 2,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 2,
+      "gas:candidate-vibid:1001000113990": 119,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 3,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 8,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467151&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 3,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 0,
-      "Крашенинников Павел Владимирович": 141,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 0,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 5,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217965": 3,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 0,
+      "gas:candidate-vibid:1001000113990": 141,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 0,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 5,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467151&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 7
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 21,
-      "Дубровский Владимир Федорович": 15,
-      "Крашенинников Павел Владимирович": 218,
-      "Левандовский Валерий Витальевич": 29,
-      "Пронина Зоя Ивановна": 27,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 78,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 21,
+      "gas:candidate-vibid:1001000220853": 15,
+      "gas:candidate-vibid:1001000113990": 218,
+      "gas:candidate-vibid:374300466670": 29,
+      "gas:candidate-vibid:1001000121928": 27,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 78,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 57,
-      "Дубровский Владимир Федорович": 34,
-      "Крашенинников Павел Владимирович": 461,
-      "Левандовский Валерий Витальевич": 76,
-      "Пронина Зоя Ивановна": 82,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 230,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 57,
+      "gas:candidate-vibid:1001000220853": 34,
+      "gas:candidate-vibid:1001000113990": 461,
+      "gas:candidate-vibid:374300466670": 76,
+      "gas:candidate-vibid:1001000121928": 82,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 230,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 50,
-      "Дубровский Владимир Федорович": 36,
-      "Крашенинников Павел Владимирович": 464,
-      "Левандовский Валерий Витальевич": 43,
-      "Пронина Зоя Ивановна": 81,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 225,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 50,
+      "gas:candidate-vibid:1001000220853": 36,
+      "gas:candidate-vibid:1001000113990": 464,
+      "gas:candidate-vibid:374300466670": 43,
+      "gas:candidate-vibid:1001000121928": 81,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 225,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 8,
-      "Крашенинников Павел Владимирович": 171,
-      "Левандовский Валерий Витальевич": 13,
-      "Пронина Зоя Ивановна": 15,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 49,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 8,
+      "gas:candidate-vibid:1001000113990": 171,
+      "gas:candidate-vibid:374300466670": 13,
+      "gas:candidate-vibid:1001000121928": 15,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 49,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 12,
-      "Дубровский Владимир Федорович": 101,
-      "Крашенинников Павел Владимирович": 719,
-      "Левандовский Валерий Витальевич": 33,
-      "Пронина Зоя Ивановна": 85,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 126,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 12,
+      "gas:candidate-vibid:1001000220853": 101,
+      "gas:candidate-vibid:1001000113990": 719,
+      "gas:candidate-vibid:374300466670": 33,
+      "gas:candidate-vibid:1001000121928": 85,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 126,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 31,
-      "Дубровский Владимир Федорович": 22,
-      "Крашенинников Павел Владимирович": 480,
-      "Левандовский Валерий Витальевич": 40,
-      "Пронина Зоя Ивановна": 65,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 100,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 31,
+      "gas:candidate-vibid:1001000220853": 22,
+      "gas:candidate-vibid:1001000113990": 480,
+      "gas:candidate-vibid:374300466670": 40,
+      "gas:candidate-vibid:1001000121928": 65,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 100,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 28,
-      "Дубровский Владимир Федорович": 28,
-      "Крашенинников Павел Владимирович": 409,
-      "Левандовский Валерий Витальевич": 43,
-      "Пронина Зоя Ивановна": 71,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 164,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 28,
+      "gas:candidate-vibid:1001000220853": 28,
+      "gas:candidate-vibid:1001000113990": 409,
+      "gas:candidate-vibid:374300466670": 43,
+      "gas:candidate-vibid:1001000121928": 71,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 164,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 37,
-      "Глуховский Владимир Ильич": 89,
-      "Дубровский Владимир Федорович": 55,
-      "Крашенинников Павел Владимирович": 584,
-      "Левандовский Валерий Витальевич": 85,
-      "Пронина Зоя Ивановна": 116,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 156,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000217965": 37,
+      "gas:candidate-vibid:374300466922": 89,
+      "gas:candidate-vibid:1001000220853": 55,
+      "gas:candidate-vibid:1001000113990": 584,
+      "gas:candidate-vibid:374300466670": 85,
+      "gas:candidate-vibid:1001000121928": 116,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 156,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 80,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 704,
-      "Левандовский Валерий Витальевич": 71,
-      "Пронина Зоя Ивановна": 174,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 152,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 80,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 704,
+      "gas:candidate-vibid:374300466670": 71,
+      "gas:candidate-vibid:1001000121928": 174,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 152,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 56,
-      "Дубровский Владимир Федорович": 77,
-      "Крашенинников Павел Владимирович": 695,
-      "Левандовский Валерий Витальевич": 45,
-      "Пронина Зоя Ивановна": 124,
-      "Солдаткин Дмитрий Федорович": 17,
-      "Чершинцев Александр Григорьевич": 155,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 56,
+      "gas:candidate-vibid:1001000220853": 77,
+      "gas:candidate-vibid:1001000113990": 695,
+      "gas:candidate-vibid:374300466670": 45,
+      "gas:candidate-vibid:1001000121928": 124,
+      "gas:candidate-vibid:374300466667": 17,
+      "gas:candidate-vibid:1001000226000": 155,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 63,
-      "Дубровский Владимир Федорович": 47,
-      "Крашенинников Павел Владимирович": 591,
-      "Левандовский Валерий Витальевич": 54,
-      "Пронина Зоя Ивановна": 58,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 116,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 63,
+      "gas:candidate-vibid:1001000220853": 47,
+      "gas:candidate-vibid:1001000113990": 591,
+      "gas:candidate-vibid:374300466670": 54,
+      "gas:candidate-vibid:1001000121928": 58,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 116,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 31,
-      "Глуховский Владимир Ильич": 99,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 587,
-      "Левандовский Валерий Витальевич": 46,
-      "Пронина Зоя Ивановна": 113,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 150,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000217965": 31,
+      "gas:candidate-vibid:374300466922": 99,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 587,
+      "gas:candidate-vibid:374300466670": 46,
+      "gas:candidate-vibid:1001000121928": 113,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 150,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 43,
-      "Дубровский Владимир Федорович": 31,
-      "Крашенинников Павел Владимирович": 358,
-      "Левандовский Валерий Витальевич": 46,
-      "Пронина Зоя Ивановна": 42,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 83,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 43,
+      "gas:candidate-vibid:1001000220853": 31,
+      "gas:candidate-vibid:1001000113990": 358,
+      "gas:candidate-vibid:374300466670": 46,
+      "gas:candidate-vibid:1001000121928": 42,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 83,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 83,
-      "Дубровский Владимир Федорович": 32,
-      "Крашенинников Павел Владимирович": 277,
-      "Левандовский Валерий Витальевич": 45,
-      "Пронина Зоя Ивановна": 58,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 100,
-      "Четыркин Юрий Борисович": 10,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 83,
+      "gas:candidate-vibid:1001000220853": 32,
+      "gas:candidate-vibid:1001000113990": 277,
+      "gas:candidate-vibid:374300466670": 45,
+      "gas:candidate-vibid:1001000121928": 58,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 100,
+      "gas:candidate-vibid:374300466673": 10,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 27,
-      "Дубровский Владимир Федорович": 42,
-      "Крашенинников Павел Владимирович": 525,
-      "Левандовский Валерий Витальевич": 56,
-      "Пронина Зоя Ивановна": 55,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 115,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 27,
+      "gas:candidate-vibid:1001000220853": 42,
+      "gas:candidate-vibid:1001000113990": 525,
+      "gas:candidate-vibid:374300466670": 56,
+      "gas:candidate-vibid:1001000121928": 55,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 115,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 30
     },
     "votes": {
-      "Гараев Алексей Иванович": 30,
-      "Глуховский Владимир Ильич": 63,
-      "Дубровский Владимир Федорович": 51,
-      "Крашенинников Павел Владимирович": 687,
-      "Левандовский Валерий Витальевич": 49,
-      "Пронина Зоя Ивановна": 115,
-      "Солдаткин Дмитрий Федорович": 10,
-      "Чершинцев Александр Григорьевич": 213,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000217965": 30,
+      "gas:candidate-vibid:374300466922": 63,
+      "gas:candidate-vibid:1001000220853": 51,
+      "gas:candidate-vibid:1001000113990": 687,
+      "gas:candidate-vibid:374300466670": 49,
+      "gas:candidate-vibid:1001000121928": 115,
+      "gas:candidate-vibid:374300466667": 10,
+      "gas:candidate-vibid:1001000226000": 213,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 22,
-      "Дубровский Владимир Федорович": 10,
-      "Крашенинников Павел Владимирович": 406,
-      "Левандовский Валерий Витальевич": 13,
-      "Пронина Зоя Ивановна": 16,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 40,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 22,
+      "gas:candidate-vibid:1001000220853": 10,
+      "gas:candidate-vibid:1001000113990": 406,
+      "gas:candidate-vibid:374300466670": 13,
+      "gas:candidate-vibid:1001000121928": 16,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 40,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 14,
-      "Глуховский Владимир Ильич": 47,
-      "Дубровский Владимир Федорович": 26,
-      "Крашенинников Павел Владимирович": 525,
-      "Левандовский Валерий Витальевич": 47,
-      "Пронина Зоя Ивановна": 60,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 101,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000217965": 14,
+      "gas:candidate-vibid:374300466922": 47,
+      "gas:candidate-vibid:1001000220853": 26,
+      "gas:candidate-vibid:1001000113990": 525,
+      "gas:candidate-vibid:374300466670": 47,
+      "gas:candidate-vibid:1001000121928": 60,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 101,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 26,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 378,
-      "Левандовский Валерий Витальевич": 31,
-      "Пронина Зоя Ивановна": 70,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 92,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 26,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 378,
+      "gas:candidate-vibid:374300466670": 31,
+      "gas:candidate-vibid:1001000121928": 70,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 92,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 39,
-      "Глуховский Владимир Ильич": 27,
-      "Дубровский Владимир Федорович": 71,
-      "Крашенинников Павел Владимирович": 718,
-      "Левандовский Валерий Витальевич": 43,
-      "Пронина Зоя Ивановна": 121,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 186,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217965": 39,
+      "gas:candidate-vibid:374300466922": 27,
+      "gas:candidate-vibid:1001000220853": 71,
+      "gas:candidate-vibid:1001000113990": 718,
+      "gas:candidate-vibid:374300466670": 43,
+      "gas:candidate-vibid:1001000121928": 121,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 186,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 59,
-      "Дубровский Владимир Федорович": 64,
-      "Крашенинников Павел Владимирович": 649,
-      "Левандовский Валерий Витальевич": 43,
-      "Пронина Зоя Ивановна": 86,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 128,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 59,
+      "gas:candidate-vibid:1001000220853": 64,
+      "gas:candidate-vibid:1001000113990": 649,
+      "gas:candidate-vibid:374300466670": 43,
+      "gas:candidate-vibid:1001000121928": 86,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 128,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 47,
-      "Дубровский Владимир Федорович": 60,
-      "Крашенинников Павел Владимирович": 790,
-      "Левандовский Валерий Витальевич": 58,
-      "Пронина Зоя Ивановна": 93,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 172,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 47,
+      "gas:candidate-vibid:1001000220853": 60,
+      "gas:candidate-vibid:1001000113990": 790,
+      "gas:candidate-vibid:374300466670": 58,
+      "gas:candidate-vibid:1001000121928": 93,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 172,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Гараев Алексей Иванович": 23,
-      "Глуховский Владимир Ильич": 56,
-      "Дубровский Владимир Федорович": 38,
-      "Крашенинников Павел Владимирович": 580,
-      "Левандовский Валерий Витальевич": 36,
-      "Пронина Зоя Ивановна": 79,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 128,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217965": 23,
+      "gas:candidate-vibid:374300466922": 56,
+      "gas:candidate-vibid:1001000220853": 38,
+      "gas:candidate-vibid:1001000113990": 580,
+      "gas:candidate-vibid:374300466670": 36,
+      "gas:candidate-vibid:1001000121928": 79,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 128,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 21,
-      "Дубровский Владимир Федорович": 101,
-      "Крашенинников Павел Владимирович": 677,
-      "Левандовский Валерий Витальевич": 55,
-      "Пронина Зоя Ивановна": 89,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 163,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 21,
+      "gas:candidate-vibid:1001000220853": 101,
+      "gas:candidate-vibid:1001000113990": 677,
+      "gas:candidate-vibid:374300466670": 55,
+      "gas:candidate-vibid:1001000121928": 89,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 163,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Гараев Алексей Иванович": 5,
-      "Глуховский Владимир Ильич": 29,
-      "Дубровский Владимир Федорович": 43,
-      "Крашенинников Павел Владимирович": 294,
-      "Левандовский Валерий Витальевич": 21,
-      "Пронина Зоя Ивановна": 44,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 66,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000217965": 5,
+      "gas:candidate-vibid:374300466922": 29,
+      "gas:candidate-vibid:1001000220853": 43,
+      "gas:candidate-vibid:1001000113990": 294,
+      "gas:candidate-vibid:374300466670": 21,
+      "gas:candidate-vibid:1001000121928": 44,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 66,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 21,
-      "Дубровский Владимир Федорович": 63,
-      "Крашенинников Павел Владимирович": 530,
-      "Левандовский Валерий Витальевич": 36,
-      "Пронина Зоя Ивановна": 77,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 113,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 21,
+      "gas:candidate-vibid:1001000220853": 63,
+      "gas:candidate-vibid:1001000113990": 530,
+      "gas:candidate-vibid:374300466670": 36,
+      "gas:candidate-vibid:1001000121928": 77,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 113,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 23,
-      "Глуховский Владимир Ильич": 37,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 897,
-      "Левандовский Валерий Витальевич": 71,
-      "Пронина Зоя Ивановна": 104,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 121,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000217965": 23,
+      "gas:candidate-vibid:374300466922": 37,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 897,
+      "gas:candidate-vibid:374300466670": 71,
+      "gas:candidate-vibid:1001000121928": 104,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 121,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 42,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 788,
-      "Левандовский Валерий Витальевич": 51,
-      "Пронина Зоя Ивановна": 87,
-      "Солдаткин Дмитрий Федорович": 10,
-      "Чершинцев Александр Григорьевич": 175,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 42,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 788,
+      "gas:candidate-vibid:374300466670": 51,
+      "gas:candidate-vibid:1001000121928": 87,
+      "gas:candidate-vibid:374300466667": 10,
+      "gas:candidate-vibid:1001000226000": 175,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 65,
-      "Дубровский Владимир Федорович": 67,
-      "Крашенинников Павел Владимирович": 775,
-      "Левандовский Валерий Витальевич": 54,
-      "Пронина Зоя Ивановна": 90,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 172,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 65,
+      "gas:candidate-vibid:1001000220853": 67,
+      "gas:candidate-vibid:1001000113990": 775,
+      "gas:candidate-vibid:374300466670": 54,
+      "gas:candidate-vibid:1001000121928": 90,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 172,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 52,
-      "Дубровский Владимир Федорович": 47,
-      "Крашенинников Павел Владимирович": 654,
-      "Левандовский Валерий Витальевич": 44,
-      "Пронина Зоя Ивановна": 105,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 156,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 52,
+      "gas:candidate-vibid:1001000220853": 47,
+      "gas:candidate-vibid:1001000113990": 654,
+      "gas:candidate-vibid:374300466670": 44,
+      "gas:candidate-vibid:1001000121928": 105,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 156,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 25,
-      "Глуховский Владимир Ильич": 22,
-      "Дубровский Владимир Федорович": 39,
-      "Крашенинников Павел Владимирович": 687,
-      "Левандовский Валерий Витальевич": 48,
-      "Пронина Зоя Ивановна": 74,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 142,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000217965": 25,
+      "gas:candidate-vibid:374300466922": 22,
+      "gas:candidate-vibid:1001000220853": 39,
+      "gas:candidate-vibid:1001000113990": 687,
+      "gas:candidate-vibid:374300466670": 48,
+      "gas:candidate-vibid:1001000121928": 74,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 142,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 61,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 676,
-      "Левандовский Валерий Витальевич": 49,
-      "Пронина Зоя Ивановна": 75,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 119,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 61,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 676,
+      "gas:candidate-vibid:374300466670": 49,
+      "gas:candidate-vibid:1001000121928": 75,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 119,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 14,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 63,
-      "Крашенинников Павел Владимирович": 683,
-      "Левандовский Валерий Витальевич": 40,
-      "Пронина Зоя Ивановна": 55,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 106,
-      "Четыркин Юрий Борисович": 12,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000217965": 14,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 63,
+      "gas:candidate-vibid:1001000113990": 683,
+      "gas:candidate-vibid:374300466670": 40,
+      "gas:candidate-vibid:1001000121928": 55,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 106,
+      "gas:candidate-vibid:374300466673": 12,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 47,
-      "Дубровский Владимир Федорович": 32,
-      "Крашенинников Павел Владимирович": 676,
-      "Левандовский Валерий Витальевич": 60,
-      "Пронина Зоя Ивановна": 82,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 154,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 47,
+      "gas:candidate-vibid:1001000220853": 32,
+      "gas:candidate-vibid:1001000113990": 676,
+      "gas:candidate-vibid:374300466670": 60,
+      "gas:candidate-vibid:1001000121928": 82,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 154,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 20,
-      "Дубровский Владимир Федорович": 20,
-      "Крашенинников Павел Владимирович": 424,
-      "Левандовский Валерий Витальевич": 24,
-      "Пронина Зоя Ивановна": 56,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 93,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 20,
+      "gas:candidate-vibid:1001000220853": 20,
+      "gas:candidate-vibid:1001000113990": 424,
+      "gas:candidate-vibid:374300466670": 24,
+      "gas:candidate-vibid:1001000121928": 56,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 93,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 64,
-      "Дубровский Владимир Федорович": 60,
-      "Крашенинников Павел Владимирович": 637,
-      "Левандовский Валерий Витальевич": 61,
-      "Пронина Зоя Ивановна": 82,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 184,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 64,
+      "gas:candidate-vibid:1001000220853": 60,
+      "gas:candidate-vibid:1001000113990": 637,
+      "gas:candidate-vibid:374300466670": 61,
+      "gas:candidate-vibid:1001000121928": 82,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 184,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 21,
-      "Дубровский Владимир Федорович": 36,
-      "Крашенинников Павел Владимирович": 498,
-      "Левандовский Валерий Витальевич": 40,
-      "Пронина Зоя Ивановна": 58,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 107,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 21,
+      "gas:candidate-vibid:1001000220853": 36,
+      "gas:candidate-vibid:1001000113990": 498,
+      "gas:candidate-vibid:374300466670": 40,
+      "gas:candidate-vibid:1001000121928": 58,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 107,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 37,
-      "Дубровский Владимир Федорович": 66,
-      "Крашенинников Павел Владимирович": 820,
-      "Левандовский Валерий Витальевич": 59,
-      "Пронина Зоя Ивановна": 126,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 194,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 37,
+      "gas:candidate-vibid:1001000220853": 66,
+      "gas:candidate-vibid:1001000113990": 820,
+      "gas:candidate-vibid:374300466670": 59,
+      "gas:candidate-vibid:1001000121928": 126,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 194,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 37,
-      "Глуховский Владимир Ильич": 43,
-      "Дубровский Владимир Федорович": 24,
-      "Крашенинников Павел Владимирович": 627,
-      "Левандовский Валерий Витальевич": 39,
-      "Пронина Зоя Ивановна": 25,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 128,
-      "Четыркин Юрий Борисович": 10,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000217965": 37,
+      "gas:candidate-vibid:374300466922": 43,
+      "gas:candidate-vibid:1001000220853": 24,
+      "gas:candidate-vibid:1001000113990": 627,
+      "gas:candidate-vibid:374300466670": 39,
+      "gas:candidate-vibid:1001000121928": 25,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 128,
+      "gas:candidate-vibid:374300466673": 10,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 26,
-      "Крашенинников Павел Владимирович": 384,
-      "Левандовский Валерий Витальевич": 47,
-      "Пронина Зоя Ивановна": 39,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 103,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 26,
+      "gas:candidate-vibid:1001000113990": 384,
+      "gas:candidate-vibid:374300466670": 47,
+      "gas:candidate-vibid:1001000121928": 39,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 103,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 5,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 13,
-      "Крашенинников Павел Владимирович": 292,
-      "Левандовский Валерий Витальевич": 19,
-      "Пронина Зоя Ивановна": 32,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 68,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000217965": 5,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 13,
+      "gas:candidate-vibid:1001000113990": 292,
+      "gas:candidate-vibid:374300466670": 19,
+      "gas:candidate-vibid:1001000121928": 32,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 68,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 36,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 399,
-      "Левандовский Валерий Витальевич": 38,
-      "Пронина Зоя Ивановна": 79,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 129,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 36,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 399,
+      "gas:candidate-vibid:374300466670": 38,
+      "gas:candidate-vibid:1001000121928": 79,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 129,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 46,
-      "Дубровский Владимир Федорович": 37,
-      "Крашенинников Павел Владимирович": 624,
-      "Левандовский Валерий Витальевич": 52,
-      "Пронина Зоя Ивановна": 107,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 156,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 46,
+      "gas:candidate-vibid:1001000220853": 37,
+      "gas:candidate-vibid:1001000113990": 624,
+      "gas:candidate-vibid:374300466670": 52,
+      "gas:candidate-vibid:1001000121928": 107,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 156,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 15,
-      "Дубровский Владимир Федорович": 22,
-      "Крашенинников Павел Владимирович": 455,
-      "Левандовский Валерий Витальевич": 41,
-      "Пронина Зоя Ивановна": 52,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 100,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 15,
+      "gas:candidate-vibid:1001000220853": 22,
+      "gas:candidate-vibid:1001000113990": 455,
+      "gas:candidate-vibid:374300466670": 41,
+      "gas:candidate-vibid:1001000121928": 52,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 100,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 27,
-      "Дубровский Владимир Федорович": 43,
-      "Крашенинников Павел Владимирович": 465,
-      "Левандовский Валерий Витальевич": 35,
-      "Пронина Зоя Ивановна": 52,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 113,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 27,
+      "gas:candidate-vibid:1001000220853": 43,
+      "gas:candidate-vibid:1001000113990": 465,
+      "gas:candidate-vibid:374300466670": 35,
+      "gas:candidate-vibid:1001000121928": 52,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 113,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467153&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 34,
-      "Крашенинников Павел Владимирович": 269,
-      "Левандовский Валерий Витальевич": 19,
-      "Пронина Зоя Ивановна": 30,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 71,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 34,
+      "gas:candidate-vibid:1001000113990": 269,
+      "gas:candidate-vibid:374300466670": 19,
+      "gas:candidate-vibid:1001000121928": 30,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 71,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 10,
-      "Дубровский Владимир Федорович": 29,
-      "Крашенинников Павел Владимирович": 285,
-      "Левандовский Валерий Витальевич": 24,
-      "Пронина Зоя Ивановна": 22,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 78,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 10,
+      "gas:candidate-vibid:1001000220853": 29,
+      "gas:candidate-vibid:1001000113990": 285,
+      "gas:candidate-vibid:374300466670": 24,
+      "gas:candidate-vibid:1001000121928": 22,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 78,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 15,
-      "Дубровский Владимир Федорович": 58,
-      "Крашенинников Павел Владимирович": 331,
-      "Левандовский Валерий Витальевич": 26,
-      "Пронина Зоя Ивановна": 33,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 86,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 15,
+      "gas:candidate-vibid:1001000220853": 58,
+      "gas:candidate-vibid:1001000113990": 331,
+      "gas:candidate-vibid:374300466670": 26,
+      "gas:candidate-vibid:1001000121928": 33,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 86,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 4,
-      "Дубровский Владимир Федорович": 30,
-      "Крашенинников Павел Владимирович": 147,
-      "Левандовский Валерий Витальевич": 9,
-      "Пронина Зоя Ивановна": 19,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 38,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 4,
+      "gas:candidate-vibid:1001000220853": 30,
+      "gas:candidate-vibid:1001000113990": 147,
+      "gas:candidate-vibid:374300466670": 9,
+      "gas:candidate-vibid:1001000121928": 19,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 38,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 12,
-      "Крашенинников Павел Владимирович": 128,
-      "Левандовский Валерий Витальевич": 9,
-      "Пронина Зоя Ивановна": 21,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 39,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 12,
+      "gas:candidate-vibid:1001000113990": 128,
+      "gas:candidate-vibid:374300466670": 9,
+      "gas:candidate-vibid:1001000121928": 21,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 39,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 31,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 53,
-      "Крашенинников Павел Владимирович": 322,
-      "Левандовский Валерий Витальевич": 27,
-      "Пронина Зоя Ивановна": 46,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 94,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000217965": 31,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 53,
+      "gas:candidate-vibid:1001000113990": 322,
+      "gas:candidate-vibid:374300466670": 27,
+      "gas:candidate-vibid:1001000121928": 46,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 94,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 14,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 294,
-      "Левандовский Валерий Витальевич": 28,
-      "Пронина Зоя Ивановна": 52,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 55,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 14,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 294,
+      "gas:candidate-vibid:374300466670": 28,
+      "gas:candidate-vibid:1001000121928": 52,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 55,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 14,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 49,
-      "Крашенинников Павел Владимирович": 309,
-      "Левандовский Валерий Витальевич": 25,
-      "Пронина Зоя Ивановна": 39,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 84,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000217965": 14,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 49,
+      "gas:candidate-vibid:1001000113990": 309,
+      "gas:candidate-vibid:374300466670": 25,
+      "gas:candidate-vibid:1001000121928": 39,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 84,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 47,
-      "Крашенинников Павел Владимирович": 429,
-      "Левандовский Валерий Витальевич": 55,
-      "Пронина Зоя Ивановна": 40,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 133,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 47,
+      "gas:candidate-vibid:1001000113990": 429,
+      "gas:candidate-vibid:374300466670": 55,
+      "gas:candidate-vibid:1001000121928": 40,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 133,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 15,
-      "Дубровский Владимир Федорович": 64,
-      "Крашенинников Павел Владимирович": 443,
-      "Левандовский Валерий Витальевич": 44,
-      "Пронина Зоя Ивановна": 64,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 132,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 15,
+      "gas:candidate-vibid:1001000220853": 64,
+      "gas:candidate-vibid:1001000113990": 443,
+      "gas:candidate-vibid:374300466670": 44,
+      "gas:candidate-vibid:1001000121928": 64,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 132,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 66,
-      "Крашенинников Павел Владимирович": 226,
-      "Левандовский Валерий Витальевич": 20,
-      "Пронина Зоя Ивановна": 37,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 86,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 66,
+      "gas:candidate-vibid:1001000113990": 226,
+      "gas:candidate-vibid:374300466670": 20,
+      "gas:candidate-vibid:1001000121928": 37,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 86,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 26,
-      "Крашенинников Павел Владимирович": 287,
-      "Левандовский Валерий Витальевич": 22,
-      "Пронина Зоя Ивановна": 41,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 100,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 26,
+      "gas:candidate-vibid:1001000113990": 287,
+      "gas:candidate-vibid:374300466670": 22,
+      "gas:candidate-vibid:1001000121928": 41,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 100,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 12,
-      "Дубровский Владимир Федорович": 34,
-      "Крашенинников Павел Владимирович": 300,
-      "Левандовский Валерий Витальевич": 45,
-      "Пронина Зоя Ивановна": 53,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 109,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 12,
+      "gas:candidate-vibid:1001000220853": 34,
+      "gas:candidate-vibid:1001000113990": 300,
+      "gas:candidate-vibid:374300466670": 45,
+      "gas:candidate-vibid:1001000121928": 53,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 109,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 24,
-      "Крашенинников Павел Владимирович": 233,
-      "Левандовский Валерий Витальевич": 14,
-      "Пронина Зоя Ивановна": 36,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 61,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 24,
+      "gas:candidate-vibid:1001000113990": 233,
+      "gas:candidate-vibid:374300466670": 14,
+      "gas:candidate-vibid:1001000121928": 36,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 61,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 21,
-      "Крашенинников Павел Владимирович": 169,
-      "Левандовский Валерий Витальевич": 37,
-      "Пронина Зоя Ивановна": 24,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 40,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 21,
+      "gas:candidate-vibid:1001000113990": 169,
+      "gas:candidate-vibid:374300466670": 37,
+      "gas:candidate-vibid:1001000121928": 24,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 40,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 22,
-      "Крашенинников Павел Владимирович": 334,
-      "Левандовский Валерий Витальевич": 26,
-      "Пронина Зоя Ивановна": 34,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 102,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 22,
+      "gas:candidate-vibid:1001000113990": 334,
+      "gas:candidate-vibid:374300466670": 26,
+      "gas:candidate-vibid:1001000121928": 34,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 102,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 24,
-      "Крашенинников Павел Владимирович": 272,
-      "Левандовский Валерий Витальевич": 17,
-      "Пронина Зоя Ивановна": 37,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 61,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 24,
+      "gas:candidate-vibid:1001000113990": 272,
+      "gas:candidate-vibid:374300466670": 17,
+      "gas:candidate-vibid:1001000121928": 37,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 61,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 3,
-      "Дубровский Владимир Федорович": 23,
-      "Крашенинников Павел Владимирович": 241,
-      "Левандовский Валерий Витальевич": 23,
-      "Пронина Зоя Ивановна": 44,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 65,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 3,
+      "gas:candidate-vibid:1001000220853": 23,
+      "gas:candidate-vibid:1001000113990": 241,
+      "gas:candidate-vibid:374300466670": 23,
+      "gas:candidate-vibid:1001000121928": 44,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 65,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 21,
-      "Крашенинников Павел Владимирович": 378,
-      "Левандовский Валерий Витальевич": 22,
-      "Пронина Зоя Ивановна": 33,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 126,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 21,
+      "gas:candidate-vibid:1001000113990": 378,
+      "gas:candidate-vibid:374300466670": 22,
+      "gas:candidate-vibid:1001000121928": 33,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 126,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 7,
-      "Дубровский Владимир Федорович": 15,
-      "Крашенинников Павел Владимирович": 252,
-      "Левандовский Валерий Витальевич": 30,
-      "Пронина Зоя Ивановна": 26,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 73,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 7,
+      "gas:candidate-vibid:1001000220853": 15,
+      "gas:candidate-vibid:1001000113990": 252,
+      "gas:candidate-vibid:374300466670": 30,
+      "gas:candidate-vibid:1001000121928": 26,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 73,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 3,
-      "Дубровский Владимир Федорович": 13,
-      "Крашенинников Павел Владимирович": 217,
-      "Левандовский Валерий Витальевич": 11,
-      "Пронина Зоя Ивановна": 28,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 48,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 3,
+      "gas:candidate-vibid:1001000220853": 13,
+      "gas:candidate-vibid:1001000113990": 217,
+      "gas:candidate-vibid:374300466670": 11,
+      "gas:candidate-vibid:1001000121928": 28,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 48,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 29,
-      "Крашенинников Павел Владимирович": 334,
-      "Левандовский Валерий Витальевич": 33,
-      "Пронина Зоя Ивановна": 26,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 87,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 29,
+      "gas:candidate-vibid:1001000113990": 334,
+      "gas:candidate-vibid:374300466670": 33,
+      "gas:candidate-vibid:1001000121928": 26,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 87,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 3,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 18,
-      "Крашенинников Павел Владимирович": 47,
-      "Левандовский Валерий Витальевич": 9,
-      "Пронина Зоя Ивановна": 5,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217965": 3,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 18,
+      "gas:candidate-vibid:1001000113990": 47,
+      "gas:candidate-vibid:374300466670": 9,
+      "gas:candidate-vibid:1001000121928": 5,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 2,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 2,
-      "Крашенинников Павел Владимирович": 54,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 3,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 9,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217965": 2,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 2,
+      "gas:candidate-vibid:1001000113990": 54,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 3,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 9,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 11,
-      "Крашенинников Павел Владимирович": 140,
-      "Левандовский Валерий Витальевич": 10,
-      "Пронина Зоя Ивановна": 10,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 46,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 11,
+      "gas:candidate-vibid:1001000113990": 140,
+      "gas:candidate-vibid:374300466670": 10,
+      "gas:candidate-vibid:1001000121928": 10,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 46,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 4,
-      "Глуховский Владимир Ильич": 12,
-      "Дубровский Владимир Федорович": 13,
-      "Крашенинников Павел Владимирович": 179,
-      "Левандовский Валерий Витальевич": 15,
-      "Пронина Зоя Ивановна": 34,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 35,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000217965": 4,
+      "gas:candidate-vibid:374300466922": 12,
+      "gas:candidate-vibid:1001000220853": 13,
+      "gas:candidate-vibid:1001000113990": 179,
+      "gas:candidate-vibid:374300466670": 15,
+      "gas:candidate-vibid:1001000121928": 34,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 35,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 13,
-      "Крашенинников Павел Владимирович": 233,
-      "Левандовский Валерий Витальевич": 9,
-      "Пронина Зоя Ивановна": 22,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 57,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 13,
+      "gas:candidate-vibid:1001000113990": 233,
+      "gas:candidate-vibid:374300466670": 9,
+      "gas:candidate-vibid:1001000121928": 22,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 57,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 4,
-      "Глуховский Владимир Ильич": 7,
-      "Дубровский Владимир Федорович": 19,
-      "Крашенинников Павел Владимирович": 159,
-      "Левандовский Валерий Витальевич": 8,
-      "Пронина Зоя Ивановна": 20,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 34,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000217965": 4,
+      "gas:candidate-vibid:374300466922": 7,
+      "gas:candidate-vibid:1001000220853": 19,
+      "gas:candidate-vibid:1001000113990": 159,
+      "gas:candidate-vibid:374300466670": 8,
+      "gas:candidate-vibid:1001000121928": 20,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 34,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 6,
-      "Глуховский Владимир Ильич": 4,
-      "Дубровский Владимир Федорович": 10,
-      "Крашенинников Павел Владимирович": 170,
-      "Левандовский Валерий Витальевич": 9,
-      "Пронина Зоя Ивановна": 22,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 28,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217965": 6,
+      "gas:candidate-vibid:374300466922": 4,
+      "gas:candidate-vibid:1001000220853": 10,
+      "gas:candidate-vibid:1001000113990": 170,
+      "gas:candidate-vibid:374300466670": 9,
+      "gas:candidate-vibid:1001000121928": 22,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 28,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 44,
-      "Дубровский Владимир Федорович": 42,
-      "Крашенинников Павел Владимирович": 526,
-      "Левандовский Валерий Витальевич": 48,
-      "Пронина Зоя Ивановна": 98,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 151,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 44,
+      "gas:candidate-vibid:1001000220853": 42,
+      "gas:candidate-vibid:1001000113990": 526,
+      "gas:candidate-vibid:374300466670": 48,
+      "gas:candidate-vibid:1001000121928": 98,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 151,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 27,
-      "Глуховский Владимир Ильич": 94,
-      "Дубровский Владимир Федорович": 57,
-      "Крашенинников Павел Владимирович": 592,
-      "Левандовский Валерий Витальевич": 39,
-      "Пронина Зоя Ивановна": 86,
-      "Солдаткин Дмитрий Федорович": 15,
-      "Чершинцев Александр Григорьевич": 185,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000217965": 27,
+      "gas:candidate-vibid:374300466922": 94,
+      "gas:candidate-vibid:1001000220853": 57,
+      "gas:candidate-vibid:1001000113990": 592,
+      "gas:candidate-vibid:374300466670": 39,
+      "gas:candidate-vibid:1001000121928": 86,
+      "gas:candidate-vibid:374300466667": 15,
+      "gas:candidate-vibid:1001000226000": 185,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 36,
-      "Дубровский Владимир Федорович": 63,
-      "Крашенинников Павел Владимирович": 542,
-      "Левандовский Валерий Витальевич": 36,
-      "Пронина Зоя Ивановна": 88,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 188,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 36,
+      "gas:candidate-vibid:1001000220853": 63,
+      "gas:candidate-vibid:1001000113990": 542,
+      "gas:candidate-vibid:374300466670": 36,
+      "gas:candidate-vibid:1001000121928": 88,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 188,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 23,
-      "Глуховский Владимир Ильич": 74,
-      "Дубровский Владимир Федорович": 59,
-      "Крашенинников Павел Владимирович": 600,
-      "Левандовский Валерий Витальевич": 53,
-      "Пронина Зоя Ивановна": 91,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 158,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000217965": 23,
+      "gas:candidate-vibid:374300466922": 74,
+      "gas:candidate-vibid:1001000220853": 59,
+      "gas:candidate-vibid:1001000113990": 600,
+      "gas:candidate-vibid:374300466670": 53,
+      "gas:candidate-vibid:1001000121928": 91,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 158,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 70,
-      "Дубровский Владимир Федорович": 61,
-      "Крашенинников Павел Владимирович": 832,
-      "Левандовский Валерий Витальевич": 69,
-      "Пронина Зоя Ивановна": 92,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 151,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 70,
+      "gas:candidate-vibid:1001000220853": 61,
+      "gas:candidate-vibid:1001000113990": 832,
+      "gas:candidate-vibid:374300466670": 69,
+      "gas:candidate-vibid:1001000121928": 92,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 151,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 73,
-      "Дубровский Владимир Федорович": 94,
-      "Крашенинников Павел Владимирович": 633,
-      "Левандовский Валерий Витальевич": 36,
-      "Пронина Зоя Ивановна": 73,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 161,
-      "Четыркин Юрий Борисович": 9,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 73,
+      "gas:candidate-vibid:1001000220853": 94,
+      "gas:candidate-vibid:1001000113990": 633,
+      "gas:candidate-vibid:374300466670": 36,
+      "gas:candidate-vibid:1001000121928": 73,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 161,
+      "gas:candidate-vibid:374300466673": 9,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 51,
-      "Дубровский Владимир Федорович": 60,
-      "Крашенинников Павел Владимирович": 451,
-      "Левандовский Валерий Витальевич": 47,
-      "Пронина Зоя Ивановна": 47,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 99,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 51,
+      "gas:candidate-vibid:1001000220853": 60,
+      "gas:candidate-vibid:1001000113990": 451,
+      "gas:candidate-vibid:374300466670": 47,
+      "gas:candidate-vibid:1001000121928": 47,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 99,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 38,
-      "Дубровский Владимир Федорович": 83,
-      "Крашенинников Павел Владимирович": 537,
-      "Левандовский Валерий Витальевич": 59,
-      "Пронина Зоя Ивановна": 79,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 127,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 38,
+      "gas:candidate-vibid:1001000220853": 83,
+      "gas:candidate-vibid:1001000113990": 537,
+      "gas:candidate-vibid:374300466670": 59,
+      "gas:candidate-vibid:1001000121928": 79,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 127,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 31,
-      "Дубровский Владимир Федорович": 100,
-      "Крашенинников Павел Владимирович": 604,
-      "Левандовский Валерий Витальевич": 40,
-      "Пронина Зоя Ивановна": 54,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 138,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 31,
+      "gas:candidate-vibid:1001000220853": 100,
+      "gas:candidate-vibid:1001000113990": 604,
+      "gas:candidate-vibid:374300466670": 40,
+      "gas:candidate-vibid:1001000121928": 54,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 138,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 41,
-      "Глуховский Владимир Ильич": 69,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 882,
-      "Левандовский Валерий Витальевич": 94,
-      "Пронина Зоя Ивановна": 88,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 193,
-      "Четыркин Юрий Борисович": 11,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000217965": 41,
+      "gas:candidate-vibid:374300466922": 69,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 882,
+      "gas:candidate-vibid:374300466670": 94,
+      "gas:candidate-vibid:1001000121928": 88,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 193,
+      "gas:candidate-vibid:374300466673": 11,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 33,
-      "Глуховский Владимир Ильич": 62,
-      "Дубровский Владимир Федорович": 53,
-      "Крашенинников Павел Владимирович": 1032,
-      "Левандовский Валерий Витальевич": 82,
-      "Пронина Зоя Ивановна": 108,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 217,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000217965": 33,
+      "gas:candidate-vibid:374300466922": 62,
+      "gas:candidate-vibid:1001000220853": 53,
+      "gas:candidate-vibid:1001000113990": 1032,
+      "gas:candidate-vibid:374300466670": 82,
+      "gas:candidate-vibid:1001000121928": 108,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 217,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 55,
-      "Дубровский Владимир Федорович": 42,
-      "Крашенинников Павел Владимирович": 795,
-      "Левандовский Валерий Витальевич": 81,
-      "Пронина Зоя Ивановна": 77,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 176,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 55,
+      "gas:candidate-vibid:1001000220853": 42,
+      "gas:candidate-vibid:1001000113990": 795,
+      "gas:candidate-vibid:374300466670": 81,
+      "gas:candidate-vibid:1001000121928": 77,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 176,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 27,
-      "Глуховский Владимир Ильич": 93,
-      "Дубровский Владимир Федорович": 63,
-      "Крашенинников Павел Владимирович": 808,
-      "Левандовский Валерий Витальевич": 71,
-      "Пронина Зоя Ивановна": 97,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 189,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000217965": 27,
+      "gas:candidate-vibid:374300466922": 93,
+      "gas:candidate-vibid:1001000220853": 63,
+      "gas:candidate-vibid:1001000113990": 808,
+      "gas:candidate-vibid:374300466670": 71,
+      "gas:candidate-vibid:1001000121928": 97,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 189,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 42,
-      "Глуховский Владимир Ильич": 93,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 757,
-      "Левандовский Валерий Витальевич": 79,
-      "Пронина Зоя Ивановна": 77,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 225,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000217965": 42,
+      "gas:candidate-vibid:374300466922": 93,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 757,
+      "gas:candidate-vibid:374300466670": 79,
+      "gas:candidate-vibid:1001000121928": 77,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 225,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 51,
-      "Дубровский Владимир Федорович": 56,
-      "Крашенинников Павел Владимирович": 727,
-      "Левандовский Валерий Витальевич": 89,
-      "Пронина Зоя Ивановна": 64,
-      "Солдаткин Дмитрий Федорович": 11,
-      "Чершинцев Александр Григорьевич": 185,
-      "Четыркин Юрий Борисович": 9,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 51,
+      "gas:candidate-vibid:1001000220853": 56,
+      "gas:candidate-vibid:1001000113990": 727,
+      "gas:candidate-vibid:374300466670": 89,
+      "gas:candidate-vibid:1001000121928": 64,
+      "gas:candidate-vibid:374300466667": 11,
+      "gas:candidate-vibid:1001000226000": 185,
+      "gas:candidate-vibid:374300466673": 9,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 39,
-      "Глуховский Владимир Ильич": 91,
-      "Дубровский Владимир Федорович": 58,
-      "Крашенинников Павел Владимирович": 769,
-      "Левандовский Валерий Витальевич": 107,
-      "Пронина Зоя Ивановна": 111,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 160,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000217965": 39,
+      "gas:candidate-vibid:374300466922": 91,
+      "gas:candidate-vibid:1001000220853": 58,
+      "gas:candidate-vibid:1001000113990": 769,
+      "gas:candidate-vibid:374300466670": 107,
+      "gas:candidate-vibid:1001000121928": 111,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 160,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 29,
-      "Глуховский Владимир Ильич": 93,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 911,
-      "Левандовский Валерий Витальевич": 94,
-      "Пронина Зоя Ивановна": 87,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 187,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000217965": 29,
+      "gas:candidate-vibid:374300466922": 93,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 911,
+      "gas:candidate-vibid:374300466670": 94,
+      "gas:candidate-vibid:1001000121928": 87,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 187,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 29,
-      "Глуховский Владимир Ильич": 66,
-      "Дубровский Владимир Федорович": 38,
-      "Крашенинников Павел Владимирович": 716,
-      "Левандовский Валерий Витальевич": 68,
-      "Пронина Зоя Ивановна": 66,
-      "Солдаткин Дмитрий Федорович": 12,
-      "Чершинцев Александр Григорьевич": 180,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000217965": 29,
+      "gas:candidate-vibid:374300466922": 66,
+      "gas:candidate-vibid:1001000220853": 38,
+      "gas:candidate-vibid:1001000113990": 716,
+      "gas:candidate-vibid:374300466670": 68,
+      "gas:candidate-vibid:1001000121928": 66,
+      "gas:candidate-vibid:374300466667": 12,
+      "gas:candidate-vibid:1001000226000": 180,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 27,
-      "Глуховский Владимир Ильич": 108,
-      "Дубровский Владимир Федорович": 49,
-      "Крашенинников Павел Владимирович": 542,
-      "Левандовский Валерий Витальевич": 58,
-      "Пронина Зоя Ивановна": 99,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 152,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000217965": 27,
+      "gas:candidate-vibid:374300466922": 108,
+      "gas:candidate-vibid:1001000220853": 49,
+      "gas:candidate-vibid:1001000113990": 542,
+      "gas:candidate-vibid:374300466670": 58,
+      "gas:candidate-vibid:1001000121928": 99,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 152,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 101,
-      "Дубровский Владимир Федорович": 74,
-      "Крашенинников Павел Владимирович": 722,
-      "Левандовский Валерий Витальевич": 67,
-      "Пронина Зоя Ивановна": 74,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 177,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 101,
+      "gas:candidate-vibid:1001000220853": 74,
+      "gas:candidate-vibid:1001000113990": 722,
+      "gas:candidate-vibid:374300466670": 67,
+      "gas:candidate-vibid:1001000121928": 74,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 177,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 16,
-      "Дубровский Владимир Федорович": 66,
-      "Крашенинников Павел Владимирович": 615,
-      "Левандовский Валерий Витальевич": 64,
-      "Пронина Зоя Ивановна": 71,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 215,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 16,
+      "gas:candidate-vibid:1001000220853": 66,
+      "gas:candidate-vibid:1001000113990": 615,
+      "gas:candidate-vibid:374300466670": 64,
+      "gas:candidate-vibid:1001000121928": 71,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 215,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 26,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 727,
-      "Левандовский Валерий Витальевич": 79,
-      "Пронина Зоя Ивановна": 87,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 199,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000217965": 26,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 727,
+      "gas:candidate-vibid:374300466670": 79,
+      "gas:candidate-vibid:1001000121928": 87,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 199,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 21,
-      "Дубровский Владимир Федорович": 89,
-      "Крашенинников Павел Владимирович": 709,
-      "Левандовский Валерий Витальевич": 44,
-      "Пронина Зоя Ивановна": 96,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 204,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 21,
+      "gas:candidate-vibid:1001000220853": 89,
+      "gas:candidate-vibid:1001000113990": 709,
+      "gas:candidate-vibid:374300466670": 44,
+      "gas:candidate-vibid:1001000121928": 96,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 204,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 24,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 536,
-      "Левандовский Валерий Витальевич": 32,
-      "Пронина Зоя Ивановна": 74,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 138,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 24,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 536,
+      "gas:candidate-vibid:374300466670": 32,
+      "gas:candidate-vibid:1001000121928": 74,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 138,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 23,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 581,
-      "Левандовский Валерий Витальевич": 46,
-      "Пронина Зоя Ивановна": 81,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 169,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 23,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 581,
+      "gas:candidate-vibid:374300466670": 46,
+      "gas:candidate-vibid:1001000121928": 81,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 169,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 15,
-      "Глуховский Владимир Ильич": 81,
-      "Дубровский Владимир Федорович": 51,
-      "Крашенинников Павел Владимирович": 620,
-      "Левандовский Валерий Витальевич": 48,
-      "Пронина Зоя Ивановна": 78,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 145,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000217965": 15,
+      "gas:candidate-vibid:374300466922": 81,
+      "gas:candidate-vibid:1001000220853": 51,
+      "gas:candidate-vibid:1001000113990": 620,
+      "gas:candidate-vibid:374300466670": 48,
+      "gas:candidate-vibid:1001000121928": 78,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 145,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 36,
-      "Дубровский Владимир Федорович": 56,
-      "Крашенинников Павел Владимирович": 769,
-      "Левандовский Валерий Витальевич": 68,
-      "Пронина Зоя Ивановна": 90,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 164,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 36,
+      "gas:candidate-vibid:1001000220853": 56,
+      "gas:candidate-vibid:1001000113990": 769,
+      "gas:candidate-vibid:374300466670": 68,
+      "gas:candidate-vibid:1001000121928": 90,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 164,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 20,
-      "Дубровский Владимир Федорович": 65,
-      "Крашенинников Павел Владимирович": 603,
-      "Левандовский Валерий Витальевич": 52,
-      "Пронина Зоя Ивановна": 56,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 153,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 20,
+      "gas:candidate-vibid:1001000220853": 65,
+      "gas:candidate-vibid:1001000113990": 603,
+      "gas:candidate-vibid:374300466670": 52,
+      "gas:candidate-vibid:1001000121928": 56,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 153,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 12,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 504,
-      "Левандовский Валерий Витальевич": 29,
-      "Пронина Зоя Ивановна": 59,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 128,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 12,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 504,
+      "gas:candidate-vibid:374300466670": 29,
+      "gas:candidate-vibid:1001000121928": 59,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 128,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 23,
-      "Дубровский Владимир Федорович": 60,
-      "Крашенинников Павел Владимирович": 629,
-      "Левандовский Валерий Витальевич": 46,
-      "Пронина Зоя Ивановна": 77,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 155,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 23,
+      "gas:candidate-vibid:1001000220853": 60,
+      "gas:candidate-vibid:1001000113990": 629,
+      "gas:candidate-vibid:374300466670": 46,
+      "gas:candidate-vibid:1001000121928": 77,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 155,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 27,
-      "Глуховский Владимир Ильич": 25,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 749,
-      "Левандовский Валерий Витальевич": 67,
-      "Пронина Зоя Ивановна": 118,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 177,
-      "Четыркин Юрий Борисович": 12,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000217965": 27,
+      "gas:candidate-vibid:374300466922": 25,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 749,
+      "gas:candidate-vibid:374300466670": 67,
+      "gas:candidate-vibid:1001000121928": 118,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 177,
+      "gas:candidate-vibid:374300466673": 12,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 18,
-      "Дубровский Владимир Федорович": 62,
-      "Крашенинников Павел Владимирович": 663,
-      "Левандовский Валерий Витальевич": 40,
-      "Пронина Зоя Ивановна": 63,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 144,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 18,
+      "gas:candidate-vibid:1001000220853": 62,
+      "gas:candidate-vibid:1001000113990": 663,
+      "gas:candidate-vibid:374300466670": 40,
+      "gas:candidate-vibid:1001000121928": 63,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 144,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 36,
-      "Дубровский Владимир Федорович": 47,
-      "Крашенинников Павел Владимирович": 627,
-      "Левандовский Валерий Витальевич": 58,
-      "Пронина Зоя Ивановна": 66,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 176,
-      "Четыркин Юрий Борисович": 10,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 36,
+      "gas:candidate-vibid:1001000220853": 47,
+      "gas:candidate-vibid:1001000113990": 627,
+      "gas:candidate-vibid:374300466670": 58,
+      "gas:candidate-vibid:1001000121928": 66,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 176,
+      "gas:candidate-vibid:374300466673": 10,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 53,
-      "Дубровский Владимир Федорович": 41,
-      "Крашенинников Павел Владимирович": 637,
-      "Левандовский Валерий Витальевич": 43,
-      "Пронина Зоя Ивановна": 58,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 138,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 53,
+      "gas:candidate-vibid:1001000220853": 41,
+      "gas:candidate-vibid:1001000113990": 637,
+      "gas:candidate-vibid:374300466670": 43,
+      "gas:candidate-vibid:1001000121928": 58,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 138,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 27,
-      "Дубровский Владимир Федорович": 18,
-      "Крашенинников Павел Владимирович": 379,
-      "Левандовский Валерий Витальевич": 42,
-      "Пронина Зоя Ивановна": 45,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 97,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 27,
+      "gas:candidate-vibid:1001000220853": 18,
+      "gas:candidate-vibid:1001000113990": 379,
+      "gas:candidate-vibid:374300466670": 42,
+      "gas:candidate-vibid:1001000121928": 45,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 97,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 25,
-      "Глуховский Владимир Ильич": 14,
-      "Дубровский Владимир Федорович": 68,
-      "Крашенинников Павел Владимирович": 756,
-      "Левандовский Валерий Витальевич": 72,
-      "Пронина Зоя Ивановна": 100,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 172,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000217965": 25,
+      "gas:candidate-vibid:374300466922": 14,
+      "gas:candidate-vibid:1001000220853": 68,
+      "gas:candidate-vibid:1001000113990": 756,
+      "gas:candidate-vibid:374300466670": 72,
+      "gas:candidate-vibid:1001000121928": 100,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 172,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 26,
-      "Дубровский Владимир Федорович": 82,
-      "Крашенинников Павел Владимирович": 774,
-      "Левандовский Валерий Витальевич": 73,
-      "Пронина Зоя Ивановна": 84,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 151,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 26,
+      "gas:candidate-vibid:1001000220853": 82,
+      "gas:candidate-vibid:1001000113990": 774,
+      "gas:candidate-vibid:374300466670": 73,
+      "gas:candidate-vibid:1001000121928": 84,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 151,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 48,
-      "Дубровский Владимир Федорович": 48,
-      "Крашенинников Павел Владимирович": 684,
-      "Левандовский Валерий Витальевич": 65,
-      "Пронина Зоя Ивановна": 66,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 115,
-      "Четыркин Юрий Борисович": 11,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 48,
+      "gas:candidate-vibid:1001000220853": 48,
+      "gas:candidate-vibid:1001000113990": 684,
+      "gas:candidate-vibid:374300466670": 65,
+      "gas:candidate-vibid:1001000121928": 66,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 115,
+      "gas:candidate-vibid:374300466673": 11,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 33,
-      "Глуховский Владимир Ильич": 30,
-      "Дубровский Владимир Федорович": 103,
-      "Крашенинников Павел Владимирович": 796,
-      "Левандовский Валерий Витальевич": 91,
-      "Пронина Зоя Ивановна": 72,
-      "Солдаткин Дмитрий Федорович": 10,
-      "Чершинцев Александр Григорьевич": 172,
-      "Четыркин Юрий Борисович": 9,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000217965": 33,
+      "gas:candidate-vibid:374300466922": 30,
+      "gas:candidate-vibid:1001000220853": 103,
+      "gas:candidate-vibid:1001000113990": 796,
+      "gas:candidate-vibid:374300466670": 91,
+      "gas:candidate-vibid:1001000121928": 72,
+      "gas:candidate-vibid:374300466667": 10,
+      "gas:candidate-vibid:1001000226000": 172,
+      "gas:candidate-vibid:374300466673": 9,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 31,
-      "Глуховский Владимир Ильич": 119,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 611,
-      "Левандовский Валерий Витальевич": 89,
-      "Пронина Зоя Ивановна": 77,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 181,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000217965": 31,
+      "gas:candidate-vibid:374300466922": 119,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 611,
+      "gas:candidate-vibid:374300466670": 89,
+      "gas:candidate-vibid:1001000121928": 77,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 181,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 25,
-      "Глуховский Владимир Ильич": 40,
-      "Дубровский Владимир Федорович": 53,
-      "Крашенинников Павел Владимирович": 763,
-      "Левандовский Валерий Витальевич": 84,
-      "Пронина Зоя Ивановна": 57,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 235,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000217965": 25,
+      "gas:candidate-vibid:374300466922": 40,
+      "gas:candidate-vibid:1001000220853": 53,
+      "gas:candidate-vibid:1001000113990": 763,
+      "gas:candidate-vibid:374300466670": 84,
+      "gas:candidate-vibid:1001000121928": 57,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 235,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 26,
-      "Глуховский Владимир Ильич": 54,
-      "Дубровский Владимир Федорович": 47,
-      "Крашенинников Павел Владимирович": 901,
-      "Левандовский Валерий Витальевич": 56,
-      "Пронина Зоя Ивановна": 42,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 108,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000217965": 26,
+      "gas:candidate-vibid:374300466922": 54,
+      "gas:candidate-vibid:1001000220853": 47,
+      "gas:candidate-vibid:1001000113990": 901,
+      "gas:candidate-vibid:374300466670": 56,
+      "gas:candidate-vibid:1001000121928": 42,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 108,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 23,
-      "Глуховский Владимир Ильич": 61,
-      "Дубровский Владимир Федорович": 41,
-      "Крашенинников Павел Владимирович": 959,
-      "Левандовский Валерий Витальевич": 65,
-      "Пронина Зоя Ивановна": 88,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 156,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000217965": 23,
+      "gas:candidate-vibid:374300466922": 61,
+      "gas:candidate-vibid:1001000220853": 41,
+      "gas:candidate-vibid:1001000113990": 959,
+      "gas:candidate-vibid:374300466670": 65,
+      "gas:candidate-vibid:1001000121928": 88,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 156,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 77,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 793,
-      "Левандовский Валерий Витальевич": 101,
-      "Пронина Зоя Ивановна": 73,
-      "Солдаткин Дмитрий Федорович": 11,
-      "Чершинцев Александр Григорьевич": 190,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 77,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 793,
+      "gas:candidate-vibid:374300466670": 101,
+      "gas:candidate-vibid:1001000121928": 73,
+      "gas:candidate-vibid:374300466667": 11,
+      "gas:candidate-vibid:1001000226000": 190,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 4,
-      "Дубровский Владимир Федорович": 6,
-      "Крашенинников Павел Владимирович": 134,
-      "Левандовский Валерий Витальевич": 17,
-      "Пронина Зоя Ивановна": 11,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 4,
+      "gas:candidate-vibid:1001000220853": 6,
+      "gas:candidate-vibid:1001000113990": 134,
+      "gas:candidate-vibid:374300466670": 17,
+      "gas:candidate-vibid:1001000121928": 11,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467155&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 34,
-      "Дубровский Владимир Федорович": 46,
-      "Крашенинников Павел Владимирович": 457,
-      "Левандовский Валерий Витальевич": 44,
-      "Пронина Зоя Ивановна": 87,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 137,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 34,
+      "gas:candidate-vibid:1001000220853": 46,
+      "gas:candidate-vibid:1001000113990": 457,
+      "gas:candidate-vibid:374300466670": 44,
+      "gas:candidate-vibid:1001000121928": 87,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 137,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 53,
-      "Дубровский Владимир Федорович": 40,
-      "Крашенинников Павел Владимирович": 354,
-      "Левандовский Валерий Витальевич": 42,
-      "Пронина Зоя Ивановна": 53,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 83,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 53,
+      "gas:candidate-vibid:1001000220853": 40,
+      "gas:candidate-vibid:1001000113990": 354,
+      "gas:candidate-vibid:374300466670": 42,
+      "gas:candidate-vibid:1001000121928": 53,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 83,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 22,
-      "Дубровский Владимир Федорович": 38,
-      "Крашенинников Павел Владимирович": 339,
-      "Левандовский Валерий Витальевич": 25,
-      "Пронина Зоя Ивановна": 63,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 73,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 22,
+      "gas:candidate-vibid:1001000220853": 38,
+      "gas:candidate-vibid:1001000113990": 339,
+      "gas:candidate-vibid:374300466670": 25,
+      "gas:candidate-vibid:1001000121928": 63,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 73,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 22,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 255,
-      "Левандовский Валерий Витальевич": 20,
-      "Пронина Зоя Ивановна": 38,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 68,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 22,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 255,
+      "gas:candidate-vibid:374300466670": 20,
+      "gas:candidate-vibid:1001000121928": 38,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 68,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 15,
-      "Глуховский Владимир Ильич": 39,
-      "Дубровский Владимир Федорович": 39,
-      "Крашенинников Павел Владимирович": 588,
-      "Левандовский Валерий Витальевич": 38,
-      "Пронина Зоя Ивановна": 89,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 134,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217965": 15,
+      "gas:candidate-vibid:374300466922": 39,
+      "gas:candidate-vibid:1001000220853": 39,
+      "gas:candidate-vibid:1001000113990": 588,
+      "gas:candidate-vibid:374300466670": 38,
+      "gas:candidate-vibid:1001000121928": 89,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 134,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 14,
-      "Глуховский Владимир Ильич": 42,
-      "Дубровский Владимир Федорович": 74,
-      "Крашенинников Павел Владимирович": 626,
-      "Левандовский Валерий Витальевич": 55,
-      "Пронина Зоя Ивановна": 86,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 153,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000217965": 14,
+      "gas:candidate-vibid:374300466922": 42,
+      "gas:candidate-vibid:1001000220853": 74,
+      "gas:candidate-vibid:1001000113990": 626,
+      "gas:candidate-vibid:374300466670": 55,
+      "gas:candidate-vibid:1001000121928": 86,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 153,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 26,
-      "Дубровский Владимир Федорович": 87,
-      "Крашенинников Павел Владимирович": 452,
-      "Левандовский Валерий Витальевич": 35,
-      "Пронина Зоя Ивановна": 72,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 128,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 26,
+      "gas:candidate-vibid:1001000220853": 87,
+      "gas:candidate-vibid:1001000113990": 452,
+      "gas:candidate-vibid:374300466670": 35,
+      "gas:candidate-vibid:1001000121928": 72,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 128,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 5,
-      "Глуховский Владимир Ильич": 36,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 437,
-      "Левандовский Валерий Витальевич": 27,
-      "Пронина Зоя Ивановна": 65,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 107,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000217965": 5,
+      "gas:candidate-vibid:374300466922": 36,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 437,
+      "gas:candidate-vibid:374300466670": 27,
+      "gas:candidate-vibid:1001000121928": 65,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 107,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 30,
-      "Дубровский Владимир Федорович": 43,
-      "Крашенинников Павел Владимирович": 420,
-      "Левандовский Валерий Витальевич": 24,
-      "Пронина Зоя Ивановна": 49,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 122,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 30,
+      "gas:candidate-vibid:1001000220853": 43,
+      "gas:candidate-vibid:1001000113990": 420,
+      "gas:candidate-vibid:374300466670": 24,
+      "gas:candidate-vibid:1001000121928": 49,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 122,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 14,
-      "Глуховский Владимир Ильич": 29,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 387,
-      "Левандовский Валерий Витальевич": 34,
-      "Пронина Зоя Ивановна": 46,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 102,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000217965": 14,
+      "gas:candidate-vibid:374300466922": 29,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 387,
+      "gas:candidate-vibid:374300466670": 34,
+      "gas:candidate-vibid:1001000121928": 46,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 102,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 6,
-      "Глуховский Владимир Ильич": 25,
-      "Дубровский Владимир Федорович": 62,
-      "Крашенинников Павел Владимирович": 420,
-      "Левандовский Валерий Витальевич": 25,
-      "Пронина Зоя Ивановна": 70,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 131,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000217965": 6,
+      "gas:candidate-vibid:374300466922": 25,
+      "gas:candidate-vibid:1001000220853": 62,
+      "gas:candidate-vibid:1001000113990": 420,
+      "gas:candidate-vibid:374300466670": 25,
+      "gas:candidate-vibid:1001000121928": 70,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 131,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 46,
-      "Дубровский Владимир Федорович": 66,
-      "Крашенинников Павел Владимирович": 545,
-      "Левандовский Валерий Витальевич": 29,
-      "Пронина Зоя Ивановна": 70,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 136,
-      "Четыркин Юрий Борисович": 13,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 46,
+      "gas:candidate-vibid:1001000220853": 66,
+      "gas:candidate-vibid:1001000113990": 545,
+      "gas:candidate-vibid:374300466670": 29,
+      "gas:candidate-vibid:1001000121928": 70,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 136,
+      "gas:candidate-vibid:374300466673": 13,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 39,
-      "Дубровский Владимир Федорович": 43,
-      "Крашенинников Павел Владимирович": 436,
-      "Левандовский Валерий Витальевич": 28,
-      "Пронина Зоя Ивановна": 71,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 88,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 39,
+      "gas:candidate-vibid:1001000220853": 43,
+      "gas:candidate-vibid:1001000113990": 436,
+      "gas:candidate-vibid:374300466670": 28,
+      "gas:candidate-vibid:1001000121928": 71,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 88,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 45,
-      "Крашенинников Павел Владимирович": 463,
-      "Левандовский Валерий Витальевич": 36,
-      "Пронина Зоя Ивановна": 53,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 113,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 45,
+      "gas:candidate-vibid:1001000113990": 463,
+      "gas:candidate-vibid:374300466670": 36,
+      "gas:candidate-vibid:1001000121928": 53,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 113,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 51,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 575,
-      "Левандовский Валерий Витальевич": 65,
-      "Пронина Зоя Ивановна": 70,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 137,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 51,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 575,
+      "gas:candidate-vibid:374300466670": 65,
+      "gas:candidate-vibid:1001000121928": 70,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 137,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 32,
-      "Дубровский Владимир Федорович": 40,
-      "Крашенинников Павел Владимирович": 583,
-      "Левандовский Валерий Витальевич": 45,
-      "Пронина Зоя Ивановна": 65,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 135,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 32,
+      "gas:candidate-vibid:1001000220853": 40,
+      "gas:candidate-vibid:1001000113990": 583,
+      "gas:candidate-vibid:374300466670": 45,
+      "gas:candidate-vibid:1001000121928": 65,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 135,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 38,
-      "Крашенинников Павел Владимирович": 655,
-      "Левандовский Валерий Витальевич": 49,
-      "Пронина Зоя Ивановна": 82,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 103,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 38,
+      "gas:candidate-vibid:1001000113990": 655,
+      "gas:candidate-vibid:374300466670": 49,
+      "gas:candidate-vibid:1001000121928": 82,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 103,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 15,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 59,
-      "Крашенинников Павел Владимирович": 546,
-      "Левандовский Валерий Витальевич": 47,
-      "Пронина Зоя Ивановна": 76,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 119,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000217965": 15,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 59,
+      "gas:candidate-vibid:1001000113990": 546,
+      "gas:candidate-vibid:374300466670": 47,
+      "gas:candidate-vibid:1001000121928": 76,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 119,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 18,
-      "Дубровский Владимир Федорович": 79,
-      "Крашенинников Павел Владимирович": 631,
-      "Левандовский Валерий Витальевич": 56,
-      "Пронина Зоя Ивановна": 71,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 107,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 18,
+      "gas:candidate-vibid:1001000220853": 79,
+      "gas:candidate-vibid:1001000113990": 631,
+      "gas:candidate-vibid:374300466670": 56,
+      "gas:candidate-vibid:1001000121928": 71,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 107,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 25,
-      "Дубровский Владимир Федорович": 76,
-      "Крашенинников Павел Владимирович": 560,
-      "Левандовский Валерий Витальевич": 34,
-      "Пронина Зоя Ивановна": 81,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 119,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 25,
+      "gas:candidate-vibid:1001000220853": 76,
+      "gas:candidate-vibid:1001000113990": 560,
+      "gas:candidate-vibid:374300466670": 34,
+      "gas:candidate-vibid:1001000121928": 81,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 119,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 5,
-      "Глуховский Владимир Ильич": 19,
-      "Дубровский Владимир Федорович": 39,
-      "Крашенинников Павел Владимирович": 382,
-      "Левандовский Валерий Витальевич": 34,
-      "Пронина Зоя Ивановна": 51,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 73,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000217965": 5,
+      "gas:candidate-vibid:374300466922": 19,
+      "gas:candidate-vibid:1001000220853": 39,
+      "gas:candidate-vibid:1001000113990": 382,
+      "gas:candidate-vibid:374300466670": 34,
+      "gas:candidate-vibid:1001000121928": 51,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 73,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 10,
-      "Дубровский Владимир Федорович": 59,
-      "Крашенинников Павел Владимирович": 336,
-      "Левандовский Валерий Витальевич": 29,
-      "Пронина Зоя Ивановна": 52,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 48,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 10,
+      "gas:candidate-vibid:1001000220853": 59,
+      "gas:candidate-vibid:1001000113990": 336,
+      "gas:candidate-vibid:374300466670": 29,
+      "gas:candidate-vibid:1001000121928": 52,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 48,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 19,
-      "Дубровский Владимир Федорович": 25,
-      "Крашенинников Павел Владимирович": 384,
-      "Левандовский Валерий Витальевич": 17,
-      "Пронина Зоя Ивановна": 63,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 75,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 19,
+      "gas:candidate-vibid:1001000220853": 25,
+      "gas:candidate-vibid:1001000113990": 384,
+      "gas:candidate-vibid:374300466670": 17,
+      "gas:candidate-vibid:1001000121928": 63,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 75,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 61,
-      "Крашенинников Павел Владимирович": 484,
-      "Левандовский Валерий Витальевич": 46,
-      "Пронина Зоя Ивановна": 105,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 127,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 61,
+      "gas:candidate-vibid:1001000113990": 484,
+      "gas:candidate-vibid:374300466670": 46,
+      "gas:candidate-vibid:1001000121928": 105,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 127,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 37,
-      "Крашенинников Павел Владимирович": 497,
-      "Левандовский Валерий Витальевич": 38,
-      "Пронина Зоя Ивановна": 80,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 124,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 37,
+      "gas:candidate-vibid:1001000113990": 497,
+      "gas:candidate-vibid:374300466670": 38,
+      "gas:candidate-vibid:1001000121928": 80,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 124,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 27,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 26,
-      "Крашенинников Павел Владимирович": 463,
-      "Левандовский Валерий Витальевич": 25,
-      "Пронина Зоя Ивановна": 65,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 106,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000217965": 27,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 26,
+      "gas:candidate-vibid:1001000113990": 463,
+      "gas:candidate-vibid:374300466670": 25,
+      "gas:candidate-vibid:1001000121928": 65,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 106,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 5,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 61,
-      "Крашенинников Павел Владимирович": 112,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 12,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 10,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 5,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 61,
+      "gas:candidate-vibid:1001000113990": 112,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 12,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 10,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 64,
-      "Крашенинников Павел Владимирович": 348,
-      "Левандовский Валерий Витальевич": 21,
-      "Пронина Зоя Ивановна": 64,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 81,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 64,
+      "gas:candidate-vibid:1001000113990": 348,
+      "gas:candidate-vibid:374300466670": 21,
+      "gas:candidate-vibid:1001000121928": 64,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 81,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 14,
-      "Глуховский Владимир Ильич": 35,
-      "Дубровский Владимир Федорович": 39,
-      "Крашенинников Павел Владимирович": 499,
-      "Левандовский Валерий Витальевич": 39,
-      "Пронина Зоя Ивановна": 72,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 110,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217965": 14,
+      "gas:candidate-vibid:374300466922": 35,
+      "gas:candidate-vibid:1001000220853": 39,
+      "gas:candidate-vibid:1001000113990": 499,
+      "gas:candidate-vibid:374300466670": 39,
+      "gas:candidate-vibid:1001000121928": 72,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 110,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 36,
-      "Глуховский Владимир Ильич": 23,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 511,
-      "Левандовский Валерий Витальевич": 45,
-      "Пронина Зоя Ивановна": 79,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 104,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000217965": 36,
+      "gas:candidate-vibid:374300466922": 23,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 511,
+      "gas:candidate-vibid:374300466670": 45,
+      "gas:candidate-vibid:1001000121928": 79,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 104,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 19,
-      "Дубровский Владимир Федорович": 85,
-      "Крашенинников Павел Владимирович": 419,
-      "Левандовский Валерий Витальевич": 40,
-      "Пронина Зоя Ивановна": 66,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 111,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 19,
+      "gas:candidate-vibid:1001000220853": 85,
+      "gas:candidate-vibid:1001000113990": 419,
+      "gas:candidate-vibid:374300466670": 40,
+      "gas:candidate-vibid:1001000121928": 66,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 111,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 27,
-      "Глуховский Владимир Ильич": 58,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 633,
-      "Левандовский Валерий Витальевич": 49,
-      "Пронина Зоя Ивановна": 95,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 133,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000217965": 27,
+      "gas:candidate-vibid:374300466922": 58,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 633,
+      "gas:candidate-vibid:374300466670": 49,
+      "gas:candidate-vibid:1001000121928": 95,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 133,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 42,
-      "Дубровский Владимир Федорович": 48,
-      "Крашенинников Павел Владимирович": 610,
-      "Левандовский Валерий Витальевич": 36,
-      "Пронина Зоя Ивановна": 94,
-      "Солдаткин Дмитрий Федорович": 11,
-      "Чершинцев Александр Григорьевич": 117,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 42,
+      "gas:candidate-vibid:1001000220853": 48,
+      "gas:candidate-vibid:1001000113990": 610,
+      "gas:candidate-vibid:374300466670": 36,
+      "gas:candidate-vibid:1001000121928": 94,
+      "gas:candidate-vibid:374300466667": 11,
+      "gas:candidate-vibid:1001000226000": 117,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 53,
-      "Дубровский Владимир Федорович": 52,
-      "Крашенинников Павел Владимирович": 695,
-      "Левандовский Валерий Витальевич": 35,
-      "Пронина Зоя Ивановна": 79,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 150,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 53,
+      "gas:candidate-vibid:1001000220853": 52,
+      "gas:candidate-vibid:1001000113990": 695,
+      "gas:candidate-vibid:374300466670": 35,
+      "gas:candidate-vibid:1001000121928": 79,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 150,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 55,
-      "Дубровский Владимир Федорович": 71,
-      "Крашенинников Павел Владимирович": 726,
-      "Левандовский Валерий Витальевич": 42,
-      "Пронина Зоя Ивановна": 72,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 166,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 55,
+      "gas:candidate-vibid:1001000220853": 71,
+      "gas:candidate-vibid:1001000113990": 726,
+      "gas:candidate-vibid:374300466670": 42,
+      "gas:candidate-vibid:1001000121928": 72,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 166,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 59,
-      "Дубровский Владимир Федорович": 45,
-      "Крашенинников Павел Владимирович": 662,
-      "Левандовский Валерий Витальевич": 43,
-      "Пронина Зоя Ивановна": 74,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 113,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 59,
+      "gas:candidate-vibid:1001000220853": 45,
+      "gas:candidate-vibid:1001000113990": 662,
+      "gas:candidate-vibid:374300466670": 43,
+      "gas:candidate-vibid:1001000121928": 74,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 113,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 79,
-      "Дубровский Владимир Федорович": 47,
-      "Крашенинников Павел Владимирович": 799,
-      "Левандовский Валерий Витальевич": 50,
-      "Пронина Зоя Ивановна": 90,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 213,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 79,
+      "gas:candidate-vibid:1001000220853": 47,
+      "gas:candidate-vibid:1001000113990": 799,
+      "gas:candidate-vibid:374300466670": 50,
+      "gas:candidate-vibid:1001000121928": 90,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 213,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 60,
-      "Крашенинников Павел Владимирович": 446,
-      "Левандовский Валерий Витальевич": 23,
-      "Пронина Зоя Ивановна": 71,
-      "Солдаткин Дмитрий Федорович": 10,
-      "Чершинцев Александр Григорьевич": 109,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 60,
+      "gas:candidate-vibid:1001000113990": 446,
+      "gas:candidate-vibid:374300466670": 23,
+      "gas:candidate-vibid:1001000121928": 71,
+      "gas:candidate-vibid:374300466667": 10,
+      "gas:candidate-vibid:1001000226000": 109,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 49,
-      "Дубровский Владимир Федорович": 45,
-      "Крашенинников Павел Владимирович": 323,
-      "Левандовский Валерий Витальевич": 36,
-      "Пронина Зоя Ивановна": 33,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 84,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 49,
+      "gas:candidate-vibid:1001000220853": 45,
+      "gas:candidate-vibid:1001000113990": 323,
+      "gas:candidate-vibid:374300466670": 36,
+      "gas:candidate-vibid:1001000121928": 33,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 84,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 47,
-      "Дубровский Владимир Федорович": 55,
-      "Крашенинников Павел Владимирович": 552,
-      "Левандовский Валерий Витальевич": 39,
-      "Пронина Зоя Ивановна": 65,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 111,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 47,
+      "gas:candidate-vibid:1001000220853": 55,
+      "gas:candidate-vibid:1001000113990": 552,
+      "gas:candidate-vibid:374300466670": 39,
+      "gas:candidate-vibid:1001000121928": 65,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 111,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 23,
-      "Глуховский Владимир Ильич": 49,
-      "Дубровский Владимир Федорович": 60,
-      "Крашенинников Павел Владимирович": 734,
-      "Левандовский Валерий Витальевич": 59,
-      "Пронина Зоя Ивановна": 95,
-      "Солдаткин Дмитрий Федорович": 10,
-      "Чершинцев Александр Григорьевич": 147,
-      "Четыркин Юрий Борисович": 9,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000217965": 23,
+      "gas:candidate-vibid:374300466922": 49,
+      "gas:candidate-vibid:1001000220853": 60,
+      "gas:candidate-vibid:1001000113990": 734,
+      "gas:candidate-vibid:374300466670": 59,
+      "gas:candidate-vibid:1001000121928": 95,
+      "gas:candidate-vibid:374300466667": 10,
+      "gas:candidate-vibid:1001000226000": 147,
+      "gas:candidate-vibid:374300466673": 9,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 40,
-      "Дубровский Владимир Федорович": 27,
-      "Крашенинников Павел Владимирович": 515,
-      "Левандовский Валерий Витальевич": 48,
-      "Пронина Зоя Ивановна": 47,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 121,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 40,
+      "gas:candidate-vibid:1001000220853": 27,
+      "gas:candidate-vibid:1001000113990": 515,
+      "gas:candidate-vibid:374300466670": 48,
+      "gas:candidate-vibid:1001000121928": 47,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 121,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 29,
-      "Дубровский Владимир Федорович": 18,
-      "Крашенинников Павел Владимирович": 335,
-      "Левандовский Валерий Витальевич": 21,
-      "Пронина Зоя Ивановна": 47,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 62,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 29,
+      "gas:candidate-vibid:1001000220853": 18,
+      "gas:candidate-vibid:1001000113990": 335,
+      "gas:candidate-vibid:374300466670": 21,
+      "gas:candidate-vibid:1001000121928": 47,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 62,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 6,
-      "Глуховский Владимир Ильич": 63,
-      "Дубровский Владимир Федорович": 36,
-      "Крашенинников Павел Владимирович": 412,
-      "Левандовский Валерий Витальевич": 25,
-      "Пронина Зоя Ивановна": 57,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 107,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000217965": 6,
+      "gas:candidate-vibid:374300466922": 63,
+      "gas:candidate-vibid:1001000220853": 36,
+      "gas:candidate-vibid:1001000113990": 412,
+      "gas:candidate-vibid:374300466670": 25,
+      "gas:candidate-vibid:1001000121928": 57,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 107,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 84,
-      "Дубровский Владимир Федорович": 57,
-      "Крашенинников Павел Владимирович": 618,
-      "Левандовский Валерий Витальевич": 41,
-      "Пронина Зоя Ивановна": 57,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 174,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 84,
+      "gas:candidate-vibid:1001000220853": 57,
+      "gas:candidate-vibid:1001000113990": 618,
+      "gas:candidate-vibid:374300466670": 41,
+      "gas:candidate-vibid:1001000121928": 57,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 174,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 15,
-      "Глуховский Владимир Ильич": 63,
-      "Дубровский Владимир Федорович": 45,
-      "Крашенинников Павел Владимирович": 484,
-      "Левандовский Валерий Витальевич": 31,
-      "Пронина Зоя Ивановна": 60,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 107,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000217965": 15,
+      "gas:candidate-vibid:374300466922": 63,
+      "gas:candidate-vibid:1001000220853": 45,
+      "gas:candidate-vibid:1001000113990": 484,
+      "gas:candidate-vibid:374300466670": 31,
+      "gas:candidate-vibid:1001000121928": 60,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 107,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 63,
-      "Дубровский Владимир Федорович": 37,
-      "Крашенинников Павел Владимирович": 518,
-      "Левандовский Валерий Витальевич": 56,
-      "Пронина Зоя Ивановна": 61,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 153,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 63,
+      "gas:candidate-vibid:1001000220853": 37,
+      "gas:candidate-vibid:1001000113990": 518,
+      "gas:candidate-vibid:374300466670": 56,
+      "gas:candidate-vibid:1001000121928": 61,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 153,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 30,
-      "Глуховский Владимир Ильич": 52,
-      "Дубровский Владимир Федорович": 44,
-      "Крашенинников Павел Владимирович": 555,
-      "Левандовский Валерий Витальевич": 37,
-      "Пронина Зоя Ивановна": 57,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 137,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000217965": 30,
+      "gas:candidate-vibid:374300466922": 52,
+      "gas:candidate-vibid:1001000220853": 44,
+      "gas:candidate-vibid:1001000113990": 555,
+      "gas:candidate-vibid:374300466670": 37,
+      "gas:candidate-vibid:1001000121928": 57,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 137,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 14,
-      "Глуховский Владимир Ильич": 53,
-      "Дубровский Владимир Федорович": 45,
-      "Крашенинников Павел Владимирович": 549,
-      "Левандовский Валерий Витальевич": 46,
-      "Пронина Зоя Ивановна": 73,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 160,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000217965": 14,
+      "gas:candidate-vibid:374300466922": 53,
+      "gas:candidate-vibid:1001000220853": 45,
+      "gas:candidate-vibid:1001000113990": 549,
+      "gas:candidate-vibid:374300466670": 46,
+      "gas:candidate-vibid:1001000121928": 73,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 160,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 41,
-      "Дубровский Владимир Федорович": 74,
-      "Крашенинников Павел Владимирович": 739,
-      "Левандовский Валерий Витальевич": 39,
-      "Пронина Зоя Ивановна": 58,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 137,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 41,
+      "gas:candidate-vibid:1001000220853": 74,
+      "gas:candidate-vibid:1001000113990": 739,
+      "gas:candidate-vibid:374300466670": 39,
+      "gas:candidate-vibid:1001000121928": 58,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 137,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 23,
-      "Дубровский Владимир Федорович": 79,
-      "Крашенинников Павел Владимирович": 488,
-      "Левандовский Валерий Витальевич": 38,
-      "Пронина Зоя Ивановна": 67,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 103,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 23,
+      "gas:candidate-vibid:1001000220853": 79,
+      "gas:candidate-vibid:1001000113990": 488,
+      "gas:candidate-vibid:374300466670": 38,
+      "gas:candidate-vibid:1001000121928": 67,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 103,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 42,
-      "Дубровский Владимир Федорович": 63,
-      "Крашенинников Павел Владимирович": 696,
-      "Левандовский Валерий Витальевич": 31,
-      "Пронина Зоя Ивановна": 61,
-      "Солдаткин Дмитрий Федорович": 12,
-      "Чершинцев Александр Григорьевич": 120,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 42,
+      "gas:candidate-vibid:1001000220853": 63,
+      "gas:candidate-vibid:1001000113990": 696,
+      "gas:candidate-vibid:374300466670": 31,
+      "gas:candidate-vibid:1001000121928": 61,
+      "gas:candidate-vibid:374300466667": 12,
+      "gas:candidate-vibid:1001000226000": 120,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 47,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 629,
-      "Левандовский Валерий Витальевич": 42,
-      "Пронина Зоя Ивановна": 90,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 127,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 47,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 629,
+      "gas:candidate-vibid:374300466670": 42,
+      "gas:candidate-vibid:1001000121928": 90,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 127,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 22,
-      "Глуховский Владимир Ильич": 44,
-      "Дубровский Владимир Федорович": 40,
-      "Крашенинников Павел Владимирович": 587,
-      "Левандовский Валерий Витальевич": 41,
-      "Пронина Зоя Ивановна": 69,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 125,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000217965": 22,
+      "gas:candidate-vibid:374300466922": 44,
+      "gas:candidate-vibid:1001000220853": 40,
+      "gas:candidate-vibid:1001000113990": 587,
+      "gas:candidate-vibid:374300466670": 41,
+      "gas:candidate-vibid:1001000121928": 69,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 125,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467157&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 41,
-      "Дубровский Владимир Федорович": 97,
-      "Крашенинников Павел Владимирович": 129,
-      "Левандовский Валерий Витальевич": 8,
-      "Пронина Зоя Ивановна": 43,
-      "Солдаткин Дмитрий Федорович": 13,
-      "Чершинцев Александр Григорьевич": 176,
-      "Четыркин Юрий Борисович": 10,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 41,
+      "gas:candidate-vibid:1001000220853": 97,
+      "gas:candidate-vibid:1001000113990": 129,
+      "gas:candidate-vibid:374300466670": 8,
+      "gas:candidate-vibid:1001000121928": 43,
+      "gas:candidate-vibid:374300466667": 13,
+      "gas:candidate-vibid:1001000226000": 176,
+      "gas:candidate-vibid:374300466673": 10,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 5,
-      "Глуховский Владимир Ильич": 25,
-      "Дубровский Владимир Федорович": 1,
-      "Крашенинников Павел Владимирович": 47,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 12,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 13,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217965": 5,
+      "gas:candidate-vibid:374300466922": 25,
+      "gas:candidate-vibid:1001000220853": 1,
+      "gas:candidate-vibid:1001000113990": 47,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 12,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 13,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 9,
-      "Дубровский Владимир Федорович": 18,
-      "Крашенинников Павел Владимирович": 85,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 14,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 58,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 9,
+      "gas:candidate-vibid:1001000220853": 18,
+      "gas:candidate-vibid:1001000113990": 85,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 14,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 58,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 4,
-      "Крашенинников Павел Владимирович": 41,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 12,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 16,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 4,
+      "gas:candidate-vibid:1001000113990": 41,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 12,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 16,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 2,
-      "Глуховский Владимир Ильич": 10,
-      "Дубровский Владимир Федорович": 7,
-      "Крашенинников Павел Владимирович": 10,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 4,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 26,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 2,
+      "gas:candidate-vibid:374300466922": 10,
+      "gas:candidate-vibid:1001000220853": 7,
+      "gas:candidate-vibid:1001000113990": 10,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 4,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 26,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 4,
-      "Глуховский Владимир Ильич": 38,
-      "Дубровский Владимир Федорович": 6,
-      "Крашенинников Павел Владимирович": 15,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 4,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 2,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 4,
+      "gas:candidate-vibid:374300466922": 38,
+      "gas:candidate-vibid:1001000220853": 6,
+      "gas:candidate-vibid:1001000113990": 15,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 4,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 2,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 25,
-      "Глуховский Владимир Ильич": 33,
-      "Дубровский Владимир Федорович": 9,
-      "Крашенинников Павел Владимирович": 72,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 28,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 154,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000217965": 25,
+      "gas:candidate-vibid:374300466922": 33,
+      "gas:candidate-vibid:1001000220853": 9,
+      "gas:candidate-vibid:1001000113990": 72,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 28,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 154,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 4,
-      "Глуховский Владимир Ильич": 9,
-      "Дубровский Владимир Федорович": 18,
-      "Крашенинников Павел Владимирович": 30,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 8,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 41,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000217965": 4,
+      "gas:candidate-vibid:374300466922": 9,
+      "gas:candidate-vibid:1001000220853": 18,
+      "gas:candidate-vibid:1001000113990": 30,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 8,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 41,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 15,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 7,
-      "Крашенинников Павел Владимирович": 20,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 9,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 30,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000217965": 15,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 7,
+      "gas:candidate-vibid:1001000113990": 20,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 9,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 30,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 24,
-      "Глуховский Владимир Ильич": 32,
-      "Дубровский Владимир Федорович": 71,
-      "Крашенинников Павел Владимирович": 187,
-      "Левандовский Валерий Витальевич": 9,
-      "Пронина Зоя Ивановна": 10,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 92,
-      "Четыркин Юрий Борисович": 15,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000217965": 24,
+      "gas:candidate-vibid:374300466922": 32,
+      "gas:candidate-vibid:1001000220853": 71,
+      "gas:candidate-vibid:1001000113990": 187,
+      "gas:candidate-vibid:374300466670": 9,
+      "gas:candidate-vibid:1001000121928": 10,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 92,
+      "gas:candidate-vibid:374300466673": 15,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 37,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 50,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 2,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 25,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 37,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 50,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 2,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 25,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 7,
-      "Крашенинников Павел Владимирович": 58,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 27,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 7,
+      "gas:candidate-vibid:1001000113990": 58,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 27,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 12,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 0,
-      "Крашенинников Павел Владимирович": 29,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 4,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 16,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217965": 12,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 0,
+      "gas:candidate-vibid:1001000113990": 29,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 4,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 16,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 2,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 6,
-      "Крашенинников Павел Владимирович": 36,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 15,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 2,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 6,
+      "gas:candidate-vibid:1001000113990": 36,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 15,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 34,
-      "Глуховский Владимир Ильич": 14,
-      "Дубровский Владимир Федорович": 53,
-      "Крашенинников Павел Владимирович": 96,
-      "Левандовский Валерий Витальевич": 7,
-      "Пронина Зоя Ивановна": 16,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 69,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000217965": 34,
+      "gas:candidate-vibid:374300466922": 14,
+      "gas:candidate-vibid:1001000220853": 53,
+      "gas:candidate-vibid:1001000113990": 96,
+      "gas:candidate-vibid:374300466670": 7,
+      "gas:candidate-vibid:1001000121928": 16,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 69,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 2,
-      "Крашенинников Павел Владимирович": 45,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 10,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 20,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 2,
+      "gas:candidate-vibid:1001000113990": 45,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 10,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 20,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 5,
-      "Дубровский Владимир Федорович": 12,
-      "Крашенинников Павел Владимирович": 78,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 2,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 46,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 5,
+      "gas:candidate-vibid:1001000220853": 12,
+      "gas:candidate-vibid:1001000113990": 78,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 2,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 46,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 0,
-      "Дубровский Владимир Федорович": 2,
-      "Крашенинников Павел Владимирович": 28,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 13,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 0,
+      "gas:candidate-vibid:1001000220853": 2,
+      "gas:candidate-vibid:1001000113990": 28,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 13,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 6,
-      "Крашенинников Павел Владимирович": 31,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 8,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 87,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 6,
+      "gas:candidate-vibid:1001000113990": 31,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 8,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 87,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 83,
-      "Глуховский Владимир Ильич": 94,
-      "Дубровский Владимир Федорович": 56,
-      "Крашенинников Павел Владимирович": 173,
-      "Левандовский Валерий Витальевич": 7,
-      "Пронина Зоя Ивановна": 40,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 138,
-      "Четыркин Юрий Борисович": 16,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000217965": 83,
+      "gas:candidate-vibid:374300466922": 94,
+      "gas:candidate-vibid:1001000220853": 56,
+      "gas:candidate-vibid:1001000113990": 173,
+      "gas:candidate-vibid:374300466670": 7,
+      "gas:candidate-vibid:1001000121928": 40,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 138,
+      "gas:candidate-vibid:374300466673": 16,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 6,
-      "Глуховский Владимир Ильич": 20,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 70,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 13,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 40,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217965": 6,
+      "gas:candidate-vibid:374300466922": 20,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 70,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 13,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 40,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 29,
-      "Глуховский Владимир Ильич": 12,
-      "Дубровский Владимир Федорович": 8,
-      "Крашенинников Павел Владимирович": 38,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 23,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 35,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217965": 29,
+      "gas:candidate-vibid:374300466922": 12,
+      "gas:candidate-vibid:1001000220853": 8,
+      "gas:candidate-vibid:1001000113990": 38,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 23,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 35,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 97,
-      "Глуховский Владимир Ильич": 153,
-      "Дубровский Владимир Федорович": 110,
-      "Крашенинников Павел Владимирович": 155,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 52,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 104,
-      "Четыркин Юрий Борисович": 12,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000217965": 97,
+      "gas:candidate-vibid:374300466922": 153,
+      "gas:candidate-vibid:1001000220853": 110,
+      "gas:candidate-vibid:1001000113990": 155,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 52,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 104,
+      "gas:candidate-vibid:374300466673": 12,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 23,
-      "Дубровский Владимир Федорович": 22,
-      "Крашенинников Павел Владимирович": 33,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 11,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 50,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 23,
+      "gas:candidate-vibid:1001000220853": 22,
+      "gas:candidate-vibid:1001000113990": 33,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 11,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 50,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 13,
-      "Глуховский Владимир Ильич": 24,
-      "Дубровский Владимир Федорович": 13,
-      "Крашенинников Павел Владимирович": 24,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 3,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 36,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217965": 13,
+      "gas:candidate-vibid:374300466922": 24,
+      "gas:candidate-vibid:1001000220853": 13,
+      "gas:candidate-vibid:1001000113990": 24,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 3,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 36,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 7,
-      "Крашенинников Павел Владимирович": 23,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 9,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 25,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 7,
+      "gas:candidate-vibid:1001000113990": 23,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 9,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 25,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 36,
-      "Глуховский Владимир Ильич": 19,
-      "Дубровский Владимир Федорович": 7,
-      "Крашенинников Павел Владимирович": 124,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 11,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 71,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000217965": 36,
+      "gas:candidate-vibid:374300466922": 19,
+      "gas:candidate-vibid:1001000220853": 7,
+      "gas:candidate-vibid:1001000113990": 124,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 11,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 71,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 17,
-      "Крашенинников Павел Владимирович": 54,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 1,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 19,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 17,
+      "gas:candidate-vibid:1001000113990": 54,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 1,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 19,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 25,
-      "Глуховский Владимир Ильич": 10,
-      "Дубровский Владимир Федорович": 11,
-      "Крашенинников Павел Владимирович": 27,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 13,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 34,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217965": 25,
+      "gas:candidate-vibid:374300466922": 10,
+      "gas:candidate-vibid:1001000220853": 11,
+      "gas:candidate-vibid:1001000113990": 27,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 13,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 34,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 62,
-      "Глуховский Владимир Ильич": 18,
-      "Дубровский Владимир Федорович": 118,
-      "Крашенинников Павел Владимирович": 198,
-      "Левандовский Валерий Витальевич": 10,
-      "Пронина Зоя Ивановна": 41,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 230,
-      "Четыркин Юрий Борисович": 55,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000217965": 62,
+      "gas:candidate-vibid:374300466922": 18,
+      "gas:candidate-vibid:1001000220853": 118,
+      "gas:candidate-vibid:1001000113990": 198,
+      "gas:candidate-vibid:374300466670": 10,
+      "gas:candidate-vibid:1001000121928": 41,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 230,
+      "gas:candidate-vibid:374300466673": 55,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 54,
-      "Глуховский Владимир Ильич": 46,
-      "Дубровский Владимир Федорович": 163,
-      "Крашенинников Павел Владимирович": 190,
-      "Левандовский Валерий Витальевич": 13,
-      "Пронина Зоя Ивановна": 41,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 193,
-      "Четыркин Юрий Борисович": 28,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000217965": 54,
+      "gas:candidate-vibid:374300466922": 46,
+      "gas:candidate-vibid:1001000220853": 163,
+      "gas:candidate-vibid:1001000113990": 190,
+      "gas:candidate-vibid:374300466670": 13,
+      "gas:candidate-vibid:1001000121928": 41,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 193,
+      "gas:candidate-vibid:374300466673": 28,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 9,
-      "Дубровский Владимир Федорович": 17,
-      "Крашенинников Павел Владимирович": 28,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 4,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 14,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 9,
+      "gas:candidate-vibid:1001000220853": 17,
+      "gas:candidate-vibid:1001000113990": 28,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 4,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 14,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 68,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 2,
-      "Крашенинников Павел Владимирович": 18,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 10,
-      "Солдаткин Дмитрий Федорович": 17,
-      "Чершинцев Александр Григорьевич": 15,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217965": 68,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 2,
+      "gas:candidate-vibid:1001000113990": 18,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 10,
+      "gas:candidate-vibid:374300466667": 17,
+      "gas:candidate-vibid:1001000226000": 15,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 9,
-      "Глуховский Владимир Ильич": 7,
-      "Дубровский Владимир Федорович": 32,
-      "Крашенинников Павел Владимирович": 47,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 1,
-      "Солдаткин Дмитрий Федорович": 5,
-      "Чершинцев Александр Григорьевич": 36,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217965": 9,
+      "gas:candidate-vibid:374300466922": 7,
+      "gas:candidate-vibid:1001000220853": 32,
+      "gas:candidate-vibid:1001000113990": 47,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 1,
+      "gas:candidate-vibid:374300466667": 5,
+      "gas:candidate-vibid:1001000226000": 36,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 23,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 5,
-      "Крашенинников Павел Владимирович": 25,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 3,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 15,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217965": 23,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 5,
+      "gas:candidate-vibid:1001000113990": 25,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 3,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 15,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 75,
-      "Глуховский Владимир Ильич": 14,
-      "Дубровский Владимир Федорович": 54,
-      "Крашенинников Павел Владимирович": 404,
-      "Левандовский Валерий Витальевич": 16,
-      "Пронина Зоя Ивановна": 129,
-      "Солдаткин Дмитрий Федорович": 11,
-      "Чершинцев Александр Григорьевич": 200,
-      "Четыркин Юрий Борисович": 14,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000217965": 75,
+      "gas:candidate-vibid:374300466922": 14,
+      "gas:candidate-vibid:1001000220853": 54,
+      "gas:candidate-vibid:1001000113990": 404,
+      "gas:candidate-vibid:374300466670": 16,
+      "gas:candidate-vibid:1001000121928": 129,
+      "gas:candidate-vibid:374300466667": 11,
+      "gas:candidate-vibid:1001000226000": 200,
+      "gas:candidate-vibid:374300466673": 14,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467159&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 49,
-      "Глуховский Владимир Ильич": 61,
-      "Дубровский Владимир Федорович": 62,
-      "Крашенинников Павел Владимирович": 180,
-      "Левандовский Валерий Витальевич": 13,
-      "Пронина Зоя Ивановна": 59,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 59,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000217965": 49,
+      "gas:candidate-vibid:374300466922": 61,
+      "gas:candidate-vibid:1001000220853": 62,
+      "gas:candidate-vibid:1001000113990": 180,
+      "gas:candidate-vibid:374300466670": 13,
+      "gas:candidate-vibid:1001000121928": 59,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 59,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 4,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 20,
-      "Крашенинников Павел Владимирович": 61,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 10,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 13,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000217965": 4,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 20,
+      "gas:candidate-vibid:1001000113990": 61,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 10,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 13,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 17,
-      "Дубровский Владимир Федорович": 16,
-      "Крашенинников Павел Владимирович": 35,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 6,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 6,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 17,
+      "gas:candidate-vibid:1001000220853": 16,
+      "gas:candidate-vibid:1001000113990": 35,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 6,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 6,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 20,
-      "Крашенинников Павел Владимирович": 58,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 23,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 32,
-      "Четыркин Юрий Борисович": 8,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 20,
+      "gas:candidate-vibid:1001000113990": 58,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 23,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 32,
+      "gas:candidate-vibid:374300466673": 8,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 18,
-      "Глуховский Владимир Ильич": 9,
-      "Дубровский Владимир Федорович": 7,
-      "Крашенинников Павел Владимирович": 171,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 13,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 55,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217965": 18,
+      "gas:candidate-vibid:374300466922": 9,
+      "gas:candidate-vibid:1001000220853": 7,
+      "gas:candidate-vibid:1001000113990": 171,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 13,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 55,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 34,
-      "Глуховский Владимир Ильич": 22,
-      "Дубровский Владимир Федорович": 32,
-      "Крашенинников Павел Владимирович": 84,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 30,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 75,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000217965": 34,
+      "gas:candidate-vibid:374300466922": 22,
+      "gas:candidate-vibid:1001000220853": 32,
+      "gas:candidate-vibid:1001000113990": 84,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 30,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 75,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 1,
-      "Глуховский Владимир Ильич": 16,
-      "Дубровский Владимир Федорович": 5,
-      "Крашенинников Павел Владимирович": 27,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 19,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 17,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000217965": 1,
+      "gas:candidate-vibid:374300466922": 16,
+      "gas:candidate-vibid:1001000220853": 5,
+      "gas:candidate-vibid:1001000113990": 27,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 19,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 17,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 59,
-      "Крашенинников Павел Владимирович": 61,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 59,
+      "gas:candidate-vibid:1001000113990": 61,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 19,
-      "Глуховский Владимир Ильич": 13,
-      "Дубровский Владимир Федорович": 17,
-      "Крашенинников Павел Владимирович": 21,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 15,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217965": 19,
+      "gas:candidate-vibid:374300466922": 13,
+      "gas:candidate-vibid:1001000220853": 17,
+      "gas:candidate-vibid:1001000113990": 21,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 15,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 8,
-      "Глуховский Владимир Ильич": 22,
-      "Дубровский Владимир Федорович": 21,
-      "Крашенинников Павел Владимирович": 84,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 16,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 38,
-      "Четыркин Юрий Борисович": 11,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000217965": 8,
+      "gas:candidate-vibid:374300466922": 22,
+      "gas:candidate-vibid:1001000220853": 21,
+      "gas:candidate-vibid:1001000113990": 84,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 16,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 38,
+      "gas:candidate-vibid:374300466673": 11,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 25,
-      "Дубровский Владимир Федорович": 17,
-      "Крашенинников Павел Владимирович": 40,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 18,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 29,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 25,
+      "gas:candidate-vibid:1001000220853": 17,
+      "gas:candidate-vibid:1001000113990": 40,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 18,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 29,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 20,
-      "Глуховский Владимир Ильич": 43,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 63,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 11,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 57,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000217965": 20,
+      "gas:candidate-vibid:374300466922": 43,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 63,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 11,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 57,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 56,
-      "Глуховский Владимир Ильич": 66,
-      "Дубровский Владимир Федорович": 50,
-      "Крашенинников Павел Владимирович": 250,
-      "Левандовский Валерий Витальевич": 10,
-      "Пронина Зоя Ивановна": 67,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 138,
-      "Четыркин Юрий Борисович": 14,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000217965": 56,
+      "gas:candidate-vibid:374300466922": 66,
+      "gas:candidate-vibid:1001000220853": 50,
+      "gas:candidate-vibid:1001000113990": 250,
+      "gas:candidate-vibid:374300466670": 10,
+      "gas:candidate-vibid:1001000121928": 67,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 138,
+      "gas:candidate-vibid:374300466673": 14,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 1,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 16,
-      "Крашенинников Павел Владимирович": 16,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 23,
-      "Солдаткин Дмитрий Федорович": 2,
-      "Чершинцев Александр Григорьевич": 12,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217965": 1,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 16,
+      "gas:candidate-vibid:1001000113990": 16,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 23,
+      "gas:candidate-vibid:374300466667": 2,
+      "gas:candidate-vibid:1001000226000": 12,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 8,
-      "Дубровский Владимир Федорович": 27,
-      "Крашенинников Павел Владимирович": 11,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 1,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 16,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 8,
+      "gas:candidate-vibid:1001000220853": 27,
+      "gas:candidate-vibid:1001000113990": 11,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 1,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 16,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 4,
-      "Глуховский Владимир Ильич": 3,
-      "Дубровский Владимир Федорович": 14,
-      "Крашенинников Павел Владимирович": 15,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 2,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 11,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000217965": 4,
+      "gas:candidate-vibid:374300466922": 3,
+      "gas:candidate-vibid:1001000220853": 14,
+      "gas:candidate-vibid:1001000113990": 15,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 2,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 11,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 29,
-      "Дубровский Владимир Федорович": 17,
-      "Крашенинников Павел Владимирович": 161,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 14,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 33,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 29,
+      "gas:candidate-vibid:1001000220853": 17,
+      "gas:candidate-vibid:1001000113990": 161,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 14,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 33,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 14,
-      "Дубровский Владимир Федорович": 35,
-      "Крашенинников Павел Владимирович": 59,
-      "Левандовский Валерий Витальевич": 5,
-      "Пронина Зоя Ивановна": 34,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 21,
-      "Четыркин Юрий Борисович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 14,
+      "gas:candidate-vibid:1001000220853": 35,
+      "gas:candidate-vibid:1001000113990": 59,
+      "gas:candidate-vibid:374300466670": 5,
+      "gas:candidate-vibid:1001000121928": 34,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 21,
+      "gas:candidate-vibid:374300466673": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 17,
-      "Глуховский Владимир Ильич": 66,
-      "Дубровский Владимир Федорович": 88,
-      "Крашенинников Павел Владимирович": 98,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 38,
-      "Солдаткин Дмитрий Федорович": 4,
-      "Чершинцев Александр Григорьевич": 55,
-      "Четыркин Юрий Борисович": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217965": 17,
+      "gas:candidate-vibid:374300466922": 66,
+      "gas:candidate-vibid:1001000220853": 88,
+      "gas:candidate-vibid:1001000113990": 98,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 38,
+      "gas:candidate-vibid:374300466667": 4,
+      "gas:candidate-vibid:1001000226000": 55,
+      "gas:candidate-vibid:374300466673": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 28,
-      "Глуховский Владимир Ильич": 3,
-      "Дубровский Владимир Федорович": 55,
-      "Крашенинников Павел Владимирович": 9,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 11,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217965": 28,
+      "gas:candidate-vibid:374300466922": 3,
+      "gas:candidate-vibid:1001000220853": 55,
+      "gas:candidate-vibid:1001000113990": 9,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 11,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 10,
-      "Глуховский Владимир Ильич": 18,
-      "Дубровский Владимир Федорович": 26,
-      "Крашенинников Павел Владимирович": 26,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 9,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217965": 10,
+      "gas:candidate-vibid:374300466922": 18,
+      "gas:candidate-vibid:1001000220853": 26,
+      "gas:candidate-vibid:1001000113990": 26,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 9,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 12,
-      "Дубровский Владимир Федорович": 28,
-      "Крашенинников Павел Владимирович": 110,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 9,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 53,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 12,
+      "gas:candidate-vibid:1001000220853": 28,
+      "gas:candidate-vibid:1001000113990": 110,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 9,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 53,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 3,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 23,
-      "Крашенинников Павел Владимирович": 496,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 15,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 19,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217965": 3,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 23,
+      "gas:candidate-vibid:1001000113990": 496,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 15,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 19,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 2,
-      "Глуховский Владимир Ильич": 4,
-      "Дубровский Владимир Федорович": 32,
-      "Крашенинников Павел Владимирович": 33,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 5,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 19,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217965": 2,
+      "gas:candidate-vibid:374300466922": 4,
+      "gas:candidate-vibid:1001000220853": 32,
+      "gas:candidate-vibid:1001000113990": 33,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 5,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 19,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 38,
-      "Глуховский Владимир Ильич": 118,
-      "Дубровский Владимир Федорович": 75,
-      "Крашенинников Павел Владимирович": 152,
-      "Левандовский Валерий Витальевич": 4,
-      "Пронина Зоя Ивановна": 38,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 53,
-      "Четыркин Юрий Борисович": 25,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000217965": 38,
+      "gas:candidate-vibid:374300466922": 118,
+      "gas:candidate-vibid:1001000220853": 75,
+      "gas:candidate-vibid:1001000113990": 152,
+      "gas:candidate-vibid:374300466670": 4,
+      "gas:candidate-vibid:1001000121928": 38,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 53,
+      "gas:candidate-vibid:374300466673": 25,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 67,
-      "Глуховский Владимир Ильич": 89,
-      "Дубровский Владимир Федорович": 140,
-      "Крашенинников Павел Владимирович": 182,
-      "Левандовский Валерий Витальевич": 12,
-      "Пронина Зоя Ивановна": 84,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 253,
-      "Четыркин Юрий Борисович": 20,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000217965": 67,
+      "gas:candidate-vibid:374300466922": 89,
+      "gas:candidate-vibid:1001000220853": 140,
+      "gas:candidate-vibid:1001000113990": 182,
+      "gas:candidate-vibid:374300466670": 12,
+      "gas:candidate-vibid:1001000121928": 84,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 253,
+      "gas:candidate-vibid:374300466673": 20,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 77,
-      "Глуховский Владимир Ильич": 63,
-      "Дубровский Владимир Федорович": 209,
-      "Крашенинников Павел Владимирович": 230,
-      "Левандовский Валерий Витальевич": 26,
-      "Пронина Зоя Ивановна": 140,
-      "Солдаткин Дмитрий Федорович": 13,
-      "Чершинцев Александр Григорьевич": 254,
-      "Четыркин Юрий Борисович": 45,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000217965": 77,
+      "gas:candidate-vibid:374300466922": 63,
+      "gas:candidate-vibid:1001000220853": 209,
+      "gas:candidate-vibid:1001000113990": 230,
+      "gas:candidate-vibid:374300466670": 26,
+      "gas:candidate-vibid:1001000121928": 140,
+      "gas:candidate-vibid:374300466667": 13,
+      "gas:candidate-vibid:1001000226000": 254,
+      "gas:candidate-vibid:374300466673": 45,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 26,
-      "Дубровский Владимир Федорович": 33,
-      "Крашенинников Павел Владимирович": 47,
-      "Левандовский Валерий Витальевич": 13,
-      "Пронина Зоя Ивановна": 26,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 16,
-      "Четыркин Юрий Борисович": 29,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 26,
+      "gas:candidate-vibid:1001000220853": 33,
+      "gas:candidate-vibid:1001000113990": 47,
+      "gas:candidate-vibid:374300466670": 13,
+      "gas:candidate-vibid:1001000121928": 26,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 16,
+      "gas:candidate-vibid:374300466673": 29,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 29,
-      "Глуховский Владимир Ильич": 40,
-      "Дубровский Владимир Федорович": 64,
-      "Крашенинников Павел Владимирович": 89,
-      "Левандовский Валерий Витальевич": 7,
-      "Пронина Зоя Ивановна": 23,
-      "Солдаткин Дмитрий Федорович": 0,
-      "Чершинцев Александр Григорьевич": 54,
-      "Четыркин Юрий Борисович": 11,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000217965": 29,
+      "gas:candidate-vibid:374300466922": 40,
+      "gas:candidate-vibid:1001000220853": 64,
+      "gas:candidate-vibid:1001000113990": 89,
+      "gas:candidate-vibid:374300466670": 7,
+      "gas:candidate-vibid:1001000121928": 23,
+      "gas:candidate-vibid:374300466667": 0,
+      "gas:candidate-vibid:1001000226000": 54,
+      "gas:candidate-vibid:374300466673": 11,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467161&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 63,
-      "Глуховский Владимир Ильич": 55,
-      "Дубровский Владимир Федорович": 149,
-      "Крашенинников Павел Владимирович": 527,
-      "Левандовский Валерий Витальевич": 19,
-      "Пронина Зоя Ивановна": 39,
-      "Солдаткин Дмитрий Федорович": 8,
-      "Чершинцев Александр Григорьевич": 140,
-      "Четыркин Юрий Борисович": 4,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000217965": 63,
+      "gas:candidate-vibid:374300466922": 55,
+      "gas:candidate-vibid:1001000220853": 149,
+      "gas:candidate-vibid:1001000113990": 527,
+      "gas:candidate-vibid:374300466670": 19,
+      "gas:candidate-vibid:1001000121928": 39,
+      "gas:candidate-vibid:374300466667": 8,
+      "gas:candidate-vibid:1001000226000": 140,
+      "gas:candidate-vibid:374300466673": 4,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 48,
-      "Глуховский Владимир Ильич": 21,
-      "Дубровский Владимир Федорович": 142,
-      "Крашенинников Павел Владимирович": 560,
-      "Левандовский Валерий Витальевич": 7,
-      "Пронина Зоя Ивановна": 43,
-      "Солдаткин Дмитрий Федорович": 16,
-      "Чершинцев Александр Григорьевич": 158,
-      "Четыркин Юрий Борисович": 6,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000217965": 48,
+      "gas:candidate-vibid:374300466922": 21,
+      "gas:candidate-vibid:1001000220853": 142,
+      "gas:candidate-vibid:1001000113990": 560,
+      "gas:candidate-vibid:374300466670": 7,
+      "gas:candidate-vibid:1001000121928": 43,
+      "gas:candidate-vibid:374300466667": 16,
+      "gas:candidate-vibid:1001000226000": 158,
+      "gas:candidate-vibid:374300466673": 6,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 33,
-      "Глуховский Владимир Ильич": 11,
-      "Дубровский Владимир Федорович": 101,
-      "Крашенинников Павел Владимирович": 552,
-      "Левандовский Валерий Витальевич": 19,
-      "Пронина Зоя Ивановна": 35,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 70,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217965": 33,
+      "gas:candidate-vibid:374300466922": 11,
+      "gas:candidate-vibid:1001000220853": 101,
+      "gas:candidate-vibid:1001000113990": 552,
+      "gas:candidate-vibid:374300466670": 19,
+      "gas:candidate-vibid:1001000121928": 35,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 70,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 48,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 41,
-      "Крашенинников Павел Владимирович": 112,
-      "Левандовский Валерий Витальевич": 6,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 6,
-      "Чершинцев Александр Григорьевич": 34,
-      "Четыркин Юрий Борисович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217965": 48,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 41,
+      "gas:candidate-vibid:1001000113990": 112,
+      "gas:candidate-vibid:374300466670": 6,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 6,
+      "gas:candidate-vibid:1001000226000": 34,
+      "gas:candidate-vibid:374300466673": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 21,
-      "Глуховский Владимир Ильич": 7,
-      "Дубровский Владимир Федорович": 16,
-      "Крашенинников Павел Владимирович": 147,
-      "Левандовский Валерий Витальевич": 1,
-      "Пронина Зоя Ивановна": 9,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 21,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000217965": 21,
+      "gas:candidate-vibid:374300466922": 7,
+      "gas:candidate-vibid:1001000220853": 16,
+      "gas:candidate-vibid:1001000113990": 147,
+      "gas:candidate-vibid:374300466670": 1,
+      "gas:candidate-vibid:1001000121928": 9,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 21,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 111,
-      "Глуховский Владимир Ильич": 6,
-      "Дубровский Владимир Федорович": 59,
-      "Крашенинников Павел Владимирович": 480,
-      "Левандовский Валерий Витальевич": 23,
-      "Пронина Зоя Ивановна": 30,
-      "Солдаткин Дмитрий Федорович": 20,
-      "Чершинцев Александр Григорьевич": 69,
-      "Четыркин Юрий Борисович": 24,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000217965": 111,
+      "gas:candidate-vibid:374300466922": 6,
+      "gas:candidate-vibid:1001000220853": 59,
+      "gas:candidate-vibid:1001000113990": 480,
+      "gas:candidate-vibid:374300466670": 23,
+      "gas:candidate-vibid:1001000121928": 30,
+      "gas:candidate-vibid:374300466667": 20,
+      "gas:candidate-vibid:1001000226000": 69,
+      "gas:candidate-vibid:374300466673": 24,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 16,
-      "Глуховский Владимир Ильич": 4,
-      "Дубровский Владимир Федорович": 40,
-      "Крашенинников Павел Владимирович": 112,
-      "Левандовский Валерий Витальевич": 3,
-      "Пронина Зоя Ивановна": 11,
-      "Солдаткин Дмитрий Федорович": 1,
-      "Чершинцев Александр Григорьевич": 36,
-      "Четыркин Юрий Борисович": 17,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000217965": 16,
+      "gas:candidate-vibid:374300466922": 4,
+      "gas:candidate-vibid:1001000220853": 40,
+      "gas:candidate-vibid:1001000113990": 112,
+      "gas:candidate-vibid:374300466670": 3,
+      "gas:candidate-vibid:1001000121928": 11,
+      "gas:candidate-vibid:374300466667": 1,
+      "gas:candidate-vibid:1001000226000": 36,
+      "gas:candidate-vibid:374300466673": 17,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 36,
-      "Глуховский Владимир Ильич": 3,
-      "Дубровский Владимир Федорович": 11,
-      "Крашенинников Павел Владимирович": 121,
-      "Левандовский Валерий Витальевич": 2,
-      "Пронина Зоя Ивановна": 7,
-      "Солдаткин Дмитрий Федорович": 3,
-      "Чершинцев Александр Григорьевич": 22,
-      "Четыркин Юрий Борисович": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000217965": 36,
+      "gas:candidate-vibid:374300466922": 3,
+      "gas:candidate-vibid:1001000220853": 11,
+      "gas:candidate-vibid:1001000113990": 121,
+      "gas:candidate-vibid:374300466670": 2,
+      "gas:candidate-vibid:1001000121928": 7,
+      "gas:candidate-vibid:374300466667": 3,
+      "gas:candidate-vibid:1001000226000": 22,
+      "gas:candidate-vibid:374300466673": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 7,
-      "Глуховский Владимир Ильич": 1,
-      "Дубровский Владимир Федорович": 8,
-      "Крашенинников Павел Владимирович": 84,
-      "Левандовский Валерий Витальевич": 0,
-      "Пронина Зоя Ивановна": 5,
-      "Солдаткин Дмитрий Федорович": 9,
-      "Чершинцев Александр Григорьевич": 6,
-      "Четыркин Юрий Борисович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217965": 7,
+      "gas:candidate-vibid:374300466922": 1,
+      "gas:candidate-vibid:1001000220853": 8,
+      "gas:candidate-vibid:1001000113990": 84,
+      "gas:candidate-vibid:374300466670": 0,
+      "gas:candidate-vibid:1001000121928": 5,
+      "gas:candidate-vibid:374300466667": 9,
+      "gas:candidate-vibid:1001000226000": 6,
+      "gas:candidate-vibid:374300466673": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_74_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гараев Алексей Иванович": 11,
-      "Глуховский Владимир Ильич": 2,
-      "Дубровский Владимир Федорович": 3,
-      "Крашенинников Павел Владимирович": 53,
-      "Левандовский Валерий Витальевич": 8,
-      "Пронина Зоя Ивановна": 0,
-      "Солдаткин Дмитрий Федорович": 7,
-      "Чершинцев Александр Григорьевич": 26,
-      "Четыркин Юрий Борисович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000217965": 11,
+      "gas:candidate-vibid:374300466922": 2,
+      "gas:candidate-vibid:1001000220853": 3,
+      "gas:candidate-vibid:1001000113990": 53,
+      "gas:candidate-vibid:374300466670": 8,
+      "gas:candidate-vibid:1001000121928": 0,
+      "gas:candidate-vibid:374300466667": 7,
+      "gas:candidate-vibid:1001000226000": 26,
+      "gas:candidate-vibid:374300466673": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743004014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300467171&region=0&sub_region=0&type=429",

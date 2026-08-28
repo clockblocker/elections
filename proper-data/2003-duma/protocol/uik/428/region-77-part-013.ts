@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 587,
-      "Кара-Мурза Владимир Владимирович": 69,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 12,
-      "Серегин Сергей Иванович": 71,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 15,
-      "Яковлева Елена Юрьевна": 55,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000226015": 587,
+      "gas:candidate-vibid:1001000113999": 69,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 12,
+      "gas:candidate-vibid:1001000121943": 71,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 15,
+      "gas:candidate-vibid:377301470421": 55,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 692,
-      "Кара-Мурза Владимир Владимирович": 81,
-      "Красиков Максим Валентинович": 22,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 95,
-      "Соколов Николай Николаевич": 41,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 59,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000226015": 692,
+      "gas:candidate-vibid:1001000113999": 81,
+      "gas:candidate-vibid:377301470430": 22,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 95,
+      "gas:candidate-vibid:1001000136158": 41,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 59,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 636,
-      "Кара-Мурза Владимир Владимирович": 57,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 10,
-      "Серегин Сергей Иванович": 56,
-      "Соколов Николай Николаевич": 39,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 18,
-      "Яковлева Елена Юрьевна": 48,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000226015": 636,
+      "gas:candidate-vibid:1001000113999": 57,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 10,
+      "gas:candidate-vibid:1001000121943": 56,
+      "gas:candidate-vibid:1001000136158": 39,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 18,
+      "gas:candidate-vibid:377301470421": 48,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 581,
-      "Кара-Мурза Владимир Владимирович": 68,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 52,
-      "Соколов Николай Николаевич": 30,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 18,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000226015": 581,
+      "gas:candidate-vibid:1001000113999": 68,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 52,
+      "gas:candidate-vibid:1001000136158": 30,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 18,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 700,
-      "Кара-Мурза Владимир Владимирович": 57,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 62,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 19,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 43,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000226015": 700,
+      "gas:candidate-vibid:1001000113999": 57,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 62,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 19,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 43,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 687,
-      "Кара-Мурза Владимир Владимирович": 93,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 12,
-      "Серегин Сергей Иванович": 70,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 37,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226015": 687,
+      "gas:candidate-vibid:1001000113999": 93,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 12,
+      "gas:candidate-vibid:1001000121943": 70,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 37,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 535,
-      "Кара-Мурза Владимир Владимирович": 81,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 70,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 24,
-      "Швец Евгений Сильвестрович": 14,
-      "Яковлева Елена Юрьевна": 37,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000226015": 535,
+      "gas:candidate-vibid:1001000113999": 81,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 70,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 24,
+      "gas:candidate-vibid:377301470741": 14,
+      "gas:candidate-vibid:377301470421": 37,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 580,
-      "Кара-Мурза Владимир Владимирович": 53,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 19,
-      "Серегин Сергей Иванович": 61,
-      "Соколов Николай Николаевич": 25,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 43,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000226015": 580,
+      "gas:candidate-vibid:1001000113999": 53,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 19,
+      "gas:candidate-vibid:1001000121943": 61,
+      "gas:candidate-vibid:1001000136158": 25,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 43,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 473,
-      "Кара-Мурза Владимир Владимирович": 63,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 44,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 14,
-      "Швец Евгений Сильвестрович": 3,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000226015": 473,
+      "gas:candidate-vibid:1001000113999": 63,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 44,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 14,
+      "gas:candidate-vibid:377301470741": 3,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 531,
-      "Кара-Мурза Владимир Владимирович": 82,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 98,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 22,
-      "Швец Евгений Сильвестрович": 22,
-      "Яковлева Елена Юрьевна": 45,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000226015": 531,
+      "gas:candidate-vibid:1001000113999": 82,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 98,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 22,
+      "gas:candidate-vibid:377301470741": 22,
+      "gas:candidate-vibid:377301470421": 45,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470455&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 758,
-      "Кара-Мурза Владимир Владимирович": 77,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 68,
-      "Соколов Николай Николаевич": 15,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 28,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000226015": 758,
+      "gas:candidate-vibid:1001000113999": 77,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 68,
+      "gas:candidate-vibid:1001000136158": 15,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 28,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 553,
-      "Кара-Мурза Владимир Владимирович": 86,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 86,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000226015": 553,
+      "gas:candidate-vibid:1001000113999": 86,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 86,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 593,
-      "Кара-Мурза Владимир Владимирович": 98,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 12,
-      "Серегин Сергей Иванович": 75,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 17,
-      "Швец Евгений Сильвестрович": 25,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000226015": 593,
+      "gas:candidate-vibid:1001000113999": 98,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 12,
+      "gas:candidate-vibid:1001000121943": 75,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 17,
+      "gas:candidate-vibid:377301470741": 25,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 666,
-      "Кара-Мурза Владимир Владимирович": 75,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 15,
-      "Серегин Сергей Иванович": 74,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 24,
-      "Швец Евгений Сильвестрович": 17,
-      "Яковлева Елена Юрьевна": 44,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000226015": 666,
+      "gas:candidate-vibid:1001000113999": 75,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 15,
+      "gas:candidate-vibid:1001000121943": 74,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 24,
+      "gas:candidate-vibid:377301470741": 17,
+      "gas:candidate-vibid:377301470421": 44,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 916,
-      "Кара-Мурза Владимир Владимирович": 118,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 28,
-      "Серегин Сергей Иванович": 128,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 27,
-      "Швец Евгений Сильвестрович": 25,
-      "Яковлева Елена Юрьевна": 43,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000226015": 916,
+      "gas:candidate-vibid:1001000113999": 118,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 28,
+      "gas:candidate-vibid:1001000121943": 128,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 27,
+      "gas:candidate-vibid:377301470741": 25,
+      "gas:candidate-vibid:377301470421": 43,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 658,
-      "Кара-Мурза Владимир Владимирович": 167,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 100,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 23,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000226015": 658,
+      "gas:candidate-vibid:1001000113999": 167,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 100,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 23,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 702,
-      "Кара-Мурза Владимир Владимирович": 141,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 117,
-      "Соколов Николай Николаевич": 25,
-      "Тимофеев Юрий Константинович": 34,
-      "Швец Евгений Сильвестрович": 35,
-      "Яковлева Елена Юрьевна": 61,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000226015": 702,
+      "gas:candidate-vibid:1001000113999": 141,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 117,
+      "gas:candidate-vibid:1001000136158": 25,
+      "gas:candidate-vibid:1001000190458": 34,
+      "gas:candidate-vibid:377301470741": 35,
+      "gas:candidate-vibid:377301470421": 61,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 823,
-      "Кара-Мурза Владимир Владимирович": 107,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 31,
-      "Серегин Сергей Иванович": 78,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 27,
-      "Швец Евгений Сильвестрович": 29,
-      "Яковлева Елена Юрьевна": 36,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000226015": 823,
+      "gas:candidate-vibid:1001000113999": 107,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 31,
+      "gas:candidate-vibid:1001000121943": 78,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 27,
+      "gas:candidate-vibid:377301470741": 29,
+      "gas:candidate-vibid:377301470421": 36,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 757,
-      "Кара-Мурза Владимир Владимирович": 116,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 119,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 39,
-      "Швец Евгений Сильвестрович": 43,
-      "Яковлева Елена Юрьевна": 40,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000226015": 757,
+      "gas:candidate-vibid:1001000113999": 116,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 119,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 39,
+      "gas:candidate-vibid:377301470741": 43,
+      "gas:candidate-vibid:377301470421": 40,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 807,
-      "Кара-Мурза Владимир Владимирович": 104,
-      "Красиков Максим Валентинович": 28,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 95,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 36,
-      "Яковлева Елена Юрьевна": 46,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000226015": 807,
+      "gas:candidate-vibid:1001000113999": 104,
+      "gas:candidate-vibid:377301470430": 28,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 95,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 36,
+      "gas:candidate-vibid:377301470421": 46,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 763,
-      "Кара-Мурза Владимир Владимирович": 98,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 89,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 33,
-      "Яковлева Елена Юрьевна": 30,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000226015": 763,
+      "gas:candidate-vibid:1001000113999": 98,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 89,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 33,
+      "gas:candidate-vibid:377301470421": 30,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 785,
-      "Кара-Мурза Владимир Владимирович": 104,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 19,
-      "Серегин Сергей Иванович": 47,
-      "Соколов Николай Николаевич": 30,
-      "Тимофеев Юрий Константинович": 17,
-      "Швец Евгений Сильвестрович": 17,
-      "Яковлева Елена Юрьевна": 44,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000226015": 785,
+      "gas:candidate-vibid:1001000113999": 104,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 19,
+      "gas:candidate-vibid:1001000121943": 47,
+      "gas:candidate-vibid:1001000136158": 30,
+      "gas:candidate-vibid:1001000190458": 17,
+      "gas:candidate-vibid:377301470741": 17,
+      "gas:candidate-vibid:377301470421": 44,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 855,
-      "Кара-Мурза Владимир Владимирович": 101,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 15,
-      "Серегин Сергей Иванович": 68,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 23,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 52,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000226015": 855,
+      "gas:candidate-vibid:1001000113999": 101,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 15,
+      "gas:candidate-vibid:1001000121943": 68,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 23,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 52,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 806,
-      "Кара-Мурза Владимир Владимирович": 76,
-      "Красиков Максим Валентинович": 24,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 84,
-      "Соколов Николай Николаевич": 18,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 40,
-      "Яковлева Елена Юрьевна": 45,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000226015": 806,
+      "gas:candidate-vibid:1001000113999": 76,
+      "gas:candidate-vibid:377301470430": 24,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 84,
+      "gas:candidate-vibid:1001000136158": 18,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 40,
+      "gas:candidate-vibid:377301470421": 45,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 780,
-      "Кара-Мурза Владимир Владимирович": 86,
-      "Красиков Максим Валентинович": 22,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 35,
-      "Серегин Сергей Иванович": 122,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 37,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000226015": 780,
+      "gas:candidate-vibid:1001000113999": 86,
+      "gas:candidate-vibid:377301470430": 22,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 35,
+      "gas:candidate-vibid:1001000121943": 122,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 37,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 726,
-      "Кара-Мурза Владимир Владимирович": 173,
-      "Красиков Максим Валентинович": 29,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 100,
-      "Соколов Николай Николаевич": 37,
-      "Тимофеев Юрий Константинович": 33,
-      "Швец Евгений Сильвестрович": 38,
-      "Яковлева Елена Юрьевна": 44,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000226015": 726,
+      "gas:candidate-vibid:1001000113999": 173,
+      "gas:candidate-vibid:377301470430": 29,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 100,
+      "gas:candidate-vibid:1001000136158": 37,
+      "gas:candidate-vibid:1001000190458": 33,
+      "gas:candidate-vibid:377301470741": 38,
+      "gas:candidate-vibid:377301470421": 44,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 794,
-      "Кара-Мурза Владимир Владимирович": 132,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 26,
-      "Серегин Сергей Иванович": 114,
-      "Соколов Николай Николаевич": 38,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 37,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000226015": 794,
+      "gas:candidate-vibid:1001000113999": 132,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 26,
+      "gas:candidate-vibid:1001000121943": 114,
+      "gas:candidate-vibid:1001000136158": 38,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 37,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 647,
-      "Кара-Мурза Владимир Владимирович": 252,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 52,
-      "Серегин Сергей Иванович": 135,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 55,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000226015": 647,
+      "gas:candidate-vibid:1001000113999": 252,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 52,
+      "gas:candidate-vibid:1001000121943": 135,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 55,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 607,
-      "Кара-Мурза Владимир Владимирович": 160,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 41,
-      "Серегин Сергей Иванович": 120,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 45,
-      "Швец Евгений Сильвестрович": 30,
-      "Яковлева Елена Юрьевна": 45,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000226015": 607,
+      "gas:candidate-vibid:1001000113999": 160,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 41,
+      "gas:candidate-vibid:1001000121943": 120,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 45,
+      "gas:candidate-vibid:377301470741": 30,
+      "gas:candidate-vibid:377301470421": 45,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 641,
-      "Кара-Мурза Владимир Владимирович": 182,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 29,
-      "Серегин Сергей Иванович": 118,
-      "Соколов Николай Николаевич": 46,
-      "Тимофеев Юрий Константинович": 42,
-      "Швец Евгений Сильвестрович": 46,
-      "Яковлева Елена Юрьевна": 56,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000226015": 641,
+      "gas:candidate-vibid:1001000113999": 182,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 29,
+      "gas:candidate-vibid:1001000121943": 118,
+      "gas:candidate-vibid:1001000136158": 46,
+      "gas:candidate-vibid:1001000190458": 42,
+      "gas:candidate-vibid:377301470741": 46,
+      "gas:candidate-vibid:377301470421": 56,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 670,
-      "Кара-Мурза Владимир Владимирович": 164,
-      "Красиков Максим Валентинович": 22,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 27,
-      "Серегин Сергей Иванович": 107,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 47,
-      "Яковлева Елена Юрьевна": 66,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000226015": 670,
+      "gas:candidate-vibid:1001000113999": 164,
+      "gas:candidate-vibid:377301470430": 22,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 27,
+      "gas:candidate-vibid:1001000121943": 107,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 47,
+      "gas:candidate-vibid:377301470421": 66,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 611,
-      "Кара-Мурза Владимир Владимирович": 145,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 12,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 87,
-      "Соколов Николай Николаевич": 64,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 31,
-      "Яковлева Елена Юрьевна": 35,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000226015": 611,
+      "gas:candidate-vibid:1001000113999": 145,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 12,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 87,
+      "gas:candidate-vibid:1001000136158": 64,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 31,
+      "gas:candidate-vibid:377301470421": 35,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 659,
-      "Кара-Мурза Владимир Владимирович": 140,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 94,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 32,
-      "Швец Евгений Сильвестрович": 43,
-      "Яковлева Елена Юрьевна": 55,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000226015": 659,
+      "gas:candidate-vibid:1001000113999": 140,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 94,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 32,
+      "gas:candidate-vibid:377301470741": 43,
+      "gas:candidate-vibid:377301470421": 55,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 352,
-      "Кара-Мурза Владимир Владимирович": 76,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 93,
-      "Соколов Николай Николаевич": 14,
-      "Тимофеев Юрий Константинович": 21,
-      "Швец Евгений Сильвестрович": 18,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000226015": 352,
+      "gas:candidate-vibid:1001000113999": 76,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 93,
+      "gas:candidate-vibid:1001000136158": 14,
+      "gas:candidate-vibid:1001000190458": 21,
+      "gas:candidate-vibid:377301470741": 18,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 689,
-      "Кара-Мурза Владимир Владимирович": 143,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 90,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 36,
-      "Яковлева Елена Юрьевна": 58,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000226015": 689,
+      "gas:candidate-vibid:1001000113999": 143,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 90,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 36,
+      "gas:candidate-vibid:377301470421": 58,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 734,
-      "Кара-Мурза Владимир Владимирович": 158,
-      "Красиков Максим Валентинович": 25,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 27,
-      "Серегин Сергей Иванович": 136,
-      "Соколов Николай Николаевич": 38,
-      "Тимофеев Юрий Константинович": 37,
-      "Швец Евгений Сильвестрович": 29,
-      "Яковлева Елена Юрьевна": 66,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000226015": 734,
+      "gas:candidate-vibid:1001000113999": 158,
+      "gas:candidate-vibid:377301470430": 25,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 27,
+      "gas:candidate-vibid:1001000121943": 136,
+      "gas:candidate-vibid:1001000136158": 38,
+      "gas:candidate-vibid:1001000190458": 37,
+      "gas:candidate-vibid:377301470741": 29,
+      "gas:candidate-vibid:377301470421": 66,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 725,
-      "Кара-Мурза Владимир Владимирович": 119,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 93,
-      "Соколов Николай Николаевич": 32,
-      "Тимофеев Юрий Константинович": 36,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 61,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000226015": 725,
+      "gas:candidate-vibid:1001000113999": 119,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 93,
+      "gas:candidate-vibid:1001000136158": 32,
+      "gas:candidate-vibid:1001000190458": 36,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 61,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 682,
-      "Кара-Мурза Владимир Владимирович": 124,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 28,
-      "Серегин Сергей Иванович": 125,
-      "Соколов Николай Николаевич": 44,
-      "Тимофеев Юрий Константинович": 17,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 60,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000226015": 682,
+      "gas:candidate-vibid:1001000113999": 124,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 28,
+      "gas:candidate-vibid:1001000121943": 125,
+      "gas:candidate-vibid:1001000136158": 44,
+      "gas:candidate-vibid:1001000190458": 17,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 60,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 457,
-      "Кара-Мурза Владимир Владимирович": 185,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 125,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 48,
-      "Швец Евгений Сильвестрович": 35,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000226015": 457,
+      "gas:candidate-vibid:1001000113999": 185,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 125,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 48,
+      "gas:candidate-vibid:377301470741": 35,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 109,
-      "Кара-Мурза Владимир Владимирович": 5,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 1,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 6,
-      "Соколов Николай Николаевич": 4,
-      "Тимофеев Юрий Константинович": 4,
-      "Швец Евгений Сильвестрович": 1,
-      "Яковлева Елена Юрьевна": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000226015": 109,
+      "gas:candidate-vibid:1001000113999": 5,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 1,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 6,
+      "gas:candidate-vibid:1001000136158": 4,
+      "gas:candidate-vibid:1001000190458": 4,
+      "gas:candidate-vibid:377301470741": 1,
+      "gas:candidate-vibid:377301470421": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470456&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 662,
-      "Кара-Мурза Владимир Владимирович": 135,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 31,
-      "Серегин Сергей Иванович": 90,
-      "Соколов Николай Николаевич": 38,
-      "Тимофеев Юрий Константинович": 37,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 40,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000226015": 662,
+      "gas:candidate-vibid:1001000113999": 135,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 31,
+      "gas:candidate-vibid:1001000121943": 90,
+      "gas:candidate-vibid:1001000136158": 38,
+      "gas:candidate-vibid:1001000190458": 37,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 40,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 774,
-      "Кара-Мурза Владимир Владимирович": 164,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 14,
-      "Серегин Сергей Иванович": 74,
-      "Соколов Николай Николаевич": 39,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 29,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000226015": 774,
+      "gas:candidate-vibid:1001000113999": 164,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 14,
+      "gas:candidate-vibid:1001000121943": 74,
+      "gas:candidate-vibid:1001000136158": 39,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 29,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 728,
-      "Кара-Мурза Владимир Владимирович": 105,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 30,
-      "Серегин Сергей Иванович": 96,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 23,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000226015": 728,
+      "gas:candidate-vibid:1001000113999": 105,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 30,
+      "gas:candidate-vibid:1001000121943": 96,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 23,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 794,
-      "Кара-Мурза Владимир Владимирович": 97,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 68,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 35,
-      "Швец Евгений Сильвестрович": 31,
-      "Яковлева Елена Юрьевна": 40,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000226015": 794,
+      "gas:candidate-vibid:1001000113999": 97,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 68,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 35,
+      "gas:candidate-vibid:377301470741": 31,
+      "gas:candidate-vibid:377301470421": 40,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 756,
-      "Кара-Мурза Владимир Владимирович": 102,
-      "Красиков Максим Валентинович": 23,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 22,
-      "Серегин Сергей Иванович": 82,
-      "Соколов Николай Николаевич": 32,
-      "Тимофеев Юрий Константинович": 27,
-      "Швец Евгений Сильвестрович": 33,
-      "Яковлева Елена Юрьевна": 60,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000226015": 756,
+      "gas:candidate-vibid:1001000113999": 102,
+      "gas:candidate-vibid:377301470430": 23,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 22,
+      "gas:candidate-vibid:1001000121943": 82,
+      "gas:candidate-vibid:1001000136158": 32,
+      "gas:candidate-vibid:1001000190458": 27,
+      "gas:candidate-vibid:377301470741": 33,
+      "gas:candidate-vibid:377301470421": 60,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 710,
-      "Кара-Мурза Владимир Владимирович": 118,
-      "Красиков Максим Валентинович": 24,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 35,
-      "Серегин Сергей Иванович": 81,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 24,
-      "Швец Евгений Сильвестрович": 34,
-      "Яковлева Елена Юрьевна": 52,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000226015": 710,
+      "gas:candidate-vibid:1001000113999": 118,
+      "gas:candidate-vibid:377301470430": 24,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 35,
+      "gas:candidate-vibid:1001000121943": 81,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 24,
+      "gas:candidate-vibid:377301470741": 34,
+      "gas:candidate-vibid:377301470421": 52,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 912,
-      "Кара-Мурза Владимир Владимирович": 121,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 91,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 38,
-      "Швец Евгений Сильвестрович": 28,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000226015": 912,
+      "gas:candidate-vibid:1001000113999": 121,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 91,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 38,
+      "gas:candidate-vibid:377301470741": 28,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1108,
-      "Кара-Мурза Владимир Владимирович": 143,
-      "Красиков Максим Валентинович": 36,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 89,
-      "Соколов Николай Николаевич": 34,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 28,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000226015": 1108,
+      "gas:candidate-vibid:1001000113999": 143,
+      "gas:candidate-vibid:377301470430": 36,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 89,
+      "gas:candidate-vibid:1001000136158": 34,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 28,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1015,
-      "Кара-Мурза Владимир Владимирович": 73,
-      "Красиков Максим Валентинович": 23,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 22,
-      "Серегин Сергей Иванович": 74,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 21,
-      "Швец Евгений Сильвестрович": 22,
-      "Яковлева Елена Юрьевна": 23,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000226015": 1015,
+      "gas:candidate-vibid:1001000113999": 73,
+      "gas:candidate-vibid:377301470430": 23,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 22,
+      "gas:candidate-vibid:1001000121943": 74,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 21,
+      "gas:candidate-vibid:377301470741": 22,
+      "gas:candidate-vibid:377301470421": 23,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 936,
-      "Кара-Мурза Владимир Владимирович": 69,
-      "Красиков Максим Валентинович": 41,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 91,
-      "Соколов Николай Николаевич": 39,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 37,
-      "Яковлева Елена Юрьевна": 59,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000226015": 936,
+      "gas:candidate-vibid:1001000113999": 69,
+      "gas:candidate-vibid:377301470430": 41,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 91,
+      "gas:candidate-vibid:1001000136158": 39,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 37,
+      "gas:candidate-vibid:377301470421": 59,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 858,
-      "Кара-Мурза Владимир Владимирович": 144,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 26,
-      "Серегин Сергей Иванович": 85,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 49,
-      "Швец Евгений Сильвестрович": 31,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000226015": 858,
+      "gas:candidate-vibid:1001000113999": 144,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 26,
+      "gas:candidate-vibid:1001000121943": 85,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 49,
+      "gas:candidate-vibid:377301470741": 31,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 650,
-      "Кара-Мурза Владимир Владимирович": 128,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 140,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000226015": 650,
+      "gas:candidate-vibid:1001000113999": 128,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 140,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 625,
-      "Кара-Мурза Владимир Владимирович": 100,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 86,
-      "Соколов Николай Николаевич": 42,
-      "Тимофеев Юрий Константинович": 29,
-      "Швец Евгений Сильвестрович": 15,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000226015": 625,
+      "gas:candidate-vibid:1001000113999": 100,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 86,
+      "gas:candidate-vibid:1001000136158": 42,
+      "gas:candidate-vibid:1001000190458": 29,
+      "gas:candidate-vibid:377301470741": 15,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 752,
-      "Кара-Мурза Владимир Владимирович": 69,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 78,
-      "Соколов Николай Николаевич": 30,
-      "Тимофеев Юрий Константинович": 32,
-      "Швец Евгений Сильвестрович": 36,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000226015": 752,
+      "gas:candidate-vibid:1001000113999": 69,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 78,
+      "gas:candidate-vibid:1001000136158": 30,
+      "gas:candidate-vibid:1001000190458": 32,
+      "gas:candidate-vibid:377301470741": 36,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 702,
-      "Кара-Мурза Владимир Владимирович": 59,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 37,
-      "Серегин Сергей Иванович": 119,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 31,
-      "Швец Евгений Сильвестрович": 37,
-      "Яковлева Елена Юрьевна": 50,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000226015": 702,
+      "gas:candidate-vibid:1001000113999": 59,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 37,
+      "gas:candidate-vibid:1001000121943": 119,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 31,
+      "gas:candidate-vibid:377301470741": 37,
+      "gas:candidate-vibid:377301470421": 50,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 599,
-      "Кара-Мурза Владимир Владимирович": 106,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 60,
-      "Соколов Николай Николаевич": 13,
-      "Тимофеев Юрий Константинович": 23,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 35,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000226015": 599,
+      "gas:candidate-vibid:1001000113999": 106,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 60,
+      "gas:candidate-vibid:1001000136158": 13,
+      "gas:candidate-vibid:1001000190458": 23,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 35,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 801,
-      "Кара-Мурза Владимир Владимирович": 82,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 82,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 49,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000226015": 801,
+      "gas:candidate-vibid:1001000113999": 82,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 82,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 49,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 540,
-      "Кара-Мурза Владимир Владимирович": 130,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 109,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 41,
-      "Яковлева Елена Юрьевна": 33,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000226015": 540,
+      "gas:candidate-vibid:1001000113999": 130,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 109,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 41,
+      "gas:candidate-vibid:377301470421": 33,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 752,
-      "Кара-Мурза Владимир Владимирович": 82,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 15,
-      "Серегин Сергей Иванович": 98,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 37,
-      "Швец Евгений Сильвестрович": 15,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000226015": 752,
+      "gas:candidate-vibid:1001000113999": 82,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 15,
+      "gas:candidate-vibid:1001000121943": 98,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 37,
+      "gas:candidate-vibid:377301470741": 15,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 747,
-      "Кара-Мурза Владимир Владимирович": 88,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 115,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000226015": 747,
+      "gas:candidate-vibid:1001000113999": 88,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 115,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 844,
-      "Кара-Мурза Владимир Владимирович": 105,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 30,
-      "Серегин Сергей Иванович": 113,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 29,
-      "Швец Евгений Сильвестрович": 34,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000226015": 844,
+      "gas:candidate-vibid:1001000113999": 105,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 30,
+      "gas:candidate-vibid:1001000121943": 113,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 29,
+      "gas:candidate-vibid:377301470741": 34,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 696,
-      "Кара-Мурза Владимир Владимирович": 64,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 1,
-      "Ребриков Владимир Андреевич": 7,
-      "Серегин Сергей Иванович": 57,
-      "Соколов Николай Николаевич": 12,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 25,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000226015": 696,
+      "gas:candidate-vibid:1001000113999": 64,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 1,
+      "gas:candidate-vibid:1001000258422": 7,
+      "gas:candidate-vibid:1001000121943": 57,
+      "gas:candidate-vibid:1001000136158": 12,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 25,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 598,
-      "Кара-Мурза Владимир Владимирович": 78,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 39,
-      "Серегин Сергей Иванович": 85,
-      "Соколов Николай Николаевич": 25,
-      "Тимофеев Юрий Константинович": 47,
-      "Швец Евгений Сильвестрович": 22,
-      "Яковлева Елена Юрьевна": 35,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000226015": 598,
+      "gas:candidate-vibid:1001000113999": 78,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 39,
+      "gas:candidate-vibid:1001000121943": 85,
+      "gas:candidate-vibid:1001000136158": 25,
+      "gas:candidate-vibid:1001000190458": 47,
+      "gas:candidate-vibid:377301470741": 22,
+      "gas:candidate-vibid:377301470421": 35,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 636,
-      "Кара-Мурза Владимир Владимирович": 83,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 10,
-      "Серегин Сергей Иванович": 83,
-      "Соколов Николай Николаевич": 17,
-      "Тимофеев Юрий Константинович": 38,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 43,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000226015": 636,
+      "gas:candidate-vibid:1001000113999": 83,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 10,
+      "gas:candidate-vibid:1001000121943": 83,
+      "gas:candidate-vibid:1001000136158": 17,
+      "gas:candidate-vibid:1001000190458": 38,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 43,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 787,
-      "Кара-Мурза Владимир Владимирович": 115,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 116,
-      "Соколов Николай Николаевич": 25,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 29,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000226015": 787,
+      "gas:candidate-vibid:1001000113999": 115,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 116,
+      "gas:candidate-vibid:1001000136158": 25,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 29,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 706,
-      "Кара-Мурза Владимир Владимирович": 102,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 98,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 23,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000226015": 706,
+      "gas:candidate-vibid:1001000113999": 102,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 98,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 23,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 928,
-      "Кара-Мурза Владимир Владимирович": 85,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 12,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 88,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000226015": 928,
+      "gas:candidate-vibid:1001000113999": 85,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 12,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 88,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 727,
-      "Кара-Мурза Владимир Владимирович": 87,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 79,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000226015": 727,
+      "gas:candidate-vibid:1001000113999": 87,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 79,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 679,
-      "Кара-Мурза Владимир Владимирович": 58,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 62,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 33,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 76,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000226015": 679,
+      "gas:candidate-vibid:1001000113999": 58,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 62,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 33,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 76,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 694,
-      "Кара-Мурза Владимир Владимирович": 67,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 62,
-      "Соколов Николай Николаевич": 32,
-      "Тимофеев Юрий Константинович": 23,
-      "Швец Евгений Сильвестрович": 25,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000226015": 694,
+      "gas:candidate-vibid:1001000113999": 67,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 62,
+      "gas:candidate-vibid:1001000136158": 32,
+      "gas:candidate-vibid:1001000190458": 23,
+      "gas:candidate-vibid:377301470741": 25,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 479,
-      "Кара-Мурза Владимир Владимирович": 43,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 32,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 22,
-      "Швец Евгений Сильвестрович": 22,
-      "Яковлева Елена Юрьевна": 52,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000226015": 479,
+      "gas:candidate-vibid:1001000113999": 43,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 32,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 22,
+      "gas:candidate-vibid:377301470741": 22,
+      "gas:candidate-vibid:377301470421": 52,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 485,
-      "Кара-Мурза Владимир Владимирович": 67,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 30,
-      "Серегин Сергей Иванович": 79,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 13,
-      "Швец Евгений Сильвестрович": 8,
-      "Яковлева Елена Юрьевна": 52,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000226015": 485,
+      "gas:candidate-vibid:1001000113999": 67,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 30,
+      "gas:candidate-vibid:1001000121943": 79,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 13,
+      "gas:candidate-vibid:377301470741": 8,
+      "gas:candidate-vibid:377301470421": 52,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 402,
-      "Кара-Мурза Владимир Владимирович": 29,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 6,
-      "Серегин Сергей Иванович": 34,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 14,
-      "Швец Евгений Сильвестрович": 4,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000226015": 402,
+      "gas:candidate-vibid:1001000113999": 29,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 6,
+      "gas:candidate-vibid:1001000121943": 34,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 14,
+      "gas:candidate-vibid:377301470741": 4,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 674,
-      "Кара-Мурза Владимир Владимирович": 40,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 38,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 23,
-      "Швец Евгений Сильвестрович": 5,
-      "Яковлева Елена Юрьевна": 44,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000226015": 674,
+      "gas:candidate-vibid:1001000113999": 40,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 38,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 23,
+      "gas:candidate-vibid:377301470741": 5,
+      "gas:candidate-vibid:377301470421": 44,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 720,
-      "Кара-Мурза Владимир Владимирович": 80,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 96,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 41,
-      "Яковлева Елена Юрьевна": 50,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000226015": 720,
+      "gas:candidate-vibid:1001000113999": 80,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 96,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 41,
+      "gas:candidate-vibid:377301470421": 50,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 786,
-      "Кара-Мурза Владимир Владимирович": 138,
-      "Красиков Максим Валентинович": 32,
-      "Палащенко Вячеслав Кириллович": 15,
-      "Ребриков Владимир Андреевич": 26,
-      "Серегин Сергей Иванович": 98,
-      "Соколов Николай Николаевич": 50,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 41,
-      "Яковлева Елена Юрьевна": 74,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000226015": 786,
+      "gas:candidate-vibid:1001000113999": 138,
+      "gas:candidate-vibid:377301470430": 32,
+      "gas:candidate-vibid:1001000195173": 15,
+      "gas:candidate-vibid:1001000258422": 26,
+      "gas:candidate-vibid:1001000121943": 98,
+      "gas:candidate-vibid:1001000136158": 50,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 41,
+      "gas:candidate-vibid:377301470421": 74,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 826,
-      "Кара-Мурза Владимир Владимирович": 110,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 26,
-      "Серегин Сергей Иванович": 151,
-      "Соколов Николай Николаевич": 44,
-      "Тимофеев Юрий Константинович": 42,
-      "Швец Евгений Сильвестрович": 23,
-      "Яковлева Елена Юрьевна": 95,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000226015": 826,
+      "gas:candidate-vibid:1001000113999": 110,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 26,
+      "gas:candidate-vibid:1001000121943": 151,
+      "gas:candidate-vibid:1001000136158": 44,
+      "gas:candidate-vibid:1001000190458": 42,
+      "gas:candidate-vibid:377301470741": 23,
+      "gas:candidate-vibid:377301470421": 95,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 820,
-      "Кара-Мурза Владимир Владимирович": 137,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 27,
-      "Ребриков Владимир Андреевич": 43,
-      "Серегин Сергей Иванович": 192,
-      "Соколов Николай Николаевич": 39,
-      "Тимофеев Юрий Константинович": 40,
-      "Швец Евгений Сильвестрович": 26,
-      "Яковлева Елена Юрьевна": 69,
-      "Против всех": 393
+      "gas:candidate-vibid:1001000226015": 820,
+      "gas:candidate-vibid:1001000113999": 137,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 27,
+      "gas:candidate-vibid:1001000258422": 43,
+      "gas:candidate-vibid:1001000121943": 192,
+      "gas:candidate-vibid:1001000136158": 39,
+      "gas:candidate-vibid:1001000190458": 40,
+      "gas:candidate-vibid:377301470741": 26,
+      "gas:candidate-vibid:377301470421": 69,
+      "special:against-all": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 819,
-      "Кара-Мурза Владимир Владимирович": 128,
-      "Красиков Максим Валентинович": 25,
-      "Палащенко Вячеслав Кириллович": 13,
-      "Ребриков Владимир Андреевич": 39,
-      "Серегин Сергей Иванович": 178,
-      "Соколов Николай Николаевич": 32,
-      "Тимофеев Юрий Константинович": 42,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 76,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000226015": 819,
+      "gas:candidate-vibid:1001000113999": 128,
+      "gas:candidate-vibid:377301470430": 25,
+      "gas:candidate-vibid:1001000195173": 13,
+      "gas:candidate-vibid:1001000258422": 39,
+      "gas:candidate-vibid:1001000121943": 178,
+      "gas:candidate-vibid:1001000136158": 32,
+      "gas:candidate-vibid:1001000190458": 42,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 76,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 29,
-      "Кара-Мурза Владимир Владимирович": 3,
-      "Красиков Максим Валентинович": 0,
-      "Палащенко Вячеслав Кириллович": 0,
-      "Ребриков Владимир Андреевич": 2,
-      "Серегин Сергей Иванович": 9,
-      "Соколов Николай Николаевич": 5,
-      "Тимофеев Юрий Константинович": 4,
-      "Швец Евгений Сильвестрович": 0,
-      "Яковлева Елена Юрьевна": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000226015": 29,
+      "gas:candidate-vibid:1001000113999": 3,
+      "gas:candidate-vibid:377301470430": 0,
+      "gas:candidate-vibid:1001000195173": 0,
+      "gas:candidate-vibid:1001000258422": 2,
+      "gas:candidate-vibid:1001000121943": 9,
+      "gas:candidate-vibid:1001000136158": 5,
+      "gas:candidate-vibid:1001000190458": 4,
+      "gas:candidate-vibid:377301470741": 0,
+      "gas:candidate-vibid:377301470421": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470457&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 628,
-      "Кара-Мурза Владимир Владимирович": 161,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 138,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 11,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000226015": 628,
+      "gas:candidate-vibid:1001000113999": 161,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 138,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 11,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 683,
-      "Кара-Мурза Владимир Владимирович": 167,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 132,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 53,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000226015": 683,
+      "gas:candidate-vibid:1001000113999": 167,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 132,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 53,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 739,
-      "Кара-Мурза Владимир Владимирович": 189,
-      "Красиков Максим Валентинович": 27,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 93,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 14,
-      "Яковлева Елена Юрьевна": 49,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000226015": 739,
+      "gas:candidate-vibid:1001000113999": 189,
+      "gas:candidate-vibid:377301470430": 27,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 93,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 14,
+      "gas:candidate-vibid:377301470421": 49,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 706,
-      "Кара-Мурза Владимир Владимирович": 136,
-      "Красиков Максим Валентинович": 25,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 100,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 37,
-      "Швец Евгений Сильвестрович": 12,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000226015": 706,
+      "gas:candidate-vibid:1001000113999": 136,
+      "gas:candidate-vibid:377301470430": 25,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 100,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 37,
+      "gas:candidate-vibid:377301470741": 12,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 683,
-      "Кара-Мурза Владимир Владимирович": 85,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 22,
-      "Серегин Сергей Иванович": 82,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 22,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000226015": 683,
+      "gas:candidate-vibid:1001000113999": 85,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 22,
+      "gas:candidate-vibid:1001000121943": 82,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 22,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 777,
-      "Кара-Мурза Владимир Владимирович": 114,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 24,
-      "Серегин Сергей Иванович": 96,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 28,
-      "Швец Евгений Сильвестрович": 16,
-      "Яковлева Елена Юрьевна": 52,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000226015": 777,
+      "gas:candidate-vibid:1001000113999": 114,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 24,
+      "gas:candidate-vibid:1001000121943": 96,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 28,
+      "gas:candidate-vibid:377301470741": 16,
+      "gas:candidate-vibid:377301470421": 52,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 773,
-      "Кара-Мурза Владимир Владимирович": 118,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 11,
-      "Ребриков Владимир Андреевич": 14,
-      "Серегин Сергей Иванович": 86,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 15,
-      "Яковлева Елена Юрьевна": 45,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000226015": 773,
+      "gas:candidate-vibid:1001000113999": 118,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 11,
+      "gas:candidate-vibid:1001000258422": 14,
+      "gas:candidate-vibid:1001000121943": 86,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 15,
+      "gas:candidate-vibid:377301470421": 45,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 10
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 915,
-      "Кара-Мурза Владимир Владимирович": 155,
-      "Красиков Максим Валентинович": 23,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 126,
-      "Соколов Николай Николаевич": 34,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 28,
-      "Яковлева Елена Юрьевна": 48,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000226015": 915,
+      "gas:candidate-vibid:1001000113999": 155,
+      "gas:candidate-vibid:377301470430": 23,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 126,
+      "gas:candidate-vibid:1001000136158": 34,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 28,
+      "gas:candidate-vibid:377301470421": 48,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 740,
-      "Кара-Мурза Владимир Владимирович": 124,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 95,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 10,
-      "Швец Евгений Сильвестрович": 24,
-      "Яковлева Елена Юрьевна": 57,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000226015": 740,
+      "gas:candidate-vibid:1001000113999": 124,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 95,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 10,
+      "gas:candidate-vibid:377301470741": 24,
+      "gas:candidate-vibid:377301470421": 57,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 695,
-      "Кара-Мурза Владимир Владимирович": 101,
-      "Красиков Максим Валентинович": 19,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 14,
-      "Серегин Сергей Иванович": 98,
-      "Соколов Николай Николаевич": 34,
-      "Тимофеев Юрий Константинович": 17,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 38,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000226015": 695,
+      "gas:candidate-vibid:1001000113999": 101,
+      "gas:candidate-vibid:377301470430": 19,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 14,
+      "gas:candidate-vibid:1001000121943": 98,
+      "gas:candidate-vibid:1001000136158": 34,
+      "gas:candidate-vibid:1001000190458": 17,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 38,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 955,
-      "Кара-Мурза Владимир Владимирович": 136,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 12,
-      "Ребриков Владимир Андреевич": 26,
-      "Серегин Сергей Иванович": 126,
-      "Соколов Николай Николаевич": 33,
-      "Тимофеев Юрий Константинович": 9,
-      "Швец Евгений Сильвестрович": 18,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000226015": 955,
+      "gas:candidate-vibid:1001000113999": 136,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 12,
+      "gas:candidate-vibid:1001000258422": 26,
+      "gas:candidate-vibid:1001000121943": 126,
+      "gas:candidate-vibid:1001000136158": 33,
+      "gas:candidate-vibid:1001000190458": 9,
+      "gas:candidate-vibid:377301470741": 18,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 744,
-      "Кара-Мурза Владимир Владимирович": 147,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 118,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 36,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000226015": 744,
+      "gas:candidate-vibid:1001000113999": 147,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 118,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 36,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 741,
-      "Кара-Мурза Владимир Владимирович": 124,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 78,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 5,
-      "Яковлева Елена Юрьевна": 44,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226015": 741,
+      "gas:candidate-vibid:1001000113999": 124,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 78,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 5,
+      "gas:candidate-vibid:377301470421": 44,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 669,
-      "Кара-Мурза Владимир Владимирович": 128,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 14,
-      "Серегин Сергей Иванович": 113,
-      "Соколов Николай Николаевич": 27,
-      "Тимофеев Юрий Константинович": 25,
-      "Швец Евгений Сильвестрович": 5,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000226015": 669,
+      "gas:candidate-vibid:1001000113999": 128,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 14,
+      "gas:candidate-vibid:1001000121943": 113,
+      "gas:candidate-vibid:1001000136158": 27,
+      "gas:candidate-vibid:1001000190458": 25,
+      "gas:candidate-vibid:377301470741": 5,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 667,
-      "Кара-Мурза Владимир Владимирович": 133,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 16,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 130,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 19,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 56,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000226015": 667,
+      "gas:candidate-vibid:1001000113999": 133,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 16,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 130,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 19,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 56,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 779,
-      "Кара-Мурза Владимир Владимирович": 184,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 150,
-      "Соколов Николай Николаевич": 42,
-      "Тимофеев Юрий Константинович": 32,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 65,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000226015": 779,
+      "gas:candidate-vibid:1001000113999": 184,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 150,
+      "gas:candidate-vibid:1001000136158": 42,
+      "gas:candidate-vibid:1001000190458": 32,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 65,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470458&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 825,
-      "Кара-Мурза Владимир Владимирович": 99,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 8,
-      "Серегин Сергей Иванович": 59,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 11,
-      "Швец Евгений Сильвестрович": 3,
-      "Яковлева Елена Юрьевна": 49,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000226015": 825,
+      "gas:candidate-vibid:1001000113999": 99,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 8,
+      "gas:candidate-vibid:1001000121943": 59,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 11,
+      "gas:candidate-vibid:377301470741": 3,
+      "gas:candidate-vibid:377301470421": 49,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 720,
-      "Кара-Мурза Владимир Владимирович": 93,
-      "Красиков Максим Валентинович": 33,
-      "Палащенко Вячеслав Кириллович": 12,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 66,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 29,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 33,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000226015": 720,
+      "gas:candidate-vibid:1001000113999": 93,
+      "gas:candidate-vibid:377301470430": 33,
+      "gas:candidate-vibid:1001000195173": 12,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 66,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 29,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 33,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 722,
-      "Кара-Мурза Владимир Владимирович": 85,
-      "Красиков Максим Валентинович": 6,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 60,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 7,
-      "Швец Евгений Сильвестрович": 7,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000226015": 722,
+      "gas:candidate-vibid:1001000113999": 85,
+      "gas:candidate-vibid:377301470430": 6,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 60,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 7,
+      "gas:candidate-vibid:377301470741": 7,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 754,
-      "Кара-Мурза Владимир Владимирович": 71,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 61,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 22,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000226015": 754,
+      "gas:candidate-vibid:1001000113999": 71,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 61,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 22,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 687,
-      "Кара-Мурза Владимир Владимирович": 122,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 12,
-      "Серегин Сергей Иванович": 61,
-      "Соколов Николай Николаевич": 17,
-      "Тимофеев Юрий Константинович": 24,
-      "Швец Евгений Сильвестрович": 0,
-      "Яковлева Елена Юрьевна": 26,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000226015": 687,
+      "gas:candidate-vibid:1001000113999": 122,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 12,
+      "gas:candidate-vibid:1001000121943": 61,
+      "gas:candidate-vibid:1001000136158": 17,
+      "gas:candidate-vibid:1001000190458": 24,
+      "gas:candidate-vibid:377301470741": 0,
+      "gas:candidate-vibid:377301470421": 26,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 799,
-      "Кара-Мурза Владимир Владимирович": 106,
-      "Красиков Максим Валентинович": 6,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 51,
-      "Соколов Николай Николаевич": 13,
-      "Тимофеев Юрий Константинович": 12,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 37,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000226015": 799,
+      "gas:candidate-vibid:1001000113999": 106,
+      "gas:candidate-vibid:377301470430": 6,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 51,
+      "gas:candidate-vibid:1001000136158": 13,
+      "gas:candidate-vibid:1001000190458": 12,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 37,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 804,
-      "Кара-Мурза Владимир Владимирович": 83,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 28,
-      "Серегин Сергей Иванович": 57,
-      "Соколов Николай Николаевич": 19,
-      "Тимофеев Юрий Константинович": 19,
-      "Швец Евгений Сильвестрович": 22,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000226015": 804,
+      "gas:candidate-vibid:1001000113999": 83,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 28,
+      "gas:candidate-vibid:1001000121943": 57,
+      "gas:candidate-vibid:1001000136158": 19,
+      "gas:candidate-vibid:1001000190458": 19,
+      "gas:candidate-vibid:377301470741": 22,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 728,
-      "Кара-Мурза Владимир Владимирович": 67,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 12,
-      "Серегин Сергей Иванович": 40,
-      "Соколов Николай Николаевич": 13,
-      "Тимофеев Юрий Константинович": 5,
-      "Швец Евгений Сильвестрович": 11,
-      "Яковлева Елена Юрьевна": 20,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000226015": 728,
+      "gas:candidate-vibid:1001000113999": 67,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 12,
+      "gas:candidate-vibid:1001000121943": 40,
+      "gas:candidate-vibid:1001000136158": 13,
+      "gas:candidate-vibid:1001000190458": 5,
+      "gas:candidate-vibid:377301470741": 11,
+      "gas:candidate-vibid:377301470421": 20,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 702,
-      "Кара-Мурза Владимир Владимирович": 90,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 23,
-      "Серегин Сергей Иванович": 51,
-      "Соколов Николай Николаевич": 17,
-      "Тимофеев Юрий Константинович": 19,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 40,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000226015": 702,
+      "gas:candidate-vibid:1001000113999": 90,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 23,
+      "gas:candidate-vibid:1001000121943": 51,
+      "gas:candidate-vibid:1001000136158": 17,
+      "gas:candidate-vibid:1001000190458": 19,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 40,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 825,
-      "Кара-Мурза Владимир Владимирович": 148,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 20,
-      "Серегин Сергей Иванович": 104,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 17,
-      "Швец Евгений Сильвестрович": 8,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000226015": 825,
+      "gas:candidate-vibid:1001000113999": 148,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 20,
+      "gas:candidate-vibid:1001000121943": 104,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 17,
+      "gas:candidate-vibid:377301470741": 8,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 761,
-      "Кара-Мурза Владимир Владимирович": 138,
-      "Красиков Максим Валентинович": 12,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 14,
-      "Серегин Сергей Иванович": 96,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 21,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000226015": 761,
+      "gas:candidate-vibid:1001000113999": 138,
+      "gas:candidate-vibid:377301470430": 12,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 14,
+      "gas:candidate-vibid:1001000121943": 96,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 21,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1026,
-      "Кара-Мурза Владимир Владимирович": 136,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 111,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 17,
-      "Швец Евгений Сильвестрович": 18,
-      "Яковлева Елена Юрьевна": 57,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000226015": 1026,
+      "gas:candidate-vibid:1001000113999": 136,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 111,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 17,
+      "gas:candidate-vibid:377301470741": 18,
+      "gas:candidate-vibid:377301470421": 57,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 793,
-      "Кара-Мурза Владимир Владимирович": 91,
-      "Красиков Максим Валентинович": 15,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 77,
-      "Соколов Николай Николаевич": 10,
-      "Тимофеев Юрий Константинович": 13,
-      "Швец Евгений Сильвестрович": 14,
-      "Яковлева Елена Юрьевна": 37,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000226015": 793,
+      "gas:candidate-vibid:1001000113999": 91,
+      "gas:candidate-vibid:377301470430": 15,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 77,
+      "gas:candidate-vibid:1001000136158": 10,
+      "gas:candidate-vibid:1001000190458": 13,
+      "gas:candidate-vibid:377301470741": 14,
+      "gas:candidate-vibid:377301470421": 37,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 899,
-      "Кара-Мурза Владимир Владимирович": 99,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 12,
-      "Ребриков Владимир Андреевич": 27,
-      "Серегин Сергей Иванович": 88,
-      "Соколов Николай Николаевич": 23,
-      "Тимофеев Юрий Константинович": 12,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 51,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000226015": 899,
+      "gas:candidate-vibid:1001000113999": 99,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 12,
+      "gas:candidate-vibid:1001000258422": 27,
+      "gas:candidate-vibid:1001000121943": 88,
+      "gas:candidate-vibid:1001000136158": 23,
+      "gas:candidate-vibid:1001000190458": 12,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 51,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 798,
-      "Кара-Мурза Владимир Владимирович": 108,
-      "Красиков Максим Валентинович": 20,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 8,
-      "Серегин Сергей Иванович": 71,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 14,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000226015": 798,
+      "gas:candidate-vibid:1001000113999": 108,
+      "gas:candidate-vibid:377301470430": 20,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 8,
+      "gas:candidate-vibid:1001000121943": 71,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 14,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 666,
-      "Кара-Мурза Владимир Владимирович": 188,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 39,
-      "Соколов Николай Николаевич": 16,
-      "Тимофеев Юрий Константинович": 10,
-      "Швец Евгений Сильвестрович": 12,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000226015": 666,
+      "gas:candidate-vibid:1001000113999": 188,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 39,
+      "gas:candidate-vibid:1001000136158": 16,
+      "gas:candidate-vibid:1001000190458": 10,
+      "gas:candidate-vibid:377301470741": 12,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 827,
-      "Кара-Мурза Владимир Владимирович": 67,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 1,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 70,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000226015": 827,
+      "gas:candidate-vibid:1001000113999": 67,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 1,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 70,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 875,
-      "Кара-Мурза Владимир Владимирович": 60,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 56,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 14,
-      "Швец Евгений Сильвестрович": 29,
-      "Яковлева Елена Юрьевна": 40,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000226015": 875,
+      "gas:candidate-vibid:1001000113999": 60,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 56,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 14,
+      "gas:candidate-vibid:377301470741": 29,
+      "gas:candidate-vibid:377301470421": 40,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 804,
-      "Кара-Мурза Владимир Владимирович": 66,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 7,
-      "Серегин Сергей Иванович": 66,
-      "Соколов Николай Николаевич": 18,
-      "Тимофеев Юрий Константинович": 13,
-      "Швец Евгений Сильвестрович": 7,
-      "Яковлева Елена Юрьевна": 27,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000226015": 804,
+      "gas:candidate-vibid:1001000113999": 66,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 7,
+      "gas:candidate-vibid:1001000121943": 66,
+      "gas:candidate-vibid:1001000136158": 18,
+      "gas:candidate-vibid:1001000190458": 13,
+      "gas:candidate-vibid:377301470741": 7,
+      "gas:candidate-vibid:377301470421": 27,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 793,
-      "Кара-Мурза Владимир Владимирович": 110,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 28,
-      "Серегин Сергей Иванович": 80,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 12,
-      "Швец Евгений Сильвестрович": 24,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000226015": 793,
+      "gas:candidate-vibid:1001000113999": 110,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 28,
+      "gas:candidate-vibid:1001000121943": 80,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 12,
+      "gas:candidate-vibid:377301470741": 24,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 931,
-      "Кара-Мурза Владимир Владимирович": 58,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 19,
-      "Серегин Сергей Иванович": 50,
-      "Соколов Николай Николаевич": 12,
-      "Тимофеев Юрий Константинович": 4,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 29,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226015": 931,
+      "gas:candidate-vibid:1001000113999": 58,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 19,
+      "gas:candidate-vibid:1001000121943": 50,
+      "gas:candidate-vibid:1001000136158": 12,
+      "gas:candidate-vibid:1001000190458": 4,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 29,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 820,
-      "Кара-Мурза Владимир Владимирович": 68,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 21,
-      "Серегин Сергей Иванович": 77,
-      "Соколов Николай Николаевич": 12,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 32,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000226015": 820,
+      "gas:candidate-vibid:1001000113999": 68,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 21,
+      "gas:candidate-vibid:1001000121943": 77,
+      "gas:candidate-vibid:1001000136158": 12,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 32,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470459&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 627,
-      "Кара-Мурза Владимир Владимирович": 32,
-      "Красиков Максим Валентинович": 0,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 50,
-      "Соколов Николай Николаевич": 9,
-      "Тимофеев Юрий Константинович": 5,
-      "Швец Евгений Сильвестрович": 16,
-      "Яковлева Елена Юрьевна": 17,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000226015": 627,
+      "gas:candidate-vibid:1001000113999": 32,
+      "gas:candidate-vibid:377301470430": 0,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 50,
+      "gas:candidate-vibid:1001000136158": 9,
+      "gas:candidate-vibid:1001000190458": 5,
+      "gas:candidate-vibid:377301470741": 16,
+      "gas:candidate-vibid:377301470421": 17,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 758,
-      "Кара-Мурза Владимир Владимирович": 47,
-      "Красиков Максим Валентинович": 4,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 10,
-      "Серегин Сергей Иванович": 36,
-      "Соколов Николай Николаевич": 10,
-      "Тимофеев Юрий Константинович": 10,
-      "Швец Евгений Сильвестрович": 8,
-      "Яковлева Елена Юрьевна": 29,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000226015": 758,
+      "gas:candidate-vibid:1001000113999": 47,
+      "gas:candidate-vibid:377301470430": 4,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 10,
+      "gas:candidate-vibid:1001000121943": 36,
+      "gas:candidate-vibid:1001000136158": 10,
+      "gas:candidate-vibid:1001000190458": 10,
+      "gas:candidate-vibid:377301470741": 8,
+      "gas:candidate-vibid:377301470421": 29,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 715,
-      "Кара-Мурза Владимир Владимирович": 73,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 63,
-      "Соколов Николай Николаевич": 21,
-      "Тимофеев Юрий Константинович": 19,
-      "Швец Евгений Сильвестрович": 1,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000226015": 715,
+      "gas:candidate-vibid:1001000113999": 73,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 63,
+      "gas:candidate-vibid:1001000136158": 21,
+      "gas:candidate-vibid:1001000190458": 19,
+      "gas:candidate-vibid:377301470741": 1,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 790,
-      "Кара-Мурза Владимир Владимирович": 59,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 4,
-      "Серегин Сергей Иванович": 52,
-      "Соколов Николай Николаевич": 6,
-      "Тимофеев Юрий Константинович": 13,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 46,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000226015": 790,
+      "gas:candidate-vibid:1001000113999": 59,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 4,
+      "gas:candidate-vibid:1001000121943": 52,
+      "gas:candidate-vibid:1001000136158": 6,
+      "gas:candidate-vibid:1001000190458": 13,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 46,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 831,
-      "Кара-Мурза Владимир Владимирович": 69,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 8,
-      "Серегин Сергей Иванович": 60,
-      "Соколов Николай Николаевич": 17,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000226015": 831,
+      "gas:candidate-vibid:1001000113999": 69,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 8,
+      "gas:candidate-vibid:1001000121943": 60,
+      "gas:candidate-vibid:1001000136158": 17,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 141,
-      "Кара-Мурза Владимир Владимирович": 11,
-      "Красиков Максим Валентинович": 1,
-      "Палащенко Вячеслав Кириллович": 0,
-      "Ребриков Владимир Андреевич": 0,
-      "Серегин Сергей Иванович": 22,
-      "Соколов Николай Николаевич": 3,
-      "Тимофеев Юрий Константинович": 4,
-      "Швец Евгений Сильвестрович": 0,
-      "Яковлева Елена Юрьевна": 9,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000226015": 141,
+      "gas:candidate-vibid:1001000113999": 11,
+      "gas:candidate-vibid:377301470430": 1,
+      "gas:candidate-vibid:1001000195173": 0,
+      "gas:candidate-vibid:1001000258422": 0,
+      "gas:candidate-vibid:1001000121943": 22,
+      "gas:candidate-vibid:1001000136158": 3,
+      "gas:candidate-vibid:1001000190458": 4,
+      "gas:candidate-vibid:377301470741": 0,
+      "gas:candidate-vibid:377301470421": 9,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 714,
-      "Кара-Мурза Владимир Владимирович": 83,
-      "Красиков Максим Валентинович": 14,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 95,
-      "Соколов Николай Николаевич": 25,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 39,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226015": 714,
+      "gas:candidate-vibid:1001000113999": 83,
+      "gas:candidate-vibid:377301470430": 14,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 95,
+      "gas:candidate-vibid:1001000136158": 25,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 39,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 632,
-      "Кара-Мурза Владимир Владимирович": 47,
-      "Красиков Максим Валентинович": 13,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 59,
-      "Соколов Николай Николаевич": 14,
-      "Тимофеев Юрий Константинович": 12,
-      "Швец Евгений Сильвестрович": 28,
-      "Яковлева Елена Юрьевна": 30,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000226015": 632,
+      "gas:candidate-vibid:1001000113999": 47,
+      "gas:candidate-vibid:377301470430": 13,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 59,
+      "gas:candidate-vibid:1001000136158": 14,
+      "gas:candidate-vibid:1001000190458": 12,
+      "gas:candidate-vibid:377301470741": 28,
+      "gas:candidate-vibid:377301470421": 30,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 662,
-      "Кара-Мурза Владимир Владимирович": 128,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 27,
-      "Серегин Сергей Иванович": 100,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 29,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 47,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000226015": 662,
+      "gas:candidate-vibid:1001000113999": 128,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 27,
+      "gas:candidate-vibid:1001000121943": 100,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 29,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 47,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 809,
-      "Кара-Мурза Владимир Владимирович": 134,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 9,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 76,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 30,
-      "Швец Евгений Сильвестрович": 17,
-      "Яковлева Елена Юрьевна": 45,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000226015": 809,
+      "gas:candidate-vibid:1001000113999": 134,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 9,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 76,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 30,
+      "gas:candidate-vibid:377301470741": 17,
+      "gas:candidate-vibid:377301470421": 45,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 866,
-      "Кара-Мурза Владимир Владимирович": 91,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 82,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 10,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000226015": 866,
+      "gas:candidate-vibid:1001000113999": 91,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 82,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 10,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 883,
-      "Кара-Мурза Владимир Владимирович": 142,
-      "Красиков Максим Валентинович": 6,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 14,
-      "Серегин Сергей Иванович": 88,
-      "Соколов Николай Николаевич": 14,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 5,
-      "Яковлева Елена Юрьевна": 19,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000226015": 883,
+      "gas:candidate-vibid:1001000113999": 142,
+      "gas:candidate-vibid:377301470430": 6,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 14,
+      "gas:candidate-vibid:1001000121943": 88,
+      "gas:candidate-vibid:1001000136158": 14,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 5,
+      "gas:candidate-vibid:377301470421": 19,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 717,
-      "Кара-Мурза Владимир Владимирович": 125,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 13,
-      "Серегин Сергей Иванович": 66,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 2,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 27,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000226015": 717,
+      "gas:candidate-vibid:1001000113999": 125,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 13,
+      "gas:candidate-vibid:1001000121943": 66,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 2,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 27,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 861,
-      "Кара-Мурза Владимир Владимирович": 106,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 17,
-      "Серегин Сергей Иванович": 72,
-      "Соколов Николай Николаевич": 16,
-      "Тимофеев Юрий Константинович": 16,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 49,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000226015": 861,
+      "gas:candidate-vibid:1001000113999": 106,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 17,
+      "gas:candidate-vibid:1001000121943": 72,
+      "gas:candidate-vibid:1001000136158": 16,
+      "gas:candidate-vibid:1001000190458": 16,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 49,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1087,
-      "Кара-Мурза Владимир Владимирович": 64,
-      "Красиков Максим Валентинович": 4,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 72,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 13,
-      "Швец Евгений Сильвестрович": 9,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000226015": 1087,
+      "gas:candidate-vibid:1001000113999": 64,
+      "gas:candidate-vibid:377301470430": 4,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 72,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 13,
+      "gas:candidate-vibid:377301470741": 9,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 891,
-      "Кара-Мурза Владимир Владимирович": 99,
-      "Красиков Максим Валентинович": 18,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 30,
-      "Серегин Сергей Иванович": 103,
-      "Соколов Николай Николаевич": 29,
-      "Тимофеев Юрий Константинович": 14,
-      "Швец Евгений Сильвестрович": 3,
-      "Яковлева Елена Юрьевна": 50,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000226015": 891,
+      "gas:candidate-vibid:1001000113999": 99,
+      "gas:candidate-vibid:377301470430": 18,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 30,
+      "gas:candidate-vibid:1001000121943": 103,
+      "gas:candidate-vibid:1001000136158": 29,
+      "gas:candidate-vibid:1001000190458": 14,
+      "gas:candidate-vibid:377301470741": 3,
+      "gas:candidate-vibid:377301470421": 50,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 829,
-      "Кара-Мурза Владимир Владимирович": 103,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 7,
-      "Серегин Сергей Иванович": 43,
-      "Соколов Николай Николаевич": 15,
-      "Тимофеев Юрий Константинович": 10,
-      "Швец Евгений Сильвестрович": 11,
-      "Яковлева Елена Юрьевна": 46,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000226015": 829,
+      "gas:candidate-vibid:1001000113999": 103,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 7,
+      "gas:candidate-vibid:1001000121943": 43,
+      "gas:candidate-vibid:1001000136158": 15,
+      "gas:candidate-vibid:1001000190458": 10,
+      "gas:candidate-vibid:377301470741": 11,
+      "gas:candidate-vibid:377301470421": 46,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 622,
-      "Кара-Мурза Владимир Владимирович": 26,
-      "Красиков Максим Валентинович": 1,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 4,
-      "Серегин Сергей Иванович": 28,
-      "Соколов Николай Николаевич": 6,
-      "Тимофеев Юрий Константинович": 7,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 4,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000226015": 622,
+      "gas:candidate-vibid:1001000113999": 26,
+      "gas:candidate-vibid:377301470430": 1,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 4,
+      "gas:candidate-vibid:1001000121943": 28,
+      "gas:candidate-vibid:1001000136158": 6,
+      "gas:candidate-vibid:1001000190458": 7,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 4,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 742,
-      "Кара-Мурза Владимир Владимирович": 45,
-      "Красиков Максим Валентинович": 6,
-      "Палащенко Вячеслав Кириллович": 2,
-      "Ребриков Владимир Андреевич": 15,
-      "Серегин Сергей Иванович": 47,
-      "Соколов Николай Николаевич": 12,
-      "Тимофеев Юрий Константинович": 8,
-      "Швец Евгений Сильвестрович": 12,
-      "Яковлева Елена Юрьевна": 20,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000226015": 742,
+      "gas:candidate-vibid:1001000113999": 45,
+      "gas:candidate-vibid:377301470430": 6,
+      "gas:candidate-vibid:1001000195173": 2,
+      "gas:candidate-vibid:1001000258422": 15,
+      "gas:candidate-vibid:1001000121943": 47,
+      "gas:candidate-vibid:1001000136158": 12,
+      "gas:candidate-vibid:1001000190458": 8,
+      "gas:candidate-vibid:377301470741": 12,
+      "gas:candidate-vibid:377301470421": 20,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 708,
-      "Кара-Мурза Владимир Владимирович": 97,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 15,
-      "Серегин Сергей Иванович": 57,
-      "Соколов Николай Николаевич": 19,
-      "Тимофеев Юрий Константинович": 13,
-      "Швец Евгений Сильвестрович": 11,
-      "Яковлева Елена Юрьевна": 31,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000226015": 708,
+      "gas:candidate-vibid:1001000113999": 97,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 15,
+      "gas:candidate-vibid:1001000121943": 57,
+      "gas:candidate-vibid:1001000136158": 19,
+      "gas:candidate-vibid:1001000190458": 13,
+      "gas:candidate-vibid:377301470741": 11,
+      "gas:candidate-vibid:377301470421": 31,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 728,
-      "Кара-Мурза Владимир Владимирович": 102,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 12,
-      "Серегин Сергей Иванович": 60,
-      "Соколов Николай Николаевич": 28,
-      "Тимофеев Юрий Константинович": 17,
-      "Швец Евгений Сильвестрович": 5,
-      "Яковлева Елена Юрьевна": 42,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000226015": 728,
+      "gas:candidate-vibid:1001000113999": 102,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 12,
+      "gas:candidate-vibid:1001000121943": 60,
+      "gas:candidate-vibid:1001000136158": 28,
+      "gas:candidate-vibid:1001000190458": 17,
+      "gas:candidate-vibid:377301470741": 5,
+      "gas:candidate-vibid:377301470421": 42,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 829,
-      "Кара-Мурза Владимир Владимирович": 116,
-      "Красиков Максим Валентинович": 17,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 29,
-      "Серегин Сергей Иванович": 74,
-      "Соколов Николай Николаевич": 20,
-      "Тимофеев Юрий Константинович": 19,
-      "Швец Евгений Сильвестрович": 4,
-      "Яковлева Елена Юрьевна": 52,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000226015": 829,
+      "gas:candidate-vibid:1001000113999": 116,
+      "gas:candidate-vibid:377301470430": 17,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 29,
+      "gas:candidate-vibid:1001000121943": 74,
+      "gas:candidate-vibid:1001000136158": 20,
+      "gas:candidate-vibid:1001000190458": 19,
+      "gas:candidate-vibid:377301470741": 4,
+      "gas:candidate-vibid:377301470421": 52,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 931,
-      "Кара-Мурза Владимир Владимирович": 111,
-      "Красиков Максим Валентинович": 10,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 18,
-      "Серегин Сергей Иванович": 43,
-      "Соколов Николай Николаевич": 26,
-      "Тимофеев Юрий Константинович": 11,
-      "Швец Евгений Сильвестрович": 13,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000226015": 931,
+      "gas:candidate-vibid:1001000113999": 111,
+      "gas:candidate-vibid:377301470430": 10,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 18,
+      "gas:candidate-vibid:1001000121943": 43,
+      "gas:candidate-vibid:1001000136158": 26,
+      "gas:candidate-vibid:1001000190458": 11,
+      "gas:candidate-vibid:377301470741": 13,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 949,
-      "Кара-Мурза Владимир Владимирович": 119,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 10,
-      "Серегин Сергей Иванович": 57,
-      "Соколов Николай Николаевич": 32,
-      "Тимофеев Юрий Константинович": 13,
-      "Швец Евгений Сильвестрович": 10,
-      "Яковлева Елена Юрьевна": 35,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000226015": 949,
+      "gas:candidate-vibid:1001000113999": 119,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 10,
+      "gas:candidate-vibid:1001000121943": 57,
+      "gas:candidate-vibid:1001000136158": 32,
+      "gas:candidate-vibid:1001000190458": 13,
+      "gas:candidate-vibid:377301470741": 10,
+      "gas:candidate-vibid:377301470421": 35,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1014,
-      "Кара-Мурза Владимир Владимирович": 68,
-      "Красиков Максим Валентинович": 6,
-      "Палащенко Вячеслав Кириллович": 5,
-      "Ребриков Владимир Андреевич": 15,
-      "Серегин Сергей Иванович": 53,
-      "Соколов Николай Николаевич": 22,
-      "Тимофеев Юрий Константинович": 15,
-      "Швец Евгений Сильвестрович": 6,
-      "Яковлева Елена Юрьевна": 41,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000226015": 1014,
+      "gas:candidate-vibid:1001000113999": 68,
+      "gas:candidate-vibid:377301470430": 6,
+      "gas:candidate-vibid:1001000195173": 5,
+      "gas:candidate-vibid:1001000258422": 15,
+      "gas:candidate-vibid:1001000121943": 53,
+      "gas:candidate-vibid:1001000136158": 22,
+      "gas:candidate-vibid:1001000190458": 15,
+      "gas:candidate-vibid:377301470741": 6,
+      "gas:candidate-vibid:377301470421": 41,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 958,
-      "Кара-Мурза Владимир Владимирович": 85,
-      "Красиков Максим Валентинович": 11,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 7,
-      "Серегин Сергей Иванович": 61,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 4,
-      "Швец Евгений Сильвестрович": 8,
-      "Яковлева Елена Юрьевна": 35,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000226015": 958,
+      "gas:candidate-vibid:1001000113999": 85,
+      "gas:candidate-vibid:377301470430": 11,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 7,
+      "gas:candidate-vibid:1001000121943": 61,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 4,
+      "gas:candidate-vibid:377301470741": 8,
+      "gas:candidate-vibid:377301470421": 35,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 897,
-      "Кара-Мурза Владимир Владимирович": 103,
-      "Красиков Максим Валентинович": 6,
-      "Палащенко Вячеслав Кириллович": 7,
-      "Ребриков Владимир Андреевич": 14,
-      "Серегин Сергей Иванович": 61,
-      "Соколов Николай Николаевич": 14,
-      "Тимофеев Юрий Константинович": 9,
-      "Швец Евгений Сильвестрович": 4,
-      "Яковлева Елена Юрьевна": 36,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000226015": 897,
+      "gas:candidate-vibid:1001000113999": 103,
+      "gas:candidate-vibid:377301470430": 6,
+      "gas:candidate-vibid:1001000195173": 7,
+      "gas:candidate-vibid:1001000258422": 14,
+      "gas:candidate-vibid:1001000121943": 61,
+      "gas:candidate-vibid:1001000136158": 14,
+      "gas:candidate-vibid:1001000190458": 9,
+      "gas:candidate-vibid:377301470741": 4,
+      "gas:candidate-vibid:377301470421": 36,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1138,
-      "Кара-Мурза Владимир Владимирович": 162,
-      "Красиков Максим Валентинович": 21,
-      "Палащенко Вячеслав Кириллович": 10,
-      "Ребриков Владимир Андреевич": 16,
-      "Серегин Сергей Иванович": 76,
-      "Соколов Николай Николаевич": 45,
-      "Тимофеев Юрий Константинович": 26,
-      "Швец Евгений Сильвестрович": 27,
-      "Яковлева Елена Юрьевна": 53,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000226015": 1138,
+      "gas:candidate-vibid:1001000113999": 162,
+      "gas:candidate-vibid:377301470430": 21,
+      "gas:candidate-vibid:1001000195173": 10,
+      "gas:candidate-vibid:1001000258422": 16,
+      "gas:candidate-vibid:1001000121943": 76,
+      "gas:candidate-vibid:1001000136158": 45,
+      "gas:candidate-vibid:1001000190458": 26,
+      "gas:candidate-vibid:377301470741": 27,
+      "gas:candidate-vibid:377301470421": 53,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1039,
-      "Кара-Мурза Владимир Владимирович": 116,
-      "Красиков Максим Валентинович": 7,
-      "Палащенко Вячеслав Кириллович": 8,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 89,
-      "Соколов Николай Николаевич": 31,
-      "Тимофеев Юрий Константинович": 20,
-      "Швец Евгений Сильвестрович": 16,
-      "Яковлева Елена Юрьевна": 49,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000226015": 1039,
+      "gas:candidate-vibid:1001000113999": 116,
+      "gas:candidate-vibid:377301470430": 7,
+      "gas:candidate-vibid:1001000195173": 8,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 89,
+      "gas:candidate-vibid:1001000136158": 31,
+      "gas:candidate-vibid:1001000190458": 20,
+      "gas:candidate-vibid:377301470741": 16,
+      "gas:candidate-vibid:377301470421": 49,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 866,
-      "Кара-Мурза Владимир Владимирович": 68,
-      "Красиков Максим Валентинович": 4,
-      "Палащенко Вячеслав Кириллович": 3,
-      "Ребриков Владимир Андреевич": 9,
-      "Серегин Сергей Иванович": 50,
-      "Соколов Николай Николаевич": 12,
-      "Тимофеев Юрий Константинович": 12,
-      "Швец Евгений Сильвестрович": 19,
-      "Яковлева Елена Юрьевна": 20,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000226015": 866,
+      "gas:candidate-vibid:1001000113999": 68,
+      "gas:candidate-vibid:377301470430": 4,
+      "gas:candidate-vibid:1001000195173": 3,
+      "gas:candidate-vibid:1001000258422": 9,
+      "gas:candidate-vibid:1001000121943": 50,
+      "gas:candidate-vibid:1001000136158": 12,
+      "gas:candidate-vibid:1001000190458": 12,
+      "gas:candidate-vibid:377301470741": 19,
+      "gas:candidate-vibid:377301470421": 20,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 1087,
-      "Кара-Мурза Владимир Владимирович": 143,
-      "Красиков Максим Валентинович": 16,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 25,
-      "Серегин Сергей Иванович": 58,
-      "Соколов Николай Николаевич": 35,
-      "Тимофеев Юрий Константинович": 21,
-      "Швец Евгений Сильвестрович": 34,
-      "Яковлева Елена Юрьевна": 40,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000226015": 1087,
+      "gas:candidate-vibid:1001000113999": 143,
+      "gas:candidate-vibid:377301470430": 16,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 25,
+      "gas:candidate-vibid:1001000121943": 58,
+      "gas:candidate-vibid:1001000136158": 35,
+      "gas:candidate-vibid:1001000190458": 21,
+      "gas:candidate-vibid:377301470741": 34,
+      "gas:candidate-vibid:377301470421": 40,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 783,
-      "Кара-Мурза Владимир Владимирович": 101,
-      "Красиков Максим Валентинович": 9,
-      "Палащенко Вячеслав Кириллович": 6,
-      "Ребриков Владимир Андреевич": 11,
-      "Серегин Сергей Иванович": 55,
-      "Соколов Николай Николаевич": 25,
-      "Тимофеев Юрий Константинович": 9,
-      "Швец Евгений Сильвестрович": 14,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000226015": 783,
+      "gas:candidate-vibid:1001000113999": 101,
+      "gas:candidate-vibid:377301470430": 9,
+      "gas:candidate-vibid:1001000195173": 6,
+      "gas:candidate-vibid:1001000258422": 11,
+      "gas:candidate-vibid:1001000121943": 55,
+      "gas:candidate-vibid:1001000136158": 25,
+      "gas:candidate-vibid:1001000190458": 9,
+      "gas:candidate-vibid:377301470741": 14,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Груздев Владимир Сергеевич": 806,
-      "Кара-Мурза Владимир Владимирович": 89,
-      "Красиков Максим Валентинович": 8,
-      "Палащенко Вячеслав Кириллович": 4,
-      "Ребриков Владимир Андреевич": 10,
-      "Серегин Сергей Иванович": 55,
-      "Соколов Николай Николаевич": 24,
-      "Тимофеев Юрий Константинович": 6,
-      "Швец Евгений Сильвестрович": 15,
-      "Яковлева Елена Юрьевна": 34,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000226015": 806,
+      "gas:candidate-vibid:1001000113999": 89,
+      "gas:candidate-vibid:377301470430": 8,
+      "gas:candidate-vibid:1001000195173": 4,
+      "gas:candidate-vibid:1001000258422": 10,
+      "gas:candidate-vibid:1001000121943": 55,
+      "gas:candidate-vibid:1001000136158": 24,
+      "gas:candidate-vibid:1001000190458": 6,
+      "gas:candidate-vibid:377301470741": 15,
+      "gas:candidate-vibid:377301470421": 34,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773014008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301470460&region=0&sub_region=0&type=429",
@@ -9102,15 +9102,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 102,
-      "Зуев Сергей Васильевич": 54,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 94,
-      "Осадчий Сергей Юрьевич": 639,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 102,
+      "gas:candidate-vibid:377301570743": 54,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 94,
+      "gas:candidate-vibid:1001000226016": 639,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9160,15 +9160,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 101,
-      "Зуев Сергей Васильевич": 73,
-      "Кобозев Андрей Владимирович": 3,
-      "Никитин Сергей Викторович": 105,
-      "Осадчий Сергей Юрьевич": 649,
-      "Попов Александр Александрович": 47,
-      "Рубахин Сергей Владимирович": 31,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 101,
+      "gas:candidate-vibid:377301570743": 73,
+      "gas:candidate-vibid:377301570819": 3,
+      "gas:candidate-vibid:1001000121944": 105,
+      "gas:candidate-vibid:1001000226016": 649,
+      "gas:candidate-vibid:1001000136159": 47,
+      "gas:candidate-vibid:1001000190460": 31,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9218,15 +9218,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 29,
-      "Антоненко Евгений Романович": 103,
-      "Зуев Сергей Васильевич": 95,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 122,
-      "Осадчий Сергей Юрьевич": 698,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 44,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000195174": 29,
+      "gas:candidate-vibid:1001000114000": 103,
+      "gas:candidate-vibid:377301570743": 95,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 122,
+      "gas:candidate-vibid:1001000226016": 698,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 44,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9276,15 +9276,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 7,
-      "Антоненко Евгений Романович": 101,
-      "Зуев Сергей Васильевич": 66,
-      "Кобозев Андрей Владимирович": 4,
-      "Никитин Сергей Викторович": 53,
-      "Осадчий Сергей Юрьевич": 540,
-      "Попов Александр Александрович": 36,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000195174": 7,
+      "gas:candidate-vibid:1001000114000": 101,
+      "gas:candidate-vibid:377301570743": 66,
+      "gas:candidate-vibid:377301570819": 4,
+      "gas:candidate-vibid:1001000121944": 53,
+      "gas:candidate-vibid:1001000226016": 540,
+      "gas:candidate-vibid:1001000136159": 36,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9334,15 +9334,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 91,
-      "Зуев Сергей Васильевич": 85,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 111,
-      "Осадчий Сергей Юрьевич": 796,
-      "Попов Александр Александрович": 51,
-      "Рубахин Сергей Владимирович": 45,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 91,
+      "gas:candidate-vibid:377301570743": 85,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 111,
+      "gas:candidate-vibid:1001000226016": 796,
+      "gas:candidate-vibid:1001000136159": 51,
+      "gas:candidate-vibid:1001000190460": 45,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9392,15 +9392,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 13,
-      "Антоненко Евгений Романович": 116,
-      "Зуев Сергей Васильевич": 88,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 85,
-      "Осадчий Сергей Юрьевич": 711,
-      "Попов Александр Александрович": 45,
-      "Рубахин Сергей Владимирович": 44,
-      "Против всех": 369
+      "gas:candidate-vibid:1001000195174": 13,
+      "gas:candidate-vibid:1001000114000": 116,
+      "gas:candidate-vibid:377301570743": 88,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 85,
+      "gas:candidate-vibid:1001000226016": 711,
+      "gas:candidate-vibid:1001000136159": 45,
+      "gas:candidate-vibid:1001000190460": 44,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9450,15 +9450,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 177,
-      "Зуев Сергей Васильевич": 110,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 107,
-      "Осадчий Сергей Юрьевич": 746,
-      "Попов Александр Александрович": 54,
-      "Рубахин Сергей Владимирович": 38,
-      "Против всех": 411
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 177,
+      "gas:candidate-vibid:377301570743": 110,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 107,
+      "gas:candidate-vibid:1001000226016": 746,
+      "gas:candidate-vibid:1001000136159": 54,
+      "gas:candidate-vibid:1001000190460": 38,
+      "special:against-all": 411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9508,15 +9508,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 33,
-      "Антоненко Евгений Романович": 142,
-      "Зуев Сергей Васильевич": 114,
-      "Кобозев Андрей Владимирович": 15,
-      "Никитин Сергей Викторович": 107,
-      "Осадчий Сергей Юрьевич": 784,
-      "Попов Александр Александрович": 57,
-      "Рубахин Сергей Владимирович": 45,
-      "Против всех": 366
+      "gas:candidate-vibid:1001000195174": 33,
+      "gas:candidate-vibid:1001000114000": 142,
+      "gas:candidate-vibid:377301570743": 114,
+      "gas:candidate-vibid:377301570819": 15,
+      "gas:candidate-vibid:1001000121944": 107,
+      "gas:candidate-vibid:1001000226016": 784,
+      "gas:candidate-vibid:1001000136159": 57,
+      "gas:candidate-vibid:1001000190460": 45,
+      "special:against-all": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9566,15 +9566,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 76,
-      "Зуев Сергей Васильевич": 54,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 92,
-      "Осадчий Сергей Юрьевич": 708,
-      "Попов Александр Александрович": 38,
-      "Рубахин Сергей Владимирович": 24,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 76,
+      "gas:candidate-vibid:377301570743": 54,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 92,
+      "gas:candidate-vibid:1001000226016": 708,
+      "gas:candidate-vibid:1001000136159": 38,
+      "gas:candidate-vibid:1001000190460": 24,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9624,15 +9624,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 138,
-      "Зуев Сергей Васильевич": 104,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 118,
-      "Осадчий Сергей Юрьевич": 692,
-      "Попов Александр Александрович": 35,
-      "Рубахин Сергей Владимирович": 30,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 138,
+      "gas:candidate-vibid:377301570743": 104,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 118,
+      "gas:candidate-vibid:1001000226016": 692,
+      "gas:candidate-vibid:1001000136159": 35,
+      "gas:candidate-vibid:1001000190460": 30,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9682,15 +9682,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 126,
-      "Зуев Сергей Васильевич": 87,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 78,
-      "Осадчий Сергей Юрьевич": 696,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 126,
+      "gas:candidate-vibid:377301570743": 87,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 78,
+      "gas:candidate-vibid:1001000226016": 696,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9740,15 +9740,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 117,
-      "Зуев Сергей Васильевич": 84,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 91,
-      "Осадчий Сергей Юрьевич": 756,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 376
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 117,
+      "gas:candidate-vibid:377301570743": 84,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 91,
+      "gas:candidate-vibid:1001000226016": 756,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9798,15 +9798,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 21,
-      "Антоненко Евгений Романович": 105,
-      "Зуев Сергей Васильевич": 58,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 113,
-      "Осадчий Сергей Юрьевич": 480,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000195174": 21,
+      "gas:candidate-vibid:1001000114000": 105,
+      "gas:candidate-vibid:377301570743": 58,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 113,
+      "gas:candidate-vibid:1001000226016": 480,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9856,15 +9856,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 10,
-      "Антоненко Евгений Романович": 99,
-      "Зуев Сергей Васильевич": 60,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 110,
-      "Осадчий Сергей Юрьевич": 511,
-      "Попов Александр Александрович": 36,
-      "Рубахин Сергей Владимирович": 39,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000195174": 10,
+      "gas:candidate-vibid:1001000114000": 99,
+      "gas:candidate-vibid:377301570743": 60,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 110,
+      "gas:candidate-vibid:1001000226016": 511,
+      "gas:candidate-vibid:1001000136159": 36,
+      "gas:candidate-vibid:1001000190460": 39,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9914,15 +9914,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 12,
-      "Антоненко Евгений Романович": 107,
-      "Зуев Сергей Васильевич": 76,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 106,
-      "Осадчий Сергей Юрьевич": 756,
-      "Попов Александр Александрович": 37,
-      "Рубахин Сергей Владимирович": 38,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000195174": 12,
+      "gas:candidate-vibid:1001000114000": 107,
+      "gas:candidate-vibid:377301570743": 76,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 106,
+      "gas:candidate-vibid:1001000226016": 756,
+      "gas:candidate-vibid:1001000136159": 37,
+      "gas:candidate-vibid:1001000190460": 38,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -9972,15 +9972,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 109,
-      "Зуев Сергей Васильевич": 64,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 97,
-      "Осадчий Сергей Юрьевич": 632,
-      "Попов Александр Александрович": 46,
-      "Рубахин Сергей Владимирович": 52,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 109,
+      "gas:candidate-vibid:377301570743": 64,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 97,
+      "gas:candidate-vibid:1001000226016": 632,
+      "gas:candidate-vibid:1001000136159": 46,
+      "gas:candidate-vibid:1001000190460": 52,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10030,15 +10030,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 135,
-      "Зуев Сергей Васильевич": 87,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 91,
-      "Осадчий Сергей Юрьевич": 595,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 37,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 135,
+      "gas:candidate-vibid:377301570743": 87,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 91,
+      "gas:candidate-vibid:1001000226016": 595,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 37,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10088,15 +10088,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 30,
-      "Антоненко Евгений Романович": 90,
-      "Зуев Сергей Васильевич": 14,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 27,
-      "Осадчий Сергей Юрьевич": 176,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 44,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000195174": 30,
+      "gas:candidate-vibid:1001000114000": 90,
+      "gas:candidate-vibid:377301570743": 14,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 27,
+      "gas:candidate-vibid:1001000226016": 176,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 44,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10146,15 +10146,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 127,
-      "Зуев Сергей Васильевич": 83,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 125,
-      "Осадчий Сергей Юрьевич": 482,
-      "Попов Александр Александрович": 53,
-      "Рубахин Сергей Владимирович": 44,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 127,
+      "gas:candidate-vibid:377301570743": 83,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 125,
+      "gas:candidate-vibid:1001000226016": 482,
+      "gas:candidate-vibid:1001000136159": 53,
+      "gas:candidate-vibid:1001000190460": 44,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10204,15 +10204,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 21,
-      "Антоненко Евгений Романович": 157,
-      "Зуев Сергей Васильевич": 85,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 112,
-      "Осадчий Сергей Юрьевич": 485,
-      "Попов Александр Александрович": 36,
-      "Рубахин Сергей Владимирович": 66,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000195174": 21,
+      "gas:candidate-vibid:1001000114000": 157,
+      "gas:candidate-vibid:377301570743": 85,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 112,
+      "gas:candidate-vibid:1001000226016": 485,
+      "gas:candidate-vibid:1001000136159": 36,
+      "gas:candidate-vibid:1001000190460": 66,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10262,15 +10262,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 96,
-      "Зуев Сергей Васильевич": 72,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 72,
-      "Осадчий Сергей Юрьевич": 490,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 22,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 96,
+      "gas:candidate-vibid:377301570743": 72,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 72,
+      "gas:candidate-vibid:1001000226016": 490,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 22,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10320,15 +10320,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 12,
-      "Антоненко Евгений Романович": 90,
-      "Зуев Сергей Васильевич": 81,
-      "Кобозев Андрей Владимирович": 4,
-      "Никитин Сергей Викторович": 78,
-      "Осадчий Сергей Юрьевич": 670,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 39,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000195174": 12,
+      "gas:candidate-vibid:1001000114000": 90,
+      "gas:candidate-vibid:377301570743": 81,
+      "gas:candidate-vibid:377301570819": 4,
+      "gas:candidate-vibid:1001000121944": 78,
+      "gas:candidate-vibid:1001000226016": 670,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 39,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10378,15 +10378,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 14,
-      "Антоненко Евгений Романович": 82,
-      "Зуев Сергей Васильевич": 70,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 80,
-      "Осадчий Сергей Юрьевич": 582,
-      "Попов Александр Александрович": 38,
-      "Рубахин Сергей Владимирович": 23,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000195174": 14,
+      "gas:candidate-vibid:1001000114000": 82,
+      "gas:candidate-vibid:377301570743": 70,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 80,
+      "gas:candidate-vibid:1001000226016": 582,
+      "gas:candidate-vibid:1001000136159": 38,
+      "gas:candidate-vibid:1001000190460": 23,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10436,15 +10436,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 8,
-      "Антоненко Евгений Романович": 125,
-      "Зуев Сергей Васильевич": 53,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 64,
-      "Осадчий Сергей Юрьевич": 704,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 25,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000195174": 8,
+      "gas:candidate-vibid:1001000114000": 125,
+      "gas:candidate-vibid:377301570743": 53,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 64,
+      "gas:candidate-vibid:1001000226016": 704,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 25,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10494,15 +10494,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 117,
-      "Зуев Сергей Васильевич": 97,
-      "Кобозев Андрей Владимирович": 18,
-      "Никитин Сергей Викторович": 120,
-      "Осадчий Сергей Юрьевич": 782,
-      "Попов Александр Александрович": 58,
-      "Рубахин Сергей Владимирович": 37,
-      "Против всех": 355
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 117,
+      "gas:candidate-vibid:377301570743": 97,
+      "gas:candidate-vibid:377301570819": 18,
+      "gas:candidate-vibid:1001000121944": 120,
+      "gas:candidate-vibid:1001000226016": 782,
+      "gas:candidate-vibid:1001000136159": 58,
+      "gas:candidate-vibid:1001000190460": 37,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10552,15 +10552,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 13,
-      "Антоненко Евгений Романович": 158,
-      "Зуев Сергей Васильевич": 95,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 114,
-      "Осадчий Сергей Юрьевич": 775,
-      "Попов Александр Александрович": 56,
-      "Рубахин Сергей Владимирович": 28,
-      "Против всех": 415
+      "gas:candidate-vibid:1001000195174": 13,
+      "gas:candidate-vibid:1001000114000": 158,
+      "gas:candidate-vibid:377301570743": 95,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 114,
+      "gas:candidate-vibid:1001000226016": 775,
+      "gas:candidate-vibid:1001000136159": 56,
+      "gas:candidate-vibid:1001000190460": 28,
+      "special:against-all": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10610,15 +10610,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 162,
-      "Зуев Сергей Васильевич": 76,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 95,
-      "Осадчий Сергей Юрьевич": 659,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 25,
-      "Против всех": 400
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 162,
+      "gas:candidate-vibid:377301570743": 76,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 95,
+      "gas:candidate-vibid:1001000226016": 659,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 25,
+      "special:against-all": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10668,15 +10668,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 105,
-      "Зуев Сергей Васильевич": 65,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 99,
-      "Осадчий Сергей Юрьевич": 793,
-      "Попов Александр Александрович": 44,
-      "Рубахин Сергей Владимирович": 36,
-      "Против всех": 381
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 105,
+      "gas:candidate-vibid:377301570743": 65,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 99,
+      "gas:candidate-vibid:1001000226016": 793,
+      "gas:candidate-vibid:1001000136159": 44,
+      "gas:candidate-vibid:1001000190460": 36,
+      "special:against-all": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10726,15 +10726,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 180,
-      "Зуев Сергей Васильевич": 77,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 87,
-      "Осадчий Сергей Юрьевич": 754,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 26,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 180,
+      "gas:candidate-vibid:377301570743": 77,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 87,
+      "gas:candidate-vibid:1001000226016": 754,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 26,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10784,15 +10784,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 138,
-      "Зуев Сергей Васильевич": 63,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 111,
-      "Осадчий Сергей Юрьевич": 618,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 29,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 138,
+      "gas:candidate-vibid:377301570743": 63,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 111,
+      "gas:candidate-vibid:1001000226016": 618,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 29,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10842,15 +10842,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 152,
-      "Зуев Сергей Васильевич": 81,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 121,
-      "Осадчий Сергей Юрьевич": 704,
-      "Попов Александр Александрович": 33,
-      "Рубахин Сергей Владимирович": 51,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 152,
+      "gas:candidate-vibid:377301570743": 81,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 121,
+      "gas:candidate-vibid:1001000226016": 704,
+      "gas:candidate-vibid:1001000136159": 33,
+      "gas:candidate-vibid:1001000190460": 51,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10900,15 +10900,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 21,
-      "Антоненко Евгений Романович": 94,
-      "Зуев Сергей Васильевич": 58,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 99,
-      "Осадчий Сергей Юрьевич": 673,
-      "Попов Александр Александрович": 38,
-      "Рубахин Сергей Владимирович": 39,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000195174": 21,
+      "gas:candidate-vibid:1001000114000": 94,
+      "gas:candidate-vibid:377301570743": 58,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 99,
+      "gas:candidate-vibid:1001000226016": 673,
+      "gas:candidate-vibid:1001000136159": 38,
+      "gas:candidate-vibid:1001000190460": 39,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -10958,15 +10958,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 117,
-      "Зуев Сергей Васильевич": 76,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 121,
-      "Осадчий Сергей Юрьевич": 710,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 51,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 117,
+      "gas:candidate-vibid:377301570743": 76,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 121,
+      "gas:candidate-vibid:1001000226016": 710,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 51,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11016,15 +11016,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 102,
-      "Зуев Сергей Васильевич": 90,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 110,
-      "Осадчий Сергей Юрьевич": 482,
-      "Попов Александр Александрович": 38,
-      "Рубахин Сергей Владимирович": 35,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 102,
+      "gas:candidate-vibid:377301570743": 90,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 110,
+      "gas:candidate-vibid:1001000226016": 482,
+      "gas:candidate-vibid:1001000136159": 38,
+      "gas:candidate-vibid:1001000190460": 35,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11074,15 +11074,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 150,
-      "Зуев Сергей Васильевич": 68,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 110,
-      "Осадчий Сергей Юрьевич": 525,
-      "Попов Александр Александрович": 36,
-      "Рубахин Сергей Владимирович": 47,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 150,
+      "gas:candidate-vibid:377301570743": 68,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 110,
+      "gas:candidate-vibid:1001000226016": 525,
+      "gas:candidate-vibid:1001000136159": 36,
+      "gas:candidate-vibid:1001000190460": 47,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11132,15 +11132,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 24,
-      "Антоненко Евгений Романович": 97,
-      "Зуев Сергей Васильевич": 64,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 123,
-      "Осадчий Сергей Юрьевич": 496,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 36,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000195174": 24,
+      "gas:candidate-vibid:1001000114000": 97,
+      "gas:candidate-vibid:377301570743": 64,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 123,
+      "gas:candidate-vibid:1001000226016": 496,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 36,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11190,15 +11190,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 9,
-      "Антоненко Евгений Романович": 68,
-      "Зуев Сергей Васильевич": 63,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 98,
-      "Осадчий Сергей Юрьевич": 450,
-      "Попов Александр Александрович": 42,
-      "Рубахин Сергей Владимирович": 51,
-      "Против всех": 351
+      "gas:candidate-vibid:1001000195174": 9,
+      "gas:candidate-vibid:1001000114000": 68,
+      "gas:candidate-vibid:377301570743": 63,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 98,
+      "gas:candidate-vibid:1001000226016": 450,
+      "gas:candidate-vibid:1001000136159": 42,
+      "gas:candidate-vibid:1001000190460": 51,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11248,15 +11248,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 121,
-      "Зуев Сергей Васильевич": 71,
-      "Кобозев Андрей Владимирович": 54,
-      "Никитин Сергей Викторович": 63,
-      "Осадчий Сергей Юрьевич": 569,
-      "Попов Александр Александрович": 26,
-      "Рубахин Сергей Владимирович": 49,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 121,
+      "gas:candidate-vibid:377301570743": 71,
+      "gas:candidate-vibid:377301570819": 54,
+      "gas:candidate-vibid:1001000121944": 63,
+      "gas:candidate-vibid:1001000226016": 569,
+      "gas:candidate-vibid:1001000136159": 26,
+      "gas:candidate-vibid:1001000190460": 49,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11306,15 +11306,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 111,
-      "Зуев Сергей Васильевич": 63,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 91,
-      "Осадчий Сергей Юрьевич": 505,
-      "Попов Александр Александрович": 47,
-      "Рубахин Сергей Владимирович": 38,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 111,
+      "gas:candidate-vibid:377301570743": 63,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 91,
+      "gas:candidate-vibid:1001000226016": 505,
+      "gas:candidate-vibid:1001000136159": 47,
+      "gas:candidate-vibid:1001000190460": 38,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11364,15 +11364,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 108,
-      "Зуев Сергей Васильевич": 86,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 91,
-      "Осадчий Сергей Юрьевич": 611,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 43,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 108,
+      "gas:candidate-vibid:377301570743": 86,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 91,
+      "gas:candidate-vibid:1001000226016": 611,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 43,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11422,15 +11422,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 118,
-      "Зуев Сергей Васильевич": 90,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 109,
-      "Осадчий Сергей Юрьевич": 760,
-      "Попов Александр Александрович": 53,
-      "Рубахин Сергей Владимирович": 54,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 118,
+      "gas:candidate-vibid:377301570743": 90,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 109,
+      "gas:candidate-vibid:1001000226016": 760,
+      "gas:candidate-vibid:1001000136159": 53,
+      "gas:candidate-vibid:1001000190460": 54,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11480,15 +11480,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 96,
-      "Зуев Сергей Васильевич": 87,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 98,
-      "Осадчий Сергей Юрьевич": 650,
-      "Попов Александр Александрович": 43,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 96,
+      "gas:candidate-vibid:377301570743": 87,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 98,
+      "gas:candidate-vibid:1001000226016": 650,
+      "gas:candidate-vibid:1001000136159": 43,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11538,15 +11538,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 15,
-      "Антоненко Евгений Романович": 116,
-      "Зуев Сергей Васильевич": 61,
-      "Кобозев Андрей Владимирович": 17,
-      "Никитин Сергей Викторович": 115,
-      "Осадчий Сергей Юрьевич": 529,
-      "Попов Александр Александрович": 23,
-      "Рубахин Сергей Владимирович": 15,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000195174": 15,
+      "gas:candidate-vibid:1001000114000": 116,
+      "gas:candidate-vibid:377301570743": 61,
+      "gas:candidate-vibid:377301570819": 17,
+      "gas:candidate-vibid:1001000121944": 115,
+      "gas:candidate-vibid:1001000226016": 529,
+      "gas:candidate-vibid:1001000136159": 23,
+      "gas:candidate-vibid:1001000190460": 15,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11596,15 +11596,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 87,
-      "Зуев Сергей Васильевич": 63,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 76,
-      "Осадчий Сергей Юрьевич": 557,
-      "Попов Александр Александрович": 49,
-      "Рубахин Сергей Владимирович": 37,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 87,
+      "gas:candidate-vibid:377301570743": 63,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 76,
+      "gas:candidate-vibid:1001000226016": 557,
+      "gas:candidate-vibid:1001000136159": 49,
+      "gas:candidate-vibid:1001000190460": 37,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11654,15 +11654,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 99,
-      "Зуев Сергей Васильевич": 94,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 98,
-      "Осадчий Сергей Юрьевич": 570,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 49,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 99,
+      "gas:candidate-vibid:377301570743": 94,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 98,
+      "gas:candidate-vibid:1001000226016": 570,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 49,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11712,15 +11712,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 12,
-      "Антоненко Евгений Романович": 127,
-      "Зуев Сергей Васильевич": 104,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 136,
-      "Осадчий Сергей Юрьевич": 687,
-      "Попов Александр Александрович": 49,
-      "Рубахин Сергей Владимирович": 56,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000195174": 12,
+      "gas:candidate-vibid:1001000114000": 127,
+      "gas:candidate-vibid:377301570743": 104,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 136,
+      "gas:candidate-vibid:1001000226016": 687,
+      "gas:candidate-vibid:1001000136159": 49,
+      "gas:candidate-vibid:1001000190460": 56,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11770,15 +11770,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 24,
-      "Антоненко Евгений Романович": 64,
-      "Зуев Сергей Васильевич": 62,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 74,
-      "Осадчий Сергей Юрьевич": 580,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 355
+      "gas:candidate-vibid:1001000195174": 24,
+      "gas:candidate-vibid:1001000114000": 64,
+      "gas:candidate-vibid:377301570743": 62,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 74,
+      "gas:candidate-vibid:1001000226016": 580,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11828,15 +11828,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 32,
-      "Антоненко Евгений Романович": 127,
-      "Зуев Сергей Васильевич": 58,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 108,
-      "Осадчий Сергей Юрьевич": 581,
-      "Попов Александр Александрович": 27,
-      "Рубахин Сергей Владимирович": 45,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000195174": 32,
+      "gas:candidate-vibid:1001000114000": 127,
+      "gas:candidate-vibid:377301570743": 58,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 108,
+      "gas:candidate-vibid:1001000226016": 581,
+      "gas:candidate-vibid:1001000136159": 27,
+      "gas:candidate-vibid:1001000190460": 45,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11886,15 +11886,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 24,
-      "Антоненко Евгений Романович": 103,
-      "Зуев Сергей Васильевич": 66,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 112,
-      "Осадчий Сергей Юрьевич": 733,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 368
+      "gas:candidate-vibid:1001000195174": 24,
+      "gas:candidate-vibid:1001000114000": 103,
+      "gas:candidate-vibid:377301570743": 66,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 112,
+      "gas:candidate-vibid:1001000226016": 733,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -11944,15 +11944,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 24,
-      "Антоненко Евгений Романович": 83,
-      "Зуев Сергей Васильевич": 87,
-      "Кобозев Андрей Владимирович": 3,
-      "Никитин Сергей Викторович": 91,
-      "Осадчий Сергей Юрьевич": 623,
-      "Попов Александр Александрович": 48,
-      "Рубахин Сергей Владимирович": 57,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000195174": 24,
+      "gas:candidate-vibid:1001000114000": 83,
+      "gas:candidate-vibid:377301570743": 87,
+      "gas:candidate-vibid:377301570819": 3,
+      "gas:candidate-vibid:1001000121944": 91,
+      "gas:candidate-vibid:1001000226016": 623,
+      "gas:candidate-vibid:1001000136159": 48,
+      "gas:candidate-vibid:1001000190460": 57,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12002,15 +12002,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 13,
-      "Антоненко Евгений Романович": 124,
-      "Зуев Сергей Васильевич": 76,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 118,
-      "Осадчий Сергей Юрьевич": 830,
-      "Попов Александр Александрович": 55,
-      "Рубахин Сергей Владимирович": 64,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000195174": 13,
+      "gas:candidate-vibid:1001000114000": 124,
+      "gas:candidate-vibid:377301570743": 76,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 118,
+      "gas:candidate-vibid:1001000226016": 830,
+      "gas:candidate-vibid:1001000136159": 55,
+      "gas:candidate-vibid:1001000190460": 64,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12060,15 +12060,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 131,
-      "Зуев Сергей Васильевич": 95,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 101,
-      "Осадчий Сергей Юрьевич": 677,
-      "Попов Александр Александрович": 51,
-      "Рубахин Сергей Владимирович": 36,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 131,
+      "gas:candidate-vibid:377301570743": 95,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 101,
+      "gas:candidate-vibid:1001000226016": 677,
+      "gas:candidate-vibid:1001000136159": 51,
+      "gas:candidate-vibid:1001000190460": 36,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12118,15 +12118,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 33,
-      "Антоненко Евгений Романович": 124,
-      "Зуев Сергей Васильевич": 84,
-      "Кобозев Андрей Владимирович": 5,
-      "Никитин Сергей Викторович": 138,
-      "Осадчий Сергей Юрьевич": 782,
-      "Попов Александр Александрович": 49,
-      "Рубахин Сергей Владимирович": 43,
-      "Против всех": 432
+      "gas:candidate-vibid:1001000195174": 33,
+      "gas:candidate-vibid:1001000114000": 124,
+      "gas:candidate-vibid:377301570743": 84,
+      "gas:candidate-vibid:377301570819": 5,
+      "gas:candidate-vibid:1001000121944": 138,
+      "gas:candidate-vibid:1001000226016": 782,
+      "gas:candidate-vibid:1001000136159": 49,
+      "gas:candidate-vibid:1001000190460": 43,
+      "special:against-all": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12176,15 +12176,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 89,
-      "Зуев Сергей Васильевич": 92,
-      "Кобозев Андрей Владимирович": 5,
-      "Никитин Сергей Викторович": 116,
-      "Осадчий Сергей Юрьевич": 783,
-      "Попов Александр Александрович": 48,
-      "Рубахин Сергей Владимирович": 49,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 89,
+      "gas:candidate-vibid:377301570743": 92,
+      "gas:candidate-vibid:377301570819": 5,
+      "gas:candidate-vibid:1001000121944": 116,
+      "gas:candidate-vibid:1001000226016": 783,
+      "gas:candidate-vibid:1001000136159": 48,
+      "gas:candidate-vibid:1001000190460": 49,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12234,15 +12234,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 109,
-      "Зуев Сергей Васильевич": 71,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 65,
-      "Осадчий Сергей Юрьевич": 549,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 24,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 109,
+      "gas:candidate-vibid:377301570743": 71,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 65,
+      "gas:candidate-vibid:1001000226016": 549,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 24,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12292,15 +12292,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 100,
-      "Зуев Сергей Васильевич": 79,
-      "Кобозев Андрей Владимирович": 5,
-      "Никитин Сергей Викторович": 78,
-      "Осадчий Сергей Юрьевич": 655,
-      "Попов Александр Александрович": 28,
-      "Рубахин Сергей Владимирович": 35,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 100,
+      "gas:candidate-vibid:377301570743": 79,
+      "gas:candidate-vibid:377301570819": 5,
+      "gas:candidate-vibid:1001000121944": 78,
+      "gas:candidate-vibid:1001000226016": 655,
+      "gas:candidate-vibid:1001000136159": 28,
+      "gas:candidate-vibid:1001000190460": 35,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12350,15 +12350,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 94,
-      "Зуев Сергей Васильевич": 93,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 127,
-      "Осадчий Сергей Юрьевич": 700,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 58,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 94,
+      "gas:candidate-vibid:377301570743": 93,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 127,
+      "gas:candidate-vibid:1001000226016": 700,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 58,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12408,15 +12408,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 100,
-      "Зуев Сергей Васильевич": 72,
-      "Кобозев Андрей Владимирович": 17,
-      "Никитин Сергей Викторович": 101,
-      "Осадчий Сергей Юрьевич": 728,
-      "Попов Александр Александрович": 47,
-      "Рубахин Сергей Владимирович": 56,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 100,
+      "gas:candidate-vibid:377301570743": 72,
+      "gas:candidate-vibid:377301570819": 17,
+      "gas:candidate-vibid:1001000121944": 101,
+      "gas:candidate-vibid:1001000226016": 728,
+      "gas:candidate-vibid:1001000136159": 47,
+      "gas:candidate-vibid:1001000190460": 56,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12466,15 +12466,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 19,
-      "Антоненко Евгений Романович": 176,
-      "Зуев Сергей Васильевич": 70,
-      "Кобозев Андрей Владимирович": 5,
-      "Никитин Сергей Викторович": 92,
-      "Осадчий Сергей Юрьевич": 659,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 51,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000195174": 19,
+      "gas:candidate-vibid:1001000114000": 176,
+      "gas:candidate-vibid:377301570743": 70,
+      "gas:candidate-vibid:377301570819": 5,
+      "gas:candidate-vibid:1001000121944": 92,
+      "gas:candidate-vibid:1001000226016": 659,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 51,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12524,15 +12524,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 11,
-      "Антоненко Евгений Романович": 90,
-      "Зуев Сергей Васильевич": 67,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 79,
-      "Осадчий Сергей Юрьевич": 683,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 28,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000195174": 11,
+      "gas:candidate-vibid:1001000114000": 90,
+      "gas:candidate-vibid:377301570743": 67,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 79,
+      "gas:candidate-vibid:1001000226016": 683,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 28,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12582,15 +12582,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 32,
-      "Антоненко Евгений Романович": 104,
-      "Зуев Сергей Васильевич": 80,
-      "Кобозев Андрей Владимирович": 18,
-      "Никитин Сергей Викторович": 99,
-      "Осадчий Сергей Юрьевич": 673,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 32,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000195174": 32,
+      "gas:candidate-vibid:1001000114000": 104,
+      "gas:candidate-vibid:377301570743": 80,
+      "gas:candidate-vibid:377301570819": 18,
+      "gas:candidate-vibid:1001000121944": 99,
+      "gas:candidate-vibid:1001000226016": 673,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 32,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12640,15 +12640,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 168,
-      "Зуев Сергей Васильевич": 75,
-      "Кобозев Андрей Владимирович": 5,
-      "Никитин Сергей Викторович": 130,
-      "Осадчий Сергей Юрьевич": 705,
-      "Попов Александр Александрович": 33,
-      "Рубахин Сергей Владимирович": 56,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 168,
+      "gas:candidate-vibid:377301570743": 75,
+      "gas:candidate-vibid:377301570819": 5,
+      "gas:candidate-vibid:1001000121944": 130,
+      "gas:candidate-vibid:1001000226016": 705,
+      "gas:candidate-vibid:1001000136159": 33,
+      "gas:candidate-vibid:1001000190460": 56,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12698,15 +12698,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 22,
-      "Антоненко Евгений Романович": 115,
-      "Зуев Сергей Васильевич": 57,
-      "Кобозев Андрей Владимирович": 13,
-      "Никитин Сергей Викторович": 126,
-      "Осадчий Сергей Юрьевич": 673,
-      "Попов Александр Александрович": 32,
-      "Рубахин Сергей Владимирович": 53,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000195174": 22,
+      "gas:candidate-vibid:1001000114000": 115,
+      "gas:candidate-vibid:377301570743": 57,
+      "gas:candidate-vibid:377301570819": 13,
+      "gas:candidate-vibid:1001000121944": 126,
+      "gas:candidate-vibid:1001000226016": 673,
+      "gas:candidate-vibid:1001000136159": 32,
+      "gas:candidate-vibid:1001000190460": 53,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12756,15 +12756,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 31,
-      "Антоненко Евгений Романович": 237,
-      "Зуев Сергей Васильевич": 76,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 129,
-      "Осадчий Сергей Юрьевич": 680,
-      "Попов Александр Александрович": 48,
-      "Рубахин Сергей Владимирович": 52,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000195174": 31,
+      "gas:candidate-vibid:1001000114000": 237,
+      "gas:candidate-vibid:377301570743": 76,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 129,
+      "gas:candidate-vibid:1001000226016": 680,
+      "gas:candidate-vibid:1001000136159": 48,
+      "gas:candidate-vibid:1001000190460": 52,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12814,15 +12814,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 119,
-      "Зуев Сергей Васильевич": 72,
-      "Кобозев Андрей Владимирович": 8,
-      "Никитин Сергей Викторович": 118,
-      "Осадчий Сергей Юрьевич": 649,
-      "Попов Александр Александрович": 47,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 119,
+      "gas:candidate-vibid:377301570743": 72,
+      "gas:candidate-vibid:377301570819": 8,
+      "gas:candidate-vibid:1001000121944": 118,
+      "gas:candidate-vibid:1001000226016": 649,
+      "gas:candidate-vibid:1001000136159": 47,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12872,15 +12872,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 30,
-      "Антоненко Евгений Романович": 125,
-      "Зуев Сергей Васильевич": 77,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 118,
-      "Осадчий Сергей Юрьевич": 661,
-      "Попов Александр Александрович": 48,
-      "Рубахин Сергей Владимирович": 60,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000195174": 30,
+      "gas:candidate-vibid:1001000114000": 125,
+      "gas:candidate-vibid:377301570743": 77,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 118,
+      "gas:candidate-vibid:1001000226016": 661,
+      "gas:candidate-vibid:1001000136159": 48,
+      "gas:candidate-vibid:1001000190460": 60,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12930,15 +12930,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 23,
-      "Антоненко Евгений Романович": 80,
-      "Зуев Сергей Васильевич": 121,
-      "Кобозев Андрей Владимирович": 5,
-      "Никитин Сергей Викторович": 93,
-      "Осадчий Сергей Юрьевич": 570,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 40,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000195174": 23,
+      "gas:candidate-vibid:1001000114000": 80,
+      "gas:candidate-vibid:377301570743": 121,
+      "gas:candidate-vibid:377301570819": 5,
+      "gas:candidate-vibid:1001000121944": 93,
+      "gas:candidate-vibid:1001000226016": 570,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 40,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -12988,15 +12988,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 51,
-      "Зуев Сергей Васильевич": 95,
-      "Кобозев Андрей Владимирович": 18,
-      "Никитин Сергей Викторович": 93,
-      "Осадчий Сергей Юрьевич": 585,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 45,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 51,
+      "gas:candidate-vibid:377301570743": 95,
+      "gas:candidate-vibid:377301570819": 18,
+      "gas:candidate-vibid:1001000121944": 93,
+      "gas:candidate-vibid:1001000226016": 585,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 45,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -13046,15 +13046,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 11,
-      "Антоненко Евгений Романович": 37,
-      "Зуев Сергей Васильевич": 60,
-      "Кобозев Андрей Владимирович": 6,
-      "Никитин Сергей Викторович": 34,
-      "Осадчий Сергей Юрьевич": 186,
-      "Попов Александр Александрович": 14,
-      "Рубахин Сергей Владимирович": 11,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000195174": 11,
+      "gas:candidate-vibid:1001000114000": 37,
+      "gas:candidate-vibid:377301570743": 60,
+      "gas:candidate-vibid:377301570819": 6,
+      "gas:candidate-vibid:1001000121944": 34,
+      "gas:candidate-vibid:1001000226016": 186,
+      "gas:candidate-vibid:1001000136159": 14,
+      "gas:candidate-vibid:1001000190460": 11,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570554&region=0&sub_region=0&type=429",
@@ -13104,15 +13104,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 37,
-      "Антоненко Евгений Романович": 246,
-      "Зуев Сергей Васильевич": 147,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 194,
-      "Осадчий Сергей Юрьевич": 530,
-      "Попов Александр Александрович": 45,
-      "Рубахин Сергей Владимирович": 48,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000195174": 37,
+      "gas:candidate-vibid:1001000114000": 246,
+      "gas:candidate-vibid:377301570743": 147,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 194,
+      "gas:candidate-vibid:1001000226016": 530,
+      "gas:candidate-vibid:1001000136159": 45,
+      "gas:candidate-vibid:1001000190460": 48,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13162,15 +13162,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 41,
-      "Антоненко Евгений Романович": 307,
-      "Зуев Сергей Васильевич": 153,
-      "Кобозев Андрей Владимирович": 21,
-      "Никитин Сергей Викторович": 195,
-      "Осадчий Сергей Юрьевич": 457,
-      "Попов Александр Александрович": 35,
-      "Рубахин Сергей Владимирович": 40,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000195174": 41,
+      "gas:candidate-vibid:1001000114000": 307,
+      "gas:candidate-vibid:377301570743": 153,
+      "gas:candidate-vibid:377301570819": 21,
+      "gas:candidate-vibid:1001000121944": 195,
+      "gas:candidate-vibid:1001000226016": 457,
+      "gas:candidate-vibid:1001000136159": 35,
+      "gas:candidate-vibid:1001000190460": 40,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13220,15 +13220,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 35,
-      "Антоненко Евгений Романович": 330,
-      "Зуев Сергей Васильевич": 110,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 175,
-      "Осадчий Сергей Юрьевич": 350,
-      "Попов Александр Александрович": 25,
-      "Рубахин Сергей Владимирович": 48,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000195174": 35,
+      "gas:candidate-vibid:1001000114000": 330,
+      "gas:candidate-vibid:377301570743": 110,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 175,
+      "gas:candidate-vibid:1001000226016": 350,
+      "gas:candidate-vibid:1001000136159": 25,
+      "gas:candidate-vibid:1001000190460": 48,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13278,15 +13278,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 21,
-      "Антоненко Евгений Романович": 329,
-      "Зуев Сергей Васильевич": 119,
-      "Кобозев Андрей Владимирович": 24,
-      "Никитин Сергей Викторович": 176,
-      "Осадчий Сергей Юрьевич": 401,
-      "Попов Александр Александрович": 29,
-      "Рубахин Сергей Владимирович": 46,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000195174": 21,
+      "gas:candidate-vibid:1001000114000": 329,
+      "gas:candidate-vibid:377301570743": 119,
+      "gas:candidate-vibid:377301570819": 24,
+      "gas:candidate-vibid:1001000121944": 176,
+      "gas:candidate-vibid:1001000226016": 401,
+      "gas:candidate-vibid:1001000136159": 29,
+      "gas:candidate-vibid:1001000190460": 46,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13336,15 +13336,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 34,
-      "Антоненко Евгений Романович": 251,
-      "Зуев Сергей Васильевич": 135,
-      "Кобозев Андрей Владимирович": 12,
-      "Никитин Сергей Викторович": 161,
-      "Осадчий Сергей Юрьевич": 352,
-      "Попов Александр Александрович": 38,
-      "Рубахин Сергей Владимирович": 25,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000195174": 34,
+      "gas:candidate-vibid:1001000114000": 251,
+      "gas:candidate-vibid:377301570743": 135,
+      "gas:candidate-vibid:377301570819": 12,
+      "gas:candidate-vibid:1001000121944": 161,
+      "gas:candidate-vibid:1001000226016": 352,
+      "gas:candidate-vibid:1001000136159": 38,
+      "gas:candidate-vibid:1001000190460": 25,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13394,15 +13394,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 18,
-      "Антоненко Евгений Романович": 187,
-      "Зуев Сергей Васильевич": 133,
-      "Кобозев Андрей Владимирович": 18,
-      "Никитин Сергей Викторович": 154,
-      "Осадчий Сергей Юрьевич": 530,
-      "Попов Александр Александрович": 34,
-      "Рубахин Сергей Владимирович": 47,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000195174": 18,
+      "gas:candidate-vibid:1001000114000": 187,
+      "gas:candidate-vibid:377301570743": 133,
+      "gas:candidate-vibid:377301570819": 18,
+      "gas:candidate-vibid:1001000121944": 154,
+      "gas:candidate-vibid:1001000226016": 530,
+      "gas:candidate-vibid:1001000136159": 34,
+      "gas:candidate-vibid:1001000190460": 47,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13452,15 +13452,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 40,
-      "Антоненко Евгений Романович": 258,
-      "Зуев Сергей Васильевич": 129,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 192,
-      "Осадчий Сергей Юрьевич": 538,
-      "Попов Александр Александрович": 49,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000195174": 40,
+      "gas:candidate-vibid:1001000114000": 258,
+      "gas:candidate-vibid:377301570743": 129,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 192,
+      "gas:candidate-vibid:1001000226016": 538,
+      "gas:candidate-vibid:1001000136159": 49,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13510,15 +13510,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 31,
-      "Антоненко Евгений Романович": 222,
-      "Зуев Сергей Васильевич": 160,
-      "Кобозев Андрей Владимирович": 19,
-      "Никитин Сергей Викторович": 261,
-      "Осадчий Сергей Юрьевич": 450,
-      "Попов Александр Александрович": 44,
-      "Рубахин Сергей Владимирович": 32,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000195174": 31,
+      "gas:candidate-vibid:1001000114000": 222,
+      "gas:candidate-vibid:377301570743": 160,
+      "gas:candidate-vibid:377301570819": 19,
+      "gas:candidate-vibid:1001000121944": 261,
+      "gas:candidate-vibid:1001000226016": 450,
+      "gas:candidate-vibid:1001000136159": 44,
+      "gas:candidate-vibid:1001000190460": 32,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13568,15 +13568,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 29,
-      "Антоненко Евгений Романович": 209,
-      "Зуев Сергей Васильевич": 177,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 164,
-      "Осадчий Сергей Юрьевич": 544,
-      "Попов Александр Александрович": 52,
-      "Рубахин Сергей Владимирович": 57,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000195174": 29,
+      "gas:candidate-vibid:1001000114000": 209,
+      "gas:candidate-vibid:377301570743": 177,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 164,
+      "gas:candidate-vibid:1001000226016": 544,
+      "gas:candidate-vibid:1001000136159": 52,
+      "gas:candidate-vibid:1001000190460": 57,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13626,15 +13626,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 255,
-      "Зуев Сергей Васильевич": 123,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 185,
-      "Осадчий Сергей Юрьевич": 630,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 255,
+      "gas:candidate-vibid:377301570743": 123,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 185,
+      "gas:candidate-vibid:1001000226016": 630,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13684,15 +13684,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 207,
-      "Зуев Сергей Васильевич": 116,
-      "Кобозев Андрей Владимирович": 19,
-      "Никитин Сергей Викторович": 148,
-      "Осадчий Сергей Юрьевич": 555,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 38,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 207,
+      "gas:candidate-vibid:377301570743": 116,
+      "gas:candidate-vibid:377301570819": 19,
+      "gas:candidate-vibid:1001000121944": 148,
+      "gas:candidate-vibid:1001000226016": 555,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 38,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13742,15 +13742,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 47,
-      "Антоненко Евгений Романович": 184,
-      "Зуев Сергей Васильевич": 171,
-      "Кобозев Андрей Владимирович": 19,
-      "Никитин Сергей Викторович": 144,
-      "Осадчий Сергей Юрьевич": 411,
-      "Попов Александр Александрович": 63,
-      "Рубахин Сергей Владимирович": 50,
-      "Против всех": 407
+      "gas:candidate-vibid:1001000195174": 47,
+      "gas:candidate-vibid:1001000114000": 184,
+      "gas:candidate-vibid:377301570743": 171,
+      "gas:candidate-vibid:377301570819": 19,
+      "gas:candidate-vibid:1001000121944": 144,
+      "gas:candidate-vibid:1001000226016": 411,
+      "gas:candidate-vibid:1001000136159": 63,
+      "gas:candidate-vibid:1001000190460": 50,
+      "special:against-all": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13800,15 +13800,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 145,
-      "Зуев Сергей Васильевич": 149,
-      "Кобозев Андрей Владимирович": 7,
-      "Никитин Сергей Викторович": 107,
-      "Осадчий Сергей Юрьевич": 504,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 145,
+      "gas:candidate-vibid:377301570743": 149,
+      "gas:candidate-vibid:377301570819": 7,
+      "gas:candidate-vibid:1001000121944": 107,
+      "gas:candidate-vibid:1001000226016": 504,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13858,15 +13858,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 36,
-      "Антоненко Евгений Романович": 211,
-      "Зуев Сергей Васильевич": 102,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 113,
-      "Осадчий Сергей Юрьевич": 489,
-      "Попов Александр Александрович": 35,
-      "Рубахин Сергей Владимирович": 44,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000195174": 36,
+      "gas:candidate-vibid:1001000114000": 211,
+      "gas:candidate-vibid:377301570743": 102,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 113,
+      "gas:candidate-vibid:1001000226016": 489,
+      "gas:candidate-vibid:1001000136159": 35,
+      "gas:candidate-vibid:1001000190460": 44,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13916,15 +13916,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 27,
-      "Антоненко Евгений Романович": 237,
-      "Зуев Сергей Васильевич": 112,
-      "Кобозев Андрей Владимирович": 11,
-      "Никитин Сергей Викторович": 114,
-      "Осадчий Сергей Юрьевич": 470,
-      "Попов Александр Александрович": 26,
-      "Рубахин Сергей Владимирович": 43,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000195174": 27,
+      "gas:candidate-vibid:1001000114000": 237,
+      "gas:candidate-vibid:377301570743": 112,
+      "gas:candidate-vibid:377301570819": 11,
+      "gas:candidate-vibid:1001000121944": 114,
+      "gas:candidate-vibid:1001000226016": 470,
+      "gas:candidate-vibid:1001000136159": 26,
+      "gas:candidate-vibid:1001000190460": 43,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -13974,15 +13974,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 191,
-      "Зуев Сергей Васильевич": 130,
-      "Кобозев Андрей Владимирович": 21,
-      "Никитин Сергей Викторович": 114,
-      "Осадчий Сергей Юрьевич": 529,
-      "Попов Александр Александрович": 41,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 191,
+      "gas:candidate-vibid:377301570743": 130,
+      "gas:candidate-vibid:377301570819": 21,
+      "gas:candidate-vibid:1001000121944": 114,
+      "gas:candidate-vibid:1001000226016": 529,
+      "gas:candidate-vibid:1001000136159": 41,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -14032,15 +14032,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 180,
-      "Зуев Сергей Васильевич": 124,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 124,
-      "Осадчий Сергей Юрьевич": 569,
-      "Попов Александр Александрович": 31,
-      "Рубахин Сергей Владимирович": 36,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 180,
+      "gas:candidate-vibid:377301570743": 124,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 124,
+      "gas:candidate-vibid:1001000226016": 569,
+      "gas:candidate-vibid:1001000136159": 31,
+      "gas:candidate-vibid:1001000190460": 36,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -14090,15 +14090,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 47,
-      "Антоненко Евгений Романович": 152,
-      "Зуев Сергей Васильевич": 166,
-      "Кобозев Андрей Владимирович": 9,
-      "Никитин Сергей Викторович": 127,
-      "Осадчий Сергей Юрьевич": 527,
-      "Попов Александр Александрович": 40,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000195174": 47,
+      "gas:candidate-vibid:1001000114000": 152,
+      "gas:candidate-vibid:377301570743": 166,
+      "gas:candidate-vibid:377301570819": 9,
+      "gas:candidate-vibid:1001000121944": 127,
+      "gas:candidate-vibid:1001000226016": 527,
+      "gas:candidate-vibid:1001000136159": 40,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -14148,15 +14148,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 183,
-      "Зуев Сергей Васильевич": 113,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 105,
-      "Осадчий Сергей Юрьевич": 501,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 34,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 183,
+      "gas:candidate-vibid:377301570743": 113,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 105,
+      "gas:candidate-vibid:1001000226016": 501,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 34,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -14206,15 +14206,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 21,
-      "Антоненко Евгений Романович": 204,
-      "Зуев Сергей Васильевич": 132,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 103,
-      "Осадчий Сергей Юрьевич": 476,
-      "Попов Александр Александрович": 38,
-      "Рубахин Сергей Владимирович": 33,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000195174": 21,
+      "gas:candidate-vibid:1001000114000": 204,
+      "gas:candidate-vibid:377301570743": 132,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 103,
+      "gas:candidate-vibid:1001000226016": 476,
+      "gas:candidate-vibid:1001000136159": 38,
+      "gas:candidate-vibid:1001000190460": 33,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -14264,15 +14264,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 58,
-      "Антоненко Евгений Романович": 43,
-      "Зуев Сергей Васильевич": 68,
-      "Кобозев Андрей Владимирович": 19,
-      "Никитин Сергей Викторович": 147,
-      "Осадчий Сергей Юрьевич": 433,
-      "Попов Александр Александрович": 135,
-      "Рубахин Сергей Владимирович": 228,
-      "Против всех": 412
+      "gas:candidate-vibid:1001000195174": 58,
+      "gas:candidate-vibid:1001000114000": 43,
+      "gas:candidate-vibid:377301570743": 68,
+      "gas:candidate-vibid:377301570819": 19,
+      "gas:candidate-vibid:1001000121944": 147,
+      "gas:candidate-vibid:1001000226016": 433,
+      "gas:candidate-vibid:1001000136159": 135,
+      "gas:candidate-vibid:1001000190460": 228,
+      "special:against-all": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -14322,15 +14322,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 0,
-      "Антоненко Евгений Романович": 1,
-      "Зуев Сергей Васильевич": 2,
-      "Кобозев Андрей Владимирович": 0,
-      "Никитин Сергей Викторович": 0,
-      "Осадчий Сергей Юрьевич": 5,
-      "Попов Александр Александрович": 0,
-      "Рубахин Сергей Владимирович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195174": 0,
+      "gas:candidate-vibid:1001000114000": 1,
+      "gas:candidate-vibid:377301570743": 2,
+      "gas:candidate-vibid:377301570819": 0,
+      "gas:candidate-vibid:1001000121944": 0,
+      "gas:candidate-vibid:1001000226016": 5,
+      "gas:candidate-vibid:1001000136159": 0,
+      "gas:candidate-vibid:1001000190460": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570556&region=0&sub_region=0&type=429",
@@ -14380,15 +14380,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 28,
-      "Антоненко Евгений Романович": 68,
-      "Зуев Сергей Васильевич": 85,
-      "Кобозев Андрей Владимирович": 36,
-      "Никитин Сергей Викторович": 41,
-      "Осадчий Сергей Юрьевич": 424,
-      "Попов Александр Александрович": 44,
-      "Рубахин Сергей Владимирович": 41,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000195174": 28,
+      "gas:candidate-vibid:1001000114000": 68,
+      "gas:candidate-vibid:377301570743": 85,
+      "gas:candidate-vibid:377301570819": 36,
+      "gas:candidate-vibid:1001000121944": 41,
+      "gas:candidate-vibid:1001000226016": 424,
+      "gas:candidate-vibid:1001000136159": 44,
+      "gas:candidate-vibid:1001000190460": 41,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570557&region=0&sub_region=0&type=429",
@@ -14438,15 +14438,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 17,
-      "Антоненко Евгений Романович": 238,
-      "Зуев Сергей Васильевич": 156,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 210,
-      "Осадчий Сергей Юрьевич": 479,
-      "Попов Александр Александрович": 43,
-      "Рубахин Сергей Владимирович": 74,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000195174": 17,
+      "gas:candidate-vibid:1001000114000": 238,
+      "gas:candidate-vibid:377301570743": 156,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 210,
+      "gas:candidate-vibid:1001000226016": 479,
+      "gas:candidate-vibid:1001000136159": 43,
+      "gas:candidate-vibid:1001000190460": 74,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -14496,15 +14496,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 33,
-      "Антоненко Евгений Романович": 219,
-      "Зуев Сергей Васильевич": 148,
-      "Кобозев Андрей Владимирович": 15,
-      "Никитин Сергей Викторович": 148,
-      "Осадчий Сергей Юрьевич": 535,
-      "Попов Александр Александрович": 49,
-      "Рубахин Сергей Владимирович": 47,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000195174": 33,
+      "gas:candidate-vibid:1001000114000": 219,
+      "gas:candidate-vibid:377301570743": 148,
+      "gas:candidate-vibid:377301570819": 15,
+      "gas:candidate-vibid:1001000121944": 148,
+      "gas:candidate-vibid:1001000226016": 535,
+      "gas:candidate-vibid:1001000136159": 49,
+      "gas:candidate-vibid:1001000190460": 47,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -14554,15 +14554,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 26,
-      "Антоненко Евгений Романович": 235,
-      "Зуев Сергей Васильевич": 131,
-      "Кобозев Андрей Владимирович": 10,
-      "Никитин Сергей Викторович": 154,
-      "Осадчий Сергей Юрьевич": 538,
-      "Попов Александр Александрович": 35,
-      "Рубахин Сергей Владимирович": 47,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000195174": 26,
+      "gas:candidate-vibid:1001000114000": 235,
+      "gas:candidate-vibid:377301570743": 131,
+      "gas:candidate-vibid:377301570819": 10,
+      "gas:candidate-vibid:1001000121944": 154,
+      "gas:candidate-vibid:1001000226016": 538,
+      "gas:candidate-vibid:1001000136159": 35,
+      "gas:candidate-vibid:1001000190460": 47,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -14612,15 +14612,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 37,
-      "Антоненко Евгений Романович": 314,
-      "Зуев Сергей Васильевич": 153,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 216,
-      "Осадчий Сергей Юрьевич": 469,
-      "Попов Александр Александрович": 39,
-      "Рубахин Сергей Владимирович": 78,
-      "Против всех": 369
+      "gas:candidate-vibid:1001000195174": 37,
+      "gas:candidate-vibid:1001000114000": 314,
+      "gas:candidate-vibid:377301570743": 153,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 216,
+      "gas:candidate-vibid:1001000226016": 469,
+      "gas:candidate-vibid:1001000136159": 39,
+      "gas:candidate-vibid:1001000190460": 78,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -14670,15 +14670,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 25,
-      "Антоненко Евгений Романович": 276,
-      "Зуев Сергей Васильевич": 132,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 131,
-      "Осадчий Сергей Юрьевич": 574,
-      "Попов Александр Александрович": 48,
-      "Рубахин Сергей Владимирович": 35,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000195174": 25,
+      "gas:candidate-vibid:1001000114000": 276,
+      "gas:candidate-vibid:377301570743": 132,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 131,
+      "gas:candidate-vibid:1001000226016": 574,
+      "gas:candidate-vibid:1001000136159": 48,
+      "gas:candidate-vibid:1001000190460": 35,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -14728,15 +14728,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 20,
-      "Антоненко Евгений Романович": 201,
-      "Зуев Сергей Васильевич": 146,
-      "Кобозев Андрей Владимирович": 14,
-      "Никитин Сергей Викторович": 147,
-      "Осадчий Сергей Юрьевич": 479,
-      "Попов Александр Александрович": 37,
-      "Рубахин Сергей Владимирович": 46,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000195174": 20,
+      "gas:candidate-vibid:1001000114000": 201,
+      "gas:candidate-vibid:377301570743": 146,
+      "gas:candidate-vibid:377301570819": 14,
+      "gas:candidate-vibid:1001000121944": 147,
+      "gas:candidate-vibid:1001000226016": 479,
+      "gas:candidate-vibid:1001000136159": 37,
+      "gas:candidate-vibid:1001000190460": 46,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",
@@ -14786,15 +14786,15 @@ export const duma_2003_uik_428_region_77_part_013 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Георгий Александрович": 30,
-      "Антоненко Евгений Романович": 199,
-      "Зуев Сергей Васильевич": 143,
-      "Кобозев Андрей Владимирович": 16,
-      "Никитин Сергей Викторович": 150,
-      "Осадчий Сергей Юрьевич": 558,
-      "Попов Александр Александрович": 43,
-      "Рубахин Сергей Владимирович": 38,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000195174": 30,
+      "gas:candidate-vibid:1001000114000": 199,
+      "gas:candidate-vibid:377301570743": 143,
+      "gas:candidate-vibid:377301570819": 16,
+      "gas:candidate-vibid:1001000121944": 150,
+      "gas:candidate-vibid:1001000226016": 558,
+      "gas:candidate-vibid:1001000136159": 43,
+      "gas:candidate-vibid:1001000190460": 38,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773015005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377301570558&region=0&sub_region=0&type=429",

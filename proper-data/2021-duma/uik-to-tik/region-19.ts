@@ -8,2292 +8,6112 @@ export const duma_2021_uik_to_tik_region_19 = [
     "uikNumber": 1,
     "uikTvd": "4194013455228",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №1",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4194013455229",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №2",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4194013455230",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №3",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4194013455231",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №4",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4194013455232",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №5",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4194013455233",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №6",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4194013455234",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №7",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4194013455235",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №8",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4194013455236",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №9",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4194013455237",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №10",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4194013455238",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №11",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4194013455239",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №12",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4194013455240",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №13",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4194013455241",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №14",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4194013455242",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №15",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4194013455226",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №16",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4194013455243",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №17",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4194013455244",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №18",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4194013455245",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №19",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4194013455246",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №20",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4194013455247",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №21",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4194013455248",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №22",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4194013455249",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №23",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4194013455250",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №24",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4194013455251",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №25",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4194013455252",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №26",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4194013455253",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №27",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4194013455254",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №28",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4194013455255",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №29",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4194013455256",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №30",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4194013455257",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №31",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4194013455258",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №32",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4194013455259",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №33",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4194013455260",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №34",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4194013455261",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №35",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4194013455262",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №36",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4194013455263",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №37",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4194013455264",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №38",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4194013455265",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №39",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4194013455266",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №40",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4194013455267",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №41",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4194013455268",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №42",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4194013455269",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №43",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4194013455270",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №44",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4194013455271",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №45",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4194013455272",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №46",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4194013455273",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №47",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4194013455274",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №48",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4194013455275",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №49",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4194013455276",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №50",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4194013455277",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №51",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4194013455278",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №52",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4194013455279",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №53",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4194013455280",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №54",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4194013455281",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №55",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4194013455282",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №56",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4194013455283",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №57",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4194013455284",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №58",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4194013455285",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №59",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4194013455286",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №60",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4194013455287",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №61",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4194013455288",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №62",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4194013455289",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №63",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4194013455290",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №64",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4194013455291",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №65",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4194013455292",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №66",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4194013455293",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №67",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4194013455294",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №68",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4194013455295",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №69",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4194013455296",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №70",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4194013455297",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №71",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4194013455298",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №72",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4194013455299",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №73",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4194013455300",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №74",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4194013455301",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №75",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4194013455302",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №76",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4194012153303",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №77",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4194012153304",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №78",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4194012153305",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №79",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4194012153306",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №80",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4194012153307",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №81",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4194012153308",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №82",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4194012153309",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №83",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4194012153310",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №84",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4194012153311",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №85",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4194012153312",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №86",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4194012153313",
     "tikTvd": "2192000705240",
-    "tikName": "Абазинская городская"
+    "tikName": "Абазинская городская",
+    "uikName": "УИК №87",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4194007246575",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №90",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4194007246576",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №91",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4194007246577",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №92",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4194007246578",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №93",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4194007246579",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №94",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4194007246580",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №95",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4194007246581",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №96",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4194007246582",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №97",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4194007246583",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №98",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4194007246584",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №99",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4194007246585",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №100",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4194007246586",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №101",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4194007246587",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №102",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4194007246588",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №103",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4194007246589",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №104",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4194007246590",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №105",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4194007246591",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №106",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4194007246592",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №107",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4194007246593",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №108",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4194007246594",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №109",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4194007246595",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №110",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4194007246596",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №111",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4194007246597",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №112",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4194007246598",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №113",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4194007246599",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №114",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4194007263808",
     "tikTvd": "2192000705242",
-    "tikName": "Саяногорская городская"
+    "tikName": "Саяногорская городская",
+    "uikName": "УИК №115",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4194013206142",
     "tikTvd": "2192000705245",
-    "tikName": "Сорская городская"
+    "tikName": "Сорская городская",
+    "uikName": "УИК №119",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4194013206144",
     "tikTvd": "2192000705245",
-    "tikName": "Сорская городская"
+    "tikName": "Сорская городская",
+    "uikName": "УИК №120",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4194013206146",
     "tikTvd": "2192000705245",
-    "tikName": "Сорская городская"
+    "tikName": "Сорская городская",
+    "uikName": "УИК №121",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4194013206148",
     "tikTvd": "2192000705245",
-    "tikName": "Сорская городская"
+    "tikName": "Сорская городская",
+    "uikName": "УИК №122",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4194013206150",
     "tikTvd": "2192000705245",
-    "tikName": "Сорская городская"
+    "tikName": "Сорская городская",
+    "uikName": "УИК №123",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4194010205813",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №126",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4194010205814",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №127",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4194010205815",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №128",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4194010205816",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №129",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4194010205817",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №130",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4194010205818",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №131",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4194010205819",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №132",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4194010205820",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №133",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4194010205821",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №134",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4194010205822",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №135",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4194010205823",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №136",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4194010205824",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №137",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4194010205825",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №138",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4194010205826",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №139",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4194010205827",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №140",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4194010205828",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №141",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4194010205829",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №142",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4194010205830",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №143",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4194010205831",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №144",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4194010205832",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №145",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4194010205833",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №146",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4194010205834",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №147",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4194010205835",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №148",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4194010205836",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №149",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4194010205837",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №150",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4194010205838",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №151",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4194010205839",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №152",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4194010205840",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №153",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4194010205841",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №154",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4194010205842",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №155",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4194010205843",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №156",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4194010205844",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №157",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4194010205845",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №158",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4194010205846",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №159",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4194010205847",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №160",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4194010205848",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №161",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4194010205849",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №162",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4194010205850",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №163",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4194010205851",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №164",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4194010205852",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №165",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4194010205853",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №166",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4194010205854",
     "tikTvd": "2192000705241",
-    "tikName": "Черногорская городская"
+    "tikName": "Черногорская городская",
+    "uikName": "УИК №167",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4194002243871",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №172",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4194002243872",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №173",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4194002243873",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №174",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4194002243874",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №175",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4194002243875",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №176",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4194002243876",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №177",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4194002243877",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №178",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4194002243878",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №179",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4194002243879",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №180",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4194002243880",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №181",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4194002243881",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №182",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4194002243882",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №183",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4194002243883",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №184",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4194002243884",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №185",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4194002243885",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №186",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4194002243886",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №187",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4194002243887",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №188",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4194002243888",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №189",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4194002243889",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №190",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4194002243890",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №191",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4194002243891",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №192",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4194002243892",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №193",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4194002243893",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №194",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4194002243894",
     "tikTvd": "2192000705247",
-    "tikName": "Алтайская"
+    "tikName": "Алтайская",
+    "uikName": "УИК №195",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4194003298410",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №199",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4194003298411",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №200",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4194003298412",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №201",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4194003298413",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №202",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4194003298414",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №203",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4194003298415",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №204",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4194003298417",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №205",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4194003298418",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №206",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4194003298419",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №207",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4194003298420",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №208",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4194003298421",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №209",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4194003298422",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №210",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4194003298424",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №211",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4194003298425",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №212",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4194003298426",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №213",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4194003298427",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №214",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4194003298428",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №215",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4194003298429",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №216",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4194003298431",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №217",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4194003298432",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №218",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4194003298433",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №219",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4194003298434",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №220",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4194003298435",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №221",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4194003298436",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №222",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4194003298438",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №223",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4194003298439",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №224",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4194003298440",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №225",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4194003298441",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №226",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4194003298442",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №227",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4194003298443",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №228",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4194003298445",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №229",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4194003298446",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №230",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4194003298447",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №231",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4194003298448",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №233",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4194003298449",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №235",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4194003298450",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №236",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4194003298452",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №237",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4194003298453",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №238",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4194003298454",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №239",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4194003298455",
     "tikTvd": "2192000705239",
-    "tikName": "Аскизская"
+    "tikName": "Аскизская",
+    "uikName": "УИК №240",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4194004220266",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №245",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4194004220267",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №246",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4194004220268",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №248",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4194004220269",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №249",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4194004220270",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №250",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4194004220271",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №251",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4194004220272",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №252",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4194004220273",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №253",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4194004220274",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №254",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4194004220275",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №255",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4194004220276",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №256",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4194004220277",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №257",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4194004220278",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №258",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4194004220279",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №259",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4194004220280",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №260",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4194004220281",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №261",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4194004220282",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №262",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4194004220283",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №263",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4194004220284",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №264",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4194004220285",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №265",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4194004220286",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №266",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4194004220287",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №267",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4194004220288",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №268",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4194004220289",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №269",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4194004220290",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №270",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4194004220291",
     "tikTvd": "2192000705243",
-    "tikName": "Бейская"
+    "tikName": "Бейская",
+    "uikName": "УИК №271",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4194005232457",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №275",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4194005232458",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №276",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4194005232459",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №277",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4194005232460",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №278",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4194005232461",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №280",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4194005232462",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №281",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4194005232463",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №282",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4194005232464",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №284",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4194005232465",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №285",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4194005232466",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №286",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4194005232467",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №288",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4194005232468",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №289",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4194005232469",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №290",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4194005232470",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №291",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4194005232471",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №292",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4194005232472",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №293",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4194005232473",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №294",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4194005232474",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №295",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4194005232475",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №296",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4194005232476",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №297",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4194005232477",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №298",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4194005232478",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №299",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4194005232479",
     "tikTvd": "2192000705237",
-    "tikName": "Боградская"
+    "tikName": "Боградская",
+    "uikName": "УИК №300",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4194006231602",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №305",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4194006231603",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №306",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4194006231604",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №307",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4194006231605",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №308",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4194006231606",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №309",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4194006231607",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №310",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4194006231608",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №311",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4194006231609",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №312",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4194006231610",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №313",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4194006231611",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №314",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4194006231612",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №315",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4194006231613",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №316",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4194006231614",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №317",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4194006231615",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №318",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4194006231616",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №319",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4194006231617",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №320",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4194006231618",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №321",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4194006231619",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №322",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4194006231620",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №323",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4194006231621",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №324",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4194006231622",
     "tikTvd": "2192000705248",
-    "tikName": "Орджоникидзевская"
+    "tikName": "Орджоникидзевская",
+    "uikName": "УИК №325",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4194008219651",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №329",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4194008219652",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №330",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4194008219653",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №331",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4194008219654",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №332",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4194008219655",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №333",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4194008219656",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №334",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4194008219657",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №335",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4194008219658",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №336",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4194008219659",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №337",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4194008219660",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №338",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4194008219661",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №339",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4194008219662",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №340",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4194008219663",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №341",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4194008219664",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №342",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4194008219665",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №343",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4194008219666",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №344",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4194008219667",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №345",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4194008219668",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №346",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4194008219669",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №347",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4194008219670",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №348",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4194008219671",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №349",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4194008219672",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №350",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4194008219673",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №351",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4194008219674",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №352",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4194008219675",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №353",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4194008219676",
     "tikTvd": "2192000705238",
-    "tikName": "Таштыпская"
+    "tikName": "Таштыпская",
+    "uikName": "УИК №354",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4194009298544",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №358",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4194009298545",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №359",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4194009298546",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №360",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4194009298547",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №361",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4194009298548",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №362",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4194009298549",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №363",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4194009298550",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №364",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4194009298551",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №365",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4194009298552",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №366",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4194009298553",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №367",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4194009298554",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №368",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4194009298555",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №369",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4194009298556",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №370",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4194009298557",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №371",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4194009298558",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №372",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4194009298559",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №373",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4194009298560",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №374",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4194009298561",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №375",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4194009298562",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №376",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4194009298563",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №377",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4194009298564",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №378",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4194009298565",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №379",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4194009298566",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №380",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4194009298567",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №381",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4194009298568",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №382",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4194009298569",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №384",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4194009298570",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №386",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4194009298571",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №388",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4194009298572",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №389",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4194009298573",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №390",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4194009298574",
     "tikTvd": "2192000705244",
-    "tikName": "Усть-Абаканская"
+    "tikName": "Усть-Абаканская",
+    "uikName": "УИК №391",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4194011269775",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №396",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4194011269776",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №397",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4194011269777",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №398",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4194011269778",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №399",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4194011269779",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №400",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4194011269780",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №401",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4194011269781",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №402",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4194011269782",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №403",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4194011269783",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №404",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4194011269784",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №405",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4194011269785",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №406",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4194011269786",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №407",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4194011269787",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №408",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4194011269788",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №409",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4194011269789",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №410",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4194011269790",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №412",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4194011269791",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №413",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4194011269792",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №414",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4194011269793",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №415",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4194011269794",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №416",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4194011269795",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №417",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4194011269796",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №418",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4194011269797",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №419",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4194011269798",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №420",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4194011269799",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №421",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4194011269800",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №422",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4194011269801",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №424",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4194011269802",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №425",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4194011269803",
     "tikTvd": "2192000705249",
-    "tikName": "Ширинская"
+    "tikName": "Ширинская",
+    "uikName": "УИК №426",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4194013460646",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №431",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4194013460647",
     "tikTvd": "2192000705246",
-    "tikName": "Абаканская городская"
+    "tikName": "Абаканская городская",
+    "uikName": "УИК №432",
+    "regionCode": "19",
+    "regionTvd": "100100225883447",
+    "regionName": "Республика Хакасия",
+    "oikTvd": "100100225883448",
+    "oikName": "Республика Хакасия – Хакасский",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100225883448"
+    }
   }
 ] satisfies readonly UikTikRelation[];

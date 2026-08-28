@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 216,
-      "Чертищев Владимир Сергеевич": 30,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 216,
+      "gas:candidate-vibid:1001000121923": 30,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 9,
-      "Колдобанов Андрей Викторович": 10,
-      "Конев Юрий Михайлович": 213,
-      "Чертищев Владимир Сергеевич": 29,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 9,
+      "gas:candidate-vibid:1001000136137": 10,
+      "gas:candidate-vibid:1001000131419": 213,
+      "gas:candidate-vibid:1001000121923": 29,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 403,
-      "Чертищев Владимир Сергеевич": 54,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 403,
+      "gas:candidate-vibid:1001000121923": 54,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 288,
-      "Чертищев Владимир Сергеевич": 61,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 288,
+      "gas:candidate-vibid:1001000121923": 61,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 10,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 86,
-      "Чертищев Владимир Сергеевич": 59,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 10,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 86,
+      "gas:candidate-vibid:1001000121923": 59,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 125,
-      "Чертищев Владимир Сергеевич": 25,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 125,
+      "gas:candidate-vibid:1001000121923": 25,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 20,
-      "Конев Юрий Михайлович": 263,
-      "Чертищев Владимир Сергеевич": 101,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 20,
+      "gas:candidate-vibid:1001000131419": 263,
+      "gas:candidate-vibid:1001000121923": 101,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 194,
-      "Чертищев Владимир Сергеевич": 115,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 194,
+      "gas:candidate-vibid:1001000121923": 115,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 29,
-      "Колдобанов Андрей Викторович": 50,
-      "Конев Юрий Михайлович": 386,
-      "Чертищев Владимир Сергеевич": 140,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000250031": 29,
+      "gas:candidate-vibid:1001000136137": 50,
+      "gas:candidate-vibid:1001000131419": 386,
+      "gas:candidate-vibid:1001000121923": 140,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 17,
-      "Колдобанов Андрей Викторович": 29,
-      "Конев Юрий Михайлович": 579,
-      "Чертищев Владимир Сергеевич": 57,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000250031": 17,
+      "gas:candidate-vibid:1001000136137": 29,
+      "gas:candidate-vibid:1001000131419": 579,
+      "gas:candidate-vibid:1001000121923": 57,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 18,
-      "Конев Юрий Михайлович": 259,
-      "Чертищев Владимир Сергеевич": 33,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 18,
+      "gas:candidate-vibid:1001000131419": 259,
+      "gas:candidate-vibid:1001000121923": 33,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 22,
-      "Колдобанов Андрей Викторович": 37,
-      "Конев Юрий Михайлович": 312,
-      "Чертищев Владимир Сергеевич": 55,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000250031": 22,
+      "gas:candidate-vibid:1001000136137": 37,
+      "gas:candidate-vibid:1001000131419": 312,
+      "gas:candidate-vibid:1001000121923": 55,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 100,
-      "Чертищев Владимир Сергеевич": 28,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 100,
+      "gas:candidate-vibid:1001000121923": 28,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 46,
-      "Колдобанов Андрей Викторович": 95,
-      "Конев Юрий Михайлович": 923,
-      "Чертищев Владимир Сергеевич": 268,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000250031": 46,
+      "gas:candidate-vibid:1001000136137": 95,
+      "gas:candidate-vibid:1001000131419": 923,
+      "gas:candidate-vibid:1001000121923": 268,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 40,
-      "Колдобанов Андрей Викторович": 123,
-      "Конев Юрий Михайлович": 1008,
-      "Чертищев Владимир Сергеевич": 270,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000250031": 40,
+      "gas:candidate-vibid:1001000136137": 123,
+      "gas:candidate-vibid:1001000131419": 1008,
+      "gas:candidate-vibid:1001000121923": 270,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166691&region=0&sub_region=0&type=429",
@@ -852,15 +852,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 56,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 77,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 361,
-      "Третьяков Владимир Николаевич": 26,
-      "Трушников Александр Христофорович": 41,
-      "Шуюпова Людмила Ильинична": 66,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000190426": 56,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 77,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 361,
+      "gas:candidate-vibid:372300267030": 26,
+      "gas:candidate-vibid:1001000195155": 41,
+      "gas:candidate-vibid:372300267023": 66,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -910,15 +910,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 46,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 89,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 452,
-      "Третьяков Владимир Николаевич": 27,
-      "Трушников Александр Христофорович": 40,
-      "Шуюпова Людмила Ильинична": 69,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190426": 46,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 89,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 452,
+      "gas:candidate-vibid:372300267030": 27,
+      "gas:candidate-vibid:1001000195155": 40,
+      "gas:candidate-vibid:372300267023": 69,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -968,15 +968,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 48,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 127,
-      "Лукичев Вячеслав Федорович": 11,
-      "Райков Геннадий Иванович": 511,
-      "Третьяков Владимир Николаевич": 47,
-      "Трушников Александр Христофорович": 65,
-      "Шуюпова Людмила Ильинична": 96,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190426": 48,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 127,
+      "gas:candidate-vibid:1001000338447": 11,
+      "gas:candidate-vibid:1001000131420": 511,
+      "gas:candidate-vibid:372300267030": 47,
+      "gas:candidate-vibid:1001000195155": 65,
+      "gas:candidate-vibid:372300267023": 96,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1026,15 +1026,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 9,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 20,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 261,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 12,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000190426": 9,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 20,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 261,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 12,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1084,15 +1084,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 0,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 14,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 124,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190426": 0,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 14,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 124,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1142,15 +1142,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 15,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 24,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 341,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 12,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190426": 15,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 24,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 341,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 12,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1200,15 +1200,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 5,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 43,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 5,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 43,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1258,15 +1258,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 1,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 4,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 49,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190426": 1,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 4,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 49,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1316,15 +1316,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 3,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 18,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 176,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 10,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190426": 3,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 18,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 176,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 10,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1374,15 +1374,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 1,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 10,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 104,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190426": 1,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 10,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 104,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1432,15 +1432,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 4,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 49,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 4,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 49,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1490,15 +1490,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 43,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 133,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 427,
-      "Третьяков Владимир Николаевич": 16,
-      "Трушников Александр Христофорович": 31,
-      "Шуюпова Людмила Ильинична": 90,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190426": 43,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 133,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 427,
+      "gas:candidate-vibid:372300267030": 16,
+      "gas:candidate-vibid:1001000195155": 31,
+      "gas:candidate-vibid:372300267023": 90,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1548,15 +1548,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 7,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 0,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 42,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190426": 7,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 0,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 42,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1606,15 +1606,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 6,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 9,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 55,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190426": 6,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 9,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 55,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1664,15 +1664,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 7,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 11,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 129,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 8,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190426": 7,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 11,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 129,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 8,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1722,15 +1722,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 29,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 83,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 543,
-      "Третьяков Владимир Николаевич": 39,
-      "Трушников Александр Христофорович": 23,
-      "Шуюпова Людмила Ильинична": 50,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000190426": 29,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 83,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 543,
+      "gas:candidate-vibid:372300267030": 39,
+      "gas:candidate-vibid:1001000195155": 23,
+      "gas:candidate-vibid:372300267023": 50,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1780,15 +1780,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 9,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 26,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 181,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 7,
-      "Шуюпова Людмила Ильинична": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190426": 9,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 26,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 181,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 7,
+      "gas:candidate-vibid:372300267023": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1838,15 +1838,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 5,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 21,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 218,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 11,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190426": 5,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 21,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 218,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 11,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1896,15 +1896,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 12,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 10,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 162,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 10,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190426": 12,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 10,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 162,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 10,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -1954,15 +1954,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 27,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 28,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 231,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 27,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000190426": 27,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 28,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 231,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 27,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2012,15 +2012,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 5,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 22,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 381,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 8,
-      "Шуюпова Людмила Ильинична": 16,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190426": 5,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 22,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 381,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 8,
+      "gas:candidate-vibid:372300267023": 16,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2070,15 +2070,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 22,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 86,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 194,
-      "Третьяков Владимир Николаевич": 19,
-      "Трушников Александр Христофорович": 25,
-      "Шуюпова Людмила Ильинична": 31,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000190426": 22,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 86,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 194,
+      "gas:candidate-vibid:372300267030": 19,
+      "gas:candidate-vibid:1001000195155": 25,
+      "gas:candidate-vibid:372300267023": 31,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2128,15 +2128,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 15,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 35,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 353,
-      "Третьяков Владимир Николаевич": 18,
-      "Трушников Александр Христофорович": 25,
-      "Шуюпова Людмила Ильинична": 37,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000190426": 15,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 35,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 353,
+      "gas:candidate-vibid:372300267030": 18,
+      "gas:candidate-vibid:1001000195155": 25,
+      "gas:candidate-vibid:372300267023": 37,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2186,15 +2186,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 18,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 48,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 313,
-      "Третьяков Владимир Николаевич": 22,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 52,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190426": 18,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 48,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 313,
+      "gas:candidate-vibid:372300267030": 22,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 52,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2244,15 +2244,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 8,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 21,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 149,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 13,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190426": 8,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 21,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 149,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 13,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2302,15 +2302,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 10,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 60,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 8,
-      "Шуюпова Людмила Ильинична": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 10,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 60,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 8,
+      "gas:candidate-vibid:372300267023": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2360,15 +2360,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 2,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 34,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 2,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 34,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2418,15 +2418,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 14,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 5,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 72,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 10,
-      "Шуюпова Людмила Ильинична": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190426": 14,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 5,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 72,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 10,
+      "gas:candidate-vibid:372300267023": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2476,15 +2476,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 12,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 28,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 265,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 14,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190426": 12,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 28,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 265,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 14,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2534,15 +2534,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 6,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 74,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 6,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 74,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2592,15 +2592,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 7,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 77,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 7,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 77,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2650,15 +2650,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 7,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 18,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 160,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190426": 7,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 18,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 160,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2708,15 +2708,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 23,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 49,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 351,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 28,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000190426": 23,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 49,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 351,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 28,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2766,15 +2766,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 10,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 66,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 11,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 10,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 66,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 11,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2824,15 +2824,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 8,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 16,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 55,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190426": 8,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 16,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 55,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2882,15 +2882,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 0,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 65,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 0,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 65,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266739&region=0&sub_region=0&type=429",
@@ -2940,15 +2940,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 20,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 11,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 170,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190426": 20,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 11,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 170,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -2998,15 +2998,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 105,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 11,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 105,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 11,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3056,15 +3056,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 5,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 0,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 98,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190426": 5,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 0,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 98,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3114,15 +3114,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 6,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 332,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 11,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190426": 6,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 332,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 11,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3172,15 +3172,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 3,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 3,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 58,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190426": 3,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 3,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 58,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3230,15 +3230,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 0,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 0,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 139,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190426": 0,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 0,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 139,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3288,15 +3288,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 7,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 252,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 7,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 252,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3346,15 +3346,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 17,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 15,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 361,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 5,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190426": 17,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 15,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 361,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 5,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3404,15 +3404,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 7,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 12,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 182,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190426": 7,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 12,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 182,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3462,15 +3462,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 177,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 177,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3520,15 +3520,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 9,
-      "Коростиль Павел Васильевич": 51,
-      "Косенков Яков Алексеевич": 16,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 586,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 10,
-      "Шуюпова Людмила Ильинична": 11,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000190426": 9,
+      "gas:candidate-vibid:372300266861": 51,
+      "gas:candidate-vibid:1001000217961": 16,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 586,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 10,
+      "gas:candidate-vibid:372300267023": 11,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3578,15 +3578,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 19,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 17,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 323,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 17,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000190426": 19,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 17,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 323,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 17,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3636,15 +3636,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 13,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 2,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 167,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 13,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190426": 13,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 2,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 167,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 13,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3694,15 +3694,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 261,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 261,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3752,15 +3752,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 5,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 3,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 230,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190426": 5,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 3,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 230,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3810,15 +3810,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 10,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 4,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 132,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 10,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190426": 10,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 4,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 132,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 10,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3868,15 +3868,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 280,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 280,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3926,15 +3926,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 10,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 338,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190426": 10,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 338,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -3984,15 +3984,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 1,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 93,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190426": 1,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 93,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4042,15 +4042,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 48,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 78,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 1123,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 39,
-      "Шуюпова Людмила Ильинична": 59,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000190426": 48,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 78,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 1123,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 39,
+      "gas:candidate-vibid:372300267023": 59,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4100,15 +4100,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 21,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 32,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 652,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 25,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190426": 21,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 32,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 652,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 25,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4158,15 +4158,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 20,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 21,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 390,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 21,
-      "Шуюпова Людмила Ильинична": 31,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000190426": 20,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 21,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 390,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 21,
+      "gas:candidate-vibid:372300267023": 31,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4216,15 +4216,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 6,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 3,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 125,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190426": 6,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 3,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 125,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4274,15 +4274,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 6,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 87,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 6,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 87,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4332,15 +4332,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 2,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 149,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 2,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 149,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4390,15 +4390,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 11,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 165,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190426": 11,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 165,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4448,15 +4448,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 124,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 10,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 124,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 10,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4506,15 +4506,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 3,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 4,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 308,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 7,
-      "Шуюпова Людмила Ильинична": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190426": 3,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 4,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 308,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 7,
+      "gas:candidate-vibid:372300267023": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4564,15 +4564,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 3,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 134,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190426": 3,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 134,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4622,15 +4622,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 2,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 7,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 111,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190426": 2,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 7,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 111,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4680,15 +4680,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 0,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 63,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190426": 0,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 63,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4738,15 +4738,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 3,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 0,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 99,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190426": 3,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 0,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 99,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4796,15 +4796,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 8,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 7,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 368,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190426": 8,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 7,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 368,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4854,15 +4854,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 10,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 30,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 424,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 10,
-      "Шуюпова Людмила Ильинична": 16,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190426": 10,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 30,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 424,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 10,
+      "gas:candidate-vibid:372300267023": 16,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4912,15 +4912,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 8,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 125,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190426": 8,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 125,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -4970,15 +4970,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 1,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 133,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 1,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 133,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -5028,15 +5028,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 15,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 11,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 167,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190426": 15,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 11,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 167,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -5086,15 +5086,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 7,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 4,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 95,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190426": 7,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 4,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 95,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -5144,15 +5144,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 13,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 13,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 458,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 11,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190426": 13,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 13,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 458,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 11,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -5202,15 +5202,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 3,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 2,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 98,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190426": 3,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 2,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 98,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266740&region=0&sub_region=0&type=429",
@@ -5260,15 +5260,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 55,
-      "Коростиль Павел Васильевич": 13,
-      "Косенков Яков Алексеевич": 18,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 466,
-      "Третьяков Владимир Николаевич": 18,
-      "Трушников Александр Христофорович": 24,
-      "Шуюпова Людмила Ильинична": 47,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000190426": 55,
+      "gas:candidate-vibid:372300266861": 13,
+      "gas:candidate-vibid:1001000217961": 18,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 466,
+      "gas:candidate-vibid:372300267030": 18,
+      "gas:candidate-vibid:1001000195155": 24,
+      "gas:candidate-vibid:372300267023": 47,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5318,15 +5318,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 83,
-      "Коростиль Павел Васильевич": 18,
-      "Косенков Яков Алексеевич": 78,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 703,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 60,
-      "Шуюпова Людмила Ильинична": 134,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000190426": 83,
+      "gas:candidate-vibid:372300266861": 18,
+      "gas:candidate-vibid:1001000217961": 78,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 703,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 60,
+      "gas:candidate-vibid:372300267023": 134,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5376,15 +5376,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 83,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 64,
-      "Лукичев Вячеслав Федорович": 19,
-      "Райков Геннадий Иванович": 549,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 46,
-      "Шуюпова Людмила Ильинична": 92,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000190426": 83,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 64,
+      "gas:candidate-vibid:1001000338447": 19,
+      "gas:candidate-vibid:1001000131420": 549,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 46,
+      "gas:candidate-vibid:372300267023": 92,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5434,15 +5434,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 67,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 33,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 265,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 41,
-      "Шуюпова Людмила Ильинична": 57,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000190426": 67,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 33,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 265,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 41,
+      "gas:candidate-vibid:372300267023": 57,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5492,15 +5492,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 6,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 15,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 125,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190426": 6,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 15,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 125,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5550,15 +5550,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 19,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 40,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 288,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 10,
-      "Шуюпова Людмила Ильинична": 40,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000190426": 19,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 40,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 288,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 10,
+      "gas:candidate-vibid:372300267023": 40,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5608,15 +5608,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 11,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 11,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 34,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 8,
-      "Шуюпова Людмила Ильинична": 11,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190426": 11,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 11,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 34,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 8,
+      "gas:candidate-vibid:372300267023": 11,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5666,15 +5666,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 53,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 154,
-      "Лукичев Вячеслав Федорович": 11,
-      "Райков Геннадий Иванович": 487,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 22,
-      "Шуюпова Людмила Ильинична": 97,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000190426": 53,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 154,
+      "gas:candidate-vibid:1001000338447": 11,
+      "gas:candidate-vibid:1001000131420": 487,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 22,
+      "gas:candidate-vibid:372300267023": 97,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5724,15 +5724,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 83,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 68,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 484,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 39,
-      "Шуюпова Людмила Ильинична": 100,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190426": 83,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 68,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 484,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 39,
+      "gas:candidate-vibid:372300267023": 100,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5782,15 +5782,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 67,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 128,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 600,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 33,
-      "Шуюпова Людмила Ильинична": 102,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000190426": 67,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 128,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 600,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 33,
+      "gas:candidate-vibid:372300267023": 102,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5840,15 +5840,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 77,
-      "Коростиль Павел Васильевич": 12,
-      "Косенков Яков Алексеевич": 103,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 719,
-      "Третьяков Владимир Николаевич": 23,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 126,
-      "Против всех": 361
+      "gas:candidate-vibid:1001000190426": 77,
+      "gas:candidate-vibid:372300266861": 12,
+      "gas:candidate-vibid:1001000217961": 103,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 719,
+      "gas:candidate-vibid:372300267030": 23,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 126,
+      "special:against-all": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5898,15 +5898,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 45,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 54,
-      "Лукичев Вячеслав Федорович": 16,
-      "Райков Геннадий Иванович": 486,
-      "Третьяков Владимир Николаевич": 25,
-      "Трушников Александр Христофорович": 39,
-      "Шуюпова Людмила Ильинична": 118,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190426": 45,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 54,
+      "gas:candidate-vibid:1001000338447": 16,
+      "gas:candidate-vibid:1001000131420": 486,
+      "gas:candidate-vibid:372300267030": 25,
+      "gas:candidate-vibid:1001000195155": 39,
+      "gas:candidate-vibid:372300267023": 118,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -5956,15 +5956,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 71,
-      "Коростиль Павел Васильевич": 13,
-      "Косенков Яков Алексеевич": 47,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 851,
-      "Третьяков Владимир Николаевич": 20,
-      "Трушников Александр Христофорович": 36,
-      "Шуюпова Людмила Ильинична": 129,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000190426": 71,
+      "gas:candidate-vibid:372300266861": 13,
+      "gas:candidate-vibid:1001000217961": 47,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 851,
+      "gas:candidate-vibid:372300267030": 20,
+      "gas:candidate-vibid:1001000195155": 36,
+      "gas:candidate-vibid:372300267023": 129,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6014,15 +6014,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 45,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 32,
-      "Лукичев Вячеслав Федорович": 16,
-      "Райков Геннадий Иванович": 594,
-      "Третьяков Владимир Николаевич": 28,
-      "Трушников Александр Христофорович": 37,
-      "Шуюпова Людмила Ильинична": 102,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190426": 45,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 32,
+      "gas:candidate-vibid:1001000338447": 16,
+      "gas:candidate-vibid:1001000131420": 594,
+      "gas:candidate-vibid:372300267030": 28,
+      "gas:candidate-vibid:1001000195155": 37,
+      "gas:candidate-vibid:372300267023": 102,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6072,15 +6072,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 26,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 25,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 314,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 62,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000190426": 26,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 25,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 314,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 62,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6130,15 +6130,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 15,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 9,
-      "Лукичев Вячеслав Федорович": 11,
-      "Райков Геннадий Иванович": 268,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 11,
-      "Шуюпова Людмила Ильинична": 23,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000190426": 15,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 9,
+      "gas:candidate-vibid:1001000338447": 11,
+      "gas:candidate-vibid:1001000131420": 268,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 11,
+      "gas:candidate-vibid:372300267023": 23,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6188,15 +6188,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 21,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 12,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 254,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 12,
-      "Шуюпова Людмила Ильинична": 57,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190426": 21,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 12,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 254,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 12,
+      "gas:candidate-vibid:372300267023": 57,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6246,15 +6246,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 70,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 67,
-      "Лукичев Вячеслав Федорович": 18,
-      "Райков Геннадий Иванович": 434,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 18,
-      "Шуюпова Людмила Ильинична": 48,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190426": 70,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 67,
+      "gas:candidate-vibid:1001000338447": 18,
+      "gas:candidate-vibid:1001000131420": 434,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 18,
+      "gas:candidate-vibid:372300267023": 48,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6304,15 +6304,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 62,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 71,
-      "Лукичев Вячеслав Федорович": 17,
-      "Райков Геннадий Иванович": 511,
-      "Третьяков Владимир Николаевич": 22,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 65,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000190426": 62,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 71,
+      "gas:candidate-vibid:1001000338447": 17,
+      "gas:candidate-vibid:1001000131420": 511,
+      "gas:candidate-vibid:372300267030": 22,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 65,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6362,15 +6362,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 57,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 19,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 312,
-      "Третьяков Владимир Николаевич": 14,
-      "Трушников Александр Христофорович": 21,
-      "Шуюпова Людмила Ильинична": 59,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000190426": 57,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 19,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 312,
+      "gas:candidate-vibid:372300267030": 14,
+      "gas:candidate-vibid:1001000195155": 21,
+      "gas:candidate-vibid:372300267023": 59,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6420,15 +6420,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 16,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 7,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 149,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 15,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190426": 16,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 7,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 149,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 15,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6478,15 +6478,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 32,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 52,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 267,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 14,
-      "Шуюпова Людмила Ильинична": 31,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000190426": 32,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 52,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 267,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 14,
+      "gas:candidate-vibid:372300267023": 31,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6536,15 +6536,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 10,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 78,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 10,
-      "Шуюпова Людмила Ильинична": 8,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190426": 10,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 78,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 10,
+      "gas:candidate-vibid:372300267023": 8,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6594,15 +6594,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 3,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 5,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 230,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190426": 3,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 5,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 230,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6652,15 +6652,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 66,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 67,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 879,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 27,
-      "Шуюпова Людмила Ильинична": 88,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190426": 66,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 67,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 879,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 27,
+      "gas:candidate-vibid:372300267023": 88,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6710,15 +6710,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 96,
-      "Коростиль Павел Васильевич": 12,
-      "Косенков Яков Алексеевич": 89,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 781,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 30,
-      "Шуюпова Людмила Ильинична": 135,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000190426": 96,
+      "gas:candidate-vibid:372300266861": 12,
+      "gas:candidate-vibid:1001000217961": 89,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 781,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 30,
+      "gas:candidate-vibid:372300267023": 135,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6768,15 +6768,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 26,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 14,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 162,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 8,
-      "Шуюпова Людмила Ильинична": 34,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000190426": 26,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 14,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 162,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 8,
+      "gas:candidate-vibid:372300267023": 34,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6826,15 +6826,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 6,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 10,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 205,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190426": 6,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 10,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 205,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6884,15 +6884,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 46,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 43,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 427,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 54,
-      "Шуюпова Людмила Ильинична": 37,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000190426": 46,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 43,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 427,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 54,
+      "gas:candidate-vibid:372300267023": 37,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -6942,15 +6942,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 36,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 28,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 260,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 7,
-      "Шуюпова Людмила Ильинична": 33,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000190426": 36,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 28,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 260,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 7,
+      "gas:candidate-vibid:372300267023": 33,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7000,15 +7000,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 50,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 43,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 345,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 21,
-      "Шуюпова Людмила Ильинична": 49,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000190426": 50,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 43,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 345,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 21,
+      "gas:candidate-vibid:372300267023": 49,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7058,15 +7058,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 87,
-      "Коростиль Павел Васильевич": 12,
-      "Косенков Яков Алексеевич": 173,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 708,
-      "Третьяков Владимир Николаевич": 30,
-      "Трушников Александр Христофорович": 42,
-      "Шуюпова Людмила Ильинична": 175,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190426": 87,
+      "gas:candidate-vibid:372300266861": 12,
+      "gas:candidate-vibid:1001000217961": 173,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 708,
+      "gas:candidate-vibid:372300267030": 30,
+      "gas:candidate-vibid:1001000195155": 42,
+      "gas:candidate-vibid:372300267023": 175,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7116,15 +7116,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 10,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 3,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 85,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 8,
-      "Шуюпова Людмила Ильинична": 16,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190426": 10,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 3,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 85,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 8,
+      "gas:candidate-vibid:372300267023": 16,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7174,15 +7174,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 20,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 10,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 121,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 22,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000190426": 20,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 10,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 121,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 22,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7232,15 +7232,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 26,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 29,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 122,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 37,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000190426": 26,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 29,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 122,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 37,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7290,15 +7290,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 15,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 11,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 207,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 24,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190426": 15,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 11,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 207,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 24,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7348,15 +7348,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 13,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 17,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 203,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 22,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190426": 13,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 17,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 203,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 22,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7406,15 +7406,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 6,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 7,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 111,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190426": 6,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 7,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 111,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7464,15 +7464,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 5,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 4,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 76,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 11,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190426": 5,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 4,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 76,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 11,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7522,15 +7522,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 5,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 2,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 67,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190426": 5,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 2,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 67,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7580,15 +7580,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 21,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 20,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 84,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190426": 21,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 20,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 84,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7638,15 +7638,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 87,
-      "Коростиль Павел Васильевич": 13,
-      "Косенков Яков Алексеевич": 59,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 539,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 44,
-      "Шуюпова Людмила Ильинична": 115,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000190426": 87,
+      "gas:candidate-vibid:372300266861": 13,
+      "gas:candidate-vibid:1001000217961": 59,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 539,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 44,
+      "gas:candidate-vibid:372300267023": 115,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7696,15 +7696,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 10,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 9,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 66,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 10,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190426": 10,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 9,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 66,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 10,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7754,15 +7754,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 9,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 12,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 40,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190426": 9,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 12,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 40,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7812,15 +7812,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 55,
-      "Коростиль Павел Васильевич": 13,
-      "Косенков Яков Алексеевич": 163,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 395,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 40,
-      "Шуюпова Людмила Ильинична": 122,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000190426": 55,
+      "gas:candidate-vibid:372300266861": 13,
+      "gas:candidate-vibid:1001000217961": 163,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 395,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 40,
+      "gas:candidate-vibid:372300267023": 122,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7870,15 +7870,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 45,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 44,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 255,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 36,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000190426": 45,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 44,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 255,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 36,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7928,15 +7928,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 15,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 14,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 92,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 19,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190426": 15,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 14,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 92,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 19,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -7986,15 +7986,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 4,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 16,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 10,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 2,
-      "Шуюпова Людмила Ильинична": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190426": 4,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 16,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 10,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 2,
+      "gas:candidate-vibid:372300267023": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8044,15 +8044,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 43,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 17,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 257,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 11,
-      "Шуюпова Людмила Ильинична": 25,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000190426": 43,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 17,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 257,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 11,
+      "gas:candidate-vibid:372300267023": 25,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8102,15 +8102,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 50,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 27,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 190,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 14,
-      "Шуюпова Людмила Ильинична": 38,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190426": 50,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 27,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 190,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 14,
+      "gas:candidate-vibid:372300267023": 38,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8160,15 +8160,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 49,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 149,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 725,
-      "Третьяков Владимир Николаевич": 14,
-      "Трушников Александр Христофорович": 20,
-      "Шуюпова Людмила Ильинична": 50,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000190426": 49,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 149,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 725,
+      "gas:candidate-vibid:372300267030": 14,
+      "gas:candidate-vibid:1001000195155": 20,
+      "gas:candidate-vibid:372300267023": 50,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8218,15 +8218,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 10,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 21,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 235,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 15,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190426": 10,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 21,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 235,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 15,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8276,15 +8276,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 1,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 4,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 31,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190426": 1,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 4,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 31,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8334,15 +8334,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 6,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 5,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 73,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 0,
-      "Шуюпова Людмила Ильинична": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190426": 6,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 5,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 73,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 0,
+      "gas:candidate-vibid:372300267023": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8392,15 +8392,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 66,
-      "Коростиль Павел Васильевич": 15,
-      "Косенков Яков Алексеевич": 192,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 451,
-      "Третьяков Владимир Николаевич": 16,
-      "Трушников Александр Христофорович": 32,
-      "Шуюпова Людмила Ильинична": 107,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000190426": 66,
+      "gas:candidate-vibid:372300266861": 15,
+      "gas:candidate-vibid:1001000217961": 192,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 451,
+      "gas:candidate-vibid:372300267030": 16,
+      "gas:candidate-vibid:1001000195155": 32,
+      "gas:candidate-vibid:372300267023": 107,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8450,15 +8450,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 20,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 42,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 112,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 1,
-      "Шуюпова Людмила Ильинична": 20,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190426": 20,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 42,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 112,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 1,
+      "gas:candidate-vibid:372300267023": 20,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8508,15 +8508,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 11,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 29,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 45,
-      "Третьяков Владимир Николаевич": 1,
-      "Трушников Александр Христофорович": 4,
-      "Шуюпова Людмила Ильинична": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190426": 11,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 29,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 45,
+      "gas:candidate-vibid:372300267030": 1,
+      "gas:candidate-vibid:1001000195155": 4,
+      "gas:candidate-vibid:372300267023": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8566,15 +8566,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 12,
-      "Коростиль Павел Васильевич": 0,
-      "Косенков Яков Алексеевич": 67,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 62,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 3,
-      "Шуюпова Людмила Ильинична": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190426": 12,
+      "gas:candidate-vibid:372300266861": 0,
+      "gas:candidate-vibid:1001000217961": 67,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 62,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 3,
+      "gas:candidate-vibid:372300267023": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8624,15 +8624,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 9,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 19,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 110,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 10,
-      "Шуюпова Людмила Ильинична": 20,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190426": 9,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 19,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 110,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 10,
+      "gas:candidate-vibid:372300267023": 20,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8682,15 +8682,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 33,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 42,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 463,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 16,
-      "Шуюпова Людмила Ильинична": 33,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190426": 33,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 42,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 463,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 16,
+      "gas:candidate-vibid:372300267023": 33,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8740,15 +8740,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 15,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 17,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 165,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190426": 15,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 17,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 165,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266741&region=0&sub_region=0&type=429",
@@ -8798,15 +8798,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 67,
-      "Коростиль Павел Васильевич": 18,
-      "Косенков Яков Алексеевич": 23,
-      "Лукичев Вячеслав Федорович": 24,
-      "Райков Геннадий Иванович": 591,
-      "Третьяков Владимир Николаевич": 42,
-      "Трушников Александр Христофорович": 46,
-      "Шуюпова Людмила Ильинична": 32,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190426": 67,
+      "gas:candidate-vibid:372300266861": 18,
+      "gas:candidate-vibid:1001000217961": 23,
+      "gas:candidate-vibid:1001000338447": 24,
+      "gas:candidate-vibid:1001000131420": 591,
+      "gas:candidate-vibid:372300267030": 42,
+      "gas:candidate-vibid:1001000195155": 46,
+      "gas:candidate-vibid:372300267023": 32,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -8856,15 +8856,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 96,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 37,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 395,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 31,
-      "Шуюпова Людмила Ильинична": 63,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000190426": 96,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 37,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 395,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 31,
+      "gas:candidate-vibid:372300267023": 63,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -8914,15 +8914,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 118,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 44,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 493,
-      "Третьяков Владимир Николаевич": 24,
-      "Трушников Александр Христофорович": 38,
-      "Шуюпова Людмила Ильинична": 76,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190426": 118,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 44,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 493,
+      "gas:candidate-vibid:372300267030": 24,
+      "gas:candidate-vibid:1001000195155": 38,
+      "gas:candidate-vibid:372300267023": 76,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -8972,15 +8972,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 91,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 28,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 300,
-      "Третьяков Владимир Николаевич": 20,
-      "Трушников Александр Христофорович": 24,
-      "Шуюпова Людмила Ильинична": 66,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190426": 91,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 28,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 300,
+      "gas:candidate-vibid:372300267030": 20,
+      "gas:candidate-vibid:1001000195155": 24,
+      "gas:candidate-vibid:372300267023": 66,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9030,15 +9030,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 40,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 10,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 149,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 28,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000190426": 40,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 10,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 149,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 28,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9088,15 +9088,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 75,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 23,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 237,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 21,
-      "Шуюпова Людмила Ильинична": 54,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000190426": 75,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 23,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 237,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 21,
+      "gas:candidate-vibid:372300267023": 54,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9146,15 +9146,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 28,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 12,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 152,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 10,
-      "Шуюпова Людмила Ильинична": 17,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000190426": 28,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 12,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 152,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 10,
+      "gas:candidate-vibid:372300267023": 17,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9204,15 +9204,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 101,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 25,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 308,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 29,
-      "Шуюпова Людмила Ильинична": 72,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000190426": 101,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 25,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 308,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 29,
+      "gas:candidate-vibid:372300267023": 72,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9262,15 +9262,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 101,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 34,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 788,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 24,
-      "Шуюпова Людмила Ильинична": 79,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000190426": 101,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 34,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 788,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 24,
+      "gas:candidate-vibid:372300267023": 79,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9320,15 +9320,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 94,
-      "Коростиль Павел Васильевич": 15,
-      "Косенков Яков Алексеевич": 38,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 647,
-      "Третьяков Владимир Николаевич": 23,
-      "Трушников Александр Христофорович": 64,
-      "Шуюпова Людмила Ильинична": 214,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000190426": 94,
+      "gas:candidate-vibid:372300266861": 15,
+      "gas:candidate-vibid:1001000217961": 38,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 647,
+      "gas:candidate-vibid:372300267030": 23,
+      "gas:candidate-vibid:1001000195155": 64,
+      "gas:candidate-vibid:372300267023": 214,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9378,15 +9378,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 93,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 20,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 278,
-      "Третьяков Владимир Николаевич": 3,
-      "Трушников Александр Христофорович": 20,
-      "Шуюпова Людмила Ильинична": 67,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000190426": 93,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 20,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 278,
+      "gas:candidate-vibid:372300267030": 3,
+      "gas:candidate-vibid:1001000195155": 20,
+      "gas:candidate-vibid:372300267023": 67,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9436,15 +9436,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 62,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 16,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 295,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 7,
-      "Шуюпова Людмила Ильинична": 47,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000190426": 62,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 16,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 295,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 7,
+      "gas:candidate-vibid:372300267023": 47,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9494,15 +9494,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 132,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 38,
-      "Лукичев Вячеслав Федорович": 11,
-      "Райков Геннадий Иванович": 443,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 37,
-      "Шуюпова Людмила Ильинична": 93,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000190426": 132,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 38,
+      "gas:candidate-vibid:1001000338447": 11,
+      "gas:candidate-vibid:1001000131420": 443,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 37,
+      "gas:candidate-vibid:372300267023": 93,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9552,15 +9552,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 146,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 40,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 504,
-      "Третьяков Владимир Николаевич": 19,
-      "Трушников Александр Христофорович": 26,
-      "Шуюпова Людмила Ильинична": 127,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000190426": 146,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 40,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 504,
+      "gas:candidate-vibid:372300267030": 19,
+      "gas:candidate-vibid:1001000195155": 26,
+      "gas:candidate-vibid:372300267023": 127,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9610,15 +9610,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 150,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 48,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 590,
-      "Третьяков Владимир Николаевич": 17,
-      "Трушников Александр Христофорович": 42,
-      "Шуюпова Людмила Ильинична": 113,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000190426": 150,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 48,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 590,
+      "gas:candidate-vibid:372300267030": 17,
+      "gas:candidate-vibid:1001000195155": 42,
+      "gas:candidate-vibid:372300267023": 113,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9668,15 +9668,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 154,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 45,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 543,
-      "Третьяков Владимир Николаевич": 25,
-      "Трушников Александр Христофорович": 65,
-      "Шуюпова Людмила Ильинична": 108,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190426": 154,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 45,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 543,
+      "gas:candidate-vibid:372300267030": 25,
+      "gas:candidate-vibid:1001000195155": 65,
+      "gas:candidate-vibid:372300267023": 108,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9726,15 +9726,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 156,
-      "Коростиль Павел Васильевич": 14,
-      "Косенков Яков Алексеевич": 50,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 523,
-      "Третьяков Владимир Николаевич": 17,
-      "Трушников Александр Христофорович": 36,
-      "Шуюпова Людмила Ильинична": 72,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190426": 156,
+      "gas:candidate-vibid:372300266861": 14,
+      "gas:candidate-vibid:1001000217961": 50,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 523,
+      "gas:candidate-vibid:372300267030": 17,
+      "gas:candidate-vibid:1001000195155": 36,
+      "gas:candidate-vibid:372300267023": 72,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9784,15 +9784,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 147,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 71,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 617,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 40,
-      "Шуюпова Людмила Ильинична": 86,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190426": 147,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 71,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 617,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 40,
+      "gas:candidate-vibid:372300267023": 86,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9842,15 +9842,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 66,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 12,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 283,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 58,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000190426": 66,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 12,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 283,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 58,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9900,15 +9900,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 116,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 38,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 365,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 55,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000190426": 116,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 38,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 365,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 55,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -9958,15 +9958,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 52,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 19,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 192,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 11,
-      "Шуюпова Людмила Ильинична": 37,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000190426": 52,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 19,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 192,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 11,
+      "gas:candidate-vibid:372300267023": 37,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10016,15 +10016,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 53,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 17,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 274,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 20,
-      "Шуюпова Людмила Ильинична": 34,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000190426": 53,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 17,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 274,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 20,
+      "gas:candidate-vibid:372300267023": 34,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10074,15 +10074,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 53,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 11,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 167,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 19,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000190426": 53,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 11,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 167,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 19,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10132,15 +10132,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 20,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 9,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 137,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 17,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190426": 20,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 9,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 137,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 17,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10190,15 +10190,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 79,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 14,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 302,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 16,
-      "Шуюпова Людмила Ильинична": 44,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190426": 79,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 14,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 302,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 16,
+      "gas:candidate-vibid:372300267023": 44,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10248,15 +10248,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 95,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 24,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 390,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 18,
-      "Шуюпова Людмила Ильинична": 53,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000190426": 95,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 24,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 390,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 18,
+      "gas:candidate-vibid:372300267023": 53,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10306,15 +10306,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 113,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 33,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 373,
-      "Третьяков Владимир Николаевич": 16,
-      "Трушников Александр Христофорович": 17,
-      "Шуюпова Людмила Ильинична": 75,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190426": 113,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 33,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 373,
+      "gas:candidate-vibid:372300267030": 16,
+      "gas:candidate-vibid:1001000195155": 17,
+      "gas:candidate-vibid:372300267023": 75,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10364,15 +10364,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 64,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 23,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 318,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 25,
-      "Шуюпова Людмила Ильинична": 38,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000190426": 64,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 23,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 318,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 25,
+      "gas:candidate-vibid:372300267023": 38,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10422,15 +10422,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 80,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 11,
-      "Лукичев Вячеслав Федорович": 11,
-      "Райков Геннадий Иванович": 230,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 20,
-      "Шуюпова Людмила Ильинична": 38,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190426": 80,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 11,
+      "gas:candidate-vibid:1001000338447": 11,
+      "gas:candidate-vibid:1001000131420": 230,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 20,
+      "gas:candidate-vibid:372300267023": 38,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10480,15 +10480,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 119,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 38,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 394,
-      "Третьяков Владимир Николаевич": 16,
-      "Трушников Александр Христофорович": 44,
-      "Шуюпова Людмила Ильинична": 100,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190426": 119,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 38,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 394,
+      "gas:candidate-vibid:372300267030": 16,
+      "gas:candidate-vibid:1001000195155": 44,
+      "gas:candidate-vibid:372300267023": 100,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10538,15 +10538,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 119,
-      "Коростиль Павел Васильевич": 15,
-      "Косенков Яков Алексеевич": 21,
-      "Лукичев Вячеслав Федорович": 11,
-      "Райков Геннадий Иванович": 358,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 49,
-      "Шуюпова Людмила Ильинична": 70,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000190426": 119,
+      "gas:candidate-vibid:372300266861": 15,
+      "gas:candidate-vibid:1001000217961": 21,
+      "gas:candidate-vibid:1001000338447": 11,
+      "gas:candidate-vibid:1001000131420": 358,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 49,
+      "gas:candidate-vibid:372300267023": 70,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10596,15 +10596,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 99,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 29,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 1112,
-      "Третьяков Владимир Николаевич": 36,
-      "Трушников Александр Христофорович": 38,
-      "Шуюпова Людмила Ильинична": 69,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000190426": 99,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 29,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 1112,
+      "gas:candidate-vibid:372300267030": 36,
+      "gas:candidate-vibid:1001000195155": 38,
+      "gas:candidate-vibid:372300267023": 69,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10654,15 +10654,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 121,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 54,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 584,
-      "Третьяков Владимир Николаевич": 14,
-      "Трушников Александр Христофорович": 47,
-      "Шуюпова Людмила Ильинична": 126,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000190426": 121,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 54,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 584,
+      "gas:candidate-vibid:372300267030": 14,
+      "gas:candidate-vibid:1001000195155": 47,
+      "gas:candidate-vibid:372300267023": 126,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10712,15 +10712,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 106,
-      "Коростиль Павел Васильевич": 12,
-      "Косенков Яков Алексеевич": 44,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 516,
-      "Третьяков Владимир Николаевич": 16,
-      "Трушников Александр Христофорович": 29,
-      "Шуюпова Людмила Ильинична": 107,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000190426": 106,
+      "gas:candidate-vibid:372300266861": 12,
+      "gas:candidate-vibid:1001000217961": 44,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 516,
+      "gas:candidate-vibid:372300267030": 16,
+      "gas:candidate-vibid:1001000195155": 29,
+      "gas:candidate-vibid:372300267023": 107,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10770,15 +10770,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 60,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 16,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 225,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 12,
-      "Шуюпова Людмила Ильинична": 37,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190426": 60,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 16,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 225,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 12,
+      "gas:candidate-vibid:372300267023": 37,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10828,15 +10828,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 76,
-      "Коростиль Павел Васильевич": 13,
-      "Косенков Яков Алексеевич": 25,
-      "Лукичев Вячеслав Федорович": 3,
-      "Райков Геннадий Иванович": 298,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 33,
-      "Шуюпова Людмила Ильинична": 75,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190426": 76,
+      "gas:candidate-vibid:372300266861": 13,
+      "gas:candidate-vibid:1001000217961": 25,
+      "gas:candidate-vibid:1001000338447": 3,
+      "gas:candidate-vibid:1001000131420": 298,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 33,
+      "gas:candidate-vibid:372300267023": 75,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10886,15 +10886,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 63,
-      "Коростиль Павел Васильевич": 16,
-      "Косенков Яков Алексеевич": 18,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 222,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 30,
-      "Шуюпова Людмила Ильинична": 48,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190426": 63,
+      "gas:candidate-vibid:372300266861": 16,
+      "gas:candidate-vibid:1001000217961": 18,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 222,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 30,
+      "gas:candidate-vibid:372300267023": 48,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -10944,15 +10944,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 64,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 16,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 195,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 14,
-      "Шуюпова Людмила Ильинична": 46,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000190426": 64,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 16,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 195,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 14,
+      "gas:candidate-vibid:372300267023": 46,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11002,15 +11002,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 137,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 25,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 369,
-      "Третьяков Владимир Николаевич": 14,
-      "Трушников Александр Христофорович": 40,
-      "Шуюпова Людмила Ильинична": 113,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000190426": 137,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 25,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 369,
+      "gas:candidate-vibid:372300267030": 14,
+      "gas:candidate-vibid:1001000195155": 40,
+      "gas:candidate-vibid:372300267023": 113,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11060,15 +11060,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 75,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 22,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 245,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 37,
-      "Шуюпова Людмила Ильинична": 59,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190426": 75,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 22,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 245,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 37,
+      "gas:candidate-vibid:372300267023": 59,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11118,15 +11118,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 47,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 15,
-      "Лукичев Вячеслав Федорович": 1,
-      "Райков Геннадий Иванович": 182,
-      "Третьяков Владимир Николаевич": 4,
-      "Трушников Александр Христофорович": 18,
-      "Шуюпова Людмила Ильинична": 36,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000190426": 47,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 15,
+      "gas:candidate-vibid:1001000338447": 1,
+      "gas:candidate-vibid:1001000131420": 182,
+      "gas:candidate-vibid:372300267030": 4,
+      "gas:candidate-vibid:1001000195155": 18,
+      "gas:candidate-vibid:372300267023": 36,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11176,15 +11176,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 78,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 50,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 452,
-      "Третьяков Владимир Николаевич": 21,
-      "Трушников Александр Христофорович": 27,
-      "Шуюпова Людмила Ильинична": 97,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000190426": 78,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 50,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 452,
+      "gas:candidate-vibid:372300267030": 21,
+      "gas:candidate-vibid:1001000195155": 27,
+      "gas:candidate-vibid:372300267023": 97,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11234,15 +11234,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 94,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 41,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 347,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 22,
-      "Шуюпова Людмила Ильинична": 80,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190426": 94,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 41,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 347,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 22,
+      "gas:candidate-vibid:372300267023": 80,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11292,15 +11292,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 66,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 17,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 275,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 35,
-      "Шуюпова Людмила Ильинична": 58,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000190426": 66,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 17,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 275,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 35,
+      "gas:candidate-vibid:372300267023": 58,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11350,15 +11350,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 64,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 30,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 250,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 22,
-      "Шуюпова Людмила Ильинична": 43,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000190426": 64,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 30,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 250,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 22,
+      "gas:candidate-vibid:372300267023": 43,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11408,15 +11408,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 158,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 26,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 415,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 41,
-      "Шуюпова Людмила Ильинична": 65,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190426": 158,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 26,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 415,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 41,
+      "gas:candidate-vibid:372300267023": 65,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11466,15 +11466,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 143,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 57,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 500,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 46,
-      "Шуюпова Людмила Ильинична": 101,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000190426": 143,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 57,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 500,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 46,
+      "gas:candidate-vibid:372300267023": 101,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11524,15 +11524,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 84,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 24,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 262,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 19,
-      "Шуюпова Людмила Ильинична": 46,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190426": 84,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 24,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 262,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 19,
+      "gas:candidate-vibid:372300267023": 46,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11582,15 +11582,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 162,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 52,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 515,
-      "Третьяков Владимир Николаевич": 20,
-      "Трушников Александр Христофорович": 34,
-      "Шуюпова Людмила Ильинична": 91,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000190426": 162,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 52,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 515,
+      "gas:candidate-vibid:372300267030": 20,
+      "gas:candidate-vibid:1001000195155": 34,
+      "gas:candidate-vibid:372300267023": 91,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11640,15 +11640,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 160,
-      "Коростиль Павел Васильевич": 14,
-      "Косенков Яков Алексеевич": 54,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 572,
-      "Третьяков Владимир Николаевич": 17,
-      "Трушников Александр Христофорович": 35,
-      "Шуюпова Людмила Ильинична": 137,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000190426": 160,
+      "gas:candidate-vibid:372300266861": 14,
+      "gas:candidate-vibid:1001000217961": 54,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 572,
+      "gas:candidate-vibid:372300267030": 17,
+      "gas:candidate-vibid:1001000195155": 35,
+      "gas:candidate-vibid:372300267023": 137,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11698,15 +11698,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 135,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 53,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 525,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 37,
-      "Шуюпова Людмила Ильинична": 111,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000190426": 135,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 53,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 525,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 37,
+      "gas:candidate-vibid:372300267023": 111,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11756,15 +11756,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 147,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 44,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 566,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 21,
-      "Шуюпова Людмила Ильинична": 127,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000190426": 147,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 44,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 566,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 21,
+      "gas:candidate-vibid:372300267023": 127,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11814,15 +11814,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 131,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 33,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 456,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 91,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000190426": 131,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 33,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 456,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 91,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11872,15 +11872,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 112,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 19,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 418,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 114,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000190426": 112,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 19,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 418,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 114,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11930,15 +11930,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 145,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 45,
-      "Лукичев Вячеслав Федорович": 21,
-      "Райков Геннадий Иванович": 522,
-      "Третьяков Владимир Николаевич": 25,
-      "Трушников Александр Христофорович": 24,
-      "Шуюпова Людмила Ильинична": 135,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000190426": 145,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 45,
+      "gas:candidate-vibid:1001000338447": 21,
+      "gas:candidate-vibid:1001000131420": 522,
+      "gas:candidate-vibid:372300267030": 25,
+      "gas:candidate-vibid:1001000195155": 24,
+      "gas:candidate-vibid:372300267023": 135,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -11988,15 +11988,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 131,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 39,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 471,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 39,
-      "Шуюпова Людмила Ильинична": 113,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000190426": 131,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 39,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 471,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 39,
+      "gas:candidate-vibid:372300267023": 113,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12046,15 +12046,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 145,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 42,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 504,
-      "Третьяков Владимир Николаевич": 23,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 103,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000190426": 145,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 42,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 504,
+      "gas:candidate-vibid:372300267030": 23,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 103,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12104,15 +12104,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 130,
-      "Коростиль Павел Васильевич": 12,
-      "Косенков Яков Алексеевич": 30,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 420,
-      "Третьяков Владимир Николаевич": 16,
-      "Трушников Александр Христофорович": 24,
-      "Шуюпова Людмила Ильинична": 123,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190426": 130,
+      "gas:candidate-vibid:372300266861": 12,
+      "gas:candidate-vibid:1001000217961": 30,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 420,
+      "gas:candidate-vibid:372300267030": 16,
+      "gas:candidate-vibid:1001000195155": 24,
+      "gas:candidate-vibid:372300267023": 123,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12162,15 +12162,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 47,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 16,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 233,
-      "Третьяков Владимир Николаевич": 5,
-      "Трушников Александр Христофорович": 15,
-      "Шуюпова Людмила Ильинична": 47,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000190426": 47,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 16,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 233,
+      "gas:candidate-vibid:372300267030": 5,
+      "gas:candidate-vibid:1001000195155": 15,
+      "gas:candidate-vibid:372300267023": 47,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12220,15 +12220,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 38,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 13,
-      "Лукичев Вячеслав Федорович": 5,
-      "Райков Геннадий Иванович": 212,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 6,
-      "Шуюпова Людмила Ильинична": 31,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190426": 38,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 13,
+      "gas:candidate-vibid:1001000338447": 5,
+      "gas:candidate-vibid:1001000131420": 212,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 6,
+      "gas:candidate-vibid:372300267023": 31,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12278,15 +12278,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 30,
-      "Коростиль Павел Васильевич": 2,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 0,
-      "Райков Геннадий Иванович": 117,
-      "Третьяков Владимир Николаевич": 0,
-      "Трушников Александр Христофорович": 5,
-      "Шуюпова Людмила Ильинична": 21,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000190426": 30,
+      "gas:candidate-vibid:372300266861": 2,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 0,
+      "gas:candidate-vibid:1001000131420": 117,
+      "gas:candidate-vibid:372300267030": 0,
+      "gas:candidate-vibid:1001000195155": 5,
+      "gas:candidate-vibid:372300267023": 21,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12336,15 +12336,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 95,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 23,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 320,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 22,
-      "Шуюпова Людмила Ильинична": 78,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000190426": 95,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 23,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 320,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 22,
+      "gas:candidate-vibid:372300267023": 78,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12394,15 +12394,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 54,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 18,
-      "Лукичев Вячеслав Федорович": 8,
-      "Райков Геннадий Иванович": 262,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 51,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000190426": 54,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 18,
+      "gas:candidate-vibid:1001000338447": 8,
+      "gas:candidate-vibid:1001000131420": 262,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 51,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12452,15 +12452,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 67,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 35,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 417,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 21,
-      "Шуюпова Людмила Ильинична": 39,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190426": 67,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 35,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 417,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 21,
+      "gas:candidate-vibid:372300267023": 39,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12510,15 +12510,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 32,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 21,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 131,
-      "Третьяков Владимир Николаевич": 2,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 16,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000190426": 32,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 21,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 131,
+      "gas:candidate-vibid:372300267030": 2,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 16,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12568,15 +12568,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 119,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 37,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 447,
-      "Третьяков Владимир Николаевич": 10,
-      "Трушников Александр Христофорович": 25,
-      "Шуюпова Людмила Ильинична": 92,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000190426": 119,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 37,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 447,
+      "gas:candidate-vibid:372300267030": 10,
+      "gas:candidate-vibid:1001000195155": 25,
+      "gas:candidate-vibid:372300267023": 92,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12626,15 +12626,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 97,
-      "Коростиль Павел Васильевич": 12,
-      "Косенков Яков Алексеевич": 38,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 412,
-      "Третьяков Владимир Николаевич": 17,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 114,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000190426": 97,
+      "gas:candidate-vibid:372300266861": 12,
+      "gas:candidate-vibid:1001000217961": 38,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 412,
+      "gas:candidate-vibid:372300267030": 17,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 114,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266742&region=0&sub_region=0&type=429",
@@ -12684,15 +12684,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 163,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 40,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 514,
-      "Третьяков Владимир Николаевич": 16,
-      "Трушников Александр Христофорович": 34,
-      "Шуюпова Людмила Ильинична": 130,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000190426": 163,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 40,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 514,
+      "gas:candidate-vibid:372300267030": 16,
+      "gas:candidate-vibid:1001000195155": 34,
+      "gas:candidate-vibid:372300267023": 130,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -12742,15 +12742,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 128,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 39,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 565,
-      "Третьяков Владимир Николаевич": 17,
-      "Трушников Александр Христофорович": 39,
-      "Шуюпова Людмила Ильинична": 153,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000190426": 128,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 39,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 565,
+      "gas:candidate-vibid:372300267030": 17,
+      "gas:candidate-vibid:1001000195155": 39,
+      "gas:candidate-vibid:372300267023": 153,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -12800,15 +12800,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 94,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 23,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 441,
-      "Третьяков Владимир Николаевич": 8,
-      "Трушников Александр Христофорович": 20,
-      "Шуюпова Людмила Ильинична": 77,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000190426": 94,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 23,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 441,
+      "gas:candidate-vibid:372300267030": 8,
+      "gas:candidate-vibid:1001000195155": 20,
+      "gas:candidate-vibid:372300267023": 77,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -12858,15 +12858,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 187,
-      "Коростиль Павел Васильевич": 14,
-      "Косенков Яков Алексеевич": 45,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 533,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 20,
-      "Шуюпова Людмила Ильинична": 164,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000190426": 187,
+      "gas:candidate-vibid:372300266861": 14,
+      "gas:candidate-vibid:1001000217961": 45,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 533,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 20,
+      "gas:candidate-vibid:372300267023": 164,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -12916,15 +12916,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 69,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 20,
-      "Лукичев Вячеслав Федорович": 4,
-      "Райков Геннадий Иванович": 320,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 18,
-      "Шуюпова Людмила Ильинична": 56,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190426": 69,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 20,
+      "gas:candidate-vibid:1001000338447": 4,
+      "gas:candidate-vibid:1001000131420": 320,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 18,
+      "gas:candidate-vibid:372300267023": 56,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -12974,15 +12974,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 139,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 24,
-      "Лукичев Вячеслав Федорович": 17,
-      "Райков Геннадий Иванович": 592,
-      "Третьяков Владимир Николаевич": 23,
-      "Трушников Александр Христофорович": 23,
-      "Шуюпова Людмила Ильинична": 104,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000190426": 139,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 24,
+      "gas:candidate-vibid:1001000338447": 17,
+      "gas:candidate-vibid:1001000131420": 592,
+      "gas:candidate-vibid:372300267030": 23,
+      "gas:candidate-vibid:1001000195155": 23,
+      "gas:candidate-vibid:372300267023": 104,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13032,15 +13032,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 124,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 36,
-      "Лукичев Вячеслав Федорович": 12,
-      "Райков Геннадий Иванович": 714,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 31,
-      "Шуюпова Людмила Ильинична": 112,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000190426": 124,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 36,
+      "gas:candidate-vibid:1001000338447": 12,
+      "gas:candidate-vibid:1001000131420": 714,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 31,
+      "gas:candidate-vibid:372300267023": 112,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13090,15 +13090,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 87,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 18,
-      "Лукичев Вячеслав Федорович": 11,
-      "Райков Геннадий Иванович": 582,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 17,
-      "Шуюпова Людмила Ильинична": 67,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000190426": 87,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 18,
+      "gas:candidate-vibid:1001000338447": 11,
+      "gas:candidate-vibid:1001000131420": 582,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 17,
+      "gas:candidate-vibid:372300267023": 67,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13148,15 +13148,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 141,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 39,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 530,
-      "Третьяков Владимир Николаевич": 17,
-      "Трушников Александр Христофорович": 34,
-      "Шуюпова Людмила Ильинична": 130,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190426": 141,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 39,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 530,
+      "gas:candidate-vibid:372300267030": 17,
+      "gas:candidate-vibid:1001000195155": 34,
+      "gas:candidate-vibid:372300267023": 130,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13206,15 +13206,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 173,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 77,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 624,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 50,
-      "Шуюпова Людмила Ильинична": 146,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000190426": 173,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 77,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 624,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 50,
+      "gas:candidate-vibid:372300267023": 146,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13264,15 +13264,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 139,
-      "Коростиль Павел Васильевич": 7,
-      "Косенков Яков Алексеевич": 33,
-      "Лукичев Вячеслав Федорович": 21,
-      "Райков Геннадий Иванович": 512,
-      "Третьяков Владимир Николаевич": 14,
-      "Трушников Александр Христофорович": 35,
-      "Шуюпова Людмила Ильинична": 118,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000190426": 139,
+      "gas:candidate-vibid:372300266861": 7,
+      "gas:candidate-vibid:1001000217961": 33,
+      "gas:candidate-vibid:1001000338447": 21,
+      "gas:candidate-vibid:1001000131420": 512,
+      "gas:candidate-vibid:372300267030": 14,
+      "gas:candidate-vibid:1001000195155": 35,
+      "gas:candidate-vibid:372300267023": 118,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13322,15 +13322,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 119,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 34,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 610,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 43,
-      "Шуюпова Людмила Ильинична": 132,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000190426": 119,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 34,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 610,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 43,
+      "gas:candidate-vibid:372300267023": 132,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13380,15 +13380,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 58,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 27,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 231,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 9,
-      "Шуюпова Людмила Ильинична": 67,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190426": 58,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 27,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 231,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 9,
+      "gas:candidate-vibid:372300267023": 67,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13438,15 +13438,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 95,
-      "Коростиль Павел Васильевич": 8,
-      "Косенков Яков Алексеевич": 23,
-      "Лукичев Вячеслав Федорович": 19,
-      "Райков Геннадий Иванович": 471,
-      "Третьяков Владимир Николаевич": 12,
-      "Трушников Александр Христофорович": 26,
-      "Шуюпова Людмила Ильинична": 105,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000190426": 95,
+      "gas:candidate-vibid:372300266861": 8,
+      "gas:candidate-vibid:1001000217961": 23,
+      "gas:candidate-vibid:1001000338447": 19,
+      "gas:candidate-vibid:1001000131420": 471,
+      "gas:candidate-vibid:372300267030": 12,
+      "gas:candidate-vibid:1001000195155": 26,
+      "gas:candidate-vibid:372300267023": 105,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13496,15 +13496,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 99,
-      "Коростиль Павел Васильевич": 4,
-      "Косенков Яков Алексеевич": 23,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 334,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 17,
-      "Шуюпова Людмила Ильинична": 90,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000190426": 99,
+      "gas:candidate-vibid:372300266861": 4,
+      "gas:candidate-vibid:1001000217961": 23,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 334,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 17,
+      "gas:candidate-vibid:372300267023": 90,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13554,15 +13554,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 128,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 46,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 575,
-      "Третьяков Владимир Николаевич": 17,
-      "Трушников Александр Христофорович": 39,
-      "Шуюпова Людмила Ильинична": 93,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000190426": 128,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 46,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 575,
+      "gas:candidate-vibid:372300267030": 17,
+      "gas:candidate-vibid:1001000195155": 39,
+      "gas:candidate-vibid:372300267023": 93,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13612,15 +13612,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 92,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 25,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 445,
-      "Третьяков Владимир Николаевич": 6,
-      "Трушников Александр Христофорович": 20,
-      "Шуюпова Людмила Ильинична": 88,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000190426": 92,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 25,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 445,
+      "gas:candidate-vibid:372300267030": 6,
+      "gas:candidate-vibid:1001000195155": 20,
+      "gas:candidate-vibid:372300267023": 88,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13670,15 +13670,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 173,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 38,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 628,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 29,
-      "Шуюпова Людмила Ильинична": 111,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000190426": 173,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 38,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 628,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 29,
+      "gas:candidate-vibid:372300267023": 111,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13728,15 +13728,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 87,
-      "Коростиль Павел Васильевич": 9,
-      "Косенков Яков Алексеевич": 17,
-      "Лукичев Вячеслав Федорович": 9,
-      "Райков Геннадий Иванович": 338,
-      "Третьяков Владимир Николаевич": 7,
-      "Трушников Александр Христофорович": 13,
-      "Шуюпова Людмила Ильинична": 85,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000190426": 87,
+      "gas:candidate-vibid:372300266861": 9,
+      "gas:candidate-vibid:1001000217961": 17,
+      "gas:candidate-vibid:1001000338447": 9,
+      "gas:candidate-vibid:1001000131420": 338,
+      "gas:candidate-vibid:372300267030": 7,
+      "gas:candidate-vibid:1001000195155": 13,
+      "gas:candidate-vibid:372300267023": 85,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13786,15 +13786,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 134,
-      "Коростиль Павел Васильевич": 12,
-      "Косенков Яков Алексеевич": 46,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 475,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 58,
-      "Шуюпова Людмила Ильинична": 87,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000190426": 134,
+      "gas:candidate-vibid:372300266861": 12,
+      "gas:candidate-vibid:1001000217961": 46,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 475,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 58,
+      "gas:candidate-vibid:372300267023": 87,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13844,15 +13844,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 107,
-      "Коростиль Павел Васильевич": 5,
-      "Косенков Яков Алексеевич": 36,
-      "Лукичев Вячеслав Федорович": 13,
-      "Райков Геннадий Иванович": 376,
-      "Третьяков Владимир Николаевич": 14,
-      "Трушников Александр Христофорович": 40,
-      "Шуюпова Людмила Ильинична": 85,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000190426": 107,
+      "gas:candidate-vibid:372300266861": 5,
+      "gas:candidate-vibid:1001000217961": 36,
+      "gas:candidate-vibid:1001000338447": 13,
+      "gas:candidate-vibid:1001000131420": 376,
+      "gas:candidate-vibid:372300267030": 14,
+      "gas:candidate-vibid:1001000195155": 40,
+      "gas:candidate-vibid:372300267023": 85,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13902,15 +13902,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 115,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 24,
-      "Лукичев Вячеслав Федорович": 6,
-      "Райков Геннадий Иванович": 464,
-      "Третьяков Владимир Николаевич": 9,
-      "Трушников Александр Христофорович": 38,
-      "Шуюпова Людмила Ильинична": 94,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000190426": 115,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 24,
+      "gas:candidate-vibid:1001000338447": 6,
+      "gas:candidate-vibid:1001000131420": 464,
+      "gas:candidate-vibid:372300267030": 9,
+      "gas:candidate-vibid:1001000195155": 38,
+      "gas:candidate-vibid:372300267023": 94,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -13960,15 +13960,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 44,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 8,
-      "Лукичев Вячеслав Федорович": 2,
-      "Райков Геннадий Иванович": 222,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 25,
-      "Шуюпова Людмила Ильинична": 61,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000190426": 44,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 8,
+      "gas:candidate-vibid:1001000338447": 2,
+      "gas:candidate-vibid:1001000131420": 222,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 25,
+      "gas:candidate-vibid:372300267023": 61,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14018,15 +14018,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 162,
-      "Коростиль Павел Васильевич": 3,
-      "Косенков Яков Алексеевич": 33,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 550,
-      "Третьяков Владимир Николаевич": 19,
-      "Трушников Александр Христофорович": 32,
-      "Шуюпова Людмила Ильинична": 138,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000190426": 162,
+      "gas:candidate-vibid:372300266861": 3,
+      "gas:candidate-vibid:1001000217961": 33,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 550,
+      "gas:candidate-vibid:372300267030": 19,
+      "gas:candidate-vibid:1001000195155": 32,
+      "gas:candidate-vibid:372300267023": 138,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14076,15 +14076,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 146,
-      "Коростиль Павел Васильевич": 1,
-      "Косенков Яков Алексеевич": 32,
-      "Лукичев Вячеслав Федорович": 7,
-      "Райков Геннадий Иванович": 450,
-      "Третьяков Владимир Николаевич": 13,
-      "Трушников Александр Христофорович": 29,
-      "Шуюпова Людмила Ильинична": 132,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000190426": 146,
+      "gas:candidate-vibid:372300266861": 1,
+      "gas:candidate-vibid:1001000217961": 32,
+      "gas:candidate-vibid:1001000338447": 7,
+      "gas:candidate-vibid:1001000131420": 450,
+      "gas:candidate-vibid:372300267030": 13,
+      "gas:candidate-vibid:1001000195155": 29,
+      "gas:candidate-vibid:372300267023": 132,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14134,15 +14134,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 124,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 46,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 614,
-      "Третьяков Владимир Николаевич": 33,
-      "Трушников Александр Христофорович": 28,
-      "Шуюпова Людмила Ильинична": 137,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000190426": 124,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 46,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 614,
+      "gas:candidate-vibid:372300267030": 33,
+      "gas:candidate-vibid:1001000195155": 28,
+      "gas:candidate-vibid:372300267023": 137,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14192,15 +14192,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 162,
-      "Коростиль Павел Васильевич": 6,
-      "Косенков Яков Алексеевич": 43,
-      "Лукичев Вячеслав Федорович": 15,
-      "Райков Геннадий Иванович": 598,
-      "Третьяков Владимир Николаевич": 21,
-      "Трушников Александр Христофорович": 40,
-      "Шуюпова Людмила Ильинична": 137,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000190426": 162,
+      "gas:candidate-vibid:372300266861": 6,
+      "gas:candidate-vibid:1001000217961": 43,
+      "gas:candidate-vibid:1001000338447": 15,
+      "gas:candidate-vibid:1001000131420": 598,
+      "gas:candidate-vibid:372300267030": 21,
+      "gas:candidate-vibid:1001000195155": 40,
+      "gas:candidate-vibid:372300267023": 137,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14250,15 +14250,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 159,
-      "Коростиль Павел Васильевич": 22,
-      "Косенков Яков Алексеевич": 42,
-      "Лукичев Вячеслав Федорович": 10,
-      "Райков Геннадий Иванович": 629,
-      "Третьяков Владимир Николаевич": 11,
-      "Трушников Александр Христофорович": 31,
-      "Шуюпова Людмила Ильинична": 120,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000190426": 159,
+      "gas:candidate-vibid:372300266861": 22,
+      "gas:candidate-vibid:1001000217961": 42,
+      "gas:candidate-vibid:1001000338447": 10,
+      "gas:candidate-vibid:1001000131420": 629,
+      "gas:candidate-vibid:372300267030": 11,
+      "gas:candidate-vibid:1001000195155": 31,
+      "gas:candidate-vibid:372300267023": 120,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14308,15 +14308,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 162,
-      "Коростиль Павел Васильевич": 10,
-      "Косенков Яков Алексеевич": 45,
-      "Лукичев Вячеслав Федорович": 21,
-      "Райков Геннадий Иванович": 542,
-      "Третьяков Владимир Николаевич": 21,
-      "Трушников Александр Христофорович": 40,
-      "Шуюпова Людмила Ильинична": 148,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000190426": 162,
+      "gas:candidate-vibid:372300266861": 10,
+      "gas:candidate-vibid:1001000217961": 45,
+      "gas:candidate-vibid:1001000338447": 21,
+      "gas:candidate-vibid:1001000131420": 542,
+      "gas:candidate-vibid:372300267030": 21,
+      "gas:candidate-vibid:1001000195155": 40,
+      "gas:candidate-vibid:372300267023": 148,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14366,15 +14366,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 164,
-      "Коростиль Павел Васильевич": 11,
-      "Косенков Яков Алексеевич": 52,
-      "Лукичев Вячеслав Федорович": 16,
-      "Райков Геннадий Иванович": 537,
-      "Третьяков Владимир Николаевич": 15,
-      "Трушников Александр Христофорович": 24,
-      "Шуюпова Людмила Ильинична": 151,
-      "Против всех": 423
+      "gas:candidate-vibid:1001000190426": 164,
+      "gas:candidate-vibid:372300266861": 11,
+      "gas:candidate-vibid:1001000217961": 52,
+      "gas:candidate-vibid:1001000338447": 16,
+      "gas:candidate-vibid:1001000131420": 537,
+      "gas:candidate-vibid:372300267030": 15,
+      "gas:candidate-vibid:1001000195155": 24,
+      "gas:candidate-vibid:372300267023": 151,
+      "special:against-all": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",
@@ -14424,15 +14424,15 @@ export const duma_2003_uik_428_region_72_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багин Валерий Андреевич": 208,
-      "Коростиль Павел Васильевич": 14,
-      "Косенков Яков Алексеевич": 40,
-      "Лукичев Вячеслав Федорович": 14,
-      "Райков Геннадий Иванович": 479,
-      "Третьяков Владимир Николаевич": 18,
-      "Трушников Александр Христофорович": 36,
-      "Шуюпова Людмила Ильинична": 147,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000190426": 208,
+      "gas:candidate-vibid:372300266861": 14,
+      "gas:candidate-vibid:1001000217961": 40,
+      "gas:candidate-vibid:1001000338447": 14,
+      "gas:candidate-vibid:1001000131420": 479,
+      "gas:candidate-vibid:372300267030": 18,
+      "gas:candidate-vibid:1001000195155": 36,
+      "gas:candidate-vibid:372300267023": 147,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300266743&region=0&sub_region=0&type=429",

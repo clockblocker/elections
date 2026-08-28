@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 68,
-      "Колесов Евгений Викторович": 113,
-      "Лукашевич Вадим Павлович": 35,
-      "Лысаков Вячеслав Иванович": 198,
-      "Минеева Татьяна Вадимовна": 50,
-      "Михайлова Юлия Борисовна": 128,
-      "Николаев Игорь Алексеевич": 157,
-      "Нилов Ярослав Евгеньевич": 54
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 68,
+      "gas:candidate-vibid:4774031124806": 113,
+      "gas:candidate-vibid:4774031125084": 35,
+      "gas:candidate-vibid:4774031124713": 198,
+      "gas:candidate-vibid:4774031124986": 50,
+      "gas:candidate-vibid:4774031124741": 128,
+      "gas:candidate-vibid:4774031124963": 157,
+      "gas:candidate-vibid:4774031124405": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 85,
-      "Лукашевич Вадим Павлович": 42,
-      "Лысаков Вячеслав Иванович": 213,
-      "Минеева Татьяна Вадимовна": 33,
-      "Михайлова Юлия Борисовна": 100,
-      "Николаев Игорь Алексеевич": 142,
-      "Нилов Ярослав Евгеньевич": 74
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 85,
+      "gas:candidate-vibid:4774031125084": 42,
+      "gas:candidate-vibid:4774031124713": 213,
+      "gas:candidate-vibid:4774031124986": 33,
+      "gas:candidate-vibid:4774031124741": 100,
+      "gas:candidate-vibid:4774031124963": 142,
+      "gas:candidate-vibid:4774031124405": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 76,
-      "Колесов Евгений Викторович": 72,
-      "Лукашевич Вадим Павлович": 30,
-      "Лысаков Вячеслав Иванович": 210,
-      "Минеева Татьяна Вадимовна": 58,
-      "Михайлова Юлия Борисовна": 115,
-      "Николаев Игорь Алексеевич": 138,
-      "Нилов Ярослав Евгеньевич": 64
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 76,
+      "gas:candidate-vibid:4774031124806": 72,
+      "gas:candidate-vibid:4774031125084": 30,
+      "gas:candidate-vibid:4774031124713": 210,
+      "gas:candidate-vibid:4774031124986": 58,
+      "gas:candidate-vibid:4774031124741": 115,
+      "gas:candidate-vibid:4774031124963": 138,
+      "gas:candidate-vibid:4774031124405": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 41,
-      "Колесов Евгений Викторович": 35,
-      "Лукашевич Вадим Павлович": 11,
-      "Лысаков Вячеслав Иванович": 121,
-      "Минеева Татьяна Вадимовна": 11,
-      "Михайлова Юлия Борисовна": 61,
-      "Николаев Игорь Алексеевич": 63,
-      "Нилов Ярослав Евгеньевич": 27
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 41,
+      "gas:candidate-vibid:4774031124806": 35,
+      "gas:candidate-vibid:4774031125084": 11,
+      "gas:candidate-vibid:4774031124713": 121,
+      "gas:candidate-vibid:4774031124986": 11,
+      "gas:candidate-vibid:4774031124741": 61,
+      "gas:candidate-vibid:4774031124963": 63,
+      "gas:candidate-vibid:4774031124405": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 53,
-      "Колесов Евгений Викторович": 58,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 217,
-      "Минеева Татьяна Вадимовна": 43,
-      "Михайлова Юлия Борисовна": 97,
-      "Николаев Игорь Алексеевич": 76,
-      "Нилов Ярослав Евгеньевич": 81
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 53,
+      "gas:candidate-vibid:4774031124806": 58,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 217,
+      "gas:candidate-vibid:4774031124986": 43,
+      "gas:candidate-vibid:4774031124741": 97,
+      "gas:candidate-vibid:4774031124963": 76,
+      "gas:candidate-vibid:4774031124405": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 67,
-      "Колесов Евгений Викторович": 50,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 307,
-      "Минеева Татьяна Вадимовна": 48,
-      "Михайлова Юлия Борисовна": 158,
-      "Николаев Игорь Алексеевич": 101,
-      "Нилов Ярослав Евгеньевич": 49
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 67,
+      "gas:candidate-vibid:4774031124806": 50,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 307,
+      "gas:candidate-vibid:4774031124986": 48,
+      "gas:candidate-vibid:4774031124741": 158,
+      "gas:candidate-vibid:4774031124963": 101,
+      "gas:candidate-vibid:4774031124405": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 41,
-      "Колесов Евгений Викторович": 48,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 163,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 84,
-      "Николаев Игорь Алексеевич": 50,
-      "Нилов Ярослав Евгеньевич": 56
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 41,
+      "gas:candidate-vibid:4774031124806": 48,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 163,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 84,
+      "gas:candidate-vibid:4774031124963": 50,
+      "gas:candidate-vibid:4774031124405": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 70,
-      "Колесов Евгений Викторович": 67,
-      "Лукашевич Вадим Павлович": 20,
-      "Лысаков Вячеслав Иванович": 302,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 99,
-      "Николаев Игорь Алексеевич": 119,
-      "Нилов Ярослав Евгеньевич": 84
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 70,
+      "gas:candidate-vibid:4774031124806": 67,
+      "gas:candidate-vibid:4774031125084": 20,
+      "gas:candidate-vibid:4774031124713": 302,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 99,
+      "gas:candidate-vibid:4774031124963": 119,
+      "gas:candidate-vibid:4774031124405": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 36,
-      "Казенков Олег Юрьевич": 83,
-      "Колесов Евгений Викторович": 75,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 274,
-      "Минеева Татьяна Вадимовна": 47,
-      "Михайлова Юлия Борисовна": 143,
-      "Николаев Игорь Алексеевич": 148,
-      "Нилов Ярослав Евгеньевич": 61
+      "gas:candidate-vibid:4774031125013": 36,
+      "gas:candidate-vibid:4774031124974": 83,
+      "gas:candidate-vibid:4774031124806": 75,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 274,
+      "gas:candidate-vibid:4774031124986": 47,
+      "gas:candidate-vibid:4774031124741": 143,
+      "gas:candidate-vibid:4774031124963": 148,
+      "gas:candidate-vibid:4774031124405": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 42,
-      "Колесов Евгений Викторович": 51,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 189,
-      "Минеева Татьяна Вадимовна": 33,
-      "Михайлова Юлия Борисовна": 75,
-      "Николаев Игорь Алексеевич": 109,
-      "Нилов Ярослав Евгеньевич": 45
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 42,
+      "gas:candidate-vibid:4774031124806": 51,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 189,
+      "gas:candidate-vibid:4774031124986": 33,
+      "gas:candidate-vibid:4774031124741": 75,
+      "gas:candidate-vibid:4774031124963": 109,
+      "gas:candidate-vibid:4774031124405": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 41,
-      "Казенков Олег Юрьевич": 56,
-      "Колесов Евгений Викторович": 60,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 238,
-      "Минеева Татьяна Вадимовна": 44,
-      "Михайлова Юлия Борисовна": 132,
-      "Николаев Игорь Алексеевич": 150,
-      "Нилов Ярослав Евгеньевич": 52
+      "gas:candidate-vibid:4774031125013": 41,
+      "gas:candidate-vibid:4774031124974": 56,
+      "gas:candidate-vibid:4774031124806": 60,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 238,
+      "gas:candidate-vibid:4774031124986": 44,
+      "gas:candidate-vibid:4774031124741": 132,
+      "gas:candidate-vibid:4774031124963": 150,
+      "gas:candidate-vibid:4774031124405": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 28,
-      "Казенков Олег Юрьевич": 53,
-      "Колесов Евгений Викторович": 52,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 221,
-      "Минеева Татьяна Вадимовна": 29,
-      "Михайлова Юлия Борисовна": 119,
-      "Николаев Игорь Алексеевич": 97,
-      "Нилов Ярослав Евгеньевич": 64
+      "gas:candidate-vibid:4774031125013": 28,
+      "gas:candidate-vibid:4774031124974": 53,
+      "gas:candidate-vibid:4774031124806": 52,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 221,
+      "gas:candidate-vibid:4774031124986": 29,
+      "gas:candidate-vibid:4774031124741": 119,
+      "gas:candidate-vibid:4774031124963": 97,
+      "gas:candidate-vibid:4774031124405": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 43,
-      "Колесов Евгений Викторович": 45,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 179,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 67,
-      "Николаев Игорь Алексеевич": 102,
-      "Нилов Ярослав Евгеньевич": 81
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 43,
+      "gas:candidate-vibid:4774031124806": 45,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 179,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 67,
+      "gas:candidate-vibid:4774031124963": 102,
+      "gas:candidate-vibid:4774031124405": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 36,
-      "Казенков Олег Юрьевич": 56,
-      "Колесов Евгений Викторович": 54,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 231,
-      "Минеева Татьяна Вадимовна": 46,
-      "Михайлова Юлия Борисовна": 128,
-      "Николаев Игорь Алексеевич": 86,
-      "Нилов Ярослав Евгеньевич": 91
+      "gas:candidate-vibid:4774031125013": 36,
+      "gas:candidate-vibid:4774031124974": 56,
+      "gas:candidate-vibid:4774031124806": 54,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 231,
+      "gas:candidate-vibid:4774031124986": 46,
+      "gas:candidate-vibid:4774031124741": 128,
+      "gas:candidate-vibid:4774031124963": 86,
+      "gas:candidate-vibid:4774031124405": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 37,
-      "Казенков Олег Юрьевич": 64,
-      "Колесов Евгений Викторович": 87,
-      "Лукашевич Вадим Павлович": 38,
-      "Лысаков Вячеслав Иванович": 313,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 145,
-      "Николаев Игорь Алексеевич": 77,
-      "Нилов Ярослав Евгеньевич": 91
+      "gas:candidate-vibid:4774031125013": 37,
+      "gas:candidate-vibid:4774031124974": 64,
+      "gas:candidate-vibid:4774031124806": 87,
+      "gas:candidate-vibid:4774031125084": 38,
+      "gas:candidate-vibid:4774031124713": 313,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 145,
+      "gas:candidate-vibid:4774031124963": 77,
+      "gas:candidate-vibid:4774031124405": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 37,
-      "Казенков Олег Юрьевич": 79,
-      "Колесов Евгений Викторович": 70,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 294,
-      "Минеева Татьяна Вадимовна": 28,
-      "Михайлова Юлия Борисовна": 138,
-      "Николаев Игорь Алексеевич": 69,
-      "Нилов Ярослав Евгеньевич": 88
+      "gas:candidate-vibid:4774031125013": 37,
+      "gas:candidate-vibid:4774031124974": 79,
+      "gas:candidate-vibid:4774031124806": 70,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 294,
+      "gas:candidate-vibid:4774031124986": 28,
+      "gas:candidate-vibid:4774031124741": 138,
+      "gas:candidate-vibid:4774031124963": 69,
+      "gas:candidate-vibid:4774031124405": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 43,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 260,
-      "Минеева Татьяна Вадимовна": 36,
-      "Михайлова Юлия Борисовна": 114,
-      "Николаев Игорь Алексеевич": 66,
-      "Нилов Ярослав Евгеньевич": 77
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 43,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 260,
+      "gas:candidate-vibid:4774031124986": 36,
+      "gas:candidate-vibid:4774031124741": 114,
+      "gas:candidate-vibid:4774031124963": 66,
+      "gas:candidate-vibid:4774031124405": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 49,
-      "Казенков Олег Юрьевич": 74,
-      "Колесов Евгений Викторович": 73,
-      "Лукашевич Вадим Павлович": 20,
-      "Лысаков Вячеслав Иванович": 398,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 126,
-      "Николаев Игорь Алексеевич": 95,
-      "Нилов Ярослав Евгеньевич": 85
+      "gas:candidate-vibid:4774031125013": 49,
+      "gas:candidate-vibid:4774031124974": 74,
+      "gas:candidate-vibid:4774031124806": 73,
+      "gas:candidate-vibid:4774031125084": 20,
+      "gas:candidate-vibid:4774031124713": 398,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 126,
+      "gas:candidate-vibid:4774031124963": 95,
+      "gas:candidate-vibid:4774031124405": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 61,
-      "Колесов Евгений Викторович": 67,
-      "Лукашевич Вадим Павлович": 27,
-      "Лысаков Вячеслав Иванович": 298,
-      "Минеева Татьяна Вадимовна": 46,
-      "Михайлова Юлия Борисовна": 103,
-      "Николаев Игорь Алексеевич": 93,
-      "Нилов Ярослав Евгеньевич": 74
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 61,
+      "gas:candidate-vibid:4774031124806": 67,
+      "gas:candidate-vibid:4774031125084": 27,
+      "gas:candidate-vibid:4774031124713": 298,
+      "gas:candidate-vibid:4774031124986": 46,
+      "gas:candidate-vibid:4774031124741": 103,
+      "gas:candidate-vibid:4774031124963": 93,
+      "gas:candidate-vibid:4774031124405": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 51,
-      "Колесов Евгений Викторович": 56,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 247,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 117,
-      "Николаев Игорь Алексеевич": 52,
-      "Нилов Ярослав Евгеньевич": 80
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 51,
+      "gas:candidate-vibid:4774031124806": 56,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 247,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 117,
+      "gas:candidate-vibid:4774031124963": 52,
+      "gas:candidate-vibid:4774031124405": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659696&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659696&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 34,
-      "Казенков Олег Юрьевич": 38,
-      "Колесов Евгений Викторович": 45,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 222,
-      "Минеева Татьяна Вадимовна": 25,
-      "Михайлова Юлия Борисовна": 77,
-      "Николаев Игорь Алексеевич": 65,
-      "Нилов Ярослав Евгеньевич": 55
+      "gas:candidate-vibid:4774031125013": 34,
+      "gas:candidate-vibid:4774031124974": 38,
+      "gas:candidate-vibid:4774031124806": 45,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 222,
+      "gas:candidate-vibid:4774031124986": 25,
+      "gas:candidate-vibid:4774031124741": 77,
+      "gas:candidate-vibid:4774031124963": 65,
+      "gas:candidate-vibid:4774031124405": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 68,
-      "Колесов Евгений Викторович": 60,
-      "Лукашевич Вадим Павлович": 30,
-      "Лысаков Вячеслав Иванович": 170,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 115,
-      "Николаев Игорь Алексеевич": 88,
-      "Нилов Ярослав Евгеньевич": 92
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 68,
+      "gas:candidate-vibid:4774031124806": 60,
+      "gas:candidate-vibid:4774031125084": 30,
+      "gas:candidate-vibid:4774031124713": 170,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 115,
+      "gas:candidate-vibid:4774031124963": 88,
+      "gas:candidate-vibid:4774031124405": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 64,
-      "Колесов Евгений Викторович": 50,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 195,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 102,
-      "Николаев Игорь Алексеевич": 89,
-      "Нилов Ярослав Евгеньевич": 63
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 64,
+      "gas:candidate-vibid:4774031124806": 50,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 195,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 102,
+      "gas:candidate-vibid:4774031124963": 89,
+      "gas:candidate-vibid:4774031124405": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 36,
-      "Колесов Евгений Викторович": 42,
-      "Лукашевич Вадим Павлович": 11,
-      "Лысаков Вячеслав Иванович": 142,
-      "Минеева Татьяна Вадимовна": 28,
-      "Михайлова Юлия Борисовна": 79,
-      "Николаев Игорь Алексеевич": 65,
-      "Нилов Ярослав Евгеньевич": 43
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 36,
+      "gas:candidate-vibid:4774031124806": 42,
+      "gas:candidate-vibid:4774031125084": 11,
+      "gas:candidate-vibid:4774031124713": 142,
+      "gas:candidate-vibid:4774031124986": 28,
+      "gas:candidate-vibid:4774031124741": 79,
+      "gas:candidate-vibid:4774031124963": 65,
+      "gas:candidate-vibid:4774031124405": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 42,
-      "Колесов Евгений Викторович": 43,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 98,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 49,
-      "Николаев Игорь Алексеевич": 58,
-      "Нилов Ярослав Евгеньевич": 30
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 42,
+      "gas:candidate-vibid:4774031124806": 43,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 98,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 49,
+      "gas:candidate-vibid:4774031124963": 58,
+      "gas:candidate-vibid:4774031124405": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 69,
-      "Колесов Евгений Викторович": 66,
-      "Лукашевич Вадим Павлович": 32,
-      "Лысаков Вячеслав Иванович": 205,
-      "Минеева Татьяна Вадимовна": 54,
-      "Михайлова Юлия Борисовна": 126,
-      "Николаев Игорь Алексеевич": 140,
-      "Нилов Ярослав Евгеньевич": 84
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 69,
+      "gas:candidate-vibid:4774031124806": 66,
+      "gas:candidate-vibid:4774031125084": 32,
+      "gas:candidate-vibid:4774031124713": 205,
+      "gas:candidate-vibid:4774031124986": 54,
+      "gas:candidate-vibid:4774031124741": 126,
+      "gas:candidate-vibid:4774031124963": 140,
+      "gas:candidate-vibid:4774031124405": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 67,
-      "Колесов Евгений Викторович": 61,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 261,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 135,
-      "Николаев Игорь Алексеевич": 65,
-      "Нилов Ярослав Евгеньевич": 74
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 67,
+      "gas:candidate-vibid:4774031124806": 61,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 261,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 135,
+      "gas:candidate-vibid:4774031124963": 65,
+      "gas:candidate-vibid:4774031124405": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 37,
-      "Колесов Евгений Викторович": 57,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 114,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 69,
-      "Николаев Игорь Алексеевич": 84,
-      "Нилов Ярослав Евгеньевич": 51
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 37,
+      "gas:candidate-vibid:4774031124806": 57,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 114,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 69,
+      "gas:candidate-vibid:4774031124963": 84,
+      "gas:candidate-vibid:4774031124405": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 36,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 176,
-      "Минеева Татьяна Вадимовна": 44,
-      "Михайлова Юлия Борисовна": 88,
-      "Николаев Игорь Алексеевич": 66,
-      "Нилов Ярослав Евгеньевич": 63
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 36,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 176,
+      "gas:candidate-vibid:4774031124986": 44,
+      "gas:candidate-vibid:4774031124741": 88,
+      "gas:candidate-vibid:4774031124963": 66,
+      "gas:candidate-vibid:4774031124405": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 52,
-      "Колесов Евгений Викторович": 50,
-      "Лукашевич Вадим Павлович": 10,
-      "Лысаков Вячеслав Иванович": 205,
-      "Минеева Татьяна Вадимовна": 26,
-      "Михайлова Юлия Борисовна": 86,
-      "Николаев Игорь Алексеевич": 76,
-      "Нилов Ярослав Евгеньевич": 73
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 52,
+      "gas:candidate-vibid:4774031124806": 50,
+      "gas:candidate-vibid:4774031125084": 10,
+      "gas:candidate-vibid:4774031124713": 205,
+      "gas:candidate-vibid:4774031124986": 26,
+      "gas:candidate-vibid:4774031124741": 86,
+      "gas:candidate-vibid:4774031124963": 76,
+      "gas:candidate-vibid:4774031124405": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 41,
-      "Казенков Олег Юрьевич": 76,
-      "Колесов Евгений Викторович": 69,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 270,
-      "Минеева Татьяна Вадимовна": 57,
-      "Михайлова Юлия Борисовна": 122,
-      "Николаев Игорь Алексеевич": 88,
-      "Нилов Ярослав Евгеньевич": 77
+      "gas:candidate-vibid:4774031125013": 41,
+      "gas:candidate-vibid:4774031124974": 76,
+      "gas:candidate-vibid:4774031124806": 69,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 270,
+      "gas:candidate-vibid:4774031124986": 57,
+      "gas:candidate-vibid:4774031124741": 122,
+      "gas:candidate-vibid:4774031124963": 88,
+      "gas:candidate-vibid:4774031124405": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 23,
-      "Казенков Олег Юрьевич": 31,
-      "Колесов Евгений Викторович": 40,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 155,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 71,
-      "Николаев Игорь Алексеевич": 83,
-      "Нилов Ярослав Евгеньевич": 39
+      "gas:candidate-vibid:4774031125013": 23,
+      "gas:candidate-vibid:4774031124974": 31,
+      "gas:candidate-vibid:4774031124806": 40,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 155,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 71,
+      "gas:candidate-vibid:4774031124963": 83,
+      "gas:candidate-vibid:4774031124405": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 42,
-      "Колесов Евгений Викторович": 77,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 217,
-      "Минеева Татьяна Вадимовна": 42,
-      "Михайлова Юлия Борисовна": 119,
-      "Николаев Игорь Алексеевич": 99,
-      "Нилов Ярослав Евгеньевич": 73
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 42,
+      "gas:candidate-vibid:4774031124806": 77,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 217,
+      "gas:candidate-vibid:4774031124986": 42,
+      "gas:candidate-vibid:4774031124741": 119,
+      "gas:candidate-vibid:4774031124963": 99,
+      "gas:candidate-vibid:4774031124405": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 6,
-      "Казенков Олег Юрьевич": 43,
-      "Колесов Евгений Викторович": 18,
-      "Лукашевич Вадим Павлович": 11,
-      "Лысаков Вячеслав Иванович": 102,
-      "Минеева Татьяна Вадимовна": 24,
-      "Михайлова Юлия Борисовна": 57,
-      "Николаев Игорь Алексеевич": 41,
-      "Нилов Ярослав Евгеньевич": 39
+      "gas:candidate-vibid:4774031125013": 6,
+      "gas:candidate-vibid:4774031124974": 43,
+      "gas:candidate-vibid:4774031124806": 18,
+      "gas:candidate-vibid:4774031125084": 11,
+      "gas:candidate-vibid:4774031124713": 102,
+      "gas:candidate-vibid:4774031124986": 24,
+      "gas:candidate-vibid:4774031124741": 57,
+      "gas:candidate-vibid:4774031124963": 41,
+      "gas:candidate-vibid:4774031124405": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 51,
-      "Колесов Евгений Викторович": 55,
-      "Лукашевич Вадим Павлович": 35,
-      "Лысаков Вячеслав Иванович": 225,
-      "Минеева Татьяна Вадимовна": 59,
-      "Михайлова Юлия Борисовна": 101,
-      "Николаев Игорь Алексеевич": 97,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 51,
+      "gas:candidate-vibid:4774031124806": 55,
+      "gas:candidate-vibid:4774031125084": 35,
+      "gas:candidate-vibid:4774031124713": 225,
+      "gas:candidate-vibid:4774031124986": 59,
+      "gas:candidate-vibid:4774031124741": 101,
+      "gas:candidate-vibid:4774031124963": 97,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 55,
-      "Колесов Евгений Викторович": 36,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 200,
-      "Минеева Татьяна Вадимовна": 36,
-      "Михайлова Юлия Борисовна": 99,
-      "Николаев Игорь Алексеевич": 58,
-      "Нилов Ярослав Евгеньевич": 101
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 55,
+      "gas:candidate-vibid:4774031124806": 36,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 200,
+      "gas:candidate-vibid:4774031124986": 36,
+      "gas:candidate-vibid:4774031124741": 99,
+      "gas:candidate-vibid:4774031124963": 58,
+      "gas:candidate-vibid:4774031124405": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 52,
-      "Колесов Евгений Викторович": 53,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 173,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 125,
-      "Николаев Игорь Алексеевич": 91,
-      "Нилов Ярослав Евгеньевич": 58
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 52,
+      "gas:candidate-vibid:4774031124806": 53,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 173,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 125,
+      "gas:candidate-vibid:4774031124963": 91,
+      "gas:candidate-vibid:4774031124405": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 17,
-      "Колесов Евгений Викторович": 20,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 99,
-      "Минеева Татьяна Вадимовна": 21,
-      "Михайлова Юлия Борисовна": 50,
-      "Николаев Игорь Алексеевич": 43,
-      "Нилов Ярослав Евгеньевич": 35
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 17,
+      "gas:candidate-vibid:4774031124806": 20,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 99,
+      "gas:candidate-vibid:4774031124986": 21,
+      "gas:candidate-vibid:4774031124741": 50,
+      "gas:candidate-vibid:4774031124963": 43,
+      "gas:candidate-vibid:4774031124405": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 0,
-      "Казенков Олег Юрьевич": 1,
-      "Колесов Евгений Викторович": 2,
-      "Лукашевич Вадим Павлович": 4,
-      "Лысаков Вячеслав Иванович": 16,
-      "Минеева Татьяна Вадимовна": 1,
-      "Михайлова Юлия Борисовна": 4,
-      "Николаев Игорь Алексеевич": 4,
-      "Нилов Ярослав Евгеньевич": 3
+      "gas:candidate-vibid:4774031125013": 0,
+      "gas:candidate-vibid:4774031124974": 1,
+      "gas:candidate-vibid:4774031124806": 2,
+      "gas:candidate-vibid:4774031125084": 4,
+      "gas:candidate-vibid:4774031124713": 16,
+      "gas:candidate-vibid:4774031124986": 1,
+      "gas:candidate-vibid:4774031124741": 4,
+      "gas:candidate-vibid:4774031124963": 4,
+      "gas:candidate-vibid:4774031124405": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 36,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 76,
-      "Лукашевич Вадим Павлович": 36,
-      "Лысаков Вячеслав Иванович": 233,
-      "Минеева Татьяна Вадимовна": 50,
-      "Михайлова Юлия Борисовна": 117,
-      "Николаев Игорь Алексеевич": 105,
-      "Нилов Ярослав Евгеньевич": 90
+      "gas:candidate-vibid:4774031125013": 36,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 76,
+      "gas:candidate-vibid:4774031125084": 36,
+      "gas:candidate-vibid:4774031124713": 233,
+      "gas:candidate-vibid:4774031124986": 50,
+      "gas:candidate-vibid:4774031124741": 117,
+      "gas:candidate-vibid:4774031124963": 105,
+      "gas:candidate-vibid:4774031124405": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 61,
-      "Колесов Евгений Викторович": 42,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 221,
-      "Минеева Татьяна Вадимовна": 25,
-      "Михайлова Юлия Борисовна": 89,
-      "Николаев Игорь Алексеевич": 68,
-      "Нилов Ярослав Евгеньевич": 60
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 61,
+      "gas:candidate-vibid:4774031124806": 42,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 221,
+      "gas:candidate-vibid:4774031124986": 25,
+      "gas:candidate-vibid:4774031124741": 89,
+      "gas:candidate-vibid:4774031124963": 68,
+      "gas:candidate-vibid:4774031124405": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 33,
-      "Казенков Олег Юрьевич": 53,
-      "Колесов Евгений Викторович": 39,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 209,
-      "Минеева Татьяна Вадимовна": 33,
-      "Михайлова Юлия Борисовна": 97,
-      "Николаев Игорь Алексеевич": 54,
-      "Нилов Ярослав Евгеньевич": 67
+      "gas:candidate-vibid:4774031125013": 33,
+      "gas:candidate-vibid:4774031124974": 53,
+      "gas:candidate-vibid:4774031124806": 39,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 209,
+      "gas:candidate-vibid:4774031124986": 33,
+      "gas:candidate-vibid:4774031124741": 97,
+      "gas:candidate-vibid:4774031124963": 54,
+      "gas:candidate-vibid:4774031124405": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 93,
-      "Колесов Евгений Викторович": 54,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 247,
-      "Минеева Татьяна Вадимовна": 39,
-      "Михайлова Юлия Борисовна": 103,
-      "Николаев Игорь Алексеевич": 82,
-      "Нилов Ярослав Евгеньевич": 61
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 93,
+      "gas:candidate-vibid:4774031124806": 54,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 247,
+      "gas:candidate-vibid:4774031124986": 39,
+      "gas:candidate-vibid:4774031124741": 103,
+      "gas:candidate-vibid:4774031124963": 82,
+      "gas:candidate-vibid:4774031124405": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 89,
-      "Колесов Евгений Викторович": 58,
-      "Лукашевич Вадим Павлович": 34,
-      "Лысаков Вячеслав Иванович": 264,
-      "Минеева Татьяна Вадимовна": 45,
-      "Михайлова Юлия Борисовна": 147,
-      "Николаев Игорь Алексеевич": 88,
-      "Нилов Ярослав Евгеньевич": 102
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 89,
+      "gas:candidate-vibid:4774031124806": 58,
+      "gas:candidate-vibid:4774031125084": 34,
+      "gas:candidate-vibid:4774031124713": 264,
+      "gas:candidate-vibid:4774031124986": 45,
+      "gas:candidate-vibid:4774031124741": 147,
+      "gas:candidate-vibid:4774031124963": 88,
+      "gas:candidate-vibid:4774031124405": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 2,
-      "Казенков Олег Юрьевич": 11,
-      "Колесов Евгений Викторович": 3,
-      "Лукашевич Вадим Павлович": 1,
-      "Лысаков Вячеслав Иванович": 25,
-      "Минеева Татьяна Вадимовна": 3,
-      "Михайлова Юлия Борисовна": 17,
-      "Николаев Игорь Алексеевич": 7,
-      "Нилов Ярослав Евгеньевич": 4
+      "gas:candidate-vibid:4774031125013": 2,
+      "gas:candidate-vibid:4774031124974": 11,
+      "gas:candidate-vibid:4774031124806": 3,
+      "gas:candidate-vibid:4774031125084": 1,
+      "gas:candidate-vibid:4774031124713": 25,
+      "gas:candidate-vibid:4774031124986": 3,
+      "gas:candidate-vibid:4774031124741": 17,
+      "gas:candidate-vibid:4774031124963": 7,
+      "gas:candidate-vibid:4774031124405": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659697&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659697&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 15,
-      "Казенков Олег Юрьевич": 57,
-      "Колесов Евгений Викторович": 39,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 147,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 80,
-      "Николаев Игорь Алексеевич": 91,
-      "Нилов Ярослав Евгеньевич": 53
+      "gas:candidate-vibid:4774031125013": 15,
+      "gas:candidate-vibid:4774031124974": 57,
+      "gas:candidate-vibid:4774031124806": 39,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 147,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 80,
+      "gas:candidate-vibid:4774031124963": 91,
+      "gas:candidate-vibid:4774031124405": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 19,
-      "Казенков Олег Юрьевич": 32,
-      "Колесов Евгений Викторович": 40,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 161,
-      "Минеева Татьяна Вадимовна": 14,
-      "Михайлова Юлия Борисовна": 69,
-      "Николаев Игорь Алексеевич": 65,
-      "Нилов Ярослав Евгеньевич": 23
+      "gas:candidate-vibid:4774031125013": 19,
+      "gas:candidate-vibid:4774031124974": 32,
+      "gas:candidate-vibid:4774031124806": 40,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 161,
+      "gas:candidate-vibid:4774031124986": 14,
+      "gas:candidate-vibid:4774031124741": 69,
+      "gas:candidate-vibid:4774031124963": 65,
+      "gas:candidate-vibid:4774031124405": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 62,
-      "Колесов Евгений Викторович": 71,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 239,
-      "Минеева Татьяна Вадимовна": 60,
-      "Михайлова Юлия Борисовна": 129,
-      "Николаев Игорь Алексеевич": 150,
-      "Нилов Ярослав Евгеньевич": 56
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 62,
+      "gas:candidate-vibid:4774031124806": 71,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 239,
+      "gas:candidate-vibid:4774031124986": 60,
+      "gas:candidate-vibid:4774031124741": 129,
+      "gas:candidate-vibid:4774031124963": 150,
+      "gas:candidate-vibid:4774031124405": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 12,
-      "Казенков Олег Юрьевич": 26,
-      "Колесов Евгений Викторович": 36,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 146,
-      "Минеева Татьяна Вадимовна": 43,
-      "Михайлова Юлия Борисовна": 44,
-      "Николаев Игорь Алексеевич": 67,
-      "Нилов Ярослав Евгеньевич": 31
+      "gas:candidate-vibid:4774031125013": 12,
+      "gas:candidate-vibid:4774031124974": 26,
+      "gas:candidate-vibid:4774031124806": 36,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 146,
+      "gas:candidate-vibid:4774031124986": 43,
+      "gas:candidate-vibid:4774031124741": 44,
+      "gas:candidate-vibid:4774031124963": 67,
+      "gas:candidate-vibid:4774031124405": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 50,
-      "Колесов Евгений Викторович": 64,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 200,
-      "Минеева Татьяна Вадимовна": 42,
-      "Михайлова Юлия Борисовна": 139,
-      "Николаев Игорь Алексеевич": 166,
-      "Нилов Ярослав Евгеньевич": 58
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 50,
+      "gas:candidate-vibid:4774031124806": 64,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 200,
+      "gas:candidate-vibid:4774031124986": 42,
+      "gas:candidate-vibid:4774031124741": 139,
+      "gas:candidate-vibid:4774031124963": 166,
+      "gas:candidate-vibid:4774031124405": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 36,
-      "Колесов Евгений Викторович": 67,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 230,
-      "Минеева Татьяна Вадимовна": 41,
-      "Михайлова Юлия Борисовна": 91,
-      "Николаев Игорь Алексеевич": 110,
-      "Нилов Ярослав Евгеньевич": 69
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 36,
+      "gas:candidate-vibid:4774031124806": 67,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 230,
+      "gas:candidate-vibid:4774031124986": 41,
+      "gas:candidate-vibid:4774031124741": 91,
+      "gas:candidate-vibid:4774031124963": 110,
+      "gas:candidate-vibid:4774031124405": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 80,
-      "Колесов Евгений Викторович": 70,
-      "Лукашевич Вадим Павлович": 35,
-      "Лысаков Вячеслав Иванович": 216,
-      "Минеева Татьяна Вадимовна": 45,
-      "Михайлова Юлия Борисовна": 158,
-      "Николаев Игорь Алексеевич": 146,
-      "Нилов Ярослав Евгеньевич": 60
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 80,
+      "gas:candidate-vibid:4774031124806": 70,
+      "gas:candidate-vibid:4774031125084": 35,
+      "gas:candidate-vibid:4774031124713": 216,
+      "gas:candidate-vibid:4774031124986": 45,
+      "gas:candidate-vibid:4774031124741": 158,
+      "gas:candidate-vibid:4774031124963": 146,
+      "gas:candidate-vibid:4774031124405": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 13,
-      "Казенков Олег Юрьевич": 21,
-      "Колесов Евгений Викторович": 22,
-      "Лукашевич Вадим Павлович": 8,
-      "Лысаков Вячеслав Иванович": 101,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 52,
-      "Николаев Игорь Алексеевич": 40,
-      "Нилов Ярослав Евгеньевич": 29
+      "gas:candidate-vibid:4774031125013": 13,
+      "gas:candidate-vibid:4774031124974": 21,
+      "gas:candidate-vibid:4774031124806": 22,
+      "gas:candidate-vibid:4774031125084": 8,
+      "gas:candidate-vibid:4774031124713": 101,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 52,
+      "gas:candidate-vibid:4774031124963": 40,
+      "gas:candidate-vibid:4774031124405": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 18,
-      "Казенков Олег Юрьевич": 55,
-      "Колесов Евгений Викторович": 66,
-      "Лукашевич Вадим Павлович": 30,
-      "Лысаков Вячеслав Иванович": 143,
-      "Минеева Татьяна Вадимовна": 53,
-      "Михайлова Юлия Борисовна": 134,
-      "Николаев Игорь Алексеевич": 135,
-      "Нилов Ярослав Евгеньевич": 61
+      "gas:candidate-vibid:4774031125013": 18,
+      "gas:candidate-vibid:4774031124974": 55,
+      "gas:candidate-vibid:4774031124806": 66,
+      "gas:candidate-vibid:4774031125084": 30,
+      "gas:candidate-vibid:4774031124713": 143,
+      "gas:candidate-vibid:4774031124986": 53,
+      "gas:candidate-vibid:4774031124741": 134,
+      "gas:candidate-vibid:4774031124963": 135,
+      "gas:candidate-vibid:4774031124405": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 64,
-      "Лукашевич Вадим Павлович": 35,
-      "Лысаков Вячеслав Иванович": 183,
-      "Минеева Татьяна Вадимовна": 54,
-      "Михайлова Юлия Борисовна": 133,
-      "Николаев Игорь Алексеевич": 153,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 64,
+      "gas:candidate-vibid:4774031125084": 35,
+      "gas:candidate-vibid:4774031124713": 183,
+      "gas:candidate-vibid:4774031124986": 54,
+      "gas:candidate-vibid:4774031124741": 133,
+      "gas:candidate-vibid:4774031124963": 153,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 55,
-      "Колесов Евгений Викторович": 49,
-      "Лукашевич Вадим Павлович": 45,
-      "Лысаков Вячеслав Иванович": 182,
-      "Минеева Татьяна Вадимовна": 62,
-      "Михайлова Юлия Борисовна": 135,
-      "Николаев Игорь Алексеевич": 147,
-      "Нилов Ярослав Евгеньевич": 55
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 55,
+      "gas:candidate-vibid:4774031124806": 49,
+      "gas:candidate-vibid:4774031125084": 45,
+      "gas:candidate-vibid:4774031124713": 182,
+      "gas:candidate-vibid:4774031124986": 62,
+      "gas:candidate-vibid:4774031124741": 135,
+      "gas:candidate-vibid:4774031124963": 147,
+      "gas:candidate-vibid:4774031124405": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 54,
-      "Колесов Евгений Викторович": 58,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 189,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 133,
-      "Николаев Игорь Алексеевич": 120,
-      "Нилов Ярослав Евгеньевич": 63
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 54,
+      "gas:candidate-vibid:4774031124806": 58,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 189,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 133,
+      "gas:candidate-vibid:4774031124963": 120,
+      "gas:candidate-vibid:4774031124405": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 3,
-      "Казенков Олег Юрьевич": 11,
-      "Колесов Евгений Викторович": 7,
-      "Лукашевич Вадим Павлович": 12,
-      "Лысаков Вячеслав Иванович": 35,
-      "Минеева Татьяна Вадимовна": 13,
-      "Михайлова Юлия Борисовна": 42,
-      "Николаев Игорь Алексеевич": 73,
-      "Нилов Ярослав Евгеньевич": 3
+      "gas:candidate-vibid:4774031125013": 3,
+      "gas:candidate-vibid:4774031124974": 11,
+      "gas:candidate-vibid:4774031124806": 7,
+      "gas:candidate-vibid:4774031125084": 12,
+      "gas:candidate-vibid:4774031124713": 35,
+      "gas:candidate-vibid:4774031124986": 13,
+      "gas:candidate-vibid:4774031124741": 42,
+      "gas:candidate-vibid:4774031124963": 73,
+      "gas:candidate-vibid:4774031124405": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 16,
-      "Казенков Олег Юрьевич": 21,
-      "Колесов Евгений Викторович": 48,
-      "Лукашевич Вадим Павлович": 14,
-      "Лысаков Вячеслав Иванович": 159,
-      "Минеева Татьяна Вадимовна": 52,
-      "Михайлова Юлия Борисовна": 78,
-      "Николаев Игорь Алексеевич": 64,
-      "Нилов Ярослав Евгеньевич": 40
+      "gas:candidate-vibid:4774031125013": 16,
+      "gas:candidate-vibid:4774031124974": 21,
+      "gas:candidate-vibid:4774031124806": 48,
+      "gas:candidate-vibid:4774031125084": 14,
+      "gas:candidate-vibid:4774031124713": 159,
+      "gas:candidate-vibid:4774031124986": 52,
+      "gas:candidate-vibid:4774031124741": 78,
+      "gas:candidate-vibid:4774031124963": 64,
+      "gas:candidate-vibid:4774031124405": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 23,
-      "Казенков Олег Юрьевич": 33,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 188,
-      "Минеева Татьяна Вадимовна": 89,
-      "Михайлова Юлия Борисовна": 71,
-      "Николаев Игорь Алексеевич": 211,
-      "Нилов Ярослав Евгеньевич": 47
+      "gas:candidate-vibid:4774031125013": 23,
+      "gas:candidate-vibid:4774031124974": 33,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 188,
+      "gas:candidate-vibid:4774031124986": 89,
+      "gas:candidate-vibid:4774031124741": 71,
+      "gas:candidate-vibid:4774031124963": 211,
+      "gas:candidate-vibid:4774031124405": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 53,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 166,
-      "Минеева Татьяна Вадимовна": 59,
-      "Михайлова Юлия Борисовна": 102,
-      "Николаев Игорь Алексеевич": 152,
-      "Нилов Ярослав Евгеньевич": 38
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 53,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 166,
+      "gas:candidate-vibid:4774031124986": 59,
+      "gas:candidate-vibid:4774031124741": 102,
+      "gas:candidate-vibid:4774031124963": 152,
+      "gas:candidate-vibid:4774031124405": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 49,
-      "Колесов Евгений Викторович": 75,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 207,
-      "Минеева Татьяна Вадимовна": 47,
-      "Михайлова Юлия Борисовна": 83,
-      "Николаев Игорь Алексеевич": 79,
-      "Нилов Ярослав Евгеньевич": 64
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 49,
+      "gas:candidate-vibid:4774031124806": 75,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 207,
+      "gas:candidate-vibid:4774031124986": 47,
+      "gas:candidate-vibid:4774031124741": 83,
+      "gas:candidate-vibid:4774031124963": 79,
+      "gas:candidate-vibid:4774031124405": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 48,
-      "Колесов Евгений Викторович": 54,
-      "Лукашевич Вадим Павлович": 37,
-      "Лысаков Вячеслав Иванович": 247,
-      "Минеева Татьяна Вадимовна": 51,
-      "Михайлова Юлия Борисовна": 128,
-      "Николаев Игорь Алексеевич": 131,
-      "Нилов Ярослав Евгеньевич": 52
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 48,
+      "gas:candidate-vibid:4774031124806": 54,
+      "gas:candidate-vibid:4774031125084": 37,
+      "gas:candidate-vibid:4774031124713": 247,
+      "gas:candidate-vibid:4774031124986": 51,
+      "gas:candidate-vibid:4774031124741": 128,
+      "gas:candidate-vibid:4774031124963": 131,
+      "gas:candidate-vibid:4774031124405": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 47,
-      "Колесов Евгений Викторович": 79,
-      "Лукашевич Вадим Павлович": 34,
-      "Лысаков Вячеслав Иванович": 204,
-      "Минеева Татьяна Вадимовна": 73,
-      "Михайлова Юлия Борисовна": 144,
-      "Николаев Игорь Алексеевич": 112,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 47,
+      "gas:candidate-vibid:4774031124806": 79,
+      "gas:candidate-vibid:4774031125084": 34,
+      "gas:candidate-vibid:4774031124713": 204,
+      "gas:candidate-vibid:4774031124986": 73,
+      "gas:candidate-vibid:4774031124741": 144,
+      "gas:candidate-vibid:4774031124963": 112,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 34,
-      "Казенков Олег Юрьевич": 40,
-      "Колесов Евгений Викторович": 77,
-      "Лукашевич Вадим Павлович": 41,
-      "Лысаков Вячеслав Иванович": 212,
-      "Минеева Татьяна Вадимовна": 64,
-      "Михайлова Юлия Борисовна": 177,
-      "Николаев Игорь Алексеевич": 117,
-      "Нилов Ярослав Евгеньевич": 58
+      "gas:candidate-vibid:4774031125013": 34,
+      "gas:candidate-vibid:4774031124974": 40,
+      "gas:candidate-vibid:4774031124806": 77,
+      "gas:candidate-vibid:4774031125084": 41,
+      "gas:candidate-vibid:4774031124713": 212,
+      "gas:candidate-vibid:4774031124986": 64,
+      "gas:candidate-vibid:4774031124741": 177,
+      "gas:candidate-vibid:4774031124963": 117,
+      "gas:candidate-vibid:4774031124405": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 19,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 81,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 188,
-      "Минеева Татьяна Вадимовна": 58,
-      "Михайлова Юлия Борисовна": 139,
-      "Николаев Игорь Алексеевич": 95,
-      "Нилов Ярослав Евгеньевич": 48
+      "gas:candidate-vibid:4774031125013": 19,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 81,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 188,
+      "gas:candidate-vibid:4774031124986": 58,
+      "gas:candidate-vibid:4774031124741": 139,
+      "gas:candidate-vibid:4774031124963": 95,
+      "gas:candidate-vibid:4774031124405": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 48,
-      "Колесов Евгений Викторович": 67,
-      "Лукашевич Вадим Павлович": 12,
-      "Лысаков Вячеслав Иванович": 210,
-      "Минеева Татьяна Вадимовна": 36,
-      "Михайлова Юлия Борисовна": 209,
-      "Николаев Игорь Алексеевич": 70,
-      "Нилов Ярослав Евгеньевич": 70
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 48,
+      "gas:candidate-vibid:4774031124806": 67,
+      "gas:candidate-vibid:4774031125084": 12,
+      "gas:candidate-vibid:4774031124713": 210,
+      "gas:candidate-vibid:4774031124986": 36,
+      "gas:candidate-vibid:4774031124741": 209,
+      "gas:candidate-vibid:4774031124963": 70,
+      "gas:candidate-vibid:4774031124405": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 17,
-      "Казенков Олег Юрьевич": 57,
-      "Колесов Евгений Викторович": 60,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 169,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 86,
-      "Николаев Игорь Алексеевич": 66,
-      "Нилов Ярослав Евгеньевич": 51
+      "gas:candidate-vibid:4774031125013": 17,
+      "gas:candidate-vibid:4774031124974": 57,
+      "gas:candidate-vibid:4774031124806": 60,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 169,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 86,
+      "gas:candidate-vibid:4774031124963": 66,
+      "gas:candidate-vibid:4774031124405": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 47,
-      "Колесов Евгений Викторович": 47,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 146,
-      "Минеева Татьяна Вадимовна": 23,
-      "Михайлова Юлия Борисовна": 108,
-      "Николаев Игорь Алексеевич": 80,
-      "Нилов Ярослав Евгеньевич": 44
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 47,
+      "gas:candidate-vibid:4774031124806": 47,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 146,
+      "gas:candidate-vibid:4774031124986": 23,
+      "gas:candidate-vibid:4774031124741": 108,
+      "gas:candidate-vibid:4774031124963": 80,
+      "gas:candidate-vibid:4774031124405": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 31,
-      "Казенков Олег Юрьевич": 79,
-      "Колесов Евгений Викторович": 117,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 222,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 177,
-      "Николаев Игорь Алексеевич": 123,
-      "Нилов Ярослав Евгеньевич": 70
+      "gas:candidate-vibid:4774031125013": 31,
+      "gas:candidate-vibid:4774031124974": 79,
+      "gas:candidate-vibid:4774031124806": 117,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 222,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 177,
+      "gas:candidate-vibid:4774031124963": 123,
+      "gas:candidate-vibid:4774031124405": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 77,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 166,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 141,
-      "Николаев Игорь Алексеевич": 127,
-      "Нилов Ярослав Евгеньевич": 48
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 77,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 166,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 141,
+      "gas:candidate-vibid:4774031124963": 127,
+      "gas:candidate-vibid:4774031124405": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 21,
-      "Колесов Евгений Викторович": 44,
-      "Лукашевич Вадим Павлович": 35,
-      "Лысаков Вячеслав Иванович": 406,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 199,
-      "Николаев Игорь Алексеевич": 134,
-      "Нилов Ярослав Евгеньевич": 62
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 21,
+      "gas:candidate-vibid:4774031124806": 44,
+      "gas:candidate-vibid:4774031125084": 35,
+      "gas:candidate-vibid:4774031124713": 406,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 199,
+      "gas:candidate-vibid:4774031124963": 134,
+      "gas:candidate-vibid:4774031124405": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 31,
-      "Казенков Олег Юрьевич": 63,
-      "Колесов Евгений Викторович": 87,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 253,
-      "Минеева Татьяна Вадимовна": 47,
-      "Михайлова Юлия Борисовна": 190,
-      "Николаев Игорь Алексеевич": 108,
-      "Нилов Ярослав Евгеньевич": 75
+      "gas:candidate-vibid:4774031125013": 31,
+      "gas:candidate-vibid:4774031124974": 63,
+      "gas:candidate-vibid:4774031124806": 87,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 253,
+      "gas:candidate-vibid:4774031124986": 47,
+      "gas:candidate-vibid:4774031124741": 190,
+      "gas:candidate-vibid:4774031124963": 108,
+      "gas:candidate-vibid:4774031124405": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 53,
-      "Колесов Евгений Викторович": 47,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 198,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 108,
-      "Николаев Игорь Алексеевич": 90,
-      "Нилов Ярослав Евгеньевич": 78
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 53,
+      "gas:candidate-vibid:4774031124806": 47,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 198,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 108,
+      "gas:candidate-vibid:4774031124963": 90,
+      "gas:candidate-vibid:4774031124405": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 12,
-      "Казенков Олег Юрьевич": 59,
-      "Колесов Евгений Викторович": 25,
-      "Лукашевич Вадим Павлович": 14,
-      "Лысаков Вячеслав Иванович": 153,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 99,
-      "Николаев Игорь Алексеевич": 55,
-      "Нилов Ярослав Евгеньевич": 65
+      "gas:candidate-vibid:4774031125013": 12,
+      "gas:candidate-vibid:4774031124974": 59,
+      "gas:candidate-vibid:4774031124806": 25,
+      "gas:candidate-vibid:4774031125084": 14,
+      "gas:candidate-vibid:4774031124713": 153,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 99,
+      "gas:candidate-vibid:4774031124963": 55,
+      "gas:candidate-vibid:4774031124405": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 64,
-      "Лукашевич Вадим Павлович": 20,
-      "Лысаков Вячеслав Иванович": 163,
-      "Минеева Татьяна Вадимовна": 42,
-      "Михайлова Юлия Борисовна": 129,
-      "Николаев Игорь Алексеевич": 134,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 64,
+      "gas:candidate-vibid:4774031125084": 20,
+      "gas:candidate-vibid:4774031124713": 163,
+      "gas:candidate-vibid:4774031124986": 42,
+      "gas:candidate-vibid:4774031124741": 129,
+      "gas:candidate-vibid:4774031124963": 134,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 52,
-      "Колесов Евгений Викторович": 42,
-      "Лукашевич Вадим Павлович": 33,
-      "Лысаков Вячеслав Иванович": 171,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 100,
-      "Николаев Игорь Алексеевич": 94,
-      "Нилов Ярослав Евгеньевич": 58
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 52,
+      "gas:candidate-vibid:4774031124806": 42,
+      "gas:candidate-vibid:4774031125084": 33,
+      "gas:candidate-vibid:4774031124713": 171,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 100,
+      "gas:candidate-vibid:4774031124963": 94,
+      "gas:candidate-vibid:4774031124405": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 68,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 30,
-      "Лысаков Вячеслав Иванович": 207,
-      "Минеева Татьяна Вадимовна": 39,
-      "Михайлова Юлия Борисовна": 112,
-      "Николаев Игорь Алексеевич": 114,
-      "Нилов Ярослав Евгеньевич": 65
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 68,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 30,
+      "gas:candidate-vibid:4774031124713": 207,
+      "gas:candidate-vibid:4774031124986": 39,
+      "gas:candidate-vibid:4774031124741": 112,
+      "gas:candidate-vibid:4774031124963": 114,
+      "gas:candidate-vibid:4774031124405": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 15,
-      "Казенков Олег Юрьевич": 57,
-      "Колесов Евгений Викторович": 67,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 177,
-      "Минеева Татьяна Вадимовна": 23,
-      "Михайлова Юлия Борисовна": 99,
-      "Николаев Игорь Алексеевич": 74,
-      "Нилов Ярослав Евгеньевич": 66
+      "gas:candidate-vibid:4774031125013": 15,
+      "gas:candidate-vibid:4774031124974": 57,
+      "gas:candidate-vibid:4774031124806": 67,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 177,
+      "gas:candidate-vibid:4774031124986": 23,
+      "gas:candidate-vibid:4774031124741": 99,
+      "gas:candidate-vibid:4774031124963": 74,
+      "gas:candidate-vibid:4774031124405": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 11,
-      "Казенков Олег Юрьевич": 26,
-      "Колесов Евгений Викторович": 43,
-      "Лукашевич Вадим Павлович": 11,
-      "Лысаков Вячеслав Иванович": 116,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 47,
-      "Николаев Игорь Алексеевич": 80,
-      "Нилов Ярослав Евгеньевич": 36
+      "gas:candidate-vibid:4774031125013": 11,
+      "gas:candidate-vibid:4774031124974": 26,
+      "gas:candidate-vibid:4774031124806": 43,
+      "gas:candidate-vibid:4774031125084": 11,
+      "gas:candidate-vibid:4774031124713": 116,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 47,
+      "gas:candidate-vibid:4774031124963": 80,
+      "gas:candidate-vibid:4774031124405": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 18,
-      "Казенков Олег Юрьевич": 35,
-      "Колесов Евгений Викторович": 45,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 155,
-      "Минеева Татьяна Вадимовна": 28,
-      "Михайлова Юлия Борисовна": 98,
-      "Николаев Игорь Алексеевич": 97,
-      "Нилов Ярослав Евгеньевич": 43
+      "gas:candidate-vibid:4774031125013": 18,
+      "gas:candidate-vibid:4774031124974": 35,
+      "gas:candidate-vibid:4774031124806": 45,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 155,
+      "gas:candidate-vibid:4774031124986": 28,
+      "gas:candidate-vibid:4774031124741": 98,
+      "gas:candidate-vibid:4774031124963": 97,
+      "gas:candidate-vibid:4774031124405": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 3,
-      "Казенков Олег Юрьевич": 8,
-      "Колесов Евгений Викторович": 17,
-      "Лукашевич Вадим Павлович": 7,
-      "Лысаков Вячеслав Иванович": 39,
-      "Минеева Татьяна Вадимовна": 12,
-      "Михайлова Юлия Борисовна": 25,
-      "Николаев Игорь Алексеевич": 33,
-      "Нилов Ярослав Евгеньевич": 13
+      "gas:candidate-vibid:4774031125013": 3,
+      "gas:candidate-vibid:4774031124974": 8,
+      "gas:candidate-vibid:4774031124806": 17,
+      "gas:candidate-vibid:4774031125084": 7,
+      "gas:candidate-vibid:4774031124713": 39,
+      "gas:candidate-vibid:4774031124986": 12,
+      "gas:candidate-vibid:4774031124741": 25,
+      "gas:candidate-vibid:4774031124963": 33,
+      "gas:candidate-vibid:4774031124405": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 13,
-      "Казенков Олег Юрьевич": 34,
-      "Колесов Евгений Викторович": 38,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 98,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 72,
-      "Николаев Игорь Алексеевич": 53,
-      "Нилов Ярослав Евгеньевич": 38
+      "gas:candidate-vibid:4774031125013": 13,
+      "gas:candidate-vibid:4774031124974": 34,
+      "gas:candidate-vibid:4774031124806": 38,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 98,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 72,
+      "gas:candidate-vibid:4774031124963": 53,
+      "gas:candidate-vibid:4774031124405": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 0,
-      "Казенков Олег Юрьевич": 2,
-      "Колесов Евгений Викторович": 2,
-      "Лукашевич Вадим Павлович": 1,
-      "Лысаков Вячеслав Иванович": 6,
-      "Минеева Татьяна Вадимовна": 2,
-      "Михайлова Юлия Борисовна": 5,
-      "Николаев Игорь Алексеевич": 2,
-      "Нилов Ярослав Евгеньевич": 2
+      "gas:candidate-vibid:4774031125013": 0,
+      "gas:candidate-vibid:4774031124974": 2,
+      "gas:candidate-vibid:4774031124806": 2,
+      "gas:candidate-vibid:4774031125084": 1,
+      "gas:candidate-vibid:4774031124713": 6,
+      "gas:candidate-vibid:4774031124986": 2,
+      "gas:candidate-vibid:4774031124741": 5,
+      "gas:candidate-vibid:4774031124963": 2,
+      "gas:candidate-vibid:4774031124405": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659698&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659698&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 17,
-      "Казенков Олег Юрьевич": 28,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 166,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 99,
-      "Николаев Игорь Алексеевич": 62,
-      "Нилов Ярослав Евгеньевич": 46
+      "gas:candidate-vibid:4774031125013": 17,
+      "gas:candidate-vibid:4774031124974": 28,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 166,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 99,
+      "gas:candidate-vibid:4774031124963": 62,
+      "gas:candidate-vibid:4774031124405": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 17,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 239,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 158,
-      "Николаев Игорь Алексеевич": 89,
-      "Нилов Ярослав Евгеньевич": 36
+      "gas:candidate-vibid:4774031125013": 17,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 239,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 158,
+      "gas:candidate-vibid:4774031124963": 89,
+      "gas:candidate-vibid:4774031124405": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 15,
-      "Казенков Олег Юрьевич": 39,
-      "Колесов Евгений Викторович": 33,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 143,
-      "Минеева Татьяна Вадимовна": 12,
-      "Михайлова Юлия Борисовна": 73,
-      "Николаев Игорь Алексеевич": 70,
-      "Нилов Ярослав Евгеньевич": 55
+      "gas:candidate-vibid:4774031125013": 15,
+      "gas:candidate-vibid:4774031124974": 39,
+      "gas:candidate-vibid:4774031124806": 33,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 143,
+      "gas:candidate-vibid:4774031124986": 12,
+      "gas:candidate-vibid:4774031124741": 73,
+      "gas:candidate-vibid:4774031124963": 70,
+      "gas:candidate-vibid:4774031124405": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 58,
-      "Колесов Евгений Викторович": 47,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 208,
-      "Минеева Татьяна Вадимовна": 51,
-      "Михайлова Юлия Борисовна": 91,
-      "Николаев Игорь Алексеевич": 115,
-      "Нилов Ярослав Евгеньевич": 55
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 58,
+      "gas:candidate-vibid:4774031124806": 47,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 208,
+      "gas:candidate-vibid:4774031124986": 51,
+      "gas:candidate-vibid:4774031124741": 91,
+      "gas:candidate-vibid:4774031124963": 115,
+      "gas:candidate-vibid:4774031124405": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 6,
-      "Казенков Олег Юрьевич": 16,
-      "Колесов Евгений Викторович": 29,
-      "Лукашевич Вадим Павлович": 20,
-      "Лысаков Вячеслав Иванович": 96,
-      "Минеева Татьяна Вадимовна": 25,
-      "Михайлова Юлия Борисовна": 39,
-      "Николаев Игорь Алексеевич": 69,
-      "Нилов Ярослав Евгеньевич": 23
+      "gas:candidate-vibid:4774031125013": 6,
+      "gas:candidate-vibid:4774031124974": 16,
+      "gas:candidate-vibid:4774031124806": 29,
+      "gas:candidate-vibid:4774031125084": 20,
+      "gas:candidate-vibid:4774031124713": 96,
+      "gas:candidate-vibid:4774031124986": 25,
+      "gas:candidate-vibid:4774031124741": 39,
+      "gas:candidate-vibid:4774031124963": 69,
+      "gas:candidate-vibid:4774031124405": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 37,
-      "Колесов Евгений Викторович": 40,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 152,
-      "Минеева Татьяна Вадимовна": 22,
-      "Михайлова Юлия Борисовна": 94,
-      "Николаев Игорь Алексеевич": 79,
-      "Нилов Ярослав Евгеньевич": 64
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 37,
+      "gas:candidate-vibid:4774031124806": 40,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 152,
+      "gas:candidate-vibid:4774031124986": 22,
+      "gas:candidate-vibid:4774031124741": 94,
+      "gas:candidate-vibid:4774031124963": 79,
+      "gas:candidate-vibid:4774031124405": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 9,
-      "Казенков Олег Юрьевич": 31,
-      "Колесов Евгений Викторович": 49,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 200,
-      "Минеева Татьяна Вадимовна": 29,
-      "Михайлова Юлия Борисовна": 82,
-      "Николаев Игорь Алексеевич": 97,
-      "Нилов Ярослав Евгеньевич": 39
+      "gas:candidate-vibid:4774031125013": 9,
+      "gas:candidate-vibid:4774031124974": 31,
+      "gas:candidate-vibid:4774031124806": 49,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 200,
+      "gas:candidate-vibid:4774031124986": 29,
+      "gas:candidate-vibid:4774031124741": 82,
+      "gas:candidate-vibid:4774031124963": 97,
+      "gas:candidate-vibid:4774031124405": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 15,
-      "Казенков Олег Юрьевич": 50,
-      "Колесов Евгений Викторович": 54,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 194,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 92,
-      "Николаев Игорь Алексеевич": 113,
-      "Нилов Ярослав Евгеньевич": 51
+      "gas:candidate-vibid:4774031125013": 15,
+      "gas:candidate-vibid:4774031124974": 50,
+      "gas:candidate-vibid:4774031124806": 54,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 194,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 92,
+      "gas:candidate-vibid:4774031124963": 113,
+      "gas:candidate-vibid:4774031124405": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 23,
-      "Казенков Олег Юрьевич": 46,
-      "Колесов Евгений Викторович": 64,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 166,
-      "Минеева Татьяна Вадимовна": 57,
-      "Михайлова Юлия Борисовна": 82,
-      "Николаев Игорь Алексеевич": 141,
-      "Нилов Ярослав Евгеньевич": 32
+      "gas:candidate-vibid:4774031125013": 23,
+      "gas:candidate-vibid:4774031124974": 46,
+      "gas:candidate-vibid:4774031124806": 64,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 166,
+      "gas:candidate-vibid:4774031124986": 57,
+      "gas:candidate-vibid:4774031124741": 82,
+      "gas:candidate-vibid:4774031124963": 141,
+      "gas:candidate-vibid:4774031124405": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 26,
-      "Колесов Евгений Викторович": 40,
-      "Лукашевич Вадим Павлович": 7,
-      "Лысаков Вячеслав Иванович": 240,
-      "Минеева Татьяна Вадимовна": 14,
-      "Михайлова Юлия Борисовна": 64,
-      "Николаев Игорь Алексеевич": 64,
-      "Нилов Ярослав Евгеньевич": 41
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 26,
+      "gas:candidate-vibid:4774031124806": 40,
+      "gas:candidate-vibid:4774031125084": 7,
+      "gas:candidate-vibid:4774031124713": 240,
+      "gas:candidate-vibid:4774031124986": 14,
+      "gas:candidate-vibid:4774031124741": 64,
+      "gas:candidate-vibid:4774031124963": 64,
+      "gas:candidate-vibid:4774031124405": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 35,
-      "Колесов Евгений Викторович": 62,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 215,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 110,
-      "Николаев Игорь Алексеевич": 126,
-      "Нилов Ярослав Евгеньевич": 38
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 35,
+      "gas:candidate-vibid:4774031124806": 62,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 215,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 110,
+      "gas:candidate-vibid:4774031124963": 126,
+      "gas:candidate-vibid:4774031124405": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 80,
-      "Колесов Евгений Викторович": 71,
-      "Лукашевич Вадим Павлович": 39,
-      "Лысаков Вячеслав Иванович": 231,
-      "Минеева Татьяна Вадимовна": 56,
-      "Михайлова Юлия Борисовна": 132,
-      "Николаев Игорь Алексеевич": 193,
-      "Нилов Ярослав Евгеньевич": 51
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 80,
+      "gas:candidate-vibid:4774031124806": 71,
+      "gas:candidate-vibid:4774031125084": 39,
+      "gas:candidate-vibid:4774031124713": 231,
+      "gas:candidate-vibid:4774031124986": 56,
+      "gas:candidate-vibid:4774031124741": 132,
+      "gas:candidate-vibid:4774031124963": 193,
+      "gas:candidate-vibid:4774031124405": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 16,
-      "Казенков Олег Юрьевич": 42,
-      "Колесов Евгений Викторович": 41,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 143,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 106,
-      "Николаев Игорь Алексеевич": 114,
-      "Нилов Ярослав Евгеньевич": 47
+      "gas:candidate-vibid:4774031125013": 16,
+      "gas:candidate-vibid:4774031124974": 42,
+      "gas:candidate-vibid:4774031124806": 41,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 143,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 106,
+      "gas:candidate-vibid:4774031124963": 114,
+      "gas:candidate-vibid:4774031124405": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 43,
-      "Колесов Евгений Викторович": 45,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 164,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 92,
-      "Николаев Игорь Алексеевич": 82,
-      "Нилов Ярослав Евгеньевич": 42
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 43,
+      "gas:candidate-vibid:4774031124806": 45,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 164,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 92,
+      "gas:candidate-vibid:4774031124963": 82,
+      "gas:candidate-vibid:4774031124405": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 18,
-      "Казенков Олег Юрьевич": 40,
-      "Колесов Евгений Викторович": 38,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 180,
-      "Минеева Татьяна Вадимовна": 24,
-      "Михайлова Юлия Борисовна": 77,
-      "Николаев Игорь Алексеевич": 70,
-      "Нилов Ярослав Евгеньевич": 52
+      "gas:candidate-vibid:4774031125013": 18,
+      "gas:candidate-vibid:4774031124974": 40,
+      "gas:candidate-vibid:4774031124806": 38,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 180,
+      "gas:candidate-vibid:4774031124986": 24,
+      "gas:candidate-vibid:4774031124741": 77,
+      "gas:candidate-vibid:4774031124963": 70,
+      "gas:candidate-vibid:4774031124405": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 10,
-      "Казенков Олег Юрьевич": 33,
-      "Колесов Евгений Викторович": 25,
-      "Лукашевич Вадим Павлович": 12,
-      "Лысаков Вячеслав Иванович": 162,
-      "Минеева Татьяна Вадимовна": 19,
-      "Михайлова Юлия Борисовна": 74,
-      "Николаев Игорь Алексеевич": 79,
-      "Нилов Ярослав Евгеньевич": 43
+      "gas:candidate-vibid:4774031125013": 10,
+      "gas:candidate-vibid:4774031124974": 33,
+      "gas:candidate-vibid:4774031124806": 25,
+      "gas:candidate-vibid:4774031125084": 12,
+      "gas:candidate-vibid:4774031124713": 162,
+      "gas:candidate-vibid:4774031124986": 19,
+      "gas:candidate-vibid:4774031124741": 74,
+      "gas:candidate-vibid:4774031124963": 79,
+      "gas:candidate-vibid:4774031124405": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 65,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 193,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 116,
-      "Николаев Игорь Алексеевич": 107,
-      "Нилов Ярослав Евгеньевич": 70
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 65,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 193,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 116,
+      "gas:candidate-vibid:4774031124963": 107,
+      "gas:candidate-vibid:4774031124405": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 31,
-      "Казенков Олег Юрьевич": 31,
-      "Колесов Евгений Викторович": 52,
-      "Лукашевич Вадим Павлович": 41,
-      "Лысаков Вячеслав Иванович": 186,
-      "Минеева Татьяна Вадимовна": 63,
-      "Михайлова Юлия Борисовна": 133,
-      "Николаев Игорь Алексеевич": 172,
-      "Нилов Ярослав Евгеньевич": 39
+      "gas:candidate-vibid:4774031125013": 31,
+      "gas:candidate-vibid:4774031124974": 31,
+      "gas:candidate-vibid:4774031124806": 52,
+      "gas:candidate-vibid:4774031125084": 41,
+      "gas:candidate-vibid:4774031124713": 186,
+      "gas:candidate-vibid:4774031124986": 63,
+      "gas:candidate-vibid:4774031124741": 133,
+      "gas:candidate-vibid:4774031124963": 172,
+      "gas:candidate-vibid:4774031124405": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 38,
-      "Колесов Евгений Викторович": 68,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 367,
-      "Минеева Татьяна Вадимовна": 80,
-      "Михайлова Юлия Борисовна": 112,
-      "Николаев Игорь Алексеевич": 111,
-      "Нилов Ярослав Евгеньевич": 73
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 38,
+      "gas:candidate-vibid:4774031124806": 68,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 367,
+      "gas:candidate-vibid:4774031124986": 80,
+      "gas:candidate-vibid:4774031124741": 112,
+      "gas:candidate-vibid:4774031124963": 111,
+      "gas:candidate-vibid:4774031124405": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 1,
-      "Казенков Олег Юрьевич": 0,
-      "Колесов Евгений Викторович": 1,
-      "Лукашевич Вадим Павлович": 0,
-      "Лысаков Вячеслав Иванович": 4,
-      "Минеева Татьяна Вадимовна": 0,
-      "Михайлова Юлия Борисовна": 2,
-      "Николаев Игорь Алексеевич": 0,
-      "Нилов Ярослав Евгеньевич": 2
+      "gas:candidate-vibid:4774031125013": 1,
+      "gas:candidate-vibid:4774031124974": 0,
+      "gas:candidate-vibid:4774031124806": 1,
+      "gas:candidate-vibid:4774031125084": 0,
+      "gas:candidate-vibid:4774031124713": 4,
+      "gas:candidate-vibid:4774031124986": 0,
+      "gas:candidate-vibid:4774031124741": 2,
+      "gas:candidate-vibid:4774031124963": 0,
+      "gas:candidate-vibid:4774031124405": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659699&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659699&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 39,
-      "Казенков Олег Юрьевич": 55,
-      "Колесов Евгений Викторович": 82,
-      "Лукашевич Вадим Павлович": 32,
-      "Лысаков Вячеслав Иванович": 270,
-      "Минеева Татьяна Вадимовна": 65,
-      "Михайлова Юлия Борисовна": 166,
-      "Николаев Игорь Алексеевич": 112,
-      "Нилов Ярослав Евгеньевич": 88
+      "gas:candidate-vibid:4774031125013": 39,
+      "gas:candidate-vibid:4774031124974": 55,
+      "gas:candidate-vibid:4774031124806": 82,
+      "gas:candidate-vibid:4774031125084": 32,
+      "gas:candidate-vibid:4774031124713": 270,
+      "gas:candidate-vibid:4774031124986": 65,
+      "gas:candidate-vibid:4774031124741": 166,
+      "gas:candidate-vibid:4774031124963": 112,
+      "gas:candidate-vibid:4774031124405": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 62,
-      "Колесов Евгений Викторович": 40,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 172,
-      "Минеева Татьяна Вадимовна": 33,
-      "Михайлова Юлия Борисовна": 99,
-      "Николаев Игорь Алексеевич": 80,
-      "Нилов Ярослав Евгеньевич": 71
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 62,
+      "gas:candidate-vibid:4774031124806": 40,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 172,
+      "gas:candidate-vibid:4774031124986": 33,
+      "gas:candidate-vibid:4774031124741": 99,
+      "gas:candidate-vibid:4774031124963": 80,
+      "gas:candidate-vibid:4774031124405": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 17,
-      "Казенков Олег Юрьевич": 53,
-      "Колесов Евгений Викторович": 39,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 191,
-      "Минеева Татьяна Вадимовна": 25,
-      "Михайлова Юлия Борисовна": 90,
-      "Николаев Игорь Алексеевич": 59,
-      "Нилов Ярослав Евгеньевич": 80
+      "gas:candidate-vibid:4774031125013": 17,
+      "gas:candidate-vibid:4774031124974": 53,
+      "gas:candidate-vibid:4774031124806": 39,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 191,
+      "gas:candidate-vibid:4774031124986": 25,
+      "gas:candidate-vibid:4774031124741": 90,
+      "gas:candidate-vibid:4774031124963": 59,
+      "gas:candidate-vibid:4774031124405": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 42,
-      "Колесов Евгений Викторович": 50,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 176,
-      "Минеева Татьяна Вадимовна": 27,
-      "Михайлова Юлия Борисовна": 97,
-      "Николаев Игорь Алексеевич": 57,
-      "Нилов Ярослав Евгеньевич": 69
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 42,
+      "gas:candidate-vibid:4774031124806": 50,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 176,
+      "gas:candidate-vibid:4774031124986": 27,
+      "gas:candidate-vibid:4774031124741": 97,
+      "gas:candidate-vibid:4774031124963": 57,
+      "gas:candidate-vibid:4774031124405": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 36,
-      "Казенков Олег Юрьевич": 73,
-      "Колесов Евгений Викторович": 58,
-      "Лукашевич Вадим Павлович": 20,
-      "Лысаков Вячеслав Иванович": 275,
-      "Минеева Татьяна Вадимовна": 28,
-      "Михайлова Юлия Борисовна": 158,
-      "Николаев Игорь Алексеевич": 101,
-      "Нилов Ярослав Евгеньевич": 90
+      "gas:candidate-vibid:4774031125013": 36,
+      "gas:candidate-vibid:4774031124974": 73,
+      "gas:candidate-vibid:4774031124806": 58,
+      "gas:candidate-vibid:4774031125084": 20,
+      "gas:candidate-vibid:4774031124713": 275,
+      "gas:candidate-vibid:4774031124986": 28,
+      "gas:candidate-vibid:4774031124741": 158,
+      "gas:candidate-vibid:4774031124963": 101,
+      "gas:candidate-vibid:4774031124405": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 52,
-      "Колесов Евгений Викторович": 75,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 217,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 110,
-      "Николаев Игорь Алексеевич": 71,
-      "Нилов Ярослав Евгеньевич": 58
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 52,
+      "gas:candidate-vibid:4774031124806": 75,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 217,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 110,
+      "gas:candidate-vibid:4774031124963": 71,
+      "gas:candidate-vibid:4774031124405": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 31,
-      "Казенков Олег Юрьевич": 59,
-      "Колесов Евгений Викторович": 79,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 282,
-      "Минеева Татьяна Вадимовна": 41,
-      "Михайлова Юлия Борисовна": 126,
-      "Николаев Игорь Алексеевич": 59,
-      "Нилов Ярослав Евгеньевич": 78
+      "gas:candidate-vibid:4774031125013": 31,
+      "gas:candidate-vibid:4774031124974": 59,
+      "gas:candidate-vibid:4774031124806": 79,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 282,
+      "gas:candidate-vibid:4774031124986": 41,
+      "gas:candidate-vibid:4774031124741": 126,
+      "gas:candidate-vibid:4774031124963": 59,
+      "gas:candidate-vibid:4774031124405": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 73,
-      "Колесов Евгений Викторович": 49,
-      "Лукашевич Вадим Павлович": 27,
-      "Лысаков Вячеслав Иванович": 239,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 75,
-      "Николаев Игорь Алексеевич": 57,
-      "Нилов Ярослав Евгеньевич": 73
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 73,
+      "gas:candidate-vibid:4774031124806": 49,
+      "gas:candidate-vibid:4774031125084": 27,
+      "gas:candidate-vibid:4774031124713": 239,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 75,
+      "gas:candidate-vibid:4774031124963": 57,
+      "gas:candidate-vibid:4774031124405": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 49,
-      "Колесов Евгений Викторович": 53,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 235,
-      "Минеева Татьяна Вадимовна": 32,
-      "Михайлова Юлия Борисовна": 76,
-      "Николаев Игорь Алексеевич": 59,
-      "Нилов Ярослав Евгеньевич": 75
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 49,
+      "gas:candidate-vibid:4774031124806": 53,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 235,
+      "gas:candidate-vibid:4774031124986": 32,
+      "gas:candidate-vibid:4774031124741": 76,
+      "gas:candidate-vibid:4774031124963": 59,
+      "gas:candidate-vibid:4774031124405": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 70,
-      "Колесов Евгений Викторович": 65,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 293,
-      "Минеева Татьяна Вадимовна": 23,
-      "Михайлова Юлия Борисовна": 105,
-      "Николаев Игорь Алексеевич": 62,
-      "Нилов Ярослав Евгеньевич": 99
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 70,
+      "gas:candidate-vibid:4774031124806": 65,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 293,
+      "gas:candidate-vibid:4774031124986": 23,
+      "gas:candidate-vibid:4774031124741": 105,
+      "gas:candidate-vibid:4774031124963": 62,
+      "gas:candidate-vibid:4774031124405": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 101,
-      "Колесов Евгений Викторович": 80,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 225,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 115,
-      "Николаев Игорь Алексеевич": 79,
-      "Нилов Ярослав Евгеньевич": 80
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 101,
+      "gas:candidate-vibid:4774031124806": 80,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 225,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 115,
+      "gas:candidate-vibid:4774031124963": 79,
+      "gas:candidate-vibid:4774031124405": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 15,
-      "Казенков Олег Юрьевич": 80,
-      "Колесов Евгений Викторович": 56,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 168,
-      "Минеева Татьяна Вадимовна": 28,
-      "Михайлова Юлия Борисовна": 80,
-      "Николаев Игорь Алексеевич": 45,
-      "Нилов Ярослав Евгеньевич": 63
+      "gas:candidate-vibid:4774031125013": 15,
+      "gas:candidate-vibid:4774031124974": 80,
+      "gas:candidate-vibid:4774031124806": 56,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 168,
+      "gas:candidate-vibid:4774031124986": 28,
+      "gas:candidate-vibid:4774031124741": 80,
+      "gas:candidate-vibid:4774031124963": 45,
+      "gas:candidate-vibid:4774031124405": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 224,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 104,
-      "Николаев Игорь Алексеевич": 58,
-      "Нилов Ярослав Евгеньевич": 70
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 224,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 104,
+      "gas:candidate-vibid:4774031124963": 58,
+      "gas:candidate-vibid:4774031124405": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 66,
-      "Лукашевич Вадим Павлович": 7,
-      "Лысаков Вячеслав Иванович": 198,
-      "Минеева Татьяна Вадимовна": 20,
-      "Михайлова Юлия Борисовна": 105,
-      "Николаев Игорь Алексеевич": 54,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 66,
+      "gas:candidate-vibid:4774031125084": 7,
+      "gas:candidate-vibid:4774031124713": 198,
+      "gas:candidate-vibid:4774031124986": 20,
+      "gas:candidate-vibid:4774031124741": 105,
+      "gas:candidate-vibid:4774031124963": 54,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 81,
-      "Колесов Евгений Викторович": 51,
-      "Лукашевич Вадим Павлович": 11,
-      "Лысаков Вячеслав Иванович": 157,
-      "Минеева Татьяна Вадимовна": 28,
-      "Михайлова Юлия Борисовна": 121,
-      "Николаев Игорь Алексеевич": 60,
-      "Нилов Ярослав Евгеньевич": 87
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 81,
+      "gas:candidate-vibid:4774031124806": 51,
+      "gas:candidate-vibid:4774031125084": 11,
+      "gas:candidate-vibid:4774031124713": 157,
+      "gas:candidate-vibid:4774031124986": 28,
+      "gas:candidate-vibid:4774031124741": 121,
+      "gas:candidate-vibid:4774031124963": 60,
+      "gas:candidate-vibid:4774031124405": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 33,
-      "Колесов Евгений Викторович": 33,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 261,
-      "Минеева Татьяна Вадимовна": 17,
-      "Михайлова Юлия Борисовна": 94,
-      "Николаев Игорь Алексеевич": 30,
-      "Нилов Ярослав Евгеньевич": 70
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 33,
+      "gas:candidate-vibid:4774031124806": 33,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 261,
+      "gas:candidate-vibid:4774031124986": 17,
+      "gas:candidate-vibid:4774031124741": 94,
+      "gas:candidate-vibid:4774031124963": 30,
+      "gas:candidate-vibid:4774031124405": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 18,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 31,
-      "Лукашевич Вадим Павлович": 14,
-      "Лысаков Вячеслав Иванович": 198,
-      "Минеева Татьяна Вадимовна": 27,
-      "Михайлова Юлия Борисовна": 97,
-      "Николаев Игорь Алексеевич": 51,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 18,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 31,
+      "gas:candidate-vibid:4774031125084": 14,
+      "gas:candidate-vibid:4774031124713": 198,
+      "gas:candidate-vibid:4774031124986": 27,
+      "gas:candidate-vibid:4774031124741": 97,
+      "gas:candidate-vibid:4774031124963": 51,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 11,
-      "Казенков Олег Юрьевич": 43,
-      "Колесов Евгений Викторович": 47,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 154,
-      "Минеева Татьяна Вадимовна": 26,
-      "Михайлова Юлия Борисовна": 80,
-      "Николаев Игорь Алексеевич": 56,
-      "Нилов Ярослав Евгеньевич": 64
+      "gas:candidate-vibid:4774031125013": 11,
+      "gas:candidate-vibid:4774031124974": 43,
+      "gas:candidate-vibid:4774031124806": 47,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 154,
+      "gas:candidate-vibid:4774031124986": 26,
+      "gas:candidate-vibid:4774031124741": 80,
+      "gas:candidate-vibid:4774031124963": 56,
+      "gas:candidate-vibid:4774031124405": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 16,
-      "Казенков Олег Юрьевич": 35,
-      "Колесов Евгений Викторович": 43,
-      "Лукашевич Вадим Павлович": 7,
-      "Лысаков Вячеслав Иванович": 186,
-      "Минеева Татьяна Вадимовна": 20,
-      "Михайлова Юлия Борисовна": 65,
-      "Николаев Игорь Алексеевич": 32,
-      "Нилов Ярослав Евгеньевич": 48
+      "gas:candidate-vibid:4774031125013": 16,
+      "gas:candidate-vibid:4774031124974": 35,
+      "gas:candidate-vibid:4774031124806": 43,
+      "gas:candidate-vibid:4774031125084": 7,
+      "gas:candidate-vibid:4774031124713": 186,
+      "gas:candidate-vibid:4774031124986": 20,
+      "gas:candidate-vibid:4774031124741": 65,
+      "gas:candidate-vibid:4774031124963": 32,
+      "gas:candidate-vibid:4774031124405": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 52,
-      "Лукашевич Вадим Павлович": 30,
-      "Лысаков Вячеслав Иванович": 220,
-      "Минеева Татьяна Вадимовна": 18,
-      "Михайлова Юлия Борисовна": 102,
-      "Николаев Игорь Алексеевич": 76,
-      "Нилов Ярослав Евгеньевич": 72
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 52,
+      "gas:candidate-vibid:4774031125084": 30,
+      "gas:candidate-vibid:4774031124713": 220,
+      "gas:candidate-vibid:4774031124986": 18,
+      "gas:candidate-vibid:4774031124741": 102,
+      "gas:candidate-vibid:4774031124963": 76,
+      "gas:candidate-vibid:4774031124405": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 37,
-      "Казенков Олег Юрьевич": 70,
-      "Колесов Евгений Викторович": 53,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 292,
-      "Минеева Татьяна Вадимовна": 26,
-      "Михайлова Юлия Борисовна": 106,
-      "Николаев Игорь Алексеевич": 71,
-      "Нилов Ярослав Евгеньевич": 67
+      "gas:candidate-vibid:4774031125013": 37,
+      "gas:candidate-vibid:4774031124974": 70,
+      "gas:candidate-vibid:4774031124806": 53,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 292,
+      "gas:candidate-vibid:4774031124986": 26,
+      "gas:candidate-vibid:4774031124741": 106,
+      "gas:candidate-vibid:4774031124963": 71,
+      "gas:candidate-vibid:4774031124405": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 90,
-      "Колесов Евгений Викторович": 71,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 245,
-      "Минеева Татьяна Вадимовна": 29,
-      "Михайлова Юлия Борисовна": 132,
-      "Николаев Игорь Алексеевич": 76,
-      "Нилов Ярослав Евгеньевич": 71
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 90,
+      "gas:candidate-vibid:4774031124806": 71,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 245,
+      "gas:candidate-vibid:4774031124986": 29,
+      "gas:candidate-vibid:4774031124741": 132,
+      "gas:candidate-vibid:4774031124963": 76,
+      "gas:candidate-vibid:4774031124405": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 65,
-      "Колесов Евгений Викторович": 48,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 233,
-      "Минеева Татьяна Вадимовна": 22,
-      "Михайлова Юлия Борисовна": 98,
-      "Николаев Игорь Алексеевич": 45,
-      "Нилов Ярослав Евгеньевич": 72
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 65,
+      "gas:candidate-vibid:4774031124806": 48,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 233,
+      "gas:candidate-vibid:4774031124986": 22,
+      "gas:candidate-vibid:4774031124741": 98,
+      "gas:candidate-vibid:4774031124963": 45,
+      "gas:candidate-vibid:4774031124405": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 57,
-      "Колесов Евгений Викторович": 63,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 220,
-      "Минеева Татьяна Вадимовна": 15,
-      "Михайлова Юлия Борисовна": 88,
-      "Николаев Игорь Алексеевич": 56,
-      "Нилов Ярослав Евгеньевич": 77
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 57,
+      "gas:candidate-vibid:4774031124806": 63,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 220,
+      "gas:candidate-vibid:4774031124986": 15,
+      "gas:candidate-vibid:4774031124741": 88,
+      "gas:candidate-vibid:4774031124963": 56,
+      "gas:candidate-vibid:4774031124405": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 28,
-      "Казенков Олег Юрьевич": 71,
-      "Колесов Евгений Викторович": 63,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 205,
-      "Минеева Татьяна Вадимовна": 25,
-      "Михайлова Юлия Борисовна": 89,
-      "Николаев Игорь Алексеевич": 57,
-      "Нилов Ярослав Евгеньевич": 76
+      "gas:candidate-vibid:4774031125013": 28,
+      "gas:candidate-vibid:4774031124974": 71,
+      "gas:candidate-vibid:4774031124806": 63,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 205,
+      "gas:candidate-vibid:4774031124986": 25,
+      "gas:candidate-vibid:4774031124741": 89,
+      "gas:candidate-vibid:4774031124963": 57,
+      "gas:candidate-vibid:4774031124405": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 52,
-      "Колесов Евгений Викторович": 65,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 289,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 114,
-      "Николаев Игорь Алексеевич": 59,
-      "Нилов Ярослав Евгеньевич": 72
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 52,
+      "gas:candidate-vibid:4774031124806": 65,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 289,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 114,
+      "gas:candidate-vibid:4774031124963": 59,
+      "gas:candidate-vibid:4774031124405": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 72,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 281,
-      "Минеева Татьяна Вадимовна": 27,
-      "Михайлова Юлия Борисовна": 87,
-      "Николаев Игорь Алексеевич": 37,
-      "Нилов Ярослав Евгеньевич": 107
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 72,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 281,
+      "gas:candidate-vibid:4774031124986": 27,
+      "gas:candidate-vibid:4774031124741": 87,
+      "gas:candidate-vibid:4774031124963": 37,
+      "gas:candidate-vibid:4774031124405": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 51,
-      "Колесов Евгений Викторович": 57,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 264,
-      "Минеева Татьяна Вадимовна": 41,
-      "Михайлова Юлия Борисовна": 101,
-      "Николаев Игорь Алексеевич": 82,
-      "Нилов Ярослав Евгеньевич": 67
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 51,
+      "gas:candidate-vibid:4774031124806": 57,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 264,
+      "gas:candidate-vibid:4774031124986": 41,
+      "gas:candidate-vibid:4774031124741": 101,
+      "gas:candidate-vibid:4774031124963": 82,
+      "gas:candidate-vibid:4774031124405": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 17,
-      "Казенков Олег Юрьевич": 59,
-      "Колесов Евгений Викторович": 42,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 260,
-      "Минеева Татьяна Вадимовна": 22,
-      "Михайлова Юлия Борисовна": 112,
-      "Николаев Игорь Алексеевич": 49,
-      "Нилов Ярослав Евгеньевич": 69
+      "gas:candidate-vibid:4774031125013": 17,
+      "gas:candidate-vibid:4774031124974": 59,
+      "gas:candidate-vibid:4774031124806": 42,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 260,
+      "gas:candidate-vibid:4774031124986": 22,
+      "gas:candidate-vibid:4774031124741": 112,
+      "gas:candidate-vibid:4774031124963": 49,
+      "gas:candidate-vibid:4774031124405": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 63,
-      "Колесов Евгений Викторович": 36,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 220,
-      "Минеева Татьяна Вадимовна": 23,
-      "Михайлова Юлия Борисовна": 129,
-      "Николаев Игорь Алексеевич": 49,
-      "Нилов Ярослав Евгеньевич": 70
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 63,
+      "gas:candidate-vibid:4774031124806": 36,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 220,
+      "gas:candidate-vibid:4774031124986": 23,
+      "gas:candidate-vibid:4774031124741": 129,
+      "gas:candidate-vibid:4774031124963": 49,
+      "gas:candidate-vibid:4774031124405": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 56,
-      "Лукашевич Вадим Павлович": 35,
-      "Лысаков Вячеслав Иванович": 238,
-      "Минеева Татьяна Вадимовна": 24,
-      "Михайлова Юлия Борисовна": 120,
-      "Николаев Игорь Алексеевич": 61,
-      "Нилов Ярослав Евгеньевич": 78
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 56,
+      "gas:candidate-vibid:4774031125084": 35,
+      "gas:candidate-vibid:4774031124713": 238,
+      "gas:candidate-vibid:4774031124986": 24,
+      "gas:candidate-vibid:4774031124741": 120,
+      "gas:candidate-vibid:4774031124963": 61,
+      "gas:candidate-vibid:4774031124405": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 77,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 211,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 132,
-      "Николаев Игорь Алексеевич": 83,
-      "Нилов Ярослав Евгеньевич": 74
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 77,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 211,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 132,
+      "gas:candidate-vibid:4774031124963": 83,
+      "gas:candidate-vibid:4774031124405": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 17,
-      "Казенков Олег Юрьевич": 58,
-      "Колесов Евгений Викторович": 60,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 243,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 100,
-      "Николаев Игорь Алексеевич": 58,
-      "Нилов Ярослав Евгеньевич": 57
+      "gas:candidate-vibid:4774031125013": 17,
+      "gas:candidate-vibid:4774031124974": 58,
+      "gas:candidate-vibid:4774031124806": 60,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 243,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 100,
+      "gas:candidate-vibid:4774031124963": 58,
+      "gas:candidate-vibid:4774031124405": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 94,
-      "Колесов Евгений Викторович": 79,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 241,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 129,
-      "Николаев Игорь Алексеевич": 92,
-      "Нилов Ярослав Евгеньевич": 108
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 94,
+      "gas:candidate-vibid:4774031124806": 79,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 241,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 129,
+      "gas:candidate-vibid:4774031124963": 92,
+      "gas:candidate-vibid:4774031124405": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 33,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 234,
-      "Минеева Татьяна Вадимовна": 29,
-      "Михайлова Юлия Борисовна": 90,
-      "Николаев Игорь Алексеевич": 67,
-      "Нилов Ярослав Евгеньевич": 47
+      "gas:candidate-vibid:4774031125013": 33,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 234,
+      "gas:candidate-vibid:4774031124986": 29,
+      "gas:candidate-vibid:4774031124741": 90,
+      "gas:candidate-vibid:4774031124963": 67,
+      "gas:candidate-vibid:4774031124405": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 23,
-      "Казенков Олег Юрьевич": 72,
-      "Колесов Евгений Викторович": 50,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 231,
-      "Минеева Татьяна Вадимовна": 24,
-      "Михайлова Юлия Борисовна": 96,
-      "Николаев Игорь Алексеевич": 55,
-      "Нилов Ярослав Евгеньевич": 59
+      "gas:candidate-vibid:4774031125013": 23,
+      "gas:candidate-vibid:4774031124974": 72,
+      "gas:candidate-vibid:4774031124806": 50,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 231,
+      "gas:candidate-vibid:4774031124986": 24,
+      "gas:candidate-vibid:4774031124741": 96,
+      "gas:candidate-vibid:4774031124963": 55,
+      "gas:candidate-vibid:4774031124405": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 34,
-      "Казенков Олег Юрьевич": 88,
-      "Колесов Евгений Викторович": 60,
-      "Лукашевич Вадим Павлович": 38,
-      "Лысаков Вячеслав Иванович": 228,
-      "Минеева Татьяна Вадимовна": 67,
-      "Михайлова Юлия Борисовна": 165,
-      "Николаев Игорь Алексеевич": 115,
-      "Нилов Ярослав Евгеньевич": 83
+      "gas:candidate-vibid:4774031125013": 34,
+      "gas:candidate-vibid:4774031124974": 88,
+      "gas:candidate-vibid:4774031124806": 60,
+      "gas:candidate-vibid:4774031125084": 38,
+      "gas:candidate-vibid:4774031124713": 228,
+      "gas:candidate-vibid:4774031124986": 67,
+      "gas:candidate-vibid:4774031124741": 165,
+      "gas:candidate-vibid:4774031124963": 115,
+      "gas:candidate-vibid:4774031124405": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 5,
-      "Казенков Олег Юрьевич": 7,
-      "Колесов Евгений Викторович": 8,
-      "Лукашевич Вадим Павлович": 1,
-      "Лысаков Вячеслав Иванович": 42,
-      "Минеева Татьяна Вадимовна": 2,
-      "Михайлова Юлия Борисовна": 4,
-      "Николаев Игорь Алексеевич": 4,
-      "Нилов Ярослав Евгеньевич": 11
+      "gas:candidate-vibid:4774031125013": 5,
+      "gas:candidate-vibid:4774031124974": 7,
+      "gas:candidate-vibid:4774031124806": 8,
+      "gas:candidate-vibid:4774031125084": 1,
+      "gas:candidate-vibid:4774031124713": 42,
+      "gas:candidate-vibid:4774031124986": 2,
+      "gas:candidate-vibid:4774031124741": 4,
+      "gas:candidate-vibid:4774031124963": 4,
+      "gas:candidate-vibid:4774031124405": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659700&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659700&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 39,
-      "Казенков Олег Юрьевич": 86,
-      "Колесов Евгений Викторович": 69,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 326,
-      "Минеева Татьяна Вадимовна": 60,
-      "Михайлова Юлия Борисовна": 217,
-      "Николаев Игорь Алексеевич": 112,
-      "Нилов Ярослав Евгеньевич": 82
+      "gas:candidate-vibid:4774031125013": 39,
+      "gas:candidate-vibid:4774031124974": 86,
+      "gas:candidate-vibid:4774031124806": 69,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 326,
+      "gas:candidate-vibid:4774031124986": 60,
+      "gas:candidate-vibid:4774031124741": 217,
+      "gas:candidate-vibid:4774031124963": 112,
+      "gas:candidate-vibid:4774031124405": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 13,
-      "Казенков Олег Юрьевич": 27,
-      "Колесов Евгений Викторович": 21,
-      "Лукашевич Вадим Павлович": 8,
-      "Лысаков Вячеслав Иванович": 71,
-      "Минеева Татьяна Вадимовна": 15,
-      "Михайлова Юлия Борисовна": 35,
-      "Николаев Игорь Алексеевич": 39,
-      "Нилов Ярослав Евгеньевич": 25
+      "gas:candidate-vibid:4774031125013": 13,
+      "gas:candidate-vibid:4774031124974": 27,
+      "gas:candidate-vibid:4774031124806": 21,
+      "gas:candidate-vibid:4774031125084": 8,
+      "gas:candidate-vibid:4774031124713": 71,
+      "gas:candidate-vibid:4774031124986": 15,
+      "gas:candidate-vibid:4774031124741": 35,
+      "gas:candidate-vibid:4774031124963": 39,
+      "gas:candidate-vibid:4774031124405": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 63,
-      "Колесов Евгений Викторович": 55,
-      "Лукашевич Вадим Павлович": 30,
-      "Лысаков Вячеслав Иванович": 240,
-      "Минеева Татьяна Вадимовна": 59,
-      "Михайлова Юлия Борисовна": 106,
-      "Николаев Игорь Алексеевич": 125,
-      "Нилов Ярослав Евгеньевич": 91
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 63,
+      "gas:candidate-vibid:4774031124806": 55,
+      "gas:candidate-vibid:4774031125084": 30,
+      "gas:candidate-vibid:4774031124713": 240,
+      "gas:candidate-vibid:4774031124986": 59,
+      "gas:candidate-vibid:4774031124741": 106,
+      "gas:candidate-vibid:4774031124963": 125,
+      "gas:candidate-vibid:4774031124405": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 82,
-      "Колесов Евгений Викторович": 81,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 181,
-      "Минеева Татьяна Вадимовна": 62,
-      "Михайлова Юлия Борисовна": 223,
-      "Николаев Игорь Алексеевич": 123,
-      "Нилов Ярослав Евгеньевич": 33
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 82,
+      "gas:candidate-vibid:4774031124806": 81,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 181,
+      "gas:candidate-vibid:4774031124986": 62,
+      "gas:candidate-vibid:4774031124741": 223,
+      "gas:candidate-vibid:4774031124963": 123,
+      "gas:candidate-vibid:4774031124405": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 75,
-      "Колесов Евгений Викторович": 49,
-      "Лукашевич Вадим Павлович": 32,
-      "Лысаков Вячеслав Иванович": 216,
-      "Минеева Татьяна Вадимовна": 41,
-      "Михайлова Юлия Борисовна": 111,
-      "Николаев Игорь Алексеевич": 100,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 75,
+      "gas:candidate-vibid:4774031124806": 49,
+      "gas:candidate-vibid:4774031125084": 32,
+      "gas:candidate-vibid:4774031124713": 216,
+      "gas:candidate-vibid:4774031124986": 41,
+      "gas:candidate-vibid:4774031124741": 111,
+      "gas:candidate-vibid:4774031124963": 100,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 43,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 344,
-      "Минеева Татьяна Вадимовна": 36,
-      "Михайлова Юлия Борисовна": 120,
-      "Николаев Игорь Алексеевич": 53,
-      "Нилов Ярослав Евгеньевич": 111
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 43,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 344,
+      "gas:candidate-vibid:4774031124986": 36,
+      "gas:candidate-vibid:4774031124741": 120,
+      "gas:candidate-vibid:4774031124963": 53,
+      "gas:candidate-vibid:4774031124405": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 28,
-      "Казенков Олег Юрьевич": 56,
-      "Колесов Евгений Викторович": 42,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 279,
-      "Минеева Татьяна Вадимовна": 20,
-      "Михайлова Юлия Борисовна": 93,
-      "Николаев Игорь Алексеевич": 61,
-      "Нилов Ярослав Евгеньевич": 93
+      "gas:candidate-vibid:4774031125013": 28,
+      "gas:candidate-vibid:4774031124974": 56,
+      "gas:candidate-vibid:4774031124806": 42,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 279,
+      "gas:candidate-vibid:4774031124986": 20,
+      "gas:candidate-vibid:4774031124741": 93,
+      "gas:candidate-vibid:4774031124963": 61,
+      "gas:candidate-vibid:4774031124405": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 47,
-      "Колесов Евгений Викторович": 35,
-      "Лукашевич Вадим Павлович": 12,
-      "Лысаков Вячеслав Иванович": 180,
-      "Минеева Татьяна Вадимовна": 20,
-      "Михайлова Юлия Борисовна": 69,
-      "Николаев Игорь Алексеевич": 47,
-      "Нилов Ярослав Евгеньевич": 72
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 47,
+      "gas:candidate-vibid:4774031124806": 35,
+      "gas:candidate-vibid:4774031125084": 12,
+      "gas:candidate-vibid:4774031124713": 180,
+      "gas:candidate-vibid:4774031124986": 20,
+      "gas:candidate-vibid:4774031124741": 69,
+      "gas:candidate-vibid:4774031124963": 47,
+      "gas:candidate-vibid:4774031124405": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 88,
-      "Колесов Евгений Викторович": 88,
-      "Лукашевич Вадим Павлович": 13,
-      "Лысаков Вячеслав Иванович": 233,
-      "Минеева Татьяна Вадимовна": 61,
-      "Михайлова Юлия Борисовна": 205,
-      "Николаев Игорь Алексеевич": 100,
-      "Нилов Ярослав Евгеньевич": 90
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 88,
+      "gas:candidate-vibid:4774031124806": 88,
+      "gas:candidate-vibid:4774031125084": 13,
+      "gas:candidate-vibid:4774031124713": 233,
+      "gas:candidate-vibid:4774031124986": 61,
+      "gas:candidate-vibid:4774031124741": 205,
+      "gas:candidate-vibid:4774031124963": 100,
+      "gas:candidate-vibid:4774031124405": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 46,
-      "Колесов Евгений Викторович": 82,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 261,
-      "Минеева Татьяна Вадимовна": 68,
-      "Михайлова Юлия Борисовна": 213,
-      "Николаев Игорь Алексеевич": 126,
-      "Нилов Ярослав Евгеньевич": 65
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 46,
+      "gas:candidate-vibid:4774031124806": 82,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 261,
+      "gas:candidate-vibid:4774031124986": 68,
+      "gas:candidate-vibid:4774031124741": 213,
+      "gas:candidate-vibid:4774031124963": 126,
+      "gas:candidate-vibid:4774031124405": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 34,
-      "Казенков Олег Юрьевич": 80,
-      "Колесов Евгений Викторович": 74,
-      "Лукашевич Вадим Павлович": 37,
-      "Лысаков Вячеслав Иванович": 243,
-      "Минеева Татьяна Вадимовна": 52,
-      "Михайлова Юлия Борисовна": 142,
-      "Николаев Игорь Алексеевич": 95,
-      "Нилов Ярослав Евгеньевич": 92
+      "gas:candidate-vibid:4774031125013": 34,
+      "gas:candidate-vibid:4774031124974": 80,
+      "gas:candidate-vibid:4774031124806": 74,
+      "gas:candidate-vibid:4774031125084": 37,
+      "gas:candidate-vibid:4774031124713": 243,
+      "gas:candidate-vibid:4774031124986": 52,
+      "gas:candidate-vibid:4774031124741": 142,
+      "gas:candidate-vibid:4774031124963": 95,
+      "gas:candidate-vibid:4774031124405": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 71,
-      "Колесов Евгений Викторович": 42,
-      "Лукашевич Вадим Павлович": 39,
-      "Лысаков Вячеслав Иванович": 250,
-      "Минеева Татьяна Вадимовна": 47,
-      "Михайлова Юлия Борисовна": 135,
-      "Николаев Игорь Алексеевич": 94,
-      "Нилов Ярослав Евгеньевич": 75
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 71,
+      "gas:candidate-vibid:4774031124806": 42,
+      "gas:candidate-vibid:4774031125084": 39,
+      "gas:candidate-vibid:4774031124713": 250,
+      "gas:candidate-vibid:4774031124986": 47,
+      "gas:candidate-vibid:4774031124741": 135,
+      "gas:candidate-vibid:4774031124963": 94,
+      "gas:candidate-vibid:4774031124405": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 79,
-      "Колесов Евгений Викторович": 82,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 174,
-      "Минеева Татьяна Вадимовна": 23,
-      "Михайлова Юлия Борисовна": 118,
-      "Николаев Игорь Алексеевич": 60,
-      "Нилов Ярослав Евгеньевич": 63
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 79,
+      "gas:candidate-vibid:4774031124806": 82,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 174,
+      "gas:candidate-vibid:4774031124986": 23,
+      "gas:candidate-vibid:4774031124741": 118,
+      "gas:candidate-vibid:4774031124963": 60,
+      "gas:candidate-vibid:4774031124405": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 65,
-      "Колесов Евгений Викторович": 63,
-      "Лукашевич Вадим Павлович": 20,
-      "Лысаков Вячеслав Иванович": 202,
-      "Минеева Татьяна Вадимовна": 38,
-      "Михайлова Юлия Борисовна": 100,
-      "Николаев Игорь Алексеевич": 43,
-      "Нилов Ярослав Евгеньевич": 71
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 65,
+      "gas:candidate-vibid:4774031124806": 63,
+      "gas:candidate-vibid:4774031125084": 20,
+      "gas:candidate-vibid:4774031124713": 202,
+      "gas:candidate-vibid:4774031124986": 38,
+      "gas:candidate-vibid:4774031124741": 100,
+      "gas:candidate-vibid:4774031124963": 43,
+      "gas:candidate-vibid:4774031124405": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 23,
-      "Казенков Олег Юрьевич": 76,
-      "Колесов Евгений Викторович": 65,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 219,
-      "Минеева Татьяна Вадимовна": 29,
-      "Михайлова Юлия Борисовна": 116,
-      "Николаев Игорь Алексеевич": 53,
-      "Нилов Ярослав Евгеньевич": 77
+      "gas:candidate-vibid:4774031125013": 23,
+      "gas:candidate-vibid:4774031124974": 76,
+      "gas:candidate-vibid:4774031124806": 65,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 219,
+      "gas:candidate-vibid:4774031124986": 29,
+      "gas:candidate-vibid:4774031124741": 116,
+      "gas:candidate-vibid:4774031124963": 53,
+      "gas:candidate-vibid:4774031124405": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 71,
-      "Колесов Евгений Викторович": 92,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 157,
-      "Минеева Татьяна Вадимовна": 39,
-      "Михайлова Юлия Борисовна": 109,
-      "Николаев Игорь Алексеевич": 91,
-      "Нилов Ярослав Евгеньевич": 66
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 71,
+      "gas:candidate-vibid:4774031124806": 92,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 157,
+      "gas:candidate-vibid:4774031124986": 39,
+      "gas:candidate-vibid:4774031124741": 109,
+      "gas:candidate-vibid:4774031124963": 91,
+      "gas:candidate-vibid:4774031124405": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 31,
-      "Казенков Олег Юрьевич": 90,
-      "Колесов Евгений Викторович": 69,
-      "Лукашевич Вадим Павлович": 27,
-      "Лысаков Вячеслав Иванович": 191,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 124,
-      "Николаев Игорь Алексеевич": 101,
-      "Нилов Ярослав Евгеньевич": 83
+      "gas:candidate-vibid:4774031125013": 31,
+      "gas:candidate-vibid:4774031124974": 90,
+      "gas:candidate-vibid:4774031124806": 69,
+      "gas:candidate-vibid:4774031125084": 27,
+      "gas:candidate-vibid:4774031124713": 191,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 124,
+      "gas:candidate-vibid:4774031124963": 101,
+      "gas:candidate-vibid:4774031124405": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 33,
-      "Казенков Олег Юрьевич": 48,
-      "Колесов Евгений Викторович": 75,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 234,
-      "Минеева Татьяна Вадимовна": 39,
-      "Михайлова Юлия Борисовна": 96,
-      "Николаев Игорь Алексеевич": 72,
-      "Нилов Ярослав Евгеньевич": 74
+      "gas:candidate-vibid:4774031125013": 33,
+      "gas:candidate-vibid:4774031124974": 48,
+      "gas:candidate-vibid:4774031124806": 75,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 234,
+      "gas:candidate-vibid:4774031124986": 39,
+      "gas:candidate-vibid:4774031124741": 96,
+      "gas:candidate-vibid:4774031124963": 72,
+      "gas:candidate-vibid:4774031124405": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 16,
-      "Казенков Олег Юрьевич": 89,
-      "Колесов Евгений Викторович": 68,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 261,
-      "Минеева Татьяна Вадимовна": 25,
-      "Михайлова Юлия Борисовна": 108,
-      "Николаев Игорь Алексеевич": 55,
-      "Нилов Ярослав Евгеньевич": 84
+      "gas:candidate-vibid:4774031125013": 16,
+      "gas:candidate-vibid:4774031124974": 89,
+      "gas:candidate-vibid:4774031124806": 68,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 261,
+      "gas:candidate-vibid:4774031124986": 25,
+      "gas:candidate-vibid:4774031124741": 108,
+      "gas:candidate-vibid:4774031124963": 55,
+      "gas:candidate-vibid:4774031124405": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 35,
-      "Казенков Олег Юрьевич": 76,
-      "Колесов Евгений Викторович": 50,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 221,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 131,
-      "Николаев Игорь Алексеевич": 54,
-      "Нилов Ярослав Евгеньевич": 76
+      "gas:candidate-vibid:4774031125013": 35,
+      "gas:candidate-vibid:4774031124974": 76,
+      "gas:candidate-vibid:4774031124806": 50,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 221,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 131,
+      "gas:candidate-vibid:4774031124963": 54,
+      "gas:candidate-vibid:4774031124405": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 51,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 18,
-      "Лысаков Вячеслав Иванович": 193,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 109,
-      "Николаев Игорь Алексеевич": 69,
-      "Нилов Ярослав Евгеньевич": 96
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 51,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 18,
+      "gas:candidate-vibid:4774031124713": 193,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 109,
+      "gas:candidate-vibid:4774031124963": 69,
+      "gas:candidate-vibid:4774031124405": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 35,
-      "Колесов Евгений Викторович": 29,
-      "Лукашевич Вадим Павлович": 14,
-      "Лысаков Вячеслав Иванович": 123,
-      "Минеева Татьяна Вадимовна": 13,
-      "Михайлова Юлия Борисовна": 59,
-      "Николаев Игорь Алексеевич": 37,
-      "Нилов Ярослав Евгеньевич": 44
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 35,
+      "gas:candidate-vibid:4774031124806": 29,
+      "gas:candidate-vibid:4774031125084": 14,
+      "gas:candidate-vibid:4774031124713": 123,
+      "gas:candidate-vibid:4774031124986": 13,
+      "gas:candidate-vibid:4774031124741": 59,
+      "gas:candidate-vibid:4774031124963": 37,
+      "gas:candidate-vibid:4774031124405": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 18,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 90,
-      "Лукашевич Вадим Павлович": 39,
-      "Лысаков Вячеслав Иванович": 215,
-      "Минеева Татьяна Вадимовна": 50,
-      "Михайлова Юлия Борисовна": 126,
-      "Николаев Игорь Алексеевич": 133,
-      "Нилов Ярослав Евгеньевич": 57
+      "gas:candidate-vibid:4774031125013": 18,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 90,
+      "gas:candidate-vibid:4774031125084": 39,
+      "gas:candidate-vibid:4774031124713": 215,
+      "gas:candidate-vibid:4774031124986": 50,
+      "gas:candidate-vibid:4774031124741": 126,
+      "gas:candidate-vibid:4774031124963": 133,
+      "gas:candidate-vibid:4774031124405": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 40,
-      "Колесов Евгений Викторович": 52,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 176,
-      "Минеева Татьяна Вадимовна": 26,
-      "Михайлова Юлия Борисовна": 82,
-      "Николаев Игорь Алексеевич": 82,
-      "Нилов Ярослав Евгеньевич": 60
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 40,
+      "gas:candidate-vibid:4774031124806": 52,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 176,
+      "gas:candidate-vibid:4774031124986": 26,
+      "gas:candidate-vibid:4774031124741": 82,
+      "gas:candidate-vibid:4774031124963": 82,
+      "gas:candidate-vibid:4774031124405": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 24,
-      "Казенков Олег Юрьевич": 58,
-      "Колесов Евгений Викторович": 69,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 233,
-      "Минеева Татьяна Вадимовна": 45,
-      "Михайлова Юлия Борисовна": 123,
-      "Николаев Игорь Алексеевич": 83,
-      "Нилов Ярослав Евгеньевич": 63
+      "gas:candidate-vibid:4774031125013": 24,
+      "gas:candidate-vibid:4774031124974": 58,
+      "gas:candidate-vibid:4774031124806": 69,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 233,
+      "gas:candidate-vibid:4774031124986": 45,
+      "gas:candidate-vibid:4774031124741": 123,
+      "gas:candidate-vibid:4774031124963": 83,
+      "gas:candidate-vibid:4774031124405": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 42,
-      "Колесов Евгений Викторович": 62,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 233,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 99,
-      "Николаев Игорь Алексеевич": 66,
-      "Нилов Ярослав Евгеньевич": 87
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 42,
+      "gas:candidate-vibid:4774031124806": 62,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 233,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 99,
+      "gas:candidate-vibid:4774031124963": 66,
+      "gas:candidate-vibid:4774031124405": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 65,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 265,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 107,
-      "Николаев Игорь Алексеевич": 91,
-      "Нилов Ярослав Евгеньевич": 86
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 65,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 265,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 107,
+      "gas:candidate-vibid:4774031124963": 91,
+      "gas:candidate-vibid:4774031124405": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 22,
-      "Казенков Олег Юрьевич": 38,
-      "Колесов Евгений Викторович": 56,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 232,
-      "Минеева Татьяна Вадимовна": 27,
-      "Михайлова Юлия Борисовна": 106,
-      "Николаев Игорь Алексеевич": 81,
-      "Нилов Ярослав Евгеньевич": 98
+      "gas:candidate-vibid:4774031125013": 22,
+      "gas:candidate-vibid:4774031124974": 38,
+      "gas:candidate-vibid:4774031124806": 56,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 232,
+      "gas:candidate-vibid:4774031124986": 27,
+      "gas:candidate-vibid:4774031124741": 106,
+      "gas:candidate-vibid:4774031124963": 81,
+      "gas:candidate-vibid:4774031124405": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 76,
-      "Колесов Евгений Викторович": 82,
-      "Лукашевич Вадим Павлович": 47,
-      "Лысаков Вячеслав Иванович": 213,
-      "Минеева Татьяна Вадимовна": 51,
-      "Михайлова Юлия Борисовна": 116,
-      "Николаев Игорь Алексеевич": 175,
-      "Нилов Ярослав Евгеньевич": 53
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 76,
+      "gas:candidate-vibid:4774031124806": 82,
+      "gas:candidate-vibid:4774031125084": 47,
+      "gas:candidate-vibid:4774031124713": 213,
+      "gas:candidate-vibid:4774031124986": 51,
+      "gas:candidate-vibid:4774031124741": 116,
+      "gas:candidate-vibid:4774031124963": 175,
+      "gas:candidate-vibid:4774031124405": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 72,
-      "Колесов Евгений Викторович": 56,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 224,
-      "Минеева Татьяна Вадимовна": 48,
-      "Михайлова Юлия Борисовна": 119,
-      "Николаев Игорь Алексеевич": 134,
-      "Нилов Ярослав Евгеньевич": 71
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 72,
+      "gas:candidate-vibid:4774031124806": 56,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 224,
+      "gas:candidate-vibid:4774031124986": 48,
+      "gas:candidate-vibid:4774031124741": 119,
+      "gas:candidate-vibid:4774031124963": 134,
+      "gas:candidate-vibid:4774031124405": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 131,
-      "Колесов Евгений Викторович": 55,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 174,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 88,
-      "Николаев Игорь Алексеевич": 100,
-      "Нилов Ярослав Евгеньевич": 75
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 131,
+      "gas:candidate-vibid:4774031124806": 55,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 174,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 88,
+      "gas:candidate-vibid:4774031124963": 100,
+      "gas:candidate-vibid:4774031124405": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 28,
-      "Казенков Олег Юрьевич": 91,
-      "Колесов Евгений Викторович": 43,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 223,
-      "Минеева Татьяна Вадимовна": 31,
-      "Михайлова Юлия Борисовна": 150,
-      "Николаев Игорь Алексеевич": 117,
-      "Нилов Ярослав Евгеньевич": 71
+      "gas:candidate-vibid:4774031125013": 28,
+      "gas:candidate-vibid:4774031124974": 91,
+      "gas:candidate-vibid:4774031124806": 43,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 223,
+      "gas:candidate-vibid:4774031124986": 31,
+      "gas:candidate-vibid:4774031124741": 150,
+      "gas:candidate-vibid:4774031124963": 117,
+      "gas:candidate-vibid:4774031124405": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 71,
-      "Лукашевич Вадим Павлович": 40,
-      "Лысаков Вячеслав Иванович": 258,
-      "Минеева Татьяна Вадимовна": 51,
-      "Михайлова Юлия Борисовна": 116,
-      "Николаев Игорь Алексеевич": 153,
-      "Нилов Ярослав Евгеньевич": 71
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 71,
+      "gas:candidate-vibid:4774031125084": 40,
+      "gas:candidate-vibid:4774031124713": 258,
+      "gas:candidate-vibid:4774031124986": 51,
+      "gas:candidate-vibid:4774031124741": 116,
+      "gas:candidate-vibid:4774031124963": 153,
+      "gas:candidate-vibid:4774031124405": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 68,
-      "Колесов Евгений Викторович": 63,
-      "Лукашевич Вадим Павлович": 37,
-      "Лысаков Вячеслав Иванович": 188,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 112,
-      "Николаев Игорь Алексеевич": 129,
-      "Нилов Ярослав Евгеньевич": 70
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 68,
+      "gas:candidate-vibid:4774031124806": 63,
+      "gas:candidate-vibid:4774031125084": 37,
+      "gas:candidate-vibid:4774031124713": 188,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 112,
+      "gas:candidate-vibid:4774031124963": 129,
+      "gas:candidate-vibid:4774031124405": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 9,
-      "Казенков Олег Юрьевич": 30,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 213,
-      "Минеева Татьяна Вадимовна": 41,
-      "Михайлова Юлия Борисовна": 79,
-      "Николаев Игорь Алексеевич": 67,
-      "Нилов Ярослав Евгеньевич": 41
+      "gas:candidate-vibid:4774031125013": 9,
+      "gas:candidate-vibid:4774031124974": 30,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 213,
+      "gas:candidate-vibid:4774031124986": 41,
+      "gas:candidate-vibid:4774031124741": 79,
+      "gas:candidate-vibid:4774031124963": 67,
+      "gas:candidate-vibid:4774031124405": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 43,
-      "Колесов Евгений Викторович": 78,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 222,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 76,
-      "Николаев Игорь Алексеевич": 80,
-      "Нилов Ярослав Евгеньевич": 53
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 43,
+      "gas:candidate-vibid:4774031124806": 78,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 222,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 76,
+      "gas:candidate-vibid:4774031124963": 80,
+      "gas:candidate-vibid:4774031124405": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 60,
-      "Лукашевич Вадим Павлович": 39,
-      "Лысаков Вячеслав Иванович": 222,
-      "Минеева Татьяна Вадимовна": 48,
-      "Михайлова Юлия Борисовна": 111,
-      "Николаев Игорь Алексеевич": 88,
-      "Нилов Ярослав Евгеньевич": 84
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 60,
+      "gas:candidate-vibid:4774031125084": 39,
+      "gas:candidate-vibid:4774031124713": 222,
+      "gas:candidate-vibid:4774031124986": 48,
+      "gas:candidate-vibid:4774031124741": 111,
+      "gas:candidate-vibid:4774031124963": 88,
+      "gas:candidate-vibid:4774031124405": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 35,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 57,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 226,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 115,
-      "Николаев Игорь Алексеевич": 65,
-      "Нилов Ярослав Евгеньевич": 54
+      "gas:candidate-vibid:4774031125013": 35,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 57,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 226,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 115,
+      "gas:candidate-vibid:4774031124963": 65,
+      "gas:candidate-vibid:4774031124405": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 13,
-      "Казенков Олег Юрьевич": 18,
-      "Колесов Евгений Викторович": 18,
-      "Лукашевич Вадим Павлович": 4,
-      "Лысаков Вячеслав Иванович": 74,
-      "Минеева Татьяна Вадимовна": 15,
-      "Михайлова Юлия Борисовна": 26,
-      "Николаев Игорь Алексеевич": 18,
-      "Нилов Ярослав Евгеньевич": 19
+      "gas:candidate-vibid:4774031125013": 13,
+      "gas:candidate-vibid:4774031124974": 18,
+      "gas:candidate-vibid:4774031124806": 18,
+      "gas:candidate-vibid:4774031125084": 4,
+      "gas:candidate-vibid:4774031124713": 74,
+      "gas:candidate-vibid:4774031124986": 15,
+      "gas:candidate-vibid:4774031124741": 26,
+      "gas:candidate-vibid:4774031124963": 18,
+      "gas:candidate-vibid:4774031124405": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 0,
-      "Казенков Олег Юрьевич": 1,
-      "Колесов Евгений Викторович": 0,
-      "Лукашевич Вадим Павлович": 0,
-      "Лысаков Вячеслав Иванович": 2,
-      "Минеева Татьяна Вадимовна": 0,
-      "Михайлова Юлия Борисовна": 1,
-      "Николаев Игорь Алексеевич": 0,
-      "Нилов Ярослав Евгеньевич": 1
+      "gas:candidate-vibid:4774031125013": 0,
+      "gas:candidate-vibid:4774031124974": 1,
+      "gas:candidate-vibid:4774031124806": 0,
+      "gas:candidate-vibid:4774031125084": 0,
+      "gas:candidate-vibid:4774031124713": 2,
+      "gas:candidate-vibid:4774031124986": 0,
+      "gas:candidate-vibid:4774031124741": 1,
+      "gas:candidate-vibid:4774031124963": 0,
+      "gas:candidate-vibid:4774031124405": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 1,
-      "Казенков Олег Юрьевич": 4,
-      "Колесов Евгений Викторович": 4,
-      "Лукашевич Вадим Павлович": 1,
-      "Лысаков Вячеслав Иванович": 16,
-      "Минеева Татьяна Вадимовна": 1,
-      "Михайлова Юлия Борисовна": 11,
-      "Николаев Игорь Алексеевич": 4,
-      "Нилов Ярослав Евгеньевич": 3
+      "gas:candidate-vibid:4774031125013": 1,
+      "gas:candidate-vibid:4774031124974": 4,
+      "gas:candidate-vibid:4774031124806": 4,
+      "gas:candidate-vibid:4774031125084": 1,
+      "gas:candidate-vibid:4774031124713": 16,
+      "gas:candidate-vibid:4774031124986": 1,
+      "gas:candidate-vibid:4774031124741": 11,
+      "gas:candidate-vibid:4774031124963": 4,
+      "gas:candidate-vibid:4774031124405": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 0,
-      "Казенков Олег Юрьевич": 0,
-      "Колесов Евгений Викторович": 0,
-      "Лукашевич Вадим Павлович": 0,
-      "Лысаков Вячеслав Иванович": 1,
-      "Минеева Татьяна Вадимовна": 0,
-      "Михайлова Юлия Борисовна": 1,
-      "Николаев Игорь Алексеевич": 0,
-      "Нилов Ярослав Евгеньевич": 0
+      "gas:candidate-vibid:4774031125013": 0,
+      "gas:candidate-vibid:4774031124974": 0,
+      "gas:candidate-vibid:4774031124806": 0,
+      "gas:candidate-vibid:4774031125084": 0,
+      "gas:candidate-vibid:4774031124713": 1,
+      "gas:candidate-vibid:4774031124986": 0,
+      "gas:candidate-vibid:4774031124741": 1,
+      "gas:candidate-vibid:4774031124963": 0,
+      "gas:candidate-vibid:4774031124405": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 0,
-      "Казенков Олег Юрьевич": 0,
-      "Колесов Евгений Викторович": 0,
-      "Лукашевич Вадим Павлович": 0,
-      "Лысаков Вячеслав Иванович": 1,
-      "Минеева Татьяна Вадимовна": 0,
-      "Михайлова Юлия Борисовна": 1,
-      "Николаев Игорь Алексеевич": 0,
-      "Нилов Ярослав Евгеньевич": 0
+      "gas:candidate-vibid:4774031125013": 0,
+      "gas:candidate-vibid:4774031124974": 0,
+      "gas:candidate-vibid:4774031124806": 0,
+      "gas:candidate-vibid:4774031125084": 0,
+      "gas:candidate-vibid:4774031124713": 1,
+      "gas:candidate-vibid:4774031124986": 0,
+      "gas:candidate-vibid:4774031124741": 1,
+      "gas:candidate-vibid:4774031124963": 0,
+      "gas:candidate-vibid:4774031124405": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659701&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659701&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 31,
-      "Казенков Олег Юрьевич": 62,
-      "Колесов Евгений Викторович": 88,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 330,
-      "Минеева Татьяна Вадимовна": 56,
-      "Михайлова Юлия Борисовна": 133,
-      "Николаев Игорь Алексеевич": 122,
-      "Нилов Ярослав Евгеньевич": 72
+      "gas:candidate-vibid:4774031125013": 31,
+      "gas:candidate-vibid:4774031124974": 62,
+      "gas:candidate-vibid:4774031124806": 88,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 330,
+      "gas:candidate-vibid:4774031124986": 56,
+      "gas:candidate-vibid:4774031124741": 133,
+      "gas:candidate-vibid:4774031124963": 122,
+      "gas:candidate-vibid:4774031124405": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 60,
-      "Колесов Евгений Викторович": 94,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 282,
-      "Минеева Татьяна Вадимовна": 61,
-      "Михайлова Юлия Борисовна": 141,
-      "Николаев Игорь Алексеевич": 104,
-      "Нилов Ярослав Евгеньевич": 91
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 60,
+      "gas:candidate-vibid:4774031124806": 94,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 282,
+      "gas:candidate-vibid:4774031124986": 61,
+      "gas:candidate-vibid:4774031124741": 141,
+      "gas:candidate-vibid:4774031124963": 104,
+      "gas:candidate-vibid:4774031124405": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 21,
-      "Казенков Олег Юрьевич": 62,
-      "Колесов Евгений Викторович": 74,
-      "Лукашевич Вадим Павлович": 20,
-      "Лысаков Вячеслав Иванович": 200,
-      "Минеева Татьяна Вадимовна": 73,
-      "Михайлова Юлия Борисовна": 147,
-      "Николаев Игорь Алексеевич": 132,
-      "Нилов Ярослав Евгеньевич": 82
+      "gas:candidate-vibid:4774031125013": 21,
+      "gas:candidate-vibid:4774031124974": 62,
+      "gas:candidate-vibid:4774031124806": 74,
+      "gas:candidate-vibid:4774031125084": 20,
+      "gas:candidate-vibid:4774031124713": 200,
+      "gas:candidate-vibid:4774031124986": 73,
+      "gas:candidate-vibid:4774031124741": 147,
+      "gas:candidate-vibid:4774031124963": 132,
+      "gas:candidate-vibid:4774031124405": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 48,
-      "Казенков Олег Юрьевич": 92,
-      "Колесов Евгений Викторович": 68,
-      "Лукашевич Вадим Павлович": 33,
-      "Лысаков Вячеслав Иванович": 292,
-      "Минеева Татьяна Вадимовна": 60,
-      "Михайлова Юлия Борисовна": 182,
-      "Николаев Игорь Алексеевич": 118,
-      "Нилов Ярослав Евгеньевич": 90
+      "gas:candidate-vibid:4774031125013": 48,
+      "gas:candidate-vibid:4774031124974": 92,
+      "gas:candidate-vibid:4774031124806": 68,
+      "gas:candidate-vibid:4774031125084": 33,
+      "gas:candidate-vibid:4774031124713": 292,
+      "gas:candidate-vibid:4774031124986": 60,
+      "gas:candidate-vibid:4774031124741": 182,
+      "gas:candidate-vibid:4774031124963": 118,
+      "gas:candidate-vibid:4774031124405": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 45,
-      "Казенков Олег Юрьевич": 83,
-      "Колесов Евгений Викторович": 99,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 345,
-      "Минеева Татьяна Вадимовна": 53,
-      "Михайлова Юлия Борисовна": 223,
-      "Николаев Игорь Алексеевич": 98,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 45,
+      "gas:candidate-vibid:4774031124974": 83,
+      "gas:candidate-vibid:4774031124806": 99,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 345,
+      "gas:candidate-vibid:4774031124986": 53,
+      "gas:candidate-vibid:4774031124741": 223,
+      "gas:candidate-vibid:4774031124963": 98,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 39,
-      "Казенков Олег Юрьевич": 55,
-      "Колесов Евгений Викторович": 79,
-      "Лукашевич Вадим Павлович": 13,
-      "Лысаков Вячеслав Иванович": 252,
-      "Минеева Татьяна Вадимовна": 55,
-      "Михайлова Юлия Борисовна": 146,
-      "Николаев Игорь Алексеевич": 88,
-      "Нилов Ярослав Евгеньевич": 60
+      "gas:candidate-vibid:4774031125013": 39,
+      "gas:candidate-vibid:4774031124974": 55,
+      "gas:candidate-vibid:4774031124806": 79,
+      "gas:candidate-vibid:4774031125084": 13,
+      "gas:candidate-vibid:4774031124713": 252,
+      "gas:candidate-vibid:4774031124986": 55,
+      "gas:candidate-vibid:4774031124741": 146,
+      "gas:candidate-vibid:4774031124963": 88,
+      "gas:candidate-vibid:4774031124405": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 52,
-      "Колесов Евгений Викторович": 35,
-      "Лукашевич Вадим Павлович": 8,
-      "Лысаков Вячеслав Иванович": 283,
-      "Минеева Татьяна Вадимовна": 14,
-      "Михайлова Юлия Борисовна": 81,
-      "Николаев Игорь Алексеевич": 95,
-      "Нилов Ярослав Евгеньевич": 69
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 52,
+      "gas:candidate-vibid:4774031124806": 35,
+      "gas:candidate-vibid:4774031125084": 8,
+      "gas:candidate-vibid:4774031124713": 283,
+      "gas:candidate-vibid:4774031124986": 14,
+      "gas:candidate-vibid:4774031124741": 81,
+      "gas:candidate-vibid:4774031124963": 95,
+      "gas:candidate-vibid:4774031124405": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 63,
-      "Колесов Евгений Викторович": 62,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 236,
-      "Минеева Татьяна Вадимовна": 43,
-      "Михайлова Юлия Борисовна": 94,
-      "Николаев Игорь Алексеевич": 100,
-      "Нилов Ярослав Евгеньевич": 54
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 63,
+      "gas:candidate-vibid:4774031124806": 62,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 236,
+      "gas:candidate-vibid:4774031124986": 43,
+      "gas:candidate-vibid:4774031124741": 94,
+      "gas:candidate-vibid:4774031124963": 100,
+      "gas:candidate-vibid:4774031124405": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 239,
-      "Казенков Олег Юрьевич": 124,
-      "Колесов Евгений Викторович": 89,
-      "Лукашевич Вадим Павлович": 50,
-      "Лысаков Вячеслав Иванович": 441,
-      "Минеева Татьяна Вадимовна": 71,
-      "Михайлова Юлия Борисовна": 172,
-      "Николаев Игорь Алексеевич": 79,
-      "Нилов Ярослав Евгеньевич": 167
+      "gas:candidate-vibid:4774031125013": 239,
+      "gas:candidate-vibid:4774031124974": 124,
+      "gas:candidate-vibid:4774031124806": 89,
+      "gas:candidate-vibid:4774031125084": 50,
+      "gas:candidate-vibid:4774031124713": 441,
+      "gas:candidate-vibid:4774031124986": 71,
+      "gas:candidate-vibid:4774031124741": 172,
+      "gas:candidate-vibid:4774031124963": 79,
+      "gas:candidate-vibid:4774031124405": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 52,
-      "Казенков Олег Юрьевич": 65,
-      "Колесов Евгений Викторович": 81,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 317,
-      "Минеева Татьяна Вадимовна": 59,
-      "Михайлова Юлия Борисовна": 139,
-      "Николаев Игорь Алексеевич": 145,
-      "Нилов Ярослав Евгеньевич": 65
+      "gas:candidate-vibid:4774031125013": 52,
+      "gas:candidate-vibid:4774031124974": 65,
+      "gas:candidate-vibid:4774031124806": 81,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 317,
+      "gas:candidate-vibid:4774031124986": 59,
+      "gas:candidate-vibid:4774031124741": 139,
+      "gas:candidate-vibid:4774031124963": 145,
+      "gas:candidate-vibid:4774031124405": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 30,
-      "Казенков Олег Юрьевич": 44,
-      "Колесов Евгений Викторович": 91,
-      "Лукашевич Вадим Павлович": 16,
-      "Лысаков Вячеслав Иванович": 313,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 83,
-      "Николаев Игорь Алексеевич": 93,
-      "Нилов Ярослав Евгеньевич": 101
+      "gas:candidate-vibid:4774031125013": 30,
+      "gas:candidate-vibid:4774031124974": 44,
+      "gas:candidate-vibid:4774031124806": 91,
+      "gas:candidate-vibid:4774031125084": 16,
+      "gas:candidate-vibid:4774031124713": 313,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 83,
+      "gas:candidate-vibid:4774031124963": 93,
+      "gas:candidate-vibid:4774031124405": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 32,
-      "Казенков Олег Юрьевич": 66,
-      "Колесов Евгений Викторович": 91,
-      "Лукашевич Вадим Павлович": 30,
-      "Лысаков Вячеслав Иванович": 262,
-      "Минеева Татьяна Вадимовна": 58,
-      "Михайлова Юлия Борисовна": 134,
-      "Николаев Игорь Алексеевич": 155,
-      "Нилов Ярослав Евгеньевич": 89
+      "gas:candidate-vibid:4774031125013": 32,
+      "gas:candidate-vibid:4774031124974": 66,
+      "gas:candidate-vibid:4774031124806": 91,
+      "gas:candidate-vibid:4774031125084": 30,
+      "gas:candidate-vibid:4774031124713": 262,
+      "gas:candidate-vibid:4774031124986": 58,
+      "gas:candidate-vibid:4774031124741": 134,
+      "gas:candidate-vibid:4774031124963": 155,
+      "gas:candidate-vibid:4774031124405": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 39,
-      "Казенков Олег Юрьевич": 69,
-      "Колесов Евгений Викторович": 90,
-      "Лукашевич Вадим Павлович": 37,
-      "Лысаков Вячеслав Иванович": 247,
-      "Минеева Татьяна Вадимовна": 49,
-      "Михайлова Юлия Борисовна": 142,
-      "Николаев Игорь Алексеевич": 131,
-      "Нилов Ярослав Евгеньевич": 81
+      "gas:candidate-vibid:4774031125013": 39,
+      "gas:candidate-vibid:4774031124974": 69,
+      "gas:candidate-vibid:4774031124806": 90,
+      "gas:candidate-vibid:4774031125084": 37,
+      "gas:candidate-vibid:4774031124713": 247,
+      "gas:candidate-vibid:4774031124986": 49,
+      "gas:candidate-vibid:4774031124741": 142,
+      "gas:candidate-vibid:4774031124963": 131,
+      "gas:candidate-vibid:4774031124405": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 34,
-      "Казенков Олег Юрьевич": 56,
-      "Колесов Евгений Викторович": 109,
-      "Лукашевич Вадим Павлович": 27,
-      "Лысаков Вячеслав Иванович": 410,
-      "Минеева Татьяна Вадимовна": 52,
-      "Михайлова Юлия Борисовна": 186,
-      "Николаев Игорь Алексеевич": 81,
-      "Нилов Ярослав Евгеньевич": 53
+      "gas:candidate-vibid:4774031125013": 34,
+      "gas:candidate-vibid:4774031124974": 56,
+      "gas:candidate-vibid:4774031124806": 109,
+      "gas:candidate-vibid:4774031125084": 27,
+      "gas:candidate-vibid:4774031124713": 410,
+      "gas:candidate-vibid:4774031124986": 52,
+      "gas:candidate-vibid:4774031124741": 186,
+      "gas:candidate-vibid:4774031124963": 81,
+      "gas:candidate-vibid:4774031124405": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 41,
-      "Казенков Олег Юрьевич": 63,
-      "Колесов Евгений Викторович": 103,
-      "Лукашевич Вадим Павлович": 35,
-      "Лысаков Вячеслав Иванович": 263,
-      "Минеева Татьяна Вадимовна": 60,
-      "Михайлова Юлия Борисовна": 122,
-      "Николаев Игорь Алексеевич": 153,
-      "Нилов Ярослав Евгеньевич": 64
+      "gas:candidate-vibid:4774031125013": 41,
+      "gas:candidate-vibid:4774031124974": 63,
+      "gas:candidate-vibid:4774031124806": 103,
+      "gas:candidate-vibid:4774031125084": 35,
+      "gas:candidate-vibid:4774031124713": 263,
+      "gas:candidate-vibid:4774031124986": 60,
+      "gas:candidate-vibid:4774031124741": 122,
+      "gas:candidate-vibid:4774031124963": 153,
+      "gas:candidate-vibid:4774031124405": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 35,
-      "Казенков Олег Юрьевич": 82,
-      "Колесов Евгений Викторович": 73,
-      "Лукашевич Вадим Павлович": 33,
-      "Лысаков Вячеслав Иванович": 310,
-      "Минеева Татьяна Вадимовна": 56,
-      "Михайлова Юлия Борисовна": 148,
-      "Николаев Игорь Алексеевич": 143,
-      "Нилов Ярослав Евгеньевич": 77
+      "gas:candidate-vibid:4774031125013": 35,
+      "gas:candidate-vibid:4774031124974": 82,
+      "gas:candidate-vibid:4774031124806": 73,
+      "gas:candidate-vibid:4774031125084": 33,
+      "gas:candidate-vibid:4774031124713": 310,
+      "gas:candidate-vibid:4774031124986": 56,
+      "gas:candidate-vibid:4774031124741": 148,
+      "gas:candidate-vibid:4774031124963": 143,
+      "gas:candidate-vibid:4774031124405": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 72,
-      "Колесов Евгений Викторович": 99,
-      "Лукашевич Вадим Павлович": 28,
-      "Лысаков Вячеслав Иванович": 240,
-      "Минеева Татьяна Вадимовна": 67,
-      "Михайлова Юлия Борисовна": 148,
-      "Николаев Игорь Алексеевич": 131,
-      "Нилов Ярослав Евгеньевич": 63
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 72,
+      "gas:candidate-vibid:4774031124806": 99,
+      "gas:candidate-vibid:4774031125084": 28,
+      "gas:candidate-vibid:4774031124713": 240,
+      "gas:candidate-vibid:4774031124986": 67,
+      "gas:candidate-vibid:4774031124741": 148,
+      "gas:candidate-vibid:4774031124963": 131,
+      "gas:candidate-vibid:4774031124405": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 34,
-      "Казенков Олег Юрьевич": 56,
-      "Колесов Евгений Викторович": 54,
-      "Лукашевич Вадим Павлович": 15,
-      "Лысаков Вячеслав Иванович": 203,
-      "Минеева Татьяна Вадимовна": 39,
-      "Михайлова Юлия Борисовна": 148,
-      "Николаев Игорь Алексеевич": 69,
-      "Нилов Ярослав Евгеньевич": 71
+      "gas:candidate-vibid:4774031125013": 34,
+      "gas:candidate-vibid:4774031124974": 56,
+      "gas:candidate-vibid:4774031124806": 54,
+      "gas:candidate-vibid:4774031125084": 15,
+      "gas:candidate-vibid:4774031124713": 203,
+      "gas:candidate-vibid:4774031124986": 39,
+      "gas:candidate-vibid:4774031124741": 148,
+      "gas:candidate-vibid:4774031124963": 69,
+      "gas:candidate-vibid:4774031124405": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 29,
-      "Казенков Олег Юрьевич": 74,
-      "Колесов Евгений Викторович": 79,
-      "Лукашевич Вадим Павлович": 39,
-      "Лысаков Вячеслав Иванович": 278,
-      "Минеева Татьяна Вадимовна": 42,
-      "Михайлова Юлия Борисовна": 134,
-      "Николаев Игорь Алексеевич": 138,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 29,
+      "gas:candidate-vibid:4774031124974": 74,
+      "gas:candidate-vibid:4774031124806": 79,
+      "gas:candidate-vibid:4774031125084": 39,
+      "gas:candidate-vibid:4774031124713": 278,
+      "gas:candidate-vibid:4774031124986": 42,
+      "gas:candidate-vibid:4774031124741": 134,
+      "gas:candidate-vibid:4774031124963": 138,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 31,
-      "Казенков Олег Юрьевич": 53,
-      "Колесов Евгений Викторович": 75,
-      "Лукашевич Вадим Павлович": 36,
-      "Лысаков Вячеслав Иванович": 192,
-      "Минеева Татьяна Вадимовна": 40,
-      "Михайлова Юлия Борисовна": 138,
-      "Николаев Игорь Алексеевич": 96,
-      "Нилов Ярослав Евгеньевич": 64
+      "gas:candidate-vibid:4774031125013": 31,
+      "gas:candidate-vibid:4774031124974": 53,
+      "gas:candidate-vibid:4774031124806": 75,
+      "gas:candidate-vibid:4774031125084": 36,
+      "gas:candidate-vibid:4774031124713": 192,
+      "gas:candidate-vibid:4774031124986": 40,
+      "gas:candidate-vibid:4774031124741": 138,
+      "gas:candidate-vibid:4774031124963": 96,
+      "gas:candidate-vibid:4774031124405": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 36,
-      "Казенков Олег Юрьевич": 61,
-      "Колесов Евгений Викторович": 85,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 227,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 131,
-      "Николаев Игорь Алексеевич": 79,
-      "Нилов Ярослав Евгеньевич": 68
+      "gas:candidate-vibid:4774031125013": 36,
+      "gas:candidate-vibid:4774031124974": 61,
+      "gas:candidate-vibid:4774031124806": 85,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 227,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 131,
+      "gas:candidate-vibid:4774031124963": 79,
+      "gas:candidate-vibid:4774031124405": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 12,
-      "Казенков Олег Юрьевич": 24,
-      "Колесов Евгений Викторович": 36,
-      "Лукашевич Вадим Павлович": 17,
-      "Лысаков Вячеслав Иванович": 190,
-      "Минеева Татьяна Вадимовна": 14,
-      "Михайлова Юлия Борисовна": 39,
-      "Николаев Игорь Алексеевич": 76,
-      "Нилов Ярослав Евгеньевич": 26
+      "gas:candidate-vibid:4774031125013": 12,
+      "gas:candidate-vibid:4774031124974": 24,
+      "gas:candidate-vibid:4774031124806": 36,
+      "gas:candidate-vibid:4774031125084": 17,
+      "gas:candidate-vibid:4774031124713": 190,
+      "gas:candidate-vibid:4774031124986": 14,
+      "gas:candidate-vibid:4774031124741": 39,
+      "gas:candidate-vibid:4774031124963": 76,
+      "gas:candidate-vibid:4774031124405": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659702&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659702&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 36,
-      "Колесов Евгений Викторович": 33,
-      "Лукашевич Вадим Павлович": 26,
-      "Лысаков Вячеслав Иванович": 128,
-      "Минеева Татьяна Вадимовна": 28,
-      "Михайлова Юлия Борисовна": 64,
-      "Николаев Игорь Алексеевич": 78,
-      "Нилов Ярослав Евгеньевич": 27
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 36,
+      "gas:candidate-vibid:4774031124806": 33,
+      "gas:candidate-vibid:4774031125084": 26,
+      "gas:candidate-vibid:4774031124713": 128,
+      "gas:candidate-vibid:4774031124986": 28,
+      "gas:candidate-vibid:4774031124741": 64,
+      "gas:candidate-vibid:4774031124963": 78,
+      "gas:candidate-vibid:4774031124405": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 19,
-      "Казенков Олег Юрьевич": 58,
-      "Колесов Евгений Викторович": 49,
-      "Лукашевич Вадим Павлович": 36,
-      "Лысаков Вячеслав Иванович": 164,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 109,
-      "Николаев Игорь Алексеевич": 159,
-      "Нилов Ярослав Евгеньевич": 43
+      "gas:candidate-vibid:4774031125013": 19,
+      "gas:candidate-vibid:4774031124974": 58,
+      "gas:candidate-vibid:4774031124806": 49,
+      "gas:candidate-vibid:4774031125084": 36,
+      "gas:candidate-vibid:4774031124713": 164,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 109,
+      "gas:candidate-vibid:4774031124963": 159,
+      "gas:candidate-vibid:4774031124405": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 15,
-      "Казенков Олег Юрьевич": 47,
-      "Колесов Евгений Викторович": 32,
-      "Лукашевич Вадим Павлович": 24,
-      "Лысаков Вячеслав Иванович": 139,
-      "Минеева Татьяна Вадимовна": 33,
-      "Михайлова Юлия Борисовна": 81,
-      "Николаев Игорь Алексеевич": 141,
-      "Нилов Ярослав Евгеньевич": 46
+      "gas:candidate-vibid:4774031125013": 15,
+      "gas:candidate-vibid:4774031124974": 47,
+      "gas:candidate-vibid:4774031124806": 32,
+      "gas:candidate-vibid:4774031125084": 24,
+      "gas:candidate-vibid:4774031124713": 139,
+      "gas:candidate-vibid:4774031124986": 33,
+      "gas:candidate-vibid:4774031124741": 81,
+      "gas:candidate-vibid:4774031124963": 141,
+      "gas:candidate-vibid:4774031124405": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 23,
-      "Казенков Олег Юрьевич": 25,
-      "Колесов Евгений Викторович": 37,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 129,
-      "Минеева Татьяна Вадимовна": 33,
-      "Михайлова Юлия Борисовна": 74,
-      "Николаев Игорь Алексеевич": 81,
-      "Нилов Ярослав Евгеньевич": 42
+      "gas:candidate-vibid:4774031125013": 23,
+      "gas:candidate-vibid:4774031124974": 25,
+      "gas:candidate-vibid:4774031124806": 37,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 129,
+      "gas:candidate-vibid:4774031124986": 33,
+      "gas:candidate-vibid:4774031124741": 74,
+      "gas:candidate-vibid:4774031124963": 81,
+      "gas:candidate-vibid:4774031124405": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 35,
-      "Казенков Олег Юрьевич": 33,
-      "Колесов Евгений Викторович": 51,
-      "Лукашевич Вадим Павлович": 23,
-      "Лысаков Вячеслав Иванович": 178,
-      "Минеева Татьяна Вадимовна": 46,
-      "Михайлова Юлия Борисовна": 97,
-      "Николаев Игорь Алексеевич": 90,
-      "Нилов Ярослав Евгеньевич": 60
+      "gas:candidate-vibid:4774031125013": 35,
+      "gas:candidate-vibid:4774031124974": 33,
+      "gas:candidate-vibid:4774031124806": 51,
+      "gas:candidate-vibid:4774031125084": 23,
+      "gas:candidate-vibid:4774031124713": 178,
+      "gas:candidate-vibid:4774031124986": 46,
+      "gas:candidate-vibid:4774031124741": 97,
+      "gas:candidate-vibid:4774031124963": 90,
+      "gas:candidate-vibid:4774031124405": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 19,
-      "Казенков Олег Юрьевич": 38,
-      "Колесов Евгений Викторович": 44,
-      "Лукашевич Вадим Павлович": 22,
-      "Лысаков Вячеслав Иванович": 170,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 91,
-      "Николаев Игорь Алексеевич": 90,
-      "Нилов Ярослав Евгеньевич": 53
+      "gas:candidate-vibid:4774031125013": 19,
+      "gas:candidate-vibid:4774031124974": 38,
+      "gas:candidate-vibid:4774031124806": 44,
+      "gas:candidate-vibid:4774031125084": 22,
+      "gas:candidate-vibid:4774031124713": 170,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 91,
+      "gas:candidate-vibid:4774031124963": 90,
+      "gas:candidate-vibid:4774031124405": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 48,
-      "Колесов Евгений Викторович": 63,
-      "Лукашевич Вадим Павлович": 21,
-      "Лысаков Вячеслав Иванович": 162,
-      "Минеева Татьяна Вадимовна": 35,
-      "Михайлова Юлия Борисовна": 85,
-      "Николаев Игорь Алексеевич": 115,
-      "Нилов Ярослав Евгеньевич": 34
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 48,
+      "gas:candidate-vibid:4774031124806": 63,
+      "gas:candidate-vibid:4774031125084": 21,
+      "gas:candidate-vibid:4774031124713": 162,
+      "gas:candidate-vibid:4774031124986": 35,
+      "gas:candidate-vibid:4774031124741": 85,
+      "gas:candidate-vibid:4774031124963": 115,
+      "gas:candidate-vibid:4774031124405": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 18,
-      "Казенков Олег Юрьевич": 41,
-      "Колесов Евгений Викторович": 59,
-      "Лукашевич Вадим Павлович": 31,
-      "Лысаков Вячеслав Иванович": 185,
-      "Минеева Татьяна Вадимовна": 56,
-      "Михайлова Юлия Борисовна": 136,
-      "Николаев Игорь Алексеевич": 170,
-      "Нилов Ярослав Евгеньевич": 38
+      "gas:candidate-vibid:4774031125013": 18,
+      "gas:candidate-vibid:4774031124974": 41,
+      "gas:candidate-vibid:4774031124806": 59,
+      "gas:candidate-vibid:4774031125084": 31,
+      "gas:candidate-vibid:4774031124713": 185,
+      "gas:candidate-vibid:4774031124986": 56,
+      "gas:candidate-vibid:4774031124741": 136,
+      "gas:candidate-vibid:4774031124963": 170,
+      "gas:candidate-vibid:4774031124405": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 56,
-      "Колесов Евгений Викторович": 33,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 135,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 85,
-      "Николаев Игорь Алексеевич": 110,
-      "Нилов Ярослав Евгеньевич": 55
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 56,
+      "gas:candidate-vibid:4774031124806": 33,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 135,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 85,
+      "gas:candidate-vibid:4774031124963": 110,
+      "gas:candidate-vibid:4774031124405": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 25,
-      "Казенков Олег Юрьевич": 45,
-      "Колесов Евгений Викторович": 46,
-      "Лукашевич Вадим Павлович": 33,
-      "Лысаков Вячеслав Иванович": 149,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 106,
-      "Николаев Игорь Алексеевич": 128,
-      "Нилов Ярослав Евгеньевич": 40
+      "gas:candidate-vibid:4774031125013": 25,
+      "gas:candidate-vibid:4774031124974": 45,
+      "gas:candidate-vibid:4774031124806": 46,
+      "gas:candidate-vibid:4774031125084": 33,
+      "gas:candidate-vibid:4774031124713": 149,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 106,
+      "gas:candidate-vibid:4774031124963": 128,
+      "gas:candidate-vibid:4774031124405": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 46,
-      "Колесов Евгений Викторович": 65,
-      "Лукашевич Вадим Павлович": 29,
-      "Лысаков Вячеслав Иванович": 201,
-      "Минеева Татьяна Вадимовна": 38,
-      "Михайлова Юлия Борисовна": 116,
-      "Николаев Игорь Алексеевич": 160,
-      "Нилов Ярослав Евгеньевич": 48
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 46,
+      "gas:candidate-vibid:4774031124806": 65,
+      "gas:candidate-vibid:4774031125084": 29,
+      "gas:candidate-vibid:4774031124713": 201,
+      "gas:candidate-vibid:4774031124986": 38,
+      "gas:candidate-vibid:4774031124741": 116,
+      "gas:candidate-vibid:4774031124963": 160,
+      "gas:candidate-vibid:4774031124405": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 68,
-      "Колесов Евгений Викторович": 64,
-      "Лукашевич Вадим Павлович": 42,
-      "Лысаков Вячеслав Иванович": 178,
-      "Минеева Татьяна Вадимовна": 50,
-      "Михайлова Юлия Борисовна": 116,
-      "Николаев Игорь Алексеевич": 171,
-      "Нилов Ярослав Евгеньевич": 49
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 68,
+      "gas:candidate-vibid:4774031124806": 64,
+      "gas:candidate-vibid:4774031125084": 42,
+      "gas:candidate-vibid:4774031124713": 178,
+      "gas:candidate-vibid:4774031124986": 50,
+      "gas:candidate-vibid:4774031124741": 116,
+      "gas:candidate-vibid:4774031124963": 171,
+      "gas:candidate-vibid:4774031124405": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 26,
-      "Казенков Олег Юрьевич": 41,
-      "Колесов Евгений Викторович": 48,
-      "Лукашевич Вадим Павлович": 19,
-      "Лысаков Вячеслав Иванович": 163,
-      "Минеева Татьяна Вадимовна": 37,
-      "Михайлова Юлия Борисовна": 107,
-      "Николаев Игорь Алексеевич": 96,
-      "Нилов Ярослав Евгеньевич": 39
+      "gas:candidate-vibid:4774031125013": 26,
+      "gas:candidate-vibid:4774031124974": 41,
+      "gas:candidate-vibid:4774031124806": 48,
+      "gas:candidate-vibid:4774031125084": 19,
+      "gas:candidate-vibid:4774031124713": 163,
+      "gas:candidate-vibid:4774031124986": 37,
+      "gas:candidate-vibid:4774031124741": 107,
+      "gas:candidate-vibid:4774031124963": 96,
+      "gas:candidate-vibid:4774031124405": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 12,
-      "Казенков Олег Юрьевич": 50,
-      "Колесов Евгений Викторович": 50,
-      "Лукашевич Вадим Павлович": 25,
-      "Лысаков Вячеслав Иванович": 140,
-      "Минеева Татьяна Вадимовна": 42,
-      "Михайлова Юлия Борисовна": 160,
-      "Николаев Игорь Алексеевич": 103,
-      "Нилов Ярослав Евгеньевич": 54
+      "gas:candidate-vibid:4774031125013": 12,
+      "gas:candidate-vibid:4774031124974": 50,
+      "gas:candidate-vibid:4774031124806": 50,
+      "gas:candidate-vibid:4774031125084": 25,
+      "gas:candidate-vibid:4774031124713": 140,
+      "gas:candidate-vibid:4774031124986": 42,
+      "gas:candidate-vibid:4774031124741": 160,
+      "gas:candidate-vibid:4774031124963": 103,
+      "gas:candidate-vibid:4774031124405": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 11,
-      "Казенков Олег Юрьевич": 34,
-      "Колесов Евгений Викторович": 15,
-      "Лукашевич Вадим Павлович": 13,
-      "Лысаков Вячеслав Иванович": 93,
-      "Минеева Татьяна Вадимовна": 30,
-      "Михайлова Юлия Борисовна": 93,
-      "Николаев Игорь Алексеевич": 76,
-      "Нилов Ярослав Евгеньевич": 34
+      "gas:candidate-vibid:4774031125013": 11,
+      "gas:candidate-vibid:4774031124974": 34,
+      "gas:candidate-vibid:4774031124806": 15,
+      "gas:candidate-vibid:4774031125084": 13,
+      "gas:candidate-vibid:4774031124713": 93,
+      "gas:candidate-vibid:4774031124986": 30,
+      "gas:candidate-vibid:4774031124741": 93,
+      "gas:candidate-vibid:4774031124963": 76,
+      "gas:candidate-vibid:4774031124405": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 14,
-      "Казенков Олег Юрьевич": 34,
-      "Колесов Евгений Викторович": 57,
-      "Лукашевич Вадим Павлович": 9,
-      "Лысаков Вячеслав Иванович": 122,
-      "Минеева Татьяна Вадимовна": 34,
-      "Михайлова Юлия Борисовна": 115,
-      "Николаев Игорь Алексеевич": 110,
-      "Нилов Ярослав Евгеньевич": 36
+      "gas:candidate-vibid:4774031125013": 14,
+      "gas:candidate-vibid:4774031124974": 34,
+      "gas:candidate-vibid:4774031124806": 57,
+      "gas:candidate-vibid:4774031125084": 9,
+      "gas:candidate-vibid:4774031124713": 122,
+      "gas:candidate-vibid:4774031124986": 34,
+      "gas:candidate-vibid:4774031124741": 115,
+      "gas:candidate-vibid:4774031124963": 110,
+      "gas:candidate-vibid:4774031124405": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 27,
-      "Казенков Олег Юрьевич": 42,
-      "Колесов Евгений Викторович": 49,
-      "Лукашевич Вадим Павлович": 27,
-      "Лысаков Вячеслав Иванович": 181,
-      "Минеева Татьяна Вадимовна": 49,
-      "Михайлова Юлия Борисовна": 109,
-      "Николаев Игорь Алексеевич": 166,
-      "Нилов Ярослав Евгеньевич": 34
+      "gas:candidate-vibid:4774031125013": 27,
+      "gas:candidate-vibid:4774031124974": 42,
+      "gas:candidate-vibid:4774031124806": 49,
+      "gas:candidate-vibid:4774031125084": 27,
+      "gas:candidate-vibid:4774031124713": 181,
+      "gas:candidate-vibid:4774031124986": 49,
+      "gas:candidate-vibid:4774031124741": 109,
+      "gas:candidate-vibid:4774031124963": 166,
+      "gas:candidate-vibid:4774031124405": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 17,
-      "Казенков Олег Юрьевич": 48,
-      "Колесов Евгений Викторович": 47,
-      "Лукашевич Вадим Павлович": 34,
-      "Лысаков Вячеслав Иванович": 166,
-      "Минеева Татьяна Вадимовна": 36,
-      "Михайлова Юлия Борисовна": 116,
-      "Николаев Игорь Алексеевич": 176,
-      "Нилов Ярослав Евгеньевич": 59
+      "gas:candidate-vibid:4774031125013": 17,
+      "gas:candidate-vibid:4774031124974": 48,
+      "gas:candidate-vibid:4774031124806": 47,
+      "gas:candidate-vibid:4774031125084": 34,
+      "gas:candidate-vibid:4774031124713": 166,
+      "gas:candidate-vibid:4774031124986": 36,
+      "gas:candidate-vibid:4774031124741": 116,
+      "gas:candidate-vibid:4774031124963": 176,
+      "gas:candidate-vibid:4774031124405": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 54,
-      "Колесов Евгений Викторович": 44,
-      "Лукашевич Вадим Павлович": 39,
-      "Лысаков Вячеслав Иванович": 167,
-      "Минеева Татьяна Вадимовна": 69,
-      "Михайлова Юлия Борисовна": 104,
-      "Николаев Игорь Алексеевич": 162,
-      "Нилов Ярослав Евгеньевич": 25
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 54,
+      "gas:candidate-vibid:4774031124806": 44,
+      "gas:candidate-vibid:4774031125084": 39,
+      "gas:candidate-vibid:4774031124713": 167,
+      "gas:candidate-vibid:4774031124986": 69,
+      "gas:candidate-vibid:4774031124741": 104,
+      "gas:candidate-vibid:4774031124963": 162,
+      "gas:candidate-vibid:4774031124405": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 20,
-      "Казенков Олег Юрьевич": 30,
-      "Колесов Евгений Викторович": 58,
-      "Лукашевич Вадим Павлович": 27,
-      "Лысаков Вячеслав Иванович": 133,
-      "Минеева Татьяна Вадимовна": 57,
-      "Михайлова Юлия Борисовна": 129,
-      "Николаев Игорь Алексеевич": 168,
-      "Нилов Ярослав Евгеньевич": 37
+      "gas:candidate-vibid:4774031125013": 20,
+      "gas:candidate-vibid:4774031124974": 30,
+      "gas:candidate-vibid:4774031124806": 58,
+      "gas:candidate-vibid:4774031125084": 27,
+      "gas:candidate-vibid:4774031124713": 133,
+      "gas:candidate-vibid:4774031124986": 57,
+      "gas:candidate-vibid:4774031124741": 129,
+      "gas:candidate-vibid:4774031124963": 168,
+      "gas:candidate-vibid:4774031124405": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Елисеева Наталия Андреевна": 0,
-      "Казенков Олег Юрьевич": 0,
-      "Колесов Евгений Викторович": 0,
-      "Лукашевич Вадим Павлович": 0,
-      "Лысаков Вячеслав Иванович": 0,
-      "Минеева Татьяна Вадимовна": 0,
-      "Михайлова Юлия Борисовна": 1,
-      "Николаев Игорь Алексеевич": 0,
-      "Нилов Ярослав Евгеньевич": 0
+      "gas:candidate-vibid:4774031125013": 0,
+      "gas:candidate-vibid:4774031124974": 0,
+      "gas:candidate-vibid:4774031124806": 0,
+      "gas:candidate-vibid:4774031125084": 0,
+      "gas:candidate-vibid:4774031124713": 0,
+      "gas:candidate-vibid:4774031124986": 0,
+      "gas:candidate-vibid:4774031124741": 1,
+      "gas:candidate-vibid:4774031124963": 0,
+      "gas:candidate-vibid:4774031124405": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000261&tvd=27720001659703&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659703&type=464",
@@ -13495,18 +13495,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 74,
-      "Галямина Юлия Евгеньевна": 131,
-      "Гуськов Александр Александрович": 13,
-      "Калачев Валерий Валентинович": 61,
-      "Макаров Вячеслав Геннадьевич": 25,
-      "Нечаев Андрей Алексеевич": 51,
-      "Объедков Федор Юрьевич": 34,
-      "Онищенко Иван Владимирович": 27,
-      "Тарасов Антон Александрович": 108,
-      "Хованская Галина Петровна": 353,
-      "Шунков Виталий Валентинович": 19,
-      "Юрченко Юрий Петрович": 7
+      "gas:candidate-vibid:4774050114643": 74,
+      "gas:candidate-vibid:4774050115069": 131,
+      "gas:candidate-vibid:4774050115364": 13,
+      "gas:candidate-vibid:4774050115252": 61,
+      "gas:candidate-vibid:4774050114884": 25,
+      "gas:candidate-vibid:4774050114938": 51,
+      "gas:candidate-vibid:4774050115380": 34,
+      "gas:candidate-vibid:4774050114857": 27,
+      "gas:candidate-vibid:4774050114779": 108,
+      "gas:candidate-vibid:4774050114750": 353,
+      "gas:candidate-vibid:4774050114837": 19,
+      "gas:candidate-vibid:4774050115270": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13557,18 +13557,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 84,
-      "Галямина Юлия Евгеньевна": 113,
-      "Гуськов Александр Александрович": 15,
-      "Калачев Валерий Валентинович": 48,
-      "Макаров Вячеслав Геннадьевич": 26,
-      "Нечаев Андрей Алексеевич": 47,
-      "Объедков Федор Юрьевич": 14,
-      "Онищенко Иван Владимирович": 31,
-      "Тарасов Антон Александрович": 67,
-      "Хованская Галина Петровна": 276,
-      "Шунков Виталий Валентинович": 12,
-      "Юрченко Юрий Петрович": 9
+      "gas:candidate-vibid:4774050114643": 84,
+      "gas:candidate-vibid:4774050115069": 113,
+      "gas:candidate-vibid:4774050115364": 15,
+      "gas:candidate-vibid:4774050115252": 48,
+      "gas:candidate-vibid:4774050114884": 26,
+      "gas:candidate-vibid:4774050114938": 47,
+      "gas:candidate-vibid:4774050115380": 14,
+      "gas:candidate-vibid:4774050114857": 31,
+      "gas:candidate-vibid:4774050114779": 67,
+      "gas:candidate-vibid:4774050114750": 276,
+      "gas:candidate-vibid:4774050114837": 12,
+      "gas:candidate-vibid:4774050115270": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13619,18 +13619,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 78,
-      "Галямина Юлия Евгеньевна": 90,
-      "Гуськов Александр Александрович": 11,
-      "Калачев Валерий Валентинович": 60,
-      "Макаров Вячеслав Геннадьевич": 31,
-      "Нечаев Андрей Алексеевич": 49,
-      "Объедков Федор Юрьевич": 22,
-      "Онищенко Иван Владимирович": 37,
-      "Тарасов Антон Александрович": 139,
-      "Хованская Галина Петровна": 346,
-      "Шунков Виталий Валентинович": 18,
-      "Юрченко Юрий Петрович": 5
+      "gas:candidate-vibid:4774050114643": 78,
+      "gas:candidate-vibid:4774050115069": 90,
+      "gas:candidate-vibid:4774050115364": 11,
+      "gas:candidate-vibid:4774050115252": 60,
+      "gas:candidate-vibid:4774050114884": 31,
+      "gas:candidate-vibid:4774050114938": 49,
+      "gas:candidate-vibid:4774050115380": 22,
+      "gas:candidate-vibid:4774050114857": 37,
+      "gas:candidate-vibid:4774050114779": 139,
+      "gas:candidate-vibid:4774050114750": 346,
+      "gas:candidate-vibid:4774050114837": 18,
+      "gas:candidate-vibid:4774050115270": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13681,18 +13681,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 102,
-      "Галямина Юлия Евгеньевна": 103,
-      "Гуськов Александр Александрович": 18,
-      "Калачев Валерий Валентинович": 58,
-      "Макаров Вячеслав Геннадьевич": 22,
-      "Нечаев Андрей Алексеевич": 54,
-      "Объедков Федор Юрьевич": 21,
-      "Онищенко Иван Владимирович": 33,
-      "Тарасов Антон Александрович": 141,
-      "Хованская Галина Петровна": 390,
-      "Шунков Виталий Валентинович": 19,
-      "Юрченко Юрий Петрович": 9
+      "gas:candidate-vibid:4774050114643": 102,
+      "gas:candidate-vibid:4774050115069": 103,
+      "gas:candidate-vibid:4774050115364": 18,
+      "gas:candidate-vibid:4774050115252": 58,
+      "gas:candidate-vibid:4774050114884": 22,
+      "gas:candidate-vibid:4774050114938": 54,
+      "gas:candidate-vibid:4774050115380": 21,
+      "gas:candidate-vibid:4774050114857": 33,
+      "gas:candidate-vibid:4774050114779": 141,
+      "gas:candidate-vibid:4774050114750": 390,
+      "gas:candidate-vibid:4774050114837": 19,
+      "gas:candidate-vibid:4774050115270": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13743,18 +13743,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 95,
-      "Галямина Юлия Евгеньевна": 135,
-      "Гуськов Александр Александрович": 16,
-      "Калачев Валерий Валентинович": 49,
-      "Макаров Вячеслав Геннадьевич": 35,
-      "Нечаев Андрей Алексеевич": 53,
-      "Объедков Федор Юрьевич": 27,
-      "Онищенко Иван Владимирович": 39,
-      "Тарасов Антон Александрович": 116,
-      "Хованская Галина Петровна": 292,
-      "Шунков Виталий Валентинович": 16,
-      "Юрченко Юрий Петрович": 15
+      "gas:candidate-vibid:4774050114643": 95,
+      "gas:candidate-vibid:4774050115069": 135,
+      "gas:candidate-vibid:4774050115364": 16,
+      "gas:candidate-vibid:4774050115252": 49,
+      "gas:candidate-vibid:4774050114884": 35,
+      "gas:candidate-vibid:4774050114938": 53,
+      "gas:candidate-vibid:4774050115380": 27,
+      "gas:candidate-vibid:4774050114857": 39,
+      "gas:candidate-vibid:4774050114779": 116,
+      "gas:candidate-vibid:4774050114750": 292,
+      "gas:candidate-vibid:4774050114837": 16,
+      "gas:candidate-vibid:4774050115270": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13805,18 +13805,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 64,
-      "Галямина Юлия Евгеньевна": 135,
-      "Гуськов Александр Александрович": 6,
-      "Калачев Валерий Валентинович": 52,
-      "Макаров Вячеслав Геннадьевич": 30,
-      "Нечаев Андрей Алексеевич": 43,
-      "Объедков Федор Юрьевич": 25,
-      "Онищенко Иван Владимирович": 26,
-      "Тарасов Антон Александрович": 77,
-      "Хованская Галина Петровна": 241,
-      "Шунков Виталий Валентинович": 18,
-      "Юрченко Юрий Петрович": 11
+      "gas:candidate-vibid:4774050114643": 64,
+      "gas:candidate-vibid:4774050115069": 135,
+      "gas:candidate-vibid:4774050115364": 6,
+      "gas:candidate-vibid:4774050115252": 52,
+      "gas:candidate-vibid:4774050114884": 30,
+      "gas:candidate-vibid:4774050114938": 43,
+      "gas:candidate-vibid:4774050115380": 25,
+      "gas:candidate-vibid:4774050114857": 26,
+      "gas:candidate-vibid:4774050114779": 77,
+      "gas:candidate-vibid:4774050114750": 241,
+      "gas:candidate-vibid:4774050114837": 18,
+      "gas:candidate-vibid:4774050115270": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13867,18 +13867,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 86,
-      "Галямина Юлия Евгеньевна": 185,
-      "Гуськов Александр Александрович": 12,
-      "Калачев Валерий Валентинович": 72,
-      "Макаров Вячеслав Геннадьевич": 36,
-      "Нечаев Андрей Алексеевич": 66,
-      "Объедков Федор Юрьевич": 23,
-      "Онищенко Иван Владимирович": 35,
-      "Тарасов Антон Александрович": 154,
-      "Хованская Галина Петровна": 349,
-      "Шунков Виталий Валентинович": 26,
-      "Юрченко Юрий Петрович": 6
+      "gas:candidate-vibid:4774050114643": 86,
+      "gas:candidate-vibid:4774050115069": 185,
+      "gas:candidate-vibid:4774050115364": 12,
+      "gas:candidate-vibid:4774050115252": 72,
+      "gas:candidate-vibid:4774050114884": 36,
+      "gas:candidate-vibid:4774050114938": 66,
+      "gas:candidate-vibid:4774050115380": 23,
+      "gas:candidate-vibid:4774050114857": 35,
+      "gas:candidate-vibid:4774050114779": 154,
+      "gas:candidate-vibid:4774050114750": 349,
+      "gas:candidate-vibid:4774050114837": 26,
+      "gas:candidate-vibid:4774050115270": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13929,18 +13929,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 77,
-      "Галямина Юлия Евгеньевна": 136,
-      "Гуськов Александр Александрович": 12,
-      "Калачев Валерий Валентинович": 52,
-      "Макаров Вячеслав Геннадьевич": 22,
-      "Нечаев Андрей Алексеевич": 33,
-      "Объедков Федор Юрьевич": 16,
-      "Онищенко Иван Владимирович": 41,
-      "Тарасов Антон Александрович": 74,
-      "Хованская Галина Петровна": 254,
-      "Шунков Виталий Валентинович": 20,
-      "Юрченко Юрий Петрович": 8
+      "gas:candidate-vibid:4774050114643": 77,
+      "gas:candidate-vibid:4774050115069": 136,
+      "gas:candidate-vibid:4774050115364": 12,
+      "gas:candidate-vibid:4774050115252": 52,
+      "gas:candidate-vibid:4774050114884": 22,
+      "gas:candidate-vibid:4774050114938": 33,
+      "gas:candidate-vibid:4774050115380": 16,
+      "gas:candidate-vibid:4774050114857": 41,
+      "gas:candidate-vibid:4774050114779": 74,
+      "gas:candidate-vibid:4774050114750": 254,
+      "gas:candidate-vibid:4774050114837": 20,
+      "gas:candidate-vibid:4774050115270": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -13991,18 +13991,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 298,
-      "Галямина Юлия Евгеньевна": 215,
-      "Гуськов Александр Александрович": 36,
-      "Калачев Валерий Валентинович": 188,
-      "Макаров Вячеслав Геннадьевич": 45,
-      "Нечаев Андрей Алексеевич": 104,
-      "Объедков Федор Юрьевич": 61,
-      "Онищенко Иван Владимирович": 166,
-      "Тарасов Антон Александрович": 238,
-      "Хованская Галина Петровна": 453,
-      "Шунков Виталий Валентинович": 79,
-      "Юрченко Юрий Петрович": 26
+      "gas:candidate-vibid:4774050114643": 298,
+      "gas:candidate-vibid:4774050115069": 215,
+      "gas:candidate-vibid:4774050115364": 36,
+      "gas:candidate-vibid:4774050115252": 188,
+      "gas:candidate-vibid:4774050114884": 45,
+      "gas:candidate-vibid:4774050114938": 104,
+      "gas:candidate-vibid:4774050115380": 61,
+      "gas:candidate-vibid:4774050114857": 166,
+      "gas:candidate-vibid:4774050114779": 238,
+      "gas:candidate-vibid:4774050114750": 453,
+      "gas:candidate-vibid:4774050114837": 79,
+      "gas:candidate-vibid:4774050115270": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14053,18 +14053,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 77,
-      "Галямина Юлия Евгеньевна": 176,
-      "Гуськов Александр Александрович": 8,
-      "Калачев Валерий Валентинович": 38,
-      "Макаров Вячеслав Геннадьевич": 23,
-      "Нечаев Андрей Алексеевич": 60,
-      "Объедков Федор Юрьевич": 23,
-      "Онищенко Иван Владимирович": 26,
-      "Тарасов Антон Александрович": 91,
-      "Хованская Галина Петровна": 289,
-      "Шунков Виталий Валентинович": 17,
-      "Юрченко Юрий Петрович": 7
+      "gas:candidate-vibid:4774050114643": 77,
+      "gas:candidate-vibid:4774050115069": 176,
+      "gas:candidate-vibid:4774050115364": 8,
+      "gas:candidate-vibid:4774050115252": 38,
+      "gas:candidate-vibid:4774050114884": 23,
+      "gas:candidate-vibid:4774050114938": 60,
+      "gas:candidate-vibid:4774050115380": 23,
+      "gas:candidate-vibid:4774050114857": 26,
+      "gas:candidate-vibid:4774050114779": 91,
+      "gas:candidate-vibid:4774050114750": 289,
+      "gas:candidate-vibid:4774050114837": 17,
+      "gas:candidate-vibid:4774050115270": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14115,18 +14115,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 76,
-      "Галямина Юлия Евгеньевна": 169,
-      "Гуськов Александр Александрович": 13,
-      "Калачев Валерий Валентинович": 50,
-      "Макаров Вячеслав Геннадьевич": 30,
-      "Нечаев Андрей Алексеевич": 79,
-      "Объедков Федор Юрьевич": 14,
-      "Онищенко Иван Владимирович": 20,
-      "Тарасов Антон Александрович": 88,
-      "Хованская Галина Петровна": 291,
-      "Шунков Виталий Валентинович": 17,
-      "Юрченко Юрий Петрович": 11
+      "gas:candidate-vibid:4774050114643": 76,
+      "gas:candidate-vibid:4774050115069": 169,
+      "gas:candidate-vibid:4774050115364": 13,
+      "gas:candidate-vibid:4774050115252": 50,
+      "gas:candidate-vibid:4774050114884": 30,
+      "gas:candidate-vibid:4774050114938": 79,
+      "gas:candidate-vibid:4774050115380": 14,
+      "gas:candidate-vibid:4774050114857": 20,
+      "gas:candidate-vibid:4774050114779": 88,
+      "gas:candidate-vibid:4774050114750": 291,
+      "gas:candidate-vibid:4774050114837": 17,
+      "gas:candidate-vibid:4774050115270": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14177,18 +14177,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 65,
-      "Галямина Юлия Евгеньевна": 180,
-      "Гуськов Александр Александрович": 7,
-      "Калачев Валерий Валентинович": 55,
-      "Макаров Вячеслав Геннадьевич": 33,
-      "Нечаев Андрей Алексеевич": 60,
-      "Объедков Федор Юрьевич": 19,
-      "Онищенко Иван Владимирович": 22,
-      "Тарасов Антон Александрович": 146,
-      "Хованская Галина Петровна": 294,
-      "Шунков Виталий Валентинович": 19,
-      "Юрченко Юрий Петрович": 8
+      "gas:candidate-vibid:4774050114643": 65,
+      "gas:candidate-vibid:4774050115069": 180,
+      "gas:candidate-vibid:4774050115364": 7,
+      "gas:candidate-vibid:4774050115252": 55,
+      "gas:candidate-vibid:4774050114884": 33,
+      "gas:candidate-vibid:4774050114938": 60,
+      "gas:candidate-vibid:4774050115380": 19,
+      "gas:candidate-vibid:4774050114857": 22,
+      "gas:candidate-vibid:4774050114779": 146,
+      "gas:candidate-vibid:4774050114750": 294,
+      "gas:candidate-vibid:4774050114837": 19,
+      "gas:candidate-vibid:4774050115270": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14239,18 +14239,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 13,
-      "Галямина Юлия Евгеньевна": 191,
-      "Гуськов Александр Александрович": 8,
-      "Калачев Валерий Валентинович": 58,
-      "Макаров Вячеслав Геннадьевич": 30,
-      "Нечаев Андрей Алексеевич": 109,
-      "Объедков Федор Юрьевич": 14,
-      "Онищенко Иван Владимирович": 17,
-      "Тарасов Антон Александрович": 53,
-      "Хованская Галина Петровна": 163,
-      "Шунков Виталий Валентинович": 40,
-      "Юрченко Юрий Петрович": 8
+      "gas:candidate-vibid:4774050114643": 13,
+      "gas:candidate-vibid:4774050115069": 191,
+      "gas:candidate-vibid:4774050115364": 8,
+      "gas:candidate-vibid:4774050115252": 58,
+      "gas:candidate-vibid:4774050114884": 30,
+      "gas:candidate-vibid:4774050114938": 109,
+      "gas:candidate-vibid:4774050115380": 14,
+      "gas:candidate-vibid:4774050114857": 17,
+      "gas:candidate-vibid:4774050114779": 53,
+      "gas:candidate-vibid:4774050114750": 163,
+      "gas:candidate-vibid:4774050114837": 40,
+      "gas:candidate-vibid:4774050115270": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14301,18 +14301,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 34,
-      "Галямина Юлия Евгеньевна": 206,
-      "Гуськов Александр Александрович": 15,
-      "Калачев Валерий Валентинович": 54,
-      "Макаров Вячеслав Геннадьевич": 36,
-      "Нечаев Андрей Алексеевич": 98,
-      "Объедков Федор Юрьевич": 27,
-      "Онищенко Иван Владимирович": 15,
-      "Тарасов Антон Александрович": 52,
-      "Хованская Галина Петровна": 125,
-      "Шунков Виталий Валентинович": 9,
-      "Юрченко Юрий Петрович": 9
+      "gas:candidate-vibid:4774050114643": 34,
+      "gas:candidate-vibid:4774050115069": 206,
+      "gas:candidate-vibid:4774050115364": 15,
+      "gas:candidate-vibid:4774050115252": 54,
+      "gas:candidate-vibid:4774050114884": 36,
+      "gas:candidate-vibid:4774050114938": 98,
+      "gas:candidate-vibid:4774050115380": 27,
+      "gas:candidate-vibid:4774050114857": 15,
+      "gas:candidate-vibid:4774050114779": 52,
+      "gas:candidate-vibid:4774050114750": 125,
+      "gas:candidate-vibid:4774050114837": 9,
+      "gas:candidate-vibid:4774050115270": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14363,18 +14363,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 56,
-      "Галямина Юлия Евгеньевна": 168,
-      "Гуськов Александр Александрович": 13,
-      "Калачев Валерий Валентинович": 42,
-      "Макаров Вячеслав Геннадьевич": 35,
-      "Нечаев Андрей Алексеевич": 52,
-      "Объедков Федор Юрьевич": 20,
-      "Онищенко Иван Владимирович": 28,
-      "Тарасов Антон Александрович": 72,
-      "Хованская Галина Петровна": 177,
-      "Шунков Виталий Валентинович": 5,
-      "Юрченко Юрий Петрович": 9
+      "gas:candidate-vibid:4774050114643": 56,
+      "gas:candidate-vibid:4774050115069": 168,
+      "gas:candidate-vibid:4774050115364": 13,
+      "gas:candidate-vibid:4774050115252": 42,
+      "gas:candidate-vibid:4774050114884": 35,
+      "gas:candidate-vibid:4774050114938": 52,
+      "gas:candidate-vibid:4774050115380": 20,
+      "gas:candidate-vibid:4774050114857": 28,
+      "gas:candidate-vibid:4774050114779": 72,
+      "gas:candidate-vibid:4774050114750": 177,
+      "gas:candidate-vibid:4774050114837": 5,
+      "gas:candidate-vibid:4774050115270": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14425,18 +14425,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 73,
-      "Галямина Юлия Евгеньевна": 159,
-      "Гуськов Александр Александрович": 10,
-      "Калачев Валерий Валентинович": 58,
-      "Макаров Вячеслав Геннадьевич": 29,
-      "Нечаев Андрей Алексеевич": 76,
-      "Объедков Федор Юрьевич": 11,
-      "Онищенко Иван Владимирович": 33,
-      "Тарасов Антон Александрович": 89,
-      "Хованская Галина Петровна": 213,
-      "Шунков Виталий Валентинович": 24,
-      "Юрченко Юрий Петрович": 8
+      "gas:candidate-vibid:4774050114643": 73,
+      "gas:candidate-vibid:4774050115069": 159,
+      "gas:candidate-vibid:4774050115364": 10,
+      "gas:candidate-vibid:4774050115252": 58,
+      "gas:candidate-vibid:4774050114884": 29,
+      "gas:candidate-vibid:4774050114938": 76,
+      "gas:candidate-vibid:4774050115380": 11,
+      "gas:candidate-vibid:4774050114857": 33,
+      "gas:candidate-vibid:4774050114779": 89,
+      "gas:candidate-vibid:4774050114750": 213,
+      "gas:candidate-vibid:4774050114837": 24,
+      "gas:candidate-vibid:4774050115270": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14487,18 +14487,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 87,
-      "Галямина Юлия Евгеньевна": 114,
-      "Гуськов Александр Александрович": 11,
-      "Калачев Валерий Валентинович": 58,
-      "Макаров Вячеслав Геннадьевич": 22,
-      "Нечаев Андрей Алексеевич": 46,
-      "Объедков Федор Юрьевич": 19,
-      "Онищенко Иван Владимирович": 27,
-      "Тарасов Антон Александрович": 104,
-      "Хованская Галина Петровна": 277,
-      "Шунков Виталий Валентинович": 20,
-      "Юрченко Юрий Петрович": 7
+      "gas:candidate-vibid:4774050114643": 87,
+      "gas:candidate-vibid:4774050115069": 114,
+      "gas:candidate-vibid:4774050115364": 11,
+      "gas:candidate-vibid:4774050115252": 58,
+      "gas:candidate-vibid:4774050114884": 22,
+      "gas:candidate-vibid:4774050114938": 46,
+      "gas:candidate-vibid:4774050115380": 19,
+      "gas:candidate-vibid:4774050114857": 27,
+      "gas:candidate-vibid:4774050114779": 104,
+      "gas:candidate-vibid:4774050114750": 277,
+      "gas:candidate-vibid:4774050114837": 20,
+      "gas:candidate-vibid:4774050115270": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14549,18 +14549,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 29,
-      "Галямина Юлия Евгеньевна": 91,
-      "Гуськов Александр Александрович": 5,
-      "Калачев Валерий Валентинович": 44,
-      "Макаров Вячеслав Геннадьевич": 16,
-      "Нечаев Андрей Алексеевич": 42,
-      "Объедков Федор Юрьевич": 8,
-      "Онищенко Иван Владимирович": 24,
-      "Тарасов Антон Александрович": 75,
-      "Хованская Галина Петровна": 197,
-      "Шунков Виталий Валентинович": 13,
-      "Юрченко Юрий Петрович": 5
+      "gas:candidate-vibid:4774050114643": 29,
+      "gas:candidate-vibid:4774050115069": 91,
+      "gas:candidate-vibid:4774050115364": 5,
+      "gas:candidate-vibid:4774050115252": 44,
+      "gas:candidate-vibid:4774050114884": 16,
+      "gas:candidate-vibid:4774050114938": 42,
+      "gas:candidate-vibid:4774050115380": 8,
+      "gas:candidate-vibid:4774050114857": 24,
+      "gas:candidate-vibid:4774050114779": 75,
+      "gas:candidate-vibid:4774050114750": 197,
+      "gas:candidate-vibid:4774050114837": 13,
+      "gas:candidate-vibid:4774050115270": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14611,18 +14611,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 64,
-      "Галямина Юлия Евгеньевна": 115,
-      "Гуськов Александр Александрович": 6,
-      "Калачев Валерий Валентинович": 31,
-      "Макаров Вячеслав Геннадьевич": 29,
-      "Нечаев Андрей Алексеевич": 52,
-      "Объедков Федор Юрьевич": 10,
-      "Онищенко Иван Владимирович": 14,
-      "Тарасов Антон Александрович": 41,
-      "Хованская Галина Петровна": 135,
-      "Шунков Виталий Валентинович": 4,
-      "Юрченко Юрий Петрович": 4
+      "gas:candidate-vibid:4774050114643": 64,
+      "gas:candidate-vibid:4774050115069": 115,
+      "gas:candidate-vibid:4774050115364": 6,
+      "gas:candidate-vibid:4774050115252": 31,
+      "gas:candidate-vibid:4774050114884": 29,
+      "gas:candidate-vibid:4774050114938": 52,
+      "gas:candidate-vibid:4774050115380": 10,
+      "gas:candidate-vibid:4774050114857": 14,
+      "gas:candidate-vibid:4774050114779": 41,
+      "gas:candidate-vibid:4774050114750": 135,
+      "gas:candidate-vibid:4774050114837": 4,
+      "gas:candidate-vibid:4774050115270": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14673,18 +14673,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 12,
-      "Галямина Юлия Евгеньевна": 34,
-      "Гуськов Александр Александрович": 1,
-      "Калачев Валерий Валентинович": 15,
-      "Макаров Вячеслав Геннадьевич": 2,
-      "Нечаев Андрей Алексеевич": 6,
-      "Объедков Федор Юрьевич": 4,
-      "Онищенко Иван Владимирович": 8,
-      "Тарасов Антон Александрович": 14,
-      "Хованская Галина Петровна": 30,
-      "Шунков Виталий Валентинович": 2,
-      "Юрченко Юрий Петрович": 0
+      "gas:candidate-vibid:4774050114643": 12,
+      "gas:candidate-vibid:4774050115069": 34,
+      "gas:candidate-vibid:4774050115364": 1,
+      "gas:candidate-vibid:4774050115252": 15,
+      "gas:candidate-vibid:4774050114884": 2,
+      "gas:candidate-vibid:4774050114938": 6,
+      "gas:candidate-vibid:4774050115380": 4,
+      "gas:candidate-vibid:4774050114857": 8,
+      "gas:candidate-vibid:4774050114779": 14,
+      "gas:candidate-vibid:4774050114750": 30,
+      "gas:candidate-vibid:4774050114837": 2,
+      "gas:candidate-vibid:4774050115270": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659704&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659704&type=464",
@@ -14735,18 +14735,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 84,
-      "Галямина Юлия Евгеньевна": 189,
-      "Гуськов Александр Александрович": 16,
-      "Калачев Валерий Валентинович": 40,
-      "Макаров Вячеслав Геннадьевич": 36,
-      "Нечаев Андрей Алексеевич": 68,
-      "Объедков Федор Юрьевич": 25,
-      "Онищенко Иван Владимирович": 24,
-      "Тарасов Антон Александрович": 111,
-      "Хованская Галина Петровна": 263,
-      "Шунков Виталий Валентинович": 23,
-      "Юрченко Юрий Петрович": 7
+      "gas:candidate-vibid:4774050114643": 84,
+      "gas:candidate-vibid:4774050115069": 189,
+      "gas:candidate-vibid:4774050115364": 16,
+      "gas:candidate-vibid:4774050115252": 40,
+      "gas:candidate-vibid:4774050114884": 36,
+      "gas:candidate-vibid:4774050114938": 68,
+      "gas:candidate-vibid:4774050115380": 25,
+      "gas:candidate-vibid:4774050114857": 24,
+      "gas:candidate-vibid:4774050114779": 111,
+      "gas:candidate-vibid:4774050114750": 263,
+      "gas:candidate-vibid:4774050114837": 23,
+      "gas:candidate-vibid:4774050115270": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659705&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659705&type=464",
@@ -14797,18 +14797,18 @@ export const duma_2016_uik_463_region_77_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Власов Василий Максимович": 50,
-      "Галямина Юлия Евгеньевна": 176,
-      "Гуськов Александр Александрович": 9,
-      "Калачев Валерий Валентинович": 56,
-      "Макаров Вячеслав Геннадьевич": 23,
-      "Нечаев Андрей Алексеевич": 47,
-      "Объедков Федор Юрьевич": 21,
-      "Онищенко Иван Владимирович": 29,
-      "Тарасов Антон Александрович": 84,
-      "Хованская Галина Петровна": 293,
-      "Шунков Виталий Валентинович": 24,
-      "Юрченко Юрий Петрович": 6
+      "gas:candidate-vibid:4774050114643": 50,
+      "gas:candidate-vibid:4774050115069": 176,
+      "gas:candidate-vibid:4774050115364": 9,
+      "gas:candidate-vibid:4774050115252": 56,
+      "gas:candidate-vibid:4774050114884": 23,
+      "gas:candidate-vibid:4774050114938": 47,
+      "gas:candidate-vibid:4774050115380": 21,
+      "gas:candidate-vibid:4774050114857": 29,
+      "gas:candidate-vibid:4774050114779": 84,
+      "gas:candidate-vibid:4774050114750": 293,
+      "gas:candidate-vibid:4774050114837": 24,
+      "gas:candidate-vibid:4774050115270": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=1000262&tvd=27720001659705&vrn=100100067795849&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001659705&type=464",

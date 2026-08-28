@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 347,
-      "Денисов Владимир Владимирович": 20,
-      "Курченков Константин Юрьевич": 13,
-      "Логинов Борис Алексеевич": 24,
-      "Парамонов Михаил Константинович": 47,
-      "Повасин Алексей Валерьевич": 9,
-      "Смирнов Станислав Юрьевич": 16,
-      "Тарло Евгений Георгиевич": 34,
-      "Чихалов Илья Александрович": 75
+      "gas:candidate-vibid:2762000513417": 347,
+      "gas:candidate-vibid:2762000514700": 20,
+      "gas:candidate-vibid:2762000515367": 13,
+      "gas:candidate-vibid:2762000514863": 24,
+      "gas:candidate-vibid:2762000513868": 47,
+      "gas:candidate-vibid:2762000514622": 9,
+      "gas:candidate-vibid:2762000513817": 16,
+      "gas:candidate-vibid:2762000514689": 34,
+      "gas:candidate-vibid:2762000513234": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 328,
-      "Денисов Владимир Владимирович": 48,
-      "Курченков Константин Юрьевич": 31,
-      "Логинов Борис Алексеевич": 18,
-      "Парамонов Михаил Константинович": 60,
-      "Повасин Алексей Валерьевич": 11,
-      "Смирнов Станислав Юрьевич": 23,
-      "Тарло Евгений Георгиевич": 27,
-      "Чихалов Илья Александрович": 70
+      "gas:candidate-vibid:2762000513417": 328,
+      "gas:candidate-vibid:2762000514700": 48,
+      "gas:candidate-vibid:2762000515367": 31,
+      "gas:candidate-vibid:2762000514863": 18,
+      "gas:candidate-vibid:2762000513868": 60,
+      "gas:candidate-vibid:2762000514622": 11,
+      "gas:candidate-vibid:2762000513817": 23,
+      "gas:candidate-vibid:2762000514689": 27,
+      "gas:candidate-vibid:2762000513234": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 332,
-      "Денисов Владимир Владимирович": 27,
-      "Курченков Константин Юрьевич": 28,
-      "Логинов Борис Алексеевич": 16,
-      "Парамонов Михаил Константинович": 47,
-      "Повасин Алексей Валерьевич": 8,
-      "Смирнов Станислав Юрьевич": 10,
-      "Тарло Евгений Георгиевич": 29,
-      "Чихалов Илья Александрович": 54
+      "gas:candidate-vibid:2762000513417": 332,
+      "gas:candidate-vibid:2762000514700": 27,
+      "gas:candidate-vibid:2762000515367": 28,
+      "gas:candidate-vibid:2762000514863": 16,
+      "gas:candidate-vibid:2762000513868": 47,
+      "gas:candidate-vibid:2762000514622": 8,
+      "gas:candidate-vibid:2762000513817": 10,
+      "gas:candidate-vibid:2762000514689": 29,
+      "gas:candidate-vibid:2762000513234": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 323,
-      "Денисов Владимир Владимирович": 45,
-      "Курченков Константин Юрьевич": 20,
-      "Логинов Борис Алексеевич": 14,
-      "Парамонов Михаил Константинович": 63,
-      "Повасин Алексей Валерьевич": 12,
-      "Смирнов Станислав Юрьевич": 14,
-      "Тарло Евгений Георгиевич": 24,
-      "Чихалов Илья Александрович": 78
+      "gas:candidate-vibid:2762000513417": 323,
+      "gas:candidate-vibid:2762000514700": 45,
+      "gas:candidate-vibid:2762000515367": 20,
+      "gas:candidate-vibid:2762000514863": 14,
+      "gas:candidate-vibid:2762000513868": 63,
+      "gas:candidate-vibid:2762000514622": 12,
+      "gas:candidate-vibid:2762000513817": 14,
+      "gas:candidate-vibid:2762000514689": 24,
+      "gas:candidate-vibid:2762000513234": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 296,
-      "Денисов Владимир Владимирович": 41,
-      "Курченков Константин Юрьевич": 17,
-      "Логинов Борис Алексеевич": 16,
-      "Парамонов Михаил Константинович": 42,
-      "Повасин Алексей Валерьевич": 16,
-      "Смирнов Станислав Юрьевич": 10,
-      "Тарло Евгений Георгиевич": 37,
-      "Чихалов Илья Александрович": 43
+      "gas:candidate-vibid:2762000513417": 296,
+      "gas:candidate-vibid:2762000514700": 41,
+      "gas:candidate-vibid:2762000515367": 17,
+      "gas:candidate-vibid:2762000514863": 16,
+      "gas:candidate-vibid:2762000513868": 42,
+      "gas:candidate-vibid:2762000514622": 16,
+      "gas:candidate-vibid:2762000513817": 10,
+      "gas:candidate-vibid:2762000514689": 37,
+      "gas:candidate-vibid:2762000513234": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 295,
-      "Денисов Владимир Владимирович": 36,
-      "Курченков Константин Юрьевич": 26,
-      "Логинов Борис Алексеевич": 22,
-      "Парамонов Михаил Константинович": 42,
-      "Повасин Алексей Валерьевич": 14,
-      "Смирнов Станислав Юрьевич": 16,
-      "Тарло Евгений Георгиевич": 20,
-      "Чихалов Илья Александрович": 60
+      "gas:candidate-vibid:2762000513417": 295,
+      "gas:candidate-vibid:2762000514700": 36,
+      "gas:candidate-vibid:2762000515367": 26,
+      "gas:candidate-vibid:2762000514863": 22,
+      "gas:candidate-vibid:2762000513868": 42,
+      "gas:candidate-vibid:2762000514622": 14,
+      "gas:candidate-vibid:2762000513817": 16,
+      "gas:candidate-vibid:2762000514689": 20,
+      "gas:candidate-vibid:2762000513234": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 264,
-      "Денисов Владимир Владимирович": 18,
-      "Курченков Константин Юрьевич": 24,
-      "Логинов Борис Алексеевич": 18,
-      "Парамонов Михаил Константинович": 51,
-      "Повасин Алексей Валерьевич": 8,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 22,
-      "Чихалов Илья Александрович": 55
+      "gas:candidate-vibid:2762000513417": 264,
+      "gas:candidate-vibid:2762000514700": 18,
+      "gas:candidate-vibid:2762000515367": 24,
+      "gas:candidate-vibid:2762000514863": 18,
+      "gas:candidate-vibid:2762000513868": 51,
+      "gas:candidate-vibid:2762000514622": 8,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 22,
+      "gas:candidate-vibid:2762000513234": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 178,
-      "Денисов Владимир Владимирович": 18,
-      "Курченков Константин Юрьевич": 16,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 28,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 11,
-      "Чихалов Илья Александрович": 60
+      "gas:candidate-vibid:2762000513417": 178,
+      "gas:candidate-vibid:2762000514700": 18,
+      "gas:candidate-vibid:2762000515367": 16,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 28,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 11,
+      "gas:candidate-vibid:2762000513234": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 302,
-      "Денисов Владимир Владимирович": 34,
-      "Курченков Константин Юрьевич": 24,
-      "Логинов Борис Алексеевич": 15,
-      "Парамонов Михаил Константинович": 46,
-      "Повасин Алексей Валерьевич": 14,
-      "Смирнов Станислав Юрьевич": 23,
-      "Тарло Евгений Георгиевич": 40,
-      "Чихалов Илья Александрович": 66
+      "gas:candidate-vibid:2762000513417": 302,
+      "gas:candidate-vibid:2762000514700": 34,
+      "gas:candidate-vibid:2762000515367": 24,
+      "gas:candidate-vibid:2762000514863": 15,
+      "gas:candidate-vibid:2762000513868": 46,
+      "gas:candidate-vibid:2762000514622": 14,
+      "gas:candidate-vibid:2762000513817": 23,
+      "gas:candidate-vibid:2762000514689": 40,
+      "gas:candidate-vibid:2762000513234": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 288,
-      "Денисов Владимир Владимирович": 32,
-      "Курченков Константин Юрьевич": 27,
-      "Логинов Борис Алексеевич": 12,
-      "Парамонов Михаил Константинович": 57,
-      "Повасин Алексей Валерьевич": 19,
-      "Смирнов Станислав Юрьевич": 24,
-      "Тарло Евгений Георгиевич": 32,
-      "Чихалов Илья Александрович": 64
+      "gas:candidate-vibid:2762000513417": 288,
+      "gas:candidate-vibid:2762000514700": 32,
+      "gas:candidate-vibid:2762000515367": 27,
+      "gas:candidate-vibid:2762000514863": 12,
+      "gas:candidate-vibid:2762000513868": 57,
+      "gas:candidate-vibid:2762000514622": 19,
+      "gas:candidate-vibid:2762000513817": 24,
+      "gas:candidate-vibid:2762000514689": 32,
+      "gas:candidate-vibid:2762000513234": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 32,
-      "Денисов Владимир Владимирович": 4,
-      "Курченков Константин Юрьевич": 4,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 10,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 16
+      "gas:candidate-vibid:2762000513417": 32,
+      "gas:candidate-vibid:2762000514700": 4,
+      "gas:candidate-vibid:2762000515367": 4,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 10,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484984&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484984&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 314,
-      "Денисов Владимир Владимирович": 20,
-      "Курченков Константин Юрьевич": 22,
-      "Логинов Борис Алексеевич": 9,
-      "Парамонов Михаил Константинович": 49,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 12,
-      "Чихалов Илья Александрович": 25
+      "gas:candidate-vibid:2762000513417": 314,
+      "gas:candidate-vibid:2762000514700": 20,
+      "gas:candidate-vibid:2762000515367": 22,
+      "gas:candidate-vibid:2762000514863": 9,
+      "gas:candidate-vibid:2762000513868": 49,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 12,
+      "gas:candidate-vibid:2762000513234": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 232,
-      "Денисов Владимир Владимирович": 13,
-      "Курченков Константин Юрьевич": 22,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 32,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 17,
-      "Тарло Евгений Георгиевич": 13,
-      "Чихалов Илья Александрович": 34
+      "gas:candidate-vibid:2762000513417": 232,
+      "gas:candidate-vibid:2762000514700": 13,
+      "gas:candidate-vibid:2762000515367": 22,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 32,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 17,
+      "gas:candidate-vibid:2762000514689": 13,
+      "gas:candidate-vibid:2762000513234": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 133,
-      "Денисов Владимир Владимирович": 16,
-      "Курченков Константин Юрьевич": 22,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 12,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 4,
-      "Чихалов Илья Александрович": 19
+      "gas:candidate-vibid:2762000513417": 133,
+      "gas:candidate-vibid:2762000514700": 16,
+      "gas:candidate-vibid:2762000515367": 22,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 12,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 4,
+      "gas:candidate-vibid:2762000513234": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 88,
-      "Денисов Владимир Владимирович": 9,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 3,
-      "Повасин Алексей Валерьевич": 0,
-      "Смирнов Станислав Юрьевич": 9,
-      "Тарло Евгений Георгиевич": 5,
-      "Чихалов Илья Александрович": 12
+      "gas:candidate-vibid:2762000513417": 88,
+      "gas:candidate-vibid:2762000514700": 9,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 3,
+      "gas:candidate-vibid:2762000514622": 0,
+      "gas:candidate-vibid:2762000513817": 9,
+      "gas:candidate-vibid:2762000514689": 5,
+      "gas:candidate-vibid:2762000513234": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 59,
-      "Денисов Владимир Владимирович": 11,
-      "Курченков Константин Юрьевич": 18,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 4,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 1,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 13
+      "gas:candidate-vibid:2762000513417": 59,
+      "gas:candidate-vibid:2762000514700": 11,
+      "gas:candidate-vibid:2762000515367": 18,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 4,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 1,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 56,
-      "Денисов Владимир Владимирович": 14,
-      "Курченков Константин Юрьевич": 11,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 8,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 7
+      "gas:candidate-vibid:2762000513417": 56,
+      "gas:candidate-vibid:2762000514700": 14,
+      "gas:candidate-vibid:2762000515367": 11,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 8,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 210,
-      "Денисов Владимир Владимирович": 21,
-      "Курченков Константин Юрьевич": 26,
-      "Логинов Борис Алексеевич": 13,
-      "Парамонов Михаил Константинович": 26,
-      "Повасин Алексей Валерьевич": 7,
-      "Смирнов Станислав Юрьевич": 11,
-      "Тарло Евгений Георгиевич": 7,
-      "Чихалов Илья Александрович": 61
+      "gas:candidate-vibid:2762000513417": 210,
+      "gas:candidate-vibid:2762000514700": 21,
+      "gas:candidate-vibid:2762000515367": 26,
+      "gas:candidate-vibid:2762000514863": 13,
+      "gas:candidate-vibid:2762000513868": 26,
+      "gas:candidate-vibid:2762000514622": 7,
+      "gas:candidate-vibid:2762000513817": 11,
+      "gas:candidate-vibid:2762000514689": 7,
+      "gas:candidate-vibid:2762000513234": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 160,
-      "Денисов Владимир Владимирович": 11,
-      "Курченков Константин Юрьевич": 14,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 2,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 24
+      "gas:candidate-vibid:2762000513417": 160,
+      "gas:candidate-vibid:2762000514700": 11,
+      "gas:candidate-vibid:2762000515367": 14,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 2,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 206,
-      "Денисов Владимир Владимирович": 16,
-      "Курченков Константин Юрьевич": 16,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 20,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 4,
-      "Тарло Евгений Георгиевич": 4,
-      "Чихалов Илья Александрович": 34
+      "gas:candidate-vibid:2762000513417": 206,
+      "gas:candidate-vibid:2762000514700": 16,
+      "gas:candidate-vibid:2762000515367": 16,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 20,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 4,
+      "gas:candidate-vibid:2762000514689": 4,
+      "gas:candidate-vibid:2762000513234": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 123,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 6,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 26
+      "gas:candidate-vibid:2762000513417": 123,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 6,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 30,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 3,
-      "Логинов Борис Алексеевич": 0,
-      "Парамонов Михаил Константинович": 3,
-      "Повасин Алексей Валерьевич": 0,
-      "Смирнов Станислав Юрьевич": 1,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 11
+      "gas:candidate-vibid:2762000513417": 30,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 3,
+      "gas:candidate-vibid:2762000514863": 0,
+      "gas:candidate-vibid:2762000513868": 3,
+      "gas:candidate-vibid:2762000514622": 0,
+      "gas:candidate-vibid:2762000513817": 1,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 294,
-      "Денисов Владимир Владимирович": 25,
-      "Курченков Константин Юрьевич": 41,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 29,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 11,
-      "Тарло Евгений Георгиевич": 12,
-      "Чихалов Илья Александрович": 34
+      "gas:candidate-vibid:2762000513417": 294,
+      "gas:candidate-vibid:2762000514700": 25,
+      "gas:candidate-vibid:2762000515367": 41,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 29,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 11,
+      "gas:candidate-vibid:2762000514689": 12,
+      "gas:candidate-vibid:2762000513234": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 256,
-      "Денисов Владимир Владимирович": 21,
-      "Курченков Константин Юрьевич": 33,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 34,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 5,
-      "Чихалов Илья Александрович": 46
+      "gas:candidate-vibid:2762000513417": 256,
+      "gas:candidate-vibid:2762000514700": 21,
+      "gas:candidate-vibid:2762000515367": 33,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 34,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 5,
+      "gas:candidate-vibid:2762000513234": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 207,
-      "Денисов Владимир Владимирович": 13,
-      "Курченков Константин Юрьевич": 18,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 21,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 8,
-      "Чихалов Илья Александрович": 28
+      "gas:candidate-vibid:2762000513417": 207,
+      "gas:candidate-vibid:2762000514700": 13,
+      "gas:candidate-vibid:2762000515367": 18,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 21,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 8,
+      "gas:candidate-vibid:2762000513234": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 66,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 5,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 3,
-      "Повасин Алексей Валерьевич": 0,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 9
+      "gas:candidate-vibid:2762000513417": 66,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 5,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 3,
+      "gas:candidate-vibid:2762000514622": 0,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 51,
-      "Денисов Владимир Владимирович": 1,
-      "Курченков Константин Юрьевич": 17,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 7,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 1,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 11
+      "gas:candidate-vibid:2762000513417": 51,
+      "gas:candidate-vibid:2762000514700": 1,
+      "gas:candidate-vibid:2762000515367": 17,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 7,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 1,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 57,
-      "Денисов Владимир Владимирович": 3,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 9,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 0,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 7
+      "gas:candidate-vibid:2762000513417": 57,
+      "gas:candidate-vibid:2762000514700": 3,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 9,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 0,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 65,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 4,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 10
+      "gas:candidate-vibid:2762000513417": 65,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 4,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 32,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 3,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 6,
-      "Повасин Алексей Валерьевич": 0,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 5
+      "gas:candidate-vibid:2762000513417": 32,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 3,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 6,
+      "gas:candidate-vibid:2762000514622": 0,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 58,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 7,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 9,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 10
+      "gas:candidate-vibid:2762000513417": 58,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 7,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 9,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 65,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 5,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 9,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 4,
-      "Чихалов Илья Александрович": 10
+      "gas:candidate-vibid:2762000513417": 65,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 5,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 9,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 4,
+      "gas:candidate-vibid:2762000513234": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 57,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 2,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 7
+      "gas:candidate-vibid:2762000513417": 57,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 2,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 61,
-      "Денисов Владимир Владимирович": 4,
-      "Курченков Константин Юрьевич": 11,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 4,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 2,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 11
+      "gas:candidate-vibid:2762000513417": 61,
+      "gas:candidate-vibid:2762000514700": 4,
+      "gas:candidate-vibid:2762000515367": 11,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 4,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 2,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 59,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 9,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 19
+      "gas:candidate-vibid:2762000513417": 59,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 9,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 54,
-      "Денисов Владимир Владимирович": 3,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 9,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 8
+      "gas:candidate-vibid:2762000513417": 54,
+      "gas:candidate-vibid:2762000514700": 3,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 9,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 320,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 16,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 71,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 21,
-      "Тарло Евгений Георгиевич": 4,
-      "Чихалов Илья Александрович": 26
+      "gas:candidate-vibid:2762000513417": 320,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 16,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 71,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 21,
+      "gas:candidate-vibid:2762000514689": 4,
+      "gas:candidate-vibid:2762000513234": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 155,
-      "Денисов Владимир Владимирович": 3,
-      "Курченков Константин Юрьевич": 9,
-      "Логинов Борис Алексеевич": 8,
-      "Парамонов Михаил Константинович": 32,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 8,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 23
+      "gas:candidate-vibid:2762000513417": 155,
+      "gas:candidate-vibid:2762000514700": 3,
+      "gas:candidate-vibid:2762000515367": 9,
+      "gas:candidate-vibid:2762000514863": 8,
+      "gas:candidate-vibid:2762000513868": 32,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 8,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484985&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484985&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 87,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 4,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 17,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 14
+      "gas:candidate-vibid:2762000513417": 87,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 4,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 17,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 89,
-      "Денисов Владимир Владимирович": 16,
-      "Курченков Константин Юрьевич": 10,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 13,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 20
+      "gas:candidate-vibid:2762000513417": 89,
+      "gas:candidate-vibid:2762000514700": 16,
+      "gas:candidate-vibid:2762000515367": 10,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 13,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 60,
-      "Денисов Владимир Владимирович": 1,
-      "Курченков Константин Юрьевич": 3,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 8,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 4,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 13
+      "gas:candidate-vibid:2762000513417": 60,
+      "gas:candidate-vibid:2762000514700": 1,
+      "gas:candidate-vibid:2762000515367": 3,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 8,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 4,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 22,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 9,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 14,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 9,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 17
+      "gas:candidate-vibid:2762000513417": 22,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 9,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 14,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 9,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 106,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 12,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 10,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 10,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 21
+      "gas:candidate-vibid:2762000513417": 106,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 12,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 10,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 10,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 83,
-      "Денисов Владимир Владимирович": 11,
-      "Курченков Константин Юрьевич": 4,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 10,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 14
+      "gas:candidate-vibid:2762000513417": 83,
+      "gas:candidate-vibid:2762000514700": 11,
+      "gas:candidate-vibid:2762000515367": 4,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 10,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 67,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 4,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 10,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 18
+      "gas:candidate-vibid:2762000513417": 67,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 4,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 10,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 193,
-      "Денисов Владимир Владимирович": 33,
-      "Курченков Константин Юрьевич": 81,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 10,
-      "Тарло Евгений Георгиевич": 6,
-      "Чихалов Илья Александрович": 32
+      "gas:candidate-vibid:2762000513417": 193,
+      "gas:candidate-vibid:2762000514700": 33,
+      "gas:candidate-vibid:2762000515367": 81,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 10,
+      "gas:candidate-vibid:2762000514689": 6,
+      "gas:candidate-vibid:2762000513234": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 84,
-      "Денисов Владимир Владимирович": 10,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 18,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 12,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 17
+      "gas:candidate-vibid:2762000513417": 84,
+      "gas:candidate-vibid:2762000514700": 10,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 18,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 12,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 40,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 12,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 9,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 2,
-      "Тарло Евгений Георгиевич": 4,
-      "Чихалов Илья Александрович": 9
+      "gas:candidate-vibid:2762000513417": 40,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 12,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 9,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 2,
+      "gas:candidate-vibid:2762000514689": 4,
+      "gas:candidate-vibid:2762000513234": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 141,
-      "Денисов Владимир Владимирович": 30,
-      "Курченков Константин Юрьевич": 10,
-      "Логинов Борис Алексеевич": 9,
-      "Парамонов Михаил Константинович": 20,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 14,
-      "Тарло Евгений Георгиевич": 9,
-      "Чихалов Илья Александрович": 32
+      "gas:candidate-vibid:2762000513417": 141,
+      "gas:candidate-vibid:2762000514700": 30,
+      "gas:candidate-vibid:2762000515367": 10,
+      "gas:candidate-vibid:2762000514863": 9,
+      "gas:candidate-vibid:2762000513868": 20,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 14,
+      "gas:candidate-vibid:2762000514689": 9,
+      "gas:candidate-vibid:2762000513234": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 58,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 4,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 12
+      "gas:candidate-vibid:2762000513417": 58,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 4,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 73,
-      "Денисов Владимир Владимирович": 10,
-      "Курченков Константин Юрьевич": 4,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 12,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 4,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 24
+      "gas:candidate-vibid:2762000513417": 73,
+      "gas:candidate-vibid:2762000514700": 10,
+      "gas:candidate-vibid:2762000515367": 4,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 12,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 4,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 316,
-      "Денисов Владимир Владимирович": 32,
-      "Курченков Константин Юрьевич": 58,
-      "Логинов Борис Алексеевич": 12,
-      "Парамонов Михаил Константинович": 48,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 14,
-      "Тарло Евгений Георгиевич": 13,
-      "Чихалов Илья Александрович": 74
+      "gas:candidate-vibid:2762000513417": 316,
+      "gas:candidate-vibid:2762000514700": 32,
+      "gas:candidate-vibid:2762000515367": 58,
+      "gas:candidate-vibid:2762000514863": 12,
+      "gas:candidate-vibid:2762000513868": 48,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 14,
+      "gas:candidate-vibid:2762000514689": 13,
+      "gas:candidate-vibid:2762000513234": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 313,
-      "Денисов Владимир Владимирович": 32,
-      "Курченков Константин Юрьевич": 47,
-      "Логинов Борис Алексеевич": 11,
-      "Парамонов Михаил Константинович": 30,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 11,
-      "Тарло Евгений Георгиевич": 14,
-      "Чихалов Илья Александрович": 76
+      "gas:candidate-vibid:2762000513417": 313,
+      "gas:candidate-vibid:2762000514700": 32,
+      "gas:candidate-vibid:2762000515367": 47,
+      "gas:candidate-vibid:2762000514863": 11,
+      "gas:candidate-vibid:2762000513868": 30,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 11,
+      "gas:candidate-vibid:2762000514689": 14,
+      "gas:candidate-vibid:2762000513234": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 399,
-      "Денисов Владимир Владимирович": 32,
-      "Курченков Константин Юрьевич": 39,
-      "Логинов Борис Алексеевич": 11,
-      "Парамонов Михаил Константинович": 41,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 11,
-      "Тарло Евгений Георгиевич": 14,
-      "Чихалов Илья Александрович": 82
+      "gas:candidate-vibid:2762000513417": 399,
+      "gas:candidate-vibid:2762000514700": 32,
+      "gas:candidate-vibid:2762000515367": 39,
+      "gas:candidate-vibid:2762000514863": 11,
+      "gas:candidate-vibid:2762000513868": 41,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 11,
+      "gas:candidate-vibid:2762000514689": 14,
+      "gas:candidate-vibid:2762000513234": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 291,
-      "Денисов Владимир Владимирович": 21,
-      "Курченков Константин Юрьевич": 33,
-      "Логинов Борис Алексеевич": 9,
-      "Парамонов Михаил Константинович": 42,
-      "Повасин Алексей Валерьевич": 12,
-      "Смирнов Станислав Юрьевич": 16,
-      "Тарло Евгений Георгиевич": 10,
-      "Чихалов Илья Александрович": 82
+      "gas:candidate-vibid:2762000513417": 291,
+      "gas:candidate-vibid:2762000514700": 21,
+      "gas:candidate-vibid:2762000515367": 33,
+      "gas:candidate-vibid:2762000514863": 9,
+      "gas:candidate-vibid:2762000513868": 42,
+      "gas:candidate-vibid:2762000514622": 12,
+      "gas:candidate-vibid:2762000513817": 16,
+      "gas:candidate-vibid:2762000514689": 10,
+      "gas:candidate-vibid:2762000513234": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484986&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484986&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 350,
-      "Денисов Владимир Владимирович": 29,
-      "Курченков Константин Юрьевич": 46,
-      "Логинов Борис Алексеевич": 13,
-      "Парамонов Михаил Константинович": 119,
-      "Повасин Алексей Валерьевич": 9,
-      "Смирнов Станислав Юрьевич": 31,
-      "Тарло Евгений Георгиевич": 19,
-      "Чихалов Илья Александрович": 99
+      "gas:candidate-vibid:2762000513417": 350,
+      "gas:candidate-vibid:2762000514700": 29,
+      "gas:candidate-vibid:2762000515367": 46,
+      "gas:candidate-vibid:2762000514863": 13,
+      "gas:candidate-vibid:2762000513868": 119,
+      "gas:candidate-vibid:2762000514622": 9,
+      "gas:candidate-vibid:2762000513817": 31,
+      "gas:candidate-vibid:2762000514689": 19,
+      "gas:candidate-vibid:2762000513234": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 397,
-      "Денисов Владимир Владимирович": 36,
-      "Курченков Константин Юрьевич": 35,
-      "Логинов Борис Алексеевич": 18,
-      "Парамонов Михаил Константинович": 102,
-      "Повасин Алексей Валерьевич": 21,
-      "Смирнов Станислав Юрьевич": 17,
-      "Тарло Евгений Георгиевич": 18,
-      "Чихалов Илья Александрович": 110
+      "gas:candidate-vibid:2762000513417": 397,
+      "gas:candidate-vibid:2762000514700": 36,
+      "gas:candidate-vibid:2762000515367": 35,
+      "gas:candidate-vibid:2762000514863": 18,
+      "gas:candidate-vibid:2762000513868": 102,
+      "gas:candidate-vibid:2762000514622": 21,
+      "gas:candidate-vibid:2762000513817": 17,
+      "gas:candidate-vibid:2762000514689": 18,
+      "gas:candidate-vibid:2762000513234": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 346,
-      "Денисов Владимир Владимирович": 42,
-      "Курченков Константин Юрьевич": 44,
-      "Логинов Борис Алексеевич": 21,
-      "Парамонов Михаил Константинович": 113,
-      "Повасин Алексей Валерьевич": 24,
-      "Смирнов Станислав Юрьевич": 36,
-      "Тарло Евгений Георгиевич": 19,
-      "Чихалов Илья Александрович": 81
+      "gas:candidate-vibid:2762000513417": 346,
+      "gas:candidate-vibid:2762000514700": 42,
+      "gas:candidate-vibid:2762000515367": 44,
+      "gas:candidate-vibid:2762000514863": 21,
+      "gas:candidate-vibid:2762000513868": 113,
+      "gas:candidate-vibid:2762000514622": 24,
+      "gas:candidate-vibid:2762000513817": 36,
+      "gas:candidate-vibid:2762000514689": 19,
+      "gas:candidate-vibid:2762000513234": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 304,
-      "Денисов Владимир Владимирович": 28,
-      "Курченков Константин Юрьевич": 26,
-      "Логинов Борис Алексеевич": 16,
-      "Парамонов Михаил Константинович": 77,
-      "Повасин Алексей Валерьевич": 17,
-      "Смирнов Станислав Юрьевич": 24,
-      "Тарло Евгений Георгиевич": 17,
-      "Чихалов Илья Александрович": 76
+      "gas:candidate-vibid:2762000513417": 304,
+      "gas:candidate-vibid:2762000514700": 28,
+      "gas:candidate-vibid:2762000515367": 26,
+      "gas:candidate-vibid:2762000514863": 16,
+      "gas:candidate-vibid:2762000513868": 77,
+      "gas:candidate-vibid:2762000514622": 17,
+      "gas:candidate-vibid:2762000513817": 24,
+      "gas:candidate-vibid:2762000514689": 17,
+      "gas:candidate-vibid:2762000513234": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 161,
-      "Денисов Владимир Владимирович": 16,
-      "Курченков Константин Юрьевич": 10,
-      "Логинов Борис Алексеевич": 10,
-      "Парамонов Михаил Константинович": 58,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 14,
-      "Тарло Евгений Георгиевич": 11,
-      "Чихалов Илья Александрович": 51
+      "gas:candidate-vibid:2762000513417": 161,
+      "gas:candidate-vibid:2762000514700": 16,
+      "gas:candidate-vibid:2762000515367": 10,
+      "gas:candidate-vibid:2762000514863": 10,
+      "gas:candidate-vibid:2762000513868": 58,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 14,
+      "gas:candidate-vibid:2762000514689": 11,
+      "gas:candidate-vibid:2762000513234": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 252,
-      "Денисов Владимир Владимирович": 41,
-      "Курченков Константин Юрьевич": 26,
-      "Логинов Борис Алексеевич": 20,
-      "Парамонов Михаил Константинович": 71,
-      "Повасин Алексей Валерьевич": 13,
-      "Смирнов Станислав Юрьевич": 23,
-      "Тарло Евгений Георгиевич": 7,
-      "Чихалов Илья Александрович": 81
+      "gas:candidate-vibid:2762000513417": 252,
+      "gas:candidate-vibid:2762000514700": 41,
+      "gas:candidate-vibid:2762000515367": 26,
+      "gas:candidate-vibid:2762000514863": 20,
+      "gas:candidate-vibid:2762000513868": 71,
+      "gas:candidate-vibid:2762000514622": 13,
+      "gas:candidate-vibid:2762000513817": 23,
+      "gas:candidate-vibid:2762000514689": 7,
+      "gas:candidate-vibid:2762000513234": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 270,
-      "Денисов Владимир Владимирович": 35,
-      "Курченков Константин Юрьевич": 25,
-      "Логинов Борис Алексеевич": 19,
-      "Парамонов Михаил Константинович": 77,
-      "Повасин Алексей Валерьевич": 13,
-      "Смирнов Станислав Юрьевич": 26,
-      "Тарло Евгений Георгиевич": 13,
-      "Чихалов Илья Александрович": 69
+      "gas:candidate-vibid:2762000513417": 270,
+      "gas:candidate-vibid:2762000514700": 35,
+      "gas:candidate-vibid:2762000515367": 25,
+      "gas:candidate-vibid:2762000514863": 19,
+      "gas:candidate-vibid:2762000513868": 77,
+      "gas:candidate-vibid:2762000514622": 13,
+      "gas:candidate-vibid:2762000513817": 26,
+      "gas:candidate-vibid:2762000514689": 13,
+      "gas:candidate-vibid:2762000513234": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 281,
-      "Денисов Владимир Владимирович": 31,
-      "Курченков Константин Юрьевич": 25,
-      "Логинов Борис Алексеевич": 14,
-      "Парамонов Михаил Константинович": 66,
-      "Повасин Алексей Валерьевич": 8,
-      "Смирнов Станислав Юрьевич": 10,
-      "Тарло Евгений Георгиевич": 7,
-      "Чихалов Илья Александрович": 61
+      "gas:candidate-vibid:2762000513417": 281,
+      "gas:candidate-vibid:2762000514700": 31,
+      "gas:candidate-vibid:2762000515367": 25,
+      "gas:candidate-vibid:2762000514863": 14,
+      "gas:candidate-vibid:2762000513868": 66,
+      "gas:candidate-vibid:2762000514622": 8,
+      "gas:candidate-vibid:2762000513817": 10,
+      "gas:candidate-vibid:2762000514689": 7,
+      "gas:candidate-vibid:2762000513234": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 487,
-      "Денисов Владимир Владимирович": 60,
-      "Курченков Константин Юрьевич": 65,
-      "Логинов Борис Алексеевич": 26,
-      "Парамонов Михаил Константинович": 130,
-      "Повасин Алексей Валерьевич": 22,
-      "Смирнов Станислав Юрьевич": 39,
-      "Тарло Евгений Георгиевич": 29,
-      "Чихалов Илья Александрович": 109
+      "gas:candidate-vibid:2762000513417": 487,
+      "gas:candidate-vibid:2762000514700": 60,
+      "gas:candidate-vibid:2762000515367": 65,
+      "gas:candidate-vibid:2762000514863": 26,
+      "gas:candidate-vibid:2762000513868": 130,
+      "gas:candidate-vibid:2762000514622": 22,
+      "gas:candidate-vibid:2762000513817": 39,
+      "gas:candidate-vibid:2762000514689": 29,
+      "gas:candidate-vibid:2762000513234": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 66,
-      "Денисов Владимир Владимирович": 19,
-      "Курченков Константин Юрьевич": 15,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 14,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 13
+      "gas:candidate-vibid:2762000513417": 66,
+      "gas:candidate-vibid:2762000514700": 19,
+      "gas:candidate-vibid:2762000515367": 15,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 14,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 44,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 6,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 6,
-      "Чихалов Илья Александрович": 16
+      "gas:candidate-vibid:2762000513417": 44,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 6,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 6,
+      "gas:candidate-vibid:2762000513234": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 55,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 5,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 7,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 19
+      "gas:candidate-vibid:2762000513417": 55,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 5,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 7,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 125,
-      "Денисов Владимир Владимирович": 15,
-      "Курченков Константин Юрьевич": 29,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 21,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 14,
-      "Тарло Евгений Георгиевич": 5,
-      "Чихалов Илья Александрович": 24
+      "gas:candidate-vibid:2762000513417": 125,
+      "gas:candidate-vibid:2762000514700": 15,
+      "gas:candidate-vibid:2762000515367": 29,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 21,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 14,
+      "gas:candidate-vibid:2762000514689": 5,
+      "gas:candidate-vibid:2762000513234": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 134,
-      "Денисов Владимир Владимирович": 26,
-      "Курченков Константин Юрьевич": 20,
-      "Логинов Борис Алексеевич": 10,
-      "Парамонов Михаил Константинович": 38,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 21,
-      "Тарло Евгений Георгиевич": 9,
-      "Чихалов Илья Александрович": 42
+      "gas:candidate-vibid:2762000513417": 134,
+      "gas:candidate-vibid:2762000514700": 26,
+      "gas:candidate-vibid:2762000515367": 20,
+      "gas:candidate-vibid:2762000514863": 10,
+      "gas:candidate-vibid:2762000513868": 38,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 21,
+      "gas:candidate-vibid:2762000514689": 9,
+      "gas:candidate-vibid:2762000513234": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 117,
-      "Денисов Владимир Владимирович": 14,
-      "Курченков Константин Юрьевич": 13,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 23,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 8,
-      "Чихалов Илья Александрович": 25
+      "gas:candidate-vibid:2762000513417": 117,
+      "gas:candidate-vibid:2762000514700": 14,
+      "gas:candidate-vibid:2762000515367": 13,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 23,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 8,
+      "gas:candidate-vibid:2762000513234": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 36,
-      "Денисов Владимир Владимирович": 3,
-      "Курченков Константин Юрьевич": 7,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 13,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 2,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 9
+      "gas:candidate-vibid:2762000513417": 36,
+      "gas:candidate-vibid:2762000514700": 3,
+      "gas:candidate-vibid:2762000515367": 7,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 13,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 2,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 68,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 4,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 14
+      "gas:candidate-vibid:2762000513417": 68,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 4,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 81,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 7,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 11,
-      "Тарло Евгений Георгиевич": 5,
-      "Чихалов Илья Александрович": 13
+      "gas:candidate-vibid:2762000513417": 81,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 7,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 11,
+      "gas:candidate-vibid:2762000514689": 5,
+      "gas:candidate-vibid:2762000513234": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 75,
-      "Денисов Владимир Владимирович": 11,
-      "Курченков Константин Юрьевич": 11,
-      "Логинов Борис Алексеевич": 8,
-      "Парамонов Михаил Константинович": 14,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 8,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 28
+      "gas:candidate-vibid:2762000513417": 75,
+      "gas:candidate-vibid:2762000514700": 11,
+      "gas:candidate-vibid:2762000515367": 11,
+      "gas:candidate-vibid:2762000514863": 8,
+      "gas:candidate-vibid:2762000513868": 14,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 8,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 62,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 3,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 7,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 4,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 15
+      "gas:candidate-vibid:2762000513417": 62,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 3,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 7,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 4,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 33,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 8,
-      "Парамонов Михаил Константинович": 5,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 7,
-      "Чихалов Илья Александрович": 9
+      "gas:candidate-vibid:2762000513417": 33,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 8,
+      "gas:candidate-vibid:2762000513868": 5,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 7,
+      "gas:candidate-vibid:2762000513234": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 89,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 11,
-      "Парамонов Михаил Константинович": 12,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 5,
-      "Чихалов Илья Александрович": 21
+      "gas:candidate-vibid:2762000513417": 89,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 11,
+      "gas:candidate-vibid:2762000513868": 12,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 5,
+      "gas:candidate-vibid:2762000513234": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 94,
-      "Денисов Владимир Владимирович": 10,
-      "Курченков Константин Юрьевич": 10,
-      "Логинов Борис Алексеевич": 8,
-      "Парамонов Михаил Константинович": 25,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 10,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 19
+      "gas:candidate-vibid:2762000513417": 94,
+      "gas:candidate-vibid:2762000514700": 10,
+      "gas:candidate-vibid:2762000515367": 10,
+      "gas:candidate-vibid:2762000514863": 8,
+      "gas:candidate-vibid:2762000513868": 25,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 10,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 49,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 15,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 12
+      "gas:candidate-vibid:2762000513417": 49,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 15,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 145,
-      "Денисов Владимир Владимирович": 22,
-      "Курченков Константин Юрьевич": 19,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 44,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 20,
-      "Тарло Евгений Георгиевич": 7,
-      "Чихалов Илья Александрович": 73
+      "gas:candidate-vibid:2762000513417": 145,
+      "gas:candidate-vibid:2762000514700": 22,
+      "gas:candidate-vibid:2762000515367": 19,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 44,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 20,
+      "gas:candidate-vibid:2762000514689": 7,
+      "gas:candidate-vibid:2762000513234": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 41,
-      "Денисов Владимир Владимирович": 9,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 15,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 19
+      "gas:candidate-vibid:2762000513417": 41,
+      "gas:candidate-vibid:2762000514700": 9,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 15,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 55,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 10,
-      "Логинов Борис Алексеевич": 7,
-      "Парамонов Михаил Константинович": 20,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 14,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 23
+      "gas:candidate-vibid:2762000513417": 55,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 10,
+      "gas:candidate-vibid:2762000514863": 7,
+      "gas:candidate-vibid:2762000513868": 20,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 14,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484987&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484987&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 405,
-      "Денисов Владимир Владимирович": 23,
-      "Курченков Константин Юрьевич": 58,
-      "Логинов Борис Алексеевич": 9,
-      "Парамонов Михаил Константинович": 41,
-      "Повасин Алексей Валерьевич": 13,
-      "Смирнов Станислав Юрьевич": 86,
-      "Тарло Евгений Георгиевич": 15,
-      "Чихалов Илья Александрович": 57
+      "gas:candidate-vibid:2762000513417": 405,
+      "gas:candidate-vibid:2762000514700": 23,
+      "gas:candidate-vibid:2762000515367": 58,
+      "gas:candidate-vibid:2762000514863": 9,
+      "gas:candidate-vibid:2762000513868": 41,
+      "gas:candidate-vibid:2762000514622": 13,
+      "gas:candidate-vibid:2762000513817": 86,
+      "gas:candidate-vibid:2762000514689": 15,
+      "gas:candidate-vibid:2762000513234": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 271,
-      "Денисов Владимир Владимирович": 15,
-      "Курченков Константин Юрьевич": 30,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 25,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 76,
-      "Тарло Евгений Георгиевич": 6,
-      "Чихалов Илья Александрович": 42
+      "gas:candidate-vibid:2762000513417": 271,
+      "gas:candidate-vibid:2762000514700": 15,
+      "gas:candidate-vibid:2762000515367": 30,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 25,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 76,
+      "gas:candidate-vibid:2762000514689": 6,
+      "gas:candidate-vibid:2762000513234": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 61,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 12,
-      "Логинов Борис Алексеевич": 0,
-      "Парамонов Михаил Константинович": 7,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 11,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 15
+      "gas:candidate-vibid:2762000513417": 61,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 12,
+      "gas:candidate-vibid:2762000514863": 0,
+      "gas:candidate-vibid:2762000513868": 7,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 11,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 34,
-      "Денисов Владимир Владимирович": 3,
-      "Курченков Константин Юрьевич": 7,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 4,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 12,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 5
+      "gas:candidate-vibid:2762000513417": 34,
+      "gas:candidate-vibid:2762000514700": 3,
+      "gas:candidate-vibid:2762000515367": 7,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 4,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 12,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 81,
-      "Денисов Владимир Владимирович": 5,
-      "Курченков Константин Юрьевич": 13,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 10,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 23,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 7
+      "gas:candidate-vibid:2762000513417": 81,
+      "gas:candidate-vibid:2762000514700": 5,
+      "gas:candidate-vibid:2762000515367": 13,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 10,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 23,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 119,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 11,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 10,
-      "Повасин Алексей Валерьевич": 0,
-      "Смирнов Станислав Юрьевич": 39,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 13
+      "gas:candidate-vibid:2762000513417": 119,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 11,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 10,
+      "gas:candidate-vibid:2762000514622": 0,
+      "gas:candidate-vibid:2762000513817": 39,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 114,
-      "Денисов Владимир Владимирович": 10,
-      "Курченков Константин Юрьевич": 10,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 7,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 25,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 22
+      "gas:candidate-vibid:2762000513417": 114,
+      "gas:candidate-vibid:2762000514700": 10,
+      "gas:candidate-vibid:2762000515367": 10,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 7,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 25,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 80,
-      "Денисов Владимир Владимирович": 14,
-      "Курченков Константин Юрьевич": 23,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 3,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 22,
-      "Тарло Евгений Георгиевич": 6,
-      "Чихалов Илья Александрович": 15
+      "gas:candidate-vibid:2762000513417": 80,
+      "gas:candidate-vibid:2762000514700": 14,
+      "gas:candidate-vibid:2762000515367": 23,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 3,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 22,
+      "gas:candidate-vibid:2762000514689": 6,
+      "gas:candidate-vibid:2762000513234": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 57,
-      "Денисов Владимир Владимирович": 9,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 0,
-      "Парамонов Михаил Константинович": 5,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 19,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 8
+      "gas:candidate-vibid:2762000513417": 57,
+      "gas:candidate-vibid:2762000514700": 9,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 0,
+      "gas:candidate-vibid:2762000513868": 5,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 19,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 100,
-      "Денисов Владимир Владимирович": 14,
-      "Курченков Константин Юрьевич": 16,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 13,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 37,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 20
+      "gas:candidate-vibid:2762000513417": 100,
+      "gas:candidate-vibid:2762000514700": 14,
+      "gas:candidate-vibid:2762000515367": 16,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 13,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 37,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 64,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 5,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 17,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 17,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 14
+      "gas:candidate-vibid:2762000513417": 64,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 5,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 17,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 17,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 21,
-      "Денисов Владимир Владимирович": 4,
-      "Курченков Константин Юрьевич": 1,
-      "Логинов Борис Алексеевич": 0,
-      "Парамонов Михаил Константинович": 1,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 3
+      "gas:candidate-vibid:2762000513417": 21,
+      "gas:candidate-vibid:2762000514700": 4,
+      "gas:candidate-vibid:2762000515367": 1,
+      "gas:candidate-vibid:2762000514863": 0,
+      "gas:candidate-vibid:2762000513868": 1,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 36,
-      "Денисов Владимир Владимирович": 29,
-      "Курченков Константин Юрьевич": 4,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 5,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 19,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 11
+      "gas:candidate-vibid:2762000513417": 36,
+      "gas:candidate-vibid:2762000514700": 29,
+      "gas:candidate-vibid:2762000515367": 4,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 5,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 19,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484988&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484988&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 133,
-      "Денисов Владимир Владимирович": 12,
-      "Курченков Константин Юрьевич": 25,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 4,
-      "Чихалов Илья Александрович": 20
+      "gas:candidate-vibid:2762000513417": 133,
+      "gas:candidate-vibid:2762000514700": 12,
+      "gas:candidate-vibid:2762000515367": 25,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 4,
+      "gas:candidate-vibid:2762000513234": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 80,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 21,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 12,
-      "Повасин Алексей Валерьевич": 7,
-      "Смирнов Станислав Юрьевич": 12,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 13
+      "gas:candidate-vibid:2762000513417": 80,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 21,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 12,
+      "gas:candidate-vibid:2762000514622": 7,
+      "gas:candidate-vibid:2762000513817": 12,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 512,
-      "Денисов Владимир Владимирович": 47,
-      "Курченков Константин Юрьевич": 153,
-      "Логинов Борис Алексеевич": 23,
-      "Парамонов Михаил Константинович": 107,
-      "Повасин Алексей Валерьевич": 33,
-      "Смирнов Станислав Юрьевич": 35,
-      "Тарло Евгений Георгиевич": 25,
-      "Чихалов Илья Александрович": 90
+      "gas:candidate-vibid:2762000513417": 512,
+      "gas:candidate-vibid:2762000514700": 47,
+      "gas:candidate-vibid:2762000515367": 153,
+      "gas:candidate-vibid:2762000514863": 23,
+      "gas:candidate-vibid:2762000513868": 107,
+      "gas:candidate-vibid:2762000514622": 33,
+      "gas:candidate-vibid:2762000513817": 35,
+      "gas:candidate-vibid:2762000514689": 25,
+      "gas:candidate-vibid:2762000513234": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 417,
-      "Денисов Владимир Владимирович": 55,
-      "Курченков Константин Юрьевич": 122,
-      "Логинов Борис Алексеевич": 20,
-      "Парамонов Михаил Константинович": 102,
-      "Повасин Алексей Валерьевич": 20,
-      "Смирнов Станислав Юрьевич": 32,
-      "Тарло Евгений Георгиевич": 16,
-      "Чихалов Илья Александрович": 96
+      "gas:candidate-vibid:2762000513417": 417,
+      "gas:candidate-vibid:2762000514700": 55,
+      "gas:candidate-vibid:2762000515367": 122,
+      "gas:candidate-vibid:2762000514863": 20,
+      "gas:candidate-vibid:2762000513868": 102,
+      "gas:candidate-vibid:2762000514622": 20,
+      "gas:candidate-vibid:2762000513817": 32,
+      "gas:candidate-vibid:2762000514689": 16,
+      "gas:candidate-vibid:2762000513234": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 140,
-      "Денисов Владимир Владимирович": 14,
-      "Курченков Константин Юрьевич": 34,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 18,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 4,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 39
+      "gas:candidate-vibid:2762000513417": 140,
+      "gas:candidate-vibid:2762000514700": 14,
+      "gas:candidate-vibid:2762000515367": 34,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 18,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 4,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 69,
-      "Денисов Владимир Владимирович": 3,
-      "Курченков Константин Юрьевич": 5,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 12,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 14
+      "gas:candidate-vibid:2762000513417": 69,
+      "gas:candidate-vibid:2762000514700": 3,
+      "gas:candidate-vibid:2762000515367": 5,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 12,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 56,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 7,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 6,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 1,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 12
+      "gas:candidate-vibid:2762000513417": 56,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 7,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 6,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 1,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 85,
-      "Денисов Владимир Владимирович": 17,
-      "Курченков Константин Юрьевич": 39,
-      "Логинов Борис Алексеевич": 7,
-      "Парамонов Михаил Константинович": 14,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 6,
-      "Чихалов Илья Александрович": 21
+      "gas:candidate-vibid:2762000513417": 85,
+      "gas:candidate-vibid:2762000514700": 17,
+      "gas:candidate-vibid:2762000515367": 39,
+      "gas:candidate-vibid:2762000514863": 7,
+      "gas:candidate-vibid:2762000513868": 14,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 6,
+      "gas:candidate-vibid:2762000513234": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 158,
-      "Денисов Владимир Владимирович": 25,
-      "Курченков Константин Юрьевич": 32,
-      "Логинов Борис Алексеевич": 24,
-      "Парамонов Михаил Константинович": 45,
-      "Повасин Алексей Валерьевич": 14,
-      "Смирнов Станислав Юрьевич": 23,
-      "Тарло Евгений Георгиевич": 6,
-      "Чихалов Илья Александрович": 76
+      "gas:candidate-vibid:2762000513417": 158,
+      "gas:candidate-vibid:2762000514700": 25,
+      "gas:candidate-vibid:2762000515367": 32,
+      "gas:candidate-vibid:2762000514863": 24,
+      "gas:candidate-vibid:2762000513868": 45,
+      "gas:candidate-vibid:2762000514622": 14,
+      "gas:candidate-vibid:2762000513817": 23,
+      "gas:candidate-vibid:2762000514689": 6,
+      "gas:candidate-vibid:2762000513234": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 128,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 43,
-      "Логинов Борис Алексеевич": 3,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 9,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 13
+      "gas:candidate-vibid:2762000513417": 128,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 43,
+      "gas:candidate-vibid:2762000514863": 3,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 9,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 108,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 22,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 9,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 11
+      "gas:candidate-vibid:2762000513417": 108,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 22,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 9,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 66,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 5,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 8,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 9
+      "gas:candidate-vibid:2762000513417": 66,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 5,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 8,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 42,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 1,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 3,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 2,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 3
+      "gas:candidate-vibid:2762000513417": 42,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 1,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 3,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 2,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 59,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 6,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 7,
-      "Повасин Алексей Валерьевич": 8,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 3
+      "gas:candidate-vibid:2762000513417": 59,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 6,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 7,
+      "gas:candidate-vibid:2762000514622": 8,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 57,
-      "Денисов Владимир Владимирович": 22,
-      "Курченков Константин Юрьевич": 13,
-      "Логинов Борис Алексеевич": 0,
-      "Парамонов Михаил Константинович": 6,
-      "Повасин Алексей Валерьевич": 4,
-      "Смирнов Станислав Юрьевич": 1,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 5
+      "gas:candidate-vibid:2762000513417": 57,
+      "gas:candidate-vibid:2762000514700": 22,
+      "gas:candidate-vibid:2762000515367": 13,
+      "gas:candidate-vibid:2762000514863": 0,
+      "gas:candidate-vibid:2762000513868": 6,
+      "gas:candidate-vibid:2762000514622": 4,
+      "gas:candidate-vibid:2762000513817": 1,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 98,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 26,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 20,
-      "Повасин Алексей Валерьевич": 5,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 15
+      "gas:candidate-vibid:2762000513417": 98,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 26,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 20,
+      "gas:candidate-vibid:2762000514622": 5,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 42,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 21,
-      "Логинов Борис Алексеевич": 0,
-      "Парамонов Михаил Константинович": 5,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 2,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 6
+      "gas:candidate-vibid:2762000513417": 42,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 21,
+      "gas:candidate-vibid:2762000514863": 0,
+      "gas:candidate-vibid:2762000513868": 5,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 2,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 94,
-      "Денисов Владимир Владимирович": 2,
-      "Курченков Константин Юрьевич": 7,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 5,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 12
+      "gas:candidate-vibid:2762000513417": 94,
+      "gas:candidate-vibid:2762000514700": 2,
+      "gas:candidate-vibid:2762000515367": 7,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 5,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 73,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 38,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 11,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 8
+      "gas:candidate-vibid:2762000513417": 73,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 38,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 11,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484989&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484989&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 96,
-      "Денисов Владимир Владимирович": 17,
-      "Курченков Константин Юрьевич": 22,
-      "Логинов Борис Алексеевич": 9,
-      "Парамонов Михаил Константинович": 21,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 12,
-      "Тарло Евгений Георгиевич": 4,
-      "Чихалов Илья Александрович": 29
+      "gas:candidate-vibid:2762000513417": 96,
+      "gas:candidate-vibid:2762000514700": 17,
+      "gas:candidate-vibid:2762000515367": 22,
+      "gas:candidate-vibid:2762000514863": 9,
+      "gas:candidate-vibid:2762000513868": 21,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 12,
+      "gas:candidate-vibid:2762000514689": 4,
+      "gas:candidate-vibid:2762000513234": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 71,
-      "Денисов Владимир Владимирович": 11,
-      "Курченков Константин Юрьевич": 3,
-      "Логинов Борис Алексеевич": 4,
-      "Парамонов Михаил Константинович": 13,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 18
+      "gas:candidate-vibid:2762000513417": 71,
+      "gas:candidate-vibid:2762000514700": 11,
+      "gas:candidate-vibid:2762000515367": 3,
+      "gas:candidate-vibid:2762000514863": 4,
+      "gas:candidate-vibid:2762000513868": 13,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 56,
-      "Денисов Владимир Владимирович": 21,
-      "Курченков Константин Юрьевич": 4,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 4,
-      "Повасин Алексей Валерьевич": 6,
-      "Смирнов Станислав Юрьевич": 0,
-      "Тарло Евгений Георгиевич": 0,
-      "Чихалов Илья Александрович": 8
+      "gas:candidate-vibid:2762000513417": 56,
+      "gas:candidate-vibid:2762000514700": 21,
+      "gas:candidate-vibid:2762000515367": 4,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 4,
+      "gas:candidate-vibid:2762000514622": 6,
+      "gas:candidate-vibid:2762000513817": 0,
+      "gas:candidate-vibid:2762000514689": 0,
+      "gas:candidate-vibid:2762000513234": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 485,
-      "Денисов Владимир Владимирович": 39,
-      "Курченков Константин Юрьевич": 66,
-      "Логинов Борис Алексеевич": 21,
-      "Парамонов Михаил Константинович": 55,
-      "Повасин Алексей Валерьевич": 16,
-      "Смирнов Станислав Юрьевич": 32,
-      "Тарло Евгений Георгиевич": 13,
-      "Чихалов Илья Александрович": 101
+      "gas:candidate-vibid:2762000513417": 485,
+      "gas:candidate-vibid:2762000514700": 39,
+      "gas:candidate-vibid:2762000515367": 66,
+      "gas:candidate-vibid:2762000514863": 21,
+      "gas:candidate-vibid:2762000513868": 55,
+      "gas:candidate-vibid:2762000514622": 16,
+      "gas:candidate-vibid:2762000513817": 32,
+      "gas:candidate-vibid:2762000514689": 13,
+      "gas:candidate-vibid:2762000513234": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 357,
-      "Денисов Владимир Владимирович": 20,
-      "Курченков Константин Юрьевич": 44,
-      "Логинов Борис Алексеевич": 18,
-      "Парамонов Михаил Константинович": 31,
-      "Повасин Алексей Валерьевич": 12,
-      "Смирнов Станислав Юрьевич": 13,
-      "Тарло Евгений Георгиевич": 9,
-      "Чихалов Илья Александрович": 81
+      "gas:candidate-vibid:2762000513417": 357,
+      "gas:candidate-vibid:2762000514700": 20,
+      "gas:candidate-vibid:2762000515367": 44,
+      "gas:candidate-vibid:2762000514863": 18,
+      "gas:candidate-vibid:2762000513868": 31,
+      "gas:candidate-vibid:2762000514622": 12,
+      "gas:candidate-vibid:2762000513817": 13,
+      "gas:candidate-vibid:2762000514689": 9,
+      "gas:candidate-vibid:2762000513234": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 127,
-      "Денисов Владимир Владимирович": 11,
-      "Курченков Константин Юрьевич": 15,
-      "Логинов Борис Алексеевич": 1,
-      "Парамонов Михаил Константинович": 19,
-      "Повасин Алексей Валерьевич": 0,
-      "Смирнов Станислав Юрьевич": 6,
-      "Тарло Евгений Георгиевич": 6,
-      "Чихалов Илья Александрович": 30
+      "gas:candidate-vibid:2762000513417": 127,
+      "gas:candidate-vibid:2762000514700": 11,
+      "gas:candidate-vibid:2762000515367": 15,
+      "gas:candidate-vibid:2762000514863": 1,
+      "gas:candidate-vibid:2762000513868": 19,
+      "gas:candidate-vibid:2762000514622": 0,
+      "gas:candidate-vibid:2762000513817": 6,
+      "gas:candidate-vibid:2762000514689": 6,
+      "gas:candidate-vibid:2762000513234": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 65,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 13,
-      "Логинов Борис Алексеевич": 10,
-      "Парамонов Михаил Константинович": 8,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 23
+      "gas:candidate-vibid:2762000513417": 65,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 13,
+      "gas:candidate-vibid:2762000514863": 10,
+      "gas:candidate-vibid:2762000513868": 8,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 50,
-      "Денисов Владимир Владимирович": 3,
-      "Курченков Константин Юрьевич": 2,
-      "Логинов Борис Алексеевич": 2,
-      "Парамонов Михаил Константинович": 2,
-      "Повасин Алексей Валерьевич": 2,
-      "Смирнов Станислав Юрьевич": 4,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 10
+      "gas:candidate-vibid:2762000513417": 50,
+      "gas:candidate-vibid:2762000514700": 3,
+      "gas:candidate-vibid:2762000515367": 2,
+      "gas:candidate-vibid:2762000514863": 2,
+      "gas:candidate-vibid:2762000513868": 2,
+      "gas:candidate-vibid:2762000514622": 2,
+      "gas:candidate-vibid:2762000513817": 4,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 74,
-      "Денисов Владимир Владимирович": 7,
-      "Курченков Константин Юрьевич": 9,
-      "Логинов Борис Алексеевич": 6,
-      "Парамонов Михаил Константинович": 10,
-      "Повасин Алексей Валерьевич": 0,
-      "Смирнов Станислав Юрьевич": 8,
-      "Тарло Евгений Георгиевич": 3,
-      "Чихалов Илья Александрович": 25
+      "gas:candidate-vibid:2762000513417": 74,
+      "gas:candidate-vibid:2762000514700": 7,
+      "gas:candidate-vibid:2762000515367": 9,
+      "gas:candidate-vibid:2762000514863": 6,
+      "gas:candidate-vibid:2762000513868": 10,
+      "gas:candidate-vibid:2762000514622": 0,
+      "gas:candidate-vibid:2762000513817": 8,
+      "gas:candidate-vibid:2762000514689": 3,
+      "gas:candidate-vibid:2762000513234": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 166,
-      "Денисов Владимир Владимирович": 6,
-      "Курченков Константин Юрьевич": 31,
-      "Логинов Борис Алексеевич": 8,
-      "Парамонов Михаил Константинович": 19,
-      "Повасин Алексей Валерьевич": 3,
-      "Смирнов Станислав Юрьевич": 7,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 34
+      "gas:candidate-vibid:2762000513417": 166,
+      "gas:candidate-vibid:2762000514700": 6,
+      "gas:candidate-vibid:2762000515367": 31,
+      "gas:candidate-vibid:2762000514863": 8,
+      "gas:candidate-vibid:2762000513868": 19,
+      "gas:candidate-vibid:2762000514622": 3,
+      "gas:candidate-vibid:2762000513817": 7,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 52,
-      "Денисов Владимир Владимирович": 8,
-      "Курченков Константин Юрьевич": 5,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 7,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 3,
-      "Тарло Евгений Георгиевич": 2,
-      "Чихалов Илья Александрович": 41
+      "gas:candidate-vibid:2762000513417": 52,
+      "gas:candidate-vibid:2762000514700": 8,
+      "gas:candidate-vibid:2762000515367": 5,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 7,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 3,
+      "gas:candidate-vibid:2762000514689": 2,
+      "gas:candidate-vibid:2762000513234": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 173,
-      "Денисов Владимир Владимирович": 10,
-      "Курченков Константин Юрьевич": 42,
-      "Логинов Борис Алексеевич": 11,
-      "Парамонов Михаил Константинович": 18,
-      "Повасин Алексей Валерьевич": 11,
-      "Смирнов Станислав Юрьевич": 10,
-      "Тарло Евгений Георгиевич": 8,
-      "Чихалов Илья Александрович": 52
+      "gas:candidate-vibid:2762000513417": 173,
+      "gas:candidate-vibid:2762000514700": 10,
+      "gas:candidate-vibid:2762000515367": 42,
+      "gas:candidate-vibid:2762000514863": 11,
+      "gas:candidate-vibid:2762000513868": 18,
+      "gas:candidate-vibid:2762000514622": 11,
+      "gas:candidate-vibid:2762000513817": 10,
+      "gas:candidate-vibid:2762000514689": 8,
+      "gas:candidate-vibid:2762000513234": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_76_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грешневиков Анатолий Николаевич": 46,
-      "Денисов Владимир Владимирович": 4,
-      "Курченков Константин Юрьевич": 8,
-      "Логинов Борис Алексеевич": 5,
-      "Парамонов Михаил Константинович": 6,
-      "Повасин Алексей Валерьевич": 1,
-      "Смирнов Станислав Юрьевич": 5,
-      "Тарло Евгений Георгиевич": 1,
-      "Чихалов Илья Александрович": 14
+      "gas:candidate-vibid:2762000513417": 46,
+      "gas:candidate-vibid:2762000514700": 4,
+      "gas:candidate-vibid:2762000515367": 8,
+      "gas:candidate-vibid:2762000514863": 5,
+      "gas:candidate-vibid:2762000513868": 6,
+      "gas:candidate-vibid:2762000514622": 1,
+      "gas:candidate-vibid:2762000513817": 5,
+      "gas:candidate-vibid:2762000514689": 1,
+      "gas:candidate-vibid:2762000513234": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yaroslavl?action=show&root=1000258&tvd=2762000484990&vrn=100100067795849&region=76&global=&sub_region=76&prver=0&pronetvd=null&vibid=2762000484990&type=464",

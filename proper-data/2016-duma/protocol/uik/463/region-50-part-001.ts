@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 24,
-      "Красикова Оксана Викторовна": 64,
-      "Мушин Алексей Львович": 44,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 20,
-      "Сураев Максим Викторович": 507
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 24,
+      "gas:candidate-vibid:4504001231599": 64,
+      "gas:candidate-vibid:4504001230891": 44,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 20,
+      "gas:candidate-vibid:4504001231436": 507
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 12,
-      "Блинова Наталья Владимировна": 31,
-      "Красикова Оксана Викторовна": 56,
-      "Мушин Алексей Львович": 45,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 600
+      "gas:candidate-vibid:4504001231709": 12,
+      "gas:candidate-vibid:4504001230992": 31,
+      "gas:candidate-vibid:4504001231599": 56,
+      "gas:candidate-vibid:4504001230891": 45,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 600
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 13,
-      "Блинова Наталья Владимировна": 25,
-      "Красикова Оксана Викторовна": 89,
-      "Мушин Алексей Львович": 43,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 16,
-      "Сураев Максим Викторович": 715
+      "gas:candidate-vibid:4504001231709": 13,
+      "gas:candidate-vibid:4504001230992": 25,
+      "gas:candidate-vibid:4504001231599": 89,
+      "gas:candidate-vibid:4504001230891": 43,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 16,
+      "gas:candidate-vibid:4504001231436": 715
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 6,
-      "Блинова Наталья Владимировна": 13,
-      "Красикова Оксана Викторовна": 90,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 11,
-      "Пивульский Вячеслав Викторович": 9,
-      "Свергунова Маргарита Николаевна": 6,
-      "Сошин Максим Викторович": 8,
-      "Сураев Максим Викторович": 603
+      "gas:candidate-vibid:4504001231709": 6,
+      "gas:candidate-vibid:4504001230992": 13,
+      "gas:candidate-vibid:4504001231599": 90,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 11,
+      "gas:candidate-vibid:4504001231550": 9,
+      "gas:candidate-vibid:4504001231637": 6,
+      "gas:candidate-vibid:4504001231262": 8,
+      "gas:candidate-vibid:4504001231436": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 9,
-      "Блинова Наталья Владимировна": 21,
-      "Красикова Оксана Викторовна": 61,
-      "Мушин Алексей Львович": 73,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 687
+      "gas:candidate-vibid:4504001231709": 9,
+      "gas:candidate-vibid:4504001230992": 21,
+      "gas:candidate-vibid:4504001231599": 61,
+      "gas:candidate-vibid:4504001230891": 73,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 687
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 25,
-      "Красикова Оксана Викторовна": 62,
-      "Мушин Алексей Львович": 52,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 31,
-      "Сураев Максим Викторович": 704
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 25,
+      "gas:candidate-vibid:4504001231599": 62,
+      "gas:candidate-vibid:4504001230891": 52,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 31,
+      "gas:candidate-vibid:4504001231436": 704
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 25,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 74,
-      "Мушин Алексей Львович": 34,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 11,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 335
+      "gas:candidate-vibid:4504001231709": 25,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 74,
+      "gas:candidate-vibid:4504001230891": 34,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 11,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 36,
-      "Красикова Оксана Викторовна": 66,
-      "Мушин Алексей Львович": 56,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 18,
-      "Сошин Максим Викторович": 38,
-      "Сураев Максим Викторович": 715
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 36,
+      "gas:candidate-vibid:4504001231599": 66,
+      "gas:candidate-vibid:4504001230891": 56,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 18,
+      "gas:candidate-vibid:4504001231262": 38,
+      "gas:candidate-vibid:4504001231436": 715
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 49,
-      "Мушин Алексей Львович": 32,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 482
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 49,
+      "gas:candidate-vibid:4504001230891": 32,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 12,
-      "Блинова Наталья Владимировна": 30,
-      "Красикова Оксана Викторовна": 58,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 19,
-      "Пивульский Вячеслав Викторович": 10,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 21,
-      "Сураев Максим Викторович": 838
+      "gas:candidate-vibid:4504001231709": 12,
+      "gas:candidate-vibid:4504001230992": 30,
+      "gas:candidate-vibid:4504001231599": 58,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 19,
+      "gas:candidate-vibid:4504001231550": 10,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 21,
+      "gas:candidate-vibid:4504001231436": 838
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 28,
-      "Красикова Оксана Викторовна": 42,
-      "Мушин Алексей Львович": 42,
-      "Павленок Дмитрий Васильевич": 16,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 10,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 758
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 28,
+      "gas:candidate-vibid:4504001231599": 42,
+      "gas:candidate-vibid:4504001230891": 42,
+      "gas:candidate-vibid:4504001231192": 16,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 10,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 32,
-      "Красикова Оксана Викторовна": 45,
-      "Мушин Алексей Львович": 44,
-      "Павленок Дмитрий Васильевич": 39,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 14,
-      "Сошин Максим Викторович": 5,
-      "Сураев Максим Викторович": 510
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 32,
+      "gas:candidate-vibid:4504001231599": 45,
+      "gas:candidate-vibid:4504001230891": 44,
+      "gas:candidate-vibid:4504001231192": 39,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 14,
+      "gas:candidate-vibid:4504001231262": 5,
+      "gas:candidate-vibid:4504001231436": 510
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 13,
-      "Блинова Наталья Владимировна": 2,
-      "Красикова Оксана Викторовна": 87,
-      "Мушин Алексей Львович": 66,
-      "Павленок Дмитрий Васильевич": 5,
-      "Пивульский Вячеслав Викторович": 9,
-      "Свергунова Маргарита Николаевна": 6,
-      "Сошин Максим Викторович": 15,
-      "Сураев Максим Викторович": 998
+      "gas:candidate-vibid:4504001231709": 13,
+      "gas:candidate-vibid:4504001230992": 2,
+      "gas:candidate-vibid:4504001231599": 87,
+      "gas:candidate-vibid:4504001230891": 66,
+      "gas:candidate-vibid:4504001231192": 5,
+      "gas:candidate-vibid:4504001231550": 9,
+      "gas:candidate-vibid:4504001231637": 6,
+      "gas:candidate-vibid:4504001231262": 15,
+      "gas:candidate-vibid:4504001231436": 998
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 44,
-      "Мушин Алексей Львович": 49,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 8,
-      "Сошин Максим Викторович": 27,
-      "Сураев Максим Викторович": 731
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 44,
+      "gas:candidate-vibid:4504001230891": 49,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 8,
+      "gas:candidate-vibid:4504001231262": 27,
+      "gas:candidate-vibid:4504001231436": 731
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 72,
-      "Мушин Алексей Львович": 48,
-      "Павленок Дмитрий Васильевич": 19,
-      "Пивульский Вячеслав Викторович": 10,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 43,
-      "Сураев Максим Викторович": 675
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 72,
+      "gas:candidate-vibid:4504001230891": 48,
+      "gas:candidate-vibid:4504001231192": 19,
+      "gas:candidate-vibid:4504001231550": 10,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 43,
+      "gas:candidate-vibid:4504001231436": 675
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 30,
-      "Красикова Оксана Викторовна": 54,
-      "Мушин Алексей Львович": 55,
-      "Павленок Дмитрий Васильевич": 36,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 18,
-      "Сураев Максим Викторович": 735
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 30,
+      "gas:candidate-vibid:4504001231599": 54,
+      "gas:candidate-vibid:4504001230891": 55,
+      "gas:candidate-vibid:4504001231192": 36,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 18,
+      "gas:candidate-vibid:4504001231436": 735
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 11,
-      "Блинова Наталья Владимировна": 23,
-      "Красикова Оксана Викторовна": 45,
-      "Мушин Алексей Львович": 50,
-      "Павленок Дмитрий Васильевич": 19,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 37,
-      "Сураев Максим Викторович": 554
+      "gas:candidate-vibid:4504001231709": 11,
+      "gas:candidate-vibid:4504001230992": 23,
+      "gas:candidate-vibid:4504001231599": 45,
+      "gas:candidate-vibid:4504001230891": 50,
+      "gas:candidate-vibid:4504001231192": 19,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 37,
+      "gas:candidate-vibid:4504001231436": 554
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 12,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 40,
-      "Мушин Алексей Львович": 48,
-      "Павленок Дмитрий Васильевич": 16,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 593
+      "gas:candidate-vibid:4504001231709": 12,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 40,
+      "gas:candidate-vibid:4504001230891": 48,
+      "gas:candidate-vibid:4504001231192": 16,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 593
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 7,
-      "Блинова Наталья Владимировна": 11,
-      "Красикова Оксана Викторовна": 29,
-      "Мушин Алексей Львович": 26,
-      "Павленок Дмитрий Васильевич": 17,
-      "Пивульский Вячеслав Викторович": 10,
-      "Свергунова Маргарита Николаевна": 12,
-      "Сошин Максим Викторович": 7,
-      "Сураев Максим Викторович": 658
+      "gas:candidate-vibid:4504001231709": 7,
+      "gas:candidate-vibid:4504001230992": 11,
+      "gas:candidate-vibid:4504001231599": 29,
+      "gas:candidate-vibid:4504001230891": 26,
+      "gas:candidate-vibid:4504001231192": 17,
+      "gas:candidate-vibid:4504001231550": 10,
+      "gas:candidate-vibid:4504001231637": 12,
+      "gas:candidate-vibid:4504001231262": 7,
+      "gas:candidate-vibid:4504001231436": 658
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 13,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 32,
-      "Мушин Алексей Львович": 36,
-      "Павленок Дмитрий Васильевич": 8,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 23,
-      "Сураев Максим Викторович": 482
+      "gas:candidate-vibid:4504001231709": 13,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 32,
+      "gas:candidate-vibid:4504001230891": 36,
+      "gas:candidate-vibid:4504001231192": 8,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 23,
+      "gas:candidate-vibid:4504001231436": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 31,
-      "Красикова Оксана Викторовна": 44,
-      "Мушин Алексей Львович": 53,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 594
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 31,
+      "gas:candidate-vibid:4504001231599": 44,
+      "gas:candidate-vibid:4504001230891": 53,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 594
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 43,
-      "Красикова Оксана Викторовна": 76,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 40,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 29,
-      "Сураев Максим Викторович": 748
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 43,
+      "gas:candidate-vibid:4504001231599": 76,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 40,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 29,
+      "gas:candidate-vibid:4504001231436": 748
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 31,
-      "Красикова Оксана Викторовна": 53,
-      "Мушин Алексей Львович": 48,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 11,
-      "Сошин Максим Викторович": 24,
-      "Сураев Максим Викторович": 839
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 31,
+      "gas:candidate-vibid:4504001231599": 53,
+      "gas:candidate-vibid:4504001230891": 48,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 11,
+      "gas:candidate-vibid:4504001231262": 24,
+      "gas:candidate-vibid:4504001231436": 839
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 17,
-      "Красикова Оксана Викторовна": 21,
-      "Мушин Алексей Львович": 17,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 25,
-      "Сураев Максим Викторович": 583
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 17,
+      "gas:candidate-vibid:4504001231599": 21,
+      "gas:candidate-vibid:4504001230891": 17,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 25,
+      "gas:candidate-vibid:4504001231436": 583
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 2,
-      "Блинова Наталья Владимировна": 6,
-      "Красикова Оксана Викторовна": 25,
-      "Мушин Алексей Львович": 10,
-      "Павленок Дмитрий Васильевич": 3,
-      "Пивульский Вячеслав Викторович": 3,
-      "Свергунова Маргарита Николаевна": 3,
-      "Сошин Максим Викторович": 10,
-      "Сураев Максим Викторович": 795
+      "gas:candidate-vibid:4504001231709": 2,
+      "gas:candidate-vibid:4504001230992": 6,
+      "gas:candidate-vibid:4504001231599": 25,
+      "gas:candidate-vibid:4504001230891": 10,
+      "gas:candidate-vibid:4504001231192": 3,
+      "gas:candidate-vibid:4504001231550": 3,
+      "gas:candidate-vibid:4504001231637": 3,
+      "gas:candidate-vibid:4504001231262": 10,
+      "gas:candidate-vibid:4504001231436": 795
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 38,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 53,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 804
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 38,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 53,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 804
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 3,
-      "Блинова Наталья Владимировна": 9,
-      "Красикова Оксана Викторовна": 57,
-      "Мушин Алексей Львович": 30,
-      "Павленок Дмитрий Васильевич": 3,
-      "Пивульский Вячеслав Викторович": 3,
-      "Свергунова Маргарита Николаевна": 3,
-      "Сошин Максим Викторович": 10,
-      "Сураев Максим Викторович": 412
+      "gas:candidate-vibid:4504001231709": 3,
+      "gas:candidate-vibid:4504001230992": 9,
+      "gas:candidate-vibid:4504001231599": 57,
+      "gas:candidate-vibid:4504001230891": 30,
+      "gas:candidate-vibid:4504001231192": 3,
+      "gas:candidate-vibid:4504001231550": 3,
+      "gas:candidate-vibid:4504001231637": 3,
+      "gas:candidate-vibid:4504001231262": 10,
+      "gas:candidate-vibid:4504001231436": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 0,
-      "Блинова Наталья Владимировна": 0,
-      "Красикова Оксана Викторовна": 95,
-      "Мушин Алексей Львович": 46,
-      "Павленок Дмитрий Васильевич": 10,
-      "Пивульский Вячеслав Викторович": 10,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 16,
-      "Сураев Максим Викторович": 582
+      "gas:candidate-vibid:4504001231709": 0,
+      "gas:candidate-vibid:4504001230992": 0,
+      "gas:candidate-vibid:4504001231599": 95,
+      "gas:candidate-vibid:4504001230891": 46,
+      "gas:candidate-vibid:4504001231192": 10,
+      "gas:candidate-vibid:4504001231550": 10,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 16,
+      "gas:candidate-vibid:4504001231436": 582
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 26,
-      "Красикова Оксана Викторовна": 60,
-      "Мушин Алексей Львович": 34,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 41,
-      "Сураев Максим Викторович": 528
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 26,
+      "gas:candidate-vibid:4504001231599": 60,
+      "gas:candidate-vibid:4504001230891": 34,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 41,
+      "gas:candidate-vibid:4504001231436": 528
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 44,
-      "Мушин Алексей Львович": 20,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 7,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 10,
-      "Сураев Максим Викторович": 393
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 44,
+      "gas:candidate-vibid:4504001230891": 20,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 7,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 10,
+      "gas:candidate-vibid:4504001231436": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 26,
-      "Красикова Оксана Викторовна": 84,
-      "Мушин Алексей Львович": 76,
-      "Павленок Дмитрий Васильевич": 1,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 10,
-      "Сошин Максим Викторович": 11,
-      "Сураев Максим Викторович": 763
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 26,
+      "gas:candidate-vibid:4504001231599": 84,
+      "gas:candidate-vibid:4504001230891": 76,
+      "gas:candidate-vibid:4504001231192": 1,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 10,
+      "gas:candidate-vibid:4504001231262": 11,
+      "gas:candidate-vibid:4504001231436": 763
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 24,
-      "Блинова Наталья Владимировна": 26,
-      "Красикова Оксана Викторовна": 61,
-      "Мушин Алексей Львович": 34,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 32,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 687
+      "gas:candidate-vibid:4504001231709": 24,
+      "gas:candidate-vibid:4504001230992": 26,
+      "gas:candidate-vibid:4504001231599": 61,
+      "gas:candidate-vibid:4504001230891": 34,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 32,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 687
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 34,
-      "Красикова Оксана Викторовна": 55,
-      "Мушин Алексей Львович": 64,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 18,
-      "Сураев Максим Викторович": 555
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 34,
+      "gas:candidate-vibid:4504001231599": 55,
+      "gas:candidate-vibid:4504001230891": 64,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 18,
+      "gas:candidate-vibid:4504001231436": 555
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 19,
-      "Красикова Оксана Викторовна": 59,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 19,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 11,
-      "Сошин Максим Викторович": 29,
-      "Сураев Максим Викторович": 401
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 19,
+      "gas:candidate-vibid:4504001231599": 59,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 19,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 11,
+      "gas:candidate-vibid:4504001231262": 29,
+      "gas:candidate-vibid:4504001231436": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 30,
-      "Блинова Наталья Владимировна": 32,
-      "Красикова Оксана Викторовна": 26,
-      "Мушин Алексей Львович": 31,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 36,
-      "Свергунова Маргарита Николаевна": 40,
-      "Сошин Максим Викторович": 42,
-      "Сураев Максим Викторович": 750
+      "gas:candidate-vibid:4504001231709": 30,
+      "gas:candidate-vibid:4504001230992": 32,
+      "gas:candidate-vibid:4504001231599": 26,
+      "gas:candidate-vibid:4504001230891": 31,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 36,
+      "gas:candidate-vibid:4504001231637": 40,
+      "gas:candidate-vibid:4504001231262": 42,
+      "gas:candidate-vibid:4504001231436": 750
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 35,
-      "Красикова Оксана Викторовна": 96,
-      "Мушин Алексей Львович": 49,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 39,
-      "Сураев Максим Викторович": 568
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 35,
+      "gas:candidate-vibid:4504001231599": 96,
+      "gas:candidate-vibid:4504001230891": 49,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 39,
+      "gas:candidate-vibid:4504001231436": 568
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 14,
-      "Красикова Оксана Викторовна": 37,
-      "Мушин Алексей Львович": 25,
-      "Павленок Дмитрий Васильевич": 35,
-      "Пивульский Вячеслав Викторович": 41,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 16,
-      "Сураев Максим Викторович": 564
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 14,
+      "gas:candidate-vibid:4504001231599": 37,
+      "gas:candidate-vibid:4504001230891": 25,
+      "gas:candidate-vibid:4504001231192": 35,
+      "gas:candidate-vibid:4504001231550": 41,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 16,
+      "gas:candidate-vibid:4504001231436": 564
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 45,
-      "Красикова Оксана Викторовна": 101,
-      "Мушин Алексей Львович": 73,
-      "Павленок Дмитрий Васильевич": 38,
-      "Пивульский Вячеслав Викторович": 33,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 50,
-      "Сураев Максим Викторович": 853
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 45,
+      "gas:candidate-vibid:4504001231599": 101,
+      "gas:candidate-vibid:4504001230891": 73,
+      "gas:candidate-vibid:4504001231192": 38,
+      "gas:candidate-vibid:4504001231550": 33,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 50,
+      "gas:candidate-vibid:4504001231436": 853
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 80,
-      "Мушин Алексей Львович": 88,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 625
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 80,
+      "gas:candidate-vibid:4504001230891": 88,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 625
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 38,
-      "Красикова Оксана Викторовна": 72,
-      "Мушин Алексей Львович": 13,
-      "Павленок Дмитрий Васильевич": 45,
-      "Пивульский Вячеслав Викторович": 41,
-      "Свергунова Маргарита Николаевна": 31,
-      "Сошин Максим Викторович": 60,
-      "Сураев Максим Викторович": 487
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 38,
+      "gas:candidate-vibid:4504001231599": 72,
+      "gas:candidate-vibid:4504001230891": 13,
+      "gas:candidate-vibid:4504001231192": 45,
+      "gas:candidate-vibid:4504001231550": 41,
+      "gas:candidate-vibid:4504001231637": 31,
+      "gas:candidate-vibid:4504001231262": 60,
+      "gas:candidate-vibid:4504001231436": 487
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005521&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005521&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 12,
-      "Блинова Наталья Владимировна": 25,
-      "Красикова Оксана Викторовна": 48,
-      "Мушин Алексей Львович": 173,
-      "Павленок Дмитрий Васильевич": 11,
-      "Пивульский Вячеслав Викторович": 36,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 80,
-      "Сураев Максим Викторович": 173
+      "gas:candidate-vibid:4504001231709": 12,
+      "gas:candidate-vibid:4504001230992": 25,
+      "gas:candidate-vibid:4504001231599": 48,
+      "gas:candidate-vibid:4504001230891": 173,
+      "gas:candidate-vibid:4504001231192": 11,
+      "gas:candidate-vibid:4504001231550": 36,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 80,
+      "gas:candidate-vibid:4504001231436": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 16,
-      "Красикова Оксана Викторовна": 63,
-      "Мушин Алексей Львович": 122,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 37,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 48,
-      "Сураев Максим Викторович": 150
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 16,
+      "gas:candidate-vibid:4504001231599": 63,
+      "gas:candidate-vibid:4504001230891": 122,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 37,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 48,
+      "gas:candidate-vibid:4504001231436": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 21,
-      "Красикова Оксана Викторовна": 65,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 30,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 60,
-      "Сураев Максим Викторович": 191
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 21,
+      "gas:candidate-vibid:4504001231599": 65,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 30,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 60,
+      "gas:candidate-vibid:4504001231436": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 11,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 55,
-      "Мушин Алексей Львович": 52,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 43,
-      "Сураев Максим Викторович": 103
+      "gas:candidate-vibid:4504001231709": 11,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 55,
+      "gas:candidate-vibid:4504001230891": 52,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 43,
+      "gas:candidate-vibid:4504001231436": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 4,
-      "Блинова Наталья Владимировна": 9,
-      "Красикова Оксана Викторовна": 55,
-      "Мушин Алексей Львович": 45,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 149
+      "gas:candidate-vibid:4504001231709": 4,
+      "gas:candidate-vibid:4504001230992": 9,
+      "gas:candidate-vibid:4504001231599": 55,
+      "gas:candidate-vibid:4504001230891": 45,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 11,
-      "Блинова Наталья Владимировна": 14,
-      "Красикова Оксана Викторовна": 73,
-      "Мушин Алексей Львович": 73,
-      "Павленок Дмитрий Васильевич": 17,
-      "Пивульский Вячеслав Викторович": 37,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 46,
-      "Сураев Максим Викторович": 192
+      "gas:candidate-vibid:4504001231709": 11,
+      "gas:candidate-vibid:4504001230992": 14,
+      "gas:candidate-vibid:4504001231599": 73,
+      "gas:candidate-vibid:4504001230891": 73,
+      "gas:candidate-vibid:4504001231192": 17,
+      "gas:candidate-vibid:4504001231550": 37,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 46,
+      "gas:candidate-vibid:4504001231436": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 14,
-      "Блинова Наталья Владимировна": 21,
-      "Красикова Оксана Викторовна": 99,
-      "Мушин Алексей Львович": 76,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 36,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 69,
-      "Сураев Максим Викторович": 225
+      "gas:candidate-vibid:4504001231709": 14,
+      "gas:candidate-vibid:4504001230992": 21,
+      "gas:candidate-vibid:4504001231599": 99,
+      "gas:candidate-vibid:4504001230891": 76,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 36,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 69,
+      "gas:candidate-vibid:4504001231436": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 93,
-      "Мушин Алексей Львович": 91,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 44,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 80,
-      "Сураев Максим Викторович": 344
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 93,
+      "gas:candidate-vibid:4504001230891": 91,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 44,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 80,
+      "gas:candidate-vibid:4504001231436": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 21,
-      "Блинова Наталья Владимировна": 27,
-      "Красикова Оксана Викторовна": 70,
-      "Мушин Алексей Львович": 105,
-      "Павленок Дмитрий Васильевич": 22,
-      "Пивульский Вячеслав Викторович": 40,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 71,
-      "Сураев Максим Викторович": 252
+      "gas:candidate-vibid:4504001231709": 21,
+      "gas:candidate-vibid:4504001230992": 27,
+      "gas:candidate-vibid:4504001231599": 70,
+      "gas:candidate-vibid:4504001230891": 105,
+      "gas:candidate-vibid:4504001231192": 22,
+      "gas:candidate-vibid:4504001231550": 40,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 71,
+      "gas:candidate-vibid:4504001231436": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 7,
-      "Блинова Наталья Владимировна": 14,
-      "Красикова Оксана Викторовна": 66,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 16,
-      "Пивульский Вячеслав Викторович": 30,
-      "Свергунова Маргарита Николаевна": 14,
-      "Сошин Максим Викторович": 64,
-      "Сураев Максим Викторович": 174
+      "gas:candidate-vibid:4504001231709": 7,
+      "gas:candidate-vibid:4504001230992": 14,
+      "gas:candidate-vibid:4504001231599": 66,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 16,
+      "gas:candidate-vibid:4504001231550": 30,
+      "gas:candidate-vibid:4504001231637": 14,
+      "gas:candidate-vibid:4504001231262": 64,
+      "gas:candidate-vibid:4504001231436": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 42,
-      "Блинова Наталья Владимировна": 36,
-      "Красикова Оксана Викторовна": 128,
-      "Мушин Алексей Львович": 120,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 55,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 79,
-      "Сураев Максим Викторович": 404
+      "gas:candidate-vibid:4504001231709": 42,
+      "gas:candidate-vibid:4504001230992": 36,
+      "gas:candidate-vibid:4504001231599": 128,
+      "gas:candidate-vibid:4504001230891": 120,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 55,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 79,
+      "gas:candidate-vibid:4504001231436": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 23,
-      "Красикова Оксана Викторовна": 83,
-      "Мушин Алексей Львович": 126,
-      "Павленок Дмитрий Васильевич": 39,
-      "Пивульский Вячеслав Викторович": 33,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 86,
-      "Сураев Максим Викторович": 342
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 23,
+      "gas:candidate-vibid:4504001231599": 83,
+      "gas:candidate-vibid:4504001230891": 126,
+      "gas:candidate-vibid:4504001231192": 39,
+      "gas:candidate-vibid:4504001231550": 33,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 86,
+      "gas:candidate-vibid:4504001231436": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 9,
-      "Блинова Наталья Владимировна": 10,
-      "Красикова Оксана Викторовна": 36,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 15,
-      "Пивульский Вячеслав Викторович": 49,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 28,
-      "Сураев Максим Викторович": 92
+      "gas:candidate-vibid:4504001231709": 9,
+      "gas:candidate-vibid:4504001230992": 10,
+      "gas:candidate-vibid:4504001231599": 36,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 15,
+      "gas:candidate-vibid:4504001231550": 49,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 28,
+      "gas:candidate-vibid:4504001231436": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 6,
-      "Блинова Наталья Владимировна": 9,
-      "Красикова Оксана Викторовна": 20,
-      "Мушин Алексей Львович": 15,
-      "Павленок Дмитрий Васильевич": 11,
-      "Пивульский Вячеслав Викторович": 24,
-      "Свергунова Маргарита Николаевна": 7,
-      "Сошин Максим Викторович": 13,
-      "Сураев Максим Викторович": 88
+      "gas:candidate-vibid:4504001231709": 6,
+      "gas:candidate-vibid:4504001230992": 9,
+      "gas:candidate-vibid:4504001231599": 20,
+      "gas:candidate-vibid:4504001230891": 15,
+      "gas:candidate-vibid:4504001231192": 11,
+      "gas:candidate-vibid:4504001231550": 24,
+      "gas:candidate-vibid:4504001231637": 7,
+      "gas:candidate-vibid:4504001231262": 13,
+      "gas:candidate-vibid:4504001231436": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 6,
-      "Блинова Наталья Владимировна": 9,
-      "Красикова Оксана Викторовна": 31,
-      "Мушин Алексей Львович": 28,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 8,
-      "Сошин Максим Викторович": 22,
-      "Сураев Максим Викторович": 130
+      "gas:candidate-vibid:4504001231709": 6,
+      "gas:candidate-vibid:4504001230992": 9,
+      "gas:candidate-vibid:4504001231599": 31,
+      "gas:candidate-vibid:4504001230891": 28,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 8,
+      "gas:candidate-vibid:4504001231262": 22,
+      "gas:candidate-vibid:4504001231436": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 4,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 34,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 10,
-      "Сошин Максим Викторович": 29,
-      "Сураев Максим Викторович": 186
+      "gas:candidate-vibid:4504001231709": 4,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 34,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 10,
+      "gas:candidate-vibid:4504001231262": 29,
+      "gas:candidate-vibid:4504001231436": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 11,
-      "Блинова Наталья Владимировна": 18,
-      "Красикова Оксана Викторовна": 44,
-      "Мушин Алексей Львович": 72,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 40,
-      "Сураев Максим Викторович": 206
+      "gas:candidate-vibid:4504001231709": 11,
+      "gas:candidate-vibid:4504001230992": 18,
+      "gas:candidate-vibid:4504001231599": 44,
+      "gas:candidate-vibid:4504001230891": 72,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 40,
+      "gas:candidate-vibid:4504001231436": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 8,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 40,
-      "Мушин Алексей Львович": 74,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 12,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 195
+      "gas:candidate-vibid:4504001231709": 8,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 40,
+      "gas:candidate-vibid:4504001230891": 74,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 12,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 16,
-      "Блинова Наталья Владимировна": 28,
-      "Красикова Оксана Викторовна": 62,
-      "Мушин Алексей Львович": 101,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 22,
-      "Свергунова Маргарита Николаевна": 9,
-      "Сошин Максим Викторович": 54,
-      "Сураев Максим Викторович": 282
+      "gas:candidate-vibid:4504001231709": 16,
+      "gas:candidate-vibid:4504001230992": 28,
+      "gas:candidate-vibid:4504001231599": 62,
+      "gas:candidate-vibid:4504001230891": 101,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 22,
+      "gas:candidate-vibid:4504001231637": 9,
+      "gas:candidate-vibid:4504001231262": 54,
+      "gas:candidate-vibid:4504001231436": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 10,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 33,
-      "Мушин Алексей Львович": 57,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 24,
-      "Свергунова Маргарита Николаевна": 14,
-      "Сошин Максим Викторович": 32,
-      "Сураев Максим Викторович": 154
+      "gas:candidate-vibid:4504001231709": 10,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 33,
+      "gas:candidate-vibid:4504001230891": 57,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 24,
+      "gas:candidate-vibid:4504001231637": 14,
+      "gas:candidate-vibid:4504001231262": 32,
+      "gas:candidate-vibid:4504001231436": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 16,
-      "Блинова Наталья Владимировна": 27,
-      "Красикова Оксана Викторовна": 109,
-      "Мушин Алексей Львович": 96,
-      "Павленок Дмитрий Васильевич": 35,
-      "Пивульский Вячеслав Викторович": 44,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 107,
-      "Сураев Максим Викторович": 269
+      "gas:candidate-vibid:4504001231709": 16,
+      "gas:candidate-vibid:4504001230992": 27,
+      "gas:candidate-vibid:4504001231599": 109,
+      "gas:candidate-vibid:4504001230891": 96,
+      "gas:candidate-vibid:4504001231192": 35,
+      "gas:candidate-vibid:4504001231550": 44,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 107,
+      "gas:candidate-vibid:4504001231436": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 14,
-      "Блинова Наталья Владимировна": 29,
-      "Красикова Оксана Викторовна": 72,
-      "Мушин Алексей Львович": 88,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 56,
-      "Сураев Максим Викторович": 224
+      "gas:candidate-vibid:4504001231709": 14,
+      "gas:candidate-vibid:4504001230992": 29,
+      "gas:candidate-vibid:4504001231599": 72,
+      "gas:candidate-vibid:4504001230891": 88,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 56,
+      "gas:candidate-vibid:4504001231436": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 21,
-      "Блинова Наталья Владимировна": 29,
-      "Красикова Оксана Викторовна": 89,
-      "Мушин Алексей Львович": 85,
-      "Павленок Дмитрий Васильевич": 42,
-      "Пивульский Вячеслав Викторович": 50,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 80,
-      "Сураев Максим Викторович": 254
+      "gas:candidate-vibid:4504001231709": 21,
+      "gas:candidate-vibid:4504001230992": 29,
+      "gas:candidate-vibid:4504001231599": 89,
+      "gas:candidate-vibid:4504001230891": 85,
+      "gas:candidate-vibid:4504001231192": 42,
+      "gas:candidate-vibid:4504001231550": 50,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 80,
+      "gas:candidate-vibid:4504001231436": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 9,
-      "Блинова Наталья Владимировна": 35,
-      "Красикова Оксана Викторовна": 76,
-      "Мушин Алексей Львович": 67,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 90,
-      "Сураев Максим Викторович": 392
+      "gas:candidate-vibid:4504001231709": 9,
+      "gas:candidate-vibid:4504001230992": 35,
+      "gas:candidate-vibid:4504001231599": 76,
+      "gas:candidate-vibid:4504001230891": 67,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 90,
+      "gas:candidate-vibid:4504001231436": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 16,
-      "Блинова Наталья Владимировна": 21,
-      "Красикова Оксана Викторовна": 79,
-      "Мушин Алексей Львович": 87,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 42,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 89,
-      "Сураев Максим Викторович": 216
+      "gas:candidate-vibid:4504001231709": 16,
+      "gas:candidate-vibid:4504001230992": 21,
+      "gas:candidate-vibid:4504001231599": 79,
+      "gas:candidate-vibid:4504001230891": 87,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 42,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 89,
+      "gas:candidate-vibid:4504001231436": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 25,
-      "Красикова Оксана Викторовна": 102,
-      "Мушин Алексей Львович": 182,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 30,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 68,
-      "Сураев Максим Викторович": 270
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 25,
+      "gas:candidate-vibid:4504001231599": 102,
+      "gas:candidate-vibid:4504001230891": 182,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 30,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 68,
+      "gas:candidate-vibid:4504001231436": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 24,
-      "Блинова Наталья Владимировна": 36,
-      "Красикова Оксана Викторовна": 155,
-      "Мушин Алексей Львович": 116,
-      "Павленок Дмитрий Васильевич": 48,
-      "Пивульский Вячеслав Викторович": 49,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 114,
-      "Сураев Максим Викторович": 259
+      "gas:candidate-vibid:4504001231709": 24,
+      "gas:candidate-vibid:4504001230992": 36,
+      "gas:candidate-vibid:4504001231599": 155,
+      "gas:candidate-vibid:4504001230891": 116,
+      "gas:candidate-vibid:4504001231192": 48,
+      "gas:candidate-vibid:4504001231550": 49,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 114,
+      "gas:candidate-vibid:4504001231436": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 31,
-      "Блинова Наталья Владимировна": 40,
-      "Красикова Оксана Викторовна": 129,
-      "Мушин Алексей Львович": 115,
-      "Павленок Дмитрий Васильевич": 50,
-      "Пивульский Вячеслав Викторович": 52,
-      "Свергунова Маргарита Николаевна": 45,
-      "Сошин Максим Викторович": 114,
-      "Сураев Максим Викторович": 337
+      "gas:candidate-vibid:4504001231709": 31,
+      "gas:candidate-vibid:4504001230992": 40,
+      "gas:candidate-vibid:4504001231599": 129,
+      "gas:candidate-vibid:4504001230891": 115,
+      "gas:candidate-vibid:4504001231192": 50,
+      "gas:candidate-vibid:4504001231550": 52,
+      "gas:candidate-vibid:4504001231637": 45,
+      "gas:candidate-vibid:4504001231262": 114,
+      "gas:candidate-vibid:4504001231436": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 16,
-      "Красикова Оксана Викторовна": 50,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 55,
-      "Пивульский Вячеслав Викторович": 56,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 50,
-      "Сураев Максим Викторович": 165
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 16,
+      "gas:candidate-vibid:4504001231599": 50,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 55,
+      "gas:candidate-vibid:4504001231550": 56,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 50,
+      "gas:candidate-vibid:4504001231436": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 13,
-      "Блинова Наталья Владимировна": 24,
-      "Красикова Оксана Викторовна": 54,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 55,
-      "Сураев Максим Викторович": 195
+      "gas:candidate-vibid:4504001231709": 13,
+      "gas:candidate-vibid:4504001230992": 24,
+      "gas:candidate-vibid:4504001231599": 54,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 55,
+      "gas:candidate-vibid:4504001231436": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 34,
-      "Красикова Оксана Викторовна": 64,
-      "Мушин Алексей Львович": 69,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 32,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 77,
-      "Сураев Максим Викторович": 243
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 34,
+      "gas:candidate-vibid:4504001231599": 64,
+      "gas:candidate-vibid:4504001230891": 69,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 32,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 77,
+      "gas:candidate-vibid:4504001231436": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 30,
-      "Красикова Оксана Викторовна": 106,
-      "Мушин Алексей Львович": 103,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 44,
-      "Свергунова Маргарита Николаевна": 41,
-      "Сошин Максим Викторович": 99,
-      "Сураев Максим Викторович": 260
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 30,
+      "gas:candidate-vibid:4504001231599": 106,
+      "gas:candidate-vibid:4504001230891": 103,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 44,
+      "gas:candidate-vibid:4504001231637": 41,
+      "gas:candidate-vibid:4504001231262": 99,
+      "gas:candidate-vibid:4504001231436": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 83,
-      "Мушин Алексей Львович": 114,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 35,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 77,
-      "Сураев Максим Викторович": 243
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 83,
+      "gas:candidate-vibid:4504001230891": 114,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 35,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 77,
+      "gas:candidate-vibid:4504001231436": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 34,
-      "Красикова Оксана Викторовна": 119,
-      "Мушин Алексей Львович": 117,
-      "Павленок Дмитрий Васильевич": 17,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 33,
-      "Сошин Максим Викторович": 82,
-      "Сураев Максим Викторович": 304
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 34,
+      "gas:candidate-vibid:4504001231599": 119,
+      "gas:candidate-vibid:4504001230891": 117,
+      "gas:candidate-vibid:4504001231192": 17,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 33,
+      "gas:candidate-vibid:4504001231262": 82,
+      "gas:candidate-vibid:4504001231436": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 50,
-      "Мушин Алексей Львович": 89,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 46,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 84,
-      "Сураев Максим Викторович": 215
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 50,
+      "gas:candidate-vibid:4504001230891": 89,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 46,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 84,
+      "gas:candidate-vibid:4504001231436": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 14,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 57,
-      "Мушин Алексей Львович": 91,
-      "Павленок Дмитрий Васильевич": 26,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 19,
-      "Сошин Максим Викторович": 65,
-      "Сураев Максим Викторович": 241
+      "gas:candidate-vibid:4504001231709": 14,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 57,
+      "gas:candidate-vibid:4504001230891": 91,
+      "gas:candidate-vibid:4504001231192": 26,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 19,
+      "gas:candidate-vibid:4504001231262": 65,
+      "gas:candidate-vibid:4504001231436": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 63,
-      "Мушин Алексей Львович": 85,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 69,
-      "Сураев Максим Викторович": 266
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 63,
+      "gas:candidate-vibid:4504001230891": 85,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 69,
+      "gas:candidate-vibid:4504001231436": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 14,
-      "Блинова Наталья Владимировна": 16,
-      "Красикова Оксана Викторовна": 65,
-      "Мушин Алексей Львович": 81,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 34,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 49,
-      "Сураев Максим Викторович": 261
+      "gas:candidate-vibid:4504001231709": 14,
+      "gas:candidate-vibid:4504001230992": 16,
+      "gas:candidate-vibid:4504001231599": 65,
+      "gas:candidate-vibid:4504001230891": 81,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 34,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 49,
+      "gas:candidate-vibid:4504001231436": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 21,
-      "Красикова Оксана Викторовна": 109,
-      "Мушин Алексей Львович": 129,
-      "Павленок Дмитрий Васильевич": 51,
-      "Пивульский Вячеслав Викторович": 61,
-      "Свергунова Маргарита Николаевна": 33,
-      "Сошин Максим Викторович": 79,
-      "Сураев Максим Викторович": 285
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 21,
+      "gas:candidate-vibid:4504001231599": 109,
+      "gas:candidate-vibid:4504001230891": 129,
+      "gas:candidate-vibid:4504001231192": 51,
+      "gas:candidate-vibid:4504001231550": 61,
+      "gas:candidate-vibid:4504001231637": 33,
+      "gas:candidate-vibid:4504001231262": 79,
+      "gas:candidate-vibid:4504001231436": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 23,
-      "Красикова Оксана Викторовна": 70,
-      "Мушин Алексей Львович": 72,
-      "Павленок Дмитрий Васильевич": 35,
-      "Пивульский Вячеслав Викторович": 43,
-      "Свергунова Маргарита Николаевна": 18,
-      "Сошин Максим Викторович": 61,
-      "Сураев Максим Викторович": 198
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 23,
+      "gas:candidate-vibid:4504001231599": 70,
+      "gas:candidate-vibid:4504001230891": 72,
+      "gas:candidate-vibid:4504001231192": 35,
+      "gas:candidate-vibid:4504001231550": 43,
+      "gas:candidate-vibid:4504001231637": 18,
+      "gas:candidate-vibid:4504001231262": 61,
+      "gas:candidate-vibid:4504001231436": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 23,
-      "Красикова Оксана Викторовна": 53,
-      "Мушин Алексей Львович": 64,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 42,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 58,
-      "Сураев Максим Викторович": 172
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 23,
+      "gas:candidate-vibid:4504001231599": 53,
+      "gas:candidate-vibid:4504001230891": 64,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 42,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 58,
+      "gas:candidate-vibid:4504001231436": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 4,
-      "Блинова Наталья Владимировна": 6,
-      "Красикова Оксана Викторовна": 15,
-      "Мушин Алексей Львович": 20,
-      "Павленок Дмитрий Васильевич": 12,
-      "Пивульский Вячеслав Викторович": 17,
-      "Свергунова Маргарита Николаевна": 3,
-      "Сошин Максим Викторович": 13,
-      "Сураев Максим Викторович": 62
+      "gas:candidate-vibid:4504001231709": 4,
+      "gas:candidate-vibid:4504001230992": 6,
+      "gas:candidate-vibid:4504001231599": 15,
+      "gas:candidate-vibid:4504001230891": 20,
+      "gas:candidate-vibid:4504001231192": 12,
+      "gas:candidate-vibid:4504001231550": 17,
+      "gas:candidate-vibid:4504001231637": 3,
+      "gas:candidate-vibid:4504001231262": 13,
+      "gas:candidate-vibid:4504001231436": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 37,
-      "Мушин Алексей Львович": 84,
-      "Павленок Дмитрий Васильевич": 30,
-      "Пивульский Вячеслав Викторович": 45,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 73,
-      "Сураев Максим Викторович": 246
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 37,
+      "gas:candidate-vibid:4504001230891": 84,
+      "gas:candidate-vibid:4504001231192": 30,
+      "gas:candidate-vibid:4504001231550": 45,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 73,
+      "gas:candidate-vibid:4504001231436": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 29,
-      "Красикова Оксана Викторовна": 65,
-      "Мушин Алексей Львович": 90,
-      "Павленок Дмитрий Васильевич": 49,
-      "Пивульский Вячеслав Викторович": 60,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 58,
-      "Сураев Максим Викторович": 273
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 29,
+      "gas:candidate-vibid:4504001231599": 65,
+      "gas:candidate-vibid:4504001230891": 90,
+      "gas:candidate-vibid:4504001231192": 49,
+      "gas:candidate-vibid:4504001231550": 60,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 58,
+      "gas:candidate-vibid:4504001231436": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 14,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 73,
-      "Мушин Алексей Львович": 90,
-      "Павленок Дмитрий Васильевич": 18,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 14,
-      "Сошин Максим Викторович": 70,
-      "Сураев Максим Викторович": 214
+      "gas:candidate-vibid:4504001231709": 14,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 73,
+      "gas:candidate-vibid:4504001230891": 90,
+      "gas:candidate-vibid:4504001231192": 18,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 14,
+      "gas:candidate-vibid:4504001231262": 70,
+      "gas:candidate-vibid:4504001231436": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 126,
-      "Мушин Алексей Львович": 96,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 37,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 106,
-      "Сураев Максим Викторович": 310
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 126,
+      "gas:candidate-vibid:4504001230891": 96,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 37,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 106,
+      "gas:candidate-vibid:4504001231436": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 30,
-      "Красикова Оксана Викторовна": 106,
-      "Мушин Алексей Львович": 106,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 103,
-      "Сураев Максим Викторович": 300
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 30,
+      "gas:candidate-vibid:4504001231599": 106,
+      "gas:candidate-vibid:4504001230891": 106,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 103,
+      "gas:candidate-vibid:4504001231436": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 32,
-      "Красикова Оксана Викторовна": 86,
-      "Мушин Алексей Львович": 101,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 37,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 90,
-      "Сураев Максим Викторович": 277
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 32,
+      "gas:candidate-vibid:4504001231599": 86,
+      "gas:candidate-vibid:4504001230891": 101,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 37,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 90,
+      "gas:candidate-vibid:4504001231436": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 35,
-      "Красикова Оксана Викторовна": 111,
-      "Мушин Алексей Львович": 99,
-      "Павленок Дмитрий Васильевич": 38,
-      "Пивульский Вячеслав Викторович": 39,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 101,
-      "Сураев Максим Викторович": 272
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 35,
+      "gas:candidate-vibid:4504001231599": 111,
+      "gas:candidate-vibid:4504001230891": 99,
+      "gas:candidate-vibid:4504001231192": 38,
+      "gas:candidate-vibid:4504001231550": 39,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 101,
+      "gas:candidate-vibid:4504001231436": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 24,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 73,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 88,
-      "Сураев Максим Викторович": 238
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 24,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 73,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 88,
+      "gas:candidate-vibid:4504001231436": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 10,
-      "Красикова Оксана Викторовна": 44,
-      "Мушин Алексей Львович": 62,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 56,
-      "Сураев Максим Викторович": 171
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 10,
+      "gas:candidate-vibid:4504001231599": 44,
+      "gas:candidate-vibid:4504001230891": 62,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 56,
+      "gas:candidate-vibid:4504001231436": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 20,
-      "Красикова Оксана Викторовна": 44,
-      "Мушин Алексей Львович": 50,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 87,
-      "Сураев Максим Викторович": 148
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 20,
+      "gas:candidate-vibid:4504001231599": 44,
+      "gas:candidate-vibid:4504001230891": 50,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 87,
+      "gas:candidate-vibid:4504001231436": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 9,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 52,
-      "Мушин Алексей Львович": 32,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 70,
-      "Сураев Максим Викторович": 133
+      "gas:candidate-vibid:4504001231709": 9,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 52,
+      "gas:candidate-vibid:4504001230891": 32,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 70,
+      "gas:candidate-vibid:4504001231436": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 99,
-      "Мушин Алексей Львович": 125,
-      "Павленок Дмитрий Васильевич": 37,
-      "Пивульский Вячеслав Викторович": 58,
-      "Свергунова Маргарита Николаевна": 41,
-      "Сошин Максим Викторович": 112,
-      "Сураев Максим Викторович": 285
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 99,
+      "gas:candidate-vibid:4504001230891": 125,
+      "gas:candidate-vibid:4504001231192": 37,
+      "gas:candidate-vibid:4504001231550": 58,
+      "gas:candidate-vibid:4504001231637": 41,
+      "gas:candidate-vibid:4504001231262": 112,
+      "gas:candidate-vibid:4504001231436": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 11,
-      "Блинова Наталья Владимировна": 34,
-      "Красикова Оксана Викторовна": 122,
-      "Мушин Алексей Львович": 101,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 37,
-      "Свергунова Маргарита Николаевна": 31,
-      "Сошин Максим Викторович": 85,
-      "Сураев Максим Викторович": 207
+      "gas:candidate-vibid:4504001231709": 11,
+      "gas:candidate-vibid:4504001230992": 34,
+      "gas:candidate-vibid:4504001231599": 122,
+      "gas:candidate-vibid:4504001230891": 101,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 37,
+      "gas:candidate-vibid:4504001231637": 31,
+      "gas:candidate-vibid:4504001231262": 85,
+      "gas:candidate-vibid:4504001231436": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 25,
-      "Красикова Оксана Викторовна": 83,
-      "Мушин Алексей Львович": 86,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 30,
-      "Свергунова Маргарита Николаевна": 35,
-      "Сошин Максим Викторович": 90,
-      "Сураев Максим Викторович": 290
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 25,
+      "gas:candidate-vibid:4504001231599": 83,
+      "gas:candidate-vibid:4504001230891": 86,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 30,
+      "gas:candidate-vibid:4504001231637": 35,
+      "gas:candidate-vibid:4504001231262": 90,
+      "gas:candidate-vibid:4504001231436": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 28,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 91,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 32,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 104,
-      "Сураев Максим Викторович": 220
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 28,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 91,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 32,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 104,
+      "gas:candidate-vibid:4504001231436": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 16,
-      "Блинова Наталья Владимировна": 27,
-      "Красикова Оксана Викторовна": 68,
-      "Мушин Алексей Львович": 99,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 33,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 91,
-      "Сураев Максим Викторович": 253
+      "gas:candidate-vibid:4504001231709": 16,
+      "gas:candidate-vibid:4504001230992": 27,
+      "gas:candidate-vibid:4504001231599": 68,
+      "gas:candidate-vibid:4504001230891": 99,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 33,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 91,
+      "gas:candidate-vibid:4504001231436": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 9,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 64,
-      "Мушин Алексей Львович": 50,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 22,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 79,
-      "Сураев Максим Викторович": 157
+      "gas:candidate-vibid:4504001231709": 9,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 64,
+      "gas:candidate-vibid:4504001230891": 50,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 22,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 79,
+      "gas:candidate-vibid:4504001231436": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 27,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 88,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 48,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 88,
-      "Сураев Максим Викторович": 301
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 27,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 88,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 48,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 88,
+      "gas:candidate-vibid:4504001231436": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 21,
-      "Блинова Наталья Владимировна": 29,
-      "Красикова Оксана Викторовна": 99,
-      "Мушин Алексей Львович": 75,
-      "Павленок Дмитрий Васильевич": 44,
-      "Пивульский Вячеслав Викторович": 41,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 92,
-      "Сураев Максим Викторович": 303
+      "gas:candidate-vibid:4504001231709": 21,
+      "gas:candidate-vibid:4504001230992": 29,
+      "gas:candidate-vibid:4504001231599": 99,
+      "gas:candidate-vibid:4504001230891": 75,
+      "gas:candidate-vibid:4504001231192": 44,
+      "gas:candidate-vibid:4504001231550": 41,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 92,
+      "gas:candidate-vibid:4504001231436": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 28,
-      "Красикова Оксана Викторовна": 109,
-      "Мушин Алексей Львович": 118,
-      "Павленок Дмитрий Васильевич": 17,
-      "Пивульский Вячеслав Викторович": 37,
-      "Свергунова Маргарита Николаевна": 32,
-      "Сошин Максим Викторович": 86,
-      "Сураев Максим Викторович": 273
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 28,
+      "gas:candidate-vibid:4504001231599": 109,
+      "gas:candidate-vibid:4504001230891": 118,
+      "gas:candidate-vibid:4504001231192": 17,
+      "gas:candidate-vibid:4504001231550": 37,
+      "gas:candidate-vibid:4504001231637": 32,
+      "gas:candidate-vibid:4504001231262": 86,
+      "gas:candidate-vibid:4504001231436": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 17,
-      "Красикова Оксана Викторовна": 88,
-      "Мушин Алексей Львович": 89,
-      "Павленок Дмитрий Васильевич": 26,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 80,
-      "Сураев Максим Викторович": 249
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 17,
+      "gas:candidate-vibid:4504001231599": 88,
+      "gas:candidate-vibid:4504001230891": 89,
+      "gas:candidate-vibid:4504001231192": 26,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 80,
+      "gas:candidate-vibid:4504001231436": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 40,
-      "Красикова Оксана Викторовна": 135,
-      "Мушин Алексей Львович": 105,
-      "Павленок Дмитрий Васильевич": 47,
-      "Пивульский Вячеслав Викторович": 61,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 115,
-      "Сураев Максим Викторович": 319
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 40,
+      "gas:candidate-vibid:4504001231599": 135,
+      "gas:candidate-vibid:4504001230891": 105,
+      "gas:candidate-vibid:4504001231192": 47,
+      "gas:candidate-vibid:4504001231550": 61,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 115,
+      "gas:candidate-vibid:4504001231436": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 28,
-      "Красикова Оксана Викторовна": 95,
-      "Мушин Алексей Львович": 116,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 77,
-      "Свергунова Маргарита Николаевна": 31,
-      "Сошин Максим Викторович": 97,
-      "Сураев Максим Викторович": 301
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 28,
+      "gas:candidate-vibid:4504001231599": 95,
+      "gas:candidate-vibid:4504001230891": 116,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 77,
+      "gas:candidate-vibid:4504001231637": 31,
+      "gas:candidate-vibid:4504001231262": 97,
+      "gas:candidate-vibid:4504001231436": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 25,
-      "Блинова Наталья Владимировна": 40,
-      "Красикова Оксана Викторовна": 125,
-      "Мушин Алексей Львович": 113,
-      "Павленок Дмитрий Васильевич": 40,
-      "Пивульский Вячеслав Викторович": 35,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 111,
-      "Сураев Максим Викторович": 332
+      "gas:candidate-vibid:4504001231709": 25,
+      "gas:candidate-vibid:4504001230992": 40,
+      "gas:candidate-vibid:4504001231599": 125,
+      "gas:candidate-vibid:4504001230891": 113,
+      "gas:candidate-vibid:4504001231192": 40,
+      "gas:candidate-vibid:4504001231550": 35,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 111,
+      "gas:candidate-vibid:4504001231436": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 30,
-      "Блинова Наталья Владимировна": 34,
-      "Красикова Оксана Викторовна": 78,
-      "Мушин Алексей Львович": 121,
-      "Павленок Дмитрий Васильевич": 57,
-      "Пивульский Вячеслав Викторович": 78,
-      "Свергунова Маргарита Николаевна": 39,
-      "Сошин Максим Викторович": 95,
-      "Сураев Максим Викторович": 300
+      "gas:candidate-vibid:4504001231709": 30,
+      "gas:candidate-vibid:4504001230992": 34,
+      "gas:candidate-vibid:4504001231599": 78,
+      "gas:candidate-vibid:4504001230891": 121,
+      "gas:candidate-vibid:4504001231192": 57,
+      "gas:candidate-vibid:4504001231550": 78,
+      "gas:candidate-vibid:4504001231637": 39,
+      "gas:candidate-vibid:4504001231262": 95,
+      "gas:candidate-vibid:4504001231436": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 31,
-      "Красикова Оксана Викторовна": 107,
-      "Мушин Алексей Львович": 81,
-      "Павленок Дмитрий Васильевич": 62,
-      "Пивульский Вячеслав Викторович": 62,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 105,
-      "Сураев Максим Викторович": 287
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 31,
+      "gas:candidate-vibid:4504001231599": 107,
+      "gas:candidate-vibid:4504001230891": 81,
+      "gas:candidate-vibid:4504001231192": 62,
+      "gas:candidate-vibid:4504001231550": 62,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 105,
+      "gas:candidate-vibid:4504001231436": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 93,
-      "Мушин Алексей Львович": 90,
-      "Павленок Дмитрий Васильевич": 60,
-      "Пивульский Вячеслав Викторович": 52,
-      "Свергунова Маргарита Николаевна": 34,
-      "Сошин Максим Викторович": 102,
-      "Сураев Максим Викторович": 198
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 93,
+      "gas:candidate-vibid:4504001230891": 90,
+      "gas:candidate-vibid:4504001231192": 60,
+      "gas:candidate-vibid:4504001231550": 52,
+      "gas:candidate-vibid:4504001231637": 34,
+      "gas:candidate-vibid:4504001231262": 102,
+      "gas:candidate-vibid:4504001231436": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 6,
-      "Блинова Наталья Владимировна": 28,
-      "Красикова Оксана Викторовна": 92,
-      "Мушин Алексей Львович": 67,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 19,
-      "Сошин Максим Викторович": 101,
-      "Сураев Максим Викторович": 156
+      "gas:candidate-vibid:4504001231709": 6,
+      "gas:candidate-vibid:4504001230992": 28,
+      "gas:candidate-vibid:4504001231599": 92,
+      "gas:candidate-vibid:4504001230891": 67,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 19,
+      "gas:candidate-vibid:4504001231262": 101,
+      "gas:candidate-vibid:4504001231436": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 41,
-      "Красикова Оксана Викторовна": 112,
-      "Мушин Алексей Львович": 109,
-      "Павленок Дмитрий Васильевич": 48,
-      "Пивульский Вячеслав Викторович": 59,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 162,
-      "Сураев Максим Викторович": 223
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 41,
+      "gas:candidate-vibid:4504001231599": 112,
+      "gas:candidate-vibid:4504001230891": 109,
+      "gas:candidate-vibid:4504001231192": 48,
+      "gas:candidate-vibid:4504001231550": 59,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 162,
+      "gas:candidate-vibid:4504001231436": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 28,
-      "Красикова Оксана Викторовна": 89,
-      "Мушин Алексей Львович": 78,
-      "Павленок Дмитрий Васильевич": 35,
-      "Пивульский Вячеслав Викторович": 51,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 187,
-      "Сураев Максим Викторович": 214
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 28,
+      "gas:candidate-vibid:4504001231599": 89,
+      "gas:candidate-vibid:4504001230891": 78,
+      "gas:candidate-vibid:4504001231192": 35,
+      "gas:candidate-vibid:4504001231550": 51,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 187,
+      "gas:candidate-vibid:4504001231436": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 16,
-      "Красикова Оксана Викторовна": 69,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 72,
-      "Сураев Максим Викторович": 171
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 16,
+      "gas:candidate-vibid:4504001231599": 69,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 72,
+      "gas:candidate-vibid:4504001231436": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 24,
-      "Красикова Оксана Викторовна": 68,
-      "Мушин Алексей Львович": 70,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 33,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 111,
-      "Сураев Максим Викторович": 169
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 24,
+      "gas:candidate-vibid:4504001231599": 68,
+      "gas:candidate-vibid:4504001230891": 70,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 33,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 111,
+      "gas:candidate-vibid:4504001231436": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 17,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 62,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 89,
-      "Сураев Максим Викторович": 189
+      "gas:candidate-vibid:4504001231709": 17,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 62,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 89,
+      "gas:candidate-vibid:4504001231436": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 6,
-      "Блинова Наталья Владимировна": 9,
-      "Красикова Оксана Викторовна": 28,
-      "Мушин Алексей Львович": 35,
-      "Павленок Дмитрий Васильевич": 5,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 2,
-      "Сошин Максим Викторович": 25,
-      "Сураев Максим Викторович": 157
+      "gas:candidate-vibid:4504001231709": 6,
+      "gas:candidate-vibid:4504001230992": 9,
+      "gas:candidate-vibid:4504001231599": 28,
+      "gas:candidate-vibid:4504001230891": 35,
+      "gas:candidate-vibid:4504001231192": 5,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 2,
+      "gas:candidate-vibid:4504001231262": 25,
+      "gas:candidate-vibid:4504001231436": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 5,
-      "Блинова Наталья Владимировна": 16,
-      "Красикова Оксана Викторовна": 26,
-      "Мушин Алексей Львович": 30,
-      "Павленок Дмитрий Васильевич": 19,
-      "Пивульский Вячеслав Викторович": 10,
-      "Свергунова Маргарита Николаевна": 7,
-      "Сошин Максим Викторович": 21,
-      "Сураев Максим Викторович": 134
+      "gas:candidate-vibid:4504001231709": 5,
+      "gas:candidate-vibid:4504001230992": 16,
+      "gas:candidate-vibid:4504001231599": 26,
+      "gas:candidate-vibid:4504001230891": 30,
+      "gas:candidate-vibid:4504001231192": 19,
+      "gas:candidate-vibid:4504001231550": 10,
+      "gas:candidate-vibid:4504001231637": 7,
+      "gas:candidate-vibid:4504001231262": 21,
+      "gas:candidate-vibid:4504001231436": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 4,
-      "Блинова Наталья Владимировна": 10,
-      "Красикова Оксана Викторовна": 17,
-      "Мушин Алексей Львович": 29,
-      "Павленок Дмитрий Васильевич": 9,
-      "Пивульский Вячеслав Викторович": 9,
-      "Свергунова Маргарита Николаевна": 9,
-      "Сошин Максим Викторович": 13,
-      "Сураев Максим Викторович": 92
+      "gas:candidate-vibid:4504001231709": 4,
+      "gas:candidate-vibid:4504001230992": 10,
+      "gas:candidate-vibid:4504001231599": 17,
+      "gas:candidate-vibid:4504001230891": 29,
+      "gas:candidate-vibid:4504001231192": 9,
+      "gas:candidate-vibid:4504001231550": 9,
+      "gas:candidate-vibid:4504001231637": 9,
+      "gas:candidate-vibid:4504001231262": 13,
+      "gas:candidate-vibid:4504001231436": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 21,
-      "Блинова Наталья Владимировна": 37,
-      "Красикова Оксана Викторовна": 78,
-      "Мушин Алексей Львович": 115,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 62,
-      "Сураев Максим Викторович": 253
+      "gas:candidate-vibid:4504001231709": 21,
+      "gas:candidate-vibid:4504001230992": 37,
+      "gas:candidate-vibid:4504001231599": 78,
+      "gas:candidate-vibid:4504001230891": 115,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 62,
+      "gas:candidate-vibid:4504001231436": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 5,
-      "Блинова Наталья Владимировна": 8,
-      "Красикова Оксана Викторовна": 11,
-      "Мушин Алексей Львович": 14,
-      "Павленок Дмитрий Васильевич": 5,
-      "Пивульский Вячеслав Викторович": 10,
-      "Свергунова Маргарита Николаевна": 6,
-      "Сошин Максим Викторович": 14,
-      "Сураев Максим Викторович": 32
+      "gas:candidate-vibid:4504001231709": 5,
+      "gas:candidate-vibid:4504001230992": 8,
+      "gas:candidate-vibid:4504001231599": 11,
+      "gas:candidate-vibid:4504001230891": 14,
+      "gas:candidate-vibid:4504001231192": 5,
+      "gas:candidate-vibid:4504001231550": 10,
+      "gas:candidate-vibid:4504001231637": 6,
+      "gas:candidate-vibid:4504001231262": 14,
+      "gas:candidate-vibid:4504001231436": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 48,
-      "Красикова Оксана Викторовна": 95,
-      "Мушин Алексей Львович": 96,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 34,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 76,
-      "Сураев Максим Викторович": 326
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 48,
+      "gas:candidate-vibid:4504001231599": 95,
+      "gas:candidate-vibid:4504001230891": 96,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 34,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 76,
+      "gas:candidate-vibid:4504001231436": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 19,
-      "Блинова Наталья Владимировна": 39,
-      "Красикова Оксана Викторовна": 80,
-      "Мушин Алексей Львович": 154,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 78,
-      "Сураев Максим Викторович": 437
+      "gas:candidate-vibid:4504001231709": 19,
+      "gas:candidate-vibid:4504001230992": 39,
+      "gas:candidate-vibid:4504001231599": 80,
+      "gas:candidate-vibid:4504001230891": 154,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 78,
+      "gas:candidate-vibid:4504001231436": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 32,
-      "Красикова Оксана Викторовна": 79,
-      "Мушин Алексей Львович": 108,
-      "Павленок Дмитрий Васильевич": 19,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 73,
-      "Сураев Максим Викторович": 301
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 32,
+      "gas:candidate-vibid:4504001231599": 79,
+      "gas:candidate-vibid:4504001230891": 108,
+      "gas:candidate-vibid:4504001231192": 19,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 73,
+      "gas:candidate-vibid:4504001231436": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 18,
-      "Красикова Оксана Викторовна": 59,
-      "Мушин Алексей Львович": 96,
-      "Павленок Дмитрий Васильевич": 18,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 12,
-      "Сошин Максим Викторович": 50,
-      "Сураев Максим Викторович": 234
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 18,
+      "gas:candidate-vibid:4504001231599": 59,
+      "gas:candidate-vibid:4504001230891": 96,
+      "gas:candidate-vibid:4504001231192": 18,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 12,
+      "gas:candidate-vibid:4504001231262": 50,
+      "gas:candidate-vibid:4504001231436": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 6,
-      "Блинова Наталья Владимировна": 15,
-      "Красикова Оксана Викторовна": 31,
-      "Мушин Алексей Львович": 45,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 10,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 139
+      "gas:candidate-vibid:4504001231709": 6,
+      "gas:candidate-vibid:4504001230992": 15,
+      "gas:candidate-vibid:4504001231599": 31,
+      "gas:candidate-vibid:4504001230891": 45,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 10,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 5,
-      "Блинова Наталья Владимировна": 11,
-      "Красикова Оксана Викторовна": 29,
-      "Мушин Алексей Львович": 34,
-      "Павленок Дмитрий Васильевич": 12,
-      "Пивульский Вячеслав Викторович": 13,
-      "Свергунова Маргарита Николаевна": 9,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 96
+      "gas:candidate-vibid:4504001231709": 5,
+      "gas:candidate-vibid:4504001230992": 11,
+      "gas:candidate-vibid:4504001231599": 29,
+      "gas:candidate-vibid:4504001230891": 34,
+      "gas:candidate-vibid:4504001231192": 12,
+      "gas:candidate-vibid:4504001231550": 13,
+      "gas:candidate-vibid:4504001231637": 9,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 16,
-      "Блинова Наталья Владимировна": 27,
-      "Красикова Оксана Викторовна": 42,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 12,
-      "Сошин Максим Викторович": 35,
-      "Сураев Максим Викторович": 189
+      "gas:candidate-vibid:4504001231709": 16,
+      "gas:candidate-vibid:4504001230992": 27,
+      "gas:candidate-vibid:4504001231599": 42,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 12,
+      "gas:candidate-vibid:4504001231262": 35,
+      "gas:candidate-vibid:4504001231436": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 11,
-      "Блинова Наталья Владимировна": 21,
-      "Красикова Оксана Викторовна": 35,
-      "Мушин Алексей Львович": 46,
-      "Павленок Дмитрий Васильевич": 18,
-      "Пивульский Вячеслав Викторович": 10,
-      "Свергунова Маргарита Николаевна": 12,
-      "Сошин Максим Викторович": 61,
-      "Сураев Максим Викторович": 156
+      "gas:candidate-vibid:4504001231709": 11,
+      "gas:candidate-vibid:4504001230992": 21,
+      "gas:candidate-vibid:4504001231599": 35,
+      "gas:candidate-vibid:4504001230891": 46,
+      "gas:candidate-vibid:4504001231192": 18,
+      "gas:candidate-vibid:4504001231550": 10,
+      "gas:candidate-vibid:4504001231637": 12,
+      "gas:candidate-vibid:4504001231262": 61,
+      "gas:candidate-vibid:4504001231436": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 4,
-      "Блинова Наталья Владимировна": 8,
-      "Красикова Оксана Викторовна": 13,
-      "Мушин Алексей Львович": 25,
-      "Павленок Дмитрий Васильевич": 3,
-      "Пивульский Вячеслав Викторович": 7,
-      "Свергунова Маргарита Николаевна": 5,
-      "Сошин Максим Викторович": 15,
-      "Сураев Максим Викторович": 113
+      "gas:candidate-vibid:4504001231709": 4,
+      "gas:candidate-vibid:4504001230992": 8,
+      "gas:candidate-vibid:4504001231599": 13,
+      "gas:candidate-vibid:4504001230891": 25,
+      "gas:candidate-vibid:4504001231192": 3,
+      "gas:candidate-vibid:4504001231550": 7,
+      "gas:candidate-vibid:4504001231637": 5,
+      "gas:candidate-vibid:4504001231262": 15,
+      "gas:candidate-vibid:4504001231436": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 6,
-      "Блинова Наталья Владимировна": 18,
-      "Красикова Оксана Викторовна": 19,
-      "Мушин Алексей Львович": 27,
-      "Павленок Дмитрий Васильевич": 9,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 2,
-      "Сошин Максим Викторович": 15,
-      "Сураев Максим Викторович": 161
+      "gas:candidate-vibid:4504001231709": 6,
+      "gas:candidate-vibid:4504001230992": 18,
+      "gas:candidate-vibid:4504001231599": 19,
+      "gas:candidate-vibid:4504001230891": 27,
+      "gas:candidate-vibid:4504001231192": 9,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 2,
+      "gas:candidate-vibid:4504001231262": 15,
+      "gas:candidate-vibid:4504001231436": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 10,
-      "Блинова Наталья Владимировна": 14,
-      "Красикова Оксана Викторовна": 21,
-      "Мушин Алексей Львович": 31,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 8,
-      "Свергунова Маргарита Николаевна": 5,
-      "Сошин Максим Викторович": 24,
-      "Сураев Максим Викторович": 114
+      "gas:candidate-vibid:4504001231709": 10,
+      "gas:candidate-vibid:4504001230992": 14,
+      "gas:candidate-vibid:4504001231599": 21,
+      "gas:candidate-vibid:4504001230891": 31,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 8,
+      "gas:candidate-vibid:4504001231637": 5,
+      "gas:candidate-vibid:4504001231262": 24,
+      "gas:candidate-vibid:4504001231436": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 12,
-      "Блинова Наталья Владимировна": 7,
-      "Красикова Оксана Викторовна": 21,
-      "Мушин Алексей Львович": 17,
-      "Павленок Дмитрий Васильевич": 2,
-      "Пивульский Вячеслав Викторович": 7,
-      "Свергунова Маргарита Николаевна": 7,
-      "Сошин Максим Викторович": 9,
-      "Сураев Максим Викторович": 43
+      "gas:candidate-vibid:4504001231709": 12,
+      "gas:candidate-vibid:4504001230992": 7,
+      "gas:candidate-vibid:4504001231599": 21,
+      "gas:candidate-vibid:4504001230891": 17,
+      "gas:candidate-vibid:4504001231192": 2,
+      "gas:candidate-vibid:4504001231550": 7,
+      "gas:candidate-vibid:4504001231637": 7,
+      "gas:candidate-vibid:4504001231262": 9,
+      "gas:candidate-vibid:4504001231436": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 39,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 95,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 47,
-      "Сураев Максим Викторович": 282
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 39,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 95,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 47,
+      "gas:candidate-vibid:4504001231436": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 5,
-      "Блинова Наталья Владимировна": 16,
-      "Красикова Оксана Викторовна": 24,
-      "Мушин Алексей Львович": 47,
-      "Павленок Дмитрий Васильевич": 7,
-      "Пивульский Вячеслав Викторович": 12,
-      "Свергунова Маргарита Николаевна": 6,
-      "Сошин Максим Викторович": 12,
-      "Сураев Максим Викторович": 183
+      "gas:candidate-vibid:4504001231709": 5,
+      "gas:candidate-vibid:4504001230992": 16,
+      "gas:candidate-vibid:4504001231599": 24,
+      "gas:candidate-vibid:4504001230891": 47,
+      "gas:candidate-vibid:4504001231192": 7,
+      "gas:candidate-vibid:4504001231550": 12,
+      "gas:candidate-vibid:4504001231637": 6,
+      "gas:candidate-vibid:4504001231262": 12,
+      "gas:candidate-vibid:4504001231436": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 7,
-      "Блинова Наталья Владимировна": 18,
-      "Красикова Оксана Викторовна": 35,
-      "Мушин Алексей Львович": 62,
-      "Павленок Дмитрий Васильевич": 12,
-      "Пивульский Вячеслав Викторович": 8,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 183
+      "gas:candidate-vibid:4504001231709": 7,
+      "gas:candidate-vibid:4504001230992": 18,
+      "gas:candidate-vibid:4504001231599": 35,
+      "gas:candidate-vibid:4504001230891": 62,
+      "gas:candidate-vibid:4504001231192": 12,
+      "gas:candidate-vibid:4504001231550": 8,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 3,
-      "Блинова Наталья Владимировна": 5,
-      "Красикова Оксана Викторовна": 17,
-      "Мушин Алексей Львович": 21,
-      "Павленок Дмитрий Васильевич": 1,
-      "Пивульский Вячеслав Викторович": 8,
-      "Свергунова Маргарита Николаевна": 3,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 250
+      "gas:candidate-vibid:4504001231709": 3,
+      "gas:candidate-vibid:4504001230992": 5,
+      "gas:candidate-vibid:4504001231599": 17,
+      "gas:candidate-vibid:4504001230891": 21,
+      "gas:candidate-vibid:4504001231192": 1,
+      "gas:candidate-vibid:4504001231550": 8,
+      "gas:candidate-vibid:4504001231637": 3,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005522&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005522&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 30,
-      "Блинова Наталья Владимировна": 30,
-      "Красикова Оксана Викторовна": 52,
-      "Мушин Алексей Львович": 27,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 24,
-      "Свергунова Маргарита Николаевна": 18,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 724
+      "gas:candidate-vibid:4504001231709": 30,
+      "gas:candidate-vibid:4504001230992": 30,
+      "gas:candidate-vibid:4504001231599": 52,
+      "gas:candidate-vibid:4504001230891": 27,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 24,
+      "gas:candidate-vibid:4504001231637": 18,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 724
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 25,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 40,
-      "Мушин Алексей Львович": 58,
-      "Павленок Дмитрий Васильевич": 34,
-      "Пивульский Вячеслав Викторович": 17,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 34,
-      "Сураев Максим Викторович": 428
+      "gas:candidate-vibid:4504001231709": 25,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 40,
+      "gas:candidate-vibid:4504001230891": 58,
+      "gas:candidate-vibid:4504001231192": 34,
+      "gas:candidate-vibid:4504001231550": 17,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 34,
+      "gas:candidate-vibid:4504001231436": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 37,
-      "Красикова Оксана Викторовна": 84,
-      "Мушин Алексей Львович": 70,
-      "Павленок Дмитрий Васильевич": 41,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 474
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 37,
+      "gas:candidate-vibid:4504001231599": 84,
+      "gas:candidate-vibid:4504001230891": 70,
+      "gas:candidate-vibid:4504001231192": 41,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 66,
-      "Красикова Оксана Викторовна": 69,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 15,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 12,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 711
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 66,
+      "gas:candidate-vibid:4504001231599": 69,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 15,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 12,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 711
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 45,
-      "Красикова Оксана Викторовна": 98,
-      "Мушин Алексей Львович": 61,
-      "Павленок Дмитрий Васильевич": 37,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 37,
-      "Сураев Максим Викторович": 496
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 45,
+      "gas:candidate-vibid:4504001231599": 98,
+      "gas:candidate-vibid:4504001230891": 61,
+      "gas:candidate-vibid:4504001231192": 37,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 37,
+      "gas:candidate-vibid:4504001231436": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 62,
-      "Красикова Оксана Викторовна": 107,
-      "Мушин Алексей Львович": 61,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 28,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 450
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 62,
+      "gas:candidate-vibid:4504001231599": 107,
+      "gas:candidate-vibid:4504001230891": 61,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 28,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 29,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 88,
-      "Мушин Алексей Львович": 69,
-      "Павленок Дмитрий Васильевич": 36,
-      "Пивульский Вячеслав Викторович": 17,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 46,
-      "Сураев Максим Викторович": 481
+      "gas:candidate-vibid:4504001231709": 29,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 88,
+      "gas:candidate-vibid:4504001230891": 69,
+      "gas:candidate-vibid:4504001231192": 36,
+      "gas:candidate-vibid:4504001231550": 17,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 46,
+      "gas:candidate-vibid:4504001231436": 481
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 69,
-      "Красикова Оксана Викторовна": 93,
-      "Мушин Алексей Львович": 45,
-      "Павленок Дмитрий Васильевич": 38,
-      "Пивульский Вячеслав Викторович": 28,
-      "Свергунова Маргарита Николаевна": 39,
-      "Сошин Максим Викторович": 50,
-      "Сураев Максим Викторович": 470
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 69,
+      "gas:candidate-vibid:4504001231599": 93,
+      "gas:candidate-vibid:4504001230891": 45,
+      "gas:candidate-vibid:4504001231192": 38,
+      "gas:candidate-vibid:4504001231550": 28,
+      "gas:candidate-vibid:4504001231637": 39,
+      "gas:candidate-vibid:4504001231262": 50,
+      "gas:candidate-vibid:4504001231436": 470
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 49,
-      "Блинова Наталья Владимировна": 73,
-      "Красикова Оксана Викторовна": 106,
-      "Мушин Алексей Львович": 88,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 36,
-      "Сураев Максим Викторович": 572
+      "gas:candidate-vibid:4504001231709": 49,
+      "gas:candidate-vibid:4504001230992": 73,
+      "gas:candidate-vibid:4504001231599": 106,
+      "gas:candidate-vibid:4504001230891": 88,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 36,
+      "gas:candidate-vibid:4504001231436": 572
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 25,
-      "Блинова Наталья Владимировна": 72,
-      "Красикова Оксана Викторовна": 123,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 36,
-      "Пивульский Вячеслав Викторович": 28,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 47,
-      "Сураев Максим Викторович": 465
+      "gas:candidate-vibid:4504001231709": 25,
+      "gas:candidate-vibid:4504001230992": 72,
+      "gas:candidate-vibid:4504001231599": 123,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 36,
+      "gas:candidate-vibid:4504001231550": 28,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 47,
+      "gas:candidate-vibid:4504001231436": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 89,
-      "Мушин Алексей Львович": 105,
-      "Павленок Дмитрий Васильевич": 18,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 32,
-      "Сураев Максим Викторович": 376
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 89,
+      "gas:candidate-vibid:4504001230891": 105,
+      "gas:candidate-vibid:4504001231192": 18,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 32,
+      "gas:candidate-vibid:4504001231436": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 29,
-      "Красикова Оксана Викторовна": 64,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 39,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 27,
-      "Сураев Максим Викторович": 356
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 29,
+      "gas:candidate-vibid:4504001231599": 64,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 39,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 27,
+      "gas:candidate-vibid:4504001231436": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 35,
-      "Блинова Наталья Владимировна": 54,
-      "Красикова Оксана Викторовна": 104,
-      "Мушин Алексей Львович": 58,
-      "Павленок Дмитрий Васильевич": 45,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 67,
-      "Сураев Максим Викторович": 580
+      "gas:candidate-vibid:4504001231709": 35,
+      "gas:candidate-vibid:4504001230992": 54,
+      "gas:candidate-vibid:4504001231599": 104,
+      "gas:candidate-vibid:4504001230891": 58,
+      "gas:candidate-vibid:4504001231192": 45,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 67,
+      "gas:candidate-vibid:4504001231436": 580
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 54,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 50,
-      "Павленок Дмитрий Васильевич": 19,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 31,
-      "Сошин Максим Викторович": 59,
-      "Сураев Максим Викторович": 425
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 54,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 50,
+      "gas:candidate-vibid:4504001231192": 19,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 31,
+      "gas:candidate-vibid:4504001231262": 59,
+      "gas:candidate-vibid:4504001231436": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 47,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 87,
-      "Мушин Алексей Львович": 59,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 68,
-      "Сураев Максим Викторович": 380
+      "gas:candidate-vibid:4504001231709": 47,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 87,
+      "gas:candidate-vibid:4504001230891": 59,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 68,
+      "gas:candidate-vibid:4504001231436": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 70,
-      "Красикова Оксана Викторовна": 96,
-      "Мушин Алексей Львович": 72,
-      "Павленок Дмитрий Васильевич": 43,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 53,
-      "Сошин Максим Викторович": 57,
-      "Сураев Максим Викторович": 585
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 70,
+      "gas:candidate-vibid:4504001231599": 96,
+      "gas:candidate-vibid:4504001230891": 72,
+      "gas:candidate-vibid:4504001231192": 43,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 53,
+      "gas:candidate-vibid:4504001231262": 57,
+      "gas:candidate-vibid:4504001231436": 585
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 52,
-      "Блинова Наталья Владимировна": 47,
-      "Красикова Оксана Викторовна": 83,
-      "Мушин Алексей Львович": 57,
-      "Павленок Дмитрий Васильевич": 34,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 87,
-      "Сураев Максим Викторович": 387
+      "gas:candidate-vibid:4504001231709": 52,
+      "gas:candidate-vibid:4504001230992": 47,
+      "gas:candidate-vibid:4504001231599": 83,
+      "gas:candidate-vibid:4504001230891": 57,
+      "gas:candidate-vibid:4504001231192": 34,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 87,
+      "gas:candidate-vibid:4504001231436": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 30,
-      "Блинова Наталья Владимировна": 46,
-      "Красикова Оксана Викторовна": 84,
-      "Мушин Алексей Львович": 54,
-      "Павленок Дмитрий Васильевич": 36,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 40,
-      "Сураев Максим Викторович": 288
+      "gas:candidate-vibid:4504001231709": 30,
+      "gas:candidate-vibid:4504001230992": 46,
+      "gas:candidate-vibid:4504001231599": 84,
+      "gas:candidate-vibid:4504001230891": 54,
+      "gas:candidate-vibid:4504001231192": 36,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 40,
+      "gas:candidate-vibid:4504001231436": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 37,
-      "Блинова Наталья Владимировна": 45,
-      "Красикова Оксана Викторовна": 69,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 34,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 36,
-      "Сураев Максим Викторович": 295
+      "gas:candidate-vibid:4504001231709": 37,
+      "gas:candidate-vibid:4504001230992": 45,
+      "gas:candidate-vibid:4504001231599": 69,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 34,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 36,
+      "gas:candidate-vibid:4504001231436": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 33,
-      "Блинова Наталья Владимировна": 57,
-      "Красикова Оксана Викторовна": 52,
-      "Мушин Алексей Львович": 59,
-      "Павленок Дмитрий Васильевич": 38,
-      "Пивульский Вячеслав Викторович": 32,
-      "Свергунова Маргарита Николаевна": 38,
-      "Сошин Максим Викторович": 43,
-      "Сураев Максим Викторович": 316
+      "gas:candidate-vibid:4504001231709": 33,
+      "gas:candidate-vibid:4504001230992": 57,
+      "gas:candidate-vibid:4504001231599": 52,
+      "gas:candidate-vibid:4504001230891": 59,
+      "gas:candidate-vibid:4504001231192": 38,
+      "gas:candidate-vibid:4504001231550": 32,
+      "gas:candidate-vibid:4504001231637": 38,
+      "gas:candidate-vibid:4504001231262": 43,
+      "gas:candidate-vibid:4504001231436": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 11,
-      "Блинова Наталья Владимировна": 40,
-      "Красикова Оксана Викторовна": 57,
-      "Мушин Алексей Львович": 30,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 32,
-      "Сураев Максим Викторович": 448
+      "gas:candidate-vibid:4504001231709": 11,
+      "gas:candidate-vibid:4504001230992": 40,
+      "gas:candidate-vibid:4504001231599": 57,
+      "gas:candidate-vibid:4504001230891": 30,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 32,
+      "gas:candidate-vibid:4504001231436": 448
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 62,
-      "Блинова Наталья Владимировна": 66,
-      "Красикова Оксана Викторовна": 90,
-      "Мушин Алексей Львович": 70,
-      "Павленок Дмитрий Васильевич": 46,
-      "Пивульский Вячеслав Викторович": 41,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 73,
-      "Сураев Максим Викторович": 558
+      "gas:candidate-vibid:4504001231709": 62,
+      "gas:candidate-vibid:4504001230992": 66,
+      "gas:candidate-vibid:4504001231599": 90,
+      "gas:candidate-vibid:4504001230891": 70,
+      "gas:candidate-vibid:4504001231192": 46,
+      "gas:candidate-vibid:4504001231550": 41,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 73,
+      "gas:candidate-vibid:4504001231436": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 37,
-      "Блинова Наталья Владимировна": 57,
-      "Красикова Оксана Викторовна": 91,
-      "Мушин Алексей Львович": 48,
-      "Павленок Дмитрий Васильевич": 38,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 32,
-      "Сошин Максим Викторович": 49,
-      "Сураев Максим Викторович": 472
+      "gas:candidate-vibid:4504001231709": 37,
+      "gas:candidate-vibid:4504001230992": 57,
+      "gas:candidate-vibid:4504001231599": 91,
+      "gas:candidate-vibid:4504001230891": 48,
+      "gas:candidate-vibid:4504001231192": 38,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 32,
+      "gas:candidate-vibid:4504001231262": 49,
+      "gas:candidate-vibid:4504001231436": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 60,
-      "Блинова Наталья Владимировна": 59,
-      "Красикова Оксана Викторовна": 100,
-      "Мушин Алексей Львович": 77,
-      "Павленок Дмитрий Васильевич": 56,
-      "Пивульский Вячеслав Викторович": 45,
-      "Свергунова Маргарита Николаевна": 40,
-      "Сошин Максим Викторович": 62,
-      "Сураев Максим Викторович": 492
+      "gas:candidate-vibid:4504001231709": 60,
+      "gas:candidate-vibid:4504001230992": 59,
+      "gas:candidate-vibid:4504001231599": 100,
+      "gas:candidate-vibid:4504001230891": 77,
+      "gas:candidate-vibid:4504001231192": 56,
+      "gas:candidate-vibid:4504001231550": 45,
+      "gas:candidate-vibid:4504001231637": 40,
+      "gas:candidate-vibid:4504001231262": 62,
+      "gas:candidate-vibid:4504001231436": 492
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 31,
-      "Блинова Наталья Владимировна": 49,
-      "Красикова Оксана Викторовна": 77,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 39,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 66,
-      "Сураев Максим Викторович": 352
+      "gas:candidate-vibid:4504001231709": 31,
+      "gas:candidate-vibid:4504001230992": 49,
+      "gas:candidate-vibid:4504001231599": 77,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 39,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 66,
+      "gas:candidate-vibid:4504001231436": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 63,
-      "Красикова Оксана Викторовна": 73,
-      "Мушин Алексей Львович": 70,
-      "Павленок Дмитрий Васильевич": 41,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 700
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 63,
+      "gas:candidate-vibid:4504001231599": 73,
+      "gas:candidate-vibid:4504001230891": 70,
+      "gas:candidate-vibid:4504001231192": 41,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 700
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 63,
-      "Красикова Оксана Викторовна": 86,
-      "Мушин Алексей Львович": 59,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 47,
-      "Сураев Максим Викторович": 508
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 63,
+      "gas:candidate-vibid:4504001231599": 86,
+      "gas:candidate-vibid:4504001230891": 59,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 47,
+      "gas:candidate-vibid:4504001231436": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 34,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 70,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 22,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 46,
-      "Сураев Максим Викторович": 568
+      "gas:candidate-vibid:4504001231709": 34,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 70,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 22,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 46,
+      "gas:candidate-vibid:4504001231436": 568
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 72,
-      "Мушин Алексей Львович": 55,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 42,
-      "Сураев Максим Викторович": 496
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 72,
+      "gas:candidate-vibid:4504001230891": 55,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 42,
+      "gas:candidate-vibid:4504001231436": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 56,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 72,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 41,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 55,
-      "Сураев Максим Викторович": 616
+      "gas:candidate-vibid:4504001231709": 56,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 72,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 41,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 55,
+      "gas:candidate-vibid:4504001231436": 616
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 44,
-      "Красикова Оксана Викторовна": 51,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 22,
-      "Сураев Максим Викторович": 532
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 44,
+      "gas:candidate-vibid:4504001231599": 51,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 22,
+      "gas:candidate-vibid:4504001231436": 532
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 49,
-      "Красикова Оксана Викторовна": 85,
-      "Мушин Алексей Львович": 72,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 49,
-      "Сураев Максим Викторович": 590
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 49,
+      "gas:candidate-vibid:4504001231599": 85,
+      "gas:candidate-vibid:4504001230891": 72,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 49,
+      "gas:candidate-vibid:4504001231436": 590
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 66,
-      "Красикова Оксана Викторовна": 85,
-      "Мушин Алексей Львович": 73,
-      "Павленок Дмитрий Васильевич": 40,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 48,
-      "Сураев Максим Викторович": 428
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 66,
+      "gas:candidate-vibid:4504001231599": 85,
+      "gas:candidate-vibid:4504001230891": 73,
+      "gas:candidate-vibid:4504001231192": 40,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 48,
+      "gas:candidate-vibid:4504001231436": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 41,
-      "Блинова Наталья Владимировна": 61,
-      "Красикова Оксана Викторовна": 87,
-      "Мушин Алексей Львович": 79,
-      "Павленок Дмитрий Васильевич": 37,
-      "Пивульский Вячеслав Викторович": 24,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 51,
-      "Сураев Максим Викторович": 478
+      "gas:candidate-vibid:4504001231709": 41,
+      "gas:candidate-vibid:4504001230992": 61,
+      "gas:candidate-vibid:4504001231599": 87,
+      "gas:candidate-vibid:4504001230891": 79,
+      "gas:candidate-vibid:4504001231192": 37,
+      "gas:candidate-vibid:4504001231550": 24,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 51,
+      "gas:candidate-vibid:4504001231436": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 39,
-      "Красикова Оксана Викторовна": 58,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 13,
-      "Свергунова Маргарита Николаевна": 19,
-      "Сошин Максим Викторович": 34,
-      "Сураев Максим Викторович": 460
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 39,
+      "gas:candidate-vibid:4504001231599": 58,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 13,
+      "gas:candidate-vibid:4504001231637": 19,
+      "gas:candidate-vibid:4504001231262": 34,
+      "gas:candidate-vibid:4504001231436": 460
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 49,
-      "Красикова Оксана Викторовна": 95,
-      "Мушин Алексей Львович": 69,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 13,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 39,
-      "Сураев Максим Викторович": 609
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 49,
+      "gas:candidate-vibid:4504001231599": 95,
+      "gas:candidate-vibid:4504001230891": 69,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 13,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 39,
+      "gas:candidate-vibid:4504001231436": 609
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 37,
-      "Блинова Наталья Владимировна": 38,
-      "Красикова Оксана Викторовна": 65,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 22,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 327
+      "gas:candidate-vibid:4504001231709": 37,
+      "gas:candidate-vibid:4504001230992": 38,
+      "gas:candidate-vibid:4504001231599": 65,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 22,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 29,
-      "Блинова Наталья Владимировна": 40,
-      "Красикова Оксана Викторовна": 95,
-      "Мушин Алексей Львович": 39,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 37,
-      "Сураев Максим Викторович": 353
+      "gas:candidate-vibid:4504001231709": 29,
+      "gas:candidate-vibid:4504001230992": 40,
+      "gas:candidate-vibid:4504001231599": 95,
+      "gas:candidate-vibid:4504001230891": 39,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 37,
+      "gas:candidate-vibid:4504001231436": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 47,
-      "Блинова Наталья Владимировна": 57,
-      "Красикова Оксана Викторовна": 78,
-      "Мушин Алексей Львович": 62,
-      "Павленок Дмитрий Васильевич": 48,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 38,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 437
+      "gas:candidate-vibid:4504001231709": 47,
+      "gas:candidate-vibid:4504001230992": 57,
+      "gas:candidate-vibid:4504001231599": 78,
+      "gas:candidate-vibid:4504001230891": 62,
+      "gas:candidate-vibid:4504001231192": 48,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 38,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 53,
-      "Блинова Наталья Владимировна": 61,
-      "Красикова Оксана Викторовна": 103,
-      "Мушин Алексей Львович": 70,
-      "Павленок Дмитрий Васильевич": 36,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 45,
-      "Сошин Максим Викторович": 67,
-      "Сураев Максим Викторович": 494
+      "gas:candidate-vibid:4504001231709": 53,
+      "gas:candidate-vibid:4504001230992": 61,
+      "gas:candidate-vibid:4504001231599": 103,
+      "gas:candidate-vibid:4504001230891": 70,
+      "gas:candidate-vibid:4504001231192": 36,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 45,
+      "gas:candidate-vibid:4504001231262": 67,
+      "gas:candidate-vibid:4504001231436": 494
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 41,
-      "Блинова Наталья Владимировна": 45,
-      "Красикова Оксана Викторовна": 86,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 37,
-      "Сураев Максим Викторович": 453
+      "gas:candidate-vibid:4504001231709": 41,
+      "gas:candidate-vibid:4504001230992": 45,
+      "gas:candidate-vibid:4504001231599": 86,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 37,
+      "gas:candidate-vibid:4504001231436": 453
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 38,
-      "Блинова Наталья Владимировна": 44,
-      "Красикова Оксана Викторовна": 70,
-      "Мушин Алексей Львович": 69,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 54,
-      "Сураев Максим Викторович": 388
+      "gas:candidate-vibid:4504001231709": 38,
+      "gas:candidate-vibid:4504001230992": 44,
+      "gas:candidate-vibid:4504001231599": 70,
+      "gas:candidate-vibid:4504001230891": 69,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 54,
+      "gas:candidate-vibid:4504001231436": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 70,
-      "Блинова Наталья Владимировна": 100,
-      "Красикова Оксана Викторовна": 114,
-      "Мушин Алексей Львович": 138,
-      "Павленок Дмитрий Васильевич": 47,
-      "Пивульский Вячеслав Викторович": 35,
-      "Свергунова Маргарита Николаевна": 74,
-      "Сошин Максим Викторович": 73,
-      "Сураев Максим Викторович": 558
+      "gas:candidate-vibid:4504001231709": 70,
+      "gas:candidate-vibid:4504001230992": 100,
+      "gas:candidate-vibid:4504001231599": 114,
+      "gas:candidate-vibid:4504001230891": 138,
+      "gas:candidate-vibid:4504001231192": 47,
+      "gas:candidate-vibid:4504001231550": 35,
+      "gas:candidate-vibid:4504001231637": 74,
+      "gas:candidate-vibid:4504001231262": 73,
+      "gas:candidate-vibid:4504001231436": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 33,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 72,
-      "Мушин Алексей Львович": 79,
-      "Павленок Дмитрий Васильевич": 34,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 72,
-      "Сураев Максим Викторович": 609
+      "gas:candidate-vibid:4504001231709": 33,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 72,
+      "gas:candidate-vibid:4504001230891": 79,
+      "gas:candidate-vibid:4504001231192": 34,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 72,
+      "gas:candidate-vibid:4504001231436": 609
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 47,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 63,
-      "Мушин Алексей Львович": 74,
-      "Павленок Дмитрий Васильевич": 57,
-      "Пивульский Вячеслав Викторович": 43,
-      "Свергунова Маргарита Николаевна": 44,
-      "Сошин Максим Викторович": 63,
-      "Сураев Максим Викторович": 484
+      "gas:candidate-vibid:4504001231709": 47,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 63,
+      "gas:candidate-vibid:4504001230891": 74,
+      "gas:candidate-vibid:4504001231192": 57,
+      "gas:candidate-vibid:4504001231550": 43,
+      "gas:candidate-vibid:4504001231637": 44,
+      "gas:candidate-vibid:4504001231262": 63,
+      "gas:candidate-vibid:4504001231436": 484
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 84,
-      "Мушин Алексей Львович": 52,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 46,
-      "Сураев Максим Викторович": 401
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 84,
+      "gas:candidate-vibid:4504001230891": 52,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 46,
+      "gas:candidate-vibid:4504001231436": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 53,
-      "Красикова Оксана Викторовна": 84,
-      "Мушин Алексей Львович": 56,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 63,
-      "Сураев Максим Викторович": 408
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 53,
+      "gas:candidate-vibid:4504001231599": 84,
+      "gas:candidate-vibid:4504001230891": 56,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 63,
+      "gas:candidate-vibid:4504001231436": 408
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 39,
-      "Красикова Оксана Викторовна": 90,
-      "Мушин Алексей Львович": 64,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 36,
-      "Сошин Максим Викторович": 75,
-      "Сураев Максим Викторович": 345
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 39,
+      "gas:candidate-vibid:4504001231599": 90,
+      "gas:candidate-vibid:4504001230891": 64,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 36,
+      "gas:candidate-vibid:4504001231262": 75,
+      "gas:candidate-vibid:4504001231436": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 37,
-      "Блинова Наталья Владимировна": 43,
-      "Красикова Оксана Викторовна": 70,
-      "Мушин Алексей Львович": 58,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 547
+      "gas:candidate-vibid:4504001231709": 37,
+      "gas:candidate-vibid:4504001230992": 43,
+      "gas:candidate-vibid:4504001231599": 70,
+      "gas:candidate-vibid:4504001230891": 58,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 547
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 82,
-      "Красикова Оксана Викторовна": 73,
-      "Мушин Алексей Львович": 109,
-      "Павленок Дмитрий Васильевич": 57,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 32,
-      "Сошин Максим Викторович": 43,
-      "Сураев Максим Викторович": 413
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 82,
+      "gas:candidate-vibid:4504001231599": 73,
+      "gas:candidate-vibid:4504001230891": 109,
+      "gas:candidate-vibid:4504001231192": 57,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 32,
+      "gas:candidate-vibid:4504001231262": 43,
+      "gas:candidate-vibid:4504001231436": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 53,
-      "Блинова Наталья Владимировна": 79,
-      "Красикова Оксана Викторовна": 129,
-      "Мушин Алексей Львович": 139,
-      "Павленок Дмитрий Васильевич": 53,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 55,
-      "Сураев Максим Викторович": 897
+      "gas:candidate-vibid:4504001231709": 53,
+      "gas:candidate-vibid:4504001230992": 79,
+      "gas:candidate-vibid:4504001231599": 129,
+      "gas:candidate-vibid:4504001230891": 139,
+      "gas:candidate-vibid:4504001231192": 53,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 55,
+      "gas:candidate-vibid:4504001231436": 897
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 118,
-      "Блинова Наталья Владимировна": 154,
-      "Красикова Оксана Викторовна": 177,
-      "Мушин Алексей Львович": 274,
-      "Павленок Дмитрий Васильевич": 126,
-      "Пивульский Вячеслав Викторович": 69,
-      "Свергунова Маргарита Николаевна": 77,
-      "Сошин Максим Викторович": 132,
-      "Сураев Максим Викторович": 990
+      "gas:candidate-vibid:4504001231709": 118,
+      "gas:candidate-vibid:4504001230992": 154,
+      "gas:candidate-vibid:4504001231599": 177,
+      "gas:candidate-vibid:4504001230891": 274,
+      "gas:candidate-vibid:4504001231192": 126,
+      "gas:candidate-vibid:4504001231550": 69,
+      "gas:candidate-vibid:4504001231637": 77,
+      "gas:candidate-vibid:4504001231262": 132,
+      "gas:candidate-vibid:4504001231436": 990
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 48,
-      "Блинова Наталья Владимировна": 49,
-      "Красикова Оксана Викторовна": 71,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 47,
-      "Пивульский Вячеслав Викторович": 42,
-      "Свергунова Маргарита Николаевна": 18,
-      "Сошин Максим Викторович": 38,
-      "Сураев Максим Викторович": 616
+      "gas:candidate-vibid:4504001231709": 48,
+      "gas:candidate-vibid:4504001230992": 49,
+      "gas:candidate-vibid:4504001231599": 71,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 47,
+      "gas:candidate-vibid:4504001231550": 42,
+      "gas:candidate-vibid:4504001231637": 18,
+      "gas:candidate-vibid:4504001231262": 38,
+      "gas:candidate-vibid:4504001231436": 616
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 18,
-      "Красикова Оксана Викторовна": 51,
-      "Мушин Алексей Львович": 54,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 12,
-      "Сошин Максим Викторович": 24,
-      "Сураев Максим Викторович": 491
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 18,
+      "gas:candidate-vibid:4504001231599": 51,
+      "gas:candidate-vibid:4504001230891": 54,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 12,
+      "gas:candidate-vibid:4504001231262": 24,
+      "gas:candidate-vibid:4504001231436": 491
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 43,
-      "Красикова Оксана Викторовна": 50,
-      "Мушин Алексей Львович": 40,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 9,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 22,
-      "Сураев Максим Викторович": 343
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 43,
+      "gas:candidate-vibid:4504001231599": 50,
+      "gas:candidate-vibid:4504001230891": 40,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 9,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 22,
+      "gas:candidate-vibid:4504001231436": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 189,
-      "Блинова Наталья Владимировна": 172,
-      "Красикова Оксана Викторовна": 232,
-      "Мушин Алексей Львович": 276,
-      "Павленок Дмитрий Васильевич": 126,
-      "Пивульский Вячеслав Викторович": 55,
-      "Свергунова Маргарита Николаевна": 63,
-      "Сошин Максим Викторович": 81,
-      "Сураев Максим Викторович": 628
+      "gas:candidate-vibid:4504001231709": 189,
+      "gas:candidate-vibid:4504001230992": 172,
+      "gas:candidate-vibid:4504001231599": 232,
+      "gas:candidate-vibid:4504001230891": 276,
+      "gas:candidate-vibid:4504001231192": 126,
+      "gas:candidate-vibid:4504001231550": 55,
+      "gas:candidate-vibid:4504001231637": 63,
+      "gas:candidate-vibid:4504001231262": 81,
+      "gas:candidate-vibid:4504001231436": 628
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 80,
-      "Блинова Наталья Владимировна": 82,
-      "Красикова Оксана Викторовна": 138,
-      "Мушин Алексей Львович": 144,
-      "Павленок Дмитрий Васильевич": 55,
-      "Пивульский Вячеслав Викторович": 43,
-      "Свергунова Маргарита Николаевна": 50,
-      "Сошин Максим Викторович": 60,
-      "Сураев Максим Викторович": 822
+      "gas:candidate-vibid:4504001231709": 80,
+      "gas:candidate-vibid:4504001230992": 82,
+      "gas:candidate-vibid:4504001231599": 138,
+      "gas:candidate-vibid:4504001230891": 144,
+      "gas:candidate-vibid:4504001231192": 55,
+      "gas:candidate-vibid:4504001231550": 43,
+      "gas:candidate-vibid:4504001231637": 50,
+      "gas:candidate-vibid:4504001231262": 60,
+      "gas:candidate-vibid:4504001231436": 822
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 48,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 108,
-      "Мушин Алексей Львович": 91,
-      "Павленок Дмитрий Васильевич": 41,
-      "Пивульский Вячеслав Викторович": 22,
-      "Свергунова Маргарита Николаевна": 37,
-      "Сошин Максим Викторович": 45,
-      "Сураев Максим Викторович": 719
+      "gas:candidate-vibid:4504001231709": 48,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 108,
+      "gas:candidate-vibid:4504001230891": 91,
+      "gas:candidate-vibid:4504001231192": 41,
+      "gas:candidate-vibid:4504001231550": 22,
+      "gas:candidate-vibid:4504001231637": 37,
+      "gas:candidate-vibid:4504001231262": 45,
+      "gas:candidate-vibid:4504001231436": 719
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 59,
-      "Блинова Наталья Владимировна": 96,
-      "Красикова Оксана Викторовна": 158,
-      "Мушин Алексей Львович": 112,
-      "Павленок Дмитрий Васильевич": 57,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 45,
-      "Сошин Максим Викторович": 71,
-      "Сураев Максим Викторович": 773
+      "gas:candidate-vibid:4504001231709": 59,
+      "gas:candidate-vibid:4504001230992": 96,
+      "gas:candidate-vibid:4504001231599": 158,
+      "gas:candidate-vibid:4504001230891": 112,
+      "gas:candidate-vibid:4504001231192": 57,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 45,
+      "gas:candidate-vibid:4504001231262": 71,
+      "gas:candidate-vibid:4504001231436": 773
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 101,
-      "Блинова Наталья Владимировна": 121,
-      "Красикова Оксана Викторовна": 148,
-      "Мушин Алексей Львович": 197,
-      "Павленок Дмитрий Васильевич": 75,
-      "Пивульский Вячеслав Викторович": 48,
-      "Свергунова Маргарита Николаевна": 45,
-      "Сошин Максим Викторович": 69,
-      "Сураев Максим Викторович": 1079
+      "gas:candidate-vibid:4504001231709": 101,
+      "gas:candidate-vibid:4504001230992": 121,
+      "gas:candidate-vibid:4504001231599": 148,
+      "gas:candidate-vibid:4504001230891": 197,
+      "gas:candidate-vibid:4504001231192": 75,
+      "gas:candidate-vibid:4504001231550": 48,
+      "gas:candidate-vibid:4504001231637": 45,
+      "gas:candidate-vibid:4504001231262": 69,
+      "gas:candidate-vibid:4504001231436": 1079
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 89,
-      "Блинова Наталья Владимировна": 92,
-      "Красикова Оксана Викторовна": 129,
-      "Мушин Алексей Львович": 175,
-      "Павленок Дмитрий Васильевич": 82,
-      "Пивульский Вячеслав Викторович": 41,
-      "Свергунова Маргарита Николаевна": 48,
-      "Сошин Максим Викторович": 68,
-      "Сураев Максим Викторович": 838
+      "gas:candidate-vibid:4504001231709": 89,
+      "gas:candidate-vibid:4504001230992": 92,
+      "gas:candidate-vibid:4504001231599": 129,
+      "gas:candidate-vibid:4504001230891": 175,
+      "gas:candidate-vibid:4504001231192": 82,
+      "gas:candidate-vibid:4504001231550": 41,
+      "gas:candidate-vibid:4504001231637": 48,
+      "gas:candidate-vibid:4504001231262": 68,
+      "gas:candidate-vibid:4504001231436": 838
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 25,
-      "Блинова Наталья Владимировна": 45,
-      "Красикова Оксана Викторовна": 64,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 26,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 28,
-      "Сураев Максим Викторович": 502
+      "gas:candidate-vibid:4504001231709": 25,
+      "gas:candidate-vibid:4504001230992": 45,
+      "gas:candidate-vibid:4504001231599": 64,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 26,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 28,
+      "gas:candidate-vibid:4504001231436": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 5,
-      "Блинова Наталья Владимировна": 16,
-      "Красикова Оксана Викторовна": 14,
-      "Мушин Алексей Львович": 17,
-      "Павленок Дмитрий Васильевич": 4,
-      "Пивульский Вячеслав Викторович": 9,
-      "Свергунова Маргарита Николаевна": 2,
-      "Сошин Максим Викторович": 13,
-      "Сураев Максим Викторович": 146
+      "gas:candidate-vibid:4504001231709": 5,
+      "gas:candidate-vibid:4504001230992": 16,
+      "gas:candidate-vibid:4504001231599": 14,
+      "gas:candidate-vibid:4504001230891": 17,
+      "gas:candidate-vibid:4504001231192": 4,
+      "gas:candidate-vibid:4504001231550": 9,
+      "gas:candidate-vibid:4504001231637": 2,
+      "gas:candidate-vibid:4504001231262": 13,
+      "gas:candidate-vibid:4504001231436": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 43,
-      "Блинова Наталья Владимировна": 37,
-      "Красикова Оксана Викторовна": 38,
-      "Мушин Алексей Львович": 72,
-      "Павленок Дмитрий Васильевич": 30,
-      "Пивульский Вячеслав Викторович": 34,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 37,
-      "Сураев Максим Викторович": 1133
+      "gas:candidate-vibid:4504001231709": 43,
+      "gas:candidate-vibid:4504001230992": 37,
+      "gas:candidate-vibid:4504001231599": 38,
+      "gas:candidate-vibid:4504001230891": 72,
+      "gas:candidate-vibid:4504001231192": 30,
+      "gas:candidate-vibid:4504001231550": 34,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 37,
+      "gas:candidate-vibid:4504001231436": 1133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 35,
-      "Блинова Наталья Владимировна": 61,
-      "Красикова Оксана Викторовна": 128,
-      "Мушин Алексей Львович": 114,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 613
+      "gas:candidate-vibid:4504001231709": 35,
+      "gas:candidate-vibid:4504001230992": 61,
+      "gas:candidate-vibid:4504001231599": 128,
+      "gas:candidate-vibid:4504001230891": 114,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 613
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 31,
-      "Блинова Наталья Владимировна": 58,
-      "Красикова Оксана Викторовна": 114,
-      "Мушин Алексей Львович": 68,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 38,
-      "Сураев Максим Викторович": 649
+      "gas:candidate-vibid:4504001231709": 31,
+      "gas:candidate-vibid:4504001230992": 58,
+      "gas:candidate-vibid:4504001231599": 114,
+      "gas:candidate-vibid:4504001230891": 68,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 38,
+      "gas:candidate-vibid:4504001231436": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 21,
-      "Блинова Наталья Владимировна": 78,
-      "Красикова Оксана Викторовна": 150,
-      "Мушин Алексей Львович": 86,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 37,
-      "Сошин Максим Викторович": 46,
-      "Сураев Максим Викторович": 385
+      "gas:candidate-vibid:4504001231709": 21,
+      "gas:candidate-vibid:4504001230992": 78,
+      "gas:candidate-vibid:4504001231599": 150,
+      "gas:candidate-vibid:4504001230891": 86,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 37,
+      "gas:candidate-vibid:4504001231262": 46,
+      "gas:candidate-vibid:4504001231436": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 47,
-      "Блинова Наталья Владимировна": 80,
-      "Красикова Оксана Викторовна": 127,
-      "Мушин Алексей Львович": 100,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 36,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 53,
-      "Сураев Максим Викторович": 917
+      "gas:candidate-vibid:4504001231709": 47,
+      "gas:candidate-vibid:4504001230992": 80,
+      "gas:candidate-vibid:4504001231599": 127,
+      "gas:candidate-vibid:4504001230891": 100,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 36,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 53,
+      "gas:candidate-vibid:4504001231436": 917
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 9,
-      "Красикова Оксана Викторовна": 12,
-      "Мушин Алексей Львович": 15,
-      "Павленок Дмитрий Васильевич": 4,
-      "Пивульский Вячеслав Викторович": 5,
-      "Свергунова Маргарита Николаевна": 4,
-      "Сошин Максим Викторович": 10,
-      "Сураев Максим Викторович": 120
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 9,
+      "gas:candidate-vibid:4504001231599": 12,
+      "gas:candidate-vibid:4504001230891": 15,
+      "gas:candidate-vibid:4504001231192": 4,
+      "gas:candidate-vibid:4504001231550": 5,
+      "gas:candidate-vibid:4504001231637": 4,
+      "gas:candidate-vibid:4504001231262": 10,
+      "gas:candidate-vibid:4504001231436": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 32,
-      "Блинова Наталья Владимировна": 59,
-      "Красикова Оксана Викторовна": 144,
-      "Мушин Алексей Львович": 71,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 28,
-      "Свергунова Маргарита Николаевна": 43,
-      "Сошин Максим Викторович": 49,
-      "Сураев Максим Викторович": 1014
+      "gas:candidate-vibid:4504001231709": 32,
+      "gas:candidate-vibid:4504001230992": 59,
+      "gas:candidate-vibid:4504001231599": 144,
+      "gas:candidate-vibid:4504001230891": 71,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 28,
+      "gas:candidate-vibid:4504001231637": 43,
+      "gas:candidate-vibid:4504001231262": 49,
+      "gas:candidate-vibid:4504001231436": 1014
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 31,
-      "Блинова Наталья Владимировна": 49,
-      "Красикова Оксана Викторовна": 69,
-      "Мушин Алексей Львович": 53,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 27,
-      "Сураев Максим Викторович": 636
+      "gas:candidate-vibid:4504001231709": 31,
+      "gas:candidate-vibid:4504001230992": 49,
+      "gas:candidate-vibid:4504001231599": 69,
+      "gas:candidate-vibid:4504001230891": 53,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 27,
+      "gas:candidate-vibid:4504001231436": 636
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 45,
-      "Блинова Наталья Владимировна": 52,
-      "Красикова Оксана Викторовна": 84,
-      "Мушин Алексей Львович": 82,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 30,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 65,
-      "Сураев Максим Викторович": 902
+      "gas:candidate-vibid:4504001231709": 45,
+      "gas:candidate-vibid:4504001230992": 52,
+      "gas:candidate-vibid:4504001231599": 84,
+      "gas:candidate-vibid:4504001230891": 82,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 30,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 65,
+      "gas:candidate-vibid:4504001231436": 902
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 53,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 84,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 30,
-      "Свергунова Маргарита Николаевна": 35,
-      "Сошин Максим Викторович": 38,
-      "Сураев Максим Викторович": 737
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 53,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 84,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 30,
+      "gas:candidate-vibid:4504001231637": 35,
+      "gas:candidate-vibid:4504001231262": 38,
+      "gas:candidate-vibid:4504001231436": 737
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 24,
-      "Блинова Наталья Владимировна": 27,
-      "Красикова Оксана Викторовна": 45,
-      "Мушин Алексей Львович": 46,
-      "Павленок Дмитрий Васильевич": 17,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 40,
-      "Сураев Максим Викторович": 508
+      "gas:candidate-vibid:4504001231709": 24,
+      "gas:candidate-vibid:4504001230992": 27,
+      "gas:candidate-vibid:4504001231599": 45,
+      "gas:candidate-vibid:4504001230891": 46,
+      "gas:candidate-vibid:4504001231192": 17,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 40,
+      "gas:candidate-vibid:4504001231436": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 25,
-      "Мушин Алексей Львович": 33,
-      "Павленок Дмитрий Васильевич": 9,
-      "Пивульский Вячеслав Викторович": 13,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 17,
-      "Сураев Максим Викторович": 143
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 25,
+      "gas:candidate-vibid:4504001230891": 33,
+      "gas:candidate-vibid:4504001231192": 9,
+      "gas:candidate-vibid:4504001231550": 13,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 17,
+      "gas:candidate-vibid:4504001231436": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 40,
-      "Блинова Наталья Владимировна": 65,
-      "Красикова Оксана Викторовна": 133,
-      "Мушин Алексей Львович": 130,
-      "Павленок Дмитрий Васильевич": 26,
-      "Пивульский Вячеслав Викторович": 36,
-      "Свергунова Маргарита Николаевна": 48,
-      "Сошин Максим Викторович": 48,
-      "Сураев Максим Викторович": 549
+      "gas:candidate-vibid:4504001231709": 40,
+      "gas:candidate-vibid:4504001230992": 65,
+      "gas:candidate-vibid:4504001231599": 133,
+      "gas:candidate-vibid:4504001230891": 130,
+      "gas:candidate-vibid:4504001231192": 26,
+      "gas:candidate-vibid:4504001231550": 36,
+      "gas:candidate-vibid:4504001231637": 48,
+      "gas:candidate-vibid:4504001231262": 48,
+      "gas:candidate-vibid:4504001231436": 549
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 45,
-      "Блинова Наталья Владимировна": 38,
-      "Красикова Оксана Викторовна": 78,
-      "Мушин Алексей Львович": 73,
-      "Павленок Дмитрий Васильевич": 50,
-      "Пивульский Вячеслав Викторович": 36,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 35,
-      "Сураев Максим Викторович": 315
+      "gas:candidate-vibid:4504001231709": 45,
+      "gas:candidate-vibid:4504001230992": 38,
+      "gas:candidate-vibid:4504001231599": 78,
+      "gas:candidate-vibid:4504001230891": 73,
+      "gas:candidate-vibid:4504001231192": 50,
+      "gas:candidate-vibid:4504001231550": 36,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 35,
+      "gas:candidate-vibid:4504001231436": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 46,
-      "Блинова Наталья Владимировна": 78,
-      "Красикова Оксана Викторовна": 102,
-      "Мушин Алексей Львович": 143,
-      "Павленок Дмитрий Васильевич": 70,
-      "Пивульский Вячеслав Викторович": 39,
-      "Свергунова Маргарита Николаевна": 62,
-      "Сошин Максим Викторович": 57,
-      "Сураев Максим Викторович": 987
+      "gas:candidate-vibid:4504001231709": 46,
+      "gas:candidate-vibid:4504001230992": 78,
+      "gas:candidate-vibid:4504001231599": 102,
+      "gas:candidate-vibid:4504001230891": 143,
+      "gas:candidate-vibid:4504001231192": 70,
+      "gas:candidate-vibid:4504001231550": 39,
+      "gas:candidate-vibid:4504001231637": 62,
+      "gas:candidate-vibid:4504001231262": 57,
+      "gas:candidate-vibid:4504001231436": 987
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 37,
-      "Блинова Наталья Владимировна": 46,
-      "Красикова Оксана Викторовна": 48,
-      "Мушин Алексей Львович": 48,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 16,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 537
+      "gas:candidate-vibid:4504001231709": 37,
+      "gas:candidate-vibid:4504001230992": 46,
+      "gas:candidate-vibid:4504001231599": 48,
+      "gas:candidate-vibid:4504001230891": 48,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 16,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 537
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 46,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 156,
-      "Мушин Алексей Львович": 72,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 30,
-      "Свергунова Маргарита Николаевна": 62,
-      "Сошин Максим Викторович": 58,
-      "Сураев Максим Викторович": 606
+      "gas:candidate-vibid:4504001231709": 46,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 156,
+      "gas:candidate-vibid:4504001230891": 72,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 30,
+      "gas:candidate-vibid:4504001231637": 62,
+      "gas:candidate-vibid:4504001231262": 58,
+      "gas:candidate-vibid:4504001231436": 606
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 30,
-      "Блинова Наталья Владимировна": 27,
-      "Красикова Оксана Викторовна": 62,
-      "Мушин Алексей Львович": 52,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 380
+      "gas:candidate-vibid:4504001231709": 30,
+      "gas:candidate-vibid:4504001230992": 27,
+      "gas:candidate-vibid:4504001231599": 62,
+      "gas:candidate-vibid:4504001230891": 52,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 31,
-      "Красикова Оксана Викторовна": 32,
-      "Мушин Алексей Львович": 35,
-      "Павленок Дмитрий Васильевич": 22,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 357
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 31,
+      "gas:candidate-vibid:4504001231599": 32,
+      "gas:candidate-vibid:4504001230891": 35,
+      "gas:candidate-vibid:4504001231192": 22,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 33,
-      "Блинова Наталья Владимировна": 62,
-      "Красикова Оксана Викторовна": 105,
-      "Мушин Алексей Львович": 95,
-      "Павленок Дмитрий Васильевич": 23,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 42,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 387
+      "gas:candidate-vibid:4504001231709": 33,
+      "gas:candidate-vibid:4504001230992": 62,
+      "gas:candidate-vibid:4504001231599": 105,
+      "gas:candidate-vibid:4504001230891": 95,
+      "gas:candidate-vibid:4504001231192": 23,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 42,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 46,
-      "Блинова Наталья Владимировна": 78,
-      "Красикова Оксана Викторовна": 133,
-      "Мушин Алексей Львович": 104,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 45,
-      "Сошин Максим Викторович": 91,
-      "Сураев Максим Викторович": 436
+      "gas:candidate-vibid:4504001231709": 46,
+      "gas:candidate-vibid:4504001230992": 78,
+      "gas:candidate-vibid:4504001231599": 133,
+      "gas:candidate-vibid:4504001230891": 104,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 45,
+      "gas:candidate-vibid:4504001231262": 91,
+      "gas:candidate-vibid:4504001231436": 436
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 37,
-      "Блинова Наталья Владимировна": 62,
-      "Красикова Оксана Викторовна": 117,
-      "Мушин Алексей Львович": 82,
-      "Павленок Дмитрий Васильевич": 22,
-      "Пивульский Вячеслав Викторович": 17,
-      "Свергунова Маргарита Николаевна": 39,
-      "Сошин Максим Викторович": 49,
-      "Сураев Максим Викторович": 435
+      "gas:candidate-vibid:4504001231709": 37,
+      "gas:candidate-vibid:4504001230992": 62,
+      "gas:candidate-vibid:4504001231599": 117,
+      "gas:candidate-vibid:4504001230891": 82,
+      "gas:candidate-vibid:4504001231192": 22,
+      "gas:candidate-vibid:4504001231550": 17,
+      "gas:candidate-vibid:4504001231637": 39,
+      "gas:candidate-vibid:4504001231262": 49,
+      "gas:candidate-vibid:4504001231436": 435
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 32,
-      "Блинова Наталья Владимировна": 49,
-      "Красикова Оксана Викторовна": 62,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 40,
-      "Сураев Максим Викторович": 395
+      "gas:candidate-vibid:4504001231709": 32,
+      "gas:candidate-vibid:4504001230992": 49,
+      "gas:candidate-vibid:4504001231599": 62,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 40,
+      "gas:candidate-vibid:4504001231436": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 29,
-      "Красикова Оксана Викторовна": 32,
-      "Мушин Алексей Львович": 43,
-      "Павленок Дмитрий Васильевич": 26,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 29,
-      "Сураев Максим Викторович": 384
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 29,
+      "gas:candidate-vibid:4504001231599": 32,
+      "gas:candidate-vibid:4504001230891": 43,
+      "gas:candidate-vibid:4504001231192": 26,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 29,
+      "gas:candidate-vibid:4504001231436": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 42,
-      "Блинова Наталья Владимировна": 50,
-      "Красикова Оксана Викторовна": 53,
-      "Мушин Алексей Львович": 68,
-      "Павленок Дмитрий Васильевич": 35,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 38,
-      "Сураев Максим Викторович": 511
+      "gas:candidate-vibid:4504001231709": 42,
+      "gas:candidate-vibid:4504001230992": 50,
+      "gas:candidate-vibid:4504001231599": 53,
+      "gas:candidate-vibid:4504001230891": 68,
+      "gas:candidate-vibid:4504001231192": 35,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 38,
+      "gas:candidate-vibid:4504001231436": 511
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 21,
-      "Красикова Оксана Викторовна": 31,
-      "Мушин Алексей Львович": 21,
-      "Павленок Дмитрий Васильевич": 16,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 14,
-      "Сошин Максим Викторович": 9,
-      "Сураев Максим Викторович": 55
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 21,
+      "gas:candidate-vibid:4504001231599": 31,
+      "gas:candidate-vibid:4504001230891": 21,
+      "gas:candidate-vibid:4504001231192": 16,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 14,
+      "gas:candidate-vibid:4504001231262": 9,
+      "gas:candidate-vibid:4504001231436": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 82,
-      "Блинова Наталья Владимировна": 52,
-      "Красикова Оксана Викторовна": 100,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 24,
-      "Сошин Максим Викторович": 49,
-      "Сураев Максим Викторович": 268
+      "gas:candidate-vibid:4504001231709": 82,
+      "gas:candidate-vibid:4504001230992": 52,
+      "gas:candidate-vibid:4504001231599": 100,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 24,
+      "gas:candidate-vibid:4504001231262": 49,
+      "gas:candidate-vibid:4504001231436": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 58,
-      "Блинова Наталья Владимировна": 56,
-      "Красикова Оксана Викторовна": 73,
-      "Мушин Алексей Львович": 66,
-      "Павленок Дмитрий Васильевич": 34,
-      "Пивульский Вячеслав Викторович": 8,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 33,
-      "Сураев Максим Викторович": 214
+      "gas:candidate-vibid:4504001231709": 58,
+      "gas:candidate-vibid:4504001230992": 56,
+      "gas:candidate-vibid:4504001231599": 73,
+      "gas:candidate-vibid:4504001230891": 66,
+      "gas:candidate-vibid:4504001231192": 34,
+      "gas:candidate-vibid:4504001231550": 8,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 33,
+      "gas:candidate-vibid:4504001231436": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 50,
-      "Блинова Наталья Владимировна": 68,
-      "Красикова Оксана Викторовна": 61,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 33,
-      "Сошин Максим Викторович": 49,
-      "Сураев Максим Викторович": 229
+      "gas:candidate-vibid:4504001231709": 50,
+      "gas:candidate-vibid:4504001230992": 68,
+      "gas:candidate-vibid:4504001231599": 61,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 33,
+      "gas:candidate-vibid:4504001231262": 49,
+      "gas:candidate-vibid:4504001231436": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 49,
-      "Блинова Наталья Владимировна": 53,
-      "Красикова Оксана Викторовна": 47,
-      "Мушин Алексей Львович": 58,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 17,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 34,
-      "Сураев Максим Викторович": 180
+      "gas:candidate-vibid:4504001231709": 49,
+      "gas:candidate-vibid:4504001230992": 53,
+      "gas:candidate-vibid:4504001231599": 47,
+      "gas:candidate-vibid:4504001230891": 58,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 17,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 34,
+      "gas:candidate-vibid:4504001231436": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 42,
-      "Блинова Наталья Владимировна": 54,
-      "Красикова Оксана Викторовна": 64,
-      "Мушин Алексей Львович": 74,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 28,
-      "Сураев Максим Викторович": 201
+      "gas:candidate-vibid:4504001231709": 42,
+      "gas:candidate-vibid:4504001230992": 54,
+      "gas:candidate-vibid:4504001231599": 64,
+      "gas:candidate-vibid:4504001230891": 74,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 28,
+      "gas:candidate-vibid:4504001231436": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 48,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 63,
-      "Мушин Алексей Львович": 76,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 28,
-      "Сураев Максим Викторович": 468
+      "gas:candidate-vibid:4504001231709": 48,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 63,
+      "gas:candidate-vibid:4504001230891": 76,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 28,
+      "gas:candidate-vibid:4504001231436": 468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 58,
-      "Красикова Оксана Викторовна": 74,
-      "Мушин Алексей Львович": 53,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 7,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 61,
-      "Сураев Максим Викторович": 451
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 58,
+      "gas:candidate-vibid:4504001231599": 74,
+      "gas:candidate-vibid:4504001230891": 53,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 7,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 61,
+      "gas:candidate-vibid:4504001231436": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 49,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 71,
-      "Мушин Алексей Львович": 74,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 70,
-      "Сураев Максим Викторович": 508
+      "gas:candidate-vibid:4504001231709": 49,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 71,
+      "gas:candidate-vibid:4504001230891": 74,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 70,
+      "gas:candidate-vibid:4504001231436": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 52,
-      "Блинова Наталья Владимировна": 61,
-      "Красикова Оксана Викторовна": 77,
-      "Мушин Алексей Львович": 87,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 41,
-      "Сошин Максим Викторович": 71,
-      "Сураев Максим Викторович": 282
+      "gas:candidate-vibid:4504001231709": 52,
+      "gas:candidate-vibid:4504001230992": 61,
+      "gas:candidate-vibid:4504001231599": 77,
+      "gas:candidate-vibid:4504001230891": 87,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 41,
+      "gas:candidate-vibid:4504001231262": 71,
+      "gas:candidate-vibid:4504001231436": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 44,
-      "Блинова Наталья Владимировна": 43,
-      "Красикова Оксана Викторовна": 79,
-      "Мушин Алексей Львович": 61,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 17,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 82,
-      "Сураев Максим Викторович": 290
+      "gas:candidate-vibid:4504001231709": 44,
+      "gas:candidate-vibid:4504001230992": 43,
+      "gas:candidate-vibid:4504001231599": 79,
+      "gas:candidate-vibid:4504001230891": 61,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 17,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 82,
+      "gas:candidate-vibid:4504001231436": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 53,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 70,
-      "Мушин Алексей Львович": 42,
-      "Павленок Дмитрий Васильевич": 17,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 18,
-      "Сошин Максим Викторович": 68,
-      "Сураев Максим Викторович": 318
+      "gas:candidate-vibid:4504001231709": 53,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 70,
+      "gas:candidate-vibid:4504001230891": 42,
+      "gas:candidate-vibid:4504001231192": 17,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 18,
+      "gas:candidate-vibid:4504001231262": 68,
+      "gas:candidate-vibid:4504001231436": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 48,
-      "Красикова Оксана Викторовна": 55,
-      "Мушин Алексей Львович": 45,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 21,
-      "Сошин Максим Викторович": 34,
-      "Сураев Максим Викторович": 370
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 48,
+      "gas:candidate-vibid:4504001231599": 55,
+      "gas:candidate-vibid:4504001230891": 45,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 21,
+      "gas:candidate-vibid:4504001231262": 34,
+      "gas:candidate-vibid:4504001231436": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 37,
-      "Красикова Оксана Викторовна": 57,
-      "Мушин Алексей Львович": 59,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 12,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 41,
-      "Сураев Максим Викторович": 407
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 37,
+      "gas:candidate-vibid:4504001231599": 57,
+      "gas:candidate-vibid:4504001230891": 59,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 12,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 41,
+      "gas:candidate-vibid:4504001231436": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 30,
-      "Красикова Оксана Викторовна": 40,
-      "Мушин Алексей Львович": 57,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 14,
-      "Сошин Максим Викторович": 29,
-      "Сураев Максим Викторович": 302
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 30,
+      "gas:candidate-vibid:4504001231599": 40,
+      "gas:candidate-vibid:4504001230891": 57,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 14,
+      "gas:candidate-vibid:4504001231262": 29,
+      "gas:candidate-vibid:4504001231436": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 18,
-      "Блинова Наталья Владимировна": 41,
-      "Красикова Оксана Викторовна": 38,
-      "Мушин Алексей Львович": 35,
-      "Павленок Дмитрий Васильевич": 16,
-      "Пивульский Вячеслав Викторович": 8,
-      "Свергунова Маргарита Николаевна": 18,
-      "Сошин Максим Викторович": 32,
-      "Сураев Максим Викторович": 406
+      "gas:candidate-vibid:4504001231709": 18,
+      "gas:candidate-vibid:4504001230992": 41,
+      "gas:candidate-vibid:4504001231599": 38,
+      "gas:candidate-vibid:4504001230891": 35,
+      "gas:candidate-vibid:4504001231192": 16,
+      "gas:candidate-vibid:4504001231550": 8,
+      "gas:candidate-vibid:4504001231637": 18,
+      "gas:candidate-vibid:4504001231262": 32,
+      "gas:candidate-vibid:4504001231436": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 59,
-      "Мушин Алексей Львович": 38,
-      "Павленок Дмитрий Васильевич": 15,
-      "Пивульский Вячеслав Викторович": 12,
-      "Свергунова Маргарита Николаевна": 11,
-      "Сошин Максим Викторович": 35,
-      "Сураев Максим Викторович": 405
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 59,
+      "gas:candidate-vibid:4504001230891": 38,
+      "gas:candidate-vibid:4504001231192": 15,
+      "gas:candidate-vibid:4504001231550": 12,
+      "gas:candidate-vibid:4504001231637": 11,
+      "gas:candidate-vibid:4504001231262": 35,
+      "gas:candidate-vibid:4504001231436": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 76,
-      "Блинова Наталья Владимировна": 91,
-      "Красикова Оксана Викторовна": 146,
-      "Мушин Алексей Львович": 136,
-      "Павленок Дмитрий Васильевич": 71,
-      "Пивульский Вячеслав Викторович": 57,
-      "Свергунова Маргарита Николаевна": 64,
-      "Сошин Максим Викторович": 94,
-      "Сураев Максим Викторович": 490
+      "gas:candidate-vibid:4504001231709": 76,
+      "gas:candidate-vibid:4504001230992": 91,
+      "gas:candidate-vibid:4504001231599": 146,
+      "gas:candidate-vibid:4504001230891": 136,
+      "gas:candidate-vibid:4504001231192": 71,
+      "gas:candidate-vibid:4504001231550": 57,
+      "gas:candidate-vibid:4504001231637": 64,
+      "gas:candidate-vibid:4504001231262": 94,
+      "gas:candidate-vibid:4504001231436": 490
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 57,
-      "Блинова Наталья Владимировна": 39,
-      "Красикова Оксана Викторовна": 58,
-      "Мушин Алексей Львович": 68,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 40,
-      "Свергунова Маргарита Николаевна": 39,
-      "Сошин Максим Викторович": 46,
-      "Сураев Максим Викторович": 434
+      "gas:candidate-vibid:4504001231709": 57,
+      "gas:candidate-vibid:4504001230992": 39,
+      "gas:candidate-vibid:4504001231599": 58,
+      "gas:candidate-vibid:4504001230891": 68,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 40,
+      "gas:candidate-vibid:4504001231637": 39,
+      "gas:candidate-vibid:4504001231262": 46,
+      "gas:candidate-vibid:4504001231436": 434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 26,
-      "Блинова Наталья Владимировна": 47,
-      "Красикова Оксана Викторовна": 73,
-      "Мушин Алексей Львович": 66,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 15,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 32,
-      "Сураев Максим Викторович": 404
+      "gas:candidate-vibid:4504001231709": 26,
+      "gas:candidate-vibid:4504001230992": 47,
+      "gas:candidate-vibid:4504001231599": 73,
+      "gas:candidate-vibid:4504001230891": 66,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 15,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 32,
+      "gas:candidate-vibid:4504001231436": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 42,
-      "Блинова Наталья Владимировна": 31,
-      "Красикова Оксана Викторовна": 67,
-      "Мушин Алексей Львович": 68,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 31,
-      "Сураев Максим Викторович": 219
+      "gas:candidate-vibid:4504001231709": 42,
+      "gas:candidate-vibid:4504001230992": 31,
+      "gas:candidate-vibid:4504001231599": 67,
+      "gas:candidate-vibid:4504001230891": 68,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 31,
+      "gas:candidate-vibid:4504001231436": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 48,
-      "Красикова Оксана Викторовна": 67,
-      "Мушин Алексей Львович": 81,
-      "Павленок Дмитрий Васильевич": 46,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 35,
-      "Сошин Максим Викторович": 47,
-      "Сураев Максим Викторович": 417
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 48,
+      "gas:candidate-vibid:4504001231599": 67,
+      "gas:candidate-vibid:4504001230891": 81,
+      "gas:candidate-vibid:4504001231192": 46,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 35,
+      "gas:candidate-vibid:4504001231262": 47,
+      "gas:candidate-vibid:4504001231436": 417
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 44,
-      "Блинова Наталья Владимировна": 41,
-      "Красикова Оксана Викторовна": 58,
-      "Мушин Алексей Львович": 52,
-      "Павленок Дмитрий Васильевич": 18,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 42,
-      "Сураев Максим Викторович": 471
+      "gas:candidate-vibid:4504001231709": 44,
+      "gas:candidate-vibid:4504001230992": 41,
+      "gas:candidate-vibid:4504001231599": 58,
+      "gas:candidate-vibid:4504001230891": 52,
+      "gas:candidate-vibid:4504001231192": 18,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 42,
+      "gas:candidate-vibid:4504001231436": 471
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 24,
-      "Блинова Наталья Владимировна": 38,
-      "Красикова Оксана Викторовна": 55,
-      "Мушин Алексей Львович": 51,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 13,
-      "Сошин Максим Викторович": 45,
-      "Сураев Максим Викторович": 430
+      "gas:candidate-vibid:4504001231709": 24,
+      "gas:candidate-vibid:4504001230992": 38,
+      "gas:candidate-vibid:4504001231599": 55,
+      "gas:candidate-vibid:4504001230891": 51,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 13,
+      "gas:candidate-vibid:4504001231262": 45,
+      "gas:candidate-vibid:4504001231436": 430
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 51,
-      "Красикова Оксана Викторовна": 51,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 39,
-      "Сураев Максим Викторович": 372
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 51,
+      "gas:candidate-vibid:4504001231599": 51,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 39,
+      "gas:candidate-vibid:4504001231436": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_50_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 33,
-      "Блинова Наталья Владимировна": 44,
-      "Красикова Оксана Викторовна": 55,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 29,
-      "Сураев Максим Викторович": 233
+      "gas:candidate-vibid:4504001231709": 33,
+      "gas:candidate-vibid:4504001230992": 44,
+      "gas:candidate-vibid:4504001231599": 55,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 29,
+      "gas:candidate-vibid:4504001231436": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",

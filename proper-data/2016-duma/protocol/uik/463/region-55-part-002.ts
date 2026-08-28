@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 77,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 25,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 77,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 79
+      "gas:candidate-vibid:2552000987412": 77,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 25,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 77,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897333&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897333&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 69,
-      "Артемьев Николай Викторович": 10,
-      "Барков Александр Валерьевич": 26,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 25,
-      "Еременко Татьяна Анатольевна": 16,
-      "Клепиков Алексей Анатольевич": 69,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 136
+      "gas:candidate-vibid:2552000987412": 69,
+      "gas:candidate-vibid:2552000996065": 10,
+      "gas:candidate-vibid:2552000989917": 26,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 25,
+      "gas:candidate-vibid:2552000994894": 16,
+      "gas:candidate-vibid:2552000982997": 69,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897333&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897333&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 24
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897333&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897333&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 42,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 14,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 28,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 34
+      "gas:candidate-vibid:2552000987412": 42,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 14,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 28,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 112,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 11,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 21,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 36,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 87
+      "gas:candidate-vibid:2552000987412": 112,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 11,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 21,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 36,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 173,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 19,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 17,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 62,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 162
+      "gas:candidate-vibid:2552000987412": 173,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 19,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 17,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 62,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 107,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 18,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 15,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 34,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 108
+      "gas:candidate-vibid:2552000987412": 107,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 18,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 15,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 34,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 117,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 15,
-      "Еременко Татьяна Анатольевна": 9,
-      "Клепиков Алексей Анатольевич": 42,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 114
+      "gas:candidate-vibid:2552000987412": 117,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 15,
+      "gas:candidate-vibid:2552000994894": 9,
+      "gas:candidate-vibid:2552000982997": 42,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 245,
-      "Артемьев Николай Викторович": 16,
-      "Барков Александр Валерьевич": 30,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 39,
-      "Еременко Татьяна Анатольевна": 23,
-      "Клепиков Алексей Анатольевич": 144,
-      "Костарев Сергей Владимирович": 12,
-      "Шрейдер Виктор Филиппович": 277
+      "gas:candidate-vibid:2552000987412": 245,
+      "gas:candidate-vibid:2552000996065": 16,
+      "gas:candidate-vibid:2552000989917": 30,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 39,
+      "gas:candidate-vibid:2552000994894": 23,
+      "gas:candidate-vibid:2552000982997": 144,
+      "gas:candidate-vibid:2552000992038": 12,
+      "gas:candidate-vibid:2552000989906": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 47,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 9,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 21,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 52
+      "gas:candidate-vibid:2552000987412": 47,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 9,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 21,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 77,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 8,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 20,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 33,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 76
+      "gas:candidate-vibid:2552000987412": 77,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 8,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 20,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 33,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 45,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 12,
-      "Басов Игорь Геннадьевич": 12,
-      "Горовцов Дмитрий Евгеньевич": 16,
-      "Еременко Татьяна Анатольевна": 9,
-      "Клепиков Алексей Анатольевич": 41,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 142
+      "gas:candidate-vibid:2552000987412": 45,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 12,
+      "gas:candidate-vibid:2552000990457": 12,
+      "gas:candidate-vibid:2552000985457": 16,
+      "gas:candidate-vibid:2552000994894": 9,
+      "gas:candidate-vibid:2552000982997": 41,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 5,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 31
+      "gas:candidate-vibid:2552000987412": 5,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 1,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 15
+      "gas:candidate-vibid:2552000987412": 1,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 70,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 14,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 7,
-      "Клепиков Алексей Анатольевич": 35,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 93
+      "gas:candidate-vibid:2552000987412": 70,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 14,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 7,
+      "gas:candidate-vibid:2552000982997": 35,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 12,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 20,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 23
+      "gas:candidate-vibid:2552000987412": 12,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 20,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 12,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 10,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 19
+      "gas:candidate-vibid:2552000987412": 12,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 10,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 82,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 9,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 26,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 68
+      "gas:candidate-vibid:2552000987412": 82,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 9,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 26,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 22,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 16,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 41
+      "gas:candidate-vibid:2552000987412": 22,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 16,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 53,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 27,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 63
+      "gas:candidate-vibid:2552000987412": 53,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 27,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 32,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 8,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 12,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 41,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 105
+      "gas:candidate-vibid:2552000987412": 32,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 8,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 12,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 41,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 12,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 58
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 12,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 42,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 8,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 11,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 22,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 67
+      "gas:candidate-vibid:2552000987412": 42,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 8,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 11,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 22,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 83,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 15,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 26,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 118
+      "gas:candidate-vibid:2552000987412": 83,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 15,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 26,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 8
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 49,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 12,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 30,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 78
+      "gas:candidate-vibid:2552000987412": 49,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 12,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 30,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 3,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 26
+      "gas:candidate-vibid:2552000987412": 3,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 22,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 12,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 11,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 35
+      "gas:candidate-vibid:2552000987412": 22,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 12,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 11,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 102,
-      "Артемьев Николай Викторович": 11,
-      "Барков Александр Валерьевич": 18,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 18,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 69,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 156
+      "gas:candidate-vibid:2552000987412": 102,
+      "gas:candidate-vibid:2552000996065": 11,
+      "gas:candidate-vibid:2552000989917": 18,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 18,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 69,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 16,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 14,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 28
+      "gas:candidate-vibid:2552000987412": 16,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 14,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 93,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 24,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 12,
-      "Еременко Татьяна Анатольевна": 9,
-      "Клепиков Алексей Анатольевич": 31,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 148
+      "gas:candidate-vibid:2552000987412": 93,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 24,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 12,
+      "gas:candidate-vibid:2552000994894": 9,
+      "gas:candidate-vibid:2552000982997": 31,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 12,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 18,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 16
+      "gas:candidate-vibid:2552000987412": 12,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 18,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 7,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 30
+      "gas:candidate-vibid:2552000987412": 7,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 5,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 22
+      "gas:candidate-vibid:2552000987412": 5,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 47,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 11,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 28,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 89
+      "gas:candidate-vibid:2552000987412": 47,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 11,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 28,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 44,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 9,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 27,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 103
+      "gas:candidate-vibid:2552000987412": 44,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 9,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 27,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 30
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 46,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 17,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 105
+      "gas:candidate-vibid:2552000987412": 46,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 17,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 6,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 15
+      "gas:candidate-vibid:2552000987412": 6,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 20,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 8,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 37
+      "gas:candidate-vibid:2552000987412": 20,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 8,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 21
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 19,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 18,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 50
+      "gas:candidate-vibid:2552000987412": 19,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 18,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897334&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897334&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 185,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 24,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 17,
-      "Еременко Татьяна Анатольевна": 15,
-      "Клепиков Алексей Анатольевич": 84,
-      "Костарев Сергей Владимирович": 8,
-      "Шрейдер Виктор Филиппович": 233
+      "gas:candidate-vibid:2552000987412": 185,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 24,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 17,
+      "gas:candidate-vibid:2552000994894": 15,
+      "gas:candidate-vibid:2552000982997": 84,
+      "gas:candidate-vibid:2552000992038": 8,
+      "gas:candidate-vibid:2552000989906": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 188,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 18,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 24,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 53,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 203
+      "gas:candidate-vibid:2552000987412": 188,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 18,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 24,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 53,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 234,
-      "Артемьев Николай Викторович": 11,
-      "Барков Александр Валерьевич": 20,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 31,
-      "Еременко Татьяна Анатольевна": 17,
-      "Клепиков Алексей Анатольевич": 79,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 250
+      "gas:candidate-vibid:2552000987412": 234,
+      "gas:candidate-vibid:2552000996065": 11,
+      "gas:candidate-vibid:2552000989917": 20,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 31,
+      "gas:candidate-vibid:2552000994894": 17,
+      "gas:candidate-vibid:2552000982997": 79,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 137,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 22,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 17,
-      "Еременко Татьяна Анатольевна": 13,
-      "Клепиков Алексей Анатольевич": 70,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 171
+      "gas:candidate-vibid:2552000987412": 137,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 22,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 17,
+      "gas:candidate-vibid:2552000994894": 13,
+      "gas:candidate-vibid:2552000982997": 70,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 20,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 18,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 51
+      "gas:candidate-vibid:2552000987412": 20,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 18,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 116,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 33,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 21,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 43,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 214
+      "gas:candidate-vibid:2552000987412": 116,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 33,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 21,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 43,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 137,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 38,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 39,
-      "Еременко Татьяна Анатольевна": 14,
-      "Клепиков Алексей Анатольевич": 127,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 187
+      "gas:candidate-vibid:2552000987412": 137,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 38,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 39,
+      "gas:candidate-vibid:2552000994894": 14,
+      "gas:candidate-vibid:2552000982997": 127,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 167,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 33,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 39,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 153,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 170
+      "gas:candidate-vibid:2552000987412": 167,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 33,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 39,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 153,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 95,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 21,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 13,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 64,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 194
+      "gas:candidate-vibid:2552000987412": 95,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 21,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 13,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 64,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 30,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 12,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 11,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 89
+      "gas:candidate-vibid:2552000987412": 30,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 12,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 11,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 74
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 13,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 80
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 13,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 78
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 155,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 19,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 13,
-      "Еременко Татьяна Анатольевна": 7,
-      "Клепиков Алексей Анатольевич": 54,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 179
+      "gas:candidate-vibid:2552000987412": 155,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 19,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 13,
+      "gas:candidate-vibid:2552000994894": 7,
+      "gas:candidate-vibid:2552000982997": 54,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 3,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 17,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 0
+      "gas:candidate-vibid:2552000987412": 3,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 17,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 24,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 10,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 19
+      "gas:candidate-vibid:2552000987412": 24,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 10,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 37,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 19,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 196
+      "gas:candidate-vibid:2552000987412": 37,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 19,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 8,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 24
+      "gas:candidate-vibid:2552000987412": 8,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 19,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 29
+      "gas:candidate-vibid:2552000987412": 19,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 50,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 10,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 36,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 188
+      "gas:candidate-vibid:2552000987412": 50,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 10,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 36,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 25,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 74
+      "gas:candidate-vibid:2552000987412": 25,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 20,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 23
+      "gas:candidate-vibid:2552000987412": 20,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 71,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 9,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 25,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 161
+      "gas:candidate-vibid:2552000987412": 71,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 9,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 25,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 23,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 8,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 10,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 52
+      "gas:candidate-vibid:2552000987412": 23,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 8,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 10,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 43,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 68
+      "gas:candidate-vibid:2552000987412": 43,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 8,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 21
+      "gas:candidate-vibid:2552000987412": 8,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 14
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 105,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 14,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 23,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 148
+      "gas:candidate-vibid:2552000987412": 105,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 14,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 23,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 21,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 19,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 38
+      "gas:candidate-vibid:2552000987412": 21,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 19,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 23,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 17,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 38
+      "gas:candidate-vibid:2552000987412": 23,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 17,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 134,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 36,
-      "Басов Игорь Геннадьевич": 8,
-      "Горовцов Дмитрий Евгеньевич": 19,
-      "Еременко Татьяна Анатольевна": 12,
-      "Клепиков Алексей Анатольевич": 65,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 340
+      "gas:candidate-vibid:2552000987412": 134,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 36,
+      "gas:candidate-vibid:2552000990457": 8,
+      "gas:candidate-vibid:2552000985457": 19,
+      "gas:candidate-vibid:2552000994894": 12,
+      "gas:candidate-vibid:2552000982997": 65,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 23,
-      "Артемьев Николай Викторович": 11,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 12,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 22,
-      "Костарев Сергей Владимирович": 22,
-      "Шрейдер Виктор Филиппович": 237
+      "gas:candidate-vibid:2552000987412": 23,
+      "gas:candidate-vibid:2552000996065": 11,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 12,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 22,
+      "gas:candidate-vibid:2552000992038": 22,
+      "gas:candidate-vibid:2552000989906": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 15,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 18
+      "gas:candidate-vibid:2552000987412": 15,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 2,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 19
+      "gas:candidate-vibid:2552000987412": 2,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 12,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 33
+      "gas:candidate-vibid:2552000987412": 12,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897335&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897335&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 178,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 17,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 31,
-      "Еременко Татьяна Анатольевна": 14,
-      "Клепиков Алексей Анатольевич": 49,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 129
+      "gas:candidate-vibid:2552000987412": 178,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 17,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 31,
+      "gas:candidate-vibid:2552000994894": 14,
+      "gas:candidate-vibid:2552000982997": 49,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 164,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 21,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 19,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 24,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 161
+      "gas:candidate-vibid:2552000987412": 164,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 21,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 19,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 24,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 117,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 13,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 63,
-      "Костарев Сергей Владимирович": 7,
-      "Шрейдер Виктор Филиппович": 100
+      "gas:candidate-vibid:2552000987412": 117,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 13,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 63,
+      "gas:candidate-vibid:2552000992038": 7,
+      "gas:candidate-vibid:2552000989906": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 119,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 25,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 10,
-      "Еременко Татьяна Анатольевна": 13,
-      "Клепиков Алексей Анатольевич": 46,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 94
+      "gas:candidate-vibid:2552000987412": 119,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 25,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 10,
+      "gas:candidate-vibid:2552000994894": 13,
+      "gas:candidate-vibid:2552000982997": 46,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 146,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 16,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 16,
-      "Еременко Татьяна Анатольевна": 23,
-      "Клепиков Алексей Анатольевич": 61,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 105
+      "gas:candidate-vibid:2552000987412": 146,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 16,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 16,
+      "gas:candidate-vibid:2552000994894": 23,
+      "gas:candidate-vibid:2552000982997": 61,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 23,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 9,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 16
+      "gas:candidate-vibid:2552000987412": 23,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 9,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 43,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 14,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 15,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 20,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 180
+      "gas:candidate-vibid:2552000987412": 43,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 14,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 15,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 20,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 35,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 15,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 99
+      "gas:candidate-vibid:2552000987412": 35,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 15,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 10,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 21
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 10,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 83,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 11,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 30,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 133
+      "gas:candidate-vibid:2552000987412": 83,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 11,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 30,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 15,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 47
+      "gas:candidate-vibid:2552000987412": 15,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 23,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 38
+      "gas:candidate-vibid:2552000987412": 23,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 74,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 14,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 14,
-      "Еременко Татьяна Анатольевна": 15,
-      "Клепиков Алексей Анатольевич": 24,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 113
+      "gas:candidate-vibid:2552000987412": 74,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 14,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 14,
+      "gas:candidate-vibid:2552000994894": 15,
+      "gas:candidate-vibid:2552000982997": 24,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 35
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 30
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 115,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 17,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 10,
-      "Еременко Татьяна Анатольевна": 23,
-      "Клепиков Алексей Анатольевич": 37,
-      "Костарев Сергей Владимирович": 9,
-      "Шрейдер Виктор Филиппович": 182
+      "gas:candidate-vibid:2552000987412": 115,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 17,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 10,
+      "gas:candidate-vibid:2552000994894": 23,
+      "gas:candidate-vibid:2552000982997": 37,
+      "gas:candidate-vibid:2552000992038": 9,
+      "gas:candidate-vibid:2552000989906": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 4,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 8,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 43
+      "gas:candidate-vibid:2552000987412": 4,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 8,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 18,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 24
+      "gas:candidate-vibid:2552000987412": 18,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 56,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 16,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 32,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 199
+      "gas:candidate-vibid:2552000987412": 56,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 16,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 32,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 9,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 26
+      "gas:candidate-vibid:2552000987412": 9,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 72,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 13,
-      "Еременко Татьяна Анатольевна": 7,
-      "Клепиков Алексей Анатольевич": 40,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 102
+      "gas:candidate-vibid:2552000987412": 72,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 13,
+      "gas:candidate-vibid:2552000994894": 7,
+      "gas:candidate-vibid:2552000982997": 40,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 16,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 13,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 36
+      "gas:candidate-vibid:2552000987412": 16,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 13,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 11,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 7,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 16
+      "gas:candidate-vibid:2552000987412": 11,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 7,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 8,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 11
+      "gas:candidate-vibid:2552000987412": 8,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 11,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 40
+      "gas:candidate-vibid:2552000987412": 11,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 75,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 13,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 57,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 159
+      "gas:candidate-vibid:2552000987412": 75,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 13,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 57,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 19,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 12,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 13
+      "gas:candidate-vibid:2552000987412": 19,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 12,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 5,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 22
+      "gas:candidate-vibid:2552000987412": 5,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 2,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 12,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 31
+      "gas:candidate-vibid:2552000987412": 2,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 12,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897336&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897336&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 155,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 24,
-      "Басов Игорь Геннадьевич": 12,
-      "Горовцов Дмитрий Евгеньевич": 18,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 76,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 151
+      "gas:candidate-vibid:2552000987412": 155,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 24,
+      "gas:candidate-vibid:2552000990457": 12,
+      "gas:candidate-vibid:2552000985457": 18,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 76,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 137,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 9,
-      "Горовцов Дмитрий Евгеньевич": 25,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 68,
-      "Костарев Сергей Владимирович": 11,
-      "Шрейдер Виктор Филиппович": 223
+      "gas:candidate-vibid:2552000987412": 137,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 9,
+      "gas:candidate-vibid:2552000985457": 25,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 68,
+      "gas:candidate-vibid:2552000992038": 11,
+      "gas:candidate-vibid:2552000989906": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 100,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 24,
-      "Басов Игорь Геннадьевич": 11,
-      "Горовцов Дмитрий Евгеньевич": 31,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 72,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 177
+      "gas:candidate-vibid:2552000987412": 100,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 24,
+      "gas:candidate-vibid:2552000990457": 11,
+      "gas:candidate-vibid:2552000985457": 31,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 72,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 136,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 11,
-      "Басов Игорь Геннадьевич": 8,
-      "Горовцов Дмитрий Евгеньевич": 21,
-      "Еременко Татьяна Анатольевна": 12,
-      "Клепиков Алексей Анатольевич": 57,
-      "Костарев Сергей Владимирович": 9,
-      "Шрейдер Виктор Филиппович": 178
+      "gas:candidate-vibid:2552000987412": 136,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 11,
+      "gas:candidate-vibid:2552000990457": 8,
+      "gas:candidate-vibid:2552000985457": 21,
+      "gas:candidate-vibid:2552000994894": 12,
+      "gas:candidate-vibid:2552000982997": 57,
+      "gas:candidate-vibid:2552000992038": 9,
+      "gas:candidate-vibid:2552000989906": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 107,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 17,
-      "Горовцов Дмитрий Евгеньевич": 26,
-      "Еременко Татьяна Анатольевна": 7,
-      "Клепиков Алексей Анатольевич": 75,
-      "Костарев Сергей Владимирович": 7,
-      "Шрейдер Виктор Филиппович": 147
+      "gas:candidate-vibid:2552000987412": 107,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 17,
+      "gas:candidate-vibid:2552000985457": 26,
+      "gas:candidate-vibid:2552000994894": 7,
+      "gas:candidate-vibid:2552000982997": 75,
+      "gas:candidate-vibid:2552000992038": 7,
+      "gas:candidate-vibid:2552000989906": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 121,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 21,
-      "Басов Игорь Геннадьевич": 10,
-      "Горовцов Дмитрий Евгеньевич": 31,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 71,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 174
+      "gas:candidate-vibid:2552000987412": 121,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 21,
+      "gas:candidate-vibid:2552000990457": 10,
+      "gas:candidate-vibid:2552000985457": 31,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 71,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 34,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 17,
-      "Горовцов Дмитрий Евгеньевич": 10,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 21,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 67
+      "gas:candidate-vibid:2552000987412": 34,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 17,
+      "gas:candidate-vibid:2552000985457": 10,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 21,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 12,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 11,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 9,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 55
+      "gas:candidate-vibid:2552000987412": 12,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 11,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 9,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 26
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 28,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 26,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 84
+      "gas:candidate-vibid:2552000987412": 28,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 26,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 96,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 23,
-      "Басов Игорь Геннадьевич": 10,
-      "Горовцов Дмитрий Евгеньевич": 19,
-      "Еременко Татьяна Анатольевна": 9,
-      "Клепиков Алексей Анатольевич": 58,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 210
+      "gas:candidate-vibid:2552000987412": 96,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 23,
+      "gas:candidate-vibid:2552000990457": 10,
+      "gas:candidate-vibid:2552000985457": 19,
+      "gas:candidate-vibid:2552000994894": 9,
+      "gas:candidate-vibid:2552000982997": 58,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 142,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 20,
-      "Басов Игорь Геннадьевич": 10,
-      "Горовцов Дмитрий Евгеньевич": 27,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 23,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 140
+      "gas:candidate-vibid:2552000987412": 142,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 20,
+      "gas:candidate-vibid:2552000990457": 10,
+      "gas:candidate-vibid:2552000985457": 27,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 23,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 7,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 8,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 25
+      "gas:candidate-vibid:2552000987412": 7,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 8,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 31,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 8,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 38
+      "gas:candidate-vibid:2552000987412": 31,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 8,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 60,
-      "Артемьев Николай Викторович": 9,
-      "Барков Александр Валерьевич": 23,
-      "Басов Игорь Геннадьевич": 14,
-      "Горовцов Дмитрий Евгеньевич": 22,
-      "Еременко Татьяна Анатольевна": 15,
-      "Клепиков Алексей Анатольевич": 53,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 205
+      "gas:candidate-vibid:2552000987412": 60,
+      "gas:candidate-vibid:2552000996065": 9,
+      "gas:candidate-vibid:2552000989917": 23,
+      "gas:candidate-vibid:2552000990457": 14,
+      "gas:candidate-vibid:2552000985457": 22,
+      "gas:candidate-vibid:2552000994894": 15,
+      "gas:candidate-vibid:2552000982997": 53,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 22,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 8,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 15,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 65
+      "gas:candidate-vibid:2552000987412": 22,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 8,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 15,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 16,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 9,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 10,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 36
+      "gas:candidate-vibid:2552000987412": 16,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 9,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 10,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 23
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 120,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 21,
-      "Еременко Татьяна Анатольевна": 9,
-      "Клепиков Алексей Анатольевич": 34,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 96
+      "gas:candidate-vibid:2552000987412": 120,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 21,
+      "gas:candidate-vibid:2552000994894": 9,
+      "gas:candidate-vibid:2552000982997": 34,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 44,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 10,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 13,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 41
+      "gas:candidate-vibid:2552000987412": 44,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 10,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 13,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 11,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 10
+      "gas:candidate-vibid:2552000987412": 11,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 20,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 9,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 100
+      "gas:candidate-vibid:2552000987412": 20,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 9,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 11,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 23
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 11,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 57,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 18,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 30,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 136
+      "gas:candidate-vibid:2552000987412": 57,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 18,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 30,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 32,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 27
+      "gas:candidate-vibid:2552000987412": 32,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 109,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 29,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 13,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 37,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 118
+      "gas:candidate-vibid:2552000987412": 109,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 29,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 13,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 37,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 34,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 12,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 73
+      "gas:candidate-vibid:2552000987412": 34,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 12,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 30,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 24,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 24
+      "gas:candidate-vibid:2552000987412": 30,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 24,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 94,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 17,
-      "Басов Игорь Геннадьевич": 12,
-      "Горовцов Дмитрий Евгеньевич": 11,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 14,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 108
+      "gas:candidate-vibid:2552000987412": 94,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 17,
+      "gas:candidate-vibid:2552000990457": 12,
+      "gas:candidate-vibid:2552000985457": 11,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 14,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 10,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 31
+      "gas:candidate-vibid:2552000987412": 10,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 20,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 16
+      "gas:candidate-vibid:2552000987412": 20,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 8,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 21
+      "gas:candidate-vibid:2552000987412": 8,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 74,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 27,
-      "Басов Игорь Геннадьевич": 10,
-      "Горовцов Дмитрий Евгеньевич": 14,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 42,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 144
+      "gas:candidate-vibid:2552000987412": 74,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 27,
+      "gas:candidate-vibid:2552000990457": 10,
+      "gas:candidate-vibid:2552000985457": 14,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 42,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 40,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 20,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 67
+      "gas:candidate-vibid:2552000987412": 40,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 20,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 3,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 17
+      "gas:candidate-vibid:2552000987412": 3,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897337&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897337&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 79,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 28,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 32,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 191
+      "gas:candidate-vibid:2552000987412": 79,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 28,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 32,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 26,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 76
+      "gas:candidate-vibid:2552000987412": 26,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 70,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 26,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 101
+      "gas:candidate-vibid:2552000987412": 70,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 26,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 16,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 60
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 16,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 8,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 43
+      "gas:candidate-vibid:2552000987412": 8,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 59
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 55,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 16,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 10,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 36,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 105
+      "gas:candidate-vibid:2552000987412": 55,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 16,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 10,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 36,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 42,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 10,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 23
+      "gas:candidate-vibid:2552000987412": 42,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 10,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 11,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 9
+      "gas:candidate-vibid:2552000987412": 11,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 99,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 9,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 29,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 121
+      "gas:candidate-vibid:2552000987412": 99,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 9,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 29,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 9,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 16
+      "gas:candidate-vibid:2552000987412": 9,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 18,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 8,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 17
+      "gas:candidate-vibid:2552000987412": 18,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 8,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 14,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 22
+      "gas:candidate-vibid:2552000987412": 14,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 79,
-      "Артемьев Николай Викторович": 10,
-      "Барков Александр Валерьевич": 18,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 16,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 41,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 143
+      "gas:candidate-vibid:2552000987412": 79,
+      "gas:candidate-vibid:2552000996065": 10,
+      "gas:candidate-vibid:2552000989917": 18,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 16,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 41,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 98,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 29,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 21,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 74,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 270
+      "gas:candidate-vibid:2552000987412": 98,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 29,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 21,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 74,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 81,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 23,
-      "Басов Игорь Геннадьевич": 9,
-      "Горовцов Дмитрий Евгеньевич": 12,
-      "Еременко Татьяна Анатольевна": 7,
-      "Клепиков Алексей Анатольевич": 43,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 133
+      "gas:candidate-vibid:2552000987412": 81,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 23,
+      "gas:candidate-vibid:2552000990457": 9,
+      "gas:candidate-vibid:2552000985457": 12,
+      "gas:candidate-vibid:2552000994894": 7,
+      "gas:candidate-vibid:2552000982997": 43,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 11,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 19
+      "gas:candidate-vibid:2552000987412": 11,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 40,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 24
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 40,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 65,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 14,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 12,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 29,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 100
+      "gas:candidate-vibid:2552000987412": 65,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 14,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 12,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 29,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 48,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 15,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 42,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 145
+      "gas:candidate-vibid:2552000987412": 48,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 15,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 42,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 18,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 45
+      "gas:candidate-vibid:2552000987412": 18,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 23,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 19
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 23,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 32,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 27
+      "gas:candidate-vibid:2552000987412": 32,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 27,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 12
+      "gas:candidate-vibid:2552000987412": 27,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 158,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 17,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 22,
-      "Еременко Татьяна Анатольевна": 21,
-      "Клепиков Алексей Анатольевич": 74,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 171
+      "gas:candidate-vibid:2552000987412": 158,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 17,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 22,
+      "gas:candidate-vibid:2552000994894": 21,
+      "gas:candidate-vibid:2552000982997": 74,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 124,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 24,
-      "Еременко Татьяна Анатольевна": 12,
-      "Клепиков Алексей Анатольевич": 103,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 168
+      "gas:candidate-vibid:2552000987412": 124,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 24,
+      "gas:candidate-vibid:2552000994894": 12,
+      "gas:candidate-vibid:2552000982997": 103,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 122,
-      "Артемьев Николай Викторович": 9,
-      "Барков Александр Валерьевич": 20,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 21,
-      "Еременко Татьяна Анатольевна": 9,
-      "Клепиков Алексей Анатольевич": 73,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 173
+      "gas:candidate-vibid:2552000987412": 122,
+      "gas:candidate-vibid:2552000996065": 9,
+      "gas:candidate-vibid:2552000989917": 20,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 21,
+      "gas:candidate-vibid:2552000994894": 9,
+      "gas:candidate-vibid:2552000982997": 73,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 102,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 20,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 62,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 129
+      "gas:candidate-vibid:2552000987412": 102,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 20,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 62,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 88,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 18,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 19,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 58,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 151
+      "gas:candidate-vibid:2552000987412": 88,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 18,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 19,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 58,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 89,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 19,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 14,
-      "Еременко Татьяна Анатольевна": 6,
-      "Клепиков Алексей Анатольевич": 78,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 141
+      "gas:candidate-vibid:2552000987412": 89,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 19,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 14,
+      "gas:candidate-vibid:2552000994894": 6,
+      "gas:candidate-vibid:2552000982997": 78,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897338&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897338&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 28,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 20,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 27
+      "gas:candidate-vibid:2552000987412": 28,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 20,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 195,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 17,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 17,
-      "Еременко Татьяна Анатольевна": 23,
-      "Клепиков Алексей Анатольевич": 93,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 218
+      "gas:candidate-vibid:2552000987412": 195,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 17,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 17,
+      "gas:candidate-vibid:2552000994894": 23,
+      "gas:candidate-vibid:2552000982997": 93,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 143,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 8,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 18,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 61,
-      "Костарев Сергей Владимирович": 11,
-      "Шрейдер Виктор Филиппович": 155
+      "gas:candidate-vibid:2552000987412": 143,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 8,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 18,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 61,
+      "gas:candidate-vibid:2552000992038": 11,
+      "gas:candidate-vibid:2552000989906": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 226,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 29,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 24,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 74,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 242
+      "gas:candidate-vibid:2552000987412": 226,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 29,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 24,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 74,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 286,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 41,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 49,
-      "Еременко Татьяна Анатольевна": 18,
-      "Клепиков Алексей Анатольевич": 133,
-      "Костарев Сергей Владимирович": 9,
-      "Шрейдер Виктор Филиппович": 303
+      "gas:candidate-vibid:2552000987412": 286,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 41,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 49,
+      "gas:candidate-vibid:2552000994894": 18,
+      "gas:candidate-vibid:2552000982997": 133,
+      "gas:candidate-vibid:2552000992038": 9,
+      "gas:candidate-vibid:2552000989906": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 245,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 28,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 35,
-      "Еременко Татьяна Анатольевна": 19,
-      "Клепиков Алексей Анатольевич": 77,
-      "Костарев Сергей Владимирович": 6,
-      "Шрейдер Виктор Филиппович": 243
+      "gas:candidate-vibid:2552000987412": 245,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 28,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 35,
+      "gas:candidate-vibid:2552000994894": 19,
+      "gas:candidate-vibid:2552000982997": 77,
+      "gas:candidate-vibid:2552000992038": 6,
+      "gas:candidate-vibid:2552000989906": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 157,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 28,
-      "Басов Игорь Геннадьевич": 8,
-      "Горовцов Дмитрий Евгеньевич": 34,
-      "Еременко Татьяна Анатольевна": 13,
-      "Клепиков Алексей Анатольевич": 67,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 262
+      "gas:candidate-vibid:2552000987412": 157,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 28,
+      "gas:candidate-vibid:2552000990457": 8,
+      "gas:candidate-vibid:2552000985457": 34,
+      "gas:candidate-vibid:2552000994894": 13,
+      "gas:candidate-vibid:2552000982997": 67,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 30,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 9,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 34
+      "gas:candidate-vibid:2552000987412": 30,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 9,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 7,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 45
+      "gas:candidate-vibid:2552000987412": 7,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 99,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 24,
-      "Басов Игорь Геннадьевич": 7,
-      "Горовцов Дмитрий Евгеньевич": 20,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 37,
-      "Костарев Сергей Владимирович": 7,
-      "Шрейдер Виктор Филиппович": 172
+      "gas:candidate-vibid:2552000987412": 99,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 24,
+      "gas:candidate-vibid:2552000990457": 7,
+      "gas:candidate-vibid:2552000985457": 20,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 37,
+      "gas:candidate-vibid:2552000992038": 7,
+      "gas:candidate-vibid:2552000989906": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 18,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 21
+      "gas:candidate-vibid:2552000987412": 18,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 8,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 42
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 8,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 16,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 39
+      "gas:candidate-vibid:2552000987412": 16,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 319,
-      "Артемьев Николай Викторович": 11,
-      "Барков Александр Валерьевич": 36,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 36,
-      "Еременко Татьяна Анатольевна": 21,
-      "Клепиков Алексей Анатольевич": 62,
-      "Костарев Сергей Владимирович": 11,
-      "Шрейдер Виктор Филиппович": 316
+      "gas:candidate-vibid:2552000987412": 319,
+      "gas:candidate-vibid:2552000996065": 11,
+      "gas:candidate-vibid:2552000989917": 36,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 36,
+      "gas:candidate-vibid:2552000994894": 21,
+      "gas:candidate-vibid:2552000982997": 62,
+      "gas:candidate-vibid:2552000992038": 11,
+      "gas:candidate-vibid:2552000989906": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 24,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 37
+      "gas:candidate-vibid:2552000987412": 24,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 26,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 13,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 58
+      "gas:candidate-vibid:2552000987412": 26,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 13,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 16,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 12,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 44
+      "gas:candidate-vibid:2552000987412": 16,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 12,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 26,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 7,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 36
+      "gas:candidate-vibid:2552000987412": 26,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 7,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 124,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 12,
-      "Басов Игорь Геннадьевич": 8,
-      "Горовцов Дмитрий Евгеньевич": 15,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 45,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 126
+      "gas:candidate-vibid:2552000987412": 124,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 12,
+      "gas:candidate-vibid:2552000990457": 8,
+      "gas:candidate-vibid:2552000985457": 15,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 45,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 12,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 36
+      "gas:candidate-vibid:2552000987412": 12,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 15,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 15
+      "gas:candidate-vibid:2552000987412": 15,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 12,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 8
+      "gas:candidate-vibid:2552000987412": 12,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 37,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 60
+      "gas:candidate-vibid:2552000987412": 37,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 13,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 36
+      "gas:candidate-vibid:2552000987412": 13,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 51,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 27
+      "gas:candidate-vibid:2552000987412": 51,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 6,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 10
+      "gas:candidate-vibid:2552000987412": 6,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 9,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 0,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 0,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 8
+      "gas:candidate-vibid:2552000987412": 9,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 0,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 0,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 94,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 21,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 14,
-      "Еременко Татьяна Анатольевна": 7,
-      "Клепиков Алексей Анатольевич": 25,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 140
+      "gas:candidate-vibid:2552000987412": 94,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 21,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 14,
+      "gas:candidate-vibid:2552000994894": 7,
+      "gas:candidate-vibid:2552000982997": 25,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 0,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 10,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 41
+      "gas:candidate-vibid:2552000987412": 0,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 10,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 18
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 149,
-      "Артемьев Николай Викторович": 9,
-      "Барков Александр Валерьевич": 17,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 16,
-      "Еременко Татьяна Анатольевна": 20,
-      "Клепиков Алексей Анатольевич": 58,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 156
+      "gas:candidate-vibid:2552000987412": 149,
+      "gas:candidate-vibid:2552000996065": 9,
+      "gas:candidate-vibid:2552000989917": 17,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 16,
+      "gas:candidate-vibid:2552000994894": 20,
+      "gas:candidate-vibid:2552000982997": 58,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 32,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 3,
-      "Клепиков Алексей Анатольевич": 25,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 71
+      "gas:candidate-vibid:2552000987412": 32,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 3,
+      "gas:candidate-vibid:2552000982997": 25,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 25,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 14,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 52
+      "gas:candidate-vibid:2552000987412": 25,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 14,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 10
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 24,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 14,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 32
+      "gas:candidate-vibid:2552000987412": 24,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 14,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 10,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 9,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 1,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 29
+      "gas:candidate-vibid:2552000987412": 10,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 9,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 1,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 115,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 14,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 16,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 42,
-      "Костарев Сергей Владимирович": 7,
-      "Шрейдер Виктор Филиппович": 139
+      "gas:candidate-vibid:2552000987412": 115,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 14,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 16,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 42,
+      "gas:candidate-vibid:2552000992038": 7,
+      "gas:candidate-vibid:2552000989906": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 21,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 7,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 19
+      "gas:candidate-vibid:2552000987412": 21,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 7,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 3,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 7,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 10
+      "gas:candidate-vibid:2552000987412": 3,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 7,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 20
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 10,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 34
+      "gas:candidate-vibid:2552000987412": 10,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 16,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 2,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 20
+      "gas:candidate-vibid:2552000987412": 16,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 2,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 100,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 8,
-      "Еременко Татьяна Анатольевна": 5,
-      "Клепиков Алексей Анатольевич": 18,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 118
+      "gas:candidate-vibid:2552000987412": 100,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 8,
+      "gas:candidate-vibid:2552000994894": 5,
+      "gas:candidate-vibid:2552000982997": 18,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 28,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 14,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 70
+      "gas:candidate-vibid:2552000987412": 28,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 14,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 21,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 5,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 13,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 36
+      "gas:candidate-vibid:2552000987412": 21,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 5,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 13,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897339&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897339&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 97,
-      "Артемьев Николай Викторович": 6,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 17,
-      "Еременко Татьяна Анатольевна": 9,
-      "Клепиков Алексей Анатольевич": 25,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 138
+      "gas:candidate-vibid:2552000987412": 97,
+      "gas:candidate-vibid:2552000996065": 6,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 17,
+      "gas:candidate-vibid:2552000994894": 9,
+      "gas:candidate-vibid:2552000982997": 25,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 29,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 4,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 26
+      "gas:candidate-vibid:2552000987412": 29,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 4,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 18,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 5,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 6,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 27
+      "gas:candidate-vibid:2552000987412": 18,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 5,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 6,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 28,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 12,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 11,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 8,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 62
+      "gas:candidate-vibid:2552000987412": 28,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 12,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 11,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 8,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 97,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 24,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 19,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 58,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 174
+      "gas:candidate-vibid:2552000987412": 97,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 24,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 19,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 58,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 52,
-      "Артемьев Николай Викторович": 2,
-      "Барков Александр Валерьевич": 13,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 11,
-      "Еременко Татьяна Анатольевна": 12,
-      "Клепиков Алексей Анатольевич": 28,
-      "Костарев Сергей Владимирович": 3,
-      "Шрейдер Виктор Филиппович": 70
+      "gas:candidate-vibid:2552000987412": 52,
+      "gas:candidate-vibid:2552000996065": 2,
+      "gas:candidate-vibid:2552000989917": 13,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 11,
+      "gas:candidate-vibid:2552000994894": 12,
+      "gas:candidate-vibid:2552000982997": 28,
+      "gas:candidate-vibid:2552000992038": 3,
+      "gas:candidate-vibid:2552000989906": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 91,
-      "Артемьев Николай Викторович": 4,
-      "Барков Александр Валерьевич": 15,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 24,
-      "Еременко Татьяна Анатольевна": 11,
-      "Клепиков Алексей Анатольевич": 36,
-      "Костарев Сергей Владимирович": 5,
-      "Шрейдер Виктор Филиппович": 106
+      "gas:candidate-vibid:2552000987412": 91,
+      "gas:candidate-vibid:2552000996065": 4,
+      "gas:candidate-vibid:2552000989917": 15,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 24,
+      "gas:candidate-vibid:2552000994894": 11,
+      "gas:candidate-vibid:2552000982997": 36,
+      "gas:candidate-vibid:2552000992038": 5,
+      "gas:candidate-vibid:2552000989906": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 168,
-      "Артемьев Николай Викторович": 13,
-      "Барков Александр Валерьевич": 36,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 37,
-      "Еременко Татьяна Анатольевна": 26,
-      "Клепиков Алексей Анатольевич": 86,
-      "Костарев Сергей Владимирович": 10,
-      "Шрейдер Виктор Филиппович": 198
+      "gas:candidate-vibid:2552000987412": 168,
+      "gas:candidate-vibid:2552000996065": 13,
+      "gas:candidate-vibid:2552000989917": 36,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 37,
+      "gas:candidate-vibid:2552000994894": 26,
+      "gas:candidate-vibid:2552000982997": 86,
+      "gas:candidate-vibid:2552000992038": 10,
+      "gas:candidate-vibid:2552000989906": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 192,
-      "Артемьев Николай Викторович": 15,
-      "Барков Александр Валерьевич": 40,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 37,
-      "Еременко Татьяна Анатольевна": 21,
-      "Клепиков Алексей Анатольевич": 104,
-      "Костарев Сергей Владимирович": 10,
-      "Шрейдер Виктор Филиппович": 164
+      "gas:candidate-vibid:2552000987412": 192,
+      "gas:candidate-vibid:2552000996065": 15,
+      "gas:candidate-vibid:2552000989917": 40,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 37,
+      "gas:candidate-vibid:2552000994894": 21,
+      "gas:candidate-vibid:2552000982997": 104,
+      "gas:candidate-vibid:2552000992038": 10,
+      "gas:candidate-vibid:2552000989906": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 72,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 21,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 31,
-      "Еременко Татьяна Анатольевна": 13,
-      "Клепиков Алексей Анатольевич": 43,
-      "Костарев Сергей Владимирович": 10,
-      "Шрейдер Виктор Филиппович": 104
+      "gas:candidate-vibid:2552000987412": 72,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 21,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 31,
+      "gas:candidate-vibid:2552000994894": 13,
+      "gas:candidate-vibid:2552000982997": 43,
+      "gas:candidate-vibid:2552000992038": 10,
+      "gas:candidate-vibid:2552000989906": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 38,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 9,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 10,
-      "Клепиков Алексей Анатольевич": 17,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 34
+      "gas:candidate-vibid:2552000987412": 38,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 9,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 10,
+      "gas:candidate-vibid:2552000982997": 17,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 217,
-      "Артемьев Николай Викторович": 5,
-      "Барков Александр Валерьевич": 18,
-      "Басов Игорь Геннадьевич": 9,
-      "Горовцов Дмитрий Евгеньевич": 24,
-      "Еременко Татьяна Анатольевна": 15,
-      "Клепиков Алексей Анатольевич": 43,
-      "Костарев Сергей Владимирович": 9,
-      "Шрейдер Виктор Филиппович": 161
+      "gas:candidate-vibid:2552000987412": 217,
+      "gas:candidate-vibid:2552000996065": 5,
+      "gas:candidate-vibid:2552000989917": 18,
+      "gas:candidate-vibid:2552000990457": 9,
+      "gas:candidate-vibid:2552000985457": 24,
+      "gas:candidate-vibid:2552000994894": 15,
+      "gas:candidate-vibid:2552000982997": 43,
+      "gas:candidate-vibid:2552000992038": 9,
+      "gas:candidate-vibid:2552000989906": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 35,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 7,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 7,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 21,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 54
+      "gas:candidate-vibid:2552000987412": 35,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 7,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 7,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 21,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 16,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 2,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 0,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 15
+      "gas:candidate-vibid:2552000987412": 16,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 2,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 0,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 21,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 0,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 7,
-      "Костарев Сергей Владимирович": 4,
-      "Шрейдер Виктор Филиппович": 26
+      "gas:candidate-vibid:2552000987412": 21,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 0,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 7,
+      "gas:candidate-vibid:2552000992038": 4,
+      "gas:candidate-vibid:2552000989906": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 17,
-      "Артемьев Николай Викторович": 0,
-      "Барков Александр Валерьевич": 3,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 4,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 3,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 20
+      "gas:candidate-vibid:2552000987412": 17,
+      "gas:candidate-vibid:2552000996065": 0,
+      "gas:candidate-vibid:2552000989917": 3,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 4,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 3,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 11,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 0,
-      "Горовцов Дмитрий Евгеньевич": 1,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 5,
-      "Костарев Сергей Владимирович": 0,
-      "Шрейдер Виктор Филиппович": 68
+      "gas:candidate-vibid:2552000987412": 11,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 0,
+      "gas:candidate-vibid:2552000985457": 1,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 5,
+      "gas:candidate-vibid:2552000992038": 0,
+      "gas:candidate-vibid:2552000989906": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 21,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 1,
-      "Басов Игорь Геннадьевич": 1,
-      "Горовцов Дмитрий Евгеньевич": 2,
-      "Еременко Татьяна Анатольевна": 1,
-      "Клепиков Алексей Анатольевич": 4,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 37
+      "gas:candidate-vibid:2552000987412": 21,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 1,
+      "gas:candidate-vibid:2552000990457": 1,
+      "gas:candidate-vibid:2552000985457": 2,
+      "gas:candidate-vibid:2552000994894": 1,
+      "gas:candidate-vibid:2552000982997": 4,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 102,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 24,
-      "Басов Игорь Геннадьевич": 4,
-      "Горовцов Дмитрий Евгеньевич": 23,
-      "Еременко Татьяна Анатольевна": 8,
-      "Клепиков Алексей Анатольевич": 32,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 157
+      "gas:candidate-vibid:2552000987412": 102,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 24,
+      "gas:candidate-vibid:2552000990457": 4,
+      "gas:candidate-vibid:2552000985457": 23,
+      "gas:candidate-vibid:2552000994894": 8,
+      "gas:candidate-vibid:2552000982997": 32,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 9,
-      "Артемьев Николай Викторович": 1,
-      "Барков Александр Валерьевич": 6,
-      "Басов Игорь Геннадьевич": 3,
-      "Горовцов Дмитрий Евгеньевич": 3,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 8,
-      "Костарев Сергей Владимирович": 2,
-      "Шрейдер Виктор Филиппович": 54
+      "gas:candidate-vibid:2552000987412": 9,
+      "gas:candidate-vibid:2552000996065": 1,
+      "gas:candidate-vibid:2552000989917": 6,
+      "gas:candidate-vibid:2552000990457": 3,
+      "gas:candidate-vibid:2552000985457": 3,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 8,
+      "gas:candidate-vibid:2552000992038": 2,
+      "gas:candidate-vibid:2552000989906": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 38,
-      "Артемьев Николай Викторович": 3,
-      "Барков Александр Валерьевич": 4,
-      "Басов Игорь Геннадьевич": 2,
-      "Горовцов Дмитрий Евгеньевич": 6,
-      "Еременко Татьяна Анатольевна": 2,
-      "Клепиков Алексей Анатольевич": 10,
-      "Костарев Сергей Владимирович": 1,
-      "Шрейдер Виктор Филиппович": 46
+      "gas:candidate-vibid:2552000987412": 38,
+      "gas:candidate-vibid:2552000996065": 3,
+      "gas:candidate-vibid:2552000989917": 4,
+      "gas:candidate-vibid:2552000990457": 2,
+      "gas:candidate-vibid:2552000985457": 6,
+      "gas:candidate-vibid:2552000994894": 2,
+      "gas:candidate-vibid:2552000982997": 10,
+      "gas:candidate-vibid:2552000992038": 1,
+      "gas:candidate-vibid:2552000989906": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 188,
-      "Артемьев Николай Викторович": 9,
-      "Барков Александр Валерьевич": 11,
-      "Басов Игорь Геннадьевич": 8,
-      "Горовцов Дмитрий Евгеньевич": 68,
-      "Еременко Татьяна Анатольевна": 23,
-      "Клепиков Алексей Анатольевич": 56,
-      "Костарев Сергей Владимирович": 17,
-      "Шрейдер Виктор Филиппович": 179
+      "gas:candidate-vibid:2552000987412": 188,
+      "gas:candidate-vibid:2552000996065": 9,
+      "gas:candidate-vibid:2552000989917": 11,
+      "gas:candidate-vibid:2552000990457": 8,
+      "gas:candidate-vibid:2552000985457": 68,
+      "gas:candidate-vibid:2552000994894": 23,
+      "gas:candidate-vibid:2552000982997": 56,
+      "gas:candidate-vibid:2552000992038": 17,
+      "gas:candidate-vibid:2552000989906": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 144,
-      "Артемьев Николай Викторович": 7,
-      "Барков Александр Валерьевич": 25,
-      "Басов Игорь Геннадьевич": 5,
-      "Горовцов Дмитрий Евгеньевич": 75,
-      "Еременко Татьяна Анатольевна": 20,
-      "Клепиков Алексей Анатольевич": 79,
-      "Костарев Сергей Владимирович": 16,
-      "Шрейдер Виктор Филиппович": 178
+      "gas:candidate-vibid:2552000987412": 144,
+      "gas:candidate-vibid:2552000996065": 7,
+      "gas:candidate-vibid:2552000989917": 25,
+      "gas:candidate-vibid:2552000990457": 5,
+      "gas:candidate-vibid:2552000985457": 75,
+      "gas:candidate-vibid:2552000994894": 20,
+      "gas:candidate-vibid:2552000982997": 79,
+      "gas:candidate-vibid:2552000992038": 16,
+      "gas:candidate-vibid:2552000989906": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алехин Андрей Анатольевич": 165,
-      "Артемьев Николай Викторович": 8,
-      "Барков Александр Валерьевич": 27,
-      "Басов Игорь Геннадьевич": 6,
-      "Горовцов Дмитрий Евгеньевич": 72,
-      "Еременко Татьяна Анатольевна": 22,
-      "Клепиков Алексей Анатольевич": 63,
-      "Костарев Сергей Владимирович": 8,
-      "Шрейдер Виктор Филиппович": 163
+      "gas:candidate-vibid:2552000987412": 165,
+      "gas:candidate-vibid:2552000996065": 8,
+      "gas:candidate-vibid:2552000989917": 27,
+      "gas:candidate-vibid:2552000990457": 6,
+      "gas:candidate-vibid:2552000985457": 72,
+      "gas:candidate-vibid:2552000994894": 22,
+      "gas:candidate-vibid:2552000982997": 63,
+      "gas:candidate-vibid:2552000992038": 8,
+      "gas:candidate-vibid:2552000989906": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000183&tvd=2552000897340&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897340&type=464",
@@ -14203,13 +14203,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 45,
-      "Дубовский Евгений Юрьевич": 59,
-      "Жуков Владимир Алексеевич": 32,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 101
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 45,
+      "gas:candidate-vibid:2552000987491": 59,
+      "gas:candidate-vibid:2552000989928": 32,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14260,13 +14260,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 21,
-      "Атаманиченко Кирилл Игоревич": 66,
-      "Дубовский Евгений Юрьевич": 91,
-      "Жуков Владимир Алексеевич": 52,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 27,
-      "Смолин Олег Николаевич": 309
+      "gas:candidate-vibid:2552000990097": 21,
+      "gas:candidate-vibid:2552000982914": 66,
+      "gas:candidate-vibid:2552000987491": 91,
+      "gas:candidate-vibid:2552000989928": 52,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 27,
+      "gas:candidate-vibid:2552000987306": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14317,13 +14317,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 88,
-      "Дубовский Евгений Юрьевич": 111,
-      "Жуков Владимир Алексеевич": 47,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 29,
-      "Смолин Олег Николаевич": 212
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 88,
+      "gas:candidate-vibid:2552000987491": 111,
+      "gas:candidate-vibid:2552000989928": 47,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 29,
+      "gas:candidate-vibid:2552000987306": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14374,13 +14374,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 16,
-      "Атаманиченко Кирилл Игоревич": 51,
-      "Дубовский Евгений Юрьевич": 152,
-      "Жуков Владимир Алексеевич": 59,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 17,
-      "Смолин Олег Николаевич": 270
+      "gas:candidate-vibid:2552000990097": 16,
+      "gas:candidate-vibid:2552000982914": 51,
+      "gas:candidate-vibid:2552000987491": 152,
+      "gas:candidate-vibid:2552000989928": 59,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 17,
+      "gas:candidate-vibid:2552000987306": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14431,13 +14431,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 57,
-      "Дубовский Евгений Юрьевич": 102,
-      "Жуков Владимир Алексеевич": 48,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 14,
-      "Смолин Олег Николаевич": 215
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 57,
+      "gas:candidate-vibid:2552000987491": 102,
+      "gas:candidate-vibid:2552000989928": 48,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 14,
+      "gas:candidate-vibid:2552000987306": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14488,13 +14488,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 22,
-      "Атаманиченко Кирилл Игоревич": 141,
-      "Дубовский Евгений Юрьевич": 99,
-      "Жуков Владимир Алексеевич": 76,
-      "Курнявко Олег Леонидович": 25,
-      "Огаркова Татьяна Михайловна": 26,
-      "Смолин Олег Николаевич": 281
+      "gas:candidate-vibid:2552000990097": 22,
+      "gas:candidate-vibid:2552000982914": 141,
+      "gas:candidate-vibid:2552000987491": 99,
+      "gas:candidate-vibid:2552000989928": 76,
+      "gas:candidate-vibid:2552000995699": 25,
+      "gas:candidate-vibid:2552000995804": 26,
+      "gas:candidate-vibid:2552000987306": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14545,13 +14545,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 10,
-      "Атаманиченко Кирилл Игоревич": 41,
-      "Дубовский Евгений Юрьевич": 46,
-      "Жуков Владимир Алексеевич": 36,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 154
+      "gas:candidate-vibid:2552000990097": 10,
+      "gas:candidate-vibid:2552000982914": 41,
+      "gas:candidate-vibid:2552000987491": 46,
+      "gas:candidate-vibid:2552000989928": 36,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14602,13 +14602,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 65,
-      "Дубовский Евгений Юрьевич": 65,
-      "Жуков Владимир Алексеевич": 39,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 13,
-      "Смолин Олег Николаевич": 193
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 65,
+      "gas:candidate-vibid:2552000987491": 65,
+      "gas:candidate-vibid:2552000989928": 39,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 13,
+      "gas:candidate-vibid:2552000987306": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14659,13 +14659,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 56,
-      "Дубовский Евгений Юрьевич": 40,
-      "Жуков Владимир Алексеевич": 42,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 12,
-      "Смолин Олег Николаевич": 199
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 56,
+      "gas:candidate-vibid:2552000987491": 40,
+      "gas:candidate-vibid:2552000989928": 42,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 12,
+      "gas:candidate-vibid:2552000987306": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",
@@ -14716,13 +14716,13 @@ export const duma_2016_uik_463_region_55_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 21,
-      "Атаманиченко Кирилл Игоревич": 61,
-      "Дубовский Евгений Юрьевич": 63,
-      "Жуков Владимир Алексеевич": 49,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 25,
-      "Смолин Олег Николаевич": 272
+      "gas:candidate-vibid:2552000990097": 21,
+      "gas:candidate-vibid:2552000982914": 61,
+      "gas:candidate-vibid:2552000987491": 63,
+      "gas:candidate-vibid:2552000989928": 49,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 25,
+      "gas:candidate-vibid:2552000987306": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897341&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897341&type=464",

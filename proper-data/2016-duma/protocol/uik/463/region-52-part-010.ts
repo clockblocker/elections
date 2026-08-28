@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 121,
-      "Лычагин Кирилл Александрович": 4,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 52,
-      "Чугрин Дмитрий Борисович": 13,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 121,
+      "gas:candidate-vibid:25220001207313": 4,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 52,
+      "gas:candidate-vibid:25220001204558": 13,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120057&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120057&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 9,
-      "Кавинов Артем Александрович": 248,
-      "Лычагин Кирилл Александрович": 11,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 17,
-      "Чугрин Дмитрий Борисович": 29,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 9,
+      "gas:candidate-vibid:25220001211523": 248,
+      "gas:candidate-vibid:25220001207313": 11,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 17,
+      "gas:candidate-vibid:25220001204558": 29,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120057&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120057&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 119,
-      "Лычагин Кирилл Александрович": 2,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 27,
-      "Чугрин Дмитрий Борисович": 18,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 119,
+      "gas:candidate-vibid:25220001207313": 2,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 27,
+      "gas:candidate-vibid:25220001204558": 18,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120057&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120057&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 28,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 312,
-      "Лычагин Кирилл Александрович": 4,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 32,
-      "Чугрин Дмитрий Борисович": 28,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 28,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 312,
+      "gas:candidate-vibid:25220001207313": 4,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 32,
+      "gas:candidate-vibid:25220001204558": 28,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 526,
-      "Лычагин Кирилл Александрович": 7,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 35,
-      "Чугрин Дмитрий Борисович": 9,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 526,
+      "gas:candidate-vibid:25220001207313": 7,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 35,
+      "gas:candidate-vibid:25220001204558": 9,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 23,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 475,
-      "Лычагин Кирилл Александрович": 11,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 66,
-      "Чугрин Дмитрий Борисович": 48,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 23,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 475,
+      "gas:candidate-vibid:25220001207313": 11,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 66,
+      "gas:candidate-vibid:25220001204558": 48,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 19,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 318,
-      "Лычагин Кирилл Александрович": 2,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 25,
-      "Чугрин Дмитрий Борисович": 9,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 19,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 318,
+      "gas:candidate-vibid:25220001207313": 2,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 25,
+      "gas:candidate-vibid:25220001204558": 9,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 24,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 328,
-      "Лычагин Кирилл Александрович": 9,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 59,
-      "Чугрин Дмитрий Борисович": 31,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 17
+      "gas:candidate-vibid:25220001212548": 24,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 328,
+      "gas:candidate-vibid:25220001207313": 9,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 59,
+      "gas:candidate-vibid:25220001204558": 31,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 57,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 354,
-      "Лычагин Кирилл Александрович": 13,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 152,
-      "Чугрин Дмитрий Борисович": 62,
-      "Шамов Виктор Андреевич": 13,
-      "Юдин Сергей Федорович": 16
+      "gas:candidate-vibid:25220001212548": 57,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 354,
+      "gas:candidate-vibid:25220001207313": 13,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 152,
+      "gas:candidate-vibid:25220001204558": 62,
+      "gas:candidate-vibid:25220001214904": 13,
+      "gas:candidate-vibid:25220001208836": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 131,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 104,
-      "Лычагин Кирилл Александрович": 3,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 26,
-      "Чугрин Дмитрий Борисович": 25,
-      "Шамов Виктор Андреевич": 0,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 131,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 104,
+      "gas:candidate-vibid:25220001207313": 3,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 26,
+      "gas:candidate-vibid:25220001204558": 25,
+      "gas:candidate-vibid:25220001214904": 0,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 108,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 308,
-      "Лычагин Кирилл Александрович": 4,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 24,
-      "Чугрин Дмитрий Борисович": 28,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 13
+      "gas:candidate-vibid:25220001212548": 108,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 308,
+      "gas:candidate-vibid:25220001207313": 4,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 24,
+      "gas:candidate-vibid:25220001204558": 28,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 20,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 120,
-      "Лычагин Кирилл Александрович": 2,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 12,
-      "Чугрин Дмитрий Борисович": 18,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 20,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 120,
+      "gas:candidate-vibid:25220001207313": 2,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 12,
+      "gas:candidate-vibid:25220001204558": 18,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 96,
-      "Лычагин Кирилл Александрович": 2,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 14,
-      "Чугрин Дмитрий Борисович": 19,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 96,
+      "gas:candidate-vibid:25220001207313": 2,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 14,
+      "gas:candidate-vibid:25220001204558": 19,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 9,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 213,
-      "Лычагин Кирилл Александрович": 2,
-      "Севридова Ирина Сергеевна": 4,
-      "Сухарев Михаил Владимирович": 18,
-      "Чугрин Дмитрий Борисович": 17,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 9,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 213,
+      "gas:candidate-vibid:25220001207313": 2,
+      "gas:candidate-vibid:25220001215971": 4,
+      "gas:candidate-vibid:25220001208859": 18,
+      "gas:candidate-vibid:25220001204558": 17,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 78,
-      "Лычагин Кирилл Александрович": 0,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 10,
-      "Чугрин Дмитрий Борисович": 12,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 78,
+      "gas:candidate-vibid:25220001207313": 0,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 10,
+      "gas:candidate-vibid:25220001204558": 12,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 11,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 184,
-      "Лычагин Кирилл Александрович": 7,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 18,
-      "Чугрин Дмитрий Борисович": 14,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 11,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 184,
+      "gas:candidate-vibid:25220001207313": 7,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 18,
+      "gas:candidate-vibid:25220001204558": 14,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 129,
-      "Лычагин Кирилл Александрович": 6,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 32,
-      "Чугрин Дмитрий Борисович": 16,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 129,
+      "gas:candidate-vibid:25220001207313": 6,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 32,
+      "gas:candidate-vibid:25220001204558": 16,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 118,
-      "Лычагин Кирилл Александрович": 1,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 9,
-      "Чугрин Дмитрий Борисович": 2,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 118,
+      "gas:candidate-vibid:25220001207313": 1,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 9,
+      "gas:candidate-vibid:25220001204558": 2,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 45,
-      "Лычагин Кирилл Александрович": 1,
-      "Севридова Ирина Сергеевна": 0,
-      "Сухарев Михаил Владимирович": 5,
-      "Чугрин Дмитрий Борисович": 7,
-      "Шамов Виктор Андреевич": 0,
-      "Юдин Сергей Федорович": 1
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 45,
+      "gas:candidate-vibid:25220001207313": 1,
+      "gas:candidate-vibid:25220001215971": 0,
+      "gas:candidate-vibid:25220001208859": 5,
+      "gas:candidate-vibid:25220001204558": 7,
+      "gas:candidate-vibid:25220001214904": 0,
+      "gas:candidate-vibid:25220001208836": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 28,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 133,
-      "Лычагин Кирилл Александрович": 3,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 46,
-      "Чугрин Дмитрий Борисович": 34,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 12
+      "gas:candidate-vibid:25220001212548": 28,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 133,
+      "gas:candidate-vibid:25220001207313": 3,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 46,
+      "gas:candidate-vibid:25220001204558": 34,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 189,
-      "Лычагин Кирилл Александрович": 2,
-      "Севридова Ирина Сергеевна": 0,
-      "Сухарев Михаил Владимирович": 10,
-      "Чугрин Дмитрий Борисович": 6,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 3
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 189,
+      "gas:candidate-vibid:25220001207313": 2,
+      "gas:candidate-vibid:25220001215971": 0,
+      "gas:candidate-vibid:25220001208859": 10,
+      "gas:candidate-vibid:25220001204558": 6,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 109,
-      "Лычагин Кирилл Александрович": 3,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 16,
-      "Чугрин Дмитрий Борисович": 10,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 3
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 109,
+      "gas:candidate-vibid:25220001207313": 3,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 16,
+      "gas:candidate-vibid:25220001204558": 10,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 1,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 198,
-      "Лычагин Кирилл Александрович": 2,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 4,
-      "Чугрин Дмитрий Борисович": 5,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 6
+      "gas:candidate-vibid:25220001212548": 1,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 198,
+      "gas:candidate-vibid:25220001207313": 2,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 4,
+      "gas:candidate-vibid:25220001204558": 5,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 12,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 114,
-      "Лычагин Кирилл Александрович": 1,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 18,
-      "Чугрин Дмитрий Борисович": 15,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 12,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 114,
+      "gas:candidate-vibid:25220001207313": 1,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 18,
+      "gas:candidate-vibid:25220001204558": 15,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 174,
-      "Лычагин Кирилл Александрович": 0,
-      "Севридова Ирина Сергеевна": 0,
-      "Сухарев Михаил Владимирович": 2,
-      "Чугрин Дмитрий Борисович": 2,
-      "Шамов Виктор Андреевич": 0,
-      "Юдин Сергей Федорович": 0
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 174,
+      "gas:candidate-vibid:25220001207313": 0,
+      "gas:candidate-vibid:25220001215971": 0,
+      "gas:candidate-vibid:25220001208859": 2,
+      "gas:candidate-vibid:25220001204558": 2,
+      "gas:candidate-vibid:25220001214904": 0,
+      "gas:candidate-vibid:25220001208836": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120058&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120058&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 21,
-      "Зыков Роман Александрович": 8,
-      "Кавинов Артем Александрович": 837,
-      "Лычагин Кирилл Александрович": 14,
-      "Севридова Ирина Сергеевна": 13,
-      "Сухарев Михаил Владимирович": 77,
-      "Чугрин Дмитрий Борисович": 41,
-      "Шамов Виктор Андреевич": 15,
-      "Юдин Сергей Федорович": 31
+      "gas:candidate-vibid:25220001212548": 21,
+      "gas:candidate-vibid:25220001211320": 8,
+      "gas:candidate-vibid:25220001211523": 837,
+      "gas:candidate-vibid:25220001207313": 14,
+      "gas:candidate-vibid:25220001215971": 13,
+      "gas:candidate-vibid:25220001208859": 77,
+      "gas:candidate-vibid:25220001204558": 41,
+      "gas:candidate-vibid:25220001214904": 15,
+      "gas:candidate-vibid:25220001208836": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 10,
-      "Зыков Роман Александрович": 11,
-      "Кавинов Артем Александрович": 1018,
-      "Лычагин Кирилл Александрович": 23,
-      "Севридова Ирина Сергеевна": 12,
-      "Сухарев Михаил Владимирович": 75,
-      "Чугрин Дмитрий Борисович": 64,
-      "Шамов Виктор Андреевич": 11,
-      "Юдин Сергей Федорович": 28
+      "gas:candidate-vibid:25220001212548": 10,
+      "gas:candidate-vibid:25220001211320": 11,
+      "gas:candidate-vibid:25220001211523": 1018,
+      "gas:candidate-vibid:25220001207313": 23,
+      "gas:candidate-vibid:25220001215971": 12,
+      "gas:candidate-vibid:25220001208859": 75,
+      "gas:candidate-vibid:25220001204558": 64,
+      "gas:candidate-vibid:25220001214904": 11,
+      "gas:candidate-vibid:25220001208836": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 0,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 163,
-      "Лычагин Кирилл Александрович": 0,
-      "Севридова Ирина Сергеевна": 0,
-      "Сухарев Михаил Владимирович": 6,
-      "Чугрин Дмитрий Борисович": 6,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 1
+      "gas:candidate-vibid:25220001212548": 0,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 163,
+      "gas:candidate-vibid:25220001207313": 0,
+      "gas:candidate-vibid:25220001215971": 0,
+      "gas:candidate-vibid:25220001208859": 6,
+      "gas:candidate-vibid:25220001204558": 6,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 121,
-      "Лычагин Кирилл Александрович": 3,
-      "Севридова Ирина Сергеевна": 4,
-      "Сухарев Михаил Владимирович": 4,
-      "Чугрин Дмитрий Борисович": 3,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 3
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 121,
+      "gas:candidate-vibid:25220001207313": 3,
+      "gas:candidate-vibid:25220001215971": 4,
+      "gas:candidate-vibid:25220001208859": 4,
+      "gas:candidate-vibid:25220001204558": 3,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 8,
-      "Кавинов Артем Александрович": 183,
-      "Лычагин Кирилл Александрович": 10,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 26,
-      "Чугрин Дмитрий Борисович": 14,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 8,
+      "gas:candidate-vibid:25220001211523": 183,
+      "gas:candidate-vibid:25220001207313": 10,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 26,
+      "gas:candidate-vibid:25220001204558": 14,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 6,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 112,
-      "Лычагин Кирилл Александрович": 10,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 51,
-      "Чугрин Дмитрий Борисович": 23,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 12
+      "gas:candidate-vibid:25220001212548": 6,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 112,
+      "gas:candidate-vibid:25220001207313": 10,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 51,
+      "gas:candidate-vibid:25220001204558": 23,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 6,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 69,
-      "Лычагин Кирилл Александрович": 4,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 14,
-      "Чугрин Дмитрий Борисович": 14,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 6,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 69,
+      "gas:candidate-vibid:25220001207313": 4,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 14,
+      "gas:candidate-vibid:25220001204558": 14,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 205,
-      "Лычагин Кирилл Александрович": 3,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 10,
-      "Чугрин Дмитрий Борисович": 6,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 205,
+      "gas:candidate-vibid:25220001207313": 3,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 10,
+      "gas:candidate-vibid:25220001204558": 6,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 0,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 298,
-      "Лычагин Кирилл Александрович": 5,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 4,
-      "Чугрин Дмитрий Борисович": 10,
-      "Шамов Виктор Андреевич": 0,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 0,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 298,
+      "gas:candidate-vibid:25220001207313": 5,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 4,
+      "gas:candidate-vibid:25220001204558": 10,
+      "gas:candidate-vibid:25220001214904": 0,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 18,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 506,
-      "Лычагин Кирилл Александрович": 17,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 24,
-      "Чугрин Дмитрий Борисович": 34,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 12
+      "gas:candidate-vibid:25220001212548": 18,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 506,
+      "gas:candidate-vibid:25220001207313": 17,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 24,
+      "gas:candidate-vibid:25220001204558": 34,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 10,
-      "Кавинов Артем Александрович": 394,
-      "Лычагин Кирилл Александрович": 8,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 15,
-      "Чугрин Дмитрий Борисович": 18,
-      "Шамов Виктор Андреевич": 11,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 10,
+      "gas:candidate-vibid:25220001211523": 394,
+      "gas:candidate-vibid:25220001207313": 8,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 15,
+      "gas:candidate-vibid:25220001204558": 18,
+      "gas:candidate-vibid:25220001214904": 11,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 159,
-      "Лычагин Кирилл Александрович": 3,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 18,
-      "Чугрин Дмитрий Борисович": 6,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 159,
+      "gas:candidate-vibid:25220001207313": 3,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 18,
+      "gas:candidate-vibid:25220001204558": 6,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 1,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 182,
-      "Лычагин Кирилл Александрович": 4,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 12,
-      "Чугрин Дмитрий Борисович": 9,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 1,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 182,
+      "gas:candidate-vibid:25220001207313": 4,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 12,
+      "gas:candidate-vibid:25220001204558": 9,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 21,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 991,
-      "Лычагин Кирилл Александрович": 19,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 36,
-      "Чугрин Дмитрий Борисович": 34,
-      "Шамов Виктор Андреевич": 21,
-      "Юдин Сергей Федорович": 15
+      "gas:candidate-vibid:25220001212548": 21,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 991,
+      "gas:candidate-vibid:25220001207313": 19,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 36,
+      "gas:candidate-vibid:25220001204558": 34,
+      "gas:candidate-vibid:25220001214904": 21,
+      "gas:candidate-vibid:25220001208836": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120059&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120059&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 6,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 170,
-      "Лычагин Кирилл Александрович": 25,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 46,
-      "Чугрин Дмитрий Борисович": 155,
-      "Шамов Виктор Андреевич": 10,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 6,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 170,
+      "gas:candidate-vibid:25220001207313": 25,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 46,
+      "gas:candidate-vibid:25220001204558": 155,
+      "gas:candidate-vibid:25220001214904": 10,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 12,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 391,
-      "Лычагин Кирилл Александрович": 18,
-      "Севридова Ирина Сергеевна": 17,
-      "Сухарев Михаил Владимирович": 39,
-      "Чугрин Дмитрий Борисович": 126,
-      "Шамов Виктор Андреевич": 19,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 12,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 391,
+      "gas:candidate-vibid:25220001207313": 18,
+      "gas:candidate-vibid:25220001215971": 17,
+      "gas:candidate-vibid:25220001208859": 39,
+      "gas:candidate-vibid:25220001204558": 126,
+      "gas:candidate-vibid:25220001214904": 19,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 9,
-      "Зыков Роман Александрович": 9,
-      "Кавинов Артем Александрович": 282,
-      "Лычагин Кирилл Александрович": 20,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 68,
-      "Чугрин Дмитрий Борисович": 128,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 9,
+      "gas:candidate-vibid:25220001211320": 9,
+      "gas:candidate-vibid:25220001211523": 282,
+      "gas:candidate-vibid:25220001207313": 20,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 68,
+      "gas:candidate-vibid:25220001204558": 128,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 10,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 176,
-      "Лычагин Кирилл Александрович": 22,
-      "Севридова Ирина Сергеевна": 14,
-      "Сухарев Михаил Владимирович": 59,
-      "Чугрин Дмитрий Борисович": 127,
-      "Шамов Виктор Андреевич": 12,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 10,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 176,
+      "gas:candidate-vibid:25220001207313": 22,
+      "gas:candidate-vibid:25220001215971": 14,
+      "gas:candidate-vibid:25220001208859": 59,
+      "gas:candidate-vibid:25220001204558": 127,
+      "gas:candidate-vibid:25220001214904": 12,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 238,
-      "Лычагин Кирилл Александрович": 31,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 53,
-      "Чугрин Дмитрий Борисович": 139,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 238,
+      "gas:candidate-vibid:25220001207313": 31,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 53,
+      "gas:candidate-vibid:25220001204558": 139,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 12,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 159,
-      "Лычагин Кирилл Александрович": 28,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 56,
-      "Чугрин Дмитрий Борисович": 134,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 15
+      "gas:candidate-vibid:25220001212548": 12,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 159,
+      "gas:candidate-vibid:25220001207313": 28,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 56,
+      "gas:candidate-vibid:25220001204558": 134,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 17,
-      "Зыков Роман Александрович": 8,
-      "Кавинов Артем Александрович": 213,
-      "Лычагин Кирилл Александрович": 28,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 75,
-      "Чугрин Дмитрий Борисович": 156,
-      "Шамов Виктор Андреевич": 16,
-      "Юдин Сергей Федорович": 16
+      "gas:candidate-vibid:25220001212548": 17,
+      "gas:candidate-vibid:25220001211320": 8,
+      "gas:candidate-vibid:25220001211523": 213,
+      "gas:candidate-vibid:25220001207313": 28,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 75,
+      "gas:candidate-vibid:25220001204558": 156,
+      "gas:candidate-vibid:25220001214904": 16,
+      "gas:candidate-vibid:25220001208836": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 58,
-      "Зыков Роман Александрович": 35,
-      "Кавинов Артем Александрович": 302,
-      "Лычагин Кирилл Александрович": 38,
-      "Севридова Ирина Сергеевна": 52,
-      "Сухарев Михаил Владимирович": 102,
-      "Чугрин Дмитрий Борисович": 353,
-      "Шамов Виктор Андреевич": 42,
-      "Юдин Сергей Федорович": 37
+      "gas:candidate-vibid:25220001212548": 58,
+      "gas:candidate-vibid:25220001211320": 35,
+      "gas:candidate-vibid:25220001211523": 302,
+      "gas:candidate-vibid:25220001207313": 38,
+      "gas:candidate-vibid:25220001215971": 52,
+      "gas:candidate-vibid:25220001208859": 102,
+      "gas:candidate-vibid:25220001204558": 353,
+      "gas:candidate-vibid:25220001214904": 42,
+      "gas:candidate-vibid:25220001208836": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 11,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 315,
-      "Лычагин Кирилл Александрович": 11,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 42,
-      "Чугрин Дмитрий Борисович": 99,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 6
+      "gas:candidate-vibid:25220001212548": 11,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 315,
+      "gas:candidate-vibid:25220001207313": 11,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 42,
+      "gas:candidate-vibid:25220001204558": 99,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 353,
-      "Лычагин Кирилл Александрович": 16,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 59,
-      "Чугрин Дмитрий Борисович": 92,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 353,
+      "gas:candidate-vibid:25220001207313": 16,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 59,
+      "gas:candidate-vibid:25220001204558": 92,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 122,
-      "Лычагин Кирилл Александрович": 28,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 57,
-      "Чугрин Дмитрий Борисович": 116,
-      "Шамов Виктор Андреевич": 11,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 122,
+      "gas:candidate-vibid:25220001207313": 28,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 57,
+      "gas:candidate-vibid:25220001204558": 116,
+      "gas:candidate-vibid:25220001214904": 11,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 1,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 93,
-      "Лычагин Кирилл Александрович": 3,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 17,
-      "Чугрин Дмитрий Борисович": 27,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 1,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 93,
+      "gas:candidate-vibid:25220001207313": 3,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 17,
+      "gas:candidate-vibid:25220001204558": 27,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 27,
-      "Зыков Роман Александрович": 30,
-      "Кавинов Артем Александрович": 178,
-      "Лычагин Кирилл Александрович": 32,
-      "Севридова Ирина Сергеевна": 25,
-      "Сухарев Михаил Владимирович": 39,
-      "Чугрин Дмитрий Борисович": 87,
-      "Шамов Виктор Андреевич": 20,
-      "Юдин Сергей Федорович": 19
+      "gas:candidate-vibid:25220001212548": 27,
+      "gas:candidate-vibid:25220001211320": 30,
+      "gas:candidate-vibid:25220001211523": 178,
+      "gas:candidate-vibid:25220001207313": 32,
+      "gas:candidate-vibid:25220001215971": 25,
+      "gas:candidate-vibid:25220001208859": 39,
+      "gas:candidate-vibid:25220001204558": 87,
+      "gas:candidate-vibid:25220001214904": 20,
+      "gas:candidate-vibid:25220001208836": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 261,
-      "Лычагин Кирилл Александрович": 18,
-      "Севридова Ирина Сергеевна": 11,
-      "Сухарев Михаил Владимирович": 56,
-      "Чугрин Дмитрий Борисович": 145,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 14
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 261,
+      "gas:candidate-vibid:25220001207313": 18,
+      "gas:candidate-vibid:25220001215971": 11,
+      "gas:candidate-vibid:25220001208859": 56,
+      "gas:candidate-vibid:25220001204558": 145,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 6,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 203,
-      "Лычагин Кирилл Александрович": 26,
-      "Севридова Ирина Сергеевна": 12,
-      "Сухарев Михаил Владимирович": 52,
-      "Чугрин Дмитрий Борисович": 141,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 6,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 203,
+      "gas:candidate-vibid:25220001207313": 26,
+      "gas:candidate-vibid:25220001215971": 12,
+      "gas:candidate-vibid:25220001208859": 52,
+      "gas:candidate-vibid:25220001204558": 141,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 280,
-      "Лычагин Кирилл Александрович": 18,
-      "Севридова Ирина Сергеевна": 4,
-      "Сухарев Михаил Владимирович": 54,
-      "Чугрин Дмитрий Борисович": 120,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 280,
+      "gas:candidate-vibid:25220001207313": 18,
+      "gas:candidate-vibid:25220001215971": 4,
+      "gas:candidate-vibid:25220001208859": 54,
+      "gas:candidate-vibid:25220001204558": 120,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 6,
-      "Зыков Роман Александрович": 10,
-      "Кавинов Артем Александрович": 97,
-      "Лычагин Кирилл Александрович": 8,
-      "Севридова Ирина Сергеевна": 11,
-      "Сухарев Михаил Владимирович": 51,
-      "Чугрин Дмитрий Борисович": 95,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 6,
+      "gas:candidate-vibid:25220001211320": 10,
+      "gas:candidate-vibid:25220001211523": 97,
+      "gas:candidate-vibid:25220001207313": 8,
+      "gas:candidate-vibid:25220001215971": 11,
+      "gas:candidate-vibid:25220001208859": 51,
+      "gas:candidate-vibid:25220001204558": 95,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 1,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 214,
-      "Лычагин Кирилл Александрович": 9,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 32,
-      "Чугрин Дмитрий Борисович": 84,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 3
+      "gas:candidate-vibid:25220001212548": 1,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 214,
+      "gas:candidate-vibid:25220001207313": 9,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 32,
+      "gas:candidate-vibid:25220001204558": 84,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 161,
-      "Лычагин Кирилл Александрович": 26,
-      "Севридова Ирина Сергеевна": 4,
-      "Сухарев Михаил Владимирович": 49,
-      "Чугрин Дмитрий Борисович": 122,
-      "Шамов Виктор Андреевич": 10,
-      "Юдин Сергей Федорович": 13
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 161,
+      "gas:candidate-vibid:25220001207313": 26,
+      "gas:candidate-vibid:25220001215971": 4,
+      "gas:candidate-vibid:25220001208859": 49,
+      "gas:candidate-vibid:25220001204558": 122,
+      "gas:candidate-vibid:25220001214904": 10,
+      "gas:candidate-vibid:25220001208836": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 11,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 281,
-      "Лычагин Кирилл Александрович": 11,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 34,
-      "Чугрин Дмитрий Борисович": 81,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 11,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 281,
+      "gas:candidate-vibid:25220001207313": 11,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 34,
+      "gas:candidate-vibid:25220001204558": 81,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 187,
-      "Лычагин Кирилл Александрович": 10,
-      "Севридова Ирина Сергеевна": 0,
-      "Сухарев Михаил Владимирович": 61,
-      "Чугрин Дмитрий Борисович": 121,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 3
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 187,
+      "gas:candidate-vibid:25220001207313": 10,
+      "gas:candidate-vibid:25220001215971": 0,
+      "gas:candidate-vibid:25220001208859": 61,
+      "gas:candidate-vibid:25220001204558": 121,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 6,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 214,
-      "Лычагин Кирилл Александрович": 8,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 33,
-      "Чугрин Дмитрий Борисович": 117,
-      "Шамов Виктор Андреевич": 15,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 6,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 214,
+      "gas:candidate-vibid:25220001207313": 8,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 33,
+      "gas:candidate-vibid:25220001204558": 117,
+      "gas:candidate-vibid:25220001214904": 15,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 14,
-      "Кавинов Артем Александрович": 131,
-      "Лычагин Кирилл Александрович": 21,
-      "Севридова Ирина Сергеевна": 19,
-      "Сухарев Михаил Владимирович": 88,
-      "Чугрин Дмитрий Борисович": 138,
-      "Шамов Виктор Андреевич": 13,
-      "Юдин Сергей Федорович": 23
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 14,
+      "gas:candidate-vibid:25220001211523": 131,
+      "gas:candidate-vibid:25220001207313": 21,
+      "gas:candidate-vibid:25220001215971": 19,
+      "gas:candidate-vibid:25220001208859": 88,
+      "gas:candidate-vibid:25220001204558": 138,
+      "gas:candidate-vibid:25220001214904": 13,
+      "gas:candidate-vibid:25220001208836": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 12,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 164,
-      "Лычагин Кирилл Александрович": 32,
-      "Севридова Ирина Сергеевна": 14,
-      "Сухарев Михаил Владимирович": 72,
-      "Чугрин Дмитрий Борисович": 143,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 12,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 164,
+      "gas:candidate-vibid:25220001207313": 32,
+      "gas:candidate-vibid:25220001215971": 14,
+      "gas:candidate-vibid:25220001208859": 72,
+      "gas:candidate-vibid:25220001204558": 143,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 140,
-      "Лычагин Кирилл Александрович": 20,
-      "Севридова Ирина Сергеевна": 11,
-      "Сухарев Михаил Владимирович": 69,
-      "Чугрин Дмитрий Борисович": 123,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 140,
+      "gas:candidate-vibid:25220001207313": 20,
+      "gas:candidate-vibid:25220001215971": 11,
+      "gas:candidate-vibid:25220001208859": 69,
+      "gas:candidate-vibid:25220001204558": 123,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 12,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 159,
-      "Лычагин Кирилл Александрович": 23,
-      "Севридова Ирина Сергеевна": 4,
-      "Сухарев Михаил Владимирович": 72,
-      "Чугрин Дмитрий Борисович": 99,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 12,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 159,
+      "gas:candidate-vibid:25220001207313": 23,
+      "gas:candidate-vibid:25220001215971": 4,
+      "gas:candidate-vibid:25220001208859": 72,
+      "gas:candidate-vibid:25220001204558": 99,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 126,
-      "Лычагин Кирилл Александрович": 12,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 70,
-      "Чугрин Дмитрий Борисович": 78,
-      "Шамов Виктор Андреевич": 10,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 126,
+      "gas:candidate-vibid:25220001207313": 12,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 70,
+      "gas:candidate-vibid:25220001204558": 78,
+      "gas:candidate-vibid:25220001214904": 10,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 151,
-      "Лычагин Кирилл Александрович": 12,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 36,
-      "Чугрин Дмитрий Борисович": 56,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 151,
+      "gas:candidate-vibid:25220001207313": 12,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 36,
+      "gas:candidate-vibid:25220001204558": 56,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 265,
-      "Лычагин Кирилл Александрович": 18,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 63,
-      "Чугрин Дмитрий Борисович": 102,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 265,
+      "gas:candidate-vibid:25220001207313": 18,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 63,
+      "gas:candidate-vibid:25220001204558": 102,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 462,
-      "Лычагин Кирилл Александрович": 4,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 49,
-      "Чугрин Дмитрий Борисович": 79,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 1
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 462,
+      "gas:candidate-vibid:25220001207313": 4,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 49,
+      "gas:candidate-vibid:25220001204558": 79,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 164,
-      "Лычагин Кирилл Александрович": 31,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 83,
-      "Чугрин Дмитрий Борисович": 129,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 164,
+      "gas:candidate-vibid:25220001207313": 31,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 83,
+      "gas:candidate-vibid:25220001204558": 129,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 665,
-      "Лычагин Кирилл Александрович": 24,
-      "Севридова Ирина Сергеевна": 14,
-      "Сухарев Михаил Владимирович": 67,
-      "Чугрин Дмитрий Борисович": 136,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 22
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 665,
+      "gas:candidate-vibid:25220001207313": 24,
+      "gas:candidate-vibid:25220001215971": 14,
+      "gas:candidate-vibid:25220001208859": 67,
+      "gas:candidate-vibid:25220001204558": 136,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 11,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 234,
-      "Лычагин Кирилл Александрович": 19,
-      "Севридова Ирина Сергеевна": 14,
-      "Сухарев Михаил Владимирович": 72,
-      "Чугрин Дмитрий Борисович": 125,
-      "Шамов Виктор Андреевич": 10,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 11,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 234,
+      "gas:candidate-vibid:25220001207313": 19,
+      "gas:candidate-vibid:25220001215971": 14,
+      "gas:candidate-vibid:25220001208859": 72,
+      "gas:candidate-vibid:25220001204558": 125,
+      "gas:candidate-vibid:25220001214904": 10,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 165,
-      "Лычагин Кирилл Александрович": 19,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 43,
-      "Чугрин Дмитрий Борисович": 87,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 165,
+      "gas:candidate-vibid:25220001207313": 19,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 43,
+      "gas:candidate-vibid:25220001204558": 87,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 1
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 9,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 172,
-      "Лычагин Кирилл Александрович": 15,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 44,
-      "Чугрин Дмитрий Борисович": 124,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 9,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 172,
+      "gas:candidate-vibid:25220001207313": 15,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 44,
+      "gas:candidate-vibid:25220001204558": 124,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 21,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 207,
-      "Лычагин Кирилл Александрович": 24,
-      "Севридова Ирина Сергеевна": 14,
-      "Сухарев Михаил Владимирович": 75,
-      "Чугрин Дмитрий Борисович": 157,
-      "Шамов Виктор Андреевич": 19,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 21,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 207,
+      "gas:candidate-vibid:25220001207313": 24,
+      "gas:candidate-vibid:25220001215971": 14,
+      "gas:candidate-vibid:25220001208859": 75,
+      "gas:candidate-vibid:25220001204558": 157,
+      "gas:candidate-vibid:25220001214904": 19,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 168,
-      "Лычагин Кирилл Александрович": 25,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 61,
-      "Чугрин Дмитрий Борисович": 149,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 15
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 168,
+      "gas:candidate-vibid:25220001207313": 25,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 61,
+      "gas:candidate-vibid:25220001204558": 149,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 217,
-      "Лычагин Кирилл Александрович": 26,
-      "Севридова Ирина Сергеевна": 17,
-      "Сухарев Михаил Владимирович": 66,
-      "Чугрин Дмитрий Борисович": 144,
-      "Шамов Виктор Андреевич": 12,
-      "Юдин Сергей Федорович": 19
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 217,
+      "gas:candidate-vibid:25220001207313": 26,
+      "gas:candidate-vibid:25220001215971": 17,
+      "gas:candidate-vibid:25220001208859": 66,
+      "gas:candidate-vibid:25220001204558": 144,
+      "gas:candidate-vibid:25220001214904": 12,
+      "gas:candidate-vibid:25220001208836": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 0,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 228,
-      "Лычагин Кирилл Александрович": 0,
-      "Севридова Ирина Сергеевна": 0,
-      "Сухарев Михаил Владимирович": 0,
-      "Чугрин Дмитрий Борисович": 2,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 0
+      "gas:candidate-vibid:25220001212548": 0,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 228,
+      "gas:candidate-vibid:25220001207313": 0,
+      "gas:candidate-vibid:25220001215971": 0,
+      "gas:candidate-vibid:25220001208859": 0,
+      "gas:candidate-vibid:25220001204558": 2,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 118,
-      "Лычагин Кирилл Александрович": 11,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 34,
-      "Чугрин Дмитрий Борисович": 62,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 118,
+      "gas:candidate-vibid:25220001207313": 11,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 34,
+      "gas:candidate-vibid:25220001204558": 62,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 249,
-      "Лычагин Кирилл Александрович": 13,
-      "Севридова Ирина Сергеевна": 4,
-      "Сухарев Михаил Владимирович": 30,
-      "Чугрин Дмитрий Борисович": 106,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 249,
+      "gas:candidate-vibid:25220001207313": 13,
+      "gas:candidate-vibid:25220001215971": 4,
+      "gas:candidate-vibid:25220001208859": 30,
+      "gas:candidate-vibid:25220001204558": 106,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 174,
-      "Лычагин Кирилл Александрович": 13,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 52,
-      "Чугрин Дмитрий Борисович": 87,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 13
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 174,
+      "gas:candidate-vibid:25220001207313": 13,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 52,
+      "gas:candidate-vibid:25220001204558": 87,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 94,
-      "Лычагин Кирилл Александрович": 10,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 38,
-      "Чугрин Дмитрий Борисович": 78,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 94,
+      "gas:candidate-vibid:25220001207313": 10,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 38,
+      "gas:candidate-vibid:25220001204558": 78,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 13,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 109,
-      "Лычагин Кирилл Александрович": 16,
-      "Севридова Ирина Сергеевна": 12,
-      "Сухарев Михаил Владимирович": 32,
-      "Чугрин Дмитрий Борисович": 61,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 13,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 109,
+      "gas:candidate-vibid:25220001207313": 16,
+      "gas:candidate-vibid:25220001215971": 12,
+      "gas:candidate-vibid:25220001208859": 32,
+      "gas:candidate-vibid:25220001204558": 61,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 12,
-      "Зыков Роман Александрович": 10,
-      "Кавинов Артем Александрович": 323,
-      "Лычагин Кирилл Александрович": 26,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 35,
-      "Чугрин Дмитрий Борисович": 31,
-      "Шамов Виктор Андреевич": 10,
-      "Юдин Сергей Федорович": 17
+      "gas:candidate-vibid:25220001212548": 12,
+      "gas:candidate-vibid:25220001211320": 10,
+      "gas:candidate-vibid:25220001211523": 323,
+      "gas:candidate-vibid:25220001207313": 26,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 35,
+      "gas:candidate-vibid:25220001204558": 31,
+      "gas:candidate-vibid:25220001214904": 10,
+      "gas:candidate-vibid:25220001208836": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 1,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 349,
-      "Лычагин Кирилл Александрович": 11,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 27,
-      "Чугрин Дмитрий Борисович": 123,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 0
+      "gas:candidate-vibid:25220001212548": 1,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 349,
+      "gas:candidate-vibid:25220001207313": 11,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 27,
+      "gas:candidate-vibid:25220001204558": 123,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 8,
-      "Кавинов Артем Александрович": 109,
-      "Лычагин Кирилл Александрович": 13,
-      "Севридова Ирина Сергеевна": 22,
-      "Сухарев Михаил Владимирович": 44,
-      "Чугрин Дмитрий Борисович": 65,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 8,
+      "gas:candidate-vibid:25220001211523": 109,
+      "gas:candidate-vibid:25220001207313": 13,
+      "gas:candidate-vibid:25220001215971": 22,
+      "gas:candidate-vibid:25220001208859": 44,
+      "gas:candidate-vibid:25220001204558": 65,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 0,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 191,
-      "Лычагин Кирилл Александрович": 1,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 40,
-      "Чугрин Дмитрий Борисович": 102,
-      "Шамов Виктор Андреевич": 0,
-      "Юдин Сергей Федорович": 0
+      "gas:candidate-vibid:25220001212548": 0,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 191,
+      "gas:candidate-vibid:25220001207313": 1,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 40,
+      "gas:candidate-vibid:25220001204558": 102,
+      "gas:candidate-vibid:25220001214904": 0,
+      "gas:candidate-vibid:25220001208836": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 233,
-      "Лычагин Кирилл Александрович": 10,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 64,
-      "Чугрин Дмитрий Борисович": 64,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 233,
+      "gas:candidate-vibid:25220001207313": 10,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 64,
+      "gas:candidate-vibid:25220001204558": 64,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 13,
-      "Зыков Роман Александрович": 10,
-      "Кавинов Артем Александрович": 116,
-      "Лычагин Кирилл Александрович": 18,
-      "Севридова Ирина Сергеевна": 15,
-      "Сухарев Михаил Владимирович": 63,
-      "Чугрин Дмитрий Борисович": 57,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 13,
+      "gas:candidate-vibid:25220001211320": 10,
+      "gas:candidate-vibid:25220001211523": 116,
+      "gas:candidate-vibid:25220001207313": 18,
+      "gas:candidate-vibid:25220001215971": 15,
+      "gas:candidate-vibid:25220001208859": 63,
+      "gas:candidate-vibid:25220001204558": 57,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 5,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 397,
-      "Лычагин Кирилл Александрович": 14,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 77,
-      "Чугрин Дмитрий Борисович": 115,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 5,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 397,
+      "gas:candidate-vibid:25220001207313": 14,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 77,
+      "gas:candidate-vibid:25220001204558": 115,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 106,
-      "Лычагин Кирилл Александрович": 10,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 42,
-      "Чугрин Дмитрий Борисович": 67,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 106,
+      "gas:candidate-vibid:25220001207313": 10,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 42,
+      "gas:candidate-vibid:25220001204558": 67,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 186,
-      "Лычагин Кирилл Александрович": 17,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 36,
-      "Чугрин Дмитрий Борисович": 103,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 186,
+      "gas:candidate-vibid:25220001207313": 17,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 36,
+      "gas:candidate-vibid:25220001204558": 103,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 5,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 176,
-      "Лычагин Кирилл Александрович": 16,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 20,
-      "Чугрин Дмитрий Борисович": 49,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 6
+      "gas:candidate-vibid:25220001212548": 5,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 176,
+      "gas:candidate-vibid:25220001207313": 16,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 20,
+      "gas:candidate-vibid:25220001204558": 49,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 68,
-      "Лычагин Кирилл Александрович": 5,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 30,
-      "Чугрин Дмитрий Борисович": 63,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 68,
+      "gas:candidate-vibid:25220001207313": 5,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 30,
+      "gas:candidate-vibid:25220001204558": 63,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 333,
-      "Лычагин Кирилл Александрович": 22,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 56,
-      "Чугрин Дмитрий Борисович": 63,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 13
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 333,
+      "gas:candidate-vibid:25220001207313": 22,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 56,
+      "gas:candidate-vibid:25220001204558": 63,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 10,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 265,
-      "Лычагин Кирилл Александрович": 13,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 51,
-      "Чугрин Дмитрий Борисович": 57,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 10,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 265,
+      "gas:candidate-vibid:25220001207313": 13,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 51,
+      "gas:candidate-vibid:25220001204558": 57,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 8,
-      "Кавинов Артем Александрович": 522,
-      "Лычагин Кирилл Александрович": 27,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 28,
-      "Чугрин Дмитрий Борисович": 41,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 16
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 8,
+      "gas:candidate-vibid:25220001211523": 522,
+      "gas:candidate-vibid:25220001207313": 27,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 28,
+      "gas:candidate-vibid:25220001204558": 41,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 9,
-      "Кавинов Артем Александрович": 315,
-      "Лычагин Кирилл Александрович": 20,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 56,
-      "Чугрин Дмитрий Борисович": 46,
-      "Шамов Виктор Андреевич": 12,
-      "Юдин Сергей Федорович": 12
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 9,
+      "gas:candidate-vibid:25220001211523": 315,
+      "gas:candidate-vibid:25220001207313": 20,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 56,
+      "gas:candidate-vibid:25220001204558": 46,
+      "gas:candidate-vibid:25220001214904": 12,
+      "gas:candidate-vibid:25220001208836": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 9,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 305,
-      "Лычагин Кирилл Александрович": 28,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 72,
-      "Чугрин Дмитрий Борисович": 53,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 12
+      "gas:candidate-vibid:25220001212548": 9,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 305,
+      "gas:candidate-vibid:25220001207313": 28,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 72,
+      "gas:candidate-vibid:25220001204558": 53,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 189,
-      "Лычагин Кирилл Александрович": 17,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 28,
-      "Чугрин Дмитрий Борисович": 50,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 3
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 189,
+      "gas:candidate-vibid:25220001207313": 17,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 28,
+      "gas:candidate-vibid:25220001204558": 50,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 95,
-      "Лычагин Кирилл Александрович": 13,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 16,
-      "Чугрин Дмитрий Борисович": 20,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 95,
+      "gas:candidate-vibid:25220001207313": 13,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 16,
+      "gas:candidate-vibid:25220001204558": 20,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 259,
-      "Лычагин Кирилл Александрович": 23,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 54,
-      "Чугрин Дмитрий Борисович": 88,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 259,
+      "gas:candidate-vibid:25220001207313": 23,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 54,
+      "gas:candidate-vibid:25220001204558": 88,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 12,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 316,
-      "Лычагин Кирилл Александрович": 16,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 57,
-      "Чугрин Дмитрий Борисович": 62,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 11
+      "gas:candidate-vibid:25220001212548": 12,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 316,
+      "gas:candidate-vibid:25220001207313": 16,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 57,
+      "gas:candidate-vibid:25220001204558": 62,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 8,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 183,
-      "Лычагин Кирилл Александрович": 19,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 36,
-      "Чугрин Дмитрий Борисович": 48,
-      "Шамов Виктор Андреевич": 10,
-      "Юдин Сергей Федорович": 3
+      "gas:candidate-vibid:25220001212548": 8,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 183,
+      "gas:candidate-vibid:25220001207313": 19,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 36,
+      "gas:candidate-vibid:25220001204558": 48,
+      "gas:candidate-vibid:25220001214904": 10,
+      "gas:candidate-vibid:25220001208836": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 10,
-      "Зыков Роман Александрович": 13,
-      "Кавинов Артем Александрович": 295,
-      "Лычагин Кирилл Александрович": 16,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 51,
-      "Чугрин Дмитрий Борисович": 40,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 10,
+      "gas:candidate-vibid:25220001211320": 13,
+      "gas:candidate-vibid:25220001211523": 295,
+      "gas:candidate-vibid:25220001207313": 16,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 51,
+      "gas:candidate-vibid:25220001204558": 40,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 10,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 394,
-      "Лычагин Кирилл Александрович": 27,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 63,
-      "Чугрин Дмитрий Борисович": 46,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 10,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 394,
+      "gas:candidate-vibid:25220001207313": 27,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 63,
+      "gas:candidate-vibid:25220001204558": 46,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 333,
-      "Лычагин Кирилл Александрович": 25,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 38,
-      "Чугрин Дмитрий Борисович": 38,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 333,
+      "gas:candidate-vibid:25220001207313": 25,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 38,
+      "gas:candidate-vibid:25220001204558": 38,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 10,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 291,
-      "Лычагин Кирилл Александрович": 28,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 43,
-      "Чугрин Дмитрий Борисович": 50,
-      "Шамов Виктор Андреевич": 7,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 10,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 291,
+      "gas:candidate-vibid:25220001207313": 28,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 43,
+      "gas:candidate-vibid:25220001204558": 50,
+      "gas:candidate-vibid:25220001214904": 7,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 334,
-      "Лычагин Кирилл Александрович": 13,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 30,
-      "Чугрин Дмитрий Борисович": 41,
-      "Шамов Виктор Андреевич": 9,
-      "Юдин Сергей Федорович": 10
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 334,
+      "gas:candidate-vibid:25220001207313": 13,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 30,
+      "gas:candidate-vibid:25220001204558": 41,
+      "gas:candidate-vibid:25220001214904": 9,
+      "gas:candidate-vibid:25220001208836": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 113,
-      "Лычагин Кирилл Александрович": 12,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 32,
-      "Чугрин Дмитрий Борисович": 37,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 113,
+      "gas:candidate-vibid:25220001207313": 12,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 32,
+      "gas:candidate-vibid:25220001204558": 37,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 11,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 259,
-      "Лычагин Кирилл Александрович": 9,
-      "Севридова Ирина Сергеевна": 8,
-      "Сухарев Михаил Владимирович": 49,
-      "Чугрин Дмитрий Борисович": 38,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 9
+      "gas:candidate-vibid:25220001212548": 11,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 259,
+      "gas:candidate-vibid:25220001207313": 9,
+      "gas:candidate-vibid:25220001215971": 8,
+      "gas:candidate-vibid:25220001208859": 49,
+      "gas:candidate-vibid:25220001204558": 38,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 6,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 206,
-      "Лычагин Кирилл Александрович": 14,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 35,
-      "Чугрин Дмитрий Борисович": 88,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 6,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 206,
+      "gas:candidate-vibid:25220001207313": 14,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 35,
+      "gas:candidate-vibid:25220001204558": 88,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 14,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 320,
-      "Лычагин Кирилл Александрович": 20,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 60,
-      "Чугрин Дмитрий Борисович": 100,
-      "Шамов Виктор Андреевич": 5,
-      "Юдин Сергей Федорович": 16
+      "gas:candidate-vibid:25220001212548": 14,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 320,
+      "gas:candidate-vibid:25220001207313": 20,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 60,
+      "gas:candidate-vibid:25220001204558": 100,
+      "gas:candidate-vibid:25220001214904": 5,
+      "gas:candidate-vibid:25220001208836": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 125,
-      "Лычагин Кирилл Александрович": 9,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 20,
-      "Чугрин Дмитрий Борисович": 33,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 125,
+      "gas:candidate-vibid:25220001207313": 9,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 20,
+      "gas:candidate-vibid:25220001204558": 33,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 5,
-      "Кавинов Артем Александрович": 70,
-      "Лычагин Кирилл Александрович": 7,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 15,
-      "Чугрин Дмитрий Борисович": 29,
-      "Шамов Виктор Андреевич": 4,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 5,
+      "gas:candidate-vibid:25220001211523": 70,
+      "gas:candidate-vibid:25220001207313": 7,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 15,
+      "gas:candidate-vibid:25220001204558": 29,
+      "gas:candidate-vibid:25220001214904": 4,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 15,
-      "Зыков Роман Александрович": 4,
-      "Кавинов Артем Александрович": 362,
-      "Лычагин Кирилл Александрович": 15,
-      "Севридова Ирина Сергеевна": 5,
-      "Сухарев Михаил Владимирович": 36,
-      "Чугрин Дмитрий Борисович": 137,
-      "Шамов Виктор Андреевич": 13,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 15,
+      "gas:candidate-vibid:25220001211320": 4,
+      "gas:candidate-vibid:25220001211523": 362,
+      "gas:candidate-vibid:25220001207313": 15,
+      "gas:candidate-vibid:25220001215971": 5,
+      "gas:candidate-vibid:25220001208859": 36,
+      "gas:candidate-vibid:25220001204558": 137,
+      "gas:candidate-vibid:25220001214904": 13,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 16,
-      "Зыков Роман Александрович": 12,
-      "Кавинов Артем Александрович": 384,
-      "Лычагин Кирилл Александрович": 23,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 65,
-      "Чугрин Дмитрий Борисович": 173,
-      "Шамов Виктор Андреевич": 6,
-      "Юдин Сергей Федорович": 18
+      "gas:candidate-vibid:25220001212548": 16,
+      "gas:candidate-vibid:25220001211320": 12,
+      "gas:candidate-vibid:25220001211523": 384,
+      "gas:candidate-vibid:25220001207313": 23,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 65,
+      "gas:candidate-vibid:25220001204558": 173,
+      "gas:candidate-vibid:25220001214904": 6,
+      "gas:candidate-vibid:25220001208836": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 3,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 135,
-      "Лычагин Кирилл Александрович": 8,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 19,
-      "Чугрин Дмитрий Борисович": 18,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 2
+      "gas:candidate-vibid:25220001212548": 3,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 135,
+      "gas:candidate-vibid:25220001207313": 8,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 19,
+      "gas:candidate-vibid:25220001204558": 18,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 5,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 224,
-      "Лычагин Кирилл Александрович": 16,
-      "Севридова Ирина Сергеевна": 9,
-      "Сухарев Михаил Владимирович": 59,
-      "Чугрин Дмитрий Борисович": 99,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 6
+      "gas:candidate-vibid:25220001212548": 5,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 224,
+      "gas:candidate-vibid:25220001207313": 16,
+      "gas:candidate-vibid:25220001215971": 9,
+      "gas:candidate-vibid:25220001208859": 59,
+      "gas:candidate-vibid:25220001204558": 99,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 1,
-      "Кавинов Артем Александрович": 270,
-      "Лычагин Кирилл Александрович": 7,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 21,
-      "Чугрин Дмитрий Борисович": 80,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 1,
+      "gas:candidate-vibid:25220001211523": 270,
+      "gas:candidate-vibid:25220001207313": 7,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 21,
+      "gas:candidate-vibid:25220001204558": 80,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 181,
-      "Лычагин Кирилл Александрович": 7,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 37,
-      "Чугрин Дмитрий Борисович": 84,
-      "Шамов Виктор Андреевич": 1,
-      "Юдин Сергей Федорович": 5
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 181,
+      "gas:candidate-vibid:25220001207313": 7,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 37,
+      "gas:candidate-vibid:25220001204558": 84,
+      "gas:candidate-vibid:25220001214904": 1,
+      "gas:candidate-vibid:25220001208836": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 1,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 70,
-      "Лычагин Кирилл Александрович": 1,
-      "Севридова Ирина Сергеевна": 0,
-      "Сухарев Михаил Владимирович": 12,
-      "Чугрин Дмитрий Борисович": 25,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 1
+      "gas:candidate-vibid:25220001212548": 1,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 70,
+      "gas:candidate-vibid:25220001207313": 1,
+      "gas:candidate-vibid:25220001215971": 0,
+      "gas:candidate-vibid:25220001208859": 12,
+      "gas:candidate-vibid:25220001204558": 25,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 7,
-      "Кавинов Артем Александрович": 134,
-      "Лычагин Кирилл Александрович": 9,
-      "Севридова Ирина Сергеевна": 6,
-      "Сухарев Михаил Владимирович": 36,
-      "Чугрин Дмитрий Борисович": 64,
-      "Шамов Виктор Андреевич": 2,
-      "Юдин Сергей Федорович": 14
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 7,
+      "gas:candidate-vibid:25220001211523": 134,
+      "gas:candidate-vibid:25220001207313": 9,
+      "gas:candidate-vibid:25220001215971": 6,
+      "gas:candidate-vibid:25220001208859": 36,
+      "gas:candidate-vibid:25220001204558": 64,
+      "gas:candidate-vibid:25220001214904": 2,
+      "gas:candidate-vibid:25220001208836": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 2,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 217,
-      "Лычагин Кирилл Александрович": 35,
-      "Севридова Ирина Сергеевна": 10,
-      "Сухарев Михаил Владимирович": 77,
-      "Чугрин Дмитрий Борисович": 93,
-      "Шамов Виктор Андреевич": 8,
-      "Юдин Сергей Федорович": 18
+      "gas:candidate-vibid:25220001212548": 2,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 217,
+      "gas:candidate-vibid:25220001207313": 35,
+      "gas:candidate-vibid:25220001215971": 10,
+      "gas:candidate-vibid:25220001208859": 77,
+      "gas:candidate-vibid:25220001204558": 93,
+      "gas:candidate-vibid:25220001214904": 8,
+      "gas:candidate-vibid:25220001208836": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 5,
-      "Зыков Роман Александрович": 8,
-      "Кавинов Артем Александрович": 166,
-      "Лычагин Кирилл Александрович": 35,
-      "Севридова Ирина Сергеевна": 12,
-      "Сухарев Михаил Владимирович": 72,
-      "Чугрин Дмитрий Борисович": 77,
-      "Шамов Виктор Андреевич": 10,
-      "Юдин Сергей Федорович": 26
+      "gas:candidate-vibid:25220001212548": 5,
+      "gas:candidate-vibid:25220001211320": 8,
+      "gas:candidate-vibid:25220001211523": 166,
+      "gas:candidate-vibid:25220001207313": 35,
+      "gas:candidate-vibid:25220001215971": 12,
+      "gas:candidate-vibid:25220001208859": 72,
+      "gas:candidate-vibid:25220001204558": 77,
+      "gas:candidate-vibid:25220001214904": 10,
+      "gas:candidate-vibid:25220001208836": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 5,
-      "Зыков Роман Александрович": 0,
-      "Кавинов Артем Александрович": 469,
-      "Лычагин Кирилл Александрович": 14,
-      "Севридова Ирина Сергеевна": 7,
-      "Сухарев Михаил Владимирович": 55,
-      "Чугрин Дмитрий Борисович": 87,
-      "Шамов Виктор Андреевич": 0,
-      "Юдин Сергей Федорович": 8
+      "gas:candidate-vibid:25220001212548": 5,
+      "gas:candidate-vibid:25220001211320": 0,
+      "gas:candidate-vibid:25220001211523": 469,
+      "gas:candidate-vibid:25220001207313": 14,
+      "gas:candidate-vibid:25220001215971": 7,
+      "gas:candidate-vibid:25220001208859": 55,
+      "gas:candidate-vibid:25220001204558": 87,
+      "gas:candidate-vibid:25220001214904": 0,
+      "gas:candidate-vibid:25220001208836": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 7,
-      "Зыков Роман Александрович": 2,
-      "Кавинов Артем Александрович": 178,
-      "Лычагин Кирилл Александрович": 7,
-      "Севридова Ирина Сергеевна": 2,
-      "Сухарев Михаил Владимирович": 23,
-      "Чугрин Дмитрий Борисович": 21,
-      "Шамов Виктор Андреевич": 0,
-      "Юдин Сергей Федорович": 7
+      "gas:candidate-vibid:25220001212548": 7,
+      "gas:candidate-vibid:25220001211320": 2,
+      "gas:candidate-vibid:25220001211523": 178,
+      "gas:candidate-vibid:25220001207313": 7,
+      "gas:candidate-vibid:25220001215971": 2,
+      "gas:candidate-vibid:25220001208859": 23,
+      "gas:candidate-vibid:25220001204558": 21,
+      "gas:candidate-vibid:25220001214904": 0,
+      "gas:candidate-vibid:25220001208836": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 5,
-      "Зыков Роман Александрович": 6,
-      "Кавинов Артем Александрович": 64,
-      "Лычагин Кирилл Александрович": 10,
-      "Севридова Ирина Сергеевна": 3,
-      "Сухарев Михаил Владимирович": 41,
-      "Чугрин Дмитрий Борисович": 26,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 5,
+      "gas:candidate-vibid:25220001211320": 6,
+      "gas:candidate-vibid:25220001211523": 64,
+      "gas:candidate-vibid:25220001207313": 10,
+      "gas:candidate-vibid:25220001215971": 3,
+      "gas:candidate-vibid:25220001208859": 41,
+      "gas:candidate-vibid:25220001204558": 26,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ветошкин Алексей Алексеевич": 4,
-      "Зыков Роман Александрович": 3,
-      "Кавинов Артем Александрович": 201,
-      "Лычагин Кирилл Александрович": 9,
-      "Севридова Ирина Сергеевна": 1,
-      "Сухарев Михаил Владимирович": 24,
-      "Чугрин Дмитрий Борисович": 22,
-      "Шамов Виктор Андреевич": 3,
-      "Юдин Сергей Федорович": 4
+      "gas:candidate-vibid:25220001212548": 4,
+      "gas:candidate-vibid:25220001211320": 3,
+      "gas:candidate-vibid:25220001211523": 201,
+      "gas:candidate-vibid:25220001207313": 9,
+      "gas:candidate-vibid:25220001215971": 1,
+      "gas:candidate-vibid:25220001208859": 24,
+      "gas:candidate-vibid:25220001204558": 22,
+      "gas:candidate-vibid:25220001214904": 3,
+      "gas:candidate-vibid:25220001208836": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000174&tvd=25220001120060&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120060&type=464",
@@ -7654,17 +7654,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 6,
-      "Гончаров Игорь Сергеевич": 9,
-      "Косовских Александр Альбертович": 11,
-      "Назарова Наталья Васильевна": 249,
-      "Померанцев Илья Валерьевич": 4,
-      "Пономарев Владимир Александрович": 4,
-      "Разумовский Александр Васильевич": 54,
-      "Рябов Николай Федорович": 72,
-      "Смирнов Евгений Витальевич": 6,
-      "Фазулжанова Нажия Алиевна": 16,
-      "Шатилов Михаил Павлович": 41
+      "gas:candidate-vibid:25220001215937": 6,
+      "gas:candidate-vibid:25220001214344": 9,
+      "gas:candidate-vibid:25220001212559": 11,
+      "gas:candidate-vibid:25220001211309": 249,
+      "gas:candidate-vibid:25220001216760": 4,
+      "gas:candidate-vibid:25220001214871": 4,
+      "gas:candidate-vibid:25220001207368": 54,
+      "gas:candidate-vibid:25220001211796": 72,
+      "gas:candidate-vibid:25220001215926": 6,
+      "gas:candidate-vibid:25220001208814": 16,
+      "gas:candidate-vibid:25220001204498": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -7715,17 +7715,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 10,
-      "Гончаров Игорь Сергеевич": 12,
-      "Косовских Александр Альбертович": 4,
-      "Назарова Наталья Васильевна": 397,
-      "Померанцев Илья Валерьевич": 2,
-      "Пономарев Владимир Александрович": 6,
-      "Разумовский Александр Васильевич": 65,
-      "Рябов Николай Федорович": 76,
-      "Смирнов Евгений Витальевич": 2,
-      "Фазулжанова Нажия Алиевна": 9,
-      "Шатилов Михаил Павлович": 58
+      "gas:candidate-vibid:25220001215937": 10,
+      "gas:candidate-vibid:25220001214344": 12,
+      "gas:candidate-vibid:25220001212559": 4,
+      "gas:candidate-vibid:25220001211309": 397,
+      "gas:candidate-vibid:25220001216760": 2,
+      "gas:candidate-vibid:25220001214871": 6,
+      "gas:candidate-vibid:25220001207368": 65,
+      "gas:candidate-vibid:25220001211796": 76,
+      "gas:candidate-vibid:25220001215926": 2,
+      "gas:candidate-vibid:25220001208814": 9,
+      "gas:candidate-vibid:25220001204498": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -7776,17 +7776,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 17,
-      "Гончаров Игорь Сергеевич": 21,
-      "Косовских Александр Альбертович": 12,
-      "Назарова Наталья Васильевна": 344,
-      "Померанцев Илья Валерьевич": 6,
-      "Пономарев Владимир Александрович": 16,
-      "Разумовский Александр Васильевич": 90,
-      "Рябов Николай Федорович": 121,
-      "Смирнов Евгений Витальевич": 12,
-      "Фазулжанова Нажия Алиевна": 11,
-      "Шатилов Михаил Павлович": 74
+      "gas:candidate-vibid:25220001215937": 17,
+      "gas:candidate-vibid:25220001214344": 21,
+      "gas:candidate-vibid:25220001212559": 12,
+      "gas:candidate-vibid:25220001211309": 344,
+      "gas:candidate-vibid:25220001216760": 6,
+      "gas:candidate-vibid:25220001214871": 16,
+      "gas:candidate-vibid:25220001207368": 90,
+      "gas:candidate-vibid:25220001211796": 121,
+      "gas:candidate-vibid:25220001215926": 12,
+      "gas:candidate-vibid:25220001208814": 11,
+      "gas:candidate-vibid:25220001204498": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -7837,17 +7837,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 11,
-      "Гончаров Игорь Сергеевич": 17,
-      "Косовских Александр Альбертович": 21,
-      "Назарова Наталья Васильевна": 361,
-      "Померанцев Илья Валерьевич": 7,
-      "Пономарев Владимир Александрович": 14,
-      "Разумовский Александр Васильевич": 83,
-      "Рябов Николай Федорович": 115,
-      "Смирнов Евгений Витальевич": 16,
-      "Фазулжанова Нажия Алиевна": 13,
-      "Шатилов Михаил Павлович": 100
+      "gas:candidate-vibid:25220001215937": 11,
+      "gas:candidate-vibid:25220001214344": 17,
+      "gas:candidate-vibid:25220001212559": 21,
+      "gas:candidate-vibid:25220001211309": 361,
+      "gas:candidate-vibid:25220001216760": 7,
+      "gas:candidate-vibid:25220001214871": 14,
+      "gas:candidate-vibid:25220001207368": 83,
+      "gas:candidate-vibid:25220001211796": 115,
+      "gas:candidate-vibid:25220001215926": 16,
+      "gas:candidate-vibid:25220001208814": 13,
+      "gas:candidate-vibid:25220001204498": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -7898,17 +7898,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 9,
-      "Гончаров Игорь Сергеевич": 7,
-      "Косовских Александр Альбертович": 13,
-      "Назарова Наталья Васильевна": 233,
-      "Померанцев Илья Валерьевич": 6,
-      "Пономарев Владимир Александрович": 13,
-      "Разумовский Александр Васильевич": 46,
-      "Рябов Николай Федорович": 63,
-      "Смирнов Евгений Витальевич": 9,
-      "Фазулжанова Нажия Алиевна": 6,
-      "Шатилов Михаил Павлович": 38
+      "gas:candidate-vibid:25220001215937": 9,
+      "gas:candidate-vibid:25220001214344": 7,
+      "gas:candidate-vibid:25220001212559": 13,
+      "gas:candidate-vibid:25220001211309": 233,
+      "gas:candidate-vibid:25220001216760": 6,
+      "gas:candidate-vibid:25220001214871": 13,
+      "gas:candidate-vibid:25220001207368": 46,
+      "gas:candidate-vibid:25220001211796": 63,
+      "gas:candidate-vibid:25220001215926": 9,
+      "gas:candidate-vibid:25220001208814": 6,
+      "gas:candidate-vibid:25220001204498": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -7959,17 +7959,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 4,
-      "Гончаров Игорь Сергеевич": 4,
-      "Косовских Александр Альбертович": 9,
-      "Назарова Наталья Васильевна": 269,
-      "Померанцев Илья Валерьевич": 4,
-      "Пономарев Владимир Александрович": 12,
-      "Разумовский Александр Васильевич": 41,
-      "Рябов Николай Федорович": 86,
-      "Смирнов Евгений Витальевич": 5,
-      "Фазулжанова Нажия Алиевна": 8,
-      "Шатилов Михаил Павлович": 59
+      "gas:candidate-vibid:25220001215937": 4,
+      "gas:candidate-vibid:25220001214344": 4,
+      "gas:candidate-vibid:25220001212559": 9,
+      "gas:candidate-vibid:25220001211309": 269,
+      "gas:candidate-vibid:25220001216760": 4,
+      "gas:candidate-vibid:25220001214871": 12,
+      "gas:candidate-vibid:25220001207368": 41,
+      "gas:candidate-vibid:25220001211796": 86,
+      "gas:candidate-vibid:25220001215926": 5,
+      "gas:candidate-vibid:25220001208814": 8,
+      "gas:candidate-vibid:25220001204498": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8020,17 +8020,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 5,
-      "Гончаров Игорь Сергеевич": 5,
-      "Косовских Александр Альбертович": 10,
-      "Назарова Наталья Васильевна": 238,
-      "Померанцев Илья Валерьевич": 2,
-      "Пономарев Владимир Александрович": 21,
-      "Разумовский Александр Васильевич": 35,
-      "Рябов Николай Федорович": 70,
-      "Смирнов Евгений Витальевич": 0,
-      "Фазулжанова Нажия Алиевна": 13,
-      "Шатилов Михаил Павлович": 36
+      "gas:candidate-vibid:25220001215937": 5,
+      "gas:candidate-vibid:25220001214344": 5,
+      "gas:candidate-vibid:25220001212559": 10,
+      "gas:candidate-vibid:25220001211309": 238,
+      "gas:candidate-vibid:25220001216760": 2,
+      "gas:candidate-vibid:25220001214871": 21,
+      "gas:candidate-vibid:25220001207368": 35,
+      "gas:candidate-vibid:25220001211796": 70,
+      "gas:candidate-vibid:25220001215926": 0,
+      "gas:candidate-vibid:25220001208814": 13,
+      "gas:candidate-vibid:25220001204498": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8081,17 +8081,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 3,
-      "Гончаров Игорь Сергеевич": 6,
-      "Косовских Александр Альбертович": 12,
-      "Назарова Наталья Васильевна": 258,
-      "Померанцев Илья Валерьевич": 5,
-      "Пономарев Владимир Александрович": 20,
-      "Разумовский Александр Васильевич": 27,
-      "Рябов Николай Федорович": 45,
-      "Смирнов Евгений Витальевич": 4,
-      "Фазулжанова Нажия Алиевна": 6,
-      "Шатилов Михаил Павлович": 44
+      "gas:candidate-vibid:25220001215937": 3,
+      "gas:candidate-vibid:25220001214344": 6,
+      "gas:candidate-vibid:25220001212559": 12,
+      "gas:candidate-vibid:25220001211309": 258,
+      "gas:candidate-vibid:25220001216760": 5,
+      "gas:candidate-vibid:25220001214871": 20,
+      "gas:candidate-vibid:25220001207368": 27,
+      "gas:candidate-vibid:25220001211796": 45,
+      "gas:candidate-vibid:25220001215926": 4,
+      "gas:candidate-vibid:25220001208814": 6,
+      "gas:candidate-vibid:25220001204498": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8142,17 +8142,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 1,
-      "Гончаров Игорь Сергеевич": 1,
-      "Косовских Александр Альбертович": 5,
-      "Назарова Наталья Васильевна": 263,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 0,
-      "Разумовский Александр Васильевич": 13,
-      "Рябов Николай Федорович": 52,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 8,
-      "Шатилов Михаил Павлович": 44
+      "gas:candidate-vibid:25220001215937": 1,
+      "gas:candidate-vibid:25220001214344": 1,
+      "gas:candidate-vibid:25220001212559": 5,
+      "gas:candidate-vibid:25220001211309": 263,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 0,
+      "gas:candidate-vibid:25220001207368": 13,
+      "gas:candidate-vibid:25220001211796": 52,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 8,
+      "gas:candidate-vibid:25220001204498": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8203,17 +8203,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 9,
-      "Гончаров Игорь Сергеевич": 1,
-      "Косовских Александр Альбертович": 8,
-      "Назарова Наталья Васильевна": 186,
-      "Померанцев Илья Валерьевич": 4,
-      "Пономарев Владимир Александрович": 6,
-      "Разумовский Александр Васильевич": 39,
-      "Рябов Николай Федорович": 46,
-      "Смирнов Евгений Витальевич": 4,
-      "Фазулжанова Нажия Алиевна": 6,
-      "Шатилов Михаил Павлович": 35
+      "gas:candidate-vibid:25220001215937": 9,
+      "gas:candidate-vibid:25220001214344": 1,
+      "gas:candidate-vibid:25220001212559": 8,
+      "gas:candidate-vibid:25220001211309": 186,
+      "gas:candidate-vibid:25220001216760": 4,
+      "gas:candidate-vibid:25220001214871": 6,
+      "gas:candidate-vibid:25220001207368": 39,
+      "gas:candidate-vibid:25220001211796": 46,
+      "gas:candidate-vibid:25220001215926": 4,
+      "gas:candidate-vibid:25220001208814": 6,
+      "gas:candidate-vibid:25220001204498": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8264,17 +8264,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 0,
-      "Гончаров Игорь Сергеевич": 8,
-      "Косовских Александр Альбертович": 10,
-      "Назарова Наталья Васильевна": 282,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 0,
-      "Разумовский Александр Васильевич": 22,
-      "Рябов Николай Федорович": 31,
-      "Смирнов Евгений Витальевич": 0,
-      "Фазулжанова Нажия Алиевна": 13,
-      "Шатилов Михаил Павлович": 48
+      "gas:candidate-vibid:25220001215937": 0,
+      "gas:candidate-vibid:25220001214344": 8,
+      "gas:candidate-vibid:25220001212559": 10,
+      "gas:candidate-vibid:25220001211309": 282,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 0,
+      "gas:candidate-vibid:25220001207368": 22,
+      "gas:candidate-vibid:25220001211796": 31,
+      "gas:candidate-vibid:25220001215926": 0,
+      "gas:candidate-vibid:25220001208814": 13,
+      "gas:candidate-vibid:25220001204498": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8325,17 +8325,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 11,
-      "Гончаров Игорь Сергеевич": 16,
-      "Косовских Александр Альбертович": 25,
-      "Назарова Наталья Васильевна": 346,
-      "Померанцев Илья Валерьевич": 2,
-      "Пономарев Владимир Александрович": 20,
-      "Разумовский Александр Васильевич": 54,
-      "Рябов Николай Федорович": 75,
-      "Смирнов Евгений Витальевич": 9,
-      "Фазулжанова Нажия Алиевна": 16,
-      "Шатилов Михаил Павлович": 57
+      "gas:candidate-vibid:25220001215937": 11,
+      "gas:candidate-vibid:25220001214344": 16,
+      "gas:candidate-vibid:25220001212559": 25,
+      "gas:candidate-vibid:25220001211309": 346,
+      "gas:candidate-vibid:25220001216760": 2,
+      "gas:candidate-vibid:25220001214871": 20,
+      "gas:candidate-vibid:25220001207368": 54,
+      "gas:candidate-vibid:25220001211796": 75,
+      "gas:candidate-vibid:25220001215926": 9,
+      "gas:candidate-vibid:25220001208814": 16,
+      "gas:candidate-vibid:25220001204498": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8386,17 +8386,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 5,
-      "Гончаров Игорь Сергеевич": 9,
-      "Косовских Александр Альбертович": 24,
-      "Назарова Наталья Васильевна": 219,
-      "Померанцев Илья Валерьевич": 2,
-      "Пономарев Владимир Александрович": 10,
-      "Разумовский Александр Васильевич": 49,
-      "Рябов Николай Федорович": 77,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 10,
-      "Шатилов Михаил Павлович": 39
+      "gas:candidate-vibid:25220001215937": 5,
+      "gas:candidate-vibid:25220001214344": 9,
+      "gas:candidate-vibid:25220001212559": 24,
+      "gas:candidate-vibid:25220001211309": 219,
+      "gas:candidate-vibid:25220001216760": 2,
+      "gas:candidate-vibid:25220001214871": 10,
+      "gas:candidate-vibid:25220001207368": 49,
+      "gas:candidate-vibid:25220001211796": 77,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 10,
+      "gas:candidate-vibid:25220001204498": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8447,17 +8447,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 3,
-      "Гончаров Игорь Сергеевич": 2,
-      "Косовских Александр Альбертович": 7,
-      "Назарова Наталья Васильевна": 319,
-      "Померанцев Илья Валерьевич": 1,
-      "Пономарев Владимир Александрович": 7,
-      "Разумовский Александр Васильевич": 45,
-      "Рябов Николай Федорович": 52,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 6,
-      "Шатилов Михаил Павлович": 44
+      "gas:candidate-vibid:25220001215937": 3,
+      "gas:candidate-vibid:25220001214344": 2,
+      "gas:candidate-vibid:25220001212559": 7,
+      "gas:candidate-vibid:25220001211309": 319,
+      "gas:candidate-vibid:25220001216760": 1,
+      "gas:candidate-vibid:25220001214871": 7,
+      "gas:candidate-vibid:25220001207368": 45,
+      "gas:candidate-vibid:25220001211796": 52,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 6,
+      "gas:candidate-vibid:25220001204498": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8508,17 +8508,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 12,
-      "Гончаров Игорь Сергеевич": 9,
-      "Косовских Александр Альбертович": 9,
-      "Назарова Наталья Васильевна": 252,
-      "Померанцев Илья Валерьевич": 8,
-      "Пономарев Владимир Александрович": 9,
-      "Разумовский Александр Васильевич": 50,
-      "Рябов Николай Федорович": 87,
-      "Смирнов Евгений Витальевич": 7,
-      "Фазулжанова Нажия Алиевна": 12,
-      "Шатилов Михаил Павлович": 57
+      "gas:candidate-vibid:25220001215937": 12,
+      "gas:candidate-vibid:25220001214344": 9,
+      "gas:candidate-vibid:25220001212559": 9,
+      "gas:candidate-vibid:25220001211309": 252,
+      "gas:candidate-vibid:25220001216760": 8,
+      "gas:candidate-vibid:25220001214871": 9,
+      "gas:candidate-vibid:25220001207368": 50,
+      "gas:candidate-vibid:25220001211796": 87,
+      "gas:candidate-vibid:25220001215926": 7,
+      "gas:candidate-vibid:25220001208814": 12,
+      "gas:candidate-vibid:25220001204498": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8569,17 +8569,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 10,
-      "Гончаров Игорь Сергеевич": 15,
-      "Косовских Александр Альбертович": 10,
-      "Назарова Наталья Васильевна": 534,
-      "Померанцев Илья Валерьевич": 6,
-      "Пономарев Владимир Александрович": 5,
-      "Разумовский Александр Васильевич": 38,
-      "Рябов Николай Федорович": 56,
-      "Смирнов Евгений Витальевич": 9,
-      "Фазулжанова Нажия Алиевна": 10,
-      "Шатилов Михаил Павлович": 39
+      "gas:candidate-vibid:25220001215937": 10,
+      "gas:candidate-vibid:25220001214344": 15,
+      "gas:candidate-vibid:25220001212559": 10,
+      "gas:candidate-vibid:25220001211309": 534,
+      "gas:candidate-vibid:25220001216760": 6,
+      "gas:candidate-vibid:25220001214871": 5,
+      "gas:candidate-vibid:25220001207368": 38,
+      "gas:candidate-vibid:25220001211796": 56,
+      "gas:candidate-vibid:25220001215926": 9,
+      "gas:candidate-vibid:25220001208814": 10,
+      "gas:candidate-vibid:25220001204498": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8630,17 +8630,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 0,
-      "Гончаров Игорь Сергеевич": 0,
-      "Косовских Александр Альбертович": 6,
-      "Назарова Наталья Васильевна": 446,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 0,
-      "Разумовский Александр Васильевич": 33,
-      "Рябов Николай Федорович": 89,
-      "Смирнов Евгений Витальевич": 5,
-      "Фазулжанова Нажия Алиевна": 10,
-      "Шатилов Михаил Павлович": 45
+      "gas:candidate-vibid:25220001215937": 0,
+      "gas:candidate-vibid:25220001214344": 0,
+      "gas:candidate-vibid:25220001212559": 6,
+      "gas:candidate-vibid:25220001211309": 446,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 0,
+      "gas:candidate-vibid:25220001207368": 33,
+      "gas:candidate-vibid:25220001211796": 89,
+      "gas:candidate-vibid:25220001215926": 5,
+      "gas:candidate-vibid:25220001208814": 10,
+      "gas:candidate-vibid:25220001204498": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8691,17 +8691,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 3,
-      "Гончаров Игорь Сергеевич": 6,
-      "Косовских Александр Альбертович": 12,
-      "Назарова Наталья Васильевна": 291,
-      "Померанцев Илья Валерьевич": 2,
-      "Пономарев Владимир Александрович": 10,
-      "Разумовский Александр Васильевич": 18,
-      "Рябов Николай Федорович": 61,
-      "Смирнов Евгений Витальевич": 8,
-      "Фазулжанова Нажия Алиевна": 10,
-      "Шатилов Михаил Павлович": 42
+      "gas:candidate-vibid:25220001215937": 3,
+      "gas:candidate-vibid:25220001214344": 6,
+      "gas:candidate-vibid:25220001212559": 12,
+      "gas:candidate-vibid:25220001211309": 291,
+      "gas:candidate-vibid:25220001216760": 2,
+      "gas:candidate-vibid:25220001214871": 10,
+      "gas:candidate-vibid:25220001207368": 18,
+      "gas:candidate-vibid:25220001211796": 61,
+      "gas:candidate-vibid:25220001215926": 8,
+      "gas:candidate-vibid:25220001208814": 10,
+      "gas:candidate-vibid:25220001204498": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8752,17 +8752,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 2,
-      "Гончаров Игорь Сергеевич": 2,
-      "Косовских Александр Альбертович": 2,
-      "Назарова Наталья Васильевна": 50,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 2,
-      "Разумовский Александр Васильевич": 5,
-      "Рябов Николай Федорович": 16,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 0,
-      "Шатилов Михаил Павлович": 21
+      "gas:candidate-vibid:25220001215937": 2,
+      "gas:candidate-vibid:25220001214344": 2,
+      "gas:candidate-vibid:25220001212559": 2,
+      "gas:candidate-vibid:25220001211309": 50,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 2,
+      "gas:candidate-vibid:25220001207368": 5,
+      "gas:candidate-vibid:25220001211796": 16,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 0,
+      "gas:candidate-vibid:25220001204498": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8813,17 +8813,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 7,
-      "Гончаров Игорь Сергеевич": 5,
-      "Косовских Александр Альбертович": 6,
-      "Назарова Наталья Васильевна": 121,
-      "Померанцев Илья Валерьевич": 1,
-      "Пономарев Владимир Александрович": 3,
-      "Разумовский Александр Васильевич": 16,
-      "Рябов Николай Федорович": 22,
-      "Смирнов Евгений Витальевич": 5,
-      "Фазулжанова Нажия Алиевна": 5,
-      "Шатилов Михаил Павлович": 24
+      "gas:candidate-vibid:25220001215937": 7,
+      "gas:candidate-vibid:25220001214344": 5,
+      "gas:candidate-vibid:25220001212559": 6,
+      "gas:candidate-vibid:25220001211309": 121,
+      "gas:candidate-vibid:25220001216760": 1,
+      "gas:candidate-vibid:25220001214871": 3,
+      "gas:candidate-vibid:25220001207368": 16,
+      "gas:candidate-vibid:25220001211796": 22,
+      "gas:candidate-vibid:25220001215926": 5,
+      "gas:candidate-vibid:25220001208814": 5,
+      "gas:candidate-vibid:25220001204498": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8874,17 +8874,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 6,
-      "Гончаров Игорь Сергеевич": 6,
-      "Косовских Александр Альбертович": 2,
-      "Назарова Наталья Васильевна": 201,
-      "Померанцев Илья Валерьевич": 3,
-      "Пономарев Владимир Александрович": 6,
-      "Разумовский Александр Васильевич": 19,
-      "Рябов Николай Федорович": 30,
-      "Смирнов Евгений Витальевич": 4,
-      "Фазулжанова Нажия Алиевна": 2,
-      "Шатилов Михаил Павлович": 27
+      "gas:candidate-vibid:25220001215937": 6,
+      "gas:candidate-vibid:25220001214344": 6,
+      "gas:candidate-vibid:25220001212559": 2,
+      "gas:candidate-vibid:25220001211309": 201,
+      "gas:candidate-vibid:25220001216760": 3,
+      "gas:candidate-vibid:25220001214871": 6,
+      "gas:candidate-vibid:25220001207368": 19,
+      "gas:candidate-vibid:25220001211796": 30,
+      "gas:candidate-vibid:25220001215926": 4,
+      "gas:candidate-vibid:25220001208814": 2,
+      "gas:candidate-vibid:25220001204498": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8935,17 +8935,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 9,
-      "Гончаров Игорь Сергеевич": 3,
-      "Косовских Александр Альбертович": 4,
-      "Назарова Наталья Васильевна": 157,
-      "Померанцев Илья Валерьевич": 5,
-      "Пономарев Владимир Александрович": 5,
-      "Разумовский Александр Васильевич": 9,
-      "Рябов Николай Федорович": 24,
-      "Смирнов Евгений Витальевич": 6,
-      "Фазулжанова Нажия Алиевна": 13,
-      "Шатилов Михаил Павлович": 32
+      "gas:candidate-vibid:25220001215937": 9,
+      "gas:candidate-vibid:25220001214344": 3,
+      "gas:candidate-vibid:25220001212559": 4,
+      "gas:candidate-vibid:25220001211309": 157,
+      "gas:candidate-vibid:25220001216760": 5,
+      "gas:candidate-vibid:25220001214871": 5,
+      "gas:candidate-vibid:25220001207368": 9,
+      "gas:candidate-vibid:25220001211796": 24,
+      "gas:candidate-vibid:25220001215926": 6,
+      "gas:candidate-vibid:25220001208814": 13,
+      "gas:candidate-vibid:25220001204498": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -8996,17 +8996,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 4,
-      "Гончаров Игорь Сергеевич": 0,
-      "Косовских Александр Альбертович": 4,
-      "Назарова Наталья Васильевна": 160,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 2,
-      "Разумовский Александр Васильевич": 19,
-      "Рябов Николай Федорович": 12,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 1,
-      "Шатилов Михаил Павлович": 22
+      "gas:candidate-vibid:25220001215937": 4,
+      "gas:candidate-vibid:25220001214344": 0,
+      "gas:candidate-vibid:25220001212559": 4,
+      "gas:candidate-vibid:25220001211309": 160,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 2,
+      "gas:candidate-vibid:25220001207368": 19,
+      "gas:candidate-vibid:25220001211796": 12,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 1,
+      "gas:candidate-vibid:25220001204498": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9057,17 +9057,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 2,
-      "Гончаров Игорь Сергеевич": 6,
-      "Косовских Александр Альбертович": 10,
-      "Назарова Наталья Васильевна": 114,
-      "Померанцев Илья Валерьевич": 5,
-      "Пономарев Владимир Александрович": 2,
-      "Разумовский Александр Васильевич": 13,
-      "Рябов Николай Федорович": 51,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 8,
-      "Шатилов Михаил Павлович": 19
+      "gas:candidate-vibid:25220001215937": 2,
+      "gas:candidate-vibid:25220001214344": 6,
+      "gas:candidate-vibid:25220001212559": 10,
+      "gas:candidate-vibid:25220001211309": 114,
+      "gas:candidate-vibid:25220001216760": 5,
+      "gas:candidate-vibid:25220001214871": 2,
+      "gas:candidate-vibid:25220001207368": 13,
+      "gas:candidate-vibid:25220001211796": 51,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 8,
+      "gas:candidate-vibid:25220001204498": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9118,17 +9118,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 80,
-      "Гончаров Игорь Сергеевич": 59,
-      "Косовских Александр Альбертович": 23,
-      "Назарова Наталья Васильевна": 639,
-      "Померанцев Илья Валерьевич": 30,
-      "Пономарев Владимир Александрович": 48,
-      "Разумовский Александр Васильевич": 46,
-      "Рябов Николай Федорович": 51,
-      "Смирнов Евгений Витальевич": 40,
-      "Фазулжанова Нажия Алиевна": 18,
-      "Шатилов Михаил Павлович": 61
+      "gas:candidate-vibid:25220001215937": 80,
+      "gas:candidate-vibid:25220001214344": 59,
+      "gas:candidate-vibid:25220001212559": 23,
+      "gas:candidate-vibid:25220001211309": 639,
+      "gas:candidate-vibid:25220001216760": 30,
+      "gas:candidate-vibid:25220001214871": 48,
+      "gas:candidate-vibid:25220001207368": 46,
+      "gas:candidate-vibid:25220001211796": 51,
+      "gas:candidate-vibid:25220001215926": 40,
+      "gas:candidate-vibid:25220001208814": 18,
+      "gas:candidate-vibid:25220001204498": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9179,17 +9179,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 17,
-      "Гончаров Игорь Сергеевич": 7,
-      "Косовских Александр Альбертович": 9,
-      "Назарова Наталья Васильевна": 197,
-      "Померанцев Илья Валерьевич": 3,
-      "Пономарев Владимир Александрович": 0,
-      "Разумовский Александр Васильевич": 42,
-      "Рябов Николай Федорович": 35,
-      "Смирнов Евгений Витальевич": 7,
-      "Фазулжанова Нажия Алиевна": 6,
-      "Шатилов Михаил Павлович": 41
+      "gas:candidate-vibid:25220001215937": 17,
+      "gas:candidate-vibid:25220001214344": 7,
+      "gas:candidate-vibid:25220001212559": 9,
+      "gas:candidate-vibid:25220001211309": 197,
+      "gas:candidate-vibid:25220001216760": 3,
+      "gas:candidate-vibid:25220001214871": 0,
+      "gas:candidate-vibid:25220001207368": 42,
+      "gas:candidate-vibid:25220001211796": 35,
+      "gas:candidate-vibid:25220001215926": 7,
+      "gas:candidate-vibid:25220001208814": 6,
+      "gas:candidate-vibid:25220001204498": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9240,17 +9240,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 23,
-      "Гончаров Игорь Сергеевич": 12,
-      "Косовских Александр Альбертович": 27,
-      "Назарова Наталья Васильевна": 616,
-      "Померанцев Илья Валерьевич": 3,
-      "Пономарев Владимир Александрович": 20,
-      "Разумовский Александр Васильевич": 70,
-      "Рябов Николай Федорович": 89,
-      "Смирнов Евгений Витальевич": 11,
-      "Фазулжанова Нажия Алиевна": 12,
-      "Шатилов Михаил Павлович": 81
+      "gas:candidate-vibid:25220001215937": 23,
+      "gas:candidate-vibid:25220001214344": 12,
+      "gas:candidate-vibid:25220001212559": 27,
+      "gas:candidate-vibid:25220001211309": 616,
+      "gas:candidate-vibid:25220001216760": 3,
+      "gas:candidate-vibid:25220001214871": 20,
+      "gas:candidate-vibid:25220001207368": 70,
+      "gas:candidate-vibid:25220001211796": 89,
+      "gas:candidate-vibid:25220001215926": 11,
+      "gas:candidate-vibid:25220001208814": 12,
+      "gas:candidate-vibid:25220001204498": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9301,17 +9301,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 9,
-      "Гончаров Игорь Сергеевич": 6,
-      "Косовских Александр Альбертович": 4,
-      "Назарова Наталья Васильевна": 733,
-      "Померанцев Илья Валерьевич": 4,
-      "Пономарев Владимир Александрович": 8,
-      "Разумовский Александр Васильевич": 40,
-      "Рябов Николай Федорович": 78,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 8,
-      "Шатилов Михаил Павлович": 28
+      "gas:candidate-vibid:25220001215937": 9,
+      "gas:candidate-vibid:25220001214344": 6,
+      "gas:candidate-vibid:25220001212559": 4,
+      "gas:candidate-vibid:25220001211309": 733,
+      "gas:candidate-vibid:25220001216760": 4,
+      "gas:candidate-vibid:25220001214871": 8,
+      "gas:candidate-vibid:25220001207368": 40,
+      "gas:candidate-vibid:25220001211796": 78,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 8,
+      "gas:candidate-vibid:25220001204498": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9362,17 +9362,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 7,
-      "Гончаров Игорь Сергеевич": 10,
-      "Косовских Александр Альбертович": 13,
-      "Назарова Наталья Васильевна": 254,
-      "Померанцев Илья Валерьевич": 4,
-      "Пономарев Владимир Александрович": 11,
-      "Разумовский Александр Васильевич": 44,
-      "Рябов Николай Федорович": 66,
-      "Смирнов Евгений Витальевич": 7,
-      "Фазулжанова Нажия Алиевна": 13,
-      "Шатилов Михаил Павлович": 58
+      "gas:candidate-vibid:25220001215937": 7,
+      "gas:candidate-vibid:25220001214344": 10,
+      "gas:candidate-vibid:25220001212559": 13,
+      "gas:candidate-vibid:25220001211309": 254,
+      "gas:candidate-vibid:25220001216760": 4,
+      "gas:candidate-vibid:25220001214871": 11,
+      "gas:candidate-vibid:25220001207368": 44,
+      "gas:candidate-vibid:25220001211796": 66,
+      "gas:candidate-vibid:25220001215926": 7,
+      "gas:candidate-vibid:25220001208814": 13,
+      "gas:candidate-vibid:25220001204498": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9423,17 +9423,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 2,
-      "Гончаров Игорь Сергеевич": 3,
-      "Косовских Александр Альбертович": 4,
-      "Назарова Наталья Васильевна": 127,
-      "Померанцев Илья Валерьевич": 2,
-      "Пономарев Владимир Александрович": 2,
-      "Разумовский Александр Васильевич": 16,
-      "Рябов Николай Федорович": 13,
-      "Смирнов Евгений Витальевич": 4,
-      "Фазулжанова Нажия Алиевна": 1,
-      "Шатилов Михаил Павлович": 13
+      "gas:candidate-vibid:25220001215937": 2,
+      "gas:candidate-vibid:25220001214344": 3,
+      "gas:candidate-vibid:25220001212559": 4,
+      "gas:candidate-vibid:25220001211309": 127,
+      "gas:candidate-vibid:25220001216760": 2,
+      "gas:candidate-vibid:25220001214871": 2,
+      "gas:candidate-vibid:25220001207368": 16,
+      "gas:candidate-vibid:25220001211796": 13,
+      "gas:candidate-vibid:25220001215926": 4,
+      "gas:candidate-vibid:25220001208814": 1,
+      "gas:candidate-vibid:25220001204498": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9484,17 +9484,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 2,
-      "Гончаров Игорь Сергеевич": 0,
-      "Косовских Александр Альбертович": 2,
-      "Назарова Наталья Васильевна": 222,
-      "Померанцев Илья Валерьевич": 2,
-      "Пономарев Владимир Александрович": 0,
-      "Разумовский Александр Васильевич": 13,
-      "Рябов Николай Федорович": 9,
-      "Смирнов Евгений Витальевич": 1,
-      "Фазулжанова Нажия Алиевна": 3,
-      "Шатилов Михаил Павлович": 1
+      "gas:candidate-vibid:25220001215937": 2,
+      "gas:candidate-vibid:25220001214344": 0,
+      "gas:candidate-vibid:25220001212559": 2,
+      "gas:candidate-vibid:25220001211309": 222,
+      "gas:candidate-vibid:25220001216760": 2,
+      "gas:candidate-vibid:25220001214871": 0,
+      "gas:candidate-vibid:25220001207368": 13,
+      "gas:candidate-vibid:25220001211796": 9,
+      "gas:candidate-vibid:25220001215926": 1,
+      "gas:candidate-vibid:25220001208814": 3,
+      "gas:candidate-vibid:25220001204498": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9545,17 +9545,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 10,
-      "Гончаров Игорь Сергеевич": 3,
-      "Косовских Александр Альбертович": 4,
-      "Назарова Наталья Васильевна": 233,
-      "Померанцев Илья Валерьевич": 4,
-      "Пономарев Владимир Александрович": 3,
-      "Разумовский Александр Васильевич": 24,
-      "Рябов Николай Федорович": 21,
-      "Смирнов Евгений Витальевич": 5,
-      "Фазулжанова Нажия Алиевна": 3,
-      "Шатилов Михаил Павлович": 18
+      "gas:candidate-vibid:25220001215937": 10,
+      "gas:candidate-vibid:25220001214344": 3,
+      "gas:candidate-vibid:25220001212559": 4,
+      "gas:candidate-vibid:25220001211309": 233,
+      "gas:candidate-vibid:25220001216760": 4,
+      "gas:candidate-vibid:25220001214871": 3,
+      "gas:candidate-vibid:25220001207368": 24,
+      "gas:candidate-vibid:25220001211796": 21,
+      "gas:candidate-vibid:25220001215926": 5,
+      "gas:candidate-vibid:25220001208814": 3,
+      "gas:candidate-vibid:25220001204498": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9606,17 +9606,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 13,
-      "Гончаров Игорь Сергеевич": 14,
-      "Косовских Александр Альбертович": 9,
-      "Назарова Наталья Васильевна": 296,
-      "Померанцев Илья Валерьевич": 5,
-      "Пономарев Владимир Александрович": 7,
-      "Разумовский Александр Васильевич": 43,
-      "Рябов Николай Федорович": 32,
-      "Смирнов Евгений Витальевич": 12,
-      "Фазулжанова Нажия Алиевна": 7,
-      "Шатилов Михаил Павлович": 28
+      "gas:candidate-vibid:25220001215937": 13,
+      "gas:candidate-vibid:25220001214344": 14,
+      "gas:candidate-vibid:25220001212559": 9,
+      "gas:candidate-vibid:25220001211309": 296,
+      "gas:candidate-vibid:25220001216760": 5,
+      "gas:candidate-vibid:25220001214871": 7,
+      "gas:candidate-vibid:25220001207368": 43,
+      "gas:candidate-vibid:25220001211796": 32,
+      "gas:candidate-vibid:25220001215926": 12,
+      "gas:candidate-vibid:25220001208814": 7,
+      "gas:candidate-vibid:25220001204498": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9667,17 +9667,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 8,
-      "Гончаров Игорь Сергеевич": 12,
-      "Косовских Александр Альбертович": 7,
-      "Назарова Наталья Васильевна": 339,
-      "Померанцев Илья Валерьевич": 1,
-      "Пономарев Владимир Александрович": 1,
-      "Разумовский Александр Васильевич": 19,
-      "Рябов Николай Федорович": 24,
-      "Смирнов Евгений Витальевич": 7,
-      "Фазулжанова Нажия Алиевна": 6,
-      "Шатилов Михаил Павлович": 31
+      "gas:candidate-vibid:25220001215937": 8,
+      "gas:candidate-vibid:25220001214344": 12,
+      "gas:candidate-vibid:25220001212559": 7,
+      "gas:candidate-vibid:25220001211309": 339,
+      "gas:candidate-vibid:25220001216760": 1,
+      "gas:candidate-vibid:25220001214871": 1,
+      "gas:candidate-vibid:25220001207368": 19,
+      "gas:candidate-vibid:25220001211796": 24,
+      "gas:candidate-vibid:25220001215926": 7,
+      "gas:candidate-vibid:25220001208814": 6,
+      "gas:candidate-vibid:25220001204498": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9728,17 +9728,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 4,
-      "Гончаров Игорь Сергеевич": 1,
-      "Косовских Александр Альбертович": 2,
-      "Назарова Наталья Васильевна": 109,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 6,
-      "Разумовский Александр Васильевич": 11,
-      "Рябов Николай Федорович": 15,
-      "Смирнов Евгений Витальевич": 2,
-      "Фазулжанова Нажия Алиевна": 5,
-      "Шатилов Михаил Павлович": 20
+      "gas:candidate-vibid:25220001215937": 4,
+      "gas:candidate-vibid:25220001214344": 1,
+      "gas:candidate-vibid:25220001212559": 2,
+      "gas:candidate-vibid:25220001211309": 109,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 6,
+      "gas:candidate-vibid:25220001207368": 11,
+      "gas:candidate-vibid:25220001211796": 15,
+      "gas:candidate-vibid:25220001215926": 2,
+      "gas:candidate-vibid:25220001208814": 5,
+      "gas:candidate-vibid:25220001204498": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9789,17 +9789,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 1,
-      "Гончаров Игорь Сергеевич": 2,
-      "Косовских Александр Альбертович": 1,
-      "Назарова Наталья Васильевна": 171,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 2,
-      "Разумовский Александр Васильевич": 20,
-      "Рябов Николай Федорович": 14,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 2,
-      "Шатилов Михаил Павлович": 13
+      "gas:candidate-vibid:25220001215937": 1,
+      "gas:candidate-vibid:25220001214344": 2,
+      "gas:candidate-vibid:25220001212559": 1,
+      "gas:candidate-vibid:25220001211309": 171,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 2,
+      "gas:candidate-vibid:25220001207368": 20,
+      "gas:candidate-vibid:25220001211796": 14,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 2,
+      "gas:candidate-vibid:25220001204498": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9850,17 +9850,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 3,
-      "Гончаров Игорь Сергеевич": 0,
-      "Косовских Александр Альбертович": 1,
-      "Назарова Наталья Васильевна": 87,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 3,
-      "Разумовский Александр Васильевич": 6,
-      "Рябов Николай Федорович": 3,
-      "Смирнов Евгений Витальевич": 0,
-      "Фазулжанова Нажия Алиевна": 2,
-      "Шатилов Михаил Павлович": 9
+      "gas:candidate-vibid:25220001215937": 3,
+      "gas:candidate-vibid:25220001214344": 0,
+      "gas:candidate-vibid:25220001212559": 1,
+      "gas:candidate-vibid:25220001211309": 87,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 3,
+      "gas:candidate-vibid:25220001207368": 6,
+      "gas:candidate-vibid:25220001211796": 3,
+      "gas:candidate-vibid:25220001215926": 0,
+      "gas:candidate-vibid:25220001208814": 2,
+      "gas:candidate-vibid:25220001204498": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9911,17 +9911,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 6,
-      "Гончаров Игорь Сергеевич": 3,
-      "Косовских Александр Альбертович": 2,
-      "Назарова Наталья Васильевна": 236,
-      "Померанцев Илья Валерьевич": 3,
-      "Пономарев Владимир Александрович": 10,
-      "Разумовский Александр Васильевич": 15,
-      "Рябов Николай Федорович": 37,
-      "Смирнов Евгений Витальевич": 3,
-      "Фазулжанова Нажия Алиевна": 6,
-      "Шатилов Михаил Павлович": 22
+      "gas:candidate-vibid:25220001215937": 6,
+      "gas:candidate-vibid:25220001214344": 3,
+      "gas:candidate-vibid:25220001212559": 2,
+      "gas:candidate-vibid:25220001211309": 236,
+      "gas:candidate-vibid:25220001216760": 3,
+      "gas:candidate-vibid:25220001214871": 10,
+      "gas:candidate-vibid:25220001207368": 15,
+      "gas:candidate-vibid:25220001211796": 37,
+      "gas:candidate-vibid:25220001215926": 3,
+      "gas:candidate-vibid:25220001208814": 6,
+      "gas:candidate-vibid:25220001204498": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -9972,17 +9972,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 3,
-      "Гончаров Игорь Сергеевич": 3,
-      "Косовских Александр Альбертович": 3,
-      "Назарова Наталья Васильевна": 148,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 18,
-      "Разумовский Александр Васильевич": 9,
-      "Рябов Николай Федорович": 13,
-      "Смирнов Евгений Витальевич": 0,
-      "Фазулжанова Нажия Алиевна": 0,
-      "Шатилов Михаил Павлович": 0
+      "gas:candidate-vibid:25220001215937": 3,
+      "gas:candidate-vibid:25220001214344": 3,
+      "gas:candidate-vibid:25220001212559": 3,
+      "gas:candidate-vibid:25220001211309": 148,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 18,
+      "gas:candidate-vibid:25220001207368": 9,
+      "gas:candidate-vibid:25220001211796": 13,
+      "gas:candidate-vibid:25220001215926": 0,
+      "gas:candidate-vibid:25220001208814": 0,
+      "gas:candidate-vibid:25220001204498": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -10033,17 +10033,17 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурмистров Вячеслав Владимирович": 1,
-      "Гончаров Игорь Сергеевич": 2,
-      "Косовских Александр Альбертович": 1,
-      "Назарова Наталья Васильевна": 162,
-      "Померанцев Илья Валерьевич": 0,
-      "Пономарев Владимир Александрович": 5,
-      "Разумовский Александр Васильевич": 20,
-      "Рябов Николай Федорович": 20,
-      "Смирнов Евгений Витальевич": 2,
-      "Фазулжанова Нажия Алиевна": 5,
-      "Шатилов Михаил Павлович": 17
+      "gas:candidate-vibid:25220001215937": 1,
+      "gas:candidate-vibid:25220001214344": 2,
+      "gas:candidate-vibid:25220001212559": 1,
+      "gas:candidate-vibid:25220001211309": 162,
+      "gas:candidate-vibid:25220001216760": 0,
+      "gas:candidate-vibid:25220001214871": 5,
+      "gas:candidate-vibid:25220001207368": 20,
+      "gas:candidate-vibid:25220001211796": 20,
+      "gas:candidate-vibid:25220001215926": 2,
+      "gas:candidate-vibid:25220001208814": 5,
+      "gas:candidate-vibid:25220001204498": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000172&tvd=25220001120063&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001120063&type=464",
@@ -10094,16 +10094,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 142,
-      "Богданов Игорь Михайлович": 59,
-      "Зайцева Валерия Евгеньевна": 16,
-      "Кузнецов Михаил Сергеевич": 50,
-      "Лудина Анна Николаевна": 28,
-      "Москвин Денис Павлович": 626,
-      "Мурахтаева Ирина Вячеславовна": 16,
-      "Фомин Роман Владимирович": 115,
-      "Цапанов Александр Васильевич": 33,
-      "Юдина Светлана Владимировна": 31
+      "gas:candidate-vibid:25220001204485": 142,
+      "gas:candidate-vibid:25220001210069": 59,
+      "gas:candidate-vibid:25220001216071": 16,
+      "gas:candidate-vibid:25220001216082": 50,
+      "gas:candidate-vibid:25220001216990": 28,
+      "gas:candidate-vibid:25220001211296": 626,
+      "gas:candidate-vibid:25220001216772": 16,
+      "gas:candidate-vibid:25220001214860": 115,
+      "gas:candidate-vibid:25220001214849": 33,
+      "gas:candidate-vibid:25220001208803": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10154,16 +10154,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 94,
-      "Богданов Игорь Михайлович": 45,
-      "Зайцева Валерия Евгеньевна": 30,
-      "Кузнецов Михаил Сергеевич": 46,
-      "Лудина Анна Николаевна": 32,
-      "Москвин Денис Павлович": 325,
-      "Мурахтаева Ирина Вячеславовна": 9,
-      "Фомин Роман Владимирович": 61,
-      "Цапанов Александр Васильевич": 14,
-      "Юдина Светлана Владимировна": 48
+      "gas:candidate-vibid:25220001204485": 94,
+      "gas:candidate-vibid:25220001210069": 45,
+      "gas:candidate-vibid:25220001216071": 30,
+      "gas:candidate-vibid:25220001216082": 46,
+      "gas:candidate-vibid:25220001216990": 32,
+      "gas:candidate-vibid:25220001211296": 325,
+      "gas:candidate-vibid:25220001216772": 9,
+      "gas:candidate-vibid:25220001214860": 61,
+      "gas:candidate-vibid:25220001214849": 14,
+      "gas:candidate-vibid:25220001208803": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10214,16 +10214,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 114,
-      "Богданов Игорь Михайлович": 32,
-      "Зайцева Валерия Евгеньевна": 29,
-      "Кузнецов Михаил Сергеевич": 47,
-      "Лудина Анна Николаевна": 24,
-      "Москвин Денис Павлович": 195,
-      "Мурахтаева Ирина Вячеславовна": 12,
-      "Фомин Роман Владимирович": 34,
-      "Цапанов Александр Васильевич": 6,
-      "Юдина Светлана Владимировна": 22
+      "gas:candidate-vibid:25220001204485": 114,
+      "gas:candidate-vibid:25220001210069": 32,
+      "gas:candidate-vibid:25220001216071": 29,
+      "gas:candidate-vibid:25220001216082": 47,
+      "gas:candidate-vibid:25220001216990": 24,
+      "gas:candidate-vibid:25220001211296": 195,
+      "gas:candidate-vibid:25220001216772": 12,
+      "gas:candidate-vibid:25220001214860": 34,
+      "gas:candidate-vibid:25220001214849": 6,
+      "gas:candidate-vibid:25220001208803": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10274,16 +10274,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 186,
-      "Богданов Игорь Михайлович": 82,
-      "Зайцева Валерия Евгеньевна": 23,
-      "Кузнецов Михаил Сергеевич": 32,
-      "Лудина Анна Николаевна": 23,
-      "Москвин Денис Павлович": 620,
-      "Мурахтаева Ирина Вячеславовна": 34,
-      "Фомин Роман Владимирович": 125,
-      "Цапанов Александр Васильевич": 42,
-      "Юдина Светлана Владимировна": 35
+      "gas:candidate-vibid:25220001204485": 186,
+      "gas:candidate-vibid:25220001210069": 82,
+      "gas:candidate-vibid:25220001216071": 23,
+      "gas:candidate-vibid:25220001216082": 32,
+      "gas:candidate-vibid:25220001216990": 23,
+      "gas:candidate-vibid:25220001211296": 620,
+      "gas:candidate-vibid:25220001216772": 34,
+      "gas:candidate-vibid:25220001214860": 125,
+      "gas:candidate-vibid:25220001214849": 42,
+      "gas:candidate-vibid:25220001208803": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10334,16 +10334,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 126,
-      "Богданов Игорь Михайлович": 88,
-      "Зайцева Валерия Евгеньевна": 12,
-      "Кузнецов Михаил Сергеевич": 40,
-      "Лудина Анна Николаевна": 15,
-      "Москвин Денис Павлович": 544,
-      "Мурахтаева Ирина Вячеславовна": 18,
-      "Фомин Роман Владимирович": 94,
-      "Цапанов Александр Васильевич": 27,
-      "Юдина Светлана Владимировна": 49
+      "gas:candidate-vibid:25220001204485": 126,
+      "gas:candidate-vibid:25220001210069": 88,
+      "gas:candidate-vibid:25220001216071": 12,
+      "gas:candidate-vibid:25220001216082": 40,
+      "gas:candidate-vibid:25220001216990": 15,
+      "gas:candidate-vibid:25220001211296": 544,
+      "gas:candidate-vibid:25220001216772": 18,
+      "gas:candidate-vibid:25220001214860": 94,
+      "gas:candidate-vibid:25220001214849": 27,
+      "gas:candidate-vibid:25220001208803": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10394,16 +10394,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 267,
-      "Богданов Игорь Михайлович": 96,
-      "Зайцева Валерия Евгеньевна": 51,
-      "Кузнецов Михаил Сергеевич": 69,
-      "Лудина Анна Николаевна": 41,
-      "Москвин Денис Павлович": 759,
-      "Мурахтаева Ирина Вячеславовна": 21,
-      "Фомин Роман Владимирович": 107,
-      "Цапанов Александр Васильевич": 20,
-      "Юдина Светлана Владимировна": 69
+      "gas:candidate-vibid:25220001204485": 267,
+      "gas:candidate-vibid:25220001210069": 96,
+      "gas:candidate-vibid:25220001216071": 51,
+      "gas:candidate-vibid:25220001216082": 69,
+      "gas:candidate-vibid:25220001216990": 41,
+      "gas:candidate-vibid:25220001211296": 759,
+      "gas:candidate-vibid:25220001216772": 21,
+      "gas:candidate-vibid:25220001214860": 107,
+      "gas:candidate-vibid:25220001214849": 20,
+      "gas:candidate-vibid:25220001208803": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10454,16 +10454,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 141,
-      "Богданов Игорь Михайлович": 57,
-      "Зайцева Валерия Евгеньевна": 19,
-      "Кузнецов Михаил Сергеевич": 32,
-      "Лудина Анна Николаевна": 26,
-      "Москвин Денис Павлович": 560,
-      "Мурахтаева Ирина Вячеславовна": 17,
-      "Фомин Роман Владимирович": 119,
-      "Цапанов Александр Васильевич": 17,
-      "Юдина Светлана Владимировна": 46
+      "gas:candidate-vibid:25220001204485": 141,
+      "gas:candidate-vibid:25220001210069": 57,
+      "gas:candidate-vibid:25220001216071": 19,
+      "gas:candidate-vibid:25220001216082": 32,
+      "gas:candidate-vibid:25220001216990": 26,
+      "gas:candidate-vibid:25220001211296": 560,
+      "gas:candidate-vibid:25220001216772": 17,
+      "gas:candidate-vibid:25220001214860": 119,
+      "gas:candidate-vibid:25220001214849": 17,
+      "gas:candidate-vibid:25220001208803": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10514,16 +10514,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 111,
-      "Богданов Игорь Михайлович": 62,
-      "Зайцева Валерия Евгеньевна": 9,
-      "Кузнецов Михаил Сергеевич": 36,
-      "Лудина Анна Николаевна": 20,
-      "Москвин Денис Павлович": 534,
-      "Мурахтаева Ирина Вячеславовна": 9,
-      "Фомин Роман Владимирович": 119,
-      "Цапанов Александр Васильевич": 26,
-      "Юдина Светлана Владимировна": 58
+      "gas:candidate-vibid:25220001204485": 111,
+      "gas:candidate-vibid:25220001210069": 62,
+      "gas:candidate-vibid:25220001216071": 9,
+      "gas:candidate-vibid:25220001216082": 36,
+      "gas:candidate-vibid:25220001216990": 20,
+      "gas:candidate-vibid:25220001211296": 534,
+      "gas:candidate-vibid:25220001216772": 9,
+      "gas:candidate-vibid:25220001214860": 119,
+      "gas:candidate-vibid:25220001214849": 26,
+      "gas:candidate-vibid:25220001208803": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10574,16 +10574,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 119,
-      "Богданов Игорь Михайлович": 66,
-      "Зайцева Валерия Евгеньевна": 9,
-      "Кузнецов Михаил Сергеевич": 57,
-      "Лудина Анна Николаевна": 8,
-      "Москвин Денис Павлович": 558,
-      "Мурахтаева Ирина Вячеславовна": 21,
-      "Фомин Роман Владимирович": 117,
-      "Цапанов Александр Васильевич": 52,
-      "Юдина Светлана Владимировна": 49
+      "gas:candidate-vibid:25220001204485": 119,
+      "gas:candidate-vibid:25220001210069": 66,
+      "gas:candidate-vibid:25220001216071": 9,
+      "gas:candidate-vibid:25220001216082": 57,
+      "gas:candidate-vibid:25220001216990": 8,
+      "gas:candidate-vibid:25220001211296": 558,
+      "gas:candidate-vibid:25220001216772": 21,
+      "gas:candidate-vibid:25220001214860": 117,
+      "gas:candidate-vibid:25220001214849": 52,
+      "gas:candidate-vibid:25220001208803": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10634,16 +10634,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 111,
-      "Богданов Игорь Михайлович": 66,
-      "Зайцева Валерия Евгеньевна": 6,
-      "Кузнецов Михаил Сергеевич": 32,
-      "Лудина Анна Николаевна": 10,
-      "Москвин Денис Павлович": 480,
-      "Мурахтаева Ирина Вячеславовна": 16,
-      "Фомин Роман Владимирович": 26,
-      "Цапанов Александр Васильевич": 113,
-      "Юдина Светлана Владимировна": 46
+      "gas:candidate-vibid:25220001204485": 111,
+      "gas:candidate-vibid:25220001210069": 66,
+      "gas:candidate-vibid:25220001216071": 6,
+      "gas:candidate-vibid:25220001216082": 32,
+      "gas:candidate-vibid:25220001216990": 10,
+      "gas:candidate-vibid:25220001211296": 480,
+      "gas:candidate-vibid:25220001216772": 16,
+      "gas:candidate-vibid:25220001214860": 26,
+      "gas:candidate-vibid:25220001214849": 113,
+      "gas:candidate-vibid:25220001208803": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10694,16 +10694,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 129,
-      "Богданов Игорь Михайлович": 78,
-      "Зайцева Валерия Евгеньевна": 11,
-      "Кузнецов Михаил Сергеевич": 65,
-      "Лудина Анна Николаевна": 15,
-      "Москвин Денис Павлович": 515,
-      "Мурахтаева Ирина Вячеславовна": 16,
-      "Фомин Роман Владимирович": 101,
-      "Цапанов Александр Васильевич": 26,
-      "Юдина Светлана Владимировна": 41
+      "gas:candidate-vibid:25220001204485": 129,
+      "gas:candidate-vibid:25220001210069": 78,
+      "gas:candidate-vibid:25220001216071": 11,
+      "gas:candidate-vibid:25220001216082": 65,
+      "gas:candidate-vibid:25220001216990": 15,
+      "gas:candidate-vibid:25220001211296": 515,
+      "gas:candidate-vibid:25220001216772": 16,
+      "gas:candidate-vibid:25220001214860": 101,
+      "gas:candidate-vibid:25220001214849": 26,
+      "gas:candidate-vibid:25220001208803": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10754,16 +10754,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 113,
-      "Богданов Игорь Михайлович": 66,
-      "Зайцева Валерия Евгеньевна": 15,
-      "Кузнецов Михаил Сергеевич": 24,
-      "Лудина Анна Николаевна": 18,
-      "Москвин Денис Павлович": 610,
-      "Мурахтаева Ирина Вячеславовна": 27,
-      "Фомин Роман Владимирович": 70,
-      "Цапанов Александр Васильевич": 45,
-      "Юдина Светлана Владимировна": 40
+      "gas:candidate-vibid:25220001204485": 113,
+      "gas:candidate-vibid:25220001210069": 66,
+      "gas:candidate-vibid:25220001216071": 15,
+      "gas:candidate-vibid:25220001216082": 24,
+      "gas:candidate-vibid:25220001216990": 18,
+      "gas:candidate-vibid:25220001211296": 610,
+      "gas:candidate-vibid:25220001216772": 27,
+      "gas:candidate-vibid:25220001214860": 70,
+      "gas:candidate-vibid:25220001214849": 45,
+      "gas:candidate-vibid:25220001208803": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10814,16 +10814,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 113,
-      "Богданов Игорь Михайлович": 62,
-      "Зайцева Валерия Евгеньевна": 10,
-      "Кузнецов Михаил Сергеевич": 32,
-      "Лудина Анна Николаевна": 13,
-      "Москвин Денис Павлович": 655,
-      "Мурахтаева Ирина Вячеславовна": 7,
-      "Фомин Роман Владимирович": 112,
-      "Цапанов Александр Васильевич": 37,
-      "Юдина Светлана Владимировна": 35
+      "gas:candidate-vibid:25220001204485": 113,
+      "gas:candidate-vibid:25220001210069": 62,
+      "gas:candidate-vibid:25220001216071": 10,
+      "gas:candidate-vibid:25220001216082": 32,
+      "gas:candidate-vibid:25220001216990": 13,
+      "gas:candidate-vibid:25220001211296": 655,
+      "gas:candidate-vibid:25220001216772": 7,
+      "gas:candidate-vibid:25220001214860": 112,
+      "gas:candidate-vibid:25220001214849": 37,
+      "gas:candidate-vibid:25220001208803": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10874,16 +10874,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 129,
-      "Богданов Игорь Михайлович": 79,
-      "Зайцева Валерия Евгеньевна": 14,
-      "Кузнецов Михаил Сергеевич": 32,
-      "Лудина Анна Николаевна": 16,
-      "Москвин Денис Павлович": 686,
-      "Мурахтаева Ирина Вячеславовна": 17,
-      "Фомин Роман Владимирович": 104,
-      "Цапанов Александр Васильевич": 43,
-      "Юдина Светлана Владимировна": 36
+      "gas:candidate-vibid:25220001204485": 129,
+      "gas:candidate-vibid:25220001210069": 79,
+      "gas:candidate-vibid:25220001216071": 14,
+      "gas:candidate-vibid:25220001216082": 32,
+      "gas:candidate-vibid:25220001216990": 16,
+      "gas:candidate-vibid:25220001211296": 686,
+      "gas:candidate-vibid:25220001216772": 17,
+      "gas:candidate-vibid:25220001214860": 104,
+      "gas:candidate-vibid:25220001214849": 43,
+      "gas:candidate-vibid:25220001208803": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10934,16 +10934,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 136,
-      "Богданов Игорь Михайлович": 58,
-      "Зайцева Валерия Евгеньевна": 18,
-      "Кузнецов Михаил Сергеевич": 33,
-      "Лудина Анна Николаевна": 24,
-      "Москвин Денис Павлович": 588,
-      "Мурахтаева Ирина Вячеславовна": 20,
-      "Фомин Роман Владимирович": 125,
-      "Цапанов Александр Васильевич": 15,
-      "Юдина Светлана Владимировна": 37
+      "gas:candidate-vibid:25220001204485": 136,
+      "gas:candidate-vibid:25220001210069": 58,
+      "gas:candidate-vibid:25220001216071": 18,
+      "gas:candidate-vibid:25220001216082": 33,
+      "gas:candidate-vibid:25220001216990": 24,
+      "gas:candidate-vibid:25220001211296": 588,
+      "gas:candidate-vibid:25220001216772": 20,
+      "gas:candidate-vibid:25220001214860": 125,
+      "gas:candidate-vibid:25220001214849": 15,
+      "gas:candidate-vibid:25220001208803": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -10994,16 +10994,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 142,
-      "Богданов Игорь Михайлович": 68,
-      "Зайцева Валерия Евгеньевна": 14,
-      "Кузнецов Михаил Сергеевич": 20,
-      "Лудина Анна Николаевна": 10,
-      "Москвин Денис Павлович": 542,
-      "Мурахтаева Ирина Вячеславовна": 12,
-      "Фомин Роман Владимирович": 130,
-      "Цапанов Александр Васильевич": 21,
-      "Юдина Светлана Владимировна": 42
+      "gas:candidate-vibid:25220001204485": 142,
+      "gas:candidate-vibid:25220001210069": 68,
+      "gas:candidate-vibid:25220001216071": 14,
+      "gas:candidate-vibid:25220001216082": 20,
+      "gas:candidate-vibid:25220001216990": 10,
+      "gas:candidate-vibid:25220001211296": 542,
+      "gas:candidate-vibid:25220001216772": 12,
+      "gas:candidate-vibid:25220001214860": 130,
+      "gas:candidate-vibid:25220001214849": 21,
+      "gas:candidate-vibid:25220001208803": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11054,16 +11054,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 154,
-      "Богданов Игорь Михайлович": 53,
-      "Зайцева Валерия Евгеньевна": 15,
-      "Кузнецов Михаил Сергеевич": 17,
-      "Лудина Анна Николаевна": 12,
-      "Москвин Денис Павлович": 475,
-      "Мурахтаева Ирина Вячеславовна": 18,
-      "Фомин Роман Владимирович": 113,
-      "Цапанов Александр Васильевич": 17,
-      "Юдина Светлана Владимировна": 32
+      "gas:candidate-vibid:25220001204485": 154,
+      "gas:candidate-vibid:25220001210069": 53,
+      "gas:candidate-vibid:25220001216071": 15,
+      "gas:candidate-vibid:25220001216082": 17,
+      "gas:candidate-vibid:25220001216990": 12,
+      "gas:candidate-vibid:25220001211296": 475,
+      "gas:candidate-vibid:25220001216772": 18,
+      "gas:candidate-vibid:25220001214860": 113,
+      "gas:candidate-vibid:25220001214849": 17,
+      "gas:candidate-vibid:25220001208803": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11114,16 +11114,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 118,
-      "Богданов Игорь Михайлович": 57,
-      "Зайцева Валерия Евгеньевна": 11,
-      "Кузнецов Михаил Сергеевич": 25,
-      "Лудина Анна Николаевна": 16,
-      "Москвин Денис Павлович": 525,
-      "Мурахтаева Ирина Вячеславовна": 14,
-      "Фомин Роман Владимирович": 96,
-      "Цапанов Александр Васильевич": 29,
-      "Юдина Светлана Владимировна": 48
+      "gas:candidate-vibid:25220001204485": 118,
+      "gas:candidate-vibid:25220001210069": 57,
+      "gas:candidate-vibid:25220001216071": 11,
+      "gas:candidate-vibid:25220001216082": 25,
+      "gas:candidate-vibid:25220001216990": 16,
+      "gas:candidate-vibid:25220001211296": 525,
+      "gas:candidate-vibid:25220001216772": 14,
+      "gas:candidate-vibid:25220001214860": 96,
+      "gas:candidate-vibid:25220001214849": 29,
+      "gas:candidate-vibid:25220001208803": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11174,16 +11174,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 115,
-      "Богданов Игорь Михайлович": 47,
-      "Зайцева Валерия Евгеньевна": 14,
-      "Кузнецов Михаил Сергеевич": 22,
-      "Лудина Анна Николаевна": 11,
-      "Москвин Денис Павлович": 413,
-      "Мурахтаева Ирина Вячеславовна": 6,
-      "Фомин Роман Владимирович": 71,
-      "Цапанов Александр Васильевич": 20,
-      "Юдина Светлана Владимировна": 48
+      "gas:candidate-vibid:25220001204485": 115,
+      "gas:candidate-vibid:25220001210069": 47,
+      "gas:candidate-vibid:25220001216071": 14,
+      "gas:candidate-vibid:25220001216082": 22,
+      "gas:candidate-vibid:25220001216990": 11,
+      "gas:candidate-vibid:25220001211296": 413,
+      "gas:candidate-vibid:25220001216772": 6,
+      "gas:candidate-vibid:25220001214860": 71,
+      "gas:candidate-vibid:25220001214849": 20,
+      "gas:candidate-vibid:25220001208803": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11234,16 +11234,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 144,
-      "Богданов Игорь Михайлович": 78,
-      "Зайцева Валерия Евгеньевна": 11,
-      "Кузнецов Михаил Сергеевич": 24,
-      "Лудина Анна Николаевна": 15,
-      "Москвин Денис Павлович": 664,
-      "Мурахтаева Ирина Вячеславовна": 24,
-      "Фомин Роман Владимирович": 125,
-      "Цапанов Александр Васильевич": 29,
-      "Юдина Светлана Владимировна": 52
+      "gas:candidate-vibid:25220001204485": 144,
+      "gas:candidate-vibid:25220001210069": 78,
+      "gas:candidate-vibid:25220001216071": 11,
+      "gas:candidate-vibid:25220001216082": 24,
+      "gas:candidate-vibid:25220001216990": 15,
+      "gas:candidate-vibid:25220001211296": 664,
+      "gas:candidate-vibid:25220001216772": 24,
+      "gas:candidate-vibid:25220001214860": 125,
+      "gas:candidate-vibid:25220001214849": 29,
+      "gas:candidate-vibid:25220001208803": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11294,16 +11294,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 123,
-      "Богданов Игорь Михайлович": 76,
-      "Зайцева Валерия Евгеньевна": 12,
-      "Кузнецов Михаил Сергеевич": 22,
-      "Лудина Анна Николаевна": 7,
-      "Москвин Денис Павлович": 592,
-      "Мурахтаева Ирина Вячеславовна": 24,
-      "Фомин Роман Владимирович": 134,
-      "Цапанов Александр Васильевич": 18,
-      "Юдина Светлана Владимировна": 52
+      "gas:candidate-vibid:25220001204485": 123,
+      "gas:candidate-vibid:25220001210069": 76,
+      "gas:candidate-vibid:25220001216071": 12,
+      "gas:candidate-vibid:25220001216082": 22,
+      "gas:candidate-vibid:25220001216990": 7,
+      "gas:candidate-vibid:25220001211296": 592,
+      "gas:candidate-vibid:25220001216772": 24,
+      "gas:candidate-vibid:25220001214860": 134,
+      "gas:candidate-vibid:25220001214849": 18,
+      "gas:candidate-vibid:25220001208803": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11354,16 +11354,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 121,
-      "Богданов Игорь Михайлович": 69,
-      "Зайцева Валерия Евгеньевна": 8,
-      "Кузнецов Михаил Сергеевич": 26,
-      "Лудина Анна Николаевна": 17,
-      "Москвин Денис Павлович": 551,
-      "Мурахтаева Ирина Вячеславовна": 19,
-      "Фомин Роман Владимирович": 125,
-      "Цапанов Александр Васильевич": 37,
-      "Юдина Светлана Владимировна": 41
+      "gas:candidate-vibid:25220001204485": 121,
+      "gas:candidate-vibid:25220001210069": 69,
+      "gas:candidate-vibid:25220001216071": 8,
+      "gas:candidate-vibid:25220001216082": 26,
+      "gas:candidate-vibid:25220001216990": 17,
+      "gas:candidate-vibid:25220001211296": 551,
+      "gas:candidate-vibid:25220001216772": 19,
+      "gas:candidate-vibid:25220001214860": 125,
+      "gas:candidate-vibid:25220001214849": 37,
+      "gas:candidate-vibid:25220001208803": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11414,16 +11414,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 122,
-      "Богданов Игорь Михайлович": 59,
-      "Зайцева Валерия Евгеньевна": 13,
-      "Кузнецов Михаил Сергеевич": 34,
-      "Лудина Анна Николаевна": 21,
-      "Москвин Денис Павлович": 508,
-      "Мурахтаева Ирина Вячеславовна": 21,
-      "Фомин Роман Владимирович": 100,
-      "Цапанов Александр Васильевич": 36,
-      "Юдина Светлана Владимировна": 50
+      "gas:candidate-vibid:25220001204485": 122,
+      "gas:candidate-vibid:25220001210069": 59,
+      "gas:candidate-vibid:25220001216071": 13,
+      "gas:candidate-vibid:25220001216082": 34,
+      "gas:candidate-vibid:25220001216990": 21,
+      "gas:candidate-vibid:25220001211296": 508,
+      "gas:candidate-vibid:25220001216772": 21,
+      "gas:candidate-vibid:25220001214860": 100,
+      "gas:candidate-vibid:25220001214849": 36,
+      "gas:candidate-vibid:25220001208803": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11474,16 +11474,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 149,
-      "Богданов Игорь Михайлович": 68,
-      "Зайцева Валерия Евгеньевна": 16,
-      "Кузнецов Михаил Сергеевич": 46,
-      "Лудина Анна Николаевна": 16,
-      "Москвин Денис Павлович": 489,
-      "Мурахтаева Ирина Вячеславовна": 18,
-      "Фомин Роман Владимирович": 128,
-      "Цапанов Александр Васильевич": 35,
-      "Юдина Светлана Владимировна": 47
+      "gas:candidate-vibid:25220001204485": 149,
+      "gas:candidate-vibid:25220001210069": 68,
+      "gas:candidate-vibid:25220001216071": 16,
+      "gas:candidate-vibid:25220001216082": 46,
+      "gas:candidate-vibid:25220001216990": 16,
+      "gas:candidate-vibid:25220001211296": 489,
+      "gas:candidate-vibid:25220001216772": 18,
+      "gas:candidate-vibid:25220001214860": 128,
+      "gas:candidate-vibid:25220001214849": 35,
+      "gas:candidate-vibid:25220001208803": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11534,16 +11534,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 117,
-      "Богданов Игорь Михайлович": 76,
-      "Зайцева Валерия Евгеньевна": 16,
-      "Кузнецов Михаил Сергеевич": 30,
-      "Лудина Анна Николаевна": 18,
-      "Москвин Денис Павлович": 489,
-      "Мурахтаева Ирина Вячеславовна": 24,
-      "Фомин Роман Владимирович": 160,
-      "Цапанов Александр Васильевич": 40,
-      "Юдина Светлана Владимировна": 44
+      "gas:candidate-vibid:25220001204485": 117,
+      "gas:candidate-vibid:25220001210069": 76,
+      "gas:candidate-vibid:25220001216071": 16,
+      "gas:candidate-vibid:25220001216082": 30,
+      "gas:candidate-vibid:25220001216990": 18,
+      "gas:candidate-vibid:25220001211296": 489,
+      "gas:candidate-vibid:25220001216772": 24,
+      "gas:candidate-vibid:25220001214860": 160,
+      "gas:candidate-vibid:25220001214849": 40,
+      "gas:candidate-vibid:25220001208803": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11594,16 +11594,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 112,
-      "Богданов Игорь Михайлович": 60,
-      "Зайцева Валерия Евгеньевна": 6,
-      "Кузнецов Михаил Сергеевич": 28,
-      "Лудина Анна Николаевна": 26,
-      "Москвин Денис Павлович": 550,
-      "Мурахтаева Ирина Вячеславовна": 22,
-      "Фомин Роман Владимирович": 122,
-      "Цапанов Александр Васильевич": 32,
-      "Юдина Светлана Владимировна": 36
+      "gas:candidate-vibid:25220001204485": 112,
+      "gas:candidate-vibid:25220001210069": 60,
+      "gas:candidate-vibid:25220001216071": 6,
+      "gas:candidate-vibid:25220001216082": 28,
+      "gas:candidate-vibid:25220001216990": 26,
+      "gas:candidate-vibid:25220001211296": 550,
+      "gas:candidate-vibid:25220001216772": 22,
+      "gas:candidate-vibid:25220001214860": 122,
+      "gas:candidate-vibid:25220001214849": 32,
+      "gas:candidate-vibid:25220001208803": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11654,16 +11654,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 122,
-      "Богданов Игорь Михайлович": 71,
-      "Зайцева Валерия Евгеньевна": 20,
-      "Кузнецов Михаил Сергеевич": 34,
-      "Лудина Анна Николаевна": 14,
-      "Москвин Денис Павлович": 509,
-      "Мурахтаева Ирина Вячеславовна": 13,
-      "Фомин Роман Владимирович": 119,
-      "Цапанов Александр Васильевич": 33,
-      "Юдина Светлана Владимировна": 39
+      "gas:candidate-vibid:25220001204485": 122,
+      "gas:candidate-vibid:25220001210069": 71,
+      "gas:candidate-vibid:25220001216071": 20,
+      "gas:candidate-vibid:25220001216082": 34,
+      "gas:candidate-vibid:25220001216990": 14,
+      "gas:candidate-vibid:25220001211296": 509,
+      "gas:candidate-vibid:25220001216772": 13,
+      "gas:candidate-vibid:25220001214860": 119,
+      "gas:candidate-vibid:25220001214849": 33,
+      "gas:candidate-vibid:25220001208803": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11714,16 +11714,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 93,
-      "Богданов Игорь Михайлович": 61,
-      "Зайцева Валерия Евгеньевна": 11,
-      "Кузнецов Михаил Сергеевич": 27,
-      "Лудина Анна Николаевна": 19,
-      "Москвин Денис Павлович": 518,
-      "Мурахтаева Ирина Вячеславовна": 36,
-      "Фомин Роман Владимирович": 144,
-      "Цапанов Александр Васильевич": 44,
-      "Юдина Светлана Владимировна": 38
+      "gas:candidate-vibid:25220001204485": 93,
+      "gas:candidate-vibid:25220001210069": 61,
+      "gas:candidate-vibid:25220001216071": 11,
+      "gas:candidate-vibid:25220001216082": 27,
+      "gas:candidate-vibid:25220001216990": 19,
+      "gas:candidate-vibid:25220001211296": 518,
+      "gas:candidate-vibid:25220001216772": 36,
+      "gas:candidate-vibid:25220001214860": 144,
+      "gas:candidate-vibid:25220001214849": 44,
+      "gas:candidate-vibid:25220001208803": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11774,16 +11774,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 107,
-      "Богданов Игорь Михайлович": 76,
-      "Зайцева Валерия Евгеньевна": 20,
-      "Кузнецов Михаил Сергеевич": 27,
-      "Лудина Анна Николаевна": 31,
-      "Москвин Денис Павлович": 525,
-      "Мурахтаева Ирина Вячеславовна": 39,
-      "Фомин Роман Владимирович": 139,
-      "Цапанов Александр Васильевич": 50,
-      "Юдина Светлана Владимировна": 54
+      "gas:candidate-vibid:25220001204485": 107,
+      "gas:candidate-vibid:25220001210069": 76,
+      "gas:candidate-vibid:25220001216071": 20,
+      "gas:candidate-vibid:25220001216082": 27,
+      "gas:candidate-vibid:25220001216990": 31,
+      "gas:candidate-vibid:25220001211296": 525,
+      "gas:candidate-vibid:25220001216772": 39,
+      "gas:candidate-vibid:25220001214860": 139,
+      "gas:candidate-vibid:25220001214849": 50,
+      "gas:candidate-vibid:25220001208803": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11834,16 +11834,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 119,
-      "Богданов Игорь Михайлович": 87,
-      "Зайцева Валерия Евгеньевна": 12,
-      "Кузнецов Михаил Сергеевич": 27,
-      "Лудина Анна Николаевна": 17,
-      "Москвин Денис Павлович": 525,
-      "Мурахтаева Ирина Вячеславовна": 25,
-      "Фомин Роман Владимирович": 142,
-      "Цапанов Александр Васильевич": 37,
-      "Юдина Светлана Владимировна": 57
+      "gas:candidate-vibid:25220001204485": 119,
+      "gas:candidate-vibid:25220001210069": 87,
+      "gas:candidate-vibid:25220001216071": 12,
+      "gas:candidate-vibid:25220001216082": 27,
+      "gas:candidate-vibid:25220001216990": 17,
+      "gas:candidate-vibid:25220001211296": 525,
+      "gas:candidate-vibid:25220001216772": 25,
+      "gas:candidate-vibid:25220001214860": 142,
+      "gas:candidate-vibid:25220001214849": 37,
+      "gas:candidate-vibid:25220001208803": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11894,16 +11894,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 135,
-      "Богданов Игорь Михайлович": 72,
-      "Зайцева Валерия Евгеньевна": 16,
-      "Кузнецов Михаил Сергеевич": 26,
-      "Лудина Анна Николаевна": 14,
-      "Москвин Денис Павлович": 529,
-      "Мурахтаева Ирина Вячеславовна": 20,
-      "Фомин Роман Владимирович": 109,
-      "Цапанов Александр Васильевич": 22,
-      "Юдина Светлана Владимировна": 35
+      "gas:candidate-vibid:25220001204485": 135,
+      "gas:candidate-vibid:25220001210069": 72,
+      "gas:candidate-vibid:25220001216071": 16,
+      "gas:candidate-vibid:25220001216082": 26,
+      "gas:candidate-vibid:25220001216990": 14,
+      "gas:candidate-vibid:25220001211296": 529,
+      "gas:candidate-vibid:25220001216772": 20,
+      "gas:candidate-vibid:25220001214860": 109,
+      "gas:candidate-vibid:25220001214849": 22,
+      "gas:candidate-vibid:25220001208803": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -11954,16 +11954,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 126,
-      "Богданов Игорь Михайлович": 59,
-      "Зайцева Валерия Евгеньевна": 16,
-      "Кузнецов Михаил Сергеевич": 18,
-      "Лудина Анна Николаевна": 19,
-      "Москвин Денис Павлович": 566,
-      "Мурахтаева Ирина Вячеславовна": 17,
-      "Фомин Роман Владимирович": 128,
-      "Цапанов Александр Васильевич": 29,
-      "Юдина Светлана Владимировна": 46
+      "gas:candidate-vibid:25220001204485": 126,
+      "gas:candidate-vibid:25220001210069": 59,
+      "gas:candidate-vibid:25220001216071": 16,
+      "gas:candidate-vibid:25220001216082": 18,
+      "gas:candidate-vibid:25220001216990": 19,
+      "gas:candidate-vibid:25220001211296": 566,
+      "gas:candidate-vibid:25220001216772": 17,
+      "gas:candidate-vibid:25220001214860": 128,
+      "gas:candidate-vibid:25220001214849": 29,
+      "gas:candidate-vibid:25220001208803": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -12014,16 +12014,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 126,
-      "Богданов Игорь Михайлович": 63,
-      "Зайцева Валерия Евгеньевна": 10,
-      "Кузнецов Михаил Сергеевич": 22,
-      "Лудина Анна Николаевна": 27,
-      "Москвин Денис Павлович": 535,
-      "Мурахтаева Ирина Вячеславовна": 23,
-      "Фомин Роман Владимирович": 134,
-      "Цапанов Александр Васильевич": 33,
-      "Юдина Светлана Владимировна": 42
+      "gas:candidate-vibid:25220001204485": 126,
+      "gas:candidate-vibid:25220001210069": 63,
+      "gas:candidate-vibid:25220001216071": 10,
+      "gas:candidate-vibid:25220001216082": 22,
+      "gas:candidate-vibid:25220001216990": 27,
+      "gas:candidate-vibid:25220001211296": 535,
+      "gas:candidate-vibid:25220001216772": 23,
+      "gas:candidate-vibid:25220001214860": 134,
+      "gas:candidate-vibid:25220001214849": 33,
+      "gas:candidate-vibid:25220001208803": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -12074,16 +12074,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 115,
-      "Богданов Игорь Михайлович": 65,
-      "Зайцева Валерия Евгеньевна": 14,
-      "Кузнецов Михаил Сергеевич": 33,
-      "Лудина Анна Николаевна": 14,
-      "Москвин Денис Павлович": 441,
-      "Мурахтаева Ирина Вячеславовна": 13,
-      "Фомин Роман Владимирович": 110,
-      "Цапанов Александр Васильевич": 44,
-      "Юдина Светлана Владимировна": 61
+      "gas:candidate-vibid:25220001204485": 115,
+      "gas:candidate-vibid:25220001210069": 65,
+      "gas:candidate-vibid:25220001216071": 14,
+      "gas:candidate-vibid:25220001216082": 33,
+      "gas:candidate-vibid:25220001216990": 14,
+      "gas:candidate-vibid:25220001211296": 441,
+      "gas:candidate-vibid:25220001216772": 13,
+      "gas:candidate-vibid:25220001214860": 110,
+      "gas:candidate-vibid:25220001214849": 44,
+      "gas:candidate-vibid:25220001208803": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -12134,16 +12134,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 113,
-      "Богданов Игорь Михайлович": 61,
-      "Зайцева Валерия Евгеньевна": 18,
-      "Кузнецов Михаил Сергеевич": 27,
-      "Лудина Анна Николаевна": 13,
-      "Москвин Денис Павлович": 548,
-      "Мурахтаева Ирина Вячеславовна": 28,
-      "Фомин Роман Владимирович": 127,
-      "Цапанов Александр Васильевич": 34,
-      "Юдина Светлана Владимировна": 51
+      "gas:candidate-vibid:25220001204485": 113,
+      "gas:candidate-vibid:25220001210069": 61,
+      "gas:candidate-vibid:25220001216071": 18,
+      "gas:candidate-vibid:25220001216082": 27,
+      "gas:candidate-vibid:25220001216990": 13,
+      "gas:candidate-vibid:25220001211296": 548,
+      "gas:candidate-vibid:25220001216772": 28,
+      "gas:candidate-vibid:25220001214860": 127,
+      "gas:candidate-vibid:25220001214849": 34,
+      "gas:candidate-vibid:25220001208803": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",
@@ -12194,16 +12194,16 @@ export const duma_2016_uik_463_region_52_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Павел Михайлович": 102,
-      "Богданов Игорь Михайлович": 65,
-      "Зайцева Валерия Евгеньевна": 18,
-      "Кузнецов Михаил Сергеевич": 35,
-      "Лудина Анна Николаевна": 10,
-      "Москвин Денис Павлович": 498,
-      "Мурахтаева Ирина Вячеславовна": 19,
-      "Фомин Роман Владимирович": 114,
-      "Цапанов Александр Васильевич": 29,
-      "Юдина Светлана Владимировна": 52
+      "gas:candidate-vibid:25220001204485": 102,
+      "gas:candidate-vibid:25220001210069": 65,
+      "gas:candidate-vibid:25220001216071": 18,
+      "gas:candidate-vibid:25220001216082": 35,
+      "gas:candidate-vibid:25220001216990": 10,
+      "gas:candidate-vibid:25220001211296": 498,
+      "gas:candidate-vibid:25220001216772": 19,
+      "gas:candidate-vibid:25220001214860": 114,
+      "gas:candidate-vibid:25220001214849": 29,
+      "gas:candidate-vibid:25220001208803": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nnov?action=show&root=1000171&tvd=25220001128350&vrn=100100067795849&region=52&global=&sub_region=52&prver=0&pronetvd=null&vibid=25220001128350&type=464",

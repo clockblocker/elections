@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 38,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 185,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 10,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 38,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 185,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 10,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 40,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 99,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 3,
-      "Петухов Сергей Викторович": 5,
-      "Сипягин Владимир Владимирович": 19
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 40,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 99,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 3,
+      "gas:candidate-vibid:2332000798996": 5,
+      "gas:candidate-vibid:2332000784676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 14,
-      "Емельянова Лариса Николаевна": 52,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 242,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 15,
-      "Петухов Сергей Викторович": 17,
-      "Сипягин Владимир Владимирович": 43
+      "gas:candidate-vibid:2332000796818": 14,
+      "gas:candidate-vibid:2332000789037": 52,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 242,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 15,
+      "gas:candidate-vibid:2332000798996": 17,
+      "gas:candidate-vibid:2332000784676": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 9,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 65,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 4,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 18
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 9,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 65,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 4,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 97,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 266,
-      "Казаков Сергей Валентинович": 27,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 37,
-      "Петухов Сергей Викторович": 34,
-      "Сипягин Владимир Владимирович": 72
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 97,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 266,
+      "gas:candidate-vibid:2332000790869": 27,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 37,
+      "gas:candidate-vibid:2332000798996": 34,
+      "gas:candidate-vibid:2332000784676": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 24,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 171,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 12,
-      "Петухов Сергей Викторович": 5,
-      "Сипягин Владимир Владимирович": 32
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 24,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 171,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 12,
+      "gas:candidate-vibid:2332000798996": 5,
+      "gas:candidate-vibid:2332000784676": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 16,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 60,
-      "Казаков Сергей Валентинович": 0,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 1,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 26
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 16,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 60,
+      "gas:candidate-vibid:2332000790869": 0,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 1,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 14,
-      "Емельянова Лариса Николаевна": 110,
-      "Ефремов Алексей Николаевич": 13,
-      "Игошин Игорь Николаевич": 340,
-      "Казаков Сергей Валентинович": 21,
-      "Ковалев Кирилл Юрьевич": 14,
-      "Майоров Алексей Владимирович": 22,
-      "Марков Тимур Александрович": 26,
-      "Петухов Сергей Викторович": 27,
-      "Сипягин Владимир Владимирович": 92
+      "gas:candidate-vibid:2332000796818": 14,
+      "gas:candidate-vibid:2332000789037": 110,
+      "gas:candidate-vibid:2332000799050": 13,
+      "gas:candidate-vibid:2332000795528": 340,
+      "gas:candidate-vibid:2332000790869": 21,
+      "gas:candidate-vibid:2332000791433": 14,
+      "gas:candidate-vibid:2332000794156": 22,
+      "gas:candidate-vibid:2332000786114": 26,
+      "gas:candidate-vibid:2332000798996": 27,
+      "gas:candidate-vibid:2332000784676": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 82,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 258,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 25,
-      "Петухов Сергей Викторович": 31,
-      "Сипягин Владимир Владимирович": 61
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 82,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 258,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 25,
+      "gas:candidate-vibid:2332000798996": 31,
+      "gas:candidate-vibid:2332000784676": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 81,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 236,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 15,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 19,
-      "Петухов Сергей Викторович": 28,
-      "Сипягин Владимир Владимирович": 91
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 81,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 236,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 15,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 19,
+      "gas:candidate-vibid:2332000798996": 28,
+      "gas:candidate-vibid:2332000784676": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 87,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 286,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 17,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 41
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 87,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 286,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 17,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 19,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 261,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 11,
-      "Петухов Сергей Викторович": 5,
-      "Сипягин Владимир Владимирович": 39
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 19,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 261,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 11,
+      "gas:candidate-vibid:2332000798996": 5,
+      "gas:candidate-vibid:2332000784676": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 45,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 231,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 15,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 48
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 45,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 231,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 15,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 74,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 389,
-      "Казаков Сергей Валентинович": 9,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 22,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 65
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 74,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 389,
+      "gas:candidate-vibid:2332000790869": 9,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 22,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 15,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 85,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 2,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 16
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 15,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 85,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 2,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 37,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 126,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 20,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 48
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 37,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 126,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 20,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 19,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 100,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 8,
-      "Петухов Сергей Викторович": 2,
-      "Сипягин Владимир Владимирович": 33
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 19,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 100,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 8,
+      "gas:candidate-vibid:2332000798996": 2,
+      "gas:candidate-vibid:2332000784676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725978&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725978&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 76,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 322,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 53,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 87
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 76,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 322,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 53,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 61,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 234,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 12,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 37,
-      "Петухов Сергей Викторович": 18,
-      "Сипягин Владимир Владимирович": 56
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 61,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 234,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 12,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 37,
+      "gas:candidate-vibid:2332000798996": 18,
+      "gas:candidate-vibid:2332000784676": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 135,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 336,
-      "Казаков Сергей Валентинович": 18,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 41,
-      "Петухов Сергей Викторович": 27,
-      "Сипягин Владимир Владимирович": 75
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 135,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 336,
+      "gas:candidate-vibid:2332000790869": 18,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 41,
+      "gas:candidate-vibid:2332000798996": 27,
+      "gas:candidate-vibid:2332000784676": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 42,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 182,
-      "Казаков Сергей Валентинович": 8,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 24,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 32
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 42,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 182,
+      "gas:candidate-vibid:2332000790869": 8,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 24,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 82,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 431,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 56,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 78
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 82,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 431,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 56,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 86,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 405,
-      "Казаков Сергей Валентинович": 32,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 59,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 62
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 86,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 405,
+      "gas:candidate-vibid:2332000790869": 32,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 59,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 48,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 455,
-      "Казаков Сергей Валентинович": 18,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 43,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 40
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 48,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 455,
+      "gas:candidate-vibid:2332000790869": 18,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 43,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 82,
-      "Ефремов Алексей Николаевич": 19,
-      "Игошин Игорь Николаевич": 382,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 57,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 62
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 82,
+      "gas:candidate-vibid:2332000799050": 19,
+      "gas:candidate-vibid:2332000795528": 382,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 57,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 53,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 256,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 33,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 46
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 53,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 256,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 33,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 93,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 323,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 36,
-      "Петухов Сергей Викторович": 18,
-      "Сипягин Владимир Владимирович": 72
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 93,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 323,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 36,
+      "gas:candidate-vibid:2332000798996": 18,
+      "gas:candidate-vibid:2332000784676": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 0,
-      "Емельянова Лариса Николаевна": 28,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 110,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 6,
-      "Сипягин Владимир Владимирович": 14
+      "gas:candidate-vibid:2332000796818": 0,
+      "gas:candidate-vibid:2332000789037": 28,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 110,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 6,
+      "gas:candidate-vibid:2332000784676": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 68,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 154,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 17,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 33
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 68,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 154,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 17,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 26,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 157,
-      "Казаков Сергей Валентинович": 8,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 20,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 18
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 26,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 157,
+      "gas:candidate-vibid:2332000790869": 8,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 20,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 0,
-      "Емельянова Лариса Николаевна": 12,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 115,
-      "Казаков Сергей Валентинович": 1,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 6,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 5
+      "gas:candidate-vibid:2332000796818": 0,
+      "gas:candidate-vibid:2332000789037": 12,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 115,
+      "gas:candidate-vibid:2332000790869": 1,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 6,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 40,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 350,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 39,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 43
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 40,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 350,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 39,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 17,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 124,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 15,
-      "Петухов Сергей Викторович": 2,
-      "Сипягин Владимир Владимирович": 9
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 17,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 124,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 15,
+      "gas:candidate-vibid:2332000798996": 2,
+      "gas:candidate-vibid:2332000784676": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 264,
-      "Казаков Сергей Валентинович": 8,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 42,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 264,
+      "gas:candidate-vibid:2332000790869": 8,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 42,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 0,
-      "Емельянова Лариса Николаевна": 12,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 117,
-      "Казаков Сергей Валентинович": 1,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 12,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 12
+      "gas:candidate-vibid:2332000796818": 0,
+      "gas:candidate-vibid:2332000789037": 12,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 117,
+      "gas:candidate-vibid:2332000790869": 1,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 12,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 65,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 347,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 47,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 28
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 65,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 347,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 47,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 45,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 312,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 21,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 27
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 45,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 312,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 21,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725979&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725979&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 81,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 336,
-      "Казаков Сергей Валентинович": 30,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 50,
-      "Петухов Сергей Викторович": 26,
-      "Сипягин Владимир Владимирович": 84
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 81,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 336,
+      "gas:candidate-vibid:2332000790869": 30,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 50,
+      "gas:candidate-vibid:2332000798996": 26,
+      "gas:candidate-vibid:2332000784676": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 105,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 282,
-      "Казаков Сергей Валентинович": 29,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 67,
-      "Петухов Сергей Викторович": 27,
-      "Сипягин Владимир Владимирович": 92
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 105,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 282,
+      "gas:candidate-vibid:2332000790869": 29,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 67,
+      "gas:candidate-vibid:2332000798996": 27,
+      "gas:candidate-vibid:2332000784676": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 18,
-      "Емельянова Лариса Николаевна": 90,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 387,
-      "Казаков Сергей Валентинович": 18,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 10,
-      "Марков Тимур Александрович": 31,
-      "Петухов Сергей Викторович": 27,
-      "Сипягин Владимир Владимирович": 85
+      "gas:candidate-vibid:2332000796818": 18,
+      "gas:candidate-vibid:2332000789037": 90,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 387,
+      "gas:candidate-vibid:2332000790869": 18,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 10,
+      "gas:candidate-vibid:2332000786114": 31,
+      "gas:candidate-vibid:2332000798996": 27,
+      "gas:candidate-vibid:2332000784676": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 49,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 209,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 19,
-      "Петухов Сергей Викторович": 26,
-      "Сипягин Владимир Владимирович": 71
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 49,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 209,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 19,
+      "gas:candidate-vibid:2332000798996": 26,
+      "gas:candidate-vibid:2332000784676": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 55,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 319,
-      "Казаков Сергей Валентинович": 21,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 41,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 104
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 55,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 319,
+      "gas:candidate-vibid:2332000790869": 21,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 41,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 56,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 286,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 52,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 87
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 56,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 286,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 52,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 66,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 288,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 59,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 76
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 66,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 288,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 59,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 63,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 276,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 31,
-      "Петухов Сергей Викторович": 26,
-      "Сипягин Владимир Владимирович": 82
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 63,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 276,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 31,
+      "gas:candidate-vibid:2332000798996": 26,
+      "gas:candidate-vibid:2332000784676": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 106,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 317,
-      "Казаков Сергей Валентинович": 27,
-      "Ковалев Кирилл Юрьевич": 13,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 55,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 99
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 106,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 317,
+      "gas:candidate-vibid:2332000790869": 27,
+      "gas:candidate-vibid:2332000791433": 13,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 55,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 119,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 339,
-      "Казаков Сергей Валентинович": 21,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 43,
-      "Петухов Сергей Викторович": 37,
-      "Сипягин Владимир Владимирович": 62
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 119,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 339,
+      "gas:candidate-vibid:2332000790869": 21,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 43,
+      "gas:candidate-vibid:2332000798996": 37,
+      "gas:candidate-vibid:2332000784676": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 49,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 263,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 23,
-      "Петухов Сергей Викторович": 18,
-      "Сипягин Владимир Владимирович": 69
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 49,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 263,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 23,
+      "gas:candidate-vibid:2332000798996": 18,
+      "gas:candidate-vibid:2332000784676": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 29,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 120,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 9,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 29,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 120,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 9,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 59,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 213,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 29,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 69
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 59,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 213,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 29,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 74,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 370,
-      "Казаков Сергей Валентинович": 19,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 41,
-      "Петухов Сергей Викторович": 37,
-      "Сипягин Владимир Владимирович": 70
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 74,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 370,
+      "gas:candidate-vibid:2332000790869": 19,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 41,
+      "gas:candidate-vibid:2332000798996": 37,
+      "gas:candidate-vibid:2332000784676": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 80,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 330,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 37,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 70
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 80,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 330,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 37,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 84,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 375,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 64,
-      "Петухов Сергей Викторович": 29,
-      "Сипягин Владимир Владимирович": 91
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 84,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 375,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 64,
+      "gas:candidate-vibid:2332000798996": 29,
+      "gas:candidate-vibid:2332000784676": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 80,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 361,
-      "Казаков Сергей Валентинович": 34,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 54,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 86
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 80,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 361,
+      "gas:candidate-vibid:2332000790869": 34,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 54,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 38,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 140,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 9,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 33
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 38,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 140,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 9,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 11,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 52,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 7,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 27
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 11,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 52,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 7,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 88,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 262,
-      "Казаков Сергей Валентинович": 10,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 40,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 79
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 88,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 262,
+      "gas:candidate-vibid:2332000790869": 10,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 40,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 21,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 241,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 14,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 57
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 21,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 241,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 14,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 35,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 190,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 60
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 35,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 190,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 35,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 218,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 18,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 59
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 35,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 218,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 18,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 50,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 196,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 28,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 51
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 50,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 196,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 28,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 43,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 134,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 13,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 39
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 43,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 134,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 13,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 10,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 83,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 8,
-      "Петухов Сергей Викторович": 1,
-      "Сипягин Владимир Владимирович": 11
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 10,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 83,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 8,
+      "gas:candidate-vibid:2332000798996": 1,
+      "gas:candidate-vibid:2332000784676": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 42,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 209,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 10,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 35
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 42,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 209,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 10,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 0,
-      "Емельянова Лариса Николаевна": 4,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 104,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 2,
-      "Петухов Сергей Викторович": 2,
-      "Сипягин Владимир Владимирович": 6
+      "gas:candidate-vibid:2332000796818": 0,
+      "gas:candidate-vibid:2332000789037": 4,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 104,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 2,
+      "gas:candidate-vibid:2332000798996": 2,
+      "gas:candidate-vibid:2332000784676": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 13,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 158,
-      "Казаков Сергей Валентинович": 1,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 5,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 10
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 13,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 158,
+      "gas:candidate-vibid:2332000790869": 1,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 5,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 124,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 9,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 12
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 124,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 9,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 9,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 101,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 14,
-      "Петухов Сергей Викторович": 5,
-      "Сипягин Владимир Владимирович": 14
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 9,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 101,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 14,
+      "gas:candidate-vibid:2332000798996": 5,
+      "gas:candidate-vibid:2332000784676": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 53,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 442,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 52,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 51
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 53,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 442,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 52,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 82,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 322,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 21,
-      "Марков Тимур Александрович": 36,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 54
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 82,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 322,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 21,
+      "gas:candidate-vibid:2332000786114": 36,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 67,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 357,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 35,
-      "Петухов Сергей Викторович": 23,
-      "Сипягин Владимир Владимирович": 59
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 67,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 357,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 35,
+      "gas:candidate-vibid:2332000798996": 23,
+      "gas:candidate-vibid:2332000784676": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 26,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 203,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 23,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 26,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 203,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 23,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 78,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 137,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 17,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 47
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 78,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 137,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 17,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 17,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 79,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 3,
-      "Петухов Сергей Викторович": 5,
-      "Сипягин Владимир Владимирович": 13
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 17,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 79,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 3,
+      "gas:candidate-vibid:2332000798996": 5,
+      "gas:candidate-vibid:2332000784676": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 23,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 195,
-      "Казаков Сергей Валентинович": 0,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 4,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 14
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 23,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 195,
+      "gas:candidate-vibid:2332000790869": 0,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 4,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 18,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 97,
-      "Казаков Сергей Валентинович": 1,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 18,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 14
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 18,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 97,
+      "gas:candidate-vibid:2332000790869": 1,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 18,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 20,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 130,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 9,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 32
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 20,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 130,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 9,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 59,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 311,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 88,
-      "Петухов Сергей Викторович": 22,
-      "Сипягин Владимир Владимирович": 38
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 59,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 311,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 88,
+      "gas:candidate-vibid:2332000798996": 22,
+      "gas:candidate-vibid:2332000784676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 8,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 104,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 11,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 19
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 8,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 104,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 11,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 35,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 172,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 21,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 30
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 35,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 172,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 21,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 17,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 170,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 36,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 19
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 17,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 170,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 36,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 0,
-      "Емельянова Лариса Николаевна": 9,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 66,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 14,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 7
+      "gas:candidate-vibid:2332000796818": 0,
+      "gas:candidate-vibid:2332000789037": 9,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 66,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 14,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 14,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 115,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 14,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 12
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 14,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 115,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 14,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 10,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 74,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 22,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 10
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 10,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 74,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 22,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 36,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 129,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 24,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 13
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 36,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 129,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 24,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 501,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 10,
-      "Марков Тимур Александрович": 118,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 84
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 501,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 10,
+      "gas:candidate-vibid:2332000786114": 118,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 7,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 84,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 10,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 12
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 7,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 84,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 10,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 41,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 263,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 52,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 37
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 41,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 263,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 52,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 43,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 351,
-      "Казаков Сергей Валентинович": 0,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 35,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 59
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 43,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 351,
+      "gas:candidate-vibid:2332000790869": 0,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 35,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 128,
-      "Ефремов Алексей Николаевич": 18,
-      "Игошин Игорь Николаевич": 279,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 32,
-      "Петухов Сергей Викторович": 17,
-      "Сипягин Владимир Владимирович": 54
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 128,
+      "gas:candidate-vibid:2332000799050": 18,
+      "gas:candidate-vibid:2332000795528": 279,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 32,
+      "gas:candidate-vibid:2332000798996": 17,
+      "gas:candidate-vibid:2332000784676": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 38,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 99,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 10,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 28
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 38,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 99,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 10,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 17,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 155,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 4,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 22
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 17,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 155,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 4,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 30,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 247,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 20,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 26
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 30,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 247,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 20,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 56,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 228,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 59
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 56,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 228,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 24,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 54,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 29,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 31
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 24,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 54,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 29,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 13,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 48,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 15,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 25
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 13,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 48,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 15,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 10,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 39,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 5,
-      "Петухов Сергей Викторович": 2,
-      "Сипягин Владимир Владимирович": 19
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 10,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 39,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 5,
+      "gas:candidate-vibid:2332000798996": 2,
+      "gas:candidate-vibid:2332000784676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 38,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 128,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 36,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 35
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 38,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 128,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 36,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 43,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 165,
-      "Казаков Сергей Валентинович": 8,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 31,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 38
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 43,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 165,
+      "gas:candidate-vibid:2332000790869": 8,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 31,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 27,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 92,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 10,
-      "Петухов Сергей Викторович": 6,
-      "Сипягин Владимир Владимирович": 15
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 27,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 92,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 10,
+      "gas:candidate-vibid:2332000798996": 6,
+      "gas:candidate-vibid:2332000784676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 5,
-      "Ефремов Алексей Николаевич": 1,
-      "Игошин Игорь Николаевич": 60,
-      "Казаков Сергей Валентинович": 1,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 10,
-      "Петухов Сергей Викторович": 0,
-      "Сипягин Владимир Владимирович": 7
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 5,
+      "gas:candidate-vibid:2332000799050": 1,
+      "gas:candidate-vibid:2332000795528": 60,
+      "gas:candidate-vibid:2332000790869": 1,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 10,
+      "gas:candidate-vibid:2332000798996": 0,
+      "gas:candidate-vibid:2332000784676": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 17,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 114,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 3,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 24
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 17,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 114,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 3,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 19,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 40,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 7,
-      "Петухов Сергей Викторович": 1,
-      "Сипягин Владимир Владимирович": 8
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 19,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 40,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 7,
+      "gas:candidate-vibid:2332000798996": 1,
+      "gas:candidate-vibid:2332000784676": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 36,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 158,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 0,
-      "Марков Тимур Александрович": 4,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 30
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 36,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 158,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 0,
+      "gas:candidate-vibid:2332000786114": 4,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 6,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 30,
-      "Казаков Сергей Валентинович": 0,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 3,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 9
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 6,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 30,
+      "gas:candidate-vibid:2332000790869": 0,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 3,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 25,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 100,
-      "Казаков Сергей Валентинович": 1,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 32
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 25,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 100,
+      "gas:candidate-vibid:2332000790869": 1,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725980&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725980&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 34,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 272,
-      "Казаков Сергей Валентинович": 21,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 12,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 41
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 34,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 272,
+      "gas:candidate-vibid:2332000790869": 21,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 12,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 41,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 300,
-      "Казаков Сергей Валентинович": 42,
-      "Ковалев Кирилл Юрьевич": 13,
-      "Майоров Алексей Владимирович": 28,
-      "Марков Тимур Александрович": 21,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 20
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 41,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 300,
+      "gas:candidate-vibid:2332000790869": 42,
+      "gas:candidate-vibid:2332000791433": 13,
+      "gas:candidate-vibid:2332000794156": 28,
+      "gas:candidate-vibid:2332000786114": 21,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 38,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 291,
-      "Казаков Сергей Валентинович": 22,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 19,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 19
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 38,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 291,
+      "gas:candidate-vibid:2332000790869": 22,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 19,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 70,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 354,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 22,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 29
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 70,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 354,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 22,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 99,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 415,
-      "Казаков Сергей Валентинович": 18,
-      "Ковалев Кирилл Юрьевич": 16,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 38
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 99,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 415,
+      "gas:candidate-vibid:2332000790869": 18,
+      "gas:candidate-vibid:2332000791433": 16,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 78,
-      "Ефремов Алексей Николаевич": 19,
-      "Игошин Игорь Николаевич": 312,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 23,
-      "Марков Тимур Александрович": 13,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 38
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 78,
+      "gas:candidate-vibid:2332000799050": 19,
+      "gas:candidate-vibid:2332000795528": 312,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 23,
+      "gas:candidate-vibid:2332000786114": 13,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 65,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 371,
-      "Казаков Сергей Валентинович": 22,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 28,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 24
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 65,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 371,
+      "gas:candidate-vibid:2332000790869": 22,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 28,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 86,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 457,
-      "Казаков Сергей Валентинович": 31,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 25,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 24
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 86,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 457,
+      "gas:candidate-vibid:2332000790869": 31,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 25,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 74,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 279,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 24,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 47
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 74,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 279,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 24,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 42,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 262,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 18,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 15
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 42,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 262,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 18,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 69,
-      "Ефремов Алексей Николаевич": 18,
-      "Игошин Игорь Николаевич": 417,
-      "Казаков Сергей Валентинович": 28,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 22,
-      "Марков Тимур Александрович": 49,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 27
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 69,
+      "gas:candidate-vibid:2332000799050": 18,
+      "gas:candidate-vibid:2332000795528": 417,
+      "gas:candidate-vibid:2332000790869": 28,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 22,
+      "gas:candidate-vibid:2332000786114": 49,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 66,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 336,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 23,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 33
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 66,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 336,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 23,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 71,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 365,
-      "Казаков Сергей Валентинович": 31,
-      "Ковалев Кирилл Юрьевич": 12,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 43,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 71,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 365,
+      "gas:candidate-vibid:2332000790869": 31,
+      "gas:candidate-vibid:2332000791433": 12,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 43,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 41,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 199,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 16
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 41,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 199,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 55,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 257,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 41,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 23
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 55,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 257,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 41,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 50,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 350,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 12,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 27,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 25
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 50,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 350,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 12,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 27,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 256,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 28,
-      "Петухов Сергей Викторович": 5,
-      "Сипягин Владимир Владимирович": 26
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 256,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 28,
+      "gas:candidate-vibid:2332000798996": 5,
+      "gas:candidate-vibid:2332000784676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 23,
-      "Емельянова Лариса Николаевна": 53,
-      "Ефремов Алексей Николаевич": 13,
-      "Игошин Игорь Николаевич": 378,
-      "Казаков Сергей Валентинович": 35,
-      "Ковалев Кирилл Юрьевич": 13,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 52,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 38
+      "gas:candidate-vibid:2332000796818": 23,
+      "gas:candidate-vibid:2332000789037": 53,
+      "gas:candidate-vibid:2332000799050": 13,
+      "gas:candidate-vibid:2332000795528": 378,
+      "gas:candidate-vibid:2332000790869": 35,
+      "gas:candidate-vibid:2332000791433": 13,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 52,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 324,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 28,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 24
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 324,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 28,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 67,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 343,
-      "Казаков Сергей Валентинович": 20,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 32,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 67,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 343,
+      "gas:candidate-vibid:2332000790869": 20,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 32,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 16,
-      "Емельянова Лариса Николаевна": 82,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 425,
-      "Казаков Сергей Валентинович": 29,
-      "Ковалев Кирилл Юрьевич": 12,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 46,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 46
+      "gas:candidate-vibid:2332000796818": 16,
+      "gas:candidate-vibid:2332000789037": 82,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 425,
+      "gas:candidate-vibid:2332000790869": 29,
+      "gas:candidate-vibid:2332000791433": 12,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 46,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 62,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 280,
-      "Казаков Сергей Валентинович": 31,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 20,
-      "Марков Тимур Александрович": 40,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 26
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 62,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 280,
+      "gas:candidate-vibid:2332000790869": 31,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 20,
+      "gas:candidate-vibid:2332000786114": 40,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 58,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 274,
-      "Казаков Сергей Валентинович": 19,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 29,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 20
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 58,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 274,
+      "gas:candidate-vibid:2332000790869": 19,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 29,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 66,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 305,
-      "Казаков Сергей Валентинович": 32,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 26,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 29
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 66,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 305,
+      "gas:candidate-vibid:2332000790869": 32,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 26,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 63,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 320,
-      "Казаков Сергей Валентинович": 27,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 26,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 31
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 63,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 320,
+      "gas:candidate-vibid:2332000790869": 27,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 26,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 59,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 244,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 20,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 48
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 59,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 244,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 20,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 63,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 290,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 55
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 63,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 290,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 16,
-      "Емельянова Лариса Николаевна": 86,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 363,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 13,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 45,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 56
+      "gas:candidate-vibid:2332000796818": 16,
+      "gas:candidate-vibid:2332000789037": 86,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 363,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 13,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 45,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 20,
-      "Емельянова Лариса Николаевна": 94,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 363,
-      "Казаков Сергей Валентинович": 22,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 21,
-      "Марков Тимур Александрович": 25,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 30
+      "gas:candidate-vibid:2332000796818": 20,
+      "gas:candidate-vibid:2332000789037": 94,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 363,
+      "gas:candidate-vibid:2332000790869": 22,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 21,
+      "gas:candidate-vibid:2332000786114": 25,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 56,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 439,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 14,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 19,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 29
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 56,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 439,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 14,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 19,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 64,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 299,
-      "Казаков Сергей Валентинович": 31,
-      "Ковалев Кирилл Юрьевич": 16,
-      "Майоров Алексей Владимирович": 10,
-      "Марков Тимур Александрович": 17,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 16
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 64,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 299,
+      "gas:candidate-vibid:2332000790869": 31,
+      "gas:candidate-vibid:2332000791433": 16,
+      "gas:candidate-vibid:2332000794156": 10,
+      "gas:candidate-vibid:2332000786114": 17,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 52,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 378,
-      "Казаков Сергей Валентинович": 6,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 22,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 41
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 52,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 378,
+      "gas:candidate-vibid:2332000790869": 6,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 22,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 51,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 155,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 6,
-      "Петухов Сергей Викторович": 17,
-      "Сипягин Владимир Владимирович": 20
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 51,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 155,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 6,
+      "gas:candidate-vibid:2332000798996": 17,
+      "gas:candidate-vibid:2332000784676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 26,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 251,
-      "Казаков Сергей Валентинович": 9,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 13,
-      "Петухов Сергей Викторович": 3,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 26,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 251,
+      "gas:candidate-vibid:2332000790869": 9,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 13,
+      "gas:candidate-vibid:2332000798996": 3,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 71,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 307,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 40,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 72
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 71,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 307,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 40,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 18,
-      "Емельянова Лариса Николаевна": 57,
-      "Ефремов Алексей Николаевич": 24,
-      "Игошин Игорь Николаевич": 475,
-      "Казаков Сергей Валентинович": 40,
-      "Ковалев Кирилл Юрьевич": 12,
-      "Майоров Алексей Владимирович": 23,
-      "Марков Тимур Александрович": 30,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 43
+      "gas:candidate-vibid:2332000796818": 18,
+      "gas:candidate-vibid:2332000789037": 57,
+      "gas:candidate-vibid:2332000799050": 24,
+      "gas:candidate-vibid:2332000795528": 475,
+      "gas:candidate-vibid:2332000790869": 40,
+      "gas:candidate-vibid:2332000791433": 12,
+      "gas:candidate-vibid:2332000794156": 23,
+      "gas:candidate-vibid:2332000786114": 30,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 63,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 323,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 14,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 19
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 63,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 323,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 14,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 71,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 322,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 35,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 50
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 71,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 322,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 35,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 65,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 284,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 21,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 34
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 65,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 284,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 21,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 53,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 321,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 23,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 20
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 53,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 321,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 23,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 90,
-      "Ефремов Алексей Николаевич": 22,
-      "Игошин Игорь Николаевич": 442,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 20,
-      "Марков Тимур Александрович": 30,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 40
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 90,
+      "gas:candidate-vibid:2332000799050": 22,
+      "gas:candidate-vibid:2332000795528": 442,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 20,
+      "gas:candidate-vibid:2332000786114": 30,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 28,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 190,
-      "Казаков Сергей Валентинович": 10,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 7,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 25
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 28,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 190,
+      "gas:candidate-vibid:2332000790869": 10,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 7,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 52,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 345,
-      "Казаков Сергей Валентинович": 23,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 22,
-      "Марков Тимур Александрович": 12,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 29
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 52,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 345,
+      "gas:candidate-vibid:2332000790869": 23,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 22,
+      "gas:candidate-vibid:2332000786114": 12,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 56,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 347,
-      "Казаков Сергей Валентинович": 41,
-      "Ковалев Кирилл Юрьевич": 14,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 22,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 31
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 56,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 347,
+      "gas:candidate-vibid:2332000790869": 41,
+      "gas:candidate-vibid:2332000791433": 14,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 22,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 62,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 255,
-      "Казаков Сергей Валентинович": 28,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 25,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 26
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 62,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 255,
+      "gas:candidate-vibid:2332000790869": 28,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 25,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 67,
-      "Емельянова Лариса Николаевна": 95,
-      "Ефремов Алексей Николаевич": 68,
-      "Игошин Игорь Николаевич": 538,
-      "Казаков Сергей Валентинович": 61,
-      "Ковалев Кирилл Юрьевич": 37,
-      "Майоров Алексей Владимирович": 108,
-      "Марков Тимур Александрович": 87,
-      "Петухов Сергей Викторович": 39,
-      "Сипягин Владимир Владимирович": 56
+      "gas:candidate-vibid:2332000796818": 67,
+      "gas:candidate-vibid:2332000789037": 95,
+      "gas:candidate-vibid:2332000799050": 68,
+      "gas:candidate-vibid:2332000795528": 538,
+      "gas:candidate-vibid:2332000790869": 61,
+      "gas:candidate-vibid:2332000791433": 37,
+      "gas:candidate-vibid:2332000794156": 108,
+      "gas:candidate-vibid:2332000786114": 87,
+      "gas:candidate-vibid:2332000798996": 39,
+      "gas:candidate-vibid:2332000784676": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 37,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 168,
-      "Казаков Сергей Валентинович": 18,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 6,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 10
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 37,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 168,
+      "gas:candidate-vibid:2332000790869": 18,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 6,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 48,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 202,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 22,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 49
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 48,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 202,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 22,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 42,
-      "Ефремов Алексей Николаевич": 2,
-      "Игошин Игорь Николаевич": 208,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 17,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 23
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 42,
+      "gas:candidate-vibid:2332000799050": 2,
+      "gas:candidate-vibid:2332000795528": 208,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 17,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 51,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 321,
-      "Казаков Сергей Валентинович": 31,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 30,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 23
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 51,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 321,
+      "gas:candidate-vibid:2332000790869": 31,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 30,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 50,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 322,
-      "Казаков Сергей Валентинович": 23,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 34,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 37
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 50,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 322,
+      "gas:candidate-vibid:2332000790869": 23,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 34,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 55,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 266,
-      "Казаков Сергей Валентинович": 32,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 37,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 21
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 55,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 266,
+      "gas:candidate-vibid:2332000790869": 32,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 37,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 15,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 96,
-      "Казаков Сергей Валентинович": 4,
-      "Ковалев Кирилл Юрьевич": 2,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 4,
-      "Петухов Сергей Викторович": 1,
-      "Сипягин Владимир Владимирович": 22
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 15,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 96,
+      "gas:candidate-vibid:2332000790869": 4,
+      "gas:candidate-vibid:2332000791433": 2,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 4,
+      "gas:candidate-vibid:2332000798996": 1,
+      "gas:candidate-vibid:2332000784676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 60,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 190,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 14,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 15
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 60,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 190,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 14,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 76,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 267,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 68,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 45
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 76,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 267,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 68,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 95,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 449,
-      "Казаков Сергей Валентинович": 19,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 21,
-      "Марков Тимур Александрович": 41,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 22
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 95,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 449,
+      "gas:candidate-vibid:2332000790869": 19,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 21,
+      "gas:candidate-vibid:2332000786114": 41,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 88,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 299,
-      "Казаков Сергей Валентинович": 20,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 48,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 36
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 88,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 299,
+      "gas:candidate-vibid:2332000790869": 20,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 48,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 135,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 396,
-      "Казаков Сергей Валентинович": 39,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 70,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 44
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 135,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 396,
+      "gas:candidate-vibid:2332000790869": 39,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 70,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 84,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 410,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 42,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 26
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 84,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 410,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 42,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 63,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 221,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 30,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 20
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 63,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 221,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 30,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 49,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 232,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 22,
-      "Петухов Сергей Викторович": 17,
-      "Сипягин Владимир Владимирович": 17
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 49,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 232,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 22,
+      "gas:candidate-vibid:2332000798996": 17,
+      "gas:candidate-vibid:2332000784676": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 34,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 214,
-      "Казаков Сергей Валентинович": 10,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 18,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 14
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 34,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 214,
+      "gas:candidate-vibid:2332000790869": 10,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 18,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 19,
-      "Емельянова Лариса Николаевна": 91,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 377,
-      "Казаков Сергей Валентинович": 34,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 52,
-      "Петухов Сергей Викторович": 4,
-      "Сипягин Владимир Владимирович": 33
+      "gas:candidate-vibid:2332000796818": 19,
+      "gas:candidate-vibid:2332000789037": 91,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 377,
+      "gas:candidate-vibid:2332000790869": 34,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 52,
+      "gas:candidate-vibid:2332000798996": 4,
+      "gas:candidate-vibid:2332000784676": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 4,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 239,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 16,
-      "Марков Тимур Александрович": 31,
-      "Петухов Сергей Викторович": 8,
-      "Сипягин Владимир Владимирович": 32
+      "gas:candidate-vibid:2332000796818": 4,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 239,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 16,
+      "gas:candidate-vibid:2332000786114": 31,
+      "gas:candidate-vibid:2332000798996": 8,
+      "gas:candidate-vibid:2332000784676": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 341,
-      "Казаков Сергей Валентинович": 19,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 23,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 23
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 341,
+      "gas:candidate-vibid:2332000790869": 19,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 23,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 263,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 8,
-      "Петухов Сергей Викторович": 7,
-      "Сипягин Владимир Владимирович": 18
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 263,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 8,
+      "gas:candidate-vibid:2332000798996": 7,
+      "gas:candidate-vibid:2332000784676": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 97,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 317,
-      "Казаков Сергей Валентинович": 34,
-      "Ковалев Кирилл Юрьевич": 12,
-      "Майоров Алексей Владимирович": 22,
-      "Марков Тимур Александрович": 43,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 37
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 97,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 317,
+      "gas:candidate-vibid:2332000790869": 34,
+      "gas:candidate-vibid:2332000791433": 12,
+      "gas:candidate-vibid:2332000794156": 22,
+      "gas:candidate-vibid:2332000786114": 43,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 61,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 239,
-      "Казаков Сергей Валентинович": 10,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 10,
-      "Марков Тимур Александрович": 20,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 20
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 61,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 239,
+      "gas:candidate-vibid:2332000790869": 10,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 10,
+      "gas:candidate-vibid:2332000786114": 20,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725981&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725981&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 19,
-      "Емельянова Лариса Николаевна": 50,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 278,
-      "Казаков Сергей Валентинович": 9,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 10,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 42
+      "gas:candidate-vibid:2332000796818": 19,
+      "gas:candidate-vibid:2332000789037": 50,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 278,
+      "gas:candidate-vibid:2332000790869": 9,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 10,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 53,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 184,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 6,
-      "Марков Тимур Александрович": 19,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 54
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 53,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 184,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 6,
+      "gas:candidate-vibid:2332000786114": 19,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 60,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 267,
-      "Казаков Сергей Валентинович": 19,
-      "Ковалев Кирилл Юрьевич": 15,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 36,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 98
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 60,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 267,
+      "gas:candidate-vibid:2332000790869": 19,
+      "gas:candidate-vibid:2332000791433": 15,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 36,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 18,
-      "Емельянова Лариса Николаевна": 84,
-      "Ефремов Алексей Николаевич": 22,
-      "Игошин Игорь Николаевич": 741,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 48,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 66
+      "gas:candidate-vibid:2332000796818": 18,
+      "gas:candidate-vibid:2332000789037": 84,
+      "gas:candidate-vibid:2332000799050": 22,
+      "gas:candidate-vibid:2332000795528": 741,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 48,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 88,
-      "Ефремов Алексей Николаевич": 26,
-      "Игошин Игорь Николаевич": 793,
-      "Казаков Сергей Валентинович": 41,
-      "Ковалев Кирилл Юрьевич": 18,
-      "Майоров Алексей Владимирович": 38,
-      "Марков Тимур Александрович": 40,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 78
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 88,
+      "gas:candidate-vibid:2332000799050": 26,
+      "gas:candidate-vibid:2332000795528": 793,
+      "gas:candidate-vibid:2332000790869": 41,
+      "gas:candidate-vibid:2332000791433": 18,
+      "gas:candidate-vibid:2332000794156": 38,
+      "gas:candidate-vibid:2332000786114": 40,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 38,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 110,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 13,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 46
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 38,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 110,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 13,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 76,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 284,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 29,
-      "Петухов Сергей Викторович": 18,
-      "Сипягин Владимир Владимирович": 70
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 76,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 284,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 29,
+      "gas:candidate-vibid:2332000798996": 18,
+      "gas:candidate-vibid:2332000784676": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 20,
-      "Емельянова Лариса Николаевна": 91,
-      "Ефремов Алексей Николаевич": 19,
-      "Игошин Игорь Николаевич": 346,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 21,
-      "Марков Тимур Александрович": 49,
-      "Петухов Сергей Викторович": 28,
-      "Сипягин Владимир Владимирович": 90
+      "gas:candidate-vibid:2332000796818": 20,
+      "gas:candidate-vibid:2332000789037": 91,
+      "gas:candidate-vibid:2332000799050": 19,
+      "gas:candidate-vibid:2332000795528": 346,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 21,
+      "gas:candidate-vibid:2332000786114": 49,
+      "gas:candidate-vibid:2332000798996": 28,
+      "gas:candidate-vibid:2332000784676": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 17,
-      "Емельянова Лариса Николаевна": 88,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 280,
-      "Казаков Сергей Валентинович": 9,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 39,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 80
+      "gas:candidate-vibid:2332000796818": 17,
+      "gas:candidate-vibid:2332000789037": 88,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 280,
+      "gas:candidate-vibid:2332000790869": 9,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 39,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 16,
-      "Емельянова Лариса Николаевна": 83,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 289,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 23,
-      "Марков Тимур Александрович": 51,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 97
+      "gas:candidate-vibid:2332000796818": 16,
+      "gas:candidate-vibid:2332000789037": 83,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 289,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 23,
+      "gas:candidate-vibid:2332000786114": 51,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 23,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 104,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 15,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 30
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 23,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 104,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 15,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 90,
-      "Ефремов Алексей Николаевич": 18,
-      "Игошин Игорь Николаевич": 250,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 24,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 81
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 90,
+      "gas:candidate-vibid:2332000799050": 18,
+      "gas:candidate-vibid:2332000795528": 250,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 24,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 2,
-      "Емельянова Лариса Николаевна": 60,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 214,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 29,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 50
+      "gas:candidate-vibid:2332000796818": 2,
+      "gas:candidate-vibid:2332000789037": 60,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 214,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 29,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 61,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 176,
-      "Казаков Сергей Валентинович": 21,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 31,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 44
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 61,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 176,
+      "gas:candidate-vibid:2332000790869": 21,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 31,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 102,
-      "Ефремов Алексей Николаевич": 22,
-      "Игошин Игорь Николаевич": 352,
-      "Казаков Сергей Валентинович": 5,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 53,
-      "Петухов Сергей Викторович": 22,
-      "Сипягин Владимир Владимирович": 78
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 102,
+      "gas:candidate-vibid:2332000799050": 22,
+      "gas:candidate-vibid:2332000795528": 352,
+      "gas:candidate-vibid:2332000790869": 5,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 53,
+      "gas:candidate-vibid:2332000798996": 22,
+      "gas:candidate-vibid:2332000784676": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 67,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 312,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 17,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 56,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 66
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 67,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 312,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 17,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 56,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 14,
-      "Емельянова Лариса Николаевна": 64,
-      "Ефремов Алексей Николаевич": 13,
-      "Игошин Игорь Николаевич": 306,
-      "Казаков Сергей Валентинович": 10,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 10,
-      "Марков Тимур Александрович": 59,
-      "Петухов Сергей Викторович": 21,
-      "Сипягин Владимир Владимирович": 61
+      "gas:candidate-vibid:2332000796818": 14,
+      "gas:candidate-vibid:2332000789037": 64,
+      "gas:candidate-vibid:2332000799050": 13,
+      "gas:candidate-vibid:2332000795528": 306,
+      "gas:candidate-vibid:2332000790869": 10,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 10,
+      "gas:candidate-vibid:2332000786114": 59,
+      "gas:candidate-vibid:2332000798996": 21,
+      "gas:candidate-vibid:2332000784676": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 69,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 207,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 33,
-      "Петухов Сергей Викторович": 12,
-      "Сипягин Владимир Владимирович": 74
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 69,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 207,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 33,
+      "gas:candidate-vibid:2332000798996": 12,
+      "gas:candidate-vibid:2332000784676": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 21,
-      "Емельянова Лариса Николаевна": 78,
-      "Ефремов Алексей Николаевич": 10,
-      "Игошин Игорь Николаевич": 290,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 10,
-      "Марков Тимур Александрович": 68,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 71
+      "gas:candidate-vibid:2332000796818": 21,
+      "gas:candidate-vibid:2332000789037": 78,
+      "gas:candidate-vibid:2332000799050": 10,
+      "gas:candidate-vibid:2332000795528": 290,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 10,
+      "gas:candidate-vibid:2332000786114": 68,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 19,
-      "Емельянова Лариса Николаевна": 119,
-      "Ефремов Алексей Николаевич": 20,
-      "Игошин Игорь Николаевич": 462,
-      "Казаков Сергей Валентинович": 20,
-      "Ковалев Кирилл Юрьевич": 21,
-      "Майоров Алексей Владимирович": 26,
-      "Марков Тимур Александрович": 110,
-      "Петухов Сергей Викторович": 30,
-      "Сипягин Владимир Владимирович": 147
+      "gas:candidate-vibid:2332000796818": 19,
+      "gas:candidate-vibid:2332000789037": 119,
+      "gas:candidate-vibid:2332000799050": 20,
+      "gas:candidate-vibid:2332000795528": 462,
+      "gas:candidate-vibid:2332000790869": 20,
+      "gas:candidate-vibid:2332000791433": 21,
+      "gas:candidate-vibid:2332000794156": 26,
+      "gas:candidate-vibid:2332000786114": 110,
+      "gas:candidate-vibid:2332000798996": 30,
+      "gas:candidate-vibid:2332000784676": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 98,
-      "Ефремов Алексей Николаевич": 18,
-      "Игошин Игорь Николаевич": 448,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 60,
-      "Петухов Сергей Викторович": 17,
-      "Сипягин Владимир Владимирович": 107
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 98,
+      "gas:candidate-vibid:2332000799050": 18,
+      "gas:candidate-vibid:2332000795528": 448,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 60,
+      "gas:candidate-vibid:2332000798996": 17,
+      "gas:candidate-vibid:2332000784676": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 97,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 330,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 65,
-      "Петухов Сергей Викторович": 32,
-      "Сипягин Владимир Владимирович": 80
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 97,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 330,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 65,
+      "gas:candidate-vibid:2332000798996": 32,
+      "gas:candidate-vibid:2332000784676": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 16,
-      "Емельянова Лариса Николаевна": 95,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 388,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 104,
-      "Петухов Сергей Викторович": 31,
-      "Сипягин Владимир Владимирович": 95
+      "gas:candidate-vibid:2332000796818": 16,
+      "gas:candidate-vibid:2332000789037": 95,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 388,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 104,
+      "gas:candidate-vibid:2332000798996": 31,
+      "gas:candidate-vibid:2332000784676": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 14,
-      "Емельянова Лариса Николаевна": 86,
-      "Ефремов Алексей Николаевич": 28,
-      "Игошин Игорь Николаевич": 365,
-      "Казаков Сергей Валентинович": 18,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 66,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 68
+      "gas:candidate-vibid:2332000796818": 14,
+      "gas:candidate-vibid:2332000789037": 86,
+      "gas:candidate-vibid:2332000799050": 28,
+      "gas:candidate-vibid:2332000795528": 365,
+      "gas:candidate-vibid:2332000790869": 18,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 66,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 225,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 50,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 62
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 225,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 50,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 24,
-      "Емельянова Лариса Николаевна": 172,
-      "Ефремов Алексей Николаевич": 46,
-      "Игошин Игорь Николаевич": 617,
-      "Казаков Сергей Валентинович": 32,
-      "Ковалев Кирилл Юрьевич": 19,
-      "Майоров Алексей Владимирович": 35,
-      "Марков Тимур Александрович": 103,
-      "Петухов Сергей Викторович": 30,
-      "Сипягин Владимир Владимирович": 125
+      "gas:candidate-vibid:2332000796818": 24,
+      "gas:candidate-vibid:2332000789037": 172,
+      "gas:candidate-vibid:2332000799050": 46,
+      "gas:candidate-vibid:2332000795528": 617,
+      "gas:candidate-vibid:2332000790869": 32,
+      "gas:candidate-vibid:2332000791433": 19,
+      "gas:candidate-vibid:2332000794156": 35,
+      "gas:candidate-vibid:2332000786114": 103,
+      "gas:candidate-vibid:2332000798996": 30,
+      "gas:candidate-vibid:2332000784676": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 131,
-      "Ефремов Алексей Николаевич": 20,
-      "Игошин Игорь Николаевич": 421,
-      "Казаков Сергей Валентинович": 22,
-      "Ковалев Кирилл Юрьевич": 15,
-      "Майоров Алексей Владимирович": 32,
-      "Марков Тимур Александрович": 75,
-      "Петухов Сергей Викторович": 24,
-      "Сипягин Владимир Владимирович": 108
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 131,
+      "gas:candidate-vibid:2332000799050": 20,
+      "gas:candidate-vibid:2332000795528": 421,
+      "gas:candidate-vibid:2332000790869": 22,
+      "gas:candidate-vibid:2332000791433": 15,
+      "gas:candidate-vibid:2332000794156": 32,
+      "gas:candidate-vibid:2332000786114": 75,
+      "gas:candidate-vibid:2332000798996": 24,
+      "gas:candidate-vibid:2332000784676": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 14,
-      "Емельянова Лариса Николаевна": 86,
-      "Ефремов Алексей Николаевич": 20,
-      "Игошин Игорь Николаевич": 418,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 26,
-      "Марков Тимур Александрович": 70,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 95
+      "gas:candidate-vibid:2332000796818": 14,
+      "gas:candidate-vibid:2332000789037": 86,
+      "gas:candidate-vibid:2332000799050": 20,
+      "gas:candidate-vibid:2332000795528": 418,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 26,
+      "gas:candidate-vibid:2332000786114": 70,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 19,
-      "Емельянова Лариса Николаевна": 143,
-      "Ефремов Алексей Николаевич": 26,
-      "Игошин Игорь Николаевич": 543,
-      "Казаков Сергей Валентинович": 28,
-      "Ковалев Кирилл Юрьевич": 16,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 90,
-      "Петухов Сергей Викторович": 36,
-      "Сипягин Владимир Владимирович": 116
+      "gas:candidate-vibid:2332000796818": 19,
+      "gas:candidate-vibid:2332000789037": 143,
+      "gas:candidate-vibid:2332000799050": 26,
+      "gas:candidate-vibid:2332000795528": 543,
+      "gas:candidate-vibid:2332000790869": 28,
+      "gas:candidate-vibid:2332000791433": 16,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 90,
+      "gas:candidate-vibid:2332000798996": 36,
+      "gas:candidate-vibid:2332000784676": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 11,
-      "Емельянова Лариса Николаевна": 107,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 372,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 88,
-      "Петухов Сергей Викторович": 23,
-      "Сипягин Владимир Владимирович": 96
+      "gas:candidate-vibid:2332000796818": 11,
+      "gas:candidate-vibid:2332000789037": 107,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 372,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 88,
+      "gas:candidate-vibid:2332000798996": 23,
+      "gas:candidate-vibid:2332000784676": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 26,
-      "Емельянова Лариса Николаевна": 114,
-      "Ефремов Алексей Николаевич": 23,
-      "Игошин Игорь Николаевич": 298,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 24,
-      "Марков Тимур Александрович": 78,
-      "Петухов Сергей Викторович": 26,
-      "Сипягин Владимир Владимирович": 86
+      "gas:candidate-vibid:2332000796818": 26,
+      "gas:candidate-vibid:2332000789037": 114,
+      "gas:candidate-vibid:2332000799050": 23,
+      "gas:candidate-vibid:2332000795528": 298,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 24,
+      "gas:candidate-vibid:2332000786114": 78,
+      "gas:candidate-vibid:2332000798996": 26,
+      "gas:candidate-vibid:2332000784676": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 95,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 320,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 9,
-      "Марков Тимур Александрович": 66,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 67
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 95,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 320,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 9,
+      "gas:candidate-vibid:2332000786114": 66,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 134,
-      "Ефремов Алексей Николаевич": 13,
-      "Игошин Игорь Николаевич": 465,
-      "Казаков Сергей Валентинович": 27,
-      "Ковалев Кирилл Юрьевич": 16,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 82,
-      "Петухов Сергей Викторович": 39,
-      "Сипягин Владимир Владимирович": 119
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 134,
+      "gas:candidate-vibid:2332000799050": 13,
+      "gas:candidate-vibid:2332000795528": 465,
+      "gas:candidate-vibid:2332000790869": 27,
+      "gas:candidate-vibid:2332000791433": 16,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 82,
+      "gas:candidate-vibid:2332000798996": 39,
+      "gas:candidate-vibid:2332000784676": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 77,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 290,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 57,
-      "Петухов Сергей Викторович": 23,
-      "Сипягин Владимир Владимирович": 83
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 77,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 290,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 57,
+      "gas:candidate-vibid:2332000798996": 23,
+      "gas:candidate-vibid:2332000784676": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 114,
-      "Ефремов Алексей Николаевич": 33,
-      "Игошин Игорь Николаевич": 446,
-      "Казаков Сергей Валентинович": 19,
-      "Ковалев Кирилл Юрьевич": 10,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 104,
-      "Петухов Сергей Викторович": 31,
-      "Сипягин Владимир Владимирович": 96
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 114,
+      "gas:candidate-vibid:2332000799050": 33,
+      "gas:candidate-vibid:2332000795528": 446,
+      "gas:candidate-vibid:2332000790869": 19,
+      "gas:candidate-vibid:2332000791433": 10,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 104,
+      "gas:candidate-vibid:2332000798996": 31,
+      "gas:candidate-vibid:2332000784676": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 18,
-      "Емельянова Лариса Николаевна": 130,
-      "Ефремов Алексей Николаевич": 12,
-      "Игошин Игорь Николаевич": 386,
-      "Казаков Сергей Валентинович": 25,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 65,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 75
+      "gas:candidate-vibid:2332000796818": 18,
+      "gas:candidate-vibid:2332000789037": 130,
+      "gas:candidate-vibid:2332000799050": 12,
+      "gas:candidate-vibid:2332000795528": 386,
+      "gas:candidate-vibid:2332000790869": 25,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 65,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 143,
-      "Ефремов Алексей Николаевич": 21,
-      "Игошин Игорь Николаевич": 510,
-      "Казаков Сергей Валентинович": 21,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 83,
-      "Петухов Сергей Викторович": 26,
-      "Сипягин Владимир Владимирович": 111
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 143,
+      "gas:candidate-vibid:2332000799050": 21,
+      "gas:candidate-vibid:2332000795528": 510,
+      "gas:candidate-vibid:2332000790869": 21,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 83,
+      "gas:candidate-vibid:2332000798996": 26,
+      "gas:candidate-vibid:2332000784676": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 113,
-      "Ефремов Алексей Николаевич": 22,
-      "Игошин Игорь Николаевич": 418,
-      "Казаков Сергей Валентинович": 32,
-      "Ковалев Кирилл Юрьевич": 15,
-      "Майоров Алексей Владимирович": 20,
-      "Марков Тимур Александрович": 102,
-      "Петухов Сергей Викторович": 29,
-      "Сипягин Владимир Владимирович": 102
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 113,
+      "gas:candidate-vibid:2332000799050": 22,
+      "gas:candidate-vibid:2332000795528": 418,
+      "gas:candidate-vibid:2332000790869": 32,
+      "gas:candidate-vibid:2332000791433": 15,
+      "gas:candidate-vibid:2332000794156": 20,
+      "gas:candidate-vibid:2332000786114": 102,
+      "gas:candidate-vibid:2332000798996": 29,
+      "gas:candidate-vibid:2332000784676": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 17,
-      "Емельянова Лариса Николаевна": 72,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 363,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 20,
-      "Марков Тимур Александрович": 57,
-      "Петухов Сергей Викторович": 24,
-      "Сипягин Владимир Владимирович": 96
+      "gas:candidate-vibid:2332000796818": 17,
+      "gas:candidate-vibid:2332000789037": 72,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 363,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 20,
+      "gas:candidate-vibid:2332000786114": 57,
+      "gas:candidate-vibid:2332000798996": 24,
+      "gas:candidate-vibid:2332000784676": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 35,
-      "Емельянова Лариса Николаевна": 162,
-      "Ефремов Алексей Николаевич": 27,
-      "Игошин Игорь Николаевич": 537,
-      "Казаков Сергей Валентинович": 34,
-      "Ковалев Кирилл Юрьевич": 17,
-      "Майоров Алексей Владимирович": 37,
-      "Марков Тимур Александрович": 119,
-      "Петухов Сергей Викторович": 47,
-      "Сипягин Владимир Владимирович": 145
+      "gas:candidate-vibid:2332000796818": 35,
+      "gas:candidate-vibid:2332000789037": 162,
+      "gas:candidate-vibid:2332000799050": 27,
+      "gas:candidate-vibid:2332000795528": 537,
+      "gas:candidate-vibid:2332000790869": 34,
+      "gas:candidate-vibid:2332000791433": 17,
+      "gas:candidate-vibid:2332000794156": 37,
+      "gas:candidate-vibid:2332000786114": 119,
+      "gas:candidate-vibid:2332000798996": 47,
+      "gas:candidate-vibid:2332000784676": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 19,
-      "Емельянова Лариса Николаевна": 93,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 398,
-      "Казаков Сергей Валентинович": 16,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 67,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 107
+      "gas:candidate-vibid:2332000796818": 19,
+      "gas:candidate-vibid:2332000789037": 93,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 398,
+      "gas:candidate-vibid:2332000790869": 16,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 67,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 17,
-      "Емельянова Лариса Николаевна": 125,
-      "Ефремов Алексей Николаевич": 26,
-      "Игошин Игорь Николаевич": 293,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 47,
-      "Петухов Сергей Викторович": 23,
-      "Сипягин Владимир Владимирович": 78
+      "gas:candidate-vibid:2332000796818": 17,
+      "gas:candidate-vibid:2332000789037": 125,
+      "gas:candidate-vibid:2332000799050": 26,
+      "gas:candidate-vibid:2332000795528": 293,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 47,
+      "gas:candidate-vibid:2332000798996": 23,
+      "gas:candidate-vibid:2332000784676": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 20,
-      "Емельянова Лариса Николаевна": 151,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 492,
-      "Казаков Сергей Валентинович": 23,
-      "Ковалев Кирилл Юрьевич": 13,
-      "Майоров Алексей Владимирович": 35,
-      "Марков Тимур Александрович": 74,
-      "Петухов Сергей Викторович": 31,
-      "Сипягин Владимир Владимирович": 124
+      "gas:candidate-vibid:2332000796818": 20,
+      "gas:candidate-vibid:2332000789037": 151,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 492,
+      "gas:candidate-vibid:2332000790869": 23,
+      "gas:candidate-vibid:2332000791433": 13,
+      "gas:candidate-vibid:2332000794156": 35,
+      "gas:candidate-vibid:2332000786114": 74,
+      "gas:candidate-vibid:2332000798996": 31,
+      "gas:candidate-vibid:2332000784676": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 8,
-      "Емельянова Лариса Николаевна": 42,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 180,
-      "Казаков Сергей Валентинович": 15,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 32,
-      "Петухов Сергей Викторович": 10,
-      "Сипягин Владимир Владимирович": 50
+      "gas:candidate-vibid:2332000796818": 8,
+      "gas:candidate-vibid:2332000789037": 42,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 180,
+      "gas:candidate-vibid:2332000790869": 15,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 32,
+      "gas:candidate-vibid:2332000798996": 10,
+      "gas:candidate-vibid:2332000784676": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 20,
-      "Емельянова Лариса Николаевна": 96,
-      "Ефремов Алексей Николаевич": 17,
-      "Игошин Игорь Николаевич": 287,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 13,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 49,
-      "Петухов Сергей Викторович": 23,
-      "Сипягин Владимир Владимирович": 62
+      "gas:candidate-vibid:2332000796818": 20,
+      "gas:candidate-vibid:2332000789037": 96,
+      "gas:candidate-vibid:2332000799050": 17,
+      "gas:candidate-vibid:2332000795528": 287,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 13,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 49,
+      "gas:candidate-vibid:2332000798996": 23,
+      "gas:candidate-vibid:2332000784676": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 17,
-      "Емельянова Лариса Николаевна": 123,
-      "Ефремов Алексей Николаевич": 20,
-      "Игошин Игорь Николаевич": 337,
-      "Казаков Сергей Валентинович": 20,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 75,
-      "Петухов Сергей Викторович": 29,
-      "Сипягин Владимир Владимирович": 106
+      "gas:candidate-vibid:2332000796818": 17,
+      "gas:candidate-vibid:2332000789037": 123,
+      "gas:candidate-vibid:2332000799050": 20,
+      "gas:candidate-vibid:2332000795528": 337,
+      "gas:candidate-vibid:2332000790869": 20,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 75,
+      "gas:candidate-vibid:2332000798996": 29,
+      "gas:candidate-vibid:2332000784676": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 121,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 299,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 80,
-      "Петухов Сергей Викторович": 27,
-      "Сипягин Владимир Владимирович": 88
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 121,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 299,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 80,
+      "gas:candidate-vibid:2332000798996": 27,
+      "gas:candidate-vibid:2332000784676": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 82,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 339,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 15,
-      "Майоров Алексей Владимирович": 20,
-      "Марков Тимур Александрович": 55,
-      "Петухов Сергей Викторович": 27,
-      "Сипягин Владимир Владимирович": 104
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 82,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 339,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 15,
+      "gas:candidate-vibid:2332000794156": 20,
+      "gas:candidate-vibid:2332000786114": 55,
+      "gas:candidate-vibid:2332000798996": 27,
+      "gas:candidate-vibid:2332000784676": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 31,
-      "Емельянова Лариса Николаевна": 111,
-      "Ефремов Алексей Николаевич": 15,
-      "Игошин Игорь Николаевич": 399,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 67,
-      "Петухов Сергей Викторович": 20,
-      "Сипягин Владимир Владимирович": 81
+      "gas:candidate-vibid:2332000796818": 31,
+      "gas:candidate-vibid:2332000789037": 111,
+      "gas:candidate-vibid:2332000799050": 15,
+      "gas:candidate-vibid:2332000795528": 399,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 67,
+      "gas:candidate-vibid:2332000798996": 20,
+      "gas:candidate-vibid:2332000784676": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 15,
-      "Емельянова Лариса Николаевна": 106,
-      "Ефремов Алексей Николаевич": 22,
-      "Игошин Игорь Николаевич": 455,
-      "Казаков Сергей Валентинович": 27,
-      "Ковалев Кирилл Юрьевич": 8,
-      "Майоров Алексей Владимирович": 28,
-      "Марков Тимур Александрович": 87,
-      "Петухов Сергей Викторович": 32,
-      "Сипягин Владимир Владимирович": 107
+      "gas:candidate-vibid:2332000796818": 15,
+      "gas:candidate-vibid:2332000789037": 106,
+      "gas:candidate-vibid:2332000799050": 22,
+      "gas:candidate-vibid:2332000795528": 455,
+      "gas:candidate-vibid:2332000790869": 27,
+      "gas:candidate-vibid:2332000791433": 8,
+      "gas:candidate-vibid:2332000794156": 28,
+      "gas:candidate-vibid:2332000786114": 87,
+      "gas:candidate-vibid:2332000798996": 32,
+      "gas:candidate-vibid:2332000784676": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 18,
-      "Емельянова Лариса Николаевна": 116,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 481,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 12,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 76,
-      "Петухов Сергей Викторович": 31,
-      "Сипягин Владимир Владимирович": 103
+      "gas:candidate-vibid:2332000796818": 18,
+      "gas:candidate-vibid:2332000789037": 116,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 481,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 12,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 76,
+      "gas:candidate-vibid:2332000798996": 31,
+      "gas:candidate-vibid:2332000784676": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 18,
-      "Емельянова Лариса Николаевна": 102,
-      "Ефремов Алексей Николаевич": 20,
-      "Игошин Игорь Николаевич": 372,
-      "Казаков Сергей Валентинович": 8,
-      "Ковалев Кирилл Юрьевич": 11,
-      "Майоров Алексей Владимирович": 23,
-      "Марков Тимур Александрович": 81,
-      "Петухов Сергей Викторович": 24,
-      "Сипягин Владимир Владимирович": 92
+      "gas:candidate-vibid:2332000796818": 18,
+      "gas:candidate-vibid:2332000789037": 102,
+      "gas:candidate-vibid:2332000799050": 20,
+      "gas:candidate-vibid:2332000795528": 372,
+      "gas:candidate-vibid:2332000790869": 8,
+      "gas:candidate-vibid:2332000791433": 11,
+      "gas:candidate-vibid:2332000794156": 23,
+      "gas:candidate-vibid:2332000786114": 81,
+      "gas:candidate-vibid:2332000798996": 24,
+      "gas:candidate-vibid:2332000784676": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 20,
-      "Емельянова Лариса Николаевна": 115,
-      "Ефремов Алексей Николаевич": 19,
-      "Игошин Игорь Николаевич": 404,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 15,
-      "Майоров Алексей Владимирович": 17,
-      "Марков Тимур Александрович": 82,
-      "Петухов Сергей Викторович": 41,
-      "Сипягин Владимир Владимирович": 124
+      "gas:candidate-vibid:2332000796818": 20,
+      "gas:candidate-vibid:2332000789037": 115,
+      "gas:candidate-vibid:2332000799050": 19,
+      "gas:candidate-vibid:2332000795528": 404,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 15,
+      "gas:candidate-vibid:2332000794156": 17,
+      "gas:candidate-vibid:2332000786114": 82,
+      "gas:candidate-vibid:2332000798996": 41,
+      "gas:candidate-vibid:2332000784676": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 24,
-      "Емельянова Лариса Николаевна": 122,
-      "Ефремов Алексей Николаевич": 27,
-      "Игошин Игорь Николаевич": 400,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 17,
-      "Майоров Алексей Владимирович": 18,
-      "Марков Тимур Александрович": 61,
-      "Петухов Сергей Викторович": 29,
-      "Сипягин Владимир Владимирович": 122
+      "gas:candidate-vibid:2332000796818": 24,
+      "gas:candidate-vibid:2332000789037": 122,
+      "gas:candidate-vibid:2332000799050": 27,
+      "gas:candidate-vibid:2332000795528": 400,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 17,
+      "gas:candidate-vibid:2332000794156": 18,
+      "gas:candidate-vibid:2332000786114": 61,
+      "gas:candidate-vibid:2332000798996": 29,
+      "gas:candidate-vibid:2332000784676": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 47,
-      "Ефремов Алексей Николаевич": 11,
-      "Игошин Игорь Николаевич": 166,
-      "Казаков Сергей Валентинович": 7,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 53
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 47,
+      "gas:candidate-vibid:2332000799050": 11,
+      "gas:candidate-vibid:2332000795528": 166,
+      "gas:candidate-vibid:2332000790869": 7,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 22,
-      "Емельянова Лариса Николаевна": 136,
-      "Ефремов Алексей Николаевич": 25,
-      "Игошин Игорь Николаевич": 388,
-      "Казаков Сергей Валентинович": 22,
-      "Ковалев Кирилл Юрьевич": 17,
-      "Майоров Алексей Владимирович": 14,
-      "Марков Тимур Александрович": 78,
-      "Петухов Сергей Викторович": 36,
-      "Сипягин Владимир Владимирович": 131
+      "gas:candidate-vibid:2332000796818": 22,
+      "gas:candidate-vibid:2332000789037": 136,
+      "gas:candidate-vibid:2332000799050": 25,
+      "gas:candidate-vibid:2332000795528": 388,
+      "gas:candidate-vibid:2332000790869": 22,
+      "gas:candidate-vibid:2332000791433": 17,
+      "gas:candidate-vibid:2332000794156": 14,
+      "gas:candidate-vibid:2332000786114": 78,
+      "gas:candidate-vibid:2332000798996": 36,
+      "gas:candidate-vibid:2332000784676": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 22,
-      "Емельянова Лариса Николаевна": 138,
-      "Ефремов Алексей Николаевич": 32,
-      "Игошин Игорь Николаевич": 491,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 14,
-      "Майоров Алексей Владимирович": 19,
-      "Марков Тимур Александрович": 89,
-      "Петухов Сергей Викторович": 30,
-      "Сипягин Владимир Владимирович": 107
+      "gas:candidate-vibid:2332000796818": 22,
+      "gas:candidate-vibid:2332000789037": 138,
+      "gas:candidate-vibid:2332000799050": 32,
+      "gas:candidate-vibid:2332000795528": 491,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 14,
+      "gas:candidate-vibid:2332000794156": 19,
+      "gas:candidate-vibid:2332000786114": 89,
+      "gas:candidate-vibid:2332000798996": 30,
+      "gas:candidate-vibid:2332000784676": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 12,
-      "Емельянова Лариса Николаевна": 70,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 233,
-      "Казаков Сергей Валентинович": 10,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 15,
-      "Марков Тимур Александрович": 38,
-      "Петухов Сергей Викторович": 18,
-      "Сипягин Владимир Владимирович": 54
+      "gas:candidate-vibid:2332000796818": 12,
+      "gas:candidate-vibid:2332000789037": 70,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 233,
+      "gas:candidate-vibid:2332000790869": 10,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 15,
+      "gas:candidate-vibid:2332000786114": 38,
+      "gas:candidate-vibid:2332000798996": 18,
+      "gas:candidate-vibid:2332000784676": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 43,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 161,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 38,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 41
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 43,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 161,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 38,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 44,
-      "Ефремов Алексей Николаевич": 4,
-      "Игошин Игорь Николаевич": 163,
-      "Казаков Сергей Валентинович": 18,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 5,
-      "Марков Тимур Александрович": 29,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 51
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 44,
+      "gas:candidate-vibid:2332000799050": 4,
+      "gas:candidate-vibid:2332000795528": 163,
+      "gas:candidate-vibid:2332000790869": 18,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 5,
+      "gas:candidate-vibid:2332000786114": 29,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 39,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 137,
-      "Казаков Сергей Валентинович": 3,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 26,
-      "Петухов Сергей Викторович": 13,
-      "Сипягин Владимир Владимирович": 53
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 39,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 137,
+      "gas:candidate-vibid:2332000790869": 3,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 26,
+      "gas:candidate-vibid:2332000798996": 13,
+      "gas:candidate-vibid:2332000784676": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 5,
-      "Емельянова Лариса Николаевна": 32,
-      "Ефремов Алексей Николаевич": 3,
-      "Игошин Игорь Николаевич": 88,
-      "Казаков Сергей Валентинович": 9,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 4,
-      "Марков Тимур Александрович": 19,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 24
+      "gas:candidate-vibid:2332000796818": 5,
+      "gas:candidate-vibid:2332000789037": 32,
+      "gas:candidate-vibid:2332000799050": 3,
+      "gas:candidate-vibid:2332000795528": 88,
+      "gas:candidate-vibid:2332000790869": 9,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 4,
+      "gas:candidate-vibid:2332000786114": 19,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 3,
-      "Емельянова Лариса Николаевна": 75,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 199,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 41,
-      "Петухов Сергей Викторович": 18,
-      "Сипягин Владимир Владимирович": 53
+      "gas:candidate-vibid:2332000796818": 3,
+      "gas:candidate-vibid:2332000789037": 75,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 199,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 41,
+      "gas:candidate-vibid:2332000798996": 18,
+      "gas:candidate-vibid:2332000784676": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 10,
-      "Емельянова Лариса Николаевна": 60,
-      "Ефремов Алексей Николаевич": 14,
-      "Игошин Игорь Николаевич": 184,
-      "Казаков Сергей Валентинович": 13,
-      "Ковалев Кирилл Юрьевич": 14,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 39,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 56
+      "gas:candidate-vibid:2332000796818": 10,
+      "gas:candidate-vibid:2332000789037": 60,
+      "gas:candidate-vibid:2332000799050": 14,
+      "gas:candidate-vibid:2332000795528": 184,
+      "gas:candidate-vibid:2332000790869": 13,
+      "gas:candidate-vibid:2332000791433": 14,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 39,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 0,
-      "Емельянова Лариса Николаевна": 14,
-      "Ефремов Алексей Николаевич": 0,
-      "Игошин Игорь Николаевич": 38,
-      "Казаков Сергей Валентинович": 2,
-      "Ковалев Кирилл Юрьевич": 1,
-      "Майоров Алексей Владимирович": 1,
-      "Марков Тимур Александрович": 13,
-      "Петухов Сергей Викторович": 5,
-      "Сипягин Владимир Владимирович": 8
+      "gas:candidate-vibid:2332000796818": 0,
+      "gas:candidate-vibid:2332000789037": 14,
+      "gas:candidate-vibid:2332000799050": 0,
+      "gas:candidate-vibid:2332000795528": 38,
+      "gas:candidate-vibid:2332000790869": 2,
+      "gas:candidate-vibid:2332000791433": 1,
+      "gas:candidate-vibid:2332000794156": 1,
+      "gas:candidate-vibid:2332000786114": 13,
+      "gas:candidate-vibid:2332000798996": 5,
+      "gas:candidate-vibid:2332000784676": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725982&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725982&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 87,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 334,
-      "Казаков Сергей Валентинович": 14,
-      "Ковалев Кирилл Юрьевич": 5,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 74,
-      "Петухов Сергей Викторович": 25,
-      "Сипягин Владимир Владимирович": 76
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 87,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 334,
+      "gas:candidate-vibid:2332000790869": 14,
+      "gas:candidate-vibid:2332000791433": 5,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 74,
+      "gas:candidate-vibid:2332000798996": 25,
+      "gas:candidate-vibid:2332000784676": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 14,
-      "Емельянова Лариса Николаевна": 100,
-      "Ефремов Алексей Николаевич": 16,
-      "Игошин Игорь Николаевич": 437,
-      "Казаков Сергей Валентинович": 26,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 12,
-      "Марков Тимур Александрович": 54,
-      "Петухов Сергей Викторович": 27,
-      "Сипягин Владимир Владимирович": 107
+      "gas:candidate-vibid:2332000796818": 14,
+      "gas:candidate-vibid:2332000789037": 100,
+      "gas:candidate-vibid:2332000799050": 16,
+      "gas:candidate-vibid:2332000795528": 437,
+      "gas:candidate-vibid:2332000790869": 26,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 12,
+      "gas:candidate-vibid:2332000786114": 54,
+      "gas:candidate-vibid:2332000798996": 27,
+      "gas:candidate-vibid:2332000784676": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 72,
-      "Ефремов Алексей Николаевич": 9,
-      "Игошин Игорь Николаевич": 241,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 13,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 46,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 61
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 72,
+      "gas:candidate-vibid:2332000799050": 9,
+      "gas:candidate-vibid:2332000795528": 241,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 13,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 46,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 6,
-      "Емельянова Лариса Николаевна": 50,
-      "Ефремов Алексей Николаевич": 7,
-      "Игошин Игорь Николаевич": 220,
-      "Казаков Сергей Валентинович": 8,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 10,
-      "Марков Тимур Александрович": 30,
-      "Петухов Сергей Викторович": 15,
-      "Сипягин Владимир Владимирович": 28
+      "gas:candidate-vibid:2332000796818": 6,
+      "gas:candidate-vibid:2332000789037": 50,
+      "gas:candidate-vibid:2332000799050": 7,
+      "gas:candidate-vibid:2332000795528": 220,
+      "gas:candidate-vibid:2332000790869": 8,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 10,
+      "gas:candidate-vibid:2332000786114": 30,
+      "gas:candidate-vibid:2332000798996": 15,
+      "gas:candidate-vibid:2332000784676": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 13,
-      "Емельянова Лариса Николаевна": 72,
-      "Ефремов Алексей Николаевич": 13,
-      "Игошин Игорь Николаевич": 439,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 7,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 48,
-      "Петухов Сергей Викторович": 14,
-      "Сипягин Владимир Владимирович": 84
+      "gas:candidate-vibid:2332000796818": 13,
+      "gas:candidate-vibid:2332000789037": 72,
+      "gas:candidate-vibid:2332000799050": 13,
+      "gas:candidate-vibid:2332000795528": 439,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 7,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 48,
+      "gas:candidate-vibid:2332000798996": 14,
+      "gas:candidate-vibid:2332000784676": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 54,
-      "Ефремов Алексей Николаевич": 6,
-      "Игошин Игорь Николаевич": 195,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 6,
-      "Майоров Алексей Владимирович": 7,
-      "Марков Тимур Александрович": 41,
-      "Петухов Сергей Викторович": 9,
-      "Сипягин Владимир Владимирович": 31
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 54,
+      "gas:candidate-vibid:2332000799050": 6,
+      "gas:candidate-vibid:2332000795528": 195,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 6,
+      "gas:candidate-vibid:2332000794156": 7,
+      "gas:candidate-vibid:2332000786114": 41,
+      "gas:candidate-vibid:2332000798996": 9,
+      "gas:candidate-vibid:2332000784676": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 22,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 211,
-      "Казаков Сергей Валентинович": 11,
-      "Ковалев Кирилл Юрьевич": 3,
-      "Майоров Алексей Владимирович": 3,
-      "Марков Тимур Александрович": 26,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 39
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 22,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 211,
+      "gas:candidate-vibid:2332000790869": 11,
+      "gas:candidate-vibid:2332000791433": 3,
+      "gas:candidate-vibid:2332000794156": 3,
+      "gas:candidate-vibid:2332000786114": 26,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 9,
-      "Емельянова Лариса Николаевна": 84,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 338,
-      "Казаков Сергей Валентинович": 38,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 13,
-      "Марков Тимур Александрович": 88,
-      "Петухов Сергей Викторович": 17,
-      "Сипягин Владимир Владимирович": 85
+      "gas:candidate-vibid:2332000796818": 9,
+      "gas:candidate-vibid:2332000789037": 84,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 338,
+      "gas:candidate-vibid:2332000790869": 38,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 13,
+      "gas:candidate-vibid:2332000786114": 88,
+      "gas:candidate-vibid:2332000798996": 17,
+      "gas:candidate-vibid:2332000784676": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 7,
-      "Емельянова Лариса Николаевна": 59,
-      "Ефремов Алексей Николаевич": 8,
-      "Игошин Игорь Николаевич": 279,
-      "Казаков Сергей Валентинович": 17,
-      "Ковалев Кирилл Юрьевич": 4,
-      "Майоров Алексей Владимирович": 8,
-      "Марков Тимур Александрович": 38,
-      "Петухов Сергей Викторович": 16,
-      "Сипягин Владимир Владимирович": 61
+      "gas:candidate-vibid:2332000796818": 7,
+      "gas:candidate-vibid:2332000789037": 59,
+      "gas:candidate-vibid:2332000799050": 8,
+      "gas:candidate-vibid:2332000795528": 279,
+      "gas:candidate-vibid:2332000790869": 17,
+      "gas:candidate-vibid:2332000791433": 4,
+      "gas:candidate-vibid:2332000794156": 8,
+      "gas:candidate-vibid:2332000786114": 38,
+      "gas:candidate-vibid:2332000798996": 16,
+      "gas:candidate-vibid:2332000784676": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 1,
-      "Емельянова Лариса Николаевна": 26,
-      "Ефремов Алексей Николаевич": 5,
-      "Игошин Игорь Николаевич": 166,
-      "Казаков Сергей Валентинович": 12,
-      "Ковалев Кирилл Юрьевич": 0,
-      "Майоров Алексей Владимирович": 2,
-      "Марков Тимур Александрович": 16,
-      "Петухов Сергей Викторович": 11,
-      "Сипягин Владимир Владимирович": 30
+      "gas:candidate-vibid:2332000796818": 1,
+      "gas:candidate-vibid:2332000789037": 26,
+      "gas:candidate-vibid:2332000799050": 5,
+      "gas:candidate-vibid:2332000795528": 166,
+      "gas:candidate-vibid:2332000790869": 12,
+      "gas:candidate-vibid:2332000791433": 0,
+      "gas:candidate-vibid:2332000794156": 2,
+      "gas:candidate-vibid:2332000786114": 16,
+      "gas:candidate-vibid:2332000798996": 11,
+      "gas:candidate-vibid:2332000784676": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_33_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдохин Алексей Владимирович": 23,
-      "Емельянова Лариса Николаевна": 103,
-      "Ефремов Алексей Николаевич": 18,
-      "Игошин Игорь Николаевич": 422,
-      "Казаков Сергей Валентинович": 24,
-      "Ковалев Кирилл Юрьевич": 9,
-      "Майоров Алексей Владимирович": 11,
-      "Марков Тимур Александрович": 64,
-      "Петухов Сергей Викторович": 19,
-      "Сипягин Владимир Владимирович": 77
+      "gas:candidate-vibid:2332000796818": 23,
+      "gas:candidate-vibid:2332000789037": 103,
+      "gas:candidate-vibid:2332000799050": 18,
+      "gas:candidate-vibid:2332000795528": 422,
+      "gas:candidate-vibid:2332000790869": 24,
+      "gas:candidate-vibid:2332000791433": 9,
+      "gas:candidate-vibid:2332000794156": 11,
+      "gas:candidate-vibid:2332000786114": 64,
+      "gas:candidate-vibid:2332000798996": 19,
+      "gas:candidate-vibid:2332000784676": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vladimir?action=show&root=1000102&tvd=2332000725983&vrn=100100067795849&region=33&global=&sub_region=33&prver=0&pronetvd=null&vibid=2332000725983&type=464",

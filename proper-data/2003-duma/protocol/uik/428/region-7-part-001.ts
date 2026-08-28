@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 24,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 16,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 335,
-      "Шхагошев Адальби Люлевич": 112,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220800": 24,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 16,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 335,
+      "gas:candidate-vibid:207200070757": 112,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 11,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 14,
-      "Нахушев Заурби Ахмедович": 188,
-      "Шхагошев Адальби Люлевич": 52,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220800": 11,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 14,
+      "gas:candidate-vibid:1001000225875": 188,
+      "gas:candidate-vibid:207200070757": 52,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 48,
-      "Нахушев Заурби Ахмедович": 793,
-      "Шхагошев Адальби Люлевич": 79,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 48,
+      "gas:candidate-vibid:1001000225875": 793,
+      "gas:candidate-vibid:207200070757": 79,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 9,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 14,
-      "Нахушев Заурби Ахмедович": 217,
-      "Шхагошев Адальби Люлевич": 28,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000220800": 9,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 14,
+      "gas:candidate-vibid:1001000225875": 217,
+      "gas:candidate-vibid:207200070757": 28,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 141,
-      "Шхагошев Адальби Люлевич": 45,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 141,
+      "gas:candidate-vibid:207200070757": 45,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 159,
-      "Шхагошев Адальби Люлевич": 48,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 159,
+      "gas:candidate-vibid:207200070757": 48,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 13,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 19,
-      "Нахушев Заурби Ахмедович": 56,
-      "Шхагошев Адальби Люлевич": 97,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000220800": 13,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 19,
+      "gas:candidate-vibid:1001000225875": 56,
+      "gas:candidate-vibid:207200070757": 97,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 641,
-      "Шхагошев Адальби Люлевич": 88,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 641,
+      "gas:candidate-vibid:207200070757": 88,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1113,
-      "Шхагошев Адальби Люлевич": 231,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1113,
+      "gas:candidate-vibid:207200070757": 231,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1263,
-      "Шхагошев Адальби Люлевич": 166,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1263,
+      "gas:candidate-vibid:207200070757": 166,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 8,
-      "Гаев Аслан Далхатович": 4,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 37,
-      "Нахушев Заурби Ахмедович": 323,
-      "Шхагошев Адальби Люлевич": 63,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000220800": 8,
+      "gas:candidate-vibid:1001000190278": 4,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 37,
+      "gas:candidate-vibid:1001000225875": 323,
+      "gas:candidate-vibid:207200070757": 63,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1543,
-      "Шхагошев Адальби Люлевич": 248,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1543,
+      "gas:candidate-vibid:207200070757": 248,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 17,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1235,
-      "Шхагошев Адальби Люлевич": 159,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220800": 17,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1235,
+      "gas:candidate-vibid:207200070757": 159,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 156,
-      "Шхагошев Адальби Люлевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 156,
+      "gas:candidate-vibid:207200070757": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 23,
-      "Гаев Аслан Далхатович": 5,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 38,
-      "Нахушев Заурби Ахмедович": 654,
-      "Шхагошев Адальби Люлевич": 117,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000220800": 23,
+      "gas:candidate-vibid:1001000190278": 5,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 38,
+      "gas:candidate-vibid:1001000225875": 654,
+      "gas:candidate-vibid:207200070757": 117,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 81,
-      "Шхагошев Адальби Люлевич": 26,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 81,
+      "gas:candidate-vibid:207200070757": 26,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1318,
-      "Шхагошев Адальби Люлевич": 257,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1318,
+      "gas:candidate-vibid:207200070757": 257,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1053,
-      "Шхагошев Адальби Люлевич": 197,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1053,
+      "gas:candidate-vibid:207200070757": 197,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 8,
-      "Гаев Аслан Далхатович": 4,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 5,
-      "Нахушев Заурби Ахмедович": 234,
-      "Шхагошев Адальби Люлевич": 27,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000220800": 8,
+      "gas:candidate-vibid:1001000190278": 4,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 5,
+      "gas:candidate-vibid:1001000225875": 234,
+      "gas:candidate-vibid:207200070757": 27,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 6,
-      "Гаев Аслан Далхатович": 2,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 8,
-      "Нахушев Заурби Ахмедович": 157,
-      "Шхагошев Адальби Люлевич": 35,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 6,
+      "gas:candidate-vibid:1001000190278": 2,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 8,
+      "gas:candidate-vibid:1001000225875": 157,
+      "gas:candidate-vibid:207200070757": 35,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 8,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 85,
-      "Нахушев Заурби Ахмедович": 429,
-      "Шхагошев Адальби Люлевич": 65,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000220800": 8,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 85,
+      "gas:candidate-vibid:1001000225875": 429,
+      "gas:candidate-vibid:207200070757": 65,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 9,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 1,
-      "Макаров Андрей Николаевич": 23,
-      "Нахушев Заурби Ахмедович": 223,
-      "Шхагошев Адальби Люлевич": 29,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000220800": 9,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 1,
+      "gas:candidate-vibid:1001000135995": 23,
+      "gas:candidate-vibid:1001000225875": 223,
+      "gas:candidate-vibid:207200070757": 29,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 9,
-      "Гаев Аслан Далхатович": 4,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 18,
-      "Нахушев Заурби Ахмедович": 448,
-      "Шхагошев Адальби Люлевич": 115,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220800": 9,
+      "gas:candidate-vibid:1001000190278": 4,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 18,
+      "gas:candidate-vibid:1001000225875": 448,
+      "gas:candidate-vibid:207200070757": 115,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 5,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 4,
-      "Нахушев Заурби Ахмедович": 505,
-      "Шхагошев Адальби Люлевич": 57,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220800": 5,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 4,
+      "gas:candidate-vibid:1001000225875": 505,
+      "gas:candidate-vibid:207200070757": 57,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 7,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 68,
-      "Нахушев Заурби Ахмедович": 1206,
-      "Шхагошев Адальби Люлевич": 227,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000220800": 7,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 68,
+      "gas:candidate-vibid:1001000225875": 1206,
+      "gas:candidate-vibid:207200070757": 227,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1917,
-      "Шхагошев Адальби Люлевич": 358,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1917,
+      "gas:candidate-vibid:207200070757": 358,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 13,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 22,
-      "Нахушев Заурби Ахмедович": 903,
-      "Шхагошев Адальби Люлевич": 58,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000220800": 13,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 22,
+      "gas:candidate-vibid:1001000225875": 903,
+      "gas:candidate-vibid:207200070757": 58,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 38,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1150,
-      "Шхагошев Адальби Люлевич": 363,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000220800": 38,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1150,
+      "gas:candidate-vibid:207200070757": 363,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1409,
-      "Шхагошев Адальби Люлевич": 273,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1409,
+      "gas:candidate-vibid:207200070757": 273,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 502,
-      "Шхагошев Адальби Люлевич": 164,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 502,
+      "gas:candidate-vibid:207200070757": 164,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 567,
-      "Шхагошев Адальби Люлевич": 105,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 567,
+      "gas:candidate-vibid:207200070757": 105,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 375,
-      "Шхагошев Адальби Люлевич": 29,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 375,
+      "gas:candidate-vibid:207200070757": 29,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 3,
-      "Гаев Аслан Далхатович": 5,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 198,
-      "Шхагошев Адальби Люлевич": 91,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000220800": 3,
+      "gas:candidate-vibid:1001000190278": 5,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 198,
+      "gas:candidate-vibid:207200070757": 91,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071008&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 39,
-      "Гаев Аслан Далхатович": 96,
-      "Кучмезов Хаким Далхатович": 74,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 151,
-      "Шхагошев Адальби Люлевич": 56,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220800": 39,
+      "gas:candidate-vibid:1001000190278": 96,
+      "gas:candidate-vibid:1001000195022": 74,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 151,
+      "gas:candidate-vibid:207200070757": 56,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 309,
-      "Шхагошев Адальби Люлевич": 281,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 309,
+      "gas:candidate-vibid:207200070757": 281,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1868,
-      "Шхагошев Адальби Люлевич": 479,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1868,
+      "gas:candidate-vibid:207200070757": 479,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 4,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 3,
-      "Нахушев Заурби Ахмедович": 704,
-      "Шхагошев Адальби Люлевич": 85,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000220800": 4,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 3,
+      "gas:candidate-vibid:1001000225875": 704,
+      "gas:candidate-vibid:207200070757": 85,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 25,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 486,
-      "Шхагошев Адальби Люлевич": 399,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220800": 25,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 486,
+      "gas:candidate-vibid:207200070757": 399,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 19,
-      "Гаев Аслан Далхатович": 5,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 1,
-      "Нахушев Заурби Ахмедович": 599,
-      "Шхагошев Адальби Люлевич": 241,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220800": 19,
+      "gas:candidate-vibid:1001000190278": 5,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 1,
+      "gas:candidate-vibid:1001000225875": 599,
+      "gas:candidate-vibid:207200070757": 241,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 10,
-      "Гаев Аслан Далхатович": 50,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 350,
-      "Шхагошев Адальби Люлевич": 197,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220800": 10,
+      "gas:candidate-vibid:1001000190278": 50,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 350,
+      "gas:candidate-vibid:207200070757": 197,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 351,
-      "Гаев Аслан Далхатович": 64,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 342,
-      "Шхагошев Адальби Люлевич": 393,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220800": 351,
+      "gas:candidate-vibid:1001000190278": 64,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 342,
+      "gas:candidate-vibid:207200070757": 393,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 21,
-      "Гаев Аслан Далхатович": 82,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 755,
-      "Шхагошев Адальби Люлевич": 68,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 21,
+      "gas:candidate-vibid:1001000190278": 82,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 755,
+      "gas:candidate-vibid:207200070757": 68,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 28,
-      "Гаев Аслан Далхатович": 81,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 391,
-      "Шхагошев Адальби Люлевич": 80,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220800": 28,
+      "gas:candidate-vibid:1001000190278": 81,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 391,
+      "gas:candidate-vibid:207200070757": 80,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 41,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 37,
-      "Шхагошев Адальби Люлевич": 134,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000220800": 41,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 37,
+      "gas:candidate-vibid:207200070757": 134,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 100,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1506,
-      "Шхагошев Адальби Люлевич": 150,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 100,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1506,
+      "gas:candidate-vibid:207200070757": 150,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 110,
-      "Гаев Аслан Далхатович": 33,
-      "Кучмезов Хаким Далхатович": 48,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 605,
-      "Шхагошев Адальби Люлевич": 280,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 110,
+      "gas:candidate-vibid:1001000190278": 33,
+      "gas:candidate-vibid:1001000195022": 48,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 605,
+      "gas:candidate-vibid:207200070757": 280,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 171,
-      "Гаев Аслан Далхатович": 46,
-      "Кучмезов Хаким Далхатович": 27,
-      "Макаров Андрей Николаевич": 6,
-      "Нахушев Заурби Ахмедович": 456,
-      "Шхагошев Адальби Люлевич": 129,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000220800": 171,
+      "gas:candidate-vibid:1001000190278": 46,
+      "gas:candidate-vibid:1001000195022": 27,
+      "gas:candidate-vibid:1001000135995": 6,
+      "gas:candidate-vibid:1001000225875": 456,
+      "gas:candidate-vibid:207200070757": 129,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 62,
-      "Гаев Аслан Далхатович": 13,
-      "Кучмезов Хаким Далхатович": 15,
-      "Макаров Андрей Николаевич": 5,
-      "Нахушев Заурби Ахмедович": 65,
-      "Шхагошев Адальби Люлевич": 255,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000220800": 62,
+      "gas:candidate-vibid:1001000190278": 13,
+      "gas:candidate-vibid:1001000195022": 15,
+      "gas:candidate-vibid:1001000135995": 5,
+      "gas:candidate-vibid:1001000225875": 65,
+      "gas:candidate-vibid:207200070757": 255,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071009&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 25,
-      "Гаев Аслан Далхатович": 21,
-      "Кучмезов Хаким Далхатович": 22,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2202,
-      "Шхагошев Адальби Люлевич": 332,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000220800": 25,
+      "gas:candidate-vibid:1001000190278": 21,
+      "gas:candidate-vibid:1001000195022": 22,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2202,
+      "gas:candidate-vibid:207200070757": 332,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 28,
-      "Гаев Аслан Далхатович": 4,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 39,
-      "Нахушев Заурби Ахмедович": 1899,
-      "Шхагошев Адальби Люлевич": 116,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000220800": 28,
+      "gas:candidate-vibid:1001000190278": 4,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 39,
+      "gas:candidate-vibid:1001000225875": 1899,
+      "gas:candidate-vibid:207200070757": 116,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1849,
-      "Шхагошев Адальби Люлевич": 164,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1849,
+      "gas:candidate-vibid:207200070757": 164,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 30,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 36,
-      "Нахушев Заурби Ахмедович": 1123,
-      "Шхагошев Адальби Люлевич": 342,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000220800": 30,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 36,
+      "gas:candidate-vibid:1001000225875": 1123,
+      "gas:candidate-vibid:207200070757": 342,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1664,
-      "Шхагошев Адальби Люлевич": 432,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1664,
+      "gas:candidate-vibid:207200070757": 432,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 51,
-      "Гаев Аслан Далхатович": 7,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 43,
-      "Нахушев Заурби Ахмедович": 1100,
-      "Шхагошев Адальби Люлевич": 188,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 51,
+      "gas:candidate-vibid:1001000190278": 7,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 43,
+      "gas:candidate-vibid:1001000225875": 1100,
+      "gas:candidate-vibid:207200070757": 188,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2073,
-      "Шхагошев Адальби Люлевич": 260,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2073,
+      "gas:candidate-vibid:207200070757": 260,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 8,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1901,
-      "Шхагошев Адальби Люлевич": 450,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 8,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1901,
+      "gas:candidate-vibid:207200070757": 450,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 44,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1706,
-      "Шхагошев Адальби Люлевич": 285,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 44,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1706,
+      "gas:candidate-vibid:207200070757": 285,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1912,
-      "Шхагошев Адальби Люлевич": 308,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1912,
+      "gas:candidate-vibid:207200070757": 308,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 5,
-      "Нахушев Заурби Ахмедович": 910,
-      "Шхагошев Адальби Люлевич": 539,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 5,
+      "gas:candidate-vibid:1001000225875": 910,
+      "gas:candidate-vibid:207200070757": 539,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 12,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 4,
-      "Нахушев Заурби Ахмедович": 612,
-      "Шхагошев Адальби Люлевич": 89,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000220800": 12,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 4,
+      "gas:candidate-vibid:1001000225875": 612,
+      "gas:candidate-vibid:207200070757": 89,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 676,
-      "Шхагошев Адальби Люлевич": 42,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 676,
+      "gas:candidate-vibid:207200070757": 42,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 37,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1887,
-      "Шхагошев Адальби Люлевич": 402,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000220800": 37,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1887,
+      "gas:candidate-vibid:207200070757": 402,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1284,
-      "Шхагошев Адальби Люлевич": 161,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1284,
+      "gas:candidate-vibid:207200070757": 161,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 10,
-      "Гаев Аслан Далхатович": 4,
-      "Кучмезов Хаким Далхатович": 1,
-      "Макаров Андрей Николаевич": 8,
-      "Нахушев Заурби Ахмедович": 553,
-      "Шхагошев Адальби Люлевич": 300,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000220800": 10,
+      "gas:candidate-vibid:1001000190278": 4,
+      "gas:candidate-vibid:1001000195022": 1,
+      "gas:candidate-vibid:1001000135995": 8,
+      "gas:candidate-vibid:1001000225875": 553,
+      "gas:candidate-vibid:207200070757": 300,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 716,
-      "Шхагошев Адальби Люлевич": 125,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 716,
+      "gas:candidate-vibid:207200070757": 125,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 1,
-      "Гаев Аслан Далхатович": 1,
-      "Кучмезов Хаким Далхатович": 1,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1414,
-      "Шхагошев Адальби Люлевич": 272,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220800": 1,
+      "gas:candidate-vibid:1001000190278": 1,
+      "gas:candidate-vibid:1001000195022": 1,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1414,
+      "gas:candidate-vibid:207200070757": 272,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1485,
-      "Шхагошев Адальби Люлевич": 1005,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1485,
+      "gas:candidate-vibid:207200070757": 1005,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1196,
-      "Шхагошев Адальби Люлевич": 130,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1196,
+      "gas:candidate-vibid:207200070757": 130,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 12,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2079,
-      "Шхагошев Адальби Люлевич": 213,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 12,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2079,
+      "gas:candidate-vibid:207200070757": 213,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1167,
-      "Шхагошев Адальби Люлевич": 112,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1167,
+      "gas:candidate-vibid:207200070757": 112,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071010&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 5,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 661,
-      "Шхагошев Адальби Люлевич": 58,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 5,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 661,
+      "gas:candidate-vibid:207200070757": 58,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 464,
-      "Шхагошев Адальби Люлевич": 25,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 464,
+      "gas:candidate-vibid:207200070757": 25,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 41,
-      "Гаев Аслан Далхатович": 58,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 4,
-      "Нахушев Заурби Ахмедович": 790,
-      "Шхагошев Адальби Люлевич": 176,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220800": 41,
+      "gas:candidate-vibid:1001000190278": 58,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 4,
+      "gas:candidate-vibid:1001000225875": 790,
+      "gas:candidate-vibid:207200070757": 176,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2285,
-      "Шхагошев Адальби Люлевич": 196,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2285,
+      "gas:candidate-vibid:207200070757": 196,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 3,
-      "Гаев Аслан Далхатович": 36,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 10,
-      "Нахушев Заурби Ахмедович": 2334,
-      "Шхагошев Адальби Люлевич": 225,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000220800": 3,
+      "gas:candidate-vibid:1001000190278": 36,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 10,
+      "gas:candidate-vibid:1001000225875": 2334,
+      "gas:candidate-vibid:207200070757": 225,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 7,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 9,
-      "Нахушев Заурби Ахмедович": 2448,
-      "Шхагошев Адальби Люлевич": 157,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000220800": 7,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 9,
+      "gas:candidate-vibid:1001000225875": 2448,
+      "gas:candidate-vibid:207200070757": 157,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 2,
-      "Кучмезов Хаким Далхатович": 1,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1905,
-      "Шхагошев Адальби Люлевич": 181,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 2,
+      "gas:candidate-vibid:1001000195022": 1,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1905,
+      "gas:candidate-vibid:207200070757": 181,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 11,
-      "Гаев Аслан Далхатович": 8,
-      "Кучмезов Хаким Далхатович": 17,
-      "Макаров Андрей Николаевич": 14,
-      "Нахушев Заурби Ахмедович": 1808,
-      "Шхагошев Адальби Люлевич": 268,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 11,
+      "gas:candidate-vibid:1001000190278": 8,
+      "gas:candidate-vibid:1001000195022": 17,
+      "gas:candidate-vibid:1001000135995": 14,
+      "gas:candidate-vibid:1001000225875": 1808,
+      "gas:candidate-vibid:207200070757": 268,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 12,
-      "Гаев Аслан Далхатович": 11,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 7,
-      "Нахушев Заурби Ахмедович": 2507,
-      "Шхагошев Адальби Люлевич": 186,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000220800": 12,
+      "gas:candidate-vibid:1001000190278": 11,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 7,
+      "gas:candidate-vibid:1001000225875": 2507,
+      "gas:candidate-vibid:207200070757": 186,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 7,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2373,
-      "Шхагошев Адальби Люлевич": 54,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220800": 7,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2373,
+      "gas:candidate-vibid:207200070757": 54,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 63,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1912,
-      "Шхагошев Адальби Люлевич": 115,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 63,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1912,
+      "gas:candidate-vibid:207200070757": 115,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 48,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1911,
-      "Шхагошев Адальби Люлевич": 141,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 48,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1911,
+      "gas:candidate-vibid:207200070757": 141,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 12,
-      "Гаев Аслан Далхатович": 17,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1638,
-      "Шхагошев Адальби Люлевич": 117,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220800": 12,
+      "gas:candidate-vibid:1001000190278": 17,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1638,
+      "gas:candidate-vibid:207200070757": 117,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 29,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2161,
-      "Шхагошев Адальби Люлевич": 194,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 29,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2161,
+      "gas:candidate-vibid:207200070757": 194,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2318,
-      "Шхагошев Адальби Люлевич": 223,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2318,
+      "gas:candidate-vibid:207200070757": 223,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 12,
-      "Гаев Аслан Далхатович": 7,
-      "Кучмезов Хаким Далхатович": 1,
-      "Макаров Андрей Николаевич": 1,
-      "Нахушев Заурби Ахмедович": 2328,
-      "Шхагошев Адальби Люлевич": 134,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000220800": 12,
+      "gas:candidate-vibid:1001000190278": 7,
+      "gas:candidate-vibid:1001000195022": 1,
+      "gas:candidate-vibid:1001000135995": 1,
+      "gas:candidate-vibid:1001000225875": 2328,
+      "gas:candidate-vibid:207200070757": 134,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1953,
-      "Шхагошев Адальби Люлевич": 21,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1953,
+      "gas:candidate-vibid:207200070757": 21,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 16,
-      "Нахушев Заурби Ахмедович": 1496,
-      "Шхагошев Адальби Люлевич": 107,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 16,
+      "gas:candidate-vibid:1001000225875": 1496,
+      "gas:candidate-vibid:207200070757": 107,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071011&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2584,
-      "Шхагошев Адальби Люлевич": 190,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2584,
+      "gas:candidate-vibid:207200070757": 190,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 1217,
-      "Шхагошев Адальби Люлевич": 467,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 1217,
+      "gas:candidate-vibid:207200070757": 467,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1813,
-      "Шхагошев Адальби Люлевич": 395,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1813,
+      "gas:candidate-vibid:207200070757": 395,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1673,
-      "Шхагошев Адальби Люлевич": 273,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1673,
+      "gas:candidate-vibid:207200070757": 273,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 11,
-      "Гаев Аслан Далхатович": 2,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 3,
-      "Нахушев Заурби Ахмедович": 636,
-      "Шхагошев Адальби Люлевич": 433,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000220800": 11,
+      "gas:candidate-vibid:1001000190278": 2,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 3,
+      "gas:candidate-vibid:1001000225875": 636,
+      "gas:candidate-vibid:207200070757": 433,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 454,
-      "Шхагошев Адальби Люлевич": 102,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 454,
+      "gas:candidate-vibid:207200070757": 102,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 8,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 2001,
-      "Шхагошев Адальби Люлевич": 192,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220800": 8,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 2001,
+      "gas:candidate-vibid:207200070757": 192,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1599,
-      "Шхагошев Адальби Люлевич": 575,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1599,
+      "gas:candidate-vibid:207200070757": 575,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1465,
-      "Шхагошев Адальби Люлевич": 157,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1465,
+      "gas:candidate-vibid:207200070757": 157,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 147,
-      "Шхагошев Адальби Люлевич": 107,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 147,
+      "gas:candidate-vibid:207200070757": 107,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 180,
-      "Шхагошев Адальби Люлевич": 122,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 180,
+      "gas:candidate-vibid:207200070757": 122,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 4,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 451,
-      "Шхагошев Адальби Люлевич": 278,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220800": 4,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 451,
+      "gas:candidate-vibid:207200070757": 278,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 814,
-      "Шхагошев Адальби Люлевич": 107,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 814,
+      "gas:candidate-vibid:207200070757": 107,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 445,
-      "Шхагошев Адальби Люлевич": 195,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 445,
+      "gas:candidate-vibid:207200070757": 195,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 654,
-      "Шхагошев Адальби Люлевич": 144,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 654,
+      "gas:candidate-vibid:207200070757": 144,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1291,
-      "Шхагошев Адальби Люлевич": 499,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1291,
+      "gas:candidate-vibid:207200070757": 499,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 1442,
-      "Шхагошев Адальби Люлевич": 75,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 1442,
+      "gas:candidate-vibid:207200070757": 75,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 162,
-      "Шхагошев Адальби Люлевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 162,
+      "gas:candidate-vibid:207200070757": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 22,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 606,
-      "Шхагошев Адальби Люлевич": 59,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 22,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 606,
+      "gas:candidate-vibid:207200070757": 59,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 961,
-      "Шхагошев Адальби Люлевич": 143,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 961,
+      "gas:candidate-vibid:207200070757": 143,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 1078,
-      "Шхагошев Адальби Люлевич": 111,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 1078,
+      "gas:candidate-vibid:207200070757": 111,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 4,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 863,
-      "Шхагошев Адальби Люлевич": 311,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 4,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 863,
+      "gas:candidate-vibid:207200070757": 311,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 480,
-      "Шхагошев Адальби Люлевич": 70,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 480,
+      "gas:candidate-vibid:207200070757": 70,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071012&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 10,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 779,
-      "Шхагошев Адальби Люлевич": 43,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 10,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 779,
+      "gas:candidate-vibid:207200070757": 43,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 21,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 799,
-      "Шхагошев Адальби Люлевич": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 21,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 799,
+      "gas:candidate-vibid:207200070757": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 12,
-      "Гаев Аслан Далхатович": 11,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 916,
-      "Шхагошев Адальби Люлевич": 23,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 12,
+      "gas:candidate-vibid:1001000190278": 11,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 916,
+      "gas:candidate-vibid:207200070757": 23,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 0,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 235,
-      "Шхагошев Адальби Люлевич": 140,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 0,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 235,
+      "gas:candidate-vibid:207200070757": 140,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 24,
-      "Гаев Аслан Далхатович": 40,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 1,
-      "Нахушев Заурби Ахмедович": 79,
-      "Шхагошев Адальби Люлевич": 65,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000220800": 24,
+      "gas:candidate-vibid:1001000190278": 40,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 1,
+      "gas:candidate-vibid:1001000225875": 79,
+      "gas:candidate-vibid:207200070757": 65,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 297,
-      "Гаев Аслан Далхатович": 70,
-      "Кучмезов Хаким Далхатович": 10,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 287,
-      "Шхагошев Адальби Люлевич": 61,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000220800": 297,
+      "gas:candidate-vibid:1001000190278": 70,
+      "gas:candidate-vibid:1001000195022": 10,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 287,
+      "gas:candidate-vibid:207200070757": 61,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 11,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 129,
-      "Шхагошев Адальби Люлевич": 9,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000220800": 11,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 129,
+      "gas:candidate-vibid:207200070757": 9,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 38,
-      "Гаев Аслан Далхатович": 21,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 6,
-      "Нахушев Заурби Ахмедович": 137,
-      "Шхагошев Адальби Люлевич": 197,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000220800": 38,
+      "gas:candidate-vibid:1001000190278": 21,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 6,
+      "gas:candidate-vibid:1001000225875": 137,
+      "gas:candidate-vibid:207200070757": 197,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 121,
-      "Гаев Аслан Далхатович": 55,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 15,
-      "Нахушев Заурби Ахмедович": 989,
-      "Шхагошев Адальби Люлевич": 220,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000220800": 121,
+      "gas:candidate-vibid:1001000190278": 55,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 15,
+      "gas:candidate-vibid:1001000225875": 989,
+      "gas:candidate-vibid:207200070757": 220,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 858,
-      "Шхагошев Адальби Люлевич": 160,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 858,
+      "gas:candidate-vibid:207200070757": 160,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 76,
-      "Гаев Аслан Далхатович": 45,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 30,
-      "Нахушев Заурби Ахмедович": 571,
-      "Шхагошев Адальби Люлевич": 105,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000220800": 76,
+      "gas:candidate-vibid:1001000190278": 45,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 30,
+      "gas:candidate-vibid:1001000225875": 571,
+      "gas:candidate-vibid:207200070757": 105,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 55,
-      "Гаев Аслан Далхатович": 22,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 27,
-      "Нахушев Заурби Ахмедович": 141,
-      "Шхагошев Адальби Люлевич": 210,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000220800": 55,
+      "gas:candidate-vibid:1001000190278": 22,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 27,
+      "gas:candidate-vibid:1001000225875": 141,
+      "gas:candidate-vibid:207200070757": 210,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 56,
-      "Гаев Аслан Далхатович": 23,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 18,
-      "Нахушев Заурби Ахмедович": 977,
-      "Шхагошев Адальби Люлевич": 211,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220800": 56,
+      "gas:candidate-vibid:1001000190278": 23,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 18,
+      "gas:candidate-vibid:1001000225875": 977,
+      "gas:candidate-vibid:207200070757": 211,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 76,
-      "Гаев Аслан Далхатович": 24,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 37,
-      "Нахушев Заурби Ахмедович": 463,
-      "Шхагошев Адальби Люлевич": 397,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000220800": 76,
+      "gas:candidate-vibid:1001000190278": 24,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 37,
+      "gas:candidate-vibid:1001000225875": 463,
+      "gas:candidate-vibid:207200070757": 397,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 66,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 10,
-      "Макаров Андрей Николаевич": 18,
-      "Нахушев Заурби Ахмедович": 705,
-      "Шхагошев Адальби Люлевич": 207,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000220800": 66,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 10,
+      "gas:candidate-vibid:1001000135995": 18,
+      "gas:candidate-vibid:1001000225875": 705,
+      "gas:candidate-vibid:207200070757": 207,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 36,
-      "Гаев Аслан Далхатович": 28,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 12,
-      "Нахушев Заурби Ахмедович": 86,
-      "Шхагошев Адальби Люлевич": 76,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000220800": 36,
+      "gas:candidate-vibid:1001000190278": 28,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 12,
+      "gas:candidate-vibid:1001000225875": 86,
+      "gas:candidate-vibid:207200070757": 76,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 27,
-      "Гаев Аслан Далхатович": 32,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 90,
-      "Шхагошев Адальби Люлевич": 70,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000220800": 27,
+      "gas:candidate-vibid:1001000190278": 32,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 90,
+      "gas:candidate-vibid:207200070757": 70,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 153,
-      "Гаев Аслан Далхатович": 205,
-      "Кучмезов Хаким Далхатович": 23,
-      "Макаров Андрей Николаевич": 29,
-      "Нахушев Заурби Ахмедович": 293,
-      "Шхагошев Адальби Люлевич": 248,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000220800": 153,
+      "gas:candidate-vibid:1001000190278": 205,
+      "gas:candidate-vibid:1001000195022": 23,
+      "gas:candidate-vibid:1001000135995": 29,
+      "gas:candidate-vibid:1001000225875": 293,
+      "gas:candidate-vibid:207200070757": 248,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 71,
-      "Гаев Аслан Далхатович": 31,
-      "Кучмезов Хаким Далхатович": 21,
-      "Макаров Андрей Николаевич": 16,
-      "Нахушев Заурби Ахмедович": 94,
-      "Шхагошев Адальби Люлевич": 128,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000220800": 71,
+      "gas:candidate-vibid:1001000190278": 31,
+      "gas:candidate-vibid:1001000195022": 21,
+      "gas:candidate-vibid:1001000135995": 16,
+      "gas:candidate-vibid:1001000225875": 94,
+      "gas:candidate-vibid:207200070757": 128,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071013&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 30,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 120,
-      "Нахушев Заурби Ахмедович": 1122,
-      "Шхагошев Адальби Люлевич": 257,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000220800": 30,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 120,
+      "gas:candidate-vibid:1001000225875": 1122,
+      "gas:candidate-vibid:207200070757": 257,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 65,
-      "Гаев Аслан Далхатович": 16,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 170,
-      "Нахушев Заурби Ахмедович": 1115,
-      "Шхагошев Адальби Люлевич": 296,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000220800": 65,
+      "gas:candidate-vibid:1001000190278": 16,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 170,
+      "gas:candidate-vibid:1001000225875": 1115,
+      "gas:candidate-vibid:207200070757": 296,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 85,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 13,
-      "Макаров Андрей Николаевич": 221,
-      "Нахушев Заурби Ахмедович": 1109,
-      "Шхагошев Адальби Люлевич": 375,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000220800": 85,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 13,
+      "gas:candidate-vibid:1001000135995": 221,
+      "gas:candidate-vibid:1001000225875": 1109,
+      "gas:candidate-vibid:207200070757": 375,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 43,
-      "Гаев Аслан Далхатович": 17,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 224,
-      "Нахушев Заурби Ахмедович": 1325,
-      "Шхагошев Адальби Люлевич": 406,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000220800": 43,
+      "gas:candidate-vibid:1001000190278": 17,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 224,
+      "gas:candidate-vibid:1001000225875": 1325,
+      "gas:candidate-vibid:207200070757": 406,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 18,
-      "Гаев Аслан Далхатович": 16,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 163,
-      "Нахушев Заурби Ахмедович": 941,
-      "Шхагошев Адальби Люлевич": 280,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 18,
+      "gas:candidate-vibid:1001000190278": 16,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 163,
+      "gas:candidate-vibid:1001000225875": 941,
+      "gas:candidate-vibid:207200070757": 280,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 55,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 160,
-      "Нахушев Заурби Ахмедович": 1089,
-      "Шхагошев Адальби Люлевич": 309,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000220800": 55,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 160,
+      "gas:candidate-vibid:1001000225875": 1089,
+      "gas:candidate-vibid:207200070757": 309,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 63,
-      "Гаев Аслан Далхатович": 17,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 198,
-      "Нахушев Заурби Ахмедович": 587,
-      "Шхагошев Адальби Люлевич": 236,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000220800": 63,
+      "gas:candidate-vibid:1001000190278": 17,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 198,
+      "gas:candidate-vibid:1001000225875": 587,
+      "gas:candidate-vibid:207200070757": 236,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 18,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 64,
-      "Нахушев Заурби Ахмедович": 1501,
-      "Шхагошев Адальби Люлевич": 74,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000220800": 18,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 64,
+      "gas:candidate-vibid:1001000225875": 1501,
+      "gas:candidate-vibid:207200070757": 74,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 22,
-      "Гаев Аслан Далхатович": 11,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 65,
-      "Нахушев Заурби Ахмедович": 1040,
-      "Шхагошев Адальби Люлевич": 242,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000220800": 22,
+      "gas:candidate-vibid:1001000190278": 11,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 65,
+      "gas:candidate-vibid:1001000225875": 1040,
+      "gas:candidate-vibid:207200070757": 242,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 120,
-      "Гаев Аслан Далхатович": 50,
-      "Кучмезов Хаким Далхатович": 25,
-      "Макаров Андрей Николаевич": 341,
-      "Нахушев Заурби Ахмедович": 915,
-      "Шхагошев Адальби Люлевич": 239,
-      "Против всех": 473
+      "gas:candidate-vibid:1001000220800": 120,
+      "gas:candidate-vibid:1001000190278": 50,
+      "gas:candidate-vibid:1001000195022": 25,
+      "gas:candidate-vibid:1001000135995": 341,
+      "gas:candidate-vibid:1001000225875": 915,
+      "gas:candidate-vibid:207200070757": 239,
+      "special:against-all": 473
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 49,
-      "Гаев Аслан Далхатович": 10,
-      "Кучмезов Хаким Далхатович": 14,
-      "Макаров Андрей Николаевич": 128,
-      "Нахушев Заурби Ахмедович": 634,
-      "Шхагошев Адальби Люлевич": 276,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000220800": 49,
+      "gas:candidate-vibid:1001000190278": 10,
+      "gas:candidate-vibid:1001000195022": 14,
+      "gas:candidate-vibid:1001000135995": 128,
+      "gas:candidate-vibid:1001000225875": 634,
+      "gas:candidate-vibid:207200070757": 276,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 46,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 156,
-      "Нахушев Заурби Ахмедович": 885,
-      "Шхагошев Адальби Люлевич": 305,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000220800": 46,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 156,
+      "gas:candidate-vibid:1001000225875": 885,
+      "gas:candidate-vibid:207200070757": 305,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 65,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 245,
-      "Нахушев Заурби Ахмедович": 811,
-      "Шхагошев Адальби Люлевич": 455,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000220800": 65,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 245,
+      "gas:candidate-vibid:1001000225875": 811,
+      "gas:candidate-vibid:207200070757": 455,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 78,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 27,
-      "Макаров Андрей Николаевич": 163,
-      "Нахушев Заурби Ахмедович": 727,
-      "Шхагошев Адальби Люлевич": 271,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000220800": 78,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 27,
+      "gas:candidate-vibid:1001000135995": 163,
+      "gas:candidate-vibid:1001000225875": 727,
+      "gas:candidate-vibid:207200070757": 271,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 84,
-      "Гаев Аслан Далхатович": 21,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 214,
-      "Нахушев Заурби Ахмедович": 637,
-      "Шхагошев Адальби Люлевич": 335,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000220800": 84,
+      "gas:candidate-vibid:1001000190278": 21,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 214,
+      "gas:candidate-vibid:1001000225875": 637,
+      "gas:candidate-vibid:207200070757": 335,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 63,
-      "Гаев Аслан Далхатович": 11,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 206,
-      "Нахушев Заурби Ахмедович": 1022,
-      "Шхагошев Адальби Люлевич": 235,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000220800": 63,
+      "gas:candidate-vibid:1001000190278": 11,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 206,
+      "gas:candidate-vibid:1001000225875": 1022,
+      "gas:candidate-vibid:207200070757": 235,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 69,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 108,
-      "Нахушев Заурби Ахмедович": 905,
-      "Шхагошев Адальби Люлевич": 198,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000220800": 69,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 108,
+      "gas:candidate-vibid:1001000225875": 905,
+      "gas:candidate-vibid:207200070757": 198,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 51,
-      "Гаев Аслан Далхатович": 13,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 189,
-      "Нахушев Заурби Ахмедович": 787,
-      "Шхагошев Адальби Люлевич": 331,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000220800": 51,
+      "gas:candidate-vibid:1001000190278": 13,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 189,
+      "gas:candidate-vibid:1001000225875": 787,
+      "gas:candidate-vibid:207200070757": 331,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 71,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 189,
-      "Нахушев Заурби Ахмедович": 787,
-      "Шхагошев Адальби Люлевич": 247,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000220800": 71,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 189,
+      "gas:candidate-vibid:1001000225875": 787,
+      "gas:candidate-vibid:207200070757": 247,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 6,
-      "Гаев Аслан Далхатович": 5,
-      "Кучмезов Хаким Далхатович": 1,
-      "Макаров Андрей Николаевич": 15,
-      "Нахушев Заурби Ахмедович": 816,
-      "Шхагошев Адальби Люлевич": 265,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 6,
+      "gas:candidate-vibid:1001000190278": 5,
+      "gas:candidate-vibid:1001000195022": 1,
+      "gas:candidate-vibid:1001000135995": 15,
+      "gas:candidate-vibid:1001000225875": 816,
+      "gas:candidate-vibid:207200070757": 265,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 17,
-      "Нахушев Заурби Ахмедович": 49,
-      "Шхагошев Адальби Люлевич": 47,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 17,
+      "gas:candidate-vibid:1001000225875": 49,
+      "gas:candidate-vibid:207200070757": 47,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071014&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 22,
-      "Гаев Аслан Далхатович": 2,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 47,
-      "Нахушев Заурби Ахмедович": 480,
-      "Шхагошев Адальби Люлевич": 260,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000220800": 22,
+      "gas:candidate-vibid:1001000190278": 2,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 47,
+      "gas:candidate-vibid:1001000225875": 480,
+      "gas:candidate-vibid:207200070757": 260,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 31,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 71,
-      "Нахушев Заурби Ахмедович": 399,
-      "Шхагошев Адальби Люлевич": 271,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000220800": 31,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 71,
+      "gas:candidate-vibid:1001000225875": 399,
+      "gas:candidate-vibid:207200070757": 271,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 18,
-      "Гаев Аслан Далхатович": 2,
-      "Кучмезов Хаким Далхатович": 1,
-      "Макаров Андрей Николаевич": 62,
-      "Нахушев Заурби Ахмедович": 477,
-      "Шхагошев Адальби Люлевич": 227,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000220800": 18,
+      "gas:candidate-vibid:1001000190278": 2,
+      "gas:candidate-vibid:1001000195022": 1,
+      "gas:candidate-vibid:1001000135995": 62,
+      "gas:candidate-vibid:1001000225875": 477,
+      "gas:candidate-vibid:207200070757": 227,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 27,
-      "Гаев Аслан Далхатович": 7,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 76,
-      "Нахушев Заурби Ахмедович": 189,
-      "Шхагошев Адальби Люлевич": 230,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000220800": 27,
+      "gas:candidate-vibid:1001000190278": 7,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 76,
+      "gas:candidate-vibid:1001000225875": 189,
+      "gas:candidate-vibid:207200070757": 230,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 34,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 89,
-      "Нахушев Заурби Ахмедович": 328,
-      "Шхагошев Адальби Люлевич": 196,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000220800": 34,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 89,
+      "gas:candidate-vibid:1001000225875": 328,
+      "gas:candidate-vibid:207200070757": 196,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 27,
-      "Гаев Аслан Далхатович": 5,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 85,
-      "Нахушев Заурби Ахмедович": 276,
-      "Шхагошев Адальби Люлевич": 168,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000220800": 27,
+      "gas:candidate-vibid:1001000190278": 5,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 85,
+      "gas:candidate-vibid:1001000225875": 276,
+      "gas:candidate-vibid:207200070757": 168,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 51,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 13,
-      "Макаров Андрей Николаевич": 92,
-      "Нахушев Заурби Ахмедович": 246,
-      "Шхагошев Адальби Люлевич": 232,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000220800": 51,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 13,
+      "gas:candidate-vibid:1001000135995": 92,
+      "gas:candidate-vibid:1001000225875": 246,
+      "gas:candidate-vibid:207200070757": 232,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 16,
-      "Гаев Аслан Далхатович": 1,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 96,
-      "Нахушев Заурби Ахмедович": 235,
-      "Шхагошев Адальби Люлевич": 152,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000220800": 16,
+      "gas:candidate-vibid:1001000190278": 1,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 96,
+      "gas:candidate-vibid:1001000225875": 235,
+      "gas:candidate-vibid:207200070757": 152,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 40,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 105,
-      "Нахушев Заурби Ахмедович": 255,
-      "Шхагошев Адальби Люлевич": 162,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000220800": 40,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 105,
+      "gas:candidate-vibid:1001000225875": 255,
+      "gas:candidate-vibid:207200070757": 162,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 20,
-      "Гаев Аслан Далхатович": 5,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 33,
-      "Нахушев Заурби Ахмедович": 87,
-      "Шхагошев Адальби Люлевич": 164,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000220800": 20,
+      "gas:candidate-vibid:1001000190278": 5,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 33,
+      "gas:candidate-vibid:1001000225875": 87,
+      "gas:candidate-vibid:207200070757": 164,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 51,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 104,
-      "Нахушев Заурби Ахмедович": 823,
-      "Шхагошев Адальби Люлевич": 335,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000220800": 51,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 104,
+      "gas:candidate-vibid:1001000225875": 823,
+      "gas:candidate-vibid:207200070757": 335,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 65,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 186,
-      "Нахушев Заурби Ахмедович": 315,
-      "Шхагошев Адальби Люлевич": 298,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000220800": 65,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 186,
+      "gas:candidate-vibid:1001000225875": 315,
+      "gas:candidate-vibid:207200070757": 298,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 59,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 15,
-      "Макаров Андрей Николаевич": 194,
-      "Нахушев Заурби Ахмедович": 378,
-      "Шхагошев Адальби Люлевич": 302,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000220800": 59,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 15,
+      "gas:candidate-vibid:1001000135995": 194,
+      "gas:candidate-vibid:1001000225875": 378,
+      "gas:candidate-vibid:207200070757": 302,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 56,
-      "Гаев Аслан Далхатович": 8,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 136,
-      "Нахушев Заурби Ахмедович": 204,
-      "Шхагошев Адальби Люлевич": 305,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000220800": 56,
+      "gas:candidate-vibid:1001000190278": 8,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 136,
+      "gas:candidate-vibid:1001000225875": 204,
+      "gas:candidate-vibid:207200070757": 305,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 10,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 10,
-      "Нахушев Заурби Ахмедович": 65,
-      "Шхагошев Адальби Люлевич": 57,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000220800": 10,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 10,
+      "gas:candidate-vibid:1001000225875": 65,
+      "gas:candidate-vibid:207200070757": 57,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 1,
-      "Кучмезов Хаким Далхатович": 0,
-      "Макаров Андрей Николаевич": 10,
-      "Нахушев Заурби Ахмедович": 24,
-      "Шхагошев Адальби Люлевич": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 1,
+      "gas:candidate-vibid:1001000195022": 0,
+      "gas:candidate-vibid:1001000135995": 10,
+      "gas:candidate-vibid:1001000225875": 24,
+      "gas:candidate-vibid:207200070757": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 44,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 167,
-      "Нахушев Заурби Ахмедович": 668,
-      "Шхагошев Адальби Люлевич": 506,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000220800": 44,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 167,
+      "gas:candidate-vibid:1001000225875": 668,
+      "gas:candidate-vibid:207200070757": 506,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 12,
-      "Гаев Аслан Далхатович": 38,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 103,
-      "Нахушев Заурби Ахмедович": 1294,
-      "Шхагошев Адальби Люлевич": 409,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000220800": 12,
+      "gas:candidate-vibid:1001000190278": 38,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 103,
+      "gas:candidate-vibid:1001000225875": 1294,
+      "gas:candidate-vibid:207200070757": 409,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 20,
-      "Гаев Аслан Далхатович": 4,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 58,
-      "Нахушев Заурби Ахмедович": 276,
-      "Шхагошев Адальби Люлевич": 131,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000220800": 20,
+      "gas:candidate-vibid:1001000190278": 4,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 58,
+      "gas:candidate-vibid:1001000225875": 276,
+      "gas:candidate-vibid:207200070757": 131,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 2,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 21,
-      "Нахушев Заурби Ахмедович": 75,
-      "Шхагошев Адальби Люлевич": 55,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000220800": 2,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 21,
+      "gas:candidate-vibid:1001000225875": 75,
+      "gas:candidate-vibid:207200070757": 55,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 36,
-      "Гаев Аслан Далхатович": 38,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 53,
-      "Нахушев Заурби Ахмедович": 685,
-      "Шхагошев Адальби Люлевич": 304,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000220800": 36,
+      "gas:candidate-vibid:1001000190278": 38,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 53,
+      "gas:candidate-vibid:1001000225875": 685,
+      "gas:candidate-vibid:207200070757": 304,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 7,
-      "Гаев Аслан Далхатович": 1,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 21,
-      "Нахушев Заурби Ахмедович": 109,
-      "Шхагошев Адальби Люлевич": 65,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220800": 7,
+      "gas:candidate-vibid:1001000190278": 1,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 21,
+      "gas:candidate-vibid:1001000225875": 109,
+      "gas:candidate-vibid:207200070757": 65,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071015&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 90,
-      "Гаев Аслан Далхатович": 17,
-      "Кучмезов Хаким Далхатович": 13,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 721,
-      "Шхагошев Адальби Люлевич": 201,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000220800": 90,
+      "gas:candidate-vibid:1001000190278": 17,
+      "gas:candidate-vibid:1001000195022": 13,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 721,
+      "gas:candidate-vibid:207200070757": 201,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 64,
-      "Гаев Аслан Далхатович": 149,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 412,
-      "Шхагошев Адальби Люлевич": 160,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000220800": 64,
+      "gas:candidate-vibid:1001000190278": 149,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 412,
+      "gas:candidate-vibid:207200070757": 160,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 215,
-      "Гаев Аслан Далхатович": 146,
-      "Кучмезов Хаким Далхатович": 20,
-      "Макаров Андрей Николаевич": 4,
-      "Нахушев Заурби Ахмедович": 83,
-      "Шхагошев Адальби Люлевич": 134,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000220800": 215,
+      "gas:candidate-vibid:1001000190278": 146,
+      "gas:candidate-vibid:1001000195022": 20,
+      "gas:candidate-vibid:1001000135995": 4,
+      "gas:candidate-vibid:1001000225875": 83,
+      "gas:candidate-vibid:207200070757": 134,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 187,
-      "Гаев Аслан Далхатович": 149,
-      "Кучмезов Хаким Далхатович": 18,
-      "Макаров Андрей Николаевич": 1,
-      "Нахушев Заурби Ахмедович": 112,
-      "Шхагошев Адальби Люлевич": 165,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000220800": 187,
+      "gas:candidate-vibid:1001000190278": 149,
+      "gas:candidate-vibid:1001000195022": 18,
+      "gas:candidate-vibid:1001000135995": 1,
+      "gas:candidate-vibid:1001000225875": 112,
+      "gas:candidate-vibid:207200070757": 165,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 204,
-      "Гаев Аслан Далхатович": 93,
-      "Кучмезов Хаким Далхатович": 24,
-      "Макаров Андрей Николаевич": 4,
-      "Нахушев Заурби Ахмедович": 121,
-      "Шхагошев Адальби Люлевич": 144,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000220800": 204,
+      "gas:candidate-vibid:1001000190278": 93,
+      "gas:candidate-vibid:1001000195022": 24,
+      "gas:candidate-vibid:1001000135995": 4,
+      "gas:candidate-vibid:1001000225875": 121,
+      "gas:candidate-vibid:207200070757": 144,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 32,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 7,
-      "Нахушев Заурби Ахмедович": 88,
-      "Шхагошев Адальби Люлевич": 116,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000220800": 32,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 7,
+      "gas:candidate-vibid:1001000225875": 88,
+      "gas:candidate-vibid:207200070757": 116,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 10,
-      "Гаев Аслан Далхатович": 5,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 4,
-      "Нахушев Заурби Ахмедович": 411,
-      "Шхагошев Адальби Люлевич": 303,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000220800": 10,
+      "gas:candidate-vibid:1001000190278": 5,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 4,
+      "gas:candidate-vibid:1001000225875": 411,
+      "gas:candidate-vibid:207200070757": 303,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 73,
-      "Гаев Аслан Далхатович": 30,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 30,
-      "Нахушев Заурби Ахмедович": 606,
-      "Шхагошев Адальби Люлевич": 410,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000220800": 73,
+      "gas:candidate-vibid:1001000190278": 30,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 30,
+      "gas:candidate-vibid:1001000225875": 606,
+      "gas:candidate-vibid:207200070757": 410,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 41,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 50,
-      "Нахушев Заурби Ахмедович": 234,
-      "Шхагошев Адальби Люлевич": 361,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000220800": 41,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 50,
+      "gas:candidate-vibid:1001000225875": 234,
+      "gas:candidate-vibid:207200070757": 361,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 22,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 12,
-      "Нахушев Заурби Ахмедович": 239,
-      "Шхагошев Адальби Люлевич": 142,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000220800": 22,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 12,
+      "gas:candidate-vibid:1001000225875": 239,
+      "gas:candidate-vibid:207200070757": 142,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 105,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 10,
-      "Нахушев Заурби Ахмедович": 567,
-      "Шхагошев Адальби Люлевич": 379,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000220800": 105,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 10,
+      "gas:candidate-vibid:1001000225875": 567,
+      "gas:candidate-vibid:207200070757": 379,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 78,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 5,
-      "Нахушев Заурби Ахмедович": 353,
-      "Шхагошев Адальби Люлевич": 237,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000220800": 78,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 5,
+      "gas:candidate-vibid:1001000225875": 353,
+      "gas:candidate-vibid:207200070757": 237,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 115,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 2,
-      "Нахушев Заурби Ахмедович": 323,
-      "Шхагошев Адальби Люлевич": 172,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000220800": 115,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 2,
+      "gas:candidate-vibid:1001000225875": 323,
+      "gas:candidate-vibid:207200070757": 172,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 35,
-      "Гаев Аслан Далхатович": 24,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 25,
-      "Нахушев Заурби Ахмедович": 280,
-      "Шхагошев Адальби Люлевич": 602,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220800": 35,
+      "gas:candidate-vibid:1001000190278": 24,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 25,
+      "gas:candidate-vibid:1001000225875": 280,
+      "gas:candidate-vibid:207200070757": 602,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 61,
-      "Гаев Аслан Далхатович": 26,
-      "Кучмезов Хаким Далхатович": 13,
-      "Макаров Андрей Николаевич": 61,
-      "Нахушев Заурби Ахмедович": 297,
-      "Шхагошев Адальби Люлевич": 342,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000220800": 61,
+      "gas:candidate-vibid:1001000190278": 26,
+      "gas:candidate-vibid:1001000195022": 13,
+      "gas:candidate-vibid:1001000135995": 61,
+      "gas:candidate-vibid:1001000225875": 297,
+      "gas:candidate-vibid:207200070757": 342,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 66,
-      "Гаев Аслан Далхатович": 27,
-      "Кучмезов Хаким Далхатович": 18,
-      "Макаров Андрей Николаевич": 70,
-      "Нахушев Заурби Ахмедович": 338,
-      "Шхагошев Адальби Люлевич": 410,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000220800": 66,
+      "gas:candidate-vibid:1001000190278": 27,
+      "gas:candidate-vibid:1001000195022": 18,
+      "gas:candidate-vibid:1001000135995": 70,
+      "gas:candidate-vibid:1001000225875": 338,
+      "gas:candidate-vibid:207200070757": 410,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 56,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 37,
-      "Нахушев Заурби Ахмедович": 187,
-      "Шхагошев Адальби Люлевич": 262,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000220800": 56,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 37,
+      "gas:candidate-vibid:1001000225875": 187,
+      "gas:candidate-vibid:207200070757": 262,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 22,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 21,
-      "Макаров Андрей Николаевич": 1,
-      "Нахушев Заурби Ахмедович": 190,
-      "Шхагошев Адальби Люлевич": 266,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000220800": 22,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 21,
+      "gas:candidate-vibid:1001000135995": 1,
+      "gas:candidate-vibid:1001000225875": 190,
+      "gas:candidate-vibid:207200070757": 266,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 47,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 42,
-      "Нахушев Заурби Ахмедович": 223,
-      "Шхагошев Адальби Люлевич": 281,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000220800": 47,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 42,
+      "gas:candidate-vibid:1001000225875": 223,
+      "gas:candidate-vibid:207200070757": 281,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 50,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 67,
-      "Нахушев Заурби Ахмедович": 284,
-      "Шхагошев Адальби Люлевич": 407,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000220800": 50,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 67,
+      "gas:candidate-vibid:1001000225875": 284,
+      "gas:candidate-vibid:207200070757": 407,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 45,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 50,
-      "Нахушев Заурби Ахмедович": 271,
-      "Шхагошев Адальби Люлевич": 265,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000220800": 45,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 50,
+      "gas:candidate-vibid:1001000225875": 271,
+      "gas:candidate-vibid:207200070757": 265,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 37,
-      "Гаев Аслан Далхатович": 11,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 62,
-      "Нахушев Заурби Ахмедович": 725,
-      "Шхагошев Адальби Люлевич": 206,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000220800": 37,
+      "gas:candidate-vibid:1001000190278": 11,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 62,
+      "gas:candidate-vibid:1001000225875": 725,
+      "gas:candidate-vibid:207200070757": 206,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 64,
-      "Гаев Аслан Далхатович": 26,
-      "Кучмезов Хаким Далхатович": 16,
-      "Макаров Андрей Николаевич": 27,
-      "Нахушев Заурби Ахмедович": 310,
-      "Шхагошев Адальби Люлевич": 258,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000220800": 64,
+      "gas:candidate-vibid:1001000190278": 26,
+      "gas:candidate-vibid:1001000195022": 16,
+      "gas:candidate-vibid:1001000135995": 27,
+      "gas:candidate-vibid:1001000225875": 310,
+      "gas:candidate-vibid:207200070757": 258,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 49,
-      "Гаев Аслан Далхатович": 13,
-      "Кучмезов Хаким Далхатович": 18,
-      "Макаров Андрей Николаевич": 55,
-      "Нахушев Заурби Ахмедович": 341,
-      "Шхагошев Адальби Люлевич": 272,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000220800": 49,
+      "gas:candidate-vibid:1001000190278": 13,
+      "gas:candidate-vibid:1001000195022": 18,
+      "gas:candidate-vibid:1001000135995": 55,
+      "gas:candidate-vibid:1001000225875": 341,
+      "gas:candidate-vibid:207200070757": 272,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 25,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 29,
-      "Нахушев Заурби Ахмедович": 219,
-      "Шхагошев Адальби Люлевич": 169,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000220800": 25,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 29,
+      "gas:candidate-vibid:1001000225875": 219,
+      "gas:candidate-vibid:207200070757": 169,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 44,
-      "Гаев Аслан Далхатович": 0,
-      "Кучмезов Хаким Далхатович": 21,
-      "Макаров Андрей Николаевич": 0,
-      "Нахушев Заурби Ахмедович": 455,
-      "Шхагошев Адальби Люлевич": 195,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000220800": 44,
+      "gas:candidate-vibid:1001000190278": 0,
+      "gas:candidate-vibid:1001000195022": 21,
+      "gas:candidate-vibid:1001000135995": 0,
+      "gas:candidate-vibid:1001000225875": 455,
+      "gas:candidate-vibid:207200070757": 195,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 25,
-      "Гаев Аслан Далхатович": 17,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 29,
-      "Нахушев Заурби Ахмедович": 336,
-      "Шхагошев Адальби Люлевич": 141,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000220800": 25,
+      "gas:candidate-vibid:1001000190278": 17,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 29,
+      "gas:candidate-vibid:1001000225875": 336,
+      "gas:candidate-vibid:207200070757": 141,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 45,
-      "Гаев Аслан Далхатович": 10,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 65,
-      "Нахушев Заурби Ахмедович": 643,
-      "Шхагошев Адальби Люлевич": 109,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000220800": 45,
+      "gas:candidate-vibid:1001000190278": 10,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 65,
+      "gas:candidate-vibid:1001000225875": 643,
+      "gas:candidate-vibid:207200070757": 109,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 72,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 14,
-      "Макаров Андрей Николаевич": 47,
-      "Нахушев Заурби Ахмедович": 281,
-      "Шхагошев Адальби Люлевич": 347,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000220800": 72,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 14,
+      "gas:candidate-vibid:1001000135995": 47,
+      "gas:candidate-vibid:1001000225875": 281,
+      "gas:candidate-vibid:207200070757": 347,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 27,
-      "Гаев Аслан Далхатович": 11,
-      "Кучмезов Хаким Далхатович": 10,
-      "Макаров Андрей Николаевич": 8,
-      "Нахушев Заурби Ахмедович": 250,
-      "Шхагошев Адальби Люлевич": 138,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000220800": 27,
+      "gas:candidate-vibid:1001000190278": 11,
+      "gas:candidate-vibid:1001000195022": 10,
+      "gas:candidate-vibid:1001000135995": 8,
+      "gas:candidate-vibid:1001000225875": 250,
+      "gas:candidate-vibid:207200070757": 138,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 69,
-      "Гаев Аслан Далхатович": 18,
-      "Кучмезов Хаким Далхатович": 18,
-      "Макаров Андрей Николаевич": 82,
-      "Нахушев Заурби Ахмедович": 309,
-      "Шхагошев Адальби Люлевич": 280,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000220800": 69,
+      "gas:candidate-vibid:1001000190278": 18,
+      "gas:candidate-vibid:1001000195022": 18,
+      "gas:candidate-vibid:1001000135995": 82,
+      "gas:candidate-vibid:1001000225875": 309,
+      "gas:candidate-vibid:207200070757": 280,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 64,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 14,
-      "Макаров Андрей Николаевич": 49,
-      "Нахушев Заурби Ахмедович": 223,
-      "Шхагошев Адальби Люлевич": 254,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000220800": 64,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 14,
+      "gas:candidate-vibid:1001000135995": 49,
+      "gas:candidate-vibid:1001000225875": 223,
+      "gas:candidate-vibid:207200070757": 254,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 88,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 16,
-      "Макаров Андрей Николаевич": 70,
-      "Нахушев Заурби Ахмедович": 333,
-      "Шхагошев Адальби Люлевич": 283,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000220800": 88,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 16,
+      "gas:candidate-vibid:1001000135995": 70,
+      "gas:candidate-vibid:1001000225875": 333,
+      "gas:candidate-vibid:207200070757": 283,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 36,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 36,
-      "Нахушев Заурби Ахмедович": 226,
-      "Шхагошев Адальби Люлевич": 120,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000220800": 36,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 36,
+      "gas:candidate-vibid:1001000225875": 226,
+      "gas:candidate-vibid:207200070757": 120,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 19,
-      "Гаев Аслан Далхатович": 4,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 11,
-      "Нахушев Заурби Ахмедович": 433,
-      "Шхагошев Адальби Люлевич": 60,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000220800": 19,
+      "gas:candidate-vibid:1001000190278": 4,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 11,
+      "gas:candidate-vibid:1001000225875": 433,
+      "gas:candidate-vibid:207200070757": 60,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 62,
-      "Гаев Аслан Далхатович": 16,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 60,
-      "Нахушев Заурби Ахмедович": 333,
-      "Шхагошев Адальби Люлевич": 289,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000220800": 62,
+      "gas:candidate-vibid:1001000190278": 16,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 60,
+      "gas:candidate-vibid:1001000225875": 333,
+      "gas:candidate-vibid:207200070757": 289,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 30,
-      "Гаев Аслан Далхатович": 8,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 18,
-      "Нахушев Заурби Ахмедович": 239,
-      "Шхагошев Адальби Люлевич": 141,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000220800": 30,
+      "gas:candidate-vibid:1001000190278": 8,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 18,
+      "gas:candidate-vibid:1001000225875": 239,
+      "gas:candidate-vibid:207200070757": 141,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 53,
-      "Гаев Аслан Далхатович": 27,
-      "Кучмезов Хаким Далхатович": 21,
-      "Макаров Андрей Николаевич": 190,
-      "Нахушев Заурби Ахмедович": 327,
-      "Шхагошев Адальби Люлевич": 278,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000220800": 53,
+      "gas:candidate-vibid:1001000190278": 27,
+      "gas:candidate-vibid:1001000195022": 21,
+      "gas:candidate-vibid:1001000135995": 190,
+      "gas:candidate-vibid:1001000225875": 327,
+      "gas:candidate-vibid:207200070757": 278,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 19,
-      "Гаев Аслан Далхатович": 12,
-      "Кучмезов Хаким Далхатович": 2,
-      "Макаров Андрей Николаевич": 21,
-      "Нахушев Заурби Ахмедович": 249,
-      "Шхагошев Адальби Люлевич": 101,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000220800": 19,
+      "gas:candidate-vibid:1001000190278": 12,
+      "gas:candidate-vibid:1001000195022": 2,
+      "gas:candidate-vibid:1001000135995": 21,
+      "gas:candidate-vibid:1001000225875": 249,
+      "gas:candidate-vibid:207200070757": 101,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 71,
-      "Гаев Аслан Далхатович": 16,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 72,
-      "Нахушев Заурби Ахмедович": 667,
-      "Шхагошев Адальби Люлевич": 424,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000220800": 71,
+      "gas:candidate-vibid:1001000190278": 16,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 72,
+      "gas:candidate-vibid:1001000225875": 667,
+      "gas:candidate-vibid:207200070757": 424,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 56,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 92,
-      "Макаров Андрей Николаевич": 62,
-      "Нахушев Заурби Ахмедович": 396,
-      "Шхагошев Адальби Люлевич": 360,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000220800": 56,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 92,
+      "gas:candidate-vibid:1001000135995": 62,
+      "gas:candidate-vibid:1001000225875": 396,
+      "gas:candidate-vibid:207200070757": 360,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 38,
-      "Гаев Аслан Далхатович": 8,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 42,
-      "Нахушев Заурби Ахмедович": 349,
-      "Шхагошев Адальби Люлевич": 322,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000220800": 38,
+      "gas:candidate-vibid:1001000190278": 8,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 42,
+      "gas:candidate-vibid:1001000225875": 349,
+      "gas:candidate-vibid:207200070757": 322,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 79,
-      "Гаев Аслан Далхатович": 80,
-      "Кучмезов Хаким Далхатович": 33,
-      "Макаров Андрей Николаевич": 20,
-      "Нахушев Заурби Ахмедович": 317,
-      "Шхагошев Адальби Люлевич": 292,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000220800": 79,
+      "gas:candidate-vibid:1001000190278": 80,
+      "gas:candidate-vibid:1001000195022": 33,
+      "gas:candidate-vibid:1001000135995": 20,
+      "gas:candidate-vibid:1001000225875": 317,
+      "gas:candidate-vibid:207200070757": 292,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 93,
-      "Гаев Аслан Далхатович": 38,
-      "Кучмезов Хаким Далхатович": 23,
-      "Макаров Андрей Николаевич": 21,
-      "Нахушев Заурби Ахмедович": 340,
-      "Шхагошев Адальби Люлевич": 205,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000220800": 93,
+      "gas:candidate-vibid:1001000190278": 38,
+      "gas:candidate-vibid:1001000195022": 23,
+      "gas:candidate-vibid:1001000135995": 21,
+      "gas:candidate-vibid:1001000225875": 340,
+      "gas:candidate-vibid:207200070757": 205,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 84,
-      "Гаев Аслан Далхатович": 27,
-      "Кучмезов Хаким Далхатович": 13,
-      "Макаров Андрей Николаевич": 3,
-      "Нахушев Заурби Ахмедович": 250,
-      "Шхагошев Адальби Люлевич": 209,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000220800": 84,
+      "gas:candidate-vibid:1001000190278": 27,
+      "gas:candidate-vibid:1001000195022": 13,
+      "gas:candidate-vibid:1001000135995": 3,
+      "gas:candidate-vibid:1001000225875": 250,
+      "gas:candidate-vibid:207200070757": 209,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 62,
-      "Гаев Аслан Далхатович": 33,
-      "Кучмезов Хаким Далхатович": 16,
-      "Макаров Андрей Николаевич": 9,
-      "Нахушев Заурби Ахмедович": 525,
-      "Шхагошев Адальби Люлевич": 262,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000220800": 62,
+      "gas:candidate-vibid:1001000190278": 33,
+      "gas:candidate-vibid:1001000195022": 16,
+      "gas:candidate-vibid:1001000135995": 9,
+      "gas:candidate-vibid:1001000225875": 525,
+      "gas:candidate-vibid:207200070757": 262,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 56,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 18,
-      "Макаров Андрей Николаевич": 24,
-      "Нахушев Заурби Ахмедович": 397,
-      "Шхагошев Адальби Люлевич": 347,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000220800": 56,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 18,
+      "gas:candidate-vibid:1001000135995": 24,
+      "gas:candidate-vibid:1001000225875": 397,
+      "gas:candidate-vibid:207200070757": 347,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 36,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 11,
-      "Макаров Андрей Николаевич": 48,
-      "Нахушев Заурби Ахмедович": 345,
-      "Шхагошев Адальби Люлевич": 342,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000220800": 36,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 11,
+      "gas:candidate-vibid:1001000135995": 48,
+      "gas:candidate-vibid:1001000225875": 345,
+      "gas:candidate-vibid:207200070757": 342,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 45,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 32,
-      "Нахушев Заурби Ахмедович": 543,
-      "Шхагошев Адальби Люлевич": 384,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000220800": 45,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 32,
+      "gas:candidate-vibid:1001000225875": 543,
+      "gas:candidate-vibid:207200070757": 384,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 43,
-      "Гаев Аслан Далхатович": 18,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 23,
-      "Нахушев Заурби Ахмедович": 765,
-      "Шхагошев Адальби Люлевич": 383,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000220800": 43,
+      "gas:candidate-vibid:1001000190278": 18,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 23,
+      "gas:candidate-vibid:1001000225875": 765,
+      "gas:candidate-vibid:207200070757": 383,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 32,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 28,
-      "Нахушев Заурби Ахмедович": 372,
-      "Шхагошев Адальби Люлевич": 194,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000220800": 32,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 28,
+      "gas:candidate-vibid:1001000225875": 372,
+      "gas:candidate-vibid:207200070757": 194,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 17,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 5,
-      "Макаров Андрей Николаевич": 14,
-      "Нахушев Заурби Ахмедович": 130,
-      "Шхагошев Адальби Люлевич": 122,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000220800": 17,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 5,
+      "gas:candidate-vibid:1001000135995": 14,
+      "gas:candidate-vibid:1001000225875": 130,
+      "gas:candidate-vibid:207200070757": 122,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 33,
-      "Гаев Аслан Далхатович": 7,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 7,
-      "Нахушев Заурби Ахмедович": 388,
-      "Шхагошев Адальби Люлевич": 126,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000220800": 33,
+      "gas:candidate-vibid:1001000190278": 7,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 7,
+      "gas:candidate-vibid:1001000225875": 388,
+      "gas:candidate-vibid:207200070757": 126,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 10,
-      "Гаев Аслан Далхатович": 2,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 4,
-      "Нахушев Заурби Ахмедович": 537,
-      "Шхагошев Адальби Люлевич": 295,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000220800": 10,
+      "gas:candidate-vibid:1001000190278": 2,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 4,
+      "gas:candidate-vibid:1001000225875": 537,
+      "gas:candidate-vibid:207200070757": 295,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 55,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 56,
-      "Нахушев Заурби Ахмедович": 303,
-      "Шхагошев Адальби Люлевич": 275,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000220800": 55,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 56,
+      "gas:candidate-vibid:1001000225875": 303,
+      "gas:candidate-vibid:207200070757": 275,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 19,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 44,
-      "Нахушев Заурби Ахмедович": 131,
-      "Шхагошев Адальби Люлевич": 213,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000220800": 19,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 44,
+      "gas:candidate-vibid:1001000225875": 131,
+      "gas:candidate-vibid:207200070757": 213,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 33,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 17,
-      "Макаров Андрей Николаевич": 65,
-      "Нахушев Заурби Ахмедович": 310,
-      "Шхагошев Адальби Люлевич": 199,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000220800": 33,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 17,
+      "gas:candidate-vibid:1001000135995": 65,
+      "gas:candidate-vibid:1001000225875": 310,
+      "gas:candidate-vibid:207200070757": 199,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 57,
-      "Гаев Аслан Далхатович": 9,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 49,
-      "Нахушев Заурби Ахмедович": 399,
-      "Шхагошев Адальби Люлевич": 305,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000220800": 57,
+      "gas:candidate-vibid:1001000190278": 9,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 49,
+      "gas:candidate-vibid:1001000225875": 399,
+      "gas:candidate-vibid:207200070757": 305,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 33,
-      "Гаев Аслан Далхатович": 11,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 25,
-      "Нахушев Заурби Ахмедович": 151,
-      "Шхагошев Адальби Люлевич": 214,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220800": 33,
+      "gas:candidate-vibid:1001000190278": 11,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 25,
+      "gas:candidate-vibid:1001000225875": 151,
+      "gas:candidate-vibid:207200070757": 214,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 48,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 56,
-      "Нахушев Заурби Ахмедович": 289,
-      "Шхагошев Адальби Люлевич": 269,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000220800": 48,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 56,
+      "gas:candidate-vibid:1001000225875": 289,
+      "gas:candidate-vibid:207200070757": 269,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 22,
-      "Гаев Аслан Далхатович": 3,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 40,
-      "Нахушев Заурби Ахмедович": 138,
-      "Шхагошев Адальби Люлевич": 154,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000220800": 22,
+      "gas:candidate-vibid:1001000190278": 3,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 40,
+      "gas:candidate-vibid:1001000225875": 138,
+      "gas:candidate-vibid:207200070757": 154,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 69,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 87,
-      "Нахушев Заурби Ахмедович": 288,
-      "Шхагошев Адальби Люлевич": 282,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000220800": 69,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 87,
+      "gas:candidate-vibid:1001000225875": 288,
+      "gas:candidate-vibid:207200070757": 282,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 40,
-      "Гаев Аслан Далхатович": 17,
-      "Кучмезов Хаким Далхатович": 10,
-      "Макаров Андрей Николаевич": 51,
-      "Нахушев Заурби Ахмедович": 263,
-      "Шхагошев Адальби Люлевич": 215,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000220800": 40,
+      "gas:candidate-vibid:1001000190278": 17,
+      "gas:candidate-vibid:1001000195022": 10,
+      "gas:candidate-vibid:1001000135995": 51,
+      "gas:candidate-vibid:1001000225875": 263,
+      "gas:candidate-vibid:207200070757": 215,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 52,
-      "Гаев Аслан Далхатович": 25,
-      "Кучмезов Хаким Далхатович": 3,
-      "Макаров Андрей Николаевич": 57,
-      "Нахушев Заурби Ахмедович": 290,
-      "Шхагошев Адальби Люлевич": 321,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000220800": 52,
+      "gas:candidate-vibid:1001000190278": 25,
+      "gas:candidate-vibid:1001000195022": 3,
+      "gas:candidate-vibid:1001000135995": 57,
+      "gas:candidate-vibid:1001000225875": 290,
+      "gas:candidate-vibid:207200070757": 321,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 51,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 7,
-      "Макаров Андрей Николаевич": 55,
-      "Нахушев Заурби Ахмедович": 218,
-      "Шхагошев Адальби Люлевич": 235,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000220800": 51,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 7,
+      "gas:candidate-vibid:1001000135995": 55,
+      "gas:candidate-vibid:1001000225875": 218,
+      "gas:candidate-vibid:207200070757": 235,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 58,
-      "Гаев Аслан Далхатович": 16,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 56,
-      "Нахушев Заурби Ахмедович": 259,
-      "Шхагошев Адальби Люлевич": 298,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000220800": 58,
+      "gas:candidate-vibid:1001000190278": 16,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 56,
+      "gas:candidate-vibid:1001000225875": 259,
+      "gas:candidate-vibid:207200070757": 298,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 80,
-      "Гаев Аслан Далхатович": 16,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 57,
-      "Нахушев Заурби Ахмедович": 380,
-      "Шхагошев Адальби Люлевич": 320,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000220800": 80,
+      "gas:candidate-vibid:1001000190278": 16,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 57,
+      "gas:candidate-vibid:1001000225875": 380,
+      "gas:candidate-vibid:207200070757": 320,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 35,
-      "Гаев Аслан Далхатович": 19,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 60,
-      "Нахушев Заурби Ахмедович": 413,
-      "Шхагошев Адальби Люлевич": 246,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000220800": 35,
+      "gas:candidate-vibid:1001000190278": 19,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 60,
+      "gas:candidate-vibid:1001000225875": 413,
+      "gas:candidate-vibid:207200070757": 246,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 51,
-      "Гаев Аслан Далхатович": 8,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 70,
-      "Нахушев Заурби Ахмедович": 426,
-      "Шхагошев Адальби Люлевич": 329,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000220800": 51,
+      "gas:candidate-vibid:1001000190278": 8,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 70,
+      "gas:candidate-vibid:1001000225875": 426,
+      "gas:candidate-vibid:207200070757": 329,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 35,
-      "Гаев Аслан Далхатович": 2,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 19,
-      "Нахушев Заурби Ахмедович": 293,
-      "Шхагошев Адальби Люлевич": 341,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000220800": 35,
+      "gas:candidate-vibid:1001000190278": 2,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 19,
+      "gas:candidate-vibid:1001000225875": 293,
+      "gas:candidate-vibid:207200070757": 341,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 32,
-      "Гаев Аслан Далхатович": 20,
-      "Кучмезов Хаким Далхатович": 6,
-      "Макаров Андрей Николаевич": 46,
-      "Нахушев Заурби Ахмедович": 392,
-      "Шхагошев Адальби Люлевич": 194,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000220800": 32,
+      "gas:candidate-vibid:1001000190278": 20,
+      "gas:candidate-vibid:1001000195022": 6,
+      "gas:candidate-vibid:1001000135995": 46,
+      "gas:candidate-vibid:1001000225875": 392,
+      "gas:candidate-vibid:207200070757": 194,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 69,
-      "Гаев Аслан Далхатович": 16,
-      "Кучмезов Хаким Далхатович": 12,
-      "Макаров Андрей Николаевич": 70,
-      "Нахушев Заурби Ахмедович": 549,
-      "Шхагошев Адальби Люлевич": 388,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000220800": 69,
+      "gas:candidate-vibid:1001000190278": 16,
+      "gas:candidate-vibid:1001000195022": 12,
+      "gas:candidate-vibid:1001000135995": 70,
+      "gas:candidate-vibid:1001000225875": 549,
+      "gas:candidate-vibid:207200070757": 388,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 30,
-      "Гаев Аслан Далхатович": 18,
-      "Кучмезов Хаким Далхатович": 9,
-      "Макаров Андрей Николаевич": 30,
-      "Нахушев Заурби Ахмедович": 330,
-      "Шхагошев Адальби Люлевич": 347,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000220800": 30,
+      "gas:candidate-vibid:1001000190278": 18,
+      "gas:candidate-vibid:1001000195022": 9,
+      "gas:candidate-vibid:1001000135995": 30,
+      "gas:candidate-vibid:1001000225875": 330,
+      "gas:candidate-vibid:207200070757": 347,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 41,
-      "Гаев Аслан Далхатович": 10,
-      "Кучмезов Хаким Далхатович": 10,
-      "Макаров Андрей Николаевич": 40,
-      "Нахушев Заурби Ахмедович": 193,
-      "Шхагошев Адальби Люлевич": 207,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000220800": 41,
+      "gas:candidate-vibid:1001000190278": 10,
+      "gas:candidate-vibid:1001000195022": 10,
+      "gas:candidate-vibid:1001000135995": 40,
+      "gas:candidate-vibid:1001000225875": 193,
+      "gas:candidate-vibid:207200070757": 207,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 30,
-      "Гаев Аслан Далхатович": 15,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 66,
-      "Нахушев Заурби Ахмедович": 240,
-      "Шхагошев Адальби Люлевич": 237,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000220800": 30,
+      "gas:candidate-vibid:1001000190278": 15,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 66,
+      "gas:candidate-vibid:1001000225875": 240,
+      "gas:candidate-vibid:207200070757": 237,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 25,
-      "Гаев Аслан Далхатович": 6,
-      "Кучмезов Хаким Далхатович": 4,
-      "Макаров Андрей Николаевич": 45,
-      "Нахушев Заурби Ахмедович": 233,
-      "Шхагошев Адальби Люлевич": 222,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000220800": 25,
+      "gas:candidate-vibid:1001000190278": 6,
+      "gas:candidate-vibid:1001000195022": 4,
+      "gas:candidate-vibid:1001000135995": 45,
+      "gas:candidate-vibid:1001000225875": 233,
+      "gas:candidate-vibid:207200070757": 222,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_7_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Атабиев Алий Хакимович": 27,
-      "Гаев Аслан Далхатович": 18,
-      "Кучмезов Хаким Далхатович": 8,
-      "Макаров Андрей Николаевич": 37,
-      "Нахушев Заурби Ахмедович": 153,
-      "Шхагошев Адальби Люлевич": 140,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000220800": 27,
+      "gas:candidate-vibid:1001000190278": 18,
+      "gas:candidate-vibid:1001000195022": 8,
+      "gas:candidate-vibid:1001000135995": 37,
+      "gas:candidate-vibid:1001000225875": 153,
+      "gas:candidate-vibid:207200070757": 140,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=72000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=207200071016&region=0&sub_region=0&type=429",

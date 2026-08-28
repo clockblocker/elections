@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 15,
-      "Бахарев Константин Михайлович": 920,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 41,
-      "Кискин Степан Степанович": 36,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 15,
+      "gas:candidate-vibid:4934014106995": 920,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 41,
+      "gas:candidate-vibid:4934014106702": 36,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 17,
-      "Бахарев Константин Михайлович": 623,
-      "Воропай Михаил Викторович": 70,
-      "Кийко Игорь Александрович": 150,
-      "Кискин Степан Степанович": 69,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 42
+      "gas:candidate-vibid:4934014106983": 17,
+      "gas:candidate-vibid:4934014106995": 623,
+      "gas:candidate-vibid:4934014107127": 70,
+      "gas:candidate-vibid:4934014106464": 150,
+      "gas:candidate-vibid:4934014106702": 69,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 63,
-      "Бахарев Константин Михайлович": 680,
-      "Воропай Михаил Викторович": 36,
-      "Кийко Игорь Александрович": 94,
-      "Кискин Степан Степанович": 69,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 11,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 63,
+      "gas:candidate-vibid:4934014106995": 680,
+      "gas:candidate-vibid:4934014107127": 36,
+      "gas:candidate-vibid:4934014106464": 94,
+      "gas:candidate-vibid:4934014106702": 69,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 11,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 47,
-      "Бахарев Константин Михайлович": 584,
-      "Воропай Михаил Викторович": 48,
-      "Кийко Игорь Александрович": 92,
-      "Кискин Степан Степанович": 70,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 9,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 47,
+      "gas:candidate-vibid:4934014106995": 584,
+      "gas:candidate-vibid:4934014107127": 48,
+      "gas:candidate-vibid:4934014106464": 92,
+      "gas:candidate-vibid:4934014106702": 70,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 9,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 58,
-      "Бахарев Константин Михайлович": 555,
-      "Воропай Михаил Викторович": 64,
-      "Кийко Игорь Александрович": 85,
-      "Кискин Степан Степанович": 43,
-      "Паша Андрей Викторович": 18,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 58,
+      "gas:candidate-vibid:4934014106995": 555,
+      "gas:candidate-vibid:4934014107127": 64,
+      "gas:candidate-vibid:4934014106464": 85,
+      "gas:candidate-vibid:4934014106702": 43,
+      "gas:candidate-vibid:4934014106827": 18,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 21,
-      "Бахарев Константин Михайлович": 316,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 46,
-      "Кискин Степан Степанович": 34,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 21,
+      "gas:candidate-vibid:4934014106995": 316,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 46,
+      "gas:candidate-vibid:4934014106702": 34,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 43,
-      "Бахарев Константин Михайлович": 614,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 110,
-      "Кискин Степан Степанович": 78,
-      "Паша Андрей Викторович": 28,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 13,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 43,
+      "gas:candidate-vibid:4934014106995": 614,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 110,
+      "gas:candidate-vibid:4934014106702": 78,
+      "gas:candidate-vibid:4934014106827": 28,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 13,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 39,
-      "Бахарев Константин Михайлович": 479,
-      "Воропай Михаил Викторович": 54,
-      "Кийко Игорь Александрович": 85,
-      "Кискин Степан Степанович": 93,
-      "Паша Андрей Викторович": 20,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 17,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 39,
+      "gas:candidate-vibid:4934014106995": 479,
+      "gas:candidate-vibid:4934014107127": 54,
+      "gas:candidate-vibid:4934014106464": 85,
+      "gas:candidate-vibid:4934014106702": 93,
+      "gas:candidate-vibid:4934014106827": 20,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 17,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 54,
-      "Бахарев Константин Михайлович": 540,
-      "Воропай Михаил Викторович": 37,
-      "Кийко Игорь Александрович": 81,
-      "Кискин Степан Степанович": 70,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 9,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 54,
+      "gas:candidate-vibid:4934014106995": 540,
+      "gas:candidate-vibid:4934014107127": 37,
+      "gas:candidate-vibid:4934014106464": 81,
+      "gas:candidate-vibid:4934014106702": 70,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 9,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 25,
-      "Бахарев Константин Михайлович": 441,
-      "Воропай Михаил Викторович": 49,
-      "Кийко Игорь Александрович": 68,
-      "Кискин Степан Степанович": 59,
-      "Паша Андрей Викторович": 20,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 12,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 25,
+      "gas:candidate-vibid:4934014106995": 441,
+      "gas:candidate-vibid:4934014107127": 49,
+      "gas:candidate-vibid:4934014106464": 68,
+      "gas:candidate-vibid:4934014106702": 59,
+      "gas:candidate-vibid:4934014106827": 20,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 12,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 63,
-      "Бахарев Константин Михайлович": 662,
-      "Воропай Михаил Викторович": 68,
-      "Кийко Игорь Александрович": 103,
-      "Кискин Степан Степанович": 122,
-      "Паша Андрей Викторович": 30,
-      "Першиков Юрий Александрович": 12,
-      "Свистунов Александр Григорьевич": 11,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 63,
+      "gas:candidate-vibid:4934014106995": 662,
+      "gas:candidate-vibid:4934014107127": 68,
+      "gas:candidate-vibid:4934014106464": 103,
+      "gas:candidate-vibid:4934014106702": 122,
+      "gas:candidate-vibid:4934014106827": 30,
+      "gas:candidate-vibid:4934014107022": 12,
+      "gas:candidate-vibid:4934014106933": 11,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 51,
-      "Бахарев Константин Михайлович": 553,
-      "Воропай Михаил Викторович": 48,
-      "Кийко Игорь Александрович": 87,
-      "Кискин Степан Степанович": 77,
-      "Паша Андрей Викторович": 27,
-      "Першиков Юрий Александрович": 13,
-      "Свистунов Александр Григорьевич": 9,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 51,
+      "gas:candidate-vibid:4934014106995": 553,
+      "gas:candidate-vibid:4934014107127": 48,
+      "gas:candidate-vibid:4934014106464": 87,
+      "gas:candidate-vibid:4934014106702": 77,
+      "gas:candidate-vibid:4934014106827": 27,
+      "gas:candidate-vibid:4934014107022": 13,
+      "gas:candidate-vibid:4934014106933": 9,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 29,
-      "Бахарев Константин Михайлович": 440,
-      "Воропай Михаил Викторович": 58,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 52,
-      "Паша Андрей Викторович": 18,
-      "Першиков Юрий Александрович": 11,
-      "Свистунов Александр Григорьевич": 8,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 29,
+      "gas:candidate-vibid:4934014106995": 440,
+      "gas:candidate-vibid:4934014107127": 58,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 52,
+      "gas:candidate-vibid:4934014106827": 18,
+      "gas:candidate-vibid:4934014107022": 11,
+      "gas:candidate-vibid:4934014106933": 8,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 52,
-      "Бахарев Константин Михайлович": 630,
-      "Воропай Михаил Викторович": 51,
-      "Кийко Игорь Александрович": 103,
-      "Кискин Степан Степанович": 97,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 11,
-      "Свистунов Александр Григорьевич": 10,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 52,
+      "gas:candidate-vibid:4934014106995": 630,
+      "gas:candidate-vibid:4934014107127": 51,
+      "gas:candidate-vibid:4934014106464": 103,
+      "gas:candidate-vibid:4934014106702": 97,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 11,
+      "gas:candidate-vibid:4934014106933": 10,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 43,
-      "Бахарев Константин Михайлович": 529,
-      "Воропай Михаил Викторович": 29,
-      "Кийко Игорь Александрович": 60,
-      "Кискин Степан Степанович": 71,
-      "Паша Андрей Викторович": 24,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 9,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 43,
+      "gas:candidate-vibid:4934014106995": 529,
+      "gas:candidate-vibid:4934014107127": 29,
+      "gas:candidate-vibid:4934014106464": 60,
+      "gas:candidate-vibid:4934014106702": 71,
+      "gas:candidate-vibid:4934014106827": 24,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 9,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 38,
-      "Бахарев Константин Михайлович": 391,
-      "Воропай Михаил Викторович": 24,
-      "Кийко Игорь Александрович": 51,
-      "Кискин Степан Степанович": 58,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 10,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 38,
+      "gas:candidate-vibid:4934014106995": 391,
+      "gas:candidate-vibid:4934014107127": 24,
+      "gas:candidate-vibid:4934014106464": 51,
+      "gas:candidate-vibid:4934014106702": 58,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 10,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 34,
-      "Бахарев Константин Михайлович": 447,
-      "Воропай Михаил Викторович": 41,
-      "Кийко Игорь Александрович": 86,
-      "Кискин Степан Степанович": 58,
-      "Паша Андрей Викторович": 21,
-      "Першиков Юрий Александрович": 10,
-      "Свистунов Александр Григорьевич": 8,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 34,
+      "gas:candidate-vibid:4934014106995": 447,
+      "gas:candidate-vibid:4934014107127": 41,
+      "gas:candidate-vibid:4934014106464": 86,
+      "gas:candidate-vibid:4934014106702": 58,
+      "gas:candidate-vibid:4934014106827": 21,
+      "gas:candidate-vibid:4934014107022": 10,
+      "gas:candidate-vibid:4934014106933": 8,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 43,
-      "Бахарев Константин Михайлович": 651,
-      "Воропай Михаил Викторович": 36,
-      "Кийко Игорь Александрович": 65,
-      "Кискин Степан Степанович": 82,
-      "Паша Андрей Викторович": 31,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 11,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 43,
+      "gas:candidate-vibid:4934014106995": 651,
+      "gas:candidate-vibid:4934014107127": 36,
+      "gas:candidate-vibid:4934014106464": 65,
+      "gas:candidate-vibid:4934014106702": 82,
+      "gas:candidate-vibid:4934014106827": 31,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 11,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 33,
-      "Бахарев Константин Михайлович": 539,
-      "Воропай Михаил Викторович": 23,
-      "Кийко Игорь Александрович": 93,
-      "Кискин Степан Степанович": 55,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 9,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 17
+      "gas:candidate-vibid:4934014106983": 33,
+      "gas:candidate-vibid:4934014106995": 539,
+      "gas:candidate-vibid:4934014107127": 23,
+      "gas:candidate-vibid:4934014106464": 93,
+      "gas:candidate-vibid:4934014106702": 55,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 9,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 50,
-      "Бахарев Константин Михайлович": 632,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 80,
-      "Кискин Степан Степанович": 58,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 18,
-      "Свистунов Александр Григорьевич": 10,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 50,
+      "gas:candidate-vibid:4934014106995": 632,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 80,
+      "gas:candidate-vibid:4934014106702": 58,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 18,
+      "gas:candidate-vibid:4934014106933": 10,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 50,
-      "Бахарев Константин Михайлович": 1185,
-      "Воропай Михаил Викторович": 36,
-      "Кийко Игорь Александрович": 54,
-      "Кискин Степан Степанович": 104,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 25
+      "gas:candidate-vibid:4934014106983": 50,
+      "gas:candidate-vibid:4934014106995": 1185,
+      "gas:candidate-vibid:4934014107127": 36,
+      "gas:candidate-vibid:4934014106464": 54,
+      "gas:candidate-vibid:4934014106702": 104,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 0,
-      "Бахарев Константин Михайлович": 60,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 0,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 0,
+      "gas:candidate-vibid:4934014106995": 60,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 0,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 0,
-      "Бахарев Константин Михайлович": 3,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 0,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 0,
+      "gas:candidate-vibid:4934014106995": 3,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 0,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 0,
-      "Бахарев Константин Михайлович": 19,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 5,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 0,
+      "gas:candidate-vibid:4934014106995": 19,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 5,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 14,
-      "Бахарев Константин Михайлович": 133,
-      "Воропай Михаил Викторович": 16,
-      "Кийко Игорь Александрович": 22,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 14,
+      "gas:candidate-vibid:4934014106995": 133,
+      "gas:candidate-vibid:4934014107127": 16,
+      "gas:candidate-vibid:4934014106464": 22,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 1,
-      "Бахарев Константин Михайлович": 7,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 1,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 1,
+      "gas:candidate-vibid:4934014106995": 7,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 1,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 1,
-      "Бахарев Константин Михайлович": 7,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 2,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 1,
+      "gas:candidate-vibid:4934014106995": 7,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 2,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 12,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 1,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 3
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 12,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 1,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 57,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 6,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 57,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 6,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 0,
-      "Бахарев Константин Михайлович": 3,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 1,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 0,
+      "gas:candidate-vibid:4934014106995": 3,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 1,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 44,
-      "Бахарев Константин Михайлович": 489,
-      "Воропай Михаил Викторович": 18,
-      "Кийко Игорь Александрович": 67,
-      "Кискин Степан Степанович": 76,
-      "Паша Андрей Викторович": 18,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 20
+      "gas:candidate-vibid:4934014106983": 44,
+      "gas:candidate-vibid:4934014106995": 489,
+      "gas:candidate-vibid:4934014107127": 18,
+      "gas:candidate-vibid:4934014106464": 67,
+      "gas:candidate-vibid:4934014106702": 76,
+      "gas:candidate-vibid:4934014106827": 18,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 24,
-      "Бахарев Константин Михайлович": 345,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 39,
-      "Кискин Степан Степанович": 40,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 24,
+      "gas:candidate-vibid:4934014106995": 345,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 39,
+      "gas:candidate-vibid:4934014106702": 40,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 51,
-      "Бахарев Константин Михайлович": 832,
-      "Воропай Михаил Викторович": 22,
-      "Кийко Игорь Александрович": 92,
-      "Кискин Степан Степанович": 45,
-      "Паша Андрей Викторович": 34,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 29
+      "gas:candidate-vibid:4934014106983": 51,
+      "gas:candidate-vibid:4934014106995": 832,
+      "gas:candidate-vibid:4934014107127": 22,
+      "gas:candidate-vibid:4934014106464": 92,
+      "gas:candidate-vibid:4934014106702": 45,
+      "gas:candidate-vibid:4934014106827": 34,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 20,
-      "Бахарев Константин Михайлович": 515,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 57,
-      "Кискин Степан Степанович": 37,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 62
+      "gas:candidate-vibid:4934014106983": 20,
+      "gas:candidate-vibid:4934014106995": 515,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 57,
+      "gas:candidate-vibid:4934014106702": 37,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 37,
-      "Бахарев Константин Михайлович": 555,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 58,
-      "Кискин Степан Степанович": 29,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 26
+      "gas:candidate-vibid:4934014106983": 37,
+      "gas:candidate-vibid:4934014106995": 555,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 58,
+      "gas:candidate-vibid:4934014106702": 29,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 13,
-      "Бахарев Константин Михайлович": 213,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 22,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 24
+      "gas:candidate-vibid:4934014106983": 13,
+      "gas:candidate-vibid:4934014106995": 213,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 22,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 169,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 18,
-      "Кискин Степан Степанович": 10,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 3
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 169,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 18,
+      "gas:candidate-vibid:4934014106702": 10,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 36,
-      "Бахарев Константин Михайлович": 587,
-      "Воропай Михаил Викторович": 20,
-      "Кийко Игорь Александрович": 54,
-      "Кискин Степан Степанович": 42,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 52
+      "gas:candidate-vibid:4934014106983": 36,
+      "gas:candidate-vibid:4934014106995": 587,
+      "gas:candidate-vibid:4934014107127": 20,
+      "gas:candidate-vibid:4934014106464": 54,
+      "gas:candidate-vibid:4934014106702": 42,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 52,
-      "Бахарев Константин Михайлович": 372,
-      "Воропай Михаил Викторович": 42,
-      "Кийко Игорь Александрович": 57,
-      "Кискин Степан Степанович": 31,
-      "Паша Андрей Викторович": 10,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 52,
+      "gas:candidate-vibid:4934014106995": 372,
+      "gas:candidate-vibid:4934014107127": 42,
+      "gas:candidate-vibid:4934014106464": 57,
+      "gas:candidate-vibid:4934014106702": 31,
+      "gas:candidate-vibid:4934014106827": 10,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 149,
-      "Бахарев Константин Михайлович": 1264,
-      "Воропай Михаил Викторович": 66,
-      "Кийко Игорь Александрович": 212,
-      "Кискин Степан Степанович": 132,
-      "Паша Андрей Викторович": 45,
-      "Першиков Юрий Александрович": 19,
-      "Свистунов Александр Григорьевич": 17,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 149,
+      "gas:candidate-vibid:4934014106995": 1264,
+      "gas:candidate-vibid:4934014107127": 66,
+      "gas:candidate-vibid:4934014106464": 212,
+      "gas:candidate-vibid:4934014106702": 132,
+      "gas:candidate-vibid:4934014106827": 45,
+      "gas:candidate-vibid:4934014107022": 19,
+      "gas:candidate-vibid:4934014106933": 17,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 54,
-      "Бахарев Константин Михайлович": 637,
-      "Воропай Михаил Викторович": 33,
-      "Кийко Игорь Александрович": 100,
-      "Кискин Степан Степанович": 85,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 11,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 54,
+      "gas:candidate-vibid:4934014106995": 637,
+      "gas:candidate-vibid:4934014107127": 33,
+      "gas:candidate-vibid:4934014106464": 100,
+      "gas:candidate-vibid:4934014106702": 85,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 11,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 40,
-      "Бахарев Константин Михайлович": 550,
-      "Воропай Михаил Викторович": 26,
-      "Кийко Игорь Александрович": 92,
-      "Кискин Степан Степанович": 72,
-      "Паша Андрей Викторович": 21,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 9,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 40,
+      "gas:candidate-vibid:4934014106995": 550,
+      "gas:candidate-vibid:4934014107127": 26,
+      "gas:candidate-vibid:4934014106464": 92,
+      "gas:candidate-vibid:4934014106702": 72,
+      "gas:candidate-vibid:4934014106827": 21,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 9,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 23,
-      "Бахарев Константин Михайлович": 313,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 30,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 23,
+      "gas:candidate-vibid:4934014106995": 313,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 30,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 30,
-      "Бахарев Константин Михайлович": 325,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 55,
-      "Кискин Степан Степанович": 30,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 36
+      "gas:candidate-vibid:4934014106983": 30,
+      "gas:candidate-vibid:4934014106995": 325,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 55,
+      "gas:candidate-vibid:4934014106702": 30,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 16,
-      "Бахарев Константин Михайлович": 320,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 24,
-      "Кискин Степан Степанович": 19,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 16,
+      "gas:candidate-vibid:4934014106995": 320,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 24,
+      "gas:candidate-vibid:4934014106702": 19,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 47,
-      "Бахарев Константин Михайлович": 727,
-      "Воропай Михаил Викторович": 22,
-      "Кийко Игорь Александрович": 49,
-      "Кискин Степан Степанович": 24,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 47,
+      "gas:candidate-vibid:4934014106995": 727,
+      "gas:candidate-vibid:4934014107127": 22,
+      "gas:candidate-vibid:4934014106464": 49,
+      "gas:candidate-vibid:4934014106702": 24,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 35,
-      "Бахарев Константин Михайлович": 559,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 38,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 41
+      "gas:candidate-vibid:4934014106983": 35,
+      "gas:candidate-vibid:4934014106995": 559,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 38,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 14,
-      "Бахарев Константин Михайлович": 232,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 14,
+      "gas:candidate-vibid:4934014106995": 232,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 398,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 16,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 398,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 16,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 47,
-      "Бахарев Константин Михайлович": 572,
-      "Воропай Михаил Викторович": 18,
-      "Кийко Игорь Александрович": 41,
-      "Кискин Степан Степанович": 36,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 47,
+      "gas:candidate-vibid:4934014106995": 572,
+      "gas:candidate-vibid:4934014107127": 18,
+      "gas:candidate-vibid:4934014106464": 41,
+      "gas:candidate-vibid:4934014106702": 36,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 24,
-      "Бахарев Константин Михайлович": 626,
-      "Воропай Михаил Викторович": 19,
-      "Кийко Игорь Александрович": 59,
-      "Кискин Степан Степанович": 32,
-      "Паша Андрей Викторович": 20,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 24,
+      "gas:candidate-vibid:4934014106995": 626,
+      "gas:candidate-vibid:4934014107127": 19,
+      "gas:candidate-vibid:4934014106464": 59,
+      "gas:candidate-vibid:4934014106702": 32,
+      "gas:candidate-vibid:4934014106827": 20,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 23,
-      "Бахарев Константин Михайлович": 294,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 26,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 23,
+      "gas:candidate-vibid:4934014106995": 294,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 26,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 21,
-      "Бахарев Константин Михайлович": 273,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 22,
-      "Кискин Степан Степанович": 15,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 21,
+      "gas:candidate-vibid:4934014106995": 273,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 22,
+      "gas:candidate-vibid:4934014106702": 15,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 34,
-      "Бахарев Константин Михайлович": 714,
-      "Воропай Михаил Викторович": 18,
-      "Кийко Игорь Александрович": 70,
-      "Кискин Степан Степанович": 39,
-      "Паша Андрей Викторович": 15,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 36
+      "gas:candidate-vibid:4934014106983": 34,
+      "gas:candidate-vibid:4934014106995": 714,
+      "gas:candidate-vibid:4934014107127": 18,
+      "gas:candidate-vibid:4934014106464": 70,
+      "gas:candidate-vibid:4934014106702": 39,
+      "gas:candidate-vibid:4934014106827": 15,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 175,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 18,
-      "Кискин Степан Степанович": 6,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 175,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 18,
+      "gas:candidate-vibid:4934014106702": 6,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 215,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 19,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 215,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 19,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 35,
-      "Бахарев Константин Михайлович": 609,
-      "Воропай Михаил Викторович": 23,
-      "Кийко Игорь Александрович": 78,
-      "Кискин Степан Степанович": 41,
-      "Паша Андрей Викторович": 59,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 35,
+      "gas:candidate-vibid:4934014106995": 609,
+      "gas:candidate-vibid:4934014107127": 23,
+      "gas:candidate-vibid:4934014106464": 78,
+      "gas:candidate-vibid:4934014106702": 41,
+      "gas:candidate-vibid:4934014106827": 59,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 43,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 4,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 43,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 4,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 148,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 16,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 35
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 148,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 16,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 218,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 16,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 25
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 218,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 16,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 290,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 19,
-      "Кискин Степан Степанович": 26,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 290,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 19,
+      "gas:candidate-vibid:4934014106702": 26,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 19,
-      "Бахарев Константин Михайлович": 261,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 32,
-      "Кискин Степан Степанович": 18,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 19,
+      "gas:candidate-vibid:4934014106995": 261,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 32,
+      "gas:candidate-vibid:4934014106702": 18,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 1,
-      "Бахарев Константин Михайлович": 79,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 10,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 1,
+      "gas:candidate-vibid:4934014106995": 79,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 10,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 30,
-      "Бахарев Константин Михайлович": 563,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 64,
-      "Кискин Степан Степанович": 60,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 27
+      "gas:candidate-vibid:4934014106983": 30,
+      "gas:candidate-vibid:4934014106995": 563,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 64,
+      "gas:candidate-vibid:4934014106702": 60,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 15,
-      "Бахарев Константин Михайлович": 381,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 24,
-      "Кискин Степан Степанович": 24,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 59
+      "gas:candidate-vibid:4934014106983": 15,
+      "gas:candidate-vibid:4934014106995": 381,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 24,
+      "gas:candidate-vibid:4934014106702": 24,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 1,
-      "Бахарев Константин Михайлович": 14,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 6,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 1,
+      "gas:candidate-vibid:4934014106995": 14,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 6,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105972&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105972&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 72,
-      "Козенко Андрей Дмитриевич": 329,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 9,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 59
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 72,
+      "gas:candidate-vibid:493402186610": 329,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 9,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 26,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 49,
-      "Климчук Олег Алексеевич": 116,
-      "Козенко Андрей Дмитриевич": 456,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 11,
-      "Ханин Николай Александрович": 11,
-      "Чернышев Александр Иванович": 74
+      "gas:candidate-vibid:493402187220": 26,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 49,
+      "gas:candidate-vibid:493402186056": 116,
+      "gas:candidate-vibid:493402186610": 456,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 11,
+      "gas:candidate-vibid:493402187159": 11,
+      "gas:candidate-vibid:493402186390": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 11,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 102,
-      "Козенко Андрей Дмитриевич": 484,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 14,
-      "Чернышев Александр Иванович": 65
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 11,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 102,
+      "gas:candidate-vibid:493402186610": 484,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 14,
+      "gas:candidate-vibid:493402186390": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 97,
-      "Козенко Андрей Дмитриевич": 466,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 45
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 97,
+      "gas:candidate-vibid:493402186610": 466,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 12,
-      "Грицак Елена Валерьевна": 39,
-      "Климчук Олег Алексеевич": 85,
-      "Козенко Андрей Дмитриевич": 347,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 7,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 53
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 12,
+      "gas:candidate-vibid:493402186702": 39,
+      "gas:candidate-vibid:493402186056": 85,
+      "gas:candidate-vibid:493402186610": 347,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 7,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 103,
-      "Азардович Анатолий Анатольевич": 19,
-      "Грицак Елена Валерьевна": 57,
-      "Климчук Олег Алексеевич": 232,
-      "Козенко Андрей Дмитриевич": 900,
-      "Салихова Резеда Радиковна": 24,
-      "Талипов Александр Валериевич": 13,
-      "Ханин Николай Александрович": 21,
-      "Чернышев Александр Иванович": 162
+      "gas:candidate-vibid:493402187220": 103,
+      "gas:candidate-vibid:493402186725": 19,
+      "gas:candidate-vibid:493402186702": 57,
+      "gas:candidate-vibid:493402186056": 232,
+      "gas:candidate-vibid:493402186610": 900,
+      "gas:candidate-vibid:493402187268": 24,
+      "gas:candidate-vibid:493402187486": 13,
+      "gas:candidate-vibid:493402187159": 21,
+      "gas:candidate-vibid:493402186390": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 22,
-      "Азардович Анатолий Анатольевич": 13,
-      "Грицак Елена Валерьевна": 34,
-      "Климчук Олег Алексеевич": 96,
-      "Козенко Андрей Дмитриевич": 1051,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 55
+      "gas:candidate-vibid:493402187220": 22,
+      "gas:candidate-vibid:493402186725": 13,
+      "gas:candidate-vibid:493402186702": 34,
+      "gas:candidate-vibid:493402186056": 96,
+      "gas:candidate-vibid:493402186610": 1051,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 13,
-      "Грицак Елена Валерьевна": 29,
-      "Климчук Олег Алексеевич": 120,
-      "Козенко Андрей Дмитриевич": 618,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 17,
-      "Чернышев Александр Иванович": 48
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 13,
+      "gas:candidate-vibid:493402186702": 29,
+      "gas:candidate-vibid:493402186056": 120,
+      "gas:candidate-vibid:493402186610": 618,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 17,
+      "gas:candidate-vibid:493402186390": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 21,
-      "Азардович Анатолий Анатольевич": 8,
-      "Грицак Елена Валерьевна": 18,
-      "Климчук Олег Алексеевич": 86,
-      "Козенко Андрей Дмитриевич": 348,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 36
+      "gas:candidate-vibid:493402187220": 21,
+      "gas:candidate-vibid:493402186725": 8,
+      "gas:candidate-vibid:493402186702": 18,
+      "gas:candidate-vibid:493402186056": 86,
+      "gas:candidate-vibid:493402186610": 348,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 18,
-      "Климчук Олег Алексеевич": 55,
-      "Козенко Андрей Дмитриевич": 969,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 21
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 18,
+      "gas:candidate-vibid:493402186056": 55,
+      "gas:candidate-vibid:493402186610": 969,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 22,
-      "Азардович Анатолий Анатольевич": 13,
-      "Грицак Елена Валерьевна": 12,
-      "Климчук Олег Алексеевич": 78,
-      "Козенко Андрей Дмитриевич": 459,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 43
+      "gas:candidate-vibid:493402187220": 22,
+      "gas:candidate-vibid:493402186725": 13,
+      "gas:candidate-vibid:493402186702": 12,
+      "gas:candidate-vibid:493402186056": 78,
+      "gas:candidate-vibid:493402186610": 459,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 17,
-      "Грицак Елена Валерьевна": 19,
-      "Климчук Олег Алексеевич": 80,
-      "Козенко Андрей Дмитриевич": 493,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 37
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 17,
+      "gas:candidate-vibid:493402186702": 19,
+      "gas:candidate-vibid:493402186056": 80,
+      "gas:candidate-vibid:493402186610": 493,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 9,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 52,
-      "Климчук Олег Алексеевич": 103,
-      "Козенко Андрей Дмитриевич": 486,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 40
+      "gas:candidate-vibid:493402187220": 9,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 52,
+      "gas:candidate-vibid:493402186056": 103,
+      "gas:candidate-vibid:493402186610": 486,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 20,
-      "Азардович Анатолий Анатольевич": 16,
-      "Грицак Елена Валерьевна": 23,
-      "Климчук Олег Алексеевич": 85,
-      "Козенко Андрей Дмитриевич": 424,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 16,
-      "Чернышев Александр Иванович": 43
+      "gas:candidate-vibid:493402187220": 20,
+      "gas:candidate-vibid:493402186725": 16,
+      "gas:candidate-vibid:493402186702": 23,
+      "gas:candidate-vibid:493402186056": 85,
+      "gas:candidate-vibid:493402186610": 424,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 16,
+      "gas:candidate-vibid:493402186390": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 18,
-      "Грицак Елена Валерьевна": 63,
-      "Климчук Олег Алексеевич": 164,
-      "Козенко Андрей Дмитриевич": 638,
-      "Салихова Резеда Радиковна": 12,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 14,
-      "Чернышев Александр Иванович": 95
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 18,
+      "gas:candidate-vibid:493402186702": 63,
+      "gas:candidate-vibid:493402186056": 164,
+      "gas:candidate-vibid:493402186610": 638,
+      "gas:candidate-vibid:493402187268": 12,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 14,
+      "gas:candidate-vibid:493402186390": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 15,
-      "Грицак Елена Валерьевна": 36,
-      "Климчук Олег Алексеевич": 121,
-      "Козенко Андрей Дмитриевич": 505,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 15,
-      "Чернышев Александр Иванович": 62
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 15,
+      "gas:candidate-vibid:493402186702": 36,
+      "gas:candidate-vibid:493402186056": 121,
+      "gas:candidate-vibid:493402186610": 505,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 15,
+      "gas:candidate-vibid:493402186390": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 109,
-      "Козенко Андрей Дмитриевич": 439,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 10,
-      "Ханин Николай Александрович": 14,
-      "Чернышев Александр Иванович": 52
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 109,
+      "gas:candidate-vibid:493402186610": 439,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 10,
+      "gas:candidate-vibid:493402187159": 14,
+      "gas:candidate-vibid:493402186390": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 11,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 41,
-      "Климчук Олег Алексеевич": 112,
-      "Козенко Андрей Дмитриевич": 471,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 56
+      "gas:candidate-vibid:493402187220": 11,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 41,
+      "gas:candidate-vibid:493402186056": 112,
+      "gas:candidate-vibid:493402186610": 471,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 14,
-      "Азардович Анатолий Анатольевич": 12,
-      "Грицак Елена Валерьевна": 43,
-      "Климчук Олег Алексеевич": 93,
-      "Козенко Андрей Дмитриевич": 442,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 12,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 40
+      "gas:candidate-vibid:493402187220": 14,
+      "gas:candidate-vibid:493402186725": 12,
+      "gas:candidate-vibid:493402186702": 43,
+      "gas:candidate-vibid:493402186056": 93,
+      "gas:candidate-vibid:493402186610": 442,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 12,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 29,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 86,
-      "Козенко Андрей Дмитриевич": 389,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 39
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 29,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 86,
+      "gas:candidate-vibid:493402186610": 389,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 8,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 27,
-      "Климчук Олег Алексеевич": 114,
-      "Козенко Андрей Дмитриевич": 511,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 13,
-      "Чернышев Александр Иванович": 60
+      "gas:candidate-vibid:493402187220": 8,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 27,
+      "gas:candidate-vibid:493402186056": 114,
+      "gas:candidate-vibid:493402186610": 511,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 13,
+      "gas:candidate-vibid:493402186390": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 15,
-      "Грицак Елена Валерьевна": 68,
-      "Климчук Олег Алексеевич": 171,
-      "Козенко Андрей Дмитриевич": 735,
-      "Салихова Резеда Радиковна": 17,
-      "Талипов Александр Валериевич": 12,
-      "Ханин Николай Александрович": 16,
-      "Чернышев Александр Иванович": 89
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 15,
+      "gas:candidate-vibid:493402186702": 68,
+      "gas:candidate-vibid:493402186056": 171,
+      "gas:candidate-vibid:493402186610": 735,
+      "gas:candidate-vibid:493402187268": 17,
+      "gas:candidate-vibid:493402187486": 12,
+      "gas:candidate-vibid:493402187159": 16,
+      "gas:candidate-vibid:493402186390": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 31,
-      "Климчук Олег Алексеевич": 129,
-      "Козенко Андрей Дмитриевич": 481,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 50
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 31,
+      "gas:candidate-vibid:493402186056": 129,
+      "gas:candidate-vibid:493402186610": 481,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 14,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 30,
-      "Климчук Олег Алексеевич": 69,
-      "Козенко Андрей Дмитриевич": 408,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 36
+      "gas:candidate-vibid:493402187220": 14,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 30,
+      "gas:candidate-vibid:493402186056": 69,
+      "gas:candidate-vibid:493402186610": 408,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 24,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 27,
-      "Климчук Олег Алексеевич": 96,
-      "Козенко Андрей Дмитриевич": 434,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 53,
-      "Чернышев Александр Иванович": 140
+      "gas:candidate-vibid:493402187220": 24,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 27,
+      "gas:candidate-vibid:493402186056": 96,
+      "gas:candidate-vibid:493402186610": 434,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 53,
+      "gas:candidate-vibid:493402186390": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 44,
-      "Климчук Олег Алексеевич": 103,
-      "Козенко Андрей Дмитриевич": 459,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 16,
-      "Чернышев Александр Иванович": 54
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 44,
+      "gas:candidate-vibid:493402186056": 103,
+      "gas:candidate-vibid:493402186610": 459,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 16,
+      "gas:candidate-vibid:493402186390": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 8,
-      "Грицак Елена Валерьевна": 40,
-      "Климчук Олег Алексеевич": 146,
-      "Козенко Андрей Дмитриевич": 463,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 13,
-      "Чернышев Александр Иванович": 66
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 8,
+      "gas:candidate-vibid:493402186702": 40,
+      "gas:candidate-vibid:493402186056": 146,
+      "gas:candidate-vibid:493402186610": 463,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 13,
+      "gas:candidate-vibid:493402186390": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 9,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 25,
-      "Климчук Олег Алексеевич": 109,
-      "Козенко Андрей Дмитриевич": 471,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 12,
-      "Чернышев Александр Иванович": 65
+      "gas:candidate-vibid:493402187220": 9,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 25,
+      "gas:candidate-vibid:493402186056": 109,
+      "gas:candidate-vibid:493402186610": 471,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 12,
+      "gas:candidate-vibid:493402186390": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 8,
-      "Грицак Елена Валерьевна": 30,
-      "Климчук Олег Алексеевич": 116,
-      "Козенко Андрей Дмитриевич": 511,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 12,
-      "Чернышев Александр Иванович": 69
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 8,
+      "gas:candidate-vibid:493402186702": 30,
+      "gas:candidate-vibid:493402186056": 116,
+      "gas:candidate-vibid:493402186610": 511,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 12,
+      "gas:candidate-vibid:493402186390": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 132,
-      "Козенко Андрей Дмитриевич": 521,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 7,
-      "Ханин Николай Александрович": 9,
-      "Чернышев Александр Иванович": 58
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 132,
+      "gas:candidate-vibid:493402186610": 521,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 7,
+      "gas:candidate-vibid:493402187159": 9,
+      "gas:candidate-vibid:493402186390": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 9,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 38,
-      "Климчук Олег Алексеевич": 147,
-      "Козенко Андрей Дмитриевич": 448,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 9,
-      "Ханин Николай Александрович": 13,
-      "Чернышев Александр Иванович": 62
+      "gas:candidate-vibid:493402187220": 9,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 38,
+      "gas:candidate-vibid:493402186056": 147,
+      "gas:candidate-vibid:493402186610": 448,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 9,
+      "gas:candidate-vibid:493402187159": 13,
+      "gas:candidate-vibid:493402186390": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 8,
-      "Грицак Елена Валерьевна": 27,
-      "Климчук Олег Алексеевич": 129,
-      "Козенко Андрей Дмитриевич": 552,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 14,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 64
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 8,
+      "gas:candidate-vibid:493402186702": 27,
+      "gas:candidate-vibid:493402186056": 129,
+      "gas:candidate-vibid:493402186610": 552,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 14,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 6,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 43,
-      "Климчук Олег Алексеевич": 60,
-      "Козенко Андрей Дмитриевич": 316,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 38
+      "gas:candidate-vibid:493402187220": 6,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 43,
+      "gas:candidate-vibid:493402186056": 60,
+      "gas:candidate-vibid:493402186610": 316,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 20,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 33,
-      "Климчук Олег Алексеевич": 113,
-      "Козенко Андрей Дмитриевич": 527,
-      "Салихова Резеда Радиковна": 10,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 13,
-      "Чернышев Александр Иванович": 66
+      "gas:candidate-vibid:493402187220": 20,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 33,
+      "gas:candidate-vibid:493402186056": 113,
+      "gas:candidate-vibid:493402186610": 527,
+      "gas:candidate-vibid:493402187268": 10,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 13,
+      "gas:candidate-vibid:493402186390": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 19,
-      "Грицак Елена Валерьевна": 42,
-      "Климчук Олег Алексеевич": 110,
-      "Козенко Андрей Дмитриевич": 487,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 7,
-      "Ханин Николай Александрович": 17,
-      "Чернышев Александр Иванович": 54
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 19,
+      "gas:candidate-vibid:493402186702": 42,
+      "gas:candidate-vibid:493402186056": 110,
+      "gas:candidate-vibid:493402186610": 487,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 7,
+      "gas:candidate-vibid:493402187159": 17,
+      "gas:candidate-vibid:493402186390": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 11,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 105,
-      "Козенко Андрей Дмитриевич": 509,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 12,
-      "Чернышев Александр Иванович": 42
+      "gas:candidate-vibid:493402187220": 11,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 105,
+      "gas:candidate-vibid:493402186610": 509,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 12,
+      "gas:candidate-vibid:493402186390": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 35,
-      "Климчук Олег Алексеевич": 152,
-      "Козенко Андрей Дмитриевич": 603,
-      "Салихова Резеда Радиковна": 15,
-      "Талипов Александр Валериевич": 14,
-      "Ханин Николай Александрович": 12,
-      "Чернышев Александр Иванович": 72
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 35,
+      "gas:candidate-vibid:493402186056": 152,
+      "gas:candidate-vibid:493402186610": 603,
+      "gas:candidate-vibid:493402187268": 15,
+      "gas:candidate-vibid:493402187486": 14,
+      "gas:candidate-vibid:493402187159": 12,
+      "gas:candidate-vibid:493402186390": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 6,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 29,
-      "Климчук Олег Алексеевич": 55,
-      "Козенко Андрей Дмитриевич": 670,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 7,
-      "Чернышев Александр Иванович": 72
+      "gas:candidate-vibid:493402187220": 6,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 29,
+      "gas:candidate-vibid:493402186056": 55,
+      "gas:candidate-vibid:493402186610": 670,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 7,
+      "gas:candidate-vibid:493402186390": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 20,
-      "Азардович Анатолий Анатольевич": 11,
-      "Грицак Елена Валерьевна": 47,
-      "Климчук Олег Алексеевич": 101,
-      "Козенко Андрей Дмитриевич": 545,
-      "Салихова Резеда Радиковна": 11,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 11,
-      "Чернышев Александр Иванович": 75
+      "gas:candidate-vibid:493402187220": 20,
+      "gas:candidate-vibid:493402186725": 11,
+      "gas:candidate-vibid:493402186702": 47,
+      "gas:candidate-vibid:493402186056": 101,
+      "gas:candidate-vibid:493402186610": 545,
+      "gas:candidate-vibid:493402187268": 11,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 11,
+      "gas:candidate-vibid:493402186390": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 7,
-      "Азардович Анатолий Анатольевич": 8,
-      "Грицак Елена Валерьевна": 29,
-      "Климчук Олег Алексеевич": 102,
-      "Козенко Андрей Дмитриевич": 636,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 9,
-      "Ханин Николай Александрович": 11,
-      "Чернышев Александр Иванович": 41
+      "gas:candidate-vibid:493402187220": 7,
+      "gas:candidate-vibid:493402186725": 8,
+      "gas:candidate-vibid:493402186702": 29,
+      "gas:candidate-vibid:493402186056": 102,
+      "gas:candidate-vibid:493402186610": 636,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 9,
+      "gas:candidate-vibid:493402187159": 11,
+      "gas:candidate-vibid:493402186390": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 23,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 39,
-      "Климчук Олег Алексеевич": 68,
-      "Козенко Андрей Дмитриевич": 1026,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 7,
-      "Чернышев Александр Иванович": 29
+      "gas:candidate-vibid:493402187220": 23,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 39,
+      "gas:candidate-vibid:493402186056": 68,
+      "gas:candidate-vibid:493402186610": 1026,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 7,
+      "gas:candidate-vibid:493402186390": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 49,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 13,
-      "Климчук Олег Алексеевич": 17,
-      "Козенко Андрей Дмитриевич": 110,
-      "Салихова Резеда Радиковна": 18,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 17
+      "gas:candidate-vibid:493402187220": 49,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 13,
+      "gas:candidate-vibid:493402186056": 17,
+      "gas:candidate-vibid:493402186610": 110,
+      "gas:candidate-vibid:493402187268": 18,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 39,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 5,
-      "Климчук Олег Алексеевич": 22,
-      "Козенко Андрей Дмитриевич": 143,
-      "Салихова Резеда Радиковна": 11,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 16
+      "gas:candidate-vibid:493402187220": 39,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 5,
+      "gas:candidate-vibid:493402186056": 22,
+      "gas:candidate-vibid:493402186610": 143,
+      "gas:candidate-vibid:493402187268": 11,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 40,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 11,
-      "Климчук Олег Алексеевич": 24,
-      "Козенко Андрей Дмитриевич": 145,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 19
+      "gas:candidate-vibid:493402187220": 40,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 11,
+      "gas:candidate-vibid:493402186056": 24,
+      "gas:candidate-vibid:493402186610": 145,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 5,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 4,
-      "Климчук Олег Алексеевич": 11,
-      "Козенко Андрей Дмитриевич": 67,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 8
+      "gas:candidate-vibid:493402187220": 5,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 4,
+      "gas:candidate-vibid:493402186056": 11,
+      "gas:candidate-vibid:493402186610": 67,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 4,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 2,
-      "Климчук Олег Алексеевич": 9,
-      "Козенко Андрей Дмитриевич": 21,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 2
+      "gas:candidate-vibid:493402187220": 4,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 2,
+      "gas:candidate-vibid:493402186056": 9,
+      "gas:candidate-vibid:493402186610": 21,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185012&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185012&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 42,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 36,
-      "Климчук Олег Алексеевич": 52,
-      "Козенко Андрей Дмитриевич": 585,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 9,
-      "Чернышев Александр Иванович": 43
+      "gas:candidate-vibid:493402187220": 42,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 36,
+      "gas:candidate-vibid:493402186056": 52,
+      "gas:candidate-vibid:493402186610": 585,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 9,
+      "gas:candidate-vibid:493402186390": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 50,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 37,
-      "Климчук Олег Алексеевич": 37,
-      "Козенко Андрей Дмитриевич": 500,
-      "Салихова Резеда Радиковна": 11,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 9,
-      "Чернышев Александр Иванович": 43
+      "gas:candidate-vibid:493402187220": 50,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 37,
+      "gas:candidate-vibid:493402186056": 37,
+      "gas:candidate-vibid:493402186610": 500,
+      "gas:candidate-vibid:493402187268": 11,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 9,
+      "gas:candidate-vibid:493402186390": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 33,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 7,
-      "Климчук Олег Алексеевич": 13,
-      "Козенко Андрей Дмитриевич": 233,
-      "Салихова Резеда Радиковна": 12,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 17
+      "gas:candidate-vibid:493402187220": 33,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 7,
+      "gas:candidate-vibid:493402186056": 13,
+      "gas:candidate-vibid:493402186610": 233,
+      "gas:candidate-vibid:493402187268": 12,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 39,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 12,
-      "Климчук Олег Алексеевич": 29,
-      "Козенко Андрей Дмитриевич": 232,
-      "Салихова Резеда Радиковна": 10,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 17
+      "gas:candidate-vibid:493402187220": 39,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 12,
+      "gas:candidate-vibid:493402186056": 29,
+      "gas:candidate-vibid:493402186610": 232,
+      "gas:candidate-vibid:493402187268": 10,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 57,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 38,
-      "Климчук Олег Алексеевич": 36,
-      "Козенко Андрей Дмитриевич": 369,
-      "Салихова Резеда Радиковна": 11,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 22
+      "gas:candidate-vibid:493402187220": 57,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 38,
+      "gas:candidate-vibid:493402186056": 36,
+      "gas:candidate-vibid:493402186610": 369,
+      "gas:candidate-vibid:493402187268": 11,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 7,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 13,
-      "Климчук Олег Алексеевич": 37,
-      "Козенко Андрей Дмитриевич": 234,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 23
+      "gas:candidate-vibid:493402187220": 7,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 13,
+      "gas:candidate-vibid:493402186056": 37,
+      "gas:candidate-vibid:493402186610": 234,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 51,
-      "Азардович Анатолий Анатольевич": 12,
-      "Грицак Елена Валерьевна": 19,
-      "Климчук Олег Алексеевич": 58,
-      "Козенко Андрей Дмитриевич": 851,
-      "Салихова Резеда Радиковна": 12,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 33
+      "gas:candidate-vibid:493402187220": 51,
+      "gas:candidate-vibid:493402186725": 12,
+      "gas:candidate-vibid:493402186702": 19,
+      "gas:candidate-vibid:493402186056": 58,
+      "gas:candidate-vibid:493402186610": 851,
+      "gas:candidate-vibid:493402187268": 12,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 6,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 8,
-      "Климчук Олег Алексеевич": 10,
-      "Козенко Андрей Дмитриевич": 279,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 6,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 8,
+      "gas:candidate-vibid:493402186056": 10,
+      "gas:candidate-vibid:493402186610": 279,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 9,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 16,
-      "Климчук Олег Алексеевич": 45,
-      "Козенко Андрей Дмитриевич": 373,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 13,
-      "Чернышев Александр Иванович": 30
+      "gas:candidate-vibid:493402187220": 9,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 16,
+      "gas:candidate-vibid:493402186056": 45,
+      "gas:candidate-vibid:493402186610": 373,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 13,
+      "gas:candidate-vibid:493402186390": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 0,
-      "Климчук Олег Алексеевич": 0,
-      "Козенко Андрей Дмитриевич": 161,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 0
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 0,
+      "gas:candidate-vibid:493402186056": 0,
+      "gas:candidate-vibid:493402186610": 161,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 25,
-      "Климчук Олег Алексеевич": 80,
-      "Козенко Андрей Дмитриевич": 288,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 25
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 25,
+      "gas:candidate-vibid:493402186056": 80,
+      "gas:candidate-vibid:493402186610": 288,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 23,
-      "Азардович Анатолий Анатольевич": 8,
-      "Грицак Елена Валерьевна": 30,
-      "Климчук Олег Алексеевич": 56,
-      "Козенко Андрей Дмитриевич": 559,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 24
+      "gas:candidate-vibid:493402187220": 23,
+      "gas:candidate-vibid:493402186725": 8,
+      "gas:candidate-vibid:493402186702": 30,
+      "gas:candidate-vibid:493402186056": 56,
+      "gas:candidate-vibid:493402186610": 559,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 49,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 10,
-      "Климчук Олег Алексеевич": 5,
-      "Козенко Андрей Дмитриевич": 63,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 0
+      "gas:candidate-vibid:493402187220": 49,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 10,
+      "gas:candidate-vibid:493402186056": 5,
+      "gas:candidate-vibid:493402186610": 63,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 37,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 25,
-      "Климчук Олег Алексеевич": 56,
-      "Козенко Андрей Дмитриевич": 566,
-      "Салихова Резеда Радиковна": 11,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 32
+      "gas:candidate-vibid:493402187220": 37,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 25,
+      "gas:candidate-vibid:493402186056": 56,
+      "gas:candidate-vibid:493402186610": 566,
+      "gas:candidate-vibid:493402187268": 11,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 18,
-      "Грицак Елена Валерьевна": 51,
-      "Климчук Олег Алексеевич": 47,
-      "Козенко Андрей Дмитриевич": 302,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 11
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 18,
+      "gas:candidate-vibid:493402186702": 51,
+      "gas:candidate-vibid:493402186056": 47,
+      "gas:candidate-vibid:493402186610": 302,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 27,
-      "Азардович Анатолий Анатольевич": 18,
-      "Грицак Елена Валерьевна": 28,
-      "Климчук Олег Алексеевич": 165,
-      "Козенко Андрей Дмитриевич": 605,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 26
+      "gas:candidate-vibid:493402187220": 27,
+      "gas:candidate-vibid:493402186725": 18,
+      "gas:candidate-vibid:493402186702": 28,
+      "gas:candidate-vibid:493402186056": 165,
+      "gas:candidate-vibid:493402186610": 605,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 17,
-      "Азардович Анатолий Анатольевич": 18,
-      "Грицак Елена Валерьевна": 62,
-      "Климчук Олег Алексеевич": 139,
-      "Козенко Андрей Дмитриевич": 793,
-      "Салихова Резеда Радиковна": 12,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 15,
-      "Чернышев Александр Иванович": 55
+      "gas:candidate-vibid:493402187220": 17,
+      "gas:candidate-vibid:493402186725": 18,
+      "gas:candidate-vibid:493402186702": 62,
+      "gas:candidate-vibid:493402186056": 139,
+      "gas:candidate-vibid:493402186610": 793,
+      "gas:candidate-vibid:493402187268": 12,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 15,
+      "gas:candidate-vibid:493402186390": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 48,
-      "Азардович Анатолий Анатольевич": 18,
-      "Грицак Елена Валерьевна": 66,
-      "Климчук Олег Алексеевич": 110,
-      "Козенко Андрей Дмитриевич": 433,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 10,
-      "Ханин Николай Александрович": 12,
-      "Чернышев Александр Иванович": 43
+      "gas:candidate-vibid:493402187220": 48,
+      "gas:candidate-vibid:493402186725": 18,
+      "gas:candidate-vibid:493402186702": 66,
+      "gas:candidate-vibid:493402186056": 110,
+      "gas:candidate-vibid:493402186610": 433,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 10,
+      "gas:candidate-vibid:493402187159": 12,
+      "gas:candidate-vibid:493402186390": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 32,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 17,
-      "Климчук Олег Алексеевич": 31,
-      "Козенко Андрей Дмитриевич": 581,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 18
+      "gas:candidate-vibid:493402187220": 32,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 17,
+      "gas:candidate-vibid:493402186056": 31,
+      "gas:candidate-vibid:493402186610": 581,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 21,
-      "Климчук Олег Алексеевич": 56,
-      "Козенко Андрей Дмитриевич": 568,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 7,
-      "Чернышев Александр Иванович": 21
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 21,
+      "gas:candidate-vibid:493402186056": 56,
+      "gas:candidate-vibid:493402186610": 568,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 7,
+      "gas:candidate-vibid:493402186390": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 20,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 21,
-      "Климчук Олег Алексеевич": 46,
-      "Козенко Андрей Дмитриевич": 460,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 7,
-      "Чернышев Александр Иванович": 46
+      "gas:candidate-vibid:493402187220": 20,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 21,
+      "gas:candidate-vibid:493402186056": 46,
+      "gas:candidate-vibid:493402186610": 460,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 7,
+      "gas:candidate-vibid:493402186390": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 20,
-      "Азардович Анатолий Анатольевич": 14,
-      "Грицак Елена Валерьевна": 25,
-      "Климчук Олег Алексеевич": 85,
-      "Козенко Андрей Дмитриевич": 462,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 11,
-      "Чернышев Александр Иванович": 38
+      "gas:candidate-vibid:493402187220": 20,
+      "gas:candidate-vibid:493402186725": 14,
+      "gas:candidate-vibid:493402186702": 25,
+      "gas:candidate-vibid:493402186056": 85,
+      "gas:candidate-vibid:493402186610": 462,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 11,
+      "gas:candidate-vibid:493402186390": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 30,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 24,
-      "Климчук Олег Алексеевич": 65,
-      "Козенко Андрей Дмитриевич": 662,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 42
+      "gas:candidate-vibid:493402187220": 30,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 24,
+      "gas:candidate-vibid:493402186056": 65,
+      "gas:candidate-vibid:493402186610": 662,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 20,
-      "Азардович Анатолий Анатольевич": 16,
-      "Грицак Елена Валерьевна": 25,
-      "Климчук Олег Алексеевич": 86,
-      "Козенко Андрей Дмитриевич": 779,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 58
+      "gas:candidate-vibid:493402187220": 20,
+      "gas:candidate-vibid:493402186725": 16,
+      "gas:candidate-vibid:493402186702": 25,
+      "gas:candidate-vibid:493402186056": 86,
+      "gas:candidate-vibid:493402186610": 779,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 13,
-      "Грицак Елена Валерьевна": 23,
-      "Климчук Олег Алексеевич": 91,
-      "Козенко Андрей Дмитриевич": 635,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 11,
-      "Чернышев Александр Иванович": 57
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 13,
+      "gas:candidate-vibid:493402186702": 23,
+      "gas:candidate-vibid:493402186056": 91,
+      "gas:candidate-vibid:493402186610": 635,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 11,
+      "gas:candidate-vibid:493402186390": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 33,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 4,
-      "Климчук Олег Алексеевич": 38,
-      "Козенко Андрей Дмитриевич": 255,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 20
+      "gas:candidate-vibid:493402187220": 33,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 4,
+      "gas:candidate-vibid:493402186056": 38,
+      "gas:candidate-vibid:493402186610": 255,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 28,
-      "Азардович Анатолий Анатольевич": 16,
-      "Грицак Елена Валерьевна": 82,
-      "Климчук Олег Алексеевич": 93,
-      "Козенко Андрей Дмитриевич": 873,
-      "Салихова Резеда Радиковна": 16,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 18,
-      "Чернышев Александр Иванович": 60
+      "gas:candidate-vibid:493402187220": 28,
+      "gas:candidate-vibid:493402186725": 16,
+      "gas:candidate-vibid:493402186702": 82,
+      "gas:candidate-vibid:493402186056": 93,
+      "gas:candidate-vibid:493402186610": 873,
+      "gas:candidate-vibid:493402187268": 16,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 18,
+      "gas:candidate-vibid:493402186390": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 58,
-      "Азардович Анатолий Анатольевич": 21,
-      "Грицак Елена Валерьевна": 74,
-      "Климчук Олег Алексеевич": 57,
-      "Козенко Андрей Дмитриевич": 729,
-      "Салихова Резеда Радиковна": 12,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 34
+      "gas:candidate-vibid:493402187220": 58,
+      "gas:candidate-vibid:493402186725": 21,
+      "gas:candidate-vibid:493402186702": 74,
+      "gas:candidate-vibid:493402186056": 57,
+      "gas:candidate-vibid:493402186610": 729,
+      "gas:candidate-vibid:493402187268": 12,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 51,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 5,
-      "Климчук Олег Алексеевич": 13,
-      "Козенко Андрей Дмитриевич": 256,
-      "Салихова Резеда Радиковна": 10,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 51,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 5,
+      "gas:candidate-vibid:493402186056": 13,
+      "gas:candidate-vibid:493402186610": 256,
+      "gas:candidate-vibid:493402187268": 10,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 14,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 22,
-      "Климчук Олег Алексеевич": 28,
-      "Козенко Андрей Дмитриевич": 261,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 18
+      "gas:candidate-vibid:493402187220": 14,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 22,
+      "gas:candidate-vibid:493402186056": 28,
+      "gas:candidate-vibid:493402186610": 261,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 0,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 2,
-      "Климчук Олег Алексеевич": 10,
-      "Козенко Андрей Дмитриевич": 28,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 1
+      "gas:candidate-vibid:493402187220": 0,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 2,
+      "gas:candidate-vibid:493402186056": 10,
+      "gas:candidate-vibid:493402186610": 28,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185013&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185013&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 42,
-      "Климчук Олег Алексеевич": 62,
-      "Козенко Андрей Дмитриевич": 396,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 44
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 42,
+      "gas:candidate-vibid:493402186056": 62,
+      "gas:candidate-vibid:493402186610": 396,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 21,
-      "Климчук Олег Алексеевич": 45,
-      "Козенко Андрей Дмитриевич": 407,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 49
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 21,
+      "gas:candidate-vibid:493402186056": 45,
+      "gas:candidate-vibid:493402186610": 407,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 56,
-      "Климчук Олег Алексеевич": 58,
-      "Козенко Андрей Дмитриевич": 397,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 10,
-      "Чернышев Александр Иванович": 42
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 56,
+      "gas:candidate-vibid:493402186056": 58,
+      "gas:candidate-vibid:493402186610": 397,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 10,
+      "gas:candidate-vibid:493402186390": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 35,
-      "Климчук Олег Алексеевич": 41,
-      "Козенко Андрей Дмитриевич": 395,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 9,
-      "Чернышев Александр Иванович": 51
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 35,
+      "gas:candidate-vibid:493402186056": 41,
+      "gas:candidate-vibid:493402186610": 395,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 9,
+      "gas:candidate-vibid:493402186390": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 18,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 44,
-      "Климчук Олег Алексеевич": 58,
-      "Козенко Андрей Дмитриевич": 389,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 35
+      "gas:candidate-vibid:493402187220": 18,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 44,
+      "gas:candidate-vibid:493402186056": 58,
+      "gas:candidate-vibid:493402186610": 389,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 8,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 40,
-      "Климчук Олег Алексеевич": 64,
-      "Козенко Андрей Дмитриевич": 486,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 31
+      "gas:candidate-vibid:493402187220": 8,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 40,
+      "gas:candidate-vibid:493402186056": 64,
+      "gas:candidate-vibid:493402186610": 486,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 35,
-      "Климчук Олег Алексеевич": 37,
-      "Козенко Андрей Дмитриевич": 328,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 31
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 35,
+      "gas:candidate-vibid:493402186056": 37,
+      "gas:candidate-vibid:493402186610": 328,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 29,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 27,
-      "Климчук Олег Алексеевич": 29,
-      "Козенко Андрей Дмитриевич": 262,
-      "Салихова Резеда Радиковна": 15,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 12
+      "gas:candidate-vibid:493402187220": 29,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 27,
+      "gas:candidate-vibid:493402186056": 29,
+      "gas:candidate-vibid:493402186610": 262,
+      "gas:candidate-vibid:493402187268": 15,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 52,
-      "Климчук Олег Алексеевич": 70,
-      "Козенко Андрей Дмитриевич": 390,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 54
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 52,
+      "gas:candidate-vibid:493402186056": 70,
+      "gas:candidate-vibid:493402186610": 390,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 24,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 9,
-      "Климчук Олег Алексеевич": 3,
-      "Козенко Андрей Дмитриевич": 79,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 24,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 9,
+      "gas:candidate-vibid:493402186056": 3,
+      "gas:candidate-vibid:493402186610": 79,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 35,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 92,
-      "Климчук Олег Алексеевич": 35,
-      "Козенко Андрей Дмитриевич": 592,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 19
+      "gas:candidate-vibid:493402187220": 35,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 92,
+      "gas:candidate-vibid:493402186056": 35,
+      "gas:candidate-vibid:493402186610": 592,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 31,
-      "Климчук Олег Алексеевич": 16,
-      "Козенко Андрей Дмитриевич": 218,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 9
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 31,
+      "gas:candidate-vibid:493402186056": 16,
+      "gas:candidate-vibid:493402186610": 218,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 6,
-      "Климчук Олег Алексеевич": 9,
-      "Козенко Андрей Дмитриевич": 121,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 17
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 6,
+      "gas:candidate-vibid:493402186056": 9,
+      "gas:candidate-vibid:493402186610": 121,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 21,
-      "Климчук Олег Алексеевич": 12,
-      "Козенко Андрей Дмитриевич": 168,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 13
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 21,
+      "gas:candidate-vibid:493402186056": 12,
+      "gas:candidate-vibid:493402186610": 168,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 0,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 7,
-      "Климчук Олег Алексеевич": 10,
-      "Козенко Андрей Дмитриевич": 98,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 2
+      "gas:candidate-vibid:493402187220": 0,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 7,
+      "gas:candidate-vibid:493402186056": 10,
+      "gas:candidate-vibid:493402186610": 98,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 103,
-      "Климчук Олег Алексеевич": 22,
-      "Козенко Андрей Дмитриевич": 415,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 23
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 103,
+      "gas:candidate-vibid:493402186056": 22,
+      "gas:candidate-vibid:493402186610": 415,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 3,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 51,
-      "Климчук Олег Алексеевич": 4,
-      "Козенко Андрей Дмитриевич": 107,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 8
+      "gas:candidate-vibid:493402187220": 3,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 51,
+      "gas:candidate-vibid:493402186056": 4,
+      "gas:candidate-vibid:493402186610": 107,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 23,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 19,
-      "Климчук Олег Алексеевич": 8,
-      "Козенко Андрей Дмитриевич": 265,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 14
+      "gas:candidate-vibid:493402187220": 23,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 19,
+      "gas:candidate-vibid:493402186056": 8,
+      "gas:candidate-vibid:493402186610": 265,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 24,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 11,
-      "Климчук Олег Алексеевич": 4,
-      "Козенко Андрей Дмитриевич": 86,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 5
+      "gas:candidate-vibid:493402187220": 24,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 11,
+      "gas:candidate-vibid:493402186056": 4,
+      "gas:candidate-vibid:493402186610": 86,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 43,
-      "Климчук Олег Алексеевич": 28,
-      "Козенко Андрей Дмитриевич": 319,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 19
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 43,
+      "gas:candidate-vibid:493402186056": 28,
+      "gas:candidate-vibid:493402186610": 319,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 17,
-      "Климчук Олег Алексеевич": 1,
-      "Козенко Андрей Дмитриевич": 76,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 17,
+      "gas:candidate-vibid:493402186056": 1,
+      "gas:candidate-vibid:493402186610": 76,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 35,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 73,
-      "Климчук Олег Алексеевич": 39,
-      "Козенко Андрей Дмитриевич": 465,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 22
+      "gas:candidate-vibid:493402187220": 35,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 73,
+      "gas:candidate-vibid:493402186056": 39,
+      "gas:candidate-vibid:493402186610": 465,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 17,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 43,
-      "Климчук Олег Алексеевич": 20,
-      "Козенко Андрей Дмитриевич": 220,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 7
+      "gas:candidate-vibid:493402187220": 17,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 43,
+      "gas:candidate-vibid:493402186056": 20,
+      "gas:candidate-vibid:493402186610": 220,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 11,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 36,
-      "Климчук Олег Алексеевич": 31,
-      "Козенко Андрей Дмитриевич": 251,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 13
+      "gas:candidate-vibid:493402187220": 11,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 36,
+      "gas:candidate-vibid:493402186056": 31,
+      "gas:candidate-vibid:493402186610": 251,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 3,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 18,
-      "Климчук Олег Алексеевич": 7,
-      "Козенко Андрей Дмитриевич": 56,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 4
+      "gas:candidate-vibid:493402187220": 3,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 18,
+      "gas:candidate-vibid:493402186056": 7,
+      "gas:candidate-vibid:493402186610": 56,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 32,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 99,
-      "Климчук Олег Алексеевич": 40,
-      "Козенко Андрей Дмитриевич": 555,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 33
+      "gas:candidate-vibid:493402187220": 32,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 99,
+      "gas:candidate-vibid:493402186056": 40,
+      "gas:candidate-vibid:493402186610": 555,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 15,
-      "Климчук Олег Алексеевич": 13,
-      "Козенко Андрей Дмитриевич": 166,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 12
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 15,
+      "gas:candidate-vibid:493402186056": 13,
+      "gas:candidate-vibid:493402186610": 166,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 49,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 23,
-      "Климчук Олег Алексеевич": 40,
-      "Козенко Андрей Дмитриевич": 508,
-      "Салихова Резеда Радиковна": 14,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 52
+      "gas:candidate-vibid:493402187220": 49,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 23,
+      "gas:candidate-vibid:493402186056": 40,
+      "gas:candidate-vibid:493402186610": 508,
+      "gas:candidate-vibid:493402187268": 14,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 5,
-      "Климчук Олег Алексеевич": 8,
-      "Козенко Андрей Дмитриевич": 110,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 5,
+      "gas:candidate-vibid:493402186056": 8,
+      "gas:candidate-vibid:493402186610": 110,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 33,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 50,
-      "Климчук Олег Алексеевич": 40,
-      "Козенко Андрей Дмитриевич": 371,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 16
+      "gas:candidate-vibid:493402187220": 33,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 50,
+      "gas:candidate-vibid:493402186056": 40,
+      "gas:candidate-vibid:493402186610": 371,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 1,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 4,
-      "Климчук Олег Алексеевич": 9,
-      "Козенко Андрей Дмитриевич": 87,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 1
+      "gas:candidate-vibid:493402187220": 1,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 4,
+      "gas:candidate-vibid:493402186056": 9,
+      "gas:candidate-vibid:493402186610": 87,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 1,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 28,
-      "Климчук Олег Алексеевич": 8,
-      "Козенко Андрей Дмитриевич": 144,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 10
+      "gas:candidate-vibid:493402187220": 1,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 28,
+      "gas:candidate-vibid:493402186056": 8,
+      "gas:candidate-vibid:493402186610": 144,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 2,
-      "Климчук Олег Алексеевич": 8,
-      "Козенко Андрей Дмитриевич": 67,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 0
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 2,
+      "gas:candidate-vibid:493402186056": 8,
+      "gas:candidate-vibid:493402186610": 67,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 8,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 2,
-      "Климчук Олег Алексеевич": 0,
-      "Козенко Андрей Дмитриевич": 74,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 2
+      "gas:candidate-vibid:493402187220": 8,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 2,
+      "gas:candidate-vibid:493402186056": 0,
+      "gas:candidate-vibid:493402186610": 74,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 23,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 22,
-      "Климчук Олег Алексеевич": 24,
-      "Козенко Андрей Дмитриевич": 329,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 9
+      "gas:candidate-vibid:493402187220": 23,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 22,
+      "gas:candidate-vibid:493402186056": 24,
+      "gas:candidate-vibid:493402186610": 329,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 32,
-      "Климчук Олег Алексеевич": 43,
-      "Козенко Андрей Дмитриевич": 322,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 47
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 32,
+      "gas:candidate-vibid:493402186056": 43,
+      "gas:candidate-vibid:493402186610": 322,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 22,
-      "Климчук Олег Алексеевич": 6,
-      "Козенко Андрей Дмитриевич": 175,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 9
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 22,
+      "gas:candidate-vibid:493402186056": 6,
+      "gas:candidate-vibid:493402186610": 175,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 2,
-      "Климчук Олег Алексеевич": 10,
-      "Козенко Андрей Дмитриевич": 77,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 2,
+      "gas:candidate-vibid:493402186056": 10,
+      "gas:candidate-vibid:493402186610": 77,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 3,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 2,
-      "Климчук Олег Алексеевич": 3,
-      "Козенко Андрей Дмитриевич": 109,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 1
+      "gas:candidate-vibid:493402187220": 3,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 2,
+      "gas:candidate-vibid:493402186056": 3,
+      "gas:candidate-vibid:493402186610": 109,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 3,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 17,
-      "Климчук Олег Алексеевич": 13,
-      "Козенко Андрей Дмитриевич": 50,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 7
+      "gas:candidate-vibid:493402187220": 3,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 17,
+      "gas:candidate-vibid:493402186056": 13,
+      "gas:candidate-vibid:493402186610": 50,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 8,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 62,
-      "Климчук Олег Алексеевич": 22,
-      "Козенко Андрей Дмитриевич": 322,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 10
+      "gas:candidate-vibid:493402187220": 8,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 62,
+      "gas:candidate-vibid:493402186056": 22,
+      "gas:candidate-vibid:493402186610": 322,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 2,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 10,
-      "Климчук Олег Алексеевич": 5,
-      "Козенко Андрей Дмитриевич": 75,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 5
+      "gas:candidate-vibid:493402187220": 2,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 10,
+      "gas:candidate-vibid:493402186056": 5,
+      "gas:candidate-vibid:493402186610": 75,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 25,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 11,
-      "Климчук Олег Алексеевич": 11,
-      "Козенко Андрей Дмитриевич": 333,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 22
+      "gas:candidate-vibid:493402187220": 25,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 11,
+      "gas:candidate-vibid:493402186056": 11,
+      "gas:candidate-vibid:493402186610": 333,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 5,
-      "Климчук Олег Алексеевич": 8,
-      "Козенко Андрей Дмитриевич": 114,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 5,
+      "gas:candidate-vibid:493402186056": 8,
+      "gas:candidate-vibid:493402186610": 114,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 14,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 52,
-      "Климчук Олег Алексеевич": 89,
-      "Козенко Андрей Дмитриевич": 556,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 30
+      "gas:candidate-vibid:493402187220": 14,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 52,
+      "gas:candidate-vibid:493402186056": 89,
+      "gas:candidate-vibid:493402186610": 556,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 9,
-      "Климчук Олег Алексеевич": 12,
-      "Козенко Андрей Дмитриевич": 176,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 5
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 9,
+      "gas:candidate-vibid:493402186056": 12,
+      "gas:candidate-vibid:493402186610": 176,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 14,
-      "Климчук Олег Алексеевич": 11,
-      "Козенко Андрей Дмитриевич": 136,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 4
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 14,
+      "gas:candidate-vibid:493402186056": 11,
+      "gas:candidate-vibid:493402186610": 136,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 44,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 33,
-      "Климчук Олег Алексеевич": 62,
-      "Козенко Андрей Дмитриевич": 573,
-      "Салихова Резеда Радиковна": 15,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 20
+      "gas:candidate-vibid:493402187220": 44,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 33,
+      "gas:candidate-vibid:493402186056": 62,
+      "gas:candidate-vibid:493402186610": 573,
+      "gas:candidate-vibid:493402187268": 15,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 17,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 19,
-      "Климчук Олег Алексеевич": 45,
-      "Козенко Андрей Дмитриевич": 292,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 14
+      "gas:candidate-vibid:493402187220": 17,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 19,
+      "gas:candidate-vibid:493402186056": 45,
+      "gas:candidate-vibid:493402186610": 292,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 14,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 25,
-      "Климчук Олег Алексеевич": 87,
-      "Козенко Андрей Дмитриевич": 456,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 41
+      "gas:candidate-vibid:493402187220": 14,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 25,
+      "gas:candidate-vibid:493402186056": 87,
+      "gas:candidate-vibid:493402186610": 456,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 7,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 19,
-      "Климчук Олег Алексеевич": 77,
-      "Козенко Андрей Дмитриевич": 417,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 20
+      "gas:candidate-vibid:493402187220": 7,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 19,
+      "gas:candidate-vibid:493402186056": 77,
+      "gas:candidate-vibid:493402186610": 417,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 8,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 9,
-      "Климчук Олег Алексеевич": 53,
-      "Козенко Андрей Дмитриевич": 257,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 19
+      "gas:candidate-vibid:493402187220": 8,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 9,
+      "gas:candidate-vibid:493402186056": 53,
+      "gas:candidate-vibid:493402186610": 257,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 40,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 20,
-      "Климчук Олег Алексеевич": 33,
-      "Козенко Андрей Дмитриевич": 244,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 9
+      "gas:candidate-vibid:493402187220": 40,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 20,
+      "gas:candidate-vibid:493402186056": 33,
+      "gas:candidate-vibid:493402186610": 244,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 25,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 32,
-      "Климчук Олег Алексеевич": 11,
-      "Козенко Андрей Дмитриевич": 164,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 15
+      "gas:candidate-vibid:493402187220": 25,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 32,
+      "gas:candidate-vibid:493402186056": 11,
+      "gas:candidate-vibid:493402186610": 164,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 2,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 3,
-      "Климчук Олег Алексеевич": 4,
-      "Козенко Андрей Дмитриевич": 61,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 2
+      "gas:candidate-vibid:493402187220": 2,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 3,
+      "gas:candidate-vibid:493402186056": 4,
+      "gas:candidate-vibid:493402186610": 61,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 22,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 18,
-      "Климчук Олег Алексеевич": 12,
-      "Козенко Андрей Дмитриевич": 259,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 14
+      "gas:candidate-vibid:493402187220": 22,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 18,
+      "gas:candidate-vibid:493402186056": 12,
+      "gas:candidate-vibid:493402186610": 259,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 8,
-      "Климчук Олег Алексеевич": 5,
-      "Козенко Андрей Дмитриевич": 84,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 2
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 8,
+      "gas:candidate-vibid:493402186056": 5,
+      "gas:candidate-vibid:493402186610": 84,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 6,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 12,
-      "Климчук Олег Алексеевич": 1,
-      "Козенко Андрей Дмитриевич": 70,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 2
+      "gas:candidate-vibid:493402187220": 6,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 12,
+      "gas:candidate-vibid:493402186056": 1,
+      "gas:candidate-vibid:493402186610": 70,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 5,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 18,
-      "Климчук Олег Алексеевич": 8,
-      "Козенко Андрей Дмитриевич": 198,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 8
+      "gas:candidate-vibid:493402187220": 5,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 18,
+      "gas:candidate-vibid:493402186056": 8,
+      "gas:candidate-vibid:493402186610": 198,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 4,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 1,
-      "Климчук Олег Алексеевич": 0,
-      "Козенко Андрей Дмитриевич": 38,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 0
+      "gas:candidate-vibid:493402187220": 4,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 1,
+      "gas:candidate-vibid:493402186056": 0,
+      "gas:candidate-vibid:493402186610": 38,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185014&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185014&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 2,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 10,
-      "Климчук Олег Алексеевич": 15,
-      "Козенко Андрей Дмитриевич": 48,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 4
+      "gas:candidate-vibid:493402187220": 2,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 10,
+      "gas:candidate-vibid:493402186056": 15,
+      "gas:candidate-vibid:493402186610": 48,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 8,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 32,
-      "Климчук Олег Алексеевич": 54,
-      "Козенко Андрей Дмитриевич": 294,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 36
+      "gas:candidate-vibid:493402187220": 8,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 32,
+      "gas:candidate-vibid:493402186056": 54,
+      "gas:candidate-vibid:493402186610": 294,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 19,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 25,
-      "Климчук Олег Алексеевич": 77,
-      "Козенко Андрей Дмитриевич": 281,
-      "Салихова Резеда Радиковна": 12,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 46
+      "gas:candidate-vibid:493402187220": 19,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 25,
+      "gas:candidate-vibid:493402186056": 77,
+      "gas:candidate-vibid:493402186610": 281,
+      "gas:candidate-vibid:493402187268": 12,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 17,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 38,
-      "Климчук Олег Алексеевич": 46,
-      "Козенко Андрей Дмитриевич": 281,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 42
+      "gas:candidate-vibid:493402187220": 17,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 38,
+      "gas:candidate-vibid:493402186056": 46,
+      "gas:candidate-vibid:493402186610": 281,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 29,
-      "Азардович Анатолий Анатольевич": 12,
-      "Грицак Елена Валерьевна": 56,
-      "Климчук Олег Алексеевич": 116,
-      "Козенко Андрей Дмитриевич": 364,
-      "Салихова Резеда Радиковна": 18,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 17,
-      "Чернышев Александр Иванович": 51
+      "gas:candidate-vibid:493402187220": 29,
+      "gas:candidate-vibid:493402186725": 12,
+      "gas:candidate-vibid:493402186702": 56,
+      "gas:candidate-vibid:493402186056": 116,
+      "gas:candidate-vibid:493402186610": 364,
+      "gas:candidate-vibid:493402187268": 18,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 17,
+      "gas:candidate-vibid:493402186390": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 39,
-      "Азардович Анатолий Анатольевич": 0,
-      "Грицак Елена Валерьевна": 4,
-      "Климчук Олег Алексеевич": 9,
-      "Козенко Андрей Дмитриевич": 62,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 5
+      "gas:candidate-vibid:493402187220": 39,
+      "gas:candidate-vibid:493402186725": 0,
+      "gas:candidate-vibid:493402186702": 4,
+      "gas:candidate-vibid:493402186056": 9,
+      "gas:candidate-vibid:493402186610": 62,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 9,
-      "Азардович Анатолий Анатольевич": 8,
-      "Грицак Елена Валерьевна": 35,
-      "Климчук Олег Алексеевич": 96,
-      "Козенко Андрей Дмитриевич": 370,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 64
+      "gas:candidate-vibid:493402187220": 9,
+      "gas:candidate-vibid:493402186725": 8,
+      "gas:candidate-vibid:493402186702": 35,
+      "gas:candidate-vibid:493402186056": 96,
+      "gas:candidate-vibid:493402186610": 370,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 32,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 74,
-      "Климчук Олег Алексеевич": 84,
-      "Козенко Андрей Дмитриевич": 451,
-      "Салихова Резеда Радиковна": 14,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 14,
-      "Чернышев Александр Иванович": 67
+      "gas:candidate-vibid:493402187220": 32,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 74,
+      "gas:candidate-vibid:493402186056": 84,
+      "gas:candidate-vibid:493402186610": 451,
+      "gas:candidate-vibid:493402187268": 14,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 14,
+      "gas:candidate-vibid:493402186390": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 32,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 39,
-      "Климчук Олег Алексеевич": 53,
-      "Козенко Андрей Дмитриевич": 220,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 11,
-      "Чернышев Александр Иванович": 44
+      "gas:candidate-vibid:493402187220": 32,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 39,
+      "gas:candidate-vibid:493402186056": 53,
+      "gas:candidate-vibid:493402186610": 220,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 11,
+      "gas:candidate-vibid:493402186390": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 50,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 15,
-      "Климчук Олег Алексеевич": 14,
-      "Козенко Андрей Дмитриевич": 106,
-      "Салихова Резеда Радиковна": 16,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 8
+      "gas:candidate-vibid:493402187220": 50,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 15,
+      "gas:candidate-vibid:493402186056": 14,
+      "gas:candidate-vibid:493402186610": 106,
+      "gas:candidate-vibid:493402187268": 16,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 27,
-      "Климчук Олег Алексеевич": 53,
-      "Козенко Андрей Дмитриевич": 238,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 7,
-      "Чернышев Александр Иванович": 27
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 27,
+      "gas:candidate-vibid:493402186056": 53,
+      "gas:candidate-vibid:493402186610": 238,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 7,
+      "gas:candidate-vibid:493402186390": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 27,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 56,
-      "Климчук Олег Алексеевич": 96,
-      "Козенко Андрей Дмитриевич": 441,
-      "Салихова Резеда Радиковна": 10,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 17,
-      "Чернышев Александр Иванович": 51
+      "gas:candidate-vibid:493402187220": 27,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 56,
+      "gas:candidate-vibid:493402186056": 96,
+      "gas:candidate-vibid:493402186610": 441,
+      "gas:candidate-vibid:493402187268": 10,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 17,
+      "gas:candidate-vibid:493402186390": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 40,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 24,
-      "Климчук Олег Алексеевич": 62,
-      "Козенко Андрей Дмитриевич": 280,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 25
+      "gas:candidate-vibid:493402187220": 40,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 24,
+      "gas:candidate-vibid:493402186056": 62,
+      "gas:candidate-vibid:493402186610": 280,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 18,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 60,
-      "Климчук Олег Алексеевич": 120,
-      "Козенко Андрей Дмитриевич": 607,
-      "Салихова Резеда Радиковна": 12,
-      "Талипов Александр Валериевич": 14,
-      "Ханин Николай Александрович": 17,
-      "Чернышев Александр Иванович": 55
+      "gas:candidate-vibid:493402187220": 18,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 60,
+      "gas:candidate-vibid:493402186056": 120,
+      "gas:candidate-vibid:493402186610": 607,
+      "gas:candidate-vibid:493402187268": 12,
+      "gas:candidate-vibid:493402187486": 14,
+      "gas:candidate-vibid:493402187159": 17,
+      "gas:candidate-vibid:493402186390": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 11,
-      "Азардович Анатолий Анатольевич": 14,
-      "Грицак Елена Валерьевна": 52,
-      "Климчук Олег Алексеевич": 122,
-      "Козенко Андрей Дмитриевич": 576,
-      "Салихова Резеда Радиковна": 13,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 9,
-      "Чернышев Александр Иванович": 56
+      "gas:candidate-vibid:493402187220": 11,
+      "gas:candidate-vibid:493402186725": 14,
+      "gas:candidate-vibid:493402186702": 52,
+      "gas:candidate-vibid:493402186056": 122,
+      "gas:candidate-vibid:493402186610": 576,
+      "gas:candidate-vibid:493402187268": 13,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 9,
+      "gas:candidate-vibid:493402186390": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 10,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 29,
-      "Климчук Олег Алексеевич": 72,
-      "Козенко Андрей Дмитриевич": 452,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 9,
-      "Ханин Николай Александрович": 9,
-      "Чернышев Александр Иванович": 36
+      "gas:candidate-vibid:493402187220": 10,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 29,
+      "gas:candidate-vibid:493402186056": 72,
+      "gas:candidate-vibid:493402186610": 452,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 9,
+      "gas:candidate-vibid:493402187159": 9,
+      "gas:candidate-vibid:493402186390": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 22,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 49,
-      "Климчук Олег Алексеевич": 91,
-      "Козенко Андрей Дмитриевич": 557,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 15,
-      "Чернышев Александр Иванович": 38
+      "gas:candidate-vibid:493402187220": 22,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 49,
+      "gas:candidate-vibid:493402186056": 91,
+      "gas:candidate-vibid:493402186610": 557,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 15,
+      "gas:candidate-vibid:493402186390": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 2,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 57,
-      "Климчук Олег Алексеевич": 19,
-      "Козенко Андрей Дмитриевич": 269,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 14
+      "gas:candidate-vibid:493402187220": 2,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 57,
+      "gas:candidate-vibid:493402186056": 19,
+      "gas:candidate-vibid:493402186610": 269,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 11,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 28,
-      "Климчук Олег Алексеевич": 34,
-      "Козенко Андрей Дмитриевич": 321,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 17
+      "gas:candidate-vibid:493402187220": 11,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 28,
+      "gas:candidate-vibid:493402186056": 34,
+      "gas:candidate-vibid:493402186610": 321,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 41,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 24,
-      "Климчук Олег Алексеевич": 26,
-      "Козенко Андрей Дмитриевич": 115,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 10
+      "gas:candidate-vibid:493402187220": 41,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 24,
+      "gas:candidate-vibid:493402186056": 26,
+      "gas:candidate-vibid:493402186610": 115,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 7,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 24,
-      "Климчук Олег Алексеевич": 13,
-      "Козенко Андрей Дмитриевич": 121,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 4,
-      "Чернышев Александр Иванович": 11
+      "gas:candidate-vibid:493402187220": 7,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 24,
+      "gas:candidate-vibid:493402186056": 13,
+      "gas:candidate-vibid:493402186610": 121,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 4,
+      "gas:candidate-vibid:493402186390": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 9,
-      "Азардович Анатолий Анатольевич": 2,
-      "Грицак Елена Валерьевна": 28,
-      "Климчук Олег Алексеевич": 13,
-      "Козенко Андрей Дмитриевич": 109,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 13
+      "gas:candidate-vibid:493402187220": 9,
+      "gas:candidate-vibid:493402186725": 2,
+      "gas:candidate-vibid:493402186702": 28,
+      "gas:candidate-vibid:493402186056": 13,
+      "gas:candidate-vibid:493402186610": 109,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 47,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 91,
-      "Климчук Олег Алексеевич": 79,
-      "Козенко Андрей Дмитриевич": 593,
-      "Салихова Резеда Радиковна": 14,
-      "Талипов Александр Валериевич": 6,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 50
+      "gas:candidate-vibid:493402187220": 47,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 91,
+      "gas:candidate-vibid:493402186056": 79,
+      "gas:candidate-vibid:493402186610": 593,
+      "gas:candidate-vibid:493402187268": 14,
+      "gas:candidate-vibid:493402187486": 6,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 27,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 8,
-      "Климчук Олег Алексеевич": 16,
-      "Козенко Андрей Дмитриевич": 158,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 15
+      "gas:candidate-vibid:493402187220": 27,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 8,
+      "gas:candidate-vibid:493402186056": 16,
+      "gas:candidate-vibid:493402186610": 158,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 24,
-      "Климчук Олег Алексеевич": 22,
-      "Козенко Андрей Дмитриевич": 196,
-      "Салихова Резеда Радиковна": 6,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 24,
+      "gas:candidate-vibid:493402186056": 22,
+      "gas:candidate-vibid:493402186610": 196,
+      "gas:candidate-vibid:493402187268": 6,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 9,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 18,
-      "Климчук Олег Алексеевич": 19,
-      "Козенко Андрей Дмитриевич": 186,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 11
+      "gas:candidate-vibid:493402187220": 9,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 18,
+      "gas:candidate-vibid:493402186056": 19,
+      "gas:candidate-vibid:493402186610": 186,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 34,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 40,
-      "Климчук Олег Алексеевич": 112,
-      "Козенко Андрей Дмитриевич": 770,
-      "Салихова Резеда Радиковна": 10,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 13,
-      "Чернышев Александр Иванович": 40
+      "gas:candidate-vibid:493402187220": 34,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 40,
+      "gas:candidate-vibid:493402186056": 112,
+      "gas:candidate-vibid:493402186610": 770,
+      "gas:candidate-vibid:493402187268": 10,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 13,
+      "gas:candidate-vibid:493402186390": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 18,
-      "Азардович Анатолий Анатольевич": 10,
-      "Грицак Елена Валерьевна": 16,
-      "Климчук Олег Алексеевич": 29,
-      "Козенко Андрей Дмитриевич": 304,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 22
+      "gas:candidate-vibid:493402187220": 18,
+      "gas:candidate-vibid:493402186725": 10,
+      "gas:candidate-vibid:493402186702": 16,
+      "gas:candidate-vibid:493402186056": 29,
+      "gas:candidate-vibid:493402186610": 304,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 5,
-      "Азардович Анатолий Анатольевич": 29,
-      "Грицак Елена Валерьевна": 10,
-      "Климчук Олег Алексеевич": 7,
-      "Козенко Андрей Дмитриевич": 92,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 10
+      "gas:candidate-vibid:493402187220": 5,
+      "gas:candidate-vibid:493402186725": 29,
+      "gas:candidate-vibid:493402186702": 10,
+      "gas:candidate-vibid:493402186056": 7,
+      "gas:candidate-vibid:493402186610": 92,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 21,
-      "Климчук Олег Алексеевич": 14,
-      "Козенко Андрей Дмитриевич": 160,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 11
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 21,
+      "gas:candidate-vibid:493402186056": 14,
+      "gas:candidate-vibid:493402186610": 160,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 7,
-      "Климчук Олег Алексеевич": 7,
-      "Козенко Андрей Дмитриевич": 132,
-      "Салихова Резеда Радиковна": 0,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 3,
-      "Чернышев Александр Иванович": 6
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 7,
+      "gas:candidate-vibid:493402186056": 7,
+      "gas:candidate-vibid:493402186610": 132,
+      "gas:candidate-vibid:493402187268": 0,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 3,
+      "gas:candidate-vibid:493402186390": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 18,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 9,
-      "Климчук Олег Алексеевич": 44,
-      "Козенко Андрей Дмитриевич": 318,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 1,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 23
+      "gas:candidate-vibid:493402187220": 18,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 9,
+      "gas:candidate-vibid:493402186056": 44,
+      "gas:candidate-vibid:493402186610": 318,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 1,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 8,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 20,
-      "Козенко Андрей Дмитриевич": 166,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 4
+      "gas:candidate-vibid:493402187220": 8,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 20,
+      "gas:candidate-vibid:493402186610": 166,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 28,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 8,
-      "Климчук Олег Алексеевич": 29,
-      "Козенко Андрей Дмитриевич": 228,
-      "Салихова Резеда Радиковна": 10,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 15
+      "gas:candidate-vibid:493402187220": 28,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 8,
+      "gas:candidate-vibid:493402186056": 29,
+      "gas:candidate-vibid:493402186610": 228,
+      "gas:candidate-vibid:493402187268": 10,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 18,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 26,
-      "Климчук Олег Алексеевич": 46,
-      "Козенко Андрей Дмитриевич": 339,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 1,
-      "Чернышев Александр Иванович": 27
+      "gas:candidate-vibid:493402187220": 18,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 26,
+      "gas:candidate-vibid:493402186056": 46,
+      "gas:candidate-vibid:493402186610": 339,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 1,
+      "gas:candidate-vibid:493402186390": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 26,
-      "Азардович Анатолий Анатольевич": 3,
-      "Грицак Елена Валерьевна": 6,
-      "Климчук Олег Алексеевич": 37,
-      "Козенко Андрей Дмитриевич": 284,
-      "Салихова Резеда Радиковна": 3,
-      "Талипов Александр Валериевич": 5,
-      "Ханин Николай Александрович": 7,
-      "Чернышев Александр Иванович": 25
+      "gas:candidate-vibid:493402187220": 26,
+      "gas:candidate-vibid:493402186725": 3,
+      "gas:candidate-vibid:493402186702": 6,
+      "gas:candidate-vibid:493402186056": 37,
+      "gas:candidate-vibid:493402186610": 284,
+      "gas:candidate-vibid:493402187268": 3,
+      "gas:candidate-vibid:493402187486": 5,
+      "gas:candidate-vibid:493402187159": 7,
+      "gas:candidate-vibid:493402186390": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 11,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 30,
-      "Климчук Олег Алексеевич": 27,
-      "Козенко Андрей Дмитриевич": 296,
-      "Салихова Резеда Радиковна": 4,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 5,
-      "Чернышев Александр Иванович": 12
+      "gas:candidate-vibid:493402187220": 11,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 30,
+      "gas:candidate-vibid:493402186056": 27,
+      "gas:candidate-vibid:493402186610": 296,
+      "gas:candidate-vibid:493402187268": 4,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 5,
+      "gas:candidate-vibid:493402186390": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 18,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 8,
-      "Климчук Олег Алексеевич": 20,
-      "Козенко Андрей Дмитриевич": 156,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 0,
-      "Чернышев Александр Иванович": 8
+      "gas:candidate-vibid:493402187220": 18,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 8,
+      "gas:candidate-vibid:493402186056": 20,
+      "gas:candidate-vibid:493402186610": 156,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 0,
+      "gas:candidate-vibid:493402186390": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 57,
-      "Азардович Анатолий Анатольевич": 16,
-      "Грицак Елена Валерьевна": 40,
-      "Климчук Олег Алексеевич": 129,
-      "Козенко Андрей Дмитриевич": 874,
-      "Салихова Резеда Радиковна": 15,
-      "Талипов Александр Валериевич": 4,
-      "Ханин Николай Александрович": 15,
-      "Чернышев Александр Иванович": 51
+      "gas:candidate-vibid:493402187220": 57,
+      "gas:candidate-vibid:493402186725": 16,
+      "gas:candidate-vibid:493402186702": 40,
+      "gas:candidate-vibid:493402186056": 129,
+      "gas:candidate-vibid:493402186610": 874,
+      "gas:candidate-vibid:493402187268": 15,
+      "gas:candidate-vibid:493402187486": 4,
+      "gas:candidate-vibid:493402187159": 15,
+      "gas:candidate-vibid:493402186390": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 162,
-      "Азардович Анатолий Анатольевич": 30,
-      "Грицак Елена Валерьевна": 86,
-      "Климчук Олег Алексеевич": 134,
-      "Козенко Андрей Дмитриевич": 682,
-      "Салихова Резеда Радиковна": 39,
-      "Талипов Александр Валериевич": 13,
-      "Ханин Николай Александрович": 16,
-      "Чернышев Александр Иванович": 165
+      "gas:candidate-vibid:493402187220": 162,
+      "gas:candidate-vibid:493402186725": 30,
+      "gas:candidate-vibid:493402186702": 86,
+      "gas:candidate-vibid:493402186056": 134,
+      "gas:candidate-vibid:493402186610": 682,
+      "gas:candidate-vibid:493402187268": 39,
+      "gas:candidate-vibid:493402187486": 13,
+      "gas:candidate-vibid:493402187159": 16,
+      "gas:candidate-vibid:493402186390": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 15,
-      "Азардович Анатолий Анатольевич": 15,
-      "Грицак Елена Валерьевна": 66,
-      "Климчук Олег Алексеевич": 64,
-      "Козенко Андрей Дмитриевич": 392,
-      "Салихова Резеда Радиковна": 7,
-      "Талипов Александр Валериевич": 8,
-      "Ханин Николай Александрович": 13,
-      "Чернышев Александр Иванович": 40
+      "gas:candidate-vibid:493402187220": 15,
+      "gas:candidate-vibid:493402186725": 15,
+      "gas:candidate-vibid:493402186702": 66,
+      "gas:candidate-vibid:493402186056": 64,
+      "gas:candidate-vibid:493402186610": 392,
+      "gas:candidate-vibid:493402187268": 7,
+      "gas:candidate-vibid:493402187486": 8,
+      "gas:candidate-vibid:493402187159": 13,
+      "gas:candidate-vibid:493402186390": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 12,
-      "Азардович Анатолий Анатольевич": 7,
-      "Грицак Елена Валерьевна": 18,
-      "Климчук Олег Алексеевич": 37,
-      "Козенко Андрей Дмитриевич": 267,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 7,
-      "Чернышев Александр Иванович": 29
+      "gas:candidate-vibid:493402187220": 12,
+      "gas:candidate-vibid:493402186725": 7,
+      "gas:candidate-vibid:493402186702": 18,
+      "gas:candidate-vibid:493402186056": 37,
+      "gas:candidate-vibid:493402186610": 267,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 7,
+      "gas:candidate-vibid:493402186390": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 4,
-      "Грицак Елена Валерьевна": 27,
-      "Климчук Олег Алексеевич": 49,
-      "Козенко Андрей Дмитриевич": 216,
-      "Салихова Резеда Радиковна": 9,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 6,
-      "Чернышев Александр Иванович": 20
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 4,
+      "gas:candidate-vibid:493402186702": 27,
+      "gas:candidate-vibid:493402186056": 49,
+      "gas:candidate-vibid:493402186610": 216,
+      "gas:candidate-vibid:493402187268": 9,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 6,
+      "gas:candidate-vibid:493402186390": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 17,
-      "Азардович Анатолий Анатольевич": 9,
-      "Грицак Елена Валерьевна": 41,
-      "Климчук Олег Алексеевич": 72,
-      "Козенко Андрей Дмитриевич": 583,
-      "Салихова Резеда Радиковна": 5,
-      "Талипов Александр Валериевич": 3,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 48
+      "gas:candidate-vibid:493402187220": 17,
+      "gas:candidate-vibid:493402186725": 9,
+      "gas:candidate-vibid:493402186702": 41,
+      "gas:candidate-vibid:493402186056": 72,
+      "gas:candidate-vibid:493402186610": 583,
+      "gas:candidate-vibid:493402187268": 5,
+      "gas:candidate-vibid:493402187486": 3,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 13,
-      "Азардович Анатолий Анатольевич": 5,
-      "Грицак Елена Валерьевна": 9,
-      "Климчук Олег Алексеевич": 26,
-      "Козенко Андрей Дмитриевич": 356,
-      "Салихова Резеда Радиковна": 2,
-      "Талипов Александр Валериевич": 7,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 19
+      "gas:candidate-vibid:493402187220": 13,
+      "gas:candidate-vibid:493402186725": 5,
+      "gas:candidate-vibid:493402186702": 9,
+      "gas:candidate-vibid:493402186056": 26,
+      "gas:candidate-vibid:493402186610": 356,
+      "gas:candidate-vibid:493402187268": 2,
+      "gas:candidate-vibid:493402187486": 7,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 16,
-      "Азардович Анатолий Анатольевич": 6,
-      "Грицак Елена Валерьевна": 17,
-      "Климчук Олег Алексеевич": 59,
-      "Козенко Андрей Дмитриевич": 681,
-      "Салихова Резеда Радиковна": 8,
-      "Талипов Александр Валериевич": 2,
-      "Ханин Николай Александрович": 8,
-      "Чернышев Александр Иванович": 21
+      "gas:candidate-vibid:493402187220": 16,
+      "gas:candidate-vibid:493402186725": 6,
+      "gas:candidate-vibid:493402186702": 17,
+      "gas:candidate-vibid:493402186056": 59,
+      "gas:candidate-vibid:493402186610": 681,
+      "gas:candidate-vibid:493402187268": 8,
+      "gas:candidate-vibid:493402187486": 2,
+      "gas:candidate-vibid:493402187159": 8,
+      "gas:candidate-vibid:493402186390": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_93_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдувалиев Таир Аметович": 6,
-      "Азардович Анатолий Анатольевич": 1,
-      "Грицак Елена Валерьевна": 32,
-      "Климчук Олег Алексеевич": 15,
-      "Козенко Андрей Дмитриевич": 147,
-      "Салихова Резеда Радиковна": 1,
-      "Талипов Александр Валериевич": 0,
-      "Ханин Николай Александрович": 2,
-      "Чернышев Александр Иванович": 5
+      "gas:candidate-vibid:493402187220": 6,
+      "gas:candidate-vibid:493402186725": 1,
+      "gas:candidate-vibid:493402186702": 32,
+      "gas:candidate-vibid:493402186056": 15,
+      "gas:candidate-vibid:493402186610": 147,
+      "gas:candidate-vibid:493402187268": 1,
+      "gas:candidate-vibid:493402187486": 0,
+      "gas:candidate-vibid:493402187159": 2,
+      "gas:candidate-vibid:493402186390": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000306&tvd=493402185015&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=493402185015&type=464",

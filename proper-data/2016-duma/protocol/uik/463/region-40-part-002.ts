@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 125,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 15,
-      "Колесников Алексей Николаевич": 11,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 16,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 24
+      "gas:candidate-vibid:2402000677538": 125,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 15,
+      "gas:candidate-vibid:2402000678228": 11,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 16,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 131,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 13,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 21,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 35
+      "gas:candidate-vibid:2402000677538": 131,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 13,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 21,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 89,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 28
+      "gas:candidate-vibid:2402000677538": 89,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 384,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 29,
-      "Колесников Алексей Николаевич": 14,
-      "Тарасенко Антон Геннадьевич": 10,
-      "Тришина Марина Александровна": 91,
-      "Чернов Александр Ефимович": 13,
-      "Яшкин Николай Иванович": 239
+      "gas:candidate-vibid:2402000677538": 384,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 29,
+      "gas:candidate-vibid:2402000678228": 14,
+      "gas:candidate-vibid:2402000643388": 10,
+      "gas:candidate-vibid:2402000635335": 91,
+      "gas:candidate-vibid:2402000677898": 13,
+      "gas:candidate-vibid:2402000677322": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 84,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 9,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 12,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 19
+      "gas:candidate-vibid:2402000677538": 84,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 9,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 12,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 72,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 1,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 40
+      "gas:candidate-vibid:2402000677538": 72,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 1,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 352,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 51,
-      "Колесников Алексей Николаевич": 24,
-      "Тарасенко Антон Геннадьевич": 38,
-      "Тришина Марина Александровна": 70,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 137
+      "gas:candidate-vibid:2402000677538": 352,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 51,
+      "gas:candidate-vibid:2402000678228": 24,
+      "gas:candidate-vibid:2402000643388": 38,
+      "gas:candidate-vibid:2402000635335": 70,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 79,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 18
+      "gas:candidate-vibid:2402000677538": 79,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 88,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 10,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 21,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 57
+      "gas:candidate-vibid:2402000677538": 88,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 10,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 21,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 138,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 13,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 18
+      "gas:candidate-vibid:2402000677538": 138,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 13,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594653&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594653&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 96,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 96,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 49,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 16,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 16,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 49,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 16,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 16,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 108,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 9,
-      "Колесников Алексей Николаевич": 9,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 24,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 8
+      "gas:candidate-vibid:2402000677538": 108,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 9,
+      "gas:candidate-vibid:2402000678228": 9,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 24,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 108,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 11,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 13,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 9
+      "gas:candidate-vibid:2402000677538": 108,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 11,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 13,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 108,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 12,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 20
+      "gas:candidate-vibid:2402000677538": 108,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 12,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 118,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 18,
-      "Колесников Алексей Николаевич": 25,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 39,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 20
+      "gas:candidate-vibid:2402000677538": 118,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 18,
+      "gas:candidate-vibid:2402000678228": 25,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 39,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 107,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 18,
-      "Колесников Алексей Николаевич": 13,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 29,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 21
+      "gas:candidate-vibid:2402000677538": 107,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 18,
+      "gas:candidate-vibid:2402000678228": 13,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 29,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 31,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 4,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 2
+      "gas:candidate-vibid:2402000677538": 31,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 4,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 187,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 30,
-      "Колесников Алексей Николаевич": 30,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 46,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 29
+      "gas:candidate-vibid:2402000677538": 187,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 30,
+      "gas:candidate-vibid:2402000678228": 30,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 46,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 312,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 29,
-      "Колесников Алексей Николаевич": 39,
-      "Тарасенко Антон Геннадьевич": 41,
-      "Тришина Марина Александровна": 49,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 70
+      "gas:candidate-vibid:2402000677538": 312,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 29,
+      "gas:candidate-vibid:2402000678228": 39,
+      "gas:candidate-vibid:2402000643388": 41,
+      "gas:candidate-vibid:2402000635335": 49,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 319,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 47,
-      "Колесников Алексей Николаевич": 31,
-      "Тарасенко Антон Геннадьевич": 39,
-      "Тришина Марина Александровна": 52,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 70
+      "gas:candidate-vibid:2402000677538": 319,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 47,
+      "gas:candidate-vibid:2402000678228": 31,
+      "gas:candidate-vibid:2402000643388": 39,
+      "gas:candidate-vibid:2402000635335": 52,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 278,
-      "Беккер Андрей Владимирович": 16,
-      "Ефремова Надежда Игоревна": 39,
-      "Колесников Алексей Николаевич": 24,
-      "Тарасенко Антон Геннадьевич": 25,
-      "Тришина Марина Александровна": 71,
-      "Чернов Александр Ефимович": 24,
-      "Яшкин Николай Иванович": 86
+      "gas:candidate-vibid:2402000677538": 278,
+      "gas:candidate-vibid:2402000677699": 16,
+      "gas:candidate-vibid:2402000643491": 39,
+      "gas:candidate-vibid:2402000678228": 24,
+      "gas:candidate-vibid:2402000643388": 25,
+      "gas:candidate-vibid:2402000635335": 71,
+      "gas:candidate-vibid:2402000677898": 24,
+      "gas:candidate-vibid:2402000677322": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 43,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 5,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 50
+      "gas:candidate-vibid:2402000677538": 43,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 5,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 131,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 12,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 36
+      "gas:candidate-vibid:2402000677538": 131,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 12,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 67,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 17,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 13
+      "gas:candidate-vibid:2402000677538": 67,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 17,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 139,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 20,
-      "Колесников Алексей Николаевич": 14,
-      "Тарасенко Антон Геннадьевич": 20,
-      "Тришина Марина Александровна": 29,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 139,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 20,
+      "gas:candidate-vibid:2402000678228": 14,
+      "gas:candidate-vibid:2402000643388": 20,
+      "gas:candidate-vibid:2402000635335": 29,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 83,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 9,
-      "Колесников Алексей Николаевич": 13,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 18,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 83,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 9,
+      "gas:candidate-vibid:2402000678228": 13,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 18,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 534,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 77,
-      "Колесников Алексей Николаевич": 55,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 114,
-      "Чернов Александр Ефимович": 24,
-      "Яшкин Николай Иванович": 52
+      "gas:candidate-vibid:2402000677538": 534,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 77,
+      "gas:candidate-vibid:2402000678228": 55,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 114,
+      "gas:candidate-vibid:2402000677898": 24,
+      "gas:candidate-vibid:2402000677322": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 662,
-      "Беккер Андрей Владимирович": 25,
-      "Ефремова Надежда Игоревна": 71,
-      "Колесников Алексей Николаевич": 83,
-      "Тарасенко Антон Геннадьевич": 47,
-      "Тришина Марина Александровна": 129,
-      "Чернов Александр Ефимович": 34,
-      "Яшкин Николай Иванович": 136
+      "gas:candidate-vibid:2402000677538": 662,
+      "gas:candidate-vibid:2402000677699": 25,
+      "gas:candidate-vibid:2402000643491": 71,
+      "gas:candidate-vibid:2402000678228": 83,
+      "gas:candidate-vibid:2402000643388": 47,
+      "gas:candidate-vibid:2402000635335": 129,
+      "gas:candidate-vibid:2402000677898": 34,
+      "gas:candidate-vibid:2402000677322": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 280,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 71,
-      "Колесников Алексей Николаевич": 49,
-      "Тарасенко Антон Геннадьевич": 34,
-      "Тришина Марина Александровна": 78,
-      "Чернов Александр Ефимович": 20,
-      "Яшкин Николай Иванович": 85
+      "gas:candidate-vibid:2402000677538": 280,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 71,
+      "gas:candidate-vibid:2402000678228": 49,
+      "gas:candidate-vibid:2402000643388": 34,
+      "gas:candidate-vibid:2402000635335": 78,
+      "gas:candidate-vibid:2402000677898": 20,
+      "gas:candidate-vibid:2402000677322": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 411,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 50,
-      "Колесников Алексей Николаевич": 58,
-      "Тарасенко Антон Геннадьевич": 34,
-      "Тришина Марина Александровна": 90,
-      "Чернов Александр Ефимович": 19,
-      "Яшкин Николай Иванович": 113
+      "gas:candidate-vibid:2402000677538": 411,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 50,
+      "gas:candidate-vibid:2402000678228": 58,
+      "gas:candidate-vibid:2402000643388": 34,
+      "gas:candidate-vibid:2402000635335": 90,
+      "gas:candidate-vibid:2402000677898": 19,
+      "gas:candidate-vibid:2402000677322": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 300,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 49,
-      "Колесников Алексей Николаевич": 46,
-      "Тарасенко Антон Геннадьевич": 31,
-      "Тришина Марина Александровна": 66,
-      "Чернов Александр Ефимович": 7,
-      "Яшкин Николай Иванович": 117
+      "gas:candidate-vibid:2402000677538": 300,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 49,
+      "gas:candidate-vibid:2402000678228": 46,
+      "gas:candidate-vibid:2402000643388": 31,
+      "gas:candidate-vibid:2402000635335": 66,
+      "gas:candidate-vibid:2402000677898": 7,
+      "gas:candidate-vibid:2402000677322": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 193,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 20,
-      "Колесников Алексей Николаевич": 23,
-      "Тарасенко Антон Геннадьевич": 22,
-      "Тришина Марина Александровна": 42,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 45
+      "gas:candidate-vibid:2402000677538": 193,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 20,
+      "gas:candidate-vibid:2402000678228": 23,
+      "gas:candidate-vibid:2402000643388": 22,
+      "gas:candidate-vibid:2402000635335": 42,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 267,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 35,
-      "Колесников Алексей Николаевич": 35,
-      "Тарасенко Антон Геннадьевич": 27,
-      "Тришина Марина Александровна": 68,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 71
+      "gas:candidate-vibid:2402000677538": 267,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 35,
+      "gas:candidate-vibid:2402000678228": 35,
+      "gas:candidate-vibid:2402000643388": 27,
+      "gas:candidate-vibid:2402000635335": 68,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 158,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 23,
-      "Колесников Алексей Николаевич": 32,
-      "Тарасенко Антон Геннадьевич": 15,
-      "Тришина Марина Александровна": 48,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 53
+      "gas:candidate-vibid:2402000677538": 158,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 23,
+      "gas:candidate-vibid:2402000678228": 32,
+      "gas:candidate-vibid:2402000643388": 15,
+      "gas:candidate-vibid:2402000635335": 48,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 311,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 51,
-      "Колесников Алексей Николаевич": 44,
-      "Тарасенко Антон Геннадьевич": 25,
-      "Тришина Марина Александровна": 59,
-      "Чернов Александр Ефимович": 13,
-      "Яшкин Николай Иванович": 83
+      "gas:candidate-vibid:2402000677538": 311,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 51,
+      "gas:candidate-vibid:2402000678228": 44,
+      "gas:candidate-vibid:2402000643388": 25,
+      "gas:candidate-vibid:2402000635335": 59,
+      "gas:candidate-vibid:2402000677898": 13,
+      "gas:candidate-vibid:2402000677322": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 375,
-      "Беккер Андрей Владимирович": 17,
-      "Ефремова Надежда Игоревна": 65,
-      "Колесников Алексей Николаевич": 57,
-      "Тарасенко Антон Геннадьевич": 33,
-      "Тришина Марина Александровна": 109,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 103
+      "gas:candidate-vibid:2402000677538": 375,
+      "gas:candidate-vibid:2402000677699": 17,
+      "gas:candidate-vibid:2402000643491": 65,
+      "gas:candidate-vibid:2402000678228": 57,
+      "gas:candidate-vibid:2402000643388": 33,
+      "gas:candidate-vibid:2402000635335": 109,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 345,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 92,
-      "Колесников Алексей Николаевич": 51,
-      "Тарасенко Антон Геннадьевич": 38,
-      "Тришина Марина Александровна": 98,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 102
+      "gas:candidate-vibid:2402000677538": 345,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 92,
+      "gas:candidate-vibid:2402000678228": 51,
+      "gas:candidate-vibid:2402000643388": 38,
+      "gas:candidate-vibid:2402000635335": 98,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 194,
-      "Беккер Андрей Владимирович": 14,
-      "Ефремова Надежда Игоревна": 58,
-      "Колесников Алексей Николаевич": 52,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 63,
-      "Чернов Александр Ефимович": 23,
-      "Яшкин Николай Иванович": 49
+      "gas:candidate-vibid:2402000677538": 194,
+      "gas:candidate-vibid:2402000677699": 14,
+      "gas:candidate-vibid:2402000643491": 58,
+      "gas:candidate-vibid:2402000678228": 52,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 63,
+      "gas:candidate-vibid:2402000677898": 23,
+      "gas:candidate-vibid:2402000677322": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 207,
-      "Беккер Андрей Владимирович": 21,
-      "Ефремова Надежда Игоревна": 51,
-      "Колесников Алексей Николаевич": 48,
-      "Тарасенко Антон Геннадьевич": 28,
-      "Тришина Марина Александровна": 52,
-      "Чернов Александр Ефимович": 15,
-      "Яшкин Николай Иванович": 33
+      "gas:candidate-vibid:2402000677538": 207,
+      "gas:candidate-vibid:2402000677699": 21,
+      "gas:candidate-vibid:2402000643491": 51,
+      "gas:candidate-vibid:2402000678228": 48,
+      "gas:candidate-vibid:2402000643388": 28,
+      "gas:candidate-vibid:2402000635335": 52,
+      "gas:candidate-vibid:2402000677898": 15,
+      "gas:candidate-vibid:2402000677322": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 323,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 104,
-      "Колесников Алексей Николаевич": 41,
-      "Тарасенко Антон Геннадьевич": 28,
-      "Тришина Марина Александровна": 83,
-      "Чернов Александр Ефимович": 51,
-      "Яшкин Николай Иванович": 80
+      "gas:candidate-vibid:2402000677538": 323,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 104,
+      "gas:candidate-vibid:2402000678228": 41,
+      "gas:candidate-vibid:2402000643388": 28,
+      "gas:candidate-vibid:2402000635335": 83,
+      "gas:candidate-vibid:2402000677898": 51,
+      "gas:candidate-vibid:2402000677322": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 347,
-      "Беккер Андрей Владимирович": 20,
-      "Ефремова Надежда Игоревна": 105,
-      "Колесников Алексей Николаевич": 71,
-      "Тарасенко Антон Геннадьевич": 39,
-      "Тришина Марина Александровна": 85,
-      "Чернов Александр Ефимович": 49,
-      "Яшкин Николай Иванович": 85
+      "gas:candidate-vibid:2402000677538": 347,
+      "gas:candidate-vibid:2402000677699": 20,
+      "gas:candidate-vibid:2402000643491": 105,
+      "gas:candidate-vibid:2402000678228": 71,
+      "gas:candidate-vibid:2402000643388": 39,
+      "gas:candidate-vibid:2402000635335": 85,
+      "gas:candidate-vibid:2402000677898": 49,
+      "gas:candidate-vibid:2402000677322": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 430,
-      "Беккер Андрей Владимирович": 18,
-      "Ефремова Надежда Игоревна": 137,
-      "Колесников Алексей Николаевич": 70,
-      "Тарасенко Антон Геннадьевич": 57,
-      "Тришина Марина Александровна": 111,
-      "Чернов Александр Ефимович": 53,
-      "Яшкин Николай Иванович": 90
+      "gas:candidate-vibid:2402000677538": 430,
+      "gas:candidate-vibid:2402000677699": 18,
+      "gas:candidate-vibid:2402000643491": 137,
+      "gas:candidate-vibid:2402000678228": 70,
+      "gas:candidate-vibid:2402000643388": 57,
+      "gas:candidate-vibid:2402000635335": 111,
+      "gas:candidate-vibid:2402000677898": 53,
+      "gas:candidate-vibid:2402000677322": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 196,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 60,
-      "Колесников Алексей Николаевич": 48,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 60,
-      "Чернов Александр Ефимович": 12,
-      "Яшкин Николай Иванович": 57
+      "gas:candidate-vibid:2402000677538": 196,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 60,
+      "gas:candidate-vibid:2402000678228": 48,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 60,
+      "gas:candidate-vibid:2402000677898": 12,
+      "gas:candidate-vibid:2402000677322": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 228,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 70,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 33,
-      "Тришина Марина Александровна": 46,
-      "Чернов Александр Ефимович": 23,
-      "Яшкин Николай Иванович": 43
+      "gas:candidate-vibid:2402000677538": 228,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 70,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 33,
+      "gas:candidate-vibid:2402000635335": 46,
+      "gas:candidate-vibid:2402000677898": 23,
+      "gas:candidate-vibid:2402000677322": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 276,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 6,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 38,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 22
+      "gas:candidate-vibid:2402000677538": 276,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 6,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 38,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 75,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 1,
-      "Тришина Марина Александровна": 10,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 4
+      "gas:candidate-vibid:2402000677538": 75,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 1,
+      "gas:candidate-vibid:2402000635335": 10,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 140,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 9,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 28,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 21
+      "gas:candidate-vibid:2402000677538": 140,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 9,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 28,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 64,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 5,
-      "Тришина Марина Александровна": 1,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 9
+      "gas:candidate-vibid:2402000677538": 64,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 5,
+      "gas:candidate-vibid:2402000635335": 1,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 69,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 4,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 2
+      "gas:candidate-vibid:2402000677538": 69,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 4,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 440,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 53,
-      "Колесников Алексей Николаевич": 34,
-      "Тарасенко Антон Геннадьевич": 31,
-      "Тришина Марина Александровна": 90,
-      "Чернов Александр Ефимович": 18,
-      "Яшкин Николай Иванович": 75
+      "gas:candidate-vibid:2402000677538": 440,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 53,
+      "gas:candidate-vibid:2402000678228": 34,
+      "gas:candidate-vibid:2402000643388": 31,
+      "gas:candidate-vibid:2402000635335": 90,
+      "gas:candidate-vibid:2402000677898": 18,
+      "gas:candidate-vibid:2402000677322": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594654&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594654&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 362,
-      "Беккер Андрей Владимирович": 18,
-      "Ефремова Надежда Игоревна": 58,
-      "Колесников Алексей Николаевич": 21,
-      "Тарасенко Антон Геннадьевич": 34,
-      "Тришина Марина Александровна": 69,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 97
+      "gas:candidate-vibid:2402000677538": 362,
+      "gas:candidate-vibid:2402000677699": 18,
+      "gas:candidate-vibid:2402000643491": 58,
+      "gas:candidate-vibid:2402000678228": 21,
+      "gas:candidate-vibid:2402000643388": 34,
+      "gas:candidate-vibid:2402000635335": 69,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 474,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 68,
-      "Колесников Алексей Николаевич": 31,
-      "Тарасенко Антон Геннадьевич": 29,
-      "Тришина Марина Александровна": 85,
-      "Чернов Александр Ефимович": 31,
-      "Яшкин Николай Иванович": 106
+      "gas:candidate-vibid:2402000677538": 474,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 68,
+      "gas:candidate-vibid:2402000678228": 31,
+      "gas:candidate-vibid:2402000643388": 29,
+      "gas:candidate-vibid:2402000635335": 85,
+      "gas:candidate-vibid:2402000677898": 31,
+      "gas:candidate-vibid:2402000677322": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 287,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 40,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 62,
-      "Чернов Александр Ефимович": 19,
-      "Яшкин Николай Иванович": 72
+      "gas:candidate-vibid:2402000677538": 287,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 40,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 62,
+      "gas:candidate-vibid:2402000677898": 19,
+      "gas:candidate-vibid:2402000677322": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 171,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 25,
-      "Колесников Алексей Николаевич": 11,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 33,
-      "Чернов Александр Ефимович": 12,
-      "Яшкин Николай Иванович": 30
+      "gas:candidate-vibid:2402000677538": 171,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 25,
+      "gas:candidate-vibid:2402000678228": 11,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 33,
+      "gas:candidate-vibid:2402000677898": 12,
+      "gas:candidate-vibid:2402000677322": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 84,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 5,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 23,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 29
+      "gas:candidate-vibid:2402000677538": 84,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 5,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 23,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 130,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 27,
-      "Колесников Алексей Николаевич": 32,
-      "Тарасенко Антон Геннадьевич": 16,
-      "Тришина Марина Александровна": 19,
-      "Чернов Александр Ефимович": 16,
-      "Яшкин Николай Иванович": 55
+      "gas:candidate-vibid:2402000677538": 130,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 27,
+      "gas:candidate-vibid:2402000678228": 32,
+      "gas:candidate-vibid:2402000643388": 16,
+      "gas:candidate-vibid:2402000635335": 19,
+      "gas:candidate-vibid:2402000677898": 16,
+      "gas:candidate-vibid:2402000677322": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 275,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 39,
-      "Колесников Алексей Николаевич": 21,
-      "Тарасенко Антон Геннадьевич": 15,
-      "Тришина Марина Александровна": 45,
-      "Чернов Александр Ефимович": 14,
-      "Яшкин Николай Иванович": 78
+      "gas:candidate-vibid:2402000677538": 275,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 39,
+      "gas:candidate-vibid:2402000678228": 21,
+      "gas:candidate-vibid:2402000643388": 15,
+      "gas:candidate-vibid:2402000635335": 45,
+      "gas:candidate-vibid:2402000677898": 14,
+      "gas:candidate-vibid:2402000677322": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 102,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 5,
-      "Тришина Марина Александровна": 20,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 45
+      "gas:candidate-vibid:2402000677538": 102,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 5,
+      "gas:candidate-vibid:2402000635335": 20,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 69,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 7,
-      "Тарасенко Антон Геннадьевич": 12,
-      "Тришина Марина Александровна": 17,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 27
+      "gas:candidate-vibid:2402000677538": 69,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 7,
+      "gas:candidate-vibid:2402000643388": 12,
+      "gas:candidate-vibid:2402000635335": 17,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 136,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 21,
-      "Колесников Алексей Николаевич": 9,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 20,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 52
+      "gas:candidate-vibid:2402000677538": 136,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 21,
+      "gas:candidate-vibid:2402000678228": 9,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 20,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 399,
-      "Беккер Андрей Владимирович": 18,
-      "Ефремова Надежда Игоревна": 79,
-      "Колесников Алексей Николаевич": 45,
-      "Тарасенко Антон Геннадьевич": 40,
-      "Тришина Марина Александровна": 109,
-      "Чернов Александр Ефимович": 45,
-      "Яшкин Николай Иванович": 147
+      "gas:candidate-vibid:2402000677538": 399,
+      "gas:candidate-vibid:2402000677699": 18,
+      "gas:candidate-vibid:2402000643491": 79,
+      "gas:candidate-vibid:2402000678228": 45,
+      "gas:candidate-vibid:2402000643388": 40,
+      "gas:candidate-vibid:2402000635335": 109,
+      "gas:candidate-vibid:2402000677898": 45,
+      "gas:candidate-vibid:2402000677322": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 476,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 76,
-      "Колесников Алексей Николаевич": 23,
-      "Тарасенко Антон Геннадьевич": 31,
-      "Тришина Марина Александровна": 127,
-      "Чернов Александр Ефимович": 40,
-      "Яшкин Николай Иванович": 143
+      "gas:candidate-vibid:2402000677538": 476,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 76,
+      "gas:candidate-vibid:2402000678228": 23,
+      "gas:candidate-vibid:2402000643388": 31,
+      "gas:candidate-vibid:2402000635335": 127,
+      "gas:candidate-vibid:2402000677898": 40,
+      "gas:candidate-vibid:2402000677322": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 455,
-      "Беккер Андрей Владимирович": 12,
-      "Ефремова Надежда Игоревна": 59,
-      "Колесников Алексей Николаевич": 44,
-      "Тарасенко Антон Геннадьевич": 56,
-      "Тришина Марина Александровна": 106,
-      "Чернов Александр Ефимович": 31,
-      "Яшкин Николай Иванович": 153
+      "gas:candidate-vibid:2402000677538": 455,
+      "gas:candidate-vibid:2402000677699": 12,
+      "gas:candidate-vibid:2402000643491": 59,
+      "gas:candidate-vibid:2402000678228": 44,
+      "gas:candidate-vibid:2402000643388": 56,
+      "gas:candidate-vibid:2402000635335": 106,
+      "gas:candidate-vibid:2402000677898": 31,
+      "gas:candidate-vibid:2402000677322": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 469,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 81,
-      "Колесников Алексей Николаевич": 29,
-      "Тарасенко Антон Геннадьевич": 39,
-      "Тришина Марина Александровна": 113,
-      "Чернов Александр Ефимович": 25,
-      "Яшкин Николай Иванович": 113
+      "gas:candidate-vibid:2402000677538": 469,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 81,
+      "gas:candidate-vibid:2402000678228": 29,
+      "gas:candidate-vibid:2402000643388": 39,
+      "gas:candidate-vibid:2402000635335": 113,
+      "gas:candidate-vibid:2402000677898": 25,
+      "gas:candidate-vibid:2402000677322": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 475,
-      "Беккер Андрей Владимирович": 18,
-      "Ефремова Надежда Игоревна": 81,
-      "Колесников Алексей Николаевич": 23,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 127,
-      "Чернов Александр Ефимович": 47,
-      "Яшкин Николай Иванович": 129
+      "gas:candidate-vibid:2402000677538": 475,
+      "gas:candidate-vibid:2402000677699": 18,
+      "gas:candidate-vibid:2402000643491": 81,
+      "gas:candidate-vibid:2402000678228": 23,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 127,
+      "gas:candidate-vibid:2402000677898": 47,
+      "gas:candidate-vibid:2402000677322": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 439,
-      "Беккер Андрей Владимирович": 28,
-      "Ефремова Надежда Игоревна": 81,
-      "Колесников Алексей Николаевич": 43,
-      "Тарасенко Антон Геннадьевич": 45,
-      "Тришина Марина Александровна": 162,
-      "Чернов Александр Ефимович": 62,
-      "Яшкин Николай Иванович": 112
+      "gas:candidate-vibid:2402000677538": 439,
+      "gas:candidate-vibid:2402000677699": 28,
+      "gas:candidate-vibid:2402000643491": 81,
+      "gas:candidate-vibid:2402000678228": 43,
+      "gas:candidate-vibid:2402000643388": 45,
+      "gas:candidate-vibid:2402000635335": 162,
+      "gas:candidate-vibid:2402000677898": 62,
+      "gas:candidate-vibid:2402000677322": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 652,
-      "Беккер Андрей Владимирович": 36,
-      "Ефремова Надежда Игоревна": 92,
-      "Колесников Алексей Николаевич": 58,
-      "Тарасенко Антон Геннадьевич": 67,
-      "Тришина Марина Александровна": 196,
-      "Чернов Александр Ефимович": 76,
-      "Яшкин Николай Иванович": 158
+      "gas:candidate-vibid:2402000677538": 652,
+      "gas:candidate-vibid:2402000677699": 36,
+      "gas:candidate-vibid:2402000643491": 92,
+      "gas:candidate-vibid:2402000678228": 58,
+      "gas:candidate-vibid:2402000643388": 67,
+      "gas:candidate-vibid:2402000635335": 196,
+      "gas:candidate-vibid:2402000677898": 76,
+      "gas:candidate-vibid:2402000677322": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 442,
-      "Беккер Андрей Владимирович": 15,
-      "Ефремова Надежда Игоревна": 92,
-      "Колесников Алексей Николаевич": 33,
-      "Тарасенко Антон Геннадьевич": 34,
-      "Тришина Марина Александровна": 131,
-      "Чернов Александр Ефимович": 41,
-      "Яшкин Николай Иванович": 94
+      "gas:candidate-vibid:2402000677538": 442,
+      "gas:candidate-vibid:2402000677699": 15,
+      "gas:candidate-vibid:2402000643491": 92,
+      "gas:candidate-vibid:2402000678228": 33,
+      "gas:candidate-vibid:2402000643388": 34,
+      "gas:candidate-vibid:2402000635335": 131,
+      "gas:candidate-vibid:2402000677898": 41,
+      "gas:candidate-vibid:2402000677322": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 490,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 72,
-      "Колесников Алексей Николаевич": 23,
-      "Тарасенко Антон Геннадьевич": 38,
-      "Тришина Марина Александровна": 107,
-      "Чернов Александр Ефимович": 30,
-      "Яшкин Николай Иванович": 67
+      "gas:candidate-vibid:2402000677538": 490,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 72,
+      "gas:candidate-vibid:2402000678228": 23,
+      "gas:candidate-vibid:2402000643388": 38,
+      "gas:candidate-vibid:2402000635335": 107,
+      "gas:candidate-vibid:2402000677898": 30,
+      "gas:candidate-vibid:2402000677322": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 304,
-      "Беккер Андрей Владимирович": 22,
-      "Ефремова Надежда Игоревна": 54,
-      "Колесников Алексей Николаевич": 33,
-      "Тарасенко Антон Геннадьевич": 36,
-      "Тришина Марина Александровна": 107,
-      "Чернов Александр Ефимович": 33,
-      "Яшкин Николай Иванович": 74
+      "gas:candidate-vibid:2402000677538": 304,
+      "gas:candidate-vibid:2402000677699": 22,
+      "gas:candidate-vibid:2402000643491": 54,
+      "gas:candidate-vibid:2402000678228": 33,
+      "gas:candidate-vibid:2402000643388": 36,
+      "gas:candidate-vibid:2402000635335": 107,
+      "gas:candidate-vibid:2402000677898": 33,
+      "gas:candidate-vibid:2402000677322": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 100,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 17,
-      "Чернов Александр Ефимович": 5,
-      "Яшкин Николай Иванович": 18
+      "gas:candidate-vibid:2402000677538": 100,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 17,
+      "gas:candidate-vibid:2402000677898": 5,
+      "gas:candidate-vibid:2402000677322": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 76,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 13,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 15,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 24
+      "gas:candidate-vibid:2402000677538": 76,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 13,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 15,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 200,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 27,
-      "Колесников Алексей Николаевич": 10,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 21,
-      "Чернов Александр Ефимович": 10,
-      "Яшкин Николай Иванович": 25
+      "gas:candidate-vibid:2402000677538": 200,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 27,
+      "gas:candidate-vibid:2402000678228": 10,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 21,
+      "gas:candidate-vibid:2402000677898": 10,
+      "gas:candidate-vibid:2402000677322": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 87,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 4,
-      "Яшкин Николай Иванович": 53
+      "gas:candidate-vibid:2402000677538": 87,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 4,
+      "gas:candidate-vibid:2402000677322": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 147,
-      "Беккер Андрей Владимирович": 13,
-      "Ефремова Надежда Игоревна": 18,
-      "Колесников Алексей Николаевич": 15,
-      "Тарасенко Антон Геннадьевич": 14,
-      "Тришина Марина Александровна": 15,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 6
+      "gas:candidate-vibid:2402000677538": 147,
+      "gas:candidate-vibid:2402000677699": 13,
+      "gas:candidate-vibid:2402000643491": 18,
+      "gas:candidate-vibid:2402000678228": 15,
+      "gas:candidate-vibid:2402000643388": 14,
+      "gas:candidate-vibid:2402000635335": 15,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 84,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 13,
-      "Тарасенко Антон Геннадьевич": 11,
-      "Тришина Марина Александровна": 27,
-      "Чернов Александр Ефимович": 5,
-      "Яшкин Николай Иванович": 43
+      "gas:candidate-vibid:2402000677538": 84,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 13,
+      "gas:candidate-vibid:2402000643388": 11,
+      "gas:candidate-vibid:2402000635335": 27,
+      "gas:candidate-vibid:2402000677898": 5,
+      "gas:candidate-vibid:2402000677322": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 122,
-      "Беккер Андрей Владимирович": 7,
-      "Ефремова Надежда Игоревна": 9,
-      "Колесников Алексей Николаевич": 12,
-      "Тарасенко Антон Геннадьевич": 5,
-      "Тришина Марина Александровна": 24,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 34
+      "gas:candidate-vibid:2402000677538": 122,
+      "gas:candidate-vibid:2402000677699": 7,
+      "gas:candidate-vibid:2402000643491": 9,
+      "gas:candidate-vibid:2402000678228": 12,
+      "gas:candidate-vibid:2402000643388": 5,
+      "gas:candidate-vibid:2402000635335": 24,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 90,
-      "Беккер Андрей Владимирович": 10,
-      "Ефремова Надежда Игоревна": 12,
-      "Колесников Алексей Николаевич": 11,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 12,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 7
+      "gas:candidate-vibid:2402000677538": 90,
+      "gas:candidate-vibid:2402000677699": 10,
+      "gas:candidate-vibid:2402000643491": 12,
+      "gas:candidate-vibid:2402000678228": 11,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 12,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 498,
-      "Беккер Андрей Владимирович": 19,
-      "Ефремова Надежда Игоревна": 54,
-      "Колесников Алексей Николаевич": 55,
-      "Тарасенко Антон Геннадьевич": 38,
-      "Тришина Марина Александровна": 90,
-      "Чернов Александр Ефимович": 28,
-      "Яшкин Николай Иванович": 103
+      "gas:candidate-vibid:2402000677538": 498,
+      "gas:candidate-vibid:2402000677699": 19,
+      "gas:candidate-vibid:2402000643491": 54,
+      "gas:candidate-vibid:2402000678228": 55,
+      "gas:candidate-vibid:2402000643388": 38,
+      "gas:candidate-vibid:2402000635335": 90,
+      "gas:candidate-vibid:2402000677898": 28,
+      "gas:candidate-vibid:2402000677322": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 165,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 20,
-      "Колесников Алексей Николаевич": 16,
-      "Тарасенко Антон Геннадьевич": 6,
-      "Тришина Марина Александровна": 30,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 24
+      "gas:candidate-vibid:2402000677538": 165,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 20,
+      "gas:candidate-vibid:2402000678228": 16,
+      "gas:candidate-vibid:2402000643388": 6,
+      "gas:candidate-vibid:2402000635335": 30,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 132,
-      "Беккер Андрей Владимирович": 6,
-      "Ефремова Надежда Игоревна": 24,
-      "Колесников Алексей Николаевич": 16,
-      "Тарасенко Антон Геннадьевич": 13,
-      "Тришина Марина Александровна": 33,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 30
+      "gas:candidate-vibid:2402000677538": 132,
+      "gas:candidate-vibid:2402000677699": 6,
+      "gas:candidate-vibid:2402000643491": 24,
+      "gas:candidate-vibid:2402000678228": 16,
+      "gas:candidate-vibid:2402000643388": 13,
+      "gas:candidate-vibid:2402000635335": 33,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 182,
-      "Беккер Андрей Владимирович": 9,
-      "Ефремова Надежда Игоревна": 23,
-      "Колесников Алексей Николаевич": 8,
-      "Тарасенко Антон Геннадьевич": 9,
-      "Тришина Марина Александровна": 48,
-      "Чернов Александр Ефимович": 9,
-      "Яшкин Николай Иванович": 33
+      "gas:candidate-vibid:2402000677538": 182,
+      "gas:candidate-vibid:2402000677699": 9,
+      "gas:candidate-vibid:2402000643491": 23,
+      "gas:candidate-vibid:2402000678228": 8,
+      "gas:candidate-vibid:2402000643388": 9,
+      "gas:candidate-vibid:2402000635335": 48,
+      "gas:candidate-vibid:2402000677898": 9,
+      "gas:candidate-vibid:2402000677322": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 490,
-      "Беккер Андрей Владимирович": 29,
-      "Ефремова Надежда Игоревна": 75,
-      "Колесников Алексей Николаевич": 33,
-      "Тарасенко Антон Геннадьевич": 44,
-      "Тришина Марина Александровна": 119,
-      "Чернов Александр Ефимович": 43,
-      "Яшкин Николай Иванович": 75
+      "gas:candidate-vibid:2402000677538": 490,
+      "gas:candidate-vibid:2402000677699": 29,
+      "gas:candidate-vibid:2402000643491": 75,
+      "gas:candidate-vibid:2402000678228": 33,
+      "gas:candidate-vibid:2402000643388": 44,
+      "gas:candidate-vibid:2402000635335": 119,
+      "gas:candidate-vibid:2402000677898": 43,
+      "gas:candidate-vibid:2402000677322": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 321,
-      "Беккер Андрей Владимирович": 11,
-      "Ефремова Надежда Игоревна": 37,
-      "Колесников Алексей Николаевич": 29,
-      "Тарасенко Антон Геннадьевич": 38,
-      "Тришина Марина Александровна": 53,
-      "Чернов Александр Ефимович": 21,
-      "Яшкин Николай Иванович": 49
+      "gas:candidate-vibid:2402000677538": 321,
+      "gas:candidate-vibid:2402000677699": 11,
+      "gas:candidate-vibid:2402000643491": 37,
+      "gas:candidate-vibid:2402000678228": 29,
+      "gas:candidate-vibid:2402000643388": 38,
+      "gas:candidate-vibid:2402000635335": 53,
+      "gas:candidate-vibid:2402000677898": 21,
+      "gas:candidate-vibid:2402000677322": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594655&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594655&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 123,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 0,
-      "Колесников Алексей Николаевич": 6,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 22,
-      "Чернов Александр Ефимович": 7,
-      "Яшкин Николай Иванович": 26
+      "gas:candidate-vibid:2402000677538": 123,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 0,
+      "gas:candidate-vibid:2402000678228": 6,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 22,
+      "gas:candidate-vibid:2402000677898": 7,
+      "gas:candidate-vibid:2402000677322": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 231,
-      "Беккер Андрей Владимирович": 8,
-      "Ефремова Надежда Игоревна": 26,
-      "Колесников Алексей Николаевич": 9,
-      "Тарасенко Антон Геннадьевич": 18,
-      "Тришина Марина Александровна": 158,
-      "Чернов Александр Ефимович": 6,
-      "Яшкин Николай Иванович": 86
+      "gas:candidate-vibid:2402000677538": 231,
+      "gas:candidate-vibid:2402000677699": 8,
+      "gas:candidate-vibid:2402000643491": 26,
+      "gas:candidate-vibid:2402000678228": 9,
+      "gas:candidate-vibid:2402000643388": 18,
+      "gas:candidate-vibid:2402000635335": 158,
+      "gas:candidate-vibid:2402000677898": 6,
+      "gas:candidate-vibid:2402000677322": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 182,
-      "Беккер Андрей Владимирович": 5,
-      "Ефремова Надежда Игоревна": 21,
-      "Колесников Алексей Николаевич": 12,
-      "Тарасенко Антон Геннадьевич": 28,
-      "Тришина Марина Александровна": 178,
-      "Чернов Александр Ефимович": 8,
-      "Яшкин Николай Иванович": 56
+      "gas:candidate-vibid:2402000677538": 182,
+      "gas:candidate-vibid:2402000677699": 5,
+      "gas:candidate-vibid:2402000643491": 21,
+      "gas:candidate-vibid:2402000678228": 12,
+      "gas:candidate-vibid:2402000643388": 28,
+      "gas:candidate-vibid:2402000635335": 178,
+      "gas:candidate-vibid:2402000677898": 8,
+      "gas:candidate-vibid:2402000677322": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 64,
-      "Беккер Андрей Владимирович": 3,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 30,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 29
+      "gas:candidate-vibid:2402000677538": 64,
+      "gas:candidate-vibid:2402000677699": 3,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 30,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 35,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 15,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 17
+      "gas:candidate-vibid:2402000677538": 35,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 15,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 26,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 35,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 13
+      "gas:candidate-vibid:2402000677538": 26,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 35,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 40,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 3,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 0,
-      "Тришина Марина Александровна": 8,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 40,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 3,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 0,
+      "gas:candidate-vibid:2402000635335": 8,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 41,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 5,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 6,
-      "Чернов Александр Ефимович": 3,
-      "Яшкин Николай Иванович": 25
+      "gas:candidate-vibid:2402000677538": 41,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 5,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 6,
+      "gas:candidate-vibid:2402000677898": 3,
+      "gas:candidate-vibid:2402000677322": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 38,
-      "Беккер Андрей Владимирович": 0,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 2,
-      "Тарасенко Антон Геннадьевич": 3,
-      "Тришина Марина Александровна": 28,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 6
+      "gas:candidate-vibid:2402000677538": 38,
+      "gas:candidate-vibid:2402000677699": 0,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 2,
+      "gas:candidate-vibid:2402000643388": 3,
+      "gas:candidate-vibid:2402000635335": 28,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 46,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 1,
-      "Колесников Алексей Николаевич": 3,
-      "Тарасенко Антон Геннадьевич": 4,
-      "Тришина Марина Александровна": 11,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 13
+      "gas:candidate-vibid:2402000677538": 46,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 1,
+      "gas:candidate-vibid:2402000678228": 3,
+      "gas:candidate-vibid:2402000643388": 4,
+      "gas:candidate-vibid:2402000635335": 11,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 56,
-      "Беккер Андрей Владимирович": 2,
-      "Ефремова Надежда Игоревна": 4,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 7,
-      "Тришина Марина Александровна": 29,
-      "Чернов Александр Ефимович": 2,
-      "Яшкин Николай Иванович": 17
+      "gas:candidate-vibid:2402000677538": 56,
+      "gas:candidate-vibid:2402000677699": 2,
+      "gas:candidate-vibid:2402000643491": 4,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 7,
+      "gas:candidate-vibid:2402000635335": 29,
+      "gas:candidate-vibid:2402000677898": 2,
+      "gas:candidate-vibid:2402000677322": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 102,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 7,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 8,
-      "Тришина Марина Александровна": 13,
-      "Чернов Александр Ефимович": 5,
-      "Яшкин Николай Иванович": 10
+      "gas:candidate-vibid:2402000677538": 102,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 7,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 8,
+      "gas:candidate-vibid:2402000635335": 13,
+      "gas:candidate-vibid:2402000677898": 5,
+      "gas:candidate-vibid:2402000677322": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 31,
-      "Беккер Андрей Владимирович": 1,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 0,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 20,
-      "Чернов Александр Ефимович": 0,
-      "Яшкин Николай Иванович": 14
+      "gas:candidate-vibid:2402000677538": 31,
+      "gas:candidate-vibid:2402000677699": 1,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 0,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 20,
+      "gas:candidate-vibid:2402000677898": 0,
+      "gas:candidate-vibid:2402000677322": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Александр Александрович": 59,
-      "Беккер Андрей Владимирович": 4,
-      "Ефремова Надежда Игоревна": 2,
-      "Колесников Алексей Николаевич": 1,
-      "Тарасенко Антон Геннадьевич": 2,
-      "Тришина Марина Александровна": 26,
-      "Чернов Александр Ефимович": 1,
-      "Яшкин Николай Иванович": 6
+      "gas:candidate-vibid:2402000677538": 59,
+      "gas:candidate-vibid:2402000677699": 4,
+      "gas:candidate-vibid:2402000643491": 2,
+      "gas:candidate-vibid:2402000678228": 1,
+      "gas:candidate-vibid:2402000643388": 2,
+      "gas:candidate-vibid:2402000635335": 26,
+      "gas:candidate-vibid:2402000677898": 1,
+      "gas:candidate-vibid:2402000677322": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000129&tvd=2402000594656&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594656&type=464",
@@ -5785,13 +5785,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 3,
-      "Деньгин Вадим Евгеньевич": 4,
-      "Дондо Сергей Анатольевич": 1,
-      "Костина Марина Васильевна": 16,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 48,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 3,
+      "gas:candidate-vibid:2402000635381": 4,
+      "gas:candidate-vibid:2402000643372": 1,
+      "gas:candidate-vibid:2402000676164": 16,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 48,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -5842,13 +5842,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 22,
-      "Деньгин Вадим Евгеньевич": 31,
-      "Дондо Сергей Анатольевич": 12,
-      "Костина Марина Васильевна": 37,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 179,
-      "Трушков Александр Витальевич": 8
+      "gas:candidate-vibid:2402000677754": 22,
+      "gas:candidate-vibid:2402000635381": 31,
+      "gas:candidate-vibid:2402000643372": 12,
+      "gas:candidate-vibid:2402000676164": 37,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 179,
+      "gas:candidate-vibid:2402000678050": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -5899,13 +5899,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 6,
-      "Дондо Сергей Анатольевич": 4,
-      "Костина Марина Васильевна": 5,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 75,
-      "Трушков Александр Витальевич": 0
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 6,
+      "gas:candidate-vibid:2402000643372": 4,
+      "gas:candidate-vibid:2402000676164": 5,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 75,
+      "gas:candidate-vibid:2402000678050": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -5956,13 +5956,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 12,
-      "Деньгин Вадим Евгеньевич": 32,
-      "Дондо Сергей Анатольевич": 10,
-      "Костина Марина Васильевна": 17,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 98,
-      "Трушков Александр Витальевич": 6
+      "gas:candidate-vibid:2402000677754": 12,
+      "gas:candidate-vibid:2402000635381": 32,
+      "gas:candidate-vibid:2402000643372": 10,
+      "gas:candidate-vibid:2402000676164": 17,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 98,
+      "gas:candidate-vibid:2402000678050": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6013,13 +6013,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 23,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 62,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 207,
-      "Трушков Александр Витальевич": 9
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 23,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 62,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 207,
+      "gas:candidate-vibid:2402000678050": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6070,13 +6070,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 5,
-      "Деньгин Вадим Евгеньевич": 12,
-      "Дондо Сергей Анатольевич": 7,
-      "Костина Марина Васильевна": 33,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 108,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 5,
+      "gas:candidate-vibid:2402000635381": 12,
+      "gas:candidate-vibid:2402000643372": 7,
+      "gas:candidate-vibid:2402000676164": 33,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 108,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6127,13 +6127,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 13,
-      "Деньгин Вадим Евгеньевич": 44,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 40,
-      "Овсянников Олег Борисович": 5,
-      "Скляр Геннадий Иванович": 113,
-      "Трушков Александр Витальевич": 6
+      "gas:candidate-vibid:2402000677754": 13,
+      "gas:candidate-vibid:2402000635381": 44,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 40,
+      "gas:candidate-vibid:2402000677674": 5,
+      "gas:candidate-vibid:2402000677575": 113,
+      "gas:candidate-vibid:2402000678050": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6184,13 +6184,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 0,
-      "Деньгин Вадим Евгеньевич": 1,
-      "Дондо Сергей Анатольевич": 3,
-      "Костина Марина Васильевна": 2,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 36,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 0,
+      "gas:candidate-vibid:2402000635381": 1,
+      "gas:candidate-vibid:2402000643372": 3,
+      "gas:candidate-vibid:2402000676164": 2,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 36,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6241,13 +6241,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 9,
-      "Дондо Сергей Анатольевич": 6,
-      "Костина Марина Васильевна": 13,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 50,
-      "Трушков Александр Витальевич": 0
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 9,
+      "gas:candidate-vibid:2402000643372": 6,
+      "gas:candidate-vibid:2402000676164": 13,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 50,
+      "gas:candidate-vibid:2402000678050": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6298,13 +6298,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 2,
-      "Деньгин Вадим Евгеньевич": 5,
-      "Дондо Сергей Анатольевич": 7,
-      "Костина Марина Васильевна": 10,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 125,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 2,
+      "gas:candidate-vibid:2402000635381": 5,
+      "gas:candidate-vibid:2402000643372": 7,
+      "gas:candidate-vibid:2402000676164": 10,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 125,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6355,13 +6355,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 15,
-      "Дондо Сергей Анатольевич": 3,
-      "Костина Марина Васильевна": 35,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 96,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 15,
+      "gas:candidate-vibid:2402000643372": 3,
+      "gas:candidate-vibid:2402000676164": 35,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 96,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6412,13 +6412,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 13,
-      "Деньгин Вадим Евгеньевич": 18,
-      "Дондо Сергей Анатольевич": 14,
-      "Костина Марина Васильевна": 43,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 122,
-      "Трушков Александр Витальевич": 5
+      "gas:candidate-vibid:2402000677754": 13,
+      "gas:candidate-vibid:2402000635381": 18,
+      "gas:candidate-vibid:2402000643372": 14,
+      "gas:candidate-vibid:2402000676164": 43,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 122,
+      "gas:candidate-vibid:2402000678050": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6469,13 +6469,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 2,
-      "Деньгин Вадим Евгеньевич": 3,
-      "Дондо Сергей Анатольевич": 1,
-      "Костина Марина Васильевна": 2,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 44,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 2,
+      "gas:candidate-vibid:2402000635381": 3,
+      "gas:candidate-vibid:2402000643372": 1,
+      "gas:candidate-vibid:2402000676164": 2,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 44,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6526,13 +6526,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 9,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 28,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 100,
-      "Трушков Александр Витальевич": 6
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 9,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 28,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 100,
+      "gas:candidate-vibid:2402000678050": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6583,13 +6583,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 37,
-      "Деньгин Вадим Евгеньевич": 123,
-      "Дондо Сергей Анатольевич": 40,
-      "Костина Марина Васильевна": 172,
-      "Овсянников Олег Борисович": 9,
-      "Скляр Геннадий Иванович": 480,
-      "Трушков Александр Витальевич": 39
+      "gas:candidate-vibid:2402000677754": 37,
+      "gas:candidate-vibid:2402000635381": 123,
+      "gas:candidate-vibid:2402000643372": 40,
+      "gas:candidate-vibid:2402000676164": 172,
+      "gas:candidate-vibid:2402000677674": 9,
+      "gas:candidate-vibid:2402000677575": 480,
+      "gas:candidate-vibid:2402000678050": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6640,13 +6640,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 12,
-      "Деньгин Вадим Евгеньевич": 74,
-      "Дондо Сергей Анатольевич": 16,
-      "Костина Марина Васильевна": 111,
-      "Овсянников Олег Борисович": 9,
-      "Скляр Геннадий Иванович": 271,
-      "Трушков Александр Витальевич": 28
+      "gas:candidate-vibid:2402000677754": 12,
+      "gas:candidate-vibid:2402000635381": 74,
+      "gas:candidate-vibid:2402000643372": 16,
+      "gas:candidate-vibid:2402000676164": 111,
+      "gas:candidate-vibid:2402000677674": 9,
+      "gas:candidate-vibid:2402000677575": 271,
+      "gas:candidate-vibid:2402000678050": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6697,13 +6697,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 36,
-      "Деньгин Вадим Евгеньевич": 70,
-      "Дондо Сергей Анатольевич": 21,
-      "Костина Марина Васильевна": 108,
-      "Овсянников Олег Борисович": 10,
-      "Скляр Геннадий Иванович": 317,
-      "Трушков Александр Витальевич": 31
+      "gas:candidate-vibid:2402000677754": 36,
+      "gas:candidate-vibid:2402000635381": 70,
+      "gas:candidate-vibid:2402000643372": 21,
+      "gas:candidate-vibid:2402000676164": 108,
+      "gas:candidate-vibid:2402000677674": 10,
+      "gas:candidate-vibid:2402000677575": 317,
+      "gas:candidate-vibid:2402000678050": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6754,13 +6754,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 61,
-      "Дондо Сергей Анатольевич": 16,
-      "Костина Марина Васильевна": 126,
-      "Овсянников Олег Борисович": 9,
-      "Скляр Геннадий Иванович": 391,
-      "Трушков Александр Витальевич": 14
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 61,
+      "gas:candidate-vibid:2402000643372": 16,
+      "gas:candidate-vibid:2402000676164": 126,
+      "gas:candidate-vibid:2402000677674": 9,
+      "gas:candidate-vibid:2402000677575": 391,
+      "gas:candidate-vibid:2402000678050": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594657&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594657&type=464",
@@ -6811,13 +6811,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 24,
-      "Деньгин Вадим Евгеньевич": 41,
-      "Дондо Сергей Анатольевич": 21,
-      "Костина Марина Васильевна": 53,
-      "Овсянников Олег Борисович": 11,
-      "Скляр Геннадий Иванович": 154,
-      "Трушков Александр Витальевич": 10
+      "gas:candidate-vibid:2402000677754": 24,
+      "gas:candidate-vibid:2402000635381": 41,
+      "gas:candidate-vibid:2402000643372": 21,
+      "gas:candidate-vibid:2402000676164": 53,
+      "gas:candidate-vibid:2402000677674": 11,
+      "gas:candidate-vibid:2402000677575": 154,
+      "gas:candidate-vibid:2402000678050": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -6868,13 +6868,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 22,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 30,
-      "Овсянников Олег Борисович": 5,
-      "Скляр Геннадий Иванович": 91,
-      "Трушков Александр Витальевич": 7
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 22,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 30,
+      "gas:candidate-vibid:2402000677674": 5,
+      "gas:candidate-vibid:2402000677575": 91,
+      "gas:candidate-vibid:2402000678050": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -6925,13 +6925,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 21,
-      "Деньгин Вадим Евгеньевич": 62,
-      "Дондо Сергей Анатольевич": 16,
-      "Костина Марина Васильевна": 63,
-      "Овсянников Олег Борисович": 6,
-      "Скляр Геннадий Иванович": 338,
-      "Трушков Александр Витальевич": 20
+      "gas:candidate-vibid:2402000677754": 21,
+      "gas:candidate-vibid:2402000635381": 62,
+      "gas:candidate-vibid:2402000643372": 16,
+      "gas:candidate-vibid:2402000676164": 63,
+      "gas:candidate-vibid:2402000677674": 6,
+      "gas:candidate-vibid:2402000677575": 338,
+      "gas:candidate-vibid:2402000678050": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -6982,13 +6982,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 14,
-      "Деньгин Вадим Евгеньевич": 47,
-      "Дондо Сергей Анатольевич": 18,
-      "Костина Марина Васильевна": 80,
-      "Овсянников Олег Борисович": 7,
-      "Скляр Геннадий Иванович": 256,
-      "Трушков Александр Витальевич": 26
+      "gas:candidate-vibid:2402000677754": 14,
+      "gas:candidate-vibid:2402000635381": 47,
+      "gas:candidate-vibid:2402000643372": 18,
+      "gas:candidate-vibid:2402000676164": 80,
+      "gas:candidate-vibid:2402000677674": 7,
+      "gas:candidate-vibid:2402000677575": 256,
+      "gas:candidate-vibid:2402000678050": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7039,13 +7039,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 18,
-      "Деньгин Вадим Евгеньевич": 49,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 52,
-      "Овсянников Олег Борисович": 7,
-      "Скляр Геннадий Иванович": 302,
-      "Трушков Александр Витальевич": 14
+      "gas:candidate-vibid:2402000677754": 18,
+      "gas:candidate-vibid:2402000635381": 49,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 52,
+      "gas:candidate-vibid:2402000677674": 7,
+      "gas:candidate-vibid:2402000677575": 302,
+      "gas:candidate-vibid:2402000678050": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7096,13 +7096,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 117,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 84,
-      "Овсянников Олег Борисович": 12,
-      "Скляр Геннадий Иванович": 218,
-      "Трушков Александр Витальевич": 30
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 117,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 84,
+      "gas:candidate-vibid:2402000677674": 12,
+      "gas:candidate-vibid:2402000677575": 218,
+      "gas:candidate-vibid:2402000678050": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7153,13 +7153,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 13,
-      "Деньгин Вадим Евгеньевич": 23,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 30,
-      "Овсянников Олег Борисович": 8,
-      "Скляр Геннадий Иванович": 233,
-      "Трушков Александр Витальевич": 8
+      "gas:candidate-vibid:2402000677754": 13,
+      "gas:candidate-vibid:2402000635381": 23,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 30,
+      "gas:candidate-vibid:2402000677674": 8,
+      "gas:candidate-vibid:2402000677575": 233,
+      "gas:candidate-vibid:2402000678050": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7210,13 +7210,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 14,
-      "Деньгин Вадим Евгеньевич": 27,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 29,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 160,
-      "Трушков Александр Витальевич": 6
+      "gas:candidate-vibid:2402000677754": 14,
+      "gas:candidate-vibid:2402000635381": 27,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 29,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 160,
+      "gas:candidate-vibid:2402000678050": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7267,13 +7267,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 24,
-      "Деньгин Вадим Евгеньевич": 61,
-      "Дондо Сергей Анатольевич": 12,
-      "Костина Марина Васильевна": 39,
-      "Овсянников Олег Борисович": 8,
-      "Скляр Геннадий Иванович": 231,
-      "Трушков Александр Витальевич": 19
+      "gas:candidate-vibid:2402000677754": 24,
+      "gas:candidate-vibid:2402000635381": 61,
+      "gas:candidate-vibid:2402000643372": 12,
+      "gas:candidate-vibid:2402000676164": 39,
+      "gas:candidate-vibid:2402000677674": 8,
+      "gas:candidate-vibid:2402000677575": 231,
+      "gas:candidate-vibid:2402000678050": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7324,13 +7324,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 66,
-      "Дондо Сергей Анатольевич": 18,
-      "Костина Марина Васильевна": 116,
-      "Овсянников Олег Борисович": 20,
-      "Скляр Геннадий Иванович": 260,
-      "Трушков Александр Витальевич": 24
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 66,
+      "gas:candidate-vibid:2402000643372": 18,
+      "gas:candidate-vibid:2402000676164": 116,
+      "gas:candidate-vibid:2402000677674": 20,
+      "gas:candidate-vibid:2402000677575": 260,
+      "gas:candidate-vibid:2402000678050": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7381,13 +7381,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 16,
-      "Деньгин Вадим Евгеньевич": 44,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 43,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 174,
-      "Трушков Александр Витальевич": 20
+      "gas:candidate-vibid:2402000677754": 16,
+      "gas:candidate-vibid:2402000635381": 44,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 43,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 174,
+      "gas:candidate-vibid:2402000678050": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7438,13 +7438,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 6,
-      "Деньгин Вадим Евгеньевич": 23,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 13,
-      "Овсянников Олег Борисович": 5,
-      "Скляр Геннадий Иванович": 148,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 6,
+      "gas:candidate-vibid:2402000635381": 23,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 13,
+      "gas:candidate-vibid:2402000677674": 5,
+      "gas:candidate-vibid:2402000677575": 148,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7495,13 +7495,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 3,
-      "Деньгин Вадим Евгеньевич": 15,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 14,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 138,
-      "Трушков Александр Витальевич": 10
+      "gas:candidate-vibid:2402000677754": 3,
+      "gas:candidate-vibid:2402000635381": 15,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 14,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 138,
+      "gas:candidate-vibid:2402000678050": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7552,13 +7552,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 47,
-      "Дондо Сергей Анатольевич": 18,
-      "Костина Марина Васильевна": 53,
-      "Овсянников Олег Борисович": 6,
-      "Скляр Геннадий Иванович": 199,
-      "Трушков Александр Витальевич": 11
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 47,
+      "gas:candidate-vibid:2402000643372": 18,
+      "gas:candidate-vibid:2402000676164": 53,
+      "gas:candidate-vibid:2402000677674": 6,
+      "gas:candidate-vibid:2402000677575": 199,
+      "gas:candidate-vibid:2402000678050": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7609,13 +7609,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 3,
-      "Деньгин Вадим Евгеньевич": 10,
-      "Дондо Сергей Анатольевич": 2,
-      "Костина Марина Васильевна": 21,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 43,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 3,
+      "gas:candidate-vibid:2402000635381": 10,
+      "gas:candidate-vibid:2402000643372": 2,
+      "gas:candidate-vibid:2402000676164": 21,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 43,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7666,13 +7666,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 13,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 17,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 84,
-      "Трушков Александр Витальевич": 9
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 13,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 17,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 84,
+      "gas:candidate-vibid:2402000678050": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7723,13 +7723,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 26,
-      "Деньгин Вадим Евгеньевич": 40,
-      "Дондо Сергей Анатольевич": 26,
-      "Костина Марина Васильевна": 85,
-      "Овсянников Олег Борисович": 15,
-      "Скляр Геннадий Иванович": 208,
-      "Трушков Александр Витальевич": 33
+      "gas:candidate-vibid:2402000677754": 26,
+      "gas:candidate-vibid:2402000635381": 40,
+      "gas:candidate-vibid:2402000643372": 26,
+      "gas:candidate-vibid:2402000676164": 85,
+      "gas:candidate-vibid:2402000677674": 15,
+      "gas:candidate-vibid:2402000677575": 208,
+      "gas:candidate-vibid:2402000678050": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7780,13 +7780,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 53,
-      "Деньгин Вадим Евгеньевич": 152,
-      "Дондо Сергей Анатольевич": 37,
-      "Костина Марина Васильевна": 302,
-      "Овсянников Олег Борисович": 28,
-      "Скляр Геннадий Иванович": 595,
-      "Трушков Александр Витальевич": 55
+      "gas:candidate-vibid:2402000677754": 53,
+      "gas:candidate-vibid:2402000635381": 152,
+      "gas:candidate-vibid:2402000643372": 37,
+      "gas:candidate-vibid:2402000676164": 302,
+      "gas:candidate-vibid:2402000677674": 28,
+      "gas:candidate-vibid:2402000677575": 595,
+      "gas:candidate-vibid:2402000678050": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7837,13 +7837,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 12,
-      "Деньгин Вадим Евгеньевич": 74,
-      "Дондо Сергей Анатольевич": 16,
-      "Костина Марина Васильевна": 102,
-      "Овсянников Олег Борисович": 10,
-      "Скляр Геннадий Иванович": 240,
-      "Трушков Александр Витальевич": 22
+      "gas:candidate-vibid:2402000677754": 12,
+      "gas:candidate-vibid:2402000635381": 74,
+      "gas:candidate-vibid:2402000643372": 16,
+      "gas:candidate-vibid:2402000676164": 102,
+      "gas:candidate-vibid:2402000677674": 10,
+      "gas:candidate-vibid:2402000677575": 240,
+      "gas:candidate-vibid:2402000678050": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594658&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594658&type=464",
@@ -7894,13 +7894,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 44,
-      "Дондо Сергей Анатольевич": 26,
-      "Костина Марина Васильевна": 53,
-      "Овсянников Олег Борисович": 6,
-      "Скляр Геннадий Иванович": 221,
-      "Трушков Александр Витальевич": 18
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 44,
+      "gas:candidate-vibid:2402000643372": 26,
+      "gas:candidate-vibid:2402000676164": 53,
+      "gas:candidate-vibid:2402000677674": 6,
+      "gas:candidate-vibid:2402000677575": 221,
+      "gas:candidate-vibid:2402000678050": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -7951,13 +7951,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 3,
-      "Деньгин Вадим Евгеньевич": 19,
-      "Дондо Сергей Анатольевич": 6,
-      "Костина Марина Васильевна": 13,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 112,
-      "Трушков Александр Витальевич": 5
+      "gas:candidate-vibid:2402000677754": 3,
+      "gas:candidate-vibid:2402000635381": 19,
+      "gas:candidate-vibid:2402000643372": 6,
+      "gas:candidate-vibid:2402000676164": 13,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 112,
+      "gas:candidate-vibid:2402000678050": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8008,13 +8008,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 8,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 21,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 66,
-      "Трушков Александр Витальевич": 6
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 8,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 21,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 66,
+      "gas:candidate-vibid:2402000678050": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8065,13 +8065,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 12,
-      "Дондо Сергей Анатольевич": 7,
-      "Костина Марина Васильевна": 19,
-      "Овсянников Олег Борисович": 5,
-      "Скляр Геннадий Иванович": 83,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 12,
+      "gas:candidate-vibid:2402000643372": 7,
+      "gas:candidate-vibid:2402000676164": 19,
+      "gas:candidate-vibid:2402000677674": 5,
+      "gas:candidate-vibid:2402000677575": 83,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8122,13 +8122,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 1,
-      "Деньгин Вадим Евгеньевич": 10,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 2,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 53,
-      "Трушков Александр Витальевич": 0
+      "gas:candidate-vibid:2402000677754": 1,
+      "gas:candidate-vibid:2402000635381": 10,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 2,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 53,
+      "gas:candidate-vibid:2402000678050": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8179,13 +8179,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 59,
-      "Дондо Сергей Анатольевич": 15,
-      "Костина Марина Васильевна": 122,
-      "Овсянников Олег Борисович": 8,
-      "Скляр Геннадий Иванович": 186,
-      "Трушков Александр Витальевич": 18
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 59,
+      "gas:candidate-vibid:2402000643372": 15,
+      "gas:candidate-vibid:2402000676164": 122,
+      "gas:candidate-vibid:2402000677674": 8,
+      "gas:candidate-vibid:2402000677575": 186,
+      "gas:candidate-vibid:2402000678050": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8236,13 +8236,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 24,
-      "Дондо Сергей Анатольевич": 10,
-      "Костина Марина Васильевна": 29,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 165,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 24,
+      "gas:candidate-vibid:2402000643372": 10,
+      "gas:candidate-vibid:2402000676164": 29,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 165,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8293,13 +8293,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 2,
-      "Деньгин Вадим Евгеньевич": 5,
-      "Дондо Сергей Анатольевич": 4,
-      "Костина Марина Васильевна": 14,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 38,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 2,
+      "gas:candidate-vibid:2402000635381": 5,
+      "gas:candidate-vibid:2402000643372": 4,
+      "gas:candidate-vibid:2402000676164": 14,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 38,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8350,13 +8350,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 2,
-      "Деньгин Вадим Евгеньевич": 6,
-      "Дондо Сергей Анатольевич": 2,
-      "Костина Марина Васильевна": 14,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 27,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 2,
+      "gas:candidate-vibid:2402000635381": 6,
+      "gas:candidate-vibid:2402000643372": 2,
+      "gas:candidate-vibid:2402000676164": 14,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 27,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8407,13 +8407,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 3,
-      "Деньгин Вадим Евгеньевич": 4,
-      "Дондо Сергей Анатольевич": 4,
-      "Костина Марина Васильевна": 16,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 53,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 3,
+      "gas:candidate-vibid:2402000635381": 4,
+      "gas:candidate-vibid:2402000643372": 4,
+      "gas:candidate-vibid:2402000676164": 16,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 53,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8464,13 +8464,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 5,
-      "Деньгин Вадим Евгеньевич": 20,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 23,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 108,
-      "Трушков Александр Витальевич": 7
+      "gas:candidate-vibid:2402000677754": 5,
+      "gas:candidate-vibid:2402000635381": 20,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 23,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 108,
+      "gas:candidate-vibid:2402000678050": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8521,13 +8521,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 11,
-      "Деньгин Вадим Евгеньевич": 26,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 40,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 187,
-      "Трушков Александр Витальевич": 15
+      "gas:candidate-vibid:2402000677754": 11,
+      "gas:candidate-vibid:2402000635381": 26,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 40,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 187,
+      "gas:candidate-vibid:2402000678050": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8578,13 +8578,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 29,
-      "Деньгин Вадим Евгеньевич": 80,
-      "Дондо Сергей Анатольевич": 25,
-      "Костина Марина Васильевна": 188,
-      "Овсянников Олег Борисович": 17,
-      "Скляр Геннадий Иванович": 625,
-      "Трушков Александр Витальевич": 49
+      "gas:candidate-vibid:2402000677754": 29,
+      "gas:candidate-vibid:2402000635381": 80,
+      "gas:candidate-vibid:2402000643372": 25,
+      "gas:candidate-vibid:2402000676164": 188,
+      "gas:candidate-vibid:2402000677674": 17,
+      "gas:candidate-vibid:2402000677575": 625,
+      "gas:candidate-vibid:2402000678050": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594659&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594659&type=464",
@@ -8635,13 +8635,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 45,
-      "Деньгин Вадим Евгеньевич": 99,
-      "Дондо Сергей Анатольевич": 39,
-      "Костина Марина Васильевна": 217,
-      "Овсянников Олег Борисович": 26,
-      "Скляр Геннадий Иванович": 250,
-      "Трушков Александр Витальевич": 64
+      "gas:candidate-vibid:2402000677754": 45,
+      "gas:candidate-vibid:2402000635381": 99,
+      "gas:candidate-vibid:2402000643372": 39,
+      "gas:candidate-vibid:2402000676164": 217,
+      "gas:candidate-vibid:2402000677674": 26,
+      "gas:candidate-vibid:2402000677575": 250,
+      "gas:candidate-vibid:2402000678050": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -8692,13 +8692,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 26,
-      "Деньгин Вадим Евгеньевич": 33,
-      "Дондо Сергей Анатольевич": 19,
-      "Костина Марина Васильевна": 118,
-      "Овсянников Олег Борисович": 22,
-      "Скляр Геннадий Иванович": 163,
-      "Трушков Александр Витальевич": 15
+      "gas:candidate-vibid:2402000677754": 26,
+      "gas:candidate-vibid:2402000635381": 33,
+      "gas:candidate-vibid:2402000643372": 19,
+      "gas:candidate-vibid:2402000676164": 118,
+      "gas:candidate-vibid:2402000677674": 22,
+      "gas:candidate-vibid:2402000677575": 163,
+      "gas:candidate-vibid:2402000678050": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -8749,13 +8749,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 28,
-      "Деньгин Вадим Евгеньевич": 86,
-      "Дондо Сергей Анатольевич": 31,
-      "Костина Марина Васильевна": 180,
-      "Овсянников Олег Борисович": 25,
-      "Скляр Геннадий Иванович": 190,
-      "Трушков Александр Витальевич": 42
+      "gas:candidate-vibid:2402000677754": 28,
+      "gas:candidate-vibid:2402000635381": 86,
+      "gas:candidate-vibid:2402000643372": 31,
+      "gas:candidate-vibid:2402000676164": 180,
+      "gas:candidate-vibid:2402000677674": 25,
+      "gas:candidate-vibid:2402000677575": 190,
+      "gas:candidate-vibid:2402000678050": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -8806,13 +8806,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 46,
-      "Деньгин Вадим Евгеньевич": 107,
-      "Дондо Сергей Анатольевич": 28,
-      "Костина Марина Васильевна": 171,
-      "Овсянников Олег Борисович": 52,
-      "Скляр Геннадий Иванович": 249,
-      "Трушков Александр Витальевич": 60
+      "gas:candidate-vibid:2402000677754": 46,
+      "gas:candidate-vibid:2402000635381": 107,
+      "gas:candidate-vibid:2402000643372": 28,
+      "gas:candidate-vibid:2402000676164": 171,
+      "gas:candidate-vibid:2402000677674": 52,
+      "gas:candidate-vibid:2402000677575": 249,
+      "gas:candidate-vibid:2402000678050": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -8863,13 +8863,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 69,
-      "Дондо Сергей Анатольевич": 24,
-      "Костина Марина Васильевна": 90,
-      "Овсянников Олег Борисович": 17,
-      "Скляр Геннадий Иванович": 215,
-      "Трушков Александр Витальевич": 23
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 69,
+      "gas:candidate-vibid:2402000643372": 24,
+      "gas:candidate-vibid:2402000676164": 90,
+      "gas:candidate-vibid:2402000677674": 17,
+      "gas:candidate-vibid:2402000677575": 215,
+      "gas:candidate-vibid:2402000678050": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -8920,13 +8920,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 14,
-      "Деньгин Вадим Евгеньевич": 17,
-      "Дондо Сергей Анатольевич": 7,
-      "Костина Марина Васильевна": 53,
-      "Овсянников Олег Борисович": 12,
-      "Скляр Геннадий Иванович": 65,
-      "Трушков Александр Витальевич": 13
+      "gas:candidate-vibid:2402000677754": 14,
+      "gas:candidate-vibid:2402000635381": 17,
+      "gas:candidate-vibid:2402000643372": 7,
+      "gas:candidate-vibid:2402000676164": 53,
+      "gas:candidate-vibid:2402000677674": 12,
+      "gas:candidate-vibid:2402000677575": 65,
+      "gas:candidate-vibid:2402000678050": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -8977,13 +8977,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 11,
-      "Деньгин Вадим Евгеньевич": 38,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 42,
-      "Овсянников Олег Борисович": 10,
-      "Скляр Геннадий Иванович": 100,
-      "Трушков Александр Витальевич": 9
+      "gas:candidate-vibid:2402000677754": 11,
+      "gas:candidate-vibid:2402000635381": 38,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 42,
+      "gas:candidate-vibid:2402000677674": 10,
+      "gas:candidate-vibid:2402000677575": 100,
+      "gas:candidate-vibid:2402000678050": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9034,13 +9034,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 13,
-      "Деньгин Вадим Евгеньевич": 32,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 26,
-      "Овсянников Олег Борисович": 5,
-      "Скляр Геннадий Иванович": 116,
-      "Трушков Александр Витальевич": 10
+      "gas:candidate-vibid:2402000677754": 13,
+      "gas:candidate-vibid:2402000635381": 32,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 26,
+      "gas:candidate-vibid:2402000677674": 5,
+      "gas:candidate-vibid:2402000677575": 116,
+      "gas:candidate-vibid:2402000678050": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9091,13 +9091,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 45,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 44,
-      "Овсянников Олег Борисович": 11,
-      "Скляр Геннадий Иванович": 97,
-      "Трушков Александр Витальевич": 15
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 45,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 44,
+      "gas:candidate-vibid:2402000677674": 11,
+      "gas:candidate-vibid:2402000677575": 97,
+      "gas:candidate-vibid:2402000678050": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9148,13 +9148,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 7,
-      "Деньгин Вадим Евгеньевич": 12,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 54,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 112,
-      "Трушков Александр Витальевич": 8
+      "gas:candidate-vibid:2402000677754": 7,
+      "gas:candidate-vibid:2402000635381": 12,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 54,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 112,
+      "gas:candidate-vibid:2402000678050": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9205,13 +9205,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 12,
-      "Деньгин Вадим Евгеньевич": 45,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 41,
-      "Овсянников Олег Борисович": 11,
-      "Скляр Геннадий Иванович": 214,
-      "Трушков Александр Витальевич": 7
+      "gas:candidate-vibid:2402000677754": 12,
+      "gas:candidate-vibid:2402000635381": 45,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 41,
+      "gas:candidate-vibid:2402000677674": 11,
+      "gas:candidate-vibid:2402000677575": 214,
+      "gas:candidate-vibid:2402000678050": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9262,13 +9262,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 21,
-      "Деньгин Вадим Евгеньевич": 63,
-      "Дондо Сергей Анатольевич": 15,
-      "Костина Марина Васильевна": 105,
-      "Овсянников Олег Борисович": 14,
-      "Скляр Геннадий Иванович": 183,
-      "Трушков Александр Витальевич": 15
+      "gas:candidate-vibid:2402000677754": 21,
+      "gas:candidate-vibid:2402000635381": 63,
+      "gas:candidate-vibid:2402000643372": 15,
+      "gas:candidate-vibid:2402000676164": 105,
+      "gas:candidate-vibid:2402000677674": 14,
+      "gas:candidate-vibid:2402000677575": 183,
+      "gas:candidate-vibid:2402000678050": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9319,13 +9319,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 22,
-      "Деньгин Вадим Евгеньевич": 20,
-      "Дондо Сергей Анатольевич": 17,
-      "Костина Марина Васильевна": 42,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 82,
-      "Трушков Александр Витальевич": 7
+      "gas:candidate-vibid:2402000677754": 22,
+      "gas:candidate-vibid:2402000635381": 20,
+      "gas:candidate-vibid:2402000643372": 17,
+      "gas:candidate-vibid:2402000676164": 42,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 82,
+      "gas:candidate-vibid:2402000678050": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9376,13 +9376,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 7,
-      "Деньгин Вадим Евгеньевич": 23,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 16,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 66,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 7,
+      "gas:candidate-vibid:2402000635381": 23,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 16,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 66,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9433,13 +9433,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 11,
-      "Деньгин Вадим Евгеньевич": 17,
-      "Дондо Сергей Анатольевич": 12,
-      "Костина Марина Васильевна": 27,
-      "Овсянников Олег Борисович": 8,
-      "Скляр Геннадий Иванович": 98,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 11,
+      "gas:candidate-vibid:2402000635381": 17,
+      "gas:candidate-vibid:2402000643372": 12,
+      "gas:candidate-vibid:2402000676164": 27,
+      "gas:candidate-vibid:2402000677674": 8,
+      "gas:candidate-vibid:2402000677575": 98,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9490,13 +9490,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 7,
-      "Деньгин Вадим Евгеньевич": 11,
-      "Дондо Сергей Анатольевич": 2,
-      "Костина Марина Васильевна": 22,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 47,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 7,
+      "gas:candidate-vibid:2402000635381": 11,
+      "gas:candidate-vibid:2402000643372": 2,
+      "gas:candidate-vibid:2402000676164": 22,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 47,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594660&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594660&type=464",
@@ -9547,13 +9547,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 28,
-      "Деньгин Вадим Евгеньевич": 101,
-      "Дондо Сергей Анатольевич": 22,
-      "Костина Марина Васильевна": 149,
-      "Овсянников Олег Борисович": 11,
-      "Скляр Геннадий Иванович": 388,
-      "Трушков Александр Витальевич": 48
+      "gas:candidate-vibid:2402000677754": 28,
+      "gas:candidate-vibid:2402000635381": 101,
+      "gas:candidate-vibid:2402000643372": 22,
+      "gas:candidate-vibid:2402000676164": 149,
+      "gas:candidate-vibid:2402000677674": 11,
+      "gas:candidate-vibid:2402000677575": 388,
+      "gas:candidate-vibid:2402000678050": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -9604,13 +9604,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 44,
-      "Деньгин Вадим Евгеньевич": 123,
-      "Дондо Сергей Анатольевич": 43,
-      "Костина Марина Васильевна": 238,
-      "Овсянников Олег Борисович": 17,
-      "Скляр Геннадий Иванович": 515,
-      "Трушков Александр Витальевич": 78
+      "gas:candidate-vibid:2402000677754": 44,
+      "gas:candidate-vibid:2402000635381": 123,
+      "gas:candidate-vibid:2402000643372": 43,
+      "gas:candidate-vibid:2402000676164": 238,
+      "gas:candidate-vibid:2402000677674": 17,
+      "gas:candidate-vibid:2402000677575": 515,
+      "gas:candidate-vibid:2402000678050": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -9661,13 +9661,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 29,
-      "Деньгин Вадим Евгеньевич": 108,
-      "Дондо Сергей Анатольевич": 27,
-      "Костина Марина Васильевна": 168,
-      "Овсянников Олег Борисович": 9,
-      "Скляр Геннадий Иванович": 334,
-      "Трушков Александр Витальевич": 75
+      "gas:candidate-vibid:2402000677754": 29,
+      "gas:candidate-vibid:2402000635381": 108,
+      "gas:candidate-vibid:2402000643372": 27,
+      "gas:candidate-vibid:2402000676164": 168,
+      "gas:candidate-vibid:2402000677674": 9,
+      "gas:candidate-vibid:2402000677575": 334,
+      "gas:candidate-vibid:2402000678050": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -9718,13 +9718,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 34,
-      "Деньгин Вадим Евгеньевич": 92,
-      "Дондо Сергей Анатольевич": 17,
-      "Костина Марина Васильевна": 209,
-      "Овсянников Олег Борисович": 14,
-      "Скляр Геннадий Иванович": 517,
-      "Трушков Александр Витальевич": 58
+      "gas:candidate-vibid:2402000677754": 34,
+      "gas:candidate-vibid:2402000635381": 92,
+      "gas:candidate-vibid:2402000643372": 17,
+      "gas:candidate-vibid:2402000676164": 209,
+      "gas:candidate-vibid:2402000677674": 14,
+      "gas:candidate-vibid:2402000677575": 517,
+      "gas:candidate-vibid:2402000678050": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -9775,13 +9775,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 106,
-      "Дондо Сергей Анатольевич": 21,
-      "Костина Марина Васильевна": 265,
-      "Овсянников Олег Борисович": 7,
-      "Скляр Геннадий Иванович": 374,
-      "Трушков Александр Витальевич": 52
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 106,
+      "gas:candidate-vibid:2402000643372": 21,
+      "gas:candidate-vibid:2402000676164": 265,
+      "gas:candidate-vibid:2402000677674": 7,
+      "gas:candidate-vibid:2402000677575": 374,
+      "gas:candidate-vibid:2402000678050": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -9832,13 +9832,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 43,
-      "Деньгин Вадим Евгеньевич": 129,
-      "Дондо Сергей Анатольевич": 30,
-      "Костина Марина Васильевна": 271,
-      "Овсянников Олег Борисович": 20,
-      "Скляр Геннадий Иванович": 468,
-      "Трушков Александр Витальевич": 49
+      "gas:candidate-vibid:2402000677754": 43,
+      "gas:candidate-vibid:2402000635381": 129,
+      "gas:candidate-vibid:2402000643372": 30,
+      "gas:candidate-vibid:2402000676164": 271,
+      "gas:candidate-vibid:2402000677674": 20,
+      "gas:candidate-vibid:2402000677575": 468,
+      "gas:candidate-vibid:2402000678050": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -9889,13 +9889,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 29,
-      "Деньгин Вадим Евгеньевич": 78,
-      "Дондо Сергей Анатольевич": 24,
-      "Костина Марина Васильевна": 153,
-      "Овсянников Олег Борисович": 12,
-      "Скляр Геннадий Иванович": 345,
-      "Трушков Александр Витальевич": 38
+      "gas:candidate-vibid:2402000677754": 29,
+      "gas:candidate-vibid:2402000635381": 78,
+      "gas:candidate-vibid:2402000643372": 24,
+      "gas:candidate-vibid:2402000676164": 153,
+      "gas:candidate-vibid:2402000677674": 12,
+      "gas:candidate-vibid:2402000677575": 345,
+      "gas:candidate-vibid:2402000678050": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -9946,13 +9946,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 12,
-      "Деньгин Вадим Евгеньевич": 11,
-      "Дондо Сергей Анатольевич": 6,
-      "Костина Марина Васильевна": 18,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 98,
-      "Трушков Александр Витальевич": 7
+      "gas:candidate-vibid:2402000677754": 12,
+      "gas:candidate-vibid:2402000635381": 11,
+      "gas:candidate-vibid:2402000643372": 6,
+      "gas:candidate-vibid:2402000676164": 18,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 98,
+      "gas:candidate-vibid:2402000678050": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10003,13 +10003,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 0,
-      "Дондо Сергей Анатольевич": 1,
-      "Костина Марина Васильевна": 6,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 73,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 0,
+      "gas:candidate-vibid:2402000643372": 1,
+      "gas:candidate-vibid:2402000676164": 6,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 73,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10060,13 +10060,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 5,
-      "Деньгин Вадим Евгеньевич": 29,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 26,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 187,
-      "Трушков Александр Витальевич": 8
+      "gas:candidate-vibid:2402000677754": 5,
+      "gas:candidate-vibid:2402000635381": 29,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 26,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 187,
+      "gas:candidate-vibid:2402000678050": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10117,13 +10117,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 14,
-      "Деньгин Вадим Евгеньевич": 24,
-      "Дондо Сергей Анатольевич": 12,
-      "Костина Марина Васильевна": 70,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 159,
-      "Трушков Александр Витальевич": 16
+      "gas:candidate-vibid:2402000677754": 14,
+      "gas:candidate-vibid:2402000635381": 24,
+      "gas:candidate-vibid:2402000643372": 12,
+      "gas:candidate-vibid:2402000676164": 70,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 159,
+      "gas:candidate-vibid:2402000678050": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10174,13 +10174,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 10,
-      "Деньгин Вадим Евгеньевич": 13,
-      "Дондо Сергей Анатольевич": 3,
-      "Костина Марина Васильевна": 10,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 92,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 10,
+      "gas:candidate-vibid:2402000635381": 13,
+      "gas:candidate-vibid:2402000643372": 3,
+      "gas:candidate-vibid:2402000676164": 10,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 92,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10231,13 +10231,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 0,
-      "Деньгин Вадим Евгеньевич": 13,
-      "Дондо Сергей Анатольевич": 3,
-      "Костина Марина Васильевна": 14,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 151,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 0,
+      "gas:candidate-vibid:2402000635381": 13,
+      "gas:candidate-vibid:2402000643372": 3,
+      "gas:candidate-vibid:2402000676164": 14,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 151,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10288,13 +10288,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 5,
-      "Деньгин Вадим Евгеньевич": 12,
-      "Дондо Сергей Анатольевич": 4,
-      "Костина Марина Васильевна": 17,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 99,
-      "Трушков Александр Витальевич": 0
+      "gas:candidate-vibid:2402000677754": 5,
+      "gas:candidate-vibid:2402000635381": 12,
+      "gas:candidate-vibid:2402000643372": 4,
+      "gas:candidate-vibid:2402000676164": 17,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 99,
+      "gas:candidate-vibid:2402000678050": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10345,13 +10345,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 6,
-      "Деньгин Вадим Евгеньевич": 36,
-      "Дондо Сергей Анатольевич": 7,
-      "Костина Марина Васильевна": 22,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 137,
-      "Трушков Александр Витальевич": 12
+      "gas:candidate-vibid:2402000677754": 6,
+      "gas:candidate-vibid:2402000635381": 36,
+      "gas:candidate-vibid:2402000643372": 7,
+      "gas:candidate-vibid:2402000676164": 22,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 137,
+      "gas:candidate-vibid:2402000678050": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10402,13 +10402,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 18,
-      "Дондо Сергей Анатольевич": 3,
-      "Костина Марина Васильевна": 26,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 102,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 18,
+      "gas:candidate-vibid:2402000643372": 3,
+      "gas:candidate-vibid:2402000676164": 26,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 102,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10459,13 +10459,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 34,
-      "Дондо Сергей Анатольевич": 6,
-      "Костина Марина Васильевна": 40,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 183,
-      "Трушков Александр Витальевич": 8
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 34,
+      "gas:candidate-vibid:2402000643372": 6,
+      "gas:candidate-vibid:2402000676164": 40,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 183,
+      "gas:candidate-vibid:2402000678050": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10516,13 +10516,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 16,
-      "Дондо Сергей Анатольевич": 12,
-      "Костина Марина Васильевна": 23,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 116,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 16,
+      "gas:candidate-vibid:2402000643372": 12,
+      "gas:candidate-vibid:2402000676164": 23,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 116,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10573,13 +10573,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 6,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 24,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 116,
-      "Трушков Александр Витальевич": 7
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 6,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 24,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 116,
+      "gas:candidate-vibid:2402000678050": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10630,13 +10630,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 5,
-      "Деньгин Вадим Евгеньевич": 19,
-      "Дондо Сергей Анатольевич": 0,
-      "Костина Марина Васильевна": 31,
-      "Овсянников Олег Борисович": 0,
-      "Скляр Геннадий Иванович": 128,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 5,
+      "gas:candidate-vibid:2402000635381": 19,
+      "gas:candidate-vibid:2402000643372": 0,
+      "gas:candidate-vibid:2402000676164": 31,
+      "gas:candidate-vibid:2402000677674": 0,
+      "gas:candidate-vibid:2402000677575": 128,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10687,13 +10687,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 5,
-      "Деньгин Вадим Евгеньевич": 21,
-      "Дондо Сергей Анатольевич": 4,
-      "Костина Марина Васильевна": 8,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 60,
-      "Трушков Александр Витальевич": 5
+      "gas:candidate-vibid:2402000677754": 5,
+      "gas:candidate-vibid:2402000635381": 21,
+      "gas:candidate-vibid:2402000643372": 4,
+      "gas:candidate-vibid:2402000676164": 8,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 60,
+      "gas:candidate-vibid:2402000678050": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10744,13 +10744,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 6,
-      "Деньгин Вадим Евгеньевич": 20,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 14,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 81,
-      "Трушков Александр Витальевич": 6
+      "gas:candidate-vibid:2402000677754": 6,
+      "gas:candidate-vibid:2402000635381": 20,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 14,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 81,
+      "gas:candidate-vibid:2402000678050": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10801,13 +10801,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 3,
-      "Деньгин Вадим Евгеньевич": 8,
-      "Дондо Сергей Анатольевич": 1,
-      "Костина Марина Васильевна": 14,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 66,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 3,
+      "gas:candidate-vibid:2402000635381": 8,
+      "gas:candidate-vibid:2402000643372": 1,
+      "gas:candidate-vibid:2402000676164": 14,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 66,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10858,13 +10858,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 2,
-      "Деньгин Вадим Евгеньевич": 11,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 14,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 84,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 2,
+      "gas:candidate-vibid:2402000635381": 11,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 14,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 84,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10915,13 +10915,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 0,
-      "Деньгин Вадим Евгеньевич": 13,
-      "Дондо Сергей Анатольевич": 6,
-      "Костина Марина Васильевна": 29,
-      "Овсянников Олег Борисович": 3,
-      "Скляр Геннадий Иванович": 43,
-      "Трушков Александр Витальевич": 0
+      "gas:candidate-vibid:2402000677754": 0,
+      "gas:candidate-vibid:2402000635381": 13,
+      "gas:candidate-vibid:2402000643372": 6,
+      "gas:candidate-vibid:2402000676164": 29,
+      "gas:candidate-vibid:2402000677674": 3,
+      "gas:candidate-vibid:2402000677575": 43,
+      "gas:candidate-vibid:2402000678050": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -10972,13 +10972,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 22,
-      "Деньгин Вадим Евгеньевич": 54,
-      "Дондо Сергей Анатольевич": 14,
-      "Костина Марина Васильевна": 97,
-      "Овсянников Олег Борисович": 7,
-      "Скляр Геннадий Иванович": 220,
-      "Трушков Александр Витальевич": 9
+      "gas:candidate-vibid:2402000677754": 22,
+      "gas:candidate-vibid:2402000635381": 54,
+      "gas:candidate-vibid:2402000643372": 14,
+      "gas:candidate-vibid:2402000676164": 97,
+      "gas:candidate-vibid:2402000677674": 7,
+      "gas:candidate-vibid:2402000677575": 220,
+      "gas:candidate-vibid:2402000678050": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -11029,13 +11029,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 16,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 13,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 46,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 16,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 13,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 46,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -11086,13 +11086,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 7,
-      "Деньгин Вадим Евгеньевич": 14,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 19,
-      "Овсянников Олег Борисович": 7,
-      "Скляр Геннадий Иванович": 99,
-      "Трушков Александр Витальевич": 3
+      "gas:candidate-vibid:2402000677754": 7,
+      "gas:candidate-vibid:2402000635381": 14,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 19,
+      "gas:candidate-vibid:2402000677674": 7,
+      "gas:candidate-vibid:2402000677575": 99,
+      "gas:candidate-vibid:2402000678050": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594661&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594661&type=464",
@@ -11143,13 +11143,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 22,
-      "Деньгин Вадим Евгеньевич": 56,
-      "Дондо Сергей Анатольевич": 14,
-      "Костина Марина Васильевна": 69,
-      "Овсянников Олег Борисович": 5,
-      "Скляр Геннадий Иванович": 215,
-      "Трушков Александр Витальевич": 18
+      "gas:candidate-vibid:2402000677754": 22,
+      "gas:candidate-vibid:2402000635381": 56,
+      "gas:candidate-vibid:2402000643372": 14,
+      "gas:candidate-vibid:2402000676164": 69,
+      "gas:candidate-vibid:2402000677674": 5,
+      "gas:candidate-vibid:2402000677575": 215,
+      "gas:candidate-vibid:2402000678050": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11200,13 +11200,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 6,
-      "Деньгин Вадим Евгеньевич": 13,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 16,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 93,
-      "Трушков Александр Витальевич": 4
+      "gas:candidate-vibid:2402000677754": 6,
+      "gas:candidate-vibid:2402000635381": 13,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 16,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 93,
+      "gas:candidate-vibid:2402000678050": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11257,13 +11257,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 23,
-      "Деньгин Вадим Евгеньевич": 48,
-      "Дондо Сергей Анатольевич": 22,
-      "Костина Марина Васильевна": 56,
-      "Овсянников Олег Борисович": 9,
-      "Скляр Геннадий Иванович": 249,
-      "Трушков Александр Витальевич": 15
+      "gas:candidate-vibid:2402000677754": 23,
+      "gas:candidate-vibid:2402000635381": 48,
+      "gas:candidate-vibid:2402000643372": 22,
+      "gas:candidate-vibid:2402000676164": 56,
+      "gas:candidate-vibid:2402000677674": 9,
+      "gas:candidate-vibid:2402000677575": 249,
+      "gas:candidate-vibid:2402000678050": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11314,13 +11314,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 5,
-      "Деньгин Вадим Евгеньевич": 20,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 21,
-      "Овсянников Олег Борисович": 6,
-      "Скляр Геннадий Иванович": 95,
-      "Трушков Александр Витальевич": 8
+      "gas:candidate-vibid:2402000677754": 5,
+      "gas:candidate-vibid:2402000635381": 20,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 21,
+      "gas:candidate-vibid:2402000677674": 6,
+      "gas:candidate-vibid:2402000677575": 95,
+      "gas:candidate-vibid:2402000678050": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11371,13 +11371,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 7,
-      "Деньгин Вадим Евгеньевич": 25,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 26,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 160,
-      "Трушков Александр Витальевич": 10
+      "gas:candidate-vibid:2402000677754": 7,
+      "gas:candidate-vibid:2402000635381": 25,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 26,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 160,
+      "gas:candidate-vibid:2402000678050": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11428,13 +11428,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 6,
-      "Деньгин Вадим Евгеньевич": 7,
-      "Дондо Сергей Анатольевич": 8,
-      "Костина Марина Васильевна": 17,
-      "Овсянников Олег Борисович": 5,
-      "Скляр Геннадий Иванович": 135,
-      "Трушков Александр Витальевич": 1
+      "gas:candidate-vibid:2402000677754": 6,
+      "gas:candidate-vibid:2402000635381": 7,
+      "gas:candidate-vibid:2402000643372": 8,
+      "gas:candidate-vibid:2402000676164": 17,
+      "gas:candidate-vibid:2402000677674": 5,
+      "gas:candidate-vibid:2402000677575": 135,
+      "gas:candidate-vibid:2402000678050": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11485,13 +11485,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 22,
-      "Деньгин Вадим Евгеньевич": 60,
-      "Дондо Сергей Анатольевич": 15,
-      "Костина Марина Васильевна": 54,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 210,
-      "Трушков Александр Витальевич": 23
+      "gas:candidate-vibid:2402000677754": 22,
+      "gas:candidate-vibid:2402000635381": 60,
+      "gas:candidate-vibid:2402000643372": 15,
+      "gas:candidate-vibid:2402000676164": 54,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 210,
+      "gas:candidate-vibid:2402000678050": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11542,13 +11542,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 28,
-      "Деньгин Вадим Евгеньевич": 63,
-      "Дондо Сергей Анатольевич": 33,
-      "Костина Марина Васильевна": 103,
-      "Овсянников Олег Борисович": 11,
-      "Скляр Геннадий Иванович": 255,
-      "Трушков Александр Витальевич": 39
+      "gas:candidate-vibid:2402000677754": 28,
+      "gas:candidate-vibid:2402000635381": 63,
+      "gas:candidate-vibid:2402000643372": 33,
+      "gas:candidate-vibid:2402000676164": 103,
+      "gas:candidate-vibid:2402000677674": 11,
+      "gas:candidate-vibid:2402000677575": 255,
+      "gas:candidate-vibid:2402000678050": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11599,13 +11599,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 27,
-      "Деньгин Вадим Евгеньевич": 22,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 34,
-      "Овсянников Олег Борисович": 7,
-      "Скляр Геннадий Иванович": 123,
-      "Трушков Александр Витальевич": 16
+      "gas:candidate-vibid:2402000677754": 27,
+      "gas:candidate-vibid:2402000635381": 22,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 34,
+      "gas:candidate-vibid:2402000677674": 7,
+      "gas:candidate-vibid:2402000677575": 123,
+      "gas:candidate-vibid:2402000678050": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11656,13 +11656,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 48,
-      "Деньгин Вадим Евгеньевич": 159,
-      "Дондо Сергей Анатольевич": 44,
-      "Костина Марина Васильевна": 194,
-      "Овсянников Олег Борисович": 37,
-      "Скляр Геннадий Иванович": 693,
-      "Трушков Александр Витальевич": 64
+      "gas:candidate-vibid:2402000677754": 48,
+      "gas:candidate-vibid:2402000635381": 159,
+      "gas:candidate-vibid:2402000643372": 44,
+      "gas:candidate-vibid:2402000676164": 194,
+      "gas:candidate-vibid:2402000677674": 37,
+      "gas:candidate-vibid:2402000677575": 693,
+      "gas:candidate-vibid:2402000678050": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11713,13 +11713,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 6,
-      "Деньгин Вадим Евгеньевич": 14,
-      "Дондо Сергей Анатольевич": 3,
-      "Костина Марина Васильевна": 17,
-      "Овсянников Олег Борисович": 1,
-      "Скляр Геннадий Иванович": 85,
-      "Трушков Александр Витальевич": 2
+      "gas:candidate-vibid:2402000677754": 6,
+      "gas:candidate-vibid:2402000635381": 14,
+      "gas:candidate-vibid:2402000643372": 3,
+      "gas:candidate-vibid:2402000676164": 17,
+      "gas:candidate-vibid:2402000677674": 1,
+      "gas:candidate-vibid:2402000677575": 85,
+      "gas:candidate-vibid:2402000678050": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11770,13 +11770,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 3,
-      "Деньгин Вадим Евгеньевич": 11,
-      "Дондо Сергей Анатольевич": 2,
-      "Костина Марина Васильевна": 13,
-      "Овсянников Олег Борисович": 2,
-      "Скляр Геннадий Иванович": 73,
-      "Трушков Александр Витальевич": 6
+      "gas:candidate-vibid:2402000677754": 3,
+      "gas:candidate-vibid:2402000635381": 11,
+      "gas:candidate-vibid:2402000643372": 2,
+      "gas:candidate-vibid:2402000676164": 13,
+      "gas:candidate-vibid:2402000677674": 2,
+      "gas:candidate-vibid:2402000677575": 73,
+      "gas:candidate-vibid:2402000678050": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11827,13 +11827,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 42,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 38,
-      "Овсянников Олег Борисович": 7,
-      "Скляр Геннадий Иванович": 129,
-      "Трушков Александр Витальевич": 11
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 42,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 38,
+      "gas:candidate-vibid:2402000677674": 7,
+      "gas:candidate-vibid:2402000677575": 129,
+      "gas:candidate-vibid:2402000678050": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11884,13 +11884,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 15,
-      "Деньгин Вадим Евгеньевич": 49,
-      "Дондо Сергей Анатольевич": 16,
-      "Костина Марина Васильевна": 37,
-      "Овсянников Олег Борисович": 10,
-      "Скляр Геннадий Иванович": 184,
-      "Трушков Александр Витальевич": 11
+      "gas:candidate-vibid:2402000677754": 15,
+      "gas:candidate-vibid:2402000635381": 49,
+      "gas:candidate-vibid:2402000643372": 16,
+      "gas:candidate-vibid:2402000676164": 37,
+      "gas:candidate-vibid:2402000677674": 10,
+      "gas:candidate-vibid:2402000677575": 184,
+      "gas:candidate-vibid:2402000678050": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11941,13 +11941,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 37,
-      "Деньгин Вадим Евгеньевич": 93,
-      "Дондо Сергей Анатольевич": 23,
-      "Костина Марина Васильевна": 169,
-      "Овсянников Олег Борисович": 14,
-      "Скляр Геннадий Иванович": 322,
-      "Трушков Александр Витальевич": 44
+      "gas:candidate-vibid:2402000677754": 37,
+      "gas:candidate-vibid:2402000635381": 93,
+      "gas:candidate-vibid:2402000643372": 23,
+      "gas:candidate-vibid:2402000676164": 169,
+      "gas:candidate-vibid:2402000677674": 14,
+      "gas:candidate-vibid:2402000677575": 322,
+      "gas:candidate-vibid:2402000678050": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -11998,13 +11998,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 16,
-      "Деньгин Вадим Евгеньевич": 31,
-      "Дондо Сергей Анатольевич": 12,
-      "Костина Марина Васильевна": 36,
-      "Овсянников Олег Борисович": 4,
-      "Скляр Геннадий Иванович": 211,
-      "Трушков Александр Витальевич": 8
+      "gas:candidate-vibid:2402000677754": 16,
+      "gas:candidate-vibid:2402000635381": 31,
+      "gas:candidate-vibid:2402000643372": 12,
+      "gas:candidate-vibid:2402000676164": 36,
+      "gas:candidate-vibid:2402000677674": 4,
+      "gas:candidate-vibid:2402000677575": 211,
+      "gas:candidate-vibid:2402000678050": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -12055,13 +12055,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 4,
-      "Деньгин Вадим Евгеньевич": 20,
-      "Дондо Сергей Анатольевич": 10,
-      "Костина Марина Васильевна": 56,
-      "Овсянников Олег Борисович": 6,
-      "Скляр Геннадий Иванович": 99,
-      "Трушков Александр Витальевич": 13
+      "gas:candidate-vibid:2402000677754": 4,
+      "gas:candidate-vibid:2402000635381": 20,
+      "gas:candidate-vibid:2402000643372": 10,
+      "gas:candidate-vibid:2402000676164": 56,
+      "gas:candidate-vibid:2402000677674": 6,
+      "gas:candidate-vibid:2402000677575": 99,
+      "gas:candidate-vibid:2402000678050": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594662&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594662&type=464",
@@ -12112,13 +12112,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 19,
-      "Деньгин Вадим Евгеньевич": 92,
-      "Дондо Сергей Анатольевич": 5,
-      "Костина Марина Васильевна": 86,
-      "Овсянников Олег Борисович": 38,
-      "Скляр Геннадий Иванович": 194,
-      "Трушков Александр Витальевич": 62
+      "gas:candidate-vibid:2402000677754": 19,
+      "gas:candidate-vibid:2402000635381": 92,
+      "gas:candidate-vibid:2402000643372": 5,
+      "gas:candidate-vibid:2402000676164": 86,
+      "gas:candidate-vibid:2402000677674": 38,
+      "gas:candidate-vibid:2402000677575": 194,
+      "gas:candidate-vibid:2402000678050": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12169,13 +12169,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 9,
-      "Деньгин Вадим Евгеньевич": 25,
-      "Дондо Сергей Анатольевич": 7,
-      "Костина Марина Васильевна": 43,
-      "Овсянников Олег Борисович": 23,
-      "Скляр Геннадий Иванович": 122,
-      "Трушков Александр Витальевич": 42
+      "gas:candidate-vibid:2402000677754": 9,
+      "gas:candidate-vibid:2402000635381": 25,
+      "gas:candidate-vibid:2402000643372": 7,
+      "gas:candidate-vibid:2402000676164": 43,
+      "gas:candidate-vibid:2402000677674": 23,
+      "gas:candidate-vibid:2402000677575": 122,
+      "gas:candidate-vibid:2402000678050": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12226,13 +12226,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 38,
-      "Деньгин Вадим Евгеньевич": 135,
-      "Дондо Сергей Анатольевич": 23,
-      "Костина Марина Васильевна": 195,
-      "Овсянников Олег Борисович": 87,
-      "Скляр Геннадий Иванович": 348,
-      "Трушков Александр Витальевич": 101
+      "gas:candidate-vibid:2402000677754": 38,
+      "gas:candidate-vibid:2402000635381": 135,
+      "gas:candidate-vibid:2402000643372": 23,
+      "gas:candidate-vibid:2402000676164": 195,
+      "gas:candidate-vibid:2402000677674": 87,
+      "gas:candidate-vibid:2402000677575": 348,
+      "gas:candidate-vibid:2402000678050": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12283,13 +12283,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 135,
-      "Дондо Сергей Анатольевич": 25,
-      "Костина Марина Васильевна": 199,
-      "Овсянников Олег Борисович": 58,
-      "Скляр Геннадий Иванович": 404,
-      "Трушков Александр Витальевич": 131
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 135,
+      "gas:candidate-vibid:2402000643372": 25,
+      "gas:candidate-vibid:2402000676164": 199,
+      "gas:candidate-vibid:2402000677674": 58,
+      "gas:candidate-vibid:2402000677575": 404,
+      "gas:candidate-vibid:2402000678050": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12340,13 +12340,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 22,
-      "Деньгин Вадим Евгеньевич": 161,
-      "Дондо Сергей Анатольевич": 26,
-      "Костина Марина Васильевна": 142,
-      "Овсянников Олег Борисович": 51,
-      "Скляр Геннадий Иванович": 466,
-      "Трушков Александр Витальевич": 93
+      "gas:candidate-vibid:2402000677754": 22,
+      "gas:candidate-vibid:2402000635381": 161,
+      "gas:candidate-vibid:2402000643372": 26,
+      "gas:candidate-vibid:2402000676164": 142,
+      "gas:candidate-vibid:2402000677674": 51,
+      "gas:candidate-vibid:2402000677575": 466,
+      "gas:candidate-vibid:2402000678050": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12397,13 +12397,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 13,
-      "Деньгин Вадим Евгеньевич": 65,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 66,
-      "Овсянников Олег Борисович": 18,
-      "Скляр Геннадий Иванович": 183,
-      "Трушков Александр Витальевич": 41
+      "gas:candidate-vibid:2402000677754": 13,
+      "gas:candidate-vibid:2402000635381": 65,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 66,
+      "gas:candidate-vibid:2402000677674": 18,
+      "gas:candidate-vibid:2402000677575": 183,
+      "gas:candidate-vibid:2402000678050": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12454,13 +12454,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 18,
-      "Деньгин Вадим Евгеньевич": 99,
-      "Дондо Сергей Анатольевич": 16,
-      "Костина Марина Васильевна": 76,
-      "Овсянников Олег Борисович": 26,
-      "Скляр Геннадий Иванович": 238,
-      "Трушков Александр Витальевич": 81
+      "gas:candidate-vibid:2402000677754": 18,
+      "gas:candidate-vibid:2402000635381": 99,
+      "gas:candidate-vibid:2402000643372": 16,
+      "gas:candidate-vibid:2402000676164": 76,
+      "gas:candidate-vibid:2402000677674": 26,
+      "gas:candidate-vibid:2402000677575": 238,
+      "gas:candidate-vibid:2402000678050": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12511,13 +12511,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 35,
-      "Деньгин Вадим Евгеньевич": 102,
-      "Дондо Сергей Анатольевич": 15,
-      "Костина Марина Васильевна": 154,
-      "Овсянников Олег Борисович": 68,
-      "Скляр Геннадий Иванович": 466,
-      "Трушков Александр Витальевич": 118
+      "gas:candidate-vibid:2402000677754": 35,
+      "gas:candidate-vibid:2402000635381": 102,
+      "gas:candidate-vibid:2402000643372": 15,
+      "gas:candidate-vibid:2402000676164": 154,
+      "gas:candidate-vibid:2402000677674": 68,
+      "gas:candidate-vibid:2402000677575": 466,
+      "gas:candidate-vibid:2402000678050": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12568,13 +12568,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 18,
-      "Деньгин Вадим Евгеньевич": 116,
-      "Дондо Сергей Анатольевич": 15,
-      "Костина Марина Васильевна": 122,
-      "Овсянников Олег Борисович": 58,
-      "Скляр Геннадий Иванович": 406,
-      "Трушков Александр Витальевич": 89
+      "gas:candidate-vibid:2402000677754": 18,
+      "gas:candidate-vibid:2402000635381": 116,
+      "gas:candidate-vibid:2402000643372": 15,
+      "gas:candidate-vibid:2402000676164": 122,
+      "gas:candidate-vibid:2402000677674": 58,
+      "gas:candidate-vibid:2402000677575": 406,
+      "gas:candidate-vibid:2402000678050": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12625,13 +12625,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 28,
-      "Деньгин Вадим Евгеньевич": 140,
-      "Дондо Сергей Анатольевич": 33,
-      "Костина Марина Васильевна": 140,
-      "Овсянников Олег Борисович": 43,
-      "Скляр Геннадий Иванович": 496,
-      "Трушков Александр Витальевич": 136
+      "gas:candidate-vibid:2402000677754": 28,
+      "gas:candidate-vibid:2402000635381": 140,
+      "gas:candidate-vibid:2402000643372": 33,
+      "gas:candidate-vibid:2402000676164": 140,
+      "gas:candidate-vibid:2402000677674": 43,
+      "gas:candidate-vibid:2402000677575": 496,
+      "gas:candidate-vibid:2402000678050": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12682,13 +12682,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 12,
-      "Деньгин Вадим Евгеньевич": 84,
-      "Дондо Сергей Анатольевич": 14,
-      "Костина Марина Васильевна": 45,
-      "Овсянников Олег Борисович": 8,
-      "Скляр Геннадий Иванович": 148,
-      "Трушков Александр Витальевич": 34
+      "gas:candidate-vibid:2402000677754": 12,
+      "gas:candidate-vibid:2402000635381": 84,
+      "gas:candidate-vibid:2402000643372": 14,
+      "gas:candidate-vibid:2402000676164": 45,
+      "gas:candidate-vibid:2402000677674": 8,
+      "gas:candidate-vibid:2402000677575": 148,
+      "gas:candidate-vibid:2402000678050": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12739,13 +12739,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 8,
-      "Деньгин Вадим Евгеньевич": 78,
-      "Дондо Сергей Анатольевич": 10,
-      "Костина Марина Васильевна": 55,
-      "Овсянников Олег Борисович": 25,
-      "Скляр Геннадий Иванович": 189,
-      "Трушков Александр Витальевич": 47
+      "gas:candidate-vibid:2402000677754": 8,
+      "gas:candidate-vibid:2402000635381": 78,
+      "gas:candidate-vibid:2402000643372": 10,
+      "gas:candidate-vibid:2402000676164": 55,
+      "gas:candidate-vibid:2402000677674": 25,
+      "gas:candidate-vibid:2402000677575": 189,
+      "gas:candidate-vibid:2402000678050": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12796,13 +12796,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 26,
-      "Деньгин Вадим Евгеньевич": 178,
-      "Дондо Сергей Анатольевич": 31,
-      "Костина Марина Васильевна": 132,
-      "Овсянников Олег Борисович": 52,
-      "Скляр Геннадий Иванович": 478,
-      "Трушков Александр Витальевич": 99
+      "gas:candidate-vibid:2402000677754": 26,
+      "gas:candidate-vibid:2402000635381": 178,
+      "gas:candidate-vibid:2402000643372": 31,
+      "gas:candidate-vibid:2402000676164": 132,
+      "gas:candidate-vibid:2402000677674": 52,
+      "gas:candidate-vibid:2402000677575": 478,
+      "gas:candidate-vibid:2402000678050": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12853,13 +12853,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 16,
-      "Деньгин Вадим Евгеньевич": 73,
-      "Дондо Сергей Анатольевич": 18,
-      "Костина Марина Васильевна": 81,
-      "Овсянников Олег Борисович": 49,
-      "Скляр Геннадий Иванович": 252,
-      "Трушков Александр Витальевич": 68
+      "gas:candidate-vibid:2402000677754": 16,
+      "gas:candidate-vibid:2402000635381": 73,
+      "gas:candidate-vibid:2402000643372": 18,
+      "gas:candidate-vibid:2402000676164": 81,
+      "gas:candidate-vibid:2402000677674": 49,
+      "gas:candidate-vibid:2402000677575": 252,
+      "gas:candidate-vibid:2402000678050": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12910,13 +12910,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 10,
-      "Деньгин Вадим Евгеньевич": 84,
-      "Дондо Сергей Анатольевич": 14,
-      "Костина Марина Васильевна": 86,
-      "Овсянников Олег Борисович": 38,
-      "Скляр Геннадий Иванович": 234,
-      "Трушков Александр Витальевич": 75
+      "gas:candidate-vibid:2402000677754": 10,
+      "gas:candidate-vibid:2402000635381": 84,
+      "gas:candidate-vibid:2402000643372": 14,
+      "gas:candidate-vibid:2402000676164": 86,
+      "gas:candidate-vibid:2402000677674": 38,
+      "gas:candidate-vibid:2402000677575": 234,
+      "gas:candidate-vibid:2402000678050": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -12967,13 +12967,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 19,
-      "Деньгин Вадим Евгеньевич": 85,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 85,
-      "Овсянников Олег Борисович": 38,
-      "Скляр Геннадий Иванович": 294,
-      "Трушков Александр Витальевич": 68
+      "gas:candidate-vibid:2402000677754": 19,
+      "gas:candidate-vibid:2402000635381": 85,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 85,
+      "gas:candidate-vibid:2402000677674": 38,
+      "gas:candidate-vibid:2402000677575": 294,
+      "gas:candidate-vibid:2402000678050": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13024,13 +13024,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 18,
-      "Деньгин Вадим Евгеньевич": 81,
-      "Дондо Сергей Анатольевич": 10,
-      "Костина Марина Васильевна": 85,
-      "Овсянников Олег Борисович": 23,
-      "Скляр Геннадий Иванович": 271,
-      "Трушков Александр Витальевич": 60
+      "gas:candidate-vibid:2402000677754": 18,
+      "gas:candidate-vibid:2402000635381": 81,
+      "gas:candidate-vibid:2402000643372": 10,
+      "gas:candidate-vibid:2402000676164": 85,
+      "gas:candidate-vibid:2402000677674": 23,
+      "gas:candidate-vibid:2402000677575": 271,
+      "gas:candidate-vibid:2402000678050": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13081,13 +13081,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 71,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 78,
-      "Овсянников Олег Борисович": 26,
-      "Скляр Геннадий Иванович": 255,
-      "Трушков Александр Витальевич": 69
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 71,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 78,
+      "gas:candidate-vibid:2402000677674": 26,
+      "gas:candidate-vibid:2402000677575": 255,
+      "gas:candidate-vibid:2402000678050": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13138,13 +13138,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 26,
-      "Деньгин Вадим Евгеньевич": 169,
-      "Дондо Сергей Анатольевич": 21,
-      "Костина Марина Васильевна": 184,
-      "Овсянников Олег Борисович": 56,
-      "Скляр Геннадий Иванович": 460,
-      "Трушков Александр Витальевич": 178
+      "gas:candidate-vibid:2402000677754": 26,
+      "gas:candidate-vibid:2402000635381": 169,
+      "gas:candidate-vibid:2402000643372": 21,
+      "gas:candidate-vibid:2402000676164": 184,
+      "gas:candidate-vibid:2402000677674": 56,
+      "gas:candidate-vibid:2402000677575": 460,
+      "gas:candidate-vibid:2402000678050": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13195,13 +13195,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 18,
-      "Деньгин Вадим Евгеньевич": 74,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 98,
-      "Овсянников Олег Борисович": 37,
-      "Скляр Геннадий Иванович": 249,
-      "Трушков Александр Витальевич": 66
+      "gas:candidate-vibid:2402000677754": 18,
+      "gas:candidate-vibid:2402000635381": 74,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 98,
+      "gas:candidate-vibid:2402000677674": 37,
+      "gas:candidate-vibid:2402000677575": 249,
+      "gas:candidate-vibid:2402000678050": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13252,13 +13252,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 100,
-      "Дондо Сергей Анатольевич": 15,
-      "Костина Марина Васильевна": 95,
-      "Овсянников Олег Борисович": 42,
-      "Скляр Геннадий Иванович": 363,
-      "Трушков Александр Витальевич": 96
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 100,
+      "gas:candidate-vibid:2402000643372": 15,
+      "gas:candidate-vibid:2402000676164": 95,
+      "gas:candidate-vibid:2402000677674": 42,
+      "gas:candidate-vibid:2402000677575": 363,
+      "gas:candidate-vibid:2402000678050": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13309,13 +13309,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 13,
-      "Деньгин Вадим Евгеньевич": 72,
-      "Дондо Сергей Анатольевич": 12,
-      "Костина Марина Васильевна": 97,
-      "Овсянников Олег Борисович": 38,
-      "Скляр Геннадий Иванович": 203,
-      "Трушков Александр Витальевич": 62
+      "gas:candidate-vibid:2402000677754": 13,
+      "gas:candidate-vibid:2402000635381": 72,
+      "gas:candidate-vibid:2402000643372": 12,
+      "gas:candidate-vibid:2402000676164": 97,
+      "gas:candidate-vibid:2402000677674": 38,
+      "gas:candidate-vibid:2402000677575": 203,
+      "gas:candidate-vibid:2402000678050": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13366,13 +13366,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 26,
-      "Деньгин Вадим Евгеньевич": 140,
-      "Дондо Сергей Анатольевич": 26,
-      "Костина Марина Васильевна": 180,
-      "Овсянников Олег Борисович": 59,
-      "Скляр Геннадий Иванович": 445,
-      "Трушков Александр Витальевич": 171
+      "gas:candidate-vibid:2402000677754": 26,
+      "gas:candidate-vibid:2402000635381": 140,
+      "gas:candidate-vibid:2402000643372": 26,
+      "gas:candidate-vibid:2402000676164": 180,
+      "gas:candidate-vibid:2402000677674": 59,
+      "gas:candidate-vibid:2402000677575": 445,
+      "gas:candidate-vibid:2402000678050": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13423,13 +13423,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 12,
-      "Деньгин Вадим Евгеньевич": 47,
-      "Дондо Сергей Анатольевич": 9,
-      "Костина Марина Васильевна": 60,
-      "Овсянников Олег Борисович": 39,
-      "Скляр Геннадий Иванович": 171,
-      "Трушков Александр Витальевич": 48
+      "gas:candidate-vibid:2402000677754": 12,
+      "gas:candidate-vibid:2402000635381": 47,
+      "gas:candidate-vibid:2402000643372": 9,
+      "gas:candidate-vibid:2402000676164": 60,
+      "gas:candidate-vibid:2402000677674": 39,
+      "gas:candidate-vibid:2402000677575": 171,
+      "gas:candidate-vibid:2402000678050": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13480,13 +13480,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 23,
-      "Деньгин Вадим Евгеньевич": 154,
-      "Дондо Сергей Анатольевич": 25,
-      "Костина Марина Васильевна": 248,
-      "Овсянников Олег Борисович": 75,
-      "Скляр Геннадий Иванович": 431,
-      "Трушков Александр Витальевич": 129
+      "gas:candidate-vibid:2402000677754": 23,
+      "gas:candidate-vibid:2402000635381": 154,
+      "gas:candidate-vibid:2402000643372": 25,
+      "gas:candidate-vibid:2402000676164": 248,
+      "gas:candidate-vibid:2402000677674": 75,
+      "gas:candidate-vibid:2402000677575": 431,
+      "gas:candidate-vibid:2402000678050": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13537,13 +13537,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 27,
-      "Деньгин Вадим Евгеньевич": 170,
-      "Дондо Сергей Анатольевич": 28,
-      "Костина Марина Васильевна": 168,
-      "Овсянников Олег Борисович": 64,
-      "Скляр Геннадий Иванович": 425,
-      "Трушков Александр Витальевич": 142
+      "gas:candidate-vibid:2402000677754": 27,
+      "gas:candidate-vibid:2402000635381": 170,
+      "gas:candidate-vibid:2402000643372": 28,
+      "gas:candidate-vibid:2402000676164": 168,
+      "gas:candidate-vibid:2402000677674": 64,
+      "gas:candidate-vibid:2402000677575": 425,
+      "gas:candidate-vibid:2402000678050": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13594,13 +13594,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 70,
-      "Дондо Сергей Анатольевич": 14,
-      "Костина Марина Васильевна": 75,
-      "Овсянников Олег Борисович": 45,
-      "Скляр Геннадий Иванович": 251,
-      "Трушков Александр Витальевич": 73
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 70,
+      "gas:candidate-vibid:2402000643372": 14,
+      "gas:candidate-vibid:2402000676164": 75,
+      "gas:candidate-vibid:2402000677674": 45,
+      "gas:candidate-vibid:2402000677575": 251,
+      "gas:candidate-vibid:2402000678050": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13651,13 +13651,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 37,
-      "Деньгин Вадим Евгеньевич": 111,
-      "Дондо Сергей Анатольевич": 17,
-      "Костина Марина Васильевна": 145,
-      "Овсянников Олег Борисович": 65,
-      "Скляр Геннадий Иванович": 450,
-      "Трушков Александр Витальевич": 124
+      "gas:candidate-vibid:2402000677754": 37,
+      "gas:candidate-vibid:2402000635381": 111,
+      "gas:candidate-vibid:2402000643372": 17,
+      "gas:candidate-vibid:2402000676164": 145,
+      "gas:candidate-vibid:2402000677674": 65,
+      "gas:candidate-vibid:2402000677575": 450,
+      "gas:candidate-vibid:2402000678050": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13708,13 +13708,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 15,
-      "Деньгин Вадим Евгеньевич": 32,
-      "Дондо Сергей Анатольевич": 4,
-      "Костина Марина Васильевна": 32,
-      "Овсянников Олег Борисович": 43,
-      "Скляр Геннадий Иванович": 177,
-      "Трушков Александр Витальевич": 41
+      "gas:candidate-vibid:2402000677754": 15,
+      "gas:candidate-vibid:2402000635381": 32,
+      "gas:candidate-vibid:2402000643372": 4,
+      "gas:candidate-vibid:2402000676164": 32,
+      "gas:candidate-vibid:2402000677674": 43,
+      "gas:candidate-vibid:2402000677575": 177,
+      "gas:candidate-vibid:2402000678050": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13765,13 +13765,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 150,
-      "Дондо Сергей Анатольевич": 15,
-      "Костина Марина Васильевна": 135,
-      "Овсянников Олег Борисович": 64,
-      "Скляр Геннадий Иванович": 406,
-      "Трушков Александр Витальевич": 117
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 150,
+      "gas:candidate-vibid:2402000643372": 15,
+      "gas:candidate-vibid:2402000676164": 135,
+      "gas:candidate-vibid:2402000677674": 64,
+      "gas:candidate-vibid:2402000677575": 406,
+      "gas:candidate-vibid:2402000678050": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13822,13 +13822,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 25,
-      "Деньгин Вадим Евгеньевич": 167,
-      "Дондо Сергей Анатольевич": 25,
-      "Костина Марина Васильевна": 180,
-      "Овсянников Олег Борисович": 60,
-      "Скляр Геннадий Иванович": 489,
-      "Трушков Александр Витальевич": 127
+      "gas:candidate-vibid:2402000677754": 25,
+      "gas:candidate-vibid:2402000635381": 167,
+      "gas:candidate-vibid:2402000643372": 25,
+      "gas:candidate-vibid:2402000676164": 180,
+      "gas:candidate-vibid:2402000677674": 60,
+      "gas:candidate-vibid:2402000677575": 489,
+      "gas:candidate-vibid:2402000678050": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13879,13 +13879,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 21,
-      "Деньгин Вадим Евгеньевич": 132,
-      "Дондо Сергей Анатольевич": 25,
-      "Костина Марина Васильевна": 150,
-      "Овсянников Олег Борисович": 72,
-      "Скляр Геннадий Иванович": 484,
-      "Трушков Александр Витальевич": 128
+      "gas:candidate-vibid:2402000677754": 21,
+      "gas:candidate-vibid:2402000635381": 132,
+      "gas:candidate-vibid:2402000643372": 25,
+      "gas:candidate-vibid:2402000676164": 150,
+      "gas:candidate-vibid:2402000677674": 72,
+      "gas:candidate-vibid:2402000677575": 484,
+      "gas:candidate-vibid:2402000678050": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13936,13 +13936,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 22,
-      "Деньгин Вадим Евгеньевич": 134,
-      "Дондо Сергей Анатольевич": 18,
-      "Костина Марина Васильевна": 112,
-      "Овсянников Олег Борисович": 50,
-      "Скляр Геннадий Иванович": 420,
-      "Трушков Александр Витальевич": 104
+      "gas:candidate-vibid:2402000677754": 22,
+      "gas:candidate-vibid:2402000635381": 134,
+      "gas:candidate-vibid:2402000643372": 18,
+      "gas:candidate-vibid:2402000676164": 112,
+      "gas:candidate-vibid:2402000677674": 50,
+      "gas:candidate-vibid:2402000677575": 420,
+      "gas:candidate-vibid:2402000678050": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -13993,13 +13993,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 19,
-      "Деньгин Вадим Евгеньевич": 114,
-      "Дондо Сергей Анатольевич": 14,
-      "Костина Марина Васильевна": 134,
-      "Овсянников Олег Борисович": 57,
-      "Скляр Геннадий Иванович": 393,
-      "Трушков Александр Витальевич": 108
+      "gas:candidate-vibid:2402000677754": 19,
+      "gas:candidate-vibid:2402000635381": 114,
+      "gas:candidate-vibid:2402000643372": 14,
+      "gas:candidate-vibid:2402000676164": 134,
+      "gas:candidate-vibid:2402000677674": 57,
+      "gas:candidate-vibid:2402000677575": 393,
+      "gas:candidate-vibid:2402000678050": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -14050,13 +14050,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 25,
-      "Деньгин Вадим Евгеньевич": 160,
-      "Дондо Сергей Анатольевич": 13,
-      "Костина Марина Васильевна": 147,
-      "Овсянников Олег Борисович": 62,
-      "Скляр Геннадий Иванович": 426,
-      "Трушков Александр Витальевич": 92
+      "gas:candidate-vibid:2402000677754": 25,
+      "gas:candidate-vibid:2402000635381": 160,
+      "gas:candidate-vibid:2402000643372": 13,
+      "gas:candidate-vibid:2402000676164": 147,
+      "gas:candidate-vibid:2402000677674": 62,
+      "gas:candidate-vibid:2402000677575": 426,
+      "gas:candidate-vibid:2402000678050": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -14107,13 +14107,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 34,
-      "Деньгин Вадим Евгеньевич": 142,
-      "Дондо Сергей Анатольевич": 18,
-      "Костина Марина Васильевна": 145,
-      "Овсянников Олег Борисович": 53,
-      "Скляр Геннадий Иванович": 449,
-      "Трушков Александр Витальевич": 92
+      "gas:candidate-vibid:2402000677754": 34,
+      "gas:candidate-vibid:2402000635381": 142,
+      "gas:candidate-vibid:2402000643372": 18,
+      "gas:candidate-vibid:2402000676164": 145,
+      "gas:candidate-vibid:2402000677674": 53,
+      "gas:candidate-vibid:2402000677575": 449,
+      "gas:candidate-vibid:2402000678050": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -14164,13 +14164,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 30,
-      "Деньгин Вадим Евгеньевич": 139,
-      "Дондо Сергей Анатольевич": 25,
-      "Костина Марина Васильевна": 130,
-      "Овсянников Олег Борисович": 86,
-      "Скляр Геннадий Иванович": 483,
-      "Трушков Александр Витальевич": 133
+      "gas:candidate-vibid:2402000677754": 30,
+      "gas:candidate-vibid:2402000635381": 139,
+      "gas:candidate-vibid:2402000643372": 25,
+      "gas:candidate-vibid:2402000676164": 130,
+      "gas:candidate-vibid:2402000677674": 86,
+      "gas:candidate-vibid:2402000677575": 483,
+      "gas:candidate-vibid:2402000678050": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -14221,13 +14221,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 14,
-      "Деньгин Вадим Евгеньевич": 125,
-      "Дондо Сергей Анатольевич": 23,
-      "Костина Марина Васильевна": 151,
-      "Овсянников Олег Борисович": 50,
-      "Скляр Геннадий Иванович": 488,
-      "Трушков Александр Витальевич": 98
+      "gas:candidate-vibid:2402000677754": 14,
+      "gas:candidate-vibid:2402000635381": 125,
+      "gas:candidate-vibid:2402000643372": 23,
+      "gas:candidate-vibid:2402000676164": 151,
+      "gas:candidate-vibid:2402000677674": 50,
+      "gas:candidate-vibid:2402000677575": 488,
+      "gas:candidate-vibid:2402000678050": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -14278,13 +14278,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 20,
-      "Деньгин Вадим Евгеньевич": 110,
-      "Дондо Сергей Анатольевич": 11,
-      "Костина Марина Васильевна": 120,
-      "Овсянников Олег Борисович": 71,
-      "Скляр Геннадий Иванович": 394,
-      "Трушков Александр Витальевич": 95
+      "gas:candidate-vibid:2402000677754": 20,
+      "gas:candidate-vibid:2402000635381": 110,
+      "gas:candidate-vibid:2402000643372": 11,
+      "gas:candidate-vibid:2402000676164": 120,
+      "gas:candidate-vibid:2402000677674": 71,
+      "gas:candidate-vibid:2402000677575": 394,
+      "gas:candidate-vibid:2402000678050": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",
@@ -14335,13 +14335,13 @@ export const duma_2016_uik_463_region_40_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Васильев Антон Викторович": 17,
-      "Деньгин Вадим Евгеньевич": 68,
-      "Дондо Сергей Анатольевич": 16,
-      "Костина Марина Васильевна": 60,
-      "Овсянников Олег Борисович": 22,
-      "Скляр Геннадий Иванович": 179,
-      "Трушков Александр Витальевич": 39
+      "gas:candidate-vibid:2402000677754": 17,
+      "gas:candidate-vibid:2402000635381": 68,
+      "gas:candidate-vibid:2402000643372": 16,
+      "gas:candidate-vibid:2402000676164": 60,
+      "gas:candidate-vibid:2402000677674": 22,
+      "gas:candidate-vibid:2402000677575": 179,
+      "gas:candidate-vibid:2402000678050": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaluga?action=show&root=1000130&tvd=2402000594663&vrn=100100067795849&region=40&global=&sub_region=40&prver=0&pronetvd=null&vibid=2402000594663&type=464",

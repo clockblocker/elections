@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 75,
-      "Дерябкин Виктор Ефимович": 164,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 15,
-      "Малыхин Сергей Викторович": 29,
-      "Пахолков Олег Владимирович": 33,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 75,
+      "gas:candidate-vibid:4614057216679": 164,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 15,
+      "gas:candidate-vibid:4614057215977": 29,
+      "gas:candidate-vibid:4614057216667": 33,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 22,
-      "Дерябкин Виктор Ефимович": 19,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 7,
-      "Пахолков Олег Владимирович": 5,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 22,
+      "gas:candidate-vibid:4614057216679": 19,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 7,
+      "gas:candidate-vibid:4614057216667": 5,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 27,
-      "Дерябкин Виктор Ефимович": 59,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 9,
-      "Пахолков Олег Владимирович": 10,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 27,
+      "gas:candidate-vibid:4614057216679": 59,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 9,
+      "gas:candidate-vibid:4614057216667": 10,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 175,
-      "Дерябкин Виктор Ефимович": 154,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 31,
-      "Пахолков Олег Владимирович": 62,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 16
+      "gas:candidate-vibid:4614057216263": 175,
+      "gas:candidate-vibid:4614057216679": 154,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 31,
+      "gas:candidate-vibid:4614057216667": 62,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 40,
-      "Дерябкин Виктор Ефимович": 116,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 19,
-      "Пахолков Олег Владимирович": 17,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 9
+      "gas:candidate-vibid:4614057216263": 40,
+      "gas:candidate-vibid:4614057216679": 116,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 19,
+      "gas:candidate-vibid:4614057216667": 17,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 167,
-      "Дерябкин Виктор Ефимович": 175,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 34,
-      "Пахолков Олег Владимирович": 45,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 167,
+      "gas:candidate-vibid:4614057216679": 175,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 34,
+      "gas:candidate-vibid:4614057216667": 45,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 39,
-      "Дерябкин Виктор Ефимович": 84,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 8,
-      "Малыхин Сергей Викторович": 7,
-      "Пахолков Олег Владимирович": 23,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 39,
+      "gas:candidate-vibid:4614057216679": 84,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 8,
+      "gas:candidate-vibid:4614057215977": 7,
+      "gas:candidate-vibid:4614057216667": 23,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 71,
-      "Дерябкин Виктор Ефимович": 574,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 8,
-      "Малыхин Сергей Викторович": 38,
-      "Пахолков Олег Владимирович": 90,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 71,
+      "gas:candidate-vibid:4614057216679": 574,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 8,
+      "gas:candidate-vibid:4614057215977": 38,
+      "gas:candidate-vibid:4614057216667": 90,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 29,
-      "Дерябкин Виктор Ефимович": 106,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 15,
-      "Пахолков Олег Владимирович": 15,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 2
+      "gas:candidate-vibid:4614057216263": 29,
+      "gas:candidate-vibid:4614057216679": 106,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 15,
+      "gas:candidate-vibid:4614057216667": 15,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 41,
-      "Дерябкин Виктор Ефимович": 56,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 8,
-      "Пахолков Олег Владимирович": 27,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 41,
+      "gas:candidate-vibid:4614057216679": 56,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 8,
+      "gas:candidate-vibid:4614057216667": 27,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 31,
-      "Дерябкин Виктор Ефимович": 59,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 7,
-      "Пахолков Олег Владимирович": 4,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 31,
+      "gas:candidate-vibid:4614057216679": 59,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 7,
+      "gas:candidate-vibid:4614057216667": 4,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 63,
-      "Дерябкин Виктор Ефимович": 58,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 3,
-      "Пахолков Олег Владимирович": 4,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 63,
+      "gas:candidate-vibid:4614057216679": 58,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 3,
+      "gas:candidate-vibid:4614057216667": 4,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 18,
-      "Дерябкин Виктор Ефимович": 24,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 4,
-      "Пахолков Олег Владимирович": 2,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 18,
+      "gas:candidate-vibid:4614057216679": 24,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 4,
+      "gas:candidate-vibid:4614057216667": 2,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 112,
-      "Дерябкин Виктор Ефимович": 160,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 41,
-      "Пахолков Олег Владимирович": 66,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 13
+      "gas:candidate-vibid:4614057216263": 112,
+      "gas:candidate-vibid:4614057216679": 160,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 41,
+      "gas:candidate-vibid:4614057216667": 66,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 116,
-      "Дерябкин Виктор Ефимович": 242,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 30,
-      "Пахолков Олег Владимирович": 85,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 116,
+      "gas:candidate-vibid:4614057216679": 242,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 30,
+      "gas:candidate-vibid:4614057216667": 85,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 125,
-      "Дерябкин Виктор Ефимович": 208,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 40,
-      "Пахолков Олег Владимирович": 87,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 16
+      "gas:candidate-vibid:4614057216263": 125,
+      "gas:candidate-vibid:4614057216679": 208,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 40,
+      "gas:candidate-vibid:4614057216667": 87,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455496&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455496&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 107,
-      "Дерябкин Виктор Ефимович": 325,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 15,
-      "Малыхин Сергей Викторович": 56,
-      "Пахолков Олег Владимирович": 116,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 18
+      "gas:candidate-vibid:4614057216263": 107,
+      "gas:candidate-vibid:4614057216679": 325,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 15,
+      "gas:candidate-vibid:4614057215977": 56,
+      "gas:candidate-vibid:4614057216667": 116,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 136,
-      "Дерябкин Виктор Ефимович": 310,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 60,
-      "Пахолков Олег Владимирович": 95,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 136,
+      "gas:candidate-vibid:4614057216679": 310,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 60,
+      "gas:candidate-vibid:4614057216667": 95,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 131,
-      "Дерябкин Виктор Ефимович": 328,
-      "Кошельников Юрий Викторович": 13,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 66,
-      "Пахолков Олег Владимирович": 117,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 21
+      "gas:candidate-vibid:4614057216263": 131,
+      "gas:candidate-vibid:4614057216679": 328,
+      "gas:candidate-vibid:4614057218528": 13,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 66,
+      "gas:candidate-vibid:4614057216667": 117,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 93,
-      "Дерябкин Виктор Ефимович": 279,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 32,
-      "Пахолков Олег Владимирович": 55,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 93,
+      "gas:candidate-vibid:4614057216679": 279,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 32,
+      "gas:candidate-vibid:4614057216667": 55,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 51,
-      "Дерябкин Виктор Ефимович": 346,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 17,
-      "Пахолков Олег Владимирович": 29,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 9
+      "gas:candidate-vibid:4614057216263": 51,
+      "gas:candidate-vibid:4614057216679": 346,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 17,
+      "gas:candidate-vibid:4614057216667": 29,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 47,
-      "Дерябкин Виктор Ефимович": 151,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 0,
-      "Малыхин Сергей Викторович": 26,
-      "Пахолков Олег Владимирович": 47,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 47,
+      "gas:candidate-vibid:4614057216679": 151,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 0,
+      "gas:candidate-vibid:4614057215977": 26,
+      "gas:candidate-vibid:4614057216667": 47,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 48,
-      "Дерябкин Виктор Ефимович": 262,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 7,
-      "Малыхин Сергей Викторович": 9,
-      "Пахолков Олег Владимирович": 28,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 48,
+      "gas:candidate-vibid:4614057216679": 262,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 7,
+      "gas:candidate-vibid:4614057215977": 9,
+      "gas:candidate-vibid:4614057216667": 28,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 41,
-      "Дерябкин Виктор Ефимович": 130,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 31,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 9
+      "gas:candidate-vibid:4614057216263": 41,
+      "gas:candidate-vibid:4614057216679": 130,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 31,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 47,
-      "Дерябкин Виктор Ефимович": 230,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 11,
-      "Пахолков Олег Владимирович": 42,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 47,
+      "gas:candidate-vibid:4614057216679": 230,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 11,
+      "gas:candidate-vibid:4614057216667": 42,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 49,
-      "Дерябкин Виктор Ефимович": 169,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 18,
-      "Пахолков Олег Владимирович": 50,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 17
+      "gas:candidate-vibid:4614057216263": 49,
+      "gas:candidate-vibid:4614057216679": 169,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 18,
+      "gas:candidate-vibid:4614057216667": 50,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 60,
-      "Дерябкин Виктор Ефимович": 184,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 23,
-      "Малыхин Сергей Викторович": 23,
-      "Пахолков Олег Владимирович": 28,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 14
+      "gas:candidate-vibid:4614057216263": 60,
+      "gas:candidate-vibid:4614057216679": 184,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 23,
+      "gas:candidate-vibid:4614057215977": 23,
+      "gas:candidate-vibid:4614057216667": 28,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455497&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455497&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 90,
-      "Дерябкин Виктор Ефимович": 142,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 28,
-      "Пахолков Олег Владимирович": 68,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 18
+      "gas:candidate-vibid:4614057216263": 90,
+      "gas:candidate-vibid:4614057216679": 142,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 28,
+      "gas:candidate-vibid:4614057216667": 68,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 14,
-      "Дерябкин Виктор Ефимович": 74,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 25,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 14,
+      "gas:candidate-vibid:4614057216679": 74,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 25,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 36,
-      "Дерябкин Виктор Ефимович": 300,
-      "Кошельников Юрий Викторович": 9,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 24,
-      "Пахолков Олег Владимирович": 41,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 36,
+      "gas:candidate-vibid:4614057216679": 300,
+      "gas:candidate-vibid:4614057218528": 9,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 24,
+      "gas:candidate-vibid:4614057216667": 41,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 51,
-      "Дерябкин Виктор Ефимович": 256,
-      "Кошельников Юрий Викторович": 8,
-      "Лютов Алексей Павлович": 29,
-      "Малыхин Сергей Викторович": 21,
-      "Пахолков Олег Владимирович": 36,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 51,
+      "gas:candidate-vibid:4614057216679": 256,
+      "gas:candidate-vibid:4614057218528": 8,
+      "gas:candidate-vibid:4614057219054": 29,
+      "gas:candidate-vibid:4614057215977": 21,
+      "gas:candidate-vibid:4614057216667": 36,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 54,
-      "Дерябкин Виктор Ефимович": 85,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 62,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 9
+      "gas:candidate-vibid:4614057216263": 54,
+      "gas:candidate-vibid:4614057216679": 85,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 62,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 23,
-      "Дерябкин Виктор Ефимович": 60,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 7,
-      "Пахолков Олег Владимирович": 19,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 23,
+      "gas:candidate-vibid:4614057216679": 60,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 7,
+      "gas:candidate-vibid:4614057216667": 19,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 28,
-      "Дерябкин Виктор Ефимович": 175,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 56,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 28,
+      "gas:candidate-vibid:4614057216679": 175,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 56,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 86,
-      "Дерябкин Виктор Ефимович": 213,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 8,
-      "Малыхин Сергей Викторович": 42,
-      "Пахолков Олег Владимирович": 83,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 86,
+      "gas:candidate-vibid:4614057216679": 213,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 8,
+      "gas:candidate-vibid:4614057215977": 42,
+      "gas:candidate-vibid:4614057216667": 83,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 147,
-      "Дерябкин Виктор Ефимович": 672,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 52,
-      "Пахолков Олег Владимирович": 98,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 147,
+      "gas:candidate-vibid:4614057216679": 672,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 52,
+      "gas:candidate-vibid:4614057216667": 98,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 36,
-      "Дерябкин Виктор Ефимович": 90,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 24,
-      "Пахолков Олег Владимирович": 40,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 36,
+      "gas:candidate-vibid:4614057216679": 90,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 24,
+      "gas:candidate-vibid:4614057216667": 40,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 105,
-      "Дерябкин Виктор Ефимович": 194,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 7,
-      "Малыхин Сергей Викторович": 49,
-      "Пахолков Олег Владимирович": 102,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 105,
+      "gas:candidate-vibid:4614057216679": 194,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 7,
+      "gas:candidate-vibid:4614057215977": 49,
+      "gas:candidate-vibid:4614057216667": 102,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 116,
-      "Дерябкин Виктор Ефимович": 233,
-      "Кошельников Юрий Викторович": 13,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 50,
-      "Пахолков Олег Владимирович": 102,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 116,
+      "gas:candidate-vibid:4614057216679": 233,
+      "gas:candidate-vibid:4614057218528": 13,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 50,
+      "gas:candidate-vibid:4614057216667": 102,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 21,
-      "Дерябкин Виктор Ефимович": 46,
-      "Кошельников Юрий Викторович": 1,
-      "Лютов Алексей Павлович": 7,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 28,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 21,
+      "gas:candidate-vibid:4614057216679": 46,
+      "gas:candidate-vibid:4614057218528": 1,
+      "gas:candidate-vibid:4614057219054": 7,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 28,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 64,
-      "Дерябкин Виктор Ефимович": 124,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 17,
-      "Малыхин Сергей Викторович": 52,
-      "Пахолков Олег Владимирович": 177,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 12
+      "gas:candidate-vibid:4614057216263": 64,
+      "gas:candidate-vibid:4614057216679": 124,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 17,
+      "gas:candidate-vibid:4614057215977": 52,
+      "gas:candidate-vibid:4614057216667": 177,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 82,
-      "Дерябкин Виктор Ефимович": 237,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 29,
-      "Пахолков Олег Владимирович": 56,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 82,
+      "gas:candidate-vibid:4614057216679": 237,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 29,
+      "gas:candidate-vibid:4614057216667": 56,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 22,
-      "Дерябкин Виктор Ефимович": 75,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 0,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 49,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 22,
+      "gas:candidate-vibid:4614057216679": 75,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 0,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 49,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 7,
-      "Дерябкин Виктор Ефимович": 53,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 17,
-      "Пахолков Олег Владимирович": 27,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 2
+      "gas:candidate-vibid:4614057216263": 7,
+      "gas:candidate-vibid:4614057216679": 53,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 17,
+      "gas:candidate-vibid:4614057216667": 27,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 21,
-      "Дерябкин Виктор Ефимович": 141,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 34,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 21,
+      "gas:candidate-vibid:4614057216679": 141,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 34,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 31,
-      "Дерябкин Виктор Ефимович": 222,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 15,
-      "Пахолков Олег Владимирович": 43,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 31,
+      "gas:candidate-vibid:4614057216679": 222,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 15,
+      "gas:candidate-vibid:4614057216667": 43,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 38,
-      "Дерябкин Виктор Ефимович": 134,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 11,
-      "Пахолков Олег Владимирович": 56,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 38,
+      "gas:candidate-vibid:4614057216679": 134,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 11,
+      "gas:candidate-vibid:4614057216667": 56,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 130,
-      "Дерябкин Виктор Ефимович": 193,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 23,
-      "Пахолков Олег Владимирович": 50,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 130,
+      "gas:candidate-vibid:4614057216679": 193,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 23,
+      "gas:candidate-vibid:4614057216667": 50,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455498&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455498&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 23,
-      "Дерябкин Виктор Ефимович": 64,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 7,
-      "Малыхин Сергей Викторович": 20,
-      "Пахолков Олег Владимирович": 62,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 23,
+      "gas:candidate-vibid:4614057216679": 64,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 7,
+      "gas:candidate-vibid:4614057215977": 20,
+      "gas:candidate-vibid:4614057216667": 62,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 55,
-      "Дерябкин Виктор Ефимович": 109,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 33,
-      "Пахолков Олег Владимирович": 83,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 55,
+      "gas:candidate-vibid:4614057216679": 109,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 33,
+      "gas:candidate-vibid:4614057216667": 83,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 22,
-      "Дерябкин Виктор Ефимович": 50,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 1,
-      "Малыхин Сергей Викторович": 15,
-      "Пахолков Олег Владимирович": 12,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 22,
+      "gas:candidate-vibid:4614057216679": 50,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 1,
+      "gas:candidate-vibid:4614057215977": 15,
+      "gas:candidate-vibid:4614057216667": 12,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 24,
-      "Дерябкин Виктор Ефимович": 89,
-      "Кошельников Юрий Викторович": 1,
-      "Лютов Алексей Павлович": 8,
-      "Малыхин Сергей Викторович": 7,
-      "Пахолков Олег Владимирович": 11,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 24,
+      "gas:candidate-vibid:4614057216679": 89,
+      "gas:candidate-vibid:4614057218528": 1,
+      "gas:candidate-vibid:4614057219054": 8,
+      "gas:candidate-vibid:4614057215977": 7,
+      "gas:candidate-vibid:4614057216667": 11,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 32,
-      "Дерябкин Виктор Ефимович": 136,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 17,
-      "Пахолков Олег Владимирович": 78,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 32,
+      "gas:candidate-vibid:4614057216679": 136,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 17,
+      "gas:candidate-vibid:4614057216667": 78,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 35,
-      "Дерябкин Виктор Ефимович": 192,
-      "Кошельников Юрий Викторович": 12,
-      "Лютов Алексей Павлович": 19,
-      "Малыхин Сергей Викторович": 32,
-      "Пахолков Олег Владимирович": 64,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 35,
+      "gas:candidate-vibid:4614057216679": 192,
+      "gas:candidate-vibid:4614057218528": 12,
+      "gas:candidate-vibid:4614057219054": 19,
+      "gas:candidate-vibid:4614057215977": 32,
+      "gas:candidate-vibid:4614057216667": 64,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 19,
-      "Дерябкин Виктор Ефимович": 160,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 21,
-      "Пахолков Олег Владимирович": 72,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 19,
+      "gas:candidate-vibid:4614057216679": 160,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 21,
+      "gas:candidate-vibid:4614057216667": 72,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 35,
-      "Дерябкин Виктор Ефимович": 245,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 14,
-      "Малыхин Сергей Викторович": 31,
-      "Пахолков Олег Владимирович": 98,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 17
+      "gas:candidate-vibid:4614057216263": 35,
+      "gas:candidate-vibid:4614057216679": 245,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 14,
+      "gas:candidate-vibid:4614057215977": 31,
+      "gas:candidate-vibid:4614057216667": 98,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 41,
-      "Дерябкин Виктор Ефимович": 177,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 20,
-      "Малыхин Сергей Викторович": 17,
-      "Пахолков Олег Владимирович": 56,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 41,
+      "gas:candidate-vibid:4614057216679": 177,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 20,
+      "gas:candidate-vibid:4614057215977": 17,
+      "gas:candidate-vibid:4614057216667": 56,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 34,
-      "Дерябкин Виктор Ефимович": 243,
-      "Кошельников Юрий Викторович": 15,
-      "Лютов Алексей Павлович": 14,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 105,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 34,
+      "gas:candidate-vibid:4614057216679": 243,
+      "gas:candidate-vibid:4614057218528": 15,
+      "gas:candidate-vibid:4614057219054": 14,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 105,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 99,
-      "Дерябкин Виктор Ефимович": 201,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 28,
-      "Пахолков Олег Владимирович": 54,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 16
+      "gas:candidate-vibid:4614057216263": 99,
+      "gas:candidate-vibid:4614057216679": 201,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 28,
+      "gas:candidate-vibid:4614057216667": 54,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 21,
-      "Дерябкин Виктор Ефимович": 80,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 13,
-      "Пахолков Олег Владимирович": 39,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 2
+      "gas:candidate-vibid:4614057216263": 21,
+      "gas:candidate-vibid:4614057216679": 80,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 13,
+      "gas:candidate-vibid:4614057216667": 39,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 51,
-      "Дерябкин Виктор Ефимович": 172,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 140,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 51,
+      "gas:candidate-vibid:4614057216679": 172,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 140,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 27,
-      "Дерябкин Виктор Ефимович": 245,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 18,
-      "Пахолков Олег Владимирович": 101,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 27,
+      "gas:candidate-vibid:4614057216679": 245,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 18,
+      "gas:candidate-vibid:4614057216667": 101,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 13,
-      "Дерябкин Виктор Ефимович": 89,
-      "Кошельников Юрий Викторович": 1,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 15,
-      "Пахолков Олег Владимирович": 41,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 0
+      "gas:candidate-vibid:4614057216263": 13,
+      "gas:candidate-vibid:4614057216679": 89,
+      "gas:candidate-vibid:4614057218528": 1,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 15,
+      "gas:candidate-vibid:4614057216667": 41,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 19,
-      "Дерябкин Виктор Ефимович": 74,
-      "Кошельников Юрий Викторович": 1,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 15,
-      "Пахолков Олег Владимирович": 61,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 19,
+      "gas:candidate-vibid:4614057216679": 74,
+      "gas:candidate-vibid:4614057218528": 1,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 15,
+      "gas:candidate-vibid:4614057216667": 61,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 58,
-      "Дерябкин Виктор Ефимович": 247,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 35,
-      "Пахолков Олег Владимирович": 96,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 58,
+      "gas:candidate-vibid:4614057216679": 247,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 35,
+      "gas:candidate-vibid:4614057216667": 96,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 37,
-      "Дерябкин Виктор Ефимович": 129,
-      "Кошельников Юрий Викторович": 9,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 19,
-      "Пахолков Олег Владимирович": 72,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 37,
+      "gas:candidate-vibid:4614057216679": 129,
+      "gas:candidate-vibid:4614057218528": 9,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 19,
+      "gas:candidate-vibid:4614057216667": 72,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 20,
-      "Дерябкин Виктор Ефимович": 75,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 7,
-      "Малыхин Сергей Викторович": 69,
-      "Пахолков Олег Владимирович": 28,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 20,
+      "gas:candidate-vibid:4614057216679": 75,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 7,
+      "gas:candidate-vibid:4614057215977": 69,
+      "gas:candidate-vibid:4614057216667": 28,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 9,
-      "Дерябкин Виктор Ефимович": 53,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 28,
-      "Пахолков Олег Владимирович": 26,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 9,
+      "gas:candidate-vibid:4614057216679": 53,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 28,
+      "gas:candidate-vibid:4614057216667": 26,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 80,
-      "Дерябкин Виктор Ефимович": 315,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 22,
-      "Малыхин Сергей Викторович": 62,
-      "Пахолков Олег Владимирович": 126,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 80,
+      "gas:candidate-vibid:4614057216679": 315,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 22,
+      "gas:candidate-vibid:4614057215977": 62,
+      "gas:candidate-vibid:4614057216667": 126,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 23,
-      "Дерябкин Виктор Ефимович": 90,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 27,
-      "Пахолков Олег Владимирович": 62,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 23,
+      "gas:candidate-vibid:4614057216679": 90,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 27,
+      "gas:candidate-vibid:4614057216667": 62,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 40,
-      "Дерябкин Виктор Ефимович": 390,
-      "Кошельников Юрий Викторович": 9,
-      "Лютов Алексей Павлович": 8,
-      "Малыхин Сергей Викторович": 43,
-      "Пахолков Олег Владимирович": 73,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 40,
+      "gas:candidate-vibid:4614057216679": 390,
+      "gas:candidate-vibid:4614057218528": 9,
+      "gas:candidate-vibid:4614057219054": 8,
+      "gas:candidate-vibid:4614057215977": 43,
+      "gas:candidate-vibid:4614057216667": 73,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 19,
-      "Дерябкин Виктор Ефимович": 558,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 43,
-      "Пахолков Олег Владимирович": 100,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 19,
+      "gas:candidate-vibid:4614057216679": 558,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 43,
+      "gas:candidate-vibid:4614057216667": 100,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 95,
-      "Дерябкин Виктор Ефимович": 420,
-      "Кошельников Юрий Викторович": 8,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 73,
-      "Пахолков Олег Владимирович": 110,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 17
+      "gas:candidate-vibid:4614057216263": 95,
+      "gas:candidate-vibid:4614057216679": 420,
+      "gas:candidate-vibid:4614057218528": 8,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 73,
+      "gas:candidate-vibid:4614057216667": 110,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 77,
-      "Дерябкин Виктор Ефимович": 370,
-      "Кошельников Юрий Викторович": 26,
-      "Лютов Алексей Павлович": 27,
-      "Малыхин Сергей Викторович": 80,
-      "Пахолков Олег Владимирович": 151,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 18
+      "gas:candidate-vibid:4614057216263": 77,
+      "gas:candidate-vibid:4614057216679": 370,
+      "gas:candidate-vibid:4614057218528": 26,
+      "gas:candidate-vibid:4614057219054": 27,
+      "gas:candidate-vibid:4614057215977": 80,
+      "gas:candidate-vibid:4614057216667": 151,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 19,
-      "Дерябкин Виктор Ефимович": 88,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 21,
-      "Пахолков Олег Владимирович": 127,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 19,
+      "gas:candidate-vibid:4614057216679": 88,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 21,
+      "gas:candidate-vibid:4614057216667": 127,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 11,
-      "Дерябкин Виктор Ефимович": 80,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 0,
-      "Малыхин Сергей Викторович": 6,
-      "Пахолков Олег Владимирович": 49,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 11,
+      "gas:candidate-vibid:4614057216679": 80,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 0,
+      "gas:candidate-vibid:4614057215977": 6,
+      "gas:candidate-vibid:4614057216667": 49,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 54,
-      "Дерябкин Виктор Ефимович": 185,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 11,
-      "Малыхин Сергей Викторович": 43,
-      "Пахолков Олег Владимирович": 108,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 12
+      "gas:candidate-vibid:4614057216263": 54,
+      "gas:candidate-vibid:4614057216679": 185,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 11,
+      "gas:candidate-vibid:4614057215977": 43,
+      "gas:candidate-vibid:4614057216667": 108,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 42,
-      "Дерябкин Виктор Ефимович": 188,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 15,
-      "Малыхин Сергей Викторович": 46,
-      "Пахолков Олег Владимирович": 88,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 16
+      "gas:candidate-vibid:4614057216263": 42,
+      "gas:candidate-vibid:4614057216679": 188,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 15,
+      "gas:candidate-vibid:4614057215977": 46,
+      "gas:candidate-vibid:4614057216667": 88,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 19,
-      "Дерябкин Виктор Ефимович": 84,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 105,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 19,
+      "gas:candidate-vibid:4614057216679": 84,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 105,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455499&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455499&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 118,
-      "Дерябкин Виктор Ефимович": 251,
-      "Кошельников Юрий Викторович": 22,
-      "Лютов Алексей Павлович": 23,
-      "Малыхин Сергей Викторович": 89,
-      "Пахолков Олег Владимирович": 331,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 31
+      "gas:candidate-vibid:4614057216263": 118,
+      "gas:candidate-vibid:4614057216679": 251,
+      "gas:candidate-vibid:4614057218528": 22,
+      "gas:candidate-vibid:4614057219054": 23,
+      "gas:candidate-vibid:4614057215977": 89,
+      "gas:candidate-vibid:4614057216667": 331,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 110,
-      "Дерябкин Виктор Ефимович": 456,
-      "Кошельников Юрий Викторович": 24,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 70,
-      "Пахолков Олег Владимирович": 329,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 110,
+      "gas:candidate-vibid:4614057216679": 456,
+      "gas:candidate-vibid:4614057218528": 24,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 70,
+      "gas:candidate-vibid:4614057216667": 329,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 127,
-      "Дерябкин Виктор Ефимович": 467,
-      "Кошельников Юрий Викторович": 26,
-      "Лютов Алексей Павлович": 28,
-      "Малыхин Сергей Викторович": 86,
-      "Пахолков Олег Владимирович": 457,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 22
+      "gas:candidate-vibid:4614057216263": 127,
+      "gas:candidate-vibid:4614057216679": 467,
+      "gas:candidate-vibid:4614057218528": 26,
+      "gas:candidate-vibid:4614057219054": 28,
+      "gas:candidate-vibid:4614057215977": 86,
+      "gas:candidate-vibid:4614057216667": 457,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 125,
-      "Дерябкин Виктор Ефимович": 455,
-      "Кошельников Юрий Викторович": 14,
-      "Лютов Алексей Павлович": 17,
-      "Малыхин Сергей Викторович": 89,
-      "Пахолков Олег Владимирович": 400,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 125,
+      "gas:candidate-vibid:4614057216679": 455,
+      "gas:candidate-vibid:4614057218528": 14,
+      "gas:candidate-vibid:4614057219054": 17,
+      "gas:candidate-vibid:4614057215977": 89,
+      "gas:candidate-vibid:4614057216667": 400,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 149,
-      "Дерябкин Виктор Ефимович": 202,
-      "Кошельников Юрий Викторович": 28,
-      "Лютов Алексей Павлович": 22,
-      "Малыхин Сергей Викторович": 84,
-      "Пахолков Олег Владимирович": 384,
-      "Степаненко Вячеслав Геннадьевич": 12,
-      "Яценко Роман Михайлович": 17
+      "gas:candidate-vibid:4614057216263": 149,
+      "gas:candidate-vibid:4614057216679": 202,
+      "gas:candidate-vibid:4614057218528": 28,
+      "gas:candidate-vibid:4614057219054": 22,
+      "gas:candidate-vibid:4614057215977": 84,
+      "gas:candidate-vibid:4614057216667": 384,
+      "gas:candidate-vibid:4614057218699": 12,
+      "gas:candidate-vibid:4614057218740": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 156,
-      "Дерябкин Виктор Ефимович": 151,
-      "Кошельников Юрий Викторович": 30,
-      "Лютов Алексей Павлович": 21,
-      "Малыхин Сергей Викторович": 104,
-      "Пахолков Олег Владимирович": 356,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 156,
+      "gas:candidate-vibid:4614057216679": 151,
+      "gas:candidate-vibid:4614057218528": 30,
+      "gas:candidate-vibid:4614057219054": 21,
+      "gas:candidate-vibid:4614057215977": 104,
+      "gas:candidate-vibid:4614057216667": 356,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 99,
-      "Дерябкин Виктор Ефимович": 207,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 67,
-      "Пахолков Олег Владимирович": 481,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 99,
+      "gas:candidate-vibid:4614057216679": 207,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 67,
+      "gas:candidate-vibid:4614057216667": 481,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 151,
-      "Дерябкин Виктор Ефимович": 186,
-      "Кошельников Юрий Викторович": 31,
-      "Лютов Алексей Павлович": 21,
-      "Малыхин Сергей Викторович": 102,
-      "Пахолков Олег Владимирович": 481,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 27
+      "gas:candidate-vibid:4614057216263": 151,
+      "gas:candidate-vibid:4614057216679": 186,
+      "gas:candidate-vibid:4614057218528": 31,
+      "gas:candidate-vibid:4614057219054": 21,
+      "gas:candidate-vibid:4614057215977": 102,
+      "gas:candidate-vibid:4614057216667": 481,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 103,
-      "Дерябкин Виктор Ефимович": 674,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 12,
-      "Малыхин Сергей Викторович": 10,
-      "Пахолков Олег Владимирович": 468,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 103,
+      "gas:candidate-vibid:4614057216679": 674,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 12,
+      "gas:candidate-vibid:4614057215977": 10,
+      "gas:candidate-vibid:4614057216667": 468,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 72,
-      "Дерябкин Виктор Ефимович": 163,
-      "Кошельников Юрий Викторович": 36,
-      "Лютов Алексей Павлович": 13,
-      "Малыхин Сергей Викторович": 79,
-      "Пахолков Олег Владимирович": 271,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 72,
+      "gas:candidate-vibid:4614057216679": 163,
+      "gas:candidate-vibid:4614057218528": 36,
+      "gas:candidate-vibid:4614057219054": 13,
+      "gas:candidate-vibid:4614057215977": 79,
+      "gas:candidate-vibid:4614057216667": 271,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 74,
-      "Дерябкин Виктор Ефимович": 143,
-      "Кошельников Юрий Викторович": 23,
-      "Лютов Алексей Павлович": 19,
-      "Малыхин Сергей Викторович": 71,
-      "Пахолков Олег Владимирович": 327,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 13
+      "gas:candidate-vibid:4614057216263": 74,
+      "gas:candidate-vibid:4614057216679": 143,
+      "gas:candidate-vibid:4614057218528": 23,
+      "gas:candidate-vibid:4614057219054": 19,
+      "gas:candidate-vibid:4614057215977": 71,
+      "gas:candidate-vibid:4614057216667": 327,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 50,
-      "Дерябкин Виктор Ефимович": 426,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 8,
-      "Пахолков Олег Владимирович": 473,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 2
+      "gas:candidate-vibid:4614057216263": 50,
+      "gas:candidate-vibid:4614057216679": 426,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 8,
+      "gas:candidate-vibid:4614057216667": 473,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 71,
-      "Дерябкин Виктор Ефимович": 525,
-      "Кошельников Юрий Викторович": 54,
-      "Лютов Алексей Павлович": 17,
-      "Малыхин Сергей Викторович": 51,
-      "Пахолков Олег Владимирович": 293,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 71,
+      "gas:candidate-vibid:4614057216679": 525,
+      "gas:candidate-vibid:4614057218528": 54,
+      "gas:candidate-vibid:4614057219054": 17,
+      "gas:candidate-vibid:4614057215977": 51,
+      "gas:candidate-vibid:4614057216667": 293,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 84,
-      "Дерябкин Виктор Ефимович": 181,
-      "Кошельников Юрий Викторович": 30,
-      "Лютов Алексей Павлович": 21,
-      "Малыхин Сергей Викторович": 88,
-      "Пахолков Олег Владимирович": 404,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 18
+      "gas:candidate-vibid:4614057216263": 84,
+      "gas:candidate-vibid:4614057216679": 181,
+      "gas:candidate-vibid:4614057218528": 30,
+      "gas:candidate-vibid:4614057219054": 21,
+      "gas:candidate-vibid:4614057215977": 88,
+      "gas:candidate-vibid:4614057216667": 404,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 118,
-      "Дерябкин Виктор Ефимович": 165,
-      "Кошельников Юрий Викторович": 20,
-      "Лютов Алексей Павлович": 19,
-      "Малыхин Сергей Викторович": 101,
-      "Пахолков Олег Владимирович": 419,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 20
+      "gas:candidate-vibid:4614057216263": 118,
+      "gas:candidate-vibid:4614057216679": 165,
+      "gas:candidate-vibid:4614057218528": 20,
+      "gas:candidate-vibid:4614057219054": 19,
+      "gas:candidate-vibid:4614057215977": 101,
+      "gas:candidate-vibid:4614057216667": 419,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 111,
-      "Дерябкин Виктор Ефимович": 196,
-      "Кошельников Юрий Викторович": 21,
-      "Лютов Алексей Павлович": 28,
-      "Малыхин Сергей Викторович": 94,
-      "Пахолков Олег Владимирович": 519,
-      "Степаненко Вячеслав Геннадьевич": 12,
-      "Яценко Роман Михайлович": 21
+      "gas:candidate-vibid:4614057216263": 111,
+      "gas:candidate-vibid:4614057216679": 196,
+      "gas:candidate-vibid:4614057218528": 21,
+      "gas:candidate-vibid:4614057219054": 28,
+      "gas:candidate-vibid:4614057215977": 94,
+      "gas:candidate-vibid:4614057216667": 519,
+      "gas:candidate-vibid:4614057218699": 12,
+      "gas:candidate-vibid:4614057218740": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 67,
-      "Дерябкин Виктор Ефимович": 125,
-      "Кошельников Юрий Викторович": 23,
-      "Лютов Алексей Павлович": 11,
-      "Малыхин Сергей Викторович": 80,
-      "Пахолков Олег Владимирович": 373,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 22
+      "gas:candidate-vibid:4614057216263": 67,
+      "gas:candidate-vibid:4614057216679": 125,
+      "gas:candidate-vibid:4614057218528": 23,
+      "gas:candidate-vibid:4614057219054": 11,
+      "gas:candidate-vibid:4614057215977": 80,
+      "gas:candidate-vibid:4614057216667": 373,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 70,
-      "Дерябкин Виктор Ефимович": 176,
-      "Кошельников Юрий Викторович": 24,
-      "Лютов Алексей Павлович": 18,
-      "Малыхин Сергей Викторович": 117,
-      "Пахолков Олег Владимирович": 478,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 70,
+      "gas:candidate-vibid:4614057216679": 176,
+      "gas:candidate-vibid:4614057218528": 24,
+      "gas:candidate-vibid:4614057219054": 18,
+      "gas:candidate-vibid:4614057215977": 117,
+      "gas:candidate-vibid:4614057216667": 478,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 45,
-      "Дерябкин Виктор Ефимович": 88,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 56,
-      "Пахолков Олег Владимирович": 173,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 45,
+      "gas:candidate-vibid:4614057216679": 88,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 56,
+      "gas:candidate-vibid:4614057216667": 173,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 90,
-      "Дерябкин Виктор Ефимович": 249,
-      "Кошельников Юрий Викторович": 24,
-      "Лютов Алексей Павлович": 18,
-      "Малыхин Сергей Викторович": 68,
-      "Пахолков Олег Владимирович": 287,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 90,
+      "gas:candidate-vibid:4614057216679": 249,
+      "gas:candidate-vibid:4614057218528": 24,
+      "gas:candidate-vibid:4614057219054": 18,
+      "gas:candidate-vibid:4614057215977": 68,
+      "gas:candidate-vibid:4614057216667": 287,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 76,
-      "Дерябкин Виктор Ефимович": 219,
-      "Кошельников Юрий Викторович": 18,
-      "Лютов Алексей Павлович": 17,
-      "Малыхин Сергей Викторович": 93,
-      "Пахолков Олег Владимирович": 205,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 76,
+      "gas:candidate-vibid:4614057216679": 219,
+      "gas:candidate-vibid:4614057218528": 18,
+      "gas:candidate-vibid:4614057219054": 17,
+      "gas:candidate-vibid:4614057215977": 93,
+      "gas:candidate-vibid:4614057216667": 205,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 131,
-      "Дерябкин Виктор Ефимович": 310,
-      "Кошельников Юрий Викторович": 52,
-      "Лютов Алексей Павлович": 33,
-      "Малыхин Сергей Викторович": 105,
-      "Пахолков Олег Владимирович": 414,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 131,
+      "gas:candidate-vibid:4614057216679": 310,
+      "gas:candidate-vibid:4614057218528": 52,
+      "gas:candidate-vibid:4614057219054": 33,
+      "gas:candidate-vibid:4614057215977": 105,
+      "gas:candidate-vibid:4614057216667": 414,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 100,
-      "Дерябкин Виктор Ефимович": 205,
-      "Кошельников Юрий Викторович": 41,
-      "Лютов Алексей Павлович": 44,
-      "Малыхин Сергей Викторович": 112,
-      "Пахолков Олег Владимирович": 393,
-      "Степаненко Вячеслав Геннадьевич": 17,
-      "Яценко Роман Михайлович": 22
+      "gas:candidate-vibid:4614057216263": 100,
+      "gas:candidate-vibid:4614057216679": 205,
+      "gas:candidate-vibid:4614057218528": 41,
+      "gas:candidate-vibid:4614057219054": 44,
+      "gas:candidate-vibid:4614057215977": 112,
+      "gas:candidate-vibid:4614057216667": 393,
+      "gas:candidate-vibid:4614057218699": 17,
+      "gas:candidate-vibid:4614057218740": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 118,
-      "Дерябкин Виктор Ефимович": 217,
-      "Кошельников Юрий Викторович": 42,
-      "Лютов Алексей Павлович": 49,
-      "Малыхин Сергей Викторович": 113,
-      "Пахолков Олег Владимирович": 534,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 27
+      "gas:candidate-vibid:4614057216263": 118,
+      "gas:candidate-vibid:4614057216679": 217,
+      "gas:candidate-vibid:4614057218528": 42,
+      "gas:candidate-vibid:4614057219054": 49,
+      "gas:candidate-vibid:4614057215977": 113,
+      "gas:candidate-vibid:4614057216667": 534,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 133,
-      "Дерябкин Виктор Ефимович": 322,
-      "Кошельников Юрий Викторович": 57,
-      "Лютов Алексей Павлович": 47,
-      "Малыхин Сергей Викторович": 152,
-      "Пахолков Олег Владимирович": 496,
-      "Степаненко Вячеслав Геннадьевич": 20,
-      "Яценко Роман Михайлович": 29
+      "gas:candidate-vibid:4614057216263": 133,
+      "gas:candidate-vibid:4614057216679": 322,
+      "gas:candidate-vibid:4614057218528": 57,
+      "gas:candidate-vibid:4614057219054": 47,
+      "gas:candidate-vibid:4614057215977": 152,
+      "gas:candidate-vibid:4614057216667": 496,
+      "gas:candidate-vibid:4614057218699": 20,
+      "gas:candidate-vibid:4614057218740": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 109,
-      "Дерябкин Виктор Ефимович": 191,
-      "Кошельников Юрий Викторович": 53,
-      "Лютов Алексей Павлович": 35,
-      "Малыхин Сергей Викторович": 122,
-      "Пахолков Олег Владимирович": 421,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 32
+      "gas:candidate-vibid:4614057216263": 109,
+      "gas:candidate-vibid:4614057216679": 191,
+      "gas:candidate-vibid:4614057218528": 53,
+      "gas:candidate-vibid:4614057219054": 35,
+      "gas:candidate-vibid:4614057215977": 122,
+      "gas:candidate-vibid:4614057216667": 421,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 115,
-      "Дерябкин Виктор Ефимович": 205,
-      "Кошельников Юрий Викторович": 45,
-      "Лютов Алексей Павлович": 40,
-      "Малыхин Сергей Викторович": 104,
-      "Пахолков Олег Владимирович": 424,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 26
+      "gas:candidate-vibid:4614057216263": 115,
+      "gas:candidate-vibid:4614057216679": 205,
+      "gas:candidate-vibid:4614057218528": 45,
+      "gas:candidate-vibid:4614057219054": 40,
+      "gas:candidate-vibid:4614057215977": 104,
+      "gas:candidate-vibid:4614057216667": 424,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 123,
-      "Дерябкин Виктор Ефимович": 238,
-      "Кошельников Юрий Викторович": 40,
-      "Лютов Алексей Павлович": 56,
-      "Малыхин Сергей Викторович": 116,
-      "Пахолков Олег Владимирович": 472,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 26
+      "gas:candidate-vibid:4614057216263": 123,
+      "gas:candidate-vibid:4614057216679": 238,
+      "gas:candidate-vibid:4614057218528": 40,
+      "gas:candidate-vibid:4614057219054": 56,
+      "gas:candidate-vibid:4614057215977": 116,
+      "gas:candidate-vibid:4614057216667": 472,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 97,
-      "Дерябкин Виктор Ефимович": 369,
-      "Кошельников Юрий Викторович": 28,
-      "Лютов Алексей Павлович": 37,
-      "Малыхин Сергей Викторович": 69,
-      "Пахолков Олег Владимирович": 455,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 20
+      "gas:candidate-vibid:4614057216263": 97,
+      "gas:candidate-vibid:4614057216679": 369,
+      "gas:candidate-vibid:4614057218528": 28,
+      "gas:candidate-vibid:4614057219054": 37,
+      "gas:candidate-vibid:4614057215977": 69,
+      "gas:candidate-vibid:4614057216667": 455,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 120,
-      "Дерябкин Виктор Ефимович": 281,
-      "Кошельников Юрий Викторович": 33,
-      "Лютов Алексей Павлович": 37,
-      "Малыхин Сергей Викторович": 127,
-      "Пахолков Олег Владимирович": 438,
-      "Степаненко Вячеслав Геннадьевич": 9,
-      "Яценко Роман Михайлович": 30
+      "gas:candidate-vibid:4614057216263": 120,
+      "gas:candidate-vibid:4614057216679": 281,
+      "gas:candidate-vibid:4614057218528": 33,
+      "gas:candidate-vibid:4614057219054": 37,
+      "gas:candidate-vibid:4614057215977": 127,
+      "gas:candidate-vibid:4614057216667": 438,
+      "gas:candidate-vibid:4614057218699": 9,
+      "gas:candidate-vibid:4614057218740": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 83,
-      "Дерябкин Виктор Ефимович": 231,
-      "Кошельников Юрий Викторович": 40,
-      "Лютов Алексей Павлович": 53,
-      "Малыхин Сергей Викторович": 132,
-      "Пахолков Олег Владимирович": 463,
-      "Степаненко Вячеслав Геннадьевич": 12,
-      "Яценко Роман Михайлович": 28
+      "gas:candidate-vibid:4614057216263": 83,
+      "gas:candidate-vibid:4614057216679": 231,
+      "gas:candidate-vibid:4614057218528": 40,
+      "gas:candidate-vibid:4614057219054": 53,
+      "gas:candidate-vibid:4614057215977": 132,
+      "gas:candidate-vibid:4614057216667": 463,
+      "gas:candidate-vibid:4614057218699": 12,
+      "gas:candidate-vibid:4614057218740": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 98,
-      "Дерябкин Виктор Ефимович": 206,
-      "Кошельников Юрий Викторович": 26,
-      "Лютов Алексей Павлович": 23,
-      "Малыхин Сергей Викторович": 115,
-      "Пахолков Олег Владимирович": 424,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 21
+      "gas:candidate-vibid:4614057216263": 98,
+      "gas:candidate-vibid:4614057216679": 206,
+      "gas:candidate-vibid:4614057218528": 26,
+      "gas:candidate-vibid:4614057219054": 23,
+      "gas:candidate-vibid:4614057215977": 115,
+      "gas:candidate-vibid:4614057216667": 424,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 86,
-      "Дерябкин Виктор Ефимович": 170,
-      "Кошельников Юрий Викторович": 32,
-      "Лютов Алексей Павлович": 43,
-      "Малыхин Сергей Викторович": 98,
-      "Пахолков Олег Владимирович": 470,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 17
+      "gas:candidate-vibid:4614057216263": 86,
+      "gas:candidate-vibid:4614057216679": 170,
+      "gas:candidate-vibid:4614057218528": 32,
+      "gas:candidate-vibid:4614057219054": 43,
+      "gas:candidate-vibid:4614057215977": 98,
+      "gas:candidate-vibid:4614057216667": 470,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 107,
-      "Дерябкин Виктор Ефимович": 230,
-      "Кошельников Юрий Викторович": 36,
-      "Лютов Алексей Павлович": 47,
-      "Малыхин Сергей Викторович": 122,
-      "Пахолков Олег Владимирович": 292,
-      "Степаненко Вячеслав Геннадьевич": 16,
-      "Яценко Роман Михайлович": 22
+      "gas:candidate-vibid:4614057216263": 107,
+      "gas:candidate-vibid:4614057216679": 230,
+      "gas:candidate-vibid:4614057218528": 36,
+      "gas:candidate-vibid:4614057219054": 47,
+      "gas:candidate-vibid:4614057215977": 122,
+      "gas:candidate-vibid:4614057216667": 292,
+      "gas:candidate-vibid:4614057218699": 16,
+      "gas:candidate-vibid:4614057218740": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 110,
-      "Дерябкин Виктор Ефимович": 575,
-      "Кошельников Юрий Викторович": 21,
-      "Лютов Алексей Павлович": 18,
-      "Малыхин Сергей Викторович": 32,
-      "Пахолков Олег Владимирович": 471,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 110,
+      "gas:candidate-vibid:4614057216679": 575,
+      "gas:candidate-vibid:4614057218528": 21,
+      "gas:candidate-vibid:4614057219054": 18,
+      "gas:candidate-vibid:4614057215977": 32,
+      "gas:candidate-vibid:4614057216667": 471,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 77,
-      "Дерябкин Виктор Ефимович": 154,
-      "Кошельников Юрий Викторович": 28,
-      "Лютов Алексей Павлович": 18,
-      "Малыхин Сергей Викторович": 104,
-      "Пахолков Олег Владимирович": 287,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 27
+      "gas:candidate-vibid:4614057216263": 77,
+      "gas:candidate-vibid:4614057216679": 154,
+      "gas:candidate-vibid:4614057218528": 28,
+      "gas:candidate-vibid:4614057219054": 18,
+      "gas:candidate-vibid:4614057215977": 104,
+      "gas:candidate-vibid:4614057216667": 287,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 124,
-      "Дерябкин Виктор Ефимович": 262,
-      "Кошельников Юрий Викторович": 56,
-      "Лютов Алексей Павлович": 46,
-      "Малыхин Сергей Викторович": 130,
-      "Пахолков Олег Владимирович": 502,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 26
+      "gas:candidate-vibid:4614057216263": 124,
+      "gas:candidate-vibid:4614057216679": 262,
+      "gas:candidate-vibid:4614057218528": 56,
+      "gas:candidate-vibid:4614057219054": 46,
+      "gas:candidate-vibid:4614057215977": 130,
+      "gas:candidate-vibid:4614057216667": 502,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 117,
-      "Дерябкин Виктор Ефимович": 226,
-      "Кошельников Юрий Викторович": 37,
-      "Лютов Алексей Павлович": 39,
-      "Малыхин Сергей Викторович": 112,
-      "Пахолков Олег Владимирович": 461,
-      "Степаненко Вячеслав Геннадьевич": 24,
-      "Яценко Роман Михайлович": 32
+      "gas:candidate-vibid:4614057216263": 117,
+      "gas:candidate-vibid:4614057216679": 226,
+      "gas:candidate-vibid:4614057218528": 37,
+      "gas:candidate-vibid:4614057219054": 39,
+      "gas:candidate-vibid:4614057215977": 112,
+      "gas:candidate-vibid:4614057216667": 461,
+      "gas:candidate-vibid:4614057218699": 24,
+      "gas:candidate-vibid:4614057218740": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 129,
-      "Дерябкин Виктор Ефимович": 298,
-      "Кошельников Юрий Викторович": 51,
-      "Лютов Алексей Павлович": 43,
-      "Малыхин Сергей Викторович": 116,
-      "Пахолков Олег Владимирович": 503,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 23
+      "gas:candidate-vibid:4614057216263": 129,
+      "gas:candidate-vibid:4614057216679": 298,
+      "gas:candidate-vibid:4614057218528": 51,
+      "gas:candidate-vibid:4614057219054": 43,
+      "gas:candidate-vibid:4614057215977": 116,
+      "gas:candidate-vibid:4614057216667": 503,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 128,
-      "Дерябкин Виктор Ефимович": 369,
-      "Кошельников Юрий Викторович": 20,
-      "Лютов Алексей Павлович": 15,
-      "Малыхин Сергей Викторович": 75,
-      "Пахолков Олег Владимирович": 467,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 20
+      "gas:candidate-vibid:4614057216263": 128,
+      "gas:candidate-vibid:4614057216679": 369,
+      "gas:candidate-vibid:4614057218528": 20,
+      "gas:candidate-vibid:4614057219054": 15,
+      "gas:candidate-vibid:4614057215977": 75,
+      "gas:candidate-vibid:4614057216667": 467,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 125,
-      "Дерябкин Виктор Ефимович": 269,
-      "Кошельников Юрий Викторович": 52,
-      "Лютов Алексей Павлович": 47,
-      "Малыхин Сергей Викторович": 114,
-      "Пахолков Олег Владимирович": 476,
-      "Степаненко Вячеслав Геннадьевич": 15,
-      "Яценко Роман Михайлович": 34
+      "gas:candidate-vibid:4614057216263": 125,
+      "gas:candidate-vibid:4614057216679": 269,
+      "gas:candidate-vibid:4614057218528": 52,
+      "gas:candidate-vibid:4614057219054": 47,
+      "gas:candidate-vibid:4614057215977": 114,
+      "gas:candidate-vibid:4614057216667": 476,
+      "gas:candidate-vibid:4614057218699": 15,
+      "gas:candidate-vibid:4614057218740": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 128,
-      "Дерябкин Виктор Ефимович": 232,
-      "Кошельников Юрий Викторович": 54,
-      "Лютов Алексей Павлович": 66,
-      "Малыхин Сергей Викторович": 113,
-      "Пахолков Олег Владимирович": 431,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 44
+      "gas:candidate-vibid:4614057216263": 128,
+      "gas:candidate-vibid:4614057216679": 232,
+      "gas:candidate-vibid:4614057218528": 54,
+      "gas:candidate-vibid:4614057219054": 66,
+      "gas:candidate-vibid:4614057215977": 113,
+      "gas:candidate-vibid:4614057216667": 431,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 113,
-      "Дерябкин Виктор Ефимович": 226,
-      "Кошельников Юрий Викторович": 29,
-      "Лютов Алексей Павлович": 45,
-      "Малыхин Сергей Викторович": 114,
-      "Пахолков Олег Владимирович": 423,
-      "Степаненко Вячеслав Геннадьевич": 17,
-      "Яценко Роман Михайлович": 24
+      "gas:candidate-vibid:4614057216263": 113,
+      "gas:candidate-vibid:4614057216679": 226,
+      "gas:candidate-vibid:4614057218528": 29,
+      "gas:candidate-vibid:4614057219054": 45,
+      "gas:candidate-vibid:4614057215977": 114,
+      "gas:candidate-vibid:4614057216667": 423,
+      "gas:candidate-vibid:4614057218699": 17,
+      "gas:candidate-vibid:4614057218740": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 116,
-      "Дерябкин Виктор Ефимович": 179,
-      "Кошельников Юрий Викторович": 44,
-      "Лютов Алексей Павлович": 44,
-      "Малыхин Сергей Викторович": 98,
-      "Пахолков Олег Владимирович": 443,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 23
+      "gas:candidate-vibid:4614057216263": 116,
+      "gas:candidate-vibid:4614057216679": 179,
+      "gas:candidate-vibid:4614057218528": 44,
+      "gas:candidate-vibid:4614057219054": 44,
+      "gas:candidate-vibid:4614057215977": 98,
+      "gas:candidate-vibid:4614057216667": 443,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 144,
-      "Дерябкин Виктор Ефимович": 213,
-      "Кошельников Юрий Викторович": 47,
-      "Лютов Алексей Павлович": 52,
-      "Малыхин Сергей Викторович": 115,
-      "Пахолков Олег Владимирович": 428,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 28
+      "gas:candidate-vibid:4614057216263": 144,
+      "gas:candidate-vibid:4614057216679": 213,
+      "gas:candidate-vibid:4614057218528": 47,
+      "gas:candidate-vibid:4614057219054": 52,
+      "gas:candidate-vibid:4614057215977": 115,
+      "gas:candidate-vibid:4614057216667": 428,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 122,
-      "Дерябкин Виктор Ефимович": 226,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 41,
-      "Малыхин Сергей Викторович": 116,
-      "Пахолков Олег Владимирович": 439,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 122,
+      "gas:candidate-vibid:4614057216679": 226,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 41,
+      "gas:candidate-vibid:4614057215977": 116,
+      "gas:candidate-vibid:4614057216667": 439,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 98,
-      "Дерябкин Виктор Ефимович": 168,
-      "Кошельников Юрий Викторович": 32,
-      "Лютов Алексей Павлович": 25,
-      "Малыхин Сергей Викторович": 89,
-      "Пахолков Олег Владимирович": 332,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 98,
+      "gas:candidate-vibid:4614057216679": 168,
+      "gas:candidate-vibid:4614057218528": 32,
+      "gas:candidate-vibid:4614057219054": 25,
+      "gas:candidate-vibid:4614057215977": 89,
+      "gas:candidate-vibid:4614057216667": 332,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 100,
-      "Дерябкин Виктор Ефимович": 175,
-      "Кошельников Юрий Викторович": 36,
-      "Лютов Алексей Павлович": 35,
-      "Малыхин Сергей Викторович": 93,
-      "Пахолков Олег Владимирович": 316,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 22
+      "gas:candidate-vibid:4614057216263": 100,
+      "gas:candidate-vibid:4614057216679": 175,
+      "gas:candidate-vibid:4614057218528": 36,
+      "gas:candidate-vibid:4614057219054": 35,
+      "gas:candidate-vibid:4614057215977": 93,
+      "gas:candidate-vibid:4614057216667": 316,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 104,
-      "Дерябкин Виктор Ефимович": 165,
-      "Кошельников Юрий Викторович": 36,
-      "Лютов Алексей Павлович": 43,
-      "Малыхин Сергей Викторович": 105,
-      "Пахолков Олег Владимирович": 301,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 104,
+      "gas:candidate-vibid:4614057216679": 165,
+      "gas:candidate-vibid:4614057218528": 36,
+      "gas:candidate-vibid:4614057219054": 43,
+      "gas:candidate-vibid:4614057215977": 105,
+      "gas:candidate-vibid:4614057216667": 301,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 79,
-      "Дерябкин Виктор Ефимович": 147,
-      "Кошельников Юрий Викторович": 39,
-      "Лютов Алексей Павлович": 34,
-      "Малыхин Сергей Викторович": 111,
-      "Пахолков Олег Владимирович": 374,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 17
+      "gas:candidate-vibid:4614057216263": 79,
+      "gas:candidate-vibid:4614057216679": 147,
+      "gas:candidate-vibid:4614057218528": 39,
+      "gas:candidate-vibid:4614057219054": 34,
+      "gas:candidate-vibid:4614057215977": 111,
+      "gas:candidate-vibid:4614057216667": 374,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 70,
-      "Дерябкин Виктор Ефимович": 131,
-      "Кошельников Юрий Викторович": 22,
-      "Лютов Алексей Павлович": 22,
-      "Малыхин Сергей Викторович": 101,
-      "Пахолков Олег Владимирович": 278,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 28
+      "gas:candidate-vibid:4614057216263": 70,
+      "gas:candidate-vibid:4614057216679": 131,
+      "gas:candidate-vibid:4614057218528": 22,
+      "gas:candidate-vibid:4614057219054": 22,
+      "gas:candidate-vibid:4614057215977": 101,
+      "gas:candidate-vibid:4614057216667": 278,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 139,
-      "Дерябкин Виктор Ефимович": 255,
-      "Кошельников Юрий Викторович": 46,
-      "Лютов Алексей Павлович": 41,
-      "Малыхин Сергей Викторович": 139,
-      "Пахолков Олег Владимирович": 449,
-      "Степаненко Вячеслав Геннадьевич": 17,
-      "Яценко Роман Михайлович": 34
+      "gas:candidate-vibid:4614057216263": 139,
+      "gas:candidate-vibid:4614057216679": 255,
+      "gas:candidate-vibid:4614057218528": 46,
+      "gas:candidate-vibid:4614057219054": 41,
+      "gas:candidate-vibid:4614057215977": 139,
+      "gas:candidate-vibid:4614057216667": 449,
+      "gas:candidate-vibid:4614057218699": 17,
+      "gas:candidate-vibid:4614057218740": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_61_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 69,
-      "Дерябкин Виктор Ефимович": 201,
-      "Кошельников Юрий Викторович": 28,
-      "Лютов Алексей Павлович": 41,
-      "Малыхин Сергей Викторович": 124,
-      "Пахолков Олег Владимирович": 309,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 28
+      "gas:candidate-vibid:4614057216263": 69,
+      "gas:candidate-vibid:4614057216679": 201,
+      "gas:candidate-vibid:4614057218528": 28,
+      "gas:candidate-vibid:4614057219054": 41,
+      "gas:candidate-vibid:4614057215977": 124,
+      "gas:candidate-vibid:4614057216667": 309,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455500&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455500&type=464",

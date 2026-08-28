@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 73,
-      "Блинова Наталья Владимировна": 75,
-      "Красикова Оксана Викторовна": 111,
-      "Мушин Алексей Львович": 107,
-      "Павленок Дмитрий Васильевич": 52,
-      "Пивульский Вячеслав Викторович": 44,
-      "Свергунова Маргарита Николаевна": 46,
-      "Сошин Максим Викторович": 97,
-      "Сураев Максим Викторович": 428
+      "gas:candidate-vibid:4504001231709": 73,
+      "gas:candidate-vibid:4504001230992": 75,
+      "gas:candidate-vibid:4504001231599": 111,
+      "gas:candidate-vibid:4504001230891": 107,
+      "gas:candidate-vibid:4504001231192": 52,
+      "gas:candidate-vibid:4504001231550": 44,
+      "gas:candidate-vibid:4504001231637": 46,
+      "gas:candidate-vibid:4504001231262": 97,
+      "gas:candidate-vibid:4504001231436": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 54,
-      "Блинова Наталья Владимировна": 86,
-      "Красикова Оксана Викторовна": 98,
-      "Мушин Алексей Львович": 75,
-      "Павленок Дмитрий Васильевич": 48,
-      "Пивульский Вячеслав Викторович": 35,
-      "Свергунова Маргарита Николаевна": 36,
-      "Сошин Максим Викторович": 53,
-      "Сураев Максим Викторович": 649
+      "gas:candidate-vibid:4504001231709": 54,
+      "gas:candidate-vibid:4504001230992": 86,
+      "gas:candidate-vibid:4504001231599": 98,
+      "gas:candidate-vibid:4504001230891": 75,
+      "gas:candidate-vibid:4504001231192": 48,
+      "gas:candidate-vibid:4504001231550": 35,
+      "gas:candidate-vibid:4504001231637": 36,
+      "gas:candidate-vibid:4504001231262": 53,
+      "gas:candidate-vibid:4504001231436": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 28,
-      "Блинова Наталья Владимировна": 76,
-      "Красикова Оксана Викторовна": 76,
-      "Мушин Алексей Львович": 62,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 18,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 56,
-      "Сураев Максим Викторович": 278
+      "gas:candidate-vibid:4504001231709": 28,
+      "gas:candidate-vibid:4504001230992": 76,
+      "gas:candidate-vibid:4504001231599": 76,
+      "gas:candidate-vibid:4504001230891": 62,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 18,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 56,
+      "gas:candidate-vibid:4504001231436": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 35,
-      "Блинова Наталья Владимировна": 58,
-      "Красикова Оксана Викторовна": 73,
-      "Мушин Алексей Львович": 53,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 22,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 260
+      "gas:candidate-vibid:4504001231709": 35,
+      "gas:candidate-vibid:4504001230992": 58,
+      "gas:candidate-vibid:4504001231599": 73,
+      "gas:candidate-vibid:4504001230891": 53,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 22,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 34,
-      "Блинова Наталья Владимировна": 67,
-      "Красикова Оксана Викторовна": 87,
-      "Мушин Алексей Львович": 67,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 15,
-      "Сошин Максим Викторович": 63,
-      "Сураев Максим Викторович": 254
+      "gas:candidate-vibid:4504001231709": 34,
+      "gas:candidate-vibid:4504001230992": 67,
+      "gas:candidate-vibid:4504001231599": 87,
+      "gas:candidate-vibid:4504001230891": 67,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 15,
+      "gas:candidate-vibid:4504001231262": 63,
+      "gas:candidate-vibid:4504001231436": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 69,
-      "Блинова Наталья Владимировна": 48,
-      "Красикова Оксана Викторовна": 83,
-      "Мушин Алексей Львович": 75,
-      "Павленок Дмитрий Васильевич": 49,
-      "Пивульский Вячеслав Викторович": 56,
-      "Свергунова Маргарита Николаевна": 37,
-      "Сошин Максим Викторович": 51,
-      "Сураев Максим Викторович": 254
+      "gas:candidate-vibid:4504001231709": 69,
+      "gas:candidate-vibid:4504001230992": 48,
+      "gas:candidate-vibid:4504001231599": 83,
+      "gas:candidate-vibid:4504001230891": 75,
+      "gas:candidate-vibid:4504001231192": 49,
+      "gas:candidate-vibid:4504001231550": 56,
+      "gas:candidate-vibid:4504001231637": 37,
+      "gas:candidate-vibid:4504001231262": 51,
+      "gas:candidate-vibid:4504001231436": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 32,
-      "Блинова Наталья Владимировна": 49,
-      "Красикова Оксана Викторовна": 123,
-      "Мушин Алексей Львович": 64,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 28,
-      "Свергунова Маргарита Николаевна": 31,
-      "Сошин Максим Викторович": 48,
-      "Сураев Максим Викторович": 390
+      "gas:candidate-vibid:4504001231709": 32,
+      "gas:candidate-vibid:4504001230992": 49,
+      "gas:candidate-vibid:4504001231599": 123,
+      "gas:candidate-vibid:4504001230891": 64,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 28,
+      "gas:candidate-vibid:4504001231637": 31,
+      "gas:candidate-vibid:4504001231262": 48,
+      "gas:candidate-vibid:4504001231436": 390
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 31,
-      "Блинова Наталья Владимировна": 52,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 67,
-      "Павленок Дмитрий Васильевич": 15,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 23,
-      "Сошин Максим Викторович": 41,
-      "Сураев Максим Викторович": 293
+      "gas:candidate-vibid:4504001231709": 31,
+      "gas:candidate-vibid:4504001230992": 52,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 67,
+      "gas:candidate-vibid:4504001231192": 15,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 23,
+      "gas:candidate-vibid:4504001231262": 41,
+      "gas:candidate-vibid:4504001231436": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 42,
-      "Красикова Оксана Викторовна": 71,
-      "Мушин Алексей Львович": 54,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 23,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 58,
-      "Сураев Максим Викторович": 220
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 42,
+      "gas:candidate-vibid:4504001231599": 71,
+      "gas:candidate-vibid:4504001230891": 54,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 23,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 58,
+      "gas:candidate-vibid:4504001231436": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 37,
-      "Красикова Оксана Викторовна": 59,
-      "Мушин Алексей Львович": 46,
-      "Павленок Дмитрий Васильевич": 36,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 45,
-      "Сураев Максим Викторович": 288
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 37,
+      "gas:candidate-vibid:4504001231599": 59,
+      "gas:candidate-vibid:4504001230891": 46,
+      "gas:candidate-vibid:4504001231192": 36,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 45,
+      "gas:candidate-vibid:4504001231436": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 29,
-      "Блинова Наталья Владимировна": 47,
-      "Красикова Оксана Викторовна": 102,
-      "Мушин Алексей Львович": 64,
-      "Павленок Дмитрий Васильевич": 35,
-      "Пивульский Вячеслав Викторович": 32,
-      "Свергунова Маргарита Николаевна": 40,
-      "Сошин Максим Викторович": 53,
-      "Сураев Максим Викторович": 315
+      "gas:candidate-vibid:4504001231709": 29,
+      "gas:candidate-vibid:4504001230992": 47,
+      "gas:candidate-vibid:4504001231599": 102,
+      "gas:candidate-vibid:4504001230891": 64,
+      "gas:candidate-vibid:4504001231192": 35,
+      "gas:candidate-vibid:4504001231550": 32,
+      "gas:candidate-vibid:4504001231637": 40,
+      "gas:candidate-vibid:4504001231262": 53,
+      "gas:candidate-vibid:4504001231436": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 68,
-      "Красикова Оксана Викторовна": 108,
-      "Мушин Алексей Львович": 82,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 56,
-      "Сураев Максим Викторович": 306
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 68,
+      "gas:candidate-vibid:4504001231599": 108,
+      "gas:candidate-vibid:4504001230891": 82,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 56,
+      "gas:candidate-vibid:4504001231436": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 40,
-      "Блинова Наталья Владимировна": 61,
-      "Красикова Оксана Викторовна": 94,
-      "Мушин Алексей Львович": 90,
-      "Павленок Дмитрий Васильевич": 37,
-      "Пивульский Вячеслав Викторович": 52,
-      "Свергунова Маргарита Николаевна": 36,
-      "Сошин Максим Викторович": 64,
-      "Сураев Максим Викторович": 512
+      "gas:candidate-vibid:4504001231709": 40,
+      "gas:candidate-vibid:4504001230992": 61,
+      "gas:candidate-vibid:4504001231599": 94,
+      "gas:candidate-vibid:4504001230891": 90,
+      "gas:candidate-vibid:4504001231192": 37,
+      "gas:candidate-vibid:4504001231550": 52,
+      "gas:candidate-vibid:4504001231637": 36,
+      "gas:candidate-vibid:4504001231262": 64,
+      "gas:candidate-vibid:4504001231436": 512
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 50,
-      "Блинова Наталья Владимировна": 58,
-      "Красикова Оксана Викторовна": 92,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 44,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 31,
-      "Сошин Максим Викторович": 51,
-      "Сураев Максим Викторович": 288
+      "gas:candidate-vibid:4504001231709": 50,
+      "gas:candidate-vibid:4504001230992": 58,
+      "gas:candidate-vibid:4504001231599": 92,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 44,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 31,
+      "gas:candidate-vibid:4504001231262": 51,
+      "gas:candidate-vibid:4504001231436": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 30,
-      "Блинова Наталья Владимировна": 43,
-      "Красикова Оксана Викторовна": 77,
-      "Мушин Алексей Львович": 61,
-      "Павленок Дмитрий Васильевич": 36,
-      "Пивульский Вячеслав Викторович": 40,
-      "Свергунова Маргарита Николаевна": 35,
-      "Сошин Максим Викторович": 62,
-      "Сураев Максим Викторович": 657
+      "gas:candidate-vibid:4504001231709": 30,
+      "gas:candidate-vibid:4504001230992": 43,
+      "gas:candidate-vibid:4504001231599": 77,
+      "gas:candidate-vibid:4504001230891": 61,
+      "gas:candidate-vibid:4504001231192": 36,
+      "gas:candidate-vibid:4504001231550": 40,
+      "gas:candidate-vibid:4504001231637": 35,
+      "gas:candidate-vibid:4504001231262": 62,
+      "gas:candidate-vibid:4504001231436": 657
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 56,
-      "Красикова Оксана Викторовна": 75,
-      "Мушин Алексей Львович": 56,
-      "Павленок Дмитрий Васильевич": 28,
-      "Пивульский Вячеслав Викторович": 33,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 60,
-      "Сураев Максим Викторович": 334
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 56,
+      "gas:candidate-vibid:4504001231599": 75,
+      "gas:candidate-vibid:4504001230891": 56,
+      "gas:candidate-vibid:4504001231192": 28,
+      "gas:candidate-vibid:4504001231550": 33,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 60,
+      "gas:candidate-vibid:4504001231436": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 53,
-      "Красикова Оксана Викторовна": 88,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 24,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 31,
-      "Сошин Максим Викторович": 64,
-      "Сураев Максим Викторович": 374
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 53,
+      "gas:candidate-vibid:4504001231599": 88,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 24,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 31,
+      "gas:candidate-vibid:4504001231262": 64,
+      "gas:candidate-vibid:4504001231436": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 24,
-      "Блинова Наталья Владимировна": 40,
-      "Красикова Оксана Викторовна": 71,
-      "Мушин Алексей Львович": 71,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 53,
-      "Сураев Максим Викторович": 276
+      "gas:candidate-vibid:4504001231709": 24,
+      "gas:candidate-vibid:4504001230992": 40,
+      "gas:candidate-vibid:4504001231599": 71,
+      "gas:candidate-vibid:4504001230891": 71,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 53,
+      "gas:candidate-vibid:4504001231436": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 50,
-      "Красикова Оксана Викторовна": 94,
-      "Мушин Алексей Львович": 65,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 32,
-      "Свергунова Маргарита Николаевна": 30,
-      "Сошин Максим Викторович": 58,
-      "Сураев Максим Викторович": 381
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 50,
+      "gas:candidate-vibid:4504001231599": 94,
+      "gas:candidate-vibid:4504001230891": 65,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 32,
+      "gas:candidate-vibid:4504001231637": 30,
+      "gas:candidate-vibid:4504001231262": 58,
+      "gas:candidate-vibid:4504001231436": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 34,
-      "Блинова Наталья Владимировна": 50,
-      "Красикова Оксана Викторовна": 69,
-      "Мушин Алексей Львович": 63,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 26,
-      "Свергунова Маргарита Николаевна": 35,
-      "Сошин Максим Викторович": 59,
-      "Сураев Максим Викторович": 419
+      "gas:candidate-vibid:4504001231709": 34,
+      "gas:candidate-vibid:4504001230992": 50,
+      "gas:candidate-vibid:4504001231599": 69,
+      "gas:candidate-vibid:4504001230891": 63,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 26,
+      "gas:candidate-vibid:4504001231637": 35,
+      "gas:candidate-vibid:4504001231262": 59,
+      "gas:candidate-vibid:4504001231436": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 40,
-      "Блинова Наталья Владимировна": 78,
-      "Красикова Оксана Викторовна": 93,
-      "Мушин Алексей Львович": 104,
-      "Павленок Дмитрий Васильевич": 33,
-      "Пивульский Вячеслав Викторович": 28,
-      "Свергунова Маргарита Николаевна": 39,
-      "Сошин Максим Викторович": 40,
-      "Сураев Максим Викторович": 539
+      "gas:candidate-vibid:4504001231709": 40,
+      "gas:candidate-vibid:4504001230992": 78,
+      "gas:candidate-vibid:4504001231599": 93,
+      "gas:candidate-vibid:4504001230891": 104,
+      "gas:candidate-vibid:4504001231192": 33,
+      "gas:candidate-vibid:4504001231550": 28,
+      "gas:candidate-vibid:4504001231637": 39,
+      "gas:candidate-vibid:4504001231262": 40,
+      "gas:candidate-vibid:4504001231436": 539
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 30,
-      "Блинова Наталья Владимировна": 56,
-      "Красикова Оксана Викторовна": 53,
-      "Мушин Алексей Львович": 55,
-      "Павленок Дмитрий Васильевич": 32,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 43,
-      "Сураев Максим Викторович": 361
+      "gas:candidate-vibid:4504001231709": 30,
+      "gas:candidate-vibid:4504001230992": 56,
+      "gas:candidate-vibid:4504001231599": 53,
+      "gas:candidate-vibid:4504001230891": 55,
+      "gas:candidate-vibid:4504001231192": 32,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 43,
+      "gas:candidate-vibid:4504001231436": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 32,
-      "Блинова Наталья Владимировна": 46,
-      "Красикова Оксана Викторовна": 61,
-      "Мушин Алексей Львович": 49,
-      "Павленок Дмитрий Васильевич": 31,
-      "Пивульский Вячеслав Викторович": 19,
-      "Свергунова Маргарита Николаевна": 29,
-      "Сошин Максим Викторович": 42,
-      "Сураев Максим Викторович": 374
+      "gas:candidate-vibid:4504001231709": 32,
+      "gas:candidate-vibid:4504001230992": 46,
+      "gas:candidate-vibid:4504001231599": 61,
+      "gas:candidate-vibid:4504001230891": 49,
+      "gas:candidate-vibid:4504001231192": 31,
+      "gas:candidate-vibid:4504001231550": 19,
+      "gas:candidate-vibid:4504001231637": 29,
+      "gas:candidate-vibid:4504001231262": 42,
+      "gas:candidate-vibid:4504001231436": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 60,
-      "Красикова Оксана Викторовна": 75,
-      "Мушин Алексей Львович": 87,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 34,
-      "Свергунова Маргарита Николаевна": 25,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 432
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 60,
+      "gas:candidate-vibid:4504001231599": 75,
+      "gas:candidate-vibid:4504001230891": 87,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 34,
+      "gas:candidate-vibid:4504001231637": 25,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 13,
-      "Блинова Наталья Владимировна": 33,
-      "Красикова Оксана Викторовна": 28,
-      "Мушин Алексей Львович": 42,
-      "Павленок Дмитрий Васильевич": 13,
-      "Пивульский Вячеслав Викторович": 11,
-      "Свергунова Маргарита Николаевна": 6,
-      "Сошин Максим Викторович": 15,
-      "Сураев Максим Викторович": 405
+      "gas:candidate-vibid:4504001231709": 13,
+      "gas:candidate-vibid:4504001230992": 33,
+      "gas:candidate-vibid:4504001231599": 28,
+      "gas:candidate-vibid:4504001230891": 42,
+      "gas:candidate-vibid:4504001231192": 13,
+      "gas:candidate-vibid:4504001231550": 11,
+      "gas:candidate-vibid:4504001231637": 6,
+      "gas:candidate-vibid:4504001231262": 15,
+      "gas:candidate-vibid:4504001231436": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 16,
-      "Блинова Наталья Владимировна": 43,
-      "Красикова Оксана Викторовна": 50,
-      "Мушин Алексей Львович": 57,
-      "Павленок Дмитрий Васильевич": 15,
-      "Пивульский Вячеслав Викторович": 6,
-      "Свергунова Маргарита Николаевна": 16,
-      "Сошин Максим Викторович": 32,
-      "Сураев Максим Викторович": 428
+      "gas:candidate-vibid:4504001231709": 16,
+      "gas:candidate-vibid:4504001230992": 43,
+      "gas:candidate-vibid:4504001231599": 50,
+      "gas:candidate-vibid:4504001230891": 57,
+      "gas:candidate-vibid:4504001231192": 15,
+      "gas:candidate-vibid:4504001231550": 6,
+      "gas:candidate-vibid:4504001231637": 16,
+      "gas:candidate-vibid:4504001231262": 32,
+      "gas:candidate-vibid:4504001231436": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 20,
-      "Блинова Наталья Владимировна": 47,
-      "Красикова Оксана Викторовна": 67,
-      "Мушин Алексей Львович": 47,
-      "Павленок Дмитрий Васильевич": 20,
-      "Пивульский Вячеслав Викторович": 27,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 35,
-      "Сураев Максим Викторович": 294
+      "gas:candidate-vibid:4504001231709": 20,
+      "gas:candidate-vibid:4504001230992": 47,
+      "gas:candidate-vibid:4504001231599": 67,
+      "gas:candidate-vibid:4504001230891": 47,
+      "gas:candidate-vibid:4504001231192": 20,
+      "gas:candidate-vibid:4504001231550": 27,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 35,
+      "gas:candidate-vibid:4504001231436": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 21,
-      "Блинова Наталья Владимировна": 48,
-      "Красикова Оксана Викторовна": 63,
-      "Мушин Алексей Львович": 61,
-      "Павленок Дмитрий Васильевич": 14,
-      "Пивульский Вячеслав Викторович": 20,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 41,
-      "Сураев Максим Викторович": 425
+      "gas:candidate-vibid:4504001231709": 21,
+      "gas:candidate-vibid:4504001230992": 48,
+      "gas:candidate-vibid:4504001231599": 63,
+      "gas:candidate-vibid:4504001230891": 61,
+      "gas:candidate-vibid:4504001231192": 14,
+      "gas:candidate-vibid:4504001231550": 20,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 41,
+      "gas:candidate-vibid:4504001231436": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 36,
-      "Блинова Наталья Владимировна": 52,
-      "Красикова Оксана Викторовна": 99,
-      "Мушин Алексей Львович": 75,
-      "Павленок Дмитрий Васильевич": 22,
-      "Пивульский Вячеслав Викторович": 24,
-      "Свергунова Маргарита Николаевна": 27,
-      "Сошин Максим Викторович": 46,
-      "Сураев Максим Викторович": 696
+      "gas:candidate-vibid:4504001231709": 36,
+      "gas:candidate-vibid:4504001230992": 52,
+      "gas:candidate-vibid:4504001231599": 99,
+      "gas:candidate-vibid:4504001230891": 75,
+      "gas:candidate-vibid:4504001231192": 22,
+      "gas:candidate-vibid:4504001231550": 24,
+      "gas:candidate-vibid:4504001231637": 27,
+      "gas:candidate-vibid:4504001231262": 46,
+      "gas:candidate-vibid:4504001231436": 696
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 31,
-      "Блинова Наталья Владимировна": 59,
-      "Красикова Оксана Викторовна": 118,
-      "Мушин Алексей Львович": 60,
-      "Павленок Дмитрий Васильевич": 43,
-      "Пивульский Вячеслав Викторович": 29,
-      "Свергунова Маргарита Николаевна": 28,
-      "Сошин Максим Викторович": 101,
-      "Сураев Максим Викторович": 1250
+      "gas:candidate-vibid:4504001231709": 31,
+      "gas:candidate-vibid:4504001230992": 59,
+      "gas:candidate-vibid:4504001231599": 118,
+      "gas:candidate-vibid:4504001230891": 60,
+      "gas:candidate-vibid:4504001231192": 43,
+      "gas:candidate-vibid:4504001231550": 29,
+      "gas:candidate-vibid:4504001231637": 28,
+      "gas:candidate-vibid:4504001231262": 101,
+      "gas:candidate-vibid:4504001231436": 1250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 27,
-      "Блинова Наталья Владимировна": 48,
-      "Красикова Оксана Викторовна": 66,
-      "Мушин Алексей Львович": 48,
-      "Павленок Дмитрий Васильевич": 27,
-      "Пивульский Вячеслав Викторович": 21,
-      "Свергунова Маргарита Николаевна": 17,
-      "Сошин Максим Викторович": 51,
-      "Сураев Максим Викторович": 598
+      "gas:candidate-vibid:4504001231709": 27,
+      "gas:candidate-vibid:4504001230992": 48,
+      "gas:candidate-vibid:4504001231599": 66,
+      "gas:candidate-vibid:4504001230891": 48,
+      "gas:candidate-vibid:4504001231192": 27,
+      "gas:candidate-vibid:4504001231550": 21,
+      "gas:candidate-vibid:4504001231637": 17,
+      "gas:candidate-vibid:4504001231262": 51,
+      "gas:candidate-vibid:4504001231436": 598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 15,
-      "Блинова Наталья Владимировна": 22,
-      "Красикова Оксана Викторовна": 64,
-      "Мушин Алексей Львович": 28,
-      "Павленок Дмитрий Васильевич": 16,
-      "Пивульский Вячеслав Викторович": 5,
-      "Свергунова Маргарита Николаевна": 14,
-      "Сошин Максим Викторович": 26,
-      "Сураев Максим Викторович": 120
+      "gas:candidate-vibid:4504001231709": 15,
+      "gas:candidate-vibid:4504001230992": 22,
+      "gas:candidate-vibid:4504001231599": 64,
+      "gas:candidate-vibid:4504001230891": 28,
+      "gas:candidate-vibid:4504001231192": 16,
+      "gas:candidate-vibid:4504001231550": 5,
+      "gas:candidate-vibid:4504001231637": 14,
+      "gas:candidate-vibid:4504001231262": 26,
+      "gas:candidate-vibid:4504001231436": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 38,
-      "Блинова Наталья Владимировна": 56,
-      "Красикова Оксана Викторовна": 62,
-      "Мушин Алексей Львович": 69,
-      "Павленок Дмитрий Васильевич": 59,
-      "Пивульский Вячеслав Викторович": 31,
-      "Свергунова Маргарита Николаевна": 41,
-      "Сошин Максим Викторович": 44,
-      "Сураев Максим Викторович": 443
+      "gas:candidate-vibid:4504001231709": 38,
+      "gas:candidate-vibid:4504001230992": 56,
+      "gas:candidate-vibid:4504001231599": 62,
+      "gas:candidate-vibid:4504001230891": 69,
+      "gas:candidate-vibid:4504001231192": 59,
+      "gas:candidate-vibid:4504001231550": 31,
+      "gas:candidate-vibid:4504001231637": 41,
+      "gas:candidate-vibid:4504001231262": 44,
+      "gas:candidate-vibid:4504001231436": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 37,
-      "Блинова Наталья Владимировна": 39,
-      "Красикова Оксана Викторовна": 81,
-      "Мушин Алексей Львович": 58,
-      "Павленок Дмитрий Васильевич": 29,
-      "Пивульский Вячеслав Викторович": 24,
-      "Свергунова Маргарита Николаевна": 35,
-      "Сошин Максим Викторович": 35,
-      "Сураев Максим Викторович": 465
+      "gas:candidate-vibid:4504001231709": 37,
+      "gas:candidate-vibid:4504001230992": 39,
+      "gas:candidate-vibid:4504001231599": 81,
+      "gas:candidate-vibid:4504001230891": 58,
+      "gas:candidate-vibid:4504001231192": 29,
+      "gas:candidate-vibid:4504001231550": 24,
+      "gas:candidate-vibid:4504001231637": 35,
+      "gas:candidate-vibid:4504001231262": 35,
+      "gas:candidate-vibid:4504001231436": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 22,
-      "Блинова Наталья Владимировна": 25,
-      "Красикова Оксана Викторовна": 38,
-      "Мушин Алексей Львович": 30,
-      "Павленок Дмитрий Васильевич": 17,
-      "Пивульский Вячеслав Викторович": 22,
-      "Свергунова Маргарита Николаевна": 18,
-      "Сошин Максим Викторович": 30,
-      "Сураев Максим Викторович": 462
+      "gas:candidate-vibid:4504001231709": 22,
+      "gas:candidate-vibid:4504001230992": 25,
+      "gas:candidate-vibid:4504001231599": 38,
+      "gas:candidate-vibid:4504001230891": 30,
+      "gas:candidate-vibid:4504001231192": 17,
+      "gas:candidate-vibid:4504001231550": 22,
+      "gas:candidate-vibid:4504001231637": 18,
+      "gas:candidate-vibid:4504001231262": 30,
+      "gas:candidate-vibid:4504001231436": 462
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 39,
-      "Блинова Наталья Владимировна": 30,
-      "Красикова Оксана Викторовна": 28,
-      "Мушин Алексей Львович": 33,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 14,
-      "Свергунова Маргарита Николаевна": 20,
-      "Сошин Максим Викторович": 18,
-      "Сураев Максим Викторович": 764
+      "gas:candidate-vibid:4504001231709": 39,
+      "gas:candidate-vibid:4504001230992": 30,
+      "gas:candidate-vibid:4504001231599": 28,
+      "gas:candidate-vibid:4504001230891": 33,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 14,
+      "gas:candidate-vibid:4504001231637": 20,
+      "gas:candidate-vibid:4504001231262": 18,
+      "gas:candidate-vibid:4504001231436": 764
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 38,
-      "Блинова Наталья Владимировна": 56,
-      "Красикова Оксана Викторовна": 96,
-      "Мушин Алексей Львович": 82,
-      "Павленок Дмитрий Васильевич": 21,
-      "Пивульский Вячеслав Викторович": 24,
-      "Свергунова Маргарита Николаевна": 26,
-      "Сошин Максим Викторович": 41,
-      "Сураев Максим Викторович": 402
+      "gas:candidate-vibid:4504001231709": 38,
+      "gas:candidate-vibid:4504001230992": 56,
+      "gas:candidate-vibid:4504001231599": 96,
+      "gas:candidate-vibid:4504001230891": 82,
+      "gas:candidate-vibid:4504001231192": 21,
+      "gas:candidate-vibid:4504001231550": 24,
+      "gas:candidate-vibid:4504001231637": 26,
+      "gas:candidate-vibid:4504001231262": 41,
+      "gas:candidate-vibid:4504001231436": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баташев Анатолий Геннадьевич": 23,
-      "Блинова Наталья Владимировна": 74,
-      "Красикова Оксана Викторовна": 99,
-      "Мушин Алексей Львович": 93,
-      "Павленок Дмитрий Васильевич": 25,
-      "Пивульский Вячеслав Викторович": 25,
-      "Свергунова Маргарита Николаевна": 35,
-      "Сошин Максим Викторович": 38,
-      "Сураев Максим Викторович": 383
+      "gas:candidate-vibid:4504001231709": 23,
+      "gas:candidate-vibid:4504001230992": 74,
+      "gas:candidate-vibid:4504001231599": 99,
+      "gas:candidate-vibid:4504001230891": 93,
+      "gas:candidate-vibid:4504001231192": 25,
+      "gas:candidate-vibid:4504001231550": 25,
+      "gas:candidate-vibid:4504001231637": 35,
+      "gas:candidate-vibid:4504001231262": 38,
+      "gas:candidate-vibid:4504001231436": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000156&tvd=25020002005523&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005523&type=464",
@@ -2285,16 +2285,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 47,
-      "Белоусов Вячеслав Георгиевич": 17,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 25,
-      "Зернов Михаил Владимирович": 5,
-      "Надеждин Борис Борисович": 14,
-      "Роднина Ирина Константиновна": 279,
-      "Рязанов Владимир Викторович": 12,
-      "Трунин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:4504005312039": 47,
+      "gas:candidate-vibid:4504005311843": 17,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 25,
+      "gas:candidate-vibid:4504005311278": 5,
+      "gas:candidate-vibid:4504005313402": 14,
+      "gas:candidate-vibid:4504005312514": 279,
+      "gas:candidate-vibid:4504005312229": 12,
+      "gas:candidate-vibid:4504005314926": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005524&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005524&type=464",
@@ -2345,16 +2345,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 48,
-      "Белоусов Вячеслав Георгиевич": 14,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 62,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 17,
-      "Роднина Ирина Константиновна": 394,
-      "Рязанов Владимир Викторович": 20,
-      "Трунин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:4504005312039": 48,
+      "gas:candidate-vibid:4504005311843": 14,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 62,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 17,
+      "gas:candidate-vibid:4504005312514": 394,
+      "gas:candidate-vibid:4504005312229": 20,
+      "gas:candidate-vibid:4504005314926": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005524&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005524&type=464",
@@ -2405,16 +2405,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 28,
-      "Белоусов Вячеслав Георгиевич": 21,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 49,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 23,
-      "Роднина Ирина Константиновна": 227,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:4504005312039": 28,
+      "gas:candidate-vibid:4504005311843": 21,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 49,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 23,
+      "gas:candidate-vibid:4504005312514": 227,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005524&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005524&type=464",
@@ -2465,16 +2465,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 41,
-      "Белоусов Вячеслав Георгиевич": 20,
-      "Бычинский Станислав Олегович": 3,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 48,
-      "Зернов Михаил Владимирович": 9,
-      "Надеждин Борис Борисович": 27,
-      "Роднина Ирина Константиновна": 158,
-      "Рязанов Владимир Викторович": 5,
-      "Трунин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:4504005312039": 41,
+      "gas:candidate-vibid:4504005311843": 20,
+      "gas:candidate-vibid:4504005312320": 3,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 48,
+      "gas:candidate-vibid:4504005311278": 9,
+      "gas:candidate-vibid:4504005313402": 27,
+      "gas:candidate-vibid:4504005312514": 158,
+      "gas:candidate-vibid:4504005312229": 5,
+      "gas:candidate-vibid:4504005314926": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005524&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005524&type=464",
@@ -2525,16 +2525,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 3,
-      "Белоусов Вячеслав Георгиевич": 1,
-      "Бычинский Станислав Олегович": 0,
-      "Взятышев Юрий Михайлович": 0,
-      "Дмитриева Виктория Вадимовна": 4,
-      "Зернов Михаил Владимирович": 5,
-      "Надеждин Борис Борисович": 2,
-      "Роднина Ирина Константиновна": 14,
-      "Рязанов Владимир Викторович": 1,
-      "Трунин Дмитрий Николаевич": 0
+      "gas:candidate-vibid:4504005312039": 3,
+      "gas:candidate-vibid:4504005311843": 1,
+      "gas:candidate-vibid:4504005312320": 0,
+      "gas:candidate-vibid:4504005312497": 0,
+      "gas:candidate-vibid:4504005312410": 4,
+      "gas:candidate-vibid:4504005311278": 5,
+      "gas:candidate-vibid:4504005313402": 2,
+      "gas:candidate-vibid:4504005312514": 14,
+      "gas:candidate-vibid:4504005312229": 1,
+      "gas:candidate-vibid:4504005314926": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -2585,16 +2585,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 1,
-      "Белоусов Вячеслав Георгиевич": 2,
-      "Бычинский Станислав Олегович": 0,
-      "Взятышев Юрий Михайлович": 0,
-      "Дмитриева Виктория Вадимовна": 3,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 0,
-      "Роднина Ирина Константиновна": 6,
-      "Рязанов Владимир Викторович": 2,
-      "Трунин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:4504005312039": 1,
+      "gas:candidate-vibid:4504005311843": 2,
+      "gas:candidate-vibid:4504005312320": 0,
+      "gas:candidate-vibid:4504005312497": 0,
+      "gas:candidate-vibid:4504005312410": 3,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 0,
+      "gas:candidate-vibid:4504005312514": 6,
+      "gas:candidate-vibid:4504005312229": 2,
+      "gas:candidate-vibid:4504005314926": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -2645,16 +2645,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 55,
-      "Белоусов Вячеслав Георгиевич": 19,
-      "Бычинский Станислав Олегович": 6,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 36,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 19,
-      "Роднина Ирина Константиновна": 468,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:4504005312039": 55,
+      "gas:candidate-vibid:4504005311843": 19,
+      "gas:candidate-vibid:4504005312320": 6,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 36,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 19,
+      "gas:candidate-vibid:4504005312514": 468,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -2705,16 +2705,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 79,
-      "Белоусов Вячеслав Георгиевич": 55,
-      "Бычинский Станислав Олегович": 20,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 69,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 45,
-      "Роднина Ирина Константиновна": 263,
-      "Рязанов Владимир Викторович": 31,
-      "Трунин Дмитрий Николаевич": 81
+      "gas:candidate-vibid:4504005312039": 79,
+      "gas:candidate-vibid:4504005311843": 55,
+      "gas:candidate-vibid:4504005312320": 20,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 69,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 45,
+      "gas:candidate-vibid:4504005312514": 263,
+      "gas:candidate-vibid:4504005312229": 31,
+      "gas:candidate-vibid:4504005314926": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -2765,16 +2765,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 63,
-      "Белоусов Вячеслав Георгиевич": 44,
-      "Бычинский Станислав Олегович": 15,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 42,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 41,
-      "Роднина Ирина Константиновна": 189,
-      "Рязанов Владимир Викторович": 35,
-      "Трунин Дмитрий Николаевич": 46
+      "gas:candidate-vibid:4504005312039": 63,
+      "gas:candidate-vibid:4504005311843": 44,
+      "gas:candidate-vibid:4504005312320": 15,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 42,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 41,
+      "gas:candidate-vibid:4504005312514": 189,
+      "gas:candidate-vibid:4504005312229": 35,
+      "gas:candidate-vibid:4504005314926": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -2825,16 +2825,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 104,
-      "Белоусов Вячеслав Георгиевич": 40,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 59,
-      "Зернов Михаил Владимирович": 19,
-      "Надеждин Борис Борисович": 49,
-      "Роднина Ирина Константиновна": 286,
-      "Рязанов Владимир Викторович": 36,
-      "Трунин Дмитрий Николаевич": 51
+      "gas:candidate-vibid:4504005312039": 104,
+      "gas:candidate-vibid:4504005311843": 40,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 59,
+      "gas:candidate-vibid:4504005311278": 19,
+      "gas:candidate-vibid:4504005313402": 49,
+      "gas:candidate-vibid:4504005312514": 286,
+      "gas:candidate-vibid:4504005312229": 36,
+      "gas:candidate-vibid:4504005314926": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -2885,16 +2885,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 93,
-      "Белоусов Вячеслав Георгиевич": 39,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 59,
-      "Зернов Михаил Владимирович": 15,
-      "Надеждин Борис Борисович": 54,
-      "Роднина Ирина Константиновна": 239,
-      "Рязанов Владимир Викторович": 28,
-      "Трунин Дмитрий Николаевич": 60
+      "gas:candidate-vibid:4504005312039": 93,
+      "gas:candidate-vibid:4504005311843": 39,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 59,
+      "gas:candidate-vibid:4504005311278": 15,
+      "gas:candidate-vibid:4504005313402": 54,
+      "gas:candidate-vibid:4504005312514": 239,
+      "gas:candidate-vibid:4504005312229": 28,
+      "gas:candidate-vibid:4504005314926": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -2945,16 +2945,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 43,
-      "Белоусов Вячеслав Георгиевич": 30,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 38,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 17,
-      "Роднина Ирина Константиновна": 143,
-      "Рязанов Владимир Викторович": 15,
-      "Трунин Дмитрий Николаевич": 24
+      "gas:candidate-vibid:4504005312039": 43,
+      "gas:candidate-vibid:4504005311843": 30,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 38,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 17,
+      "gas:candidate-vibid:4504005312514": 143,
+      "gas:candidate-vibid:4504005312229": 15,
+      "gas:candidate-vibid:4504005314926": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3005,16 +3005,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 78,
-      "Белоусов Вячеслав Георгиевич": 44,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 56,
-      "Зернов Михаил Владимирович": 15,
-      "Надеждин Борис Борисович": 47,
-      "Роднина Ирина Константиновна": 246,
-      "Рязанов Владимир Викторович": 36,
-      "Трунин Дмитрий Николаевич": 43
+      "gas:candidate-vibid:4504005312039": 78,
+      "gas:candidate-vibid:4504005311843": 44,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 56,
+      "gas:candidate-vibid:4504005311278": 15,
+      "gas:candidate-vibid:4504005313402": 47,
+      "gas:candidate-vibid:4504005312514": 246,
+      "gas:candidate-vibid:4504005312229": 36,
+      "gas:candidate-vibid:4504005314926": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3065,16 +3065,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 115,
-      "Белоусов Вячеслав Георгиевич": 45,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 77,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 63,
-      "Роднина Ирина Константиновна": 298,
-      "Рязанов Владимир Викторович": 37,
-      "Трунин Дмитрий Николаевич": 59
+      "gas:candidate-vibid:4504005312039": 115,
+      "gas:candidate-vibid:4504005311843": 45,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 77,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 63,
+      "gas:candidate-vibid:4504005312514": 298,
+      "gas:candidate-vibid:4504005312229": 37,
+      "gas:candidate-vibid:4504005314926": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3125,16 +3125,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 84,
-      "Белоусов Вячеслав Георгиевич": 56,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 15,
-      "Дмитриева Виктория Вадимовна": 63,
-      "Зернов Михаил Владимирович": 21,
-      "Надеждин Борис Борисович": 55,
-      "Роднина Ирина Константиновна": 263,
-      "Рязанов Владимир Викторович": 32,
-      "Трунин Дмитрий Николаевич": 56
+      "gas:candidate-vibid:4504005312039": 84,
+      "gas:candidate-vibid:4504005311843": 56,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 15,
+      "gas:candidate-vibid:4504005312410": 63,
+      "gas:candidate-vibid:4504005311278": 21,
+      "gas:candidate-vibid:4504005313402": 55,
+      "gas:candidate-vibid:4504005312514": 263,
+      "gas:candidate-vibid:4504005312229": 32,
+      "gas:candidate-vibid:4504005314926": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3185,16 +3185,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 76,
-      "Белоусов Вячеслав Георгиевич": 35,
-      "Бычинский Станислав Олегович": 14,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 53,
-      "Зернов Михаил Владимирович": 15,
-      "Надеждин Борис Борисович": 55,
-      "Роднина Ирина Константиновна": 248,
-      "Рязанов Владимир Викторович": 33,
-      "Трунин Дмитрий Николаевич": 62
+      "gas:candidate-vibid:4504005312039": 76,
+      "gas:candidate-vibid:4504005311843": 35,
+      "gas:candidate-vibid:4504005312320": 14,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 53,
+      "gas:candidate-vibid:4504005311278": 15,
+      "gas:candidate-vibid:4504005313402": 55,
+      "gas:candidate-vibid:4504005312514": 248,
+      "gas:candidate-vibid:4504005312229": 33,
+      "gas:candidate-vibid:4504005314926": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3245,16 +3245,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 94,
-      "Белоусов Вячеслав Георгиевич": 57,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 19,
-      "Дмитриева Виктория Вадимовна": 75,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 60,
-      "Роднина Ирина Константиновна": 281,
-      "Рязанов Владимир Викторович": 32,
-      "Трунин Дмитрий Николаевич": 62
+      "gas:candidate-vibid:4504005312039": 94,
+      "gas:candidate-vibid:4504005311843": 57,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 19,
+      "gas:candidate-vibid:4504005312410": 75,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 60,
+      "gas:candidate-vibid:4504005312514": 281,
+      "gas:candidate-vibid:4504005312229": 32,
+      "gas:candidate-vibid:4504005314926": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3305,16 +3305,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 55,
-      "Белоусов Вячеслав Георгиевич": 33,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 36,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 31,
-      "Роднина Ирина Константиновна": 112,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 44
+      "gas:candidate-vibid:4504005312039": 55,
+      "gas:candidate-vibid:4504005311843": 33,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 36,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 31,
+      "gas:candidate-vibid:4504005312514": 112,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3365,16 +3365,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 40,
-      "Белоусов Вячеслав Георгиевич": 32,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 23,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 24,
-      "Роднина Ирина Константиновна": 132,
-      "Рязанов Владимир Викторович": 13,
-      "Трунин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:4504005312039": 40,
+      "gas:candidate-vibid:4504005311843": 32,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 23,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 24,
+      "gas:candidate-vibid:4504005312514": 132,
+      "gas:candidate-vibid:4504005312229": 13,
+      "gas:candidate-vibid:4504005314926": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3425,16 +3425,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 57,
-      "Белоусов Вячеслав Георгиевич": 35,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 37,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 37,
-      "Роднина Ирина Константиновна": 166,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 48
+      "gas:candidate-vibid:4504005312039": 57,
+      "gas:candidate-vibid:4504005311843": 35,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 37,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 37,
+      "gas:candidate-vibid:4504005312514": 166,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3485,16 +3485,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 74,
-      "Белоусов Вячеслав Георгиевич": 42,
-      "Бычинский Станислав Олегович": 7,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 43,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 42,
-      "Роднина Ирина Константиновна": 219,
-      "Рязанов Владимир Викторович": 21,
-      "Трунин Дмитрий Николаевич": 37
+      "gas:candidate-vibid:4504005312039": 74,
+      "gas:candidate-vibid:4504005311843": 42,
+      "gas:candidate-vibid:4504005312320": 7,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 43,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 42,
+      "gas:candidate-vibid:4504005312514": 219,
+      "gas:candidate-vibid:4504005312229": 21,
+      "gas:candidate-vibid:4504005314926": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3545,16 +3545,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 47,
-      "Белоусов Вячеслав Георгиевич": 38,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 58,
-      "Зернов Михаил Владимирович": 17,
-      "Надеждин Борис Борисович": 32,
-      "Роднина Ирина Константиновна": 203,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 45
+      "gas:candidate-vibid:4504005312039": 47,
+      "gas:candidate-vibid:4504005311843": 38,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 58,
+      "gas:candidate-vibid:4504005311278": 17,
+      "gas:candidate-vibid:4504005313402": 32,
+      "gas:candidate-vibid:4504005312514": 203,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3605,16 +3605,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 72,
-      "Белоусов Вячеслав Георгиевич": 63,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 15,
-      "Дмитриева Виктория Вадимовна": 59,
-      "Зернов Михаил Владимирович": 20,
-      "Надеждин Борис Борисович": 42,
-      "Роднина Ирина Константиновна": 228,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 65
+      "gas:candidate-vibid:4504005312039": 72,
+      "gas:candidate-vibid:4504005311843": 63,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 15,
+      "gas:candidate-vibid:4504005312410": 59,
+      "gas:candidate-vibid:4504005311278": 20,
+      "gas:candidate-vibid:4504005313402": 42,
+      "gas:candidate-vibid:4504005312514": 228,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3665,16 +3665,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 63,
-      "Белоусов Вячеслав Георгиевич": 29,
-      "Бычинский Станислав Олегович": 14,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 63,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 33,
-      "Роднина Ирина Константиновна": 202,
-      "Рязанов Владимир Викторович": 13,
-      "Трунин Дмитрий Николаевич": 42
+      "gas:candidate-vibid:4504005312039": 63,
+      "gas:candidate-vibid:4504005311843": 29,
+      "gas:candidate-vibid:4504005312320": 14,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 63,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 33,
+      "gas:candidate-vibid:4504005312514": 202,
+      "gas:candidate-vibid:4504005312229": 13,
+      "gas:candidate-vibid:4504005314926": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3725,16 +3725,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 67,
-      "Белоусов Вячеслав Георгиевич": 43,
-      "Бычинский Станислав Олегович": 20,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 51,
-      "Зернов Михаил Владимирович": 16,
-      "Надеждин Борис Борисович": 51,
-      "Роднина Ирина Константиновна": 328,
-      "Рязанов Владимир Викторович": 34,
-      "Трунин Дмитрий Николаевич": 70
+      "gas:candidate-vibid:4504005312039": 67,
+      "gas:candidate-vibid:4504005311843": 43,
+      "gas:candidate-vibid:4504005312320": 20,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 51,
+      "gas:candidate-vibid:4504005311278": 16,
+      "gas:candidate-vibid:4504005313402": 51,
+      "gas:candidate-vibid:4504005312514": 328,
+      "gas:candidate-vibid:4504005312229": 34,
+      "gas:candidate-vibid:4504005314926": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3785,16 +3785,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 105,
-      "Белоусов Вячеслав Георгиевич": 75,
-      "Бычинский Станислав Олегович": 18,
-      "Взятышев Юрий Михайлович": 24,
-      "Дмитриева Виктория Вадимовна": 75,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 55,
-      "Роднина Ирина Константиновна": 336,
-      "Рязанов Владимир Викторович": 28,
-      "Трунин Дмитрий Николаевич": 69
+      "gas:candidate-vibid:4504005312039": 105,
+      "gas:candidate-vibid:4504005311843": 75,
+      "gas:candidate-vibid:4504005312320": 18,
+      "gas:candidate-vibid:4504005312497": 24,
+      "gas:candidate-vibid:4504005312410": 75,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 55,
+      "gas:candidate-vibid:4504005312514": 336,
+      "gas:candidate-vibid:4504005312229": 28,
+      "gas:candidate-vibid:4504005314926": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3845,16 +3845,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 91,
-      "Белоусов Вячеслав Георгиевич": 76,
-      "Бычинский Станислав Олегович": 24,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 51,
-      "Зернов Михаил Владимирович": 15,
-      "Надеждин Борис Борисович": 46,
-      "Роднина Ирина Константиновна": 272,
-      "Рязанов Владимир Викторович": 35,
-      "Трунин Дмитрий Николаевич": 54
+      "gas:candidate-vibid:4504005312039": 91,
+      "gas:candidate-vibid:4504005311843": 76,
+      "gas:candidate-vibid:4504005312320": 24,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 51,
+      "gas:candidate-vibid:4504005311278": 15,
+      "gas:candidate-vibid:4504005313402": 46,
+      "gas:candidate-vibid:4504005312514": 272,
+      "gas:candidate-vibid:4504005312229": 35,
+      "gas:candidate-vibid:4504005314926": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3905,16 +3905,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 93,
-      "Белоусов Вячеслав Георгиевич": 51,
-      "Бычинский Станислав Олегович": 15,
-      "Взятышев Юрий Михайлович": 23,
-      "Дмитриева Виктория Вадимовна": 58,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 48,
-      "Роднина Ирина Константиновна": 231,
-      "Рязанов Владимир Викторович": 15,
-      "Трунин Дмитрий Николаевич": 67
+      "gas:candidate-vibid:4504005312039": 93,
+      "gas:candidate-vibid:4504005311843": 51,
+      "gas:candidate-vibid:4504005312320": 15,
+      "gas:candidate-vibid:4504005312497": 23,
+      "gas:candidate-vibid:4504005312410": 58,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 48,
+      "gas:candidate-vibid:4504005312514": 231,
+      "gas:candidate-vibid:4504005312229": 15,
+      "gas:candidate-vibid:4504005314926": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -3965,16 +3965,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 73,
-      "Белоусов Вячеслав Георгиевич": 69,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 15,
-      "Дмитриева Виктория Вадимовна": 65,
-      "Зернов Михаил Владимирович": 12,
-      "Надеждин Борис Борисович": 52,
-      "Роднина Ирина Константиновна": 245,
-      "Рязанов Владимир Викторович": 40,
-      "Трунин Дмитрий Николаевич": 70
+      "gas:candidate-vibid:4504005312039": 73,
+      "gas:candidate-vibid:4504005311843": 69,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 15,
+      "gas:candidate-vibid:4504005312410": 65,
+      "gas:candidate-vibid:4504005311278": 12,
+      "gas:candidate-vibid:4504005313402": 52,
+      "gas:candidate-vibid:4504005312514": 245,
+      "gas:candidate-vibid:4504005312229": 40,
+      "gas:candidate-vibid:4504005314926": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4025,16 +4025,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 90,
-      "Белоусов Вячеслав Георгиевич": 39,
-      "Бычинский Станислав Олегович": 20,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 70,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 50,
-      "Роднина Ирина Константиновна": 273,
-      "Рязанов Владимир Викторович": 39,
-      "Трунин Дмитрий Николаевич": 55
+      "gas:candidate-vibid:4504005312039": 90,
+      "gas:candidate-vibid:4504005311843": 39,
+      "gas:candidate-vibid:4504005312320": 20,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 70,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 50,
+      "gas:candidate-vibid:4504005312514": 273,
+      "gas:candidate-vibid:4504005312229": 39,
+      "gas:candidate-vibid:4504005314926": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4085,16 +4085,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 69,
-      "Белоусов Вячеслав Георгиевич": 49,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 45,
-      "Зернов Михаил Владимирович": 5,
-      "Надеждин Борис Борисович": 31,
-      "Роднина Ирина Константиновна": 553,
-      "Рязанов Владимир Викторович": 20,
-      "Трунин Дмитрий Николаевич": 72
+      "gas:candidate-vibid:4504005312039": 69,
+      "gas:candidate-vibid:4504005311843": 49,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 45,
+      "gas:candidate-vibid:4504005311278": 5,
+      "gas:candidate-vibid:4504005313402": 31,
+      "gas:candidate-vibid:4504005312514": 553,
+      "gas:candidate-vibid:4504005312229": 20,
+      "gas:candidate-vibid:4504005314926": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4145,16 +4145,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 104,
-      "Белоусов Вячеслав Георгиевич": 59,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 77,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 57,
-      "Роднина Ирина Константиновна": 902,
-      "Рязанов Владимир Викторович": 45,
-      "Трунин Дмитрий Николаевич": 40
+      "gas:candidate-vibid:4504005312039": 104,
+      "gas:candidate-vibid:4504005311843": 59,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 77,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 57,
+      "gas:candidate-vibid:4504005312514": 902,
+      "gas:candidate-vibid:4504005312229": 45,
+      "gas:candidate-vibid:4504005314926": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4205,16 +4205,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 61,
-      "Белоусов Вячеслав Георгиевич": 211,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 62,
-      "Зернов Михаил Владимирович": 33,
-      "Надеждин Борис Борисович": 51,
-      "Роднина Ирина Константиновна": 601,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 82
+      "gas:candidate-vibid:4504005312039": 61,
+      "gas:candidate-vibid:4504005311843": 211,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 62,
+      "gas:candidate-vibid:4504005311278": 33,
+      "gas:candidate-vibid:4504005313402": 51,
+      "gas:candidate-vibid:4504005312514": 601,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4265,16 +4265,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 82,
-      "Белоусов Вячеслав Георгиевич": 72,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 21,
-      "Дмитриева Виктория Вадимовна": 81,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 60,
-      "Роднина Ирина Константиновна": 296,
-      "Рязанов Владимир Викторович": 27,
-      "Трунин Дмитрий Николаевич": 58
+      "gas:candidate-vibid:4504005312039": 82,
+      "gas:candidate-vibid:4504005311843": 72,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 21,
+      "gas:candidate-vibid:4504005312410": 81,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 60,
+      "gas:candidate-vibid:4504005312514": 296,
+      "gas:candidate-vibid:4504005312229": 27,
+      "gas:candidate-vibid:4504005314926": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4325,16 +4325,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 71,
-      "Белоусов Вячеслав Георгиевич": 79,
-      "Бычинский Станислав Олегович": 19,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 64,
-      "Зернов Михаил Владимирович": 19,
-      "Надеждин Борис Борисович": 56,
-      "Роднина Ирина Константиновна": 264,
-      "Рязанов Владимир Викторович": 28,
-      "Трунин Дмитрий Николаевич": 44
+      "gas:candidate-vibid:4504005312039": 71,
+      "gas:candidate-vibid:4504005311843": 79,
+      "gas:candidate-vibid:4504005312320": 19,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 64,
+      "gas:candidate-vibid:4504005311278": 19,
+      "gas:candidate-vibid:4504005313402": 56,
+      "gas:candidate-vibid:4504005312514": 264,
+      "gas:candidate-vibid:4504005312229": 28,
+      "gas:candidate-vibid:4504005314926": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4385,16 +4385,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 90,
-      "Белоусов Вячеслав Георгиевич": 70,
-      "Бычинский Станислав Олегович": 24,
-      "Взятышев Юрий Михайлович": 21,
-      "Дмитриева Виктория Вадимовна": 81,
-      "Зернов Михаил Владимирович": 22,
-      "Надеждин Борис Борисович": 38,
-      "Роднина Ирина Константиновна": 293,
-      "Рязанов Владимир Викторович": 41,
-      "Трунин Дмитрий Николаевич": 51
+      "gas:candidate-vibid:4504005312039": 90,
+      "gas:candidate-vibid:4504005311843": 70,
+      "gas:candidate-vibid:4504005312320": 24,
+      "gas:candidate-vibid:4504005312497": 21,
+      "gas:candidate-vibid:4504005312410": 81,
+      "gas:candidate-vibid:4504005311278": 22,
+      "gas:candidate-vibid:4504005313402": 38,
+      "gas:candidate-vibid:4504005312514": 293,
+      "gas:candidate-vibid:4504005312229": 41,
+      "gas:candidate-vibid:4504005314926": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4445,16 +4445,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 100,
-      "Белоусов Вячеслав Георгиевич": 67,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 70,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 26,
-      "Роднина Ирина Константиновна": 325,
-      "Рязанов Владимир Викторович": 37,
-      "Трунин Дмитрий Николаевич": 62
+      "gas:candidate-vibid:4504005312039": 100,
+      "gas:candidate-vibid:4504005311843": 67,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 70,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 26,
+      "gas:candidate-vibid:4504005312514": 325,
+      "gas:candidate-vibid:4504005312229": 37,
+      "gas:candidate-vibid:4504005314926": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4505,16 +4505,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 71,
-      "Белоусов Вячеслав Георгиевич": 34,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 40,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 45,
-      "Роднина Ирина Константиновна": 199,
-      "Рязанов Владимир Викторович": 18,
-      "Трунин Дмитрий Николаевич": 43
+      "gas:candidate-vibid:4504005312039": 71,
+      "gas:candidate-vibid:4504005311843": 34,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 40,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 45,
+      "gas:candidate-vibid:4504005312514": 199,
+      "gas:candidate-vibid:4504005312229": 18,
+      "gas:candidate-vibid:4504005314926": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4565,16 +4565,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 67,
-      "Белоусов Вячеслав Георгиевич": 47,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 62,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 27,
-      "Роднина Ирина Константиновна": 351,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 45
+      "gas:candidate-vibid:4504005312039": 67,
+      "gas:candidate-vibid:4504005311843": 47,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 62,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 27,
+      "gas:candidate-vibid:4504005312514": 351,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4625,16 +4625,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 66,
-      "Белоусов Вячеслав Георгиевич": 51,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 46,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 53,
-      "Роднина Ирина Константиновна": 263,
-      "Рязанов Владимир Викторович": 24,
-      "Трунин Дмитрий Николаевич": 48
+      "gas:candidate-vibid:4504005312039": 66,
+      "gas:candidate-vibid:4504005311843": 51,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 46,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 53,
+      "gas:candidate-vibid:4504005312514": 263,
+      "gas:candidate-vibid:4504005312229": 24,
+      "gas:candidate-vibid:4504005314926": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4685,16 +4685,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 78,
-      "Белоусов Вячеслав Георгиевич": 48,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 54,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 57,
-      "Роднина Ирина Константиновна": 228,
-      "Рязанов Владимир Викторович": 36,
-      "Трунин Дмитрий Николаевич": 41
+      "gas:candidate-vibid:4504005312039": 78,
+      "gas:candidate-vibid:4504005311843": 48,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 54,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 57,
+      "gas:candidate-vibid:4504005312514": 228,
+      "gas:candidate-vibid:4504005312229": 36,
+      "gas:candidate-vibid:4504005314926": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4745,16 +4745,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 56,
-      "Белоусов Вячеслав Георгиевич": 40,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 42,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 30,
-      "Роднина Ирина Константиновна": 147,
-      "Рязанов Владимир Викторович": 18,
-      "Трунин Дмитрий Николаевич": 28
+      "gas:candidate-vibid:4504005312039": 56,
+      "gas:candidate-vibid:4504005311843": 40,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 42,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 30,
+      "gas:candidate-vibid:4504005312514": 147,
+      "gas:candidate-vibid:4504005312229": 18,
+      "gas:candidate-vibid:4504005314926": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4805,16 +4805,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 54,
-      "Белоусов Вячеслав Георгиевич": 42,
-      "Бычинский Станислав Олегович": 17,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 56,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 46,
-      "Роднина Ирина Константиновна": 234,
-      "Рязанов Владимир Викторович": 22,
-      "Трунин Дмитрий Николаевич": 39
+      "gas:candidate-vibid:4504005312039": 54,
+      "gas:candidate-vibid:4504005311843": 42,
+      "gas:candidate-vibid:4504005312320": 17,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 56,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 46,
+      "gas:candidate-vibid:4504005312514": 234,
+      "gas:candidate-vibid:4504005312229": 22,
+      "gas:candidate-vibid:4504005314926": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4865,16 +4865,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 99,
-      "Белоусов Вячеслав Георгиевич": 54,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 45,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 23,
-      "Роднина Ирина Константиновна": 202,
-      "Рязанов Владимир Викторович": 21,
-      "Трунин Дмитрий Николаевич": 48
+      "gas:candidate-vibid:4504005312039": 99,
+      "gas:candidate-vibid:4504005311843": 54,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 45,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 23,
+      "gas:candidate-vibid:4504005312514": 202,
+      "gas:candidate-vibid:4504005312229": 21,
+      "gas:candidate-vibid:4504005314926": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4925,16 +4925,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 48,
-      "Белоусов Вячеслав Георгиевич": 16,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 19,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 26,
-      "Роднина Ирина Константиновна": 119,
-      "Рязанов Владимир Викторович": 14,
-      "Трунин Дмитрий Николаевич": 61
+      "gas:candidate-vibid:4504005312039": 48,
+      "gas:candidate-vibid:4504005311843": 16,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 19,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 26,
+      "gas:candidate-vibid:4504005312514": 119,
+      "gas:candidate-vibid:4504005312229": 14,
+      "gas:candidate-vibid:4504005314926": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -4985,16 +4985,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 33,
-      "Белоусов Вячеслав Георгиевич": 15,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 35,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 27,
-      "Роднина Ирина Константиновна": 108,
-      "Рязанов Владимир Викторович": 14,
-      "Трунин Дмитрий Николаевич": 48
+      "gas:candidate-vibid:4504005312039": 33,
+      "gas:candidate-vibid:4504005311843": 15,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 35,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 27,
+      "gas:candidate-vibid:4504005312514": 108,
+      "gas:candidate-vibid:4504005312229": 14,
+      "gas:candidate-vibid:4504005314926": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5045,16 +5045,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 74,
-      "Белоусов Вячеслав Георгиевич": 65,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 58,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 32,
-      "Роднина Ирина Константиновна": 241,
-      "Рязанов Владимир Викторович": 38,
-      "Трунин Дмитрий Николаевич": 68
+      "gas:candidate-vibid:4504005312039": 74,
+      "gas:candidate-vibid:4504005311843": 65,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 58,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 32,
+      "gas:candidate-vibid:4504005312514": 241,
+      "gas:candidate-vibid:4504005312229": 38,
+      "gas:candidate-vibid:4504005314926": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5105,16 +5105,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 102,
-      "Белоусов Вячеслав Георгиевич": 66,
-      "Бычинский Станислав Олегович": 14,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 66,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 59,
-      "Роднина Ирина Константиновна": 243,
-      "Рязанов Владимир Викторович": 25,
-      "Трунин Дмитрий Николаевич": 47
+      "gas:candidate-vibid:4504005312039": 102,
+      "gas:candidate-vibid:4504005311843": 66,
+      "gas:candidate-vibid:4504005312320": 14,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 66,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 59,
+      "gas:candidate-vibid:4504005312514": 243,
+      "gas:candidate-vibid:4504005312229": 25,
+      "gas:candidate-vibid:4504005314926": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5165,16 +5165,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 90,
-      "Белоусов Вячеслав Георгиевич": 64,
-      "Бычинский Станислав Олегович": 16,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 66,
-      "Зернов Михаил Владимирович": 9,
-      "Надеждин Борис Борисович": 41,
-      "Роднина Ирина Константиновна": 285,
-      "Рязанов Владимир Викторович": 38,
-      "Трунин Дмитрий Николаевич": 46
+      "gas:candidate-vibid:4504005312039": 90,
+      "gas:candidate-vibid:4504005311843": 64,
+      "gas:candidate-vibid:4504005312320": 16,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 66,
+      "gas:candidate-vibid:4504005311278": 9,
+      "gas:candidate-vibid:4504005313402": 41,
+      "gas:candidate-vibid:4504005312514": 285,
+      "gas:candidate-vibid:4504005312229": 38,
+      "gas:candidate-vibid:4504005314926": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5225,16 +5225,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 91,
-      "Белоусов Вячеслав Георгиевич": 52,
-      "Бычинский Станислав Олегович": 14,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 72,
-      "Зернов Михаил Владимирович": 22,
-      "Надеждин Борис Борисович": 47,
-      "Роднина Ирина Константиновна": 303,
-      "Рязанов Владимир Викторович": 33,
-      "Трунин Дмитрий Николаевич": 60
+      "gas:candidate-vibid:4504005312039": 91,
+      "gas:candidate-vibid:4504005311843": 52,
+      "gas:candidate-vibid:4504005312320": 14,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 72,
+      "gas:candidate-vibid:4504005311278": 22,
+      "gas:candidate-vibid:4504005313402": 47,
+      "gas:candidate-vibid:4504005312514": 303,
+      "gas:candidate-vibid:4504005312229": 33,
+      "gas:candidate-vibid:4504005314926": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5285,16 +5285,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 97,
-      "Белоусов Вячеслав Георгиевич": 84,
-      "Бычинский Станислав Олегович": 24,
-      "Взятышев Юрий Михайлович": 17,
-      "Дмитриева Виктория Вадимовна": 77,
-      "Зернов Михаил Владимирович": 12,
-      "Надеждин Борис Борисович": 51,
-      "Роднина Ирина Константиновна": 271,
-      "Рязанов Владимир Викторович": 56,
-      "Трунин Дмитрий Николаевич": 49
+      "gas:candidate-vibid:4504005312039": 97,
+      "gas:candidate-vibid:4504005311843": 84,
+      "gas:candidate-vibid:4504005312320": 24,
+      "gas:candidate-vibid:4504005312497": 17,
+      "gas:candidate-vibid:4504005312410": 77,
+      "gas:candidate-vibid:4504005311278": 12,
+      "gas:candidate-vibid:4504005313402": 51,
+      "gas:candidate-vibid:4504005312514": 271,
+      "gas:candidate-vibid:4504005312229": 56,
+      "gas:candidate-vibid:4504005314926": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5345,16 +5345,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 88,
-      "Белоусов Вячеслав Георгиевич": 55,
-      "Бычинский Станислав Олегович": 18,
-      "Взятышев Юрий Михайлович": 20,
-      "Дмитриева Виктория Вадимовна": 59,
-      "Зернов Михаил Владимирович": 9,
-      "Надеждин Борис Борисович": 31,
-      "Роднина Ирина Константиновна": 287,
-      "Рязанов Владимир Викторович": 39,
-      "Трунин Дмитрий Николаевич": 53
+      "gas:candidate-vibid:4504005312039": 88,
+      "gas:candidate-vibid:4504005311843": 55,
+      "gas:candidate-vibid:4504005312320": 18,
+      "gas:candidate-vibid:4504005312497": 20,
+      "gas:candidate-vibid:4504005312410": 59,
+      "gas:candidate-vibid:4504005311278": 9,
+      "gas:candidate-vibid:4504005313402": 31,
+      "gas:candidate-vibid:4504005312514": 287,
+      "gas:candidate-vibid:4504005312229": 39,
+      "gas:candidate-vibid:4504005314926": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5405,16 +5405,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 93,
-      "Белоусов Вячеслав Георгиевич": 67,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 62,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 36,
-      "Роднина Ирина Константиновна": 236,
-      "Рязанов Владимир Викторович": 24,
-      "Трунин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:4504005312039": 93,
+      "gas:candidate-vibid:4504005311843": 67,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 62,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 36,
+      "gas:candidate-vibid:4504005312514": 236,
+      "gas:candidate-vibid:4504005312229": 24,
+      "gas:candidate-vibid:4504005314926": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5465,16 +5465,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 80,
-      "Белоусов Вячеслав Георгиевич": 47,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 54,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 27,
-      "Роднина Ирина Константиновна": 213,
-      "Рязанов Владимир Викторович": 21,
-      "Трунин Дмитрий Николаевич": 35
+      "gas:candidate-vibid:4504005312039": 80,
+      "gas:candidate-vibid:4504005311843": 47,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 54,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 27,
+      "gas:candidate-vibid:4504005312514": 213,
+      "gas:candidate-vibid:4504005312229": 21,
+      "gas:candidate-vibid:4504005314926": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5525,16 +5525,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 74,
-      "Белоусов Вячеслав Георгиевич": 40,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 20,
-      "Дмитриева Виктория Вадимовна": 68,
-      "Зернов Михаил Владимирович": 12,
-      "Надеждин Борис Борисович": 49,
-      "Роднина Ирина Константиновна": 222,
-      "Рязанов Владимир Викторович": 36,
-      "Трунин Дмитрий Николаевич": 40
+      "gas:candidate-vibid:4504005312039": 74,
+      "gas:candidate-vibid:4504005311843": 40,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 20,
+      "gas:candidate-vibid:4504005312410": 68,
+      "gas:candidate-vibid:4504005311278": 12,
+      "gas:candidate-vibid:4504005313402": 49,
+      "gas:candidate-vibid:4504005312514": 222,
+      "gas:candidate-vibid:4504005312229": 36,
+      "gas:candidate-vibid:4504005314926": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5585,16 +5585,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 71,
-      "Белоусов Вячеслав Георгиевич": 44,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 70,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 39,
-      "Роднина Ирина Константиновна": 194,
-      "Рязанов Владимир Викторович": 24,
-      "Трунин Дмитрий Николаевич": 57
+      "gas:candidate-vibid:4504005312039": 71,
+      "gas:candidate-vibid:4504005311843": 44,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 70,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 39,
+      "gas:candidate-vibid:4504005312514": 194,
+      "gas:candidate-vibid:4504005312229": 24,
+      "gas:candidate-vibid:4504005314926": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5645,16 +5645,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 53,
-      "Белоусов Вячеслав Георгиевич": 44,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 37,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 28,
-      "Роднина Ирина Константиновна": 163,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 64
+      "gas:candidate-vibid:4504005312039": 53,
+      "gas:candidate-vibid:4504005311843": 44,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 37,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 28,
+      "gas:candidate-vibid:4504005312514": 163,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5705,16 +5705,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 45,
-      "Белоусов Вячеслав Георгиевич": 24,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 47,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 44,
-      "Роднина Ирина Константиновна": 170,
-      "Рязанов Владимир Викторович": 8,
-      "Трунин Дмитрий Николаевич": 56
+      "gas:candidate-vibid:4504005312039": 45,
+      "gas:candidate-vibid:4504005311843": 24,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 47,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 44,
+      "gas:candidate-vibid:4504005312514": 170,
+      "gas:candidate-vibid:4504005312229": 8,
+      "gas:candidate-vibid:4504005314926": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5765,16 +5765,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 43,
-      "Белоусов Вячеслав Георгиевич": 36,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 45,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 38,
-      "Роднина Ирина Константиновна": 169,
-      "Рязанов Владимир Викторович": 10,
-      "Трунин Дмитрий Николаевич": 63
+      "gas:candidate-vibid:4504005312039": 43,
+      "gas:candidate-vibid:4504005311843": 36,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 45,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 38,
+      "gas:candidate-vibid:4504005312514": 169,
+      "gas:candidate-vibid:4504005312229": 10,
+      "gas:candidate-vibid:4504005314926": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5825,16 +5825,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 25,
-      "Белоусов Вячеслав Георгиевич": 25,
-      "Бычинский Станислав Олегович": 7,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 26,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 33,
-      "Роднина Ирина Константиновна": 116,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 51
+      "gas:candidate-vibid:4504005312039": 25,
+      "gas:candidate-vibid:4504005311843": 25,
+      "gas:candidate-vibid:4504005312320": 7,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 26,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 33,
+      "gas:candidate-vibid:4504005312514": 116,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5885,16 +5885,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 40,
-      "Белоусов Вячеслав Георгиевич": 16,
-      "Бычинский Станислав Олегович": 2,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 34,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 33,
-      "Роднина Ирина Константиновна": 159,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 54
+      "gas:candidate-vibid:4504005312039": 40,
+      "gas:candidate-vibid:4504005311843": 16,
+      "gas:candidate-vibid:4504005312320": 2,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 34,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 33,
+      "gas:candidate-vibid:4504005312514": 159,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -5945,16 +5945,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 85,
-      "Белоусов Вячеслав Георгиевич": 52,
-      "Бычинский Станислав Олегович": 50,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 69,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 52,
-      "Роднина Ирина Константиновна": 261,
-      "Рязанов Владимир Викторович": 24,
-      "Трунин Дмитрий Николаевич": 44
+      "gas:candidate-vibid:4504005312039": 85,
+      "gas:candidate-vibid:4504005311843": 52,
+      "gas:candidate-vibid:4504005312320": 50,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 69,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 52,
+      "gas:candidate-vibid:4504005312514": 261,
+      "gas:candidate-vibid:4504005312229": 24,
+      "gas:candidate-vibid:4504005314926": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6005,16 +6005,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 70,
-      "Белоусов Вячеслав Георгиевич": 38,
-      "Бычинский Станислав Олегович": 17,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 40,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 37,
-      "Роднина Ирина Константиновна": 223,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 48
+      "gas:candidate-vibid:4504005312039": 70,
+      "gas:candidate-vibid:4504005311843": 38,
+      "gas:candidate-vibid:4504005312320": 17,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 40,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 37,
+      "gas:candidate-vibid:4504005312514": 223,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6065,16 +6065,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 78,
-      "Белоусов Вячеслав Георгиевич": 57,
-      "Бычинский Станислав Олегович": 57,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 74,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 44,
-      "Роднина Ирина Константиновна": 270,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 53
+      "gas:candidate-vibid:4504005312039": 78,
+      "gas:candidate-vibid:4504005311843": 57,
+      "gas:candidate-vibid:4504005312320": 57,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 74,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 44,
+      "gas:candidate-vibid:4504005312514": 270,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6125,16 +6125,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 82,
-      "Белоусов Вячеслав Георгиевич": 36,
-      "Бычинский Станислав Олегович": 32,
-      "Взятышев Юрий Михайлович": 19,
-      "Дмитриева Виктория Вадимовна": 51,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 63,
-      "Роднина Ирина Константиновна": 308,
-      "Рязанов Владимир Викторович": 38,
-      "Трунин Дмитрий Николаевич": 43
+      "gas:candidate-vibid:4504005312039": 82,
+      "gas:candidate-vibid:4504005311843": 36,
+      "gas:candidate-vibid:4504005312320": 32,
+      "gas:candidate-vibid:4504005312497": 19,
+      "gas:candidate-vibid:4504005312410": 51,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 63,
+      "gas:candidate-vibid:4504005312514": 308,
+      "gas:candidate-vibid:4504005312229": 38,
+      "gas:candidate-vibid:4504005314926": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6185,16 +6185,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 105,
-      "Белоусов Вячеслав Георгиевич": 60,
-      "Бычинский Станислав Олегович": 29,
-      "Взятышев Юрий Михайлович": 21,
-      "Дмитриева Виктория Вадимовна": 66,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 48,
-      "Роднина Ирина Константиновна": 313,
-      "Рязанов Владимир Викторович": 34,
-      "Трунин Дмитрий Николаевич": 60
+      "gas:candidate-vibid:4504005312039": 105,
+      "gas:candidate-vibid:4504005311843": 60,
+      "gas:candidate-vibid:4504005312320": 29,
+      "gas:candidate-vibid:4504005312497": 21,
+      "gas:candidate-vibid:4504005312410": 66,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 48,
+      "gas:candidate-vibid:4504005312514": 313,
+      "gas:candidate-vibid:4504005312229": 34,
+      "gas:candidate-vibid:4504005314926": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6245,16 +6245,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 52,
-      "Белоусов Вячеслав Георгиевич": 22,
-      "Бычинский Станислав Олегович": 27,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 46,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 41,
-      "Роднина Ирина Константиновна": 189,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 51
+      "gas:candidate-vibid:4504005312039": 52,
+      "gas:candidate-vibid:4504005311843": 22,
+      "gas:candidate-vibid:4504005312320": 27,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 46,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 41,
+      "gas:candidate-vibid:4504005312514": 189,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6305,16 +6305,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 21,
-      "Белоусов Вячеслав Георгиевич": 14,
-      "Бычинский Станислав Олегович": 14,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 32,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 30,
-      "Роднина Ирина Константиновна": 113,
-      "Рязанов Владимир Викторович": 7,
-      "Трунин Дмитрий Николаевич": 40
+      "gas:candidate-vibid:4504005312039": 21,
+      "gas:candidate-vibid:4504005311843": 14,
+      "gas:candidate-vibid:4504005312320": 14,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 32,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 30,
+      "gas:candidate-vibid:4504005312514": 113,
+      "gas:candidate-vibid:4504005312229": 7,
+      "gas:candidate-vibid:4504005314926": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6365,16 +6365,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 39,
-      "Белоусов Вячеслав Георгиевич": 27,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 44,
-      "Зернов Михаил Владимирович": 1,
-      "Надеждин Борис Борисович": 20,
-      "Роднина Ирина Константиновна": 131,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:4504005312039": 39,
+      "gas:candidate-vibid:4504005311843": 27,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 44,
+      "gas:candidate-vibid:4504005311278": 1,
+      "gas:candidate-vibid:4504005313402": 20,
+      "gas:candidate-vibid:4504005312514": 131,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6425,16 +6425,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 36,
-      "Белоусов Вячеслав Георгиевич": 18,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 41,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 35,
-      "Роднина Ирина Константиновна": 205,
-      "Рязанов Владимир Викторович": 21,
-      "Трунин Дмитрий Николаевич": 30
+      "gas:candidate-vibid:4504005312039": 36,
+      "gas:candidate-vibid:4504005311843": 18,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 41,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 35,
+      "gas:candidate-vibid:4504005312514": 205,
+      "gas:candidate-vibid:4504005312229": 21,
+      "gas:candidate-vibid:4504005314926": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6485,16 +6485,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 62,
-      "Белоусов Вячеслав Георгиевич": 35,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 59,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 33,
-      "Роднина Ирина Константиновна": 266,
-      "Рязанов Владимир Викторович": 31,
-      "Трунин Дмитрий Николаевич": 25
+      "gas:candidate-vibid:4504005312039": 62,
+      "gas:candidate-vibid:4504005311843": 35,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 59,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 33,
+      "gas:candidate-vibid:4504005312514": 266,
+      "gas:candidate-vibid:4504005312229": 31,
+      "gas:candidate-vibid:4504005314926": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6545,16 +6545,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 71,
-      "Белоусов Вячеслав Георгиевич": 50,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 83,
-      "Зернов Михаил Владимирович": 18,
-      "Надеждин Борис Борисович": 32,
-      "Роднина Ирина Константиновна": 281,
-      "Рязанов Владимир Викторович": 24,
-      "Трунин Дмитрий Николаевич": 52
+      "gas:candidate-vibid:4504005312039": 71,
+      "gas:candidate-vibid:4504005311843": 50,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 83,
+      "gas:candidate-vibid:4504005311278": 18,
+      "gas:candidate-vibid:4504005313402": 32,
+      "gas:candidate-vibid:4504005312514": 281,
+      "gas:candidate-vibid:4504005312229": 24,
+      "gas:candidate-vibid:4504005314926": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6605,16 +6605,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 57,
-      "Белоусов Вячеслав Георгиевич": 26,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 72,
-      "Зернов Михаил Владимирович": 17,
-      "Надеждин Борис Борисович": 39,
-      "Роднина Ирина Константиновна": 278,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 37
+      "gas:candidate-vibid:4504005312039": 57,
+      "gas:candidate-vibid:4504005311843": 26,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 72,
+      "gas:candidate-vibid:4504005311278": 17,
+      "gas:candidate-vibid:4504005313402": 39,
+      "gas:candidate-vibid:4504005312514": 278,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6665,16 +6665,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 50,
-      "Белоусов Вячеслав Георгиевич": 33,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 48,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 19,
-      "Роднина Ирина Константиновна": 130,
-      "Рязанов Владимир Викторович": 10,
-      "Трунин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:4504005312039": 50,
+      "gas:candidate-vibid:4504005311843": 33,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 48,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 19,
+      "gas:candidate-vibid:4504005312514": 130,
+      "gas:candidate-vibid:4504005312229": 10,
+      "gas:candidate-vibid:4504005314926": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6725,16 +6725,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 78,
-      "Белоусов Вячеслав Георгиевич": 27,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 73,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 45,
-      "Роднина Ирина Константиновна": 242,
-      "Рязанов Владимир Викторович": 30,
-      "Трунин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:4504005312039": 78,
+      "gas:candidate-vibid:4504005311843": 27,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 73,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 45,
+      "gas:candidate-vibid:4504005312514": 242,
+      "gas:candidate-vibid:4504005312229": 30,
+      "gas:candidate-vibid:4504005314926": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6785,16 +6785,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 44,
-      "Белоусов Вячеслав Георгиевич": 19,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 49,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 25,
-      "Роднина Ирина Константиновна": 440,
-      "Рязанов Владимир Викторович": 12,
-      "Трунин Дмитрий Николаевич": 42
+      "gas:candidate-vibid:4504005312039": 44,
+      "gas:candidate-vibid:4504005311843": 19,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 49,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 25,
+      "gas:candidate-vibid:4504005312514": 440,
+      "gas:candidate-vibid:4504005312229": 12,
+      "gas:candidate-vibid:4504005314926": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6845,16 +6845,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 65,
-      "Белоусов Вячеслав Георгиевич": 45,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 53,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 38,
-      "Роднина Ирина Константиновна": 222,
-      "Рязанов Владимир Викторович": 36,
-      "Трунин Дмитрий Николаевич": 42
+      "gas:candidate-vibid:4504005312039": 65,
+      "gas:candidate-vibid:4504005311843": 45,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 53,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 38,
+      "gas:candidate-vibid:4504005312514": 222,
+      "gas:candidate-vibid:4504005312229": 36,
+      "gas:candidate-vibid:4504005314926": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6905,16 +6905,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 51,
-      "Белоусов Вячеслав Георгиевич": 31,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 52,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 23,
-      "Роднина Ирина Константиновна": 139,
-      "Рязанов Владимир Викторович": 15,
-      "Трунин Дмитрий Николаевич": 17
+      "gas:candidate-vibid:4504005312039": 51,
+      "gas:candidate-vibid:4504005311843": 31,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 52,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 23,
+      "gas:candidate-vibid:4504005312514": 139,
+      "gas:candidate-vibid:4504005312229": 15,
+      "gas:candidate-vibid:4504005314926": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -6965,16 +6965,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 24,
-      "Белоусов Вячеслав Георгиевич": 12,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 55,
-      "Зернов Михаил Владимирович": 5,
-      "Надеждин Борис Борисович": 9,
-      "Роднина Ирина Константиновна": 157,
-      "Рязанов Владимир Викторович": 13,
-      "Трунин Дмитрий Николаевич": 21
+      "gas:candidate-vibid:4504005312039": 24,
+      "gas:candidate-vibid:4504005311843": 12,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 55,
+      "gas:candidate-vibid:4504005311278": 5,
+      "gas:candidate-vibid:4504005313402": 9,
+      "gas:candidate-vibid:4504005312514": 157,
+      "gas:candidate-vibid:4504005312229": 13,
+      "gas:candidate-vibid:4504005314926": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7025,16 +7025,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 24,
-      "Белоусов Вячеслав Георгиевич": 11,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 30,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 19,
-      "Роднина Ирина Константиновна": 143,
-      "Рязанов Владимир Викторович": 10,
-      "Трунин Дмитрий Николаевич": 46
+      "gas:candidate-vibid:4504005312039": 24,
+      "gas:candidate-vibid:4504005311843": 11,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 30,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 19,
+      "gas:candidate-vibid:4504005312514": 143,
+      "gas:candidate-vibid:4504005312229": 10,
+      "gas:candidate-vibid:4504005314926": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7085,16 +7085,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 49,
-      "Белоусов Вячеслав Георгиевич": 24,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 56,
-      "Зернов Михаил Владимирович": 9,
-      "Надеждин Борис Борисович": 42,
-      "Роднина Ирина Константиновна": 275,
-      "Рязанов Владимир Викторович": 2,
-      "Трунин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:4504005312039": 49,
+      "gas:candidate-vibid:4504005311843": 24,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 56,
+      "gas:candidate-vibid:4504005311278": 9,
+      "gas:candidate-vibid:4504005313402": 42,
+      "gas:candidate-vibid:4504005312514": 275,
+      "gas:candidate-vibid:4504005312229": 2,
+      "gas:candidate-vibid:4504005314926": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7145,16 +7145,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 35,
-      "Белоусов Вячеслав Георгиевич": 15,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 26,
-      "Зернов Михаил Владимирович": 9,
-      "Надеждин Борис Борисович": 27,
-      "Роднина Ирина Константиновна": 334,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 15
+      "gas:candidate-vibid:4504005312039": 35,
+      "gas:candidate-vibid:4504005311843": 15,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 26,
+      "gas:candidate-vibid:4504005311278": 9,
+      "gas:candidate-vibid:4504005313402": 27,
+      "gas:candidate-vibid:4504005312514": 334,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7205,16 +7205,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 85,
-      "Белоусов Вячеслав Георгиевич": 71,
-      "Бычинский Станислав Олегович": 50,
-      "Взятышев Юрий Михайлович": 56,
-      "Дмитриева Виктория Вадимовна": 95,
-      "Зернов Михаил Владимирович": 56,
-      "Надеждин Борис Борисович": 75,
-      "Роднина Ирина Константиновна": 326,
-      "Рязанов Владимир Викторович": 55,
-      "Трунин Дмитрий Николаевич": 70
+      "gas:candidate-vibid:4504005312039": 85,
+      "gas:candidate-vibid:4504005311843": 71,
+      "gas:candidate-vibid:4504005312320": 50,
+      "gas:candidate-vibid:4504005312497": 56,
+      "gas:candidate-vibid:4504005312410": 95,
+      "gas:candidate-vibid:4504005311278": 56,
+      "gas:candidate-vibid:4504005313402": 75,
+      "gas:candidate-vibid:4504005312514": 326,
+      "gas:candidate-vibid:4504005312229": 55,
+      "gas:candidate-vibid:4504005314926": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7265,16 +7265,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 61,
-      "Белоусов Вячеслав Георгиевич": 34,
-      "Бычинский Станислав Олегович": 7,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 57,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 38,
-      "Роднина Ирина Константиновна": 204,
-      "Рязанов Владимир Викторович": 22,
-      "Трунин Дмитрий Николаевич": 15
+      "gas:candidate-vibid:4504005312039": 61,
+      "gas:candidate-vibid:4504005311843": 34,
+      "gas:candidate-vibid:4504005312320": 7,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 57,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 38,
+      "gas:candidate-vibid:4504005312514": 204,
+      "gas:candidate-vibid:4504005312229": 22,
+      "gas:candidate-vibid:4504005314926": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7325,16 +7325,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 57,
-      "Белоусов Вячеслав Георгиевич": 27,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 79,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 29,
-      "Роднина Ирина Константиновна": 222,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:4504005312039": 57,
+      "gas:candidate-vibid:4504005311843": 27,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 79,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 29,
+      "gas:candidate-vibid:4504005312514": 222,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7385,16 +7385,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 87,
-      "Белоусов Вячеслав Георгиевич": 46,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 111,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 33,
-      "Роднина Ирина Константиновна": 342,
-      "Рязанов Владимир Викторович": 33,
-      "Трунин Дмитрий Николаевич": 36
+      "gas:candidate-vibid:4504005312039": 87,
+      "gas:candidate-vibid:4504005311843": 46,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 111,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 33,
+      "gas:candidate-vibid:4504005312514": 342,
+      "gas:candidate-vibid:4504005312229": 33,
+      "gas:candidate-vibid:4504005314926": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7445,16 +7445,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 26,
-      "Белоусов Вячеслав Георгиевич": 12,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 25,
-      "Зернов Михаил Владимирович": 2,
-      "Надеждин Борис Борисович": 9,
-      "Роднина Ирина Константиновна": 123,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:4504005312039": 26,
+      "gas:candidate-vibid:4504005311843": 12,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 25,
+      "gas:candidate-vibid:4504005311278": 2,
+      "gas:candidate-vibid:4504005313402": 9,
+      "gas:candidate-vibid:4504005312514": 123,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7505,16 +7505,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 58,
-      "Белоусов Вячеслав Георгиевич": 34,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 46,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 23,
-      "Роднина Ирина Константиновна": 130,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 29
+      "gas:candidate-vibid:4504005312039": 58,
+      "gas:candidate-vibid:4504005311843": 34,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 46,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 23,
+      "gas:candidate-vibid:4504005312514": 130,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7565,16 +7565,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 20,
-      "Белоусов Вячеслав Георгиевич": 11,
-      "Бычинский Станислав Олегович": 2,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 24,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 12,
-      "Роднина Ирина Константиновна": 93,
-      "Рязанов Владимир Викторович": 4,
-      "Трунин Дмитрий Николаевич": 20
+      "gas:candidate-vibid:4504005312039": 20,
+      "gas:candidate-vibid:4504005311843": 11,
+      "gas:candidate-vibid:4504005312320": 2,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 24,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 12,
+      "gas:candidate-vibid:4504005312514": 93,
+      "gas:candidate-vibid:4504005312229": 4,
+      "gas:candidate-vibid:4504005314926": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7625,16 +7625,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 69,
-      "Белоусов Вячеслав Георгиевич": 30,
-      "Бычинский Станислав Олегович": 28,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 74,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 82,
-      "Роднина Ирина Константиновна": 316,
-      "Рязанов Владимир Викторович": 32,
-      "Трунин Дмитрий Николаевич": 94
+      "gas:candidate-vibid:4504005312039": 69,
+      "gas:candidate-vibid:4504005311843": 30,
+      "gas:candidate-vibid:4504005312320": 28,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 74,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 82,
+      "gas:candidate-vibid:4504005312514": 316,
+      "gas:candidate-vibid:4504005312229": 32,
+      "gas:candidate-vibid:4504005314926": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7685,16 +7685,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 46,
-      "Белоусов Вячеслав Георгиевич": 40,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 17,
-      "Дмитриева Виктория Вадимовна": 39,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 42,
-      "Роднина Ирина Константиновна": 204,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 51
+      "gas:candidate-vibid:4504005312039": 46,
+      "gas:candidate-vibid:4504005311843": 40,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 17,
+      "gas:candidate-vibid:4504005312410": 39,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 42,
+      "gas:candidate-vibid:4504005312514": 204,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7745,16 +7745,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 52,
-      "Белоусов Вячеслав Георгиевич": 29,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 38,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 44,
-      "Роднина Ирина Константиновна": 189,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 58
+      "gas:candidate-vibid:4504005312039": 52,
+      "gas:candidate-vibid:4504005311843": 29,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 38,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 44,
+      "gas:candidate-vibid:4504005312514": 189,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7805,16 +7805,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 34,
-      "Белоусов Вячеслав Георгиевич": 19,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 32,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 43,
-      "Роднина Ирина Константиновна": 182,
-      "Рязанов Владимир Викторович": 14,
-      "Трунин Дмитрий Николаевич": 67
+      "gas:candidate-vibid:4504005312039": 34,
+      "gas:candidate-vibid:4504005311843": 19,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 32,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 43,
+      "gas:candidate-vibid:4504005312514": 182,
+      "gas:candidate-vibid:4504005312229": 14,
+      "gas:candidate-vibid:4504005314926": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7865,16 +7865,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 80,
-      "Белоусов Вячеслав Георгиевич": 40,
-      "Бычинский Станислав Олегович": 16,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 80,
-      "Зернов Михаил Владимирович": 15,
-      "Надеждин Борис Борисович": 61,
-      "Роднина Ирина Константиновна": 307,
-      "Рязанов Владимир Викторович": 26,
-      "Трунин Дмитрий Николаевич": 70
+      "gas:candidate-vibid:4504005312039": 80,
+      "gas:candidate-vibid:4504005311843": 40,
+      "gas:candidate-vibid:4504005312320": 16,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 80,
+      "gas:candidate-vibid:4504005311278": 15,
+      "gas:candidate-vibid:4504005313402": 61,
+      "gas:candidate-vibid:4504005312514": 307,
+      "gas:candidate-vibid:4504005312229": 26,
+      "gas:candidate-vibid:4504005314926": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7925,16 +7925,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 64,
-      "Белоусов Вячеслав Георгиевич": 30,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 62,
-      "Зернов Михаил Владимирович": 5,
-      "Надеждин Борис Борисович": 26,
-      "Роднина Ирина Константиновна": 224,
-      "Рязанов Владимир Викторович": 13,
-      "Трунин Дмитрий Николаевич": 26
+      "gas:candidate-vibid:4504005312039": 64,
+      "gas:candidate-vibid:4504005311843": 30,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 62,
+      "gas:candidate-vibid:4504005311278": 5,
+      "gas:candidate-vibid:4504005313402": 26,
+      "gas:candidate-vibid:4504005312514": 224,
+      "gas:candidate-vibid:4504005312229": 13,
+      "gas:candidate-vibid:4504005314926": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -7985,16 +7985,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 68,
-      "Белоусов Вячеслав Георгиевич": 38,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 15,
-      "Дмитриева Виктория Вадимовна": 74,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 34,
-      "Роднина Ирина Константиновна": 255,
-      "Рязанов Владимир Викторович": 22,
-      "Трунин Дмитрий Николаевич": 53
+      "gas:candidate-vibid:4504005312039": 68,
+      "gas:candidate-vibid:4504005311843": 38,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 15,
+      "gas:candidate-vibid:4504005312410": 74,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 34,
+      "gas:candidate-vibid:4504005312514": 255,
+      "gas:candidate-vibid:4504005312229": 22,
+      "gas:candidate-vibid:4504005314926": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -8045,16 +8045,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 60,
-      "Белоусов Вячеслав Георгиевич": 25,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 54,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 39,
-      "Роднина Ирина Константиновна": 307,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:4504005312039": 60,
+      "gas:candidate-vibid:4504005311843": 25,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 54,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 39,
+      "gas:candidate-vibid:4504005312514": 307,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005525&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005525&type=464",
@@ -8105,16 +8105,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 82,
-      "Белоусов Вячеслав Георгиевич": 52,
-      "Бычинский Станислав Олегович": 15,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 65,
-      "Зернов Михаил Владимирович": 45,
-      "Надеждин Борис Борисович": 27,
-      "Роднина Ирина Константиновна": 305,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:4504005312039": 82,
+      "gas:candidate-vibid:4504005311843": 52,
+      "gas:candidate-vibid:4504005312320": 15,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 65,
+      "gas:candidate-vibid:4504005311278": 45,
+      "gas:candidate-vibid:4504005313402": 27,
+      "gas:candidate-vibid:4504005312514": 305,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8165,16 +8165,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 69,
-      "Белоусов Вячеслав Георгиевич": 37,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 76,
-      "Зернов Михаил Владимирович": 60,
-      "Надеждин Борис Борисович": 23,
-      "Роднина Ирина Константиновна": 260,
-      "Рязанов Владимир Викторович": 33,
-      "Трунин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:4504005312039": 69,
+      "gas:candidate-vibid:4504005311843": 37,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 76,
+      "gas:candidate-vibid:4504005311278": 60,
+      "gas:candidate-vibid:4504005313402": 23,
+      "gas:candidate-vibid:4504005312514": 260,
+      "gas:candidate-vibid:4504005312229": 33,
+      "gas:candidate-vibid:4504005314926": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8225,16 +8225,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 58,
-      "Белоусов Вячеслав Георгиевич": 54,
-      "Бычинский Станислав Олегович": 16,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 61,
-      "Зернов Михаил Владимирович": 60,
-      "Надеждин Борис Борисович": 23,
-      "Роднина Ирина Константиновна": 283,
-      "Рязанов Владимир Викторович": 20,
-      "Трунин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:4504005312039": 58,
+      "gas:candidate-vibid:4504005311843": 54,
+      "gas:candidate-vibid:4504005312320": 16,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 61,
+      "gas:candidate-vibid:4504005311278": 60,
+      "gas:candidate-vibid:4504005313402": 23,
+      "gas:candidate-vibid:4504005312514": 283,
+      "gas:candidate-vibid:4504005312229": 20,
+      "gas:candidate-vibid:4504005314926": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8285,16 +8285,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 50,
-      "Белоусов Вячеслав Георгиевич": 24,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 47,
-      "Зернов Михаил Владимирович": 35,
-      "Надеждин Борис Борисович": 15,
-      "Роднина Ирина Константиновна": 180,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:4504005312039": 50,
+      "gas:candidate-vibid:4504005311843": 24,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 47,
+      "gas:candidate-vibid:4504005311278": 35,
+      "gas:candidate-vibid:4504005313402": 15,
+      "gas:candidate-vibid:4504005312514": 180,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8345,16 +8345,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 23,
-      "Белоусов Вячеслав Георгиевич": 11,
-      "Бычинский Станислав Олегович": 1,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 17,
-      "Зернов Михаил Владимирович": 18,
-      "Надеждин Борис Борисович": 6,
-      "Роднина Ирина Константиновна": 80,
-      "Рязанов Владимир Викторович": 9,
-      "Трунин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:4504005312039": 23,
+      "gas:candidate-vibid:4504005311843": 11,
+      "gas:candidate-vibid:4504005312320": 1,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 17,
+      "gas:candidate-vibid:4504005311278": 18,
+      "gas:candidate-vibid:4504005313402": 6,
+      "gas:candidate-vibid:4504005312514": 80,
+      "gas:candidate-vibid:4504005312229": 9,
+      "gas:candidate-vibid:4504005314926": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8405,16 +8405,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 42,
-      "Белоусов Вячеслав Георгиевич": 35,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 60,
-      "Зернов Михаил Владимирович": 36,
-      "Надеждин Борис Борисович": 12,
-      "Роднина Ирина Константиновна": 222,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:4504005312039": 42,
+      "gas:candidate-vibid:4504005311843": 35,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 60,
+      "gas:candidate-vibid:4504005311278": 36,
+      "gas:candidate-vibid:4504005313402": 12,
+      "gas:candidate-vibid:4504005312514": 222,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8465,16 +8465,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 39,
-      "Белоусов Вячеслав Георгиевич": 12,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 1,
-      "Дмитриева Виктория Вадимовна": 13,
-      "Зернов Михаил Владимирович": 27,
-      "Надеждин Борис Борисович": 7,
-      "Роднина Ирина Константиновна": 82,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:4504005312039": 39,
+      "gas:candidate-vibid:4504005311843": 12,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 1,
+      "gas:candidate-vibid:4504005312410": 13,
+      "gas:candidate-vibid:4504005311278": 27,
+      "gas:candidate-vibid:4504005313402": 7,
+      "gas:candidate-vibid:4504005312514": 82,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8525,16 +8525,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 35,
-      "Белоусов Вячеслав Георгиевич": 23,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 21,
-      "Зернов Михаил Владимирович": 31,
-      "Надеждин Борис Борисович": 11,
-      "Роднина Ирина Константиновна": 164,
-      "Рязанов Владимир Викторович": 9,
-      "Трунин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:4504005312039": 35,
+      "gas:candidate-vibid:4504005311843": 23,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 21,
+      "gas:candidate-vibid:4504005311278": 31,
+      "gas:candidate-vibid:4504005313402": 11,
+      "gas:candidate-vibid:4504005312514": 164,
+      "gas:candidate-vibid:4504005312229": 9,
+      "gas:candidate-vibid:4504005314926": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8585,16 +8585,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 36,
-      "Белоусов Вячеслав Георгиевич": 24,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 25,
-      "Зернов Михаил Владимирович": 43,
-      "Надеждин Борис Борисович": 6,
-      "Роднина Ирина Константиновна": 127,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 15
+      "gas:candidate-vibid:4504005312039": 36,
+      "gas:candidate-vibid:4504005311843": 24,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 25,
+      "gas:candidate-vibid:4504005311278": 43,
+      "gas:candidate-vibid:4504005313402": 6,
+      "gas:candidate-vibid:4504005312514": 127,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8645,16 +8645,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 75,
-      "Белоусов Вячеслав Георгиевич": 55,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 56,
-      "Зернов Михаил Владимирович": 82,
-      "Надеждин Борис Борисович": 18,
-      "Роднина Ирина Константиновна": 370,
-      "Рязанов Владимир Викторович": 30,
-      "Трунин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:4504005312039": 75,
+      "gas:candidate-vibid:4504005311843": 55,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 56,
+      "gas:candidate-vibid:4504005311278": 82,
+      "gas:candidate-vibid:4504005313402": 18,
+      "gas:candidate-vibid:4504005312514": 370,
+      "gas:candidate-vibid:4504005312229": 30,
+      "gas:candidate-vibid:4504005314926": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8705,16 +8705,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 63,
-      "Белоусов Вячеслав Георгиевич": 39,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 66,
-      "Зернов Михаил Владимирович": 118,
-      "Надеждин Борис Борисович": 9,
-      "Роднина Ирина Константиновна": 276,
-      "Рязанов Владимир Викторович": 21,
-      "Трунин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:4504005312039": 63,
+      "gas:candidate-vibid:4504005311843": 39,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 66,
+      "gas:candidate-vibid:4504005311278": 118,
+      "gas:candidate-vibid:4504005313402": 9,
+      "gas:candidate-vibid:4504005312514": 276,
+      "gas:candidate-vibid:4504005312229": 21,
+      "gas:candidate-vibid:4504005314926": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8765,16 +8765,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 53,
-      "Белоусов Вячеслав Георгиевич": 38,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 48,
-      "Зернов Михаил Владимирович": 39,
-      "Надеждин Борис Борисович": 9,
-      "Роднина Ирина Константиновна": 125,
-      "Рязанов Владимир Викторович": 20,
-      "Трунин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:4504005312039": 53,
+      "gas:candidate-vibid:4504005311843": 38,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 48,
+      "gas:candidate-vibid:4504005311278": 39,
+      "gas:candidate-vibid:4504005313402": 9,
+      "gas:candidate-vibid:4504005312514": 125,
+      "gas:candidate-vibid:4504005312229": 20,
+      "gas:candidate-vibid:4504005314926": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8825,16 +8825,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 41,
-      "Белоусов Вячеслав Георгиевич": 29,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 37,
-      "Зернов Михаил Владимирович": 47,
-      "Надеждин Борис Борисович": 8,
-      "Роднина Ирина Константиновна": 103,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:4504005312039": 41,
+      "gas:candidate-vibid:4504005311843": 29,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 37,
+      "gas:candidate-vibid:4504005311278": 47,
+      "gas:candidate-vibid:4504005313402": 8,
+      "gas:candidate-vibid:4504005312514": 103,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8885,16 +8885,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 32,
-      "Белоусов Вячеслав Георгиевич": 31,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 2,
-      "Дмитриева Виктория Вадимовна": 46,
-      "Зернов Михаил Владимирович": 37,
-      "Надеждин Борис Борисович": 5,
-      "Роднина Ирина Константиновна": 125,
-      "Рязанов Владимир Викторович": 15,
-      "Трунин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:4504005312039": 32,
+      "gas:candidate-vibid:4504005311843": 31,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 2,
+      "gas:candidate-vibid:4504005312410": 46,
+      "gas:candidate-vibid:4504005311278": 37,
+      "gas:candidate-vibid:4504005313402": 5,
+      "gas:candidate-vibid:4504005312514": 125,
+      "gas:candidate-vibid:4504005312229": 15,
+      "gas:candidate-vibid:4504005314926": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -8945,16 +8945,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 81,
-      "Белоусов Вячеслав Георгиевич": 43,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 56,
-      "Зернов Михаил Владимирович": 39,
-      "Надеждин Борис Борисович": 14,
-      "Роднина Ирина Константиновна": 221,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 13
+      "gas:candidate-vibid:4504005312039": 81,
+      "gas:candidate-vibid:4504005311843": 43,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 56,
+      "gas:candidate-vibid:4504005311278": 39,
+      "gas:candidate-vibid:4504005313402": 14,
+      "gas:candidate-vibid:4504005312514": 221,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9005,16 +9005,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 76,
-      "Белоусов Вячеслав Георгиевич": 57,
-      "Бычинский Станислав Олегович": 9,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 65,
-      "Зернов Михаил Владимирович": 87,
-      "Надеждин Борис Борисович": 17,
-      "Роднина Ирина Константиновна": 276,
-      "Рязанов Владимир Викторович": 32,
-      "Трунин Дмитрий Николаевич": 20
+      "gas:candidate-vibid:4504005312039": 76,
+      "gas:candidate-vibid:4504005311843": 57,
+      "gas:candidate-vibid:4504005312320": 9,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 65,
+      "gas:candidate-vibid:4504005311278": 87,
+      "gas:candidate-vibid:4504005313402": 17,
+      "gas:candidate-vibid:4504005312514": 276,
+      "gas:candidate-vibid:4504005312229": 32,
+      "gas:candidate-vibid:4504005314926": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9065,16 +9065,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 82,
-      "Белоусов Вячеслав Георгиевич": 47,
-      "Бычинский Станислав Олегович": 3,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 48,
-      "Зернов Михаил Владимирович": 88,
-      "Надеждин Борис Борисович": 20,
-      "Роднина Ирина Константиновна": 235,
-      "Рязанов Владимир Викторович": 31,
-      "Трунин Дмитрий Николаевич": 20
+      "gas:candidate-vibid:4504005312039": 82,
+      "gas:candidate-vibid:4504005311843": 47,
+      "gas:candidate-vibid:4504005312320": 3,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 48,
+      "gas:candidate-vibid:4504005311278": 88,
+      "gas:candidate-vibid:4504005313402": 20,
+      "gas:candidate-vibid:4504005312514": 235,
+      "gas:candidate-vibid:4504005312229": 31,
+      "gas:candidate-vibid:4504005314926": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9125,16 +9125,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 10,
-      "Белоусов Вячеслав Георгиевич": 8,
-      "Бычинский Станислав Олегович": 0,
-      "Взятышев Юрий Михайлович": 1,
-      "Дмитриева Виктория Вадимовна": 7,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 5,
-      "Роднина Ирина Константиновна": 35,
-      "Рязанов Владимир Викторович": 0,
-      "Трунин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:4504005312039": 10,
+      "gas:candidate-vibid:4504005311843": 8,
+      "gas:candidate-vibid:4504005312320": 0,
+      "gas:candidate-vibid:4504005312497": 1,
+      "gas:candidate-vibid:4504005312410": 7,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 5,
+      "gas:candidate-vibid:4504005312514": 35,
+      "gas:candidate-vibid:4504005312229": 0,
+      "gas:candidate-vibid:4504005314926": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9185,16 +9185,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 38,
-      "Белоусов Вячеслав Георгиевич": 40,
-      "Бычинский Станислав Олегович": 6,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 44,
-      "Зернов Михаил Владимирович": 47,
-      "Надеждин Борис Борисович": 10,
-      "Роднина Ирина Константиновна": 186,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:4504005312039": 38,
+      "gas:candidate-vibid:4504005311843": 40,
+      "gas:candidate-vibid:4504005312320": 6,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 44,
+      "gas:candidate-vibid:4504005311278": 47,
+      "gas:candidate-vibid:4504005313402": 10,
+      "gas:candidate-vibid:4504005312514": 186,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9245,16 +9245,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 50,
-      "Белоусов Вячеслав Георгиевич": 60,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 63,
-      "Зернов Михаил Владимирович": 41,
-      "Надеждин Борис Борисович": 19,
-      "Роднина Ирина Константиновна": 281,
-      "Рязанов Владимир Викторович": 31,
-      "Трунин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:4504005312039": 50,
+      "gas:candidate-vibid:4504005311843": 60,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 63,
+      "gas:candidate-vibid:4504005311278": 41,
+      "gas:candidate-vibid:4504005313402": 19,
+      "gas:candidate-vibid:4504005312514": 281,
+      "gas:candidate-vibid:4504005312229": 31,
+      "gas:candidate-vibid:4504005314926": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9305,16 +9305,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 19,
-      "Белоусов Вячеслав Георгиевич": 13,
-      "Бычинский Станислав Олегович": 3,
-      "Взятышев Юрий Михайлович": 2,
-      "Дмитриева Виктория Вадимовна": 27,
-      "Зернов Михаил Владимирович": 38,
-      "Надеждин Борис Борисович": 9,
-      "Роднина Ирина Константиновна": 67,
-      "Рязанов Владимир Викторович": 6,
-      "Трунин Дмитрий Николаевич": 0
+      "gas:candidate-vibid:4504005312039": 19,
+      "gas:candidate-vibid:4504005311843": 13,
+      "gas:candidate-vibid:4504005312320": 3,
+      "gas:candidate-vibid:4504005312497": 2,
+      "gas:candidate-vibid:4504005312410": 27,
+      "gas:candidate-vibid:4504005311278": 38,
+      "gas:candidate-vibid:4504005313402": 9,
+      "gas:candidate-vibid:4504005312514": 67,
+      "gas:candidate-vibid:4504005312229": 6,
+      "gas:candidate-vibid:4504005314926": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9365,16 +9365,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 53,
-      "Белоусов Вячеслав Георгиевич": 37,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 1,
-      "Дмитриева Виктория Вадимовна": 40,
-      "Зернов Михаил Владимирович": 39,
-      "Надеждин Борис Борисович": 5,
-      "Роднина Ирина Константиновна": 233,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:4504005312039": 53,
+      "gas:candidate-vibid:4504005311843": 37,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 1,
+      "gas:candidate-vibid:4504005312410": 40,
+      "gas:candidate-vibid:4504005311278": 39,
+      "gas:candidate-vibid:4504005313402": 5,
+      "gas:candidate-vibid:4504005312514": 233,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9425,16 +9425,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 29,
-      "Белоусов Вячеслав Георгиевич": 14,
-      "Бычинский Станислав Олегович": 3,
-      "Взятышев Юрий Михайлович": 2,
-      "Дмитриева Виктория Вадимовна": 37,
-      "Зернов Михаил Владимирович": 29,
-      "Надеждин Борис Борисович": 9,
-      "Роднина Ирина Константиновна": 76,
-      "Рязанов Владимир Викторович": 10,
-      "Трунин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:4504005312039": 29,
+      "gas:candidate-vibid:4504005311843": 14,
+      "gas:candidate-vibid:4504005312320": 3,
+      "gas:candidate-vibid:4504005312497": 2,
+      "gas:candidate-vibid:4504005312410": 37,
+      "gas:candidate-vibid:4504005311278": 29,
+      "gas:candidate-vibid:4504005313402": 9,
+      "gas:candidate-vibid:4504005312514": 76,
+      "gas:candidate-vibid:4504005312229": 10,
+      "gas:candidate-vibid:4504005314926": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9485,16 +9485,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 46,
-      "Белоусов Вячеслав Георгиевич": 22,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 33,
-      "Зернов Михаил Владимирович": 43,
-      "Надеждин Борис Борисович": 9,
-      "Роднина Ирина Константиновна": 209,
-      "Рязанов Владимир Викторович": 22,
-      "Трунин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:4504005312039": 46,
+      "gas:candidate-vibid:4504005311843": 22,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 33,
+      "gas:candidate-vibid:4504005311278": 43,
+      "gas:candidate-vibid:4504005313402": 9,
+      "gas:candidate-vibid:4504005312514": 209,
+      "gas:candidate-vibid:4504005312229": 22,
+      "gas:candidate-vibid:4504005314926": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9545,16 +9545,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 16,
-      "Белоусов Вячеслав Георгиевич": 17,
-      "Бычинский Станислав Олегович": 6,
-      "Взятышев Юрий Михайлович": 2,
-      "Дмитриева Виктория Вадимовна": 15,
-      "Зернов Михаил Владимирович": 20,
-      "Надеждин Борис Борисович": 8,
-      "Роднина Ирина Константиновна": 149,
-      "Рязанов Владимир Викторович": 12,
-      "Трунин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:4504005312039": 16,
+      "gas:candidate-vibid:4504005311843": 17,
+      "gas:candidate-vibid:4504005312320": 6,
+      "gas:candidate-vibid:4504005312497": 2,
+      "gas:candidate-vibid:4504005312410": 15,
+      "gas:candidate-vibid:4504005311278": 20,
+      "gas:candidate-vibid:4504005313402": 8,
+      "gas:candidate-vibid:4504005312514": 149,
+      "gas:candidate-vibid:4504005312229": 12,
+      "gas:candidate-vibid:4504005314926": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9605,16 +9605,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 18,
-      "Белоусов Вячеслав Георгиевич": 15,
-      "Бычинский Станислав Олегович": 2,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 40,
-      "Зернов Михаил Владимирович": 32,
-      "Надеждин Борис Борисович": 4,
-      "Роднина Ирина Константиновна": 82,
-      "Рязанов Владимир Викторович": 7,
-      "Трунин Дмитрий Николаевич": 0
+      "gas:candidate-vibid:4504005312039": 18,
+      "gas:candidate-vibid:4504005311843": 15,
+      "gas:candidate-vibid:4504005312320": 2,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 40,
+      "gas:candidate-vibid:4504005311278": 32,
+      "gas:candidate-vibid:4504005313402": 4,
+      "gas:candidate-vibid:4504005312514": 82,
+      "gas:candidate-vibid:4504005312229": 7,
+      "gas:candidate-vibid:4504005314926": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9665,16 +9665,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 25,
-      "Белоусов Вячеслав Георгиевич": 8,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 16,
-      "Зернов Михаил Владимирович": 19,
-      "Надеждин Борис Борисович": 1,
-      "Роднина Ирина Константиновна": 65,
-      "Рязанов Владимир Викторович": 10,
-      "Трунин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:4504005312039": 25,
+      "gas:candidate-vibid:4504005311843": 8,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 16,
+      "gas:candidate-vibid:4504005311278": 19,
+      "gas:candidate-vibid:4504005313402": 1,
+      "gas:candidate-vibid:4504005312514": 65,
+      "gas:candidate-vibid:4504005312229": 10,
+      "gas:candidate-vibid:4504005314926": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9725,16 +9725,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 33,
-      "Белоусов Вячеслав Георгиевич": 17,
-      "Бычинский Станислав Олегович": 3,
-      "Взятышев Юрий Михайлович": 2,
-      "Дмитриева Виктория Вадимовна": 16,
-      "Зернов Михаил Владимирович": 36,
-      "Надеждин Борис Борисович": 8,
-      "Роднина Ирина Константиновна": 215,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:4504005312039": 33,
+      "gas:candidate-vibid:4504005311843": 17,
+      "gas:candidate-vibid:4504005312320": 3,
+      "gas:candidate-vibid:4504005312497": 2,
+      "gas:candidate-vibid:4504005312410": 16,
+      "gas:candidate-vibid:4504005311278": 36,
+      "gas:candidate-vibid:4504005313402": 8,
+      "gas:candidate-vibid:4504005312514": 215,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9785,16 +9785,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 35,
-      "Белоусов Вячеслав Георгиевич": 12,
-      "Бычинский Станислав Олегович": 2,
-      "Взятышев Юрий Михайлович": 1,
-      "Дмитриева Виктория Вадимовна": 39,
-      "Зернов Михаил Владимирович": 33,
-      "Надеждин Борис Борисович": 10,
-      "Роднина Ирина Константиновна": 167,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:4504005312039": 35,
+      "gas:candidate-vibid:4504005311843": 12,
+      "gas:candidate-vibid:4504005312320": 2,
+      "gas:candidate-vibid:4504005312497": 1,
+      "gas:candidate-vibid:4504005312410": 39,
+      "gas:candidate-vibid:4504005311278": 33,
+      "gas:candidate-vibid:4504005313402": 10,
+      "gas:candidate-vibid:4504005312514": 167,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9845,16 +9845,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 14,
-      "Белоусов Вячеслав Георгиевич": 9,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 14,
-      "Зернов Михаил Владимирович": 16,
-      "Надеждин Борис Борисович": 6,
-      "Роднина Ирина Константиновна": 106,
-      "Рязанов Владимир Викторович": 7,
-      "Трунин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:4504005312039": 14,
+      "gas:candidate-vibid:4504005311843": 9,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 14,
+      "gas:candidate-vibid:4504005311278": 16,
+      "gas:candidate-vibid:4504005313402": 6,
+      "gas:candidate-vibid:4504005312514": 106,
+      "gas:candidate-vibid:4504005312229": 7,
+      "gas:candidate-vibid:4504005314926": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9905,16 +9905,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 21,
-      "Белоусов Вячеслав Георгиевич": 23,
-      "Бычинский Станислав Олегович": 3,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 30,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 6,
-      "Роднина Ирина Константиновна": 90,
-      "Рязанов Владимир Викторович": 9,
-      "Трунин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:4504005312039": 21,
+      "gas:candidate-vibid:4504005311843": 23,
+      "gas:candidate-vibid:4504005312320": 3,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 30,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 6,
+      "gas:candidate-vibid:4504005312514": 90,
+      "gas:candidate-vibid:4504005312229": 9,
+      "gas:candidate-vibid:4504005314926": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -9965,16 +9965,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 6,
-      "Белоусов Вячеслав Георгиевич": 6,
-      "Бычинский Станислав Олегович": 1,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 15,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 1,
-      "Роднина Ирина Константиновна": 32,
-      "Рязанов Владимир Викторович": 3,
-      "Трунин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:4504005312039": 6,
+      "gas:candidate-vibid:4504005311843": 6,
+      "gas:candidate-vibid:4504005312320": 1,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 15,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 1,
+      "gas:candidate-vibid:4504005312514": 32,
+      "gas:candidate-vibid:4504005312229": 3,
+      "gas:candidate-vibid:4504005314926": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005526&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005526&type=464",
@@ -10025,16 +10025,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 78,
-      "Белоусов Вячеслав Георгиевич": 44,
-      "Бычинский Станислав Олегович": 41,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 101,
-      "Зернов Михаил Владимирович": 17,
-      "Надеждин Борис Борисович": 50,
-      "Роднина Ирина Константиновна": 289,
-      "Рязанов Владимир Викторович": 40,
-      "Трунин Дмитрий Николаевич": 26
+      "gas:candidate-vibid:4504005312039": 78,
+      "gas:candidate-vibid:4504005311843": 44,
+      "gas:candidate-vibid:4504005312320": 41,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 101,
+      "gas:candidate-vibid:4504005311278": 17,
+      "gas:candidate-vibid:4504005313402": 50,
+      "gas:candidate-vibid:4504005312514": 289,
+      "gas:candidate-vibid:4504005312229": 40,
+      "gas:candidate-vibid:4504005314926": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10085,16 +10085,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 33,
-      "Белоусов Вячеслав Георгиевич": 23,
-      "Бычинский Станислав Олегович": 22,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 38,
-      "Зернов Михаил Владимирович": 16,
-      "Надеждин Борис Борисович": 20,
-      "Роднина Ирина Константиновна": 172,
-      "Рязанов Владимир Викторович": 22,
-      "Трунин Дмитрий Николаевич": 27
+      "gas:candidate-vibid:4504005312039": 33,
+      "gas:candidate-vibid:4504005311843": 23,
+      "gas:candidate-vibid:4504005312320": 22,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 38,
+      "gas:candidate-vibid:4504005311278": 16,
+      "gas:candidate-vibid:4504005313402": 20,
+      "gas:candidate-vibid:4504005312514": 172,
+      "gas:candidate-vibid:4504005312229": 22,
+      "gas:candidate-vibid:4504005314926": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10145,16 +10145,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 45,
-      "Белоусов Вячеслав Георгиевич": 42,
-      "Бычинский Станислав Олегович": 16,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 57,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 30,
-      "Роднина Ирина Константиновна": 161,
-      "Рязанов Владимир Викторович": 28,
-      "Трунин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:4504005312039": 45,
+      "gas:candidate-vibid:4504005311843": 42,
+      "gas:candidate-vibid:4504005312320": 16,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 57,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 30,
+      "gas:candidate-vibid:4504005312514": 161,
+      "gas:candidate-vibid:4504005312229": 28,
+      "gas:candidate-vibid:4504005314926": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10205,16 +10205,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 62,
-      "Белоусов Вячеслав Георгиевич": 51,
-      "Бычинский Станислав Олегович": 27,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 93,
-      "Зернов Михаил Владимирович": 12,
-      "Надеждин Борис Борисович": 36,
-      "Роднина Ирина Константиновна": 300,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 28
+      "gas:candidate-vibid:4504005312039": 62,
+      "gas:candidate-vibid:4504005311843": 51,
+      "gas:candidate-vibid:4504005312320": 27,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 93,
+      "gas:candidate-vibid:4504005311278": 12,
+      "gas:candidate-vibid:4504005313402": 36,
+      "gas:candidate-vibid:4504005312514": 300,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10265,16 +10265,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 80,
-      "Белоусов Вячеслав Георгиевич": 65,
-      "Бычинский Станислав Олегович": 35,
-      "Взятышев Юрий Михайлович": 19,
-      "Дмитриева Виктория Вадимовна": 95,
-      "Зернов Михаил Владимирович": 28,
-      "Надеждин Борис Борисович": 76,
-      "Роднина Ирина Константиновна": 383,
-      "Рязанов Владимир Викторович": 32,
-      "Трунин Дмитрий Николаевич": 36
+      "gas:candidate-vibid:4504005312039": 80,
+      "gas:candidate-vibid:4504005311843": 65,
+      "gas:candidate-vibid:4504005312320": 35,
+      "gas:candidate-vibid:4504005312497": 19,
+      "gas:candidate-vibid:4504005312410": 95,
+      "gas:candidate-vibid:4504005311278": 28,
+      "gas:candidate-vibid:4504005313402": 76,
+      "gas:candidate-vibid:4504005312514": 383,
+      "gas:candidate-vibid:4504005312229": 32,
+      "gas:candidate-vibid:4504005314926": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10325,16 +10325,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 30,
-      "Белоусов Вячеслав Георгиевич": 43,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 43,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 28,
-      "Роднина Ирина Константиновна": 138,
-      "Рязанов Владимир Викторович": 15,
-      "Трунин Дмитрий Николаевич": 11
+      "gas:candidate-vibid:4504005312039": 30,
+      "gas:candidate-vibid:4504005311843": 43,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 43,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 28,
+      "gas:candidate-vibid:4504005312514": 138,
+      "gas:candidate-vibid:4504005312229": 15,
+      "gas:candidate-vibid:4504005314926": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10385,16 +10385,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 70,
-      "Белоусов Вячеслав Георгиевич": 51,
-      "Бычинский Станислав Олегович": 23,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 49,
-      "Зернов Михаил Владимирович": 24,
-      "Надеждин Борис Борисович": 37,
-      "Роднина Ирина Константиновна": 232,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 17
+      "gas:candidate-vibid:4504005312039": 70,
+      "gas:candidate-vibid:4504005311843": 51,
+      "gas:candidate-vibid:4504005312320": 23,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 49,
+      "gas:candidate-vibid:4504005311278": 24,
+      "gas:candidate-vibid:4504005313402": 37,
+      "gas:candidate-vibid:4504005312514": 232,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10445,16 +10445,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 59,
-      "Белоусов Вячеслав Георгиевич": 67,
-      "Бычинский Станислав Олегович": 26,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 89,
-      "Зернов Михаил Владимирович": 17,
-      "Надеждин Борис Борисович": 54,
-      "Роднина Ирина Константиновна": 306,
-      "Рязанов Владимир Викторович": 20,
-      "Трунин Дмитрий Николаевич": 40
+      "gas:candidate-vibid:4504005312039": 59,
+      "gas:candidate-vibid:4504005311843": 67,
+      "gas:candidate-vibid:4504005312320": 26,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 89,
+      "gas:candidate-vibid:4504005311278": 17,
+      "gas:candidate-vibid:4504005313402": 54,
+      "gas:candidate-vibid:4504005312514": 306,
+      "gas:candidate-vibid:4504005312229": 20,
+      "gas:candidate-vibid:4504005314926": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10505,16 +10505,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 75,
-      "Белоусов Вячеслав Георгиевич": 65,
-      "Бычинский Станислав Олегович": 27,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 75,
-      "Зернов Михаил Владимирович": 24,
-      "Надеждин Борис Борисович": 37,
-      "Роднина Ирина Константиновна": 280,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 39
+      "gas:candidate-vibid:4504005312039": 75,
+      "gas:candidate-vibid:4504005311843": 65,
+      "gas:candidate-vibid:4504005312320": 27,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 75,
+      "gas:candidate-vibid:4504005311278": 24,
+      "gas:candidate-vibid:4504005313402": 37,
+      "gas:candidate-vibid:4504005312514": 280,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10565,16 +10565,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 62,
-      "Белоусов Вячеслав Георгиевич": 55,
-      "Бычинский Станислав Олегович": 29,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 79,
-      "Зернов Михаил Владимирович": 18,
-      "Надеждин Борис Борисович": 30,
-      "Роднина Ирина Константиновна": 231,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 22
+      "gas:candidate-vibid:4504005312039": 62,
+      "gas:candidate-vibid:4504005311843": 55,
+      "gas:candidate-vibid:4504005312320": 29,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 79,
+      "gas:candidate-vibid:4504005311278": 18,
+      "gas:candidate-vibid:4504005313402": 30,
+      "gas:candidate-vibid:4504005312514": 231,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10625,16 +10625,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 52,
-      "Белоусов Вячеслав Георгиевич": 64,
-      "Бычинский Станислав Олегович": 33,
-      "Взятышев Юрий Михайлович": 15,
-      "Дмитриева Виктория Вадимовна": 111,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 45,
-      "Роднина Ирина Константиновна": 309,
-      "Рязанов Владимир Викторович": 20,
-      "Трунин Дмитрий Николаевич": 35
+      "gas:candidate-vibid:4504005312039": 52,
+      "gas:candidate-vibid:4504005311843": 64,
+      "gas:candidate-vibid:4504005312320": 33,
+      "gas:candidate-vibid:4504005312497": 15,
+      "gas:candidate-vibid:4504005312410": 111,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 45,
+      "gas:candidate-vibid:4504005312514": 309,
+      "gas:candidate-vibid:4504005312229": 20,
+      "gas:candidate-vibid:4504005314926": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10685,16 +10685,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 79,
-      "Белоусов Вячеслав Георгиевич": 75,
-      "Бычинский Станислав Олегович": 42,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 116,
-      "Зернов Михаил Владимирович": 17,
-      "Надеждин Борис Борисович": 49,
-      "Роднина Ирина Константиновна": 292,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 38
+      "gas:candidate-vibid:4504005312039": 79,
+      "gas:candidate-vibid:4504005311843": 75,
+      "gas:candidate-vibid:4504005312320": 42,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 116,
+      "gas:candidate-vibid:4504005311278": 17,
+      "gas:candidate-vibid:4504005313402": 49,
+      "gas:candidate-vibid:4504005312514": 292,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10745,16 +10745,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 77,
-      "Белоусов Вячеслав Георгиевич": 47,
-      "Бычинский Станислав Олегович": 32,
-      "Взятышев Юрий Михайлович": 15,
-      "Дмитриева Виктория Вадимовна": 88,
-      "Зернов Михаил Владимирович": 24,
-      "Надеждин Борис Борисович": 38,
-      "Роднина Ирина Константиновна": 281,
-      "Рязанов Владимир Викторович": 25,
-      "Трунин Дмитрий Николаевич": 33
+      "gas:candidate-vibid:4504005312039": 77,
+      "gas:candidate-vibid:4504005311843": 47,
+      "gas:candidate-vibid:4504005312320": 32,
+      "gas:candidate-vibid:4504005312497": 15,
+      "gas:candidate-vibid:4504005312410": 88,
+      "gas:candidate-vibid:4504005311278": 24,
+      "gas:candidate-vibid:4504005313402": 38,
+      "gas:candidate-vibid:4504005312514": 281,
+      "gas:candidate-vibid:4504005312229": 25,
+      "gas:candidate-vibid:4504005314926": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10805,16 +10805,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 41,
-      "Белоусов Вячеслав Георгиевич": 48,
-      "Бычинский Станислав Олегович": 18,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 93,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 44,
-      "Роднина Ирина Константиновна": 237,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:4504005312039": 41,
+      "gas:candidate-vibid:4504005311843": 48,
+      "gas:candidate-vibid:4504005312320": 18,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 93,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 44,
+      "gas:candidate-vibid:4504005312514": 237,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10865,16 +10865,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 87,
-      "Белоусов Вячеслав Георгиевич": 87,
-      "Бычинский Станислав Олегович": 49,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 67,
-      "Зернов Михаил Владимирович": 20,
-      "Надеждин Борис Борисович": 72,
-      "Роднина Ирина Константиновна": 334,
-      "Рязанов Владимир Викторович": 26,
-      "Трунин Дмитрий Николаевич": 53
+      "gas:candidate-vibid:4504005312039": 87,
+      "gas:candidate-vibid:4504005311843": 87,
+      "gas:candidate-vibid:4504005312320": 49,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 67,
+      "gas:candidate-vibid:4504005311278": 20,
+      "gas:candidate-vibid:4504005313402": 72,
+      "gas:candidate-vibid:4504005312514": 334,
+      "gas:candidate-vibid:4504005312229": 26,
+      "gas:candidate-vibid:4504005314926": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10925,16 +10925,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 73,
-      "Белоусов Вячеслав Георгиевич": 65,
-      "Бычинский Станислав Олегович": 25,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 103,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 43,
-      "Роднина Ирина Константиновна": 293,
-      "Рязанов Владимир Викторович": 25,
-      "Трунин Дмитрий Николаевич": 27
+      "gas:candidate-vibid:4504005312039": 73,
+      "gas:candidate-vibid:4504005311843": 65,
+      "gas:candidate-vibid:4504005312320": 25,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 103,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 43,
+      "gas:candidate-vibid:4504005312514": 293,
+      "gas:candidate-vibid:4504005312229": 25,
+      "gas:candidate-vibid:4504005314926": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -10985,16 +10985,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 51,
-      "Белоусов Вячеслав Георгиевич": 59,
-      "Бычинский Станислав Олегович": 19,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 82,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 41,
-      "Роднина Ирина Константиновна": 239,
-      "Рязанов Владимир Викторович": 22,
-      "Трунин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:4504005312039": 51,
+      "gas:candidate-vibid:4504005311843": 59,
+      "gas:candidate-vibid:4504005312320": 19,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 82,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 41,
+      "gas:candidate-vibid:4504005312514": 239,
+      "gas:candidate-vibid:4504005312229": 22,
+      "gas:candidate-vibid:4504005314926": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11045,16 +11045,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 83,
-      "Белоусов Вячеслав Георгиевич": 65,
-      "Бычинский Станислав Олегович": 42,
-      "Взятышев Юрий Михайлович": 28,
-      "Дмитриева Виктория Вадимовна": 99,
-      "Зернов Михаил Владимирович": 22,
-      "Надеждин Борис Борисович": 59,
-      "Роднина Ирина Константиновна": 387,
-      "Рязанов Владимир Викторович": 27,
-      "Трунин Дмитрий Николаевич": 59
+      "gas:candidate-vibid:4504005312039": 83,
+      "gas:candidate-vibid:4504005311843": 65,
+      "gas:candidate-vibid:4504005312320": 42,
+      "gas:candidate-vibid:4504005312497": 28,
+      "gas:candidate-vibid:4504005312410": 99,
+      "gas:candidate-vibid:4504005311278": 22,
+      "gas:candidate-vibid:4504005313402": 59,
+      "gas:candidate-vibid:4504005312514": 387,
+      "gas:candidate-vibid:4504005312229": 27,
+      "gas:candidate-vibid:4504005314926": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11105,16 +11105,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 89,
-      "Белоусов Вячеслав Георгиевич": 55,
-      "Бычинский Станислав Олегович": 33,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 97,
-      "Зернов Михаил Владимирович": 16,
-      "Надеждин Борис Борисович": 54,
-      "Роднина Ирина Константиновна": 363,
-      "Рязанов Владимир Викторович": 27,
-      "Трунин Дмитрий Николаевич": 50
+      "gas:candidate-vibid:4504005312039": 89,
+      "gas:candidate-vibid:4504005311843": 55,
+      "gas:candidate-vibid:4504005312320": 33,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 97,
+      "gas:candidate-vibid:4504005311278": 16,
+      "gas:candidate-vibid:4504005313402": 54,
+      "gas:candidate-vibid:4504005312514": 363,
+      "gas:candidate-vibid:4504005312229": 27,
+      "gas:candidate-vibid:4504005314926": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11165,16 +11165,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 73,
-      "Белоусов Вячеслав Георгиевич": 53,
-      "Бычинский Станислав Олегович": 25,
-      "Взятышев Юрий Михайлович": 21,
-      "Дмитриева Виктория Вадимовна": 100,
-      "Зернов Михаил Владимирович": 24,
-      "Надеждин Борис Борисович": 56,
-      "Роднина Ирина Константиновна": 339,
-      "Рязанов Владимир Викторович": 33,
-      "Трунин Дмитрий Николаевич": 40
+      "gas:candidate-vibid:4504005312039": 73,
+      "gas:candidate-vibid:4504005311843": 53,
+      "gas:candidate-vibid:4504005312320": 25,
+      "gas:candidate-vibid:4504005312497": 21,
+      "gas:candidate-vibid:4504005312410": 100,
+      "gas:candidate-vibid:4504005311278": 24,
+      "gas:candidate-vibid:4504005313402": 56,
+      "gas:candidate-vibid:4504005312514": 339,
+      "gas:candidate-vibid:4504005312229": 33,
+      "gas:candidate-vibid:4504005314926": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11225,16 +11225,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 59,
-      "Белоусов Вячеслав Георгиевич": 61,
-      "Бычинский Станислав Олегович": 32,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 73,
-      "Зернов Михаил Владимирович": 12,
-      "Надеждин Борис Борисович": 52,
-      "Роднина Ирина Константиновна": 337,
-      "Рязанов Владимир Викторович": 34,
-      "Трунин Дмитрий Николаевич": 37
+      "gas:candidate-vibid:4504005312039": 59,
+      "gas:candidate-vibid:4504005311843": 61,
+      "gas:candidate-vibid:4504005312320": 32,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 73,
+      "gas:candidate-vibid:4504005311278": 12,
+      "gas:candidate-vibid:4504005313402": 52,
+      "gas:candidate-vibid:4504005312514": 337,
+      "gas:candidate-vibid:4504005312229": 34,
+      "gas:candidate-vibid:4504005314926": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11285,16 +11285,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 57,
-      "Белоусов Вячеслав Георгиевич": 35,
-      "Бычинский Станислав Олегович": 19,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 92,
-      "Зернов Михаил Владимирович": 17,
-      "Надеждин Борис Борисович": 50,
-      "Роднина Ирина Константиновна": 240,
-      "Рязанов Владимир Викторович": 25,
-      "Трунин Дмитрий Николаевич": 22
+      "gas:candidate-vibid:4504005312039": 57,
+      "gas:candidate-vibid:4504005311843": 35,
+      "gas:candidate-vibid:4504005312320": 19,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 92,
+      "gas:candidate-vibid:4504005311278": 17,
+      "gas:candidate-vibid:4504005313402": 50,
+      "gas:candidate-vibid:4504005312514": 240,
+      "gas:candidate-vibid:4504005312229": 25,
+      "gas:candidate-vibid:4504005314926": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11345,16 +11345,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 48,
-      "Белоусов Вячеслав Георгиевич": 40,
-      "Бычинский Станислав Олегович": 22,
-      "Взятышев Юрий Михайлович": 17,
-      "Дмитриева Виктория Вадимовна": 85,
-      "Зернов Михаил Владимирович": 16,
-      "Надеждин Борис Борисович": 40,
-      "Роднина Ирина Константиновна": 252,
-      "Рязанов Владимир Викторович": 21,
-      "Трунин Дмитрий Николаевич": 21
+      "gas:candidate-vibid:4504005312039": 48,
+      "gas:candidate-vibid:4504005311843": 40,
+      "gas:candidate-vibid:4504005312320": 22,
+      "gas:candidate-vibid:4504005312497": 17,
+      "gas:candidate-vibid:4504005312410": 85,
+      "gas:candidate-vibid:4504005311278": 16,
+      "gas:candidate-vibid:4504005313402": 40,
+      "gas:candidate-vibid:4504005312514": 252,
+      "gas:candidate-vibid:4504005312229": 21,
+      "gas:candidate-vibid:4504005314926": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11405,16 +11405,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 82,
-      "Белоусов Вячеслав Георгиевич": 50,
-      "Бычинский Станислав Олегович": 80,
-      "Взятышев Юрий Михайлович": 24,
-      "Дмитриева Виктория Вадимовна": 89,
-      "Зернов Михаил Владимирович": 21,
-      "Надеждин Борис Борисович": 45,
-      "Роднина Ирина Константиновна": 288,
-      "Рязанов Владимир Викторович": 21,
-      "Трунин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:4504005312039": 82,
+      "gas:candidate-vibid:4504005311843": 50,
+      "gas:candidate-vibid:4504005312320": 80,
+      "gas:candidate-vibid:4504005312497": 24,
+      "gas:candidate-vibid:4504005312410": 89,
+      "gas:candidate-vibid:4504005311278": 21,
+      "gas:candidate-vibid:4504005313402": 45,
+      "gas:candidate-vibid:4504005312514": 288,
+      "gas:candidate-vibid:4504005312229": 21,
+      "gas:candidate-vibid:4504005314926": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11465,16 +11465,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 62,
-      "Белоусов Вячеслав Георгиевич": 72,
-      "Бычинский Станислав Олегович": 30,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 86,
-      "Зернов Михаил Владимирович": 15,
-      "Надеждин Борис Борисович": 45,
-      "Роднина Ирина Константиновна": 273,
-      "Рязанов Владимир Викторович": 28,
-      "Трунин Дмитрий Николаевич": 18
+      "gas:candidate-vibid:4504005312039": 62,
+      "gas:candidate-vibid:4504005311843": 72,
+      "gas:candidate-vibid:4504005312320": 30,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 86,
+      "gas:candidate-vibid:4504005311278": 15,
+      "gas:candidate-vibid:4504005313402": 45,
+      "gas:candidate-vibid:4504005312514": 273,
+      "gas:candidate-vibid:4504005312229": 28,
+      "gas:candidate-vibid:4504005314926": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11525,16 +11525,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 64,
-      "Белоусов Вячеслав Георгиевич": 62,
-      "Бычинский Станислав Олегович": 41,
-      "Взятышев Юрий Михайлович": 17,
-      "Дмитриева Виктория Вадимовна": 117,
-      "Зернов Михаил Владимирович": 17,
-      "Надеждин Борис Борисович": 49,
-      "Роднина Ирина Константиновна": 377,
-      "Рязанов Владимир Викторович": 38,
-      "Трунин Дмитрий Николаевич": 33
+      "gas:candidate-vibid:4504005312039": 64,
+      "gas:candidate-vibid:4504005311843": 62,
+      "gas:candidate-vibid:4504005312320": 41,
+      "gas:candidate-vibid:4504005312497": 17,
+      "gas:candidate-vibid:4504005312410": 117,
+      "gas:candidate-vibid:4504005311278": 17,
+      "gas:candidate-vibid:4504005313402": 49,
+      "gas:candidate-vibid:4504005312514": 377,
+      "gas:candidate-vibid:4504005312229": 38,
+      "gas:candidate-vibid:4504005314926": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11585,16 +11585,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 40,
-      "Белоусов Вячеслав Георгиевич": 44,
-      "Бычинский Станислав Олегович": 26,
-      "Взятышев Юрий Михайлович": 17,
-      "Дмитриева Виктория Вадимовна": 78,
-      "Зернов Михаил Владимирович": 12,
-      "Надеждин Борис Борисович": 29,
-      "Роднина Ирина Константиновна": 202,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 21
+      "gas:candidate-vibid:4504005312039": 40,
+      "gas:candidate-vibid:4504005311843": 44,
+      "gas:candidate-vibid:4504005312320": 26,
+      "gas:candidate-vibid:4504005312497": 17,
+      "gas:candidate-vibid:4504005312410": 78,
+      "gas:candidate-vibid:4504005311278": 12,
+      "gas:candidate-vibid:4504005313402": 29,
+      "gas:candidate-vibid:4504005312514": 202,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11645,16 +11645,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 65,
-      "Белоусов Вячеслав Георгиевич": 48,
-      "Бычинский Станислав Олегович": 36,
-      "Взятышев Юрий Михайлович": 15,
-      "Дмитриева Виктория Вадимовна": 110,
-      "Зернов Михаил Владимирович": 22,
-      "Надеждин Борис Борисович": 53,
-      "Роднина Ирина Константиновна": 380,
-      "Рязанов Владимир Викторович": 40,
-      "Трунин Дмитрий Николаевич": 20
+      "gas:candidate-vibid:4504005312039": 65,
+      "gas:candidate-vibid:4504005311843": 48,
+      "gas:candidate-vibid:4504005312320": 36,
+      "gas:candidate-vibid:4504005312497": 15,
+      "gas:candidate-vibid:4504005312410": 110,
+      "gas:candidate-vibid:4504005311278": 22,
+      "gas:candidate-vibid:4504005313402": 53,
+      "gas:candidate-vibid:4504005312514": 380,
+      "gas:candidate-vibid:4504005312229": 40,
+      "gas:candidate-vibid:4504005314926": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11705,16 +11705,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 72,
-      "Белоусов Вячеслав Георгиевич": 61,
-      "Бычинский Станислав Олегович": 49,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 85,
-      "Зернов Михаил Владимирович": 22,
-      "Надеждин Борис Борисович": 26,
-      "Роднина Ирина Константиновна": 345,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:4504005312039": 72,
+      "gas:candidate-vibid:4504005311843": 61,
+      "gas:candidate-vibid:4504005312320": 49,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 85,
+      "gas:candidate-vibid:4504005311278": 22,
+      "gas:candidate-vibid:4504005313402": 26,
+      "gas:candidate-vibid:4504005312514": 345,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11765,16 +11765,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 64,
-      "Белоусов Вячеслав Георгиевич": 62,
-      "Бычинский Станислав Олегович": 39,
-      "Взятышев Юрий Михайлович": 17,
-      "Дмитриева Виктория Вадимовна": 99,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 28,
-      "Роднина Ирина Константиновна": 342,
-      "Рязанов Владимир Викторович": 32,
-      "Трунин Дмитрий Николаевич": 18
+      "gas:candidate-vibid:4504005312039": 64,
+      "gas:candidate-vibid:4504005311843": 62,
+      "gas:candidate-vibid:4504005312320": 39,
+      "gas:candidate-vibid:4504005312497": 17,
+      "gas:candidate-vibid:4504005312410": 99,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 28,
+      "gas:candidate-vibid:4504005312514": 342,
+      "gas:candidate-vibid:4504005312229": 32,
+      "gas:candidate-vibid:4504005314926": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11825,16 +11825,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 98,
-      "Белоусов Вячеслав Георгиевич": 80,
-      "Бычинский Станислав Олегович": 36,
-      "Взятышев Юрий Михайлович": 24,
-      "Дмитриева Виктория Вадимовна": 117,
-      "Зернов Михаил Владимирович": 20,
-      "Надеждин Борис Борисович": 53,
-      "Роднина Ирина Константиновна": 318,
-      "Рязанов Владимир Викторович": 38,
-      "Трунин Дмитрий Николаевич": 20
+      "gas:candidate-vibid:4504005312039": 98,
+      "gas:candidate-vibid:4504005311843": 80,
+      "gas:candidate-vibid:4504005312320": 36,
+      "gas:candidate-vibid:4504005312497": 24,
+      "gas:candidate-vibid:4504005312410": 117,
+      "gas:candidate-vibid:4504005311278": 20,
+      "gas:candidate-vibid:4504005313402": 53,
+      "gas:candidate-vibid:4504005312514": 318,
+      "gas:candidate-vibid:4504005312229": 38,
+      "gas:candidate-vibid:4504005314926": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11885,16 +11885,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 74,
-      "Белоусов Вячеслав Георгиевич": 58,
-      "Бычинский Станислав Олегович": 20,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 86,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 28,
-      "Роднина Ирина Константиновна": 248,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 24
+      "gas:candidate-vibid:4504005312039": 74,
+      "gas:candidate-vibid:4504005311843": 58,
+      "gas:candidate-vibid:4504005312320": 20,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 86,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 28,
+      "gas:candidate-vibid:4504005312514": 248,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -11945,16 +11945,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 120,
-      "Белоусов Вячеслав Георгиевич": 54,
-      "Бычинский Станислав Олегович": 22,
-      "Взятышев Юрий Михайлович": 17,
-      "Дмитриева Виктория Вадимовна": 85,
-      "Зернов Михаил Владимирович": 23,
-      "Надеждин Борис Борисович": 57,
-      "Роднина Ирина Константиновна": 364,
-      "Рязанов Владимир Викторович": 38,
-      "Трунин Дмитрий Николаевич": 33
+      "gas:candidate-vibid:4504005312039": 120,
+      "gas:candidate-vibid:4504005311843": 54,
+      "gas:candidate-vibid:4504005312320": 22,
+      "gas:candidate-vibid:4504005312497": 17,
+      "gas:candidate-vibid:4504005312410": 85,
+      "gas:candidate-vibid:4504005311278": 23,
+      "gas:candidate-vibid:4504005313402": 57,
+      "gas:candidate-vibid:4504005312514": 364,
+      "gas:candidate-vibid:4504005312229": 38,
+      "gas:candidate-vibid:4504005314926": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -12005,16 +12005,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 17,
-      "Белоусов Вячеслав Георгиевич": 15,
-      "Бычинский Станислав Олегович": 6,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 30,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 7,
-      "Роднина Ирина Константиновна": 67,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 11
+      "gas:candidate-vibid:4504005312039": 17,
+      "gas:candidate-vibid:4504005311843": 15,
+      "gas:candidate-vibid:4504005312320": 6,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 30,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 7,
+      "gas:candidate-vibid:4504005312514": 67,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005527&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005527&type=464",
@@ -12065,16 +12065,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 138,
-      "Белоусов Вячеслав Георгиевич": 160,
-      "Бычинский Станислав Олегович": 17,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 121,
-      "Зернов Михаил Владимирович": 37,
-      "Надеждин Борис Борисович": 58,
-      "Роднина Ирина Константиновна": 378,
-      "Рязанов Владимир Викторович": 49,
-      "Трунин Дмитрий Николаевич": 45
+      "gas:candidate-vibid:4504005312039": 138,
+      "gas:candidate-vibid:4504005311843": 160,
+      "gas:candidate-vibid:4504005312320": 17,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 121,
+      "gas:candidate-vibid:4504005311278": 37,
+      "gas:candidate-vibid:4504005313402": 58,
+      "gas:candidate-vibid:4504005312514": 378,
+      "gas:candidate-vibid:4504005312229": 49,
+      "gas:candidate-vibid:4504005314926": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12125,16 +12125,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 104,
-      "Белоусов Вячеслав Георгиевич": 193,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 130,
-      "Зернов Михаил Владимирович": 51,
-      "Надеждин Борис Борисович": 38,
-      "Роднина Ирина Константиновна": 358,
-      "Рязанов Владимир Викторович": 44,
-      "Трунин Дмитрий Николаевич": 27
+      "gas:candidate-vibid:4504005312039": 104,
+      "gas:candidate-vibid:4504005311843": 193,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 130,
+      "gas:candidate-vibid:4504005311278": 51,
+      "gas:candidate-vibid:4504005313402": 38,
+      "gas:candidate-vibid:4504005312514": 358,
+      "gas:candidate-vibid:4504005312229": 44,
+      "gas:candidate-vibid:4504005314926": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12185,16 +12185,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 160,
-      "Белоусов Вячеслав Георгиевич": 161,
-      "Бычинский Станислав Олегович": 18,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 111,
-      "Зернов Михаил Владимирович": 27,
-      "Надеждин Борис Борисович": 55,
-      "Роднина Ирина Константиновна": 426,
-      "Рязанов Владимир Викторович": 63,
-      "Трунин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:4504005312039": 160,
+      "gas:candidate-vibid:4504005311843": 161,
+      "gas:candidate-vibid:4504005312320": 18,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 111,
+      "gas:candidate-vibid:4504005311278": 27,
+      "gas:candidate-vibid:4504005313402": 55,
+      "gas:candidate-vibid:4504005312514": 426,
+      "gas:candidate-vibid:4504005312229": 63,
+      "gas:candidate-vibid:4504005314926": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12245,16 +12245,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 121,
-      "Белоусов Вячеслав Георгиевич": 132,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 69,
-      "Зернов Михаил Владимирович": 37,
-      "Надеждин Борис Борисович": 38,
-      "Роднина Ирина Константиновна": 269,
-      "Рязанов Владимир Викторович": 41,
-      "Трунин Дмитрий Николаевич": 41
+      "gas:candidate-vibid:4504005312039": 121,
+      "gas:candidate-vibid:4504005311843": 132,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 69,
+      "gas:candidate-vibid:4504005311278": 37,
+      "gas:candidate-vibid:4504005313402": 38,
+      "gas:candidate-vibid:4504005312514": 269,
+      "gas:candidate-vibid:4504005312229": 41,
+      "gas:candidate-vibid:4504005314926": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12305,16 +12305,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 67,
-      "Белоусов Вячеслав Георгиевич": 95,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 63,
-      "Зернов Михаил Владимирович": 23,
-      "Надеждин Борис Борисович": 34,
-      "Роднина Ирина Константиновна": 228,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:4504005312039": 67,
+      "gas:candidate-vibid:4504005311843": 95,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 63,
+      "gas:candidate-vibid:4504005311278": 23,
+      "gas:candidate-vibid:4504005313402": 34,
+      "gas:candidate-vibid:4504005312514": 228,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12365,16 +12365,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 74,
-      "Белоусов Вячеслав Георгиевич": 89,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 54,
-      "Зернов Михаил Владимирович": 23,
-      "Надеждин Борис Борисович": 31,
-      "Роднина Ирина Константиновна": 216,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 22
+      "gas:candidate-vibid:4504005312039": 74,
+      "gas:candidate-vibid:4504005311843": 89,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 54,
+      "gas:candidate-vibid:4504005311278": 23,
+      "gas:candidate-vibid:4504005313402": 31,
+      "gas:candidate-vibid:4504005312514": 216,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12425,16 +12425,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 53,
-      "Белоусов Вячеслав Георгиевич": 65,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 1,
-      "Дмитриева Виктория Вадимовна": 45,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 17,
-      "Роднина Ирина Константиновна": 179,
-      "Рязанов Владимир Викторович": 20,
-      "Трунин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:4504005312039": 53,
+      "gas:candidate-vibid:4504005311843": 65,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 1,
+      "gas:candidate-vibid:4504005312410": 45,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 17,
+      "gas:candidate-vibid:4504005312514": 179,
+      "gas:candidate-vibid:4504005312229": 20,
+      "gas:candidate-vibid:4504005314926": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12485,16 +12485,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 142,
-      "Белоусов Вячеслав Георгиевич": 153,
-      "Бычинский Станислав Олегович": 18,
-      "Взятышев Юрий Михайлович": 3,
-      "Дмитриева Виктория Вадимовна": 126,
-      "Зернов Михаил Владимирович": 58,
-      "Надеждин Борис Борисович": 45,
-      "Роднина Ирина Константиновна": 384,
-      "Рязанов Владимир Викторович": 57,
-      "Трунин Дмитрий Николаевич": 33
+      "gas:candidate-vibid:4504005312039": 142,
+      "gas:candidate-vibid:4504005311843": 153,
+      "gas:candidate-vibid:4504005312320": 18,
+      "gas:candidate-vibid:4504005312497": 3,
+      "gas:candidate-vibid:4504005312410": 126,
+      "gas:candidate-vibid:4504005311278": 58,
+      "gas:candidate-vibid:4504005313402": 45,
+      "gas:candidate-vibid:4504005312514": 384,
+      "gas:candidate-vibid:4504005312229": 57,
+      "gas:candidate-vibid:4504005314926": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12545,16 +12545,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 113,
-      "Белоусов Вячеслав Георгиевич": 167,
-      "Бычинский Станислав Олегович": 23,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 93,
-      "Зернов Михаил Владимирович": 27,
-      "Надеждин Борис Борисович": 56,
-      "Роднина Ирина Константиновна": 418,
-      "Рязанов Владимир Викторович": 36,
-      "Трунин Дмитрий Николаевич": 48
+      "gas:candidate-vibid:4504005312039": 113,
+      "gas:candidate-vibid:4504005311843": 167,
+      "gas:candidate-vibid:4504005312320": 23,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 93,
+      "gas:candidate-vibid:4504005311278": 27,
+      "gas:candidate-vibid:4504005313402": 56,
+      "gas:candidate-vibid:4504005312514": 418,
+      "gas:candidate-vibid:4504005312229": 36,
+      "gas:candidate-vibid:4504005314926": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12605,16 +12605,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 80,
-      "Белоусов Вячеслав Георгиевич": 97,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 62,
-      "Зернов Михаил Владимирович": 37,
-      "Надеждин Борис Борисович": 32,
-      "Роднина Ирина Константиновна": 283,
-      "Рязанов Владимир Викторович": 24,
-      "Трунин Дмитрий Николаевич": 33
+      "gas:candidate-vibid:4504005312039": 80,
+      "gas:candidate-vibid:4504005311843": 97,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 62,
+      "gas:candidate-vibid:4504005311278": 37,
+      "gas:candidate-vibid:4504005313402": 32,
+      "gas:candidate-vibid:4504005312514": 283,
+      "gas:candidate-vibid:4504005312229": 24,
+      "gas:candidate-vibid:4504005314926": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12665,16 +12665,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 40,
-      "Белоусов Вячеслав Георгиевич": 50,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 5,
-      "Дмитриева Виктория Вадимовна": 42,
-      "Зернов Михаил Владимирович": 23,
-      "Надеждин Борис Борисович": 15,
-      "Роднина Ирина Константиновна": 147,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:4504005312039": 40,
+      "gas:candidate-vibid:4504005311843": 50,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 5,
+      "gas:candidate-vibid:4504005312410": 42,
+      "gas:candidate-vibid:4504005311278": 23,
+      "gas:candidate-vibid:4504005313402": 15,
+      "gas:candidate-vibid:4504005312514": 147,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12725,16 +12725,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 101,
-      "Белоусов Вячеслав Георгиевич": 130,
-      "Бычинский Станислав Олегович": 17,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 114,
-      "Зернов Михаил Владимирович": 32,
-      "Надеждин Борис Борисович": 39,
-      "Роднина Ирина Константиновна": 361,
-      "Рязанов Владимир Викторович": 37,
-      "Трунин Дмитрий Николаевич": 55
+      "gas:candidate-vibid:4504005312039": 101,
+      "gas:candidate-vibid:4504005311843": 130,
+      "gas:candidate-vibid:4504005312320": 17,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 114,
+      "gas:candidate-vibid:4504005311278": 32,
+      "gas:candidate-vibid:4504005313402": 39,
+      "gas:candidate-vibid:4504005312514": 361,
+      "gas:candidate-vibid:4504005312229": 37,
+      "gas:candidate-vibid:4504005314926": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12785,16 +12785,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 90,
-      "Белоусов Вячеслав Георгиевич": 99,
-      "Бычинский Станислав Олегович": 6,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 68,
-      "Зернов Михаил Владимирович": 19,
-      "Надеждин Борис Борисович": 30,
-      "Роднина Ирина Константиновна": 239,
-      "Рязанов Владимир Викторович": 45,
-      "Трунин Дмитрий Николаевич": 30
+      "gas:candidate-vibid:4504005312039": 90,
+      "gas:candidate-vibid:4504005311843": 99,
+      "gas:candidate-vibid:4504005312320": 6,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 68,
+      "gas:candidate-vibid:4504005311278": 19,
+      "gas:candidate-vibid:4504005313402": 30,
+      "gas:candidate-vibid:4504005312514": 239,
+      "gas:candidate-vibid:4504005312229": 45,
+      "gas:candidate-vibid:4504005314926": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12845,16 +12845,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 73,
-      "Белоусов Вячеслав Георгиевич": 67,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 60,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 33,
-      "Роднина Ирина Константиновна": 239,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 17
+      "gas:candidate-vibid:4504005312039": 73,
+      "gas:candidate-vibid:4504005311843": 67,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 60,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 33,
+      "gas:candidate-vibid:4504005312514": 239,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12905,16 +12905,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 106,
-      "Белоусов Вячеслав Георгиевич": 171,
-      "Бычинский Станислав Олегович": 17,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 103,
-      "Зернов Михаил Владимирович": 40,
-      "Надеждин Борис Борисович": 67,
-      "Роднина Ирина Константиновна": 412,
-      "Рязанов Владимир Викторович": 45,
-      "Трунин Дмитрий Николаевич": 41
+      "gas:candidate-vibid:4504005312039": 106,
+      "gas:candidate-vibid:4504005311843": 171,
+      "gas:candidate-vibid:4504005312320": 17,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 103,
+      "gas:candidate-vibid:4504005311278": 40,
+      "gas:candidate-vibid:4504005313402": 67,
+      "gas:candidate-vibid:4504005312514": 412,
+      "gas:candidate-vibid:4504005312229": 45,
+      "gas:candidate-vibid:4504005314926": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -12965,16 +12965,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 83,
-      "Белоусов Вячеслав Георгиевич": 116,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 38,
-      "Зернов Михаил Владимирович": 32,
-      "Надеждин Борис Борисович": 55,
-      "Роднина Ирина Константиновна": 271,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 54
+      "gas:candidate-vibid:4504005312039": 83,
+      "gas:candidate-vibid:4504005311843": 116,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 38,
+      "gas:candidate-vibid:4504005311278": 32,
+      "gas:candidate-vibid:4504005313402": 55,
+      "gas:candidate-vibid:4504005312514": 271,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13025,16 +13025,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 166,
-      "Белоусов Вячеслав Георгиевич": 174,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 12,
-      "Дмитриева Виктория Вадимовна": 87,
-      "Зернов Михаил Владимирович": 47,
-      "Надеждин Борис Борисович": 53,
-      "Роднина Ирина Константиновна": 381,
-      "Рязанов Владимир Викторович": 54,
-      "Трунин Дмитрий Николаевич": 35
+      "gas:candidate-vibid:4504005312039": 166,
+      "gas:candidate-vibid:4504005311843": 174,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 12,
+      "gas:candidate-vibid:4504005312410": 87,
+      "gas:candidate-vibid:4504005311278": 47,
+      "gas:candidate-vibid:4504005313402": 53,
+      "gas:candidate-vibid:4504005312514": 381,
+      "gas:candidate-vibid:4504005312229": 54,
+      "gas:candidate-vibid:4504005314926": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13085,16 +13085,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 47,
-      "Белоусов Вячеслав Георгиевич": 92,
-      "Бычинский Станислав Олегович": 4,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 55,
-      "Зернов Михаил Владимирович": 19,
-      "Надеждин Борис Борисович": 30,
-      "Роднина Ирина Константиновна": 206,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:4504005312039": 47,
+      "gas:candidate-vibid:4504005311843": 92,
+      "gas:candidate-vibid:4504005312320": 4,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 55,
+      "gas:candidate-vibid:4504005311278": 19,
+      "gas:candidate-vibid:4504005313402": 30,
+      "gas:candidate-vibid:4504005312514": 206,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13145,16 +13145,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 136,
-      "Белоусов Вячеслав Георгиевич": 163,
-      "Бычинский Станислав Олегович": 18,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 105,
-      "Зернов Михаил Владимирович": 31,
-      "Надеждин Борис Борисович": 63,
-      "Роднина Ирина Константиновна": 443,
-      "Рязанов Владимир Викторович": 49,
-      "Трунин Дмитрий Николаевич": 99
+      "gas:candidate-vibid:4504005312039": 136,
+      "gas:candidate-vibid:4504005311843": 163,
+      "gas:candidate-vibid:4504005312320": 18,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 105,
+      "gas:candidate-vibid:4504005311278": 31,
+      "gas:candidate-vibid:4504005313402": 63,
+      "gas:candidate-vibid:4504005312514": 443,
+      "gas:candidate-vibid:4504005312229": 49,
+      "gas:candidate-vibid:4504005314926": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13205,16 +13205,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 165,
-      "Белоусов Вячеслав Георгиевич": 150,
-      "Бычинский Станислав Олегович": 19,
-      "Взятышев Юрий Михайлович": 14,
-      "Дмитриева Виктория Вадимовна": 67,
-      "Зернов Михаил Владимирович": 59,
-      "Надеждин Борис Борисович": 103,
-      "Роднина Ирина Константиновна": 434,
-      "Рязанов Владимир Викторович": 48,
-      "Трунин Дмитрий Николаевич": 91
+      "gas:candidate-vibid:4504005312039": 165,
+      "gas:candidate-vibid:4504005311843": 150,
+      "gas:candidate-vibid:4504005312320": 19,
+      "gas:candidate-vibid:4504005312497": 14,
+      "gas:candidate-vibid:4504005312410": 67,
+      "gas:candidate-vibid:4504005311278": 59,
+      "gas:candidate-vibid:4504005313402": 103,
+      "gas:candidate-vibid:4504005312514": 434,
+      "gas:candidate-vibid:4504005312229": 48,
+      "gas:candidate-vibid:4504005314926": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13265,16 +13265,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 156,
-      "Белоусов Вячеслав Георгиевич": 200,
-      "Бычинский Станислав Олегович": 31,
-      "Взятышев Юрий Михайлович": 18,
-      "Дмитриева Виктория Вадимовна": 90,
-      "Зернов Михаил Владимирович": 51,
-      "Надеждин Борис Борисович": 63,
-      "Роднина Ирина Константиновна": 371,
-      "Рязанов Владимир Викторович": 54,
-      "Трунин Дмитрий Николаевич": 93
+      "gas:candidate-vibid:4504005312039": 156,
+      "gas:candidate-vibid:4504005311843": 200,
+      "gas:candidate-vibid:4504005312320": 31,
+      "gas:candidate-vibid:4504005312497": 18,
+      "gas:candidate-vibid:4504005312410": 90,
+      "gas:candidate-vibid:4504005311278": 51,
+      "gas:candidate-vibid:4504005313402": 63,
+      "gas:candidate-vibid:4504005312514": 371,
+      "gas:candidate-vibid:4504005312229": 54,
+      "gas:candidate-vibid:4504005314926": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13325,16 +13325,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 82,
-      "Белоусов Вячеслав Георгиевич": 116,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 40,
-      "Зернов Михаил Владимирович": 33,
-      "Надеждин Борис Борисович": 29,
-      "Роднина Ирина Константиновна": 171,
-      "Рязанов Владимир Викторович": 22,
-      "Трунин Дмитрий Николаевич": 39
+      "gas:candidate-vibid:4504005312039": 82,
+      "gas:candidate-vibid:4504005311843": 116,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 40,
+      "gas:candidate-vibid:4504005311278": 33,
+      "gas:candidate-vibid:4504005313402": 29,
+      "gas:candidate-vibid:4504005312514": 171,
+      "gas:candidate-vibid:4504005312229": 22,
+      "gas:candidate-vibid:4504005314926": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13385,16 +13385,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 51,
-      "Белоусов Вячеслав Георгиевич": 73,
-      "Бычинский Станислав Олегович": 6,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 43,
-      "Зернов Михаил Владимирович": 23,
-      "Надеждин Борис Борисович": 26,
-      "Роднина Ирина Константиновна": 159,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 30
+      "gas:candidate-vibid:4504005312039": 51,
+      "gas:candidate-vibid:4504005311843": 73,
+      "gas:candidate-vibid:4504005312320": 6,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 43,
+      "gas:candidate-vibid:4504005311278": 23,
+      "gas:candidate-vibid:4504005313402": 26,
+      "gas:candidate-vibid:4504005312514": 159,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13445,16 +13445,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 61,
-      "Белоусов Вячеслав Георгиевич": 88,
-      "Бычинский Станислав Олегович": 7,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 28,
-      "Зернов Михаил Владимирович": 10,
-      "Надеждин Борис Борисович": 28,
-      "Роднина Ирина Константиновна": 140,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:4504005312039": 61,
+      "gas:candidate-vibid:4504005311843": 88,
+      "gas:candidate-vibid:4504005312320": 7,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 28,
+      "gas:candidate-vibid:4504005311278": 10,
+      "gas:candidate-vibid:4504005313402": 28,
+      "gas:candidate-vibid:4504005312514": 140,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13505,16 +13505,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 56,
-      "Белоусов Вячеслав Георгиевич": 101,
-      "Бычинский Станислав Олегович": 10,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 52,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 32,
-      "Роднина Ирина Константиновна": 208,
-      "Рязанов Владимир Викторович": 23,
-      "Трунин Дмитрий Николаевич": 43
+      "gas:candidate-vibid:4504005312039": 56,
+      "gas:candidate-vibid:4504005311843": 101,
+      "gas:candidate-vibid:4504005312320": 10,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 52,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 32,
+      "gas:candidate-vibid:4504005312514": 208,
+      "gas:candidate-vibid:4504005312229": 23,
+      "gas:candidate-vibid:4504005314926": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13565,16 +13565,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 127,
-      "Белоусов Вячеслав Георгиевич": 171,
-      "Бычинский Станислав Олегович": 22,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 91,
-      "Зернов Михаил Владимирович": 39,
-      "Надеждин Борис Борисович": 39,
-      "Роднина Ирина Константиновна": 350,
-      "Рязанов Владимир Викторович": 50,
-      "Трунин Дмитрий Николаевич": 50
+      "gas:candidate-vibid:4504005312039": 127,
+      "gas:candidate-vibid:4504005311843": 171,
+      "gas:candidate-vibid:4504005312320": 22,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 91,
+      "gas:candidate-vibid:4504005311278": 39,
+      "gas:candidate-vibid:4504005313402": 39,
+      "gas:candidate-vibid:4504005312514": 350,
+      "gas:candidate-vibid:4504005312229": 50,
+      "gas:candidate-vibid:4504005314926": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13625,16 +13625,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 74,
-      "Белоусов Вячеслав Георгиевич": 119,
-      "Бычинский Станислав Олегович": 15,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 55,
-      "Зернов Михаил Владимирович": 26,
-      "Надеждин Борис Борисович": 20,
-      "Роднина Ирина Константиновна": 267,
-      "Рязанов Владимир Викторович": 29,
-      "Трунин Дмитрий Николаевич": 38
+      "gas:candidate-vibid:4504005312039": 74,
+      "gas:candidate-vibid:4504005311843": 119,
+      "gas:candidate-vibid:4504005312320": 15,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 55,
+      "gas:candidate-vibid:4504005311278": 26,
+      "gas:candidate-vibid:4504005313402": 20,
+      "gas:candidate-vibid:4504005312514": 267,
+      "gas:candidate-vibid:4504005312229": 29,
+      "gas:candidate-vibid:4504005314926": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13685,16 +13685,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 37,
-      "Белоусов Вячеслав Георгиевич": 56,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 39,
-      "Зернов Михаил Владимирович": 16,
-      "Надеждин Борис Борисович": 22,
-      "Роднина Ирина Константиновна": 180,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 30
+      "gas:candidate-vibid:4504005312039": 37,
+      "gas:candidate-vibid:4504005311843": 56,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 39,
+      "gas:candidate-vibid:4504005311278": 16,
+      "gas:candidate-vibid:4504005313402": 22,
+      "gas:candidate-vibid:4504005312514": 180,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005528&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005528&type=464",
@@ -13745,16 +13745,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 14,
-      "Белоусов Вячеслав Георгиевич": 3,
-      "Бычинский Станислав Олегович": 3,
-      "Взятышев Юрий Михайлович": 2,
-      "Дмитриева Виктория Вадимовна": 20,
-      "Зернов Михаил Владимирович": 3,
-      "Надеждин Борис Борисович": 16,
-      "Роднина Ирина Константиновна": 56,
-      "Рязанов Владимир Викторович": 2,
-      "Трунин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:4504005312039": 14,
+      "gas:candidate-vibid:4504005311843": 3,
+      "gas:candidate-vibid:4504005312320": 3,
+      "gas:candidate-vibid:4504005312497": 2,
+      "gas:candidate-vibid:4504005312410": 20,
+      "gas:candidate-vibid:4504005311278": 3,
+      "gas:candidate-vibid:4504005313402": 16,
+      "gas:candidate-vibid:4504005312514": 56,
+      "gas:candidate-vibid:4504005312229": 2,
+      "gas:candidate-vibid:4504005314926": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -13805,16 +13805,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 5,
-      "Белоусов Вячеслав Георгиевич": 1,
-      "Бычинский Станислав Олегович": 1,
-      "Взятышев Юрий Михайлович": 0,
-      "Дмитриева Виктория Вадимовна": 1,
-      "Зернов Михаил Владимирович": 0,
-      "Надеждин Борис Борисович": 24,
-      "Роднина Ирина Константиновна": 7,
-      "Рязанов Владимир Викторович": 2,
-      "Трунин Дмитрий Николаевич": 10
+      "gas:candidate-vibid:4504005312039": 5,
+      "gas:candidate-vibid:4504005311843": 1,
+      "gas:candidate-vibid:4504005312320": 1,
+      "gas:candidate-vibid:4504005312497": 0,
+      "gas:candidate-vibid:4504005312410": 1,
+      "gas:candidate-vibid:4504005311278": 0,
+      "gas:candidate-vibid:4504005313402": 24,
+      "gas:candidate-vibid:4504005312514": 7,
+      "gas:candidate-vibid:4504005312229": 2,
+      "gas:candidate-vibid:4504005314926": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -13865,16 +13865,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 31,
-      "Белоусов Вячеслав Георгиевич": 21,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 22,
-      "Зернов Михаил Владимирович": 4,
-      "Надеждин Борис Борисович": 40,
-      "Роднина Ирина Константиновна": 220,
-      "Рязанов Владимир Викторович": 8,
-      "Трунин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:4504005312039": 31,
+      "gas:candidate-vibid:4504005311843": 21,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 22,
+      "gas:candidate-vibid:4504005311278": 4,
+      "gas:candidate-vibid:4504005313402": 40,
+      "gas:candidate-vibid:4504005312514": 220,
+      "gas:candidate-vibid:4504005312229": 8,
+      "gas:candidate-vibid:4504005314926": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -13925,16 +13925,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 53,
-      "Белоусов Вячеслав Георгиевич": 18,
-      "Бычинский Станислав Олегович": 7,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 20,
-      "Зернов Михаил Владимирович": 15,
-      "Надеждин Борис Борисович": 68,
-      "Роднина Ирина Константиновна": 132,
-      "Рязанов Владимир Викторович": 14,
-      "Трунин Дмитрий Николаевич": 27
+      "gas:candidate-vibid:4504005312039": 53,
+      "gas:candidate-vibid:4504005311843": 18,
+      "gas:candidate-vibid:4504005312320": 7,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 20,
+      "gas:candidate-vibid:4504005311278": 15,
+      "gas:candidate-vibid:4504005313402": 68,
+      "gas:candidate-vibid:4504005312514": 132,
+      "gas:candidate-vibid:4504005312229": 14,
+      "gas:candidate-vibid:4504005314926": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -13985,16 +13985,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 70,
-      "Белоусов Вячеслав Георгиевич": 28,
-      "Бычинский Станислав Олегович": 7,
-      "Взятышев Юрий Михайлович": 8,
-      "Дмитриева Виктория Вадимовна": 42,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 72,
-      "Роднина Ирина Константиновна": 269,
-      "Рязанов Владимир Викторович": 18,
-      "Трунин Дмитрий Николаевич": 21
+      "gas:candidate-vibid:4504005312039": 70,
+      "gas:candidate-vibid:4504005311843": 28,
+      "gas:candidate-vibid:4504005312320": 7,
+      "gas:candidate-vibid:4504005312497": 8,
+      "gas:candidate-vibid:4504005312410": 42,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 72,
+      "gas:candidate-vibid:4504005312514": 269,
+      "gas:candidate-vibid:4504005312229": 18,
+      "gas:candidate-vibid:4504005314926": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14045,16 +14045,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 65,
-      "Белоусов Вячеслав Георгиевич": 34,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 11,
-      "Дмитриева Виктория Вадимовна": 57,
-      "Зернов Михаил Владимирович": 23,
-      "Надеждин Борис Борисович": 102,
-      "Роднина Ирина Константиновна": 241,
-      "Рязанов Владимир Викторович": 18,
-      "Трунин Дмитрий Николаевич": 52
+      "gas:candidate-vibid:4504005312039": 65,
+      "gas:candidate-vibid:4504005311843": 34,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 11,
+      "gas:candidate-vibid:4504005312410": 57,
+      "gas:candidate-vibid:4504005311278": 23,
+      "gas:candidate-vibid:4504005313402": 102,
+      "gas:candidate-vibid:4504005312514": 241,
+      "gas:candidate-vibid:4504005312229": 18,
+      "gas:candidate-vibid:4504005314926": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14105,16 +14105,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 39,
-      "Белоусов Вячеслав Георгиевич": 33,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 30,
-      "Зернов Михаил Владимирович": 21,
-      "Надеждин Борис Борисович": 70,
-      "Роднина Ирина Константиновна": 238,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 24
+      "gas:candidate-vibid:4504005312039": 39,
+      "gas:candidate-vibid:4504005311843": 33,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 30,
+      "gas:candidate-vibid:4504005311278": 21,
+      "gas:candidate-vibid:4504005313402": 70,
+      "gas:candidate-vibid:4504005312514": 238,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14165,16 +14165,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 40,
-      "Белоусов Вячеслав Георгиевич": 11,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 4,
-      "Дмитриева Виктория Вадимовна": 15,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 39,
-      "Роднина Ирина Константиновна": 143,
-      "Рязанов Владимир Викторович": 14,
-      "Трунин Дмитрий Николаевич": 17
+      "gas:candidate-vibid:4504005312039": 40,
+      "gas:candidate-vibid:4504005311843": 11,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 4,
+      "gas:candidate-vibid:4504005312410": 15,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 39,
+      "gas:candidate-vibid:4504005312514": 143,
+      "gas:candidate-vibid:4504005312229": 14,
+      "gas:candidate-vibid:4504005314926": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14225,16 +14225,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 55,
-      "Белоусов Вячеслав Георгиевич": 51,
-      "Бычинский Станислав Олегович": 11,
-      "Взятышев Юрий Михайлович": 16,
-      "Дмитриева Виктория Вадимовна": 54,
-      "Зернов Михаил Владимирович": 20,
-      "Надеждин Борис Борисович": 105,
-      "Роднина Ирина Константиновна": 404,
-      "Рязанов Владимир Викторович": 19,
-      "Трунин Дмитрий Николаевич": 49
+      "gas:candidate-vibid:4504005312039": 55,
+      "gas:candidate-vibid:4504005311843": 51,
+      "gas:candidate-vibid:4504005312320": 11,
+      "gas:candidate-vibid:4504005312497": 16,
+      "gas:candidate-vibid:4504005312410": 54,
+      "gas:candidate-vibid:4504005311278": 20,
+      "gas:candidate-vibid:4504005313402": 105,
+      "gas:candidate-vibid:4504005312514": 404,
+      "gas:candidate-vibid:4504005312229": 19,
+      "gas:candidate-vibid:4504005314926": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14285,16 +14285,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 7,
-      "Белоусов Вячеслав Георгиевич": 6,
-      "Бычинский Станислав Олегович": 0,
-      "Взятышев Юрий Михайлович": 1,
-      "Дмитриева Виктория Вадимовна": 5,
-      "Зернов Михаил Владимирович": 0,
-      "Надеждин Борис Борисович": 6,
-      "Роднина Ирина Константиновна": 33,
-      "Рязанов Владимир Викторович": 6,
-      "Трунин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:4504005312039": 7,
+      "gas:candidate-vibid:4504005311843": 6,
+      "gas:candidate-vibid:4504005312320": 0,
+      "gas:candidate-vibid:4504005312497": 1,
+      "gas:candidate-vibid:4504005312410": 5,
+      "gas:candidate-vibid:4504005311278": 0,
+      "gas:candidate-vibid:4504005313402": 6,
+      "gas:candidate-vibid:4504005312514": 33,
+      "gas:candidate-vibid:4504005312229": 6,
+      "gas:candidate-vibid:4504005314926": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14345,16 +14345,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 62,
-      "Белоусов Вячеслав Георгиевич": 54,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 54,
-      "Зернов Михаил Владимирович": 21,
-      "Надеждин Борис Борисович": 50,
-      "Роднина Ирина Константиновна": 624,
-      "Рязанов Владимир Викторович": 35,
-      "Трунин Дмитрий Николаевич": 32
+      "gas:candidate-vibid:4504005312039": 62,
+      "gas:candidate-vibid:4504005311843": 54,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 54,
+      "gas:candidate-vibid:4504005311278": 21,
+      "gas:candidate-vibid:4504005313402": 50,
+      "gas:candidate-vibid:4504005312514": 624,
+      "gas:candidate-vibid:4504005312229": 35,
+      "gas:candidate-vibid:4504005314926": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14405,16 +14405,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 48,
-      "Белоусов Вячеслав Георгиевич": 43,
-      "Бычинский Станислав Олегович": 7,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 36,
-      "Зернов Михаил Владимирович": 13,
-      "Надеждин Борис Борисович": 72,
-      "Роднина Ирина Константиновна": 393,
-      "Рязанов Владимир Викторович": 11,
-      "Трунин Дмитрий Николаевич": 28
+      "gas:candidate-vibid:4504005312039": 48,
+      "gas:candidate-vibid:4504005311843": 43,
+      "gas:candidate-vibid:4504005312320": 7,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 36,
+      "gas:candidate-vibid:4504005311278": 13,
+      "gas:candidate-vibid:4504005313402": 72,
+      "gas:candidate-vibid:4504005312514": 393,
+      "gas:candidate-vibid:4504005312229": 11,
+      "gas:candidate-vibid:4504005314926": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14465,16 +14465,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 91,
-      "Белоусов Вячеслав Георгиевич": 47,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 13,
-      "Дмитриева Виктория Вадимовна": 65,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 107,
-      "Роднина Ирина Константиновна": 391,
-      "Рязанов Владимир Викторович": 27,
-      "Трунин Дмитрий Николаевич": 33
+      "gas:candidate-vibid:4504005312039": 91,
+      "gas:candidate-vibid:4504005311843": 47,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 13,
+      "gas:candidate-vibid:4504005312410": 65,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 107,
+      "gas:candidate-vibid:4504005312514": 391,
+      "gas:candidate-vibid:4504005312229": 27,
+      "gas:candidate-vibid:4504005314926": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14525,16 +14525,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 97,
-      "Белоусов Вячеслав Георгиевич": 56,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 70,
-      "Зернов Михаил Владимирович": 34,
-      "Надеждин Борис Борисович": 66,
-      "Роднина Ирина Константиновна": 394,
-      "Рязанов Владимир Викторович": 28,
-      "Трунин Дмитрий Николаевич": 32
+      "gas:candidate-vibid:4504005312039": 97,
+      "gas:candidate-vibid:4504005311843": 56,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 70,
+      "gas:candidate-vibid:4504005311278": 34,
+      "gas:candidate-vibid:4504005313402": 66,
+      "gas:candidate-vibid:4504005312514": 394,
+      "gas:candidate-vibid:4504005312229": 28,
+      "gas:candidate-vibid:4504005314926": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14585,16 +14585,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 54,
-      "Белоусов Вячеслав Георгиевич": 41,
-      "Бычинский Станислав Олегович": 27,
-      "Взятышев Юрий Михайлович": 7,
-      "Дмитриева Виктория Вадимовна": 50,
-      "Зернов Михаил Владимирович": 7,
-      "Надеждин Борис Борисович": 62,
-      "Роднина Ирина Константиновна": 231,
-      "Рязанов Владимир Викторович": 17,
-      "Трунин Дмитрий Николаевич": 20
+      "gas:candidate-vibid:4504005312039": 54,
+      "gas:candidate-vibid:4504005311843": 41,
+      "gas:candidate-vibid:4504005312320": 27,
+      "gas:candidate-vibid:4504005312497": 7,
+      "gas:candidate-vibid:4504005312410": 50,
+      "gas:candidate-vibid:4504005311278": 7,
+      "gas:candidate-vibid:4504005313402": 62,
+      "gas:candidate-vibid:4504005312514": 231,
+      "gas:candidate-vibid:4504005312229": 17,
+      "gas:candidate-vibid:4504005314926": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14645,16 +14645,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 31,
-      "Белоусов Вячеслав Георгиевич": 19,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 16,
-      "Зернов Михаил Владимирович": 6,
-      "Надеждин Борис Борисович": 51,
-      "Роднина Ирина Константиновна": 489,
-      "Рязанов Владимир Викторович": 12,
-      "Трунин Дмитрий Николаевич": 18
+      "gas:candidate-vibid:4504005312039": 31,
+      "gas:candidate-vibid:4504005311843": 19,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 16,
+      "gas:candidate-vibid:4504005311278": 6,
+      "gas:candidate-vibid:4504005313402": 51,
+      "gas:candidate-vibid:4504005312514": 489,
+      "gas:candidate-vibid:4504005312229": 12,
+      "gas:candidate-vibid:4504005314926": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14705,16 +14705,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 70,
-      "Белоусов Вячеслав Георгиевич": 58,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 75,
-      "Зернов Михаил Владимирович": 14,
-      "Надеждин Борис Борисович": 122,
-      "Роднина Ирина Константиновна": 381,
-      "Рязанов Владимир Викторович": 33,
-      "Трунин Дмитрий Николаевич": 31
+      "gas:candidate-vibid:4504005312039": 70,
+      "gas:candidate-vibid:4504005311843": 58,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 75,
+      "gas:candidate-vibid:4504005311278": 14,
+      "gas:candidate-vibid:4504005313402": 122,
+      "gas:candidate-vibid:4504005312514": 381,
+      "gas:candidate-vibid:4504005312229": 33,
+      "gas:candidate-vibid:4504005314926": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14765,16 +14765,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 93,
-      "Белоусов Вячеслав Георгиевич": 37,
-      "Бычинский Станислав Олегович": 12,
-      "Взятышев Юрий Михайлович": 6,
-      "Дмитриева Виктория Вадимовна": 77,
-      "Зернов Михаил Владимирович": 11,
-      "Надеждин Борис Борисович": 86,
-      "Роднина Ирина Константиновна": 501,
-      "Рязанов Владимир Викторович": 30,
-      "Трунин Дмитрий Николаевич": 27
+      "gas:candidate-vibid:4504005312039": 93,
+      "gas:candidate-vibid:4504005311843": 37,
+      "gas:candidate-vibid:4504005312320": 12,
+      "gas:candidate-vibid:4504005312497": 6,
+      "gas:candidate-vibid:4504005312410": 77,
+      "gas:candidate-vibid:4504005311278": 11,
+      "gas:candidate-vibid:4504005313402": 86,
+      "gas:candidate-vibid:4504005312514": 501,
+      "gas:candidate-vibid:4504005312229": 30,
+      "gas:candidate-vibid:4504005314926": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14825,16 +14825,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 21,
-      "Белоусов Вячеслав Георгиевич": 22,
-      "Бычинский Станислав Олегович": 5,
-      "Взятышев Юрий Михайлович": 2,
-      "Дмитриева Виктория Вадимовна": 24,
-      "Зернов Михаил Владимирович": 5,
-      "Надеждин Борис Борисович": 49,
-      "Роднина Ирина Константиновна": 190,
-      "Рязанов Владимир Викторович": 13,
-      "Трунин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:4504005312039": 21,
+      "gas:candidate-vibid:4504005311843": 22,
+      "gas:candidate-vibid:4504005312320": 5,
+      "gas:candidate-vibid:4504005312497": 2,
+      "gas:candidate-vibid:4504005312410": 24,
+      "gas:candidate-vibid:4504005311278": 5,
+      "gas:candidate-vibid:4504005313402": 49,
+      "gas:candidate-vibid:4504005312514": 190,
+      "gas:candidate-vibid:4504005312229": 13,
+      "gas:candidate-vibid:4504005314926": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14885,16 +14885,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 71,
-      "Белоусов Вячеслав Георгиевич": 57,
-      "Бычинский Станислав Олегович": 8,
-      "Взятышев Юрий Михайлович": 9,
-      "Дмитриева Виктория Вадимовна": 70,
-      "Зернов Михаил Владимирович": 12,
-      "Надеждин Борис Борисович": 90,
-      "Роднина Ирина Константиновна": 466,
-      "Рязанов Владимир Викторович": 31,
-      "Трунин Дмитрий Николаевич": 22
+      "gas:candidate-vibid:4504005312039": 71,
+      "gas:candidate-vibid:4504005311843": 57,
+      "gas:candidate-vibid:4504005312320": 8,
+      "gas:candidate-vibid:4504005312497": 9,
+      "gas:candidate-vibid:4504005312410": 70,
+      "gas:candidate-vibid:4504005311278": 12,
+      "gas:candidate-vibid:4504005313402": 90,
+      "gas:candidate-vibid:4504005312514": 466,
+      "gas:candidate-vibid:4504005312229": 31,
+      "gas:candidate-vibid:4504005314926": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",
@@ -14945,16 +14945,16 @@ export const duma_2016_uik_463_region_50_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Михаил Юрьевич": 72,
-      "Белоусов Вячеслав Георгиевич": 45,
-      "Бычинский Станислав Олегович": 13,
-      "Взятышев Юрий Михайлович": 10,
-      "Дмитриева Виктория Вадимовна": 60,
-      "Зернов Михаил Владимирович": 8,
-      "Надеждин Борис Борисович": 93,
-      "Роднина Ирина Константиновна": 260,
-      "Рязанов Владимир Викторович": 16,
-      "Трунин Дмитрий Николаевич": 31
+      "gas:candidate-vibid:4504005312039": 72,
+      "gas:candidate-vibid:4504005311843": 45,
+      "gas:candidate-vibid:4504005312320": 13,
+      "gas:candidate-vibid:4504005312497": 10,
+      "gas:candidate-vibid:4504005312410": 60,
+      "gas:candidate-vibid:4504005311278": 8,
+      "gas:candidate-vibid:4504005313402": 93,
+      "gas:candidate-vibid:4504005312514": 260,
+      "gas:candidate-vibid:4504005312229": 16,
+      "gas:candidate-vibid:4504005314926": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000157&tvd=25020002005529&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005529&type=464",

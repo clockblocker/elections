@@ -8,7032 +8,18752 @@ export const duma_2021_uik_to_tik_region_69 = [
     "uikNumber": 1,
     "uikTvd": "4694001221321",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №1",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4694001221322",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №2",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4694001221323",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №3",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4694001221324",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №4",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4694001221325",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №5",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4694001221326",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №6",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4694001221327",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №7",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4694001221328",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №8",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4694001221329",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №9",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4694001221330",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №10",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4694001221331",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №11",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4694001221332",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №12",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4694001221333",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №13",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4694001221334",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №14",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4694001221335",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №15",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4694001221336",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №16",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4694001221337",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №17",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4694001221338",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №18",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4694001221339",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №19",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4694001221340",
     "tikTvd": "26920001675833",
-    "tikName": "Андреапольская"
+    "tikName": "Андреапольская",
+    "uikName": "УИК №20",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4694002286286",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №22",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4694002286287",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №23",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4694002286288",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №24",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4694002286289",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №25",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4694002286290",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №26",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4694002286291",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №27",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4694002286292",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №28",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4694002286293",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №29",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4694002286294",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №30",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4694002286295",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №31",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4694002286296",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №32",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4694002286297",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №33",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4694002286298",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №34",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4694002286299",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №35",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4694002286300",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №36",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4694002286301",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №37",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4694002286302",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №38",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4694002286303",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №39",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4694002286304",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №40",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4694002286305",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №41",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4694002286306",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №42",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4694002286307",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №43",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4694002286308",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №44",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4694002286309",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №45",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4694002286310",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №46",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4694002286311",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №47",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4694002286312",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №48",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4694002286313",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №49",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4694002286314",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №50",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4694002286315",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №51",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4694002286316",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №52",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4694002286317",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №53",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4694002286318",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №54",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4694002286319",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №55",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4694003180384",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №56",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4694003180385",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №57",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4694003180386",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №58",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4694003180387",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №59",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4694003180388",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №60",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4694003180389",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №61",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4694003180390",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №62",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4694003180391",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №63",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4694003180392",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №64",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4694003180393",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №65",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4694003180394",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №66",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4694003180395",
     "tikTvd": "26920001675832",
-    "tikName": "Бельская"
+    "tikName": "Бельская",
+    "uikName": "УИК №67",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4694004259977",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №68",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4694004259978",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №69",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4694004259979",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №70",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4694004259980",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №71",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4694004259981",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №72",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4694004259982",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №73",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4694004259983",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №74",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4694004259984",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №75",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4694004259985",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №76",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4694004259986",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №77",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4694004259987",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №78",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4694004259988",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №79",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4694004259989",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №80",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4694004259990",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №81",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4694004259991",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №82",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4694004259992",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №83",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4694004259993",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №84",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4694004259994",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №85",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4694004259995",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №86",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4694004259996",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №87",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4694004259997",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №88",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4694004259998",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №89",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4694004259999",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №90",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4694004260000",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №91",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4694004260001",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №92",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4694004260002",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №93",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4694004260003",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №94",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4694004260004",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №95",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4694004260005",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №96",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4694004260006",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №97",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4694004260007",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №98",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4694004260008",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №99",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4694004260009",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №100",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4694004260010",
     "tikTvd": "26920001675831",
-    "tikName": "Бологовская"
+    "tikName": "Бологовская",
+    "uikName": "УИК №101",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4694006201953",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №102",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4694006201954",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №103",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4694006201955",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №104",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4694006201956",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №105",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4694006201957",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №106",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4694006201958",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №107",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4694006201959",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №108",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4694006201960",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №109",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4694006201961",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №110",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4694006201962",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №111",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4694006201963",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №112",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4694006201964",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №113",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4694006201965",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №114",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4694006201966",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №115",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4694006201967",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №116",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4694006201968",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №117",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4694006201969",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №118",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4694006201970",
     "tikTvd": "26920001675806",
-    "tikName": "Весьегонская"
+    "tikName": "Весьегонская",
+    "uikName": "УИК №119",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4694007271028",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №120",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4694007271029",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №121",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4694007271030",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №122",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4694007271031",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №123",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4694007271032",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №124",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4694007271033",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №125",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4694007271034",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №126",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4694007271035",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №127",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4694007271036",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №128",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4694007271037",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №129",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4694007271038",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №130",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4694007271039",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №131",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4694007271040",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №132",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4694007271041",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №133",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4694007271042",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №134",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4694007271043",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №135",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4694007271044",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №136",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4694007271045",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №137",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4694007271046",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №138",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4694007271047",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №139",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4694007271048",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №140",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4694007271049",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №141",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4694007271050",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №142",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4694007271051",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №143",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4694007271052",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №144",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4694007271053",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №145",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4694007271054",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №146",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4694007271055",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №147",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4694007271056",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №148",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4694007271057",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №149",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4694007271058",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №150",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4694007271059",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №151",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4694007271060",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №152",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4694007271061",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №153",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4694007271062",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №154",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4694007271063",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №155",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4694007271064",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №156",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4694007271065",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №157",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4694007271066",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №158",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4694007271067",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №159",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4694007271068",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №160",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4694007271069",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №161",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4694007271070",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №162",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4694007271071",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №163",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4694007271072",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №164",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4694007271073",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №165",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4694007271074",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №166",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4694007271075",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №167",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4694007271076",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №168",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4694007271077",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №169",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4694007271078",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №170",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4694007271079",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №171",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4694007271080",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №172",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4694007271081",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №173",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4694007271082",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №174",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4694007271083",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №175",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4694007271084",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №176",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4694007271085",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №177",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4694007271086",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №178",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4694007271087",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №179",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4694007271088",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №180",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4694007271089",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №181",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4694007271090",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №182",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4694007271091",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №183",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4694007271092",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №184",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4694008174159",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №185",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4694008174160",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №186",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4694008174161",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №187",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4694008174162",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №188",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4694008174163",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №189",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4694008174164",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №190",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4694008174165",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №191",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4694008174166",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №192",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4694008174167",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №193",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4694008174168",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №194",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4694008174169",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №195",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4694008174170",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №196",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4694008174171",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №197",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4694008174172",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №198",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4694008174173",
     "tikTvd": "26920001675829",
-    "tikName": "Жарковская"
+    "tikName": "Жарковская",
+    "uikName": "УИК №199",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4694009240544",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №200",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4694009240545",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №201",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4694009240546",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №202",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4694009240547",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №203",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4694009240548",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №204",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4694009240549",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №205",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4694009240550",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №206",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4694009240551",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №207",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4694009240552",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №208",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4694009240553",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №209",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4694009240554",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №210",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4694009240555",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №211",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4694009240556",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №212",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4694009240557",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №213",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4694009240558",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №214",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4694009240559",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №215",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4694009240560",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №216",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4694009240561",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №217",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4694009240562",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №218",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4694009240563",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №219",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4694009240564",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №220",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4694009240565",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №221",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4694009240566",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №222",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4694009240567",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №223",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4694009240568",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №224",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4694009240569",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №225",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4694009240570",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №226",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4694009240571",
     "tikTvd": "26920001675828",
-    "tikName": "Западнодвинская"
+    "tikName": "Западнодвинская",
+    "uikName": "УИК №227",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4694010233253",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №228",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4694010233254",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №229",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4694010233255",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №230",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4694010233256",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №231",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4694010233257",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №232",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4694010233258",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №233",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4694010233259",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №234",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4694010233260",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №235",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4694010233261",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №236",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4694010233262",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №237",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4694010233263",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №238",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4694010233264",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №239",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4694010233265",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №240",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4694010233266",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №241",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4694010233267",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №242",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4694010233268",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №243",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4694010233269",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №244",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4694010233270",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №245",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4694010233271",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №246",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4694010233272",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №247",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4694010233273",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №248",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4694010233274",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №249",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4694010233275",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №250",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4694010233276",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №251",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4694010233277",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №252",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4694010233278",
     "tikTvd": "26920001675827",
-    "tikName": "Зубцовская"
+    "tikName": "Зубцовская",
+    "uikName": "УИК №253",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4694011346841",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №254",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4694011346775",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №255",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4694011346777",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №256",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4694011346779",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №257",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4694011346781",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №258",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4694011346783",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №259",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4694011346785",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №260",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4694011346787",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №261",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4694011346789",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №262",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4694011346791",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №263",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4694011346793",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №264",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4694011346795",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №265",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4694011346797",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №266",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4694011346842",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №267",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4694011346843",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №268",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4694011346844",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №269",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4694011346799",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №270",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4694011346801",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №271",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4694011346803",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №272",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4694011346805",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №273",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4694011346807",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №274",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4694011346845",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №275",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4694011346846",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №276",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4694011346847",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №277",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4694011346848",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №278",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4694011346849",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №279",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4694011346850",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №280",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4694011346851",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №281",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4694011346852",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №282",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4694011346853",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №283",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4694011346854",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №284",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4694011346809",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №285",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4694011346811",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №286",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4694011346813",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №287",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4694011346817",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №288",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4694011346819",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №289",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4694011346821",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №290",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4694011346823",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №291",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4694011346825",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №292",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4694011346855",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №293",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4694011346856",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №294",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4694011346857",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №295",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4694011346827",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №296",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4694011346829",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №297",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4694011346831",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №298",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4694011346833",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №299",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4694011346835",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №300",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4694011346858",
     "tikTvd": "26920001675826",
-    "tikName": "Калининская-180"
+    "tikName": "Калининская-180",
+    "uikName": "УИК №301",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4694011346837",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №302",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4694011346839",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №303",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4694012219579",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №304",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4694012219580",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №305",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4694012219581",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №306",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4694012219582",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №307",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4694012219583",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №308",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4694012219584",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №309",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4694012219585",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №310",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4694012219586",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №311",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4694012219587",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №312",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4694012219588",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №313",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4694012219589",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №314",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4694012219590",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №315",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4694012219591",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №316",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4694012219592",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №317",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4694012219593",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №318",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4694012219594",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №319",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4694012219595",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №320",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4694012219596",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №321",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4694012219597",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №322",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4694012219598",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №323",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4694012219599",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №324",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4694012219600",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №325",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4694012219601",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №326",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4694012219602",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №327",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4694012219603",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №328",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4694012219604",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №329",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4694013253316",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №330",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4694013253317",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №331",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4694013253318",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №332",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4694013253319",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №333",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4694013253320",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №334",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4694013253321",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №335",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4694013253322",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №336",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4694013253323",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №337",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4694013253324",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №338",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4694013253325",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №339",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4694013253326",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №340",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4694013253327",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №341",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4694013253328",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №342",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4694013253329",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №343",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4694013253330",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №344",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4694013253331",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №345",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4694013253332",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №346",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4694013253333",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №347",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4694013253334",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №348",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4694013253335",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №349",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4694013253336",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №350",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4694013253337",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №351",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4694013253338",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №352",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4694013253339",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №353",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4694013253340",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №354",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4694013253341",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №355",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4694013253342",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №356",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4694013253343",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №357",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4694013253344",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №358",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4694013253345",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №359",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4694013253346",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №360",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4694013253347",
     "tikTvd": "26920001675803",
-    "tikName": "Кашинская"
+    "tikName": "Кашинская",
+    "uikName": "УИК №361",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4694014183278",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №362",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4694014183279",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №363",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4694014183280",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №364",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4694014183281",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №365",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4694014183282",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №366",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4694014183283",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №367",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4694014183284",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №368",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4694014183285",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №369",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4694014183286",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №370",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4694014183287",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №371",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4694014183288",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №372",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4694014183289",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №373",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4694014183290",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №374",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4694014183291",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №375",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4694014183292",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №376",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4694014183293",
     "tikTvd": "26920001675802",
-    "tikName": "Кесовогорская"
+    "tikName": "Кесовогорская",
+    "uikName": "УИК №377",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4694015212466",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №378",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4694015212467",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №379",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4694015212468",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №380",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4694015212469",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №381",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4694015212470",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №382",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4694015212471",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №383",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4694015212472",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №384",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4694015212473",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №385",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4694015212474",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №386",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4694015212475",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №387",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4694015212476",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №388",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4694015212477",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №389",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4694015212478",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №390",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4694015212479",
     "tikTvd": "26920001675801",
-    "tikName": "Кимрская"
+    "tikName": "Кимрская",
+    "uikName": "УИК №391",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4694043222393",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №392",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4694043222394",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №393",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4694043222395",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №394",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4694043222396",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №395",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4694043222397",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №396",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4694043222398",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №397",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4694043222399",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №398",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4694043222400",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №399",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4694043222401",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №400",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4694043222402",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №401",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4694043222403",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №402",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4694043222404",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №403",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4694043222405",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №404",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4694043222406",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №405",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4694043222407",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №406",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4694043222408",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №407",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4694043222409",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №408",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4694043222410",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №409",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4694043222411",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №410",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4694043222412",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №411",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4694043222413",
     "tikTvd": "26920001675800",
-    "tikName": "Кимрская городская"
+    "tikName": "Кимрская городская",
+    "uikName": "УИК №412",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4694016407525",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №413",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4694016407526",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №414",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4694016407527",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №415",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4694016407528",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №416",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4694016407529",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №417",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4694016407530",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №418",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4694016407531",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №419",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4694016407532",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №420",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4694016407533",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №421",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4694016407534",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №422",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4694016407535",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №423",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4694016407536",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №424",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4694016407537",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №425",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4694016407538",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №426",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4694016407539",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №427",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4694016407540",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №428",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4694016407541",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №429",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4694016407542",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №430",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4694016407543",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №431",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4694016407544",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №432",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4694016407545",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №433",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4694016407546",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №434",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4694016407547",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №435",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4694016407548",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №436",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4694016407549",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №437",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4694016407550",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №438",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4694016407551",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №439",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4694016407552",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №440",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4694016407553",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №441",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4694016407554",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №442",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4694016407555",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №443",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4694016407556",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №444",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4694016407557",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №445",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4694016407558",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №446",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4694016407559",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №447",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4694016407560",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №448",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4694016407561",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №449",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4694016407562",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №450",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4694016407563",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №451",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4694016407564",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №452",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4694016407565",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №453",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4694016407566",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №454",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4694016407567",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №455",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4694016407568",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №456",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4694016407569",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №457",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4694016407570",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №458",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4694016407571",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №459",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4694016407572",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №460",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4694016407573",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №461",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4694016407574",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №462",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4694016407575",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №463",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4694016407576",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №464",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4694016407577",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №465",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4694017192893",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №466",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4694017192894",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №467",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4694017192895",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №468",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4694017192896",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №469",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4694017192897",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №470",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4694017192898",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №471",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4694017192899",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №472",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4694017192900",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №473",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4694017192901",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №474",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4694017192902",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №475",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4694017192903",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №476",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4694017192904",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №477",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4694017192905",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №478",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4694017192906",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №479",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4694017192907",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №480",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4694017192908",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №481",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4694017192909",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №482",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4694017192910",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №483",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4694017192911",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №484",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4694017192912",
     "tikTvd": "26920001675798",
-    "tikName": "Краснохолмская"
+    "tikName": "Краснохолмская",
+    "uikName": "УИК №485",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4694018220695",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №486",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4694018220696",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №487",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4694018220697",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №488",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4694018220698",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №489",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4694018220699",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №490",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4694018220700",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №491",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4694018220701",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №492",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4694018220702",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №493",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4694018220703",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №494",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4694018220704",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №495",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4694018220705",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №496",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4694018220706",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №497",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4694018220707",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №498",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4694018220708",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №499",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4694018220709",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №500",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4694018220710",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №501",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4694018220711",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №502",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4694018220712",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №503",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4694018220713",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №504",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4694018220714",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №505",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4694018220715",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №506",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4694018220716",
     "tikTvd": "26920001675825",
-    "tikName": "Кувшиновская"
+    "tikName": "Кувшиновская",
+    "uikName": "УИК №507",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4694019175828",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №508",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4694019175829",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №509",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4694019175830",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №510",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4694019175831",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №511",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4694019175832",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №512",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4694019175833",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №513",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4694019175834",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №514",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4694019175835",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №515",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4694019175836",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №516",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4694019175837",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №517",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4694019175838",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №518",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4694019175839",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №519",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4694019175840",
     "tikTvd": "26920001675797",
-    "tikName": "Лесная"
+    "tikName": "Лесная",
+    "uikName": "УИК №520",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4694020266220",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №521",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4694020266221",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №522",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4694020266222",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №523",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4694020266223",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №524",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4694020266224",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №525",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4694020266225",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №526",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4694020266226",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №527",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4694020266227",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №528",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4694020266228",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №529",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4694020266229",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №530",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4694020266230",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №531",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4694020266231",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №532",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4694020266232",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №533",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4694020266233",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №534",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4694020266234",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №535",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4694020266235",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №536",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4694020266236",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №537",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4694020266237",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №538",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4694020266238",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №539",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4694020266239",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №540",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4694020266240",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №541",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4694020266241",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №542",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4694020266242",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №543",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4694020266243",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №544",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4694020266244",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №545",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4694020266245",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №546",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4694020266246",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №547",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4694020266247",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №548",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4694020266248",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №549",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4694020266249",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №550",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4694020266250",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №551",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4694020266251",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №552",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4694020266252",
     "tikTvd": "26920001675824",
-    "tikName": "Лихославльская"
+    "tikName": "Лихославльская",
+    "uikName": "УИК №553",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4694021225560",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №554",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4694021225561",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №555",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4694021225562",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №556",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4694021225563",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №557",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4694021225564",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №558",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4694021225565",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №559",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4694021225566",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №560",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4694021225567",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №561",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4694021225568",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №562",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4694021225569",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №563",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4694021225570",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №564",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4694021225571",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №565",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4694021225572",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №566",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4694021225573",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №567",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4694021225574",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №568",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4694021225575",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №569",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4694021225576",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №570",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4694021225577",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №571",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4694021225578",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №572",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4694021225579",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №573",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4694021225580",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №574",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4694021225581",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №575",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4694021225582",
     "tikTvd": "26920001675796",
-    "tikName": "Максатихинская"
+    "tikName": "Максатихинская",
+    "uikName": "УИК №576",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4694022174806",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №577",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4694022174807",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №578",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4694022174808",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №579",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4694022174809",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №580",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4694022174810",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №581",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4694022174811",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №582",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4694022174812",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №583",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4694022174813",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №584",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4694022174814",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №585",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4694022174815",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №586",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4694022174816",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №587",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4694022174817",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №588",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4694022174818",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №589",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4694022174819",
     "tikTvd": "26920001675795",
-    "tikName": "Молоковская"
+    "tikName": "Молоковская",
+    "uikName": "УИК №590",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4694023291400",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №591",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4694023291401",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №592",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4694023291402",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №593",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4694023291403",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №594",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4694023291404",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №595",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4694023291405",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №596",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4694023291406",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №597",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4694023291407",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №598",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4694023291408",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №599",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4694023291409",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №600",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4694023291410",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №601",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4694023291411",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №602",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4694023291412",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №603",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4694023291413",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №604",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4694023291414",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №605",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4694023291415",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №606",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4694023291416",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №607",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4694023291417",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №608",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4694023291418",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №609",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4694023291419",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №610",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4694023291420",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №611",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4694023291421",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №612",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4694023291422",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №613",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4694023291423",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №614",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4694023291424",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №615",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4694023291425",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №616",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4694023291426",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №617",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4694023291427",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №618",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4694023291428",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №619",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4694023291429",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №620",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4694023291430",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №621",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4694023291431",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №622",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4694023291432",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №623",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4694023291433",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №624",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4694023291434",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №625",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4694023291435",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №626",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4694023291436",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №627",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4694023291437",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №628",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4694023291438",
     "tikTvd": "26920001675823",
-    "tikName": "Нелидовская"
+    "tikName": "Нелидовская",
+    "uikName": "УИК №629",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4694005170077",
     "tikTvd": "26920001675822",
-    "tikName": "Озерная поселковая"
+    "tikName": "Озерная поселковая",
+    "uikName": "УИК №630",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4694005170078",
     "tikTvd": "26920001675822",
-    "tikName": "Озерная поселковая"
+    "tikName": "Озерная поселковая",
+    "uikName": "УИК №631",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4694005170079",
     "tikTvd": "26920001675822",
-    "tikName": "Озерная поселковая"
+    "tikName": "Озерная поселковая",
+    "uikName": "УИК №632",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4694005170080",
     "tikTvd": "26920001675822",
-    "tikName": "Озерная поселковая"
+    "tikName": "Озерная поселковая",
+    "uikName": "УИК №633",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4694005170081",
     "tikTvd": "26920001675822",
-    "tikName": "Озерная поселковая"
+    "tikName": "Озерная поселковая",
+    "uikName": "УИК №634",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4694024203983",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №635",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4694024203984",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №636",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4694024203985",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №637",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4694024203986",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №638",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4694024203987",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №639",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4694024203988",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №640",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4694024203989",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №641",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4694024203990",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №642",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4694024203991",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №643",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4694024203992",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №644",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4694024203993",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №645",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4694024203994",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №646",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4694024203995",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №647",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4694024203996",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №648",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4694024203997",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №649",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4694024203998",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №650",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4694024203999",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №651",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4694024204000",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №652",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4694024204001",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №653",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4694024204002",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №654",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4694024204003",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №655",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4694024204004",
     "tikTvd": "26920001675821",
-    "tikName": "Оленинская"
+    "tikName": "Оленинская",
+    "uikName": "УИК №656",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4694025271294",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №660",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4694025271295",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №661",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4694025271296",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №662",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4694025271297",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №663",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4694025271298",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №664",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4694025271299",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №665",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4694025271300",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №666",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4694025271301",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №667",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4694025271302",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №668",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4694025271303",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №669",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4694025271304",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №670",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4694025271305",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №671",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4694025271306",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №672",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4694025271307",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №673",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4694025271308",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №674",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4694025271309",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №675",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4694025271310",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №676",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4694025271311",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №677",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4694025271312",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №678",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4694025271313",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №679",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4694025271314",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №680",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4694025271315",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №681",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4694025271316",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №682",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4694025271317",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №683",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4694025271318",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №684",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4694026193704",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №685",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4694026193705",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №686",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4694026193706",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №687",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4694026193707",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №688",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4694026193708",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №689",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4694026193709",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №690",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4694026193710",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №691",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4694026193711",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №692",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4694026193712",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №693",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4694026193713",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №694",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4694026193714",
     "tikTvd": "26920001675819",
-    "tikName": "Пеновская"
+    "tikName": "Пеновская",
+    "uikName": "УИК №695",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4694027221815",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №696",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4694027221816",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №697",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4694027221817",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №698",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4694027221818",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №699",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4694027221819",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №700",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4694027221820",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №701",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4694027221821",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №702",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4694027221822",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №703",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4694027221823",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №704",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4694027221824",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №705",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4694027221825",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №706",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4694027221826",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №707",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4694027221827",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №708",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4694027221828",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №709",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4694027221829",
     "tikTvd": "26920001675794",
-    "tikName": "Рамешковская"
+    "tikName": "Рамешковская",
+    "uikName": "УИК №710",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4694028251291",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №711",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4694028251292",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №712",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4694028251293",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №713",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4694028251294",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №714",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4694028251295",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №715",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4694028251296",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №716",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4694028251297",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №717",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4694028251298",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №718",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4694028251299",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №719",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4694028251300",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №720",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4694028251301",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №721",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4694028251302",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №722",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4694028251303",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №723",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4694028251304",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №724",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4694028251305",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №725",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4694028251306",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №726",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4694028251307",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №727",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4694028251308",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №728",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4694028251309",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №729",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4694028251310",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №730",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4694028251311",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №731",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4694028251312",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №732",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4694028251313",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №733",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4694028251314",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №734",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4694028251315",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №735",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4694028251316",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №736",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4694028251317",
     "tikTvd": "26920001675818",
-    "tikName": "Ржевская"
+    "tikName": "Ржевская",
+    "uikName": "УИК №737",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4694044272870",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №738",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4694044272871",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №739",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4694044272872",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №740",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4694044272873",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №741",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4694044272874",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №742",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4694044272875",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №743",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4694044272876",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №744",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4694044272877",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №745",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4694044272878",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №746",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4694044272879",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №747",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4694044272880",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №748",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4694044272881",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №749",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4694044272882",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №750",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4694044272883",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №751",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4694044272884",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №752",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4694044272885",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №753",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4694044272886",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №754",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4694044272887",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №755",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4694044272888",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №756",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4694044272889",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №757",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4694044272890",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №758",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4694044272891",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №759",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4694044272892",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №760",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4694044272893",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №761",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4694044272894",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №762",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4694044272895",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №763",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4694044272896",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №764",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4694044272897",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №765",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4694044272898",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №766",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4694029190948",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №767",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4694029190949",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №768",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4694029190950",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №769",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4694029190951",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №770",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4694029190952",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №771",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4694029190953",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №772",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4694029190954",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №773",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4694029190955",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №774",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4694029190956",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №775",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4694029190957",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №776",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4694029190958",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №777",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4694029190959",
     "tikTvd": "26920001675793",
-    "tikName": "Сандовская"
+    "tikName": "Сандовская",
+    "uikName": "УИК №778",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4694030221629",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №782",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4694030221630",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №783",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4694030221631",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №784",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4694030221632",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №785",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4694030221633",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №786",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4694030221634",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №787",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4694030221635",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №788",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4694030221636",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №789",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4694030221637",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №790",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4694030221638",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №791",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4694030221639",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №792",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4694030221640",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №793",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4694030221641",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №794",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4694030221642",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №795",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4694030221643",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №796",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4694030221644",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №797",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4694030221645",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №798",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4694030221646",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №799",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4694030221647",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №800",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4694030221648",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №801",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4694030221649",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №802",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4694030221650",
     "tikTvd": "26920001675816",
-    "tikName": "Селижаровская"
+    "tikName": "Селижаровская",
+    "uikName": "УИК №803",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4694045128463",
     "tikTvd": "26920001675815",
-    "tikName": "Солнечная поселковая"
+    "tikName": "Солнечная поселковая",
+    "uikName": "УИК №804",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4694031204292",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №805",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4694031204293",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №806",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4694031204294",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №807",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4694031204295",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №808",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4694031204296",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №809",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4694031204297",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №810",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4694031204298",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №811",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4694031204299",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №812",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4694031204300",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №813",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4694031204301",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №814",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4694031204302",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №815",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4694031204303",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №816",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4694031204304",
     "tikTvd": "26920001675792",
-    "tikName": "Сонковская"
+    "tikName": "Сонковская",
+    "uikName": "УИК №817",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4694032197405",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №818",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4694032197406",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №819",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4694032197407",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №820",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4694032197408",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №821",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4694032197409",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №822",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4694032197410",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №823",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4694032197411",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №824",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4694032197412",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №825",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4694032197413",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №826",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4694032197414",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №827",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4694032197415",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №828",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4694032197416",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №829",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4694032197417",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №830",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4694032197418",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №831",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4694032197419",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №832",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4694032197420",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №833",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4694032197421",
     "tikTvd": "26920001675814",
-    "tikName": "Спировская"
+    "tikName": "Спировская",
+    "uikName": "УИК №834",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4694033228923",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №835",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4694033228924",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №836",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4694033228925",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №837",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4694033228926",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №838",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4694033228927",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №839",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4694033228928",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №840",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4694033228929",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №841",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4694033228930",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №842",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4694033228931",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №843",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4694033228932",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №844",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4694033228933",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №845",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4694033228934",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №846",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4694033228935",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №847",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4694033228936",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №848",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4694033228937",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №849",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4694033228938",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №850",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4694033228939",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №851",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4694033228940",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №852",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4694033228941",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №853",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4694033228942",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №854",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4694033228943",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №855",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4694033228944",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №856",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4694033228945",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №857",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4694033228946",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №858",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4694033228947",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №859",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4694033228948",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №860",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4694033228949",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №861",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4694033228950",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №862",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4694033228951",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №863",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4694033228952",
     "tikTvd": "26920001675813",
-    "tikName": "Старицкая"
+    "tikName": "Старицкая",
+    "uikName": "УИК №864",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4694034308687",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №865",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4694034308688",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №866",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4694034308689",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №867",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4694034308690",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №868",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4694034308691",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №869",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4694034308692",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №870",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4694034308693",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №871",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4694034308694",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №872",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4694034308695",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №873",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4694034308696",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №874",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4694034308697",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №875",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4694034308698",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №876",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4694034308699",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №877",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4694034308700",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №878",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4694034308701",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №879",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4694034308702",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №880",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4694034308703",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №881",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4694034308704",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №882",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4694034308705",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №883",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4694034308706",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №884",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4694034308707",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №885",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4694034308708",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №886",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4694034308709",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №887",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4694034308710",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №888",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4694034308711",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №889",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4694034308712",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №890",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4694034308713",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №891",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4694034308714",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №892",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4694034308715",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №893",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4694034308716",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №894",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4694034308717",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №895",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4694034308718",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №896",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4694034308719",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №897",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4694034308720",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №898",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4694034308721",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №899",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4694034308722",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №900",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4694034308723",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №901",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4694034308724",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №902",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4694034308725",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №903",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4694034308726",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №904",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4694034308727",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №905",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4694034308728",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №906",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4694034308729",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №907",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4694034308730",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №908",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4694034308731",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №909",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4694034308732",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №910",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4694034308733",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №911",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4694034308734",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №912",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4694034308735",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №913",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4694034308736",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №914",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4694034308737",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №915",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4694034308738",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №916",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4694034308739",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №917",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4694034308740",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №918",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4694035277187",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №919",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4694035277188",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №920",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4694035277189",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №921",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4694035277190",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №922",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4694035277191",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №923",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4694035277192",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №924",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4694035277193",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №925",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4694035277194",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №926",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4694035277195",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №927",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4694035277196",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №928",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4694035277197",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №929",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4694035277198",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №930",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4694035277199",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №931",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4694035277200",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №932",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4694035277201",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №933",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4694035277202",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №934",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4694035277203",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №935",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4694035277204",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №936",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4694035277205",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №937",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4694035277206",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №938",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4694035277207",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №939",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4694035277208",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №940",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4694035277209",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №941",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4694035277210",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №942",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4694035277211",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №943",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4694035277212",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №944",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4694035277213",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №945",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4694035277214",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №946",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4694035277215",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №947",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4694035277216",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №948",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4694035277217",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №949",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4694035277218",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №950",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4694035277219",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №951",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4694035277220",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №952",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4694035277221",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №953",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4694035277222",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №954",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4694035277223",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №955",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4694035277224",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №956",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4694035277225",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №957",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4694035277226",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №958",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4694035277227",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №959",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4694035277228",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №960",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4694035277229",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №961",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4694035277230",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №962",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4694035277231",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №963",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4694035277232",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №964",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4694035277233",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №965",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4694035277234",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №966",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4694035277235",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №967",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4694035277236",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №968",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4694035277237",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №969",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4694035277238",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №970",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4694035277239",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №971",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4694036227407",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №972",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4694036227408",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №973",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4694036227409",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №974",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4694036227410",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №975",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4694036227411",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №976",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4694036227412",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №977",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4694036227413",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №978",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4694036227414",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №979",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4694036227415",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №980",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4694036227416",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №981",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4694036227417",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №982",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4694036227418",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №983",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4694036227419",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №984",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4694036227420",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №985",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4694036227421",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №986",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4694036227422",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №987",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4694036227423",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №988",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4694036227424",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №989",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4694036227425",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №990",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4694036227426",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №991",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4694036227427",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №992",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4694036227428",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №993",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4694036227429",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №994",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4694036227430",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №995",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4694036227431",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №996",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4694036227432",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №997",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4694036227433",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №998",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4694036227434",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №999",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4694036227435",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1000",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4694036227436",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1001",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4694036227437",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1002",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4694036227438",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1003",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4694036227439",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1004",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4694036227440",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1005",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4694036227441",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1006",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4694036227442",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1007",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4694036227443",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1008",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4694036227444",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1009",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4694036227445",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1010",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4694036227446",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1011",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4694037220794",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1012",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4694037220795",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1013",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4694037220796",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1014",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4694037220797",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1015",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4694037220798",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1016",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4694037220799",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1017",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4694037220800",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1018",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4694037220801",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1019",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4694037220802",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1020",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4694037220803",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1021",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4694037220804",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1022",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4694037220805",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1023",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4694037220806",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1024",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4694037220807",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1025",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4694037220808",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1026",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4694037220809",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1027",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4694037220810",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1028",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4694037220811",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1029",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4694037220812",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1030",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4694037220813",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1031",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4694037220814",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1032",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4694037220815",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1033",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4694038243646",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1034",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4694038243647",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1035",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4694038243648",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1036",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4694038243649",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1037",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4694038243650",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1038",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4694038243651",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1039",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4694038243652",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1040",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4694038243653",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1041",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4694038243654",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1042",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4694038243655",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1043",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4694038243656",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1044",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4694038243657",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1045",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4694038243658",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1046",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4694038243659",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1047",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4694038243660",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1048",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4694038243661",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1049",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4694038243662",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1050",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4694038243663",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1051",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4694038243664",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1052",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4694038243665",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1053",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4694038243666",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1054",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4694038243667",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1055",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4694038243668",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1056",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4694038243669",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1057",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4694038243670",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1058",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4694038243671",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1059",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4694038243672",
     "tikTvd": "26920001675811",
-    "tikName": "Торжокская"
+    "tikName": "Торжокская",
+    "uikName": "УИК №1060",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4694046214477",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1061",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4694046214478",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1062",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4694046214479",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1063",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4694046214480",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1064",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4694046214481",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1065",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4694046214482",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1066",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4694046214483",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1067",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4694046214484",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1068",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4694046214485",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1069",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4694046214486",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1070",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4694046214487",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1071",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4694046214488",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1072",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4694046214489",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1073",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4694046214490",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1074",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4694046214491",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1075",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4694046214492",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1076",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4694046214493",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1077",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4694046214494",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1078",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4694046214495",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1079",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4694046214496",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1080",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4694046214497",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1081",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4694046214498",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1082",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4694046214499",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1083",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4694039261853",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1084",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4694039261854",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1085",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4694039261855",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1086",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4694039261856",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1087",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4694039261857",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1088",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4694039261858",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1089",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4694039261859",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1090",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4694039261860",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1091",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4694039261861",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1092",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4694039261862",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1093",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4694039261863",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1094",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4694039261864",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1095",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4694039261865",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1096",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4694039261866",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1097",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4694039261867",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1098",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4694039261868",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1099",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4694039261869",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1100",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4694039261870",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1101",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4694039261871",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1102",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4694039261872",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1103",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4694039261873",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1104",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4694039261874",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1105",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4694039261875",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1106",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4694039261876",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1107",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4694039261877",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1108",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4694039261878",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1109",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4694039261879",
     "tikTvd": "26920001675809",
-    "tikName": "Торопецкая"
+    "tikName": "Торопецкая",
+    "uikName": "УИК №1110",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4694040264734",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1111",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4694040264735",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1112",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4694040264736",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1113",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4694040264737",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1114",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4694040264738",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1115",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4694040264739",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1116",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4694040264740",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1117",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4694040264741",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1118",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4694040264742",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1119",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4694040264743",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1120",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4694040264744",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1121",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4694040264745",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1122",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4694040264746",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1123",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4694040264747",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1124",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4694040264748",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1125",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4694040264749",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1126",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4694040264750",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1127",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4694040264751",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1128",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4694040264752",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1129",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4694040264753",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1130",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4694040264754",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1131",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4694040264755",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1132",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4694040264756",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1133",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4694040264757",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1134",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4694040264758",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1135",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4694040264759",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1136",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4694040264760",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1137",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4694040264761",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1138",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4694040264762",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1139",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4694040264763",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1140",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4694040264764",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1141",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4694040264765",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1142",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4694041175082",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1143",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4694041175083",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1144",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4694041175084",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1145",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4694041175085",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1146",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4694041175086",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1147",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4694041175087",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1148",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4694041175088",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1149",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4694041175089",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1150",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4694041175090",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1151",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4694041175091",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1152",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4694041175092",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1153",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4694041175093",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1154",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4694041175094",
     "tikTvd": "26920001675808",
-    "tikName": "Фировская"
+    "tikName": "Фировская",
+    "uikName": "УИК №1155",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4694035277240",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №1156",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4694011346815",
     "tikTvd": "26920001675805",
-    "tikName": "Калининская-179"
+    "tikName": "Калининская-179",
+    "uikName": "УИК №1157",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4694002290092",
     "tikTvd": "26920001675807",
-    "tikName": "Бежецкая"
+    "tikName": "Бежецкая",
+    "uikName": "УИК №1158",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4694007273197",
     "tikTvd": "26920001675830",
-    "tikName": "Вышневолоцкая"
+    "tikName": "Вышневолоцкая",
+    "uikName": "УИК №1159",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4694012221887",
     "tikTvd": "26920001675804",
-    "tikName": "Калязинская"
+    "tikName": "Калязинская",
+    "uikName": "УИК №1160",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4694016410008",
     "tikTvd": "26920001675799",
-    "tikName": "Конаковская"
+    "tikName": "Конаковская",
+    "uikName": "УИК №1161",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4694025273233",
     "tikTvd": "26920001675820",
-    "tikName": "Осташковская"
+    "tikName": "Осташковская",
+    "uikName": "УИК №1162",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4694034312839",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №1163",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4694034312840",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №1164",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4694034312841",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №1165",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4694034312842",
     "tikTvd": "26920001675812",
-    "tikName": "Тверь, Заволжская"
+    "tikName": "Тверь, Заволжская",
+    "uikName": "УИК №1166",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4694035280349",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №1167",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4694035280350",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №1168",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4694035280351",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №1169",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4694035280352",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №1170",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4694035280353",
     "tikTvd": "26920001675791",
-    "tikName": "Тверь, Московская"
+    "tikName": "Тверь, Московская",
+    "uikName": "УИК №1171",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4694036231846",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1172",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4694036231847",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1173",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4694036231848",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1174",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4694036231849",
     "tikTvd": "26920001675790",
-    "tikName": "Тверь, Пролетарская"
+    "tikName": "Тверь, Пролетарская",
+    "uikName": "УИК №1175",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4694037223804",
     "tikTvd": "26920001675789",
-    "tikName": "Тверь, Центральная"
+    "tikName": "Тверь, Центральная",
+    "uikName": "УИК №1176",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4694040267553",
     "tikTvd": "26920001675788",
-    "tikName": "Удомельская"
+    "tikName": "Удомельская",
+    "uikName": "УИК №1177",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883673",
+    "oikName": "Тверская область – Тверской",
+    "district": {
+      "districtNumber": 179,
+      "oikTvd": "100100225883673"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4694044276781",
     "tikTvd": "26920001675817",
-    "tikName": "Ржевская городская"
+    "tikName": "Ржевская городская",
+    "uikName": "УИК №1178",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4694046216199",
     "tikTvd": "26920001675810",
-    "tikName": "Торжокская городская"
+    "tikName": "Торжокская городская",
+    "uikName": "УИК №1179",
+    "regionCode": "69",
+    "regionTvd": "100100225883672",
+    "regionName": "Тверская область",
+    "oikTvd": "100100225883674",
+    "oikName": "Тверская область – Заволжский",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100225883674"
+    }
   }
 ] satisfies readonly UikTikRelation[];

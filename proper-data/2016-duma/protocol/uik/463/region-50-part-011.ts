@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 36,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 38,
-      "Кудинов Сергей Владимирович": 47,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 46,
-      "Тютькова Ирина Анатольевна": 97,
-      "Фетисов Вячеслав Александрович": 834
+      "gas:candidate-vibid:4504028131642": 36,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 38,
+      "gas:candidate-vibid:4504028131245": 47,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 46,
+      "gas:candidate-vibid:4504028131878": 97,
+      "gas:candidate-vibid:4504028131458": 834
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 42,
-      "Двойников Борис Георгиевич": 21,
-      "Королев Сергей Викторович": 20,
-      "Кудинов Сергей Владимирович": 24,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 54,
-      "Тютькова Ирина Анатольевна": 62,
-      "Фетисов Вячеслав Александрович": 364
+      "gas:candidate-vibid:4504028131642": 42,
+      "gas:candidate-vibid:4504028131815": 21,
+      "gas:candidate-vibid:4504028131706": 20,
+      "gas:candidate-vibid:4504028131245": 24,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 54,
+      "gas:candidate-vibid:4504028131878": 62,
+      "gas:candidate-vibid:4504028131458": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 32,
-      "Двойников Борис Георгиевич": 12,
-      "Королев Сергей Викторович": 23,
-      "Кудинов Сергей Владимирович": 23,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 22,
-      "Тютькова Ирина Анатольевна": 64,
-      "Фетисов Вячеслав Александрович": 512
+      "gas:candidate-vibid:4504028131642": 32,
+      "gas:candidate-vibid:4504028131815": 12,
+      "gas:candidate-vibid:4504028131706": 23,
+      "gas:candidate-vibid:4504028131245": 23,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 22,
+      "gas:candidate-vibid:4504028131878": 64,
+      "gas:candidate-vibid:4504028131458": 512
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 30,
-      "Двойников Борис Георгиевич": 18,
-      "Королев Сергей Викторович": 18,
-      "Кудинов Сергей Владимирович": 34,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 24,
-      "Тютькова Ирина Анатольевна": 121,
-      "Фетисов Вячеслав Александрович": 422
+      "gas:candidate-vibid:4504028131642": 30,
+      "gas:candidate-vibid:4504028131815": 18,
+      "gas:candidate-vibid:4504028131706": 18,
+      "gas:candidate-vibid:4504028131245": 34,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 24,
+      "gas:candidate-vibid:4504028131878": 121,
+      "gas:candidate-vibid:4504028131458": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 22,
-      "Двойников Борис Георгиевич": 18,
-      "Королев Сергей Викторович": 23,
-      "Кудинов Сергей Владимирович": 43,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 37,
-      "Тютькова Ирина Анатольевна": 58,
-      "Фетисов Вячеслав Александрович": 462
+      "gas:candidate-vibid:4504028131642": 22,
+      "gas:candidate-vibid:4504028131815": 18,
+      "gas:candidate-vibid:4504028131706": 23,
+      "gas:candidate-vibid:4504028131245": 43,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 37,
+      "gas:candidate-vibid:4504028131878": 58,
+      "gas:candidate-vibid:4504028131458": 462
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 30,
-      "Двойников Борис Георгиевич": 24,
-      "Королев Сергей Викторович": 23,
-      "Кудинов Сергей Владимирович": 25,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 33,
-      "Тютькова Ирина Анатольевна": 24,
-      "Фетисов Вячеслав Александрович": 434
+      "gas:candidate-vibid:4504028131642": 30,
+      "gas:candidate-vibid:4504028131815": 24,
+      "gas:candidate-vibid:4504028131706": 23,
+      "gas:candidate-vibid:4504028131245": 25,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 33,
+      "gas:candidate-vibid:4504028131878": 24,
+      "gas:candidate-vibid:4504028131458": 434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 30,
-      "Двойников Борис Георгиевич": 28,
-      "Королев Сергей Викторович": 33,
-      "Кудинов Сергей Владимирович": 32,
-      "Подмосковный Андрей Валентинович": 12,
-      "Султанов Фуад Фейзрахманович": 48,
-      "Тютькова Ирина Анатольевна": 121,
-      "Фетисов Вячеслав Александрович": 515
+      "gas:candidate-vibid:4504028131642": 30,
+      "gas:candidate-vibid:4504028131815": 28,
+      "gas:candidate-vibid:4504028131706": 33,
+      "gas:candidate-vibid:4504028131245": 32,
+      "gas:candidate-vibid:4504028131582": 12,
+      "gas:candidate-vibid:4504028131057": 48,
+      "gas:candidate-vibid:4504028131878": 121,
+      "gas:candidate-vibid:4504028131458": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 32,
-      "Двойников Борис Георгиевич": 18,
-      "Королев Сергей Викторович": 40,
-      "Кудинов Сергей Владимирович": 24,
-      "Подмосковный Андрей Валентинович": 17,
-      "Султанов Фуад Фейзрахманович": 47,
-      "Тютькова Ирина Анатольевна": 74,
-      "Фетисов Вячеслав Александрович": 454
+      "gas:candidate-vibid:4504028131642": 32,
+      "gas:candidate-vibid:4504028131815": 18,
+      "gas:candidate-vibid:4504028131706": 40,
+      "gas:candidate-vibid:4504028131245": 24,
+      "gas:candidate-vibid:4504028131582": 17,
+      "gas:candidate-vibid:4504028131057": 47,
+      "gas:candidate-vibid:4504028131878": 74,
+      "gas:candidate-vibid:4504028131458": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 48,
-      "Двойников Борис Георгиевич": 27,
-      "Королев Сергей Викторович": 41,
-      "Кудинов Сергей Владимирович": 50,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 40,
-      "Тютькова Ирина Анатольевна": 108,
-      "Фетисов Вячеслав Александрович": 380
+      "gas:candidate-vibid:4504028131642": 48,
+      "gas:candidate-vibid:4504028131815": 27,
+      "gas:candidate-vibid:4504028131706": 41,
+      "gas:candidate-vibid:4504028131245": 50,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 40,
+      "gas:candidate-vibid:4504028131878": 108,
+      "gas:candidate-vibid:4504028131458": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 30,
-      "Королев Сергей Викторович": 51,
-      "Кудинов Сергей Владимирович": 33,
-      "Подмосковный Андрей Валентинович": 16,
-      "Султанов Фуад Фейзрахманович": 48,
-      "Тютькова Ирина Анатольевна": 138,
-      "Фетисов Вячеслав Александрович": 486
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 30,
+      "gas:candidate-vibid:4504028131706": 51,
+      "gas:candidate-vibid:4504028131245": 33,
+      "gas:candidate-vibid:4504028131582": 16,
+      "gas:candidate-vibid:4504028131057": 48,
+      "gas:candidate-vibid:4504028131878": 138,
+      "gas:candidate-vibid:4504028131458": 486
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 41,
-      "Двойников Борис Георгиевич": 29,
-      "Королев Сергей Викторович": 35,
-      "Кудинов Сергей Владимирович": 38,
-      "Подмосковный Андрей Валентинович": 13,
-      "Султанов Фуад Фейзрахманович": 37,
-      "Тютькова Ирина Анатольевна": 61,
-      "Фетисов Вячеслав Александрович": 644
+      "gas:candidate-vibid:4504028131642": 41,
+      "gas:candidate-vibid:4504028131815": 29,
+      "gas:candidate-vibid:4504028131706": 35,
+      "gas:candidate-vibid:4504028131245": 38,
+      "gas:candidate-vibid:4504028131582": 13,
+      "gas:candidate-vibid:4504028131057": 37,
+      "gas:candidate-vibid:4504028131878": 61,
+      "gas:candidate-vibid:4504028131458": 644
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 43,
-      "Двойников Борис Георгиевич": 21,
-      "Королев Сергей Викторович": 36,
-      "Кудинов Сергей Владимирович": 31,
-      "Подмосковный Андрей Валентинович": 15,
-      "Султанов Фуад Фейзрахманович": 37,
-      "Тютькова Ирина Анатольевна": 62,
-      "Фетисов Вячеслав Александрович": 385
+      "gas:candidate-vibid:4504028131642": 43,
+      "gas:candidate-vibid:4504028131815": 21,
+      "gas:candidate-vibid:4504028131706": 36,
+      "gas:candidate-vibid:4504028131245": 31,
+      "gas:candidate-vibid:4504028131582": 15,
+      "gas:candidate-vibid:4504028131057": 37,
+      "gas:candidate-vibid:4504028131878": 62,
+      "gas:candidate-vibid:4504028131458": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 56,
-      "Двойников Борис Георгиевич": 27,
-      "Королев Сергей Викторович": 56,
-      "Кудинов Сергей Владимирович": 149,
-      "Подмосковный Андрей Валентинович": 16,
-      "Султанов Фуад Фейзрахманович": 95,
-      "Тютькова Ирина Анатольевна": 149,
-      "Фетисов Вячеслав Александрович": 606
+      "gas:candidate-vibid:4504028131642": 56,
+      "gas:candidate-vibid:4504028131815": 27,
+      "gas:candidate-vibid:4504028131706": 56,
+      "gas:candidate-vibid:4504028131245": 149,
+      "gas:candidate-vibid:4504028131582": 16,
+      "gas:candidate-vibid:4504028131057": 95,
+      "gas:candidate-vibid:4504028131878": 149,
+      "gas:candidate-vibid:4504028131458": 606
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 40,
-      "Двойников Борис Георгиевич": 33,
-      "Королев Сергей Викторович": 27,
-      "Кудинов Сергей Владимирович": 41,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 51,
-      "Тютькова Ирина Анатольевна": 63,
-      "Фетисов Вячеслав Александрович": 410
+      "gas:candidate-vibid:4504028131642": 40,
+      "gas:candidate-vibid:4504028131815": 33,
+      "gas:candidate-vibid:4504028131706": 27,
+      "gas:candidate-vibid:4504028131245": 41,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 51,
+      "gas:candidate-vibid:4504028131878": 63,
+      "gas:candidate-vibid:4504028131458": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 21,
-      "Двойников Борис Георгиевич": 101,
-      "Королев Сергей Викторович": 87,
-      "Кудинов Сергей Владимирович": 68,
-      "Подмосковный Андрей Валентинович": 31,
-      "Султанов Фуад Фейзрахманович": 38,
-      "Тютькова Ирина Анатольевна": 74,
-      "Фетисов Вячеслав Александрович": 603
+      "gas:candidate-vibid:4504028131642": 21,
+      "gas:candidate-vibid:4504028131815": 101,
+      "gas:candidate-vibid:4504028131706": 87,
+      "gas:candidate-vibid:4504028131245": 68,
+      "gas:candidate-vibid:4504028131582": 31,
+      "gas:candidate-vibid:4504028131057": 38,
+      "gas:candidate-vibid:4504028131878": 74,
+      "gas:candidate-vibid:4504028131458": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 43,
-      "Двойников Борис Георгиевич": 19,
-      "Королев Сергей Викторович": 29,
-      "Кудинов Сергей Владимирович": 41,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 57,
-      "Тютькова Ирина Анатольевна": 76,
-      "Фетисов Вячеслав Александрович": 374
+      "gas:candidate-vibid:4504028131642": 43,
+      "gas:candidate-vibid:4504028131815": 19,
+      "gas:candidate-vibid:4504028131706": 29,
+      "gas:candidate-vibid:4504028131245": 41,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 57,
+      "gas:candidate-vibid:4504028131878": 76,
+      "gas:candidate-vibid:4504028131458": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 33,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 20,
-      "Кудинов Сергей Владимирович": 37,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 46,
-      "Тютькова Ирина Анатольевна": 78,
-      "Фетисов Вячеслав Александрович": 359
+      "gas:candidate-vibid:4504028131642": 33,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 20,
+      "gas:candidate-vibid:4504028131245": 37,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 46,
+      "gas:candidate-vibid:4504028131878": 78,
+      "gas:candidate-vibid:4504028131458": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 38,
-      "Двойников Борис Георгиевич": 32,
-      "Королев Сергей Викторович": 25,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 50,
-      "Тютькова Ирина Анатольевна": 84,
-      "Фетисов Вячеслав Александрович": 303
+      "gas:candidate-vibid:4504028131642": 38,
+      "gas:candidate-vibid:4504028131815": 32,
+      "gas:candidate-vibid:4504028131706": 25,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 50,
+      "gas:candidate-vibid:4504028131878": 84,
+      "gas:candidate-vibid:4504028131458": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005568&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005568&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 35,
-      "Двойников Борис Георгиевич": 29,
-      "Королев Сергей Викторович": 21,
-      "Кудинов Сергей Владимирович": 33,
-      "Подмосковный Андрей Валентинович": 15,
-      "Султанов Фуад Фейзрахманович": 25,
-      "Тютькова Ирина Анатольевна": 64,
-      "Фетисов Вячеслав Александрович": 167
+      "gas:candidate-vibid:4504028131642": 35,
+      "gas:candidate-vibid:4504028131815": 29,
+      "gas:candidate-vibid:4504028131706": 21,
+      "gas:candidate-vibid:4504028131245": 33,
+      "gas:candidate-vibid:4504028131582": 15,
+      "gas:candidate-vibid:4504028131057": 25,
+      "gas:candidate-vibid:4504028131878": 64,
+      "gas:candidate-vibid:4504028131458": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 41,
-      "Двойников Борис Георгиевич": 17,
-      "Королев Сергей Викторович": 16,
-      "Кудинов Сергей Владимирович": 15,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 17,
-      "Тютькова Ирина Анатольевна": 105,
-      "Фетисов Вячеслав Александрович": 199
+      "gas:candidate-vibid:4504028131642": 41,
+      "gas:candidate-vibid:4504028131815": 17,
+      "gas:candidate-vibid:4504028131706": 16,
+      "gas:candidate-vibid:4504028131245": 15,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 17,
+      "gas:candidate-vibid:4504028131878": 105,
+      "gas:candidate-vibid:4504028131458": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 49,
-      "Двойников Борис Георгиевич": 31,
-      "Королев Сергей Викторович": 46,
-      "Кудинов Сергей Владимирович": 47,
-      "Подмосковный Андрей Валентинович": 14,
-      "Султанов Фуад Фейзрахманович": 49,
-      "Тютькова Ирина Анатольевна": 157,
-      "Фетисов Вячеслав Александрович": 456
+      "gas:candidate-vibid:4504028131642": 49,
+      "gas:candidate-vibid:4504028131815": 31,
+      "gas:candidate-vibid:4504028131706": 46,
+      "gas:candidate-vibid:4504028131245": 47,
+      "gas:candidate-vibid:4504028131582": 14,
+      "gas:candidate-vibid:4504028131057": 49,
+      "gas:candidate-vibid:4504028131878": 157,
+      "gas:candidate-vibid:4504028131458": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 45,
-      "Двойников Борис Георгиевич": 35,
-      "Королев Сергей Викторович": 38,
-      "Кудинов Сергей Владимирович": 37,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 121,
-      "Фетисов Вячеслав Александрович": 380
+      "gas:candidate-vibid:4504028131642": 45,
+      "gas:candidate-vibid:4504028131815": 35,
+      "gas:candidate-vibid:4504028131706": 38,
+      "gas:candidate-vibid:4504028131245": 37,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 121,
+      "gas:candidate-vibid:4504028131458": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 47,
-      "Двойников Борис Георгиевич": 29,
-      "Королев Сергей Викторович": 30,
-      "Кудинов Сергей Владимирович": 29,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 40,
-      "Тютькова Ирина Анатольевна": 132,
-      "Фетисов Вячеслав Александрович": 386
+      "gas:candidate-vibid:4504028131642": 47,
+      "gas:candidate-vibid:4504028131815": 29,
+      "gas:candidate-vibid:4504028131706": 30,
+      "gas:candidate-vibid:4504028131245": 29,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 40,
+      "gas:candidate-vibid:4504028131878": 132,
+      "gas:candidate-vibid:4504028131458": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 55,
-      "Двойников Борис Георгиевич": 30,
-      "Королев Сергей Викторович": 37,
-      "Кудинов Сергей Владимирович": 33,
-      "Подмосковный Андрей Валентинович": 13,
-      "Султанов Фуад Фейзрахманович": 58,
-      "Тютькова Ирина Анатольевна": 145,
-      "Фетисов Вячеслав Александрович": 338
+      "gas:candidate-vibid:4504028131642": 55,
+      "gas:candidate-vibid:4504028131815": 30,
+      "gas:candidate-vibid:4504028131706": 37,
+      "gas:candidate-vibid:4504028131245": 33,
+      "gas:candidate-vibid:4504028131582": 13,
+      "gas:candidate-vibid:4504028131057": 58,
+      "gas:candidate-vibid:4504028131878": 145,
+      "gas:candidate-vibid:4504028131458": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 50,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 35,
-      "Кудинов Сергей Владимирович": 29,
-      "Подмосковный Андрей Валентинович": 14,
-      "Султанов Фуад Фейзрахманович": 41,
-      "Тютькова Ирина Анатольевна": 139,
-      "Фетисов Вячеслав Александрович": 363
+      "gas:candidate-vibid:4504028131642": 50,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 35,
+      "gas:candidate-vibid:4504028131245": 29,
+      "gas:candidate-vibid:4504028131582": 14,
+      "gas:candidate-vibid:4504028131057": 41,
+      "gas:candidate-vibid:4504028131878": 139,
+      "gas:candidate-vibid:4504028131458": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 31,
-      "Двойников Борис Георгиевич": 39,
-      "Королев Сергей Викторович": 32,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 37,
-      "Тютькова Ирина Анатольевна": 91,
-      "Фетисов Вячеслав Александрович": 298
+      "gas:candidate-vibid:4504028131642": 31,
+      "gas:candidate-vibid:4504028131815": 39,
+      "gas:candidate-vibid:4504028131706": 32,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 37,
+      "gas:candidate-vibid:4504028131878": 91,
+      "gas:candidate-vibid:4504028131458": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 14,
-      "Двойников Борис Георгиевич": 13,
-      "Королев Сергей Викторович": 9,
-      "Кудинов Сергей Владимирович": 10,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 28,
-      "Тютькова Ирина Анатольевна": 35,
-      "Фетисов Вячеслав Александрович": 151
+      "gas:candidate-vibid:4504028131642": 14,
+      "gas:candidate-vibid:4504028131815": 13,
+      "gas:candidate-vibid:4504028131706": 9,
+      "gas:candidate-vibid:4504028131245": 10,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 28,
+      "gas:candidate-vibid:4504028131878": 35,
+      "gas:candidate-vibid:4504028131458": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 66,
-      "Кудинов Сергей Владимирович": 36,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 43,
-      "Тютькова Ирина Анатольевна": 106,
-      "Фетисов Вячеслав Александрович": 387
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 66,
+      "gas:candidate-vibid:4504028131245": 36,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 43,
+      "gas:candidate-vibid:4504028131878": 106,
+      "gas:candidate-vibid:4504028131458": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 62,
-      "Двойников Борис Георгиевич": 14,
-      "Королев Сергей Викторович": 58,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 56,
-      "Тютькова Ирина Анатольевна": 73,
-      "Фетисов Вячеслав Александрович": 318
+      "gas:candidate-vibid:4504028131642": 62,
+      "gas:candidate-vibid:4504028131815": 14,
+      "gas:candidate-vibid:4504028131706": 58,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 56,
+      "gas:candidate-vibid:4504028131878": 73,
+      "gas:candidate-vibid:4504028131458": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 38,
-      "Двойников Борис Георгиевич": 12,
-      "Королев Сергей Викторович": 24,
-      "Кудинов Сергей Владимирович": 21,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 26,
-      "Тютькова Ирина Анатольевна": 65,
-      "Фетисов Вячеслав Александрович": 178
+      "gas:candidate-vibid:4504028131642": 38,
+      "gas:candidate-vibid:4504028131815": 12,
+      "gas:candidate-vibid:4504028131706": 24,
+      "gas:candidate-vibid:4504028131245": 21,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 26,
+      "gas:candidate-vibid:4504028131878": 65,
+      "gas:candidate-vibid:4504028131458": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 48,
-      "Двойников Борис Георгиевич": 19,
-      "Королев Сергей Викторович": 44,
-      "Кудинов Сергей Владимирович": 38,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 42,
-      "Тютькова Ирина Анатольевна": 128,
-      "Фетисов Вячеслав Александрович": 344
+      "gas:candidate-vibid:4504028131642": 48,
+      "gas:candidate-vibid:4504028131815": 19,
+      "gas:candidate-vibid:4504028131706": 44,
+      "gas:candidate-vibid:4504028131245": 38,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 42,
+      "gas:candidate-vibid:4504028131878": 128,
+      "gas:candidate-vibid:4504028131458": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 48,
-      "Двойников Борис Георгиевич": 34,
-      "Королев Сергей Викторович": 39,
-      "Кудинов Сергей Владимирович": 32,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 125,
-      "Фетисов Вячеслав Александрович": 363
+      "gas:candidate-vibid:4504028131642": 48,
+      "gas:candidate-vibid:4504028131815": 34,
+      "gas:candidate-vibid:4504028131706": 39,
+      "gas:candidate-vibid:4504028131245": 32,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 125,
+      "gas:candidate-vibid:4504028131458": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 53,
-      "Двойников Борис Георгиевич": 38,
-      "Королев Сергей Викторович": 46,
-      "Кудинов Сергей Владимирович": 32,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 42,
-      "Тютькова Ирина Анатольевна": 157,
-      "Фетисов Вячеслав Александрович": 359
+      "gas:candidate-vibid:4504028131642": 53,
+      "gas:candidate-vibid:4504028131815": 38,
+      "gas:candidate-vibid:4504028131706": 46,
+      "gas:candidate-vibid:4504028131245": 32,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 42,
+      "gas:candidate-vibid:4504028131878": 157,
+      "gas:candidate-vibid:4504028131458": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 32,
-      "Двойников Борис Георгиевич": 27,
-      "Королев Сергей Викторович": 54,
-      "Кудинов Сергей Владимирович": 25,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 31,
-      "Тютькова Ирина Анатольевна": 119,
-      "Фетисов Вячеслав Александрович": 326
+      "gas:candidate-vibid:4504028131642": 32,
+      "gas:candidate-vibid:4504028131815": 27,
+      "gas:candidate-vibid:4504028131706": 54,
+      "gas:candidate-vibid:4504028131245": 25,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 31,
+      "gas:candidate-vibid:4504028131878": 119,
+      "gas:candidate-vibid:4504028131458": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 26,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 16,
-      "Кудинов Сергей Владимирович": 18,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 20,
-      "Тютькова Ирина Анатольевна": 67,
-      "Фетисов Вячеслав Александрович": 179
+      "gas:candidate-vibid:4504028131642": 26,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 16,
+      "gas:candidate-vibid:4504028131245": 18,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 20,
+      "gas:candidate-vibid:4504028131878": 67,
+      "gas:candidate-vibid:4504028131458": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 31,
-      "Двойников Борис Георгиевич": 20,
-      "Королев Сергей Викторович": 28,
-      "Кудинов Сергей Владимирович": 19,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 23,
-      "Тютькова Ирина Анатольевна": 62,
-      "Фетисов Вячеслав Александрович": 186
+      "gas:candidate-vibid:4504028131642": 31,
+      "gas:candidate-vibid:4504028131815": 20,
+      "gas:candidate-vibid:4504028131706": 28,
+      "gas:candidate-vibid:4504028131245": 19,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 23,
+      "gas:candidate-vibid:4504028131878": 62,
+      "gas:candidate-vibid:4504028131458": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 51,
-      "Двойников Борис Георгиевич": 26,
-      "Королев Сергей Викторович": 38,
-      "Кудинов Сергей Владимирович": 35,
-      "Подмосковный Андрей Валентинович": 13,
-      "Султанов Фуад Фейзрахманович": 56,
-      "Тютькова Ирина Анатольевна": 138,
-      "Фетисов Вячеслав Александрович": 351
+      "gas:candidate-vibid:4504028131642": 51,
+      "gas:candidate-vibid:4504028131815": 26,
+      "gas:candidate-vibid:4504028131706": 38,
+      "gas:candidate-vibid:4504028131245": 35,
+      "gas:candidate-vibid:4504028131582": 13,
+      "gas:candidate-vibid:4504028131057": 56,
+      "gas:candidate-vibid:4504028131878": 138,
+      "gas:candidate-vibid:4504028131458": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 46,
-      "Двойников Борис Георгиевич": 39,
-      "Королев Сергей Викторович": 26,
-      "Кудинов Сергей Владимирович": 33,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 59,
-      "Тютькова Ирина Анатольевна": 152,
-      "Фетисов Вячеслав Александрович": 337
+      "gas:candidate-vibid:4504028131642": 46,
+      "gas:candidate-vibid:4504028131815": 39,
+      "gas:candidate-vibid:4504028131706": 26,
+      "gas:candidate-vibid:4504028131245": 33,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 59,
+      "gas:candidate-vibid:4504028131878": 152,
+      "gas:candidate-vibid:4504028131458": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 53,
-      "Двойников Борис Георгиевич": 31,
-      "Королев Сергей Викторович": 63,
-      "Кудинов Сергей Владимирович": 41,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 48,
-      "Тютькова Ирина Анатольевна": 169,
-      "Фетисов Вячеслав Александрович": 446
+      "gas:candidate-vibid:4504028131642": 53,
+      "gas:candidate-vibid:4504028131815": 31,
+      "gas:candidate-vibid:4504028131706": 63,
+      "gas:candidate-vibid:4504028131245": 41,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 48,
+      "gas:candidate-vibid:4504028131878": 169,
+      "gas:candidate-vibid:4504028131458": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 38,
-      "Двойников Борис Георгиевич": 43,
-      "Королев Сергей Викторович": 34,
-      "Кудинов Сергей Владимирович": 29,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 42,
-      "Тютькова Ирина Анатольевна": 143,
-      "Фетисов Вячеслав Александрович": 375
+      "gas:candidate-vibid:4504028131642": 38,
+      "gas:candidate-vibid:4504028131815": 43,
+      "gas:candidate-vibid:4504028131706": 34,
+      "gas:candidate-vibid:4504028131245": 29,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 42,
+      "gas:candidate-vibid:4504028131878": 143,
+      "gas:candidate-vibid:4504028131458": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 55,
-      "Двойников Борис Георгиевич": 35,
-      "Королев Сергей Викторович": 39,
-      "Кудинов Сергей Владимирович": 30,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 27,
-      "Тютькова Ирина Анатольевна": 111,
-      "Фетисов Вячеслав Александрович": 329
+      "gas:candidate-vibid:4504028131642": 55,
+      "gas:candidate-vibid:4504028131815": 35,
+      "gas:candidate-vibid:4504028131706": 39,
+      "gas:candidate-vibid:4504028131245": 30,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 27,
+      "gas:candidate-vibid:4504028131878": 111,
+      "gas:candidate-vibid:4504028131458": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 21,
-      "Двойников Борис Георгиевич": 29,
-      "Королев Сергей Викторович": 40,
-      "Кудинов Сергей Владимирович": 24,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 27,
-      "Тютькова Ирина Анатольевна": 103,
-      "Фетисов Вячеслав Александрович": 274
+      "gas:candidate-vibid:4504028131642": 21,
+      "gas:candidate-vibid:4504028131815": 29,
+      "gas:candidate-vibid:4504028131706": 40,
+      "gas:candidate-vibid:4504028131245": 24,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 27,
+      "gas:candidate-vibid:4504028131878": 103,
+      "gas:candidate-vibid:4504028131458": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 31,
-      "Двойников Борис Георгиевич": 15,
-      "Королев Сергей Викторович": 10,
-      "Кудинов Сергей Владимирович": 17,
-      "Подмосковный Андрей Валентинович": 3,
-      "Султанов Фуад Фейзрахманович": 15,
-      "Тютькова Ирина Анатольевна": 28,
-      "Фетисов Вячеслав Александрович": 158
+      "gas:candidate-vibid:4504028131642": 31,
+      "gas:candidate-vibid:4504028131815": 15,
+      "gas:candidate-vibid:4504028131706": 10,
+      "gas:candidate-vibid:4504028131245": 17,
+      "gas:candidate-vibid:4504028131582": 3,
+      "gas:candidate-vibid:4504028131057": 15,
+      "gas:candidate-vibid:4504028131878": 28,
+      "gas:candidate-vibid:4504028131458": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 33,
-      "Двойников Борис Георгиевич": 19,
-      "Королев Сергей Викторович": 28,
-      "Кудинов Сергей Владимирович": 13,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 27,
-      "Тютькова Ирина Анатольевна": 63,
-      "Фетисов Вячеслав Александрович": 198
+      "gas:candidate-vibid:4504028131642": 33,
+      "gas:candidate-vibid:4504028131815": 19,
+      "gas:candidate-vibid:4504028131706": 28,
+      "gas:candidate-vibid:4504028131245": 13,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 27,
+      "gas:candidate-vibid:4504028131878": 63,
+      "gas:candidate-vibid:4504028131458": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 25,
-      "Двойников Борис Георгиевич": 22,
-      "Королев Сергей Викторович": 38,
-      "Кудинов Сергей Владимирович": 16,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 23,
-      "Тютькова Ирина Анатольевна": 72,
-      "Фетисов Вячеслав Александрович": 220
+      "gas:candidate-vibid:4504028131642": 25,
+      "gas:candidate-vibid:4504028131815": 22,
+      "gas:candidate-vibid:4504028131706": 38,
+      "gas:candidate-vibid:4504028131245": 16,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 23,
+      "gas:candidate-vibid:4504028131878": 72,
+      "gas:candidate-vibid:4504028131458": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 43,
-      "Двойников Борис Георгиевич": 24,
-      "Королев Сергей Викторович": 28,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 25,
-      "Тютькова Ирина Анатольевна": 115,
-      "Фетисов Вячеслав Александрович": 282
+      "gas:candidate-vibid:4504028131642": 43,
+      "gas:candidate-vibid:4504028131815": 24,
+      "gas:candidate-vibid:4504028131706": 28,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 25,
+      "gas:candidate-vibid:4504028131878": 115,
+      "gas:candidate-vibid:4504028131458": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 9,
-      "Двойников Борис Георгиевич": 12,
-      "Королев Сергей Викторович": 15,
-      "Кудинов Сергей Владимирович": 14,
-      "Подмосковный Андрей Валентинович": 3,
-      "Султанов Фуад Фейзрахманович": 12,
-      "Тютькова Ирина Анатольевна": 62,
-      "Фетисов Вячеслав Александрович": 124
+      "gas:candidate-vibid:4504028131642": 9,
+      "gas:candidate-vibid:4504028131815": 12,
+      "gas:candidate-vibid:4504028131706": 15,
+      "gas:candidate-vibid:4504028131245": 14,
+      "gas:candidate-vibid:4504028131582": 3,
+      "gas:candidate-vibid:4504028131057": 12,
+      "gas:candidate-vibid:4504028131878": 62,
+      "gas:candidate-vibid:4504028131458": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 34,
-      "Двойников Борис Георгиевич": 19,
-      "Королев Сергей Викторович": 28,
-      "Кудинов Сергей Владимирович": 23,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 50,
-      "Тютькова Ирина Анатольевна": 83,
-      "Фетисов Вячеслав Александрович": 192
+      "gas:candidate-vibid:4504028131642": 34,
+      "gas:candidate-vibid:4504028131815": 19,
+      "gas:candidate-vibid:4504028131706": 28,
+      "gas:candidate-vibid:4504028131245": 23,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 50,
+      "gas:candidate-vibid:4504028131878": 83,
+      "gas:candidate-vibid:4504028131458": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 25,
-      "Двойников Борис Георгиевич": 18,
-      "Королев Сергей Викторович": 33,
-      "Кудинов Сергей Владимирович": 34,
-      "Подмосковный Андрей Валентинович": 14,
-      "Султанов Фуад Фейзрахманович": 45,
-      "Тютькова Ирина Анатольевна": 125,
-      "Фетисов Вячеслав Александрович": 286
+      "gas:candidate-vibid:4504028131642": 25,
+      "gas:candidate-vibid:4504028131815": 18,
+      "gas:candidate-vibid:4504028131706": 33,
+      "gas:candidate-vibid:4504028131245": 34,
+      "gas:candidate-vibid:4504028131582": 14,
+      "gas:candidate-vibid:4504028131057": 45,
+      "gas:candidate-vibid:4504028131878": 125,
+      "gas:candidate-vibid:4504028131458": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 44,
-      "Двойников Борис Георгиевич": 26,
-      "Королев Сергей Викторович": 48,
-      "Кудинов Сергей Владимирович": 38,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 52,
-      "Тютькова Ирина Анатольевна": 87,
-      "Фетисов Вячеслав Александрович": 306
+      "gas:candidate-vibid:4504028131642": 44,
+      "gas:candidate-vibid:4504028131815": 26,
+      "gas:candidate-vibid:4504028131706": 48,
+      "gas:candidate-vibid:4504028131245": 38,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 52,
+      "gas:candidate-vibid:4504028131878": 87,
+      "gas:candidate-vibid:4504028131458": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 49,
-      "Двойников Борис Георгиевич": 9,
-      "Королев Сергей Викторович": 52,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 44,
-      "Тютькова Ирина Анатольевна": 56,
-      "Фетисов Вячеслав Александрович": 266
+      "gas:candidate-vibid:4504028131642": 49,
+      "gas:candidate-vibid:4504028131815": 9,
+      "gas:candidate-vibid:4504028131706": 52,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 44,
+      "gas:candidate-vibid:4504028131878": 56,
+      "gas:candidate-vibid:4504028131458": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 25,
-      "Двойников Борис Георгиевич": 27,
-      "Королев Сергей Викторович": 38,
-      "Кудинов Сергей Владимирович": 30,
-      "Подмосковный Андрей Валентинович": 12,
-      "Султанов Фуад Фейзрахманович": 54,
-      "Тютькова Ирина Анатольевна": 93,
-      "Фетисов Вячеслав Александрович": 263
+      "gas:candidate-vibid:4504028131642": 25,
+      "gas:candidate-vibid:4504028131815": 27,
+      "gas:candidate-vibid:4504028131706": 38,
+      "gas:candidate-vibid:4504028131245": 30,
+      "gas:candidate-vibid:4504028131582": 12,
+      "gas:candidate-vibid:4504028131057": 54,
+      "gas:candidate-vibid:4504028131878": 93,
+      "gas:candidate-vibid:4504028131458": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 46,
-      "Двойников Борис Георгиевич": 12,
-      "Королев Сергей Викторович": 32,
-      "Кудинов Сергей Владимирович": 18,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 42,
-      "Фетисов Вячеслав Александрович": 183
+      "gas:candidate-vibid:4504028131642": 46,
+      "gas:candidate-vibid:4504028131815": 12,
+      "gas:candidate-vibid:4504028131706": 32,
+      "gas:candidate-vibid:4504028131245": 18,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 42,
+      "gas:candidate-vibid:4504028131458": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 28,
-      "Двойников Борис Георгиевич": 39,
-      "Королев Сергей Викторович": 40,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 15,
-      "Султанов Фуад Фейзрахманович": 38,
-      "Тютькова Ирина Анатольевна": 110,
-      "Фетисов Вячеслав Александрович": 485
+      "gas:candidate-vibid:4504028131642": 28,
+      "gas:candidate-vibid:4504028131815": 39,
+      "gas:candidate-vibid:4504028131706": 40,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 15,
+      "gas:candidate-vibid:4504028131057": 38,
+      "gas:candidate-vibid:4504028131878": 110,
+      "gas:candidate-vibid:4504028131458": 485
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 43,
-      "Двойников Борис Георгиевич": 32,
-      "Королев Сергей Викторович": 36,
-      "Кудинов Сергей Владимирович": 34,
-      "Подмосковный Андрей Валентинович": 12,
-      "Султанов Фуад Фейзрахманович": 57,
-      "Тютькова Ирина Анатольевна": 109,
-      "Фетисов Вячеслав Александрович": 369
+      "gas:candidate-vibid:4504028131642": 43,
+      "gas:candidate-vibid:4504028131815": 32,
+      "gas:candidate-vibid:4504028131706": 36,
+      "gas:candidate-vibid:4504028131245": 34,
+      "gas:candidate-vibid:4504028131582": 12,
+      "gas:candidate-vibid:4504028131057": 57,
+      "gas:candidate-vibid:4504028131878": 109,
+      "gas:candidate-vibid:4504028131458": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 24,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 28,
-      "Кудинов Сергей Владимирович": 21,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 29,
-      "Тютькова Ирина Анатольевна": 79,
-      "Фетисов Вячеслав Александрович": 185
+      "gas:candidate-vibid:4504028131642": 24,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 28,
+      "gas:candidate-vibid:4504028131245": 21,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 29,
+      "gas:candidate-vibid:4504028131878": 79,
+      "gas:candidate-vibid:4504028131458": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 27,
-      "Двойников Борис Георгиевич": 42,
-      "Королев Сергей Викторович": 23,
-      "Кудинов Сергей Владимирович": 31,
-      "Подмосковный Андрей Валентинович": 17,
-      "Султанов Фуад Фейзрахманович": 35,
-      "Тютькова Ирина Анатольевна": 183,
-      "Фетисов Вячеслав Александрович": 346
+      "gas:candidate-vibid:4504028131642": 27,
+      "gas:candidate-vibid:4504028131815": 42,
+      "gas:candidate-vibid:4504028131706": 23,
+      "gas:candidate-vibid:4504028131245": 31,
+      "gas:candidate-vibid:4504028131582": 17,
+      "gas:candidate-vibid:4504028131057": 35,
+      "gas:candidate-vibid:4504028131878": 183,
+      "gas:candidate-vibid:4504028131458": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 8,
-      "Двойников Борис Георгиевич": 9,
-      "Королев Сергей Викторович": 4,
-      "Кудинов Сергей Владимирович": 5,
-      "Подмосковный Андрей Валентинович": 1,
-      "Султанов Фуад Фейзрахманович": 6,
-      "Тютькова Ирина Анатольевна": 27,
-      "Фетисов Вячеслав Александрович": 96
+      "gas:candidate-vibid:4504028131642": 8,
+      "gas:candidate-vibid:4504028131815": 9,
+      "gas:candidate-vibid:4504028131706": 4,
+      "gas:candidate-vibid:4504028131245": 5,
+      "gas:candidate-vibid:4504028131582": 1,
+      "gas:candidate-vibid:4504028131057": 6,
+      "gas:candidate-vibid:4504028131878": 27,
+      "gas:candidate-vibid:4504028131458": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 8,
-      "Двойников Борис Георгиевич": 6,
-      "Королев Сергей Викторович": 10,
-      "Кудинов Сергей Владимирович": 8,
-      "Подмосковный Андрей Валентинович": 3,
-      "Султанов Фуад Фейзрахманович": 5,
-      "Тютькова Ирина Анатольевна": 23,
-      "Фетисов Вячеслав Александрович": 54
+      "gas:candidate-vibid:4504028131642": 8,
+      "gas:candidate-vibid:4504028131815": 6,
+      "gas:candidate-vibid:4504028131706": 10,
+      "gas:candidate-vibid:4504028131245": 8,
+      "gas:candidate-vibid:4504028131582": 3,
+      "gas:candidate-vibid:4504028131057": 5,
+      "gas:candidate-vibid:4504028131878": 23,
+      "gas:candidate-vibid:4504028131458": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 30,
-      "Двойников Борис Георгиевич": 17,
-      "Королев Сергей Викторович": 28,
-      "Кудинов Сергей Владимирович": 13,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 27,
-      "Тютькова Ирина Анатольевна": 58,
-      "Фетисов Вячеслав Александрович": 180
+      "gas:candidate-vibid:4504028131642": 30,
+      "gas:candidate-vibid:4504028131815": 17,
+      "gas:candidate-vibid:4504028131706": 28,
+      "gas:candidate-vibid:4504028131245": 13,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 27,
+      "gas:candidate-vibid:4504028131878": 58,
+      "gas:candidate-vibid:4504028131458": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 16,
-      "Двойников Борис Георгиевич": 17,
-      "Королев Сергей Викторович": 17,
-      "Кудинов Сергей Владимирович": 13,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 10,
-      "Тютькова Ирина Анатольевна": 43,
-      "Фетисов Вячеслав Александрович": 94
+      "gas:candidate-vibid:4504028131642": 16,
+      "gas:candidate-vibid:4504028131815": 17,
+      "gas:candidate-vibid:4504028131706": 17,
+      "gas:candidate-vibid:4504028131245": 13,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 10,
+      "gas:candidate-vibid:4504028131878": 43,
+      "gas:candidate-vibid:4504028131458": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 38,
-      "Двойников Борис Георгиевич": 36,
-      "Королев Сергей Викторович": 51,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 38,
-      "Тютькова Ирина Анатольевна": 111,
-      "Фетисов Вячеслав Александрович": 285
+      "gas:candidate-vibid:4504028131642": 38,
+      "gas:candidate-vibid:4504028131815": 36,
+      "gas:candidate-vibid:4504028131706": 51,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 38,
+      "gas:candidate-vibid:4504028131878": 111,
+      "gas:candidate-vibid:4504028131458": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 74,
-      "Двойников Борис Георгиевич": 33,
-      "Королев Сергей Викторович": 63,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 50,
-      "Тютькова Ирина Анатольевна": 150,
-      "Фетисов Вячеслав Александрович": 366
+      "gas:candidate-vibid:4504028131642": 74,
+      "gas:candidate-vibid:4504028131815": 33,
+      "gas:candidate-vibid:4504028131706": 63,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 50,
+      "gas:candidate-vibid:4504028131878": 150,
+      "gas:candidate-vibid:4504028131458": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 89,
-      "Двойников Борис Георгиевич": 31,
-      "Королев Сергей Викторович": 61,
-      "Кудинов Сергей Владимирович": 59,
-      "Подмосковный Андрей Валентинович": 16,
-      "Султанов Фуад Фейзрахманович": 62,
-      "Тютькова Ирина Анатольевна": 142,
-      "Фетисов Вячеслав Александрович": 342
+      "gas:candidate-vibid:4504028131642": 89,
+      "gas:candidate-vibid:4504028131815": 31,
+      "gas:candidate-vibid:4504028131706": 61,
+      "gas:candidate-vibid:4504028131245": 59,
+      "gas:candidate-vibid:4504028131582": 16,
+      "gas:candidate-vibid:4504028131057": 62,
+      "gas:candidate-vibid:4504028131878": 142,
+      "gas:candidate-vibid:4504028131458": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 25,
-      "Двойников Борис Георгиевич": 24,
-      "Королев Сергей Викторович": 25,
-      "Кудинов Сергей Владимирович": 29,
-      "Подмосковный Андрей Валентинович": 12,
-      "Султанов Фуад Фейзрахманович": 33,
-      "Тютькова Ирина Анатольевна": 141,
-      "Фетисов Вячеслав Александрович": 255
+      "gas:candidate-vibid:4504028131642": 25,
+      "gas:candidate-vibid:4504028131815": 24,
+      "gas:candidate-vibid:4504028131706": 25,
+      "gas:candidate-vibid:4504028131245": 29,
+      "gas:candidate-vibid:4504028131582": 12,
+      "gas:candidate-vibid:4504028131057": 33,
+      "gas:candidate-vibid:4504028131878": 141,
+      "gas:candidate-vibid:4504028131458": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 46,
-      "Двойников Борис Георгиевич": 48,
-      "Королев Сергей Викторович": 42,
-      "Кудинов Сергей Владимирович": 22,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 296,
-      "Фетисов Вячеслав Александрович": 266
+      "gas:candidate-vibid:4504028131642": 46,
+      "gas:candidate-vibid:4504028131815": 48,
+      "gas:candidate-vibid:4504028131706": 42,
+      "gas:candidate-vibid:4504028131245": 22,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 296,
+      "gas:candidate-vibid:4504028131458": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 3,
-      "Двойников Борис Георгиевич": 9,
-      "Королев Сергей Викторович": 7,
-      "Кудинов Сергей Владимирович": 7,
-      "Подмосковный Андрей Валентинович": 0,
-      "Султанов Фуад Фейзрахманович": 6,
-      "Тютькова Ирина Анатольевна": 14,
-      "Фетисов Вячеслав Александрович": 38
+      "gas:candidate-vibid:4504028131642": 3,
+      "gas:candidate-vibid:4504028131815": 9,
+      "gas:candidate-vibid:4504028131706": 7,
+      "gas:candidate-vibid:4504028131245": 7,
+      "gas:candidate-vibid:4504028131582": 0,
+      "gas:candidate-vibid:4504028131057": 6,
+      "gas:candidate-vibid:4504028131878": 14,
+      "gas:candidate-vibid:4504028131458": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005569&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005569&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 35,
-      "Двойников Борис Георгиевич": 26,
-      "Королев Сергей Викторович": 30,
-      "Кудинов Сергей Владимирович": 34,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 72,
-      "Тютькова Ирина Анатольевна": 64,
-      "Фетисов Вячеслав Александрович": 330
+      "gas:candidate-vibid:4504028131642": 35,
+      "gas:candidate-vibid:4504028131815": 26,
+      "gas:candidate-vibid:4504028131706": 30,
+      "gas:candidate-vibid:4504028131245": 34,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 72,
+      "gas:candidate-vibid:4504028131878": 64,
+      "gas:candidate-vibid:4504028131458": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 41,
-      "Двойников Борис Георгиевич": 22,
-      "Королев Сергей Викторович": 18,
-      "Кудинов Сергей Владимирович": 35,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 37,
-      "Тютькова Ирина Анатольевна": 47,
-      "Фетисов Вячеслав Александрович": 256
+      "gas:candidate-vibid:4504028131642": 41,
+      "gas:candidate-vibid:4504028131815": 22,
+      "gas:candidate-vibid:4504028131706": 18,
+      "gas:candidate-vibid:4504028131245": 35,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 37,
+      "gas:candidate-vibid:4504028131878": 47,
+      "gas:candidate-vibid:4504028131458": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 57,
-      "Двойников Борис Георгиевич": 14,
-      "Королев Сергей Викторович": 13,
-      "Кудинов Сергей Владимирович": 19,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 38,
-      "Тютькова Ирина Анатольевна": 39,
-      "Фетисов Вячеслав Александрович": 257
+      "gas:candidate-vibid:4504028131642": 57,
+      "gas:candidate-vibid:4504028131815": 14,
+      "gas:candidate-vibid:4504028131706": 13,
+      "gas:candidate-vibid:4504028131245": 19,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 38,
+      "gas:candidate-vibid:4504028131878": 39,
+      "gas:candidate-vibid:4504028131458": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 54,
-      "Двойников Борис Георгиевич": 32,
-      "Королев Сергей Викторович": 20,
-      "Кудинов Сергей Владимирович": 22,
-      "Подмосковный Андрей Валентинович": 3,
-      "Султанов Фуад Фейзрахманович": 60,
-      "Тютькова Ирина Анатольевна": 64,
-      "Фетисов Вячеслав Александрович": 302
+      "gas:candidate-vibid:4504028131642": 54,
+      "gas:candidate-vibid:4504028131815": 32,
+      "gas:candidate-vibid:4504028131706": 20,
+      "gas:candidate-vibid:4504028131245": 22,
+      "gas:candidate-vibid:4504028131582": 3,
+      "gas:candidate-vibid:4504028131057": 60,
+      "gas:candidate-vibid:4504028131878": 64,
+      "gas:candidate-vibid:4504028131458": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 51,
-      "Двойников Борис Георгиевич": 17,
-      "Королев Сергей Викторович": 37,
-      "Кудинов Сергей Владимирович": 31,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 66,
-      "Тютькова Ирина Анатольевна": 44,
-      "Фетисов Вячеслав Александрович": 299
+      "gas:candidate-vibid:4504028131642": 51,
+      "gas:candidate-vibid:4504028131815": 17,
+      "gas:candidate-vibid:4504028131706": 37,
+      "gas:candidate-vibid:4504028131245": 31,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 66,
+      "gas:candidate-vibid:4504028131878": 44,
+      "gas:candidate-vibid:4504028131458": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 49,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 23,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 32,
-      "Тютькова Ирина Анатольевна": 36,
-      "Фетисов Вячеслав Александрович": 331
+      "gas:candidate-vibid:4504028131642": 49,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 23,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 32,
+      "gas:candidate-vibid:4504028131878": 36,
+      "gas:candidate-vibid:4504028131458": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 32,
-      "Двойников Борис Георгиевич": 27,
-      "Королев Сергей Викторович": 29,
-      "Кудинов Сергей Владимирович": 25,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 42,
-      "Тютькова Ирина Анатольевна": 58,
-      "Фетисов Вячеслав Александрович": 252
+      "gas:candidate-vibid:4504028131642": 32,
+      "gas:candidate-vibid:4504028131815": 27,
+      "gas:candidate-vibid:4504028131706": 29,
+      "gas:candidate-vibid:4504028131245": 25,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 42,
+      "gas:candidate-vibid:4504028131878": 58,
+      "gas:candidate-vibid:4504028131458": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 38,
-      "Двойников Борис Георгиевич": 21,
-      "Королев Сергей Викторович": 17,
-      "Кудинов Сергей Владимирович": 24,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 57,
-      "Тютькова Ирина Анатольевна": 49,
-      "Фетисов Вячеслав Александрович": 274
+      "gas:candidate-vibid:4504028131642": 38,
+      "gas:candidate-vibid:4504028131815": 21,
+      "gas:candidate-vibid:4504028131706": 17,
+      "gas:candidate-vibid:4504028131245": 24,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 57,
+      "gas:candidate-vibid:4504028131878": 49,
+      "gas:candidate-vibid:4504028131458": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 40,
-      "Двойников Борис Георгиевич": 26,
-      "Королев Сергей Викторович": 27,
-      "Кудинов Сергей Владимирович": 39,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 53,
-      "Тютькова Ирина Анатольевна": 37,
-      "Фетисов Вячеслав Александрович": 265
+      "gas:candidate-vibid:4504028131642": 40,
+      "gas:candidate-vibid:4504028131815": 26,
+      "gas:candidate-vibid:4504028131706": 27,
+      "gas:candidate-vibid:4504028131245": 39,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 53,
+      "gas:candidate-vibid:4504028131878": 37,
+      "gas:candidate-vibid:4504028131458": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 43,
-      "Двойников Борис Георгиевич": 24,
-      "Королев Сергей Викторович": 12,
-      "Кудинов Сергей Владимирович": 20,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 39,
-      "Тютькова Ирина Анатольевна": 55,
-      "Фетисов Вячеслав Александрович": 215
+      "gas:candidate-vibid:4504028131642": 43,
+      "gas:candidate-vibid:4504028131815": 24,
+      "gas:candidate-vibid:4504028131706": 12,
+      "gas:candidate-vibid:4504028131245": 20,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 39,
+      "gas:candidate-vibid:4504028131878": 55,
+      "gas:candidate-vibid:4504028131458": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 77,
-      "Двойников Борис Георгиевич": 25,
-      "Королев Сергей Викторович": 19,
-      "Кудинов Сергей Владимирович": 25,
-      "Подмосковный Андрей Валентинович": 2,
-      "Султанов Фуад Фейзрахманович": 54,
-      "Тютькова Ирина Анатольевна": 68,
-      "Фетисов Вячеслав Александрович": 308
+      "gas:candidate-vibid:4504028131642": 77,
+      "gas:candidate-vibid:4504028131815": 25,
+      "gas:candidate-vibid:4504028131706": 19,
+      "gas:candidate-vibid:4504028131245": 25,
+      "gas:candidate-vibid:4504028131582": 2,
+      "gas:candidate-vibid:4504028131057": 54,
+      "gas:candidate-vibid:4504028131878": 68,
+      "gas:candidate-vibid:4504028131458": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 45,
-      "Двойников Борис Георгиевич": 18,
-      "Королев Сергей Викторович": 13,
-      "Кудинов Сергей Владимирович": 12,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 28,
-      "Тютькова Ирина Анатольевна": 27,
-      "Фетисов Вячеслав Александрович": 154
+      "gas:candidate-vibid:4504028131642": 45,
+      "gas:candidate-vibid:4504028131815": 18,
+      "gas:candidate-vibid:4504028131706": 13,
+      "gas:candidate-vibid:4504028131245": 12,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 28,
+      "gas:candidate-vibid:4504028131878": 27,
+      "gas:candidate-vibid:4504028131458": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 22,
-      "Королев Сергей Викторович": 25,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 50,
-      "Фетисов Вячеслав Александрович": 289
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 22,
+      "gas:candidate-vibid:4504028131706": 25,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 50,
+      "gas:candidate-vibid:4504028131458": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 41,
-      "Двойников Борис Георгиевич": 21,
-      "Королев Сергей Викторович": 27,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 35,
-      "Тютькова Ирина Анатольевна": 67,
-      "Фетисов Вячеслав Александрович": 355
+      "gas:candidate-vibid:4504028131642": 41,
+      "gas:candidate-vibid:4504028131815": 21,
+      "gas:candidate-vibid:4504028131706": 27,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 35,
+      "gas:candidate-vibid:4504028131878": 67,
+      "gas:candidate-vibid:4504028131458": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 45,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 21,
-      "Кудинов Сергей Владимирович": 33,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 46,
-      "Тютькова Ирина Анатольевна": 50,
-      "Фетисов Вячеслав Александрович": 247
+      "gas:candidate-vibid:4504028131642": 45,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 21,
+      "gas:candidate-vibid:4504028131245": 33,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 46,
+      "gas:candidate-vibid:4504028131878": 50,
+      "gas:candidate-vibid:4504028131458": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 45,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 16,
-      "Кудинов Сергей Владимирович": 24,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 30,
-      "Тютькова Ирина Анатольевна": 49,
-      "Фетисов Вячеслав Александрович": 212
+      "gas:candidate-vibid:4504028131642": 45,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 16,
+      "gas:candidate-vibid:4504028131245": 24,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 30,
+      "gas:candidate-vibid:4504028131878": 49,
+      "gas:candidate-vibid:4504028131458": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 34,
-      "Королев Сергей Викторович": 25,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 61,
-      "Тютькова Ирина Анатольевна": 43,
-      "Фетисов Вячеслав Александрович": 300
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 34,
+      "gas:candidate-vibid:4504028131706": 25,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 61,
+      "gas:candidate-vibid:4504028131878": 43,
+      "gas:candidate-vibid:4504028131458": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 63,
-      "Двойников Борис Георгиевич": 22,
-      "Королев Сергей Викторович": 27,
-      "Кудинов Сергей Владимирович": 23,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 46,
-      "Тютькова Ирина Анатольевна": 65,
-      "Фетисов Вячеслав Александрович": 280
+      "gas:candidate-vibid:4504028131642": 63,
+      "gas:candidate-vibid:4504028131815": 22,
+      "gas:candidate-vibid:4504028131706": 27,
+      "gas:candidate-vibid:4504028131245": 23,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 46,
+      "gas:candidate-vibid:4504028131878": 65,
+      "gas:candidate-vibid:4504028131458": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 38,
-      "Двойников Борис Георгиевич": 22,
-      "Королев Сергей Викторович": 12,
-      "Кудинов Сергей Владимирович": 22,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 43,
-      "Тютькова Ирина Анатольевна": 44,
-      "Фетисов Вячеслав Александрович": 238
+      "gas:candidate-vibid:4504028131642": 38,
+      "gas:candidate-vibid:4504028131815": 22,
+      "gas:candidate-vibid:4504028131706": 12,
+      "gas:candidate-vibid:4504028131245": 22,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 43,
+      "gas:candidate-vibid:4504028131878": 44,
+      "gas:candidate-vibid:4504028131458": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 32,
-      "Двойников Борис Георгиевич": 13,
-      "Королев Сергей Викторович": 26,
-      "Кудинов Сергей Владимирович": 13,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 22,
-      "Тютькова Ирина Анатольевна": 36,
-      "Фетисов Вячеслав Александрович": 155
+      "gas:candidate-vibid:4504028131642": 32,
+      "gas:candidate-vibid:4504028131815": 13,
+      "gas:candidate-vibid:4504028131706": 26,
+      "gas:candidate-vibid:4504028131245": 13,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 22,
+      "gas:candidate-vibid:4504028131878": 36,
+      "gas:candidate-vibid:4504028131458": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 64,
-      "Двойников Борис Георгиевич": 26,
-      "Королев Сергей Викторович": 24,
-      "Кудинов Сергей Владимирович": 21,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 55,
-      "Тютькова Ирина Анатольевна": 67,
-      "Фетисов Вячеслав Александрович": 339
+      "gas:candidate-vibid:4504028131642": 64,
+      "gas:candidate-vibid:4504028131815": 26,
+      "gas:candidate-vibid:4504028131706": 24,
+      "gas:candidate-vibid:4504028131245": 21,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 55,
+      "gas:candidate-vibid:4504028131878": 67,
+      "gas:candidate-vibid:4504028131458": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 74,
-      "Двойников Борис Георгиевич": 9,
-      "Королев Сергей Викторович": 33,
-      "Кудинов Сергей Владимирович": 45,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 58,
-      "Тютькова Ирина Анатольевна": 80,
-      "Фетисов Вячеслав Александрович": 380
+      "gas:candidate-vibid:4504028131642": 74,
+      "gas:candidate-vibid:4504028131815": 9,
+      "gas:candidate-vibid:4504028131706": 33,
+      "gas:candidate-vibid:4504028131245": 45,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 58,
+      "gas:candidate-vibid:4504028131878": 80,
+      "gas:candidate-vibid:4504028131458": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 49,
-      "Двойников Борис Георгиевич": 37,
-      "Королев Сергей Викторович": 34,
-      "Кудинов Сергей Владимирович": 31,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 33,
-      "Тютькова Ирина Анатольевна": 57,
-      "Фетисов Вячеслав Александрович": 284
+      "gas:candidate-vibid:4504028131642": 49,
+      "gas:candidate-vibid:4504028131815": 37,
+      "gas:candidate-vibid:4504028131706": 34,
+      "gas:candidate-vibid:4504028131245": 31,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 33,
+      "gas:candidate-vibid:4504028131878": 57,
+      "gas:candidate-vibid:4504028131458": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 52,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 19,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 60,
-      "Тютькова Ирина Анатольевна": 65,
-      "Фетисов Вячеслав Александрович": 287
+      "gas:candidate-vibid:4504028131642": 52,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 19,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 60,
+      "gas:candidate-vibid:4504028131878": 65,
+      "gas:candidate-vibid:4504028131458": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 38,
-      "Двойников Борис Георгиевич": 10,
-      "Королев Сергей Викторович": 11,
-      "Кудинов Сергей Владимирович": 18,
-      "Подмосковный Андрей Валентинович": 2,
-      "Султанов Фуад Фейзрахманович": 45,
-      "Тютькова Ирина Анатольевна": 20,
-      "Фетисов Вячеслав Александрович": 380
+      "gas:candidate-vibid:4504028131642": 38,
+      "gas:candidate-vibid:4504028131815": 10,
+      "gas:candidate-vibid:4504028131706": 11,
+      "gas:candidate-vibid:4504028131245": 18,
+      "gas:candidate-vibid:4504028131582": 2,
+      "gas:candidate-vibid:4504028131057": 45,
+      "gas:candidate-vibid:4504028131878": 20,
+      "gas:candidate-vibid:4504028131458": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 52,
-      "Двойников Борис Георгиевич": 17,
-      "Королев Сергей Викторович": 13,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 50,
-      "Фетисов Вячеслав Александрович": 277
+      "gas:candidate-vibid:4504028131642": 52,
+      "gas:candidate-vibid:4504028131815": 17,
+      "gas:candidate-vibid:4504028131706": 13,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 50,
+      "gas:candidate-vibid:4504028131458": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 54,
-      "Двойников Борис Георгиевич": 17,
-      "Королев Сергей Викторович": 20,
-      "Кудинов Сергей Владимирович": 20,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 31,
-      "Тютькова Ирина Анатольевна": 37,
-      "Фетисов Вячеслав Александрович": 272
+      "gas:candidate-vibid:4504028131642": 54,
+      "gas:candidate-vibid:4504028131815": 17,
+      "gas:candidate-vibid:4504028131706": 20,
+      "gas:candidate-vibid:4504028131245": 20,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 31,
+      "gas:candidate-vibid:4504028131878": 37,
+      "gas:candidate-vibid:4504028131458": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 63,
-      "Двойников Борис Георгиевич": 33,
-      "Королев Сергей Викторович": 54,
-      "Кудинов Сергей Владимирович": 47,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 66,
-      "Тютькова Ирина Анатольевна": 57,
-      "Фетисов Вячеслав Александрович": 449
+      "gas:candidate-vibid:4504028131642": 63,
+      "gas:candidate-vibid:4504028131815": 33,
+      "gas:candidate-vibid:4504028131706": 54,
+      "gas:candidate-vibid:4504028131245": 47,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 66,
+      "gas:candidate-vibid:4504028131878": 57,
+      "gas:candidate-vibid:4504028131458": 449
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 27,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 56,
-      "Тютькова Ирина Анатольевна": 72,
-      "Фетисов Вячеслав Александрович": 441
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 27,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 56,
+      "gas:candidate-vibid:4504028131878": 72,
+      "gas:candidate-vibid:4504028131458": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 69,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 43,
-      "Кудинов Сергей Владимирович": 39,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 59,
-      "Тютькова Ирина Анатольевна": 72,
-      "Фетисов Вячеслав Александрович": 431
+      "gas:candidate-vibid:4504028131642": 69,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 43,
+      "gas:candidate-vibid:4504028131245": 39,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 59,
+      "gas:candidate-vibid:4504028131878": 72,
+      "gas:candidate-vibid:4504028131458": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 15,
-      "Королев Сергей Викторович": 22,
-      "Кудинов Сергей Владимирович": 32,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 45,
-      "Тютькова Ирина Анатольевна": 47,
-      "Фетисов Вячеслав Александрович": 483
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 15,
+      "gas:candidate-vibid:4504028131706": 22,
+      "gas:candidate-vibid:4504028131245": 32,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 45,
+      "gas:candidate-vibid:4504028131878": 47,
+      "gas:candidate-vibid:4504028131458": 483
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 76,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 37,
-      "Кудинов Сергей Владимирович": 51,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 57,
-      "Тютькова Ирина Анатольевна": 67,
-      "Фетисов Вячеслав Александрович": 385
+      "gas:candidate-vibid:4504028131642": 76,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 37,
+      "gas:candidate-vibid:4504028131245": 51,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 57,
+      "gas:candidate-vibid:4504028131878": 67,
+      "gas:candidate-vibid:4504028131458": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 80,
-      "Двойников Борис Георгиевич": 25,
-      "Королев Сергей Викторович": 39,
-      "Кудинов Сергей Владимирович": 33,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 68,
-      "Тютькова Ирина Анатольевна": 57,
-      "Фетисов Вячеслав Александрович": 398
+      "gas:candidate-vibid:4504028131642": 80,
+      "gas:candidate-vibid:4504028131815": 25,
+      "gas:candidate-vibid:4504028131706": 39,
+      "gas:candidate-vibid:4504028131245": 33,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 68,
+      "gas:candidate-vibid:4504028131878": 57,
+      "gas:candidate-vibid:4504028131458": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 67,
-      "Двойников Борис Георгиевич": 25,
-      "Королев Сергей Викторович": 39,
-      "Кудинов Сергей Владимирович": 37,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 42,
-      "Тютькова Ирина Анатольевна": 70,
-      "Фетисов Вячеслав Александрович": 321
+      "gas:candidate-vibid:4504028131642": 67,
+      "gas:candidate-vibid:4504028131815": 25,
+      "gas:candidate-vibid:4504028131706": 39,
+      "gas:candidate-vibid:4504028131245": 37,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 42,
+      "gas:candidate-vibid:4504028131878": 70,
+      "gas:candidate-vibid:4504028131458": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 29,
-      "Королев Сергей Викторович": 22,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 46,
-      "Тютькова Ирина Анатольевна": 73,
-      "Фетисов Вячеслав Александрович": 290
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 29,
+      "gas:candidate-vibid:4504028131706": 22,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 46,
+      "gas:candidate-vibid:4504028131878": 73,
+      "gas:candidate-vibid:4504028131458": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 46,
-      "Двойников Борис Георгиевич": 38,
-      "Королев Сергей Викторович": 15,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 45,
-      "Тютькова Ирина Анатольевна": 45,
-      "Фетисов Вячеслав Александрович": 315
+      "gas:candidate-vibid:4504028131642": 46,
+      "gas:candidate-vibid:4504028131815": 38,
+      "gas:candidate-vibid:4504028131706": 15,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 45,
+      "gas:candidate-vibid:4504028131878": 45,
+      "gas:candidate-vibid:4504028131458": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 42,
-      "Двойников Борис Георгиевич": 29,
-      "Королев Сергей Викторович": 34,
-      "Кудинов Сергей Владимирович": 21,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 51,
-      "Тютькова Ирина Анатольевна": 58,
-      "Фетисов Вячеслав Александрович": 366
+      "gas:candidate-vibid:4504028131642": 42,
+      "gas:candidate-vibid:4504028131815": 29,
+      "gas:candidate-vibid:4504028131706": 34,
+      "gas:candidate-vibid:4504028131245": 21,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 51,
+      "gas:candidate-vibid:4504028131878": 58,
+      "gas:candidate-vibid:4504028131458": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 65,
-      "Двойников Борис Георгиевич": 22,
-      "Королев Сергей Викторович": 33,
-      "Кудинов Сергей Владимирович": 32,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 51,
-      "Тютькова Ирина Анатольевна": 72,
-      "Фетисов Вячеслав Александрович": 332
+      "gas:candidate-vibid:4504028131642": 65,
+      "gas:candidate-vibid:4504028131815": 22,
+      "gas:candidate-vibid:4504028131706": 33,
+      "gas:candidate-vibid:4504028131245": 32,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 51,
+      "gas:candidate-vibid:4504028131878": 72,
+      "gas:candidate-vibid:4504028131458": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 34,
-      "Двойников Борис Георгиевич": 23,
-      "Королев Сергей Викторович": 23,
-      "Кудинов Сергей Владимирович": 31,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 39,
-      "Тютькова Ирина Анатольевна": 67,
-      "Фетисов Вячеслав Александрович": 268
+      "gas:candidate-vibid:4504028131642": 34,
+      "gas:candidate-vibid:4504028131815": 23,
+      "gas:candidate-vibid:4504028131706": 23,
+      "gas:candidate-vibid:4504028131245": 31,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 39,
+      "gas:candidate-vibid:4504028131878": 67,
+      "gas:candidate-vibid:4504028131458": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 40,
-      "Двойников Борис Георгиевич": 31,
-      "Королев Сергей Викторович": 31,
-      "Кудинов Сергей Владимирович": 35,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 50,
-      "Тютькова Ирина Анатольевна": 77,
-      "Фетисов Вячеслав Александрович": 359
+      "gas:candidate-vibid:4504028131642": 40,
+      "gas:candidate-vibid:4504028131815": 31,
+      "gas:candidate-vibid:4504028131706": 31,
+      "gas:candidate-vibid:4504028131245": 35,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 50,
+      "gas:candidate-vibid:4504028131878": 77,
+      "gas:candidate-vibid:4504028131458": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 43,
-      "Двойников Борис Георгиевич": 30,
-      "Королев Сергей Викторович": 21,
-      "Кудинов Сергей Владимирович": 46,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 49,
-      "Тютькова Ирина Анатольевна": 74,
-      "Фетисов Вячеслав Александрович": 271
+      "gas:candidate-vibid:4504028131642": 43,
+      "gas:candidate-vibid:4504028131815": 30,
+      "gas:candidate-vibid:4504028131706": 21,
+      "gas:candidate-vibid:4504028131245": 46,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 49,
+      "gas:candidate-vibid:4504028131878": 74,
+      "gas:candidate-vibid:4504028131458": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 46,
-      "Двойников Борис Георгиевич": 26,
-      "Королев Сергей Викторович": 35,
-      "Кудинов Сергей Владимирович": 34,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 60,
-      "Тютькова Ирина Анатольевна": 157,
-      "Фетисов Вячеслав Александрович": 678
+      "gas:candidate-vibid:4504028131642": 46,
+      "gas:candidate-vibid:4504028131815": 26,
+      "gas:candidate-vibid:4504028131706": 35,
+      "gas:candidate-vibid:4504028131245": 34,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 60,
+      "gas:candidate-vibid:4504028131878": 157,
+      "gas:candidate-vibid:4504028131458": 678
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 47,
-      "Двойников Борис Георгиевич": 30,
-      "Королев Сергей Викторович": 18,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 31,
-      "Тютькова Ирина Анатольевна": 42,
-      "Фетисов Вячеслав Александрович": 260
+      "gas:candidate-vibid:4504028131642": 47,
+      "gas:candidate-vibid:4504028131815": 30,
+      "gas:candidate-vibid:4504028131706": 18,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 31,
+      "gas:candidate-vibid:4504028131878": 42,
+      "gas:candidate-vibid:4504028131458": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 28,
-      "Двойников Борис Георгиевич": 19,
-      "Королев Сергей Викторович": 22,
-      "Кудинов Сергей Владимирович": 21,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 28,
-      "Тютькова Ирина Анатольевна": 36,
-      "Фетисов Вячеслав Александрович": 226
+      "gas:candidate-vibid:4504028131642": 28,
+      "gas:candidate-vibid:4504028131815": 19,
+      "gas:candidate-vibid:4504028131706": 22,
+      "gas:candidate-vibid:4504028131245": 21,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 28,
+      "gas:candidate-vibid:4504028131878": 36,
+      "gas:candidate-vibid:4504028131458": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 41,
-      "Двойников Борис Георгиевич": 20,
-      "Королев Сергей Викторович": 16,
-      "Кудинов Сергей Владимирович": 10,
-      "Подмосковный Андрей Валентинович": 6,
-      "Султанов Фуад Фейзрахманович": 23,
-      "Тютькова Ирина Анатольевна": 38,
-      "Фетисов Вячеслав Александрович": 184
+      "gas:candidate-vibid:4504028131642": 41,
+      "gas:candidate-vibid:4504028131815": 20,
+      "gas:candidate-vibid:4504028131706": 16,
+      "gas:candidate-vibid:4504028131245": 10,
+      "gas:candidate-vibid:4504028131582": 6,
+      "gas:candidate-vibid:4504028131057": 23,
+      "gas:candidate-vibid:4504028131878": 38,
+      "gas:candidate-vibid:4504028131458": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 63,
-      "Двойников Борис Георгиевич": 30,
-      "Королев Сергей Викторович": 22,
-      "Кудинов Сергей Владимирович": 26,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 57,
-      "Тютькова Ирина Анатольевна": 55,
-      "Фетисов Вячеслав Александрович": 341
+      "gas:candidate-vibid:4504028131642": 63,
+      "gas:candidate-vibid:4504028131815": 30,
+      "gas:candidate-vibid:4504028131706": 22,
+      "gas:candidate-vibid:4504028131245": 26,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 57,
+      "gas:candidate-vibid:4504028131878": 55,
+      "gas:candidate-vibid:4504028131458": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 57,
-      "Двойников Борис Георгиевич": 39,
-      "Королев Сергей Викторович": 23,
-      "Кудинов Сергей Владимирович": 34,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 32,
-      "Тютькова Ирина Анатольевна": 55,
-      "Фетисов Вячеслав Александрович": 241
+      "gas:candidate-vibid:4504028131642": 57,
+      "gas:candidate-vibid:4504028131815": 39,
+      "gas:candidate-vibid:4504028131706": 23,
+      "gas:candidate-vibid:4504028131245": 34,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 32,
+      "gas:candidate-vibid:4504028131878": 55,
+      "gas:candidate-vibid:4504028131458": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 35,
-      "Двойников Борис Георгиевич": 26,
-      "Королев Сергей Викторович": 17,
-      "Кудинов Сергей Владимирович": 13,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 27,
-      "Тютькова Ирина Анатольевна": 37,
-      "Фетисов Вячеслав Александрович": 217
+      "gas:candidate-vibid:4504028131642": 35,
+      "gas:candidate-vibid:4504028131815": 26,
+      "gas:candidate-vibid:4504028131706": 17,
+      "gas:candidate-vibid:4504028131245": 13,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 27,
+      "gas:candidate-vibid:4504028131878": 37,
+      "gas:candidate-vibid:4504028131458": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 24,
-      "Двойников Борис Георгиевич": 14,
-      "Королев Сергей Викторович": 13,
-      "Кудинов Сергей Владимирович": 15,
-      "Подмосковный Андрей Валентинович": 1,
-      "Султанов Фуад Фейзрахманович": 28,
-      "Тютькова Ирина Анатольевна": 20,
-      "Фетисов Вячеслав Александрович": 158
+      "gas:candidate-vibid:4504028131642": 24,
+      "gas:candidate-vibid:4504028131815": 14,
+      "gas:candidate-vibid:4504028131706": 13,
+      "gas:candidate-vibid:4504028131245": 15,
+      "gas:candidate-vibid:4504028131582": 1,
+      "gas:candidate-vibid:4504028131057": 28,
+      "gas:candidate-vibid:4504028131878": 20,
+      "gas:candidate-vibid:4504028131458": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 39,
-      "Двойников Борис Георгиевич": 21,
-      "Королев Сергей Викторович": 17,
-      "Кудинов Сергей Владимирович": 32,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 59,
-      "Тютькова Ирина Анатольевна": 31,
-      "Фетисов Вячеслав Александрович": 321
+      "gas:candidate-vibid:4504028131642": 39,
+      "gas:candidate-vibid:4504028131815": 21,
+      "gas:candidate-vibid:4504028131706": 17,
+      "gas:candidate-vibid:4504028131245": 32,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 59,
+      "gas:candidate-vibid:4504028131878": 31,
+      "gas:candidate-vibid:4504028131458": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 34,
-      "Двойников Борис Георгиевич": 24,
-      "Королев Сергей Викторович": 24,
-      "Кудинов Сергей Владимирович": 23,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 57,
-      "Тютькова Ирина Анатольевна": 51,
-      "Фетисов Вячеслав Александрович": 272
+      "gas:candidate-vibid:4504028131642": 34,
+      "gas:candidate-vibid:4504028131815": 24,
+      "gas:candidate-vibid:4504028131706": 24,
+      "gas:candidate-vibid:4504028131245": 23,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 57,
+      "gas:candidate-vibid:4504028131878": 51,
+      "gas:candidate-vibid:4504028131458": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 42,
-      "Королев Сергей Викторович": 32,
-      "Кудинов Сергей Владимирович": 35,
-      "Подмосковный Андрей Валентинович": 8,
-      "Султанов Фуад Фейзрахманович": 46,
-      "Тютькова Ирина Анатольевна": 74,
-      "Фетисов Вячеслав Александрович": 371
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 42,
+      "gas:candidate-vibid:4504028131706": 32,
+      "gas:candidate-vibid:4504028131245": 35,
+      "gas:candidate-vibid:4504028131582": 8,
+      "gas:candidate-vibid:4504028131057": 46,
+      "gas:candidate-vibid:4504028131878": 74,
+      "gas:candidate-vibid:4504028131458": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 26,
-      "Двойников Борис Георгиевич": 15,
-      "Королев Сергей Викторович": 16,
-      "Кудинов Сергей Владимирович": 15,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 26,
-      "Тютькова Ирина Анатольевна": 35,
-      "Фетисов Вячеслав Александрович": 178
+      "gas:candidate-vibid:4504028131642": 26,
+      "gas:candidate-vibid:4504028131815": 15,
+      "gas:candidate-vibid:4504028131706": 16,
+      "gas:candidate-vibid:4504028131245": 15,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 26,
+      "gas:candidate-vibid:4504028131878": 35,
+      "gas:candidate-vibid:4504028131458": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 61,
-      "Двойников Борис Георгиевич": 25,
-      "Королев Сергей Викторович": 16,
-      "Кудинов Сергей Владимирович": 14,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 39,
-      "Тютькова Ирина Анатольевна": 40,
-      "Фетисов Вячеслав Александрович": 287
+      "gas:candidate-vibid:4504028131642": 61,
+      "gas:candidate-vibid:4504028131815": 25,
+      "gas:candidate-vibid:4504028131706": 16,
+      "gas:candidate-vibid:4504028131245": 14,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 39,
+      "gas:candidate-vibid:4504028131878": 40,
+      "gas:candidate-vibid:4504028131458": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 47,
-      "Двойников Борис Георгиевич": 45,
-      "Королев Сергей Викторович": 29,
-      "Кудинов Сергей Владимирович": 18,
-      "Подмосковный Андрей Валентинович": 13,
-      "Султанов Фуад Фейзрахманович": 64,
-      "Тютькова Ирина Анатольевна": 43,
-      "Фетисов Вячеслав Александрович": 344
+      "gas:candidate-vibid:4504028131642": 47,
+      "gas:candidate-vibid:4504028131815": 45,
+      "gas:candidate-vibid:4504028131706": 29,
+      "gas:candidate-vibid:4504028131245": 18,
+      "gas:candidate-vibid:4504028131582": 13,
+      "gas:candidate-vibid:4504028131057": 64,
+      "gas:candidate-vibid:4504028131878": 43,
+      "gas:candidate-vibid:4504028131458": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 21,
-      "Двойников Борис Георгиевич": 18,
-      "Королев Сергей Викторович": 19,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 50,
-      "Тютькова Ирина Анатольевна": 29,
-      "Фетисов Вячеслав Александрович": 205
+      "gas:candidate-vibid:4504028131642": 21,
+      "gas:candidate-vibid:4504028131815": 18,
+      "gas:candidate-vibid:4504028131706": 19,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 50,
+      "gas:candidate-vibid:4504028131878": 29,
+      "gas:candidate-vibid:4504028131458": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 35,
-      "Двойников Борис Георгиевич": 46,
-      "Королев Сергей Викторович": 26,
-      "Кудинов Сергей Владимирович": 24,
-      "Подмосковный Андрей Валентинович": 10,
-      "Султанов Фуад Фейзрахманович": 40,
-      "Тютькова Ирина Анатольевна": 54,
-      "Фетисов Вячеслав Александрович": 515
+      "gas:candidate-vibid:4504028131642": 35,
+      "gas:candidate-vibid:4504028131815": 46,
+      "gas:candidate-vibid:4504028131706": 26,
+      "gas:candidate-vibid:4504028131245": 24,
+      "gas:candidate-vibid:4504028131582": 10,
+      "gas:candidate-vibid:4504028131057": 40,
+      "gas:candidate-vibid:4504028131878": 54,
+      "gas:candidate-vibid:4504028131458": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 31,
-      "Двойников Борис Георгиевич": 32,
-      "Королев Сергей Викторович": 14,
-      "Кудинов Сергей Владимирович": 25,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 35,
-      "Фетисов Вячеслав Александрович": 231
+      "gas:candidate-vibid:4504028131642": 31,
+      "gas:candidate-vibid:4504028131815": 32,
+      "gas:candidate-vibid:4504028131706": 14,
+      "gas:candidate-vibid:4504028131245": 25,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 35,
+      "gas:candidate-vibid:4504028131458": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 24,
-      "Двойников Борис Георгиевич": 35,
-      "Королев Сергей Викторович": 24,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 49,
-      "Тютькова Ирина Анатольевна": 43,
-      "Фетисов Вячеслав Александрович": 293
+      "gas:candidate-vibid:4504028131642": 24,
+      "gas:candidate-vibid:4504028131815": 35,
+      "gas:candidate-vibid:4504028131706": 24,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 49,
+      "gas:candidate-vibid:4504028131878": 43,
+      "gas:candidate-vibid:4504028131458": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 9,
-      "Двойников Борис Георгиевич": 6,
-      "Королев Сергей Викторович": 3,
-      "Кудинов Сергей Владимирович": 4,
-      "Подмосковный Андрей Валентинович": 3,
-      "Султанов Фуад Фейзрахманович": 18,
-      "Тютькова Ирина Анатольевна": 24,
-      "Фетисов Вячеслав Александрович": 87
+      "gas:candidate-vibid:4504028131642": 9,
+      "gas:candidate-vibid:4504028131815": 6,
+      "gas:candidate-vibid:4504028131706": 3,
+      "gas:candidate-vibid:4504028131245": 4,
+      "gas:candidate-vibid:4504028131582": 3,
+      "gas:candidate-vibid:4504028131057": 18,
+      "gas:candidate-vibid:4504028131878": 24,
+      "gas:candidate-vibid:4504028131458": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 7,
-      "Двойников Борис Георгиевич": 1,
-      "Королев Сергей Викторович": 6,
-      "Кудинов Сергей Владимирович": 14,
-      "Подмосковный Андрей Валентинович": 3,
-      "Султанов Фуад Фейзрахманович": 11,
-      "Тютькова Ирина Анатольевна": 7,
-      "Фетисов Вячеслав Александрович": 109
+      "gas:candidate-vibid:4504028131642": 7,
+      "gas:candidate-vibid:4504028131815": 1,
+      "gas:candidate-vibid:4504028131706": 6,
+      "gas:candidate-vibid:4504028131245": 14,
+      "gas:candidate-vibid:4504028131582": 3,
+      "gas:candidate-vibid:4504028131057": 11,
+      "gas:candidate-vibid:4504028131878": 7,
+      "gas:candidate-vibid:4504028131458": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 20,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 9,
-      "Кудинов Сергей Владимирович": 25,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 42,
-      "Тютькова Ирина Анатольевна": 38,
-      "Фетисов Вячеслав Александрович": 178
+      "gas:candidate-vibid:4504028131642": 20,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 9,
+      "gas:candidate-vibid:4504028131245": 25,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 42,
+      "gas:candidate-vibid:4504028131878": 38,
+      "gas:candidate-vibid:4504028131458": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 13,
-      "Двойников Борис Георгиевич": 3,
-      "Королев Сергей Викторович": 8,
-      "Кудинов Сергей Владимирович": 11,
-      "Подмосковный Андрей Валентинович": 0,
-      "Султанов Фуад Фейзрахманович": 7,
-      "Тютькова Ирина Анатольевна": 8,
-      "Фетисов Вячеслав Александрович": 75
+      "gas:candidate-vibid:4504028131642": 13,
+      "gas:candidate-vibid:4504028131815": 3,
+      "gas:candidate-vibid:4504028131706": 8,
+      "gas:candidate-vibid:4504028131245": 11,
+      "gas:candidate-vibid:4504028131582": 0,
+      "gas:candidate-vibid:4504028131057": 7,
+      "gas:candidate-vibid:4504028131878": 8,
+      "gas:candidate-vibid:4504028131458": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 31,
-      "Двойников Борис Георгиевич": 20,
-      "Королев Сергей Викторович": 29,
-      "Кудинов Сергей Владимирович": 25,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 45,
-      "Фетисов Вячеслав Александрович": 338
+      "gas:candidate-vibid:4504028131642": 31,
+      "gas:candidate-vibid:4504028131815": 20,
+      "gas:candidate-vibid:4504028131706": 29,
+      "gas:candidate-vibid:4504028131245": 25,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 45,
+      "gas:candidate-vibid:4504028131458": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 30,
-      "Двойников Борис Георгиевич": 22,
-      "Королев Сергей Викторович": 22,
-      "Кудинов Сергей Владимирович": 24,
-      "Подмосковный Андрей Валентинович": 3,
-      "Султанов Фуад Фейзрахманович": 34,
-      "Тютькова Ирина Анатольевна": 40,
-      "Фетисов Вячеслав Александрович": 386
+      "gas:candidate-vibid:4504028131642": 30,
+      "gas:candidate-vibid:4504028131815": 22,
+      "gas:candidate-vibid:4504028131706": 22,
+      "gas:candidate-vibid:4504028131245": 24,
+      "gas:candidate-vibid:4504028131582": 3,
+      "gas:candidate-vibid:4504028131057": 34,
+      "gas:candidate-vibid:4504028131878": 40,
+      "gas:candidate-vibid:4504028131458": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 118,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 32,
-      "Кудинов Сергей Владимирович": 22,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 35,
-      "Тютькова Ирина Анатольевна": 31,
-      "Фетисов Вячеслав Александрович": 326
+      "gas:candidate-vibid:4504028131642": 118,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 32,
+      "gas:candidate-vibid:4504028131245": 22,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 35,
+      "gas:candidate-vibid:4504028131878": 31,
+      "gas:candidate-vibid:4504028131458": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 59,
-      "Двойников Борис Георгиевич": 14,
-      "Королев Сергей Викторович": 17,
-      "Кудинов Сергей Владимирович": 28,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 28,
-      "Тютькова Ирина Анатольевна": 35,
-      "Фетисов Вячеслав Александрович": 321
+      "gas:candidate-vibid:4504028131642": 59,
+      "gas:candidate-vibid:4504028131815": 14,
+      "gas:candidate-vibid:4504028131706": 17,
+      "gas:candidate-vibid:4504028131245": 28,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 28,
+      "gas:candidate-vibid:4504028131878": 35,
+      "gas:candidate-vibid:4504028131458": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 44,
-      "Двойников Борис Георгиевич": 6,
-      "Королев Сергей Викторович": 11,
-      "Кудинов Сергей Владимирович": 18,
-      "Подмосковный Андрей Валентинович": 7,
-      "Султанов Фуад Фейзрахманович": 20,
-      "Тютькова Ирина Анатольевна": 18,
-      "Фетисов Вячеслав Александрович": 181
+      "gas:candidate-vibid:4504028131642": 44,
+      "gas:candidate-vibid:4504028131815": 6,
+      "gas:candidate-vibid:4504028131706": 11,
+      "gas:candidate-vibid:4504028131245": 18,
+      "gas:candidate-vibid:4504028131582": 7,
+      "gas:candidate-vibid:4504028131057": 20,
+      "gas:candidate-vibid:4504028131878": 18,
+      "gas:candidate-vibid:4504028131458": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 42,
-      "Двойников Борис Георгиевич": 13,
-      "Королев Сергей Викторович": 19,
-      "Кудинов Сергей Владимирович": 14,
-      "Подмосковный Андрей Валентинович": 5,
-      "Султанов Фуад Фейзрахманович": 53,
-      "Тютькова Ирина Анатольевна": 43,
-      "Фетисов Вячеслав Александрович": 268
+      "gas:candidate-vibid:4504028131642": 42,
+      "gas:candidate-vibid:4504028131815": 13,
+      "gas:candidate-vibid:4504028131706": 19,
+      "gas:candidate-vibid:4504028131245": 14,
+      "gas:candidate-vibid:4504028131582": 5,
+      "gas:candidate-vibid:4504028131057": 53,
+      "gas:candidate-vibid:4504028131878": 43,
+      "gas:candidate-vibid:4504028131458": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 48,
-      "Двойников Борис Георгиевич": 28,
-      "Королев Сергей Викторович": 14,
-      "Кудинов Сергей Владимирович": 31,
-      "Подмосковный Андрей Валентинович": 17,
-      "Султанов Фуад Фейзрахманович": 51,
-      "Тютькова Ирина Анатольевна": 90,
-      "Фетисов Вячеслав Александрович": 300
+      "gas:candidate-vibid:4504028131642": 48,
+      "gas:candidate-vibid:4504028131815": 28,
+      "gas:candidate-vibid:4504028131706": 14,
+      "gas:candidate-vibid:4504028131245": 31,
+      "gas:candidate-vibid:4504028131582": 17,
+      "gas:candidate-vibid:4504028131057": 51,
+      "gas:candidate-vibid:4504028131878": 90,
+      "gas:candidate-vibid:4504028131458": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 7,
-      "Двойников Борис Георгиевич": 2,
-      "Королев Сергей Викторович": 1,
-      "Кудинов Сергей Владимирович": 1,
-      "Подмосковный Андрей Валентинович": 1,
-      "Султанов Фуад Фейзрахманович": 4,
-      "Тютькова Ирина Анатольевна": 4,
-      "Фетисов Вячеслав Александрович": 64
+      "gas:candidate-vibid:4504028131642": 7,
+      "gas:candidate-vibid:4504028131815": 2,
+      "gas:candidate-vibid:4504028131706": 1,
+      "gas:candidate-vibid:4504028131245": 1,
+      "gas:candidate-vibid:4504028131582": 1,
+      "gas:candidate-vibid:4504028131057": 4,
+      "gas:candidate-vibid:4504028131878": 4,
+      "gas:candidate-vibid:4504028131458": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 8,
-      "Двойников Борис Георгиевич": 10,
-      "Королев Сергей Викторович": 3,
-      "Кудинов Сергей Владимирович": 5,
-      "Подмосковный Андрей Валентинович": 0,
-      "Султанов Фуад Фейзрахманович": 9,
-      "Тютькова Ирина Анатольевна": 6,
-      "Фетисов Вячеслав Александрович": 47
+      "gas:candidate-vibid:4504028131642": 8,
+      "gas:candidate-vibid:4504028131815": 10,
+      "gas:candidate-vibid:4504028131706": 3,
+      "gas:candidate-vibid:4504028131245": 5,
+      "gas:candidate-vibid:4504028131582": 0,
+      "gas:candidate-vibid:4504028131057": 9,
+      "gas:candidate-vibid:4504028131878": 6,
+      "gas:candidate-vibid:4504028131458": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 27,
-      "Двойников Борис Георгиевич": 27,
-      "Королев Сергей Викторович": 32,
-      "Кудинов Сергей Владимирович": 27,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 31,
-      "Тютькова Ирина Анатольевна": 29,
-      "Фетисов Вячеслав Александрович": 350
+      "gas:candidate-vibid:4504028131642": 27,
+      "gas:candidate-vibid:4504028131815": 27,
+      "gas:candidate-vibid:4504028131706": 32,
+      "gas:candidate-vibid:4504028131245": 27,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 31,
+      "gas:candidate-vibid:4504028131878": 29,
+      "gas:candidate-vibid:4504028131458": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 33,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 16,
-      "Кудинов Сергей Владимирович": 18,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 37,
-      "Тютькова Ирина Анатольевна": 32,
-      "Фетисов Вячеслав Александрович": 191
+      "gas:candidate-vibid:4504028131642": 33,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 16,
+      "gas:candidate-vibid:4504028131245": 18,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 37,
+      "gas:candidate-vibid:4504028131878": 32,
+      "gas:candidate-vibid:4504028131458": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 61,
-      "Двойников Борис Георгиевич": 42,
-      "Королев Сергей Викторович": 17,
-      "Кудинов Сергей Владимирович": 37,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 61,
-      "Тютькова Ирина Анатольевна": 41,
-      "Фетисов Вячеслав Александрович": 364
+      "gas:candidate-vibid:4504028131642": 61,
+      "gas:candidate-vibid:4504028131815": 42,
+      "gas:candidate-vibid:4504028131706": 17,
+      "gas:candidate-vibid:4504028131245": 37,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 61,
+      "gas:candidate-vibid:4504028131878": 41,
+      "gas:candidate-vibid:4504028131458": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 58,
-      "Двойников Борис Георгиевич": 40,
-      "Королев Сергей Викторович": 37,
-      "Кудинов Сергей Владимирович": 41,
-      "Подмосковный Андрей Валентинович": 13,
-      "Султанов Фуад Фейзрахманович": 60,
-      "Тютькова Ирина Анатольевна": 62,
-      "Фетисов Вячеслав Александрович": 438
+      "gas:candidate-vibid:4504028131642": 58,
+      "gas:candidate-vibid:4504028131815": 40,
+      "gas:candidate-vibid:4504028131706": 37,
+      "gas:candidate-vibid:4504028131245": 41,
+      "gas:candidate-vibid:4504028131582": 13,
+      "gas:candidate-vibid:4504028131057": 60,
+      "gas:candidate-vibid:4504028131878": 62,
+      "gas:candidate-vibid:4504028131458": 438
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 51,
-      "Двойников Борис Георгиевич": 20,
-      "Королев Сергей Викторович": 29,
-      "Кудинов Сергей Владимирович": 21,
-      "Подмосковный Андрей Валентинович": 13,
-      "Султанов Фуад Фейзрахманович": 56,
-      "Тютькова Ирина Анатольевна": 55,
-      "Фетисов Вячеслав Александрович": 614
+      "gas:candidate-vibid:4504028131642": 51,
+      "gas:candidate-vibid:4504028131815": 20,
+      "gas:candidate-vibid:4504028131706": 29,
+      "gas:candidate-vibid:4504028131245": 21,
+      "gas:candidate-vibid:4504028131582": 13,
+      "gas:candidate-vibid:4504028131057": 56,
+      "gas:candidate-vibid:4504028131878": 55,
+      "gas:candidate-vibid:4504028131458": 614
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 26,
-      "Двойников Борис Георгиевич": 16,
-      "Королев Сергей Викторович": 17,
-      "Кудинов Сергей Владимирович": 12,
-      "Подмосковный Андрей Валентинович": 0,
-      "Султанов Фуад Фейзрахманович": 26,
-      "Тютькова Ирина Анатольевна": 9,
-      "Фетисов Вячеслав Александрович": 389
+      "gas:candidate-vibid:4504028131642": 26,
+      "gas:candidate-vibid:4504028131815": 16,
+      "gas:candidate-vibid:4504028131706": 17,
+      "gas:candidate-vibid:4504028131245": 12,
+      "gas:candidate-vibid:4504028131582": 0,
+      "gas:candidate-vibid:4504028131057": 26,
+      "gas:candidate-vibid:4504028131878": 9,
+      "gas:candidate-vibid:4504028131458": 389
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 30,
-      "Двойников Борис Георгиевич": 27,
-      "Королев Сергей Викторович": 28,
-      "Кудинов Сергей Владимирович": 29,
-      "Подмосковный Андрей Валентинович": 13,
-      "Султанов Фуад Фейзрахманович": 117,
-      "Тютькова Ирина Анатольевна": 65,
-      "Фетисов Вячеслав Александрович": 294
+      "gas:candidate-vibid:4504028131642": 30,
+      "gas:candidate-vibid:4504028131815": 27,
+      "gas:candidate-vibid:4504028131706": 28,
+      "gas:candidate-vibid:4504028131245": 29,
+      "gas:candidate-vibid:4504028131582": 13,
+      "gas:candidate-vibid:4504028131057": 117,
+      "gas:candidate-vibid:4504028131878": 65,
+      "gas:candidate-vibid:4504028131458": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 13,
-      "Двойников Борис Георгиевич": 8,
-      "Королев Сергей Викторович": 4,
-      "Кудинов Сергей Владимирович": 8,
-      "Подмосковный Андрей Валентинович": 2,
-      "Султанов Фуад Фейзрахманович": 21,
-      "Тютькова Ирина Анатольевна": 24,
-      "Фетисов Вячеслав Александрович": 101
+      "gas:candidate-vibid:4504028131642": 13,
+      "gas:candidate-vibid:4504028131815": 8,
+      "gas:candidate-vibid:4504028131706": 4,
+      "gas:candidate-vibid:4504028131245": 8,
+      "gas:candidate-vibid:4504028131582": 2,
+      "gas:candidate-vibid:4504028131057": 21,
+      "gas:candidate-vibid:4504028131878": 24,
+      "gas:candidate-vibid:4504028131458": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 43,
-      "Двойников Борис Георгиевич": 33,
-      "Королев Сергей Викторович": 24,
-      "Кудинов Сергей Владимирович": 11,
-      "Подмосковный Андрей Валентинович": 11,
-      "Султанов Фуад Фейзрахманович": 46,
-      "Тютькова Ирина Анатольевна": 69,
-      "Фетисов Вячеслав Александрович": 404
+      "gas:candidate-vibid:4504028131642": 43,
+      "gas:candidate-vibid:4504028131815": 33,
+      "gas:candidate-vibid:4504028131706": 24,
+      "gas:candidate-vibid:4504028131245": 11,
+      "gas:candidate-vibid:4504028131582": 11,
+      "gas:candidate-vibid:4504028131057": 46,
+      "gas:candidate-vibid:4504028131878": 69,
+      "gas:candidate-vibid:4504028131458": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 66,
-      "Двойников Борис Георгиевич": 30,
-      "Королев Сергей Викторович": 53,
-      "Кудинов Сергей Владимирович": 50,
-      "Подмосковный Андрей Валентинович": 24,
-      "Султанов Фуад Фейзрахманович": 85,
-      "Тютькова Ирина Анатольевна": 51,
-      "Фетисов Вячеслав Александрович": 1161
+      "gas:candidate-vibid:4504028131642": 66,
+      "gas:candidate-vibid:4504028131815": 30,
+      "gas:candidate-vibid:4504028131706": 53,
+      "gas:candidate-vibid:4504028131245": 50,
+      "gas:candidate-vibid:4504028131582": 24,
+      "gas:candidate-vibid:4504028131057": 85,
+      "gas:candidate-vibid:4504028131878": 51,
+      "gas:candidate-vibid:4504028131458": 1161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 15,
-      "Двойников Борис Георгиевич": 12,
-      "Королев Сергей Викторович": 7,
-      "Кудинов Сергей Владимирович": 8,
-      "Подмосковный Андрей Валентинович": 2,
-      "Султанов Фуад Фейзрахманович": 20,
-      "Тютькова Ирина Анатольевна": 13,
-      "Фетисов Вячеслав Александрович": 99
+      "gas:candidate-vibid:4504028131642": 15,
+      "gas:candidate-vibid:4504028131815": 12,
+      "gas:candidate-vibid:4504028131706": 7,
+      "gas:candidate-vibid:4504028131245": 8,
+      "gas:candidate-vibid:4504028131582": 2,
+      "gas:candidate-vibid:4504028131057": 20,
+      "gas:candidate-vibid:4504028131878": 13,
+      "gas:candidate-vibid:4504028131458": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 9,
-      "Двойников Борис Георгиевич": 4,
-      "Королев Сергей Викторович": 4,
-      "Кудинов Сергей Владимирович": 1,
-      "Подмосковный Андрей Валентинович": 4,
-      "Султанов Фуад Фейзрахманович": 12,
-      "Тютькова Ирина Анатольевна": 9,
-      "Фетисов Вячеслав Александрович": 65
+      "gas:candidate-vibid:4504028131642": 9,
+      "gas:candidate-vibid:4504028131815": 4,
+      "gas:candidate-vibid:4504028131706": 4,
+      "gas:candidate-vibid:4504028131245": 1,
+      "gas:candidate-vibid:4504028131582": 4,
+      "gas:candidate-vibid:4504028131057": 12,
+      "gas:candidate-vibid:4504028131878": 9,
+      "gas:candidate-vibid:4504028131458": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 1,
-      "Двойников Борис Георгиевич": 1,
-      "Королев Сергей Викторович": 3,
-      "Кудинов Сергей Владимирович": 1,
-      "Подмосковный Андрей Валентинович": 0,
-      "Султанов Фуад Фейзрахманович": 2,
-      "Тютькова Ирина Анатольевна": 6,
-      "Фетисов Вячеслав Александрович": 13
+      "gas:candidate-vibid:4504028131642": 1,
+      "gas:candidate-vibid:4504028131815": 1,
+      "gas:candidate-vibid:4504028131706": 3,
+      "gas:candidate-vibid:4504028131245": 1,
+      "gas:candidate-vibid:4504028131582": 0,
+      "gas:candidate-vibid:4504028131057": 2,
+      "gas:candidate-vibid:4504028131878": 6,
+      "gas:candidate-vibid:4504028131458": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гунько Александр Вилинович": 60,
-      "Двойников Борис Георгиевич": 31,
-      "Королев Сергей Викторович": 48,
-      "Кудинов Сергей Владимирович": 40,
-      "Подмосковный Андрей Валентинович": 9,
-      "Султанов Фуад Фейзрахманович": 124,
-      "Тютькова Ирина Анатольевна": 62,
-      "Фетисов Вячеслав Александрович": 435
+      "gas:candidate-vibid:4504028131642": 60,
+      "gas:candidate-vibid:4504028131815": 31,
+      "gas:candidate-vibid:4504028131706": 48,
+      "gas:candidate-vibid:4504028131245": 40,
+      "gas:candidate-vibid:4504028131582": 9,
+      "gas:candidate-vibid:4504028131057": 124,
+      "gas:candidate-vibid:4504028131878": 62,
+      "gas:candidate-vibid:4504028131458": 435
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000163&tvd=25020002005570&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005570&type=464",
@@ -8917,16 +8917,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 8,
-      "Болдырева Ольга Викторовна": 21,
-      "Горовец Татьяна Ивановна": 16,
-      "Ковтун Вячеслав Анатольевич": 24,
-      "Крыжов Сергей Борисович": 47,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 427,
-      "Петров Иван Евгеньевич": 26,
-      "Преображенская Анастасия Викторовна": 39,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 8,
+      "gas:candidate-vibid:4504048296629": 21,
+      "gas:candidate-vibid:4504048296653": 16,
+      "gas:candidate-vibid:4504048296774": 24,
+      "gas:candidate-vibid:4504048296871": 47,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 427,
+      "gas:candidate-vibid:4504048296409": 26,
+      "gas:candidate-vibid:4504048296549": 39,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -8977,16 +8977,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 31,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 28,
-      "Крыжов Сергей Борисович": 46,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 609,
-      "Петров Иван Евгеньевич": 46,
-      "Преображенская Анастасия Викторовна": 59,
-      "Шальнев Андрей Сергеевич": 12
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 31,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 28,
+      "gas:candidate-vibid:4504048296871": 46,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 609,
+      "gas:candidate-vibid:4504048296409": 46,
+      "gas:candidate-vibid:4504048296549": 59,
+      "gas:candidate-vibid:4504048296435": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9037,16 +9037,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 33,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 35,
-      "Крыжов Сергей Борисович": 43,
-      "Кубарев Валерий Викторович": 9,
-      "Пахомов Сергей Александрович": 257,
-      "Петров Иван Евгеньевич": 47,
-      "Преображенская Анастасия Викторовна": 62,
-      "Шальнев Андрей Сергеевич": 18
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 33,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 35,
+      "gas:candidate-vibid:4504048296871": 43,
+      "gas:candidate-vibid:4504048296677": 9,
+      "gas:candidate-vibid:4504048296718": 257,
+      "gas:candidate-vibid:4504048296409": 47,
+      "gas:candidate-vibid:4504048296549": 62,
+      "gas:candidate-vibid:4504048296435": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9097,16 +9097,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 12,
-      "Болдырева Ольга Викторовна": 23,
-      "Горовец Татьяна Ивановна": 6,
-      "Ковтун Вячеслав Анатольевич": 31,
-      "Крыжов Сергей Борисович": 49,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 473,
-      "Петров Иван Евгеньевич": 35,
-      "Преображенская Анастасия Викторовна": 54,
-      "Шальнев Андрей Сергеевич": 19
+      "gas:candidate-vibid:4504048296992": 12,
+      "gas:candidate-vibid:4504048296629": 23,
+      "gas:candidate-vibid:4504048296653": 6,
+      "gas:candidate-vibid:4504048296774": 31,
+      "gas:candidate-vibid:4504048296871": 49,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 473,
+      "gas:candidate-vibid:4504048296409": 35,
+      "gas:candidate-vibid:4504048296549": 54,
+      "gas:candidate-vibid:4504048296435": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9157,16 +9157,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 13,
-      "Болдырева Ольга Викторовна": 30,
-      "Горовец Татьяна Ивановна": 18,
-      "Ковтун Вячеслав Анатольевич": 18,
-      "Крыжов Сергей Борисович": 28,
-      "Кубарев Валерий Викторович": 9,
-      "Пахомов Сергей Александрович": 396,
-      "Петров Иван Евгеньевич": 31,
-      "Преображенская Анастасия Викторовна": 60,
-      "Шальнев Андрей Сергеевич": 6
+      "gas:candidate-vibid:4504048296992": 13,
+      "gas:candidate-vibid:4504048296629": 30,
+      "gas:candidate-vibid:4504048296653": 18,
+      "gas:candidate-vibid:4504048296774": 18,
+      "gas:candidate-vibid:4504048296871": 28,
+      "gas:candidate-vibid:4504048296677": 9,
+      "gas:candidate-vibid:4504048296718": 396,
+      "gas:candidate-vibid:4504048296409": 31,
+      "gas:candidate-vibid:4504048296549": 60,
+      "gas:candidate-vibid:4504048296435": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9217,16 +9217,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 29,
-      "Горовец Татьяна Ивановна": 17,
-      "Ковтун Вячеслав Анатольевич": 21,
-      "Крыжов Сергей Борисович": 45,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 601,
-      "Петров Иван Евгеньевич": 10,
-      "Преображенская Анастасия Викторовна": 45,
-      "Шальнев Андрей Сергеевич": 13
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 29,
+      "gas:candidate-vibid:4504048296653": 17,
+      "gas:candidate-vibid:4504048296774": 21,
+      "gas:candidate-vibid:4504048296871": 45,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 601,
+      "gas:candidate-vibid:4504048296409": 10,
+      "gas:candidate-vibid:4504048296549": 45,
+      "gas:candidate-vibid:4504048296435": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9277,16 +9277,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 11,
-      "Болдырева Ольга Викторовна": 25,
-      "Горовец Татьяна Ивановна": 30,
-      "Ковтун Вячеслав Анатольевич": 22,
-      "Крыжов Сергей Борисович": 39,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 461,
-      "Петров Иван Евгеньевич": 58,
-      "Преображенская Анастасия Викторовна": 50,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 11,
+      "gas:candidate-vibid:4504048296629": 25,
+      "gas:candidate-vibid:4504048296653": 30,
+      "gas:candidate-vibid:4504048296774": 22,
+      "gas:candidate-vibid:4504048296871": 39,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 461,
+      "gas:candidate-vibid:4504048296409": 58,
+      "gas:candidate-vibid:4504048296549": 50,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9337,16 +9337,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 32,
-      "Горовец Татьяна Ивановна": 13,
-      "Ковтун Вячеслав Анатольевич": 36,
-      "Крыжов Сергей Борисович": 32,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 386,
-      "Петров Иван Евгеньевич": 30,
-      "Преображенская Анастасия Викторовна": 57,
-      "Шальнев Андрей Сергеевич": 8
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 32,
+      "gas:candidate-vibid:4504048296653": 13,
+      "gas:candidate-vibid:4504048296774": 36,
+      "gas:candidate-vibid:4504048296871": 32,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 386,
+      "gas:candidate-vibid:4504048296409": 30,
+      "gas:candidate-vibid:4504048296549": 57,
+      "gas:candidate-vibid:4504048296435": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9397,16 +9397,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 25,
-      "Горовец Татьяна Ивановна": 18,
-      "Ковтун Вячеслав Анатольевич": 30,
-      "Крыжов Сергей Борисович": 35,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 266,
-      "Петров Иван Евгеньевич": 49,
-      "Преображенская Анастасия Викторовна": 70,
-      "Шальнев Андрей Сергеевич": 16
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 25,
+      "gas:candidate-vibid:4504048296653": 18,
+      "gas:candidate-vibid:4504048296774": 30,
+      "gas:candidate-vibid:4504048296871": 35,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 266,
+      "gas:candidate-vibid:4504048296409": 49,
+      "gas:candidate-vibid:4504048296549": 70,
+      "gas:candidate-vibid:4504048296435": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9457,16 +9457,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 4,
-      "Болдырева Ольга Викторовна": 20,
-      "Горовец Татьяна Ивановна": 7,
-      "Ковтун Вячеслав Анатольевич": 18,
-      "Крыжов Сергей Борисович": 9,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 152,
-      "Петров Иван Евгеньевич": 18,
-      "Преображенская Анастасия Викторовна": 44,
-      "Шальнев Андрей Сергеевич": 16
+      "gas:candidate-vibid:4504048296992": 4,
+      "gas:candidate-vibid:4504048296629": 20,
+      "gas:candidate-vibid:4504048296653": 7,
+      "gas:candidate-vibid:4504048296774": 18,
+      "gas:candidate-vibid:4504048296871": 9,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 152,
+      "gas:candidate-vibid:4504048296409": 18,
+      "gas:candidate-vibid:4504048296549": 44,
+      "gas:candidate-vibid:4504048296435": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9517,16 +9517,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 13,
-      "Горовец Татьяна Ивановна": 9,
-      "Ковтун Вячеслав Анатольевич": 11,
-      "Крыжов Сергей Борисович": 15,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 139,
-      "Петров Иван Евгеньевич": 16,
-      "Преображенская Анастасия Викторовна": 28,
-      "Шальнев Андрей Сергеевич": 7
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 13,
+      "gas:candidate-vibid:4504048296653": 9,
+      "gas:candidate-vibid:4504048296774": 11,
+      "gas:candidate-vibid:4504048296871": 15,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 139,
+      "gas:candidate-vibid:4504048296409": 16,
+      "gas:candidate-vibid:4504048296549": 28,
+      "gas:candidate-vibid:4504048296435": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9577,16 +9577,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 0,
-      "Болдырева Ольга Викторовна": 6,
-      "Горовец Татьяна Ивановна": 3,
-      "Ковтун Вячеслав Анатольевич": 9,
-      "Крыжов Сергей Борисович": 17,
-      "Кубарев Валерий Викторович": 0,
-      "Пахомов Сергей Александрович": 60,
-      "Петров Иван Евгеньевич": 12,
-      "Преображенская Анастасия Викторовна": 13,
-      "Шальнев Андрей Сергеевич": 4
+      "gas:candidate-vibid:4504048296992": 0,
+      "gas:candidate-vibid:4504048296629": 6,
+      "gas:candidate-vibid:4504048296653": 3,
+      "gas:candidate-vibid:4504048296774": 9,
+      "gas:candidate-vibid:4504048296871": 17,
+      "gas:candidate-vibid:4504048296677": 0,
+      "gas:candidate-vibid:4504048296718": 60,
+      "gas:candidate-vibid:4504048296409": 12,
+      "gas:candidate-vibid:4504048296549": 13,
+      "gas:candidate-vibid:4504048296435": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9637,16 +9637,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 2,
-      "Болдырева Ольга Викторовна": 17,
-      "Горовец Татьяна Ивановна": 17,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 25,
-      "Кубарев Валерий Викторович": 3,
-      "Пахомов Сергей Александрович": 213,
-      "Петров Иван Евгеньевич": 24,
-      "Преображенская Анастасия Викторовна": 39,
-      "Шальнев Андрей Сергеевич": 16
+      "gas:candidate-vibid:4504048296992": 2,
+      "gas:candidate-vibid:4504048296629": 17,
+      "gas:candidate-vibid:4504048296653": 17,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 25,
+      "gas:candidate-vibid:4504048296677": 3,
+      "gas:candidate-vibid:4504048296718": 213,
+      "gas:candidate-vibid:4504048296409": 24,
+      "gas:candidate-vibid:4504048296549": 39,
+      "gas:candidate-vibid:4504048296435": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9697,16 +9697,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 8,
-      "Болдырева Ольга Викторовна": 29,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 34,
-      "Крыжов Сергей Борисович": 61,
-      "Кубарев Валерий Викторович": 14,
-      "Пахомов Сергей Александрович": 325,
-      "Петров Иван Евгеньевич": 31,
-      "Преображенская Анастасия Викторовна": 52,
-      "Шальнев Андрей Сергеевич": 10
+      "gas:candidate-vibid:4504048296992": 8,
+      "gas:candidate-vibid:4504048296629": 29,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 34,
+      "gas:candidate-vibid:4504048296871": 61,
+      "gas:candidate-vibid:4504048296677": 14,
+      "gas:candidate-vibid:4504048296718": 325,
+      "gas:candidate-vibid:4504048296409": 31,
+      "gas:candidate-vibid:4504048296549": 52,
+      "gas:candidate-vibid:4504048296435": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9757,16 +9757,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 5,
-      "Болдырева Ольга Викторовна": 18,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 20,
-      "Крыжов Сергей Борисович": 35,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 414,
-      "Петров Иван Евгеньевич": 9,
-      "Преображенская Анастасия Викторовна": 46,
-      "Шальнев Андрей Сергеевич": 24
+      "gas:candidate-vibid:4504048296992": 5,
+      "gas:candidate-vibid:4504048296629": 18,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 20,
+      "gas:candidate-vibid:4504048296871": 35,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 414,
+      "gas:candidate-vibid:4504048296409": 9,
+      "gas:candidate-vibid:4504048296549": 46,
+      "gas:candidate-vibid:4504048296435": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9817,16 +9817,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 27,
-      "Болдырева Ольга Викторовна": 47,
-      "Горовец Татьяна Ивановна": 41,
-      "Ковтун Вячеслав Анатольевич": 55,
-      "Крыжов Сергей Борисович": 89,
-      "Кубарев Валерий Викторович": 14,
-      "Пахомов Сергей Александрович": 423,
-      "Петров Иван Евгеньевич": 75,
-      "Преображенская Анастасия Викторовна": 127,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 27,
+      "gas:candidate-vibid:4504048296629": 47,
+      "gas:candidate-vibid:4504048296653": 41,
+      "gas:candidate-vibid:4504048296774": 55,
+      "gas:candidate-vibid:4504048296871": 89,
+      "gas:candidate-vibid:4504048296677": 14,
+      "gas:candidate-vibid:4504048296718": 423,
+      "gas:candidate-vibid:4504048296409": 75,
+      "gas:candidate-vibid:4504048296549": 127,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9877,16 +9877,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 22,
-      "Болдырева Ольга Викторовна": 54,
-      "Горовец Татьяна Ивановна": 42,
-      "Ковтун Вячеслав Анатольевич": 69,
-      "Крыжов Сергей Борисович": 117,
-      "Кубарев Валерий Викторович": 30,
-      "Пахомов Сергей Александрович": 469,
-      "Петров Иван Евгеньевич": 74,
-      "Преображенская Анастасия Викторовна": 136,
-      "Шальнев Андрей Сергеевич": 28
+      "gas:candidate-vibid:4504048296992": 22,
+      "gas:candidate-vibid:4504048296629": 54,
+      "gas:candidate-vibid:4504048296653": 42,
+      "gas:candidate-vibid:4504048296774": 69,
+      "gas:candidate-vibid:4504048296871": 117,
+      "gas:candidate-vibid:4504048296677": 30,
+      "gas:candidate-vibid:4504048296718": 469,
+      "gas:candidate-vibid:4504048296409": 74,
+      "gas:candidate-vibid:4504048296549": 136,
+      "gas:candidate-vibid:4504048296435": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9937,16 +9937,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 42,
-      "Горовец Татьяна Ивановна": 37,
-      "Ковтун Вячеслав Анатольевич": 41,
-      "Крыжов Сергей Борисович": 105,
-      "Кубарев Валерий Викторович": 12,
-      "Пахомов Сергей Александрович": 390,
-      "Петров Иван Евгеньевич": 48,
-      "Преображенская Анастасия Викторовна": 101,
-      "Шальнев Андрей Сергеевич": 11
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 42,
+      "gas:candidate-vibid:4504048296653": 37,
+      "gas:candidate-vibid:4504048296774": 41,
+      "gas:candidate-vibid:4504048296871": 105,
+      "gas:candidate-vibid:4504048296677": 12,
+      "gas:candidate-vibid:4504048296718": 390,
+      "gas:candidate-vibid:4504048296409": 48,
+      "gas:candidate-vibid:4504048296549": 101,
+      "gas:candidate-vibid:4504048296435": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -9997,16 +9997,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 13,
-      "Болдырева Ольга Викторовна": 45,
-      "Горовец Татьяна Ивановна": 39,
-      "Ковтун Вячеслав Анатольевич": 40,
-      "Крыжов Сергей Борисович": 53,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 451,
-      "Петров Иван Евгеньевич": 61,
-      "Преображенская Анастасия Викторовна": 108,
-      "Шальнев Андрей Сергеевич": 21
+      "gas:candidate-vibid:4504048296992": 13,
+      "gas:candidate-vibid:4504048296629": 45,
+      "gas:candidate-vibid:4504048296653": 39,
+      "gas:candidate-vibid:4504048296774": 40,
+      "gas:candidate-vibid:4504048296871": 53,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 451,
+      "gas:candidate-vibid:4504048296409": 61,
+      "gas:candidate-vibid:4504048296549": 108,
+      "gas:candidate-vibid:4504048296435": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10057,16 +10057,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 13,
-      "Горовец Татьяна Ивановна": 32,
-      "Ковтун Вячеслав Анатольевич": 31,
-      "Крыжов Сергей Борисович": 40,
-      "Кубарев Валерий Викторович": 9,
-      "Пахомов Сергей Александрович": 208,
-      "Петров Иван Евгеньевич": 20,
-      "Преображенская Анастасия Викторовна": 70,
-      "Шальнев Андрей Сергеевич": 10
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 13,
+      "gas:candidate-vibid:4504048296653": 32,
+      "gas:candidate-vibid:4504048296774": 31,
+      "gas:candidate-vibid:4504048296871": 40,
+      "gas:candidate-vibid:4504048296677": 9,
+      "gas:candidate-vibid:4504048296718": 208,
+      "gas:candidate-vibid:4504048296409": 20,
+      "gas:candidate-vibid:4504048296549": 70,
+      "gas:candidate-vibid:4504048296435": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10117,16 +10117,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 23,
-      "Горовец Татьяна Ивановна": 21,
-      "Ковтун Вячеслав Анатольевич": 28,
-      "Крыжов Сергей Борисович": 37,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 265,
-      "Петров Иван Евгеньевич": 29,
-      "Преображенская Анастасия Викторовна": 48,
-      "Шальнев Андрей Сергеевич": 21
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 23,
+      "gas:candidate-vibid:4504048296653": 21,
+      "gas:candidate-vibid:4504048296774": 28,
+      "gas:candidate-vibid:4504048296871": 37,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 265,
+      "gas:candidate-vibid:4504048296409": 29,
+      "gas:candidate-vibid:4504048296549": 48,
+      "gas:candidate-vibid:4504048296435": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10177,16 +10177,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 5,
-      "Болдырева Ольга Викторовна": 17,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 14,
-      "Крыжов Сергей Борисович": 32,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 187,
-      "Петров Иван Евгеньевич": 34,
-      "Преображенская Анастасия Викторовна": 44,
-      "Шальнев Андрей Сергеевич": 6
+      "gas:candidate-vibid:4504048296992": 5,
+      "gas:candidate-vibid:4504048296629": 17,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 14,
+      "gas:candidate-vibid:4504048296871": 32,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 187,
+      "gas:candidate-vibid:4504048296409": 34,
+      "gas:candidate-vibid:4504048296549": 44,
+      "gas:candidate-vibid:4504048296435": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10237,16 +10237,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 19,
-      "Горовец Татьяна Ивановна": 9,
-      "Ковтун Вячеслав Анатольевич": 15,
-      "Крыжов Сергей Борисович": 21,
-      "Кубарев Валерий Викторович": 1,
-      "Пахомов Сергей Александрович": 130,
-      "Петров Иван Евгеньевич": 16,
-      "Преображенская Анастасия Викторовна": 25,
-      "Шальнев Андрей Сергеевич": 7
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 19,
+      "gas:candidate-vibid:4504048296653": 9,
+      "gas:candidate-vibid:4504048296774": 15,
+      "gas:candidate-vibid:4504048296871": 21,
+      "gas:candidate-vibid:4504048296677": 1,
+      "gas:candidate-vibid:4504048296718": 130,
+      "gas:candidate-vibid:4504048296409": 16,
+      "gas:candidate-vibid:4504048296549": 25,
+      "gas:candidate-vibid:4504048296435": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10297,16 +10297,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 8,
-      "Горовец Татьяна Ивановна": 5,
-      "Ковтун Вячеслав Анатольевич": 10,
-      "Крыжов Сергей Борисович": 9,
-      "Кубарев Валерий Викторович": 3,
-      "Пахомов Сергей Александрович": 106,
-      "Петров Иван Евгеньевич": 19,
-      "Преображенская Анастасия Викторовна": 21,
-      "Шальнев Андрей Сергеевич": 2
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 8,
+      "gas:candidate-vibid:4504048296653": 5,
+      "gas:candidate-vibid:4504048296774": 10,
+      "gas:candidate-vibid:4504048296871": 9,
+      "gas:candidate-vibid:4504048296677": 3,
+      "gas:candidate-vibid:4504048296718": 106,
+      "gas:candidate-vibid:4504048296409": 19,
+      "gas:candidate-vibid:4504048296549": 21,
+      "gas:candidate-vibid:4504048296435": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10357,16 +10357,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 8,
-      "Горовец Татьяна Ивановна": 18,
-      "Ковтун Вячеслав Анатольевич": 31,
-      "Крыжов Сергей Борисович": 42,
-      "Кубарев Валерий Викторович": 9,
-      "Пахомов Сергей Александрович": 258,
-      "Петров Иван Евгеньевич": 14,
-      "Преображенская Анастасия Викторовна": 44,
-      "Шальнев Андрей Сергеевич": 10
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 8,
+      "gas:candidate-vibid:4504048296653": 18,
+      "gas:candidate-vibid:4504048296774": 31,
+      "gas:candidate-vibid:4504048296871": 42,
+      "gas:candidate-vibid:4504048296677": 9,
+      "gas:candidate-vibid:4504048296718": 258,
+      "gas:candidate-vibid:4504048296409": 14,
+      "gas:candidate-vibid:4504048296549": 44,
+      "gas:candidate-vibid:4504048296435": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10417,16 +10417,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 32,
-      "Горовец Татьяна Ивановна": 23,
-      "Ковтун Вячеслав Анатольевич": 45,
-      "Крыжов Сергей Борисович": 32,
-      "Кубарев Валерий Викторович": 12,
-      "Пахомов Сергей Александрович": 334,
-      "Петров Иван Евгеньевич": 39,
-      "Преображенская Анастасия Викторовна": 72,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 32,
+      "gas:candidate-vibid:4504048296653": 23,
+      "gas:candidate-vibid:4504048296774": 45,
+      "gas:candidate-vibid:4504048296871": 32,
+      "gas:candidate-vibid:4504048296677": 12,
+      "gas:candidate-vibid:4504048296718": 334,
+      "gas:candidate-vibid:4504048296409": 39,
+      "gas:candidate-vibid:4504048296549": 72,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10477,16 +10477,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 35,
-      "Горовец Татьяна Ивановна": 16,
-      "Ковтун Вячеслав Анатольевич": 45,
-      "Крыжов Сергей Борисович": 60,
-      "Кубарев Валерий Викторович": 14,
-      "Пахомов Сергей Александрович": 322,
-      "Петров Иван Евгеньевич": 44,
-      "Преображенская Анастасия Викторовна": 75,
-      "Шальнев Андрей Сергеевич": 16
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 35,
+      "gas:candidate-vibid:4504048296653": 16,
+      "gas:candidate-vibid:4504048296774": 45,
+      "gas:candidate-vibid:4504048296871": 60,
+      "gas:candidate-vibid:4504048296677": 14,
+      "gas:candidate-vibid:4504048296718": 322,
+      "gas:candidate-vibid:4504048296409": 44,
+      "gas:candidate-vibid:4504048296549": 75,
+      "gas:candidate-vibid:4504048296435": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10537,16 +10537,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 8,
-      "Болдырева Ольга Викторовна": 34,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 33,
-      "Крыжов Сергей Борисович": 47,
-      "Кубарев Валерий Викторович": 10,
-      "Пахомов Сергей Александрович": 369,
-      "Петров Иван Евгеньевич": 48,
-      "Преображенская Анастасия Викторовна": 78,
-      "Шальнев Андрей Сергеевич": 25
+      "gas:candidate-vibid:4504048296992": 8,
+      "gas:candidate-vibid:4504048296629": 34,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 33,
+      "gas:candidate-vibid:4504048296871": 47,
+      "gas:candidate-vibid:4504048296677": 10,
+      "gas:candidate-vibid:4504048296718": 369,
+      "gas:candidate-vibid:4504048296409": 48,
+      "gas:candidate-vibid:4504048296549": 78,
+      "gas:candidate-vibid:4504048296435": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10597,16 +10597,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 28,
-      "Горовец Татьяна Ивановна": 21,
-      "Ковтун Вячеслав Анатольевич": 31,
-      "Крыжов Сергей Борисович": 21,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 247,
-      "Петров Иван Евгеньевич": 38,
-      "Преображенская Анастасия Викторовна": 49,
-      "Шальнев Андрей Сергеевич": 20
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 28,
+      "gas:candidate-vibid:4504048296653": 21,
+      "gas:candidate-vibid:4504048296774": 31,
+      "gas:candidate-vibid:4504048296871": 21,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 247,
+      "gas:candidate-vibid:4504048296409": 38,
+      "gas:candidate-vibid:4504048296549": 49,
+      "gas:candidate-vibid:4504048296435": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10657,16 +10657,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 23,
-      "Горовец Татьяна Ивановна": 6,
-      "Ковтун Вячеслав Анатольевич": 31,
-      "Крыжов Сергей Борисович": 24,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 212,
-      "Петров Иван Евгеньевич": 30,
-      "Преображенская Анастасия Викторовна": 47,
-      "Шальнев Андрей Сергеевич": 24
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 23,
+      "gas:candidate-vibid:4504048296653": 6,
+      "gas:candidate-vibid:4504048296774": 31,
+      "gas:candidate-vibid:4504048296871": 24,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 212,
+      "gas:candidate-vibid:4504048296409": 30,
+      "gas:candidate-vibid:4504048296549": 47,
+      "gas:candidate-vibid:4504048296435": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10717,16 +10717,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 5,
-      "Болдырева Ольга Викторовна": 34,
-      "Горовец Татьяна Ивановна": 11,
-      "Ковтун Вячеслав Анатольевич": 41,
-      "Крыжов Сергей Борисович": 47,
-      "Кубарев Валерий Викторович": 9,
-      "Пахомов Сергей Александрович": 260,
-      "Петров Иван Евгеньевич": 57,
-      "Преображенская Анастасия Викторовна": 53,
-      "Шальнев Андрей Сергеевич": 16
+      "gas:candidate-vibid:4504048296992": 5,
+      "gas:candidate-vibid:4504048296629": 34,
+      "gas:candidate-vibid:4504048296653": 11,
+      "gas:candidate-vibid:4504048296774": 41,
+      "gas:candidate-vibid:4504048296871": 47,
+      "gas:candidate-vibid:4504048296677": 9,
+      "gas:candidate-vibid:4504048296718": 260,
+      "gas:candidate-vibid:4504048296409": 57,
+      "gas:candidate-vibid:4504048296549": 53,
+      "gas:candidate-vibid:4504048296435": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10777,16 +10777,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 5,
-      "Болдырева Ольга Викторовна": 12,
-      "Горовец Татьяна Ивановна": 6,
-      "Ковтун Вячеслав Анатольевич": 22,
-      "Крыжов Сергей Борисович": 18,
-      "Кубарев Валерий Викторович": 0,
-      "Пахомов Сергей Александрович": 339,
-      "Петров Иван Евгеньевич": 31,
-      "Преображенская Анастасия Викторовна": 38,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 5,
+      "gas:candidate-vibid:4504048296629": 12,
+      "gas:candidate-vibid:4504048296653": 6,
+      "gas:candidate-vibid:4504048296774": 22,
+      "gas:candidate-vibid:4504048296871": 18,
+      "gas:candidate-vibid:4504048296677": 0,
+      "gas:candidate-vibid:4504048296718": 339,
+      "gas:candidate-vibid:4504048296409": 31,
+      "gas:candidate-vibid:4504048296549": 38,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10837,16 +10837,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 13,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 31,
-      "Крыжов Сергей Борисович": 28,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 214,
-      "Петров Иван Евгеньевич": 26,
-      "Преображенская Анастасия Викторовна": 51,
-      "Шальнев Андрей Сергеевич": 12
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 13,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 31,
+      "gas:candidate-vibid:4504048296871": 28,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 214,
+      "gas:candidate-vibid:4504048296409": 26,
+      "gas:candidate-vibid:4504048296549": 51,
+      "gas:candidate-vibid:4504048296435": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10897,16 +10897,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 2,
-      "Болдырева Ольга Викторовна": 5,
-      "Горовец Татьяна Ивановна": 3,
-      "Ковтун Вячеслав Анатольевич": 8,
-      "Крыжов Сергей Борисович": 5,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 43,
-      "Петров Иван Евгеньевич": 12,
-      "Преображенская Анастасия Викторовна": 11,
-      "Шальнев Андрей Сергеевич": 2
+      "gas:candidate-vibid:4504048296992": 2,
+      "gas:candidate-vibid:4504048296629": 5,
+      "gas:candidate-vibid:4504048296653": 3,
+      "gas:candidate-vibid:4504048296774": 8,
+      "gas:candidate-vibid:4504048296871": 5,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 43,
+      "gas:candidate-vibid:4504048296409": 12,
+      "gas:candidate-vibid:4504048296549": 11,
+      "gas:candidate-vibid:4504048296435": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -10957,16 +10957,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 18,
-      "Болдырева Ольга Викторовна": 44,
-      "Горовец Татьяна Ивановна": 19,
-      "Ковтун Вячеслав Анатольевич": 34,
-      "Крыжов Сергей Борисович": 27,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 350,
-      "Петров Иван Евгеньевич": 50,
-      "Преображенская Анастасия Викторовна": 78,
-      "Шальнев Андрей Сергеевич": 7
+      "gas:candidate-vibid:4504048296992": 18,
+      "gas:candidate-vibid:4504048296629": 44,
+      "gas:candidate-vibid:4504048296653": 19,
+      "gas:candidate-vibid:4504048296774": 34,
+      "gas:candidate-vibid:4504048296871": 27,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 350,
+      "gas:candidate-vibid:4504048296409": 50,
+      "gas:candidate-vibid:4504048296549": 78,
+      "gas:candidate-vibid:4504048296435": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11017,16 +11017,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 13,
-      "Болдырева Ольга Викторовна": 43,
-      "Горовец Татьяна Ивановна": 23,
-      "Ковтун Вячеслав Анатольевич": 26,
-      "Крыжов Сергей Борисович": 50,
-      "Кубарев Валерий Викторович": 6,
-      "Пахомов Сергей Александрович": 359,
-      "Петров Иван Евгеньевич": 46,
-      "Преображенская Анастасия Викторовна": 82,
-      "Шальнев Андрей Сергеевич": 16
+      "gas:candidate-vibid:4504048296992": 13,
+      "gas:candidate-vibid:4504048296629": 43,
+      "gas:candidate-vibid:4504048296653": 23,
+      "gas:candidate-vibid:4504048296774": 26,
+      "gas:candidate-vibid:4504048296871": 50,
+      "gas:candidate-vibid:4504048296677": 6,
+      "gas:candidate-vibid:4504048296718": 359,
+      "gas:candidate-vibid:4504048296409": 46,
+      "gas:candidate-vibid:4504048296549": 82,
+      "gas:candidate-vibid:4504048296435": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11077,16 +11077,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 12,
-      "Болдырева Ольга Викторовна": 43,
-      "Горовец Татьяна Ивановна": 8,
-      "Ковтун Вячеслав Анатольевич": 27,
-      "Крыжов Сергей Борисович": 41,
-      "Кубарев Валерий Викторович": 6,
-      "Пахомов Сергей Александрович": 326,
-      "Петров Иван Евгеньевич": 36,
-      "Преображенская Анастасия Викторовна": 55,
-      "Шальнев Андрей Сергеевич": 8
+      "gas:candidate-vibid:4504048296992": 12,
+      "gas:candidate-vibid:4504048296629": 43,
+      "gas:candidate-vibid:4504048296653": 8,
+      "gas:candidate-vibid:4504048296774": 27,
+      "gas:candidate-vibid:4504048296871": 41,
+      "gas:candidate-vibid:4504048296677": 6,
+      "gas:candidate-vibid:4504048296718": 326,
+      "gas:candidate-vibid:4504048296409": 36,
+      "gas:candidate-vibid:4504048296549": 55,
+      "gas:candidate-vibid:4504048296435": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11137,16 +11137,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 25,
-      "Горовец Татьяна Ивановна": 16,
-      "Ковтун Вячеслав Анатольевич": 25,
-      "Крыжов Сергей Борисович": 58,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 275,
-      "Петров Иван Евгеньевич": 44,
-      "Преображенская Анастасия Викторовна": 67,
-      "Шальнев Андрей Сергеевич": 25
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 25,
+      "gas:candidate-vibid:4504048296653": 16,
+      "gas:candidate-vibid:4504048296774": 25,
+      "gas:candidate-vibid:4504048296871": 58,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 275,
+      "gas:candidate-vibid:4504048296409": 44,
+      "gas:candidate-vibid:4504048296549": 67,
+      "gas:candidate-vibid:4504048296435": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11197,16 +11197,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 23,
-      "Горовец Татьяна Ивановна": 16,
-      "Ковтун Вячеслав Анатольевич": 31,
-      "Крыжов Сергей Борисович": 41,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 340,
-      "Петров Иван Евгеньевич": 33,
-      "Преображенская Анастасия Викторовна": 80,
-      "Шальнев Андрей Сергеевич": 13
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 23,
+      "gas:candidate-vibid:4504048296653": 16,
+      "gas:candidate-vibid:4504048296774": 31,
+      "gas:candidate-vibid:4504048296871": 41,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 340,
+      "gas:candidate-vibid:4504048296409": 33,
+      "gas:candidate-vibid:4504048296549": 80,
+      "gas:candidate-vibid:4504048296435": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11257,16 +11257,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 4,
-      "Болдырева Ольга Викторовна": 17,
-      "Горовец Татьяна Ивановна": 11,
-      "Ковтун Вячеслав Анатольевич": 29,
-      "Крыжов Сергей Борисович": 29,
-      "Кубарев Валерий Викторович": 15,
-      "Пахомов Сергей Александрович": 271,
-      "Петров Иван Евгеньевич": 44,
-      "Преображенская Анастасия Викторовна": 41,
-      "Шальнев Андрей Сергеевич": 15
+      "gas:candidate-vibid:4504048296992": 4,
+      "gas:candidate-vibid:4504048296629": 17,
+      "gas:candidate-vibid:4504048296653": 11,
+      "gas:candidate-vibid:4504048296774": 29,
+      "gas:candidate-vibid:4504048296871": 29,
+      "gas:candidate-vibid:4504048296677": 15,
+      "gas:candidate-vibid:4504048296718": 271,
+      "gas:candidate-vibid:4504048296409": 44,
+      "gas:candidate-vibid:4504048296549": 41,
+      "gas:candidate-vibid:4504048296435": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11317,16 +11317,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 42,
-      "Горовец Татьяна Ивановна": 17,
-      "Ковтун Вячеслав Анатольевич": 20,
-      "Крыжов Сергей Борисович": 43,
-      "Кубарев Валерий Викторович": 14,
-      "Пахомов Сергей Александрович": 358,
-      "Петров Иван Евгеньевич": 39,
-      "Преображенская Анастасия Викторовна": 52,
-      "Шальнев Андрей Сергеевич": 11
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 42,
+      "gas:candidate-vibid:4504048296653": 17,
+      "gas:candidate-vibid:4504048296774": 20,
+      "gas:candidate-vibid:4504048296871": 43,
+      "gas:candidate-vibid:4504048296677": 14,
+      "gas:candidate-vibid:4504048296718": 358,
+      "gas:candidate-vibid:4504048296409": 39,
+      "gas:candidate-vibid:4504048296549": 52,
+      "gas:candidate-vibid:4504048296435": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11377,16 +11377,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 0,
-      "Болдырева Ольга Викторовна": 0,
-      "Горовец Татьяна Ивановна": 0,
-      "Ковтун Вячеслав Анатольевич": 0,
-      "Крыжов Сергей Борисович": 1,
-      "Кубарев Валерий Викторович": 0,
-      "Пахомов Сергей Александрович": 15,
-      "Петров Иван Евгеньевич": 0,
-      "Преображенская Анастасия Викторовна": 0,
-      "Шальнев Андрей Сергеевич": 0
+      "gas:candidate-vibid:4504048296992": 0,
+      "gas:candidate-vibid:4504048296629": 0,
+      "gas:candidate-vibid:4504048296653": 0,
+      "gas:candidate-vibid:4504048296774": 0,
+      "gas:candidate-vibid:4504048296871": 1,
+      "gas:candidate-vibid:4504048296677": 0,
+      "gas:candidate-vibid:4504048296718": 15,
+      "gas:candidate-vibid:4504048296409": 0,
+      "gas:candidate-vibid:4504048296549": 0,
+      "gas:candidate-vibid:4504048296435": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11437,16 +11437,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 5,
-      "Болдырева Ольга Викторовна": 17,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 14,
-      "Крыжов Сергей Борисович": 14,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 434,
-      "Петров Иван Евгеньевич": 12,
-      "Преображенская Анастасия Викторовна": 21,
-      "Шальнев Андрей Сергеевич": 5
+      "gas:candidate-vibid:4504048296992": 5,
+      "gas:candidate-vibid:4504048296629": 17,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 14,
+      "gas:candidate-vibid:4504048296871": 14,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 434,
+      "gas:candidate-vibid:4504048296409": 12,
+      "gas:candidate-vibid:4504048296549": 21,
+      "gas:candidate-vibid:4504048296435": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11497,16 +11497,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 1,
-      "Болдырева Ольга Викторовна": 7,
-      "Горовец Татьяна Ивановна": 4,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 23,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 390,
-      "Петров Иван Евгеньевич": 8,
-      "Преображенская Анастасия Викторовна": 27,
-      "Шальнев Андрей Сергеевич": 6
+      "gas:candidate-vibid:4504048296992": 1,
+      "gas:candidate-vibid:4504048296629": 7,
+      "gas:candidate-vibid:4504048296653": 4,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 23,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 390,
+      "gas:candidate-vibid:4504048296409": 8,
+      "gas:candidate-vibid:4504048296549": 27,
+      "gas:candidate-vibid:4504048296435": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11557,16 +11557,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 25,
-      "Горовец Татьяна Ивановна": 10,
-      "Ковтун Вячеслав Анатольевич": 24,
-      "Крыжов Сергей Борисович": 30,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 239,
-      "Петров Иван Евгеньевич": 18,
-      "Преображенская Анастасия Викторовна": 56,
-      "Шальнев Андрей Сергеевич": 25
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 25,
+      "gas:candidate-vibid:4504048296653": 10,
+      "gas:candidate-vibid:4504048296774": 24,
+      "gas:candidate-vibid:4504048296871": 30,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 239,
+      "gas:candidate-vibid:4504048296409": 18,
+      "gas:candidate-vibid:4504048296549": 56,
+      "gas:candidate-vibid:4504048296435": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11617,16 +11617,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 4,
-      "Болдырева Ольга Викторовна": 37,
-      "Горовец Татьяна Ивановна": 21,
-      "Ковтун Вячеслав Анатольевич": 41,
-      "Крыжов Сергей Борисович": 68,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 356,
-      "Петров Иван Евгеньевич": 38,
-      "Преображенская Анастасия Викторовна": 106,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 4,
+      "gas:candidate-vibid:4504048296629": 37,
+      "gas:candidate-vibid:4504048296653": 21,
+      "gas:candidate-vibid:4504048296774": 41,
+      "gas:candidate-vibid:4504048296871": 68,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 356,
+      "gas:candidate-vibid:4504048296409": 38,
+      "gas:candidate-vibid:4504048296549": 106,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11677,16 +11677,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 1,
-      "Болдырева Ольга Викторовна": 1,
-      "Горовец Татьяна Ивановна": 1,
-      "Ковтун Вячеслав Анатольевич": 1,
-      "Крыжов Сергей Борисович": 1,
-      "Кубарев Валерий Викторович": 1,
-      "Пахомов Сергей Александрович": 22,
-      "Петров Иван Евгеньевич": 0,
-      "Преображенская Анастасия Викторовна": 0,
-      "Шальнев Андрей Сергеевич": 0
+      "gas:candidate-vibid:4504048296992": 1,
+      "gas:candidate-vibid:4504048296629": 1,
+      "gas:candidate-vibid:4504048296653": 1,
+      "gas:candidate-vibid:4504048296774": 1,
+      "gas:candidate-vibid:4504048296871": 1,
+      "gas:candidate-vibid:4504048296677": 1,
+      "gas:candidate-vibid:4504048296718": 22,
+      "gas:candidate-vibid:4504048296409": 0,
+      "gas:candidate-vibid:4504048296549": 0,
+      "gas:candidate-vibid:4504048296435": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11737,16 +11737,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 12,
-      "Болдырева Ольга Викторовна": 16,
-      "Горовец Татьяна Ивановна": 18,
-      "Ковтун Вячеслав Анатольевич": 18,
-      "Крыжов Сергей Борисович": 41,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 246,
-      "Петров Иван Евгеньевич": 26,
-      "Преображенская Анастасия Викторовна": 38,
-      "Шальнев Андрей Сергеевич": 6
+      "gas:candidate-vibid:4504048296992": 12,
+      "gas:candidate-vibid:4504048296629": 16,
+      "gas:candidate-vibid:4504048296653": 18,
+      "gas:candidate-vibid:4504048296774": 18,
+      "gas:candidate-vibid:4504048296871": 41,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 246,
+      "gas:candidate-vibid:4504048296409": 26,
+      "gas:candidate-vibid:4504048296549": 38,
+      "gas:candidate-vibid:4504048296435": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11797,16 +11797,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 4,
-      "Болдырева Ольга Викторовна": 18,
-      "Горовец Татьяна Ивановна": 5,
-      "Ковтун Вячеслав Анатольевич": 22,
-      "Крыжов Сергей Борисович": 8,
-      "Кубарев Валерий Викторович": 0,
-      "Пахомов Сергей Александрович": 189,
-      "Петров Иван Евгеньевич": 39,
-      "Преображенская Анастасия Викторовна": 22,
-      "Шальнев Андрей Сергеевич": 8
+      "gas:candidate-vibid:4504048296992": 4,
+      "gas:candidate-vibid:4504048296629": 18,
+      "gas:candidate-vibid:4504048296653": 5,
+      "gas:candidate-vibid:4504048296774": 22,
+      "gas:candidate-vibid:4504048296871": 8,
+      "gas:candidate-vibid:4504048296677": 0,
+      "gas:candidate-vibid:4504048296718": 189,
+      "gas:candidate-vibid:4504048296409": 39,
+      "gas:candidate-vibid:4504048296549": 22,
+      "gas:candidate-vibid:4504048296435": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11857,16 +11857,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 16,
-      "Горовец Татьяна Ивановна": 19,
-      "Ковтун Вячеслав Анатольевич": 17,
-      "Крыжов Сергей Борисович": 32,
-      "Кубарев Валерий Викторович": 13,
-      "Пахомов Сергей Александрович": 209,
-      "Петров Иван Евгеньевич": 39,
-      "Преображенская Анастасия Викторовна": 51,
-      "Шальнев Андрей Сергеевич": 10
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 16,
+      "gas:candidate-vibid:4504048296653": 19,
+      "gas:candidate-vibid:4504048296774": 17,
+      "gas:candidate-vibid:4504048296871": 32,
+      "gas:candidate-vibid:4504048296677": 13,
+      "gas:candidate-vibid:4504048296718": 209,
+      "gas:candidate-vibid:4504048296409": 39,
+      "gas:candidate-vibid:4504048296549": 51,
+      "gas:candidate-vibid:4504048296435": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11917,16 +11917,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 18,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 22,
-      "Кубарев Валерий Викторович": 6,
-      "Пахомов Сергей Александрович": 204,
-      "Петров Иван Евгеньевич": 28,
-      "Преображенская Анастасия Викторовна": 45,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 18,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 22,
+      "gas:candidate-vibid:4504048296677": 6,
+      "gas:candidate-vibid:4504048296718": 204,
+      "gas:candidate-vibid:4504048296409": 28,
+      "gas:candidate-vibid:4504048296549": 45,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -11977,16 +11977,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 28,
-      "Горовец Татьяна Ивановна": 10,
-      "Ковтун Вячеслав Анатольевич": 32,
-      "Крыжов Сергей Борисович": 35,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 247,
-      "Петров Иван Евгеньевич": 26,
-      "Преображенская Анастасия Викторовна": 63,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 28,
+      "gas:candidate-vibid:4504048296653": 10,
+      "gas:candidate-vibid:4504048296774": 32,
+      "gas:candidate-vibid:4504048296871": 35,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 247,
+      "gas:candidate-vibid:4504048296409": 26,
+      "gas:candidate-vibid:4504048296549": 63,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12037,16 +12037,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 5,
-      "Болдырева Ольга Викторовна": 29,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 36,
-      "Крыжов Сергей Борисович": 44,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 333,
-      "Петров Иван Евгеньевич": 30,
-      "Преображенская Анастасия Викторовна": 67,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 5,
+      "gas:candidate-vibid:4504048296629": 29,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 36,
+      "gas:candidate-vibid:4504048296871": 44,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 333,
+      "gas:candidate-vibid:4504048296409": 30,
+      "gas:candidate-vibid:4504048296549": 67,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12097,16 +12097,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 39,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 22,
-      "Крыжов Сергей Борисович": 64,
-      "Кубарев Валерий Викторович": 11,
-      "Пахомов Сергей Александрович": 339,
-      "Петров Иван Евгеньевич": 42,
-      "Преображенская Анастасия Викторовна": 57,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 39,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 22,
+      "gas:candidate-vibid:4504048296871": 64,
+      "gas:candidate-vibid:4504048296677": 11,
+      "gas:candidate-vibid:4504048296718": 339,
+      "gas:candidate-vibid:4504048296409": 42,
+      "gas:candidate-vibid:4504048296549": 57,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12157,16 +12157,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 12,
-      "Болдырева Ольга Викторовна": 45,
-      "Горовец Татьяна Ивановна": 36,
-      "Ковтун Вячеслав Анатольевич": 54,
-      "Крыжов Сергей Борисович": 67,
-      "Кубарев Валерий Викторович": 15,
-      "Пахомов Сергей Александрович": 618,
-      "Петров Иван Евгеньевич": 66,
-      "Преображенская Анастасия Викторовна": 77,
-      "Шальнев Андрей Сергеевич": 28
+      "gas:candidate-vibid:4504048296992": 12,
+      "gas:candidate-vibid:4504048296629": 45,
+      "gas:candidate-vibid:4504048296653": 36,
+      "gas:candidate-vibid:4504048296774": 54,
+      "gas:candidate-vibid:4504048296871": 67,
+      "gas:candidate-vibid:4504048296677": 15,
+      "gas:candidate-vibid:4504048296718": 618,
+      "gas:candidate-vibid:4504048296409": 66,
+      "gas:candidate-vibid:4504048296549": 77,
+      "gas:candidate-vibid:4504048296435": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12217,16 +12217,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 24,
-      "Горовец Татьяна Ивановна": 10,
-      "Ковтун Вячеслав Анатольевич": 24,
-      "Крыжов Сергей Борисович": 40,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 412,
-      "Петров Иван Евгеньевич": 41,
-      "Преображенская Анастасия Викторовна": 53,
-      "Шальнев Андрей Сергеевич": 10
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 24,
+      "gas:candidate-vibid:4504048296653": 10,
+      "gas:candidate-vibid:4504048296774": 24,
+      "gas:candidate-vibid:4504048296871": 40,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 412,
+      "gas:candidate-vibid:4504048296409": 41,
+      "gas:candidate-vibid:4504048296549": 53,
+      "gas:candidate-vibid:4504048296435": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12277,16 +12277,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 13,
-      "Болдырева Ольга Викторовна": 20,
-      "Горовец Татьяна Ивановна": 9,
-      "Ковтун Вячеслав Анатольевич": 40,
-      "Крыжов Сергей Борисович": 58,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 375,
-      "Петров Иван Евгеньевич": 50,
-      "Преображенская Анастасия Викторовна": 58,
-      "Шальнев Андрей Сергеевич": 15
+      "gas:candidate-vibid:4504048296992": 13,
+      "gas:candidate-vibid:4504048296629": 20,
+      "gas:candidate-vibid:4504048296653": 9,
+      "gas:candidate-vibid:4504048296774": 40,
+      "gas:candidate-vibid:4504048296871": 58,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 375,
+      "gas:candidate-vibid:4504048296409": 50,
+      "gas:candidate-vibid:4504048296549": 58,
+      "gas:candidate-vibid:4504048296435": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12337,16 +12337,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 11,
-      "Болдырева Ольга Викторовна": 35,
-      "Горовец Татьяна Ивановна": 8,
-      "Ковтун Вячеслав Анатольевич": 25,
-      "Крыжов Сергей Борисович": 21,
-      "Кубарев Валерий Викторович": 6,
-      "Пахомов Сергей Александрович": 281,
-      "Петров Иван Евгеньевич": 35,
-      "Преображенская Анастасия Викторовна": 62,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 11,
+      "gas:candidate-vibid:4504048296629": 35,
+      "gas:candidate-vibid:4504048296653": 8,
+      "gas:candidate-vibid:4504048296774": 25,
+      "gas:candidate-vibid:4504048296871": 21,
+      "gas:candidate-vibid:4504048296677": 6,
+      "gas:candidate-vibid:4504048296718": 281,
+      "gas:candidate-vibid:4504048296409": 35,
+      "gas:candidate-vibid:4504048296549": 62,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12397,16 +12397,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 23,
-      "Горовец Татьяна Ивановна": 11,
-      "Ковтун Вячеслав Анатольевич": 14,
-      "Крыжов Сергей Борисович": 16,
-      "Кубарев Валерий Викторович": 3,
-      "Пахомов Сергей Александрович": 180,
-      "Петров Иван Евгеньевич": 34,
-      "Преображенская Анастасия Викторовна": 26,
-      "Шальнев Андрей Сергеевич": 10
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 23,
+      "gas:candidate-vibid:4504048296653": 11,
+      "gas:candidate-vibid:4504048296774": 14,
+      "gas:candidate-vibid:4504048296871": 16,
+      "gas:candidate-vibid:4504048296677": 3,
+      "gas:candidate-vibid:4504048296718": 180,
+      "gas:candidate-vibid:4504048296409": 34,
+      "gas:candidate-vibid:4504048296549": 26,
+      "gas:candidate-vibid:4504048296435": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12457,16 +12457,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 11,
-      "Болдырева Ольга Викторовна": 45,
-      "Горовец Татьяна Ивановна": 11,
-      "Ковтун Вячеслав Анатольевич": 25,
-      "Крыжов Сергей Борисович": 31,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 267,
-      "Петров Иван Евгеньевич": 46,
-      "Преображенская Анастасия Викторовна": 69,
-      "Шальнев Андрей Сергеевич": 12
+      "gas:candidate-vibid:4504048296992": 11,
+      "gas:candidate-vibid:4504048296629": 45,
+      "gas:candidate-vibid:4504048296653": 11,
+      "gas:candidate-vibid:4504048296774": 25,
+      "gas:candidate-vibid:4504048296871": 31,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 267,
+      "gas:candidate-vibid:4504048296409": 46,
+      "gas:candidate-vibid:4504048296549": 69,
+      "gas:candidate-vibid:4504048296435": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12517,16 +12517,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 12,
-      "Болдырева Ольга Викторовна": 48,
-      "Горовец Татьяна Ивановна": 32,
-      "Ковтун Вячеслав Анатольевич": 60,
-      "Крыжов Сергей Борисович": 38,
-      "Кубарев Валерий Викторович": 15,
-      "Пахомов Сергей Александрович": 363,
-      "Петров Иван Евгеньевич": 74,
-      "Преображенская Анастасия Викторовна": 106,
-      "Шальнев Андрей Сергеевич": 8
+      "gas:candidate-vibid:4504048296992": 12,
+      "gas:candidate-vibid:4504048296629": 48,
+      "gas:candidate-vibid:4504048296653": 32,
+      "gas:candidate-vibid:4504048296774": 60,
+      "gas:candidate-vibid:4504048296871": 38,
+      "gas:candidate-vibid:4504048296677": 15,
+      "gas:candidate-vibid:4504048296718": 363,
+      "gas:candidate-vibid:4504048296409": 74,
+      "gas:candidate-vibid:4504048296549": 106,
+      "gas:candidate-vibid:4504048296435": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12577,16 +12577,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 33,
-      "Горовец Татьяна Ивановна": 17,
-      "Ковтун Вячеслав Анатольевич": 32,
-      "Крыжов Сергей Борисович": 30,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 309,
-      "Петров Иван Евгеньевич": 44,
-      "Преображенская Анастасия Викторовна": 58,
-      "Шальнев Андрей Сергеевич": 10
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 33,
+      "gas:candidate-vibid:4504048296653": 17,
+      "gas:candidate-vibid:4504048296774": 32,
+      "gas:candidate-vibid:4504048296871": 30,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 309,
+      "gas:candidate-vibid:4504048296409": 44,
+      "gas:candidate-vibid:4504048296549": 58,
+      "gas:candidate-vibid:4504048296435": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12637,16 +12637,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 11,
-      "Болдырева Ольга Викторовна": 36,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 37,
-      "Крыжов Сергей Борисович": 46,
-      "Кубарев Валерий Викторович": 11,
-      "Пахомов Сергей Александрович": 324,
-      "Петров Иван Евгеньевич": 49,
-      "Преображенская Анастасия Викторовна": 78,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 11,
+      "gas:candidate-vibid:4504048296629": 36,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 37,
+      "gas:candidate-vibid:4504048296871": 46,
+      "gas:candidate-vibid:4504048296677": 11,
+      "gas:candidate-vibid:4504048296718": 324,
+      "gas:candidate-vibid:4504048296409": 49,
+      "gas:candidate-vibid:4504048296549": 78,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12697,16 +12697,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 15,
-      "Болдырева Ольга Викторовна": 22,
-      "Горовец Татьяна Ивановна": 14,
-      "Ковтун Вячеслав Анатольевич": 32,
-      "Крыжов Сергей Борисович": 28,
-      "Кубарев Валерий Викторович": 10,
-      "Пахомов Сергей Александрович": 325,
-      "Петров Иван Евгеньевич": 48,
-      "Преображенская Анастасия Викторовна": 53,
-      "Шальнев Андрей Сергеевич": 18
+      "gas:candidate-vibid:4504048296992": 15,
+      "gas:candidate-vibid:4504048296629": 22,
+      "gas:candidate-vibid:4504048296653": 14,
+      "gas:candidate-vibid:4504048296774": 32,
+      "gas:candidate-vibid:4504048296871": 28,
+      "gas:candidate-vibid:4504048296677": 10,
+      "gas:candidate-vibid:4504048296718": 325,
+      "gas:candidate-vibid:4504048296409": 48,
+      "gas:candidate-vibid:4504048296549": 53,
+      "gas:candidate-vibid:4504048296435": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12757,16 +12757,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 31,
-      "Горовец Татьяна Ивановна": 13,
-      "Ковтун Вячеслав Анатольевич": 24,
-      "Крыжов Сергей Борисович": 31,
-      "Кубарев Валерий Викторович": 15,
-      "Пахомов Сергей Александрович": 278,
-      "Петров Иван Евгеньевич": 44,
-      "Преображенская Анастасия Викторовна": 57,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 31,
+      "gas:candidate-vibid:4504048296653": 13,
+      "gas:candidate-vibid:4504048296774": 24,
+      "gas:candidate-vibid:4504048296871": 31,
+      "gas:candidate-vibid:4504048296677": 15,
+      "gas:candidate-vibid:4504048296718": 278,
+      "gas:candidate-vibid:4504048296409": 44,
+      "gas:candidate-vibid:4504048296549": 57,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12817,16 +12817,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 18,
-      "Болдырева Ольга Викторовна": 16,
-      "Горовец Татьяна Ивановна": 14,
-      "Ковтун Вячеслав Анатольевич": 17,
-      "Крыжов Сергей Борисович": 15,
-      "Кубарев Валерий Викторович": 18,
-      "Пахомов Сергей Александрович": 369,
-      "Петров Иван Евгеньевич": 13,
-      "Преображенская Анастасия Викторовна": 89,
-      "Шальнев Андрей Сергеевич": 15
+      "gas:candidate-vibid:4504048296992": 18,
+      "gas:candidate-vibid:4504048296629": 16,
+      "gas:candidate-vibid:4504048296653": 14,
+      "gas:candidate-vibid:4504048296774": 17,
+      "gas:candidate-vibid:4504048296871": 15,
+      "gas:candidate-vibid:4504048296677": 18,
+      "gas:candidate-vibid:4504048296718": 369,
+      "gas:candidate-vibid:4504048296409": 13,
+      "gas:candidate-vibid:4504048296549": 89,
+      "gas:candidate-vibid:4504048296435": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12877,16 +12877,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 4,
-      "Болдырева Ольга Викторовна": 21,
-      "Горовец Татьяна Ивановна": 7,
-      "Ковтун Вячеслав Анатольевич": 12,
-      "Крыжов Сергей Борисович": 12,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 179,
-      "Петров Иван Евгеньевич": 55,
-      "Преображенская Анастасия Викторовна": 34,
-      "Шальнев Андрей Сергеевич": 6
+      "gas:candidate-vibid:4504048296992": 4,
+      "gas:candidate-vibid:4504048296629": 21,
+      "gas:candidate-vibid:4504048296653": 7,
+      "gas:candidate-vibid:4504048296774": 12,
+      "gas:candidate-vibid:4504048296871": 12,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 179,
+      "gas:candidate-vibid:4504048296409": 55,
+      "gas:candidate-vibid:4504048296549": 34,
+      "gas:candidate-vibid:4504048296435": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12937,16 +12937,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 16,
-      "Горовец Татьяна Ивановна": 2,
-      "Ковтун Вячеслав Анатольевич": 9,
-      "Крыжов Сергей Борисович": 7,
-      "Кубарев Валерий Викторович": 3,
-      "Пахомов Сергей Александрович": 250,
-      "Петров Иван Евгеньевич": 28,
-      "Преображенская Анастасия Викторовна": 22,
-      "Шальнев Андрей Сергеевич": 7
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 16,
+      "gas:candidate-vibid:4504048296653": 2,
+      "gas:candidate-vibid:4504048296774": 9,
+      "gas:candidate-vibid:4504048296871": 7,
+      "gas:candidate-vibid:4504048296677": 3,
+      "gas:candidate-vibid:4504048296718": 250,
+      "gas:candidate-vibid:4504048296409": 28,
+      "gas:candidate-vibid:4504048296549": 22,
+      "gas:candidate-vibid:4504048296435": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -12997,16 +12997,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 34,
-      "Горовец Татьяна Ивановна": 11,
-      "Ковтун Вячеслав Анатольевич": 21,
-      "Крыжов Сергей Борисович": 23,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 269,
-      "Петров Иван Евгеньевич": 51,
-      "Преображенская Анастасия Викторовна": 48,
-      "Шальнев Андрей Сергеевич": 13
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 34,
+      "gas:candidate-vibid:4504048296653": 11,
+      "gas:candidate-vibid:4504048296774": 21,
+      "gas:candidate-vibid:4504048296871": 23,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 269,
+      "gas:candidate-vibid:4504048296409": 51,
+      "gas:candidate-vibid:4504048296549": 48,
+      "gas:candidate-vibid:4504048296435": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13057,16 +13057,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 8,
-      "Болдырева Ольга Викторовна": 20,
-      "Горовец Татьяна Ивановна": 9,
-      "Ковтун Вячеслав Анатольевич": 7,
-      "Крыжов Сергей Борисович": 14,
-      "Кубарев Валерий Викторович": 2,
-      "Пахомов Сергей Александрович": 123,
-      "Петров Иван Евгеньевич": 34,
-      "Преображенская Анастасия Викторовна": 33,
-      "Шальнев Андрей Сергеевич": 4
+      "gas:candidate-vibid:4504048296992": 8,
+      "gas:candidate-vibid:4504048296629": 20,
+      "gas:candidate-vibid:4504048296653": 9,
+      "gas:candidate-vibid:4504048296774": 7,
+      "gas:candidate-vibid:4504048296871": 14,
+      "gas:candidate-vibid:4504048296677": 2,
+      "gas:candidate-vibid:4504048296718": 123,
+      "gas:candidate-vibid:4504048296409": 34,
+      "gas:candidate-vibid:4504048296549": 33,
+      "gas:candidate-vibid:4504048296435": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13117,16 +13117,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 8,
-      "Болдырева Ольга Викторовна": 26,
-      "Горовец Татьяна Ивановна": 10,
-      "Ковтун Вячеслав Анатольевич": 12,
-      "Крыжов Сергей Борисович": 7,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 164,
-      "Петров Иван Евгеньевич": 30,
-      "Преображенская Анастасия Викторовна": 21,
-      "Шальнев Андрей Сергеевич": 7
+      "gas:candidate-vibid:4504048296992": 8,
+      "gas:candidate-vibid:4504048296629": 26,
+      "gas:candidate-vibid:4504048296653": 10,
+      "gas:candidate-vibid:4504048296774": 12,
+      "gas:candidate-vibid:4504048296871": 7,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 164,
+      "gas:candidate-vibid:4504048296409": 30,
+      "gas:candidate-vibid:4504048296549": 21,
+      "gas:candidate-vibid:4504048296435": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13177,16 +13177,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 41,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 25,
-      "Кубарев Валерий Викторович": 15,
-      "Пахомов Сергей Александрович": 334,
-      "Петров Иван Евгеньевич": 53,
-      "Преображенская Анастасия Викторовна": 57,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 41,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 25,
+      "gas:candidate-vibid:4504048296677": 15,
+      "gas:candidate-vibid:4504048296718": 334,
+      "gas:candidate-vibid:4504048296409": 53,
+      "gas:candidate-vibid:4504048296549": 57,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13237,16 +13237,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 71,
-      "Горовец Татьяна Ивановна": 19,
-      "Ковтун Вячеслав Анатольевич": 36,
-      "Крыжов Сергей Борисович": 24,
-      "Кубарев Валерий Викторович": 12,
-      "Пахомов Сергей Александрович": 337,
-      "Петров Иван Евгеньевич": 58,
-      "Преображенская Анастасия Викторовна": 61,
-      "Шальнев Андрей Сергеевич": 12
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 71,
+      "gas:candidate-vibid:4504048296653": 19,
+      "gas:candidate-vibid:4504048296774": 36,
+      "gas:candidate-vibid:4504048296871": 24,
+      "gas:candidate-vibid:4504048296677": 12,
+      "gas:candidate-vibid:4504048296718": 337,
+      "gas:candidate-vibid:4504048296409": 58,
+      "gas:candidate-vibid:4504048296549": 61,
+      "gas:candidate-vibid:4504048296435": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13297,16 +13297,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 8,
-      "Болдырева Ольга Викторовна": 28,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 18,
-      "Крыжов Сергей Борисович": 18,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 476,
-      "Петров Иван Евгеньевич": 32,
-      "Преображенская Анастасия Викторовна": 40,
-      "Шальнев Андрей Сергеевич": 11
+      "gas:candidate-vibid:4504048296992": 8,
+      "gas:candidate-vibid:4504048296629": 28,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 18,
+      "gas:candidate-vibid:4504048296871": 18,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 476,
+      "gas:candidate-vibid:4504048296409": 32,
+      "gas:candidate-vibid:4504048296549": 40,
+      "gas:candidate-vibid:4504048296435": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13357,16 +13357,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 12,
-      "Болдырева Ольга Викторовна": 22,
-      "Горовец Татьяна Ивановна": 11,
-      "Ковтун Вячеслав Анатольевич": 18,
-      "Крыжов Сергей Борисович": 19,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 337,
-      "Петров Иван Евгеньевич": 51,
-      "Преображенская Анастасия Викторовна": 68,
-      "Шальнев Андрей Сергеевич": 8
+      "gas:candidate-vibid:4504048296992": 12,
+      "gas:candidate-vibid:4504048296629": 22,
+      "gas:candidate-vibid:4504048296653": 11,
+      "gas:candidate-vibid:4504048296774": 18,
+      "gas:candidate-vibid:4504048296871": 19,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 337,
+      "gas:candidate-vibid:4504048296409": 51,
+      "gas:candidate-vibid:4504048296549": 68,
+      "gas:candidate-vibid:4504048296435": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13417,16 +13417,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 5,
-      "Болдырева Ольга Викторовна": 18,
-      "Горовец Татьяна Ивановна": 9,
-      "Ковтун Вячеслав Анатольевич": 10,
-      "Крыжов Сергей Борисович": 7,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 249,
-      "Петров Иван Евгеньевич": 29,
-      "Преображенская Анастасия Викторовна": 24,
-      "Шальнев Андрей Сергеевич": 7
+      "gas:candidate-vibid:4504048296992": 5,
+      "gas:candidate-vibid:4504048296629": 18,
+      "gas:candidate-vibid:4504048296653": 9,
+      "gas:candidate-vibid:4504048296774": 10,
+      "gas:candidate-vibid:4504048296871": 7,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 249,
+      "gas:candidate-vibid:4504048296409": 29,
+      "gas:candidate-vibid:4504048296549": 24,
+      "gas:candidate-vibid:4504048296435": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13477,16 +13477,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 28,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 25,
-      "Крыжов Сергей Борисович": 24,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 554,
-      "Петров Иван Евгеньевич": 22,
-      "Преображенская Анастасия Викторовна": 59,
-      "Шальнев Андрей Сергеевич": 6
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 28,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 25,
+      "gas:candidate-vibid:4504048296871": 24,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 554,
+      "gas:candidate-vibid:4504048296409": 22,
+      "gas:candidate-vibid:4504048296549": 59,
+      "gas:candidate-vibid:4504048296435": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13537,16 +13537,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 4,
-      "Болдырева Ольга Викторовна": 8,
-      "Горовец Татьяна Ивановна": 6,
-      "Ковтун Вячеслав Анатольевич": 4,
-      "Крыжов Сергей Борисович": 5,
-      "Кубарев Валерий Викторович": 1,
-      "Пахомов Сергей Александрович": 172,
-      "Петров Иван Евгеньевич": 14,
-      "Преображенская Анастасия Викторовна": 19,
-      "Шальнев Андрей Сергеевич": 3
+      "gas:candidate-vibid:4504048296992": 4,
+      "gas:candidate-vibid:4504048296629": 8,
+      "gas:candidate-vibid:4504048296653": 6,
+      "gas:candidate-vibid:4504048296774": 4,
+      "gas:candidate-vibid:4504048296871": 5,
+      "gas:candidate-vibid:4504048296677": 1,
+      "gas:candidate-vibid:4504048296718": 172,
+      "gas:candidate-vibid:4504048296409": 14,
+      "gas:candidate-vibid:4504048296549": 19,
+      "gas:candidate-vibid:4504048296435": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13597,16 +13597,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 1,
-      "Болдырева Ольга Викторовна": 7,
-      "Горовец Татьяна Ивановна": 1,
-      "Ковтун Вячеслав Анатольевич": 3,
-      "Крыжов Сергей Борисович": 4,
-      "Кубарев Валерий Викторович": 0,
-      "Пахомов Сергей Александрович": 101,
-      "Петров Иван Евгеньевич": 2,
-      "Преображенская Анастасия Викторовна": 3,
-      "Шальнев Андрей Сергеевич": 0
+      "gas:candidate-vibid:4504048296992": 1,
+      "gas:candidate-vibid:4504048296629": 7,
+      "gas:candidate-vibid:4504048296653": 1,
+      "gas:candidate-vibid:4504048296774": 3,
+      "gas:candidate-vibid:4504048296871": 4,
+      "gas:candidate-vibid:4504048296677": 0,
+      "gas:candidate-vibid:4504048296718": 101,
+      "gas:candidate-vibid:4504048296409": 2,
+      "gas:candidate-vibid:4504048296549": 3,
+      "gas:candidate-vibid:4504048296435": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13657,16 +13657,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 13,
-      "Горовец Татьяна Ивановна": 8,
-      "Ковтун Вячеслав Анатольевич": 8,
-      "Крыжов Сергей Борисович": 13,
-      "Кубарев Валерий Викторович": 5,
-      "Пахомов Сергей Александрович": 171,
-      "Петров Иван Евгеньевич": 30,
-      "Преображенская Анастасия Викторовна": 23,
-      "Шальнев Андрей Сергеевич": 2
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 13,
+      "gas:candidate-vibid:4504048296653": 8,
+      "gas:candidate-vibid:4504048296774": 8,
+      "gas:candidate-vibid:4504048296871": 13,
+      "gas:candidate-vibid:4504048296677": 5,
+      "gas:candidate-vibid:4504048296718": 171,
+      "gas:candidate-vibid:4504048296409": 30,
+      "gas:candidate-vibid:4504048296549": 23,
+      "gas:candidate-vibid:4504048296435": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13717,16 +13717,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 21,
-      "Горовец Татьяна Ивановна": 7,
-      "Ковтун Вячеслав Анатольевич": 5,
-      "Крыжов Сергей Борисович": 8,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 636,
-      "Петров Иван Евгеньевич": 32,
-      "Преображенская Анастасия Викторовна": 40,
-      "Шальнев Андрей Сергеевич": 2
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 21,
+      "gas:candidate-vibid:4504048296653": 7,
+      "gas:candidate-vibid:4504048296774": 5,
+      "gas:candidate-vibid:4504048296871": 8,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 636,
+      "gas:candidate-vibid:4504048296409": 32,
+      "gas:candidate-vibid:4504048296549": 40,
+      "gas:candidate-vibid:4504048296435": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13777,16 +13777,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 11,
-      "Болдырева Ольга Викторовна": 35,
-      "Горовец Татьяна Ивановна": 16,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 24,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 565,
-      "Петров Иван Евгеньевич": 38,
-      "Преображенская Анастасия Викторовна": 74,
-      "Шальнев Андрей Сергеевич": 24
+      "gas:candidate-vibid:4504048296992": 11,
+      "gas:candidate-vibid:4504048296629": 35,
+      "gas:candidate-vibid:4504048296653": 16,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 24,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 565,
+      "gas:candidate-vibid:4504048296409": 38,
+      "gas:candidate-vibid:4504048296549": 74,
+      "gas:candidate-vibid:4504048296435": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13837,16 +13837,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 35,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 28,
-      "Крыжов Сергей Борисович": 36,
-      "Кубарев Валерий Викторович": 11,
-      "Пахомов Сергей Александрович": 261,
-      "Петров Иван Евгеньевич": 45,
-      "Преображенская Анастасия Викторовна": 50,
-      "Шальнев Андрей Сергеевич": 9
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 35,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 28,
+      "gas:candidate-vibid:4504048296871": 36,
+      "gas:candidate-vibid:4504048296677": 11,
+      "gas:candidate-vibid:4504048296718": 261,
+      "gas:candidate-vibid:4504048296409": 45,
+      "gas:candidate-vibid:4504048296549": 50,
+      "gas:candidate-vibid:4504048296435": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13897,16 +13897,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 10,
-      "Болдырева Ольга Викторовна": 15,
-      "Горовец Татьяна Ивановна": 13,
-      "Ковтун Вячеслав Анатольевич": 13,
-      "Крыжов Сергей Борисович": 8,
-      "Кубарев Валерий Викторович": 4,
-      "Пахомов Сергей Александрович": 127,
-      "Петров Иван Евгеньевич": 15,
-      "Преображенская Анастасия Викторовна": 16,
-      "Шальнев Андрей Сергеевич": 12
+      "gas:candidate-vibid:4504048296992": 10,
+      "gas:candidate-vibid:4504048296629": 15,
+      "gas:candidate-vibid:4504048296653": 13,
+      "gas:candidate-vibid:4504048296774": 13,
+      "gas:candidate-vibid:4504048296871": 8,
+      "gas:candidate-vibid:4504048296677": 4,
+      "gas:candidate-vibid:4504048296718": 127,
+      "gas:candidate-vibid:4504048296409": 15,
+      "gas:candidate-vibid:4504048296549": 16,
+      "gas:candidate-vibid:4504048296435": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -13957,16 +13957,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 19,
-      "Горовец Татьяна Ивановна": 21,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 36,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 298,
-      "Петров Иван Евгеньевич": 35,
-      "Преображенская Анастасия Викторовна": 54,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 19,
+      "gas:candidate-vibid:4504048296653": 21,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 36,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 298,
+      "gas:candidate-vibid:4504048296409": 35,
+      "gas:candidate-vibid:4504048296549": 54,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14017,16 +14017,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 33,
-      "Горовец Татьяна Ивановна": 16,
-      "Ковтун Вячеслав Анатольевич": 33,
-      "Крыжов Сергей Борисович": 32,
-      "Кубарев Валерий Викторович": 10,
-      "Пахомов Сергей Александрович": 387,
-      "Петров Иван Евгеньевич": 43,
-      "Преображенская Анастасия Викторовна": 75,
-      "Шальнев Андрей Сергеевич": 5
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 33,
+      "gas:candidate-vibid:4504048296653": 16,
+      "gas:candidate-vibid:4504048296774": 33,
+      "gas:candidate-vibid:4504048296871": 32,
+      "gas:candidate-vibid:4504048296677": 10,
+      "gas:candidate-vibid:4504048296718": 387,
+      "gas:candidate-vibid:4504048296409": 43,
+      "gas:candidate-vibid:4504048296549": 75,
+      "gas:candidate-vibid:4504048296435": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14077,16 +14077,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 7,
-      "Болдырева Ольга Викторовна": 21,
-      "Горовец Татьяна Ивановна": 17,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 15,
-      "Кубарев Валерий Викторович": 9,
-      "Пахомов Сергей Александрович": 473,
-      "Петров Иван Евгеньевич": 33,
-      "Преображенская Анастасия Викторовна": 36,
-      "Шальнев Андрей Сергеевич": 4
+      "gas:candidate-vibid:4504048296992": 7,
+      "gas:candidate-vibid:4504048296629": 21,
+      "gas:candidate-vibid:4504048296653": 17,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 15,
+      "gas:candidate-vibid:4504048296677": 9,
+      "gas:candidate-vibid:4504048296718": 473,
+      "gas:candidate-vibid:4504048296409": 33,
+      "gas:candidate-vibid:4504048296549": 36,
+      "gas:candidate-vibid:4504048296435": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14137,16 +14137,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 23,
-      "Горовец Татьяна Ивановна": 10,
-      "Ковтун Вячеслав Анатольевич": 25,
-      "Крыжов Сергей Борисович": 18,
-      "Кубарев Валерий Викторович": 7,
-      "Пахомов Сергей Александрович": 269,
-      "Петров Иван Евгеньевич": 57,
-      "Преображенская Анастасия Викторовна": 49,
-      "Шальнев Андрей Сергеевич": 6
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 23,
+      "gas:candidate-vibid:4504048296653": 10,
+      "gas:candidate-vibid:4504048296774": 25,
+      "gas:candidate-vibid:4504048296871": 18,
+      "gas:candidate-vibid:4504048296677": 7,
+      "gas:candidate-vibid:4504048296718": 269,
+      "gas:candidate-vibid:4504048296409": 57,
+      "gas:candidate-vibid:4504048296549": 49,
+      "gas:candidate-vibid:4504048296435": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14197,16 +14197,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 6,
-      "Болдырева Ольга Викторовна": 20,
-      "Горовец Татьяна Ивановна": 10,
-      "Ковтун Вячеслав Анатольевич": 23,
-      "Крыжов Сергей Борисович": 18,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 303,
-      "Петров Иван Евгеньевич": 40,
-      "Преображенская Анастасия Викторовна": 42,
-      "Шальнев Андрей Сергеевич": 7
+      "gas:candidate-vibid:4504048296992": 6,
+      "gas:candidate-vibid:4504048296629": 20,
+      "gas:candidate-vibid:4504048296653": 10,
+      "gas:candidate-vibid:4504048296774": 23,
+      "gas:candidate-vibid:4504048296871": 18,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 303,
+      "gas:candidate-vibid:4504048296409": 40,
+      "gas:candidate-vibid:4504048296549": 42,
+      "gas:candidate-vibid:4504048296435": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14257,16 +14257,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 16,
-      "Болдырева Ольга Викторовна": 35,
-      "Горовец Татьяна Ивановна": 24,
-      "Ковтун Вячеслав Анатольевич": 37,
-      "Крыжов Сергей Борисович": 25,
-      "Кубарев Валерий Викторович": 11,
-      "Пахомов Сергей Александрович": 305,
-      "Петров Иван Евгеньевич": 77,
-      "Преображенская Анастасия Викторовна": 56,
-      "Шальнев Андрей Сергеевич": 14
+      "gas:candidate-vibid:4504048296992": 16,
+      "gas:candidate-vibid:4504048296629": 35,
+      "gas:candidate-vibid:4504048296653": 24,
+      "gas:candidate-vibid:4504048296774": 37,
+      "gas:candidate-vibid:4504048296871": 25,
+      "gas:candidate-vibid:4504048296677": 11,
+      "gas:candidate-vibid:4504048296718": 305,
+      "gas:candidate-vibid:4504048296409": 77,
+      "gas:candidate-vibid:4504048296549": 56,
+      "gas:candidate-vibid:4504048296435": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14317,16 +14317,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 4,
-      "Болдырева Ольга Викторовна": 26,
-      "Горовец Татьяна Ивановна": 9,
-      "Ковтун Вячеслав Анатольевич": 19,
-      "Крыжов Сергей Борисович": 20,
-      "Кубарев Валерий Викторович": 6,
-      "Пахомов Сергей Александрович": 242,
-      "Петров Иван Евгеньевич": 46,
-      "Преображенская Анастасия Викторовна": 38,
-      "Шальнев Андрей Сергеевич": 18
+      "gas:candidate-vibid:4504048296992": 4,
+      "gas:candidate-vibid:4504048296629": 26,
+      "gas:candidate-vibid:4504048296653": 9,
+      "gas:candidate-vibid:4504048296774": 19,
+      "gas:candidate-vibid:4504048296871": 20,
+      "gas:candidate-vibid:4504048296677": 6,
+      "gas:candidate-vibid:4504048296718": 242,
+      "gas:candidate-vibid:4504048296409": 46,
+      "gas:candidate-vibid:4504048296549": 38,
+      "gas:candidate-vibid:4504048296435": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14377,16 +14377,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 2,
-      "Болдырева Ольга Викторовна": 11,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 8,
-      "Крыжов Сергей Борисович": 5,
-      "Кубарев Валерий Викторович": 1,
-      "Пахомов Сергей Александрович": 76,
-      "Петров Иван Евгеньевич": 14,
-      "Преображенская Анастасия Викторовна": 9,
-      "Шальнев Андрей Сергеевич": 0
+      "gas:candidate-vibid:4504048296992": 2,
+      "gas:candidate-vibid:4504048296629": 11,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 8,
+      "gas:candidate-vibid:4504048296871": 5,
+      "gas:candidate-vibid:4504048296677": 1,
+      "gas:candidate-vibid:4504048296718": 76,
+      "gas:candidate-vibid:4504048296409": 14,
+      "gas:candidate-vibid:4504048296549": 9,
+      "gas:candidate-vibid:4504048296435": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14437,16 +14437,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 3,
-      "Болдырева Ольга Викторовна": 21,
-      "Горовец Татьяна Ивановна": 6,
-      "Ковтун Вячеслав Анатольевич": 12,
-      "Крыжов Сергей Борисович": 10,
-      "Кубарев Валерий Викторович": 8,
-      "Пахомов Сергей Александрович": 213,
-      "Петров Иван Евгеньевич": 49,
-      "Преображенская Анастасия Викторовна": 26,
-      "Шальнев Андрей Сергеевич": 9
+      "gas:candidate-vibid:4504048296992": 3,
+      "gas:candidate-vibid:4504048296629": 21,
+      "gas:candidate-vibid:4504048296653": 6,
+      "gas:candidate-vibid:4504048296774": 12,
+      "gas:candidate-vibid:4504048296871": 10,
+      "gas:candidate-vibid:4504048296677": 8,
+      "gas:candidate-vibid:4504048296718": 213,
+      "gas:candidate-vibid:4504048296409": 49,
+      "gas:candidate-vibid:4504048296549": 26,
+      "gas:candidate-vibid:4504048296435": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14497,16 +14497,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 15,
-      "Болдырева Ольга Викторовна": 38,
-      "Горовец Татьяна Ивановна": 15,
-      "Ковтун Вячеслав Анатольевич": 32,
-      "Крыжов Сергей Борисович": 22,
-      "Кубарев Валерий Викторович": 16,
-      "Пахомов Сергей Александрович": 339,
-      "Петров Иван Евгеньевич": 87,
-      "Преображенская Анастасия Викторовна": 62,
-      "Шальнев Андрей Сергеевич": 17
+      "gas:candidate-vibid:4504048296992": 15,
+      "gas:candidate-vibid:4504048296629": 38,
+      "gas:candidate-vibid:4504048296653": 15,
+      "gas:candidate-vibid:4504048296774": 32,
+      "gas:candidate-vibid:4504048296871": 22,
+      "gas:candidate-vibid:4504048296677": 16,
+      "gas:candidate-vibid:4504048296718": 339,
+      "gas:candidate-vibid:4504048296409": 87,
+      "gas:candidate-vibid:4504048296549": 62,
+      "gas:candidate-vibid:4504048296435": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14557,16 +14557,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 25,
-      "Болдырева Ольга Викторовна": 30,
-      "Горовец Татьяна Ивановна": 25,
-      "Ковтун Вячеслав Анатольевич": 37,
-      "Крыжов Сергей Борисович": 16,
-      "Кубарев Валерий Викторович": 14,
-      "Пахомов Сергей Александрович": 373,
-      "Петров Иван Евгеньевич": 68,
-      "Преображенская Анастасия Викторовна": 42,
-      "Шальнев Андрей Сергеевич": 16
+      "gas:candidate-vibid:4504048296992": 25,
+      "gas:candidate-vibid:4504048296629": 30,
+      "gas:candidate-vibid:4504048296653": 25,
+      "gas:candidate-vibid:4504048296774": 37,
+      "gas:candidate-vibid:4504048296871": 16,
+      "gas:candidate-vibid:4504048296677": 14,
+      "gas:candidate-vibid:4504048296718": 373,
+      "gas:candidate-vibid:4504048296409": 68,
+      "gas:candidate-vibid:4504048296549": 42,
+      "gas:candidate-vibid:4504048296435": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14617,16 +14617,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 9,
-      "Болдырева Ольга Викторовна": 21,
-      "Горовец Татьяна Ивановна": 12,
-      "Ковтун Вячеслав Анатольевич": 6,
-      "Крыжов Сергей Борисович": 9,
-      "Кубарев Валерий Викторович": 3,
-      "Пахомов Сергей Александрович": 226,
-      "Петров Иван Евгеньевич": 33,
-      "Преображенская Анастасия Викторовна": 29,
-      "Шальнев Андрей Сергеевич": 2
+      "gas:candidate-vibid:4504048296992": 9,
+      "gas:candidate-vibid:4504048296629": 21,
+      "gas:candidate-vibid:4504048296653": 12,
+      "gas:candidate-vibid:4504048296774": 6,
+      "gas:candidate-vibid:4504048296871": 9,
+      "gas:candidate-vibid:4504048296677": 3,
+      "gas:candidate-vibid:4504048296718": 226,
+      "gas:candidate-vibid:4504048296409": 33,
+      "gas:candidate-vibid:4504048296549": 29,
+      "gas:candidate-vibid:4504048296435": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",
@@ -14677,16 +14677,16 @@ export const duma_2016_uik_463_region_50_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровник Владимир Михайлович": 8,
-      "Болдырева Ольга Викторовна": 25,
-      "Горовец Татьяна Ивановна": 8,
-      "Ковтун Вячеслав Анатольевич": 14,
-      "Крыжов Сергей Борисович": 10,
-      "Кубарев Валерий Викторович": 3,
-      "Пахомов Сергей Александрович": 256,
-      "Петров Иван Евгеньевич": 23,
-      "Преображенская Анастасия Викторовна": 29,
-      "Шальнев Андрей Сергеевич": 8
+      "gas:candidate-vibid:4504048296992": 8,
+      "gas:candidate-vibid:4504048296629": 25,
+      "gas:candidate-vibid:4504048296653": 8,
+      "gas:candidate-vibid:4504048296774": 14,
+      "gas:candidate-vibid:4504048296871": 10,
+      "gas:candidate-vibid:4504048296677": 3,
+      "gas:candidate-vibid:4504048296718": 256,
+      "gas:candidate-vibid:4504048296409": 23,
+      "gas:candidate-vibid:4504048296549": 29,
+      "gas:candidate-vibid:4504048296435": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000164&tvd=25020002005571&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005571&type=464",

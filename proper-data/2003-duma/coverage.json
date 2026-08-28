@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "election": "2003-duma",
   "regions": [
     {
@@ -1196,6 +1196,358 @@
       "reconciliation_status": "failed"
     }
   ],
+  "registry_gates": {
+    "sources_complete": true,
+    "registry_counts_complete": true,
+    "every_result_choice_matched_to_official_identity": true,
+    "identity_key_formulas_valid": true,
+    "uik_and_tik_vote_key_sets_valid": true,
+    "regular_and_special_winner_keys_exclusive": true,
+    "allowed_source_anomalies_exact": true,
+    "literal_elected_and_unique_highest_winner_agree": true,
+    "allowed_anomalies": [
+      {
+        "allowed": true,
+        "kind": "candidate-registry-history-duplicates",
+        "candidate_vibids": [
+          "1001000225964",
+          "271200071887"
+        ],
+        "row_count": 3031,
+        "unique_candidate_vibid_count": 3027
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 66,
+        "winner_candidate_key": "gas:candidate-vibid:332300170432",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 183,
+        "winner_candidate_key": "gas:candidate-vibid:1001000131422",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 187,
+        "winner_candidate_key": "gas:candidate-vibid:375300166704",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 196,
+        "winner_candidate_key": "gas:candidate-vibid:1001000226008",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 199,
+        "winner_candidate_key": "gas:candidate-vibid:1001000226011",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 201,
+        "winner_candidate_key": "gas:candidate-vibid:1001000112279",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 134,
+        "winner_candidate_key": "gas:candidate-vibid:257200070955",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 142,
+        "winner_candidate_key": "gas:candidate-vibid:1001000131406",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 144,
+        "winner_candidate_key": "gas:candidate-vibid:1001000225974",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 160,
+        "winner_candidate_key": "gas:candidate-vibid:1001000121908",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "against-all-district-winner",
+        "district_number": 207,
+        "special_winner_key": "special:against-all"
+      },
+      {
+        "allowed": true,
+        "kind": "against-all-district-winner",
+        "district_number": 162,
+        "special_winner_key": "special:against-all"
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 179,
+        "winner_candidate_key": "gas:candidate-vibid:1001000131420",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "against-all-district-winner",
+        "district_number": 181,
+        "special_winner_key": "special:against-all"
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2003-duma",
+        "district_number": 220,
+        "winner_candidate_key": "gas:candidate-vibid:285200066912",
+        "registry_statuses": [
+          ""
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "official-result-label-identity",
+        "district_number": 39,
+        "label": "Багишвили Евгений Нодариевич",
+        "reason": "official result label is absent from the official type=220 registry",
+        "vote_key": "special:official-result-label:39",
+        "observed_levels": [
+          "oik",
+          "tik",
+          "uik"
+        ],
+        "observed_counts": {
+          "oik": 1,
+          "tik": 7,
+          "uik": 356
+        }
+      },
+      {
+        "allowed": true,
+        "kind": "official-result-label-identity",
+        "district_number": 57,
+        "label": "Трембачева Татьяна Викторовна",
+        "reason": "official result label is absent from the official type=220 registry",
+        "vote_key": "special:official-result-label:57",
+        "observed_levels": [
+          "oik",
+          "tik",
+          "uik"
+        ],
+        "observed_counts": {
+          "oik": 1,
+          "tik": 6,
+          "uik": 296
+        }
+      },
+      {
+        "allowed": true,
+        "kind": "official-result-label-identity",
+        "district_number": 60,
+        "label": "Кузьмин Алексанр Николаевич",
+        "reason": "official result label conflicts with the official type=220 spelling Александр",
+        "vote_key": "special:official-result-label:60",
+        "observed_levels": [
+          "oik",
+          "tik",
+          "uik"
+        ],
+        "observed_counts": {
+          "oik": 1,
+          "tik": 28,
+          "uik": 793
+        }
+      },
+      {
+        "allowed": true,
+        "kind": "official-result-label-identity",
+        "district_number": 126,
+        "label": "Шадт Александр Евгеньевич",
+        "reason": "official result label conflicts with the official type=220 patronymic Александрович",
+        "vote_key": "special:official-result-label:126",
+        "observed_levels": [
+          "oik",
+          "tik",
+          "uik"
+        ],
+        "observed_counts": {
+          "oik": 1,
+          "tik": 5,
+          "uik": 250
+        }
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 3,
+        "raw_label": "9.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225866"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 6,
+        "raw_label": "9.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225869"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 9,
+        "raw_label": "5.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225872"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 19,
+        "raw_label": "6.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225879"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 30,
+        "raw_label": "7.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225909"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 48,
+        "raw_label": "2.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225918"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 64,
+        "raw_label": "3.",
+        "winner_candidate_key": "gas:candidate-vibid:331300171152"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 66,
+        "raw_label": "4.",
+        "winner_candidate_key": "gas:candidate-vibid:332300170432"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 67,
+        "raw_label": "8.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225928"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 115,
+        "raw_label": "6.",
+        "winner_candidate_key": "gas:candidate-vibid:350301170362"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 138,
+        "raw_label": "4.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225971"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 139,
+        "raw_label": "2.",
+        "winner_candidate_key": "gas:candidate-vibid:359300366617"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 143,
+        "raw_label": "2.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225973"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 145,
+        "raw_label": "3.",
+        "winner_candidate_key": "gas:candidate-vibid:361300470446"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 173,
+        "raw_label": "5.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000225993"
+      },
+      {
+        "allowed": true,
+        "kind": "obfuscated-oik-winner-label",
+        "district_number": 222,
+        "raw_label": "6.",
+        "winner_candidate_key": "gas:candidate-vibid:1001000226026"
+      }
+    ],
+    "errors": {
+      "sources": [],
+      "registry": [],
+      "identity": [],
+      "winner": []
+    },
+    "passed": true,
+    "publishable": true
+  },
   "summary": {
     "regions": 89,
     "districts": 225,
@@ -1207,8 +1559,10 @@
     "reconciliation_failures": 324,
     "build_errors": 0,
     "duplicate_conflicts": 0,
-    "direct_recovery_requests": 497,
-    "direct_recovery_valid": 0
+    "direct_recovery_requests": 491,
+    "direct_recovery_valid": 0,
+    "registry_sources_complete": true,
+    "registry_gates_passed": true
   },
   "failed_direct_recovery": [
     {
@@ -1680,9 +2034,9 @@
       "contest": "candidate",
       "report_type": 428,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=425400668867&region=25&sub_region=25&vibid=425400668867&type=428",
-      "status": 403,
-      "sha256": "bbae63fd9ec02300708aefe49c821ec50b6e9b2ca509d8b8f84d1a72bcbccc62",
-      "validation_error": null
+      "status": 200,
+      "sha256": "1ba51786f783dc35e7ca08da8532a34831cf3d7f50f443cc92593b8b04e7cc73",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "425400668867",
@@ -2318,9 +2672,9 @@
       "contest": "candidate",
       "report_type": 428,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=425400668928&region=25&sub_region=25&vibid=425400668928&type=428",
-      "status": 403,
-      "sha256": "46dac0f5a8078129050e00f282bd2182c716c763ee1dfb3569c4c9b6ee848b1a",
-      "validation_error": null
+      "status": 200,
+      "sha256": "6ea1f30ec1bc05080f3cf40efaefe4dd0fb02c53905ef08a8649a83bba48960b",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "425400668928",
@@ -2945,9 +3299,9 @@
       "contest": "party",
       "report_type": 430,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=425400967877&region=25&sub_region=25&vibid=425400967877&type=430",
-      "status": 403,
-      "sha256": "535efb68474fb61f93cad36d884d54564a9975a712d6a3a32e25f3122122bcb4",
-      "validation_error": null
+      "status": 200,
+      "sha256": "68ecfce353545f02fe8982c5d6fc5b5c22685b166b1b29b9b81f214e832c6bc6",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "425400967879",
@@ -3968,9 +4322,9 @@
       "contest": "party",
       "report_type": 430,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=412000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=441401167647&region=41&sub_region=41&vibid=441401167647&type=430",
-      "status": 403,
-      "sha256": "bd314a4d5d722c8f9c952bc6d325b17cebae8f8ef76c2bbac59ab297319140fb",
-      "validation_error": null
+      "status": 200,
+      "sha256": "86c45f353d333be4e9e0bddfb2e1f441154f90700892ed0de6b4134dfd34809f",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "441401167648",
@@ -4925,9 +5279,9 @@
       "contest": "party",
       "report_type": 430,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=412000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=441401168729&region=41&sub_region=41&vibid=441401168729&type=430",
-      "status": 403,
-      "sha256": "e93a7d1dd33b4d5b7b474251cf0e8141dc29e893344e2d5598ad67a3877cf788",
-      "validation_error": null
+      "status": 200,
+      "sha256": "f136f5cbd3dffa497477a33ffda78bdbcaf61c9179d63f269e9540b2617022e0",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "441401168730",
@@ -5299,9 +5653,9 @@
       "contest": "party",
       "report_type": 430,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=465401967322&region=65&sub_region=65&vibid=465401967322&type=430",
-      "status": 403,
-      "sha256": "1f8b058f2dd7c48b991fa03c27cca7555fe3401282e4afad44acc4fe4db5d738",
-      "validation_error": null
+      "status": 200,
+      "sha256": "6a652df6d2b700f06b6f554a5cbf360e1b3a201fa9022042840be84175e22903",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "465401967323",
@@ -6610,72 +6964,6 @@
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=478400371833&region=78&sub_region=78&vibid=478400371833&type=428",
       "status": 200,
       "sha256": "bfd87f16fa9915a7a5bcb4a71b8ff2f1c201c3bd83d373ea97fedfbd43b71390",
-      "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "425400668867",
-      "tik_tvd": "325300267619",
-      "region": "25",
-      "contest": "candidate",
-      "report_type": 428,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=425400668867&region=25&sub_region=25&vibid=425400668867&type=428",
-      "status": 200,
-      "sha256": "1ba51786f783dc35e7ca08da8532a34831cf3d7f50f443cc92593b8b04e7cc73",
-      "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "425400668928",
-      "tik_tvd": "325300267619",
-      "region": "25",
-      "contest": "candidate",
-      "report_type": 428,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=425400668928&region=25&sub_region=25&vibid=425400668928&type=428",
-      "status": 200,
-      "sha256": "6ea1f30ec1bc05080f3cf40efaefe4dd0fb02c53905ef08a8649a83bba48960b",
-      "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "425400967877",
-      "tik_tvd": "325300268231",
-      "region": "25",
-      "contest": "party",
-      "report_type": 430,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=425400967877&region=25&sub_region=25&vibid=425400967877&type=430",
-      "status": 200,
-      "sha256": "68ecfce353545f02fe8982c5d6fc5b5c22685b166b1b29b9b81f214e832c6bc6",
-      "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "441401167647",
-      "tik_tvd": "241200066962",
-      "region": "41",
-      "contest": "party",
-      "report_type": 430,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=412000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=441401167647&region=41&sub_region=41&vibid=441401167647&type=430",
-      "status": 200,
-      "sha256": "86c45f353d333be4e9e0bddfb2e1f441154f90700892ed0de6b4134dfd34809f",
-      "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "441401168729",
-      "tik_tvd": "241200066962",
-      "region": "41",
-      "contest": "party",
-      "report_type": 430,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=412000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=441401168729&region=41&sub_region=41&vibid=441401168729&type=430",
-      "status": 200,
-      "sha256": "f136f5cbd3dffa497477a33ffda78bdbcaf61c9179d63f269e9540b2617022e0",
-      "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "465401967322",
-      "tik_tvd": "265200066697",
-      "region": "65",
-      "contest": "party",
-      "report_type": 430,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=465401967322&region=65&sub_region=65&vibid=465401967322&type=430",
-      "status": 200,
-      "sha256": "6a652df6d2b700f06b6f554a5cbf360e1b3a201fa9022042840be84175e22903",
       "validation_error": "ValueError: page has no direct commission protocol"
     }
   ]

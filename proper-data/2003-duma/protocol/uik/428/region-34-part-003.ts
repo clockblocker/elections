@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 455,
-      "Горбанов Андрей Павлович": 95,
-      "Таранцов Михаил Александрович": 178,
-      "Против всех": 297
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 455,
+      "gas:candidate-vibid:1001000195064": 95,
+      "gas:candidate-vibid:1001000121839": 178,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 13,
-      "Галушкин Василий Иванович": 459,
-      "Горбанов Андрей Павлович": 87,
-      "Таранцов Михаил Александрович": 258,
-      "Против всех": 242
+      "gas:candidate-vibid:334300270424": 13,
+      "gas:candidate-vibid:1001000225931": 459,
+      "gas:candidate-vibid:1001000195064": 87,
+      "gas:candidate-vibid:1001000121839": 258,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 466,
-      "Горбанов Андрей Павлович": 74,
-      "Таранцов Михаил Александрович": 278,
-      "Против всех": 270
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 466,
+      "gas:candidate-vibid:1001000195064": 74,
+      "gas:candidate-vibid:1001000121839": 278,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 17,
-      "Галушкин Василий Иванович": 325,
-      "Горбанов Андрей Павлович": 61,
-      "Таранцов Михаил Александрович": 203,
-      "Против всех": 194
+      "gas:candidate-vibid:334300270424": 17,
+      "gas:candidate-vibid:1001000225931": 325,
+      "gas:candidate-vibid:1001000195064": 61,
+      "gas:candidate-vibid:1001000121839": 203,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 30,
-      "Галушкин Василий Иванович": 398,
-      "Горбанов Андрей Павлович": 119,
-      "Таранцов Михаил Александрович": 265,
-      "Против всех": 245
+      "gas:candidate-vibid:334300270424": 30,
+      "gas:candidate-vibid:1001000225931": 398,
+      "gas:candidate-vibid:1001000195064": 119,
+      "gas:candidate-vibid:1001000121839": 265,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 329,
-      "Горбанов Андрей Павлович": 152,
-      "Таранцов Михаил Александрович": 251,
-      "Против всех": 235
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 329,
+      "gas:candidate-vibid:1001000195064": 152,
+      "gas:candidate-vibid:1001000121839": 251,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 328,
-      "Горбанов Андрей Павлович": 120,
-      "Таранцов Михаил Александрович": 288,
-      "Против всех": 244
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 328,
+      "gas:candidate-vibid:1001000195064": 120,
+      "gas:candidate-vibid:1001000121839": 288,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 182,
-      "Горбанов Андрей Павлович": 16,
-      "Таранцов Михаил Александрович": 78,
-      "Против всех": 71
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 182,
+      "gas:candidate-vibid:1001000195064": 16,
+      "gas:candidate-vibid:1001000121839": 78,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 8,
-      "Галушкин Василий Иванович": 218,
-      "Горбанов Андрей Павлович": 27,
-      "Таранцов Михаил Александрович": 119,
-      "Против всех": 308
+      "gas:candidate-vibid:334300270424": 8,
+      "gas:candidate-vibid:1001000225931": 218,
+      "gas:candidate-vibid:1001000195064": 27,
+      "gas:candidate-vibid:1001000121839": 119,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 105,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 60,
-      "Против всех": 74
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 105,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 60,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 70,
-      "Горбанов Андрей Павлович": 16,
-      "Таранцов Михаил Александрович": 40,
-      "Против всех": 46
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 70,
+      "gas:candidate-vibid:1001000195064": 16,
+      "gas:candidate-vibid:1001000121839": 40,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 25,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 29,
-      "Против всех": 18
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 25,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 29,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 48,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 45,
-      "Против всех": 37
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 48,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 45,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 163,
-      "Горбанов Андрей Павлович": 10,
-      "Таранцов Михаил Александрович": 25,
-      "Против всех": 22
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 163,
+      "gas:candidate-vibid:1001000195064": 10,
+      "gas:candidate-vibid:1001000121839": 25,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270552&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 31,
-      "Галушкин Василий Иванович": 402,
-      "Горбанов Андрей Павлович": 98,
-      "Таранцов Михаил Александрович": 321,
-      "Против всех": 382
+      "gas:candidate-vibid:334300270424": 31,
+      "gas:candidate-vibid:1001000225931": 402,
+      "gas:candidate-vibid:1001000195064": 98,
+      "gas:candidate-vibid:1001000121839": 321,
+      "special:against-all": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 35,
-      "Галушкин Василий Иванович": 349,
-      "Горбанов Андрей Павлович": 112,
-      "Таранцов Михаил Александрович": 282,
-      "Против всех": 360
+      "gas:candidate-vibid:334300270424": 35,
+      "gas:candidate-vibid:1001000225931": 349,
+      "gas:candidate-vibid:1001000195064": 112,
+      "gas:candidate-vibid:1001000121839": 282,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 24,
-      "Галушкин Василий Иванович": 352,
-      "Горбанов Андрей Павлович": 142,
-      "Таранцов Михаил Александрович": 312,
-      "Против всех": 395
+      "gas:candidate-vibid:334300270424": 24,
+      "gas:candidate-vibid:1001000225931": 352,
+      "gas:candidate-vibid:1001000195064": 142,
+      "gas:candidate-vibid:1001000121839": 312,
+      "special:against-all": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 35,
-      "Галушкин Василий Иванович": 392,
-      "Горбанов Андрей Павлович": 94,
-      "Таранцов Михаил Александрович": 341,
-      "Против всех": 337
+      "gas:candidate-vibid:334300270424": 35,
+      "gas:candidate-vibid:1001000225931": 392,
+      "gas:candidate-vibid:1001000195064": 94,
+      "gas:candidate-vibid:1001000121839": 341,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 28,
-      "Галушкин Василий Иванович": 448,
-      "Горбанов Андрей Павлович": 106,
-      "Таранцов Михаил Александрович": 242,
-      "Против всех": 364
+      "gas:candidate-vibid:334300270424": 28,
+      "gas:candidate-vibid:1001000225931": 448,
+      "gas:candidate-vibid:1001000195064": 106,
+      "gas:candidate-vibid:1001000121839": 242,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 151,
-      "Горбанов Андрей Павлович": 17,
-      "Таранцов Михаил Александрович": 51,
-      "Против всех": 87
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 151,
+      "gas:candidate-vibid:1001000195064": 17,
+      "gas:candidate-vibid:1001000121839": 51,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 27,
-      "Галушкин Василий Иванович": 444,
-      "Горбанов Андрей Павлович": 101,
-      "Таранцов Михаил Александрович": 204,
-      "Против всех": 368
+      "gas:candidate-vibid:334300270424": 27,
+      "gas:candidate-vibid:1001000225931": 444,
+      "gas:candidate-vibid:1001000195064": 101,
+      "gas:candidate-vibid:1001000121839": 204,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 36,
-      "Галушкин Василий Иванович": 381,
-      "Горбанов Андрей Павлович": 162,
-      "Таранцов Михаил Александрович": 195,
-      "Против всех": 457
+      "gas:candidate-vibid:334300270424": 36,
+      "gas:candidate-vibid:1001000225931": 381,
+      "gas:candidate-vibid:1001000195064": 162,
+      "gas:candidate-vibid:1001000121839": 195,
+      "special:against-all": 457
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 42,
-      "Галушкин Василий Иванович": 462,
-      "Горбанов Андрей Павлович": 128,
-      "Таранцов Михаил Александрович": 264,
-      "Против всех": 387
+      "gas:candidate-vibid:334300270424": 42,
+      "gas:candidate-vibid:1001000225931": 462,
+      "gas:candidate-vibid:1001000195064": 128,
+      "gas:candidate-vibid:1001000121839": 264,
+      "special:against-all": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 134,
-      "Горбанов Андрей Павлович": 26,
-      "Таранцов Михаил Александрович": 107,
-      "Против всех": 133
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 134,
+      "gas:candidate-vibid:1001000195064": 26,
+      "gas:candidate-vibid:1001000121839": 107,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 27,
-      "Галушкин Василий Иванович": 376,
-      "Горбанов Андрей Павлович": 40,
-      "Таранцов Михаил Александрович": 81,
-      "Против всех": 113
+      "gas:candidate-vibid:334300270424": 27,
+      "gas:candidate-vibid:1001000225931": 376,
+      "gas:candidate-vibid:1001000195064": 40,
+      "gas:candidate-vibid:1001000121839": 81,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 19,
-      "Галушкин Василий Иванович": 350,
-      "Горбанов Андрей Павлович": 97,
-      "Таранцов Михаил Александрович": 282,
-      "Против всех": 439
+      "gas:candidate-vibid:334300270424": 19,
+      "gas:candidate-vibid:1001000225931": 350,
+      "gas:candidate-vibid:1001000195064": 97,
+      "gas:candidate-vibid:1001000121839": 282,
+      "special:against-all": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 84,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 133,
-      "Против всех": 25
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 84,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 133,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 19,
-      "Галушкин Василий Иванович": 254,
-      "Горбанов Андрей Павлович": 55,
-      "Таранцов Михаил Александрович": 140,
-      "Против всех": 200
+      "gas:candidate-vibid:334300270424": 19,
+      "gas:candidate-vibid:1001000225931": 254,
+      "gas:candidate-vibid:1001000195064": 55,
+      "gas:candidate-vibid:1001000121839": 140,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 320,
-      "Горбанов Андрей Павлович": 91,
-      "Таранцов Михаил Александрович": 208,
-      "Против всех": 238
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 320,
+      "gas:candidate-vibid:1001000195064": 91,
+      "gas:candidate-vibid:1001000121839": 208,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 23,
-      "Галушкин Василий Иванович": 306,
-      "Горбанов Андрей Павлович": 79,
-      "Таранцов Михаил Александрович": 158,
-      "Против всех": 226
+      "gas:candidate-vibid:334300270424": 23,
+      "gas:candidate-vibid:1001000225931": 306,
+      "gas:candidate-vibid:1001000195064": 79,
+      "gas:candidate-vibid:1001000121839": 158,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 30,
-      "Галушкин Василий Иванович": 349,
-      "Горбанов Андрей Павлович": 82,
-      "Таранцов Михаил Александрович": 166,
-      "Против всех": 285
+      "gas:candidate-vibid:334300270424": 30,
+      "gas:candidate-vibid:1001000225931": 349,
+      "gas:candidate-vibid:1001000195064": 82,
+      "gas:candidate-vibid:1001000121839": 166,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 417,
-      "Горбанов Андрей Павлович": 124,
-      "Таранцов Михаил Александрович": 248,
-      "Против всех": 417
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 417,
+      "gas:candidate-vibid:1001000195064": 124,
+      "gas:candidate-vibid:1001000121839": 248,
+      "special:against-all": 417
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 29,
-      "Галушкин Василий Иванович": 519,
-      "Горбанов Андрей Павлович": 109,
-      "Таранцов Михаил Александрович": 258,
-      "Против всех": 552
+      "gas:candidate-vibid:334300270424": 29,
+      "gas:candidate-vibid:1001000225931": 519,
+      "gas:candidate-vibid:1001000195064": 109,
+      "gas:candidate-vibid:1001000121839": 258,
+      "special:against-all": 552
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 340,
-      "Горбанов Андрей Павлович": 61,
-      "Таранцов Михаил Александрович": 219,
-      "Против всех": 280
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 340,
+      "gas:candidate-vibid:1001000195064": 61,
+      "gas:candidate-vibid:1001000121839": 219,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 121,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 34,
-      "Против всех": 53
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 121,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 34,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 23,
-      "Галушкин Василий Иванович": 403,
-      "Горбанов Андрей Павлович": 92,
-      "Таранцов Михаил Александрович": 204,
-      "Против всех": 315
+      "gas:candidate-vibid:334300270424": 23,
+      "gas:candidate-vibid:1001000225931": 403,
+      "gas:candidate-vibid:1001000195064": 92,
+      "gas:candidate-vibid:1001000121839": 204,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 460,
-      "Горбанов Андрей Павлович": 107,
-      "Таранцов Михаил Александрович": 170,
-      "Против всех": 386
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 460,
+      "gas:candidate-vibid:1001000195064": 107,
+      "gas:candidate-vibid:1001000121839": 170,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 29,
-      "Галушкин Василий Иванович": 350,
-      "Горбанов Андрей Павлович": 93,
-      "Таранцов Михаил Александрович": 200,
-      "Против всех": 367
+      "gas:candidate-vibid:334300270424": 29,
+      "gas:candidate-vibid:1001000225931": 350,
+      "gas:candidate-vibid:1001000195064": 93,
+      "gas:candidate-vibid:1001000121839": 200,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 365,
-      "Горбанов Андрей Павлович": 141,
-      "Таранцов Михаил Александрович": 221,
-      "Против всех": 406
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 365,
+      "gas:candidate-vibid:1001000195064": 141,
+      "gas:candidate-vibid:1001000121839": 221,
+      "special:against-all": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 29,
-      "Галушкин Василий Иванович": 403,
-      "Горбанов Андрей Павлович": 137,
-      "Таранцов Михаил Александрович": 249,
-      "Против всех": 393
+      "gas:candidate-vibid:334300270424": 29,
+      "gas:candidate-vibid:1001000225931": 403,
+      "gas:candidate-vibid:1001000195064": 137,
+      "gas:candidate-vibid:1001000121839": 249,
+      "special:against-all": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 19,
-      "Галушкин Василий Иванович": 240,
-      "Горбанов Андрей Павлович": 43,
-      "Таранцов Михаил Александрович": 116,
-      "Против всех": 215
+      "gas:candidate-vibid:334300270424": 19,
+      "gas:candidate-vibid:1001000225931": 240,
+      "gas:candidate-vibid:1001000195064": 43,
+      "gas:candidate-vibid:1001000121839": 116,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 25,
-      "Галушкин Василий Иванович": 311,
-      "Горбанов Андрей Павлович": 107,
-      "Таранцов Михаил Александрович": 214,
-      "Против всех": 316
+      "gas:candidate-vibid:334300270424": 25,
+      "gas:candidate-vibid:1001000225931": 311,
+      "gas:candidate-vibid:1001000195064": 107,
+      "gas:candidate-vibid:1001000121839": 214,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 21,
-      "Галушкин Василий Иванович": 381,
-      "Горбанов Андрей Павлович": 126,
-      "Таранцов Михаил Александрович": 197,
-      "Против всех": 363
+      "gas:candidate-vibid:334300270424": 21,
+      "gas:candidate-vibid:1001000225931": 381,
+      "gas:candidate-vibid:1001000195064": 126,
+      "gas:candidate-vibid:1001000121839": 197,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 117,
-      "Горбанов Андрей Павлович": 38,
-      "Таранцов Михаил Александрович": 34,
-      "Против всех": 175
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 117,
+      "gas:candidate-vibid:1001000195064": 38,
+      "gas:candidate-vibid:1001000121839": 34,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 25,
-      "Галушкин Василий Иванович": 386,
-      "Горбанов Андрей Павлович": 133,
-      "Таранцов Михаил Александрович": 193,
-      "Против всех": 397
+      "gas:candidate-vibid:334300270424": 25,
+      "gas:candidate-vibid:1001000225931": 386,
+      "gas:candidate-vibid:1001000195064": 133,
+      "gas:candidate-vibid:1001000121839": 193,
+      "special:against-all": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 22,
-      "Галушкин Василий Иванович": 328,
-      "Горбанов Андрей Павлович": 141,
-      "Таранцов Михаил Александрович": 240,
-      "Против всех": 279
+      "gas:candidate-vibid:334300270424": 22,
+      "gas:candidate-vibid:1001000225931": 328,
+      "gas:candidate-vibid:1001000195064": 141,
+      "gas:candidate-vibid:1001000121839": 240,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 13,
-      "Галушкин Василий Иванович": 272,
-      "Горбанов Андрей Павлович": 122,
-      "Таранцов Михаил Александрович": 225,
-      "Против всех": 248
+      "gas:candidate-vibid:334300270424": 13,
+      "gas:candidate-vibid:1001000225931": 272,
+      "gas:candidate-vibid:1001000195064": 122,
+      "gas:candidate-vibid:1001000121839": 225,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 425,
-      "Горбанов Андрей Павлович": 51,
-      "Таранцов Михаил Александрович": 233,
-      "Против всех": 191
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 425,
+      "gas:candidate-vibid:1001000195064": 51,
+      "gas:candidate-vibid:1001000121839": 233,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 431,
-      "Горбанов Андрей Павлович": 69,
-      "Таранцов Михаил Александрович": 245,
-      "Против всех": 203
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 431,
+      "gas:candidate-vibid:1001000195064": 69,
+      "gas:candidate-vibid:1001000121839": 245,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 406,
-      "Горбанов Андрей Павлович": 84,
-      "Таранцов Михаил Александрович": 270,
-      "Против всех": 225
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 406,
+      "gas:candidate-vibid:1001000195064": 84,
+      "gas:candidate-vibid:1001000121839": 270,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 39,
-      "Галушкин Василий Иванович": 510,
-      "Горбанов Андрей Павлович": 173,
-      "Таранцов Михаил Александрович": 245,
-      "Против всех": 403
+      "gas:candidate-vibid:334300270424": 39,
+      "gas:candidate-vibid:1001000225931": 510,
+      "gas:candidate-vibid:1001000195064": 173,
+      "gas:candidate-vibid:1001000121839": 245,
+      "special:against-all": 403
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 33,
-      "Галушкин Василий Иванович": 409,
-      "Горбанов Андрей Павлович": 20,
-      "Таранцов Михаил Александрович": 79,
-      "Против всех": 110
+      "gas:candidate-vibid:334300270424": 33,
+      "gas:candidate-vibid:1001000225931": 409,
+      "gas:candidate-vibid:1001000195064": 20,
+      "gas:candidate-vibid:1001000121839": 79,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 10,
-      "Галушкин Василий Иванович": 172,
-      "Горбанов Андрей Павлович": 37,
-      "Таранцов Михаил Александрович": 110,
-      "Против всех": 123
+      "gas:candidate-vibid:334300270424": 10,
+      "gas:candidate-vibid:1001000225931": 172,
+      "gas:candidate-vibid:1001000195064": 37,
+      "gas:candidate-vibid:1001000121839": 110,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 281,
-      "Горбанов Андрей Павлович": 40,
-      "Таранцов Михаил Александрович": 203,
-      "Против всех": 136
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 281,
+      "gas:candidate-vibid:1001000195064": 40,
+      "gas:candidate-vibid:1001000121839": 203,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 125,
-      "Горбанов Андрей Павлович": 20,
-      "Таранцов Михаил Александрович": 56,
-      "Против всех": 81
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 125,
+      "gas:candidate-vibid:1001000195064": 20,
+      "gas:candidate-vibid:1001000121839": 56,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270553&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 41,
-      "Галушкин Василий Иванович": 476,
-      "Горбанов Андрей Павлович": 130,
-      "Таранцов Михаил Александрович": 356,
-      "Против всех": 447
+      "gas:candidate-vibid:334300270424": 41,
+      "gas:candidate-vibid:1001000225931": 476,
+      "gas:candidate-vibid:1001000195064": 130,
+      "gas:candidate-vibid:1001000121839": 356,
+      "special:against-all": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 20,
-      "Галушкин Василий Иванович": 238,
-      "Горбанов Андрей Павлович": 85,
-      "Таранцов Михаил Александрович": 167,
-      "Против всех": 236
+      "gas:candidate-vibid:334300270424": 20,
+      "gas:candidate-vibid:1001000225931": 238,
+      "gas:candidate-vibid:1001000195064": 85,
+      "gas:candidate-vibid:1001000121839": 167,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 17,
-      "Галушкин Василий Иванович": 242,
-      "Горбанов Андрей Павлович": 72,
-      "Таранцов Михаил Александрович": 238,
-      "Против всех": 304
+      "gas:candidate-vibid:334300270424": 17,
+      "gas:candidate-vibid:1001000225931": 242,
+      "gas:candidate-vibid:1001000195064": 72,
+      "gas:candidate-vibid:1001000121839": 238,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 29,
-      "Галушкин Василий Иванович": 349,
-      "Горбанов Андрей Павлович": 107,
-      "Таранцов Михаил Александрович": 230,
-      "Против всех": 347
+      "gas:candidate-vibid:334300270424": 29,
+      "gas:candidate-vibid:1001000225931": 349,
+      "gas:candidate-vibid:1001000195064": 107,
+      "gas:candidate-vibid:1001000121839": 230,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Борисов Сергей Владимирович": 21,
-      "Галушкин Василий Иванович": 309,
-      "Горбанов Андрей Павлович": 87,
-      "Таранцов Михаил Александрович": 255,
-      "Против всех": 249
+      "gas:candidate-vibid:334300270424": 21,
+      "gas:candidate-vibid:1001000225931": 309,
+      "gas:candidate-vibid:1001000195064": 87,
+      "gas:candidate-vibid:1001000121839": 255,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 228,
-      "Горбанов Андрей Павлович": 42,
-      "Таранцов Михаил Александрович": 203,
-      "Против всех": 158
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 228,
+      "gas:candidate-vibid:1001000195064": 42,
+      "gas:candidate-vibid:1001000121839": 203,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 28,
-      "Галушкин Василий Иванович": 417,
-      "Горбанов Андрей Павлович": 95,
-      "Таранцов Михаил Александрович": 249,
-      "Против всех": 270
+      "gas:candidate-vibid:334300270424": 28,
+      "gas:candidate-vibid:1001000225931": 417,
+      "gas:candidate-vibid:1001000195064": 95,
+      "gas:candidate-vibid:1001000121839": 249,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 255,
-      "Горбанов Андрей Павлович": 33,
-      "Таранцов Михаил Александрович": 99,
-      "Против всех": 130
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 255,
+      "gas:candidate-vibid:1001000195064": 33,
+      "gas:candidate-vibid:1001000121839": 99,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 22,
-      "Галушкин Василий Иванович": 418,
-      "Горбанов Андрей Павлович": 82,
-      "Таранцов Михаил Александрович": 201,
-      "Против всех": 320
+      "gas:candidate-vibid:334300270424": 22,
+      "gas:candidate-vibid:1001000225931": 418,
+      "gas:candidate-vibid:1001000195064": 82,
+      "gas:candidate-vibid:1001000121839": 201,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 16,
-      "Галушкин Василий Иванович": 348,
-      "Горбанов Андрей Павлович": 65,
-      "Таранцов Михаил Александрович": 208,
-      "Против всех": 199
+      "gas:candidate-vibid:334300270424": 16,
+      "gas:candidate-vibid:1001000225931": 348,
+      "gas:candidate-vibid:1001000195064": 65,
+      "gas:candidate-vibid:1001000121839": 208,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 201,
-      "Горбанов Андрей Павлович": 30,
-      "Таранцов Михаил Александрович": 174,
-      "Против всех": 118
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 201,
+      "gas:candidate-vibid:1001000195064": 30,
+      "gas:candidate-vibid:1001000121839": 174,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 102,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 29,
-      "Против всех": 37
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 102,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 29,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 21,
-      "Галушкин Василий Иванович": 361,
-      "Горбанов Андрей Павлович": 46,
-      "Таранцов Михаил Александрович": 165,
-      "Против всех": 183
+      "gas:candidate-vibid:334300270424": 21,
+      "gas:candidate-vibid:1001000225931": 361,
+      "gas:candidate-vibid:1001000195064": 46,
+      "gas:candidate-vibid:1001000121839": 165,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 8,
-      "Галушкин Василий Иванович": 211,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 93,
-      "Против всех": 88
+      "gas:candidate-vibid:334300270424": 8,
+      "gas:candidate-vibid:1001000225931": 211,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 93,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 449,
-      "Горбанов Андрей Павлович": 40,
-      "Таранцов Михаил Александрович": 151,
-      "Против всех": 181
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 449,
+      "gas:candidate-vibid:1001000195064": 40,
+      "gas:candidate-vibid:1001000121839": 151,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 308,
-      "Горбанов Андрей Павлович": 41,
-      "Таранцов Михаил Александрович": 248,
-      "Против всех": 166
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 308,
+      "gas:candidate-vibid:1001000195064": 41,
+      "gas:candidate-vibid:1001000121839": 248,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 257,
-      "Горбанов Андрей Павлович": 32,
-      "Таранцов Михаил Александрович": 109,
-      "Против всех": 138
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 257,
+      "gas:candidate-vibid:1001000195064": 32,
+      "gas:candidate-vibid:1001000121839": 109,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 195,
-      "Горбанов Андрей Павлович": 7,
-      "Таранцов Михаил Александрович": 86,
-      "Против всех": 56
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 195,
+      "gas:candidate-vibid:1001000195064": 7,
+      "gas:candidate-vibid:1001000121839": 86,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 94,
-      "Горбанов Андрей Павлович": 9,
-      "Таранцов Михаил Александрович": 62,
-      "Против всех": 47
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 94,
+      "gas:candidate-vibid:1001000195064": 9,
+      "gas:candidate-vibid:1001000121839": 62,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 10,
-      "Галушкин Василий Иванович": 257,
-      "Горбанов Андрей Павлович": 25,
-      "Таранцов Михаил Александрович": 63,
-      "Против всех": 114
+      "gas:candidate-vibid:334300270424": 10,
+      "gas:candidate-vibid:1001000225931": 257,
+      "gas:candidate-vibid:1001000195064": 25,
+      "gas:candidate-vibid:1001000121839": 63,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 214,
-      "Горбанов Андрей Павлович": 22,
-      "Таранцов Михаил Александрович": 110,
-      "Против всех": 84
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 214,
+      "gas:candidate-vibid:1001000195064": 22,
+      "gas:candidate-vibid:1001000121839": 110,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 22,
-      "Галушкин Василий Иванович": 422,
-      "Горбанов Андрей Павлович": 68,
-      "Таранцов Михаил Александрович": 413,
-      "Против всех": 287
+      "gas:candidate-vibid:334300270424": 22,
+      "gas:candidate-vibid:1001000225931": 422,
+      "gas:candidate-vibid:1001000195064": 68,
+      "gas:candidate-vibid:1001000121839": 413,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 26,
-      "Галушкин Василий Иванович": 354,
-      "Горбанов Андрей Павлович": 42,
-      "Таранцов Михаил Александрович": 448,
-      "Против всех": 355
+      "gas:candidate-vibid:334300270424": 26,
+      "gas:candidate-vibid:1001000225931": 354,
+      "gas:candidate-vibid:1001000195064": 42,
+      "gas:candidate-vibid:1001000121839": 448,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 316,
-      "Горбанов Андрей Павлович": 14,
-      "Таранцов Михаил Александрович": 153,
-      "Против всех": 105
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 316,
+      "gas:candidate-vibid:1001000195064": 14,
+      "gas:candidate-vibid:1001000121839": 153,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 24,
-      "Галушкин Василий Иванович": 346,
-      "Горбанов Андрей Павлович": 33,
-      "Таранцов Михаил Александрович": 236,
-      "Против всех": 221
+      "gas:candidate-vibid:334300270424": 24,
+      "gas:candidate-vibid:1001000225931": 346,
+      "gas:candidate-vibid:1001000195064": 33,
+      "gas:candidate-vibid:1001000121839": 236,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 88,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 43,
-      "Против всех": 31
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 88,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 43,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 208,
-      "Горбанов Андрей Павлович": 26,
-      "Таранцов Михаил Александрович": 87,
-      "Против всех": 125
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 208,
+      "gas:candidate-vibid:1001000195064": 26,
+      "gas:candidate-vibid:1001000121839": 87,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 104,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 56,
-      "Против всех": 33
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 104,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 56,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 48,
-      "Горбанов Андрей Павлович": 7,
-      "Таранцов Михаил Александрович": 20,
-      "Против всех": 35
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 48,
+      "gas:candidate-vibid:1001000195064": 7,
+      "gas:candidate-vibid:1001000121839": 20,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 8,
-      "Галушкин Василий Иванович": 107,
-      "Горбанов Андрей Павлович": 18,
-      "Таранцов Михаил Александрович": 46,
-      "Против всех": 59
+      "gas:candidate-vibid:334300270424": 8,
+      "gas:candidate-vibid:1001000225931": 107,
+      "gas:candidate-vibid:1001000195064": 18,
+      "gas:candidate-vibid:1001000121839": 46,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270554&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 177,
-      "Горбанов Андрей Павлович": 7,
-      "Таранцов Михаил Александрович": 117,
-      "Против всех": 28
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 177,
+      "gas:candidate-vibid:1001000195064": 7,
+      "gas:candidate-vibid:1001000121839": 117,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 21,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 36,
-      "Против всех": 3
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 21,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 36,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 92,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 24,
-      "Против всех": 10
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 92,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 24,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -4794,11 +4794,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 64,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 29,
-      "Против всех": 15
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 64,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 29,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -4848,11 +4848,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 8,
-      "Галушкин Василий Иванович": 303,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 153,
-      "Против всех": 49
+      "gas:candidate-vibid:334300270424": 8,
+      "gas:candidate-vibid:1001000225931": 303,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 153,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -4902,11 +4902,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 118,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 87,
-      "Против всех": 24
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 118,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 87,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -4956,11 +4956,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 36,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 17,
-      "Против всех": 8
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 36,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 17,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5010,11 +5010,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 298,
-      "Горбанов Андрей Павлович": 25,
-      "Таранцов Михаил Александрович": 191,
-      "Против всех": 89
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 298,
+      "gas:candidate-vibid:1001000195064": 25,
+      "gas:candidate-vibid:1001000121839": 191,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5064,11 +5064,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 20,
-      "Галушкин Василий Иванович": 462,
-      "Горбанов Андрей Павлович": 56,
-      "Таранцов Михаил Александрович": 309,
-      "Против всех": 187
+      "gas:candidate-vibid:334300270424": 20,
+      "gas:candidate-vibid:1001000225931": 462,
+      "gas:candidate-vibid:1001000195064": 56,
+      "gas:candidate-vibid:1001000121839": 309,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5118,11 +5118,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 183,
-      "Горбанов Андрей Павлович": 13,
-      "Таранцов Михаил Александрович": 146,
-      "Против всех": 31
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 183,
+      "gas:candidate-vibid:1001000195064": 13,
+      "gas:candidate-vibid:1001000121839": 146,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5172,11 +5172,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 48,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 49,
-      "Против всех": 5
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 48,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 49,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5226,11 +5226,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 16,
-      "Галушкин Василий Иванович": 317,
-      "Горбанов Андрей Павлович": 22,
-      "Таранцов Михаил Александрович": 79,
-      "Против всех": 133
+      "gas:candidate-vibid:334300270424": 16,
+      "gas:candidate-vibid:1001000225931": 317,
+      "gas:candidate-vibid:1001000195064": 22,
+      "gas:candidate-vibid:1001000121839": 79,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5280,11 +5280,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 259,
-      "Горбанов Андрей Павлович": 25,
-      "Таранцов Михаил Александрович": 240,
-      "Против всех": 85
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 259,
+      "gas:candidate-vibid:1001000195064": 25,
+      "gas:candidate-vibid:1001000121839": 240,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5334,11 +5334,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 4
     },
     "votes": {
-      "Борисов Сергей Владимирович": 67,
-      "Галушкин Василий Иванович": 475,
-      "Горбанов Андрей Павлович": 83,
-      "Таранцов Михаил Александрович": 152,
-      "Против всех": 348
+      "gas:candidate-vibid:334300270424": 67,
+      "gas:candidate-vibid:1001000225931": 475,
+      "gas:candidate-vibid:1001000195064": 83,
+      "gas:candidate-vibid:1001000121839": 152,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5388,11 +5388,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 30,
-      "Галушкин Василий Иванович": 388,
-      "Горбанов Андрей Павлович": 59,
-      "Таранцов Михаил Александрович": 205,
-      "Против всех": 313
+      "gas:candidate-vibid:334300270424": 30,
+      "gas:candidate-vibid:1001000225931": 388,
+      "gas:candidate-vibid:1001000195064": 59,
+      "gas:candidate-vibid:1001000121839": 205,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5442,11 +5442,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 79,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 70,
-      "Против всех": 16
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 79,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 70,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5496,11 +5496,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 185,
-      "Горбанов Андрей Павлович": 23,
-      "Таранцов Михаил Александрович": 254,
-      "Против всех": 59
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 185,
+      "gas:candidate-vibid:1001000195064": 23,
+      "gas:candidate-vibid:1001000121839": 254,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5550,11 +5550,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 56,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 40,
-      "Против всех": 11
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 56,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 40,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5604,11 +5604,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 83,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 52,
-      "Против всех": 14
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 83,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 52,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5658,11 +5658,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 130,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 90,
-      "Против всех": 29
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 130,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 90,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5712,11 +5712,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 196,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 42,
-      "Против всех": 28
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 196,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 42,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5766,11 +5766,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 101,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 23,
-      "Против всех": 10
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 101,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 23,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5820,11 +5820,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 65,
-      "Горбанов Андрей Павлович": 0,
-      "Таранцов Михаил Александрович": 23,
-      "Против всех": 14
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 65,
+      "gas:candidate-vibid:1001000195064": 0,
+      "gas:candidate-vibid:1001000121839": 23,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5874,11 +5874,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 95,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 59,
-      "Против всех": 14
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 95,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 59,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5928,11 +5928,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 106,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 24,
-      "Против всех": 12
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 106,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 24,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -5982,11 +5982,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 38,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 42,
-      "Против всех": 18
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 38,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 42,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6036,11 +6036,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 185,
-      "Горбанов Андрей Павлович": 17,
-      "Таранцов Михаил Александрович": 161,
-      "Против всех": 80
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 185,
+      "gas:candidate-vibid:1001000195064": 17,
+      "gas:candidate-vibid:1001000121839": 161,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6090,11 +6090,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 211,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 52,
-      "Против всех": 34
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 211,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 52,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6144,11 +6144,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 314,
-      "Горбанов Андрей Павлович": 20,
-      "Таранцов Михаил Александрович": 193,
-      "Против всех": 76
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 314,
+      "gas:candidate-vibid:1001000195064": 20,
+      "gas:candidate-vibid:1001000121839": 193,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6198,11 +6198,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 64,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 35,
-      "Против всех": 3
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 64,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 35,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6252,11 +6252,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 39,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 39,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6306,11 +6306,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 87,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 28,
-      "Против всех": 14
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 87,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 28,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6360,11 +6360,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 64,
-      "Горбанов Андрей Павлович": 7,
-      "Таранцов Михаил Александрович": 26,
-      "Против всех": 12
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 64,
+      "gas:candidate-vibid:1001000195064": 7,
+      "gas:candidate-vibid:1001000121839": 26,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6414,11 +6414,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 129,
-      "Горбанов Андрей Павлович": 9,
-      "Таранцов Михаил Александрович": 57,
-      "Против всех": 33
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 129,
+      "gas:candidate-vibid:1001000195064": 9,
+      "gas:candidate-vibid:1001000121839": 57,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6468,11 +6468,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 72,
-      "Горбанов Андрей Павлович": 8,
-      "Таранцов Михаил Александрович": 25,
-      "Против всех": 17
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 72,
+      "gas:candidate-vibid:1001000195064": 8,
+      "gas:candidate-vibid:1001000121839": 25,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6522,11 +6522,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 108,
-      "Горбанов Андрей Павлович": 16,
-      "Таранцов Михаил Александрович": 69,
-      "Против всех": 34
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 108,
+      "gas:candidate-vibid:1001000195064": 16,
+      "gas:candidate-vibid:1001000121839": 69,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6576,11 +6576,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 17,
-      "Галушкин Василий Иванович": 327,
-      "Горбанов Андрей Павлович": 21,
-      "Таранцов Михаил Александрович": 335,
-      "Против всех": 158
+      "gas:candidate-vibid:334300270424": 17,
+      "gas:candidate-vibid:1001000225931": 327,
+      "gas:candidate-vibid:1001000195064": 21,
+      "gas:candidate-vibid:1001000121839": 335,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6630,11 +6630,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 245,
-      "Горбанов Андрей Павлович": 40,
-      "Таранцов Михаил Александрович": 235,
-      "Против всех": 81
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 245,
+      "gas:candidate-vibid:1001000195064": 40,
+      "gas:candidate-vibid:1001000121839": 235,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6684,11 +6684,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 152,
-      "Горбанов Андрей Павлович": 16,
-      "Таранцов Михаил Александрович": 182,
-      "Против всех": 58
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 152,
+      "gas:candidate-vibid:1001000195064": 16,
+      "gas:candidate-vibid:1001000121839": 182,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6738,11 +6738,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 79,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 117,
-      "Против всех": 25
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 79,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 117,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6792,11 +6792,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 105,
-      "Горбанов Андрей Павлович": 9,
-      "Таранцов Михаил Александрович": 101,
-      "Против всех": 19
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 105,
+      "gas:candidate-vibid:1001000195064": 9,
+      "gas:candidate-vibid:1001000121839": 101,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6846,11 +6846,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 21,
-      "Галушкин Василий Иванович": 498,
-      "Горбанов Андрей Павлович": 61,
-      "Таранцов Михаил Александрович": 508,
-      "Против всех": 187
+      "gas:candidate-vibid:334300270424": 21,
+      "gas:candidate-vibid:1001000225931": 498,
+      "gas:candidate-vibid:1001000195064": 61,
+      "gas:candidate-vibid:1001000121839": 508,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6900,11 +6900,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 287,
-      "Горбанов Андрей Павлович": 52,
-      "Таранцов Михаил Александрович": 209,
-      "Против всех": 128
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 287,
+      "gas:candidate-vibid:1001000195064": 52,
+      "gas:candidate-vibid:1001000121839": 209,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -6954,11 +6954,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 64,
-      "Галушкин Василий Иванович": 262,
-      "Горбанов Андрей Павлович": 46,
-      "Таранцов Михаил Александрович": 128,
-      "Против всех": 330
+      "gas:candidate-vibid:334300270424": 64,
+      "gas:candidate-vibid:1001000225931": 262,
+      "gas:candidate-vibid:1001000195064": 46,
+      "gas:candidate-vibid:1001000121839": 128,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7008,11 +7008,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 386,
-      "Горбанов Андрей Павлович": 55,
-      "Таранцов Михаил Александрович": 255,
-      "Против всех": 147
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 386,
+      "gas:candidate-vibid:1001000195064": 55,
+      "gas:candidate-vibid:1001000121839": 255,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7062,11 +7062,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 35,
-      "Галушкин Василий Иванович": 489,
-      "Горбанов Андрей Павлович": 61,
-      "Таранцов Михаил Александрович": 321,
-      "Против всех": 171
+      "gas:candidate-vibid:334300270424": 35,
+      "gas:candidate-vibid:1001000225931": 489,
+      "gas:candidate-vibid:1001000195064": 61,
+      "gas:candidate-vibid:1001000121839": 321,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7116,11 +7116,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 383,
-      "Горбанов Андрей Павлович": 43,
-      "Таранцов Михаил Александрович": 264,
-      "Против всех": 113
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 383,
+      "gas:candidate-vibid:1001000195064": 43,
+      "gas:candidate-vibid:1001000121839": 264,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7170,11 +7170,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 16,
-      "Галушкин Василий Иванович": 318,
-      "Горбанов Андрей Павлович": 49,
-      "Таранцов Михаил Александрович": 271,
-      "Против всех": 116
+      "gas:candidate-vibid:334300270424": 16,
+      "gas:candidate-vibid:1001000225931": 318,
+      "gas:candidate-vibid:1001000195064": 49,
+      "gas:candidate-vibid:1001000121839": 271,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7224,11 +7224,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 29,
-      "Галушкин Василий Иванович": 357,
-      "Горбанов Андрей Павлович": 44,
-      "Таранцов Михаил Александрович": 273,
-      "Против всех": 126
+      "gas:candidate-vibid:334300270424": 29,
+      "gas:candidate-vibid:1001000225931": 357,
+      "gas:candidate-vibid:1001000195064": 44,
+      "gas:candidate-vibid:1001000121839": 273,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7278,11 +7278,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 219,
-      "Горбанов Андрей Павлович": 22,
-      "Таранцов Михаил Александрович": 141,
-      "Против всех": 63
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 219,
+      "gas:candidate-vibid:1001000195064": 22,
+      "gas:candidate-vibid:1001000121839": 141,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7332,11 +7332,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 22,
-      "Галушкин Василий Иванович": 478,
-      "Горбанов Андрей Павлович": 36,
-      "Таранцов Михаил Александрович": 390,
-      "Против всех": 130
+      "gas:candidate-vibid:334300270424": 22,
+      "gas:candidate-vibid:1001000225931": 478,
+      "gas:candidate-vibid:1001000195064": 36,
+      "gas:candidate-vibid:1001000121839": 390,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7386,11 +7386,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 17,
-      "Галушкин Василий Иванович": 277,
-      "Горбанов Андрей Павлович": 40,
-      "Таранцов Михаил Александрович": 276,
-      "Против всех": 97
+      "gas:candidate-vibid:334300270424": 17,
+      "gas:candidate-vibid:1001000225931": 277,
+      "gas:candidate-vibid:1001000195064": 40,
+      "gas:candidate-vibid:1001000121839": 276,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7440,11 +7440,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 253,
-      "Горбанов Андрей Павлович": 46,
-      "Таранцов Михаил Александрович": 244,
-      "Против всех": 93
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 253,
+      "gas:candidate-vibid:1001000195064": 46,
+      "gas:candidate-vibid:1001000121839": 244,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7494,11 +7494,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 48,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 19,
-      "Против всех": 14
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 48,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 19,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270555&region=0&sub_region=0&type=429",
@@ -7548,11 +7548,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 307,
-      "Горбанов Андрей Павлович": 35,
-      "Таранцов Михаил Александрович": 303,
-      "Против всех": 117
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 307,
+      "gas:candidate-vibid:1001000195064": 35,
+      "gas:candidate-vibid:1001000121839": 303,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7602,11 +7602,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 206,
-      "Горбанов Андрей Павлович": 32,
-      "Таранцов Михаил Александрович": 199,
-      "Против всех": 81
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 206,
+      "gas:candidate-vibid:1001000195064": 32,
+      "gas:candidate-vibid:1001000121839": 199,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7656,11 +7656,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 181,
-      "Горбанов Андрей Павлович": 22,
-      "Таранцов Михаил Александрович": 120,
-      "Против всех": 59
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 181,
+      "gas:candidate-vibid:1001000195064": 22,
+      "gas:candidate-vibid:1001000121839": 120,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7710,11 +7710,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 345,
-      "Горбанов Андрей Павлович": 43,
-      "Таранцов Михаил Александрович": 299,
-      "Против всех": 100
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 345,
+      "gas:candidate-vibid:1001000195064": 43,
+      "gas:candidate-vibid:1001000121839": 299,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7764,11 +7764,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 13,
-      "Галушкин Василий Иванович": 226,
-      "Горбанов Андрей Павлович": 24,
-      "Таранцов Михаил Александрович": 197,
-      "Против всех": 65
+      "gas:candidate-vibid:334300270424": 13,
+      "gas:candidate-vibid:1001000225931": 226,
+      "gas:candidate-vibid:1001000195064": 24,
+      "gas:candidate-vibid:1001000121839": 197,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7818,11 +7818,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 136,
-      "Горбанов Андрей Павлович": 20,
-      "Таранцов Михаил Александрович": 112,
-      "Против всех": 33
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 136,
+      "gas:candidate-vibid:1001000195064": 20,
+      "gas:candidate-vibid:1001000121839": 112,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7872,11 +7872,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 304,
-      "Горбанов Андрей Павлович": 29,
-      "Таранцов Михаил Александрович": 271,
-      "Против всех": 115
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 304,
+      "gas:candidate-vibid:1001000195064": 29,
+      "gas:candidate-vibid:1001000121839": 271,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7926,11 +7926,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 10,
-      "Галушкин Василий Иванович": 245,
-      "Горбанов Андрей Павлович": 25,
-      "Таранцов Михаил Александрович": 317,
-      "Против всех": 86
+      "gas:candidate-vibid:334300270424": 10,
+      "gas:candidate-vibid:1001000225931": 245,
+      "gas:candidate-vibid:1001000195064": 25,
+      "gas:candidate-vibid:1001000121839": 317,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -7980,11 +7980,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 304,
-      "Горбанов Андрей Павлович": 47,
-      "Таранцов Михаил Александрович": 316,
-      "Против всех": 128
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 304,
+      "gas:candidate-vibid:1001000195064": 47,
+      "gas:candidate-vibid:1001000121839": 316,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8034,11 +8034,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 358,
-      "Горбанов Андрей Павлович": 31,
-      "Таранцов Михаил Александрович": 287,
-      "Против всех": 133
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 358,
+      "gas:candidate-vibid:1001000195064": 31,
+      "gas:candidate-vibid:1001000121839": 287,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8088,11 +8088,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 290,
-      "Горбанов Андрей Павлович": 15,
-      "Таранцов Михаил Александрович": 74,
-      "Против всех": 32
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 290,
+      "gas:candidate-vibid:1001000195064": 15,
+      "gas:candidate-vibid:1001000121839": 74,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8142,11 +8142,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 43,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 24,
-      "Против всех": 18
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 43,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 24,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8196,11 +8196,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 43,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 43,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8250,11 +8250,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 206,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 80,
-      "Против всех": 39
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 206,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 80,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8304,11 +8304,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 217,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 52,
-      "Против всех": 43
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 217,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 52,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8358,11 +8358,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 52,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 17,
-      "Против всех": 9
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 52,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 17,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8412,11 +8412,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 41,
-      "Горбанов Андрей Павлович": 0,
-      "Таранцов Михаил Александрович": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 41,
+      "gas:candidate-vibid:1001000195064": 0,
+      "gas:candidate-vibid:1001000121839": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8466,11 +8466,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 175,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 95,
-      "Против всех": 49
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 175,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 95,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8520,11 +8520,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 111,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 69,
-      "Против всех": 14
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 111,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 69,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8574,11 +8574,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 72,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 24,
-      "Против всех": 0
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 72,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 24,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8628,11 +8628,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 86,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 40,
-      "Против всех": 22
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 86,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 40,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8682,11 +8682,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 141,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 87,
-      "Против всех": 37
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 141,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 87,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8736,11 +8736,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 252,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 105,
-      "Против всех": 42
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 252,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 105,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8790,11 +8790,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 182,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 85,
-      "Против всех": 30
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 182,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 85,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8844,11 +8844,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 237,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 33,
-      "Против всех": 12
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 237,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 33,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8898,11 +8898,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 101,
-      "Горбанов Андрей Павлович": 0,
-      "Таранцов Михаил Александрович": 49,
-      "Против всех": 7
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 101,
+      "gas:candidate-vibid:1001000195064": 0,
+      "gas:candidate-vibid:1001000121839": 49,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -8952,11 +8952,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 151,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 144,
-      "Против всех": 17
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 151,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 144,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9006,11 +9006,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 231,
-      "Горбанов Андрей Павлович": 13,
-      "Таранцов Михаил Александрович": 61,
-      "Против всех": 47
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 231,
+      "gas:candidate-vibid:1001000195064": 13,
+      "gas:candidate-vibid:1001000121839": 61,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9060,11 +9060,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 87,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 44,
-      "Против всех": 20
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 87,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 44,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9114,11 +9114,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 53,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 26,
-      "Против всех": 4
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 53,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 26,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9168,11 +9168,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 65,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 47,
-      "Против всех": 24
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 65,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 47,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9222,11 +9222,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 279,
-      "Горбанов Андрей Павлович": 20,
-      "Таранцов Михаил Александрович": 81,
-      "Против всех": 29
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 279,
+      "gas:candidate-vibid:1001000195064": 20,
+      "gas:candidate-vibid:1001000121839": 81,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9276,11 +9276,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 22,
-      "Галушкин Василий Иванович": 317,
-      "Горбанов Андрей Павлович": 22,
-      "Таранцов Михаил Александрович": 127,
-      "Против всех": 49
+      "gas:candidate-vibid:334300270424": 22,
+      "gas:candidate-vibid:1001000225931": 317,
+      "gas:candidate-vibid:1001000195064": 22,
+      "gas:candidate-vibid:1001000121839": 127,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9330,11 +9330,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 76,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 44,
-      "Против всех": 8
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 76,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 44,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9384,11 +9384,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 152,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 68,
-      "Против всех": 26
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 152,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 68,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9438,11 +9438,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 45,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 45,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9492,11 +9492,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 270,
-      "Горбанов Андрей Павлович": 8,
-      "Таранцов Михаил Александрович": 131,
-      "Против всех": 38
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 270,
+      "gas:candidate-vibid:1001000195064": 8,
+      "gas:candidate-vibid:1001000121839": 131,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9546,11 +9546,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 98,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 58,
-      "Против всех": 9
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 98,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 58,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270556&region=0&sub_region=0&type=429",
@@ -9600,11 +9600,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 265,
-      "Горбанов Андрей Павлович": 40,
-      "Таранцов Михаил Александрович": 316,
-      "Против всех": 77
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 265,
+      "gas:candidate-vibid:1001000195064": 40,
+      "gas:candidate-vibid:1001000121839": 316,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -9654,11 +9654,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 281,
-      "Горбанов Андрей Павлович": 21,
-      "Таранцов Михаил Александрович": 187,
-      "Против всех": 51
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 281,
+      "gas:candidate-vibid:1001000195064": 21,
+      "gas:candidate-vibid:1001000121839": 187,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -9708,11 +9708,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 10,
-      "Галушкин Василий Иванович": 244,
-      "Горбанов Андрей Павлович": 24,
-      "Таранцов Михаил Александрович": 230,
-      "Против всех": 62
+      "gas:candidate-vibid:334300270424": 10,
+      "gas:candidate-vibid:1001000225931": 244,
+      "gas:candidate-vibid:1001000195064": 24,
+      "gas:candidate-vibid:1001000121839": 230,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -9762,11 +9762,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 73,
-      "Горбанов Андрей Павлович": 8,
-      "Таранцов Михаил Александрович": 140,
-      "Против всех": 33
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 73,
+      "gas:candidate-vibid:1001000195064": 8,
+      "gas:candidate-vibid:1001000121839": 140,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -9816,11 +9816,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 175,
-      "Горбанов Андрей Павлович": 8,
-      "Таранцов Михаил Александрович": 104,
-      "Против всех": 31
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 175,
+      "gas:candidate-vibid:1001000195064": 8,
+      "gas:candidate-vibid:1001000121839": 104,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -9870,11 +9870,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 131,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 77,
-      "Против всех": 19
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 131,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 77,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -9924,11 +9924,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 151,
-      "Горбанов Андрей Павлович": 10,
-      "Таранцов Михаил Александрович": 153,
-      "Против всех": 45
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 151,
+      "gas:candidate-vibid:1001000195064": 10,
+      "gas:candidate-vibid:1001000121839": 153,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -9978,11 +9978,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 73,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 43,
-      "Против всех": 7
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 73,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 43,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10032,11 +10032,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 187,
-      "Горбанов Андрей Павлович": 18,
-      "Таранцов Михаил Александрович": 229,
-      "Против всех": 46
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 187,
+      "gas:candidate-vibid:1001000195064": 18,
+      "gas:candidate-vibid:1001000121839": 229,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10086,11 +10086,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 71,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 47,
-      "Против всех": 10
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 71,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 47,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10140,11 +10140,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 37,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 35,
-      "Против всех": 13
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 37,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 35,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10194,11 +10194,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 7,
-      "Галушкин Василий Иванович": 156,
-      "Горбанов Андрей Павлович": 16,
-      "Таранцов Михаил Александрович": 101,
-      "Против всех": 56
+      "gas:candidate-vibid:334300270424": 7,
+      "gas:candidate-vibid:1001000225931": 156,
+      "gas:candidate-vibid:1001000195064": 16,
+      "gas:candidate-vibid:1001000121839": 101,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10248,11 +10248,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 47,
-      "Горбанов Андрей Павлович": 10,
-      "Таранцов Михаил Александрович": 40,
-      "Против всех": 9
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 47,
+      "gas:candidate-vibid:1001000195064": 10,
+      "gas:candidate-vibid:1001000121839": 40,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10302,11 +10302,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 150,
-      "Горбанов Андрей Павлович": 10,
-      "Таранцов Михаил Александрович": 67,
-      "Против всех": 15
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 150,
+      "gas:candidate-vibid:1001000195064": 10,
+      "gas:candidate-vibid:1001000121839": 67,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10356,11 +10356,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 28,
-      "Горбанов Андрей Павлович": 0,
-      "Таранцов Михаил Александрович": 31,
-      "Против всех": 2
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 28,
+      "gas:candidate-vibid:1001000195064": 0,
+      "gas:candidate-vibid:1001000121839": 31,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10410,11 +10410,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 101,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 42,
-      "Против всех": 16
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 101,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 42,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10464,11 +10464,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 133,
-      "Горбанов Андрей Павлович": 7,
-      "Таранцов Михаил Александрович": 194,
-      "Против всех": 46
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 133,
+      "gas:candidate-vibid:1001000195064": 7,
+      "gas:candidate-vibid:1001000121839": 194,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10518,11 +10518,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 287,
-      "Горбанов Андрей Павлович": 70,
-      "Таранцов Михаил Александрович": 341,
-      "Против всех": 86
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 287,
+      "gas:candidate-vibid:1001000195064": 70,
+      "gas:candidate-vibid:1001000121839": 341,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10572,11 +10572,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 18,
-      "Галушкин Василий Иванович": 384,
-      "Горбанов Андрей Павлович": 93,
-      "Таранцов Михаил Александрович": 496,
-      "Против всех": 144
+      "gas:candidate-vibid:334300270424": 18,
+      "gas:candidate-vibid:1001000225931": 384,
+      "gas:candidate-vibid:1001000195064": 93,
+      "gas:candidate-vibid:1001000121839": 496,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10626,11 +10626,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 8,
-      "Галушкин Василий Иванович": 259,
-      "Горбанов Андрей Павлович": 77,
-      "Таранцов Михаил Александрович": 270,
-      "Против всех": 139
+      "gas:candidate-vibid:334300270424": 8,
+      "gas:candidate-vibid:1001000225931": 259,
+      "gas:candidate-vibid:1001000195064": 77,
+      "gas:candidate-vibid:1001000121839": 270,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10680,11 +10680,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 112,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 100,
-      "Против всех": 43
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 112,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 100,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10734,11 +10734,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 78,
-      "Горбанов Андрей Павлович": 11,
-      "Таранцов Михаил Александрович": 58,
-      "Против всех": 17
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 78,
+      "gas:candidate-vibid:1001000195064": 11,
+      "gas:candidate-vibid:1001000121839": 58,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10788,11 +10788,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 46,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 17,
-      "Против всех": 13
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 46,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 17,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10842,11 +10842,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 62,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 32,
-      "Против всех": 17
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 62,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 32,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10896,11 +10896,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 33,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 17,
-      "Против всех": 4
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 33,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 17,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -10950,11 +10950,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 136,
-      "Горбанов Андрей Павлович": 12,
-      "Таранцов Михаил Александрович": 88,
-      "Против всех": 34
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 136,
+      "gas:candidate-vibid:1001000195064": 12,
+      "gas:candidate-vibid:1001000121839": 88,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -11004,11 +11004,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 202,
-      "Горбанов Андрей Павлович": 6,
-      "Таранцов Михаил Александрович": 163,
-      "Против всех": 48
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 202,
+      "gas:candidate-vibid:1001000195064": 6,
+      "gas:candidate-vibid:1001000121839": 163,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -11058,11 +11058,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 68,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 64,
-      "Против всех": 8
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 68,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 64,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -11112,11 +11112,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 49,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 38,
-      "Против всех": 5
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 49,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 38,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270557&region=0&sub_region=0&type=429",
@@ -11166,11 +11166,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 282,
-      "Горбанов Андрей Павлович": 87,
-      "Таранцов Михаил Александрович": 230,
-      "Против всех": 168
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 282,
+      "gas:candidate-vibid:1001000195064": 87,
+      "gas:candidate-vibid:1001000121839": 230,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11220,11 +11220,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 13,
-      "Галушкин Василий Иванович": 177,
-      "Горбанов Андрей Павлович": 39,
-      "Таранцов Михаил Александрович": 141,
-      "Против всех": 87
+      "gas:candidate-vibid:334300270424": 13,
+      "gas:candidate-vibid:1001000225931": 177,
+      "gas:candidate-vibid:1001000195064": 39,
+      "gas:candidate-vibid:1001000121839": 141,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11274,11 +11274,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 22,
-      "Галушкин Василий Иванович": 267,
-      "Горбанов Андрей Павлович": 66,
-      "Таранцов Михаил Александрович": 213,
-      "Против всех": 142
+      "gas:candidate-vibid:334300270424": 22,
+      "gas:candidate-vibid:1001000225931": 267,
+      "gas:candidate-vibid:1001000195064": 66,
+      "gas:candidate-vibid:1001000121839": 213,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11328,11 +11328,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 165,
-      "Горбанов Андрей Павлович": 36,
-      "Таранцов Михаил Александрович": 153,
-      "Против всех": 84
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 165,
+      "gas:candidate-vibid:1001000195064": 36,
+      "gas:candidate-vibid:1001000121839": 153,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11382,11 +11382,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 13,
-      "Галушкин Василий Иванович": 251,
-      "Горбанов Андрей Павлович": 79,
-      "Таранцов Михаил Александрович": 170,
-      "Против всех": 180
+      "gas:candidate-vibid:334300270424": 13,
+      "gas:candidate-vibid:1001000225931": 251,
+      "gas:candidate-vibid:1001000195064": 79,
+      "gas:candidate-vibid:1001000121839": 170,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11436,11 +11436,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 236,
-      "Горбанов Андрей Павлович": 81,
-      "Таранцов Михаил Александрович": 150,
-      "Против всех": 218
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 236,
+      "gas:candidate-vibid:1001000195064": 81,
+      "gas:candidate-vibid:1001000121839": 150,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11490,11 +11490,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 9,
-      "Галушкин Василий Иванович": 352,
-      "Горбанов Андрей Павлович": 95,
-      "Таранцов Михаил Александрович": 202,
-      "Против всех": 213
+      "gas:candidate-vibid:334300270424": 9,
+      "gas:candidate-vibid:1001000225931": 352,
+      "gas:candidate-vibid:1001000195064": 95,
+      "gas:candidate-vibid:1001000121839": 202,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11544,11 +11544,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 13,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 13,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11598,11 +11598,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 237,
-      "Горбанов Андрей Павлович": 27,
-      "Таранцов Михаил Александрович": 168,
-      "Против всех": 89
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 237,
+      "gas:candidate-vibid:1001000195064": 27,
+      "gas:candidate-vibid:1001000121839": 168,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11652,11 +11652,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 188,
-      "Горбанов Андрей Павлович": 28,
-      "Таранцов Михаил Александрович": 138,
-      "Против всех": 119
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 188,
+      "gas:candidate-vibid:1001000195064": 28,
+      "gas:candidate-vibid:1001000121839": 138,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11706,11 +11706,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 11,
-      "Горбанов Андрей Павлович": 0,
-      "Таранцов Михаил Александрович": 11,
-      "Против всех": 11
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 11,
+      "gas:candidate-vibid:1001000195064": 0,
+      "gas:candidate-vibid:1001000121839": 11,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11760,11 +11760,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 14,
-      "Галушкин Василий Иванович": 221,
-      "Горбанов Андрей Павлович": 49,
-      "Таранцов Михаил Александрович": 316,
-      "Против всех": 174
+      "gas:candidate-vibid:334300270424": 14,
+      "gas:candidate-vibid:1001000225931": 221,
+      "gas:candidate-vibid:1001000195064": 49,
+      "gas:candidate-vibid:1001000121839": 316,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11814,11 +11814,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 67,
-      "Горбанов Андрей Павлович": 16,
-      "Таранцов Михаил Александрович": 87,
-      "Против всех": 52
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 67,
+      "gas:candidate-vibid:1001000195064": 16,
+      "gas:candidate-vibid:1001000121839": 87,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11868,11 +11868,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 12,
-      "Галушкин Василий Иванович": 258,
-      "Горбанов Андрей Павлович": 18,
-      "Таранцов Михаил Александрович": 198,
-      "Против всех": 76
+      "gas:candidate-vibid:334300270424": 12,
+      "gas:candidate-vibid:1001000225931": 258,
+      "gas:candidate-vibid:1001000195064": 18,
+      "gas:candidate-vibid:1001000121839": 198,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11922,11 +11922,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 194,
-      "Горбанов Андрей Павлович": 13,
-      "Таранцов Михаил Александрович": 232,
-      "Против всех": 75
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 194,
+      "gas:candidate-vibid:1001000195064": 13,
+      "gas:candidate-vibid:1001000121839": 232,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -11976,11 +11976,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 16,
-      "Галушкин Василий Иванович": 201,
-      "Горбанов Андрей Павлович": 19,
-      "Таранцов Михаил Александрович": 201,
-      "Против всех": 62
+      "gas:candidate-vibid:334300270424": 16,
+      "gas:candidate-vibid:1001000225931": 201,
+      "gas:candidate-vibid:1001000195064": 19,
+      "gas:candidate-vibid:1001000121839": 201,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12030,11 +12030,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 8,
-      "Галушкин Василий Иванович": 87,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 33,
-      "Против всех": 28
+      "gas:candidate-vibid:334300270424": 8,
+      "gas:candidate-vibid:1001000225931": 87,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 33,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12084,11 +12084,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 47,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 47,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12138,11 +12138,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 148,
-      "Горбанов Андрей Павлович": 35,
-      "Таранцов Михаил Александрович": 211,
-      "Против всех": 118
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 148,
+      "gas:candidate-vibid:1001000195064": 35,
+      "gas:candidate-vibid:1001000121839": 211,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12192,11 +12192,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 110,
-      "Горбанов Андрей Павлович": 15,
-      "Таранцов Михаил Александрович": 128,
-      "Против всех": 37
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 110,
+      "gas:candidate-vibid:1001000195064": 15,
+      "gas:candidate-vibid:1001000121839": 128,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12246,11 +12246,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 11,
-      "Галушкин Василий Иванович": 172,
-      "Горбанов Андрей Павлович": 21,
-      "Таранцов Михаил Александрович": 145,
-      "Против всех": 44
+      "gas:candidate-vibid:334300270424": 11,
+      "gas:candidate-vibid:1001000225931": 172,
+      "gas:candidate-vibid:1001000195064": 21,
+      "gas:candidate-vibid:1001000121839": 145,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12300,11 +12300,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 60,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 19,
-      "Против всех": 12
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 60,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 19,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12354,11 +12354,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 45,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 58,
-      "Против всех": 9
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 45,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 58,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12408,11 +12408,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 15,
-      "Галушкин Василий Иванович": 192,
-      "Горбанов Андрей Павлович": 23,
-      "Таранцов Михаил Александрович": 386,
-      "Против всех": 110
+      "gas:candidate-vibid:334300270424": 15,
+      "gas:candidate-vibid:1001000225931": 192,
+      "gas:candidate-vibid:1001000195064": 23,
+      "gas:candidate-vibid:1001000121839": 386,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12462,11 +12462,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 41,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 39,
-      "Против всех": 17
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 41,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 39,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12516,11 +12516,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 24,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 29,
-      "Против всех": 10
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 24,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 29,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12570,11 +12570,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 17,
-      "Галушкин Василий Иванович": 234,
-      "Горбанов Андрей Павлович": 43,
-      "Таранцов Михаил Александрович": 360,
-      "Против всех": 158
+      "gas:candidate-vibid:334300270424": 17,
+      "gas:candidate-vibid:1001000225931": 234,
+      "gas:candidate-vibid:1001000195064": 43,
+      "gas:candidate-vibid:1001000121839": 360,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12624,11 +12624,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 16,
-      "Галушкин Василий Иванович": 177,
-      "Горбанов Андрей Павлович": 31,
-      "Таранцов Михаил Александрович": 125,
-      "Против всех": 84
+      "gas:candidate-vibid:334300270424": 16,
+      "gas:candidate-vibid:1001000225931": 177,
+      "gas:candidate-vibid:1001000195064": 31,
+      "gas:candidate-vibid:1001000121839": 125,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12678,11 +12678,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 84,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 58,
-      "Против всех": 22
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 84,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 58,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270558&region=0&sub_region=0&type=429",
@@ -12732,11 +12732,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 8,
-      "Галушкин Василий Иванович": 265,
-      "Горбанов Андрей Павлович": 17,
-      "Таранцов Михаил Александрович": 183,
-      "Против всех": 63
+      "gas:candidate-vibid:334300270424": 8,
+      "gas:candidate-vibid:1001000225931": 265,
+      "gas:candidate-vibid:1001000195064": 17,
+      "gas:candidate-vibid:1001000121839": 183,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -12786,11 +12786,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 88,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 60,
-      "Против всех": 30
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 88,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 60,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -12840,11 +12840,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 6,
-      "Галушкин Василий Иванович": 181,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 85,
-      "Против всех": 29
+      "gas:candidate-vibid:334300270424": 6,
+      "gas:candidate-vibid:1001000225931": 181,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 85,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -12894,11 +12894,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 48,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 48,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -12948,11 +12948,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 10,
-      "Галушкин Василий Иванович": 122,
-      "Горбанов Андрей Павлович": 8,
-      "Таранцов Михаил Александрович": 130,
-      "Против всех": 25
+      "gas:candidate-vibid:334300270424": 10,
+      "gas:candidate-vibid:1001000225931": 122,
+      "gas:candidate-vibid:1001000195064": 8,
+      "gas:candidate-vibid:1001000121839": 130,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13002,11 +13002,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 5,
-      "Галушкин Василий Иванович": 164,
-      "Горбанов Андрей Павлович": 16,
-      "Таранцов Михаил Александрович": 82,
-      "Против всех": 38
+      "gas:candidate-vibid:334300270424": 5,
+      "gas:candidate-vibid:1001000225931": 164,
+      "gas:candidate-vibid:1001000195064": 16,
+      "gas:candidate-vibid:1001000121839": 82,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13056,11 +13056,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 24,
-      "Горбанов Андрей Павлович": 2,
-      "Таранцов Михаил Александрович": 15,
-      "Против всех": 8
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 24,
+      "gas:candidate-vibid:1001000195064": 2,
+      "gas:candidate-vibid:1001000121839": 15,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13110,11 +13110,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 2,
-      "Галушкин Василий Иванович": 139,
-      "Горбанов Андрей Павлович": 4,
-      "Таранцов Михаил Александрович": 111,
-      "Против всех": 20
+      "gas:candidate-vibid:334300270424": 2,
+      "gas:candidate-vibid:1001000225931": 139,
+      "gas:candidate-vibid:1001000195064": 4,
+      "gas:candidate-vibid:1001000121839": 111,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13164,11 +13164,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 0,
-      "Галушкин Василий Иванович": 79,
-      "Горбанов Андрей Павлович": 1,
-      "Таранцов Михаил Александрович": 39,
-      "Против всех": 12
+      "gas:candidate-vibid:334300270424": 0,
+      "gas:candidate-vibid:1001000225931": 79,
+      "gas:candidate-vibid:1001000195064": 1,
+      "gas:candidate-vibid:1001000121839": 39,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13218,11 +13218,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 146,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 42,
-      "Против всех": 12
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 146,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 42,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13272,11 +13272,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 65,
-      "Горбанов Андрей Павлович": 0,
-      "Таранцов Михаил Александрович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 65,
+      "gas:candidate-vibid:1001000195064": 0,
+      "gas:candidate-vibid:1001000121839": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13326,11 +13326,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 4,
-      "Галушкин Василий Иванович": 174,
-      "Горбанов Андрей Павлович": 5,
-      "Таранцов Михаил Александрович": 117,
-      "Против всех": 11
+      "gas:candidate-vibid:334300270424": 4,
+      "gas:candidate-vibid:1001000225931": 174,
+      "gas:candidate-vibid:1001000195064": 5,
+      "gas:candidate-vibid:1001000121839": 117,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13380,11 +13380,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 10,
-      "Галушкин Василий Иванович": 188,
-      "Горбанов Андрей Павлович": 24,
-      "Таранцов Михаил Александрович": 107,
-      "Против всех": 76
+      "gas:candidate-vibid:334300270424": 10,
+      "gas:candidate-vibid:1001000225931": 188,
+      "gas:candidate-vibid:1001000195064": 24,
+      "gas:candidate-vibid:1001000121839": 107,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13434,11 +13434,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 1,
-      "Галушкин Василий Иванович": 17,
-      "Горбанов Андрей Павлович": 0,
-      "Таранцов Михаил Александрович": 28,
-      "Против всех": 4
+      "gas:candidate-vibid:334300270424": 1,
+      "gas:candidate-vibid:1001000225931": 17,
+      "gas:candidate-vibid:1001000195064": 0,
+      "gas:candidate-vibid:1001000121839": 28,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",
@@ -13488,11 +13488,11 @@ export const duma_2003_uik_428_region_34_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Борисов Сергей Владимирович": 3,
-      "Галушкин Василий Иванович": 60,
-      "Горбанов Андрей Павлович": 3,
-      "Таранцов Михаил Александрович": 33,
-      "Против всех": 20
+      "gas:candidate-vibid:334300270424": 3,
+      "gas:candidate-vibid:1001000225931": 60,
+      "gas:candidate-vibid:1001000195064": 3,
+      "gas:candidate-vibid:1001000121839": 33,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300270559&region=0&sub_region=0&type=429",

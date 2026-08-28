@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 64,
-      "Демченко Иван Иванович": 469,
-      "Егоров Алексей Анатольевич": 16,
-      "Измайлов Юрий Александрович": 10,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 45,
-      "Коломиец Дмитрий Викторович": 84,
-      "Лугин Олег Федорович": 19,
-      "Маняк Николай Иванович": 9,
-      "Прытков Виталий Владимирович": 55
+      "gas:candidate-vibid:4234040307462": 64,
+      "gas:candidate-vibid:4234040317626": 469,
+      "gas:candidate-vibid:4234040317828": 16,
+      "gas:candidate-vibid:4234040317359": 10,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 45,
+      "gas:candidate-vibid:4234040317197": 84,
+      "gas:candidate-vibid:4234040317457": 19,
+      "gas:candidate-vibid:4234040317563": 9,
+      "gas:candidate-vibid:4234040317217": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 68,
-      "Демченко Иван Иванович": 1628,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 11,
-      "Кетов Сергей Геннадьевич": 41,
-      "Коломиец Дмитрий Викторович": 64,
-      "Лугин Олег Федорович": 26,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 45
+      "gas:candidate-vibid:4234040307462": 68,
+      "gas:candidate-vibid:4234040317626": 1628,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 11,
+      "gas:candidate-vibid:4234040317306": 41,
+      "gas:candidate-vibid:4234040317197": 64,
+      "gas:candidate-vibid:4234040317457": 26,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 9,
-      "Демченко Иван Иванович": 216,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 8,
-      "Коломиец Дмитрий Викторович": 10,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 48
+      "gas:candidate-vibid:4234040307462": 9,
+      "gas:candidate-vibid:4234040317626": 216,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 8,
+      "gas:candidate-vibid:4234040317197": 10,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 28,
-      "Демченко Иван Иванович": 344,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 15,
-      "Коломиец Дмитрий Викторович": 27,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 193
+      "gas:candidate-vibid:4234040307462": 28,
+      "gas:candidate-vibid:4234040317626": 344,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 15,
+      "gas:candidate-vibid:4234040317197": 27,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 55,
-      "Демченко Иван Иванович": 338,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 16,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 25,
-      "Коломиец Дмитрий Викторович": 64,
-      "Лугин Олег Федорович": 14,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 74
+      "gas:candidate-vibid:4234040307462": 55,
+      "gas:candidate-vibid:4234040317626": 338,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 16,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 25,
+      "gas:candidate-vibid:4234040317197": 64,
+      "gas:candidate-vibid:4234040317457": 14,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 26,
-      "Демченко Иван Иванович": 518,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 10,
-      "Качула Михаил Витальевич": 11,
-      "Кетов Сергей Геннадьевич": 15,
-      "Коломиец Дмитрий Викторович": 46,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 9,
-      "Прытков Виталий Владимирович": 129
+      "gas:candidate-vibid:4234040307462": 26,
+      "gas:candidate-vibid:4234040317626": 518,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 10,
+      "gas:candidate-vibid:4234040317551": 11,
+      "gas:candidate-vibid:4234040317306": 15,
+      "gas:candidate-vibid:4234040317197": 46,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 9,
+      "gas:candidate-vibid:4234040317217": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 8,
-      "Демченко Иван Иванович": 51,
-      "Егоров Алексей Анатольевич": 2,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 2,
-      "Коломиец Дмитрий Викторович": 3,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 4
+      "gas:candidate-vibid:4234040307462": 8,
+      "gas:candidate-vibid:4234040317626": 51,
+      "gas:candidate-vibid:4234040317828": 2,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 2,
+      "gas:candidate-vibid:4234040317197": 3,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 18,
-      "Демченко Иван Иванович": 204,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 12,
-      "Коломиец Дмитрий Викторович": 17,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 44
+      "gas:candidate-vibid:4234040307462": 18,
+      "gas:candidate-vibid:4234040317626": 204,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 12,
+      "gas:candidate-vibid:4234040317197": 17,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 87,
-      "Демченко Иван Иванович": 744,
-      "Егоров Алексей Анатольевич": 38,
-      "Измайлов Юрий Александрович": 26,
-      "Качула Михаил Витальевич": 15,
-      "Кетов Сергей Геннадьевич": 39,
-      "Коломиец Дмитрий Викторович": 79,
-      "Лугин Олег Федорович": 39,
-      "Маняк Николай Иванович": 20,
-      "Прытков Виталий Владимирович": 188
+      "gas:candidate-vibid:4234040307462": 87,
+      "gas:candidate-vibid:4234040317626": 744,
+      "gas:candidate-vibid:4234040317828": 38,
+      "gas:candidate-vibid:4234040317359": 26,
+      "gas:candidate-vibid:4234040317551": 15,
+      "gas:candidate-vibid:4234040317306": 39,
+      "gas:candidate-vibid:4234040317197": 79,
+      "gas:candidate-vibid:4234040317457": 39,
+      "gas:candidate-vibid:4234040317563": 20,
+      "gas:candidate-vibid:4234040317217": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 30,
-      "Демченко Иван Иванович": 268,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 7,
-      "Коломиец Дмитрий Викторович": 10,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 8
+      "gas:candidate-vibid:4234040307462": 30,
+      "gas:candidate-vibid:4234040317626": 268,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 7,
+      "gas:candidate-vibid:4234040317197": 10,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 111,
-      "Демченко Иван Иванович": 761,
-      "Егоров Алексей Анатольевич": 19,
-      "Измайлов Юрий Александрович": 13,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 34,
-      "Коломиец Дмитрий Викторович": 107,
-      "Лугин Олег Федорович": 14,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 155
+      "gas:candidate-vibid:4234040307462": 111,
+      "gas:candidate-vibid:4234040317626": 761,
+      "gas:candidate-vibid:4234040317828": 19,
+      "gas:candidate-vibid:4234040317359": 13,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 34,
+      "gas:candidate-vibid:4234040317197": 107,
+      "gas:candidate-vibid:4234040317457": 14,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 56,
-      "Демченко Иван Иванович": 612,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 32,
-      "Коломиец Дмитрий Викторович": 58,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 54
+      "gas:candidate-vibid:4234040307462": 56,
+      "gas:candidate-vibid:4234040317626": 612,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 32,
+      "gas:candidate-vibid:4234040317197": 58,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 45,
-      "Демченко Иван Иванович": 750,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 11,
-      "Кетов Сергей Геннадьевич": 24,
-      "Коломиец Дмитрий Викторович": 207,
-      "Лугин Олег Федорович": 11,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 27
+      "gas:candidate-vibid:4234040307462": 45,
+      "gas:candidate-vibid:4234040317626": 750,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 11,
+      "gas:candidate-vibid:4234040317306": 24,
+      "gas:candidate-vibid:4234040317197": 207,
+      "gas:candidate-vibid:4234040317457": 11,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 51,
-      "Демченко Иван Иванович": 643,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 22,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 29,
-      "Коломиец Дмитрий Викторович": 40,
-      "Лугин Олег Федорович": 13,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 236
+      "gas:candidate-vibid:4234040307462": 51,
+      "gas:candidate-vibid:4234040317626": 643,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 22,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 29,
+      "gas:candidate-vibid:4234040317197": 40,
+      "gas:candidate-vibid:4234040317457": 13,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 77,
-      "Демченко Иван Иванович": 419,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 17,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 36,
-      "Коломиец Дмитрий Викторович": 60,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 56
+      "gas:candidate-vibid:4234040307462": 77,
+      "gas:candidate-vibid:4234040317626": 419,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 17,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 36,
+      "gas:candidate-vibid:4234040317197": 60,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 121,
-      "Демченко Иван Иванович": 789,
-      "Егоров Алексей Анатольевич": 20,
-      "Измайлов Юрий Александрович": 18,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 70,
-      "Коломиец Дмитрий Викторович": 105,
-      "Лугин Олег Федорович": 17,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 61
+      "gas:candidate-vibid:4234040307462": 121,
+      "gas:candidate-vibid:4234040317626": 789,
+      "gas:candidate-vibid:4234040317828": 20,
+      "gas:candidate-vibid:4234040317359": 18,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 70,
+      "gas:candidate-vibid:4234040317197": 105,
+      "gas:candidate-vibid:4234040317457": 17,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 18,
-      "Демченко Иван Иванович": 147,
-      "Егоров Алексей Анатольевич": 2,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 13,
-      "Коломиец Дмитрий Викторович": 17,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 16
+      "gas:candidate-vibid:4234040307462": 18,
+      "gas:candidate-vibid:4234040317626": 147,
+      "gas:candidate-vibid:4234040317828": 2,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 13,
+      "gas:candidate-vibid:4234040317197": 17,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 16,
-      "Демченко Иван Иванович": 89,
-      "Егоров Алексей Анатольевич": 2,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 4,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 28
+      "gas:candidate-vibid:4234040307462": 16,
+      "gas:candidate-vibid:4234040317626": 89,
+      "gas:candidate-vibid:4234040317828": 2,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 4,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 23,
-      "Демченко Иван Иванович": 377,
-      "Егоров Алексей Анатольевич": 3,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 23,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 18
+      "gas:candidate-vibid:4234040307462": 23,
+      "gas:candidate-vibid:4234040317626": 377,
+      "gas:candidate-vibid:4234040317828": 3,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 23,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 8,
-      "Демченко Иван Иванович": 242,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 0,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 5,
-      "Коломиец Дмитрий Викторович": 15,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 5
+      "gas:candidate-vibid:4234040307462": 8,
+      "gas:candidate-vibid:4234040317626": 242,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 0,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 5,
+      "gas:candidate-vibid:4234040317197": 15,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 13,
-      "Демченко Иван Иванович": 284,
-      "Егоров Алексей Анатольевич": 3,
-      "Измайлов Юрий Александрович": 0,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 9,
-      "Коломиец Дмитрий Викторович": 8,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 20
+      "gas:candidate-vibid:4234040307462": 13,
+      "gas:candidate-vibid:4234040317626": 284,
+      "gas:candidate-vibid:4234040317828": 3,
+      "gas:candidate-vibid:4234040317359": 0,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 9,
+      "gas:candidate-vibid:4234040317197": 8,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 30,
-      "Демченко Иван Иванович": 477,
-      "Егоров Алексей Анатольевич": 12,
-      "Измайлов Юрий Александрович": 2,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 19,
-      "Коломиец Дмитрий Викторович": 9,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 32
+      "gas:candidate-vibid:4234040307462": 30,
+      "gas:candidate-vibid:4234040317626": 477,
+      "gas:candidate-vibid:4234040317828": 12,
+      "gas:candidate-vibid:4234040317359": 2,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 19,
+      "gas:candidate-vibid:4234040317197": 9,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 19,
-      "Демченко Иван Иванович": 332,
-      "Егоров Алексей Анатольевич": 39,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 2,
-      "Коломиец Дмитрий Викторович": 19,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 34
+      "gas:candidate-vibid:4234040307462": 19,
+      "gas:candidate-vibid:4234040317626": 332,
+      "gas:candidate-vibid:4234040317828": 39,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 2,
+      "gas:candidate-vibid:4234040317197": 19,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 105,
-      "Демченко Иван Иванович": 1495,
-      "Егоров Алексей Анатольевич": 51,
-      "Измайлов Юрий Александрович": 31,
-      "Качула Михаил Витальевич": 12,
-      "Кетов Сергей Геннадьевич": 44,
-      "Коломиец Дмитрий Викторович": 61,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 9,
-      "Прытков Виталий Владимирович": 47
+      "gas:candidate-vibid:4234040307462": 105,
+      "gas:candidate-vibid:4234040317626": 1495,
+      "gas:candidate-vibid:4234040317828": 51,
+      "gas:candidate-vibid:4234040317359": 31,
+      "gas:candidate-vibid:4234040317551": 12,
+      "gas:candidate-vibid:4234040317306": 44,
+      "gas:candidate-vibid:4234040317197": 61,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 9,
+      "gas:candidate-vibid:4234040317217": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 115,
-      "Демченко Иван Иванович": 956,
-      "Егоров Алексей Анатольевич": 31,
-      "Измайлов Юрий Александрович": 23,
-      "Качула Михаил Витальевич": 11,
-      "Кетов Сергей Геннадьевич": 33,
-      "Коломиец Дмитрий Викторович": 81,
-      "Лугин Олег Федорович": 17,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 49
+      "gas:candidate-vibid:4234040307462": 115,
+      "gas:candidate-vibid:4234040317626": 956,
+      "gas:candidate-vibid:4234040317828": 31,
+      "gas:candidate-vibid:4234040317359": 23,
+      "gas:candidate-vibid:4234040317551": 11,
+      "gas:candidate-vibid:4234040317306": 33,
+      "gas:candidate-vibid:4234040317197": 81,
+      "gas:candidate-vibid:4234040317457": 17,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 95,
-      "Демченко Иван Иванович": 635,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 14,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 21,
-      "Коломиец Дмитрий Викторович": 57,
-      "Лугин Олег Федорович": 12,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 29
+      "gas:candidate-vibid:4234040307462": 95,
+      "gas:candidate-vibid:4234040317626": 635,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 14,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 21,
+      "gas:candidate-vibid:4234040317197": 57,
+      "gas:candidate-vibid:4234040317457": 12,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 4,
-      "Демченко Иван Иванович": 352,
-      "Егоров Алексей Анатольевич": 0,
-      "Измайлов Юрий Александрович": 0,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 2,
-      "Коломиец Дмитрий Викторович": 19,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 111
+      "gas:candidate-vibid:4234040307462": 4,
+      "gas:candidate-vibid:4234040317626": 352,
+      "gas:candidate-vibid:4234040317828": 0,
+      "gas:candidate-vibid:4234040317359": 0,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 2,
+      "gas:candidate-vibid:4234040317197": 19,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 74,
-      "Демченко Иван Иванович": 1198,
-      "Егоров Алексей Анатольевич": 16,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 20,
-      "Коломиец Дмитрий Викторович": 49,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 24
+      "gas:candidate-vibid:4234040307462": 74,
+      "gas:candidate-vibid:4234040317626": 1198,
+      "gas:candidate-vibid:4234040317828": 16,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 20,
+      "gas:candidate-vibid:4234040317197": 49,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 8,
-      "Демченко Иван Иванович": 510,
-      "Егоров Алексей Анатольевич": 3,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 8,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 37
+      "gas:candidate-vibid:4234040307462": 8,
+      "gas:candidate-vibid:4234040317626": 510,
+      "gas:candidate-vibid:4234040317828": 3,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 8,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 36,
-      "Демченко Иван Иванович": 492,
-      "Егоров Алексей Анатольевич": 9,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 6,
-      "Коломиец Дмитрий Викторович": 15,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 27
+      "gas:candidate-vibid:4234040307462": 36,
+      "gas:candidate-vibid:4234040317626": 492,
+      "gas:candidate-vibid:4234040317828": 9,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 6,
+      "gas:candidate-vibid:4234040317197": 15,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 20,
-      "Демченко Иван Иванович": 122,
-      "Егоров Алексей Анатольевич": 0,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 1,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 10
+      "gas:candidate-vibid:4234040307462": 20,
+      "gas:candidate-vibid:4234040317626": 122,
+      "gas:candidate-vibid:4234040317828": 0,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 1,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306537&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306537&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 120,
-      "Демченко Иван Иванович": 435,
-      "Егоров Алексей Анатольевич": 24,
-      "Измайлов Юрий Александрович": 16,
-      "Качула Михаил Витальевич": 12,
-      "Кетов Сергей Геннадьевич": 51,
-      "Коломиец Дмитрий Викторович": 134,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 17,
-      "Прытков Виталий Владимирович": 150
+      "gas:candidate-vibid:4234040307462": 120,
+      "gas:candidate-vibid:4234040317626": 435,
+      "gas:candidate-vibid:4234040317828": 24,
+      "gas:candidate-vibid:4234040317359": 16,
+      "gas:candidate-vibid:4234040317551": 12,
+      "gas:candidate-vibid:4234040317306": 51,
+      "gas:candidate-vibid:4234040317197": 134,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 17,
+      "gas:candidate-vibid:4234040317217": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 94,
-      "Демченко Иван Иванович": 270,
-      "Егоров Алексей Анатольевич": 10,
-      "Измайлов Юрий Александрович": 11,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 27,
-      "Коломиец Дмитрий Викторович": 68,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 86
+      "gas:candidate-vibid:4234040307462": 94,
+      "gas:candidate-vibid:4234040317626": 270,
+      "gas:candidate-vibid:4234040317828": 10,
+      "gas:candidate-vibid:4234040317359": 11,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 27,
+      "gas:candidate-vibid:4234040317197": 68,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 97,
-      "Демченко Иван Иванович": 300,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 21,
-      "Коломиец Дмитрий Викторович": 63,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 9,
-      "Прытков Виталий Владимирович": 89
+      "gas:candidate-vibid:4234040307462": 97,
+      "gas:candidate-vibid:4234040317626": 300,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 21,
+      "gas:candidate-vibid:4234040317197": 63,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 9,
+      "gas:candidate-vibid:4234040317217": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 40,
-      "Демченко Иван Иванович": 405,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 18,
-      "Коломиец Дмитрий Викторович": 70,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 10,
-      "Прытков Виталий Владимирович": 70
+      "gas:candidate-vibid:4234040307462": 40,
+      "gas:candidate-vibid:4234040317626": 405,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 18,
+      "gas:candidate-vibid:4234040317197": 70,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 10,
+      "gas:candidate-vibid:4234040317217": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 97,
-      "Демченко Иван Иванович": 571,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 37,
-      "Коломиец Дмитрий Викторович": 81,
-      "Лугин Олег Федорович": 12,
-      "Маняк Николай Иванович": 16,
-      "Прытков Виталий Владимирович": 125
+      "gas:candidate-vibid:4234040307462": 97,
+      "gas:candidate-vibid:4234040317626": 571,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 37,
+      "gas:candidate-vibid:4234040317197": 81,
+      "gas:candidate-vibid:4234040317457": 12,
+      "gas:candidate-vibid:4234040317563": 16,
+      "gas:candidate-vibid:4234040317217": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 116,
-      "Демченко Иван Иванович": 433,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 32,
-      "Коломиец Дмитрий Викторович": 74,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 10,
-      "Прытков Виталий Владимирович": 151
+      "gas:candidate-vibid:4234040307462": 116,
+      "gas:candidate-vibid:4234040317626": 433,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 32,
+      "gas:candidate-vibid:4234040317197": 74,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 10,
+      "gas:candidate-vibid:4234040317217": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 163,
-      "Демченко Иван Иванович": 481,
-      "Егоров Алексей Анатольевич": 17,
-      "Измайлов Юрий Александрович": 17,
-      "Качула Михаил Витальевич": 8,
-      "Кетов Сергей Геннадьевич": 30,
-      "Коломиец Дмитрий Викторович": 80,
-      "Лугин Олег Федорович": 12,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 172
+      "gas:candidate-vibid:4234040307462": 163,
+      "gas:candidate-vibid:4234040317626": 481,
+      "gas:candidate-vibid:4234040317828": 17,
+      "gas:candidate-vibid:4234040317359": 17,
+      "gas:candidate-vibid:4234040317551": 8,
+      "gas:candidate-vibid:4234040317306": 30,
+      "gas:candidate-vibid:4234040317197": 80,
+      "gas:candidate-vibid:4234040317457": 12,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 131,
-      "Демченко Иван Иванович": 468,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 15,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 45,
-      "Коломиец Дмитрий Викторович": 97,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 12,
-      "Прытков Виталий Владимирович": 188
+      "gas:candidate-vibid:4234040307462": 131,
+      "gas:candidate-vibid:4234040317626": 468,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 15,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 45,
+      "gas:candidate-vibid:4234040317197": 97,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 12,
+      "gas:candidate-vibid:4234040317217": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 79,
-      "Демченко Иван Иванович": 289,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 21,
-      "Коломиец Дмитрий Викторович": 57,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 12,
-      "Прытков Виталий Владимирович": 120
+      "gas:candidate-vibid:4234040307462": 79,
+      "gas:candidate-vibid:4234040317626": 289,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 21,
+      "gas:candidate-vibid:4234040317197": 57,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 12,
+      "gas:candidate-vibid:4234040317217": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 106,
-      "Демченко Иван Иванович": 356,
-      "Егоров Алексей Анатольевич": 16,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 13,
-      "Кетов Сергей Геннадьевич": 42,
-      "Коломиец Дмитрий Викторович": 104,
-      "Лугин Олег Федорович": 10,
-      "Маняк Николай Иванович": 21,
-      "Прытков Виталий Владимирович": 166
+      "gas:candidate-vibid:4234040307462": 106,
+      "gas:candidate-vibid:4234040317626": 356,
+      "gas:candidate-vibid:4234040317828": 16,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 13,
+      "gas:candidate-vibid:4234040317306": 42,
+      "gas:candidate-vibid:4234040317197": 104,
+      "gas:candidate-vibid:4234040317457": 10,
+      "gas:candidate-vibid:4234040317563": 21,
+      "gas:candidate-vibid:4234040317217": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 153,
-      "Демченко Иван Иванович": 455,
-      "Егоров Алексей Анатольевич": 20,
-      "Измайлов Юрий Александрович": 23,
-      "Качула Михаил Витальевич": 19,
-      "Кетов Сергей Геннадьевич": 46,
-      "Коломиец Дмитрий Викторович": 126,
-      "Лугин Олег Федорович": 22,
-      "Маняк Николай Иванович": 23,
-      "Прытков Виталий Владимирович": 187
+      "gas:candidate-vibid:4234040307462": 153,
+      "gas:candidate-vibid:4234040317626": 455,
+      "gas:candidate-vibid:4234040317828": 20,
+      "gas:candidate-vibid:4234040317359": 23,
+      "gas:candidate-vibid:4234040317551": 19,
+      "gas:candidate-vibid:4234040317306": 46,
+      "gas:candidate-vibid:4234040317197": 126,
+      "gas:candidate-vibid:4234040317457": 22,
+      "gas:candidate-vibid:4234040317563": 23,
+      "gas:candidate-vibid:4234040317217": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 129,
-      "Демченко Иван Иванович": 439,
-      "Егоров Алексей Анатольевич": 26,
-      "Измайлов Юрий Александрович": 20,
-      "Качула Михаил Витальевич": 14,
-      "Кетов Сергей Геннадьевич": 40,
-      "Коломиец Дмитрий Викторович": 116,
-      "Лугин Олег Федорович": 14,
-      "Маняк Николай Иванович": 20,
-      "Прытков Виталий Владимирович": 130
+      "gas:candidate-vibid:4234040307462": 129,
+      "gas:candidate-vibid:4234040317626": 439,
+      "gas:candidate-vibid:4234040317828": 26,
+      "gas:candidate-vibid:4234040317359": 20,
+      "gas:candidate-vibid:4234040317551": 14,
+      "gas:candidate-vibid:4234040317306": 40,
+      "gas:candidate-vibid:4234040317197": 116,
+      "gas:candidate-vibid:4234040317457": 14,
+      "gas:candidate-vibid:4234040317563": 20,
+      "gas:candidate-vibid:4234040317217": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 96,
-      "Демченко Иван Иванович": 424,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 34,
-      "Коломиец Дмитрий Викторович": 68,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 14,
-      "Прытков Виталий Владимирович": 94
+      "gas:candidate-vibid:4234040307462": 96,
+      "gas:candidate-vibid:4234040317626": 424,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 34,
+      "gas:candidate-vibid:4234040317197": 68,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 14,
+      "gas:candidate-vibid:4234040317217": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 114,
-      "Демченко Иван Иванович": 403,
-      "Егоров Алексей Анатольевич": 22,
-      "Измайлов Юрий Александрович": 19,
-      "Качула Михаил Витальевич": 12,
-      "Кетов Сергей Геннадьевич": 33,
-      "Коломиец Дмитрий Викторович": 84,
-      "Лугин Олег Федорович": 13,
-      "Маняк Николай Иванович": 21,
-      "Прытков Виталий Владимирович": 140
+      "gas:candidate-vibid:4234040307462": 114,
+      "gas:candidate-vibid:4234040317626": 403,
+      "gas:candidate-vibid:4234040317828": 22,
+      "gas:candidate-vibid:4234040317359": 19,
+      "gas:candidate-vibid:4234040317551": 12,
+      "gas:candidate-vibid:4234040317306": 33,
+      "gas:candidate-vibid:4234040317197": 84,
+      "gas:candidate-vibid:4234040317457": 13,
+      "gas:candidate-vibid:4234040317563": 21,
+      "gas:candidate-vibid:4234040317217": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 31,
-      "Демченко Иван Иванович": 451,
-      "Егоров Алексей Анатольевич": 1,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 6,
-      "Коломиец Дмитрий Викторович": 15,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 94
+      "gas:candidate-vibid:4234040307462": 31,
+      "gas:candidate-vibid:4234040317626": 451,
+      "gas:candidate-vibid:4234040317828": 1,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 6,
+      "gas:candidate-vibid:4234040317197": 15,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 155,
-      "Демченко Иван Иванович": 405,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 31,
-      "Качула Михаил Витальевич": 13,
-      "Кетов Сергей Геннадьевич": 34,
-      "Коломиец Дмитрий Викторович": 103,
-      "Лугин Олег Федорович": 12,
-      "Маняк Николай Иванович": 17,
-      "Прытков Виталий Владимирович": 136
+      "gas:candidate-vibid:4234040307462": 155,
+      "gas:candidate-vibid:4234040317626": 405,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 31,
+      "gas:candidate-vibid:4234040317551": 13,
+      "gas:candidate-vibid:4234040317306": 34,
+      "gas:candidate-vibid:4234040317197": 103,
+      "gas:candidate-vibid:4234040317457": 12,
+      "gas:candidate-vibid:4234040317563": 17,
+      "gas:candidate-vibid:4234040317217": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 69,
-      "Демченко Иван Иванович": 306,
-      "Егоров Алексей Анатольевич": 9,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 18,
-      "Коломиец Дмитрий Викторович": 51,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 10,
-      "Прытков Виталий Владимирович": 97
+      "gas:candidate-vibid:4234040307462": 69,
+      "gas:candidate-vibid:4234040317626": 306,
+      "gas:candidate-vibid:4234040317828": 9,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 18,
+      "gas:candidate-vibid:4234040317197": 51,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 10,
+      "gas:candidate-vibid:4234040317217": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 56,
-      "Демченко Иван Иванович": 216,
-      "Егоров Алексей Анатольевич": 13,
-      "Измайлов Юрий Александрович": 13,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 29,
-      "Коломиец Дмитрий Викторович": 44,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 100
+      "gas:candidate-vibid:4234040307462": 56,
+      "gas:candidate-vibid:4234040317626": 216,
+      "gas:candidate-vibid:4234040317828": 13,
+      "gas:candidate-vibid:4234040317359": 13,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 29,
+      "gas:candidate-vibid:4234040317197": 44,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 140,
-      "Демченко Иван Иванович": 469,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 24,
-      "Качула Михаил Витальевич": 13,
-      "Кетов Сергей Геннадьевич": 34,
-      "Коломиец Дмитрий Викторович": 92,
-      "Лугин Олег Федорович": 13,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 176
+      "gas:candidate-vibid:4234040307462": 140,
+      "gas:candidate-vibid:4234040317626": 469,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 24,
+      "gas:candidate-vibid:4234040317551": 13,
+      "gas:candidate-vibid:4234040317306": 34,
+      "gas:candidate-vibid:4234040317197": 92,
+      "gas:candidate-vibid:4234040317457": 13,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 109,
-      "Демченко Иван Иванович": 354,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 15,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 30,
-      "Коломиец Дмитрий Викторович": 79,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 107
+      "gas:candidate-vibid:4234040307462": 109,
+      "gas:candidate-vibid:4234040317626": 354,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 15,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 30,
+      "gas:candidate-vibid:4234040317197": 79,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 160,
-      "Демченко Иван Иванович": 478,
-      "Егоров Алексей Анатольевич": 12,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 48,
-      "Коломиец Дмитрий Викторович": 112,
-      "Лугин Олег Федорович": 9,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 148
+      "gas:candidate-vibid:4234040307462": 160,
+      "gas:candidate-vibid:4234040317626": 478,
+      "gas:candidate-vibid:4234040317828": 12,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 48,
+      "gas:candidate-vibid:4234040317197": 112,
+      "gas:candidate-vibid:4234040317457": 9,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 163,
-      "Демченко Иван Иванович": 523,
-      "Егоров Алексей Анатольевич": 23,
-      "Измайлов Юрий Александрович": 23,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 55,
-      "Коломиец Дмитрий Викторович": 105,
-      "Лугин Олег Федорович": 16,
-      "Маняк Николай Иванович": 23,
-      "Прытков Виталий Владимирович": 185
+      "gas:candidate-vibid:4234040307462": 163,
+      "gas:candidate-vibid:4234040317626": 523,
+      "gas:candidate-vibid:4234040317828": 23,
+      "gas:candidate-vibid:4234040317359": 23,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 55,
+      "gas:candidate-vibid:4234040317197": 105,
+      "gas:candidate-vibid:4234040317457": 16,
+      "gas:candidate-vibid:4234040317563": 23,
+      "gas:candidate-vibid:4234040317217": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 70,
-      "Демченко Иван Иванович": 243,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 24,
-      "Коломиец Дмитрий Викторович": 51,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 10,
-      "Прытков Виталий Владимирович": 67
+      "gas:candidate-vibid:4234040307462": 70,
+      "gas:candidate-vibid:4234040317626": 243,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 24,
+      "gas:candidate-vibid:4234040317197": 51,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 10,
+      "gas:candidate-vibid:4234040317217": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 166,
-      "Демченко Иван Иванович": 655,
-      "Егоров Алексей Анатольевич": 18,
-      "Измайлов Юрий Александрович": 22,
-      "Качула Михаил Витальевич": 12,
-      "Кетов Сергей Геннадьевич": 56,
-      "Коломиец Дмитрий Викторович": 121,
-      "Лугин Олег Федорович": 10,
-      "Маняк Николай Иванович": 14,
-      "Прытков Виталий Владимирович": 150
+      "gas:candidate-vibid:4234040307462": 166,
+      "gas:candidate-vibid:4234040317626": 655,
+      "gas:candidate-vibid:4234040317828": 18,
+      "gas:candidate-vibid:4234040317359": 22,
+      "gas:candidate-vibid:4234040317551": 12,
+      "gas:candidate-vibid:4234040317306": 56,
+      "gas:candidate-vibid:4234040317197": 121,
+      "gas:candidate-vibid:4234040317457": 10,
+      "gas:candidate-vibid:4234040317563": 14,
+      "gas:candidate-vibid:4234040317217": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 79,
-      "Демченко Иван Иванович": 892,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 36,
-      "Коломиец Дмитрий Викторович": 105,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 12,
-      "Прытков Виталий Владимирович": 88
+      "gas:candidate-vibid:4234040307462": 79,
+      "gas:candidate-vibid:4234040317626": 892,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 36,
+      "gas:candidate-vibid:4234040317197": 105,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 12,
+      "gas:candidate-vibid:4234040317217": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 99,
-      "Демченко Иван Иванович": 338,
-      "Егоров Алексей Анатольевич": 16,
-      "Измайлов Юрий Александрович": 11,
-      "Качула Михаил Витальевич": 9,
-      "Кетов Сергей Геннадьевич": 25,
-      "Коломиец Дмитрий Викторович": 73,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 81
+      "gas:candidate-vibid:4234040307462": 99,
+      "gas:candidate-vibid:4234040317626": 338,
+      "gas:candidate-vibid:4234040317828": 16,
+      "gas:candidate-vibid:4234040317359": 11,
+      "gas:candidate-vibid:4234040317551": 9,
+      "gas:candidate-vibid:4234040317306": 25,
+      "gas:candidate-vibid:4234040317197": 73,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 157,
-      "Демченко Иван Иванович": 578,
-      "Егоров Алексей Анатольевич": 22,
-      "Измайлов Юрий Александрович": 35,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 46,
-      "Коломиец Дмитрий Викторович": 141,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 15,
-      "Прытков Виталий Владимирович": 123
+      "gas:candidate-vibid:4234040307462": 157,
+      "gas:candidate-vibid:4234040317626": 578,
+      "gas:candidate-vibid:4234040317828": 22,
+      "gas:candidate-vibid:4234040317359": 35,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 46,
+      "gas:candidate-vibid:4234040317197": 141,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 15,
+      "gas:candidate-vibid:4234040317217": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 10,
-      "Демченко Иван Иванович": 174,
-      "Егоров Алексей Анатольевич": 2,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 5,
-      "Коломиец Дмитрий Викторович": 7,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 16
+      "gas:candidate-vibid:4234040307462": 10,
+      "gas:candidate-vibid:4234040317626": 174,
+      "gas:candidate-vibid:4234040317828": 2,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 5,
+      "gas:candidate-vibid:4234040317197": 7,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 10,
-      "Демченко Иван Иванович": 454,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 20,
-      "Коломиец Дмитрий Викторович": 45,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 171
+      "gas:candidate-vibid:4234040307462": 10,
+      "gas:candidate-vibid:4234040317626": 454,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 20,
+      "gas:candidate-vibid:4234040317197": 45,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 93,
-      "Демченко Иван Иванович": 856,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 10,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 26,
-      "Коломиец Дмитрий Викторович": 69,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 12,
-      "Прытков Виталий Владимирович": 77
+      "gas:candidate-vibid:4234040307462": 93,
+      "gas:candidate-vibid:4234040317626": 856,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 10,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 26,
+      "gas:candidate-vibid:4234040317197": 69,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 12,
+      "gas:candidate-vibid:4234040317217": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 7,
-      "Демченко Иван Иванович": 119,
-      "Егоров Алексей Анатольевич": 3,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 1,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 3
+      "gas:candidate-vibid:4234040307462": 7,
+      "gas:candidate-vibid:4234040317626": 119,
+      "gas:candidate-vibid:4234040317828": 3,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 1,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 53,
-      "Демченко Иван Иванович": 799,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 0,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 11,
-      "Коломиец Дмитрий Викторович": 142,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 3,
-      "Прытков Виталий Владимирович": 212
+      "gas:candidate-vibid:4234040307462": 53,
+      "gas:candidate-vibid:4234040317626": 799,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 0,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 11,
+      "gas:candidate-vibid:4234040317197": 142,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 3,
+      "gas:candidate-vibid:4234040317217": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 45,
-      "Демченко Иван Иванович": 321,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 18,
-      "Коломиец Дмитрий Викторович": 45,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 42
+      "gas:candidate-vibid:4234040307462": 45,
+      "gas:candidate-vibid:4234040317626": 321,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 18,
+      "gas:candidate-vibid:4234040317197": 45,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 9,
-      "Демченко Иван Иванович": 257,
-      "Егоров Алексей Анатольевич": 3,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 3,
-      "Коломиец Дмитрий Викторович": 19,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 15
+      "gas:candidate-vibid:4234040307462": 9,
+      "gas:candidate-vibid:4234040317626": 257,
+      "gas:candidate-vibid:4234040317828": 3,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 3,
+      "gas:candidate-vibid:4234040317197": 19,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 7,
-      "Демченко Иван Иванович": 970,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 2,
-      "Коломиец Дмитрий Викторович": 72,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 3,
-      "Прытков Виталий Владимирович": 76
+      "gas:candidate-vibid:4234040307462": 7,
+      "gas:candidate-vibid:4234040317626": 970,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 2,
+      "gas:candidate-vibid:4234040317197": 72,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 3,
+      "gas:candidate-vibid:4234040317217": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 43,
-      "Демченко Иван Иванович": 908,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 18,
-      "Коломиец Дмитрий Викторович": 80,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 57
+      "gas:candidate-vibid:4234040307462": 43,
+      "gas:candidate-vibid:4234040317626": 908,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 18,
+      "gas:candidate-vibid:4234040317197": 80,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 37,
-      "Демченко Иван Иванович": 352,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 6,
-      "Коломиец Дмитрий Викторович": 34,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 43
+      "gas:candidate-vibid:4234040307462": 37,
+      "gas:candidate-vibid:4234040317626": 352,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 6,
+      "gas:candidate-vibid:4234040317197": 34,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 53,
-      "Демченко Иван Иванович": 369,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 11,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 15,
-      "Коломиец Дмитрий Викторович": 28,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 64
+      "gas:candidate-vibid:4234040307462": 53,
+      "gas:candidate-vibid:4234040317626": 369,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 11,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 15,
+      "gas:candidate-vibid:4234040317197": 28,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 50,
-      "Демченко Иван Иванович": 357,
-      "Егоров Алексей Анатольевич": 0,
-      "Измайлов Юрий Александрович": 0,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 13,
-      "Коломиец Дмитрий Викторович": 35,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 163
+      "gas:candidate-vibid:4234040307462": 50,
+      "gas:candidate-vibid:4234040317626": 357,
+      "gas:candidate-vibid:4234040317828": 0,
+      "gas:candidate-vibid:4234040317359": 0,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 13,
+      "gas:candidate-vibid:4234040317197": 35,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 23,
-      "Демченко Иван Иванович": 127,
-      "Егоров Алексей Анатольевич": 11,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 5,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 16
+      "gas:candidate-vibid:4234040307462": 23,
+      "gas:candidate-vibid:4234040317626": 127,
+      "gas:candidate-vibid:4234040317828": 11,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 5,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 75,
-      "Демченко Иван Иванович": 992,
-      "Егоров Алексей Анатольевич": 10,
-      "Измайлов Юрий Александрович": 16,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 32,
-      "Коломиец Дмитрий Викторович": 61,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 66
+      "gas:candidate-vibid:4234040307462": 75,
+      "gas:candidate-vibid:4234040317626": 992,
+      "gas:candidate-vibid:4234040317828": 10,
+      "gas:candidate-vibid:4234040317359": 16,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 32,
+      "gas:candidate-vibid:4234040317197": 61,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 135,
-      "Демченко Иван Иванович": 910,
-      "Егоров Алексей Анатольевич": 0,
-      "Измайлов Юрий Александрович": 0,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 19,
-      "Коломиец Дмитрий Викторович": 102,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 20,
-      "Прытков Виталий Владимирович": 73
+      "gas:candidate-vibid:4234040307462": 135,
+      "gas:candidate-vibid:4234040317626": 910,
+      "gas:candidate-vibid:4234040317828": 0,
+      "gas:candidate-vibid:4234040317359": 0,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 19,
+      "gas:candidate-vibid:4234040317197": 102,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 20,
+      "gas:candidate-vibid:4234040317217": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 78,
-      "Демченко Иван Иванович": 1066,
-      "Егоров Алексей Анатольевич": 25,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 26,
-      "Коломиец Дмитрий Викторович": 44,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 42
+      "gas:candidate-vibid:4234040307462": 78,
+      "gas:candidate-vibid:4234040317626": 1066,
+      "gas:candidate-vibid:4234040317828": 25,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 26,
+      "gas:candidate-vibid:4234040317197": 44,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 197,
-      "Демченко Иван Иванович": 855,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 12,
-      "Коломиец Дмитрий Викторович": 121,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 12,
-      "Прытков Виталий Владимирович": 52
+      "gas:candidate-vibid:4234040307462": 197,
+      "gas:candidate-vibid:4234040317626": 855,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 12,
+      "gas:candidate-vibid:4234040317197": 121,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 12,
+      "gas:candidate-vibid:4234040317217": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 84,
-      "Демченко Иван Иванович": 960,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 19,
-      "Коломиец Дмитрий Викторович": 64,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 58
+      "gas:candidate-vibid:4234040307462": 84,
+      "gas:candidate-vibid:4234040317626": 960,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 19,
+      "gas:candidate-vibid:4234040317197": 64,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 32,
-      "Демченко Иван Иванович": 473,
-      "Егоров Алексей Анатольевич": 9,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 14,
-      "Коломиец Дмитрий Викторович": 18,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 22
+      "gas:candidate-vibid:4234040307462": 32,
+      "gas:candidate-vibid:4234040317626": 473,
+      "gas:candidate-vibid:4234040317828": 9,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 14,
+      "gas:candidate-vibid:4234040317197": 18,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 5,
-      "Демченко Иван Иванович": 158,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 2,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 10,
-      "Коломиец Дмитрий Викторович": 9,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 7
+      "gas:candidate-vibid:4234040307462": 5,
+      "gas:candidate-vibid:4234040317626": 158,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 2,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 10,
+      "gas:candidate-vibid:4234040317197": 9,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 178,
-      "Демченко Иван Иванович": 1046,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 10,
-      "Коломиец Дмитрий Викторович": 116,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 201
+      "gas:candidate-vibid:4234040307462": 178,
+      "gas:candidate-vibid:4234040317626": 1046,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 10,
+      "gas:candidate-vibid:4234040317197": 116,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 57,
-      "Демченко Иван Иванович": 195,
-      "Егоров Алексей Анатольевич": 11,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 22,
-      "Коломиец Дмитрий Викторович": 47,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 60
+      "gas:candidate-vibid:4234040307462": 57,
+      "gas:candidate-vibid:4234040317626": 195,
+      "gas:candidate-vibid:4234040317828": 11,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 22,
+      "gas:candidate-vibid:4234040317197": 47,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 46,
-      "Демченко Иван Иванович": 196,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 23,
-      "Коломиец Дмитрий Викторович": 27,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 68
+      "gas:candidate-vibid:4234040307462": 46,
+      "gas:candidate-vibid:4234040317626": 196,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 23,
+      "gas:candidate-vibid:4234040317197": 27,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 112,
-      "Демченко Иван Иванович": 455,
-      "Егоров Алексей Анатольевич": 17,
-      "Измайлов Юрий Александрович": 15,
-      "Качула Михаил Витальевич": 10,
-      "Кетов Сергей Геннадьевич": 29,
-      "Коломиец Дмитрий Викторович": 78,
-      "Лугин Олег Федорович": 10,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 91
+      "gas:candidate-vibid:4234040307462": 112,
+      "gas:candidate-vibid:4234040317626": 455,
+      "gas:candidate-vibid:4234040317828": 17,
+      "gas:candidate-vibid:4234040317359": 15,
+      "gas:candidate-vibid:4234040317551": 10,
+      "gas:candidate-vibid:4234040317306": 29,
+      "gas:candidate-vibid:4234040317197": 78,
+      "gas:candidate-vibid:4234040317457": 10,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 37,
-      "Демченко Иван Иванович": 525,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 2,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 8,
-      "Коломиец Дмитрий Викторович": 13,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 86
+      "gas:candidate-vibid:4234040307462": 37,
+      "gas:candidate-vibid:4234040317626": 525,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 2,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 8,
+      "gas:candidate-vibid:4234040317197": 13,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 52,
-      "Демченко Иван Иванович": 745,
-      "Егоров Алексей Анатольевич": 2,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 11,
-      "Коломиец Дмитрий Викторович": 43,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 31
+      "gas:candidate-vibid:4234040307462": 52,
+      "gas:candidate-vibid:4234040317626": 745,
+      "gas:candidate-vibid:4234040317828": 2,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 11,
+      "gas:candidate-vibid:4234040317197": 43,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 62,
-      "Демченко Иван Иванович": 498,
-      "Егоров Алексей Анатольевич": 10,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 9,
-      "Коломиец Дмитрий Викторович": 127,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 72
+      "gas:candidate-vibid:4234040307462": 62,
+      "gas:candidate-vibid:4234040317626": 498,
+      "gas:candidate-vibid:4234040317828": 10,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 9,
+      "gas:candidate-vibid:4234040317197": 127,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 44,
-      "Демченко Иван Иванович": 379,
-      "Егоров Алексей Анатольевич": 13,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 20,
-      "Коломиец Дмитрий Викторович": 55,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 81
+      "gas:candidate-vibid:4234040307462": 44,
+      "gas:candidate-vibid:4234040317626": 379,
+      "gas:candidate-vibid:4234040317828": 13,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 20,
+      "gas:candidate-vibid:4234040317197": 55,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 42,
-      "Демченко Иван Иванович": 330,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 28,
-      "Коломиец Дмитрий Викторович": 78,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 42
+      "gas:candidate-vibid:4234040307462": 42,
+      "gas:candidate-vibid:4234040317626": 330,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 28,
+      "gas:candidate-vibid:4234040317197": 78,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 34,
-      "Демченко Иван Иванович": 430,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 15,
-      "Коломиец Дмитрий Викторович": 38,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 112
+      "gas:candidate-vibid:4234040307462": 34,
+      "gas:candidate-vibid:4234040317626": 430,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 15,
+      "gas:candidate-vibid:4234040317197": 38,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 27,
-      "Демченко Иван Иванович": 584,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 2,
-      "Коломиец Дмитрий Викторович": 35,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 63
+      "gas:candidate-vibid:4234040307462": 27,
+      "gas:candidate-vibid:4234040317626": 584,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 2,
+      "gas:candidate-vibid:4234040317197": 35,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 14,
-      "Демченко Иван Иванович": 287,
-      "Егоров Алексей Анатольевич": 1,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 8,
-      "Коломиец Дмитрий Викторович": 13,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 23
+      "gas:candidate-vibid:4234040307462": 14,
+      "gas:candidate-vibid:4234040317626": 287,
+      "gas:candidate-vibid:4234040317828": 1,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 8,
+      "gas:candidate-vibid:4234040317197": 13,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 8,
-      "Демченко Иван Иванович": 168,
-      "Егоров Алексей Анатольевич": 0,
-      "Измайлов Юрий Александрович": 2,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 0,
-      "Коломиец Дмитрий Викторович": 18,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 7
+      "gas:candidate-vibid:4234040307462": 8,
+      "gas:candidate-vibid:4234040317626": 168,
+      "gas:candidate-vibid:4234040317828": 0,
+      "gas:candidate-vibid:4234040317359": 2,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 0,
+      "gas:candidate-vibid:4234040317197": 18,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 16,
-      "Демченко Иван Иванович": 187,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 12,
-      "Коломиец Дмитрий Викторович": 11,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 6
+      "gas:candidate-vibid:4234040307462": 16,
+      "gas:candidate-vibid:4234040317626": 187,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 12,
+      "gas:candidate-vibid:4234040317197": 11,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 22,
-      "Демченко Иван Иванович": 235,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 2,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 16,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 3,
-      "Прытков Виталий Владимирович": 18
+      "gas:candidate-vibid:4234040307462": 22,
+      "gas:candidate-vibid:4234040317626": 235,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 2,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 16,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 3,
+      "gas:candidate-vibid:4234040317217": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 25,
-      "Демченко Иван Иванович": 196,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 10,
-      "Коломиец Дмитрий Викторович": 19,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 33
+      "gas:candidate-vibid:4234040307462": 25,
+      "gas:candidate-vibid:4234040317626": 196,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 10,
+      "gas:candidate-vibid:4234040317197": 19,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 41,
-      "Демченко Иван Иванович": 201,
-      "Егоров Алексей Анатольевич": 3,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 12,
-      "Коломиец Дмитрий Викторович": 24,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 33
+      "gas:candidate-vibid:4234040307462": 41,
+      "gas:candidate-vibid:4234040317626": 201,
+      "gas:candidate-vibid:4234040317828": 3,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 12,
+      "gas:candidate-vibid:4234040317197": 24,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 22,
-      "Демченко Иван Иванович": 121,
-      "Егоров Алексей Анатольевич": 3,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 8,
-      "Коломиец Дмитрий Викторович": 16,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 1,
-      "Прытков Виталий Владимирович": 21
+      "gas:candidate-vibid:4234040307462": 22,
+      "gas:candidate-vibid:4234040317626": 121,
+      "gas:candidate-vibid:4234040317828": 3,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 8,
+      "gas:candidate-vibid:4234040317197": 16,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 1,
+      "gas:candidate-vibid:4234040317217": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306538&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 81,
-      "Демченко Иван Иванович": 226,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 13,
-      "Коломиец Дмитрий Викторович": 37,
-      "Лугин Олег Федорович": 2,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 38
+      "gas:candidate-vibid:4234040307462": 81,
+      "gas:candidate-vibid:4234040317626": 226,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 13,
+      "gas:candidate-vibid:4234040317197": 37,
+      "gas:candidate-vibid:4234040317457": 2,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 59,
-      "Демченко Иван Иванович": 134,
-      "Егоров Алексей Анатольевич": 4,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 4,
-      "Коломиец Дмитрий Викторович": 25,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 18
+      "gas:candidate-vibid:4234040307462": 59,
+      "gas:candidate-vibid:4234040317626": 134,
+      "gas:candidate-vibid:4234040317828": 4,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 4,
+      "gas:candidate-vibid:4234040317197": 25,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 64,
-      "Демченко Иван Иванович": 243,
-      "Егоров Алексей Анатольевич": 17,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 24,
-      "Коломиец Дмитрий Викторович": 70,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 55
+      "gas:candidate-vibid:4234040307462": 64,
+      "gas:candidate-vibid:4234040317626": 243,
+      "gas:candidate-vibid:4234040317828": 17,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 24,
+      "gas:candidate-vibid:4234040317197": 70,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 98,
-      "Демченко Иван Иванович": 272,
-      "Егоров Алексей Анатольевич": 22,
-      "Измайлов Юрий Александрович": 14,
-      "Качула Михаил Витальевич": 13,
-      "Кетов Сергей Геннадьевич": 23,
-      "Коломиец Дмитрий Викторович": 90,
-      "Лугин Олег Федорович": 11,
-      "Маняк Николай Иванович": 21,
-      "Прытков Виталий Владимирович": 47
+      "gas:candidate-vibid:4234040307462": 98,
+      "gas:candidate-vibid:4234040317626": 272,
+      "gas:candidate-vibid:4234040317828": 22,
+      "gas:candidate-vibid:4234040317359": 14,
+      "gas:candidate-vibid:4234040317551": 13,
+      "gas:candidate-vibid:4234040317306": 23,
+      "gas:candidate-vibid:4234040317197": 90,
+      "gas:candidate-vibid:4234040317457": 11,
+      "gas:candidate-vibid:4234040317563": 21,
+      "gas:candidate-vibid:4234040317217": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 63,
-      "Демченко Иван Иванович": 193,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 10,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 18,
-      "Коломиец Дмитрий Викторович": 46,
-      "Лугин Олег Федорович": 10,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 21
+      "gas:candidate-vibid:4234040307462": 63,
+      "gas:candidate-vibid:4234040317626": 193,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 10,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 18,
+      "gas:candidate-vibid:4234040317197": 46,
+      "gas:candidate-vibid:4234040317457": 10,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 90,
-      "Демченко Иван Иванович": 360,
-      "Егоров Алексей Анатольевич": 17,
-      "Измайлов Юрий Александрович": 22,
-      "Качула Михаил Витальевич": 9,
-      "Кетов Сергей Геннадьевич": 34,
-      "Коломиец Дмитрий Викторович": 102,
-      "Лугин Олег Федорович": 18,
-      "Маняк Николай Иванович": 24,
-      "Прытков Виталий Владимирович": 55
+      "gas:candidate-vibid:4234040307462": 90,
+      "gas:candidate-vibid:4234040317626": 360,
+      "gas:candidate-vibid:4234040317828": 17,
+      "gas:candidate-vibid:4234040317359": 22,
+      "gas:candidate-vibid:4234040317551": 9,
+      "gas:candidate-vibid:4234040317306": 34,
+      "gas:candidate-vibid:4234040317197": 102,
+      "gas:candidate-vibid:4234040317457": 18,
+      "gas:candidate-vibid:4234040317563": 24,
+      "gas:candidate-vibid:4234040317217": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 92,
-      "Демченко Иван Иванович": 257,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 33,
-      "Коломиец Дмитрий Викторович": 105,
-      "Лугин Олег Федорович": 18,
-      "Маняк Николай Иванович": 19,
-      "Прытков Виталий Владимирович": 37
+      "gas:candidate-vibid:4234040307462": 92,
+      "gas:candidate-vibid:4234040317626": 257,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 33,
+      "gas:candidate-vibid:4234040317197": 105,
+      "gas:candidate-vibid:4234040317457": 18,
+      "gas:candidate-vibid:4234040317563": 19,
+      "gas:candidate-vibid:4234040317217": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 103,
-      "Демченко Иван Иванович": 379,
-      "Егоров Алексей Анатольевич": 12,
-      "Измайлов Юрий Александрович": 20,
-      "Качула Михаил Витальевич": 12,
-      "Кетов Сергей Геннадьевич": 32,
-      "Коломиец Дмитрий Викторович": 107,
-      "Лугин Олег Федорович": 16,
-      "Маняк Николай Иванович": 19,
-      "Прытков Виталий Владимирович": 61
+      "gas:candidate-vibid:4234040307462": 103,
+      "gas:candidate-vibid:4234040317626": 379,
+      "gas:candidate-vibid:4234040317828": 12,
+      "gas:candidate-vibid:4234040317359": 20,
+      "gas:candidate-vibid:4234040317551": 12,
+      "gas:candidate-vibid:4234040317306": 32,
+      "gas:candidate-vibid:4234040317197": 107,
+      "gas:candidate-vibid:4234040317457": 16,
+      "gas:candidate-vibid:4234040317563": 19,
+      "gas:candidate-vibid:4234040317217": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 99,
-      "Демченко Иван Иванович": 335,
-      "Егоров Алексей Анатольевич": 19,
-      "Измайлов Юрий Александрович": 16,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 37,
-      "Коломиец Дмитрий Викторович": 107,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 15,
-      "Прытков Виталий Владимирович": 33
+      "gas:candidate-vibid:4234040307462": 99,
+      "gas:candidate-vibid:4234040317626": 335,
+      "gas:candidate-vibid:4234040317828": 19,
+      "gas:candidate-vibid:4234040317359": 16,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 37,
+      "gas:candidate-vibid:4234040317197": 107,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 15,
+      "gas:candidate-vibid:4234040317217": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 119,
-      "Демченко Иван Иванович": 390,
-      "Егоров Алексей Анатольевич": 24,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 10,
-      "Кетов Сергей Геннадьевич": 20,
-      "Коломиец Дмитрий Викторович": 103,
-      "Лугин Олег Федорович": 12,
-      "Маняк Николай Иванович": 28,
-      "Прытков Виталий Владимирович": 45
+      "gas:candidate-vibid:4234040307462": 119,
+      "gas:candidate-vibid:4234040317626": 390,
+      "gas:candidate-vibid:4234040317828": 24,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 10,
+      "gas:candidate-vibid:4234040317306": 20,
+      "gas:candidate-vibid:4234040317197": 103,
+      "gas:candidate-vibid:4234040317457": 12,
+      "gas:candidate-vibid:4234040317563": 28,
+      "gas:candidate-vibid:4234040317217": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 67,
-      "Демченко Иван Иванович": 208,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 17,
-      "Коломиец Дмитрий Викторович": 79,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 14,
-      "Прытков Виталий Владимирович": 32
+      "gas:candidate-vibid:4234040307462": 67,
+      "gas:candidate-vibid:4234040317626": 208,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 17,
+      "gas:candidate-vibid:4234040317197": 79,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 14,
+      "gas:candidate-vibid:4234040317217": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 81,
-      "Демченко Иван Иванович": 201,
-      "Егоров Алексей Анатольевич": 11,
-      "Измайлов Юрий Александрович": 15,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 24,
-      "Коломиец Дмитрий Викторович": 53,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 32
+      "gas:candidate-vibid:4234040307462": 81,
+      "gas:candidate-vibid:4234040317626": 201,
+      "gas:candidate-vibid:4234040317828": 11,
+      "gas:candidate-vibid:4234040317359": 15,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 24,
+      "gas:candidate-vibid:4234040317197": 53,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 64,
-      "Демченко Иван Иванович": 225,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 21,
-      "Коломиец Дмитрий Викторович": 57,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 15,
-      "Прытков Виталий Владимирович": 33
+      "gas:candidate-vibid:4234040307462": 64,
+      "gas:candidate-vibid:4234040317626": 225,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 21,
+      "gas:candidate-vibid:4234040317197": 57,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 15,
+      "gas:candidate-vibid:4234040317217": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 90,
-      "Демченко Иван Иванович": 245,
-      "Егоров Алексей Анатольевич": 11,
-      "Измайлов Юрий Александрович": 11,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 30,
-      "Коломиец Дмитрий Викторович": 99,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 20,
-      "Прытков Виталий Владимирович": 41
+      "gas:candidate-vibid:4234040307462": 90,
+      "gas:candidate-vibid:4234040317626": 245,
+      "gas:candidate-vibid:4234040317828": 11,
+      "gas:candidate-vibid:4234040317359": 11,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 30,
+      "gas:candidate-vibid:4234040317197": 99,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 20,
+      "gas:candidate-vibid:4234040317217": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 109,
-      "Демченко Иван Иванович": 442,
-      "Егоров Алексей Анатольевич": 12,
-      "Измайлов Юрий Александрович": 13,
-      "Качула Михаил Витальевич": 8,
-      "Кетов Сергей Геннадьевич": 33,
-      "Коломиец Дмитрий Викторович": 65,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 17,
-      "Прытков Виталий Владимирович": 55
+      "gas:candidate-vibid:4234040307462": 109,
+      "gas:candidate-vibid:4234040317626": 442,
+      "gas:candidate-vibid:4234040317828": 12,
+      "gas:candidate-vibid:4234040317359": 13,
+      "gas:candidate-vibid:4234040317551": 8,
+      "gas:candidate-vibid:4234040317306": 33,
+      "gas:candidate-vibid:4234040317197": 65,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 17,
+      "gas:candidate-vibid:4234040317217": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 80,
-      "Демченко Иван Иванович": 242,
-      "Егоров Алексей Анатольевич": 17,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 22,
-      "Коломиец Дмитрий Викторович": 88,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 14,
-      "Прытков Виталий Владимирович": 22
+      "gas:candidate-vibid:4234040307462": 80,
+      "gas:candidate-vibid:4234040317626": 242,
+      "gas:candidate-vibid:4234040317828": 17,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 22,
+      "gas:candidate-vibid:4234040317197": 88,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 14,
+      "gas:candidate-vibid:4234040317217": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 48,
-      "Демченко Иван Иванович": 303,
-      "Егоров Алексей Анатольевич": 9,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 18,
-      "Коломиец Дмитрий Викторович": 63,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 10,
-      "Прытков Виталий Владимирович": 37
+      "gas:candidate-vibid:4234040307462": 48,
+      "gas:candidate-vibid:4234040317626": 303,
+      "gas:candidate-vibid:4234040317828": 9,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 18,
+      "gas:candidate-vibid:4234040317197": 63,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 10,
+      "gas:candidate-vibid:4234040317217": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 93,
-      "Демченко Иван Иванович": 348,
-      "Егоров Алексей Анатольевич": 18,
-      "Измайлов Юрий Александрович": 14,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 23,
-      "Коломиец Дмитрий Викторович": 62,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 15,
-      "Прытков Виталий Владимирович": 57
+      "gas:candidate-vibid:4234040307462": 93,
+      "gas:candidate-vibid:4234040317626": 348,
+      "gas:candidate-vibid:4234040317828": 18,
+      "gas:candidate-vibid:4234040317359": 14,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 23,
+      "gas:candidate-vibid:4234040317197": 62,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 15,
+      "gas:candidate-vibid:4234040317217": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 97,
-      "Демченко Иван Иванович": 412,
-      "Егоров Алексей Анатольевич": 26,
-      "Измайлов Юрий Александрович": 10,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 39,
-      "Коломиец Дмитрий Викторович": 108,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 13,
-      "Прытков Виталий Владимирович": 82
+      "gas:candidate-vibid:4234040307462": 97,
+      "gas:candidate-vibid:4234040317626": 412,
+      "gas:candidate-vibid:4234040317828": 26,
+      "gas:candidate-vibid:4234040317359": 10,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 39,
+      "gas:candidate-vibid:4234040317197": 108,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 13,
+      "gas:candidate-vibid:4234040317217": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 80,
-      "Демченко Иван Иванович": 397,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 16,
-      "Коломиец Дмитрий Викторович": 98,
-      "Лугин Олег Федорович": 6,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 50
+      "gas:candidate-vibid:4234040307462": 80,
+      "gas:candidate-vibid:4234040317626": 397,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 16,
+      "gas:candidate-vibid:4234040317197": 98,
+      "gas:candidate-vibid:4234040317457": 6,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 80,
-      "Демченко Иван Иванович": 377,
-      "Егоров Алексей Анатольевич": 22,
-      "Измайлов Юрий Александрович": 16,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 26,
-      "Коломиец Дмитрий Викторович": 82,
-      "Лугин Олег Федорович": 9,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 69
+      "gas:candidate-vibid:4234040307462": 80,
+      "gas:candidate-vibid:4234040317626": 377,
+      "gas:candidate-vibid:4234040317828": 22,
+      "gas:candidate-vibid:4234040317359": 16,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 26,
+      "gas:candidate-vibid:4234040317197": 82,
+      "gas:candidate-vibid:4234040317457": 9,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 74,
-      "Демченко Иван Иванович": 316,
-      "Егоров Алексей Анатольевич": 17,
-      "Измайлов Юрий Александрович": 14,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 14,
-      "Коломиец Дмитрий Викторович": 58,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 52
+      "gas:candidate-vibid:4234040307462": 74,
+      "gas:candidate-vibid:4234040317626": 316,
+      "gas:candidate-vibid:4234040317828": 17,
+      "gas:candidate-vibid:4234040317359": 14,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 14,
+      "gas:candidate-vibid:4234040317197": 58,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 58,
-      "Демченко Иван Иванович": 180,
-      "Егоров Алексей Анатольевич": 11,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 12,
-      "Кетов Сергей Геннадьевич": 17,
-      "Коломиец Дмитрий Викторович": 50,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 19,
-      "Прытков Виталий Владимирович": 20
+      "gas:candidate-vibid:4234040307462": 58,
+      "gas:candidate-vibid:4234040317626": 180,
+      "gas:candidate-vibid:4234040317828": 11,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 12,
+      "gas:candidate-vibid:4234040317306": 17,
+      "gas:candidate-vibid:4234040317197": 50,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 19,
+      "gas:candidate-vibid:4234040317217": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 122,
-      "Демченко Иван Иванович": 444,
-      "Егоров Алексей Анатольевич": 26,
-      "Измайлов Юрий Александрович": 14,
-      "Качула Михаил Витальевич": 15,
-      "Кетов Сергей Геннадьевич": 32,
-      "Коломиец Дмитрий Викторович": 113,
-      "Лугин Олег Федорович": 13,
-      "Маняк Николай Иванович": 16,
-      "Прытков Виталий Владимирович": 39
+      "gas:candidate-vibid:4234040307462": 122,
+      "gas:candidate-vibid:4234040317626": 444,
+      "gas:candidate-vibid:4234040317828": 26,
+      "gas:candidate-vibid:4234040317359": 14,
+      "gas:candidate-vibid:4234040317551": 15,
+      "gas:candidate-vibid:4234040317306": 32,
+      "gas:candidate-vibid:4234040317197": 113,
+      "gas:candidate-vibid:4234040317457": 13,
+      "gas:candidate-vibid:4234040317563": 16,
+      "gas:candidate-vibid:4234040317217": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 34,
-      "Демченко Иван Иванович": 405,
-      "Егоров Алексей Анатольевич": 9,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 10,
-      "Коломиец Дмитрий Викторович": 38,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 19
+      "gas:candidate-vibid:4234040307462": 34,
+      "gas:candidate-vibid:4234040317626": 405,
+      "gas:candidate-vibid:4234040317828": 9,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 10,
+      "gas:candidate-vibid:4234040317197": 38,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 77,
-      "Демченко Иван Иванович": 747,
-      "Егоров Алексей Анатольевич": 24,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 31,
-      "Коломиец Дмитрий Викторович": 71,
-      "Лугин Олег Федорович": 10,
-      "Маняк Николай Иванович": 26,
-      "Прытков Виталий Владимирович": 47
+      "gas:candidate-vibid:4234040307462": 77,
+      "gas:candidate-vibid:4234040317626": 747,
+      "gas:candidate-vibid:4234040317828": 24,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 31,
+      "gas:candidate-vibid:4234040317197": 71,
+      "gas:candidate-vibid:4234040317457": 10,
+      "gas:candidate-vibid:4234040317563": 26,
+      "gas:candidate-vibid:4234040317217": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 75,
-      "Демченко Иван Иванович": 613,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 13,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 36,
-      "Коломиец Дмитрий Викторович": 59,
-      "Лугин Олег Федорович": 11,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 40
+      "gas:candidate-vibid:4234040307462": 75,
+      "gas:candidate-vibid:4234040317626": 613,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 13,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 36,
+      "gas:candidate-vibid:4234040317197": 59,
+      "gas:candidate-vibid:4234040317457": 11,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 76,
-      "Демченко Иван Иванович": 339,
-      "Егоров Алексей Анатольевич": 14,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 15,
-      "Коломиец Дмитрий Викторович": 37,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 39
+      "gas:candidate-vibid:4234040307462": 76,
+      "gas:candidate-vibid:4234040317626": 339,
+      "gas:candidate-vibid:4234040317828": 14,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 15,
+      "gas:candidate-vibid:4234040317197": 37,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 87,
-      "Демченко Иван Иванович": 419,
-      "Егоров Алексей Анатольевич": 13,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 9,
-      "Кетов Сергей Геннадьевич": 32,
-      "Коломиец Дмитрий Викторович": 48,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 3,
-      "Прытков Виталий Владимирович": 36
+      "gas:candidate-vibid:4234040307462": 87,
+      "gas:candidate-vibid:4234040317626": 419,
+      "gas:candidate-vibid:4234040317828": 13,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 9,
+      "gas:candidate-vibid:4234040317306": 32,
+      "gas:candidate-vibid:4234040317197": 48,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 3,
+      "gas:candidate-vibid:4234040317217": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 55,
-      "Демченко Иван Иванович": 229,
-      "Егоров Алексей Анатольевич": 8,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 23,
-      "Коломиец Дмитрий Викторович": 28,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 33
+      "gas:candidate-vibid:4234040307462": 55,
+      "gas:candidate-vibid:4234040317626": 229,
+      "gas:candidate-vibid:4234040317828": 8,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 23,
+      "gas:candidate-vibid:4234040317197": 28,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 86,
-      "Демченко Иван Иванович": 423,
-      "Егоров Алексей Анатольевич": 21,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 8,
-      "Кетов Сергей Геннадьевич": 24,
-      "Коломиец Дмитрий Викторович": 70,
-      "Лугин Олег Федорович": 11,
-      "Маняк Николай Иванович": 8,
-      "Прытков Виталий Владимирович": 81
+      "gas:candidate-vibid:4234040307462": 86,
+      "gas:candidate-vibid:4234040317626": 423,
+      "gas:candidate-vibid:4234040317828": 21,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 8,
+      "gas:candidate-vibid:4234040317306": 24,
+      "gas:candidate-vibid:4234040317197": 70,
+      "gas:candidate-vibid:4234040317457": 11,
+      "gas:candidate-vibid:4234040317563": 8,
+      "gas:candidate-vibid:4234040317217": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 50,
-      "Демченко Иван Иванович": 321,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 12,
-      "Коломиец Дмитрий Викторович": 44,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 3,
-      "Прытков Виталий Владимирович": 32
+      "gas:candidate-vibid:4234040307462": 50,
+      "gas:candidate-vibid:4234040317626": 321,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 12,
+      "gas:candidate-vibid:4234040317197": 44,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 3,
+      "gas:candidate-vibid:4234040317217": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 75,
-      "Демченко Иван Иванович": 405,
-      "Егоров Алексей Анатольевич": 20,
-      "Измайлов Юрий Александрович": 13,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 24,
-      "Коломиец Дмитрий Викторович": 50,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 174
+      "gas:candidate-vibid:4234040307462": 75,
+      "gas:candidate-vibid:4234040317626": 405,
+      "gas:candidate-vibid:4234040317828": 20,
+      "gas:candidate-vibid:4234040317359": 13,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 24,
+      "gas:candidate-vibid:4234040317197": 50,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 66,
-      "Демченко Иван Иванович": 643,
-      "Егоров Алексей Анатольевич": 24,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 20,
-      "Коломиец Дмитрий Викторович": 32,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 129
+      "gas:candidate-vibid:4234040307462": 66,
+      "gas:candidate-vibid:4234040317626": 643,
+      "gas:candidate-vibid:4234040317828": 24,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 20,
+      "gas:candidate-vibid:4234040317197": 32,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 70,
-      "Демченко Иван Иванович": 317,
-      "Егоров Алексей Анатольевич": 11,
-      "Измайлов Юрий Александрович": 14,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 23,
-      "Коломиец Дмитрий Викторович": 57,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 7,
-      "Прытков Виталий Владимирович": 92
+      "gas:candidate-vibid:4234040307462": 70,
+      "gas:candidate-vibid:4234040317626": 317,
+      "gas:candidate-vibid:4234040317828": 11,
+      "gas:candidate-vibid:4234040317359": 14,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 23,
+      "gas:candidate-vibid:4234040317197": 57,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 7,
+      "gas:candidate-vibid:4234040317217": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 52,
-      "Демченко Иван Иванович": 491,
-      "Егоров Алексей Анатольевич": 19,
-      "Измайлов Юрий Александрович": 6,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 11,
-      "Коломиец Дмитрий Викторович": 31,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 98
+      "gas:candidate-vibid:4234040307462": 52,
+      "gas:candidate-vibid:4234040317626": 491,
+      "gas:candidate-vibid:4234040317828": 19,
+      "gas:candidate-vibid:4234040317359": 6,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 11,
+      "gas:candidate-vibid:4234040317197": 31,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 25,
-      "Демченко Иван Иванович": 545,
-      "Егоров Алексей Анатольевич": 5,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 16,
-      "Коломиец Дмитрий Викторович": 28,
-      "Лугин Олег Федорович": 3,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 33
+      "gas:candidate-vibid:4234040307462": 25,
+      "gas:candidate-vibid:4234040317626": 545,
+      "gas:candidate-vibid:4234040317828": 5,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 16,
+      "gas:candidate-vibid:4234040317197": 28,
+      "gas:candidate-vibid:4234040317457": 3,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 95,
-      "Демченко Иван Иванович": 917,
-      "Егоров Алексей Анатольевич": 22,
-      "Измайлов Юрий Александрович": 20,
-      "Качула Михаил Витальевич": 6,
-      "Кетов Сергей Геннадьевич": 33,
-      "Коломиец Дмитрий Викторович": 69,
-      "Лугин Олег Федорович": 12,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 55
+      "gas:candidate-vibid:4234040307462": 95,
+      "gas:candidate-vibid:4234040317626": 917,
+      "gas:candidate-vibid:4234040317828": 22,
+      "gas:candidate-vibid:4234040317359": 20,
+      "gas:candidate-vibid:4234040317551": 6,
+      "gas:candidate-vibid:4234040317306": 33,
+      "gas:candidate-vibid:4234040317197": 69,
+      "gas:candidate-vibid:4234040317457": 12,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 34,
-      "Демченко Иван Иванович": 487,
-      "Егоров Алексей Анатольевич": 9,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 16,
-      "Коломиец Дмитрий Викторович": 22,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 12
+      "gas:candidate-vibid:4234040307462": 34,
+      "gas:candidate-vibid:4234040317626": 487,
+      "gas:candidate-vibid:4234040317828": 9,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 16,
+      "gas:candidate-vibid:4234040317197": 22,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 112,
-      "Демченко Иван Иванович": 326,
-      "Егоров Алексей Анатольевич": 24,
-      "Измайлов Юрий Александрович": 11,
-      "Качула Михаил Витальевич": 11,
-      "Кетов Сергей Геннадьевич": 23,
-      "Коломиец Дмитрий Викторович": 35,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 10,
-      "Прытков Виталий Владимирович": 35
+      "gas:candidate-vibid:4234040307462": 112,
+      "gas:candidate-vibid:4234040317626": 326,
+      "gas:candidate-vibid:4234040317828": 24,
+      "gas:candidate-vibid:4234040317359": 11,
+      "gas:candidate-vibid:4234040317551": 11,
+      "gas:candidate-vibid:4234040317306": 23,
+      "gas:candidate-vibid:4234040317197": 35,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 10,
+      "gas:candidate-vibid:4234040317217": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 121,
-      "Демченко Иван Иванович": 404,
-      "Егоров Алексей Анатольевич": 27,
-      "Измайлов Юрий Александрович": 13,
-      "Качула Михаил Витальевич": 4,
-      "Кетов Сергей Геннадьевич": 27,
-      "Коломиец Дмитрий Викторович": 69,
-      "Лугин Олег Федорович": 10,
-      "Маняк Николай Иванович": 18,
-      "Прытков Виталий Владимирович": 49
+      "gas:candidate-vibid:4234040307462": 121,
+      "gas:candidate-vibid:4234040317626": 404,
+      "gas:candidate-vibid:4234040317828": 27,
+      "gas:candidate-vibid:4234040317359": 13,
+      "gas:candidate-vibid:4234040317551": 4,
+      "gas:candidate-vibid:4234040317306": 27,
+      "gas:candidate-vibid:4234040317197": 69,
+      "gas:candidate-vibid:4234040317457": 10,
+      "gas:candidate-vibid:4234040317563": 18,
+      "gas:candidate-vibid:4234040317217": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 47,
-      "Демченко Иван Иванович": 228,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 4,
-      "Качула Михаил Витальевич": 3,
-      "Кетов Сергей Геннадьевич": 11,
-      "Коломиец Дмитрий Викторович": 22,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 0,
-      "Прытков Виталий Владимирович": 25
+      "gas:candidate-vibid:4234040307462": 47,
+      "gas:candidate-vibid:4234040317626": 228,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 4,
+      "gas:candidate-vibid:4234040317551": 3,
+      "gas:candidate-vibid:4234040317306": 11,
+      "gas:candidate-vibid:4234040317197": 22,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 0,
+      "gas:candidate-vibid:4234040317217": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 68,
-      "Демченко Иван Иванович": 471,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 9,
-      "Кетов Сергей Геннадьевич": 21,
-      "Коломиец Дмитрий Викторович": 50,
-      "Лугин Олег Федорович": 8,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 37
+      "gas:candidate-vibid:4234040307462": 68,
+      "gas:candidate-vibid:4234040317626": 471,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 9,
+      "gas:candidate-vibid:4234040317306": 21,
+      "gas:candidate-vibid:4234040317197": 50,
+      "gas:candidate-vibid:4234040317457": 8,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 62,
-      "Демченко Иван Иванович": 304,
-      "Егоров Алексей Анатольевич": 11,
-      "Измайлов Юрий Александрович": 5,
-      "Качула Михаил Витальевич": 1,
-      "Кетов Сергей Геннадьевич": 28,
-      "Коломиец Дмитрий Викторович": 74,
-      "Лугин Олег Федорович": 10,
-      "Маняк Николай Иванович": 19,
-      "Прытков Виталий Владимирович": 34
+      "gas:candidate-vibid:4234040307462": 62,
+      "gas:candidate-vibid:4234040317626": 304,
+      "gas:candidate-vibid:4234040317828": 11,
+      "gas:candidate-vibid:4234040317359": 5,
+      "gas:candidate-vibid:4234040317551": 1,
+      "gas:candidate-vibid:4234040317306": 28,
+      "gas:candidate-vibid:4234040317197": 74,
+      "gas:candidate-vibid:4234040317457": 10,
+      "gas:candidate-vibid:4234040317563": 19,
+      "gas:candidate-vibid:4234040317217": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 43,
-      "Демченко Иван Иванович": 316,
-      "Егоров Алексей Анатольевич": 9,
-      "Измайлов Юрий Александрович": 3,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 7,
-      "Коломиец Дмитрий Викторович": 47,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 28
+      "gas:candidate-vibid:4234040307462": 43,
+      "gas:candidate-vibid:4234040317626": 316,
+      "gas:candidate-vibid:4234040317828": 9,
+      "gas:candidate-vibid:4234040317359": 3,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 7,
+      "gas:candidate-vibid:4234040317197": 47,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 34,
-      "Демченко Иван Иванович": 482,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 7,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 21,
-      "Коломиец Дмитрий Викторович": 30,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 6,
-      "Прытков Виталий Владимирович": 9
+      "gas:candidate-vibid:4234040307462": 34,
+      "gas:candidate-vibid:4234040317626": 482,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 7,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 21,
+      "gas:candidate-vibid:4234040317197": 30,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 6,
+      "gas:candidate-vibid:4234040317217": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 31,
-      "Демченко Иван Иванович": 112,
-      "Егоров Алексей Анатольевич": 7,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 9,
-      "Коломиец Дмитрий Викторович": 11,
-      "Лугин Олег Федорович": 1,
-      "Маняк Николай Иванович": 5,
-      "Прытков Виталий Владимирович": 13
+      "gas:candidate-vibid:4234040307462": 31,
+      "gas:candidate-vibid:4234040317626": 112,
+      "gas:candidate-vibid:4234040317828": 7,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 9,
+      "gas:candidate-vibid:4234040317197": 11,
+      "gas:candidate-vibid:4234040317457": 1,
+      "gas:candidate-vibid:4234040317563": 5,
+      "gas:candidate-vibid:4234040317217": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 143,
-      "Демченко Иван Иванович": 387,
-      "Егоров Алексей Анатольевич": 26,
-      "Измайлов Юрий Александрович": 21,
-      "Качула Михаил Витальевич": 20,
-      "Кетов Сергей Геннадьевич": 27,
-      "Коломиец Дмитрий Викторович": 85,
-      "Лугин Олег Федорович": 20,
-      "Маняк Николай Иванович": 11,
-      "Прытков Виталий Владимирович": 97
+      "gas:candidate-vibid:4234040307462": 143,
+      "gas:candidate-vibid:4234040317626": 387,
+      "gas:candidate-vibid:4234040317828": 26,
+      "gas:candidate-vibid:4234040317359": 21,
+      "gas:candidate-vibid:4234040317551": 20,
+      "gas:candidate-vibid:4234040317306": 27,
+      "gas:candidate-vibid:4234040317197": 85,
+      "gas:candidate-vibid:4234040317457": 20,
+      "gas:candidate-vibid:4234040317563": 11,
+      "gas:candidate-vibid:4234040317217": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 84,
-      "Демченко Иван Иванович": 374,
-      "Егоров Алексей Анатольевич": 28,
-      "Измайлов Юрий Александрович": 15,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 30,
-      "Коломиец Дмитрий Викторович": 60,
-      "Лугин Олег Федорович": 13,
-      "Маняк Николай Иванович": 12,
-      "Прытков Виталий Владимирович": 73
+      "gas:candidate-vibid:4234040307462": 84,
+      "gas:candidate-vibid:4234040317626": 374,
+      "gas:candidate-vibid:4234040317828": 28,
+      "gas:candidate-vibid:4234040317359": 15,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 30,
+      "gas:candidate-vibid:4234040317197": 60,
+      "gas:candidate-vibid:4234040317457": 13,
+      "gas:candidate-vibid:4234040317563": 12,
+      "gas:candidate-vibid:4234040317217": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 93,
-      "Демченко Иван Иванович": 335,
-      "Егоров Алексей Анатольевич": 18,
-      "Измайлов Юрий Александрович": 12,
-      "Качула Михаил Витальевич": 10,
-      "Кетов Сергей Геннадьевич": 32,
-      "Коломиец Дмитрий Викторович": 55,
-      "Лугин Олег Федорович": 15,
-      "Маняк Николай Иванович": 17,
-      "Прытков Виталий Владимирович": 90
+      "gas:candidate-vibid:4234040307462": 93,
+      "gas:candidate-vibid:4234040317626": 335,
+      "gas:candidate-vibid:4234040317828": 18,
+      "gas:candidate-vibid:4234040317359": 12,
+      "gas:candidate-vibid:4234040317551": 10,
+      "gas:candidate-vibid:4234040317306": 32,
+      "gas:candidate-vibid:4234040317197": 55,
+      "gas:candidate-vibid:4234040317457": 15,
+      "gas:candidate-vibid:4234040317563": 17,
+      "gas:candidate-vibid:4234040317217": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 35,
-      "Демченко Иван Иванович": 281,
-      "Егоров Алексей Анатольевич": 6,
-      "Измайлов Юрий Александрович": 8,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 6,
-      "Коломиец Дмитрий Викторович": 23,
-      "Лугин Олег Федорович": 4,
-      "Маняк Николай Иванович": 4,
-      "Прытков Виталий Владимирович": 17
+      "gas:candidate-vibid:4234040307462": 35,
+      "gas:candidate-vibid:4234040317626": 281,
+      "gas:candidate-vibid:4234040317828": 6,
+      "gas:candidate-vibid:4234040317359": 8,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 6,
+      "gas:candidate-vibid:4234040317197": 23,
+      "gas:candidate-vibid:4234040317457": 4,
+      "gas:candidate-vibid:4234040317563": 4,
+      "gas:candidate-vibid:4234040317217": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 84,
-      "Демченко Иван Иванович": 315,
-      "Егоров Алексей Анатольевич": 12,
-      "Измайлов Юрий Александрович": 15,
-      "Качула Михаил Витальевич": 2,
-      "Кетов Сергей Геннадьевич": 33,
-      "Коломиец Дмитрий Викторович": 47,
-      "Лугин Олег Федорович": 5,
-      "Маняк Николай Иванович": 17,
-      "Прытков Виталий Владимирович": 69
+      "gas:candidate-vibid:4234040307462": 84,
+      "gas:candidate-vibid:4234040317626": 315,
+      "gas:candidate-vibid:4234040317828": 12,
+      "gas:candidate-vibid:4234040317359": 15,
+      "gas:candidate-vibid:4234040317551": 2,
+      "gas:candidate-vibid:4234040317306": 33,
+      "gas:candidate-vibid:4234040317197": 47,
+      "gas:candidate-vibid:4234040317457": 5,
+      "gas:candidate-vibid:4234040317563": 17,
+      "gas:candidate-vibid:4234040317217": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 48,
-      "Демченко Иван Иванович": 179,
-      "Егоров Алексей Анатольевич": 13,
-      "Измайлов Юрий Александрович": 13,
-      "Качула Михаил Витальевич": 7,
-      "Кетов Сергей Геннадьевич": 14,
-      "Коломиец Дмитрий Викторович": 48,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 9,
-      "Прытков Виталий Владимирович": 76
+      "gas:candidate-vibid:4234040307462": 48,
+      "gas:candidate-vibid:4234040317626": 179,
+      "gas:candidate-vibid:4234040317828": 13,
+      "gas:candidate-vibid:4234040317359": 13,
+      "gas:candidate-vibid:4234040317551": 7,
+      "gas:candidate-vibid:4234040317306": 14,
+      "gas:candidate-vibid:4234040317197": 48,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 9,
+      "gas:candidate-vibid:4234040317217": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 53,
-      "Демченко Иван Иванович": 409,
-      "Егоров Алексей Анатольевич": 15,
-      "Измайлов Юрий Александрович": 9,
-      "Качула Михаил Витальевич": 5,
-      "Кетов Сергей Геннадьевич": 25,
-      "Коломиец Дмитрий Викторович": 37,
-      "Лугин Олег Федорович": 7,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 134
+      "gas:candidate-vibid:4234040307462": 53,
+      "gas:candidate-vibid:4234040317626": 409,
+      "gas:candidate-vibid:4234040317828": 15,
+      "gas:candidate-vibid:4234040317359": 9,
+      "gas:candidate-vibid:4234040317551": 5,
+      "gas:candidate-vibid:4234040317306": 25,
+      "gas:candidate-vibid:4234040317197": 37,
+      "gas:candidate-vibid:4234040317457": 7,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобрешова Анна Михайловна": 12,
-      "Демченко Иван Иванович": 17,
-      "Егоров Алексей Анатольевич": 2,
-      "Измайлов Юрий Александрович": 1,
-      "Качула Михаил Витальевич": 0,
-      "Кетов Сергей Геннадьевич": 3,
-      "Коломиец Дмитрий Викторович": 3,
-      "Лугин Олег Федорович": 0,
-      "Маняк Николай Иванович": 2,
-      "Прытков Виталий Владимирович": 6
+      "gas:candidate-vibid:4234040307462": 12,
+      "gas:candidate-vibid:4234040317626": 17,
+      "gas:candidate-vibid:4234040317828": 2,
+      "gas:candidate-vibid:4234040317359": 1,
+      "gas:candidate-vibid:4234040317551": 0,
+      "gas:candidate-vibid:4234040317306": 3,
+      "gas:candidate-vibid:4234040317197": 3,
+      "gas:candidate-vibid:4234040317457": 0,
+      "gas:candidate-vibid:4234040317563": 2,
+      "gas:candidate-vibid:4234040317217": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000065&tvd=4234040306539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234040306539&type=464",
@@ -9103,15 +9103,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 46,
-      "Васильев Игорь Васильевич": 145,
-      "Затулин Константин Федорович": 409,
-      "Нежельская Светлана Валентиновна": 16,
-      "Новиков Дмитрий Владимирович": 10,
-      "Середенко Татьяна Андреевна": 69,
-      "Торосян Игорь Георгиевич": 12,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 5
+      "gas:candidate-vibid:4234044261120": 46,
+      "gas:candidate-vibid:4234044260601": 145,
+      "gas:candidate-vibid:4234044260676": 409,
+      "gas:candidate-vibid:4234044260376": 16,
+      "gas:candidate-vibid:4234044261311": 10,
+      "gas:candidate-vibid:4234044245210": 69,
+      "gas:candidate-vibid:4234044260529": 12,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9162,15 +9162,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 34,
-      "Васильев Игорь Васильевич": 125,
-      "Затулин Константин Федорович": 489,
-      "Нежельская Светлана Валентиновна": 11,
-      "Новиков Дмитрий Владимирович": 14,
-      "Середенко Татьяна Андреевна": 46,
-      "Торосян Игорь Георгиевич": 18,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 10
+      "gas:candidate-vibid:4234044261120": 34,
+      "gas:candidate-vibid:4234044260601": 125,
+      "gas:candidate-vibid:4234044260676": 489,
+      "gas:candidate-vibid:4234044260376": 11,
+      "gas:candidate-vibid:4234044261311": 14,
+      "gas:candidate-vibid:4234044245210": 46,
+      "gas:candidate-vibid:4234044260529": 18,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9221,15 +9221,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 6,
-      "Васильев Игорь Васильевич": 14,
-      "Затулин Константин Федорович": 138,
-      "Нежельская Светлана Валентиновна": 1,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 16,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 6,
+      "gas:candidate-vibid:4234044260601": 14,
+      "gas:candidate-vibid:4234044260676": 138,
+      "gas:candidate-vibid:4234044260376": 1,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 16,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9280,15 +9280,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 81,
-      "Васильев Игорь Васильевич": 117,
-      "Затулин Константин Федорович": 689,
-      "Нежельская Светлана Валентиновна": 32,
-      "Новиков Дмитрий Владимирович": 22,
-      "Середенко Татьяна Андреевна": 78,
-      "Торосян Игорь Георгиевич": 37,
-      "Хасанов Антон Рафаилович": 24,
-      "Ярош Тарас Викторович": 13
+      "gas:candidate-vibid:4234044261120": 81,
+      "gas:candidate-vibid:4234044260601": 117,
+      "gas:candidate-vibid:4234044260676": 689,
+      "gas:candidate-vibid:4234044260376": 32,
+      "gas:candidate-vibid:4234044261311": 22,
+      "gas:candidate-vibid:4234044245210": 78,
+      "gas:candidate-vibid:4234044260529": 37,
+      "gas:candidate-vibid:4234044260426": 24,
+      "gas:candidate-vibid:4234044261214": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9339,15 +9339,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 15,
-      "Васильев Игорь Васильевич": 47,
-      "Затулин Константин Федорович": 525,
-      "Нежельская Светлана Валентиновна": 8,
-      "Новиков Дмитрий Владимирович": 5,
-      "Середенко Татьяна Андреевна": 43,
-      "Торосян Игорь Георгиевич": 8,
-      "Хасанов Антон Рафаилович": 17,
-      "Ярош Тарас Викторович": 6
+      "gas:candidate-vibid:4234044261120": 15,
+      "gas:candidate-vibid:4234044260601": 47,
+      "gas:candidate-vibid:4234044260676": 525,
+      "gas:candidate-vibid:4234044260376": 8,
+      "gas:candidate-vibid:4234044261311": 5,
+      "gas:candidate-vibid:4234044245210": 43,
+      "gas:candidate-vibid:4234044260529": 8,
+      "gas:candidate-vibid:4234044260426": 17,
+      "gas:candidate-vibid:4234044261214": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9398,15 +9398,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 43,
-      "Васильев Игорь Васильевич": 162,
-      "Затулин Константин Федорович": 418,
-      "Нежельская Светлана Валентиновна": 31,
-      "Новиков Дмитрий Владимирович": 20,
-      "Середенко Татьяна Андреевна": 78,
-      "Торосян Игорь Георгиевич": 25,
-      "Хасанов Антон Рафаилович": 21,
-      "Ярош Тарас Викторович": 13
+      "gas:candidate-vibid:4234044261120": 43,
+      "gas:candidate-vibid:4234044260601": 162,
+      "gas:candidate-vibid:4234044260676": 418,
+      "gas:candidate-vibid:4234044260376": 31,
+      "gas:candidate-vibid:4234044261311": 20,
+      "gas:candidate-vibid:4234044245210": 78,
+      "gas:candidate-vibid:4234044260529": 25,
+      "gas:candidate-vibid:4234044260426": 21,
+      "gas:candidate-vibid:4234044261214": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9457,15 +9457,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 44,
-      "Васильев Игорь Васильевич": 89,
-      "Затулин Константин Федорович": 585,
-      "Нежельская Светлана Валентиновна": 23,
-      "Новиков Дмитрий Владимирович": 8,
-      "Середенко Татьяна Андреевна": 45,
-      "Торосян Игорь Георгиевич": 28,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 44,
+      "gas:candidate-vibid:4234044260601": 89,
+      "gas:candidate-vibid:4234044260676": 585,
+      "gas:candidate-vibid:4234044260376": 23,
+      "gas:candidate-vibid:4234044261311": 8,
+      "gas:candidate-vibid:4234044245210": 45,
+      "gas:candidate-vibid:4234044260529": 28,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9516,15 +9516,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 32,
-      "Васильев Игорь Васильевич": 404,
-      "Затулин Константин Федорович": 585,
-      "Нежельская Светлана Валентиновна": 12,
-      "Новиков Дмитрий Владимирович": 16,
-      "Середенко Татьяна Андреевна": 44,
-      "Торосян Игорь Георгиевич": 27,
-      "Хасанов Антон Рафаилович": 15,
-      "Ярош Тарас Викторович": 12
+      "gas:candidate-vibid:4234044261120": 32,
+      "gas:candidate-vibid:4234044260601": 404,
+      "gas:candidate-vibid:4234044260676": 585,
+      "gas:candidate-vibid:4234044260376": 12,
+      "gas:candidate-vibid:4234044261311": 16,
+      "gas:candidate-vibid:4234044245210": 44,
+      "gas:candidate-vibid:4234044260529": 27,
+      "gas:candidate-vibid:4234044260426": 15,
+      "gas:candidate-vibid:4234044261214": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9575,15 +9575,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 26,
-      "Васильев Игорь Васильевич": 103,
-      "Затулин Константин Федорович": 576,
-      "Нежельская Светлана Валентиновна": 8,
-      "Новиков Дмитрий Владимирович": 12,
-      "Середенко Татьяна Андреевна": 34,
-      "Торосян Игорь Георгиевич": 16,
-      "Хасанов Антон Рафаилович": 14,
-      "Ярош Тарас Викторович": 12
+      "gas:candidate-vibid:4234044261120": 26,
+      "gas:candidate-vibid:4234044260601": 103,
+      "gas:candidate-vibid:4234044260676": 576,
+      "gas:candidate-vibid:4234044260376": 8,
+      "gas:candidate-vibid:4234044261311": 12,
+      "gas:candidate-vibid:4234044245210": 34,
+      "gas:candidate-vibid:4234044260529": 16,
+      "gas:candidate-vibid:4234044260426": 14,
+      "gas:candidate-vibid:4234044261214": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9634,15 +9634,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 33,
-      "Васильев Игорь Васильевич": 108,
-      "Затулин Константин Федорович": 506,
-      "Нежельская Светлана Валентиновна": 14,
-      "Новиков Дмитрий Владимирович": 8,
-      "Середенко Татьяна Андреевна": 53,
-      "Торосян Игорь Георгиевич": 28,
-      "Хасанов Антон Рафаилович": 15,
-      "Ярош Тарас Викторович": 9
+      "gas:candidate-vibid:4234044261120": 33,
+      "gas:candidate-vibid:4234044260601": 108,
+      "gas:candidate-vibid:4234044260676": 506,
+      "gas:candidate-vibid:4234044260376": 14,
+      "gas:candidate-vibid:4234044261311": 8,
+      "gas:candidate-vibid:4234044245210": 53,
+      "gas:candidate-vibid:4234044260529": 28,
+      "gas:candidate-vibid:4234044260426": 15,
+      "gas:candidate-vibid:4234044261214": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9693,15 +9693,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 67,
-      "Васильев Игорь Васильевич": 175,
-      "Затулин Константин Федорович": 478,
-      "Нежельская Светлана Валентиновна": 16,
-      "Новиков Дмитрий Владимирович": 17,
-      "Середенко Татьяна Андреевна": 51,
-      "Торосян Игорь Георгиевич": 30,
-      "Хасанов Антон Рафаилович": 24,
-      "Ярош Тарас Викторович": 33
+      "gas:candidate-vibid:4234044261120": 67,
+      "gas:candidate-vibid:4234044260601": 175,
+      "gas:candidate-vibid:4234044260676": 478,
+      "gas:candidate-vibid:4234044260376": 16,
+      "gas:candidate-vibid:4234044261311": 17,
+      "gas:candidate-vibid:4234044245210": 51,
+      "gas:candidate-vibid:4234044260529": 30,
+      "gas:candidate-vibid:4234044260426": 24,
+      "gas:candidate-vibid:4234044261214": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9752,15 +9752,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 86,
-      "Васильев Игорь Васильевич": 194,
-      "Затулин Константин Федорович": 718,
-      "Нежельская Светлана Валентиновна": 32,
-      "Новиков Дмитрий Владимирович": 22,
-      "Середенко Татьяна Андреевна": 80,
-      "Торосян Игорь Георгиевич": 47,
-      "Хасанов Антон Рафаилович": 27,
-      "Ярош Тарас Викторович": 10
+      "gas:candidate-vibid:4234044261120": 86,
+      "gas:candidate-vibid:4234044260601": 194,
+      "gas:candidate-vibid:4234044260676": 718,
+      "gas:candidate-vibid:4234044260376": 32,
+      "gas:candidate-vibid:4234044261311": 22,
+      "gas:candidate-vibid:4234044245210": 80,
+      "gas:candidate-vibid:4234044260529": 47,
+      "gas:candidate-vibid:4234044260426": 27,
+      "gas:candidate-vibid:4234044261214": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9811,15 +9811,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 7,
-      "Васильев Игорь Васильевич": 72,
-      "Затулин Константин Федорович": 881,
-      "Нежельская Светлана Валентиновна": 5,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 15,
-      "Торосян Игорь Георгиевич": 20,
-      "Хасанов Антон Рафаилович": 4,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 7,
+      "gas:candidate-vibid:4234044260601": 72,
+      "gas:candidate-vibid:4234044260676": 881,
+      "gas:candidate-vibid:4234044260376": 5,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 15,
+      "gas:candidate-vibid:4234044260529": 20,
+      "gas:candidate-vibid:4234044260426": 4,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9870,15 +9870,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 92,
-      "Васильев Игорь Васильевич": 150,
-      "Затулин Константин Федорович": 701,
-      "Нежельская Светлана Валентиновна": 39,
-      "Новиков Дмитрий Владимирович": 19,
-      "Середенко Татьяна Андреевна": 79,
-      "Торосян Игорь Георгиевич": 46,
-      "Хасанов Антон Рафаилович": 54,
-      "Ярош Тарас Викторович": 11
+      "gas:candidate-vibid:4234044261120": 92,
+      "gas:candidate-vibid:4234044260601": 150,
+      "gas:candidate-vibid:4234044260676": 701,
+      "gas:candidate-vibid:4234044260376": 39,
+      "gas:candidate-vibid:4234044261311": 19,
+      "gas:candidate-vibid:4234044245210": 79,
+      "gas:candidate-vibid:4234044260529": 46,
+      "gas:candidate-vibid:4234044260426": 54,
+      "gas:candidate-vibid:4234044261214": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9929,15 +9929,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 53,
-      "Васильев Игорь Васильевич": 136,
-      "Затулин Константин Федорович": 936,
-      "Нежельская Светлана Валентиновна": 33,
-      "Новиков Дмитрий Владимирович": 14,
-      "Середенко Татьяна Андреевна": 85,
-      "Торосян Игорь Георгиевич": 25,
-      "Хасанов Антон Рафаилович": 23,
-      "Ярош Тарас Викторович": 15
+      "gas:candidate-vibid:4234044261120": 53,
+      "gas:candidate-vibid:4234044260601": 136,
+      "gas:candidate-vibid:4234044260676": 936,
+      "gas:candidate-vibid:4234044260376": 33,
+      "gas:candidate-vibid:4234044261311": 14,
+      "gas:candidate-vibid:4234044245210": 85,
+      "gas:candidate-vibid:4234044260529": 25,
+      "gas:candidate-vibid:4234044260426": 23,
+      "gas:candidate-vibid:4234044261214": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -9988,15 +9988,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 4,
-      "Васильев Игорь Васильевич": 15,
-      "Затулин Константин Федорович": 184,
-      "Нежельская Светлана Валентиновна": 4,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 8,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 4,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 4,
+      "gas:candidate-vibid:4234044260601": 15,
+      "gas:candidate-vibid:4234044260676": 184,
+      "gas:candidate-vibid:4234044260376": 4,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 8,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 4,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10047,15 +10047,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 7,
-      "Васильев Игорь Васильевич": 18,
-      "Затулин Константин Федорович": 85,
-      "Нежельская Светлана Валентиновна": 5,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 20,
-      "Торосян Игорь Георгиевич": 3,
-      "Хасанов Антон Рафаилович": 4,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 7,
+      "gas:candidate-vibid:4234044260601": 18,
+      "gas:candidate-vibid:4234044260676": 85,
+      "gas:candidate-vibid:4234044260376": 5,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 20,
+      "gas:candidate-vibid:4234044260529": 3,
+      "gas:candidate-vibid:4234044260426": 4,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10106,15 +10106,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 20,
-      "Васильев Игорь Васильевич": 109,
-      "Затулин Константин Федорович": 707,
-      "Нежельская Светлана Валентиновна": 20,
-      "Новиков Дмитрий Владимирович": 16,
-      "Середенко Татьяна Андреевна": 58,
-      "Торосян Игорь Георгиевич": 16,
-      "Хасанов Антон Рафаилович": 17,
-      "Ярош Тарас Викторович": 5
+      "gas:candidate-vibid:4234044261120": 20,
+      "gas:candidate-vibid:4234044260601": 109,
+      "gas:candidate-vibid:4234044260676": 707,
+      "gas:candidate-vibid:4234044260376": 20,
+      "gas:candidate-vibid:4234044261311": 16,
+      "gas:candidate-vibid:4234044245210": 58,
+      "gas:candidate-vibid:4234044260529": 16,
+      "gas:candidate-vibid:4234044260426": 17,
+      "gas:candidate-vibid:4234044261214": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10165,15 +10165,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 9,
-      "Васильев Игорь Васильевич": 63,
-      "Затулин Константин Федорович": 265,
-      "Нежельская Светлана Валентиновна": 13,
-      "Новиков Дмитрий Владимирович": 6,
-      "Середенко Татьяна Андреевна": 37,
-      "Торосян Игорь Георгиевич": 15,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 6
+      "gas:candidate-vibid:4234044261120": 9,
+      "gas:candidate-vibid:4234044260601": 63,
+      "gas:candidate-vibid:4234044260676": 265,
+      "gas:candidate-vibid:4234044260376": 13,
+      "gas:candidate-vibid:4234044261311": 6,
+      "gas:candidate-vibid:4234044245210": 37,
+      "gas:candidate-vibid:4234044260529": 15,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10224,15 +10224,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 17,
-      "Васильев Игорь Васильевич": 117,
-      "Затулин Константин Федорович": 555,
-      "Нежельская Светлана Валентиновна": 30,
-      "Новиков Дмитрий Владимирович": 14,
-      "Середенко Татьяна Андреевна": 67,
-      "Торосян Игорь Георгиевич": 34,
-      "Хасанов Антон Рафаилович": 19,
-      "Ярош Тарас Викторович": 16
+      "gas:candidate-vibid:4234044261120": 17,
+      "gas:candidate-vibid:4234044260601": 117,
+      "gas:candidate-vibid:4234044260676": 555,
+      "gas:candidate-vibid:4234044260376": 30,
+      "gas:candidate-vibid:4234044261311": 14,
+      "gas:candidate-vibid:4234044245210": 67,
+      "gas:candidate-vibid:4234044260529": 34,
+      "gas:candidate-vibid:4234044260426": 19,
+      "gas:candidate-vibid:4234044261214": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10283,15 +10283,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 21,
-      "Васильев Игорь Васильевич": 145,
-      "Затулин Константин Федорович": 791,
-      "Нежельская Светлана Валентиновна": 25,
-      "Новиков Дмитрий Владимирович": 16,
-      "Середенко Татьяна Андреевна": 92,
-      "Торосян Игорь Георгиевич": 23,
-      "Хасанов Антон Рафаилович": 21,
-      "Ярош Тарас Викторович": 12
+      "gas:candidate-vibid:4234044261120": 21,
+      "gas:candidate-vibid:4234044260601": 145,
+      "gas:candidate-vibid:4234044260676": 791,
+      "gas:candidate-vibid:4234044260376": 25,
+      "gas:candidate-vibid:4234044261311": 16,
+      "gas:candidate-vibid:4234044245210": 92,
+      "gas:candidate-vibid:4234044260529": 23,
+      "gas:candidate-vibid:4234044260426": 21,
+      "gas:candidate-vibid:4234044261214": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10342,15 +10342,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 9,
-      "Васильев Игорь Васильевич": 170,
-      "Затулин Константин Федорович": 656,
-      "Нежельская Светлана Валентиновна": 28,
-      "Новиков Дмитрий Владимирович": 18,
-      "Середенко Татьяна Андреевна": 72,
-      "Торосян Игорь Георгиевич": 35,
-      "Хасанов Антон Рафаилович": 21,
-      "Ярош Тарас Викторович": 19
+      "gas:candidate-vibid:4234044261120": 9,
+      "gas:candidate-vibid:4234044260601": 170,
+      "gas:candidate-vibid:4234044260676": 656,
+      "gas:candidate-vibid:4234044260376": 28,
+      "gas:candidate-vibid:4234044261311": 18,
+      "gas:candidate-vibid:4234044245210": 72,
+      "gas:candidate-vibid:4234044260529": 35,
+      "gas:candidate-vibid:4234044260426": 21,
+      "gas:candidate-vibid:4234044261214": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10401,15 +10401,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 28,
-      "Васильев Игорь Васильевич": 180,
-      "Затулин Константин Федорович": 673,
-      "Нежельская Светлана Валентиновна": 25,
-      "Новиков Дмитрий Владимирович": 15,
-      "Середенко Татьяна Андреевна": 73,
-      "Торосян Игорь Георгиевич": 26,
-      "Хасанов Антон Рафаилович": 16,
-      "Ярош Тарас Викторович": 12
+      "gas:candidate-vibid:4234044261120": 28,
+      "gas:candidate-vibid:4234044260601": 180,
+      "gas:candidate-vibid:4234044260676": 673,
+      "gas:candidate-vibid:4234044260376": 25,
+      "gas:candidate-vibid:4234044261311": 15,
+      "gas:candidate-vibid:4234044245210": 73,
+      "gas:candidate-vibid:4234044260529": 26,
+      "gas:candidate-vibid:4234044260426": 16,
+      "gas:candidate-vibid:4234044261214": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10460,15 +10460,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 6,
-      "Васильев Игорь Васильевич": 8,
-      "Затулин Константин Федорович": 56,
-      "Нежельская Светлана Валентиновна": 1,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 14,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 1,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 6,
+      "gas:candidate-vibid:4234044260601": 8,
+      "gas:candidate-vibid:4234044260676": 56,
+      "gas:candidate-vibid:4234044260376": 1,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 14,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 1,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10519,15 +10519,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 6,
-      "Васильев Игорь Васильевич": 33,
-      "Затулин Константин Федорович": 169,
-      "Нежельская Светлана Валентиновна": 3,
-      "Новиков Дмитрий Владимирович": 0,
-      "Середенко Татьяна Андреевна": 10,
-      "Торосян Игорь Георгиевич": 9,
-      "Хасанов Антон Рафаилович": 1,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 6,
+      "gas:candidate-vibid:4234044260601": 33,
+      "gas:candidate-vibid:4234044260676": 169,
+      "gas:candidate-vibid:4234044260376": 3,
+      "gas:candidate-vibid:4234044261311": 0,
+      "gas:candidate-vibid:4234044245210": 10,
+      "gas:candidate-vibid:4234044260529": 9,
+      "gas:candidate-vibid:4234044260426": 1,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10578,15 +10578,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 26,
-      "Васильев Игорь Васильевич": 175,
-      "Затулин Константин Федорович": 718,
-      "Нежельская Светлана Валентиновна": 35,
-      "Новиков Дмитрий Владимирович": 21,
-      "Середенко Татьяна Андреевна": 102,
-      "Торосян Игорь Георгиевич": 24,
-      "Хасанов Антон Рафаилович": 24,
-      "Ярош Тарас Викторович": 10
+      "gas:candidate-vibid:4234044261120": 26,
+      "gas:candidate-vibid:4234044260601": 175,
+      "gas:candidate-vibid:4234044260676": 718,
+      "gas:candidate-vibid:4234044260376": 35,
+      "gas:candidate-vibid:4234044261311": 21,
+      "gas:candidate-vibid:4234044245210": 102,
+      "gas:candidate-vibid:4234044260529": 24,
+      "gas:candidate-vibid:4234044260426": 24,
+      "gas:candidate-vibid:4234044261214": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10637,15 +10637,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 8,
-      "Васильев Игорь Васильевич": 41,
-      "Затулин Константин Федорович": 465,
-      "Нежельская Светлана Валентиновна": 4,
-      "Новиков Дмитрий Владимирович": 6,
-      "Середенко Татьяна Андреевна": 22,
-      "Торосян Игорь Георгиевич": 49,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 8,
+      "gas:candidate-vibid:4234044260601": 41,
+      "gas:candidate-vibid:4234044260676": 465,
+      "gas:candidate-vibid:4234044260376": 4,
+      "gas:candidate-vibid:4234044261311": 6,
+      "gas:candidate-vibid:4234044245210": 22,
+      "gas:candidate-vibid:4234044260529": 49,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10696,15 +10696,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 11,
-      "Васильев Игорь Васильевич": 33,
-      "Затулин Константин Федорович": 397,
-      "Нежельская Светлана Валентиновна": 6,
-      "Новиков Дмитрий Владимирович": 9,
-      "Середенко Татьяна Андреевна": 17,
-      "Торосян Игорь Георгиевич": 48,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 11,
+      "gas:candidate-vibid:4234044260601": 33,
+      "gas:candidate-vibid:4234044260676": 397,
+      "gas:candidate-vibid:4234044260376": 6,
+      "gas:candidate-vibid:4234044261311": 9,
+      "gas:candidate-vibid:4234044245210": 17,
+      "gas:candidate-vibid:4234044260529": 48,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10755,15 +10755,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 14,
-      "Васильев Игорь Васильевич": 17,
-      "Затулин Константин Федорович": 247,
-      "Нежельская Светлана Валентиновна": 9,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 11,
-      "Торосян Игорь Георгиевич": 20,
-      "Хасанов Антон Рафаилович": 6,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 14,
+      "gas:candidate-vibid:4234044260601": 17,
+      "gas:candidate-vibid:4234044260676": 247,
+      "gas:candidate-vibid:4234044260376": 9,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 11,
+      "gas:candidate-vibid:4234044260529": 20,
+      "gas:candidate-vibid:4234044260426": 6,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10814,15 +10814,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 17,
-      "Васильев Игорь Васильевич": 40,
-      "Затулин Константин Федорович": 328,
-      "Нежельская Светлана Валентиновна": 13,
-      "Новиков Дмитрий Владимирович": 10,
-      "Середенко Татьяна Андреевна": 44,
-      "Торосян Игорь Георгиевич": 24,
-      "Хасанов Антон Рафаилович": 7,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 17,
+      "gas:candidate-vibid:4234044260601": 40,
+      "gas:candidate-vibid:4234044260676": 328,
+      "gas:candidate-vibid:4234044260376": 13,
+      "gas:candidate-vibid:4234044261311": 10,
+      "gas:candidate-vibid:4234044245210": 44,
+      "gas:candidate-vibid:4234044260529": 24,
+      "gas:candidate-vibid:4234044260426": 7,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10873,15 +10873,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 0,
-      "Васильев Игорь Васильевич": 147,
-      "Затулин Константин Федорович": 586,
-      "Нежельская Светлана Валентиновна": 3,
-      "Новиков Дмитрий Владимирович": 0,
-      "Середенко Татьяна Андреевна": 129,
-      "Торосян Игорь Георгиевич": 26,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 0,
+      "gas:candidate-vibid:4234044260601": 147,
+      "gas:candidate-vibid:4234044260676": 586,
+      "gas:candidate-vibid:4234044260376": 3,
+      "gas:candidate-vibid:4234044261311": 0,
+      "gas:candidate-vibid:4234044245210": 129,
+      "gas:candidate-vibid:4234044260529": 26,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10932,15 +10932,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 21,
-      "Васильев Игорь Васильевич": 47,
-      "Затулин Константин Федорович": 207,
-      "Нежельская Светлана Валентиновна": 7,
-      "Новиков Дмитрий Владимирович": 13,
-      "Середенко Татьяна Андреевна": 21,
-      "Торосян Игорь Георгиевич": 50,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 7
+      "gas:candidate-vibid:4234044261120": 21,
+      "gas:candidate-vibid:4234044260601": 47,
+      "gas:candidate-vibid:4234044260676": 207,
+      "gas:candidate-vibid:4234044260376": 7,
+      "gas:candidate-vibid:4234044261311": 13,
+      "gas:candidate-vibid:4234044245210": 21,
+      "gas:candidate-vibid:4234044260529": 50,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -10991,15 +10991,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 10,
-      "Васильев Игорь Васильевич": 46,
-      "Затулин Константин Федорович": 470,
-      "Нежельская Светлана Валентиновна": 21,
-      "Новиков Дмитрий Владимирович": 0,
-      "Середенко Татьяна Андреевна": 30,
-      "Торосян Игорь Георгиевич": 25,
-      "Хасанов Антон Рафаилович": 16,
-      "Ярош Тарас Викторович": 5
+      "gas:candidate-vibid:4234044261120": 10,
+      "gas:candidate-vibid:4234044260601": 46,
+      "gas:candidate-vibid:4234044260676": 470,
+      "gas:candidate-vibid:4234044260376": 21,
+      "gas:candidate-vibid:4234044261311": 0,
+      "gas:candidate-vibid:4234044245210": 30,
+      "gas:candidate-vibid:4234044260529": 25,
+      "gas:candidate-vibid:4234044260426": 16,
+      "gas:candidate-vibid:4234044261214": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11050,15 +11050,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 29,
-      "Васильев Игорь Васильевич": 69,
-      "Затулин Константин Федорович": 502,
-      "Нежельская Светлана Валентиновна": 23,
-      "Новиков Дмитрий Владимирович": 12,
-      "Середенко Татьяна Андреевна": 44,
-      "Торосян Игорь Георгиевич": 25,
-      "Хасанов Антон Рафаилович": 16,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 29,
+      "gas:candidate-vibid:4234044260601": 69,
+      "gas:candidate-vibid:4234044260676": 502,
+      "gas:candidate-vibid:4234044260376": 23,
+      "gas:candidate-vibid:4234044261311": 12,
+      "gas:candidate-vibid:4234044245210": 44,
+      "gas:candidate-vibid:4234044260529": 25,
+      "gas:candidate-vibid:4234044260426": 16,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11109,15 +11109,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 25,
-      "Васильев Игорь Васильевич": 3,
-      "Затулин Константин Федорович": 68,
-      "Нежельская Светлана Валентиновна": 3,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 5,
-      "Торосян Игорь Георгиевич": 4,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 25,
+      "gas:candidate-vibid:4234044260601": 3,
+      "gas:candidate-vibid:4234044260676": 68,
+      "gas:candidate-vibid:4234044260376": 3,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 5,
+      "gas:candidate-vibid:4234044260529": 4,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11168,15 +11168,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 4,
-      "Васильев Игорь Васильевич": 16,
-      "Затулин Константин Федорович": 225,
-      "Нежельская Светлана Валентиновна": 6,
-      "Новиков Дмитрий Владимирович": 10,
-      "Середенко Татьяна Андреевна": 29,
-      "Торосян Игорь Георгиевич": 8,
-      "Хасанов Антон Рафаилович": 3,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 4,
+      "gas:candidate-vibid:4234044260601": 16,
+      "gas:candidate-vibid:4234044260676": 225,
+      "gas:candidate-vibid:4234044260376": 6,
+      "gas:candidate-vibid:4234044261311": 10,
+      "gas:candidate-vibid:4234044245210": 29,
+      "gas:candidate-vibid:4234044260529": 8,
+      "gas:candidate-vibid:4234044260426": 3,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11227,15 +11227,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 2,
-      "Васильев Игорь Васильевич": 12,
-      "Затулин Константин Федорович": 169,
-      "Нежельская Светлана Валентиновна": 6,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 5,
-      "Торосян Игорь Георгиевич": 7,
-      "Хасанов Антон Рафаилович": 4,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 2,
+      "gas:candidate-vibid:4234044260601": 12,
+      "gas:candidate-vibid:4234044260676": 169,
+      "gas:candidate-vibid:4234044260376": 6,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 5,
+      "gas:candidate-vibid:4234044260529": 7,
+      "gas:candidate-vibid:4234044260426": 4,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11286,15 +11286,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 7,
-      "Васильев Игорь Васильевич": 11,
-      "Затулин Константин Федорович": 82,
-      "Нежельская Светлана Валентиновна": 5,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 14,
-      "Торосян Игорь Георгиевич": 6,
-      "Хасанов Антон Рафаилович": 0,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 7,
+      "gas:candidate-vibid:4234044260601": 11,
+      "gas:candidate-vibid:4234044260676": 82,
+      "gas:candidate-vibid:4234044260376": 5,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 14,
+      "gas:candidate-vibid:4234044260529": 6,
+      "gas:candidate-vibid:4234044260426": 0,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11345,15 +11345,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 14,
-      "Васильев Игорь Васильевич": 34,
-      "Затулин Константин Федорович": 665,
-      "Нежельская Светлана Валентиновна": 18,
-      "Новиков Дмитрий Владимирович": 7,
-      "Середенко Татьяна Андреевна": 37,
-      "Торосян Игорь Георгиевич": 120,
-      "Хасанов Антон Рафаилович": 39,
-      "Ярош Тарас Викторович": 8
+      "gas:candidate-vibid:4234044261120": 14,
+      "gas:candidate-vibid:4234044260601": 34,
+      "gas:candidate-vibid:4234044260676": 665,
+      "gas:candidate-vibid:4234044260376": 18,
+      "gas:candidate-vibid:4234044261311": 7,
+      "gas:candidate-vibid:4234044245210": 37,
+      "gas:candidate-vibid:4234044260529": 120,
+      "gas:candidate-vibid:4234044260426": 39,
+      "gas:candidate-vibid:4234044261214": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11404,15 +11404,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 9,
-      "Васильев Игорь Васильевич": 51,
-      "Затулин Константин Федорович": 340,
-      "Нежельская Светлана Валентиновна": 12,
-      "Новиков Дмитрий Владимирович": 10,
-      "Середенко Татьяна Андреевна": 24,
-      "Торосян Игорь Георгиевич": 31,
-      "Хасанов Антон Рафаилович": 10,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 9,
+      "gas:candidate-vibid:4234044260601": 51,
+      "gas:candidate-vibid:4234044260676": 340,
+      "gas:candidate-vibid:4234044260376": 12,
+      "gas:candidate-vibid:4234044261311": 10,
+      "gas:candidate-vibid:4234044245210": 24,
+      "gas:candidate-vibid:4234044260529": 31,
+      "gas:candidate-vibid:4234044260426": 10,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11463,15 +11463,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 14,
-      "Васильев Игорь Васильевич": 28,
-      "Затулин Константин Федорович": 150,
-      "Нежельская Светлана Валентиновна": 14,
-      "Новиков Дмитрий Владимирович": 8,
-      "Середенко Татьяна Андреевна": 25,
-      "Торосян Игорь Георгиевич": 6,
-      "Хасанов Антон Рафаилович": 4,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 14,
+      "gas:candidate-vibid:4234044260601": 28,
+      "gas:candidate-vibid:4234044260676": 150,
+      "gas:candidate-vibid:4234044260376": 14,
+      "gas:candidate-vibid:4234044261311": 8,
+      "gas:candidate-vibid:4234044245210": 25,
+      "gas:candidate-vibid:4234044260529": 6,
+      "gas:candidate-vibid:4234044260426": 4,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11522,15 +11522,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 1,
-      "Васильев Игорь Васильевич": 7,
-      "Затулин Константин Федорович": 62,
-      "Нежельская Светлана Валентиновна": 2,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 11,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 1,
+      "gas:candidate-vibid:4234044260601": 7,
+      "gas:candidate-vibid:4234044260676": 62,
+      "gas:candidate-vibid:4234044260376": 2,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 11,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11581,15 +11581,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 1,
-      "Васильев Игорь Васильевич": 3,
-      "Затулин Константин Федорович": 82,
-      "Нежельская Светлана Валентиновна": 0,
-      "Новиков Дмитрий Владимирович": 1,
-      "Середенко Татьяна Андреевна": 0,
-      "Торосян Игорь Георгиевич": 6,
-      "Хасанов Антон Рафаилович": 0,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 1,
+      "gas:candidate-vibid:4234044260601": 3,
+      "gas:candidate-vibid:4234044260676": 82,
+      "gas:candidate-vibid:4234044260376": 0,
+      "gas:candidate-vibid:4234044261311": 1,
+      "gas:candidate-vibid:4234044245210": 0,
+      "gas:candidate-vibid:4234044260529": 6,
+      "gas:candidate-vibid:4234044260426": 0,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11640,15 +11640,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 13,
-      "Васильев Игорь Васильевич": 106,
-      "Затулин Константин Федорович": 244,
-      "Нежельская Светлана Валентиновна": 30,
-      "Новиков Дмитрий Владимирович": 14,
-      "Середенко Татьяна Андреевна": 45,
-      "Торосян Игорь Георгиевич": 17,
-      "Хасанов Антон Рафаилович": 7,
-      "Ярош Тарас Викторович": 6
+      "gas:candidate-vibid:4234044261120": 13,
+      "gas:candidate-vibid:4234044260601": 106,
+      "gas:candidate-vibid:4234044260676": 244,
+      "gas:candidate-vibid:4234044260376": 30,
+      "gas:candidate-vibid:4234044261311": 14,
+      "gas:candidate-vibid:4234044245210": 45,
+      "gas:candidate-vibid:4234044260529": 17,
+      "gas:candidate-vibid:4234044260426": 7,
+      "gas:candidate-vibid:4234044261214": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11699,15 +11699,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 4,
-      "Васильев Игорь Васильевич": 35,
-      "Затулин Константин Федорович": 37,
-      "Нежельская Светлана Валентиновна": 8,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 9,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 4,
+      "gas:candidate-vibid:4234044260601": 35,
+      "gas:candidate-vibid:4234044260676": 37,
+      "gas:candidate-vibid:4234044260376": 8,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 9,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11758,15 +11758,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 12,
-      "Васильев Игорь Васильевич": 75,
-      "Затулин Константин Федорович": 200,
-      "Нежельская Светлана Валентиновна": 20,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 34,
-      "Торосян Игорь Георгиевич": 9,
-      "Хасанов Антон Рафаилович": 6,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 12,
+      "gas:candidate-vibid:4234044260601": 75,
+      "gas:candidate-vibid:4234044260676": 200,
+      "gas:candidate-vibid:4234044260376": 20,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 34,
+      "gas:candidate-vibid:4234044260529": 9,
+      "gas:candidate-vibid:4234044260426": 6,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11817,15 +11817,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 5,
-      "Васильев Игорь Васильевич": 20,
-      "Затулин Константин Федорович": 209,
-      "Нежельская Светлана Валентиновна": 6,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 20,
-      "Торосян Игорь Георгиевич": 7,
-      "Хасанов Антон Рафаилович": 4,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 5,
+      "gas:candidate-vibid:4234044260601": 20,
+      "gas:candidate-vibid:4234044260676": 209,
+      "gas:candidate-vibid:4234044260376": 6,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 20,
+      "gas:candidate-vibid:4234044260529": 7,
+      "gas:candidate-vibid:4234044260426": 4,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11876,15 +11876,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 8,
-      "Васильев Игорь Васильевич": 51,
-      "Затулин Константин Федорович": 131,
-      "Нежельская Светлана Валентиновна": 8,
-      "Новиков Дмитрий Владимирович": 15,
-      "Середенко Татьяна Андреевна": 37,
-      "Торосян Игорь Георгиевич": 3,
-      "Хасанов Антон Рафаилович": 6,
-      "Ярош Тарас Викторович": 5
+      "gas:candidate-vibid:4234044261120": 8,
+      "gas:candidate-vibid:4234044260601": 51,
+      "gas:candidate-vibid:4234044260676": 131,
+      "gas:candidate-vibid:4234044260376": 8,
+      "gas:candidate-vibid:4234044261311": 15,
+      "gas:candidate-vibid:4234044245210": 37,
+      "gas:candidate-vibid:4234044260529": 3,
+      "gas:candidate-vibid:4234044260426": 6,
+      "gas:candidate-vibid:4234044261214": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11935,15 +11935,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 40,
-      "Васильев Игорь Васильевич": 132,
-      "Затулин Константин Федорович": 418,
-      "Нежельская Светлана Валентиновна": 20,
-      "Новиков Дмитрий Владимирович": 20,
-      "Середенко Татьяна Андреевна": 49,
-      "Торосян Игорь Георгиевич": 19,
-      "Хасанов Антон Рафаилович": 30,
-      "Ярош Тарас Викторович": 7
+      "gas:candidate-vibid:4234044261120": 40,
+      "gas:candidate-vibid:4234044260601": 132,
+      "gas:candidate-vibid:4234044260676": 418,
+      "gas:candidate-vibid:4234044260376": 20,
+      "gas:candidate-vibid:4234044261311": 20,
+      "gas:candidate-vibid:4234044245210": 49,
+      "gas:candidate-vibid:4234044260529": 19,
+      "gas:candidate-vibid:4234044260426": 30,
+      "gas:candidate-vibid:4234044261214": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -11994,15 +11994,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 16,
-      "Васильев Игорь Васильевич": 77,
-      "Затулин Константин Федорович": 187,
-      "Нежельская Светлана Валентиновна": 12,
-      "Новиков Дмитрий Владимирович": 12,
-      "Середенко Татьяна Андреевна": 18,
-      "Торосян Игорь Георгиевич": 10,
-      "Хасанов Антон Рафаилович": 26,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 16,
+      "gas:candidate-vibid:4234044260601": 77,
+      "gas:candidate-vibid:4234044260676": 187,
+      "gas:candidate-vibid:4234044260376": 12,
+      "gas:candidate-vibid:4234044261311": 12,
+      "gas:candidate-vibid:4234044245210": 18,
+      "gas:candidate-vibid:4234044260529": 10,
+      "gas:candidate-vibid:4234044260426": 26,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -12053,15 +12053,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 11,
-      "Васильев Игорь Васильевич": 62,
-      "Затулин Константин Федорович": 238,
-      "Нежельская Светлана Валентиновна": 15,
-      "Новиков Дмитрий Владимирович": 8,
-      "Середенко Татьяна Андреевна": 24,
-      "Торосян Игорь Георгиевич": 16,
-      "Хасанов Антон Рафаилович": 16,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 11,
+      "gas:candidate-vibid:4234044260601": 62,
+      "gas:candidate-vibid:4234044260676": 238,
+      "gas:candidate-vibid:4234044260376": 15,
+      "gas:candidate-vibid:4234044261311": 8,
+      "gas:candidate-vibid:4234044245210": 24,
+      "gas:candidate-vibid:4234044260529": 16,
+      "gas:candidate-vibid:4234044260426": 16,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -12112,15 +12112,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 18,
-      "Васильев Игорь Васильевич": 48,
-      "Затулин Константин Федорович": 299,
-      "Нежельская Светлана Валентиновна": 10,
-      "Новиков Дмитрий Владимирович": 14,
-      "Середенко Татьяна Андреевна": 12,
-      "Торосян Игорь Георгиевич": 24,
-      "Хасанов Антон Рафаилович": 13,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 18,
+      "gas:candidate-vibid:4234044260601": 48,
+      "gas:candidate-vibid:4234044260676": 299,
+      "gas:candidate-vibid:4234044260376": 10,
+      "gas:candidate-vibid:4234044261311": 14,
+      "gas:candidate-vibid:4234044245210": 12,
+      "gas:candidate-vibid:4234044260529": 24,
+      "gas:candidate-vibid:4234044260426": 13,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -12171,15 +12171,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 6,
-      "Васильев Игорь Васильевич": 17,
-      "Затулин Константин Федорович": 90,
-      "Нежельская Светлана Валентиновна": 0,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 10,
-      "Торосян Игорь Георгиевич": 13,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 6,
+      "gas:candidate-vibid:4234044260601": 17,
+      "gas:candidate-vibid:4234044260676": 90,
+      "gas:candidate-vibid:4234044260376": 0,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 10,
+      "gas:candidate-vibid:4234044260529": 13,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -12230,15 +12230,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 21,
-      "Васильев Игорь Васильевич": 86,
-      "Затулин Константин Федорович": 1168,
-      "Нежельская Светлана Валентиновна": 25,
-      "Новиков Дмитрий Владимирович": 7,
-      "Середенко Татьяна Андреевна": 69,
-      "Торосян Игорь Георгиевич": 29,
-      "Хасанов Антон Рафаилович": 24,
-      "Ярош Тарас Викторович": 12
+      "gas:candidate-vibid:4234044261120": 21,
+      "gas:candidate-vibid:4234044260601": 86,
+      "gas:candidate-vibid:4234044260676": 1168,
+      "gas:candidate-vibid:4234044260376": 25,
+      "gas:candidate-vibid:4234044261311": 7,
+      "gas:candidate-vibid:4234044245210": 69,
+      "gas:candidate-vibid:4234044260529": 29,
+      "gas:candidate-vibid:4234044260426": 24,
+      "gas:candidate-vibid:4234044261214": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -12289,15 +12289,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 7,
-      "Васильев Игорь Васильевич": 22,
-      "Затулин Константин Федорович": 317,
-      "Нежельская Светлана Валентиновна": 10,
-      "Новиков Дмитрий Владимирович": 11,
-      "Середенко Татьяна Андреевна": 21,
-      "Торосян Игорь Георгиевич": 12,
-      "Хасанов Антон Рафаилович": 6,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 7,
+      "gas:candidate-vibid:4234044260601": 22,
+      "gas:candidate-vibid:4234044260676": 317,
+      "gas:candidate-vibid:4234044260376": 10,
+      "gas:candidate-vibid:4234044261311": 11,
+      "gas:candidate-vibid:4234044245210": 21,
+      "gas:candidate-vibid:4234044260529": 12,
+      "gas:candidate-vibid:4234044260426": 6,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -12348,15 +12348,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 1,
-      "Васильев Игорь Васильевич": 7,
-      "Затулин Константин Федорович": 112,
-      "Нежельская Светлана Валентиновна": 12,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 5,
-      "Торосян Игорь Георгиевич": 0,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 1,
+      "gas:candidate-vibid:4234044260601": 7,
+      "gas:candidate-vibid:4234044260676": 112,
+      "gas:candidate-vibid:4234044260376": 12,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 5,
+      "gas:candidate-vibid:4234044260529": 0,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243538&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243538&type=464",
@@ -12407,15 +12407,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 34,
-      "Васильев Игорь Васильевич": 52,
-      "Затулин Константин Федорович": 312,
-      "Нежельская Светлана Валентиновна": 17,
-      "Новиков Дмитрий Владимирович": 8,
-      "Середенко Татьяна Андреевна": 44,
-      "Торосян Игорь Георгиевич": 16,
-      "Хасанов Антон Рафаилович": 10,
-      "Ярош Тарас Викторович": 7
+      "gas:candidate-vibid:4234044261120": 34,
+      "gas:candidate-vibid:4234044260601": 52,
+      "gas:candidate-vibid:4234044260676": 312,
+      "gas:candidate-vibid:4234044260376": 17,
+      "gas:candidate-vibid:4234044261311": 8,
+      "gas:candidate-vibid:4234044245210": 44,
+      "gas:candidate-vibid:4234044260529": 16,
+      "gas:candidate-vibid:4234044260426": 10,
+      "gas:candidate-vibid:4234044261214": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12466,15 +12466,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 60,
-      "Васильев Игорь Васильевич": 118,
-      "Затулин Константин Федорович": 318,
-      "Нежельская Светлана Валентиновна": 22,
-      "Новиков Дмитрий Владимирович": 19,
-      "Середенко Татьяна Андреевна": 49,
-      "Торосян Игорь Георгиевич": 22,
-      "Хасанов Антон Рафаилович": 18,
-      "Ярош Тарас Викторович": 12
+      "gas:candidate-vibid:4234044261120": 60,
+      "gas:candidate-vibid:4234044260601": 118,
+      "gas:candidate-vibid:4234044260676": 318,
+      "gas:candidate-vibid:4234044260376": 22,
+      "gas:candidate-vibid:4234044261311": 19,
+      "gas:candidate-vibid:4234044245210": 49,
+      "gas:candidate-vibid:4234044260529": 22,
+      "gas:candidate-vibid:4234044260426": 18,
+      "gas:candidate-vibid:4234044261214": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12525,15 +12525,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 60,
-      "Васильев Игорь Васильевич": 124,
-      "Затулин Константин Федорович": 249,
-      "Нежельская Светлана Валентиновна": 32,
-      "Новиков Дмитрий Владимирович": 18,
-      "Середенко Татьяна Андреевна": 52,
-      "Торосян Игорь Георгиевич": 33,
-      "Хасанов Антон Рафаилович": 11,
-      "Ярош Тарас Викторович": 15
+      "gas:candidate-vibid:4234044261120": 60,
+      "gas:candidate-vibid:4234044260601": 124,
+      "gas:candidate-vibid:4234044260676": 249,
+      "gas:candidate-vibid:4234044260376": 32,
+      "gas:candidate-vibid:4234044261311": 18,
+      "gas:candidate-vibid:4234044245210": 52,
+      "gas:candidate-vibid:4234044260529": 33,
+      "gas:candidate-vibid:4234044260426": 11,
+      "gas:candidate-vibid:4234044261214": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12584,15 +12584,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 46,
-      "Васильев Игорь Васильевич": 127,
-      "Затулин Константин Федорович": 259,
-      "Нежельская Светлана Валентиновна": 25,
-      "Новиков Дмитрий Владимирович": 12,
-      "Середенко Татьяна Андреевна": 84,
-      "Торосян Игорь Георгиевич": 27,
-      "Хасанов Антон Рафаилович": 22,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 46,
+      "gas:candidate-vibid:4234044260601": 127,
+      "gas:candidate-vibid:4234044260676": 259,
+      "gas:candidate-vibid:4234044260376": 25,
+      "gas:candidate-vibid:4234044261311": 12,
+      "gas:candidate-vibid:4234044245210": 84,
+      "gas:candidate-vibid:4234044260529": 27,
+      "gas:candidate-vibid:4234044260426": 22,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12643,15 +12643,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 42,
-      "Васильев Игорь Васильевич": 91,
-      "Затулин Константин Федорович": 291,
-      "Нежельская Светлана Валентиновна": 19,
-      "Новиков Дмитрий Владимирович": 16,
-      "Середенко Татьяна Андреевна": 58,
-      "Торосян Игорь Георгиевич": 20,
-      "Хасанов Антон Рафаилович": 10,
-      "Ярош Тарас Викторович": 12
+      "gas:candidate-vibid:4234044261120": 42,
+      "gas:candidate-vibid:4234044260601": 91,
+      "gas:candidate-vibid:4234044260676": 291,
+      "gas:candidate-vibid:4234044260376": 19,
+      "gas:candidate-vibid:4234044261311": 16,
+      "gas:candidate-vibid:4234044245210": 58,
+      "gas:candidate-vibid:4234044260529": 20,
+      "gas:candidate-vibid:4234044260426": 10,
+      "gas:candidate-vibid:4234044261214": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12702,15 +12702,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 56,
-      "Васильев Игорь Васильевич": 101,
-      "Затулин Константин Федорович": 281,
-      "Нежельская Светлана Валентиновна": 23,
-      "Новиков Дмитрий Владимирович": 10,
-      "Середенко Татьяна Андреевна": 48,
-      "Торосян Игорь Георгиевич": 20,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 17
+      "gas:candidate-vibid:4234044261120": 56,
+      "gas:candidate-vibid:4234044260601": 101,
+      "gas:candidate-vibid:4234044260676": 281,
+      "gas:candidate-vibid:4234044260376": 23,
+      "gas:candidate-vibid:4234044261311": 10,
+      "gas:candidate-vibid:4234044245210": 48,
+      "gas:candidate-vibid:4234044260529": 20,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12761,15 +12761,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 23,
-      "Васильев Игорь Васильевич": 67,
-      "Затулин Константин Федорович": 147,
-      "Нежельская Светлана Валентиновна": 12,
-      "Новиков Дмитрий Владимирович": 9,
-      "Середенко Татьяна Андреевна": 41,
-      "Торосян Игорь Георгиевич": 21,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 13
+      "gas:candidate-vibid:4234044261120": 23,
+      "gas:candidate-vibid:4234044260601": 67,
+      "gas:candidate-vibid:4234044260676": 147,
+      "gas:candidate-vibid:4234044260376": 12,
+      "gas:candidate-vibid:4234044261311": 9,
+      "gas:candidate-vibid:4234044245210": 41,
+      "gas:candidate-vibid:4234044260529": 21,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12820,15 +12820,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 60,
-      "Васильев Игорь Васильевич": 123,
-      "Затулин Константин Федорович": 288,
-      "Нежельская Светлана Валентиновна": 20,
-      "Новиков Дмитрий Владимирович": 13,
-      "Середенко Татьяна Андреевна": 76,
-      "Торосян Игорь Георгиевич": 17,
-      "Хасанов Антон Рафаилович": 20,
-      "Ярош Тарас Викторович": 13
+      "gas:candidate-vibid:4234044261120": 60,
+      "gas:candidate-vibid:4234044260601": 123,
+      "gas:candidate-vibid:4234044260676": 288,
+      "gas:candidate-vibid:4234044260376": 20,
+      "gas:candidate-vibid:4234044261311": 13,
+      "gas:candidate-vibid:4234044245210": 76,
+      "gas:candidate-vibid:4234044260529": 17,
+      "gas:candidate-vibid:4234044260426": 20,
+      "gas:candidate-vibid:4234044261214": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12879,15 +12879,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 10,
-      "Васильев Игорь Васильевич": 97,
-      "Затулин Константин Федорович": 1124,
-      "Нежельская Светлана Валентиновна": 2,
-      "Новиков Дмитрий Владимирович": 1,
-      "Середенко Татьяна Андреевна": 13,
-      "Торосян Игорь Георгиевич": 3,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 10,
+      "gas:candidate-vibid:4234044260601": 97,
+      "gas:candidate-vibid:4234044260676": 1124,
+      "gas:candidate-vibid:4234044260376": 2,
+      "gas:candidate-vibid:4234044261311": 1,
+      "gas:candidate-vibid:4234044245210": 13,
+      "gas:candidate-vibid:4234044260529": 3,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12938,15 +12938,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 68,
-      "Васильев Игорь Васильевич": 173,
-      "Затулин Константин Федорович": 357,
-      "Нежельская Светлана Валентиновна": 23,
-      "Новиков Дмитрий Владимирович": 24,
-      "Середенко Татьяна Андреевна": 88,
-      "Торосян Игорь Георгиевич": 39,
-      "Хасанов Антон Рафаилович": 13,
-      "Ярош Тарас Викторович": 11
+      "gas:candidate-vibid:4234044261120": 68,
+      "gas:candidate-vibid:4234044260601": 173,
+      "gas:candidate-vibid:4234044260676": 357,
+      "gas:candidate-vibid:4234044260376": 23,
+      "gas:candidate-vibid:4234044261311": 24,
+      "gas:candidate-vibid:4234044245210": 88,
+      "gas:candidate-vibid:4234044260529": 39,
+      "gas:candidate-vibid:4234044260426": 13,
+      "gas:candidate-vibid:4234044261214": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -12997,15 +12997,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 56,
-      "Васильев Игорь Васильевич": 236,
-      "Затулин Константин Федорович": 962,
-      "Нежельская Светлана Валентиновна": 9,
-      "Новиков Дмитрий Владимирович": 21,
-      "Середенко Татьяна Андреевна": 75,
-      "Торосян Игорь Георгиевич": 29,
-      "Хасанов Антон Рафаилович": 29,
-      "Ярош Тарас Викторович": 18
+      "gas:candidate-vibid:4234044261120": 56,
+      "gas:candidate-vibid:4234044260601": 236,
+      "gas:candidate-vibid:4234044260676": 962,
+      "gas:candidate-vibid:4234044260376": 9,
+      "gas:candidate-vibid:4234044261311": 21,
+      "gas:candidate-vibid:4234044245210": 75,
+      "gas:candidate-vibid:4234044260529": 29,
+      "gas:candidate-vibid:4234044260426": 29,
+      "gas:candidate-vibid:4234044261214": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13056,15 +13056,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 15,
-      "Васильев Игорь Васильевич": 159,
-      "Затулин Константин Федорович": 1779,
-      "Нежельская Светлана Валентиновна": 36,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 15,
-      "Торосян Игорь Георгиевич": 6,
-      "Хасанов Антон Рафаилович": 3,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 15,
+      "gas:candidate-vibid:4234044260601": 159,
+      "gas:candidate-vibid:4234044260676": 1779,
+      "gas:candidate-vibid:4234044260376": 36,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 15,
+      "gas:candidate-vibid:4234044260529": 6,
+      "gas:candidate-vibid:4234044260426": 3,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13115,15 +13115,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 46,
-      "Васильев Игорь Васильевич": 135,
-      "Затулин Константин Федорович": 451,
-      "Нежельская Светлана Валентиновна": 15,
-      "Новиков Дмитрий Владимирович": 11,
-      "Середенко Татьяна Андреевна": 116,
-      "Торосян Игорь Георгиевич": 17,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 8
+      "gas:candidate-vibid:4234044261120": 46,
+      "gas:candidate-vibid:4234044260601": 135,
+      "gas:candidate-vibid:4234044260676": 451,
+      "gas:candidate-vibid:4234044260376": 15,
+      "gas:candidate-vibid:4234044261311": 11,
+      "gas:candidate-vibid:4234044245210": 116,
+      "gas:candidate-vibid:4234044260529": 17,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13174,15 +13174,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 41,
-      "Васильев Игорь Васильевич": 97,
-      "Затулин Константин Федорович": 244,
-      "Нежельская Светлана Валентиновна": 13,
-      "Новиков Дмитрий Владимирович": 9,
-      "Середенко Татьяна Андреевна": 49,
-      "Торосян Игорь Георгиевич": 21,
-      "Хасанов Антон Рафаилович": 17,
-      "Ярош Тарас Викторович": 10
+      "gas:candidate-vibid:4234044261120": 41,
+      "gas:candidate-vibid:4234044260601": 97,
+      "gas:candidate-vibid:4234044260676": 244,
+      "gas:candidate-vibid:4234044260376": 13,
+      "gas:candidate-vibid:4234044261311": 9,
+      "gas:candidate-vibid:4234044245210": 49,
+      "gas:candidate-vibid:4234044260529": 21,
+      "gas:candidate-vibid:4234044260426": 17,
+      "gas:candidate-vibid:4234044261214": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13233,15 +13233,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 18,
-      "Васильев Игорь Васильевич": 21,
-      "Затулин Константин Федорович": 570,
-      "Нежельская Светлана Валентиновна": 3,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 9,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 4,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 18,
+      "gas:candidate-vibid:4234044260601": 21,
+      "gas:candidate-vibid:4234044260676": 570,
+      "gas:candidate-vibid:4234044260376": 3,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 9,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 4,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13292,15 +13292,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 48,
-      "Васильев Игорь Васильевич": 114,
-      "Затулин Константин Федорович": 297,
-      "Нежельская Светлана Валентиновна": 22,
-      "Новиков Дмитрий Владимирович": 11,
-      "Середенко Татьяна Андреевна": 77,
-      "Торосян Игорь Георгиевич": 24,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 7
+      "gas:candidate-vibid:4234044261120": 48,
+      "gas:candidate-vibid:4234044260601": 114,
+      "gas:candidate-vibid:4234044260676": 297,
+      "gas:candidate-vibid:4234044260376": 22,
+      "gas:candidate-vibid:4234044261311": 11,
+      "gas:candidate-vibid:4234044245210": 77,
+      "gas:candidate-vibid:4234044260529": 24,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13351,15 +13351,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 54,
-      "Васильев Игорь Васильевич": 125,
-      "Затулин Константин Федорович": 840,
-      "Нежельская Светлана Валентиновна": 23,
-      "Новиков Дмитрий Владимирович": 24,
-      "Середенко Татьяна Андреевна": 70,
-      "Торосян Игорь Георгиевич": 22,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 8
+      "gas:candidate-vibid:4234044261120": 54,
+      "gas:candidate-vibid:4234044260601": 125,
+      "gas:candidate-vibid:4234044260676": 840,
+      "gas:candidate-vibid:4234044260376": 23,
+      "gas:candidate-vibid:4234044261311": 24,
+      "gas:candidate-vibid:4234044245210": 70,
+      "gas:candidate-vibid:4234044260529": 22,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13410,15 +13410,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 69,
-      "Васильев Игорь Васильевич": 125,
-      "Затулин Константин Федорович": 524,
-      "Нежельская Светлана Валентиновна": 29,
-      "Новиков Дмитрий Владимирович": 32,
-      "Середенко Татьяна Андреевна": 87,
-      "Торосян Игорь Георгиевич": 42,
-      "Хасанов Антон Рафаилович": 16,
-      "Ярош Тарас Викторович": 15
+      "gas:candidate-vibid:4234044261120": 69,
+      "gas:candidate-vibid:4234044260601": 125,
+      "gas:candidate-vibid:4234044260676": 524,
+      "gas:candidate-vibid:4234044260376": 29,
+      "gas:candidate-vibid:4234044261311": 32,
+      "gas:candidate-vibid:4234044245210": 87,
+      "gas:candidate-vibid:4234044260529": 42,
+      "gas:candidate-vibid:4234044260426": 16,
+      "gas:candidate-vibid:4234044261214": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13469,15 +13469,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 32,
-      "Васильев Игорь Васильевич": 59,
-      "Затулин Константин Федорович": 179,
-      "Нежельская Светлана Валентиновна": 16,
-      "Новиков Дмитрий Владимирович": 9,
-      "Середенко Татьяна Андреевна": 38,
-      "Торосян Игорь Георгиевич": 18,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 32,
+      "gas:candidate-vibid:4234044260601": 59,
+      "gas:candidate-vibid:4234044260676": 179,
+      "gas:candidate-vibid:4234044260376": 16,
+      "gas:candidate-vibid:4234044261311": 9,
+      "gas:candidate-vibid:4234044245210": 38,
+      "gas:candidate-vibid:4234044260529": 18,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13528,15 +13528,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 43,
-      "Васильев Игорь Васильевич": 115,
-      "Затулин Константин Федорович": 471,
-      "Нежельская Светлана Валентиновна": 20,
-      "Новиков Дмитрий Владимирович": 11,
-      "Середенко Татьяна Андреевна": 62,
-      "Торосян Игорь Георгиевич": 21,
-      "Хасанов Антон Рафаилович": 15,
-      "Ярош Тарас Викторович": 10
+      "gas:candidate-vibid:4234044261120": 43,
+      "gas:candidate-vibid:4234044260601": 115,
+      "gas:candidate-vibid:4234044260676": 471,
+      "gas:candidate-vibid:4234044260376": 20,
+      "gas:candidate-vibid:4234044261311": 11,
+      "gas:candidate-vibid:4234044245210": 62,
+      "gas:candidate-vibid:4234044260529": 21,
+      "gas:candidate-vibid:4234044260426": 15,
+      "gas:candidate-vibid:4234044261214": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13587,15 +13587,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 26,
-      "Васильев Игорь Васильевич": 96,
-      "Затулин Константин Федорович": 389,
-      "Нежельская Светлана Валентиновна": 17,
-      "Новиков Дмитрий Владимирович": 16,
-      "Середенко Татьяна Андреевна": 66,
-      "Торосян Игорь Георгиевич": 26,
-      "Хасанов Антон Рафаилович": 17,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 26,
+      "gas:candidate-vibid:4234044260601": 96,
+      "gas:candidate-vibid:4234044260676": 389,
+      "gas:candidate-vibid:4234044260376": 17,
+      "gas:candidate-vibid:4234044261311": 16,
+      "gas:candidate-vibid:4234044245210": 66,
+      "gas:candidate-vibid:4234044260529": 26,
+      "gas:candidate-vibid:4234044260426": 17,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13646,15 +13646,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 56,
-      "Васильев Игорь Васильевич": 113,
-      "Затулин Константин Федорович": 511,
-      "Нежельская Светлана Валентиновна": 21,
-      "Новиков Дмитрий Владимирович": 16,
-      "Середенко Татьяна Андреевна": 62,
-      "Торосян Игорь Георгиевич": 21,
-      "Хасанов Антон Рафаилович": 19,
-      "Ярош Тарас Викторович": 5
+      "gas:candidate-vibid:4234044261120": 56,
+      "gas:candidate-vibid:4234044260601": 113,
+      "gas:candidate-vibid:4234044260676": 511,
+      "gas:candidate-vibid:4234044260376": 21,
+      "gas:candidate-vibid:4234044261311": 16,
+      "gas:candidate-vibid:4234044245210": 62,
+      "gas:candidate-vibid:4234044260529": 21,
+      "gas:candidate-vibid:4234044260426": 19,
+      "gas:candidate-vibid:4234044261214": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13705,15 +13705,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 10,
-      "Васильев Игорь Васильевич": 33,
-      "Затулин Константин Федорович": 100,
-      "Нежельская Светлана Валентиновна": 12,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 19,
-      "Торосян Игорь Георгиевич": 6,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 10,
+      "gas:candidate-vibid:4234044260601": 33,
+      "gas:candidate-vibid:4234044260676": 100,
+      "gas:candidate-vibid:4234044260376": 12,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 19,
+      "gas:candidate-vibid:4234044260529": 6,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13764,15 +13764,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 26,
-      "Васильев Игорь Васильевич": 75,
-      "Затулин Константин Федорович": 332,
-      "Нежельская Светлана Валентиновна": 6,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 38,
-      "Торосян Игорь Георгиевич": 17,
-      "Хасанов Антон Рафаилович": 11,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 26,
+      "gas:candidate-vibid:4234044260601": 75,
+      "gas:candidate-vibid:4234044260676": 332,
+      "gas:candidate-vibid:4234044260376": 6,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 38,
+      "gas:candidate-vibid:4234044260529": 17,
+      "gas:candidate-vibid:4234044260426": 11,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13823,15 +13823,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 43,
-      "Васильев Игорь Васильевич": 95,
-      "Затулин Константин Федорович": 124,
-      "Нежельская Светлана Валентиновна": 11,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 44,
-      "Торосян Игорь Георгиевич": 23,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 43,
+      "gas:candidate-vibid:4234044260601": 95,
+      "gas:candidate-vibid:4234044260676": 124,
+      "gas:candidate-vibid:4234044260376": 11,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 44,
+      "gas:candidate-vibid:4234044260529": 23,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13882,15 +13882,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 62,
-      "Васильев Игорь Васильевич": 143,
-      "Затулин Константин Федорович": 921,
-      "Нежельская Светлана Валентиновна": 27,
-      "Новиков Дмитрий Владимирович": 16,
-      "Середенко Татьяна Андреевна": 101,
-      "Торосян Игорь Георгиевич": 64,
-      "Хасанов Антон Рафаилович": 21,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 62,
+      "gas:candidate-vibid:4234044260601": 143,
+      "gas:candidate-vibid:4234044260676": 921,
+      "gas:candidate-vibid:4234044260376": 27,
+      "gas:candidate-vibid:4234044261311": 16,
+      "gas:candidate-vibid:4234044245210": 101,
+      "gas:candidate-vibid:4234044260529": 64,
+      "gas:candidate-vibid:4234044260426": 21,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -13941,15 +13941,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 20,
-      "Васильев Игорь Васильевич": 44,
-      "Затулин Константин Федорович": 127,
-      "Нежельская Светлана Валентиновна": 15,
-      "Новиков Дмитрий Владимирович": 9,
-      "Середенко Татьяна Андреевна": 33,
-      "Торосян Игорь Георгиевич": 6,
-      "Хасанов Антон Рафаилович": 8,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 20,
+      "gas:candidate-vibid:4234044260601": 44,
+      "gas:candidate-vibid:4234044260676": 127,
+      "gas:candidate-vibid:4234044260376": 15,
+      "gas:candidate-vibid:4234044261311": 9,
+      "gas:candidate-vibid:4234044245210": 33,
+      "gas:candidate-vibid:4234044260529": 6,
+      "gas:candidate-vibid:4234044260426": 8,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14000,15 +14000,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 16,
-      "Васильев Игорь Васильевич": 147,
-      "Затулин Константин Федорович": 582,
-      "Нежельская Светлана Валентиновна": 18,
-      "Новиков Дмитрий Владимирович": 10,
-      "Середенко Татьяна Андреевна": 61,
-      "Торосян Игорь Георгиевич": 4,
-      "Хасанов Антон Рафаилович": 10,
-      "Ярош Тарас Викторович": 9
+      "gas:candidate-vibid:4234044261120": 16,
+      "gas:candidate-vibid:4234044260601": 147,
+      "gas:candidate-vibid:4234044260676": 582,
+      "gas:candidate-vibid:4234044260376": 18,
+      "gas:candidate-vibid:4234044261311": 10,
+      "gas:candidate-vibid:4234044245210": 61,
+      "gas:candidate-vibid:4234044260529": 4,
+      "gas:candidate-vibid:4234044260426": 10,
+      "gas:candidate-vibid:4234044261214": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14059,15 +14059,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 18,
-      "Васильев Игорь Васильевич": 59,
-      "Затулин Константин Федорович": 347,
-      "Нежельская Светлана Валентиновна": 8,
-      "Новиков Дмитрий Владимирович": 6,
-      "Середенко Татьяна Андреевна": 56,
-      "Торосян Игорь Георгиевич": 3,
-      "Хасанов Антон Рафаилович": 8,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 18,
+      "gas:candidate-vibid:4234044260601": 59,
+      "gas:candidate-vibid:4234044260676": 347,
+      "gas:candidate-vibid:4234044260376": 8,
+      "gas:candidate-vibid:4234044261311": 6,
+      "gas:candidate-vibid:4234044245210": 56,
+      "gas:candidate-vibid:4234044260529": 3,
+      "gas:candidate-vibid:4234044260426": 8,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14118,15 +14118,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 44,
-      "Васильев Игорь Васильевич": 61,
-      "Затулин Константин Федорович": 1058,
-      "Нежельская Светлана Валентиновна": 21,
-      "Новиков Дмитрий Владимирович": 18,
-      "Середенко Татьяна Андреевна": 51,
-      "Торосян Игорь Георгиевич": 12,
-      "Хасанов Антон Рафаилович": 7,
-      "Ярош Тарас Викторович": 8
+      "gas:candidate-vibid:4234044261120": 44,
+      "gas:candidate-vibid:4234044260601": 61,
+      "gas:candidate-vibid:4234044260676": 1058,
+      "gas:candidate-vibid:4234044260376": 21,
+      "gas:candidate-vibid:4234044261311": 18,
+      "gas:candidate-vibid:4234044245210": 51,
+      "gas:candidate-vibid:4234044260529": 12,
+      "gas:candidate-vibid:4234044260426": 7,
+      "gas:candidate-vibid:4234044261214": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14177,15 +14177,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 3,
-      "Васильев Игорь Васильевич": 49,
-      "Затулин Константин Федорович": 896,
-      "Нежельская Светлана Валентиновна": 2,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 30,
-      "Торосян Игорь Георгиевич": 3,
-      "Хасанов Антон Рафаилович": 7,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 3,
+      "gas:candidate-vibid:4234044260601": 49,
+      "gas:candidate-vibid:4234044260676": 896,
+      "gas:candidate-vibid:4234044260376": 2,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 30,
+      "gas:candidate-vibid:4234044260529": 3,
+      "gas:candidate-vibid:4234044260426": 7,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14236,15 +14236,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 11,
-      "Васильев Игорь Васильевич": 42,
-      "Затулин Константин Федорович": 267,
-      "Нежельская Светлана Валентиновна": 8,
-      "Новиков Дмитрий Владимирович": 8,
-      "Середенко Татьяна Андреевна": 23,
-      "Торосян Игорь Георгиевич": 13,
-      "Хасанов Антон Рафаилович": 18,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 11,
+      "gas:candidate-vibid:4234044260601": 42,
+      "gas:candidate-vibid:4234044260676": 267,
+      "gas:candidate-vibid:4234044260376": 8,
+      "gas:candidate-vibid:4234044261311": 8,
+      "gas:candidate-vibid:4234044245210": 23,
+      "gas:candidate-vibid:4234044260529": 13,
+      "gas:candidate-vibid:4234044260426": 18,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14295,15 +14295,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 10,
-      "Васильев Игорь Васильевич": 66,
-      "Затулин Константин Федорович": 176,
-      "Нежельская Светлана Валентиновна": 6,
-      "Новиков Дмитрий Владимирович": 1,
-      "Середенко Татьяна Андреевна": 28,
-      "Торосян Игорь Георгиевич": 49,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 10,
+      "gas:candidate-vibid:4234044260601": 66,
+      "gas:candidate-vibid:4234044260676": 176,
+      "gas:candidate-vibid:4234044260376": 6,
+      "gas:candidate-vibid:4234044261311": 1,
+      "gas:candidate-vibid:4234044245210": 28,
+      "gas:candidate-vibid:4234044260529": 49,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14354,15 +14354,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 23,
-      "Васильев Игорь Васильевич": 33,
-      "Затулин Константин Федорович": 142,
-      "Нежельская Светлана Валентиновна": 12,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 28,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 6,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 23,
+      "gas:candidate-vibid:4234044260601": 33,
+      "gas:candidate-vibid:4234044260676": 142,
+      "gas:candidate-vibid:4234044260376": 12,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 28,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 6,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14413,15 +14413,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 6,
-      "Васильев Игорь Васильевич": 87,
-      "Затулин Константин Федорович": 335,
-      "Нежельская Светлана Валентиновна": 1,
-      "Новиков Дмитрий Владимирович": 1,
-      "Середенко Татьяна Андреевна": 2,
-      "Торосян Игорь Георгиевич": 0,
-      "Хасанов Антон Рафаилович": 0,
-      "Ярош Тарас Викторович": 0
+      "gas:candidate-vibid:4234044261120": 6,
+      "gas:candidate-vibid:4234044260601": 87,
+      "gas:candidate-vibid:4234044260676": 335,
+      "gas:candidate-vibid:4234044260376": 1,
+      "gas:candidate-vibid:4234044261311": 1,
+      "gas:candidate-vibid:4234044245210": 2,
+      "gas:candidate-vibid:4234044260529": 0,
+      "gas:candidate-vibid:4234044260426": 0,
+      "gas:candidate-vibid:4234044261214": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14472,15 +14472,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 21,
-      "Васильев Игорь Васильевич": 58,
-      "Затулин Константин Федорович": 358,
-      "Нежельская Светлана Валентиновна": 13,
-      "Новиков Дмитрий Владимирович": 7,
-      "Середенко Татьяна Андреевна": 41,
-      "Торосян Игорь Георгиевич": 9,
-      "Хасанов Антон Рафаилович": 29,
-      "Ярош Тарас Викторович": 4
+      "gas:candidate-vibid:4234044261120": 21,
+      "gas:candidate-vibid:4234044260601": 58,
+      "gas:candidate-vibid:4234044260676": 358,
+      "gas:candidate-vibid:4234044260376": 13,
+      "gas:candidate-vibid:4234044261311": 7,
+      "gas:candidate-vibid:4234044245210": 41,
+      "gas:candidate-vibid:4234044260529": 9,
+      "gas:candidate-vibid:4234044260426": 29,
+      "gas:candidate-vibid:4234044261214": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14531,15 +14531,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 22,
-      "Васильев Игорь Васильевич": 130,
-      "Затулин Константин Федорович": 285,
-      "Нежельская Светлана Валентиновна": 15,
-      "Новиков Дмитрий Владимирович": 9,
-      "Середенко Татьяна Андреевна": 68,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 12,
-      "Ярош Тарас Викторович": 7
+      "gas:candidate-vibid:4234044261120": 22,
+      "gas:candidate-vibid:4234044260601": 130,
+      "gas:candidate-vibid:4234044260676": 285,
+      "gas:candidate-vibid:4234044260376": 15,
+      "gas:candidate-vibid:4234044261311": 9,
+      "gas:candidate-vibid:4234044245210": 68,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 12,
+      "gas:candidate-vibid:4234044261214": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14590,15 +14590,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 10,
-      "Васильев Игорь Васильевич": 39,
-      "Затулин Константин Федорович": 281,
-      "Нежельская Светлана Валентиновна": 14,
-      "Новиков Дмитрий Владимирович": 8,
-      "Середенко Татьяна Андреевна": 30,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 9,
-      "Ярош Тарас Викторович": 3
+      "gas:candidate-vibid:4234044261120": 10,
+      "gas:candidate-vibid:4234044260601": 39,
+      "gas:candidate-vibid:4234044260676": 281,
+      "gas:candidate-vibid:4234044260376": 14,
+      "gas:candidate-vibid:4234044261311": 8,
+      "gas:candidate-vibid:4234044245210": 30,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 9,
+      "gas:candidate-vibid:4234044261214": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14649,15 +14649,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 5,
-      "Васильев Игорь Васильевич": 18,
-      "Затулин Константин Федорович": 77,
-      "Нежельская Светлана Валентиновна": 3,
-      "Новиков Дмитрий Владимирович": 4,
-      "Середенко Татьяна Андреевна": 17,
-      "Торосян Игорь Георгиевич": 1,
-      "Хасанов Антон Рафаилович": 0,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 5,
+      "gas:candidate-vibid:4234044260601": 18,
+      "gas:candidate-vibid:4234044260676": 77,
+      "gas:candidate-vibid:4234044260376": 3,
+      "gas:candidate-vibid:4234044261311": 4,
+      "gas:candidate-vibid:4234044245210": 17,
+      "gas:candidate-vibid:4234044260529": 1,
+      "gas:candidate-vibid:4234044260426": 0,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14708,15 +14708,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 9,
-      "Васильев Игорь Васильевич": 10,
-      "Затулин Константин Федорович": 143,
-      "Нежельская Светлана Валентиновна": 7,
-      "Новиков Дмитрий Владимирович": 2,
-      "Середенко Татьяна Андреевна": 17,
-      "Торосян Игорь Георгиевич": 5,
-      "Хасанов Антон Рафаилович": 2,
-      "Ярош Тарас Викторович": 1
+      "gas:candidate-vibid:4234044261120": 9,
+      "gas:candidate-vibid:4234044260601": 10,
+      "gas:candidate-vibid:4234044260676": 143,
+      "gas:candidate-vibid:4234044260376": 7,
+      "gas:candidate-vibid:4234044261311": 2,
+      "gas:candidate-vibid:4234044245210": 17,
+      "gas:candidate-vibid:4234044260529": 5,
+      "gas:candidate-vibid:4234044260426": 2,
+      "gas:candidate-vibid:4234044261214": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14767,15 +14767,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 7,
-      "Васильев Игорь Васильевич": 9,
-      "Затулин Константин Федорович": 53,
-      "Нежельская Светлана Валентиновна": 1,
-      "Новиков Дмитрий Владимирович": 3,
-      "Середенко Татьяна Андреевна": 5,
-      "Торосян Игорь Георгиевич": 4,
-      "Хасанов Антон Рафаилович": 1,
-      "Ярош Тарас Викторович": 2
+      "gas:candidate-vibid:4234044261120": 7,
+      "gas:candidate-vibid:4234044260601": 9,
+      "gas:candidate-vibid:4234044260676": 53,
+      "gas:candidate-vibid:4234044260376": 1,
+      "gas:candidate-vibid:4234044261311": 3,
+      "gas:candidate-vibid:4234044245210": 5,
+      "gas:candidate-vibid:4234044260529": 4,
+      "gas:candidate-vibid:4234044260426": 1,
+      "gas:candidate-vibid:4234044261214": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14826,15 +14826,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 32,
-      "Васильев Игорь Васильевич": 69,
-      "Затулин Константин Федорович": 694,
-      "Нежельская Светлана Валентиновна": 50,
-      "Новиков Дмитрий Владимирович": 19,
-      "Середенко Татьяна Андреевна": 68,
-      "Торосян Игорь Георгиевич": 25,
-      "Хасанов Антон Рафаилович": 13,
-      "Ярош Тарас Викторович": 6
+      "gas:candidate-vibid:4234044261120": 32,
+      "gas:candidate-vibid:4234044260601": 69,
+      "gas:candidate-vibid:4234044260676": 694,
+      "gas:candidate-vibid:4234044260376": 50,
+      "gas:candidate-vibid:4234044261311": 19,
+      "gas:candidate-vibid:4234044245210": 68,
+      "gas:candidate-vibid:4234044260529": 25,
+      "gas:candidate-vibid:4234044260426": 13,
+      "gas:candidate-vibid:4234044261214": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",
@@ -14885,15 +14885,15 @@ export const duma_2016_uik_463_region_23_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадюк Сергей Николаевич": 33,
-      "Васильев Игорь Васильевич": 97,
-      "Затулин Константин Федорович": 526,
-      "Нежельская Светлана Валентиновна": 20,
-      "Новиков Дмитрий Владимирович": 14,
-      "Середенко Татьяна Андреевна": 66,
-      "Торосян Игорь Георгиевич": 21,
-      "Хасанов Антон Рафаилович": 17,
-      "Ярош Тарас Викторович": 9
+      "gas:candidate-vibid:4234044261120": 33,
+      "gas:candidate-vibid:4234044260601": 97,
+      "gas:candidate-vibid:4234044260676": 526,
+      "gas:candidate-vibid:4234044260376": 20,
+      "gas:candidate-vibid:4234044261311": 14,
+      "gas:candidate-vibid:4234044245210": 66,
+      "gas:candidate-vibid:4234044260529": 21,
+      "gas:candidate-vibid:4234044260426": 17,
+      "gas:candidate-vibid:4234044261214": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000067&tvd=4234044243539&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234044243539&type=464",

@@ -11,6 +11,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523282",
     "tikName": "Чарышская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9141,
@@ -82,6 +85,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523283",
     "tikName": "Усть-Пристанская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9731,
@@ -150,6 +156,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523284",
     "tikName": "Усть-Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11212,
@@ -216,6 +225,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523285",
     "tikName": "Третьяковская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9956,
@@ -285,6 +297,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523286",
     "tikName": "Топчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16638,
@@ -362,6 +377,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523287",
     "tikName": "Солтонская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6197,
@@ -428,6 +446,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523288",
     "tikName": "Солонешенская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6850,
@@ -495,6 +516,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523289",
     "tikName": "Советская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12277,
@@ -561,6 +585,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523290",
     "tikName": "Смоленская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19181,
@@ -636,6 +663,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523291",
     "tikName": "Петропавловская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9117,
@@ -695,6 +725,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523292",
     "tikName": "Локтевская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18565,
@@ -770,6 +803,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523293",
     "tikName": "Курьинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7985,
@@ -835,6 +871,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523294",
     "tikName": "Краснощековская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12946,
@@ -904,6 +943,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523295",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11672,
@@ -980,6 +1022,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523296",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10947,
@@ -1049,6 +1094,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523297",
     "tikName": "Змеиногорская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15237,
@@ -1122,6 +1170,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523298",
     "tikName": "Быстроистокская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7159,
@@ -1182,6 +1233,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523299",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26480,
@@ -1261,6 +1315,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523300",
     "tikName": "Белокурихинская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12751,
@@ -1323,6 +1380,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523301",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105130,
@@ -1437,6 +1497,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523302",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74118,
@@ -1528,6 +1591,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523303",
     "tikName": "Алтайская ",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19006,
@@ -1601,6 +1667,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523304",
     "tikName": "Шипуновская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22312,
@@ -1686,6 +1755,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523305",
     "tikName": "Угловская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8935,
@@ -1755,6 +1827,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523306",
     "tikName": "Рубцовская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95931,
@@ -1863,6 +1938,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523307",
     "tikName": "Рубцовская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17255,
@@ -1940,6 +2018,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523308",
     "tikName": "Романовская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9826,
@@ -2005,6 +2086,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523309",
     "tikName": "Ребрихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17961,
@@ -2080,6 +2164,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523310",
     "tikName": "Поспелихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18186,
@@ -2150,6 +2237,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523311",
     "tikName": "Павловская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32553,
@@ -2234,6 +2324,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523312",
     "tikName": "Новичихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7177,
@@ -2300,6 +2393,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523313",
     "tikName": "Мамонтовская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17437,
@@ -2372,6 +2468,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523314",
     "tikName": "Егорьевская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9937,
@@ -2434,6 +2533,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523315",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14012,
@@ -2502,6 +2604,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523316",
     "tikName": "Барнаул, Вторая Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95660,
@@ -2596,6 +2701,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523317",
     "tikName": "Барнаул, Первая Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86207,
@@ -2688,6 +2796,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523318",
     "tikName": "Алейская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21076,
@@ -2753,6 +2864,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523319",
     "tikName": "Алейская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11743,
@@ -2837,6 +2951,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523320",
     "tikName": "Целинная",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12434,
@@ -2908,6 +3025,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523321",
     "tikName": "Троицкая",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18348,
@@ -2991,6 +3111,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523322",
     "tikName": "Тогульская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6179,
@@ -3054,6 +3177,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523323",
     "tikName": "Сибирская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7607,
@@ -3110,6 +3236,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523324",
     "tikName": "Первомайская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 40702,
@@ -3202,6 +3331,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523325",
     "tikName": "Новоалтайская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58474,
@@ -3282,6 +3414,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523326",
     "tikName": "Кытмановская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9962,
@@ -3356,6 +3491,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523327",
     "tikName": "Косихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13662,
@@ -3431,6 +3569,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523328",
     "tikName": "Зональная",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14550,
@@ -3494,6 +3635,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523329",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34910,
@@ -3564,6 +3708,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523330",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11574,
@@ -3650,6 +3797,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523331",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10758,
@@ -3720,6 +3870,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523332",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4612,
@@ -3776,6 +3929,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523333",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81723,
@@ -3873,6 +4029,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523334",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77682,
@@ -3975,6 +4134,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523335",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67368,
@@ -4062,6 +4224,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523336",
     "tikName": "Яровская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12583,
@@ -4118,6 +4283,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523337",
     "tikName": "Шелаболихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10344,
@@ -4184,6 +4352,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523338",
     "tikName": "Хабарская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12154,
@@ -4255,6 +4426,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523339",
     "tikName": "Тюменцевская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10065,
@@ -4324,6 +4498,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523340",
     "tikName": "Тальменская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33234,
@@ -4417,6 +4594,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523341",
     "tikName": "Табунская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6665,
@@ -4482,6 +4662,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523342",
     "tikName": "Суетская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3218,
@@ -4539,6 +4722,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523343",
     "tikName": "Славгородская городская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29401,
@@ -4618,6 +4804,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523344",
     "tikName": "Родинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13810,
@@ -4689,6 +4878,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523345",
     "tikName": "Панкрушихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9219,
@@ -4759,6 +4951,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523346",
     "tikName": "Немецкая",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11405,
@@ -4823,6 +5018,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523347",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15041,
@@ -4887,6 +5085,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523348",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16245,
@@ -4961,6 +5162,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523349",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8037,
@@ -5025,6 +5229,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523350",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12671,
@@ -5091,6 +5298,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523351",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36979,
@@ -5189,6 +5399,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523352",
     "tikName": "Завьяловская ",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14205,
@@ -5254,6 +5467,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523353",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7905,
@@ -5322,6 +5538,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523354",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21717,
@@ -5399,6 +5618,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523355",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125078,
@@ -5532,6 +5754,9 @@ export const duma_2021_tic_233_region_22 = [
     "ballot": "party",
     "tikTvd": "22220002523356",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100225883454",
+    "regionName": "Алтайский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7654,

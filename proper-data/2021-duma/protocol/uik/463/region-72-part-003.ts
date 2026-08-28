@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "4724003195076",
+    "uikName": "УИК №309",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 414,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 403,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 32,
-      "Абукин Динар Марсельевич": 3,
-      "Брыкин Николай Гаврилович": 319,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 31,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 32,
+      "27220001499469": 3,
+      "27220001498405": 319,
+      "27220001498290": 1,
+      "27220001492853": 31,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "4724003195077",
+    "uikName": "УИК №312",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 376,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 361,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 29,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 286,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 35,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 29,
+      "27220001499469": 1,
+      "27220001498405": 286,
+      "27220001498290": 1,
+      "27220001492853": 35,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "4724003195078",
+    "uikName": "УИК №313",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 253,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 241,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 20,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 190,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 22,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 20,
+      "27220001499469": 1,
+      "27220001498405": 190,
+      "27220001498290": 1,
+      "27220001492853": 22,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "4724003195079",
+    "uikName": "УИК №315",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 411,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 34,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 320,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 33,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 34,
+      "27220001499469": 1,
+      "27220001498405": 320,
+      "27220001498290": 1,
+      "27220001492853": 33,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "4724003195080",
+    "uikName": "УИК №317",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 240,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 230,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 180,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 22,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 19,
+      "27220001499469": 1,
+      "27220001498405": 180,
+      "27220001498290": 1,
+      "27220001492853": 22,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "4724003195081",
+    "uikName": "УИК №318",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 16,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 157,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 19,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 16,
+      "27220001499469": 1,
+      "27220001498405": 157,
+      "27220001498290": 1,
+      "27220001492853": 19,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "4724003195082",
+    "uikName": "УИК №320",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 81,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 8,
+      "27220001499469": 0,
+      "27220001498405": 81,
+      "27220001498290": 0,
+      "27220001492853": 10,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "4724003195083",
+    "uikName": "УИК №321",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 157,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 145,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 12,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 117,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 14,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 12,
+      "27220001499469": 0,
+      "27220001498405": 117,
+      "27220001498290": 0,
+      "27220001492853": 14,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "4724003195084",
+    "uikName": "УИК №322",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 312,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 25,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 247,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 31,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 25,
+      "27220001499469": 1,
+      "27220001498405": 247,
+      "27220001498290": 0,
+      "27220001492853": 31,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "4724003195085",
+    "uikName": "УИК №323",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 465,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 36,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 354,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 44,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 36,
+      "27220001499469": 1,
+      "27220001498405": 354,
+      "27220001498290": 1,
+      "27220001492853": 44,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "4724003195086",
+    "uikName": "УИК №326",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 291,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 275,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 22,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 221,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 27,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 22,
+      "27220001499469": 1,
+      "27220001498405": 221,
+      "27220001498290": 1,
+      "27220001492853": 27,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "4724003195087",
+    "uikName": "УИК №327",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 265,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 255,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 21,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 202,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 24,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 21,
+      "27220001499469": 1,
+      "27220001498405": 202,
+      "27220001498290": 1,
+      "27220001492853": 24,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "4724003195088",
+    "uikName": "УИК №328",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 426,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 415,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 33,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 321,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 40,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 33,
+      "27220001499469": 2,
+      "27220001498405": 321,
+      "27220001498290": 0,
+      "27220001492853": 40,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "4724001206580",
+    "uikName": "УИК №101",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1970,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1987,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 157,
-      "Абукин Динар Марсельевич": 81,
-      "Брыкин Николай Гаврилович": 1151,
-      "Соловьев Сергей Владимирович": 41,
-      "Трубин Глеб Александрович": 180,
-      "Чуйкова Светлана Геннадьевна": 22
+      "27220001497784": 157,
+      "27220001499469": 81,
+      "27220001498405": 1151,
+      "27220001498290": 41,
+      "27220001492853": 180,
+      "27220001499345": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "4724001206581",
+    "uikName": "УИК №102",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1924,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1940,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 187,
-      "Абукин Динар Марсельевич": 22,
-      "Брыкин Николай Гаврилович": 1101,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 210,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 187,
+      "27220001499469": 22,
+      "27220001498405": 1101,
+      "27220001498290": 18,
+      "27220001492853": 210,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "4724001206582",
+    "uikName": "УИК №103",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1543,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1565,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 97,
-      "Абукин Динар Марсельевич": 82,
-      "Брыкин Николай Гаврилович": 705,
-      "Соловьев Сергей Владимирович": 155,
-      "Трубин Глеб Александрович": 125,
-      "Чуйкова Светлана Геннадьевна": 75
+      "27220001497784": 97,
+      "27220001499469": 82,
+      "27220001498405": 705,
+      "27220001498290": 155,
+      "27220001492853": 125,
+      "27220001499345": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "4724001206583",
+    "uikName": "УИК №104",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1004,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1015,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 62,
-      "Абукин Динар Марсельевич": 49,
-      "Брыкин Николай Гаврилович": 524,
-      "Соловьев Сергей Владимирович": 96,
-      "Трубин Глеб Александрович": 80,
-      "Чуйкова Светлана Геннадьевна": 55
+      "27220001497784": 62,
+      "27220001499469": 49,
+      "27220001498405": 524,
+      "27220001498290": 96,
+      "27220001492853": 80,
+      "27220001499345": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "4724001206584",
+    "uikName": "УИК №106",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 214,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 237,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 12,
-      "Абукин Динар Марсельевич": 11,
-      "Брыкин Николай Гаврилович": 151,
-      "Соловьев Сергей Владимирович": 16,
-      "Трубин Глеб Александрович": 16,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 12,
+      "27220001499469": 11,
+      "27220001498405": 151,
+      "27220001498290": 16,
+      "27220001492853": 16,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "4724001206585",
+    "uikName": "УИК №108",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 150,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 152,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 16,
-      "Абукин Динар Марсельевич": 9,
-      "Брыкин Николай Гаврилович": 57,
-      "Соловьев Сергей Владимирович": 17,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 12
+      "27220001497784": 16,
+      "27220001499469": 9,
+      "27220001498405": 57,
+      "27220001498290": 17,
+      "27220001492853": 3,
+      "27220001499345": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "4724001206586",
+    "uikName": "УИК №109",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 569,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 574,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 414,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 17,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 8,
+      "27220001499469": 18,
+      "27220001498405": 414,
+      "27220001498290": 18,
+      "27220001492853": 17,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "4724001206587",
+    "uikName": "УИК №111",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 126,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 11,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 72,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 11,
+      "27220001499469": 6,
+      "27220001498405": 72,
+      "27220001498290": 11,
+      "27220001492853": 7,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "4724001206588",
+    "uikName": "УИК №112",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 553,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 558,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 31,
-      "Брыкин Николай Гаврилович": 347,
-      "Соловьев Сергей Владимирович": 15,
-      "Трубин Глеб Александрович": 37,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 24,
+      "27220001499469": 31,
+      "27220001498405": 347,
+      "27220001498290": 15,
+      "27220001492853": 37,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "4724001206589",
+    "uikName": "УИК №115",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 550,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 554,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 46,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 381,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 58,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 46,
+      "27220001499469": 0,
+      "27220001498405": 381,
+      "27220001498290": 0,
+      "27220001492853": 58,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "4724001206590",
+    "uikName": "УИК №116",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 106,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 62,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 5,
+      "27220001499469": 5,
+      "27220001498405": 62,
+      "27220001498290": 12,
+      "27220001492853": 3,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "4724001206591",
+    "uikName": "УИК №117",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 127,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 128,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 87,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 19,
+      "27220001499469": 0,
+      "27220001498405": 87,
+      "27220001498290": 6,
+      "27220001492853": 8,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "4724001206592",
+    "uikName": "УИК №119",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 104,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 104,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 10,
-      "Абукин Динар Марсельевич": 9,
-      "Брыкин Николай Гаврилович": 51,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 11
+      "27220001497784": 10,
+      "27220001499469": 9,
+      "27220001498405": 51,
+      "27220001498290": 9,
+      "27220001492853": 8,
+      "27220001499345": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "4724001206593",
+    "uikName": "УИК №120",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 685,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 698,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 10,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 513,
-      "Соловьев Сергей Владимирович": 16,
-      "Трубин Глеб Александрович": 12,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 10,
+      "27220001499469": 10,
+      "27220001498405": 513,
+      "27220001498290": 16,
+      "27220001492853": 12,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "4724001206594",
+    "uikName": "УИК №123",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 606,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 619,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 34,
-      "Абукин Динар Марсельевич": 41,
-      "Брыкин Николай Гаврилович": 283,
-      "Соловьев Сергей Владимирович": 61,
-      "Трубин Глеб Александрович": 62,
-      "Чуйкова Светлана Геннадьевна": 55
+      "27220001497784": 34,
+      "27220001499469": 41,
+      "27220001498405": 283,
+      "27220001498290": 61,
+      "27220001492853": 62,
+      "27220001499345": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "4724001206595",
+    "uikName": "УИК №124",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 97,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 3,
-      "Брыкин Николай Гаврилович": 49,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 5,
+      "27220001499469": 3,
+      "27220001498405": 49,
+      "27220001498290": 9,
+      "27220001492853": 3,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "4724001206596",
+    "uikName": "УИК №125",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 177,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 182,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 14,
-      "Абукин Динар Марсельевич": 9,
-      "Брыкин Николай Гаврилович": 59,
-      "Соловьев Сергей Владимирович": 23,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 14,
+      "27220001499469": 9,
+      "27220001498405": 59,
+      "27220001498290": 23,
+      "27220001492853": 8,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "4724001206597",
+    "uikName": "УИК №126",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 254,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 258,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 10,
-      "Абукин Динар Марсельевич": 20,
-      "Брыкин Николай Гаврилович": 119,
-      "Соловьев Сергей Владимирович": 40,
-      "Трубин Глеб Александрович": 19,
-      "Чуйкова Светлана Геннадьевна": 14
+      "27220001497784": 10,
+      "27220001499469": 20,
+      "27220001498405": 119,
+      "27220001498290": 40,
+      "27220001492853": 19,
+      "27220001499345": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "4724001206598",
+    "uikName": "УИК №128",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 551,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 551,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 37,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 286,
-      "Соловьев Сергей Владимирович": 55,
-      "Трубин Глеб Александрович": 85,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 37,
+      "27220001499469": 0,
+      "27220001498405": 286,
+      "27220001498290": 55,
+      "27220001492853": 85,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "4724001206599",
+    "uikName": "УИК №129",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 657,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 667,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 40,
-      "Абукин Динар Марсельевич": 35,
-      "Брыкин Николай Гаврилович": 186,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 52,
-      "Чуйкова Светлана Геннадьевна": 27
+      "27220001497784": 40,
+      "27220001499469": 35,
+      "27220001498405": 186,
+      "27220001498290": 24,
+      "27220001492853": 52,
+      "27220001499345": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "4724001206600",
+    "uikName": "УИК №130",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 71,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 9,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 26,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 9,
+      "27220001499469": 7,
+      "27220001498405": 26,
+      "27220001498290": 3,
+      "27220001492853": 8,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "4724001206601",
+    "uikName": "УИК №132",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 99,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 8,
-      "Брыкин Николай Гаврилович": 44,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 9,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 5,
+      "27220001499469": 8,
+      "27220001498405": 44,
+      "27220001498290": 6,
+      "27220001492853": 9,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "4724001206602",
+    "uikName": "УИК №133",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 89,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 20,
-      "Абукин Динар Марсельевич": 13,
-      "Брыкин Николай Гаврилович": 15,
-      "Соловьев Сергей Владимирович": 10,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 20,
+      "27220001499469": 13,
+      "27220001498405": 15,
+      "27220001498290": 10,
+      "27220001492853": 2,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "4724001206603",
+    "uikName": "УИК №134",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 334,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 338,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 11,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 197,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 14,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 11,
+      "27220001499469": 12,
+      "27220001498405": 197,
+      "27220001498290": 24,
+      "27220001492853": 14,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "4724001206604",
+    "uikName": "УИК №136",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 403,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 402,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 228,
-      "Соловьев Сергей Владимирович": 28,
-      "Трубин Глеб Александрович": 20,
-      "Чуйкова Светлана Геннадьевна": 12
+      "27220001497784": 24,
+      "27220001499469": 23,
+      "27220001498405": 228,
+      "27220001498290": 28,
+      "27220001492853": 20,
+      "27220001499345": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "4724001206605",
+    "uikName": "УИК №137",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 115,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 117,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 10,
-      "Абукин Динар Марсельевич": 8,
-      "Брыкин Николай Гаврилович": 39,
-      "Соловьев Сергей Владимирович": 13,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 10,
+      "27220001499469": 8,
+      "27220001498405": 39,
+      "27220001498290": 13,
+      "27220001492853": 7,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "4724001206606",
+    "uikName": "УИК №138",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 145,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 147,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 2,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 105,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 2,
+      "27220001499469": 4,
+      "27220001498405": 105,
+      "27220001498290": 4,
+      "27220001492853": 10,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "4724001206607",
+    "uikName": "УИК №139",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 216,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 221,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 16,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 160,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 23,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 16,
+      "27220001499469": 2,
+      "27220001498405": 160,
+      "27220001498290": 0,
+      "27220001492853": 23,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "4724001206608",
+    "uikName": "УИК №140",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 466,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 473,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 14,
-      "Брыкин Николай Гаврилович": 284,
-      "Соловьев Сергей Владимирович": 15,
-      "Трубин Глеб Александрович": 26,
-      "Чуйкова Светлана Геннадьевна": 21
+      "27220001497784": 24,
+      "27220001499469": 14,
+      "27220001498405": 284,
+      "27220001498290": 15,
+      "27220001492853": 26,
+      "27220001499345": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "4724001206609",
+    "uikName": "УИК №142",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 94,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 6,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 38,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 6,
+      "27220001499469": 4,
+      "27220001498405": 38,
+      "27220001498290": 9,
+      "27220001492853": 15,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "4724001206610",
+    "uikName": "УИК №143",
     "tikTvd": "27220001482167",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 160,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 1,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 106,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 1,
+      "27220001499469": 4,
+      "27220001498405": 106,
+      "27220001498290": 9,
+      "27220001492853": 7,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:56.553183+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482167&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482167&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2901,
     "uikTvd": "4724029251932",
+    "uikName": "УИК №2901",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 236,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -1832,13 +2188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 4,
-      "Доронин Павел Юрьевич": 3,
-      "Зайцев Артем Николаевич": 21,
-      "Квитка Иван Иванович": 180,
-      "Левченко Иван Григорьевич": 15,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 10
+      "27220001499271": 4,
+      "27220001499418": 3,
+      "27220001495542": 21,
+      "27220001499241": 180,
+      "27220001495574": 15,
+      "27220001499390": 0,
+      "27220001498506": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -1848,6 +2204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -1857,8 +2217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2902,
     "uikTvd": "4724029251933",
+    "uikName": "УИК №2902",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2481,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1874,13 +2238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 69,
-      "Доронин Павел Юрьевич": 168,
-      "Зайцев Артем Николаевич": 59,
-      "Квитка Иван Иванович": 363,
-      "Левченко Иван Григорьевич": 187,
-      "Селиванов Владимир Евгеньевич": 64,
-      "Шарпатов Владимир Ильич": 83
+      "27220001499271": 69,
+      "27220001499418": 168,
+      "27220001495542": 59,
+      "27220001499241": 363,
+      "27220001495574": 187,
+      "27220001499390": 64,
+      "27220001498506": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -1890,6 +2254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -1899,8 +2267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2903,
     "uikTvd": "4724029251934",
+    "uikName": "УИК №2903",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2314,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -1916,13 +2288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 64,
-      "Доронин Павел Юрьевич": 146,
-      "Зайцев Артем Николаевич": 120,
-      "Квитка Иван Иванович": 245,
-      "Левченко Иван Григорьевич": 183,
-      "Селиванов Владимир Евгеньевич": 60,
-      "Шарпатов Владимир Ильич": 114
+      "27220001499271": 64,
+      "27220001499418": 146,
+      "27220001495542": 120,
+      "27220001499241": 245,
+      "27220001495574": 183,
+      "27220001499390": 60,
+      "27220001498506": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -1932,6 +2304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -1941,8 +2317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2904,
     "uikTvd": "4724029251935",
+    "uikName": "УИК №2904",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2105,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1958,13 +2338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 76,
-      "Доронин Павел Юрьевич": 84,
-      "Зайцев Артем Николаевич": 101,
-      "Квитка Иван Иванович": 293,
-      "Левченко Иван Григорьевич": 143,
-      "Селиванов Владимир Евгеньевич": 61,
-      "Шарпатов Владимир Ильич": 83
+      "27220001499271": 76,
+      "27220001499418": 84,
+      "27220001495542": 101,
+      "27220001499241": 293,
+      "27220001495574": 143,
+      "27220001499390": 61,
+      "27220001498506": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -1974,6 +2354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -1983,8 +2367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2905,
     "uikTvd": "4724029251936",
+    "uikName": "УИК №2905",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2356,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2000,13 +2388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 87,
-      "Доронин Павел Юрьевич": 142,
-      "Зайцев Артем Николаевич": 139,
-      "Квитка Иван Иванович": 337,
-      "Левченко Иван Григорьевич": 186,
-      "Селиванов Владимир Евгеньевич": 54,
-      "Шарпатов Владимир Ильич": 137
+      "27220001499271": 87,
+      "27220001499418": 142,
+      "27220001495542": 139,
+      "27220001499241": 337,
+      "27220001495574": 186,
+      "27220001499390": 54,
+      "27220001498506": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2016,6 +2404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2025,8 +2417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2906,
     "uikTvd": "4724029251937",
+    "uikName": "УИК №2906",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2042,13 +2438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 73,
-      "Доронин Павел Юрьевич": 101,
-      "Зайцев Артем Николаевич": 114,
-      "Квитка Иван Иванович": 419,
-      "Левченко Иван Григорьевич": 187,
-      "Селиванов Владимир Евгеньевич": 56,
-      "Шарпатов Владимир Ильич": 112
+      "27220001499271": 73,
+      "27220001499418": 101,
+      "27220001495542": 114,
+      "27220001499241": 419,
+      "27220001495574": 187,
+      "27220001499390": 56,
+      "27220001498506": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2058,6 +2454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2067,8 +2467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2907,
     "uikTvd": "4724029251938",
+    "uikName": "УИК №2907",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -2084,13 +2488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 83,
-      "Доронин Павел Юрьевич": 112,
-      "Зайцев Артем Николаевич": 91,
-      "Квитка Иван Иванович": 320,
-      "Левченко Иван Григорьевич": 152,
-      "Селиванов Владимир Евгеньевич": 58,
-      "Шарпатов Владимир Ильич": 106
+      "27220001499271": 83,
+      "27220001499418": 112,
+      "27220001495542": 91,
+      "27220001499241": 320,
+      "27220001495574": 152,
+      "27220001499390": 58,
+      "27220001498506": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2100,6 +2504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2109,8 +2517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2908,
     "uikTvd": "4724029251939",
+    "uikName": "УИК №2908",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1767,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -2126,13 +2538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 83,
-      "Доронин Павел Юрьевич": 100,
-      "Зайцев Артем Николаевич": 94,
-      "Квитка Иван Иванович": 228,
-      "Левченко Иван Григорьевич": 115,
-      "Селиванов Владимир Евгеньевич": 38,
-      "Шарпатов Владимир Ильич": 106
+      "27220001499271": 83,
+      "27220001499418": 100,
+      "27220001495542": 94,
+      "27220001499241": 228,
+      "27220001495574": 115,
+      "27220001499390": 38,
+      "27220001498506": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2142,6 +2554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2151,8 +2567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2909,
     "uikTvd": "4724029251940",
+    "uikName": "УИК №2909",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2252,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2168,13 +2588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 77,
-      "Доронин Павел Юрьевич": 135,
-      "Зайцев Артем Николаевич": 108,
-      "Квитка Иван Иванович": 344,
-      "Левченко Иван Григорьевич": 177,
-      "Селиванов Владимир Евгеньевич": 59,
-      "Шарпатов Владимир Ильич": 130
+      "27220001499271": 77,
+      "27220001499418": 135,
+      "27220001495542": 108,
+      "27220001499241": 344,
+      "27220001495574": 177,
+      "27220001499390": 59,
+      "27220001498506": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2184,6 +2604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2193,8 +2617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2910,
     "uikTvd": "4724029251941",
+    "uikName": "УИК №2910",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2109,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2210,13 +2638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 77,
-      "Доронин Павел Юрьевич": 131,
-      "Зайцев Артем Николаевич": 126,
-      "Квитка Иван Иванович": 320,
-      "Левченко Иван Григорьевич": 133,
-      "Селиванов Владимир Евгеньевич": 60,
-      "Шарпатов Владимир Ильич": 106
+      "27220001499271": 77,
+      "27220001499418": 131,
+      "27220001495542": 126,
+      "27220001499241": 320,
+      "27220001495574": 133,
+      "27220001499390": 60,
+      "27220001498506": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2226,6 +2654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2235,8 +2667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2911,
     "uikTvd": "4724029251942",
+    "uikName": "УИК №2911",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2252,13 +2688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 91,
-      "Доронин Павел Юрьевич": 119,
-      "Зайцев Артем Николаевич": 100,
-      "Квитка Иван Иванович": 283,
-      "Левченко Иван Григорьевич": 147,
-      "Селиванов Владимир Евгеньевич": 46,
-      "Шарпатов Владимир Ильич": 132
+      "27220001499271": 91,
+      "27220001499418": 119,
+      "27220001495542": 100,
+      "27220001499241": 283,
+      "27220001495574": 147,
+      "27220001499390": 46,
+      "27220001498506": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2268,6 +2704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2277,8 +2717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2912,
     "uikTvd": "4724029251943",
+    "uikName": "УИК №2912",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1939,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -2294,13 +2738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 66,
-      "Доронин Павел Юрьевич": 108,
-      "Зайцев Артем Николаевич": 93,
-      "Квитка Иван Иванович": 270,
-      "Левченко Иван Григорьевич": 135,
-      "Селиванов Владимир Евгеньевич": 49,
-      "Шарпатов Владимир Ильич": 126
+      "27220001499271": 66,
+      "27220001499418": 108,
+      "27220001495542": 93,
+      "27220001499241": 270,
+      "27220001495574": 135,
+      "27220001499390": 49,
+      "27220001498506": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2310,6 +2754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2319,8 +2767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2913,
     "uikTvd": "4724029251944",
+    "uikName": "УИК №2913",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2251,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2336,13 +2788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 92,
-      "Доронин Павел Юрьевич": 134,
-      "Зайцев Артем Николаевич": 117,
-      "Квитка Иван Иванович": 281,
-      "Левченко Иван Григорьевич": 158,
-      "Селиванов Владимир Евгеньевич": 54,
-      "Шарпатов Владимир Ильич": 124
+      "27220001499271": 92,
+      "27220001499418": 134,
+      "27220001495542": 117,
+      "27220001499241": 281,
+      "27220001495574": 158,
+      "27220001499390": 54,
+      "27220001498506": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2352,6 +2804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2361,8 +2817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2914,
     "uikTvd": "4724029251945",
+    "uikName": "УИК №2914",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2378,13 +2838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 103,
-      "Доронин Павел Юрьевич": 149,
-      "Зайцев Артем Николаевич": 104,
-      "Квитка Иван Иванович": 277,
-      "Левченко Иван Григорьевич": 164,
-      "Селиванов Владимир Евгеньевич": 93,
-      "Шарпатов Владимир Ильич": 145
+      "27220001499271": 103,
+      "27220001499418": 149,
+      "27220001495542": 104,
+      "27220001499241": 277,
+      "27220001495574": 164,
+      "27220001499390": 93,
+      "27220001498506": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2394,6 +2854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2403,8 +2867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2915,
     "uikTvd": "4724029251946",
+    "uikName": "УИК №2915",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2153,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2420,13 +2888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 68,
-      "Доронин Павел Юрьевич": 94,
-      "Зайцев Артем Николаевич": 76,
-      "Квитка Иван Иванович": 443,
-      "Левченко Иван Григорьевич": 105,
-      "Селиванов Владимир Евгеньевич": 51,
-      "Шарпатов Владимир Ильич": 108
+      "27220001499271": 68,
+      "27220001499418": 94,
+      "27220001495542": 76,
+      "27220001499241": 443,
+      "27220001495574": 105,
+      "27220001499390": 51,
+      "27220001498506": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2436,6 +2904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2445,8 +2917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2916,
     "uikTvd": "4724029251947",
+    "uikName": "УИК №2916",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2462,13 +2938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 62,
-      "Доронин Павел Юрьевич": 159,
-      "Зайцев Артем Николаевич": 105,
-      "Квитка Иван Иванович": 257,
-      "Левченко Иван Григорьевич": 150,
-      "Селиванов Владимир Евгеньевич": 40,
-      "Шарпатов Владимир Ильич": 121
+      "27220001499271": 62,
+      "27220001499418": 159,
+      "27220001495542": 105,
+      "27220001499241": 257,
+      "27220001495574": 150,
+      "27220001499390": 40,
+      "27220001498506": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2478,6 +2954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2487,8 +2967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2917,
     "uikTvd": "4724029251948",
+    "uikName": "УИК №2917",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2517,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2504,13 +2988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 89,
-      "Доронин Павел Юрьевич": 165,
-      "Зайцев Артем Николаевич": 110,
-      "Квитка Иван Иванович": 291,
-      "Левченко Иван Григорьевич": 170,
-      "Селиванов Владимир Евгеньевич": 57,
-      "Шарпатов Владимир Ильич": 134
+      "27220001499271": 89,
+      "27220001499418": 165,
+      "27220001495542": 110,
+      "27220001499241": 291,
+      "27220001495574": 170,
+      "27220001499390": 57,
+      "27220001498506": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2520,6 +3004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2529,8 +3017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2918,
     "uikTvd": "4724029251949",
+    "uikName": "УИК №2918",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2299,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2546,13 +3038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 82,
-      "Доронин Павел Юрьевич": 162,
-      "Зайцев Артем Николаевич": 94,
-      "Квитка Иван Иванович": 253,
-      "Левченко Иван Григорьевич": 156,
-      "Селиванов Владимир Евгеньевич": 44,
-      "Шарпатов Владимир Ильич": 135
+      "27220001499271": 82,
+      "27220001499418": 162,
+      "27220001495542": 94,
+      "27220001499241": 253,
+      "27220001495574": 156,
+      "27220001499390": 44,
+      "27220001498506": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2562,6 +3054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2571,8 +3067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2919,
     "uikTvd": "4724029251950",
+    "uikName": "УИК №2919",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2443,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2588,13 +3088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 95,
-      "Доронин Павел Юрьевич": 184,
-      "Зайцев Артем Николаевич": 110,
-      "Квитка Иван Иванович": 309,
-      "Левченко Иван Григорьевич": 179,
-      "Селиванов Владимир Евгеньевич": 52,
-      "Шарпатов Владимир Ильич": 146
+      "27220001499271": 95,
+      "27220001499418": 184,
+      "27220001495542": 110,
+      "27220001499241": 309,
+      "27220001495574": 179,
+      "27220001499390": 52,
+      "27220001498506": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2604,6 +3104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2613,8 +3117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2920,
     "uikTvd": "4724029251951",
+    "uikName": "УИК №2920",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2382,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2630,13 +3138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 75,
-      "Доронин Павел Юрьевич": 173,
-      "Зайцев Артем Николаевич": 100,
-      "Квитка Иван Иванович": 415,
-      "Левченко Иван Григорьевич": 171,
-      "Селиванов Владимир Евгеньевич": 57,
-      "Шарпатов Владимир Ильич": 114
+      "27220001499271": 75,
+      "27220001499418": 173,
+      "27220001495542": 100,
+      "27220001499241": 415,
+      "27220001495574": 171,
+      "27220001499390": 57,
+      "27220001498506": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2646,6 +3154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2655,8 +3167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2921,
     "uikTvd": "4724029251952",
+    "uikName": "УИК №2921",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2048,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2672,13 +3188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 76,
-      "Доронин Павел Юрьевич": 140,
-      "Зайцев Артем Николаевич": 112,
-      "Квитка Иван Иванович": 269,
-      "Левченко Иван Григорьевич": 134,
-      "Селиванов Владимир Евгеньевич": 46,
-      "Шарпатов Владимир Ильич": 120
+      "27220001499271": 76,
+      "27220001499418": 140,
+      "27220001495542": 112,
+      "27220001499241": 269,
+      "27220001495574": 134,
+      "27220001499390": 46,
+      "27220001498506": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2688,6 +3204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2697,8 +3217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2922,
     "uikTvd": "4724029251953",
+    "uikName": "УИК №2922",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2140,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2714,13 +3238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 42,
-      "Доронин Павел Юрьевич": 41,
-      "Зайцев Артем Николаевич": 281,
-      "Квитка Иван Иванович": 536,
-      "Левченко Иван Григорьевич": 221,
-      "Селиванов Владимир Евгеньевич": 5,
-      "Шарпатов Владимир Ильич": 180
+      "27220001499271": 42,
+      "27220001499418": 41,
+      "27220001495542": 281,
+      "27220001499241": 536,
+      "27220001495574": 221,
+      "27220001499390": 5,
+      "27220001498506": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2730,6 +3254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2739,8 +3267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2923,
     "uikTvd": "4724029251954",
+    "uikName": "УИК №2923",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2212,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2756,13 +3288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 72,
-      "Доронин Павел Юрьевич": 164,
-      "Зайцев Артем Николаевич": 83,
-      "Квитка Иван Иванович": 248,
-      "Левченко Иван Григорьевич": 183,
-      "Селиванов Владимир Евгеньевич": 44,
-      "Шарпатов Владимир Ильич": 106
+      "27220001499271": 72,
+      "27220001499418": 164,
+      "27220001495542": 83,
+      "27220001499241": 248,
+      "27220001495574": 183,
+      "27220001499390": 44,
+      "27220001498506": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2772,6 +3304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2781,8 +3317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2924,
     "uikTvd": "4724029251955",
+    "uikName": "УИК №2924",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2418,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2798,13 +3338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 69,
-      "Доронин Павел Юрьевич": 214,
-      "Зайцев Артем Николаевич": 117,
-      "Квитка Иван Иванович": 291,
-      "Левченко Иван Григорьевич": 190,
-      "Селиванов Владимир Евгеньевич": 69,
-      "Шарпатов Владимир Ильич": 127
+      "27220001499271": 69,
+      "27220001499418": 214,
+      "27220001495542": 117,
+      "27220001499241": 291,
+      "27220001495574": 190,
+      "27220001499390": 69,
+      "27220001498506": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2814,6 +3354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2823,8 +3367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2925,
     "uikTvd": "4724029251956",
+    "uikName": "УИК №2925",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2354,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -2840,13 +3388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 87,
-      "Доронин Павел Юрьевич": 156,
-      "Зайцев Артем Николаевич": 100,
-      "Квитка Иван Иванович": 278,
-      "Левченко Иван Григорьевич": 195,
-      "Селиванов Владимир Евгеньевич": 62,
-      "Шарпатов Владимир Ильич": 119
+      "27220001499271": 87,
+      "27220001499418": 156,
+      "27220001495542": 100,
+      "27220001499241": 278,
+      "27220001495574": 195,
+      "27220001499390": 62,
+      "27220001498506": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2856,6 +3404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2865,8 +3417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2926,
     "uikTvd": "4724029251957",
+    "uikName": "УИК №2926",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -2882,13 +3438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 64,
-      "Доронин Павел Юрьевич": 150,
-      "Зайцев Артем Николаевич": 186,
-      "Квитка Иван Иванович": 283,
-      "Левченко Иван Григорьевич": 180,
-      "Селиванов Владимир Евгеньевич": 58,
-      "Шарпатов Владимир Ильич": 116
+      "27220001499271": 64,
+      "27220001499418": 150,
+      "27220001495542": 186,
+      "27220001499241": 283,
+      "27220001495574": 180,
+      "27220001499390": 58,
+      "27220001498506": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2898,6 +3454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2907,8 +3467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2927,
     "uikTvd": "4724029251958",
+    "uikName": "УИК №2927",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2924,13 +3488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 70,
-      "Доронин Павел Юрьевич": 162,
-      "Зайцев Артем Николаевич": 104,
-      "Квитка Иван Иванович": 262,
-      "Левченко Иван Григорьевич": 154,
-      "Селиванов Владимир Евгеньевич": 55,
-      "Шарпатов Владимир Ильич": 132
+      "27220001499271": 70,
+      "27220001499418": 162,
+      "27220001495542": 104,
+      "27220001499241": 262,
+      "27220001495574": 154,
+      "27220001499390": 55,
+      "27220001498506": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2940,6 +3504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2949,8 +3517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2928,
     "uikTvd": "4724029251959",
+    "uikName": "УИК №2928",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2187,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2966,13 +3538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 80,
-      "Доронин Павел Юрьевич": 166,
-      "Зайцев Артем Николаевич": 66,
-      "Квитка Иван Иванович": 250,
-      "Левченко Иван Григорьевич": 175,
-      "Селиванов Владимир Евгеньевич": 37,
-      "Шарпатов Владимир Ильич": 102
+      "27220001499271": 80,
+      "27220001499418": 166,
+      "27220001495542": 66,
+      "27220001499241": 250,
+      "27220001495574": 175,
+      "27220001499390": 37,
+      "27220001498506": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -2982,6 +3554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -2991,8 +3567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2929,
     "uikTvd": "4724029251960",
+    "uikName": "УИК №2929",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1183,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -3008,13 +3588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 84,
-      "Доронин Павел Юрьевич": 130,
-      "Зайцев Артем Николаевич": 78,
-      "Квитка Иван Иванович": 469,
-      "Левченко Иван Григорьевич": 187,
-      "Селиванов Владимир Евгеньевич": 70,
-      "Шарпатов Владимир Ильич": 165
+      "27220001499271": 84,
+      "27220001499418": 130,
+      "27220001495542": 78,
+      "27220001499241": 469,
+      "27220001495574": 187,
+      "27220001499390": 70,
+      "27220001498506": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3024,6 +3604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3033,8 +3617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2930,
     "uikTvd": "4724029251961",
+    "uikName": "УИК №2930",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2496,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -3050,13 +3638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 91,
-      "Доронин Павел Юрьевич": 98,
-      "Зайцев Артем Николаевич": 100,
-      "Квитка Иван Иванович": 325,
-      "Левченко Иван Григорьевич": 135,
-      "Селиванов Владимир Евгеньевич": 44,
-      "Шарпатов Владимир Ильич": 99
+      "27220001499271": 91,
+      "27220001499418": 98,
+      "27220001495542": 100,
+      "27220001499241": 325,
+      "27220001495574": 135,
+      "27220001499390": 44,
+      "27220001498506": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3066,6 +3654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3075,8 +3667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2931,
     "uikTvd": "4724029251962",
+    "uikName": "УИК №2931",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2062,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3092,13 +3688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 76,
-      "Доронин Павел Юрьевич": 97,
-      "Зайцев Артем Николаевич": 98,
-      "Квитка Иван Иванович": 365,
-      "Левченко Иван Григорьевич": 117,
-      "Селиванов Владимир Евгеньевич": 60,
-      "Шарпатов Владимир Ильич": 112
+      "27220001499271": 76,
+      "27220001499418": 97,
+      "27220001495542": 98,
+      "27220001499241": 365,
+      "27220001495574": 117,
+      "27220001499390": 60,
+      "27220001498506": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3108,6 +3704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3117,8 +3717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2932,
     "uikTvd": "4724029251963",
+    "uikName": "УИК №2932",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2079,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3134,13 +3738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 80,
-      "Доронин Павел Юрьевич": 120,
-      "Зайцев Артем Николаевич": 103,
-      "Квитка Иван Иванович": 226,
-      "Левченко Иван Григорьевич": 111,
-      "Селиванов Владимир Евгеньевич": 46,
-      "Шарпатов Владимир Ильич": 119
+      "27220001499271": 80,
+      "27220001499418": 120,
+      "27220001495542": 103,
+      "27220001499241": 226,
+      "27220001495574": 111,
+      "27220001499390": 46,
+      "27220001498506": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3150,6 +3754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3159,8 +3767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2933,
     "uikTvd": "4724029251964",
+    "uikName": "УИК №2933",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1960,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3176,13 +3788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 79,
-      "Доронин Павел Юрьевич": 96,
-      "Зайцев Артем Николаевич": 98,
-      "Квитка Иван Иванович": 256,
-      "Левченко Иван Григорьевич": 132,
-      "Селиванов Владимир Евгеньевич": 49,
-      "Шарпатов Владимир Ильич": 156
+      "27220001499271": 79,
+      "27220001499418": 96,
+      "27220001495542": 98,
+      "27220001499241": 256,
+      "27220001495574": 132,
+      "27220001499390": 49,
+      "27220001498506": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3192,6 +3804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3201,8 +3817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2934,
     "uikTvd": "4724029251965",
+    "uikName": "УИК №2934",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1973,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3218,13 +3838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 66,
-      "Доронин Павел Юрьевич": 127,
-      "Зайцев Артем Николаевич": 109,
-      "Квитка Иван Иванович": 469,
-      "Левченко Иван Григорьевич": 128,
-      "Селиванов Владимир Евгеньевич": 60,
-      "Шарпатов Владимир Ильич": 127
+      "27220001499271": 66,
+      "27220001499418": 127,
+      "27220001495542": 109,
+      "27220001499241": 469,
+      "27220001495574": 128,
+      "27220001499390": 60,
+      "27220001498506": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3234,6 +3854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3243,8 +3867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2935,
     "uikTvd": "4724029251966",
+    "uikName": "УИК №2935",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1867,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3260,13 +3888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 20,
-      "Доронин Павел Юрьевич": 67,
-      "Зайцев Артем Николаевич": 101,
-      "Квитка Иван Иванович": 487,
-      "Левченко Иван Григорьевич": 187,
-      "Селиванов Владимир Евгеньевич": 81,
-      "Шарпатов Владимир Ильич": 24
+      "27220001499271": 20,
+      "27220001499418": 67,
+      "27220001495542": 101,
+      "27220001499241": 487,
+      "27220001495574": 187,
+      "27220001499390": 81,
+      "27220001498506": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3276,6 +3904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3285,8 +3917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2936,
     "uikTvd": "4724029251967",
+    "uikName": "УИК №2936",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1963,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3302,13 +3938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 42,
-      "Доронин Павел Юрьевич": 72,
-      "Зайцев Артем Николаевич": 96,
-      "Квитка Иван Иванович": 413,
-      "Левченко Иван Григорьевич": 77,
-      "Селиванов Владимир Евгеньевич": 55,
-      "Шарпатов Владимир Ильич": 21
+      "27220001499271": 42,
+      "27220001499418": 72,
+      "27220001495542": 96,
+      "27220001499241": 413,
+      "27220001495574": 77,
+      "27220001499390": 55,
+      "27220001498506": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3318,6 +3954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3327,8 +3967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2937,
     "uikTvd": "4724029251968",
+    "uikName": "УИК №2937",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1874,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3344,13 +3988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 59,
-      "Доронин Павел Юрьевич": 81,
-      "Зайцев Артем Николаевич": 78,
-      "Квитка Иван Иванович": 212,
-      "Левченко Иван Григорьевич": 84,
-      "Селиванов Владимир Евгеньевич": 38,
-      "Шарпатов Владимир Ильич": 93
+      "27220001499271": 59,
+      "27220001499418": 81,
+      "27220001495542": 78,
+      "27220001499241": 212,
+      "27220001495574": 84,
+      "27220001499390": 38,
+      "27220001498506": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3360,6 +4004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3369,8 +4017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2938,
     "uikTvd": "4724029251969",
+    "uikName": "УИК №2938",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3386,13 +4038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 75,
-      "Доронин Павел Юрьевич": 135,
-      "Зайцев Артем Николаевич": 96,
-      "Квитка Иван Иванович": 396,
-      "Левченко Иван Григорьевич": 147,
-      "Селиванов Владимир Евгеньевич": 53,
-      "Шарпатов Владимир Ильич": 136
+      "27220001499271": 75,
+      "27220001499418": 135,
+      "27220001495542": 96,
+      "27220001499241": 396,
+      "27220001495574": 147,
+      "27220001499390": 53,
+      "27220001498506": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3402,6 +4054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3411,8 +4067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2939,
     "uikTvd": "4724029251970",
+    "uikName": "УИК №2939",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2455,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -3428,13 +4088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 112,
-      "Доронин Павел Юрьевич": 179,
-      "Зайцев Артем Николаевич": 111,
-      "Квитка Иван Иванович": 501,
-      "Левченко Иван Григорьевич": 398,
-      "Селиванов Владимир Евгеньевич": 106,
-      "Шарпатов Владимир Ильич": 68
+      "27220001499271": 112,
+      "27220001499418": 179,
+      "27220001495542": 111,
+      "27220001499241": 501,
+      "27220001495574": 398,
+      "27220001499390": 106,
+      "27220001498506": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3444,6 +4104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3453,8 +4117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2940,
     "uikTvd": "4724029251971",
+    "uikName": "УИК №2940",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2301,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3470,13 +4138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 82,
-      "Доронин Павел Юрьевич": 125,
-      "Зайцев Артем Николаевич": 114,
-      "Квитка Иван Иванович": 459,
-      "Левченко Иван Григорьевич": 150,
-      "Селиванов Владимир Евгеньевич": 59,
-      "Шарпатов Владимир Ильич": 137
+      "27220001499271": 82,
+      "27220001499418": 125,
+      "27220001495542": 114,
+      "27220001499241": 459,
+      "27220001495574": 150,
+      "27220001499390": 59,
+      "27220001498506": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3486,6 +4154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3495,8 +4167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2941,
     "uikTvd": "4724029251972",
+    "uikName": "УИК №2941",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2109,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3512,13 +4188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 82,
-      "Доронин Павел Юрьевич": 136,
-      "Зайцев Артем Николаевич": 96,
-      "Квитка Иван Иванович": 308,
-      "Левченко Иван Григорьевич": 161,
-      "Селиванов Владимир Евгеньевич": 79,
-      "Шарпатов Владимир Ильич": 144
+      "27220001499271": 82,
+      "27220001499418": 136,
+      "27220001495542": 96,
+      "27220001499241": 308,
+      "27220001495574": 161,
+      "27220001499390": 79,
+      "27220001498506": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3528,6 +4204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3537,8 +4217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2942,
     "uikTvd": "4724029251973",
+    "uikName": "УИК №2942",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2388,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3554,13 +4238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 89,
-      "Доронин Павел Юрьевич": 152,
-      "Зайцев Артем Николаевич": 118,
-      "Квитка Иван Иванович": 455,
-      "Левченко Иван Григорьевич": 174,
-      "Селиванов Владимир Евгеньевич": 78,
-      "Шарпатов Владимир Ильич": 153
+      "27220001499271": 89,
+      "27220001499418": 152,
+      "27220001495542": 118,
+      "27220001499241": 455,
+      "27220001495574": 174,
+      "27220001499390": 78,
+      "27220001498506": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3570,6 +4254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3579,8 +4267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2943,
     "uikTvd": "4724029251974",
+    "uikName": "УИК №2943",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1198,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3596,13 +4288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 39,
-      "Доронин Павел Юрьевич": 78,
-      "Зайцев Артем Николаевич": 69,
-      "Квитка Иван Иванович": 287,
-      "Левченко Иван Григорьевич": 66,
-      "Селиванов Владимир Евгеньевич": 19,
-      "Шарпатов Владимир Ильич": 57
+      "27220001499271": 39,
+      "27220001499418": 78,
+      "27220001495542": 69,
+      "27220001499241": 287,
+      "27220001495574": 66,
+      "27220001499390": 19,
+      "27220001498506": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3612,6 +4304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3621,8 +4317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2944,
     "uikTvd": "4724029251975",
+    "uikName": "УИК №2944",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2427,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3638,13 +4338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 89,
-      "Доронин Павел Юрьевич": 123,
-      "Зайцев Артем Николаевич": 95,
-      "Квитка Иван Иванович": 551,
-      "Левченко Иван Григорьевич": 180,
-      "Селиванов Владимир Евгеньевич": 65,
-      "Шарпатов Владимир Ильич": 166
+      "27220001499271": 89,
+      "27220001499418": 123,
+      "27220001495542": 95,
+      "27220001499241": 551,
+      "27220001495574": 180,
+      "27220001499390": 65,
+      "27220001498506": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3654,6 +4354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3663,8 +4367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2945,
     "uikTvd": "4724029251976",
+    "uikName": "УИК №2945",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2289,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -3680,13 +4388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 92,
-      "Доронин Павел Юрьевич": 197,
-      "Зайцев Артем Николаевич": 202,
-      "Квитка Иван Иванович": 659,
-      "Левченко Иван Григорьевич": 202,
-      "Селиванов Владимир Евгеньевич": 61,
-      "Шарпатов Владимир Ильич": 69
+      "27220001499271": 92,
+      "27220001499418": 197,
+      "27220001495542": 202,
+      "27220001499241": 659,
+      "27220001495574": 202,
+      "27220001499390": 61,
+      "27220001498506": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3696,6 +4404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3705,8 +4417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2946,
     "uikTvd": "4724029251977",
+    "uikName": "УИК №2946",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1347,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -3722,13 +4438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 43,
-      "Доронин Павел Юрьевич": 72,
-      "Зайцев Артем Николаевич": 49,
-      "Квитка Иван Иванович": 187,
-      "Левченко Иван Григорьевич": 95,
-      "Селиванов Владимир Евгеньевич": 24,
-      "Шарпатов Владимир Ильич": 53
+      "27220001499271": 43,
+      "27220001499418": 72,
+      "27220001495542": 49,
+      "27220001499241": 187,
+      "27220001495574": 95,
+      "27220001499390": 24,
+      "27220001498506": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3738,6 +4454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3747,8 +4467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2947,
     "uikTvd": "4724029251978",
+    "uikName": "УИК №2947",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2172,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3764,13 +4488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 83,
-      "Доронин Павел Юрьевич": 153,
-      "Зайцев Артем Николаевич": 129,
-      "Квитка Иван Иванович": 371,
-      "Левченко Иван Григорьевич": 158,
-      "Селиванов Владимир Евгеньевич": 55,
-      "Шарпатов Владимир Ильич": 136
+      "27220001499271": 83,
+      "27220001499418": 153,
+      "27220001495542": 129,
+      "27220001499241": 371,
+      "27220001495574": 158,
+      "27220001499390": 55,
+      "27220001498506": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3780,6 +4504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3789,8 +4517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2948,
     "uikTvd": "4724029251979",
+    "uikName": "УИК №2948",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2290,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -3806,13 +4538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 73,
-      "Доронин Павел Юрьевич": 150,
-      "Зайцев Артем Николаевич": 91,
-      "Квитка Иван Иванович": 242,
-      "Левченко Иван Григорьевич": 191,
-      "Селиванов Владимир Евгеньевич": 55,
-      "Шарпатов Владимир Ильич": 162
+      "27220001499271": 73,
+      "27220001499418": 150,
+      "27220001495542": 91,
+      "27220001499241": 242,
+      "27220001495574": 191,
+      "27220001499390": 55,
+      "27220001498506": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3822,6 +4554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3831,8 +4567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2949,
     "uikTvd": "4724029251980",
+    "uikName": "УИК №2949",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2121,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3848,13 +4588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 65,
-      "Доронин Павел Юрьевич": 120,
-      "Зайцев Артем Николаевич": 100,
-      "Квитка Иван Иванович": 225,
-      "Левченко Иван Григорьевич": 150,
-      "Селиванов Владимир Евгеньевич": 65,
-      "Шарпатов Владимир Ильич": 159
+      "27220001499271": 65,
+      "27220001499418": 120,
+      "27220001495542": 100,
+      "27220001499241": 225,
+      "27220001495574": 150,
+      "27220001499390": 65,
+      "27220001498506": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3864,6 +4604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3873,8 +4617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2950,
     "uikTvd": "4724029251981",
+    "uikName": "УИК №2950",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2098,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3890,13 +4638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 49,
-      "Доронин Павел Юрьевич": 131,
-      "Зайцев Артем Николаевич": 117,
-      "Квитка Иван Иванович": 470,
-      "Левченко Иван Григорьевич": 194,
-      "Селиванов Владимир Евгеньевич": 46,
-      "Шарпатов Владимир Ильич": 120
+      "27220001499271": 49,
+      "27220001499418": 131,
+      "27220001495542": 117,
+      "27220001499241": 470,
+      "27220001495574": 194,
+      "27220001499390": 46,
+      "27220001498506": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3906,6 +4654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3915,8 +4667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2951,
     "uikTvd": "4724029251982",
+    "uikName": "УИК №2951",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2064,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3932,13 +4688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 59,
-      "Доронин Павел Юрьевич": 123,
-      "Зайцев Артем Николаевич": 56,
-      "Квитка Иван Иванович": 308,
-      "Левченко Иван Григорьевич": 156,
-      "Селиванов Владимир Евгеньевич": 42,
-      "Шарпатов Владимир Ильич": 150
+      "27220001499271": 59,
+      "27220001499418": 123,
+      "27220001495542": 56,
+      "27220001499241": 308,
+      "27220001495574": 156,
+      "27220001499390": 42,
+      "27220001498506": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3948,6 +4704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3957,8 +4717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2952,
     "uikTvd": "4724029251983",
+    "uikName": "УИК №2952",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1996,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3974,13 +4738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 70,
-      "Доронин Павел Юрьевич": 112,
-      "Зайцев Артем Николаевич": 87,
-      "Квитка Иван Иванович": 346,
-      "Левченко Иван Григорьевич": 140,
-      "Селиванов Владимир Евгеньевич": 35,
-      "Шарпатов Владимир Ильич": 150
+      "27220001499271": 70,
+      "27220001499418": 112,
+      "27220001495542": 87,
+      "27220001499241": 346,
+      "27220001495574": 140,
+      "27220001499390": 35,
+      "27220001498506": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -3990,6 +4754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -3999,8 +4767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2953,
     "uikTvd": "4724029251984",
+    "uikName": "УИК №2953",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2096,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4016,13 +4788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 83,
-      "Доронин Павел Юрьевич": 188,
-      "Зайцев Артем Николаевич": 119,
-      "Квитка Иван Иванович": 412,
-      "Левченко Иван Григорьевич": 162,
-      "Селиванов Владимир Евгеньевич": 52,
-      "Шарпатов Владимир Ильич": 141
+      "27220001499271": 83,
+      "27220001499418": 188,
+      "27220001495542": 119,
+      "27220001499241": 412,
+      "27220001495574": 162,
+      "27220001499390": 52,
+      "27220001498506": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4032,6 +4804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4041,8 +4817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2954,
     "uikTvd": "4724029251985",
+    "uikName": "УИК №2954",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2133,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4058,13 +4838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 54,
-      "Доронин Павел Юрьевич": 146,
-      "Зайцев Артем Николаевич": 99,
-      "Квитка Иван Иванович": 350,
-      "Левченко Иван Григорьевич": 134,
-      "Селиванов Владимир Евгеньевич": 40,
-      "Шарпатов Владимир Ильич": 10
+      "27220001499271": 54,
+      "27220001499418": 146,
+      "27220001495542": 99,
+      "27220001499241": 350,
+      "27220001495574": 134,
+      "27220001499390": 40,
+      "27220001498506": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4074,6 +4854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4083,8 +4867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2955,
     "uikTvd": "4724029251986",
+    "uikName": "УИК №2955",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2113,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -4100,13 +4888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 69,
-      "Доронин Павел Юрьевич": 141,
-      "Зайцев Артем Николаевич": 72,
-      "Квитка Иван Иванович": 201,
-      "Левченко Иван Григорьевич": 215,
-      "Селиванов Владимир Евгеньевич": 49,
-      "Шарпатов Владимир Ильич": 95
+      "27220001499271": 69,
+      "27220001499418": 141,
+      "27220001495542": 72,
+      "27220001499241": 201,
+      "27220001495574": 215,
+      "27220001499390": 49,
+      "27220001498506": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4116,6 +4904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4125,8 +4917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2956,
     "uikTvd": "4724029251987",
+    "uikName": "УИК №2956",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2024,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -4142,13 +4938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 63,
-      "Доронин Павел Юрьевич": 116,
-      "Зайцев Артем Николаевич": 81,
-      "Квитка Иван Иванович": 221,
-      "Левченко Иван Григорьевич": 128,
-      "Селиванов Владимир Евгеньевич": 46,
-      "Шарпатов Владимир Ильич": 87
+      "27220001499271": 63,
+      "27220001499418": 116,
+      "27220001495542": 81,
+      "27220001499241": 221,
+      "27220001495574": 128,
+      "27220001499390": 46,
+      "27220001498506": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4158,6 +4954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4167,8 +4967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2957,
     "uikTvd": "4724029251988",
+    "uikName": "УИК №2957",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2223,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4184,13 +4988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 58,
-      "Доронин Павел Юрьевич": 172,
-      "Зайцев Артем Николаевич": 86,
-      "Квитка Иван Иванович": 246,
-      "Левченко Иван Григорьевич": 142,
-      "Селиванов Владимир Евгеньевич": 44,
-      "Шарпатов Владимир Ильич": 91
+      "27220001499271": 58,
+      "27220001499418": 172,
+      "27220001495542": 86,
+      "27220001499241": 246,
+      "27220001495574": 142,
+      "27220001499390": 44,
+      "27220001498506": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4200,6 +5004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4209,8 +5017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2958,
     "uikTvd": "4724029251989",
+    "uikName": "УИК №2958",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2298,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4226,13 +5038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 62,
-      "Доронин Павел Юрьевич": 157,
-      "Зайцев Артем Николаевич": 109,
-      "Квитка Иван Иванович": 292,
-      "Левченко Иван Григорьевич": 189,
-      "Селиванов Владимир Евгеньевич": 47,
-      "Шарпатов Владимир Ильич": 110
+      "27220001499271": 62,
+      "27220001499418": 157,
+      "27220001495542": 109,
+      "27220001499241": 292,
+      "27220001495574": 189,
+      "27220001499390": 47,
+      "27220001498506": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4242,6 +5054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4251,8 +5067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2959,
     "uikTvd": "4724029251990",
+    "uikName": "УИК №2959",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2353,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4268,13 +5088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 67,
-      "Доронин Павел Юрьевич": 209,
-      "Зайцев Артем Николаевич": 91,
-      "Квитка Иван Иванович": 663,
-      "Левченко Иван Григорьевич": 274,
-      "Селиванов Владимир Евгеньевич": 35,
-      "Шарпатов Владимир Ильич": 72
+      "27220001499271": 67,
+      "27220001499418": 209,
+      "27220001495542": 91,
+      "27220001499241": 663,
+      "27220001495574": 274,
+      "27220001499390": 35,
+      "27220001498506": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4284,6 +5104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4293,8 +5117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2960,
     "uikTvd": "4724029251991",
+    "uikName": "УИК №2960",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4310,13 +5138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 70,
-      "Доронин Павел Юрьевич": 124,
-      "Зайцев Артем Николаевич": 79,
-      "Квитка Иван Иванович": 783,
-      "Левченко Иван Григорьевич": 136,
-      "Селиванов Владимир Евгеньевич": 37,
-      "Шарпатов Владимир Ильич": 109
+      "27220001499271": 70,
+      "27220001499418": 124,
+      "27220001495542": 79,
+      "27220001499241": 783,
+      "27220001495574": 136,
+      "27220001499390": 37,
+      "27220001498506": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4326,6 +5154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4335,8 +5167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2961,
     "uikTvd": "4724029251992",
+    "uikName": "УИК №2961",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2443,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -4352,13 +5188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 60,
-      "Доронин Павел Юрьевич": 197,
-      "Зайцев Артем Николаевич": 122,
-      "Квитка Иван Иванович": 349,
-      "Левченко Иван Григорьевич": 160,
-      "Селиванов Владимир Евгеньевич": 43,
-      "Шарпатов Владимир Ильич": 103
+      "27220001499271": 60,
+      "27220001499418": 197,
+      "27220001495542": 122,
+      "27220001499241": 349,
+      "27220001495574": 160,
+      "27220001499390": 43,
+      "27220001498506": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4368,6 +5204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4377,8 +5217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2962,
     "uikTvd": "4724029251993",
+    "uikName": "УИК №2962",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1709,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4394,13 +5238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 30,
-      "Доронин Павел Юрьевич": 123,
-      "Зайцев Артем Николаевич": 63,
-      "Квитка Иван Иванович": 121,
-      "Левченко Иван Григорьевич": 125,
-      "Селиванов Владимир Евгеньевич": 24,
-      "Шарпатов Владимир Ильич": 64
+      "27220001499271": 30,
+      "27220001499418": 123,
+      "27220001495542": 63,
+      "27220001499241": 121,
+      "27220001495574": 125,
+      "27220001499390": 24,
+      "27220001498506": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4410,6 +5254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4419,8 +5267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2963,
     "uikTvd": "4724029251994",
+    "uikName": "УИК №2963",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2538,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -4436,13 +5288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 108,
-      "Доронин Павел Юрьевич": 203,
-      "Зайцев Артем Николаевич": 132,
-      "Квитка Иван Иванович": 271,
-      "Левченко Иван Григорьевич": 184,
-      "Селиванов Владимир Евгеньевич": 63,
-      "Шарпатов Владимир Ильич": 136
+      "27220001499271": 108,
+      "27220001499418": 203,
+      "27220001495542": 132,
+      "27220001499241": 271,
+      "27220001495574": 184,
+      "27220001499390": 63,
+      "27220001498506": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4452,6 +5304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4461,8 +5317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2964,
     "uikTvd": "4724029251995",
+    "uikName": "УИК №2964",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4478,13 +5338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 71,
-      "Доронин Павел Юрьевич": 178,
-      "Зайцев Артем Николаевич": 91,
-      "Квитка Иван Иванович": 411,
-      "Левченко Иван Григорьевич": 269,
-      "Селиванов Владимир Евгеньевич": 26,
-      "Шарпатов Владимир Ильич": 34
+      "27220001499271": 71,
+      "27220001499418": 178,
+      "27220001495542": 91,
+      "27220001499241": 411,
+      "27220001495574": 269,
+      "27220001499390": 26,
+      "27220001498506": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4494,6 +5354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4503,8 +5367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2965,
     "uikTvd": "4724029251996",
+    "uikName": "УИК №2965",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4520,13 +5388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 67,
-      "Доронин Павел Юрьевич": 171,
-      "Зайцев Артем Николаевич": 120,
-      "Квитка Иван Иванович": 254,
-      "Левченко Иван Григорьевич": 124,
-      "Селиванов Владимир Евгеньевич": 52,
-      "Шарпатов Владимир Ильич": 121
+      "27220001499271": 67,
+      "27220001499418": 171,
+      "27220001495542": 120,
+      "27220001499241": 254,
+      "27220001495574": 124,
+      "27220001499390": 52,
+      "27220001498506": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4536,6 +5404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4545,8 +5417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2966,
     "uikTvd": "4724029251997",
+    "uikName": "УИК №2966",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2928,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -4562,13 +5438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 89,
-      "Доронин Павел Юрьевич": 243,
-      "Зайцев Артем Николаевич": 150,
-      "Квитка Иван Иванович": 328,
-      "Левченко Иван Григорьевич": 175,
-      "Селиванов Владимир Евгеньевич": 63,
-      "Шарпатов Владимир Ильич": 108
+      "27220001499271": 89,
+      "27220001499418": 243,
+      "27220001495542": 150,
+      "27220001499241": 328,
+      "27220001495574": 175,
+      "27220001499390": 63,
+      "27220001498506": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4578,6 +5454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4587,8 +5467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2967,
     "uikTvd": "4724029251998",
+    "uikName": "УИК №2967",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 789,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -4604,13 +5488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 48,
-      "Доронин Павел Юрьевич": 169,
-      "Зайцев Артем Николаевич": 69,
-      "Квитка Иван Иванович": 244,
-      "Левченко Иван Григорьевич": 131,
-      "Селиванов Владимир Евгеньевич": 32,
-      "Шарпатов Владимир Ильич": 67
+      "27220001499271": 48,
+      "27220001499418": 169,
+      "27220001495542": 69,
+      "27220001499241": 244,
+      "27220001495574": 131,
+      "27220001499390": 32,
+      "27220001498506": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4620,6 +5504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4629,8 +5517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2968,
     "uikTvd": "4724029251999",
+    "uikName": "УИК №2968",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2555,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4646,13 +5538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 103,
-      "Доронин Павел Юрьевич": 208,
-      "Зайцев Артем Николаевич": 136,
-      "Квитка Иван Иванович": 267,
-      "Левченко Иван Григорьевич": 173,
-      "Селиванов Владимир Евгеньевич": 52,
-      "Шарпатов Владимир Ильич": 99
+      "27220001499271": 103,
+      "27220001499418": 208,
+      "27220001495542": 136,
+      "27220001499241": 267,
+      "27220001495574": 173,
+      "27220001499390": 52,
+      "27220001498506": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4662,6 +5554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4671,8 +5567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2969,
     "uikTvd": "4724029252000",
+    "uikName": "УИК №2969",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1918,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4688,13 +5588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 52,
-      "Доронин Павел Юрьевич": 143,
-      "Зайцев Артем Николаевич": 79,
-      "Квитка Иван Иванович": 362,
-      "Левченко Иван Григорьевич": 109,
-      "Селиванов Владимир Евгеньевич": 35,
-      "Шарпатов Владимир Ильич": 71
+      "27220001499271": 52,
+      "27220001499418": 143,
+      "27220001495542": 79,
+      "27220001499241": 362,
+      "27220001495574": 109,
+      "27220001499390": 35,
+      "27220001498506": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4704,6 +5604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4713,8 +5617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2970,
     "uikTvd": "4724029252001",
+    "uikName": "УИК №2970",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 519,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -4730,13 +5638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 20,
-      "Доронин Павел Юрьевич": 39,
-      "Зайцев Артем Николаевич": 25,
-      "Квитка Иван Иванович": 55,
-      "Левченко Иван Григорьевич": 34,
-      "Селиванов Владимир Евгеньевич": 14,
-      "Шарпатов Владимир Ильич": 30
+      "27220001499271": 20,
+      "27220001499418": 39,
+      "27220001495542": 25,
+      "27220001499241": 55,
+      "27220001495574": 34,
+      "27220001499390": 14,
+      "27220001498506": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4746,6 +5654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4755,8 +5667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2971,
     "uikTvd": "4724029252002",
+    "uikName": "УИК №2971",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2023,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -4772,13 +5688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 71,
-      "Доронин Павел Юрьевич": 148,
-      "Зайцев Артем Николаевич": 84,
-      "Квитка Иван Иванович": 473,
-      "Левченко Иван Григорьевич": 162,
-      "Селиванов Владимир Евгеньевич": 71,
-      "Шарпатов Владимир Ильич": 34
+      "27220001499271": 71,
+      "27220001499418": 148,
+      "27220001495542": 84,
+      "27220001499241": 473,
+      "27220001495574": 162,
+      "27220001499390": 71,
+      "27220001498506": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4788,6 +5704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4797,8 +5717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2972,
     "uikTvd": "4724029252003",
+    "uikName": "УИК №2972",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1941,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -4814,13 +5738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 39,
-      "Доронин Павел Юрьевич": 115,
-      "Зайцев Артем Николаевич": 77,
-      "Квитка Иван Иванович": 154,
-      "Левченко Иван Григорьевич": 129,
-      "Селиванов Владимир Евгеньевич": 31,
-      "Шарпатов Владимир Ильич": 66
+      "27220001499271": 39,
+      "27220001499418": 115,
+      "27220001495542": 77,
+      "27220001499241": 154,
+      "27220001495574": 129,
+      "27220001499390": 31,
+      "27220001498506": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4830,6 +5754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4839,8 +5767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2973,
     "uikTvd": "4724029257584",
+    "uikName": "УИК №2973",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -4856,13 +5788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 2,
-      "Доронин Павел Юрьевич": 1,
-      "Зайцев Артем Николаевич": 1,
-      "Квитка Иван Иванович": 54,
-      "Левченко Иван Григорьевич": 1,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 1
+      "27220001499271": 2,
+      "27220001499418": 1,
+      "27220001495542": 1,
+      "27220001499241": 54,
+      "27220001495574": 1,
+      "27220001499390": 0,
+      "27220001498506": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4872,6 +5804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4881,8 +5817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2974,
     "uikTvd": "4724029257585",
+    "uikName": "УИК №2974",
     "tikTvd": "27220001482168",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -4898,13 +5838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 1,
-      "Доронин Павел Юрьевич": 3,
-      "Зайцев Артем Николаевич": 2,
-      "Квитка Иван Иванович": 59,
-      "Левченко Иван Григорьевич": 1,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 0
+      "27220001499271": 1,
+      "27220001499418": 3,
+      "27220001495542": 2,
+      "27220001499241": 59,
+      "27220001495574": 1,
+      "27220001499390": 0,
+      "27220001498506": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
@@ -4914,6 +5854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.510970+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482168&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482168&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4923,8 +5867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2701,
     "uikTvd": "4724024161386",
+    "uikName": "УИК №2701",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1567,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1535,
@@ -4940,13 +5888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 34,
-      "Доронин Павел Юрьевич": 39,
-      "Зайцев Артем Николаевич": 153,
-      "Квитка Иван Иванович": 645,
-      "Левченко Иван Григорьевич": 149,
-      "Селиванов Владимир Евгеньевич": 18,
-      "Шарпатов Владимир Ильич": 23
+      "27220001499271": 34,
+      "27220001499418": 39,
+      "27220001495542": 153,
+      "27220001499241": 645,
+      "27220001495574": 149,
+      "27220001499390": 18,
+      "27220001498506": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -4956,6 +5904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -4965,8 +5917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2702,
     "uikTvd": "4724024161387",
+    "uikName": "УИК №2702",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1547,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1565,
@@ -4982,13 +5938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 65,
-      "Доронин Павел Юрьевич": 64,
-      "Зайцев Артем Николаевич": 83,
-      "Квитка Иван Иванович": 332,
-      "Левченко Иван Григорьевич": 80,
-      "Селиванов Владимир Евгеньевич": 44,
-      "Шарпатов Владимир Ильич": 66
+      "27220001499271": 65,
+      "27220001499418": 64,
+      "27220001495542": 83,
+      "27220001499241": 332,
+      "27220001495574": 80,
+      "27220001499390": 44,
+      "27220001498506": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -4998,6 +5954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5007,8 +5967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2703,
     "uikTvd": "4724024161388",
+    "uikName": "УИК №2703",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1436,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1480,
@@ -5024,13 +5988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 77,
-      "Доронин Павел Юрьевич": 63,
-      "Зайцев Артем Николаевич": 82,
-      "Квитка Иван Иванович": 371,
-      "Левченко Иван Григорьевич": 83,
-      "Селиванов Владимир Евгеньевич": 37,
-      "Шарпатов Владимир Ильич": 71
+      "27220001499271": 77,
+      "27220001499418": 63,
+      "27220001495542": 82,
+      "27220001499241": 371,
+      "27220001495574": 83,
+      "27220001499390": 37,
+      "27220001498506": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5040,6 +6004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5049,8 +6017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2704,
     "uikTvd": "4724024161389",
+    "uikName": "УИК №2704",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1382,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1410,
@@ -5066,13 +6038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 81,
-      "Доронин Павел Юрьевич": 52,
-      "Зайцев Артем Николаевич": 73,
-      "Квитка Иван Иванович": 579,
-      "Левченко Иван Григорьевич": 64,
-      "Селиванов Владимир Евгеньевич": 48,
-      "Шарпатов Владимир Ильич": 81
+      "27220001499271": 81,
+      "27220001499418": 52,
+      "27220001495542": 73,
+      "27220001499241": 579,
+      "27220001495574": 64,
+      "27220001499390": 48,
+      "27220001498506": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5082,6 +6054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5091,8 +6067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2705,
     "uikTvd": "4724024161390",
+    "uikName": "УИК №2705",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1377,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1415,
@@ -5108,13 +6088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 24,
-      "Доронин Павел Юрьевич": 45,
-      "Зайцев Артем Николаевич": 243,
-      "Квитка Иван Иванович": 480,
-      "Левченко Иван Григорьевич": 172,
-      "Селиванов Владимир Евгеньевич": 54,
-      "Шарпатов Владимир Ильич": 160
+      "27220001499271": 24,
+      "27220001499418": 45,
+      "27220001495542": 243,
+      "27220001499241": 480,
+      "27220001495574": 172,
+      "27220001499390": 54,
+      "27220001498506": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5124,6 +6104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5133,8 +6117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2706,
     "uikTvd": "4724024161391",
+    "uikName": "УИК №2706",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1208,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1230,
@@ -5150,13 +6138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 53,
-      "Доронин Павел Юрьевич": 55,
-      "Зайцев Артем Николаевич": 59,
-      "Квитка Иван Иванович": 640,
-      "Левченко Иван Григорьевич": 66,
-      "Селиванов Владимир Евгеньевич": 32,
-      "Шарпатов Владимир Ильич": 54
+      "27220001499271": 53,
+      "27220001499418": 55,
+      "27220001495542": 59,
+      "27220001499241": 640,
+      "27220001495574": 66,
+      "27220001499390": 32,
+      "27220001498506": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5166,6 +6154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5175,8 +6167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2707,
     "uikTvd": "4724024161392",
+    "uikName": "УИК №2707",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1235,
@@ -5192,13 +6188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 28,
-      "Доронин Павел Юрьевич": 58,
-      "Зайцев Артем Николаевич": 54,
-      "Квитка Иван Иванович": 297,
-      "Левченко Иван Григорьевич": 75,
-      "Селиванов Владимир Евгеньевич": 37,
-      "Шарпатов Владимир Ильич": 66
+      "27220001499271": 28,
+      "27220001499418": 58,
+      "27220001495542": 54,
+      "27220001499241": 297,
+      "27220001495574": 75,
+      "27220001499390": 37,
+      "27220001498506": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5208,6 +6204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5217,8 +6217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2708,
     "uikTvd": "4724024161393",
+    "uikName": "УИК №2708",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1268,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -5234,13 +6238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 46,
-      "Доронин Павел Юрьевич": 60,
-      "Зайцев Артем Николаевич": 65,
-      "Квитка Иван Иванович": 258,
-      "Левченко Иван Григорьевич": 56,
-      "Селиванов Владимир Евгеньевич": 44,
-      "Шарпатов Владимир Ильич": 93
+      "27220001499271": 46,
+      "27220001499418": 60,
+      "27220001495542": 65,
+      "27220001499241": 258,
+      "27220001495574": 56,
+      "27220001499390": 44,
+      "27220001498506": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5250,6 +6254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5259,8 +6267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2709,
     "uikTvd": "4724024161394",
+    "uikName": "УИК №2709",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1415,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -5276,13 +6288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 88,
-      "Доронин Павел Юрьевич": 58,
-      "Зайцев Артем Николаевич": 79,
-      "Квитка Иван Иванович": 223,
-      "Левченко Иван Григорьевич": 72,
-      "Селиванов Владимир Евгеньевич": 60,
-      "Шарпатов Владимир Ильич": 69
+      "27220001499271": 88,
+      "27220001499418": 58,
+      "27220001495542": 79,
+      "27220001499241": 223,
+      "27220001495574": 72,
+      "27220001499390": 60,
+      "27220001498506": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5292,6 +6304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5301,8 +6317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2710,
     "uikTvd": "4724024161395",
+    "uikName": "УИК №2710",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1195,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1220,
@@ -5318,13 +6338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 6,
-      "Доронин Павел Юрьевич": 4,
-      "Зайцев Артем Николаевич": 173,
-      "Квитка Иван Иванович": 651,
-      "Левченко Иван Григорьевич": 122,
-      "Селиванов Владимир Евгеньевич": 5,
-      "Шарпатов Владимир Ильич": 60
+      "27220001499271": 6,
+      "27220001499418": 4,
+      "27220001495542": 173,
+      "27220001499241": 651,
+      "27220001495574": 122,
+      "27220001499390": 5,
+      "27220001498506": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5334,6 +6354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5343,8 +6367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2711,
     "uikTvd": "4724024161396",
+    "uikName": "УИК №2711",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1433,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -5360,13 +6388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 63,
-      "Доронин Павел Юрьевич": 73,
-      "Зайцев Артем Николаевич": 85,
-      "Квитка Иван Иванович": 230,
-      "Левченко Иван Григорьевич": 97,
-      "Селиванов Владимир Евгеньевич": 47,
-      "Шарпатов Владимир Ильич": 61
+      "27220001499271": 63,
+      "27220001499418": 73,
+      "27220001495542": 85,
+      "27220001499241": 230,
+      "27220001495574": 97,
+      "27220001499390": 47,
+      "27220001498506": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5376,6 +6404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5385,8 +6417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2712,
     "uikTvd": "4724024161397",
+    "uikName": "УИК №2712",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1418,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1455,
@@ -5402,13 +6438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 25,
-      "Доронин Павел Юрьевич": 18,
-      "Зайцев Артем Николаевич": 181,
-      "Квитка Иван Иванович": 614,
-      "Левченко Иван Григорьевич": 81,
-      "Селиванов Владимир Евгеньевич": 18,
-      "Шарпатов Владимир Ильич": 83
+      "27220001499271": 25,
+      "27220001499418": 18,
+      "27220001495542": 181,
+      "27220001499241": 614,
+      "27220001495574": 81,
+      "27220001499390": 18,
+      "27220001498506": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5418,6 +6454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5427,8 +6467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2713,
     "uikTvd": "4724024161398",
+    "uikName": "УИК №2713",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1190,
@@ -5444,13 +6488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 7,
-      "Доронин Павел Юрьевич": 17,
-      "Зайцев Артем Николаевич": 174,
-      "Квитка Иван Иванович": 630,
-      "Левченко Иван Григорьевич": 58,
-      "Селиванов Владимир Евгеньевич": 11,
-      "Шарпатов Владимир Ильич": 68
+      "27220001499271": 7,
+      "27220001499418": 17,
+      "27220001495542": 174,
+      "27220001499241": 630,
+      "27220001495574": 58,
+      "27220001499390": 11,
+      "27220001498506": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5460,6 +6504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5469,8 +6517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2714,
     "uikTvd": "4724024161399",
+    "uikName": "УИК №2714",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1242,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1230,
@@ -5486,13 +6538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 51,
-      "Доронин Павел Юрьевич": 64,
-      "Зайцев Артем Николаевич": 52,
-      "Квитка Иван Иванович": 371,
-      "Левченко Иван Григорьевич": 67,
-      "Селиванов Владимир Евгеньевич": 39,
-      "Шарпатов Владимир Ильич": 61
+      "27220001499271": 51,
+      "27220001499418": 64,
+      "27220001495542": 52,
+      "27220001499241": 371,
+      "27220001495574": 67,
+      "27220001499390": 39,
+      "27220001498506": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5502,6 +6554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5511,8 +6567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2715,
     "uikTvd": "4724024161400",
+    "uikName": "УИК №2715",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1296,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1325,
@@ -5528,13 +6588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 14,
-      "Доронин Павел Юрьевич": 9,
-      "Зайцев Артем Николаевич": 176,
-      "Квитка Иван Иванович": 682,
-      "Левченко Иван Григорьевич": 101,
-      "Селиванов Владимир Евгеньевич": 7,
-      "Шарпатов Владимир Ильич": 74
+      "27220001499271": 14,
+      "27220001499418": 9,
+      "27220001495542": 176,
+      "27220001499241": 682,
+      "27220001495574": 101,
+      "27220001499390": 7,
+      "27220001498506": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5544,6 +6604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5553,8 +6617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2716,
     "uikTvd": "4724024161401",
+    "uikName": "УИК №2716",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1269,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1285,
@@ -5570,13 +6638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 12,
-      "Доронин Павел Юрьевич": 20,
-      "Зайцев Артем Николаевич": 179,
-      "Квитка Иван Иванович": 631,
-      "Левченко Иван Григорьевич": 105,
-      "Селиванов Владимир Евгеньевич": 31,
-      "Шарпатов Владимир Ильич": 74
+      "27220001499271": 12,
+      "27220001499418": 20,
+      "27220001495542": 179,
+      "27220001499241": 631,
+      "27220001495574": 105,
+      "27220001499390": 31,
+      "27220001498506": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5586,6 +6654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5595,8 +6667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2717,
     "uikTvd": "4724024161402",
+    "uikName": "УИК №2717",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1190,
@@ -5612,13 +6688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 63,
-      "Доронин Павел Юрьевич": 54,
-      "Зайцев Артем Николаевич": 57,
-      "Квитка Иван Иванович": 642,
-      "Левченко Иван Григорьевич": 78,
-      "Селиванов Владимир Евгеньевич": 33,
-      "Шарпатов Владимир Ильич": 65
+      "27220001499271": 63,
+      "27220001499418": 54,
+      "27220001495542": 57,
+      "27220001499241": 642,
+      "27220001495574": 78,
+      "27220001499390": 33,
+      "27220001498506": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5628,6 +6704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5637,8 +6717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2718,
     "uikTvd": "4724024161403",
+    "uikName": "УИК №2718",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1398,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1405,
@@ -5654,13 +6738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 47,
-      "Доронин Павел Юрьевич": 61,
-      "Зайцев Артем Николаевич": 62,
-      "Квитка Иван Иванович": 601,
-      "Левченко Иван Григорьевич": 66,
-      "Селиванов Владимир Евгеньевич": 47,
-      "Шарпатов Владимир Ильич": 56
+      "27220001499271": 47,
+      "27220001499418": 61,
+      "27220001495542": 62,
+      "27220001499241": 601,
+      "27220001495574": 66,
+      "27220001499390": 47,
+      "27220001498506": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5670,6 +6754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5679,8 +6767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2719,
     "uikTvd": "4724024161404",
+    "uikName": "УИК №2719",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1574,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1510,
@@ -5696,13 +6788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 33,
-      "Доронин Павел Юрьевич": 15,
-      "Зайцев Артем Николаевич": 154,
-      "Квитка Иван Иванович": 880,
-      "Левченко Иван Григорьевич": 156,
-      "Селиванов Владимир Евгеньевич": 8,
-      "Шарпатов Владимир Ильич": 24
+      "27220001499271": 33,
+      "27220001499418": 15,
+      "27220001495542": 154,
+      "27220001499241": 880,
+      "27220001495574": 156,
+      "27220001499390": 8,
+      "27220001498506": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5712,6 +6804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5721,8 +6817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2720,
     "uikTvd": "4724024161405",
+    "uikName": "УИК №2720",
     "tikTvd": "27220001482169",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1347,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1385,
@@ -5738,13 +6838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 8,
-      "Доронин Павел Юрьевич": 22,
-      "Зайцев Артем Николаевич": 186,
-      "Квитка Иван Иванович": 713,
-      "Левченко Иван Григорьевич": 119,
-      "Селиванов Владимир Евгеньевич": 6,
-      "Шарпатов Владимир Ильич": 44
+      "27220001499271": 8,
+      "27220001499418": 22,
+      "27220001495542": 186,
+      "27220001499241": 713,
+      "27220001495574": 119,
+      "27220001499390": 6,
+      "27220001498506": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
@@ -5754,6 +6854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509611+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482169&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482169&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5763,8 +6867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2601,
     "uikTvd": "4724028230678",
+    "uikName": "УИК №2601",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 262,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 266,
@@ -5780,13 +6888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 1,
-      "Доронин Павел Юрьевич": 1,
-      "Зайцев Артем Николаевич": 2,
-      "Квитка Иван Иванович": 222,
-      "Левченко Иван Григорьевич": 5,
-      "Селиванов Владимир Евгеньевич": 4,
-      "Шарпатов Владимир Ильич": 4
+      "27220001499271": 1,
+      "27220001499418": 1,
+      "27220001495542": 2,
+      "27220001499241": 222,
+      "27220001495574": 5,
+      "27220001499390": 4,
+      "27220001498506": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -5796,6 +6904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5805,8 +6917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2602,
     "uikTvd": "4724028230679",
+    "uikName": "УИК №2602",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 89,
@@ -5822,13 +6938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 5,
-      "Доронин Павел Юрьевич": 4,
-      "Зайцев Артем Николаевич": 3,
-      "Квитка Иван Иванович": 34,
-      "Левченко Иван Григорьевич": 20,
-      "Селиванов Владимир Евгеньевич": 2,
-      "Шарпатов Владимир Ильич": 6
+      "27220001499271": 5,
+      "27220001499418": 4,
+      "27220001495542": 3,
+      "27220001499241": 34,
+      "27220001495574": 20,
+      "27220001499390": 2,
+      "27220001498506": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -5838,6 +6954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5847,8 +6967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2603,
     "uikTvd": "4724028230680",
+    "uikName": "УИК №2603",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 68,
@@ -5864,13 +6988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 0,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 4,
-      "Квитка Иван Иванович": 46,
-      "Левченко Иван Григорьевич": 11,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 3
+      "27220001499271": 0,
+      "27220001499418": 0,
+      "27220001495542": 4,
+      "27220001499241": 46,
+      "27220001495574": 11,
+      "27220001499390": 0,
+      "27220001498506": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -5880,6 +7004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5889,8 +7017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2604,
     "uikTvd": "4724028230681",
+    "uikName": "УИК №2604",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 679,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 692,
@@ -5906,13 +7038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 13,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 5,
-      "Квитка Иван Иванович": 592,
-      "Левченко Иван Григорьевич": 2,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 1
+      "27220001499271": 13,
+      "27220001499418": 0,
+      "27220001495542": 5,
+      "27220001499241": 592,
+      "27220001495574": 2,
+      "27220001499390": 0,
+      "27220001498506": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -5922,6 +7054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5931,8 +7067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2605,
     "uikTvd": "4724028230682",
+    "uikName": "УИК №2605",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 588,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 591,
@@ -5948,13 +7088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 11,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 8,
-      "Квитка Иван Иванович": 483,
-      "Левченко Иван Григорьевич": 31,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 6
+      "27220001499271": 11,
+      "27220001499418": 0,
+      "27220001495542": 8,
+      "27220001499241": 483,
+      "27220001495574": 31,
+      "27220001499390": 0,
+      "27220001498506": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -5964,6 +7104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -5973,8 +7117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2606,
     "uikTvd": "4724028230683",
+    "uikName": "УИК №2606",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 293,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 299,
@@ -5990,13 +7138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 22,
-      "Доронин Павел Юрьевич": 3,
-      "Зайцев Артем Николаевич": 5,
-      "Квитка Иван Иванович": 217,
-      "Левченко Иван Григорьевич": 10,
-      "Селиванов Владимир Евгеньевич": 3,
-      "Шарпатов Владимир Ильич": 13
+      "27220001499271": 22,
+      "27220001499418": 3,
+      "27220001495542": 5,
+      "27220001499241": 217,
+      "27220001495574": 10,
+      "27220001499390": 3,
+      "27220001498506": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6006,6 +7154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6015,8 +7167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2607,
     "uikTvd": "4724028230684",
+    "uikName": "УИК №2607",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 158,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 159,
@@ -6032,13 +7188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 0,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 0,
-      "Квитка Иван Иванович": 114,
-      "Левченко Иван Григорьевич": 9,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 0
+      "27220001499271": 0,
+      "27220001499418": 0,
+      "27220001495542": 0,
+      "27220001499241": 114,
+      "27220001495574": 9,
+      "27220001499390": 0,
+      "27220001498506": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6048,6 +7204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6057,8 +7217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2608,
     "uikTvd": "4724028230685",
+    "uikName": "УИК №2608",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 156,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 153,
@@ -6074,13 +7238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 0,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 12,
-      "Квитка Иван Иванович": 131,
-      "Левченко Иван Григорьевич": 9,
-      "Селиванов Владимир Евгеньевич": 1,
-      "Шарпатов Владимир Ильич": 0
+      "27220001499271": 0,
+      "27220001499418": 0,
+      "27220001495542": 12,
+      "27220001499241": 131,
+      "27220001495574": 9,
+      "27220001499390": 1,
+      "27220001498506": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6090,6 +7254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6099,8 +7267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2609,
     "uikTvd": "4724028230686",
+    "uikName": "УИК №2609",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 74,
@@ -6116,13 +7288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 1,
-      "Доронин Павел Юрьевич": 2,
-      "Зайцев Артем Николаевич": 3,
-      "Квитка Иван Иванович": 63,
-      "Левченко Иван Григорьевич": 1,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 0
+      "27220001499271": 1,
+      "27220001499418": 2,
+      "27220001495542": 3,
+      "27220001499241": 63,
+      "27220001495574": 1,
+      "27220001499390": 0,
+      "27220001498506": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6132,6 +7304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6141,8 +7317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2610,
     "uikTvd": "4724028230687",
+    "uikName": "УИК №2610",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 379,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 397,
@@ -6158,13 +7338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 22,
-      "Доронин Павел Юрьевич": 12,
-      "Зайцев Артем Николаевич": 28,
-      "Квитка Иван Иванович": 158,
-      "Левченко Иван Григорьевич": 19,
-      "Селиванов Владимир Евгеньевич": 16,
-      "Шарпатов Владимир Ильич": 18
+      "27220001499271": 22,
+      "27220001499418": 12,
+      "27220001495542": 28,
+      "27220001499241": 158,
+      "27220001495574": 19,
+      "27220001499390": 16,
+      "27220001498506": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6174,6 +7354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6183,8 +7367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2611,
     "uikTvd": "4724028230688",
+    "uikName": "УИК №2611",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -6200,13 +7388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 5,
-      "Доронин Павел Юрьевич": 6,
-      "Зайцев Артем Николаевич": 9,
-      "Квитка Иван Иванович": 67,
-      "Левченко Иван Григорьевич": 2,
-      "Селиванов Владимир Евгеньевич": 2,
-      "Шарпатов Владимир Ильич": 3
+      "27220001499271": 5,
+      "27220001499418": 6,
+      "27220001495542": 9,
+      "27220001499241": 67,
+      "27220001495574": 2,
+      "27220001499390": 2,
+      "27220001498506": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6216,6 +7404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6225,8 +7417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2612,
     "uikTvd": "4724028230689",
+    "uikName": "УИК №2612",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 641,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 661,
@@ -6242,13 +7438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 0,
-      "Доронин Павел Юрьевич": 10,
-      "Зайцев Артем Николаевич": 26,
-      "Квитка Иван Иванович": 490,
-      "Левченко Иван Григорьевич": 58,
-      "Селиванов Владимир Евгеньевич": 4,
-      "Шарпатов Владимир Ильич": 2
+      "27220001499271": 0,
+      "27220001499418": 10,
+      "27220001495542": 26,
+      "27220001499241": 490,
+      "27220001495574": 58,
+      "27220001499390": 4,
+      "27220001498506": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6258,6 +7454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6267,8 +7467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2613,
     "uikTvd": "4724028230690",
+    "uikName": "УИК №2613",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 464,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 479,
@@ -6284,13 +7488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 12,
-      "Доронин Павел Юрьевич": 16,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 333,
-      "Левченко Иван Григорьевич": 16,
-      "Селиванов Владимир Евгеньевич": 16,
-      "Шарпатов Владимир Ильич": 15
+      "27220001499271": 12,
+      "27220001499418": 16,
+      "27220001495542": 15,
+      "27220001499241": 333,
+      "27220001495574": 16,
+      "27220001499390": 16,
+      "27220001498506": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6300,6 +7504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6309,8 +7517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2614,
     "uikTvd": "4724028230691",
+    "uikName": "УИК №2614",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 436,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 440,
@@ -6326,13 +7538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 16,
-      "Доронин Павел Юрьевич": 15,
-      "Зайцев Артем Николаевич": 19,
-      "Квитка Иван Иванович": 342,
-      "Левченко Иван Григорьевич": 11,
-      "Селиванов Владимир Евгеньевич": 7,
-      "Шарпатов Владимир Ильич": 7
+      "27220001499271": 16,
+      "27220001499418": 15,
+      "27220001495542": 19,
+      "27220001499241": 342,
+      "27220001495574": 11,
+      "27220001499390": 7,
+      "27220001498506": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6342,6 +7554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6351,8 +7567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2615,
     "uikTvd": "4724028230692",
+    "uikName": "УИК №2615",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 157,
@@ -6368,13 +7588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 18,
-      "Доронин Павел Юрьевич": 7,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 113,
-      "Левченко Иван Григорьевич": 5,
-      "Селиванов Владимир Евгеньевич": 2,
-      "Шарпатов Владимир Ильич": 6
+      "27220001499271": 18,
+      "27220001499418": 7,
+      "27220001495542": 6,
+      "27220001499241": 113,
+      "27220001495574": 5,
+      "27220001499390": 2,
+      "27220001498506": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6384,6 +7604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6393,8 +7617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2616,
     "uikTvd": "4724028230693",
+    "uikName": "УИК №2616",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 583,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 590,
@@ -6410,13 +7638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 48,
-      "Доронин Павел Юрьевич": 18,
-      "Зайцев Артем Николаевич": 53,
-      "Квитка Иван Иванович": 180,
-      "Левченко Иван Григорьевич": 55,
-      "Селиванов Владимир Евгеньевич": 22,
-      "Шарпатов Владимир Ильич": 33
+      "27220001499271": 48,
+      "27220001499418": 18,
+      "27220001495542": 53,
+      "27220001499241": 180,
+      "27220001495574": 55,
+      "27220001499390": 22,
+      "27220001498506": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6426,6 +7654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6435,8 +7667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2617,
     "uikTvd": "4724028230694",
+    "uikName": "УИК №2617",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 313,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 315,
@@ -6452,13 +7688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 18,
-      "Доронин Павел Юрьевич": 16,
-      "Зайцев Артем Николаевич": 22,
-      "Квитка Иван Иванович": 74,
-      "Левченко Иван Григорьевич": 14,
-      "Селиванов Владимир Евгеньевич": 11,
-      "Шарпатов Владимир Ильич": 17
+      "27220001499271": 18,
+      "27220001499418": 16,
+      "27220001495542": 22,
+      "27220001499241": 74,
+      "27220001495574": 14,
+      "27220001499390": 11,
+      "27220001498506": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6468,6 +7704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6477,8 +7717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2618,
     "uikTvd": "4724028230695",
+    "uikName": "УИК №2618",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 848,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 878,
@@ -6494,13 +7738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 53,
-      "Доронин Павел Юрьевич": 55,
-      "Зайцев Артем Николаевич": 87,
-      "Квитка Иван Иванович": 245,
-      "Левченко Иван Григорьевич": 56,
-      "Селиванов Владимир Евгеньевич": 17,
-      "Шарпатов Владимир Ильич": 42
+      "27220001499271": 53,
+      "27220001499418": 55,
+      "27220001495542": 87,
+      "27220001499241": 245,
+      "27220001495574": 56,
+      "27220001499390": 17,
+      "27220001498506": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6510,6 +7754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6519,8 +7767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2619,
     "uikTvd": "4724028230696",
+    "uikName": "УИК №2619",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 250,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 252,
@@ -6536,13 +7788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 31,
-      "Доронин Павел Юрьевич": 9,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 129,
-      "Левченко Иван Григорьевич": 24,
-      "Селиванов Владимир Евгеньевич": 6,
-      "Шарпатов Владимир Ильич": 9
+      "27220001499271": 31,
+      "27220001499418": 9,
+      "27220001495542": 15,
+      "27220001499241": 129,
+      "27220001495574": 24,
+      "27220001499390": 6,
+      "27220001498506": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6552,6 +7804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6561,8 +7817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2620,
     "uikTvd": "4724028230697",
+    "uikName": "УИК №2620",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 273,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 258,
@@ -6578,13 +7838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 1,
-      "Доронин Павел Юрьевич": 2,
-      "Зайцев Артем Николаевич": 23,
-      "Квитка Иван Иванович": 188,
-      "Левченко Иван Григорьевич": 17,
-      "Селиванов Владимир Евгеньевич": 1,
-      "Шарпатов Владимир Ильич": 11
+      "27220001499271": 1,
+      "27220001499418": 2,
+      "27220001495542": 23,
+      "27220001499241": 188,
+      "27220001495574": 17,
+      "27220001499390": 1,
+      "27220001498506": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6594,6 +7854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6603,8 +7867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2621,
     "uikTvd": "4724028230698",
+    "uikName": "УИК №2621",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 616,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 637,
@@ -6620,13 +7888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 33,
-      "Доронин Павел Юрьевич": 31,
-      "Зайцев Артем Николаевич": 29,
-      "Квитка Иван Иванович": 287,
-      "Левченко Иван Григорьевич": 26,
-      "Селиванов Владимир Евгеньевич": 19,
-      "Шарпатов Владимир Ильич": 25
+      "27220001499271": 33,
+      "27220001499418": 31,
+      "27220001495542": 29,
+      "27220001499241": 287,
+      "27220001495574": 26,
+      "27220001499390": 19,
+      "27220001498506": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6636,6 +7904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6645,8 +7917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2622,
     "uikTvd": "4724028230699",
+    "uikName": "УИК №2622",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 165,
@@ -6662,13 +7938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 0,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 8,
-      "Квитка Иван Иванович": 111,
-      "Левченко Иван Григорьевич": 13,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 0
+      "27220001499271": 0,
+      "27220001499418": 0,
+      "27220001495542": 8,
+      "27220001499241": 111,
+      "27220001495574": 13,
+      "27220001499390": 0,
+      "27220001498506": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6678,6 +7954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6687,8 +7967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2623,
     "uikTvd": "4724028230700",
+    "uikName": "УИК №2623",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 295,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 306,
@@ -6704,13 +7988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 6,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 8,
-      "Квитка Иван Иванович": 242,
-      "Левченко Иван Григорьевич": 18,
-      "Селиванов Владимир Евгеньевич": 2,
-      "Шарпатов Владимир Ильич": 1
+      "27220001499271": 6,
+      "27220001499418": 0,
+      "27220001495542": 8,
+      "27220001499241": 242,
+      "27220001495574": 18,
+      "27220001499390": 2,
+      "27220001498506": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6720,6 +8004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6729,8 +8017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2624,
     "uikTvd": "4724028230701",
+    "uikName": "УИК №2624",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 337,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 346,
@@ -6746,13 +8038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 8,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 8,
-      "Квитка Иван Иванович": 260,
-      "Левченко Иван Григорьевич": 23,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 12
+      "27220001499271": 8,
+      "27220001499418": 0,
+      "27220001495542": 8,
+      "27220001499241": 260,
+      "27220001495574": 23,
+      "27220001499390": 0,
+      "27220001498506": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6762,6 +8054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6771,8 +8067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2625,
     "uikTvd": "4724028230702",
+    "uikName": "УИК №2625",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 762,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 786,
@@ -6788,13 +8088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 41,
-      "Доронин Павел Юрьевич": 44,
-      "Зайцев Артем Николаевич": 58,
-      "Квитка Иван Иванович": 384,
-      "Левченко Иван Григорьевич": 45,
-      "Селиванов Владимир Евгеньевич": 24,
-      "Шарпатов Владимир Ильич": 43
+      "27220001499271": 41,
+      "27220001499418": 44,
+      "27220001495542": 58,
+      "27220001499241": 384,
+      "27220001495574": 45,
+      "27220001499390": 24,
+      "27220001498506": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6804,6 +8104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6813,8 +8117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2626,
     "uikTvd": "4724028230703",
+    "uikName": "УИК №2626",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 176,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 181,
@@ -6830,13 +8138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 13,
-      "Доронин Павел Юрьевич": 7,
-      "Зайцев Артем Николаевич": 11,
-      "Квитка Иван Иванович": 111,
-      "Левченко Иван Григорьевич": 10,
-      "Селиванов Владимир Евгеньевич": 3,
-      "Шарпатов Владимир Ильич": 14
+      "27220001499271": 13,
+      "27220001499418": 7,
+      "27220001495542": 11,
+      "27220001499241": 111,
+      "27220001495574": 10,
+      "27220001499390": 3,
+      "27220001498506": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6846,6 +8154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6855,8 +8167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2627,
     "uikTvd": "4724028230704",
+    "uikName": "УИК №2627",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 490,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 501,
@@ -6872,13 +8188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 23,
-      "Доронин Павел Юрьевич": 9,
-      "Зайцев Артем Николаевич": 19,
-      "Квитка Иван Иванович": 334,
-      "Левченко Иван Григорьевич": 17,
-      "Селиванов Владимир Евгеньевич": 13,
-      "Шарпатов Владимир Ильич": 18
+      "27220001499271": 23,
+      "27220001499418": 9,
+      "27220001495542": 19,
+      "27220001499241": 334,
+      "27220001495574": 17,
+      "27220001499390": 13,
+      "27220001498506": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6888,6 +8204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6897,8 +8217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2628,
     "uikTvd": "4724028230705",
+    "uikName": "УИК №2628",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1354,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1235,
@@ -6914,13 +8238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 69,
-      "Доронин Павел Юрьевич": 40,
-      "Зайцев Артем Николаевич": 68,
-      "Квитка Иван Иванович": 658,
-      "Левченко Иван Григорьевич": 70,
-      "Селиванов Владимир Евгеньевич": 32,
-      "Шарпатов Владимир Ильич": 87
+      "27220001499271": 69,
+      "27220001499418": 40,
+      "27220001495542": 68,
+      "27220001499241": 658,
+      "27220001495574": 70,
+      "27220001499390": 32,
+      "27220001498506": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6930,6 +8254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6939,8 +8267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2629,
     "uikTvd": "4724028230706",
+    "uikName": "УИК №2629",
     "tikTvd": "27220001482170",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 532,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 546,
@@ -6956,13 +8288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 17,
-      "Доронин Павел Юрьевич": 4,
-      "Зайцев Артем Николаевич": 44,
-      "Квитка Иван Иванович": 387,
-      "Левченко Иван Григорьевич": 34,
-      "Селиванов Владимир Евгеньевич": 4,
-      "Шарпатов Владимир Ильич": 23
+      "27220001499271": 17,
+      "27220001499418": 4,
+      "27220001495542": 44,
+      "27220001499241": 387,
+      "27220001495574": 34,
+      "27220001499390": 4,
+      "27220001498506": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
@@ -6972,6 +8304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:08:58.509942+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482170&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482170&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -6981,8 +8317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2401,
     "uikTvd": "4724022216071",
+    "uikName": "УИК №2401",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 442,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 445,
@@ -6998,13 +8338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 8,
-      "Доронин Павел Юрьевич": 17,
-      "Зайцев Артем Николаевич": 24,
-      "Квитка Иван Иванович": 280,
-      "Левченко Иван Григорьевич": 15,
-      "Селиванов Владимир Евгеньевич": 17,
-      "Шарпатов Владимир Ильич": 13
+      "27220001499271": 8,
+      "27220001499418": 17,
+      "27220001495542": 24,
+      "27220001499241": 280,
+      "27220001495574": 15,
+      "27220001499390": 17,
+      "27220001498506": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7014,6 +8354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7023,8 +8367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2402,
     "uikTvd": "4724022216072",
+    "uikName": "УИК №2402",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 211,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -7040,13 +8388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 6,
-      "Доронин Павел Юрьевич": 12,
-      "Зайцев Артем Николаевич": 10,
-      "Квитка Иван Иванович": 123,
-      "Левченко Иван Григорьевич": 11,
-      "Селиванов Владимир Евгеньевич": 2,
-      "Шарпатов Владимир Ильич": 8
+      "27220001499271": 6,
+      "27220001499418": 12,
+      "27220001495542": 10,
+      "27220001499241": 123,
+      "27220001495574": 11,
+      "27220001499390": 2,
+      "27220001498506": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7056,6 +8404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7065,8 +8417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2403,
     "uikTvd": "4724022216073",
+    "uikName": "УИК №2403",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 191,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 194,
@@ -7082,13 +8438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 12,
-      "Доронин Павел Юрьевич": 7,
-      "Зайцев Артем Николаевич": 24,
-      "Квитка Иван Иванович": 91,
-      "Левченко Иван Григорьевич": 3,
-      "Селиванов Владимир Евгеньевич": 16,
-      "Шарпатов Владимир Ильич": 6
+      "27220001499271": 12,
+      "27220001499418": 7,
+      "27220001495542": 24,
+      "27220001499241": 91,
+      "27220001495574": 3,
+      "27220001499390": 16,
+      "27220001498506": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7098,6 +8454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7107,8 +8467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2405,
     "uikTvd": "4724022216074",
+    "uikName": "УИК №2405",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 466,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 476,
@@ -7124,13 +8488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 33,
-      "Доронин Павел Юрьевич": 17,
-      "Зайцев Артем Николаевич": 46,
-      "Квитка Иван Иванович": 179,
-      "Левченко Иван Григорьевич": 42,
-      "Селиванов Владимир Евгеньевич": 26,
-      "Шарпатов Владимир Ильич": 22
+      "27220001499271": 33,
+      "27220001499418": 17,
+      "27220001495542": 46,
+      "27220001499241": 179,
+      "27220001495574": 42,
+      "27220001499390": 26,
+      "27220001498506": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7140,6 +8504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7149,8 +8517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2406,
     "uikTvd": "4724022216075",
+    "uikName": "УИК №2406",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 118,
@@ -7166,13 +8538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 5,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 7,
-      "Квитка Иван Иванович": 62,
-      "Левченко Иван Григорьевич": 9,
-      "Селиванов Владимир Евгеньевич": 4,
-      "Шарпатов Владимир Ильич": 1
+      "27220001499271": 5,
+      "27220001499418": 0,
+      "27220001495542": 7,
+      "27220001499241": 62,
+      "27220001495574": 9,
+      "27220001499390": 4,
+      "27220001498506": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7182,6 +8554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7191,8 +8567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2407,
     "uikTvd": "4724022216076",
+    "uikName": "УИК №2407",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 89,
@@ -7208,13 +8588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 5,
-      "Доронин Павел Юрьевич": 2,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 45,
-      "Левченко Иван Григорьевич": 5,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 5
+      "27220001499271": 5,
+      "27220001499418": 2,
+      "27220001495542": 6,
+      "27220001499241": 45,
+      "27220001495574": 5,
+      "27220001499390": 0,
+      "27220001498506": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7224,6 +8604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7233,8 +8617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2408,
     "uikTvd": "4724022216077",
+    "uikName": "УИК №2408",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 713,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 735,
@@ -7250,13 +8638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 21,
-      "Доронин Павел Юрьевич": 44,
-      "Зайцев Артем Николаевич": 66,
-      "Квитка Иван Иванович": 335,
-      "Левченко Иван Григорьевич": 33,
-      "Селиванов Владимир Евгеньевич": 20,
-      "Шарпатов Владимир Ильич": 16
+      "27220001499271": 21,
+      "27220001499418": 44,
+      "27220001495542": 66,
+      "27220001499241": 335,
+      "27220001495574": 33,
+      "27220001499390": 20,
+      "27220001498506": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7266,6 +8654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7275,8 +8667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2409,
     "uikTvd": "4724022216078",
+    "uikName": "УИК №2409",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 215,
@@ -7292,13 +8688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 10,
-      "Доронин Павел Юрьевич": 5,
-      "Зайцев Артем Николаевич": 30,
-      "Квитка Иван Иванович": 77,
-      "Левченко Иван Григорьевич": 12,
-      "Селиванов Владимир Евгеньевич": 5,
-      "Шарпатов Владимир Ильич": 14
+      "27220001499271": 10,
+      "27220001499418": 5,
+      "27220001495542": 30,
+      "27220001499241": 77,
+      "27220001495574": 12,
+      "27220001499390": 5,
+      "27220001498506": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7308,6 +8704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7317,8 +8717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2410,
     "uikTvd": "4724022216079",
+    "uikName": "УИК №2410",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 108,
@@ -7334,13 +8738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 3,
-      "Доронин Павел Юрьевич": 4,
-      "Зайцев Артем Николаевич": 7,
-      "Квитка Иван Иванович": 63,
-      "Левченко Иван Григорьевич": 3,
-      "Селиванов Владимир Евгеньевич": 1,
-      "Шарпатов Владимир Ильич": 2
+      "27220001499271": 3,
+      "27220001499418": 4,
+      "27220001495542": 7,
+      "27220001499241": 63,
+      "27220001495574": 3,
+      "27220001499390": 1,
+      "27220001498506": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7350,6 +8754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7359,8 +8767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2411,
     "uikTvd": "4724022216080",
+    "uikName": "УИК №2411",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 139,
@@ -7376,13 +8788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 4,
-      "Доронин Павел Юрьевич": 5,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 72,
-      "Левченко Иван Григорьевич": 7,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 5
+      "27220001499271": 4,
+      "27220001499418": 5,
+      "27220001495542": 6,
+      "27220001499241": 72,
+      "27220001495574": 7,
+      "27220001499390": 0,
+      "27220001498506": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7392,6 +8804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7401,8 +8817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2412,
     "uikTvd": "4724022216081",
+    "uikName": "УИК №2412",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 107,
@@ -7418,13 +8838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 5,
-      "Доронин Павел Юрьевич": 3,
-      "Зайцев Артем Николаевич": 20,
-      "Квитка Иван Иванович": 48,
-      "Левченко Иван Григорьевич": 3,
-      "Селиванов Владимир Евгеньевич": 1,
-      "Шарпатов Владимир Ильич": 0
+      "27220001499271": 5,
+      "27220001499418": 3,
+      "27220001495542": 20,
+      "27220001499241": 48,
+      "27220001495574": 3,
+      "27220001499390": 1,
+      "27220001498506": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7434,6 +8854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7443,8 +8867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2413,
     "uikTvd": "4724022216082",
+    "uikName": "УИК №2413",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 634,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 644,
@@ -7460,13 +8888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 9,
-      "Доронин Павел Юрьевич": 7,
-      "Зайцев Артем Николаевич": 34,
-      "Квитка Иван Иванович": 366,
-      "Левченко Иван Григорьевич": 43,
-      "Селиванов Владимир Евгеньевич": 3,
-      "Шарпатов Владимир Ильич": 36
+      "27220001499271": 9,
+      "27220001499418": 7,
+      "27220001495542": 34,
+      "27220001499241": 366,
+      "27220001495574": 43,
+      "27220001499390": 3,
+      "27220001498506": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7476,6 +8904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7485,8 +8917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2414,
     "uikTvd": "4724022216083",
+    "uikName": "УИК №2414",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 530,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 542,
@@ -7502,13 +8938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 3,
-      "Доронин Павел Юрьевич": 6,
-      "Зайцев Артем Николаевич": 33,
-      "Квитка Иван Иванович": 319,
-      "Левченко Иван Григорьевич": 30,
-      "Селиванов Владимир Евгеньевич": 13,
-      "Шарпатов Владимир Ильич": 34
+      "27220001499271": 3,
+      "27220001499418": 6,
+      "27220001495542": 33,
+      "27220001499241": 319,
+      "27220001495574": 30,
+      "27220001499390": 13,
+      "27220001498506": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7518,6 +8954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7527,8 +8967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2415,
     "uikTvd": "4724022216084",
+    "uikName": "УИК №2415",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 129,
@@ -7544,13 +8988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 10,
-      "Доронин Павел Юрьевич": 6,
-      "Зайцев Артем Николаевич": 2,
-      "Квитка Иван Иванович": 76,
-      "Левченко Иван Григорьевич": 0,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 10
+      "27220001499271": 10,
+      "27220001499418": 6,
+      "27220001495542": 2,
+      "27220001499241": 76,
+      "27220001495574": 0,
+      "27220001499390": 0,
+      "27220001498506": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7560,6 +9004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7569,8 +9017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2416,
     "uikTvd": "4724022216085",
+    "uikName": "УИК №2416",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 259,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 260,
@@ -7586,13 +9038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 15,
-      "Доронин Павел Юрьевич": 11,
-      "Зайцев Артем Николаевич": 24,
-      "Квитка Иван Иванович": 118,
-      "Левченко Иван Григорьевич": 20,
-      "Селиванов Владимир Евгеньевич": 11,
-      "Шарпатов Владимир Ильич": 10
+      "27220001499271": 15,
+      "27220001499418": 11,
+      "27220001495542": 24,
+      "27220001499241": 118,
+      "27220001495574": 20,
+      "27220001499390": 11,
+      "27220001498506": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7602,6 +9054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7611,8 +9067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2418,
     "uikTvd": "4724022216086",
+    "uikName": "УИК №2418",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 162,
@@ -7628,13 +9088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 2,
-      "Доронин Павел Юрьевич": 6,
-      "Зайцев Артем Николаевич": 16,
-      "Квитка Иван Иванович": 96,
-      "Левченко Иван Григорьевич": 2,
-      "Селиванов Владимир Евгеньевич": 9,
-      "Шарпатов Владимир Ильич": 7
+      "27220001499271": 2,
+      "27220001499418": 6,
+      "27220001495542": 16,
+      "27220001499241": 96,
+      "27220001495574": 2,
+      "27220001499390": 9,
+      "27220001498506": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7644,6 +9104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7653,8 +9117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2419,
     "uikTvd": "4724022216087",
+    "uikName": "УИК №2419",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 442,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 457,
@@ -7670,13 +9138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 11,
-      "Доронин Павел Юрьевич": 17,
-      "Зайцев Артем Николаевич": 30,
-      "Квитка Иван Иванович": 261,
-      "Левченко Иван Григорьевич": 27,
-      "Селиванов Владимир Евгеньевич": 22,
-      "Шарпатов Владимир Ильич": 14
+      "27220001499271": 11,
+      "27220001499418": 17,
+      "27220001495542": 30,
+      "27220001499241": 261,
+      "27220001495574": 27,
+      "27220001499390": 22,
+      "27220001498506": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7686,6 +9154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7695,8 +9167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2420,
     "uikTvd": "4724022216088",
+    "uikName": "УИК №2420",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 138,
@@ -7712,13 +9188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 4,
-      "Доронин Павел Юрьевич": 1,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 80,
-      "Левченко Иван Григорьевич": 11,
-      "Селиванов Владимир Евгеньевич": 3,
-      "Шарпатов Владимир Ильич": 2
+      "27220001499271": 4,
+      "27220001499418": 1,
+      "27220001495542": 6,
+      "27220001499241": 80,
+      "27220001495574": 11,
+      "27220001499390": 3,
+      "27220001498506": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7728,6 +9204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7737,8 +9217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2421,
     "uikTvd": "4724022216089",
+    "uikName": "УИК №2421",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 124,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 118,
@@ -7754,13 +9238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 1,
-      "Доронин Павел Юрьевич": 1,
-      "Зайцев Артем Николаевич": 4,
-      "Квитка Иван Иванович": 70,
-      "Левченко Иван Григорьевич": 3,
-      "Селиванов Владимир Евгеньевич": 1,
-      "Шарпатов Владимир Ильич": 6
+      "27220001499271": 1,
+      "27220001499418": 1,
+      "27220001495542": 4,
+      "27220001499241": 70,
+      "27220001495574": 3,
+      "27220001499390": 1,
+      "27220001498506": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7770,6 +9254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7779,8 +9267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2422,
     "uikTvd": "4724022216090",
+    "uikName": "УИК №2422",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 422,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 423,
@@ -7796,13 +9288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 18,
-      "Доронин Павел Юрьевич": 23,
-      "Зайцев Артем Николаевич": 20,
-      "Квитка Иван Иванович": 195,
-      "Левченко Иван Григорьевич": 24,
-      "Селиванов Владимир Евгеньевич": 19,
-      "Шарпатов Владимир Ильич": 29
+      "27220001499271": 18,
+      "27220001499418": 23,
+      "27220001495542": 20,
+      "27220001499241": 195,
+      "27220001495574": 24,
+      "27220001499390": 19,
+      "27220001498506": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7812,6 +9304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7821,8 +9317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2423,
     "uikTvd": "4724022216091",
+    "uikName": "УИК №2423",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 190,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 187,
@@ -7838,13 +9338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 14,
-      "Доронин Павел Юрьевич": 3,
-      "Зайцев Артем Николаевич": 27,
-      "Квитка Иван Иванович": 75,
-      "Левченко Иван Григорьевич": 12,
-      "Селиванов Владимир Евгеньевич": 11,
-      "Шарпатов Владимир Ильич": 5
+      "27220001499271": 14,
+      "27220001499418": 3,
+      "27220001495542": 27,
+      "27220001499241": 75,
+      "27220001495574": 12,
+      "27220001499390": 11,
+      "27220001498506": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7854,6 +9354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7863,8 +9367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2424,
     "uikTvd": "4724022216092",
+    "uikName": "УИК №2424",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 106,
@@ -7880,13 +9388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 3,
-      "Доронин Павел Юрьевич": 1,
-      "Зайцев Артем Николаевич": 10,
-      "Квитка Иван Иванович": 53,
-      "Левченко Иван Григорьевич": 5,
-      "Селиванов Владимир Евгеньевич": 7,
-      "Шарпатов Владимир Ильич": 3
+      "27220001499271": 3,
+      "27220001499418": 1,
+      "27220001495542": 10,
+      "27220001499241": 53,
+      "27220001495574": 5,
+      "27220001499390": 7,
+      "27220001498506": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7896,6 +9404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7905,8 +9417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2425,
     "uikTvd": "4724022216093",
+    "uikName": "УИК №2425",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 252,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 238,
@@ -7922,13 +9438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 10,
-      "Доронин Павел Юрьевич": 11,
-      "Зайцев Артем Николаевич": 19,
-      "Квитка Иван Иванович": 126,
-      "Левченко Иван Григорьевич": 11,
-      "Селиванов Владимир Евгеньевич": 3,
-      "Шарпатов Владимир Ильич": 8
+      "27220001499271": 10,
+      "27220001499418": 11,
+      "27220001495542": 19,
+      "27220001499241": 126,
+      "27220001495574": 11,
+      "27220001499390": 3,
+      "27220001498506": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7938,6 +9454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7947,8 +9467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2426,
     "uikTvd": "4724022216094",
+    "uikName": "УИК №2426",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 308,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 316,
@@ -7964,13 +9488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 6,
-      "Доронин Павел Юрьевич": 10,
-      "Зайцев Артем Николаевич": 24,
-      "Квитка Иван Иванович": 180,
-      "Левченко Иван Григорьевич": 11,
-      "Селиванов Владимир Евгеньевич": 7,
-      "Шарпатов Владимир Ильич": 6
+      "27220001499271": 6,
+      "27220001499418": 10,
+      "27220001495542": 24,
+      "27220001499241": 180,
+      "27220001495574": 11,
+      "27220001499390": 7,
+      "27220001498506": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -7980,6 +9504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -7989,8 +9517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2427,
     "uikTvd": "4724022216095",
+    "uikName": "УИК №2427",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 455,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 462,
@@ -8006,13 +9538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 25,
-      "Доронин Павел Юрьевич": 21,
-      "Зайцев Артем Николаевич": 28,
-      "Квитка Иван Иванович": 194,
-      "Левченко Иван Григорьевич": 48,
-      "Селиванов Владимир Евгеньевич": 21,
-      "Шарпатов Владимир Ильич": 20
+      "27220001499271": 25,
+      "27220001499418": 21,
+      "27220001495542": 28,
+      "27220001499241": 194,
+      "27220001495574": 48,
+      "27220001499390": 21,
+      "27220001498506": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8022,6 +9554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8031,8 +9567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2428,
     "uikTvd": "4724022216096",
+    "uikName": "УИК №2428",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 904,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 926,
@@ -8048,13 +9588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 29,
-      "Доронин Павел Юрьевич": 44,
-      "Зайцев Артем Николаевич": 70,
-      "Квитка Иван Иванович": 424,
-      "Левченко Иван Григорьевич": 56,
-      "Селиванов Владимир Евгеньевич": 29,
-      "Шарпатов Владимир Ильич": 57
+      "27220001499271": 29,
+      "27220001499418": 44,
+      "27220001495542": 70,
+      "27220001499241": 424,
+      "27220001495574": 56,
+      "27220001499390": 29,
+      "27220001498506": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8064,6 +9604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8073,8 +9617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2429,
     "uikTvd": "4724022216097",
+    "uikName": "УИК №2429",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 169,
@@ -8090,13 +9638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 6,
-      "Доронин Павел Юрьевич": 3,
-      "Зайцев Артем Николаевич": 7,
-      "Квитка Иван Иванович": 76,
-      "Левченко Иван Григорьевич": 15,
-      "Селиванов Владимир Евгеньевич": 1,
-      "Шарпатов Владимир Ильич": 18
+      "27220001499271": 6,
+      "27220001499418": 3,
+      "27220001495542": 7,
+      "27220001499241": 76,
+      "27220001495574": 15,
+      "27220001499390": 1,
+      "27220001498506": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8106,6 +9654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8115,8 +9667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2430,
     "uikTvd": "4724022216098",
+    "uikName": "УИК №2430",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 446,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 456,
@@ -8132,13 +9688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 23,
-      "Доронин Павел Юрьевич": 21,
-      "Зайцев Артем Николаевич": 29,
-      "Квитка Иван Иванович": 209,
-      "Левченко Иван Григорьевич": 39,
-      "Селиванов Владимир Евгеньевич": 13,
-      "Шарпатов Владимир Ильич": 16
+      "27220001499271": 23,
+      "27220001499418": 21,
+      "27220001495542": 29,
+      "27220001499241": 209,
+      "27220001495574": 39,
+      "27220001499390": 13,
+      "27220001498506": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8148,6 +9704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8157,8 +9717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2431,
     "uikTvd": "4724022216099",
+    "uikName": "УИК №2431",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 817,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 838,
@@ -8174,13 +9738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 50,
-      "Доронин Павел Юрьевич": 25,
-      "Зайцев Артем Николаевич": 52,
-      "Квитка Иван Иванович": 383,
-      "Левченко Иван Григорьевич": 52,
-      "Селиванов Владимир Евгеньевич": 25,
-      "Шарпатов Владимир Ильич": 46
+      "27220001499271": 50,
+      "27220001499418": 25,
+      "27220001495542": 52,
+      "27220001499241": 383,
+      "27220001495574": 52,
+      "27220001499390": 25,
+      "27220001498506": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8190,6 +9754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8199,8 +9767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2432,
     "uikTvd": "4724022216100",
+    "uikName": "УИК №2432",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 145,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 187,
@@ -8216,13 +9788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 7,
-      "Доронин Павел Юрьевич": 10,
-      "Зайцев Артем Николаевич": 16,
-      "Квитка Иван Иванович": 85,
-      "Левченко Иван Григорьевич": 11,
-      "Селиванов Владимир Евгеньевич": 7,
-      "Шарпатов Владимир Ильич": 9
+      "27220001499271": 7,
+      "27220001499418": 10,
+      "27220001495542": 16,
+      "27220001499241": 85,
+      "27220001495574": 11,
+      "27220001499390": 7,
+      "27220001498506": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8232,6 +9804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8241,8 +9817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2433,
     "uikTvd": "4724022216101",
+    "uikName": "УИК №2433",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 164,
@@ -8258,13 +9838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 12,
-      "Доронин Павел Юрьевич": 6,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 70,
-      "Левченко Иван Григорьевич": 8,
-      "Селиванов Владимир Евгеньевич": 8,
-      "Шарпатов Владимир Ильич": 8
+      "27220001499271": 12,
+      "27220001499418": 6,
+      "27220001495542": 15,
+      "27220001499241": 70,
+      "27220001495574": 8,
+      "27220001499390": 8,
+      "27220001498506": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8274,6 +9854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8283,8 +9867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2434,
     "uikTvd": "4724022216102",
+    "uikName": "УИК №2434",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1581,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1610,
@@ -8300,13 +9888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 2,
-      "Доронин Павел Юрьевич": 25,
-      "Зайцев Артем Николаевич": 277,
-      "Квитка Иван Иванович": 871,
-      "Левченко Иван Григорьевич": 32,
-      "Селиванов Владимир Евгеньевич": 92,
-      "Шарпатов Владимир Ильич": 22
+      "27220001499271": 2,
+      "27220001499418": 25,
+      "27220001495542": 277,
+      "27220001499241": 871,
+      "27220001495574": 32,
+      "27220001499390": 92,
+      "27220001498506": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8316,6 +9904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8325,8 +9917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2435,
     "uikTvd": "4724022216103",
+    "uikName": "УИК №2435",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1455,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1496,
@@ -8342,13 +9938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 76,
-      "Доронин Павел Юрьевич": 77,
-      "Зайцев Артем Николаевич": 90,
-      "Квитка Иван Иванович": 375,
-      "Левченко Иван Григорьевич": 403,
-      "Селиванов Владимир Евгеньевич": 55,
-      "Шарпатов Владимир Ильич": 98
+      "27220001499271": 76,
+      "27220001499418": 77,
+      "27220001495542": 90,
+      "27220001499241": 375,
+      "27220001495574": 403,
+      "27220001499390": 55,
+      "27220001498506": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8358,6 +9954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8367,8 +9967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2436,
     "uikTvd": "4724022216104",
+    "uikName": "УИК №2436",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1506,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -8384,13 +9988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 39,
-      "Доронин Павел Юрьевич": 34,
-      "Зайцев Артем Николаевич": 249,
-      "Квитка Иван Иванович": 819,
-      "Левченко Иван Григорьевич": 36,
-      "Селиванов Владимир Евгеньевич": 41,
-      "Шарпатов Владимир Ильич": 42
+      "27220001499271": 39,
+      "27220001499418": 34,
+      "27220001495542": 249,
+      "27220001499241": 819,
+      "27220001495574": 36,
+      "27220001499390": 41,
+      "27220001498506": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8400,6 +10004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8409,8 +10017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2437,
     "uikTvd": "4724022216105",
+    "uikName": "УИК №2437",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 510,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 530,
@@ -8426,13 +10038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 20,
-      "Доронин Павел Юрьевич": 20,
-      "Зайцев Артем Николаевич": 31,
-      "Квитка Иван Иванович": 270,
-      "Левченко Иван Григорьевич": 40,
-      "Селиванов Владимир Евгеньевич": 20,
-      "Шарпатов Владимир Ильич": 29
+      "27220001499271": 20,
+      "27220001499418": 20,
+      "27220001495542": 31,
+      "27220001499241": 270,
+      "27220001495574": 40,
+      "27220001499390": 20,
+      "27220001498506": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8442,6 +10054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8451,8 +10067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2438,
     "uikTvd": "4724022216106",
+    "uikName": "УИК №2438",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 142,
@@ -8468,13 +10088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 5,
-      "Доронин Павел Юрьевич": 7,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 71,
-      "Левченко Иван Григорьевич": 14,
-      "Селиванов Владимир Евгеньевич": 4,
-      "Шарпатов Владимир Ильич": 2
+      "27220001499271": 5,
+      "27220001499418": 7,
+      "27220001495542": 6,
+      "27220001499241": 71,
+      "27220001495574": 14,
+      "27220001499390": 4,
+      "27220001498506": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8484,6 +10104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8493,8 +10117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2439,
     "uikTvd": "4724022216107",
+    "uikName": "УИК №2439",
     "tikTvd": "27220001482171",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 104,
@@ -8510,13 +10138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 2,
-      "Доронин Павел Юрьевич": 6,
-      "Зайцев Артем Николаевич": 9,
-      "Квитка Иван Иванович": 60,
-      "Левченко Иван Григорьевич": 3,
-      "Селиванов Владимир Евгеньевич": 2,
-      "Шарпатов Владимир Ильич": 8
+      "27220001499271": 2,
+      "27220001499418": 6,
+      "27220001495542": 9,
+      "27220001499241": 60,
+      "27220001495574": 3,
+      "27220001499390": 2,
+      "27220001498506": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
@@ -8526,6 +10154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:15:37.990721+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482171&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482171&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8535,8 +10167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2001,
     "uikTvd": "4724018308017",
+    "uikName": "УИК №2001",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2499,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8552,13 +10188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 21,
-      "Доронин Павел Юрьевич": 52,
-      "Зайцев Артем Николаевич": 307,
-      "Квитка Иван Иванович": 484,
-      "Левченко Иван Григорьевич": 87,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 164
+      "27220001499271": 21,
+      "27220001499418": 52,
+      "27220001495542": 307,
+      "27220001499241": 484,
+      "27220001495574": 87,
+      "27220001499390": 0,
+      "27220001498506": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8568,6 +10204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8577,8 +10217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2002,
     "uikTvd": "4724018311122",
+    "uikName": "УИК №2002",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 252,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 252,
@@ -8594,13 +10238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 2,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 30,
-      "Квитка Иван Иванович": 199,
-      "Левченко Иван Григорьевич": 3,
-      "Селиванов Владимир Евгеньевич": 3,
-      "Шарпатов Владимир Ильич": 15
+      "27220001499271": 2,
+      "27220001499418": 0,
+      "27220001495542": 30,
+      "27220001499241": 199,
+      "27220001495574": 3,
+      "27220001499390": 3,
+      "27220001498506": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8610,6 +10254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8619,8 +10267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2003,
     "uikTvd": "4724018308018",
+    "uikName": "УИК №2003",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1858,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -8636,13 +10288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 68,
-      "Доронин Павел Юрьевич": 10,
-      "Зайцев Артем Николаевич": 208,
-      "Квитка Иван Иванович": 724,
-      "Левченко Иван Григорьевич": 140,
-      "Селиванов Владимир Евгеньевич": 5,
-      "Шарпатов Владимир Ильич": 154
+      "27220001499271": 68,
+      "27220001499418": 10,
+      "27220001495542": 208,
+      "27220001499241": 724,
+      "27220001495574": 140,
+      "27220001499390": 5,
+      "27220001498506": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8652,6 +10304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8661,8 +10317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2004,
     "uikTvd": "4724018308019",
+    "uikName": "УИК №2004",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1642,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -8678,13 +10338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 39,
-      "Доронин Павел Юрьевич": 102,
-      "Зайцев Артем Николаевич": 83,
-      "Квитка Иван Иванович": 225,
-      "Левченко Иван Григорьевич": 135,
-      "Селиванов Владимир Евгеньевич": 42,
-      "Шарпатов Владимир Ильич": 121
+      "27220001499271": 39,
+      "27220001499418": 102,
+      "27220001495542": 83,
+      "27220001499241": 225,
+      "27220001495574": 135,
+      "27220001499390": 42,
+      "27220001498506": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8694,6 +10354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8703,8 +10367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2005,
     "uikTvd": "4724018308020",
+    "uikName": "УИК №2005",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -8720,13 +10388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 28,
-      "Доронин Павел Юрьевич": 102,
-      "Зайцев Артем Николаевич": 38,
-      "Квитка Иван Иванович": 207,
-      "Левченко Иван Григорьевич": 116,
-      "Селиванов Владимир Евгеньевич": 23,
-      "Шарпатов Владимир Ильич": 68
+      "27220001499271": 28,
+      "27220001499418": 102,
+      "27220001495542": 38,
+      "27220001499241": 207,
+      "27220001495574": 116,
+      "27220001499390": 23,
+      "27220001498506": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8736,6 +10404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8745,8 +10417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2006,
     "uikTvd": "4724018308021",
+    "uikName": "УИК №2006",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2252,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -8762,13 +10438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 78,
-      "Доронин Павел Юрьевич": 172,
-      "Зайцев Артем Николаевич": 122,
-      "Квитка Иван Иванович": 428,
-      "Левченко Иван Григорьевич": 139,
-      "Селиванов Владимир Евгеньевич": 50,
-      "Шарпатов Владимир Ильич": 151
+      "27220001499271": 78,
+      "27220001499418": 172,
+      "27220001495542": 122,
+      "27220001499241": 428,
+      "27220001495574": 139,
+      "27220001499390": 50,
+      "27220001498506": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8778,6 +10454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8787,8 +10467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2007,
     "uikTvd": "4724018308022",
+    "uikName": "УИК №2007",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 797,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -8804,13 +10488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 17,
-      "Доронин Павел Юрьевич": 62,
-      "Зайцев Артем Николаевич": 38,
-      "Квитка Иван Иванович": 81,
-      "Левченко Иван Григорьевич": 62,
-      "Селиванов Владимир Евгеньевич": 21,
-      "Шарпатов Владимир Ильич": 55
+      "27220001499271": 17,
+      "27220001499418": 62,
+      "27220001495542": 38,
+      "27220001499241": 81,
+      "27220001495574": 62,
+      "27220001499390": 21,
+      "27220001498506": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8820,6 +10504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8829,8 +10517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2008,
     "uikTvd": "4724018308023",
+    "uikName": "УИК №2008",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1479,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8846,13 +10538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 41,
-      "Доронин Павел Юрьевич": 133,
-      "Зайцев Артем Николаевич": 56,
-      "Квитка Иван Иванович": 242,
-      "Левченко Иван Григорьевич": 93,
-      "Селиванов Владимир Евгеньевич": 34,
-      "Шарпатов Владимир Ильич": 97
+      "27220001499271": 41,
+      "27220001499418": 133,
+      "27220001495542": 56,
+      "27220001499241": 242,
+      "27220001495574": 93,
+      "27220001499390": 34,
+      "27220001498506": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8862,6 +10554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8871,8 +10567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2009,
     "uikTvd": "4724018308024",
+    "uikName": "УИК №2009",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1845,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -8888,13 +10588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 56,
-      "Доронин Павел Юрьевич": 115,
-      "Зайцев Артем Николаевич": 56,
-      "Квитка Иван Иванович": 161,
-      "Левченко Иван Григорьевич": 132,
-      "Селиванов Владимир Евгеньевич": 45,
-      "Шарпатов Владимир Ильич": 143
+      "27220001499271": 56,
+      "27220001499418": 115,
+      "27220001495542": 56,
+      "27220001499241": 161,
+      "27220001495574": 132,
+      "27220001499390": 45,
+      "27220001498506": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8904,6 +10604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8913,8 +10617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2010,
     "uikTvd": "4724018308025",
+    "uikName": "УИК №2010",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1319,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8930,13 +10638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 42,
-      "Доронин Павел Юрьевич": 5,
-      "Зайцев Артем Николаевич": 140,
-      "Квитка Иван Иванович": 465,
-      "Левченко Иван Григорьевич": 57,
-      "Селиванов Владимир Евгеньевич": 7,
-      "Шарпатов Владимир Ильич": 164
+      "27220001499271": 42,
+      "27220001499418": 5,
+      "27220001495542": 140,
+      "27220001499241": 465,
+      "27220001495574": 57,
+      "27220001499390": 7,
+      "27220001498506": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8946,6 +10654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8955,8 +10667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2011,
     "uikTvd": "4724018308026",
+    "uikName": "УИК №2011",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8972,13 +10688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 58,
-      "Доронин Павел Юрьевич": 38,
-      "Зайцев Артем Николаевич": 173,
-      "Квитка Иван Иванович": 490,
-      "Левченко Иван Григорьевич": 68,
-      "Селиванов Владимир Евгеньевич": 44,
-      "Шарпатов Владимир Ильич": 145
+      "27220001499271": 58,
+      "27220001499418": 38,
+      "27220001495542": 173,
+      "27220001499241": 490,
+      "27220001495574": 68,
+      "27220001499390": 44,
+      "27220001498506": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -8988,6 +10704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -8997,8 +10717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2012,
     "uikTvd": "4724018308027",
+    "uikName": "УИК №2012",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2347,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9014,13 +10738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 113,
-      "Доронин Павел Юрьевич": 190,
-      "Зайцев Артем Николаевич": 135,
-      "Квитка Иван Иванович": 328,
-      "Левченко Иван Григорьевич": 168,
-      "Селиванов Владимир Евгеньевич": 108,
-      "Шарпатов Владимир Ильич": 191
+      "27220001499271": 113,
+      "27220001499418": 190,
+      "27220001495542": 135,
+      "27220001499241": 328,
+      "27220001495574": 168,
+      "27220001499390": 108,
+      "27220001498506": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9030,6 +10754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9039,8 +10767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2013,
     "uikTvd": "4724018308028",
+    "uikName": "УИК №2013",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2604,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -9056,13 +10788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 102,
-      "Доронин Павел Юрьевич": 113,
-      "Зайцев Артем Николаевич": 325,
-      "Квитка Иван Иванович": 329,
-      "Левченко Иван Григорьевич": 121,
-      "Селиванов Владимир Евгеньевич": 237,
-      "Шарпатов Владимир Ильич": 313
+      "27220001499271": 102,
+      "27220001499418": 113,
+      "27220001495542": 325,
+      "27220001499241": 329,
+      "27220001495574": 121,
+      "27220001499390": 237,
+      "27220001498506": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9072,6 +10804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9081,8 +10817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2014,
     "uikTvd": "4724018308029",
+    "uikName": "УИК №2014",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1193,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -9098,13 +10838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 52,
-      "Доронин Павел Юрьевич": 52,
-      "Зайцев Артем Николаевич": 53,
-      "Квитка Иван Иванович": 142,
-      "Левченко Иван Григорьевич": 62,
-      "Селиванов Владимир Евгеньевич": 29,
-      "Шарпатов Владимир Ильич": 59
+      "27220001499271": 52,
+      "27220001499418": 52,
+      "27220001495542": 53,
+      "27220001499241": 142,
+      "27220001495574": 62,
+      "27220001499390": 29,
+      "27220001498506": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9114,6 +10854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9123,8 +10867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2015,
     "uikTvd": "4724018308030",
+    "uikName": "УИК №2015",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -9140,13 +10888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 63,
-      "Доронин Павел Юрьевич": 97,
-      "Зайцев Артем Николаевич": 66,
-      "Квитка Иван Иванович": 268,
-      "Левченко Иван Григорьевич": 123,
-      "Селиванов Владимир Евгеньевич": 40,
-      "Шарпатов Владимир Ильич": 98
+      "27220001499271": 63,
+      "27220001499418": 97,
+      "27220001495542": 66,
+      "27220001499241": 268,
+      "27220001495574": 123,
+      "27220001499390": 40,
+      "27220001498506": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9156,6 +10904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9165,8 +10917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2016,
     "uikTvd": "4724018308031",
+    "uikName": "УИК №2016",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1518,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -9182,13 +10938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 38,
-      "Доронин Павел Юрьевич": 89,
-      "Зайцев Артем Николаевич": 62,
-      "Квитка Иван Иванович": 173,
-      "Левченко Иван Григорьевич": 101,
-      "Селиванов Владимир Евгеньевич": 36,
-      "Шарпатов Владимир Ильич": 96
+      "27220001499271": 38,
+      "27220001499418": 89,
+      "27220001495542": 62,
+      "27220001499241": 173,
+      "27220001495574": 101,
+      "27220001499390": 36,
+      "27220001498506": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9198,6 +10954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9207,8 +10967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2017,
     "uikTvd": "4724018308032",
+    "uikName": "УИК №2017",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1844,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -9224,13 +10988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 64,
-      "Доронин Павел Юрьевич": 92,
-      "Зайцев Артем Николаевич": 139,
-      "Квитка Иван Иванович": 383,
-      "Левченко Иван Григорьевич": 114,
-      "Селиванов Владимир Евгеньевич": 57,
-      "Шарпатов Владимир Ильич": 105
+      "27220001499271": 64,
+      "27220001499418": 92,
+      "27220001495542": 139,
+      "27220001499241": 383,
+      "27220001495574": 114,
+      "27220001499390": 57,
+      "27220001498506": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9240,6 +11004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9249,8 +11017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2018,
     "uikTvd": "4724018308033",
+    "uikName": "УИК №2018",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2830,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -9266,13 +11038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 62,
-      "Доронин Павел Юрьевич": 71,
-      "Зайцев Артем Николаевич": 302,
-      "Квитка Иван Иванович": 721,
-      "Левченко Иван Григорьевич": 209,
-      "Селиванов Владимир Евгеньевич": 92,
-      "Шарпатов Владимир Ильич": 238
+      "27220001499271": 62,
+      "27220001499418": 71,
+      "27220001495542": 302,
+      "27220001499241": 721,
+      "27220001495574": 209,
+      "27220001499390": 92,
+      "27220001498506": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9282,6 +11054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9291,8 +11067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2019,
     "uikTvd": "4724018308034",
+    "uikName": "УИК №2019",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1037,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -9308,13 +11088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 48,
-      "Доронин Павел Юрьевич": 52,
-      "Зайцев Артем Николаевич": 137,
-      "Квитка Иван Иванович": 294,
-      "Левченко Иван Григорьевич": 20,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 84
+      "27220001499271": 48,
+      "27220001499418": 52,
+      "27220001495542": 137,
+      "27220001499241": 294,
+      "27220001495574": 20,
+      "27220001499390": 0,
+      "27220001498506": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9324,6 +11104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9333,8 +11117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2020,
     "uikTvd": "4724018308035",
+    "uikName": "УИК №2020",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1608,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9350,13 +11138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 49,
-      "Доронин Павел Юрьевич": 117,
-      "Зайцев Артем Николаевич": 78,
-      "Квитка Иван Иванович": 267,
-      "Левченко Иван Григорьевич": 136,
-      "Селиванов Владимир Евгеньевич": 51,
-      "Шарпатов Владимир Ильич": 145
+      "27220001499271": 49,
+      "27220001499418": 117,
+      "27220001495542": 78,
+      "27220001499241": 267,
+      "27220001495574": 136,
+      "27220001499390": 51,
+      "27220001498506": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9366,6 +11154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9375,8 +11167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2021,
     "uikTvd": "4724018308036",
+    "uikName": "УИК №2021",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2741,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -9392,13 +11188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 28,
-      "Доронин Павел Юрьевич": 12,
-      "Зайцев Артем Николаевич": 351,
-      "Квитка Иван Иванович": 1156,
-      "Левченко Иван Григорьевич": 35,
-      "Селиванов Владимир Евгеньевич": 53,
-      "Шарпатов Владимир Ильич": 303
+      "27220001499271": 28,
+      "27220001499418": 12,
+      "27220001495542": 351,
+      "27220001499241": 1156,
+      "27220001495574": 35,
+      "27220001499390": 53,
+      "27220001498506": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9408,6 +11204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9417,8 +11217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2022,
     "uikTvd": "4724018308037",
+    "uikName": "УИК №2022",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2047,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9434,13 +11238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 74,
-      "Доронин Павел Юрьевич": 130,
-      "Зайцев Артем Николаевич": 102,
-      "Квитка Иван Иванович": 463,
-      "Левченко Иван Григорьевич": 161,
-      "Селиванов Владимир Евгеньевич": 62,
-      "Шарпатов Владимир Ильич": 151
+      "27220001499271": 74,
+      "27220001499418": 130,
+      "27220001495542": 102,
+      "27220001499241": 463,
+      "27220001495574": 161,
+      "27220001499390": 62,
+      "27220001498506": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9450,6 +11254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9459,8 +11267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2023,
     "uikTvd": "4724018311123",
+    "uikName": "УИК №2023",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 56,
@@ -9476,13 +11288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 0,
-      "Доронин Павел Юрьевич": 0,
-      "Зайцев Артем Николаевич": 5,
-      "Квитка Иван Иванович": 37,
-      "Левченко Иван Григорьевич": 2,
-      "Селиванов Владимир Евгеньевич": 0,
-      "Шарпатов Владимир Ильич": 4
+      "27220001499271": 0,
+      "27220001499418": 0,
+      "27220001495542": 5,
+      "27220001499241": 37,
+      "27220001495574": 2,
+      "27220001499390": 0,
+      "27220001498506": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9492,6 +11304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9501,8 +11317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2024,
     "uikTvd": "4724018308038",
+    "uikName": "УИК №2024",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1752,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9518,13 +11338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 66,
-      "Доронин Павел Юрьевич": 99,
-      "Зайцев Артем Николаевич": 97,
-      "Квитка Иван Иванович": 371,
-      "Левченко Иван Григорьевич": 182,
-      "Селиванов Владимир Евгеньевич": 48,
-      "Шарпатов Владимир Ильич": 143
+      "27220001499271": 66,
+      "27220001499418": 99,
+      "27220001495542": 97,
+      "27220001499241": 371,
+      "27220001495574": 182,
+      "27220001499390": 48,
+      "27220001498506": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9534,6 +11354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9543,8 +11367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2025,
     "uikTvd": "4724018308039",
+    "uikName": "УИК №2025",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1421,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9560,13 +11388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 59,
-      "Доронин Павел Юрьевич": 106,
-      "Зайцев Артем Николаевич": 59,
-      "Квитка Иван Иванович": 173,
-      "Левченко Иван Григорьевич": 106,
-      "Селиванов Владимир Евгеньевич": 26,
-      "Шарпатов Владимир Ильич": 74
+      "27220001499271": 59,
+      "27220001499418": 106,
+      "27220001495542": 59,
+      "27220001499241": 173,
+      "27220001495574": 106,
+      "27220001499390": 26,
+      "27220001498506": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9576,6 +11404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9585,8 +11417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2026,
     "uikTvd": "4724018308040",
+    "uikName": "УИК №2026",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1547,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -9602,13 +11438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 44,
-      "Доронин Павел Юрьевич": 115,
-      "Зайцев Артем Николаевич": 59,
-      "Квитка Иван Иванович": 215,
-      "Левченко Иван Григорьевич": 154,
-      "Селиванов Владимир Евгеньевич": 42,
-      "Шарпатов Владимир Ильич": 101
+      "27220001499271": 44,
+      "27220001499418": 115,
+      "27220001495542": 59,
+      "27220001499241": 215,
+      "27220001495574": 154,
+      "27220001499390": 42,
+      "27220001498506": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9618,6 +11454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9627,8 +11467,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2027,
     "uikTvd": "4724018308041",
+    "uikName": "УИК №2027",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2801,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -9644,13 +11488,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 125,
-      "Доронин Павел Юрьевич": 89,
-      "Зайцев Артем Николаевич": 240,
-      "Квитка Иван Иванович": 723,
-      "Левченко Иван Григорьевич": 98,
-      "Селиванов Владимир Евгеньевич": 28,
-      "Шарпатов Владимир Ильич": 221
+      "27220001499271": 125,
+      "27220001499418": 89,
+      "27220001495542": 240,
+      "27220001499241": 723,
+      "27220001495574": 98,
+      "27220001499390": 28,
+      "27220001498506": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9660,6 +11504,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9669,8 +11517,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2028,
     "uikTvd": "4724018308042",
+    "uikName": "УИК №2028",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1713,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -9686,13 +11538,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 42,
-      "Доронин Павел Юрьевич": 81,
-      "Зайцев Артем Николаевич": 78,
-      "Квитка Иван Иванович": 257,
-      "Левченко Иван Григорьевич": 92,
-      "Селиванов Владимир Евгеньевич": 30,
-      "Шарпатов Владимир Ильич": 92
+      "27220001499271": 42,
+      "27220001499418": 81,
+      "27220001495542": 78,
+      "27220001499241": 257,
+      "27220001495574": 92,
+      "27220001499390": 30,
+      "27220001498506": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9702,6 +11554,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9711,8 +11567,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2029,
     "uikTvd": "4724018308043",
+    "uikName": "УИК №2029",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 681,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -9728,13 +11588,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 25,
-      "Доронин Павел Юрьевич": 23,
-      "Зайцев Артем Николаевич": 36,
-      "Квитка Иван Иванович": 184,
-      "Левченко Иван Григорьевич": 32,
-      "Селиванов Владимир Евгеньевич": 16,
-      "Шарпатов Владимир Ильич": 29
+      "27220001499271": 25,
+      "27220001499418": 23,
+      "27220001495542": 36,
+      "27220001499241": 184,
+      "27220001495574": 32,
+      "27220001499390": 16,
+      "27220001498506": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9744,6 +11604,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9753,8 +11617,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2030,
     "uikTvd": "4724018308044",
+    "uikName": "УИК №2030",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2440,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9770,13 +11638,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 86,
-      "Доронин Павел Юрьевич": 191,
-      "Зайцев Артем Николаевич": 199,
-      "Квитка Иван Иванович": 511,
-      "Левченко Иван Григорьевич": 171,
-      "Селиванов Владимир Евгеньевич": 75,
-      "Шарпатов Владимир Ильич": 166
+      "27220001499271": 86,
+      "27220001499418": 191,
+      "27220001495542": 199,
+      "27220001499241": 511,
+      "27220001495574": 171,
+      "27220001499390": 75,
+      "27220001498506": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9786,6 +11654,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9795,8 +11667,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2031,
     "uikTvd": "4724018308045",
+    "uikName": "УИК №2031",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2468,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9812,13 +11688,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 89,
-      "Доронин Павел Юрьевич": 148,
-      "Зайцев Артем Николаевич": 122,
-      "Квитка Иван Иванович": 452,
-      "Левченко Иван Григорьевич": 180,
-      "Селиванов Владимир Евгеньевич": 55,
-      "Шарпатов Владимир Ильич": 141
+      "27220001499271": 89,
+      "27220001499418": 148,
+      "27220001495542": 122,
+      "27220001499241": 452,
+      "27220001495574": 180,
+      "27220001499390": 55,
+      "27220001498506": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9828,6 +11704,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9837,8 +11717,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2032,
     "uikTvd": "4724018308046",
+    "uikName": "УИК №2032",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1380,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9854,13 +11738,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 47,
-      "Доронин Павел Юрьевич": 49,
-      "Зайцев Артем Николаевич": 65,
-      "Квитка Иван Иванович": 239,
-      "Левченко Иван Григорьевич": 72,
-      "Селиванов Владимир Евгеньевич": 37,
-      "Шарпатов Владимир Ильич": 79
+      "27220001499271": 47,
+      "27220001499418": 49,
+      "27220001495542": 65,
+      "27220001499241": 239,
+      "27220001495574": 72,
+      "27220001499390": 37,
+      "27220001498506": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9870,6 +11754,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9879,8 +11767,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2033,
     "uikTvd": "4724018308047",
+    "uikName": "УИК №2033",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2139,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9896,13 +11788,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 62,
-      "Доронин Павел Юрьевич": 67,
-      "Зайцев Артем Николаевич": 186,
-      "Квитка Иван Иванович": 410,
-      "Левченко Иван Григорьевич": 94,
-      "Селиванов Владимир Евгеньевич": 54,
-      "Шарпатов Владимир Ильич": 128
+      "27220001499271": 62,
+      "27220001499418": 67,
+      "27220001495542": 186,
+      "27220001499241": 410,
+      "27220001495574": 94,
+      "27220001499390": 54,
+      "27220001498506": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9912,6 +11804,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9921,8 +11817,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2034,
     "uikTvd": "4724018308048",
+    "uikName": "УИК №2034",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1916,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -9938,13 +11838,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 61,
-      "Доронин Павел Юрьевич": 151,
-      "Зайцев Артем Николаевич": 79,
-      "Квитка Иван Иванович": 187,
-      "Левченко Иван Григорьевич": 147,
-      "Селиванов Владимир Евгеньевич": 29,
-      "Шарпатов Владимир Ильич": 77
+      "27220001499271": 61,
+      "27220001499418": 151,
+      "27220001495542": 79,
+      "27220001499241": 187,
+      "27220001495574": 147,
+      "27220001499390": 29,
+      "27220001498506": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9954,6 +11854,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -9963,8 +11867,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2035,
     "uikTvd": "4724018308049",
+    "uikName": "УИК №2035",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1543,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9980,13 +11888,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 60,
-      "Доронин Павел Юрьевич": 91,
-      "Зайцев Артем Николаевич": 88,
-      "Квитка Иван Иванович": 343,
-      "Левченко Иван Григорьевич": 181,
-      "Селиванов Владимир Евгеньевич": 31,
-      "Шарпатов Владимир Ильич": 97
+      "27220001499271": 60,
+      "27220001499418": 91,
+      "27220001495542": 88,
+      "27220001499241": 343,
+      "27220001495574": 181,
+      "27220001499390": 31,
+      "27220001498506": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -9996,6 +11904,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10005,8 +11917,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2036,
     "uikTvd": "4724018308050",
+    "uikName": "УИК №2036",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2294,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -10022,13 +11938,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 27,
-      "Доронин Павел Юрьевич": 117,
-      "Зайцев Артем Николаевич": 273,
-      "Квитка Иван Иванович": 416,
-      "Левченко Иван Григорьевич": 180,
-      "Селиванов Владимир Евгеньевич": 65,
-      "Шарпатов Владимир Ильич": 221
+      "27220001499271": 27,
+      "27220001499418": 117,
+      "27220001495542": 273,
+      "27220001499241": 416,
+      "27220001495574": 180,
+      "27220001499390": 65,
+      "27220001498506": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10038,6 +11954,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10047,8 +11967,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2037,
     "uikTvd": "4724018308051",
+    "uikName": "УИК №2037",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2640,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -10064,13 +11988,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 100,
-      "Доронин Павел Юрьевич": 85,
-      "Зайцев Артем Николаевич": 345,
-      "Квитка Иван Иванович": 771,
-      "Левченко Иван Григорьевич": 139,
-      "Селиванов Владимир Евгеньевич": 104,
-      "Шарпатов Владимир Ильич": 252
+      "27220001499271": 100,
+      "27220001499418": 85,
+      "27220001495542": 345,
+      "27220001499241": 771,
+      "27220001495574": 139,
+      "27220001499390": 104,
+      "27220001498506": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10080,6 +12004,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10089,8 +12017,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2038,
     "uikTvd": "4724018308052",
+    "uikName": "УИК №2038",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1901,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -10106,13 +12038,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 47,
-      "Доронин Павел Юрьевич": 96,
-      "Зайцев Артем Николаевич": 76,
-      "Квитка Иван Иванович": 211,
-      "Левченко Иван Григорьевич": 122,
-      "Селиванов Владимир Евгеньевич": 24,
-      "Шарпатов Владимир Ильич": 120
+      "27220001499271": 47,
+      "27220001499418": 96,
+      "27220001495542": 76,
+      "27220001499241": 211,
+      "27220001495574": 122,
+      "27220001499390": 24,
+      "27220001498506": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10122,6 +12054,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10131,8 +12067,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2039,
     "uikTvd": "4724018308053",
+    "uikName": "УИК №2039",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1899,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -10148,13 +12088,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 67,
-      "Доронин Павел Юрьевич": 76,
-      "Зайцев Артем Николаевич": 69,
-      "Квитка Иван Иванович": 283,
-      "Левченко Иван Григорьевич": 143,
-      "Селиванов Владимир Евгеньевич": 30,
-      "Шарпатов Владимир Ильич": 55
+      "27220001499271": 67,
+      "27220001499418": 76,
+      "27220001495542": 69,
+      "27220001499241": 283,
+      "27220001495574": 143,
+      "27220001499390": 30,
+      "27220001498506": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10164,6 +12104,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10173,8 +12117,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2040,
     "uikTvd": "4724018308054",
+    "uikName": "УИК №2040",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -10190,13 +12138,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 98,
-      "Доронин Павел Юрьевич": 135,
-      "Зайцев Артем Николаевич": 430,
-      "Квитка Иван Иванович": 503,
-      "Левченко Иван Григорьевич": 225,
-      "Селиванов Владимир Евгеньевич": 2,
-      "Шарпатов Владимир Ильич": 110
+      "27220001499271": 98,
+      "27220001499418": 135,
+      "27220001495542": 430,
+      "27220001499241": 503,
+      "27220001495574": 225,
+      "27220001499390": 2,
+      "27220001498506": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10206,6 +12154,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10215,8 +12167,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2041,
     "uikTvd": "4724018308055",
+    "uikName": "УИК №2041",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1794,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -10232,13 +12188,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 71,
-      "Доронин Павел Юрьевич": 108,
-      "Зайцев Артем Николаевич": 90,
-      "Квитка Иван Иванович": 400,
-      "Левченко Иван Григорьевич": 114,
-      "Селиванов Владимир Евгеньевич": 51,
-      "Шарпатов Владимир Ильич": 113
+      "27220001499271": 71,
+      "27220001499418": 108,
+      "27220001495542": 90,
+      "27220001499241": 400,
+      "27220001495574": 114,
+      "27220001499390": 51,
+      "27220001498506": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10248,6 +12204,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10257,8 +12217,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2042,
     "uikTvd": "4724018308056",
+    "uikName": "УИК №2042",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1946,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -10274,13 +12238,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 75,
-      "Доронин Павел Юрьевич": 126,
-      "Зайцев Артем Николаевич": 103,
-      "Квитка Иван Иванович": 247,
-      "Левченко Иван Григорьевич": 119,
-      "Селиванов Владимир Евгеньевич": 71,
-      "Шарпатов Владимир Ильич": 139
+      "27220001499271": 75,
+      "27220001499418": 126,
+      "27220001495542": 103,
+      "27220001499241": 247,
+      "27220001495574": 119,
+      "27220001499390": 71,
+      "27220001498506": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10290,6 +12254,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10299,8 +12267,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2043,
     "uikTvd": "4724018308057",
+    "uikName": "УИК №2043",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1762,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -10316,13 +12288,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 51,
-      "Доронин Павел Юрьевич": 64,
-      "Зайцев Артем Николаевич": 84,
-      "Квитка Иван Иванович": 244,
-      "Левченко Иван Григорьевич": 86,
-      "Селиванов Владимир Евгеньевич": 39,
-      "Шарпатов Владимир Ильич": 100
+      "27220001499271": 51,
+      "27220001499418": 64,
+      "27220001495542": 84,
+      "27220001499241": 244,
+      "27220001495574": 86,
+      "27220001499390": 39,
+      "27220001498506": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10332,6 +12304,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10341,8 +12317,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2044,
     "uikTvd": "4724018308058",
+    "uikName": "УИК №2044",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 487,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -10358,13 +12338,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 17,
-      "Доронин Павел Юрьевич": 32,
-      "Зайцев Артем Николаевич": 65,
-      "Квитка Иван Иванович": 150,
-      "Левченко Иван Григорьевич": 36,
-      "Селиванов Владимир Евгеньевич": 21,
-      "Шарпатов Владимир Ильич": 37
+      "27220001499271": 17,
+      "27220001499418": 32,
+      "27220001495542": 65,
+      "27220001499241": 150,
+      "27220001495574": 36,
+      "27220001499390": 21,
+      "27220001498506": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10374,6 +12354,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10383,8 +12367,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2045,
     "uikTvd": "4724018308059",
+    "uikName": "УИК №2045",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1862,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -10400,13 +12388,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 58,
-      "Доронин Павел Юрьевич": 136,
-      "Зайцев Артем Николаевич": 97,
-      "Квитка Иван Иванович": 377,
-      "Левченко Иван Григорьевич": 132,
-      "Селиванов Владимир Евгеньевич": 42,
-      "Шарпатов Владимир Ильич": 123
+      "27220001499271": 58,
+      "27220001499418": 136,
+      "27220001495542": 97,
+      "27220001499241": 377,
+      "27220001495574": 132,
+      "27220001499390": 42,
+      "27220001498506": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10416,6 +12404,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   },
   {
@@ -10425,8 +12417,12 @@ export const duma_2021_uik_463_region_72_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2046,
     "uikTvd": "4724018308060",
+    "uikName": "УИК №2046",
     "tikTvd": "27220001482172",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2414,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -10442,13 +12438,13 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Булатов Рафаэль Равилевич": 67,
-      "Доронин Павел Юрьевич": 93,
-      "Зайцев Артем Николаевич": 186,
-      "Квитка Иван Иванович": 361,
-      "Левченко Иван Григорьевич": 164,
-      "Селиванов Владимир Евгеньевич": 73,
-      "Шарпатов Владимир Ильич": 171
+      "27220001499271": 67,
+      "27220001499418": 93,
+      "27220001495542": 186,
+      "27220001499241": 361,
+      "27220001495574": 164,
+      "27220001499390": 73,
+      "27220001498506": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
@@ -10458,6 +12454,10 @@ export const duma_2021_uik_463_region_72_part_003 = [
       "retrievedAt": "2026-08-26T08:09:01.210775+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=27220001482172&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482172&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100225883683"
     }
   }
 ] satisfies readonly UikProtocol[];

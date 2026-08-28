@@ -22,6 +22,7 @@ class Parameters:
     region_prior_ballots: float = 10_000.0
     dispersion_prior_points: float = 30.0
     fdr_threshold: float = 0.05
+    review_threshold: float = 0.999
 
     def validate(self) -> None:
         values = (
@@ -31,6 +32,7 @@ class Parameters:
             self.region_prior_ballots,
             self.dispersion_prior_points,
             self.fdr_threshold,
+            self.review_threshold,
         )
         if not all(isfinite(value) for value in values):
             raise ValueError("peer-CLT parameters must be finite")
@@ -44,6 +46,8 @@ class Parameters:
             raise ValueError("shrinkage parameters must be positive")
         if not 0 < self.fdr_threshold < 1:
             raise ValueError("FDR threshold must be in (0, 1)")
+        if not 0.9 <= self.review_threshold < 1:
+            raise ValueError("review threshold must be in [0.9, 1)")
 
 
 @dataclass(frozen=True)
@@ -97,6 +101,7 @@ class Analysis:
     observed_votes: int
     expected_votes: float
     flagged_residual_votes: float
+    interval_calibration_scale: float
     estimates: tuple[PointEstimate, ...]
 
     def as_dict(self) -> dict[str, object]:
@@ -128,6 +133,17 @@ class _Prediction:
     residual_share: float
     measurement_variance: float
     quality_flags: tuple[str, ...]
+
+
+@dataclass(frozen=True)
+class _Draft:
+    prediction: _Prediction
+    expected_votes: float
+    binomial_variance: float
+    variance: float
+    residual_votes: float
+    raw_standard_error: float
+    clt_eligible: bool
 
 
 def _invalid_reason(point: Point) -> str | None:
@@ -213,6 +229,17 @@ def _heterogeneity(predictions: list[_Prediction]) -> float | None:
     return max(0, total_variance - measurement)
 
 
+def _quantile(values: list[float], probability: float) -> float:
+    if not values:
+        return 0
+    ordered = sorted(values)
+    position = min(len(ordered) - 1, max(0.0, probability * (len(ordered) - 1)))
+    lower = int(position)
+    fraction = position - lower
+    upper = ordered[lower + 1] if lower + 1 < len(ordered) else ordered[lower]
+    return ordered[lower] + fraction * (upper - ordered[lower])
+
+
 def _normal_survival(value: float) -> float:
     return max(2.220446049250313e-16, 0.5 * erfc(value / sqrt(2)))
 
@@ -246,7 +273,8 @@ def _grade(p_sus: float | None) -> str:
     return "P0"
 
 
-def analyze(points: list[Point], parameters: Parameters = Parameters()) -> Analysis:
+def analyze(points: list[Point], parameters: Parameters | None = None) -> Analysis:
+    parameters = parameters or Parameters()
     parameters.validate()
     estimates: dict[str, PointEstimate] = {}
     usable: list[Point] = []
@@ -353,7 +381,7 @@ def analyze(points: list[Point], parameters: Parameters = Parameters()) -> Analy
         weight = 0 if local is None else len(items) / (len(items) + parameters.dispersion_prior_points)
         tik_tau[tik] = weight * (local if local is not None else parent) + (1 - weight) * parent
 
-    p_values: list[tuple[str, float]] = []
+    drafts: list[_Draft] = []
     for prediction in predictions:
         point = prediction.point
         expected = point.valid_ballots * prediction.expected_share
@@ -368,35 +396,63 @@ def analyze(points: list[Point], parameters: Parameters = Parameters()) -> Analy
             f"{point.region_code}:{point.tik_tvd}", region_tau.get(point.region_code, global_tau)
         )
         variance = max(1e-9, binomial_variance + model_variance + point.valid_ballots**2 * tau)
-        standard_error = sqrt(variance)
         residual = point.option_votes - expected
+        drafts.append(
+            _Draft(
+                prediction=prediction,
+                expected_votes=expected,
+                binomial_variance=binomial_variance,
+                variance=variance,
+                residual_votes=residual,
+                raw_standard_error=sqrt(variance),
+                clt_eligible=expected >= 10 and point.valid_ballots - expected >= 10,
+            )
+        )
+
+    calibration_residuals = [
+        abs(draft.residual_votes / draft.raw_standard_error)
+        for draft in drafts
+        if draft.clt_eligible
+    ]
+    interval_calibration_scale = max(1, _quantile(calibration_residuals, 0.95) / Z_95)
+
+    p_values: list[tuple[str, float]] = []
+    for draft in drafts:
+        prediction = draft.prediction
+        point = prediction.point
+        expected = draft.expected_votes
+        residual = draft.residual_votes
+        standard_error = draft.raw_standard_error * interval_calibration_scale
         z_score = residual / standard_error
         interval = (
             max(0, expected - Z_95 * standard_error),
             min(point.valid_ballots, expected + Z_95 * standard_error),
         )
-        common = dict(
-            id=point.id,
-            observed_votes=point.option_votes,
-            observed_share=point.option_votes / point.valid_ballots,
-            baseline_source=prediction.source,
-            peer_precincts=prediction.peer_precincts,
-            peer_ballots=prediction.peer_ballots,
-            expected_share=prediction.expected_share,
-            expected_votes=expected,
-            residual_votes=residual,
-            standard_error_votes=standard_error,
-            interval95=interval,
-            z_score=z_score,
-            overdispersion=variance / max(1e-9, binomial_variance),
-        )
-        if expected < 10 or point.valid_ballots - expected < 10:
+        common = {
+            "id": point.id,
+            "observed_votes": point.option_votes,
+            "observed_share": point.option_votes / point.valid_ballots,
+            "baseline_source": prediction.source,
+            "peer_precincts": prediction.peer_precincts,
+            "peer_ballots": prediction.peer_ballots,
+            "expected_share": prediction.expected_share,
+            "expected_votes": expected,
+            "residual_votes": residual,
+            "standard_error_votes": standard_error,
+            "interval95": interval,
+            "z_score": z_score,
+            "overdispersion": draft.variance
+            * interval_calibration_scale**2
+            / max(1e-9, draft.binomial_variance),
+        }
+        if not draft.clt_eligible:
             estimates[point.id] = PointEstimate(
                 **common,
                 status="unscored",
                 reason="clt-small-expected-count",
                 grade="U",
-                quality_flags=prediction.quality_flags + ("clt-small-expected-count",),
+                quality_flags=prediction.quality_flags
+                + ("empirical-95-interval-calibration", "clt-small-expected-count"),
             )
             continue
         p_value = _normal_survival((point.option_votes - 0.5 - expected) / standard_error)
@@ -407,7 +463,8 @@ def analyze(points: list[Point], parameters: Parameters = Parameters()) -> Analy
             reason=None,
             grade="P0",
             p_value=p_value,
-            quality_flags=prediction.quality_flags + ("leave-one-out-empirical-calibration",),
+            quality_flags=prediction.quality_flags
+            + ("empirical-95-interval-calibration", "leave-one-out-empirical-calibration"),
         )
 
     for identifier, q_value in _adjust_by(p_values).items():
@@ -432,8 +489,7 @@ def analyze(points: list[Point], parameters: Parameters = Parameters()) -> Analy
     flagged = [
         item
         for item in scored
-        if item.q_value is not None
-        and item.q_value <= parameters.fdr_threshold
+        if (item.p_sus or 0) >= parameters.review_threshold
         and (item.residual_votes or 0) > 0
     ]
     return Analysis(
@@ -447,5 +503,6 @@ def analyze(points: list[Point], parameters: Parameters = Parameters()) -> Analy
         observed_votes=sum(item.observed_votes for item in scored),
         expected_votes=sum(item.expected_votes or 0 for item in scored),
         flagged_residual_votes=sum(item.residual_votes or 0 for item in flagged),
+        interval_calibration_scale=interval_calibration_scale,
         estimates=tuple(estimates[point.id] for point in points),
     )

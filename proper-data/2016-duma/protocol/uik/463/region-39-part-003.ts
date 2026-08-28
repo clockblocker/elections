@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 10,
-      "Маликов Сергей Алексеевич": 0,
-      "Мишин Евгений Викторович": 18,
-      "Павленко Максим Владимирович": 8,
-      "Плешков Игорь Владимирович": 22,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 167,
-      "Федоров Павел Николаевич": 11
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 10,
+      "gas:candidate-vibid:2392000547811": 0,
+      "gas:candidate-vibid:2392000496838": 18,
+      "gas:candidate-vibid:2392000544649": 8,
+      "gas:candidate-vibid:2392000521732": 22,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 167,
+      "gas:candidate-vibid:2392000521395": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 3,
-      "Маликов Сергей Алексеевич": 3,
-      "Мишин Евгений Викторович": 33,
-      "Павленко Максим Владимирович": 11,
-      "Плешков Игорь Владимирович": 14,
-      "Поплавская Людмила Георгиевна": 6,
-      "Силанов Алексей Николаевич": 170,
-      "Федоров Павел Николаевич": 16
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 3,
+      "gas:candidate-vibid:2392000547811": 3,
+      "gas:candidate-vibid:2392000496838": 33,
+      "gas:candidate-vibid:2392000544649": 11,
+      "gas:candidate-vibid:2392000521732": 14,
+      "gas:candidate-vibid:2392000545849": 6,
+      "gas:candidate-vibid:2392000545837": 170,
+      "gas:candidate-vibid:2392000521395": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 4,
-      "Гинзбург Соломон Израилевич": 4,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 23,
-      "Павленко Максим Владимирович": 8,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 1,
-      "Силанов Алексей Николаевич": 147,
-      "Федоров Павел Николаевич": 8
+      "gas:candidate-vibid:2392000544588": 4,
+      "gas:candidate-vibid:2392000544622": 4,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 23,
+      "gas:candidate-vibid:2392000544649": 8,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 1,
+      "gas:candidate-vibid:2392000545837": 147,
+      "gas:candidate-vibid:2392000521395": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 7,
-      "Гинзбург Соломон Израилевич": 13,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 33,
-      "Павленко Максим Владимирович": 11,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 9,
-      "Силанов Алексей Николаевич": 350,
-      "Федоров Павел Николаевич": 16
+      "gas:candidate-vibid:2392000544588": 7,
+      "gas:candidate-vibid:2392000544622": 13,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 33,
+      "gas:candidate-vibid:2392000544649": 11,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 9,
+      "gas:candidate-vibid:2392000545837": 350,
+      "gas:candidate-vibid:2392000521395": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 0,
-      "Гинзбург Соломон Израилевич": 2,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 3,
-      "Павленко Максим Владимирович": 2,
-      "Плешков Игорь Владимирович": 5,
-      "Поплавская Людмила Георгиевна": 3,
-      "Силанов Алексей Николаевич": 66,
-      "Федоров Павел Николаевич": 3
+      "gas:candidate-vibid:2392000544588": 0,
+      "gas:candidate-vibid:2392000544622": 2,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 3,
+      "gas:candidate-vibid:2392000544649": 2,
+      "gas:candidate-vibid:2392000521732": 5,
+      "gas:candidate-vibid:2392000545849": 3,
+      "gas:candidate-vibid:2392000545837": 66,
+      "gas:candidate-vibid:2392000521395": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 3,
-      "Гинзбург Соломон Израилевич": 11,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 29,
-      "Павленко Максим Владимирович": 7,
-      "Плешков Игорь Владимирович": 11,
-      "Поплавская Людмила Георгиевна": 6,
-      "Силанов Алексей Николаевич": 155,
-      "Федоров Павел Николаевич": 12
+      "gas:candidate-vibid:2392000544588": 3,
+      "gas:candidate-vibid:2392000544622": 11,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 29,
+      "gas:candidate-vibid:2392000544649": 7,
+      "gas:candidate-vibid:2392000521732": 11,
+      "gas:candidate-vibid:2392000545849": 6,
+      "gas:candidate-vibid:2392000545837": 155,
+      "gas:candidate-vibid:2392000521395": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 14,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 25,
-      "Павленко Максим Владимирович": 8,
-      "Плешков Игорь Владимирович": 6,
-      "Поплавская Людмила Георгиевна": 7,
-      "Силанов Алексей Николаевич": 238,
-      "Федоров Павел Николаевич": 7
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 14,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 25,
+      "gas:candidate-vibid:2392000544649": 8,
+      "gas:candidate-vibid:2392000521732": 6,
+      "gas:candidate-vibid:2392000545849": 7,
+      "gas:candidate-vibid:2392000545837": 238,
+      "gas:candidate-vibid:2392000521395": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 5,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 21,
-      "Павленко Максим Владимирович": 7,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 14,
-      "Силанов Алексей Николаевич": 94,
-      "Федоров Павел Николаевич": 12
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 5,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 21,
+      "gas:candidate-vibid:2392000544649": 7,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 14,
+      "gas:candidate-vibid:2392000545837": 94,
+      "gas:candidate-vibid:2392000521395": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 11,
-      "Маликов Сергей Алексеевич": 1,
-      "Мишин Евгений Викторович": 43,
-      "Павленко Максим Владимирович": 11,
-      "Плешков Игорь Владимирович": 15,
-      "Поплавская Людмила Георгиевна": 11,
-      "Силанов Алексей Николаевич": 246,
-      "Федоров Павел Николаевич": 9
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 11,
+      "gas:candidate-vibid:2392000547811": 1,
+      "gas:candidate-vibid:2392000496838": 43,
+      "gas:candidate-vibid:2392000544649": 11,
+      "gas:candidate-vibid:2392000521732": 15,
+      "gas:candidate-vibid:2392000545849": 11,
+      "gas:candidate-vibid:2392000545837": 246,
+      "gas:candidate-vibid:2392000521395": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 2,
-      "Гинзбург Соломон Израилевич": 11,
-      "Маликов Сергей Алексеевич": 1,
-      "Мишин Евгений Викторович": 13,
-      "Павленко Максим Владимирович": 8,
-      "Плешков Игорь Владимирович": 10,
-      "Поплавская Людмила Георгиевна": 7,
-      "Силанов Алексей Николаевич": 134,
-      "Федоров Павел Николаевич": 2
+      "gas:candidate-vibid:2392000544588": 2,
+      "gas:candidate-vibid:2392000544622": 11,
+      "gas:candidate-vibid:2392000547811": 1,
+      "gas:candidate-vibid:2392000496838": 13,
+      "gas:candidate-vibid:2392000544649": 8,
+      "gas:candidate-vibid:2392000521732": 10,
+      "gas:candidate-vibid:2392000545849": 7,
+      "gas:candidate-vibid:2392000545837": 134,
+      "gas:candidate-vibid:2392000521395": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 10,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 38,
-      "Павленко Максим Владимирович": 12,
-      "Плешков Игорь Владимирович": 9,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 220,
-      "Федоров Павел Николаевич": 9
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 10,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 38,
+      "gas:candidate-vibid:2392000544649": 12,
+      "gas:candidate-vibid:2392000521732": 9,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 220,
+      "gas:candidate-vibid:2392000521395": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475057&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475057&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 4,
-      "Гинзбург Соломон Израилевич": 8,
-      "Маликов Сергей Алексеевич": 0,
-      "Мишин Евгений Викторович": 18,
-      "Павленко Максим Владимирович": 6,
-      "Плешков Игорь Владимирович": 5,
-      "Поплавская Людмила Георгиевна": 4,
-      "Силанов Алексей Николаевич": 85,
-      "Федоров Павел Николаевич": 7
+      "gas:candidate-vibid:2392000544588": 4,
+      "gas:candidate-vibid:2392000544622": 8,
+      "gas:candidate-vibid:2392000547811": 0,
+      "gas:candidate-vibid:2392000496838": 18,
+      "gas:candidate-vibid:2392000544649": 6,
+      "gas:candidate-vibid:2392000521732": 5,
+      "gas:candidate-vibid:2392000545849": 4,
+      "gas:candidate-vibid:2392000545837": 85,
+      "gas:candidate-vibid:2392000521395": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 4,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 25,
-      "Павленко Максим Владимирович": 4,
-      "Плешков Игорь Владимирович": 14,
-      "Поплавская Людмила Георгиевна": 4,
-      "Силанов Алексей Николаевич": 75,
-      "Федоров Павел Николаевич": 14
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 4,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 25,
+      "gas:candidate-vibid:2392000544649": 4,
+      "gas:candidate-vibid:2392000521732": 14,
+      "gas:candidate-vibid:2392000545849": 4,
+      "gas:candidate-vibid:2392000545837": 75,
+      "gas:candidate-vibid:2392000521395": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 10,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 16,
-      "Павленко Максим Владимирович": 6,
-      "Плешков Игорь Владимирович": 5,
-      "Поплавская Людмила Георгиевна": 6,
-      "Силанов Алексей Николаевич": 139,
-      "Федоров Павел Николаевич": 4
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 10,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 16,
+      "gas:candidate-vibid:2392000544649": 6,
+      "gas:candidate-vibid:2392000521732": 5,
+      "gas:candidate-vibid:2392000545849": 6,
+      "gas:candidate-vibid:2392000545837": 139,
+      "gas:candidate-vibid:2392000521395": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 0,
-      "Гинзбург Соломон Израилевич": 2,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 12,
-      "Павленко Максим Владимирович": 9,
-      "Плешков Игорь Владимирович": 2,
-      "Поплавская Людмила Георгиевна": 2,
-      "Силанов Алексей Николаевич": 78,
-      "Федоров Павел Николаевич": 9
+      "gas:candidate-vibid:2392000544588": 0,
+      "gas:candidate-vibid:2392000544622": 2,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 12,
+      "gas:candidate-vibid:2392000544649": 9,
+      "gas:candidate-vibid:2392000521732": 2,
+      "gas:candidate-vibid:2392000545849": 2,
+      "gas:candidate-vibid:2392000545837": 78,
+      "gas:candidate-vibid:2392000521395": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 4,
-      "Гинзбург Соломон Израилевич": 2,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 44,
-      "Павленко Максим Владимирович": 17,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 168,
-      "Федоров Павел Николаевич": 29
+      "gas:candidate-vibid:2392000544588": 4,
+      "gas:candidate-vibid:2392000544622": 2,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 44,
+      "gas:candidate-vibid:2392000544649": 17,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 168,
+      "gas:candidate-vibid:2392000521395": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 7,
-      "Гинзбург Соломон Израилевич": 16,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 25,
-      "Павленко Максим Владимирович": 19,
-      "Плешков Игорь Владимирович": 19,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 133,
-      "Федоров Павел Николаевич": 10
+      "gas:candidate-vibid:2392000544588": 7,
+      "gas:candidate-vibid:2392000544622": 16,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 25,
+      "gas:candidate-vibid:2392000544649": 19,
+      "gas:candidate-vibid:2392000521732": 19,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 133,
+      "gas:candidate-vibid:2392000521395": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 3,
-      "Гинзбург Соломон Израилевич": 7,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 26,
-      "Павленко Максим Владимирович": 9,
-      "Плешков Игорь Владимирович": 9,
-      "Поплавская Людмила Георгиевна": 1,
-      "Силанов Алексей Николаевич": 114,
-      "Федоров Павел Николаевич": 11
+      "gas:candidate-vibid:2392000544588": 3,
+      "gas:candidate-vibid:2392000544622": 7,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 26,
+      "gas:candidate-vibid:2392000544649": 9,
+      "gas:candidate-vibid:2392000521732": 9,
+      "gas:candidate-vibid:2392000545849": 1,
+      "gas:candidate-vibid:2392000545837": 114,
+      "gas:candidate-vibid:2392000521395": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 4,
-      "Гинзбург Соломон Израилевич": 15,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 40,
-      "Павленко Максим Владимирович": 12,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 2,
-      "Силанов Алексей Николаевич": 187,
-      "Федоров Павел Николаевич": 13
+      "gas:candidate-vibid:2392000544588": 4,
+      "gas:candidate-vibid:2392000544622": 15,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 40,
+      "gas:candidate-vibid:2392000544649": 12,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 2,
+      "gas:candidate-vibid:2392000545837": 187,
+      "gas:candidate-vibid:2392000521395": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 8,
-      "Гинзбург Соломон Израилевич": 11,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 33,
-      "Павленко Максим Владимирович": 10,
-      "Плешков Игорь Владимирович": 7,
-      "Поплавская Людмила Георгиевна": 11,
-      "Силанов Алексей Николаевич": 146,
-      "Федоров Павел Николаевич": 17
+      "gas:candidate-vibid:2392000544588": 8,
+      "gas:candidate-vibid:2392000544622": 11,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 33,
+      "gas:candidate-vibid:2392000544649": 10,
+      "gas:candidate-vibid:2392000521732": 7,
+      "gas:candidate-vibid:2392000545849": 11,
+      "gas:candidate-vibid:2392000545837": 146,
+      "gas:candidate-vibid:2392000521395": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 1,
-      "Гинзбург Соломон Израилевич": 2,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 12,
-      "Павленко Максим Владимирович": 10,
-      "Плешков Игорь Владимирович": 8,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 135,
-      "Федоров Павел Николаевич": 16
+      "gas:candidate-vibid:2392000544588": 1,
+      "gas:candidate-vibid:2392000544622": 2,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 12,
+      "gas:candidate-vibid:2392000544649": 10,
+      "gas:candidate-vibid:2392000521732": 8,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 135,
+      "gas:candidate-vibid:2392000521395": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 3,
-      "Гинзбург Соломон Израилевич": 11,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 28,
-      "Павленко Максим Владимирович": 6,
-      "Плешков Игорь Владимирович": 6,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 88,
-      "Федоров Павел Николаевич": 11
+      "gas:candidate-vibid:2392000544588": 3,
+      "gas:candidate-vibid:2392000544622": 11,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 28,
+      "gas:candidate-vibid:2392000544649": 6,
+      "gas:candidate-vibid:2392000521732": 6,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 88,
+      "gas:candidate-vibid:2392000521395": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 2,
-      "Гинзбург Соломон Израилевич": 4,
-      "Маликов Сергей Алексеевич": 3,
-      "Мишин Евгений Викторович": 14,
-      "Павленко Максим Владимирович": 6,
-      "Плешков Игорь Владимирович": 8,
-      "Поплавская Людмила Георгиевна": 3,
-      "Силанов Алексей Николаевич": 101,
-      "Федоров Павел Николаевич": 7
+      "gas:candidate-vibid:2392000544588": 2,
+      "gas:candidate-vibid:2392000544622": 4,
+      "gas:candidate-vibid:2392000547811": 3,
+      "gas:candidate-vibid:2392000496838": 14,
+      "gas:candidate-vibid:2392000544649": 6,
+      "gas:candidate-vibid:2392000521732": 8,
+      "gas:candidate-vibid:2392000545849": 3,
+      "gas:candidate-vibid:2392000545837": 101,
+      "gas:candidate-vibid:2392000521395": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 7,
-      "Гинзбург Соломон Израилевич": 3,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 16,
-      "Павленко Максим Владимирович": 8,
-      "Плешков Игорь Владимирович": 8,
-      "Поплавская Людмила Георгиевна": 3,
-      "Силанов Алексей Николаевич": 125,
-      "Федоров Павел Николаевич": 6
+      "gas:candidate-vibid:2392000544588": 7,
+      "gas:candidate-vibid:2392000544622": 3,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 16,
+      "gas:candidate-vibid:2392000544649": 8,
+      "gas:candidate-vibid:2392000521732": 8,
+      "gas:candidate-vibid:2392000545849": 3,
+      "gas:candidate-vibid:2392000545837": 125,
+      "gas:candidate-vibid:2392000521395": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 3,
-      "Маликов Сергей Алексеевич": 3,
-      "Мишин Евгений Викторович": 20,
-      "Павленко Максим Владимирович": 4,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 2,
-      "Силанов Алексей Николаевич": 116,
-      "Федоров Павел Николаевич": 8
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 3,
+      "gas:candidate-vibid:2392000547811": 3,
+      "gas:candidate-vibid:2392000496838": 20,
+      "gas:candidate-vibid:2392000544649": 4,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 2,
+      "gas:candidate-vibid:2392000545837": 116,
+      "gas:candidate-vibid:2392000521395": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 4,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 21,
-      "Павленко Максим Владимирович": 9,
-      "Плешков Игорь Владимирович": 6,
-      "Поплавская Людмила Георгиевна": 6,
-      "Силанов Алексей Николаевич": 96,
-      "Федоров Павел Николаевич": 4
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 4,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 21,
+      "gas:candidate-vibid:2392000544649": 9,
+      "gas:candidate-vibid:2392000521732": 6,
+      "gas:candidate-vibid:2392000545849": 6,
+      "gas:candidate-vibid:2392000545837": 96,
+      "gas:candidate-vibid:2392000521395": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 9,
-      "Гинзбург Соломон Израилевич": 12,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 38,
-      "Павленко Максим Владимирович": 18,
-      "Плешков Игорь Владимирович": 20,
-      "Поплавская Людмила Георгиевна": 18,
-      "Силанов Алексей Николаевич": 145,
-      "Федоров Павел Николаевич": 11
+      "gas:candidate-vibid:2392000544588": 9,
+      "gas:candidate-vibid:2392000544622": 12,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 38,
+      "gas:candidate-vibid:2392000544649": 18,
+      "gas:candidate-vibid:2392000521732": 20,
+      "gas:candidate-vibid:2392000545849": 18,
+      "gas:candidate-vibid:2392000545837": 145,
+      "gas:candidate-vibid:2392000521395": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 2,
-      "Гинзбург Соломон Израилевич": 5,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 14,
-      "Павленко Максим Владимирович": 4,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 4,
-      "Силанов Алексей Николаевич": 84,
-      "Федоров Павел Николаевич": 12
+      "gas:candidate-vibid:2392000544588": 2,
+      "gas:candidate-vibid:2392000544622": 5,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 14,
+      "gas:candidate-vibid:2392000544649": 4,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 4,
+      "gas:candidate-vibid:2392000545837": 84,
+      "gas:candidate-vibid:2392000521395": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 15,
-      "Гинзбург Соломон Израилевич": 35,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 132,
-      "Павленко Максим Владимирович": 44,
-      "Плешков Игорь Владимирович": 88,
-      "Поплавская Людмила Георгиевна": 18,
-      "Силанов Алексей Николаевич": 390,
-      "Федоров Павел Николаевич": 55
+      "gas:candidate-vibid:2392000544588": 15,
+      "gas:candidate-vibid:2392000544622": 35,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 132,
+      "gas:candidate-vibid:2392000544649": 44,
+      "gas:candidate-vibid:2392000521732": 88,
+      "gas:candidate-vibid:2392000545849": 18,
+      "gas:candidate-vibid:2392000545837": 390,
+      "gas:candidate-vibid:2392000521395": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 12,
-      "Гинзбург Соломон Израилевич": 33,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 97,
-      "Павленко Максим Владимирович": 40,
-      "Плешков Игорь Владимирович": 76,
-      "Поплавская Людмила Георгиевна": 24,
-      "Силанов Алексей Николаевич": 268,
-      "Федоров Павел Николаевич": 60
+      "gas:candidate-vibid:2392000544588": 12,
+      "gas:candidate-vibid:2392000544622": 33,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 97,
+      "gas:candidate-vibid:2392000544649": 40,
+      "gas:candidate-vibid:2392000521732": 76,
+      "gas:candidate-vibid:2392000545849": 24,
+      "gas:candidate-vibid:2392000545837": 268,
+      "gas:candidate-vibid:2392000521395": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475058&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475058&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 21,
-      "Гинзбург Соломон Израилевич": 37,
-      "Маликов Сергей Алексеевич": 14,
-      "Мишин Евгений Викторович": 106,
-      "Павленко Максим Владимирович": 72,
-      "Плешков Игорь Владимирович": 128,
-      "Поплавская Людмила Георгиевна": 24,
-      "Силанов Алексей Николаевич": 471,
-      "Федоров Павел Николаевич": 71
+      "gas:candidate-vibid:2392000544588": 21,
+      "gas:candidate-vibid:2392000544622": 37,
+      "gas:candidate-vibid:2392000547811": 14,
+      "gas:candidate-vibid:2392000496838": 106,
+      "gas:candidate-vibid:2392000544649": 72,
+      "gas:candidate-vibid:2392000521732": 128,
+      "gas:candidate-vibid:2392000545849": 24,
+      "gas:candidate-vibid:2392000545837": 471,
+      "gas:candidate-vibid:2392000521395": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 24,
-      "Гинзбург Соломон Израилевич": 17,
-      "Маликов Сергей Алексеевич": 9,
-      "Мишин Евгений Викторович": 47,
-      "Павленко Максим Владимирович": 17,
-      "Плешков Игорь Владимирович": 44,
-      "Поплавская Людмила Георгиевна": 12,
-      "Силанов Алексей Николаевич": 265,
-      "Федоров Павел Николаевич": 22
+      "gas:candidate-vibid:2392000544588": 24,
+      "gas:candidate-vibid:2392000544622": 17,
+      "gas:candidate-vibid:2392000547811": 9,
+      "gas:candidate-vibid:2392000496838": 47,
+      "gas:candidate-vibid:2392000544649": 17,
+      "gas:candidate-vibid:2392000521732": 44,
+      "gas:candidate-vibid:2392000545849": 12,
+      "gas:candidate-vibid:2392000545837": 265,
+      "gas:candidate-vibid:2392000521395": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 27,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 81,
-      "Павленко Максим Владимирович": 33,
-      "Плешков Игорь Владимирович": 71,
-      "Поплавская Людмила Георгиевна": 17,
-      "Силанов Алексей Николаевич": 255,
-      "Федоров Павел Николаевич": 27
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 27,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 81,
+      "gas:candidate-vibid:2392000544649": 33,
+      "gas:candidate-vibid:2392000521732": 71,
+      "gas:candidate-vibid:2392000545849": 17,
+      "gas:candidate-vibid:2392000545837": 255,
+      "gas:candidate-vibid:2392000521395": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 63,
-      "Гинзбург Соломон Израилевич": 38,
-      "Маликов Сергей Алексеевич": 69,
-      "Мишин Евгений Викторович": 132,
-      "Павленко Максим Владимирович": 63,
-      "Плешков Игорь Владимирович": 56,
-      "Поплавская Людмила Георгиевна": 63,
-      "Силанов Алексей Николаевич": 454,
-      "Федоров Павел Николаевич": 42
+      "gas:candidate-vibid:2392000544588": 63,
+      "gas:candidate-vibid:2392000544622": 38,
+      "gas:candidate-vibid:2392000547811": 69,
+      "gas:candidate-vibid:2392000496838": 132,
+      "gas:candidate-vibid:2392000544649": 63,
+      "gas:candidate-vibid:2392000521732": 56,
+      "gas:candidate-vibid:2392000545849": 63,
+      "gas:candidate-vibid:2392000545837": 454,
+      "gas:candidate-vibid:2392000521395": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 17,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 52,
-      "Павленко Максим Владимирович": 44,
-      "Плешков Игорь Владимирович": 56,
-      "Поплавская Людмила Георгиевна": 18,
-      "Силанов Алексей Николаевич": 278,
-      "Федоров Павел Николаевич": 13
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 17,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 52,
+      "gas:candidate-vibid:2392000544649": 44,
+      "gas:candidate-vibid:2392000521732": 56,
+      "gas:candidate-vibid:2392000545849": 18,
+      "gas:candidate-vibid:2392000545837": 278,
+      "gas:candidate-vibid:2392000521395": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 25,
-      "Гинзбург Соломон Израилевич": 25,
-      "Маликов Сергей Алексеевич": 15,
-      "Мишин Евгений Викторович": 97,
-      "Павленко Максим Владимирович": 39,
-      "Плешков Игорь Владимирович": 54,
-      "Поплавская Людмила Георгиевна": 22,
-      "Силанов Алексей Николаевич": 348,
-      "Федоров Павел Николаевич": 40
+      "gas:candidate-vibid:2392000544588": 25,
+      "gas:candidate-vibid:2392000544622": 25,
+      "gas:candidate-vibid:2392000547811": 15,
+      "gas:candidate-vibid:2392000496838": 97,
+      "gas:candidate-vibid:2392000544649": 39,
+      "gas:candidate-vibid:2392000521732": 54,
+      "gas:candidate-vibid:2392000545849": 22,
+      "gas:candidate-vibid:2392000545837": 348,
+      "gas:candidate-vibid:2392000521395": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 21,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 48,
-      "Павленко Максим Владимирович": 18,
-      "Плешков Игорь Владимирович": 31,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 240,
-      "Федоров Павел Николаевич": 22
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 21,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 48,
+      "gas:candidate-vibid:2392000544649": 18,
+      "gas:candidate-vibid:2392000521732": 31,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 240,
+      "gas:candidate-vibid:2392000521395": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 9,
-      "Гинзбург Соломон Израилевич": 14,
-      "Маликов Сергей Алексеевич": 9,
-      "Мишин Евгений Викторович": 19,
-      "Павленко Максим Владимирович": 14,
-      "Плешков Игорь Владимирович": 9,
-      "Поплавская Людмила Георгиевна": 6,
-      "Силанов Алексей Николаевич": 240,
-      "Федоров Павел Николаевич": 4
+      "gas:candidate-vibid:2392000544588": 9,
+      "gas:candidate-vibid:2392000544622": 14,
+      "gas:candidate-vibid:2392000547811": 9,
+      "gas:candidate-vibid:2392000496838": 19,
+      "gas:candidate-vibid:2392000544649": 14,
+      "gas:candidate-vibid:2392000521732": 9,
+      "gas:candidate-vibid:2392000545849": 6,
+      "gas:candidate-vibid:2392000545837": 240,
+      "gas:candidate-vibid:2392000521395": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 4,
-      "Гинзбург Соломон Израилевич": 11,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 27,
-      "Павленко Максим Владимирович": 7,
-      "Плешков Игорь Владимирович": 14,
-      "Поплавская Людмила Георгиевна": 7,
-      "Силанов Алексей Николаевич": 157,
-      "Федоров Павел Николаевич": 3
+      "gas:candidate-vibid:2392000544588": 4,
+      "gas:candidate-vibid:2392000544622": 11,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 27,
+      "gas:candidate-vibid:2392000544649": 7,
+      "gas:candidate-vibid:2392000521732": 14,
+      "gas:candidate-vibid:2392000545849": 7,
+      "gas:candidate-vibid:2392000545837": 157,
+      "gas:candidate-vibid:2392000521395": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 7,
-      "Гинзбург Соломон Израилевич": 10,
-      "Маликов Сергей Алексеевич": 9,
-      "Мишин Евгений Викторович": 19,
-      "Павленко Максим Владимирович": 26,
-      "Плешков Игорь Владимирович": 24,
-      "Поплавская Людмила Георгиевна": 6,
-      "Силанов Алексей Николаевич": 208,
-      "Федоров Павел Николаевич": 15
+      "gas:candidate-vibid:2392000544588": 7,
+      "gas:candidate-vibid:2392000544622": 10,
+      "gas:candidate-vibid:2392000547811": 9,
+      "gas:candidate-vibid:2392000496838": 19,
+      "gas:candidate-vibid:2392000544649": 26,
+      "gas:candidate-vibid:2392000521732": 24,
+      "gas:candidate-vibid:2392000545849": 6,
+      "gas:candidate-vibid:2392000545837": 208,
+      "gas:candidate-vibid:2392000521395": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 12,
-      "Гинзбург Соломон Израилевич": 14,
-      "Маликов Сергей Алексеевич": 9,
-      "Мишин Евгений Викторович": 90,
-      "Павленко Максим Владимирович": 28,
-      "Плешков Игорь Владимирович": 40,
-      "Поплавская Людмила Георгиевна": 18,
-      "Силанов Алексей Николаевич": 340,
-      "Федоров Павел Николаевич": 27
+      "gas:candidate-vibid:2392000544588": 12,
+      "gas:candidate-vibid:2392000544622": 14,
+      "gas:candidate-vibid:2392000547811": 9,
+      "gas:candidate-vibid:2392000496838": 90,
+      "gas:candidate-vibid:2392000544649": 28,
+      "gas:candidate-vibid:2392000521732": 40,
+      "gas:candidate-vibid:2392000545849": 18,
+      "gas:candidate-vibid:2392000545837": 340,
+      "gas:candidate-vibid:2392000521395": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 15,
-      "Гинзбург Соломон Израилевич": 15,
-      "Маликов Сергей Алексеевич": 15,
-      "Мишин Евгений Викторович": 47,
-      "Павленко Максим Владимирович": 31,
-      "Плешков Игорь Владимирович": 51,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 164,
-      "Федоров Павел Николаевич": 17
+      "gas:candidate-vibid:2392000544588": 15,
+      "gas:candidate-vibid:2392000544622": 15,
+      "gas:candidate-vibid:2392000547811": 15,
+      "gas:candidate-vibid:2392000496838": 47,
+      "gas:candidate-vibid:2392000544649": 31,
+      "gas:candidate-vibid:2392000521732": 51,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 164,
+      "gas:candidate-vibid:2392000521395": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 30,
-      "Маликов Сергей Алексеевич": 7,
-      "Мишин Евгений Викторович": 21,
-      "Павленко Максим Владимирович": 31,
-      "Плешков Игорь Владимирович": 31,
-      "Поплавская Людмила Георгиевна": 15,
-      "Силанов Алексей Николаевич": 228,
-      "Федоров Павел Николаевич": 9
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 30,
+      "gas:candidate-vibid:2392000547811": 7,
+      "gas:candidate-vibid:2392000496838": 21,
+      "gas:candidate-vibid:2392000544649": 31,
+      "gas:candidate-vibid:2392000521732": 31,
+      "gas:candidate-vibid:2392000545849": 15,
+      "gas:candidate-vibid:2392000545837": 228,
+      "gas:candidate-vibid:2392000521395": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 4,
-      "Гинзбург Соломон Израилевич": 1,
-      "Маликов Сергей Алексеевич": 8,
-      "Мишин Евгений Викторович": 10,
-      "Павленко Максим Владимирович": 4,
-      "Плешков Игорь Владимирович": 14,
-      "Поплавская Людмила Георгиевна": 4,
-      "Силанов Алексей Николаевич": 117,
-      "Федоров Павел Николаевич": 5
+      "gas:candidate-vibid:2392000544588": 4,
+      "gas:candidate-vibid:2392000544622": 1,
+      "gas:candidate-vibid:2392000547811": 8,
+      "gas:candidate-vibid:2392000496838": 10,
+      "gas:candidate-vibid:2392000544649": 4,
+      "gas:candidate-vibid:2392000521732": 14,
+      "gas:candidate-vibid:2392000545849": 4,
+      "gas:candidate-vibid:2392000545837": 117,
+      "gas:candidate-vibid:2392000521395": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 11,
-      "Гинзбург Соломон Израилевич": 9,
-      "Маликов Сергей Алексеевич": 9,
-      "Мишин Евгений Викторович": 22,
-      "Павленко Максим Владимирович": 22,
-      "Плешков Игорь Владимирович": 14,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 147,
-      "Федоров Павел Николаевич": 10
+      "gas:candidate-vibid:2392000544588": 11,
+      "gas:candidate-vibid:2392000544622": 9,
+      "gas:candidate-vibid:2392000547811": 9,
+      "gas:candidate-vibid:2392000496838": 22,
+      "gas:candidate-vibid:2392000544649": 22,
+      "gas:candidate-vibid:2392000521732": 14,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 147,
+      "gas:candidate-vibid:2392000521395": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475059&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475059&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 12,
-      "Маликов Сергей Алексеевич": 9,
-      "Мишин Евгений Викторович": 24,
-      "Павленко Максим Владимирович": 13,
-      "Плешков Игорь Владимирович": 17,
-      "Поплавская Людмила Георгиевна": 4,
-      "Силанов Алексей Николаевич": 71,
-      "Федоров Павел Николаевич": 35
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 12,
+      "gas:candidate-vibid:2392000547811": 9,
+      "gas:candidate-vibid:2392000496838": 24,
+      "gas:candidate-vibid:2392000544649": 13,
+      "gas:candidate-vibid:2392000521732": 17,
+      "gas:candidate-vibid:2392000545849": 4,
+      "gas:candidate-vibid:2392000545837": 71,
+      "gas:candidate-vibid:2392000521395": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 13,
-      "Гинзбург Соломон Израилевич": 21,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 104,
-      "Павленко Максим Владимирович": 21,
-      "Плешков Игорь Владимирович": 89,
-      "Поплавская Людмила Георгиевна": 22,
-      "Силанов Алексей Николаевич": 227,
-      "Федоров Павел Николаевич": 63
+      "gas:candidate-vibid:2392000544588": 13,
+      "gas:candidate-vibid:2392000544622": 21,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 104,
+      "gas:candidate-vibid:2392000544649": 21,
+      "gas:candidate-vibid:2392000521732": 89,
+      "gas:candidate-vibid:2392000545849": 22,
+      "gas:candidate-vibid:2392000545837": 227,
+      "gas:candidate-vibid:2392000521395": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 11,
-      "Гинзбург Соломон Израилевич": 21,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 42,
-      "Павленко Максим Владимирович": 16,
-      "Плешков Игорь Владимирович": 121,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 163,
-      "Федоров Павел Николаевич": 80
+      "gas:candidate-vibid:2392000544588": 11,
+      "gas:candidate-vibid:2392000544622": 21,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 42,
+      "gas:candidate-vibid:2392000544649": 16,
+      "gas:candidate-vibid:2392000521732": 121,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 163,
+      "gas:candidate-vibid:2392000521395": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 37,
-      "Гинзбург Соломон Израилевич": 32,
-      "Маликов Сергей Алексеевич": 21,
-      "Мишин Евгений Викторович": 96,
-      "Павленко Максим Владимирович": 37,
-      "Плешков Игорь Владимирович": 138,
-      "Поплавская Людмила Георгиевна": 45,
-      "Силанов Алексей Николаевич": 264,
-      "Федоров Павел Николаевич": 66
+      "gas:candidate-vibid:2392000544588": 37,
+      "gas:candidate-vibid:2392000544622": 32,
+      "gas:candidate-vibid:2392000547811": 21,
+      "gas:candidate-vibid:2392000496838": 96,
+      "gas:candidate-vibid:2392000544649": 37,
+      "gas:candidate-vibid:2392000521732": 138,
+      "gas:candidate-vibid:2392000545849": 45,
+      "gas:candidate-vibid:2392000545837": 264,
+      "gas:candidate-vibid:2392000521395": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 16,
-      "Гинзбург Соломон Израилевич": 24,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 53,
-      "Павленко Максим Владимирович": 30,
-      "Плешков Игорь Владимирович": 94,
-      "Поплавская Людмила Георгиевна": 21,
-      "Силанов Алексей Николаевич": 124,
-      "Федоров Павел Николаевич": 60
+      "gas:candidate-vibid:2392000544588": 16,
+      "gas:candidate-vibid:2392000544622": 24,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 53,
+      "gas:candidate-vibid:2392000544649": 30,
+      "gas:candidate-vibid:2392000521732": 94,
+      "gas:candidate-vibid:2392000545849": 21,
+      "gas:candidate-vibid:2392000545837": 124,
+      "gas:candidate-vibid:2392000521395": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 62,
-      "Гинзбург Соломон Израилевич": 48,
-      "Маликов Сергей Алексеевич": 19,
-      "Мишин Евгений Викторович": 98,
-      "Павленко Максим Владимирович": 41,
-      "Плешков Игорь Владимирович": 152,
-      "Поплавская Людмила Георгиевна": 30,
-      "Силанов Алексей Николаевич": 262,
-      "Федоров Павел Николаевич": 100
+      "gas:candidate-vibid:2392000544588": 62,
+      "gas:candidate-vibid:2392000544622": 48,
+      "gas:candidate-vibid:2392000547811": 19,
+      "gas:candidate-vibid:2392000496838": 98,
+      "gas:candidate-vibid:2392000544649": 41,
+      "gas:candidate-vibid:2392000521732": 152,
+      "gas:candidate-vibid:2392000545849": 30,
+      "gas:candidate-vibid:2392000545837": 262,
+      "gas:candidate-vibid:2392000521395": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 13,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 44,
-      "Павленко Максим Владимирович": 21,
-      "Плешков Игорь Владимирович": 62,
-      "Поплавская Людмила Георгиевна": 14,
-      "Силанов Алексей Николаевич": 146,
-      "Федоров Павел Николаевич": 36
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 13,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 44,
+      "gas:candidate-vibid:2392000544649": 21,
+      "gas:candidate-vibid:2392000521732": 62,
+      "gas:candidate-vibid:2392000545849": 14,
+      "gas:candidate-vibid:2392000545837": 146,
+      "gas:candidate-vibid:2392000521395": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 18,
-      "Гинзбург Соломон Израилевич": 31,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 52,
-      "Павленко Максим Владимирович": 28,
-      "Плешков Игорь Владимирович": 142,
-      "Поплавская Людмила Георгиевна": 17,
-      "Силанов Алексей Николаевич": 140,
-      "Федоров Павел Николаевич": 57
+      "gas:candidate-vibid:2392000544588": 18,
+      "gas:candidate-vibid:2392000544622": 31,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 52,
+      "gas:candidate-vibid:2392000544649": 28,
+      "gas:candidate-vibid:2392000521732": 142,
+      "gas:candidate-vibid:2392000545849": 17,
+      "gas:candidate-vibid:2392000545837": 140,
+      "gas:candidate-vibid:2392000521395": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 23,
-      "Гинзбург Соломон Израилевич": 49,
-      "Маликов Сергей Алексеевич": 11,
-      "Мишин Евгений Викторович": 149,
-      "Павленко Максим Владимирович": 53,
-      "Плешков Игорь Владимирович": 183,
-      "Поплавская Людмила Георгиевна": 39,
-      "Силанов Алексей Николаевич": 321,
-      "Федоров Павел Николаевич": 129
+      "gas:candidate-vibid:2392000544588": 23,
+      "gas:candidate-vibid:2392000544622": 49,
+      "gas:candidate-vibid:2392000547811": 11,
+      "gas:candidate-vibid:2392000496838": 149,
+      "gas:candidate-vibid:2392000544649": 53,
+      "gas:candidate-vibid:2392000521732": 183,
+      "gas:candidate-vibid:2392000545849": 39,
+      "gas:candidate-vibid:2392000545837": 321,
+      "gas:candidate-vibid:2392000521395": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 14,
-      "Гинзбург Соломон Израилевич": 44,
-      "Маликов Сергей Алексеевич": 3,
-      "Мишин Евгений Викторович": 82,
-      "Павленко Максим Владимирович": 37,
-      "Плешков Игорь Владимирович": 178,
-      "Поплавская Людмила Георгиевна": 31,
-      "Силанов Алексей Николаевич": 260,
-      "Федоров Павел Николаевич": 89
+      "gas:candidate-vibid:2392000544588": 14,
+      "gas:candidate-vibid:2392000544622": 44,
+      "gas:candidate-vibid:2392000547811": 3,
+      "gas:candidate-vibid:2392000496838": 82,
+      "gas:candidate-vibid:2392000544649": 37,
+      "gas:candidate-vibid:2392000521732": 178,
+      "gas:candidate-vibid:2392000545849": 31,
+      "gas:candidate-vibid:2392000545837": 260,
+      "gas:candidate-vibid:2392000521395": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 7,
-      "Гинзбург Соломон Израилевич": 22,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 54,
-      "Павленко Максим Владимирович": 15,
-      "Плешков Игорь Владимирович": 61,
-      "Поплавская Людмила Георгиевна": 11,
-      "Силанов Алексей Николаевич": 132,
-      "Федоров Павел Николаевич": 40
+      "gas:candidate-vibid:2392000544588": 7,
+      "gas:candidate-vibid:2392000544622": 22,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 54,
+      "gas:candidate-vibid:2392000544649": 15,
+      "gas:candidate-vibid:2392000521732": 61,
+      "gas:candidate-vibid:2392000545849": 11,
+      "gas:candidate-vibid:2392000545837": 132,
+      "gas:candidate-vibid:2392000521395": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 17,
-      "Гинзбург Соломон Израилевич": 48,
-      "Маликов Сергей Алексеевич": 1,
-      "Мишин Евгений Викторович": 72,
-      "Павленко Максим Владимирович": 37,
-      "Плешков Игорь Владимирович": 217,
-      "Поплавская Людмила Георгиевна": 15,
-      "Силанов Алексей Николаевич": 253,
-      "Федоров Павел Николаевич": 82
+      "gas:candidate-vibid:2392000544588": 17,
+      "gas:candidate-vibid:2392000544622": 48,
+      "gas:candidate-vibid:2392000547811": 1,
+      "gas:candidate-vibid:2392000496838": 72,
+      "gas:candidate-vibid:2392000544649": 37,
+      "gas:candidate-vibid:2392000521732": 217,
+      "gas:candidate-vibid:2392000545849": 15,
+      "gas:candidate-vibid:2392000545837": 253,
+      "gas:candidate-vibid:2392000521395": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 33,
-      "Гинзбург Соломон Израилевич": 45,
-      "Маликов Сергей Алексеевич": 18,
-      "Мишин Евгений Викторович": 130,
-      "Павленко Максим Владимирович": 48,
-      "Плешков Игорь Владимирович": 233,
-      "Поплавская Людмила Георгиевна": 39,
-      "Силанов Алексей Николаевич": 310,
-      "Федоров Павел Николаевич": 107
+      "gas:candidate-vibid:2392000544588": 33,
+      "gas:candidate-vibid:2392000544622": 45,
+      "gas:candidate-vibid:2392000547811": 18,
+      "gas:candidate-vibid:2392000496838": 130,
+      "gas:candidate-vibid:2392000544649": 48,
+      "gas:candidate-vibid:2392000521732": 233,
+      "gas:candidate-vibid:2392000545849": 39,
+      "gas:candidate-vibid:2392000545837": 310,
+      "gas:candidate-vibid:2392000521395": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 15,
-      "Гинзбург Соломон Израилевич": 36,
-      "Маликов Сергей Алексеевич": 8,
-      "Мишин Евгений Викторович": 114,
-      "Павленко Максим Владимирович": 37,
-      "Плешков Игорь Владимирович": 237,
-      "Поплавская Людмила Георгиевна": 29,
-      "Силанов Алексей Николаевич": 236,
-      "Федоров Павел Николаевич": 75
+      "gas:candidate-vibid:2392000544588": 15,
+      "gas:candidate-vibid:2392000544622": 36,
+      "gas:candidate-vibid:2392000547811": 8,
+      "gas:candidate-vibid:2392000496838": 114,
+      "gas:candidate-vibid:2392000544649": 37,
+      "gas:candidate-vibid:2392000521732": 237,
+      "gas:candidate-vibid:2392000545849": 29,
+      "gas:candidate-vibid:2392000545837": 236,
+      "gas:candidate-vibid:2392000521395": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 18,
-      "Гинзбург Соломон Израилевич": 47,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 98,
-      "Павленко Максим Владимирович": 37,
-      "Плешков Игорь Владимирович": 280,
-      "Поплавская Людмила Георгиевна": 29,
-      "Силанов Алексей Николаевич": 240,
-      "Федоров Павел Николаевич": 97
+      "gas:candidate-vibid:2392000544588": 18,
+      "gas:candidate-vibid:2392000544622": 47,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 98,
+      "gas:candidate-vibid:2392000544649": 37,
+      "gas:candidate-vibid:2392000521732": 280,
+      "gas:candidate-vibid:2392000545849": 29,
+      "gas:candidate-vibid:2392000545837": 240,
+      "gas:candidate-vibid:2392000521395": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 16,
-      "Гинзбург Соломон Израилевич": 24,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 60,
-      "Павленко Максим Владимирович": 30,
-      "Плешков Игорь Владимирович": 119,
-      "Поплавская Людмила Георгиевна": 15,
-      "Силанов Алексей Николаевич": 139,
-      "Федоров Павел Николаевич": 36
+      "gas:candidate-vibid:2392000544588": 16,
+      "gas:candidate-vibid:2392000544622": 24,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 60,
+      "gas:candidate-vibid:2392000544649": 30,
+      "gas:candidate-vibid:2392000521732": 119,
+      "gas:candidate-vibid:2392000545849": 15,
+      "gas:candidate-vibid:2392000545837": 139,
+      "gas:candidate-vibid:2392000521395": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 20,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 57,
-      "Павленко Максим Владимирович": 33,
-      "Плешков Игорь Владимирович": 109,
-      "Поплавская Людмила Георгиевна": 16,
-      "Силанов Алексей Николаевич": 161,
-      "Федоров Павел Николаевич": 62
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 20,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 57,
+      "gas:candidate-vibid:2392000544649": 33,
+      "gas:candidate-vibid:2392000521732": 109,
+      "gas:candidate-vibid:2392000545849": 16,
+      "gas:candidate-vibid:2392000545837": 161,
+      "gas:candidate-vibid:2392000521395": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 16,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 39,
-      "Павленко Максим Владимирович": 24,
-      "Плешков Игорь Владимирович": 132,
-      "Поплавская Людмила Георгиевна": 12,
-      "Силанов Алексей Николаевич": 145,
-      "Федоров Павел Николаевич": 46
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 16,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 39,
+      "gas:candidate-vibid:2392000544649": 24,
+      "gas:candidate-vibid:2392000521732": 132,
+      "gas:candidate-vibid:2392000545849": 12,
+      "gas:candidate-vibid:2392000545837": 145,
+      "gas:candidate-vibid:2392000521395": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 22,
-      "Гинзбург Соломон Израилевич": 26,
-      "Маликов Сергей Алексеевич": 10,
-      "Мишин Евгений Викторович": 96,
-      "Павленко Максим Владимирович": 25,
-      "Плешков Игорь Владимирович": 105,
-      "Поплавская Людмила Георгиевна": 15,
-      "Силанов Алексей Николаевич": 216,
-      "Федоров Павел Николаевич": 54
+      "gas:candidate-vibid:2392000544588": 22,
+      "gas:candidate-vibid:2392000544622": 26,
+      "gas:candidate-vibid:2392000547811": 10,
+      "gas:candidate-vibid:2392000496838": 96,
+      "gas:candidate-vibid:2392000544649": 25,
+      "gas:candidate-vibid:2392000521732": 105,
+      "gas:candidate-vibid:2392000545849": 15,
+      "gas:candidate-vibid:2392000545837": 216,
+      "gas:candidate-vibid:2392000521395": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 14,
-      "Гинзбург Соломон Израилевич": 30,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 75,
-      "Павленко Максим Владимирович": 41,
-      "Плешков Игорь Владимирович": 168,
-      "Поплавская Людмила Георгиевна": 16,
-      "Силанов Алексей Николаевич": 270,
-      "Федоров Павел Николаевич": 83
+      "gas:candidate-vibid:2392000544588": 14,
+      "gas:candidate-vibid:2392000544622": 30,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 75,
+      "gas:candidate-vibid:2392000544649": 41,
+      "gas:candidate-vibid:2392000521732": 168,
+      "gas:candidate-vibid:2392000545849": 16,
+      "gas:candidate-vibid:2392000545837": 270,
+      "gas:candidate-vibid:2392000521395": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 17,
-      "Гинзбург Соломон Израилевич": 28,
-      "Маликов Сергей Алексеевич": 3,
-      "Мишин Евгений Викторович": 71,
-      "Павленко Максим Владимирович": 25,
-      "Плешков Игорь Владимирович": 92,
-      "Поплавская Людмила Георгиевна": 12,
-      "Силанов Алексей Николаевич": 167,
-      "Федоров Павел Николаевич": 57
+      "gas:candidate-vibid:2392000544588": 17,
+      "gas:candidate-vibid:2392000544622": 28,
+      "gas:candidate-vibid:2392000547811": 3,
+      "gas:candidate-vibid:2392000496838": 71,
+      "gas:candidate-vibid:2392000544649": 25,
+      "gas:candidate-vibid:2392000521732": 92,
+      "gas:candidate-vibid:2392000545849": 12,
+      "gas:candidate-vibid:2392000545837": 167,
+      "gas:candidate-vibid:2392000521395": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 8,
-      "Гинзбург Соломон Израилевич": 8,
-      "Маликов Сергей Алексеевич": 9,
-      "Мишин Евгений Викторович": 43,
-      "Павленко Максим Владимирович": 18,
-      "Плешков Игорь Владимирович": 27,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 189,
-      "Федоров Павел Николаевич": 30
+      "gas:candidate-vibid:2392000544588": 8,
+      "gas:candidate-vibid:2392000544622": 8,
+      "gas:candidate-vibid:2392000547811": 9,
+      "gas:candidate-vibid:2392000496838": 43,
+      "gas:candidate-vibid:2392000544649": 18,
+      "gas:candidate-vibid:2392000521732": 27,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 189,
+      "gas:candidate-vibid:2392000521395": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 3,
-      "Гинзбург Соломон Израилевич": 8,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 29,
-      "Павленко Максим Владимирович": 13,
-      "Плешков Игорь Владимирович": 33,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 133,
-      "Федоров Павел Николаевич": 20
+      "gas:candidate-vibid:2392000544588": 3,
+      "gas:candidate-vibid:2392000544622": 8,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 29,
+      "gas:candidate-vibid:2392000544649": 13,
+      "gas:candidate-vibid:2392000521732": 33,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 133,
+      "gas:candidate-vibid:2392000521395": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 2,
-      "Гинзбург Соломон Израилевич": 4,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 11,
-      "Павленко Максим Владимирович": 10,
-      "Плешков Игорь Владимирович": 17,
-      "Поплавская Людмила Георгиевна": 6,
-      "Силанов Алексей Николаевич": 135,
-      "Федоров Павел Николаевич": 19
+      "gas:candidate-vibid:2392000544588": 2,
+      "gas:candidate-vibid:2392000544622": 4,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 11,
+      "gas:candidate-vibid:2392000544649": 10,
+      "gas:candidate-vibid:2392000521732": 17,
+      "gas:candidate-vibid:2392000545849": 6,
+      "gas:candidate-vibid:2392000545837": 135,
+      "gas:candidate-vibid:2392000521395": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 3,
-      "Гинзбург Соломон Израилевич": 5,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 7,
-      "Павленко Максим Владимирович": 3,
-      "Плешков Игорь Владимирович": 12,
-      "Поплавская Людмила Георгиевна": 2,
-      "Силанов Алексей Николаевич": 53,
-      "Федоров Павел Николаевич": 9
+      "gas:candidate-vibid:2392000544588": 3,
+      "gas:candidate-vibid:2392000544622": 5,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 7,
+      "gas:candidate-vibid:2392000544649": 3,
+      "gas:candidate-vibid:2392000521732": 12,
+      "gas:candidate-vibid:2392000545849": 2,
+      "gas:candidate-vibid:2392000545837": 53,
+      "gas:candidate-vibid:2392000521395": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 12,
-      "Маликов Сергей Алексеевич": 7,
-      "Мишин Евгений Викторович": 34,
-      "Павленко Максим Владимирович": 11,
-      "Плешков Игорь Владимирович": 8,
-      "Поплавская Людмила Георгиевна": 9,
-      "Силанов Алексей Николаевич": 126,
-      "Федоров Павел Николаевич": 13
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 12,
+      "gas:candidate-vibid:2392000547811": 7,
+      "gas:candidate-vibid:2392000496838": 34,
+      "gas:candidate-vibid:2392000544649": 11,
+      "gas:candidate-vibid:2392000521732": 8,
+      "gas:candidate-vibid:2392000545849": 9,
+      "gas:candidate-vibid:2392000545837": 126,
+      "gas:candidate-vibid:2392000521395": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 8,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 22,
-      "Павленко Максим Владимирович": 8,
-      "Плешков Игорь Владимирович": 18,
-      "Поплавская Людмила Георгиевна": 2,
-      "Силанов Алексей Николаевич": 76,
-      "Федоров Павел Николаевич": 10
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 8,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 22,
+      "gas:candidate-vibid:2392000544649": 8,
+      "gas:candidate-vibid:2392000521732": 18,
+      "gas:candidate-vibid:2392000545849": 2,
+      "gas:candidate-vibid:2392000545837": 76,
+      "gas:candidate-vibid:2392000521395": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 2,
-      "Гинзбург Соломон Израилевич": 8,
-      "Маликов Сергей Алексеевич": 4,
-      "Мишин Евгений Викторович": 19,
-      "Павленко Максим Владимирович": 5,
-      "Плешков Игорь Владимирович": 4,
-      "Поплавская Людмила Георгиевна": 2,
-      "Силанов Алексей Николаевич": 44,
-      "Федоров Павел Николаевич": 4
+      "gas:candidate-vibid:2392000544588": 2,
+      "gas:candidate-vibid:2392000544622": 8,
+      "gas:candidate-vibid:2392000547811": 4,
+      "gas:candidate-vibid:2392000496838": 19,
+      "gas:candidate-vibid:2392000544649": 5,
+      "gas:candidate-vibid:2392000521732": 4,
+      "gas:candidate-vibid:2392000545849": 2,
+      "gas:candidate-vibid:2392000545837": 44,
+      "gas:candidate-vibid:2392000521395": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 3,
-      "Гинзбург Соломон Израилевич": 13,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 34,
-      "Павленко Максим Владимирович": 20,
-      "Плешков Игорь Владимирович": 18,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 104,
-      "Федоров Павел Николаевич": 12
+      "gas:candidate-vibid:2392000544588": 3,
+      "gas:candidate-vibid:2392000544622": 13,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 34,
+      "gas:candidate-vibid:2392000544649": 20,
+      "gas:candidate-vibid:2392000521732": 18,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 104,
+      "gas:candidate-vibid:2392000521395": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 5,
-      "Маликов Сергей Алексеевич": 5,
-      "Мишин Евгений Викторович": 20,
-      "Павленко Максим Владимирович": 10,
-      "Плешков Игорь Владимирович": 10,
-      "Поплавская Людмила Георгиевна": 7,
-      "Силанов Алексей Николаевич": 40,
-      "Федоров Павел Николаевич": 1
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 5,
+      "gas:candidate-vibid:2392000547811": 5,
+      "gas:candidate-vibid:2392000496838": 20,
+      "gas:candidate-vibid:2392000544649": 10,
+      "gas:candidate-vibid:2392000521732": 10,
+      "gas:candidate-vibid:2392000545849": 7,
+      "gas:candidate-vibid:2392000545837": 40,
+      "gas:candidate-vibid:2392000521395": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 9,
-      "Гинзбург Соломон Израилевич": 7,
-      "Маликов Сергей Алексеевич": 3,
-      "Мишин Евгений Викторович": 32,
-      "Павленко Максим Владимирович": 7,
-      "Плешков Игорь Владимирович": 26,
-      "Поплавская Людмила Георгиевна": 7,
-      "Силанов Алексей Николаевич": 65,
-      "Федоров Павел Николаевич": 9
+      "gas:candidate-vibid:2392000544588": 9,
+      "gas:candidate-vibid:2392000544622": 7,
+      "gas:candidate-vibid:2392000547811": 3,
+      "gas:candidate-vibid:2392000496838": 32,
+      "gas:candidate-vibid:2392000544649": 7,
+      "gas:candidate-vibid:2392000521732": 26,
+      "gas:candidate-vibid:2392000545849": 7,
+      "gas:candidate-vibid:2392000545837": 65,
+      "gas:candidate-vibid:2392000521395": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 5,
-      "Гинзбург Соломон Израилевич": 15,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 34,
-      "Павленко Максим Владимирович": 11,
-      "Плешков Игорь Владимирович": 22,
-      "Поплавская Людмила Георгиевна": 4,
-      "Силанов Алексей Николаевич": 166,
-      "Федоров Павел Николаевич": 47
+      "gas:candidate-vibid:2392000544588": 5,
+      "gas:candidate-vibid:2392000544622": 15,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 34,
+      "gas:candidate-vibid:2392000544649": 11,
+      "gas:candidate-vibid:2392000521732": 22,
+      "gas:candidate-vibid:2392000545849": 4,
+      "gas:candidate-vibid:2392000545837": 166,
+      "gas:candidate-vibid:2392000521395": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 12,
-      "Маликов Сергей Алексеевич": 1,
-      "Мишин Евгений Викторович": 25,
-      "Павленко Максим Владимирович": 15,
-      "Плешков Игорь Владимирович": 25,
-      "Поплавская Людмила Георгиевна": 7,
-      "Силанов Алексей Николаевич": 119,
-      "Федоров Павел Николаевич": 32
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 12,
+      "gas:candidate-vibid:2392000547811": 1,
+      "gas:candidate-vibid:2392000496838": 25,
+      "gas:candidate-vibid:2392000544649": 15,
+      "gas:candidate-vibid:2392000521732": 25,
+      "gas:candidate-vibid:2392000545849": 7,
+      "gas:candidate-vibid:2392000545837": 119,
+      "gas:candidate-vibid:2392000521395": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 6,
-      "Гинзбург Соломон Израилевич": 14,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 19,
-      "Павленко Максим Владимирович": 4,
-      "Плешков Игорь Владимирович": 18,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 106,
-      "Федоров Павел Николаевич": 28
+      "gas:candidate-vibid:2392000544588": 6,
+      "gas:candidate-vibid:2392000544622": 14,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 19,
+      "gas:candidate-vibid:2392000544649": 4,
+      "gas:candidate-vibid:2392000521732": 18,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 106,
+      "gas:candidate-vibid:2392000521395": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 10,
-      "Гинзбург Соломон Израилевич": 7,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 28,
-      "Павленко Максим Владимирович": 10,
-      "Плешков Игорь Владимирович": 21,
-      "Поплавская Людмила Георгиевна": 10,
-      "Силанов Алексей Николаевич": 66,
-      "Федоров Павел Николаевич": 13
+      "gas:candidate-vibid:2392000544588": 10,
+      "gas:candidate-vibid:2392000544622": 7,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 28,
+      "gas:candidate-vibid:2392000544649": 10,
+      "gas:candidate-vibid:2392000521732": 21,
+      "gas:candidate-vibid:2392000545849": 10,
+      "gas:candidate-vibid:2392000545837": 66,
+      "gas:candidate-vibid:2392000521395": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 1,
-      "Гинзбург Соломон Израилевич": 0,
-      "Маликов Сергей Алексеевич": 2,
-      "Мишин Евгений Викторович": 9,
-      "Павленко Максим Владимирович": 4,
-      "Плешков Игорь Владимирович": 8,
-      "Поплавская Людмила Георгиевна": 7,
-      "Силанов Алексей Николаевич": 54,
-      "Федоров Павел Николаевич": 13
+      "gas:candidate-vibid:2392000544588": 1,
+      "gas:candidate-vibid:2392000544622": 0,
+      "gas:candidate-vibid:2392000547811": 2,
+      "gas:candidate-vibid:2392000496838": 9,
+      "gas:candidate-vibid:2392000544649": 4,
+      "gas:candidate-vibid:2392000521732": 8,
+      "gas:candidate-vibid:2392000545849": 7,
+      "gas:candidate-vibid:2392000545837": 54,
+      "gas:candidate-vibid:2392000521395": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 7,
-      "Гинзбург Соломон Израилевич": 18,
-      "Маликов Сергей Алексеевич": 10,
-      "Мишин Евгений Викторович": 50,
-      "Павленко Максим Владимирович": 30,
-      "Плешков Игорь Владимирович": 53,
-      "Поплавская Людмила Георгиевна": 21,
-      "Силанов Алексей Николаевич": 201,
-      "Федоров Павел Николаевич": 60
+      "gas:candidate-vibid:2392000544588": 7,
+      "gas:candidate-vibid:2392000544622": 18,
+      "gas:candidate-vibid:2392000547811": 10,
+      "gas:candidate-vibid:2392000496838": 50,
+      "gas:candidate-vibid:2392000544649": 30,
+      "gas:candidate-vibid:2392000521732": 53,
+      "gas:candidate-vibid:2392000545849": 21,
+      "gas:candidate-vibid:2392000545837": 201,
+      "gas:candidate-vibid:2392000521395": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475060&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475060&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 43,
-      "Гинзбург Соломон Израилевич": 83,
-      "Маликов Сергей Алексеевич": 13,
-      "Мишин Евгений Викторович": 165,
-      "Павленко Максим Владимирович": 58,
-      "Плешков Игорь Владимирович": 105,
-      "Поплавская Людмила Георгиевна": 39,
-      "Силанов Алексей Николаевич": 547,
-      "Федоров Павел Николаевич": 98
+      "gas:candidate-vibid:2392000544588": 43,
+      "gas:candidate-vibid:2392000544622": 83,
+      "gas:candidate-vibid:2392000547811": 13,
+      "gas:candidate-vibid:2392000496838": 165,
+      "gas:candidate-vibid:2392000544649": 58,
+      "gas:candidate-vibid:2392000521732": 105,
+      "gas:candidate-vibid:2392000545849": 39,
+      "gas:candidate-vibid:2392000545837": 547,
+      "gas:candidate-vibid:2392000521395": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475061&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475061&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 8,
-      "Гинзбург Соломон Израилевич": 13,
-      "Маликов Сергей Алексеевич": 6,
-      "Мишин Евгений Викторович": 32,
-      "Павленко Максим Владимирович": 18,
-      "Плешков Игорь Владимирович": 28,
-      "Поплавская Людмила Георгиевна": 5,
-      "Силанов Алексей Николаевич": 164,
-      "Федоров Павел Николаевич": 16
+      "gas:candidate-vibid:2392000544588": 8,
+      "gas:candidate-vibid:2392000544622": 13,
+      "gas:candidate-vibid:2392000547811": 6,
+      "gas:candidate-vibid:2392000496838": 32,
+      "gas:candidate-vibid:2392000544649": 18,
+      "gas:candidate-vibid:2392000521732": 28,
+      "gas:candidate-vibid:2392000545849": 5,
+      "gas:candidate-vibid:2392000545837": 164,
+      "gas:candidate-vibid:2392000521395": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475061&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475061&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 47,
-      "Гинзбург Соломон Израилевич": 113,
-      "Маликов Сергей Алексеевич": 12,
-      "Мишин Евгений Викторович": 125,
-      "Павленко Максим Владимирович": 51,
-      "Плешков Игорь Владимирович": 105,
-      "Поплавская Людмила Георгиевна": 33,
-      "Силанов Алексей Николаевич": 417,
-      "Федоров Павел Николаевич": 58
+      "gas:candidate-vibid:2392000544588": 47,
+      "gas:candidate-vibid:2392000544622": 113,
+      "gas:candidate-vibid:2392000547811": 12,
+      "gas:candidate-vibid:2392000496838": 125,
+      "gas:candidate-vibid:2392000544649": 51,
+      "gas:candidate-vibid:2392000521732": 105,
+      "gas:candidate-vibid:2392000545849": 33,
+      "gas:candidate-vibid:2392000545837": 417,
+      "gas:candidate-vibid:2392000521395": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475062&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475062&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 33,
-      "Гинзбург Соломон Израилевич": 63,
-      "Маликов Сергей Алексеевич": 13,
-      "Мишин Евгений Викторович": 114,
-      "Павленко Максим Владимирович": 42,
-      "Плешков Игорь Владимирович": 70,
-      "Поплавская Людмила Георгиевна": 23,
-      "Силанов Алексей Николаевич": 825,
-      "Федоров Павел Николаевич": 54
+      "gas:candidate-vibid:2392000544588": 33,
+      "gas:candidate-vibid:2392000544622": 63,
+      "gas:candidate-vibid:2392000547811": 13,
+      "gas:candidate-vibid:2392000496838": 114,
+      "gas:candidate-vibid:2392000544649": 42,
+      "gas:candidate-vibid:2392000521732": 70,
+      "gas:candidate-vibid:2392000545849": 23,
+      "gas:candidate-vibid:2392000545837": 825,
+      "gas:candidate-vibid:2392000521395": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475062&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475062&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Галанин Юрий Петрович": 33,
-      "Гинзбург Соломон Израилевич": 77,
-      "Маликов Сергей Алексеевич": 10,
-      "Мишин Евгений Викторович": 111,
-      "Павленко Максим Владимирович": 48,
-      "Плешков Игорь Владимирович": 116,
-      "Поплавская Людмила Георгиевна": 34,
-      "Силанов Алексей Николаевич": 1338,
-      "Федоров Павел Николаевич": 50
+      "gas:candidate-vibid:2392000544588": 33,
+      "gas:candidate-vibid:2392000544622": 77,
+      "gas:candidate-vibid:2392000547811": 10,
+      "gas:candidate-vibid:2392000496838": 111,
+      "gas:candidate-vibid:2392000544649": 48,
+      "gas:candidate-vibid:2392000521732": 116,
+      "gas:candidate-vibid:2392000545849": 34,
+      "gas:candidate-vibid:2392000545837": 1338,
+      "gas:candidate-vibid:2392000521395": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000127&tvd=2392000475062&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475062&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 135,
-      "Гончаров Виталий Анатольевич": 29,
-      "Масянова Наталья Николаевна": 75,
-      "Новик Дмитрий Александрович": 23,
-      "Орлов Александр Сергеевич": 50,
-      "Потапенко Дмитрий Валерьевич": 33,
-      "Пятикоп Александр Иванович": 712,
-      "Ревин Игорь Алексеевич": 99,
-      "Чесалин Михаил Юрьевич": 39
+      "gas:candidate-vibid:2392000496818": 135,
+      "gas:candidate-vibid:2392000544683": 29,
+      "gas:candidate-vibid:2392000500912": 75,
+      "gas:candidate-vibid:2392000536164": 23,
+      "gas:candidate-vibid:2392000544668": 50,
+      "gas:candidate-vibid:2392000544697": 33,
+      "gas:candidate-vibid:2392000547764": 712,
+      "gas:candidate-vibid:2392000498112": 99,
+      "gas:candidate-vibid:2392000544635": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475063&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475063&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 137,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 59,
-      "Новик Дмитрий Александрович": 32,
-      "Орлов Александр Сергеевич": 73,
-      "Потапенко Дмитрий Валерьевич": 29,
-      "Пятикоп Александр Иванович": 956,
-      "Ревин Игорь Алексеевич": 148,
-      "Чесалин Михаил Юрьевич": 33
+      "gas:candidate-vibid:2392000496818": 137,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 59,
+      "gas:candidate-vibid:2392000536164": 32,
+      "gas:candidate-vibid:2392000544668": 73,
+      "gas:candidate-vibid:2392000544697": 29,
+      "gas:candidate-vibid:2392000547764": 956,
+      "gas:candidate-vibid:2392000498112": 148,
+      "gas:candidate-vibid:2392000544635": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475063&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475063&type=464",

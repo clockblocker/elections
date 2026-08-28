@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 68
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 9,
-      "Шолохов Александр Михайлович": 175
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 9,
+      "gas:candidate-vibid:4614006287981": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 23,
-      "Катаев Игорь Алексеевич": 14,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 50,
-      "Шолохов Александр Михайлович": 120
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 23,
+      "gas:candidate-vibid:4614006287022": 14,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 50,
+      "gas:candidate-vibid:4614006287981": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 85
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 76
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 2,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 4,
-      "Шолохов Александр Михайлович": 87
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 2,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 4,
+      "gas:candidate-vibid:4614006287981": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 17,
-      "Бородачев Анатолий Никифорович": 138,
-      "Катаев Игорь Алексеевич": 26,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 34,
-      "Чеботарев Денис Евгеньевич": 10,
-      "Шаповалов Сергей Александрович": 132,
-      "Шолохов Александр Михайлович": 580
+      "gas:candidate-vibid:4614006288398": 17,
+      "gas:candidate-vibid:4614006286844": 138,
+      "gas:candidate-vibid:4614006287022": 26,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 34,
+      "gas:candidate-vibid:4614006288365": 10,
+      "gas:candidate-vibid:4614006287472": 132,
+      "gas:candidate-vibid:4614006287981": 580
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 7,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 101
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 7,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 3,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 20,
-      "Шолохов Александр Михайлович": 104
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 3,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 20,
+      "gas:candidate-vibid:4614006287981": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 33,
-      "Катаев Игорь Алексеевич": 17,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 72,
-      "Шолохов Александр Михайлович": 387
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 33,
+      "gas:candidate-vibid:4614006287022": 17,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 72,
+      "gas:candidate-vibid:4614006287981": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 14,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 37,
-      "Шолохов Александр Михайлович": 351
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 14,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 37,
+      "gas:candidate-vibid:4614006287981": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 31,
-      "Катаев Игорь Алексеевич": 10,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 26,
-      "Шолохов Александр Михайлович": 269
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 31,
+      "gas:candidate-vibid:4614006287022": 10,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 26,
+      "gas:candidate-vibid:4614006287981": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 4,
-      "Шолохов Александр Михайлович": 146
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 4,
+      "gas:candidate-vibid:4614006287981": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 28,
-      "Катаев Игорь Алексеевич": 19,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 15,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 34,
-      "Шолохов Александр Михайлович": 593
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 28,
+      "gas:candidate-vibid:4614006287022": 19,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 15,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 34,
+      "gas:candidate-vibid:4614006287981": 593
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 14,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 20,
-      "Шолохов Александр Михайлович": 212
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 14,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 20,
+      "gas:candidate-vibid:4614006287981": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 17,
-      "Катаев Игорь Алексеевич": 11,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 26,
-      "Шолохов Александр Михайлович": 182
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 17,
+      "gas:candidate-vibid:4614006287022": 11,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 26,
+      "gas:candidate-vibid:4614006287981": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 13,
-      "Шолохов Александр Михайлович": 67
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 13,
+      "gas:candidate-vibid:4614006287981": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 27,
-      "Катаев Игорь Алексеевич": 10,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 42,
-      "Шолохов Александр Михайлович": 200
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 27,
+      "gas:candidate-vibid:4614006287022": 10,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 42,
+      "gas:candidate-vibid:4614006287981": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 49,
-      "Катаев Игорь Алексеевич": 12,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 43,
-      "Шолохов Александр Михайлович": 213
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 49,
+      "gas:candidate-vibid:4614006287022": 12,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 43,
+      "gas:candidate-vibid:4614006287981": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 10,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 20,
-      "Шолохов Александр Михайлович": 84
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 10,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 20,
+      "gas:candidate-vibid:4614006287981": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 24,
-      "Катаев Игорь Алексеевич": 11,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 12,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 32,
-      "Шолохов Александр Михайлович": 200
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 24,
+      "gas:candidate-vibid:4614006287022": 11,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 12,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 32,
+      "gas:candidate-vibid:4614006287981": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 64
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 15,
-      "Бородачев Анатолий Никифорович": 49,
-      "Катаев Игорь Алексеевич": 13,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 91,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 47,
-      "Шолохов Александр Михайлович": 635
+      "gas:candidate-vibid:4614006288398": 15,
+      "gas:candidate-vibid:4614006286844": 49,
+      "gas:candidate-vibid:4614006287022": 13,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 91,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 47,
+      "gas:candidate-vibid:4614006287981": 635
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 26,
-      "Шолохов Александр Михайлович": 188
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 26,
+      "gas:candidate-vibid:4614006287981": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 28,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 21,
-      "Шолохов Александр Михайлович": 345
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 28,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 21,
+      "gas:candidate-vibid:4614006287981": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 11,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 17,
-      "Шолохов Александр Михайлович": 240
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 11,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 17,
+      "gas:candidate-vibid:4614006287981": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 26,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 7,
-      "Шаповалов Сергей Александрович": 15,
-      "Шолохов Александр Михайлович": 167
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 26,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 7,
+      "gas:candidate-vibid:4614006287472": 15,
+      "gas:candidate-vibid:4614006287981": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 29,
-      "Катаев Игорь Алексеевич": 10,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 32,
-      "Шолохов Александр Михайлович": 289
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 29,
+      "gas:candidate-vibid:4614006287022": 10,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 32,
+      "gas:candidate-vibid:4614006287981": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 10,
-      "Бородачев Анатолий Никифорович": 34,
-      "Катаев Игорь Алексеевич": 14,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 16,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 58,
-      "Шолохов Александр Михайлович": 178
+      "gas:candidate-vibid:4614006288398": 10,
+      "gas:candidate-vibid:4614006286844": 34,
+      "gas:candidate-vibid:4614006287022": 14,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 16,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 58,
+      "gas:candidate-vibid:4614006287981": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 22,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 41,
-      "Шолохов Александр Михайлович": 200
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 22,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 41,
+      "gas:candidate-vibid:4614006287981": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 24,
-      "Катаев Игорь Алексеевич": 13,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 38,
-      "Шолохов Александр Михайлович": 140
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 24,
+      "gas:candidate-vibid:4614006287022": 13,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 38,
+      "gas:candidate-vibid:4614006287981": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 17,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 16,
-      "Шолохов Александр Михайлович": 86
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 17,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 16,
+      "gas:candidate-vibid:4614006287981": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455472&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455472&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 16,
-      "Катаев Игорь Алексеевич": 15,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 110,
-      "Шолохов Александр Михайлович": 320
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 16,
+      "gas:candidate-vibid:4614006287022": 15,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 110,
+      "gas:candidate-vibid:4614006287981": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 2,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 85
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 2,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 2,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 75
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 2,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 13,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 16,
-      "Шолохов Александр Михайлович": 206
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 13,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 16,
+      "gas:candidate-vibid:4614006287981": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 25,
-      "Катаев Игорь Алексеевич": 13,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 46,
-      "Шолохов Александр Михайлович": 290
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 25,
+      "gas:candidate-vibid:4614006287022": 13,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 46,
+      "gas:candidate-vibid:4614006287981": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 13,
-      "Катаев Игорь Алексеевич": 8,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 24,
-      "Шолохов Александр Михайлович": 228
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 13,
+      "gas:candidate-vibid:4614006287022": 8,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 24,
+      "gas:candidate-vibid:4614006287981": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 24,
-      "Шолохов Александр Михайлович": 224
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 24,
+      "gas:candidate-vibid:4614006287981": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 7,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 11,
-      "Шолохов Александр Михайлович": 61
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 7,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 11,
+      "gas:candidate-vibid:4614006287981": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 11,
-      "Катаев Игорь Алексеевич": 8,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 108
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 11,
+      "gas:candidate-vibid:4614006287022": 8,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 8,
-      "Катаев Игорь Алексеевич": 10,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 27,
-      "Шолохов Александр Михайлович": 233
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 8,
+      "gas:candidate-vibid:4614006287022": 10,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 27,
+      "gas:candidate-vibid:4614006287981": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 19,
-      "Бородачев Анатолий Никифорович": 70,
-      "Катаев Игорь Алексеевич": 20,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 13,
-      "Чеботарев Денис Евгеньевич": 10,
-      "Шаповалов Сергей Александрович": 133,
-      "Шолохов Александр Михайлович": 709
+      "gas:candidate-vibid:4614006288398": 19,
+      "gas:candidate-vibid:4614006286844": 70,
+      "gas:candidate-vibid:4614006287022": 20,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 13,
+      "gas:candidate-vibid:4614006288365": 10,
+      "gas:candidate-vibid:4614006287472": 133,
+      "gas:candidate-vibid:4614006287981": 709
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 40,
-      "Катаев Игорь Алексеевич": 17,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 50,
-      "Шолохов Александр Михайлович": 329
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 40,
+      "gas:candidate-vibid:4614006287022": 17,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 50,
+      "gas:candidate-vibid:4614006287981": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 65,
-      "Катаев Игорь Алексеевич": 28,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 15,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 92,
-      "Шолохов Александр Михайлович": 372
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 65,
+      "gas:candidate-vibid:4614006287022": 28,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 15,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 92,
+      "gas:candidate-vibid:4614006287981": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 13,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 31,
-      "Шолохов Александр Михайлович": 265
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 13,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 31,
+      "gas:candidate-vibid:4614006287981": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 8,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 30,
-      "Шолохов Александр Михайлович": 192
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 8,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 30,
+      "gas:candidate-vibid:4614006287981": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 12,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 12,
-      "Шолохов Александр Михайлович": 99
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 12,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 12,
+      "gas:candidate-vibid:4614006287981": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 11,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 16,
-      "Шолохов Александр Михайлович": 136
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 11,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 16,
+      "gas:candidate-vibid:4614006287981": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 2,
-      "Шолохов Александр Михайлович": 64
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 2,
+      "gas:candidate-vibid:4614006287981": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 7,
-      "Шолохов Александр Михайлович": 116
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 7,
+      "gas:candidate-vibid:4614006287981": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 68
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 13,
-      "Шолохов Александр Михайлович": 174
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 13,
+      "gas:candidate-vibid:4614006287981": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 26,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 18,
-      "Шолохов Александр Михайлович": 201
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 26,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 18,
+      "gas:candidate-vibid:4614006287981": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 8,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 92
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 8,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 27,
-      "Катаев Игорь Алексеевич": 25,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 46,
-      "Шолохов Александр Михайлович": 398
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 27,
+      "gas:candidate-vibid:4614006287022": 25,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 46,
+      "gas:candidate-vibid:4614006287981": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 13,
-      "Катаев Игорь Алексеевич": 11,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 14,
-      "Шолохов Александр Михайлович": 78
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 13,
+      "gas:candidate-vibid:4614006287022": 11,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 14,
+      "gas:candidate-vibid:4614006287981": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 25,
-      "Катаев Игорь Алексеевич": 15,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 13,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 37,
-      "Шолохов Александр Михайлович": 273
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 25,
+      "gas:candidate-vibid:4614006287022": 15,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 13,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 37,
+      "gas:candidate-vibid:4614006287981": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 10,
-      "Шолохов Александр Михайлович": 250
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 10,
+      "gas:candidate-vibid:4614006287981": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 11,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 52,
-      "Шолохов Александр Михайлович": 242
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 11,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 52,
+      "gas:candidate-vibid:4614006287981": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 39,
-      "Катаев Игорь Алексеевич": 20,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 11,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 70,
-      "Шолохов Александр Михайлович": 255
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 39,
+      "gas:candidate-vibid:4614006287022": 20,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 11,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 70,
+      "gas:candidate-vibid:4614006287981": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 15,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 23,
-      "Шолохов Александр Михайлович": 323
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 15,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 23,
+      "gas:candidate-vibid:4614006287981": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 17,
-      "Катаев Игорь Алексеевич": 12,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 26,
-      "Шолохов Александр Михайлович": 118
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 17,
+      "gas:candidate-vibid:4614006287022": 12,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 26,
+      "gas:candidate-vibid:4614006287981": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 20,
-      "Катаев Игорь Алексеевич": 11,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 49,
-      "Шолохов Александр Михайлович": 232
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 20,
+      "gas:candidate-vibid:4614006287022": 11,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 49,
+      "gas:candidate-vibid:4614006287981": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 24,
-      "Катаев Игорь Алексеевич": 7,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 24,
-      "Шолохов Александр Михайлович": 217
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 24,
+      "gas:candidate-vibid:4614006287022": 7,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 24,
+      "gas:candidate-vibid:4614006287981": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 18,
-      "Катаев Игорь Алексеевич": 7,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 18,
-      "Шолохов Александр Михайлович": 120
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 18,
+      "gas:candidate-vibid:4614006287022": 7,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 18,
+      "gas:candidate-vibid:4614006287981": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 2,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 89
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 2,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 10,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 14,
-      "Шолохов Александр Михайлович": 148
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 10,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 14,
+      "gas:candidate-vibid:4614006287981": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 10,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 150
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 10,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455473&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455473&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 41,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 57,
-      "Шолохов Александр Михайлович": 314
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 41,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 57,
+      "gas:candidate-vibid:4614006287981": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 30,
-      "Катаев Игорь Алексеевич": 60,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 1,
-      "Шолохов Александр Михайлович": 219
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 30,
+      "gas:candidate-vibid:4614006287022": 60,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 1,
+      "gas:candidate-vibid:4614006287981": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 75,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 200,
-      "Шолохов Александр Михайлович": 702
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 75,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 200,
+      "gas:candidate-vibid:4614006287981": 702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 46,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 18,
-      "Шолохов Александр Михайлович": 169
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 46,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 18,
+      "gas:candidate-vibid:4614006287981": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 94,
-      "Катаев Игорь Алексеевич": 39,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 44,
-      "Чеботарев Денис Евгеньевич": 21,
-      "Шаповалов Сергей Александрович": 315,
-      "Шолохов Александр Михайлович": 804
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 94,
+      "gas:candidate-vibid:4614006287022": 39,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 44,
+      "gas:candidate-vibid:4614006288365": 21,
+      "gas:candidate-vibid:4614006287472": 315,
+      "gas:candidate-vibid:4614006287981": 804
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 38,
-      "Катаев Игорь Алексеевич": 14,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 36,
-      "Шолохов Александр Михайлович": 351
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 38,
+      "gas:candidate-vibid:4614006287022": 14,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 36,
+      "gas:candidate-vibid:4614006287981": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 51
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 10,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 10,
-      "Чеботарев Денис Евгеньевич": 7,
-      "Шаповалов Сергей Александрович": 14,
-      "Шолохов Александр Михайлович": 58
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 10,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 10,
+      "gas:candidate-vibid:4614006288365": 7,
+      "gas:candidate-vibid:4614006287472": 14,
+      "gas:candidate-vibid:4614006287981": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 36,
-      "Катаев Игорь Алексеевич": 14,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 7,
-      "Шаповалов Сергей Александрович": 35,
-      "Шолохов Александр Михайлович": 238
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 36,
+      "gas:candidate-vibid:4614006287022": 14,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 7,
+      "gas:candidate-vibid:4614006287472": 35,
+      "gas:candidate-vibid:4614006287981": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 25,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 14,
-      "Шаповалов Сергей Александрович": 28,
-      "Шолохов Александр Михайлович": 83
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 25,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 14,
+      "gas:candidate-vibid:4614006287472": 28,
+      "gas:candidate-vibid:4614006287981": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 14,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 29,
-      "Шолохов Александр Михайлович": 173
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 14,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 29,
+      "gas:candidate-vibid:4614006287981": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 8,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 4,
-      "Шолохов Александр Михайлович": 84
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 8,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 4,
+      "gas:candidate-vibid:4614006287981": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 36,
-      "Катаев Игорь Алексеевич": 14,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 12,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 21,
-      "Шолохов Александр Михайлович": 482
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 36,
+      "gas:candidate-vibid:4614006287022": 14,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 12,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 21,
+      "gas:candidate-vibid:4614006287981": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 104
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 8,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 17,
-      "Шолохов Александр Михайлович": 85
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 8,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 17,
+      "gas:candidate-vibid:4614006287981": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 13,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 30,
-      "Шолохов Александр Михайлович": 141
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 13,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 30,
+      "gas:candidate-vibid:4614006287981": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 45,
-      "Бородачев Анатолий Никифорович": 34,
-      "Катаев Игорь Алексеевич": 23,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 14,
-      "Чеботарев Денис Евгеньевич": 7,
-      "Шаповалов Сергей Александрович": 42,
-      "Шолохов Александр Михайлович": 845
+      "gas:candidate-vibid:4614006288398": 45,
+      "gas:candidate-vibid:4614006286844": 34,
+      "gas:candidate-vibid:4614006287022": 23,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 14,
+      "gas:candidate-vibid:4614006288365": 7,
+      "gas:candidate-vibid:4614006287472": 42,
+      "gas:candidate-vibid:4614006287981": 845
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 74,
-      "Бородачев Анатолий Никифорович": 93,
-      "Катаев Игорь Алексеевич": 24,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 21,
-      "Чеботарев Денис Евгеньевич": 10,
-      "Шаповалов Сергей Александрович": 69,
-      "Шолохов Александр Михайлович": 1081
+      "gas:candidate-vibid:4614006288398": 74,
+      "gas:candidate-vibid:4614006286844": 93,
+      "gas:candidate-vibid:4614006287022": 24,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 21,
+      "gas:candidate-vibid:4614006288365": 10,
+      "gas:candidate-vibid:4614006287472": 69,
+      "gas:candidate-vibid:4614006287981": 1081
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 10,
-      "Бородачев Анатолий Никифорович": 95,
-      "Катаев Игорь Алексеевич": 18,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 11,
-      "Шаповалов Сергей Александрович": 62,
-      "Шолохов Александр Михайлович": 854
+      "gas:candidate-vibid:4614006288398": 10,
+      "gas:candidate-vibid:4614006286844": 95,
+      "gas:candidate-vibid:4614006287022": 18,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 11,
+      "gas:candidate-vibid:4614006287472": 62,
+      "gas:candidate-vibid:4614006287981": 854
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 161,
-      "Катаев Игорь Алексеевич": 61,
-      "Короченский Дмитрий Анатольевич": 17,
-      "Косинов Сергей Александрович": 29,
-      "Чеботарев Денис Евгеньевич": 21,
-      "Шаповалов Сергей Александрович": 68,
-      "Шолохов Александр Михайлович": 1083
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 161,
+      "gas:candidate-vibid:4614006287022": 61,
+      "gas:candidate-vibid:4614006288331": 17,
+      "gas:candidate-vibid:4614006288409": 29,
+      "gas:candidate-vibid:4614006288365": 21,
+      "gas:candidate-vibid:4614006287472": 68,
+      "gas:candidate-vibid:4614006287981": 1083
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 15,
-      "Бородачев Анатолий Никифорович": 122,
-      "Катаев Игорь Алексеевич": 30,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 50,
-      "Чеботарев Денис Евгеньевич": 14,
-      "Шаповалов Сергей Александрович": 71,
-      "Шолохов Александр Михайлович": 1240
+      "gas:candidate-vibid:4614006288398": 15,
+      "gas:candidate-vibid:4614006286844": 122,
+      "gas:candidate-vibid:4614006287022": 30,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 50,
+      "gas:candidate-vibid:4614006288365": 14,
+      "gas:candidate-vibid:4614006287472": 71,
+      "gas:candidate-vibid:4614006287981": 1240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 54,
-      "Катаев Игорь Алексеевич": 8,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 11,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 19,
-      "Шолохов Александр Михайлович": 549
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 54,
+      "gas:candidate-vibid:4614006287022": 8,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 11,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 19,
+      "gas:candidate-vibid:4614006287981": 549
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 18,
-      "Катаев Игорь Алексеевич": 7,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 11,
-      "Шолохов Александр Михайлович": 266
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 18,
+      "gas:candidate-vibid:4614006287022": 7,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 11,
+      "gas:candidate-vibid:4614006287981": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 25,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 10,
-      "Чеботарев Денис Евгеньевич": 7,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 258
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 25,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 10,
+      "gas:candidate-vibid:4614006288365": 7,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 21,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 9,
-      "Шаповалов Сергей Александрович": 16,
-      "Шолохов Александр Михайлович": 330
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 21,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 9,
+      "gas:candidate-vibid:4614006287472": 16,
+      "gas:candidate-vibid:4614006287981": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 48,
-      "Катаев Игорь Алексеевич": 13,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 9,
-      "Чеботарев Денис Евгеньевич": 12,
-      "Шаповалов Сергей Александрович": 21,
-      "Шолохов Александр Михайлович": 267
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 48,
+      "gas:candidate-vibid:4614006287022": 13,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 9,
+      "gas:candidate-vibid:4614006288365": 12,
+      "gas:candidate-vibid:4614006287472": 21,
+      "gas:candidate-vibid:4614006287981": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 9,
-      "Шолохов Александр Михайлович": 153
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 9,
+      "gas:candidate-vibid:4614006287981": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 32,
-      "Катаев Игорь Алексеевич": 7,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 12,
-      "Шолохов Александр Михайлович": 335
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 32,
+      "gas:candidate-vibid:4614006287022": 7,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 12,
+      "gas:candidate-vibid:4614006287981": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 9,
-      "Бородачев Анатолий Никифорович": 19,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 143,
-      "Шолохов Александр Михайлович": 472
+      "gas:candidate-vibid:4614006288398": 9,
+      "gas:candidate-vibid:4614006286844": 19,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 143,
+      "gas:candidate-vibid:4614006287981": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 48,
-      "Катаев Игорь Алексеевич": 16,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 10,
-      "Чеботарев Денис Евгеньевич": 9,
-      "Шаповалов Сергей Александрович": 25,
-      "Шолохов Александр Михайлович": 425
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 48,
+      "gas:candidate-vibid:4614006287022": 16,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 10,
+      "gas:candidate-vibid:4614006288365": 9,
+      "gas:candidate-vibid:4614006287472": 25,
+      "gas:candidate-vibid:4614006287981": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 13,
-      "Бородачев Анатолий Никифорович": 97,
-      "Катаев Игорь Алексеевич": 28,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 22,
-      "Чеботарев Денис Евгеньевич": 19,
-      "Шаповалов Сергей Александрович": 79,
-      "Шолохов Александр Михайлович": 440
+      "gas:candidate-vibid:4614006288398": 13,
+      "gas:candidate-vibid:4614006286844": 97,
+      "gas:candidate-vibid:4614006287022": 28,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 22,
+      "gas:candidate-vibid:4614006288365": 19,
+      "gas:candidate-vibid:4614006287472": 79,
+      "gas:candidate-vibid:4614006287981": 440
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 37,
-      "Катаев Игорь Алексеевич": 10,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 19,
-      "Шолохов Александр Михайлович": 330
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 37,
+      "gas:candidate-vibid:4614006287022": 10,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 19,
+      "gas:candidate-vibid:4614006287981": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 33,
-      "Катаев Игорь Алексеевич": 50,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 28,
-      "Шолохов Александр Михайлович": 242
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 33,
+      "gas:candidate-vibid:4614006287022": 50,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 28,
+      "gas:candidate-vibid:4614006287981": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 7,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 39,
-      "Шолохов Александр Михайлович": 274
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 7,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 39,
+      "gas:candidate-vibid:4614006287981": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 10,
-      "Бородачев Анатолий Никифорович": 40,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 11,
-      "Чеботарев Денис Евгеньевич": 9,
-      "Шаповалов Сергей Александрович": 38,
-      "Шолохов Александр Михайлович": 356
+      "gas:candidate-vibid:4614006288398": 10,
+      "gas:candidate-vibid:4614006286844": 40,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 11,
+      "gas:candidate-vibid:4614006288365": 9,
+      "gas:candidate-vibid:4614006287472": 38,
+      "gas:candidate-vibid:4614006287981": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 28,
-      "Бородачев Анатолий Никифорович": 85,
-      "Катаев Игорь Алексеевич": 34,
-      "Короченский Дмитрий Анатольевич": 14,
-      "Косинов Сергей Александрович": 16,
-      "Чеботарев Денис Евгеньевич": 18,
-      "Шаповалов Сергей Александрович": 46,
-      "Шолохов Александр Михайлович": 936
+      "gas:candidate-vibid:4614006288398": 28,
+      "gas:candidate-vibid:4614006286844": 85,
+      "gas:candidate-vibid:4614006287022": 34,
+      "gas:candidate-vibid:4614006288331": 14,
+      "gas:candidate-vibid:4614006288409": 16,
+      "gas:candidate-vibid:4614006288365": 18,
+      "gas:candidate-vibid:4614006287472": 46,
+      "gas:candidate-vibid:4614006287981": 936
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 83,
-      "Катаев Игорь Алексеевич": 17,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 24,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 31,
-      "Шолохов Александр Михайлович": 343
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 83,
+      "gas:candidate-vibid:4614006287022": 17,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 24,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 31,
+      "gas:candidate-vibid:4614006287981": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 49
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 56,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 20,
-      "Шаповалов Сергей Александрович": 23,
-      "Шолохов Александр Михайлович": 143
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 56,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 20,
+      "gas:candidate-vibid:4614006287472": 23,
+      "gas:candidate-vibid:4614006287981": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 9,
-      "Бородачев Анатолий Никифорович": 120,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 29,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 323,
-      "Шолохов Александр Михайлович": 1130
+      "gas:candidate-vibid:4614006288398": 9,
+      "gas:candidate-vibid:4614006286844": 120,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 29,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 323,
+      "gas:candidate-vibid:4614006287981": 1130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 15,
-      "Бородачев Анатолий Никифорович": 65,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 48,
-      "Шолохов Александр Михайлович": 1752
+      "gas:candidate-vibid:4614006288398": 15,
+      "gas:candidate-vibid:4614006286844": 65,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 48,
+      "gas:candidate-vibid:4614006287981": 1752
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 9,
-      "Бородачев Анатолий Никифорович": 96,
-      "Катаев Игорь Алексеевич": 45,
-      "Короченский Дмитрий Анатольевич": 10,
-      "Косинов Сергей Александрович": 31,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 61,
-      "Шолохов Александр Михайлович": 1394
+      "gas:candidate-vibid:4614006288398": 9,
+      "gas:candidate-vibid:4614006286844": 96,
+      "gas:candidate-vibid:4614006287022": 45,
+      "gas:candidate-vibid:4614006288331": 10,
+      "gas:candidate-vibid:4614006288409": 31,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 61,
+      "gas:candidate-vibid:4614006287981": 1394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 30,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 31,
-      "Шаповалов Сергей Александрович": 22,
-      "Шолохов Александр Михайлович": 338
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 30,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 31,
+      "gas:candidate-vibid:4614006287472": 22,
+      "gas:candidate-vibid:4614006287981": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 24,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 11,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 14,
-      "Шолохов Александр Михайлович": 190
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 24,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 11,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 14,
+      "gas:candidate-vibid:4614006287981": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 67,
-      "Катаев Игорь Алексеевич": 14,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 12,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 30,
-      "Шолохов Александр Михайлович": 280
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 67,
+      "gas:candidate-vibid:4614006287022": 14,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 12,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 30,
+      "gas:candidate-vibid:4614006287981": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 2,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 2,
-      "Шолохов Александр Михайлович": 43
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 2,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 2,
+      "gas:candidate-vibid:4614006287981": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 30,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 13,
-      "Шолохов Александр Михайлович": 216
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 30,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 13,
+      "gas:candidate-vibid:4614006287981": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 41,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 10,
-      "Шолохов Александр Михайлович": 163
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 41,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 10,
+      "gas:candidate-vibid:4614006287981": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455474&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455474&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 57,
-      "Катаев Игорь Алексеевич": 20,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 18,
-      "Чеботарев Денис Евгеньевич": 18,
-      "Шаповалов Сергей Александрович": 81,
-      "Шолохов Александр Михайлович": 241
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 57,
+      "gas:candidate-vibid:4614006287022": 20,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 18,
+      "gas:candidate-vibid:4614006288365": 18,
+      "gas:candidate-vibid:4614006287472": 81,
+      "gas:candidate-vibid:4614006287981": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 66,
-      "Катаев Игорь Алексеевич": 20,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 11,
-      "Чеботарев Денис Евгеньевич": 11,
-      "Шаповалов Сергей Александрович": 70,
-      "Шолохов Александр Михайлович": 164
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 66,
+      "gas:candidate-vibid:4614006287022": 20,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 11,
+      "gas:candidate-vibid:4614006288365": 11,
+      "gas:candidate-vibid:4614006287472": 70,
+      "gas:candidate-vibid:4614006287981": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 20,
-      "Бородачев Анатолий Никифорович": 98,
-      "Катаев Игорь Алексеевич": 31,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 20,
-      "Чеботарев Денис Евгеньевич": 22,
-      "Шаповалов Сергей Александрович": 79,
-      "Шолохов Александр Михайлович": 283
+      "gas:candidate-vibid:4614006288398": 20,
+      "gas:candidate-vibid:4614006286844": 98,
+      "gas:candidate-vibid:4614006287022": 31,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 20,
+      "gas:candidate-vibid:4614006288365": 22,
+      "gas:candidate-vibid:4614006287472": 79,
+      "gas:candidate-vibid:4614006287981": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 40,
-      "Бородачев Анатолий Никифорович": 221,
-      "Катаев Игорь Алексеевич": 78,
-      "Короченский Дмитрий Анатольевич": 48,
-      "Косинов Сергей Александрович": 63,
-      "Чеботарев Денис Евгеньевич": 35,
-      "Шаповалов Сергей Александрович": 101,
-      "Шолохов Александр Михайлович": 652
+      "gas:candidate-vibid:4614006288398": 40,
+      "gas:candidate-vibid:4614006286844": 221,
+      "gas:candidate-vibid:4614006287022": 78,
+      "gas:candidate-vibid:4614006288331": 48,
+      "gas:candidate-vibid:4614006288409": 63,
+      "gas:candidate-vibid:4614006288365": 35,
+      "gas:candidate-vibid:4614006287472": 101,
+      "gas:candidate-vibid:4614006287981": 652
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 21,
-      "Бородачев Анатолий Никифорович": 125,
-      "Катаев Игорь Алексеевич": 25,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 26,
-      "Чеботарев Денис Евгеньевич": 25,
-      "Шаповалов Сергей Александрович": 65,
-      "Шолохов Александр Михайлович": 397
+      "gas:candidate-vibid:4614006288398": 21,
+      "gas:candidate-vibid:4614006286844": 125,
+      "gas:candidate-vibid:4614006287022": 25,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 26,
+      "gas:candidate-vibid:4614006288365": 25,
+      "gas:candidate-vibid:4614006287472": 65,
+      "gas:candidate-vibid:4614006287981": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 11,
-      "Бородачев Анатолий Никифорович": 84,
-      "Катаев Игорь Алексеевич": 16,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 18,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 81,
-      "Шолохов Александр Михайлович": 286
+      "gas:candidate-vibid:4614006288398": 11,
+      "gas:candidate-vibid:4614006286844": 84,
+      "gas:candidate-vibid:4614006287022": 16,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 18,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 81,
+      "gas:candidate-vibid:4614006287981": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 13,
-      "Бородачев Анатолий Никифорович": 50,
-      "Катаев Игорь Алексеевич": 13,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 13,
-      "Чеботарев Денис Евгеньевич": 11,
-      "Шаповалов Сергей Александрович": 61,
-      "Шолохов Александр Михайлович": 391
+      "gas:candidate-vibid:4614006288398": 13,
+      "gas:candidate-vibid:4614006286844": 50,
+      "gas:candidate-vibid:4614006287022": 13,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 13,
+      "gas:candidate-vibid:4614006288365": 11,
+      "gas:candidate-vibid:4614006287472": 61,
+      "gas:candidate-vibid:4614006287981": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 28,
-      "Бородачев Анатолий Никифорович": 116,
-      "Катаев Игорь Алексеевич": 37,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 23,
-      "Чеботарев Денис Евгеньевич": 21,
-      "Шаповалов Сергей Александрович": 102,
-      "Шолохов Александр Михайлович": 612
+      "gas:candidate-vibid:4614006288398": 28,
+      "gas:candidate-vibid:4614006286844": 116,
+      "gas:candidate-vibid:4614006287022": 37,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 23,
+      "gas:candidate-vibid:4614006288365": 21,
+      "gas:candidate-vibid:4614006287472": 102,
+      "gas:candidate-vibid:4614006287981": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 20,
-      "Бородачев Анатолий Никифорович": 93,
-      "Катаев Игорь Алексеевич": 35,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 24,
-      "Чеботарев Денис Евгеньевич": 42,
-      "Шаповалов Сергей Александрович": 80,
-      "Шолохов Александр Михайлович": 318
+      "gas:candidate-vibid:4614006288398": 20,
+      "gas:candidate-vibid:4614006286844": 93,
+      "gas:candidate-vibid:4614006287022": 35,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 24,
+      "gas:candidate-vibid:4614006288365": 42,
+      "gas:candidate-vibid:4614006287472": 80,
+      "gas:candidate-vibid:4614006287981": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 17,
-      "Бородачев Анатолий Никифорович": 87,
-      "Катаев Игорь Алексеевич": 35,
-      "Короченский Дмитрий Анатольевич": 12,
-      "Косинов Сергей Александрович": 26,
-      "Чеботарев Денис Евгеньевич": 25,
-      "Шаповалов Сергей Александрович": 92,
-      "Шолохов Александр Михайлович": 439
+      "gas:candidate-vibid:4614006288398": 17,
+      "gas:candidate-vibid:4614006286844": 87,
+      "gas:candidate-vibid:4614006287022": 35,
+      "gas:candidate-vibid:4614006288331": 12,
+      "gas:candidate-vibid:4614006288409": 26,
+      "gas:candidate-vibid:4614006288365": 25,
+      "gas:candidate-vibid:4614006287472": 92,
+      "gas:candidate-vibid:4614006287981": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 30,
-      "Бородачев Анатолий Никифорович": 139,
-      "Катаев Игорь Алексеевич": 51,
-      "Короченский Дмитрий Анатольевич": 18,
-      "Косинов Сергей Александрович": 62,
-      "Чеботарев Денис Евгеньевич": 42,
-      "Шаповалов Сергей Александрович": 120,
-      "Шолохов Александр Михайлович": 1000
+      "gas:candidate-vibid:4614006288398": 30,
+      "gas:candidate-vibid:4614006286844": 139,
+      "gas:candidate-vibid:4614006287022": 51,
+      "gas:candidate-vibid:4614006288331": 18,
+      "gas:candidate-vibid:4614006288409": 62,
+      "gas:candidate-vibid:4614006288365": 42,
+      "gas:candidate-vibid:4614006287472": 120,
+      "gas:candidate-vibid:4614006287981": 1000
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 34,
-      "Бородачев Анатолий Никифорович": 118,
-      "Катаев Игорь Алексеевич": 61,
-      "Короченский Дмитрий Анатольевич": 13,
-      "Косинов Сергей Александрович": 65,
-      "Чеботарев Денис Евгеньевич": 28,
-      "Шаповалов Сергей Александрович": 133,
-      "Шолохов Александр Михайлович": 407
+      "gas:candidate-vibid:4614006288398": 34,
+      "gas:candidate-vibid:4614006286844": 118,
+      "gas:candidate-vibid:4614006287022": 61,
+      "gas:candidate-vibid:4614006288331": 13,
+      "gas:candidate-vibid:4614006288409": 65,
+      "gas:candidate-vibid:4614006288365": 28,
+      "gas:candidate-vibid:4614006287472": 133,
+      "gas:candidate-vibid:4614006287981": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 14,
-      "Бородачев Анатолий Никифорович": 92,
-      "Катаев Игорь Алексеевич": 35,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 39,
-      "Чеботарев Денис Евгеньевич": 27,
-      "Шаповалов Сергей Александрович": 78,
-      "Шолохов Александр Михайлович": 254
+      "gas:candidate-vibid:4614006288398": 14,
+      "gas:candidate-vibid:4614006286844": 92,
+      "gas:candidate-vibid:4614006287022": 35,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 39,
+      "gas:candidate-vibid:4614006288365": 27,
+      "gas:candidate-vibid:4614006287472": 78,
+      "gas:candidate-vibid:4614006287981": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 72,
-      "Катаев Игорь Алексеевич": 23,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 15,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 67,
-      "Шолохов Александр Михайлович": 357
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 72,
+      "gas:candidate-vibid:4614006287022": 23,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 15,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 67,
+      "gas:candidate-vibid:4614006287981": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 17,
-      "Бородачев Анатолий Никифорович": 100,
-      "Катаев Игорь Алексеевич": 33,
-      "Короченский Дмитрий Анатольевич": 16,
-      "Косинов Сергей Александрович": 36,
-      "Чеботарев Денис Евгеньевич": 27,
-      "Шаповалов Сергей Александрович": 112,
-      "Шолохов Александр Михайлович": 400
+      "gas:candidate-vibid:4614006288398": 17,
+      "gas:candidate-vibid:4614006286844": 100,
+      "gas:candidate-vibid:4614006287022": 33,
+      "gas:candidate-vibid:4614006288331": 16,
+      "gas:candidate-vibid:4614006288409": 36,
+      "gas:candidate-vibid:4614006288365": 27,
+      "gas:candidate-vibid:4614006287472": 112,
+      "gas:candidate-vibid:4614006287981": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 18,
-      "Бородачев Анатолий Никифорович": 118,
-      "Катаев Игорь Алексеевич": 24,
-      "Короченский Дмитрий Анатольевич": 12,
-      "Косинов Сергей Александрович": 32,
-      "Чеботарев Денис Евгеньевич": 30,
-      "Шаповалов Сергей Александрович": 71,
-      "Шолохов Александр Михайлович": 454
+      "gas:candidate-vibid:4614006288398": 18,
+      "gas:candidate-vibid:4614006286844": 118,
+      "gas:candidate-vibid:4614006287022": 24,
+      "gas:candidate-vibid:4614006288331": 12,
+      "gas:candidate-vibid:4614006288409": 32,
+      "gas:candidate-vibid:4614006288365": 30,
+      "gas:candidate-vibid:4614006287472": 71,
+      "gas:candidate-vibid:4614006287981": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 20,
-      "Бородачев Анатолий Никифорович": 98,
-      "Катаев Игорь Алексеевич": 21,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 36,
-      "Чеботарев Денис Евгеньевич": 30,
-      "Шаповалов Сергей Александрович": 104,
-      "Шолохов Александр Михайлович": 565
+      "gas:candidate-vibid:4614006288398": 20,
+      "gas:candidate-vibid:4614006286844": 98,
+      "gas:candidate-vibid:4614006287022": 21,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 36,
+      "gas:candidate-vibid:4614006288365": 30,
+      "gas:candidate-vibid:4614006287472": 104,
+      "gas:candidate-vibid:4614006287981": 565
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 20,
-      "Бородачев Анатолий Никифорович": 99,
-      "Катаев Игорь Алексеевич": 33,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 34,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 99,
-      "Шолохов Александр Михайлович": 511
+      "gas:candidate-vibid:4614006288398": 20,
+      "gas:candidate-vibid:4614006286844": 99,
+      "gas:candidate-vibid:4614006287022": 33,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 34,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 99,
+      "gas:candidate-vibid:4614006287981": 511
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 25,
-      "Бородачев Анатолий Никифорович": 99,
-      "Катаев Игорь Алексеевич": 28,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 42,
-      "Чеботарев Денис Евгеньевич": 25,
-      "Шаповалов Сергей Александрович": 97,
-      "Шолохов Александр Михайлович": 303
+      "gas:candidate-vibid:4614006288398": 25,
+      "gas:candidate-vibid:4614006286844": 99,
+      "gas:candidate-vibid:4614006287022": 28,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 42,
+      "gas:candidate-vibid:4614006288365": 25,
+      "gas:candidate-vibid:4614006287472": 97,
+      "gas:candidate-vibid:4614006287981": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 23,
-      "Бородачев Анатолий Никифорович": 93,
-      "Катаев Игорь Алексеевич": 22,
-      "Короченский Дмитрий Анатольевич": 10,
-      "Косинов Сергей Александрович": 31,
-      "Чеботарев Денис Евгеньевич": 17,
-      "Шаповалов Сергей Александрович": 74,
-      "Шолохов Александр Михайлович": 456
+      "gas:candidate-vibid:4614006288398": 23,
+      "gas:candidate-vibid:4614006286844": 93,
+      "gas:candidate-vibid:4614006287022": 22,
+      "gas:candidate-vibid:4614006288331": 10,
+      "gas:candidate-vibid:4614006288409": 31,
+      "gas:candidate-vibid:4614006288365": 17,
+      "gas:candidate-vibid:4614006287472": 74,
+      "gas:candidate-vibid:4614006287981": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 12,
-      "Бородачев Анатолий Никифорович": 97,
-      "Катаев Игорь Алексеевич": 33,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 36,
-      "Чеботарев Денис Евгеньевич": 17,
-      "Шаповалов Сергей Александрович": 121,
-      "Шолохов Александр Михайлович": 321
+      "gas:candidate-vibid:4614006288398": 12,
+      "gas:candidate-vibid:4614006286844": 97,
+      "gas:candidate-vibid:4614006287022": 33,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 36,
+      "gas:candidate-vibid:4614006288365": 17,
+      "gas:candidate-vibid:4614006287472": 121,
+      "gas:candidate-vibid:4614006287981": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 10,
-      "Бородачев Анатолий Никифорович": 66,
-      "Катаев Игорь Алексеевич": 21,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 30,
-      "Чеботарев Денис Евгеньевич": 12,
-      "Шаповалов Сергей Александрович": 56,
-      "Шолохов Александр Михайлович": 204
+      "gas:candidate-vibid:4614006288398": 10,
+      "gas:candidate-vibid:4614006286844": 66,
+      "gas:candidate-vibid:4614006287022": 21,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 30,
+      "gas:candidate-vibid:4614006288365": 12,
+      "gas:candidate-vibid:4614006287472": 56,
+      "gas:candidate-vibid:4614006287981": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 21,
-      "Бородачев Анатолий Никифорович": 99,
-      "Катаев Игорь Алексеевич": 35,
-      "Короченский Дмитрий Анатольевич": 9,
-      "Косинов Сергей Александрович": 31,
-      "Чеботарев Денис Евгеньевич": 29,
-      "Шаповалов Сергей Александрович": 66,
-      "Шолохов Александр Михайлович": 405
+      "gas:candidate-vibid:4614006288398": 21,
+      "gas:candidate-vibid:4614006286844": 99,
+      "gas:candidate-vibid:4614006287022": 35,
+      "gas:candidate-vibid:4614006288331": 9,
+      "gas:candidate-vibid:4614006288409": 31,
+      "gas:candidate-vibid:4614006288365": 29,
+      "gas:candidate-vibid:4614006287472": 66,
+      "gas:candidate-vibid:4614006287981": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 22,
-      "Бородачев Анатолий Никифорович": 141,
-      "Катаев Игорь Алексеевич": 41,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 29,
-      "Чеботарев Денис Евгеньевич": 25,
-      "Шаповалов Сергей Александрович": 149,
-      "Шолохов Александр Михайлович": 370
+      "gas:candidate-vibid:4614006288398": 22,
+      "gas:candidate-vibid:4614006286844": 141,
+      "gas:candidate-vibid:4614006287022": 41,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 29,
+      "gas:candidate-vibid:4614006288365": 25,
+      "gas:candidate-vibid:4614006287472": 149,
+      "gas:candidate-vibid:4614006287981": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 30,
-      "Бородачев Анатолий Никифорович": 102,
-      "Катаев Игорь Алексеевич": 50,
-      "Короченский Дмитрий Анатольевич": 10,
-      "Косинов Сергей Александрович": 69,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 132,
-      "Шолохов Александр Михайлович": 398
+      "gas:candidate-vibid:4614006288398": 30,
+      "gas:candidate-vibid:4614006286844": 102,
+      "gas:candidate-vibid:4614006287022": 50,
+      "gas:candidate-vibid:4614006288331": 10,
+      "gas:candidate-vibid:4614006288409": 69,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 132,
+      "gas:candidate-vibid:4614006287981": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 25,
-      "Бородачев Анатолий Никифорович": 141,
-      "Катаев Игорь Алексеевич": 28,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 56,
-      "Чеботарев Денис Евгеньевич": 38,
-      "Шаповалов Сергей Александрович": 120,
-      "Шолохов Александр Михайлович": 405
+      "gas:candidate-vibid:4614006288398": 25,
+      "gas:candidate-vibid:4614006286844": 141,
+      "gas:candidate-vibid:4614006287022": 28,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 56,
+      "gas:candidate-vibid:4614006288365": 38,
+      "gas:candidate-vibid:4614006287472": 120,
+      "gas:candidate-vibid:4614006287981": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 29,
-      "Бородачев Анатолий Никифорович": 144,
-      "Катаев Игорь Алексеевич": 46,
-      "Короченский Дмитрий Анатольевич": 12,
-      "Косинов Сергей Александрович": 37,
-      "Чеботарев Денис Евгеньевич": 35,
-      "Шаповалов Сергей Александрович": 470,
-      "Шолохов Александр Михайлович": 999
+      "gas:candidate-vibid:4614006288398": 29,
+      "gas:candidate-vibid:4614006286844": 144,
+      "gas:candidate-vibid:4614006287022": 46,
+      "gas:candidate-vibid:4614006288331": 12,
+      "gas:candidate-vibid:4614006288409": 37,
+      "gas:candidate-vibid:4614006288365": 35,
+      "gas:candidate-vibid:4614006287472": 470,
+      "gas:candidate-vibid:4614006287981": 999
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 15,
-      "Бородачев Анатолий Никифорович": 86,
-      "Катаев Игорь Алексеевич": 26,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 38,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 114,
-      "Шолохов Александр Михайлович": 381
+      "gas:candidate-vibid:4614006288398": 15,
+      "gas:candidate-vibid:4614006286844": 86,
+      "gas:candidate-vibid:4614006287022": 26,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 38,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 114,
+      "gas:candidate-vibid:4614006287981": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 23,
-      "Бородачев Анатолий Никифорович": 79,
-      "Катаев Игорь Алексеевич": 38,
-      "Короченский Дмитрий Анатольевич": 9,
-      "Косинов Сергей Александрович": 48,
-      "Чеботарев Денис Евгеньевич": 29,
-      "Шаповалов Сергей Александрович": 111,
-      "Шолохов Александр Михайлович": 372
+      "gas:candidate-vibid:4614006288398": 23,
+      "gas:candidate-vibid:4614006286844": 79,
+      "gas:candidate-vibid:4614006287022": 38,
+      "gas:candidate-vibid:4614006288331": 9,
+      "gas:candidate-vibid:4614006288409": 48,
+      "gas:candidate-vibid:4614006288365": 29,
+      "gas:candidate-vibid:4614006287472": 111,
+      "gas:candidate-vibid:4614006287981": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 38,
-      "Бородачев Анатолий Никифорович": 139,
-      "Катаев Игорь Алексеевич": 54,
-      "Короченский Дмитрий Анатольевич": 14,
-      "Косинов Сергей Александрович": 45,
-      "Чеботарев Денис Евгеньевич": 30,
-      "Шаповалов Сергей Александрович": 132,
-      "Шолохов Александр Михайлович": 594
+      "gas:candidate-vibid:4614006288398": 38,
+      "gas:candidate-vibid:4614006286844": 139,
+      "gas:candidate-vibid:4614006287022": 54,
+      "gas:candidate-vibid:4614006288331": 14,
+      "gas:candidate-vibid:4614006288409": 45,
+      "gas:candidate-vibid:4614006288365": 30,
+      "gas:candidate-vibid:4614006287472": 132,
+      "gas:candidate-vibid:4614006287981": 594
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 11,
-      "Бородачев Анатолий Никифорович": 47,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 17,
-      "Чеботарев Денис Евгеньевич": 14,
-      "Шаповалов Сергей Александрович": 52,
-      "Шолохов Александр Михайлович": 127
+      "gas:candidate-vibid:4614006288398": 11,
+      "gas:candidate-vibid:4614006286844": 47,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 17,
+      "gas:candidate-vibid:4614006288365": 14,
+      "gas:candidate-vibid:4614006287472": 52,
+      "gas:candidate-vibid:4614006287981": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 21,
-      "Бородачев Анатолий Никифорович": 127,
-      "Катаев Игорь Алексеевич": 35,
-      "Короченский Дмитрий Анатольевич": 9,
-      "Косинов Сергей Александрович": 43,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 103,
-      "Шолохов Александр Михайлович": 372
+      "gas:candidate-vibid:4614006288398": 21,
+      "gas:candidate-vibid:4614006286844": 127,
+      "gas:candidate-vibid:4614006287022": 35,
+      "gas:candidate-vibid:4614006288331": 9,
+      "gas:candidate-vibid:4614006288409": 43,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 103,
+      "gas:candidate-vibid:4614006287981": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 41,
-      "Катаев Игорь Алексеевич": 12,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 15,
-      "Чеботарев Денис Евгеньевич": 7,
-      "Шаповалов Сергей Александрович": 19,
-      "Шолохов Александр Михайлович": 122
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 41,
+      "gas:candidate-vibid:4614006287022": 12,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 15,
+      "gas:candidate-vibid:4614006288365": 7,
+      "gas:candidate-vibid:4614006287472": 19,
+      "gas:candidate-vibid:4614006287981": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 16,
-      "Бородачев Анатолий Никифорович": 93,
-      "Катаев Игорь Алексеевич": 30,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 38,
-      "Чеботарев Денис Евгеньевич": 21,
-      "Шаповалов Сергей Александрович": 103,
-      "Шолохов Александр Михайлович": 535
+      "gas:candidate-vibid:4614006288398": 16,
+      "gas:candidate-vibid:4614006286844": 93,
+      "gas:candidate-vibid:4614006287022": 30,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 38,
+      "gas:candidate-vibid:4614006288365": 21,
+      "gas:candidate-vibid:4614006287472": 103,
+      "gas:candidate-vibid:4614006287981": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 18,
-      "Бородачев Анатолий Никифорович": 145,
-      "Катаев Игорь Алексеевич": 39,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 57,
-      "Чеботарев Денис Евгеньевич": 17,
-      "Шаповалов Сергей Александрович": 82,
-      "Шолохов Александр Михайлович": 324
+      "gas:candidate-vibid:4614006288398": 18,
+      "gas:candidate-vibid:4614006286844": 145,
+      "gas:candidate-vibid:4614006287022": 39,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 57,
+      "gas:candidate-vibid:4614006288365": 17,
+      "gas:candidate-vibid:4614006287472": 82,
+      "gas:candidate-vibid:4614006287981": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 12,
-      "Бородачев Анатолий Никифорович": 87,
-      "Катаев Игорь Алексеевич": 24,
-      "Короченский Дмитрий Анатольевич": 10,
-      "Косинов Сергей Александрович": 30,
-      "Чеботарев Денис Евгеньевич": 16,
-      "Шаповалов Сергей Александрович": 88,
-      "Шолохов Александр Михайлович": 362
+      "gas:candidate-vibid:4614006288398": 12,
+      "gas:candidate-vibid:4614006286844": 87,
+      "gas:candidate-vibid:4614006287022": 24,
+      "gas:candidate-vibid:4614006288331": 10,
+      "gas:candidate-vibid:4614006288409": 30,
+      "gas:candidate-vibid:4614006288365": 16,
+      "gas:candidate-vibid:4614006287472": 88,
+      "gas:candidate-vibid:4614006287981": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 11,
-      "Бородачев Анатолий Никифорович": 92,
-      "Катаев Игорь Алексеевич": 31,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 24,
-      "Чеботарев Денис Евгеньевич": 29,
-      "Шаповалов Сергей Александрович": 96,
-      "Шолохов Александр Михайлович": 248
+      "gas:candidate-vibid:4614006288398": 11,
+      "gas:candidate-vibid:4614006286844": 92,
+      "gas:candidate-vibid:4614006287022": 31,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 24,
+      "gas:candidate-vibid:4614006288365": 29,
+      "gas:candidate-vibid:4614006287472": 96,
+      "gas:candidate-vibid:4614006287981": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 13,
-      "Бородачев Анатолий Никифорович": 103,
-      "Катаев Игорь Алексеевич": 42,
-      "Короченский Дмитрий Анатольевич": 10,
-      "Косинов Сергей Александрович": 45,
-      "Чеботарев Денис Евгеньевич": 21,
-      "Шаповалов Сергей Александрович": 120,
-      "Шолохов Александр Михайлович": 269
+      "gas:candidate-vibid:4614006288398": 13,
+      "gas:candidate-vibid:4614006286844": 103,
+      "gas:candidate-vibid:4614006287022": 42,
+      "gas:candidate-vibid:4614006288331": 10,
+      "gas:candidate-vibid:4614006288409": 45,
+      "gas:candidate-vibid:4614006288365": 21,
+      "gas:candidate-vibid:4614006287472": 120,
+      "gas:candidate-vibid:4614006287981": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 9,
-      "Бородачев Анатолий Никифорович": 51,
-      "Катаев Игорь Алексеевич": 27,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 24,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 46,
-      "Шолохов Александр Михайлович": 194
+      "gas:candidate-vibid:4614006288398": 9,
+      "gas:candidate-vibid:4614006286844": 51,
+      "gas:candidate-vibid:4614006287022": 27,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 24,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 46,
+      "gas:candidate-vibid:4614006287981": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 77,
-      "Катаев Игорь Алексеевич": 20,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 27,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 109,
-      "Шолохов Александр Михайлович": 204
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 77,
+      "gas:candidate-vibid:4614006287022": 20,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 27,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 109,
+      "gas:candidate-vibid:4614006287981": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 9,
-      "Бородачев Анатолий Никифорович": 98,
-      "Катаев Игорь Алексеевич": 25,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 39,
-      "Чеботарев Денис Евгеньевич": 11,
-      "Шаповалов Сергей Александрович": 135,
-      "Шолохов Александр Михайлович": 401
+      "gas:candidate-vibid:4614006288398": 9,
+      "gas:candidate-vibid:4614006286844": 98,
+      "gas:candidate-vibid:4614006287022": 25,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 39,
+      "gas:candidate-vibid:4614006288365": 11,
+      "gas:candidate-vibid:4614006287472": 135,
+      "gas:candidate-vibid:4614006287981": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 12,
-      "Бородачев Анатолий Никифорович": 77,
-      "Катаев Игорь Алексеевич": 23,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 26,
-      "Чеботарев Денис Евгеньевич": 10,
-      "Шаповалов Сергей Александрович": 124,
-      "Шолохов Александр Михайлович": 270
+      "gas:candidate-vibid:4614006288398": 12,
+      "gas:candidate-vibid:4614006286844": 77,
+      "gas:candidate-vibid:4614006287022": 23,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 26,
+      "gas:candidate-vibid:4614006288365": 10,
+      "gas:candidate-vibid:4614006287472": 124,
+      "gas:candidate-vibid:4614006287981": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 56,
-      "Катаев Игорь Алексеевич": 17,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 14,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 89,
-      "Шолохов Александр Михайлович": 344
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 56,
+      "gas:candidate-vibid:4614006287022": 17,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 14,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 89,
+      "gas:candidate-vibid:4614006287981": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 11,
-      "Бородачев Анатолий Никифорович": 88,
-      "Катаев Игорь Алексеевич": 26,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 13,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 48,
-      "Шолохов Александр Михайлович": 207
+      "gas:candidate-vibid:4614006288398": 11,
+      "gas:candidate-vibid:4614006286844": 88,
+      "gas:candidate-vibid:4614006287022": 26,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 13,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 48,
+      "gas:candidate-vibid:4614006287981": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 0,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 2,
-      "Шолохов Александр Михайлович": 5
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 0,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 2,
+      "gas:candidate-vibid:4614006287981": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455475&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455475&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 11,
-      "Бородачев Анатолий Никифорович": 34,
-      "Катаев Игорь Алексеевич": 16,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 29,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 42,
-      "Шолохов Александр Михайлович": 437
+      "gas:candidate-vibid:4614006288398": 11,
+      "gas:candidate-vibid:4614006286844": 34,
+      "gas:candidate-vibid:4614006287022": 16,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 29,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 42,
+      "gas:candidate-vibid:4614006287981": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 18,
-      "Бородачев Анатолий Никифорович": 61,
-      "Катаев Игорь Алексеевич": 23,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 36,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 45,
-      "Шолохов Александр Михайлович": 1009
+      "gas:candidate-vibid:4614006288398": 18,
+      "gas:candidate-vibid:4614006286844": 61,
+      "gas:candidate-vibid:4614006287022": 23,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 36,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 45,
+      "gas:candidate-vibid:4614006287981": 1009
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 35,
-      "Катаев Игорь Алексеевич": 22,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 17,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 34,
-      "Шолохов Александр Михайлович": 226
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 35,
+      "gas:candidate-vibid:4614006287022": 22,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 17,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 34,
+      "gas:candidate-vibid:4614006287981": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 49,
-      "Бородачев Анатолий Никифорович": 115,
-      "Катаев Игорь Алексеевич": 28,
-      "Короченский Дмитрий Анатольевич": 11,
-      "Косинов Сергей Александрович": 57,
-      "Чеботарев Денис Евгеньевич": 14,
-      "Шаповалов Сергей Александрович": 123,
-      "Шолохов Александр Михайлович": 461
+      "gas:candidate-vibid:4614006288398": 49,
+      "gas:candidate-vibid:4614006286844": 115,
+      "gas:candidate-vibid:4614006287022": 28,
+      "gas:candidate-vibid:4614006288331": 11,
+      "gas:candidate-vibid:4614006288409": 57,
+      "gas:candidate-vibid:4614006288365": 14,
+      "gas:candidate-vibid:4614006287472": 123,
+      "gas:candidate-vibid:4614006287981": 461
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 38,
-      "Бородачев Анатолий Никифорович": 112,
-      "Катаев Игорь Алексеевич": 17,
-      "Короченский Дмитрий Анатольевич": 15,
-      "Косинов Сергей Александрович": 55,
-      "Чеботарев Денис Евгеньевич": 14,
-      "Шаповалов Сергей Александрович": 94,
-      "Шолохов Александр Михайлович": 599
+      "gas:candidate-vibid:4614006288398": 38,
+      "gas:candidate-vibid:4614006286844": 112,
+      "gas:candidate-vibid:4614006287022": 17,
+      "gas:candidate-vibid:4614006288331": 15,
+      "gas:candidate-vibid:4614006288409": 55,
+      "gas:candidate-vibid:4614006288365": 14,
+      "gas:candidate-vibid:4614006287472": 94,
+      "gas:candidate-vibid:4614006287981": 599
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 36,
-      "Бородачев Анатолий Никифорович": 124,
-      "Катаев Игорь Алексеевич": 14,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 48,
-      "Чеботарев Денис Евгеньевич": 9,
-      "Шаповалов Сергей Александрович": 86,
-      "Шолохов Александр Михайлович": 660
+      "gas:candidate-vibid:4614006288398": 36,
+      "gas:candidate-vibid:4614006286844": 124,
+      "gas:candidate-vibid:4614006287022": 14,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 48,
+      "gas:candidate-vibid:4614006288365": 9,
+      "gas:candidate-vibid:4614006287472": 86,
+      "gas:candidate-vibid:4614006287981": 660
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 11,
-      "Бородачев Анатолий Никифорович": 53,
-      "Катаев Игорь Алексеевич": 13,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 10,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 44,
-      "Шолохов Александр Михайлович": 396
+      "gas:candidate-vibid:4614006288398": 11,
+      "gas:candidate-vibid:4614006286844": 53,
+      "gas:candidate-vibid:4614006287022": 13,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 10,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 44,
+      "gas:candidate-vibid:4614006287981": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 14,
-      "Бородачев Анатолий Никифорович": 65,
-      "Катаев Игорь Алексеевич": 26,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 32,
-      "Чеботарев Денис Евгеньевич": 10,
-      "Шаповалов Сергей Александрович": 74,
-      "Шолохов Александр Михайлович": 202
+      "gas:candidate-vibid:4614006288398": 14,
+      "gas:candidate-vibid:4614006286844": 65,
+      "gas:candidate-vibid:4614006287022": 26,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 32,
+      "gas:candidate-vibid:4614006288365": 10,
+      "gas:candidate-vibid:4614006287472": 74,
+      "gas:candidate-vibid:4614006287981": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 9,
-      "Бородачев Анатолий Никифорович": 87,
-      "Катаев Игорь Алексеевич": 20,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 18,
-      "Чеботарев Денис Евгеньевич": 9,
-      "Шаповалов Сергей Александрович": 67,
-      "Шолохов Александр Михайлович": 799
+      "gas:candidate-vibid:4614006288398": 9,
+      "gas:candidate-vibid:4614006286844": 87,
+      "gas:candidate-vibid:4614006287022": 20,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 18,
+      "gas:candidate-vibid:4614006288365": 9,
+      "gas:candidate-vibid:4614006287472": 67,
+      "gas:candidate-vibid:4614006287981": 799
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 32,
-      "Бородачев Анатолий Никифорович": 97,
-      "Катаев Игорь Алексеевич": 24,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 31,
-      "Чеботарев Денис Евгеньевич": 14,
-      "Шаповалов Сергей Александрович": 94,
-      "Шолохов Александр Михайлович": 341
+      "gas:candidate-vibid:4614006288398": 32,
+      "gas:candidate-vibid:4614006286844": 97,
+      "gas:candidate-vibid:4614006287022": 24,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 31,
+      "gas:candidate-vibid:4614006288365": 14,
+      "gas:candidate-vibid:4614006287472": 94,
+      "gas:candidate-vibid:4614006287981": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 22,
-      "Бородачев Анатолий Никифорович": 124,
-      "Катаев Игорь Алексеевич": 38,
-      "Короченский Дмитрий Анатольевич": 9,
-      "Косинов Сергей Александрович": 53,
-      "Чеботарев Денис Евгеньевич": 18,
-      "Шаповалов Сергей Александрович": 88,
-      "Шолохов Александр Михайлович": 989
+      "gas:candidate-vibid:4614006288398": 22,
+      "gas:candidate-vibid:4614006286844": 124,
+      "gas:candidate-vibid:4614006287022": 38,
+      "gas:candidate-vibid:4614006288331": 9,
+      "gas:candidate-vibid:4614006288409": 53,
+      "gas:candidate-vibid:4614006288365": 18,
+      "gas:candidate-vibid:4614006287472": 88,
+      "gas:candidate-vibid:4614006287981": 989
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 26,
-      "Бородачев Анатолий Никифорович": 115,
-      "Катаев Игорь Алексеевич": 21,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 33,
-      "Чеботарев Денис Евгеньевич": 24,
-      "Шаповалов Сергей Александрович": 97,
-      "Шолохов Александр Михайлович": 619
+      "gas:candidate-vibid:4614006288398": 26,
+      "gas:candidate-vibid:4614006286844": 115,
+      "gas:candidate-vibid:4614006287022": 21,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 33,
+      "gas:candidate-vibid:4614006288365": 24,
+      "gas:candidate-vibid:4614006287472": 97,
+      "gas:candidate-vibid:4614006287981": 619
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 30,
-      "Бородачев Анатолий Никифорович": 96,
-      "Катаев Игорь Алексеевич": 32,
-      "Короченский Дмитрий Анатольевич": 9,
-      "Косинов Сергей Александрович": 29,
-      "Чеботарев Денис Евгеньевич": 19,
-      "Шаповалов Сергей Александрович": 96,
-      "Шолохов Александр Михайлович": 649
+      "gas:candidate-vibid:4614006288398": 30,
+      "gas:candidate-vibid:4614006286844": 96,
+      "gas:candidate-vibid:4614006287022": 32,
+      "gas:candidate-vibid:4614006288331": 9,
+      "gas:candidate-vibid:4614006288409": 29,
+      "gas:candidate-vibid:4614006288365": 19,
+      "gas:candidate-vibid:4614006287472": 96,
+      "gas:candidate-vibid:4614006287981": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 81,
-      "Бородачев Анатолий Никифорович": 57,
-      "Катаев Игорь Алексеевич": 20,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 74,
-      "Чеботарев Денис Евгеньевич": 9,
-      "Шаповалов Сергей Александрович": 107,
-      "Шолохов Александр Михайлович": 458
+      "gas:candidate-vibid:4614006288398": 81,
+      "gas:candidate-vibid:4614006286844": 57,
+      "gas:candidate-vibid:4614006287022": 20,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 74,
+      "gas:candidate-vibid:4614006288365": 9,
+      "gas:candidate-vibid:4614006287472": 107,
+      "gas:candidate-vibid:4614006287981": 458
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 24,
-      "Бородачев Анатолий Никифорович": 75,
-      "Катаев Игорь Алексеевич": 41,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 30,
-      "Чеботарев Денис Евгеньевич": 13,
-      "Шаповалов Сергей Александрович": 87,
-      "Шолохов Александр Михайлович": 807
+      "gas:candidate-vibid:4614006288398": 24,
+      "gas:candidate-vibid:4614006286844": 75,
+      "gas:candidate-vibid:4614006287022": 41,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 30,
+      "gas:candidate-vibid:4614006288365": 13,
+      "gas:candidate-vibid:4614006287472": 87,
+      "gas:candidate-vibid:4614006287981": 807
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 29,
-      "Бородачев Анатолий Никифорович": 113,
-      "Катаев Игорь Алексеевич": 31,
-      "Короченский Дмитрий Анатольевич": 13,
-      "Косинов Сергей Александрович": 44,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 106,
-      "Шолохов Александр Михайлович": 938
+      "gas:candidate-vibid:4614006288398": 29,
+      "gas:candidate-vibid:4614006286844": 113,
+      "gas:candidate-vibid:4614006287022": 31,
+      "gas:candidate-vibid:4614006288331": 13,
+      "gas:candidate-vibid:4614006288409": 44,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 106,
+      "gas:candidate-vibid:4614006287981": 938
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 34,
-      "Бородачев Анатолий Никифорович": 112,
-      "Катаев Игорь Алексеевич": 21,
-      "Короченский Дмитрий Анатольевич": 7,
-      "Косинов Сергей Александрович": 44,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 105,
-      "Шолохов Александр Михайлович": 774
+      "gas:candidate-vibid:4614006288398": 34,
+      "gas:candidate-vibid:4614006286844": 112,
+      "gas:candidate-vibid:4614006287022": 21,
+      "gas:candidate-vibid:4614006288331": 7,
+      "gas:candidate-vibid:4614006288409": 44,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 105,
+      "gas:candidate-vibid:4614006287981": 774
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 15,
-      "Бородачев Анатолий Никифорович": 102,
-      "Катаев Игорь Алексеевич": 26,
-      "Короченский Дмитрий Анатольевич": 8,
-      "Косинов Сергей Александрович": 33,
-      "Чеботарев Денис Евгеньевич": 10,
-      "Шаповалов Сергей Александрович": 86,
-      "Шолохов Александр Михайлович": 612
+      "gas:candidate-vibid:4614006288398": 15,
+      "gas:candidate-vibid:4614006286844": 102,
+      "gas:candidate-vibid:4614006287022": 26,
+      "gas:candidate-vibid:4614006288331": 8,
+      "gas:candidate-vibid:4614006288409": 33,
+      "gas:candidate-vibid:4614006288365": 10,
+      "gas:candidate-vibid:4614006287472": 86,
+      "gas:candidate-vibid:4614006287981": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 46,
-      "Катаев Игорь Алексеевич": 15,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 17,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 42,
-      "Шолохов Александр Михайлович": 329
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 46,
+      "gas:candidate-vibid:4614006287022": 15,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 17,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 42,
+      "gas:candidate-vibid:4614006287981": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 14,
-      "Бородачев Анатолий Никифорович": 37,
-      "Катаев Игорь Алексеевич": 16,
-      "Короченский Дмитрий Анатольевич": 6,
-      "Косинов Сергей Александрович": 15,
-      "Чеботарев Денис Евгеньевич": 11,
-      "Шаповалов Сергей Александрович": 33,
-      "Шолохов Александр Михайлович": 262
+      "gas:candidate-vibid:4614006288398": 14,
+      "gas:candidate-vibid:4614006286844": 37,
+      "gas:candidate-vibid:4614006287022": 16,
+      "gas:candidate-vibid:4614006288331": 6,
+      "gas:candidate-vibid:4614006288409": 15,
+      "gas:candidate-vibid:4614006288365": 11,
+      "gas:candidate-vibid:4614006287472": 33,
+      "gas:candidate-vibid:4614006287981": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 17,
-      "Бородачев Анатолий Никифорович": 111,
-      "Катаев Игорь Алексеевич": 35,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 42,
-      "Чеботарев Денис Евгеньевич": 13,
-      "Шаповалов Сергей Александрович": 111,
-      "Шолохов Александр Михайлович": 622
+      "gas:candidate-vibid:4614006288398": 17,
+      "gas:candidate-vibid:4614006286844": 111,
+      "gas:candidate-vibid:4614006287022": 35,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 42,
+      "gas:candidate-vibid:4614006288365": 13,
+      "gas:candidate-vibid:4614006287472": 111,
+      "gas:candidate-vibid:4614006287981": 622
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 27,
-      "Бородачев Анатолий Никифорович": 91,
-      "Катаев Игорь Алексеевич": 45,
-      "Короченский Дмитрий Анатольевич": 22,
-      "Косинов Сергей Александрович": 44,
-      "Чеботарев Денис Евгеньевич": 20,
-      "Шаповалов Сергей Александрович": 57,
-      "Шолохов Александр Михайлович": 791
+      "gas:candidate-vibid:4614006288398": 27,
+      "gas:candidate-vibid:4614006286844": 91,
+      "gas:candidate-vibid:4614006287022": 45,
+      "gas:candidate-vibid:4614006288331": 22,
+      "gas:candidate-vibid:4614006288409": 44,
+      "gas:candidate-vibid:4614006288365": 20,
+      "gas:candidate-vibid:4614006287472": 57,
+      "gas:candidate-vibid:4614006287981": 791
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 23,
-      "Бородачев Анатолий Никифорович": 112,
-      "Катаев Игорь Алексеевич": 37,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 40,
-      "Чеботарев Денис Евгеньевич": 22,
-      "Шаповалов Сергей Александрович": 76,
-      "Шолохов Александр Михайлович": 784
+      "gas:candidate-vibid:4614006288398": 23,
+      "gas:candidate-vibid:4614006286844": 112,
+      "gas:candidate-vibid:4614006287022": 37,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 40,
+      "gas:candidate-vibid:4614006288365": 22,
+      "gas:candidate-vibid:4614006287472": 76,
+      "gas:candidate-vibid:4614006287981": 784
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 143,
-      "Бородачев Анатолий Никифорович": 0,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 65,
-      "Шолохов Александр Михайлович": 258
+      "gas:candidate-vibid:4614006288398": 143,
+      "gas:candidate-vibid:4614006286844": 0,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 65,
+      "gas:candidate-vibid:4614006287981": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 50,
-      "Катаев Игорь Алексеевич": 12,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 31,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 55,
-      "Шолохов Александр Михайлович": 540
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 50,
+      "gas:candidate-vibid:4614006287022": 12,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 31,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 55,
+      "gas:candidate-vibid:4614006287981": 540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455476&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455476&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 2,
-      "Шолохов Александр Михайлович": 55
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 2,
+      "gas:candidate-vibid:4614006287981": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 78
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 7,
-      "Шолохов Александр Михайлович": 109
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 7,
+      "gas:candidate-vibid:4614006287981": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 27,
-      "Катаев Игорь Алексеевич": 15,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 40,
-      "Шолохов Александр Михайлович": 329
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 27,
+      "gas:candidate-vibid:4614006287022": 15,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 40,
+      "gas:candidate-vibid:4614006287981": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 0,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 15,
-      "Шолохов Александр Михайлович": 67
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 0,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 15,
+      "gas:candidate-vibid:4614006287981": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 7,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 64
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 7,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 19,
-      "Бородачев Анатолий Никифорович": 168,
-      "Катаев Игорь Алексеевич": 36,
-      "Короченский Дмитрий Анатольевич": 9,
-      "Косинов Сергей Александрович": 48,
-      "Чеботарев Денис Евгеньевич": 15,
-      "Шаповалов Сергей Александрович": 137,
-      "Шолохов Александр Михайлович": 1830
+      "gas:candidate-vibid:4614006288398": 19,
+      "gas:candidate-vibid:4614006286844": 168,
+      "gas:candidate-vibid:4614006287022": 36,
+      "gas:candidate-vibid:4614006288331": 9,
+      "gas:candidate-vibid:4614006288409": 48,
+      "gas:candidate-vibid:4614006288365": 15,
+      "gas:candidate-vibid:4614006287472": 137,
+      "gas:candidate-vibid:4614006287981": 1830
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 8,
-      "Бородачев Анатолий Никифорович": 65,
-      "Катаев Игорь Алексеевич": 37,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 33,
-      "Чеботарев Денис Евгеньевич": 9,
-      "Шаповалов Сергей Александрович": 75,
-      "Шолохов Александр Михайлович": 892
+      "gas:candidate-vibid:4614006288398": 8,
+      "gas:candidate-vibid:4614006286844": 65,
+      "gas:candidate-vibid:4614006287022": 37,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 33,
+      "gas:candidate-vibid:4614006288365": 9,
+      "gas:candidate-vibid:4614006287472": 75,
+      "gas:candidate-vibid:4614006287981": 892
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 6,
-      "Бородачев Анатолий Никифорович": 36,
-      "Катаев Игорь Алексеевич": 18,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 16,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 43,
-      "Шолохов Александр Михайлович": 456
+      "gas:candidate-vibid:4614006288398": 6,
+      "gas:candidate-vibid:4614006286844": 36,
+      "gas:candidate-vibid:4614006287022": 18,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 16,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 43,
+      "gas:candidate-vibid:4614006287981": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 20,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 7,
-      "Шаповалов Сергей Александрович": 24,
-      "Шолохов Александр Михайлович": 415
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 20,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 7,
+      "gas:candidate-vibid:4614006287472": 24,
+      "gas:candidate-vibid:4614006287981": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 11,
-      "Катаев Игорь Алексеевич": 8,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 11,
-      "Шолохов Александр Михайлович": 196
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 11,
+      "gas:candidate-vibid:4614006287022": 8,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 11,
+      "gas:candidate-vibid:4614006287981": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 1,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 10,
-      "Шолохов Александр Михайлович": 89
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 1,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 10,
+      "gas:candidate-vibid:4614006287981": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 1,
-      "Шолохов Александр Михайлович": 64
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 1,
+      "gas:candidate-vibid:4614006287981": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 45,
-      "Катаев Игорь Алексеевич": 17,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 14,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 25,
-      "Шолохов Александр Михайлович": 744
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 45,
+      "gas:candidate-vibid:4614006287022": 17,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 14,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 25,
+      "gas:candidate-vibid:4614006287981": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 52
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 18,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 328
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 18,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 88
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 2,
-      "Шолохов Александр Михайлович": 152
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 2,
+      "gas:candidate-vibid:4614006287981": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 3,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 77
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 3,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 16,
-      "Бородачев Анатолий Никифорович": 48,
-      "Катаев Игорь Алексеевич": 21,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 10,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 24,
-      "Шолохов Александр Михайлович": 585
+      "gas:candidate-vibid:4614006288398": 16,
+      "gas:candidate-vibid:4614006286844": 48,
+      "gas:candidate-vibid:4614006287022": 21,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 10,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 24,
+      "gas:candidate-vibid:4614006287981": 585
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 10,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 114
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 10,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 0,
-      "Шолохов Александр Михайлович": 138
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 0,
+      "gas:candidate-vibid:4614006287981": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 55,
-      "Катаев Игорь Алексеевич": 22,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 24,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 37,
-      "Шолохов Александр Михайлович": 873
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 55,
+      "gas:candidate-vibid:4614006287022": 22,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 24,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 37,
+      "gas:candidate-vibid:4614006287981": 873
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 19,
-      "Катаев Игорь Алексеевич": 8,
-      "Короченский Дмитрий Анатольевич": 5,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 21,
-      "Шолохов Александр Михайлович": 284
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 19,
+      "gas:candidate-vibid:4614006287022": 8,
+      "gas:candidate-vibid:4614006288331": 5,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 21,
+      "gas:candidate-vibid:4614006287981": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 3,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 4,
-      "Шолохов Александр Михайлович": 67
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 3,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 4,
+      "gas:candidate-vibid:4614006287981": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 10,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 111
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 10,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 25,
-      "Катаев Игорь Алексеевич": 12,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 10,
-      "Шолохов Александр Михайлович": 227
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 25,
+      "gas:candidate-vibid:4614006287022": 12,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 10,
+      "gas:candidate-vibid:4614006287981": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 67
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 11,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 7,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 106
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 11,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 7,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 21,
-      "Катаев Игорь Алексеевич": 7,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 16,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 24,
-      "Шолохов Александр Михайлович": 150
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 21,
+      "gas:candidate-vibid:4614006287022": 7,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 16,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 24,
+      "gas:candidate-vibid:4614006287981": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 14,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 10,
-      "Шолохов Александр Михайлович": 129
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 14,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 10,
+      "gas:candidate-vibid:4614006287981": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 0,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 1,
-      "Шолохов Александр Михайлович": 56
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 0,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 1,
+      "gas:candidate-vibid:4614006287981": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 0,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 1,
-      "Шолохов Александр Михайлович": 129
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 0,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 1,
+      "gas:candidate-vibid:4614006287981": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 28,
-      "Катаев Игорь Алексеевич": 19,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 23,
-      "Шолохов Александр Михайлович": 371
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 28,
+      "gas:candidate-vibid:4614006287022": 19,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 23,
+      "gas:candidate-vibid:4614006287981": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 4,
-      "Шолохов Александр Михайлович": 84
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 4,
+      "gas:candidate-vibid:4614006287981": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 29,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 18,
-      "Косинов Сергей Александрович": 31,
-      "Чеботарев Денис Евгеньевич": 18,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 450
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 29,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 18,
+      "gas:candidate-vibid:4614006288409": 31,
+      "gas:candidate-vibid:4614006288365": 18,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 7,
-      "Шолохов Александр Михайлович": 114
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 7,
+      "gas:candidate-vibid:4614006287981": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 21,
-      "Катаев Игорь Алексеевич": 7,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 219
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 21,
+      "gas:candidate-vibid:4614006287022": 7,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455477&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455477&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 31,
-      "Бородачев Анатолий Никифорович": 67,
-      "Катаев Игорь Алексеевич": 30,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 38,
-      "Чеботарев Денис Евгеньевич": 8,
-      "Шаповалов Сергей Александрович": 52,
-      "Шолохов Александр Михайлович": 1265
+      "gas:candidate-vibid:4614006288398": 31,
+      "gas:candidate-vibid:4614006286844": 67,
+      "gas:candidate-vibid:4614006287022": 30,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 38,
+      "gas:candidate-vibid:4614006288365": 8,
+      "gas:candidate-vibid:4614006287472": 52,
+      "gas:candidate-vibid:4614006287981": 1265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 15,
-      "Бородачев Анатолий Никифорович": 68,
-      "Катаев Игорь Алексеевич": 25,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 28,
-      "Чеботарев Денис Евгеньевич": 12,
-      "Шаповалов Сергей Александрович": 35,
-      "Шолохов Александр Михайлович": 1151
+      "gas:candidate-vibid:4614006288398": 15,
+      "gas:candidate-vibid:4614006286844": 68,
+      "gas:candidate-vibid:4614006287022": 25,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 28,
+      "gas:candidate-vibid:4614006288365": 12,
+      "gas:candidate-vibid:4614006287472": 35,
+      "gas:candidate-vibid:4614006287981": 1151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 7,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 9,
-      "Шолохов Александр Михайлович": 231
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 7,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 9,
+      "gas:candidate-vibid:4614006287981": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 113
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 8,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 4,
-      "Шолохов Александр Михайлович": 271
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 8,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 4,
+      "gas:candidate-vibid:4614006287981": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 7,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 3,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 2,
-      "Шолохов Александр Михайлович": 151
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 7,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 3,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 2,
+      "gas:candidate-vibid:4614006287981": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 15,
-      "Катаев Игорь Алексеевич": 8,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 15,
-      "Шолохов Александр Михайлович": 168
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 15,
+      "gas:candidate-vibid:4614006287022": 8,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 15,
+      "gas:candidate-vibid:4614006287981": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 5,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 7,
-      "Шолохов Александр Михайлович": 248
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 5,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 7,
+      "gas:candidate-vibid:4614006287981": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 7,
-      "Бородачев Анатолий Никифорович": 20,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 15,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 23,
-      "Шолохов Александр Михайлович": 466
+      "gas:candidate-vibid:4614006288398": 7,
+      "gas:candidate-vibid:4614006286844": 20,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 15,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 23,
+      "gas:candidate-vibid:4614006287981": 466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 1,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 111
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 1,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 4,
-      "Бородачев Анатолий Никифорович": 13,
-      "Катаев Игорь Алексеевич": 8,
-      "Короченский Дмитрий Анатольевич": 4,
-      "Косинов Сергей Александрович": 5,
-      "Чеботарев Денис Евгеньевич": 6,
-      "Шаповалов Сергей Александрович": 13,
-      "Шолохов Александр Михайлович": 225
+      "gas:candidate-vibid:4614006288398": 4,
+      "gas:candidate-vibid:4614006286844": 13,
+      "gas:candidate-vibid:4614006287022": 8,
+      "gas:candidate-vibid:4614006288331": 4,
+      "gas:candidate-vibid:4614006288409": 5,
+      "gas:candidate-vibid:4614006288365": 6,
+      "gas:candidate-vibid:4614006287472": 13,
+      "gas:candidate-vibid:4614006287981": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 1,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 75
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 1,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 0,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 109
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 0,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 7,
-      "Катаев Игорь Алексеевич": 4,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 5,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 139
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 7,
+      "gas:candidate-vibid:4614006287022": 4,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 5,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 6,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 3,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 494
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 6,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 3,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 494
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 3,
-      "Шолохов Александр Михайлович": 351
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 3,
+      "gas:candidate-vibid:4614006287981": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 2,
-      "Катаев Игорь Алексеевич": 1,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 2,
-      "Шолохов Александр Михайлович": 77
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 2,
+      "gas:candidate-vibid:4614006287022": 1,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 2,
+      "gas:candidate-vibid:4614006287981": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 9,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 4,
-      "Шолохов Александр Михайлович": 138
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 9,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 4,
+      "gas:candidate-vibid:4614006287981": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 1,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 2,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 5,
-      "Шолохов Александр Михайлович": 101
+      "gas:candidate-vibid:4614006288398": 1,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 2,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 5,
+      "gas:candidate-vibid:4614006287981": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 2,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 3,
-      "Чеботарев Денис Евгеньевич": 4,
-      "Шаповалов Сергей Александрович": 13,
-      "Шолохов Александр Михайлович": 246
+      "gas:candidate-vibid:4614006288398": 2,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 3,
+      "gas:candidate-vibid:4614006288365": 4,
+      "gas:candidate-vibid:4614006287472": 13,
+      "gas:candidate-vibid:4614006287981": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 14,
-      "Катаев Игорь Алексеевич": 9,
-      "Короченский Дмитрий Анатольевич": 1,
-      "Косинов Сергей Александрович": 8,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 18,
-      "Шолохов Александр Михайлович": 134
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 14,
+      "gas:candidate-vibid:4614006287022": 9,
+      "gas:candidate-vibid:4614006288331": 1,
+      "gas:candidate-vibid:4614006288409": 8,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 18,
+      "gas:candidate-vibid:4614006287981": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 12,
-      "Катаев Игорь Алексеевич": 3,
-      "Короченский Дмитрий Анатольевич": 2,
-      "Косинов Сергей Александрович": 4,
-      "Чеботарев Денис Евгеньевич": 1,
-      "Шаповалов Сергей Александрович": 6,
-      "Шолохов Александр Михайлович": 88
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 12,
+      "gas:candidate-vibid:4614006287022": 3,
+      "gas:candidate-vibid:4614006288331": 2,
+      "gas:candidate-vibid:4614006288409": 4,
+      "gas:candidate-vibid:4614006288365": 1,
+      "gas:candidate-vibid:4614006287472": 6,
+      "gas:candidate-vibid:4614006287981": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 3,
-      "Бородачев Анатолий Никифорович": 16,
-      "Катаев Игорь Алексеевич": 6,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 6,
-      "Чеботарев Денис Евгеньевич": 2,
-      "Шаповалов Сергей Александрович": 12,
-      "Шолохов Александр Михайлович": 264
+      "gas:candidate-vibid:4614006288398": 3,
+      "gas:candidate-vibid:4614006286844": 16,
+      "gas:candidate-vibid:4614006287022": 6,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 6,
+      "gas:candidate-vibid:4614006288365": 2,
+      "gas:candidate-vibid:4614006287472": 12,
+      "gas:candidate-vibid:4614006287981": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 5,
-      "Бородачев Анатолий Никифорович": 5,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 8,
-      "Шолохов Александр Михайлович": 146
+      "gas:candidate-vibid:4614006288398": 5,
+      "gas:candidate-vibid:4614006286844": 5,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 8,
+      "gas:candidate-vibid:4614006287981": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверченко Владимир Александрович": 0,
-      "Бородачев Анатолий Никифорович": 4,
-      "Катаев Игорь Алексеевич": 2,
-      "Короченский Дмитрий Анатольевич": 0,
-      "Косинов Сергей Александрович": 0,
-      "Чеботарев Денис Евгеньевич": 0,
-      "Шаповалов Сергей Александрович": 1,
-      "Шолохов Александр Михайлович": 70
+      "gas:candidate-vibid:4614006288398": 0,
+      "gas:candidate-vibid:4614006286844": 4,
+      "gas:candidate-vibid:4614006287022": 2,
+      "gas:candidate-vibid:4614006288331": 0,
+      "gas:candidate-vibid:4614006288409": 0,
+      "gas:candidate-vibid:4614006288365": 0,
+      "gas:candidate-vibid:4614006287472": 1,
+      "gas:candidate-vibid:4614006287981": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120001455478&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455478&type=464",

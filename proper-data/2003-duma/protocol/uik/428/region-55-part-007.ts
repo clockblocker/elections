@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 55,
-      "Дорохин Владимир Нефедович": 39,
-      "Леонов Василий Алексеевич": 10,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 55,
+      "gas:candidate-vibid:1001000121883": 39,
+      "gas:candidate-vibid:1001000217941": 10,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 50,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:255200067127": 50,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 496,
-      "Дорохин Владимир Нефедович": 50,
-      "Леонов Василий Алексеевич": 17,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 32
+      "gas:candidate-vibid:255200067127": 496,
+      "gas:candidate-vibid:1001000121883": 50,
+      "gas:candidate-vibid:1001000217941": 17,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 271,
-      "Дорохин Владимир Нефедович": 80,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:255200067127": 271,
+      "gas:candidate-vibid:1001000121883": 80,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 54,
-      "Дорохин Владимир Нефедович": 17,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 54,
+      "gas:candidate-vibid:1001000121883": 17,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 271,
-      "Дорохин Владимир Нефедович": 268,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:255200067127": 271,
+      "gas:candidate-vibid:1001000121883": 268,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 30,
-      "Дорохин Владимир Нефедович": 47,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 30,
+      "gas:candidate-vibid:1001000121883": 47,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 21,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 21,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 201,
-      "Дорохин Владимир Нефедович": 27,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:255200067127": 201,
+      "gas:candidate-vibid:1001000121883": 27,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 55,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 55,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 18,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 18,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 33,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 33,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 211,
-      "Дорохин Владимир Нефедович": 57,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 211,
+      "gas:candidate-vibid:1001000121883": 57,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 27,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 27,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 46,
-      "Дорохин Владимир Нефедович": 18,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 46,
+      "gas:candidate-vibid:1001000121883": 18,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 18,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 18,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 111,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 111,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 57,
-      "Дорохин Владимир Нефедович": 18,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 57,
+      "gas:candidate-vibid:1001000121883": 18,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 97,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 97,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 163,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 163,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 82,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 82,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 418,
-      "Дорохин Владимир Нефедович": 34,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:255200067127": 418,
+      "gas:candidate-vibid:1001000121883": 34,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 134,
-      "Дорохин Владимир Нефедович": 37,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:255200067127": 134,
+      "gas:candidate-vibid:1001000121883": 37,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 109,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 109,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 230,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 230,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 132,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 132,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 227,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 227,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 169,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:255200067127": 169,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 216,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 216,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 263,
-      "Дорохин Владимир Нефедович": 52,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 263,
+      "gas:candidate-vibid:1001000121883": 52,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 145,
-      "Дорохин Владимир Нефедович": 19,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 145,
+      "gas:candidate-vibid:1001000121883": 19,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 155,
-      "Дорохин Владимир Нефедович": 23,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 155,
+      "gas:candidate-vibid:1001000121883": 23,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 395,
-      "Дорохин Владимир Нефедович": 17,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:255200067127": 395,
+      "gas:candidate-vibid:1001000121883": 17,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 188,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 188,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 156,
-      "Дорохин Владимир Нефедович": 84,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 156,
+      "gas:candidate-vibid:1001000121883": 84,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 89,
-      "Дорохин Владимир Нефедович": 8,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 89,
+      "gas:candidate-vibid:1001000121883": 8,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 260,
-      "Дорохин Владимир Нефедович": 40,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 15,
-      "Против всех": 22
+      "gas:candidate-vibid:255200067127": 260,
+      "gas:candidate-vibid:1001000121883": 40,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 15,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 271,
-      "Дорохин Владимир Нефедович": 45,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 271,
+      "gas:candidate-vibid:1001000121883": 45,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 353,
-      "Дорохин Владимир Нефедович": 60,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 16,
-      "Против всех": 28
+      "gas:candidate-vibid:255200067127": 353,
+      "gas:candidate-vibid:1001000121883": 60,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 16,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 392,
-      "Дорохин Владимир Нефедович": 55,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:255200067127": 392,
+      "gas:candidate-vibid:1001000121883": 55,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 289,
-      "Дорохин Владимир Нефедович": 25,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:255200067127": 289,
+      "gas:candidate-vibid:1001000121883": 25,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 145,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 145,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 273,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:255200067127": 273,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 157,
-      "Дорохин Владимир Нефедович": 17,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 157,
+      "gas:candidate-vibid:1001000121883": 17,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 85,
-      "Дорохин Владимир Нефедович": 20,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 85,
+      "gas:candidate-vibid:1001000121883": 20,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 72,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 72,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 86,
-      "Дорохин Владимир Нефедович": 34,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 86,
+      "gas:candidate-vibid:1001000121883": 34,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266797&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 787,
-      "Дорохин Владимир Нефедович": 133,
-      "Леонов Василий Алексеевич": 25,
-      "Макушин Леонид Алексеевич": 17,
-      "Против всех": 63
+      "gas:candidate-vibid:255200067127": 787,
+      "gas:candidate-vibid:1001000121883": 133,
+      "gas:candidate-vibid:1001000217941": 25,
+      "gas:candidate-vibid:1001000113961": 17,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 695,
-      "Дорохин Владимир Нефедович": 142,
-      "Леонов Василий Алексеевич": 17,
-      "Макушин Леонид Алексеевич": 25,
-      "Против всех": 48
+      "gas:candidate-vibid:255200067127": 695,
+      "gas:candidate-vibid:1001000121883": 142,
+      "gas:candidate-vibid:1001000217941": 17,
+      "gas:candidate-vibid:1001000113961": 25,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 685,
-      "Дорохин Владимир Нефедович": 164,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 28,
-      "Против всех": 53
+      "gas:candidate-vibid:255200067127": 685,
+      "gas:candidate-vibid:1001000121883": 164,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 28,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 342,
-      "Дорохин Владимир Нефедович": 52,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:255200067127": 342,
+      "gas:candidate-vibid:1001000121883": 52,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 54,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 54,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 125,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 125,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 320,
-      "Дорохин Владимир Нефедович": 120,
-      "Леонов Василий Алексеевич": 14,
-      "Макушин Леонид Алексеевич": 15,
-      "Против всех": 20
+      "gas:candidate-vibid:255200067127": 320,
+      "gas:candidate-vibid:1001000121883": 120,
+      "gas:candidate-vibid:1001000217941": 14,
+      "gas:candidate-vibid:1001000113961": 15,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 56,
-      "Дорохин Владимир Нефедович": 39,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 56,
+      "gas:candidate-vibid:1001000121883": 39,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 14,
-      "Дорохин Владимир Нефедович": 54,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 14,
+      "gas:candidate-vibid:1001000121883": 54,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 63,
-      "Дорохин Владимир Нефедович": 32,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 63,
+      "gas:candidate-vibid:1001000121883": 32,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 511,
-      "Дорохин Владимир Нефедович": 60,
-      "Леонов Василий Алексеевич": 16,
-      "Макушин Леонид Алексеевич": 12,
-      "Против всех": 33
+      "gas:candidate-vibid:255200067127": 511,
+      "gas:candidate-vibid:1001000121883": 60,
+      "gas:candidate-vibid:1001000217941": 16,
+      "gas:candidate-vibid:1001000113961": 12,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 38,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 38,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 89,
-      "Дорохин Владимир Нефедович": 9,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 89,
+      "gas:candidate-vibid:1001000121883": 9,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 614,
-      "Дорохин Владимир Нефедович": 52,
-      "Леонов Василий Алексеевич": 19,
-      "Макушин Леонид Алексеевич": 22,
-      "Против всех": 30
+      "gas:candidate-vibid:255200067127": 614,
+      "gas:candidate-vibid:1001000121883": 52,
+      "gas:candidate-vibid:1001000217941": 19,
+      "gas:candidate-vibid:1001000113961": 22,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 88,
-      "Дорохин Владимир Нефедович": 21,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 88,
+      "gas:candidate-vibid:1001000121883": 21,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 97,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 97,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 186,
-      "Дорохин Владимир Нефедович": 27,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 186,
+      "gas:candidate-vibid:1001000121883": 27,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 75,
-      "Дорохин Владимир Нефедович": 8,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 75,
+      "gas:candidate-vibid:1001000121883": 8,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 370,
-      "Дорохин Владимир Нефедович": 53,
-      "Леонов Василий Алексеевич": 16,
-      "Макушин Леонид Алексеевич": 11,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 370,
+      "gas:candidate-vibid:1001000121883": 53,
+      "gas:candidate-vibid:1001000217941": 16,
+      "gas:candidate-vibid:1001000113961": 11,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 169,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 169,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 117,
-      "Дорохин Владимир Нефедович": 54,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 117,
+      "gas:candidate-vibid:1001000121883": 54,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 53,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 53,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 79,
-      "Дорохин Владимир Нефедович": 55,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 79,
+      "gas:candidate-vibid:1001000121883": 55,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 533,
-      "Дорохин Владимир Нефедович": 70,
-      "Леонов Василий Алексеевич": 22,
-      "Макушин Леонид Алексеевич": 11,
-      "Против всех": 43
+      "gas:candidate-vibid:255200067127": 533,
+      "gas:candidate-vibid:1001000121883": 70,
+      "gas:candidate-vibid:1001000217941": 22,
+      "gas:candidate-vibid:1001000113961": 11,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 61,
-      "Дорохин Владимир Нефедович": 2,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 61,
+      "gas:candidate-vibid:1001000121883": 2,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 336,
-      "Дорохин Владимир Нефедович": 52,
-      "Леонов Василий Алексеевич": 16,
-      "Макушин Леонид Алексеевич": 15,
-      "Против всех": 26
+      "gas:candidate-vibid:255200067127": 336,
+      "gas:candidate-vibid:1001000121883": 52,
+      "gas:candidate-vibid:1001000217941": 16,
+      "gas:candidate-vibid:1001000113961": 15,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 218,
-      "Дорохин Владимир Нефедович": 24,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:255200067127": 218,
+      "gas:candidate-vibid:1001000121883": 24,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 160,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 160,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 67,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 67,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 68,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 68,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 85,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 85,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 448,
-      "Дорохин Владимир Нефедович": 25,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 16,
-      "Против всех": 14
+      "gas:candidate-vibid:255200067127": 448,
+      "gas:candidate-vibid:1001000121883": 25,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 16,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 91,
-      "Дорохин Владимир Нефедович": 30,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 91,
+      "gas:candidate-vibid:1001000121883": 30,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 96,
-      "Дорохин Владимир Нефедович": 8,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 96,
+      "gas:candidate-vibid:1001000121883": 8,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 58,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 58,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 310,
-      "Дорохин Владимир Нефедович": 11,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 310,
+      "gas:candidate-vibid:1001000121883": 11,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 96,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 96,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 72,
-      "Дорохин Владимир Нефедович": 2,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 72,
+      "gas:candidate-vibid:1001000121883": 2,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 104,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 104,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 94,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 94,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 124,
-      "Дорохин Владимир Нефедович": 34,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 124,
+      "gas:candidate-vibid:1001000121883": 34,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266798&region=0&sub_region=0&type=429",
@@ -4794,18 +4794,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 14,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 18,
-      "Захарченко Валентина Павловна": 27,
-      "Кравец Александр Алексеевич": 63,
-      "Маевский Леонид Станиславович": 78,
-      "Панычев Александр Юрьевич": 11,
-      "Редькин Юрий Васильевич": 11,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 154,
-      "Шустов Дмитрий Николаевич": 33,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000217943": 14,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 18,
+      "gas:candidate-vibid:1001000136094": 27,
+      "gas:candidate-vibid:1001000121885": 63,
+      "gas:candidate-vibid:355300366981": 78,
+      "gas:candidate-vibid:1001000190392": 11,
+      "gas:candidate-vibid:1001000193916": 11,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 154,
+      "gas:candidate-vibid:355300366710": 33,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -4855,18 +4855,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 18,
-      "Грасс Александр Викторович": 8,
-      "Ефимкин Николай Александрович": 16,
-      "Захарченко Валентина Павловна": 42,
-      "Кравец Александр Алексеевич": 98,
-      "Маевский Леонид Станиславович": 61,
-      "Панычев Александр Юрьевич": 6,
-      "Редькин Юрий Васильевич": 12,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 210,
-      "Шустов Дмитрий Николаевич": 46,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000217943": 18,
+      "gas:candidate-vibid:355300366713": 8,
+      "gas:candidate-vibid:1001000113963": 16,
+      "gas:candidate-vibid:1001000136094": 42,
+      "gas:candidate-vibid:1001000121885": 98,
+      "gas:candidate-vibid:355300366981": 61,
+      "gas:candidate-vibid:1001000190392": 6,
+      "gas:candidate-vibid:1001000193916": 12,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 210,
+      "gas:candidate-vibid:355300366710": 46,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -4916,18 +4916,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 1,
-      "Ефимкин Николай Александрович": 10,
-      "Захарченко Валентина Павловна": 49,
-      "Кравец Александр Алексеевич": 167,
-      "Маевский Леонид Станиславович": 71,
-      "Панычев Александр Юрьевич": 5,
-      "Редькин Юрий Васильевич": 16,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 232,
-      "Шустов Дмитрий Николаевич": 55,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 1,
+      "gas:candidate-vibid:1001000113963": 10,
+      "gas:candidate-vibid:1001000136094": 49,
+      "gas:candidate-vibid:1001000121885": 167,
+      "gas:candidate-vibid:355300366981": 71,
+      "gas:candidate-vibid:1001000190392": 5,
+      "gas:candidate-vibid:1001000193916": 16,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 232,
+      "gas:candidate-vibid:355300366710": 55,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -4977,18 +4977,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 20,
-      "Грасс Александр Викторович": 2,
-      "Ефимкин Николай Александрович": 11,
-      "Захарченко Валентина Павловна": 32,
-      "Кравец Александр Алексеевич": 69,
-      "Маевский Леонид Станиславович": 32,
-      "Панычев Александр Юрьевич": 10,
-      "Редькин Юрий Васильевич": 20,
-      "Сапунов Дмитрий Валерьевич": 2,
-      "Харитонов Александр Николаевич": 168,
-      "Шустов Дмитрий Николаевич": 42,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000217943": 20,
+      "gas:candidate-vibid:355300366713": 2,
+      "gas:candidate-vibid:1001000113963": 11,
+      "gas:candidate-vibid:1001000136094": 32,
+      "gas:candidate-vibid:1001000121885": 69,
+      "gas:candidate-vibid:355300366981": 32,
+      "gas:candidate-vibid:1001000190392": 10,
+      "gas:candidate-vibid:1001000193916": 20,
+      "gas:candidate-vibid:355300366701": 2,
+      "gas:candidate-vibid:355300366707": 168,
+      "gas:candidate-vibid:355300366710": 42,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5038,18 +5038,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 22,
-      "Грасс Александр Викторович": 20,
-      "Ефимкин Николай Александрович": 25,
-      "Захарченко Валентина Павловна": 58,
-      "Кравец Александр Алексеевич": 162,
-      "Маевский Леонид Станиславович": 129,
-      "Панычев Александр Юрьевич": 9,
-      "Редькин Юрий Васильевич": 16,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 297,
-      "Шустов Дмитрий Николаевич": 47,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000217943": 22,
+      "gas:candidate-vibid:355300366713": 20,
+      "gas:candidate-vibid:1001000113963": 25,
+      "gas:candidate-vibid:1001000136094": 58,
+      "gas:candidate-vibid:1001000121885": 162,
+      "gas:candidate-vibid:355300366981": 129,
+      "gas:candidate-vibid:1001000190392": 9,
+      "gas:candidate-vibid:1001000193916": 16,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 297,
+      "gas:candidate-vibid:355300366710": 47,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5099,18 +5099,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 15,
-      "Грасс Александр Викторович": 6,
-      "Ефимкин Николай Александрович": 39,
-      "Захарченко Валентина Павловна": 61,
-      "Кравец Александр Алексеевич": 119,
-      "Маевский Леонид Станиславович": 58,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 25,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 253,
-      "Шустов Дмитрий Николаевич": 39,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217943": 15,
+      "gas:candidate-vibid:355300366713": 6,
+      "gas:candidate-vibid:1001000113963": 39,
+      "gas:candidate-vibid:1001000136094": 61,
+      "gas:candidate-vibid:1001000121885": 119,
+      "gas:candidate-vibid:355300366981": 58,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 25,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 253,
+      "gas:candidate-vibid:355300366710": 39,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5160,18 +5160,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 22,
-      "Грасс Александр Викторович": 3,
-      "Ефимкин Николай Александрович": 28,
-      "Захарченко Валентина Павловна": 71,
-      "Кравец Александр Алексеевич": 143,
-      "Маевский Леонид Станиславович": 78,
-      "Панычев Александр Юрьевич": 9,
-      "Редькин Юрий Васильевич": 25,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 186,
-      "Шустов Дмитрий Николаевич": 57,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000217943": 22,
+      "gas:candidate-vibid:355300366713": 3,
+      "gas:candidate-vibid:1001000113963": 28,
+      "gas:candidate-vibid:1001000136094": 71,
+      "gas:candidate-vibid:1001000121885": 143,
+      "gas:candidate-vibid:355300366981": 78,
+      "gas:candidate-vibid:1001000190392": 9,
+      "gas:candidate-vibid:1001000193916": 25,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 186,
+      "gas:candidate-vibid:355300366710": 57,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5221,18 +5221,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 35,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 33,
-      "Захарченко Валентина Павловна": 63,
-      "Кравец Александр Алексеевич": 192,
-      "Маевский Леонид Станиславович": 58,
-      "Панычев Александр Юрьевич": 17,
-      "Редькин Юрий Васильевич": 31,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 273,
-      "Шустов Дмитрий Николаевич": 51,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000217943": 35,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 33,
+      "gas:candidate-vibid:1001000136094": 63,
+      "gas:candidate-vibid:1001000121885": 192,
+      "gas:candidate-vibid:355300366981": 58,
+      "gas:candidate-vibid:1001000190392": 17,
+      "gas:candidate-vibid:1001000193916": 31,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 273,
+      "gas:candidate-vibid:355300366710": 51,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5282,18 +5282,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 33,
-      "Грасс Александр Викторович": 23,
-      "Ефимкин Николай Александрович": 65,
-      "Захарченко Валентина Павловна": 74,
-      "Кравец Александр Алексеевич": 229,
-      "Маевский Леонид Станиславович": 129,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 71,
-      "Сапунов Дмитрий Валерьевич": 13,
-      "Харитонов Александр Николаевич": 456,
-      "Шустов Дмитрий Николаевич": 99,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000217943": 33,
+      "gas:candidate-vibid:355300366713": 23,
+      "gas:candidate-vibid:1001000113963": 65,
+      "gas:candidate-vibid:1001000136094": 74,
+      "gas:candidate-vibid:1001000121885": 229,
+      "gas:candidate-vibid:355300366981": 129,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 71,
+      "gas:candidate-vibid:355300366701": 13,
+      "gas:candidate-vibid:355300366707": 456,
+      "gas:candidate-vibid:355300366710": 99,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5343,18 +5343,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 24,
-      "Грасс Александр Викторович": 9,
-      "Ефимкин Николай Александрович": 44,
-      "Захарченко Валентина Павловна": 56,
-      "Кравец Александр Алексеевич": 194,
-      "Маевский Леонид Станиславович": 100,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 28,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 311,
-      "Шустов Дмитрий Николаевич": 62,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000217943": 24,
+      "gas:candidate-vibid:355300366713": 9,
+      "gas:candidate-vibid:1001000113963": 44,
+      "gas:candidate-vibid:1001000136094": 56,
+      "gas:candidate-vibid:1001000121885": 194,
+      "gas:candidate-vibid:355300366981": 100,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 28,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 311,
+      "gas:candidate-vibid:355300366710": 62,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5404,18 +5404,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 15,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 25,
-      "Захарченко Валентина Павловна": 31,
-      "Кравец Александр Алексеевич": 119,
-      "Маевский Леонид Станиславович": 71,
-      "Панычев Александр Юрьевич": 4,
-      "Редькин Юрий Васильевич": 12,
-      "Сапунов Дмитрий Валерьевич": 2,
-      "Харитонов Александр Николаевич": 245,
-      "Шустов Дмитрий Николаевич": 32,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000217943": 15,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 25,
+      "gas:candidate-vibid:1001000136094": 31,
+      "gas:candidate-vibid:1001000121885": 119,
+      "gas:candidate-vibid:355300366981": 71,
+      "gas:candidate-vibid:1001000190392": 4,
+      "gas:candidate-vibid:1001000193916": 12,
+      "gas:candidate-vibid:355300366701": 2,
+      "gas:candidate-vibid:355300366707": 245,
+      "gas:candidate-vibid:355300366710": 32,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5465,18 +5465,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 21,
-      "Грасс Александр Викторович": 7,
-      "Ефимкин Николай Александрович": 26,
-      "Захарченко Валентина Павловна": 47,
-      "Кравец Александр Алексеевич": 124,
-      "Маевский Леонид Станиславович": 78,
-      "Панычев Александр Юрьевич": 9,
-      "Редькин Юрий Васильевич": 11,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 335,
-      "Шустов Дмитрий Николаевич": 37,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000217943": 21,
+      "gas:candidate-vibid:355300366713": 7,
+      "gas:candidate-vibid:1001000113963": 26,
+      "gas:candidate-vibid:1001000136094": 47,
+      "gas:candidate-vibid:1001000121885": 124,
+      "gas:candidate-vibid:355300366981": 78,
+      "gas:candidate-vibid:1001000190392": 9,
+      "gas:candidate-vibid:1001000193916": 11,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 335,
+      "gas:candidate-vibid:355300366710": 37,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5526,18 +5526,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 15,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 26,
-      "Захарченко Валентина Павловна": 31,
-      "Кравец Александр Алексеевич": 95,
-      "Маевский Леонид Станиславович": 58,
-      "Панычев Александр Юрьевич": 7,
-      "Редькин Юрий Васильевич": 6,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 129,
-      "Шустов Дмитрий Николаевич": 27,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000217943": 15,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 26,
+      "gas:candidate-vibid:1001000136094": 31,
+      "gas:candidate-vibid:1001000121885": 95,
+      "gas:candidate-vibid:355300366981": 58,
+      "gas:candidate-vibid:1001000190392": 7,
+      "gas:candidate-vibid:1001000193916": 6,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 129,
+      "gas:candidate-vibid:355300366710": 27,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5587,18 +5587,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 13,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 38,
-      "Захарченко Валентина Павловна": 29,
-      "Кравец Александр Алексеевич": 84,
-      "Маевский Леонид Станиславович": 107,
-      "Панычев Александр Юрьевич": 9,
-      "Редькин Юрий Васильевич": 10,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 195,
-      "Шустов Дмитрий Николаевич": 39,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000217943": 13,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 38,
+      "gas:candidate-vibid:1001000136094": 29,
+      "gas:candidate-vibid:1001000121885": 84,
+      "gas:candidate-vibid:355300366981": 107,
+      "gas:candidate-vibid:1001000190392": 9,
+      "gas:candidate-vibid:1001000193916": 10,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 195,
+      "gas:candidate-vibid:355300366710": 39,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5648,18 +5648,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 20,
-      "Грасс Александр Викторович": 9,
-      "Ефимкин Николай Александрович": 33,
-      "Захарченко Валентина Павловна": 28,
-      "Кравец Александр Алексеевич": 88,
-      "Маевский Леонид Станиславович": 88,
-      "Панычев Александр Юрьевич": 8,
-      "Редькин Юрий Васильевич": 16,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 262,
-      "Шустов Дмитрий Николаевич": 42,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000217943": 20,
+      "gas:candidate-vibid:355300366713": 9,
+      "gas:candidate-vibid:1001000113963": 33,
+      "gas:candidate-vibid:1001000136094": 28,
+      "gas:candidate-vibid:1001000121885": 88,
+      "gas:candidate-vibid:355300366981": 88,
+      "gas:candidate-vibid:1001000190392": 8,
+      "gas:candidate-vibid:1001000193916": 16,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 262,
+      "gas:candidate-vibid:355300366710": 42,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5709,18 +5709,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 38,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 76,
-      "Захарченко Валентина Павловна": 32,
-      "Кравец Александр Алексеевич": 201,
-      "Маевский Леонид Станиславович": 136,
-      "Панычев Александр Юрьевич": 14,
-      "Редькин Юрий Васильевич": 36,
-      "Сапунов Дмитрий Валерьевич": 11,
-      "Харитонов Александр Николаевич": 371,
-      "Шустов Дмитрий Николаевич": 91,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000217943": 38,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 76,
+      "gas:candidate-vibid:1001000136094": 32,
+      "gas:candidate-vibid:1001000121885": 201,
+      "gas:candidate-vibid:355300366981": 136,
+      "gas:candidate-vibid:1001000190392": 14,
+      "gas:candidate-vibid:1001000193916": 36,
+      "gas:candidate-vibid:355300366701": 11,
+      "gas:candidate-vibid:355300366707": 371,
+      "gas:candidate-vibid:355300366710": 91,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5770,18 +5770,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 29,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 38,
-      "Захарченко Валентина Павловна": 34,
-      "Кравец Александр Алексеевич": 132,
-      "Маевский Леонид Станиславович": 70,
-      "Панычев Александр Юрьевич": 22,
-      "Редькин Юрий Васильевич": 23,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 192,
-      "Шустов Дмитрий Николаевич": 54,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000217943": 29,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 38,
+      "gas:candidate-vibid:1001000136094": 34,
+      "gas:candidate-vibid:1001000121885": 132,
+      "gas:candidate-vibid:355300366981": 70,
+      "gas:candidate-vibid:1001000190392": 22,
+      "gas:candidate-vibid:1001000193916": 23,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 192,
+      "gas:candidate-vibid:355300366710": 54,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5831,18 +5831,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 35,
-      "Грасс Александр Викторович": 13,
-      "Ефимкин Николай Александрович": 56,
-      "Захарченко Валентина Павловна": 52,
-      "Кравец Александр Алексеевич": 130,
-      "Маевский Леонид Станиславович": 102,
-      "Панычев Александр Юрьевич": 20,
-      "Редькин Юрий Васильевич": 63,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 528,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000217943": 35,
+      "gas:candidate-vibid:355300366713": 13,
+      "gas:candidate-vibid:1001000113963": 56,
+      "gas:candidate-vibid:1001000136094": 52,
+      "gas:candidate-vibid:1001000121885": 130,
+      "gas:candidate-vibid:355300366981": 102,
+      "gas:candidate-vibid:1001000190392": 20,
+      "gas:candidate-vibid:1001000193916": 63,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 528,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5892,18 +5892,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 47,
-      "Захарченко Валентина Павловна": 44,
-      "Кравец Александр Алексеевич": 139,
-      "Маевский Леонид Станиславович": 108,
-      "Панычев Александр Юрьевич": 17,
-      "Редькин Юрий Васильевич": 46,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 256,
-      "Шустов Дмитрий Николаевич": 54,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 47,
+      "gas:candidate-vibid:1001000136094": 44,
+      "gas:candidate-vibid:1001000121885": 139,
+      "gas:candidate-vibid:355300366981": 108,
+      "gas:candidate-vibid:1001000190392": 17,
+      "gas:candidate-vibid:1001000193916": 46,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 256,
+      "gas:candidate-vibid:355300366710": 54,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -5953,18 +5953,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 16,
-      "Грасс Александр Викторович": 10,
-      "Ефимкин Николай Александрович": 14,
-      "Захарченко Валентина Павловна": 73,
-      "Кравец Александр Алексеевич": 20,
-      "Маевский Леонид Станиславович": 20,
-      "Панычев Александр Юрьевич": 17,
-      "Редькин Юрий Васильевич": 10,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 12,
-      "Шустов Дмитрий Николаевич": 29,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000217943": 16,
+      "gas:candidate-vibid:355300366713": 10,
+      "gas:candidate-vibid:1001000113963": 14,
+      "gas:candidate-vibid:1001000136094": 73,
+      "gas:candidate-vibid:1001000121885": 20,
+      "gas:candidate-vibid:355300366981": 20,
+      "gas:candidate-vibid:1001000190392": 17,
+      "gas:candidate-vibid:1001000193916": 10,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 12,
+      "gas:candidate-vibid:355300366710": 29,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6014,18 +6014,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 44,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 66,
-      "Захарченко Валентина Павловна": 31,
-      "Кравец Александр Алексеевич": 230,
-      "Маевский Леонид Станиславович": 99,
-      "Панычев Александр Юрьевич": 39,
-      "Редькин Юрий Васильевич": 49,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 261,
-      "Шустов Дмитрий Николаевич": 76,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000217943": 44,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 66,
+      "gas:candidate-vibid:1001000136094": 31,
+      "gas:candidate-vibid:1001000121885": 230,
+      "gas:candidate-vibid:355300366981": 99,
+      "gas:candidate-vibid:1001000190392": 39,
+      "gas:candidate-vibid:1001000193916": 49,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 261,
+      "gas:candidate-vibid:355300366710": 76,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6075,18 +6075,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 37,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 51,
-      "Захарченко Валентина Павловна": 38,
-      "Кравец Александр Алексеевич": 238,
-      "Маевский Леонид Станиславович": 108,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 51,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 322,
-      "Шустов Дмитрий Николаевич": 57,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000217943": 37,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 51,
+      "gas:candidate-vibid:1001000136094": 38,
+      "gas:candidate-vibid:1001000121885": 238,
+      "gas:candidate-vibid:355300366981": 108,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 51,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 322,
+      "gas:candidate-vibid:355300366710": 57,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6136,18 +6136,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 43,
-      "Грасс Александр Викторович": 10,
-      "Ефимкин Николай Александрович": 65,
-      "Захарченко Валентина Павловна": 29,
-      "Кравец Александр Алексеевич": 170,
-      "Маевский Леонид Станиславович": 111,
-      "Панычев Александр Юрьевич": 25,
-      "Редькин Юрий Васильевич": 70,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 254,
-      "Шустов Дмитрий Николаевич": 46,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000217943": 43,
+      "gas:candidate-vibid:355300366713": 10,
+      "gas:candidate-vibid:1001000113963": 65,
+      "gas:candidate-vibid:1001000136094": 29,
+      "gas:candidate-vibid:1001000121885": 170,
+      "gas:candidate-vibid:355300366981": 111,
+      "gas:candidate-vibid:1001000190392": 25,
+      "gas:candidate-vibid:1001000193916": 70,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 254,
+      "gas:candidate-vibid:355300366710": 46,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6197,18 +6197,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 39,
-      "Грасс Александр Викторович": 14,
-      "Ефимкин Николай Александрович": 74,
-      "Захарченко Валентина Павловна": 33,
-      "Кравец Александр Алексеевич": 222,
-      "Маевский Леонид Станиславович": 127,
-      "Панычев Александр Юрьевич": 33,
-      "Редькин Юрий Васильевич": 55,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 327,
-      "Шустов Дмитрий Николаевич": 99,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000217943": 39,
+      "gas:candidate-vibid:355300366713": 14,
+      "gas:candidate-vibid:1001000113963": 74,
+      "gas:candidate-vibid:1001000136094": 33,
+      "gas:candidate-vibid:1001000121885": 222,
+      "gas:candidate-vibid:355300366981": 127,
+      "gas:candidate-vibid:1001000190392": 33,
+      "gas:candidate-vibid:1001000193916": 55,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 327,
+      "gas:candidate-vibid:355300366710": 99,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6258,18 +6258,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 28,
-      "Грасс Александр Викторович": 12,
-      "Ефимкин Николай Александрович": 53,
-      "Захарченко Валентина Павловна": 40,
-      "Кравец Александр Алексеевич": 192,
-      "Маевский Леонид Станиславович": 101,
-      "Панычев Александр Юрьевич": 36,
-      "Редькин Юрий Васильевич": 62,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 298,
-      "Шустов Дмитрий Николаевич": 59,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000217943": 28,
+      "gas:candidate-vibid:355300366713": 12,
+      "gas:candidate-vibid:1001000113963": 53,
+      "gas:candidate-vibid:1001000136094": 40,
+      "gas:candidate-vibid:1001000121885": 192,
+      "gas:candidate-vibid:355300366981": 101,
+      "gas:candidate-vibid:1001000190392": 36,
+      "gas:candidate-vibid:1001000193916": 62,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 298,
+      "gas:candidate-vibid:355300366710": 59,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6319,18 +6319,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 41,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 65,
-      "Захарченко Валентина Павловна": 32,
-      "Кравец Александр Алексеевич": 196,
-      "Маевский Леонид Станиславович": 98,
-      "Панычев Александр Юрьевич": 30,
-      "Редькин Юрий Васильевич": 49,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 394,
-      "Шустов Дмитрий Николаевич": 65,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000217943": 41,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 65,
+      "gas:candidate-vibid:1001000136094": 32,
+      "gas:candidate-vibid:1001000121885": 196,
+      "gas:candidate-vibid:355300366981": 98,
+      "gas:candidate-vibid:1001000190392": 30,
+      "gas:candidate-vibid:1001000193916": 49,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 394,
+      "gas:candidate-vibid:355300366710": 65,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6380,18 +6380,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 37,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 68,
-      "Захарченко Валентина Павловна": 40,
-      "Кравец Александр Алексеевич": 198,
-      "Маевский Леонид Станиславович": 154,
-      "Панычев Александр Юрьевич": 27,
-      "Редькин Юрий Васильевич": 45,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 297,
-      "Шустов Дмитрий Николаевич": 60,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000217943": 37,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 68,
+      "gas:candidate-vibid:1001000136094": 40,
+      "gas:candidate-vibid:1001000121885": 198,
+      "gas:candidate-vibid:355300366981": 154,
+      "gas:candidate-vibid:1001000190392": 27,
+      "gas:candidate-vibid:1001000193916": 45,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 297,
+      "gas:candidate-vibid:355300366710": 60,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6441,18 +6441,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 40,
-      "Грасс Александр Викторович": 4,
-      "Ефимкин Николай Александрович": 45,
-      "Захарченко Валентина Павловна": 27,
-      "Кравец Александр Алексеевич": 161,
-      "Маевский Леонид Станиславович": 111,
-      "Панычев Александр Юрьевич": 22,
-      "Редькин Юрий Васильевич": 56,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 283,
-      "Шустов Дмитрий Николаевич": 70,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000217943": 40,
+      "gas:candidate-vibid:355300366713": 4,
+      "gas:candidate-vibid:1001000113963": 45,
+      "gas:candidate-vibid:1001000136094": 27,
+      "gas:candidate-vibid:1001000121885": 161,
+      "gas:candidate-vibid:355300366981": 111,
+      "gas:candidate-vibid:1001000190392": 22,
+      "gas:candidate-vibid:1001000193916": 56,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 283,
+      "gas:candidate-vibid:355300366710": 70,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6502,18 +6502,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 25,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 87,
-      "Захарченко Валентина Павловна": 26,
-      "Кравец Александр Алексеевич": 307,
-      "Маевский Леонид Станиславович": 111,
-      "Панычев Александр Юрьевич": 30,
-      "Редькин Юрий Васильевич": 56,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 463,
-      "Шустов Дмитрий Николаевич": 66,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000217943": 25,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 87,
+      "gas:candidate-vibid:1001000136094": 26,
+      "gas:candidate-vibid:1001000121885": 307,
+      "gas:candidate-vibid:355300366981": 111,
+      "gas:candidate-vibid:1001000190392": 30,
+      "gas:candidate-vibid:1001000193916": 56,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 463,
+      "gas:candidate-vibid:355300366710": 66,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6563,18 +6563,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 17,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 29,
-      "Захарченко Валентина Павловна": 22,
-      "Кравец Александр Алексеевич": 79,
-      "Маевский Леонид Станиславович": 43,
-      "Панычев Александр Юрьевич": 10,
-      "Редькин Юрий Васильевич": 30,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 172,
-      "Шустов Дмитрий Николаевич": 26,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000217943": 17,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 29,
+      "gas:candidate-vibid:1001000136094": 22,
+      "gas:candidate-vibid:1001000121885": 79,
+      "gas:candidate-vibid:355300366981": 43,
+      "gas:candidate-vibid:1001000190392": 10,
+      "gas:candidate-vibid:1001000193916": 30,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 172,
+      "gas:candidate-vibid:355300366710": 26,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6624,18 +6624,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 30,
-      "Грасс Александр Викторович": 36,
-      "Ефимкин Николай Александрович": 45,
-      "Захарченко Валентина Павловна": 29,
-      "Кравец Александр Алексеевич": 94,
-      "Маевский Леонид Станиславович": 49,
-      "Панычев Александр Юрьевич": 25,
-      "Редькин Юрий Васильевич": 23,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 244,
-      "Шустов Дмитрий Николаевич": 46,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000217943": 30,
+      "gas:candidate-vibid:355300366713": 36,
+      "gas:candidate-vibid:1001000113963": 45,
+      "gas:candidate-vibid:1001000136094": 29,
+      "gas:candidate-vibid:1001000121885": 94,
+      "gas:candidate-vibid:355300366981": 49,
+      "gas:candidate-vibid:1001000190392": 25,
+      "gas:candidate-vibid:1001000193916": 23,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 244,
+      "gas:candidate-vibid:355300366710": 46,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6685,18 +6685,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 27,
-      "Грасс Александр Викторович": 12,
-      "Ефимкин Николай Александрович": 42,
-      "Захарченко Валентина Павловна": 46,
-      "Кравец Александр Алексеевич": 116,
-      "Маевский Леонид Станиславович": 69,
-      "Панычев Александр Юрьевич": 9,
-      "Редькин Юрий Васильевич": 19,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 204,
-      "Шустов Дмитрий Николаевич": 49,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000217943": 27,
+      "gas:candidate-vibid:355300366713": 12,
+      "gas:candidate-vibid:1001000113963": 42,
+      "gas:candidate-vibid:1001000136094": 46,
+      "gas:candidate-vibid:1001000121885": 116,
+      "gas:candidate-vibid:355300366981": 69,
+      "gas:candidate-vibid:1001000190392": 9,
+      "gas:candidate-vibid:1001000193916": 19,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 204,
+      "gas:candidate-vibid:355300366710": 49,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6746,18 +6746,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 13,
-      "Грасс Александр Викторович": 7,
-      "Ефимкин Николай Александрович": 7,
-      "Захарченко Валентина Павловна": 39,
-      "Кравец Александр Алексеевич": 99,
-      "Маевский Леонид Станиславович": 70,
-      "Панычев Александр Юрьевич": 13,
-      "Редькин Юрий Васильевич": 6,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 129,
-      "Шустов Дмитрий Николаевич": 49,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000217943": 13,
+      "gas:candidate-vibid:355300366713": 7,
+      "gas:candidate-vibid:1001000113963": 7,
+      "gas:candidate-vibid:1001000136094": 39,
+      "gas:candidate-vibid:1001000121885": 99,
+      "gas:candidate-vibid:355300366981": 70,
+      "gas:candidate-vibid:1001000190392": 13,
+      "gas:candidate-vibid:1001000193916": 6,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 129,
+      "gas:candidate-vibid:355300366710": 49,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6807,18 +6807,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 16,
-      "Грасс Александр Викторович": 4,
-      "Ефимкин Николай Александрович": 23,
-      "Захарченко Валентина Павловна": 28,
-      "Кравец Александр Алексеевич": 100,
-      "Маевский Леонид Станиславович": 44,
-      "Панычев Александр Юрьевич": 2,
-      "Редькин Юрий Васильевич": 8,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 135,
-      "Шустов Дмитрий Николаевич": 31,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217943": 16,
+      "gas:candidate-vibid:355300366713": 4,
+      "gas:candidate-vibid:1001000113963": 23,
+      "gas:candidate-vibid:1001000136094": 28,
+      "gas:candidate-vibid:1001000121885": 100,
+      "gas:candidate-vibid:355300366981": 44,
+      "gas:candidate-vibid:1001000190392": 2,
+      "gas:candidate-vibid:1001000193916": 8,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 135,
+      "gas:candidate-vibid:355300366710": 31,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6868,18 +6868,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 39,
-      "Грасс Александр Викторович": 27,
-      "Ефимкин Николай Александрович": 71,
-      "Захарченко Валентина Павловна": 78,
-      "Кравец Александр Алексеевич": 150,
-      "Маевский Леонид Станиславович": 97,
-      "Панычев Александр Юрьевич": 28,
-      "Редькин Юрий Васильевич": 40,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 319,
-      "Шустов Дмитрий Николаевич": 107,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000217943": 39,
+      "gas:candidate-vibid:355300366713": 27,
+      "gas:candidate-vibid:1001000113963": 71,
+      "gas:candidate-vibid:1001000136094": 78,
+      "gas:candidate-vibid:1001000121885": 150,
+      "gas:candidate-vibid:355300366981": 97,
+      "gas:candidate-vibid:1001000190392": 28,
+      "gas:candidate-vibid:1001000193916": 40,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 319,
+      "gas:candidate-vibid:355300366710": 107,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6929,18 +6929,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 49,
-      "Захарченко Валентина Павловна": 46,
-      "Кравец Александр Алексеевич": 165,
-      "Маевский Леонид Станиславович": 122,
-      "Панычев Александр Юрьевич": 29,
-      "Редькин Юрий Васильевич": 25,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 235,
-      "Шустов Дмитрий Николаевич": 91,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 49,
+      "gas:candidate-vibid:1001000136094": 46,
+      "gas:candidate-vibid:1001000121885": 165,
+      "gas:candidate-vibid:355300366981": 122,
+      "gas:candidate-vibid:1001000190392": 29,
+      "gas:candidate-vibid:1001000193916": 25,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 235,
+      "gas:candidate-vibid:355300366710": 91,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -6990,18 +6990,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 29,
-      "Захарченко Валентина Павловна": 27,
-      "Кравец Александр Алексеевич": 113,
-      "Маевский Леонид Станиславович": 54,
-      "Панычев Александр Юрьевич": 8,
-      "Редькин Юрий Васильевич": 20,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 190,
-      "Шустов Дмитрий Николаевич": 52,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 29,
+      "gas:candidate-vibid:1001000136094": 27,
+      "gas:candidate-vibid:1001000121885": 113,
+      "gas:candidate-vibid:355300366981": 54,
+      "gas:candidate-vibid:1001000190392": 8,
+      "gas:candidate-vibid:1001000193916": 20,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 190,
+      "gas:candidate-vibid:355300366710": 52,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7051,18 +7051,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 19,
-      "Грасс Александр Викторович": 6,
-      "Ефимкин Николай Александрович": 16,
-      "Захарченко Валентина Павловна": 27,
-      "Кравец Александр Алексеевич": 82,
-      "Маевский Леонид Станиславович": 34,
-      "Панычев Александр Юрьевич": 5,
-      "Редькин Юрий Васильевич": 9,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 139,
-      "Шустов Дмитрий Николаевич": 37,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000217943": 19,
+      "gas:candidate-vibid:355300366713": 6,
+      "gas:candidate-vibid:1001000113963": 16,
+      "gas:candidate-vibid:1001000136094": 27,
+      "gas:candidate-vibid:1001000121885": 82,
+      "gas:candidate-vibid:355300366981": 34,
+      "gas:candidate-vibid:1001000190392": 5,
+      "gas:candidate-vibid:1001000193916": 9,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 139,
+      "gas:candidate-vibid:355300366710": 37,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7112,18 +7112,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 24,
-      "Грасс Александр Викторович": 13,
-      "Ефимкин Николай Александрович": 37,
-      "Захарченко Валентина Павловна": 18,
-      "Кравец Александр Алексеевич": 118,
-      "Маевский Леонид Станиславович": 94,
-      "Панычев Александр Юрьевич": 18,
-      "Редькин Юрий Васильевич": 27,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 217,
-      "Шустов Дмитрий Николаевич": 47,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000217943": 24,
+      "gas:candidate-vibid:355300366713": 13,
+      "gas:candidate-vibid:1001000113963": 37,
+      "gas:candidate-vibid:1001000136094": 18,
+      "gas:candidate-vibid:1001000121885": 118,
+      "gas:candidate-vibid:355300366981": 94,
+      "gas:candidate-vibid:1001000190392": 18,
+      "gas:candidate-vibid:1001000193916": 27,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 217,
+      "gas:candidate-vibid:355300366710": 47,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7173,18 +7173,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 9,
-      "Ефимкин Николай Александрович": 26,
-      "Захарченко Валентина Павловна": 58,
-      "Кравец Александр Алексеевич": 148,
-      "Маевский Леонид Станиславович": 99,
-      "Панычев Александр Юрьевич": 26,
-      "Редькин Юрий Васильевич": 21,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 198,
-      "Шустов Дмитрий Николаевич": 58,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 9,
+      "gas:candidate-vibid:1001000113963": 26,
+      "gas:candidate-vibid:1001000136094": 58,
+      "gas:candidate-vibid:1001000121885": 148,
+      "gas:candidate-vibid:355300366981": 99,
+      "gas:candidate-vibid:1001000190392": 26,
+      "gas:candidate-vibid:1001000193916": 21,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 198,
+      "gas:candidate-vibid:355300366710": 58,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7234,18 +7234,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 19,
-      "Грасс Александр Викторович": 25,
-      "Ефимкин Николай Александрович": 58,
-      "Захарченко Валентина Павловна": 33,
-      "Кравец Александр Алексеевич": 151,
-      "Маевский Леонид Станиславович": 68,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 29,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 215,
-      "Шустов Дмитрий Николаевич": 50,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000217943": 19,
+      "gas:candidate-vibid:355300366713": 25,
+      "gas:candidate-vibid:1001000113963": 58,
+      "gas:candidate-vibid:1001000136094": 33,
+      "gas:candidate-vibid:1001000121885": 151,
+      "gas:candidate-vibid:355300366981": 68,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 29,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 215,
+      "gas:candidate-vibid:355300366710": 50,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7295,18 +7295,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 25,
-      "Грасс Александр Викторович": 14,
-      "Ефимкин Николай Александрович": 37,
-      "Захарченко Валентина Павловна": 44,
-      "Кравец Александр Алексеевич": 173,
-      "Маевский Леонид Станиславович": 137,
-      "Панычев Александр Юрьевич": 26,
-      "Редькин Юрий Васильевич": 25,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 223,
-      "Шустов Дмитрий Николаевич": 75,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000217943": 25,
+      "gas:candidate-vibid:355300366713": 14,
+      "gas:candidate-vibid:1001000113963": 37,
+      "gas:candidate-vibid:1001000136094": 44,
+      "gas:candidate-vibid:1001000121885": 173,
+      "gas:candidate-vibid:355300366981": 137,
+      "gas:candidate-vibid:1001000190392": 26,
+      "gas:candidate-vibid:1001000193916": 25,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 223,
+      "gas:candidate-vibid:355300366710": 75,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7356,18 +7356,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 40,
-      "Грасс Александр Викторович": 13,
-      "Ефимкин Николай Александрович": 61,
-      "Захарченко Валентина Павловна": 52,
-      "Кравец Александр Алексеевич": 192,
-      "Маевский Леонид Станиславович": 190,
-      "Панычев Александр Юрьевич": 24,
-      "Редькин Юрий Васильевич": 63,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 364,
-      "Шустов Дмитрий Николаевич": 76,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000217943": 40,
+      "gas:candidate-vibid:355300366713": 13,
+      "gas:candidate-vibid:1001000113963": 61,
+      "gas:candidate-vibid:1001000136094": 52,
+      "gas:candidate-vibid:1001000121885": 192,
+      "gas:candidate-vibid:355300366981": 190,
+      "gas:candidate-vibid:1001000190392": 24,
+      "gas:candidate-vibid:1001000193916": 63,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 364,
+      "gas:candidate-vibid:355300366710": 76,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7417,18 +7417,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 9,
-      "Грасс Александр Викторович": 8,
-      "Ефимкин Николай Александрович": 19,
-      "Захарченко Валентина Павловна": 37,
-      "Кравец Александр Алексеевич": 95,
-      "Маевский Леонид Станиславович": 87,
-      "Панычев Александр Юрьевич": 7,
-      "Редькин Юрий Васильевич": 21,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 125,
-      "Шустов Дмитрий Николаевич": 51,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000217943": 9,
+      "gas:candidate-vibid:355300366713": 8,
+      "gas:candidate-vibid:1001000113963": 19,
+      "gas:candidate-vibid:1001000136094": 37,
+      "gas:candidate-vibid:1001000121885": 95,
+      "gas:candidate-vibid:355300366981": 87,
+      "gas:candidate-vibid:1001000190392": 7,
+      "gas:candidate-vibid:1001000193916": 21,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 125,
+      "gas:candidate-vibid:355300366710": 51,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7478,18 +7478,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 16,
-      "Грасс Александр Викторович": 10,
-      "Ефимкин Николай Александрович": 28,
-      "Захарченко Валентина Павловна": 30,
-      "Кравец Александр Алексеевич": 163,
-      "Маевский Леонид Станиславович": 93,
-      "Панычев Александр Юрьевич": 11,
-      "Редькин Юрий Васильевич": 17,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 191,
-      "Шустов Дмитрий Николаевич": 62,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000217943": 16,
+      "gas:candidate-vibid:355300366713": 10,
+      "gas:candidate-vibid:1001000113963": 28,
+      "gas:candidate-vibid:1001000136094": 30,
+      "gas:candidate-vibid:1001000121885": 163,
+      "gas:candidate-vibid:355300366981": 93,
+      "gas:candidate-vibid:1001000190392": 11,
+      "gas:candidate-vibid:1001000193916": 17,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 191,
+      "gas:candidate-vibid:355300366710": 62,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7539,18 +7539,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 21,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 38,
-      "Захарченко Валентина Павловна": 40,
-      "Кравец Александр Алексеевич": 182,
-      "Маевский Леонид Станиславович": 114,
-      "Панычев Александр Юрьевич": 8,
-      "Редькин Юрий Васильевич": 33,
-      "Сапунов Дмитрий Валерьевич": 13,
-      "Харитонов Александр Николаевич": 228,
-      "Шустов Дмитрий Николаевич": 77,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000217943": 21,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 38,
+      "gas:candidate-vibid:1001000136094": 40,
+      "gas:candidate-vibid:1001000121885": 182,
+      "gas:candidate-vibid:355300366981": 114,
+      "gas:candidate-vibid:1001000190392": 8,
+      "gas:candidate-vibid:1001000193916": 33,
+      "gas:candidate-vibid:355300366701": 13,
+      "gas:candidate-vibid:355300366707": 228,
+      "gas:candidate-vibid:355300366710": 77,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7600,18 +7600,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 25,
-      "Грасс Александр Викторович": 8,
-      "Ефимкин Николай Александрович": 31,
-      "Захарченко Валентина Павловна": 42,
-      "Кравец Александр Алексеевич": 204,
-      "Маевский Леонид Станиславович": 90,
-      "Панычев Александр Юрьевич": 20,
-      "Редькин Юрий Васильевич": 24,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 361,
-      "Шустов Дмитрий Николаевич": 78,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000217943": 25,
+      "gas:candidate-vibid:355300366713": 8,
+      "gas:candidate-vibid:1001000113963": 31,
+      "gas:candidate-vibid:1001000136094": 42,
+      "gas:candidate-vibid:1001000121885": 204,
+      "gas:candidate-vibid:355300366981": 90,
+      "gas:candidate-vibid:1001000190392": 20,
+      "gas:candidate-vibid:1001000193916": 24,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 361,
+      "gas:candidate-vibid:355300366710": 78,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7661,18 +7661,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 25,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 28,
-      "Захарченко Валентина Павловна": 55,
-      "Кравец Александр Алексеевич": 129,
-      "Маевский Леонид Станиславович": 120,
-      "Панычев Александр Юрьевич": 10,
-      "Редькин Юрий Васильевич": 37,
-      "Сапунов Дмитрий Валерьевич": 2,
-      "Харитонов Александр Николаевич": 243,
-      "Шустов Дмитрий Николаевич": 57,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000217943": 25,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 28,
+      "gas:candidate-vibid:1001000136094": 55,
+      "gas:candidate-vibid:1001000121885": 129,
+      "gas:candidate-vibid:355300366981": 120,
+      "gas:candidate-vibid:1001000190392": 10,
+      "gas:candidate-vibid:1001000193916": 37,
+      "gas:candidate-vibid:355300366701": 2,
+      "gas:candidate-vibid:355300366707": 243,
+      "gas:candidate-vibid:355300366710": 57,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7722,18 +7722,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 47,
-      "Ефимкин Николай Александрович": 42,
-      "Захарченко Валентина Павловна": 57,
-      "Кравец Александр Алексеевич": 172,
-      "Маевский Леонид Станиславович": 106,
-      "Панычев Александр Юрьевич": 26,
-      "Редькин Юрий Васильевич": 42,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 340,
-      "Шустов Дмитрий Николаевич": 112,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 47,
+      "gas:candidate-vibid:1001000113963": 42,
+      "gas:candidate-vibid:1001000136094": 57,
+      "gas:candidate-vibid:1001000121885": 172,
+      "gas:candidate-vibid:355300366981": 106,
+      "gas:candidate-vibid:1001000190392": 26,
+      "gas:candidate-vibid:1001000193916": 42,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 340,
+      "gas:candidate-vibid:355300366710": 112,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7783,18 +7783,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 17,
-      "Грасс Александр Викторович": 10,
-      "Ефимкин Николай Александрович": 37,
-      "Захарченко Валентина Павловна": 32,
-      "Кравец Александр Алексеевич": 134,
-      "Маевский Леонид Станиславович": 95,
-      "Панычев Александр Юрьевич": 13,
-      "Редькин Юрий Васильевич": 22,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 297,
-      "Шустов Дмитрий Николаевич": 68,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000217943": 17,
+      "gas:candidate-vibid:355300366713": 10,
+      "gas:candidate-vibid:1001000113963": 37,
+      "gas:candidate-vibid:1001000136094": 32,
+      "gas:candidate-vibid:1001000121885": 134,
+      "gas:candidate-vibid:355300366981": 95,
+      "gas:candidate-vibid:1001000190392": 13,
+      "gas:candidate-vibid:1001000193916": 22,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 297,
+      "gas:candidate-vibid:355300366710": 68,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7844,18 +7844,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 27,
-      "Грасс Александр Викторович": 9,
-      "Ефимкин Николай Александрович": 28,
-      "Захарченко Валентина Павловна": 36,
-      "Кравец Александр Алексеевич": 126,
-      "Маевский Леонид Станиславович": 93,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 23,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 223,
-      "Шустов Дмитрий Николаевич": 62,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000217943": 27,
+      "gas:candidate-vibid:355300366713": 9,
+      "gas:candidate-vibid:1001000113963": 28,
+      "gas:candidate-vibid:1001000136094": 36,
+      "gas:candidate-vibid:1001000121885": 126,
+      "gas:candidate-vibid:355300366981": 93,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 23,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 223,
+      "gas:candidate-vibid:355300366710": 62,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7905,18 +7905,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 28,
-      "Грасс Александр Викторович": 23,
-      "Ефимкин Николай Александрович": 47,
-      "Захарченко Валентина Павловна": 59,
-      "Кравец Александр Алексеевич": 223,
-      "Маевский Леонид Станиславович": 159,
-      "Панычев Александр Юрьевич": 23,
-      "Редькин Юрий Васильевич": 30,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 288,
-      "Шустов Дмитрий Николаевич": 69,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000217943": 28,
+      "gas:candidate-vibid:355300366713": 23,
+      "gas:candidate-vibid:1001000113963": 47,
+      "gas:candidate-vibid:1001000136094": 59,
+      "gas:candidate-vibid:1001000121885": 223,
+      "gas:candidate-vibid:355300366981": 159,
+      "gas:candidate-vibid:1001000190392": 23,
+      "gas:candidate-vibid:1001000193916": 30,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 288,
+      "gas:candidate-vibid:355300366710": 69,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -7966,18 +7966,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 39,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 40,
-      "Захарченко Валентина Павловна": 39,
-      "Кравец Александр Алексеевич": 223,
-      "Маевский Леонид Станиславович": 117,
-      "Панычев Александр Юрьевич": 15,
-      "Редькин Юрий Васильевич": 53,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 225,
-      "Шустов Дмитрий Николаевич": 58,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000217943": 39,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 40,
+      "gas:candidate-vibid:1001000136094": 39,
+      "gas:candidate-vibid:1001000121885": 223,
+      "gas:candidate-vibid:355300366981": 117,
+      "gas:candidate-vibid:1001000190392": 15,
+      "gas:candidate-vibid:1001000193916": 53,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 225,
+      "gas:candidate-vibid:355300366710": 58,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8027,18 +8027,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 28,
-      "Грасс Александр Викторович": 25,
-      "Ефимкин Николай Александрович": 78,
-      "Захарченко Валентина Павловна": 45,
-      "Кравец Александр Алексеевич": 209,
-      "Маевский Леонид Станиславович": 218,
-      "Панычев Александр Юрьевич": 29,
-      "Редькин Юрий Васильевич": 30,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 274,
-      "Шустов Дмитрий Николаевич": 103,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000217943": 28,
+      "gas:candidate-vibid:355300366713": 25,
+      "gas:candidate-vibid:1001000113963": 78,
+      "gas:candidate-vibid:1001000136094": 45,
+      "gas:candidate-vibid:1001000121885": 209,
+      "gas:candidate-vibid:355300366981": 218,
+      "gas:candidate-vibid:1001000190392": 29,
+      "gas:candidate-vibid:1001000193916": 30,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 274,
+      "gas:candidate-vibid:355300366710": 103,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8088,18 +8088,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 31,
-      "Грасс Александр Викторович": 20,
-      "Ефимкин Николай Александрович": 43,
-      "Захарченко Валентина Павловна": 65,
-      "Кравец Александр Алексеевич": 187,
-      "Маевский Леонид Станиславович": 195,
-      "Панычев Александр Юрьевич": 21,
-      "Редькин Юрий Васильевич": 42,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 192,
-      "Шустов Дмитрий Николаевич": 75,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000217943": 31,
+      "gas:candidate-vibid:355300366713": 20,
+      "gas:candidate-vibid:1001000113963": 43,
+      "gas:candidate-vibid:1001000136094": 65,
+      "gas:candidate-vibid:1001000121885": 187,
+      "gas:candidate-vibid:355300366981": 195,
+      "gas:candidate-vibid:1001000190392": 21,
+      "gas:candidate-vibid:1001000193916": 42,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 192,
+      "gas:candidate-vibid:355300366710": 75,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8149,18 +8149,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 24,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 39,
-      "Захарченко Валентина Павловна": 62,
-      "Кравец Александр Алексеевич": 145,
-      "Маевский Леонид Станиславович": 120,
-      "Панычев Александр Юрьевич": 17,
-      "Редькин Юрий Васильевич": 22,
-      "Сапунов Дмитрий Валерьевич": 12,
-      "Харитонов Александр Николаевич": 192,
-      "Шустов Дмитрий Николаевич": 71,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000217943": 24,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 39,
+      "gas:candidate-vibid:1001000136094": 62,
+      "gas:candidate-vibid:1001000121885": 145,
+      "gas:candidate-vibid:355300366981": 120,
+      "gas:candidate-vibid:1001000190392": 17,
+      "gas:candidate-vibid:1001000193916": 22,
+      "gas:candidate-vibid:355300366701": 12,
+      "gas:candidate-vibid:355300366707": 192,
+      "gas:candidate-vibid:355300366710": 71,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8210,18 +8210,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 28,
-      "Захарченко Валентина Павловна": 35,
-      "Кравец Александр Алексеевич": 109,
-      "Маевский Леонид Станиславович": 142,
-      "Панычев Александр Юрьевич": 23,
-      "Редькин Юрий Васильевич": 19,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 280,
-      "Шустов Дмитрий Николаевич": 54,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 28,
+      "gas:candidate-vibid:1001000136094": 35,
+      "gas:candidate-vibid:1001000121885": 109,
+      "gas:candidate-vibid:355300366981": 142,
+      "gas:candidate-vibid:1001000190392": 23,
+      "gas:candidate-vibid:1001000193916": 19,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 280,
+      "gas:candidate-vibid:355300366710": 54,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8271,18 +8271,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 44,
-      "Захарченко Валентина Павловна": 24,
-      "Кравец Александр Алексеевич": 127,
-      "Маевский Леонид Станиславович": 97,
-      "Панычев Александр Юрьевич": 20,
-      "Редькин Юрий Васильевич": 20,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 263,
-      "Шустов Дмитрий Николаевич": 48,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 44,
+      "gas:candidate-vibid:1001000136094": 24,
+      "gas:candidate-vibid:1001000121885": 127,
+      "gas:candidate-vibid:355300366981": 97,
+      "gas:candidate-vibid:1001000190392": 20,
+      "gas:candidate-vibid:1001000193916": 20,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 263,
+      "gas:candidate-vibid:355300366710": 48,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8332,18 +8332,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 29,
-      "Грасс Александр Викторович": 9,
-      "Ефимкин Николай Александрович": 50,
-      "Захарченко Валентина Павловна": 39,
-      "Кравец Александр Алексеевич": 177,
-      "Маевский Леонид Станиславович": 95,
-      "Панычев Александр Юрьевич": 17,
-      "Редькин Юрий Васильевич": 24,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 207,
-      "Шустов Дмитрий Николаевич": 48,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000217943": 29,
+      "gas:candidate-vibid:355300366713": 9,
+      "gas:candidate-vibid:1001000113963": 50,
+      "gas:candidate-vibid:1001000136094": 39,
+      "gas:candidate-vibid:1001000121885": 177,
+      "gas:candidate-vibid:355300366981": 95,
+      "gas:candidate-vibid:1001000190392": 17,
+      "gas:candidate-vibid:1001000193916": 24,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 207,
+      "gas:candidate-vibid:355300366710": 48,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8393,18 +8393,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 27,
-      "Ефимкин Николай Александрович": 45,
-      "Захарченко Валентина Павловна": 45,
-      "Кравец Александр Алексеевич": 128,
-      "Маевский Леонид Станиславович": 134,
-      "Панычев Александр Юрьевич": 25,
-      "Редькин Юрий Васильевич": 19,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 199,
-      "Шустов Дмитрий Николаевич": 64,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 27,
+      "gas:candidate-vibid:1001000113963": 45,
+      "gas:candidate-vibid:1001000136094": 45,
+      "gas:candidate-vibid:1001000121885": 128,
+      "gas:candidate-vibid:355300366981": 134,
+      "gas:candidate-vibid:1001000190392": 25,
+      "gas:candidate-vibid:1001000193916": 19,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 199,
+      "gas:candidate-vibid:355300366710": 64,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8454,18 +8454,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 37,
-      "Грасс Александр Викторович": 10,
-      "Ефимкин Николай Александрович": 50,
-      "Захарченко Валентина Павловна": 64,
-      "Кравец Александр Алексеевич": 182,
-      "Маевский Леонид Станиславович": 115,
-      "Панычев Александр Юрьевич": 20,
-      "Редькин Юрий Васильевич": 37,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 298,
-      "Шустов Дмитрий Николаевич": 99,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000217943": 37,
+      "gas:candidate-vibid:355300366713": 10,
+      "gas:candidate-vibid:1001000113963": 50,
+      "gas:candidate-vibid:1001000136094": 64,
+      "gas:candidate-vibid:1001000121885": 182,
+      "gas:candidate-vibid:355300366981": 115,
+      "gas:candidate-vibid:1001000190392": 20,
+      "gas:candidate-vibid:1001000193916": 37,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 298,
+      "gas:candidate-vibid:355300366710": 99,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8515,18 +8515,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 37,
-      "Грасс Александр Викторович": 37,
-      "Ефимкин Николай Александрович": 57,
-      "Захарченко Валентина Павловна": 41,
-      "Кравец Александр Алексеевич": 201,
-      "Маевский Леонид Станиславович": 126,
-      "Панычев Александр Юрьевич": 35,
-      "Редькин Юрий Васильевич": 52,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 324,
-      "Шустов Дмитрий Николаевич": 101,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000217943": 37,
+      "gas:candidate-vibid:355300366713": 37,
+      "gas:candidate-vibid:1001000113963": 57,
+      "gas:candidate-vibid:1001000136094": 41,
+      "gas:candidate-vibid:1001000121885": 201,
+      "gas:candidate-vibid:355300366981": 126,
+      "gas:candidate-vibid:1001000190392": 35,
+      "gas:candidate-vibid:1001000193916": 52,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 324,
+      "gas:candidate-vibid:355300366710": 101,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8576,18 +8576,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 35,
-      "Грасс Александр Викторович": 20,
-      "Ефимкин Николай Александрович": 52,
-      "Захарченко Валентина Павловна": 53,
-      "Кравец Александр Алексеевич": 146,
-      "Маевский Леонид Станиславович": 127,
-      "Панычев Александр Юрьевич": 24,
-      "Редькин Юрий Васильевич": 44,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 360,
-      "Шустов Дмитрий Николаевич": 56,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000217943": 35,
+      "gas:candidate-vibid:355300366713": 20,
+      "gas:candidate-vibid:1001000113963": 52,
+      "gas:candidate-vibid:1001000136094": 53,
+      "gas:candidate-vibid:1001000121885": 146,
+      "gas:candidate-vibid:355300366981": 127,
+      "gas:candidate-vibid:1001000190392": 24,
+      "gas:candidate-vibid:1001000193916": 44,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 360,
+      "gas:candidate-vibid:355300366710": 56,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8637,18 +8637,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 4,
-      "Грасс Александр Викторович": 1,
-      "Ефимкин Николай Александрович": 7,
-      "Захарченко Валентина Павловна": 13,
-      "Кравец Александр Алексеевич": 24,
-      "Маевский Леонид Станиславович": 35,
-      "Панычев Александр Юрьевич": 14,
-      "Редькин Юрий Васильевич": 12,
-      "Сапунов Дмитрий Валерьевич": 2,
-      "Харитонов Александр Николаевич": 88,
-      "Шустов Дмитрий Николаевич": 20,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000217943": 4,
+      "gas:candidate-vibid:355300366713": 1,
+      "gas:candidate-vibid:1001000113963": 7,
+      "gas:candidate-vibid:1001000136094": 13,
+      "gas:candidate-vibid:1001000121885": 24,
+      "gas:candidate-vibid:355300366981": 35,
+      "gas:candidate-vibid:1001000190392": 14,
+      "gas:candidate-vibid:1001000193916": 12,
+      "gas:candidate-vibid:355300366701": 2,
+      "gas:candidate-vibid:355300366707": 88,
+      "gas:candidate-vibid:355300366710": 20,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8698,18 +8698,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 17,
-      "Грасс Александр Викторович": 7,
-      "Ефимкин Николай Александрович": 29,
-      "Захарченко Валентина Павловна": 26,
-      "Кравец Александр Алексеевич": 124,
-      "Маевский Леонид Станиславович": 82,
-      "Панычев Александр Юрьевич": 6,
-      "Редькин Юрий Васильевич": 15,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 230,
-      "Шустов Дмитрий Николаевич": 59,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000217943": 17,
+      "gas:candidate-vibid:355300366713": 7,
+      "gas:candidate-vibid:1001000113963": 29,
+      "gas:candidate-vibid:1001000136094": 26,
+      "gas:candidate-vibid:1001000121885": 124,
+      "gas:candidate-vibid:355300366981": 82,
+      "gas:candidate-vibid:1001000190392": 6,
+      "gas:candidate-vibid:1001000193916": 15,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 230,
+      "gas:candidate-vibid:355300366710": 59,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8759,18 +8759,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 21,
-      "Грасс Александр Викторович": 27,
-      "Ефимкин Николай Александрович": 50,
-      "Захарченко Валентина Павловна": 58,
-      "Кравец Александр Алексеевич": 190,
-      "Маевский Леонид Станиславович": 100,
-      "Панычев Александр Юрьевич": 13,
-      "Редькин Юрий Васильевич": 21,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 222,
-      "Шустов Дмитрий Николаевич": 105,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000217943": 21,
+      "gas:candidate-vibid:355300366713": 27,
+      "gas:candidate-vibid:1001000113963": 50,
+      "gas:candidate-vibid:1001000136094": 58,
+      "gas:candidate-vibid:1001000121885": 190,
+      "gas:candidate-vibid:355300366981": 100,
+      "gas:candidate-vibid:1001000190392": 13,
+      "gas:candidate-vibid:1001000193916": 21,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 222,
+      "gas:candidate-vibid:355300366710": 105,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8820,18 +8820,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 24,
-      "Грасс Александр Викторович": 14,
-      "Ефимкин Николай Александрович": 46,
-      "Захарченко Валентина Павловна": 49,
-      "Кравец Александр Алексеевич": 128,
-      "Маевский Леонид Станиславович": 100,
-      "Панычев Александр Юрьевич": 15,
-      "Редькин Юрий Васильевич": 25,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 203,
-      "Шустов Дмитрий Николаевич": 78,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000217943": 24,
+      "gas:candidate-vibid:355300366713": 14,
+      "gas:candidate-vibid:1001000113963": 46,
+      "gas:candidate-vibid:1001000136094": 49,
+      "gas:candidate-vibid:1001000121885": 128,
+      "gas:candidate-vibid:355300366981": 100,
+      "gas:candidate-vibid:1001000190392": 15,
+      "gas:candidate-vibid:1001000193916": 25,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 203,
+      "gas:candidate-vibid:355300366710": 78,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8881,18 +8881,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 14,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 31,
-      "Захарченко Валентина Павловна": 45,
-      "Кравец Александр Алексеевич": 69,
-      "Маевский Леонид Станиславович": 48,
-      "Панычев Александр Юрьевич": 2,
-      "Редькин Юрий Васильевич": 5,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 302,
-      "Шустов Дмитрий Николаевич": 36,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000217943": 14,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 31,
+      "gas:candidate-vibid:1001000136094": 45,
+      "gas:candidate-vibid:1001000121885": 69,
+      "gas:candidate-vibid:355300366981": 48,
+      "gas:candidate-vibid:1001000190392": 2,
+      "gas:candidate-vibid:1001000193916": 5,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 302,
+      "gas:candidate-vibid:355300366710": 36,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -8942,18 +8942,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 30,
-      "Грасс Александр Викторович": 4,
-      "Ефимкин Николай Александрович": 31,
-      "Захарченко Валентина Павловна": 64,
-      "Кравец Александр Алексеевич": 96,
-      "Маевский Леонид Станиславович": 53,
-      "Панычев Александр Юрьевич": 18,
-      "Редькин Юрий Васильевич": 41,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 378,
-      "Шустов Дмитрий Николаевич": 61,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000217943": 30,
+      "gas:candidate-vibid:355300366713": 4,
+      "gas:candidate-vibid:1001000113963": 31,
+      "gas:candidate-vibid:1001000136094": 64,
+      "gas:candidate-vibid:1001000121885": 96,
+      "gas:candidate-vibid:355300366981": 53,
+      "gas:candidate-vibid:1001000190392": 18,
+      "gas:candidate-vibid:1001000193916": 41,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 378,
+      "gas:candidate-vibid:355300366710": 61,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9003,18 +9003,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 36,
-      "Грасс Александр Викторович": 29,
-      "Ефимкин Николай Александрович": 53,
-      "Захарченко Валентина Павловна": 32,
-      "Кравец Александр Алексеевич": 220,
-      "Маевский Леонид Станиславович": 101,
-      "Панычев Александр Юрьевич": 33,
-      "Редькин Юрий Васильевич": 53,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 254,
-      "Шустов Дмитрий Николаевич": 74,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000217943": 36,
+      "gas:candidate-vibid:355300366713": 29,
+      "gas:candidate-vibid:1001000113963": 53,
+      "gas:candidate-vibid:1001000136094": 32,
+      "gas:candidate-vibid:1001000121885": 220,
+      "gas:candidate-vibid:355300366981": 101,
+      "gas:candidate-vibid:1001000190392": 33,
+      "gas:candidate-vibid:1001000193916": 53,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 254,
+      "gas:candidate-vibid:355300366710": 74,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9064,18 +9064,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 42,
-      "Грасс Александр Викторович": 32,
-      "Ефимкин Николай Александрович": 66,
-      "Захарченко Валентина Павловна": 50,
-      "Кравец Александр Алексеевич": 252,
-      "Маевский Леонид Станиславович": 119,
-      "Панычев Александр Юрьевич": 48,
-      "Редькин Юрий Васильевич": 66,
-      "Сапунов Дмитрий Валерьевич": 13,
-      "Харитонов Александр Николаевич": 376,
-      "Шустов Дмитрий Николаевич": 69,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000217943": 42,
+      "gas:candidate-vibid:355300366713": 32,
+      "gas:candidate-vibid:1001000113963": 66,
+      "gas:candidate-vibid:1001000136094": 50,
+      "gas:candidate-vibid:1001000121885": 252,
+      "gas:candidate-vibid:355300366981": 119,
+      "gas:candidate-vibid:1001000190392": 48,
+      "gas:candidate-vibid:1001000193916": 66,
+      "gas:candidate-vibid:355300366701": 13,
+      "gas:candidate-vibid:355300366707": 376,
+      "gas:candidate-vibid:355300366710": 69,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9125,18 +9125,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 27,
-      "Грасс Александр Викторович": 28,
-      "Ефимкин Николай Александрович": 54,
-      "Захарченко Валентина Павловна": 23,
-      "Кравец Александр Алексеевич": 144,
-      "Маевский Леонид Станиславович": 92,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 51,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 205,
-      "Шустов Дмитрий Николаевич": 46,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000217943": 27,
+      "gas:candidate-vibid:355300366713": 28,
+      "gas:candidate-vibid:1001000113963": 54,
+      "gas:candidate-vibid:1001000136094": 23,
+      "gas:candidate-vibid:1001000121885": 144,
+      "gas:candidate-vibid:355300366981": 92,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 51,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 205,
+      "gas:candidate-vibid:355300366710": 46,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9186,18 +9186,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 19,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 71,
-      "Захарченко Валентина Павловна": 22,
-      "Кравец Александр Алексеевич": 205,
-      "Маевский Леонид Станиславович": 63,
-      "Панычев Александр Юрьевич": 44,
-      "Редькин Юрий Васильевич": 56,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 289,
-      "Шустов Дмитрий Николаевич": 38,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000217943": 19,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 71,
+      "gas:candidate-vibid:1001000136094": 22,
+      "gas:candidate-vibid:1001000121885": 205,
+      "gas:candidate-vibid:355300366981": 63,
+      "gas:candidate-vibid:1001000190392": 44,
+      "gas:candidate-vibid:1001000193916": 56,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 289,
+      "gas:candidate-vibid:355300366710": 38,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9247,18 +9247,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 18,
-      "Грасс Александр Викторович": 15,
-      "Ефимкин Николай Александрович": 44,
-      "Захарченко Валентина Павловна": 21,
-      "Кравец Александр Алексеевич": 94,
-      "Маевский Леонид Станиславович": 50,
-      "Панычев Александр Юрьевич": 274,
-      "Редькин Юрий Васильевич": 23,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 149,
-      "Шустов Дмитрий Николаевич": 47,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000217943": 18,
+      "gas:candidate-vibid:355300366713": 15,
+      "gas:candidate-vibid:1001000113963": 44,
+      "gas:candidate-vibid:1001000136094": 21,
+      "gas:candidate-vibid:1001000121885": 94,
+      "gas:candidate-vibid:355300366981": 50,
+      "gas:candidate-vibid:1001000190392": 274,
+      "gas:candidate-vibid:1001000193916": 23,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 149,
+      "gas:candidate-vibid:355300366710": 47,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9308,18 +9308,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 33,
-      "Грасс Александр Викторович": 21,
-      "Ефимкин Николай Александрович": 66,
-      "Захарченко Валентина Павловна": 57,
-      "Кравец Александр Алексеевич": 198,
-      "Маевский Леонид Станиславович": 168,
-      "Панычев Александр Юрьевич": 49,
-      "Редькин Юрий Васильевич": 39,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 301,
-      "Шустов Дмитрий Николаевич": 76,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000217943": 33,
+      "gas:candidate-vibid:355300366713": 21,
+      "gas:candidate-vibid:1001000113963": 66,
+      "gas:candidate-vibid:1001000136094": 57,
+      "gas:candidate-vibid:1001000121885": 198,
+      "gas:candidate-vibid:355300366981": 168,
+      "gas:candidate-vibid:1001000190392": 49,
+      "gas:candidate-vibid:1001000193916": 39,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 301,
+      "gas:candidate-vibid:355300366710": 76,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9369,18 +9369,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 36,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 95,
-      "Захарченко Валентина Павловна": 42,
-      "Кравец Александр Алексеевич": 223,
-      "Маевский Леонид Станиславович": 128,
-      "Панычев Александр Юрьевич": 43,
-      "Редькин Юрий Васильевич": 54,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 460,
-      "Шустов Дмитрий Николаевич": 88,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000217943": 36,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 95,
+      "gas:candidate-vibid:1001000136094": 42,
+      "gas:candidate-vibid:1001000121885": 223,
+      "gas:candidate-vibid:355300366981": 128,
+      "gas:candidate-vibid:1001000190392": 43,
+      "gas:candidate-vibid:1001000193916": 54,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 460,
+      "gas:candidate-vibid:355300366710": 88,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9430,18 +9430,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 22,
-      "Грасс Александр Викторович": 13,
-      "Ефимкин Николай Александрович": 51,
-      "Захарченко Валентина Павловна": 45,
-      "Кравец Александр Алексеевич": 170,
-      "Маевский Леонид Станиславович": 123,
-      "Панычев Александр Юрьевич": 23,
-      "Редькин Юрий Васильевич": 52,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 200,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000217943": 22,
+      "gas:candidate-vibid:355300366713": 13,
+      "gas:candidate-vibid:1001000113963": 51,
+      "gas:candidate-vibid:1001000136094": 45,
+      "gas:candidate-vibid:1001000121885": 170,
+      "gas:candidate-vibid:355300366981": 123,
+      "gas:candidate-vibid:1001000190392": 23,
+      "gas:candidate-vibid:1001000193916": 52,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 200,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9491,18 +9491,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 36,
-      "Грасс Александр Викторович": 14,
-      "Ефимкин Николай Александрович": 54,
-      "Захарченко Валентина Павловна": 58,
-      "Кравец Александр Алексеевич": 212,
-      "Маевский Леонид Станиславович": 210,
-      "Панычев Александр Юрьевич": 28,
-      "Редькин Юрий Васильевич": 44,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 319,
-      "Шустов Дмитрий Николаевич": 115,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000217943": 36,
+      "gas:candidate-vibid:355300366713": 14,
+      "gas:candidate-vibid:1001000113963": 54,
+      "gas:candidate-vibid:1001000136094": 58,
+      "gas:candidate-vibid:1001000121885": 212,
+      "gas:candidate-vibid:355300366981": 210,
+      "gas:candidate-vibid:1001000190392": 28,
+      "gas:candidate-vibid:1001000193916": 44,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 319,
+      "gas:candidate-vibid:355300366710": 115,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9552,18 +9552,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 30,
-      "Грасс Александр Викторович": 30,
-      "Ефимкин Николай Александрович": 64,
-      "Захарченко Валентина Павловна": 46,
-      "Кравец Александр Алексеевич": 187,
-      "Маевский Леонид Станиславович": 126,
-      "Панычев Александр Юрьевич": 33,
-      "Редькин Юрий Васильевич": 49,
-      "Сапунов Дмитрий Валерьевич": 12,
-      "Харитонов Александр Николаевич": 293,
-      "Шустов Дмитрий Николаевич": 78,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000217943": 30,
+      "gas:candidate-vibid:355300366713": 30,
+      "gas:candidate-vibid:1001000113963": 64,
+      "gas:candidate-vibid:1001000136094": 46,
+      "gas:candidate-vibid:1001000121885": 187,
+      "gas:candidate-vibid:355300366981": 126,
+      "gas:candidate-vibid:1001000190392": 33,
+      "gas:candidate-vibid:1001000193916": 49,
+      "gas:candidate-vibid:355300366701": 12,
+      "gas:candidate-vibid:355300366707": 293,
+      "gas:candidate-vibid:355300366710": 78,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9613,18 +9613,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 26,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 81,
-      "Захарченко Валентина Павловна": 55,
-      "Кравец Александр Алексеевич": 139,
-      "Маевский Леонид Станиславович": 127,
-      "Панычев Александр Юрьевич": 20,
-      "Редькин Юрий Васильевич": 35,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 252,
-      "Шустов Дмитрий Николаевич": 83,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000217943": 26,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 81,
+      "gas:candidate-vibid:1001000136094": 55,
+      "gas:candidate-vibid:1001000121885": 139,
+      "gas:candidate-vibid:355300366981": 127,
+      "gas:candidate-vibid:1001000190392": 20,
+      "gas:candidate-vibid:1001000193916": 35,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 252,
+      "gas:candidate-vibid:355300366710": 83,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9674,18 +9674,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 36,
-      "Грасс Александр Викторович": 23,
-      "Ефимкин Николай Александрович": 74,
-      "Захарченко Валентина Павловна": 36,
-      "Кравец Александр Алексеевич": 223,
-      "Маевский Леонид Станиславович": 97,
-      "Панычев Александр Юрьевич": 30,
-      "Редькин Юрий Васильевич": 54,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 347,
-      "Шустов Дмитрий Николаевич": 68,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000217943": 36,
+      "gas:candidate-vibid:355300366713": 23,
+      "gas:candidate-vibid:1001000113963": 74,
+      "gas:candidate-vibid:1001000136094": 36,
+      "gas:candidate-vibid:1001000121885": 223,
+      "gas:candidate-vibid:355300366981": 97,
+      "gas:candidate-vibid:1001000190392": 30,
+      "gas:candidate-vibid:1001000193916": 54,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 347,
+      "gas:candidate-vibid:355300366710": 68,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9735,18 +9735,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 27,
-      "Грасс Александр Викторович": 20,
-      "Ефимкин Николай Александрович": 82,
-      "Захарченко Валентина Павловна": 23,
-      "Кравец Александр Алексеевич": 229,
-      "Маевский Леонид Станиславович": 69,
-      "Панычев Александр Юрьевич": 26,
-      "Редькин Юрий Васильевич": 50,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 277,
-      "Шустов Дмитрий Николаевич": 40,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000217943": 27,
+      "gas:candidate-vibid:355300366713": 20,
+      "gas:candidate-vibid:1001000113963": 82,
+      "gas:candidate-vibid:1001000136094": 23,
+      "gas:candidate-vibid:1001000121885": 229,
+      "gas:candidate-vibid:355300366981": 69,
+      "gas:candidate-vibid:1001000190392": 26,
+      "gas:candidate-vibid:1001000193916": 50,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 277,
+      "gas:candidate-vibid:355300366710": 40,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9796,18 +9796,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 28,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 59,
-      "Захарченко Валентина Павловна": 37,
-      "Кравец Александр Алексеевич": 157,
-      "Маевский Леонид Станиславович": 77,
-      "Панычев Александр Юрьевич": 41,
-      "Редькин Юрий Васильевич": 49,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 324,
-      "Шустов Дмитрий Николаевич": 42,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000217943": 28,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 59,
+      "gas:candidate-vibid:1001000136094": 37,
+      "gas:candidate-vibid:1001000121885": 157,
+      "gas:candidate-vibid:355300366981": 77,
+      "gas:candidate-vibid:1001000190392": 41,
+      "gas:candidate-vibid:1001000193916": 49,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 324,
+      "gas:candidate-vibid:355300366710": 42,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9857,18 +9857,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 46,
-      "Грасс Александр Викторович": 33,
-      "Ефимкин Николай Александрович": 71,
-      "Захарченко Валентина Павловна": 41,
-      "Кравец Александр Алексеевич": 183,
-      "Маевский Леонид Станиславович": 92,
-      "Панычев Александр Юрьевич": 25,
-      "Редькин Юрий Васильевич": 79,
-      "Сапунов Дмитрий Валерьевич": 14,
-      "Харитонов Александр Николаевич": 260,
-      "Шустов Дмитрий Николаевич": 100,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000217943": 46,
+      "gas:candidate-vibid:355300366713": 33,
+      "gas:candidate-vibid:1001000113963": 71,
+      "gas:candidate-vibid:1001000136094": 41,
+      "gas:candidate-vibid:1001000121885": 183,
+      "gas:candidate-vibid:355300366981": 92,
+      "gas:candidate-vibid:1001000190392": 25,
+      "gas:candidate-vibid:1001000193916": 79,
+      "gas:candidate-vibid:355300366701": 14,
+      "gas:candidate-vibid:355300366707": 260,
+      "gas:candidate-vibid:355300366710": 100,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9918,18 +9918,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 89,
-      "Захарченко Валентина Павловна": 47,
-      "Кравец Александр Алексеевич": 234,
-      "Маевский Леонид Станиславович": 120,
-      "Панычев Александр Юрьевич": 38,
-      "Редькин Юрий Васильевич": 55,
-      "Сапунов Дмитрий Валерьевич": 11,
-      "Харитонов Александр Николаевич": 434,
-      "Шустов Дмитрий Николаевич": 59,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 89,
+      "gas:candidate-vibid:1001000136094": 47,
+      "gas:candidate-vibid:1001000121885": 234,
+      "gas:candidate-vibid:355300366981": 120,
+      "gas:candidate-vibid:1001000190392": 38,
+      "gas:candidate-vibid:1001000193916": 55,
+      "gas:candidate-vibid:355300366701": 11,
+      "gas:candidate-vibid:355300366707": 434,
+      "gas:candidate-vibid:355300366710": 59,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -9979,18 +9979,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 17,
-      "Грасс Александр Викторович": 8,
-      "Ефимкин Николай Александрович": 37,
-      "Захарченко Валентина Павловна": 44,
-      "Кравец Александр Алексеевич": 88,
-      "Маевский Леонид Станиславович": 88,
-      "Панычев Александр Юрьевич": 13,
-      "Редькин Юрий Васильевич": 29,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 203,
-      "Шустов Дмитрий Николаевич": 48,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000217943": 17,
+      "gas:candidate-vibid:355300366713": 8,
+      "gas:candidate-vibid:1001000113963": 37,
+      "gas:candidate-vibid:1001000136094": 44,
+      "gas:candidate-vibid:1001000121885": 88,
+      "gas:candidate-vibid:355300366981": 88,
+      "gas:candidate-vibid:1001000190392": 13,
+      "gas:candidate-vibid:1001000193916": 29,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 203,
+      "gas:candidate-vibid:355300366710": 48,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10040,18 +10040,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 41,
-      "Грасс Александр Викторович": 14,
-      "Ефимкин Николай Александрович": 47,
-      "Захарченко Валентина Павловна": 50,
-      "Кравец Александр Алексеевич": 165,
-      "Маевский Леонид Станиславович": 117,
-      "Панычев Александр Юрьевич": 14,
-      "Редькин Юрий Васильевич": 54,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 261,
-      "Шустов Дмитрий Николаевич": 97,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000217943": 41,
+      "gas:candidate-vibid:355300366713": 14,
+      "gas:candidate-vibid:1001000113963": 47,
+      "gas:candidate-vibid:1001000136094": 50,
+      "gas:candidate-vibid:1001000121885": 165,
+      "gas:candidate-vibid:355300366981": 117,
+      "gas:candidate-vibid:1001000190392": 14,
+      "gas:candidate-vibid:1001000193916": 54,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 261,
+      "gas:candidate-vibid:355300366710": 97,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10101,18 +10101,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 44,
-      "Грасс Александр Викторович": 14,
-      "Ефимкин Николай Александрович": 96,
-      "Захарченко Валентина Павловна": 50,
-      "Кравец Александр Алексеевич": 279,
-      "Маевский Леонид Станиславович": 211,
-      "Панычев Александр Юрьевич": 28,
-      "Редькин Юрий Васильевич": 58,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 351,
-      "Шустов Дмитрий Николаевич": 87,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000217943": 44,
+      "gas:candidate-vibid:355300366713": 14,
+      "gas:candidate-vibid:1001000113963": 96,
+      "gas:candidate-vibid:1001000136094": 50,
+      "gas:candidate-vibid:1001000121885": 279,
+      "gas:candidate-vibid:355300366981": 211,
+      "gas:candidate-vibid:1001000190392": 28,
+      "gas:candidate-vibid:1001000193916": 58,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 351,
+      "gas:candidate-vibid:355300366710": 87,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10162,18 +10162,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 50,
-      "Захарченко Валентина Павловна": 54,
-      "Кравец Александр Алексеевич": 186,
-      "Маевский Леонид Станиславович": 130,
-      "Панычев Александр Юрьевич": 30,
-      "Редькин Юрий Васильевич": 53,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 204,
-      "Шустов Дмитрий Николаевич": 79,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 50,
+      "gas:candidate-vibid:1001000136094": 54,
+      "gas:candidate-vibid:1001000121885": 186,
+      "gas:candidate-vibid:355300366981": 130,
+      "gas:candidate-vibid:1001000190392": 30,
+      "gas:candidate-vibid:1001000193916": 53,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 204,
+      "gas:candidate-vibid:355300366710": 79,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10223,18 +10223,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 19,
-      "Грасс Александр Викторович": 9,
-      "Ефимкин Николай Александрович": 45,
-      "Захарченко Валентина Павловна": 33,
-      "Кравец Александр Алексеевич": 139,
-      "Маевский Леонид Станиславович": 65,
-      "Панычев Александр Юрьевич": 30,
-      "Редькин Юрий Васильевич": 58,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 288,
-      "Шустов Дмитрий Николаевич": 58,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000217943": 19,
+      "gas:candidate-vibid:355300366713": 9,
+      "gas:candidate-vibid:1001000113963": 45,
+      "gas:candidate-vibid:1001000136094": 33,
+      "gas:candidate-vibid:1001000121885": 139,
+      "gas:candidate-vibid:355300366981": 65,
+      "gas:candidate-vibid:1001000190392": 30,
+      "gas:candidate-vibid:1001000193916": 58,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 288,
+      "gas:candidate-vibid:355300366710": 58,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10284,18 +10284,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 7,
-      "Ефимкин Николай Александрович": 25,
-      "Захарченко Валентина Павловна": 42,
-      "Кравец Александр Алексеевич": 107,
-      "Маевский Леонид Станиславович": 117,
-      "Панычев Александр Юрьевич": 10,
-      "Редькин Юрий Васильевич": 26,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 236,
-      "Шустов Дмитрий Николаевич": 48,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 7,
+      "gas:candidate-vibid:1001000113963": 25,
+      "gas:candidate-vibid:1001000136094": 42,
+      "gas:candidate-vibid:1001000121885": 107,
+      "gas:candidate-vibid:355300366981": 117,
+      "gas:candidate-vibid:1001000190392": 10,
+      "gas:candidate-vibid:1001000193916": 26,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 236,
+      "gas:candidate-vibid:355300366710": 48,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10345,18 +10345,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 8,
-      "Ефимкин Николай Александрович": 44,
-      "Захарченко Валентина Павловна": 67,
-      "Кравец Александр Алексеевич": 130,
-      "Маевский Леонид Станиславович": 134,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 27,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 261,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 8,
+      "gas:candidate-vibid:1001000113963": 44,
+      "gas:candidate-vibid:1001000136094": 67,
+      "gas:candidate-vibid:1001000121885": 130,
+      "gas:candidate-vibid:355300366981": 134,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 27,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 261,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10406,18 +10406,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 21,
-      "Грасс Александр Викторович": 3,
-      "Ефимкин Николай Александрович": 38,
-      "Захарченко Валентина Павловна": 52,
-      "Кравец Александр Алексеевич": 139,
-      "Маевский Леонид Станиславович": 106,
-      "Панычев Александр Юрьевич": 13,
-      "Редькин Юрий Васильевич": 19,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 232,
-      "Шустов Дмитрий Николаевич": 53,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000217943": 21,
+      "gas:candidate-vibid:355300366713": 3,
+      "gas:candidate-vibid:1001000113963": 38,
+      "gas:candidate-vibid:1001000136094": 52,
+      "gas:candidate-vibid:1001000121885": 139,
+      "gas:candidate-vibid:355300366981": 106,
+      "gas:candidate-vibid:1001000190392": 13,
+      "gas:candidate-vibid:1001000193916": 19,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 232,
+      "gas:candidate-vibid:355300366710": 53,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10467,18 +10467,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 47,
-      "Грасс Александр Викторович": 6,
-      "Ефимкин Николай Александрович": 48,
-      "Захарченко Валентина Павловна": 49,
-      "Кравец Александр Алексеевич": 166,
-      "Маевский Леонид Станиславович": 132,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 50,
-      "Сапунов Дмитрий Валерьевич": 18,
-      "Харитонов Александр Николаевич": 237,
-      "Шустов Дмитрий Николаевич": 87,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000217943": 47,
+      "gas:candidate-vibid:355300366713": 6,
+      "gas:candidate-vibid:1001000113963": 48,
+      "gas:candidate-vibid:1001000136094": 49,
+      "gas:candidate-vibid:1001000121885": 166,
+      "gas:candidate-vibid:355300366981": 132,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 50,
+      "gas:candidate-vibid:355300366701": 18,
+      "gas:candidate-vibid:355300366707": 237,
+      "gas:candidate-vibid:355300366710": 87,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10528,18 +10528,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 37,
-      "Грасс Александр Викторович": 15,
-      "Ефимкин Николай Александрович": 90,
-      "Захарченко Валентина Павловна": 69,
-      "Кравец Александр Алексеевич": 162,
-      "Маевский Леонид Станиславович": 161,
-      "Панычев Александр Юрьевич": 26,
-      "Редькин Юрий Васильевич": 38,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 327,
-      "Шустов Дмитрий Николаевич": 94,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000217943": 37,
+      "gas:candidate-vibid:355300366713": 15,
+      "gas:candidate-vibid:1001000113963": 90,
+      "gas:candidate-vibid:1001000136094": 69,
+      "gas:candidate-vibid:1001000121885": 162,
+      "gas:candidate-vibid:355300366981": 161,
+      "gas:candidate-vibid:1001000190392": 26,
+      "gas:candidate-vibid:1001000193916": 38,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 327,
+      "gas:candidate-vibid:355300366710": 94,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10589,18 +10589,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 39,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 67,
-      "Захарченко Валентина Павловна": 58,
-      "Кравец Александр Алексеевич": 218,
-      "Маевский Леонид Станиславович": 129,
-      "Панычев Александр Юрьевич": 33,
-      "Редькин Юрий Васильевич": 45,
-      "Сапунов Дмитрий Валерьевич": 11,
-      "Харитонов Александр Николаевич": 374,
-      "Шустов Дмитрий Николаевич": 82,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000217943": 39,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 67,
+      "gas:candidate-vibid:1001000136094": 58,
+      "gas:candidate-vibid:1001000121885": 218,
+      "gas:candidate-vibid:355300366981": 129,
+      "gas:candidate-vibid:1001000190392": 33,
+      "gas:candidate-vibid:1001000193916": 45,
+      "gas:candidate-vibid:355300366701": 11,
+      "gas:candidate-vibid:355300366707": 374,
+      "gas:candidate-vibid:355300366710": 82,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10650,18 +10650,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 43,
-      "Грасс Александр Викторович": 10,
-      "Ефимкин Николай Александрович": 53,
-      "Захарченко Валентина Павловна": 78,
-      "Кравец Александр Алексеевич": 183,
-      "Маевский Леонид Станиславович": 180,
-      "Панычев Александр Юрьевич": 33,
-      "Редькин Юрий Васильевич": 64,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 292,
-      "Шустов Дмитрий Николаевич": 97,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000217943": 43,
+      "gas:candidate-vibid:355300366713": 10,
+      "gas:candidate-vibid:1001000113963": 53,
+      "gas:candidate-vibid:1001000136094": 78,
+      "gas:candidate-vibid:1001000121885": 183,
+      "gas:candidate-vibid:355300366981": 180,
+      "gas:candidate-vibid:1001000190392": 33,
+      "gas:candidate-vibid:1001000193916": 64,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 292,
+      "gas:candidate-vibid:355300366710": 97,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10711,18 +10711,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 38,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 49,
-      "Захарченко Валентина Павловна": 72,
-      "Кравец Александр Алексеевич": 151,
-      "Маевский Леонид Станиславович": 154,
-      "Панычев Александр Юрьевич": 18,
-      "Редькин Юрий Васильевич": 34,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 269,
-      "Шустов Дмитрий Николаевич": 119,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000217943": 38,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 49,
+      "gas:candidate-vibid:1001000136094": 72,
+      "gas:candidate-vibid:1001000121885": 151,
+      "gas:candidate-vibid:355300366981": 154,
+      "gas:candidate-vibid:1001000190392": 18,
+      "gas:candidate-vibid:1001000193916": 34,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 269,
+      "gas:candidate-vibid:355300366710": 119,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10772,18 +10772,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 17,
-      "Грасс Александр Викторович": 4,
-      "Ефимкин Николай Александрович": 26,
-      "Захарченко Валентина Павловна": 41,
-      "Кравец Александр Алексеевич": 76,
-      "Маевский Леонид Станиславович": 80,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 22,
-      "Сапунов Дмитрий Валерьевич": 2,
-      "Харитонов Александр Николаевич": 234,
-      "Шустов Дмитрий Николаевич": 29,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000217943": 17,
+      "gas:candidate-vibid:355300366713": 4,
+      "gas:candidate-vibid:1001000113963": 26,
+      "gas:candidate-vibid:1001000136094": 41,
+      "gas:candidate-vibid:1001000121885": 76,
+      "gas:candidate-vibid:355300366981": 80,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 22,
+      "gas:candidate-vibid:355300366701": 2,
+      "gas:candidate-vibid:355300366707": 234,
+      "gas:candidate-vibid:355300366710": 29,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10833,18 +10833,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 12,
-      "Грасс Александр Викторович": 2,
-      "Ефимкин Николай Александрович": 22,
-      "Захарченко Валентина Павловна": 34,
-      "Кравец Александр Алексеевич": 100,
-      "Маевский Леонид Станиславович": 53,
-      "Панычев Александр Юрьевич": 9,
-      "Редькин Юрий Васильевич": 15,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 97,
-      "Шустов Дмитрий Николаевич": 32,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000217943": 12,
+      "gas:candidate-vibid:355300366713": 2,
+      "gas:candidate-vibid:1001000113963": 22,
+      "gas:candidate-vibid:1001000136094": 34,
+      "gas:candidate-vibid:1001000121885": 100,
+      "gas:candidate-vibid:355300366981": 53,
+      "gas:candidate-vibid:1001000190392": 9,
+      "gas:candidate-vibid:1001000193916": 15,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 97,
+      "gas:candidate-vibid:355300366710": 32,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10894,18 +10894,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 51,
-      "Грасс Александр Викторович": 15,
-      "Ефимкин Николай Александрович": 95,
-      "Захарченко Валентина Павловна": 53,
-      "Кравец Александр Алексеевич": 223,
-      "Маевский Леонид Станиславович": 171,
-      "Панычев Александр Юрьевич": 37,
-      "Редькин Юрий Васильевич": 91,
-      "Сапунов Дмитрий Валерьевич": 16,
-      "Харитонов Александр Николаевич": 431,
-      "Шустов Дмитрий Николаевич": 118,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000217943": 51,
+      "gas:candidate-vibid:355300366713": 15,
+      "gas:candidate-vibid:1001000113963": 95,
+      "gas:candidate-vibid:1001000136094": 53,
+      "gas:candidate-vibid:1001000121885": 223,
+      "gas:candidate-vibid:355300366981": 171,
+      "gas:candidate-vibid:1001000190392": 37,
+      "gas:candidate-vibid:1001000193916": 91,
+      "gas:candidate-vibid:355300366701": 16,
+      "gas:candidate-vibid:355300366707": 431,
+      "gas:candidate-vibid:355300366710": 118,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -10955,18 +10955,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 51,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 107,
-      "Захарченко Валентина Павловна": 56,
-      "Кравец Александр Алексеевич": 165,
-      "Маевский Леонид Станиславович": 124,
-      "Панычев Александр Юрьевич": 29,
-      "Редькин Юрий Васильевич": 76,
-      "Сапунов Дмитрий Валерьевич": 17,
-      "Харитонов Александр Николаевич": 396,
-      "Шустов Дмитрий Николаевич": 109,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000217943": 51,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 107,
+      "gas:candidate-vibid:1001000136094": 56,
+      "gas:candidate-vibid:1001000121885": 165,
+      "gas:candidate-vibid:355300366981": 124,
+      "gas:candidate-vibid:1001000190392": 29,
+      "gas:candidate-vibid:1001000193916": 76,
+      "gas:candidate-vibid:355300366701": 17,
+      "gas:candidate-vibid:355300366707": 396,
+      "gas:candidate-vibid:355300366710": 109,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11016,18 +11016,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 36,
-      "Грасс Александр Викторович": 12,
-      "Ефимкин Николай Александрович": 64,
-      "Захарченко Валентина Павловна": 51,
-      "Кравец Александр Алексеевич": 244,
-      "Маевский Леонид Станиславович": 177,
-      "Панычев Александр Юрьевич": 36,
-      "Редькин Юрий Васильевич": 79,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 414,
-      "Шустов Дмитрий Николаевич": 84,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000217943": 36,
+      "gas:candidate-vibid:355300366713": 12,
+      "gas:candidate-vibid:1001000113963": 64,
+      "gas:candidate-vibid:1001000136094": 51,
+      "gas:candidate-vibid:1001000121885": 244,
+      "gas:candidate-vibid:355300366981": 177,
+      "gas:candidate-vibid:1001000190392": 36,
+      "gas:candidate-vibid:1001000193916": 79,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 414,
+      "gas:candidate-vibid:355300366710": 84,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11077,18 +11077,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 48,
-      "Грасс Александр Викторович": 21,
-      "Ефимкин Николай Александрович": 95,
-      "Захарченко Валентина Павловна": 52,
-      "Кравец Александр Алексеевич": 247,
-      "Маевский Леонид Станиславович": 130,
-      "Панычев Александр Юрьевич": 37,
-      "Редькин Юрий Васильевич": 81,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 352,
-      "Шустов Дмитрий Николаевич": 115,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000217943": 48,
+      "gas:candidate-vibid:355300366713": 21,
+      "gas:candidate-vibid:1001000113963": 95,
+      "gas:candidate-vibid:1001000136094": 52,
+      "gas:candidate-vibid:1001000121885": 247,
+      "gas:candidate-vibid:355300366981": 130,
+      "gas:candidate-vibid:1001000190392": 37,
+      "gas:candidate-vibid:1001000193916": 81,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 352,
+      "gas:candidate-vibid:355300366710": 115,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11138,18 +11138,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 40,
-      "Грасс Александр Викторович": 13,
-      "Ефимкин Николай Александрович": 85,
-      "Захарченко Валентина Павловна": 51,
-      "Кравец Александр Алексеевич": 203,
-      "Маевский Леонид Станиславович": 143,
-      "Панычев Александр Юрьевич": 27,
-      "Редькин Юрий Васильевич": 69,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 402,
-      "Шустов Дмитрий Николаевич": 111,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000217943": 40,
+      "gas:candidate-vibid:355300366713": 13,
+      "gas:candidate-vibid:1001000113963": 85,
+      "gas:candidate-vibid:1001000136094": 51,
+      "gas:candidate-vibid:1001000121885": 203,
+      "gas:candidate-vibid:355300366981": 143,
+      "gas:candidate-vibid:1001000190392": 27,
+      "gas:candidate-vibid:1001000193916": 69,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 402,
+      "gas:candidate-vibid:355300366710": 111,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11199,18 +11199,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 25,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 47,
-      "Захарченко Валентина Павловна": 68,
-      "Кравец Александр Алексеевич": 135,
-      "Маевский Леонид Станиславович": 134,
-      "Панычев Александр Юрьевич": 18,
-      "Редькин Юрий Васильевич": 23,
-      "Сапунов Дмитрий Валерьевич": 11,
-      "Харитонов Александр Николаевич": 286,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000217943": 25,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 47,
+      "gas:candidate-vibid:1001000136094": 68,
+      "gas:candidate-vibid:1001000121885": 135,
+      "gas:candidate-vibid:355300366981": 134,
+      "gas:candidate-vibid:1001000190392": 18,
+      "gas:candidate-vibid:1001000193916": 23,
+      "gas:candidate-vibid:355300366701": 11,
+      "gas:candidate-vibid:355300366707": 286,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11260,18 +11260,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 14,
-      "Грасс Александр Викторович": 2,
-      "Ефимкин Николай Александрович": 15,
-      "Захарченко Валентина Павловна": 30,
-      "Кравец Александр Алексеевич": 98,
-      "Маевский Леонид Станиславович": 38,
-      "Панычев Александр Юрьевич": 11,
-      "Редькин Юрий Васильевич": 21,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 248,
-      "Шустов Дмитрий Николаевич": 25,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217943": 14,
+      "gas:candidate-vibid:355300366713": 2,
+      "gas:candidate-vibid:1001000113963": 15,
+      "gas:candidate-vibid:1001000136094": 30,
+      "gas:candidate-vibid:1001000121885": 98,
+      "gas:candidate-vibid:355300366981": 38,
+      "gas:candidate-vibid:1001000190392": 11,
+      "gas:candidate-vibid:1001000193916": 21,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 248,
+      "gas:candidate-vibid:355300366710": 25,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11321,18 +11321,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 29,
-      "Грасс Александр Викторович": 15,
-      "Ефимкин Николай Александрович": 21,
-      "Захарченко Валентина Павловна": 33,
-      "Кравец Александр Алексеевич": 228,
-      "Маевский Леонид Станиславович": 52,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 27,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 366,
-      "Шустов Дмитрий Николаевич": 47,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000217943": 29,
+      "gas:candidate-vibid:355300366713": 15,
+      "gas:candidate-vibid:1001000113963": 21,
+      "gas:candidate-vibid:1001000136094": 33,
+      "gas:candidate-vibid:1001000121885": 228,
+      "gas:candidate-vibid:355300366981": 52,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 27,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 366,
+      "gas:candidate-vibid:355300366710": 47,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11382,18 +11382,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 8,
-      "Грасс Александр Викторович": 1,
-      "Ефимкин Николай Александрович": 11,
-      "Захарченко Валентина Павловна": 20,
-      "Кравец Александр Алексеевич": 47,
-      "Маевский Леонид Станиславович": 33,
-      "Панычев Александр Юрьевич": 3,
-      "Редькин Юрий Васильевич": 5,
-      "Сапунов Дмитрий Валерьевич": 1,
-      "Харитонов Александр Николаевич": 83,
-      "Шустов Дмитрий Николаевич": 13,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000217943": 8,
+      "gas:candidate-vibid:355300366713": 1,
+      "gas:candidate-vibid:1001000113963": 11,
+      "gas:candidate-vibid:1001000136094": 20,
+      "gas:candidate-vibid:1001000121885": 47,
+      "gas:candidate-vibid:355300366981": 33,
+      "gas:candidate-vibid:1001000190392": 3,
+      "gas:candidate-vibid:1001000193916": 5,
+      "gas:candidate-vibid:355300366701": 1,
+      "gas:candidate-vibid:355300366707": 83,
+      "gas:candidate-vibid:355300366710": 13,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11443,18 +11443,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 4,
-      "Грасс Александр Викторович": 0,
-      "Ефимкин Николай Александрович": 2,
-      "Захарченко Валентина Павловна": 7,
-      "Кравец Александр Алексеевич": 11,
-      "Маевский Леонид Станиславович": 6,
-      "Панычев Александр Юрьевич": 3,
-      "Редькин Юрий Васильевич": 9,
-      "Сапунов Дмитрий Валерьевич": 2,
-      "Харитонов Александр Николаевич": 101,
-      "Шустов Дмитрий Николаевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000217943": 4,
+      "gas:candidate-vibid:355300366713": 0,
+      "gas:candidate-vibid:1001000113963": 2,
+      "gas:candidate-vibid:1001000136094": 7,
+      "gas:candidate-vibid:1001000121885": 11,
+      "gas:candidate-vibid:355300366981": 6,
+      "gas:candidate-vibid:1001000190392": 3,
+      "gas:candidate-vibid:1001000193916": 9,
+      "gas:candidate-vibid:355300366701": 2,
+      "gas:candidate-vibid:355300366707": 101,
+      "gas:candidate-vibid:355300366710": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11504,18 +11504,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 1,
-      "Грасс Александр Викторович": 3,
-      "Ефимкин Николай Александрович": 3,
-      "Захарченко Валентина Павловна": 2,
-      "Кравец Александр Алексеевич": 10,
-      "Маевский Леонид Станиславович": 16,
-      "Панычев Александр Юрьевич": 1,
-      "Редькин Юрий Васильевич": 1,
-      "Сапунов Дмитрий Валерьевич": 0,
-      "Харитонов Александр Николаевич": 27,
-      "Шустов Дмитрий Николаевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000217943": 1,
+      "gas:candidate-vibid:355300366713": 3,
+      "gas:candidate-vibid:1001000113963": 3,
+      "gas:candidate-vibid:1001000136094": 2,
+      "gas:candidate-vibid:1001000121885": 10,
+      "gas:candidate-vibid:355300366981": 16,
+      "gas:candidate-vibid:1001000190392": 1,
+      "gas:candidate-vibid:1001000193916": 1,
+      "gas:candidate-vibid:355300366701": 0,
+      "gas:candidate-vibid:355300366707": 27,
+      "gas:candidate-vibid:355300366710": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11565,18 +11565,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 2,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 5,
-      "Захарченко Валентина Павловна": 5,
-      "Кравец Александр Алексеевич": 46,
-      "Маевский Леонид Станиславович": 25,
-      "Панычев Александр Юрьевич": 3,
-      "Редькин Юрий Васильевич": 14,
-      "Сапунов Дмитрий Валерьевич": 1,
-      "Харитонов Александр Николаевич": 299,
-      "Шустов Дмитрий Николаевич": 11,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000217943": 2,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 5,
+      "gas:candidate-vibid:1001000136094": 5,
+      "gas:candidate-vibid:1001000121885": 46,
+      "gas:candidate-vibid:355300366981": 25,
+      "gas:candidate-vibid:1001000190392": 3,
+      "gas:candidate-vibid:1001000193916": 14,
+      "gas:candidate-vibid:355300366701": 1,
+      "gas:candidate-vibid:355300366707": 299,
+      "gas:candidate-vibid:355300366710": 11,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11626,18 +11626,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 1,
-      "Грасс Александр Викторович": 0,
-      "Ефимкин Николай Александрович": 4,
-      "Захарченко Валентина Павловна": 2,
-      "Кравец Александр Алексеевич": 6,
-      "Маевский Леонид Станиславович": 12,
-      "Панычев Александр Юрьевич": 0,
-      "Редькин Юрий Васильевич": 2,
-      "Сапунов Дмитрий Валерьевич": 1,
-      "Харитонов Александр Николаевич": 18,
-      "Шустов Дмитрий Николаевич": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000217943": 1,
+      "gas:candidate-vibid:355300366713": 0,
+      "gas:candidate-vibid:1001000113963": 4,
+      "gas:candidate-vibid:1001000136094": 2,
+      "gas:candidate-vibid:1001000121885": 6,
+      "gas:candidate-vibid:355300366981": 12,
+      "gas:candidate-vibid:1001000190392": 0,
+      "gas:candidate-vibid:1001000193916": 2,
+      "gas:candidate-vibid:355300366701": 1,
+      "gas:candidate-vibid:355300366707": 18,
+      "gas:candidate-vibid:355300366710": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11687,18 +11687,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 1,
-      "Грасс Александр Викторович": 0,
-      "Ефимкин Николай Александрович": 5,
-      "Захарченко Валентина Павловна": 6,
-      "Кравец Александр Алексеевич": 12,
-      "Маевский Леонид Станиславович": 3,
-      "Панычев Александр Юрьевич": 2,
-      "Редькин Юрий Васильевич": 2,
-      "Сапунов Дмитрий Валерьевич": 1,
-      "Харитонов Александр Николаевич": 10,
-      "Шустов Дмитрий Николаевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217943": 1,
+      "gas:candidate-vibid:355300366713": 0,
+      "gas:candidate-vibid:1001000113963": 5,
+      "gas:candidate-vibid:1001000136094": 6,
+      "gas:candidate-vibid:1001000121885": 12,
+      "gas:candidate-vibid:355300366981": 3,
+      "gas:candidate-vibid:1001000190392": 2,
+      "gas:candidate-vibid:1001000193916": 2,
+      "gas:candidate-vibid:355300366701": 1,
+      "gas:candidate-vibid:355300366707": 10,
+      "gas:candidate-vibid:355300366710": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11748,18 +11748,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 2,
-      "Грасс Александр Викторович": 1,
-      "Ефимкин Николай Александрович": 3,
-      "Захарченко Валентина Павловна": 1,
-      "Кравец Александр Алексеевич": 16,
-      "Маевский Леонид Станиславович": 4,
-      "Панычев Александр Юрьевич": 1,
-      "Редькин Юрий Васильевич": 3,
-      "Сапунов Дмитрий Валерьевич": 0,
-      "Харитонов Александр Николаевич": 72,
-      "Шустов Дмитрий Николаевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217943": 2,
+      "gas:candidate-vibid:355300366713": 1,
+      "gas:candidate-vibid:1001000113963": 3,
+      "gas:candidate-vibid:1001000136094": 1,
+      "gas:candidate-vibid:1001000121885": 16,
+      "gas:candidate-vibid:355300366981": 4,
+      "gas:candidate-vibid:1001000190392": 1,
+      "gas:candidate-vibid:1001000193916": 3,
+      "gas:candidate-vibid:355300366701": 0,
+      "gas:candidate-vibid:355300366707": 72,
+      "gas:candidate-vibid:355300366710": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11809,18 +11809,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 1,
-      "Грасс Александр Викторович": 0,
-      "Ефимкин Николай Александрович": 0,
-      "Захарченко Валентина Павловна": 1,
-      "Кравец Александр Алексеевич": 2,
-      "Маевский Леонид Станиславович": 2,
-      "Панычев Александр Юрьевич": 0,
-      "Редькин Юрий Васильевич": 0,
-      "Сапунов Дмитрий Валерьевич": 0,
-      "Харитонов Александр Николаевич": 3,
-      "Шустов Дмитрий Николаевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000217943": 1,
+      "gas:candidate-vibid:355300366713": 0,
+      "gas:candidate-vibid:1001000113963": 0,
+      "gas:candidate-vibid:1001000136094": 1,
+      "gas:candidate-vibid:1001000121885": 2,
+      "gas:candidate-vibid:355300366981": 2,
+      "gas:candidate-vibid:1001000190392": 0,
+      "gas:candidate-vibid:1001000193916": 0,
+      "gas:candidate-vibid:355300366701": 0,
+      "gas:candidate-vibid:355300366707": 3,
+      "gas:candidate-vibid:355300366710": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11870,18 +11870,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 0,
-      "Грасс Александр Викторович": 1,
-      "Ефимкин Николай Александрович": 0,
-      "Захарченко Валентина Павловна": 0,
-      "Кравец Александр Алексеевич": 1,
-      "Маевский Леонид Станиславович": 3,
-      "Панычев Александр Юрьевич": 0,
-      "Редькин Юрий Васильевич": 3,
-      "Сапунов Дмитрий Валерьевич": 0,
-      "Харитонов Александр Николаевич": 6,
-      "Шустов Дмитрий Николаевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217943": 0,
+      "gas:candidate-vibid:355300366713": 1,
+      "gas:candidate-vibid:1001000113963": 0,
+      "gas:candidate-vibid:1001000136094": 0,
+      "gas:candidate-vibid:1001000121885": 1,
+      "gas:candidate-vibid:355300366981": 3,
+      "gas:candidate-vibid:1001000190392": 0,
+      "gas:candidate-vibid:1001000193916": 3,
+      "gas:candidate-vibid:355300366701": 0,
+      "gas:candidate-vibid:355300366707": 6,
+      "gas:candidate-vibid:355300366710": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11931,18 +11931,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 3,
-      "Грасс Александр Викторович": 0,
-      "Ефимкин Николай Александрович": 1,
-      "Захарченко Валентина Павловна": 0,
-      "Кравец Александр Алексеевич": 5,
-      "Маевский Леонид Станиславович": 2,
-      "Панычев Александр Юрьевич": 1,
-      "Редькин Юрий Васильевич": 0,
-      "Сапунов Дмитрий Валерьевич": 0,
-      "Харитонов Александр Николаевич": 12,
-      "Шустов Дмитрий Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217943": 3,
+      "gas:candidate-vibid:355300366713": 0,
+      "gas:candidate-vibid:1001000113963": 1,
+      "gas:candidate-vibid:1001000136094": 0,
+      "gas:candidate-vibid:1001000121885": 5,
+      "gas:candidate-vibid:355300366981": 2,
+      "gas:candidate-vibid:1001000190392": 1,
+      "gas:candidate-vibid:1001000193916": 0,
+      "gas:candidate-vibid:355300366701": 0,
+      "gas:candidate-vibid:355300366707": 12,
+      "gas:candidate-vibid:355300366710": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -11992,18 +11992,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 3,
-      "Грасс Александр Викторович": 0,
-      "Ефимкин Николай Александрович": 1,
-      "Захарченко Валентина Павловна": 5,
-      "Кравец Александр Алексеевич": 12,
-      "Маевский Леонид Станиславович": 6,
-      "Панычев Александр Юрьевич": 1,
-      "Редькин Юрий Васильевич": 7,
-      "Сапунов Дмитрий Валерьевич": 0,
-      "Харитонов Александр Николаевич": 37,
-      "Шустов Дмитрий Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217943": 3,
+      "gas:candidate-vibid:355300366713": 0,
+      "gas:candidate-vibid:1001000113963": 1,
+      "gas:candidate-vibid:1001000136094": 5,
+      "gas:candidate-vibid:1001000121885": 12,
+      "gas:candidate-vibid:355300366981": 6,
+      "gas:candidate-vibid:1001000190392": 1,
+      "gas:candidate-vibid:1001000193916": 7,
+      "gas:candidate-vibid:355300366701": 0,
+      "gas:candidate-vibid:355300366707": 37,
+      "gas:candidate-vibid:355300366710": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -12053,18 +12053,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 2,
-      "Грасс Александр Викторович": 0,
-      "Ефимкин Николай Александрович": 2,
-      "Захарченко Валентина Павловна": 2,
-      "Кравец Александр Алексеевич": 8,
-      "Маевский Леонид Станиславович": 4,
-      "Панычев Александр Юрьевич": 1,
-      "Редькин Юрий Васильевич": 4,
-      "Сапунов Дмитрий Валерьевич": 0,
-      "Харитонов Александр Николаевич": 16,
-      "Шустов Дмитрий Николаевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000217943": 2,
+      "gas:candidate-vibid:355300366713": 0,
+      "gas:candidate-vibid:1001000113963": 2,
+      "gas:candidate-vibid:1001000136094": 2,
+      "gas:candidate-vibid:1001000121885": 8,
+      "gas:candidate-vibid:355300366981": 4,
+      "gas:candidate-vibid:1001000190392": 1,
+      "gas:candidate-vibid:1001000193916": 4,
+      "gas:candidate-vibid:355300366701": 0,
+      "gas:candidate-vibid:355300366707": 16,
+      "gas:candidate-vibid:355300366710": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366834&region=0&sub_region=0&type=429",
@@ -12114,18 +12114,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 19,
-      "Грасс Александр Викторович": 5,
-      "Ефимкин Николай Александрович": 23,
-      "Захарченко Валентина Павловна": 38,
-      "Кравец Александр Алексеевич": 70,
-      "Маевский Леонид Станиславович": 51,
-      "Панычев Александр Юрьевич": 6,
-      "Редькин Юрий Васильевич": 6,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 216,
-      "Шустов Дмитрий Николаевич": 34,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000217943": 19,
+      "gas:candidate-vibid:355300366713": 5,
+      "gas:candidate-vibid:1001000113963": 23,
+      "gas:candidate-vibid:1001000136094": 38,
+      "gas:candidate-vibid:1001000121885": 70,
+      "gas:candidate-vibid:355300366981": 51,
+      "gas:candidate-vibid:1001000190392": 6,
+      "gas:candidate-vibid:1001000193916": 6,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 216,
+      "gas:candidate-vibid:355300366710": 34,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12175,18 +12175,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 29,
-      "Грасс Александр Викторович": 42,
-      "Ефимкин Николай Александрович": 39,
-      "Захарченко Валентина Павловна": 51,
-      "Кравец Александр Алексеевич": 108,
-      "Маевский Леонид Станиславович": 137,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 24,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 256,
-      "Шустов Дмитрий Николаевич": 70,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000217943": 29,
+      "gas:candidate-vibid:355300366713": 42,
+      "gas:candidate-vibid:1001000113963": 39,
+      "gas:candidate-vibid:1001000136094": 51,
+      "gas:candidate-vibid:1001000121885": 108,
+      "gas:candidate-vibid:355300366981": 137,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 24,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 256,
+      "gas:candidate-vibid:355300366710": 70,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12236,18 +12236,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 30,
-      "Грасс Александр Викторович": 36,
-      "Ефимкин Николай Александрович": 53,
-      "Захарченко Валентина Павловна": 68,
-      "Кравец Александр Алексеевич": 146,
-      "Маевский Леонид Станиславович": 160,
-      "Панычев Александр Юрьевич": 11,
-      "Редькин Юрий Васильевич": 32,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 294,
-      "Шустов Дмитрий Николаевич": 71,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000217943": 30,
+      "gas:candidate-vibid:355300366713": 36,
+      "gas:candidate-vibid:1001000113963": 53,
+      "gas:candidate-vibid:1001000136094": 68,
+      "gas:candidate-vibid:1001000121885": 146,
+      "gas:candidate-vibid:355300366981": 160,
+      "gas:candidate-vibid:1001000190392": 11,
+      "gas:candidate-vibid:1001000193916": 32,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 294,
+      "gas:candidate-vibid:355300366710": 71,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12297,18 +12297,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 13,
-      "Ефимкин Николай Александрович": 36,
-      "Захарченко Валентина Павловна": 72,
-      "Кравец Александр Алексеевич": 134,
-      "Маевский Леонид Станиславович": 202,
-      "Панычев Александр Юрьевич": 17,
-      "Редькин Юрий Васильевич": 33,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 344,
-      "Шустов Дмитрий Николаевич": 91,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 13,
+      "gas:candidate-vibid:1001000113963": 36,
+      "gas:candidate-vibid:1001000136094": 72,
+      "gas:candidate-vibid:1001000121885": 134,
+      "gas:candidate-vibid:355300366981": 202,
+      "gas:candidate-vibid:1001000190392": 17,
+      "gas:candidate-vibid:1001000193916": 33,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 344,
+      "gas:candidate-vibid:355300366710": 91,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12358,18 +12358,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 27,
-      "Грасс Александр Викторович": 16,
-      "Ефимкин Николай Александрович": 68,
-      "Захарченко Валентина Павловна": 57,
-      "Кравец Александр Алексеевич": 181,
-      "Маевский Леонид Станиславович": 98,
-      "Панычев Александр Юрьевич": 43,
-      "Редькин Юрий Васильевич": 37,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 313,
-      "Шустов Дмитрий Николаевич": 92,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000217943": 27,
+      "gas:candidate-vibid:355300366713": 16,
+      "gas:candidate-vibid:1001000113963": 68,
+      "gas:candidate-vibid:1001000136094": 57,
+      "gas:candidate-vibid:1001000121885": 181,
+      "gas:candidate-vibid:355300366981": 98,
+      "gas:candidate-vibid:1001000190392": 43,
+      "gas:candidate-vibid:1001000193916": 37,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 313,
+      "gas:candidate-vibid:355300366710": 92,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12419,18 +12419,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 24,
-      "Грасс Александр Викторович": 25,
-      "Ефимкин Николай Александрович": 84,
-      "Захарченко Валентина Павловна": 52,
-      "Кравец Александр Алексеевич": 217,
-      "Маевский Леонид Станиславович": 79,
-      "Панычев Александр Юрьевич": 32,
-      "Редькин Юрий Васильевич": 40,
-      "Сапунов Дмитрий Валерьевич": 11,
-      "Харитонов Александр Николаевич": 395,
-      "Шустов Дмитрий Николаевич": 100,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000217943": 24,
+      "gas:candidate-vibid:355300366713": 25,
+      "gas:candidate-vibid:1001000113963": 84,
+      "gas:candidate-vibid:1001000136094": 52,
+      "gas:candidate-vibid:1001000121885": 217,
+      "gas:candidate-vibid:355300366981": 79,
+      "gas:candidate-vibid:1001000190392": 32,
+      "gas:candidate-vibid:1001000193916": 40,
+      "gas:candidate-vibid:355300366701": 11,
+      "gas:candidate-vibid:355300366707": 395,
+      "gas:candidate-vibid:355300366710": 100,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12480,18 +12480,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 15,
-      "Ефимкин Николай Александрович": 33,
-      "Захарченко Валентина Павловна": 33,
-      "Кравец Александр Алексеевич": 173,
-      "Маевский Леонид Станиславович": 68,
-      "Панычев Александр Юрьевич": 11,
-      "Редькин Юрий Васильевич": 36,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 264,
-      "Шустов Дмитрий Николаевич": 62,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 15,
+      "gas:candidate-vibid:1001000113963": 33,
+      "gas:candidate-vibid:1001000136094": 33,
+      "gas:candidate-vibid:1001000121885": 173,
+      "gas:candidate-vibid:355300366981": 68,
+      "gas:candidate-vibid:1001000190392": 11,
+      "gas:candidate-vibid:1001000193916": 36,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 264,
+      "gas:candidate-vibid:355300366710": 62,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12541,18 +12541,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 38,
-      "Грасс Александр Викторович": 7,
-      "Ефимкин Николай Александрович": 55,
-      "Захарченко Валентина Павловна": 45,
-      "Кравец Александр Алексеевич": 176,
-      "Маевский Леонид Станиславович": 74,
-      "Панычев Александр Юрьевич": 18,
-      "Редькин Юрий Васильевич": 54,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 233,
-      "Шустов Дмитрий Николаевич": 70,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000217943": 38,
+      "gas:candidate-vibid:355300366713": 7,
+      "gas:candidate-vibid:1001000113963": 55,
+      "gas:candidate-vibid:1001000136094": 45,
+      "gas:candidate-vibid:1001000121885": 176,
+      "gas:candidate-vibid:355300366981": 74,
+      "gas:candidate-vibid:1001000190392": 18,
+      "gas:candidate-vibid:1001000193916": 54,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 233,
+      "gas:candidate-vibid:355300366710": 70,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12602,18 +12602,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 39,
-      "Грасс Александр Викторович": 11,
-      "Ефимкин Николай Александрович": 53,
-      "Захарченко Валентина Павловна": 38,
-      "Кравец Александр Алексеевич": 197,
-      "Маевский Леонид Станиславович": 121,
-      "Панычев Александр Юрьевич": 15,
-      "Редькин Юрий Васильевич": 40,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 266,
-      "Шустов Дмитрий Николаевич": 54,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000217943": 39,
+      "gas:candidate-vibid:355300366713": 11,
+      "gas:candidate-vibid:1001000113963": 53,
+      "gas:candidate-vibid:1001000136094": 38,
+      "gas:candidate-vibid:1001000121885": 197,
+      "gas:candidate-vibid:355300366981": 121,
+      "gas:candidate-vibid:1001000190392": 15,
+      "gas:candidate-vibid:1001000193916": 40,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 266,
+      "gas:candidate-vibid:355300366710": 54,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12663,18 +12663,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 26,
-      "Ефимкин Николай Александрович": 50,
-      "Захарченко Валентина Павловна": 50,
-      "Кравец Александр Алексеевич": 182,
-      "Маевский Леонид Станиславович": 85,
-      "Панычев Александр Юрьевич": 31,
-      "Редькин Юрий Васильевич": 51,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 283,
-      "Шустов Дмитрий Николаевич": 95,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 26,
+      "gas:candidate-vibid:1001000113963": 50,
+      "gas:candidate-vibid:1001000136094": 50,
+      "gas:candidate-vibid:1001000121885": 182,
+      "gas:candidate-vibid:355300366981": 85,
+      "gas:candidate-vibid:1001000190392": 31,
+      "gas:candidate-vibid:1001000193916": 51,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 283,
+      "gas:candidate-vibid:355300366710": 95,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12724,18 +12724,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 36,
-      "Грасс Александр Викторович": 22,
-      "Ефимкин Николай Александрович": 79,
-      "Захарченко Валентина Павловна": 52,
-      "Кравец Александр Алексеевич": 212,
-      "Маевский Леонид Станиславович": 92,
-      "Панычев Александр Юрьевич": 36,
-      "Редькин Юрий Васильевич": 64,
-      "Сапунов Дмитрий Валерьевич": 17,
-      "Харитонов Александр Николаевич": 361,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000217943": 36,
+      "gas:candidate-vibid:355300366713": 22,
+      "gas:candidate-vibid:1001000113963": 79,
+      "gas:candidate-vibid:1001000136094": 52,
+      "gas:candidate-vibid:1001000121885": 212,
+      "gas:candidate-vibid:355300366981": 92,
+      "gas:candidate-vibid:1001000190392": 36,
+      "gas:candidate-vibid:1001000193916": 64,
+      "gas:candidate-vibid:355300366701": 17,
+      "gas:candidate-vibid:355300366707": 361,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12785,18 +12785,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 26,
-      "Грасс Александр Викторович": 35,
-      "Ефимкин Николай Александрович": 67,
-      "Захарченко Валентина Павловна": 67,
-      "Кравец Александр Алексеевич": 218,
-      "Маевский Леонид Станиславович": 100,
-      "Панычев Александр Юрьевич": 28,
-      "Редькин Юрий Васильевич": 61,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 372,
-      "Шустов Дмитрий Николаевич": 82,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000217943": 26,
+      "gas:candidate-vibid:355300366713": 35,
+      "gas:candidate-vibid:1001000113963": 67,
+      "gas:candidate-vibid:1001000136094": 67,
+      "gas:candidate-vibid:1001000121885": 218,
+      "gas:candidate-vibid:355300366981": 100,
+      "gas:candidate-vibid:1001000190392": 28,
+      "gas:candidate-vibid:1001000193916": 61,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 372,
+      "gas:candidate-vibid:355300366710": 82,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12846,18 +12846,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 38,
-      "Грасс Александр Викторович": 19,
-      "Ефимкин Николай Александрович": 37,
-      "Захарченко Валентина Павловна": 60,
-      "Кравец Александр Алексеевич": 157,
-      "Маевский Леонид Станиславович": 75,
-      "Панычев Александр Юрьевич": 27,
-      "Редькин Юрий Васильевич": 31,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 395,
-      "Шустов Дмитрий Николаевич": 59,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000217943": 38,
+      "gas:candidate-vibid:355300366713": 19,
+      "gas:candidate-vibid:1001000113963": 37,
+      "gas:candidate-vibid:1001000136094": 60,
+      "gas:candidate-vibid:1001000121885": 157,
+      "gas:candidate-vibid:355300366981": 75,
+      "gas:candidate-vibid:1001000190392": 27,
+      "gas:candidate-vibid:1001000193916": 31,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 395,
+      "gas:candidate-vibid:355300366710": 59,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12907,18 +12907,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 24,
-      "Грасс Александр Викторович": 21,
-      "Ефимкин Николай Александрович": 46,
-      "Захарченко Валентина Павловна": 78,
-      "Кравец Александр Алексеевич": 177,
-      "Маевский Леонид Станиславович": 93,
-      "Панычев Александр Юрьевич": 17,
-      "Редькин Юрий Васильевич": 39,
-      "Сапунов Дмитрий Валерьевич": 11,
-      "Харитонов Александр Николаевич": 263,
-      "Шустов Дмитрий Николаевич": 119,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000217943": 24,
+      "gas:candidate-vibid:355300366713": 21,
+      "gas:candidate-vibid:1001000113963": 46,
+      "gas:candidate-vibid:1001000136094": 78,
+      "gas:candidate-vibid:1001000121885": 177,
+      "gas:candidate-vibid:355300366981": 93,
+      "gas:candidate-vibid:1001000190392": 17,
+      "gas:candidate-vibid:1001000193916": 39,
+      "gas:candidate-vibid:355300366701": 11,
+      "gas:candidate-vibid:355300366707": 263,
+      "gas:candidate-vibid:355300366710": 119,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -12968,18 +12968,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 37,
-      "Грасс Александр Викторович": 22,
-      "Ефимкин Николай Александрович": 57,
-      "Захарченко Валентина Павловна": 70,
-      "Кравец Александр Алексеевич": 209,
-      "Маевский Леонид Станиславович": 71,
-      "Панычев Александр Юрьевич": 23,
-      "Редькин Юрий Васильевич": 53,
-      "Сапунов Дмитрий Валерьевич": 12,
-      "Харитонов Александр Николаевич": 300,
-      "Шустов Дмитрий Николаевич": 76,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000217943": 37,
+      "gas:candidate-vibid:355300366713": 22,
+      "gas:candidate-vibid:1001000113963": 57,
+      "gas:candidate-vibid:1001000136094": 70,
+      "gas:candidate-vibid:1001000121885": 209,
+      "gas:candidate-vibid:355300366981": 71,
+      "gas:candidate-vibid:1001000190392": 23,
+      "gas:candidate-vibid:1001000193916": 53,
+      "gas:candidate-vibid:355300366701": 12,
+      "gas:candidate-vibid:355300366707": 300,
+      "gas:candidate-vibid:355300366710": 76,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13029,18 +13029,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 38,
-      "Грасс Александр Викторович": 3,
-      "Ефимкин Николай Александрович": 25,
-      "Захарченко Валентина Павловна": 51,
-      "Кравец Александр Алексеевич": 233,
-      "Маевский Леонид Станиславович": 73,
-      "Панычев Александр Юрьевич": 12,
-      "Редькин Юрий Васильевич": 29,
-      "Сапунов Дмитрий Валерьевич": 1,
-      "Харитонов Александр Николаевич": 422,
-      "Шустов Дмитрий Николаевич": 78,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000217943": 38,
+      "gas:candidate-vibid:355300366713": 3,
+      "gas:candidate-vibid:1001000113963": 25,
+      "gas:candidate-vibid:1001000136094": 51,
+      "gas:candidate-vibid:1001000121885": 233,
+      "gas:candidate-vibid:355300366981": 73,
+      "gas:candidate-vibid:1001000190392": 12,
+      "gas:candidate-vibid:1001000193916": 29,
+      "gas:candidate-vibid:355300366701": 1,
+      "gas:candidate-vibid:355300366707": 422,
+      "gas:candidate-vibid:355300366710": 78,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13090,18 +13090,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 40,
-      "Грасс Александр Викторович": 8,
-      "Ефимкин Николай Александрович": 38,
-      "Захарченко Валентина Павловна": 68,
-      "Кравец Александр Алексеевич": 211,
-      "Маевский Леонид Станиславович": 92,
-      "Панычев Александр Юрьевич": 13,
-      "Редькин Юрий Васильевич": 16,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 571,
-      "Шустов Дмитрий Николаевич": 82,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000217943": 40,
+      "gas:candidate-vibid:355300366713": 8,
+      "gas:candidate-vibid:1001000113963": 38,
+      "gas:candidate-vibid:1001000136094": 68,
+      "gas:candidate-vibid:1001000121885": 211,
+      "gas:candidate-vibid:355300366981": 92,
+      "gas:candidate-vibid:1001000190392": 13,
+      "gas:candidate-vibid:1001000193916": 16,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 571,
+      "gas:candidate-vibid:355300366710": 82,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13151,18 +13151,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 24,
-      "Грасс Александр Викторович": 23,
-      "Ефимкин Николай Александрович": 42,
-      "Захарченко Валентина Павловна": 82,
-      "Кравец Александр Алексеевич": 131,
-      "Маевский Леонид Станиславович": 150,
-      "Панычев Александр Юрьевич": 28,
-      "Редькин Юрий Васильевич": 32,
-      "Сапунов Дмитрий Валерьевич": 12,
-      "Харитонов Александр Николаевич": 315,
-      "Шустов Дмитрий Николаевич": 88,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000217943": 24,
+      "gas:candidate-vibid:355300366713": 23,
+      "gas:candidate-vibid:1001000113963": 42,
+      "gas:candidate-vibid:1001000136094": 82,
+      "gas:candidate-vibid:1001000121885": 131,
+      "gas:candidate-vibid:355300366981": 150,
+      "gas:candidate-vibid:1001000190392": 28,
+      "gas:candidate-vibid:1001000193916": 32,
+      "gas:candidate-vibid:355300366701": 12,
+      "gas:candidate-vibid:355300366707": 315,
+      "gas:candidate-vibid:355300366710": 88,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13212,18 +13212,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 36,
-      "Грасс Александр Викторович": 33,
-      "Ефимкин Николай Александрович": 60,
-      "Захарченко Валентина Павловна": 53,
-      "Кравец Александр Алексеевич": 157,
-      "Маевский Леонид Станиславович": 201,
-      "Панычев Александр Юрьевич": 23,
-      "Редькин Юрий Васильевич": 39,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 334,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000217943": 36,
+      "gas:candidate-vibid:355300366713": 33,
+      "gas:candidate-vibid:1001000113963": 60,
+      "gas:candidate-vibid:1001000136094": 53,
+      "gas:candidate-vibid:1001000121885": 157,
+      "gas:candidate-vibid:355300366981": 201,
+      "gas:candidate-vibid:1001000190392": 23,
+      "gas:candidate-vibid:1001000193916": 39,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 334,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13273,18 +13273,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 37,
-      "Грасс Александр Викторович": 12,
-      "Ефимкин Николай Александрович": 67,
-      "Захарченко Валентина Павловна": 75,
-      "Кравец Александр Алексеевич": 156,
-      "Маевский Леонид Станиславович": 156,
-      "Панычев Александр Юрьевич": 31,
-      "Редькин Юрий Васильевич": 56,
-      "Сапунов Дмитрий Валерьевич": 16,
-      "Харитонов Александр Николаевич": 398,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000217943": 37,
+      "gas:candidate-vibid:355300366713": 12,
+      "gas:candidate-vibid:1001000113963": 67,
+      "gas:candidate-vibid:1001000136094": 75,
+      "gas:candidate-vibid:1001000121885": 156,
+      "gas:candidate-vibid:355300366981": 156,
+      "gas:candidate-vibid:1001000190392": 31,
+      "gas:candidate-vibid:1001000193916": 56,
+      "gas:candidate-vibid:355300366701": 16,
+      "gas:candidate-vibid:355300366707": 398,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13334,18 +13334,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 21,
-      "Ефимкин Николай Александрович": 34,
-      "Захарченко Валентина Павловна": 64,
-      "Кравец Александр Алексеевич": 122,
-      "Маевский Леонид Станиславович": 92,
-      "Панычев Александр Юрьевич": 26,
-      "Редькин Юрий Васильевич": 24,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 229,
-      "Шустов Дмитрий Николаевич": 66,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 21,
+      "gas:candidate-vibid:1001000113963": 34,
+      "gas:candidate-vibid:1001000136094": 64,
+      "gas:candidate-vibid:1001000121885": 122,
+      "gas:candidate-vibid:355300366981": 92,
+      "gas:candidate-vibid:1001000190392": 26,
+      "gas:candidate-vibid:1001000193916": 24,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 229,
+      "gas:candidate-vibid:355300366710": 66,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13395,18 +13395,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 58,
-      "Захарченко Валентина Павловна": 66,
-      "Кравец Александр Алексеевич": 136,
-      "Маевский Леонид Станиславович": 96,
-      "Панычев Александр Юрьевич": 21,
-      "Редькин Юрий Васильевич": 37,
-      "Сапунов Дмитрий Валерьевич": 9,
-      "Харитонов Александр Николаевич": 289,
-      "Шустов Дмитрий Николаевич": 80,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 58,
+      "gas:candidate-vibid:1001000136094": 66,
+      "gas:candidate-vibid:1001000121885": 136,
+      "gas:candidate-vibid:355300366981": 96,
+      "gas:candidate-vibid:1001000190392": 21,
+      "gas:candidate-vibid:1001000193916": 37,
+      "gas:candidate-vibid:355300366701": 9,
+      "gas:candidate-vibid:355300366707": 289,
+      "gas:candidate-vibid:355300366710": 80,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13456,18 +13456,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 26,
-      "Ефимкин Николай Александрович": 51,
-      "Захарченко Валентина Павловна": 42,
-      "Кравец Александр Алексеевич": 157,
-      "Маевский Леонид Станиславович": 133,
-      "Панычев Александр Юрьевич": 25,
-      "Редькин Юрий Васильевич": 35,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 310,
-      "Шустов Дмитрий Николаевич": 87,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 26,
+      "gas:candidate-vibid:1001000113963": 51,
+      "gas:candidate-vibid:1001000136094": 42,
+      "gas:candidate-vibid:1001000121885": 157,
+      "gas:candidate-vibid:355300366981": 133,
+      "gas:candidate-vibid:1001000190392": 25,
+      "gas:candidate-vibid:1001000193916": 35,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 310,
+      "gas:candidate-vibid:355300366710": 87,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13517,18 +13517,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 14,
-      "Ефимкин Николай Александрович": 63,
-      "Захарченко Валентина Павловна": 63,
-      "Кравец Александр Алексеевич": 178,
-      "Маевский Леонид Станиславович": 131,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 38,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 421,
-      "Шустов Дмитрий Николаевич": 74,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 14,
+      "gas:candidate-vibid:1001000113963": 63,
+      "gas:candidate-vibid:1001000136094": 63,
+      "gas:candidate-vibid:1001000121885": 178,
+      "gas:candidate-vibid:355300366981": 131,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 38,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 421,
+      "gas:candidate-vibid:355300366710": 74,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13578,18 +13578,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 4,
-      "Ефимкин Николай Александрович": 40,
-      "Захарченко Валентина Павловна": 52,
-      "Кравец Александр Алексеевич": 134,
-      "Маевский Леонид Станиславович": 77,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 31,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 331,
-      "Шустов Дмитрий Николаевич": 69,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 4,
+      "gas:candidate-vibid:1001000113963": 40,
+      "gas:candidate-vibid:1001000136094": 52,
+      "gas:candidate-vibid:1001000121885": 134,
+      "gas:candidate-vibid:355300366981": 77,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 31,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 331,
+      "gas:candidate-vibid:355300366710": 69,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13639,18 +13639,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 20,
-      "Грасс Александр Викторович": 7,
-      "Ефимкин Николай Александрович": 43,
-      "Захарченко Валентина Павловна": 41,
-      "Кравец Александр Алексеевич": 92,
-      "Маевский Леонид Станиславович": 93,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 20,
-      "Сапунов Дмитрий Валерьевич": 4,
-      "Харитонов Александр Николаевич": 242,
-      "Шустов Дмитрий Николаевич": 75,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000217943": 20,
+      "gas:candidate-vibid:355300366713": 7,
+      "gas:candidate-vibid:1001000113963": 43,
+      "gas:candidate-vibid:1001000136094": 41,
+      "gas:candidate-vibid:1001000121885": 92,
+      "gas:candidate-vibid:355300366981": 93,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 20,
+      "gas:candidate-vibid:355300366701": 4,
+      "gas:candidate-vibid:355300366707": 242,
+      "gas:candidate-vibid:355300366710": 75,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13700,18 +13700,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 31,
-      "Грасс Александр Викторович": 12,
-      "Ефимкин Николай Александрович": 53,
-      "Захарченко Валентина Павловна": 51,
-      "Кравец Александр Алексеевич": 128,
-      "Маевский Леонид Станиславович": 89,
-      "Панычев Александр Юрьевич": 23,
-      "Редькин Юрий Васильевич": 33,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 379,
-      "Шустов Дмитрий Николаевич": 68,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000217943": 31,
+      "gas:candidate-vibid:355300366713": 12,
+      "gas:candidate-vibid:1001000113963": 53,
+      "gas:candidate-vibid:1001000136094": 51,
+      "gas:candidate-vibid:1001000121885": 128,
+      "gas:candidate-vibid:355300366981": 89,
+      "gas:candidate-vibid:1001000190392": 23,
+      "gas:candidate-vibid:1001000193916": 33,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 379,
+      "gas:candidate-vibid:355300366710": 68,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13761,18 +13761,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 10,
-      "Ефимкин Николай Александрович": 38,
-      "Захарченко Валентина Павловна": 40,
-      "Кравец Александр Алексеевич": 146,
-      "Маевский Леонид Станиславович": 88,
-      "Панычев Александр Юрьевич": 18,
-      "Редькин Юрий Васильевич": 31,
-      "Сапунов Дмитрий Валерьевич": 12,
-      "Харитонов Александр Николаевич": 328,
-      "Шустов Дмитрий Николаевич": 49,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 10,
+      "gas:candidate-vibid:1001000113963": 38,
+      "gas:candidate-vibid:1001000136094": 40,
+      "gas:candidate-vibid:1001000121885": 146,
+      "gas:candidate-vibid:355300366981": 88,
+      "gas:candidate-vibid:1001000190392": 18,
+      "gas:candidate-vibid:1001000193916": 31,
+      "gas:candidate-vibid:355300366701": 12,
+      "gas:candidate-vibid:355300366707": 328,
+      "gas:candidate-vibid:355300366710": 49,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13822,18 +13822,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 16,
-      "Грасс Александр Викторович": 8,
-      "Ефимкин Николай Александрович": 40,
-      "Захарченко Валентина Павловна": 47,
-      "Кравец Александр Алексеевич": 123,
-      "Маевский Леонид Станиславович": 86,
-      "Панычев Александр Юрьевич": 25,
-      "Редькин Юрий Васильевич": 26,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 314,
-      "Шустов Дмитрий Николаевич": 75,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000217943": 16,
+      "gas:candidate-vibid:355300366713": 8,
+      "gas:candidate-vibid:1001000113963": 40,
+      "gas:candidate-vibid:1001000136094": 47,
+      "gas:candidate-vibid:1001000121885": 123,
+      "gas:candidate-vibid:355300366981": 86,
+      "gas:candidate-vibid:1001000190392": 25,
+      "gas:candidate-vibid:1001000193916": 26,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 314,
+      "gas:candidate-vibid:355300366710": 75,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13883,18 +13883,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 25,
-      "Грасс Александр Викторович": 13,
-      "Ефимкин Николай Александрович": 46,
-      "Захарченко Валентина Павловна": 56,
-      "Кравец Александр Алексеевич": 162,
-      "Маевский Леонид Станиславович": 142,
-      "Панычев Александр Юрьевич": 11,
-      "Редькин Юрий Васильевич": 31,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 369,
-      "Шустов Дмитрий Николаевич": 99,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000217943": 25,
+      "gas:candidate-vibid:355300366713": 13,
+      "gas:candidate-vibid:1001000113963": 46,
+      "gas:candidate-vibid:1001000136094": 56,
+      "gas:candidate-vibid:1001000121885": 162,
+      "gas:candidate-vibid:355300366981": 142,
+      "gas:candidate-vibid:1001000190392": 11,
+      "gas:candidate-vibid:1001000193916": 31,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 369,
+      "gas:candidate-vibid:355300366710": 99,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -13944,18 +13944,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 43,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 53,
-      "Захарченко Валентина Павловна": 69,
-      "Кравец Александр Алексеевич": 183,
-      "Маевский Леонид Станиславович": 92,
-      "Панычев Александр Юрьевич": 28,
-      "Редькин Юрий Васильевич": 37,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 337,
-      "Шустов Дмитрий Николаевич": 69,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000217943": 43,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 53,
+      "gas:candidate-vibid:1001000136094": 69,
+      "gas:candidate-vibid:1001000121885": 183,
+      "gas:candidate-vibid:355300366981": 92,
+      "gas:candidate-vibid:1001000190392": 28,
+      "gas:candidate-vibid:1001000193916": 37,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 337,
+      "gas:candidate-vibid:355300366710": 69,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14005,18 +14005,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 21,
-      "Грасс Александр Викторович": 12,
-      "Ефимкин Николай Александрович": 43,
-      "Захарченко Валентина Павловна": 58,
-      "Кравец Александр Алексеевич": 166,
-      "Маевский Леонид Станиславович": 115,
-      "Панычев Александр Юрьевич": 29,
-      "Редькин Юрий Васильевич": 39,
-      "Сапунов Дмитрий Валерьевич": 10,
-      "Харитонов Александр Николаевич": 350,
-      "Шустов Дмитрий Николаевич": 85,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000217943": 21,
+      "gas:candidate-vibid:355300366713": 12,
+      "gas:candidate-vibid:1001000113963": 43,
+      "gas:candidate-vibid:1001000136094": 58,
+      "gas:candidate-vibid:1001000121885": 166,
+      "gas:candidate-vibid:355300366981": 115,
+      "gas:candidate-vibid:1001000190392": 29,
+      "gas:candidate-vibid:1001000193916": 39,
+      "gas:candidate-vibid:355300366701": 10,
+      "gas:candidate-vibid:355300366707": 350,
+      "gas:candidate-vibid:355300366710": 85,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14066,18 +14066,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 34,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 37,
-      "Захарченко Валентина Павловна": 57,
-      "Кравец Александр Алексеевич": 145,
-      "Маевский Леонид Станиславович": 85,
-      "Панычев Александр Юрьевич": 25,
-      "Редькин Юрий Васильевич": 29,
-      "Сапунов Дмитрий Валерьевич": 12,
-      "Харитонов Александр Николаевич": 390,
-      "Шустов Дмитрий Николаевич": 50,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000217943": 34,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 37,
+      "gas:candidate-vibid:1001000136094": 57,
+      "gas:candidate-vibid:1001000121885": 145,
+      "gas:candidate-vibid:355300366981": 85,
+      "gas:candidate-vibid:1001000190392": 25,
+      "gas:candidate-vibid:1001000193916": 29,
+      "gas:candidate-vibid:355300366701": 12,
+      "gas:candidate-vibid:355300366707": 390,
+      "gas:candidate-vibid:355300366710": 50,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14127,18 +14127,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 28,
-      "Грасс Александр Викторович": 18,
-      "Ефимкин Николай Александрович": 37,
-      "Захарченко Валентина Павловна": 55,
-      "Кравец Александр Алексеевич": 182,
-      "Маевский Леонид Станиславович": 95,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 30,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 384,
-      "Шустов Дмитрий Николаевич": 73,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000217943": 28,
+      "gas:candidate-vibid:355300366713": 18,
+      "gas:candidate-vibid:1001000113963": 37,
+      "gas:candidate-vibid:1001000136094": 55,
+      "gas:candidate-vibid:1001000121885": 182,
+      "gas:candidate-vibid:355300366981": 95,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 30,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 384,
+      "gas:candidate-vibid:355300366710": 73,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14188,18 +14188,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 30,
-      "Грасс Александр Викторович": 17,
-      "Ефимкин Николай Александрович": 56,
-      "Захарченко Валентина Павловна": 53,
-      "Кравец Александр Алексеевич": 168,
-      "Маевский Леонид Станиславович": 68,
-      "Панычев Александр Юрьевич": 19,
-      "Редькин Юрий Васильевич": 33,
-      "Сапунов Дмитрий Валерьевич": 5,
-      "Харитонов Александр Николаевич": 368,
-      "Шустов Дмитрий Николаевич": 79,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000217943": 30,
+      "gas:candidate-vibid:355300366713": 17,
+      "gas:candidate-vibid:1001000113963": 56,
+      "gas:candidate-vibid:1001000136094": 53,
+      "gas:candidate-vibid:1001000121885": 168,
+      "gas:candidate-vibid:355300366981": 68,
+      "gas:candidate-vibid:1001000190392": 19,
+      "gas:candidate-vibid:1001000193916": 33,
+      "gas:candidate-vibid:355300366701": 5,
+      "gas:candidate-vibid:355300366707": 368,
+      "gas:candidate-vibid:355300366710": 79,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14249,18 +14249,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 20,
-      "Грасс Александр Викторович": 36,
-      "Ефимкин Николай Александрович": 49,
-      "Захарченко Валентина Павловна": 49,
-      "Кравец Александр Алексеевич": 196,
-      "Маевский Леонид Станиславович": 63,
-      "Панычев Александр Юрьевич": 26,
-      "Редькин Юрий Васильевич": 36,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 328,
-      "Шустов Дмитрий Николаевич": 78,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000217943": 20,
+      "gas:candidate-vibid:355300366713": 36,
+      "gas:candidate-vibid:1001000113963": 49,
+      "gas:candidate-vibid:1001000136094": 49,
+      "gas:candidate-vibid:1001000121885": 196,
+      "gas:candidate-vibid:355300366981": 63,
+      "gas:candidate-vibid:1001000190392": 26,
+      "gas:candidate-vibid:1001000193916": 36,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 328,
+      "gas:candidate-vibid:355300366710": 78,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14310,18 +14310,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 40,
-      "Грасс Александр Викторович": 60,
-      "Ефимкин Николай Александрович": 69,
-      "Захарченко Валентина Павловна": 57,
-      "Кравец Александр Алексеевич": 169,
-      "Маевский Леонид Станиславович": 120,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 42,
-      "Сапунов Дмитрий Валерьевич": 6,
-      "Харитонов Александр Николаевич": 375,
-      "Шустов Дмитрий Николаевич": 82,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000217943": 40,
+      "gas:candidate-vibid:355300366713": 60,
+      "gas:candidate-vibid:1001000113963": 69,
+      "gas:candidate-vibid:1001000136094": 57,
+      "gas:candidate-vibid:1001000121885": 169,
+      "gas:candidate-vibid:355300366981": 120,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 42,
+      "gas:candidate-vibid:355300366701": 6,
+      "gas:candidate-vibid:355300366707": 375,
+      "gas:candidate-vibid:355300366710": 82,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14371,18 +14371,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 67,
-      "Ефимкин Николай Александрович": 36,
-      "Захарченко Валентина Павловна": 46,
-      "Кравец Александр Алексеевич": 152,
-      "Маевский Леонид Станиславович": 106,
-      "Панычев Александр Юрьевич": 16,
-      "Редькин Юрий Васильевич": 37,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 263,
-      "Шустов Дмитрий Николаевич": 56,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 67,
+      "gas:candidate-vibid:1001000113963": 36,
+      "gas:candidate-vibid:1001000136094": 46,
+      "gas:candidate-vibid:1001000121885": 152,
+      "gas:candidate-vibid:355300366981": 106,
+      "gas:candidate-vibid:1001000190392": 16,
+      "gas:candidate-vibid:1001000193916": 37,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 263,
+      "gas:candidate-vibid:355300366710": 56,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14432,18 +14432,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 32,
-      "Грасс Александр Викторович": 61,
-      "Ефимкин Николай Александрович": 49,
-      "Захарченко Валентина Павловна": 68,
-      "Кравец Александр Алексеевич": 115,
-      "Маевский Леонид Станиславович": 111,
-      "Панычев Александр Юрьевич": 14,
-      "Редькин Юрий Васильевич": 38,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 278,
-      "Шустов Дмитрий Николаевич": 69,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000217943": 32,
+      "gas:candidate-vibid:355300366713": 61,
+      "gas:candidate-vibid:1001000113963": 49,
+      "gas:candidate-vibid:1001000136094": 68,
+      "gas:candidate-vibid:1001000121885": 115,
+      "gas:candidate-vibid:355300366981": 111,
+      "gas:candidate-vibid:1001000190392": 14,
+      "gas:candidate-vibid:1001000193916": 38,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 278,
+      "gas:candidate-vibid:355300366710": 69,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14493,18 +14493,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 35,
-      "Грасс Александр Викторович": 46,
-      "Ефимкин Николай Александрович": 52,
-      "Захарченко Валентина Павловна": 43,
-      "Кравец Александр Алексеевич": 155,
-      "Маевский Леонид Станиславович": 64,
-      "Панычев Александр Юрьевич": 8,
-      "Редькин Юрий Васильевич": 29,
-      "Сапунов Дмитрий Валерьевич": 8,
-      "Харитонов Александр Николаевич": 198,
-      "Шустов Дмитрий Николаевич": 81,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000217943": 35,
+      "gas:candidate-vibid:355300366713": 46,
+      "gas:candidate-vibid:1001000113963": 52,
+      "gas:candidate-vibid:1001000136094": 43,
+      "gas:candidate-vibid:1001000121885": 155,
+      "gas:candidate-vibid:355300366981": 64,
+      "gas:candidate-vibid:1001000190392": 8,
+      "gas:candidate-vibid:1001000193916": 29,
+      "gas:candidate-vibid:355300366701": 8,
+      "gas:candidate-vibid:355300366707": 198,
+      "gas:candidate-vibid:355300366710": 81,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14554,18 +14554,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 23,
-      "Грасс Александр Викторович": 70,
-      "Ефимкин Николай Александрович": 24,
-      "Захарченко Валентина Павловна": 41,
-      "Кравец Александр Алексеевич": 135,
-      "Маевский Леонид Станиславович": 111,
-      "Панычев Александр Юрьевич": 7,
-      "Редькин Юрий Васильевич": 15,
-      "Сапунов Дмитрий Валерьевич": 7,
-      "Харитонов Александр Николаевич": 273,
-      "Шустов Дмитрий Николаевич": 77,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000217943": 23,
+      "gas:candidate-vibid:355300366713": 70,
+      "gas:candidate-vibid:1001000113963": 24,
+      "gas:candidate-vibid:1001000136094": 41,
+      "gas:candidate-vibid:1001000121885": 135,
+      "gas:candidate-vibid:355300366981": 111,
+      "gas:candidate-vibid:1001000190392": 7,
+      "gas:candidate-vibid:1001000193916": 15,
+      "gas:candidate-vibid:355300366701": 7,
+      "gas:candidate-vibid:355300366707": 273,
+      "gas:candidate-vibid:355300366710": 77,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",
@@ -14615,18 +14615,18 @@ export const duma_2003_uik_428_region_55_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Горбатенко Николай Васильевич": 38,
-      "Грасс Александр Викторович": 57,
-      "Ефимкин Николай Александрович": 28,
-      "Захарченко Валентина Павловна": 50,
-      "Кравец Александр Алексеевич": 144,
-      "Маевский Леонид Станиславович": 102,
-      "Панычев Александр Юрьевич": 10,
-      "Редькин Юрий Васильевич": 31,
-      "Сапунов Дмитрий Валерьевич": 3,
-      "Харитонов Александр Николаевич": 310,
-      "Шустов Дмитрий Николаевич": 82,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000217943": 38,
+      "gas:candidate-vibid:355300366713": 57,
+      "gas:candidate-vibid:1001000113963": 28,
+      "gas:candidate-vibid:1001000136094": 50,
+      "gas:candidate-vibid:1001000121885": 144,
+      "gas:candidate-vibid:355300366981": 102,
+      "gas:candidate-vibid:1001000190392": 10,
+      "gas:candidate-vibid:1001000193916": 31,
+      "gas:candidate-vibid:355300366701": 3,
+      "gas:candidate-vibid:355300366707": 310,
+      "gas:candidate-vibid:355300366710": 82,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300366835&region=0&sub_region=0&type=429",

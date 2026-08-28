@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 109,
-      "Гризоглазов Константин Леонидович": 29,
-      "Журбин Александр Павлович": 14,
-      "Мангушева Тамара Сергеевна": 13,
-      "Олейник Дмитрий Борисович": 19,
-      "Сухой Николай Авксентьевич": 406,
-      "Южаков Владимир Николаевич": 27,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121907": 109,
+      "gas:candidate-vibid:1001000136119": 29,
+      "gas:candidate-vibid:1001000112255": 14,
+      "gas:candidate-vibid:1001000195140": 13,
+      "gas:candidate-vibid:1001000188019": 19,
+      "gas:candidate-vibid:1001000225984": 406,
+      "gas:candidate-vibid:1001000113979": 27,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 93,
-      "Гризоглазов Константин Леонидович": 27,
-      "Журбин Александр Павлович": 5,
-      "Мангушева Тамара Сергеевна": 14,
-      "Олейник Дмитрий Борисович": 11,
-      "Сухой Николай Авксентьевич": 319,
-      "Южаков Владимир Николаевич": 16,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121907": 93,
+      "gas:candidate-vibid:1001000136119": 27,
+      "gas:candidate-vibid:1001000112255": 5,
+      "gas:candidate-vibid:1001000195140": 14,
+      "gas:candidate-vibid:1001000188019": 11,
+      "gas:candidate-vibid:1001000225984": 319,
+      "gas:candidate-vibid:1001000113979": 16,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 76,
-      "Гризоглазов Константин Леонидович": 25,
-      "Журбин Александр Павлович": 8,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 11,
-      "Сухой Николай Авксентьевич": 399,
-      "Южаков Владимир Николаевич": 26,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121907": 76,
+      "gas:candidate-vibid:1001000136119": 25,
+      "gas:candidate-vibid:1001000112255": 8,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 11,
+      "gas:candidate-vibid:1001000225984": 399,
+      "gas:candidate-vibid:1001000113979": 26,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 57,
-      "Гризоглазов Константин Леонидович": 15,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 8,
-      "Сухой Николай Авксентьевич": 254,
-      "Южаков Владимир Николаевич": 24,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121907": 57,
+      "gas:candidate-vibid:1001000136119": 15,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 8,
+      "gas:candidate-vibid:1001000225984": 254,
+      "gas:candidate-vibid:1001000113979": 24,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 21,
-      "Гризоглазов Константин Леонидович": 3,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 3,
-      "Сухой Николай Авксентьевич": 107,
-      "Южаков Владимир Николаевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121907": 21,
+      "gas:candidate-vibid:1001000136119": 3,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 3,
+      "gas:candidate-vibid:1001000225984": 107,
+      "gas:candidate-vibid:1001000113979": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 22,
-      "Гризоглазов Константин Леонидович": 6,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 3,
-      "Олейник Дмитрий Борисович": 2,
-      "Сухой Николай Авксентьевич": 175,
-      "Южаков Владимир Николаевич": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121907": 22,
+      "gas:candidate-vibid:1001000136119": 6,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 3,
+      "gas:candidate-vibid:1001000188019": 2,
+      "gas:candidate-vibid:1001000225984": 175,
+      "gas:candidate-vibid:1001000113979": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 60,
-      "Гризоглазов Константин Леонидович": 12,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 3,
-      "Олейник Дмитрий Борисович": 6,
-      "Сухой Николай Авксентьевич": 164,
-      "Южаков Владимир Николаевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121907": 60,
+      "gas:candidate-vibid:1001000136119": 12,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 3,
+      "gas:candidate-vibid:1001000188019": 6,
+      "gas:candidate-vibid:1001000225984": 164,
+      "gas:candidate-vibid:1001000113979": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 43,
-      "Гризоглазов Константин Леонидович": 4,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 3,
-      "Сухой Николай Авксентьевич": 192,
-      "Южаков Владимир Николаевич": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121907": 43,
+      "gas:candidate-vibid:1001000136119": 4,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 3,
+      "gas:candidate-vibid:1001000225984": 192,
+      "gas:candidate-vibid:1001000113979": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 4,
-      "Гризоглазов Константин Леонидович": 0,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 91,
-      "Южаков Владимир Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121907": 4,
+      "gas:candidate-vibid:1001000136119": 0,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 91,
+      "gas:candidate-vibid:1001000113979": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 1,
-      "Гризоглазов Константин Леонидович": 0,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 75,
-      "Южаков Владимир Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121907": 1,
+      "gas:candidate-vibid:1001000136119": 0,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 75,
+      "gas:candidate-vibid:1001000113979": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 17,
-      "Гризоглазов Константин Леонидович": 3,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 115,
-      "Южаков Владимир Николаевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121907": 17,
+      "gas:candidate-vibid:1001000136119": 3,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 115,
+      "gas:candidate-vibid:1001000113979": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 19,
-      "Гризоглазов Константин Леонидович": 10,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 2,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 284,
-      "Южаков Владимир Николаевич": 5,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121907": 19,
+      "gas:candidate-vibid:1001000136119": 10,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 2,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 284,
+      "gas:candidate-vibid:1001000113979": 5,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 63,
-      "Гризоглазов Константин Леонидович": 5,
-      "Журбин Александр Павлович": 8,
-      "Мангушева Тамара Сергеевна": 6,
-      "Олейник Дмитрий Борисович": 4,
-      "Сухой Николай Авксентьевич": 324,
-      "Южаков Владимир Николаевич": 11,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121907": 63,
+      "gas:candidate-vibid:1001000136119": 5,
+      "gas:candidate-vibid:1001000112255": 8,
+      "gas:candidate-vibid:1001000195140": 6,
+      "gas:candidate-vibid:1001000188019": 4,
+      "gas:candidate-vibid:1001000225984": 324,
+      "gas:candidate-vibid:1001000113979": 11,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 65,
-      "Гризоглазов Константин Леонидович": 6,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 3,
-      "Олейник Дмитрий Борисович": 3,
-      "Сухой Николай Авксентьевич": 326,
-      "Южаков Владимир Николаевич": 7,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121907": 65,
+      "gas:candidate-vibid:1001000136119": 6,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 3,
+      "gas:candidate-vibid:1001000188019": 3,
+      "gas:candidate-vibid:1001000225984": 326,
+      "gas:candidate-vibid:1001000113979": 7,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 52,
-      "Гризоглазов Константин Леонидович": 8,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 3,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 271,
-      "Южаков Владимир Николаевич": 11,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121907": 52,
+      "gas:candidate-vibid:1001000136119": 8,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 3,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 271,
+      "gas:candidate-vibid:1001000113979": 11,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 61,
-      "Гризоглазов Константин Леонидович": 16,
-      "Журбин Александр Павлович": 10,
-      "Мангушева Тамара Сергеевна": 8,
-      "Олейник Дмитрий Борисович": 12,
-      "Сухой Николай Авксентьевич": 372,
-      "Южаков Владимир Николаевич": 13,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121907": 61,
+      "gas:candidate-vibid:1001000136119": 16,
+      "gas:candidate-vibid:1001000112255": 10,
+      "gas:candidate-vibid:1001000195140": 8,
+      "gas:candidate-vibid:1001000188019": 12,
+      "gas:candidate-vibid:1001000225984": 372,
+      "gas:candidate-vibid:1001000113979": 13,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 22,
-      "Гризоглазов Константин Леонидович": 10,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 8,
-      "Сухой Николай Авксентьевич": 165,
-      "Южаков Владимир Николаевич": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121907": 22,
+      "gas:candidate-vibid:1001000136119": 10,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 8,
+      "gas:candidate-vibid:1001000225984": 165,
+      "gas:candidate-vibid:1001000113979": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 43,
-      "Гризоглазов Константин Леонидович": 3,
-      "Журбин Александр Павлович": 5,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 10,
-      "Сухой Николай Авксентьевич": 183,
-      "Южаков Владимир Николаевич": 11,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121907": 43,
+      "gas:candidate-vibid:1001000136119": 3,
+      "gas:candidate-vibid:1001000112255": 5,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 10,
+      "gas:candidate-vibid:1001000225984": 183,
+      "gas:candidate-vibid:1001000113979": 11,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 19,
-      "Гризоглазов Константин Леонидович": 4,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 63,
-      "Южаков Владимир Николаевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121907": 19,
+      "gas:candidate-vibid:1001000136119": 4,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 63,
+      "gas:candidate-vibid:1001000113979": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 164,
-      "Гризоглазов Константин Леонидович": 27,
-      "Журбин Александр Павлович": 10,
-      "Мангушева Тамара Сергеевна": 5,
-      "Олейник Дмитрий Борисович": 14,
-      "Сухой Николай Авксентьевич": 368,
-      "Южаков Владимир Николаевич": 21,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121907": 164,
+      "gas:candidate-vibid:1001000136119": 27,
+      "gas:candidate-vibid:1001000112255": 10,
+      "gas:candidate-vibid:1001000195140": 5,
+      "gas:candidate-vibid:1001000188019": 14,
+      "gas:candidate-vibid:1001000225984": 368,
+      "gas:candidate-vibid:1001000113979": 21,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 72,
-      "Гризоглазов Константин Леонидович": 13,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 6,
-      "Олейник Дмитрий Борисович": 10,
-      "Сухой Николай Авксентьевич": 332,
-      "Южаков Владимир Николаевич": 26,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121907": 72,
+      "gas:candidate-vibid:1001000136119": 13,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 6,
+      "gas:candidate-vibid:1001000188019": 10,
+      "gas:candidate-vibid:1001000225984": 332,
+      "gas:candidate-vibid:1001000113979": 26,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 97,
-      "Гризоглазов Константин Леонидович": 19,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 6,
-      "Олейник Дмитрий Борисович": 5,
-      "Сухой Николай Авксентьевич": 594,
-      "Южаков Владимир Николаевич": 9,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121907": 97,
+      "gas:candidate-vibid:1001000136119": 19,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 6,
+      "gas:candidate-vibid:1001000188019": 5,
+      "gas:candidate-vibid:1001000225984": 594,
+      "gas:candidate-vibid:1001000113979": 9,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 85,
-      "Гризоглазов Константин Леонидович": 17,
-      "Журбин Александр Павлович": 4,
-      "Мангушева Тамара Сергеевна": 7,
-      "Олейник Дмитрий Борисович": 13,
-      "Сухой Николай Авксентьевич": 532,
-      "Южаков Владимир Николаевич": 7,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121907": 85,
+      "gas:candidate-vibid:1001000136119": 17,
+      "gas:candidate-vibid:1001000112255": 4,
+      "gas:candidate-vibid:1001000195140": 7,
+      "gas:candidate-vibid:1001000188019": 13,
+      "gas:candidate-vibid:1001000225984": 532,
+      "gas:candidate-vibid:1001000113979": 7,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 476,
-      "Гризоглазов Константин Леонидович": 54,
-      "Журбин Александр Павлович": 26,
-      "Мангушева Тамара Сергеевна": 9,
-      "Олейник Дмитрий Борисович": 19,
-      "Сухой Николай Авксентьевич": 705,
-      "Южаков Владимир Николаевич": 53,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121907": 476,
+      "gas:candidate-vibid:1001000136119": 54,
+      "gas:candidate-vibid:1001000112255": 26,
+      "gas:candidate-vibid:1001000195140": 9,
+      "gas:candidate-vibid:1001000188019": 19,
+      "gas:candidate-vibid:1001000225984": 705,
+      "gas:candidate-vibid:1001000113979": 53,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 56,
-      "Гризоглазов Константин Леонидович": 23,
-      "Журбин Александр Павлович": 10,
-      "Мангушева Тамара Сергеевна": 10,
-      "Олейник Дмитрий Борисович": 16,
-      "Сухой Николай Авксентьевич": 345,
-      "Южаков Владимир Николаевич": 19,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121907": 56,
+      "gas:candidate-vibid:1001000136119": 23,
+      "gas:candidate-vibid:1001000112255": 10,
+      "gas:candidate-vibid:1001000195140": 10,
+      "gas:candidate-vibid:1001000188019": 16,
+      "gas:candidate-vibid:1001000225984": 345,
+      "gas:candidate-vibid:1001000113979": 19,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 198,
-      "Гризоглазов Константин Леонидович": 41,
-      "Журбин Александр Павлович": 18,
-      "Мангушева Тамара Сергеевна": 11,
-      "Олейник Дмитрий Борисович": 15,
-      "Сухой Николай Авксентьевич": 543,
-      "Южаков Владимир Николаевич": 44,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121907": 198,
+      "gas:candidate-vibid:1001000136119": 41,
+      "gas:candidate-vibid:1001000112255": 18,
+      "gas:candidate-vibid:1001000195140": 11,
+      "gas:candidate-vibid:1001000188019": 15,
+      "gas:candidate-vibid:1001000225984": 543,
+      "gas:candidate-vibid:1001000113979": 44,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470812&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 1,
-      "Гризоглазов Константин Леонидович": 3,
-      "Журбин Александр Павлович": 4,
-      "Мангушева Тамара Сергеевна": 2,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 674,
-      "Южаков Владимир Николаевич": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121907": 1,
+      "gas:candidate-vibid:1001000136119": 3,
+      "gas:candidate-vibid:1001000112255": 4,
+      "gas:candidate-vibid:1001000195140": 2,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 674,
+      "gas:candidate-vibid:1001000113979": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 59,
-      "Гризоглазов Константин Леонидович": 12,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 5,
-      "Сухой Николай Авксентьевич": 412,
-      "Южаков Владимир Николаевич": 11,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121907": 59,
+      "gas:candidate-vibid:1001000136119": 12,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 5,
+      "gas:candidate-vibid:1001000225984": 412,
+      "gas:candidate-vibid:1001000113979": 11,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 66,
-      "Гризоглазов Константин Леонидович": 12,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 527,
-      "Южаков Владимир Николаевич": 7,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121907": 66,
+      "gas:candidate-vibid:1001000136119": 12,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 527,
+      "gas:candidate-vibid:1001000113979": 7,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 22,
-      "Гризоглазов Константин Леонидович": 6,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 224,
-      "Южаков Владимир Николаевич": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121907": 22,
+      "gas:candidate-vibid:1001000136119": 6,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 224,
+      "gas:candidate-vibid:1001000113979": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 39,
-      "Гризоглазов Константин Леонидович": 4,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 150,
-      "Южаков Владимир Николаевич": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121907": 39,
+      "gas:candidate-vibid:1001000136119": 4,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 150,
+      "gas:candidate-vibid:1001000113979": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 97,
-      "Гризоглазов Константин Леонидович": 13,
-      "Журбин Александр Павлович": 6,
-      "Мангушева Тамара Сергеевна": 6,
-      "Олейник Дмитрий Борисович": 9,
-      "Сухой Николай Авксентьевич": 259,
-      "Южаков Владимир Николаевич": 7,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121907": 97,
+      "gas:candidate-vibid:1001000136119": 13,
+      "gas:candidate-vibid:1001000112255": 6,
+      "gas:candidate-vibid:1001000195140": 6,
+      "gas:candidate-vibid:1001000188019": 9,
+      "gas:candidate-vibid:1001000225984": 259,
+      "gas:candidate-vibid:1001000113979": 7,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 7,
-      "Гризоглазов Константин Леонидович": 1,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 2,
-      "Сухой Николай Авксентьевич": 113,
-      "Южаков Владимир Николаевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121907": 7,
+      "gas:candidate-vibid:1001000136119": 1,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 2,
+      "gas:candidate-vibid:1001000225984": 113,
+      "gas:candidate-vibid:1001000113979": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 48,
-      "Гризоглазов Константин Леонидович": 9,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 13,
-      "Сухой Николай Авксентьевич": 216,
-      "Южаков Владимир Николаевич": 10,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121907": 48,
+      "gas:candidate-vibid:1001000136119": 9,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 13,
+      "gas:candidate-vibid:1001000225984": 216,
+      "gas:candidate-vibid:1001000113979": 10,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 67,
-      "Гризоглазов Константин Леонидович": 24,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 2,
-      "Олейник Дмитрий Борисович": 15,
-      "Сухой Николай Авксентьевич": 281,
-      "Южаков Владимир Николаевич": 21,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121907": 67,
+      "gas:candidate-vibid:1001000136119": 24,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 2,
+      "gas:candidate-vibid:1001000188019": 15,
+      "gas:candidate-vibid:1001000225984": 281,
+      "gas:candidate-vibid:1001000113979": 21,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 86,
-      "Гризоглазов Константин Леонидович": 18,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 11,
-      "Олейник Дмитрий Борисович": 10,
-      "Сухой Николай Авксентьевич": 394,
-      "Южаков Владимир Николаевич": 3,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121907": 86,
+      "gas:candidate-vibid:1001000136119": 18,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 11,
+      "gas:candidate-vibid:1001000188019": 10,
+      "gas:candidate-vibid:1001000225984": 394,
+      "gas:candidate-vibid:1001000113979": 3,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 2,
-      "Гризоглазов Константин Леонидович": 1,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 89,
-      "Южаков Владимир Николаевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121907": 2,
+      "gas:candidate-vibid:1001000136119": 1,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 89,
+      "gas:candidate-vibid:1001000113979": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 185,
-      "Гризоглазов Константин Леонидович": 20,
-      "Журбин Александр Павлович": 5,
-      "Мангушева Тамара Сергеевна": 11,
-      "Олейник Дмитрий Борисович": 7,
-      "Сухой Николай Авксентьевич": 219,
-      "Южаков Владимир Николаевич": 15,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121907": 185,
+      "gas:candidate-vibid:1001000136119": 20,
+      "gas:candidate-vibid:1001000112255": 5,
+      "gas:candidate-vibid:1001000195140": 11,
+      "gas:candidate-vibid:1001000188019": 7,
+      "gas:candidate-vibid:1001000225984": 219,
+      "gas:candidate-vibid:1001000113979": 15,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 67,
-      "Гризоглазов Константин Леонидович": 3,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 2,
-      "Олейник Дмитрий Борисович": 5,
-      "Сухой Николай Авксентьевич": 47,
-      "Южаков Владимир Николаевич": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121907": 67,
+      "gas:candidate-vibid:1001000136119": 3,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 2,
+      "gas:candidate-vibid:1001000188019": 5,
+      "gas:candidate-vibid:1001000225984": 47,
+      "gas:candidate-vibid:1001000113979": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 59,
-      "Гризоглазов Константин Леонидович": 7,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 8,
-      "Сухой Николай Авксентьевич": 314,
-      "Южаков Владимир Николаевич": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121907": 59,
+      "gas:candidate-vibid:1001000136119": 7,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 8,
+      "gas:candidate-vibid:1001000225984": 314,
+      "gas:candidate-vibid:1001000113979": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 80,
-      "Гризоглазов Константин Леонидович": 23,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 13,
-      "Сухой Николай Авксентьевич": 236,
-      "Южаков Владимир Николаевич": 20,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121907": 80,
+      "gas:candidate-vibid:1001000136119": 23,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 13,
+      "gas:candidate-vibid:1001000225984": 236,
+      "gas:candidate-vibid:1001000113979": 20,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 41,
-      "Гризоглазов Константин Леонидович": 5,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 5,
-      "Сухой Николай Авксентьевич": 132,
-      "Южаков Владимир Николаевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121907": 41,
+      "gas:candidate-vibid:1001000136119": 5,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 5,
+      "gas:candidate-vibid:1001000225984": 132,
+      "gas:candidate-vibid:1001000113979": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 103,
-      "Гризоглазов Константин Леонидович": 29,
-      "Журбин Александр Павлович": 5,
-      "Мангушева Тамара Сергеевна": 8,
-      "Олейник Дмитрий Борисович": 16,
-      "Сухой Николай Авксентьевич": 400,
-      "Южаков Владимир Николаевич": 6,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121907": 103,
+      "gas:candidate-vibid:1001000136119": 29,
+      "gas:candidate-vibid:1001000112255": 5,
+      "gas:candidate-vibid:1001000195140": 8,
+      "gas:candidate-vibid:1001000188019": 16,
+      "gas:candidate-vibid:1001000225984": 400,
+      "gas:candidate-vibid:1001000113979": 6,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 66,
-      "Гризоглазов Константин Леонидович": 22,
-      "Журбин Александр Павлович": 5,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 12,
-      "Сухой Николай Авксентьевич": 248,
-      "Южаков Владимир Николаевич": 10,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121907": 66,
+      "gas:candidate-vibid:1001000136119": 22,
+      "gas:candidate-vibid:1001000112255": 5,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 12,
+      "gas:candidate-vibid:1001000225984": 248,
+      "gas:candidate-vibid:1001000113979": 10,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 38,
-      "Гризоглазов Константин Леонидович": 11,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 2,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 231,
-      "Южаков Владимир Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121907": 38,
+      "gas:candidate-vibid:1001000136119": 11,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 2,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 231,
+      "gas:candidate-vibid:1001000113979": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 54,
-      "Гризоглазов Константин Леонидович": 7,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 9,
-      "Сухой Николай Авксентьевич": 401,
-      "Южаков Владимир Николаевич": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121907": 54,
+      "gas:candidate-vibid:1001000136119": 7,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 9,
+      "gas:candidate-vibid:1001000225984": 401,
+      "gas:candidate-vibid:1001000113979": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 18,
-      "Гризоглазов Константин Леонидович": 7,
-      "Журбин Александр Павлович": 7,
-      "Мангушева Тамара Сергеевна": 2,
-      "Олейник Дмитрий Борисович": 4,
-      "Сухой Николай Авксентьевич": 181,
-      "Южаков Владимир Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121907": 18,
+      "gas:candidate-vibid:1001000136119": 7,
+      "gas:candidate-vibid:1001000112255": 7,
+      "gas:candidate-vibid:1001000195140": 2,
+      "gas:candidate-vibid:1001000188019": 4,
+      "gas:candidate-vibid:1001000225984": 181,
+      "gas:candidate-vibid:1001000113979": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 188,
-      "Гризоглазов Константин Леонидович": 3,
-      "Журбин Александр Павлович": 41,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 12,
-      "Сухой Николай Авксентьевич": 501,
-      "Южаков Владимир Николаевич": 4,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121907": 188,
+      "gas:candidate-vibid:1001000136119": 3,
+      "gas:candidate-vibid:1001000112255": 41,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 12,
+      "gas:candidate-vibid:1001000225984": 501,
+      "gas:candidate-vibid:1001000113979": 4,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 143,
-      "Гризоглазов Константин Леонидович": 31,
-      "Журбин Александр Павлович": 7,
-      "Мангушева Тамара Сергеевна": 8,
-      "Олейник Дмитрий Борисович": 13,
-      "Сухой Николай Авксентьевич": 412,
-      "Южаков Владимир Николаевич": 10,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121907": 143,
+      "gas:candidate-vibid:1001000136119": 31,
+      "gas:candidate-vibid:1001000112255": 7,
+      "gas:candidate-vibid:1001000195140": 8,
+      "gas:candidate-vibid:1001000188019": 13,
+      "gas:candidate-vibid:1001000225984": 412,
+      "gas:candidate-vibid:1001000113979": 10,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 99,
-      "Гризоглазов Константин Леонидович": 4,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 3,
-      "Олейник Дмитрий Борисович": 9,
-      "Сухой Николай Авксентьевич": 161,
-      "Южаков Владимир Николаевич": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121907": 99,
+      "gas:candidate-vibid:1001000136119": 4,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 3,
+      "gas:candidate-vibid:1001000188019": 9,
+      "gas:candidate-vibid:1001000225984": 161,
+      "gas:candidate-vibid:1001000113979": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 104,
-      "Гризоглазов Константин Леонидович": 16,
-      "Журбин Александр Павлович": 5,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 6,
-      "Сухой Николай Авксентьевич": 436,
-      "Южаков Владимир Николаевич": 9,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121907": 104,
+      "gas:candidate-vibid:1001000136119": 16,
+      "gas:candidate-vibid:1001000112255": 5,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 6,
+      "gas:candidate-vibid:1001000225984": 436,
+      "gas:candidate-vibid:1001000113979": 9,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 31,
-      "Гризоглазов Константин Леонидович": 9,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 2,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 118,
-      "Южаков Владимир Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121907": 31,
+      "gas:candidate-vibid:1001000136119": 9,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 2,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 118,
+      "gas:candidate-vibid:1001000113979": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 0,
-      "Гризоглазов Константин Леонидович": 0,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 35,
-      "Южаков Владимир Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121907": 0,
+      "gas:candidate-vibid:1001000136119": 0,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 35,
+      "gas:candidate-vibid:1001000113979": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 29,
-      "Гризоглазов Константин Леонидович": 4,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 0,
-      "Сухой Николай Авксентьевич": 176,
-      "Южаков Владимир Николаевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121907": 29,
+      "gas:candidate-vibid:1001000136119": 4,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 0,
+      "gas:candidate-vibid:1001000225984": 176,
+      "gas:candidate-vibid:1001000113979": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 14,
-      "Гризоглазов Константин Леонидович": 7,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 139,
-      "Южаков Владимир Николаевич": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121907": 14,
+      "gas:candidate-vibid:1001000136119": 7,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 139,
+      "gas:candidate-vibid:1001000113979": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 5,
-      "Гризоглазов Константин Леонидович": 0,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 80,
-      "Южаков Владимир Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121907": 5,
+      "gas:candidate-vibid:1001000136119": 0,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 80,
+      "gas:candidate-vibid:1001000113979": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 13,
-      "Гризоглазов Константин Леонидович": 2,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 151,
-      "Южаков Владимир Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121907": 13,
+      "gas:candidate-vibid:1001000136119": 2,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 151,
+      "gas:candidate-vibid:1001000113979": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 48,
-      "Гризоглазов Константин Леонидович": 4,
-      "Журбин Александр Павлович": 3,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 10,
-      "Сухой Николай Авксентьевич": 156,
-      "Южаков Владимир Николаевич": 25,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121907": 48,
+      "gas:candidate-vibid:1001000136119": 4,
+      "gas:candidate-vibid:1001000112255": 3,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 10,
+      "gas:candidate-vibid:1001000225984": 156,
+      "gas:candidate-vibid:1001000113979": 25,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 147,
-      "Гризоглазов Константин Леонидович": 24,
-      "Журбин Александр Павлович": 6,
-      "Мангушева Тамара Сергеевна": 5,
-      "Олейник Дмитрий Борисович": 10,
-      "Сухой Николай Авксентьевич": 337,
-      "Южаков Владимир Николаевич": 12,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121907": 147,
+      "gas:candidate-vibid:1001000136119": 24,
+      "gas:candidate-vibid:1001000112255": 6,
+      "gas:candidate-vibid:1001000195140": 5,
+      "gas:candidate-vibid:1001000188019": 10,
+      "gas:candidate-vibid:1001000225984": 337,
+      "gas:candidate-vibid:1001000113979": 12,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 45,
-      "Гризоглазов Константин Леонидович": 8,
-      "Журбин Александр Павлович": 2,
-      "Мангушева Тамара Сергеевна": 3,
-      "Олейник Дмитрий Борисович": 5,
-      "Сухой Николай Авксентьевич": 61,
-      "Южаков Владимир Николаевич": 14,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121907": 45,
+      "gas:candidate-vibid:1001000136119": 8,
+      "gas:candidate-vibid:1001000112255": 2,
+      "gas:candidate-vibid:1001000195140": 3,
+      "gas:candidate-vibid:1001000188019": 5,
+      "gas:candidate-vibid:1001000225984": 61,
+      "gas:candidate-vibid:1001000113979": 14,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 41,
-      "Гризоглазов Константин Леонидович": 6,
-      "Журбин Александр Павлович": 1,
-      "Мангушева Тамара Сергеевна": 0,
-      "Олейник Дмитрий Борисович": 1,
-      "Сухой Николай Авксентьевич": 27,
-      "Южаков Владимир Николаевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121907": 41,
+      "gas:candidate-vibid:1001000136119": 6,
+      "gas:candidate-vibid:1001000112255": 1,
+      "gas:candidate-vibid:1001000195140": 0,
+      "gas:candidate-vibid:1001000188019": 1,
+      "gas:candidate-vibid:1001000225984": 27,
+      "gas:candidate-vibid:1001000113979": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 16,
-      "Гризоглазов Константин Леонидович": 2,
-      "Журбин Александр Павлович": 0,
-      "Мангушева Тамара Сергеевна": 1,
-      "Олейник Дмитрий Борисович": 2,
-      "Сухой Николай Авксентьевич": 75,
-      "Южаков Владимир Николаевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121907": 16,
+      "gas:candidate-vibid:1001000136119": 2,
+      "gas:candidate-vibid:1001000112255": 0,
+      "gas:candidate-vibid:1001000195140": 1,
+      "gas:candidate-vibid:1001000188019": 2,
+      "gas:candidate-vibid:1001000225984": 75,
+      "gas:candidate-vibid:1001000113979": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 146,
-      "Гризоглазов Константин Леонидович": 16,
-      "Журбин Александр Павлович": 6,
-      "Мангушева Тамара Сергеевна": 4,
-      "Олейник Дмитрий Борисович": 8,
-      "Сухой Николай Авксентьевич": 394,
-      "Южаков Владимир Николаевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121907": 146,
+      "gas:candidate-vibid:1001000136119": 16,
+      "gas:candidate-vibid:1001000112255": 6,
+      "gas:candidate-vibid:1001000195140": 4,
+      "gas:candidate-vibid:1001000188019": 8,
+      "gas:candidate-vibid:1001000225984": 394,
+      "gas:candidate-vibid:1001000113979": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 119,
-      "Гризоглазов Константин Леонидович": 16,
-      "Журбин Александр Павлович": 10,
-      "Мангушева Тамара Сергеевна": 3,
-      "Олейник Дмитрий Борисович": 8,
-      "Сухой Николай Авксентьевич": 289,
-      "Южаков Владимир Николаевич": 6,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121907": 119,
+      "gas:candidate-vibid:1001000136119": 16,
+      "gas:candidate-vibid:1001000112255": 10,
+      "gas:candidate-vibid:1001000195140": 3,
+      "gas:candidate-vibid:1001000188019": 8,
+      "gas:candidate-vibid:1001000225984": 289,
+      "gas:candidate-vibid:1001000113979": 6,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 82,
-      "Гризоглазов Константин Леонидович": 17,
-      "Журбин Александр Павлович": 6,
-      "Мангушева Тамара Сергеевна": 5,
-      "Олейник Дмитрий Борисович": 17,
-      "Сухой Николай Авксентьевич": 864,
-      "Южаков Владимир Николаевич": 19,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121907": 82,
+      "gas:candidate-vibid:1001000136119": 17,
+      "gas:candidate-vibid:1001000112255": 6,
+      "gas:candidate-vibid:1001000195140": 5,
+      "gas:candidate-vibid:1001000188019": 17,
+      "gas:candidate-vibid:1001000225984": 864,
+      "gas:candidate-vibid:1001000113979": 19,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 337,
-      "Гризоглазов Константин Леонидович": 23,
-      "Журбин Александр Павлович": 9,
-      "Мангушева Тамара Сергеевна": 5,
-      "Олейник Дмитрий Борисович": 4,
-      "Сухой Николай Авксентьевич": 244,
-      "Южаков Владимир Николаевич": 16,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121907": 337,
+      "gas:candidate-vibid:1001000136119": 23,
+      "gas:candidate-vibid:1001000112255": 9,
+      "gas:candidate-vibid:1001000195140": 5,
+      "gas:candidate-vibid:1001000188019": 4,
+      "gas:candidate-vibid:1001000225984": 244,
+      "gas:candidate-vibid:1001000113979": 16,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 153,
-      "Гризоглазов Константин Леонидович": 14,
-      "Журбин Александр Павлович": 4,
-      "Мангушева Тамара Сергеевна": 9,
-      "Олейник Дмитрий Борисович": 6,
-      "Сухой Николай Авксентьевич": 210,
-      "Южаков Владимир Николаевич": 7,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121907": 153,
+      "gas:candidate-vibid:1001000136119": 14,
+      "gas:candidate-vibid:1001000112255": 4,
+      "gas:candidate-vibid:1001000195140": 9,
+      "gas:candidate-vibid:1001000188019": 6,
+      "gas:candidate-vibid:1001000225984": 210,
+      "gas:candidate-vibid:1001000113979": 7,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 218,
-      "Гризоглазов Константин Леонидович": 28,
-      "Журбин Александр Павлович": 16,
-      "Мангушева Тамара Сергеевна": 10,
-      "Олейник Дмитрий Борисович": 30,
-      "Сухой Николай Авксентьевич": 321,
-      "Южаков Владимир Николаевич": 29,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121907": 218,
+      "gas:candidate-vibid:1001000136119": 28,
+      "gas:candidate-vibid:1001000112255": 16,
+      "gas:candidate-vibid:1001000195140": 10,
+      "gas:candidate-vibid:1001000188019": 30,
+      "gas:candidate-vibid:1001000225984": 321,
+      "gas:candidate-vibid:1001000113979": 29,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 83,
-      "Гризоглазов Константин Леонидович": 20,
-      "Журбин Александр Павлович": 8,
-      "Мангушева Тамара Сергеевна": 10,
-      "Олейник Дмитрий Борисович": 13,
-      "Сухой Николай Авксентьевич": 200,
-      "Южаков Владимир Николаевич": 13,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121907": 83,
+      "gas:candidate-vibid:1001000136119": 20,
+      "gas:candidate-vibid:1001000112255": 8,
+      "gas:candidate-vibid:1001000195140": 10,
+      "gas:candidate-vibid:1001000188019": 13,
+      "gas:candidate-vibid:1001000225984": 200,
+      "gas:candidate-vibid:1001000113979": 13,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 271,
-      "Гризоглазов Константин Леонидович": 28,
-      "Журбин Александр Павлович": 9,
-      "Мангушева Тамара Сергеевна": 9,
-      "Олейник Дмитрий Борисович": 22,
-      "Сухой Николай Авксентьевич": 267,
-      "Южаков Владимир Николаевич": 31,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121907": 271,
+      "gas:candidate-vibid:1001000136119": 28,
+      "gas:candidate-vibid:1001000112255": 9,
+      "gas:candidate-vibid:1001000195140": 9,
+      "gas:candidate-vibid:1001000188019": 22,
+      "gas:candidate-vibid:1001000225984": 267,
+      "gas:candidate-vibid:1001000113979": 31,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 208,
-      "Гризоглазов Константин Леонидович": 44,
-      "Журбин Александр Павлович": 15,
-      "Мангушева Тамара Сергеевна": 9,
-      "Олейник Дмитрий Борисович": 31,
-      "Сухой Николай Авксентьевич": 256,
-      "Южаков Владимир Николаевич": 33,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121907": 208,
+      "gas:candidate-vibid:1001000136119": 44,
+      "gas:candidate-vibid:1001000112255": 15,
+      "gas:candidate-vibid:1001000195140": 9,
+      "gas:candidate-vibid:1001000188019": 31,
+      "gas:candidate-vibid:1001000225984": 256,
+      "gas:candidate-vibid:1001000113979": 33,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 480,
-      "Гризоглазов Константин Леонидович": 67,
-      "Журбин Александр Павлович": 43,
-      "Мангушева Тамара Сергеевна": 17,
-      "Олейник Дмитрий Борисович": 56,
-      "Сухой Николай Авксентьевич": 618,
-      "Южаков Владимир Николаевич": 77,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121907": 480,
+      "gas:candidate-vibid:1001000136119": 67,
+      "gas:candidate-vibid:1001000112255": 43,
+      "gas:candidate-vibid:1001000195140": 17,
+      "gas:candidate-vibid:1001000188019": 56,
+      "gas:candidate-vibid:1001000225984": 618,
+      "gas:candidate-vibid:1001000113979": 77,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 408,
-      "Гризоглазов Константин Леонидович": 68,
-      "Журбин Александр Павлович": 30,
-      "Мангушева Тамара Сергеевна": 24,
-      "Олейник Дмитрий Борисович": 50,
-      "Сухой Николай Авксентьевич": 513,
-      "Южаков Владимир Николаевич": 43,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121907": 408,
+      "gas:candidate-vibid:1001000136119": 68,
+      "gas:candidate-vibid:1001000112255": 30,
+      "gas:candidate-vibid:1001000195140": 24,
+      "gas:candidate-vibid:1001000188019": 50,
+      "gas:candidate-vibid:1001000225984": 513,
+      "gas:candidate-vibid:1001000113979": 43,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 384,
-      "Гризоглазов Константин Леонидович": 76,
-      "Журбин Александр Павлович": 29,
-      "Мангушева Тамара Сергеевна": 23,
-      "Олейник Дмитрий Борисович": 57,
-      "Сухой Николай Авксентьевич": 456,
-      "Южаков Владимир Николаевич": 76,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000121907": 384,
+      "gas:candidate-vibid:1001000136119": 76,
+      "gas:candidate-vibid:1001000112255": 29,
+      "gas:candidate-vibid:1001000195140": 23,
+      "gas:candidate-vibid:1001000188019": 57,
+      "gas:candidate-vibid:1001000225984": 456,
+      "gas:candidate-vibid:1001000113979": 76,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 433,
-      "Гризоглазов Константин Леонидович": 62,
-      "Журбин Александр Павлович": 34,
-      "Мангушева Тамара Сергеевна": 23,
-      "Олейник Дмитрий Борисович": 44,
-      "Сухой Николай Авксентьевич": 569,
-      "Южаков Владимир Николаевич": 69,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000121907": 433,
+      "gas:candidate-vibid:1001000136119": 62,
+      "gas:candidate-vibid:1001000112255": 34,
+      "gas:candidate-vibid:1001000195140": 23,
+      "gas:candidate-vibid:1001000188019": 44,
+      "gas:candidate-vibid:1001000225984": 569,
+      "gas:candidate-vibid:1001000113979": 69,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 288,
-      "Гризоглазов Константин Леонидович": 67,
-      "Журбин Александр Павлович": 27,
-      "Мангушева Тамара Сергеевна": 21,
-      "Олейник Дмитрий Борисович": 47,
-      "Сухой Николай Авксентьевич": 419,
-      "Южаков Владимир Николаевич": 39,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121907": 288,
+      "gas:candidate-vibid:1001000136119": 67,
+      "gas:candidate-vibid:1001000112255": 27,
+      "gas:candidate-vibid:1001000195140": 21,
+      "gas:candidate-vibid:1001000188019": 47,
+      "gas:candidate-vibid:1001000225984": 419,
+      "gas:candidate-vibid:1001000113979": 39,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 332,
-      "Гризоглазов Константин Леонидович": 71,
-      "Журбин Александр Павлович": 28,
-      "Мангушева Тамара Сергеевна": 22,
-      "Олейник Дмитрий Борисович": 61,
-      "Сухой Николай Авксентьевич": 374,
-      "Южаков Владимир Николаевич": 48,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121907": 332,
+      "gas:candidate-vibid:1001000136119": 71,
+      "gas:candidate-vibid:1001000112255": 28,
+      "gas:candidate-vibid:1001000195140": 22,
+      "gas:candidate-vibid:1001000188019": 61,
+      "gas:candidate-vibid:1001000225984": 374,
+      "gas:candidate-vibid:1001000113979": 48,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_64_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 369,
-      "Гризоглазов Константин Леонидович": 97,
-      "Журбин Александр Павлович": 31,
-      "Мангушева Тамара Сергеевна": 23,
-      "Олейник Дмитрий Борисович": 66,
-      "Сухой Николай Авксентьевич": 536,
-      "Южаков Владимир Николаевич": 68,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000121907": 369,
+      "gas:candidate-vibid:1001000136119": 97,
+      "gas:candidate-vibid:1001000112255": 31,
+      "gas:candidate-vibid:1001000195140": 23,
+      "gas:candidate-vibid:1001000188019": 66,
+      "gas:candidate-vibid:1001000225984": 536,
+      "gas:candidate-vibid:1001000113979": 68,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=643004009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=364300470813&region=0&sub_region=0&type=429",

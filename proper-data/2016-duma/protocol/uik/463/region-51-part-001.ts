@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 75,
-      "Веллер Алексей Борисович": 136,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 89,
-      "Морарь Игорь Николаевич": 9,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 63
+      "gas:candidate-vibid:2512000427304": 75,
+      "gas:candidate-vibid:2512000435893": 136,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 89,
+      "gas:candidate-vibid:2512000435987": 9,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 146,
-      "Веллер Алексей Борисович": 324,
-      "Дроздов Олег Валерьевич": 29,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 160,
-      "Морарь Игорь Николаевич": 9,
-      "Пахомов Сергей Алексеевич": 28,
-      "Степахно Геннадий Васильевич": 113
+      "gas:candidate-vibid:2512000427304": 146,
+      "gas:candidate-vibid:2512000435893": 324,
+      "gas:candidate-vibid:2512000436194": 29,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 160,
+      "gas:candidate-vibid:2512000435987": 9,
+      "gas:candidate-vibid:2512000437365": 28,
+      "gas:candidate-vibid:2512000433975": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 79,
-      "Веллер Алексей Борисович": 208,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 4,
-      "Макаревич Александр Геннадьевич": 87,
-      "Морарь Игорь Николаевич": 7,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 86
+      "gas:candidate-vibid:2512000427304": 79,
+      "gas:candidate-vibid:2512000435893": 208,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 4,
+      "gas:candidate-vibid:2512000433943": 87,
+      "gas:candidate-vibid:2512000435987": 7,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 70,
-      "Веллер Алексей Борисович": 206,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 80,
-      "Морарь Игорь Николаевич": 10,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 90
+      "gas:candidate-vibid:2512000427304": 70,
+      "gas:candidate-vibid:2512000435893": 206,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 80,
+      "gas:candidate-vibid:2512000435987": 10,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 79,
-      "Веллер Алексей Борисович": 149,
-      "Дроздов Олег Валерьевич": 10,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 82,
-      "Морарь Игорь Николаевич": 9,
-      "Пахомов Сергей Алексеевич": 16,
-      "Степахно Геннадий Васильевич": 68
+      "gas:candidate-vibid:2512000427304": 79,
+      "gas:candidate-vibid:2512000435893": 149,
+      "gas:candidate-vibid:2512000436194": 10,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 82,
+      "gas:candidate-vibid:2512000435987": 9,
+      "gas:candidate-vibid:2512000437365": 16,
+      "gas:candidate-vibid:2512000433975": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 87,
-      "Веллер Алексей Борисович": 197,
-      "Дроздов Олег Валерьевич": 15,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 73,
-      "Морарь Игорь Николаевич": 10,
-      "Пахомов Сергей Алексеевич": 13,
-      "Степахно Геннадий Васильевич": 68
+      "gas:candidate-vibid:2512000427304": 87,
+      "gas:candidate-vibid:2512000435893": 197,
+      "gas:candidate-vibid:2512000436194": 15,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 73,
+      "gas:candidate-vibid:2512000435987": 10,
+      "gas:candidate-vibid:2512000437365": 13,
+      "gas:candidate-vibid:2512000433975": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 176,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 64,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 6,
-      "Степахно Геннадий Васильевич": 56
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 176,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 64,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 6,
+      "gas:candidate-vibid:2512000433975": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 60,
-      "Веллер Алексей Борисович": 215,
-      "Дроздов Олег Валерьевич": 13,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 72,
-      "Морарь Игорь Николаевич": 5,
-      "Пахомов Сергей Алексеевич": 13,
-      "Степахно Геннадий Васильевич": 52
+      "gas:candidate-vibid:2512000427304": 60,
+      "gas:candidate-vibid:2512000435893": 215,
+      "gas:candidate-vibid:2512000436194": 13,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 72,
+      "gas:candidate-vibid:2512000435987": 5,
+      "gas:candidate-vibid:2512000437365": 13,
+      "gas:candidate-vibid:2512000433975": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 62,
-      "Веллер Алексей Борисович": 189,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 83,
-      "Морарь Игорь Николаевич": 11,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 78
+      "gas:candidate-vibid:2512000427304": 62,
+      "gas:candidate-vibid:2512000435893": 189,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 83,
+      "gas:candidate-vibid:2512000435987": 11,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 72,
-      "Веллер Алексей Борисович": 175,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 93,
-      "Морарь Игорь Николаевич": 7,
-      "Пахомов Сергей Алексеевич": 19,
-      "Степахно Геннадий Васильевич": 78
+      "gas:candidate-vibid:2512000427304": 72,
+      "gas:candidate-vibid:2512000435893": 175,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 93,
+      "gas:candidate-vibid:2512000435987": 7,
+      "gas:candidate-vibid:2512000437365": 19,
+      "gas:candidate-vibid:2512000433975": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 175,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 4,
-      "Макаревич Александр Геннадьевич": 71,
-      "Морарь Игорь Николаевич": 8,
-      "Пахомов Сергей Алексеевич": 17,
-      "Степахно Геннадий Васильевич": 70
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 175,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 4,
+      "gas:candidate-vibid:2512000433943": 71,
+      "gas:candidate-vibid:2512000435987": 8,
+      "gas:candidate-vibid:2512000437365": 17,
+      "gas:candidate-vibid:2512000433975": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 66,
-      "Веллер Алексей Борисович": 197,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 3,
-      "Макаревич Александр Геннадьевич": 84,
-      "Морарь Игорь Николаевич": 6,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 79
+      "gas:candidate-vibid:2512000427304": 66,
+      "gas:candidate-vibid:2512000435893": 197,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 3,
+      "gas:candidate-vibid:2512000433943": 84,
+      "gas:candidate-vibid:2512000435987": 6,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 71,
-      "Веллер Алексей Борисович": 161,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 53,
-      "Морарь Игорь Николаевич": 5,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 66
+      "gas:candidate-vibid:2512000427304": 71,
+      "gas:candidate-vibid:2512000435893": 161,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 53,
+      "gas:candidate-vibid:2512000435987": 5,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 56,
-      "Веллер Алексей Борисович": 172,
-      "Дроздов Олег Валерьевич": 14,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 69,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 8,
-      "Степахно Геннадий Васильевич": 81
+      "gas:candidate-vibid:2512000427304": 56,
+      "gas:candidate-vibid:2512000435893": 172,
+      "gas:candidate-vibid:2512000436194": 14,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 69,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 8,
+      "gas:candidate-vibid:2512000433975": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 79,
-      "Веллер Алексей Борисович": 154,
-      "Дроздов Олег Валерьевич": 13,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 54,
-      "Морарь Игорь Николаевич": 11,
-      "Пахомов Сергей Алексеевич": 7,
-      "Степахно Геннадий Васильевич": 67
+      "gas:candidate-vibid:2512000427304": 79,
+      "gas:candidate-vibid:2512000435893": 154,
+      "gas:candidate-vibid:2512000436194": 13,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 54,
+      "gas:candidate-vibid:2512000435987": 11,
+      "gas:candidate-vibid:2512000437365": 7,
+      "gas:candidate-vibid:2512000433975": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 61,
-      "Веллер Алексей Борисович": 201,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 84,
-      "Морарь Игорь Николаевич": 8,
-      "Пахомов Сергей Алексеевич": 7,
-      "Степахно Геннадий Васильевич": 64
+      "gas:candidate-vibid:2512000427304": 61,
+      "gas:candidate-vibid:2512000435893": 201,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 84,
+      "gas:candidate-vibid:2512000435987": 8,
+      "gas:candidate-vibid:2512000437365": 7,
+      "gas:candidate-vibid:2512000433975": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 83,
-      "Веллер Алексей Борисович": 166,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 42,
-      "Морарь Игорь Николаевич": 9,
-      "Пахомов Сергей Алексеевич": 7,
-      "Степахно Геннадий Васильевич": 51
+      "gas:candidate-vibid:2512000427304": 83,
+      "gas:candidate-vibid:2512000435893": 166,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 42,
+      "gas:candidate-vibid:2512000435987": 9,
+      "gas:candidate-vibid:2512000437365": 7,
+      "gas:candidate-vibid:2512000433975": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 49,
-      "Веллер Алексей Борисович": 161,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 20,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 2,
-      "Степахно Геннадий Васильевич": 21
+      "gas:candidate-vibid:2512000427304": 49,
+      "gas:candidate-vibid:2512000435893": 161,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 20,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 2,
+      "gas:candidate-vibid:2512000433975": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 20,
-      "Веллер Алексей Борисович": 29,
-      "Дроздов Олег Валерьевич": 4,
-      "Капитонов Андрей Сергеевич": 3,
-      "Макаревич Александр Геннадьевич": 29,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 3,
-      "Степахно Геннадий Васильевич": 8
+      "gas:candidate-vibid:2512000427304": 20,
+      "gas:candidate-vibid:2512000435893": 29,
+      "gas:candidate-vibid:2512000436194": 4,
+      "gas:candidate-vibid:2512000435877": 3,
+      "gas:candidate-vibid:2512000433943": 29,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 3,
+      "gas:candidate-vibid:2512000433975": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 23,
-      "Веллер Алексей Борисович": 62,
-      "Дроздов Олег Валерьевич": 3,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 6,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 3,
-      "Степахно Геннадий Васильевич": 11
+      "gas:candidate-vibid:2512000427304": 23,
+      "gas:candidate-vibid:2512000435893": 62,
+      "gas:candidate-vibid:2512000436194": 3,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 6,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 3,
+      "gas:candidate-vibid:2512000433975": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 31,
-      "Веллер Алексей Борисович": 102,
-      "Дроздов Олег Валерьевич": 3,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 20,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 19
+      "gas:candidate-vibid:2512000427304": 31,
+      "gas:candidate-vibid:2512000435893": 102,
+      "gas:candidate-vibid:2512000436194": 3,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 20,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410387&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410387&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 78,
-      "Веллер Алексей Борисович": 286,
-      "Дроздов Олег Валерьевич": 13,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 64,
-      "Морарь Игорь Николаевич": 6,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 94
+      "gas:candidate-vibid:2512000427304": 78,
+      "gas:candidate-vibid:2512000435893": 286,
+      "gas:candidate-vibid:2512000436194": 13,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 64,
+      "gas:candidate-vibid:2512000435987": 6,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410388&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410388&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 123,
-      "Веллер Алексей Борисович": 439,
-      "Дроздов Олег Валерьевич": 27,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 91,
-      "Морарь Игорь Николаевич": 15,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 135
+      "gas:candidate-vibid:2512000427304": 123,
+      "gas:candidate-vibid:2512000435893": 439,
+      "gas:candidate-vibid:2512000436194": 27,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 91,
+      "gas:candidate-vibid:2512000435987": 15,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410388&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410388&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 82,
-      "Веллер Алексей Борисович": 343,
-      "Дроздов Олег Валерьевич": 15,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 73,
-      "Морарь Игорь Николаевич": 9,
-      "Пахомов Сергей Алексеевич": 8,
-      "Степахно Геннадий Васильевич": 92
+      "gas:candidate-vibid:2512000427304": 82,
+      "gas:candidate-vibid:2512000435893": 343,
+      "gas:candidate-vibid:2512000436194": 15,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 73,
+      "gas:candidate-vibid:2512000435987": 9,
+      "gas:candidate-vibid:2512000437365": 8,
+      "gas:candidate-vibid:2512000433975": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410388&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410388&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 133,
-      "Веллер Алексей Борисович": 454,
-      "Дроздов Олег Валерьевич": 33,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 77,
-      "Морарь Игорь Николаевич": 25,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 144
+      "gas:candidate-vibid:2512000427304": 133,
+      "gas:candidate-vibid:2512000435893": 454,
+      "gas:candidate-vibid:2512000436194": 33,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 77,
+      "gas:candidate-vibid:2512000435987": 25,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410388&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410388&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 14,
-      "Веллер Алексей Борисович": 40,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 7,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 16
+      "gas:candidate-vibid:2512000427304": 14,
+      "gas:candidate-vibid:2512000435893": 40,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 7,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410388&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410388&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 12,
-      "Веллер Алексей Борисович": 10,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 12,
+      "gas:candidate-vibid:2512000435893": 10,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410388&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410388&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 5,
-      "Веллер Алексей Борисович": 11,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 3,
-      "Степахно Геннадий Васильевич": 6
+      "gas:candidate-vibid:2512000427304": 5,
+      "gas:candidate-vibid:2512000435893": 11,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 3,
+      "gas:candidate-vibid:2512000433975": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410388&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410388&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 133,
-      "Веллер Алексей Борисович": 235,
-      "Дроздов Олег Валерьевич": 7,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 40,
-      "Морарь Игорь Николаевич": 10,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 52
+      "gas:candidate-vibid:2512000427304": 133,
+      "gas:candidate-vibid:2512000435893": 235,
+      "gas:candidate-vibid:2512000436194": 7,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 40,
+      "gas:candidate-vibid:2512000435987": 10,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410389&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410389&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 126,
-      "Веллер Алексей Борисович": 283,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 41,
-      "Морарь Игорь Николаевич": 15,
-      "Пахомов Сергей Алексеевич": 26,
-      "Степахно Геннадий Васильевич": 56
+      "gas:candidate-vibid:2512000427304": 126,
+      "gas:candidate-vibid:2512000435893": 283,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 41,
+      "gas:candidate-vibid:2512000435987": 15,
+      "gas:candidate-vibid:2512000437365": 26,
+      "gas:candidate-vibid:2512000433975": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410389&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410389&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 129,
-      "Веллер Алексей Борисович": 279,
-      "Дроздов Олег Валерьевич": 13,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 25,
-      "Морарь Игорь Николаевич": 11,
-      "Пахомов Сергей Алексеевич": 37,
-      "Степахно Геннадий Васильевич": 55
+      "gas:candidate-vibid:2512000427304": 129,
+      "gas:candidate-vibid:2512000435893": 279,
+      "gas:candidate-vibid:2512000436194": 13,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 25,
+      "gas:candidate-vibid:2512000435987": 11,
+      "gas:candidate-vibid:2512000437365": 37,
+      "gas:candidate-vibid:2512000433975": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410389&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410389&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 124,
-      "Веллер Алексей Борисович": 236,
-      "Дроздов Олег Валерьевич": 8,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 37,
-      "Морарь Игорь Николаевич": 10,
-      "Пахомов Сергей Алексеевич": 16,
-      "Степахно Геннадий Васильевич": 52
+      "gas:candidate-vibid:2512000427304": 124,
+      "gas:candidate-vibid:2512000435893": 236,
+      "gas:candidate-vibid:2512000436194": 8,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 37,
+      "gas:candidate-vibid:2512000435987": 10,
+      "gas:candidate-vibid:2512000437365": 16,
+      "gas:candidate-vibid:2512000433975": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410389&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410389&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 114,
-      "Веллер Алексей Борисович": 206,
-      "Дроздов Олег Валерьевич": 7,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 45,
-      "Морарь Игорь Николаевич": 7,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 54
+      "gas:candidate-vibid:2512000427304": 114,
+      "gas:candidate-vibid:2512000435893": 206,
+      "gas:candidate-vibid:2512000436194": 7,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 45,
+      "gas:candidate-vibid:2512000435987": 7,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410389&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410389&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 106,
-      "Веллер Алексей Борисович": 489,
-      "Дроздов Олег Валерьевич": 17,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 58,
-      "Морарь Игорь Николаевич": 19,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 93
+      "gas:candidate-vibid:2512000427304": 106,
+      "gas:candidate-vibid:2512000435893": 489,
+      "gas:candidate-vibid:2512000436194": 17,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 58,
+      "gas:candidate-vibid:2512000435987": 19,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 90,
-      "Веллер Алексей Борисович": 427,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 61,
-      "Морарь Игорь Николаевич": 14,
-      "Пахомов Сергей Алексеевич": 19,
-      "Степахно Геннадий Васильевич": 91
+      "gas:candidate-vibid:2512000427304": 90,
+      "gas:candidate-vibid:2512000435893": 427,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 61,
+      "gas:candidate-vibid:2512000435987": 14,
+      "gas:candidate-vibid:2512000437365": 19,
+      "gas:candidate-vibid:2512000433975": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 83,
-      "Веллер Алексей Борисович": 439,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 71,
-      "Морарь Игорь Николаевич": 14,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 81
+      "gas:candidate-vibid:2512000427304": 83,
+      "gas:candidate-vibid:2512000435893": 439,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 71,
+      "gas:candidate-vibid:2512000435987": 14,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 125,
-      "Веллер Алексей Борисович": 404,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 82,
-      "Морарь Игорь Николаевич": 17,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 97
+      "gas:candidate-vibid:2512000427304": 125,
+      "gas:candidate-vibid:2512000435893": 404,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 82,
+      "gas:candidate-vibid:2512000435987": 17,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 85,
-      "Веллер Алексей Борисович": 381,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 57,
-      "Морарь Игорь Николаевич": 16,
-      "Пахомов Сергей Алексеевич": 11,
-      "Степахно Геннадий Васильевич": 75
+      "gas:candidate-vibid:2512000427304": 85,
+      "gas:candidate-vibid:2512000435893": 381,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 57,
+      "gas:candidate-vibid:2512000435987": 16,
+      "gas:candidate-vibid:2512000437365": 11,
+      "gas:candidate-vibid:2512000433975": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 86,
-      "Веллер Алексей Борисович": 352,
-      "Дроздов Олег Валерьевич": 10,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 51,
-      "Морарь Игорь Николаевич": 18,
-      "Пахомов Сергей Алексеевич": 11,
-      "Степахно Геннадий Васильевич": 69
+      "gas:candidate-vibid:2512000427304": 86,
+      "gas:candidate-vibid:2512000435893": 352,
+      "gas:candidate-vibid:2512000436194": 10,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 51,
+      "gas:candidate-vibid:2512000435987": 18,
+      "gas:candidate-vibid:2512000437365": 11,
+      "gas:candidate-vibid:2512000433975": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 68,
-      "Веллер Алексей Борисович": 265,
-      "Дроздов Олег Валерьевич": 11,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 40,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 70
+      "gas:candidate-vibid:2512000427304": 68,
+      "gas:candidate-vibid:2512000435893": 265,
+      "gas:candidate-vibid:2512000436194": 11,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 40,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 313,
-      "Дроздов Олег Валерьевич": 14,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 41,
-      "Морарь Игорь Николаевич": 12,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 74
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 313,
+      "gas:candidate-vibid:2512000436194": 14,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 41,
+      "gas:candidate-vibid:2512000435987": 12,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 92,
-      "Веллер Алексей Борисович": 376,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 56,
-      "Морарь Игорь Николаевич": 20,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 77
+      "gas:candidate-vibid:2512000427304": 92,
+      "gas:candidate-vibid:2512000435893": 376,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 56,
+      "gas:candidate-vibid:2512000435987": 20,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 54,
-      "Веллер Алексей Борисович": 145,
-      "Дроздов Олег Валерьевич": 6,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 17,
-      "Морарь Игорь Николаевич": 6,
-      "Пахомов Сергей Алексеевич": 2,
-      "Степахно Геннадий Васильевич": 41
+      "gas:candidate-vibid:2512000427304": 54,
+      "gas:candidate-vibid:2512000435893": 145,
+      "gas:candidate-vibid:2512000436194": 6,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 17,
+      "gas:candidate-vibid:2512000435987": 6,
+      "gas:candidate-vibid:2512000437365": 2,
+      "gas:candidate-vibid:2512000433975": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 19,
-      "Веллер Алексей Борисович": 30,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 5,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 3,
-      "Степахно Геннадий Васильевич": 8
+      "gas:candidate-vibid:2512000427304": 19,
+      "gas:candidate-vibid:2512000435893": 30,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 5,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 3,
+      "gas:candidate-vibid:2512000433975": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 81,
-      "Веллер Алексей Борисович": 176,
-      "Дроздов Олег Валерьевич": 7,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 29,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 9,
-      "Степахно Геннадий Васильевич": 62
+      "gas:candidate-vibid:2512000427304": 81,
+      "gas:candidate-vibid:2512000435893": 176,
+      "gas:candidate-vibid:2512000436194": 7,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 29,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 9,
+      "gas:candidate-vibid:2512000433975": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410390&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410390&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 59,
-      "Веллер Алексей Борисович": 124,
-      "Дроздов Олег Валерьевич": 7,
-      "Капитонов Андрей Сергеевич": 4,
-      "Макаревич Александр Геннадьевич": 11,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 6,
-      "Степахно Геннадий Васильевич": 16
+      "gas:candidate-vibid:2512000427304": 59,
+      "gas:candidate-vibid:2512000435893": 124,
+      "gas:candidate-vibid:2512000436194": 7,
+      "gas:candidate-vibid:2512000435877": 4,
+      "gas:candidate-vibid:2512000433943": 11,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 6,
+      "gas:candidate-vibid:2512000433975": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410391&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410391&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 56,
-      "Веллер Алексей Борисович": 104,
-      "Дроздов Олег Валерьевич": 4,
-      "Капитонов Андрей Сергеевич": 3,
-      "Макаревич Александр Геннадьевич": 13,
-      "Морарь Игорь Николаевич": 3,
-      "Пахомов Сергей Алексеевич": 4,
-      "Степахно Геннадий Васильевич": 26
+      "gas:candidate-vibid:2512000427304": 56,
+      "gas:candidate-vibid:2512000435893": 104,
+      "gas:candidate-vibid:2512000436194": 4,
+      "gas:candidate-vibid:2512000435877": 3,
+      "gas:candidate-vibid:2512000433943": 13,
+      "gas:candidate-vibid:2512000435987": 3,
+      "gas:candidate-vibid:2512000437365": 4,
+      "gas:candidate-vibid:2512000433975": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410391&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410391&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 20,
-      "Веллер Алексей Борисович": 75,
-      "Дроздов Олег Валерьевич": 3,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 20,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 4,
-      "Степахно Геннадий Васильевич": 12
+      "gas:candidate-vibid:2512000427304": 20,
+      "gas:candidate-vibid:2512000435893": 75,
+      "gas:candidate-vibid:2512000436194": 3,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 20,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 4,
+      "gas:candidate-vibid:2512000433975": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410392&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410392&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 47,
-      "Веллер Алексей Борисович": 206,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 79,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 4,
-      "Степахно Геннадий Васильевич": 45
+      "gas:candidate-vibid:2512000427304": 47,
+      "gas:candidate-vibid:2512000435893": 206,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 79,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 4,
+      "gas:candidate-vibid:2512000433975": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410392&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410392&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 43,
-      "Веллер Алексей Борисович": 183,
-      "Дроздов Олег Валерьевич": 12,
-      "Капитонов Андрей Сергеевич": 4,
-      "Макаревич Александр Геннадьевич": 78,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 38
+      "gas:candidate-vibid:2512000427304": 43,
+      "gas:candidate-vibid:2512000435893": 183,
+      "gas:candidate-vibid:2512000436194": 12,
+      "gas:candidate-vibid:2512000435877": 4,
+      "gas:candidate-vibid:2512000433943": 78,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410392&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410392&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 68,
-      "Веллер Алексей Борисович": 402,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 159,
-      "Морарь Игорь Николаевич": 12,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 120
+      "gas:candidate-vibid:2512000427304": 68,
+      "gas:candidate-vibid:2512000435893": 402,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 159,
+      "gas:candidate-vibid:2512000435987": 12,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410392&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410392&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 35,
-      "Веллер Алексей Борисович": 183,
-      "Дроздов Олег Валерьевич": 5,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 25,
-      "Морарь Игорь Николаевич": 5,
-      "Пахомов Сергей Алексеевич": 5,
-      "Степахно Геннадий Васильевич": 44
+      "gas:candidate-vibid:2512000427304": 35,
+      "gas:candidate-vibid:2512000435893": 183,
+      "gas:candidate-vibid:2512000436194": 5,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 25,
+      "gas:candidate-vibid:2512000435987": 5,
+      "gas:candidate-vibid:2512000437365": 5,
+      "gas:candidate-vibid:2512000433975": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410392&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410392&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 85,
-      "Веллер Алексей Борисович": 242,
-      "Дроздов Олег Валерьевич": 21,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 75,
-      "Морарь Игорь Николаевич": 40,
-      "Пахомов Сергей Алексеевич": 25,
-      "Степахно Геннадий Васильевич": 80
+      "gas:candidate-vibid:2512000427304": 85,
+      "gas:candidate-vibid:2512000435893": 242,
+      "gas:candidate-vibid:2512000436194": 21,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 75,
+      "gas:candidate-vibid:2512000435987": 40,
+      "gas:candidate-vibid:2512000437365": 25,
+      "gas:candidate-vibid:2512000433975": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 79,
-      "Веллер Алексей Борисович": 149,
-      "Дроздов Олег Валерьевич": 12,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 60,
-      "Морарь Игорь Николаевич": 23,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 80
+      "gas:candidate-vibid:2512000427304": 79,
+      "gas:candidate-vibid:2512000435893": 149,
+      "gas:candidate-vibid:2512000436194": 12,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 60,
+      "gas:candidate-vibid:2512000435987": 23,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 117,
-      "Веллер Алексей Борисович": 321,
-      "Дроздов Олег Валерьевич": 24,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 89,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 26,
-      "Степахно Геннадий Васильевич": 106
+      "gas:candidate-vibid:2512000427304": 117,
+      "gas:candidate-vibid:2512000435893": 321,
+      "gas:candidate-vibid:2512000436194": 24,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 89,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 26,
+      "gas:candidate-vibid:2512000433975": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 219,
-      "Веллер Алексей Борисович": 485,
-      "Дроздов Олег Валерьевич": 43,
-      "Капитонов Андрей Сергеевич": 40,
-      "Макаревич Александр Геннадьевич": 59,
-      "Морарь Игорь Николаевич": 23,
-      "Пахомов Сергей Алексеевич": 52,
-      "Степахно Геннадий Васильевич": 60
+      "gas:candidate-vibid:2512000427304": 219,
+      "gas:candidate-vibid:2512000435893": 485,
+      "gas:candidate-vibid:2512000436194": 43,
+      "gas:candidate-vibid:2512000435877": 40,
+      "gas:candidate-vibid:2512000433943": 59,
+      "gas:candidate-vibid:2512000435987": 23,
+      "gas:candidate-vibid:2512000437365": 52,
+      "gas:candidate-vibid:2512000433975": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 140,
-      "Веллер Алексей Борисович": 315,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 97,
-      "Морарь Игорь Николаевич": 43,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 112
+      "gas:candidate-vibid:2512000427304": 140,
+      "gas:candidate-vibid:2512000435893": 315,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 97,
+      "gas:candidate-vibid:2512000435987": 43,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 117,
-      "Веллер Алексей Борисович": 369,
-      "Дроздов Олег Валерьевич": 22,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 88,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 30,
-      "Степахно Геннадий Васильевич": 135
+      "gas:candidate-vibid:2512000427304": 117,
+      "gas:candidate-vibid:2512000435893": 369,
+      "gas:candidate-vibid:2512000436194": 22,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 88,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 30,
+      "gas:candidate-vibid:2512000433975": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 124,
-      "Веллер Алексей Борисович": 329,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 91,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 37,
-      "Степахно Геннадий Васильевич": 139
+      "gas:candidate-vibid:2512000427304": 124,
+      "gas:candidate-vibid:2512000435893": 329,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 91,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 37,
+      "gas:candidate-vibid:2512000433975": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 101,
-      "Веллер Алексей Борисович": 343,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 19,
-      "Макаревич Александр Геннадьевич": 96,
-      "Морарь Игорь Николаевич": 50,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 114
+      "gas:candidate-vibid:2512000427304": 101,
+      "gas:candidate-vibid:2512000435893": 343,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 19,
+      "gas:candidate-vibid:2512000433943": 96,
+      "gas:candidate-vibid:2512000435987": 50,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 121,
-      "Веллер Алексей Борисович": 317,
-      "Дроздов Олег Валерьевич": 12,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 124,
-      "Морарь Игорь Николаевич": 61,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 89
+      "gas:candidate-vibid:2512000427304": 121,
+      "gas:candidate-vibid:2512000435893": 317,
+      "gas:candidate-vibid:2512000436194": 12,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 124,
+      "gas:candidate-vibid:2512000435987": 61,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 107,
-      "Веллер Алексей Борисович": 275,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 95,
-      "Морарь Игорь Николаевич": 39,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 88
+      "gas:candidate-vibid:2512000427304": 107,
+      "gas:candidate-vibid:2512000435893": 275,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 95,
+      "gas:candidate-vibid:2512000435987": 39,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 100,
-      "Веллер Алексей Борисович": 236,
-      "Дроздов Олег Валерьевич": 12,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 59,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 65
+      "gas:candidate-vibid:2512000427304": 100,
+      "gas:candidate-vibid:2512000435893": 236,
+      "gas:candidate-vibid:2512000436194": 12,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 59,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 108,
-      "Веллер Алексей Борисович": 281,
-      "Дроздов Олег Валерьевич": 23,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 84,
-      "Морарь Игорь Николаевич": 55,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 76
+      "gas:candidate-vibid:2512000427304": 108,
+      "gas:candidate-vibid:2512000435893": 281,
+      "gas:candidate-vibid:2512000436194": 23,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 84,
+      "gas:candidate-vibid:2512000435987": 55,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 117,
-      "Веллер Алексей Борисович": 296,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 94,
-      "Морарь Игорь Николаевич": 52,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 86
+      "gas:candidate-vibid:2512000427304": 117,
+      "gas:candidate-vibid:2512000435893": 296,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 94,
+      "gas:candidate-vibid:2512000435987": 52,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 103,
-      "Веллер Алексей Борисович": 287,
-      "Дроздов Олег Валерьевич": 12,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 71,
-      "Морарь Игорь Николаевич": 45,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 71
+      "gas:candidate-vibid:2512000427304": 103,
+      "gas:candidate-vibid:2512000435893": 287,
+      "gas:candidate-vibid:2512000436194": 12,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 71,
+      "gas:candidate-vibid:2512000435987": 45,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 87,
-      "Веллер Алексей Борисович": 292,
-      "Дроздов Олег Валерьевич": 15,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 107,
-      "Морарь Игорь Николаевич": 32,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 72
+      "gas:candidate-vibid:2512000427304": 87,
+      "gas:candidate-vibid:2512000435893": 292,
+      "gas:candidate-vibid:2512000436194": 15,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 107,
+      "gas:candidate-vibid:2512000435987": 32,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 93,
-      "Веллер Алексей Борисович": 269,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 97,
-      "Морарь Игорь Николаевич": 52,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 91
+      "gas:candidate-vibid:2512000427304": 93,
+      "gas:candidate-vibid:2512000435893": 269,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 97,
+      "gas:candidate-vibid:2512000435987": 52,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 111,
-      "Веллер Алексей Борисович": 329,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 91,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 117
+      "gas:candidate-vibid:2512000427304": 111,
+      "gas:candidate-vibid:2512000435893": 329,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 91,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 97,
-      "Веллер Алексей Борисович": 320,
-      "Дроздов Олег Валерьевич": 17,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 102,
-      "Морарь Игорь Николаевич": 58,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 83
+      "gas:candidate-vibid:2512000427304": 97,
+      "gas:candidate-vibid:2512000435893": 320,
+      "gas:candidate-vibid:2512000436194": 17,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 102,
+      "gas:candidate-vibid:2512000435987": 58,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 69,
-      "Веллер Алексей Борисович": 268,
-      "Дроздов Олег Валерьевич": 22,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 62,
-      "Морарь Игорь Николаевич": 49,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 66
+      "gas:candidate-vibid:2512000427304": 69,
+      "gas:candidate-vibid:2512000435893": 268,
+      "gas:candidate-vibid:2512000436194": 22,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 62,
+      "gas:candidate-vibid:2512000435987": 49,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 73,
-      "Веллер Алексей Борисович": 209,
-      "Дроздов Олег Валерьевич": 15,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 68,
-      "Морарь Игорь Николаевич": 34,
-      "Пахомов Сергей Алексеевич": 5,
-      "Степахно Геннадий Васильевич": 68
+      "gas:candidate-vibid:2512000427304": 73,
+      "gas:candidate-vibid:2512000435893": 209,
+      "gas:candidate-vibid:2512000436194": 15,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 68,
+      "gas:candidate-vibid:2512000435987": 34,
+      "gas:candidate-vibid:2512000437365": 5,
+      "gas:candidate-vibid:2512000433975": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 130,
-      "Веллер Алексей Борисович": 392,
-      "Дроздов Олег Валерьевич": 33,
-      "Капитонов Андрей Сергеевич": 19,
-      "Макаревич Александр Геннадьевич": 96,
-      "Морарь Игорь Николаевич": 70,
-      "Пахомов Сергей Алексеевич": 27,
-      "Степахно Геннадий Васильевич": 80
+      "gas:candidate-vibid:2512000427304": 130,
+      "gas:candidate-vibid:2512000435893": 392,
+      "gas:candidate-vibid:2512000436194": 33,
+      "gas:candidate-vibid:2512000435877": 19,
+      "gas:candidate-vibid:2512000433943": 96,
+      "gas:candidate-vibid:2512000435987": 70,
+      "gas:candidate-vibid:2512000437365": 27,
+      "gas:candidate-vibid:2512000433975": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 86,
-      "Веллер Алексей Борисович": 298,
-      "Дроздов Олег Валерьевич": 11,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 92,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 77
+      "gas:candidate-vibid:2512000427304": 86,
+      "gas:candidate-vibid:2512000435893": 298,
+      "gas:candidate-vibid:2512000436194": 11,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 92,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 126,
-      "Веллер Алексей Борисович": 310,
-      "Дроздов Олег Валерьевич": 24,
-      "Капитонов Андрей Сергеевич": 4,
-      "Макаревич Александр Геннадьевич": 97,
-      "Морарь Игорь Николаевич": 66,
-      "Пахомов Сергей Алексеевич": 17,
-      "Степахно Геннадий Васильевич": 90
+      "gas:candidate-vibid:2512000427304": 126,
+      "gas:candidate-vibid:2512000435893": 310,
+      "gas:candidate-vibid:2512000436194": 24,
+      "gas:candidate-vibid:2512000435877": 4,
+      "gas:candidate-vibid:2512000433943": 97,
+      "gas:candidate-vibid:2512000435987": 66,
+      "gas:candidate-vibid:2512000437365": 17,
+      "gas:candidate-vibid:2512000433975": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 133,
-      "Веллер Алексей Борисович": 358,
-      "Дроздов Олег Валерьевич": 31,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 124,
-      "Морарь Игорь Николаевич": 71,
-      "Пахомов Сергей Алексеевич": 38,
-      "Степахно Геннадий Васильевич": 115
+      "gas:candidate-vibid:2512000427304": 133,
+      "gas:candidate-vibid:2512000435893": 358,
+      "gas:candidate-vibid:2512000436194": 31,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 124,
+      "gas:candidate-vibid:2512000435987": 71,
+      "gas:candidate-vibid:2512000437365": 38,
+      "gas:candidate-vibid:2512000433975": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 121,
-      "Веллер Алексей Борисович": 358,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 123,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 26,
-      "Степахно Геннадий Васильевич": 146
+      "gas:candidate-vibid:2512000427304": 121,
+      "gas:candidate-vibid:2512000435893": 358,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 123,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 26,
+      "gas:candidate-vibid:2512000433975": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 122,
-      "Веллер Алексей Борисович": 369,
-      "Дроздов Олег Валерьевич": 15,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 106,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 34,
-      "Степахно Геннадий Васильевич": 79
+      "gas:candidate-vibid:2512000427304": 122,
+      "gas:candidate-vibid:2512000435893": 369,
+      "gas:candidate-vibid:2512000436194": 15,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 106,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 34,
+      "gas:candidate-vibid:2512000433975": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 98,
-      "Веллер Алексей Борисович": 257,
-      "Дроздов Олег Валерьевич": 17,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 82,
-      "Морарь Игорь Николаевич": 46,
-      "Пахомов Сергей Алексеевич": 13,
-      "Степахно Геннадий Васильевич": 74
+      "gas:candidate-vibid:2512000427304": 98,
+      "gas:candidate-vibid:2512000435893": 257,
+      "gas:candidate-vibid:2512000436194": 17,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 82,
+      "gas:candidate-vibid:2512000435987": 46,
+      "gas:candidate-vibid:2512000437365": 13,
+      "gas:candidate-vibid:2512000433975": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 132,
-      "Веллер Алексей Борисович": 358,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 101,
-      "Морарь Игорь Николаевич": 69,
-      "Пахомов Сергей Алексеевич": 24,
-      "Степахно Геннадий Васильевич": 121
+      "gas:candidate-vibid:2512000427304": 132,
+      "gas:candidate-vibid:2512000435893": 358,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 101,
+      "gas:candidate-vibid:2512000435987": 69,
+      "gas:candidate-vibid:2512000437365": 24,
+      "gas:candidate-vibid:2512000433975": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 91,
-      "Веллер Алексей Борисович": 271,
-      "Дроздов Олег Валерьевич": 22,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 75,
-      "Морарь Игорь Николаевич": 50,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 86
+      "gas:candidate-vibid:2512000427304": 91,
+      "gas:candidate-vibid:2512000435893": 271,
+      "gas:candidate-vibid:2512000436194": 22,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 75,
+      "gas:candidate-vibid:2512000435987": 50,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 103,
-      "Веллер Алексей Борисович": 267,
-      "Дроздов Олег Валерьевич": 17,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 80,
-      "Морарь Игорь Николаевич": 46,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 66
+      "gas:candidate-vibid:2512000427304": 103,
+      "gas:candidate-vibid:2512000435893": 267,
+      "gas:candidate-vibid:2512000436194": 17,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 80,
+      "gas:candidate-vibid:2512000435987": 46,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 2
     },
     "votes": {
-      "Белов Максим Андреевич": 62,
-      "Веллер Алексей Борисович": 170,
-      "Дроздов Олег Валерьевич": 13,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 46,
-      "Морарь Игорь Николаевич": 39,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 40
+      "gas:candidate-vibid:2512000427304": 62,
+      "gas:candidate-vibid:2512000435893": 170,
+      "gas:candidate-vibid:2512000436194": 13,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 46,
+      "gas:candidate-vibid:2512000435987": 39,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 74,
-      "Веллер Алексей Борисович": 234,
-      "Дроздов Олег Валерьевич": 15,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 60,
-      "Морарь Игорь Николаевич": 42,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 65
+      "gas:candidate-vibid:2512000427304": 74,
+      "gas:candidate-vibid:2512000435893": 234,
+      "gas:candidate-vibid:2512000436194": 15,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 60,
+      "gas:candidate-vibid:2512000435987": 42,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 186,
-      "Дроздов Олег Валерьевич": 7,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 80,
-      "Морарь Игорь Николаевич": 24,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 54
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 186,
+      "gas:candidate-vibid:2512000436194": 7,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 80,
+      "gas:candidate-vibid:2512000435987": 24,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 75,
-      "Веллер Алексей Борисович": 199,
-      "Дроздов Олег Валерьевич": 15,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 58,
-      "Морарь Игорь Николаевич": 43,
-      "Пахомов Сергей Алексеевич": 11,
-      "Степахно Геннадий Васильевич": 53
+      "gas:candidate-vibid:2512000427304": 75,
+      "gas:candidate-vibid:2512000435893": 199,
+      "gas:candidate-vibid:2512000436194": 15,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 58,
+      "gas:candidate-vibid:2512000435987": 43,
+      "gas:candidate-vibid:2512000437365": 11,
+      "gas:candidate-vibid:2512000433975": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 70,
-      "Веллер Алексей Борисович": 224,
-      "Дроздов Олег Валерьевич": 12,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 91,
-      "Морарь Игорь Николаевич": 43,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 73
+      "gas:candidate-vibid:2512000427304": 70,
+      "gas:candidate-vibid:2512000435893": 224,
+      "gas:candidate-vibid:2512000436194": 12,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 91,
+      "gas:candidate-vibid:2512000435987": 43,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 61,
-      "Веллер Алексей Борисович": 153,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 59,
-      "Морарь Игорь Николаевич": 32,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 47
+      "gas:candidate-vibid:2512000427304": 61,
+      "gas:candidate-vibid:2512000435893": 153,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 59,
+      "gas:candidate-vibid:2512000435987": 32,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 110,
-      "Веллер Алексей Борисович": 380,
-      "Дроздов Олег Валерьевич": 10,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 35,
-      "Морарь Игорь Николаевич": 41,
-      "Пахомов Сергей Алексеевич": 26,
-      "Степахно Геннадий Васильевич": 55
+      "gas:candidate-vibid:2512000427304": 110,
+      "gas:candidate-vibid:2512000435893": 380,
+      "gas:candidate-vibid:2512000436194": 10,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 35,
+      "gas:candidate-vibid:2512000435987": 41,
+      "gas:candidate-vibid:2512000437365": 26,
+      "gas:candidate-vibid:2512000433975": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 82,
-      "Веллер Алексей Борисович": 192,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 90,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 24,
-      "Степахно Геннадий Васильевич": 119
+      "gas:candidate-vibid:2512000427304": 82,
+      "gas:candidate-vibid:2512000435893": 192,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 90,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 24,
+      "gas:candidate-vibid:2512000433975": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 86,
-      "Веллер Алексей Борисович": 239,
-      "Дроздов Олег Валерьевич": 35,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 84,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 89
+      "gas:candidate-vibid:2512000427304": 86,
+      "gas:candidate-vibid:2512000435893": 239,
+      "gas:candidate-vibid:2512000436194": 35,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 84,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 79,
-      "Веллер Алексей Борисович": 177,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 71,
-      "Морарь Игорь Николаевич": 32,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 81
+      "gas:candidate-vibid:2512000427304": 79,
+      "gas:candidate-vibid:2512000435893": 177,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 71,
+      "gas:candidate-vibid:2512000435987": 32,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 95,
-      "Веллер Алексей Борисович": 288,
-      "Дроздов Олег Валерьевич": 53,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 116,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 26,
-      "Степахно Геннадий Васильевич": 139
+      "gas:candidate-vibid:2512000427304": 95,
+      "gas:candidate-vibid:2512000435893": 288,
+      "gas:candidate-vibid:2512000436194": 53,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 116,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 26,
+      "gas:candidate-vibid:2512000433975": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 52,
-      "Веллер Алексей Борисович": 208,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 64,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 89
+      "gas:candidate-vibid:2512000427304": 52,
+      "gas:candidate-vibid:2512000435893": 208,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 64,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 55,
-      "Веллер Алексей Борисович": 184,
-      "Дроздов Олег Валерьевич": 34,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 76,
-      "Морарь Игорь Николаевич": 39,
-      "Пахомов Сергей Алексеевич": 16,
-      "Степахно Геннадий Васильевич": 113
+      "gas:candidate-vibid:2512000427304": 55,
+      "gas:candidate-vibid:2512000435893": 184,
+      "gas:candidate-vibid:2512000436194": 34,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 76,
+      "gas:candidate-vibid:2512000435987": 39,
+      "gas:candidate-vibid:2512000437365": 16,
+      "gas:candidate-vibid:2512000433975": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 51,
-      "Веллер Алексей Борисович": 129,
-      "Дроздов Олег Валерьевич": 23,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 55,
-      "Морарь Игорь Николаевич": 33,
-      "Пахомов Сергей Алексеевич": 9,
-      "Степахно Геннадий Васильевич": 75
+      "gas:candidate-vibid:2512000427304": 51,
+      "gas:candidate-vibid:2512000435893": 129,
+      "gas:candidate-vibid:2512000436194": 23,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 55,
+      "gas:candidate-vibid:2512000435987": 33,
+      "gas:candidate-vibid:2512000437365": 9,
+      "gas:candidate-vibid:2512000433975": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 78,
-      "Веллер Алексей Борисович": 198,
-      "Дроздов Олег Валерьевич": 37,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 85,
-      "Морарь Игорь Николаевич": 60,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 104
+      "gas:candidate-vibid:2512000427304": 78,
+      "gas:candidate-vibid:2512000435893": 198,
+      "gas:candidate-vibid:2512000436194": 37,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 85,
+      "gas:candidate-vibid:2512000435987": 60,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 90,
-      "Веллер Алексей Борисович": 236,
-      "Дроздов Олег Валерьевич": 41,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 98,
-      "Морарь Игорь Николаевич": 54,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 140
+      "gas:candidate-vibid:2512000427304": 90,
+      "gas:candidate-vibid:2512000435893": 236,
+      "gas:candidate-vibid:2512000436194": 41,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 98,
+      "gas:candidate-vibid:2512000435987": 54,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 88,
-      "Веллер Алексей Борисович": 245,
-      "Дроздов Олег Валерьевич": 31,
-      "Капитонов Андрей Сергеевич": 15,
-      "Макаревич Александр Геннадьевич": 77,
-      "Морарь Игорь Николаевич": 50,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 109
+      "gas:candidate-vibid:2512000427304": 88,
+      "gas:candidate-vibid:2512000435893": 245,
+      "gas:candidate-vibid:2512000436194": 31,
+      "gas:candidate-vibid:2512000435877": 15,
+      "gas:candidate-vibid:2512000433943": 77,
+      "gas:candidate-vibid:2512000435987": 50,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 98,
-      "Веллер Алексей Борисович": 247,
-      "Дроздов Олег Валерьевич": 49,
-      "Капитонов Андрей Сергеевич": 15,
-      "Макаревич Александр Геннадьевич": 110,
-      "Морарь Игорь Николаевич": 69,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 143
+      "gas:candidate-vibid:2512000427304": 98,
+      "gas:candidate-vibid:2512000435893": 247,
+      "gas:candidate-vibid:2512000436194": 49,
+      "gas:candidate-vibid:2512000435877": 15,
+      "gas:candidate-vibid:2512000433943": 110,
+      "gas:candidate-vibid:2512000435987": 69,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 102,
-      "Веллер Алексей Борисович": 237,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 90,
-      "Морарь Игорь Николаевич": 32,
-      "Пахомов Сергей Алексеевич": 13,
-      "Степахно Геннадий Васильевич": 107
+      "gas:candidate-vibid:2512000427304": 102,
+      "gas:candidate-vibid:2512000435893": 237,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 90,
+      "gas:candidate-vibid:2512000435987": 32,
+      "gas:candidate-vibid:2512000437365": 13,
+      "gas:candidate-vibid:2512000433975": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 96,
-      "Веллер Алексей Борисович": 244,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 94,
-      "Морарь Игорь Николаевич": 43,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 94
+      "gas:candidate-vibid:2512000427304": 96,
+      "gas:candidate-vibid:2512000435893": 244,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 94,
+      "gas:candidate-vibid:2512000435987": 43,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 51,
-      "Веллер Алексей Борисович": 112,
-      "Дроздов Олег Валерьевич": 4,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 57,
-      "Морарь Игорь Николаевич": 32,
-      "Пахомов Сергей Алексеевич": 9,
-      "Степахно Геннадий Васильевич": 48
+      "gas:candidate-vibid:2512000427304": 51,
+      "gas:candidate-vibid:2512000435893": 112,
+      "gas:candidate-vibid:2512000436194": 4,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 57,
+      "gas:candidate-vibid:2512000435987": 32,
+      "gas:candidate-vibid:2512000437365": 9,
+      "gas:candidate-vibid:2512000433975": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 74,
-      "Веллер Алексей Борисович": 235,
-      "Дроздов Олег Валерьевич": 17,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 107,
-      "Морарь Игорь Николаевич": 38,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 76
+      "gas:candidate-vibid:2512000427304": 74,
+      "gas:candidate-vibid:2512000435893": 235,
+      "gas:candidate-vibid:2512000436194": 17,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 107,
+      "gas:candidate-vibid:2512000435987": 38,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 106,
-      "Веллер Алексей Борисович": 264,
-      "Дроздов Олег Валерьевич": 22,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 120,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 13,
-      "Степахно Геннадий Васильевич": 109
+      "gas:candidate-vibid:2512000427304": 106,
+      "gas:candidate-vibid:2512000435893": 264,
+      "gas:candidate-vibid:2512000436194": 22,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 120,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 13,
+      "gas:candidate-vibid:2512000433975": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 119,
-      "Веллер Алексей Борисович": 298,
-      "Дроздов Олег Валерьевич": 29,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 112,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 100
+      "gas:candidate-vibid:2512000427304": 119,
+      "gas:candidate-vibid:2512000435893": 298,
+      "gas:candidate-vibid:2512000436194": 29,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 112,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 97,
-      "Веллер Алексей Борисович": 278,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 138,
-      "Морарь Игорь Николаевич": 67,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 81
+      "gas:candidate-vibid:2512000427304": 97,
+      "gas:candidate-vibid:2512000435893": 278,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 138,
+      "gas:candidate-vibid:2512000435987": 67,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 135,
-      "Веллер Алексей Борисович": 316,
-      "Дроздов Олег Валерьевич": 32,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 128,
-      "Морарь Игорь Николаевич": 43,
-      "Пахомов Сергей Алексеевич": 39,
-      "Степахно Геннадий Васильевич": 114
+      "gas:candidate-vibid:2512000427304": 135,
+      "gas:candidate-vibid:2512000435893": 316,
+      "gas:candidate-vibid:2512000436194": 32,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 128,
+      "gas:candidate-vibid:2512000435987": 43,
+      "gas:candidate-vibid:2512000437365": 39,
+      "gas:candidate-vibid:2512000433975": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 122,
-      "Веллер Алексей Борисович": 279,
-      "Дроздов Олег Валерьевич": 23,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 99,
-      "Морарь Игорь Николаевич": 65,
-      "Пахомов Сергей Алексеевич": 30,
-      "Степахно Геннадий Васильевич": 122
+      "gas:candidate-vibid:2512000427304": 122,
+      "gas:candidate-vibid:2512000435893": 279,
+      "gas:candidate-vibid:2512000436194": 23,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 99,
+      "gas:candidate-vibid:2512000435987": 65,
+      "gas:candidate-vibid:2512000437365": 30,
+      "gas:candidate-vibid:2512000433975": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 125,
-      "Веллер Алексей Борисович": 265,
-      "Дроздов Олег Валерьевич": 28,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 100,
-      "Морарь Игорь Николаевич": 71,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 124
+      "gas:candidate-vibid:2512000427304": 125,
+      "gas:candidate-vibid:2512000435893": 265,
+      "gas:candidate-vibid:2512000436194": 28,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 100,
+      "gas:candidate-vibid:2512000435987": 71,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 107,
-      "Веллер Алексей Борисович": 251,
-      "Дроздов Олег Валерьевич": 32,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 108,
-      "Морарь Игорь Николаевич": 59,
-      "Пахомов Сергей Алексеевич": 31,
-      "Степахно Геннадий Васильевич": 115
+      "gas:candidate-vibid:2512000427304": 107,
+      "gas:candidate-vibid:2512000435893": 251,
+      "gas:candidate-vibid:2512000436194": 32,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 108,
+      "gas:candidate-vibid:2512000435987": 59,
+      "gas:candidate-vibid:2512000437365": 31,
+      "gas:candidate-vibid:2512000433975": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 115,
-      "Веллер Алексей Борисович": 281,
-      "Дроздов Олег Валерьевич": 33,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 110,
-      "Морарь Игорь Николаевич": 76,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 96
+      "gas:candidate-vibid:2512000427304": 115,
+      "gas:candidate-vibid:2512000435893": 281,
+      "gas:candidate-vibid:2512000436194": 33,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 110,
+      "gas:candidate-vibid:2512000435987": 76,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 85,
-      "Веллер Алексей Борисович": 261,
-      "Дроздов Олег Валерьевич": 35,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 95,
-      "Морарь Игорь Николаевич": 80,
-      "Пахомов Сергей Алексеевич": 24,
-      "Степахно Геннадий Васильевич": 107
+      "gas:candidate-vibid:2512000427304": 85,
+      "gas:candidate-vibid:2512000435893": 261,
+      "gas:candidate-vibid:2512000436194": 35,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 95,
+      "gas:candidate-vibid:2512000435987": 80,
+      "gas:candidate-vibid:2512000437365": 24,
+      "gas:candidate-vibid:2512000433975": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 85,
-      "Веллер Алексей Борисович": 216,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 67,
-      "Морарь Игорь Николаевич": 55,
-      "Пахомов Сергей Алексеевич": 16,
-      "Степахно Геннадий Васильевич": 85
+      "gas:candidate-vibid:2512000427304": 85,
+      "gas:candidate-vibid:2512000435893": 216,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 67,
+      "gas:candidate-vibid:2512000435987": 55,
+      "gas:candidate-vibid:2512000437365": 16,
+      "gas:candidate-vibid:2512000433975": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 92,
-      "Веллер Алексей Борисович": 216,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 76,
-      "Морарь Игорь Николаевич": 57,
-      "Пахомов Сергей Алексеевич": 16,
-      "Степахно Геннадий Васильевич": 97
+      "gas:candidate-vibid:2512000427304": 92,
+      "gas:candidate-vibid:2512000435893": 216,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 76,
+      "gas:candidate-vibid:2512000435987": 57,
+      "gas:candidate-vibid:2512000437365": 16,
+      "gas:candidate-vibid:2512000433975": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 90,
-      "Веллер Алексей Борисович": 264,
-      "Дроздов Олег Валерьевич": 31,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 84,
-      "Морарь Игорь Николаевич": 49,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 98
+      "gas:candidate-vibid:2512000427304": 90,
+      "gas:candidate-vibid:2512000435893": 264,
+      "gas:candidate-vibid:2512000436194": 31,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 84,
+      "gas:candidate-vibid:2512000435987": 49,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 72,
-      "Веллер Алексей Борисович": 256,
-      "Дроздов Олег Валерьевич": 27,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 85,
-      "Морарь Игорь Николаевич": 71,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 105
+      "gas:candidate-vibid:2512000427304": 72,
+      "gas:candidate-vibid:2512000435893": 256,
+      "gas:candidate-vibid:2512000436194": 27,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 85,
+      "gas:candidate-vibid:2512000435987": 71,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 85,
-      "Веллер Алексей Борисович": 264,
-      "Дроздов Олег Валерьевич": 33,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 93,
-      "Морарь Игорь Николаевич": 80,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 107
+      "gas:candidate-vibid:2512000427304": 85,
+      "gas:candidate-vibid:2512000435893": 264,
+      "gas:candidate-vibid:2512000436194": 33,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 93,
+      "gas:candidate-vibid:2512000435987": 80,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 90,
-      "Веллер Алексей Борисович": 259,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 70,
-      "Морарь Игорь Николаевич": 35,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 75
+      "gas:candidate-vibid:2512000427304": 90,
+      "gas:candidate-vibid:2512000435893": 259,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 70,
+      "gas:candidate-vibid:2512000435987": 35,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 115,
-      "Веллер Алексей Борисович": 266,
-      "Дроздов Олег Валерьевич": 28,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 84,
-      "Морарь Игорь Николаевич": 46,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 110
+      "gas:candidate-vibid:2512000427304": 115,
+      "gas:candidate-vibid:2512000435893": 266,
+      "gas:candidate-vibid:2512000436194": 28,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 84,
+      "gas:candidate-vibid:2512000435987": 46,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 103,
-      "Веллер Алексей Борисович": 251,
-      "Дроздов Олег Валерьевич": 40,
-      "Капитонов Андрей Сергеевич": 17,
-      "Макаревич Александр Геннадьевич": 93,
-      "Морарь Игорь Николаевич": 45,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 116
+      "gas:candidate-vibid:2512000427304": 103,
+      "gas:candidate-vibid:2512000435893": 251,
+      "gas:candidate-vibid:2512000436194": 40,
+      "gas:candidate-vibid:2512000435877": 17,
+      "gas:candidate-vibid:2512000433943": 93,
+      "gas:candidate-vibid:2512000435987": 45,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 101,
-      "Веллер Алексей Борисович": 242,
-      "Дроздов Олег Валерьевич": 24,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 82,
-      "Морарь Игорь Николаевич": 47,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 99
+      "gas:candidate-vibid:2512000427304": 101,
+      "gas:candidate-vibid:2512000435893": 242,
+      "gas:candidate-vibid:2512000436194": 24,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 82,
+      "gas:candidate-vibid:2512000435987": 47,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 86,
-      "Веллер Алексей Борисович": 192,
-      "Дроздов Олег Валерьевич": 24,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 70,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 83
+      "gas:candidate-vibid:2512000427304": 86,
+      "gas:candidate-vibid:2512000435893": 192,
+      "gas:candidate-vibid:2512000436194": 24,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 70,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 70,
-      "Веллер Алексей Борисович": 194,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 15,
-      "Макаревич Александр Геннадьевич": 79,
-      "Морарь Игорь Николаевич": 49,
-      "Пахомов Сергей Алексеевич": 9,
-      "Степахно Геннадий Васильевич": 102
+      "gas:candidate-vibid:2512000427304": 70,
+      "gas:candidate-vibid:2512000435893": 194,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 15,
+      "gas:candidate-vibid:2512000433943": 79,
+      "gas:candidate-vibid:2512000435987": 49,
+      "gas:candidate-vibid:2512000437365": 9,
+      "gas:candidate-vibid:2512000433975": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 222,
-      "Дроздов Олег Валерьевич": 21,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 98,
-      "Морарь Игорь Николаевич": 45,
-      "Пахомов Сергей Алексеевич": 19,
-      "Степахно Геннадий Васильевич": 105
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 222,
+      "gas:candidate-vibid:2512000436194": 21,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 98,
+      "gas:candidate-vibid:2512000435987": 45,
+      "gas:candidate-vibid:2512000437365": 19,
+      "gas:candidate-vibid:2512000433975": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 85,
-      "Веллер Алексей Борисович": 187,
-      "Дроздов Олег Валерьевич": 21,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 97,
-      "Морарь Игорь Николаевич": 41,
-      "Пахомов Сергей Алексеевич": 11,
-      "Степахно Геннадий Васильевич": 75
+      "gas:candidate-vibid:2512000427304": 85,
+      "gas:candidate-vibid:2512000435893": 187,
+      "gas:candidate-vibid:2512000436194": 21,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 97,
+      "gas:candidate-vibid:2512000435987": 41,
+      "gas:candidate-vibid:2512000437365": 11,
+      "gas:candidate-vibid:2512000433975": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 111,
-      "Веллер Алексей Борисович": 258,
-      "Дроздов Олег Валерьевич": 38,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 92,
-      "Морарь Игорь Николаевич": 64,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 126
+      "gas:candidate-vibid:2512000427304": 111,
+      "gas:candidate-vibid:2512000435893": 258,
+      "gas:candidate-vibid:2512000436194": 38,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 92,
+      "gas:candidate-vibid:2512000435987": 64,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 180,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 68,
-      "Морарь Игорь Николаевич": 36,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 92
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 180,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 68,
+      "gas:candidate-vibid:2512000435987": 36,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 63,
-      "Веллер Алексей Борисович": 124,
-      "Дроздов Олег Валерьевич": 12,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 45,
-      "Морарь Игорь Николаевич": 37,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 84
+      "gas:candidate-vibid:2512000427304": 63,
+      "gas:candidate-vibid:2512000435893": 124,
+      "gas:candidate-vibid:2512000436194": 12,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 45,
+      "gas:candidate-vibid:2512000435987": 37,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 102,
-      "Веллер Алексей Борисович": 269,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 80,
-      "Морарь Игорь Николаевич": 66,
-      "Пахомов Сергей Алексеевич": 26,
-      "Степахно Геннадий Васильевич": 127
+      "gas:candidate-vibid:2512000427304": 102,
+      "gas:candidate-vibid:2512000435893": 269,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 80,
+      "gas:candidate-vibid:2512000435987": 66,
+      "gas:candidate-vibid:2512000437365": 26,
+      "gas:candidate-vibid:2512000433975": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 90,
-      "Веллер Алексей Борисович": 173,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 70,
-      "Морарь Игорь Николаевич": 25,
-      "Пахомов Сергей Алексеевич": 11,
-      "Степахно Геннадий Васильевич": 91
+      "gas:candidate-vibid:2512000427304": 90,
+      "gas:candidate-vibid:2512000435893": 173,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 70,
+      "gas:candidate-vibid:2512000435987": 25,
+      "gas:candidate-vibid:2512000437365": 11,
+      "gas:candidate-vibid:2512000433975": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 108,
-      "Веллер Алексей Борисович": 220,
-      "Дроздов Олег Валерьевич": 10,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 63,
-      "Морарь Игорь Николаевич": 42,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 75
+      "gas:candidate-vibid:2512000427304": 108,
+      "gas:candidate-vibid:2512000435893": 220,
+      "gas:candidate-vibid:2512000436194": 10,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 63,
+      "gas:candidate-vibid:2512000435987": 42,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 96,
-      "Веллер Алексей Борисович": 177,
-      "Дроздов Олег Валерьевич": 8,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 57,
-      "Морарь Игорь Николаевич": 22,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 74
+      "gas:candidate-vibid:2512000427304": 96,
+      "gas:candidate-vibid:2512000435893": 177,
+      "gas:candidate-vibid:2512000436194": 8,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 57,
+      "gas:candidate-vibid:2512000435987": 22,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 45,
-      "Веллер Алексей Борисович": 189,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 54,
-      "Морарь Игорь Николаевич": 48,
-      "Пахомов Сергей Алексеевич": 17,
-      "Степахно Геннадий Васильевич": 84
+      "gas:candidate-vibid:2512000427304": 45,
+      "gas:candidate-vibid:2512000435893": 189,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 54,
+      "gas:candidate-vibid:2512000435987": 48,
+      "gas:candidate-vibid:2512000437365": 17,
+      "gas:candidate-vibid:2512000433975": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 44,
-      "Веллер Алексей Борисович": 66,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 14,
-      "Морарь Игорь Николаевич": 8,
-      "Пахомов Сергей Алексеевич": 2,
-      "Степахно Геннадий Васильевич": 24
+      "gas:candidate-vibid:2512000427304": 44,
+      "gas:candidate-vibid:2512000435893": 66,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 14,
+      "gas:candidate-vibid:2512000435987": 8,
+      "gas:candidate-vibid:2512000437365": 2,
+      "gas:candidate-vibid:2512000433975": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 68,
-      "Веллер Алексей Борисович": 165,
-      "Дроздов Олег Валерьевич": 13,
-      "Капитонов Андрей Сергеевич": 3,
-      "Макаревич Александр Геннадьевич": 36,
-      "Морарь Игорь Николаевич": 16,
-      "Пахомов Сергей Алексеевич": 8,
-      "Степахно Геннадий Васильевич": 63
+      "gas:candidate-vibid:2512000427304": 68,
+      "gas:candidate-vibid:2512000435893": 165,
+      "gas:candidate-vibid:2512000436194": 13,
+      "gas:candidate-vibid:2512000435877": 3,
+      "gas:candidate-vibid:2512000433943": 36,
+      "gas:candidate-vibid:2512000435987": 16,
+      "gas:candidate-vibid:2512000437365": 8,
+      "gas:candidate-vibid:2512000433975": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 100,
-      "Веллер Алексей Борисович": 217,
-      "Дроздов Олег Валерьевич": 21,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 58,
-      "Морарь Игорь Николаевич": 47,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 76
+      "gas:candidate-vibid:2512000427304": 100,
+      "gas:candidate-vibid:2512000435893": 217,
+      "gas:candidate-vibid:2512000436194": 21,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 58,
+      "gas:candidate-vibid:2512000435987": 47,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 66,
-      "Веллер Алексей Борисович": 220,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 64,
-      "Морарь Игорь Николаевич": 34,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 84
+      "gas:candidate-vibid:2512000427304": 66,
+      "gas:candidate-vibid:2512000435893": 220,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 64,
+      "gas:candidate-vibid:2512000435987": 34,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 115,
-      "Веллер Алексей Борисович": 240,
-      "Дроздов Олег Валерьевич": 22,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 82,
-      "Морарь Игорь Николаевич": 69,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 125
+      "gas:candidate-vibid:2512000427304": 115,
+      "gas:candidate-vibid:2512000435893": 240,
+      "gas:candidate-vibid:2512000436194": 22,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 82,
+      "gas:candidate-vibid:2512000435987": 69,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 102,
-      "Веллер Алексей Борисович": 191,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 66,
-      "Морарь Игорь Николаевич": 33,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 86
+      "gas:candidate-vibid:2512000427304": 102,
+      "gas:candidate-vibid:2512000435893": 191,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 66,
+      "gas:candidate-vibid:2512000435987": 33,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 98,
-      "Веллер Алексей Борисович": 237,
-      "Дроздов Олег Валерьевич": 17,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 78,
-      "Морарь Игорь Николаевич": 55,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 98
+      "gas:candidate-vibid:2512000427304": 98,
+      "gas:candidate-vibid:2512000435893": 237,
+      "gas:candidate-vibid:2512000436194": 17,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 78,
+      "gas:candidate-vibid:2512000435987": 55,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 96,
-      "Веллер Алексей Борисович": 300,
-      "Дроздов Олег Валерьевич": 30,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 87,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 29,
-      "Степахно Геннадий Васильевич": 131
+      "gas:candidate-vibid:2512000427304": 96,
+      "gas:candidate-vibid:2512000435893": 300,
+      "gas:candidate-vibid:2512000436194": 30,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 87,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 29,
+      "gas:candidate-vibid:2512000433975": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 79,
-      "Веллер Алексей Борисович": 214,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 61,
-      "Морарь Игорь Николаевич": 41,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 96
+      "gas:candidate-vibid:2512000427304": 79,
+      "gas:candidate-vibid:2512000435893": 214,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 61,
+      "gas:candidate-vibid:2512000435987": 41,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 62,
-      "Веллер Алексей Борисович": 149,
-      "Дроздов Олег Валерьевич": 23,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 49,
-      "Морарь Игорь Николаевич": 66,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 105
+      "gas:candidate-vibid:2512000427304": 62,
+      "gas:candidate-vibid:2512000435893": 149,
+      "gas:candidate-vibid:2512000436194": 23,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 49,
+      "gas:candidate-vibid:2512000435987": 66,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 136,
-      "Веллер Алексей Борисович": 279,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 77,
-      "Морарь Игорь Николаевич": 65,
-      "Пахомов Сергей Алексеевич": 28,
-      "Степахно Геннадий Васильевич": 118
+      "gas:candidate-vibid:2512000427304": 136,
+      "gas:candidate-vibid:2512000435893": 279,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 77,
+      "gas:candidate-vibid:2512000435987": 65,
+      "gas:candidate-vibid:2512000437365": 28,
+      "gas:candidate-vibid:2512000433975": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 103,
-      "Веллер Алексей Борисович": 288,
-      "Дроздов Олег Валерьевич": 23,
-      "Капитонов Андрей Сергеевич": 17,
-      "Макаревич Александр Геннадьевич": 91,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 116
+      "gas:candidate-vibid:2512000427304": 103,
+      "gas:candidate-vibid:2512000435893": 288,
+      "gas:candidate-vibid:2512000436194": 23,
+      "gas:candidate-vibid:2512000435877": 17,
+      "gas:candidate-vibid:2512000433943": 91,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 100,
-      "Веллер Алексей Борисович": 253,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 96,
-      "Морарь Игорь Николаевич": 61,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 99
+      "gas:candidate-vibid:2512000427304": 100,
+      "gas:candidate-vibid:2512000435893": 253,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 96,
+      "gas:candidate-vibid:2512000435987": 61,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 79,
-      "Веллер Алексей Борисович": 196,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 76,
-      "Морарь Игорь Николаевич": 36,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 77
+      "gas:candidate-vibid:2512000427304": 79,
+      "gas:candidate-vibid:2512000435893": 196,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 76,
+      "gas:candidate-vibid:2512000435987": 36,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 205,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 74,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 102
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 205,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 74,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 91,
-      "Веллер Алексей Борисович": 275,
-      "Дроздов Олег Валерьевич": 23,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 77,
-      "Морарь Игорь Николаевич": 33,
-      "Пахомов Сергей Алексеевич": 16,
-      "Степахно Геннадий Васильевич": 109
+      "gas:candidate-vibid:2512000427304": 91,
+      "gas:candidate-vibid:2512000435893": 275,
+      "gas:candidate-vibid:2512000436194": 23,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 77,
+      "gas:candidate-vibid:2512000435987": 33,
+      "gas:candidate-vibid:2512000437365": 16,
+      "gas:candidate-vibid:2512000433975": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 76,
-      "Веллер Алексей Борисович": 255,
-      "Дроздов Олег Валерьевич": 28,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 83,
-      "Морарь Игорь Николаевич": 50,
-      "Пахомов Сергей Алексеевич": 24,
-      "Степахно Геннадий Васильевич": 108
+      "gas:candidate-vibid:2512000427304": 76,
+      "gas:candidate-vibid:2512000435893": 255,
+      "gas:candidate-vibid:2512000436194": 28,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 83,
+      "gas:candidate-vibid:2512000435987": 50,
+      "gas:candidate-vibid:2512000437365": 24,
+      "gas:candidate-vibid:2512000433975": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 116,
-      "Веллер Алексей Борисович": 277,
-      "Дроздов Олег Валерьевич": 36,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 105,
-      "Морарь Игорь Николаевич": 61,
-      "Пахомов Сергей Алексеевич": 30,
-      "Степахно Геннадий Васильевич": 122
+      "gas:candidate-vibid:2512000427304": 116,
+      "gas:candidate-vibid:2512000435893": 277,
+      "gas:candidate-vibid:2512000436194": 36,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 105,
+      "gas:candidate-vibid:2512000435987": 61,
+      "gas:candidate-vibid:2512000437365": 30,
+      "gas:candidate-vibid:2512000433975": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 99,
-      "Веллер Алексей Борисович": 234,
-      "Дроздов Олег Валерьевич": 31,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 88,
-      "Морарь Игорь Николаевич": 72,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 89
+      "gas:candidate-vibid:2512000427304": 99,
+      "gas:candidate-vibid:2512000435893": 234,
+      "gas:candidate-vibid:2512000436194": 31,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 88,
+      "gas:candidate-vibid:2512000435987": 72,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 95,
-      "Веллер Алексей Борисович": 252,
-      "Дроздов Олег Валерьевич": 14,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 82,
-      "Морарь Игорь Николаевич": 52,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 109
+      "gas:candidate-vibid:2512000427304": 95,
+      "gas:candidate-vibid:2512000435893": 252,
+      "gas:candidate-vibid:2512000436194": 14,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 82,
+      "gas:candidate-vibid:2512000435987": 52,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 95,
-      "Веллер Алексей Борисович": 212,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 68,
-      "Морарь Игорь Николаевич": 61,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 78
+      "gas:candidate-vibid:2512000427304": 95,
+      "gas:candidate-vibid:2512000435893": 212,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 68,
+      "gas:candidate-vibid:2512000435987": 61,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 103,
-      "Веллер Алексей Борисович": 307,
-      "Дроздов Олег Валерьевич": 14,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 121,
-      "Морарь Игорь Николаевич": 48,
-      "Пахомов Сергей Алексеевич": 19,
-      "Степахно Геннадий Васильевич": 121
+      "gas:candidate-vibid:2512000427304": 103,
+      "gas:candidate-vibid:2512000435893": 307,
+      "gas:candidate-vibid:2512000436194": 14,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 121,
+      "gas:candidate-vibid:2512000435987": 48,
+      "gas:candidate-vibid:2512000437365": 19,
+      "gas:candidate-vibid:2512000433975": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 121,
-      "Веллер Алексей Борисович": 298,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 106,
-      "Морарь Игорь Николаевич": 50,
-      "Пахомов Сергей Алексеевич": 17,
-      "Степахно Геннадий Васильевич": 98
+      "gas:candidate-vibid:2512000427304": 121,
+      "gas:candidate-vibid:2512000435893": 298,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 106,
+      "gas:candidate-vibid:2512000435987": 50,
+      "gas:candidate-vibid:2512000437365": 17,
+      "gas:candidate-vibid:2512000433975": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 99,
-      "Веллер Алексей Борисович": 311,
-      "Дроздов Олег Валерьевич": 16,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 105,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 19,
-      "Степахно Геннадий Васильевич": 131
+      "gas:candidate-vibid:2512000427304": 99,
+      "gas:candidate-vibid:2512000435893": 311,
+      "gas:candidate-vibid:2512000436194": 16,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 105,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 19,
+      "gas:candidate-vibid:2512000433975": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 120,
-      "Веллер Алексей Борисович": 276,
-      "Дроздов Олег Валерьевич": 24,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 96,
-      "Морарь Игорь Николаевич": 62,
-      "Пахомов Сергей Алексеевич": 28,
-      "Степахно Геннадий Васильевич": 108
+      "gas:candidate-vibid:2512000427304": 120,
+      "gas:candidate-vibid:2512000435893": 276,
+      "gas:candidate-vibid:2512000436194": 24,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 96,
+      "gas:candidate-vibid:2512000435987": 62,
+      "gas:candidate-vibid:2512000437365": 28,
+      "gas:candidate-vibid:2512000433975": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 101,
-      "Веллер Алексей Борисович": 269,
-      "Дроздов Олег Валерьевич": 30,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 77,
-      "Морарь Игорь Николаевич": 72,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 126
+      "gas:candidate-vibid:2512000427304": 101,
+      "gas:candidate-vibid:2512000435893": 269,
+      "gas:candidate-vibid:2512000436194": 30,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 77,
+      "gas:candidate-vibid:2512000435987": 72,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 101,
-      "Веллер Алексей Борисович": 290,
-      "Дроздов Олег Валерьевич": 24,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 74,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 93
+      "gas:candidate-vibid:2512000427304": 101,
+      "gas:candidate-vibid:2512000435893": 290,
+      "gas:candidate-vibid:2512000436194": 24,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 74,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 117,
-      "Веллер Алексей Борисович": 320,
-      "Дроздов Олег Валерьевич": 27,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 97,
-      "Морарь Игорь Николаевич": 58,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 113
+      "gas:candidate-vibid:2512000427304": 117,
+      "gas:candidate-vibid:2512000435893": 320,
+      "gas:candidate-vibid:2512000436194": 27,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 97,
+      "gas:candidate-vibid:2512000435987": 58,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 106,
-      "Веллер Алексей Борисович": 248,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 77,
-      "Морарь Игорь Николаевич": 54,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 129
+      "gas:candidate-vibid:2512000427304": 106,
+      "gas:candidate-vibid:2512000435893": 248,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 77,
+      "gas:candidate-vibid:2512000435987": 54,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 113,
-      "Веллер Алексей Борисович": 344,
-      "Дроздов Олег Валерьевич": 21,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 80,
-      "Морарь Игорь Николаевич": 73,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 105
+      "gas:candidate-vibid:2512000427304": 113,
+      "gas:candidate-vibid:2512000435893": 344,
+      "gas:candidate-vibid:2512000436194": 21,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 80,
+      "gas:candidate-vibid:2512000435987": 73,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 125,
-      "Веллер Алексей Борисович": 312,
-      "Дроздов Олег Валерьевич": 29,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 111,
-      "Морарь Игорь Николаевич": 55,
-      "Пахомов Сергей Алексеевич": 29,
-      "Степахно Геннадий Васильевич": 130
+      "gas:candidate-vibid:2512000427304": 125,
+      "gas:candidate-vibid:2512000435893": 312,
+      "gas:candidate-vibid:2512000436194": 29,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 111,
+      "gas:candidate-vibid:2512000435987": 55,
+      "gas:candidate-vibid:2512000437365": 29,
+      "gas:candidate-vibid:2512000433975": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 101,
-      "Веллер Алексей Борисович": 263,
-      "Дроздов Олег Валерьевич": 21,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 78,
-      "Морарь Игорь Николаевич": 56,
-      "Пахомов Сергей Алексеевич": 17,
-      "Степахно Геннадий Васильевич": 127
+      "gas:candidate-vibid:2512000427304": 101,
+      "gas:candidate-vibid:2512000435893": 263,
+      "gas:candidate-vibid:2512000436194": 21,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 78,
+      "gas:candidate-vibid:2512000435987": 56,
+      "gas:candidate-vibid:2512000437365": 17,
+      "gas:candidate-vibid:2512000433975": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 107,
-      "Веллер Алексей Борисович": 267,
-      "Дроздов Олег Валерьевич": 28,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 69,
-      "Морарь Игорь Николаевич": 45,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 109
+      "gas:candidate-vibid:2512000427304": 107,
+      "gas:candidate-vibid:2512000435893": 267,
+      "gas:candidate-vibid:2512000436194": 28,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 69,
+      "gas:candidate-vibid:2512000435987": 45,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 113,
-      "Веллер Алексей Борисович": 283,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 82,
-      "Морарь Игорь Николаевич": 64,
-      "Пахомов Сергей Алексеевич": 19,
-      "Степахно Геннадий Васильевич": 117
+      "gas:candidate-vibid:2512000427304": 113,
+      "gas:candidate-vibid:2512000435893": 283,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 82,
+      "gas:candidate-vibid:2512000435987": 64,
+      "gas:candidate-vibid:2512000437365": 19,
+      "gas:candidate-vibid:2512000433975": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 132,
-      "Веллер Алексей Борисович": 283,
-      "Дроздов Олег Валерьевич": 41,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 97,
-      "Морарь Игорь Николаевич": 40,
-      "Пахомов Сергей Алексеевич": 25,
-      "Степахно Геннадий Васильевич": 85
+      "gas:candidate-vibid:2512000427304": 132,
+      "gas:candidate-vibid:2512000435893": 283,
+      "gas:candidate-vibid:2512000436194": 41,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 97,
+      "gas:candidate-vibid:2512000435987": 40,
+      "gas:candidate-vibid:2512000437365": 25,
+      "gas:candidate-vibid:2512000433975": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 73,
-      "Веллер Алексей Борисович": 230,
-      "Дроздов Олег Валерьевич": 20,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 64,
-      "Морарь Игорь Николаевич": 41,
-      "Пахомов Сергей Алексеевич": 17,
-      "Степахно Геннадий Васильевич": 72
+      "gas:candidate-vibid:2512000427304": 73,
+      "gas:candidate-vibid:2512000435893": 230,
+      "gas:candidate-vibid:2512000436194": 20,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 64,
+      "gas:candidate-vibid:2512000435987": 41,
+      "gas:candidate-vibid:2512000437365": 17,
+      "gas:candidate-vibid:2512000433975": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 105,
-      "Веллер Алексей Борисович": 276,
-      "Дроздов Олег Валерьевич": 23,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 78,
-      "Морарь Игорь Николаевич": 44,
-      "Пахомов Сергей Алексеевич": 20,
-      "Степахно Геннадий Васильевич": 88
+      "gas:candidate-vibid:2512000427304": 105,
+      "gas:candidate-vibid:2512000435893": 276,
+      "gas:candidate-vibid:2512000436194": 23,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 78,
+      "gas:candidate-vibid:2512000435987": 44,
+      "gas:candidate-vibid:2512000437365": 20,
+      "gas:candidate-vibid:2512000433975": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 119,
-      "Веллер Алексей Борисович": 414,
-      "Дроздов Олег Валерьевич": 34,
-      "Капитонов Андрей Сергеевич": 18,
-      "Макаревич Александр Геннадьевич": 90,
-      "Морарь Игорь Николаевич": 60,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 106
+      "gas:candidate-vibid:2512000427304": 119,
+      "gas:candidate-vibid:2512000435893": 414,
+      "gas:candidate-vibid:2512000436194": 34,
+      "gas:candidate-vibid:2512000435877": 18,
+      "gas:candidate-vibid:2512000433943": 90,
+      "gas:candidate-vibid:2512000435987": 60,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 96,
-      "Веллер Алексей Борисович": 256,
-      "Дроздов Олег Валерьевич": 27,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 67,
-      "Морарь Игорь Николаевич": 41,
-      "Пахомов Сергей Алексеевич": 21,
-      "Степахно Геннадий Васильевич": 107
+      "gas:candidate-vibid:2512000427304": 96,
+      "gas:candidate-vibid:2512000435893": 256,
+      "gas:candidate-vibid:2512000436194": 27,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 67,
+      "gas:candidate-vibid:2512000435987": 41,
+      "gas:candidate-vibid:2512000437365": 21,
+      "gas:candidate-vibid:2512000433975": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 104,
-      "Веллер Алексей Борисович": 268,
-      "Дроздов Олег Валерьевич": 26,
-      "Капитонов Андрей Сергеевич": 7,
-      "Макаревич Александр Геннадьевич": 80,
-      "Морарь Игорь Николаевич": 37,
-      "Пахомов Сергей Алексеевич": 23,
-      "Степахно Геннадий Васильевич": 85
+      "gas:candidate-vibid:2512000427304": 104,
+      "gas:candidate-vibid:2512000435893": 268,
+      "gas:candidate-vibid:2512000436194": 26,
+      "gas:candidate-vibid:2512000435877": 7,
+      "gas:candidate-vibid:2512000433943": 80,
+      "gas:candidate-vibid:2512000435987": 37,
+      "gas:candidate-vibid:2512000437365": 23,
+      "gas:candidate-vibid:2512000433975": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 101,
-      "Веллер Алексей Борисович": 332,
-      "Дроздов Олег Валерьевич": 22,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 74,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 97
+      "gas:candidate-vibid:2512000427304": 101,
+      "gas:candidate-vibid:2512000435893": 332,
+      "gas:candidate-vibid:2512000436194": 22,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 74,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 88,
-      "Веллер Алексей Борисович": 330,
-      "Дроздов Олег Валерьевич": 18,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 76,
-      "Морарь Игорь Николаевич": 65,
-      "Пахомов Сергей Алексеевич": 15,
-      "Степахно Геннадий Васильевич": 114
+      "gas:candidate-vibid:2512000427304": 88,
+      "gas:candidate-vibid:2512000435893": 330,
+      "gas:candidate-vibid:2512000436194": 18,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 76,
+      "gas:candidate-vibid:2512000435987": 65,
+      "gas:candidate-vibid:2512000437365": 15,
+      "gas:candidate-vibid:2512000433975": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 111,
-      "Веллер Алексей Борисович": 302,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 14,
-      "Макаревич Александр Геннадьевич": 92,
-      "Морарь Игорь Николаевич": 67,
-      "Пахомов Сергей Алексеевич": 19,
-      "Степахно Геннадий Васильевич": 85
+      "gas:candidate-vibid:2512000427304": 111,
+      "gas:candidate-vibid:2512000435893": 302,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 14,
+      "gas:candidate-vibid:2512000433943": 92,
+      "gas:candidate-vibid:2512000435987": 67,
+      "gas:candidate-vibid:2512000437365": 19,
+      "gas:candidate-vibid:2512000433975": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 109,
-      "Веллер Алексей Борисович": 279,
-      "Дроздов Олег Валерьевич": 17,
-      "Капитонов Андрей Сергеевич": 12,
-      "Макаревич Александр Геннадьевич": 86,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 12,
-      "Степахно Геннадий Васильевич": 115
+      "gas:candidate-vibid:2512000427304": 109,
+      "gas:candidate-vibid:2512000435893": 279,
+      "gas:candidate-vibid:2512000436194": 17,
+      "gas:candidate-vibid:2512000435877": 12,
+      "gas:candidate-vibid:2512000433943": 86,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 12,
+      "gas:candidate-vibid:2512000433975": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 110,
-      "Веллер Алексей Борисович": 268,
-      "Дроздов Олег Валерьевич": 25,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 62,
-      "Морарь Игорь Николаевич": 53,
-      "Пахомов Сергей Алексеевич": 29,
-      "Степахно Геннадий Васильевич": 99
+      "gas:candidate-vibid:2512000427304": 110,
+      "gas:candidate-vibid:2512000435893": 268,
+      "gas:candidate-vibid:2512000436194": 25,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 62,
+      "gas:candidate-vibid:2512000435987": 53,
+      "gas:candidate-vibid:2512000437365": 29,
+      "gas:candidate-vibid:2512000433975": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 115,
-      "Веллер Алексей Борисович": 326,
-      "Дроздов Олег Валерьевич": 27,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 96,
-      "Морарь Игорь Николаевич": 65,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 104
+      "gas:candidate-vibid:2512000427304": 115,
+      "gas:candidate-vibid:2512000435893": 326,
+      "gas:candidate-vibid:2512000436194": 27,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 96,
+      "gas:candidate-vibid:2512000435987": 65,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 154,
-      "Веллер Алексей Борисович": 338,
-      "Дроздов Олег Валерьевич": 29,
-      "Капитонов Андрей Сергеевич": 16,
-      "Макаревич Александр Геннадьевич": 92,
-      "Морарь Игорь Николаевич": 60,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 153
+      "gas:candidate-vibid:2512000427304": 154,
+      "gas:candidate-vibid:2512000435893": 338,
+      "gas:candidate-vibid:2512000436194": 29,
+      "gas:candidate-vibid:2512000435877": 16,
+      "gas:candidate-vibid:2512000433943": 92,
+      "gas:candidate-vibid:2512000435987": 60,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 122,
-      "Веллер Алексей Борисович": 336,
-      "Дроздов Олег Валерьевич": 27,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 86,
-      "Морарь Игорь Николаевич": 75,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 128
+      "gas:candidate-vibid:2512000427304": 122,
+      "gas:candidate-vibid:2512000435893": 336,
+      "gas:candidate-vibid:2512000436194": 27,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 86,
+      "gas:candidate-vibid:2512000435987": 75,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 141,
-      "Веллер Алексей Борисович": 319,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 11,
-      "Макаревич Александр Геннадьевич": 79,
-      "Морарь Игорь Николаевич": 47,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 84
+      "gas:candidate-vibid:2512000427304": 141,
+      "gas:candidate-vibid:2512000435893": 319,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 11,
+      "gas:candidate-vibid:2512000433943": 79,
+      "gas:candidate-vibid:2512000435987": 47,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 67,
-      "Веллер Алексей Борисович": 162,
-      "Дроздов Олег Валерьевич": 7,
-      "Капитонов Андрей Сергеевич": 9,
-      "Макаревич Александр Геннадьевич": 38,
-      "Морарь Игорь Николаевич": 20,
-      "Пахомов Сергей Алексеевич": 8,
-      "Степахно Геннадий Васильевич": 66
+      "gas:candidate-vibid:2512000427304": 67,
+      "gas:candidate-vibid:2512000435893": 162,
+      "gas:candidate-vibid:2512000436194": 7,
+      "gas:candidate-vibid:2512000435877": 9,
+      "gas:candidate-vibid:2512000433943": 38,
+      "gas:candidate-vibid:2512000435987": 20,
+      "gas:candidate-vibid:2512000437365": 8,
+      "gas:candidate-vibid:2512000433975": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 119,
-      "Веллер Алексей Борисович": 323,
-      "Дроздов Олег Валерьевич": 19,
-      "Капитонов Андрей Сергеевич": 10,
-      "Макаревич Александр Геннадьевич": 63,
-      "Морарь Игорь Николаевич": 20,
-      "Пахомов Сергей Алексеевич": 22,
-      "Степахно Геннадий Васильевич": 73
+      "gas:candidate-vibid:2512000427304": 119,
+      "gas:candidate-vibid:2512000435893": 323,
+      "gas:candidate-vibid:2512000436194": 19,
+      "gas:candidate-vibid:2512000435877": 10,
+      "gas:candidate-vibid:2512000433943": 63,
+      "gas:candidate-vibid:2512000435987": 20,
+      "gas:candidate-vibid:2512000437365": 22,
+      "gas:candidate-vibid:2512000433975": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 105,
-      "Веллер Алексей Борисович": 298,
-      "Дроздов Олег Валерьевич": 13,
-      "Капитонов Андрей Сергеевич": 6,
-      "Макаревич Александр Геннадьевич": 33,
-      "Морарь Игорь Николаевич": 32,
-      "Пахомов Сергей Алексеевич": 14,
-      "Степахно Геннадий Васильевич": 65
+      "gas:candidate-vibid:2512000427304": 105,
+      "gas:candidate-vibid:2512000435893": 298,
+      "gas:candidate-vibid:2512000436194": 13,
+      "gas:candidate-vibid:2512000435877": 6,
+      "gas:candidate-vibid:2512000433943": 33,
+      "gas:candidate-vibid:2512000435987": 32,
+      "gas:candidate-vibid:2512000437365": 14,
+      "gas:candidate-vibid:2512000433975": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 87,
-      "Веллер Алексей Борисович": 291,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 54,
-      "Морарь Игорь Николаевич": 26,
-      "Пахомов Сергей Алексеевич": 10,
-      "Степахно Геннадий Васильевич": 64
+      "gas:candidate-vibid:2512000427304": 87,
+      "gas:candidate-vibid:2512000435893": 291,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 54,
+      "gas:candidate-vibid:2512000435987": 26,
+      "gas:candidate-vibid:2512000437365": 10,
+      "gas:candidate-vibid:2512000433975": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 102,
-      "Веллер Алексей Борисович": 319,
-      "Дроздов Олег Валерьевич": 10,
-      "Капитонов Андрей Сергеевич": 13,
-      "Макаревич Александр Геннадьевич": 55,
-      "Морарь Игорь Николаевич": 27,
-      "Пахомов Сергей Алексеевич": 18,
-      "Степахно Геннадий Васильевич": 91
+      "gas:candidate-vibid:2512000427304": 102,
+      "gas:candidate-vibid:2512000435893": 319,
+      "gas:candidate-vibid:2512000436194": 10,
+      "gas:candidate-vibid:2512000435877": 13,
+      "gas:candidate-vibid:2512000433943": 55,
+      "gas:candidate-vibid:2512000435987": 27,
+      "gas:candidate-vibid:2512000437365": 18,
+      "gas:candidate-vibid:2512000433975": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 50,
-      "Веллер Алексей Борисович": 139,
-      "Дроздов Олег Валерьевич": 3,
-      "Капитонов Андрей Сергеевич": 3,
-      "Макаревич Александр Геннадьевич": 22,
-      "Морарь Игорь Николаевич": 7,
-      "Пахомов Сергей Алексеевич": 11,
-      "Степахно Геннадий Васильевич": 34
+      "gas:candidate-vibid:2512000427304": 50,
+      "gas:candidate-vibid:2512000435893": 139,
+      "gas:candidate-vibid:2512000436194": 3,
+      "gas:candidate-vibid:2512000435877": 3,
+      "gas:candidate-vibid:2512000433943": 22,
+      "gas:candidate-vibid:2512000435987": 7,
+      "gas:candidate-vibid:2512000437365": 11,
+      "gas:candidate-vibid:2512000433975": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 6,
-      "Веллер Алексей Борисович": 18,
-      "Дроздов Олег Валерьевич": 4,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 5
+      "gas:candidate-vibid:2512000427304": 6,
+      "gas:candidate-vibid:2512000435893": 18,
+      "gas:candidate-vibid:2512000436194": 4,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 12,
-      "Веллер Алексей Борисович": 34,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 3,
-      "Макаревич Александр Геннадьевич": 12,
-      "Морарь Игорь Николаевич": 6,
-      "Пахомов Сергей Алексеевич": 3,
-      "Степахно Геннадий Васильевич": 8
+      "gas:candidate-vibid:2512000427304": 12,
+      "gas:candidate-vibid:2512000435893": 34,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 3,
+      "gas:candidate-vibid:2512000433943": 12,
+      "gas:candidate-vibid:2512000435987": 6,
+      "gas:candidate-vibid:2512000437365": 3,
+      "gas:candidate-vibid:2512000433975": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 15,
-      "Веллер Алексей Борисович": 34,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 3,
-      "Макаревич Александр Геннадьевич": 7,
-      "Морарь Игорь Николаевич": 3,
-      "Пахомов Сергей Алексеевич": 3,
-      "Степахно Геннадий Васильевич": 6
+      "gas:candidate-vibid:2512000427304": 15,
+      "gas:candidate-vibid:2512000435893": 34,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 3,
+      "gas:candidate-vibid:2512000433943": 7,
+      "gas:candidate-vibid:2512000435987": 3,
+      "gas:candidate-vibid:2512000437365": 3,
+      "gas:candidate-vibid:2512000433975": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 21,
-      "Веллер Алексей Борисович": 73,
-      "Дроздов Олег Валерьевич": 10,
-      "Капитонов Андрей Сергеевич": 8,
-      "Макаревич Александр Геннадьевич": 29,
-      "Морарь Игорь Николаевич": 12,
-      "Пахомов Сергей Алексеевич": 7,
-      "Степахно Геннадий Васильевич": 31
+      "gas:candidate-vibid:2512000427304": 21,
+      "gas:candidate-vibid:2512000435893": 73,
+      "gas:candidate-vibid:2512000436194": 10,
+      "gas:candidate-vibid:2512000435877": 8,
+      "gas:candidate-vibid:2512000433943": 29,
+      "gas:candidate-vibid:2512000435987": 12,
+      "gas:candidate-vibid:2512000437365": 7,
+      "gas:candidate-vibid:2512000433975": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 11,
-      "Веллер Алексей Борисович": 61,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 21,
-      "Морарь Игорь Николаевич": 12,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 14
+      "gas:candidate-vibid:2512000427304": 11,
+      "gas:candidate-vibid:2512000435893": 61,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 21,
+      "gas:candidate-vibid:2512000435987": 12,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 35,
-      "Веллер Алексей Борисович": 140,
-      "Дроздов Олег Валерьевич": 5,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 18,
-      "Морарь Игорь Николаевич": 18,
-      "Пахомов Сергей Алексеевич": 2,
-      "Степахно Геннадий Васильевич": 15
+      "gas:candidate-vibid:2512000427304": 35,
+      "gas:candidate-vibid:2512000435893": 140,
+      "gas:candidate-vibid:2512000436194": 5,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 18,
+      "gas:candidate-vibid:2512000435987": 18,
+      "gas:candidate-vibid:2512000437365": 2,
+      "gas:candidate-vibid:2512000433975": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 12,
-      "Веллер Алексей Борисович": 28,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 10,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 5,
-      "Степахно Геннадий Васильевич": 9
+      "gas:candidate-vibid:2512000427304": 12,
+      "gas:candidate-vibid:2512000435893": 28,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 10,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 5,
+      "gas:candidate-vibid:2512000433975": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 7,
-      "Веллер Алексей Борисович": 28,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 7,
+      "gas:candidate-vibid:2512000435893": 28,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 4,
-      "Веллер Алексей Борисович": 16,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 4,
+      "gas:candidate-vibid:2512000435893": 16,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 41,
-      "Веллер Алексей Борисович": 137,
-      "Дроздов Олег Валерьевич": 9,
-      "Капитонов Андрей Сергеевич": 4,
-      "Макаревич Александр Геннадьевич": 28,
-      "Морарь Игорь Николаевич": 18,
-      "Пахомов Сергей Алексеевич": 4,
-      "Степахно Геннадий Васильевич": 55
+      "gas:candidate-vibid:2512000427304": 41,
+      "gas:candidate-vibid:2512000435893": 137,
+      "gas:candidate-vibid:2512000436194": 9,
+      "gas:candidate-vibid:2512000435877": 4,
+      "gas:candidate-vibid:2512000433943": 28,
+      "gas:candidate-vibid:2512000435987": 18,
+      "gas:candidate-vibid:2512000437365": 4,
+      "gas:candidate-vibid:2512000433975": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 42,
-      "Веллер Алексей Борисович": 130,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 13,
-      "Морарь Игорь Николаевич": 10,
-      "Пахомов Сергей Алексеевич": 2,
-      "Степахно Геннадий Васильевич": 14
+      "gas:candidate-vibid:2512000427304": 42,
+      "gas:candidate-vibid:2512000435893": 130,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 13,
+      "gas:candidate-vibid:2512000435987": 10,
+      "gas:candidate-vibid:2512000437365": 2,
+      "gas:candidate-vibid:2512000433975": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 19,
-      "Веллер Алексей Борисович": 19,
-      "Дроздов Олег Валерьевич": 3,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 5,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 19,
+      "gas:candidate-vibid:2512000435893": 19,
+      "gas:candidate-vibid:2512000436194": 3,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 5,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 10,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 10,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 2,
-      "Веллер Алексей Борисович": 6,
-      "Дроздов Олег Валерьевич": 3,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 2,
+      "gas:candidate-vibid:2512000435893": 6,
+      "gas:candidate-vibid:2512000436194": 3,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 9,
-      "Веллер Алексей Борисович": 4,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 9,
+      "gas:candidate-vibid:2512000435893": 4,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 2,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 2,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 5,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 5,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 2,
-      "Веллер Алексей Борисович": 5,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 0
+      "gas:candidate-vibid:2512000427304": 2,
+      "gas:candidate-vibid:2512000435893": 5,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 5,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 0
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 5,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 10,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 10,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 13,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 13,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 16,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 16,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 9,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 9,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 7,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 7,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 6,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 6,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 11,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 11,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 7,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 7,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 11,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 11,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 11,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 11,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 7,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 7,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 1,
-      "Веллер Алексей Борисович": 1,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 9
+      "gas:candidate-vibid:2512000427304": 1,
+      "gas:candidate-vibid:2512000435893": 1,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 12,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 0
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 12,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 0,
-      "Веллер Алексей Борисович": 17,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 0,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 0,
+      "gas:candidate-vibid:2512000435893": 17,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 0,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 6,
-      "Веллер Алексей Борисович": 4,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 6,
+      "gas:candidate-vibid:2512000435893": 4,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 6,
-      "Веллер Алексей Борисович": 3,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 14
+      "gas:candidate-vibid:2512000427304": 6,
+      "gas:candidate-vibid:2512000435893": 3,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 9,
-      "Веллер Алексей Борисович": 6,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 4,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 9,
+      "gas:candidate-vibid:2512000435893": 6,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 4,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 2,
-      "Веллер Алексей Борисович": 9,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 2,
+      "gas:candidate-vibid:2512000435893": 9,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 3,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 4,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 5
+      "gas:candidate-vibid:2512000427304": 3,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 4,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 3,
-      "Веллер Алексей Борисович": 9,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 3,
+      "gas:candidate-vibid:2512000435893": 9,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 5,
-      "Веллер Алексей Борисович": 7,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 15
+      "gas:candidate-vibid:2512000427304": 5,
+      "gas:candidate-vibid:2512000435893": 7,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 8,
-      "Веллер Алексей Борисович": 7,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 4,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 5
+      "gas:candidate-vibid:2512000427304": 8,
+      "gas:candidate-vibid:2512000435893": 7,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 4,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 7,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 2,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 6
+      "gas:candidate-vibid:2512000427304": 7,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 2,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 2,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 2,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 5
+      "gas:candidate-vibid:2512000427304": 2,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 2,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 9,
-      "Веллер Алексей Борисович": 5,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 2,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 5
+      "gas:candidate-vibid:2512000427304": 9,
+      "gas:candidate-vibid:2512000435893": 5,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 2,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 9,
-      "Веллер Алексей Борисович": 11,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 4,
-      "Морарь Игорь Николаевич": 9,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 9
+      "gas:candidate-vibid:2512000427304": 9,
+      "gas:candidate-vibid:2512000435893": 11,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 4,
+      "gas:candidate-vibid:2512000435987": 9,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 7,
-      "Веллер Алексей Борисович": 19,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 8
+      "gas:candidate-vibid:2512000427304": 7,
+      "gas:candidate-vibid:2512000435893": 19,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 19,
-      "Веллер Алексей Борисович": 8,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 2,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 4,
-      "Степахно Геннадий Васильевич": 7
+      "gas:candidate-vibid:2512000427304": 19,
+      "gas:candidate-vibid:2512000435893": 8,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 2,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 4,
+      "gas:candidate-vibid:2512000433975": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 13,
-      "Веллер Алексей Борисович": 16,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 1,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 3,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 10
+      "gas:candidate-vibid:2512000427304": 13,
+      "gas:candidate-vibid:2512000435893": 16,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 1,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 3,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 19,
-      "Веллер Алексей Борисович": 15,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 5,
-      "Макаревич Александр Геннадьевич": 1,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 5
+      "gas:candidate-vibid:2512000427304": 19,
+      "gas:candidate-vibid:2512000435893": 15,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 5,
+      "gas:candidate-vibid:2512000433943": 1,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 5,
-      "Веллер Алексей Борисович": 13,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 7,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 5,
+      "gas:candidate-vibid:2512000435893": 13,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 7,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 6,
-      "Веллер Алексей Борисович": 5,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 2,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 6,
+      "gas:candidate-vibid:2512000435893": 5,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 2,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 4,
-      "Веллер Алексей Борисович": 6,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 1
+      "gas:candidate-vibid:2512000427304": 4,
+      "gas:candidate-vibid:2512000435893": 6,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 6,
-      "Веллер Алексей Борисович": 10,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 6,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 6,
+      "gas:candidate-vibid:2512000435893": 10,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 6,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 7,
-      "Веллер Алексей Борисович": 11,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 4,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 2
+      "gas:candidate-vibid:2512000427304": 7,
+      "gas:candidate-vibid:2512000435893": 11,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 4,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 4,
-      "Веллер Алексей Борисович": 6,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 6
+      "gas:candidate-vibid:2512000427304": 4,
+      "gas:candidate-vibid:2512000435893": 6,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 4,
-      "Веллер Алексей Борисович": 9,
-      "Дроздов Олег Валерьевич": 2,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 2,
-      "Морарь Игорь Николаевич": 0,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 4,
+      "gas:candidate-vibid:2512000435893": 9,
+      "gas:candidate-vibid:2512000436194": 2,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 2,
+      "gas:candidate-vibid:2512000435987": 0,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 10,
-      "Веллер Алексей Борисович": 28,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 3,
-      "Морарь Игорь Николаевич": 2,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 6
+      "gas:candidate-vibid:2512000427304": 10,
+      "gas:candidate-vibid:2512000435893": 28,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 3,
+      "gas:candidate-vibid:2512000435987": 2,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 2,
-      "Веллер Алексей Борисович": 38,
-      "Дроздов Олег Валерьевич": 0,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 2,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 0,
-      "Степахно Геннадий Васильевич": 4
+      "gas:candidate-vibid:2512000427304": 2,
+      "gas:candidate-vibid:2512000435893": 38,
+      "gas:candidate-vibid:2512000436194": 0,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 2,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 0,
+      "gas:candidate-vibid:2512000433975": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_51_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белов Максим Андреевич": 5,
-      "Веллер Алексей Борисович": 13,
-      "Дроздов Олег Валерьевич": 1,
-      "Капитонов Андрей Сергеевич": 0,
-      "Макаревич Александр Геннадьевич": 5,
-      "Морарь Игорь Николаевич": 1,
-      "Пахомов Сергей Алексеевич": 1,
-      "Степахно Геннадий Васильевич": 3
+      "gas:candidate-vibid:2512000427304": 5,
+      "gas:candidate-vibid:2512000435893": 13,
+      "gas:candidate-vibid:2512000436194": 1,
+      "gas:candidate-vibid:2512000435877": 0,
+      "gas:candidate-vibid:2512000433943": 5,
+      "gas:candidate-vibid:2512000435987": 1,
+      "gas:candidate-vibid:2512000437365": 1,
+      "gas:candidate-vibid:2512000433975": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/murmansk?action=show&root=1000168&tvd=2512000410393&vrn=100100067795849&region=51&global=&sub_region=51&prver=0&pronetvd=null&vibid=2512000410393&type=464",

@@ -402,6 +402,12 @@ class DecodeAndHierarchyTests(unittest.TestCase):
         self.assertEqual(parsed["candidates"][0]["registry_election_status"], "избр.")
         self.assertFalse(parsed["candidates"][0]["is_elected"])
 
+        archived = parse_candidate_registry(payload.replace(b"\\&quot;", b"&quot;"))
+        self.assertEqual(
+            archived["candidates"][0]["nominating_entity"],
+            'Всероссийская политическая партия "ЕДИНАЯ РОССИЯ"',
+        )
+
     def test_immutable_cec_winner_docx_parses_225_districts(self):
         namespace = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
         rows = "".join(
@@ -546,6 +552,12 @@ class ValidationAndGenerationTests(unittest.TestCase):
             self.assertIn(b'"districtnumber": 20', joined)
             self.assertIn("districts/region-1.ts", after)
             self.assertIn(b"UikSingleMemberProtocol", after["protocol/types.ts"])
+            self.assertIn(
+                '"uikName": "УИК №7"'.encode(),
+                after["protocol/uik/242/uik.ts"],
+            )
+            self.assertIn(b'"regionTvd": "region"', after["protocol/uik/242/uik.ts"])
+            self.assertIn(b'"regionName": "Region"', after["protocol/tic/233/tik.ts"])
 
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

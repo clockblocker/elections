@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 30,
-      "Дедков Виктор Дмитриевич": 8,
-      "Деренковский Виктор Яковлевич": 126,
-      "Кишенин Владимир Николаевич": 33,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 7,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 30,
+      "gas:candidate-vibid:1001000112258": 8,
+      "gas:candidate-vibid:1001000225990": 126,
+      "gas:candidate-vibid:1001000220846": 33,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 7,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 37,
-      "Дедков Виктор Дмитриевич": 15,
-      "Деренковский Виктор Яковлевич": 209,
-      "Кишенин Владимир Николаевич": 34,
-      "Космачев Олег Михайлович": 8,
-      "Рябченко Алексей Анатольевич": 10,
-      "Степанов Сергей Николаевич": 8,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 37,
+      "gas:candidate-vibid:1001000112258": 15,
+      "gas:candidate-vibid:1001000225990": 209,
+      "gas:candidate-vibid:1001000220846": 34,
+      "gas:candidate-vibid:1001000195145": 8,
+      "gas:candidate-vibid:1001000136127": 10,
+      "gas:candidate-vibid:267200070847": 8,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 44,
-      "Березов Владимир Прокофьевич": 124,
-      "Дедков Виктор Дмитриевич": 11,
-      "Деренковский Виктор Яковлевич": 243,
-      "Кишенин Владимир Николаевич": 196,
-      "Космачев Олег Михайлович": 7,
-      "Рябченко Алексей Анатольевич": 27,
-      "Степанов Сергей Николаевич": 22,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000131416": 44,
+      "gas:candidate-vibid:1001000121914": 124,
+      "gas:candidate-vibid:1001000112258": 11,
+      "gas:candidate-vibid:1001000225990": 243,
+      "gas:candidate-vibid:1001000220846": 196,
+      "gas:candidate-vibid:1001000195145": 7,
+      "gas:candidate-vibid:1001000136127": 27,
+      "gas:candidate-vibid:267200070847": 22,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 11,
-      "Березов Владимир Прокофьевич": 43,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 155,
-      "Кишенин Владимир Николаевич": 60,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131416": 11,
+      "gas:candidate-vibid:1001000121914": 43,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 155,
+      "gas:candidate-vibid:1001000220846": 60,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 0,
-      "Березов Владимир Прокофьевич": 13,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 67,
-      "Кишенин Владимир Николаевич": 48,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000131416": 0,
+      "gas:candidate-vibid:1001000121914": 13,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 67,
+      "gas:candidate-vibid:1001000220846": 48,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 42,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 105,
-      "Кишенин Владимир Николаевич": 39,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 9,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 42,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 105,
+      "gas:candidate-vibid:1001000220846": 39,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 9,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 25,
-      "Дедков Виктор Дмитриевич": 8,
-      "Деренковский Виктор Яковлевич": 173,
-      "Кишенин Владимир Николаевич": 30,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 25,
+      "gas:candidate-vibid:1001000112258": 8,
+      "gas:candidate-vibid:1001000225990": 173,
+      "gas:candidate-vibid:1001000220846": 30,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 30,
-      "Дедков Виктор Дмитриевич": 9,
-      "Деренковский Виктор Яковлевич": 180,
-      "Кишенин Владимир Николаевич": 67,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 30,
+      "gas:candidate-vibid:1001000112258": 9,
+      "gas:candidate-vibid:1001000225990": 180,
+      "gas:candidate-vibid:1001000220846": 67,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 19,
-      "Березов Владимир Прокофьевич": 42,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 134,
-      "Кишенин Владимир Николаевич": 66,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000131416": 19,
+      "gas:candidate-vibid:1001000121914": 42,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 134,
+      "gas:candidate-vibid:1001000220846": 66,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 16,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 206,
-      "Кишенин Владимир Николаевич": 31,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 16,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 206,
+      "gas:candidate-vibid:1001000220846": 31,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071390&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 23,
-      "Березов Владимир Прокофьевич": 149,
-      "Дедков Виктор Дмитриевич": 23,
-      "Деренковский Виктор Яковлевич": 240,
-      "Кишенин Владимир Николаевич": 242,
-      "Космачев Олег Михайлович": 14,
-      "Рябченко Алексей Анатольевич": 37,
-      "Степанов Сергей Николаевич": 10,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000131416": 23,
+      "gas:candidate-vibid:1001000121914": 149,
+      "gas:candidate-vibid:1001000112258": 23,
+      "gas:candidate-vibid:1001000225990": 240,
+      "gas:candidate-vibid:1001000220846": 242,
+      "gas:candidate-vibid:1001000195145": 14,
+      "gas:candidate-vibid:1001000136127": 37,
+      "gas:candidate-vibid:267200070847": 10,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 16,
-      "Березов Владимир Прокофьевич": 77,
-      "Дедков Виктор Дмитриевич": 24,
-      "Деренковский Виктор Яковлевич": 142,
-      "Кишенин Владимир Николаевич": 131,
-      "Космачев Олег Михайлович": 15,
-      "Рябченко Алексей Анатольевич": 20,
-      "Степанов Сергей Николаевич": 12,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000131416": 16,
+      "gas:candidate-vibid:1001000121914": 77,
+      "gas:candidate-vibid:1001000112258": 24,
+      "gas:candidate-vibid:1001000225990": 142,
+      "gas:candidate-vibid:1001000220846": 131,
+      "gas:candidate-vibid:1001000195145": 15,
+      "gas:candidate-vibid:1001000136127": 20,
+      "gas:candidate-vibid:267200070847": 12,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 22,
-      "Березов Владимир Прокофьевич": 153,
-      "Дедков Виктор Дмитриевич": 32,
-      "Деренковский Виктор Яковлевич": 196,
-      "Кишенин Владимир Николаевич": 225,
-      "Космачев Олег Михайлович": 18,
-      "Рябченко Алексей Анатольевич": 24,
-      "Степанов Сергей Николаевич": 8,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000131416": 22,
+      "gas:candidate-vibid:1001000121914": 153,
+      "gas:candidate-vibid:1001000112258": 32,
+      "gas:candidate-vibid:1001000225990": 196,
+      "gas:candidate-vibid:1001000220846": 225,
+      "gas:candidate-vibid:1001000195145": 18,
+      "gas:candidate-vibid:1001000136127": 24,
+      "gas:candidate-vibid:267200070847": 8,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 47,
-      "Березов Владимир Прокофьевич": 179,
-      "Дедков Виктор Дмитриевич": 55,
-      "Деренковский Виктор Яковлевич": 290,
-      "Кишенин Владимир Николаевич": 204,
-      "Космачев Олег Михайлович": 40,
-      "Рябченко Алексей Анатольевич": 58,
-      "Степанов Сергей Николаевич": 10,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000131416": 47,
+      "gas:candidate-vibid:1001000121914": 179,
+      "gas:candidate-vibid:1001000112258": 55,
+      "gas:candidate-vibid:1001000225990": 290,
+      "gas:candidate-vibid:1001000220846": 204,
+      "gas:candidate-vibid:1001000195145": 40,
+      "gas:candidate-vibid:1001000136127": 58,
+      "gas:candidate-vibid:267200070847": 10,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 14,
-      "Березов Владимир Прокофьевич": 70,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 88,
-      "Кишенин Владимир Николаевич": 83,
-      "Космачев Олег Михайлович": 7,
-      "Рябченко Алексей Анатольевич": 18,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131416": 14,
+      "gas:candidate-vibid:1001000121914": 70,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 88,
+      "gas:candidate-vibid:1001000220846": 83,
+      "gas:candidate-vibid:1001000195145": 7,
+      "gas:candidate-vibid:1001000136127": 18,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 22,
-      "Березов Владимир Прокофьевич": 111,
-      "Дедков Виктор Дмитриевич": 21,
-      "Деренковский Виктор Яковлевич": 224,
-      "Кишенин Владимир Николаевич": 135,
-      "Космачев Олег Михайлович": 20,
-      "Рябченко Алексей Анатольевич": 38,
-      "Степанов Сергей Николаевич": 13,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000131416": 22,
+      "gas:candidate-vibid:1001000121914": 111,
+      "gas:candidate-vibid:1001000112258": 21,
+      "gas:candidate-vibid:1001000225990": 224,
+      "gas:candidate-vibid:1001000220846": 135,
+      "gas:candidate-vibid:1001000195145": 20,
+      "gas:candidate-vibid:1001000136127": 38,
+      "gas:candidate-vibid:267200070847": 13,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 13,
-      "Березов Владимир Прокофьевич": 129,
-      "Дедков Виктор Дмитриевич": 26,
-      "Деренковский Виктор Яковлевич": 205,
-      "Кишенин Владимир Николаевич": 137,
-      "Космачев Олег Михайлович": 18,
-      "Рябченко Алексей Анатольевич": 36,
-      "Степанов Сергей Николаевич": 8,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000131416": 13,
+      "gas:candidate-vibid:1001000121914": 129,
+      "gas:candidate-vibid:1001000112258": 26,
+      "gas:candidate-vibid:1001000225990": 205,
+      "gas:candidate-vibid:1001000220846": 137,
+      "gas:candidate-vibid:1001000195145": 18,
+      "gas:candidate-vibid:1001000136127": 36,
+      "gas:candidate-vibid:267200070847": 8,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 30,
-      "Березов Владимир Прокофьевич": 225,
-      "Дедков Виктор Дмитриевич": 38,
-      "Деренковский Виктор Яковлевич": 284,
-      "Кишенин Владимир Николаевич": 289,
-      "Космачев Олег Михайлович": 34,
-      "Рябченко Алексей Анатольевич": 39,
-      "Степанов Сергей Николаевич": 12,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000131416": 30,
+      "gas:candidate-vibid:1001000121914": 225,
+      "gas:candidate-vibid:1001000112258": 38,
+      "gas:candidate-vibid:1001000225990": 284,
+      "gas:candidate-vibid:1001000220846": 289,
+      "gas:candidate-vibid:1001000195145": 34,
+      "gas:candidate-vibid:1001000136127": 39,
+      "gas:candidate-vibid:267200070847": 12,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 21,
-      "Березов Владимир Прокофьевич": 123,
-      "Дедков Виктор Дмитриевич": 18,
-      "Деренковский Виктор Яковлевич": 167,
-      "Кишенин Владимир Николаевич": 120,
-      "Космачев Олег Михайлович": 8,
-      "Рябченко Алексей Анатольевич": 25,
-      "Степанов Сергей Николаевич": 8,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000131416": 21,
+      "gas:candidate-vibid:1001000121914": 123,
+      "gas:candidate-vibid:1001000112258": 18,
+      "gas:candidate-vibid:1001000225990": 167,
+      "gas:candidate-vibid:1001000220846": 120,
+      "gas:candidate-vibid:1001000195145": 8,
+      "gas:candidate-vibid:1001000136127": 25,
+      "gas:candidate-vibid:267200070847": 8,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 78,
-      "Дедков Виктор Дмитриевич": 17,
-      "Деренковский Виктор Яковлевич": 172,
-      "Кишенин Владимир Николаевич": 92,
-      "Космачев Олег Михайлович": 9,
-      "Рябченко Алексей Анатольевич": 25,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 78,
+      "gas:candidate-vibid:1001000112258": 17,
+      "gas:candidate-vibid:1001000225990": 172,
+      "gas:candidate-vibid:1001000220846": 92,
+      "gas:candidate-vibid:1001000195145": 9,
+      "gas:candidate-vibid:1001000136127": 25,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 26,
-      "Березов Владимир Прокофьевич": 167,
-      "Дедков Виктор Дмитриевич": 34,
-      "Деренковский Виктор Яковлевич": 218,
-      "Кишенин Владимир Николаевич": 176,
-      "Космачев Олег Михайлович": 15,
-      "Рябченко Алексей Анатольевич": 29,
-      "Степанов Сергей Николаевич": 17,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000131416": 26,
+      "gas:candidate-vibid:1001000121914": 167,
+      "gas:candidate-vibid:1001000112258": 34,
+      "gas:candidate-vibid:1001000225990": 218,
+      "gas:candidate-vibid:1001000220846": 176,
+      "gas:candidate-vibid:1001000195145": 15,
+      "gas:candidate-vibid:1001000136127": 29,
+      "gas:candidate-vibid:267200070847": 17,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 28,
-      "Березов Владимир Прокофьевич": 144,
-      "Дедков Виктор Дмитриевич": 15,
-      "Деренковский Виктор Яковлевич": 213,
-      "Кишенин Владимир Николаевич": 151,
-      "Космачев Олег Михайлович": 21,
-      "Рябченко Алексей Анатольевич": 44,
-      "Степанов Сергей Николаевич": 8,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000131416": 28,
+      "gas:candidate-vibid:1001000121914": 144,
+      "gas:candidate-vibid:1001000112258": 15,
+      "gas:candidate-vibid:1001000225990": 213,
+      "gas:candidate-vibid:1001000220846": 151,
+      "gas:candidate-vibid:1001000195145": 21,
+      "gas:candidate-vibid:1001000136127": 44,
+      "gas:candidate-vibid:267200070847": 8,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 16,
-      "Березов Владимир Прокофьевич": 93,
-      "Дедков Виктор Дмитриевич": 17,
-      "Деренковский Виктор Яковлевич": 150,
-      "Кишенин Владимир Николаевич": 78,
-      "Космачев Олег Михайлович": 14,
-      "Рябченко Алексей Анатольевич": 13,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000131416": 16,
+      "gas:candidate-vibid:1001000121914": 93,
+      "gas:candidate-vibid:1001000112258": 17,
+      "gas:candidate-vibid:1001000225990": 150,
+      "gas:candidate-vibid:1001000220846": 78,
+      "gas:candidate-vibid:1001000195145": 14,
+      "gas:candidate-vibid:1001000136127": 13,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 37,
-      "Березов Владимир Прокофьевич": 214,
-      "Дедков Виктор Дмитриевич": 41,
-      "Деренковский Виктор Яковлевич": 253,
-      "Кишенин Владимир Николаевич": 270,
-      "Космачев Олег Михайлович": 25,
-      "Рябченко Алексей Анатольевич": 46,
-      "Степанов Сергей Николаевич": 19,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000131416": 37,
+      "gas:candidate-vibid:1001000121914": 214,
+      "gas:candidate-vibid:1001000112258": 41,
+      "gas:candidate-vibid:1001000225990": 253,
+      "gas:candidate-vibid:1001000220846": 270,
+      "gas:candidate-vibid:1001000195145": 25,
+      "gas:candidate-vibid:1001000136127": 46,
+      "gas:candidate-vibid:267200070847": 19,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 27,
-      "Березов Владимир Прокофьевич": 193,
-      "Дедков Виктор Дмитриевич": 25,
-      "Деренковский Виктор Яковлевич": 247,
-      "Кишенин Владимир Николаевич": 237,
-      "Космачев Олег Михайлович": 12,
-      "Рябченко Алексей Анатольевич": 40,
-      "Степанов Сергей Николаевич": 18,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000131416": 27,
+      "gas:candidate-vibid:1001000121914": 193,
+      "gas:candidate-vibid:1001000112258": 25,
+      "gas:candidate-vibid:1001000225990": 247,
+      "gas:candidate-vibid:1001000220846": 237,
+      "gas:candidate-vibid:1001000195145": 12,
+      "gas:candidate-vibid:1001000136127": 40,
+      "gas:candidate-vibid:267200070847": 18,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 13,
-      "Березов Владимир Прокофьевич": 51,
-      "Дедков Виктор Дмитриевич": 10,
-      "Деренковский Виктор Яковлевич": 139,
-      "Кишенин Владимир Николаевич": 182,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 13,
-      "Степанов Сергей Николаевич": 6,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000131416": 13,
+      "gas:candidate-vibid:1001000121914": 51,
+      "gas:candidate-vibid:1001000112258": 10,
+      "gas:candidate-vibid:1001000225990": 139,
+      "gas:candidate-vibid:1001000220846": 182,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 13,
+      "gas:candidate-vibid:267200070847": 6,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 18,
-      "Березов Владимир Прокофьевич": 183,
-      "Дедков Виктор Дмитриевич": 31,
-      "Деренковский Виктор Яковлевич": 232,
-      "Кишенин Владимир Николаевич": 209,
-      "Космачев Олег Михайлович": 28,
-      "Рябченко Алексей Анатольевич": 44,
-      "Степанов Сергей Николаевич": 17,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000131416": 18,
+      "gas:candidate-vibid:1001000121914": 183,
+      "gas:candidate-vibid:1001000112258": 31,
+      "gas:candidate-vibid:1001000225990": 232,
+      "gas:candidate-vibid:1001000220846": 209,
+      "gas:candidate-vibid:1001000195145": 28,
+      "gas:candidate-vibid:1001000136127": 44,
+      "gas:candidate-vibid:267200070847": 17,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 35,
-      "Березов Владимир Прокофьевич": 155,
-      "Дедков Виктор Дмитриевич": 24,
-      "Деренковский Виктор Яковлевич": 261,
-      "Кишенин Владимир Николаевич": 204,
-      "Космачев Олег Михайлович": 18,
-      "Рябченко Алексей Анатольевич": 32,
-      "Степанов Сергей Николаевич": 17,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000131416": 35,
+      "gas:candidate-vibid:1001000121914": 155,
+      "gas:candidate-vibid:1001000112258": 24,
+      "gas:candidate-vibid:1001000225990": 261,
+      "gas:candidate-vibid:1001000220846": 204,
+      "gas:candidate-vibid:1001000195145": 18,
+      "gas:candidate-vibid:1001000136127": 32,
+      "gas:candidate-vibid:267200070847": 17,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 24,
-      "Березов Владимир Прокофьевич": 128,
-      "Дедков Виктор Дмитриевич": 10,
-      "Деренковский Виктор Яковлевич": 164,
-      "Кишенин Владимир Николаевич": 143,
-      "Космачев Олег Михайлович": 11,
-      "Рябченко Алексей Анатольевич": 27,
-      "Степанов Сергей Николаевич": 7,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131416": 24,
+      "gas:candidate-vibid:1001000121914": 128,
+      "gas:candidate-vibid:1001000112258": 10,
+      "gas:candidate-vibid:1001000225990": 164,
+      "gas:candidate-vibid:1001000220846": 143,
+      "gas:candidate-vibid:1001000195145": 11,
+      "gas:candidate-vibid:1001000136127": 27,
+      "gas:candidate-vibid:267200070847": 7,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 22,
-      "Березов Владимир Прокофьевич": 154,
-      "Дедков Виктор Дмитриевич": 31,
-      "Деренковский Виктор Яковлевич": 190,
-      "Кишенин Владимир Николаевич": 259,
-      "Космачев Олег Михайлович": 19,
-      "Рябченко Алексей Анатольевич": 55,
-      "Степанов Сергей Николаевич": 15,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000131416": 22,
+      "gas:candidate-vibid:1001000121914": 154,
+      "gas:candidate-vibid:1001000112258": 31,
+      "gas:candidate-vibid:1001000225990": 190,
+      "gas:candidate-vibid:1001000220846": 259,
+      "gas:candidate-vibid:1001000195145": 19,
+      "gas:candidate-vibid:1001000136127": 55,
+      "gas:candidate-vibid:267200070847": 15,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 30,
-      "Березов Владимир Прокофьевич": 174,
-      "Дедков Виктор Дмитриевич": 42,
-      "Деренковский Виктор Яковлевич": 302,
-      "Кишенин Владимир Николаевич": 217,
-      "Космачев Олег Михайлович": 35,
-      "Рябченко Алексей Анатольевич": 79,
-      "Степанов Сергей Николаевич": 15,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000131416": 30,
+      "gas:candidate-vibid:1001000121914": 174,
+      "gas:candidate-vibid:1001000112258": 42,
+      "gas:candidate-vibid:1001000225990": 302,
+      "gas:candidate-vibid:1001000220846": 217,
+      "gas:candidate-vibid:1001000195145": 35,
+      "gas:candidate-vibid:1001000136127": 79,
+      "gas:candidate-vibid:267200070847": 15,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 42,
-      "Березов Владимир Прокофьевич": 194,
-      "Дедков Виктор Дмитриевич": 48,
-      "Деренковский Виктор Яковлевич": 318,
-      "Кишенин Владимир Николаевич": 342,
-      "Космачев Олег Михайлович": 30,
-      "Рябченко Алексей Анатольевич": 56,
-      "Степанов Сергей Николаевич": 15,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000131416": 42,
+      "gas:candidate-vibid:1001000121914": 194,
+      "gas:candidate-vibid:1001000112258": 48,
+      "gas:candidate-vibid:1001000225990": 318,
+      "gas:candidate-vibid:1001000220846": 342,
+      "gas:candidate-vibid:1001000195145": 30,
+      "gas:candidate-vibid:1001000136127": 56,
+      "gas:candidate-vibid:267200070847": 15,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 39,
-      "Березов Владимир Прокофьевич": 211,
-      "Дедков Виктор Дмитриевич": 45,
-      "Деренковский Виктор Яковлевич": 301,
-      "Кишенин Владимир Николаевич": 306,
-      "Космачев Олег Михайлович": 31,
-      "Рябченко Алексей Анатольевич": 74,
-      "Степанов Сергей Николаевич": 10,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000131416": 39,
+      "gas:candidate-vibid:1001000121914": 211,
+      "gas:candidate-vibid:1001000112258": 45,
+      "gas:candidate-vibid:1001000225990": 301,
+      "gas:candidate-vibid:1001000220846": 306,
+      "gas:candidate-vibid:1001000195145": 31,
+      "gas:candidate-vibid:1001000136127": 74,
+      "gas:candidate-vibid:267200070847": 10,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 49,
-      "Березов Владимир Прокофьевич": 184,
-      "Дедков Виктор Дмитриевич": 35,
-      "Деренковский Виктор Яковлевич": 358,
-      "Кишенин Владимир Николаевич": 371,
-      "Космачев Олег Михайлович": 30,
-      "Рябченко Алексей Анатольевич": 77,
-      "Степанов Сергей Николаевич": 27,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000131416": 49,
+      "gas:candidate-vibid:1001000121914": 184,
+      "gas:candidate-vibid:1001000112258": 35,
+      "gas:candidate-vibid:1001000225990": 358,
+      "gas:candidate-vibid:1001000220846": 371,
+      "gas:candidate-vibid:1001000195145": 30,
+      "gas:candidate-vibid:1001000136127": 77,
+      "gas:candidate-vibid:267200070847": 27,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 38,
-      "Березов Владимир Прокофьевич": 148,
-      "Дедков Виктор Дмитриевич": 31,
-      "Деренковский Виктор Яковлевич": 224,
-      "Кишенин Владимир Николаевич": 306,
-      "Космачев Олег Михайлович": 23,
-      "Рябченко Алексей Анатольевич": 62,
-      "Степанов Сергей Николаевич": 18,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131416": 38,
+      "gas:candidate-vibid:1001000121914": 148,
+      "gas:candidate-vibid:1001000112258": 31,
+      "gas:candidate-vibid:1001000225990": 224,
+      "gas:candidate-vibid:1001000220846": 306,
+      "gas:candidate-vibid:1001000195145": 23,
+      "gas:candidate-vibid:1001000136127": 62,
+      "gas:candidate-vibid:267200070847": 18,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 34,
-      "Дедков Виктор Дмитриевич": 12,
-      "Деренковский Виктор Яковлевич": 127,
-      "Кишенин Владимир Николаевич": 28,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 34,
+      "gas:candidate-vibid:1001000112258": 12,
+      "gas:candidate-vibid:1001000225990": 127,
+      "gas:candidate-vibid:1001000220846": 28,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 66,
-      "Дедков Виктор Дмитриевич": 7,
-      "Деренковский Виктор Яковлевич": 213,
-      "Кишенин Владимир Николаевич": 164,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 12,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 66,
+      "gas:candidate-vibid:1001000112258": 7,
+      "gas:candidate-vibid:1001000225990": 213,
+      "gas:candidate-vibid:1001000220846": 164,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 12,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 14,
-      "Березов Владимир Прокофьевич": 39,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 111,
-      "Кишенин Владимир Николаевич": 65,
-      "Космачев Олег Михайлович": 6,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131416": 14,
+      "gas:candidate-vibid:1001000121914": 39,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 111,
+      "gas:candidate-vibid:1001000220846": 65,
+      "gas:candidate-vibid:1001000195145": 6,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 25,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 83,
-      "Кишенин Владимир Николаевич": 41,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 25,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 83,
+      "gas:candidate-vibid:1001000220846": 41,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 13,
-      "Березов Владимир Прокофьевич": 39,
-      "Дедков Виктор Дмитриевич": 10,
-      "Деренковский Виктор Яковлевич": 161,
-      "Кишенин Владимир Николаевич": 97,
-      "Космачев Олег Михайлович": 5,
-      "Рябченко Алексей Анатольевич": 10,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131416": 13,
+      "gas:candidate-vibid:1001000121914": 39,
+      "gas:candidate-vibid:1001000112258": 10,
+      "gas:candidate-vibid:1001000225990": 161,
+      "gas:candidate-vibid:1001000220846": 97,
+      "gas:candidate-vibid:1001000195145": 5,
+      "gas:candidate-vibid:1001000136127": 10,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 5,
-      "Березов Владимир Прокофьевич": 44,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 194,
-      "Кишенин Владимир Николаевич": 66,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131416": 5,
+      "gas:candidate-vibid:1001000121914": 44,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 194,
+      "gas:candidate-vibid:1001000220846": 66,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 14,
-      "Березов Владимир Прокофьевич": 20,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 92,
-      "Кишенин Владимир Николаевич": 16,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131416": 14,
+      "gas:candidate-vibid:1001000121914": 20,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 92,
+      "gas:candidate-vibid:1001000220846": 16,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 29,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 84,
-      "Кишенин Владимир Николаевич": 107,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 7,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 29,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 84,
+      "gas:candidate-vibid:1001000220846": 107,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 7,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 43,
-      "Березов Владимир Прокофьевич": 73,
-      "Дедков Виктор Дмитриевич": 21,
-      "Деренковский Виктор Яковлевич": 332,
-      "Кишенин Владимир Николаевич": 167,
-      "Космачев Олег Михайлович": 12,
-      "Рябченко Алексей Анатольевич": 18,
-      "Степанов Сергей Николаевич": 10,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000131416": 43,
+      "gas:candidate-vibid:1001000121914": 73,
+      "gas:candidate-vibid:1001000112258": 21,
+      "gas:candidate-vibid:1001000225990": 332,
+      "gas:candidate-vibid:1001000220846": 167,
+      "gas:candidate-vibid:1001000195145": 12,
+      "gas:candidate-vibid:1001000136127": 18,
+      "gas:candidate-vibid:267200070847": 10,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 18,
-      "Березов Владимир Прокофьевич": 76,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 152,
-      "Кишенин Владимир Николаевич": 61,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131416": 18,
+      "gas:candidate-vibid:1001000121914": 76,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 152,
+      "gas:candidate-vibid:1001000220846": 61,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 1,
-      "Березов Владимир Прокофьевич": 20,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 67,
-      "Кишенин Владимир Николаевич": 33,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131416": 1,
+      "gas:candidate-vibid:1001000121914": 20,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 67,
+      "gas:candidate-vibid:1001000220846": 33,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 36,
-      "Березов Владимир Прокофьевич": 154,
-      "Дедков Виктор Дмитриевич": 18,
-      "Деренковский Виктор Яковлевич": 282,
-      "Кишенин Владимир Николаевич": 267,
-      "Космачев Олег Михайлович": 23,
-      "Рябченко Алексей Анатольевич": 22,
-      "Степанов Сергей Николаевич": 15,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000131416": 36,
+      "gas:candidate-vibid:1001000121914": 154,
+      "gas:candidate-vibid:1001000112258": 18,
+      "gas:candidate-vibid:1001000225990": 282,
+      "gas:candidate-vibid:1001000220846": 267,
+      "gas:candidate-vibid:1001000195145": 23,
+      "gas:candidate-vibid:1001000136127": 22,
+      "gas:candidate-vibid:267200070847": 15,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 2,
-      "Березов Владимир Прокофьевич": 25,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 98,
-      "Кишенин Владимир Николаевич": 36,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131416": 2,
+      "gas:candidate-vibid:1001000121914": 25,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 98,
+      "gas:candidate-vibid:1001000220846": 36,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 23,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 200,
-      "Кишенин Владимир Николаевич": 86,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 23,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 200,
+      "gas:candidate-vibid:1001000220846": 86,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 31,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 133,
-      "Кишенин Владимир Николаевич": 35,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 31,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 133,
+      "gas:candidate-vibid:1001000220846": 35,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 10,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 68,
-      "Кишенин Владимир Николаевич": 37,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 10,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 68,
+      "gas:candidate-vibid:1001000220846": 37,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 19,
-      "Березов Владимир Прокофьевич": 36,
-      "Дедков Виктор Дмитриевич": 6,
-      "Деренковский Виктор Яковлевич": 138,
-      "Кишенин Владимир Николаевич": 95,
-      "Космачев Олег Михайлович": 5,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131416": 19,
+      "gas:candidate-vibid:1001000121914": 36,
+      "gas:candidate-vibid:1001000112258": 6,
+      "gas:candidate-vibid:1001000225990": 138,
+      "gas:candidate-vibid:1001000220846": 95,
+      "gas:candidate-vibid:1001000195145": 5,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 18,
-      "Березов Владимир Прокофьевич": 90,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 116,
-      "Кишенин Владимир Николаевич": 73,
-      "Космачев Олег Михайлович": 5,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131416": 18,
+      "gas:candidate-vibid:1001000121914": 90,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 116,
+      "gas:candidate-vibid:1001000220846": 73,
+      "gas:candidate-vibid:1001000195145": 5,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 14,
-      "Березов Владимир Прокофьевич": 14,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 175,
-      "Кишенин Владимир Николаевич": 72,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131416": 14,
+      "gas:candidate-vibid:1001000121914": 14,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 175,
+      "gas:candidate-vibid:1001000220846": 72,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 37,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 124,
-      "Кишенин Владимир Николаевич": 100,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 37,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 124,
+      "gas:candidate-vibid:1001000220846": 100,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 28,
-      "Березов Владимир Прокофьевич": 106,
-      "Дедков Виктор Дмитриевич": 16,
-      "Деренковский Виктор Яковлевич": 296,
-      "Кишенин Владимир Николаевич": 247,
-      "Космачев Олег Михайлович": 18,
-      "Рябченко Алексей Анатольевич": 21,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000131416": 28,
+      "gas:candidate-vibid:1001000121914": 106,
+      "gas:candidate-vibid:1001000112258": 16,
+      "gas:candidate-vibid:1001000225990": 296,
+      "gas:candidate-vibid:1001000220846": 247,
+      "gas:candidate-vibid:1001000195145": 18,
+      "gas:candidate-vibid:1001000136127": 21,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 42,
-      "Березов Владимир Прокофьевич": 76,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 144,
-      "Кишенин Владимир Николаевич": 330,
-      "Космачев Олег Михайлович": 13,
-      "Рябченко Алексей Анатольевич": 22,
-      "Степанов Сергей Николаевич": 6,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000131416": 42,
+      "gas:candidate-vibid:1001000121914": 76,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 144,
+      "gas:candidate-vibid:1001000220846": 330,
+      "gas:candidate-vibid:1001000195145": 13,
+      "gas:candidate-vibid:1001000136127": 22,
+      "gas:candidate-vibid:267200070847": 6,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 22,
-      "Березов Владимир Прокофьевич": 37,
-      "Дедков Виктор Дмитриевич": 7,
-      "Деренковский Виктор Яковлевич": 180,
-      "Кишенин Владимир Николаевич": 152,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 12,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131416": 22,
+      "gas:candidate-vibid:1001000121914": 37,
+      "gas:candidate-vibid:1001000112258": 7,
+      "gas:candidate-vibid:1001000225990": 180,
+      "gas:candidate-vibid:1001000220846": 152,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 12,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 42,
-      "Дедков Виктор Дмитриевич": 7,
-      "Деренковский Виктор Яковлевич": 148,
-      "Кишенин Владимир Николаевич": 104,
-      "Космачев Олег Михайлович": 7,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 42,
+      "gas:candidate-vibid:1001000112258": 7,
+      "gas:candidate-vibid:1001000225990": 148,
+      "gas:candidate-vibid:1001000220846": 104,
+      "gas:candidate-vibid:1001000195145": 7,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 46,
-      "Березов Владимир Прокофьевич": 15,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 146,
-      "Кишенин Владимир Николаевич": 73,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 46,
+      "gas:candidate-vibid:1001000121914": 15,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 146,
+      "gas:candidate-vibid:1001000220846": 73,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 31,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 160,
-      "Кишенин Владимир Николаевич": 53,
-      "Космачев Олег Михайлович": 5,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 31,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 160,
+      "gas:candidate-vibid:1001000220846": 53,
+      "gas:candidate-vibid:1001000195145": 5,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 21,
-      "Березов Владимир Прокофьевич": 25,
-      "Дедков Виктор Дмитриевич": 7,
-      "Деренковский Виктор Яковлевич": 164,
-      "Кишенин Владимир Николаевич": 36,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131416": 21,
+      "gas:candidate-vibid:1001000121914": 25,
+      "gas:candidate-vibid:1001000112258": 7,
+      "gas:candidate-vibid:1001000225990": 164,
+      "gas:candidate-vibid:1001000220846": 36,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 13,
-      "Березов Владимир Прокофьевич": 120,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 97,
-      "Кишенин Владимир Николаевич": 70,
-      "Космачев Олег Михайлович": 8,
-      "Рябченко Алексей Анатольевич": 12,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131416": 13,
+      "gas:candidate-vibid:1001000121914": 120,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 97,
+      "gas:candidate-vibid:1001000220846": 70,
+      "gas:candidate-vibid:1001000195145": 8,
+      "gas:candidate-vibid:1001000136127": 12,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071391&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 21,
-      "Березов Владимир Прокофьевич": 85,
-      "Дедков Виктор Дмитриевич": 59,
-      "Деренковский Виктор Яковлевич": 265,
-      "Кишенин Владимир Николаевич": 142,
-      "Космачев Олег Михайлович": 16,
-      "Рябченко Алексей Анатольевич": 45,
-      "Степанов Сергей Николаевич": 58,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000131416": 21,
+      "gas:candidate-vibid:1001000121914": 85,
+      "gas:candidate-vibid:1001000112258": 59,
+      "gas:candidate-vibid:1001000225990": 265,
+      "gas:candidate-vibid:1001000220846": 142,
+      "gas:candidate-vibid:1001000195145": 16,
+      "gas:candidate-vibid:1001000136127": 45,
+      "gas:candidate-vibid:267200070847": 58,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 24,
-      "Березов Владимир Прокофьевич": 115,
-      "Дедков Виктор Дмитриевич": 51,
-      "Деренковский Виктор Яковлевич": 327,
-      "Кишенин Владимир Николаевич": 165,
-      "Космачев Олег Михайлович": 23,
-      "Рябченко Алексей Анатольевич": 58,
-      "Степанов Сергей Николаевич": 66,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000131416": 24,
+      "gas:candidate-vibid:1001000121914": 115,
+      "gas:candidate-vibid:1001000112258": 51,
+      "gas:candidate-vibid:1001000225990": 327,
+      "gas:candidate-vibid:1001000220846": 165,
+      "gas:candidate-vibid:1001000195145": 23,
+      "gas:candidate-vibid:1001000136127": 58,
+      "gas:candidate-vibid:267200070847": 66,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 15,
-      "Березов Владимир Прокофьевич": 120,
-      "Дедков Виктор Дмитриевич": 59,
-      "Деренковский Виктор Яковлевич": 336,
-      "Кишенин Владимир Николаевич": 170,
-      "Космачев Олег Михайлович": 16,
-      "Рябченко Алексей Анатольевич": 59,
-      "Степанов Сергей Николаевич": 68,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000131416": 15,
+      "gas:candidate-vibid:1001000121914": 120,
+      "gas:candidate-vibid:1001000112258": 59,
+      "gas:candidate-vibid:1001000225990": 336,
+      "gas:candidate-vibid:1001000220846": 170,
+      "gas:candidate-vibid:1001000195145": 16,
+      "gas:candidate-vibid:1001000136127": 59,
+      "gas:candidate-vibid:267200070847": 68,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 14,
-      "Березов Владимир Прокофьевич": 118,
-      "Дедков Виктор Дмитриевич": 48,
-      "Деренковский Виктор Яковлевич": 268,
-      "Кишенин Владимир Николаевич": 186,
-      "Космачев Олег Михайлович": 10,
-      "Рябченко Алексей Анатольевич": 32,
-      "Степанов Сергей Николаевич": 33,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000131416": 14,
+      "gas:candidate-vibid:1001000121914": 118,
+      "gas:candidate-vibid:1001000112258": 48,
+      "gas:candidate-vibid:1001000225990": 268,
+      "gas:candidate-vibid:1001000220846": 186,
+      "gas:candidate-vibid:1001000195145": 10,
+      "gas:candidate-vibid:1001000136127": 32,
+      "gas:candidate-vibid:267200070847": 33,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 27,
-      "Березов Владимир Прокофьевич": 123,
-      "Дедков Виктор Дмитриевич": 59,
-      "Деренковский Виктор Яковлевич": 379,
-      "Кишенин Владимир Николаевич": 142,
-      "Космачев Олег Михайлович": 13,
-      "Рябченко Алексей Анатольевич": 55,
-      "Степанов Сергей Николаевич": 40,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000131416": 27,
+      "gas:candidate-vibid:1001000121914": 123,
+      "gas:candidate-vibid:1001000112258": 59,
+      "gas:candidate-vibid:1001000225990": 379,
+      "gas:candidate-vibid:1001000220846": 142,
+      "gas:candidate-vibid:1001000195145": 13,
+      "gas:candidate-vibid:1001000136127": 55,
+      "gas:candidate-vibid:267200070847": 40,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 14,
-      "Березов Владимир Прокофьевич": 118,
-      "Дедков Виктор Дмитриевич": 54,
-      "Деренковский Виктор Яковлевич": 334,
-      "Кишенин Владимир Николаевич": 172,
-      "Космачев Олег Михайлович": 16,
-      "Рябченко Алексей Анатольевич": 50,
-      "Степанов Сергей Николаевич": 59,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000131416": 14,
+      "gas:candidate-vibid:1001000121914": 118,
+      "gas:candidate-vibid:1001000112258": 54,
+      "gas:candidate-vibid:1001000225990": 334,
+      "gas:candidate-vibid:1001000220846": 172,
+      "gas:candidate-vibid:1001000195145": 16,
+      "gas:candidate-vibid:1001000136127": 50,
+      "gas:candidate-vibid:267200070847": 59,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 16,
-      "Березов Владимир Прокофьевич": 125,
-      "Дедков Виктор Дмитриевич": 30,
-      "Деренковский Виктор Яковлевич": 264,
-      "Кишенин Владимир Николаевич": 196,
-      "Космачев Олег Михайлович": 13,
-      "Рябченко Алексей Анатольевич": 26,
-      "Степанов Сергей Николаевич": 43,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000131416": 16,
+      "gas:candidate-vibid:1001000121914": 125,
+      "gas:candidate-vibid:1001000112258": 30,
+      "gas:candidate-vibid:1001000225990": 264,
+      "gas:candidate-vibid:1001000220846": 196,
+      "gas:candidate-vibid:1001000195145": 13,
+      "gas:candidate-vibid:1001000136127": 26,
+      "gas:candidate-vibid:267200070847": 43,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 18,
-      "Березов Владимир Прокофьевич": 135,
-      "Дедков Виктор Дмитриевич": 57,
-      "Деренковский Виктор Яковлевич": 228,
-      "Кишенин Владимир Николаевич": 184,
-      "Космачев Олег Михайлович": 10,
-      "Рябченко Алексей Анатольевич": 47,
-      "Степанов Сергей Николаевич": 32,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000131416": 18,
+      "gas:candidate-vibid:1001000121914": 135,
+      "gas:candidate-vibid:1001000112258": 57,
+      "gas:candidate-vibid:1001000225990": 228,
+      "gas:candidate-vibid:1001000220846": 184,
+      "gas:candidate-vibid:1001000195145": 10,
+      "gas:candidate-vibid:1001000136127": 47,
+      "gas:candidate-vibid:267200070847": 32,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 45,
-      "Дедков Виктор Дмитриевич": 18,
-      "Деренковский Виктор Яковлевич": 152,
-      "Кишенин Владимир Николаевич": 68,
-      "Космачев Олег Михайлович": 7,
-      "Рябченко Алексей Анатольевич": 25,
-      "Степанов Сергей Николаевич": 20,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 45,
+      "gas:candidate-vibid:1001000112258": 18,
+      "gas:candidate-vibid:1001000225990": 152,
+      "gas:candidate-vibid:1001000220846": 68,
+      "gas:candidate-vibid:1001000195145": 7,
+      "gas:candidate-vibid:1001000136127": 25,
+      "gas:candidate-vibid:267200070847": 20,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 11,
-      "Дедков Виктор Дмитриевич": 9,
-      "Деренковский Виктор Яковлевич": 296,
-      "Кишенин Владимир Николаевич": 6,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 11,
+      "gas:candidate-vibid:1001000112258": 9,
+      "gas:candidate-vibid:1001000225990": 296,
+      "gas:candidate-vibid:1001000220846": 6,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 5,
-      "Березов Владимир Прокофьевич": 27,
-      "Дедков Виктор Дмитриевич": 12,
-      "Деренковский Виктор Яковлевич": 48,
-      "Кишенин Владимир Николаевич": 33,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 7,
-      "Степанов Сергей Николаевич": 11,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131416": 5,
+      "gas:candidate-vibid:1001000121914": 27,
+      "gas:candidate-vibid:1001000112258": 12,
+      "gas:candidate-vibid:1001000225990": 48,
+      "gas:candidate-vibid:1001000220846": 33,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 7,
+      "gas:candidate-vibid:267200070847": 11,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 120,
-      "Дедков Виктор Дмитриевич": 17,
-      "Деренковский Виктор Яковлевич": 144,
-      "Кишенин Владимир Николаевич": 145,
-      "Космачев Олег Михайлович": 9,
-      "Рябченко Алексей Анатольевич": 14,
-      "Степанов Сергей Николаевич": 39,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 120,
+      "gas:candidate-vibid:1001000112258": 17,
+      "gas:candidate-vibid:1001000225990": 144,
+      "gas:candidate-vibid:1001000220846": 145,
+      "gas:candidate-vibid:1001000195145": 9,
+      "gas:candidate-vibid:1001000136127": 14,
+      "gas:candidate-vibid:267200070847": 39,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 265,
-      "Дедков Виктор Дмитриевич": 18,
-      "Деренковский Виктор Яковлевич": 254,
-      "Кишенин Владимир Николаевич": 180,
-      "Космачев Олег Михайлович": 10,
-      "Рябченко Алексей Анатольевич": 23,
-      "Степанов Сергей Николаевич": 49,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 265,
+      "gas:candidate-vibid:1001000112258": 18,
+      "gas:candidate-vibid:1001000225990": 254,
+      "gas:candidate-vibid:1001000220846": 180,
+      "gas:candidate-vibid:1001000195145": 10,
+      "gas:candidate-vibid:1001000136127": 23,
+      "gas:candidate-vibid:267200070847": 49,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 189,
-      "Дедков Виктор Дмитриевич": 17,
-      "Деренковский Виктор Яковлевич": 234,
-      "Кишенин Владимир Николаевич": 138,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 30,
-      "Степанов Сергей Николаевич": 61,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 189,
+      "gas:candidate-vibid:1001000112258": 17,
+      "gas:candidate-vibid:1001000225990": 234,
+      "gas:candidate-vibid:1001000220846": 138,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 30,
+      "gas:candidate-vibid:267200070847": 61,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 17,
-      "Березов Владимир Прокофьевич": 156,
-      "Дедков Виктор Дмитриевич": 25,
-      "Деренковский Виктор Яковлевич": 171,
-      "Кишенин Владимир Николаевич": 104,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 27,
-      "Степанов Сергей Николаевич": 48,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000131416": 17,
+      "gas:candidate-vibid:1001000121914": 156,
+      "gas:candidate-vibid:1001000112258": 25,
+      "gas:candidate-vibid:1001000225990": 171,
+      "gas:candidate-vibid:1001000220846": 104,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 27,
+      "gas:candidate-vibid:267200070847": 48,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 157,
-      "Дедков Виктор Дмитриевич": 12,
-      "Деренковский Виктор Яковлевич": 187,
-      "Кишенин Владимир Николаевич": 135,
-      "Космачев Олег Михайлович": 8,
-      "Рябченко Алексей Анатольевич": 26,
-      "Степанов Сергей Николаевич": 38,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 157,
+      "gas:candidate-vibid:1001000112258": 12,
+      "gas:candidate-vibid:1001000225990": 187,
+      "gas:candidate-vibid:1001000220846": 135,
+      "gas:candidate-vibid:1001000195145": 8,
+      "gas:candidate-vibid:1001000136127": 26,
+      "gas:candidate-vibid:267200070847": 38,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 19,
-      "Березов Владимир Прокофьевич": 189,
-      "Дедков Виктор Дмитриевич": 27,
-      "Деренковский Виктор Яковлевич": 254,
-      "Кишенин Владимир Николаевич": 129,
-      "Космачев Олег Михайлович": 9,
-      "Рябченко Алексей Анатольевич": 33,
-      "Степанов Сергей Николаевич": 38,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000131416": 19,
+      "gas:candidate-vibid:1001000121914": 189,
+      "gas:candidate-vibid:1001000112258": 27,
+      "gas:candidate-vibid:1001000225990": 254,
+      "gas:candidate-vibid:1001000220846": 129,
+      "gas:candidate-vibid:1001000195145": 9,
+      "gas:candidate-vibid:1001000136127": 33,
+      "gas:candidate-vibid:267200070847": 38,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 202,
-      "Дедков Виктор Дмитриевич": 32,
-      "Деренковский Виктор Яковлевич": 279,
-      "Кишенин Владимир Николаевич": 120,
-      "Космачев Олег Михайлович": 6,
-      "Рябченко Алексей Анатольевич": 36,
-      "Степанов Сергей Николаевич": 53,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 202,
+      "gas:candidate-vibid:1001000112258": 32,
+      "gas:candidate-vibid:1001000225990": 279,
+      "gas:candidate-vibid:1001000220846": 120,
+      "gas:candidate-vibid:1001000195145": 6,
+      "gas:candidate-vibid:1001000136127": 36,
+      "gas:candidate-vibid:267200070847": 53,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 27,
-      "Березов Владимир Прокофьевич": 179,
-      "Дедков Виктор Дмитриевич": 34,
-      "Деренковский Виктор Яковлевич": 336,
-      "Кишенин Владимир Николаевич": 144,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 42,
-      "Степанов Сергей Николаевич": 49,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000131416": 27,
+      "gas:candidate-vibid:1001000121914": 179,
+      "gas:candidate-vibid:1001000112258": 34,
+      "gas:candidate-vibid:1001000225990": 336,
+      "gas:candidate-vibid:1001000220846": 144,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 42,
+      "gas:candidate-vibid:267200070847": 49,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 17,
-      "Березов Владимир Прокофьевич": 56,
-      "Дедков Виктор Дмитриевич": 19,
-      "Деренковский Виктор Яковлевич": 133,
-      "Кишенин Владимир Николаевич": 92,
-      "Космачев Олег Михайлович": 6,
-      "Рябченко Алексей Анатольевич": 27,
-      "Степанов Сергей Николаевич": 18,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000131416": 17,
+      "gas:candidate-vibid:1001000121914": 56,
+      "gas:candidate-vibid:1001000112258": 19,
+      "gas:candidate-vibid:1001000225990": 133,
+      "gas:candidate-vibid:1001000220846": 92,
+      "gas:candidate-vibid:1001000195145": 6,
+      "gas:candidate-vibid:1001000136127": 27,
+      "gas:candidate-vibid:267200070847": 18,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 24,
-      "Дедков Виктор Дмитриевич": 6,
-      "Деренковский Виктор Яковлевич": 120,
-      "Кишенин Владимир Николаевич": 67,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 23,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 24,
+      "gas:candidate-vibid:1001000112258": 6,
+      "gas:candidate-vibid:1001000225990": 120,
+      "gas:candidate-vibid:1001000220846": 67,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 23,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 76,
-      "Дедков Виктор Дмитриевич": 15,
-      "Деренковский Виктор Яковлевич": 217,
-      "Кишенин Владимир Николаевич": 90,
-      "Космачев Олег Михайлович": 5,
-      "Рябченко Алексей Анатольевич": 33,
-      "Степанов Сергей Николаевич": 41,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 76,
+      "gas:candidate-vibid:1001000112258": 15,
+      "gas:candidate-vibid:1001000225990": 217,
+      "gas:candidate-vibid:1001000220846": 90,
+      "gas:candidate-vibid:1001000195145": 5,
+      "gas:candidate-vibid:1001000136127": 33,
+      "gas:candidate-vibid:267200070847": 41,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 68,
-      "Дедков Виктор Дмитриевич": 7,
-      "Деренковский Виктор Яковлевич": 91,
-      "Кишенин Владимир Николаевич": 79,
-      "Космачев Олег Михайлович": 5,
-      "Рябченко Алексей Анатольевич": 16,
-      "Степанов Сергей Николаевич": 16,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 68,
+      "gas:candidate-vibid:1001000112258": 7,
+      "gas:candidate-vibid:1001000225990": 91,
+      "gas:candidate-vibid:1001000220846": 79,
+      "gas:candidate-vibid:1001000195145": 5,
+      "gas:candidate-vibid:1001000136127": 16,
+      "gas:candidate-vibid:267200070847": 16,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 21,
-      "Березов Владимир Прокофьевич": 160,
-      "Дедков Виктор Дмитриевич": 24,
-      "Деренковский Виктор Яковлевич": 250,
-      "Кишенин Владимир Николаевич": 170,
-      "Космачев Олег Михайлович": 17,
-      "Рябченко Алексей Анатольевич": 40,
-      "Степанов Сергей Николаевич": 72,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000131416": 21,
+      "gas:candidate-vibid:1001000121914": 160,
+      "gas:candidate-vibid:1001000112258": 24,
+      "gas:candidate-vibid:1001000225990": 250,
+      "gas:candidate-vibid:1001000220846": 170,
+      "gas:candidate-vibid:1001000195145": 17,
+      "gas:candidate-vibid:1001000136127": 40,
+      "gas:candidate-vibid:267200070847": 72,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 17,
-      "Березов Владимир Прокофьевич": 262,
-      "Дедков Виктор Дмитриевич": 39,
-      "Деренковский Виктор Яковлевич": 214,
-      "Кишенин Владимир Николаевич": 187,
-      "Космачев Олег Михайлович": 9,
-      "Рябченко Алексей Анатольевич": 29,
-      "Степанов Сергей Николаевич": 97,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000131416": 17,
+      "gas:candidate-vibid:1001000121914": 262,
+      "gas:candidate-vibid:1001000112258": 39,
+      "gas:candidate-vibid:1001000225990": 214,
+      "gas:candidate-vibid:1001000220846": 187,
+      "gas:candidate-vibid:1001000195145": 9,
+      "gas:candidate-vibid:1001000136127": 29,
+      "gas:candidate-vibid:267200070847": 97,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 13,
-      "Березов Владимир Прокофьевич": 190,
-      "Дедков Виктор Дмитриевич": 25,
-      "Деренковский Виктор Яковлевич": 206,
-      "Кишенин Владимир Николаевич": 107,
-      "Космачев Олег Михайлович": 11,
-      "Рябченко Алексей Анатольевич": 29,
-      "Степанов Сергей Николаевич": 49,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000131416": 13,
+      "gas:candidate-vibid:1001000121914": 190,
+      "gas:candidate-vibid:1001000112258": 25,
+      "gas:candidate-vibid:1001000225990": 206,
+      "gas:candidate-vibid:1001000220846": 107,
+      "gas:candidate-vibid:1001000195145": 11,
+      "gas:candidate-vibid:1001000136127": 29,
+      "gas:candidate-vibid:267200070847": 49,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 0,
-      "Березов Владимир Прокофьевич": 32,
-      "Дедков Виктор Дмитриевич": 9,
-      "Деренковский Виктор Яковлевич": 96,
-      "Кишенин Владимир Николаевич": 50,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 35,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131416": 0,
+      "gas:candidate-vibid:1001000121914": 32,
+      "gas:candidate-vibid:1001000112258": 9,
+      "gas:candidate-vibid:1001000225990": 96,
+      "gas:candidate-vibid:1001000220846": 50,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 35,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 28,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 99,
-      "Кишенин Владимир Николаевич": 73,
-      "Космачев Олег Михайлович": 8,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 14,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 28,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 99,
+      "gas:candidate-vibid:1001000220846": 73,
+      "gas:candidate-vibid:1001000195145": 8,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 14,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 20,
-      "Березов Владимир Прокофьевич": 118,
-      "Дедков Виктор Дмитриевич": 21,
-      "Деренковский Виктор Яковлевич": 219,
-      "Кишенин Владимир Николаевич": 132,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 26,
-      "Степанов Сергей Николаевич": 18,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131416": 20,
+      "gas:candidate-vibid:1001000121914": 118,
+      "gas:candidate-vibid:1001000112258": 21,
+      "gas:candidate-vibid:1001000225990": 219,
+      "gas:candidate-vibid:1001000220846": 132,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 26,
+      "gas:candidate-vibid:267200070847": 18,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 25,
-      "Дедков Виктор Дмитриевич": 8,
-      "Деренковский Виктор Яковлевич": 92,
-      "Кишенин Владимир Николаевич": 35,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 25,
+      "gas:candidate-vibid:1001000112258": 8,
+      "gas:candidate-vibid:1001000225990": 92,
+      "gas:candidate-vibid:1001000220846": 35,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 5,
-      "Березов Владимир Прокофьевич": 48,
-      "Дедков Виктор Дмитриевич": 8,
-      "Деренковский Виктор Яковлевич": 97,
-      "Кишенин Владимир Николаевич": 31,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131416": 5,
+      "gas:candidate-vibid:1001000121914": 48,
+      "gas:candidate-vibid:1001000112258": 8,
+      "gas:candidate-vibid:1001000225990": 97,
+      "gas:candidate-vibid:1001000220846": 31,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 13,
-      "Дедков Виктор Дмитриевич": 14,
-      "Деренковский Виктор Яковлевич": 108,
-      "Кишенин Владимир Николаевич": 31,
-      "Космачев Олег Михайлович": 6,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 13,
+      "gas:candidate-vibid:1001000112258": 14,
+      "gas:candidate-vibid:1001000225990": 108,
+      "gas:candidate-vibid:1001000220846": 31,
+      "gas:candidate-vibid:1001000195145": 6,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 37,
-      "Дедков Виктор Дмитриевич": 10,
-      "Деренковский Виктор Яковлевич": 100,
-      "Кишенин Владимир Николаевич": 60,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 7,
-      "Степанов Сергей Николаевич": 17,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 37,
+      "gas:candidate-vibid:1001000112258": 10,
+      "gas:candidate-vibid:1001000225990": 100,
+      "gas:candidate-vibid:1001000220846": 60,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 7,
+      "gas:candidate-vibid:267200070847": 17,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 11,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 66,
-      "Кишенин Владимир Николаевич": 32,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 11,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 66,
+      "gas:candidate-vibid:1001000220846": 32,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 22,
-      "Березов Владимир Прокофьевич": 93,
-      "Дедков Виктор Дмитриевич": 14,
-      "Деренковский Виктор Яковлевич": 272,
-      "Кишенин Владимир Николаевич": 78,
-      "Космачев Олег Михайлович": 10,
-      "Рябченко Алексей Анатольевич": 22,
-      "Степанов Сергей Николаевич": 35,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000131416": 22,
+      "gas:candidate-vibid:1001000121914": 93,
+      "gas:candidate-vibid:1001000112258": 14,
+      "gas:candidate-vibid:1001000225990": 272,
+      "gas:candidate-vibid:1001000220846": 78,
+      "gas:candidate-vibid:1001000195145": 10,
+      "gas:candidate-vibid:1001000136127": 22,
+      "gas:candidate-vibid:267200070847": 35,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 5,
-      "Березов Владимир Прокофьевич": 10,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 46,
-      "Кишенин Владимир Николаевич": 15,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131416": 5,
+      "gas:candidate-vibid:1001000121914": 10,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 46,
+      "gas:candidate-vibid:1001000220846": 15,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 50,
-      "Дедков Виктор Дмитриевич": 7,
-      "Деренковский Виктор Яковлевич": 69,
-      "Кишенин Владимир Николаевич": 28,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 50,
+      "gas:candidate-vibid:1001000112258": 7,
+      "gas:candidate-vibid:1001000225990": 69,
+      "gas:candidate-vibid:1001000220846": 28,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 13,
-      "Березов Владимир Прокофьевич": 75,
-      "Дедков Виктор Дмитриевич": 11,
-      "Деренковский Виктор Яковлевич": 171,
-      "Кишенин Владимир Николаевич": 19,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 13,
+      "gas:candidate-vibid:1001000121914": 75,
+      "gas:candidate-vibid:1001000112258": 11,
+      "gas:candidate-vibid:1001000225990": 171,
+      "gas:candidate-vibid:1001000220846": 19,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 35,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 65,
-      "Кишенин Владимир Николаевич": 53,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 7,
-      "Степанов Сергей Николаевич": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 35,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 65,
+      "gas:candidate-vibid:1001000220846": 53,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 7,
+      "gas:candidate-vibid:267200070847": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 29,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 34,
-      "Кишенин Владимир Николаевич": 26,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 12,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 29,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 34,
+      "gas:candidate-vibid:1001000220846": 26,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 12,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 122,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 138,
-      "Кишенин Владимир Николаевич": 67,
-      "Космачев Олег Михайлович": 7,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 22,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 122,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 138,
+      "gas:candidate-vibid:1001000220846": 67,
+      "gas:candidate-vibid:1001000195145": 7,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 22,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 19,
-      "Березов Владимир Прокофьевич": 29,
-      "Дедков Виктор Дмитриевич": 9,
-      "Деренковский Виктор Яковлевич": 90,
-      "Кишенин Владимир Николаевич": 41,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131416": 19,
+      "gas:candidate-vibid:1001000121914": 29,
+      "gas:candidate-vibid:1001000112258": 9,
+      "gas:candidate-vibid:1001000225990": 90,
+      "gas:candidate-vibid:1001000220846": 41,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 2,
-      "Березов Владимир Прокофьевич": 30,
-      "Дедков Виктор Дмитриевич": 11,
-      "Деренковский Виктор Яковлевич": 103,
-      "Кишенин Владимир Николаевич": 37,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131416": 2,
+      "gas:candidate-vibid:1001000121914": 30,
+      "gas:candidate-vibid:1001000112258": 11,
+      "gas:candidate-vibid:1001000225990": 103,
+      "gas:candidate-vibid:1001000220846": 37,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 15,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 52,
-      "Кишенин Владимир Николаевич": 14,
-      "Космачев Олег Михайлович": 6,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 15,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 52,
+      "gas:candidate-vibid:1001000220846": 14,
+      "gas:candidate-vibid:1001000195145": 6,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 120,
-      "Дедков Виктор Дмитриевич": 12,
-      "Деренковский Виктор Яковлевич": 165,
-      "Кишенин Владимир Николаевич": 91,
-      "Космачев Олег Михайлович": 7,
-      "Рябченко Алексей Анатольевич": 12,
-      "Степанов Сергей Николаевич": 25,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 120,
+      "gas:candidate-vibid:1001000112258": 12,
+      "gas:candidate-vibid:1001000225990": 165,
+      "gas:candidate-vibid:1001000220846": 91,
+      "gas:candidate-vibid:1001000195145": 7,
+      "gas:candidate-vibid:1001000136127": 12,
+      "gas:candidate-vibid:267200070847": 25,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071392&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 7,
-      "Березов Владимир Прокофьевич": 8,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 186,
-      "Кишенин Владимир Николаевич": 5,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000131416": 7,
+      "gas:candidate-vibid:1001000121914": 8,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 186,
+      "gas:candidate-vibid:1001000220846": 5,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 110,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 106,
-      "Кишенин Владимир Николаевич": 27,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 110,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 106,
+      "gas:candidate-vibid:1001000220846": 27,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 29,
-      "Березов Владимир Прокофьевич": 88,
-      "Дедков Виктор Дмитриевич": 6,
-      "Деренковский Виктор Яковлевич": 185,
-      "Кишенин Владимир Николаевич": 63,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131416": 29,
+      "gas:candidate-vibid:1001000121914": 88,
+      "gas:candidate-vibid:1001000112258": 6,
+      "gas:candidate-vibid:1001000225990": 185,
+      "gas:candidate-vibid:1001000220846": 63,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 18,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 104,
-      "Кишенин Владимир Николаевич": 43,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 18,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 104,
+      "gas:candidate-vibid:1001000220846": 43,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 111,
-      "Дедков Виктор Дмитриевич": 13,
-      "Деренковский Виктор Яковлевич": 391,
-      "Кишенин Владимир Николаевич": 107,
-      "Космачев Олег Михайлович": 7,
-      "Рябченко Алексей Анатольевич": 24,
-      "Степанов Сергей Николаевич": 6,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 111,
+      "gas:candidate-vibid:1001000112258": 13,
+      "gas:candidate-vibid:1001000225990": 391,
+      "gas:candidate-vibid:1001000220846": 107,
+      "gas:candidate-vibid:1001000195145": 7,
+      "gas:candidate-vibid:1001000136127": 24,
+      "gas:candidate-vibid:267200070847": 6,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 30,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 136,
-      "Кишенин Владимир Николаевич": 43,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 30,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 136,
+      "gas:candidate-vibid:1001000220846": 43,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 7,
-      "Березов Владимир Прокофьевич": 2,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 168,
-      "Кишенин Владимир Николаевич": 4,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131416": 7,
+      "gas:candidate-vibid:1001000121914": 2,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 168,
+      "gas:candidate-vibid:1001000220846": 4,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 42,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 157,
-      "Кишенин Владимир Николаевич": 36,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 42,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 157,
+      "gas:candidate-vibid:1001000220846": 36,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 0,
-      "Березов Владимир Прокофьевич": 11,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 112,
-      "Кишенин Владимир Николаевич": 17,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131416": 0,
+      "gas:candidate-vibid:1001000121914": 11,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 112,
+      "gas:candidate-vibid:1001000220846": 17,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 19,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 158,
-      "Кишенин Владимир Николаевич": 26,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 19,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 158,
+      "gas:candidate-vibid:1001000220846": 26,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 21,
-      "Березов Владимир Прокофьевич": 16,
-      "Дедков Виктор Дмитриевич": 8,
-      "Деренковский Виктор Яковлевич": 175,
-      "Кишенин Владимир Николаевич": 26,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 9,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131416": 21,
+      "gas:candidate-vibid:1001000121914": 16,
+      "gas:candidate-vibid:1001000112258": 8,
+      "gas:candidate-vibid:1001000225990": 175,
+      "gas:candidate-vibid:1001000220846": 26,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 9,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 6,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 219,
-      "Кишенин Владимир Николаевич": 7,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 6,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 219,
+      "gas:candidate-vibid:1001000220846": 7,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 1,
-      "Березов Владимир Прокофьевич": 27,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 155,
-      "Кишенин Владимир Николаевич": 41,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 1,
+      "gas:candidate-vibid:1001000121914": 27,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 155,
+      "gas:candidate-vibid:1001000220846": 41,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 50,
-      "Дедков Виктор Дмитриевич": 15,
-      "Деренковский Виктор Яковлевич": 217,
-      "Кишенин Владимир Николаевич": 57,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 50,
+      "gas:candidate-vibid:1001000112258": 15,
+      "gas:candidate-vibid:1001000225990": 217,
+      "gas:candidate-vibid:1001000220846": 57,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 26,
-      "Дедков Виктор Дмитриевич": 8,
-      "Деренковский Виктор Яковлевич": 145,
-      "Кишенин Владимир Николаевич": 44,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 26,
+      "gas:candidate-vibid:1001000112258": 8,
+      "gas:candidate-vibid:1001000225990": 145,
+      "gas:candidate-vibid:1001000220846": 44,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 99,
-      "Березов Владимир Прокофьевич": 209,
-      "Дедков Виктор Дмитриевич": 26,
-      "Деренковский Виктор Яковлевич": 622,
-      "Кишенин Владимир Николаевич": 298,
-      "Космачев Олег Михайлович": 13,
-      "Рябченко Алексей Анатольевич": 34,
-      "Степанов Сергей Николаевич": 17,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000131416": 99,
+      "gas:candidate-vibid:1001000121914": 209,
+      "gas:candidate-vibid:1001000112258": 26,
+      "gas:candidate-vibid:1001000225990": 622,
+      "gas:candidate-vibid:1001000220846": 298,
+      "gas:candidate-vibid:1001000195145": 13,
+      "gas:candidate-vibid:1001000136127": 34,
+      "gas:candidate-vibid:267200070847": 17,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071393&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 10,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 90,
-      "Кишенин Владимир Николаевич": 23,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 10,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 90,
+      "gas:candidate-vibid:1001000220846": 23,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 7,
-      "Березов Владимир Прокофьевич": 7,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 74,
-      "Кишенин Владимир Николаевич": 36,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131416": 7,
+      "gas:candidate-vibid:1001000121914": 7,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 74,
+      "gas:candidate-vibid:1001000220846": 36,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 1,
-      "Березов Владимир Прокофьевич": 29,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 98,
-      "Кишенин Владимир Николаевич": 76,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131416": 1,
+      "gas:candidate-vibid:1001000121914": 29,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 98,
+      "gas:candidate-vibid:1001000220846": 76,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 11,
-      "Березов Владимир Прокофьевич": 65,
-      "Дедков Виктор Дмитриевич": 9,
-      "Деренковский Виктор Яковлевич": 229,
-      "Кишенин Владимир Николаевич": 106,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131416": 11,
+      "gas:candidate-vibid:1001000121914": 65,
+      "gas:candidate-vibid:1001000112258": 9,
+      "gas:candidate-vibid:1001000225990": 229,
+      "gas:candidate-vibid:1001000220846": 106,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 4,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 107,
-      "Кишенин Владимир Николаевич": 23,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 4,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 107,
+      "gas:candidate-vibid:1001000220846": 23,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 25,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 74,
-      "Кишенин Владимир Николаевич": 58,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 25,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 74,
+      "gas:candidate-vibid:1001000220846": 58,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 0,
-      "Березов Владимир Прокофьевич": 1,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 48,
-      "Кишенин Владимир Николаевич": 19,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131416": 0,
+      "gas:candidate-vibid:1001000121914": 1,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 48,
+      "gas:candidate-vibid:1001000220846": 19,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 17,
-      "Березов Владимир Прокофьевич": 45,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 168,
-      "Кишенин Владимир Николаевич": 48,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131416": 17,
+      "gas:candidate-vibid:1001000121914": 45,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 168,
+      "gas:candidate-vibid:1001000220846": 48,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 36,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 62,
-      "Кишенин Владимир Николаевич": 61,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 36,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 62,
+      "gas:candidate-vibid:1001000220846": 61,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 43,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 59,
-      "Кишенин Владимир Николаевич": 35,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 6,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 43,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 59,
+      "gas:candidate-vibid:1001000220846": 35,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 6,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 2,
-      "Березов Владимир Прокофьевич": 26,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 125,
-      "Кишенин Владимир Николаевич": 49,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131416": 2,
+      "gas:candidate-vibid:1001000121914": 26,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 125,
+      "gas:candidate-vibid:1001000220846": 49,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 59,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 47,
-      "Кишенин Владимир Николаевич": 26,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 59,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 47,
+      "gas:candidate-vibid:1001000220846": 26,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 10,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 124,
-      "Кишенин Владимир Николаевич": 51,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 10,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 124,
+      "gas:candidate-vibid:1001000220846": 51,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 1,
-      "Березов Владимир Прокофьевич": 15,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 46,
-      "Кишенин Владимир Николаевич": 15,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131416": 1,
+      "gas:candidate-vibid:1001000121914": 15,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 46,
+      "gas:candidate-vibid:1001000220846": 15,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 7,
-      "Березов Владимир Прокофьевич": 23,
-      "Дедков Виктор Дмитриевич": 6,
-      "Деренковский Виктор Яковлевич": 151,
-      "Кишенин Владимир Николаевич": 26,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131416": 7,
+      "gas:candidate-vibid:1001000121914": 23,
+      "gas:candidate-vibid:1001000112258": 6,
+      "gas:candidate-vibid:1001000225990": 151,
+      "gas:candidate-vibid:1001000220846": 26,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 7,
-      "Березов Владимир Прокофьевич": 17,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 65,
-      "Кишенин Владимир Николаевич": 51,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 10,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131416": 7,
+      "gas:candidate-vibid:1001000121914": 17,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 65,
+      "gas:candidate-vibid:1001000220846": 51,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 10,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 4,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 109,
-      "Кишенин Владимир Николаевич": 28,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 4,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 109,
+      "gas:candidate-vibid:1001000220846": 28,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 47,
-      "Березов Владимир Прокофьевич": 79,
-      "Дедков Виктор Дмитриевич": 42,
-      "Деренковский Виктор Яковлевич": 490,
-      "Кишенин Владимир Николаевич": 256,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 26,
-      "Степанов Сергей Николаевич": 7,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000131416": 47,
+      "gas:candidate-vibid:1001000121914": 79,
+      "gas:candidate-vibid:1001000112258": 42,
+      "gas:candidate-vibid:1001000225990": 490,
+      "gas:candidate-vibid:1001000220846": 256,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 26,
+      "gas:candidate-vibid:267200070847": 7,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 25,
-      "Березов Владимир Прокофьевич": 105,
-      "Дедков Виктор Дмитриевич": 23,
-      "Деренковский Виктор Яковлевич": 360,
-      "Кишенин Владимир Николаевич": 218,
-      "Космачев Олег Михайлович": 6,
-      "Рябченко Алексей Анатольевич": 14,
-      "Степанов Сергей Николаевич": 10,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131416": 25,
+      "gas:candidate-vibid:1001000121914": 105,
+      "gas:candidate-vibid:1001000112258": 23,
+      "gas:candidate-vibid:1001000225990": 360,
+      "gas:candidate-vibid:1001000220846": 218,
+      "gas:candidate-vibid:1001000195145": 6,
+      "gas:candidate-vibid:1001000136127": 14,
+      "gas:candidate-vibid:267200070847": 10,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071394&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 58,
-      "Березов Владимир Прокофьевич": 130,
-      "Дедков Виктор Дмитриевич": 204,
-      "Деренковский Виктор Яковлевич": 394,
-      "Кишенин Владимир Николаевич": 160,
-      "Космачев Олег Михайлович": 12,
-      "Рябченко Алексей Анатольевич": 20,
-      "Степанов Сергей Николаевич": 4,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000131416": 58,
+      "gas:candidate-vibid:1001000121914": 130,
+      "gas:candidate-vibid:1001000112258": 204,
+      "gas:candidate-vibid:1001000225990": 394,
+      "gas:candidate-vibid:1001000220846": 160,
+      "gas:candidate-vibid:1001000195145": 12,
+      "gas:candidate-vibid:1001000136127": 20,
+      "gas:candidate-vibid:267200070847": 4,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 38,
-      "Дедков Виктор Дмитриевич": 49,
-      "Деренковский Виктор Яковлевич": 187,
-      "Кишенин Владимир Николаевич": 42,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 38,
+      "gas:candidate-vibid:1001000112258": 49,
+      "gas:candidate-vibid:1001000225990": 187,
+      "gas:candidate-vibid:1001000220846": 42,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 12,
-      "Березов Владимир Прокофьевич": 31,
-      "Дедков Виктор Дмитриевич": 37,
-      "Деренковский Виктор Яковлевич": 83,
-      "Кишенин Владимир Николаевич": 29,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131416": 12,
+      "gas:candidate-vibid:1001000121914": 31,
+      "gas:candidate-vibid:1001000112258": 37,
+      "gas:candidate-vibid:1001000225990": 83,
+      "gas:candidate-vibid:1001000220846": 29,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 8,
-      "Березов Владимир Прокофьевич": 17,
-      "Дедков Виктор Дмитриевич": 29,
-      "Деренковский Виктор Яковлевич": 158,
-      "Кишенин Владимир Николаевич": 26,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131416": 8,
+      "gas:candidate-vibid:1001000121914": 17,
+      "gas:candidate-vibid:1001000112258": 29,
+      "gas:candidate-vibid:1001000225990": 158,
+      "gas:candidate-vibid:1001000220846": 26,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 5,
-      "Березов Владимир Прокофьевич": 32,
-      "Дедков Виктор Дмитриевич": 30,
-      "Деренковский Виктор Яковлевич": 168,
-      "Кишенин Владимир Николаевич": 26,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131416": 5,
+      "gas:candidate-vibid:1001000121914": 32,
+      "gas:candidate-vibid:1001000112258": 30,
+      "gas:candidate-vibid:1001000225990": 168,
+      "gas:candidate-vibid:1001000220846": 26,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 2,
-      "Березов Владимир Прокофьевич": 35,
-      "Дедков Виктор Дмитриевич": 23,
-      "Деренковский Виктор Яковлевич": 117,
-      "Кишенин Владимир Николаевич": 17,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131416": 2,
+      "gas:candidate-vibid:1001000121914": 35,
+      "gas:candidate-vibid:1001000112258": 23,
+      "gas:candidate-vibid:1001000225990": 117,
+      "gas:candidate-vibid:1001000220846": 17,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 2,
-      "Березов Владимир Прокофьевич": 25,
-      "Дедков Виктор Дмитриевич": 20,
-      "Деренковский Виктор Яковлевич": 151,
-      "Кишенин Владимир Николаевич": 23,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131416": 2,
+      "gas:candidate-vibid:1001000121914": 25,
+      "gas:candidate-vibid:1001000112258": 20,
+      "gas:candidate-vibid:1001000225990": 151,
+      "gas:candidate-vibid:1001000220846": 23,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 21,
-      "Дедков Виктор Дмитриевич": 48,
-      "Деренковский Виктор Яковлевич": 114,
-      "Кишенин Владимир Николаевич": 18,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 21,
+      "gas:candidate-vibid:1001000112258": 48,
+      "gas:candidate-vibid:1001000225990": 114,
+      "gas:candidate-vibid:1001000220846": 18,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 33,
-      "Дедков Виктор Дмитриевич": 17,
-      "Деренковский Виктор Яковлевич": 87,
-      "Кишенин Владимир Николаевич": 46,
-      "Космачев Олег Михайлович": 5,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 33,
+      "gas:candidate-vibid:1001000112258": 17,
+      "gas:candidate-vibid:1001000225990": 87,
+      "gas:candidate-vibid:1001000220846": 46,
+      "gas:candidate-vibid:1001000195145": 5,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 31,
-      "Дедков Виктор Дмитриевич": 45,
-      "Деренковский Виктор Яковлевич": 124,
-      "Кишенин Владимир Николаевич": 24,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 31,
+      "gas:candidate-vibid:1001000112258": 45,
+      "gas:candidate-vibid:1001000225990": 124,
+      "gas:candidate-vibid:1001000220846": 24,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 12,
-      "Дедков Виктор Дмитриевич": 15,
-      "Деренковский Виктор Яковлевич": 16,
-      "Кишенин Владимир Николаевич": 6,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 12,
+      "gas:candidate-vibid:1001000112258": 15,
+      "gas:candidate-vibid:1001000225990": 16,
+      "gas:candidate-vibid:1001000220846": 6,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 1,
-      "Березов Владимир Прокофьевич": 36,
-      "Дедков Виктор Дмитриевич": 19,
-      "Деренковский Виктор Яковлевич": 95,
-      "Кишенин Владимир Николаевич": 16,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131416": 1,
+      "gas:candidate-vibid:1001000121914": 36,
+      "gas:candidate-vibid:1001000112258": 19,
+      "gas:candidate-vibid:1001000225990": 95,
+      "gas:candidate-vibid:1001000220846": 16,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071395&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 2,
-      "Березов Владимир Прокофьевич": 31,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 83,
-      "Кишенин Владимир Николаевич": 9,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 2,
+      "gas:candidate-vibid:1001000121914": 31,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 83,
+      "gas:candidate-vibid:1001000220846": 9,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 12,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 50,
-      "Кишенин Владимир Николаевич": 16,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 8,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 12,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 50,
+      "gas:candidate-vibid:1001000220846": 16,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 8,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 13,
-      "Дедков Виктор Дмитриевич": 2,
-      "Деренковский Виктор Яковлевич": 72,
-      "Кишенин Владимир Николаевич": 12,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 13,
+      "gas:candidate-vibid:1001000112258": 2,
+      "gas:candidate-vibid:1001000225990": 72,
+      "gas:candidate-vibid:1001000220846": 12,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 13,
-      "Березов Владимир Прокофьевич": 7,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 99,
-      "Кишенин Владимир Николаевич": 3,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131416": 13,
+      "gas:candidate-vibid:1001000121914": 7,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 99,
+      "gas:candidate-vibid:1001000220846": 3,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 17,
-      "Березов Владимир Прокофьевич": 10,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 86,
-      "Кишенин Владимир Николаевич": 29,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 5,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131416": 17,
+      "gas:candidate-vibid:1001000121914": 10,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 86,
+      "gas:candidate-vibid:1001000220846": 29,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 5,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 15,
-      "Березов Владимир Прокофьевич": 2,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 23,
-      "Кишенин Владимир Николаевич": 9,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131416": 15,
+      "gas:candidate-vibid:1001000121914": 2,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 23,
+      "gas:candidate-vibid:1001000220846": 9,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 16,
-      "Березов Владимир Прокофьевич": 7,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 199,
-      "Кишенин Владимир Николаевич": 17,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 16,
+      "gas:candidate-vibid:1001000121914": 7,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 199,
+      "gas:candidate-vibid:1001000220846": 17,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 16,
-      "Березов Владимир Прокофьевич": 13,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 185,
-      "Кишенин Владимир Николаевич": 14,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131416": 16,
+      "gas:candidate-vibid:1001000121914": 13,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 185,
+      "gas:candidate-vibid:1001000220846": 14,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 2,
-      "Дедков Виктор Дмитриевич": 1,
-      "Деренковский Виктор Яковлевич": 84,
-      "Кишенин Владимир Николаевич": 29,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 3,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 2,
+      "gas:candidate-vibid:1001000112258": 1,
+      "gas:candidate-vibid:1001000225990": 84,
+      "gas:candidate-vibid:1001000220846": 29,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 3,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 12,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 232,
-      "Кишенин Владимир Николаевич": 25,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 12,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 232,
+      "gas:candidate-vibid:1001000220846": 25,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 1,
-      "Березов Владимир Прокофьевич": 0,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 149,
-      "Кишенин Владимир Николаевич": 3,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131416": 1,
+      "gas:candidate-vibid:1001000121914": 0,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 149,
+      "gas:candidate-vibid:1001000220846": 3,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 12,
-      "Дедков Виктор Дмитриевич": 6,
-      "Деренковский Виктор Яковлевич": 203,
-      "Кишенин Владимир Николаевич": 20,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 12,
+      "gas:candidate-vibid:1001000112258": 6,
+      "gas:candidate-vibid:1001000225990": 203,
+      "gas:candidate-vibid:1001000220846": 20,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 19,
-      "Дедков Виктор Дмитриевич": 5,
-      "Деренковский Виктор Яковлевич": 159,
-      "Кишенин Владимир Николаевич": 41,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 19,
+      "gas:candidate-vibid:1001000112258": 5,
+      "gas:candidate-vibid:1001000225990": 159,
+      "gas:candidate-vibid:1001000220846": 41,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 7,
-      "Березов Владимир Прокофьевич": 5,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 80,
-      "Кишенин Владимир Николаевич": 20,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131416": 7,
+      "gas:candidate-vibid:1001000121914": 5,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 80,
+      "gas:candidate-vibid:1001000220846": 20,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 4,
-      "Березов Владимир Прокофьевич": 32,
-      "Дедков Виктор Дмитриевич": 6,
-      "Деренковский Виктор Яковлевич": 215,
-      "Кишенин Владимир Николаевич": 20,
-      "Космачев Олег Михайлович": 2,
-      "Рябченко Алексей Анатольевич": 4,
-      "Степанов Сергей Николаевич": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131416": 4,
+      "gas:candidate-vibid:1001000121914": 32,
+      "gas:candidate-vibid:1001000112258": 6,
+      "gas:candidate-vibid:1001000225990": 215,
+      "gas:candidate-vibid:1001000220846": 20,
+      "gas:candidate-vibid:1001000195145": 2,
+      "gas:candidate-vibid:1001000136127": 4,
+      "gas:candidate-vibid:267200070847": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 1,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 76,
-      "Кишенин Владимир Николаевич": 6,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 0,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 1,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 76,
+      "gas:candidate-vibid:1001000220846": 6,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 0,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 33,
-      "Дедков Виктор Дмитриевич": 4,
-      "Деренковский Виктор Яковлевич": 209,
-      "Кишенин Владимир Николаевич": 24,
-      "Космачев Олег Михайлович": 3,
-      "Рябченко Алексей Анатольевич": 8,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 33,
+      "gas:candidate-vibid:1001000112258": 4,
+      "gas:candidate-vibid:1001000225990": 209,
+      "gas:candidate-vibid:1001000220846": 24,
+      "gas:candidate-vibid:1001000195145": 3,
+      "gas:candidate-vibid:1001000136127": 8,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 9,
-      "Березов Владимир Прокофьевич": 5,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 80,
-      "Кишенин Владимир Николаевич": 18,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131416": 9,
+      "gas:candidate-vibid:1001000121914": 5,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 80,
+      "gas:candidate-vibid:1001000220846": 18,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 10,
-      "Березов Владимир Прокофьевич": 6,
-      "Дедков Виктор Дмитриевич": 0,
-      "Деренковский Виктор Яковлевич": 89,
-      "Кишенин Владимир Николаевич": 8,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 1,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131416": 10,
+      "gas:candidate-vibid:1001000121914": 6,
+      "gas:candidate-vibid:1001000112258": 0,
+      "gas:candidate-vibid:1001000225990": 89,
+      "gas:candidate-vibid:1001000220846": 8,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 1,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 6,
-      "Березов Владимир Прокофьевич": 4,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 42,
-      "Кишенин Владимир Николаевич": 18,
-      "Космачев Олег Михайлович": 1,
-      "Рябченко Алексей Анатольевич": 7,
-      "Степанов Сергей Николаевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131416": 6,
+      "gas:candidate-vibid:1001000121914": 4,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 42,
+      "gas:candidate-vibid:1001000220846": 18,
+      "gas:candidate-vibid:1001000195145": 1,
+      "gas:candidate-vibid:1001000136127": 7,
+      "gas:candidate-vibid:267200070847": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 3,
-      "Березов Владимир Прокофьевич": 5,
-      "Дедков Виктор Дмитриевич": 3,
-      "Деренковский Виктор Яковлевич": 267,
-      "Кишенин Владимир Николаевич": 8,
-      "Космачев Олег Михайлович": 0,
-      "Рябченко Алексей Анатольевич": 2,
-      "Степанов Сергей Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131416": 3,
+      "gas:candidate-vibid:1001000121914": 5,
+      "gas:candidate-vibid:1001000112258": 3,
+      "gas:candidate-vibid:1001000225990": 267,
+      "gas:candidate-vibid:1001000220846": 8,
+      "gas:candidate-vibid:1001000195145": 0,
+      "gas:candidate-vibid:1001000136127": 2,
+      "gas:candidate-vibid:267200070847": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 76,
-      "Березов Владимир Прокофьевич": 198,
-      "Дедков Виктор Дмитриевич": 53,
-      "Деренковский Виктор Яковлевич": 579,
-      "Кишенин Владимир Николаевич": 134,
-      "Космачев Олег Михайлович": 14,
-      "Рябченко Алексей Анатольевич": 36,
-      "Степанов Сергей Николаевич": 21,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000131416": 76,
+      "gas:candidate-vibid:1001000121914": 198,
+      "gas:candidate-vibid:1001000112258": 53,
+      "gas:candidate-vibid:1001000225990": 579,
+      "gas:candidate-vibid:1001000220846": 134,
+      "gas:candidate-vibid:1001000195145": 14,
+      "gas:candidate-vibid:1001000136127": 36,
+      "gas:candidate-vibid:267200070847": 21,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 91,
-      "Березов Владимир Прокофьевич": 198,
-      "Дедков Виктор Дмитриевич": 47,
-      "Деренковский Виктор Яковлевич": 582,
-      "Кишенин Владимир Николаевич": 149,
-      "Космачев Олег Михайлович": 12,
-      "Рябченко Алексей Анатольевич": 36,
-      "Степанов Сергей Николаевич": 20,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131416": 91,
+      "gas:candidate-vibid:1001000121914": 198,
+      "gas:candidate-vibid:1001000112258": 47,
+      "gas:candidate-vibid:1001000225990": 582,
+      "gas:candidate-vibid:1001000220846": 149,
+      "gas:candidate-vibid:1001000195145": 12,
+      "gas:candidate-vibid:1001000136127": 36,
+      "gas:candidate-vibid:267200070847": 20,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Акимов Виктор Григорьевич": 24,
-      "Березов Владимир Прокофьевич": 78,
-      "Дедков Виктор Дмитриевич": 21,
-      "Деренковский Виктор Яковлевич": 245,
-      "Кишенин Владимир Николаевич": 61,
-      "Космачев Олег Михайлович": 4,
-      "Рябченко Алексей Анатольевич": 10,
-      "Степанов Сергей Николаевич": 5,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000131416": 24,
+      "gas:candidate-vibid:1001000121914": 78,
+      "gas:candidate-vibid:1001000112258": 21,
+      "gas:candidate-vibid:1001000225990": 245,
+      "gas:candidate-vibid:1001000220846": 61,
+      "gas:candidate-vibid:1001000195145": 4,
+      "gas:candidate-vibid:1001000136127": 10,
+      "gas:candidate-vibid:267200070847": 5,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071396&region=0&sub_region=0&type=429",
@@ -10424,16 +10424,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 417,
-      "Григорьев Михаил Михайлович": 8,
-      "Игнатенков Александр Сергеевич": 22,
-      "Коржова Светлана Михайловна": 103,
-      "Лукьянов Анатолий Иванович": 164,
-      "Маслаков Сергей Васильевич": 123,
-      "Парфенов Борис Иванович": 17,
-      "Фомченков Сергей Александрович": 7,
-      "Юхименко Игорь Андреевич": 19,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000225991": 417,
+      "gas:candidate-vibid:1001000195146": 8,
+      "gas:candidate-vibid:1001000217956": 22,
+      "gas:candidate-vibid:1001000136128": 103,
+      "gas:candidate-vibid:1001000121915": 164,
+      "gas:candidate-vibid:267200070875": 123,
+      "gas:candidate-vibid:1001000112259": 17,
+      "gas:candidate-vibid:267200071845": 7,
+      "gas:candidate-vibid:1001000113984": 19,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10483,16 +10483,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 338,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 18,
-      "Коржова Светлана Михайловна": 82,
-      "Лукьянов Анатолий Иванович": 155,
-      "Маслаков Сергей Васильевич": 80,
-      "Парфенов Борис Иванович": 17,
-      "Фомченков Сергей Александрович": 7,
-      "Юхименко Игорь Андреевич": 9,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000225991": 338,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 18,
+      "gas:candidate-vibid:1001000136128": 82,
+      "gas:candidate-vibid:1001000121915": 155,
+      "gas:candidate-vibid:267200070875": 80,
+      "gas:candidate-vibid:1001000112259": 17,
+      "gas:candidate-vibid:267200071845": 7,
+      "gas:candidate-vibid:1001000113984": 9,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10542,16 +10542,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 270,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 13,
-      "Коржова Светлана Михайловна": 61,
-      "Лукьянов Анатолий Иванович": 117,
-      "Маслаков Сергей Васильевич": 84,
-      "Парфенов Борис Иванович": 15,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 7,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000225991": 270,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 13,
+      "gas:candidate-vibid:1001000136128": 61,
+      "gas:candidate-vibid:1001000121915": 117,
+      "gas:candidate-vibid:267200070875": 84,
+      "gas:candidate-vibid:1001000112259": 15,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 7,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10601,16 +10601,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 314,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 23,
-      "Коржова Светлана Михайловна": 106,
-      "Лукьянов Анатолий Иванович": 164,
-      "Маслаков Сергей Васильевич": 96,
-      "Парфенов Борис Иванович": 22,
-      "Фомченков Сергей Александрович": 6,
-      "Юхименко Игорь Андреевич": 15,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000225991": 314,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 23,
+      "gas:candidate-vibid:1001000136128": 106,
+      "gas:candidate-vibid:1001000121915": 164,
+      "gas:candidate-vibid:267200070875": 96,
+      "gas:candidate-vibid:1001000112259": 22,
+      "gas:candidate-vibid:267200071845": 6,
+      "gas:candidate-vibid:1001000113984": 15,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10660,16 +10660,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 117,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 2,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 17,
-      "Маслаков Сергей Васильевич": 21,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225991": 117,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 2,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 17,
+      "gas:candidate-vibid:267200070875": 21,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10719,16 +10719,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 75,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 10,
-      "Коржова Светлана Михайловна": 9,
-      "Лукьянов Анатолий Иванович": 60,
-      "Маслаков Сергей Васильевич": 13,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225991": 75,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 10,
+      "gas:candidate-vibid:1001000136128": 9,
+      "gas:candidate-vibid:1001000121915": 60,
+      "gas:candidate-vibid:267200070875": 13,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10778,16 +10778,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 136,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 13,
-      "Лукьянов Анатолий Иванович": 42,
-      "Маслаков Сергей Васильевич": 13,
-      "Парфенов Борис Иванович": 6,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 136,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 13,
+      "gas:candidate-vibid:1001000121915": 42,
+      "gas:candidate-vibid:267200070875": 13,
+      "gas:candidate-vibid:1001000112259": 6,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10837,16 +10837,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 138,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 17,
-      "Коржова Светлана Михайловна": 15,
-      "Лукьянов Анатолий Иванович": 44,
-      "Маслаков Сергей Васильевич": 10,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225991": 138,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 17,
+      "gas:candidate-vibid:1001000136128": 15,
+      "gas:candidate-vibid:1001000121915": 44,
+      "gas:candidate-vibid:267200070875": 10,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10896,16 +10896,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 191,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 16,
-      "Лукьянов Анатолий Иванович": 45,
-      "Маслаков Сергей Васильевич": 49,
-      "Парфенов Борис Иванович": 7,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 191,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 16,
+      "gas:candidate-vibid:1001000121915": 45,
+      "gas:candidate-vibid:267200070875": 49,
+      "gas:candidate-vibid:1001000112259": 7,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -10955,16 +10955,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 67,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 24,
-      "Коржова Светлана Михайловна": 9,
-      "Лукьянов Анатолий Иванович": 33,
-      "Маслаков Сергей Васильевич": 10,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 67,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 24,
+      "gas:candidate-vibid:1001000136128": 9,
+      "gas:candidate-vibid:1001000121915": 33,
+      "gas:candidate-vibid:267200070875": 10,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11014,16 +11014,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 202,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 9,
-      "Коржова Светлана Михайловна": 20,
-      "Лукьянов Анатолий Иванович": 47,
-      "Маслаков Сергей Васильевич": 38,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225991": 202,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 9,
+      "gas:candidate-vibid:1001000136128": 20,
+      "gas:candidate-vibid:1001000121915": 47,
+      "gas:candidate-vibid:267200070875": 38,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11073,16 +11073,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 118,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 3,
-      "Коржова Светлана Михайловна": 16,
-      "Лукьянов Анатолий Иванович": 43,
-      "Маслаков Сергей Васильевич": 10,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 118,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 3,
+      "gas:candidate-vibid:1001000136128": 16,
+      "gas:candidate-vibid:1001000121915": 43,
+      "gas:candidate-vibid:267200070875": 10,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11132,16 +11132,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 186,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 24,
-      "Лукьянов Анатолий Иванович": 24,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 186,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 24,
+      "gas:candidate-vibid:1001000121915": 24,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11191,16 +11191,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 110,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 8,
-      "Лукьянов Анатолий Иванович": 25,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225991": 110,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 8,
+      "gas:candidate-vibid:1001000121915": 25,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11250,16 +11250,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 90,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 8,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 53,
-      "Маслаков Сергей Васильевич": 19,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225991": 90,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 8,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 53,
+      "gas:candidate-vibid:267200070875": 19,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11309,16 +11309,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 89,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 18,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 27,
-      "Маслаков Сергей Васильевич": 10,
-      "Парфенов Борис Иванович": 6,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225991": 89,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 18,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 27,
+      "gas:candidate-vibid:267200070875": 10,
+      "gas:candidate-vibid:1001000112259": 6,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11368,16 +11368,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 170,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 8,
-      "Коржова Светлана Михайловна": 22,
-      "Лукьянов Анатолий Иванович": 36,
-      "Маслаков Сергей Васильевич": 22,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225991": 170,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 8,
+      "gas:candidate-vibid:1001000136128": 22,
+      "gas:candidate-vibid:1001000121915": 36,
+      "gas:candidate-vibid:267200070875": 22,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11427,16 +11427,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 85,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 10,
-      "Коржова Светлана Михайловна": 29,
-      "Лукьянов Анатолий Иванович": 21,
-      "Маслаков Сергей Васильевич": 19,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225991": 85,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 10,
+      "gas:candidate-vibid:1001000136128": 29,
+      "gas:candidate-vibid:1001000121915": 21,
+      "gas:candidate-vibid:267200070875": 19,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11486,16 +11486,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 171,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 48,
-      "Маслаков Сергей Васильевич": 18,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225991": 171,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 48,
+      "gas:candidate-vibid:267200070875": 18,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11545,16 +11545,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 114,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 3,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 49,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 114,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 3,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 49,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11604,16 +11604,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 102,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 1,
-      "Коржова Светлана Михайловна": 13,
-      "Лукьянов Анатолий Иванович": 12,
-      "Маслаков Сергей Васильевич": 11,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225991": 102,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 1,
+      "gas:candidate-vibid:1001000136128": 13,
+      "gas:candidate-vibid:1001000121915": 12,
+      "gas:candidate-vibid:267200070875": 11,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11663,16 +11663,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 101,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 3,
-      "Коржова Светлана Михайловна": 13,
-      "Лукьянов Анатолий Иванович": 37,
-      "Маслаков Сергей Васильевич": 16,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225991": 101,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 3,
+      "gas:candidate-vibid:1001000136128": 13,
+      "gas:candidate-vibid:1001000121915": 37,
+      "gas:candidate-vibid:267200070875": 16,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11722,16 +11722,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 321,
-      "Григорьев Михаил Михайлович": 7,
-      "Игнатенков Александр Сергеевич": 31,
-      "Коржова Светлана Михайловна": 22,
-      "Лукьянов Анатолий Иванович": 96,
-      "Маслаков Сергей Васильевич": 67,
-      "Парфенов Борис Иванович": 27,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000225991": 321,
+      "gas:candidate-vibid:1001000195146": 7,
+      "gas:candidate-vibid:1001000217956": 31,
+      "gas:candidate-vibid:1001000136128": 22,
+      "gas:candidate-vibid:1001000121915": 96,
+      "gas:candidate-vibid:267200070875": 67,
+      "gas:candidate-vibid:1001000112259": 27,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11781,16 +11781,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 116,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 20,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 26,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225991": 116,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 20,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 26,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071397&region=0&sub_region=0&type=429",
@@ -11840,16 +11840,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 127,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 0,
-      "Коржова Светлана Михайловна": 3,
-      "Лукьянов Анатолий Иванович": 30,
-      "Маслаков Сергей Васильевич": 6,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 4,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 127,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 0,
+      "gas:candidate-vibid:1001000136128": 3,
+      "gas:candidate-vibid:1001000121915": 30,
+      "gas:candidate-vibid:267200070875": 6,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 4,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -11899,16 +11899,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 173,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 17,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 49,
-      "Маслаков Сергей Васильевич": 27,
-      "Парфенов Борис Иванович": 7,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225991": 173,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 17,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 49,
+      "gas:candidate-vibid:267200070875": 27,
+      "gas:candidate-vibid:1001000112259": 7,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -11958,16 +11958,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 103,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 4,
-      "Лукьянов Анатолий Иванович": 80,
-      "Маслаков Сергей Васильевич": 8,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 103,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 4,
+      "gas:candidate-vibid:1001000121915": 80,
+      "gas:candidate-vibid:267200070875": 8,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12017,16 +12017,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 135,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 20,
-      "Коржова Светлана Михайловна": 15,
-      "Лукьянов Анатолий Иванович": 41,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225991": 135,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 20,
+      "gas:candidate-vibid:1001000136128": 15,
+      "gas:candidate-vibid:1001000121915": 41,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12076,16 +12076,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 169,
-      "Григорьев Михаил Михайлович": 5,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 12,
-      "Лукьянов Анатолий Иванович": 60,
-      "Маслаков Сергей Васильевич": 4,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225991": 169,
+      "gas:candidate-vibid:1001000195146": 5,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 12,
+      "gas:candidate-vibid:1001000121915": 60,
+      "gas:candidate-vibid:267200070875": 4,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12135,16 +12135,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 283,
-      "Григорьев Михаил Михайлович": 6,
-      "Игнатенков Александр Сергеевич": 12,
-      "Коржова Светлана Михайловна": 46,
-      "Лукьянов Анатолий Иванович": 113,
-      "Маслаков Сергей Васильевич": 16,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 283,
+      "gas:candidate-vibid:1001000195146": 6,
+      "gas:candidate-vibid:1001000217956": 12,
+      "gas:candidate-vibid:1001000136128": 46,
+      "gas:candidate-vibid:1001000121915": 113,
+      "gas:candidate-vibid:267200070875": 16,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12194,16 +12194,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 81,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 22,
-      "Коржова Светлана Михайловна": 8,
-      "Лукьянов Анатолий Иванович": 13,
-      "Маслаков Сергей Васильевич": 13,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 81,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 22,
+      "gas:candidate-vibid:1001000136128": 8,
+      "gas:candidate-vibid:1001000121915": 13,
+      "gas:candidate-vibid:267200070875": 13,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12253,16 +12253,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 113,
-      "Григорьев Михаил Михайлович": 7,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 44,
-      "Маслаков Сергей Васильевич": 7,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225991": 113,
+      "gas:candidate-vibid:1001000195146": 7,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 44,
+      "gas:candidate-vibid:267200070875": 7,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12312,16 +12312,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 80,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 14,
-      "Маслаков Сергей Васильевич": 5,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225991": 80,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 14,
+      "gas:candidate-vibid:267200070875": 5,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12371,16 +12371,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 73,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 9,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 44,
-      "Маслаков Сергей Васильевич": 3,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225991": 73,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 9,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 44,
+      "gas:candidate-vibid:267200070875": 3,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12430,16 +12430,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 72,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 13,
-      "Коржова Светлана Михайловна": 8,
-      "Лукьянов Анатолий Иванович": 22,
-      "Маслаков Сергей Васильевич": 6,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225991": 72,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 13,
+      "gas:candidate-vibid:1001000136128": 8,
+      "gas:candidate-vibid:1001000121915": 22,
+      "gas:candidate-vibid:267200070875": 6,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12489,16 +12489,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 106,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 18,
-      "Коржова Светлана Михайловна": 12,
-      "Лукьянов Анатолий Иванович": 30,
-      "Маслаков Сергей Васильевич": 21,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225991": 106,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 18,
+      "gas:candidate-vibid:1001000136128": 12,
+      "gas:candidate-vibid:1001000121915": 30,
+      "gas:candidate-vibid:267200070875": 21,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12548,16 +12548,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 148,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 7,
-      "Коржова Светлана Михайловна": 34,
-      "Лукьянов Анатолий Иванович": 55,
-      "Маслаков Сергей Васильевич": 29,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 4,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225991": 148,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 7,
+      "gas:candidate-vibid:1001000136128": 34,
+      "gas:candidate-vibid:1001000121915": 55,
+      "gas:candidate-vibid:267200070875": 29,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 4,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12607,16 +12607,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 561,
-      "Григорьев Михаил Михайлович": 17,
-      "Игнатенков Александр Сергеевич": 25,
-      "Коржова Светлана Михайловна": 156,
-      "Лукьянов Анатолий Иванович": 228,
-      "Маслаков Сергей Васильевич": 147,
-      "Парфенов Борис Иванович": 20,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 14,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000225991": 561,
+      "gas:candidate-vibid:1001000195146": 17,
+      "gas:candidate-vibid:1001000217956": 25,
+      "gas:candidate-vibid:1001000136128": 156,
+      "gas:candidate-vibid:1001000121915": 228,
+      "gas:candidate-vibid:267200070875": 147,
+      "gas:candidate-vibid:1001000112259": 20,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 14,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12666,16 +12666,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 543,
-      "Григорьев Михаил Михайлович": 6,
-      "Игнатенков Александр Сергеевич": 31,
-      "Коржова Светлана Михайловна": 87,
-      "Лукьянов Анатолий Иванович": 213,
-      "Маслаков Сергей Васильевич": 148,
-      "Парфенов Борис Иванович": 17,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 23,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000225991": 543,
+      "gas:candidate-vibid:1001000195146": 6,
+      "gas:candidate-vibid:1001000217956": 31,
+      "gas:candidate-vibid:1001000136128": 87,
+      "gas:candidate-vibid:1001000121915": 213,
+      "gas:candidate-vibid:267200070875": 148,
+      "gas:candidate-vibid:1001000112259": 17,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 23,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12725,16 +12725,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 473,
-      "Григорьев Михаил Михайлович": 11,
-      "Игнатенков Александр Сергеевич": 26,
-      "Коржова Светлана Михайловна": 97,
-      "Лукьянов Анатолий Иванович": 184,
-      "Маслаков Сергей Васильевич": 160,
-      "Парфенов Борис Иванович": 8,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 7,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225991": 473,
+      "gas:candidate-vibid:1001000195146": 11,
+      "gas:candidate-vibid:1001000217956": 26,
+      "gas:candidate-vibid:1001000136128": 97,
+      "gas:candidate-vibid:1001000121915": 184,
+      "gas:candidate-vibid:267200070875": 160,
+      "gas:candidate-vibid:1001000112259": 8,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 7,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071398&region=0&sub_region=0&type=429",
@@ -12784,16 +12784,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 98,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 28,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 72,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225991": 98,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 28,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 72,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -12843,16 +12843,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 45,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 33,
-      "Коржова Светлана Михайловна": 6,
-      "Лукьянов Анатолий Иванович": 42,
-      "Маслаков Сергей Васильевич": 5,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225991": 45,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 33,
+      "gas:candidate-vibid:1001000136128": 6,
+      "gas:candidate-vibid:1001000121915": 42,
+      "gas:candidate-vibid:267200070875": 5,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -12902,16 +12902,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 110,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 53,
-      "Коржова Светлана Михайловна": 21,
-      "Лукьянов Анатолий Иванович": 153,
-      "Маслаков Сергей Васильевич": 27,
-      "Парфенов Борис Иванович": 6,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225991": 110,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 53,
+      "gas:candidate-vibid:1001000136128": 21,
+      "gas:candidate-vibid:1001000121915": 153,
+      "gas:candidate-vibid:267200070875": 27,
+      "gas:candidate-vibid:1001000112259": 6,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -12961,16 +12961,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 91,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 23,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 72,
-      "Маслаков Сергей Васильевич": 16,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225991": 91,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 23,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 72,
+      "gas:candidate-vibid:267200070875": 16,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13020,16 +13020,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 95,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 32,
-      "Коржова Светлана Михайловна": 11,
-      "Лукьянов Анатолий Иванович": 30,
-      "Маслаков Сергей Васильевич": 7,
-      "Парфенов Борис Иванович": 10,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225991": 95,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 32,
+      "gas:candidate-vibid:1001000136128": 11,
+      "gas:candidate-vibid:1001000121915": 30,
+      "gas:candidate-vibid:267200070875": 7,
+      "gas:candidate-vibid:1001000112259": 10,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13079,16 +13079,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 80,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 9,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 19,
-      "Маслаков Сергей Васильевич": 8,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 80,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 9,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 19,
+      "gas:candidate-vibid:267200070875": 8,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13138,16 +13138,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 51,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 15,
-      "Коржова Светлана Михайловна": 6,
-      "Лукьянов Анатолий Иванович": 20,
-      "Маслаков Сергей Васильевич": 10,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225991": 51,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 15,
+      "gas:candidate-vibid:1001000136128": 6,
+      "gas:candidate-vibid:1001000121915": 20,
+      "gas:candidate-vibid:267200070875": 10,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13197,16 +13197,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 101,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 41,
-      "Коржова Светлана Михайловна": 20,
-      "Лукьянов Анатолий Иванович": 55,
-      "Маслаков Сергей Васильевич": 18,
-      "Парфенов Борис Иванович": 9,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225991": 101,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 41,
+      "gas:candidate-vibid:1001000136128": 20,
+      "gas:candidate-vibid:1001000121915": 55,
+      "gas:candidate-vibid:267200070875": 18,
+      "gas:candidate-vibid:1001000112259": 9,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13256,16 +13256,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 73,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 14,
-      "Коржова Светлана Михайловна": 9,
-      "Лукьянов Анатолий Иванович": 65,
-      "Маслаков Сергей Васильевич": 19,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 73,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 14,
+      "gas:candidate-vibid:1001000136128": 9,
+      "gas:candidate-vibid:1001000121915": 65,
+      "gas:candidate-vibid:267200070875": 19,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13315,16 +13315,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 45,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 4,
-      "Коржова Светлана Михайловна": 14,
-      "Лукьянов Анатолий Иванович": 37,
-      "Маслаков Сергей Васильевич": 14,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225991": 45,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 4,
+      "gas:candidate-vibid:1001000136128": 14,
+      "gas:candidate-vibid:1001000121915": 37,
+      "gas:candidate-vibid:267200070875": 14,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13374,16 +13374,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 42,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 14,
-      "Коржова Светлана Михайловна": 6,
-      "Лукьянов Анатолий Иванович": 32,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 5,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225991": 42,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 14,
+      "gas:candidate-vibid:1001000136128": 6,
+      "gas:candidate-vibid:1001000121915": 32,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 5,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13433,16 +13433,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 256,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 44,
-      "Коржова Светлана Михайловна": 19,
-      "Лукьянов Анатолий Иванович": 83,
-      "Маслаков Сергей Васильевич": 31,
-      "Парфенов Борис Иванович": 8,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225991": 256,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 44,
+      "gas:candidate-vibid:1001000136128": 19,
+      "gas:candidate-vibid:1001000121915": 83,
+      "gas:candidate-vibid:267200070875": 31,
+      "gas:candidate-vibid:1001000112259": 8,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13492,16 +13492,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 41,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 9,
-      "Коржова Светлана Михайловна": 8,
-      "Лукьянов Анатолий Иванович": 23,
-      "Маслаков Сергей Васильевич": 15,
-      "Парфенов Борис Иванович": 4,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225991": 41,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 9,
+      "gas:candidate-vibid:1001000136128": 8,
+      "gas:candidate-vibid:1001000121915": 23,
+      "gas:candidate-vibid:267200070875": 15,
+      "gas:candidate-vibid:1001000112259": 4,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13551,16 +13551,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 56,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 22,
-      "Коржова Светлана Михайловна": 8,
-      "Лукьянов Анатолий Иванович": 46,
-      "Маслаков Сергей Васильевич": 6,
-      "Парфенов Борис Иванович": 8,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225991": 56,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 22,
+      "gas:candidate-vibid:1001000136128": 8,
+      "gas:candidate-vibid:1001000121915": 46,
+      "gas:candidate-vibid:267200070875": 6,
+      "gas:candidate-vibid:1001000112259": 8,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13610,16 +13610,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 98,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 29,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 15,
-      "Маслаков Сергей Васильевич": 5,
-      "Парфенов Борис Иванович": 16,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225991": 98,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 29,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 15,
+      "gas:candidate-vibid:267200070875": 5,
+      "gas:candidate-vibid:1001000112259": 16,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13669,16 +13669,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 83,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 32,
-      "Коржова Светлана Михайловна": 5,
-      "Лукьянов Анатолий Иванович": 50,
-      "Маслаков Сергей Васильевич": 14,
-      "Парфенов Борис Иванович": 22,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225991": 83,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 32,
+      "gas:candidate-vibid:1001000136128": 5,
+      "gas:candidate-vibid:1001000121915": 50,
+      "gas:candidate-vibid:267200070875": 14,
+      "gas:candidate-vibid:1001000112259": 22,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13728,16 +13728,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 123,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 11,
-      "Коржова Светлана Михайловна": 12,
-      "Лукьянов Анатолий Иванович": 58,
-      "Маслаков Сергей Васильевич": 13,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225991": 123,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 11,
+      "gas:candidate-vibid:1001000136128": 12,
+      "gas:candidate-vibid:1001000121915": 58,
+      "gas:candidate-vibid:267200070875": 13,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13787,16 +13787,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 311,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 45,
-      "Коржова Светлана Михайловна": 13,
-      "Лукьянов Анатолий Иванович": 123,
-      "Маслаков Сергей Васильевич": 12,
-      "Парфенов Борис Иванович": 11,
-      "Фомченков Сергей Александрович": 3,
-      "Юхименко Игорь Андреевич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225991": 311,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 45,
+      "gas:candidate-vibid:1001000136128": 13,
+      "gas:candidate-vibid:1001000121915": 123,
+      "gas:candidate-vibid:267200070875": 12,
+      "gas:candidate-vibid:1001000112259": 11,
+      "gas:candidate-vibid:267200071845": 3,
+      "gas:candidate-vibid:1001000113984": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13846,16 +13846,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 191,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 9,
-      "Лукьянов Анатолий Иванович": 55,
-      "Маслаков Сергей Васильевич": 8,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225991": 191,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 9,
+      "gas:candidate-vibid:1001000121915": 55,
+      "gas:candidate-vibid:267200070875": 8,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13905,16 +13905,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 68,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 21,
-      "Коржова Светлана Михайловна": 7,
-      "Лукьянов Анатолий Иванович": 43,
-      "Маслаков Сергей Васильевич": 9,
-      "Парфенов Борис Иванович": 3,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225991": 68,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 21,
+      "gas:candidate-vibid:1001000136128": 7,
+      "gas:candidate-vibid:1001000121915": 43,
+      "gas:candidate-vibid:267200070875": 9,
+      "gas:candidate-vibid:1001000112259": 3,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -13964,16 +13964,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 76,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 54,
-      "Коржова Светлана Михайловна": 20,
-      "Лукьянов Анатолий Иванович": 64,
-      "Маслаков Сергей Васильевич": 17,
-      "Парфенов Борис Иванович": 6,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225991": 76,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 54,
+      "gas:candidate-vibid:1001000136128": 20,
+      "gas:candidate-vibid:1001000121915": 64,
+      "gas:candidate-vibid:267200070875": 17,
+      "gas:candidate-vibid:1001000112259": 6,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -14023,16 +14023,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 124,
-      "Григорьев Михаил Михайлович": 3,
-      "Игнатенков Александр Сергеевич": 9,
-      "Коржова Светлана Михайловна": 9,
-      "Лукьянов Анатолий Иванович": 35,
-      "Маслаков Сергей Васильевич": 7,
-      "Парфенов Борис Иванович": 7,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225991": 124,
+      "gas:candidate-vibid:1001000195146": 3,
+      "gas:candidate-vibid:1001000217956": 9,
+      "gas:candidate-vibid:1001000136128": 9,
+      "gas:candidate-vibid:1001000121915": 35,
+      "gas:candidate-vibid:267200070875": 7,
+      "gas:candidate-vibid:1001000112259": 7,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -14082,16 +14082,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 530,
-      "Григорьев Михаил Михайлович": 7,
-      "Игнатенков Александр Сергеевич": 114,
-      "Коржова Светлана Михайловна": 76,
-      "Лукьянов Анатолий Иванович": 320,
-      "Маслаков Сергей Васильевич": 77,
-      "Парфенов Борис Иванович": 16,
-      "Фомченков Сергей Александрович": 7,
-      "Юхименко Игорь Андреевич": 44,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000225991": 530,
+      "gas:candidate-vibid:1001000195146": 7,
+      "gas:candidate-vibid:1001000217956": 114,
+      "gas:candidate-vibid:1001000136128": 76,
+      "gas:candidate-vibid:1001000121915": 320,
+      "gas:candidate-vibid:267200070875": 77,
+      "gas:candidate-vibid:1001000112259": 16,
+      "gas:candidate-vibid:267200071845": 7,
+      "gas:candidate-vibid:1001000113984": 44,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -14141,16 +14141,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 220,
-      "Григорьев Михаил Михайлович": 4,
-      "Игнатенков Александр Сергеевич": 66,
-      "Коржова Светлана Михайловна": 32,
-      "Лукьянов Анатолий Иванович": 125,
-      "Маслаков Сергей Васильевич": 37,
-      "Парфенов Борис Иванович": 16,
-      "Фомченков Сергей Александрович": 6,
-      "Юхименко Игорь Андреевич": 8,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225991": 220,
+      "gas:candidate-vibid:1001000195146": 4,
+      "gas:candidate-vibid:1001000217956": 66,
+      "gas:candidate-vibid:1001000136128": 32,
+      "gas:candidate-vibid:1001000121915": 125,
+      "gas:candidate-vibid:267200070875": 37,
+      "gas:candidate-vibid:1001000112259": 16,
+      "gas:candidate-vibid:267200071845": 6,
+      "gas:candidate-vibid:1001000113984": 8,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071399&region=0&sub_region=0&type=429",
@@ -14200,16 +14200,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 466,
-      "Григорьев Михаил Михайлович": 10,
-      "Игнатенков Александр Сергеевич": 61,
-      "Коржова Светлана Михайловна": 91,
-      "Лукьянов Анатолий Иванович": 253,
-      "Маслаков Сергей Васильевич": 116,
-      "Парфенов Борис Иванович": 24,
-      "Фомченков Сергей Александрович": 9,
-      "Юхименко Игорь Андреевич": 25,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000225991": 466,
+      "gas:candidate-vibid:1001000195146": 10,
+      "gas:candidate-vibid:1001000217956": 61,
+      "gas:candidate-vibid:1001000136128": 91,
+      "gas:candidate-vibid:1001000121915": 253,
+      "gas:candidate-vibid:267200070875": 116,
+      "gas:candidate-vibid:1001000112259": 24,
+      "gas:candidate-vibid:267200071845": 9,
+      "gas:candidate-vibid:1001000113984": 25,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071400&region=0&sub_region=0&type=429",
@@ -14259,16 +14259,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 334,
-      "Григорьев Михаил Михайлович": 8,
-      "Игнатенков Александр Сергеевич": 33,
-      "Коржова Светлана Михайловна": 49,
-      "Лукьянов Анатолий Иванович": 181,
-      "Маслаков Сергей Васильевич": 97,
-      "Парфенов Борис Иванович": 20,
-      "Фомченков Сергей Александрович": 4,
-      "Юхименко Игорь Андреевич": 20,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000225991": 334,
+      "gas:candidate-vibid:1001000195146": 8,
+      "gas:candidate-vibid:1001000217956": 33,
+      "gas:candidate-vibid:1001000136128": 49,
+      "gas:candidate-vibid:1001000121915": 181,
+      "gas:candidate-vibid:267200070875": 97,
+      "gas:candidate-vibid:1001000112259": 20,
+      "gas:candidate-vibid:267200071845": 4,
+      "gas:candidate-vibid:1001000113984": 20,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071400&region=0&sub_region=0&type=429",
@@ -14318,16 +14318,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 47,
-      "Григорьев Михаил Михайлович": 2,
-      "Игнатенков Александр Сергеевич": 6,
-      "Коржова Светлана Михайловна": 4,
-      "Лукьянов Анатолий Иванович": 24,
-      "Маслаков Сергей Васильевич": 19,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 2,
-      "Юхименко Игорь Андреевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225991": 47,
+      "gas:candidate-vibid:1001000195146": 2,
+      "gas:candidate-vibid:1001000217956": 6,
+      "gas:candidate-vibid:1001000136128": 4,
+      "gas:candidate-vibid:1001000121915": 24,
+      "gas:candidate-vibid:267200070875": 19,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 2,
+      "gas:candidate-vibid:1001000113984": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071400&region=0&sub_region=0&type=429",
@@ -14377,16 +14377,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 100,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 11,
-      "Коржова Светлана Михайловна": 15,
-      "Лукьянов Анатолий Иванович": 31,
-      "Маслаков Сергей Васильевич": 11,
-      "Парфенов Борис Иванович": 2,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225991": 100,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 11,
+      "gas:candidate-vibid:1001000136128": 15,
+      "gas:candidate-vibid:1001000121915": 31,
+      "gas:candidate-vibid:267200070875": 11,
+      "gas:candidate-vibid:1001000112259": 2,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071400&region=0&sub_region=0&type=429",
@@ -14436,16 +14436,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 78,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 11,
-      "Коржова Светлана Михайловна": 10,
-      "Лукьянов Анатолий Иванович": 17,
-      "Маслаков Сергей Васильевич": 6,
-      "Парфенов Борис Иванович": 0,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225991": 78,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 11,
+      "gas:candidate-vibid:1001000136128": 10,
+      "gas:candidate-vibid:1001000121915": 17,
+      "gas:candidate-vibid:267200070875": 6,
+      "gas:candidate-vibid:1001000112259": 0,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071400&region=0&sub_region=0&type=429",
@@ -14495,16 +14495,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 64,
-      "Григорьев Михаил Михайлович": 0,
-      "Игнатенков Александр Сергеевич": 3,
-      "Коржова Светлана Михайловна": 12,
-      "Лукьянов Анатолий Иванович": 27,
-      "Маслаков Сергей Васильевич": 16,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 1,
-      "Юхименко Игорь Андреевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225991": 64,
+      "gas:candidate-vibid:1001000195146": 0,
+      "gas:candidate-vibid:1001000217956": 3,
+      "gas:candidate-vibid:1001000136128": 12,
+      "gas:candidate-vibid:1001000121915": 27,
+      "gas:candidate-vibid:267200070875": 16,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 1,
+      "gas:candidate-vibid:1001000113984": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071400&region=0&sub_region=0&type=429",
@@ -14554,16 +14554,16 @@ export const duma_2003_uik_428_region_67_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Антуфьев Сергей Владимирович": 53,
-      "Григорьев Михаил Михайлович": 1,
-      "Игнатенков Александр Сергеевич": 5,
-      "Коржова Светлана Михайловна": 6,
-      "Лукьянов Анатолий Иванович": 14,
-      "Маслаков Сергей Васильевич": 17,
-      "Парфенов Борис Иванович": 1,
-      "Фомченков Сергей Александрович": 0,
-      "Юхименко Игорь Андреевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225991": 53,
+      "gas:candidate-vibid:1001000195146": 1,
+      "gas:candidate-vibid:1001000217956": 5,
+      "gas:candidate-vibid:1001000136128": 6,
+      "gas:candidate-vibid:1001000121915": 14,
+      "gas:candidate-vibid:267200070875": 17,
+      "gas:candidate-vibid:1001000112259": 1,
+      "gas:candidate-vibid:267200071845": 0,
+      "gas:candidate-vibid:1001000113984": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=672000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=267200071400&region=0&sub_region=0&type=429",

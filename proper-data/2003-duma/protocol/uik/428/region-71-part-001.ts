@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 138,
-      "Берестнев Александр Михайлович": 11,
-      "Иванцов Игорь Борисович": 27,
-      "Иванцов Михаил Евгеньевич": 19,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 207,
-      "Попов Алексей Валентинович": 43,
-      "Савельев Дмитрий Владимирович": 264,
-      "Умнов Алексей Александрович": 51,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121921": 138,
+      "gas:candidate-vibid:1001000118562": 11,
+      "gas:candidate-vibid:271200071151": 27,
+      "gas:candidate-vibid:1001000131418": 19,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 207,
+      "gas:candidate-vibid:271200070993": 43,
+      "gas:candidate-vibid:1001000277357": 264,
+      "gas:candidate-vibid:1001000136134": 51,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 68,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 31,
-      "Иванцов Михаил Евгеньевич": 35,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 130,
-      "Попов Алексей Валентинович": 18,
-      "Савельев Дмитрий Владимирович": 187,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121921": 68,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 31,
+      "gas:candidate-vibid:1001000131418": 35,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 130,
+      "gas:candidate-vibid:271200070993": 18,
+      "gas:candidate-vibid:1001000277357": 187,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 148,
-      "Берестнев Александр Михайлович": 11,
-      "Иванцов Игорь Борисович": 53,
-      "Иванцов Михаил Евгеньевич": 55,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 230,
-      "Попов Алексей Валентинович": 34,
-      "Савельев Дмитрий Владимирович": 379,
-      "Умнов Алексей Александрович": 74,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000121921": 148,
+      "gas:candidate-vibid:1001000118562": 11,
+      "gas:candidate-vibid:271200071151": 53,
+      "gas:candidate-vibid:1001000131418": 55,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 230,
+      "gas:candidate-vibid:271200070993": 34,
+      "gas:candidate-vibid:1001000277357": 379,
+      "gas:candidate-vibid:1001000136134": 74,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 134,
-      "Берестнев Александр Михайлович": 29,
-      "Иванцов Игорь Борисович": 66,
-      "Иванцов Михаил Евгеньевич": 43,
-      "Мирошник Николай Николаевич": 13,
-      "Михеев Евгений Васильевич": 219,
-      "Попов Алексей Валентинович": 47,
-      "Савельев Дмитрий Владимирович": 386,
-      "Умнов Алексей Александрович": 90,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000121921": 134,
+      "gas:candidate-vibid:1001000118562": 29,
+      "gas:candidate-vibid:271200071151": 66,
+      "gas:candidate-vibid:1001000131418": 43,
+      "gas:candidate-vibid:1001000195152": 13,
+      "gas:candidate-vibid:1001000225995": 219,
+      "gas:candidate-vibid:271200070993": 47,
+      "gas:candidate-vibid:1001000277357": 386,
+      "gas:candidate-vibid:1001000136134": 90,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 151,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 24,
-      "Иванцов Михаил Евгеньевич": 24,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 170,
-      "Попов Алексей Валентинович": 53,
-      "Савельев Дмитрий Владимирович": 352,
-      "Умнов Алексей Александрович": 90,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000121921": 151,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 24,
+      "gas:candidate-vibid:1001000131418": 24,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 170,
+      "gas:candidate-vibid:271200070993": 53,
+      "gas:candidate-vibid:1001000277357": 352,
+      "gas:candidate-vibid:1001000136134": 90,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 264,
-      "Берестнев Александр Михайлович": 17,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 38,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 258,
-      "Попов Алексей Валентинович": 52,
-      "Савельев Дмитрий Владимирович": 331,
-      "Умнов Алексей Александрович": 58,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000121921": 264,
+      "gas:candidate-vibid:1001000118562": 17,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 38,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 258,
+      "gas:candidate-vibid:271200070993": 52,
+      "gas:candidate-vibid:1001000277357": 331,
+      "gas:candidate-vibid:1001000136134": 58,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 252,
-      "Берестнев Александр Михайлович": 18,
-      "Иванцов Игорь Борисович": 38,
-      "Иванцов Михаил Евгеньевич": 32,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 180,
-      "Попов Алексей Валентинович": 53,
-      "Савельев Дмитрий Владимирович": 282,
-      "Умнов Алексей Александрович": 77,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000121921": 252,
+      "gas:candidate-vibid:1001000118562": 18,
+      "gas:candidate-vibid:271200071151": 38,
+      "gas:candidate-vibid:1001000131418": 32,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 180,
+      "gas:candidate-vibid:271200070993": 53,
+      "gas:candidate-vibid:1001000277357": 282,
+      "gas:candidate-vibid:1001000136134": 77,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 230,
-      "Берестнев Александр Михайлович": 16,
-      "Иванцов Игорь Борисович": 31,
-      "Иванцов Михаил Евгеньевич": 31,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 239,
-      "Попов Алексей Валентинович": 56,
-      "Савельев Дмитрий Владимирович": 255,
-      "Умнов Алексей Александрович": 48,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000121921": 230,
+      "gas:candidate-vibid:1001000118562": 16,
+      "gas:candidate-vibid:271200071151": 31,
+      "gas:candidate-vibid:1001000131418": 31,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 239,
+      "gas:candidate-vibid:271200070993": 56,
+      "gas:candidate-vibid:1001000277357": 255,
+      "gas:candidate-vibid:1001000136134": 48,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 280,
-      "Берестнев Александр Михайлович": 24,
-      "Иванцов Игорь Борисович": 39,
-      "Иванцов Михаил Евгеньевич": 23,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 183,
-      "Попов Алексей Валентинович": 32,
-      "Савельев Дмитрий Владимирович": 358,
-      "Умнов Алексей Александрович": 60,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000121921": 280,
+      "gas:candidate-vibid:1001000118562": 24,
+      "gas:candidate-vibid:271200071151": 39,
+      "gas:candidate-vibid:1001000131418": 23,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 183,
+      "gas:candidate-vibid:271200070993": 32,
+      "gas:candidate-vibid:1001000277357": 358,
+      "gas:candidate-vibid:1001000136134": 60,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 218,
-      "Берестнев Александр Михайлович": 21,
-      "Иванцов Игорь Борисович": 25,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 10,
-      "Михеев Евгений Васильевич": 244,
-      "Попов Алексей Валентинович": 27,
-      "Савельев Дмитрий Владимирович": 382,
-      "Умнов Алексей Александрович": 85,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000121921": 218,
+      "gas:candidate-vibid:1001000118562": 21,
+      "gas:candidate-vibid:271200071151": 25,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 10,
+      "gas:candidate-vibid:1001000225995": 244,
+      "gas:candidate-vibid:271200070993": 27,
+      "gas:candidate-vibid:1001000277357": 382,
+      "gas:candidate-vibid:1001000136134": 85,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 366,
-      "Берестнев Александр Михайлович": 21,
-      "Иванцов Игорь Борисович": 27,
-      "Иванцов Михаил Евгеньевич": 26,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 323,
-      "Попов Алексей Валентинович": 61,
-      "Савельев Дмитрий Владимирович": 224,
-      "Умнов Алексей Александрович": 76,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000121921": 366,
+      "gas:candidate-vibid:1001000118562": 21,
+      "gas:candidate-vibid:271200071151": 27,
+      "gas:candidate-vibid:1001000131418": 26,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 323,
+      "gas:candidate-vibid:271200070993": 61,
+      "gas:candidate-vibid:1001000277357": 224,
+      "gas:candidate-vibid:1001000136134": 76,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 339,
-      "Берестнев Александр Михайлович": 31,
-      "Иванцов Игорь Борисович": 41,
-      "Иванцов Михаил Евгеньевич": 39,
-      "Мирошник Николай Николаевич": 12,
-      "Михеев Евгений Васильевич": 360,
-      "Попов Алексей Валентинович": 53,
-      "Савельев Дмитрий Владимирович": 284,
-      "Умнов Алексей Александрович": 80,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000121921": 339,
+      "gas:candidate-vibid:1001000118562": 31,
+      "gas:candidate-vibid:271200071151": 41,
+      "gas:candidate-vibid:1001000131418": 39,
+      "gas:candidate-vibid:1001000195152": 12,
+      "gas:candidate-vibid:1001000225995": 360,
+      "gas:candidate-vibid:271200070993": 53,
+      "gas:candidate-vibid:1001000277357": 284,
+      "gas:candidate-vibid:1001000136134": 80,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 371,
-      "Берестнев Александр Михайлович": 38,
-      "Иванцов Игорь Борисович": 43,
-      "Иванцов Михаил Евгеньевич": 44,
-      "Мирошник Николай Николаевич": 11,
-      "Михеев Евгений Васильевич": 322,
-      "Попов Алексей Валентинович": 85,
-      "Савельев Дмитрий Владимирович": 292,
-      "Умнов Алексей Александрович": 96,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000121921": 371,
+      "gas:candidate-vibid:1001000118562": 38,
+      "gas:candidate-vibid:271200071151": 43,
+      "gas:candidate-vibid:1001000131418": 44,
+      "gas:candidate-vibid:1001000195152": 11,
+      "gas:candidate-vibid:1001000225995": 322,
+      "gas:candidate-vibid:271200070993": 85,
+      "gas:candidate-vibid:1001000277357": 292,
+      "gas:candidate-vibid:1001000136134": 96,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 148,
-      "Берестнев Александр Михайлович": 21,
-      "Иванцов Игорь Борисович": 22,
-      "Иванцов Михаил Евгеньевич": 22,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 186,
-      "Попов Алексей Валентинович": 26,
-      "Савельев Дмитрий Владимирович": 253,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121921": 148,
+      "gas:candidate-vibid:1001000118562": 21,
+      "gas:candidate-vibid:271200071151": 22,
+      "gas:candidate-vibid:1001000131418": 22,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 186,
+      "gas:candidate-vibid:271200070993": 26,
+      "gas:candidate-vibid:1001000277357": 253,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 75,
-      "Берестнев Александр Михайлович": 17,
-      "Иванцов Игорь Борисович": 14,
-      "Иванцов Михаил Евгеньевич": 13,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 108,
-      "Попов Алексей Валентинович": 39,
-      "Савельев Дмитрий Владимирович": 138,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000121921": 75,
+      "gas:candidate-vibid:1001000118562": 17,
+      "gas:candidate-vibid:271200071151": 14,
+      "gas:candidate-vibid:1001000131418": 13,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 108,
+      "gas:candidate-vibid:271200070993": 39,
+      "gas:candidate-vibid:1001000277357": 138,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 54,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 10,
-      "Иванцов Михаил Евгеньевич": 12,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 186,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 127,
-      "Умнов Алексей Александрович": 27,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121921": 54,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 10,
+      "gas:candidate-vibid:1001000131418": 12,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 186,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 127,
+      "gas:candidate-vibid:1001000136134": 27,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 50,
-      "Берестнев Александр Михайлович": 9,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 16,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 88,
-      "Попов Алексей Валентинович": 19,
-      "Савельев Дмитрий Владимирович": 108,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121921": 50,
+      "gas:candidate-vibid:1001000118562": 9,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 16,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 88,
+      "gas:candidate-vibid:271200070993": 19,
+      "gas:candidate-vibid:1001000277357": 108,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 159,
-      "Берестнев Александр Михайлович": 24,
-      "Иванцов Игорь Борисович": 17,
-      "Иванцов Михаил Евгеньевич": 18,
-      "Мирошник Николай Николаевич": 18,
-      "Михеев Евгений Васильевич": 233,
-      "Попов Алексей Валентинович": 55,
-      "Савельев Дмитрий Владимирович": 287,
-      "Умнов Алексей Александрович": 81,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000121921": 159,
+      "gas:candidate-vibid:1001000118562": 24,
+      "gas:candidate-vibid:271200071151": 17,
+      "gas:candidate-vibid:1001000131418": 18,
+      "gas:candidate-vibid:1001000195152": 18,
+      "gas:candidate-vibid:1001000225995": 233,
+      "gas:candidate-vibid:271200070993": 55,
+      "gas:candidate-vibid:1001000277357": 287,
+      "gas:candidate-vibid:1001000136134": 81,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 175,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 47,
-      "Иванцов Михаил Евгеньевич": 30,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 209,
-      "Попов Алексей Валентинович": 59,
-      "Савельев Дмитрий Владимирович": 266,
-      "Умнов Алексей Александрович": 39,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121921": 175,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 47,
+      "gas:candidate-vibid:1001000131418": 30,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 209,
+      "gas:candidate-vibid:271200070993": 59,
+      "gas:candidate-vibid:1001000277357": 266,
+      "gas:candidate-vibid:1001000136134": 39,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 193,
-      "Берестнев Александр Михайлович": 16,
-      "Иванцов Игорь Борисович": 29,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 277,
-      "Попов Алексей Валентинович": 33,
-      "Савельев Дмитрий Владимирович": 340,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000121921": 193,
+      "gas:candidate-vibid:1001000118562": 16,
+      "gas:candidate-vibid:271200071151": 29,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 277,
+      "gas:candidate-vibid:271200070993": 33,
+      "gas:candidate-vibid:1001000277357": 340,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 108,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 29,
-      "Иванцов Михаил Евгеньевич": 23,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 159,
-      "Попов Алексей Валентинович": 68,
-      "Савельев Дмитрий Владимирович": 136,
-      "Умнов Алексей Александрович": 26,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121921": 108,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 29,
+      "gas:candidate-vibid:1001000131418": 23,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 159,
+      "gas:candidate-vibid:271200070993": 68,
+      "gas:candidate-vibid:1001000277357": 136,
+      "gas:candidate-vibid:1001000136134": 26,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 84,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 19,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 205,
-      "Попов Алексей Валентинович": 21,
-      "Савельев Дмитрий Владимирович": 193,
-      "Умнов Алексей Александрович": 64,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000121921": 84,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 19,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 205,
+      "gas:candidate-vibid:271200070993": 21,
+      "gas:candidate-vibid:1001000277357": 193,
+      "gas:candidate-vibid:1001000136134": 64,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 24,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 80,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 12,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121921": 24,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 80,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 12,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 41,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 51,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 102,
-      "Умнов Алексей Александрович": 11,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121921": 41,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 51,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 102,
+      "gas:candidate-vibid:1001000136134": 11,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 242,
-      "Берестнев Александр Михайлович": 18,
-      "Иванцов Игорь Борисович": 28,
-      "Иванцов Михаил Евгеньевич": 29,
-      "Мирошник Николай Николаевич": 12,
-      "Михеев Евгений Васильевич": 362,
-      "Попов Алексей Валентинович": 31,
-      "Савельев Дмитрий Владимирович": 334,
-      "Умнов Алексей Александрович": 64,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000121921": 242,
+      "gas:candidate-vibid:1001000118562": 18,
+      "gas:candidate-vibid:271200071151": 28,
+      "gas:candidate-vibid:1001000131418": 29,
+      "gas:candidate-vibid:1001000195152": 12,
+      "gas:candidate-vibid:1001000225995": 362,
+      "gas:candidate-vibid:271200070993": 31,
+      "gas:candidate-vibid:1001000277357": 334,
+      "gas:candidate-vibid:1001000136134": 64,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 181,
-      "Берестнев Александр Михайлович": 11,
-      "Иванцов Игорь Борисович": 13,
-      "Иванцов Михаил Евгеньевич": 21,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 313,
-      "Попов Алексей Валентинович": 12,
-      "Савельев Дмитрий Владимирович": 221,
-      "Умнов Алексей Александрович": 59,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000121921": 181,
+      "gas:candidate-vibid:1001000118562": 11,
+      "gas:candidate-vibid:271200071151": 13,
+      "gas:candidate-vibid:1001000131418": 21,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 313,
+      "gas:candidate-vibid:271200070993": 12,
+      "gas:candidate-vibid:1001000277357": 221,
+      "gas:candidate-vibid:1001000136134": 59,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 72,
-      "Берестнев Александр Михайлович": 6,
-      "Иванцов Игорь Борисович": 15,
-      "Иванцов Михаил Евгеньевич": 14,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 249,
-      "Попов Алексей Валентинович": 17,
-      "Савельев Дмитрий Владимирович": 157,
-      "Умнов Алексей Александрович": 21,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121921": 72,
+      "gas:candidate-vibid:1001000118562": 6,
+      "gas:candidate-vibid:271200071151": 15,
+      "gas:candidate-vibid:1001000131418": 14,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 249,
+      "gas:candidate-vibid:271200070993": 17,
+      "gas:candidate-vibid:1001000277357": 157,
+      "gas:candidate-vibid:1001000136134": 21,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 271,
-      "Берестнев Александр Михайлович": 13,
-      "Иванцов Игорь Борисович": 29,
-      "Иванцов Михаил Евгеньевич": 37,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 379,
-      "Попов Алексей Валентинович": 20,
-      "Савельев Дмитрий Владимирович": 339,
-      "Умнов Алексей Александрович": 87,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000121921": 271,
+      "gas:candidate-vibid:1001000118562": 13,
+      "gas:candidate-vibid:271200071151": 29,
+      "gas:candidate-vibid:1001000131418": 37,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 379,
+      "gas:candidate-vibid:271200070993": 20,
+      "gas:candidate-vibid:1001000277357": 339,
+      "gas:candidate-vibid:1001000136134": 87,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 88,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 9,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 89,
-      "Попов Алексей Валентинович": 10,
-      "Савельев Дмитрий Владимирович": 118,
-      "Умнов Алексей Александрович": 22,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121921": 88,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 9,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 89,
+      "gas:candidate-vibid:271200070993": 10,
+      "gas:candidate-vibid:1001000277357": 118,
+      "gas:candidate-vibid:1001000136134": 22,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 90,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 19,
-      "Попов Алексей Валентинович": 20,
-      "Савельев Дмитрий Владимирович": 64,
-      "Умнов Алексей Александрович": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121921": 90,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 19,
+      "gas:candidate-vibid:271200070993": 20,
+      "gas:candidate-vibid:1001000277357": 64,
+      "gas:candidate-vibid:1001000136134": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 77,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 10,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 36,
-      "Попов Алексей Валентинович": 26,
-      "Савельев Дмитрий Владимирович": 51,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121921": 77,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 10,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 36,
+      "gas:candidate-vibid:271200070993": 26,
+      "gas:candidate-vibid:1001000277357": 51,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 105,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 14,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 36,
-      "Попов Алексей Валентинович": 4,
-      "Савельев Дмитрий Владимирович": 28,
-      "Умнов Алексей Александрович": 9,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121921": 105,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 14,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 36,
+      "gas:candidate-vibid:271200070993": 4,
+      "gas:candidate-vibid:1001000277357": 28,
+      "gas:candidate-vibid:1001000136134": 9,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 69,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 9,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 78,
-      "Попов Алексей Валентинович": 4,
-      "Савельев Дмитрий Владимирович": 36,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121921": 69,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 9,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 78,
+      "gas:candidate-vibid:271200070993": 4,
+      "gas:candidate-vibid:1001000277357": 36,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 74,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 32,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 91,
-      "Попов Алексей Валентинович": 27,
-      "Савельев Дмитрий Владимирович": 60,
-      "Умнов Алексей Александрович": 15,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121921": 74,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 32,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 91,
+      "gas:candidate-vibid:271200070993": 27,
+      "gas:candidate-vibid:1001000277357": 60,
+      "gas:candidate-vibid:1001000136134": 15,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 28,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 46,
-      "Попов Алексей Валентинович": 22,
-      "Савельев Дмитрий Владимирович": 29,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121921": 28,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 46,
+      "gas:candidate-vibid:271200070993": 22,
+      "gas:candidate-vibid:1001000277357": 29,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 84,
-      "Берестнев Александр Михайлович": 6,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 31,
-      "Попов Алексей Валентинович": 36,
-      "Савельев Дмитрий Владимирович": 93,
-      "Умнов Алексей Александрович": 13,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121921": 84,
+      "gas:candidate-vibid:1001000118562": 6,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 31,
+      "gas:candidate-vibid:271200070993": 36,
+      "gas:candidate-vibid:1001000277357": 93,
+      "gas:candidate-vibid:1001000136134": 13,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 102,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 30,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 15,
-      "Умнов Алексей Александрович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121921": 102,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 30,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 15,
+      "gas:candidate-vibid:1001000136134": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 177,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 4,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 71,
-      "Попов Алексей Валентинович": 55,
-      "Савельев Дмитрий Владимирович": 55,
-      "Умнов Алексей Александрович": 15,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121921": 177,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 4,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 71,
+      "gas:candidate-vibid:271200070993": 55,
+      "gas:candidate-vibid:1001000277357": 55,
+      "gas:candidate-vibid:1001000136134": 15,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 54,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 37,
-      "Попов Алексей Валентинович": 9,
-      "Савельев Дмитрий Владимирович": 68,
-      "Умнов Алексей Александрович": 8,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121921": 54,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 37,
+      "gas:candidate-vibid:271200070993": 9,
+      "gas:candidate-vibid:1001000277357": 68,
+      "gas:candidate-vibid:1001000136134": 8,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 100,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 16,
-      "Иванцов Михаил Евгеньевич": 9,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 46,
-      "Попов Алексей Валентинович": 27,
-      "Савельев Дмитрий Владимирович": 49,
-      "Умнов Алексей Александрович": 18,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121921": 100,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 16,
+      "gas:candidate-vibid:1001000131418": 9,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 46,
+      "gas:candidate-vibid:271200070993": 27,
+      "gas:candidate-vibid:1001000277357": 49,
+      "gas:candidate-vibid:1001000136134": 18,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 11,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 12,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 18,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121921": 11,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 12,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 18,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 168,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 21,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 32,
-      "Умнов Алексей Александрович": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121921": 168,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 21,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 32,
+      "gas:candidate-vibid:1001000136134": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 57,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 23,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 51,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121921": 57,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 23,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 51,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 70,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 10,
-      "Иванцов Михаил Евгеньевич": 14,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 57,
-      "Попов Алексей Валентинович": 25,
-      "Савельев Дмитрий Владимирович": 68,
-      "Умнов Алексей Александрович": 26,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121921": 70,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 10,
+      "gas:candidate-vibid:1001000131418": 14,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 57,
+      "gas:candidate-vibid:271200070993": 25,
+      "gas:candidate-vibid:1001000277357": 68,
+      "gas:candidate-vibid:1001000136134": 26,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 439,
-      "Берестнев Александр Михайлович": 23,
-      "Иванцов Игорь Борисович": 43,
-      "Иванцов Михаил Евгеньевич": 45,
-      "Мирошник Николай Николаевич": 17,
-      "Михеев Евгений Васильевич": 328,
-      "Попов Алексей Валентинович": 44,
-      "Савельев Дмитрий Владимирович": 408,
-      "Умнов Алексей Александрович": 74,
-      "Против всех": 417
+      "gas:candidate-vibid:1001000121921": 439,
+      "gas:candidate-vibid:1001000118562": 23,
+      "gas:candidate-vibid:271200071151": 43,
+      "gas:candidate-vibid:1001000131418": 45,
+      "gas:candidate-vibid:1001000195152": 17,
+      "gas:candidate-vibid:1001000225995": 328,
+      "gas:candidate-vibid:271200070993": 44,
+      "gas:candidate-vibid:1001000277357": 408,
+      "gas:candidate-vibid:1001000136134": 74,
+      "special:against-all": 417
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070310&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 51,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 0,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 34,
-      "Попов Алексей Валентинович": 2,
-      "Савельев Дмитрий Владимирович": 15,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121921": 51,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 0,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 34,
+      "gas:candidate-vibid:271200070993": 2,
+      "gas:candidate-vibid:1001000277357": 15,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 120,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 106,
-      "Попов Алексей Валентинович": 67,
-      "Савельев Дмитрий Владимирович": 91,
-      "Умнов Алексей Александрович": 17,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121921": 120,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 106,
+      "gas:candidate-vibid:271200070993": 67,
+      "gas:candidate-vibid:1001000277357": 91,
+      "gas:candidate-vibid:1001000136134": 17,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 25,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 41,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 30,
-      "Попов Алексей Валентинович": 29,
-      "Савельев Дмитрий Владимирович": 109,
-      "Умнов Алексей Александрович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121921": 25,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 41,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 30,
+      "gas:candidate-vibid:271200070993": 29,
+      "gas:candidate-vibid:1001000277357": 109,
+      "gas:candidate-vibid:1001000136134": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 6,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 10,
-      "Попов Алексей Валентинович": 1,
-      "Савельев Дмитрий Владимирович": 47,
-      "Умнов Алексей Александрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121921": 6,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 10,
+      "gas:candidate-vibid:271200070993": 1,
+      "gas:candidate-vibid:1001000277357": 47,
+      "gas:candidate-vibid:1001000136134": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 61,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 53,
-      "Иванцов Михаил Евгеньевич": 14,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 54,
-      "Попов Алексей Валентинович": 25,
-      "Савельев Дмитрий Владимирович": 45,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121921": 61,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 53,
+      "gas:candidate-vibid:1001000131418": 14,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 54,
+      "gas:candidate-vibid:271200070993": 25,
+      "gas:candidate-vibid:1001000277357": 45,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 7,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 14,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 43,
-      "Попов Алексей Валентинович": 20,
-      "Савельев Дмитрий Владимирович": 63,
-      "Умнов Алексей Александрович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121921": 7,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 14,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 43,
+      "gas:candidate-vibid:271200070993": 20,
+      "gas:candidate-vibid:1001000277357": 63,
+      "gas:candidate-vibid:1001000136134": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 121,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 24,
-      "Иванцов Михаил Евгеньевич": 33,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 302,
-      "Попов Алексей Валентинович": 94,
-      "Савельев Дмитрий Владимирович": 317,
-      "Умнов Алексей Александрович": 55,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000121921": 121,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 24,
+      "gas:candidate-vibid:1001000131418": 33,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 302,
+      "gas:candidate-vibid:271200070993": 94,
+      "gas:candidate-vibid:1001000277357": 317,
+      "gas:candidate-vibid:1001000136134": 55,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 109,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 47,
-      "Иванцов Михаил Евгеньевич": 28,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 206,
-      "Попов Алексей Валентинович": 95,
-      "Савельев Дмитрий Владимирович": 342,
-      "Умнов Алексей Александрович": 54,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121921": 109,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 47,
+      "gas:candidate-vibid:1001000131418": 28,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 206,
+      "gas:candidate-vibid:271200070993": 95,
+      "gas:candidate-vibid:1001000277357": 342,
+      "gas:candidate-vibid:1001000136134": 54,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 122,
-      "Берестнев Александр Михайлович": 14,
-      "Иванцов Игорь Борисович": 29,
-      "Иванцов Михаил Евгеньевич": 35,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 209,
-      "Попов Алексей Валентинович": 134,
-      "Савельев Дмитрий Владимирович": 332,
-      "Умнов Алексей Александрович": 77,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000121921": 122,
+      "gas:candidate-vibid:1001000118562": 14,
+      "gas:candidate-vibid:271200071151": 29,
+      "gas:candidate-vibid:1001000131418": 35,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 209,
+      "gas:candidate-vibid:271200070993": 134,
+      "gas:candidate-vibid:1001000277357": 332,
+      "gas:candidate-vibid:1001000136134": 77,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 146,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 32,
-      "Иванцов Михаил Евгеньевич": 38,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 286,
-      "Попов Алексей Валентинович": 131,
-      "Савельев Дмитрий Владимирович": 266,
-      "Умнов Алексей Александрович": 39,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000121921": 146,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 32,
+      "gas:candidate-vibid:1001000131418": 38,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 286,
+      "gas:candidate-vibid:271200070993": 131,
+      "gas:candidate-vibid:1001000277357": 266,
+      "gas:candidate-vibid:1001000136134": 39,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 230,
-      "Берестнев Александр Михайлович": 9,
-      "Иванцов Игорь Борисович": 65,
-      "Иванцов Михаил Евгеньевич": 47,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 261,
-      "Попов Алексей Валентинович": 162,
-      "Савельев Дмитрий Владимирович": 300,
-      "Умнов Алексей Александрович": 50,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000121921": 230,
+      "gas:candidate-vibid:1001000118562": 9,
+      "gas:candidate-vibid:271200071151": 65,
+      "gas:candidate-vibid:1001000131418": 47,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 261,
+      "gas:candidate-vibid:271200070993": 162,
+      "gas:candidate-vibid:1001000277357": 300,
+      "gas:candidate-vibid:1001000136134": 50,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 3,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 0,
-      "Иванцов Михаил Евгеньевич": 0,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 7,
-      "Попов Алексей Валентинович": 3,
-      "Савельев Дмитрий Владимирович": 5,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121921": 3,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 0,
+      "gas:candidate-vibid:1001000131418": 0,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 7,
+      "gas:candidate-vibid:271200070993": 3,
+      "gas:candidate-vibid:1001000277357": 5,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 192,
-      "Берестнев Александр Михайлович": 23,
-      "Иванцов Игорь Борисович": 28,
-      "Иванцов Михаил Евгеньевич": 24,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 441,
-      "Попов Алексей Валентинович": 71,
-      "Савельев Дмитрий Владимирович": 194,
-      "Умнов Алексей Александрович": 70,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000121921": 192,
+      "gas:candidate-vibid:1001000118562": 23,
+      "gas:candidate-vibid:271200071151": 28,
+      "gas:candidate-vibid:1001000131418": 24,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 441,
+      "gas:candidate-vibid:271200070993": 71,
+      "gas:candidate-vibid:1001000277357": 194,
+      "gas:candidate-vibid:1001000136134": 70,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 200,
-      "Берестнев Александр Михайлович": 36,
-      "Иванцов Игорь Борисович": 29,
-      "Иванцов Михаил Евгеньевич": 32,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 389,
-      "Попов Алексей Валентинович": 65,
-      "Савельев Дмитрий Владимирович": 217,
-      "Умнов Алексей Александрович": 83,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000121921": 200,
+      "gas:candidate-vibid:1001000118562": 36,
+      "gas:candidate-vibid:271200071151": 29,
+      "gas:candidate-vibid:1001000131418": 32,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 389,
+      "gas:candidate-vibid:271200070993": 65,
+      "gas:candidate-vibid:1001000277357": 217,
+      "gas:candidate-vibid:1001000136134": 83,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 6,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 1,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 1,
-      "Попов Алексей Валентинович": 1,
-      "Савельев Дмитрий Владимирович": 0,
-      "Умнов Алексей Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121921": 6,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 1,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 1,
+      "gas:candidate-vibid:271200070993": 1,
+      "gas:candidate-vibid:1001000277357": 0,
+      "gas:candidate-vibid:1001000136134": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 83,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 17,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 56,
-      "Попов Алексей Валентинович": 28,
-      "Савельев Дмитрий Владимирович": 69,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121921": 83,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 17,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 56,
+      "gas:candidate-vibid:271200070993": 28,
+      "gas:candidate-vibid:1001000277357": 69,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 66,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 8,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 60,
-      "Попов Алексей Валентинович": 22,
-      "Савельев Дмитрий Владимирович": 36,
-      "Умнов Алексей Александрович": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121921": 66,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 8,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 60,
+      "gas:candidate-vibid:271200070993": 22,
+      "gas:candidate-vibid:1001000277357": 36,
+      "gas:candidate-vibid:1001000136134": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 30,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 53,
-      "Попов Алексей Валентинович": 28,
-      "Савельев Дмитрий Владимирович": 106,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121921": 30,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 53,
+      "gas:candidate-vibid:271200070993": 28,
+      "gas:candidate-vibid:1001000277357": 106,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 39,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 33,
-      "Иванцов Михаил Евгеньевич": 13,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 76,
-      "Попов Алексей Валентинович": 28,
-      "Савельев Дмитрий Владимирович": 269,
-      "Умнов Алексей Александрович": 15,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121921": 39,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 33,
+      "gas:candidate-vibid:1001000131418": 13,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 76,
+      "gas:candidate-vibid:271200070993": 28,
+      "gas:candidate-vibid:1001000277357": 269,
+      "gas:candidate-vibid:1001000136134": 15,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 22,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 21,
-      "Попов Алексей Валентинович": 18,
-      "Савельев Дмитрий Владимирович": 49,
-      "Умнов Алексей Александрович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121921": 22,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 21,
+      "gas:candidate-vibid:271200070993": 18,
+      "gas:candidate-vibid:1001000277357": 49,
+      "gas:candidate-vibid:1001000136134": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 22,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 35,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 25,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121921": 22,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 35,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 25,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 158,
-      "Берестнев Александр Михайлович": 11,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 18,
-      "Мирошник Николай Николаевич": 11,
-      "Михеев Евгений Васильевич": 159,
-      "Попов Алексей Валентинович": 81,
-      "Савельев Дмитрий Владимирович": 255,
-      "Умнов Алексей Александрович": 26,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121921": 158,
+      "gas:candidate-vibid:1001000118562": 11,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 18,
+      "gas:candidate-vibid:1001000195152": 11,
+      "gas:candidate-vibid:1001000225995": 159,
+      "gas:candidate-vibid:271200070993": 81,
+      "gas:candidate-vibid:1001000277357": 255,
+      "gas:candidate-vibid:1001000136134": 26,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 108,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 13,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 45,
-      "Михеев Евгений Васильевич": 3,
-      "Попов Алексей Валентинович": 45,
-      "Савельев Дмитрий Владимирович": 78,
-      "Умнов Алексей Александрович": 14,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121921": 108,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 13,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 45,
+      "gas:candidate-vibid:1001000225995": 3,
+      "gas:candidate-vibid:271200070993": 45,
+      "gas:candidate-vibid:1001000277357": 78,
+      "gas:candidate-vibid:1001000136134": 14,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 28,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 40,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 36,
-      "Попов Алексей Валентинович": 38,
-      "Савельев Дмитрий Владимирович": 145,
-      "Умнов Алексей Александрович": 8,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121921": 28,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 40,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 36,
+      "gas:candidate-vibid:271200070993": 38,
+      "gas:candidate-vibid:1001000277357": 145,
+      "gas:candidate-vibid:1001000136134": 8,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 10,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 8,
-      "Иванцов Михаил Евгеньевич": 0,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 46,
-      "Попов Алексей Валентинович": 20,
-      "Савельев Дмитрий Владимирович": 38,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121921": 10,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 8,
+      "gas:candidate-vibid:1001000131418": 0,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 46,
+      "gas:candidate-vibid:271200070993": 20,
+      "gas:candidate-vibid:1001000277357": 38,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 112,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 19,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 24,
-      "Попов Алексей Валентинович": 15,
-      "Савельев Дмитрий Владимирович": 54,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121921": 112,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 19,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 24,
+      "gas:candidate-vibid:271200070993": 15,
+      "gas:candidate-vibid:1001000277357": 54,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 41,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 36,
-      "Иванцов Михаил Евгеньевич": 6,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 74,
-      "Попов Алексей Валентинович": 26,
-      "Савельев Дмитрий Владимирович": 79,
-      "Умнов Алексей Александрович": 7,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121921": 41,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 36,
+      "gas:candidate-vibid:1001000131418": 6,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 74,
+      "gas:candidate-vibid:271200070993": 26,
+      "gas:candidate-vibid:1001000277357": 79,
+      "gas:candidate-vibid:1001000136134": 7,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 10,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 7,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 9,
-      "Попов Алексей Валентинович": 3,
-      "Савельев Дмитрий Владимирович": 127,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121921": 10,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 7,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 9,
+      "gas:candidate-vibid:271200070993": 3,
+      "gas:candidate-vibid:1001000277357": 127,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 25,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 4,
-      "Мирошник Николай Николаевич": 37,
-      "Михеев Евгений Васильевич": 5,
-      "Попов Алексей Валентинович": 1,
-      "Савельев Дмитрий Владимирович": 23,
-      "Умнов Алексей Александрович": 16,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121921": 25,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 4,
+      "gas:candidate-vibid:1001000195152": 37,
+      "gas:candidate-vibid:1001000225995": 5,
+      "gas:candidate-vibid:271200070993": 1,
+      "gas:candidate-vibid:1001000277357": 23,
+      "gas:candidate-vibid:1001000136134": 16,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 120,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 4,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 40,
-      "Попов Алексей Валентинович": 14,
-      "Савельев Дмитрий Владимирович": 50,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121921": 120,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 4,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 40,
+      "gas:candidate-vibid:271200070993": 14,
+      "gas:candidate-vibid:1001000277357": 50,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 71,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 8,
-      "Иванцов Михаил Евгеньевич": 4,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 30,
-      "Попов Алексей Валентинович": 24,
-      "Савельев Дмитрий Владимирович": 88,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121921": 71,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 8,
+      "gas:candidate-vibid:1001000131418": 4,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 30,
+      "gas:candidate-vibid:271200070993": 24,
+      "gas:candidate-vibid:1001000277357": 88,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070312&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 84,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 12,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 50,
-      "Попов Алексей Валентинович": 18,
-      "Савельев Дмитрий Владимирович": 92,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121921": 84,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 12,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 50,
+      "gas:candidate-vibid:271200070993": 18,
+      "gas:candidate-vibid:1001000277357": 92,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 66,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 13,
-      "Иванцов Михаил Евгеньевич": 13,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 77,
-      "Попов Алексей Валентинович": 19,
-      "Савельев Дмитрий Владимирович": 96,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121921": 66,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 13,
+      "gas:candidate-vibid:1001000131418": 13,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 77,
+      "gas:candidate-vibid:271200070993": 19,
+      "gas:candidate-vibid:1001000277357": 96,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 34,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 6,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 42,
-      "Попов Алексей Валентинович": 40,
-      "Савельев Дмитрий Владимирович": 97,
-      "Умнов Алексей Александрович": 14,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121921": 34,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 6,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 42,
+      "gas:candidate-vibid:271200070993": 40,
+      "gas:candidate-vibid:1001000277357": 97,
+      "gas:candidate-vibid:1001000136134": 14,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 48,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 9,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 28,
-      "Попов Алексей Валентинович": 25,
-      "Савельев Дмитрий Владимирович": 58,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121921": 48,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 9,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 28,
+      "gas:candidate-vibid:271200070993": 25,
+      "gas:candidate-vibid:1001000277357": 58,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 89,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 19,
-      "Попов Алексей Валентинович": 10,
-      "Савельев Дмитрий Владимирович": 10,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121921": 89,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 19,
+      "gas:candidate-vibid:271200070993": 10,
+      "gas:candidate-vibid:1001000277357": 10,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 29,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 17,
-      "Попов Алексей Валентинович": 19,
-      "Савельев Дмитрий Владимирович": 33,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121921": 29,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 17,
+      "gas:candidate-vibid:271200070993": 19,
+      "gas:candidate-vibid:1001000277357": 33,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 34,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 12,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 47,
-      "Попов Алексей Валентинович": 27,
-      "Савельев Дмитрий Владимирович": 40,
-      "Умнов Алексей Александрович": 11,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121921": 34,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 12,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 47,
+      "gas:candidate-vibid:271200070993": 27,
+      "gas:candidate-vibid:1001000277357": 40,
+      "gas:candidate-vibid:1001000136134": 11,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 126,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 30,
-      "Попов Алексей Валентинович": 15,
-      "Савельев Дмитрий Владимирович": 10,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121921": 126,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 30,
+      "gas:candidate-vibid:271200070993": 15,
+      "gas:candidate-vibid:1001000277357": 10,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 38,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 13,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 33,
-      "Попов Алексей Валентинович": 18,
-      "Савельев Дмитрий Владимирович": 84,
-      "Умнов Алексей Александрович": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121921": 38,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 13,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 33,
+      "gas:candidate-vibid:271200070993": 18,
+      "gas:candidate-vibid:1001000277357": 84,
+      "gas:candidate-vibid:1001000136134": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 76,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 10,
-      "Иванцов Михаил Евгеньевич": 14,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 129,
-      "Попов Алексей Валентинович": 71,
-      "Савельев Дмитрий Владимирович": 70,
-      "Умнов Алексей Александрович": 18,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121921": 76,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 10,
+      "gas:candidate-vibid:1001000131418": 14,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 129,
+      "gas:candidate-vibid:271200070993": 71,
+      "gas:candidate-vibid:1001000277357": 70,
+      "gas:candidate-vibid:1001000136134": 18,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 20,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 12,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 81,
-      "Попов Алексей Валентинович": 35,
-      "Савельев Дмитрий Владимирович": 28,
-      "Умнов Алексей Александрович": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121921": 20,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 12,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 81,
+      "gas:candidate-vibid:271200070993": 35,
+      "gas:candidate-vibid:1001000277357": 28,
+      "gas:candidate-vibid:1001000136134": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 60,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 10,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 92,
-      "Попов Алексей Валентинович": 17,
-      "Савельев Дмитрий Владимирович": 122,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121921": 60,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 10,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 92,
+      "gas:candidate-vibid:271200070993": 17,
+      "gas:candidate-vibid:1001000277357": 122,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 49,
-      "Берестнев Александр Михайлович": 18,
-      "Иванцов Игорь Борисович": 13,
-      "Иванцов Михаил Евгеньевич": 11,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 40,
-      "Попов Алексей Валентинович": 43,
-      "Савельев Дмитрий Владимирович": 35,
-      "Умнов Алексей Александрович": 18,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121921": 49,
+      "gas:candidate-vibid:1001000118562": 18,
+      "gas:candidate-vibid:271200071151": 13,
+      "gas:candidate-vibid:1001000131418": 11,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 40,
+      "gas:candidate-vibid:271200070993": 43,
+      "gas:candidate-vibid:1001000277357": 35,
+      "gas:candidate-vibid:1001000136134": 18,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 54,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 0,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 93,
-      "Попов Алексей Валентинович": 15,
-      "Савельев Дмитрий Владимирович": 91,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121921": 54,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 0,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 93,
+      "gas:candidate-vibid:271200070993": 15,
+      "gas:candidate-vibid:1001000277357": 91,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 5,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 0,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 21,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 41,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121921": 5,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 0,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 21,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 41,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 22,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 19,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 43,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121921": 22,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 19,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 43,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 48,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 16,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 131,
-      "Попов Алексей Валентинович": 15,
-      "Савельев Дмитрий Владимирович": 76,
-      "Умнов Алексей Александрович": 17,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121921": 48,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 16,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 131,
+      "gas:candidate-vibid:271200070993": 15,
+      "gas:candidate-vibid:1001000277357": 76,
+      "gas:candidate-vibid:1001000136134": 17,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 50,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 74,
-      "Попов Алексей Валентинович": 8,
-      "Савельев Дмитрий Владимирович": 59,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121921": 50,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 74,
+      "gas:candidate-vibid:271200070993": 8,
+      "gas:candidate-vibid:1001000277357": 59,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 47,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 8,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 43,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 43,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121921": 47,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 8,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 43,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 43,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 41,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 35,
-      "Попов Алексей Валентинович": 13,
-      "Савельев Дмитрий Владимирович": 37,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121921": 41,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 35,
+      "gas:candidate-vibid:271200070993": 13,
+      "gas:candidate-vibid:1001000277357": 37,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 29,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 7,
-      "Иванцов Михаил Евгеньевич": 9,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 64,
-      "Попов Алексей Валентинович": 13,
-      "Савельев Дмитрий Владимирович": 27,
-      "Умнов Алексей Александрович": 12,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121921": 29,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 7,
+      "gas:candidate-vibid:1001000131418": 9,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 64,
+      "gas:candidate-vibid:271200070993": 13,
+      "gas:candidate-vibid:1001000277357": 27,
+      "gas:candidate-vibid:1001000136134": 12,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 187,
-      "Берестнев Александр Михайлович": 46,
-      "Иванцов Игорь Борисович": 13,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 10,
-      "Михеев Евгений Васильевич": 168,
-      "Попов Алексей Валентинович": 50,
-      "Савельев Дмитрий Владимирович": 271,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000121921": 187,
+      "gas:candidate-vibid:1001000118562": 46,
+      "gas:candidate-vibid:271200071151": 13,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 10,
+      "gas:candidate-vibid:1001000225995": 168,
+      "gas:candidate-vibid:271200070993": 50,
+      "gas:candidate-vibid:1001000277357": 271,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 166,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 57,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 315,
-      "Попов Алексей Валентинович": 72,
-      "Савельев Дмитрий Владимирович": 345,
-      "Умнов Алексей Александрович": 46,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000121921": 166,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 57,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 315,
+      "gas:candidate-vibid:271200070993": 72,
+      "gas:candidate-vibid:1001000277357": 345,
+      "gas:candidate-vibid:1001000136134": 46,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 138,
-      "Берестнев Александр Михайлович": 14,
-      "Иванцов Игорь Борисович": 31,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 201,
-      "Попов Алексей Валентинович": 57,
-      "Савельев Дмитрий Владимирович": 262,
-      "Умнов Алексей Александрович": 67,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000121921": 138,
+      "gas:candidate-vibid:1001000118562": 14,
+      "gas:candidate-vibid:271200071151": 31,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 201,
+      "gas:candidate-vibid:271200070993": 57,
+      "gas:candidate-vibid:1001000277357": 262,
+      "gas:candidate-vibid:1001000136134": 67,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 54,
-      "Берестнев Александр Михайлович": 6,
-      "Иванцов Игорь Борисович": 19,
-      "Иванцов Михаил Евгеньевич": 14,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 108,
-      "Попов Алексей Валентинович": 49,
-      "Савельев Дмитрий Владимирович": 170,
-      "Умнов Алексей Александрович": 20,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121921": 54,
+      "gas:candidate-vibid:1001000118562": 6,
+      "gas:candidate-vibid:271200071151": 19,
+      "gas:candidate-vibid:1001000131418": 14,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 108,
+      "gas:candidate-vibid:271200070993": 49,
+      "gas:candidate-vibid:1001000277357": 170,
+      "gas:candidate-vibid:1001000136134": 20,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 94,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 13,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 231,
-      "Попов Алексей Валентинович": 56,
-      "Савельев Дмитрий Владимирович": 206,
-      "Умнов Алексей Александрович": 21,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121921": 94,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 13,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 231,
+      "gas:candidate-vibid:271200070993": 56,
+      "gas:candidate-vibid:1001000277357": 206,
+      "gas:candidate-vibid:1001000136134": 21,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 144,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 39,
-      "Иванцов Михаил Евгеньевич": 11,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 143,
-      "Попов Алексей Валентинович": 36,
-      "Савельев Дмитрий Владимирович": 233,
-      "Умнов Алексей Александрович": 36,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121921": 144,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 39,
+      "gas:candidate-vibid:1001000131418": 11,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 143,
+      "gas:candidate-vibid:271200070993": 36,
+      "gas:candidate-vibid:1001000277357": 233,
+      "gas:candidate-vibid:1001000136134": 36,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 151,
-      "Берестнев Александр Михайлович": 16,
-      "Иванцов Игорь Борисович": 31,
-      "Иванцов Михаил Евгеньевич": 29,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 312,
-      "Попов Алексей Валентинович": 61,
-      "Савельев Дмитрий Владимирович": 415,
-      "Умнов Алексей Александрович": 60,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000121921": 151,
+      "gas:candidate-vibid:1001000118562": 16,
+      "gas:candidate-vibid:271200071151": 31,
+      "gas:candidate-vibid:1001000131418": 29,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 312,
+      "gas:candidate-vibid:271200070993": 61,
+      "gas:candidate-vibid:1001000277357": 415,
+      "gas:candidate-vibid:1001000136134": 60,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 126,
-      "Берестнев Александр Михайлович": 23,
-      "Иванцов Игорь Борисович": 49,
-      "Иванцов Михаил Евгеньевич": 30,
-      "Мирошник Николай Николаевич": 10,
-      "Михеев Евгений Васильевич": 296,
-      "Попов Алексей Валентинович": 48,
-      "Савельев Дмитрий Владимирович": 351,
-      "Умнов Алексей Александрович": 49,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000121921": 126,
+      "gas:candidate-vibid:1001000118562": 23,
+      "gas:candidate-vibid:271200071151": 49,
+      "gas:candidate-vibid:1001000131418": 30,
+      "gas:candidate-vibid:1001000195152": 10,
+      "gas:candidate-vibid:1001000225995": 296,
+      "gas:candidate-vibid:271200070993": 48,
+      "gas:candidate-vibid:1001000277357": 351,
+      "gas:candidate-vibid:1001000136134": 49,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 82,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 148,
-      "Попов Алексей Валентинович": 57,
-      "Савельев Дмитрий Владимирович": 280,
-      "Умнов Алексей Александрович": 54,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000121921": 82,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 148,
+      "gas:candidate-vibid:271200070993": 57,
+      "gas:candidate-vibid:1001000277357": 280,
+      "gas:candidate-vibid:1001000136134": 54,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070320&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 177,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 51,
-      "Иванцов Михаил Евгеньевич": 26,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 363,
-      "Попов Алексей Валентинович": 36,
-      "Савельев Дмитрий Владимирович": 351,
-      "Умнов Алексей Александрович": 52,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000121921": 177,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 51,
+      "gas:candidate-vibid:1001000131418": 26,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 363,
+      "gas:candidate-vibid:271200070993": 36,
+      "gas:candidate-vibid:1001000277357": 351,
+      "gas:candidate-vibid:1001000136134": 52,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 117,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 41,
-      "Иванцов Михаил Евгеньевич": 18,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 254,
-      "Попов Алексей Валентинович": 32,
-      "Савельев Дмитрий Владимирович": 265,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121921": 117,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 41,
+      "gas:candidate-vibid:1001000131418": 18,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 254,
+      "gas:candidate-vibid:271200070993": 32,
+      "gas:candidate-vibid:1001000277357": 265,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 199,
-      "Берестнев Александр Михайлович": 17,
-      "Иванцов Игорь Борисович": 40,
-      "Иванцов Михаил Евгеньевич": 28,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 424,
-      "Попов Алексей Валентинович": 53,
-      "Савельев Дмитрий Владимирович": 322,
-      "Умнов Алексей Александрович": 53,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121921": 199,
+      "gas:candidate-vibid:1001000118562": 17,
+      "gas:candidate-vibid:271200071151": 40,
+      "gas:candidate-vibid:1001000131418": 28,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 424,
+      "gas:candidate-vibid:271200070993": 53,
+      "gas:candidate-vibid:1001000277357": 322,
+      "gas:candidate-vibid:1001000136134": 53,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 184,
-      "Берестнев Александр Михайлович": 17,
-      "Иванцов Игорь Борисович": 78,
-      "Иванцов Михаил Евгеньевич": 38,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 452,
-      "Попов Алексей Валентинович": 32,
-      "Савельев Дмитрий Владимирович": 220,
-      "Умнов Алексей Александрович": 55,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121921": 184,
+      "gas:candidate-vibid:1001000118562": 17,
+      "gas:candidate-vibid:271200071151": 78,
+      "gas:candidate-vibid:1001000131418": 38,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 452,
+      "gas:candidate-vibid:271200070993": 32,
+      "gas:candidate-vibid:1001000277357": 220,
+      "gas:candidate-vibid:1001000136134": 55,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 196,
-      "Берестнев Александр Михайлович": 14,
-      "Иванцов Игорь Борисович": 61,
-      "Иванцов Михаил Евгеньевич": 34,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 259,
-      "Попов Алексей Валентинович": 33,
-      "Савельев Дмитрий Владимирович": 255,
-      "Умнов Алексей Александрович": 42,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000121921": 196,
+      "gas:candidate-vibid:1001000118562": 14,
+      "gas:candidate-vibid:271200071151": 61,
+      "gas:candidate-vibid:1001000131418": 34,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 259,
+      "gas:candidate-vibid:271200070993": 33,
+      "gas:candidate-vibid:1001000277357": 255,
+      "gas:candidate-vibid:1001000136134": 42,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 197,
-      "Берестнев Александр Михайлович": 35,
-      "Иванцов Игорь Борисович": 61,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 329,
-      "Попов Алексей Валентинович": 33,
-      "Савельев Дмитрий Владимирович": 435,
-      "Умнов Алексей Александрович": 47,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121921": 197,
+      "gas:candidate-vibid:1001000118562": 35,
+      "gas:candidate-vibid:271200071151": 61,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 329,
+      "gas:candidate-vibid:271200070993": 33,
+      "gas:candidate-vibid:1001000277357": 435,
+      "gas:candidate-vibid:1001000136134": 47,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 139,
-      "Берестнев Александр Михайлович": 19,
-      "Иванцов Игорь Борисович": 69,
-      "Иванцов Михаил Евгеньевич": 26,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 279,
-      "Попов Алексей Валентинович": 23,
-      "Савельев Дмитрий Владимирович": 205,
-      "Умнов Алексей Александрович": 28,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121921": 139,
+      "gas:candidate-vibid:1001000118562": 19,
+      "gas:candidate-vibid:271200071151": 69,
+      "gas:candidate-vibid:1001000131418": 26,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 279,
+      "gas:candidate-vibid:271200070993": 23,
+      "gas:candidate-vibid:1001000277357": 205,
+      "gas:candidate-vibid:1001000136134": 28,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 264,
-      "Берестнев Александр Михайлович": 17,
-      "Иванцов Игорь Борисович": 45,
-      "Иванцов Михаил Евгеньевич": 29,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 313,
-      "Попов Алексей Валентинович": 59,
-      "Савельев Дмитрий Владимирович": 321,
-      "Умнов Алексей Александрович": 46,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000121921": 264,
+      "gas:candidate-vibid:1001000118562": 17,
+      "gas:candidate-vibid:271200071151": 45,
+      "gas:candidate-vibid:1001000131418": 29,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 313,
+      "gas:candidate-vibid:271200070993": 59,
+      "gas:candidate-vibid:1001000277357": 321,
+      "gas:candidate-vibid:1001000136134": 46,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 180,
-      "Берестнев Александр Михайлович": 16,
-      "Иванцов Игорь Борисович": 35,
-      "Иванцов Михаил Евгеньевич": 29,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 200,
-      "Попов Алексей Валентинович": 21,
-      "Савельев Дмитрий Владимирович": 306,
-      "Умнов Алексей Александрович": 31,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121921": 180,
+      "gas:candidate-vibid:1001000118562": 16,
+      "gas:candidate-vibid:271200071151": 35,
+      "gas:candidate-vibid:1001000131418": 29,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 200,
+      "gas:candidate-vibid:271200070993": 21,
+      "gas:candidate-vibid:1001000277357": 306,
+      "gas:candidate-vibid:1001000136134": 31,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 166,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 26,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 244,
-      "Попов Алексей Валентинович": 30,
-      "Савельев Дмитрий Владимирович": 247,
-      "Умнов Алексей Александрович": 27,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121921": 166,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 26,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 244,
+      "gas:candidate-vibid:271200070993": 30,
+      "gas:candidate-vibid:1001000277357": 247,
+      "gas:candidate-vibid:1001000136134": 27,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 146,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 36,
-      "Иванцов Михаил Евгеньевич": 14,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 271,
-      "Попов Алексей Валентинович": 22,
-      "Савельев Дмитрий Владимирович": 251,
-      "Умнов Алексей Александрович": 41,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121921": 146,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 36,
+      "gas:candidate-vibid:1001000131418": 14,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 271,
+      "gas:candidate-vibid:271200070993": 22,
+      "gas:candidate-vibid:1001000277357": 251,
+      "gas:candidate-vibid:1001000136134": 41,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 169,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 27,
-      "Иванцов Михаил Евгеньевич": 21,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 313,
-      "Попов Алексей Валентинович": 49,
-      "Савельев Дмитрий Владимирович": 395,
-      "Умнов Алексей Александрович": 38,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000121921": 169,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 27,
+      "gas:candidate-vibid:1001000131418": 21,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 313,
+      "gas:candidate-vibid:271200070993": 49,
+      "gas:candidate-vibid:1001000277357": 395,
+      "gas:candidate-vibid:1001000136134": 38,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 132,
-      "Берестнев Александр Михайлович": 14,
-      "Иванцов Игорь Борисович": 63,
-      "Иванцов Михаил Евгеньевич": 19,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 244,
-      "Попов Алексей Валентинович": 54,
-      "Савельев Дмитрий Владимирович": 417,
-      "Умнов Алексей Александрович": 41,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000121921": 132,
+      "gas:candidate-vibid:1001000118562": 14,
+      "gas:candidate-vibid:271200071151": 63,
+      "gas:candidate-vibid:1001000131418": 19,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 244,
+      "gas:candidate-vibid:271200070993": 54,
+      "gas:candidate-vibid:1001000277357": 417,
+      "gas:candidate-vibid:1001000136134": 41,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 150,
-      "Берестнев Александр Михайлович": 13,
-      "Иванцов Игорь Борисович": 32,
-      "Иванцов Михаил Евгеньевич": 26,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 256,
-      "Попов Алексей Валентинович": 39,
-      "Савельев Дмитрий Владимирович": 294,
-      "Умнов Алексей Александрович": 49,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121921": 150,
+      "gas:candidate-vibid:1001000118562": 13,
+      "gas:candidate-vibid:271200071151": 32,
+      "gas:candidate-vibid:1001000131418": 26,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 256,
+      "gas:candidate-vibid:271200070993": 39,
+      "gas:candidate-vibid:1001000277357": 294,
+      "gas:candidate-vibid:1001000136134": 49,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 116,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 22,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 274,
-      "Попов Алексей Валентинович": 34,
-      "Савельев Дмитрий Владимирович": 243,
-      "Умнов Алексей Александрович": 31,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000121921": 116,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 22,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 274,
+      "gas:candidate-vibid:271200070993": 34,
+      "gas:candidate-vibid:1001000277357": 243,
+      "gas:candidate-vibid:1001000136134": 31,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 135,
-      "Берестнев Александр Михайлович": 14,
-      "Иванцов Игорь Борисович": 34,
-      "Иванцов Михаил Евгеньевич": 13,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 198,
-      "Попов Алексей Валентинович": 24,
-      "Савельев Дмитрий Владимирович": 198,
-      "Умнов Алексей Александрович": 30,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121921": 135,
+      "gas:candidate-vibid:1001000118562": 14,
+      "gas:candidate-vibid:271200071151": 34,
+      "gas:candidate-vibid:1001000131418": 13,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 198,
+      "gas:candidate-vibid:271200070993": 24,
+      "gas:candidate-vibid:1001000277357": 198,
+      "gas:candidate-vibid:1001000136134": 30,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 241,
-      "Берестнев Александр Михайлович": 17,
-      "Иванцов Игорь Борисович": 18,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 239,
-      "Попов Алексей Валентинович": 33,
-      "Савельев Дмитрий Владимирович": 328,
-      "Умнов Алексей Александрович": 53,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121921": 241,
+      "gas:candidate-vibid:1001000118562": 17,
+      "gas:candidate-vibid:271200071151": 18,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 239,
+      "gas:candidate-vibid:271200070993": 33,
+      "gas:candidate-vibid:1001000277357": 328,
+      "gas:candidate-vibid:1001000136134": 53,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 119,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 39,
-      "Иванцов Михаил Евгеньевич": 17,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 265,
-      "Попов Алексей Валентинович": 35,
-      "Савельев Дмитрий Владимирович": 263,
-      "Умнов Алексей Александрович": 43,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000121921": 119,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 39,
+      "gas:candidate-vibid:1001000131418": 17,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 265,
+      "gas:candidate-vibid:271200070993": 35,
+      "gas:candidate-vibid:1001000277357": 263,
+      "gas:candidate-vibid:1001000136134": 43,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 97,
-      "Берестнев Александр Михайлович": 11,
-      "Иванцов Игорь Борисович": 17,
-      "Иванцов Михаил Евгеньевич": 12,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 221,
-      "Попов Алексей Валентинович": 14,
-      "Савельев Дмитрий Владимирович": 138,
-      "Умнов Алексей Александрович": 32,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121921": 97,
+      "gas:candidate-vibid:1001000118562": 11,
+      "gas:candidate-vibid:271200071151": 17,
+      "gas:candidate-vibid:1001000131418": 12,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 221,
+      "gas:candidate-vibid:271200070993": 14,
+      "gas:candidate-vibid:1001000277357": 138,
+      "gas:candidate-vibid:1001000136134": 32,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 111,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 16,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 211,
-      "Попов Алексей Валентинович": 43,
-      "Савельев Дмитрий Владимирович": 185,
-      "Умнов Алексей Александрович": 36,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121921": 111,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 16,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 211,
+      "gas:candidate-vibid:271200070993": 43,
+      "gas:candidate-vibid:1001000277357": 185,
+      "gas:candidate-vibid:1001000136134": 36,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 45,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 19,
-      "Иванцов Михаил Евгеньевич": 16,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 299,
-      "Попов Алексей Валентинович": 28,
-      "Савельев Дмитрий Владимирович": 255,
-      "Умнов Алексей Александрович": 36,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121921": 45,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 19,
+      "gas:candidate-vibid:1001000131418": 16,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 299,
+      "gas:candidate-vibid:271200070993": 28,
+      "gas:candidate-vibid:1001000277357": 255,
+      "gas:candidate-vibid:1001000136134": 36,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 17,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 27,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 51,
-      "Умнов Алексей Александрович": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121921": 17,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 27,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 51,
+      "gas:candidate-vibid:1001000136134": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 92,
-      "Берестнев Александр Михайлович": 11,
-      "Иванцов Игорь Борисович": 14,
-      "Иванцов Михаил Евгеньевич": 11,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 180,
-      "Попов Алексей Валентинович": 21,
-      "Савельев Дмитрий Владимирович": 66,
-      "Умнов Алексей Александрович": 27,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121921": 92,
+      "gas:candidate-vibid:1001000118562": 11,
+      "gas:candidate-vibid:271200071151": 14,
+      "gas:candidate-vibid:1001000131418": 11,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 180,
+      "gas:candidate-vibid:271200070993": 21,
+      "gas:candidate-vibid:1001000277357": 66,
+      "gas:candidate-vibid:1001000136134": 27,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 111,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 9,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 320,
-      "Попов Алексей Валентинович": 19,
-      "Савельев Дмитрий Владимирович": 108,
-      "Умнов Алексей Александрович": 29,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121921": 111,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 9,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 320,
+      "gas:candidate-vibid:271200070993": 19,
+      "gas:candidate-vibid:1001000277357": 108,
+      "gas:candidate-vibid:1001000136134": 29,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 134,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 52,
-      "Иванцов Михаил Евгеньевич": 34,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 289,
-      "Попов Алексей Валентинович": 41,
-      "Савельев Дмитрий Владимирович": 83,
-      "Умнов Алексей Александрович": 30,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121921": 134,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 52,
+      "gas:candidate-vibid:1001000131418": 34,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 289,
+      "gas:candidate-vibid:271200070993": 41,
+      "gas:candidate-vibid:1001000277357": 83,
+      "gas:candidate-vibid:1001000136134": 30,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 85,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 10,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 136,
-      "Попов Алексей Валентинович": 9,
-      "Савельев Дмитрий Владимирович": 119,
-      "Умнов Алексей Александрович": 21,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121921": 85,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 10,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 136,
+      "gas:candidate-vibid:271200070993": 9,
+      "gas:candidate-vibid:1001000277357": 119,
+      "gas:candidate-vibid:1001000136134": 21,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 138,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 26,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 355,
-      "Попов Алексей Валентинович": 25,
-      "Савельев Дмитрий Владимирович": 145,
-      "Умнов Алексей Александрович": 51,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121921": 138,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 26,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 355,
+      "gas:candidate-vibid:271200070993": 25,
+      "gas:candidate-vibid:1001000277357": 145,
+      "gas:candidate-vibid:1001000136134": 51,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 144,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 41,
-      "Иванцов Михаил Евгеньевич": 23,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 362,
-      "Попов Алексей Валентинович": 17,
-      "Савельев Дмитрий Владимирович": 93,
-      "Умнов Алексей Александрович": 43,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121921": 144,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 41,
+      "gas:candidate-vibid:1001000131418": 23,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 362,
+      "gas:candidate-vibid:271200070993": 17,
+      "gas:candidate-vibid:1001000277357": 93,
+      "gas:candidate-vibid:1001000136134": 43,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 118,
-      "Берестнев Александр Михайлович": 6,
-      "Иванцов Игорь Борисович": 26,
-      "Иванцов Михаил Евгеньевич": 22,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 244,
-      "Попов Алексей Валентинович": 14,
-      "Савельев Дмитрий Владимирович": 117,
-      "Умнов Алексей Александрович": 37,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121921": 118,
+      "gas:candidate-vibid:1001000118562": 6,
+      "gas:candidate-vibid:271200071151": 26,
+      "gas:candidate-vibid:1001000131418": 22,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 244,
+      "gas:candidate-vibid:271200070993": 14,
+      "gas:candidate-vibid:1001000277357": 117,
+      "gas:candidate-vibid:1001000136134": 37,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 195,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 281,
-      "Попов Алексей Валентинович": 23,
-      "Савельев Дмитрий Владимирович": 217,
-      "Умнов Алексей Александрович": 29,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121921": 195,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 281,
+      "gas:candidate-vibid:271200070993": 23,
+      "gas:candidate-vibid:1001000277357": 217,
+      "gas:candidate-vibid:1001000136134": 29,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 193,
-      "Берестнев Александр Михайлович": 19,
-      "Иванцов Игорь Борисович": 22,
-      "Иванцов Михаил Евгеньевич": 19,
-      "Мирошник Николай Николаевич": 10,
-      "Михеев Евгений Васильевич": 400,
-      "Попов Алексей Валентинович": 57,
-      "Савельев Дмитрий Владимирович": 188,
-      "Умнов Алексей Александрович": 35,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121921": 193,
+      "gas:candidate-vibid:1001000118562": 19,
+      "gas:candidate-vibid:271200071151": 22,
+      "gas:candidate-vibid:1001000131418": 19,
+      "gas:candidate-vibid:1001000195152": 10,
+      "gas:candidate-vibid:1001000225995": 400,
+      "gas:candidate-vibid:271200070993": 57,
+      "gas:candidate-vibid:1001000277357": 188,
+      "gas:candidate-vibid:1001000136134": 35,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 41,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 146,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 84,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121921": 41,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 146,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 84,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 57,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 7,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 56,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 15,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121921": 57,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 7,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 56,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 15,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 28,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 8,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 47,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 29,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121921": 28,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 8,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 47,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 29,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 36,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 10,
-      "Попов Алексей Валентинович": 0,
-      "Савельев Дмитрий Владимирович": 23,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121921": 36,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 10,
+      "gas:candidate-vibid:271200070993": 0,
+      "gas:candidate-vibid:1001000277357": 23,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 48,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 21,
-      "Попов Алексей Валентинович": 1,
-      "Савельев Дмитрий Владимирович": 21,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121921": 48,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 21,
+      "gas:candidate-vibid:271200070993": 1,
+      "gas:candidate-vibid:1001000277357": 21,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 109,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 75,
-      "Попов Алексей Валентинович": 9,
-      "Савельев Дмитрий Владимирович": 59,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121921": 109,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 75,
+      "gas:candidate-vibid:271200070993": 9,
+      "gas:candidate-vibid:1001000277357": 59,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 30,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 75,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 21,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121921": 30,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 75,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 21,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 95,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 64,
-      "Попов Алексей Валентинович": 17,
-      "Савельев Дмитрий Владимирович": 60,
-      "Умнов Алексей Александрович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121921": 95,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 64,
+      "gas:candidate-vibid:271200070993": 17,
+      "gas:candidate-vibid:1001000277357": 60,
+      "gas:candidate-vibid:1001000136134": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 91,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 40,
-      "Попов Алексей Валентинович": 8,
-      "Савельев Дмитрий Владимирович": 68,
-      "Умнов Алексей Александрович": 11,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121921": 91,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 40,
+      "gas:candidate-vibid:271200070993": 8,
+      "gas:candidate-vibid:1001000277357": 68,
+      "gas:candidate-vibid:1001000136134": 11,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 50,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 45,
-      "Попов Алексей Валентинович": 1,
-      "Савельев Дмитрий Владимирович": 37,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121921": 50,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 45,
+      "gas:candidate-vibid:271200070993": 1,
+      "gas:candidate-vibid:1001000277357": 37,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 52,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 14,
-      "Иванцов Михаил Евгеньевич": 6,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 46,
-      "Попов Алексей Валентинович": 14,
-      "Савельев Дмитрий Владимирович": 25,
-      "Умнов Алексей Александрович": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121921": 52,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 14,
+      "gas:candidate-vibid:1001000131418": 6,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 46,
+      "gas:candidate-vibid:271200070993": 14,
+      "gas:candidate-vibid:1001000277357": 25,
+      "gas:candidate-vibid:1001000136134": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 32,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 1,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 55,
-      "Попов Алексей Валентинович": 13,
-      "Савельев Дмитрий Владимирович": 9,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121921": 32,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 1,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 55,
+      "gas:candidate-vibid:271200070993": 13,
+      "gas:candidate-vibid:1001000277357": 9,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 38,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 20,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 41,
-      "Попов Алексей Валентинович": 12,
-      "Савельев Дмитрий Владимирович": 40,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121921": 38,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 20,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 41,
+      "gas:candidate-vibid:271200070993": 12,
+      "gas:candidate-vibid:1001000277357": 40,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 65,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 7,
-      "Иванцов Михаил Евгеньевич": 4,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 64,
-      "Попов Алексей Валентинович": 0,
-      "Савельев Дмитрий Владимирович": 13,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121921": 65,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 7,
+      "gas:candidate-vibid:1001000131418": 4,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 64,
+      "gas:candidate-vibid:271200070993": 0,
+      "gas:candidate-vibid:1001000277357": 13,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 45,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 14,
-      "Иванцов Михаил Евгеньевич": 9,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 59,
-      "Попов Алексей Валентинович": 10,
-      "Савельев Дмитрий Владимирович": 60,
-      "Умнов Алексей Александрович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121921": 45,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 14,
+      "gas:candidate-vibid:1001000131418": 9,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 59,
+      "gas:candidate-vibid:271200070993": 10,
+      "gas:candidate-vibid:1001000277357": 60,
+      "gas:candidate-vibid:1001000136134": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 132,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 10,
-      "Иванцов Михаил Евгеньевич": 4,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 85,
-      "Попов Алексей Валентинович": 34,
-      "Савельев Дмитрий Владимирович": 111,
-      "Умнов Алексей Александрович": 17,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121921": 132,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 10,
+      "gas:candidate-vibid:1001000131418": 4,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 85,
+      "gas:candidate-vibid:271200070993": 34,
+      "gas:candidate-vibid:1001000277357": 111,
+      "gas:candidate-vibid:1001000136134": 17,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 63,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 5,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 71,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 80,
-      "Умнов Алексей Александрович": 23,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121921": 63,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 5,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 71,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 80,
+      "gas:candidate-vibid:1001000136134": 23,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 22,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 87,
-      "Попов Алексей Валентинович": 4,
-      "Савельев Дмитрий Владимирович": 32,
-      "Умнов Алексей Александрович": 7,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121921": 22,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 87,
+      "gas:candidate-vibid:271200070993": 4,
+      "gas:candidate-vibid:1001000277357": 32,
+      "gas:candidate-vibid:1001000136134": 7,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 39,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 9,
-      "Иванцов Михаил Евгеньевич": 5,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 77,
-      "Попов Алексей Валентинович": 4,
-      "Савельев Дмитрий Владимирович": 46,
-      "Умнов Алексей Александрович": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121921": 39,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 9,
+      "gas:candidate-vibid:1001000131418": 5,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 77,
+      "gas:candidate-vibid:271200070993": 4,
+      "gas:candidate-vibid:1001000277357": 46,
+      "gas:candidate-vibid:1001000136134": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 13,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 27,
-      "Попов Алексей Валентинович": 4,
-      "Савельев Дмитрий Владимирович": 17,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121921": 13,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 27,
+      "gas:candidate-vibid:271200070993": 4,
+      "gas:candidate-vibid:1001000277357": 17,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 6,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 0,
-      "Иванцов Михаил Евгеньевич": 0,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 12,
-      "Попов Алексей Валентинович": 2,
-      "Савельев Дмитрий Владимирович": 9,
-      "Умнов Алексей Александрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121921": 6,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 0,
+      "gas:candidate-vibid:1001000131418": 0,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 12,
+      "gas:candidate-vibid:271200070993": 2,
+      "gas:candidate-vibid:1001000277357": 9,
+      "gas:candidate-vibid:1001000136134": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 8,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 0,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 17,
-      "Попов Алексей Валентинович": 4,
-      "Савельев Дмитрий Владимирович": 10,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121921": 8,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 0,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 17,
+      "gas:candidate-vibid:271200070993": 4,
+      "gas:candidate-vibid:1001000277357": 10,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 4,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 18,
-      "Попов Алексей Валентинович": 0,
-      "Савельев Дмитрий Владимирович": 16,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121921": 4,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 18,
+      "gas:candidate-vibid:271200070993": 0,
+      "gas:candidate-vibid:1001000277357": 16,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070321&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 169,
-      "Берестнев Александр Михайлович": 22,
-      "Иванцов Игорь Борисович": 37,
-      "Иванцов Михаил Евгеньевич": 24,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 120,
-      "Попов Алексей Валентинович": 33,
-      "Савельев Дмитрий Владимирович": 142,
-      "Умнов Алексей Александрович": 30,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121921": 169,
+      "gas:candidate-vibid:1001000118562": 22,
+      "gas:candidate-vibid:271200071151": 37,
+      "gas:candidate-vibid:1001000131418": 24,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 120,
+      "gas:candidate-vibid:271200070993": 33,
+      "gas:candidate-vibid:1001000277357": 142,
+      "gas:candidate-vibid:1001000136134": 30,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 115,
-      "Берестнев Александр Михайлович": 9,
-      "Иванцов Игорь Борисович": 16,
-      "Иванцов Михаил Евгеньевич": 24,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 36,
-      "Попов Алексей Валентинович": 9,
-      "Савельев Дмитрий Владимирович": 78,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121921": 115,
+      "gas:candidate-vibid:1001000118562": 9,
+      "gas:candidate-vibid:271200071151": 16,
+      "gas:candidate-vibid:1001000131418": 24,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 36,
+      "gas:candidate-vibid:271200070993": 9,
+      "gas:candidate-vibid:1001000277357": 78,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 294,
-      "Берестнев Александр Михайлович": 41,
-      "Иванцов Игорь Борисович": 94,
-      "Иванцов Михаил Евгеньевич": 28,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 172,
-      "Попов Алексей Валентинович": 53,
-      "Савельев Дмитрий Владимирович": 252,
-      "Умнов Алексей Александрович": 37,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121921": 294,
+      "gas:candidate-vibid:1001000118562": 41,
+      "gas:candidate-vibid:271200071151": 94,
+      "gas:candidate-vibid:1001000131418": 28,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 172,
+      "gas:candidate-vibid:271200070993": 53,
+      "gas:candidate-vibid:1001000277357": 252,
+      "gas:candidate-vibid:1001000136134": 37,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 324,
-      "Берестнев Александр Михайлович": 57,
-      "Иванцов Игорь Борисович": 58,
-      "Иванцов Михаил Евгеньевич": 28,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 220,
-      "Попов Алексей Валентинович": 56,
-      "Савельев Дмитрий Владимирович": 326,
-      "Умнов Алексей Александрович": 36,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000121921": 324,
+      "gas:candidate-vibid:1001000118562": 57,
+      "gas:candidate-vibid:271200071151": 58,
+      "gas:candidate-vibid:1001000131418": 28,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 220,
+      "gas:candidate-vibid:271200070993": 56,
+      "gas:candidate-vibid:1001000277357": 326,
+      "gas:candidate-vibid:1001000136134": 36,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 208,
-      "Берестнев Александр Михайлович": 30,
-      "Иванцов Игорь Борисович": 44,
-      "Иванцов Михаил Евгеньевич": 12,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 153,
-      "Попов Алексей Валентинович": 39,
-      "Савельев Дмитрий Владимирович": 245,
-      "Умнов Алексей Александрович": 44,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000121921": 208,
+      "gas:candidate-vibid:1001000118562": 30,
+      "gas:candidate-vibid:271200071151": 44,
+      "gas:candidate-vibid:1001000131418": 12,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 153,
+      "gas:candidate-vibid:271200070993": 39,
+      "gas:candidate-vibid:1001000277357": 245,
+      "gas:candidate-vibid:1001000136134": 44,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 298,
-      "Берестнев Александр Михайлович": 39,
-      "Иванцов Игорь Борисович": 73,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 226,
-      "Попов Алексей Валентинович": 43,
-      "Савельев Дмитрий Владимирович": 195,
-      "Умнов Алексей Александрович": 30,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000121921": 298,
+      "gas:candidate-vibid:1001000118562": 39,
+      "gas:candidate-vibid:271200071151": 73,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 226,
+      "gas:candidate-vibid:271200070993": 43,
+      "gas:candidate-vibid:1001000277357": 195,
+      "gas:candidate-vibid:1001000136134": 30,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 199,
-      "Берестнев Александр Михайлович": 32,
-      "Иванцов Игорь Борисович": 40,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 177,
-      "Попов Алексей Валентинович": 36,
-      "Савельев Дмитрий Владимирович": 231,
-      "Умнов Алексей Александрович": 20,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121921": 199,
+      "gas:candidate-vibid:1001000118562": 32,
+      "gas:candidate-vibid:271200071151": 40,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 177,
+      "gas:candidate-vibid:271200070993": 36,
+      "gas:candidate-vibid:1001000277357": 231,
+      "gas:candidate-vibid:1001000136134": 20,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 240,
-      "Берестнев Александр Михайлович": 28,
-      "Иванцов Игорь Борисович": 35,
-      "Иванцов Михаил Евгеньевич": 18,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 134,
-      "Попов Алексей Валентинович": 44,
-      "Савельев Дмитрий Владимирович": 141,
-      "Умнов Алексей Александрович": 25,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000121921": 240,
+      "gas:candidate-vibid:1001000118562": 28,
+      "gas:candidate-vibid:271200071151": 35,
+      "gas:candidate-vibid:1001000131418": 18,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 134,
+      "gas:candidate-vibid:271200070993": 44,
+      "gas:candidate-vibid:1001000277357": 141,
+      "gas:candidate-vibid:1001000136134": 25,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 223,
-      "Берестнев Александр Михайлович": 48,
-      "Иванцов Игорь Борисович": 42,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 203,
-      "Попов Алексей Валентинович": 56,
-      "Савельев Дмитрий Владимирович": 202,
-      "Умнов Алексей Александрович": 37,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121921": 223,
+      "gas:candidate-vibid:1001000118562": 48,
+      "gas:candidate-vibid:271200071151": 42,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 203,
+      "gas:candidate-vibid:271200070993": 56,
+      "gas:candidate-vibid:1001000277357": 202,
+      "gas:candidate-vibid:1001000136134": 37,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 230,
-      "Берестнев Александр Михайлович": 35,
-      "Иванцов Игорь Борисович": 49,
-      "Иванцов Михаил Евгеньевич": 29,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 182,
-      "Попов Алексей Валентинович": 43,
-      "Савельев Дмитрий Владимирович": 253,
-      "Умнов Алексей Александрович": 14,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121921": 230,
+      "gas:candidate-vibid:1001000118562": 35,
+      "gas:candidate-vibid:271200071151": 49,
+      "gas:candidate-vibid:1001000131418": 29,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 182,
+      "gas:candidate-vibid:271200070993": 43,
+      "gas:candidate-vibid:1001000277357": 253,
+      "gas:candidate-vibid:1001000136134": 14,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 300,
-      "Берестнев Александр Михайлович": 54,
-      "Иванцов Игорь Борисович": 56,
-      "Иванцов Михаил Евгеньевич": 28,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 169,
-      "Попов Алексей Валентинович": 61,
-      "Савельев Дмитрий Владимирович": 285,
-      "Умнов Алексей Александрович": 34,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000121921": 300,
+      "gas:candidate-vibid:1001000118562": 54,
+      "gas:candidate-vibid:271200071151": 56,
+      "gas:candidate-vibid:1001000131418": 28,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 169,
+      "gas:candidate-vibid:271200070993": 61,
+      "gas:candidate-vibid:1001000277357": 285,
+      "gas:candidate-vibid:1001000136134": 34,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 150,
-      "Берестнев Александр Михайлович": 40,
-      "Иванцов Игорь Борисович": 40,
-      "Иванцов Михаил Евгеньевич": 20,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 141,
-      "Попов Алексей Валентинович": 21,
-      "Савельев Дмитрий Владимирович": 131,
-      "Умнов Алексей Александрович": 18,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121921": 150,
+      "gas:candidate-vibid:1001000118562": 40,
+      "gas:candidate-vibid:271200071151": 40,
+      "gas:candidate-vibid:1001000131418": 20,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 141,
+      "gas:candidate-vibid:271200070993": 21,
+      "gas:candidate-vibid:1001000277357": 131,
+      "gas:candidate-vibid:1001000136134": 18,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 297,
-      "Берестнев Александр Михайлович": 62,
-      "Иванцов Игорь Борисович": 50,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 305,
-      "Попов Алексей Валентинович": 64,
-      "Савельев Дмитрий Владимирович": 359,
-      "Умнов Алексей Александрович": 50,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121921": 297,
+      "gas:candidate-vibid:1001000118562": 62,
+      "gas:candidate-vibid:271200071151": 50,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 305,
+      "gas:candidate-vibid:271200070993": 64,
+      "gas:candidate-vibid:1001000277357": 359,
+      "gas:candidate-vibid:1001000136134": 50,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 251,
-      "Берестнев Александр Михайлович": 47,
-      "Иванцов Игорь Борисович": 61,
-      "Иванцов Михаил Евгеньевич": 35,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 275,
-      "Попов Алексей Валентинович": 67,
-      "Савельев Дмитрий Владимирович": 427,
-      "Умнов Алексей Александрович": 42,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000121921": 251,
+      "gas:candidate-vibid:1001000118562": 47,
+      "gas:candidate-vibid:271200071151": 61,
+      "gas:candidate-vibid:1001000131418": 35,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 275,
+      "gas:candidate-vibid:271200070993": 67,
+      "gas:candidate-vibid:1001000277357": 427,
+      "gas:candidate-vibid:1001000136134": 42,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 389,
-      "Берестнев Александр Михайлович": 66,
-      "Иванцов Игорь Борисович": 115,
-      "Иванцов Михаил Евгеньевич": 34,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 267,
-      "Попов Алексей Валентинович": 105,
-      "Савельев Дмитрий Владимирович": 281,
-      "Умнов Алексей Александрович": 49,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000121921": 389,
+      "gas:candidate-vibid:1001000118562": 66,
+      "gas:candidate-vibid:271200071151": 115,
+      "gas:candidate-vibid:1001000131418": 34,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 267,
+      "gas:candidate-vibid:271200070993": 105,
+      "gas:candidate-vibid:1001000277357": 281,
+      "gas:candidate-vibid:1001000136134": 49,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 257,
-      "Берестнев Александр Михайлович": 72,
-      "Иванцов Игорь Борисович": 49,
-      "Иванцов Михаил Евгеньевич": 37,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 207,
-      "Попов Алексей Валентинович": 55,
-      "Савельев Дмитрий Владимирович": 338,
-      "Умнов Алексей Александрович": 49,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000121921": 257,
+      "gas:candidate-vibid:1001000118562": 72,
+      "gas:candidate-vibid:271200071151": 49,
+      "gas:candidate-vibid:1001000131418": 37,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 207,
+      "gas:candidate-vibid:271200070993": 55,
+      "gas:candidate-vibid:1001000277357": 338,
+      "gas:candidate-vibid:1001000136134": 49,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 234,
-      "Берестнев Александр Михайлович": 72,
-      "Иванцов Игорь Борисович": 50,
-      "Иванцов Михаил Евгеньевич": 32,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 221,
-      "Попов Алексей Валентинович": 52,
-      "Савельев Дмитрий Владимирович": 246,
-      "Умнов Алексей Александрович": 55,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000121921": 234,
+      "gas:candidate-vibid:1001000118562": 72,
+      "gas:candidate-vibid:271200071151": 50,
+      "gas:candidate-vibid:1001000131418": 32,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 221,
+      "gas:candidate-vibid:271200070993": 52,
+      "gas:candidate-vibid:1001000277357": 246,
+      "gas:candidate-vibid:1001000136134": 55,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 185,
-      "Берестнев Александр Михайлович": 55,
-      "Иванцов Игорь Борисович": 69,
-      "Иванцов Михаил Евгеньевич": 38,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 162,
-      "Попов Алексей Валентинович": 28,
-      "Савельев Дмитрий Владимирович": 219,
-      "Умнов Алексей Александрович": 40,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000121921": 185,
+      "gas:candidate-vibid:1001000118562": 55,
+      "gas:candidate-vibid:271200071151": 69,
+      "gas:candidate-vibid:1001000131418": 38,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 162,
+      "gas:candidate-vibid:271200070993": 28,
+      "gas:candidate-vibid:1001000277357": 219,
+      "gas:candidate-vibid:1001000136134": 40,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 188,
-      "Берестнев Александр Михайлович": 37,
-      "Иванцов Игорь Борисович": 34,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 191,
-      "Попов Алексей Валентинович": 30,
-      "Савельев Дмитрий Владимирович": 385,
-      "Умнов Алексей Александрович": 47,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121921": 188,
+      "gas:candidate-vibid:1001000118562": 37,
+      "gas:candidate-vibid:271200071151": 34,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 191,
+      "gas:candidate-vibid:271200070993": 30,
+      "gas:candidate-vibid:1001000277357": 385,
+      "gas:candidate-vibid:1001000136134": 47,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 212,
-      "Берестнев Александр Михайлович": 71,
-      "Иванцов Игорь Борисович": 69,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 323,
-      "Попов Алексей Валентинович": 62,
-      "Савельев Дмитрий Владимирович": 279,
-      "Умнов Алексей Александрович": 52,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000121921": 212,
+      "gas:candidate-vibid:1001000118562": 71,
+      "gas:candidate-vibid:271200071151": 69,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 323,
+      "gas:candidate-vibid:271200070993": 62,
+      "gas:candidate-vibid:1001000277357": 279,
+      "gas:candidate-vibid:1001000136134": 52,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 29,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 14,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 5,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121921": 29,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 14,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 5,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 2,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 0,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 7,
-      "Попов Алексей Валентинович": 2,
-      "Савельев Дмитрий Владимирович": 1,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121921": 2,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 0,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 7,
+      "gas:candidate-vibid:271200070993": 2,
+      "gas:candidate-vibid:1001000277357": 1,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 226,
-      "Берестнев Александр Михайлович": 79,
-      "Иванцов Игорь Борисович": 60,
-      "Иванцов Михаил Евгеньевич": 34,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 268,
-      "Попов Алексей Валентинович": 61,
-      "Савельев Дмитрий Владимирович": 239,
-      "Умнов Алексей Александрович": 56,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000121921": 226,
+      "gas:candidate-vibid:1001000118562": 79,
+      "gas:candidate-vibid:271200071151": 60,
+      "gas:candidate-vibid:1001000131418": 34,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 268,
+      "gas:candidate-vibid:271200070993": 61,
+      "gas:candidate-vibid:1001000277357": 239,
+      "gas:candidate-vibid:1001000136134": 56,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 234,
-      "Берестнев Александр Михайлович": 64,
-      "Иванцов Игорь Борисович": 75,
-      "Иванцов Михаил Евгеньевич": 40,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 187,
-      "Попов Алексей Валентинович": 64,
-      "Савельев Дмитрий Владимирович": 278,
-      "Умнов Алексей Александрович": 30,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000121921": 234,
+      "gas:candidate-vibid:1001000118562": 64,
+      "gas:candidate-vibid:271200071151": 75,
+      "gas:candidate-vibid:1001000131418": 40,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 187,
+      "gas:candidate-vibid:271200070993": 64,
+      "gas:candidate-vibid:1001000277357": 278,
+      "gas:candidate-vibid:1001000136134": 30,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 278,
-      "Берестнев Александр Михайлович": 35,
-      "Иванцов Игорь Борисович": 25,
-      "Иванцов Михаил Евгеньевич": 24,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 202,
-      "Попов Алексей Валентинович": 76,
-      "Савельев Дмитрий Владимирович": 253,
-      "Умнов Алексей Александрович": 34,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000121921": 278,
+      "gas:candidate-vibid:1001000118562": 35,
+      "gas:candidate-vibid:271200071151": 25,
+      "gas:candidate-vibid:1001000131418": 24,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 202,
+      "gas:candidate-vibid:271200070993": 76,
+      "gas:candidate-vibid:1001000277357": 253,
+      "gas:candidate-vibid:1001000136134": 34,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 220,
-      "Берестнев Александр Михайлович": 30,
-      "Иванцов Игорь Борисович": 40,
-      "Иванцов Михаил Евгеньевич": 32,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 177,
-      "Попов Алексей Валентинович": 66,
-      "Савельев Дмитрий Владимирович": 237,
-      "Умнов Алексей Александрович": 28,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121921": 220,
+      "gas:candidate-vibid:1001000118562": 30,
+      "gas:candidate-vibid:271200071151": 40,
+      "gas:candidate-vibid:1001000131418": 32,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 177,
+      "gas:candidate-vibid:271200070993": 66,
+      "gas:candidate-vibid:1001000277357": 237,
+      "gas:candidate-vibid:1001000136134": 28,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 235,
-      "Берестнев Александр Михайлович": 36,
-      "Иванцов Игорь Борисович": 36,
-      "Иванцов Михаил Евгеньевич": 36,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 225,
-      "Попов Алексей Валентинович": 58,
-      "Савельев Дмитрий Владимирович": 223,
-      "Умнов Алексей Александрович": 51,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000121921": 235,
+      "gas:candidate-vibid:1001000118562": 36,
+      "gas:candidate-vibid:271200071151": 36,
+      "gas:candidate-vibid:1001000131418": 36,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 225,
+      "gas:candidate-vibid:271200070993": 58,
+      "gas:candidate-vibid:1001000277357": 223,
+      "gas:candidate-vibid:1001000136134": 51,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 190,
-      "Берестнев Александр Михайлович": 36,
-      "Иванцов Игорь Борисович": 54,
-      "Иванцов Михаил Евгеньевич": 31,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 168,
-      "Попов Алексей Валентинович": 37,
-      "Савельев Дмитрий Владимирович": 158,
-      "Умнов Алексей Александрович": 20,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000121921": 190,
+      "gas:candidate-vibid:1001000118562": 36,
+      "gas:candidate-vibid:271200071151": 54,
+      "gas:candidate-vibid:1001000131418": 31,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 168,
+      "gas:candidate-vibid:271200070993": 37,
+      "gas:candidate-vibid:1001000277357": 158,
+      "gas:candidate-vibid:1001000136134": 20,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 214,
-      "Берестнев Александр Михайлович": 77,
-      "Иванцов Игорь Борисович": 45,
-      "Иванцов Михаил Евгеньевич": 44,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 241,
-      "Попов Алексей Валентинович": 57,
-      "Савельев Дмитрий Владимирович": 283,
-      "Умнов Алексей Александрович": 41,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000121921": 214,
+      "gas:candidate-vibid:1001000118562": 77,
+      "gas:candidate-vibid:271200071151": 45,
+      "gas:candidate-vibid:1001000131418": 44,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 241,
+      "gas:candidate-vibid:271200070993": 57,
+      "gas:candidate-vibid:1001000277357": 283,
+      "gas:candidate-vibid:1001000136134": 41,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 269,
-      "Берестнев Александр Михайлович": 44,
-      "Иванцов Игорь Борисович": 78,
-      "Иванцов Михаил Евгеньевич": 31,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 199,
-      "Попов Алексей Валентинович": 50,
-      "Савельев Дмитрий Владимирович": 188,
-      "Умнов Алексей Александрович": 62,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121921": 269,
+      "gas:candidate-vibid:1001000118562": 44,
+      "gas:candidate-vibid:271200071151": 78,
+      "gas:candidate-vibid:1001000131418": 31,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 199,
+      "gas:candidate-vibid:271200070993": 50,
+      "gas:candidate-vibid:1001000277357": 188,
+      "gas:candidate-vibid:1001000136134": 62,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 196,
-      "Берестнев Александр Михайлович": 41,
-      "Иванцов Игорь Борисович": 52,
-      "Иванцов Михаил Евгеньевич": 22,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 203,
-      "Попов Алексей Валентинович": 38,
-      "Савельев Дмитрий Владимирович": 237,
-      "Умнов Алексей Александрович": 30,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121921": 196,
+      "gas:candidate-vibid:1001000118562": 41,
+      "gas:candidate-vibid:271200071151": 52,
+      "gas:candidate-vibid:1001000131418": 22,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 203,
+      "gas:candidate-vibid:271200070993": 38,
+      "gas:candidate-vibid:1001000277357": 237,
+      "gas:candidate-vibid:1001000136134": 30,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 118,
-      "Берестнев Александр Михайлович": 19,
-      "Иванцов Игорь Борисович": 35,
-      "Иванцов Михаил Евгеньевич": 31,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 176,
-      "Попов Алексей Валентинович": 33,
-      "Савельев Дмитрий Владимирович": 191,
-      "Умнов Алексей Александрович": 43,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121921": 118,
+      "gas:candidate-vibid:1001000118562": 19,
+      "gas:candidate-vibid:271200071151": 35,
+      "gas:candidate-vibid:1001000131418": 31,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 176,
+      "gas:candidate-vibid:271200070993": 33,
+      "gas:candidate-vibid:1001000277357": 191,
+      "gas:candidate-vibid:1001000136134": 43,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 205,
-      "Берестнев Александр Михайлович": 68,
-      "Иванцов Игорь Борисович": 71,
-      "Иванцов Михаил Евгеньевич": 52,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 330,
-      "Попов Алексей Валентинович": 37,
-      "Савельев Дмитрий Владимирович": 272,
-      "Умнов Алексей Александрович": 57,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000121921": 205,
+      "gas:candidate-vibid:1001000118562": 68,
+      "gas:candidate-vibid:271200071151": 71,
+      "gas:candidate-vibid:1001000131418": 52,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 330,
+      "gas:candidate-vibid:271200070993": 37,
+      "gas:candidate-vibid:1001000277357": 272,
+      "gas:candidate-vibid:1001000136134": 57,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 153,
-      "Берестнев Александр Михайлович": 56,
-      "Иванцов Игорь Борисович": 55,
-      "Иванцов Михаил Евгеньевич": 41,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 194,
-      "Попов Алексей Валентинович": 16,
-      "Савельев Дмитрий Владимирович": 202,
-      "Умнов Алексей Александрович": 27,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000121921": 153,
+      "gas:candidate-vibid:1001000118562": 56,
+      "gas:candidate-vibid:271200071151": 55,
+      "gas:candidate-vibid:1001000131418": 41,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 194,
+      "gas:candidate-vibid:271200070993": 16,
+      "gas:candidate-vibid:1001000277357": 202,
+      "gas:candidate-vibid:1001000136134": 27,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 208,
-      "Берестнев Александр Михайлович": 55,
-      "Иванцов Игорь Борисович": 74,
-      "Иванцов Михаил Евгеньевич": 39,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 227,
-      "Попов Алексей Валентинович": 28,
-      "Савельев Дмитрий Владимирович": 193,
-      "Умнов Алексей Александрович": 39,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000121921": 208,
+      "gas:candidate-vibid:1001000118562": 55,
+      "gas:candidate-vibid:271200071151": 74,
+      "gas:candidate-vibid:1001000131418": 39,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 227,
+      "gas:candidate-vibid:271200070993": 28,
+      "gas:candidate-vibid:1001000277357": 193,
+      "gas:candidate-vibid:1001000136134": 39,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 166,
-      "Берестнев Александр Михайлович": 63,
-      "Иванцов Игорь Борисович": 57,
-      "Иванцов Михаил Евгеньевич": 30,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 239,
-      "Попов Алексей Валентинович": 24,
-      "Савельев Дмитрий Владимирович": 198,
-      "Умнов Алексей Александрович": 43,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000121921": 166,
+      "gas:candidate-vibid:1001000118562": 63,
+      "gas:candidate-vibid:271200071151": 57,
+      "gas:candidate-vibid:1001000131418": 30,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 239,
+      "gas:candidate-vibid:271200070993": 24,
+      "gas:candidate-vibid:1001000277357": 198,
+      "gas:candidate-vibid:1001000136134": 43,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 209,
-      "Берестнев Александр Михайлович": 29,
-      "Иванцов Игорь Борисович": 50,
-      "Иванцов Михаил Евгеньевич": 36,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 254,
-      "Попов Алексей Валентинович": 41,
-      "Савельев Дмитрий Владимирович": 253,
-      "Умнов Алексей Александрович": 35,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000121921": 209,
+      "gas:candidate-vibid:1001000118562": 29,
+      "gas:candidate-vibid:271200071151": 50,
+      "gas:candidate-vibid:1001000131418": 36,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 254,
+      "gas:candidate-vibid:271200070993": 41,
+      "gas:candidate-vibid:1001000277357": 253,
+      "gas:candidate-vibid:1001000136134": 35,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 185,
-      "Берестнев Александр Михайлович": 27,
-      "Иванцов Игорь Борисович": 39,
-      "Иванцов Михаил Евгеньевич": 19,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 298,
-      "Попов Алексей Валентинович": 32,
-      "Савельев Дмитрий Владимирович": 190,
-      "Умнов Алексей Александрович": 53,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000121921": 185,
+      "gas:candidate-vibid:1001000118562": 27,
+      "gas:candidate-vibid:271200071151": 39,
+      "gas:candidate-vibid:1001000131418": 19,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 298,
+      "gas:candidate-vibid:271200070993": 32,
+      "gas:candidate-vibid:1001000277357": 190,
+      "gas:candidate-vibid:1001000136134": 53,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 256,
-      "Берестнев Александр Михайлович": 51,
-      "Иванцов Игорь Борисович": 69,
-      "Иванцов Михаил Евгеньевич": 34,
-      "Мирошник Николай Николаевич": 9,
-      "Михеев Евгений Васильевич": 266,
-      "Попов Алексей Валентинович": 28,
-      "Савельев Дмитрий Владимирович": 273,
-      "Умнов Алексей Александрович": 54,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000121921": 256,
+      "gas:candidate-vibid:1001000118562": 51,
+      "gas:candidate-vibid:271200071151": 69,
+      "gas:candidate-vibid:1001000131418": 34,
+      "gas:candidate-vibid:1001000195152": 9,
+      "gas:candidate-vibid:1001000225995": 266,
+      "gas:candidate-vibid:271200070993": 28,
+      "gas:candidate-vibid:1001000277357": 273,
+      "gas:candidate-vibid:1001000136134": 54,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 161,
-      "Берестнев Александр Михайлович": 28,
-      "Иванцов Игорь Борисович": 60,
-      "Иванцов Михаил Евгеньевич": 24,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 214,
-      "Попов Алексей Валентинович": 26,
-      "Савельев Дмитрий Владимирович": 247,
-      "Умнов Алексей Александрович": 53,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121921": 161,
+      "gas:candidate-vibid:1001000118562": 28,
+      "gas:candidate-vibid:271200071151": 60,
+      "gas:candidate-vibid:1001000131418": 24,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 214,
+      "gas:candidate-vibid:271200070993": 26,
+      "gas:candidate-vibid:1001000277357": 247,
+      "gas:candidate-vibid:1001000136134": 53,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 219,
-      "Берестнев Александр Михайлович": 40,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 17,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 219,
-      "Попов Алексей Валентинович": 21,
-      "Савельев Дмитрий Владимирович": 249,
-      "Умнов Алексей Александрович": 39,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000121921": 219,
+      "gas:candidate-vibid:1001000118562": 40,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 17,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 219,
+      "gas:candidate-vibid:271200070993": 21,
+      "gas:candidate-vibid:1001000277357": 249,
+      "gas:candidate-vibid:1001000136134": 39,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 265,
-      "Берестнев Александр Михайлович": 63,
-      "Иванцов Игорь Борисович": 45,
-      "Иванцов Михаил Евгеньевич": 33,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 239,
-      "Попов Алексей Валентинович": 31,
-      "Савельев Дмитрий Владимирович": 317,
-      "Умнов Алексей Александрович": 39,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000121921": 265,
+      "gas:candidate-vibid:1001000118562": 63,
+      "gas:candidate-vibid:271200071151": 45,
+      "gas:candidate-vibid:1001000131418": 33,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 239,
+      "gas:candidate-vibid:271200070993": 31,
+      "gas:candidate-vibid:1001000277357": 317,
+      "gas:candidate-vibid:1001000136134": 39,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 208,
-      "Берестнев Александр Михайлович": 67,
-      "Иванцов Игорь Борисович": 53,
-      "Иванцов Михаил Евгеньевич": 75,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 229,
-      "Попов Алексей Валентинович": 36,
-      "Савельев Дмитрий Владимирович": 323,
-      "Умнов Алексей Александрович": 42,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000121921": 208,
+      "gas:candidate-vibid:1001000118562": 67,
+      "gas:candidate-vibid:271200071151": 53,
+      "gas:candidate-vibid:1001000131418": 75,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 229,
+      "gas:candidate-vibid:271200070993": 36,
+      "gas:candidate-vibid:1001000277357": 323,
+      "gas:candidate-vibid:1001000136134": 42,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 170,
-      "Берестнев Александр Михайлович": 64,
-      "Иванцов Игорь Борисович": 29,
-      "Иванцов Михаил Евгеньевич": 19,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 233,
-      "Попов Алексей Валентинович": 42,
-      "Савельев Дмитрий Владимирович": 235,
-      "Умнов Алексей Александрович": 34,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000121921": 170,
+      "gas:candidate-vibid:1001000118562": 64,
+      "gas:candidate-vibid:271200071151": 29,
+      "gas:candidate-vibid:1001000131418": 19,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 233,
+      "gas:candidate-vibid:271200070993": 42,
+      "gas:candidate-vibid:1001000277357": 235,
+      "gas:candidate-vibid:1001000136134": 34,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 198,
-      "Берестнев Александр Михайлович": 77,
-      "Иванцов Игорь Борисович": 53,
-      "Иванцов Михаил Евгеньевич": 46,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 236,
-      "Попов Алексей Валентинович": 35,
-      "Савельев Дмитрий Владимирович": 240,
-      "Умнов Алексей Александрович": 53,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000121921": 198,
+      "gas:candidate-vibid:1001000118562": 77,
+      "gas:candidate-vibid:271200071151": 53,
+      "gas:candidate-vibid:1001000131418": 46,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 236,
+      "gas:candidate-vibid:271200070993": 35,
+      "gas:candidate-vibid:1001000277357": 240,
+      "gas:candidate-vibid:1001000136134": 53,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 124,
-      "Берестнев Александр Михайлович": 59,
-      "Иванцов Игорь Борисович": 65,
-      "Иванцов Михаил Евгеньевич": 39,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 180,
-      "Попов Алексей Валентинович": 49,
-      "Савельев Дмитрий Владимирович": 241,
-      "Умнов Алексей Александрович": 50,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121921": 124,
+      "gas:candidate-vibid:1001000118562": 59,
+      "gas:candidate-vibid:271200071151": 65,
+      "gas:candidate-vibid:1001000131418": 39,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 180,
+      "gas:candidate-vibid:271200070993": 49,
+      "gas:candidate-vibid:1001000277357": 241,
+      "gas:candidate-vibid:1001000136134": 50,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 173,
-      "Берестнев Александр Михайлович": 62,
-      "Иванцов Игорь Борисович": 28,
-      "Иванцов Михаил Евгеньевич": 25,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 209,
-      "Попов Алексей Валентинович": 22,
-      "Савельев Дмитрий Владимирович": 231,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121921": 173,
+      "gas:candidate-vibid:1001000118562": 62,
+      "gas:candidate-vibid:271200071151": 28,
+      "gas:candidate-vibid:1001000131418": 25,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 209,
+      "gas:candidate-vibid:271200070993": 22,
+      "gas:candidate-vibid:1001000277357": 231,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 313,
-      "Берестнев Александр Михайлович": 75,
-      "Иванцов Игорь Борисович": 67,
-      "Иванцов Михаил Евгеньевич": 33,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 314,
-      "Попов Алексей Валентинович": 25,
-      "Савельев Дмитрий Владимирович": 248,
-      "Умнов Алексей Александрович": 48,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000121921": 313,
+      "gas:candidate-vibid:1001000118562": 75,
+      "gas:candidate-vibid:271200071151": 67,
+      "gas:candidate-vibid:1001000131418": 33,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 314,
+      "gas:candidate-vibid:271200070993": 25,
+      "gas:candidate-vibid:1001000277357": 248,
+      "gas:candidate-vibid:1001000136134": 48,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 361,
-      "Берестнев Александр Михайлович": 56,
-      "Иванцов Игорь Борисович": 77,
-      "Иванцов Михаил Евгеньевич": 50,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 271,
-      "Попов Алексей Валентинович": 44,
-      "Савельев Дмитрий Владимирович": 209,
-      "Умнов Алексей Александрович": 39,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000121921": 361,
+      "gas:candidate-vibid:1001000118562": 56,
+      "gas:candidate-vibid:271200071151": 77,
+      "gas:candidate-vibid:1001000131418": 50,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 271,
+      "gas:candidate-vibid:271200070993": 44,
+      "gas:candidate-vibid:1001000277357": 209,
+      "gas:candidate-vibid:1001000136134": 39,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 28,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 23,
-      "Попов Алексей Валентинович": 2,
-      "Савельев Дмитрий Владимирович": 8,
-      "Умнов Алексей Александрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121921": 28,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 23,
+      "gas:candidate-vibid:271200070993": 2,
+      "gas:candidate-vibid:1001000277357": 8,
+      "gas:candidate-vibid:1001000136134": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 176,
-      "Берестнев Александр Михайлович": 35,
-      "Иванцов Игорь Борисович": 40,
-      "Иванцов Михаил Евгеньевич": 32,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 224,
-      "Попов Алексей Валентинович": 21,
-      "Савельев Дмитрий Владимирович": 174,
-      "Умнов Алексей Александрович": 46,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121921": 176,
+      "gas:candidate-vibid:1001000118562": 35,
+      "gas:candidate-vibid:271200071151": 40,
+      "gas:candidate-vibid:1001000131418": 32,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 224,
+      "gas:candidate-vibid:271200070993": 21,
+      "gas:candidate-vibid:1001000277357": 174,
+      "gas:candidate-vibid:1001000136134": 46,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 17,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 18,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 19,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121921": 17,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 18,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 19,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 128,
-      "Берестнев Александр Михайлович": 6,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 77,
-      "Попов Алексей Валентинович": 31,
-      "Савельев Дмитрий Владимирович": 56,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121921": 128,
+      "gas:candidate-vibid:1001000118562": 6,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 77,
+      "gas:candidate-vibid:271200070993": 31,
+      "gas:candidate-vibid:1001000277357": 56,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 14,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 9,
-      "Иванцов Михаил Евгеньевич": 6,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 21,
-      "Попов Алексей Валентинович": 8,
-      "Савельев Дмитрий Владимирович": 9,
-      "Умнов Алексей Александрович": 37,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121921": 14,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 9,
+      "gas:candidate-vibid:1001000131418": 6,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 21,
+      "gas:candidate-vibid:271200070993": 8,
+      "gas:candidate-vibid:1001000277357": 9,
+      "gas:candidate-vibid:1001000136134": 37,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 375,
-      "Берестнев Александр Михайлович": 18,
-      "Иванцов Игорь Борисович": 37,
-      "Иванцов Михаил Евгеньевич": 18,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 207,
-      "Попов Алексей Валентинович": 26,
-      "Савельев Дмитрий Владимирович": 180,
-      "Умнов Алексей Александрович": 41,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121921": 375,
+      "gas:candidate-vibid:1001000118562": 18,
+      "gas:candidate-vibid:271200071151": 37,
+      "gas:candidate-vibid:1001000131418": 18,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 207,
+      "gas:candidate-vibid:271200070993": 26,
+      "gas:candidate-vibid:1001000277357": 180,
+      "gas:candidate-vibid:1001000136134": 41,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 275,
-      "Берестнев Александр Михайлович": 34,
-      "Иванцов Игорь Борисович": 36,
-      "Иванцов Михаил Евгеньевич": 39,
-      "Мирошник Николай Николаевич": 13,
-      "Михеев Евгений Васильевич": 281,
-      "Попов Алексей Валентинович": 29,
-      "Савельев Дмитрий Владимирович": 186,
-      "Умнов Алексей Александрович": 19,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121921": 275,
+      "gas:candidate-vibid:1001000118562": 34,
+      "gas:candidate-vibid:271200071151": 36,
+      "gas:candidate-vibid:1001000131418": 39,
+      "gas:candidate-vibid:1001000195152": 13,
+      "gas:candidate-vibid:1001000225995": 281,
+      "gas:candidate-vibid:271200070993": 29,
+      "gas:candidate-vibid:1001000277357": 186,
+      "gas:candidate-vibid:1001000136134": 19,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 236,
-      "Берестнев Александр Михайлович": 38,
-      "Иванцов Игорь Борисович": 18,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 238,
-      "Попов Алексей Валентинович": 37,
-      "Савельев Дмитрий Владимирович": 299,
-      "Умнов Алексей Александрович": 45,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000121921": 236,
+      "gas:candidate-vibid:1001000118562": 38,
+      "gas:candidate-vibid:271200071151": 18,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 238,
+      "gas:candidate-vibid:271200070993": 37,
+      "gas:candidate-vibid:1001000277357": 299,
+      "gas:candidate-vibid:1001000136134": 45,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 216,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 15,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 161,
-      "Попов Алексей Валентинович": 18,
-      "Савельев Дмитрий Владимирович": 158,
-      "Умнов Алексей Александрович": 25,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121921": 216,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 15,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 161,
+      "gas:candidate-vibid:271200070993": 18,
+      "gas:candidate-vibid:1001000277357": 158,
+      "gas:candidate-vibid:1001000136134": 25,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 211,
-      "Берестнев Александр Михайлович": 9,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 12,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 118,
-      "Попов Алексей Валентинович": 34,
-      "Савельев Дмитрий Владимирович": 125,
-      "Умнов Алексей Александрович": 26,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121921": 211,
+      "gas:candidate-vibid:1001000118562": 9,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 12,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 118,
+      "gas:candidate-vibid:271200070993": 34,
+      "gas:candidate-vibid:1001000277357": 125,
+      "gas:candidate-vibid:1001000136134": 26,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 64,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 1,
-      "Иванцов Михаил Евгеньевич": 0,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 31,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 60,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121921": 64,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 1,
+      "gas:candidate-vibid:1001000131418": 0,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 31,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 60,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 69,
-      "Берестнев Александр Михайлович": 1,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 4,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 20,
-      "Попов Алексей Валентинович": 8,
-      "Савельев Дмитрий Владимирович": 27,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121921": 69,
+      "gas:candidate-vibid:1001000118562": 1,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 4,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 20,
+      "gas:candidate-vibid:271200070993": 8,
+      "gas:candidate-vibid:1001000277357": 27,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 67,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 1,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 66,
-      "Попов Алексей Валентинович": 9,
-      "Савельев Дмитрий Владимирович": 47,
-      "Умнов Алексей Александрович": 8,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121921": 67,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 1,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 66,
+      "gas:candidate-vibid:271200070993": 9,
+      "gas:candidate-vibid:1001000277357": 47,
+      "gas:candidate-vibid:1001000136134": 8,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 36,
-      "Берестнев Александр Михайлович": 3,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 47,
-      "Попов Алексей Валентинович": 8,
-      "Савельев Дмитрий Владимирович": 24,
-      "Умнов Алексей Александрович": 10,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121921": 36,
+      "gas:candidate-vibid:1001000118562": 3,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 47,
+      "gas:candidate-vibid:271200070993": 8,
+      "gas:candidate-vibid:1001000277357": 24,
+      "gas:candidate-vibid:1001000136134": 10,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 97,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 6,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 41,
-      "Попов Алексей Валентинович": 22,
-      "Савельев Дмитрий Владимирович": 61,
-      "Умнов Алексей Александрович": 7,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121921": 97,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 6,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 41,
+      "gas:candidate-vibid:271200070993": 22,
+      "gas:candidate-vibid:1001000277357": 61,
+      "gas:candidate-vibid:1001000136134": 7,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 15,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 1,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 47,
-      "Попов Алексей Валентинович": 13,
-      "Савельев Дмитрий Владимирович": 24,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121921": 15,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 1,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 47,
+      "gas:candidate-vibid:271200070993": 13,
+      "gas:candidate-vibid:1001000277357": 24,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 160,
-      "Берестнев Александр Михайлович": 6,
-      "Иванцов Игорь Борисович": 40,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 133,
-      "Попов Алексей Валентинович": 17,
-      "Савельев Дмитрий Владимирович": 256,
-      "Умнов Алексей Александрович": 24,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000121921": 160,
+      "gas:candidate-vibid:1001000118562": 6,
+      "gas:candidate-vibid:271200071151": 40,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 133,
+      "gas:candidate-vibid:271200070993": 17,
+      "gas:candidate-vibid:1001000277357": 256,
+      "gas:candidate-vibid:1001000136134": 24,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 422,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 20,
-      "Иванцов Михаил Евгеньевич": 28,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 130,
-      "Попов Алексей Валентинович": 33,
-      "Савельев Дмитрий Владимирович": 103,
-      "Умнов Алексей Александрович": 34,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000121921": 422,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 20,
+      "gas:candidate-vibid:1001000131418": 28,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 130,
+      "gas:candidate-vibid:271200070993": 33,
+      "gas:candidate-vibid:1001000277357": 103,
+      "gas:candidate-vibid:1001000136134": 34,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 85,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 1,
-      "Михеев Евгений Васильевич": 19,
-      "Попов Алексей Валентинович": 3,
-      "Савельев Дмитрий Владимирович": 26,
-      "Умнов Алексей Александрович": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121921": 85,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 1,
+      "gas:candidate-vibid:1001000225995": 19,
+      "gas:candidate-vibid:271200070993": 3,
+      "gas:candidate-vibid:1001000277357": 26,
+      "gas:candidate-vibid:1001000136134": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 71,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 26,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 27,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 15,
-      "Умнов Алексей Александрович": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121921": 71,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 26,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 27,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 15,
+      "gas:candidate-vibid:1001000136134": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 19,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 5,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 7,
-      "Умнов Алексей Александрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121921": 19,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 5,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 7,
+      "gas:candidate-vibid:1001000136134": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 75,
-      "Берестнев Александр Михайлович": 0,
-      "Иванцов Игорь Борисович": 12,
-      "Иванцов Михаил Евгеньевич": 9,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 29,
-      "Попов Алексей Валентинович": 5,
-      "Савельев Дмитрий Владимирович": 26,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121921": 75,
+      "gas:candidate-vibid:1001000118562": 0,
+      "gas:candidate-vibid:271200071151": 12,
+      "gas:candidate-vibid:1001000131418": 9,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 29,
+      "gas:candidate-vibid:271200070993": 5,
+      "gas:candidate-vibid:1001000277357": 26,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 136,
-      "Берестнев Александр Михайлович": 9,
-      "Иванцов Игорь Борисович": 47,
-      "Иванцов Михаил Евгеньевич": 27,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 143,
-      "Попов Алексей Валентинович": 51,
-      "Савельев Дмитрий Владимирович": 98,
-      "Умнов Алексей Александрович": 17,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121921": 136,
+      "gas:candidate-vibid:1001000118562": 9,
+      "gas:candidate-vibid:271200071151": 47,
+      "gas:candidate-vibid:1001000131418": 27,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 143,
+      "gas:candidate-vibid:271200070993": 51,
+      "gas:candidate-vibid:1001000277357": 98,
+      "gas:candidate-vibid:1001000136134": 17,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 51,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 4,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 33,
-      "Попов Алексей Валентинович": 7,
-      "Савельев Дмитрий Владимирович": 44,
-      "Умнов Алексей Александрович": 13,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121921": 51,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 4,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 33,
+      "gas:candidate-vibid:271200070993": 7,
+      "gas:candidate-vibid:1001000277357": 44,
+      "gas:candidate-vibid:1001000136134": 13,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 11,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 1,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 30,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 21,
-      "Умнов Алексей Александрович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121921": 11,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 1,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 30,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 21,
+      "gas:candidate-vibid:1001000136134": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 35,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 3,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 26,
-      "Попов Алексей Валентинович": 3,
-      "Савельев Дмитрий Владимирович": 47,
-      "Умнов Алексей Александрович": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121921": 35,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 3,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 26,
+      "gas:candidate-vibid:271200070993": 3,
+      "gas:candidate-vibid:1001000277357": 47,
+      "gas:candidate-vibid:1001000136134": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 43,
-      "Берестнев Александр Михайлович": 2,
-      "Иванцов Игорь Борисович": 2,
-      "Иванцов Михаил Евгеньевич": 1,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 34,
-      "Попов Алексей Валентинович": 1,
-      "Савельев Дмитрий Владимирович": 41,
-      "Умнов Алексей Александрович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121921": 43,
+      "gas:candidate-vibid:1001000118562": 2,
+      "gas:candidate-vibid:271200071151": 2,
+      "gas:candidate-vibid:1001000131418": 1,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 34,
+      "gas:candidate-vibid:271200070993": 1,
+      "gas:candidate-vibid:1001000277357": 41,
+      "gas:candidate-vibid:1001000136134": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 137,
-      "Берестнев Александр Михайлович": 10,
-      "Иванцов Игорь Борисович": 17,
-      "Иванцов Михаил Евгеньевич": 9,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 86,
-      "Попов Алексей Валентинович": 23,
-      "Савельев Дмитрий Владимирович": 113,
-      "Умнов Алексей Александрович": 14,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121921": 137,
+      "gas:candidate-vibid:1001000118562": 10,
+      "gas:candidate-vibid:271200071151": 17,
+      "gas:candidate-vibid:1001000131418": 9,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 86,
+      "gas:candidate-vibid:271200070993": 23,
+      "gas:candidate-vibid:1001000277357": 113,
+      "gas:candidate-vibid:1001000136134": 14,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 74,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 8,
-      "Иванцов Михаил Евгеньевич": 13,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 79,
-      "Попов Алексей Валентинович": 16,
-      "Савельев Дмитрий Владимирович": 183,
-      "Умнов Алексей Александрович": 30,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121921": 74,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 8,
+      "gas:candidate-vibid:1001000131418": 13,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 79,
+      "gas:candidate-vibid:271200070993": 16,
+      "gas:candidate-vibid:1001000277357": 183,
+      "gas:candidate-vibid:1001000136134": 30,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 32,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 3,
-      "Иванцов Михаил Евгеньевич": 6,
-      "Мирошник Николай Николаевич": 8,
-      "Михеев Евгений Васильевич": 83,
-      "Попов Алексей Валентинович": 11,
-      "Савельев Дмитрий Владимирович": 62,
-      "Умнов Алексей Александрович": 8,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121921": 32,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 3,
+      "gas:candidate-vibid:1001000131418": 6,
+      "gas:candidate-vibid:1001000195152": 8,
+      "gas:candidate-vibid:1001000225995": 83,
+      "gas:candidate-vibid:271200070993": 11,
+      "gas:candidate-vibid:1001000277357": 62,
+      "gas:candidate-vibid:1001000136134": 8,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 62,
-      "Берестнев Александр Михайлович": 5,
-      "Иванцов Игорь Борисович": 1,
-      "Иванцов Михаил Евгеньевич": 2,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 141,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 46,
-      "Умнов Алексей Александрович": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121921": 62,
+      "gas:candidate-vibid:1001000118562": 5,
+      "gas:candidate-vibid:271200071151": 1,
+      "gas:candidate-vibid:1001000131418": 2,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 141,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 46,
+      "gas:candidate-vibid:1001000136134": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 29,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 861,
-      "Иванцов Михаил Евгеньевич": 72,
-      "Мирошник Николай Николаевич": 5,
-      "Михеев Евгений Васильевич": 116,
-      "Попов Алексей Валентинович": 6,
-      "Савельев Дмитрий Владимирович": 60,
-      "Умнов Алексей Александрович": 9,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121921": 29,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 861,
+      "gas:candidate-vibid:1001000131418": 72,
+      "gas:candidate-vibid:1001000195152": 5,
+      "gas:candidate-vibid:1001000225995": 116,
+      "gas:candidate-vibid:271200070993": 6,
+      "gas:candidate-vibid:1001000277357": 60,
+      "gas:candidate-vibid:1001000136134": 9,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 18,
-      "Берестнев Александр Михайлович": 7,
-      "Иванцов Игорь Борисович": 453,
-      "Иванцов Михаил Евгеньевич": 48,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 29,
-      "Попов Алексей Валентинович": 3,
-      "Савельев Дмитрий Владимирович": 28,
-      "Умнов Алексей Александрович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121921": 18,
+      "gas:candidate-vibid:1001000118562": 7,
+      "gas:candidate-vibid:271200071151": 453,
+      "gas:candidate-vibid:1001000131418": 48,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 29,
+      "gas:candidate-vibid:271200070993": 3,
+      "gas:candidate-vibid:1001000277357": 28,
+      "gas:candidate-vibid:1001000136134": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 19,
-      "Берестнев Александр Михайлович": 4,
-      "Иванцов Игорь Борисович": 395,
-      "Иванцов Михаил Евгеньевич": 51,
-      "Мирошник Николай Николаевич": 6,
-      "Михеев Евгений Васильевич": 31,
-      "Попов Алексей Валентинович": 3,
-      "Савельев Дмитрий Владимирович": 32,
-      "Умнов Алексей Александрович": 7,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121921": 19,
+      "gas:candidate-vibid:1001000118562": 4,
+      "gas:candidate-vibid:271200071151": 395,
+      "gas:candidate-vibid:1001000131418": 51,
+      "gas:candidate-vibid:1001000195152": 6,
+      "gas:candidate-vibid:1001000225995": 31,
+      "gas:candidate-vibid:271200070993": 3,
+      "gas:candidate-vibid:1001000277357": 32,
+      "gas:candidate-vibid:1001000136134": 7,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070322&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 130,
-      "Берестнев Александр Михайлович": 11,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 4,
-      "Михеев Евгений Васильевич": 31,
-      "Попов Алексей Валентинович": 14,
-      "Савельев Дмитрий Владимирович": 162,
-      "Умнов Алексей Александрович": 24,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121921": 130,
+      "gas:candidate-vibid:1001000118562": 11,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 4,
+      "gas:candidate-vibid:1001000225995": 31,
+      "gas:candidate-vibid:271200070993": 14,
+      "gas:candidate-vibid:1001000277357": 162,
+      "gas:candidate-vibid:1001000136134": 24,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070323&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 249,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 6,
-      "Иванцов Михаил Евгеньевич": 8,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 109,
-      "Попов Алексей Валентинович": 29,
-      "Савельев Дмитрий Владимирович": 181,
-      "Умнов Алексей Александрович": 32,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121921": 249,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 6,
+      "gas:candidate-vibid:1001000131418": 8,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 109,
+      "gas:candidate-vibid:271200070993": 29,
+      "gas:candidate-vibid:1001000277357": 181,
+      "gas:candidate-vibid:1001000136134": 32,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070323&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 278,
-      "Берестнев Александр Михайлович": 12,
-      "Иванцов Игорь Борисович": 15,
-      "Иванцов Михаил Евгеньевич": 11,
-      "Мирошник Николай Николаевич": 0,
-      "Михеев Евгений Васильевич": 55,
-      "Попов Алексей Валентинович": 32,
-      "Савельев Дмитрий Владимирович": 261,
-      "Умнов Алексей Александрович": 25,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121921": 278,
+      "gas:candidate-vibid:1001000118562": 12,
+      "gas:candidate-vibid:271200071151": 15,
+      "gas:candidate-vibid:1001000131418": 11,
+      "gas:candidate-vibid:1001000195152": 0,
+      "gas:candidate-vibid:1001000225995": 55,
+      "gas:candidate-vibid:271200070993": 32,
+      "gas:candidate-vibid:1001000277357": 261,
+      "gas:candidate-vibid:1001000136134": 25,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070323&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 176,
-      "Берестнев Александр Михайлович": 8,
-      "Иванцов Игорь Борисович": 11,
-      "Иванцов Михаил Евгеньевич": 18,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 76,
-      "Попов Алексей Валентинович": 29,
-      "Савельев Дмитрий Владимирович": 190,
-      "Умнов Алексей Александрович": 29,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121921": 176,
+      "gas:candidate-vibid:1001000118562": 8,
+      "gas:candidate-vibid:271200071151": 11,
+      "gas:candidate-vibid:1001000131418": 18,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 76,
+      "gas:candidate-vibid:271200070993": 29,
+      "gas:candidate-vibid:1001000277357": 190,
+      "gas:candidate-vibid:1001000136134": 29,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070323&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 361,
-      "Берестнев Александр Михайлович": 20,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 12,
-      "Мирошник Николай Николаевич": 3,
-      "Михеев Евгений Васильевич": 137,
-      "Попов Алексей Валентинович": 46,
-      "Савельев Дмитрий Владимирович": 338,
-      "Умнов Алексей Александрович": 38,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121921": 361,
+      "gas:candidate-vibid:1001000118562": 20,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 12,
+      "gas:candidate-vibid:1001000195152": 3,
+      "gas:candidate-vibid:1001000225995": 137,
+      "gas:candidate-vibid:271200070993": 46,
+      "gas:candidate-vibid:1001000277357": 338,
+      "gas:candidate-vibid:1001000136134": 38,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070323&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 232,
-      "Берестнев Александр Михайлович": 21,
-      "Иванцов Игорь Борисович": 13,
-      "Иванцов Михаил Евгеньевич": 17,
-      "Мирошник Николай Николаевич": 2,
-      "Михеев Евгений Васильевич": 132,
-      "Попов Алексей Валентинович": 50,
-      "Савельев Дмитрий Владимирович": 260,
-      "Умнов Алексей Александрович": 44,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000121921": 232,
+      "gas:candidate-vibid:1001000118562": 21,
+      "gas:candidate-vibid:271200071151": 13,
+      "gas:candidate-vibid:1001000131418": 17,
+      "gas:candidate-vibid:1001000195152": 2,
+      "gas:candidate-vibid:1001000225995": 132,
+      "gas:candidate-vibid:271200070993": 50,
+      "gas:candidate-vibid:1001000277357": 260,
+      "gas:candidate-vibid:1001000136134": 44,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070323&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_71_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Анатолий Иванович": 302,
-      "Берестнев Александр Михайлович": 15,
-      "Иванцов Игорь Борисович": 23,
-      "Иванцов Михаил Евгеньевич": 7,
-      "Мирошник Николай Николаевич": 7,
-      "Михеев Евгений Васильевич": 191,
-      "Попов Алексей Валентинович": 25,
-      "Савельев Дмитрий Владимирович": 406,
-      "Умнов Алексей Александрович": 68,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000121921": 302,
+      "gas:candidate-vibid:1001000118562": 15,
+      "gas:candidate-vibid:271200071151": 23,
+      "gas:candidate-vibid:1001000131418": 7,
+      "gas:candidate-vibid:1001000195152": 7,
+      "gas:candidate-vibid:1001000225995": 191,
+      "gas:candidate-vibid:271200070993": 25,
+      "gas:candidate-vibid:1001000277357": 406,
+      "gas:candidate-vibid:1001000136134": 68,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=712000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=271200070323&region=0&sub_region=0&type=429",

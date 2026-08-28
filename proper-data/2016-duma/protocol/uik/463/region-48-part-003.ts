@@ -43,12 +43,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 101,
-      "Рожнов Евгений Вячеславович": 48,
-      "Тарасенко Михаил Васильевич": 220,
-      "Токарев Сергей Владимирович": 117,
-      "Трофимов Александр Вадимович": 25,
-      "Хомутинников Олег Георгиевич": 88
+      "gas:candidate-vibid:2482000590623": 101,
+      "gas:candidate-vibid:2482000600384": 48,
+      "gas:candidate-vibid:2482000601951": 220,
+      "gas:candidate-vibid:2482000586372": 117,
+      "gas:candidate-vibid:2482000600369": 25,
+      "gas:candidate-vibid:2482000580315": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -99,12 +99,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 129,
-      "Рожнов Евгений Вячеславович": 19,
-      "Тарасенко Михаил Васильевич": 240,
-      "Токарев Сергей Владимирович": 121,
-      "Трофимов Александр Вадимович": 27,
-      "Хомутинников Олег Георгиевич": 55
+      "gas:candidate-vibid:2482000590623": 129,
+      "gas:candidate-vibid:2482000600384": 19,
+      "gas:candidate-vibid:2482000601951": 240,
+      "gas:candidate-vibid:2482000586372": 121,
+      "gas:candidate-vibid:2482000600369": 27,
+      "gas:candidate-vibid:2482000580315": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -155,12 +155,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 151,
-      "Рожнов Евгений Вячеславович": 25,
-      "Тарасенко Михаил Васильевич": 200,
-      "Токарев Сергей Владимирович": 102,
-      "Трофимов Александр Вадимович": 31,
-      "Хомутинников Олег Георгиевич": 59
+      "gas:candidate-vibid:2482000590623": 151,
+      "gas:candidate-vibid:2482000600384": 25,
+      "gas:candidate-vibid:2482000601951": 200,
+      "gas:candidate-vibid:2482000586372": 102,
+      "gas:candidate-vibid:2482000600369": 31,
+      "gas:candidate-vibid:2482000580315": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -211,12 +211,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 250,
-      "Рожнов Евгений Вячеславович": 43,
-      "Тарасенко Михаил Васильевич": 406,
-      "Токарев Сергей Владимирович": 223,
-      "Трофимов Александр Вадимович": 52,
-      "Хомутинников Олег Георгиевич": 139
+      "gas:candidate-vibid:2482000590623": 250,
+      "gas:candidate-vibid:2482000600384": 43,
+      "gas:candidate-vibid:2482000601951": 406,
+      "gas:candidate-vibid:2482000586372": 223,
+      "gas:candidate-vibid:2482000600369": 52,
+      "gas:candidate-vibid:2482000580315": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -267,12 +267,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 195,
-      "Рожнов Евгений Вячеславович": 53,
-      "Тарасенко Михаил Васильевич": 322,
-      "Токарев Сергей Владимирович": 164,
-      "Трофимов Александр Вадимович": 28,
-      "Хомутинников Олег Георгиевич": 125
+      "gas:candidate-vibid:2482000590623": 195,
+      "gas:candidate-vibid:2482000600384": 53,
+      "gas:candidate-vibid:2482000601951": 322,
+      "gas:candidate-vibid:2482000586372": 164,
+      "gas:candidate-vibid:2482000600369": 28,
+      "gas:candidate-vibid:2482000580315": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -323,12 +323,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 224,
-      "Рожнов Евгений Вячеславович": 56,
-      "Тарасенко Михаил Васильевич": 355,
-      "Токарев Сергей Владимирович": 207,
-      "Трофимов Александр Вадимович": 60,
-      "Хомутинников Олег Георгиевич": 116
+      "gas:candidate-vibid:2482000590623": 224,
+      "gas:candidate-vibid:2482000600384": 56,
+      "gas:candidate-vibid:2482000601951": 355,
+      "gas:candidate-vibid:2482000586372": 207,
+      "gas:candidate-vibid:2482000600369": 60,
+      "gas:candidate-vibid:2482000580315": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -379,12 +379,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 173,
-      "Рожнов Евгений Вячеславович": 41,
-      "Тарасенко Михаил Васильевич": 377,
-      "Токарев Сергей Владимирович": 153,
-      "Трофимов Александр Вадимович": 47,
-      "Хомутинников Олег Георгиевич": 121
+      "gas:candidate-vibid:2482000590623": 173,
+      "gas:candidate-vibid:2482000600384": 41,
+      "gas:candidate-vibid:2482000601951": 377,
+      "gas:candidate-vibid:2482000586372": 153,
+      "gas:candidate-vibid:2482000600369": 47,
+      "gas:candidate-vibid:2482000580315": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -435,12 +435,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 174,
-      "Рожнов Евгений Вячеславович": 35,
-      "Тарасенко Михаил Васильевич": 329,
-      "Токарев Сергей Владимирович": 175,
-      "Трофимов Александр Вадимович": 51,
-      "Хомутинников Олег Георгиевич": 123
+      "gas:candidate-vibid:2482000590623": 174,
+      "gas:candidate-vibid:2482000600384": 35,
+      "gas:candidate-vibid:2482000601951": 329,
+      "gas:candidate-vibid:2482000586372": 175,
+      "gas:candidate-vibid:2482000600369": 51,
+      "gas:candidate-vibid:2482000580315": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -491,12 +491,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 65,
-      "Рожнов Евгений Вячеславович": 18,
-      "Тарасенко Михаил Васильевич": 205,
-      "Токарев Сергей Владимирович": 72,
-      "Трофимов Александр Вадимович": 29,
-      "Хомутинников Олег Георгиевич": 64
+      "gas:candidate-vibid:2482000590623": 65,
+      "gas:candidate-vibid:2482000600384": 18,
+      "gas:candidate-vibid:2482000601951": 205,
+      "gas:candidate-vibid:2482000586372": 72,
+      "gas:candidate-vibid:2482000600369": 29,
+      "gas:candidate-vibid:2482000580315": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -547,12 +547,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 95,
-      "Рожнов Евгений Вячеславович": 18,
-      "Тарасенко Михаил Васильевич": 183,
-      "Токарев Сергей Владимирович": 93,
-      "Трофимов Александр Вадимович": 38,
-      "Хомутинников Олег Георгиевич": 68
+      "gas:candidate-vibid:2482000590623": 95,
+      "gas:candidate-vibid:2482000600384": 18,
+      "gas:candidate-vibid:2482000601951": 183,
+      "gas:candidate-vibid:2482000586372": 93,
+      "gas:candidate-vibid:2482000600369": 38,
+      "gas:candidate-vibid:2482000580315": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -603,12 +603,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 182,
-      "Рожнов Евгений Вячеславович": 31,
-      "Тарасенко Михаил Васильевич": 327,
-      "Токарев Сергей Владимирович": 148,
-      "Трофимов Александр Вадимович": 32,
-      "Хомутинников Олег Георгиевич": 125
+      "gas:candidate-vibid:2482000590623": 182,
+      "gas:candidate-vibid:2482000600384": 31,
+      "gas:candidate-vibid:2482000601951": 327,
+      "gas:candidate-vibid:2482000586372": 148,
+      "gas:candidate-vibid:2482000600369": 32,
+      "gas:candidate-vibid:2482000580315": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -659,12 +659,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 29,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 46,
-      "Токарев Сергей Владимирович": 21,
-      "Трофимов Александр Вадимович": 12,
-      "Хомутинников Олег Георгиевич": 33
+      "gas:candidate-vibid:2482000590623": 29,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 46,
+      "gas:candidate-vibid:2482000586372": 21,
+      "gas:candidate-vibid:2482000600369": 12,
+      "gas:candidate-vibid:2482000580315": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533395&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533395&type=464",
@@ -715,12 +715,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 171,
-      "Рожнов Евгений Вячеславович": 44,
-      "Тарасенко Михаил Васильевич": 273,
-      "Токарев Сергей Владимирович": 172,
-      "Трофимов Александр Вадимович": 27,
-      "Хомутинников Олег Георгиевич": 127
+      "gas:candidate-vibid:2482000590623": 171,
+      "gas:candidate-vibid:2482000600384": 44,
+      "gas:candidate-vibid:2482000601951": 273,
+      "gas:candidate-vibid:2482000586372": 172,
+      "gas:candidate-vibid:2482000600369": 27,
+      "gas:candidate-vibid:2482000580315": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -771,12 +771,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 278,
-      "Рожнов Евгений Вячеславович": 54,
-      "Тарасенко Михаил Васильевич": 548,
-      "Токарев Сергей Владимирович": 263,
-      "Трофимов Александр Вадимович": 47,
-      "Хомутинников Олег Георгиевич": 235
+      "gas:candidate-vibid:2482000590623": 278,
+      "gas:candidate-vibid:2482000600384": 54,
+      "gas:candidate-vibid:2482000601951": 548,
+      "gas:candidate-vibid:2482000586372": 263,
+      "gas:candidate-vibid:2482000600369": 47,
+      "gas:candidate-vibid:2482000580315": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -827,12 +827,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 253,
-      "Рожнов Евгений Вячеславович": 61,
-      "Тарасенко Михаил Васильевич": 489,
-      "Токарев Сергей Владимирович": 215,
-      "Трофимов Александр Вадимович": 47,
-      "Хомутинников Олег Георгиевич": 172
+      "gas:candidate-vibid:2482000590623": 253,
+      "gas:candidate-vibid:2482000600384": 61,
+      "gas:candidate-vibid:2482000601951": 489,
+      "gas:candidate-vibid:2482000586372": 215,
+      "gas:candidate-vibid:2482000600369": 47,
+      "gas:candidate-vibid:2482000580315": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -883,12 +883,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 136,
-      "Рожнов Евгений Вячеславович": 36,
-      "Тарасенко Михаил Васильевич": 333,
-      "Токарев Сергей Владимирович": 126,
-      "Трофимов Александр Вадимович": 24,
-      "Хомутинников Олег Георгиевич": 106
+      "gas:candidate-vibid:2482000590623": 136,
+      "gas:candidate-vibid:2482000600384": 36,
+      "gas:candidate-vibid:2482000601951": 333,
+      "gas:candidate-vibid:2482000586372": 126,
+      "gas:candidate-vibid:2482000600369": 24,
+      "gas:candidate-vibid:2482000580315": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -939,12 +939,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 226,
-      "Рожнов Евгений Вячеславович": 47,
-      "Тарасенко Михаил Васильевич": 526,
-      "Токарев Сергей Владимирович": 164,
-      "Трофимов Александр Вадимович": 50,
-      "Хомутинников Олег Георгиевич": 195
+      "gas:candidate-vibid:2482000590623": 226,
+      "gas:candidate-vibid:2482000600384": 47,
+      "gas:candidate-vibid:2482000601951": 526,
+      "gas:candidate-vibid:2482000586372": 164,
+      "gas:candidate-vibid:2482000600369": 50,
+      "gas:candidate-vibid:2482000580315": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -995,12 +995,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 125,
-      "Рожнов Евгений Вячеславович": 24,
-      "Тарасенко Михаил Васильевич": 277,
-      "Токарев Сергей Владимирович": 114,
-      "Трофимов Александр Вадимович": 33,
-      "Хомутинников Олег Георгиевич": 118
+      "gas:candidate-vibid:2482000590623": 125,
+      "gas:candidate-vibid:2482000600384": 24,
+      "gas:candidate-vibid:2482000601951": 277,
+      "gas:candidate-vibid:2482000586372": 114,
+      "gas:candidate-vibid:2482000600369": 33,
+      "gas:candidate-vibid:2482000580315": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1051,12 +1051,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 216,
-      "Рожнов Евгений Вячеславович": 55,
-      "Тарасенко Михаил Васильевич": 416,
-      "Токарев Сергей Владимирович": 220,
-      "Трофимов Александр Вадимович": 34,
-      "Хомутинников Олег Георгиевич": 165
+      "gas:candidate-vibid:2482000590623": 216,
+      "gas:candidate-vibid:2482000600384": 55,
+      "gas:candidate-vibid:2482000601951": 416,
+      "gas:candidate-vibid:2482000586372": 220,
+      "gas:candidate-vibid:2482000600369": 34,
+      "gas:candidate-vibid:2482000580315": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1107,12 +1107,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 242,
-      "Рожнов Евгений Вячеславович": 48,
-      "Тарасенко Михаил Васильевич": 418,
-      "Токарев Сергей Владимирович": 202,
-      "Трофимов Александр Вадимович": 36,
-      "Хомутинников Олег Георгиевич": 199
+      "gas:candidate-vibid:2482000590623": 242,
+      "gas:candidate-vibid:2482000600384": 48,
+      "gas:candidate-vibid:2482000601951": 418,
+      "gas:candidate-vibid:2482000586372": 202,
+      "gas:candidate-vibid:2482000600369": 36,
+      "gas:candidate-vibid:2482000580315": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1163,12 +1163,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 243,
-      "Рожнов Евгений Вячеславович": 57,
-      "Тарасенко Михаил Васильевич": 424,
-      "Токарев Сергей Владимирович": 227,
-      "Трофимов Александр Вадимович": 59,
-      "Хомутинников Олег Георгиевич": 202
+      "gas:candidate-vibid:2482000590623": 243,
+      "gas:candidate-vibid:2482000600384": 57,
+      "gas:candidate-vibid:2482000601951": 424,
+      "gas:candidate-vibid:2482000586372": 227,
+      "gas:candidate-vibid:2482000600369": 59,
+      "gas:candidate-vibid:2482000580315": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1219,12 +1219,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 205,
-      "Рожнов Евгений Вячеславович": 43,
-      "Тарасенко Михаил Васильевич": 362,
-      "Токарев Сергей Владимирович": 207,
-      "Трофимов Александр Вадимович": 31,
-      "Хомутинников Олег Георгиевич": 167
+      "gas:candidate-vibid:2482000590623": 205,
+      "gas:candidate-vibid:2482000600384": 43,
+      "gas:candidate-vibid:2482000601951": 362,
+      "gas:candidate-vibid:2482000586372": 207,
+      "gas:candidate-vibid:2482000600369": 31,
+      "gas:candidate-vibid:2482000580315": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1275,12 +1275,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 262,
-      "Рожнов Евгений Вячеславович": 57,
-      "Тарасенко Михаил Васильевич": 472,
-      "Токарев Сергей Владимирович": 223,
-      "Трофимов Александр Вадимович": 53,
-      "Хомутинников Олег Георгиевич": 141
+      "gas:candidate-vibid:2482000590623": 262,
+      "gas:candidate-vibid:2482000600384": 57,
+      "gas:candidate-vibid:2482000601951": 472,
+      "gas:candidate-vibid:2482000586372": 223,
+      "gas:candidate-vibid:2482000600369": 53,
+      "gas:candidate-vibid:2482000580315": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1331,12 +1331,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 195,
-      "Рожнов Евгений Вячеславович": 35,
-      "Тарасенко Михаил Васильевич": 327,
-      "Токарев Сергей Владимирович": 156,
-      "Трофимов Александр Вадимович": 39,
-      "Хомутинников Олег Георгиевич": 123
+      "gas:candidate-vibid:2482000590623": 195,
+      "gas:candidate-vibid:2482000600384": 35,
+      "gas:candidate-vibid:2482000601951": 327,
+      "gas:candidate-vibid:2482000586372": 156,
+      "gas:candidate-vibid:2482000600369": 39,
+      "gas:candidate-vibid:2482000580315": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1387,12 +1387,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 191,
-      "Рожнов Евгений Вячеславович": 43,
-      "Тарасенко Михаил Васильевич": 291,
-      "Токарев Сергей Владимирович": 155,
-      "Трофимов Александр Вадимович": 36,
-      "Хомутинников Олег Георгиевич": 104
+      "gas:candidate-vibid:2482000590623": 191,
+      "gas:candidate-vibid:2482000600384": 43,
+      "gas:candidate-vibid:2482000601951": 291,
+      "gas:candidate-vibid:2482000586372": 155,
+      "gas:candidate-vibid:2482000600369": 36,
+      "gas:candidate-vibid:2482000580315": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1443,12 +1443,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 251,
-      "Рожнов Евгений Вячеславович": 71,
-      "Тарасенко Михаил Васильевич": 351,
-      "Токарев Сергей Владимирович": 202,
-      "Трофимов Александр Вадимович": 33,
-      "Хомутинников Олег Георгиевич": 136
+      "gas:candidate-vibid:2482000590623": 251,
+      "gas:candidate-vibid:2482000600384": 71,
+      "gas:candidate-vibid:2482000601951": 351,
+      "gas:candidate-vibid:2482000586372": 202,
+      "gas:candidate-vibid:2482000600369": 33,
+      "gas:candidate-vibid:2482000580315": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1499,12 +1499,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 142,
-      "Рожнов Евгений Вячеславович": 53,
-      "Тарасенко Михаил Васильевич": 318,
-      "Токарев Сергей Владимирович": 172,
-      "Трофимов Александр Вадимович": 34,
-      "Хомутинников Олег Георгиевич": 109
+      "gas:candidate-vibid:2482000590623": 142,
+      "gas:candidate-vibid:2482000600384": 53,
+      "gas:candidate-vibid:2482000601951": 318,
+      "gas:candidate-vibid:2482000586372": 172,
+      "gas:candidate-vibid:2482000600369": 34,
+      "gas:candidate-vibid:2482000580315": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1555,12 +1555,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 273,
-      "Рожнов Евгений Вячеславович": 45,
-      "Тарасенко Михаил Васильевич": 360,
-      "Токарев Сергей Владимирович": 227,
-      "Трофимов Александр Вадимович": 35,
-      "Хомутинников Олег Георгиевич": 126
+      "gas:candidate-vibid:2482000590623": 273,
+      "gas:candidate-vibid:2482000600384": 45,
+      "gas:candidate-vibid:2482000601951": 360,
+      "gas:candidate-vibid:2482000586372": 227,
+      "gas:candidate-vibid:2482000600369": 35,
+      "gas:candidate-vibid:2482000580315": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1611,12 +1611,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 204,
-      "Рожнов Евгений Вячеславович": 21,
-      "Тарасенко Михаил Васильевич": 313,
-      "Токарев Сергей Владимирович": 205,
-      "Трофимов Александр Вадимович": 35,
-      "Хомутинников Олег Георгиевич": 120
+      "gas:candidate-vibid:2482000590623": 204,
+      "gas:candidate-vibid:2482000600384": 21,
+      "gas:candidate-vibid:2482000601951": 313,
+      "gas:candidate-vibid:2482000586372": 205,
+      "gas:candidate-vibid:2482000600369": 35,
+      "gas:candidate-vibid:2482000580315": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1667,12 +1667,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 204,
-      "Рожнов Евгений Вячеславович": 38,
-      "Тарасенко Михаил Васильевич": 341,
-      "Токарев Сергей Владимирович": 176,
-      "Трофимов Александр Вадимович": 12,
-      "Хомутинников Олег Георгиевич": 95
+      "gas:candidate-vibid:2482000590623": 204,
+      "gas:candidate-vibid:2482000600384": 38,
+      "gas:candidate-vibid:2482000601951": 341,
+      "gas:candidate-vibid:2482000586372": 176,
+      "gas:candidate-vibid:2482000600369": 12,
+      "gas:candidate-vibid:2482000580315": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1723,12 +1723,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 233,
-      "Рожнов Евгений Вячеславович": 26,
-      "Тарасенко Михаил Васильевич": 433,
-      "Токарев Сергей Владимирович": 221,
-      "Трофимов Александр Вадимович": 30,
-      "Хомутинников Олег Георгиевич": 149
+      "gas:candidate-vibid:2482000590623": 233,
+      "gas:candidate-vibid:2482000600384": 26,
+      "gas:candidate-vibid:2482000601951": 433,
+      "gas:candidate-vibid:2482000586372": 221,
+      "gas:candidate-vibid:2482000600369": 30,
+      "gas:candidate-vibid:2482000580315": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1779,12 +1779,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 282,
-      "Рожнов Евгений Вячеславович": 43,
-      "Тарасенко Михаил Васильевич": 380,
-      "Токарев Сергей Владимирович": 180,
-      "Трофимов Александр Вадимович": 27,
-      "Хомутинников Олег Георгиевич": 140
+      "gas:candidate-vibid:2482000590623": 282,
+      "gas:candidate-vibid:2482000600384": 43,
+      "gas:candidate-vibid:2482000601951": 380,
+      "gas:candidate-vibid:2482000586372": 180,
+      "gas:candidate-vibid:2482000600369": 27,
+      "gas:candidate-vibid:2482000580315": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1835,12 +1835,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 215,
-      "Рожнов Евгений Вячеславович": 30,
-      "Тарасенко Михаил Васильевич": 282,
-      "Токарев Сергей Владимирович": 161,
-      "Трофимов Александр Вадимович": 25,
-      "Хомутинников Олег Георгиевич": 92
+      "gas:candidate-vibid:2482000590623": 215,
+      "gas:candidate-vibid:2482000600384": 30,
+      "gas:candidate-vibid:2482000601951": 282,
+      "gas:candidate-vibid:2482000586372": 161,
+      "gas:candidate-vibid:2482000600369": 25,
+      "gas:candidate-vibid:2482000580315": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1891,12 +1891,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 189,
-      "Рожнов Евгений Вячеславович": 25,
-      "Тарасенко Михаил Васильевич": 291,
-      "Токарев Сергей Владимирович": 133,
-      "Трофимов Александр Вадимович": 22,
-      "Хомутинников Олег Георгиевич": 132
+      "gas:candidate-vibid:2482000590623": 189,
+      "gas:candidate-vibid:2482000600384": 25,
+      "gas:candidate-vibid:2482000601951": 291,
+      "gas:candidate-vibid:2482000586372": 133,
+      "gas:candidate-vibid:2482000600369": 22,
+      "gas:candidate-vibid:2482000580315": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -1947,12 +1947,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 207,
-      "Рожнов Евгений Вячеславович": 32,
-      "Тарасенко Михаил Васильевич": 336,
-      "Токарев Сергей Владимирович": 194,
-      "Трофимов Александр Вадимович": 32,
-      "Хомутинников Олег Георгиевич": 126
+      "gas:candidate-vibid:2482000590623": 207,
+      "gas:candidate-vibid:2482000600384": 32,
+      "gas:candidate-vibid:2482000601951": 336,
+      "gas:candidate-vibid:2482000586372": 194,
+      "gas:candidate-vibid:2482000600369": 32,
+      "gas:candidate-vibid:2482000580315": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2003,12 +2003,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 221,
-      "Рожнов Евгений Вячеславович": 33,
-      "Тарасенко Михаил Васильевич": 325,
-      "Токарев Сергей Владимирович": 207,
-      "Трофимов Александр Вадимович": 32,
-      "Хомутинников Олег Георгиевич": 115
+      "gas:candidate-vibid:2482000590623": 221,
+      "gas:candidate-vibid:2482000600384": 33,
+      "gas:candidate-vibid:2482000601951": 325,
+      "gas:candidate-vibid:2482000586372": 207,
+      "gas:candidate-vibid:2482000600369": 32,
+      "gas:candidate-vibid:2482000580315": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2059,12 +2059,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 160,
-      "Рожнов Евгений Вячеславович": 50,
-      "Тарасенко Михаил Васильевич": 305,
-      "Токарев Сергей Владимирович": 213,
-      "Трофимов Александр Вадимович": 27,
-      "Хомутинников Олег Георгиевич": 127
+      "gas:candidate-vibid:2482000590623": 160,
+      "gas:candidate-vibid:2482000600384": 50,
+      "gas:candidate-vibid:2482000601951": 305,
+      "gas:candidate-vibid:2482000586372": 213,
+      "gas:candidate-vibid:2482000600369": 27,
+      "gas:candidate-vibid:2482000580315": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2115,12 +2115,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 251,
-      "Рожнов Евгений Вячеславович": 37,
-      "Тарасенко Михаил Васильевич": 356,
-      "Токарев Сергей Владимирович": 175,
-      "Трофимов Александр Вадимович": 22,
-      "Хомутинников Олег Георгиевич": 121
+      "gas:candidate-vibid:2482000590623": 251,
+      "gas:candidate-vibid:2482000600384": 37,
+      "gas:candidate-vibid:2482000601951": 356,
+      "gas:candidate-vibid:2482000586372": 175,
+      "gas:candidate-vibid:2482000600369": 22,
+      "gas:candidate-vibid:2482000580315": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2171,12 +2171,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 225,
-      "Рожнов Евгений Вячеславович": 36,
-      "Тарасенко Михаил Васильевич": 295,
-      "Токарев Сергей Владимирович": 178,
-      "Трофимов Александр Вадимович": 39,
-      "Хомутинников Олег Георгиевич": 150
+      "gas:candidate-vibid:2482000590623": 225,
+      "gas:candidate-vibid:2482000600384": 36,
+      "gas:candidate-vibid:2482000601951": 295,
+      "gas:candidate-vibid:2482000586372": 178,
+      "gas:candidate-vibid:2482000600369": 39,
+      "gas:candidate-vibid:2482000580315": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2227,12 +2227,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 298,
-      "Рожнов Евгений Вячеславович": 66,
-      "Тарасенко Михаил Васильевич": 461,
-      "Токарев Сергей Владимирович": 269,
-      "Трофимов Александр Вадимович": 36,
-      "Хомутинников Олег Георгиевич": 196
+      "gas:candidate-vibid:2482000590623": 298,
+      "gas:candidate-vibid:2482000600384": 66,
+      "gas:candidate-vibid:2482000601951": 461,
+      "gas:candidate-vibid:2482000586372": 269,
+      "gas:candidate-vibid:2482000600369": 36,
+      "gas:candidate-vibid:2482000580315": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2283,12 +2283,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 64,
-      "Токарев Сергей Владимирович": 23,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 18
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 64,
+      "gas:candidate-vibid:2482000586372": 23,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2339,12 +2339,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 44,
-      "Рожнов Евгений Вячеславович": 49,
-      "Тарасенко Михаил Васильевич": 166,
-      "Токарев Сергей Владимирович": 57,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 48
+      "gas:candidate-vibid:2482000590623": 44,
+      "gas:candidate-vibid:2482000600384": 49,
+      "gas:candidate-vibid:2482000601951": 166,
+      "gas:candidate-vibid:2482000586372": 57,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2395,12 +2395,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 36,
-      "Рожнов Евгений Вячеславович": 14,
-      "Тарасенко Михаил Васильевич": 123,
-      "Токарев Сергей Владимирович": 30,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 45
+      "gas:candidate-vibid:2482000590623": 36,
+      "gas:candidate-vibid:2482000600384": 14,
+      "gas:candidate-vibid:2482000601951": 123,
+      "gas:candidate-vibid:2482000586372": 30,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2451,12 +2451,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 162,
-      "Рожнов Евгений Вячеславович": 50,
-      "Тарасенко Михаил Васильевич": 516,
-      "Токарев Сергей Владимирович": 107,
-      "Трофимов Александр Вадимович": 80,
-      "Хомутинников Олег Георгиевич": 147
+      "gas:candidate-vibid:2482000590623": 162,
+      "gas:candidate-vibid:2482000600384": 50,
+      "gas:candidate-vibid:2482000601951": 516,
+      "gas:candidate-vibid:2482000586372": 107,
+      "gas:candidate-vibid:2482000600369": 80,
+      "gas:candidate-vibid:2482000580315": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533396&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533396&type=464",
@@ -2507,12 +2507,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 9,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 219,
-      "Токарев Сергей Владимирович": 15,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 9,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 219,
+      "gas:candidate-vibid:2482000586372": 15,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2563,12 +2563,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 77,
-      "Токарев Сергей Владимирович": 15,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 77,
+      "gas:candidate-vibid:2482000586372": 15,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2619,12 +2619,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 1,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 261,
-      "Токарев Сергей Владимирович": 38,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 1
+      "gas:candidate-vibid:2482000590623": 1,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 261,
+      "gas:candidate-vibid:2482000586372": 38,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2675,12 +2675,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 59,
-      "Токарев Сергей Владимирович": 18,
-      "Трофимов Александр Вадимович": 11,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 59,
+      "gas:candidate-vibid:2482000586372": 18,
+      "gas:candidate-vibid:2482000600369": 11,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2731,12 +2731,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 166,
-      "Токарев Сергей Владимирович": 10,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 166,
+      "gas:candidate-vibid:2482000586372": 10,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2787,12 +2787,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 29,
-      "Рожнов Евгений Вячеславович": 12,
-      "Тарасенко Михаил Васильевич": 142,
-      "Токарев Сергей Владимирович": 35,
-      "Трофимов Александр Вадимович": 16,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 29,
+      "gas:candidate-vibid:2482000600384": 12,
+      "gas:candidate-vibid:2482000601951": 142,
+      "gas:candidate-vibid:2482000586372": 35,
+      "gas:candidate-vibid:2482000600369": 16,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2843,12 +2843,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 9,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 272,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 9,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 272,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2899,12 +2899,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 86,
-      "Рожнов Евгений Вячеславович": 20,
-      "Тарасенко Михаил Васильевич": 598,
-      "Токарев Сергей Владимирович": 127,
-      "Трофимов Александр Вадимович": 45,
-      "Хомутинников Олег Георгиевич": 70
+      "gas:candidate-vibid:2482000590623": 86,
+      "gas:candidate-vibid:2482000600384": 20,
+      "gas:candidate-vibid:2482000601951": 598,
+      "gas:candidate-vibid:2482000586372": 127,
+      "gas:candidate-vibid:2482000600369": 45,
+      "gas:candidate-vibid:2482000580315": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -2955,12 +2955,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 77,
-      "Токарев Сергей Владимирович": 17,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 77,
+      "gas:candidate-vibid:2482000586372": 17,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3011,12 +3011,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 15,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 188,
-      "Токарев Сергей Владимирович": 29,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 15
+      "gas:candidate-vibid:2482000590623": 15,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 188,
+      "gas:candidate-vibid:2482000586372": 29,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3067,12 +3067,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 135,
-      "Токарев Сергей Владимирович": 16,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 135,
+      "gas:candidate-vibid:2482000586372": 16,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3123,12 +3123,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 58,
-      "Токарев Сергей Владимирович": 5,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 58,
+      "gas:candidate-vibid:2482000586372": 5,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3179,12 +3179,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 189,
-      "Токарев Сергей Владимирович": 25,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 5
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 189,
+      "gas:candidate-vibid:2482000586372": 25,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3235,12 +3235,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 16,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 189,
-      "Токарев Сергей Владимирович": 48,
-      "Трофимов Александр Вадимович": 20,
-      "Хомутинников Олег Георгиевич": 14
+      "gas:candidate-vibid:2482000590623": 16,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 189,
+      "gas:candidate-vibid:2482000586372": 48,
+      "gas:candidate-vibid:2482000600369": 20,
+      "gas:candidate-vibid:2482000580315": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3291,12 +3291,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 70,
-      "Токарев Сергей Владимирович": 15,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 10
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 70,
+      "gas:candidate-vibid:2482000586372": 15,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3347,12 +3347,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 194,
-      "Токарев Сергей Владимирович": 9,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 5
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 194,
+      "gas:candidate-vibid:2482000586372": 9,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3403,12 +3403,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 14,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 201,
-      "Токарев Сергей Владимирович": 28,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 26
+      "gas:candidate-vibid:2482000590623": 14,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 201,
+      "gas:candidate-vibid:2482000586372": 28,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3459,12 +3459,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 19,
-      "Рожнов Евгений Вячеславович": 16,
-      "Тарасенко Михаил Васильевич": 165,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 17,
-      "Хомутинников Олег Георгиевич": 22
+      "gas:candidate-vibid:2482000590623": 19,
+      "gas:candidate-vibid:2482000600384": 16,
+      "gas:candidate-vibid:2482000601951": 165,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 17,
+      "gas:candidate-vibid:2482000580315": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3515,12 +3515,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 254,
-      "Токарев Сергей Владимирович": 23,
-      "Трофимов Александр Вадимович": 18,
-      "Хомутинников Олег Георгиевич": 10
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 254,
+      "gas:candidate-vibid:2482000586372": 23,
+      "gas:candidate-vibid:2482000600369": 18,
+      "gas:candidate-vibid:2482000580315": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3571,12 +3571,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 10,
-      "Рожнов Евгений Вячеславович": 11,
-      "Тарасенко Михаил Васильевич": 186,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 12
+      "gas:candidate-vibid:2482000590623": 10,
+      "gas:candidate-vibid:2482000600384": 11,
+      "gas:candidate-vibid:2482000601951": 186,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3627,12 +3627,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 236,
-      "Токарев Сергей Владимирович": 34,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 8
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 236,
+      "gas:candidate-vibid:2482000586372": 34,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3683,12 +3683,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 51,
-      "Токарев Сергей Владимирович": 16,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 51,
+      "gas:candidate-vibid:2482000586372": 16,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3739,12 +3739,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 27,
-      "Рожнов Евгений Вячеславович": 14,
-      "Тарасенко Михаил Васильевич": 257,
-      "Токарев Сергей Владимирович": 54,
-      "Трофимов Александр Вадимович": 11,
-      "Хомутинников Олег Георгиевич": 15
+      "gas:candidate-vibid:2482000590623": 27,
+      "gas:candidate-vibid:2482000600384": 14,
+      "gas:candidate-vibid:2482000601951": 257,
+      "gas:candidate-vibid:2482000586372": 54,
+      "gas:candidate-vibid:2482000600369": 11,
+      "gas:candidate-vibid:2482000580315": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3795,12 +3795,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 105,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 105,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3851,12 +3851,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 323,
-      "Токарев Сергей Владимирович": 29,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 16
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 323,
+      "gas:candidate-vibid:2482000586372": 29,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533397&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533397&type=464",
@@ -3907,12 +3907,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 44,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 1031,
-      "Токарев Сергей Владимирович": 69,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 76
+      "gas:candidate-vibid:2482000590623": 44,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 1031,
+      "gas:candidate-vibid:2482000586372": 69,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -3963,12 +3963,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 101,
-      "Рожнов Евгений Вячеславович": 44,
-      "Тарасенко Михаил Васильевич": 418,
-      "Токарев Сергей Владимирович": 111,
-      "Трофимов Александр Вадимович": 30,
-      "Хомутинников Олег Георгиевич": 125
+      "gas:candidate-vibid:2482000590623": 101,
+      "gas:candidate-vibid:2482000600384": 44,
+      "gas:candidate-vibid:2482000601951": 418,
+      "gas:candidate-vibid:2482000586372": 111,
+      "gas:candidate-vibid:2482000600369": 30,
+      "gas:candidate-vibid:2482000580315": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4019,12 +4019,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 145,
-      "Рожнов Евгений Вячеславович": 21,
-      "Тарасенко Михаил Васильевич": 790,
-      "Токарев Сергей Владимирович": 118,
-      "Трофимов Александр Вадимович": 30,
-      "Хомутинников Олег Георгиевич": 117
+      "gas:candidate-vibid:2482000590623": 145,
+      "gas:candidate-vibid:2482000600384": 21,
+      "gas:candidate-vibid:2482000601951": 790,
+      "gas:candidate-vibid:2482000586372": 118,
+      "gas:candidate-vibid:2482000600369": 30,
+      "gas:candidate-vibid:2482000580315": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4075,12 +4075,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 32,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 752,
-      "Токарев Сергей Владимирович": 63,
-      "Трофимов Александр Вадимович": 12,
-      "Хомутинников Олег Георгиевич": 47
+      "gas:candidate-vibid:2482000590623": 32,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 752,
+      "gas:candidate-vibid:2482000586372": 63,
+      "gas:candidate-vibid:2482000600369": 12,
+      "gas:candidate-vibid:2482000580315": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4131,12 +4131,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 40,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 1151,
-      "Токарев Сергей Владимирович": 141,
-      "Трофимов Александр Вадимович": 75,
-      "Хомутинников Олег Георгиевич": 24
+      "gas:candidate-vibid:2482000590623": 40,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 1151,
+      "gas:candidate-vibid:2482000586372": 141,
+      "gas:candidate-vibid:2482000600369": 75,
+      "gas:candidate-vibid:2482000580315": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4187,12 +4187,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 87,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 1110,
-      "Токарев Сергей Владимирович": 124,
-      "Трофимов Александр Вадимович": 38,
-      "Хомутинников Олег Георгиевич": 134
+      "gas:candidate-vibid:2482000590623": 87,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 1110,
+      "gas:candidate-vibid:2482000586372": 124,
+      "gas:candidate-vibid:2482000600369": 38,
+      "gas:candidate-vibid:2482000580315": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4243,12 +4243,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 91,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 1112,
-      "Токарев Сергей Владимирович": 95,
-      "Трофимов Александр Вадимович": 21,
-      "Хомутинников Олег Георгиевич": 55
+      "gas:candidate-vibid:2482000590623": 91,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 1112,
+      "gas:candidate-vibid:2482000586372": 95,
+      "gas:candidate-vibid:2482000600369": 21,
+      "gas:candidate-vibid:2482000580315": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4299,12 +4299,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 1579,
-      "Токарев Сергей Владимирович": 10,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 1579,
+      "gas:candidate-vibid:2482000586372": 10,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4355,12 +4355,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 59,
-      "Рожнов Евгений Вячеславович": 11,
-      "Тарасенко Михаил Васильевич": 1002,
-      "Токарев Сергей Владимирович": 86,
-      "Трофимов Александр Вадимович": 25,
-      "Хомутинников Олег Георгиевич": 70
+      "gas:candidate-vibid:2482000590623": 59,
+      "gas:candidate-vibid:2482000600384": 11,
+      "gas:candidate-vibid:2482000601951": 1002,
+      "gas:candidate-vibid:2482000586372": 86,
+      "gas:candidate-vibid:2482000600369": 25,
+      "gas:candidate-vibid:2482000580315": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4411,12 +4411,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 27,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 374,
-      "Токарев Сергей Владимирович": 21,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 20
+      "gas:candidate-vibid:2482000590623": 27,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 374,
+      "gas:candidate-vibid:2482000586372": 21,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4467,12 +4467,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 85,
-      "Рожнов Евгений Вячеславович": 57,
-      "Тарасенко Михаил Васильевич": 611,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 17,
-      "Хомутинников Олег Георгиевич": 76
+      "gas:candidate-vibid:2482000590623": 85,
+      "gas:candidate-vibid:2482000600384": 57,
+      "gas:candidate-vibid:2482000601951": 611,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 17,
+      "gas:candidate-vibid:2482000580315": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4523,12 +4523,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 91,
-      "Рожнов Евгений Вячеславович": 13,
-      "Тарасенко Михаил Васильевич": 1173,
-      "Токарев Сергей Владимирович": 67,
-      "Трофимов Александр Вадимович": 14,
-      "Хомутинников Олег Георгиевич": 54
+      "gas:candidate-vibid:2482000590623": 91,
+      "gas:candidate-vibid:2482000600384": 13,
+      "gas:candidate-vibid:2482000601951": 1173,
+      "gas:candidate-vibid:2482000586372": 67,
+      "gas:candidate-vibid:2482000600369": 14,
+      "gas:candidate-vibid:2482000580315": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4579,12 +4579,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 81,
-      "Рожнов Евгений Вячеславович": 15,
-      "Тарасенко Михаил Васильевич": 942,
-      "Токарев Сергей Владимирович": 73,
-      "Трофимов Александр Вадимович": 24,
-      "Хомутинников Олег Георгиевич": 92
+      "gas:candidate-vibid:2482000590623": 81,
+      "gas:candidate-vibid:2482000600384": 15,
+      "gas:candidate-vibid:2482000601951": 942,
+      "gas:candidate-vibid:2482000586372": 73,
+      "gas:candidate-vibid:2482000600369": 24,
+      "gas:candidate-vibid:2482000580315": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4635,12 +4635,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 43,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 1234,
-      "Токарев Сергей Владимирович": 68,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 17
+      "gas:candidate-vibid:2482000590623": 43,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 1234,
+      "gas:candidate-vibid:2482000586372": 68,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4691,12 +4691,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 39,
-      "Рожнов Евгений Вячеславович": 56,
-      "Тарасенко Михаил Васильевич": 1305,
-      "Токарев Сергей Владимирович": 87,
-      "Трофимов Александр Вадимович": 61,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 39,
+      "gas:candidate-vibid:2482000600384": 56,
+      "gas:candidate-vibid:2482000601951": 1305,
+      "gas:candidate-vibid:2482000586372": 87,
+      "gas:candidate-vibid:2482000600369": 61,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4747,12 +4747,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 107,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 709,
-      "Токарев Сергей Владимирович": 61,
-      "Трофимов Александр Вадимович": 70,
-      "Хомутинников Олег Георгиевич": 67
+      "gas:candidate-vibid:2482000590623": 107,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 709,
+      "gas:candidate-vibid:2482000586372": 61,
+      "gas:candidate-vibid:2482000600369": 70,
+      "gas:candidate-vibid:2482000580315": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4803,12 +4803,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 43,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 444,
-      "Токарев Сергей Владимирович": 55,
-      "Трофимов Александр Вадимович": 22,
-      "Хомутинников Олег Георгиевич": 41
+      "gas:candidate-vibid:2482000590623": 43,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 444,
+      "gas:candidate-vibid:2482000586372": 55,
+      "gas:candidate-vibid:2482000600369": 22,
+      "gas:candidate-vibid:2482000580315": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4859,12 +4859,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 48,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 829,
-      "Токарев Сергей Владимирович": 50,
-      "Трофимов Александр Вадимович": 12,
-      "Хомутинников Олег Георгиевич": 47
+      "gas:candidate-vibid:2482000590623": 48,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 829,
+      "gas:candidate-vibid:2482000586372": 50,
+      "gas:candidate-vibid:2482000600369": 12,
+      "gas:candidate-vibid:2482000580315": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4915,12 +4915,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 40,
-      "Рожнов Евгений Вячеславович": 13,
-      "Тарасенко Михаил Васильевич": 653,
-      "Токарев Сергей Владимирович": 49,
-      "Трофимов Александр Вадимович": 21,
-      "Хомутинников Олег Георгиевич": 52
+      "gas:candidate-vibid:2482000590623": 40,
+      "gas:candidate-vibid:2482000600384": 13,
+      "gas:candidate-vibid:2482000601951": 653,
+      "gas:candidate-vibid:2482000586372": 49,
+      "gas:candidate-vibid:2482000600369": 21,
+      "gas:candidate-vibid:2482000580315": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -4971,12 +4971,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 51,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 985,
-      "Токарев Сергей Владимирович": 64,
-      "Трофимов Александр Вадимович": 23,
-      "Хомутинников Олег Георгиевич": 65
+      "gas:candidate-vibid:2482000590623": 51,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 985,
+      "gas:candidate-vibid:2482000586372": 64,
+      "gas:candidate-vibid:2482000600369": 23,
+      "gas:candidate-vibid:2482000580315": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5027,12 +5027,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 88,
-      "Рожнов Евгений Вячеславович": 11,
-      "Тарасенко Михаил Васильевич": 814,
-      "Токарев Сергей Владимирович": 83,
-      "Трофимов Александр Вадимович": 28,
-      "Хомутинников Олег Георгиевич": 74
+      "gas:candidate-vibid:2482000590623": 88,
+      "gas:candidate-vibid:2482000600384": 11,
+      "gas:candidate-vibid:2482000601951": 814,
+      "gas:candidate-vibid:2482000586372": 83,
+      "gas:candidate-vibid:2482000600369": 28,
+      "gas:candidate-vibid:2482000580315": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5083,12 +5083,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 74,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 741,
-      "Токарев Сергей Владимирович": 79,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 74,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 741,
+      "gas:candidate-vibid:2482000586372": 79,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5139,12 +5139,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 75,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 1084,
-      "Токарев Сергей Владимирович": 87,
-      "Трофимов Александр Вадимович": 37,
-      "Хомутинников Олег Георгиевич": 65
+      "gas:candidate-vibid:2482000590623": 75,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 1084,
+      "gas:candidate-vibid:2482000586372": 87,
+      "gas:candidate-vibid:2482000600369": 37,
+      "gas:candidate-vibid:2482000580315": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5195,12 +5195,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 98,
-      "Рожнов Евгений Вячеславович": 28,
-      "Тарасенко Михаил Васильевич": 1147,
-      "Токарев Сергей Владимирович": 141,
-      "Трофимов Александр Вадимович": 43,
-      "Хомутинников Олег Георгиевич": 140
+      "gas:candidate-vibid:2482000590623": 98,
+      "gas:candidate-vibid:2482000600384": 28,
+      "gas:candidate-vibid:2482000601951": 1147,
+      "gas:candidate-vibid:2482000586372": 141,
+      "gas:candidate-vibid:2482000600369": 43,
+      "gas:candidate-vibid:2482000580315": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5251,12 +5251,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 65,
-      "Токарев Сергей Владимирович": 6,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 65,
+      "gas:candidate-vibid:2482000586372": 6,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5307,12 +5307,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 40,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 461,
-      "Токарев Сергей Владимирович": 54,
-      "Трофимов Александр Вадимович": 23,
-      "Хомутинников Олег Георгиевич": 53
+      "gas:candidate-vibid:2482000590623": 40,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 461,
+      "gas:candidate-vibid:2482000586372": 54,
+      "gas:candidate-vibid:2482000600369": 23,
+      "gas:candidate-vibid:2482000580315": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5363,12 +5363,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 9,
-      "Тарасенко Михаил Васильевич": 490,
-      "Токарев Сергей Владимирович": 30,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 21
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 9,
+      "gas:candidate-vibid:2482000601951": 490,
+      "gas:candidate-vibid:2482000586372": 30,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5419,12 +5419,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 47,
-      "Рожнов Евгений Вячеславович": 19,
-      "Тарасенко Михаил Васильевич": 531,
-      "Токарев Сергей Владимирович": 61,
-      "Трофимов Александр Вадимович": 23,
-      "Хомутинников Олег Георгиевич": 35
+      "gas:candidate-vibid:2482000590623": 47,
+      "gas:candidate-vibid:2482000600384": 19,
+      "gas:candidate-vibid:2482000601951": 531,
+      "gas:candidate-vibid:2482000586372": 61,
+      "gas:candidate-vibid:2482000600369": 23,
+      "gas:candidate-vibid:2482000580315": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5475,12 +5475,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 124,
-      "Рожнов Евгений Вячеславович": 23,
-      "Тарасенко Михаил Васильевич": 570,
-      "Токарев Сергей Владимирович": 109,
-      "Трофимов Александр Вадимович": 23,
-      "Хомутинников Олег Георгиевич": 152
+      "gas:candidate-vibid:2482000590623": 124,
+      "gas:candidate-vibid:2482000600384": 23,
+      "gas:candidate-vibid:2482000601951": 570,
+      "gas:candidate-vibid:2482000586372": 109,
+      "gas:candidate-vibid:2482000600369": 23,
+      "gas:candidate-vibid:2482000580315": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5531,12 +5531,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 103,
-      "Рожнов Евгений Вячеславович": 15,
-      "Тарасенко Михаил Васильевич": 981,
-      "Токарев Сергей Владимирович": 124,
-      "Трофимов Александр Вадимович": 31,
-      "Хомутинников Олег Георгиевич": 112
+      "gas:candidate-vibid:2482000590623": 103,
+      "gas:candidate-vibid:2482000600384": 15,
+      "gas:candidate-vibid:2482000601951": 981,
+      "gas:candidate-vibid:2482000586372": 124,
+      "gas:candidate-vibid:2482000600369": 31,
+      "gas:candidate-vibid:2482000580315": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5587,12 +5587,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 46,
-      "Рожнов Евгений Вячеславович": 17,
-      "Тарасенко Михаил Васильевич": 404,
-      "Токарев Сергей Владимирович": 54,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 66
+      "gas:candidate-vibid:2482000590623": 46,
+      "gas:candidate-vibid:2482000600384": 17,
+      "gas:candidate-vibid:2482000601951": 404,
+      "gas:candidate-vibid:2482000586372": 54,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5643,12 +5643,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 207,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 207,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5699,12 +5699,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 440,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 440,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5755,12 +5755,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 631,
-      "Токарев Сергей Владимирович": 23,
-      "Трофимов Александр Вадимович": 14,
-      "Хомутинников Олег Георгиевич": 17
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 631,
+      "gas:candidate-vibid:2482000586372": 23,
+      "gas:candidate-vibid:2482000600369": 14,
+      "gas:candidate-vibid:2482000580315": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5811,12 +5811,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 10,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 226,
-      "Токарев Сергей Владимирович": 10,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 17
+      "gas:candidate-vibid:2482000590623": 10,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 226,
+      "gas:candidate-vibid:2482000586372": 10,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5867,12 +5867,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 160,
-      "Токарев Сергей Владимирович": 14,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 14
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 160,
+      "gas:candidate-vibid:2482000586372": 14,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5923,12 +5923,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 33,
-      "Рожнов Евгений Вячеславович": 9,
-      "Тарасенко Михаил Васильевич": 634,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 19,
-      "Хомутинников Олег Георгиевич": 49
+      "gas:candidate-vibid:2482000590623": 33,
+      "gas:candidate-vibid:2482000600384": 9,
+      "gas:candidate-vibid:2482000601951": 634,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 19,
+      "gas:candidate-vibid:2482000580315": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -5979,12 +5979,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 110,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 110,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6035,12 +6035,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 30,
-      "Рожнов Евгений Вячеславович": 13,
-      "Тарасенко Михаил Васильевич": 530,
-      "Токарев Сергей Владимирович": 33,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 37
+      "gas:candidate-vibid:2482000590623": 30,
+      "gas:candidate-vibid:2482000600384": 13,
+      "gas:candidate-vibid:2482000601951": 530,
+      "gas:candidate-vibid:2482000586372": 33,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6091,12 +6091,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 19,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 335,
-      "Токарев Сергей Владимирович": 22,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 32
+      "gas:candidate-vibid:2482000590623": 19,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 335,
+      "gas:candidate-vibid:2482000586372": 22,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6147,12 +6147,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 10,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 601,
-      "Токарев Сергей Владимирович": 8,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 10,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 601,
+      "gas:candidate-vibid:2482000586372": 8,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6203,12 +6203,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 22,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 99,
-      "Токарев Сергей Владимирович": 22,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 27
+      "gas:candidate-vibid:2482000590623": 22,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 99,
+      "gas:candidate-vibid:2482000586372": 22,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6259,12 +6259,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 121,
-      "Рожнов Евгений Вячеславович": 30,
-      "Тарасенко Михаил Васильевич": 519,
-      "Токарев Сергей Владимирович": 113,
-      "Трофимов Александр Вадимович": 35,
-      "Хомутинников Олег Георгиевич": 130
+      "gas:candidate-vibid:2482000590623": 121,
+      "gas:candidate-vibid:2482000600384": 30,
+      "gas:candidate-vibid:2482000601951": 519,
+      "gas:candidate-vibid:2482000586372": 113,
+      "gas:candidate-vibid:2482000600369": 35,
+      "gas:candidate-vibid:2482000580315": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6315,12 +6315,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 49,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 191,
-      "Токарев Сергей Владимирович": 64,
-      "Трофимов Александр Вадимович": 21,
-      "Хомутинников Олег Георгиевич": 53
+      "gas:candidate-vibid:2482000590623": 49,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 191,
+      "gas:candidate-vibid:2482000586372": 64,
+      "gas:candidate-vibid:2482000600369": 21,
+      "gas:candidate-vibid:2482000580315": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6371,12 +6371,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 32,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 587,
-      "Токарев Сергей Владимирович": 28,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 52
+      "gas:candidate-vibid:2482000590623": 32,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 587,
+      "gas:candidate-vibid:2482000586372": 28,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6427,12 +6427,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 17,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 112,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 19
+      "gas:candidate-vibid:2482000590623": 17,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 112,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6483,12 +6483,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 32,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 342,
-      "Токарев Сергей Владимирович": 33,
-      "Трофимов Александр Вадимович": 12,
-      "Хомутинников Олег Георгиевич": 39
+      "gas:candidate-vibid:2482000590623": 32,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 342,
+      "gas:candidate-vibid:2482000586372": 33,
+      "gas:candidate-vibid:2482000600369": 12,
+      "gas:candidate-vibid:2482000580315": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6539,12 +6539,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 19,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 235,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 31
+      "gas:candidate-vibid:2482000590623": 19,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 235,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6595,12 +6595,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 53,
-      "Рожнов Евгений Вячеславович": 21,
-      "Тарасенко Михаил Васильевич": 673,
-      "Токарев Сергей Владимирович": 218,
-      "Трофимов Александр Вадимович": 45,
-      "Хомутинников Олег Георгиевич": 57
+      "gas:candidate-vibid:2482000590623": 53,
+      "gas:candidate-vibid:2482000600384": 21,
+      "gas:candidate-vibid:2482000601951": 673,
+      "gas:candidate-vibid:2482000586372": 218,
+      "gas:candidate-vibid:2482000600369": 45,
+      "gas:candidate-vibid:2482000580315": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6651,12 +6651,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 90,
-      "Рожнов Евгений Вячеславович": 23,
-      "Тарасенко Михаил Васильевич": 380,
-      "Токарев Сергей Владимирович": 169,
-      "Трофимов Александр Вадимович": 40,
-      "Хомутинников Олег Георгиевич": 48
+      "gas:candidate-vibid:2482000590623": 90,
+      "gas:candidate-vibid:2482000600384": 23,
+      "gas:candidate-vibid:2482000601951": 380,
+      "gas:candidate-vibid:2482000586372": 169,
+      "gas:candidate-vibid:2482000600369": 40,
+      "gas:candidate-vibid:2482000580315": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533398&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533398&type=464",
@@ -6707,12 +6707,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 34,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 428,
-      "Токарев Сергей Владимирович": 147,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 26
+      "gas:candidate-vibid:2482000590623": 34,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 428,
+      "gas:candidate-vibid:2482000586372": 147,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -6763,12 +6763,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 266,
-      "Токарев Сергей Владимирович": 97,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 266,
+      "gas:candidate-vibid:2482000586372": 97,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -6819,12 +6819,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 15,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 466,
-      "Токарев Сергей Владимирович": 46,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 22
+      "gas:candidate-vibid:2482000590623": 15,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 466,
+      "gas:candidate-vibid:2482000586372": 46,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -6875,12 +6875,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 776,
-      "Токарев Сергей Владимирович": 191,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 5
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 776,
+      "gas:candidate-vibid:2482000586372": 191,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -6931,12 +6931,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 34,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 432,
-      "Токарев Сергей Владимирович": 139,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 34,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 432,
+      "gas:candidate-vibid:2482000586372": 139,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -6987,12 +6987,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 38,
-      "Токарев Сергей Владимирович": 25,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 38,
+      "gas:candidate-vibid:2482000586372": 25,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7043,12 +7043,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 51,
-      "Рожнов Евгений Вячеславович": 11,
-      "Тарасенко Михаил Васильевич": 231,
-      "Токарев Сергей Владимирович": 84,
-      "Трофимов Александр Вадимович": 31,
-      "Хомутинников Олег Георгиевич": 42
+      "gas:candidate-vibid:2482000590623": 51,
+      "gas:candidate-vibid:2482000600384": 11,
+      "gas:candidate-vibid:2482000601951": 231,
+      "gas:candidate-vibid:2482000586372": 84,
+      "gas:candidate-vibid:2482000600369": 31,
+      "gas:candidate-vibid:2482000580315": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7099,12 +7099,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 204,
-      "Токарев Сергей Владимирович": 66,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 204,
+      "gas:candidate-vibid:2482000586372": 66,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7155,12 +7155,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 161,
-      "Токарев Сергей Владимирович": 31,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 161,
+      "gas:candidate-vibid:2482000586372": 31,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7211,12 +7211,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 567,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 567,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7267,12 +7267,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 28,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 693,
-      "Токарев Сергей Владимирович": 65,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 19
+      "gas:candidate-vibid:2482000590623": 28,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 693,
+      "gas:candidate-vibid:2482000586372": 65,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7323,12 +7323,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 316,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 19
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 316,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7379,12 +7379,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 7,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 277,
-      "Токарев Сергей Владимирович": 6,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 7
+      "gas:candidate-vibid:2482000590623": 7,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 277,
+      "gas:candidate-vibid:2482000586372": 6,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7435,12 +7435,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 2,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 257,
-      "Токарев Сергей Владимирович": 7,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 2,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 257,
+      "gas:candidate-vibid:2482000586372": 7,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7491,12 +7491,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 460,
-      "Токарев Сергей Владимирович": 20,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 7
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 460,
+      "gas:candidate-vibid:2482000586372": 20,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7547,12 +7547,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 165,
-      "Токарев Сергей Владимирович": 2,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 165,
+      "gas:candidate-vibid:2482000586372": 2,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7603,12 +7603,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 399,
-      "Токарев Сергей Владимирович": 25,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 399,
+      "gas:candidate-vibid:2482000586372": 25,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7659,12 +7659,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 2,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 887,
-      "Токарев Сергей Владимирович": 6,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 2,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 887,
+      "gas:candidate-vibid:2482000586372": 6,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7715,12 +7715,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 15,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 417,
-      "Токарев Сергей Владимирович": 57,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 15,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 417,
+      "gas:candidate-vibid:2482000586372": 57,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7771,12 +7771,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 363,
-      "Токарев Сергей Владимирович": 15,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 10
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 363,
+      "gas:candidate-vibid:2482000586372": 15,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7827,12 +7827,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 315,
-      "Токарев Сергей Владимирович": 50,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 315,
+      "gas:candidate-vibid:2482000586372": 50,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7883,12 +7883,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 40,
-      "Рожнов Евгений Вячеславович": 9,
-      "Тарасенко Михаил Васильевич": 583,
-      "Токарев Сергей Владимирович": 77,
-      "Трофимов Александр Вадимович": 21,
-      "Хомутинников Олег Георгиевич": 22
+      "gas:candidate-vibid:2482000590623": 40,
+      "gas:candidate-vibid:2482000600384": 9,
+      "gas:candidate-vibid:2482000601951": 583,
+      "gas:candidate-vibid:2482000586372": 77,
+      "gas:candidate-vibid:2482000600369": 21,
+      "gas:candidate-vibid:2482000580315": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7939,12 +7939,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 283,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 1
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 283,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -7995,12 +7995,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 231,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 231,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8051,12 +8051,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 393,
-      "Токарев Сергей Владимирович": 33,
-      "Трофимов Александр Вадимович": 14,
-      "Хомутинников Олег Георгиевич": 16
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 393,
+      "gas:candidate-vibid:2482000586372": 33,
+      "gas:candidate-vibid:2482000600369": 14,
+      "gas:candidate-vibid:2482000580315": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8107,12 +8107,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 213,
-      "Токарев Сергей Владимирович": 14,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 11
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 213,
+      "gas:candidate-vibid:2482000586372": 14,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8163,12 +8163,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 355,
-      "Токарев Сергей Владимирович": 29,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 355,
+      "gas:candidate-vibid:2482000586372": 29,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8219,12 +8219,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 262,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 262,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8275,12 +8275,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 13,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 311,
-      "Токарев Сергей Владимирович": 14,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 13,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 311,
+      "gas:candidate-vibid:2482000586372": 14,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8331,12 +8331,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 276,
-      "Токарев Сергей Владимирович": 24,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 10
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 276,
+      "gas:candidate-vibid:2482000586372": 24,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8387,12 +8387,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 440,
-      "Токарев Сергей Владимирович": 6,
-      "Трофимов Александр Вадимович": 17,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 440,
+      "gas:candidate-vibid:2482000586372": 6,
+      "gas:candidate-vibid:2482000600369": 17,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8443,12 +8443,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 16,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 662,
-      "Токарев Сергей Владимирович": 90,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 29
+      "gas:candidate-vibid:2482000590623": 16,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 662,
+      "gas:candidate-vibid:2482000586372": 90,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8499,12 +8499,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 2,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 140,
-      "Токарев Сергей Владимирович": 15,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 1
+      "gas:candidate-vibid:2482000590623": 2,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 140,
+      "gas:candidate-vibid:2482000586372": 15,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8555,12 +8555,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 9,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 573,
-      "Токарев Сергей Владимирович": 31,
-      "Трофимов Александр Вадимович": 27,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 9,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 573,
+      "gas:candidate-vibid:2482000586372": 31,
+      "gas:candidate-vibid:2482000600369": 27,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8611,12 +8611,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 1,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 80,
-      "Токарев Сергей Владимирович": 9,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 1,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 80,
+      "gas:candidate-vibid:2482000586372": 9,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8667,12 +8667,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 193,
-      "Токарев Сергей Владимирович": 23,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 193,
+      "gas:candidate-vibid:2482000586372": 23,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8723,12 +8723,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 26,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 777,
-      "Токарев Сергей Владимирович": 129,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 26,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 777,
+      "gas:candidate-vibid:2482000586372": 129,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8779,12 +8779,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 446,
-      "Токарев Сергей Владимирович": 76,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 446,
+      "gas:candidate-vibid:2482000586372": 76,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8835,12 +8835,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 265,
-      "Токарев Сергей Владимирович": 33,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 1
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 265,
+      "gas:candidate-vibid:2482000586372": 33,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8891,12 +8891,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 95,
-      "Токарев Сергей Владимирович": 4,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 5
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 95,
+      "gas:candidate-vibid:2482000586372": 4,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -8947,12 +8947,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 343,
-      "Токарев Сергей Владимирович": 35,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 1
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 343,
+      "gas:candidate-vibid:2482000586372": 35,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -9003,12 +9003,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 2,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 210,
-      "Токарев Сергей Владимирович": 17,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 2,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 210,
+      "gas:candidate-vibid:2482000586372": 17,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -9059,12 +9059,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 42,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 981,
-      "Токарев Сергей Владимирович": 65,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 29
+      "gas:candidate-vibid:2482000590623": 42,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 981,
+      "gas:candidate-vibid:2482000586372": 65,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -9115,12 +9115,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 109,
-      "Токарев Сергей Владимирович": 32,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 1
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 109,
+      "gas:candidate-vibid:2482000586372": 32,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -9171,12 +9171,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 1,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 169,
-      "Токарев Сергей Владимирович": 17,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 1,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 169,
+      "gas:candidate-vibid:2482000586372": 17,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533399&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533399&type=464",
@@ -9227,12 +9227,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 10,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 348,
-      "Токарев Сергей Владимирович": 4,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 7
+      "gas:candidate-vibid:2482000590623": 10,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 348,
+      "gas:candidate-vibid:2482000586372": 4,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9283,12 +9283,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 20,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 191,
-      "Токарев Сергей Владимирович": 24,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 16
+      "gas:candidate-vibid:2482000590623": 20,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 191,
+      "gas:candidate-vibid:2482000586372": 24,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9339,12 +9339,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 18,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 159,
-      "Токарев Сергей Владимирович": 42,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 20
+      "gas:candidate-vibid:2482000590623": 18,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 159,
+      "gas:candidate-vibid:2482000586372": 42,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9395,12 +9395,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 9,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 173,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 16
+      "gas:candidate-vibid:2482000590623": 9,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 173,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9451,12 +9451,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 254,
-      "Токарев Сергей Владимирович": 25,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 7
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 254,
+      "gas:candidate-vibid:2482000586372": 25,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9507,12 +9507,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 94,
-      "Токарев Сергей Владимирович": 8,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 5
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 94,
+      "gas:candidate-vibid:2482000586372": 8,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9563,12 +9563,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 13,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 160,
-      "Токарев Сергей Владимирович": 14,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 11
+      "gas:candidate-vibid:2482000590623": 13,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 160,
+      "gas:candidate-vibid:2482000586372": 14,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9619,12 +9619,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 23,
-      "Рожнов Евгений Вячеславович": 14,
-      "Тарасенко Михаил Васильевич": 255,
-      "Токарев Сергей Владимирович": 20,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 23,
+      "gas:candidate-vibid:2482000600384": 14,
+      "gas:candidate-vibid:2482000601951": 255,
+      "gas:candidate-vibid:2482000586372": 20,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9675,12 +9675,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 13,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 219,
-      "Токарев Сергей Владимирович": 29,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 11
+      "gas:candidate-vibid:2482000590623": 13,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 219,
+      "gas:candidate-vibid:2482000586372": 29,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9731,12 +9731,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 73,
-      "Токарев Сергей Владимирович": 4,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 73,
+      "gas:candidate-vibid:2482000586372": 4,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9787,12 +9787,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 14,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 206,
-      "Токарев Сергей Владимирович": 32,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 14,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 206,
+      "gas:candidate-vibid:2482000586372": 32,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9843,12 +9843,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 9,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 266,
-      "Токарев Сергей Владимирович": 22,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 19
+      "gas:candidate-vibid:2482000590623": 9,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 266,
+      "gas:candidate-vibid:2482000586372": 22,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9899,12 +9899,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 36,
-      "Рожнов Евгений Вячеславович": 14,
-      "Тарасенко Михаил Васильевич": 426,
-      "Токарев Сергей Владимирович": 35,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 20
+      "gas:candidate-vibid:2482000590623": 36,
+      "gas:candidate-vibid:2482000600384": 14,
+      "gas:candidate-vibid:2482000601951": 426,
+      "gas:candidate-vibid:2482000586372": 35,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -9955,12 +9955,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 27,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 178,
-      "Токарев Сергей Владимирович": 44,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 17
+      "gas:candidate-vibid:2482000590623": 27,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 178,
+      "gas:candidate-vibid:2482000586372": 44,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10011,12 +10011,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 1,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 165,
-      "Токарев Сергей Владимирович": 6,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 1,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 165,
+      "gas:candidate-vibid:2482000586372": 6,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10067,12 +10067,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 45,
-      "Токарев Сергей Владимирович": 2,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 45,
+      "gas:candidate-vibid:2482000586372": 2,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10123,12 +10123,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 183,
-      "Токарев Сергей Владимирович": 18,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 183,
+      "gas:candidate-vibid:2482000586372": 18,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10179,12 +10179,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 214,
-      "Токарев Сергей Владимирович": 42,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 27
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 214,
+      "gas:candidate-vibid:2482000586372": 42,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10235,12 +10235,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 87,
-      "Токарев Сергей Владимирович": 11,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 7
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 87,
+      "gas:candidate-vibid:2482000586372": 11,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10291,12 +10291,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 27,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 460,
-      "Токарев Сергей Владимирович": 37,
-      "Трофимов Александр Вадимович": 26,
-      "Хомутинников Олег Георгиевич": 18
+      "gas:candidate-vibid:2482000590623": 27,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 460,
+      "gas:candidate-vibid:2482000586372": 37,
+      "gas:candidate-vibid:2482000600369": 26,
+      "gas:candidate-vibid:2482000580315": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10347,12 +10347,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 14,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 326,
-      "Токарев Сергей Владимирович": 49,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 14
+      "gas:candidate-vibid:2482000590623": 14,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 326,
+      "gas:candidate-vibid:2482000586372": 49,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10403,12 +10403,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 12,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 287,
-      "Токарев Сергей Владимирович": 22,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 15
+      "gas:candidate-vibid:2482000590623": 12,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 287,
+      "gas:candidate-vibid:2482000586372": 22,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10459,12 +10459,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 160,
-      "Токарев Сергей Владимирович": 28,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 8
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 160,
+      "gas:candidate-vibid:2482000586372": 28,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10515,12 +10515,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 28,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 266,
-      "Токарев Сергей Владимирович": 47,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 32
+      "gas:candidate-vibid:2482000590623": 28,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 266,
+      "gas:candidate-vibid:2482000586372": 47,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10571,12 +10571,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 22,
-      "Рожнов Евгений Вячеславович": 9,
-      "Тарасенко Михаил Васильевич": 219,
-      "Токарев Сергей Владимирович": 50,
-      "Трофимов Александр Вадимович": 15,
-      "Хомутинников Олег Георгиевич": 45
+      "gas:candidate-vibid:2482000590623": 22,
+      "gas:candidate-vibid:2482000600384": 9,
+      "gas:candidate-vibid:2482000601951": 219,
+      "gas:candidate-vibid:2482000586372": 50,
+      "gas:candidate-vibid:2482000600369": 15,
+      "gas:candidate-vibid:2482000580315": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10627,12 +10627,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 85,
-      "Рожнов Евгений Вячеславович": 12,
-      "Тарасенко Михаил Васильевич": 514,
-      "Токарев Сергей Владимирович": 222,
-      "Трофимов Александр Вадимович": 22,
-      "Хомутинников Олег Георгиевич": 81
+      "gas:candidate-vibid:2482000590623": 85,
+      "gas:candidate-vibid:2482000600384": 12,
+      "gas:candidate-vibid:2482000601951": 514,
+      "gas:candidate-vibid:2482000586372": 222,
+      "gas:candidate-vibid:2482000600369": 22,
+      "gas:candidate-vibid:2482000580315": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10683,12 +10683,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 86,
-      "Рожнов Евгений Вячеславович": 13,
-      "Тарасенко Михаил Васильевич": 530,
-      "Токарев Сергей Владимирович": 145,
-      "Трофимов Александр Вадимович": 28,
-      "Хомутинников Олег Георгиевич": 83
+      "gas:candidate-vibid:2482000590623": 86,
+      "gas:candidate-vibid:2482000600384": 13,
+      "gas:candidate-vibid:2482000601951": 530,
+      "gas:candidate-vibid:2482000586372": 145,
+      "gas:candidate-vibid:2482000600369": 28,
+      "gas:candidate-vibid:2482000580315": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10739,12 +10739,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 26,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 253,
-      "Токарев Сергей Владимирович": 80,
-      "Трофимов Александр Вадимович": 26,
-      "Хомутинников Олег Георгиевич": 44
+      "gas:candidate-vibid:2482000590623": 26,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 253,
+      "gas:candidate-vibid:2482000586372": 80,
+      "gas:candidate-vibid:2482000600369": 26,
+      "gas:candidate-vibid:2482000580315": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533400&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533400&type=464",
@@ -10795,12 +10795,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 92,
-      "Рожнов Евгений Вячеславович": 19,
-      "Тарасенко Михаил Васильевич": 431,
-      "Токарев Сергей Владимирович": 206,
-      "Трофимов Александр Вадимович": 34,
-      "Хомутинников Олег Георгиевич": 70
+      "gas:candidate-vibid:2482000590623": 92,
+      "gas:candidate-vibid:2482000600384": 19,
+      "gas:candidate-vibid:2482000601951": 431,
+      "gas:candidate-vibid:2482000586372": 206,
+      "gas:candidate-vibid:2482000600369": 34,
+      "gas:candidate-vibid:2482000580315": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -10851,12 +10851,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 79,
-      "Рожнов Евгений Вячеславович": 26,
-      "Тарасенко Михаил Васильевич": 362,
-      "Токарев Сергей Владимирович": 140,
-      "Трофимов Александр Вадимович": 31,
-      "Хомутинников Олег Георгиевич": 72
+      "gas:candidate-vibid:2482000590623": 79,
+      "gas:candidate-vibid:2482000600384": 26,
+      "gas:candidate-vibid:2482000601951": 362,
+      "gas:candidate-vibid:2482000586372": 140,
+      "gas:candidate-vibid:2482000600369": 31,
+      "gas:candidate-vibid:2482000580315": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -10907,12 +10907,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 82,
-      "Рожнов Евгений Вячеславович": 19,
-      "Тарасенко Михаил Васильевич": 354,
-      "Токарев Сергей Владимирович": 158,
-      "Трофимов Александр Вадимович": 32,
-      "Хомутинников Олег Георгиевич": 79
+      "gas:candidate-vibid:2482000590623": 82,
+      "gas:candidate-vibid:2482000600384": 19,
+      "gas:candidate-vibid:2482000601951": 354,
+      "gas:candidate-vibid:2482000586372": 158,
+      "gas:candidate-vibid:2482000600369": 32,
+      "gas:candidate-vibid:2482000580315": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -10963,12 +10963,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 98,
-      "Рожнов Евгений Вячеславович": 14,
-      "Тарасенко Михаил Васильевич": 402,
-      "Токарев Сергей Владимирович": 168,
-      "Трофимов Александр Вадимович": 30,
-      "Хомутинников Олег Георгиевич": 72
+      "gas:candidate-vibid:2482000590623": 98,
+      "gas:candidate-vibid:2482000600384": 14,
+      "gas:candidate-vibid:2482000601951": 402,
+      "gas:candidate-vibid:2482000586372": 168,
+      "gas:candidate-vibid:2482000600369": 30,
+      "gas:candidate-vibid:2482000580315": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11019,12 +11019,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 100,
-      "Рожнов Евгений Вячеславович": 18,
-      "Тарасенко Михаил Васильевич": 389,
-      "Токарев Сергей Владимирович": 146,
-      "Трофимов Александр Вадимович": 24,
-      "Хомутинников Олег Георгиевич": 74
+      "gas:candidate-vibid:2482000590623": 100,
+      "gas:candidate-vibid:2482000600384": 18,
+      "gas:candidate-vibid:2482000601951": 389,
+      "gas:candidate-vibid:2482000586372": 146,
+      "gas:candidate-vibid:2482000600369": 24,
+      "gas:candidate-vibid:2482000580315": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11075,12 +11075,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 20,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 388,
-      "Токарев Сергей Владимирович": 62,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 31
+      "gas:candidate-vibid:2482000590623": 20,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 388,
+      "gas:candidate-vibid:2482000586372": 62,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11131,12 +11131,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 12,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 145,
-      "Токарев Сергей Владимирович": 10,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 12,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 145,
+      "gas:candidate-vibid:2482000586372": 10,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11187,12 +11187,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 155,
-      "Токарев Сергей Владимирович": 19,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 20
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 155,
+      "gas:candidate-vibid:2482000586372": 19,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11243,12 +11243,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 142,
-      "Токарев Сергей Владимирович": 39,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 15
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 142,
+      "gas:candidate-vibid:2482000586372": 39,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11299,12 +11299,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 18,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 144,
-      "Токарев Сергей Владимирович": 31,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 12
+      "gas:candidate-vibid:2482000590623": 18,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 144,
+      "gas:candidate-vibid:2482000586372": 31,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11355,12 +11355,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 10,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 159,
-      "Токарев Сергей Владимирович": 20,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 7
+      "gas:candidate-vibid:2482000590623": 10,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 159,
+      "gas:candidate-vibid:2482000586372": 20,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11411,12 +11411,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 32,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 185,
-      "Токарев Сергей Владимирович": 45,
-      "Трофимов Александр Вадимович": 19,
-      "Хомутинников Олег Георгиевич": 33
+      "gas:candidate-vibid:2482000590623": 32,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 185,
+      "gas:candidate-vibid:2482000586372": 45,
+      "gas:candidate-vibid:2482000600369": 19,
+      "gas:candidate-vibid:2482000580315": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11467,12 +11467,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 23,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 150,
-      "Токарев Сергей Владимирович": 48,
-      "Трофимов Александр Вадимович": 12,
-      "Хомутинников Олег Георгиевич": 18
+      "gas:candidate-vibid:2482000590623": 23,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 150,
+      "gas:candidate-vibid:2482000586372": 48,
+      "gas:candidate-vibid:2482000600369": 12,
+      "gas:candidate-vibid:2482000580315": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11523,12 +11523,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 25,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 162,
-      "Токарев Сергей Владимирович": 55,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 22
+      "gas:candidate-vibid:2482000590623": 25,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 162,
+      "gas:candidate-vibid:2482000586372": 55,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11579,12 +11579,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 19,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 195,
-      "Токарев Сергей Владимирович": 37,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 25
+      "gas:candidate-vibid:2482000590623": 19,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 195,
+      "gas:candidate-vibid:2482000586372": 37,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11635,12 +11635,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 76,
-      "Токарев Сергей Владимирович": 10,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 11
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 76,
+      "gas:candidate-vibid:2482000586372": 10,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11691,12 +11691,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 35,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 431,
-      "Токарев Сергей Владимирович": 58,
-      "Трофимов Александр Вадимович": 23,
-      "Хомутинников Олег Георгиевич": 29
+      "gas:candidate-vibid:2482000590623": 35,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 431,
+      "gas:candidate-vibid:2482000586372": 58,
+      "gas:candidate-vibid:2482000600369": 23,
+      "gas:candidate-vibid:2482000580315": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11747,12 +11747,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 123,
-      "Токарев Сергей Владимирович": 14,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 123,
+      "gas:candidate-vibid:2482000586372": 14,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11803,12 +11803,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 14,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 109,
-      "Токарев Сергей Владимирович": 38,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 14,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 109,
+      "gas:candidate-vibid:2482000586372": 38,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11859,12 +11859,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 20,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 107,
-      "Токарев Сергей Владимирович": 25,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 11
+      "gas:candidate-vibid:2482000590623": 20,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 107,
+      "gas:candidate-vibid:2482000586372": 25,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11915,12 +11915,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 41,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 196,
-      "Токарев Сергей Владимирович": 81,
-      "Трофимов Александр Вадимович": 23,
-      "Хомутинников Олег Георгиевич": 32
+      "gas:candidate-vibid:2482000590623": 41,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 196,
+      "gas:candidate-vibid:2482000586372": 81,
+      "gas:candidate-vibid:2482000600369": 23,
+      "gas:candidate-vibid:2482000580315": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -11971,12 +11971,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 58,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 181,
-      "Токарев Сергей Владимирович": 89,
-      "Трофимов Александр Вадимович": 21,
-      "Хомутинников Олег Георгиевич": 32
+      "gas:candidate-vibid:2482000590623": 58,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 181,
+      "gas:candidate-vibid:2482000586372": 89,
+      "gas:candidate-vibid:2482000600369": 21,
+      "gas:candidate-vibid:2482000580315": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12027,12 +12027,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 23,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 117,
-      "Токарев Сергей Владимирович": 41,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 18
+      "gas:candidate-vibid:2482000590623": 23,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 117,
+      "gas:candidate-vibid:2482000586372": 41,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12083,12 +12083,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 19,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 73,
-      "Токарев Сергей Владимирович": 70,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 18
+      "gas:candidate-vibid:2482000590623": 19,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 73,
+      "gas:candidate-vibid:2482000586372": 70,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12139,12 +12139,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 25,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 195,
-      "Токарев Сергей Владимирович": 59,
-      "Трофимов Александр Вадимович": 12,
-      "Хомутинников Олег Георгиевич": 18
+      "gas:candidate-vibid:2482000590623": 25,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 195,
+      "gas:candidate-vibid:2482000586372": 59,
+      "gas:candidate-vibid:2482000600369": 12,
+      "gas:candidate-vibid:2482000580315": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12195,12 +12195,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 17,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 246,
-      "Токарев Сергей Владимирович": 25,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 19
+      "gas:candidate-vibid:2482000590623": 17,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 246,
+      "gas:candidate-vibid:2482000586372": 25,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12251,12 +12251,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 23,
-      "Рожнов Евгений Вячеславович": 11,
-      "Тарасенко Михаил Васильевич": 233,
-      "Токарев Сергей Владимирович": 40,
-      "Трофимов Александр Вадимович": 19,
-      "Хомутинников Олег Георгиевич": 29
+      "gas:candidate-vibid:2482000590623": 23,
+      "gas:candidate-vibid:2482000600384": 11,
+      "gas:candidate-vibid:2482000601951": 233,
+      "gas:candidate-vibid:2482000586372": 40,
+      "gas:candidate-vibid:2482000600369": 19,
+      "gas:candidate-vibid:2482000580315": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12307,12 +12307,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 13,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 46,
-      "Токарев Сергей Владимирович": 22,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 13,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 46,
+      "gas:candidate-vibid:2482000586372": 22,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12363,12 +12363,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 107,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 107,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12419,12 +12419,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 20,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 130,
-      "Токарев Сергей Владимирович": 37,
-      "Трофимов Александр Вадимович": 11,
-      "Хомутинников Олег Георгиевич": 22
+      "gas:candidate-vibid:2482000590623": 20,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 130,
+      "gas:candidate-vibid:2482000586372": 37,
+      "gas:candidate-vibid:2482000600369": 11,
+      "gas:candidate-vibid:2482000580315": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12475,12 +12475,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 23,
-      "Рожнов Евгений Вячеславович": 6,
-      "Тарасенко Михаил Васильевич": 166,
-      "Токарев Сергей Владимирович": 31,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 11
+      "gas:candidate-vibid:2482000590623": 23,
+      "gas:candidate-vibid:2482000600384": 6,
+      "gas:candidate-vibid:2482000601951": 166,
+      "gas:candidate-vibid:2482000586372": 31,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12531,12 +12531,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 13,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 80,
-      "Токарев Сергей Владимирович": 23,
-      "Трофимов Александр Вадимович": 6,
-      "Хомутинников Олег Георгиевич": 25
+      "gas:candidate-vibid:2482000590623": 13,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 80,
+      "gas:candidate-vibid:2482000586372": 23,
+      "gas:candidate-vibid:2482000600369": 6,
+      "gas:candidate-vibid:2482000580315": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12587,12 +12587,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 12,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 187,
-      "Токарев Сергей Владимирович": 33,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 14
+      "gas:candidate-vibid:2482000590623": 12,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 187,
+      "gas:candidate-vibid:2482000586372": 33,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12643,12 +12643,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 20,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 164,
-      "Токарев Сергей Владимирович": 15,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 9
+      "gas:candidate-vibid:2482000590623": 20,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 164,
+      "gas:candidate-vibid:2482000586372": 15,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12699,12 +12699,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 21,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 337,
-      "Токарев Сергей Владимирович": 32,
-      "Трофимов Александр Вадимович": 10,
-      "Хомутинников Олег Георгиевич": 21
+      "gas:candidate-vibid:2482000590623": 21,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 337,
+      "gas:candidate-vibid:2482000586372": 32,
+      "gas:candidate-vibid:2482000600369": 10,
+      "gas:candidate-vibid:2482000580315": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12755,12 +12755,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 1,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 87,
-      "Токарев Сергей Владимирович": 8,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 1,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 87,
+      "gas:candidate-vibid:2482000586372": 8,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12811,12 +12811,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 8,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 61,
-      "Токарев Сергей Владимирович": 16,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 8
+      "gas:candidate-vibid:2482000590623": 8,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 61,
+      "gas:candidate-vibid:2482000586372": 16,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12867,12 +12867,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 5,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 233,
-      "Токарев Сергей Владимирович": 13,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 14
+      "gas:candidate-vibid:2482000590623": 5,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 233,
+      "gas:candidate-vibid:2482000586372": 13,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12923,12 +12923,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 13,
-      "Рожнов Евгений Вячеславович": 7,
-      "Тарасенко Михаил Васильевич": 113,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 8
+      "gas:candidate-vibid:2482000590623": 13,
+      "gas:candidate-vibid:2482000600384": 7,
+      "gas:candidate-vibid:2482000601951": 113,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -12979,12 +12979,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 18,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 214,
-      "Токарев Сергей Владимирович": 37,
-      "Трофимов Александр Вадимович": 13,
-      "Хомутинников Олег Георгиевич": 16
+      "gas:candidate-vibid:2482000590623": 18,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 214,
+      "gas:candidate-vibid:2482000586372": 37,
+      "gas:candidate-vibid:2482000600369": 13,
+      "gas:candidate-vibid:2482000580315": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13035,12 +13035,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 1,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 72,
-      "Токарев Сергей Владимирович": 6,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 1,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 72,
+      "gas:candidate-vibid:2482000586372": 6,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13091,12 +13091,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 108,
-      "Токарев Сергей Владимирович": 9,
-      "Трофимов Александр Вадимович": 5,
-      "Хомутинников Олег Георгиевич": 5
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 108,
+      "gas:candidate-vibid:2482000586372": 9,
+      "gas:candidate-vibid:2482000600369": 5,
+      "gas:candidate-vibid:2482000580315": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13147,12 +13147,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 6,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 106,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 9,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 6,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 106,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 9,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13203,12 +13203,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 12,
-      "Рожнов Евгений Вячеславович": 5,
-      "Тарасенко Михаил Васильевич": 137,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 8,
-      "Хомутинников Олег Георгиевич": 10
+      "gas:candidate-vibid:2482000590623": 12,
+      "gas:candidate-vibid:2482000600384": 5,
+      "gas:candidate-vibid:2482000601951": 137,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 8,
+      "gas:candidate-vibid:2482000580315": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13259,12 +13259,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 3,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 76,
-      "Токарев Сергей Владимирович": 10,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 3
+      "gas:candidate-vibid:2482000590623": 3,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 76,
+      "gas:candidate-vibid:2482000586372": 10,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13315,12 +13315,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 34,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 321,
-      "Токарев Сергей Владимирович": 52,
-      "Трофимов Александр Вадимович": 19,
-      "Хомутинников Олег Георгиевич": 44
+      "gas:candidate-vibid:2482000590623": 34,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 321,
+      "gas:candidate-vibid:2482000586372": 52,
+      "gas:candidate-vibid:2482000600369": 19,
+      "gas:candidate-vibid:2482000580315": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13371,12 +13371,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 14,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 185,
-      "Токарев Сергей Владимирович": 19,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 12
+      "gas:candidate-vibid:2482000590623": 14,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 185,
+      "gas:candidate-vibid:2482000586372": 19,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13427,12 +13427,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 22,
-      "Рожнов Евгений Вячеславович": 2,
-      "Тарасенко Михаил Васильевич": 186,
-      "Токарев Сергей Владимирович": 29,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 14
+      "gas:candidate-vibid:2482000590623": 22,
+      "gas:candidate-vibid:2482000600384": 2,
+      "gas:candidate-vibid:2482000601951": 186,
+      "gas:candidate-vibid:2482000586372": 29,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13483,12 +13483,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 8,
-      "Тарасенко Михаил Васильевич": 220,
-      "Токарев Сергей Владимирович": 14,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 6
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 8,
+      "gas:candidate-vibid:2482000601951": 220,
+      "gas:candidate-vibid:2482000586372": 14,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13539,12 +13539,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 11,
-      "Рожнов Евгений Вячеславович": 3,
-      "Тарасенко Михаил Васильевич": 138,
-      "Токарев Сергей Владимирович": 16,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 10
+      "gas:candidate-vibid:2482000590623": 11,
+      "gas:candidate-vibid:2482000600384": 3,
+      "gas:candidate-vibid:2482000601951": 138,
+      "gas:candidate-vibid:2482000586372": 16,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533401&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533401&type=464",
@@ -13595,12 +13595,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 13,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 143,
-      "Токарев Сергей Владимирович": 24,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 12
+      "gas:candidate-vibid:2482000590623": 13,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 143,
+      "gas:candidate-vibid:2482000586372": 24,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",
@@ -13651,12 +13651,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 4,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 111,
-      "Токарев Сергей Владимирович": 5,
-      "Трофимов Александр Вадимович": 2,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 4,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 111,
+      "gas:candidate-vibid:2482000586372": 5,
+      "gas:candidate-vibid:2482000600369": 2,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",
@@ -13707,12 +13707,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 7,
-      "Рожнов Евгений Вячеславович": 4,
-      "Тарасенко Михаил Васильевич": 167,
-      "Токарев Сергей Владимирович": 12,
-      "Трофимов Александр Вадимович": 3,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 7,
+      "gas:candidate-vibid:2482000600384": 4,
+      "gas:candidate-vibid:2482000601951": 167,
+      "gas:candidate-vibid:2482000586372": 12,
+      "gas:candidate-vibid:2482000600369": 3,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",
@@ -13763,12 +13763,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 7,
-      "Рожнов Евгений Вячеславович": 10,
-      "Тарасенко Михаил Васильевич": 159,
-      "Токарев Сергей Владимирович": 17,
-      "Трофимов Александр Вадимович": 4,
-      "Хомутинников Олег Георгиевич": 0
+      "gas:candidate-vibid:2482000590623": 7,
+      "gas:candidate-vibid:2482000600384": 10,
+      "gas:candidate-vibid:2482000601951": 159,
+      "gas:candidate-vibid:2482000586372": 17,
+      "gas:candidate-vibid:2482000600369": 4,
+      "gas:candidate-vibid:2482000580315": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",
@@ -13819,12 +13819,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 9,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 62,
-      "Токарев Сергей Владимирович": 21,
-      "Трофимов Александр Вадимович": 7,
-      "Хомутинников Олег Георгиевич": 4
+      "gas:candidate-vibid:2482000590623": 9,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 62,
+      "gas:candidate-vibid:2482000586372": 21,
+      "gas:candidate-vibid:2482000600369": 7,
+      "gas:candidate-vibid:2482000580315": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",
@@ -13875,12 +13875,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 0,
-      "Рожнов Евгений Вячеславович": 0,
-      "Тарасенко Михаил Васильевич": 210,
-      "Токарев Сергей Владимирович": 3,
-      "Трофимов Александр Вадимович": 1,
-      "Хомутинников Олег Георгиевич": 2
+      "gas:candidate-vibid:2482000590623": 0,
+      "gas:candidate-vibid:2482000600384": 0,
+      "gas:candidate-vibid:2482000601951": 210,
+      "gas:candidate-vibid:2482000586372": 3,
+      "gas:candidate-vibid:2482000600369": 1,
+      "gas:candidate-vibid:2482000580315": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",
@@ -13931,12 +13931,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 2,
-      "Рожнов Евгений Вячеславович": 1,
-      "Тарасенко Михаил Васильевич": 84,
-      "Токарев Сергей Владимирович": 8,
-      "Трофимов Александр Вадимович": 0,
-      "Хомутинников Олег Георгиевич": 1
+      "gas:candidate-vibid:2482000590623": 2,
+      "gas:candidate-vibid:2482000600384": 1,
+      "gas:candidate-vibid:2482000601951": 84,
+      "gas:candidate-vibid:2482000586372": 8,
+      "gas:candidate-vibid:2482000600369": 0,
+      "gas:candidate-vibid:2482000580315": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",
@@ -13987,12 +13987,12 @@ export const duma_2016_uik_463_region_48_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ксенофонтова Лариса Васильевна": 25,
-      "Рожнов Евгений Вячеславович": 14,
-      "Тарасенко Михаил Васильевич": 153,
-      "Токарев Сергей Владимирович": 31,
-      "Трофимов Александр Вадимович": 15,
-      "Хомутинников Олег Георгиевич": 13
+      "gas:candidate-vibid:2482000590623": 25,
+      "gas:candidate-vibid:2482000600384": 14,
+      "gas:candidate-vibid:2482000601951": 153,
+      "gas:candidate-vibid:2482000586372": 31,
+      "gas:candidate-vibid:2482000600369": 15,
+      "gas:candidate-vibid:2482000580315": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000152&tvd=2482000533402&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533402&type=464",

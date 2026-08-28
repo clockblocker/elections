@@ -11,6 +11,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187741",
     "tikName": "Бардымская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19301,
@@ -105,6 +108,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187742",
     "tikName": "Звездная",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5189,
@@ -160,6 +166,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187743",
     "tikName": "Частинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9846,
@@ -227,6 +236,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187744",
     "tikName": "Чайковская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78020,
@@ -327,6 +339,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187745",
     "tikName": "Пермь, Ленинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36617,
@@ -406,6 +421,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187746",
     "tikName": "Пермь, Кировская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 98235,
@@ -511,6 +529,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187747",
     "tikName": "Пермь, Дзержинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 120551,
@@ -622,6 +643,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187748",
     "tikName": "Пермская - 58",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50207,
@@ -707,6 +731,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187749",
     "tikName": "Очерская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17933,
@@ -783,6 +810,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187750",
     "tikName": "Оханская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11774,
@@ -846,6 +876,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187751",
     "tikName": "Осинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22805,
@@ -927,6 +960,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187752",
     "tikName": "Куединская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19959,
@@ -1009,6 +1045,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187753",
     "tikName": "Еловская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8147,
@@ -1075,6 +1114,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187754",
     "tikName": "Большесосновская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10270,
@@ -1146,6 +1188,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187756",
     "tikName": "Чусовская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48892,
@@ -1247,6 +1292,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187757",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97026,
@@ -1352,6 +1400,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187758",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 144129,
@@ -1476,6 +1527,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187759",
     "tikName": "Пермская - 59",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 982,
@@ -1527,6 +1581,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187760",
     "tikName": "Лысьвенская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58326,
@@ -1630,6 +1687,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187761",
     "tikName": "Кизеловская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17267,
@@ -1700,6 +1760,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187762",
     "tikName": "Добрянская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44335,
@@ -1794,6 +1857,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187763",
     "tikName": "Губахинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25837,
@@ -1870,6 +1936,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187764",
     "tikName": "Гремячинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9410,
@@ -1935,6 +2004,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187765",
     "tikName": "Горнозаводская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18802,
@@ -2008,6 +2080,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187766",
     "tikName": "Березовская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12444,
@@ -2082,6 +2157,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187767",
     "tikName": "Александровская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22148,
@@ -2154,6 +2232,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187768",
     "tikName": "Пермь, Свердловская № 1",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92115,
@@ -2251,6 +2332,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187769",
     "tikName": "Кунгурская № 1",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33996,
@@ -2352,6 +2436,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187770",
     "tikName": "Чернушинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37944,
@@ -2444,6 +2531,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187771",
     "tikName": "Уинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8600,
@@ -2513,6 +2603,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187772",
     "tikName": "Суксунская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15284,
@@ -2586,6 +2679,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187773",
     "tikName": "Пермь, Свердловская № 2",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69604,
@@ -2678,6 +2774,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187774",
     "tikName": "Пермь, Индустриальная",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 118008,
@@ -2793,6 +2892,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187775",
     "tikName": "Пермская - 60",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42322,
@@ -2871,6 +2973,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187776",
     "tikName": "Ординская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11546,
@@ -2941,6 +3046,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187777",
     "tikName": "Октябрьская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22485,
@@ -3030,6 +3138,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187778",
     "tikName": "Кунгурская № 2",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45320,
@@ -3114,6 +3225,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187779",
     "tikName": "Кишертская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9734,
@@ -3185,6 +3299,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187781",
     "tikName": "Юсьвинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13899,
@@ -3259,6 +3376,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187782",
     "tikName": "Юрлинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7284,
@@ -3326,6 +3446,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187783",
     "tikName": "Кудымкарская городская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21780,
@@ -3395,6 +3518,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187784",
     "tikName": "Кудымкарская муниципальная",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17487,
@@ -3481,6 +3607,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187785",
     "tikName": "Кочевская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8294,
@@ -3552,6 +3681,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187786",
     "tikName": "Косинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5326,
@@ -3615,6 +3747,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187787",
     "tikName": "Гайнская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10408,
@@ -3684,6 +3819,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187788",
     "tikName": "Чердынская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13908,
@@ -3754,6 +3892,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187789",
     "tikName": "Соликамская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77719,
@@ -3865,6 +4006,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187790",
     "tikName": "Сивинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11171,
@@ -3935,6 +4079,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187791",
     "tikName": "Нытвенская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34786,
@@ -4019,6 +4166,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187792",
     "tikName": "Краснокамская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53963,
@@ -4110,6 +4260,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187793",
     "tikName": "Красновишерская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16009,
@@ -4188,6 +4341,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187794",
     "tikName": "Карагайская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16687,
@@ -4264,6 +4420,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187795",
     "tikName": "Ильинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14274,
@@ -4342,6 +4501,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187796",
     "tikName": "Верещагинская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30790,
@@ -4427,6 +4589,9 @@ export const duma_2021_tic_233_region_90 = [
     "ballot": "party",
     "tikTvd": "25920002187797",
     "tikName": "Березниковская",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119683,

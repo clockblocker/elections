@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 43,
-      "Виноградов Андрей Павлович": 263,
-      "Максимов Анатолий Викторович": 24,
-      "Хомченко Алексей Владиславович": 34,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 416,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136168": 43,
+      "gas:candidate-vibid:1001000226021": 263,
+      "gas:candidate-vibid:279200066952": 24,
+      "gas:candidate-vibid:1001000112288": 34,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 416,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 92,
-      "Виноградов Андрей Павлович": 166,
-      "Максимов Анатолий Викторович": 27,
-      "Хомченко Алексей Владиславович": 33,
-      "Шиманович Евгений Борисович": 14,
-      "Штогрин Сергей Иванович": 221,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136168": 92,
+      "gas:candidate-vibid:1001000226021": 166,
+      "gas:candidate-vibid:279200066952": 27,
+      "gas:candidate-vibid:1001000112288": 33,
+      "gas:candidate-vibid:279200066907": 14,
+      "gas:candidate-vibid:1001000121950": 221,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 13,
-      "Виноградов Андрей Павлович": 210,
-      "Максимов Анатолий Викторович": 13,
-      "Хомченко Алексей Владиславович": 18,
-      "Шиманович Евгений Борисович": 8,
-      "Штогрин Сергей Иванович": 198,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136168": 13,
+      "gas:candidate-vibid:1001000226021": 210,
+      "gas:candidate-vibid:279200066952": 13,
+      "gas:candidate-vibid:1001000112288": 18,
+      "gas:candidate-vibid:279200066907": 8,
+      "gas:candidate-vibid:1001000121950": 198,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 20,
-      "Виноградов Андрей Павлович": 195,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 24,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 170,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136168": 20,
+      "gas:candidate-vibid:1001000226021": 195,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 24,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 170,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 7,
-      "Виноградов Андрей Павлович": 135,
-      "Максимов Анатолий Викторович": 5,
-      "Хомченко Алексей Владиславович": 7,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 101,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136168": 7,
+      "gas:candidate-vibid:1001000226021": 135,
+      "gas:candidate-vibid:279200066952": 5,
+      "gas:candidate-vibid:1001000112288": 7,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 101,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 15,
-      "Виноградов Андрей Павлович": 215,
-      "Максимов Анатолий Викторович": 6,
-      "Хомченко Алексей Владиславович": 6,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 73,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136168": 15,
+      "gas:candidate-vibid:1001000226021": 215,
+      "gas:candidate-vibid:279200066952": 6,
+      "gas:candidate-vibid:1001000112288": 6,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 73,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 34,
-      "Виноградов Андрей Павлович": 307,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 16,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 229,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136168": 34,
+      "gas:candidate-vibid:1001000226021": 307,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 16,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 229,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 0,
-      "Виноградов Андрей Павлович": 67,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 36,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136168": 0,
+      "gas:candidate-vibid:1001000226021": 67,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 36,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 1,
-      "Виноградов Андрей Павлович": 67,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 0,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 20,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136168": 1,
+      "gas:candidate-vibid:1001000226021": 67,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 0,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 20,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 4,
-      "Виноградов Андрей Павлович": 71,
-      "Максимов Анатолий Викторович": 6,
-      "Хомченко Алексей Владиславович": 5,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 65,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136168": 4,
+      "gas:candidate-vibid:1001000226021": 71,
+      "gas:candidate-vibid:279200066952": 6,
+      "gas:candidate-vibid:1001000112288": 5,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 65,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 21,
-      "Виноградов Андрей Павлович": 332,
-      "Максимов Анатолий Викторович": 9,
-      "Хомченко Алексей Владиславович": 11,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 215,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136168": 21,
+      "gas:candidate-vibid:1001000226021": 332,
+      "gas:candidate-vibid:279200066952": 9,
+      "gas:candidate-vibid:1001000112288": 11,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 215,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 14,
-      "Виноградов Андрей Павлович": 189,
-      "Максимов Анатолий Викторович": 3,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 95,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136168": 14,
+      "gas:candidate-vibid:1001000226021": 189,
+      "gas:candidate-vibid:279200066952": 3,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 95,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 4,
-      "Виноградов Андрей Павлович": 80,
-      "Максимов Анатолий Викторович": 3,
-      "Хомченко Алексей Владиславович": 2,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 87,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136168": 4,
+      "gas:candidate-vibid:1001000226021": 80,
+      "gas:candidate-vibid:279200066952": 3,
+      "gas:candidate-vibid:1001000112288": 2,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 87,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 8,
-      "Виноградов Андрей Павлович": 200,
-      "Максимов Анатолий Викторович": 20,
-      "Хомченко Алексей Владиславович": 12,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 264,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136168": 8,
+      "gas:candidate-vibid:1001000226021": 200,
+      "gas:candidate-vibid:279200066952": 20,
+      "gas:candidate-vibid:1001000112288": 12,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 264,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 3,
-      "Виноградов Андрей Павлович": 118,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 59,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136168": 3,
+      "gas:candidate-vibid:1001000226021": 118,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 59,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 4,
-      "Виноградов Андрей Павлович": 85,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 2,
-      "Шиманович Евгений Борисович": 0,
-      "Штогрин Сергей Иванович": 57,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136168": 4,
+      "gas:candidate-vibid:1001000226021": 85,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 2,
+      "gas:candidate-vibid:279200066907": 0,
+      "gas:candidate-vibid:1001000121950": 57,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 4,
-      "Виноградов Андрей Павлович": 137,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 5,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 64,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136168": 4,
+      "gas:candidate-vibid:1001000226021": 137,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 5,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 64,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 3,
-      "Виноградов Андрей Павлович": 23,
-      "Максимов Анатолий Викторович": 3,
-      "Хомченко Алексей Владиславович": 10,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 78,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136168": 3,
+      "gas:candidate-vibid:1001000226021": 23,
+      "gas:candidate-vibid:279200066952": 3,
+      "gas:candidate-vibid:1001000112288": 10,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 78,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 2,
-      "Виноградов Андрей Павлович": 94,
-      "Максимов Анатолий Викторович": 3,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 80,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136168": 2,
+      "gas:candidate-vibid:1001000226021": 94,
+      "gas:candidate-vibid:279200066952": 3,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 80,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066697&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 18,
-      "Виноградов Андрей Павлович": 78,
-      "Максимов Анатолий Викторович": 7,
-      "Хомченко Алексей Владиславович": 18,
-      "Шиманович Евгений Борисович": 7,
-      "Штогрин Сергей Иванович": 169,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136168": 18,
+      "gas:candidate-vibid:1001000226021": 78,
+      "gas:candidate-vibid:279200066952": 7,
+      "gas:candidate-vibid:1001000112288": 18,
+      "gas:candidate-vibid:279200066907": 7,
+      "gas:candidate-vibid:1001000121950": 169,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 7,
-      "Виноградов Андрей Павлович": 73,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 4,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 132,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136168": 7,
+      "gas:candidate-vibid:1001000226021": 73,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 4,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 132,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 38,
-      "Виноградов Андрей Павлович": 244,
-      "Максимов Анатолий Викторович": 17,
-      "Хомченко Алексей Владиславович": 35,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 382,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136168": 38,
+      "gas:candidate-vibid:1001000226021": 244,
+      "gas:candidate-vibid:279200066952": 17,
+      "gas:candidate-vibid:1001000112288": 35,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 382,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 36,
-      "Виноградов Андрей Павлович": 228,
-      "Максимов Анатолий Викторович": 22,
-      "Хомченко Алексей Владиславович": 62,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 386,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136168": 36,
+      "gas:candidate-vibid:1001000226021": 228,
+      "gas:candidate-vibid:279200066952": 22,
+      "gas:candidate-vibid:1001000112288": 62,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 386,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 35,
-      "Виноградов Андрей Павлович": 192,
-      "Максимов Анатолий Викторович": 23,
-      "Хомченко Алексей Владиславович": 25,
-      "Шиманович Евгений Борисович": 14,
-      "Штогрин Сергей Иванович": 381,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136168": 35,
+      "gas:candidate-vibid:1001000226021": 192,
+      "gas:candidate-vibid:279200066952": 23,
+      "gas:candidate-vibid:1001000112288": 25,
+      "gas:candidate-vibid:279200066907": 14,
+      "gas:candidate-vibid:1001000121950": 381,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 44,
-      "Виноградов Андрей Павлович": 118,
-      "Максимов Анатолий Викторович": 17,
-      "Хомченко Алексей Владиславович": 22,
-      "Шиманович Евгений Борисович": 15,
-      "Штогрин Сергей Иванович": 240,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136168": 44,
+      "gas:candidate-vibid:1001000226021": 118,
+      "gas:candidate-vibid:279200066952": 17,
+      "gas:candidate-vibid:1001000112288": 22,
+      "gas:candidate-vibid:279200066907": 15,
+      "gas:candidate-vibid:1001000121950": 240,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 35,
-      "Виноградов Андрей Павлович": 113,
-      "Максимов Анатолий Викторович": 13,
-      "Хомченко Алексей Владиславович": 21,
-      "Шиманович Евгений Борисович": 9,
-      "Штогрин Сергей Иванович": 289,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136168": 35,
+      "gas:candidate-vibid:1001000226021": 113,
+      "gas:candidate-vibid:279200066952": 13,
+      "gas:candidate-vibid:1001000112288": 21,
+      "gas:candidate-vibid:279200066907": 9,
+      "gas:candidate-vibid:1001000121950": 289,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 83,
-      "Виноградов Андрей Павлович": 88,
-      "Максимов Анатолий Викторович": 23,
-      "Хомченко Алексей Владиславович": 22,
-      "Шиманович Евгений Борисович": 21,
-      "Штогрин Сергей Иванович": 215,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136168": 83,
+      "gas:candidate-vibid:1001000226021": 88,
+      "gas:candidate-vibid:279200066952": 23,
+      "gas:candidate-vibid:1001000112288": 22,
+      "gas:candidate-vibid:279200066907": 21,
+      "gas:candidate-vibid:1001000121950": 215,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 100,
-      "Виноградов Андрей Павлович": 207,
-      "Максимов Анатолий Викторович": 21,
-      "Хомченко Алексей Владиславович": 27,
-      "Шиманович Евгений Борисович": 27,
-      "Штогрин Сергей Иванович": 277,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000136168": 100,
+      "gas:candidate-vibid:1001000226021": 207,
+      "gas:candidate-vibid:279200066952": 21,
+      "gas:candidate-vibid:1001000112288": 27,
+      "gas:candidate-vibid:279200066907": 27,
+      "gas:candidate-vibid:1001000121950": 277,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 10,
-      "Виноградов Андрей Павлович": 44,
-      "Максимов Анатолий Викторович": 5,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 42,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136168": 10,
+      "gas:candidate-vibid:1001000226021": 44,
+      "gas:candidate-vibid:279200066952": 5,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 42,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 43,
-      "Виноградов Андрей Павлович": 79,
-      "Максимов Анатолий Викторович": 19,
-      "Хомченко Алексей Владиславович": 11,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 247,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136168": 43,
+      "gas:candidate-vibid:1001000226021": 79,
+      "gas:candidate-vibid:279200066952": 19,
+      "gas:candidate-vibid:1001000112288": 11,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 247,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 65,
-      "Виноградов Андрей Павлович": 79,
-      "Максимов Анатолий Викторович": 11,
-      "Хомченко Алексей Владиславович": 13,
-      "Шиманович Евгений Борисович": 26,
-      "Штогрин Сергей Иванович": 321,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136168": 65,
+      "gas:candidate-vibid:1001000226021": 79,
+      "gas:candidate-vibid:279200066952": 11,
+      "gas:candidate-vibid:1001000112288": 13,
+      "gas:candidate-vibid:279200066907": 26,
+      "gas:candidate-vibid:1001000121950": 321,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 20,
-      "Виноградов Андрей Павлович": 36,
-      "Максимов Анатолий Викторович": 9,
-      "Хомченко Алексей Владиславович": 10,
-      "Шиманович Евгений Борисович": 12,
-      "Штогрин Сергей Иванович": 266,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136168": 20,
+      "gas:candidate-vibid:1001000226021": 36,
+      "gas:candidate-vibid:279200066952": 9,
+      "gas:candidate-vibid:1001000112288": 10,
+      "gas:candidate-vibid:279200066907": 12,
+      "gas:candidate-vibid:1001000121950": 266,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 73,
-      "Виноградов Андрей Павлович": 160,
-      "Максимов Анатолий Викторович": 25,
-      "Хомченко Алексей Владиславович": 29,
-      "Шиманович Евгений Борисович": 28,
-      "Штогрин Сергей Иванович": 180,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136168": 73,
+      "gas:candidate-vibid:1001000226021": 160,
+      "gas:candidate-vibid:279200066952": 25,
+      "gas:candidate-vibid:1001000112288": 29,
+      "gas:candidate-vibid:279200066907": 28,
+      "gas:candidate-vibid:1001000121950": 180,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 74,
-      "Виноградов Андрей Павлович": 196,
-      "Максимов Анатолий Викторович": 28,
-      "Хомченко Алексей Владиславович": 24,
-      "Шиманович Евгений Борисович": 13,
-      "Штогрин Сергей Иванович": 253,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136168": 74,
+      "gas:candidate-vibid:1001000226021": 196,
+      "gas:candidate-vibid:279200066952": 28,
+      "gas:candidate-vibid:1001000112288": 24,
+      "gas:candidate-vibid:279200066907": 13,
+      "gas:candidate-vibid:1001000121950": 253,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 82,
-      "Виноградов Андрей Павлович": 191,
-      "Максимов Анатолий Викторович": 23,
-      "Хомченко Алексей Владиславович": 35,
-      "Шиманович Евгений Борисович": 22,
-      "Штогрин Сергей Иванович": 238,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000136168": 82,
+      "gas:candidate-vibid:1001000226021": 191,
+      "gas:candidate-vibid:279200066952": 23,
+      "gas:candidate-vibid:1001000112288": 35,
+      "gas:candidate-vibid:279200066907": 22,
+      "gas:candidate-vibid:1001000121950": 238,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 80,
-      "Виноградов Андрей Павлович": 173,
-      "Максимов Анатолий Викторович": 34,
-      "Хомченко Алексей Владиславович": 38,
-      "Шиманович Евгений Борисович": 34,
-      "Штогрин Сергей Иванович": 194,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136168": 80,
+      "gas:candidate-vibid:1001000226021": 173,
+      "gas:candidate-vibid:279200066952": 34,
+      "gas:candidate-vibid:1001000112288": 38,
+      "gas:candidate-vibid:279200066907": 34,
+      "gas:candidate-vibid:1001000121950": 194,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 86,
-      "Виноградов Андрей Павлович": 147,
-      "Максимов Анатолий Викторович": 18,
-      "Хомченко Алексей Владиславович": 35,
-      "Шиманович Евгений Борисович": 25,
-      "Штогрин Сергей Иванович": 230,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136168": 86,
+      "gas:candidate-vibid:1001000226021": 147,
+      "gas:candidate-vibid:279200066952": 18,
+      "gas:candidate-vibid:1001000112288": 35,
+      "gas:candidate-vibid:279200066907": 25,
+      "gas:candidate-vibid:1001000121950": 230,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 66,
-      "Виноградов Андрей Павлович": 200,
-      "Максимов Анатолий Викторович": 29,
-      "Хомченко Алексей Владиславович": 23,
-      "Шиманович Евгений Борисович": 22,
-      "Штогрин Сергей Иванович": 170,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136168": 66,
+      "gas:candidate-vibid:1001000226021": 200,
+      "gas:candidate-vibid:279200066952": 29,
+      "gas:candidate-vibid:1001000112288": 23,
+      "gas:candidate-vibid:279200066907": 22,
+      "gas:candidate-vibid:1001000121950": 170,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 10,
-      "Виноградов Андрей Павлович": 21,
-      "Максимов Анатолий Викторович": 6,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 6,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136168": 10,
+      "gas:candidate-vibid:1001000226021": 21,
+      "gas:candidate-vibid:279200066952": 6,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 6,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 40,
-      "Виноградов Андрей Павлович": 105,
-      "Максимов Анатолий Викторович": 10,
-      "Хомченко Алексей Владиславович": 18,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 303,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136168": 40,
+      "gas:candidate-vibid:1001000226021": 105,
+      "gas:candidate-vibid:279200066952": 10,
+      "gas:candidate-vibid:1001000112288": 18,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 303,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066698&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 13,
-      "Виноградов Андрей Павлович": 49,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 4,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 131,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136168": 13,
+      "gas:candidate-vibid:1001000226021": 49,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 4,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 131,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 1,
-      "Виноградов Андрей Павлович": 25,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 0,
-      "Шиманович Евгений Борисович": 0,
-      "Штогрин Сергей Иванович": 67,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136168": 1,
+      "gas:candidate-vibid:1001000226021": 25,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 0,
+      "gas:candidate-vibid:279200066907": 0,
+      "gas:candidate-vibid:1001000121950": 67,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 10,
-      "Виноградов Андрей Павлович": 70,
-      "Максимов Анатолий Викторович": 6,
-      "Хомченко Алексей Владиславович": 10,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 158,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136168": 10,
+      "gas:candidate-vibid:1001000226021": 70,
+      "gas:candidate-vibid:279200066952": 6,
+      "gas:candidate-vibid:1001000112288": 10,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 158,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 62,
-      "Виноградов Андрей Павлович": 192,
-      "Максимов Анатолий Викторович": 11,
-      "Хомченко Алексей Владиславович": 13,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 375,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136168": 62,
+      "gas:candidate-vibid:1001000226021": 192,
+      "gas:candidate-vibid:279200066952": 11,
+      "gas:candidate-vibid:1001000112288": 13,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 375,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 4,
-      "Виноградов Андрей Павлович": 27,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 0,
-      "Штогрин Сергей Иванович": 77,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136168": 4,
+      "gas:candidate-vibid:1001000226021": 27,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 0,
+      "gas:candidate-vibid:1001000121950": 77,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 11,
-      "Виноградов Андрей Павлович": 64,
-      "Максимов Анатолий Викторович": 6,
-      "Хомченко Алексей Владиславович": 7,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 117,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136168": 11,
+      "gas:candidate-vibid:1001000226021": 64,
+      "gas:candidate-vibid:279200066952": 6,
+      "gas:candidate-vibid:1001000112288": 7,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 117,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 9,
-      "Виноградов Андрей Павлович": 27,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 0,
-      "Штогрин Сергей Иванович": 34,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136168": 9,
+      "gas:candidate-vibid:1001000226021": 27,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 0,
+      "gas:candidate-vibid:1001000121950": 34,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 110,
-      "Виноградов Андрей Павлович": 242,
-      "Максимов Анатолий Викторович": 18,
-      "Хомченко Алексей Владиславович": 26,
-      "Шиманович Евгений Борисович": 35,
-      "Штогрин Сергей Иванович": 435,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136168": 110,
+      "gas:candidate-vibid:1001000226021": 242,
+      "gas:candidate-vibid:279200066952": 18,
+      "gas:candidate-vibid:1001000112288": 26,
+      "gas:candidate-vibid:279200066907": 35,
+      "gas:candidate-vibid:1001000121950": 435,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 82,
-      "Виноградов Андрей Павлович": 226,
-      "Максимов Анатолий Викторович": 19,
-      "Хомченко Алексей Владиславович": 22,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 343,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136168": 82,
+      "gas:candidate-vibid:1001000226021": 226,
+      "gas:candidate-vibid:279200066952": 19,
+      "gas:candidate-vibid:1001000112288": 22,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 343,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 106,
-      "Виноградов Андрей Павлович": 318,
-      "Максимов Анатолий Викторович": 19,
-      "Хомченко Алексей Владиславович": 30,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 848,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136168": 106,
+      "gas:candidate-vibid:1001000226021": 318,
+      "gas:candidate-vibid:279200066952": 19,
+      "gas:candidate-vibid:1001000112288": 30,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 848,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 26,
-      "Виноградов Андрей Павлович": 141,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 11,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 228,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136168": 26,
+      "gas:candidate-vibid:1001000226021": 141,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 11,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 228,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 12,
-      "Виноградов Андрей Павлович": 102,
-      "Максимов Анатолий Викторович": 7,
-      "Хомченко Алексей Владиславович": 7,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 195,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136168": 12,
+      "gas:candidate-vibid:1001000226021": 102,
+      "gas:candidate-vibid:279200066952": 7,
+      "gas:candidate-vibid:1001000112288": 7,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 195,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 23,
-      "Виноградов Андрей Павлович": 89,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 8,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 305,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136168": 23,
+      "gas:candidate-vibid:1001000226021": 89,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 8,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 305,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 4,
-      "Виноградов Андрей Павлович": 16,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 0,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 104,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136168": 4,
+      "gas:candidate-vibid:1001000226021": 16,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 0,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 104,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 0,
-      "Виноградов Андрей Павлович": 16,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 131,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136168": 0,
+      "gas:candidate-vibid:1001000226021": 16,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 131,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 11,
-      "Виноградов Андрей Павлович": 68,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 217,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136168": 11,
+      "gas:candidate-vibid:1001000226021": 68,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 217,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 19,
-      "Виноградов Андрей Павлович": 81,
-      "Максимов Анатолий Викторович": 7,
-      "Хомченко Алексей Владиславович": 16,
-      "Шиманович Евгений Борисович": 9,
-      "Штогрин Сергей Иванович": 541,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136168": 19,
+      "gas:candidate-vibid:1001000226021": 81,
+      "gas:candidate-vibid:279200066952": 7,
+      "gas:candidate-vibid:1001000112288": 16,
+      "gas:candidate-vibid:279200066907": 9,
+      "gas:candidate-vibid:1001000121950": 541,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 5,
-      "Виноградов Андрей Павлович": 32,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 5,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 143,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136168": 5,
+      "gas:candidate-vibid:1001000226021": 32,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 5,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 143,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 5,
-      "Виноградов Андрей Павлович": 35,
-      "Максимов Анатолий Викторович": 5,
-      "Хомченко Алексей Владиславович": 4,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 144,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136168": 5,
+      "gas:candidate-vibid:1001000226021": 35,
+      "gas:candidate-vibid:279200066952": 5,
+      "gas:candidate-vibid:1001000112288": 4,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 144,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 5,
-      "Виноградов Андрей Павлович": 38,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 5,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 251,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136168": 5,
+      "gas:candidate-vibid:1001000226021": 38,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 5,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 251,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 2,
-      "Виноградов Андрей Павлович": 64,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 228,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136168": 2,
+      "gas:candidate-vibid:1001000226021": 64,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 228,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 13,
-      "Виноградов Андрей Павлович": 69,
-      "Максимов Анатолий Викторович": 17,
-      "Хомченко Алексей Владиславович": 8,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 256,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136168": 13,
+      "gas:candidate-vibid:1001000226021": 69,
+      "gas:candidate-vibid:279200066952": 17,
+      "gas:candidate-vibid:1001000112288": 8,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 256,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 6,
-      "Виноградов Андрей Павлович": 27,
-      "Максимов Анатолий Викторович": 12,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 165,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136168": 6,
+      "gas:candidate-vibid:1001000226021": 27,
+      "gas:candidate-vibid:279200066952": 12,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 165,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 3,
-      "Виноградов Андрей Павлович": 11,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 0,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 72,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136168": 3,
+      "gas:candidate-vibid:1001000226021": 11,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 0,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 72,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 2,
-      "Виноградов Андрей Павлович": 14,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 38,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136168": 2,
+      "gas:candidate-vibid:1001000226021": 14,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 38,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 110,
-      "Виноградов Андрей Павлович": 300,
-      "Максимов Анатолий Викторович": 58,
-      "Хомченко Алексей Владиславович": 39,
-      "Шиманович Евгений Борисович": 36,
-      "Штогрин Сергей Иванович": 160,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136168": 110,
+      "gas:candidate-vibid:1001000226021": 300,
+      "gas:candidate-vibid:279200066952": 58,
+      "gas:candidate-vibid:1001000112288": 39,
+      "gas:candidate-vibid:279200066907": 36,
+      "gas:candidate-vibid:1001000121950": 160,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066699&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 42,
-      "Виноградов Андрей Павлович": 114,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 11,
-      "Шиманович Евгений Борисович": 8,
-      "Штогрин Сергей Иванович": 116,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136168": 42,
+      "gas:candidate-vibid:1001000226021": 114,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 11,
+      "gas:candidate-vibid:279200066907": 8,
+      "gas:candidate-vibid:1001000121950": 116,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 27,
-      "Виноградов Андрей Павлович": 96,
-      "Максимов Анатолий Викторович": 13,
-      "Хомченко Алексей Владиславович": 25,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 126,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136168": 27,
+      "gas:candidate-vibid:1001000226021": 96,
+      "gas:candidate-vibid:279200066952": 13,
+      "gas:candidate-vibid:1001000112288": 25,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 126,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 40,
-      "Виноградов Андрей Павлович": 140,
-      "Максимов Анатолий Викторович": 16,
-      "Хомченко Алексей Владиславович": 40,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 250,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136168": 40,
+      "gas:candidate-vibid:1001000226021": 140,
+      "gas:candidate-vibid:279200066952": 16,
+      "gas:candidate-vibid:1001000112288": 40,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 250,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 58,
-      "Виноградов Андрей Павлович": 209,
-      "Максимов Анатолий Викторович": 18,
-      "Хомченко Алексей Владиславович": 56,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 379,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136168": 58,
+      "gas:candidate-vibid:1001000226021": 209,
+      "gas:candidate-vibid:279200066952": 18,
+      "gas:candidate-vibid:1001000112288": 56,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 379,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 29,
-      "Виноградов Андрей Павлович": 116,
-      "Максимов Анатолий Викторович": 16,
-      "Хомченко Алексей Владиславович": 40,
-      "Шиманович Евгений Борисович": 14,
-      "Штогрин Сергей Иванович": 181,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136168": 29,
+      "gas:candidate-vibid:1001000226021": 116,
+      "gas:candidate-vibid:279200066952": 16,
+      "gas:candidate-vibid:1001000112288": 40,
+      "gas:candidate-vibid:279200066907": 14,
+      "gas:candidate-vibid:1001000121950": 181,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 21,
-      "Виноградов Андрей Павлович": 92,
-      "Максимов Анатолий Викторович": 12,
-      "Хомченко Алексей Владиславович": 23,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 114,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136168": 21,
+      "gas:candidate-vibid:1001000226021": 92,
+      "gas:candidate-vibid:279200066952": 12,
+      "gas:candidate-vibid:1001000112288": 23,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 114,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 22,
-      "Виноградов Андрей Павлович": 72,
-      "Максимов Анатолий Викторович": 6,
-      "Хомченко Алексей Владиславович": 13,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 138,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136168": 22,
+      "gas:candidate-vibid:1001000226021": 72,
+      "gas:candidate-vibid:279200066952": 6,
+      "gas:candidate-vibid:1001000112288": 13,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 138,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 34,
-      "Виноградов Андрей Павлович": 96,
-      "Максимов Анатолий Викторович": 15,
-      "Хомченко Алексей Владиславович": 29,
-      "Шиманович Евгений Борисович": 7,
-      "Штогрин Сергей Иванович": 139,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136168": 34,
+      "gas:candidate-vibid:1001000226021": 96,
+      "gas:candidate-vibid:279200066952": 15,
+      "gas:candidate-vibid:1001000112288": 29,
+      "gas:candidate-vibid:279200066907": 7,
+      "gas:candidate-vibid:1001000121950": 139,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 51,
-      "Виноградов Андрей Павлович": 284,
-      "Максимов Анатолий Викторович": 23,
-      "Хомченко Алексей Владиславович": 40,
-      "Шиманович Евгений Борисович": 20,
-      "Штогрин Сергей Иванович": 445,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136168": 51,
+      "gas:candidate-vibid:1001000226021": 284,
+      "gas:candidate-vibid:279200066952": 23,
+      "gas:candidate-vibid:1001000112288": 40,
+      "gas:candidate-vibid:279200066907": 20,
+      "gas:candidate-vibid:1001000121950": 445,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 17,
-      "Виноградов Андрей Павлович": 107,
-      "Максимов Анатолий Викторович": 10,
-      "Хомченко Алексей Владиславович": 9,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 192,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136168": 17,
+      "gas:candidate-vibid:1001000226021": 107,
+      "gas:candidate-vibid:279200066952": 10,
+      "gas:candidate-vibid:1001000112288": 9,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 192,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 5,
-      "Виноградов Андрей Павлович": 36,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 2,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 38,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136168": 5,
+      "gas:candidate-vibid:1001000226021": 36,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 2,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 38,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 9,
-      "Виноградов Андрей Павлович": 79,
-      "Максимов Анатолий Викторович": 5,
-      "Хомченко Алексей Владиславович": 6,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 39,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136168": 9,
+      "gas:candidate-vibid:1001000226021": 79,
+      "gas:candidate-vibid:279200066952": 5,
+      "gas:candidate-vibid:1001000112288": 6,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 39,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 13,
-      "Виноградов Андрей Павлович": 96,
-      "Максимов Анатолий Викторович": 9,
-      "Хомченко Алексей Владиславович": 6,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 64,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136168": 13,
+      "gas:candidate-vibid:1001000226021": 96,
+      "gas:candidate-vibid:279200066952": 9,
+      "gas:candidate-vibid:1001000112288": 6,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 64,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 6,
-      "Виноградов Андрей Павлович": 43,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 0,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 11,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136168": 6,
+      "gas:candidate-vibid:1001000226021": 43,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 0,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 11,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 14,
-      "Виноградов Андрей Павлович": 185,
-      "Максимов Анатолий Викторович": 7,
-      "Хомченко Алексей Владиславович": 13,
-      "Шиманович Евгений Борисович": 12,
-      "Штогрин Сергей Иванович": 157,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136168": 14,
+      "gas:candidate-vibid:1001000226021": 185,
+      "gas:candidate-vibid:279200066952": 7,
+      "gas:candidate-vibid:1001000112288": 13,
+      "gas:candidate-vibid:279200066907": 12,
+      "gas:candidate-vibid:1001000121950": 157,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 0,
-      "Виноградов Андрей Павлович": 12,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 0,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 77,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136168": 0,
+      "gas:candidate-vibid:1001000226021": 12,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 0,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 77,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 33,
-      "Виноградов Андрей Павлович": 203,
-      "Максимов Анатолий Викторович": 23,
-      "Хомченко Алексей Владиславович": 35,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 369,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000136168": 33,
+      "gas:candidate-vibid:1001000226021": 203,
+      "gas:candidate-vibid:279200066952": 23,
+      "gas:candidate-vibid:1001000112288": 35,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 369,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 42,
-      "Виноградов Андрей Павлович": 192,
-      "Максимов Анатолий Викторович": 16,
-      "Хомченко Алексей Владиславович": 28,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 287,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136168": 42,
+      "gas:candidate-vibid:1001000226021": 192,
+      "gas:candidate-vibid:279200066952": 16,
+      "gas:candidate-vibid:1001000112288": 28,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 287,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 11,
-      "Виноградов Андрей Павлович": 76,
-      "Максимов Анатолий Викторович": 3,
-      "Хомченко Алексей Владиславович": 6,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 57,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136168": 11,
+      "gas:candidate-vibid:1001000226021": 76,
+      "gas:candidate-vibid:279200066952": 3,
+      "gas:candidate-vibid:1001000112288": 6,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 57,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 38,
-      "Виноградов Андрей Павлович": 171,
-      "Максимов Анатолий Викторович": 21,
-      "Хомченко Алексей Владиславович": 31,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 336,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136168": 38,
+      "gas:candidate-vibid:1001000226021": 171,
+      "gas:candidate-vibid:279200066952": 21,
+      "gas:candidate-vibid:1001000112288": 31,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 336,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 52,
-      "Виноградов Андрей Павлович": 283,
-      "Максимов Анатолий Викторович": 42,
-      "Хомченко Алексей Владиславович": 41,
-      "Шиманович Евгений Борисович": 16,
-      "Штогрин Сергей Иванович": 583,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000136168": 52,
+      "gas:candidate-vibid:1001000226021": 283,
+      "gas:candidate-vibid:279200066952": 42,
+      "gas:candidate-vibid:1001000112288": 41,
+      "gas:candidate-vibid:279200066907": 16,
+      "gas:candidate-vibid:1001000121950": 583,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 28,
-      "Виноградов Андрей Павлович": 98,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 11,
-      "Шиманович Евгений Борисович": 15,
-      "Штогрин Сергей Иванович": 378,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136168": 28,
+      "gas:candidate-vibid:1001000226021": 98,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 11,
+      "gas:candidate-vibid:279200066907": 15,
+      "gas:candidate-vibid:1001000121950": 378,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 8,
-      "Виноградов Андрей Павлович": 23,
-      "Максимов Анатолий Викторович": 9,
-      "Хомченко Алексей Владиславович": 2,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 75,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136168": 8,
+      "gas:candidate-vibid:1001000226021": 23,
+      "gas:candidate-vibid:279200066952": 9,
+      "gas:candidate-vibid:1001000112288": 2,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 75,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 19,
-      "Виноградов Андрей Павлович": 88,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 12,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 127,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136168": 19,
+      "gas:candidate-vibid:1001000226021": 88,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 12,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 127,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 53,
-      "Виноградов Андрей Павлович": 244,
-      "Максимов Анатолий Викторович": 22,
-      "Хомченко Алексей Владиславович": 21,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 197,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136168": 53,
+      "gas:candidate-vibid:1001000226021": 244,
+      "gas:candidate-vibid:279200066952": 22,
+      "gas:candidate-vibid:1001000112288": 21,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 197,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 14,
-      "Виноградов Андрей Павлович": 68,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 7,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 160,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136168": 14,
+      "gas:candidate-vibid:1001000226021": 68,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 7,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 160,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 22,
-      "Виноградов Андрей Павлович": 242,
-      "Максимов Анатолий Викторович": 21,
-      "Хомченко Алексей Владиславович": 37,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 312,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136168": 22,
+      "gas:candidate-vibid:1001000226021": 242,
+      "gas:candidate-vibid:279200066952": 21,
+      "gas:candidate-vibid:1001000112288": 37,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 312,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 21,
-      "Виноградов Андрей Павлович": 104,
-      "Максимов Анатолий Викторович": 14,
-      "Хомченко Алексей Владиславович": 16,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 185,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136168": 21,
+      "gas:candidate-vibid:1001000226021": 104,
+      "gas:candidate-vibid:279200066952": 14,
+      "gas:candidate-vibid:1001000112288": 16,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 185,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 6,
-      "Виноградов Андрей Павлович": 46,
-      "Максимов Анатолий Викторович": 14,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 98,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136168": 6,
+      "gas:candidate-vibid:1001000226021": 46,
+      "gas:candidate-vibid:279200066952": 14,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 98,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066700&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 67,
-      "Виноградов Андрей Павлович": 258,
-      "Максимов Анатолий Викторович": 33,
-      "Хомченко Алексей Владиславович": 35,
-      "Шиманович Евгений Борисович": 15,
-      "Штогрин Сергей Иванович": 425,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136168": 67,
+      "gas:candidate-vibid:1001000226021": 258,
+      "gas:candidate-vibid:279200066952": 33,
+      "gas:candidate-vibid:1001000112288": 35,
+      "gas:candidate-vibid:279200066907": 15,
+      "gas:candidate-vibid:1001000121950": 425,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 88,
-      "Виноградов Андрей Павлович": 382,
-      "Максимов Анатолий Викторович": 28,
-      "Хомченко Алексей Владиславович": 34,
-      "Шиманович Евгений Борисович": 24,
-      "Штогрин Сергей Иванович": 538,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136168": 88,
+      "gas:candidate-vibid:1001000226021": 382,
+      "gas:candidate-vibid:279200066952": 28,
+      "gas:candidate-vibid:1001000112288": 34,
+      "gas:candidate-vibid:279200066907": 24,
+      "gas:candidate-vibid:1001000121950": 538,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 9,
-      "Виноградов Андрей Павлович": 30,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 74,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136168": 9,
+      "gas:candidate-vibid:1001000226021": 30,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 74,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 27,
-      "Виноградов Андрей Павлович": 131,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 18,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 197,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136168": 27,
+      "gas:candidate-vibid:1001000226021": 131,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 18,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 197,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 12,
-      "Виноградов Андрей Павлович": 198,
-      "Максимов Анатолий Викторович": 5,
-      "Хомченко Алексей Владиславович": 6,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 239,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136168": 12,
+      "gas:candidate-vibid:1001000226021": 198,
+      "gas:candidate-vibid:279200066952": 5,
+      "gas:candidate-vibid:1001000112288": 6,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 239,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 4,
-      "Виноградов Андрей Павлович": 118,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 4,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 78,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136168": 4,
+      "gas:candidate-vibid:1001000226021": 118,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 4,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 78,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 5,
-      "Виноградов Андрей Павлович": 153,
-      "Максимов Анатолий Викторович": 6,
-      "Хомченко Алексей Владиславович": 8,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 120,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136168": 5,
+      "gas:candidate-vibid:1001000226021": 153,
+      "gas:candidate-vibid:279200066952": 6,
+      "gas:candidate-vibid:1001000112288": 8,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 120,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 3,
-      "Виноградов Андрей Павлович": 58,
-      "Максимов Анатолий Викторович": 0,
-      "Хомченко Алексей Владиславович": 2,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 28,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136168": 3,
+      "gas:candidate-vibid:1001000226021": 58,
+      "gas:candidate-vibid:279200066952": 0,
+      "gas:candidate-vibid:1001000112288": 2,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 28,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 7,
-      "Виноградов Андрей Павлович": 66,
-      "Максимов Анатолий Викторович": 3,
-      "Хомченко Алексей Владиславович": 6,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 46,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136168": 7,
+      "gas:candidate-vibid:1001000226021": 66,
+      "gas:candidate-vibid:279200066952": 3,
+      "gas:candidate-vibid:1001000112288": 6,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 46,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 10,
-      "Виноградов Андрей Павлович": 28,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 2,
-      "Шиманович Евгений Борисович": 8,
-      "Штогрин Сергей Иванович": 60,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136168": 10,
+      "gas:candidate-vibid:1001000226021": 28,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 2,
+      "gas:candidate-vibid:279200066907": 8,
+      "gas:candidate-vibid:1001000121950": 60,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 11,
-      "Виноградов Андрей Павлович": 124,
-      "Максимов Анатолий Викторович": 4,
-      "Хомченко Алексей Владиславович": 7,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 167,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136168": 11,
+      "gas:candidate-vibid:1001000226021": 124,
+      "gas:candidate-vibid:279200066952": 4,
+      "gas:candidate-vibid:1001000112288": 7,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 167,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 5,
-      "Виноградов Андрей Павлович": 73,
-      "Максимов Анатолий Викторович": 1,
-      "Хомченко Алексей Владиславович": 4,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 70,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136168": 5,
+      "gas:candidate-vibid:1001000226021": 73,
+      "gas:candidate-vibid:279200066952": 1,
+      "gas:candidate-vibid:1001000112288": 4,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 70,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 37,
-      "Виноградов Андрей Павлович": 320,
-      "Максимов Анатолий Викторович": 44,
-      "Хомченко Алексей Владиславович": 13,
-      "Шиманович Евгений Борисович": 19,
-      "Штогрин Сергей Иванович": 368,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136168": 37,
+      "gas:candidate-vibid:1001000226021": 320,
+      "gas:candidate-vibid:279200066952": 44,
+      "gas:candidate-vibid:1001000112288": 13,
+      "gas:candidate-vibid:279200066907": 19,
+      "gas:candidate-vibid:1001000121950": 368,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 17,
-      "Виноградов Андрей Павлович": 111,
-      "Максимов Анатолий Викторович": 5,
-      "Хомченко Алексей Владиславович": 4,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 84,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136168": 17,
+      "gas:candidate-vibid:1001000226021": 111,
+      "gas:candidate-vibid:279200066952": 5,
+      "gas:candidate-vibid:1001000112288": 4,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 84,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066701&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 53,
-      "Виноградов Андрей Павлович": 235,
-      "Максимов Анатолий Викторович": 67,
-      "Хомченко Алексей Владиславович": 80,
-      "Шиманович Евгений Борисович": 14,
-      "Штогрин Сергей Иванович": 607,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136168": 53,
+      "gas:candidate-vibid:1001000226021": 235,
+      "gas:candidate-vibid:279200066952": 67,
+      "gas:candidate-vibid:1001000112288": 80,
+      "gas:candidate-vibid:279200066907": 14,
+      "gas:candidate-vibid:1001000121950": 607,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 57,
-      "Виноградов Андрей Павлович": 216,
-      "Максимов Анатолий Викторович": 70,
-      "Хомченко Алексей Владиславович": 86,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 703,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136168": 57,
+      "gas:candidate-vibid:1001000226021": 216,
+      "gas:candidate-vibid:279200066952": 70,
+      "gas:candidate-vibid:1001000112288": 86,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 703,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 58,
-      "Виноградов Андрей Павлович": 169,
-      "Максимов Анатолий Викторович": 59,
-      "Хомченко Алексей Владиславович": 84,
-      "Шиманович Евгений Борисович": 9,
-      "Штогрин Сергей Иванович": 665,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136168": 58,
+      "gas:candidate-vibid:1001000226021": 169,
+      "gas:candidate-vibid:279200066952": 59,
+      "gas:candidate-vibid:1001000112288": 84,
+      "gas:candidate-vibid:279200066907": 9,
+      "gas:candidate-vibid:1001000121950": 665,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 31,
-      "Виноградов Андрей Павлович": 158,
-      "Максимов Анатолий Викторович": 48,
-      "Хомченко Алексей Владиславович": 48,
-      "Шиманович Евгений Борисович": 9,
-      "Штогрин Сергей Иванович": 529,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136168": 31,
+      "gas:candidate-vibid:1001000226021": 158,
+      "gas:candidate-vibid:279200066952": 48,
+      "gas:candidate-vibid:1001000112288": 48,
+      "gas:candidate-vibid:279200066907": 9,
+      "gas:candidate-vibid:1001000121950": 529,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 44,
-      "Виноградов Андрей Павлович": 252,
-      "Максимов Анатолий Викторович": 50,
-      "Хомченко Алексей Владиславович": 87,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 848,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136168": 44,
+      "gas:candidate-vibid:1001000226021": 252,
+      "gas:candidate-vibid:279200066952": 50,
+      "gas:candidate-vibid:1001000112288": 87,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 848,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 43,
-      "Виноградов Андрей Павлович": 225,
-      "Максимов Анатолий Викторович": 75,
-      "Хомченко Алексей Владиславович": 88,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 750,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136168": 43,
+      "gas:candidate-vibid:1001000226021": 225,
+      "gas:candidate-vibid:279200066952": 75,
+      "gas:candidate-vibid:1001000112288": 88,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 750,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 48,
-      "Виноградов Андрей Павлович": 197,
-      "Максимов Анатолий Викторович": 54,
-      "Хомченко Алексей Владиславович": 91,
-      "Шиманович Евгений Борисович": 9,
-      "Штогрин Сергей Иванович": 631,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136168": 48,
+      "gas:candidate-vibid:1001000226021": 197,
+      "gas:candidate-vibid:279200066952": 54,
+      "gas:candidate-vibid:1001000112288": 91,
+      "gas:candidate-vibid:279200066907": 9,
+      "gas:candidate-vibid:1001000121950": 631,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 56,
-      "Виноградов Андрей Павлович": 206,
-      "Максимов Анатолий Викторович": 46,
-      "Хомченко Алексей Владиславович": 99,
-      "Шиманович Евгений Борисович": 12,
-      "Штогрин Сергей Иванович": 740,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136168": 56,
+      "gas:candidate-vibid:1001000226021": 206,
+      "gas:candidate-vibid:279200066952": 46,
+      "gas:candidate-vibid:1001000112288": 99,
+      "gas:candidate-vibid:279200066907": 12,
+      "gas:candidate-vibid:1001000121950": 740,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 25,
-      "Виноградов Андрей Павлович": 194,
-      "Максимов Анатолий Викторович": 39,
-      "Хомченко Алексей Владиславович": 70,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 492,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136168": 25,
+      "gas:candidate-vibid:1001000226021": 194,
+      "gas:candidate-vibid:279200066952": 39,
+      "gas:candidate-vibid:1001000112288": 70,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 492,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 33,
-      "Виноградов Андрей Павлович": 164,
-      "Максимов Анатолий Викторович": 51,
-      "Хомченко Алексей Владиславович": 102,
-      "Шиманович Евгений Борисович": 12,
-      "Штогрин Сергей Иванович": 671,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136168": 33,
+      "gas:candidate-vibid:1001000226021": 164,
+      "gas:candidate-vibid:279200066952": 51,
+      "gas:candidate-vibid:1001000112288": 102,
+      "gas:candidate-vibid:279200066907": 12,
+      "gas:candidate-vibid:1001000121950": 671,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 28,
-      "Виноградов Андрей Павлович": 169,
-      "Максимов Анатолий Викторович": 40,
-      "Хомченко Алексей Владиславович": 77,
-      "Шиманович Евгений Борисович": 6,
-      "Штогрин Сергей Иванович": 501,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136168": 28,
+      "gas:candidate-vibid:1001000226021": 169,
+      "gas:candidate-vibid:279200066952": 40,
+      "gas:candidate-vibid:1001000112288": 77,
+      "gas:candidate-vibid:279200066907": 6,
+      "gas:candidate-vibid:1001000121950": 501,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 19,
-      "Виноградов Андрей Павлович": 117,
-      "Максимов Анатолий Викторович": 58,
-      "Хомченко Алексей Владиславович": 53,
-      "Шиманович Евгений Борисович": 7,
-      "Штогрин Сергей Иванович": 437,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136168": 19,
+      "gas:candidate-vibid:1001000226021": 117,
+      "gas:candidate-vibid:279200066952": 58,
+      "gas:candidate-vibid:1001000112288": 53,
+      "gas:candidate-vibid:279200066907": 7,
+      "gas:candidate-vibid:1001000121950": 437,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 28,
-      "Виноградов Андрей Павлович": 125,
-      "Максимов Анатолий Викторович": 43,
-      "Хомченко Алексей Владиславович": 52,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 409,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136168": 28,
+      "gas:candidate-vibid:1001000226021": 125,
+      "gas:candidate-vibid:279200066952": 43,
+      "gas:candidate-vibid:1001000112288": 52,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 409,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 6,
-      "Виноградов Андрей Павлович": 29,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 85,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136168": 6,
+      "gas:candidate-vibid:1001000226021": 29,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 85,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 3,
-      "Виноградов Андрей Павлович": 32,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 3,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 83,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136168": 3,
+      "gas:candidate-vibid:1001000226021": 32,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 3,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 83,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 30,
-      "Виноградов Андрей Павлович": 128,
-      "Максимов Анатолий Викторович": 31,
-      "Хомченко Алексей Владиславович": 55,
-      "Шиманович Евгений Борисович": 14,
-      "Штогрин Сергей Иванович": 375,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136168": 30,
+      "gas:candidate-vibid:1001000226021": 128,
+      "gas:candidate-vibid:279200066952": 31,
+      "gas:candidate-vibid:1001000112288": 55,
+      "gas:candidate-vibid:279200066907": 14,
+      "gas:candidate-vibid:1001000121950": 375,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 30,
-      "Виноградов Андрей Павлович": 196,
-      "Максимов Анатолий Викторович": 88,
-      "Хомченко Алексей Владиславович": 102,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 511,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136168": 30,
+      "gas:candidate-vibid:1001000226021": 196,
+      "gas:candidate-vibid:279200066952": 88,
+      "gas:candidate-vibid:1001000112288": 102,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 511,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 18,
-      "Виноградов Андрей Павлович": 96,
-      "Максимов Анатолий Викторович": 23,
-      "Хомченко Алексей Владиславович": 37,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 260,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136168": 18,
+      "gas:candidate-vibid:1001000226021": 96,
+      "gas:candidate-vibid:279200066952": 23,
+      "gas:candidate-vibid:1001000112288": 37,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 260,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 15,
-      "Виноградов Андрей Павлович": 57,
-      "Максимов Анатолий Викторович": 8,
-      "Хомченко Алексей Владиславович": 10,
-      "Шиманович Евгений Борисович": 8,
-      "Штогрин Сергей Иванович": 111,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136168": 15,
+      "gas:candidate-vibid:1001000226021": 57,
+      "gas:candidate-vibid:279200066952": 8,
+      "gas:candidate-vibid:1001000112288": 10,
+      "gas:candidate-vibid:279200066907": 8,
+      "gas:candidate-vibid:1001000121950": 111,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 93,
-      "Виноградов Андрей Павлович": 230,
-      "Максимов Анатолий Викторович": 41,
-      "Хомченко Алексей Владиславович": 39,
-      "Шиманович Евгений Борисович": 22,
-      "Штогрин Сергей Иванович": 196,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136168": 93,
+      "gas:candidate-vibid:1001000226021": 230,
+      "gas:candidate-vibid:279200066952": 41,
+      "gas:candidate-vibid:1001000112288": 39,
+      "gas:candidate-vibid:279200066907": 22,
+      "gas:candidate-vibid:1001000121950": 196,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 13,
-      "Виноградов Андрей Павлович": 50,
-      "Максимов Анатолий Викторович": 9,
-      "Хомченко Алексей Владиславович": 10,
-      "Шиманович Евгений Борисович": 2,
-      "Штогрин Сергей Иванович": 116,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136168": 13,
+      "gas:candidate-vibid:1001000226021": 50,
+      "gas:candidate-vibid:279200066952": 9,
+      "gas:candidate-vibid:1001000112288": 10,
+      "gas:candidate-vibid:279200066907": 2,
+      "gas:candidate-vibid:1001000121950": 116,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 17,
-      "Виноградов Андрей Павлович": 93,
-      "Максимов Анатолий Викторович": 28,
-      "Хомченко Алексей Владиславович": 41,
-      "Шиманович Евгений Борисович": 9,
-      "Штогрин Сергей Иванович": 335,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136168": 17,
+      "gas:candidate-vibid:1001000226021": 93,
+      "gas:candidate-vibid:279200066952": 28,
+      "gas:candidate-vibid:1001000112288": 41,
+      "gas:candidate-vibid:279200066907": 9,
+      "gas:candidate-vibid:1001000121950": 335,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 28,
-      "Виноградов Андрей Павлович": 138,
-      "Максимов Анатолий Викторович": 30,
-      "Хомченко Алексей Владиславович": 91,
-      "Шиманович Евгений Борисович": 14,
-      "Штогрин Сергей Иванович": 552,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136168": 28,
+      "gas:candidate-vibid:1001000226021": 138,
+      "gas:candidate-vibid:279200066952": 30,
+      "gas:candidate-vibid:1001000112288": 91,
+      "gas:candidate-vibid:279200066907": 14,
+      "gas:candidate-vibid:1001000121950": 552,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 12,
-      "Виноградов Андрей Павлович": 57,
-      "Максимов Анатолий Викторович": 10,
-      "Хомченко Алексей Владиславович": 13,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 114,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136168": 12,
+      "gas:candidate-vibid:1001000226021": 57,
+      "gas:candidate-vibid:279200066952": 10,
+      "gas:candidate-vibid:1001000112288": 13,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 114,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 13,
-      "Виноградов Андрей Павлович": 55,
-      "Максимов Анатолий Викторович": 7,
-      "Хомченко Алексей Владиславович": 22,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 145,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136168": 13,
+      "gas:candidate-vibid:1001000226021": 55,
+      "gas:candidate-vibid:279200066952": 7,
+      "gas:candidate-vibid:1001000112288": 22,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 145,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 27,
-      "Виноградов Андрей Павлович": 182,
-      "Максимов Анатолий Викторович": 37,
-      "Хомченко Алексей Владиславович": 72,
-      "Шиманович Евгений Борисович": 16,
-      "Штогрин Сергей Иванович": 512,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136168": 27,
+      "gas:candidate-vibid:1001000226021": 182,
+      "gas:candidate-vibid:279200066952": 37,
+      "gas:candidate-vibid:1001000112288": 72,
+      "gas:candidate-vibid:279200066907": 16,
+      "gas:candidate-vibid:1001000121950": 512,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 11,
-      "Виноградов Андрей Павлович": 39,
-      "Максимов Анатолий Викторович": 23,
-      "Хомченко Алексей Владиславович": 33,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 175,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136168": 11,
+      "gas:candidate-vibid:1001000226021": 39,
+      "gas:candidate-vibid:279200066952": 23,
+      "gas:candidate-vibid:1001000112288": 33,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 175,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 25,
-      "Виноградов Андрей Павлович": 107,
-      "Максимов Анатолий Викторович": 31,
-      "Хомченко Алексей Владиславович": 59,
-      "Шиманович Евгений Борисович": 5,
-      "Штогрин Сергей Иванович": 358,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136168": 25,
+      "gas:candidate-vibid:1001000226021": 107,
+      "gas:candidate-vibid:279200066952": 31,
+      "gas:candidate-vibid:1001000112288": 59,
+      "gas:candidate-vibid:279200066907": 5,
+      "gas:candidate-vibid:1001000121950": 358,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 9,
-      "Виноградов Андрей Павлович": 30,
-      "Максимов Анатолий Викторович": 7,
-      "Хомченко Алексей Владиславович": 6,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 140,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136168": 9,
+      "gas:candidate-vibid:1001000226021": 30,
+      "gas:candidate-vibid:279200066952": 7,
+      "gas:candidate-vibid:1001000112288": 6,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 140,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 60,
-      "Виноградов Андрей Павлович": 244,
-      "Максимов Анатолий Викторович": 67,
-      "Хомченко Алексей Владиславович": 117,
-      "Шиманович Евгений Борисович": 8,
-      "Штогрин Сергей Иванович": 712,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136168": 60,
+      "gas:candidate-vibid:1001000226021": 244,
+      "gas:candidate-vibid:279200066952": 67,
+      "gas:candidate-vibid:1001000112288": 117,
+      "gas:candidate-vibid:279200066907": 8,
+      "gas:candidate-vibid:1001000121950": 712,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 34,
-      "Виноградов Андрей Павлович": 203,
-      "Максимов Анатолий Викторович": 49,
-      "Хомченко Алексей Владиславович": 100,
-      "Шиманович Евгений Борисович": 19,
-      "Штогрин Сергей Иванович": 733,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136168": 34,
+      "gas:candidate-vibid:1001000226021": 203,
+      "gas:candidate-vibid:279200066952": 49,
+      "gas:candidate-vibid:1001000112288": 100,
+      "gas:candidate-vibid:279200066907": 19,
+      "gas:candidate-vibid:1001000121950": 733,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 34,
-      "Виноградов Андрей Павлович": 148,
-      "Максимов Анатолий Викторович": 30,
-      "Хомченко Алексей Владиславович": 45,
-      "Шиманович Евгений Борисович": 8,
-      "Штогрин Сергей Иванович": 340,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136168": 34,
+      "gas:candidate-vibid:1001000226021": 148,
+      "gas:candidate-vibid:279200066952": 30,
+      "gas:candidate-vibid:1001000112288": 45,
+      "gas:candidate-vibid:279200066907": 8,
+      "gas:candidate-vibid:1001000121950": 340,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 6,
-      "Виноградов Андрей Павлович": 39,
-      "Максимов Анатолий Викторович": 13,
-      "Хомченко Алексей Владиславович": 12,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 189,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136168": 6,
+      "gas:candidate-vibid:1001000226021": 39,
+      "gas:candidate-vibid:279200066952": 13,
+      "gas:candidate-vibid:1001000112288": 12,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 189,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 21,
-      "Виноградов Андрей Павлович": 104,
-      "Максимов Анатолий Викторович": 15,
-      "Хомченко Алексей Владиславович": 32,
-      "Шиманович Евгений Борисович": 3,
-      "Штогрин Сергей Иванович": 302,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136168": 21,
+      "gas:candidate-vibid:1001000226021": 104,
+      "gas:candidate-vibid:279200066952": 15,
+      "gas:candidate-vibid:1001000112288": 32,
+      "gas:candidate-vibid:279200066907": 3,
+      "gas:candidate-vibid:1001000121950": 302,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 0,
-      "Виноградов Андрей Павлович": 2,
-      "Максимов Анатолий Викторович": 2,
-      "Хомченко Алексей Владиславович": 1,
-      "Шиманович Евгений Борисович": 1,
-      "Штогрин Сергей Иванович": 17,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136168": 0,
+      "gas:candidate-vibid:1001000226021": 2,
+      "gas:candidate-vibid:279200066952": 2,
+      "gas:candidate-vibid:1001000112288": 1,
+      "gas:candidate-vibid:279200066907": 1,
+      "gas:candidate-vibid:1001000121950": 17,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 51,
-      "Виноградов Андрей Павлович": 155,
-      "Максимов Анатолий Викторович": 40,
-      "Хомченко Алексей Владиславович": 34,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 305,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136168": 51,
+      "gas:candidate-vibid:1001000226021": 155,
+      "gas:candidate-vibid:279200066952": 40,
+      "gas:candidate-vibid:1001000112288": 34,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 305,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 46,
-      "Виноградов Андрей Павлович": 230,
-      "Максимов Анатолий Викторович": 28,
-      "Хомченко Алексей Владиславович": 50,
-      "Шиманович Евгений Борисович": 10,
-      "Штогрин Сергей Иванович": 423,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136168": 46,
+      "gas:candidate-vibid:1001000226021": 230,
+      "gas:candidate-vibid:279200066952": 28,
+      "gas:candidate-vibid:1001000112288": 50,
+      "gas:candidate-vibid:279200066907": 10,
+      "gas:candidate-vibid:1001000121950": 423,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 36,
-      "Виноградов Андрей Павлович": 127,
-      "Максимов Анатолий Викторович": 22,
-      "Хомченко Алексей Владиславович": 36,
-      "Шиманович Евгений Борисович": 11,
-      "Штогрин Сергей Иванович": 310,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136168": 36,
+      "gas:candidate-vibid:1001000226021": 127,
+      "gas:candidate-vibid:279200066952": 22,
+      "gas:candidate-vibid:1001000112288": 36,
+      "gas:candidate-vibid:279200066907": 11,
+      "gas:candidate-vibid:1001000121950": 310,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 98,
-      "Виноградов Андрей Павлович": 262,
-      "Максимов Анатолий Викторович": 61,
-      "Хомченко Алексей Владиславович": 55,
-      "Шиманович Евгений Борисович": 18,
-      "Штогрин Сергей Иванович": 367,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136168": 98,
+      "gas:candidate-vibid:1001000226021": 262,
+      "gas:candidate-vibid:279200066952": 61,
+      "gas:candidate-vibid:1001000112288": 55,
+      "gas:candidate-vibid:279200066907": 18,
+      "gas:candidate-vibid:1001000121950": 367,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_79_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амелин Артур Владимирович": 11,
-      "Виноградов Андрей Павлович": 47,
-      "Максимов Анатолий Викторович": 10,
-      "Хомченко Алексей Владиславович": 21,
-      "Шиманович Евгений Борисович": 4,
-      "Штогрин Сергей Иванович": 118,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136168": 11,
+      "gas:candidate-vibid:1001000226021": 47,
+      "gas:candidate-vibid:279200066952": 10,
+      "gas:candidate-vibid:1001000112288": 21,
+      "gas:candidate-vibid:279200066907": 4,
+      "gas:candidate-vibid:1001000121950": 118,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=792000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=279200066702&region=0&sub_region=0&type=429",

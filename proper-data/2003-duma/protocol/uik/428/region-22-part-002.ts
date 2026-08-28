@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 51,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 30,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 8,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 11,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 9,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121810": 51,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 30,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 8,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 11,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 9,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 39,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 56,
-      "Останин Валерий Сергеевич": 1,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 5,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121810": 39,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 56,
+      "gas:candidate-vibid:1001000112187": 1,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 5,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 73,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 59,
-      "Останин Валерий Сергеевич": 1,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 19,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121810": 73,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 59,
+      "gas:candidate-vibid:1001000112187": 1,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 19,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 68,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 88,
-      "Останин Валерий Сергеевич": 49,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121810": 68,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 88,
+      "gas:candidate-vibid:1001000112187": 49,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 57,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 47,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121810": 57,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 47,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 38,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 73,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 14,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121810": 38,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 73,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 14,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 123,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 10,
-      "Коршунов Лев Александрович": 210,
-      "Останин Валерий Сергеевич": 17,
-      "Паршуткина Ираида Ивановна": 14,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 40,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121810": 123,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 10,
+      "gas:candidate-vibid:322300266718": 210,
+      "gas:candidate-vibid:1001000112187": 17,
+      "gas:candidate-vibid:322300267195": 14,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 40,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 223,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 18,
-      "Коршунов Лев Александрович": 196,
-      "Останин Валерий Сергеевич": 10,
-      "Паршуткина Ираида Ивановна": 10,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 40,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121810": 223,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 18,
+      "gas:candidate-vibid:322300266718": 196,
+      "gas:candidate-vibid:1001000112187": 10,
+      "gas:candidate-vibid:322300267195": 10,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 40,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 22,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 0,
-      "Коршунов Лев Александрович": 6,
-      "Останин Валерий Сергеевич": 0,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121810": 22,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 0,
+      "gas:candidate-vibid:322300266718": 6,
+      "gas:candidate-vibid:1001000112187": 0,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 75,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 108,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 19,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121810": 75,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 108,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 19,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 45,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 82,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 10,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121810": 45,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 82,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 10,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266680&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 207,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 41,
-      "Коршунов Лев Александрович": 199,
-      "Останин Валерий Сергеевич": 128,
-      "Паршуткина Ираида Ивановна": 34,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 32,
-      "Татлыбаев Сергей Алексеевич": 13,
-      "Хачатурян Сергей Грантович": 56,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121810": 207,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 41,
+      "gas:candidate-vibid:322300266718": 199,
+      "gas:candidate-vibid:1001000112187": 128,
+      "gas:candidate-vibid:322300267195": 34,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 32,
+      "gas:candidate-vibid:322300267075": 13,
+      "gas:candidate-vibid:1001000187992": 56,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 240,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 58,
-      "Коршунов Лев Александрович": 293,
-      "Останин Валерий Сергеевич": 117,
-      "Паршуткина Ираида Ивановна": 48,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 23,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 76,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121810": 240,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 58,
+      "gas:candidate-vibid:322300266718": 293,
+      "gas:candidate-vibid:1001000112187": 117,
+      "gas:candidate-vibid:322300267195": 48,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 23,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 76,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 112,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 39,
-      "Коршунов Лев Александрович": 227,
-      "Останин Валерий Сергеевич": 125,
-      "Паршуткина Ираида Ивановна": 44,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 32,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 81,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121810": 112,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 39,
+      "gas:candidate-vibid:322300266718": 227,
+      "gas:candidate-vibid:1001000112187": 125,
+      "gas:candidate-vibid:322300267195": 44,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 32,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 81,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 71,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 72,
-      "Останин Валерий Сергеевич": 49,
-      "Паршуткина Ираида Ивановна": 10,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 11,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 34,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121810": 71,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 72,
+      "gas:candidate-vibid:1001000112187": 49,
+      "gas:candidate-vibid:322300267195": 10,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 11,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 34,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 63,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 29,
-      "Коршунов Лев Александрович": 82,
-      "Останин Валерий Сергеевич": 51,
-      "Паршуткина Ираида Ивановна": 21,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 6,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 25,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121810": 63,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 29,
+      "gas:candidate-vibid:322300266718": 82,
+      "gas:candidate-vibid:1001000112187": 51,
+      "gas:candidate-vibid:322300267195": 21,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 6,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 25,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 161,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 231,
-      "Останин Валерий Сергеевич": 165,
-      "Паршуткина Ираида Ивановна": 44,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 48,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 90,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000121810": 161,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 231,
+      "gas:candidate-vibid:1001000112187": 165,
+      "gas:candidate-vibid:322300267195": 44,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 48,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 90,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 214,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 281,
-      "Останин Валерий Сергеевич": 215,
-      "Паршуткина Ираида Ивановна": 51,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 66,
-      "Татлыбаев Сергей Алексеевич": 16,
-      "Хачатурян Сергей Грантович": 145,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121810": 214,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 281,
+      "gas:candidate-vibid:1001000112187": 215,
+      "gas:candidate-vibid:322300267195": 51,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 66,
+      "gas:candidate-vibid:322300267075": 16,
+      "gas:candidate-vibid:1001000187992": 145,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 158,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 290,
-      "Останин Валерий Сергеевич": 177,
-      "Паршуткина Ираида Ивановна": 44,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 64,
-      "Татлыбаев Сергей Алексеевич": 14,
-      "Хачатурян Сергей Грантович": 108,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121810": 158,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 290,
+      "gas:candidate-vibid:1001000112187": 177,
+      "gas:candidate-vibid:322300267195": 44,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 64,
+      "gas:candidate-vibid:322300267075": 14,
+      "gas:candidate-vibid:1001000187992": 108,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 181,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 26,
-      "Коршунов Лев Александрович": 236,
-      "Останин Валерий Сергеевич": 162,
-      "Паршуткина Ираида Ивановна": 42,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 33,
-      "Татлыбаев Сергей Алексеевич": 11,
-      "Хачатурян Сергей Грантович": 108,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121810": 181,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 26,
+      "gas:candidate-vibid:322300266718": 236,
+      "gas:candidate-vibid:1001000112187": 162,
+      "gas:candidate-vibid:322300267195": 42,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 33,
+      "gas:candidate-vibid:322300267075": 11,
+      "gas:candidate-vibid:1001000187992": 108,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 197,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 203,
-      "Останин Валерий Сергеевич": 138,
-      "Паршуткина Ираида Ивановна": 34,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 37,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 71,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121810": 197,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 203,
+      "gas:candidate-vibid:1001000112187": 138,
+      "gas:candidate-vibid:322300267195": 34,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 37,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 71,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 212,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 19,
-      "Коршунов Лев Александрович": 286,
-      "Останин Валерий Сергеевич": 132,
-      "Паршуткина Ираида Ивановна": 41,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 54,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 126,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121810": 212,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 19,
+      "gas:candidate-vibid:322300266718": 286,
+      "gas:candidate-vibid:1001000112187": 132,
+      "gas:candidate-vibid:322300267195": 41,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 54,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 126,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 142,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 10,
-      "Коршунов Лев Александрович": 156,
-      "Останин Валерий Сергеевич": 84,
-      "Паршуткина Ираида Ивановна": 30,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 19,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 73,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121810": 142,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 10,
+      "gas:candidate-vibid:322300266718": 156,
+      "gas:candidate-vibid:1001000112187": 84,
+      "gas:candidate-vibid:322300267195": 30,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 19,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 73,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 228,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 314,
-      "Останин Валерий Сергеевич": 154,
-      "Паршуткина Ираида Ивановна": 66,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 44,
-      "Татлыбаев Сергей Алексеевич": 25,
-      "Хачатурян Сергей Грантович": 96,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121810": 228,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 314,
+      "gas:candidate-vibid:1001000112187": 154,
+      "gas:candidate-vibid:322300267195": 66,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 44,
+      "gas:candidate-vibid:322300267075": 25,
+      "gas:candidate-vibid:1001000187992": 96,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 101,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 13,
-      "Коршунов Лев Александрович": 118,
-      "Останин Валерий Сергеевич": 51,
-      "Паршуткина Ираида Ивановна": 9,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 18,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 40,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121810": 101,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 13,
+      "gas:candidate-vibid:322300266718": 118,
+      "gas:candidate-vibid:1001000112187": 51,
+      "gas:candidate-vibid:322300267195": 9,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 18,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 40,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 206,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 11,
-      "Коршунов Лев Александрович": 232,
-      "Останин Валерий Сергеевич": 133,
-      "Паршуткина Ираида Ивановна": 47,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 36,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 104,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121810": 206,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 11,
+      "gas:candidate-vibid:322300266718": 232,
+      "gas:candidate-vibid:1001000112187": 133,
+      "gas:candidate-vibid:322300267195": 47,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 36,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 104,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 217,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 14,
-      "Коршунов Лев Александрович": 289,
-      "Останин Валерий Сергеевич": 181,
-      "Паршуткина Ираида Ивановна": 45,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 69,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 109,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121810": 217,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 14,
+      "gas:candidate-vibid:322300266718": 289,
+      "gas:candidate-vibid:1001000112187": 181,
+      "gas:candidate-vibid:322300267195": 45,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 69,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 109,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 226,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 24,
-      "Коршунов Лев Александрович": 331,
-      "Останин Валерий Сергеевич": 250,
-      "Паршуткина Ираида Ивановна": 55,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 78,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 168,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121810": 226,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 24,
+      "gas:candidate-vibid:322300266718": 331,
+      "gas:candidate-vibid:1001000112187": 250,
+      "gas:candidate-vibid:322300267195": 55,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 78,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 168,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 222,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 308,
-      "Останин Валерий Сергеевич": 195,
-      "Паршуткина Ираида Ивановна": 45,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 48,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 114,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121810": 222,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 308,
+      "gas:candidate-vibid:1001000112187": 195,
+      "gas:candidate-vibid:322300267195": 45,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 48,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 114,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 235,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 34,
-      "Коршунов Лев Александрович": 425,
-      "Останин Валерий Сергеевич": 233,
-      "Паршуткина Ираида Ивановна": 56,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 61,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 133,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121810": 235,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 34,
+      "gas:candidate-vibid:322300266718": 425,
+      "gas:candidate-vibid:1001000112187": 233,
+      "gas:candidate-vibid:322300267195": 56,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 61,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 133,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 251,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 302,
-      "Останин Валерий Сергеевич": 175,
-      "Паршуткина Ираида Ивановна": 53,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 33,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 132,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121810": 251,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 302,
+      "gas:candidate-vibid:1001000112187": 175,
+      "gas:candidate-vibid:322300267195": 53,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 33,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 132,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 203,
-      "Голубева Людмила Петровна": 11,
-      "Гурьев Вячеслав Васильевич": 32,
-      "Коршунов Лев Александрович": 341,
-      "Останин Валерий Сергеевич": 250,
-      "Паршуткина Ираида Ивановна": 68,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 60,
-      "Татлыбаев Сергей Алексеевич": 13,
-      "Хачатурян Сергей Грантович": 114,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121810": 203,
+      "gas:candidate-vibid:1001000195041": 11,
+      "gas:candidate-vibid:1001000136012": 32,
+      "gas:candidate-vibid:322300266718": 341,
+      "gas:candidate-vibid:1001000112187": 250,
+      "gas:candidate-vibid:322300267195": 68,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 60,
+      "gas:candidate-vibid:322300267075": 13,
+      "gas:candidate-vibid:1001000187992": 114,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 69,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 8,
-      "Коршунов Лев Александрович": 94,
-      "Останин Валерий Сергеевич": 61,
-      "Паршуткина Ираида Ивановна": 10,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 16,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 37,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121810": 69,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 8,
+      "gas:candidate-vibid:322300266718": 94,
+      "gas:candidate-vibid:1001000112187": 61,
+      "gas:candidate-vibid:322300267195": 10,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 16,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 37,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 105,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 27,
-      "Коршунов Лев Александрович": 157,
-      "Останин Валерий Сергеевич": 81,
-      "Паршуткина Ираида Ивановна": 21,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 42,
-      "Татлыбаев Сергей Алексеевич": 8,
-      "Хачатурян Сергей Грантович": 73,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121810": 105,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 27,
+      "gas:candidate-vibid:322300266718": 157,
+      "gas:candidate-vibid:1001000112187": 81,
+      "gas:candidate-vibid:322300267195": 21,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 42,
+      "gas:candidate-vibid:322300267075": 8,
+      "gas:candidate-vibid:1001000187992": 73,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 226,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 46,
-      "Коршунов Лев Александрович": 381,
-      "Останин Валерий Сергеевич": 244,
-      "Паршуткина Ираида Ивановна": 68,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 66,
-      "Татлыбаев Сергей Алексеевич": 12,
-      "Хачатурян Сергей Грантович": 151,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121810": 226,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 46,
+      "gas:candidate-vibid:322300266718": 381,
+      "gas:candidate-vibid:1001000112187": 244,
+      "gas:candidate-vibid:322300267195": 68,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 66,
+      "gas:candidate-vibid:322300267075": 12,
+      "gas:candidate-vibid:1001000187992": 151,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 223,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 23,
-      "Коршунов Лев Александрович": 261,
-      "Останин Валерий Сергеевич": 196,
-      "Паршуткина Ираида Ивановна": 45,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 63,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 107,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121810": 223,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 23,
+      "gas:candidate-vibid:322300266718": 261,
+      "gas:candidate-vibid:1001000112187": 196,
+      "gas:candidate-vibid:322300267195": 45,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 63,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 107,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 97,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 35,
-      "Коршунов Лев Александрович": 167,
-      "Останин Валерий Сергеевич": 105,
-      "Паршуткина Ираида Ивановна": 21,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 21,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 60,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121810": 97,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 35,
+      "gas:candidate-vibid:322300266718": 167,
+      "gas:candidate-vibid:1001000112187": 105,
+      "gas:candidate-vibid:322300267195": 21,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 21,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 60,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 225,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 38,
-      "Коршунов Лев Александрович": 372,
-      "Останин Валерий Сергеевич": 201,
-      "Паршуткина Ираида Ивановна": 49,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 18,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 120,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121810": 225,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 38,
+      "gas:candidate-vibid:322300266718": 372,
+      "gas:candidate-vibid:1001000112187": 201,
+      "gas:candidate-vibid:322300267195": 49,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 18,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 120,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 132,
-      "Голубева Людмила Петровна": 16,
-      "Гурьев Вячеслав Васильевич": 36,
-      "Коршунов Лев Александрович": 192,
-      "Останин Валерий Сергеевич": 110,
-      "Паршуткина Ираида Ивановна": 28,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 30,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 84,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121810": 132,
+      "gas:candidate-vibid:1001000195041": 16,
+      "gas:candidate-vibid:1001000136012": 36,
+      "gas:candidate-vibid:322300266718": 192,
+      "gas:candidate-vibid:1001000112187": 110,
+      "gas:candidate-vibid:322300267195": 28,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 30,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 84,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 189,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 257,
-      "Останин Валерий Сергеевич": 171,
-      "Паршуткина Ираида Ивановна": 60,
-      "Сафонов Валерий Иванович": 16,
-      "Скоморохов Евгений Сергеевич": 38,
-      "Татлыбаев Сергей Алексеевич": 8,
-      "Хачатурян Сергей Грантович": 132,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121810": 189,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 257,
+      "gas:candidate-vibid:1001000112187": 171,
+      "gas:candidate-vibid:322300267195": 60,
+      "gas:candidate-vibid:1001000254929": 16,
+      "gas:candidate-vibid:1001000202288": 38,
+      "gas:candidate-vibid:322300267075": 8,
+      "gas:candidate-vibid:1001000187992": 132,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 211,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 18,
-      "Коршунов Лев Александрович": 310,
-      "Останин Валерий Сергеевич": 191,
-      "Паршуткина Ираида Ивановна": 59,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 47,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 123,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121810": 211,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 18,
+      "gas:candidate-vibid:322300266718": 310,
+      "gas:candidate-vibid:1001000112187": 191,
+      "gas:candidate-vibid:322300267195": 59,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 47,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 123,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 210,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 41,
-      "Коршунов Лев Александрович": 326,
-      "Останин Валерий Сергеевич": 220,
-      "Паршуткина Ираида Ивановна": 62,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 34,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 149,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121810": 210,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 41,
+      "gas:candidate-vibid:322300266718": 326,
+      "gas:candidate-vibid:1001000112187": 220,
+      "gas:candidate-vibid:322300267195": 62,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 34,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 149,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 191,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 17,
-      "Коршунов Лев Александрович": 251,
-      "Останин Валерий Сергеевич": 130,
-      "Паршуткина Ираида Ивановна": 48,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 24,
-      "Татлыбаев Сергей Алексеевич": 15,
-      "Хачатурян Сергей Грантович": 104,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121810": 191,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 17,
+      "gas:candidate-vibid:322300266718": 251,
+      "gas:candidate-vibid:1001000112187": 130,
+      "gas:candidate-vibid:322300267195": 48,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 24,
+      "gas:candidate-vibid:322300267075": 15,
+      "gas:candidate-vibid:1001000187992": 104,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 208,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 33,
-      "Коршунов Лев Александрович": 224,
-      "Останин Валерий Сергеевич": 141,
-      "Паршуткина Ираида Ивановна": 29,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 32,
-      "Татлыбаев Сергей Алексеевич": 15,
-      "Хачатурян Сергей Грантович": 111,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121810": 208,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 33,
+      "gas:candidate-vibid:322300266718": 224,
+      "gas:candidate-vibid:1001000112187": 141,
+      "gas:candidate-vibid:322300267195": 29,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 32,
+      "gas:candidate-vibid:322300267075": 15,
+      "gas:candidate-vibid:1001000187992": 111,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 77,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 14,
-      "Коршунов Лев Александрович": 118,
-      "Останин Валерий Сергеевич": 84,
-      "Паршуткина Ираида Ивановна": 37,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 10,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 52,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121810": 77,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 14,
+      "gas:candidate-vibid:322300266718": 118,
+      "gas:candidate-vibid:1001000112187": 84,
+      "gas:candidate-vibid:322300267195": 37,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 10,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 52,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 143,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 214,
-      "Останин Валерий Сергеевич": 107,
-      "Паршуткина Ираида Ивановна": 46,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 5,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 59,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121810": 143,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 214,
+      "gas:candidate-vibid:1001000112187": 107,
+      "gas:candidate-vibid:322300267195": 46,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 5,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 59,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 163,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 220,
-      "Останин Валерий Сергеевич": 150,
-      "Паршуткина Ираида Ивановна": 43,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 30,
-      "Татлыбаев Сергей Алексеевич": 8,
-      "Хачатурян Сергей Грантович": 55,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121810": 163,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 220,
+      "gas:candidate-vibid:1001000112187": 150,
+      "gas:candidate-vibid:322300267195": 43,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 30,
+      "gas:candidate-vibid:322300267075": 8,
+      "gas:candidate-vibid:1001000187992": 55,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 99,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 17,
-      "Коршунов Лев Александрович": 157,
-      "Останин Валерий Сергеевич": 93,
-      "Паршуткина Ираида Ивановна": 39,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 23,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 40,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000121810": 99,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 17,
+      "gas:candidate-vibid:322300266718": 157,
+      "gas:candidate-vibid:1001000112187": 93,
+      "gas:candidate-vibid:322300267195": 39,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 23,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 40,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 95,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 29,
-      "Коршунов Лев Александрович": 130,
-      "Останин Валерий Сергеевич": 104,
-      "Паршуткина Ираида Ивановна": 36,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 12,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 56,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121810": 95,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 29,
+      "gas:candidate-vibid:322300266718": 130,
+      "gas:candidate-vibid:1001000112187": 104,
+      "gas:candidate-vibid:322300267195": 36,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 12,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 56,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 152,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 33,
-      "Коршунов Лев Александрович": 203,
-      "Останин Валерий Сергеевич": 149,
-      "Паршуткина Ираида Ивановна": 31,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 25,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 59,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121810": 152,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 33,
+      "gas:candidate-vibid:322300266718": 203,
+      "gas:candidate-vibid:1001000112187": 149,
+      "gas:candidate-vibid:322300267195": 31,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 25,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 59,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 157,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 17,
-      "Коршунов Лев Александрович": 163,
-      "Останин Валерий Сергеевич": 104,
-      "Паршуткина Ираида Ивановна": 37,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 14,
-      "Татлыбаев Сергей Алексеевич": 8,
-      "Хачатурян Сергей Грантович": 73,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121810": 157,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 17,
+      "gas:candidate-vibid:322300266718": 163,
+      "gas:candidate-vibid:1001000112187": 104,
+      "gas:candidate-vibid:322300267195": 37,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 14,
+      "gas:candidate-vibid:322300267075": 8,
+      "gas:candidate-vibid:1001000187992": 73,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 171,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 28,
-      "Коршунов Лев Александрович": 224,
-      "Останин Валерий Сергеевич": 110,
-      "Паршуткина Ираида Ивановна": 29,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 18,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 75,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121810": 171,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 28,
+      "gas:candidate-vibid:322300266718": 224,
+      "gas:candidate-vibid:1001000112187": 110,
+      "gas:candidate-vibid:322300267195": 29,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 18,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 75,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 172,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 185,
-      "Останин Валерий Сергеевич": 101,
-      "Паршуткина Ираида Ивановна": 33,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 19,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 67,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121810": 172,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 185,
+      "gas:candidate-vibid:1001000112187": 101,
+      "gas:candidate-vibid:322300267195": 33,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 19,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 67,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 153,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 259,
-      "Останин Валерий Сергеевич": 121,
-      "Паршуткина Ираида Ивановна": 38,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 22,
-      "Татлыбаев Сергей Алексеевич": 11,
-      "Хачатурян Сергей Грантович": 88,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121810": 153,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 259,
+      "gas:candidate-vibid:1001000112187": 121,
+      "gas:candidate-vibid:322300267195": 38,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 22,
+      "gas:candidate-vibid:322300267075": 11,
+      "gas:candidate-vibid:1001000187992": 88,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 191,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 24,
-      "Коршунов Лев Александрович": 220,
-      "Останин Валерий Сергеевич": 104,
-      "Паршуткина Ираида Ивановна": 32,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 17,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 74,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121810": 191,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 24,
+      "gas:candidate-vibid:322300266718": 220,
+      "gas:candidate-vibid:1001000112187": 104,
+      "gas:candidate-vibid:322300267195": 32,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 17,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 74,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 129,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 27,
-      "Коршунов Лев Александрович": 206,
-      "Останин Валерий Сергеевич": 129,
-      "Паршуткина Ираида Ивановна": 35,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 27,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 77,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121810": 129,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 27,
+      "gas:candidate-vibid:322300266718": 206,
+      "gas:candidate-vibid:1001000112187": 129,
+      "gas:candidate-vibid:322300267195": 35,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 27,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 77,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 124,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 19,
-      "Коршунов Лев Александрович": 197,
-      "Останин Валерий Сергеевич": 96,
-      "Паршуткина Ираида Ивановна": 22,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 9,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 55,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121810": 124,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 19,
+      "gas:candidate-vibid:322300266718": 197,
+      "gas:candidate-vibid:1001000112187": 96,
+      "gas:candidate-vibid:322300267195": 22,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 9,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 55,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 122,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 18,
-      "Коршунов Лев Александрович": 176,
-      "Останин Валерий Сергеевич": 100,
-      "Паршуткина Ираида Ивановна": 28,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 16,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 67,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121810": 122,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 18,
+      "gas:candidate-vibid:322300266718": 176,
+      "gas:candidate-vibid:1001000112187": 100,
+      "gas:candidate-vibid:322300267195": 28,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 16,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 67,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 10
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 319,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 40,
-      "Коршунов Лев Александрович": 422,
-      "Останин Валерий Сергеевич": 243,
-      "Паршуткина Ираида Ивановна": 85,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 39,
-      "Татлыбаев Сергей Алексеевич": 12,
-      "Хачатурян Сергей Грантович": 161,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121810": 319,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 40,
+      "gas:candidate-vibid:322300266718": 422,
+      "gas:candidate-vibid:1001000112187": 243,
+      "gas:candidate-vibid:322300267195": 85,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 39,
+      "gas:candidate-vibid:322300267075": 12,
+      "gas:candidate-vibid:1001000187992": 161,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 331,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 55,
-      "Коршунов Лев Александрович": 432,
-      "Останин Валерий Сергеевич": 291,
-      "Паршуткина Ираида Ивановна": 58,
-      "Сафонов Валерий Иванович": 9,
-      "Скоморохов Евгений Сергеевич": 44,
-      "Татлыбаев Сергей Алексеевич": 12,
-      "Хачатурян Сергей Грантович": 152,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000121810": 331,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 55,
+      "gas:candidate-vibid:322300266718": 432,
+      "gas:candidate-vibid:1001000112187": 291,
+      "gas:candidate-vibid:322300267195": 58,
+      "gas:candidate-vibid:1001000254929": 9,
+      "gas:candidate-vibid:1001000202288": 44,
+      "gas:candidate-vibid:322300267075": 12,
+      "gas:candidate-vibid:1001000187992": 152,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 297,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 40,
-      "Коршунов Лев Александрович": 476,
-      "Останин Валерий Сергеевич": 188,
-      "Паршуткина Ираида Ивановна": 45,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 39,
-      "Татлыбаев Сергей Алексеевич": 8,
-      "Хачатурян Сергей Грантович": 102,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121810": 297,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 40,
+      "gas:candidate-vibid:322300266718": 476,
+      "gas:candidate-vibid:1001000112187": 188,
+      "gas:candidate-vibid:322300267195": 45,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 39,
+      "gas:candidate-vibid:322300267075": 8,
+      "gas:candidate-vibid:1001000187992": 102,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 192,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 36,
-      "Коршунов Лев Александрович": 246,
-      "Останин Валерий Сергеевич": 148,
-      "Паршуткина Ираида Ивановна": 33,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 34,
-      "Татлыбаев Сергей Алексеевич": 13,
-      "Хачатурян Сергей Грантович": 69,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121810": 192,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 36,
+      "gas:candidate-vibid:322300266718": 246,
+      "gas:candidate-vibid:1001000112187": 148,
+      "gas:candidate-vibid:322300267195": 33,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 34,
+      "gas:candidate-vibid:322300267075": 13,
+      "gas:candidate-vibid:1001000187992": 69,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 115,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 23,
-      "Коршунов Лев Александрович": 185,
-      "Останин Валерий Сергеевич": 108,
-      "Паршуткина Ираида Ивановна": 26,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 9,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 39,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121810": 115,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 23,
+      "gas:candidate-vibid:322300266718": 185,
+      "gas:candidate-vibid:1001000112187": 108,
+      "gas:candidate-vibid:322300267195": 26,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 9,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 39,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 182,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 23,
-      "Коршунов Лев Александрович": 447,
-      "Останин Валерий Сергеевич": 252,
-      "Паршуткина Ираида Ивановна": 67,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 86,
-      "Татлыбаев Сергей Алексеевич": 17,
-      "Хачатурян Сергей Грантович": 195,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121810": 182,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 23,
+      "gas:candidate-vibid:322300266718": 447,
+      "gas:candidate-vibid:1001000112187": 252,
+      "gas:candidate-vibid:322300267195": 67,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 86,
+      "gas:candidate-vibid:322300267075": 17,
+      "gas:candidate-vibid:1001000187992": 195,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 33,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 23,
-      "Коршунов Лев Александрович": 73,
-      "Останин Валерий Сергеевич": 42,
-      "Паршуткина Ираида Ивановна": 28,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 25,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 46,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121810": 33,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 23,
+      "gas:candidate-vibid:322300266718": 73,
+      "gas:candidate-vibid:1001000112187": 42,
+      "gas:candidate-vibid:322300267195": 28,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 25,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 46,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266681&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 59,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 19,
-      "Коршунов Лев Александрович": 142,
-      "Останин Валерий Сергеевич": 111,
-      "Паршуткина Ираида Ивановна": 16,
-      "Сафонов Валерий Иванович": 9,
-      "Скоморохов Евгений Сергеевич": 24,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 58,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121810": 59,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 19,
+      "gas:candidate-vibid:322300266718": 142,
+      "gas:candidate-vibid:1001000112187": 111,
+      "gas:candidate-vibid:322300267195": 16,
+      "gas:candidate-vibid:1001000254929": 9,
+      "gas:candidate-vibid:1001000202288": 24,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 58,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 70,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 92,
-      "Останин Валерий Сергеевич": 52,
-      "Паршуткина Ираида Ивановна": 14,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 19,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 49,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121810": 70,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 92,
+      "gas:candidate-vibid:1001000112187": 52,
+      "gas:candidate-vibid:322300267195": 14,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 19,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 49,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 135,
-      "Голубева Людмила Петровна": 11,
-      "Гурьев Вячеслав Васильевич": 25,
-      "Коршунов Лев Александрович": 134,
-      "Останин Валерий Сергеевич": 126,
-      "Паршуткина Ираида Ивановна": 21,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 24,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 55,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121810": 135,
+      "gas:candidate-vibid:1001000195041": 11,
+      "gas:candidate-vibid:1001000136012": 25,
+      "gas:candidate-vibid:322300266718": 134,
+      "gas:candidate-vibid:1001000112187": 126,
+      "gas:candidate-vibid:322300267195": 21,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 24,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 55,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 127,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 185,
-      "Останин Валерий Сергеевич": 121,
-      "Паршуткина Ираида Ивановна": 26,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 21,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 69,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121810": 127,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 185,
+      "gas:candidate-vibid:1001000112187": 121,
+      "gas:candidate-vibid:322300267195": 26,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 21,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 69,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 96,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 153,
-      "Останин Валерий Сергеевич": 141,
-      "Паршуткина Ираида Ивановна": 13,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 21,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 42,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121810": 96,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 153,
+      "gas:candidate-vibid:1001000112187": 141,
+      "gas:candidate-vibid:322300267195": 13,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 21,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 42,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 89,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 31,
-      "Коршунов Лев Александрович": 134,
-      "Останин Валерий Сергеевич": 97,
-      "Паршуткина Ираида Ивановна": 24,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 20,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 93,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121810": 89,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 31,
+      "gas:candidate-vibid:322300266718": 134,
+      "gas:candidate-vibid:1001000112187": 97,
+      "gas:candidate-vibid:322300267195": 24,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 20,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 93,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 210,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 38,
-      "Коршунов Лев Александрович": 291,
-      "Останин Валерий Сергеевич": 231,
-      "Паршуткина Ираида Ивановна": 60,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 69,
-      "Татлыбаев Сергей Алексеевич": 8,
-      "Хачатурян Сергей Грантович": 125,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121810": 210,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 38,
+      "gas:candidate-vibid:322300266718": 291,
+      "gas:candidate-vibid:1001000112187": 231,
+      "gas:candidate-vibid:322300267195": 60,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 69,
+      "gas:candidate-vibid:322300267075": 8,
+      "gas:candidate-vibid:1001000187992": 125,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 192,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 53,
-      "Коршунов Лев Александрович": 290,
-      "Останин Валерий Сергеевич": 285,
-      "Паршуткина Ираида Ивановна": 78,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 66,
-      "Татлыбаев Сергей Алексеевич": 17,
-      "Хачатурян Сергей Грантович": 137,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000121810": 192,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 53,
+      "gas:candidate-vibid:322300266718": 290,
+      "gas:candidate-vibid:1001000112187": 285,
+      "gas:candidate-vibid:322300267195": 78,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 66,
+      "gas:candidate-vibid:322300267075": 17,
+      "gas:candidate-vibid:1001000187992": 137,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 219,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 49,
-      "Коршунов Лев Александрович": 291,
-      "Останин Валерий Сергеевич": 259,
-      "Паршуткина Ираида Ивановна": 60,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 52,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 156,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121810": 219,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 49,
+      "gas:candidate-vibid:322300266718": 291,
+      "gas:candidate-vibid:1001000112187": 259,
+      "gas:candidate-vibid:322300267195": 60,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 52,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 156,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 140,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 207,
-      "Останин Валерий Сергеевич": 110,
-      "Паршуткина Ираида Ивановна": 25,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 28,
-      "Татлыбаев Сергей Алексеевич": 11,
-      "Хачатурян Сергей Грантович": 98,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121810": 140,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 207,
+      "gas:candidate-vibid:1001000112187": 110,
+      "gas:candidate-vibid:322300267195": 25,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 28,
+      "gas:candidate-vibid:322300267075": 11,
+      "gas:candidate-vibid:1001000187992": 98,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 207,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 33,
-      "Коршунов Лев Александрович": 312,
-      "Останин Валерий Сергеевич": 231,
-      "Паршуткина Ираида Ивановна": 41,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 44,
-      "Татлыбаев Сергей Алексеевич": 11,
-      "Хачатурян Сергей Грантович": 192,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121810": 207,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 33,
+      "gas:candidate-vibid:322300266718": 312,
+      "gas:candidate-vibid:1001000112187": 231,
+      "gas:candidate-vibid:322300267195": 41,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 44,
+      "gas:candidate-vibid:322300267075": 11,
+      "gas:candidate-vibid:1001000187992": 192,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 221,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 340,
-      "Останин Валерий Сергеевич": 284,
-      "Паршуткина Ираида Ивановна": 50,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 44,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 187,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121810": 221,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 340,
+      "gas:candidate-vibid:1001000112187": 284,
+      "gas:candidate-vibid:322300267195": 50,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 44,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 187,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 61,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 102,
-      "Останин Валерий Сергеевич": 103,
-      "Паршуткина Ираида Ивановна": 23,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 15,
-      "Татлыбаев Сергей Алексеевич": 11,
-      "Хачатурян Сергей Грантович": 54,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121810": 61,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 102,
+      "gas:candidate-vibid:1001000112187": 103,
+      "gas:candidate-vibid:322300267195": 23,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 15,
+      "gas:candidate-vibid:322300267075": 11,
+      "gas:candidate-vibid:1001000187992": 54,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 215,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 16,
-      "Коршунов Лев Александрович": 221,
-      "Останин Валерий Сергеевич": 212,
-      "Паршуткина Ираида Ивановна": 39,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 41,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 153,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121810": 215,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 16,
+      "gas:candidate-vibid:322300266718": 221,
+      "gas:candidate-vibid:1001000112187": 212,
+      "gas:candidate-vibid:322300267195": 39,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 41,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 153,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 181,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 14,
-      "Коршунов Лев Александрович": 261,
-      "Останин Валерий Сергеевич": 211,
-      "Паршуткина Ираида Ивановна": 32,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 41,
-      "Татлыбаев Сергей Алексеевич": 13,
-      "Хачатурян Сергей Грантович": 148,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121810": 181,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 14,
+      "gas:candidate-vibid:322300266718": 261,
+      "gas:candidate-vibid:1001000112187": 211,
+      "gas:candidate-vibid:322300267195": 32,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 41,
+      "gas:candidate-vibid:322300267075": 13,
+      "gas:candidate-vibid:1001000187992": 148,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 149,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 24,
-      "Коршунов Лев Александрович": 177,
-      "Останин Валерий Сергеевич": 210,
-      "Паршуткина Ираида Ивановна": 27,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 32,
-      "Татлыбаев Сергей Алексеевич": 12,
-      "Хачатурян Сергей Грантович": 139,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121810": 149,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 24,
+      "gas:candidate-vibid:322300266718": 177,
+      "gas:candidate-vibid:1001000112187": 210,
+      "gas:candidate-vibid:322300267195": 27,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 32,
+      "gas:candidate-vibid:322300267075": 12,
+      "gas:candidate-vibid:1001000187992": 139,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 192,
-      "Голубева Людмила Петровна": 14,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 340,
-      "Останин Валерий Сергеевич": 258,
-      "Паршуткина Ираида Ивановна": 36,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 34,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 171,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121810": 192,
+      "gas:candidate-vibid:1001000195041": 14,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 340,
+      "gas:candidate-vibid:1001000112187": 258,
+      "gas:candidate-vibid:322300267195": 36,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 34,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 171,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 119,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 31,
-      "Коршунов Лев Александрович": 255,
-      "Останин Валерий Сергеевич": 155,
-      "Паршуткина Ираида Ивановна": 35,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 31,
-      "Татлыбаев Сергей Алексеевич": 12,
-      "Хачатурян Сергей Грантович": 149,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121810": 119,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 31,
+      "gas:candidate-vibid:322300266718": 255,
+      "gas:candidate-vibid:1001000112187": 155,
+      "gas:candidate-vibid:322300267195": 35,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 31,
+      "gas:candidate-vibid:322300267075": 12,
+      "gas:candidate-vibid:1001000187992": 149,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 155,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 34,
-      "Коршунов Лев Александрович": 152,
-      "Останин Валерий Сергеевич": 111,
-      "Паршуткина Ираида Ивановна": 28,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 24,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 79,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121810": 155,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 34,
+      "gas:candidate-vibid:322300266718": 152,
+      "gas:candidate-vibid:1001000112187": 111,
+      "gas:candidate-vibid:322300267195": 28,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 24,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 79,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 210,
-      "Голубева Людмила Петровна": 11,
-      "Гурьев Вячеслав Васильевич": 16,
-      "Коршунов Лев Александрович": 277,
-      "Останин Валерий Сергеевич": 194,
-      "Паршуткина Ираида Ивановна": 51,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 25,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 135,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121810": 210,
+      "gas:candidate-vibid:1001000195041": 11,
+      "gas:candidate-vibid:1001000136012": 16,
+      "gas:candidate-vibid:322300266718": 277,
+      "gas:candidate-vibid:1001000112187": 194,
+      "gas:candidate-vibid:322300267195": 51,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 25,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 135,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 196,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 190,
-      "Останин Валерий Сергеевич": 206,
-      "Паршуткина Ираида Ивановна": 34,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 29,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 105,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121810": 196,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 190,
+      "gas:candidate-vibid:1001000112187": 206,
+      "gas:candidate-vibid:322300267195": 34,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 29,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 105,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 155,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 29,
-      "Коршунов Лев Александрович": 259,
-      "Останин Валерий Сергеевич": 141,
-      "Паршуткина Ираида Ивановна": 28,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 16,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 113,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121810": 155,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 29,
+      "gas:candidate-vibid:322300266718": 259,
+      "gas:candidate-vibid:1001000112187": 141,
+      "gas:candidate-vibid:322300267195": 28,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 16,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 113,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 238,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 39,
-      "Коршунов Лев Александрович": 350,
-      "Останин Валерий Сергеевич": 338,
-      "Паршуткина Ираида Ивановна": 68,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 45,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 272,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121810": 238,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 39,
+      "gas:candidate-vibid:322300266718": 350,
+      "gas:candidate-vibid:1001000112187": 338,
+      "gas:candidate-vibid:322300267195": 68,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 45,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 272,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 205,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 261,
-      "Останин Валерий Сергеевич": 280,
-      "Паршуткина Ираида Ивановна": 44,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 35,
-      "Татлыбаев Сергей Алексеевич": 18,
-      "Хачатурян Сергей Грантович": 164,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121810": 205,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 261,
+      "gas:candidate-vibid:1001000112187": 280,
+      "gas:candidate-vibid:322300267195": 44,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 35,
+      "gas:candidate-vibid:322300267075": 18,
+      "gas:candidate-vibid:1001000187992": 164,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 197,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 31,
-      "Коршунов Лев Александрович": 318,
-      "Останин Валерий Сергеевич": 255,
-      "Паршуткина Ираида Ивановна": 41,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 36,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 182,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121810": 197,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 31,
+      "gas:candidate-vibid:322300266718": 318,
+      "gas:candidate-vibid:1001000112187": 255,
+      "gas:candidate-vibid:322300267195": 41,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 36,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 182,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 162,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 21,
-      "Коршунов Лев Александрович": 201,
-      "Останин Валерий Сергеевич": 122,
-      "Паршуткина Ираида Ивановна": 23,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 24,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 102,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121810": 162,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 21,
+      "gas:candidate-vibid:322300266718": 201,
+      "gas:candidate-vibid:1001000112187": 122,
+      "gas:candidate-vibid:322300267195": 23,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 24,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 102,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 212,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 62,
-      "Коршунов Лев Александрович": 384,
-      "Останин Валерий Сергеевич": 348,
-      "Паршуткина Ираида Ивановна": 49,
-      "Сафонов Валерий Иванович": 12,
-      "Скоморохов Евгений Сергеевич": 51,
-      "Татлыбаев Сергей Алексеевич": 22,
-      "Хачатурян Сергей Грантович": 179,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121810": 212,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 62,
+      "gas:candidate-vibid:322300266718": 384,
+      "gas:candidate-vibid:1001000112187": 348,
+      "gas:candidate-vibid:322300267195": 49,
+      "gas:candidate-vibid:1001000254929": 12,
+      "gas:candidate-vibid:1001000202288": 51,
+      "gas:candidate-vibid:322300267075": 22,
+      "gas:candidate-vibid:1001000187992": 179,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 236,
-      "Голубева Людмила Петровна": 15,
-      "Гурьев Вячеслав Васильевич": 32,
-      "Коршунов Лев Александрович": 274,
-      "Останин Валерий Сергеевич": 297,
-      "Паршуткина Ираида Ивановна": 57,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 49,
-      "Татлыбаев Сергей Алексеевич": 16,
-      "Хачатурян Сергей Грантович": 127,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121810": 236,
+      "gas:candidate-vibid:1001000195041": 15,
+      "gas:candidate-vibid:1001000136012": 32,
+      "gas:candidate-vibid:322300266718": 274,
+      "gas:candidate-vibid:1001000112187": 297,
+      "gas:candidate-vibid:322300267195": 57,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 49,
+      "gas:candidate-vibid:322300267075": 16,
+      "gas:candidate-vibid:1001000187992": 127,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 135,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 160,
-      "Останин Валерий Сергеевич": 136,
-      "Паршуткина Ираида Ивановна": 22,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 18,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 131,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121810": 135,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 160,
+      "gas:candidate-vibid:1001000112187": 136,
+      "gas:candidate-vibid:322300267195": 22,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 18,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 131,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 191,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 28,
-      "Коршунов Лев Александрович": 282,
-      "Останин Валерий Сергеевич": 240,
-      "Паршуткина Ираида Ивановна": 35,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 44,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 144,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000121810": 191,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 28,
+      "gas:candidate-vibid:322300266718": 282,
+      "gas:candidate-vibid:1001000112187": 240,
+      "gas:candidate-vibid:322300267195": 35,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 44,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 144,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 228,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 32,
-      "Коршунов Лев Александрович": 287,
-      "Останин Валерий Сергеевич": 294,
-      "Паршуткина Ираида Ивановна": 42,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 52,
-      "Татлыбаев Сергей Алексеевич": 16,
-      "Хачатурян Сергей Грантович": 155,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121810": 228,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 32,
+      "gas:candidate-vibid:322300266718": 287,
+      "gas:candidate-vibid:1001000112187": 294,
+      "gas:candidate-vibid:322300267195": 42,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 52,
+      "gas:candidate-vibid:322300267075": 16,
+      "gas:candidate-vibid:1001000187992": 155,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 219,
-      "Голубева Людмила Петровна": 14,
-      "Гурьев Вячеслав Васильевич": 41,
-      "Коршунов Лев Александрович": 292,
-      "Останин Валерий Сергеевич": 343,
-      "Паршуткина Ираида Ивановна": 46,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 51,
-      "Татлыбаев Сергей Алексеевич": 18,
-      "Хачатурян Сергей Грантович": 185,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000121810": 219,
+      "gas:candidate-vibid:1001000195041": 14,
+      "gas:candidate-vibid:1001000136012": 41,
+      "gas:candidate-vibid:322300266718": 292,
+      "gas:candidate-vibid:1001000112187": 343,
+      "gas:candidate-vibid:322300267195": 46,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 51,
+      "gas:candidate-vibid:322300267075": 18,
+      "gas:candidate-vibid:1001000187992": 185,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 167,
-      "Голубева Людмила Петровна": 56,
-      "Гурьев Вячеслав Васильевич": 14,
-      "Коршунов Лев Александрович": 264,
-      "Останин Валерий Сергеевич": 290,
-      "Паршуткина Ираида Ивановна": 46,
-      "Сафонов Валерий Иванович": 35,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 11,
-      "Хачатурян Сергей Грантович": 171,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121810": 167,
+      "gas:candidate-vibid:1001000195041": 56,
+      "gas:candidate-vibid:1001000136012": 14,
+      "gas:candidate-vibid:322300266718": 264,
+      "gas:candidate-vibid:1001000112187": 290,
+      "gas:candidate-vibid:322300267195": 46,
+      "gas:candidate-vibid:1001000254929": 35,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 11,
+      "gas:candidate-vibid:1001000187992": 171,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 202,
-      "Голубева Людмила Петровна": 11,
-      "Гурьев Вячеслав Васильевич": 28,
-      "Коршунов Лев Александрович": 302,
-      "Останин Валерий Сергеевич": 267,
-      "Паршуткина Ираида Ивановна": 32,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 35,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 150,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121810": 202,
+      "gas:candidate-vibid:1001000195041": 11,
+      "gas:candidate-vibid:1001000136012": 28,
+      "gas:candidate-vibid:322300266718": 302,
+      "gas:candidate-vibid:1001000112187": 267,
+      "gas:candidate-vibid:322300267195": 32,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 35,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 150,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 250,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 32,
-      "Коршунов Лев Александрович": 365,
-      "Останин Валерий Сергеевич": 324,
-      "Паршуткина Ираида Ивановна": 47,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 68,
-      "Татлыбаев Сергей Алексеевич": 17,
-      "Хачатурян Сергей Грантович": 204,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000121810": 250,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 32,
+      "gas:candidate-vibid:322300266718": 365,
+      "gas:candidate-vibid:1001000112187": 324,
+      "gas:candidate-vibid:322300267195": 47,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 68,
+      "gas:candidate-vibid:322300267075": 17,
+      "gas:candidate-vibid:1001000187992": 204,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 199,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 220,
-      "Останин Валерий Сергеевич": 178,
-      "Паршуткина Ираида Ивановна": 33,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 29,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 192,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121810": 199,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 220,
+      "gas:candidate-vibid:1001000112187": 178,
+      "gas:candidate-vibid:322300267195": 33,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 29,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 192,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 283,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 37,
-      "Коршунов Лев Александрович": 353,
-      "Останин Валерий Сергеевич": 354,
-      "Паршуткина Ираида Ивановна": 56,
-      "Сафонов Валерий Иванович": 10,
-      "Скоморохов Евгений Сергеевич": 47,
-      "Татлыбаев Сергей Алексеевич": 14,
-      "Хачатурян Сергей Грантович": 232,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121810": 283,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 37,
+      "gas:candidate-vibid:322300266718": 353,
+      "gas:candidate-vibid:1001000112187": 354,
+      "gas:candidate-vibid:322300267195": 56,
+      "gas:candidate-vibid:1001000254929": 10,
+      "gas:candidate-vibid:1001000202288": 47,
+      "gas:candidate-vibid:322300267075": 14,
+      "gas:candidate-vibid:1001000187992": 232,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 187,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 201,
-      "Останин Валерий Сергеевич": 210,
-      "Паршуткина Ираида Ивановна": 29,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 37,
-      "Татлыбаев Сергей Алексеевич": 8,
-      "Хачатурян Сергей Грантович": 152,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121810": 187,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 201,
+      "gas:candidate-vibid:1001000112187": 210,
+      "gas:candidate-vibid:322300267195": 29,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 37,
+      "gas:candidate-vibid:322300267075": 8,
+      "gas:candidate-vibid:1001000187992": 152,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 260,
-      "Голубева Людмила Петровна": 15,
-      "Гурьев Вячеслав Васильевич": 34,
-      "Коршунов Лев Александрович": 350,
-      "Останин Валерий Сергеевич": 352,
-      "Паршуткина Ираида Ивановна": 44,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 54,
-      "Татлыбаев Сергей Алексеевич": 22,
-      "Хачатурян Сергей Грантович": 233,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121810": 260,
+      "gas:candidate-vibid:1001000195041": 15,
+      "gas:candidate-vibid:1001000136012": 34,
+      "gas:candidate-vibid:322300266718": 350,
+      "gas:candidate-vibid:1001000112187": 352,
+      "gas:candidate-vibid:322300267195": 44,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 54,
+      "gas:candidate-vibid:322300267075": 22,
+      "gas:candidate-vibid:1001000187992": 233,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 269,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 49,
-      "Коршунов Лев Александрович": 395,
-      "Останин Валерий Сергеевич": 330,
-      "Паршуткина Ираида Ивановна": 65,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 52,
-      "Татлыбаев Сергей Алексеевич": 18,
-      "Хачатурян Сергей Грантович": 196,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000121810": 269,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 49,
+      "gas:candidate-vibid:322300266718": 395,
+      "gas:candidate-vibid:1001000112187": 330,
+      "gas:candidate-vibid:322300267195": 65,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 52,
+      "gas:candidate-vibid:322300267075": 18,
+      "gas:candidate-vibid:1001000187992": 196,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 140,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 47,
-      "Коршунов Лев Александрович": 276,
-      "Останин Валерий Сергеевич": 239,
-      "Паршуткина Ираида Ивановна": 45,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 58,
-      "Татлыбаев Сергей Алексеевич": 23,
-      "Хачатурян Сергей Грантович": 157,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000121810": 140,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 47,
+      "gas:candidate-vibid:322300266718": 276,
+      "gas:candidate-vibid:1001000112187": 239,
+      "gas:candidate-vibid:322300267195": 45,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 58,
+      "gas:candidate-vibid:322300267075": 23,
+      "gas:candidate-vibid:1001000187992": 157,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 227,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 33,
-      "Коршунов Лев Александрович": 369,
-      "Останин Валерий Сергеевич": 342,
-      "Паршуткина Ираида Ивановна": 46,
-      "Сафонов Валерий Иванович": 9,
-      "Скоморохов Евгений Сергеевич": 52,
-      "Татлыбаев Сергей Алексеевич": 19,
-      "Хачатурян Сергей Грантович": 181,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121810": 227,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 33,
+      "gas:candidate-vibid:322300266718": 369,
+      "gas:candidate-vibid:1001000112187": 342,
+      "gas:candidate-vibid:322300267195": 46,
+      "gas:candidate-vibid:1001000254929": 9,
+      "gas:candidate-vibid:1001000202288": 52,
+      "gas:candidate-vibid:322300267075": 19,
+      "gas:candidate-vibid:1001000187992": 181,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 226,
-      "Голубева Людмила Петровна": 15,
-      "Гурьев Вячеслав Васильевич": 39,
-      "Коршунов Лев Александрович": 340,
-      "Останин Валерий Сергеевич": 289,
-      "Паршуткина Ираида Ивановна": 62,
-      "Сафонов Валерий Иванович": 11,
-      "Скоморохов Евгений Сергеевич": 54,
-      "Татлыбаев Сергей Алексеевич": 17,
-      "Хачатурян Сергей Грантович": 237,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000121810": 226,
+      "gas:candidate-vibid:1001000195041": 15,
+      "gas:candidate-vibid:1001000136012": 39,
+      "gas:candidate-vibid:322300266718": 340,
+      "gas:candidate-vibid:1001000112187": 289,
+      "gas:candidate-vibid:322300267195": 62,
+      "gas:candidate-vibid:1001000254929": 11,
+      "gas:candidate-vibid:1001000202288": 54,
+      "gas:candidate-vibid:322300267075": 17,
+      "gas:candidate-vibid:1001000187992": 237,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 208,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 24,
-      "Коршунов Лев Александрович": 279,
-      "Останин Валерий Сергеевич": 164,
-      "Паршуткина Ираида Ивановна": 25,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 36,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 131,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121810": 208,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 24,
+      "gas:candidate-vibid:322300266718": 279,
+      "gas:candidate-vibid:1001000112187": 164,
+      "gas:candidate-vibid:322300267195": 25,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 36,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 131,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 222,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 332,
-      "Останин Валерий Сергеевич": 173,
-      "Паршуткина Ираида Ивановна": 34,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 31,
-      "Татлыбаев Сергей Алексеевич": 12,
-      "Хачатурян Сергей Грантович": 88,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121810": 222,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 332,
+      "gas:candidate-vibid:1001000112187": 173,
+      "gas:candidate-vibid:322300267195": 34,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 31,
+      "gas:candidate-vibid:322300267075": 12,
+      "gas:candidate-vibid:1001000187992": 88,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 151,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 53,
-      "Коршунов Лев Александрович": 330,
-      "Останин Валерий Сергеевич": 170,
-      "Паршуткина Ираида Ивановна": 35,
-      "Сафонов Валерий Иванович": 11,
-      "Скоморохов Евгений Сергеевич": 57,
-      "Татлыбаев Сергей Алексеевич": 20,
-      "Хачатурян Сергей Грантович": 101,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000121810": 151,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 53,
+      "gas:candidate-vibid:322300266718": 330,
+      "gas:candidate-vibid:1001000112187": 170,
+      "gas:candidate-vibid:322300267195": 35,
+      "gas:candidate-vibid:1001000254929": 11,
+      "gas:candidate-vibid:1001000202288": 57,
+      "gas:candidate-vibid:322300267075": 20,
+      "gas:candidate-vibid:1001000187992": 101,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 140,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 31,
-      "Коршунов Лев Александрович": 260,
-      "Останин Валерий Сергеевич": 257,
-      "Паршуткина Ираида Ивановна": 55,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 43,
-      "Татлыбаев Сергей Алексеевич": 21,
-      "Хачатурян Сергей Грантович": 120,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000121810": 140,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 31,
+      "gas:candidate-vibid:322300266718": 260,
+      "gas:candidate-vibid:1001000112187": 257,
+      "gas:candidate-vibid:322300267195": 55,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 43,
+      "gas:candidate-vibid:322300267075": 21,
+      "gas:candidate-vibid:1001000187992": 120,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266682&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 88,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 8,
-      "Коршунов Лев Александрович": 277,
-      "Останин Валерий Сергеевич": 26,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121810": 88,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 8,
+      "gas:candidate-vibid:322300266718": 277,
+      "gas:candidate-vibid:1001000112187": 26,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 61,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 16,
-      "Коршунов Лев Александрович": 301,
-      "Останин Валерий Сергеевич": 31,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 9,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 13,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121810": 61,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 16,
+      "gas:candidate-vibid:322300266718": 301,
+      "gas:candidate-vibid:1001000112187": 31,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 9,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 13,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 37,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 9,
-      "Коршунов Лев Александрович": 147,
-      "Останин Валерий Сергеевич": 17,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 11,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121810": 37,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 9,
+      "gas:candidate-vibid:322300266718": 147,
+      "gas:candidate-vibid:1001000112187": 17,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 11,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 218,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 43,
-      "Коршунов Лев Александрович": 568,
-      "Останин Валерий Сергеевич": 138,
-      "Паршуткина Ираида Ивановна": 20,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 13,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 64,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121810": 218,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 43,
+      "gas:candidate-vibid:322300266718": 568,
+      "gas:candidate-vibid:1001000112187": 138,
+      "gas:candidate-vibid:322300267195": 20,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 13,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 64,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 75,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 7,
-      "Коршунов Лев Александрович": 115,
-      "Останин Валерий Сергеевич": 15,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121810": 75,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 7,
+      "gas:candidate-vibid:322300266718": 115,
+      "gas:candidate-vibid:1001000112187": 15,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 403,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 10,
-      "Коршунов Лев Александрович": 245,
-      "Останин Валерий Сергеевич": 73,
-      "Паршуткина Ираида Ивановна": 11,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 16,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 29,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121810": 403,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 10,
+      "gas:candidate-vibid:322300266718": 245,
+      "gas:candidate-vibid:1001000112187": 73,
+      "gas:candidate-vibid:322300267195": 11,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 16,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 29,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 65,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 11,
-      "Коршунов Лев Александрович": 311,
-      "Останин Валерий Сергеевич": 30,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 12,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 32,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121810": 65,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 11,
+      "gas:candidate-vibid:322300266718": 311,
+      "gas:candidate-vibid:1001000112187": 30,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 12,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 32,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 24,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 11,
-      "Коршунов Лев Александрович": 251,
-      "Останин Валерий Сергеевич": 15,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121810": 24,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 11,
+      "gas:candidate-vibid:322300266718": 251,
+      "gas:candidate-vibid:1001000112187": 15,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 3,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 39,
-      "Останин Валерий Сергеевич": 6,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121810": 3,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 39,
+      "gas:candidate-vibid:1001000112187": 6,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 167,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 265,
-      "Останин Валерий Сергеевич": 34,
-      "Паршуткина Ираида Ивановна": 14,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 15,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 6,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121810": 167,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 265,
+      "gas:candidate-vibid:1001000112187": 34,
+      "gas:candidate-vibid:322300267195": 14,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 15,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 6,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 150,
-      "Голубева Людмила Петровна": 20,
-      "Гурьев Вячеслав Васильевич": 23,
-      "Коршунов Лев Александрович": 523,
-      "Останин Валерий Сергеевич": 99,
-      "Паршуткина Ираида Ивановна": 29,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 37,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 73,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121810": 150,
+      "gas:candidate-vibid:1001000195041": 20,
+      "gas:candidate-vibid:1001000136012": 23,
+      "gas:candidate-vibid:322300266718": 523,
+      "gas:candidate-vibid:1001000112187": 99,
+      "gas:candidate-vibid:322300267195": 29,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 37,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 73,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 36,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 76,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 5,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121810": 36,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 76,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 5,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 177,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 20,
-      "Коршунов Лев Александрович": 537,
-      "Останин Валерий Сергеевич": 157,
-      "Паршуткина Ираида Ивановна": 10,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 32,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 52,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121810": 177,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 20,
+      "gas:candidate-vibid:322300266718": 537,
+      "gas:candidate-vibid:1001000112187": 157,
+      "gas:candidate-vibid:322300267195": 10,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 32,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 52,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 44,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 103,
-      "Останин Валерий Сергеевич": 12,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 13,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121810": 44,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 103,
+      "gas:candidate-vibid:1001000112187": 12,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 13,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 193,
-      "Голубева Людмила Петровна": 15,
-      "Гурьев Вячеслав Васильевич": 16,
-      "Коршунов Лев Александрович": 406,
-      "Останин Валерий Сергеевич": 77,
-      "Паршуткина Ираида Ивановна": 14,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 30,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 63,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121810": 193,
+      "gas:candidate-vibid:1001000195041": 15,
+      "gas:candidate-vibid:1001000136012": 16,
+      "gas:candidate-vibid:322300266718": 406,
+      "gas:candidate-vibid:1001000112187": 77,
+      "gas:candidate-vibid:322300267195": 14,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 30,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 63,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 44,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 12,
-      "Коршунов Лев Александрович": 64,
-      "Останин Валерий Сергеевич": 30,
-      "Паршуткина Ираида Ивановна": 12,
-      "Сафонов Валерий Иванович": 9,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 28,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121810": 44,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 12,
+      "gas:candidate-vibid:322300266718": 64,
+      "gas:candidate-vibid:1001000112187": 30,
+      "gas:candidate-vibid:322300267195": 12,
+      "gas:candidate-vibid:1001000254929": 9,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 28,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 47,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 10,
-      "Коршунов Лев Александрович": 67,
-      "Останин Валерий Сергеевич": 35,
-      "Паршуткина Ираида Ивановна": 7,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 8,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 28,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121810": 47,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 10,
+      "gas:candidate-vibid:322300266718": 67,
+      "gas:candidate-vibid:1001000112187": 35,
+      "gas:candidate-vibid:322300267195": 7,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 8,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 28,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 107,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 26,
-      "Коршунов Лев Александрович": 360,
-      "Останин Валерий Сергеевич": 92,
-      "Паршуткина Ираида Ивановна": 16,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 8,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 11,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121810": 107,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 26,
+      "gas:candidate-vibid:322300266718": 360,
+      "gas:candidate-vibid:1001000112187": 92,
+      "gas:candidate-vibid:322300267195": 16,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 8,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 11,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 13,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 35,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121810": 13,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 35,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 59,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 8,
-      "Коршунов Лев Александрович": 127,
-      "Останин Валерий Сергеевич": 19,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 17,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121810": 59,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 8,
+      "gas:candidate-vibid:322300266718": 127,
+      "gas:candidate-vibid:1001000112187": 19,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 17,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 46,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 10,
-      "Коршунов Лев Александрович": 128,
-      "Останин Валерий Сергеевич": 24,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121810": 46,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 10,
+      "gas:candidate-vibid:322300266718": 128,
+      "gas:candidate-vibid:1001000112187": 24,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 225,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 39,
-      "Коршунов Лев Александрович": 363,
-      "Останин Валерий Сергеевич": 158,
-      "Паршуткина Ираида Ивановна": 50,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 36,
-      "Татлыбаев Сергей Алексеевич": 13,
-      "Хачатурян Сергей Грантович": 74,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121810": 225,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 39,
+      "gas:candidate-vibid:322300266718": 363,
+      "gas:candidate-vibid:1001000112187": 158,
+      "gas:candidate-vibid:322300267195": 50,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 36,
+      "gas:candidate-vibid:322300267075": 13,
+      "gas:candidate-vibid:1001000187992": 74,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 333,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 38,
-      "Коршунов Лев Александрович": 500,
-      "Останин Валерий Сергеевич": 139,
-      "Паршуткина Ираида Ивановна": 44,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 33,
-      "Татлыбаев Сергей Алексеевич": 13,
-      "Хачатурян Сергей Грантович": 94,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121810": 333,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 38,
+      "gas:candidate-vibid:322300266718": 500,
+      "gas:candidate-vibid:1001000112187": 139,
+      "gas:candidate-vibid:322300267195": 44,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 33,
+      "gas:candidate-vibid:322300267075": 13,
+      "gas:candidate-vibid:1001000187992": 94,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 302,
-      "Голубева Людмила Петровна": 27,
-      "Гурьев Вячеслав Васильевич": 32,
-      "Коршунов Лев Александрович": 600,
-      "Останин Валерий Сергеевич": 138,
-      "Паршуткина Ираида Ивановна": 35,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 17,
-      "Татлыбаев Сергей Алексеевич": 9,
-      "Хачатурян Сергей Грантович": 98,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121810": 302,
+      "gas:candidate-vibid:1001000195041": 27,
+      "gas:candidate-vibid:1001000136012": 32,
+      "gas:candidate-vibid:322300266718": 600,
+      "gas:candidate-vibid:1001000112187": 138,
+      "gas:candidate-vibid:322300267195": 35,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 17,
+      "gas:candidate-vibid:322300267075": 9,
+      "gas:candidate-vibid:1001000187992": 98,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 8,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 39,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121810": 8,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 39,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 191,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 19,
-      "Коршунов Лев Александрович": 372,
-      "Останин Валерий Сергеевич": 32,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 19,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121810": 191,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 19,
+      "gas:candidate-vibid:322300266718": 372,
+      "gas:candidate-vibid:1001000112187": 32,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 19,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 25,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 60,
-      "Останин Валерий Сергеевич": 11,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121810": 25,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 60,
+      "gas:candidate-vibid:1001000112187": 11,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 51,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 48,
-      "Останин Валерий Сергеевич": 7,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121810": 51,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 48,
+      "gas:candidate-vibid:1001000112187": 7,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 51,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 88,
-      "Останин Валерий Сергеевич": 18,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 10,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121810": 51,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 88,
+      "gas:candidate-vibid:1001000112187": 18,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 10,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 36,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 95,
-      "Останин Валерий Сергеевич": 10,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121810": 36,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 95,
+      "gas:candidate-vibid:1001000112187": 10,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 71,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 10,
-      "Коршунов Лев Александрович": 405,
-      "Останин Валерий Сергеевич": 89,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 8,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 12,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121810": 71,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 10,
+      "gas:candidate-vibid:322300266718": 405,
+      "gas:candidate-vibid:1001000112187": 89,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 8,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 12,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 210,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 12,
-      "Коршунов Лев Александрович": 320,
-      "Останин Валерий Сергеевич": 67,
-      "Паршуткина Ираида Ивановна": 19,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 12,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 18,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121810": 210,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 12,
+      "gas:candidate-vibid:322300266718": 320,
+      "gas:candidate-vibid:1001000112187": 67,
+      "gas:candidate-vibid:322300267195": 19,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 12,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 18,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 4,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 39,
-      "Останин Валерий Сергеевич": 7,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121810": 4,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 39,
+      "gas:candidate-vibid:1001000112187": 7,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266683&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 428,
-      "Голубева Людмила Петровна": 30,
-      "Гурьев Вячеслав Васильевич": 38,
-      "Коршунов Лев Александрович": 508,
-      "Останин Валерий Сергеевич": 79,
-      "Паршуткина Ираида Ивановна": 52,
-      "Сафонов Валерий Иванович": 13,
-      "Скоморохов Евгений Сергеевич": 9,
-      "Татлыбаев Сергей Алексеевич": 11,
-      "Хачатурян Сергей Грантович": 431,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121810": 428,
+      "gas:candidate-vibid:1001000195041": 30,
+      "gas:candidate-vibid:1001000136012": 38,
+      "gas:candidate-vibid:322300266718": 508,
+      "gas:candidate-vibid:1001000112187": 79,
+      "gas:candidate-vibid:322300267195": 52,
+      "gas:candidate-vibid:1001000254929": 13,
+      "gas:candidate-vibid:1001000202288": 9,
+      "gas:candidate-vibid:322300267075": 11,
+      "gas:candidate-vibid:1001000187992": 431,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266684&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 190,
-      "Голубева Людмила Петровна": 18,
-      "Гурьев Вячеслав Васильевич": 24,
-      "Коршунов Лев Александрович": 356,
-      "Останин Валерий Сергеевич": 26,
-      "Паршуткина Ираида Ивановна": 17,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 13,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 176,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121810": 190,
+      "gas:candidate-vibid:1001000195041": 18,
+      "gas:candidate-vibid:1001000136012": 24,
+      "gas:candidate-vibid:322300266718": 356,
+      "gas:candidate-vibid:1001000112187": 26,
+      "gas:candidate-vibid:322300267195": 17,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 13,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 176,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266684&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 47,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 7,
-      "Коршунов Лев Александрович": 140,
-      "Останин Валерий Сергеевич": 13,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 16,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121810": 47,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 7,
+      "gas:candidate-vibid:322300266718": 140,
+      "gas:candidate-vibid:1001000112187": 13,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 16,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266684&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 114,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 65,
-      "Останин Валерий Сергеевич": 7,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 60,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121810": 114,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 65,
+      "gas:candidate-vibid:1001000112187": 7,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 60,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266684&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 87,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 14,
-      "Коршунов Лев Александрович": 347,
-      "Останин Валерий Сергеевич": 12,
-      "Паршуткина Ираида Ивановна": 17,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 7,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 43,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121810": 87,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 14,
+      "gas:candidate-vibid:322300266718": 347,
+      "gas:candidate-vibid:1001000112187": 12,
+      "gas:candidate-vibid:322300267195": 17,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 7,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 43,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266684&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 18,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 51,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 22,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121810": 18,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 51,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 22,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266684&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 52,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 50,
-      "Останин Валерий Сергеевич": 12,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 58,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121810": 52,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 50,
+      "gas:candidate-vibid:1001000112187": 12,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 58,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266684&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 40,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 176,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 17,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121810": 40,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 176,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 17,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 8,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 114,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121810": 8,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 114,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 191,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 9,
-      "Коршунов Лев Александрович": 156,
-      "Останин Валерий Сергеевич": 11,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121810": 191,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 9,
+      "gas:candidate-vibid:322300266718": 156,
+      "gas:candidate-vibid:1001000112187": 11,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 29,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 32,
-      "Останин Валерий Сергеевич": 5,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121810": 29,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 32,
+      "gas:candidate-vibid:1001000112187": 5,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 23,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 68,
-      "Останин Валерий Сергеевич": 0,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121810": 23,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 68,
+      "gas:candidate-vibid:1001000112187": 0,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 105,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 159,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 12,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121810": 105,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 159,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 12,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 11,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 0,
-      "Коршунов Лев Александрович": 38,
-      "Останин Валерий Сергеевич": 0,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121810": 11,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 0,
+      "gas:candidate-vibid:322300266718": 38,
+      "gas:candidate-vibid:1001000112187": 0,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 137,
-      "Голубева Людмила Петровна": 12,
-      "Гурьев Вячеслав Васильевич": 18,
-      "Коршунов Лев Александрович": 244,
-      "Останин Валерий Сергеевич": 39,
-      "Паршуткина Ираида Ивановна": 8,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 5,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 139,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121810": 137,
+      "gas:candidate-vibid:1001000195041": 12,
+      "gas:candidate-vibid:1001000136012": 18,
+      "gas:candidate-vibid:322300266718": 244,
+      "gas:candidate-vibid:1001000112187": 39,
+      "gas:candidate-vibid:322300267195": 8,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 5,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 139,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 124,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 270,
-      "Останин Валерий Сергеевич": 35,
-      "Паршуткина Ираида Ивановна": 8,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 137,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121810": 124,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 270,
+      "gas:candidate-vibid:1001000112187": 35,
+      "gas:candidate-vibid:322300267195": 8,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 137,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 158,
-      "Голубева Людмила Петровна": 17,
-      "Гурьев Вячеслав Васильевич": 27,
-      "Коршунов Лев Александрович": 387,
-      "Останин Валерий Сергеевич": 63,
-      "Паршуткина Ираида Ивановна": 16,
-      "Сафонов Валерий Иванович": 12,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 153,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121810": 158,
+      "gas:candidate-vibid:1001000195041": 17,
+      "gas:candidate-vibid:1001000136012": 27,
+      "gas:candidate-vibid:322300266718": 387,
+      "gas:candidate-vibid:1001000112187": 63,
+      "gas:candidate-vibid:322300267195": 16,
+      "gas:candidate-vibid:1001000254929": 12,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 153,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 190,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 48,
-      "Коршунов Лев Александрович": 334,
-      "Останин Валерий Сергеевич": 85,
-      "Паршуткина Ираида Ивановна": 13,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 178,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121810": 190,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 48,
+      "gas:candidate-vibid:322300266718": 334,
+      "gas:candidate-vibid:1001000112187": 85,
+      "gas:candidate-vibid:322300267195": 13,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 178,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 52,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 14,
-      "Коршунов Лев Александрович": 135,
-      "Останин Валерий Сергеевич": 12,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 27,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121810": 52,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 14,
+      "gas:candidate-vibid:322300266718": 135,
+      "gas:candidate-vibid:1001000112187": 12,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 27,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 14,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 84,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 24,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121810": 14,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 84,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 24,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 47,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 10,
-      "Коршунов Лев Александрович": 298,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 36,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121810": 47,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 10,
+      "gas:candidate-vibid:322300266718": 298,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 36,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 77,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 7,
-      "Коршунов Лев Александрович": 267,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 61,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121810": 77,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 7,
+      "gas:candidate-vibid:322300266718": 267,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 61,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 23,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 74,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 5,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 43,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121810": 23,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 74,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 5,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 43,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 37,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 7,
-      "Коршунов Лев Александрович": 254,
-      "Останин Валерий Сергеевич": 6,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121810": 37,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 7,
+      "gas:candidate-vibid:322300266718": 254,
+      "gas:candidate-vibid:1001000112187": 6,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 18,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 100,
-      "Останин Валерий Сергеевич": 5,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 13,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121810": 18,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 100,
+      "gas:candidate-vibid:1001000112187": 5,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 13,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 113,
-      "Голубева Людмила Петровна": 16,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 260,
-      "Останин Валерий Сергеевич": 11,
-      "Паршуткина Ираида Ивановна": 10,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 59,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121810": 113,
+      "gas:candidate-vibid:1001000195041": 16,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 260,
+      "gas:candidate-vibid:1001000112187": 11,
+      "gas:candidate-vibid:322300267195": 10,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 59,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 31,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 114,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121810": 31,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 114,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 20,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 70,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121810": 20,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 70,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 212,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 12,
-      "Коршунов Лев Александрович": 178,
-      "Останин Валерий Сергеевич": 20,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 43,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121810": 212,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 12,
+      "gas:candidate-vibid:322300266718": 178,
+      "gas:candidate-vibid:1001000112187": 20,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 43,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 11,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 14,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121810": 11,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 14,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266685&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 110,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 112,
-      "Останин Валерий Сергеевич": 14,
-      "Паршуткина Ираида Ивановна": 19,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 76,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121810": 110,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 112,
+      "gas:candidate-vibid:1001000112187": 14,
+      "gas:candidate-vibid:322300267195": 19,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 76,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 76,
-      "Голубева Людмила Петровна": 4,
-      "Гурьев Вячеслав Васильевич": 11,
-      "Коршунов Лев Александрович": 197,
-      "Останин Валерий Сергеевич": 9,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 104,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121810": 76,
+      "gas:candidate-vibid:1001000195041": 4,
+      "gas:candidate-vibid:1001000136012": 11,
+      "gas:candidate-vibid:322300266718": 197,
+      "gas:candidate-vibid:1001000112187": 9,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 104,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 65,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 131,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 18,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121810": 65,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 131,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 18,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 74,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 92,
-      "Останин Валерий Сергеевич": 12,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 27,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121810": 74,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 92,
+      "gas:candidate-vibid:1001000112187": 12,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 27,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 56,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 18,
-      "Коршунов Лев Александрович": 65,
-      "Останин Валерий Сергеевич": 24,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 35,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121810": 56,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 18,
+      "gas:candidate-vibid:322300266718": 65,
+      "gas:candidate-vibid:1001000112187": 24,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 35,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 30,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 12,
-      "Коршунов Лев Александрович": 33,
-      "Останин Валерий Сергеевич": 11,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 40,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121810": 30,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 12,
+      "gas:candidate-vibid:322300266718": 33,
+      "gas:candidate-vibid:1001000112187": 11,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 40,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 12,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 51,
-      "Останин Валерий Сергеевич": 10,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 18,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121810": 12,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 51,
+      "gas:candidate-vibid:1001000112187": 10,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 18,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 67,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 8,
-      "Коршунов Лев Александрович": 174,
-      "Останин Валерий Сергеевич": 8,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 30,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121810": 67,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 8,
+      "gas:candidate-vibid:322300266718": 174,
+      "gas:candidate-vibid:1001000112187": 8,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 30,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 102,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 9,
-      "Коршунов Лев Александрович": 162,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 95,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121810": 102,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 9,
+      "gas:candidate-vibid:322300266718": 162,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 95,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 98,
-      "Голубева Людмила Петровна": 18,
-      "Гурьев Вячеслав Васильевич": 33,
-      "Коршунов Лев Александрович": 213,
-      "Останин Валерий Сергеевич": 45,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 7,
-      "Татлыбаев Сергей Алексеевич": 6,
-      "Хачатурян Сергей Грантович": 254,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121810": 98,
+      "gas:candidate-vibid:1001000195041": 18,
+      "gas:candidate-vibid:1001000136012": 33,
+      "gas:candidate-vibid:322300266718": 213,
+      "gas:candidate-vibid:1001000112187": 45,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 7,
+      "gas:candidate-vibid:322300267075": 6,
+      "gas:candidate-vibid:1001000187992": 254,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 68,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 11,
-      "Коршунов Лев Александрович": 111,
-      "Останин Валерий Сергеевич": 7,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 17,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121810": 68,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 11,
+      "gas:candidate-vibid:322300266718": 111,
+      "gas:candidate-vibid:1001000112187": 7,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 17,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 36,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 42,
-      "Останин Валерий Сергеевич": 9,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121810": 36,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 42,
+      "gas:candidate-vibid:1001000112187": 9,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 15,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 32,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121810": 15,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 32,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 45,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 139,
-      "Останин Валерий Сергеевич": 18,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 65,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121810": 45,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 139,
+      "gas:candidate-vibid:1001000112187": 18,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 65,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 70,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 8,
-      "Коршунов Лев Александрович": 125,
-      "Останин Валерий Сергеевич": 10,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 32,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121810": 70,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 8,
+      "gas:candidate-vibid:322300266718": 125,
+      "gas:candidate-vibid:1001000112187": 10,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 32,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 13,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 55,
-      "Останин Валерий Сергеевич": 1,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121810": 13,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 55,
+      "gas:candidate-vibid:1001000112187": 1,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 15,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 21,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 31,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121810": 15,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 21,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 31,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 39,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 11,
-      "Коршунов Лев Александрович": 225,
-      "Останин Валерий Сергеевич": 15,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 33,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121810": 39,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 11,
+      "gas:candidate-vibid:322300266718": 225,
+      "gas:candidate-vibid:1001000112187": 15,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 33,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 21,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 72,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 19,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121810": 21,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 72,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 19,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 14,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 24,
-      "Останин Валерий Сергеевич": 18,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 12,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121810": 14,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 24,
+      "gas:candidate-vibid:1001000112187": 18,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 12,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 16,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 20,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 28,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121810": 16,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 20,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 28,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 165,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 17,
-      "Коршунов Лев Александрович": 116,
-      "Останин Валерий Сергеевич": 43,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 39,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121810": 165,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 17,
+      "gas:candidate-vibid:322300266718": 116,
+      "gas:candidate-vibid:1001000112187": 43,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 39,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 45,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 7,
-      "Коршунов Лев Александрович": 72,
-      "Останин Валерий Сергеевич": 21,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 27,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121810": 45,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 7,
+      "gas:candidate-vibid:322300266718": 72,
+      "gas:candidate-vibid:1001000112187": 21,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 27,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 165,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 117,
-      "Останин Валерий Сергеевич": 58,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 86,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121810": 165,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 117,
+      "gas:candidate-vibid:1001000112187": 58,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 86,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 12,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 33,
-      "Останин Валерий Сергеевич": 0,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 13,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121810": 12,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 33,
+      "gas:candidate-vibid:1001000112187": 0,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 13,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 28,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 22,
-      "Останин Валерий Сергеевич": 9,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 39,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121810": 28,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 22,
+      "gas:candidate-vibid:1001000112187": 9,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 39,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 12,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 39,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 40,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121810": 12,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 39,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 40,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 130,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 67,
-      "Останин Валерий Сергеевич": 13,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 21,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121810": 130,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 67,
+      "gas:candidate-vibid:1001000112187": 13,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 21,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 34,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 0,
-      "Коршунов Лев Александрович": 38,
-      "Останин Валерий Сергеевич": 12,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 12,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121810": 34,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 0,
+      "gas:candidate-vibid:322300266718": 38,
+      "gas:candidate-vibid:1001000112187": 12,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 12,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 22,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 23,
-      "Останин Валерий Сергеевич": 0,
-      "Паршуткина Ираида Ивановна": 3,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121810": 22,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 23,
+      "gas:candidate-vibid:1001000112187": 0,
+      "gas:candidate-vibid:322300267195": 3,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 62,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 98,
-      "Останин Валерий Сергеевич": 27,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 103,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121810": 62,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 98,
+      "gas:candidate-vibid:1001000112187": 27,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 103,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 23,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 12,
-      "Останин Валерий Сергеевич": 6,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 47,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121810": 23,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 12,
+      "gas:candidate-vibid:1001000112187": 6,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 47,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 42,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 5,
-      "Коршунов Лев Александрович": 71,
-      "Останин Валерий Сергеевич": 16,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 48,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121810": 42,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 5,
+      "gas:candidate-vibid:322300266718": 71,
+      "gas:candidate-vibid:1001000112187": 16,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 48,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 96,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 14,
-      "Коршунов Лев Александрович": 179,
-      "Останин Валерий Сергеевич": 63,
-      "Паршуткина Ираида Ивановна": 8,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 119,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121810": 96,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 14,
+      "gas:candidate-vibid:322300266718": 179,
+      "gas:candidate-vibid:1001000112187": 63,
+      "gas:candidate-vibid:322300267195": 8,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 119,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 49,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 8,
-      "Коршунов Лев Александрович": 45,
-      "Останин Валерий Сергеевич": 9,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 32,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121810": 49,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 8,
+      "gas:candidate-vibid:322300266718": 45,
+      "gas:candidate-vibid:1001000112187": 9,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 32,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 205,
-      "Голубева Людмила Петровна": 14,
-      "Гурьев Вячеслав Васильевич": 28,
-      "Коршунов Лев Александрович": 204,
-      "Останин Валерий Сергеевич": 30,
-      "Паршуткина Ираида Ивановна": 8,
-      "Сафонов Валерий Иванович": 6,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 118,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121810": 205,
+      "gas:candidate-vibid:1001000195041": 14,
+      "gas:candidate-vibid:1001000136012": 28,
+      "gas:candidate-vibid:322300266718": 204,
+      "gas:candidate-vibid:1001000112187": 30,
+      "gas:candidate-vibid:322300267195": 8,
+      "gas:candidate-vibid:1001000254929": 6,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 118,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 123,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 27,
-      "Коршунов Лев Александрович": 251,
-      "Останин Валерий Сергеевич": 36,
-      "Паршуткина Ираида Ивановна": 5,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 116,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121810": 123,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 27,
+      "gas:candidate-vibid:322300266718": 251,
+      "gas:candidate-vibid:1001000112187": 36,
+      "gas:candidate-vibid:322300267195": 5,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 116,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 13,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 11,
-      "Останин Валерий Сергеевич": 5,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121810": 13,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 11,
+      "gas:candidate-vibid:1001000112187": 5,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 10,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 2,
-      "Останин Валерий Сергеевич": 8,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121810": 10,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 2,
+      "gas:candidate-vibid:1001000112187": 8,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 28,
-      "Голубева Людмила Петровна": 10,
-      "Гурьев Вячеслав Васильевич": 11,
-      "Коршунов Лев Александрович": 100,
-      "Останин Валерий Сергеевич": 7,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 44,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121810": 28,
+      "gas:candidate-vibid:1001000195041": 10,
+      "gas:candidate-vibid:1001000136012": 11,
+      "gas:candidate-vibid:322300266718": 100,
+      "gas:candidate-vibid:1001000112187": 7,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 44,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 47,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 58,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 35,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121810": 47,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 58,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 35,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 16,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 7,
-      "Коршунов Лев Александрович": 85,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 124,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121810": 16,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 7,
+      "gas:candidate-vibid:322300266718": 85,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 124,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 3,
-      "Голубева Людмила Петровна": 3,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 25,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 77,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121810": 3,
+      "gas:candidate-vibid:1001000195041": 3,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 25,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 77,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266686&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 248,
-      "Голубева Людмила Петровна": 17,
-      "Гурьев Вячеслав Васильевич": 65,
-      "Коршунов Лев Александрович": 293,
-      "Останин Валерий Сергеевич": 80,
-      "Паршуткина Ираида Ивановна": 15,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 13,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 743,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121810": 248,
+      "gas:candidate-vibid:1001000195041": 17,
+      "gas:candidate-vibid:1001000136012": 65,
+      "gas:candidate-vibid:322300266718": 293,
+      "gas:candidate-vibid:1001000112187": 80,
+      "gas:candidate-vibid:322300267195": 15,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 13,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 743,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 228,
-      "Голубева Людмила Петровна": 15,
-      "Гурьев Вячеслав Васильевич": 45,
-      "Коршунов Лев Александрович": 246,
-      "Останин Валерий Сергеевич": 74,
-      "Паршуткина Ираида Ивановна": 10,
-      "Сафонов Валерий Иванович": 8,
-      "Скоморохов Евгений Сергеевич": 8,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 804,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121810": 228,
+      "gas:candidate-vibid:1001000195041": 15,
+      "gas:candidate-vibid:1001000136012": 45,
+      "gas:candidate-vibid:322300266718": 246,
+      "gas:candidate-vibid:1001000112187": 74,
+      "gas:candidate-vibid:322300267195": 10,
+      "gas:candidate-vibid:1001000254929": 8,
+      "gas:candidate-vibid:1001000202288": 8,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 804,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 184,
-      "Голубева Людмила Петровна": 17,
-      "Гурьев Вячеслав Васильевич": 49,
-      "Коршунов Лев Александрович": 241,
-      "Останин Валерий Сергеевич": 55,
-      "Паршуткина Ираида Ивановна": 18,
-      "Сафонов Валерий Иванович": 11,
-      "Скоморохов Евгений Сергеевич": 7,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 598,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000121810": 184,
+      "gas:candidate-vibid:1001000195041": 17,
+      "gas:candidate-vibid:1001000136012": 49,
+      "gas:candidate-vibid:322300266718": 241,
+      "gas:candidate-vibid:1001000112187": 55,
+      "gas:candidate-vibid:322300267195": 18,
+      "gas:candidate-vibid:1001000254929": 11,
+      "gas:candidate-vibid:1001000202288": 7,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 598,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 185,
-      "Голубева Людмила Петровна": 20,
-      "Гурьев Вячеслав Васильевич": 48,
-      "Коршунов Лев Александрович": 419,
-      "Останин Валерий Сергеевич": 87,
-      "Паршуткина Ираида Ивановна": 11,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 755,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121810": 185,
+      "gas:candidate-vibid:1001000195041": 20,
+      "gas:candidate-vibid:1001000136012": 48,
+      "gas:candidate-vibid:322300266718": 419,
+      "gas:candidate-vibid:1001000112187": 87,
+      "gas:candidate-vibid:322300267195": 11,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 755,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 128,
-      "Голубева Людмила Петровна": 31,
-      "Гурьев Вячеслав Васильевич": 31,
-      "Коршунов Лев Александрович": 327,
-      "Останин Валерий Сергеевич": 54,
-      "Паршуткина Ираида Ивановна": 13,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 7,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 654,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121810": 128,
+      "gas:candidate-vibid:1001000195041": 31,
+      "gas:candidate-vibid:1001000136012": 31,
+      "gas:candidate-vibid:322300266718": 327,
+      "gas:candidate-vibid:1001000112187": 54,
+      "gas:candidate-vibid:322300267195": 13,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 7,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 654,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 165,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 23,
-      "Коршунов Лев Александрович": 250,
-      "Останин Валерий Сергеевич": 49,
-      "Паршуткина Ираида Ивановна": 11,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 591,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121810": 165,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 23,
+      "gas:candidate-vibid:322300266718": 250,
+      "gas:candidate-vibid:1001000112187": 49,
+      "gas:candidate-vibid:322300267195": 11,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 591,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 174,
-      "Голубева Людмила Петровна": 15,
-      "Гурьев Вячеслав Васильевич": 50,
-      "Коршунов Лев Александрович": 376,
-      "Останин Валерий Сергеевич": 98,
-      "Паршуткина Ираида Ивановна": 16,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 7,
-      "Хачатурян Сергей Грантович": 816,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121810": 174,
+      "gas:candidate-vibid:1001000195041": 15,
+      "gas:candidate-vibid:1001000136012": 50,
+      "gas:candidate-vibid:322300266718": 376,
+      "gas:candidate-vibid:1001000112187": 98,
+      "gas:candidate-vibid:322300267195": 16,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 7,
+      "gas:candidate-vibid:1001000187992": 816,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 207,
-      "Голубева Людмила Петровна": 17,
-      "Гурьев Вячеслав Васильевич": 39,
-      "Коршунов Лев Александрович": 385,
-      "Останин Валерий Сергеевич": 80,
-      "Паршуткина Ираида Ивановна": 17,
-      "Сафонов Валерий Иванович": 7,
-      "Скоморохов Евгений Сергеевич": 15,
-      "Татлыбаев Сергей Алексеевич": 5,
-      "Хачатурян Сергей Грантович": 780,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121810": 207,
+      "gas:candidate-vibid:1001000195041": 17,
+      "gas:candidate-vibid:1001000136012": 39,
+      "gas:candidate-vibid:322300266718": 385,
+      "gas:candidate-vibid:1001000112187": 80,
+      "gas:candidate-vibid:322300267195": 17,
+      "gas:candidate-vibid:1001000254929": 7,
+      "gas:candidate-vibid:1001000202288": 15,
+      "gas:candidate-vibid:322300267075": 5,
+      "gas:candidate-vibid:1001000187992": 780,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 178,
-      "Голубева Людмила Петровна": 17,
-      "Гурьев Вячеслав Васильевич": 37,
-      "Коршунов Лев Александрович": 399,
-      "Останин Валерий Сергеевич": 63,
-      "Паршуткина Ираида Ивановна": 12,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 4,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 734,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000121810": 178,
+      "gas:candidate-vibid:1001000195041": 17,
+      "gas:candidate-vibid:1001000136012": 37,
+      "gas:candidate-vibid:322300266718": 399,
+      "gas:candidate-vibid:1001000112187": 63,
+      "gas:candidate-vibid:322300267195": 12,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 4,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 734,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 143,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 25,
-      "Коршунов Лев Александрович": 272,
-      "Останин Валерий Сергеевич": 73,
-      "Паршуткина Ираида Ивановна": 15,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 6,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 579,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121810": 143,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 25,
+      "gas:candidate-vibid:322300266718": 272,
+      "gas:candidate-vibid:1001000112187": 73,
+      "gas:candidate-vibid:322300267195": 15,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 6,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 579,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 148,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 27,
-      "Коршунов Лев Александрович": 217,
-      "Останин Валерий Сергеевич": 50,
-      "Паршуткина Ираида Ивановна": 8,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 580,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121810": 148,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 27,
+      "gas:candidate-vibid:322300266718": 217,
+      "gas:candidate-vibid:1001000112187": 50,
+      "gas:candidate-vibid:322300267195": 8,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 580,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 154,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 38,
-      "Коршунов Лев Александрович": 163,
-      "Останин Валерий Сергеевич": 48,
-      "Паршуткина Ираида Ивановна": 9,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 636,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121810": 154,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 38,
+      "gas:candidate-vibid:322300266718": 163,
+      "gas:candidate-vibid:1001000112187": 48,
+      "gas:candidate-vibid:322300267195": 9,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 636,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 144,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 28,
-      "Коршунов Лев Александрович": 133,
-      "Останин Валерий Сергеевич": 16,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 306,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121810": 144,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 28,
+      "gas:candidate-vibid:322300266718": 133,
+      "gas:candidate-vibid:1001000112187": 16,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 306,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 217,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 24,
-      "Коршунов Лев Александрович": 179,
-      "Останин Валерий Сергеевич": 18,
-      "Паршуткина Ираида Ивановна": 4,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 297,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121810": 217,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 24,
+      "gas:candidate-vibid:322300266718": 179,
+      "gas:candidate-vibid:1001000112187": 18,
+      "gas:candidate-vibid:322300267195": 4,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 297,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 231,
-      "Голубева Людмила Петровна": 15,
-      "Гурьев Вячеслав Васильевич": 30,
-      "Коршунов Лев Александрович": 183,
-      "Останин Валерий Сергеевич": 23,
-      "Паршуткина Ираида Ивановна": 11,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 489,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121810": 231,
+      "gas:candidate-vibid:1001000195041": 15,
+      "gas:candidate-vibid:1001000136012": 30,
+      "gas:candidate-vibid:322300266718": 183,
+      "gas:candidate-vibid:1001000112187": 23,
+      "gas:candidate-vibid:322300267195": 11,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 489,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 245,
-      "Голубева Людмила Петровна": 11,
-      "Гурьев Вячеслав Васильевич": 44,
-      "Коршунов Лев Александрович": 187,
-      "Останин Валерий Сергеевич": 22,
-      "Паршуткина Ираида Ивановна": 6,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 351,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121810": 245,
+      "gas:candidate-vibid:1001000195041": 11,
+      "gas:candidate-vibid:1001000136012": 44,
+      "gas:candidate-vibid:322300266718": 187,
+      "gas:candidate-vibid:1001000112187": 22,
+      "gas:candidate-vibid:322300267195": 6,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 351,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 351,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 53,
-      "Коршунов Лев Александрович": 321,
-      "Останин Валерий Сергеевич": 47,
-      "Паршуткина Ираида Ивановна": 7,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 5,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 465,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000121810": 351,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 53,
+      "gas:candidate-vibid:322300266718": 321,
+      "gas:candidate-vibid:1001000112187": 47,
+      "gas:candidate-vibid:322300267195": 7,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 5,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 465,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 88,
-      "Голубева Людмила Петровна": 5,
-      "Гурьев Вячеслав Васильевич": 22,
-      "Коршунов Лев Александрович": 117,
-      "Останин Валерий Сергеевич": 16,
-      "Паршуткина Ираида Ивановна": 8,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 205,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121810": 88,
+      "gas:candidate-vibid:1001000195041": 5,
+      "gas:candidate-vibid:1001000136012": 22,
+      "gas:candidate-vibid:322300266718": 117,
+      "gas:candidate-vibid:1001000112187": 16,
+      "gas:candidate-vibid:322300267195": 8,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 205,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266687&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 279,
-      "Голубева Людмила Петровна": 11,
-      "Гурьев Вячеслав Васильевич": 21,
-      "Коршунов Лев Александрович": 156,
-      "Останин Валерий Сергеевич": 20,
-      "Паршуткина Ираида Ивановна": 15,
-      "Сафонов Валерий Иванович": 3,
-      "Скоморохов Евгений Сергеевич": 8,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 68,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121810": 279,
+      "gas:candidate-vibid:1001000195041": 11,
+      "gas:candidate-vibid:1001000136012": 21,
+      "gas:candidate-vibid:322300266718": 156,
+      "gas:candidate-vibid:1001000112187": 20,
+      "gas:candidate-vibid:322300267195": 15,
+      "gas:candidate-vibid:1001000254929": 3,
+      "gas:candidate-vibid:1001000202288": 8,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 68,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 27,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 25,
-      "Останин Валерий Сергеевич": 0,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121810": 27,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 25,
+      "gas:candidate-vibid:1001000112187": 0,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 352,
-      "Голубева Людмила Петровна": 13,
-      "Гурьев Вячеслав Васильевич": 34,
-      "Коршунов Лев Александрович": 248,
-      "Останин Валерий Сергеевич": 33,
-      "Паршуткина Ираида Ивановна": 15,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 19,
-      "Татлыбаев Сергей Алексеевич": 4,
-      "Хачатурян Сергей Грантович": 74,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121810": 352,
+      "gas:candidate-vibid:1001000195041": 13,
+      "gas:candidate-vibid:1001000136012": 34,
+      "gas:candidate-vibid:322300266718": 248,
+      "gas:candidate-vibid:1001000112187": 33,
+      "gas:candidate-vibid:322300267195": 15,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 19,
+      "gas:candidate-vibid:322300267075": 4,
+      "gas:candidate-vibid:1001000187992": 74,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 29,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 52,
-      "Останин Валерий Сергеевич": 2,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 17,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121810": 29,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 52,
+      "gas:candidate-vibid:1001000112187": 2,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 17,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 64,
-      "Голубева Людмила Петровна": 8,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 70,
-      "Останин Валерий Сергеевич": 4,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 9,
-      "Татлыбаев Сергей Алексеевич": 2,
-      "Хачатурян Сергей Грантович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121810": 64,
+      "gas:candidate-vibid:1001000195041": 8,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 70,
+      "gas:candidate-vibid:1001000112187": 4,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 9,
+      "gas:candidate-vibid:322300267075": 2,
+      "gas:candidate-vibid:1001000187992": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 17,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 3,
-      "Коршунов Лев Александрович": 28,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 2,
-      "Скоморохов Евгений Сергеевич": 6,
-      "Татлыбаев Сергей Алексеевич": 1,
-      "Хачатурян Сергей Грантович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121810": 17,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 3,
+      "gas:candidate-vibid:322300266718": 28,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 2,
+      "gas:candidate-vibid:1001000202288": 6,
+      "gas:candidate-vibid:322300267075": 1,
+      "gas:candidate-vibid:1001000187992": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 259,
-      "Голубева Людмила Петровна": 9,
-      "Гурьев Вячеслав Васильевич": 15,
-      "Коршунов Лев Александрович": 251,
-      "Останин Валерий Сергеевич": 16,
-      "Паршуткина Ираида Ивановна": 10,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 9,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 84,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121810": 259,
+      "gas:candidate-vibid:1001000195041": 9,
+      "gas:candidate-vibid:1001000136012": 15,
+      "gas:candidate-vibid:322300266718": 251,
+      "gas:candidate-vibid:1001000112187": 16,
+      "gas:candidate-vibid:322300267195": 10,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 9,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 84,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 20,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 41,
-      "Останин Валерий Сергеевич": 3,
-      "Паршуткина Ираида Ивановна": 2,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 2,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121810": 20,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 41,
+      "gas:candidate-vibid:1001000112187": 3,
+      "gas:candidate-vibid:322300267195": 2,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 2,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 432,
-      "Голубева Людмила Петровна": 7,
-      "Гурьев Вячеслав Васильевич": 37,
-      "Коршунов Лев Александрович": 436,
-      "Останин Валерий Сергеевич": 51,
-      "Паршуткина Ираида Ивановна": 20,
-      "Сафонов Валерий Иванович": 4,
-      "Скоморохов Евгений Сергеевич": 13,
-      "Татлыбаев Сергей Алексеевич": 10,
-      "Хачатурян Сергей Грантович": 89,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121810": 432,
+      "gas:candidate-vibid:1001000195041": 7,
+      "gas:candidate-vibid:1001000136012": 37,
+      "gas:candidate-vibid:322300266718": 436,
+      "gas:candidate-vibid:1001000112187": 51,
+      "gas:candidate-vibid:322300267195": 20,
+      "gas:candidate-vibid:1001000254929": 4,
+      "gas:candidate-vibid:1001000202288": 13,
+      "gas:candidate-vibid:322300267075": 10,
+      "gas:candidate-vibid:1001000187992": 89,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 379,
-      "Голубева Людмила Петровна": 6,
-      "Гурьев Вячеслав Васильевич": 35,
-      "Коршунов Лев Александрович": 313,
-      "Останин Валерий Сергеевич": 46,
-      "Паршуткина Ираида Ивановна": 11,
-      "Сафонов Валерий Иванович": 5,
-      "Скоморохов Евгений Сергеевич": 10,
-      "Татлыбаев Сергей Алексеевич": 3,
-      "Хачатурян Сергей Грантович": 82,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121810": 379,
+      "gas:candidate-vibid:1001000195041": 6,
+      "gas:candidate-vibid:1001000136012": 35,
+      "gas:candidate-vibid:322300266718": 313,
+      "gas:candidate-vibid:1001000112187": 46,
+      "gas:candidate-vibid:322300267195": 11,
+      "gas:candidate-vibid:1001000254929": 5,
+      "gas:candidate-vibid:1001000202288": 10,
+      "gas:candidate-vibid:322300267075": 3,
+      "gas:candidate-vibid:1001000187992": 82,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 82,
-      "Голубева Людмила Петровна": 2,
-      "Гурьев Вячеслав Васильевич": 6,
-      "Коршунов Лев Александрович": 27,
-      "Останин Валерий Сергеевич": 12,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 1,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121810": 82,
+      "gas:candidate-vibid:1001000195041": 2,
+      "gas:candidate-vibid:1001000136012": 6,
+      "gas:candidate-vibid:322300266718": 27,
+      "gas:candidate-vibid:1001000112187": 12,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 1,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 12,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 2,
-      "Коршунов Лев Александрович": 48,
-      "Останин Валерий Сергеевич": 0,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121810": 12,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 2,
+      "gas:candidate-vibid:322300266718": 48,
+      "gas:candidate-vibid:1001000112187": 0,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 13,
-      "Голубева Людмила Петровна": 0,
-      "Гурьев Вячеслав Васильевич": 4,
-      "Коршунов Лев Александрович": 11,
-      "Останин Валерий Сергеевич": 1,
-      "Паршуткина Ираида Ивановна": 1,
-      "Сафонов Валерий Иванович": 1,
-      "Скоморохов Евгений Сергеевич": 0,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121810": 13,
+      "gas:candidate-vibid:1001000195041": 0,
+      "gas:candidate-vibid:1001000136012": 4,
+      "gas:candidate-vibid:322300266718": 11,
+      "gas:candidate-vibid:1001000112187": 1,
+      "gas:candidate-vibid:322300267195": 1,
+      "gas:candidate-vibid:1001000254929": 1,
+      "gas:candidate-vibid:1001000202288": 0,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воронцова Зоя Ивановна": 32,
-      "Голубева Людмила Петровна": 1,
-      "Гурьев Вячеслав Васильевич": 1,
-      "Коршунов Лев Александрович": 29,
-      "Останин Валерий Сергеевич": 1,
-      "Паршуткина Ираида Ивановна": 0,
-      "Сафонов Валерий Иванович": 0,
-      "Скоморохов Евгений Сергеевич": 3,
-      "Татлыбаев Сергей Алексеевич": 0,
-      "Хачатурян Сергей Грантович": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121810": 32,
+      "gas:candidate-vibid:1001000195041": 1,
+      "gas:candidate-vibid:1001000136012": 1,
+      "gas:candidate-vibid:322300266718": 29,
+      "gas:candidate-vibid:1001000112187": 1,
+      "gas:candidate-vibid:322300267195": 0,
+      "gas:candidate-vibid:1001000254929": 0,
+      "gas:candidate-vibid:1001000202288": 3,
+      "gas:candidate-vibid:322300267075": 0,
+      "gas:candidate-vibid:1001000187992": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300266688&region=0&sub_region=0&type=429",

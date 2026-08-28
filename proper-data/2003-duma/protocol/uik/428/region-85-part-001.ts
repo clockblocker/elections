@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 0,
-      "Зверев Владимир Александрович": 55,
-      "Кизимов Николай Васильевич": 11,
-      "Кузин Валерий Владимирович": 0,
-      "Митюков Евгений Юрьевич": 254,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 50,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 0,
+      "gas:candidate-vibid:1001000226024": 55,
+      "gas:candidate-vibid:1001000250188": 11,
+      "gas:candidate-vibid:285200066912": 0,
+      "gas:candidate-vibid:285200067488": 254,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 50,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 10,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 28,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 10,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 10,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 28,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 10,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 78,
-      "Зверев Владимир Александрович": 10,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 213,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 143,
-      "Против всех": 10
+      "gas:candidate-vibid:285200067311": 78,
+      "gas:candidate-vibid:1001000226024": 10,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 213,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 143,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 97,
-      "Зверев Владимир Александрович": 14,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 103,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 48,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 97,
+      "gas:candidate-vibid:1001000226024": 14,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 103,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 48,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 19,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 40,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 88,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 19,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 40,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 88,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 53,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 207,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 118,
-      "Против всех": 11
+      "gas:candidate-vibid:285200067311": 53,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 207,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 118,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 20,
-      "Зверев Владимир Александрович": 15,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 159,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 19,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 20,
+      "gas:candidate-vibid:1001000226024": 15,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 159,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 19,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 72,
-      "Зверев Владимир Александрович": 18,
-      "Кизимов Николай Васильевич": 6,
-      "Кузин Валерий Владимирович": 186,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 88,
-      "Против всех": 8
+      "gas:candidate-vibid:285200067311": 72,
+      "gas:candidate-vibid:1001000226024": 18,
+      "gas:candidate-vibid:1001000250188": 6,
+      "gas:candidate-vibid:285200066912": 186,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 88,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 71,
-      "Зверев Владимир Александрович": 20,
-      "Кизимов Николай Васильевич": 7,
-      "Кузин Валерий Владимирович": 143,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 106,
-      "Против всех": 11
+      "gas:candidate-vibid:285200067311": 71,
+      "gas:candidate-vibid:1001000226024": 20,
+      "gas:candidate-vibid:1001000250188": 7,
+      "gas:candidate-vibid:285200066912": 143,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 106,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 204,
-      "Зверев Владимир Александрович": 103,
-      "Кизимов Николай Васильевич": 9,
-      "Кузин Валерий Владимирович": 450,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 4,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 175,
-      "Против всех": 32
+      "gas:candidate-vibid:285200067311": 204,
+      "gas:candidate-vibid:1001000226024": 103,
+      "gas:candidate-vibid:1001000250188": 9,
+      "gas:candidate-vibid:285200066912": 450,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 4,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 175,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 101,
-      "Зверев Владимир Александрович": 44,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 223,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 149,
-      "Против всех": 26
+      "gas:candidate-vibid:285200067311": 101,
+      "gas:candidate-vibid:1001000226024": 44,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 223,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 149,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 22,
-      "Зверев Владимир Александрович": 12,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 40,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 52,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 22,
+      "gas:candidate-vibid:1001000226024": 12,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 40,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 52,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 57,
-      "Зверев Владимир Александрович": 10,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 98,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 49,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 57,
+      "gas:candidate-vibid:1001000226024": 10,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 98,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 49,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 50,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 55,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 66,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 50,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 55,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 66,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 42,
-      "Зверев Владимир Александрович": 14,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 104,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 98,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 42,
+      "gas:candidate-vibid:1001000226024": 14,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 104,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 98,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 0,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 2,
-      "Митюков Евгений Юрьевич": 91,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 54,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 0,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 2,
+      "gas:candidate-vibid:285200067488": 91,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 54,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 6,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 42,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 64,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 6,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 42,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 64,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 33,
-      "Зверев Владимир Александрович": 20,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 132,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 85,
-      "Против всех": 12
+      "gas:candidate-vibid:285200067311": 33,
+      "gas:candidate-vibid:1001000226024": 20,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 132,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 85,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 11,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 33,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 10,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 11,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 33,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 10,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 120,
-      "Зверев Владимир Александрович": 10,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 251,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 79,
-      "Против всех": 19
+      "gas:candidate-vibid:285200067311": 120,
+      "gas:candidate-vibid:1001000226024": 10,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 251,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 79,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 51,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 140,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 121,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 51,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 140,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 121,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 81,
-      "Зверев Владимир Александрович": 25,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 170,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 85,
-      "Против всех": 14
+      "gas:candidate-vibid:285200067311": 81,
+      "gas:candidate-vibid:1001000226024": 25,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 170,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 85,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 22,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 109,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 49,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 22,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 109,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 49,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 102,
-      "Зверев Владимир Александрович": 23,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 187,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 66,
-      "Против всех": 10
+      "gas:candidate-vibid:285200067311": 102,
+      "gas:candidate-vibid:1001000226024": 23,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 187,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 66,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 32,
-      "Зверев Владимир Александрович": 15,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 82,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 65,
-      "Против всех": 21
+      "gas:candidate-vibid:285200067311": 32,
+      "gas:candidate-vibid:1001000226024": 15,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 82,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 65,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 252,
-      "Зверев Владимир Александрович": 46,
-      "Кизимов Николай Васильевич": 8,
-      "Кузин Валерий Владимирович": 271,
-      "Митюков Евгений Юрьевич": 21,
-      "Сташин Александр Моисеевич": 3,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 179,
-      "Против всех": 37
+      "gas:candidate-vibid:285200067311": 252,
+      "gas:candidate-vibid:1001000226024": 46,
+      "gas:candidate-vibid:1001000250188": 8,
+      "gas:candidate-vibid:285200066912": 271,
+      "gas:candidate-vibid:285200067488": 21,
+      "gas:candidate-vibid:285200067481": 3,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 179,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 52,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 69,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 42,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 52,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 69,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 42,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 22,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 87,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 62,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 22,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 87,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 62,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Босхолов Сергей Семенович": 30,
-      "Зверев Владимир Александрович": 11,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 148,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 132,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 30,
+      "gas:candidate-vibid:1001000226024": 11,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 148,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 132,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 133,
-      "Зверев Владимир Александрович": 23,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 284,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 49,
-      "Против всех": 9
+      "gas:candidate-vibid:285200067311": 133,
+      "gas:candidate-vibid:1001000226024": 23,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 284,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 49,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 16,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 10,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 58,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 16,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 10,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 58,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 34,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 32,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 7,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 34,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 32,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 7,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Босхолов Сергей Семенович": 37,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 45,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 37,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 45,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 111,
-      "Зверев Владимир Александрович": 14,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 142,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 105,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 111,
+      "gas:candidate-vibid:1001000226024": 14,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 142,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 105,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 12,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 38,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 12,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 38,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 58,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 58,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 31,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 40,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 31,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 40,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 7,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 19,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 21,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 7,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 19,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 21,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 487,
-      "Зверев Владимир Александрович": 218,
-      "Кизимов Николай Васильевич": 91,
-      "Кузин Валерий Владимирович": 175,
-      "Митюков Евгений Юрьевич": 100,
-      "Сташин Александр Моисеевич": 46,
-      "Табиханов Дмитрий Табинаевич": 33,
-      "Терентьев Александр Васильевич": 47,
-      "Против всех": 449
+      "gas:candidate-vibid:285200067311": 487,
+      "gas:candidate-vibid:1001000226024": 218,
+      "gas:candidate-vibid:1001000250188": 91,
+      "gas:candidate-vibid:285200066912": 175,
+      "gas:candidate-vibid:285200067488": 100,
+      "gas:candidate-vibid:285200067481": 46,
+      "gas:candidate-vibid:1001000190474": 33,
+      "gas:candidate-vibid:285200067228": 47,
+      "special:against-all": 449
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066842&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 18,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 113,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 45,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 18,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 113,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 45,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 22,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 81,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 26,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 22,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 81,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 26,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 33,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 169,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 54,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 33,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 169,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 54,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 16,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 32,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 16,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 32,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 37,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 90,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 95,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 37,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 90,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 95,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 16,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 119,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 16,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 16,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 119,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 16,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 20,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 29,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 20,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 29,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 38,
-      "Зверев Владимир Александрович": 34,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 126,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 177,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 38,
+      "gas:candidate-vibid:1001000226024": 34,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 126,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 177,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 123,
-      "Зверев Владимир Александрович": 11,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 237,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 135,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 123,
+      "gas:candidate-vibid:1001000226024": 11,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 237,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 135,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 27,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 151,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 21,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 27,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 151,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 21,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 15,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 49,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 25,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 15,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 49,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 25,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 23,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 192,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 47,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 23,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 192,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 47,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 32,
-      "Зверев Владимир Александрович": 8,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 175,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 45,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 32,
+      "gas:candidate-vibid:1001000226024": 8,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 175,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 45,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 161,
-      "Зверев Владимир Александрович": 152,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 425,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 471,
-      "Против всех": 14
+      "gas:candidate-vibid:285200067311": 161,
+      "gas:candidate-vibid:1001000226024": 152,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 425,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 471,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 23,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 16,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 23,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 16,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 57,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 68,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 135,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 57,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 68,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 135,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 10,
-      "Зверев Владимир Александрович": 6,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 36,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 13,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 10,
+      "gas:candidate-vibid:1001000226024": 6,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 36,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 13,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 106,
-      "Зверев Владимир Александрович": 15,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 297,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 74,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 106,
+      "gas:candidate-vibid:1001000226024": 15,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 297,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 74,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 25,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 43,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 25,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 25,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 43,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 25,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 29,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 47,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 20,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 29,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 47,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 20,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 29,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 73,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 48,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 29,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 73,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 48,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 19,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 51,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 24,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 19,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 51,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 24,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 43,
-      "Зверев Владимир Александрович": 17,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 172,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 94,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 43,
+      "gas:candidate-vibid:1001000226024": 17,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 172,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 94,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 32,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 6,
-      "Кузин Валерий Владимирович": 173,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 191,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 32,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 6,
+      "gas:candidate-vibid:285200066912": 173,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 191,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 27,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 104,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 50,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 27,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 104,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 50,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066844&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 43,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 134,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 75,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 43,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 134,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 75,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 49,
-      "Зверев Владимир Александрович": 8,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 138,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 98,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 49,
+      "gas:candidate-vibid:1001000226024": 8,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 138,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 98,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 12,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 56,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 55,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 12,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 56,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 55,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 41,
-      "Зверев Владимир Александрович": 17,
-      "Кизимов Николай Васильевич": 12,
-      "Кузин Валерий Владимирович": 459,
-      "Митюков Евгений Юрьевич": 4,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 64,
-      "Против всех": 17
+      "gas:candidate-vibid:285200067311": 41,
+      "gas:candidate-vibid:1001000226024": 17,
+      "gas:candidate-vibid:1001000250188": 12,
+      "gas:candidate-vibid:285200066912": 459,
+      "gas:candidate-vibid:285200067488": 4,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 64,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 39,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 6,
-      "Кузин Валерий Владимирович": 326,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 56,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 39,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 6,
+      "gas:candidate-vibid:285200066912": 326,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 56,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 3,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 53,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 28,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 3,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 53,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 28,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 10,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 94,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 35,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 10,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 94,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 35,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 85,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 19,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 85,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 19,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 18,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 91,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 16,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 18,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 91,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 16,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 76,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 298,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 76,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 298,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 16,
-      "Зверев Владимир Александрович": 9,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 142,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 20,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 16,
+      "gas:candidate-vibid:1001000226024": 9,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 142,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 20,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 14,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 82,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 31,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 14,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 82,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 31,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 52,
-      "Зверев Владимир Александрович": 38,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 442,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 144,
-      "Против всех": 13
+      "gas:candidate-vibid:285200067311": 52,
+      "gas:candidate-vibid:1001000226024": 38,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 442,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 144,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 111,
-      "Зверев Владимир Александрович": 56,
-      "Кизимов Николай Васильевич": 15,
-      "Кузин Валерий Владимирович": 543,
-      "Митюков Евгений Юрьевич": 10,
-      "Сташин Александр Моисеевич": 3,
-      "Табиханов Дмитрий Табинаевич": 13,
-      "Терентьев Александр Васильевич": 361,
-      "Против всех": 23
+      "gas:candidate-vibid:285200067311": 111,
+      "gas:candidate-vibid:1001000226024": 56,
+      "gas:candidate-vibid:1001000250188": 15,
+      "gas:candidate-vibid:285200066912": 543,
+      "gas:candidate-vibid:285200067488": 10,
+      "gas:candidate-vibid:285200067481": 3,
+      "gas:candidate-vibid:1001000190474": 13,
+      "gas:candidate-vibid:285200067228": 361,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 31,
-      "Зверев Владимир Александрович": 16,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 110,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 71,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 31,
+      "gas:candidate-vibid:1001000226024": 16,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 110,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 71,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 18,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 133,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 70,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 18,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 133,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 70,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 41,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 189,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 100,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 41,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 189,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 100,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 27,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 127,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 54,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 27,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 127,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 54,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 56,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 267,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 122,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 56,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 267,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 122,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 7,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 127,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 111,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 7,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 127,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 111,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 116,
-      "Зверев Владимир Александрович": 32,
-      "Кизимов Николай Васильевич": 17,
-      "Кузин Валерий Владимирович": 478,
-      "Митюков Евгений Юрьевич": 17,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 6,
-      "Терентьев Александр Васильевич": 181,
-      "Против всех": 47
+      "gas:candidate-vibid:285200067311": 116,
+      "gas:candidate-vibid:1001000226024": 32,
+      "gas:candidate-vibid:1001000250188": 17,
+      "gas:candidate-vibid:285200066912": 478,
+      "gas:candidate-vibid:285200067488": 17,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 6,
+      "gas:candidate-vibid:285200067228": 181,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 7,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 32,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 22,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 7,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 32,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 22,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 21,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 40,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 13,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 21,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 40,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 13,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 4,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 90,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 27,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 4,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 90,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 27,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 76,
-      "Зверев Владимир Александрович": 25,
-      "Кизимов Николай Васильевич": 9,
-      "Кузин Валерий Владимирович": 236,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 80,
-      "Против всех": 12
+      "gas:candidate-vibid:285200067311": 76,
+      "gas:candidate-vibid:1001000226024": 25,
+      "gas:candidate-vibid:1001000250188": 9,
+      "gas:candidate-vibid:285200066912": 236,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 80,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 39,
-      "Зверев Владимир Александрович": 9,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 248,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 6,
-      "Терентьев Александр Васильевич": 72,
-      "Против всех": 9
+      "gas:candidate-vibid:285200067311": 39,
+      "gas:candidate-vibid:1001000226024": 9,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 248,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 6,
+      "gas:candidate-vibid:285200067228": 72,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 9,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 74,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 40,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 9,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 74,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 40,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 3,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 44,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 16,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 3,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 44,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 16,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 43,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 9,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 43,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 9,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 30,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 28,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 30,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 28,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 139,
-      "Зверев Владимир Александрович": 19,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 238,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 44,
-      "Против всех": 16
+      "gas:candidate-vibid:285200067311": 139,
+      "gas:candidate-vibid:1001000226024": 19,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 238,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 44,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 9,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 33,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 9,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 33,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 46,
-      "Зверев Владимир Александрович": 19,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 73,
-      "Митюков Евгений Юрьевич": 11,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 10,
-      "Против всех": 16
+      "gas:candidate-vibid:285200067311": 46,
+      "gas:candidate-vibid:1001000226024": 19,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 73,
+      "gas:candidate-vibid:285200067488": 11,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 10,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 14,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 179,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 36,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 14,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 179,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 36,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 58,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 378,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 75,
-      "Против всех": 12
+      "gas:candidate-vibid:285200067311": 58,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 378,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 75,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 10,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 76,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 10,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 76,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 14,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 298,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 54,
-      "Против всех": 13
+      "gas:candidate-vibid:285200067311": 14,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 298,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 54,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066846&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 57,
-      "Зверев Владимир Александрович": 9,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 194,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 102,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 57,
+      "gas:candidate-vibid:1001000226024": 9,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 194,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 102,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 10,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 37,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 10,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 37,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 84,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 84,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 24,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 84,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 22,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 24,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 84,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 22,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 70,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 104,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 40,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 70,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 104,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 40,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 67,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 111,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 26,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 67,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 111,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 26,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 47,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 42,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 47,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 42,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 67,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 248,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 126,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 67,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 248,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 126,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 3,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 172,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 56,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 3,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 172,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 56,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 32,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 284,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 120,
-      "Против всех": 8
+      "gas:candidate-vibid:285200067311": 32,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 284,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 120,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 3,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 34,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 67,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 3,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 34,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 67,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 28,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 38,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 28,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 38,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 62,
-      "Зверев Владимир Александрович": 6,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 273,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 88,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 62,
+      "gas:candidate-vibid:1001000226024": 6,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 273,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 88,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 9,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 42,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 9,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 42,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 5,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 30,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 14,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 5,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 30,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 14,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 244,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 197,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 40,
-      "Против всех": 8
+      "gas:candidate-vibid:285200067311": 244,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 197,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 40,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 69,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 28,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 129,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 69,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 28,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 129,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 85,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 260,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 53,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 85,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 260,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 53,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 73,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 70,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 73,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 70,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 83,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 195,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 63,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 83,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 195,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 63,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 25,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 84,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 53,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 25,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 84,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 53,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 6,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 24,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 74,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 6,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 24,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 74,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 46,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 167,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 104,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 46,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 167,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 104,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 32,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 47,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 18,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 32,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 47,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 18,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 11,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 46,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 32,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 11,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 46,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 32,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 138,
-      "Зверев Владимир Александрович": 29,
-      "Кизимов Николай Васильевич": 7,
-      "Кузин Валерий Владимирович": 356,
-      "Митюков Евгений Юрьевич": 7,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 133,
-      "Против всех": 13
+      "gas:candidate-vibid:285200067311": 138,
+      "gas:candidate-vibid:1001000226024": 29,
+      "gas:candidate-vibid:1001000250188": 7,
+      "gas:candidate-vibid:285200066912": 356,
+      "gas:candidate-vibid:285200067488": 7,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 133,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 154,
-      "Зверев Владимир Александрович": 32,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 323,
-      "Митюков Евгений Юрьевич": 5,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 122,
-      "Против всех": 20
+      "gas:candidate-vibid:285200067311": 154,
+      "gas:candidate-vibid:1001000226024": 32,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 323,
+      "gas:candidate-vibid:285200067488": 5,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 122,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 144,
-      "Зверев Владимир Александрович": 21,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 169,
-      "Митюков Евгений Юрьевич": 4,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 55,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 144,
+      "gas:candidate-vibid:1001000226024": 21,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 169,
+      "gas:candidate-vibid:285200067488": 4,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 55,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 26,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 105,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 33,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 26,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 105,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 33,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066850&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 8,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 24,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 21,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 8,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 24,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 21,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 32,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 38,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 34,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 32,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 38,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 34,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 129,
-      "Зверев Владимир Александрович": 6,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 211,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 134,
-      "Против всех": 11
+      "gas:candidate-vibid:285200067311": 129,
+      "gas:candidate-vibid:1001000226024": 6,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 211,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 134,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 9,
-      "Зверев Владимир Александрович": 6,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 70,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 20,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 9,
+      "gas:candidate-vibid:1001000226024": 6,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 70,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 20,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 4,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 89,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 41,
-      "Против всех": 10
+      "gas:candidate-vibid:285200067311": 4,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 89,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 41,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 14,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 147,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 139,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 14,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 147,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 139,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 39,
-      "Зверев Владимир Александрович": 10,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 111,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 24,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 39,
+      "gas:candidate-vibid:1001000226024": 10,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 111,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 24,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 69,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 106,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 27,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 69,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 106,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 27,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 29,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 167,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 27,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 29,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 167,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 27,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 52,
-      "Зверев Владимир Александрович": 21,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 190,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 65,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 52,
+      "gas:candidate-vibid:1001000226024": 21,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 190,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 65,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 69,
-      "Зверев Владимир Александрович": 54,
-      "Кизимов Николай Васильевич": 12,
-      "Кузин Валерий Владимирович": 192,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 132,
-      "Против всех": 11
+      "gas:candidate-vibid:285200067311": 69,
+      "gas:candidate-vibid:1001000226024": 54,
+      "gas:candidate-vibid:1001000250188": 12,
+      "gas:candidate-vibid:285200066912": 192,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 132,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 74,
-      "Зверев Владимир Александрович": 51,
-      "Кизимов Николай Васильевич": 10,
-      "Кузин Валерий Владимирович": 256,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 172,
-      "Против всех": 17
+      "gas:candidate-vibid:285200067311": 74,
+      "gas:candidate-vibid:1001000226024": 51,
+      "gas:candidate-vibid:1001000250188": 10,
+      "gas:candidate-vibid:285200066912": 256,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 172,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 90,
-      "Зверев Владимир Александрович": 61,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 256,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 131,
-      "Против всех": 20
+      "gas:candidate-vibid:285200067311": 90,
+      "gas:candidate-vibid:1001000226024": 61,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 256,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 131,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 28,
-      "Зверев Владимир Александрович": 18,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 118,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 47,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 28,
+      "gas:candidate-vibid:1001000226024": 18,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 118,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 47,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 31,
-      "Зверев Владимир Александрович": 55,
-      "Кизимов Николай Васильевич": 8,
-      "Кузин Валерий Владимирович": 248,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 42,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 31,
+      "gas:candidate-vibid:1001000226024": 55,
+      "gas:candidate-vibid:1001000250188": 8,
+      "gas:candidate-vibid:285200066912": 248,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 42,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 55,
-      "Зверев Владимир Александрович": 8,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 234,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 84,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 55,
+      "gas:candidate-vibid:1001000226024": 8,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 234,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 84,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 41,
-      "Зверев Владимир Александрович": 6,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 121,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 55,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 41,
+      "gas:candidate-vibid:1001000226024": 6,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 121,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 55,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 71,
-      "Зверев Владимир Александрович": 8,
-      "Кизимов Николай Васильевич": 7,
-      "Кузин Валерий Владимирович": 209,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 56,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 71,
+      "gas:candidate-vibid:1001000226024": 8,
+      "gas:candidate-vibid:1001000250188": 7,
+      "gas:candidate-vibid:285200066912": 209,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 56,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 14,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 69,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 8,
-      "Против всех": 8
+      "gas:candidate-vibid:285200067311": 14,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 69,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 8,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 65,
-      "Зверев Владимир Александрович": 9,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 422,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 71,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 65,
+      "gas:candidate-vibid:1001000226024": 9,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 422,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 71,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 117,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 117,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 38,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 104,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 38,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 104,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 142,
-      "Зверев Владимир Александрович": 39,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 270,
-      "Митюков Евгений Юрьевич": 6,
-      "Сташин Александр Моисеевич": 3,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 314,
-      "Против всех": 34
+      "gas:candidate-vibid:285200067311": 142,
+      "gas:candidate-vibid:1001000226024": 39,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 270,
+      "gas:candidate-vibid:285200067488": 6,
+      "gas:candidate-vibid:285200067481": 3,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 314,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 93,
-      "Зверев Владимир Александрович": 6,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 245,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 159,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 93,
+      "gas:candidate-vibid:1001000226024": 6,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 245,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 159,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 68,
-      "Зверев Владимир Александрович": 13,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 225,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 65,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 68,
+      "gas:candidate-vibid:1001000226024": 13,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 225,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 65,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 84,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 26,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 84,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 26,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 35,
-      "Зверев Владимир Александрович": 32,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 395,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 38,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 35,
+      "gas:candidate-vibid:1001000226024": 32,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 395,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 38,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 11,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 61,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 11,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 61,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066852&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 297,
-      "Зверев Владимир Александрович": 75,
-      "Кизимов Николай Васильевич": 23,
-      "Кузин Валерий Владимирович": 309,
-      "Митюков Евгений Юрьевич": 4,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 32,
-      "Терентьев Александр Васильевич": 188,
-      "Против всех": 15
+      "gas:candidate-vibid:285200067311": 297,
+      "gas:candidate-vibid:1001000226024": 75,
+      "gas:candidate-vibid:1001000250188": 23,
+      "gas:candidate-vibid:285200066912": 309,
+      "gas:candidate-vibid:285200067488": 4,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 32,
+      "gas:candidate-vibid:285200067228": 188,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 79,
-      "Зверев Владимир Александрович": 54,
-      "Кизимов Николай Васильевич": 6,
-      "Кузин Валерий Владимирович": 165,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 7,
-      "Терентьев Александр Васильевич": 111,
-      "Против всех": 13
+      "gas:candidate-vibid:285200067311": 79,
+      "gas:candidate-vibid:1001000226024": 54,
+      "gas:candidate-vibid:1001000250188": 6,
+      "gas:candidate-vibid:285200066912": 165,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 7,
+      "gas:candidate-vibid:285200067228": 111,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 58,
-      "Зверев Владимир Александрович": 14,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 50,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 64,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 58,
+      "gas:candidate-vibid:1001000226024": 14,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 50,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 64,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 101,
-      "Зверев Владимир Александрович": 45,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 181,
-      "Митюков Евгений Юрьевич": 7,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 10,
-      "Терентьев Александр Васильевич": 82,
-      "Против всех": 13
+      "gas:candidate-vibid:285200067311": 101,
+      "gas:candidate-vibid:1001000226024": 45,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 181,
+      "gas:candidate-vibid:285200067488": 7,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 10,
+      "gas:candidate-vibid:285200067228": 82,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 217,
-      "Зверев Владимир Александрович": 107,
-      "Кизимов Николай Васильевич": 11,
-      "Кузин Валерий Владимирович": 381,
-      "Митюков Евгений Юрьевич": 9,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 36,
-      "Терентьев Александр Васильевич": 246,
-      "Против всех": 25
+      "gas:candidate-vibid:285200067311": 217,
+      "gas:candidate-vibid:1001000226024": 107,
+      "gas:candidate-vibid:1001000250188": 11,
+      "gas:candidate-vibid:285200066912": 381,
+      "gas:candidate-vibid:285200067488": 9,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 36,
+      "gas:candidate-vibid:285200067228": 246,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 196,
-      "Зверев Владимир Александрович": 90,
-      "Кизимов Николай Васильевич": 7,
-      "Кузин Валерий Владимирович": 386,
-      "Митюков Евгений Юрьевич": 10,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 29,
-      "Терентьев Александр Васильевич": 204,
-      "Против всех": 22
+      "gas:candidate-vibid:285200067311": 196,
+      "gas:candidate-vibid:1001000226024": 90,
+      "gas:candidate-vibid:1001000250188": 7,
+      "gas:candidate-vibid:285200066912": 386,
+      "gas:candidate-vibid:285200067488": 10,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 29,
+      "gas:candidate-vibid:285200067228": 204,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 299,
-      "Зверев Владимир Александрович": 115,
-      "Кизимов Николай Васильевич": 9,
-      "Кузин Валерий Владимирович": 323,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 43,
-      "Терентьев Александр Васильевич": 197,
-      "Против всех": 23
+      "gas:candidate-vibid:285200067311": 299,
+      "gas:candidate-vibid:1001000226024": 115,
+      "gas:candidate-vibid:1001000250188": 9,
+      "gas:candidate-vibid:285200066912": 323,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 43,
+      "gas:candidate-vibid:285200067228": 197,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 40,
-      "Зверев Владимир Александрович": 40,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 95,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 70,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 40,
+      "gas:candidate-vibid:1001000226024": 40,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 95,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 70,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 40,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 66,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 37,
-      "Терентьев Александр Васильевич": 16,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 40,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 66,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 37,
+      "gas:candidate-vibid:285200067228": 16,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 91,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 80,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 91,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 80,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 39,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 33,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 21,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 39,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 33,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 21,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 146,
-      "Зверев Владимир Александрович": 10,
-      "Кизимов Николай Васильевич": 8,
-      "Кузин Валерий Владимирович": 157,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 123,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 146,
+      "gas:candidate-vibid:1001000226024": 10,
+      "gas:candidate-vibid:1001000250188": 8,
+      "gas:candidate-vibid:285200066912": 157,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 123,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 44,
-      "Зверев Владимир Александрович": 56,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 100,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 5,
-      "Терентьев Александр Васильевич": 109,
-      "Против всех": 12
+      "gas:candidate-vibid:285200067311": 44,
+      "gas:candidate-vibid:1001000226024": 56,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 100,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 5,
+      "gas:candidate-vibid:285200067228": 109,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 48,
-      "Зверев Владимир Александрович": 7,
-      "Кизимов Николай Васильевич": 4,
-      "Кузин Валерий Владимирович": 61,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 106,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 48,
+      "gas:candidate-vibid:1001000226024": 7,
+      "gas:candidate-vibid:1001000250188": 4,
+      "gas:candidate-vibid:285200066912": 61,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 106,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 101,
-      "Зверев Владимир Александрович": 8,
-      "Кизимов Николай Васильевич": 8,
-      "Кузин Валерий Владимирович": 64,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 66,
-      "Против всех": 5
+      "gas:candidate-vibid:285200067311": 101,
+      "gas:candidate-vibid:1001000226024": 8,
+      "gas:candidate-vibid:1001000250188": 8,
+      "gas:candidate-vibid:285200066912": 64,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 66,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 55,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 108,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 33,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 55,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 108,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 33,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 34,
-      "Зверев Владимир Александрович": 48,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 82,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 97,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 34,
+      "gas:candidate-vibid:1001000226024": 48,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 82,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 97,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 74,
-      "Зверев Владимир Александрович": 12,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 175,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 6,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 81,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 74,
+      "gas:candidate-vibid:1001000226024": 12,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 175,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 6,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 81,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 72,
-      "Зверев Владимир Александрович": 18,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 108,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 110,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 72,
+      "gas:candidate-vibid:1001000226024": 18,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 108,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 110,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 12,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 81,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 12,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 81,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 47,
-      "Зверев Владимир Александрович": 9,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 72,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 18,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 47,
+      "gas:candidate-vibid:1001000226024": 9,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 72,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 18,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 84,
-      "Зверев Владимир Александрович": 10,
-      "Кизимов Николай Васильевич": 14,
-      "Кузин Валерий Владимирович": 143,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 101,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 84,
+      "gas:candidate-vibid:1001000226024": 10,
+      "gas:candidate-vibid:1001000250188": 14,
+      "gas:candidate-vibid:285200066912": 143,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 101,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 17,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 64,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 13,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 17,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 64,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 13,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 44,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 53,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 17,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 44,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 53,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 17,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 40,
-      "Зверев Владимир Александрович": 18,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 183,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 4,
-      "Терентьев Александр Васильевич": 97,
-      "Против всех": 11
+      "gas:candidate-vibid:285200067311": 40,
+      "gas:candidate-vibid:1001000226024": 18,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 183,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 4,
+      "gas:candidate-vibid:285200067228": 97,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 25,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 95,
-      "Митюков Евгений Юрьевич": 3,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 65,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 25,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 95,
+      "gas:candidate-vibid:285200067488": 3,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 65,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 88,
-      "Зверев Владимир Александрович": 6,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 157,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 37,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 88,
+      "gas:candidate-vibid:1001000226024": 6,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 157,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 37,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 27,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 50,
-      "Митюков Евгений Юрьевич": 2,
-      "Сташин Александр Моисеевич": 1,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 27,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 50,
+      "gas:candidate-vibid:285200067488": 2,
+      "gas:candidate-vibid:285200067481": 1,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 21,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 25,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 22,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 21,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 25,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 22,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 13,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 64,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 39,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 13,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 64,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 39,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 89,
-      "Зверев Владимир Александрович": 48,
-      "Кизимов Николай Васильевич": 8,
-      "Кузин Валерий Владимирович": 107,
-      "Митюков Евгений Юрьевич": 6,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 5,
-      "Терентьев Александр Васильевич": 218,
-      "Против всех": 6
+      "gas:candidate-vibid:285200067311": 89,
+      "gas:candidate-vibid:1001000226024": 48,
+      "gas:candidate-vibid:1001000250188": 8,
+      "gas:candidate-vibid:285200066912": 107,
+      "gas:candidate-vibid:285200067488": 6,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 5,
+      "gas:candidate-vibid:285200067228": 218,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 22,
-      "Зверев Владимир Александрович": 8,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 39,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 8,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 22,
+      "gas:candidate-vibid:1001000226024": 8,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 39,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 8,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 29,
-      "Зверев Владимир Александрович": 19,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 123,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 43,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 29,
+      "gas:candidate-vibid:1001000226024": 19,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 123,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 43,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 20,
-      "Зверев Владимир Александрович": 3,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 40,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 41,
-      "Против всех": 2
+      "gas:candidate-vibid:285200067311": 20,
+      "gas:candidate-vibid:1001000226024": 3,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 40,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 41,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 32,
-      "Зверев Владимир Александрович": 2,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 104,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 1,
-      "Терентьев Александр Васильевич": 48,
-      "Против всех": 1
+      "gas:candidate-vibid:285200067311": 32,
+      "gas:candidate-vibid:1001000226024": 2,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 104,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 1,
+      "gas:candidate-vibid:285200067228": 48,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 28,
-      "Зверев Владимир Александрович": 29,
-      "Кизимов Николай Васильевич": 1,
-      "Кузин Валерий Владимирович": 49,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 3,
-      "Терентьев Александр Васильевич": 57,
-      "Против всех": 14
+      "gas:candidate-vibid:285200067311": 28,
+      "gas:candidate-vibid:1001000226024": 29,
+      "gas:candidate-vibid:1001000250188": 1,
+      "gas:candidate-vibid:285200066912": 49,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 3,
+      "gas:candidate-vibid:285200067228": 57,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 42,
-      "Зверев Владимир Александрович": 15,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 37,
-      "Митюков Евгений Юрьевич": 4,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 55,
-      "Против всех": 7
+      "gas:candidate-vibid:285200067311": 42,
+      "gas:candidate-vibid:1001000226024": 15,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 37,
+      "gas:candidate-vibid:285200067488": 4,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 55,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 18,
-      "Зверев Владимир Александрович": 19,
-      "Кизимов Николай Васильевич": 5,
-      "Кузин Валерий Владимирович": 60,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 2,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 43,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 18,
+      "gas:candidate-vibid:1001000226024": 19,
+      "gas:candidate-vibid:1001000250188": 5,
+      "gas:candidate-vibid:285200066912": 60,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 2,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 43,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 21,
-      "Зверев Владимир Александрович": 4,
-      "Кизимов Николай Васильевич": 3,
-      "Кузин Валерий Владимирович": 48,
-      "Митюков Евгений Юрьевич": 1,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 21,
+      "gas:candidate-vibid:1001000226024": 4,
+      "gas:candidate-vibid:1001000250188": 3,
+      "gas:candidate-vibid:285200066912": 48,
+      "gas:candidate-vibid:285200067488": 1,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 72,
-      "Зверев Владимир Александрович": 1,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 83,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 83,
-      "Против всех": 3
+      "gas:candidate-vibid:285200067311": 72,
+      "gas:candidate-vibid:1001000226024": 1,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 83,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 83,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 24,
-      "Зверев Владимир Александрович": 0,
-      "Кизимов Николай Васильевич": 0,
-      "Кузин Валерий Владимирович": 57,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 2,
-      "Терентьев Александр Васильевич": 28,
-      "Против всех": 0
+      "gas:candidate-vibid:285200067311": 24,
+      "gas:candidate-vibid:1001000226024": 0,
+      "gas:candidate-vibid:1001000250188": 0,
+      "gas:candidate-vibid:285200066912": 57,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 2,
+      "gas:candidate-vibid:285200067228": 28,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_85_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Босхолов Сергей Семенович": 28,
-      "Зверев Владимир Александрович": 5,
-      "Кизимов Николай Васильевич": 2,
-      "Кузин Валерий Владимирович": 2,
-      "Митюков Евгений Юрьевич": 0,
-      "Сташин Александр Моисеевич": 0,
-      "Табиханов Дмитрий Табинаевич": 0,
-      "Терентьев Александр Васильевич": 74,
-      "Против всех": 4
+      "gas:candidate-vibid:285200067311": 28,
+      "gas:candidate-vibid:1001000226024": 5,
+      "gas:candidate-vibid:1001000250188": 2,
+      "gas:candidate-vibid:285200066912": 2,
+      "gas:candidate-vibid:285200067488": 0,
+      "gas:candidate-vibid:285200067481": 0,
+      "gas:candidate-vibid:1001000190474": 0,
+      "gas:candidate-vibid:285200067228": 74,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=852000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=285200066854&region=0&sub_region=0&type=429",

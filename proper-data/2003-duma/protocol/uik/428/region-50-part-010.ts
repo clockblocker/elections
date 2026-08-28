@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 139,
-      "Борисов Александр Николаевич": 32,
-      "Брынцалов Владимир Алексеевич": 206,
-      "Иванова Татьяна Ивановна": 38,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 21,
-      "Собко Сергей Васильевич": 192,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000195100": 139,
+      "gas:candidate-vibid:350300870422": 32,
+      "gas:candidate-vibid:1001000225956": 206,
+      "gas:candidate-vibid:250200071250": 38,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 21,
+      "gas:candidate-vibid:1001000121868": 192,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 142,
-      "Борисов Александр Николаевич": 41,
-      "Брынцалов Владимир Алексеевич": 261,
-      "Иванова Татьяна Ивановна": 42,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 24,
-      "Пелевин Игорь Юрьевич": 31,
-      "Собко Сергей Васильевич": 233,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000195100": 142,
+      "gas:candidate-vibid:350300870422": 41,
+      "gas:candidate-vibid:1001000225956": 261,
+      "gas:candidate-vibid:250200071250": 42,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 24,
+      "gas:candidate-vibid:1001000113950": 31,
+      "gas:candidate-vibid:1001000121868": 233,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 182,
-      "Борисов Александр Николаевич": 53,
-      "Брынцалов Владимир Алексеевич": 225,
-      "Иванова Татьяна Ивановна": 29,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 16,
-      "Пелевин Игорь Юрьевич": 42,
-      "Собко Сергей Васильевич": 315,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000195100": 182,
+      "gas:candidate-vibid:350300870422": 53,
+      "gas:candidate-vibid:1001000225956": 225,
+      "gas:candidate-vibid:250200071250": 29,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 16,
+      "gas:candidate-vibid:1001000113950": 42,
+      "gas:candidate-vibid:1001000121868": 315,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 137,
-      "Борисов Александр Николаевич": 57,
-      "Брынцалов Владимир Алексеевич": 171,
-      "Иванова Татьяна Ивановна": 65,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 24,
-      "Пелевин Игорь Юрьевич": 37,
-      "Собко Сергей Васильевич": 218,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000195100": 137,
+      "gas:candidate-vibid:350300870422": 57,
+      "gas:candidate-vibid:1001000225956": 171,
+      "gas:candidate-vibid:250200071250": 65,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 24,
+      "gas:candidate-vibid:1001000113950": 37,
+      "gas:candidate-vibid:1001000121868": 218,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 158,
-      "Борисов Александр Николаевич": 41,
-      "Брынцалов Владимир Алексеевич": 167,
-      "Иванова Татьяна Ивановна": 72,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 16,
-      "Пелевин Игорь Юрьевич": 38,
-      "Собко Сергей Васильевич": 312,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000195100": 158,
+      "gas:candidate-vibid:350300870422": 41,
+      "gas:candidate-vibid:1001000225956": 167,
+      "gas:candidate-vibid:250200071250": 72,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 16,
+      "gas:candidate-vibid:1001000113950": 38,
+      "gas:candidate-vibid:1001000121868": 312,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 142,
-      "Борисов Александр Николаевич": 25,
-      "Брынцалов Владимир Алексеевич": 198,
-      "Иванова Татьяна Ивановна": 53,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 16,
-      "Пелевин Игорь Юрьевич": 37,
-      "Собко Сергей Васильевич": 221,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000195100": 142,
+      "gas:candidate-vibid:350300870422": 25,
+      "gas:candidate-vibid:1001000225956": 198,
+      "gas:candidate-vibid:250200071250": 53,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 16,
+      "gas:candidate-vibid:1001000113950": 37,
+      "gas:candidate-vibid:1001000121868": 221,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 170,
-      "Борисов Александр Николаевич": 52,
-      "Брынцалов Владимир Алексеевич": 265,
-      "Иванова Татьяна Ивановна": 67,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 36,
-      "Собко Сергей Васильевич": 335,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000195100": 170,
+      "gas:candidate-vibid:350300870422": 52,
+      "gas:candidate-vibid:1001000225956": 265,
+      "gas:candidate-vibid:250200071250": 67,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 36,
+      "gas:candidate-vibid:1001000121868": 335,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 187,
-      "Борисов Александр Николаевич": 52,
-      "Брынцалов Владимир Алексеевич": 198,
-      "Иванова Татьяна Ивановна": 87,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 9,
-      "Пелевин Игорь Юрьевич": 38,
-      "Собко Сергей Васильевич": 356,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000195100": 187,
+      "gas:candidate-vibid:350300870422": 52,
+      "gas:candidate-vibid:1001000225956": 198,
+      "gas:candidate-vibid:250200071250": 87,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 9,
+      "gas:candidate-vibid:1001000113950": 38,
+      "gas:candidate-vibid:1001000121868": 356,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 129,
-      "Борисов Александр Николаевич": 72,
-      "Брынцалов Владимир Алексеевич": 202,
-      "Иванова Татьяна Ивановна": 48,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 18,
-      "Пелевин Игорь Юрьевич": 33,
-      "Собко Сергей Васильевич": 246,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000195100": 129,
+      "gas:candidate-vibid:350300870422": 72,
+      "gas:candidate-vibid:1001000225956": 202,
+      "gas:candidate-vibid:250200071250": 48,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 18,
+      "gas:candidate-vibid:1001000113950": 33,
+      "gas:candidate-vibid:1001000121868": 246,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 88,
-      "Борисов Александр Николаевич": 67,
-      "Брынцалов Владимир Алексеевич": 249,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 15,
-      "Пелевин Игорь Юрьевич": 35,
-      "Собко Сергей Васильевич": 210,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000195100": 88,
+      "gas:candidate-vibid:350300870422": 67,
+      "gas:candidate-vibid:1001000225956": 249,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 15,
+      "gas:candidate-vibid:1001000113950": 35,
+      "gas:candidate-vibid:1001000121868": 210,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 22,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 76,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 53,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195100": 22,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 76,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 53,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 41,
-      "Борисов Александр Николаевич": 13,
-      "Брынцалов Владимир Алексеевич": 100,
-      "Иванова Татьяна Ивановна": 15,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 51,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195100": 41,
+      "gas:candidate-vibid:350300870422": 13,
+      "gas:candidate-vibid:1001000225956": 100,
+      "gas:candidate-vibid:250200071250": 15,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 51,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 62,
-      "Борисов Александр Николаевич": 34,
-      "Брынцалов Владимир Алексеевич": 151,
-      "Иванова Татьяна Ивановна": 40,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 24,
-      "Собко Сергей Васильевич": 190,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000195100": 62,
+      "gas:candidate-vibid:350300870422": 34,
+      "gas:candidate-vibid:1001000225956": 151,
+      "gas:candidate-vibid:250200071250": 40,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 24,
+      "gas:candidate-vibid:1001000121868": 190,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 21,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 53,
-      "Иванова Татьяна Ивановна": 10,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 5,
-      "Собко Сергей Васильевич": 91,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195100": 21,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 53,
+      "gas:candidate-vibid:250200071250": 10,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 5,
+      "gas:candidate-vibid:1001000121868": 91,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 124,
-      "Борисов Александр Николаевич": 68,
-      "Брынцалов Владимир Алексеевич": 233,
-      "Иванова Татьяна Ивановна": 70,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 19,
-      "Собко Сергей Васильевич": 244,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000195100": 124,
+      "gas:candidate-vibid:350300870422": 68,
+      "gas:candidate-vibid:1001000225956": 233,
+      "gas:candidate-vibid:250200071250": 70,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 19,
+      "gas:candidate-vibid:1001000121868": 244,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 133,
-      "Борисов Александр Николаевич": 56,
-      "Брынцалов Владимир Алексеевич": 274,
-      "Иванова Татьяна Ивановна": 69,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 12,
-      "Пелевин Игорь Юрьевич": 48,
-      "Собко Сергей Васильевич": 400,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000195100": 133,
+      "gas:candidate-vibid:350300870422": 56,
+      "gas:candidate-vibid:1001000225956": 274,
+      "gas:candidate-vibid:250200071250": 69,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 12,
+      "gas:candidate-vibid:1001000113950": 48,
+      "gas:candidate-vibid:1001000121868": 400,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 89,
-      "Борисов Александр Николаевич": 40,
-      "Брынцалов Владимир Алексеевич": 197,
-      "Иванова Татьяна Ивановна": 36,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 17,
-      "Собко Сергей Васильевич": 132,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000195100": 89,
+      "gas:candidate-vibid:350300870422": 40,
+      "gas:candidate-vibid:1001000225956": 197,
+      "gas:candidate-vibid:250200071250": 36,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 17,
+      "gas:candidate-vibid:1001000121868": 132,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 56,
-      "Борисов Александр Николаевич": 36,
-      "Брынцалов Владимир Алексеевич": 135,
-      "Иванова Татьяна Ивановна": 36,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 9,
-      "Собко Сергей Васильевич": 135,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000195100": 56,
+      "gas:candidate-vibid:350300870422": 36,
+      "gas:candidate-vibid:1001000225956": 135,
+      "gas:candidate-vibid:250200071250": 36,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 9,
+      "gas:candidate-vibid:1001000121868": 135,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 57,
-      "Борисов Александр Николаевич": 58,
-      "Брынцалов Владимир Алексеевич": 128,
-      "Иванова Татьяна Ивановна": 38,
-      "Клетенков Сергей Николаевич": 8,
-      "Осьмаков Сергей Васильевич": 12,
-      "Пелевин Игорь Юрьевич": 62,
-      "Собко Сергей Васильевич": 38,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000195100": 57,
+      "gas:candidate-vibid:350300870422": 58,
+      "gas:candidate-vibid:1001000225956": 128,
+      "gas:candidate-vibid:250200071250": 38,
+      "gas:candidate-vibid:350300870425": 8,
+      "gas:candidate-vibid:1001000190375": 12,
+      "gas:candidate-vibid:1001000113950": 62,
+      "gas:candidate-vibid:1001000121868": 38,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 33,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 83,
-      "Иванова Татьяна Ивановна": 33,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 26,
-      "Собко Сергей Васильевич": 36,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195100": 33,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 83,
+      "gas:candidate-vibid:250200071250": 33,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 26,
+      "gas:candidate-vibid:1001000121868": 36,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 156,
-      "Борисов Александр Николаевич": 129,
-      "Брынцалов Владимир Алексеевич": 272,
-      "Иванова Татьяна Ивановна": 102,
-      "Клетенков Сергей Николаевич": 28,
-      "Осьмаков Сергей Васильевич": 42,
-      "Пелевин Игорь Юрьевич": 260,
-      "Собко Сергей Васильевич": 156,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000195100": 156,
+      "gas:candidate-vibid:350300870422": 129,
+      "gas:candidate-vibid:1001000225956": 272,
+      "gas:candidate-vibid:250200071250": 102,
+      "gas:candidate-vibid:350300870425": 28,
+      "gas:candidate-vibid:1001000190375": 42,
+      "gas:candidate-vibid:1001000113950": 260,
+      "gas:candidate-vibid:1001000121868": 156,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 46,
-      "Борисов Александр Николаевич": 39,
-      "Брынцалов Владимир Алексеевич": 73,
-      "Иванова Татьяна Ивановна": 24,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 37,
-      "Собко Сергей Васильевич": 58,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000195100": 46,
+      "gas:candidate-vibid:350300870422": 39,
+      "gas:candidate-vibid:1001000225956": 73,
+      "gas:candidate-vibid:250200071250": 24,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 37,
+      "gas:candidate-vibid:1001000121868": 58,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 31,
-      "Борисов Александр Николаевич": 26,
-      "Брынцалов Владимир Алексеевич": 68,
-      "Иванова Татьяна Ивановна": 34,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 31,
-      "Собко Сергей Васильевич": 38,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195100": 31,
+      "gas:candidate-vibid:350300870422": 26,
+      "gas:candidate-vibid:1001000225956": 68,
+      "gas:candidate-vibid:250200071250": 34,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 31,
+      "gas:candidate-vibid:1001000121868": 38,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 32,
-      "Борисов Александр Николаевич": 26,
-      "Брынцалов Владимир Алексеевич": 62,
-      "Иванова Татьяна Ивановна": 32,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 31,
-      "Собко Сергей Васильевич": 39,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195100": 32,
+      "gas:candidate-vibid:350300870422": 26,
+      "gas:candidate-vibid:1001000225956": 62,
+      "gas:candidate-vibid:250200071250": 32,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 31,
+      "gas:candidate-vibid:1001000121868": 39,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 16,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 510,
-      "Иванова Татьяна Ивановна": 14,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 12,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000195100": 16,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 510,
+      "gas:candidate-vibid:250200071250": 14,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 12,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 7,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 15,
-      "Иванова Татьяна Ивановна": 1,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195100": 7,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 15,
+      "gas:candidate-vibid:250200071250": 1,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 8,
-      "Борисов Александр Николаевич": 12,
-      "Брынцалов Владимир Алексеевич": 9,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195100": 8,
+      "gas:candidate-vibid:350300870422": 12,
+      "gas:candidate-vibid:1001000225956": 9,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 11,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 11,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 4,
-      "Иванова Татьяна Ивановна": 1,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 4,
+      "gas:candidate-vibid:250200071250": 1,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 2,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 4,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195100": 2,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 4,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 149,
-      "Борисов Александр Николаевич": 83,
-      "Брынцалов Владимир Алексеевич": 241,
-      "Иванова Татьяна Ивановна": 73,
-      "Клетенков Сергей Николаевич": 15,
-      "Осьмаков Сергей Васильевич": 59,
-      "Пелевин Игорь Юрьевич": 50,
-      "Собко Сергей Васильевич": 544,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000195100": 149,
+      "gas:candidate-vibid:350300870422": 83,
+      "gas:candidate-vibid:1001000225956": 241,
+      "gas:candidate-vibid:250200071250": 73,
+      "gas:candidate-vibid:350300870425": 15,
+      "gas:candidate-vibid:1001000190375": 59,
+      "gas:candidate-vibid:1001000113950": 50,
+      "gas:candidate-vibid:1001000121868": 544,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 78,
-      "Борисов Александр Николаевич": 49,
-      "Брынцалов Владимир Алексеевич": 95,
-      "Иванова Татьяна Ивановна": 42,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 21,
-      "Пелевин Игорь Юрьевич": 19,
-      "Собко Сергей Васильевич": 85,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000195100": 78,
+      "gas:candidate-vibid:350300870422": 49,
+      "gas:candidate-vibid:1001000225956": 95,
+      "gas:candidate-vibid:250200071250": 42,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 21,
+      "gas:candidate-vibid:1001000113950": 19,
+      "gas:candidate-vibid:1001000121868": 85,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 51,
-      "Борисов Александр Николаевич": 36,
-      "Брынцалов Владимир Алексеевич": 100,
-      "Иванова Татьяна Ивановна": 34,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 157,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000195100": 51,
+      "gas:candidate-vibid:350300870422": 36,
+      "gas:candidate-vibid:1001000225956": 100,
+      "gas:candidate-vibid:250200071250": 34,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 157,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 59,
-      "Борисов Александр Николаевич": 27,
-      "Брынцалов Владимир Алексеевич": 139,
-      "Иванова Татьяна Ивановна": 22,
-      "Клетенков Сергей Николаевич": 7,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 86,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000195100": 59,
+      "gas:candidate-vibid:350300870422": 27,
+      "gas:candidate-vibid:1001000225956": 139,
+      "gas:candidate-vibid:250200071250": 22,
+      "gas:candidate-vibid:350300870425": 7,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 86,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 28,
-      "Иванова Татьяна Ивановна": 6,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 28,
+      "gas:candidate-vibid:250200071250": 6,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870382&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 34,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 252,
-      "Иванова Татьяна Ивановна": 63,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 32,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 239,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000195100": 34,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 252,
+      "gas:candidate-vibid:250200071250": 63,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 32,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 239,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 10,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 86,
-      "Иванова Татьяна Ивановна": 18,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 84,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000195100": 10,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 86,
+      "gas:candidate-vibid:250200071250": 18,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 84,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 25,
-      "Борисов Александр Николаевич": 18,
-      "Брынцалов Владимир Алексеевич": 217,
-      "Иванова Татьяна Ивановна": 73,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 21,
-      "Собко Сергей Васильевич": 286,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000195100": 25,
+      "gas:candidate-vibid:350300870422": 18,
+      "gas:candidate-vibid:1001000225956": 217,
+      "gas:candidate-vibid:250200071250": 73,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 21,
+      "gas:candidate-vibid:1001000121868": 286,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 41,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 194,
-      "Иванова Татьяна Ивановна": 48,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 22,
-      "Собко Сергей Васильевич": 142,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000195100": 41,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 194,
+      "gas:candidate-vibid:250200071250": 48,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 22,
+      "gas:candidate-vibid:1001000121868": 142,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 22,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 153,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 111,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000195100": 22,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 153,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 111,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 25,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 105,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 163,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000195100": 25,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 105,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 163,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 53,
-      "Борисов Александр Николаевич": 19,
-      "Брынцалов Владимир Алексеевич": 282,
-      "Иванова Татьяна Ивановна": 62,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 20,
-      "Собко Сергей Васильевич": 244,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000195100": 53,
+      "gas:candidate-vibid:350300870422": 19,
+      "gas:candidate-vibid:1001000225956": 282,
+      "gas:candidate-vibid:250200071250": 62,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 20,
+      "gas:candidate-vibid:1001000121868": 244,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 21,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 215,
-      "Иванова Татьяна Ивановна": 51,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 25,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 164,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000195100": 21,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 215,
+      "gas:candidate-vibid:250200071250": 51,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 25,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 164,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 77,
-      "Борисов Александр Николаевич": 23,
-      "Брынцалов Владимир Алексеевич": 400,
-      "Иванова Татьяна Ивановна": 64,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 19,
-      "Собко Сергей Васильевич": 277,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000195100": 77,
+      "gas:candidate-vibid:350300870422": 23,
+      "gas:candidate-vibid:1001000225956": 400,
+      "gas:candidate-vibid:250200071250": 64,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 19,
+      "gas:candidate-vibid:1001000121868": 277,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 27,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 180,
-      "Иванова Татьяна Ивановна": 29,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 230,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000195100": 27,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 180,
+      "gas:candidate-vibid:250200071250": 29,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 230,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 28,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 296,
-      "Иванова Татьяна Ивановна": 66,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 17,
-      "Пелевин Игорь Юрьевич": 10,
-      "Собко Сергей Васильевич": 220,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000195100": 28,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 296,
+      "gas:candidate-vibid:250200071250": 66,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 17,
+      "gas:candidate-vibid:1001000113950": 10,
+      "gas:candidate-vibid:1001000121868": 220,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 19,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 120,
-      "Иванова Татьяна Ивановна": 24,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 161,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000195100": 19,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 120,
+      "gas:candidate-vibid:250200071250": 24,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 161,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 40,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 323,
-      "Иванова Татьяна Ивановна": 77,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 211,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000195100": 40,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 323,
+      "gas:candidate-vibid:250200071250": 77,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 211,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 39,
-      "Борисов Александр Николаевич": 17,
-      "Брынцалов Владимир Алексеевич": 210,
-      "Иванова Татьяна Ивановна": 45,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 153,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000195100": 39,
+      "gas:candidate-vibid:350300870422": 17,
+      "gas:candidate-vibid:1001000225956": 210,
+      "gas:candidate-vibid:250200071250": 45,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 153,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 80,
-      "Борисов Александр Николаевич": 17,
-      "Брынцалов Владимир Алексеевич": 349,
-      "Иванова Татьяна Ивановна": 74,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 16,
-      "Пелевин Игорь Юрьевич": 18,
-      "Собко Сергей Васильевич": 245,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000195100": 80,
+      "gas:candidate-vibid:350300870422": 17,
+      "gas:candidate-vibid:1001000225956": 349,
+      "gas:candidate-vibid:250200071250": 74,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 16,
+      "gas:candidate-vibid:1001000113950": 18,
+      "gas:candidate-vibid:1001000121868": 245,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 49,
-      "Борисов Александр Николаевич": 23,
-      "Брынцалов Владимир Алексеевич": 329,
-      "Иванова Татьяна Ивановна": 68,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 36,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 322,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000195100": 49,
+      "gas:candidate-vibid:350300870422": 23,
+      "gas:candidate-vibid:1001000225956": 329,
+      "gas:candidate-vibid:250200071250": 68,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 36,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 322,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 122,
-      "Борисов Александр Николаевич": 38,
-      "Брынцалов Владимир Алексеевич": 499,
-      "Иванова Татьяна Ивановна": 81,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 22,
-      "Пелевин Игорь Юрьевич": 11,
-      "Собко Сергей Васильевич": 320,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000195100": 122,
+      "gas:candidate-vibid:350300870422": 38,
+      "gas:candidate-vibid:1001000225956": 499,
+      "gas:candidate-vibid:250200071250": 81,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 22,
+      "gas:candidate-vibid:1001000113950": 11,
+      "gas:candidate-vibid:1001000121868": 320,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 19,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 159,
-      "Иванова Татьяна Ивановна": 28,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 9,
-      "Собко Сергей Васильевич": 142,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000195100": 19,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 159,
+      "gas:candidate-vibid:250200071250": 28,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 9,
+      "gas:candidate-vibid:1001000121868": 142,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 32,
-      "Борисов Александр Николаевич": 14,
-      "Брынцалов Владимир Алексеевич": 331,
-      "Иванова Татьяна Ивановна": 63,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 15,
-      "Собко Сергей Васильевич": 363,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000195100": 32,
+      "gas:candidate-vibid:350300870422": 14,
+      "gas:candidate-vibid:1001000225956": 331,
+      "gas:candidate-vibid:250200071250": 63,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 15,
+      "gas:candidate-vibid:1001000121868": 363,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 37,
-      "Борисов Александр Николаевич": 20,
-      "Брынцалов Владимир Алексеевич": 314,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 20,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 280,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000195100": 37,
+      "gas:candidate-vibid:350300870422": 20,
+      "gas:candidate-vibid:1001000225956": 314,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 20,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 280,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 40,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 206,
-      "Иванова Татьяна Ивановна": 40,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 9,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 210,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000195100": 40,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 206,
+      "gas:candidate-vibid:250200071250": 40,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 9,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 210,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 36,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 263,
-      "Иванова Татьяна Ивановна": 42,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 254,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000195100": 36,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 263,
+      "gas:candidate-vibid:250200071250": 42,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 254,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 40,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 288,
-      "Иванова Татьяна Ивановна": 63,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 11,
-      "Собко Сергей Васильевич": 275,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000195100": 40,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 288,
+      "gas:candidate-vibid:250200071250": 63,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 11,
+      "gas:candidate-vibid:1001000121868": 275,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 30,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 238,
-      "Иванова Татьяна Ивановна": 41,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 245,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000195100": 30,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 238,
+      "gas:candidate-vibid:250200071250": 41,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 245,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 25,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 430,
-      "Иванова Татьяна Ивановна": 66,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 16,
-      "Собко Сергей Васильевич": 311,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000195100": 25,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 430,
+      "gas:candidate-vibid:250200071250": 66,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 16,
+      "gas:candidate-vibid:1001000121868": 311,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 22,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 230,
-      "Иванова Татьяна Ивановна": 33,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 9,
-      "Собко Сергей Васильевич": 270,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000195100": 22,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 230,
+      "gas:candidate-vibid:250200071250": 33,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 9,
+      "gas:candidate-vibid:1001000121868": 270,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 35,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 365,
-      "Иванова Татьяна Ивановна": 74,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 11,
-      "Собко Сергей Васильевич": 354,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000195100": 35,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 365,
+      "gas:candidate-vibid:250200071250": 74,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 11,
+      "gas:candidate-vibid:1001000121868": 354,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 36,
-      "Борисов Александр Николаевич": 28,
-      "Брынцалов Владимир Алексеевич": 442,
-      "Иванова Татьяна Ивановна": 67,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 21,
-      "Собко Сергей Васильевич": 300,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000195100": 36,
+      "gas:candidate-vibid:350300870422": 28,
+      "gas:candidate-vibid:1001000225956": 442,
+      "gas:candidate-vibid:250200071250": 67,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 21,
+      "gas:candidate-vibid:1001000121868": 300,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 38,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 400,
-      "Иванова Татьяна Ивановна": 81,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 304,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000195100": 38,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 400,
+      "gas:candidate-vibid:250200071250": 81,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 304,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 30,
-      "Борисов Александр Николаевич": 30,
-      "Брынцалов Владимир Алексеевич": 355,
-      "Иванова Татьяна Ивановна": 55,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 320,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000195100": 30,
+      "gas:candidate-vibid:350300870422": 30,
+      "gas:candidate-vibid:1001000225956": 355,
+      "gas:candidate-vibid:250200071250": 55,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 320,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 15,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 121,
-      "Иванова Татьяна Ивановна": 27,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 9,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 127,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000195100": 15,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 121,
+      "gas:candidate-vibid:250200071250": 27,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 9,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 127,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 10,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 72,
-      "Иванова Татьяна Ивановна": 14,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 104,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195100": 10,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 72,
+      "gas:candidate-vibid:250200071250": 14,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 104,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 16,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 125,
-      "Иванова Татьяна Ивановна": 18,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 52,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000195100": 16,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 125,
+      "gas:candidate-vibid:250200071250": 18,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 52,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 46,
-      "Борисов Александр Николаевич": 13,
-      "Брынцалов Владимир Алексеевич": 273,
-      "Иванова Татьяна Ивановна": 27,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 433,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000195100": 46,
+      "gas:candidate-vibid:350300870422": 13,
+      "gas:candidate-vibid:1001000225956": 273,
+      "gas:candidate-vibid:250200071250": 27,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 433,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 15,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 86,
-      "Иванова Татьяна Ивановна": 14,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 46,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000195100": 15,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 86,
+      "gas:candidate-vibid:250200071250": 14,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 46,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 8,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 98,
-      "Иванова Татьяна Ивановна": 7,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 69,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195100": 8,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 98,
+      "gas:candidate-vibid:250200071250": 7,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 69,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 15,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 181,
-      "Иванова Татьяна Ивановна": 18,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 126,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195100": 15,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 181,
+      "gas:candidate-vibid:250200071250": 18,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 126,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 7,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 59,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 102,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000195100": 7,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 59,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 102,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 10,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 56,
-      "Иванова Татьяна Ивановна": 14,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 86,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195100": 10,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 56,
+      "gas:candidate-vibid:250200071250": 14,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 86,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 22,
-      "Борисов Александр Николаевич": 17,
-      "Брынцалов Владимир Алексеевич": 316,
-      "Иванова Татьяна Ивановна": 37,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 154,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000195100": 22,
+      "gas:candidate-vibid:350300870422": 17,
+      "gas:candidate-vibid:1001000225956": 316,
+      "gas:candidate-vibid:250200071250": 37,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 154,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 79,
-      "Борисов Александр Николаевич": 24,
-      "Брынцалов Владимир Алексеевич": 336,
-      "Иванова Татьяна Ивановна": 63,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 10,
-      "Собко Сергей Васильевич": 334,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000195100": 79,
+      "gas:candidate-vibid:350300870422": 24,
+      "gas:candidate-vibid:1001000225956": 336,
+      "gas:candidate-vibid:250200071250": 63,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 10,
+      "gas:candidate-vibid:1001000121868": 334,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 6,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 61,
-      "Иванова Татьяна Ивановна": 25,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 33,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195100": 6,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 61,
+      "gas:candidate-vibid:250200071250": 25,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 33,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 11,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 138,
-      "Иванова Татьяна Ивановна": 16,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 77,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000195100": 11,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 138,
+      "gas:candidate-vibid:250200071250": 16,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 77,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 10,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 179,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 84,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000195100": 10,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 179,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 84,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 24,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 320,
-      "Иванова Татьяна Ивановна": 38,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 296,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195100": 24,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 320,
+      "gas:candidate-vibid:250200071250": 38,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 296,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 1,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 55,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 23,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195100": 1,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 55,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 23,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 47,
-      "Борисов Александр Николаевич": 32,
-      "Брынцалов Владимир Алексеевич": 497,
-      "Иванова Татьяна Ивановна": 56,
-      "Клетенков Сергей Николаевич": 7,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 26,
-      "Собко Сергей Васильевич": 249,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000195100": 47,
+      "gas:candidate-vibid:350300870422": 32,
+      "gas:candidate-vibid:1001000225956": 497,
+      "gas:candidate-vibid:250200071250": 56,
+      "gas:candidate-vibid:350300870425": 7,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 26,
+      "gas:candidate-vibid:1001000121868": 249,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 213,
-      "Иванова Татьяна Ивановна": 16,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 115,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 213,
+      "gas:candidate-vibid:250200071250": 16,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 115,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 34,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 155,
-      "Иванова Татьяна Ивановна": 21,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 166,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000195100": 34,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 155,
+      "gas:candidate-vibid:250200071250": 21,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 166,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 16,
-      "Борисов Александр Николаевич": 37,
-      "Брынцалов Владимир Алексеевич": 267,
-      "Иванова Татьяна Ивановна": 15,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 115,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000195100": 16,
+      "gas:candidate-vibid:350300870422": 37,
+      "gas:candidate-vibid:1001000225956": 267,
+      "gas:candidate-vibid:250200071250": 15,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 115,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 3,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 124,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 107,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000195100": 3,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 124,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 107,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 2,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 71,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 47,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195100": 2,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 71,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 47,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 26,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 178,
-      "Иванова Татьяна Ивановна": 21,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 139,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000195100": 26,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 178,
+      "gas:candidate-vibid:250200071250": 21,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 139,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 44,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 65,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 44,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 65,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 6,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 40,
-      "Иванова Татьяна Ивановна": 6,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 117,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195100": 6,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 40,
+      "gas:candidate-vibid:250200071250": 6,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 117,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 20,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 169,
-      "Иванова Татьяна Ивановна": 17,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 162,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000195100": 20,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 169,
+      "gas:candidate-vibid:250200071250": 17,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 162,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 127,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 70,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 127,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 70,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 11,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 116,
-      "Иванова Татьяна Ивановна": 17,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 234,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195100": 11,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 116,
+      "gas:candidate-vibid:250200071250": 17,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 234,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 2,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 13,
-      "Иванова Татьяна Ивановна": 0,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 49,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195100": 2,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 13,
+      "gas:candidate-vibid:250200071250": 0,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 49,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 1,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 57,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 44,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195100": 1,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 57,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 44,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 13,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 351,
-      "Иванова Татьяна Ивановна": 33,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 161,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000195100": 13,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 351,
+      "gas:candidate-vibid:250200071250": 33,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 161,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 1,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 34,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 27,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195100": 1,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 34,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 27,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870383&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 95,
-      "Борисов Александр Николаевич": 36,
-      "Брынцалов Владимир Алексеевич": 294,
-      "Иванова Татьяна Ивановна": 87,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 28,
-      "Пелевин Игорь Юрьевич": 26,
-      "Собко Сергей Васильевич": 242,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000195100": 95,
+      "gas:candidate-vibid:350300870422": 36,
+      "gas:candidate-vibid:1001000225956": 294,
+      "gas:candidate-vibid:250200071250": 87,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 28,
+      "gas:candidate-vibid:1001000113950": 26,
+      "gas:candidate-vibid:1001000121868": 242,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 123,
-      "Борисов Александр Николаевич": 26,
-      "Брынцалов Владимир Алексеевич": 311,
-      "Иванова Татьяна Ивановна": 79,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 36,
-      "Пелевин Игорь Юрьевич": 29,
-      "Собко Сергей Васильевич": 270,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000195100": 123,
+      "gas:candidate-vibid:350300870422": 26,
+      "gas:candidate-vibid:1001000225956": 311,
+      "gas:candidate-vibid:250200071250": 79,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 36,
+      "gas:candidate-vibid:1001000113950": 29,
+      "gas:candidate-vibid:1001000121868": 270,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 48,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 206,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 35,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 205,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000195100": 48,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 206,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 35,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 205,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 89,
-      "Борисов Александр Николаевич": 49,
-      "Брынцалов Владимир Алексеевич": 339,
-      "Иванова Татьяна Ивановна": 74,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 34,
-      "Пелевин Игорь Юрьевич": 22,
-      "Собко Сергей Васильевич": 274,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000195100": 89,
+      "gas:candidate-vibid:350300870422": 49,
+      "gas:candidate-vibid:1001000225956": 339,
+      "gas:candidate-vibid:250200071250": 74,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 34,
+      "gas:candidate-vibid:1001000113950": 22,
+      "gas:candidate-vibid:1001000121868": 274,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 76,
-      "Борисов Александр Николаевич": 36,
-      "Брынцалов Владимир Алексеевич": 212,
-      "Иванова Татьяна Ивановна": 107,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 38,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 217,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000195100": 76,
+      "gas:candidate-vibid:350300870422": 36,
+      "gas:candidate-vibid:1001000225956": 212,
+      "gas:candidate-vibid:250200071250": 107,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 38,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 217,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 106,
-      "Борисов Александр Николаевич": 55,
-      "Брынцалов Владимир Алексеевич": 239,
-      "Иванова Татьяна Ивановна": 135,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 36,
-      "Пелевин Игорь Юрьевич": 25,
-      "Собко Сергей Васильевич": 181,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000195100": 106,
+      "gas:candidate-vibid:350300870422": 55,
+      "gas:candidate-vibid:1001000225956": 239,
+      "gas:candidate-vibid:250200071250": 135,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 36,
+      "gas:candidate-vibid:1001000113950": 25,
+      "gas:candidate-vibid:1001000121868": 181,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 60,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 117,
-      "Иванова Татьяна Ивановна": 69,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 11,
-      "Собко Сергей Васильевич": 114,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000195100": 60,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 117,
+      "gas:candidate-vibid:250200071250": 69,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 11,
+      "gas:candidate-vibid:1001000121868": 114,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 111,
-      "Борисов Александр Николаевич": 47,
-      "Брынцалов Владимир Алексеевич": 238,
-      "Иванова Татьяна Ивановна": 126,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 28,
-      "Пелевин Игорь Юрьевич": 35,
-      "Собко Сергей Васильевич": 287,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000195100": 111,
+      "gas:candidate-vibid:350300870422": 47,
+      "gas:candidate-vibid:1001000225956": 238,
+      "gas:candidate-vibid:250200071250": 126,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 28,
+      "gas:candidate-vibid:1001000113950": 35,
+      "gas:candidate-vibid:1001000121868": 287,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 91,
-      "Борисов Александр Николаевич": 35,
-      "Брынцалов Владимир Алексеевич": 170,
-      "Иванова Татьяна Ивановна": 115,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 26,
-      "Собко Сергей Васильевич": 153,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000195100": 91,
+      "gas:candidate-vibid:350300870422": 35,
+      "gas:candidate-vibid:1001000225956": 170,
+      "gas:candidate-vibid:250200071250": 115,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 26,
+      "gas:candidate-vibid:1001000121868": 153,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 34,
-      "Борисов Александр Николаевич": 14,
-      "Брынцалов Владимир Алексеевич": 71,
-      "Иванова Татьяна Ивановна": 36,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 11,
-      "Собко Сергей Васильевич": 87,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000195100": 34,
+      "gas:candidate-vibid:350300870422": 14,
+      "gas:candidate-vibid:1001000225956": 71,
+      "gas:candidate-vibid:250200071250": 36,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 11,
+      "gas:candidate-vibid:1001000121868": 87,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 44,
-      "Борисов Александр Николаевич": 26,
-      "Брынцалов Владимир Алексеевич": 102,
-      "Иванова Татьяна Ивановна": 62,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 21,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 156,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000195100": 44,
+      "gas:candidate-vibid:350300870422": 26,
+      "gas:candidate-vibid:1001000225956": 102,
+      "gas:candidate-vibid:250200071250": 62,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 21,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 156,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 54,
-      "Борисов Александр Николаевич": 21,
-      "Брынцалов Владимир Алексеевич": 88,
-      "Иванова Татьяна Ивановна": 43,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 127,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000195100": 54,
+      "gas:candidate-vibid:350300870422": 21,
+      "gas:candidate-vibid:1001000225956": 88,
+      "gas:candidate-vibid:250200071250": 43,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 127,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 31,
-      "Борисов Александр Николаевич": 25,
-      "Брынцалов Владимир Алексеевич": 287,
-      "Иванова Татьяна Ивановна": 39,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 63,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000195100": 31,
+      "gas:candidate-vibid:350300870422": 25,
+      "gas:candidate-vibid:1001000225956": 287,
+      "gas:candidate-vibid:250200071250": 39,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 63,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 113,
-      "Борисов Александр Николаевич": 45,
-      "Брынцалов Владимир Алексеевич": 129,
-      "Иванова Татьяна Ивановна": 95,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 35,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 191,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000195100": 113,
+      "gas:candidate-vibid:350300870422": 45,
+      "gas:candidate-vibid:1001000225956": 129,
+      "gas:candidate-vibid:250200071250": 95,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 35,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 191,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 132,
-      "Борисов Александр Николаевич": 60,
-      "Брынцалов Владимир Алексеевич": 290,
-      "Иванова Татьяна Ивановна": 60,
-      "Клетенков Сергей Николаевич": 7,
-      "Осьмаков Сергей Васильевич": 87,
-      "Пелевин Игорь Юрьевич": 24,
-      "Собко Сергей Васильевич": 197,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000195100": 132,
+      "gas:candidate-vibid:350300870422": 60,
+      "gas:candidate-vibid:1001000225956": 290,
+      "gas:candidate-vibid:250200071250": 60,
+      "gas:candidate-vibid:350300870425": 7,
+      "gas:candidate-vibid:1001000190375": 87,
+      "gas:candidate-vibid:1001000113950": 24,
+      "gas:candidate-vibid:1001000121868": 197,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 166,
-      "Борисов Александр Николаевич": 54,
-      "Брынцалов Владимир Алексеевич": 343,
-      "Иванова Татьяна Ивановна": 87,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 91,
-      "Пелевин Игорь Юрьевич": 37,
-      "Собко Сергей Васильевич": 311,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000195100": 166,
+      "gas:candidate-vibid:350300870422": 54,
+      "gas:candidate-vibid:1001000225956": 343,
+      "gas:candidate-vibid:250200071250": 87,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 91,
+      "gas:candidate-vibid:1001000113950": 37,
+      "gas:candidate-vibid:1001000121868": 311,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 139,
-      "Борисов Александр Николаевич": 67,
-      "Брынцалов Владимир Алексеевич": 279,
-      "Иванова Татьяна Ивановна": 81,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 103,
-      "Пелевин Игорь Юрьевич": 22,
-      "Собко Сергей Васильевич": 251,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000195100": 139,
+      "gas:candidate-vibid:350300870422": 67,
+      "gas:candidate-vibid:1001000225956": 279,
+      "gas:candidate-vibid:250200071250": 81,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 103,
+      "gas:candidate-vibid:1001000113950": 22,
+      "gas:candidate-vibid:1001000121868": 251,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 139,
-      "Борисов Александр Николаевич": 52,
-      "Брынцалов Владимир Алексеевич": 374,
-      "Иванова Татьяна Ивановна": 105,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 120,
-      "Пелевин Игорь Юрьевич": 26,
-      "Собко Сергей Васильевич": 295,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000195100": 139,
+      "gas:candidate-vibid:350300870422": 52,
+      "gas:candidate-vibid:1001000225956": 374,
+      "gas:candidate-vibid:250200071250": 105,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 120,
+      "gas:candidate-vibid:1001000113950": 26,
+      "gas:candidate-vibid:1001000121868": 295,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 140,
-      "Борисов Александр Николаевич": 66,
-      "Брынцалов Владимир Алексеевич": 295,
-      "Иванова Татьяна Ивановна": 90,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 57,
-      "Пелевин Игорь Юрьевич": 25,
-      "Собко Сергей Васильевич": 396,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000195100": 140,
+      "gas:candidate-vibid:350300870422": 66,
+      "gas:candidate-vibid:1001000225956": 295,
+      "gas:candidate-vibid:250200071250": 90,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 57,
+      "gas:candidate-vibid:1001000113950": 25,
+      "gas:candidate-vibid:1001000121868": 396,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 100,
-      "Борисов Александр Николаевич": 57,
-      "Брынцалов Владимир Алексеевич": 226,
-      "Иванова Татьяна Ивановна": 70,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 33,
-      "Пелевин Игорь Юрьевич": 20,
-      "Собко Сергей Васильевич": 263,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000195100": 100,
+      "gas:candidate-vibid:350300870422": 57,
+      "gas:candidate-vibid:1001000225956": 226,
+      "gas:candidate-vibid:250200071250": 70,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 33,
+      "gas:candidate-vibid:1001000113950": 20,
+      "gas:candidate-vibid:1001000121868": 263,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 73,
-      "Борисов Александр Николаевич": 24,
-      "Брынцалов Владимир Алексеевич": 175,
-      "Иванова Татьяна Ивановна": 41,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 189,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000195100": 73,
+      "gas:candidate-vibid:350300870422": 24,
+      "gas:candidate-vibid:1001000225956": 175,
+      "gas:candidate-vibid:250200071250": 41,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 189,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 91,
-      "Борисов Александр Николаевич": 46,
-      "Брынцалов Владимир Алексеевич": 288,
-      "Иванова Татьяна Ивановна": 57,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 27,
-      "Собко Сергей Васильевич": 157,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000195100": 91,
+      "gas:candidate-vibid:350300870422": 46,
+      "gas:candidate-vibid:1001000225956": 288,
+      "gas:candidate-vibid:250200071250": 57,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 27,
+      "gas:candidate-vibid:1001000121868": 157,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 147,
-      "Борисов Александр Николаевич": 56,
-      "Брынцалов Владимир Алексеевич": 352,
-      "Иванова Татьяна Ивановна": 61,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 28,
-      "Собко Сергей Васильевич": 199,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000195100": 147,
+      "gas:candidate-vibid:350300870422": 56,
+      "gas:candidate-vibid:1001000225956": 352,
+      "gas:candidate-vibid:250200071250": 61,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 28,
+      "gas:candidate-vibid:1001000121868": 199,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 182,
-      "Борисов Александр Николаевич": 59,
-      "Брынцалов Владимир Алексеевич": 371,
-      "Иванова Татьяна Ивановна": 88,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 32,
-      "Собко Сергей Васильевич": 174,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000195100": 182,
+      "gas:candidate-vibid:350300870422": 59,
+      "gas:candidate-vibid:1001000225956": 371,
+      "gas:candidate-vibid:250200071250": 88,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 32,
+      "gas:candidate-vibid:1001000121868": 174,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 176,
-      "Борисов Александр Николаевич": 72,
-      "Брынцалов Владимир Алексеевич": 442,
-      "Иванова Татьяна Ивановна": 115,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 22,
-      "Пелевин Игорь Юрьевич": 30,
-      "Собко Сергей Васильевич": 250,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000195100": 176,
+      "gas:candidate-vibid:350300870422": 72,
+      "gas:candidate-vibid:1001000225956": 442,
+      "gas:candidate-vibid:250200071250": 115,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 22,
+      "gas:candidate-vibid:1001000113950": 30,
+      "gas:candidate-vibid:1001000121868": 250,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 130,
-      "Борисов Александр Николаевич": 26,
-      "Брынцалов Владимир Алексеевич": 162,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 224,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000195100": 130,
+      "gas:candidate-vibid:350300870422": 26,
+      "gas:candidate-vibid:1001000225956": 162,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 224,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 52,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 96,
-      "Иванова Татьяна Ивановна": 30,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 87,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000195100": 52,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 96,
+      "gas:candidate-vibid:250200071250": 30,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 87,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 61,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 137,
-      "Иванова Татьяна Ивановна": 19,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 5,
-      "Собко Сергей Васильевич": 45,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000195100": 61,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 137,
+      "gas:candidate-vibid:250200071250": 19,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 5,
+      "gas:candidate-vibid:1001000121868": 45,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 11,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 60,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 100,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195100": 11,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 60,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 100,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 2,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 31,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 49,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195100": 2,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 31,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 49,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 15,
-      "Иванова Татьяна Ивановна": 10,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 34,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 15,
+      "gas:candidate-vibid:250200071250": 10,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 34,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 26,
-      "Борисов Александр Николаевич": 20,
-      "Брынцалов Владимир Алексеевич": 96,
-      "Иванова Татьяна Ивановна": 29,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 104,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195100": 26,
+      "gas:candidate-vibid:350300870422": 20,
+      "gas:candidate-vibid:1001000225956": 96,
+      "gas:candidate-vibid:250200071250": 29,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 104,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 95,
-      "Борисов Александр Николаевич": 18,
-      "Брынцалов Владимир Алексеевич": 236,
-      "Иванова Татьяна Ивановна": 42,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 15,
-      "Собко Сергей Васильевич": 211,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000195100": 95,
+      "gas:candidate-vibid:350300870422": 18,
+      "gas:candidate-vibid:1001000225956": 236,
+      "gas:candidate-vibid:250200071250": 42,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 15,
+      "gas:candidate-vibid:1001000121868": 211,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 17,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 36,
-      "Иванова Татьяна Ивановна": 13,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 41,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195100": 17,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 36,
+      "gas:candidate-vibid:250200071250": 13,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 41,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 12,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 37,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 34,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195100": 12,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 37,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 34,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 12,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 33,
-      "Иванова Татьяна Ивановна": 6,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 30,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195100": 12,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 33,
+      "gas:candidate-vibid:250200071250": 6,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 30,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 9,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 35,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 26,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195100": 9,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 35,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 26,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 19,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 50,
-      "Иванова Татьяна Ивановна": 24,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 31,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195100": 19,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 50,
+      "gas:candidate-vibid:250200071250": 24,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 31,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 15,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 63,
-      "Иванова Татьяна Ивановна": 12,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 74,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195100": 15,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 63,
+      "gas:candidate-vibid:250200071250": 12,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 74,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 156,
-      "Борисов Александр Николаевич": 32,
-      "Брынцалов Владимир Алексеевич": 279,
-      "Иванова Татьяна Ивановна": 100,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 40,
-      "Собко Сергей Васильевич": 270,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000195100": 156,
+      "gas:candidate-vibid:350300870422": 32,
+      "gas:candidate-vibid:1001000225956": 279,
+      "gas:candidate-vibid:250200071250": 100,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 40,
+      "gas:candidate-vibid:1001000121868": 270,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 21,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 90,
-      "Иванова Татьяна Ивановна": 21,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 5,
-      "Собко Сергей Васильевич": 53,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195100": 21,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 90,
+      "gas:candidate-vibid:250200071250": 21,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 5,
+      "gas:candidate-vibid:1001000121868": 53,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 94,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 222,
-      "Иванова Татьяна Ивановна": 35,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 123,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000195100": 94,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 222,
+      "gas:candidate-vibid:250200071250": 35,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 123,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 86,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 189,
-      "Иванова Татьяна Ивановна": 13,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 176,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000195100": 86,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 189,
+      "gas:candidate-vibid:250200071250": 13,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 176,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 114,
-      "Борисов Александр Николаевич": 45,
-      "Брынцалов Владимир Алексеевич": 216,
-      "Иванова Татьяна Ивановна": 76,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 27,
-      "Собко Сергей Васильевич": 150,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000195100": 114,
+      "gas:candidate-vibid:350300870422": 45,
+      "gas:candidate-vibid:1001000225956": 216,
+      "gas:candidate-vibid:250200071250": 76,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 27,
+      "gas:candidate-vibid:1001000121868": 150,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 165,
-      "Борисов Александр Николаевич": 42,
-      "Брынцалов Владимир Алексеевич": 205,
-      "Иванова Татьяна Ивановна": 94,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 19,
-      "Собко Сергей Васильевич": 157,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000195100": 165,
+      "gas:candidate-vibid:350300870422": 42,
+      "gas:candidate-vibid:1001000225956": 205,
+      "gas:candidate-vibid:250200071250": 94,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 19,
+      "gas:candidate-vibid:1001000121868": 157,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 113,
-      "Борисов Александр Николаевич": 45,
-      "Брынцалов Владимир Алексеевич": 179,
-      "Иванова Татьяна Ивановна": 78,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 31,
-      "Собко Сергей Васильевич": 122,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000195100": 113,
+      "gas:candidate-vibid:350300870422": 45,
+      "gas:candidate-vibid:1001000225956": 179,
+      "gas:candidate-vibid:250200071250": 78,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 31,
+      "gas:candidate-vibid:1001000121868": 122,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 105,
-      "Борисов Александр Николаевич": 38,
-      "Брынцалов Владимир Алексеевич": 155,
-      "Иванова Татьяна Ивановна": 55,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 34,
-      "Собко Сергей Васильевич": 157,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000195100": 105,
+      "gas:candidate-vibid:350300870422": 38,
+      "gas:candidate-vibid:1001000225956": 155,
+      "gas:candidate-vibid:250200071250": 55,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 34,
+      "gas:candidate-vibid:1001000121868": 157,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 25,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 69,
-      "Иванова Татьяна Ивановна": 24,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 73,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195100": 25,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 69,
+      "gas:candidate-vibid:250200071250": 24,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 73,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 138,
-      "Борисов Александр Николаевич": 24,
-      "Брынцалов Владимир Алексеевич": 201,
-      "Иванова Татьяна Ивановна": 99,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 181,
-      "Собко Сергей Васильевич": 266,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000195100": 138,
+      "gas:candidate-vibid:350300870422": 24,
+      "gas:candidate-vibid:1001000225956": 201,
+      "gas:candidate-vibid:250200071250": 99,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 181,
+      "gas:candidate-vibid:1001000121868": 266,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 173,
-      "Борисов Александр Николаевич": 39,
-      "Брынцалов Владимир Алексеевич": 223,
-      "Иванова Татьяна Ивановна": 99,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 208,
-      "Собко Сергей Васильевич": 288,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000195100": 173,
+      "gas:candidate-vibid:350300870422": 39,
+      "gas:candidate-vibid:1001000225956": 223,
+      "gas:candidate-vibid:250200071250": 99,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 208,
+      "gas:candidate-vibid:1001000121868": 288,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 20,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 50,
-      "Иванова Татьяна Ивановна": 18,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 29,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195100": 20,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 50,
+      "gas:candidate-vibid:250200071250": 18,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 29,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 12,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 59,
-      "Иванова Татьяна Ивановна": 18,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 16,
-      "Собко Сергей Васильевич": 50,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000195100": 12,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 59,
+      "gas:candidate-vibid:250200071250": 18,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 16,
+      "gas:candidate-vibid:1001000121868": 50,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 131,
-      "Борисов Александр Николаевич": 51,
-      "Брынцалов Владимир Алексеевич": 385,
-      "Иванова Татьяна Ивановна": 125,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 26,
-      "Пелевин Игорь Юрьевич": 19,
-      "Собко Сергей Васильевич": 310,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000195100": 131,
+      "gas:candidate-vibid:350300870422": 51,
+      "gas:candidate-vibid:1001000225956": 385,
+      "gas:candidate-vibid:250200071250": 125,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 26,
+      "gas:candidate-vibid:1001000113950": 19,
+      "gas:candidate-vibid:1001000121868": 310,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 79,
-      "Борисов Александр Николаевич": 29,
-      "Брынцалов Владимир Алексеевич": 211,
-      "Иванова Татьяна Ивановна": 73,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 17,
-      "Собко Сергей Васильевич": 157,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000195100": 79,
+      "gas:candidate-vibid:350300870422": 29,
+      "gas:candidate-vibid:1001000225956": 211,
+      "gas:candidate-vibid:250200071250": 73,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 17,
+      "gas:candidate-vibid:1001000121868": 157,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 16,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 52,
-      "Иванова Татьяна Ивановна": 12,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 9,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 38,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195100": 16,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 52,
+      "gas:candidate-vibid:250200071250": 12,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 9,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 38,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 13,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 88,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 41,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195100": 13,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 88,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 41,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 19,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 30,
-      "Иванова Татьяна Ивановна": 2,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 17,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195100": 19,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 30,
+      "gas:candidate-vibid:250200071250": 2,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 17,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 11,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 27,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 42,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195100": 11,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 27,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 42,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 16,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 48,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 45,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195100": 16,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 48,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 45,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 6,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 55,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 6,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 33,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195100": 6,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 55,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 6,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 33,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 17,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 36,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 12,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195100": 17,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 36,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 12,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 26,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 78,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 25,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195100": 26,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 78,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 25,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 9,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 64,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 29,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195100": 9,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 64,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 29,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 11,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 31,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 17,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195100": 11,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 31,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 17,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 62,
-      "Борисов Александр Николаевич": 20,
-      "Брынцалов Владимир Алексеевич": 183,
-      "Иванова Татьяна Ивановна": 35,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 9,
-      "Собко Сергей Васильевич": 264,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000195100": 62,
+      "gas:candidate-vibid:350300870422": 20,
+      "gas:candidate-vibid:1001000225956": 183,
+      "gas:candidate-vibid:250200071250": 35,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 9,
+      "gas:candidate-vibid:1001000121868": 264,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 15,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 38,
-      "Иванова Татьяна Ивановна": 13,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 30,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195100": 15,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 38,
+      "gas:candidate-vibid:250200071250": 13,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 30,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 23,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 102,
-      "Иванова Татьяна Ивановна": 37,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 67,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195100": 23,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 102,
+      "gas:candidate-vibid:250200071250": 37,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 67,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 3,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 26,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 37,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195100": 3,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 26,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 37,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 4,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 45,
-      "Иванова Татьяна Ивановна": 2,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 28,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195100": 4,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 45,
+      "gas:candidate-vibid:250200071250": 2,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 28,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 6,
-      "Борисов Александр Николаевич": 4,
-      "Брынцалов Владимир Алексеевич": 42,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 42,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195100": 6,
+      "gas:candidate-vibid:350300870422": 4,
+      "gas:candidate-vibid:1001000225956": 42,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 42,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 117,
-      "Борисов Александр Николаевич": 45,
-      "Брынцалов Владимир Алексеевич": 209,
-      "Иванова Татьяна Ивановна": 76,
-      "Клетенков Сергей Николаевич": 7,
-      "Осьмаков Сергей Васильевич": 21,
-      "Пелевин Игорь Юрьевич": 17,
-      "Собко Сергей Васильевич": 320,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000195100": 117,
+      "gas:candidate-vibid:350300870422": 45,
+      "gas:candidate-vibid:1001000225956": 209,
+      "gas:candidate-vibid:250200071250": 76,
+      "gas:candidate-vibid:350300870425": 7,
+      "gas:candidate-vibid:1001000190375": 21,
+      "gas:candidate-vibid:1001000113950": 17,
+      "gas:candidate-vibid:1001000121868": 320,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 13,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 89,
-      "Иванова Татьяна Ивановна": 6,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195100": 13,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 89,
+      "gas:candidate-vibid:250200071250": 6,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 1,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 41,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 40,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195100": 1,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 41,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 40,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 44,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 131,
-      "Иванова Татьяна Ивановна": 38,
-      "Клетенков Сергей Николаевич": 7,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 11,
-      "Собко Сергей Васильевич": 79,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000195100": 44,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 131,
+      "gas:candidate-vibid:250200071250": 38,
+      "gas:candidate-vibid:350300870425": 7,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 11,
+      "gas:candidate-vibid:1001000121868": 79,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 83,
-      "Борисов Александр Николаевич": 14,
-      "Брынцалов Владимир Алексеевич": 169,
-      "Иванова Татьяна Ивановна": 39,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 74,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000195100": 83,
+      "gas:candidate-vibid:350300870422": 14,
+      "gas:candidate-vibid:1001000225956": 169,
+      "gas:candidate-vibid:250200071250": 39,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 74,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 13,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 58,
-      "Иванова Татьяна Ивановна": 18,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195100": 13,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 58,
+      "gas:candidate-vibid:250200071250": 18,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 34,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 86,
-      "Иванова Татьяна Ивановна": 29,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 48,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000195100": 34,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 86,
+      "gas:candidate-vibid:250200071250": 29,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 48,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 18,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 55,
-      "Иванова Татьяна Ивановна": 13,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 188,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195100": 18,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 55,
+      "gas:candidate-vibid:250200071250": 13,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 188,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 50,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 110,
-      "Иванова Татьяна Ивановна": 38,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 7,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 216,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000195100": 50,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 110,
+      "gas:candidate-vibid:250200071250": 38,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 7,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 216,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 25,
-      "Борисов Александр Николаевич": 13,
-      "Брынцалов Владимир Алексеевич": 110,
-      "Иванова Татьяна Ивановна": 21,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 53,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000195100": 25,
+      "gas:candidate-vibid:350300870422": 13,
+      "gas:candidate-vibid:1001000225956": 110,
+      "gas:candidate-vibid:250200071250": 21,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 53,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 39,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 128,
-      "Иванова Татьяна Ивановна": 7,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 43,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195100": 39,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 128,
+      "gas:candidate-vibid:250200071250": 7,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 43,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 12,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 47,
-      "Иванова Татьяна Ивановна": 14,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 85,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195100": 12,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 47,
+      "gas:candidate-vibid:250200071250": 14,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 85,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870384&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 54,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 191,
-      "Иванова Татьяна Ивановна": 37,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 11,
-      "Пелевин Игорь Юрьевич": 9,
-      "Собко Сергей Васильевич": 322,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000195100": 54,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 191,
+      "gas:candidate-vibid:250200071250": 37,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 11,
+      "gas:candidate-vibid:1001000113950": 9,
+      "gas:candidate-vibid:1001000121868": 322,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 41,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 208,
-      "Иванова Татьяна Ивановна": 33,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 18,
-      "Собко Сергей Васильевич": 318,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000195100": 41,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 208,
+      "gas:candidate-vibid:250200071250": 33,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 18,
+      "gas:candidate-vibid:1001000121868": 318,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 64,
-      "Борисов Александр Николаевич": 13,
-      "Брынцалов Владимир Алексеевич": 232,
-      "Иванова Татьяна Ивановна": 41,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 9,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 417,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000195100": 64,
+      "gas:candidate-vibid:350300870422": 13,
+      "gas:candidate-vibid:1001000225956": 232,
+      "gas:candidate-vibid:250200071250": 41,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 9,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 417,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 81,
-      "Борисов Александр Николаевич": 12,
-      "Брынцалов Владимир Алексеевич": 267,
-      "Иванова Татьяна Ивановна": 66,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 28,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 426,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000195100": 81,
+      "gas:candidate-vibid:350300870422": 12,
+      "gas:candidate-vibid:1001000225956": 267,
+      "gas:candidate-vibid:250200071250": 66,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 28,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 426,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 66,
-      "Борисов Александр Николаевич": 31,
-      "Брынцалов Владимир Алексеевич": 377,
-      "Иванова Татьяна Ивановна": 66,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 365,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000195100": 66,
+      "gas:candidate-vibid:350300870422": 31,
+      "gas:candidate-vibid:1001000225956": 377,
+      "gas:candidate-vibid:250200071250": 66,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 365,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 88,
-      "Борисов Александр Николаевич": 19,
-      "Брынцалов Владимир Алексеевич": 290,
-      "Иванова Татьяна Ивановна": 45,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 9,
-      "Пелевин Игорь Юрьевич": 17,
-      "Собко Сергей Васильевич": 444,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000195100": 88,
+      "gas:candidate-vibid:350300870422": 19,
+      "gas:candidate-vibid:1001000225956": 290,
+      "gas:candidate-vibid:250200071250": 45,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 9,
+      "gas:candidate-vibid:1001000113950": 17,
+      "gas:candidate-vibid:1001000121868": 444,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 94,
-      "Борисов Александр Николаевич": 21,
-      "Брынцалов Владимир Алексеевич": 282,
-      "Иванова Татьяна Ивановна": 63,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 16,
-      "Собко Сергей Васильевич": 430,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000195100": 94,
+      "gas:candidate-vibid:350300870422": 21,
+      "gas:candidate-vibid:1001000225956": 282,
+      "gas:candidate-vibid:250200071250": 63,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 16,
+      "gas:candidate-vibid:1001000121868": 430,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 102,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 257,
-      "Иванова Татьяна Ивановна": 53,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 17,
-      "Пелевин Игорь Юрьевич": 16,
-      "Собко Сергей Васильевич": 428,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000195100": 102,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 257,
+      "gas:candidate-vibid:250200071250": 53,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 17,
+      "gas:candidate-vibid:1001000113950": 16,
+      "gas:candidate-vibid:1001000121868": 428,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 90,
-      "Борисов Александр Николаевич": 23,
-      "Брынцалов Владимир Алексеевич": 388,
-      "Иванова Татьяна Ивановна": 53,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 18,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 341,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000195100": 90,
+      "gas:candidate-vibid:350300870422": 23,
+      "gas:candidate-vibid:1001000225956": 388,
+      "gas:candidate-vibid:250200071250": 53,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 18,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 341,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 101,
-      "Борисов Александр Николаевич": 20,
-      "Брынцалов Владимир Алексеевич": 216,
-      "Иванова Татьяна Ивановна": 42,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 295,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000195100": 101,
+      "gas:candidate-vibid:350300870422": 20,
+      "gas:candidate-vibid:1001000225956": 216,
+      "gas:candidate-vibid:250200071250": 42,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 295,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 62,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 194,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 19,
-      "Собко Сергей Васильевич": 212,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000195100": 62,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 194,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 19,
+      "gas:candidate-vibid:1001000121868": 212,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 67,
-      "Борисов Александр Николаевич": 15,
-      "Брынцалов Владимир Алексеевич": 188,
-      "Иванова Татьяна Ивановна": 38,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 10,
-      "Собко Сергей Васильевич": 213,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000195100": 67,
+      "gas:candidate-vibid:350300870422": 15,
+      "gas:candidate-vibid:1001000225956": 188,
+      "gas:candidate-vibid:250200071250": 38,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 10,
+      "gas:candidate-vibid:1001000121868": 213,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 28,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 141,
-      "Иванова Татьяна Ивановна": 20,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 86,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000195100": 28,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 141,
+      "gas:candidate-vibid:250200071250": 20,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 86,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 20,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 152,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 60,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195100": 20,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 152,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 60,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 32,
-      "Борисов Александр Николаевич": 11,
-      "Брынцалов Владимир Алексеевич": 279,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 293,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000195100": 32,
+      "gas:candidate-vibid:350300870422": 11,
+      "gas:candidate-vibid:1001000225956": 279,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 293,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 40,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 229,
-      "Иванова Татьяна Ивановна": 29,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 20,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 317,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000195100": 40,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 229,
+      "gas:candidate-vibid:250200071250": 29,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 20,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 317,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 0,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 17,
-      "Иванова Татьяна Ивановна": 1,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 28,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195100": 0,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 17,
+      "gas:candidate-vibid:250200071250": 1,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 28,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 1,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 40,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 46,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195100": 1,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 40,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 46,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 13,
-      "Борисов Александр Николаевич": 12,
-      "Брынцалов Владимир Алексеевич": 247,
-      "Иванова Татьяна Ивановна": 33,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 161,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000195100": 13,
+      "gas:candidate-vibid:350300870422": 12,
+      "gas:candidate-vibid:1001000225956": 247,
+      "gas:candidate-vibid:250200071250": 33,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 161,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 21,
-      "Борисов Александр Николаевич": 12,
-      "Брынцалов Владимир Алексеевич": 294,
-      "Иванова Татьяна Ивановна": 39,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 200,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000195100": 21,
+      "gas:candidate-vibid:350300870422": 12,
+      "gas:candidate-vibid:1001000225956": 294,
+      "gas:candidate-vibid:250200071250": 39,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 200,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 39,
-      "Борисов Александр Николаевич": 13,
-      "Брынцалов Владимир Алексеевич": 182,
-      "Иванова Татьяна Ивановна": 50,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 396,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000195100": 39,
+      "gas:candidate-vibid:350300870422": 13,
+      "gas:candidate-vibid:1001000225956": 182,
+      "gas:candidate-vibid:250200071250": 50,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 396,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 34,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 267,
-      "Иванова Татьяна Ивановна": 25,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 11,
-      "Собко Сергей Васильевич": 312,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000195100": 34,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 267,
+      "gas:candidate-vibid:250200071250": 25,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 11,
+      "gas:candidate-vibid:1001000121868": 312,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 27,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 279,
-      "Иванова Татьяна Ивановна": 74,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 199,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000195100": 27,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 279,
+      "gas:candidate-vibid:250200071250": 74,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 199,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 11,
-      "Борисов Александр Николаевич": 9,
-      "Брынцалов Владимир Алексеевич": 74,
-      "Иванова Татьяна Ивановна": 19,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 74,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195100": 11,
+      "gas:candidate-vibid:350300870422": 9,
+      "gas:candidate-vibid:1001000225956": 74,
+      "gas:candidate-vibid:250200071250": 19,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 74,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 45,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 176,
-      "Иванова Татьяна Ивановна": 23,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 9,
-      "Собко Сергей Васильевич": 240,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000195100": 45,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 176,
+      "gas:candidate-vibid:250200071250": 23,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 9,
+      "gas:candidate-vibid:1001000121868": 240,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 20,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 88,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 184,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000195100": 20,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 88,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 184,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 12,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 103,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 195,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000195100": 12,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 103,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 195,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 6,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 117,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 8,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 68,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195100": 6,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 117,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 8,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 68,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 36,
-      "Борисов Александр Николаевич": 12,
-      "Брынцалов Владимир Алексеевич": 132,
-      "Иванова Татьяна Ивановна": 32,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 183,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000195100": 36,
+      "gas:candidate-vibid:350300870422": 12,
+      "gas:candidate-vibid:1001000225956": 132,
+      "gas:candidate-vibid:250200071250": 32,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 183,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 70,
-      "Иванова Татьяна Ивановна": 6,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 59,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 70,
+      "gas:candidate-vibid:250200071250": 6,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 59,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 8,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 53,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 58,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195100": 8,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 53,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 58,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 3,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 48,
-      "Иванова Татьяна Ивановна": 5,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 122,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195100": 3,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 48,
+      "gas:candidate-vibid:250200071250": 5,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 122,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 50,
-      "Борисов Александр Николаевич": 13,
-      "Брынцалов Владимир Алексеевич": 258,
-      "Иванова Татьяна Ивановна": 50,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 7,
-      "Собко Сергей Васильевич": 589,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195100": 50,
+      "gas:candidate-vibid:350300870422": 13,
+      "gas:candidate-vibid:1001000225956": 258,
+      "gas:candidate-vibid:250200071250": 50,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 7,
+      "gas:candidate-vibid:1001000121868": 589,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 3,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 23,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 73,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195100": 3,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 23,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 73,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 11,
-      "Борисов Александр Николаевич": 5,
-      "Брынцалов Владимир Алексеевич": 105,
-      "Иванова Татьяна Ивановна": 26,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 115,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195100": 11,
+      "gas:candidate-vibid:350300870422": 5,
+      "gas:candidate-vibid:1001000225956": 105,
+      "gas:candidate-vibid:250200071250": 26,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 115,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 31,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 426,
-      "Иванова Татьяна Ивановна": 50,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 16,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 423,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000195100": 31,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 426,
+      "gas:candidate-vibid:250200071250": 50,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 16,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 423,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 10,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 67,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 44,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195100": 10,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 67,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 44,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 7,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 47,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 91,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195100": 7,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 47,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 91,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 5,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 37,
-      "Иванова Татьяна Ивановна": 0,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 39,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195100": 5,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 37,
+      "gas:candidate-vibid:250200071250": 0,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 39,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 3,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 37,
-      "Иванова Татьяна Ивановна": 3,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 66,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195100": 3,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 37,
+      "gas:candidate-vibid:250200071250": 3,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 66,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 4,
-      "Борисов Александр Николаевич": 1,
-      "Брынцалов Владимир Алексеевич": 37,
-      "Иванова Татьяна Ивановна": 0,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 23,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195100": 4,
+      "gas:candidate-vibid:350300870422": 1,
+      "gas:candidate-vibid:1001000225956": 37,
+      "gas:candidate-vibid:250200071250": 0,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 23,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 16,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 81,
-      "Иванова Татьяна Ивановна": 15,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 3,
-      "Пелевин Игорь Юрьевич": 2,
-      "Собко Сергей Васильевич": 42,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000195100": 16,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 81,
+      "gas:candidate-vibid:250200071250": 15,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 3,
+      "gas:candidate-vibid:1001000113950": 2,
+      "gas:candidate-vibid:1001000121868": 42,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 28,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 193,
-      "Иванова Татьяна Ивановна": 20,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 4,
-      "Пелевин Игорь Юрьевич": 5,
-      "Собко Сергей Васильевич": 282,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000195100": 28,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 193,
+      "gas:candidate-vibid:250200071250": 20,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 4,
+      "gas:candidate-vibid:1001000113950": 5,
+      "gas:candidate-vibid:1001000121868": 282,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 21,
-      "Борисов Александр Николаевич": 6,
-      "Брынцалов Владимир Алексеевич": 109,
-      "Иванова Татьяна Ивановна": 11,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 70,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195100": 21,
+      "gas:candidate-vibid:350300870422": 6,
+      "gas:candidate-vibid:1001000225956": 109,
+      "gas:candidate-vibid:250200071250": 11,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 70,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 10,
-      "Борисов Александр Николаевич": 10,
-      "Брынцалов Владимир Алексеевич": 100,
-      "Иванова Татьяна Ивановна": 14,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 4,
-      "Собко Сергей Васильевич": 163,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000195100": 10,
+      "gas:candidate-vibid:350300870422": 10,
+      "gas:candidate-vibid:1001000225956": 100,
+      "gas:candidate-vibid:250200071250": 14,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 4,
+      "gas:candidate-vibid:1001000121868": 163,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 13,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 74,
-      "Иванова Татьяна Ивановна": 9,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 6,
-      "Собко Сергей Васильевич": 122,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000195100": 13,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 74,
+      "gas:candidate-vibid:250200071250": 9,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 6,
+      "gas:candidate-vibid:1001000121868": 122,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 17,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 180,
-      "Иванова Татьяна Ивановна": 20,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 3,
-      "Собко Сергей Васильевич": 231,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000195100": 17,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 180,
+      "gas:candidate-vibid:250200071250": 20,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 3,
+      "gas:candidate-vibid:1001000121868": 231,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 2,
-      "Борисов Александр Николаевич": 0,
-      "Брынцалов Владимир Алексеевич": 13,
-      "Иванова Татьяна Ивановна": 8,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 67,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195100": 2,
+      "gas:candidate-vibid:350300870422": 0,
+      "gas:candidate-vibid:1001000225956": 13,
+      "gas:candidate-vibid:250200071250": 8,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 67,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 2,
-      "Борисов Александр Николаевич": 2,
-      "Брынцалов Владимир Алексеевич": 33,
-      "Иванова Татьяна Ивановна": 4,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 2,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 44,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195100": 2,
+      "gas:candidate-vibid:350300870422": 2,
+      "gas:candidate-vibid:1001000225956": 33,
+      "gas:candidate-vibid:250200071250": 4,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 2,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 44,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 9,
-      "Борисов Александр Николаевич": 3,
-      "Брынцалов Владимир Алексеевич": 78,
-      "Иванова Татьяна Ивановна": 7,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 1,
-      "Пелевин Игорь Юрьевич": 0,
-      "Собко Сергей Васильевич": 107,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195100": 9,
+      "gas:candidate-vibid:350300870422": 3,
+      "gas:candidate-vibid:1001000225956": 78,
+      "gas:candidate-vibid:250200071250": 7,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 1,
+      "gas:candidate-vibid:1001000113950": 0,
+      "gas:candidate-vibid:1001000121868": 107,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 15,
-      "Борисов Александр Николаевич": 7,
-      "Брынцалов Владимир Алексеевич": 122,
-      "Иванова Татьяна Ивановна": 13,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 0,
-      "Пелевин Игорь Юрьевич": 1,
-      "Собко Сергей Васильевич": 47,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195100": 15,
+      "gas:candidate-vibid:350300870422": 7,
+      "gas:candidate-vibid:1001000225956": 122,
+      "gas:candidate-vibid:250200071250": 13,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 0,
+      "gas:candidate-vibid:1001000113950": 1,
+      "gas:candidate-vibid:1001000121868": 47,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870385&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 60,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 158,
-      "Иванова Татьяна Ивановна": 82,
-      "Клетенков Сергей Николаевич": 5,
-      "Осьмаков Сергей Васильевич": 5,
-      "Пелевин Игорь Юрьевич": 14,
-      "Собко Сергей Васильевич": 177,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000195100": 60,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 158,
+      "gas:candidate-vibid:250200071250": 82,
+      "gas:candidate-vibid:350300870425": 5,
+      "gas:candidate-vibid:1001000190375": 5,
+      "gas:candidate-vibid:1001000113950": 14,
+      "gas:candidate-vibid:1001000121868": 177,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 69,
-      "Борисов Александр Николаевич": 23,
-      "Брынцалов Владимир Алексеевич": 248,
-      "Иванова Татьяна Ивановна": 176,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 16,
-      "Пелевин Игорь Юрьевич": 31,
-      "Собко Сергей Васильевич": 361,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000195100": 69,
+      "gas:candidate-vibid:350300870422": 23,
+      "gas:candidate-vibid:1001000225956": 248,
+      "gas:candidate-vibid:250200071250": 176,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 16,
+      "gas:candidate-vibid:1001000113950": 31,
+      "gas:candidate-vibid:1001000121868": 361,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 58,
-      "Борисов Александр Николаевич": 39,
-      "Брынцалов Владимир Алексеевич": 196,
-      "Иванова Татьяна Ивановна": 114,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 9,
-      "Пелевин Игорь Юрьевич": 12,
-      "Собко Сергей Васильевич": 311,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000195100": 58,
+      "gas:candidate-vibid:350300870422": 39,
+      "gas:candidate-vibid:1001000225956": 196,
+      "gas:candidate-vibid:250200071250": 114,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 9,
+      "gas:candidate-vibid:1001000113950": 12,
+      "gas:candidate-vibid:1001000121868": 311,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 14,
-      "Борисов Александр Николаевич": 8,
-      "Брынцалов Владимир Алексеевич": 88,
-      "Иванова Татьяна Ивановна": 37,
-      "Клетенков Сергей Николаевич": 0,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 5,
-      "Собко Сергей Васильевич": 67,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000195100": 14,
+      "gas:candidate-vibid:350300870422": 8,
+      "gas:candidate-vibid:1001000225956": 88,
+      "gas:candidate-vibid:250200071250": 37,
+      "gas:candidate-vibid:350300870425": 0,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 5,
+      "gas:candidate-vibid:1001000121868": 67,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 32,
-      "Борисов Александр Николаевич": 17,
-      "Брынцалов Владимир Алексеевич": 159,
-      "Иванова Татьяна Ивановна": 52,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 13,
-      "Собко Сергей Васильевич": 113,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195100": 32,
+      "gas:candidate-vibid:350300870422": 17,
+      "gas:candidate-vibid:1001000225956": 159,
+      "gas:candidate-vibid:250200071250": 52,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 13,
+      "gas:candidate-vibid:1001000121868": 113,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 27,
-      "Борисов Александр Николаевич": 12,
-      "Брынцалов Владимир Алексеевич": 145,
-      "Иванова Татьяна Ивановна": 54,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 6,
-      "Пелевин Игорь Юрьевич": 20,
-      "Собко Сергей Васильевич": 135,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000195100": 27,
+      "gas:candidate-vibid:350300870422": 12,
+      "gas:candidate-vibid:1001000225956": 145,
+      "gas:candidate-vibid:250200071250": 54,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 6,
+      "gas:candidate-vibid:1001000113950": 20,
+      "gas:candidate-vibid:1001000121868": 135,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 74,
-      "Борисов Александр Николаевич": 22,
-      "Брынцалов Владимир Алексеевич": 212,
-      "Иванова Татьяна Ивановна": 99,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 18,
-      "Пелевин Игорь Юрьевич": 31,
-      "Собко Сергей Васильевич": 211,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000195100": 74,
+      "gas:candidate-vibid:350300870422": 22,
+      "gas:candidate-vibid:1001000225956": 212,
+      "gas:candidate-vibid:250200071250": 99,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 18,
+      "gas:candidate-vibid:1001000113950": 31,
+      "gas:candidate-vibid:1001000121868": 211,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 43,
-      "Борисов Александр Николаевич": 25,
-      "Брынцалов Владимир Алексеевич": 133,
-      "Иванова Татьяна Ивановна": 60,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 14,
-      "Пелевин Игорь Юрьевич": 32,
-      "Собко Сергей Васильевич": 183,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000195100": 43,
+      "gas:candidate-vibid:350300870422": 25,
+      "gas:candidate-vibid:1001000225956": 133,
+      "gas:candidate-vibid:250200071250": 60,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 14,
+      "gas:candidate-vibid:1001000113950": 32,
+      "gas:candidate-vibid:1001000121868": 183,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 74,
-      "Борисов Александр Николаевич": 32,
-      "Брынцалов Владимир Алексеевич": 224,
-      "Иванова Татьяна Ивановна": 121,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 41,
-      "Пелевин Игорь Юрьевич": 56,
-      "Собко Сергей Васильевич": 390,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000195100": 74,
+      "gas:candidate-vibid:350300870422": 32,
+      "gas:candidate-vibid:1001000225956": 224,
+      "gas:candidate-vibid:250200071250": 121,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 41,
+      "gas:candidate-vibid:1001000113950": 56,
+      "gas:candidate-vibid:1001000121868": 390,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 53,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 131,
-      "Иванова Татьяна Ивановна": 66,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 43,
-      "Пелевин Игорь Юрьевич": 32,
-      "Собко Сергей Васильевич": 300,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000195100": 53,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 131,
+      "gas:candidate-vibid:250200071250": 66,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 43,
+      "gas:candidate-vibid:1001000113950": 32,
+      "gas:candidate-vibid:1001000121868": 300,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 54,
-      "Борисов Александр Николаевич": 18,
-      "Брынцалов Владимир Алексеевич": 176,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 38,
-      "Пелевин Игорь Юрьевич": 28,
-      "Собко Сергей Васильевич": 322,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000195100": 54,
+      "gas:candidate-vibid:350300870422": 18,
+      "gas:candidate-vibid:1001000225956": 176,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 38,
+      "gas:candidate-vibid:1001000113950": 28,
+      "gas:candidate-vibid:1001000121868": 322,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 33,
-      "Борисов Александр Николаевич": 16,
-      "Брынцалов Владимир Алексеевич": 120,
-      "Иванова Татьяна Ивановна": 45,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 39,
-      "Пелевин Игорь Юрьевич": 20,
-      "Собко Сергей Васильевич": 174,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000195100": 33,
+      "gas:candidate-vibid:350300870422": 16,
+      "gas:candidate-vibid:1001000225956": 120,
+      "gas:candidate-vibid:250200071250": 45,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 39,
+      "gas:candidate-vibid:1001000113950": 20,
+      "gas:candidate-vibid:1001000121868": 174,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 45,
-      "Борисов Александр Николаевич": 20,
-      "Брынцалов Владимир Алексеевич": 110,
-      "Иванова Татьяна Ивановна": 44,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 20,
-      "Пелевин Игорь Юрьевич": 8,
-      "Собко Сергей Васильевич": 144,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000195100": 45,
+      "gas:candidate-vibid:350300870422": 20,
+      "gas:candidate-vibid:1001000225956": 110,
+      "gas:candidate-vibid:250200071250": 44,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 20,
+      "gas:candidate-vibid:1001000113950": 8,
+      "gas:candidate-vibid:1001000121868": 144,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 32,
-      "Борисов Александр Николаевич": 21,
-      "Брынцалов Владимир Алексеевич": 162,
-      "Иванова Татьяна Ивановна": 56,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 26,
-      "Собко Сергей Васильевич": 267,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000195100": 32,
+      "gas:candidate-vibid:350300870422": 21,
+      "gas:candidate-vibid:1001000225956": 162,
+      "gas:candidate-vibid:250200071250": 56,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 26,
+      "gas:candidate-vibid:1001000121868": 267,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 31,
-      "Борисов Александр Николаевич": 13,
-      "Брынцалов Владимир Алексеевич": 103,
-      "Иванова Татьяна Ивановна": 59,
-      "Клетенков Сергей Николаевич": 2,
-      "Осьмаков Сергей Васильевич": 12,
-      "Пелевин Игорь Юрьевич": 28,
-      "Собко Сергей Васильевич": 246,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000195100": 31,
+      "gas:candidate-vibid:350300870422": 13,
+      "gas:candidate-vibid:1001000225956": 103,
+      "gas:candidate-vibid:250200071250": 59,
+      "gas:candidate-vibid:350300870425": 2,
+      "gas:candidate-vibid:1001000190375": 12,
+      "gas:candidate-vibid:1001000113950": 28,
+      "gas:candidate-vibid:1001000121868": 246,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 72,
-      "Борисов Александр Николаевич": 26,
-      "Брынцалов Владимир Алексеевич": 209,
-      "Иванова Татьяна Ивановна": 69,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 35,
-      "Пелевин Игорь Юрьевич": 20,
-      "Собко Сергей Васильевич": 222,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000195100": 72,
+      "gas:candidate-vibid:350300870422": 26,
+      "gas:candidate-vibid:1001000225956": 209,
+      "gas:candidate-vibid:250200071250": 69,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 35,
+      "gas:candidate-vibid:1001000113950": 20,
+      "gas:candidate-vibid:1001000121868": 222,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 51,
-      "Борисов Александр Николаевич": 23,
-      "Брынцалов Владимир Алексеевич": 83,
-      "Иванова Татьяна Ивановна": 69,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 17,
-      "Пелевин Игорь Юрьевич": 15,
-      "Собко Сергей Васильевич": 232,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000195100": 51,
+      "gas:candidate-vibid:350300870422": 23,
+      "gas:candidate-vibid:1001000225956": 83,
+      "gas:candidate-vibid:250200071250": 69,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 17,
+      "gas:candidate-vibid:1001000113950": 15,
+      "gas:candidate-vibid:1001000121868": 232,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 72,
-      "Борисов Александр Николаевич": 28,
-      "Брынцалов Владимир Алексеевич": 204,
-      "Иванова Татьяна Ивановна": 124,
-      "Клетенков Сергей Николаевич": 4,
-      "Осьмаков Сергей Васильевич": 26,
-      "Пелевин Игорь Юрьевич": 24,
-      "Собко Сергей Васильевич": 361,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000195100": 72,
+      "gas:candidate-vibid:350300870422": 28,
+      "gas:candidate-vibid:1001000225956": 204,
+      "gas:candidate-vibid:250200071250": 124,
+      "gas:candidate-vibid:350300870425": 4,
+      "gas:candidate-vibid:1001000190375": 26,
+      "gas:candidate-vibid:1001000113950": 24,
+      "gas:candidate-vibid:1001000121868": 361,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 40,
-      "Борисов Александр Николаевич": 24,
-      "Брынцалов Владимир Алексеевич": 152,
-      "Иванова Татьяна Ивановна": 116,
-      "Клетенков Сергей Николаевич": 3,
-      "Осьмаков Сергей Васильевич": 13,
-      "Пелевин Игорь Юрьевич": 20,
-      "Собко Сергей Васильевич": 324,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000195100": 40,
+      "gas:candidate-vibid:350300870422": 24,
+      "gas:candidate-vibid:1001000225956": 152,
+      "gas:candidate-vibid:250200071250": 116,
+      "gas:candidate-vibid:350300870425": 3,
+      "gas:candidate-vibid:1001000190375": 13,
+      "gas:candidate-vibid:1001000113950": 20,
+      "gas:candidate-vibid:1001000121868": 324,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_50_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бодрова Татьяна Ивановна": 61,
-      "Борисов Александр Николаевич": 26,
-      "Брынцалов Владимир Алексеевич": 149,
-      "Иванова Татьяна Ивановна": 57,
-      "Клетенков Сергей Николаевич": 1,
-      "Осьмаков Сергей Васильевич": 10,
-      "Пелевин Игорь Юрьевич": 18,
-      "Собко Сергей Васильевич": 210,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000195100": 61,
+      "gas:candidate-vibid:350300870422": 26,
+      "gas:candidate-vibid:1001000225956": 149,
+      "gas:candidate-vibid:250200071250": 57,
+      "gas:candidate-vibid:350300870425": 1,
+      "gas:candidate-vibid:1001000190375": 10,
+      "gas:candidate-vibid:1001000113950": 18,
+      "gas:candidate-vibid:1001000121868": 210,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503008007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300870386&region=0&sub_region=0&type=429",

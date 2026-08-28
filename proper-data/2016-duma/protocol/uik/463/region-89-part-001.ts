@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 56,
-      "Карпиков Максим Георгиевич": 84,
-      "Колесников Алексей Юрьевич": 70,
-      "Ледков Григорий Петрович": 883,
-      "Носкин Сергей Анатольевич": 70,
-      "Попов Сергей Владимирович": 111,
-      "Садовников Денис Владимирович": 84,
-      "Ушаков Михаил Александрович": 54
+      "gas:candidate-vibid:2892000452930": 56,
+      "gas:candidate-vibid:2892000451172": 84,
+      "gas:candidate-vibid:2892000452753": 70,
+      "gas:candidate-vibid:2892000452470": 883,
+      "gas:candidate-vibid:2892000452531": 70,
+      "gas:candidate-vibid:2892000452264": 111,
+      "gas:candidate-vibid:2892000452049": 84,
+      "gas:candidate-vibid:2892000417561": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 45,
-      "Карпиков Максим Георгиевич": 65,
-      "Колесников Алексей Юрьевич": 58,
-      "Ледков Григорий Петрович": 763,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 183,
-      "Садовников Денис Владимирович": 209,
-      "Ушаков Михаил Александрович": 30
+      "gas:candidate-vibid:2892000452930": 45,
+      "gas:candidate-vibid:2892000451172": 65,
+      "gas:candidate-vibid:2892000452753": 58,
+      "gas:candidate-vibid:2892000452470": 763,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 183,
+      "gas:candidate-vibid:2892000452049": 209,
+      "gas:candidate-vibid:2892000417561": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 39,
-      "Карпиков Максим Георгиевич": 72,
-      "Колесников Алексей Юрьевич": 39,
-      "Ледков Григорий Петрович": 727,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 161,
-      "Садовников Денис Владимирович": 194,
-      "Ушаков Михаил Александрович": 31
+      "gas:candidate-vibid:2892000452930": 39,
+      "gas:candidate-vibid:2892000451172": 72,
+      "gas:candidate-vibid:2892000452753": 39,
+      "gas:candidate-vibid:2892000452470": 727,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 161,
+      "gas:candidate-vibid:2892000452049": 194,
+      "gas:candidate-vibid:2892000417561": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 17,
-      "Карпиков Максим Георгиевич": 47,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 761,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 151,
-      "Садовников Денис Владимирович": 242,
-      "Ушаков Михаил Александрович": 28
+      "gas:candidate-vibid:2892000452930": 17,
+      "gas:candidate-vibid:2892000451172": 47,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 761,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 151,
+      "gas:candidate-vibid:2892000452049": 242,
+      "gas:candidate-vibid:2892000417561": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 60,
-      "Колесников Алексей Юрьевич": 20,
-      "Ледков Григорий Петрович": 1143,
-      "Носкин Сергей Анатольевич": 10,
-      "Попов Сергей Владимирович": 103,
-      "Садовников Денис Владимирович": 200,
-      "Ушаков Михаил Александрович": 25
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 60,
+      "gas:candidate-vibid:2892000452753": 20,
+      "gas:candidate-vibid:2892000452470": 1143,
+      "gas:candidate-vibid:2892000452531": 10,
+      "gas:candidate-vibid:2892000452264": 103,
+      "gas:candidate-vibid:2892000452049": 200,
+      "gas:candidate-vibid:2892000417561": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 24,
-      "Карпиков Максим Георгиевич": 45,
-      "Колесников Алексей Юрьевич": 55,
-      "Ледков Григорий Петрович": 987,
-      "Носкин Сергей Анатольевич": 39,
-      "Попов Сергей Владимирович": 161,
-      "Садовников Денис Владимирович": 203,
-      "Ушаков Михаил Александрович": 7
+      "gas:candidate-vibid:2892000452930": 24,
+      "gas:candidate-vibid:2892000451172": 45,
+      "gas:candidate-vibid:2892000452753": 55,
+      "gas:candidate-vibid:2892000452470": 987,
+      "gas:candidate-vibid:2892000452531": 39,
+      "gas:candidate-vibid:2892000452264": 161,
+      "gas:candidate-vibid:2892000452049": 203,
+      "gas:candidate-vibid:2892000417561": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 87,
-      "Колесников Алексей Юрьевич": 31,
-      "Ледков Григорий Петрович": 917,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 86,
-      "Садовников Денис Владимирович": 219,
-      "Ушаков Михаил Александрович": 7
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 87,
+      "gas:candidate-vibid:2892000452753": 31,
+      "gas:candidate-vibid:2892000452470": 917,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 86,
+      "gas:candidate-vibid:2892000452049": 219,
+      "gas:candidate-vibid:2892000417561": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 54,
-      "Колесников Алексей Юрьевич": 35,
-      "Ледков Григорий Петрович": 853,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 148,
-      "Садовников Денис Владимирович": 212,
-      "Ушаков Михаил Александрович": 28
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 54,
+      "gas:candidate-vibid:2892000452753": 35,
+      "gas:candidate-vibid:2892000452470": 853,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 148,
+      "gas:candidate-vibid:2892000452049": 212,
+      "gas:candidate-vibid:2892000417561": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 52,
-      "Карпиков Максим Георгиевич": 70,
-      "Колесников Алексей Юрьевич": 66,
-      "Ледков Григорий Петрович": 912,
-      "Носкин Сергей Анатольевич": 64,
-      "Попов Сергей Владимирович": 110,
-      "Садовников Денис Владимирович": 77,
-      "Ушаков Михаил Александрович": 100
+      "gas:candidate-vibid:2892000452930": 52,
+      "gas:candidate-vibid:2892000451172": 70,
+      "gas:candidate-vibid:2892000452753": 66,
+      "gas:candidate-vibid:2892000452470": 912,
+      "gas:candidate-vibid:2892000452531": 64,
+      "gas:candidate-vibid:2892000452264": 110,
+      "gas:candidate-vibid:2892000452049": 77,
+      "gas:candidate-vibid:2892000417561": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 42,
-      "Карпиков Максим Георгиевич": 59,
-      "Колесников Алексей Юрьевич": 47,
-      "Ледков Григорий Петрович": 823,
-      "Носкин Сергей Анатольевич": 17,
-      "Попов Сергей Владимирович": 182,
-      "Садовников Денис Владимирович": 206,
-      "Ушаков Михаил Александрович": 45
+      "gas:candidate-vibid:2892000452930": 42,
+      "gas:candidate-vibid:2892000451172": 59,
+      "gas:candidate-vibid:2892000452753": 47,
+      "gas:candidate-vibid:2892000452470": 823,
+      "gas:candidate-vibid:2892000452531": 17,
+      "gas:candidate-vibid:2892000452264": 182,
+      "gas:candidate-vibid:2892000452049": 206,
+      "gas:candidate-vibid:2892000417561": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 30,
-      "Карпиков Максим Георгиевич": 44,
-      "Колесников Алексей Юрьевич": 23,
-      "Ледков Григорий Петрович": 946,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 174,
-      "Садовников Денис Владимирович": 255,
-      "Ушаков Михаил Александрович": 42
+      "gas:candidate-vibid:2892000452930": 30,
+      "gas:candidate-vibid:2892000451172": 44,
+      "gas:candidate-vibid:2892000452753": 23,
+      "gas:candidate-vibid:2892000452470": 946,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 174,
+      "gas:candidate-vibid:2892000452049": 255,
+      "gas:candidate-vibid:2892000417561": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 46,
-      "Колесников Алексей Юрьевич": 43,
-      "Ледков Григорий Петрович": 573,
-      "Носкин Сергей Анатольевич": 38,
-      "Попов Сергей Владимирович": 51,
-      "Садовников Денис Владимирович": 107,
-      "Ушаков Михаил Александрович": 9
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 46,
+      "gas:candidate-vibid:2892000452753": 43,
+      "gas:candidate-vibid:2892000452470": 573,
+      "gas:candidate-vibid:2892000452531": 38,
+      "gas:candidate-vibid:2892000452264": 51,
+      "gas:candidate-vibid:2892000452049": 107,
+      "gas:candidate-vibid:2892000417561": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 5,
-      "Карпиков Максим Георгиевич": 18,
-      "Колесников Алексей Юрьевич": 28,
-      "Ледков Григорий Петрович": 868,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 59,
-      "Садовников Денис Владимирович": 474,
-      "Ушаков Михаил Александрович": 30
+      "gas:candidate-vibid:2892000452930": 5,
+      "gas:candidate-vibid:2892000451172": 18,
+      "gas:candidate-vibid:2892000452753": 28,
+      "gas:candidate-vibid:2892000452470": 868,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 59,
+      "gas:candidate-vibid:2892000452049": 474,
+      "gas:candidate-vibid:2892000417561": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 24,
-      "Карпиков Максим Георгиевич": 43,
-      "Колесников Алексей Юрьевич": 69,
-      "Ледков Григорий Петрович": 1038,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 175,
-      "Садовников Денис Владимирович": 199,
-      "Ушаков Михаил Александрович": 51
+      "gas:candidate-vibid:2892000452930": 24,
+      "gas:candidate-vibid:2892000451172": 43,
+      "gas:candidate-vibid:2892000452753": 69,
+      "gas:candidate-vibid:2892000452470": 1038,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 175,
+      "gas:candidate-vibid:2892000452049": 199,
+      "gas:candidate-vibid:2892000417561": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 6,
-      "Карпиков Максим Георгиевич": 9,
-      "Колесников Алексей Юрьевич": 5,
-      "Ледков Григорий Петрович": 101,
-      "Носкин Сергей Анатольевич": 6,
-      "Попов Сергей Владимирович": 31,
-      "Садовников Денис Владимирович": 35,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 6,
+      "gas:candidate-vibid:2892000451172": 9,
+      "gas:candidate-vibid:2892000452753": 5,
+      "gas:candidate-vibid:2892000452470": 101,
+      "gas:candidate-vibid:2892000452531": 6,
+      "gas:candidate-vibid:2892000452264": 31,
+      "gas:candidate-vibid:2892000452049": 35,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 15,
-      "Карпиков Максим Георгиевич": 47,
-      "Колесников Алексей Юрьевич": 39,
-      "Ледков Григорий Петрович": 521,
-      "Носкин Сергей Анатольевич": 21,
-      "Попов Сергей Владимирович": 55,
-      "Садовников Денис Владимирович": 97,
-      "Ушаков Михаил Александрович": 31
+      "gas:candidate-vibid:2892000452930": 15,
+      "gas:candidate-vibid:2892000451172": 47,
+      "gas:candidate-vibid:2892000452753": 39,
+      "gas:candidate-vibid:2892000452470": 521,
+      "gas:candidate-vibid:2892000452531": 21,
+      "gas:candidate-vibid:2892000452264": 55,
+      "gas:candidate-vibid:2892000452049": 97,
+      "gas:candidate-vibid:2892000417561": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 28,
-      "Карпиков Максим Георгиевич": 47,
-      "Колесников Алексей Юрьевич": 52,
-      "Ледков Григорий Петрович": 544,
-      "Носкин Сергей Анатольевич": 22,
-      "Попов Сергей Владимирович": 40,
-      "Садовников Денис Владимирович": 80,
-      "Ушаков Михаил Александрович": 36
+      "gas:candidate-vibid:2892000452930": 28,
+      "gas:candidate-vibid:2892000451172": 47,
+      "gas:candidate-vibid:2892000452753": 52,
+      "gas:candidate-vibid:2892000452470": 544,
+      "gas:candidate-vibid:2892000452531": 22,
+      "gas:candidate-vibid:2892000452264": 40,
+      "gas:candidate-vibid:2892000452049": 80,
+      "gas:candidate-vibid:2892000417561": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 32,
-      "Карпиков Максим Георгиевич": 50,
-      "Колесников Алексей Юрьевич": 58,
-      "Ледков Григорий Петрович": 554,
-      "Носкин Сергей Анатольевич": 21,
-      "Попов Сергей Владимирович": 42,
-      "Садовников Денис Владимирович": 86,
-      "Ушаков Михаил Александрович": 36
+      "gas:candidate-vibid:2892000452930": 32,
+      "gas:candidate-vibid:2892000451172": 50,
+      "gas:candidate-vibid:2892000452753": 58,
+      "gas:candidate-vibid:2892000452470": 554,
+      "gas:candidate-vibid:2892000452531": 21,
+      "gas:candidate-vibid:2892000452264": 42,
+      "gas:candidate-vibid:2892000452049": 86,
+      "gas:candidate-vibid:2892000417561": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 5,
-      "Карпиков Максим Георгиевич": 20,
-      "Колесников Алексей Юрьевич": 20,
-      "Ледков Григорий Петрович": 374,
-      "Носкин Сергей Анатольевич": 5,
-      "Попов Сергей Владимирович": 28,
-      "Садовников Денис Владимирович": 65,
-      "Ушаков Михаил Александрович": 10
+      "gas:candidate-vibid:2892000452930": 5,
+      "gas:candidate-vibid:2892000451172": 20,
+      "gas:candidate-vibid:2892000452753": 20,
+      "gas:candidate-vibid:2892000452470": 374,
+      "gas:candidate-vibid:2892000452531": 5,
+      "gas:candidate-vibid:2892000452264": 28,
+      "gas:candidate-vibid:2892000452049": 65,
+      "gas:candidate-vibid:2892000417561": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 2,
-      "Карпиков Максим Георгиевич": 5,
-      "Колесников Алексей Юрьевич": 6,
-      "Ледков Григорий Петрович": 183,
-      "Носкин Сергей Анатольевич": 3,
-      "Попов Сергей Владимирович": 16,
-      "Садовников Денис Владимирович": 13,
-      "Ушаков Михаил Александрович": 2
+      "gas:candidate-vibid:2892000452930": 2,
+      "gas:candidate-vibid:2892000451172": 5,
+      "gas:candidate-vibid:2892000452753": 6,
+      "gas:candidate-vibid:2892000452470": 183,
+      "gas:candidate-vibid:2892000452531": 3,
+      "gas:candidate-vibid:2892000452264": 16,
+      "gas:candidate-vibid:2892000452049": 13,
+      "gas:candidate-vibid:2892000417561": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 3,
-      "Карпиков Максим Георгиевич": 2,
-      "Колесников Алексей Юрьевич": 4,
-      "Ледков Григорий Петрович": 468,
-      "Носкин Сергей Анатольевич": 3,
-      "Попов Сергей Владимирович": 4,
-      "Садовников Денис Владимирович": 3,
-      "Ушаков Михаил Александрович": 4
+      "gas:candidate-vibid:2892000452930": 3,
+      "gas:candidate-vibid:2892000451172": 2,
+      "gas:candidate-vibid:2892000452753": 4,
+      "gas:candidate-vibid:2892000452470": 468,
+      "gas:candidate-vibid:2892000452531": 3,
+      "gas:candidate-vibid:2892000452264": 4,
+      "gas:candidate-vibid:2892000452049": 3,
+      "gas:candidate-vibid:2892000417561": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 22,
-      "Карпиков Максим Георгиевич": 39,
-      "Колесников Алексей Юрьевич": 37,
-      "Ледков Григорий Петрович": 809,
-      "Носкин Сергей Анатольевич": 31,
-      "Попов Сергей Владимирович": 86,
-      "Садовников Денис Владимирович": 96,
-      "Ушаков Михаил Александрович": 19
+      "gas:candidate-vibid:2892000452930": 22,
+      "gas:candidate-vibid:2892000451172": 39,
+      "gas:candidate-vibid:2892000452753": 37,
+      "gas:candidate-vibid:2892000452470": 809,
+      "gas:candidate-vibid:2892000452531": 31,
+      "gas:candidate-vibid:2892000452264": 86,
+      "gas:candidate-vibid:2892000452049": 96,
+      "gas:candidate-vibid:2892000417561": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 16,
-      "Карпиков Максим Георгиевич": 18,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 350,
-      "Носкин Сергей Анатольевич": 7,
-      "Попов Сергей Владимирович": 19,
-      "Садовников Денис Владимирович": 52,
-      "Ушаков Михаил Александрович": 9
+      "gas:candidate-vibid:2892000452930": 16,
+      "gas:candidate-vibid:2892000451172": 18,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 350,
+      "gas:candidate-vibid:2892000452531": 7,
+      "gas:candidate-vibid:2892000452264": 19,
+      "gas:candidate-vibid:2892000452049": 52,
+      "gas:candidate-vibid:2892000417561": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 69,
-      "Карпиков Максим Георгиевич": 104,
-      "Колесников Алексей Юрьевич": 80,
-      "Ледков Григорий Петрович": 587,
-      "Носкин Сергей Анатольевич": 38,
-      "Попов Сергей Владимирович": 142,
-      "Садовников Денис Владимирович": 322,
-      "Ушаков Михаил Александрович": 69
+      "gas:candidate-vibid:2892000452930": 69,
+      "gas:candidate-vibid:2892000451172": 104,
+      "gas:candidate-vibid:2892000452753": 80,
+      "gas:candidate-vibid:2892000452470": 587,
+      "gas:candidate-vibid:2892000452531": 38,
+      "gas:candidate-vibid:2892000452264": 142,
+      "gas:candidate-vibid:2892000452049": 322,
+      "gas:candidate-vibid:2892000417561": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 73,
-      "Карпиков Максим Георгиевич": 81,
-      "Колесников Алексей Юрьевич": 79,
-      "Ледков Григорий Петрович": 509,
-      "Носкин Сергей Анатольевич": 43,
-      "Попов Сергей Владимирович": 95,
-      "Садовников Денис Владимирович": 278,
-      "Ушаков Михаил Александрович": 47
+      "gas:candidate-vibid:2892000452930": 73,
+      "gas:candidate-vibid:2892000451172": 81,
+      "gas:candidate-vibid:2892000452753": 79,
+      "gas:candidate-vibid:2892000452470": 509,
+      "gas:candidate-vibid:2892000452531": 43,
+      "gas:candidate-vibid:2892000452264": 95,
+      "gas:candidate-vibid:2892000452049": 278,
+      "gas:candidate-vibid:2892000417561": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 33,
-      "Карпиков Максим Георгиевич": 41,
-      "Колесников Алексей Юрьевич": 41,
-      "Ледков Григорий Петрович": 310,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 54,
-      "Садовников Денис Владимирович": 184,
-      "Ушаков Михаил Александрович": 41
+      "gas:candidate-vibid:2892000452930": 33,
+      "gas:candidate-vibid:2892000451172": 41,
+      "gas:candidate-vibid:2892000452753": 41,
+      "gas:candidate-vibid:2892000452470": 310,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 54,
+      "gas:candidate-vibid:2892000452049": 184,
+      "gas:candidate-vibid:2892000417561": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 39,
-      "Карпиков Максим Георгиевич": 43,
-      "Колесников Алексей Юрьевич": 31,
-      "Ледков Григорий Петрович": 499,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 72,
-      "Садовников Денис Владимирович": 143,
-      "Ушаков Михаил Александрович": 26
+      "gas:candidate-vibid:2892000452930": 39,
+      "gas:candidate-vibid:2892000451172": 43,
+      "gas:candidate-vibid:2892000452753": 31,
+      "gas:candidate-vibid:2892000452470": 499,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 72,
+      "gas:candidate-vibid:2892000452049": 143,
+      "gas:candidate-vibid:2892000417561": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 75,
-      "Карпиков Максим Георгиевич": 60,
-      "Колесников Алексей Юрьевич": 38,
-      "Ледков Григорий Петрович": 1232,
-      "Носкин Сергей Анатольевич": 78,
-      "Попов Сергей Владимирович": 127,
-      "Садовников Денис Владимирович": 180,
-      "Ушаков Михаил Александрович": 35
+      "gas:candidate-vibid:2892000452930": 75,
+      "gas:candidate-vibid:2892000451172": 60,
+      "gas:candidate-vibid:2892000452753": 38,
+      "gas:candidate-vibid:2892000452470": 1232,
+      "gas:candidate-vibid:2892000452531": 78,
+      "gas:candidate-vibid:2892000452264": 127,
+      "gas:candidate-vibid:2892000452049": 180,
+      "gas:candidate-vibid:2892000417561": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 52,
-      "Карпиков Максим Георгиевич": 48,
-      "Колесников Алексей Юрьевич": 47,
-      "Ледков Григорий Петрович": 1150,
-      "Носкин Сергей Анатольевич": 84,
-      "Попов Сергей Владимирович": 134,
-      "Садовников Денис Владимирович": 187,
-      "Ушаков Михаил Александрович": 43
+      "gas:candidate-vibid:2892000452930": 52,
+      "gas:candidate-vibid:2892000451172": 48,
+      "gas:candidate-vibid:2892000452753": 47,
+      "gas:candidate-vibid:2892000452470": 1150,
+      "gas:candidate-vibid:2892000452531": 84,
+      "gas:candidate-vibid:2892000452264": 134,
+      "gas:candidate-vibid:2892000452049": 187,
+      "gas:candidate-vibid:2892000417561": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 32,
-      "Карпиков Максим Георгиевич": 25,
-      "Колесников Алексей Юрьевич": 31,
-      "Ледков Григорий Петрович": 1487,
-      "Носкин Сергей Анатольевич": 32,
-      "Попов Сергей Владимирович": 85,
-      "Садовников Денис Владимирович": 114,
-      "Ушаков Михаил Александрович": 14
+      "gas:candidate-vibid:2892000452930": 32,
+      "gas:candidate-vibid:2892000451172": 25,
+      "gas:candidate-vibid:2892000452753": 31,
+      "gas:candidate-vibid:2892000452470": 1487,
+      "gas:candidate-vibid:2892000452531": 32,
+      "gas:candidate-vibid:2892000452264": 85,
+      "gas:candidate-vibid:2892000452049": 114,
+      "gas:candidate-vibid:2892000417561": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414371&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414371&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 69,
-      "Колесников Алексей Юрьевич": 23,
-      "Ледков Григорий Петрович": 1665,
-      "Носкин Сергей Анатольевич": 133,
-      "Попов Сергей Владимирович": 66,
-      "Садовников Денис Владимирович": 284,
-      "Ушаков Михаил Александрович": 27
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 69,
+      "gas:candidate-vibid:2892000452753": 23,
+      "gas:candidate-vibid:2892000452470": 1665,
+      "gas:candidate-vibid:2892000452531": 133,
+      "gas:candidate-vibid:2892000452264": 66,
+      "gas:candidate-vibid:2892000452049": 284,
+      "gas:candidate-vibid:2892000417561": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414372&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414372&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 13,
-      "Карпиков Максим Георгиевич": 21,
-      "Колесников Алексей Юрьевич": 8,
-      "Ледков Григорий Петрович": 253,
-      "Носкин Сергей Анатольевич": 11,
-      "Попов Сергей Владимирович": 19,
-      "Садовников Денис Владимирович": 44,
-      "Ушаков Михаил Александрович": 38
+      "gas:candidate-vibid:2892000452930": 13,
+      "gas:candidate-vibid:2892000451172": 21,
+      "gas:candidate-vibid:2892000452753": 8,
+      "gas:candidate-vibid:2892000452470": 253,
+      "gas:candidate-vibid:2892000452531": 11,
+      "gas:candidate-vibid:2892000452264": 19,
+      "gas:candidate-vibid:2892000452049": 44,
+      "gas:candidate-vibid:2892000417561": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414372&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414372&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 6,
-      "Карпиков Максим Георгиевич": 16,
-      "Колесников Алексей Юрьевич": 32,
-      "Ледков Григорий Петрович": 1342,
-      "Носкин Сергей Анатольевич": 109,
-      "Попов Сергей Владимирович": 28,
-      "Садовников Денис Владимирович": 207,
-      "Ушаков Михаил Александрович": 99
+      "gas:candidate-vibid:2892000452930": 6,
+      "gas:candidate-vibid:2892000451172": 16,
+      "gas:candidate-vibid:2892000452753": 32,
+      "gas:candidate-vibid:2892000452470": 1342,
+      "gas:candidate-vibid:2892000452531": 109,
+      "gas:candidate-vibid:2892000452264": 28,
+      "gas:candidate-vibid:2892000452049": 207,
+      "gas:candidate-vibid:2892000417561": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414372&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414372&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 13,
-      "Карпиков Максим Георгиевич": 17,
-      "Колесников Алексей Юрьевич": 8,
-      "Ледков Григорий Петрович": 279,
-      "Носкин Сергей Анатольевич": 11,
-      "Попов Сергей Владимирович": 10,
-      "Садовников Денис Владимирович": 15,
-      "Ушаков Михаил Александрович": 40
+      "gas:candidate-vibid:2892000452930": 13,
+      "gas:candidate-vibid:2892000451172": 17,
+      "gas:candidate-vibid:2892000452753": 8,
+      "gas:candidate-vibid:2892000452470": 279,
+      "gas:candidate-vibid:2892000452531": 11,
+      "gas:candidate-vibid:2892000452264": 10,
+      "gas:candidate-vibid:2892000452049": 15,
+      "gas:candidate-vibid:2892000417561": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414372&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414372&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 73,
-      "Карпиков Максим Георгиевич": 18,
-      "Колесников Алексей Юрьевич": 22,
-      "Ледков Григорий Петрович": 716,
-      "Носкин Сергей Анатольевич": 13,
-      "Попов Сергей Владимирович": 21,
-      "Садовников Денис Владимирович": 112,
-      "Ушаков Михаил Александрович": 17
+      "gas:candidate-vibid:2892000452930": 73,
+      "gas:candidate-vibid:2892000451172": 18,
+      "gas:candidate-vibid:2892000452753": 22,
+      "gas:candidate-vibid:2892000452470": 716,
+      "gas:candidate-vibid:2892000452531": 13,
+      "gas:candidate-vibid:2892000452264": 21,
+      "gas:candidate-vibid:2892000452049": 112,
+      "gas:candidate-vibid:2892000417561": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414372&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414372&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 29,
-      "Карпиков Максим Георгиевич": 33,
-      "Колесников Алексей Юрьевич": 35,
-      "Ледков Григорий Петрович": 765,
-      "Носкин Сергей Анатольевич": 45,
-      "Попов Сергей Владимирович": 52,
-      "Садовников Денис Владимирович": 63,
-      "Ушаков Михаил Александрович": 56
+      "gas:candidate-vibid:2892000452930": 29,
+      "gas:candidate-vibid:2892000451172": 33,
+      "gas:candidate-vibid:2892000452753": 35,
+      "gas:candidate-vibid:2892000452470": 765,
+      "gas:candidate-vibid:2892000452531": 45,
+      "gas:candidate-vibid:2892000452264": 52,
+      "gas:candidate-vibid:2892000452049": 63,
+      "gas:candidate-vibid:2892000417561": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414372&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414372&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 12,
-      "Карпиков Максим Георгиевич": 57,
-      "Колесников Алексей Юрьевич": 18,
-      "Ледков Григорий Петрович": 251,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 23,
-      "Садовников Денис Владимирович": 81,
-      "Ушаков Михаил Александрович": 32
+      "gas:candidate-vibid:2892000452930": 12,
+      "gas:candidate-vibid:2892000451172": 57,
+      "gas:candidate-vibid:2892000452753": 18,
+      "gas:candidate-vibid:2892000452470": 251,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 23,
+      "gas:candidate-vibid:2892000452049": 81,
+      "gas:candidate-vibid:2892000417561": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 6,
-      "Карпиков Максим Георгиевич": 41,
-      "Колесников Алексей Юрьевич": 36,
-      "Ледков Григорий Петрович": 254,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 34,
-      "Садовников Денис Владимирович": 135,
-      "Ушаков Михаил Александрович": 34
+      "gas:candidate-vibid:2892000452930": 6,
+      "gas:candidate-vibid:2892000451172": 41,
+      "gas:candidate-vibid:2892000452753": 36,
+      "gas:candidate-vibid:2892000452470": 254,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 34,
+      "gas:candidate-vibid:2892000452049": 135,
+      "gas:candidate-vibid:2892000417561": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 58,
-      "Колесников Алексей Юрьевич": 18,
-      "Ледков Григорий Петрович": 330,
-      "Носкин Сергей Анатольевич": 19,
-      "Попов Сергей Владимирович": 20,
-      "Садовников Денис Владимирович": 103,
-      "Ушаков Михаил Александрович": 51
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 58,
+      "gas:candidate-vibid:2892000452753": 18,
+      "gas:candidate-vibid:2892000452470": 330,
+      "gas:candidate-vibid:2892000452531": 19,
+      "gas:candidate-vibid:2892000452264": 20,
+      "gas:candidate-vibid:2892000452049": 103,
+      "gas:candidate-vibid:2892000417561": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 23,
-      "Карпиков Максим Георгиевич": 88,
-      "Колесников Алексей Юрьевич": 40,
-      "Ледков Григорий Петрович": 417,
-      "Носкин Сергей Анатольевич": 30,
-      "Попов Сергей Владимирович": 55,
-      "Садовников Денис Владимирович": 144,
-      "Ушаков Михаил Александрович": 46
+      "gas:candidate-vibid:2892000452930": 23,
+      "gas:candidate-vibid:2892000451172": 88,
+      "gas:candidate-vibid:2892000452753": 40,
+      "gas:candidate-vibid:2892000452470": 417,
+      "gas:candidate-vibid:2892000452531": 30,
+      "gas:candidate-vibid:2892000452264": 55,
+      "gas:candidate-vibid:2892000452049": 144,
+      "gas:candidate-vibid:2892000417561": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 6,
-      "Карпиков Максим Георгиевич": 65,
-      "Колесников Алексей Юрьевич": 24,
-      "Ледков Григорий Петрович": 343,
-      "Носкин Сергей Анатольевич": 6,
-      "Попов Сергей Владимирович": 38,
-      "Садовников Денис Владимирович": 90,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 6,
+      "gas:candidate-vibid:2892000451172": 65,
+      "gas:candidate-vibid:2892000452753": 24,
+      "gas:candidate-vibid:2892000452470": 343,
+      "gas:candidate-vibid:2892000452531": 6,
+      "gas:candidate-vibid:2892000452264": 38,
+      "gas:candidate-vibid:2892000452049": 90,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 41,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 460,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 24,
-      "Садовников Денис Владимирович": 92,
-      "Ушаков Михаил Александрович": 40
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 41,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 460,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 24,
+      "gas:candidate-vibid:2892000452049": 92,
+      "gas:candidate-vibid:2892000417561": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 15,
-      "Карпиков Максим Георгиевич": 51,
-      "Колесников Алексей Юрьевич": 31,
-      "Ледков Григорий Петрович": 381,
-      "Носкин Сергей Анатольевич": 29,
-      "Попов Сергей Владимирович": 31,
-      "Садовников Денис Владимирович": 85,
-      "Ушаков Михаил Александрович": 49
+      "gas:candidate-vibid:2892000452930": 15,
+      "gas:candidate-vibid:2892000451172": 51,
+      "gas:candidate-vibid:2892000452753": 31,
+      "gas:candidate-vibid:2892000452470": 381,
+      "gas:candidate-vibid:2892000452531": 29,
+      "gas:candidate-vibid:2892000452264": 31,
+      "gas:candidate-vibid:2892000452049": 85,
+      "gas:candidate-vibid:2892000417561": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 42,
-      "Колесников Алексей Юрьевич": 9,
-      "Ледков Григорий Петрович": 279,
-      "Носкин Сергей Анатольевич": 38,
-      "Попов Сергей Владимирович": 48,
-      "Садовников Денис Владимирович": 105,
-      "Ушаков Михаил Александрович": 39
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 42,
+      "gas:candidate-vibid:2892000452753": 9,
+      "gas:candidate-vibid:2892000452470": 279,
+      "gas:candidate-vibid:2892000452531": 38,
+      "gas:candidate-vibid:2892000452264": 48,
+      "gas:candidate-vibid:2892000452049": 105,
+      "gas:candidate-vibid:2892000417561": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 20,
-      "Карпиков Максим Георгиевич": 55,
-      "Колесников Алексей Юрьевич": 36,
-      "Ледков Григорий Петрович": 349,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 43,
-      "Садовников Денис Владимирович": 123,
-      "Ушаков Михаил Александрович": 52
+      "gas:candidate-vibid:2892000452930": 20,
+      "gas:candidate-vibid:2892000451172": 55,
+      "gas:candidate-vibid:2892000452753": 36,
+      "gas:candidate-vibid:2892000452470": 349,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 43,
+      "gas:candidate-vibid:2892000452049": 123,
+      "gas:candidate-vibid:2892000417561": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 50,
-      "Колесников Алексей Юрьевич": 30,
-      "Ледков Григорий Петрович": 277,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 42,
-      "Садовников Денис Владимирович": 115,
-      "Ушаков Михаил Александрович": 34
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 50,
+      "gas:candidate-vibid:2892000452753": 30,
+      "gas:candidate-vibid:2892000452470": 277,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 42,
+      "gas:candidate-vibid:2892000452049": 115,
+      "gas:candidate-vibid:2892000417561": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 4,
-      "Карпиков Максим Георгиевич": 17,
-      "Колесников Алексей Юрьевич": 5,
-      "Ледков Григорий Петрович": 582,
-      "Носкин Сергей Анатольевич": 24,
-      "Попов Сергей Владимирович": 15,
-      "Садовников Денис Владимирович": 32,
-      "Ушаков Михаил Александрович": 24
+      "gas:candidate-vibid:2892000452930": 4,
+      "gas:candidate-vibid:2892000451172": 17,
+      "gas:candidate-vibid:2892000452753": 5,
+      "gas:candidate-vibid:2892000452470": 582,
+      "gas:candidate-vibid:2892000452531": 24,
+      "gas:candidate-vibid:2892000452264": 15,
+      "gas:candidate-vibid:2892000452049": 32,
+      "gas:candidate-vibid:2892000417561": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 2,
-      "Карпиков Максим Георгиевич": 15,
-      "Колесников Алексей Юрьевич": 1,
-      "Ледков Григорий Петрович": 287,
-      "Носкин Сергей Анатольевич": 1,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 15,
-      "Ушаков Михаил Александрович": 0
+      "gas:candidate-vibid:2892000452930": 2,
+      "gas:candidate-vibid:2892000451172": 15,
+      "gas:candidate-vibid:2892000452753": 1,
+      "gas:candidate-vibid:2892000452470": 287,
+      "gas:candidate-vibid:2892000452531": 1,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 15,
+      "gas:candidate-vibid:2892000417561": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 4,
-      "Карпиков Максим Георгиевич": 64,
-      "Колесников Алексей Юрьевич": 22,
-      "Ледков Григорий Петрович": 534,
-      "Носкин Сергей Анатольевич": 18,
-      "Попов Сергей Владимирович": 26,
-      "Садовников Денис Владимирович": 38,
-      "Ушаков Михаил Александрович": 23
+      "gas:candidate-vibid:2892000452930": 4,
+      "gas:candidate-vibid:2892000451172": 64,
+      "gas:candidate-vibid:2892000452753": 22,
+      "gas:candidate-vibid:2892000452470": 534,
+      "gas:candidate-vibid:2892000452531": 18,
+      "gas:candidate-vibid:2892000452264": 26,
+      "gas:candidate-vibid:2892000452049": 38,
+      "gas:candidate-vibid:2892000417561": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 72,
-      "Колесников Алексей Юрьевич": 33,
-      "Ледков Григорий Петрович": 319,
-      "Носкин Сергей Анатольевич": 19,
-      "Попов Сергей Владимирович": 41,
-      "Садовников Денис Владимирович": 122,
-      "Ушаков Михаил Александрович": 47
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 72,
+      "gas:candidate-vibid:2892000452753": 33,
+      "gas:candidate-vibid:2892000452470": 319,
+      "gas:candidate-vibid:2892000452531": 19,
+      "gas:candidate-vibid:2892000452264": 41,
+      "gas:candidate-vibid:2892000452049": 122,
+      "gas:candidate-vibid:2892000417561": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 43,
-      "Колесников Алексей Юрьевич": 16,
-      "Ледков Григорий Петрович": 239,
-      "Носкин Сергей Анатольевич": 17,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 46,
-      "Ушаков Михаил Александрович": 32
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 43,
+      "gas:candidate-vibid:2892000452753": 16,
+      "gas:candidate-vibid:2892000452470": 239,
+      "gas:candidate-vibid:2892000452531": 17,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 46,
+      "gas:candidate-vibid:2892000417561": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 20,
-      "Карпиков Максим Георгиевич": 65,
-      "Колесников Алексей Юрьевич": 24,
-      "Ледков Григорий Петрович": 325,
-      "Носкин Сергей Анатольевич": 21,
-      "Попов Сергей Владимирович": 27,
-      "Садовников Денис Владимирович": 62,
-      "Ушаков Михаил Александрович": 23
+      "gas:candidate-vibid:2892000452930": 20,
+      "gas:candidate-vibid:2892000451172": 65,
+      "gas:candidate-vibid:2892000452753": 24,
+      "gas:candidate-vibid:2892000452470": 325,
+      "gas:candidate-vibid:2892000452531": 21,
+      "gas:candidate-vibid:2892000452264": 27,
+      "gas:candidate-vibid:2892000452049": 62,
+      "gas:candidate-vibid:2892000417561": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414373&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414373&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 4,
-      "Карпиков Максим Георгиевич": 6,
-      "Колесников Алексей Юрьевич": 6,
-      "Ледков Григорий Петрович": 146,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 6,
-      "Садовников Денис Владимирович": 3,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 4,
+      "gas:candidate-vibid:2892000451172": 6,
+      "gas:candidate-vibid:2892000452753": 6,
+      "gas:candidate-vibid:2892000452470": 146,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 6,
+      "gas:candidate-vibid:2892000452049": 3,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 13,
-      "Карпиков Максим Георгиевич": 34,
-      "Колесников Алексей Юрьевич": 22,
-      "Ледков Григорий Петрович": 541,
-      "Носкин Сергей Анатольевич": 24,
-      "Попов Сергей Владимирович": 28,
-      "Садовников Денис Владимирович": 81,
-      "Ушаков Михаил Александрович": 32
+      "gas:candidate-vibid:2892000452930": 13,
+      "gas:candidate-vibid:2892000451172": 34,
+      "gas:candidate-vibid:2892000452753": 22,
+      "gas:candidate-vibid:2892000452470": 541,
+      "gas:candidate-vibid:2892000452531": 24,
+      "gas:candidate-vibid:2892000452264": 28,
+      "gas:candidate-vibid:2892000452049": 81,
+      "gas:candidate-vibid:2892000417561": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 5,
-      "Карпиков Максим Георгиевич": 11,
-      "Колесников Алексей Юрьевич": 9,
-      "Ледков Григорий Петрович": 182,
-      "Носкин Сергей Анатольевич": 25,
-      "Попов Сергей Владимирович": 14,
-      "Садовников Денис Владимирович": 23,
-      "Ушаков Михаил Александрович": 14
+      "gas:candidate-vibid:2892000452930": 5,
+      "gas:candidate-vibid:2892000451172": 11,
+      "gas:candidate-vibid:2892000452753": 9,
+      "gas:candidate-vibid:2892000452470": 182,
+      "gas:candidate-vibid:2892000452531": 25,
+      "gas:candidate-vibid:2892000452264": 14,
+      "gas:candidate-vibid:2892000452049": 23,
+      "gas:candidate-vibid:2892000417561": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 22,
-      "Карпиков Максим Георгиевич": 22,
-      "Колесников Алексей Юрьевич": 24,
-      "Ледков Григорий Петрович": 1420,
-      "Носкин Сергей Анатольевич": 26,
-      "Попов Сергей Владимирович": 57,
-      "Садовников Денис Владимирович": 90,
-      "Ушаков Михаил Александрович": 19
+      "gas:candidate-vibid:2892000452930": 22,
+      "gas:candidate-vibid:2892000451172": 22,
+      "gas:candidate-vibid:2892000452753": 24,
+      "gas:candidate-vibid:2892000452470": 1420,
+      "gas:candidate-vibid:2892000452531": 26,
+      "gas:candidate-vibid:2892000452264": 57,
+      "gas:candidate-vibid:2892000452049": 90,
+      "gas:candidate-vibid:2892000417561": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 4,
-      "Карпиков Максим Георгиевич": 11,
-      "Колесников Алексей Юрьевич": 6,
-      "Ледков Григорий Петрович": 203,
-      "Носкин Сергей Анатольевич": 7,
-      "Попов Сергей Владимирович": 25,
-      "Садовников Денис Владимирович": 12,
-      "Ушаков Михаил Александрович": 5
+      "gas:candidate-vibid:2892000452930": 4,
+      "gas:candidate-vibid:2892000451172": 11,
+      "gas:candidate-vibid:2892000452753": 6,
+      "gas:candidate-vibid:2892000452470": 203,
+      "gas:candidate-vibid:2892000452531": 7,
+      "gas:candidate-vibid:2892000452264": 25,
+      "gas:candidate-vibid:2892000452049": 12,
+      "gas:candidate-vibid:2892000417561": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 4,
-      "Карпиков Максим Георгиевич": 17,
-      "Колесников Алексей Юрьевич": 13,
-      "Ледков Григорий Петрович": 514,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 34,
-      "Садовников Денис Владимирович": 21,
-      "Ушаков Михаил Александрович": 9
+      "gas:candidate-vibid:2892000452930": 4,
+      "gas:candidate-vibid:2892000451172": 17,
+      "gas:candidate-vibid:2892000452753": 13,
+      "gas:candidate-vibid:2892000452470": 514,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 34,
+      "gas:candidate-vibid:2892000452049": 21,
+      "gas:candidate-vibid:2892000417561": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 3,
-      "Карпиков Максим Георгиевич": 8,
-      "Колесников Алексей Юрьевич": 2,
-      "Ледков Григорий Петрович": 173,
-      "Носкин Сергей Анатольевич": 5,
-      "Попов Сергей Владимирович": 9,
-      "Садовников Денис Владимирович": 9,
-      "Ушаков Михаил Александрович": 9
+      "gas:candidate-vibid:2892000452930": 3,
+      "gas:candidate-vibid:2892000451172": 8,
+      "gas:candidate-vibid:2892000452753": 2,
+      "gas:candidate-vibid:2892000452470": 173,
+      "gas:candidate-vibid:2892000452531": 5,
+      "gas:candidate-vibid:2892000452264": 9,
+      "gas:candidate-vibid:2892000452049": 9,
+      "gas:candidate-vibid:2892000417561": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 5,
-      "Карпиков Максим Георгиевич": 27,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 267,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 18,
-      "Садовников Денис Владимирович": 48,
-      "Ушаков Михаил Александрович": 13
+      "gas:candidate-vibid:2892000452930": 5,
+      "gas:candidate-vibid:2892000451172": 27,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 267,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 18,
+      "gas:candidate-vibid:2892000452049": 48,
+      "gas:candidate-vibid:2892000417561": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414374&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414374&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 50,
-      "Колесников Алексей Юрьевич": 20,
-      "Ледков Григорий Петрович": 556,
-      "Носкин Сергей Анатольевич": 42,
-      "Попов Сергей Владимирович": 31,
-      "Садовников Денис Владимирович": 80,
-      "Ушаков Михаил Александрович": 23
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 50,
+      "gas:candidate-vibid:2892000452753": 20,
+      "gas:candidate-vibid:2892000452470": 556,
+      "gas:candidate-vibid:2892000452531": 42,
+      "gas:candidate-vibid:2892000452264": 31,
+      "gas:candidate-vibid:2892000452049": 80,
+      "gas:candidate-vibid:2892000417561": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 41,
-      "Карпиков Максим Георгиевич": 55,
-      "Колесников Алексей Юрьевич": 19,
-      "Ледков Григорий Петрович": 458,
-      "Носкин Сергей Анатольевич": 67,
-      "Попов Сергей Владимирович": 47,
-      "Садовников Денис Владимирович": 102,
-      "Ушаков Михаил Александрович": 100
+      "gas:candidate-vibid:2892000452930": 41,
+      "gas:candidate-vibid:2892000451172": 55,
+      "gas:candidate-vibid:2892000452753": 19,
+      "gas:candidate-vibid:2892000452470": 458,
+      "gas:candidate-vibid:2892000452531": 67,
+      "gas:candidate-vibid:2892000452264": 47,
+      "gas:candidate-vibid:2892000452049": 102,
+      "gas:candidate-vibid:2892000417561": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 33,
-      "Карпиков Максим Георгиевич": 71,
-      "Колесников Алексей Юрьевич": 17,
-      "Ледков Григорий Петрович": 420,
-      "Носкин Сергей Анатольевич": 73,
-      "Попов Сергей Владимирович": 58,
-      "Садовников Денис Владимирович": 131,
-      "Ушаков Михаил Александрович": 93
+      "gas:candidate-vibid:2892000452930": 33,
+      "gas:candidate-vibid:2892000451172": 71,
+      "gas:candidate-vibid:2892000452753": 17,
+      "gas:candidate-vibid:2892000452470": 420,
+      "gas:candidate-vibid:2892000452531": 73,
+      "gas:candidate-vibid:2892000452264": 58,
+      "gas:candidate-vibid:2892000452049": 131,
+      "gas:candidate-vibid:2892000417561": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 30,
-      "Карпиков Максим Георгиевич": 62,
-      "Колесников Алексей Юрьевич": 23,
-      "Ледков Григорий Петрович": 465,
-      "Носкин Сергей Анатольевич": 53,
-      "Попов Сергей Владимирович": 48,
-      "Садовников Денис Владимирович": 119,
-      "Ушаков Михаил Александрович": 110
+      "gas:candidate-vibid:2892000452930": 30,
+      "gas:candidate-vibid:2892000451172": 62,
+      "gas:candidate-vibid:2892000452753": 23,
+      "gas:candidate-vibid:2892000452470": 465,
+      "gas:candidate-vibid:2892000452531": 53,
+      "gas:candidate-vibid:2892000452264": 48,
+      "gas:candidate-vibid:2892000452049": 119,
+      "gas:candidate-vibid:2892000417561": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 77,
-      "Колесников Алексей Юрьевич": 27,
-      "Ледков Григорий Петрович": 487,
-      "Носкин Сергей Анатольевич": 47,
-      "Попов Сергей Владимирович": 43,
-      "Садовников Денис Владимирович": 166,
-      "Ушаков Михаил Александрович": 50
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 77,
+      "gas:candidate-vibid:2892000452753": 27,
+      "gas:candidate-vibid:2892000452470": 487,
+      "gas:candidate-vibid:2892000452531": 47,
+      "gas:candidate-vibid:2892000452264": 43,
+      "gas:candidate-vibid:2892000452049": 166,
+      "gas:candidate-vibid:2892000417561": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 28,
-      "Карпиков Максим Георгиевич": 58,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 445,
-      "Носкин Сергей Анатольевич": 58,
-      "Попов Сергей Владимирович": 57,
-      "Садовников Денис Владимирович": 135,
-      "Ушаков Михаил Александрович": 108
+      "gas:candidate-vibid:2892000452930": 28,
+      "gas:candidate-vibid:2892000451172": 58,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 445,
+      "gas:candidate-vibid:2892000452531": 58,
+      "gas:candidate-vibid:2892000452264": 57,
+      "gas:candidate-vibid:2892000452049": 135,
+      "gas:candidate-vibid:2892000417561": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 38,
-      "Карпиков Максим Георгиевич": 62,
-      "Колесников Алексей Юрьевич": 27,
-      "Ледков Григорий Петрович": 408,
-      "Носкин Сергей Анатольевич": 69,
-      "Попов Сергей Владимирович": 47,
-      "Садовников Денис Владимирович": 166,
-      "Ушаков Михаил Александрович": 106
+      "gas:candidate-vibid:2892000452930": 38,
+      "gas:candidate-vibid:2892000451172": 62,
+      "gas:candidate-vibid:2892000452753": 27,
+      "gas:candidate-vibid:2892000452470": 408,
+      "gas:candidate-vibid:2892000452531": 69,
+      "gas:candidate-vibid:2892000452264": 47,
+      "gas:candidate-vibid:2892000452049": 166,
+      "gas:candidate-vibid:2892000417561": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 44,
-      "Карпиков Максим Георгиевич": 75,
-      "Колесников Алексей Юрьевич": 34,
-      "Ледков Григорий Петрович": 581,
-      "Носкин Сергей Анатольевич": 83,
-      "Попов Сергей Владимирович": 60,
-      "Садовников Денис Владимирович": 196,
-      "Ушаков Михаил Александрович": 146
+      "gas:candidate-vibid:2892000452930": 44,
+      "gas:candidate-vibid:2892000451172": 75,
+      "gas:candidate-vibid:2892000452753": 34,
+      "gas:candidate-vibid:2892000452470": 581,
+      "gas:candidate-vibid:2892000452531": 83,
+      "gas:candidate-vibid:2892000452264": 60,
+      "gas:candidate-vibid:2892000452049": 196,
+      "gas:candidate-vibid:2892000417561": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 27,
-      "Карпиков Максим Георгиевич": 45,
-      "Колесников Алексей Юрьевич": 15,
-      "Ледков Григорий Петрович": 506,
-      "Носкин Сергей Анатольевич": 32,
-      "Попов Сергей Владимирович": 32,
-      "Садовников Денис Владимирович": 93,
-      "Ушаков Михаил Александрович": 69
+      "gas:candidate-vibid:2892000452930": 27,
+      "gas:candidate-vibid:2892000451172": 45,
+      "gas:candidate-vibid:2892000452753": 15,
+      "gas:candidate-vibid:2892000452470": 506,
+      "gas:candidate-vibid:2892000452531": 32,
+      "gas:candidate-vibid:2892000452264": 32,
+      "gas:candidate-vibid:2892000452049": 93,
+      "gas:candidate-vibid:2892000417561": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 39,
-      "Карпиков Максим Георгиевич": 73,
-      "Колесников Алексей Юрьевич": 33,
-      "Ледков Григорий Петрович": 534,
-      "Носкин Сергей Анатольевич": 71,
-      "Попов Сергей Владимирович": 52,
-      "Садовников Денис Владимирович": 138,
-      "Ушаков Михаил Александрович": 88
+      "gas:candidate-vibid:2892000452930": 39,
+      "gas:candidate-vibid:2892000451172": 73,
+      "gas:candidate-vibid:2892000452753": 33,
+      "gas:candidate-vibid:2892000452470": 534,
+      "gas:candidate-vibid:2892000452531": 71,
+      "gas:candidate-vibid:2892000452264": 52,
+      "gas:candidate-vibid:2892000452049": 138,
+      "gas:candidate-vibid:2892000417561": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 13,
-      "Карпиков Максим Георгиевич": 36,
-      "Колесников Алексей Юрьевич": 15,
-      "Ледков Григорий Петрович": 514,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 9,
-      "Садовников Денис Владимирович": 91,
-      "Ушаков Михаил Александрович": 34
+      "gas:candidate-vibid:2892000452930": 13,
+      "gas:candidate-vibid:2892000451172": 36,
+      "gas:candidate-vibid:2892000452753": 15,
+      "gas:candidate-vibid:2892000452470": 514,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 9,
+      "gas:candidate-vibid:2892000452049": 91,
+      "gas:candidate-vibid:2892000417561": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 12,
-      "Карпиков Максим Георгиевич": 28,
-      "Колесников Алексей Юрьевич": 17,
-      "Ледков Григорий Петрович": 286,
-      "Носкин Сергей Анатольевич": 24,
-      "Попов Сергей Владимирович": 21,
-      "Садовников Денис Владимирович": 110,
-      "Ушаков Михаил Александрович": 32
+      "gas:candidate-vibid:2892000452930": 12,
+      "gas:candidate-vibid:2892000451172": 28,
+      "gas:candidate-vibid:2892000452753": 17,
+      "gas:candidate-vibid:2892000452470": 286,
+      "gas:candidate-vibid:2892000452531": 24,
+      "gas:candidate-vibid:2892000452264": 21,
+      "gas:candidate-vibid:2892000452049": 110,
+      "gas:candidate-vibid:2892000417561": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 17,
-      "Карпиков Максим Георгиевич": 73,
-      "Колесников Алексей Юрьевич": 37,
-      "Ледков Григорий Петрович": 354,
-      "Носкин Сергей Анатольевич": 47,
-      "Попов Сергей Владимирович": 41,
-      "Садовников Денис Владимирович": 153,
-      "Ушаков Михаил Александрович": 51
+      "gas:candidate-vibid:2892000452930": 17,
+      "gas:candidate-vibid:2892000451172": 73,
+      "gas:candidate-vibid:2892000452753": 37,
+      "gas:candidate-vibid:2892000452470": 354,
+      "gas:candidate-vibid:2892000452531": 47,
+      "gas:candidate-vibid:2892000452264": 41,
+      "gas:candidate-vibid:2892000452049": 153,
+      "gas:candidate-vibid:2892000417561": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 20,
-      "Карпиков Максим Георгиевич": 61,
-      "Колесников Алексей Юрьевич": 26,
-      "Ледков Григорий Петрович": 265,
-      "Носкин Сергей Анатольевич": 36,
-      "Попов Сергей Владимирович": 35,
-      "Садовников Денис Владимирович": 135,
-      "Ушаков Михаил Александрович": 54
+      "gas:candidate-vibid:2892000452930": 20,
+      "gas:candidate-vibid:2892000451172": 61,
+      "gas:candidate-vibid:2892000452753": 26,
+      "gas:candidate-vibid:2892000452470": 265,
+      "gas:candidate-vibid:2892000452531": 36,
+      "gas:candidate-vibid:2892000452264": 35,
+      "gas:candidate-vibid:2892000452049": 135,
+      "gas:candidate-vibid:2892000417561": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 12,
-      "Карпиков Максим Георгиевич": 45,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 471,
-      "Носкин Сергей Анатольевич": 47,
-      "Попов Сергей Владимирович": 46,
-      "Садовников Денис Владимирович": 109,
-      "Ушаков Михаил Александрович": 90
+      "gas:candidate-vibid:2892000452930": 12,
+      "gas:candidate-vibid:2892000451172": 45,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 471,
+      "gas:candidate-vibid:2892000452531": 47,
+      "gas:candidate-vibid:2892000452264": 46,
+      "gas:candidate-vibid:2892000452049": 109,
+      "gas:candidate-vibid:2892000417561": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 43,
-      "Колесников Алексей Юрьевич": 19,
-      "Ледков Григорий Петрович": 518,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 87,
-      "Садовников Денис Владимирович": 104,
-      "Ушаков Михаил Александрович": 54
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 43,
+      "gas:candidate-vibid:2892000452753": 19,
+      "gas:candidate-vibid:2892000452470": 518,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 87,
+      "gas:candidate-vibid:2892000452049": 104,
+      "gas:candidate-vibid:2892000417561": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 38,
-      "Карпиков Максим Георгиевич": 78,
-      "Колесников Алексей Юрьевич": 38,
-      "Ледков Григорий Петрович": 536,
-      "Носкин Сергей Анатольевич": 49,
-      "Попов Сергей Владимирович": 60,
-      "Садовников Денис Владимирович": 187,
-      "Ушаков Михаил Александрович": 121
+      "gas:candidate-vibid:2892000452930": 38,
+      "gas:candidate-vibid:2892000451172": 78,
+      "gas:candidate-vibid:2892000452753": 38,
+      "gas:candidate-vibid:2892000452470": 536,
+      "gas:candidate-vibid:2892000452531": 49,
+      "gas:candidate-vibid:2892000452264": 60,
+      "gas:candidate-vibid:2892000452049": 187,
+      "gas:candidate-vibid:2892000417561": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 58,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 492,
-      "Носкин Сергей Анатольевич": 48,
-      "Попов Сергей Владимирович": 32,
-      "Садовников Денис Владимирович": 92,
-      "Ушаков Михаил Александрович": 69
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 58,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 492,
+      "gas:candidate-vibid:2892000452531": 48,
+      "gas:candidate-vibid:2892000452264": 32,
+      "gas:candidate-vibid:2892000452049": 92,
+      "gas:candidate-vibid:2892000417561": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 26,
-      "Карпиков Максим Георгиевич": 72,
-      "Колесников Алексей Юрьевич": 25,
-      "Ледков Григорий Петрович": 295,
-      "Носкин Сергей Анатольевич": 25,
-      "Попов Сергей Владимирович": 42,
-      "Садовников Денис Владимирович": 163,
-      "Ушаков Михаил Александрович": 74
+      "gas:candidate-vibid:2892000452930": 26,
+      "gas:candidate-vibid:2892000451172": 72,
+      "gas:candidate-vibid:2892000452753": 25,
+      "gas:candidate-vibid:2892000452470": 295,
+      "gas:candidate-vibid:2892000452531": 25,
+      "gas:candidate-vibid:2892000452264": 42,
+      "gas:candidate-vibid:2892000452049": 163,
+      "gas:candidate-vibid:2892000417561": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 25,
-      "Карпиков Максим Георгиевич": 54,
-      "Колесников Алексей Юрьевич": 28,
-      "Ледков Григорий Петрович": 294,
-      "Носкин Сергей Анатольевич": 36,
-      "Попов Сергей Владимирович": 31,
-      "Садовников Денис Владимирович": 153,
-      "Ушаков Михаил Александрович": 50
+      "gas:candidate-vibid:2892000452930": 25,
+      "gas:candidate-vibid:2892000451172": 54,
+      "gas:candidate-vibid:2892000452753": 28,
+      "gas:candidate-vibid:2892000452470": 294,
+      "gas:candidate-vibid:2892000452531": 36,
+      "gas:candidate-vibid:2892000452264": 31,
+      "gas:candidate-vibid:2892000452049": 153,
+      "gas:candidate-vibid:2892000417561": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 9,
-      "Карпиков Максим Георгиевич": 8,
-      "Колесников Алексей Юрьевич": 9,
-      "Ледков Григорий Петрович": 74,
-      "Носкин Сергей Анатольевич": 10,
-      "Попов Сергей Владимирович": 10,
-      "Садовников Денис Владимирович": 15,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 9,
+      "gas:candidate-vibid:2892000451172": 8,
+      "gas:candidate-vibid:2892000452753": 9,
+      "gas:candidate-vibid:2892000452470": 74,
+      "gas:candidate-vibid:2892000452531": 10,
+      "gas:candidate-vibid:2892000452264": 10,
+      "gas:candidate-vibid:2892000452049": 15,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 17,
-      "Карпиков Максим Георгиевич": 54,
-      "Колесников Алексей Юрьевич": 18,
-      "Ледков Григорий Петрович": 92,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 35,
-      "Ушаков Михаил Александрович": 20
+      "gas:candidate-vibid:2892000452930": 17,
+      "gas:candidate-vibid:2892000451172": 54,
+      "gas:candidate-vibid:2892000452753": 18,
+      "gas:candidate-vibid:2892000452470": 92,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 35,
+      "gas:candidate-vibid:2892000417561": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 4,
-      "Карпиков Максим Георгиевич": 2,
-      "Колесников Алексей Юрьевич": 0,
-      "Ледков Григорий Петрович": 15,
-      "Носкин Сергей Анатольевич": 1,
-      "Попов Сергей Владимирович": 2,
-      "Садовников Денис Владимирович": 2,
-      "Ушаков Михаил Александрович": 3
+      "gas:candidate-vibid:2892000452930": 4,
+      "gas:candidate-vibid:2892000451172": 2,
+      "gas:candidate-vibid:2892000452753": 0,
+      "gas:candidate-vibid:2892000452470": 15,
+      "gas:candidate-vibid:2892000452531": 1,
+      "gas:candidate-vibid:2892000452264": 2,
+      "gas:candidate-vibid:2892000452049": 2,
+      "gas:candidate-vibid:2892000417561": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 5,
-      "Карпиков Максим Георгиевич": 9,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 38,
-      "Носкин Сергей Анатольевич": 7,
-      "Попов Сергей Владимирович": 5,
-      "Садовников Денис Владимирович": 23,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 5,
+      "gas:candidate-vibid:2892000451172": 9,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 38,
+      "gas:candidate-vibid:2892000452531": 7,
+      "gas:candidate-vibid:2892000452264": 5,
+      "gas:candidate-vibid:2892000452049": 23,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414375&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414375&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 45,
-      "Карпиков Максим Георгиевич": 97,
-      "Колесников Алексей Юрьевич": 45,
-      "Ледков Григорий Петрович": 1119,
-      "Носкин Сергей Анатольевич": 48,
-      "Попов Сергей Владимирович": 35,
-      "Садовников Денис Владимирович": 456,
-      "Ушаков Михаил Александрович": 32
+      "gas:candidate-vibid:2892000452930": 45,
+      "gas:candidate-vibid:2892000451172": 97,
+      "gas:candidate-vibid:2892000452753": 45,
+      "gas:candidate-vibid:2892000452470": 1119,
+      "gas:candidate-vibid:2892000452531": 48,
+      "gas:candidate-vibid:2892000452264": 35,
+      "gas:candidate-vibid:2892000452049": 456,
+      "gas:candidate-vibid:2892000417561": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 41,
-      "Карпиков Максим Георгиевич": 99,
-      "Колесников Алексей Юрьевич": 65,
-      "Ледков Григорий Петрович": 1114,
-      "Носкин Сергей Анатольевич": 30,
-      "Попов Сергей Владимирович": 40,
-      "Садовников Денис Владимирович": 411,
-      "Ушаков Михаил Александрович": 16
+      "gas:candidate-vibid:2892000452930": 41,
+      "gas:candidate-vibid:2892000451172": 99,
+      "gas:candidate-vibid:2892000452753": 65,
+      "gas:candidate-vibid:2892000452470": 1114,
+      "gas:candidate-vibid:2892000452531": 30,
+      "gas:candidate-vibid:2892000452264": 40,
+      "gas:candidate-vibid:2892000452049": 411,
+      "gas:candidate-vibid:2892000417561": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 20,
-      "Карпиков Максим Георгиевич": 93,
-      "Колесников Алексей Юрьевич": 39,
-      "Ледков Григорий Петрович": 958,
-      "Носкин Сергей Анатольевич": 11,
-      "Попов Сергей Владимирович": 14,
-      "Садовников Денис Владимирович": 469,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 20,
+      "gas:candidate-vibid:2892000451172": 93,
+      "gas:candidate-vibid:2892000452753": 39,
+      "gas:candidate-vibid:2892000452470": 958,
+      "gas:candidate-vibid:2892000452531": 11,
+      "gas:candidate-vibid:2892000452264": 14,
+      "gas:candidate-vibid:2892000452049": 469,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 28,
-      "Карпиков Максим Георгиевич": 98,
-      "Колесников Алексей Юрьевич": 46,
-      "Ледков Григорий Петрович": 1166,
-      "Носкин Сергей Анатольевич": 49,
-      "Попов Сергей Владимирович": 32,
-      "Садовников Денис Владимирович": 428,
-      "Ушаков Михаил Александрович": 18
+      "gas:candidate-vibid:2892000452930": 28,
+      "gas:candidate-vibid:2892000451172": 98,
+      "gas:candidate-vibid:2892000452753": 46,
+      "gas:candidate-vibid:2892000452470": 1166,
+      "gas:candidate-vibid:2892000452531": 49,
+      "gas:candidate-vibid:2892000452264": 32,
+      "gas:candidate-vibid:2892000452049": 428,
+      "gas:candidate-vibid:2892000417561": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 29,
-      "Карпиков Максим Георгиевич": 89,
-      "Колесников Алексей Юрьевич": 45,
-      "Ледков Григорий Петрович": 1213,
-      "Носкин Сергей Анатольевич": 44,
-      "Попов Сергей Владимирович": 34,
-      "Садовников Денис Владимирович": 403,
-      "Ушаков Михаил Александрович": 17
+      "gas:candidate-vibid:2892000452930": 29,
+      "gas:candidate-vibid:2892000451172": 89,
+      "gas:candidate-vibid:2892000452753": 45,
+      "gas:candidate-vibid:2892000452470": 1213,
+      "gas:candidate-vibid:2892000452531": 44,
+      "gas:candidate-vibid:2892000452264": 34,
+      "gas:candidate-vibid:2892000452049": 403,
+      "gas:candidate-vibid:2892000417561": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 24,
-      "Карпиков Максим Георгиевич": 87,
-      "Колесников Алексей Юрьевич": 24,
-      "Ледков Григорий Петрович": 1186,
-      "Носкин Сергей Анатольевич": 38,
-      "Попов Сергей Владимирович": 25,
-      "Садовников Денис Владимирович": 459,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 24,
+      "gas:candidate-vibid:2892000451172": 87,
+      "gas:candidate-vibid:2892000452753": 24,
+      "gas:candidate-vibid:2892000452470": 1186,
+      "gas:candidate-vibid:2892000452531": 38,
+      "gas:candidate-vibid:2892000452264": 25,
+      "gas:candidate-vibid:2892000452049": 459,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 27,
-      "Карпиков Максим Георгиевич": 79,
-      "Колесников Алексей Юрьевич": 35,
-      "Ледков Григорий Петрович": 1169,
-      "Носкин Сергей Анатольевич": 35,
-      "Попов Сергей Владимирович": 28,
-      "Садовников Денис Владимирович": 430,
-      "Ушаков Михаил Александрович": 28
+      "gas:candidate-vibid:2892000452930": 27,
+      "gas:candidate-vibid:2892000451172": 79,
+      "gas:candidate-vibid:2892000452753": 35,
+      "gas:candidate-vibid:2892000452470": 1169,
+      "gas:candidate-vibid:2892000452531": 35,
+      "gas:candidate-vibid:2892000452264": 28,
+      "gas:candidate-vibid:2892000452049": 430,
+      "gas:candidate-vibid:2892000417561": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 13,
-      "Карпиков Максим Георгиевич": 38,
-      "Колесников Алексей Юрьевич": 16,
-      "Ледков Григорий Петрович": 428,
-      "Носкин Сергей Анатольевич": 24,
-      "Попов Сергей Владимирович": 10,
-      "Садовников Денис Владимирович": 224,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 13,
+      "gas:candidate-vibid:2892000451172": 38,
+      "gas:candidate-vibid:2892000452753": 16,
+      "gas:candidate-vibid:2892000452470": 428,
+      "gas:candidate-vibid:2892000452531": 24,
+      "gas:candidate-vibid:2892000452264": 10,
+      "gas:candidate-vibid:2892000452049": 224,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 85,
-      "Колесников Алексей Юрьевич": 69,
-      "Ледков Григорий Петрович": 1154,
-      "Носкин Сергей Анатольевич": 31,
-      "Попов Сергей Владимирович": 94,
-      "Садовников Денис Владимирович": 360,
-      "Ушаков Михаил Александрович": 39
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 85,
+      "gas:candidate-vibid:2892000452753": 69,
+      "gas:candidate-vibid:2892000452470": 1154,
+      "gas:candidate-vibid:2892000452531": 31,
+      "gas:candidate-vibid:2892000452264": 94,
+      "gas:candidate-vibid:2892000452049": 360,
+      "gas:candidate-vibid:2892000417561": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 16,
-      "Карпиков Максим Георгиевич": 52,
-      "Колесников Алексей Юрьевич": 23,
-      "Ледков Григорий Петрович": 596,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 18,
-      "Садовников Денис Владимирович": 259,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 16,
+      "gas:candidate-vibid:2892000451172": 52,
+      "gas:candidate-vibid:2892000452753": 23,
+      "gas:candidate-vibid:2892000452470": 596,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 18,
+      "gas:candidate-vibid:2892000452049": 259,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 15,
-      "Карпиков Максим Георгиевич": 44,
-      "Колесников Алексей Юрьевич": 22,
-      "Ледков Григорий Петрович": 619,
-      "Носкин Сергей Анатольевич": 14,
-      "Попов Сергей Владимирович": 11,
-      "Садовников Денис Владимирович": 233,
-      "Ушаков Михаил Александрович": 18
+      "gas:candidate-vibid:2892000452930": 15,
+      "gas:candidate-vibid:2892000451172": 44,
+      "gas:candidate-vibid:2892000452753": 22,
+      "gas:candidate-vibid:2892000452470": 619,
+      "gas:candidate-vibid:2892000452531": 14,
+      "gas:candidate-vibid:2892000452264": 11,
+      "gas:candidate-vibid:2892000452049": 233,
+      "gas:candidate-vibid:2892000417561": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 31,
-      "Карпиков Максим Георгиевич": 95,
-      "Колесников Алексей Юрьевич": 61,
-      "Ледков Григорий Петрович": 1207,
-      "Носкин Сергей Анатольевич": 24,
-      "Попов Сергей Владимирович": 76,
-      "Садовников Денис Владимирович": 209,
-      "Ушаков Михаил Александрович": 42
+      "gas:candidate-vibid:2892000452930": 31,
+      "gas:candidate-vibid:2892000451172": 95,
+      "gas:candidate-vibid:2892000452753": 61,
+      "gas:candidate-vibid:2892000452470": 1207,
+      "gas:candidate-vibid:2892000452531": 24,
+      "gas:candidate-vibid:2892000452264": 76,
+      "gas:candidate-vibid:2892000452049": 209,
+      "gas:candidate-vibid:2892000417561": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 23,
-      "Карпиков Максим Георгиевич": 91,
-      "Колесников Алексей Юрьевич": 40,
-      "Ледков Григорий Петрович": 1184,
-      "Носкин Сергей Анатольевич": 27,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 447,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 23,
+      "gas:candidate-vibid:2892000451172": 91,
+      "gas:candidate-vibid:2892000452753": 40,
+      "gas:candidate-vibid:2892000452470": 1184,
+      "gas:candidate-vibid:2892000452531": 27,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 447,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 97,
-      "Колесников Алексей Юрьевич": 51,
-      "Ледков Григорий Петрович": 1159,
-      "Носкин Сергей Анатольевич": 41,
-      "Попов Сергей Владимирович": 39,
-      "Садовников Денис Владимирович": 405,
-      "Ушаков Михаил Александрович": 20
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 97,
+      "gas:candidate-vibid:2892000452753": 51,
+      "gas:candidate-vibid:2892000452470": 1159,
+      "gas:candidate-vibid:2892000452531": 41,
+      "gas:candidate-vibid:2892000452264": 39,
+      "gas:candidate-vibid:2892000452049": 405,
+      "gas:candidate-vibid:2892000417561": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 56,
-      "Колесников Алексей Юрьевич": 23,
-      "Ледков Григорий Петрович": 599,
-      "Носкин Сергей Анатольевич": 21,
-      "Попов Сергей Владимирович": 14,
-      "Садовников Денис Владимирович": 229,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 56,
+      "gas:candidate-vibid:2892000452753": 23,
+      "gas:candidate-vibid:2892000452470": 599,
+      "gas:candidate-vibid:2892000452531": 21,
+      "gas:candidate-vibid:2892000452264": 14,
+      "gas:candidate-vibid:2892000452049": 229,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 82,
-      "Колесников Алексей Юрьевич": 42,
-      "Ледков Григорий Петрович": 1194,
-      "Носкин Сергей Анатольевич": 35,
-      "Попов Сергей Владимирович": 41,
-      "Садовников Денис Владимирович": 376,
-      "Ушаков Михаил Александрович": 14
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 82,
+      "gas:candidate-vibid:2892000452753": 42,
+      "gas:candidate-vibid:2892000452470": 1194,
+      "gas:candidate-vibid:2892000452531": 35,
+      "gas:candidate-vibid:2892000452264": 41,
+      "gas:candidate-vibid:2892000452049": 376,
+      "gas:candidate-vibid:2892000417561": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 16,
-      "Карпиков Максим Георгиевич": 59,
-      "Колесников Алексей Юрьевич": 27,
-      "Ледков Григорий Петрович": 699,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 8,
-      "Садовников Денис Владимирович": 259,
-      "Ушаков Михаил Александрович": 4
+      "gas:candidate-vibid:2892000452930": 16,
+      "gas:candidate-vibid:2892000451172": 59,
+      "gas:candidate-vibid:2892000452753": 27,
+      "gas:candidate-vibid:2892000452470": 699,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 8,
+      "gas:candidate-vibid:2892000452049": 259,
+      "gas:candidate-vibid:2892000417561": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 23,
-      "Карпиков Максим Георгиевич": 81,
-      "Колесников Алексей Юрьевич": 41,
-      "Ледков Григорий Петрович": 1175,
-      "Носкин Сергей Анатольевич": 34,
-      "Попов Сергей Владимирович": 41,
-      "Садовников Денис Владимирович": 403,
-      "Ушаков Михаил Александрович": 22
+      "gas:candidate-vibid:2892000452930": 23,
+      "gas:candidate-vibid:2892000451172": 81,
+      "gas:candidate-vibid:2892000452753": 41,
+      "gas:candidate-vibid:2892000452470": 1175,
+      "gas:candidate-vibid:2892000452531": 34,
+      "gas:candidate-vibid:2892000452264": 41,
+      "gas:candidate-vibid:2892000452049": 403,
+      "gas:candidate-vibid:2892000417561": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 15,
-      "Карпиков Максим Георгиевич": 40,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 682,
-      "Носкин Сергей Анатольевич": 25,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 235,
-      "Ушаков Михаил Александрович": 7
+      "gas:candidate-vibid:2892000452930": 15,
+      "gas:candidate-vibid:2892000451172": 40,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 682,
+      "gas:candidate-vibid:2892000452531": 25,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 235,
+      "gas:candidate-vibid:2892000417561": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 18,
-      "Карпиков Максим Георгиевич": 43,
-      "Колесников Алексей Юрьевич": 11,
-      "Ледков Григорий Петрович": 516,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 14,
-      "Садовников Денис Владимирович": 219,
-      "Ушаков Михаил Александрович": 4
+      "gas:candidate-vibid:2892000452930": 18,
+      "gas:candidate-vibid:2892000451172": 43,
+      "gas:candidate-vibid:2892000452753": 11,
+      "gas:candidate-vibid:2892000452470": 516,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 14,
+      "gas:candidate-vibid:2892000452049": 219,
+      "gas:candidate-vibid:2892000417561": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 35,
-      "Колесников Алексей Юрьевич": 30,
-      "Ледков Григорий Петрович": 772,
-      "Носкин Сергей Анатольевич": 13,
-      "Попов Сергей Владимирович": 40,
-      "Садовников Денис Владимирович": 217,
-      "Ушаков Михаил Александрович": 28
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 35,
+      "gas:candidate-vibid:2892000452753": 30,
+      "gas:candidate-vibid:2892000452470": 772,
+      "gas:candidate-vibid:2892000452531": 13,
+      "gas:candidate-vibid:2892000452264": 40,
+      "gas:candidate-vibid:2892000452049": 217,
+      "gas:candidate-vibid:2892000417561": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 20,
-      "Карпиков Максим Георгиевич": 41,
-      "Колесников Алексей Юрьевич": 29,
-      "Ледков Григорий Петрович": 703,
-      "Носкин Сергей Анатольевич": 21,
-      "Попов Сергей Владимирович": 24,
-      "Садовников Денис Владимирович": 277,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 20,
+      "gas:candidate-vibid:2892000451172": 41,
+      "gas:candidate-vibid:2892000452753": 29,
+      "gas:candidate-vibid:2892000452470": 703,
+      "gas:candidate-vibid:2892000452531": 21,
+      "gas:candidate-vibid:2892000452264": 24,
+      "gas:candidate-vibid:2892000452049": 277,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 52,
-      "Колесников Алексей Юрьевич": 29,
-      "Ледков Григорий Петрович": 879,
-      "Носкин Сергей Анатольевич": 28,
-      "Попов Сергей Владимирович": 24,
-      "Садовников Денис Владимирович": 258,
-      "Ушаков Михаил Александрович": 5
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 52,
+      "gas:candidate-vibid:2892000452753": 29,
+      "gas:candidate-vibid:2892000452470": 879,
+      "gas:candidate-vibid:2892000452531": 28,
+      "gas:candidate-vibid:2892000452264": 24,
+      "gas:candidate-vibid:2892000452049": 258,
+      "gas:candidate-vibid:2892000417561": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 49,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 505,
-      "Носкин Сергей Анатольевич": 22,
-      "Попов Сергей Владимирович": 25,
-      "Садовников Денис Владимирович": 278,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 49,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 505,
+      "gas:candidate-vibid:2892000452531": 22,
+      "gas:candidate-vibid:2892000452264": 25,
+      "gas:candidate-vibid:2892000452049": 278,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 16,
-      "Карпиков Максим Георгиевич": 48,
-      "Колесников Алексей Юрьевич": 23,
-      "Ледков Григорий Петрович": 546,
-      "Носкин Сергей Анатольевич": 21,
-      "Попов Сергей Владимирович": 22,
-      "Садовников Денис Владимирович": 275,
-      "Ушаков Михаил Александрович": 9
+      "gas:candidate-vibid:2892000452930": 16,
+      "gas:candidate-vibid:2892000451172": 48,
+      "gas:candidate-vibid:2892000452753": 23,
+      "gas:candidate-vibid:2892000452470": 546,
+      "gas:candidate-vibid:2892000452531": 21,
+      "gas:candidate-vibid:2892000452264": 22,
+      "gas:candidate-vibid:2892000452049": 275,
+      "gas:candidate-vibid:2892000417561": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 29,
-      "Карпиков Максим Георгиевич": 74,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 1296,
-      "Носкин Сергей Анатольевич": 33,
-      "Попов Сергей Владимирович": 40,
-      "Садовников Денис Владимирович": 360,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 29,
+      "gas:candidate-vibid:2892000451172": 74,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 1296,
+      "gas:candidate-vibid:2892000452531": 33,
+      "gas:candidate-vibid:2892000452264": 40,
+      "gas:candidate-vibid:2892000452049": 360,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 42,
-      "Колесников Алексей Юрьевич": 11,
-      "Ледков Григорий Петрович": 443,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 27,
-      "Садовников Денис Владимирович": 234,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 42,
+      "gas:candidate-vibid:2892000452753": 11,
+      "gas:candidate-vibid:2892000452470": 443,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 27,
+      "gas:candidate-vibid:2892000452049": 234,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 63,
-      "Колесников Алексей Юрьевич": 13,
-      "Ледков Григорий Петрович": 755,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 29,
-      "Садовников Денис Владимирович": 262,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 63,
+      "gas:candidate-vibid:2892000452753": 13,
+      "gas:candidate-vibid:2892000452470": 755,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 29,
+      "gas:candidate-vibid:2892000452049": 262,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 11,
-      "Карпиков Максим Георгиевич": 55,
-      "Колесников Алексей Юрьевич": 13,
-      "Ледков Григорий Петрович": 693,
-      "Носкин Сергей Анатольевич": 26,
-      "Попов Сергей Владимирович": 22,
-      "Садовников Денис Владимирович": 244,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 11,
+      "gas:candidate-vibid:2892000451172": 55,
+      "gas:candidate-vibid:2892000452753": 13,
+      "gas:candidate-vibid:2892000452470": 693,
+      "gas:candidate-vibid:2892000452531": 26,
+      "gas:candidate-vibid:2892000452264": 22,
+      "gas:candidate-vibid:2892000452049": 244,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 15,
-      "Карпиков Максим Георгиевич": 45,
-      "Колесников Алексей Юрьевич": 13,
-      "Ледков Григорий Петрович": 561,
-      "Носкин Сергей Анатольевич": 18,
-      "Попов Сергей Владимирович": 18,
-      "Садовников Денис Владимирович": 206,
-      "Ушаков Михаил Александрович": 5
+      "gas:candidate-vibid:2892000452930": 15,
+      "gas:candidate-vibid:2892000451172": 45,
+      "gas:candidate-vibid:2892000452753": 13,
+      "gas:candidate-vibid:2892000452470": 561,
+      "gas:candidate-vibid:2892000452531": 18,
+      "gas:candidate-vibid:2892000452264": 18,
+      "gas:candidate-vibid:2892000452049": 206,
+      "gas:candidate-vibid:2892000417561": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 25,
-      "Карпиков Максим Георгиевич": 82,
-      "Колесников Алексей Юрьевич": 29,
-      "Ледков Григорий Петрович": 1072,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 29,
-      "Садовников Денис Владимирович": 392,
-      "Ушаков Михаил Александрович": 10
+      "gas:candidate-vibid:2892000452930": 25,
+      "gas:candidate-vibid:2892000451172": 82,
+      "gas:candidate-vibid:2892000452753": 29,
+      "gas:candidate-vibid:2892000452470": 1072,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 29,
+      "gas:candidate-vibid:2892000452049": 392,
+      "gas:candidate-vibid:2892000417561": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 23,
-      "Карпиков Максим Георгиевич": 69,
-      "Колесников Алексей Юрьевич": 13,
-      "Ледков Григорий Петрович": 1056,
-      "Носкин Сергей Анатольевич": 26,
-      "Попов Сергей Владимирович": 34,
-      "Садовников Денис Владимирович": 325,
-      "Ушаков Михаил Александрович": 12
+      "gas:candidate-vibid:2892000452930": 23,
+      "gas:candidate-vibid:2892000451172": 69,
+      "gas:candidate-vibid:2892000452753": 13,
+      "gas:candidate-vibid:2892000452470": 1056,
+      "gas:candidate-vibid:2892000452531": 26,
+      "gas:candidate-vibid:2892000452264": 34,
+      "gas:candidate-vibid:2892000452049": 325,
+      "gas:candidate-vibid:2892000417561": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 16,
-      "Карпиков Максим Георгиевич": 49,
-      "Колесников Алексей Юрьевич": 33,
-      "Ледков Григорий Петрович": 546,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 32,
-      "Садовников Денис Владимирович": 226,
-      "Ушаков Михаил Александрович": 23
+      "gas:candidate-vibid:2892000452930": 16,
+      "gas:candidate-vibid:2892000451172": 49,
+      "gas:candidate-vibid:2892000452753": 33,
+      "gas:candidate-vibid:2892000452470": 546,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 32,
+      "gas:candidate-vibid:2892000452049": 226,
+      "gas:candidate-vibid:2892000417561": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 35,
-      "Колесников Алексей Юрьевич": 17,
-      "Ледков Григорий Петрович": 268,
-      "Носкин Сергей Анатольевич": 10,
-      "Попов Сергей Владимирович": 18,
-      "Садовников Денис Владимирович": 133,
-      "Ушаков Михаил Александрович": 10
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 35,
+      "gas:candidate-vibid:2892000452753": 17,
+      "gas:candidate-vibid:2892000452470": 268,
+      "gas:candidate-vibid:2892000452531": 10,
+      "gas:candidate-vibid:2892000452264": 18,
+      "gas:candidate-vibid:2892000452049": 133,
+      "gas:candidate-vibid:2892000417561": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 21,
-      "Колесников Алексей Юрьевич": 11,
-      "Ледков Григорий Петрович": 270,
-      "Носкин Сергей Анатольевич": 14,
-      "Попов Сергей Владимирович": 22,
-      "Садовников Денис Владимирович": 160,
-      "Ушаков Михаил Александрович": 4
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 21,
+      "gas:candidate-vibid:2892000452753": 11,
+      "gas:candidate-vibid:2892000452470": 270,
+      "gas:candidate-vibid:2892000452531": 14,
+      "gas:candidate-vibid:2892000452264": 22,
+      "gas:candidate-vibid:2892000452049": 160,
+      "gas:candidate-vibid:2892000417561": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 17,
-      "Карпиков Максим Георгиевич": 39,
-      "Колесников Алексей Юрьевич": 22,
-      "Ледков Григорий Петрович": 640,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 27,
-      "Садовников Денис Владимирович": 105,
-      "Ушаков Михаил Александрович": 14
+      "gas:candidate-vibid:2892000452930": 17,
+      "gas:candidate-vibid:2892000451172": 39,
+      "gas:candidate-vibid:2892000452753": 22,
+      "gas:candidate-vibid:2892000452470": 640,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 27,
+      "gas:candidate-vibid:2892000452049": 105,
+      "gas:candidate-vibid:2892000417561": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 46,
-      "Карпиков Максим Георгиевич": 95,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 1310,
-      "Носкин Сергей Анатольевич": 56,
-      "Попов Сергей Владимирович": 41,
-      "Садовников Денис Владимирович": 398,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 46,
+      "gas:candidate-vibid:2892000451172": 95,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 1310,
+      "gas:candidate-vibid:2892000452531": 56,
+      "gas:candidate-vibid:2892000452264": 41,
+      "gas:candidate-vibid:2892000452049": 398,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414376&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414376&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 32,
-      "Карпиков Максим Георгиевич": 64,
-      "Колесников Алексей Юрьевич": 68,
-      "Ледков Григорий Петрович": 368,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 31,
-      "Садовников Денис Владимирович": 234,
-      "Ушаков Михаил Александрович": 27
+      "gas:candidate-vibid:2892000452930": 32,
+      "gas:candidate-vibid:2892000451172": 64,
+      "gas:candidate-vibid:2892000452753": 68,
+      "gas:candidate-vibid:2892000452470": 368,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 31,
+      "gas:candidate-vibid:2892000452049": 234,
+      "gas:candidate-vibid:2892000417561": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 39,
-      "Карпиков Максим Георгиевич": 73,
-      "Колесников Алексей Юрьевич": 55,
-      "Ледков Григорий Петрович": 884,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 43,
-      "Садовников Денис Владимирович": 488,
-      "Ушаков Михаил Александрович": 34
+      "gas:candidate-vibid:2892000452930": 39,
+      "gas:candidate-vibid:2892000451172": 73,
+      "gas:candidate-vibid:2892000452753": 55,
+      "gas:candidate-vibid:2892000452470": 884,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 43,
+      "gas:candidate-vibid:2892000452049": 488,
+      "gas:candidate-vibid:2892000417561": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 38,
-      "Карпиков Максим Георгиевич": 87,
-      "Колесников Алексей Юрьевич": 72,
-      "Ледков Григорий Петрович": 939,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 39,
-      "Садовников Денис Владимирович": 359,
-      "Ушаков Михаил Александрович": 37
+      "gas:candidate-vibid:2892000452930": 38,
+      "gas:candidate-vibid:2892000451172": 87,
+      "gas:candidate-vibid:2892000452753": 72,
+      "gas:candidate-vibid:2892000452470": 939,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 39,
+      "gas:candidate-vibid:2892000452049": 359,
+      "gas:candidate-vibid:2892000417561": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 45,
-      "Карпиков Максим Георгиевич": 97,
-      "Колесников Алексей Юрьевич": 68,
-      "Ледков Григорий Петрович": 598,
-      "Носкин Сергей Анатольевич": 25,
-      "Попов Сергей Владимирович": 55,
-      "Садовников Денис Владимирович": 391,
-      "Ушаков Михаил Александрович": 58
+      "gas:candidate-vibid:2892000452930": 45,
+      "gas:candidate-vibid:2892000451172": 97,
+      "gas:candidate-vibid:2892000452753": 68,
+      "gas:candidate-vibid:2892000452470": 598,
+      "gas:candidate-vibid:2892000452531": 25,
+      "gas:candidate-vibid:2892000452264": 55,
+      "gas:candidate-vibid:2892000452049": 391,
+      "gas:candidate-vibid:2892000417561": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 50,
-      "Карпиков Максим Георгиевич": 94,
-      "Колесников Алексей Юрьевич": 84,
-      "Ледков Григорий Петрович": 966,
-      "Носкин Сергей Анатольевич": 25,
-      "Попов Сергей Владимирович": 45,
-      "Садовников Денис Владимирович": 319,
-      "Ушаков Михаил Александрович": 37
+      "gas:candidate-vibid:2892000452930": 50,
+      "gas:candidate-vibid:2892000451172": 94,
+      "gas:candidate-vibid:2892000452753": 84,
+      "gas:candidate-vibid:2892000452470": 966,
+      "gas:candidate-vibid:2892000452531": 25,
+      "gas:candidate-vibid:2892000452264": 45,
+      "gas:candidate-vibid:2892000452049": 319,
+      "gas:candidate-vibid:2892000417561": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 46,
-      "Карпиков Максим Георгиевич": 82,
-      "Колесников Алексей Юрьевич": 95,
-      "Ледков Григорий Петрович": 508,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 49,
-      "Садовников Денис Владимирович": 364,
-      "Ушаков Михаил Александрович": 50
+      "gas:candidate-vibid:2892000452930": 46,
+      "gas:candidate-vibid:2892000451172": 82,
+      "gas:candidate-vibid:2892000452753": 95,
+      "gas:candidate-vibid:2892000452470": 508,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 49,
+      "gas:candidate-vibid:2892000452049": 364,
+      "gas:candidate-vibid:2892000417561": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 27,
-      "Карпиков Максим Георгиевич": 86,
-      "Колесников Алексей Юрьевич": 86,
-      "Ледков Григорий Петрович": 926,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 40,
-      "Садовников Денис Владимирович": 405,
-      "Ушаков Михаил Александрович": 33
+      "gas:candidate-vibid:2892000452930": 27,
+      "gas:candidate-vibid:2892000451172": 86,
+      "gas:candidate-vibid:2892000452753": 86,
+      "gas:candidate-vibid:2892000452470": 926,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 40,
+      "gas:candidate-vibid:2892000452049": 405,
+      "gas:candidate-vibid:2892000417561": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 29,
-      "Карпиков Максим Георгиевич": 76,
-      "Колесников Алексей Юрьевич": 44,
-      "Ледков Григорий Петрович": 1180,
-      "Носкин Сергей Анатольевич": 18,
-      "Попов Сергей Владимирович": 42,
-      "Садовников Денис Владимирович": 262,
-      "Ушаков Михаил Александрович": 27
+      "gas:candidate-vibid:2892000452930": 29,
+      "gas:candidate-vibid:2892000451172": 76,
+      "gas:candidate-vibid:2892000452753": 44,
+      "gas:candidate-vibid:2892000452470": 1180,
+      "gas:candidate-vibid:2892000452531": 18,
+      "gas:candidate-vibid:2892000452264": 42,
+      "gas:candidate-vibid:2892000452049": 262,
+      "gas:candidate-vibid:2892000417561": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 32,
-      "Карпиков Максим Георгиевич": 80,
-      "Колесников Алексей Юрьевич": 64,
-      "Ледков Григорий Петрович": 838,
-      "Носкин Сергей Анатольевич": 31,
-      "Попов Сергей Владимирович": 51,
-      "Садовников Денис Владимирович": 499,
-      "Ушаков Михаил Александрович": 24
+      "gas:candidate-vibid:2892000452930": 32,
+      "gas:candidate-vibid:2892000451172": 80,
+      "gas:candidate-vibid:2892000452753": 64,
+      "gas:candidate-vibid:2892000452470": 838,
+      "gas:candidate-vibid:2892000452531": 31,
+      "gas:candidate-vibid:2892000452264": 51,
+      "gas:candidate-vibid:2892000452049": 499,
+      "gas:candidate-vibid:2892000417561": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 42,
-      "Карпиков Максим Георгиевич": 64,
-      "Колесников Алексей Юрьевич": 61,
-      "Ледков Григорий Петрович": 949,
-      "Носкин Сергей Анатольевич": 28,
-      "Попов Сергей Владимирович": 58,
-      "Садовников Денис Владимирович": 389,
-      "Ушаков Михаил Александрович": 38
+      "gas:candidate-vibid:2892000452930": 42,
+      "gas:candidate-vibid:2892000451172": 64,
+      "gas:candidate-vibid:2892000452753": 61,
+      "gas:candidate-vibid:2892000452470": 949,
+      "gas:candidate-vibid:2892000452531": 28,
+      "gas:candidate-vibid:2892000452264": 58,
+      "gas:candidate-vibid:2892000452049": 389,
+      "gas:candidate-vibid:2892000417561": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414377&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414377&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 1,
-      "Карпиков Максим Георгиевич": 16,
-      "Колесников Алексей Юрьевич": 1,
-      "Ледков Григорий Петрович": 1057,
-      "Носкин Сергей Анатольевич": 2,
-      "Попов Сергей Владимирович": 16,
-      "Садовников Денис Владимирович": 27,
-      "Ушаков Михаил Александрович": 3
+      "gas:candidate-vibid:2892000452930": 1,
+      "gas:candidate-vibid:2892000451172": 16,
+      "gas:candidate-vibid:2892000452753": 1,
+      "gas:candidate-vibid:2892000452470": 1057,
+      "gas:candidate-vibid:2892000452531": 2,
+      "gas:candidate-vibid:2892000452264": 16,
+      "gas:candidate-vibid:2892000452049": 27,
+      "gas:candidate-vibid:2892000417561": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 27,
-      "Карпиков Максим Георгиевич": 130,
-      "Колесников Алексей Юрьевич": 27,
-      "Ледков Григорий Петрович": 1457,
-      "Носкин Сергей Анатольевич": 33,
-      "Попов Сергей Владимирович": 125,
-      "Садовников Денис Владимирович": 141,
-      "Ушаков Михаил Александрович": 25
+      "gas:candidate-vibid:2892000452930": 27,
+      "gas:candidate-vibid:2892000451172": 130,
+      "gas:candidate-vibid:2892000452753": 27,
+      "gas:candidate-vibid:2892000452470": 1457,
+      "gas:candidate-vibid:2892000452531": 33,
+      "gas:candidate-vibid:2892000452264": 125,
+      "gas:candidate-vibid:2892000452049": 141,
+      "gas:candidate-vibid:2892000417561": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 29,
-      "Карпиков Максим Георгиевич": 130,
-      "Колесников Алексей Юрьевич": 22,
-      "Ледков Григорий Петрович": 1272,
-      "Носкин Сергей Анатольевич": 21,
-      "Попов Сергей Владимирович": 115,
-      "Садовников Денис Владимирович": 144,
-      "Ушаков Михаил Александрович": 37
+      "gas:candidate-vibid:2892000452930": 29,
+      "gas:candidate-vibid:2892000451172": 130,
+      "gas:candidate-vibid:2892000452753": 22,
+      "gas:candidate-vibid:2892000452470": 1272,
+      "gas:candidate-vibid:2892000452531": 21,
+      "gas:candidate-vibid:2892000452264": 115,
+      "gas:candidate-vibid:2892000452049": 144,
+      "gas:candidate-vibid:2892000417561": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 17,
-      "Карпиков Максим Георгиевич": 94,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 1140,
-      "Носкин Сергей Анатольевич": 19,
-      "Попов Сергей Владимирович": 96,
-      "Садовников Денис Владимирович": 111,
-      "Ушаков Михаил Александрович": 26
+      "gas:candidate-vibid:2892000452930": 17,
+      "gas:candidate-vibid:2892000451172": 94,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 1140,
+      "gas:candidate-vibid:2892000452531": 19,
+      "gas:candidate-vibid:2892000452264": 96,
+      "gas:candidate-vibid:2892000452049": 111,
+      "gas:candidate-vibid:2892000417561": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 11,
-      "Карпиков Максим Георгиевич": 10,
-      "Колесников Алексей Юрьевич": 18,
-      "Ледков Григорий Петрович": 145,
-      "Носкин Сергей Анатольевич": 6,
-      "Попов Сергей Владимирович": 4,
-      "Садовников Денис Владимирович": 22,
-      "Ушаков Михаил Александрович": 7
+      "gas:candidate-vibid:2892000452930": 11,
+      "gas:candidate-vibid:2892000451172": 10,
+      "gas:candidate-vibid:2892000452753": 18,
+      "gas:candidate-vibid:2892000452470": 145,
+      "gas:candidate-vibid:2892000452531": 6,
+      "gas:candidate-vibid:2892000452264": 4,
+      "gas:candidate-vibid:2892000452049": 22,
+      "gas:candidate-vibid:2892000417561": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 1,
-      "Карпиков Максим Георгиевич": 1,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 296,
-      "Носкин Сергей Анатольевич": 1,
-      "Попов Сергей Владимирович": 8,
-      "Садовников Денис Владимирович": 33,
-      "Ушаков Михаил Александрович": 1
+      "gas:candidate-vibid:2892000452930": 1,
+      "gas:candidate-vibid:2892000451172": 1,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 296,
+      "gas:candidate-vibid:2892000452531": 1,
+      "gas:candidate-vibid:2892000452264": 8,
+      "gas:candidate-vibid:2892000452049": 33,
+      "gas:candidate-vibid:2892000417561": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 40,
-      "Колесников Алексей Юрьевич": 61,
-      "Ледков Григорий Петрович": 348,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 20,
-      "Садовников Денис Владимирович": 64,
-      "Ушаков Михаил Александрович": 21
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 40,
+      "gas:candidate-vibid:2892000452753": 61,
+      "gas:candidate-vibid:2892000452470": 348,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 20,
+      "gas:candidate-vibid:2892000452049": 64,
+      "gas:candidate-vibid:2892000417561": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 4,
-      "Карпиков Максим Георгиевич": 81,
-      "Колесников Алексей Юрьевич": 99,
-      "Ледков Григорий Петрович": 1236,
-      "Носкин Сергей Анатольевич": 6,
-      "Попов Сергей Владимирович": 65,
-      "Садовников Денис Владимирович": 130,
-      "Ушаков Михаил Александрович": 5
+      "gas:candidate-vibid:2892000452930": 4,
+      "gas:candidate-vibid:2892000451172": 81,
+      "gas:candidate-vibid:2892000452753": 99,
+      "gas:candidate-vibid:2892000452470": 1236,
+      "gas:candidate-vibid:2892000452531": 6,
+      "gas:candidate-vibid:2892000452264": 65,
+      "gas:candidate-vibid:2892000452049": 130,
+      "gas:candidate-vibid:2892000417561": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 39,
-      "Карпиков Максим Георгиевич": 145,
-      "Колесников Алексей Юрьевич": 33,
-      "Ледков Григорий Петрович": 1838,
-      "Носкин Сергей Анатольевич": 37,
-      "Попов Сергей Владимирович": 103,
-      "Садовников Денис Владимирович": 233,
-      "Ушаков Михаил Александрович": 62
+      "gas:candidate-vibid:2892000452930": 39,
+      "gas:candidate-vibid:2892000451172": 145,
+      "gas:candidate-vibid:2892000452753": 33,
+      "gas:candidate-vibid:2892000452470": 1838,
+      "gas:candidate-vibid:2892000452531": 37,
+      "gas:candidate-vibid:2892000452264": 103,
+      "gas:candidate-vibid:2892000452049": 233,
+      "gas:candidate-vibid:2892000417561": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 26,
-      "Карпиков Максим Георгиевич": 121,
-      "Колесников Алексей Юрьевич": 29,
-      "Ледков Григорий Петрович": 1668,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 102,
-      "Садовников Денис Владимирович": 219,
-      "Ушаков Михаил Александрович": 36
+      "gas:candidate-vibid:2892000452930": 26,
+      "gas:candidate-vibid:2892000451172": 121,
+      "gas:candidate-vibid:2892000452753": 29,
+      "gas:candidate-vibid:2892000452470": 1668,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 102,
+      "gas:candidate-vibid:2892000452049": 219,
+      "gas:candidate-vibid:2892000417561": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 25,
-      "Карпиков Максим Георгиевич": 105,
-      "Колесников Алексей Юрьевич": 24,
-      "Ледков Григорий Петрович": 1469,
-      "Носкин Сергей Анатольевич": 27,
-      "Попов Сергей Владимирович": 94,
-      "Садовников Денис Владимирович": 190,
-      "Ушаков Михаил Александрович": 21
+      "gas:candidate-vibid:2892000452930": 25,
+      "gas:candidate-vibid:2892000451172": 105,
+      "gas:candidate-vibid:2892000452753": 24,
+      "gas:candidate-vibid:2892000452470": 1469,
+      "gas:candidate-vibid:2892000452531": 27,
+      "gas:candidate-vibid:2892000452264": 94,
+      "gas:candidate-vibid:2892000452049": 190,
+      "gas:candidate-vibid:2892000417561": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 24,
-      "Карпиков Максим Георгиевич": 120,
-      "Колесников Алексей Юрьевич": 29,
-      "Ледков Григорий Петрович": 1468,
-      "Носкин Сергей Анатольевич": 31,
-      "Попов Сергей Владимирович": 95,
-      "Садовников Денис Владимирович": 199,
-      "Ушаков Михаил Александрович": 30
+      "gas:candidate-vibid:2892000452930": 24,
+      "gas:candidate-vibid:2892000451172": 120,
+      "gas:candidate-vibid:2892000452753": 29,
+      "gas:candidate-vibid:2892000452470": 1468,
+      "gas:candidate-vibid:2892000452531": 31,
+      "gas:candidate-vibid:2892000452264": 95,
+      "gas:candidate-vibid:2892000452049": 199,
+      "gas:candidate-vibid:2892000417561": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 17,
-      "Карпиков Максим Георгиевич": 72,
-      "Колесников Алексей Юрьевич": 17,
-      "Ледков Григорий Петрович": 1008,
-      "Носкин Сергей Анатольевич": 18,
-      "Попов Сергей Владимирович": 63,
-      "Садовников Денис Владимирович": 130,
-      "Ушаков Михаил Александрович": 20
+      "gas:candidate-vibid:2892000452930": 17,
+      "gas:candidate-vibid:2892000451172": 72,
+      "gas:candidate-vibid:2892000452753": 17,
+      "gas:candidate-vibid:2892000452470": 1008,
+      "gas:candidate-vibid:2892000452531": 18,
+      "gas:candidate-vibid:2892000452264": 63,
+      "gas:candidate-vibid:2892000452049": 130,
+      "gas:candidate-vibid:2892000417561": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 16,
-      "Карпиков Максим Георгиевич": 50,
-      "Колесников Алексей Юрьевич": 16,
-      "Ледков Григорий Петрович": 1005,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 49,
-      "Садовников Денис Владимирович": 93,
-      "Ушаков Михаил Александрович": 7
+      "gas:candidate-vibid:2892000452930": 16,
+      "gas:candidate-vibid:2892000451172": 50,
+      "gas:candidate-vibid:2892000452753": 16,
+      "gas:candidate-vibid:2892000452470": 1005,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 49,
+      "gas:candidate-vibid:2892000452049": 93,
+      "gas:candidate-vibid:2892000417561": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 106,
-      "Колесников Алексей Юрьевич": 17,
-      "Ледков Григорий Петрович": 1434,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 91,
-      "Садовников Денис Владимирович": 128,
-      "Ушаков Михаил Александрович": 26
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 106,
+      "gas:candidate-vibid:2892000452753": 17,
+      "gas:candidate-vibid:2892000452470": 1434,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 91,
+      "gas:candidate-vibid:2892000452049": 128,
+      "gas:candidate-vibid:2892000417561": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 39,
-      "Карпиков Максим Георгиевич": 87,
-      "Колесников Алексей Юрьевич": 41,
-      "Ледков Григорий Петрович": 1117,
-      "Носкин Сергей Анатольевич": 43,
-      "Попов Сергей Владимирович": 81,
-      "Садовников Денис Владимирович": 82,
-      "Ушаков Михаил Александрович": 79
+      "gas:candidate-vibid:2892000452930": 39,
+      "gas:candidate-vibid:2892000451172": 87,
+      "gas:candidate-vibid:2892000452753": 41,
+      "gas:candidate-vibid:2892000452470": 1117,
+      "gas:candidate-vibid:2892000452531": 43,
+      "gas:candidate-vibid:2892000452264": 81,
+      "gas:candidate-vibid:2892000452049": 82,
+      "gas:candidate-vibid:2892000417561": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 12,
-      "Карпиков Максим Георгиевич": 55,
-      "Колесников Алексей Юрьевич": 12,
-      "Ледков Григорий Петрович": 1002,
-      "Носкин Сергей Анатольевич": 8,
-      "Попов Сергей Владимирович": 24,
-      "Садовников Денис Владимирович": 99,
-      "Ушаков Михаил Александрович": 12
+      "gas:candidate-vibid:2892000452930": 12,
+      "gas:candidate-vibid:2892000451172": 55,
+      "gas:candidate-vibid:2892000452753": 12,
+      "gas:candidate-vibid:2892000452470": 1002,
+      "gas:candidate-vibid:2892000452531": 8,
+      "gas:candidate-vibid:2892000452264": 24,
+      "gas:candidate-vibid:2892000452049": 99,
+      "gas:candidate-vibid:2892000417561": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 7,
-      "Карпиков Максим Георгиевич": 55,
-      "Колесников Алексей Юрьевич": 9,
-      "Ледков Григорий Петрович": 1420,
-      "Носкин Сергей Анатольевич": 11,
-      "Попов Сергей Владимирович": 49,
-      "Садовников Денис Владимирович": 50,
-      "Ушаков Михаил Александрович": 12
+      "gas:candidate-vibid:2892000452930": 7,
+      "gas:candidate-vibid:2892000451172": 55,
+      "gas:candidate-vibid:2892000452753": 9,
+      "gas:candidate-vibid:2892000452470": 1420,
+      "gas:candidate-vibid:2892000452531": 11,
+      "gas:candidate-vibid:2892000452264": 49,
+      "gas:candidate-vibid:2892000452049": 50,
+      "gas:candidate-vibid:2892000417561": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 1,
-      "Карпиков Максим Георгиевич": 2,
-      "Колесников Алексей Юрьевич": 1,
-      "Ледков Григорий Петрович": 271,
-      "Носкин Сергей Анатольевич": 1,
-      "Попов Сергей Владимирович": 3,
-      "Садовников Денис Владимирович": 4,
-      "Ушаков Михаил Александрович": 1
+      "gas:candidate-vibid:2892000452930": 1,
+      "gas:candidate-vibid:2892000451172": 2,
+      "gas:candidate-vibid:2892000452753": 1,
+      "gas:candidate-vibid:2892000452470": 271,
+      "gas:candidate-vibid:2892000452531": 1,
+      "gas:candidate-vibid:2892000452264": 3,
+      "gas:candidate-vibid:2892000452049": 4,
+      "gas:candidate-vibid:2892000417561": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 1,
-      "Карпиков Максим Георгиевич": 1,
-      "Колесников Алексей Юрьевич": 1,
-      "Ледков Григорий Петрович": 465,
-      "Носкин Сергей Анатольевич": 1,
-      "Попов Сергей Владимирович": 2,
-      "Садовников Денис Владимирович": 6,
-      "Ушаков Михаил Александрович": 1
+      "gas:candidate-vibid:2892000452930": 1,
+      "gas:candidate-vibid:2892000451172": 1,
+      "gas:candidate-vibid:2892000452753": 1,
+      "gas:candidate-vibid:2892000452470": 465,
+      "gas:candidate-vibid:2892000452531": 1,
+      "gas:candidate-vibid:2892000452264": 2,
+      "gas:candidate-vibid:2892000452049": 6,
+      "gas:candidate-vibid:2892000417561": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414378&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414378&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 13,
-      "Карпиков Максим Георгиевич": 40,
-      "Колесников Алексей Юрьевич": 13,
-      "Ледков Григорий Петрович": 301,
-      "Носкин Сергей Анатольевич": 19,
-      "Попов Сергей Владимирович": 25,
-      "Садовников Денис Владимирович": 47,
-      "Ушаков Михаил Александрович": 22
+      "gas:candidate-vibid:2892000452930": 13,
+      "gas:candidate-vibid:2892000451172": 40,
+      "gas:candidate-vibid:2892000452753": 13,
+      "gas:candidate-vibid:2892000452470": 301,
+      "gas:candidate-vibid:2892000452531": 19,
+      "gas:candidate-vibid:2892000452264": 25,
+      "gas:candidate-vibid:2892000452049": 47,
+      "gas:candidate-vibid:2892000417561": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 46,
-      "Колесников Алексей Юрьевич": 11,
-      "Ледков Григорий Петрович": 1053,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 23,
-      "Ушаков Михаил Александрович": 12
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 46,
+      "gas:candidate-vibid:2892000452753": 11,
+      "gas:candidate-vibid:2892000452470": 1053,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 23,
+      "gas:candidate-vibid:2892000417561": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 26,
-      "Карпиков Максим Георгиевич": 54,
-      "Колесников Алексей Юрьевич": 25,
-      "Ледков Григорий Петрович": 1026,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 34,
-      "Садовников Денис Владимирович": 95,
-      "Ушаков Михаил Александрович": 45
+      "gas:candidate-vibid:2892000452930": 26,
+      "gas:candidate-vibid:2892000451172": 54,
+      "gas:candidate-vibid:2892000452753": 25,
+      "gas:candidate-vibid:2892000452470": 1026,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 34,
+      "gas:candidate-vibid:2892000452049": 95,
+      "gas:candidate-vibid:2892000417561": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 16,
-      "Карпиков Максим Георгиевич": 42,
-      "Колесников Алексей Юрьевич": 22,
-      "Ледков Григорий Петрович": 1043,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 28,
-      "Садовников Денис Владимирович": 113,
-      "Ушаков Михаил Александрович": 60
+      "gas:candidate-vibid:2892000452930": 16,
+      "gas:candidate-vibid:2892000451172": 42,
+      "gas:candidate-vibid:2892000452753": 22,
+      "gas:candidate-vibid:2892000452470": 1043,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 28,
+      "gas:candidate-vibid:2892000452049": 113,
+      "gas:candidate-vibid:2892000417561": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 26,
-      "Карпиков Максим Георгиевич": 48,
-      "Колесников Алексей Юрьевич": 17,
-      "Ледков Григорий Петрович": 932,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 31,
-      "Садовников Денис Владимирович": 24,
-      "Ушаков Михаил Александрович": 27
+      "gas:candidate-vibid:2892000452930": 26,
+      "gas:candidate-vibid:2892000451172": 48,
+      "gas:candidate-vibid:2892000452753": 17,
+      "gas:candidate-vibid:2892000452470": 932,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 31,
+      "gas:candidate-vibid:2892000452049": 24,
+      "gas:candidate-vibid:2892000417561": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 6,
-      "Карпиков Максим Георгиевич": 10,
-      "Колесников Алексей Юрьевич": 10,
-      "Ледков Григорий Петрович": 221,
-      "Носкин Сергей Анатольевич": 0,
-      "Попов Сергей Владимирович": 0,
-      "Садовников Денис Владимирович": 1,
-      "Ушаков Михаил Александрович": 0
+      "gas:candidate-vibid:2892000452930": 6,
+      "gas:candidate-vibid:2892000451172": 10,
+      "gas:candidate-vibid:2892000452753": 10,
+      "gas:candidate-vibid:2892000452470": 221,
+      "gas:candidate-vibid:2892000452531": 0,
+      "gas:candidate-vibid:2892000452264": 0,
+      "gas:candidate-vibid:2892000452049": 1,
+      "gas:candidate-vibid:2892000417561": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 15,
-      "Карпиков Максим Георгиевич": 29,
-      "Колесников Алексей Юрьевич": 16,
-      "Ледков Григорий Петрович": 773,
-      "Носкин Сергей Анатольевич": 13,
-      "Попов Сергей Владимирович": 14,
-      "Садовников Денис Владимирович": 38,
-      "Ушаков Михаил Александрович": 22
+      "gas:candidate-vibid:2892000452930": 15,
+      "gas:candidate-vibid:2892000451172": 29,
+      "gas:candidate-vibid:2892000452753": 16,
+      "gas:candidate-vibid:2892000452470": 773,
+      "gas:candidate-vibid:2892000452531": 13,
+      "gas:candidate-vibid:2892000452264": 14,
+      "gas:candidate-vibid:2892000452049": 38,
+      "gas:candidate-vibid:2892000417561": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 9,
-      "Карпиков Максим Георгиевич": 41,
-      "Колесников Алексей Юрьевич": 20,
-      "Ледков Григорий Петрович": 721,
-      "Носкин Сергей Анатольевич": 18,
-      "Попов Сергей Владимирович": 44,
-      "Садовников Денис Владимирович": 48,
-      "Ушаков Михаил Александрович": 33
+      "gas:candidate-vibid:2892000452930": 9,
+      "gas:candidate-vibid:2892000451172": 41,
+      "gas:candidate-vibid:2892000452753": 20,
+      "gas:candidate-vibid:2892000452470": 721,
+      "gas:candidate-vibid:2892000452531": 18,
+      "gas:candidate-vibid:2892000452264": 44,
+      "gas:candidate-vibid:2892000452049": 48,
+      "gas:candidate-vibid:2892000417561": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 22,
-      "Карпиков Максим Георгиевич": 43,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 1029,
-      "Носкин Сергей Анатольевич": 44,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 55,
-      "Ушаков Михаил Александрович": 75
+      "gas:candidate-vibid:2892000452930": 22,
+      "gas:candidate-vibid:2892000451172": 43,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 1029,
+      "gas:candidate-vibid:2892000452531": 44,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 55,
+      "gas:candidate-vibid:2892000417561": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 8,
-      "Карпиков Максим Георгиевич": 0,
-      "Колесников Алексей Юрьевич": 5,
-      "Ледков Григорий Петрович": 247,
-      "Носкин Сергей Анатольевич": 10,
-      "Попов Сергей Владимирович": 11,
-      "Садовников Денис Владимирович": 19,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 8,
+      "gas:candidate-vibid:2892000451172": 0,
+      "gas:candidate-vibid:2892000452753": 5,
+      "gas:candidate-vibid:2892000452470": 247,
+      "gas:candidate-vibid:2892000452531": 10,
+      "gas:candidate-vibid:2892000452264": 11,
+      "gas:candidate-vibid:2892000452049": 19,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 17,
-      "Карпиков Максим Георгиевич": 6,
-      "Колесников Алексей Юрьевич": 0,
-      "Ледков Григорий Петрович": 466,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 51,
-      "Ушаков Михаил Александрович": 5
+      "gas:candidate-vibid:2892000452930": 17,
+      "gas:candidate-vibid:2892000451172": 6,
+      "gas:candidate-vibid:2892000452753": 0,
+      "gas:candidate-vibid:2892000452470": 466,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 51,
+      "gas:candidate-vibid:2892000417561": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 5,
-      "Карпиков Максим Георгиевич": 14,
-      "Колесников Алексей Юрьевич": 29,
-      "Ледков Григорий Петрович": 458,
-      "Носкин Сергей Анатольевич": 3,
-      "Попов Сергей Владимирович": 51,
-      "Садовников Денис Владимирович": 43,
-      "Ушаков Михаил Александрович": 0
+      "gas:candidate-vibid:2892000452930": 5,
+      "gas:candidate-vibid:2892000451172": 14,
+      "gas:candidate-vibid:2892000452753": 29,
+      "gas:candidate-vibid:2892000452470": 458,
+      "gas:candidate-vibid:2892000452531": 3,
+      "gas:candidate-vibid:2892000452264": 51,
+      "gas:candidate-vibid:2892000452049": 43,
+      "gas:candidate-vibid:2892000417561": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414379&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414379&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 32,
-      "Карпиков Максим Георгиевич": 71,
-      "Колесников Алексей Юрьевич": 168,
-      "Ледков Григорий Петрович": 504,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 55,
-      "Садовников Денис Владимирович": 212,
-      "Ушаков Михаил Александрович": 29
+      "gas:candidate-vibid:2892000452930": 32,
+      "gas:candidate-vibid:2892000451172": 71,
+      "gas:candidate-vibid:2892000452753": 168,
+      "gas:candidate-vibid:2892000452470": 504,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 55,
+      "gas:candidate-vibid:2892000452049": 212,
+      "gas:candidate-vibid:2892000417561": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 45,
-      "Карпиков Максим Георгиевич": 79,
-      "Колесников Алексей Юрьевич": 185,
-      "Ледков Григорий Петрович": 1060,
-      "Носкин Сергей Анатольевич": 35,
-      "Попов Сергей Владимирович": 70,
-      "Садовников Денис Владимирович": 157,
-      "Ушаков Михаил Александрович": 52
+      "gas:candidate-vibid:2892000452930": 45,
+      "gas:candidate-vibid:2892000451172": 79,
+      "gas:candidate-vibid:2892000452753": 185,
+      "gas:candidate-vibid:2892000452470": 1060,
+      "gas:candidate-vibid:2892000452531": 35,
+      "gas:candidate-vibid:2892000452264": 70,
+      "gas:candidate-vibid:2892000452049": 157,
+      "gas:candidate-vibid:2892000417561": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 13,
-      "Карпиков Максим Георгиевич": 52,
-      "Колесников Алексей Юрьевич": 121,
-      "Ледков Григорий Петрович": 535,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 39,
-      "Садовников Денис Владимирович": 137,
-      "Ушаков Михаил Александрович": 20
+      "gas:candidate-vibid:2892000452930": 13,
+      "gas:candidate-vibid:2892000451172": 52,
+      "gas:candidate-vibid:2892000452753": 121,
+      "gas:candidate-vibid:2892000452470": 535,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 39,
+      "gas:candidate-vibid:2892000452049": 137,
+      "gas:candidate-vibid:2892000417561": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 11,
-      "Карпиков Максим Георгиевич": 17,
-      "Колесников Алексей Юрьевич": 68,
-      "Ледков Григорий Петрович": 496,
-      "Носкин Сергей Анатольевич": 11,
-      "Попов Сергей Владимирович": 22,
-      "Садовников Денис Владимирович": 84,
-      "Ушаков Михаил Александрович": 18
+      "gas:candidate-vibid:2892000452930": 11,
+      "gas:candidate-vibid:2892000451172": 17,
+      "gas:candidate-vibid:2892000452753": 68,
+      "gas:candidate-vibid:2892000452470": 496,
+      "gas:candidate-vibid:2892000452531": 11,
+      "gas:candidate-vibid:2892000452264": 22,
+      "gas:candidate-vibid:2892000452049": 84,
+      "gas:candidate-vibid:2892000417561": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 29,
-      "Карпиков Максим Георгиевич": 46,
-      "Колесников Алексей Юрьевич": 88,
-      "Ледков Григорий Петрович": 767,
-      "Носкин Сергей Анатольевич": 14,
-      "Попов Сергей Владимирович": 38,
-      "Садовников Денис Владимирович": 53,
-      "Ушаков Михаил Александрович": 31
+      "gas:candidate-vibid:2892000452930": 29,
+      "gas:candidate-vibid:2892000451172": 46,
+      "gas:candidate-vibid:2892000452753": 88,
+      "gas:candidate-vibid:2892000452470": 767,
+      "gas:candidate-vibid:2892000452531": 14,
+      "gas:candidate-vibid:2892000452264": 38,
+      "gas:candidate-vibid:2892000452049": 53,
+      "gas:candidate-vibid:2892000417561": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 25,
-      "Карпиков Максим Георгиевич": 53,
-      "Колесников Алексей Юрьевич": 106,
-      "Ледков Григорий Петрович": 733,
-      "Носкин Сергей Анатольевич": 17,
-      "Попов Сергей Владимирович": 41,
-      "Садовников Денис Владимирович": 145,
-      "Ушаков Михаил Александрович": 28
+      "gas:candidate-vibid:2892000452930": 25,
+      "gas:candidate-vibid:2892000451172": 53,
+      "gas:candidate-vibid:2892000452753": 106,
+      "gas:candidate-vibid:2892000452470": 733,
+      "gas:candidate-vibid:2892000452531": 17,
+      "gas:candidate-vibid:2892000452264": 41,
+      "gas:candidate-vibid:2892000452049": 145,
+      "gas:candidate-vibid:2892000417561": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 29,
-      "Карпиков Максим Георгиевич": 55,
-      "Колесников Алексей Юрьевич": 167,
-      "Ледков Григорий Петрович": 480,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 56,
-      "Садовников Денис Владимирович": 161,
-      "Ушаков Михаил Александрович": 33
+      "gas:candidate-vibid:2892000452930": 29,
+      "gas:candidate-vibid:2892000451172": 55,
+      "gas:candidate-vibid:2892000452753": 167,
+      "gas:candidate-vibid:2892000452470": 480,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 56,
+      "gas:candidate-vibid:2892000452049": 161,
+      "gas:candidate-vibid:2892000417561": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 25,
-      "Карпиков Максим Георгиевич": 17,
-      "Колесников Алексей Юрьевич": 39,
-      "Ледков Григорий Петрович": 746,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 18,
-      "Садовников Денис Владимирович": 122,
-      "Ушаков Михаил Александрович": 36
+      "gas:candidate-vibid:2892000452930": 25,
+      "gas:candidate-vibid:2892000451172": 17,
+      "gas:candidate-vibid:2892000452753": 39,
+      "gas:candidate-vibid:2892000452470": 746,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 18,
+      "gas:candidate-vibid:2892000452049": 122,
+      "gas:candidate-vibid:2892000417561": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 34,
-      "Карпиков Максим Георгиевич": 54,
-      "Колесников Алексей Юрьевич": 140,
-      "Ледков Григорий Петрович": 953,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 43,
-      "Садовников Денис Владимирович": 161,
-      "Ушаков Михаил Александрович": 31
+      "gas:candidate-vibid:2892000452930": 34,
+      "gas:candidate-vibid:2892000451172": 54,
+      "gas:candidate-vibid:2892000452753": 140,
+      "gas:candidate-vibid:2892000452470": 953,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 43,
+      "gas:candidate-vibid:2892000452049": 161,
+      "gas:candidate-vibid:2892000417561": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414380&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414380&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 22,
-      "Карпиков Максим Георгиевич": 40,
-      "Колесников Алексей Юрьевич": 17,
-      "Ледков Григорий Петрович": 1368,
-      "Носкин Сергей Анатольевич": 16,
-      "Попов Сергей Владимирович": 30,
-      "Садовников Денис Владимирович": 79,
-      "Ушаков Михаил Александрович": 4
+      "gas:candidate-vibid:2892000452930": 22,
+      "gas:candidate-vibid:2892000451172": 40,
+      "gas:candidate-vibid:2892000452753": 17,
+      "gas:candidate-vibid:2892000452470": 1368,
+      "gas:candidate-vibid:2892000452531": 16,
+      "gas:candidate-vibid:2892000452264": 30,
+      "gas:candidate-vibid:2892000452049": 79,
+      "gas:candidate-vibid:2892000417561": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414381&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414381&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 12,
-      "Карпиков Максим Георгиевич": 31,
-      "Колесников Алексей Юрьевич": 16,
-      "Ледков Григорий Петрович": 991,
-      "Носкин Сергей Анатольевич": 12,
-      "Попов Сергей Владимирович": 25,
-      "Садовников Денис Владимирович": 63,
-      "Ушаков Михаил Александрович": 8
+      "gas:candidate-vibid:2892000452930": 12,
+      "gas:candidate-vibid:2892000451172": 31,
+      "gas:candidate-vibid:2892000452753": 16,
+      "gas:candidate-vibid:2892000452470": 991,
+      "gas:candidate-vibid:2892000452531": 12,
+      "gas:candidate-vibid:2892000452264": 25,
+      "gas:candidate-vibid:2892000452049": 63,
+      "gas:candidate-vibid:2892000417561": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414381&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414381&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 27,
-      "Колесников Алексей Юрьевич": 24,
-      "Ледков Григорий Петрович": 1067,
-      "Носкин Сергей Анатольевич": 2,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 70,
-      "Ушаков Михаил Александрович": 3
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 27,
+      "gas:candidate-vibid:2892000452753": 24,
+      "gas:candidate-vibid:2892000452470": 1067,
+      "gas:candidate-vibid:2892000452531": 2,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 70,
+      "gas:candidate-vibid:2892000417561": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414381&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414381&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 5,
-      "Карпиков Максим Георгиевич": 4,
-      "Колесников Алексей Юрьевич": 3,
-      "Ледков Григорий Петрович": 129,
-      "Носкин Сергей Анатольевич": 2,
-      "Попов Сергей Владимирович": 4,
-      "Садовников Денис Владимирович": 4,
-      "Ушаков Михаил Александрович": 3
+      "gas:candidate-vibid:2892000452930": 5,
+      "gas:candidate-vibid:2892000451172": 4,
+      "gas:candidate-vibid:2892000452753": 3,
+      "gas:candidate-vibid:2892000452470": 129,
+      "gas:candidate-vibid:2892000452531": 2,
+      "gas:candidate-vibid:2892000452264": 4,
+      "gas:candidate-vibid:2892000452049": 4,
+      "gas:candidate-vibid:2892000417561": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414381&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414381&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 19,
-      "Карпиков Максим Георгиевич": 15,
-      "Колесников Алексей Юрьевич": 23,
-      "Ледков Григорий Петрович": 789,
-      "Носкин Сергей Анатольевич": 13,
-      "Попов Сергей Владимирович": 16,
-      "Садовников Денис Владимирович": 111,
-      "Ушаков Михаил Александрович": 16
+      "gas:candidate-vibid:2892000452930": 19,
+      "gas:candidate-vibid:2892000451172": 15,
+      "gas:candidate-vibid:2892000452753": 23,
+      "gas:candidate-vibid:2892000452470": 789,
+      "gas:candidate-vibid:2892000452531": 13,
+      "gas:candidate-vibid:2892000452264": 16,
+      "gas:candidate-vibid:2892000452049": 111,
+      "gas:candidate-vibid:2892000417561": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 11,
-      "Карпиков Максим Георгиевич": 22,
-      "Колесников Алексей Юрьевич": 18,
-      "Ледков Григорий Петрович": 511,
-      "Носкин Сергей Анатольевич": 9,
-      "Попов Сергей Владимирович": 16,
-      "Садовников Денис Владимирович": 50,
-      "Ушаков Михаил Александрович": 19
+      "gas:candidate-vibid:2892000452930": 11,
+      "gas:candidate-vibid:2892000451172": 22,
+      "gas:candidate-vibid:2892000452753": 18,
+      "gas:candidate-vibid:2892000452470": 511,
+      "gas:candidate-vibid:2892000452531": 9,
+      "gas:candidate-vibid:2892000452264": 16,
+      "gas:candidate-vibid:2892000452049": 50,
+      "gas:candidate-vibid:2892000417561": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 18,
-      "Колесников Алексей Юрьевич": 16,
-      "Ледков Григорий Петрович": 1424,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 18,
-      "Садовников Денис Владимирович": 167,
-      "Ушаков Михаил Александрович": 17
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 18,
+      "gas:candidate-vibid:2892000452753": 16,
+      "gas:candidate-vibid:2892000452470": 1424,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 18,
+      "gas:candidate-vibid:2892000452049": 167,
+      "gas:candidate-vibid:2892000417561": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 17,
-      "Колесников Алексей Юрьевич": 9,
-      "Ледков Григорий Петрович": 401,
-      "Носкин Сергей Анатольевич": 8,
-      "Попов Сергей Владимирович": 13,
-      "Садовников Денис Владимирович": 35,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 17,
+      "gas:candidate-vibid:2892000452753": 9,
+      "gas:candidate-vibid:2892000452470": 401,
+      "gas:candidate-vibid:2892000452531": 8,
+      "gas:candidate-vibid:2892000452264": 13,
+      "gas:candidate-vibid:2892000452049": 35,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 14,
-      "Карпиков Максим Георгиевич": 15,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 629,
-      "Носкин Сергей Анатольевич": 7,
-      "Попов Сергей Владимирович": 19,
-      "Садовников Денис Владимирович": 121,
-      "Ушаков Михаил Александрович": 9
+      "gas:candidate-vibid:2892000452930": 14,
+      "gas:candidate-vibid:2892000451172": 15,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 629,
+      "gas:candidate-vibid:2892000452531": 7,
+      "gas:candidate-vibid:2892000452264": 19,
+      "gas:candidate-vibid:2892000452049": 121,
+      "gas:candidate-vibid:2892000417561": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 20,
-      "Карпиков Максим Георгиевич": 8,
-      "Колесников Алексей Юрьевич": 21,
-      "Ледков Григорий Петрович": 581,
-      "Носкин Сергей Анатольевич": 6,
-      "Попов Сергей Владимирович": 13,
-      "Садовников Денис Владимирович": 10,
-      "Ушаков Михаил Александрович": 12
+      "gas:candidate-vibid:2892000452930": 20,
+      "gas:candidate-vibid:2892000451172": 8,
+      "gas:candidate-vibid:2892000452753": 21,
+      "gas:candidate-vibid:2892000452470": 581,
+      "gas:candidate-vibid:2892000452531": 6,
+      "gas:candidate-vibid:2892000452264": 13,
+      "gas:candidate-vibid:2892000452049": 10,
+      "gas:candidate-vibid:2892000417561": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 61,
-      "Карпиков Максим Георгиевич": 73,
-      "Колесников Алексей Юрьевич": 62,
-      "Ледков Григорий Петрович": 986,
-      "Носкин Сергей Анатольевич": 33,
-      "Попов Сергей Владимирович": 69,
-      "Садовников Денис Владимирович": 61,
-      "Ушаков Михаил Александрович": 34
+      "gas:candidate-vibid:2892000452930": 61,
+      "gas:candidate-vibid:2892000451172": 73,
+      "gas:candidate-vibid:2892000452753": 62,
+      "gas:candidate-vibid:2892000452470": 986,
+      "gas:candidate-vibid:2892000452531": 33,
+      "gas:candidate-vibid:2892000452264": 69,
+      "gas:candidate-vibid:2892000452049": 61,
+      "gas:candidate-vibid:2892000417561": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 41,
-      "Карпиков Максим Георгиевич": 78,
-      "Колесников Алексей Юрьевич": 103,
-      "Ледков Григорий Петрович": 1481,
-      "Носкин Сергей Анатольевич": 30,
-      "Попов Сергей Владимирович": 37,
-      "Садовников Денис Владимирович": 36,
-      "Ушаков Михаил Александрович": 32
+      "gas:candidate-vibid:2892000452930": 41,
+      "gas:candidate-vibid:2892000451172": 78,
+      "gas:candidate-vibid:2892000452753": 103,
+      "gas:candidate-vibid:2892000452470": 1481,
+      "gas:candidate-vibid:2892000452531": 30,
+      "gas:candidate-vibid:2892000452264": 37,
+      "gas:candidate-vibid:2892000452049": 36,
+      "gas:candidate-vibid:2892000417561": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 15,
-      "Карпиков Максим Георгиевич": 16,
-      "Колесников Алексей Юрьевич": 10,
-      "Ледков Григорий Петрович": 273,
-      "Носкин Сергей Анатольевич": 3,
-      "Попов Сергей Владимирович": 13,
-      "Садовников Денис Владимирович": 29,
-      "Ушаков Михаил Александрович": 5
+      "gas:candidate-vibid:2892000452930": 15,
+      "gas:candidate-vibid:2892000451172": 16,
+      "gas:candidate-vibid:2892000452753": 10,
+      "gas:candidate-vibid:2892000452470": 273,
+      "gas:candidate-vibid:2892000452531": 3,
+      "gas:candidate-vibid:2892000452264": 13,
+      "gas:candidate-vibid:2892000452049": 29,
+      "gas:candidate-vibid:2892000417561": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 3,
-      "Карпиков Максим Георгиевич": 7,
-      "Колесников Алексей Юрьевич": 4,
-      "Ледков Григорий Петрович": 61,
-      "Носкин Сергей Анатольевич": 2,
-      "Попов Сергей Владимирович": 4,
-      "Садовников Денис Владимирович": 6,
-      "Ушаков Михаил Александрович": 2
+      "gas:candidate-vibid:2892000452930": 3,
+      "gas:candidate-vibid:2892000451172": 7,
+      "gas:candidate-vibid:2892000452753": 4,
+      "gas:candidate-vibid:2892000452470": 61,
+      "gas:candidate-vibid:2892000452531": 2,
+      "gas:candidate-vibid:2892000452264": 4,
+      "gas:candidate-vibid:2892000452049": 6,
+      "gas:candidate-vibid:2892000417561": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414382&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414382&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 8,
-      "Колесников Алексей Юрьевич": 3,
-      "Ледков Григорий Петрович": 51,
-      "Носкин Сергей Анатольевич": 1,
-      "Попов Сергей Владимирович": 3,
-      "Садовников Денис Владимирович": 5,
-      "Ушаков Михаил Александрович": 2
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 8,
+      "gas:candidate-vibid:2892000452753": 3,
+      "gas:candidate-vibid:2892000452470": 51,
+      "gas:candidate-vibid:2892000452531": 1,
+      "gas:candidate-vibid:2892000452264": 3,
+      "gas:candidate-vibid:2892000452049": 5,
+      "gas:candidate-vibid:2892000417561": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 72,
-      "Карпиков Максим Георгиевич": 60,
-      "Колесников Алексей Юрьевич": 48,
-      "Ледков Григорий Петрович": 492,
-      "Носкин Сергей Анатольевич": 33,
-      "Попов Сергей Владимирович": 59,
-      "Садовников Денис Владимирович": 164,
-      "Ушаков Михаил Александрович": 59
+      "gas:candidate-vibid:2892000452930": 72,
+      "gas:candidate-vibid:2892000451172": 60,
+      "gas:candidate-vibid:2892000452753": 48,
+      "gas:candidate-vibid:2892000452470": 492,
+      "gas:candidate-vibid:2892000452531": 33,
+      "gas:candidate-vibid:2892000452264": 59,
+      "gas:candidate-vibid:2892000452049": 164,
+      "gas:candidate-vibid:2892000417561": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 176,
-      "Карпиков Максим Георгиевич": 115,
-      "Колесников Алексей Юрьевич": 55,
-      "Ледков Григорий Петрович": 739,
-      "Носкин Сергей Анатольевич": 39,
-      "Попов Сергей Владимирович": 116,
-      "Садовников Денис Владимирович": 281,
-      "Ушаков Михаил Александрович": 64
+      "gas:candidate-vibid:2892000452930": 176,
+      "gas:candidate-vibid:2892000451172": 115,
+      "gas:candidate-vibid:2892000452753": 55,
+      "gas:candidate-vibid:2892000452470": 739,
+      "gas:candidate-vibid:2892000452531": 39,
+      "gas:candidate-vibid:2892000452264": 116,
+      "gas:candidate-vibid:2892000452049": 281,
+      "gas:candidate-vibid:2892000417561": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 51,
-      "Карпиков Максим Георгиевич": 55,
-      "Колесников Алексей Юрьевич": 40,
-      "Ледков Григорий Петрович": 894,
-      "Носкин Сергей Анатольевич": 25,
-      "Попов Сергей Владимирович": 58,
-      "Садовников Денис Владимирович": 118,
-      "Ушаков Михаил Александрович": 60
+      "gas:candidate-vibid:2892000452930": 51,
+      "gas:candidate-vibid:2892000451172": 55,
+      "gas:candidate-vibid:2892000452753": 40,
+      "gas:candidate-vibid:2892000452470": 894,
+      "gas:candidate-vibid:2892000452531": 25,
+      "gas:candidate-vibid:2892000452264": 58,
+      "gas:candidate-vibid:2892000452049": 118,
+      "gas:candidate-vibid:2892000417561": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 290,
-      "Карпиков Максим Георгиевич": 36,
-      "Колесников Алексей Юрьевич": 64,
-      "Ледков Григорий Петрович": 933,
-      "Носкин Сергей Анатольевич": 99,
-      "Попов Сергей Владимирович": 71,
-      "Садовников Денис Владимирович": 45,
-      "Ушаков Михаил Александрович": 62
+      "gas:candidate-vibid:2892000452930": 290,
+      "gas:candidate-vibid:2892000451172": 36,
+      "gas:candidate-vibid:2892000452753": 64,
+      "gas:candidate-vibid:2892000452470": 933,
+      "gas:candidate-vibid:2892000452531": 99,
+      "gas:candidate-vibid:2892000452264": 71,
+      "gas:candidate-vibid:2892000452049": 45,
+      "gas:candidate-vibid:2892000417561": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 65,
-      "Карпиков Максим Георгиевич": 68,
-      "Колесников Алексей Юрьевич": 59,
-      "Ледков Григорий Петрович": 759,
-      "Носкин Сергей Анатольевич": 32,
-      "Попов Сергей Владимирович": 57,
-      "Садовников Денис Владимирович": 241,
-      "Ушаков Михаил Александрович": 76
+      "gas:candidate-vibid:2892000452930": 65,
+      "gas:candidate-vibid:2892000451172": 68,
+      "gas:candidate-vibid:2892000452753": 59,
+      "gas:candidate-vibid:2892000452470": 759,
+      "gas:candidate-vibid:2892000452531": 32,
+      "gas:candidate-vibid:2892000452264": 57,
+      "gas:candidate-vibid:2892000452049": 241,
+      "gas:candidate-vibid:2892000417561": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 12,
-      "Карпиков Максим Георгиевич": 13,
-      "Колесников Алексей Юрьевич": 18,
-      "Ледков Григорий Петрович": 84,
-      "Носкин Сергей Анатольевич": 2,
-      "Попов Сергей Владимирович": 3,
-      "Садовников Денис Владимирович": 28,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 12,
+      "gas:candidate-vibid:2892000451172": 13,
+      "gas:candidate-vibid:2892000452753": 18,
+      "gas:candidate-vibid:2892000452470": 84,
+      "gas:candidate-vibid:2892000452531": 2,
+      "gas:candidate-vibid:2892000452264": 3,
+      "gas:candidate-vibid:2892000452049": 28,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 37,
-      "Карпиков Максим Георгиевич": 35,
-      "Колесников Алексей Юрьевич": 43,
-      "Ледков Григорий Петрович": 332,
-      "Носкин Сергей Анатольевич": 13,
-      "Попов Сергей Владимирович": 36,
-      "Садовников Денис Владимирович": 106,
-      "Ушаков Михаил Александрович": 33
+      "gas:candidate-vibid:2892000452930": 37,
+      "gas:candidate-vibid:2892000451172": 35,
+      "gas:candidate-vibid:2892000452753": 43,
+      "gas:candidate-vibid:2892000452470": 332,
+      "gas:candidate-vibid:2892000452531": 13,
+      "gas:candidate-vibid:2892000452264": 36,
+      "gas:candidate-vibid:2892000452049": 106,
+      "gas:candidate-vibid:2892000417561": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 72,
-      "Карпиков Максим Георгиевич": 52,
-      "Колесников Алексей Юрьевич": 62,
-      "Ледков Григорий Петрович": 521,
-      "Носкин Сергей Анатольевич": 24,
-      "Попов Сергей Владимирович": 36,
-      "Садовников Денис Владимирович": 102,
-      "Ушаков Михаил Александрович": 30
+      "gas:candidate-vibid:2892000452930": 72,
+      "gas:candidate-vibid:2892000451172": 52,
+      "gas:candidate-vibid:2892000452753": 62,
+      "gas:candidate-vibid:2892000452470": 521,
+      "gas:candidate-vibid:2892000452531": 24,
+      "gas:candidate-vibid:2892000452264": 36,
+      "gas:candidate-vibid:2892000452049": 102,
+      "gas:candidate-vibid:2892000417561": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 75,
-      "Карпиков Максим Георгиевич": 72,
-      "Колесников Алексей Юрьевич": 66,
-      "Ледков Григорий Петрович": 1182,
-      "Носкин Сергей Анатольевич": 34,
-      "Попов Сергей Владимирович": 61,
-      "Садовников Денис Владимирович": 140,
-      "Ушаков Михаил Александрович": 59
+      "gas:candidate-vibid:2892000452930": 75,
+      "gas:candidate-vibid:2892000451172": 72,
+      "gas:candidate-vibid:2892000452753": 66,
+      "gas:candidate-vibid:2892000452470": 1182,
+      "gas:candidate-vibid:2892000452531": 34,
+      "gas:candidate-vibid:2892000452264": 61,
+      "gas:candidate-vibid:2892000452049": 140,
+      "gas:candidate-vibid:2892000417561": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 53,
-      "Карпиков Максим Георгиевич": 165,
-      "Колесников Алексей Юрьевич": 16,
-      "Ледков Григорий Петрович": 615,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 10,
-      "Садовников Денис Владимирович": 220,
-      "Ушаков Михаил Александрович": 12
+      "gas:candidate-vibid:2892000452930": 53,
+      "gas:candidate-vibid:2892000451172": 165,
+      "gas:candidate-vibid:2892000452753": 16,
+      "gas:candidate-vibid:2892000452470": 615,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 10,
+      "gas:candidate-vibid:2892000452049": 220,
+      "gas:candidate-vibid:2892000417561": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 30,
-      "Карпиков Максим Георгиевич": 42,
-      "Колесников Алексей Юрьевич": 47,
-      "Ледков Григорий Петрович": 312,
-      "Носкин Сергей Анатольевич": 8,
-      "Попов Сергей Владимирович": 17,
-      "Садовников Денис Владимирович": 74,
-      "Ушаков Михаил Александрович": 22
+      "gas:candidate-vibid:2892000452930": 30,
+      "gas:candidate-vibid:2892000451172": 42,
+      "gas:candidate-vibid:2892000452753": 47,
+      "gas:candidate-vibid:2892000452470": 312,
+      "gas:candidate-vibid:2892000452531": 8,
+      "gas:candidate-vibid:2892000452264": 17,
+      "gas:candidate-vibid:2892000452049": 74,
+      "gas:candidate-vibid:2892000417561": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 84,
-      "Карпиков Максим Георгиевич": 82,
-      "Колесников Алексей Юрьевич": 78,
-      "Ледков Григорий Петрович": 417,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 50,
-      "Садовников Денис Владимирович": 174,
-      "Ушаков Михаил Александрович": 48
+      "gas:candidate-vibid:2892000452930": 84,
+      "gas:candidate-vibid:2892000451172": 82,
+      "gas:candidate-vibid:2892000452753": 78,
+      "gas:candidate-vibid:2892000452470": 417,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 50,
+      "gas:candidate-vibid:2892000452049": 174,
+      "gas:candidate-vibid:2892000417561": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 26,
-      "Карпиков Максим Георгиевич": 34,
-      "Колесников Алексей Юрьевич": 15,
-      "Ледков Григорий Петрович": 1083,
-      "Носкин Сергей Анатольевич": 19,
-      "Попов Сергей Владимирович": 32,
-      "Садовников Денис Владимирович": 60,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 26,
+      "gas:candidate-vibid:2892000451172": 34,
+      "gas:candidate-vibid:2892000452753": 15,
+      "gas:candidate-vibid:2892000452470": 1083,
+      "gas:candidate-vibid:2892000452531": 19,
+      "gas:candidate-vibid:2892000452264": 32,
+      "gas:candidate-vibid:2892000452049": 60,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 21,
-      "Карпиков Максим Георгиевич": 12,
-      "Колесников Алексей Юрьевич": 56,
-      "Ледков Григорий Петрович": 752,
-      "Носкин Сергей Анатольевич": 122,
-      "Попов Сергей Владимирович": 69,
-      "Садовников Денис Владимирович": 65,
-      "Ушаков Михаил Александрович": 51
+      "gas:candidate-vibid:2892000452930": 21,
+      "gas:candidate-vibid:2892000451172": 12,
+      "gas:candidate-vibid:2892000452753": 56,
+      "gas:candidate-vibid:2892000452470": 752,
+      "gas:candidate-vibid:2892000452531": 122,
+      "gas:candidate-vibid:2892000452264": 69,
+      "gas:candidate-vibid:2892000452049": 65,
+      "gas:candidate-vibid:2892000417561": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 67,
-      "Карпиков Максим Георгиевич": 51,
-      "Колесников Алексей Юрьевич": 37,
-      "Ледков Григорий Петрович": 954,
-      "Носкин Сергей Анатольевич": 17,
-      "Попов Сергей Владимирович": 20,
-      "Садовников Денис Владимирович": 114,
-      "Ушаков Михаил Александрович": 20
+      "gas:candidate-vibid:2892000452930": 67,
+      "gas:candidate-vibid:2892000451172": 51,
+      "gas:candidate-vibid:2892000452753": 37,
+      "gas:candidate-vibid:2892000452470": 954,
+      "gas:candidate-vibid:2892000452531": 17,
+      "gas:candidate-vibid:2892000452264": 20,
+      "gas:candidate-vibid:2892000452049": 114,
+      "gas:candidate-vibid:2892000417561": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 47,
-      "Карпиков Максим Георгиевич": 100,
-      "Колесников Алексей Юрьевич": 256,
-      "Ледков Григорий Петрович": 848,
-      "Носкин Сергей Анатольевич": 58,
-      "Попов Сергей Владимирович": 20,
-      "Садовников Денис Владимирович": 81,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 47,
+      "gas:candidate-vibid:2892000451172": 100,
+      "gas:candidate-vibid:2892000452753": 256,
+      "gas:candidate-vibid:2892000452470": 848,
+      "gas:candidate-vibid:2892000452531": 58,
+      "gas:candidate-vibid:2892000452264": 20,
+      "gas:candidate-vibid:2892000452049": 81,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 18,
-      "Карпиков Максим Георгиевич": 13,
-      "Колесников Алексей Юрьевич": 15,
-      "Ледков Григорий Петрович": 104,
-      "Носкин Сергей Анатольевич": 8,
-      "Попов Сергей Владимирович": 7,
-      "Садовников Денис Владимирович": 36,
-      "Ушаков Михаил Александрович": 5
+      "gas:candidate-vibid:2892000452930": 18,
+      "gas:candidate-vibid:2892000451172": 13,
+      "gas:candidate-vibid:2892000452753": 15,
+      "gas:candidate-vibid:2892000452470": 104,
+      "gas:candidate-vibid:2892000452531": 8,
+      "gas:candidate-vibid:2892000452264": 7,
+      "gas:candidate-vibid:2892000452049": 36,
+      "gas:candidate-vibid:2892000417561": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 20,
-      "Карпиков Максим Георгиевич": 34,
-      "Колесников Алексей Юрьевич": 18,
-      "Ледков Григорий Петрович": 121,
-      "Носкин Сергей Анатольевич": 10,
-      "Попов Сергей Владимирович": 14,
-      "Садовников Денис Владимирович": 61,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 20,
+      "gas:candidate-vibid:2892000451172": 34,
+      "gas:candidate-vibid:2892000452753": 18,
+      "gas:candidate-vibid:2892000452470": 121,
+      "gas:candidate-vibid:2892000452531": 10,
+      "gas:candidate-vibid:2892000452264": 14,
+      "gas:candidate-vibid:2892000452049": 61,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 77,
-      "Карпиков Максим Георгиевич": 123,
-      "Колесников Алексей Юрьевич": 45,
-      "Ледков Григорий Петрович": 816,
-      "Носкин Сергей Анатольевич": 78,
-      "Попов Сергей Владимирович": 102,
-      "Садовников Денис Владимирович": 57,
-      "Ушаков Михаил Александрович": 63
+      "gas:candidate-vibid:2892000452930": 77,
+      "gas:candidate-vibid:2892000451172": 123,
+      "gas:candidate-vibid:2892000452753": 45,
+      "gas:candidate-vibid:2892000452470": 816,
+      "gas:candidate-vibid:2892000452531": 78,
+      "gas:candidate-vibid:2892000452264": 102,
+      "gas:candidate-vibid:2892000452049": 57,
+      "gas:candidate-vibid:2892000417561": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 66,
-      "Карпиков Максим Георгиевич": 69,
-      "Колесников Алексей Юрьевич": 60,
-      "Ледков Григорий Петрович": 564,
-      "Носкин Сергей Анатольевич": 29,
-      "Попов Сергей Владимирович": 37,
-      "Садовников Денис Владимирович": 154,
-      "Ушаков Михаил Александрович": 52
+      "gas:candidate-vibid:2892000452930": 66,
+      "gas:candidate-vibid:2892000451172": 69,
+      "gas:candidate-vibid:2892000452753": 60,
+      "gas:candidate-vibid:2892000452470": 564,
+      "gas:candidate-vibid:2892000452531": 29,
+      "gas:candidate-vibid:2892000452264": 37,
+      "gas:candidate-vibid:2892000452049": 154,
+      "gas:candidate-vibid:2892000417561": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 96,
-      "Карпиков Максим Георгиевич": 138,
-      "Колесников Алексей Юрьевич": 68,
-      "Ледков Григорий Петрович": 879,
-      "Носкин Сергей Анатольевич": 30,
-      "Попов Сергей Владимирович": 70,
-      "Садовников Денис Владимирович": 171,
-      "Ушаков Михаил Александрович": 64
+      "gas:candidate-vibid:2892000452930": 96,
+      "gas:candidate-vibid:2892000451172": 138,
+      "gas:candidate-vibid:2892000452753": 68,
+      "gas:candidate-vibid:2892000452470": 879,
+      "gas:candidate-vibid:2892000452531": 30,
+      "gas:candidate-vibid:2892000452264": 70,
+      "gas:candidate-vibid:2892000452049": 171,
+      "gas:candidate-vibid:2892000417561": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 80,
-      "Карпиков Максим Георгиевич": 11,
-      "Колесников Алексей Юрьевич": 6,
-      "Ледков Григорий Петрович": 1335,
-      "Носкин Сергей Анатольевич": 8,
-      "Попов Сергей Владимирович": 4,
-      "Садовников Денис Владимирович": 136,
-      "Ушаков Михаил Александрович": 153
+      "gas:candidate-vibid:2892000452930": 80,
+      "gas:candidate-vibid:2892000451172": 11,
+      "gas:candidate-vibid:2892000452753": 6,
+      "gas:candidate-vibid:2892000452470": 1335,
+      "gas:candidate-vibid:2892000452531": 8,
+      "gas:candidate-vibid:2892000452264": 4,
+      "gas:candidate-vibid:2892000452049": 136,
+      "gas:candidate-vibid:2892000417561": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 81,
-      "Карпиков Максим Георгиевич": 86,
-      "Колесников Алексей Юрьевич": 95,
-      "Ледков Григорий Петрович": 1067,
-      "Носкин Сергей Анатольевич": 71,
-      "Попов Сергей Владимирович": 58,
-      "Садовников Денис Владимирович": 77,
-      "Ушаков Михаил Александрович": 126
+      "gas:candidate-vibid:2892000452930": 81,
+      "gas:candidate-vibid:2892000451172": 86,
+      "gas:candidate-vibid:2892000452753": 95,
+      "gas:candidate-vibid:2892000452470": 1067,
+      "gas:candidate-vibid:2892000452531": 71,
+      "gas:candidate-vibid:2892000452264": 58,
+      "gas:candidate-vibid:2892000452049": 77,
+      "gas:candidate-vibid:2892000417561": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 82,
-      "Карпиков Максим Георгиевич": 81,
-      "Колесников Алексей Юрьевич": 52,
-      "Ледков Григорий Петрович": 721,
-      "Носкин Сергей Анатольевич": 23,
-      "Попов Сергей Владимирович": 9,
-      "Садовников Денис Владимирович": 156,
-      "Ушаков Михаил Александрович": 54
+      "gas:candidate-vibid:2892000452930": 82,
+      "gas:candidate-vibid:2892000451172": 81,
+      "gas:candidate-vibid:2892000452753": 52,
+      "gas:candidate-vibid:2892000452470": 721,
+      "gas:candidate-vibid:2892000452531": 23,
+      "gas:candidate-vibid:2892000452264": 9,
+      "gas:candidate-vibid:2892000452049": 156,
+      "gas:candidate-vibid:2892000417561": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 77,
-      "Карпиков Максим Георгиевич": 86,
-      "Колесников Алексей Юрьевич": 51,
-      "Ледков Григорий Петрович": 1112,
-      "Носкин Сергей Анатольевич": 35,
-      "Попов Сергей Владимирович": 58,
-      "Садовников Денис Владимирович": 186,
-      "Ушаков Михаил Александрович": 71
+      "gas:candidate-vibid:2892000452930": 77,
+      "gas:candidate-vibid:2892000451172": 86,
+      "gas:candidate-vibid:2892000452753": 51,
+      "gas:candidate-vibid:2892000452470": 1112,
+      "gas:candidate-vibid:2892000452531": 35,
+      "gas:candidate-vibid:2892000452264": 58,
+      "gas:candidate-vibid:2892000452049": 186,
+      "gas:candidate-vibid:2892000417561": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 26,
-      "Карпиков Максим Георгиевич": 77,
-      "Колесников Алексей Юрьевич": 84,
-      "Ледков Григорий Петрович": 1068,
-      "Носкин Сергей Анатольевич": 19,
-      "Попов Сергей Владимирович": 26,
-      "Садовников Денис Владимирович": 257,
-      "Ушаков Михаил Александрович": 6
+      "gas:candidate-vibid:2892000452930": 26,
+      "gas:candidate-vibid:2892000451172": 77,
+      "gas:candidate-vibid:2892000452753": 84,
+      "gas:candidate-vibid:2892000452470": 1068,
+      "gas:candidate-vibid:2892000452531": 19,
+      "gas:candidate-vibid:2892000452264": 26,
+      "gas:candidate-vibid:2892000452049": 257,
+      "gas:candidate-vibid:2892000417561": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 26,
-      "Карпиков Максим Георгиевич": 90,
-      "Колесников Алексей Юрьевич": 140,
-      "Ледков Григорий Петрович": 863,
-      "Носкин Сергей Анатольевич": 30,
-      "Попов Сергей Владимирович": 55,
-      "Садовников Денис Владимирович": 175,
-      "Ушаков Михаил Александрович": 105
+      "gas:candidate-vibid:2892000452930": 26,
+      "gas:candidate-vibid:2892000451172": 90,
+      "gas:candidate-vibid:2892000452753": 140,
+      "gas:candidate-vibid:2892000452470": 863,
+      "gas:candidate-vibid:2892000452531": 30,
+      "gas:candidate-vibid:2892000452264": 55,
+      "gas:candidate-vibid:2892000452049": 175,
+      "gas:candidate-vibid:2892000417561": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 51,
-      "Карпиков Максим Георгиевич": 56,
-      "Колесников Алексей Юрьевич": 43,
-      "Ледков Григорий Петрович": 568,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 37,
-      "Садовников Денис Владимирович": 107,
-      "Ушаков Михаил Александрович": 36
+      "gas:candidate-vibid:2892000452930": 51,
+      "gas:candidate-vibid:2892000451172": 56,
+      "gas:candidate-vibid:2892000452753": 43,
+      "gas:candidate-vibid:2892000452470": 568,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 37,
+      "gas:candidate-vibid:2892000452049": 107,
+      "gas:candidate-vibid:2892000417561": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 94,
-      "Карпиков Максим Георгиевич": 78,
-      "Колесников Алексей Юрьевич": 79,
-      "Ледков Григорий Петрович": 1050,
-      "Носкин Сергей Анатольевич": 78,
-      "Попов Сергей Владимирович": 96,
-      "Садовников Денис Владимирович": 70,
-      "Ушаков Михаил Александрович": 71
+      "gas:candidate-vibid:2892000452930": 94,
+      "gas:candidate-vibid:2892000451172": 78,
+      "gas:candidate-vibid:2892000452753": 79,
+      "gas:candidate-vibid:2892000452470": 1050,
+      "gas:candidate-vibid:2892000452531": 78,
+      "gas:candidate-vibid:2892000452264": 96,
+      "gas:candidate-vibid:2892000452049": 70,
+      "gas:candidate-vibid:2892000417561": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 67,
-      "Карпиков Максим Георгиевич": 60,
-      "Колесников Алексей Юрьевич": 59,
-      "Ледков Григорий Петрович": 862,
-      "Носкин Сергей Анатольевич": 20,
-      "Попов Сергей Владимирович": 119,
-      "Садовников Денис Владимирович": 173,
-      "Ушаков Михаил Александрович": 50
+      "gas:candidate-vibid:2892000452930": 67,
+      "gas:candidate-vibid:2892000451172": 60,
+      "gas:candidate-vibid:2892000452753": 59,
+      "gas:candidate-vibid:2892000452470": 862,
+      "gas:candidate-vibid:2892000452531": 20,
+      "gas:candidate-vibid:2892000452264": 119,
+      "gas:candidate-vibid:2892000452049": 173,
+      "gas:candidate-vibid:2892000417561": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 79,
-      "Карпиков Максим Георгиевич": 85,
-      "Колесников Алексей Юрьевич": 58,
-      "Ледков Григорий Петрович": 873,
-      "Носкин Сергей Анатольевич": 33,
-      "Попов Сергей Владимирович": 69,
-      "Садовников Денис Владимирович": 206,
-      "Ушаков Михаил Александрович": 75
+      "gas:candidate-vibid:2892000452930": 79,
+      "gas:candidate-vibid:2892000451172": 85,
+      "gas:candidate-vibid:2892000452753": 58,
+      "gas:candidate-vibid:2892000452470": 873,
+      "gas:candidate-vibid:2892000452531": 33,
+      "gas:candidate-vibid:2892000452264": 69,
+      "gas:candidate-vibid:2892000452049": 206,
+      "gas:candidate-vibid:2892000417561": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 72,
-      "Карпиков Максим Георгиевич": 76,
-      "Колесников Алексей Юрьевич": 65,
-      "Ледков Григорий Петрович": 866,
-      "Носкин Сергей Анатольевич": 33,
-      "Попов Сергей Владимирович": 74,
-      "Садовников Денис Владимирович": 88,
-      "Ушаков Михаил Александрович": 81
+      "gas:candidate-vibid:2892000452930": 72,
+      "gas:candidate-vibid:2892000451172": 76,
+      "gas:candidate-vibid:2892000452753": 65,
+      "gas:candidate-vibid:2892000452470": 866,
+      "gas:candidate-vibid:2892000452531": 33,
+      "gas:candidate-vibid:2892000452264": 74,
+      "gas:candidate-vibid:2892000452049": 88,
+      "gas:candidate-vibid:2892000417561": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 10,
-      "Карпиков Максим Георгиевич": 13,
-      "Колесников Алексей Юрьевич": 67,
-      "Ледков Григорий Петрович": 633,
-      "Носкин Сергей Анатольевич": 49,
-      "Попов Сергей Владимирович": 30,
-      "Садовников Денис Владимирович": 83,
-      "Ушаков Михаил Александрович": 79
+      "gas:candidate-vibid:2892000452930": 10,
+      "gas:candidate-vibid:2892000451172": 13,
+      "gas:candidate-vibid:2892000452753": 67,
+      "gas:candidate-vibid:2892000452470": 633,
+      "gas:candidate-vibid:2892000452531": 49,
+      "gas:candidate-vibid:2892000452264": 30,
+      "gas:candidate-vibid:2892000452049": 83,
+      "gas:candidate-vibid:2892000417561": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 75,
-      "Карпиков Максим Георгиевич": 85,
-      "Колесников Алексей Юрьевич": 52,
-      "Ледков Григорий Петрович": 322,
-      "Носкин Сергей Анатольевич": 28,
-      "Попов Сергей Владимирович": 45,
-      "Садовников Денис Владимирович": 176,
-      "Ушаков Михаил Александрович": 38
+      "gas:candidate-vibid:2892000452930": 75,
+      "gas:candidate-vibid:2892000451172": 85,
+      "gas:candidate-vibid:2892000452753": 52,
+      "gas:candidate-vibid:2892000452470": 322,
+      "gas:candidate-vibid:2892000452531": 28,
+      "gas:candidate-vibid:2892000452264": 45,
+      "gas:candidate-vibid:2892000452049": 176,
+      "gas:candidate-vibid:2892000417561": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 12,
-      "Карпиков Максим Георгиевич": 1,
-      "Колесников Алексей Юрьевич": 15,
-      "Ледков Григорий Петрович": 95,
-      "Носкин Сергей Анатольевич": 2,
-      "Попов Сергей Владимирович": 13,
-      "Садовников Денис Владимирович": 36,
-      "Ушаков Михаил Александрович": 2
+      "gas:candidate-vibid:2892000452930": 12,
+      "gas:candidate-vibid:2892000451172": 1,
+      "gas:candidate-vibid:2892000452753": 15,
+      "gas:candidate-vibid:2892000452470": 95,
+      "gas:candidate-vibid:2892000452531": 2,
+      "gas:candidate-vibid:2892000452264": 13,
+      "gas:candidate-vibid:2892000452049": 36,
+      "gas:candidate-vibid:2892000417561": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 55,
-      "Карпиков Максим Георгиевич": 41,
-      "Колесников Алексей Юрьевич": 50,
-      "Ледков Григорий Петрович": 356,
-      "Носкин Сергей Анатольевич": 32,
-      "Попов Сергей Владимирович": 25,
-      "Садовников Денис Владимирович": 69,
-      "Ушаков Михаил Александрович": 32
+      "gas:candidate-vibid:2892000452930": 55,
+      "gas:candidate-vibid:2892000451172": 41,
+      "gas:candidate-vibid:2892000452753": 50,
+      "gas:candidate-vibid:2892000452470": 356,
+      "gas:candidate-vibid:2892000452531": 32,
+      "gas:candidate-vibid:2892000452264": 25,
+      "gas:candidate-vibid:2892000452049": 69,
+      "gas:candidate-vibid:2892000417561": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 67,
-      "Карпиков Максим Георгиевич": 121,
-      "Колесников Алексей Юрьевич": 62,
-      "Ледков Григорий Петрович": 745,
-      "Носкин Сергей Анатольевич": 5,
-      "Попов Сергей Владимирович": 49,
-      "Садовников Денис Владимирович": 198,
-      "Ушаков Михаил Александрович": 27
+      "gas:candidate-vibid:2892000452930": 67,
+      "gas:candidate-vibid:2892000451172": 121,
+      "gas:candidate-vibid:2892000452753": 62,
+      "gas:candidate-vibid:2892000452470": 745,
+      "gas:candidate-vibid:2892000452531": 5,
+      "gas:candidate-vibid:2892000452264": 49,
+      "gas:candidate-vibid:2892000452049": 198,
+      "gas:candidate-vibid:2892000417561": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 22,
-      "Карпиков Максим Георгиевич": 56,
-      "Колесников Алексей Юрьевич": 26,
-      "Ледков Григорий Петрович": 181,
-      "Носкин Сергей Анатольевич": 11,
-      "Попов Сергей Владимирович": 24,
-      "Садовников Денис Владимирович": 84,
-      "Ушаков Михаил Александрович": 11
+      "gas:candidate-vibid:2892000452930": 22,
+      "gas:candidate-vibid:2892000451172": 56,
+      "gas:candidate-vibid:2892000452753": 26,
+      "gas:candidate-vibid:2892000452470": 181,
+      "gas:candidate-vibid:2892000452531": 11,
+      "gas:candidate-vibid:2892000452264": 24,
+      "gas:candidate-vibid:2892000452049": 84,
+      "gas:candidate-vibid:2892000417561": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 95,
-      "Карпиков Максим Георгиевич": 85,
-      "Колесников Алексей Юрьевич": 59,
-      "Ледков Григорий Петрович": 764,
-      "Носкин Сергей Анатольевич": 28,
-      "Попов Сергей Владимирович": 68,
-      "Садовников Денис Владимирович": 95,
-      "Ушаков Михаил Александрович": 67
+      "gas:candidate-vibid:2892000452930": 95,
+      "gas:candidate-vibid:2892000451172": 85,
+      "gas:candidate-vibid:2892000452753": 59,
+      "gas:candidate-vibid:2892000452470": 764,
+      "gas:candidate-vibid:2892000452531": 28,
+      "gas:candidate-vibid:2892000452264": 68,
+      "gas:candidate-vibid:2892000452049": 95,
+      "gas:candidate-vibid:2892000417561": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Денисов Андрей Николаевич": 59,
-      "Карпиков Максим Георгиевич": 50,
-      "Колесников Алексей Юрьевич": 54,
-      "Ледков Григорий Петрович": 337,
-      "Носкин Сергей Анатольевич": 15,
-      "Попов Сергей Владимирович": 44,
-      "Садовников Денис Владимирович": 116,
-      "Ушаков Михаил Александрович": 36
+      "gas:candidate-vibid:2892000452930": 59,
+      "gas:candidate-vibid:2892000451172": 50,
+      "gas:candidate-vibid:2892000452753": 54,
+      "gas:candidate-vibid:2892000452470": 337,
+      "gas:candidate-vibid:2892000452531": 15,
+      "gas:candidate-vibid:2892000452264": 44,
+      "gas:candidate-vibid:2892000452049": 116,
+      "gas:candidate-vibid:2892000417561": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2892000414383&vrn=100100067795849&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2892000414383&type=464",

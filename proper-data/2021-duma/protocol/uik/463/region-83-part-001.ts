@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4834001197568",
+    "uikName": "УИК №41",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1143,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 24,
-      "Коткин Сергей Николаевич": 123,
-      "Миловский Николай Леонидович": 14,
-      "Никитин Дмитрий Дмитриевич": 19,
-      "Райн Михаил Викторович": 201,
-      "Смыченков Андрей Владимирович": 21
+      "2832000392856": 24,
+      "2832000392217": 123,
+      "2832000392378": 14,
+      "2832000392700": 19,
+      "2832000392109": 201,
+      "2832000392997": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4834001197569",
+    "uikName": "УИК №42",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1193,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 20,
-      "Коткин Сергей Николаевич": 132,
-      "Миловский Николай Леонидович": 14,
-      "Никитин Дмитрий Дмитриевич": 36,
-      "Райн Михаил Викторович": 179,
-      "Смыченков Андрей Владимирович": 29
+      "2832000392856": 20,
+      "2832000392217": 132,
+      "2832000392378": 14,
+      "2832000392700": 36,
+      "2832000392109": 179,
+      "2832000392997": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4834001197570",
+    "uikName": "УИК №43",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1122,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 11,
-      "Коткин Сергей Николаевич": 116,
-      "Миловский Николай Леонидович": 10,
-      "Никитин Дмитрий Дмитриевич": 44,
-      "Райн Михаил Викторович": 185,
-      "Смыченков Андрей Владимирович": 26
+      "2832000392856": 11,
+      "2832000392217": 116,
+      "2832000392378": 10,
+      "2832000392700": 44,
+      "2832000392109": 185,
+      "2832000392997": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4834001197571",
+    "uikName": "УИК №44",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1187,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 31,
-      "Коткин Сергей Николаевич": 126,
-      "Миловский Николай Леонидович": 17,
-      "Никитин Дмитрий Дмитриевич": 24,
-      "Райн Михаил Викторович": 203,
-      "Смыченков Андрей Владимирович": 27
+      "2832000392856": 31,
+      "2832000392217": 126,
+      "2832000392378": 17,
+      "2832000392700": 24,
+      "2832000392109": 203,
+      "2832000392997": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4834001197572",
+    "uikName": "УИК №45",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1053,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 28,
-      "Коткин Сергей Николаевич": 154,
-      "Миловский Николай Леонидович": 4,
-      "Никитин Дмитрий Дмитриевич": 27,
-      "Райн Михаил Викторович": 186,
-      "Смыченков Андрей Владимирович": 27
+      "2832000392856": 28,
+      "2832000392217": 154,
+      "2832000392378": 4,
+      "2832000392700": 27,
+      "2832000392109": 186,
+      "2832000392997": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4834001197573",
+    "uikName": "УИК №46",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1499,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 42,
-      "Коткин Сергей Николаевич": 231,
-      "Миловский Николай Леонидович": 12,
-      "Никитин Дмитрий Дмитриевич": 28,
-      "Райн Михаил Викторович": 247,
-      "Смыченков Андрей Владимирович": 40
+      "2832000392856": 42,
+      "2832000392217": 231,
+      "2832000392378": 12,
+      "2832000392700": 28,
+      "2832000392109": 247,
+      "2832000392997": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4834001197574",
+    "uikName": "УИК №47",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1472,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 45,
-      "Коткин Сергей Николаевич": 244,
-      "Миловский Николай Леонидович": 18,
-      "Никитин Дмитрий Дмитриевич": 63,
-      "Райн Михаил Викторович": 227,
-      "Смыченков Андрей Владимирович": 55
+      "2832000392856": 45,
+      "2832000392217": 244,
+      "2832000392378": 18,
+      "2832000392700": 63,
+      "2832000392109": 227,
+      "2832000392997": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4834001197575",
+    "uikName": "УИК №48",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 999,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 27,
-      "Коткин Сергей Николаевич": 128,
-      "Миловский Николай Леонидович": 15,
-      "Никитин Дмитрий Дмитриевич": 23,
-      "Райн Михаил Викторович": 197,
-      "Смыченков Андрей Владимирович": 29
+      "2832000392856": 27,
+      "2832000392217": 128,
+      "2832000392378": 15,
+      "2832000392700": 23,
+      "2832000392109": 197,
+      "2832000392997": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4834001197576",
+    "uikName": "УИК №49",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1145,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 21,
-      "Коткин Сергей Николаевич": 128,
-      "Миловский Николай Леонидович": 15,
-      "Никитин Дмитрий Дмитриевич": 21,
-      "Райн Михаил Викторович": 172,
-      "Смыченков Андрей Владимирович": 27
+      "2832000392856": 21,
+      "2832000392217": 128,
+      "2832000392378": 15,
+      "2832000392700": 21,
+      "2832000392109": 172,
+      "2832000392997": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4834001197577",
+    "uikName": "УИК №50",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 977,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 18,
-      "Коткин Сергей Николаевич": 145,
-      "Миловский Николай Леонидович": 14,
-      "Никитин Дмитрий Дмитриевич": 40,
-      "Райн Михаил Викторович": 142,
-      "Смыченков Андрей Владимирович": 35
+      "2832000392856": 18,
+      "2832000392217": 145,
+      "2832000392378": 14,
+      "2832000392700": 40,
+      "2832000392109": 142,
+      "2832000392997": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4834001197578",
+    "uikName": "УИК №51",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1096,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 26,
-      "Коткин Сергей Николаевич": 172,
-      "Миловский Николай Леонидович": 10,
-      "Никитин Дмитрий Дмитриевич": 26,
-      "Райн Михаил Викторович": 210,
-      "Смыченков Андрей Владимирович": 22
+      "2832000392856": 26,
+      "2832000392217": 172,
+      "2832000392378": 10,
+      "2832000392700": 26,
+      "2832000392109": 210,
+      "2832000392997": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "4834001197579",
+    "uikName": "УИК №52",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1716,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 32,
-      "Коткин Сергей Николаевич": 200,
-      "Миловский Николай Леонидович": 18,
-      "Никитин Дмитрий Дмитриевич": 29,
-      "Райн Михаил Викторович": 242,
-      "Смыченков Андрей Владимирович": 49
+      "2832000392856": 32,
+      "2832000392217": 200,
+      "2832000392378": 18,
+      "2832000392700": 29,
+      "2832000392109": 242,
+      "2832000392997": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4834001197580",
+    "uikName": "УИК №53",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1025,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 26,
-      "Коткин Сергей Николаевич": 136,
-      "Миловский Николай Леонидович": 18,
-      "Никитин Дмитрий Дмитриевич": 32,
-      "Райн Михаил Викторович": 180,
-      "Смыченков Андрей Владимирович": 35
+      "2832000392856": 26,
+      "2832000392217": 136,
+      "2832000392378": 18,
+      "2832000392700": 32,
+      "2832000392109": 180,
+      "2832000392997": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4834001197581",
+    "uikName": "УИК №54",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 992,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 19,
-      "Коткин Сергей Николаевич": 100,
-      "Миловский Николай Леонидович": 12,
-      "Никитин Дмитрий Дмитриевич": 21,
-      "Райн Михаил Викторович": 145,
-      "Смыченков Андрей Владимирович": 26
+      "2832000392856": 19,
+      "2832000392217": 100,
+      "2832000392378": 12,
+      "2832000392700": 21,
+      "2832000392109": 145,
+      "2832000392997": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4834001197582",
+    "uikName": "УИК №55",
     "tikTvd": "2832000389862",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1002,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 22,
-      "Коткин Сергей Николаевич": 118,
-      "Миловский Николай Леонидович": 12,
-      "Никитин Дмитрий Дмитриевич": 24,
-      "Райн Михаил Викторович": 181,
-      "Смыченков Андрей Владимирович": 20
+      "2832000392856": 22,
+      "2832000392217": 118,
+      "2832000392378": 12,
+      "2832000392700": 24,
+      "2832000392109": 181,
+      "2832000392997": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:14.868465+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389862&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389862&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "4834002258090",
+    "uikName": "УИК №1",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 269,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 215,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 5,
-      "Коткин Сергей Николаевич": 45,
-      "Миловский Николай Леонидович": 4,
-      "Никитин Дмитрий Дмитриевич": 3,
-      "Райн Михаил Викторович": 20,
-      "Смыченков Андрей Владимирович": 4
+      "2832000392856": 5,
+      "2832000392217": 45,
+      "2832000392378": 4,
+      "2832000392700": 3,
+      "2832000392109": 20,
+      "2832000392997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "4834002258091",
+    "uikName": "УИК №2",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 45,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 1,
-      "Коткин Сергей Николаевич": 11,
-      "Миловский Николай Леонидович": 1,
-      "Никитин Дмитрий Дмитриевич": 1,
-      "Райн Михаил Викторович": 6,
-      "Смыченков Андрей Владимирович": 1
+      "2832000392856": 1,
+      "2832000392217": 11,
+      "2832000392378": 1,
+      "2832000392700": 1,
+      "2832000392109": 6,
+      "2832000392997": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "4834002258092",
+    "uikName": "УИК №3",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 70,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 9,
-      "Коткин Сергей Николаевич": 13,
-      "Миловский Николай Леонидович": 3,
-      "Никитин Дмитрий Дмитриевич": 2,
-      "Райн Михаил Викторович": 1,
-      "Смыченков Андрей Владимирович": 4
+      "2832000392856": 9,
+      "2832000392217": 13,
+      "2832000392378": 3,
+      "2832000392700": 2,
+      "2832000392109": 1,
+      "2832000392997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "4834002258093",
+    "uikName": "УИК №4",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 26,
-      "Коткин Сергей Николаевич": 341,
-      "Миловский Николай Леонидович": 8,
-      "Никитин Дмитрий Дмитриевич": 38,
-      "Райн Михаил Викторович": 73,
-      "Смыченков Андрей Владимирович": 37
+      "2832000392856": 26,
+      "2832000392217": 341,
+      "2832000392378": 8,
+      "2832000392700": 38,
+      "2832000392109": 73,
+      "2832000392997": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "4834002258094",
+    "uikName": "УИК №5",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 308,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 2,
-      "Коткин Сергей Николаевич": 47,
-      "Миловский Николай Леонидович": 3,
-      "Никитин Дмитрий Дмитриевич": 0,
-      "Райн Михаил Викторович": 21,
-      "Смыченков Андрей Владимирович": 2
+      "2832000392856": 2,
+      "2832000392217": 47,
+      "2832000392378": 3,
+      "2832000392700": 0,
+      "2832000392109": 21,
+      "2832000392997": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "4834002258095",
+    "uikName": "УИК №6",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 61,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 25,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 1,
-      "Райн Михаил Викторович": 9,
-      "Смыченков Андрей Владимирович": 1
+      "2832000392856": 0,
+      "2832000392217": 25,
+      "2832000392378": 0,
+      "2832000392700": 1,
+      "2832000392109": 9,
+      "2832000392997": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "4834002258096",
+    "uikName": "УИК №7",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 579,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 12,
-      "Коткин Сергей Николаевич": 112,
-      "Миловский Николай Леонидович": 7,
-      "Никитин Дмитрий Дмитриевич": 17,
-      "Райн Михаил Викторович": 41,
-      "Смыченков Андрей Владимирович": 19
+      "2832000392856": 12,
+      "2832000392217": 112,
+      "2832000392378": 7,
+      "2832000392700": 17,
+      "2832000392109": 41,
+      "2832000392997": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "4834002258097",
+    "uikName": "УИК №8",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 70,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 22,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 1,
-      "Райн Михаил Викторович": 4,
-      "Смыченков Андрей Владимирович": 0
+      "2832000392856": 0,
+      "2832000392217": 22,
+      "2832000392378": 0,
+      "2832000392700": 1,
+      "2832000392109": 4,
+      "2832000392997": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "4834002258098",
+    "uikName": "УИК №9",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 533,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 2,
-      "Коткин Сергей Николаевич": 84,
-      "Миловский Николай Леонидович": 5,
-      "Никитин Дмитрий Дмитриевич": 10,
-      "Райн Михаил Викторович": 64,
-      "Смыченков Андрей Владимирович": 17
+      "2832000392856": 2,
+      "2832000392217": 84,
+      "2832000392378": 5,
+      "2832000392700": 10,
+      "2832000392109": 64,
+      "2832000392997": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "4834002258099",
+    "uikName": "УИК №10",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 2,
-      "Коткин Сергей Николаевич": 42,
-      "Миловский Николай Леонидович": 1,
-      "Никитин Дмитрий Дмитриевич": 4,
-      "Райн Михаил Викторович": 10,
-      "Смыченков Андрей Владимирович": 0
+      "2832000392856": 2,
+      "2832000392217": 42,
+      "2832000392378": 1,
+      "2832000392700": 4,
+      "2832000392109": 10,
+      "2832000392997": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "4834002258100",
+    "uikName": "УИК №11",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 23,
-      "Миловский Николай Леонидович": 1,
-      "Никитин Дмитрий Дмитриевич": 1,
-      "Райн Михаил Викторович": 15,
-      "Смыченков Андрей Владимирович": 2
+      "2832000392856": 0,
+      "2832000392217": 23,
+      "2832000392378": 1,
+      "2832000392700": 1,
+      "2832000392109": 15,
+      "2832000392997": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "4834002258101",
+    "uikName": "УИК №12",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 53,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 17,
-      "Миловский Николай Леонидович": 1,
-      "Никитин Дмитрий Дмитриевич": 0,
-      "Райн Михаил Викторович": 2,
-      "Смыченков Андрей Владимирович": 1
+      "2832000392856": 0,
+      "2832000392217": 17,
+      "2832000392378": 1,
+      "2832000392700": 0,
+      "2832000392109": 2,
+      "2832000392997": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "4834002258102",
+    "uikName": "УИК №13",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 30,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 3,
-      "Коткин Сергей Николаевич": 14,
-      "Миловский Николай Леонидович": 2,
-      "Никитин Дмитрий Дмитриевич": 0,
-      "Райн Михаил Викторович": 1,
-      "Смыченков Андрей Владимирович": 0
+      "2832000392856": 3,
+      "2832000392217": 14,
+      "2832000392378": 2,
+      "2832000392700": 0,
+      "2832000392109": 1,
+      "2832000392997": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "4834002258103",
+    "uikName": "УИК №14",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 6,
-      "Коткин Сергей Николаевич": 81,
-      "Миловский Николай Леонидович": 4,
-      "Никитин Дмитрий Дмитриевич": 13,
-      "Райн Михаил Викторович": 44,
-      "Смыченков Андрей Владимирович": 11
+      "2832000392856": 6,
+      "2832000392217": 81,
+      "2832000392378": 4,
+      "2832000392700": 13,
+      "2832000392109": 44,
+      "2832000392997": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4834002258104",
+    "uikName": "УИК №15",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 120,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 28,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 2,
-      "Райн Михаил Викторович": 10,
-      "Смыченков Андрей Владимирович": 4
+      "2832000392856": 0,
+      "2832000392217": 28,
+      "2832000392378": 0,
+      "2832000392700": 2,
+      "2832000392109": 10,
+      "2832000392997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4834002258105",
+    "uikName": "УИК №16",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 324,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 280,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 2,
-      "Коткин Сергей Николаевич": 28,
-      "Миловский Николай Леонидович": 2,
-      "Никитин Дмитрий Дмитриевич": 4,
-      "Райн Михаил Викторович": 74,
-      "Смыченков Андрей Владимирович": 8
+      "2832000392856": 2,
+      "2832000392217": 28,
+      "2832000392378": 2,
+      "2832000392700": 4,
+      "2832000392109": 74,
+      "2832000392997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4834002258106",
+    "uikName": "УИК №17",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 428,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 380,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 6,
-      "Коткин Сергей Николаевич": 77,
-      "Миловский Николай Леонидович": 7,
-      "Никитин Дмитрий Дмитриевич": 5,
-      "Райн Михаил Викторович": 36,
-      "Смыченков Андрей Владимирович": 10
+      "2832000392856": 6,
+      "2832000392217": 77,
+      "2832000392378": 7,
+      "2832000392700": 5,
+      "2832000392109": 36,
+      "2832000392997": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4834002258107",
+    "uikName": "УИК №18",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 55,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 1,
-      "Коткин Сергей Николаевич": 14,
-      "Миловский Николай Леонидович": 1,
-      "Никитин Дмитрий Дмитриевич": 0,
-      "Райн Михаил Викторович": 4,
-      "Смыченков Андрей Владимирович": 2
+      "2832000392856": 1,
+      "2832000392217": 14,
+      "2832000392378": 1,
+      "2832000392700": 0,
+      "2832000392109": 4,
+      "2832000392997": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4834002258108",
+    "uikName": "УИК №19",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 1,
-      "Коткин Сергей Николаевич": 13,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 0,
-      "Райн Михаил Викторович": 10,
-      "Смыченков Андрей Владимирович": 4
+      "2832000392856": 1,
+      "2832000392217": 13,
+      "2832000392378": 0,
+      "2832000392700": 0,
+      "2832000392109": 10,
+      "2832000392997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4834002258109",
+    "uikName": "УИК №20",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 166,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 29,
-      "Миловский Николай Леонидович": 2,
-      "Никитин Дмитрий Дмитриевич": 0,
-      "Райн Михаил Викторович": 11,
-      "Смыченков Андрей Владимирович": 2
+      "2832000392856": 0,
+      "2832000392217": 29,
+      "2832000392378": 2,
+      "2832000392700": 0,
+      "2832000392109": 11,
+      "2832000392997": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "4834002258110",
+    "uikName": "УИК №21",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 40,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 1,
-      "Коткин Сергей Николаевич": 9,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 2,
-      "Райн Михаил Викторович": 1,
-      "Смыченков Андрей Владимирович": 10
+      "2832000392856": 1,
+      "2832000392217": 9,
+      "2832000392378": 0,
+      "2832000392700": 2,
+      "2832000392109": 1,
+      "2832000392997": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "4834002258111",
+    "uikName": "УИК №22",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 2,
-      "Коткин Сергей Николаевич": 26,
-      "Миловский Николай Леонидович": 2,
-      "Никитин Дмитрий Дмитриевич": 4,
-      "Райн Михаил Викторович": 13,
-      "Смыченков Андрей Владимирович": 2
+      "2832000392856": 2,
+      "2832000392217": 26,
+      "2832000392378": 2,
+      "2832000392700": 4,
+      "2832000392109": 13,
+      "2832000392997": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "4834002258112",
+    "uikName": "УИК №23",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 23,
-      "Миловский Николай Леонидович": 1,
-      "Никитин Дмитрий Дмитриевич": 2,
-      "Райн Михаил Викторович": 10,
-      "Смыченков Андрей Владимирович": 1
+      "2832000392856": 0,
+      "2832000392217": 23,
+      "2832000392378": 1,
+      "2832000392700": 2,
+      "2832000392109": 10,
+      "2832000392997": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "4834002258113",
+    "uikName": "УИК №24",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 3,
-      "Коткин Сергей Николаевич": 59,
-      "Миловский Николай Леонидович": 1,
-      "Никитин Дмитрий Дмитриевич": 12,
-      "Райн Михаил Викторович": 47,
-      "Смыченков Андрей Владимирович": 8
+      "2832000392856": 3,
+      "2832000392217": 59,
+      "2832000392378": 1,
+      "2832000392700": 12,
+      "2832000392109": 47,
+      "2832000392997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "4834002258114",
+    "uikName": "УИК №25",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 503,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 6,
-      "Коткин Сергей Николаевич": 113,
-      "Миловский Николай Леонидович": 3,
-      "Никитин Дмитрий Дмитриевич": 10,
-      "Райн Михаил Викторович": 84,
-      "Смыченков Андрей Владимирович": 9
+      "2832000392856": 6,
+      "2832000392217": 113,
+      "2832000392378": 3,
+      "2832000392700": 10,
+      "2832000392109": 84,
+      "2832000392997": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "4834002258115",
+    "uikName": "УИК №26",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 126,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 0,
-      "Коткин Сергей Николаевич": 29,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 3,
-      "Райн Михаил Викторович": 6,
-      "Смыченков Андрей Владимирович": 4
+      "2832000392856": 0,
+      "2832000392217": 29,
+      "2832000392378": 0,
+      "2832000392700": 3,
+      "2832000392109": 6,
+      "2832000392997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "4834002258116",
+    "uikName": "УИК №27",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 1,
-      "Коткин Сергей Николаевич": 11,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 2,
-      "Райн Михаил Викторович": 8,
-      "Смыченков Андрей Владимирович": 1
+      "2832000392856": 1,
+      "2832000392217": 11,
+      "2832000392378": 0,
+      "2832000392700": 2,
+      "2832000392109": 8,
+      "2832000392997": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "4834002258117",
+    "uikName": "УИК №28",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1218,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 28,
-      "Коткин Сергей Николаевич": 222,
-      "Миловский Николай Леонидович": 13,
-      "Никитин Дмитрий Дмитриевич": 39,
-      "Райн Михаил Викторович": 121,
-      "Смыченков Андрей Владимирович": 23
+      "2832000392856": 28,
+      "2832000392217": 222,
+      "2832000392378": 13,
+      "2832000392700": 39,
+      "2832000392109": 121,
+      "2832000392997": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "4834002258118",
+    "uikName": "УИК №29",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 624,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 20,
-      "Коткин Сергей Николаевич": 240,
-      "Миловский Николай Леонидович": 10,
-      "Никитин Дмитрий Дмитриевич": 44,
-      "Райн Михаил Викторович": 62,
-      "Смыченков Андрей Владимирович": 28
+      "2832000392856": 20,
+      "2832000392217": 240,
+      "2832000392378": 10,
+      "2832000392700": 44,
+      "2832000392109": 62,
+      "2832000392997": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "4834002258119",
+    "uikName": "УИК №30",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 144,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 2,
-      "Коткин Сергей Николаевич": 25,
-      "Миловский Николай Леонидович": 0,
-      "Никитин Дмитрий Дмитриевич": 1,
-      "Райн Михаил Викторович": 15,
-      "Смыченков Андрей Владимирович": 5
+      "2832000392856": 2,
+      "2832000392217": 25,
+      "2832000392378": 0,
+      "2832000392700": 1,
+      "2832000392109": 15,
+      "2832000392997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4834002258120",
+    "uikName": "УИК №31",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 320,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 8,
-      "Коткин Сергей Николаевич": 40,
-      "Миловский Николай Леонидович": 2,
-      "Никитин Дмитрий Дмитриевич": 1,
-      "Райн Михаил Викторович": 12,
-      "Смыченков Андрей Владимирович": 13
+      "2832000392856": 8,
+      "2832000392217": 40,
+      "2832000392378": 2,
+      "2832000392700": 1,
+      "2832000392109": 12,
+      "2832000392997": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4834002258121",
+    "uikName": "УИК №32",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 456,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 3,
-      "Коткин Сергей Николаевич": 128,
-      "Миловский Николай Леонидович": 5,
-      "Никитин Дмитрий Дмитриевич": 4,
-      "Райн Михаил Викторович": 22,
-      "Смыченков Андрей Владимирович": 16
+      "2832000392856": 3,
+      "2832000392217": 128,
+      "2832000392378": 5,
+      "2832000392700": 4,
+      "2832000392109": 22,
+      "2832000392997": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4834002258122",
+    "uikName": "УИК №33",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 544,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 8,
-      "Коткин Сергей Николаевич": 94,
-      "Миловский Николай Леонидович": 2,
-      "Никитин Дмитрий Дмитриевич": 15,
-      "Райн Михаил Викторович": 32,
-      "Смыченков Андрей Владимирович": 13
+      "2832000392856": 8,
+      "2832000392217": 94,
+      "2832000392378": 2,
+      "2832000392700": 15,
+      "2832000392109": 32,
+      "2832000392997": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4834002258123",
+    "uikName": "УИК №34",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 517,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 430,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 3,
-      "Коткин Сергей Николаевич": 66,
-      "Миловский Николай Леонидович": 3,
-      "Никитин Дмитрий Дмитриевич": 8,
-      "Райн Михаил Викторович": 24,
-      "Смыченков Андрей Владимирович": 8
+      "2832000392856": 3,
+      "2832000392217": 66,
+      "2832000392378": 3,
+      "2832000392700": 8,
+      "2832000392109": 24,
+      "2832000392997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4834002258124",
+    "uikName": "УИК №35",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 471,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 380,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 2,
-      "Коткин Сергей Николаевич": 133,
-      "Миловский Николай Леонидович": 4,
-      "Никитин Дмитрий Дмитриевич": 6,
-      "Райн Михаил Викторович": 9,
-      "Смыченков Андрей Владимирович": 12
+      "2832000392856": 2,
+      "2832000392217": 133,
+      "2832000392378": 4,
+      "2832000392700": 6,
+      "2832000392109": 9,
+      "2832000392997": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4834002258125",
+    "uikName": "УИК №36",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 857,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 815,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 17,
-      "Коткин Сергей Николаевич": 68,
-      "Миловский Николай Леонидович": 13,
-      "Никитин Дмитрий Дмитриевич": 10,
-      "Райн Михаил Викторович": 106,
-      "Смыченков Андрей Владимирович": 16
+      "2832000392856": 17,
+      "2832000392217": 68,
+      "2832000392378": 13,
+      "2832000392700": 10,
+      "2832000392109": 106,
+      "2832000392997": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4834002258126",
+    "uikName": "УИК №37",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1564,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1120,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 14,
-      "Коткин Сергей Николаевич": 127,
-      "Миловский Николай Леонидович": 15,
-      "Никитин Дмитрий Дмитриевич": 33,
-      "Райн Михаил Викторович": 139,
-      "Смыченков Андрей Владимирович": 25
+      "2832000392856": 14,
+      "2832000392217": 127,
+      "2832000392378": 15,
+      "2832000392700": 33,
+      "2832000392109": 139,
+      "2832000392997": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4834002258127",
+    "uikName": "УИК №38",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1008,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 830,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 13,
-      "Коткин Сергей Николаевич": 93,
-      "Миловский Николай Леонидович": 9,
-      "Никитин Дмитрий Дмитриевич": 27,
-      "Райн Михаил Викторович": 107,
-      "Смыченков Андрей Владимирович": 18
+      "2832000392856": 13,
+      "2832000392217": 93,
+      "2832000392378": 9,
+      "2832000392700": 27,
+      "2832000392109": 107,
+      "2832000392997": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4834002258128",
+    "uikName": "УИК №39",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2074,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1385,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 27,
-      "Коткин Сергей Николаевич": 162,
-      "Миловский Николай Леонидович": 18,
-      "Никитин Дмитрий Дмитриевич": 32,
-      "Райн Михаил Викторович": 198,
-      "Смыченков Андрей Владимирович": 47
+      "2832000392856": 27,
+      "2832000392217": 162,
+      "2832000392378": 18,
+      "2832000392700": 32,
+      "2832000392109": 198,
+      "2832000392997": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4834002258129",
+    "uikName": "УИК №40",
     "tikTvd": "2832000389863",
     "tikName": "Заполярная",
+    "regionCode": "83",
+    "regionTvd": "100100225883723",
+    "regionName": "Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1608,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1205,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Брескаленко Олег Иванович": 19,
-      "Коткин Сергей Николаевич": 85,
-      "Миловский Николай Леонидович": 11,
-      "Никитин Дмитрий Дмитриевич": 27,
-      "Райн Михаил Викторович": 211,
-      "Смыченков Андрей Владимирович": 22
+      "2832000392856": 19,
+      "2832000392217": 85,
+      "2832000392378": 11,
+      "2832000392700": 27,
+      "2832000392109": 211,
+      "2832000392997": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_83_part_001 = [
       "retrievedAt": "2026-08-26T08:13:15.073730+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/nenetsk?action=show&root=1000287&tvd=2832000389863&vrn=100100225883172&region=83&global=&sub_region=83&prver=0&pronetvd=null&vibid=2832000389863&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100225883724"
     }
   }
 ] satisfies readonly UikProtocol[];

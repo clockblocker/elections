@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "4894012269324",
+    "uikName": "УИК №1301",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 629,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -28,11 +32,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 39,
-      "Дробот Андрей Анатольевич": 10,
-      "Кукушкина Елена Михайловна": 34,
-      "Лазарев Максим Николаевич": 20,
-      "Погорелый Дмитрий Викторович": 366
+      "2882000781047": 39,
+      "2882000783632": 10,
+      "2882000782423": 34,
+      "2882000782711": 20,
+      "2882000782949": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -42,6 +46,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -51,8 +59,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "4894012269326",
+    "uikName": "УИК №1302",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1318,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -68,11 +80,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 110,
-      "Дробот Андрей Анатольевич": 18,
-      "Кукушкина Елена Михайловна": 198,
-      "Лазарев Максим Николаевич": 63,
-      "Погорелый Дмитрий Викторович": 432
+      "2882000781047": 110,
+      "2882000783632": 18,
+      "2882000782423": 198,
+      "2882000782711": 63,
+      "2882000782949": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -82,6 +94,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -91,8 +107,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "4894012269328",
+    "uikName": "УИК №1303",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1441,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -108,11 +128,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 232,
-      "Дробот Андрей Анатольевич": 23,
-      "Кукушкина Елена Михайловна": 133,
-      "Лазарев Максим Николаевич": 54,
-      "Погорелый Дмитрий Викторович": 724
+      "2882000781047": 232,
+      "2882000783632": 23,
+      "2882000782423": 133,
+      "2882000782711": 54,
+      "2882000782949": 724
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -122,6 +142,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -131,8 +155,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "4894012269330",
+    "uikName": "УИК №1304",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1642,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -148,11 +176,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 193,
-      "Дробот Андрей Анатольевич": 23,
-      "Кукушкина Елена Михайловна": 149,
-      "Лазарев Максим Николаевич": 44,
-      "Погорелый Дмитрий Викторович": 872
+      "2882000781047": 193,
+      "2882000783632": 23,
+      "2882000782423": 149,
+      "2882000782711": 44,
+      "2882000782949": 872
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -162,6 +190,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -171,8 +203,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "4894012269332",
+    "uikName": "УИК №1305",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1352,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1360,
@@ -188,11 +224,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 208,
-      "Дробот Андрей Анатольевич": 13,
-      "Кукушкина Елена Михайловна": 67,
-      "Лазарев Максим Николаевич": 30,
-      "Погорелый Дмитрий Викторович": 831
+      "2882000781047": 208,
+      "2882000783632": 13,
+      "2882000782423": 67,
+      "2882000782711": 30,
+      "2882000782949": 831
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -202,6 +238,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -211,8 +251,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "4894012269334",
+    "uikName": "УИК №1306",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 290,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -228,11 +272,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 33,
-      "Дробот Андрей Анатольевич": 13,
-      "Кукушкина Елена Михайловна": 25,
-      "Лазарев Максим Николаевич": 0,
-      "Погорелый Дмитрий Викторович": 171
+      "2882000781047": 33,
+      "2882000783632": 13,
+      "2882000782423": 25,
+      "2882000782711": 0,
+      "2882000782949": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -242,6 +286,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -251,8 +299,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "4894012269336",
+    "uikName": "УИК №1307",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1177,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -268,11 +320,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 164,
-      "Дробот Андрей Анатольевич": 26,
-      "Кукушкина Елена Михайловна": 94,
-      "Лазарев Максим Николаевич": 49,
-      "Погорелый Дмитрий Викторович": 480
+      "2882000781047": 164,
+      "2882000783632": 26,
+      "2882000782423": 94,
+      "2882000782711": 49,
+      "2882000782949": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -282,6 +334,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -291,8 +347,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "4894012269338",
+    "uikName": "УИК №1308",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1050,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -308,11 +368,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 125,
-      "Дробот Андрей Анатольевич": 19,
-      "Кукушкина Елена Михайловна": 106,
-      "Лазарев Максим Николаевич": 31,
-      "Погорелый Дмитрий Викторович": 325
+      "2882000781047": 125,
+      "2882000783632": 19,
+      "2882000782423": 106,
+      "2882000782711": 31,
+      "2882000782949": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -322,6 +382,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -331,8 +395,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "4894012269340",
+    "uikName": "УИК №1309",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1697,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -348,11 +416,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 286,
-      "Дробот Андрей Анатольевич": 29,
-      "Кукушкина Елена Михайловна": 243,
-      "Лазарев Максим Николаевич": 56,
-      "Погорелый Дмитрий Викторович": 743
+      "2882000781047": 286,
+      "2882000783632": 29,
+      "2882000782423": 243,
+      "2882000782711": 56,
+      "2882000782949": 743
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -362,6 +430,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -371,8 +443,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "4894012272747",
+    "uikName": "УИК №1310",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1434,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -388,11 +464,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 13,
-      "Дробот Андрей Анатольевич": 1,
-      "Кукушкина Елена Михайловна": 11,
-      "Лазарев Максим Николаевич": 2,
-      "Погорелый Дмитрий Викторович": 31
+      "2882000781047": 13,
+      "2882000783632": 1,
+      "2882000782423": 11,
+      "2882000782711": 2,
+      "2882000782949": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -402,6 +478,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -411,8 +491,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "4894012272748",
+    "uikName": "УИК №1311",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1313,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -428,11 +512,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 8,
-      "Дробот Андрей Анатольевич": 2,
-      "Кукушкина Елена Михайловна": 9,
-      "Лазарев Максим Николаевич": 3,
-      "Погорелый Дмитрий Викторович": 22
+      "2882000781047": 8,
+      "2882000783632": 2,
+      "2882000782423": 9,
+      "2882000782711": 3,
+      "2882000782949": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -442,6 +526,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -451,8 +539,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "4894012272749",
+    "uikName": "УИК №1312",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2545,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -468,11 +560,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 160,
-      "Дробот Андрей Анатольевич": 24,
-      "Кукушкина Елена Михайловна": 135,
-      "Лазарев Максим Николаевич": 40,
-      "Погорелый Дмитрий Викторович": 415
+      "2882000781047": 160,
+      "2882000783632": 24,
+      "2882000782423": 135,
+      "2882000782711": 40,
+      "2882000782949": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -482,6 +574,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -491,8 +587,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "4894012272750",
+    "uikName": "УИК №1313",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1849,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -508,11 +608,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 35,
-      "Дробот Андрей Анатольевич": 4,
-      "Кукушкина Елена Михайловна": 22,
-      "Лазарев Максим Николаевич": 8,
-      "Погорелый Дмитрий Викторович": 126
+      "2882000781047": 35,
+      "2882000783632": 4,
+      "2882000782423": 22,
+      "2882000782711": 8,
+      "2882000782949": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -522,6 +622,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -531,8 +635,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "4894012272751",
+    "uikName": "УИК №1314",
     "tikTvd": "2882000777441",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3335,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -548,11 +656,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 15,
-      "Дробот Андрей Анатольевич": 8,
-      "Кукушкина Елена Михайловна": 9,
-      "Лазарев Максим Николаевич": 8,
-      "Погорелый Дмитрий Викторович": 47
+      "2882000781047": 15,
+      "2882000783632": 8,
+      "2882000782423": 9,
+      "2882000782711": 8,
+      "2882000782949": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
@@ -562,6 +670,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:36.304476+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777441&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777441&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -571,8 +683,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1201,
     "uikTvd": "4894011250707",
+    "uikName": "УИК №1201",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 201,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 216,
@@ -588,11 +704,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 34,
-      "Дробот Андрей Анатольевич": 9,
-      "Кукушкина Елена Михайловна": 32,
-      "Лазарев Максим Николаевич": 14,
-      "Погорелый Дмитрий Викторович": 92
+      "2882000781047": 34,
+      "2882000783632": 9,
+      "2882000782423": 32,
+      "2882000782711": 14,
+      "2882000782949": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -602,6 +718,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -611,8 +731,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1202,
     "uikTvd": "4894011250708",
+    "uikName": "УИК №1202",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 939,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 980,
@@ -628,11 +752,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 93,
-      "Дробот Андрей Анатольевич": 17,
-      "Кукушкина Елена Михайловна": 92,
-      "Лазарев Максим Николаевич": 63,
-      "Погорелый Дмитрий Викторович": 389
+      "2882000781047": 93,
+      "2882000783632": 17,
+      "2882000782423": 92,
+      "2882000782711": 63,
+      "2882000782949": 389
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -642,6 +766,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -651,8 +779,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1203,
     "uikTvd": "4894011250709",
+    "uikName": "УИК №1203",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 315,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 338,
@@ -668,11 +800,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 38,
-      "Дробот Андрей Анатольевич": 13,
-      "Кукушкина Елена Михайловна": 34,
-      "Лазарев Максим Николаевич": 28,
-      "Погорелый Дмитрий Викторович": 131
+      "2882000781047": 38,
+      "2882000783632": 13,
+      "2882000782423": 34,
+      "2882000782711": 28,
+      "2882000782949": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -682,6 +814,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -691,8 +827,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1204,
     "uikTvd": "4894011250710",
+    "uikName": "УИК №1204",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2485,
@@ -708,11 +848,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 246,
-      "Дробот Андрей Анатольевич": 48,
-      "Кукушкина Елена Михайловна": 214,
-      "Лазарев Максим Николаевич": 179,
-      "Погорелый Дмитрий Викторович": 965
+      "2882000781047": 246,
+      "2882000783632": 48,
+      "2882000782423": 214,
+      "2882000782711": 179,
+      "2882000782949": 965
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -722,6 +862,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -731,8 +875,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1205,
     "uikTvd": "4894011250711",
+    "uikName": "УИК №1205",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 348,
@@ -748,11 +896,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 42,
-      "Дробот Андрей Анатольевич": 10,
-      "Кукушкина Елена Михайловна": 43,
-      "Лазарев Максим Николаевич": 28,
-      "Погорелый Дмитрий Викторович": 132
+      "2882000781047": 42,
+      "2882000783632": 10,
+      "2882000782423": 43,
+      "2882000782711": 28,
+      "2882000782949": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -762,6 +910,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -771,8 +923,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1206,
     "uikTvd": "4894011250712",
+    "uikName": "УИК №1206",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 804,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 835,
@@ -788,11 +944,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 97,
-      "Дробот Андрей Анатольевич": 19,
-      "Кукушкина Елена Михайловна": 85,
-      "Лазарев Максим Николаевич": 67,
-      "Погорелый Дмитрий Викторович": 340
+      "2882000781047": 97,
+      "2882000783632": 19,
+      "2882000782423": 85,
+      "2882000782711": 67,
+      "2882000782949": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -802,6 +958,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -811,8 +971,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1207,
     "uikTvd": "4894011250713",
+    "uikName": "УИК №1207",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 294,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 310,
@@ -828,11 +992,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 32,
-      "Дробот Андрей Анатольевич": 10,
-      "Кукушкина Елена Михайловна": 30,
-      "Лазарев Максим Николаевич": 27,
-      "Погорелый Дмитрий Викторович": 123
+      "2882000781047": 32,
+      "2882000783632": 10,
+      "2882000782423": 30,
+      "2882000782711": 27,
+      "2882000782949": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -842,6 +1006,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -851,8 +1019,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1208,
     "uikTvd": "4894011250714",
+    "uikName": "УИК №1208",
     "tikTvd": "2882000777442",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 491,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 558,
@@ -868,11 +1040,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 71,
-      "Дробот Андрей Анатольевич": 18,
-      "Кукушкина Елена Михайловна": 57,
-      "Лазарев Максим Николаевич": 30,
-      "Погорелый Дмитрий Викторович": 196
+      "2882000781047": 71,
+      "2882000783632": 18,
+      "2882000782423": 57,
+      "2882000782711": 30,
+      "2882000782949": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
@@ -882,6 +1054,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.564285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777442&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777442&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -891,8 +1067,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "4894010252857",
+    "uikName": "УИК №1101",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1602,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1460,
@@ -908,11 +1088,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 187,
-      "Дробот Андрей Анатольевич": 14,
-      "Кукушкина Елена Михайловна": 219,
-      "Лазарев Максим Николаевич": 63,
-      "Погорелый Дмитрий Викторович": 497
+      "2882000781047": 187,
+      "2882000783632": 14,
+      "2882000782423": 219,
+      "2882000782711": 63,
+      "2882000782949": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -922,6 +1102,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -931,8 +1115,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "4894010252858",
+    "uikName": "УИК №1102",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1076,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1370,
@@ -948,11 +1136,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 124,
-      "Дробот Андрей Анатольевич": 17,
-      "Кукушкина Елена Михайловна": 118,
-      "Лазарев Максим Николаевич": 48,
-      "Погорелый Дмитрий Викторович": 389
+      "2882000781047": 124,
+      "2882000783632": 17,
+      "2882000782423": 118,
+      "2882000782711": 48,
+      "2882000782949": 389
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -962,6 +1150,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -971,8 +1163,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "4894010252859",
+    "uikName": "УИК №1103",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1994,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -988,11 +1184,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 255,
-      "Дробот Андрей Анатольевич": 46,
-      "Кукушкина Елена Михайловна": 284,
-      "Лазарев Максим Николаевич": 139,
-      "Погорелый Дмитрий Викторович": 324
+      "2882000781047": 255,
+      "2882000783632": 46,
+      "2882000782423": 284,
+      "2882000782711": 139,
+      "2882000782949": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1002,6 +1198,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1011,8 +1211,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "4894010252860",
+    "uikName": "УИК №1104",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 777,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 660,
@@ -1028,11 +1232,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 93,
-      "Дробот Андрей Анатольевич": 14,
-      "Кукушкина Елена Михайловна": 79,
-      "Лазарев Максим Николаевич": 45,
-      "Погорелый Дмитрий Викторович": 92
+      "2882000781047": 93,
+      "2882000783632": 14,
+      "2882000782423": 79,
+      "2882000782711": 45,
+      "2882000782949": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1042,6 +1246,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1051,8 +1259,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "4894010252861",
+    "uikName": "УИК №1105",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1068,11 +1280,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 143,
-      "Дробот Андрей Анатольевич": 41,
-      "Кукушкина Елена Михайловна": 167,
-      "Лазарев Максим Николаевич": 73,
-      "Погорелый Дмитрий Викторович": 147
+      "2882000781047": 143,
+      "2882000783632": 41,
+      "2882000782423": 167,
+      "2882000782711": 73,
+      "2882000782949": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1082,6 +1294,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1091,8 +1307,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "4894010252862",
+    "uikName": "УИК №1106",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 777,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -1108,11 +1328,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 78,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 58,
-      "Лазарев Максим Николаевич": 27,
-      "Погорелый Дмитрий Викторович": 423
+      "2882000781047": 78,
+      "2882000783632": 22,
+      "2882000782423": 58,
+      "2882000782711": 27,
+      "2882000782949": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1122,6 +1342,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1131,8 +1355,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "4894010252863",
+    "uikName": "УИК №1107",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1641,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -1148,11 +1376,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 103,
-      "Дробот Андрей Анатольевич": 35,
-      "Кукушкина Елена Михайловна": 70,
-      "Лазарев Максим Николаевич": 70,
-      "Погорелый Дмитрий Викторович": 1106
+      "2882000781047": 103,
+      "2882000783632": 35,
+      "2882000782423": 70,
+      "2882000782711": 70,
+      "2882000782949": 1106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1162,6 +1390,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1171,8 +1403,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "4894010252864",
+    "uikName": "УИК №1108",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2114,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -1188,11 +1424,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 152,
-      "Дробот Андрей Анатольевич": 50,
-      "Кукушкина Елена Михайловна": 83,
-      "Лазарев Максим Николаевич": 41,
-      "Погорелый Дмитрий Викторович": 1361
+      "2882000781047": 152,
+      "2882000783632": 50,
+      "2882000782423": 83,
+      "2882000782711": 41,
+      "2882000782949": 1361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1202,6 +1438,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1211,8 +1451,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "4894010254843",
+    "uikName": "УИК №1109",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 569,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1228,11 +1472,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 61,
-      "Дробот Андрей Анатольевич": 25,
-      "Кукушкина Елена Михайловна": 35,
-      "Лазарев Максим Николаевич": 26,
-      "Погорелый Дмитрий Викторович": 363
+      "2882000781047": 61,
+      "2882000783632": 25,
+      "2882000782423": 35,
+      "2882000782711": 26,
+      "2882000782949": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1242,6 +1486,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1251,8 +1499,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "4894010254845",
+    "uikName": "УИК №1110",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1268,11 +1520,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 11,
-      "Дробот Андрей Анатольевич": 7,
-      "Кукушкина Елена Михайловна": 8,
-      "Лазарев Максим Николаевич": 6,
-      "Погорелый Дмитрий Викторович": 64
+      "2882000781047": 11,
+      "2882000783632": 7,
+      "2882000782423": 8,
+      "2882000782711": 6,
+      "2882000782949": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1282,6 +1534,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1291,8 +1547,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "4894010254847",
+    "uikName": "УИК №1111",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 227,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1308,11 +1568,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 23,
-      "Дробот Андрей Анатольевич": 12,
-      "Кукушкина Елена Михайловна": 8,
-      "Лазарев Максим Николаевич": 5,
-      "Погорелый Дмитрий Викторович": 160
+      "2882000781047": 23,
+      "2882000783632": 12,
+      "2882000782423": 8,
+      "2882000782711": 5,
+      "2882000782949": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1322,6 +1582,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1331,8 +1595,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "4894010254849",
+    "uikName": "УИК №1112",
     "tikTvd": "2882000777443",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 198,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1348,11 +1616,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 6,
-      "Дробот Андрей Анатольевич": 4,
-      "Кукушкина Елена Михайловна": 5,
-      "Лазарев Максим Николаевич": 2,
-      "Погорелый Дмитрий Викторович": 169
+      "2882000781047": 6,
+      "2882000783632": 4,
+      "2882000782423": 5,
+      "2882000782711": 2,
+      "2882000782949": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
@@ -1362,6 +1630,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.781142+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777443&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777443&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1371,8 +1643,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "4894009358012",
+    "uikName": "УИК №1001",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -1388,11 +1664,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 296,
-      "Дробот Андрей Анатольевич": 103,
-      "Кукушкина Елена Михайловна": 222,
-      "Лазарев Максим Николаевич": 193,
-      "Погорелый Дмитрий Викторович": 378
+      "2882000781047": 296,
+      "2882000783632": 103,
+      "2882000782423": 222,
+      "2882000782711": 193,
+      "2882000782949": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1402,6 +1678,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1411,8 +1691,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "4894009358013",
+    "uikName": "УИК №1002",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1510,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1428,11 +1712,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 135,
-      "Дробот Андрей Анатольевич": 20,
-      "Кукушкина Елена Михайловна": 152,
-      "Лазарев Максим Николаевич": 124,
-      "Погорелый Дмитрий Викторович": 460
+      "2882000781047": 135,
+      "2882000783632": 20,
+      "2882000782423": 152,
+      "2882000782711": 124,
+      "2882000782949": 460
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1442,6 +1726,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1451,8 +1739,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "4894009358014",
+    "uikName": "УИК №1003",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1655,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1468,11 +1760,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 167,
-      "Дробот Андрей Анатольевич": 82,
-      "Кукушкина Елена Михайловна": 165,
-      "Лазарев Максим Николаевич": 88,
-      "Погорелый Дмитрий Викторович": 442
+      "2882000781047": 167,
+      "2882000783632": 82,
+      "2882000782423": 165,
+      "2882000782711": 88,
+      "2882000782949": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1482,6 +1774,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1491,8 +1787,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "4894009358015",
+    "uikName": "УИК №1004",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2405,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -1508,11 +1808,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 244,
-      "Дробот Андрей Анатольевич": 74,
-      "Кукушкина Елена Михайловна": 170,
-      "Лазарев Максим Николаевич": 112,
-      "Погорелый Дмитрий Викторович": 689
+      "2882000781047": 244,
+      "2882000783632": 74,
+      "2882000782423": 170,
+      "2882000782711": 112,
+      "2882000782949": 689
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1522,6 +1822,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1531,8 +1835,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "4894009358016",
+    "uikName": "УИК №1005",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2526,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -1548,11 +1856,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 280,
-      "Дробот Андрей Анатольевич": 32,
-      "Кукушкина Елена Михайловна": 89,
-      "Лазарев Максим Николаевич": 86,
-      "Погорелый Дмитрий Викторович": 953
+      "2882000781047": 280,
+      "2882000783632": 32,
+      "2882000782423": 89,
+      "2882000782711": 86,
+      "2882000782949": 953
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1562,6 +1870,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1571,8 +1883,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "4894009358017",
+    "uikName": "УИК №1006",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3715,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -1588,11 +1904,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 404,
-      "Дробот Андрей Анатольевич": 71,
-      "Кукушкина Елена Михайловна": 264,
-      "Лазарев Максим Николаевич": 180,
-      "Погорелый Дмитрий Викторович": 1506
+      "2882000781047": 404,
+      "2882000783632": 71,
+      "2882000782423": 264,
+      "2882000782711": 180,
+      "2882000782949": 1506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1602,6 +1918,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1611,8 +1931,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "4894009358018",
+    "uikName": "УИК №1007",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2163,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1628,11 +1952,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 180,
-      "Дробот Андрей Анатольевич": 62,
-      "Кукушкина Елена Михайловна": 121,
-      "Лазарев Максим Николаевич": 111,
-      "Погорелый Дмитрий Викторович": 744
+      "2882000781047": 180,
+      "2882000783632": 62,
+      "2882000782423": 121,
+      "2882000782711": 111,
+      "2882000782949": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1642,6 +1966,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1651,8 +1979,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "4894009358019",
+    "uikName": "УИК №1008",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2083,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1668,11 +2000,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 168,
-      "Дробот Андрей Анатольевич": 68,
-      "Кукушкина Елена Михайловна": 124,
-      "Лазарев Максим Николаевич": 105,
-      "Погорелый Дмитрий Викторович": 735
+      "2882000781047": 168,
+      "2882000783632": 68,
+      "2882000782423": 124,
+      "2882000782711": 105,
+      "2882000782949": 735
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1682,6 +2014,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1691,8 +2027,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "4894009358020",
+    "uikName": "УИК №1009",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2521,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -1708,11 +2048,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 226,
-      "Дробот Андрей Анатольевич": 115,
-      "Кукушкина Елена Михайловна": 209,
-      "Лазарев Максим Николаевич": 236,
-      "Погорелый Дмитрий Викторович": 889
+      "2882000781047": 226,
+      "2882000783632": 115,
+      "2882000782423": 209,
+      "2882000782711": 236,
+      "2882000782949": 889
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1722,6 +2062,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1731,8 +2075,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "4894009358021",
+    "uikName": "УИК №1010",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2306,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -1748,11 +2096,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 260,
-      "Дробот Андрей Анатольевич": 83,
-      "Кукушкина Елена Михайловна": 194,
-      "Лазарев Максим Николаевич": 167,
-      "Погорелый Дмитрий Викторович": 685
+      "2882000781047": 260,
+      "2882000783632": 83,
+      "2882000782423": 194,
+      "2882000782711": 167,
+      "2882000782949": 685
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1762,6 +2110,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1771,8 +2123,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "4894009358022",
+    "uikName": "УИК №1011",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1788,11 +2144,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 111,
-      "Дробот Андрей Анатольевич": 18,
-      "Кукушкина Елена Михайловна": 98,
-      "Лазарев Максим Николаевич": 66,
-      "Погорелый Дмитрий Викторович": 705
+      "2882000781047": 111,
+      "2882000783632": 18,
+      "2882000782423": 98,
+      "2882000782711": 66,
+      "2882000782949": 705
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1802,6 +2158,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1811,8 +2171,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "4894009358023",
+    "uikName": "УИК №1012",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1860,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1828,11 +2192,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 153,
-      "Дробот Андрей Анатольевич": 48,
-      "Кукушкина Елена Михайловна": 134,
-      "Лазарев Максим Николаевич": 103,
-      "Погорелый Дмитрий Викторович": 788
+      "2882000781047": 153,
+      "2882000783632": 48,
+      "2882000782423": 134,
+      "2882000782711": 103,
+      "2882000782949": 788
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1842,6 +2206,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1851,8 +2219,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "4894009358024",
+    "uikName": "УИК №1013",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2248,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -1868,11 +2240,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 229,
-      "Дробот Андрей Анатольевич": 75,
-      "Кукушкина Елена Михайловна": 157,
-      "Лазарев Максим Николаевич": 230,
-      "Погорелый Дмитрий Викторович": 676
+      "2882000781047": 229,
+      "2882000783632": 75,
+      "2882000782423": 157,
+      "2882000782711": 230,
+      "2882000782949": 676
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1882,6 +2254,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1891,8 +2267,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "4894009358025",
+    "uikName": "УИК №1014",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1514,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -1908,11 +2288,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 109,
-      "Дробот Андрей Анатольевич": 30,
-      "Кукушкина Елена Михайловна": 93,
-      "Лазарев Максим Николаевич": 72,
-      "Погорелый Дмитрий Викторович": 381
+      "2882000781047": 109,
+      "2882000783632": 30,
+      "2882000782423": 93,
+      "2882000782711": 72,
+      "2882000782949": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1922,6 +2302,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1931,8 +2315,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "4894009361385",
+    "uikName": "УИК №1015",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 146,
@@ -1948,11 +2336,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 34,
-      "Дробот Андрей Анатольевич": 4,
-      "Кукушкина Елена Михайловна": 11,
-      "Лазарев Максим Николаевич": 9,
-      "Погорелый Дмитрий Викторович": 59
+      "2882000781047": 34,
+      "2882000783632": 4,
+      "2882000782423": 11,
+      "2882000782711": 9,
+      "2882000782949": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -1962,6 +2350,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -1971,8 +2363,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8044,
     "uikTvd": "4894009363555",
+    "uikName": "УИК №8044",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 396,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -1988,11 +2384,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 79,
-      "Дробот Андрей Анатольевич": 17,
-      "Кукушкина Елена Михайловна": 108,
-      "Лазарев Максим Николаевич": 52,
-      "Погорелый Дмитрий Викторович": 123
+      "2882000781047": 79,
+      "2882000783632": 17,
+      "2882000782423": 108,
+      "2882000782711": 52,
+      "2882000782949": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -2002,6 +2398,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2011,8 +2411,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8300,
     "uikTvd": "4894009363556",
+    "uikName": "УИК №8300",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -2028,11 +2432,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 18,
-      "Дробот Андрей Анатольевич": 4,
-      "Кукушкина Елена Михайловна": 17,
-      "Лазарев Максим Николаевич": 6,
-      "Погорелый Дмитрий Викторович": 24
+      "2882000781047": 18,
+      "2882000783632": 4,
+      "2882000782423": 17,
+      "2882000782711": 6,
+      "2882000782949": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -2042,6 +2446,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2051,8 +2459,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8377,
     "uikTvd": "4894009363557",
+    "uikName": "УИК №8377",
     "tikTvd": "2882000777444",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1957,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2650,
@@ -2068,11 +2480,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 473,
-      "Дробот Андрей Анатольевич": 168,
-      "Кукушкина Елена Михайловна": 639,
-      "Лазарев Максим Николаевич": 184,
-      "Погорелый Дмитрий Викторович": 342
+      "2882000781047": 473,
+      "2882000783632": 168,
+      "2882000782423": 639,
+      "2882000782711": 184,
+      "2882000782949": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
@@ -2082,6 +2494,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:37.954000+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777444&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777444&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2091,8 +2507,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "4894008309194",
+    "uikName": "УИК №901",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1245,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1170,
@@ -2108,11 +2528,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 159,
-      "Дробот Андрей Анатольевич": 30,
-      "Кукушкина Елена Михайловна": 127,
-      "Лазарев Максим Николаевич": 97,
-      "Погорелый Дмитрий Викторович": 628
+      "2882000781047": 159,
+      "2882000783632": 30,
+      "2882000782423": 127,
+      "2882000782711": 97,
+      "2882000782949": 628
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2122,6 +2542,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2131,8 +2555,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "4894008309195",
+    "uikName": "УИК №902",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3016,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2900,
@@ -2148,11 +2576,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 215,
-      "Дробот Андрей Анатольевич": 137,
-      "Кукушкина Елена Михайловна": 213,
-      "Лазарев Максим Николаевич": 205,
-      "Погорелый Дмитрий Викторович": 763
+      "2882000781047": 215,
+      "2882000783632": 137,
+      "2882000782423": 213,
+      "2882000782711": 205,
+      "2882000782949": 763
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2162,6 +2590,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2171,8 +2603,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "4894008309196",
+    "uikName": "УИК №903",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1715,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -2188,11 +2624,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 184,
-      "Дробот Андрей Анатольевич": 150,
-      "Кукушкина Елена Михайловна": 175,
-      "Лазарев Максим Николаевич": 173,
-      "Погорелый Дмитрий Викторович": 611
+      "2882000781047": 184,
+      "2882000783632": 150,
+      "2882000782423": 175,
+      "2882000782711": 173,
+      "2882000782949": 611
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2202,6 +2638,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2211,8 +2651,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "4894008309197",
+    "uikName": "УИК №904",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1777,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1970,
@@ -2228,11 +2672,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 116,
-      "Дробот Андрей Анатольевич": 62,
-      "Кукушкина Елена Михайловна": 111,
-      "Лазарев Максим Николаевич": 108,
-      "Погорелый Дмитрий Викторович": 401
+      "2882000781047": 116,
+      "2882000783632": 62,
+      "2882000782423": 111,
+      "2882000782711": 108,
+      "2882000782949": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2242,6 +2686,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2251,8 +2699,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "4894008309198",
+    "uikName": "УИК №905",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 333,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 465,
@@ -2268,11 +2720,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 55,
-      "Дробот Андрей Анатольевич": 6,
-      "Кукушкина Елена Михайловна": 53,
-      "Лазарев Максим Николаевич": 24,
-      "Погорелый Дмитрий Викторович": 160
+      "2882000781047": 55,
+      "2882000783632": 6,
+      "2882000782423": 53,
+      "2882000782711": 24,
+      "2882000782949": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2282,6 +2734,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2291,8 +2747,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "4894008309199",
+    "uikName": "УИК №906",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 495,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 510,
@@ -2308,11 +2768,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 68,
-      "Дробот Андрей Анатольевич": 18,
-      "Кукушкина Елена Михайловна": 67,
-      "Лазарев Максим Николаевич": 34,
-      "Погорелый Дмитрий Викторович": 208
+      "2882000781047": 68,
+      "2882000783632": 18,
+      "2882000782423": 67,
+      "2882000782711": 34,
+      "2882000782949": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2322,6 +2782,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2331,8 +2795,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "4894008309200",
+    "uikName": "УИК №907",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1057,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1335,
@@ -2348,11 +2816,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 143,
-      "Дробот Андрей Анатольевич": 42,
-      "Кукушкина Елена Михайловна": 140,
-      "Лазарев Максим Николаевич": 95,
-      "Погорелый Дмитрий Викторович": 385
+      "2882000781047": 143,
+      "2882000783632": 42,
+      "2882000782423": 140,
+      "2882000782711": 95,
+      "2882000782949": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2362,6 +2830,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2371,8 +2843,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "4894008309201",
+    "uikName": "УИК №908",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2937,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 3280,
@@ -2388,11 +2864,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 286,
-      "Дробот Андрей Анатольевич": 81,
-      "Кукушкина Елена Михайловна": 275,
-      "Лазарев Максим Николаевич": 166,
-      "Погорелый Дмитрий Викторович": 1348
+      "2882000781047": 286,
+      "2882000783632": 81,
+      "2882000782423": 275,
+      "2882000782711": 166,
+      "2882000782949": 1348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2402,6 +2878,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2411,8 +2891,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "4894008309202",
+    "uikName": "УИК №909",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3036,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2880,
@@ -2428,11 +2912,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 293,
-      "Дробот Андрей Анатольевич": 163,
-      "Кукушкина Елена Михайловна": 287,
-      "Лазарев Максим Николаевич": 277,
-      "Погорелый Дмитрий Викторович": 996
+      "2882000781047": 293,
+      "2882000783632": 163,
+      "2882000782423": 287,
+      "2882000782711": 277,
+      "2882000782949": 996
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2442,6 +2926,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2451,8 +2939,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "4894008309203",
+    "uikName": "УИК №910",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2980,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2402,
@@ -2468,11 +2960,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 291,
-      "Дробот Андрей Анатольевич": 187,
-      "Кукушкина Елена Михайловна": 284,
-      "Лазарев Максим Николаевич": 276,
-      "Погорелый Дмитрий Викторович": 951
+      "2882000781047": 291,
+      "2882000783632": 187,
+      "2882000782423": 284,
+      "2882000782711": 276,
+      "2882000782949": 951
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2482,6 +2974,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2491,8 +2987,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "4894008309204",
+    "uikName": "УИК №911",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2344,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2060,
@@ -2508,11 +3008,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 232,
-      "Дробот Андрей Анатольевич": 173,
-      "Кукушкина Елена Михайловна": 226,
-      "Лазарев Максим Николаевич": 202,
-      "Погорелый Дмитрий Викторович": 785
+      "2882000781047": 232,
+      "2882000783632": 173,
+      "2882000782423": 226,
+      "2882000782711": 202,
+      "2882000782949": 785
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2522,6 +3022,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2531,8 +3035,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "4894008309205",
+    "uikName": "УИК №912",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2845,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2470,
@@ -2548,11 +3056,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 295,
-      "Дробот Андрей Анатольевич": 156,
-      "Кукушкина Елена Михайловна": 244,
-      "Лазарев Максим Николаевич": 238,
-      "Погорелый Дмитрий Викторович": 916
+      "2882000781047": 295,
+      "2882000783632": 156,
+      "2882000782423": 244,
+      "2882000782711": 238,
+      "2882000782949": 916
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2562,6 +3070,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2571,8 +3083,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "4894008309206",
+    "uikName": "УИК №913",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2684,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2960,
@@ -2588,11 +3104,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 241,
-      "Дробот Андрей Анатольевич": 197,
-      "Кукушкина Елена Михайловна": 228,
-      "Лазарев Максим Николаевич": 227,
-      "Погорелый Дмитрий Викторович": 886
+      "2882000781047": 241,
+      "2882000783632": 197,
+      "2882000782423": 228,
+      "2882000782711": 227,
+      "2882000782949": 886
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2602,6 +3118,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2611,8 +3131,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "4894008309207",
+    "uikName": "УИК №914",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1397,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1320,
@@ -2628,11 +3152,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 134,
-      "Дробот Андрей Анатольевич": 100,
-      "Кукушкина Елена Михайловна": 130,
-      "Лазарев Максим Николаевич": 118,
-      "Погорелый Дмитрий Викторович": 474
+      "2882000781047": 134,
+      "2882000783632": 100,
+      "2882000782423": 130,
+      "2882000782711": 118,
+      "2882000782949": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2642,6 +3166,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2651,8 +3179,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "4894008309208",
+    "uikName": "УИК №915",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1242,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1602,
@@ -2668,11 +3200,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 120,
-      "Дробот Андрей Анатольевич": 62,
-      "Кукушкина Елена Михайловна": 117,
-      "Лазарев Максим Николаевич": 106,
-      "Погорелый Дмитрий Викторович": 383
+      "2882000781047": 120,
+      "2882000783632": 62,
+      "2882000782423": 117,
+      "2882000782711": 106,
+      "2882000782949": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2682,6 +3214,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2691,8 +3227,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "4894008309209",
+    "uikName": "УИК №916",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 269,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 275,
@@ -2708,11 +3248,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 44,
-      "Дробот Андрей Анатольевич": 4,
-      "Кукушкина Елена Михайловна": 34,
-      "Лазарев Максим Николаевич": 21,
-      "Погорелый Дмитрий Викторович": 147
+      "2882000781047": 44,
+      "2882000783632": 4,
+      "2882000782423": 34,
+      "2882000782711": 21,
+      "2882000782949": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2722,6 +3262,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2731,8 +3275,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "4894008309210",
+    "uikName": "УИК №917",
     "tikTvd": "2882000777445",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 550,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 545,
@@ -2748,11 +3296,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 90,
-      "Дробот Андрей Анатольевич": 15,
-      "Кукушкина Елена Михайловна": 71,
-      "Лазарев Максим Николаевич": 24,
-      "Погорелый Дмитрий Викторович": 302
+      "2882000781047": 90,
+      "2882000783632": 15,
+      "2882000782423": 71,
+      "2882000782711": 24,
+      "2882000782949": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
@@ -2762,6 +3310,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.584239+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777445&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777445&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2771,8 +3323,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "4894007211044",
+    "uikName": "УИК №801",
     "tikTvd": "2882000777446",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1627,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -2788,11 +3344,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 203,
-      "Дробот Андрей Анатольевич": 16,
-      "Кукушкина Елена Михайловна": 109,
-      "Лазарев Максим Николаевич": 60,
-      "Погорелый Дмитрий Викторович": 761
+      "2882000781047": 203,
+      "2882000783632": 16,
+      "2882000782423": 109,
+      "2882000782711": 60,
+      "2882000782949": 761
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
@@ -2802,6 +3358,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.754891+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2811,8 +3371,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "4894007211045",
+    "uikName": "УИК №802",
     "tikTvd": "2882000777446",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 503,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2828,11 +3392,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 78,
-      "Дробот Андрей Анатольевич": 6,
-      "Кукушкина Елена Михайловна": 45,
-      "Лазарев Максим Николаевич": 21,
-      "Погорелый Дмитрий Викторович": 278
+      "2882000781047": 78,
+      "2882000783632": 6,
+      "2882000782423": 45,
+      "2882000782711": 21,
+      "2882000782949": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
@@ -2842,6 +3406,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.754891+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2851,8 +3419,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "4894007211046",
+    "uikName": "УИК №803",
     "tikTvd": "2882000777446",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1969,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2868,11 +3440,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 235,
-      "Дробот Андрей Анатольевич": 89,
-      "Кукушкина Елена Михайловна": 143,
-      "Лазарев Максим Николаевич": 62,
-      "Погорелый Дмитрий Викторович": 885
+      "2882000781047": 235,
+      "2882000783632": 89,
+      "2882000782423": 143,
+      "2882000782711": 62,
+      "2882000782949": 885
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
@@ -2882,6 +3454,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.754891+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2891,8 +3467,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "4894007211047",
+    "uikName": "УИК №804",
     "tikTvd": "2882000777446",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 459,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2908,11 +3488,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 38,
-      "Дробот Андрей Анатольевич": 11,
-      "Кукушкина Елена Михайловна": 51,
-      "Лазарев Максим Николаевич": 25,
-      "Погорелый Дмитрий Викторович": 177
+      "2882000781047": 38,
+      "2882000783632": 11,
+      "2882000782423": 51,
+      "2882000782711": 25,
+      "2882000782949": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
@@ -2922,6 +3502,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.754891+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2931,8 +3515,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "4894007211048",
+    "uikName": "УИК №805",
     "tikTvd": "2882000777446",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1492,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -2948,11 +3536,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 189,
-      "Дробот Андрей Анатольевич": 2,
-      "Кукушкина Елена Михайловна": 95,
-      "Лазарев Максим Николаевич": 54,
-      "Погорелый Дмитрий Викторович": 735
+      "2882000781047": 189,
+      "2882000783632": 2,
+      "2882000782423": 95,
+      "2882000782711": 54,
+      "2882000782949": 735
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
@@ -2962,6 +3550,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:39.754891+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777446&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777446&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -2971,8 +3563,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "48940061544606",
+    "uikName": "УИК №701",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2939,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -2988,11 +3584,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 182,
-      "Дробот Андрей Анатольевич": 51,
-      "Кукушкина Елена Михайловна": 287,
-      "Лазарев Максим Николаевич": 108,
-      "Погорелый Дмитрий Викторович": 1135
+      "2882000781047": 182,
+      "2882000783632": 51,
+      "2882000782423": 287,
+      "2882000782711": 108,
+      "2882000782949": 1135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3002,6 +3598,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3011,8 +3611,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "48940061544607",
+    "uikName": "УИК №702",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2767,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -3028,11 +3632,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 523,
-      "Дробот Андрей Анатольевич": 17,
-      "Кукушкина Елена Михайловна": 248,
-      "Лазарев Максим Николаевич": 25,
-      "Погорелый Дмитрий Викторович": 937
+      "2882000781047": 523,
+      "2882000783632": 17,
+      "2882000782423": 248,
+      "2882000782711": 25,
+      "2882000782949": 937
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3042,6 +3646,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3051,8 +3659,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "48940061544608",
+    "uikName": "УИК №703",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2859,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2650,
@@ -3068,11 +3680,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 368,
-      "Дробот Андрей Анатольевич": 11,
-      "Кукушкина Елена Михайловна": 132,
-      "Лазарев Максим Николаевич": 68,
-      "Погорелый Дмитрий Викторович": 1164
+      "2882000781047": 368,
+      "2882000783632": 11,
+      "2882000782423": 132,
+      "2882000782711": 68,
+      "2882000782949": 1164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3082,6 +3694,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3091,8 +3707,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "48940061544609",
+    "uikName": "УИК №704",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2952,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -3108,11 +3728,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 164,
-      "Дробот Андрей Анатольевич": 40,
-      "Кукушкина Елена Михайловна": 191,
-      "Лазарев Максим Николаевич": 78,
-      "Погорелый Дмитрий Викторович": 150
+      "2882000781047": 164,
+      "2882000783632": 40,
+      "2882000782423": 191,
+      "2882000782711": 78,
+      "2882000782949": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3122,6 +3742,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3131,8 +3755,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "48940061544610",
+    "uikName": "УИК №705",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2687,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2650,
@@ -3148,11 +3776,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 243,
-      "Дробот Андрей Анатольевич": 93,
-      "Кукушкина Елена Михайловна": 184,
-      "Лазарев Максим Николаевич": 121,
-      "Погорелый Дмитрий Викторович": 442
+      "2882000781047": 243,
+      "2882000783632": 93,
+      "2882000782423": 184,
+      "2882000782711": 121,
+      "2882000782949": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3162,6 +3790,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3171,8 +3803,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "48940061544611",
+    "uikName": "УИК №706",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2736,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2650,
@@ -3188,11 +3824,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 311,
-      "Дробот Андрей Анатольевич": 34,
-      "Кукушкина Елена Михайловна": 102,
-      "Лазарев Максим Николаевич": 65,
-      "Погорелый Дмитрий Викторович": 1457
+      "2882000781047": 311,
+      "2882000783632": 34,
+      "2882000782423": 102,
+      "2882000782711": 65,
+      "2882000782949": 1457
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3202,6 +3838,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3211,8 +3851,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "48940061544612",
+    "uikName": "УИК №707",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2611,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3228,11 +3872,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 447,
-      "Дробот Андрей Анатольевич": 21,
-      "Кукушкина Елена Михайловна": 92,
-      "Лазарев Максим Николаевич": 40,
-      "Погорелый Дмитрий Викторович": 854
+      "2882000781047": 447,
+      "2882000783632": 21,
+      "2882000782423": 92,
+      "2882000782711": 40,
+      "2882000782949": 854
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3242,6 +3886,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3251,8 +3899,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "48940061544613",
+    "uikName": "УИК №708",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1406,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -3268,11 +3920,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 178,
-      "Дробот Андрей Анатольевич": 41,
-      "Кукушкина Елена Михайловна": 186,
-      "Лазарев Максим Николаевич": 85,
-      "Погорелый Дмитрий Викторович": 235
+      "2882000781047": 178,
+      "2882000783632": 41,
+      "2882000782423": 186,
+      "2882000782711": 85,
+      "2882000782949": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3282,6 +3934,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3291,8 +3947,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "48940061544614",
+    "uikName": "УИК №709",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2626,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3308,11 +3968,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 234,
-      "Дробот Андрей Анатольевич": 89,
-      "Кукушкина Елена Михайловна": 223,
-      "Лазарев Максим Николаевич": 104,
-      "Погорелый Дмитрий Викторович": 825
+      "2882000781047": 234,
+      "2882000783632": 89,
+      "2882000782423": 223,
+      "2882000782711": 104,
+      "2882000782949": 825
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3322,6 +3982,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3331,8 +3995,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "48940061544615",
+    "uikName": "УИК №710",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1601,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -3348,11 +4016,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 134,
-      "Дробот Андрей Анатольевич": 34,
-      "Кукушкина Елена Михайловна": 127,
-      "Лазарев Максим Николаевич": 71,
-      "Погорелый Дмитрий Викторович": 598
+      "2882000781047": 134,
+      "2882000783632": 34,
+      "2882000782423": 127,
+      "2882000782711": 71,
+      "2882000782949": 598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3362,6 +4030,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3371,8 +4043,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "48940061544616",
+    "uikName": "УИК №711",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1627,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -3388,11 +4064,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 151,
-      "Дробот Андрей Анатольевич": 46,
-      "Кукушкина Елена Михайловна": 154,
-      "Лазарев Максим Николаевич": 73,
-      "Погорелый Дмитрий Викторович": 346
+      "2882000781047": 151,
+      "2882000783632": 46,
+      "2882000782423": 154,
+      "2882000782711": 73,
+      "2882000782949": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3402,6 +4078,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3411,8 +4091,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "48940061544617",
+    "uikName": "УИК №712",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2743,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2650,
@@ -3428,11 +4112,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 266,
-      "Дробот Андрей Анатольевич": 23,
-      "Кукушкина Елена Михайловна": 285,
-      "Лазарев Максим Николаевич": 53,
-      "Погорелый Дмитрий Викторович": 1173
+      "2882000781047": 266,
+      "2882000783632": 23,
+      "2882000782423": 285,
+      "2882000782711": 53,
+      "2882000782949": 1173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3442,6 +4126,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3451,8 +4139,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "48940061544618",
+    "uikName": "УИК №713",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2785,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -3468,11 +4160,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 258,
-      "Дробот Андрей Анатольевич": 34,
-      "Кукушкина Елена Михайловна": 227,
-      "Лазарев Максим Николаевич": 89,
-      "Погорелый Дмитрий Викторович": 1109
+      "2882000781047": 258,
+      "2882000783632": 34,
+      "2882000782423": 227,
+      "2882000782711": 89,
+      "2882000782949": 1109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3482,6 +4174,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3491,8 +4187,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "48940061544619",
+    "uikName": "УИК №714",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2866,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -3508,11 +4208,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 150,
-      "Дробот Андрей Анатольевич": 42,
-      "Кукушкина Елена Михайловна": 215,
-      "Лазарев Максим Николаевич": 84,
-      "Погорелый Дмитрий Викторович": 1223
+      "2882000781047": 150,
+      "2882000783632": 42,
+      "2882000782423": 215,
+      "2882000782711": 84,
+      "2882000782949": 1223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3522,6 +4222,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3531,8 +4235,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "48940061544620",
+    "uikName": "УИК №715",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 831,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -3548,11 +4256,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 53,
-      "Дробот Андрей Анатольевич": 14,
-      "Кукушкина Елена Михайловна": 84,
-      "Лазарев Максим Николаевич": 39,
-      "Погорелый Дмитрий Викторович": 291
+      "2882000781047": 53,
+      "2882000783632": 14,
+      "2882000782423": 84,
+      "2882000782711": 39,
+      "2882000782949": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3562,6 +4270,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3571,8 +4283,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "48940061544621",
+    "uikName": "УИК №716",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2638,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -3588,11 +4304,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 252,
-      "Дробот Андрей Анатольевич": 43,
-      "Кукушкина Елена Михайловна": 289,
-      "Лазарев Максим Николаевич": 70,
-      "Погорелый Дмитрий Викторович": 961
+      "2882000781047": 252,
+      "2882000783632": 43,
+      "2882000782423": 289,
+      "2882000782711": 70,
+      "2882000782949": 961
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3602,6 +4318,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3611,8 +4331,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "48940061544622",
+    "uikName": "УИК №717",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1167,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -3628,11 +4352,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 91,
-      "Дробот Андрей Анатольевич": 21,
-      "Кукушкина Елена Михайловна": 114,
-      "Лазарев Максим Николаевич": 57,
-      "Погорелый Дмитрий Викторович": 280
+      "2882000781047": 91,
+      "2882000783632": 21,
+      "2882000782423": 114,
+      "2882000782711": 57,
+      "2882000782949": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3642,6 +4366,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3651,8 +4379,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "48940061544623",
+    "uikName": "УИК №718",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2191,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -3668,11 +4400,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 392,
-      "Дробот Андрей Анатольевич": 21,
-      "Кукушкина Елена Михайловна": 83,
-      "Лазарев Максим Николаевич": 34,
-      "Погорелый Дмитрий Викторович": 850
+      "2882000781047": 392,
+      "2882000783632": 21,
+      "2882000782423": 83,
+      "2882000782711": 34,
+      "2882000782949": 850
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3682,6 +4414,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3691,8 +4427,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "48940061544624",
+    "uikName": "УИК №719",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3708,11 +4448,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 119,
-      "Дробот Андрей Анатольевич": 27,
-      "Кукушкина Елена Михайловна": 94,
-      "Лазарев Максим Николаевич": 53,
-      "Погорелый Дмитрий Викторович": 354
+      "2882000781047": 119,
+      "2882000783632": 27,
+      "2882000782423": 94,
+      "2882000782711": 53,
+      "2882000782949": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3722,6 +4462,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3731,8 +4475,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "48940061544625",
+    "uikName": "УИК №720",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1186,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -3748,11 +4496,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 126,
-      "Дробот Андрей Анатольевич": 55,
-      "Кукушкина Елена Михайловна": 124,
-      "Лазарев Максим Николаевич": 66,
-      "Погорелый Дмитрий Викторович": 232
+      "2882000781047": 126,
+      "2882000783632": 55,
+      "2882000782423": 124,
+      "2882000782711": 66,
+      "2882000782949": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3762,6 +4510,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3771,8 +4523,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "48940061544626",
+    "uikName": "УИК №721",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1370,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -3788,11 +4544,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 112,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 127,
-      "Лазарев Максим Николаевич": 62,
-      "Погорелый Дмитрий Викторович": 302
+      "2882000781047": 112,
+      "2882000783632": 22,
+      "2882000782423": 127,
+      "2882000782711": 62,
+      "2882000782949": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3802,6 +4558,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3811,8 +4571,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "48940061544627",
+    "uikName": "УИК №722",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1874,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3828,11 +4592,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 166,
-      "Дробот Андрей Анатольевич": 26,
-      "Кукушкина Елена Михайловна": 95,
-      "Лазарев Максим Николаевич": 56,
-      "Погорелый Дмитрий Викторович": 754
+      "2882000781047": 166,
+      "2882000783632": 26,
+      "2882000782423": 95,
+      "2882000782711": 56,
+      "2882000782949": 754
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3842,6 +4606,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3851,8 +4619,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "48940061544628",
+    "uikName": "УИК №723",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1653,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -3868,11 +4640,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 231,
-      "Дробот Андрей Анатольевич": 47,
-      "Кукушкина Елена Михайловна": 72,
-      "Лазарев Максим Николаевич": 41,
-      "Погорелый Дмитрий Викторович": 793
+      "2882000781047": 231,
+      "2882000783632": 47,
+      "2882000782423": 72,
+      "2882000782711": 41,
+      "2882000782949": 793
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3882,6 +4654,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3891,8 +4667,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "48940061544629",
+    "uikName": "УИК №724",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1274,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -3908,11 +4688,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 93,
-      "Дробот Андрей Анатольевич": 30,
-      "Кукушкина Елена Михайловна": 99,
-      "Лазарев Максим Николаевич": 61,
-      "Погорелый Дмитрий Викторович": 509
+      "2882000781047": 93,
+      "2882000783632": 30,
+      "2882000782423": 99,
+      "2882000782711": 61,
+      "2882000782949": 509
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3922,6 +4702,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3931,8 +4715,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "48940061544630",
+    "uikName": "УИК №725",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1315,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -3948,11 +4736,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 129,
-      "Дробот Андрей Анатольевич": 34,
-      "Кукушкина Елена Михайловна": 135,
-      "Лазарев Максим Николаевич": 67,
-      "Погорелый Дмитрий Викторович": 599
+      "2882000781047": 129,
+      "2882000783632": 34,
+      "2882000782423": 135,
+      "2882000782711": 67,
+      "2882000782949": 599
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -3962,6 +4750,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -3971,8 +4763,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "48940061544631",
+    "uikName": "УИК №726",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1557,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -3988,11 +4784,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 180,
-      "Дробот Андрей Анатольевич": 177,
-      "Кукушкина Елена Михайловна": 81,
-      "Лазарев Максим Николаевич": 60,
-      "Погорелый Дмитрий Викторович": 499
+      "2882000781047": 180,
+      "2882000783632": 177,
+      "2882000782423": 81,
+      "2882000782711": 60,
+      "2882000782949": 499
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4002,6 +4798,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4011,8 +4811,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "48940061544632",
+    "uikName": "УИК №727",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 791,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -4028,11 +4832,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 70,
-      "Дробот Андрей Анатольевич": 19,
-      "Кукушкина Елена Михайловна": 69,
-      "Лазарев Максим Николаевич": 41,
-      "Погорелый Дмитрий Викторович": 203
+      "2882000781047": 70,
+      "2882000783632": 19,
+      "2882000782423": 69,
+      "2882000782711": 41,
+      "2882000782949": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4042,6 +4846,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4051,8 +4859,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "48940061544633",
+    "uikName": "УИК №728",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1821,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4068,11 +4880,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 183,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 102,
-      "Лазарев Максим Николаевич": 51,
-      "Погорелый Дмитрий Викторович": 663
+      "2882000781047": 183,
+      "2882000783632": 22,
+      "2882000782423": 102,
+      "2882000782711": 51,
+      "2882000782949": 663
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4082,6 +4894,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4091,8 +4907,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "48940061544634",
+    "uikName": "УИК №729",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1435,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -4108,11 +4928,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 183,
-      "Дробот Андрей Анатольевич": 39,
-      "Кукушкина Елена Михайловна": 180,
-      "Лазарев Максим Николаевич": 96,
-      "Погорелый Дмитрий Викторович": 287
+      "2882000781047": 183,
+      "2882000783632": 39,
+      "2882000782423": 180,
+      "2882000782711": 96,
+      "2882000782949": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4122,6 +4942,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4131,8 +4955,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "48940061544635",
+    "uikName": "УИК №730",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2675,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2550,
@@ -4148,11 +4976,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 254,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 156,
-      "Лазарев Максим Николаевич": 60,
-      "Погорелый Дмитрий Викторович": 1104
+      "2882000781047": 254,
+      "2882000783632": 22,
+      "2882000782423": 156,
+      "2882000782711": 60,
+      "2882000782949": 1104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4162,6 +4990,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4171,8 +5003,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "48940061544636",
+    "uikName": "УИК №731",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -4188,11 +5024,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 169,
-      "Дробот Андрей Анатольевич": 42,
-      "Кукушкина Елена Михайловна": 136,
-      "Лазарев Максим Николаевич": 87,
-      "Погорелый Дмитрий Викторович": 1001
+      "2882000781047": 169,
+      "2882000783632": 42,
+      "2882000782423": 136,
+      "2882000782711": 87,
+      "2882000782949": 1001
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4202,6 +5038,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4211,8 +5051,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "48940061544637",
+    "uikName": "УИК №732",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1403,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4228,11 +5072,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 191,
-      "Дробот Андрей Анатольевич": 39,
-      "Кукушкина Елена Михайловна": 73,
-      "Лазарев Максим Николаевич": 58,
-      "Погорелый Дмитрий Викторович": 896
+      "2882000781047": 191,
+      "2882000783632": 39,
+      "2882000782423": 73,
+      "2882000782711": 58,
+      "2882000782949": 896
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4242,6 +5086,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4251,8 +5099,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "48940061544638",
+    "uikName": "УИК №733",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1355,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -4268,11 +5120,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 98,
-      "Дробот Андрей Анатольевич": 18,
-      "Кукушкина Елена Михайловна": 42,
-      "Лазарев Максим Николаевич": 35,
-      "Погорелый Дмитрий Викторович": 483
+      "2882000781047": 98,
+      "2882000783632": 18,
+      "2882000782423": 42,
+      "2882000782711": 35,
+      "2882000782949": 483
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4282,6 +5134,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4291,8 +5147,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "48940061544639",
+    "uikName": "УИК №734",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 688,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -4308,11 +5168,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 55,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 64,
-      "Лазарев Максим Николаевич": 25,
-      "Погорелый Дмитрий Викторович": 207
+      "2882000781047": 55,
+      "2882000783632": 22,
+      "2882000782423": 64,
+      "2882000782711": 25,
+      "2882000782949": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4322,6 +5182,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4331,8 +5195,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "48940061544640",
+    "uikName": "УИК №735",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 628,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -4348,11 +5216,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 68,
-      "Дробот Андрей Анатольевич": 6,
-      "Кукушкина Елена Михайловна": 74,
-      "Лазарев Максим Николаевич": 16,
-      "Погорелый Дмитрий Викторович": 179
+      "2882000781047": 68,
+      "2882000783632": 6,
+      "2882000782423": 74,
+      "2882000782711": 16,
+      "2882000782949": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4362,6 +5230,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4371,8 +5243,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "48940061544641",
+    "uikName": "УИК №736",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1076,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -4388,11 +5264,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 93,
-      "Дробот Андрей Анатольевич": 25,
-      "Кукушкина Елена Михайловна": 99,
-      "Лазарев Максим Николаевич": 53,
-      "Погорелый Дмитрий Викторович": 358
+      "2882000781047": 93,
+      "2882000783632": 25,
+      "2882000782423": 99,
+      "2882000782711": 53,
+      "2882000782949": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4402,6 +5278,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4411,8 +5291,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "48940061544642",
+    "uikName": "УИК №737",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2491,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -4428,11 +5312,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 156,
-      "Дробот Андрей Анатольевич": 43,
-      "Кукушкина Елена Михайловна": 155,
-      "Лазарев Максим Николаевич": 90,
-      "Погорелый Дмитрий Викторович": 1239
+      "2882000781047": 156,
+      "2882000783632": 43,
+      "2882000782423": 155,
+      "2882000782711": 90,
+      "2882000782949": 1239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4442,6 +5326,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4451,8 +5339,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "48940061544643",
+    "uikName": "УИК №738",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -4468,11 +5360,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 132,
-      "Дробот Андрей Анатольевич": 30,
-      "Кукушкина Елена Михайловна": 176,
-      "Лазарев Максим Николаевич": 64,
-      "Погорелый Дмитрий Викторович": 375
+      "2882000781047": 132,
+      "2882000783632": 30,
+      "2882000782423": 176,
+      "2882000782711": 64,
+      "2882000782949": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4482,6 +5374,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4491,8 +5387,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "48940061611345",
+    "uikName": "УИК №739",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 719,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4508,11 +5408,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 120,
-      "Дробот Андрей Анатольевич": 12,
-      "Кукушкина Елена Михайловна": 64,
-      "Лазарев Максим Николаевич": 38,
-      "Погорелый Дмитрий Викторович": 412
+      "2882000781047": 120,
+      "2882000783632": 12,
+      "2882000782423": 64,
+      "2882000782711": 38,
+      "2882000782949": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4522,6 +5422,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4531,8 +5435,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "48940061611347",
+    "uikName": "УИК №740",
     "tikTvd": "2882000777447",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 58,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -4548,11 +5456,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 14,
-      "Дробот Андрей Анатольевич": 4,
-      "Кукушкина Елена Михайловна": 6,
-      "Лазарев Максим Николаевич": 2,
-      "Погорелый Дмитрий Викторович": 17
+      "2882000781047": 14,
+      "2882000783632": 4,
+      "2882000782423": 6,
+      "2882000782711": 2,
+      "2882000782949": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
@@ -4562,6 +5470,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:40.314713+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777447&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777447&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4571,8 +5483,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "4894005325618",
+    "uikName": "УИК №601",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 390,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 390,
@@ -4588,11 +5504,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 40,
-      "Дробот Андрей Анатольевич": 11,
-      "Кукушкина Елена Михайловна": 38,
-      "Лазарев Максим Николаевич": 18,
-      "Погорелый Дмитрий Викторович": 71
+      "2882000781047": 40,
+      "2882000783632": 11,
+      "2882000782423": 38,
+      "2882000782711": 18,
+      "2882000782949": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4602,6 +5518,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4611,8 +5531,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "4894005325620",
+    "uikName": "УИК №602",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2091,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2014,
@@ -4628,11 +5552,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 118,
-      "Дробот Андрей Анатольевич": 18,
-      "Кукушкина Елена Михайловна": 100,
-      "Лазарев Максим Николаевич": 51,
-      "Погорелый Дмитрий Викторович": 992
+      "2882000781047": 118,
+      "2882000783632": 18,
+      "2882000782423": 100,
+      "2882000782711": 51,
+      "2882000782949": 992
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4642,6 +5566,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4651,8 +5579,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "4894005325621",
+    "uikName": "УИК №603",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2066,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2141,
@@ -4668,11 +5600,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 219,
-      "Дробот Андрей Анатольевич": 49,
-      "Кукушкина Елена Михайловна": 256,
-      "Лазарев Максим Николаевич": 120,
-      "Погорелый Дмитрий Викторович": 264
+      "2882000781047": 219,
+      "2882000783632": 49,
+      "2882000782423": 256,
+      "2882000782711": 120,
+      "2882000782949": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4682,6 +5614,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4691,8 +5627,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "4894005325622",
+    "uikName": "УИК №604",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1533,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1691,
@@ -4708,11 +5648,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 189,
-      "Дробот Андрей Анатольевич": 54,
-      "Кукушкина Елена Михайловна": 183,
-      "Лазарев Максим Николаевич": 112,
-      "Погорелый Дмитрий Викторович": 299
+      "2882000781047": 189,
+      "2882000783632": 54,
+      "2882000782423": 183,
+      "2882000782711": 112,
+      "2882000782949": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4722,6 +5662,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4731,8 +5675,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "4894005325623",
+    "uikName": "УИК №605",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1869,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1806,
@@ -4748,11 +5696,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 223,
-      "Дробот Андрей Анатольевич": 45,
-      "Кукушкина Елена Михайловна": 137,
-      "Лазарев Максим Николаевич": 73,
-      "Погорелый Дмитрий Викторович": 508
+      "2882000781047": 223,
+      "2882000783632": 45,
+      "2882000782423": 137,
+      "2882000782711": 73,
+      "2882000782949": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4762,6 +5710,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4771,8 +5723,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "4894005325624",
+    "uikName": "УИК №606",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1580,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1607,
@@ -4788,11 +5744,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 237,
-      "Дробот Андрей Анатольевич": 15,
-      "Кукушкина Елена Михайловна": 254,
-      "Лазарев Максим Николаевич": 87,
-      "Погорелый Дмитрий Викторович": 479
+      "2882000781047": 237,
+      "2882000783632": 15,
+      "2882000782423": 254,
+      "2882000782711": 87,
+      "2882000782949": 479
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4802,6 +5758,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4811,8 +5771,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "4894005325625",
+    "uikName": "УИК №607",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 722,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 592,
@@ -4828,11 +5792,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 105,
-      "Дробот Андрей Анатольевич": 13,
-      "Кукушкина Елена Михайловна": 64,
-      "Лазарев Максим Николаевич": 36,
-      "Погорелый Дмитрий Викторович": 180
+      "2882000781047": 105,
+      "2882000783632": 13,
+      "2882000782423": 64,
+      "2882000782711": 36,
+      "2882000782949": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4842,6 +5806,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4851,8 +5819,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "4894005325626",
+    "uikName": "УИК №608",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1245,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1232,
@@ -4868,11 +5840,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 202,
-      "Дробот Андрей Анатольевич": 58,
-      "Кукушкина Елена Михайловна": 135,
-      "Лазарев Максим Николаевич": 67,
-      "Погорелый Дмитрий Викторович": 379
+      "2882000781047": 202,
+      "2882000783632": 58,
+      "2882000782423": 135,
+      "2882000782711": 67,
+      "2882000782949": 379
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4882,6 +5854,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4891,8 +5867,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "4894005325627",
+    "uikName": "УИК №609",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1607,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1697,
@@ -4908,11 +5888,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 140,
-      "Дробот Андрей Анатольевич": 32,
-      "Кукушкина Елена Михайловна": 126,
-      "Лазарев Максим Николаевич": 61,
-      "Погорелый Дмитрий Викторович": 414
+      "2882000781047": 140,
+      "2882000783632": 32,
+      "2882000782423": 126,
+      "2882000782711": 61,
+      "2882000782949": 414
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4922,6 +5902,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4931,8 +5915,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "4894005325628",
+    "uikName": "УИК №610",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1928,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1943,
@@ -4948,11 +5936,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 139,
-      "Дробот Андрей Анатольевич": 28,
-      "Кукушкина Елена Михайловна": 163,
-      "Лазарев Максим Николаевич": 82,
-      "Погорелый Дмитрий Викторович": 878
+      "2882000781047": 139,
+      "2882000783632": 28,
+      "2882000782423": 163,
+      "2882000782711": 82,
+      "2882000782949": 878
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -4962,6 +5950,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -4971,8 +5963,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "4894005325629",
+    "uikName": "УИК №611",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1464,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1512,
@@ -4988,11 +5984,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 197,
-      "Дробот Андрей Анатольевич": 19,
-      "Кукушкина Елена Михайловна": 95,
-      "Лазарев Максим Николаевич": 56,
-      "Погорелый Дмитрий Викторович": 759
+      "2882000781047": 197,
+      "2882000783632": 19,
+      "2882000782423": 95,
+      "2882000782711": 56,
+      "2882000782949": 759
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5002,6 +5998,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5011,8 +6011,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "4894005325630",
+    "uikName": "УИК №612",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1133,
@@ -5028,11 +6032,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 184,
-      "Дробот Андрей Анатольевич": 54,
-      "Кукушкина Елена Михайловна": 108,
-      "Лазарев Максим Николаевич": 75,
-      "Погорелый Дмитрий Викторович": 378
+      "2882000781047": 184,
+      "2882000783632": 54,
+      "2882000782423": 108,
+      "2882000782711": 75,
+      "2882000782949": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5042,6 +6046,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5051,8 +6059,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "4894005325631",
+    "uikName": "УИК №613",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1923,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1980,
@@ -5068,11 +6080,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 203,
-      "Дробот Андрей Анатольевич": 16,
-      "Кукушкина Елена Михайловна": 190,
-      "Лазарев Максим Николаевич": 67,
-      "Погорелый Дмитрий Викторович": 758
+      "2882000781047": 203,
+      "2882000783632": 16,
+      "2882000782423": 190,
+      "2882000782711": 67,
+      "2882000782949": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5082,6 +6094,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5091,8 +6107,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "4894005325632",
+    "uikName": "УИК №614",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1270,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1306,
@@ -5108,11 +6128,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 138,
-      "Дробот Андрей Анатольевич": 37,
-      "Кукушкина Елена Михайловна": 127,
-      "Лазарев Максим Николаевич": 68,
-      "Погорелый Дмитрий Викторович": 535
+      "2882000781047": 138,
+      "2882000783632": 37,
+      "2882000782423": 127,
+      "2882000782711": 68,
+      "2882000782949": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5122,6 +6142,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5131,8 +6155,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "4894005325633",
+    "uikName": "УИК №615",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2272,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2513,
@@ -5148,11 +6176,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 368,
-      "Дробот Андрей Анатольевич": 24,
-      "Кукушкина Елена Михайловна": 199,
-      "Лазарев Максим Николаевич": 101,
-      "Погорелый Дмитрий Викторович": 753
+      "2882000781047": 368,
+      "2882000783632": 24,
+      "2882000782423": 199,
+      "2882000782711": 101,
+      "2882000782949": 753
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5162,6 +6190,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5171,8 +6203,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "4894005325634",
+    "uikName": "УИК №616",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1860,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1934,
@@ -5188,11 +6224,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 244,
-      "Дробот Андрей Анатольевич": 81,
-      "Кукушкина Елена Михайловна": 159,
-      "Лазарев Максим Николаевич": 119,
-      "Погорелый Дмитрий Викторович": 495
+      "2882000781047": 244,
+      "2882000783632": 81,
+      "2882000782423": 159,
+      "2882000782711": 119,
+      "2882000782949": 495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5202,6 +6238,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5211,8 +6251,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "4894005325635",
+    "uikName": "УИК №617",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1623,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1765,
@@ -5228,11 +6272,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 100,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 119,
-      "Лазарев Максим Николаевич": 52,
-      "Погорелый Дмитрий Викторович": 405
+      "2882000781047": 100,
+      "2882000783632": 22,
+      "2882000782423": 119,
+      "2882000782711": 52,
+      "2882000782949": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5242,6 +6286,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5251,8 +6299,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "4894005325636",
+    "uikName": "УИК №618",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2008,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1812,
@@ -5268,11 +6320,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 200,
-      "Дробот Андрей Анатольевич": 32,
-      "Кукушкина Елена Михайловна": 176,
-      "Лазарев Максим Николаевич": 82,
-      "Погорелый Дмитрий Викторович": 757
+      "2882000781047": 200,
+      "2882000783632": 32,
+      "2882000782423": 176,
+      "2882000782711": 82,
+      "2882000782949": 757
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5282,6 +6334,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5291,8 +6347,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "4894005325637",
+    "uikName": "УИК №619",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1050,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 903,
@@ -5308,11 +6368,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 134,
-      "Дробот Андрей Анатольевич": 30,
-      "Кукушкина Елена Михайловна": 96,
-      "Лазарев Максим Николаевич": 51,
-      "Погорелый Дмитрий Викторович": 299
+      "2882000781047": 134,
+      "2882000783632": 30,
+      "2882000782423": 96,
+      "2882000782711": 51,
+      "2882000782949": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5322,6 +6382,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5331,8 +6395,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "4894005325638",
+    "uikName": "УИК №620",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2097,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2062,
@@ -5348,11 +6416,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 123,
-      "Дробот Андрей Анатольевич": 30,
-      "Кукушкина Елена Михайловна": 167,
-      "Лазарев Максим Николаевич": 67,
-      "Погорелый Дмитрий Викторович": 714
+      "2882000781047": 123,
+      "2882000783632": 30,
+      "2882000782423": 167,
+      "2882000782711": 67,
+      "2882000782949": 714
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5362,6 +6430,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5371,8 +6443,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "4894005325639",
+    "uikName": "УИК №621",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2670,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1983,
@@ -5388,11 +6464,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 336,
-      "Дробот Андрей Анатольевич": 91,
-      "Кукушкина Елена Михайловна": 355,
-      "Лазарев Максим Николаевич": 187,
-      "Погорелый Дмитрий Викторович": 444
+      "2882000781047": 336,
+      "2882000783632": 91,
+      "2882000782423": 355,
+      "2882000782711": 187,
+      "2882000782949": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5402,6 +6478,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5411,8 +6491,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "4894005325640",
+    "uikName": "УИК №622",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2101,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2229,
@@ -5428,11 +6512,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 188,
-      "Дробот Андрей Анатольевич": 18,
-      "Кукушкина Елена Михайловна": 129,
-      "Лазарев Максим Николаевич": 98,
-      "Погорелый Дмитрий Викторович": 755
+      "2882000781047": 188,
+      "2882000783632": 18,
+      "2882000782423": 129,
+      "2882000782711": 98,
+      "2882000782949": 755
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5442,6 +6526,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5451,8 +6539,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "4894005325641",
+    "uikName": "УИК №623",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2006,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2456,
@@ -5468,11 +6560,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 304,
-      "Дробот Андрей Анатольевич": 99,
-      "Кукушкина Елена Михайловна": 181,
-      "Лазарев Максим Николаевич": 121,
-      "Погорелый Дмитрий Викторович": 681
+      "2882000781047": 304,
+      "2882000783632": 99,
+      "2882000782423": 181,
+      "2882000782711": 121,
+      "2882000782949": 681
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5482,6 +6574,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5491,8 +6587,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "4894005325642",
+    "uikName": "УИК №624",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1779,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1811,
@@ -5508,11 +6608,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 245,
-      "Дробот Андрей Анатольевич": 51,
-      "Кукушкина Елена Михайловна": 195,
-      "Лазарев Максим Николаевич": 110,
-      "Погорелый Дмитрий Викторович": 494
+      "2882000781047": 245,
+      "2882000783632": 51,
+      "2882000782423": 195,
+      "2882000782711": 110,
+      "2882000782949": 494
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5522,6 +6622,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5531,8 +6635,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "4894005325643",
+    "uikName": "УИК №625",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1687,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1841,
@@ -5548,11 +6656,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 214,
-      "Дробот Андрей Анатольевич": 66,
-      "Кукушкина Елена Михайловна": 139,
-      "Лазарев Максим Николаевич": 117,
-      "Погорелый Дмитрий Викторович": 535
+      "2882000781047": 214,
+      "2882000783632": 66,
+      "2882000782423": 139,
+      "2882000782711": 117,
+      "2882000782949": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5562,6 +6670,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5571,8 +6683,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "4894005325644",
+    "uikName": "УИК №626",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2075,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2355,
@@ -5588,11 +6704,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 310,
-      "Дробот Андрей Анатольевич": 35,
-      "Кукушкина Елена Михайловна": 204,
-      "Лазарев Максим Николаевич": 145,
-      "Погорелый Дмитрий Викторович": 791
+      "2882000781047": 310,
+      "2882000783632": 35,
+      "2882000782423": 204,
+      "2882000782711": 145,
+      "2882000782949": 791
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5602,6 +6718,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5611,8 +6731,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "4894005325645",
+    "uikName": "УИК №627",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1873,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1880,
@@ -5628,11 +6752,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 344,
-      "Дробот Андрей Анатольевич": 56,
-      "Кукушкина Елена Михайловна": 123,
-      "Лазарев Максим Николаевич": 32,
-      "Погорелый Дмитрий Викторович": 592
+      "2882000781047": 344,
+      "2882000783632": 56,
+      "2882000782423": 123,
+      "2882000782711": 32,
+      "2882000782949": 592
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5642,6 +6766,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5651,8 +6779,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "4894005325646",
+    "uikName": "УИК №628",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2005,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2178,
@@ -5668,11 +6800,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 190,
-      "Дробот Андрей Анатольевич": 90,
-      "Кукушкина Елена Михайловна": 150,
-      "Лазарев Максим Николаевич": 110,
-      "Погорелый Дмитрий Викторович": 515
+      "2882000781047": 190,
+      "2882000783632": 90,
+      "2882000782423": 150,
+      "2882000782711": 110,
+      "2882000782949": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5682,6 +6814,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5691,8 +6827,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "4894005325647",
+    "uikName": "УИК №629",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1383,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1410,
@@ -5708,11 +6848,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 214,
-      "Дробот Андрей Анатольевич": 87,
-      "Кукушкина Елена Михайловна": 173,
-      "Лазарев Максим Николаевич": 113,
-      "Погорелый Дмитрий Викторович": 503
+      "2882000781047": 214,
+      "2882000783632": 87,
+      "2882000782423": 173,
+      "2882000782711": 113,
+      "2882000782949": 503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5722,6 +6862,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5731,8 +6875,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "4894005325648",
+    "uikName": "УИК №630",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1976,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1981,
@@ -5748,11 +6896,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 271,
-      "Дробот Андрей Анатольевич": 98,
-      "Кукушкина Елена Михайловна": 171,
-      "Лазарев Максим Николаевич": 131,
-      "Погорелый Дмитрий Викторович": 559
+      "2882000781047": 271,
+      "2882000783632": 98,
+      "2882000782423": 171,
+      "2882000782711": 131,
+      "2882000782949": 559
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5762,6 +6910,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5771,8 +6923,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "4894005325649",
+    "uikName": "УИК №631",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1872,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1908,
@@ -5788,11 +6944,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 186,
-      "Дробот Андрей Анатольевич": 34,
-      "Кукушкина Елена Михайловна": 154,
-      "Лазарев Максим Николаевич": 91,
-      "Погорелый Дмитрий Викторович": 337
+      "2882000781047": 186,
+      "2882000783632": 34,
+      "2882000782423": 154,
+      "2882000782711": 91,
+      "2882000782949": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5802,6 +6958,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5811,8 +6971,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "4894005325650",
+    "uikName": "УИК №632",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2022,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2107,
@@ -5828,11 +6992,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 270,
-      "Дробот Андрей Анатольевич": 52,
-      "Кукушкина Елена Михайловна": 161,
-      "Лазарев Максим Николаевич": 85,
-      "Погорелый Дмитрий Викторович": 558
+      "2882000781047": 270,
+      "2882000783632": 52,
+      "2882000782423": 161,
+      "2882000782711": 85,
+      "2882000782949": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5842,6 +7006,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5851,8 +7019,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "4894005325651",
+    "uikName": "УИК №633",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1772,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1785,
@@ -5868,11 +7040,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 200,
-      "Дробот Андрей Анатольевич": 30,
-      "Кукушкина Елена Михайловна": 227,
-      "Лазарев Максим Николаевич": 133,
-      "Погорелый Дмитрий Викторович": 446
+      "2882000781047": 200,
+      "2882000783632": 30,
+      "2882000782423": 227,
+      "2882000782711": 133,
+      "2882000782949": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5882,6 +7054,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5891,8 +7067,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "4894005325652",
+    "uikName": "УИК №634",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1192,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1244,
@@ -5908,11 +7088,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 157,
-      "Дробот Андрей Анатольевич": 61,
-      "Кукушкина Елена Михайловна": 111,
-      "Лазарев Максим Николаевич": 82,
-      "Погорелый Дмитрий Викторович": 368
+      "2882000781047": 157,
+      "2882000783632": 61,
+      "2882000782423": 111,
+      "2882000782711": 82,
+      "2882000782949": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5922,6 +7102,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5931,8 +7115,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "4894005325653",
+    "uikName": "УИК №635",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1616,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1642,
@@ -5948,11 +7136,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 298,
-      "Дробот Андрей Анатольевич": 79,
-      "Кукушкина Елена Михайловна": 152,
-      "Лазарев Максим Николаевич": 107,
-      "Погорелый Дмитрий Викторович": 552
+      "2882000781047": 298,
+      "2882000783632": 79,
+      "2882000782423": 152,
+      "2882000782711": 107,
+      "2882000782949": 552
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -5962,6 +7150,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -5971,8 +7163,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "4894005325654",
+    "uikName": "УИК №636",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 133,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 178,
@@ -5988,11 +7184,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 22,
-      "Дробот Андрей Анатольевич": 2,
-      "Кукушкина Елена Михайловна": 17,
-      "Лазарев Максим Николаевич": 4,
-      "Погорелый Дмитрий Викторович": 53
+      "2882000781047": 22,
+      "2882000783632": 2,
+      "2882000782423": 17,
+      "2882000782711": 4,
+      "2882000782949": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -6002,6 +7198,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6011,8 +7211,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "4894005325655",
+    "uikName": "УИК №637",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 753,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 851,
@@ -6028,11 +7232,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 78,
-      "Дробот Андрей Анатольевич": 15,
-      "Кукушкина Елена Михайловна": 89,
-      "Лазарев Максим Николаевич": 33,
-      "Погорелый Дмитрий Викторович": 128
+      "2882000781047": 78,
+      "2882000783632": 15,
+      "2882000782423": 89,
+      "2882000782711": 33,
+      "2882000782949": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -6042,6 +7246,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6051,8 +7259,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "4894005325656",
+    "uikName": "УИК №638",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2179,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1841,
@@ -6068,11 +7280,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 320,
-      "Дробот Андрей Анатольевич": 101,
-      "Кукушкина Елена Михайловна": 192,
-      "Лазарев Максим Николаевич": 136,
-      "Погорелый Дмитрий Викторович": 712
+      "2882000781047": 320,
+      "2882000783632": 101,
+      "2882000782423": 192,
+      "2882000782711": 136,
+      "2882000782949": 712
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -6082,6 +7294,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6091,8 +7307,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "4894005325657",
+    "uikName": "УИК №639",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2285,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2617,
@@ -6108,11 +7328,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 261,
-      "Дробот Андрей Анатольевич": 83,
-      "Кукушкина Елена Михайловна": 268,
-      "Лазарев Максим Николаевич": 160,
-      "Погорелый Дмитрий Викторович": 581
+      "2882000781047": 261,
+      "2882000783632": 83,
+      "2882000782423": 268,
+      "2882000782711": 160,
+      "2882000782949": 581
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -6122,6 +7342,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6131,8 +7355,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "4894005330362",
+    "uikName": "УИК №640",
     "tikTvd": "2882000777448",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 77,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 127,
@@ -6148,11 +7376,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 19,
-      "Дробот Андрей Анатольевич": 2,
-      "Кукушкина Елена Михайловна": 15,
-      "Лазарев Максим Николаевич": 13,
-      "Погорелый Дмитрий Викторович": 25
+      "2882000781047": 19,
+      "2882000783632": 2,
+      "2882000782423": 15,
+      "2882000782711": 13,
+      "2882000782949": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
@@ -6162,6 +7390,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.634617+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777448&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777448&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6171,8 +7403,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "4894004968581",
+    "uikName": "УИК №501",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1801,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6188,11 +7424,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 149,
-      "Дробот Андрей Анатольевич": 42,
-      "Кукушкина Елена Михайловна": 119,
-      "Лазарев Максим Николаевич": 103,
-      "Погорелый Дмитрий Викторович": 446
+      "2882000781047": 149,
+      "2882000783632": 42,
+      "2882000782423": 119,
+      "2882000782711": 103,
+      "2882000782949": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6202,6 +7438,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6211,8 +7451,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "4894004968583",
+    "uikName": "УИК №502",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1820,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6228,11 +7472,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 160,
-      "Дробот Андрей Анатольевич": 41,
-      "Кукушкина Елена Михайловна": 132,
-      "Лазарев Максим Николаевич": 113,
-      "Погорелый Дмитрий Викторович": 461
+      "2882000781047": 160,
+      "2882000783632": 41,
+      "2882000782423": 132,
+      "2882000782711": 113,
+      "2882000782949": 461
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6242,6 +7486,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6251,8 +7499,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "4894004968584",
+    "uikName": "УИК №503",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1794,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6268,11 +7520,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 162,
-      "Дробот Андрей Анатольевич": 47,
-      "Кукушкина Елена Михайловна": 134,
-      "Лазарев Максим Николаевич": 115,
-      "Погорелый Дмитрий Викторович": 490
+      "2882000781047": 162,
+      "2882000783632": 47,
+      "2882000782423": 134,
+      "2882000782711": 115,
+      "2882000782949": 490
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6282,6 +7534,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6291,8 +7547,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "4894004968585",
+    "uikName": "УИК №504",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1917,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6308,11 +7568,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 163,
-      "Дробот Андрей Анатольевич": 47,
-      "Кукушкина Елена Михайловна": 127,
-      "Лазарев Максим Николаевич": 114,
-      "Погорелый Дмитрий Викторович": 443
+      "2882000781047": 163,
+      "2882000783632": 47,
+      "2882000782423": 127,
+      "2882000782711": 114,
+      "2882000782949": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6322,6 +7582,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6331,8 +7595,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "4894004968586",
+    "uikName": "УИК №505",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1813,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1950,
@@ -6348,11 +7616,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 167,
-      "Дробот Андрей Анатольевич": 46,
-      "Кукушкина Елена Михайловна": 146,
-      "Лазарев Максим Николаевич": 112,
-      "Погорелый Дмитрий Викторович": 524
+      "2882000781047": 167,
+      "2882000783632": 46,
+      "2882000782423": 146,
+      "2882000782711": 112,
+      "2882000782949": 524
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6362,6 +7630,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6371,8 +7643,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "4894004968587",
+    "uikName": "УИК №506",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1810,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6388,11 +7664,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 160,
-      "Дробот Андрей Анатольевич": 55,
-      "Кукушкина Елена Михайловна": 139,
-      "Лазарев Максим Николаевич": 119,
-      "Погорелый Дмитрий Викторович": 480
+      "2882000781047": 160,
+      "2882000783632": 55,
+      "2882000782423": 139,
+      "2882000782711": 119,
+      "2882000782949": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6402,6 +7678,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6411,8 +7691,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "4894004968588",
+    "uikName": "УИК №507",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1785,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -6428,11 +7712,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 164,
-      "Дробот Андрей Анатольевич": 45,
-      "Кукушкина Елена Михайловна": 127,
-      "Лазарев Максим Николаевич": 109,
-      "Погорелый Дмитрий Викторович": 464
+      "2882000781047": 164,
+      "2882000783632": 45,
+      "2882000782423": 127,
+      "2882000782711": 109,
+      "2882000782949": 464
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6442,6 +7726,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6451,8 +7739,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "4894004968589",
+    "uikName": "УИК №508",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1797,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6468,11 +7760,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 195,
-      "Дробот Андрей Анатольевич": 94,
-      "Кукушкина Елена Михайловна": 99,
-      "Лазарев Максим Николаевич": 152,
-      "Погорелый Дмитрий Викторович": 556
+      "2882000781047": 195,
+      "2882000783632": 94,
+      "2882000782423": 99,
+      "2882000782711": 152,
+      "2882000782949": 556
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6482,6 +7774,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6491,8 +7787,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "4894004968590",
+    "uikName": "УИК №509",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1833,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -6508,11 +7808,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 183,
-      "Дробот Андрей Анатольевич": 54,
-      "Кукушкина Елена Михайловна": 151,
-      "Лазарев Максим Николаевич": 129,
-      "Погорелый Дмитрий Викторович": 560
+      "2882000781047": 183,
+      "2882000783632": 54,
+      "2882000782423": 151,
+      "2882000782711": 129,
+      "2882000782949": 560
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6522,6 +7822,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6531,8 +7835,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "4894004968591",
+    "uikName": "УИК №510",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1871,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6548,11 +7856,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 248,
-      "Дробот Андрей Анатольевич": 34,
-      "Кукушкина Елена Михайловна": 201,
-      "Лазарев Максим Николаевич": 89,
-      "Погорелый Дмитрий Викторович": 615
+      "2882000781047": 248,
+      "2882000783632": 34,
+      "2882000782423": 201,
+      "2882000782711": 89,
+      "2882000782949": 615
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6562,6 +7870,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6571,8 +7883,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "4894004968592",
+    "uikName": "УИК №511",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1930,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -6588,11 +7904,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 183,
-      "Дробот Андрей Анатольевич": 54,
-      "Кукушкина Елена Михайловна": 151,
-      "Лазарев Максим Николаевич": 128,
-      "Погорелый Дмитрий Викторович": 542
+      "2882000781047": 183,
+      "2882000783632": 54,
+      "2882000782423": 151,
+      "2882000782711": 128,
+      "2882000782949": 542
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6602,6 +7918,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6611,8 +7931,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "4894004968593",
+    "uikName": "УИК №512",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1816,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -6628,11 +7952,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 301,
-      "Дробот Андрей Анатольевич": 79,
-      "Кукушкина Елена Михайловна": 243,
-      "Лазарев Максим Николаевич": 231,
-      "Погорелый Дмитрий Викторович": 839
+      "2882000781047": 301,
+      "2882000783632": 79,
+      "2882000782423": 243,
+      "2882000782711": 231,
+      "2882000782949": 839
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6642,6 +7966,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6651,8 +7979,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "4894004968594",
+    "uikName": "УИК №513",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1698,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -6668,11 +8000,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 187,
-      "Дробот Андрей Анатольевич": 54,
-      "Кукушкина Елена Михайловна": 156,
-      "Лазарев Максим Николаевич": 129,
-      "Погорелый Дмитрий Викторович": 534
+      "2882000781047": 187,
+      "2882000783632": 54,
+      "2882000782423": 156,
+      "2882000782711": 129,
+      "2882000782949": 534
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6682,6 +8014,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6691,8 +8027,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "4894004968595",
+    "uikName": "УИК №514",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1831,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6708,11 +8048,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 220,
-      "Дробот Андрей Анатольевич": 48,
-      "Кукушкина Елена Михайловна": 176,
-      "Лазарев Максим Николаевич": 122,
-      "Погорелый Дмитрий Викторович": 608
+      "2882000781047": 220,
+      "2882000783632": 48,
+      "2882000782423": 176,
+      "2882000782711": 122,
+      "2882000782949": 608
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6722,6 +8062,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6731,8 +8075,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "4894004968596",
+    "uikName": "УИК №515",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1052,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -6748,11 +8096,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 99,
-      "Дробот Андрей Анатольевич": 27,
-      "Кукушкина Елена Михайловна": 77,
-      "Лазарев Максим Николаевич": 64,
-      "Погорелый Дмитрий Викторович": 297
+      "2882000781047": 99,
+      "2882000783632": 27,
+      "2882000782423": 77,
+      "2882000782711": 64,
+      "2882000782949": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6762,6 +8110,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6771,8 +8123,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "4894004968597",
+    "uikName": "УИК №516",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 802,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 830,
@@ -6788,11 +8144,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 116,
-      "Дробот Андрей Анатольевич": 34,
-      "Кукушкина Елена Михайловна": 96,
-      "Лазарев Максим Николаевич": 82,
-      "Погорелый Дмитрий Викторович": 345
+      "2882000781047": 116,
+      "2882000783632": 34,
+      "2882000782423": 96,
+      "2882000782711": 82,
+      "2882000782949": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6802,6 +8158,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6811,8 +8171,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "4894004968598",
+    "uikName": "УИК №517",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 903,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 945,
@@ -6828,11 +8192,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 130,
-      "Дробот Андрей Анатольевич": 37,
-      "Кукушкина Елена Михайловна": 105,
-      "Лазарев Максим Николаевич": 91,
-      "Погорелый Дмитрий Викторович": 391
+      "2882000781047": 130,
+      "2882000783632": 37,
+      "2882000782423": 105,
+      "2882000782711": 91,
+      "2882000782949": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6842,6 +8206,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6851,8 +8219,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "4894004968599",
+    "uikName": "УИК №518",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 940,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -6868,11 +8240,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 128,
-      "Дробот Андрей Анатольевич": 37,
-      "Кукушкина Елена Михайловна": 106,
-      "Лазарев Максим Николаевич": 89,
-      "Погорелый Дмитрий Викторович": 390
+      "2882000781047": 128,
+      "2882000783632": 37,
+      "2882000782423": 106,
+      "2882000782711": 89,
+      "2882000782949": 390
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6882,6 +8254,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6891,8 +8267,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "4894004968600",
+    "uikName": "УИК №519",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 580,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 620,
@@ -6908,11 +8288,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 84,
-      "Дробот Андрей Анатольевич": 28,
-      "Кукушкина Елена Михайловна": 69,
-      "Лазарев Максим Николаевич": 57,
-      "Погорелый Дмитрий Викторович": 261
+      "2882000781047": 84,
+      "2882000783632": 28,
+      "2882000782423": 69,
+      "2882000782711": 57,
+      "2882000782949": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6922,6 +8302,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6931,8 +8315,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "4894004968601",
+    "uikName": "УИК №520",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 203,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -6948,11 +8336,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 30,
-      "Дробот Андрей Анатольевич": 9,
-      "Кукушкина Елена Михайловна": 25,
-      "Лазарев Максим Николаевич": 21,
-      "Погорелый Дмитрий Викторович": 86
+      "2882000781047": 30,
+      "2882000783632": 9,
+      "2882000782423": 25,
+      "2882000782711": 21,
+      "2882000782949": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -6962,6 +8350,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -6971,8 +8363,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "4894004968602",
+    "uikName": "УИК №521",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 552,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -6988,11 +8384,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 78,
-      "Дробот Андрей Анатольевич": 21,
-      "Кукушкина Елена Михайловна": 65,
-      "Лазарев Максим Николаевич": 55,
-      "Погорелый Дмитрий Викторович": 237
+      "2882000781047": 78,
+      "2882000783632": 21,
+      "2882000782423": 65,
+      "2882000782711": 55,
+      "2882000782949": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7002,6 +8398,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7011,8 +8411,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "4894004968603",
+    "uikName": "УИК №522",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1066,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -7028,11 +8432,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 43,
-      "Дробот Андрей Анатольевич": 43,
-      "Кукушкина Елена Михайловна": 156,
-      "Лазарев Максим Николаевич": 18,
-      "Погорелый Дмитрий Викторович": 605
+      "2882000781047": 43,
+      "2882000783632": 43,
+      "2882000782423": 156,
+      "2882000782711": 18,
+      "2882000782949": 605
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7042,6 +8446,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7051,8 +8459,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "4894004968604",
+    "uikName": "УИК №523",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 557,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 580,
@@ -7068,11 +8480,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 82,
-      "Дробот Андрей Анатольевич": 27,
-      "Кукушкина Елена Михайловна": 69,
-      "Лазарев Максим Николаевич": 62,
-      "Погорелый Дмитрий Викторович": 241
+      "2882000781047": 82,
+      "2882000783632": 27,
+      "2882000782423": 69,
+      "2882000782711": 62,
+      "2882000782949": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7082,6 +8494,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7091,8 +8507,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "4894004968605",
+    "uikName": "УИК №524",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1804,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7108,11 +8528,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 187,
-      "Дробот Андрей Анатольевич": 67,
-      "Кукушкина Елена Михайловна": 153,
-      "Лазарев Максим Николаевич": 131,
-      "Погорелый Дмитрий Викторович": 550
+      "2882000781047": 187,
+      "2882000783632": 67,
+      "2882000782423": 153,
+      "2882000782711": 131,
+      "2882000782949": 550
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7122,6 +8542,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7131,8 +8555,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "4894004968606",
+    "uikName": "УИК №525",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2187,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2250,
@@ -7148,11 +8576,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 236,
-      "Дробот Андрей Анатольевич": 74,
-      "Кукушкина Елена Михайловна": 195,
-      "Лазарев Максим Николаевич": 168,
-      "Погорелый Дмитрий Викторович": 670
+      "2882000781047": 236,
+      "2882000783632": 74,
+      "2882000782423": 195,
+      "2882000782711": 168,
+      "2882000782949": 670
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7162,6 +8590,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7171,8 +8603,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "4894004968607",
+    "uikName": "УИК №526",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1433,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -7188,11 +8624,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 143,
-      "Дробот Андрей Анатольевич": 35,
-      "Кукушкина Елена Михайловна": 133,
-      "Лазарев Максим Николаевич": 87,
-      "Погорелый Дмитрий Викторович": 482
+      "2882000781047": 143,
+      "2882000783632": 35,
+      "2882000782423": 133,
+      "2882000782711": 87,
+      "2882000782949": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7202,6 +8638,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7211,8 +8651,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "4894004968608",
+    "uikName": "УИК №527",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1196,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -7228,11 +8672,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 135,
-      "Дробот Андрей Анатольевич": 29,
-      "Кукушкина Елена Михайловна": 119,
-      "Лазарев Максим Николаевич": 94,
-      "Погорелый Дмитрий Викторович": 376
+      "2882000781047": 135,
+      "2882000783632": 29,
+      "2882000782423": 119,
+      "2882000782711": 94,
+      "2882000782949": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7242,6 +8686,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7251,8 +8699,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "4894004975075",
+    "uikName": "УИК №528",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2541,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2550,
@@ -7268,11 +8720,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 331,
-      "Дробот Андрей Анатольевич": 93,
-      "Кукушкина Елена Михайловна": 258,
-      "Лазарев Максим Николаевич": 231,
-      "Погорелый Дмитрий Викторович": 924
+      "2882000781047": 331,
+      "2882000783632": 93,
+      "2882000782423": 258,
+      "2882000782711": 231,
+      "2882000782949": 924
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7282,6 +8734,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7291,8 +8747,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "4894004975076",
+    "uikName": "УИК №529",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2239,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2250,
@@ -7308,11 +8768,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 287,
-      "Дробот Андрей Анатольевич": 85,
-      "Кукушкина Елена Михайловна": 236,
-      "Лазарев Максим Николаевич": 215,
-      "Погорелый Дмитрий Викторович": 852
+      "2882000781047": 287,
+      "2882000783632": 85,
+      "2882000782423": 236,
+      "2882000782711": 215,
+      "2882000782949": 852
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7322,6 +8782,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7331,8 +8795,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "4894004975077",
+    "uikName": "УИК №530",
     "tikTvd": "2882000777449",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2046,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -7348,11 +8816,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 277,
-      "Дробот Андрей Анатольевич": 82,
-      "Кукушкина Елена Михайловна": 228,
-      "Лазарев Максим Николаевич": 196,
-      "Погорелый Дмитрий Викторович": 837
+      "2882000781047": 277,
+      "2882000783632": 82,
+      "2882000782423": 228,
+      "2882000782711": 196,
+      "2882000782949": 837
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
@@ -7362,6 +8830,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:41.818872+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777449&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777449&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7371,8 +8843,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "4894003320642",
+    "uikName": "УИК №401",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1718,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -7388,11 +8864,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 182,
-      "Дробот Андрей Анатольевич": 149,
-      "Кукушкина Елена Михайловна": 54,
-      "Лазарев Максим Николаевич": 33,
-      "Погорелый Дмитрий Викторович": 654
+      "2882000781047": 182,
+      "2882000783632": 149,
+      "2882000782423": 54,
+      "2882000782711": 33,
+      "2882000782949": 654
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7402,6 +8878,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7411,8 +8891,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "4894003320643",
+    "uikName": "УИК №402",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2121,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -7428,11 +8912,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 230,
-      "Дробот Андрей Анатольевич": 117,
-      "Кукушкина Елена Михайловна": 85,
-      "Лазарев Максим Николаевич": 45,
-      "Погорелый Дмитрий Викторович": 848
+      "2882000781047": 230,
+      "2882000783632": 117,
+      "2882000782423": 85,
+      "2882000782711": 45,
+      "2882000782949": 848
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7442,6 +8926,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7451,8 +8939,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "4894003320644",
+    "uikName": "УИК №403",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1975,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -7468,11 +8960,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 211,
-      "Дробот Андрей Анатольевич": 95,
-      "Кукушкина Елена Михайловна": 75,
-      "Лазарев Максим Николаевич": 65,
-      "Погорелый Дмитрий Викторович": 790
+      "2882000781047": 211,
+      "2882000783632": 95,
+      "2882000782423": 75,
+      "2882000782711": 65,
+      "2882000782949": 790
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7482,6 +8974,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7491,8 +8987,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "4894003320645",
+    "uikName": "УИК №404",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2594,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -7508,11 +9008,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 277,
-      "Дробот Андрей Анатольевич": 125,
-      "Кукушкина Елена Михайловна": 97,
-      "Лазарев Максим Николаевич": 87,
-      "Погорелый Дмитрий Викторович": 1041
+      "2882000781047": 277,
+      "2882000783632": 125,
+      "2882000782423": 97,
+      "2882000782711": 87,
+      "2882000782949": 1041
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7522,6 +9022,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7531,8 +9035,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "4894003320646",
+    "uikName": "УИК №405",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1856,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7548,11 +9056,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 198,
-      "Дробот Андрей Анатольевич": 89,
-      "Кукушкина Елена Михайловна": 70,
-      "Лазарев Максим Николаевич": 61,
-      "Погорелый Дмитрий Викторович": 742
+      "2882000781047": 198,
+      "2882000783632": 89,
+      "2882000782423": 70,
+      "2882000782711": 61,
+      "2882000782949": 742
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7562,6 +9070,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7571,8 +9083,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "4894003320647",
+    "uikName": "УИК №406",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1954,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -7588,11 +9104,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 217,
-      "Дробот Андрей Анатольевич": 75,
-      "Кукушкина Елена Михайловна": 106,
-      "Лазарев Максим Николаевич": 108,
-      "Погорелый Дмитрий Викторович": 745
+      "2882000781047": 217,
+      "2882000783632": 75,
+      "2882000782423": 106,
+      "2882000782711": 108,
+      "2882000782949": 745
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7602,6 +9118,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7611,8 +9131,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "4894003320648",
+    "uikName": "УИК №407",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1861,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7628,11 +9152,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 202,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 173,
-      "Лазарев Максим Николаевич": 80,
-      "Погорелый Дмитрий Викторович": 744
+      "2882000781047": 202,
+      "2882000783632": 22,
+      "2882000782423": 173,
+      "2882000782711": 80,
+      "2882000782949": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7642,6 +9166,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7651,8 +9179,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "4894003320649",
+    "uikName": "УИК №408",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2380,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -7668,11 +9200,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 155,
-      "Дробот Андрей Анатольевич": 101,
-      "Кукушкина Елена Михайловна": 201,
-      "Лазарев Максим Николаевич": 124,
-      "Погорелый Дмитрий Викторович": 908
+      "2882000781047": 155,
+      "2882000783632": 101,
+      "2882000782423": 201,
+      "2882000782711": 124,
+      "2882000782949": 908
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7682,6 +9214,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7691,8 +9227,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "4894003320650",
+    "uikName": "УИК №409",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -7708,11 +9248,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 235,
-      "Дробот Андрей Анатольевич": 69,
-      "Кукушкина Елена Михайловна": 83,
-      "Лазарев Максим Николаевич": 109,
-      "Погорелый Дмитрий Викторович": 883
+      "2882000781047": 235,
+      "2882000783632": 69,
+      "2882000782423": 83,
+      "2882000782711": 109,
+      "2882000782949": 883
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7722,6 +9262,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7731,8 +9275,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "4894003320651",
+    "uikName": "УИК №410",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1794,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7748,11 +9296,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 195,
-      "Дробот Андрей Анатольевич": 84,
-      "Кукушкина Елена Михайловна": 68,
-      "Лазарев Максим Николаевич": 56,
-      "Погорелый Дмитрий Викторович": 717
+      "2882000781047": 195,
+      "2882000783632": 84,
+      "2882000782423": 68,
+      "2882000782711": 56,
+      "2882000782949": 717
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7762,6 +9310,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7771,8 +9323,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "4894003320652",
+    "uikName": "УИК №411",
     "tikTvd": "2882000777450",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2079,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -7788,11 +9344,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 221,
-      "Дробот Андрей Анатольевич": 65,
-      "Кукушкина Елена Михайловна": 79,
-      "Лазарев Максим Николаевич": 101,
-      "Погорелый Дмитрий Викторович": 833
+      "2882000781047": 221,
+      "2882000783632": 65,
+      "2882000782423": 79,
+      "2882000782711": 101,
+      "2882000782949": 833
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
@@ -7802,6 +9358,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:42.187991+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777450&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777450&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7811,8 +9371,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "4894002743731",
+    "uikName": "УИК №301",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -7828,11 +9392,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 131,
-      "Дробот Андрей Анатольевич": 17,
-      "Кукушкина Елена Михайловна": 60,
-      "Лазарев Максим Николаевич": 54,
-      "Погорелый Дмитрий Викторович": 515
+      "2882000781047": 131,
+      "2882000783632": 17,
+      "2882000782423": 60,
+      "2882000782711": 54,
+      "2882000782949": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -7842,6 +9406,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7851,8 +9419,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "4894002743732",
+    "uikName": "УИК №302",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 825,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -7868,11 +9440,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 57,
-      "Дробот Андрей Анатольевич": 13,
-      "Кукушкина Елена Михайловна": 47,
-      "Лазарев Максим Николаевич": 39,
-      "Погорелый Дмитрий Викторович": 352
+      "2882000781047": 57,
+      "2882000783632": 13,
+      "2882000782423": 47,
+      "2882000782711": 39,
+      "2882000782949": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -7882,6 +9454,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7891,8 +9467,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "4894002743733",
+    "uikName": "УИК №303",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 962,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -7908,11 +9488,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 84,
-      "Дробот Андрей Анатольевич": 15,
-      "Кукушкина Елена Михайловна": 76,
-      "Лазарев Максим Николаевич": 58,
-      "Погорелый Дмитрий Викторович": 287
+      "2882000781047": 84,
+      "2882000783632": 15,
+      "2882000782423": 76,
+      "2882000782711": 58,
+      "2882000782949": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -7922,6 +9502,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7931,8 +9515,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "4894002743734",
+    "uikName": "УИК №304",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 959,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -7948,11 +9536,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 83,
-      "Дробот Андрей Анатольевич": 5,
-      "Кукушкина Елена Михайловна": 78,
-      "Лазарев Максим Николаевич": 57,
-      "Погорелый Дмитрий Викторович": 294
+      "2882000781047": 83,
+      "2882000783632": 5,
+      "2882000782423": 78,
+      "2882000782711": 57,
+      "2882000782949": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -7962,6 +9550,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -7971,8 +9563,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "4894002743735",
+    "uikName": "УИК №305",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1009,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7988,11 +9584,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 78,
-      "Дробот Андрей Анатольевич": 23,
-      "Кукушкина Елена Михайловна": 72,
-      "Лазарев Максим Николаевич": 43,
-      "Погорелый Дмитрий Викторович": 319
+      "2882000781047": 78,
+      "2882000783632": 23,
+      "2882000782423": 72,
+      "2882000782711": 43,
+      "2882000782949": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8002,6 +9598,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8011,8 +9611,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "4894002743736",
+    "uikName": "УИК №306",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1039,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8028,11 +9632,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 66,
-      "Дробот Андрей Анатольевич": 21,
-      "Кукушкина Елена Михайловна": 61,
-      "Лазарев Максим Николаевич": 44,
-      "Погорелый Дмитрий Викторович": 526
+      "2882000781047": 66,
+      "2882000783632": 21,
+      "2882000782423": 61,
+      "2882000782711": 44,
+      "2882000782949": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8042,6 +9646,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8051,8 +9659,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "4894002743737",
+    "uikName": "УИК №307",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 832,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -8068,11 +9680,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 76,
-      "Дробот Андрей Анатольевич": 14,
-      "Кукушкина Елена Михайловна": 71,
-      "Лазарев Максим Николаевич": 52,
-      "Погорелый Дмитрий Викторович": 260
+      "2882000781047": 76,
+      "2882000783632": 14,
+      "2882000782423": 71,
+      "2882000782711": 52,
+      "2882000782949": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8082,6 +9694,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8091,8 +9707,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "4894002743738",
+    "uikName": "УИК №308",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 752,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -8108,11 +9728,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 82,
-      "Дробот Андрей Анатольевич": 27,
-      "Кукушкина Елена Михайловна": 94,
-      "Лазарев Максим Николаевич": 56,
-      "Погорелый Дмитрий Викторович": 179
+      "2882000781047": 82,
+      "2882000783632": 27,
+      "2882000782423": 94,
+      "2882000782711": 56,
+      "2882000782949": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8122,6 +9742,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8131,8 +9755,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "4894002743739",
+    "uikName": "УИК №309",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1277,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -8148,11 +9776,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 99,
-      "Дробот Андрей Анатольевич": 38,
-      "Кукушкина Елена Михайловна": 119,
-      "Лазарев Максим Николаевич": 152,
-      "Погорелый Дмитрий Викторович": 378
+      "2882000781047": 99,
+      "2882000783632": 38,
+      "2882000782423": 119,
+      "2882000782711": 152,
+      "2882000782949": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8162,6 +9790,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8171,8 +9803,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "4894002743740",
+    "uikName": "УИК №310",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1136,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -8188,11 +9824,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 168,
-      "Дробот Андрей Анатольевич": 39,
-      "Кукушкина Елена Михайловна": 60,
-      "Лазарев Максим Николаевич": 45,
-      "Погорелый Дмитрий Викторович": 474
+      "2882000781047": 168,
+      "2882000783632": 39,
+      "2882000782423": 60,
+      "2882000782711": 45,
+      "2882000782949": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8202,6 +9838,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8211,8 +9851,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "4894002743741",
+    "uikName": "УИК №311",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1033,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8228,11 +9872,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 154,
-      "Дробот Андрей Анатольевич": 37,
-      "Кукушкина Елена Михайловна": 88,
-      "Лазарев Максим Николаевич": 53,
-      "Погорелый Дмитрий Викторович": 278
+      "2882000781047": 154,
+      "2882000783632": 37,
+      "2882000782423": 88,
+      "2882000782711": 53,
+      "2882000782949": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8242,6 +9886,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8251,8 +9899,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "4894002743742",
+    "uikName": "УИК №312",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 817,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -8268,11 +9920,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 78,
-      "Дробот Андрей Анатольевич": 2,
-      "Кукушкина Елена Михайловна": 72,
-      "Лазарев Максим Николаевич": 57,
-      "Погорелый Дмитрий Викторович": 265
+      "2882000781047": 78,
+      "2882000783632": 2,
+      "2882000782423": 72,
+      "2882000782711": 57,
+      "2882000782949": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8282,6 +9934,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8291,8 +9947,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "4894002743743",
+    "uikName": "УИК №313",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1018,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8308,11 +9968,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 58,
-      "Дробот Андрей Анатольевич": 20,
-      "Кукушкина Елена Михайловна": 62,
-      "Лазарев Максим Николаевич": 58,
-      "Погорелый Дмитрий Викторович": 415
+      "2882000781047": 58,
+      "2882000783632": 20,
+      "2882000782423": 62,
+      "2882000782711": 58,
+      "2882000782949": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8322,6 +9982,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8331,8 +9995,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "4894002743744",
+    "uikName": "УИК №314",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1004,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8348,11 +10016,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 87,
-      "Дробот Андрей Анатольевич": 7,
-      "Кукушкина Елена Михайловна": 71,
-      "Лазарев Максим Николаевич": 52,
-      "Погорелый Дмитрий Викторович": 293
+      "2882000781047": 87,
+      "2882000783632": 7,
+      "2882000782423": 71,
+      "2882000782711": 52,
+      "2882000782949": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8362,6 +10030,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8371,8 +10043,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "4894002743745",
+    "uikName": "УИК №315",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 707,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -8388,11 +10064,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 59,
-      "Дробот Андрей Анатольевич": 17,
-      "Кукушкина Елена Михайловна": 66,
-      "Лазарев Максим Николаевич": 45,
-      "Погорелый Дмитрий Викторович": 215
+      "2882000781047": 59,
+      "2882000783632": 17,
+      "2882000782423": 66,
+      "2882000782711": 45,
+      "2882000782949": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8402,6 +10078,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8411,8 +10091,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "4894002743746",
+    "uikName": "УИК №316",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1034,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -8428,11 +10112,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 103,
-      "Дробот Андрей Анатольевич": 22,
-      "Кукушкина Елена Михайловна": 77,
-      "Лазарев Максим Николаевич": 30,
-      "Погорелый Дмитрий Викторович": 283
+      "2882000781047": 103,
+      "2882000783632": 22,
+      "2882000782423": 77,
+      "2882000782711": 30,
+      "2882000782949": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8442,6 +10126,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8451,8 +10139,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "4894002743747",
+    "uikName": "УИК №317",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1640,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -8468,11 +10160,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 148,
-      "Дробот Андрей Анатольевич": 9,
-      "Кукушкина Елена Михайловна": 138,
-      "Лазарев Максим Николаевич": 102,
-      "Погорелый Дмитрий Викторович": 530
+      "2882000781047": 148,
+      "2882000783632": 9,
+      "2882000782423": 138,
+      "2882000782711": 102,
+      "2882000782949": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8482,6 +10174,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8491,8 +10187,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "4894002743748",
+    "uikName": "УИК №318",
     "tikTvd": "2882000777451",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1477,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -8508,11 +10208,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 254,
-      "Дробот Андрей Анатольевич": 32,
-      "Кукушкина Елена Михайловна": 123,
-      "Лазарев Максим Николаевич": 35,
-      "Погорелый Дмитрий Викторович": 479
+      "2882000781047": 254,
+      "2882000783632": 32,
+      "2882000782423": 123,
+      "2882000782711": 35,
+      "2882000782949": 479
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
@@ -8522,6 +10222,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.749598+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777451&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777451&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8531,8 +10235,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "4894001176898",
+    "uikName": "УИК №201",
     "tikTvd": "2882000777452",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1889,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8548,11 +10256,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 195,
-      "Дробот Андрей Анатольевич": 106,
-      "Кукушкина Елена Михайловна": 135,
-      "Лазарев Максим Николаевич": 61,
-      "Погорелый Дмитрий Викторович": 1004
+      "2882000781047": 195,
+      "2882000783632": 106,
+      "2882000782423": 135,
+      "2882000782711": 61,
+      "2882000782949": 1004
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
@@ -8562,6 +10270,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.920274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8571,8 +10283,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "4894001176899",
+    "uikName": "УИК №202",
     "tikTvd": "2882000777452",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1174,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1372,
@@ -8588,11 +10304,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 118,
-      "Дробот Андрей Анатольевич": 64,
-      "Кукушкина Елена Михайловна": 81,
-      "Лазарев Максим Николаевич": 37,
-      "Погорелый Дмитрий Викторович": 609
+      "2882000781047": 118,
+      "2882000783632": 64,
+      "2882000782423": 81,
+      "2882000782711": 37,
+      "2882000782949": 609
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
@@ -8602,6 +10318,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.920274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8611,8 +10331,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "4894001176900",
+    "uikName": "УИК №203",
     "tikTvd": "2882000777452",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1153,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -8628,11 +10352,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 126,
-      "Дробот Андрей Анатольевич": 72,
-      "Кукушкина Елена Михайловна": 93,
-      "Лазарев Максим Николаевич": 41,
-      "Погорелый Дмитрий Викторович": 701
+      "2882000781047": 126,
+      "2882000783632": 72,
+      "2882000782423": 93,
+      "2882000782711": 41,
+      "2882000782949": 701
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
@@ -8642,6 +10366,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.920274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8651,8 +10379,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "4894001176901",
+    "uikName": "УИК №204",
     "tikTvd": "2882000777452",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 148,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 178,
@@ -8668,11 +10400,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 18,
-      "Дробот Андрей Анатольевич": 9,
-      "Кукушкина Елена Михайловна": 11,
-      "Лазарев Максим Николаевич": 6,
-      "Погорелый Дмитрий Викторович": 93
+      "2882000781047": 18,
+      "2882000783632": 9,
+      "2882000782423": 11,
+      "2882000782711": 6,
+      "2882000782949": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
@@ -8682,6 +10414,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:43.920274+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777452&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777452&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8691,8 +10427,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "4894013473517",
+    "uikName": "УИК №101",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -8708,11 +10448,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 202,
-      "Дробот Андрей Анатольевич": 54,
-      "Кукушкина Елена Михайловна": 215,
-      "Лазарев Максим Николаевич": 93,
-      "Погорелый Дмитрий Викторович": 641
+      "2882000781047": 202,
+      "2882000783632": 54,
+      "2882000782423": 215,
+      "2882000782711": 93,
+      "2882000782949": 641
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -8722,6 +10462,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8731,8 +10475,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "4894013473518",
+    "uikName": "УИК №102",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1999,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -8748,11 +10496,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 218,
-      "Дробот Андрей Анатольевич": 41,
-      "Кукушкина Елена Михайловна": 98,
-      "Лазарев Максим Николаевич": 72,
-      "Погорелый Дмитрий Викторович": 908
+      "2882000781047": 218,
+      "2882000783632": 41,
+      "2882000782423": 98,
+      "2882000782711": 72,
+      "2882000782949": 908
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -8762,6 +10510,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8771,8 +10523,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "4894013473519",
+    "uikName": "УИК №103",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1378,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -8788,11 +10544,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 143,
-      "Дробот Андрей Анатольевич": 10,
-      "Кукушкина Елена Михайловна": 105,
-      "Лазарев Максим Николаевич": 50,
-      "Погорелый Дмитрий Викторович": 568
+      "2882000781047": 143,
+      "2882000783632": 10,
+      "2882000782423": 105,
+      "2882000782711": 50,
+      "2882000782949": 568
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -8802,6 +10558,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8811,8 +10571,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "4894013473520",
+    "uikName": "УИК №104",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1356,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -8828,11 +10592,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 131,
-      "Дробот Андрей Анатольевич": 24,
-      "Кукушкина Елена Михайловна": 97,
-      "Лазарев Максим Николаевич": 43,
-      "Погорелый Дмитрий Викторович": 457
+      "2882000781047": 131,
+      "2882000783632": 24,
+      "2882000782423": 97,
+      "2882000782711": 43,
+      "2882000782949": 457
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -8842,6 +10606,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8851,8 +10619,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "4894013473521",
+    "uikName": "УИК №105",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1618,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -8868,11 +10640,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 167,
-      "Дробот Андрей Анатольевич": 12,
-      "Кукушкина Елена Михайловна": 81,
-      "Лазарев Максим Николаевич": 59,
-      "Погорелый Дмитрий Викторович": 721
+      "2882000781047": 167,
+      "2882000783632": 12,
+      "2882000782423": 81,
+      "2882000782711": 59,
+      "2882000782949": 721
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -8882,6 +10654,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8891,8 +10667,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "4894013473522",
+    "uikName": "УИК №106",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1769,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -8908,11 +10688,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 206,
-      "Дробот Андрей Анатольевич": 10,
-      "Кукушкина Елена Михайловна": 92,
-      "Лазарев Максим Николаевич": 58,
-      "Погорелый Дмитрий Викторович": 796
+      "2882000781047": 206,
+      "2882000783632": 10,
+      "2882000782423": 92,
+      "2882000782711": 58,
+      "2882000782949": 796
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -8922,6 +10702,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8931,8 +10715,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "4894013473523",
+    "uikName": "УИК №107",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2247,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -8948,11 +10736,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 219,
-      "Дробот Андрей Анатольевич": 9,
-      "Кукушкина Елена Михайловна": 108,
-      "Лазарев Максим Николаевич": 74,
-      "Погорелый Дмитрий Викторович": 716
+      "2882000781047": 219,
+      "2882000783632": 9,
+      "2882000782423": 108,
+      "2882000782711": 74,
+      "2882000782949": 716
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -8962,6 +10750,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -8971,8 +10763,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "4894013473524",
+    "uikName": "УИК №108",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1899,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -8988,11 +10784,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 287,
-      "Дробот Андрей Анатольевич": 11,
-      "Кукушкина Елена Михайловна": 104,
-      "Лазарев Максим Николаевич": 46,
-      "Погорелый Дмитрий Викторович": 805
+      "2882000781047": 287,
+      "2882000783632": 11,
+      "2882000782423": 104,
+      "2882000782711": 46,
+      "2882000782949": 805
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -9002,6 +10798,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -9011,8 +10811,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "4894013473525",
+    "uikName": "УИК №109",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2244,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -9028,11 +10832,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 250,
-      "Дробот Андрей Анатольевич": 23,
-      "Кукушкина Елена Михайловна": 146,
-      "Лазарев Максим Николаевич": 98,
-      "Погорелый Дмитрий Викторович": 1051
+      "2882000781047": 250,
+      "2882000783632": 23,
+      "2882000782423": 146,
+      "2882000782711": 98,
+      "2882000782949": 1051
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -9042,6 +10846,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -9051,8 +10859,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "4894013473526",
+    "uikName": "УИК №110",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1133,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -9068,11 +10880,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 53,
-      "Дробот Андрей Анатольевич": 46,
-      "Кукушкина Елена Михайловна": 57,
-      "Лазарев Максим Николаевич": 80,
-      "Погорелый Дмитрий Викторович": 485
+      "2882000781047": 53,
+      "2882000783632": 46,
+      "2882000782423": 57,
+      "2882000782711": 80,
+      "2882000782949": 485
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -9082,6 +10894,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -9091,8 +10907,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "4894013473527",
+    "uikName": "УИК №111",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1328,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9108,11 +10928,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 137,
-      "Дробот Андрей Анатольевич": 10,
-      "Кукушкина Елена Михайловна": 74,
-      "Лазарев Максим Николаевич": 34,
-      "Погорелый Дмитрий Викторович": 798
+      "2882000781047": 137,
+      "2882000783632": 10,
+      "2882000782423": 74,
+      "2882000782711": 34,
+      "2882000782949": 798
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -9122,6 +10942,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -9131,8 +10955,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "4894013473528",
+    "uikName": "УИК №112",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2107,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -9148,11 +10976,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 50,
-      "Дробот Андрей Анатольевич": 14,
-      "Кукушкина Елена Михайловна": 50,
-      "Лазарев Максим Николаевич": 67,
-      "Погорелый Дмитрий Викторович": 1428
+      "2882000781047": 50,
+      "2882000783632": 14,
+      "2882000782423": 50,
+      "2882000782711": 67,
+      "2882000782949": 1428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -9162,6 +10990,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   },
   {
@@ -9171,8 +11003,12 @@ export const duma_2021_uik_463_region_89_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "4894013473529",
+    "uikName": "УИК №113",
     "tikTvd": "2882000777453",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100225883730",
+    "regionName": "Ямало-Ненецкий автономный округ",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1723,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -9188,11 +11024,11 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вершинин Иван Сергеевич": 81,
-      "Дробот Андрей Анатольевич": 9,
-      "Кукушкина Елена Михайловна": 73,
-      "Лазарев Максим Николаевич": 49,
-      "Погорелый Дмитрий Викторович": 1185
+      "2882000781047": 81,
+      "2882000783632": 9,
+      "2882000782423": 73,
+      "2882000782711": 49,
+      "2882000782949": 1185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
@@ -9202,6 +11038,10 @@ export const duma_2021_uik_463_region_89_part_001 = [
       "retrievedAt": "2026-08-26T08:13:44.313618+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/yamal-nenetsk?action=show&root=1000294&tvd=2882000777453&vrn=100100225883172&region=89&global=&sub_region=89&prver=0&pronetvd=null&vibid=2882000777453&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100225883731"
     }
   }
 ] satisfies readonly UikProtocol[];

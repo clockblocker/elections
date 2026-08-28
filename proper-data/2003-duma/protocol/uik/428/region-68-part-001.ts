@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 164,
-      "Дубовик Владимир Анатольевич": 251,
-      "Кочетов Николай Викторович": 29,
-      "Пономарев Алексей Алексеевич": 89,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000202336": 164,
+      "gas:candidate-vibid:268200070582": 251,
+      "gas:candidate-vibid:1001000220848": 29,
+      "gas:candidate-vibid:1001000121916": 89,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 191,
-      "Дубовик Владимир Анатольевич": 330,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 160,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000202336": 191,
+      "gas:candidate-vibid:268200070582": 330,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 160,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 130,
-      "Дубовик Владимир Анатольевич": 196,
-      "Кочетов Николай Викторович": 34,
-      "Пономарев Алексей Алексеевич": 63,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202336": 130,
+      "gas:candidate-vibid:268200070582": 196,
+      "gas:candidate-vibid:1001000220848": 34,
+      "gas:candidate-vibid:1001000121916": 63,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 156,
-      "Дубовик Владимир Анатольевич": 217,
-      "Кочетов Николай Викторович": 24,
-      "Пономарев Алексей Алексеевич": 55,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202336": 156,
+      "gas:candidate-vibid:268200070582": 217,
+      "gas:candidate-vibid:1001000220848": 24,
+      "gas:candidate-vibid:1001000121916": 55,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 42,
-      "Дубовик Владимир Анатольевич": 67,
-      "Кочетов Николай Викторович": 26,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 42,
+      "gas:candidate-vibid:268200070582": 67,
+      "gas:candidate-vibid:1001000220848": 26,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 232,
-      "Дубовик Владимир Анатольевич": 228,
-      "Кочетов Николай Викторович": 56,
-      "Пономарев Алексей Алексеевич": 74,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000202336": 232,
+      "gas:candidate-vibid:268200070582": 228,
+      "gas:candidate-vibid:1001000220848": 56,
+      "gas:candidate-vibid:1001000121916": 74,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 112,
-      "Дубовик Владимир Анатольевич": 256,
-      "Кочетов Николай Викторович": 58,
-      "Пономарев Алексей Алексеевич": 94,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202336": 112,
+      "gas:candidate-vibid:268200070582": 256,
+      "gas:candidate-vibid:1001000220848": 58,
+      "gas:candidate-vibid:1001000121916": 94,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 84,
-      "Дубовик Владимир Анатольевич": 315,
-      "Кочетов Николай Викторович": 89,
-      "Пономарев Алексей Алексеевич": 130,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202336": 84,
+      "gas:candidate-vibid:268200070582": 315,
+      "gas:candidate-vibid:1001000220848": 89,
+      "gas:candidate-vibid:1001000121916": 130,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 66,
-      "Дубовик Владимир Анатольевич": 214,
-      "Кочетов Николай Викторович": 64,
-      "Пономарев Алексей Алексеевич": 65,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000202336": 66,
+      "gas:candidate-vibid:268200070582": 214,
+      "gas:candidate-vibid:1001000220848": 64,
+      "gas:candidate-vibid:1001000121916": 65,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 93,
-      "Дубовик Владимир Анатольевич": 185,
-      "Кочетов Николай Викторович": 56,
-      "Пономарев Алексей Алексеевич": 50,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202336": 93,
+      "gas:candidate-vibid:268200070582": 185,
+      "gas:candidate-vibid:1001000220848": 56,
+      "gas:candidate-vibid:1001000121916": 50,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 45,
-      "Дубовик Владимир Анатольевич": 135,
-      "Кочетов Николай Викторович": 14,
-      "Пономарев Алексей Алексеевич": 29,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202336": 45,
+      "gas:candidate-vibid:268200070582": 135,
+      "gas:candidate-vibid:1001000220848": 14,
+      "gas:candidate-vibid:1001000121916": 29,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 130,
-      "Дубовик Владимир Анатольевич": 375,
-      "Кочетов Николай Викторович": 24,
-      "Пономарев Алексей Алексеевич": 170,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000202336": 130,
+      "gas:candidate-vibid:268200070582": 375,
+      "gas:candidate-vibid:1001000220848": 24,
+      "gas:candidate-vibid:1001000121916": 170,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 81,
-      "Кочетов Николай Викторович": 20,
-      "Пономарев Алексей Алексеевич": 22,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 81,
+      "gas:candidate-vibid:1001000220848": 20,
+      "gas:candidate-vibid:1001000121916": 22,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 28,
-      "Кочетов Николай Викторович": 11,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 28,
+      "gas:candidate-vibid:1001000220848": 11,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 40,
-      "Дубовик Владимир Анатольевич": 223,
-      "Кочетов Николай Викторович": 8,
-      "Пономарев Алексей Алексеевич": 115,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202336": 40,
+      "gas:candidate-vibid:268200070582": 223,
+      "gas:candidate-vibid:1001000220848": 8,
+      "gas:candidate-vibid:1001000121916": 115,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 45,
-      "Дубовик Владимир Анатольевич": 161,
-      "Кочетов Николай Викторович": 10,
-      "Пономарев Алексей Алексеевич": 19,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202336": 45,
+      "gas:candidate-vibid:268200070582": 161,
+      "gas:candidate-vibid:1001000220848": 10,
+      "gas:candidate-vibid:1001000121916": 19,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 41,
-      "Кочетов Николай Викторович": 19,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 41,
+      "gas:candidate-vibid:1001000220848": 19,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 15,
-      "Дубовик Владимир Анатольевич": 102,
-      "Кочетов Николай Викторович": 38,
-      "Пономарев Алексей Алексеевич": 18,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 15,
+      "gas:candidate-vibid:268200070582": 102,
+      "gas:candidate-vibid:1001000220848": 38,
+      "gas:candidate-vibid:1001000121916": 18,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 21,
-      "Дубовик Владимир Анатольевич": 167,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 110,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 21,
+      "gas:candidate-vibid:268200070582": 167,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 110,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 15,
-      "Дубовик Владимир Анатольевич": 169,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 68,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 15,
+      "gas:candidate-vibid:268200070582": 169,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 68,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 25,
-      "Дубовик Владимир Анатольевич": 265,
-      "Кочетов Николай Викторович": 27,
-      "Пономарев Алексей Алексеевич": 40,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202336": 25,
+      "gas:candidate-vibid:268200070582": 265,
+      "gas:candidate-vibid:1001000220848": 27,
+      "gas:candidate-vibid:1001000121916": 40,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 40,
-      "Дубовик Владимир Анатольевич": 220,
-      "Кочетов Николай Викторович": 24,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202336": 40,
+      "gas:candidate-vibid:268200070582": 220,
+      "gas:candidate-vibid:1001000220848": 24,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 65,
-      "Кочетов Николай Викторович": 10,
-      "Пономарев Алексей Алексеевич": 22,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 65,
+      "gas:candidate-vibid:1001000220848": 10,
+      "gas:candidate-vibid:1001000121916": 22,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 109,
-      "Дубовик Владимир Анатольевич": 316,
-      "Кочетов Николай Викторович": 34,
-      "Пономарев Алексей Алексеевич": 90,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000202336": 109,
+      "gas:candidate-vibid:268200070582": 316,
+      "gas:candidate-vibid:1001000220848": 34,
+      "gas:candidate-vibid:1001000121916": 90,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 61,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 20,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 61,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 20,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 123,
-      "Кочетов Николай Викторович": 11,
-      "Пономарев Алексей Алексеевич": 7,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 123,
+      "gas:candidate-vibid:1001000220848": 11,
+      "gas:candidate-vibid:1001000121916": 7,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 37,
-      "Дубовик Владимир Анатольевич": 147,
-      "Кочетов Николай Викторович": 12,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 37,
+      "gas:candidate-vibid:268200070582": 147,
+      "gas:candidate-vibid:1001000220848": 12,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 27,
-      "Дубовик Владимир Анатольевич": 117,
-      "Кочетов Николай Викторович": 14,
-      "Пономарев Алексей Алексеевич": 26,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202336": 27,
+      "gas:candidate-vibid:268200070582": 117,
+      "gas:candidate-vibid:1001000220848": 14,
+      "gas:candidate-vibid:1001000121916": 26,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 33,
-      "Дубовик Владимир Анатольевич": 137,
-      "Кочетов Николай Викторович": 32,
-      "Пономарев Алексей Алексеевич": 15,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202336": 33,
+      "gas:candidate-vibid:268200070582": 137,
+      "gas:candidate-vibid:1001000220848": 32,
+      "gas:candidate-vibid:1001000121916": 15,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 28,
-      "Дубовик Владимир Анатольевич": 223,
-      "Кочетов Николай Викторович": 40,
-      "Пономарев Алексей Алексеевич": 65,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202336": 28,
+      "gas:candidate-vibid:268200070582": 223,
+      "gas:candidate-vibid:1001000220848": 40,
+      "gas:candidate-vibid:1001000121916": 65,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 16,
-      "Кочетов Николай Викторович": 118,
-      "Пономарев Алексей Алексеевич": 9,
-      "Сечнев Вячеслав Васильевич": 20,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 16,
+      "gas:candidate-vibid:1001000220848": 118,
+      "gas:candidate-vibid:1001000121916": 9,
+      "gas:candidate-vibid:1001000195147": 20,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 61,
-      "Кочетов Николай Викторович": 2,
-      "Пономарев Алексей Алексеевич": 14,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 61,
+      "gas:candidate-vibid:1001000220848": 2,
+      "gas:candidate-vibid:1001000121916": 14,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 31,
-      "Дубовик Владимир Анатольевич": 166,
-      "Кочетов Николай Викторович": 12,
-      "Пономарев Алексей Алексеевич": 22,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202336": 31,
+      "gas:candidate-vibid:268200070582": 166,
+      "gas:candidate-vibid:1001000220848": 12,
+      "gas:candidate-vibid:1001000121916": 22,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 15,
-      "Дубовик Владимир Анатольевич": 105,
-      "Кочетов Николай Викторович": 6,
-      "Пономарев Алексей Алексеевич": 26,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202336": 15,
+      "gas:candidate-vibid:268200070582": 105,
+      "gas:candidate-vibid:1001000220848": 6,
+      "gas:candidate-vibid:1001000121916": 26,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 185,
-      "Кочетов Николай Викторович": 13,
-      "Пономарев Алексей Алексеевич": 40,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 185,
+      "gas:candidate-vibid:1001000220848": 13,
+      "gas:candidate-vibid:1001000121916": 40,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 87,
-      "Кочетов Николай Викторович": 0,
-      "Пономарев Алексей Алексеевич": 0,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 87,
+      "gas:candidate-vibid:1001000220848": 0,
+      "gas:candidate-vibid:1001000121916": 0,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 137,
-      "Кочетов Николай Викторович": 9,
-      "Пономарев Алексей Алексеевич": 40,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 137,
+      "gas:candidate-vibid:1001000220848": 9,
+      "gas:candidate-vibid:1001000121916": 40,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 86,
-      "Кочетов Николай Викторович": 15,
-      "Пономарев Алексей Алексеевич": 34,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 86,
+      "gas:candidate-vibid:1001000220848": 15,
+      "gas:candidate-vibid:1001000121916": 34,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170482&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 152,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 52,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 152,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 52,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 23,
-      "Дубовик Владимир Анатольевич": 169,
-      "Кочетов Николай Викторович": 19,
-      "Пономарев Алексей Алексеевич": 45,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202336": 23,
+      "gas:candidate-vibid:268200070582": 169,
+      "gas:candidate-vibid:1001000220848": 19,
+      "gas:candidate-vibid:1001000121916": 45,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 128,
-      "Кочетов Николай Викторович": 31,
-      "Пономарев Алексей Алексеевич": 96,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 128,
+      "gas:candidate-vibid:1001000220848": 31,
+      "gas:candidate-vibid:1001000121916": 96,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 31,
-      "Дубовик Владимир Анатольевич": 173,
-      "Кочетов Николай Викторович": 78,
-      "Пономарев Алексей Алексеевич": 109,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202336": 31,
+      "gas:candidate-vibid:268200070582": 173,
+      "gas:candidate-vibid:1001000220848": 78,
+      "gas:candidate-vibid:1001000121916": 109,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 73,
-      "Кочетов Николай Викторович": 25,
-      "Пономарев Алексей Алексеевич": 35,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 73,
+      "gas:candidate-vibid:1001000220848": 25,
+      "gas:candidate-vibid:1001000121916": 35,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 69,
-      "Дубовик Владимир Анатольевич": 431,
-      "Кочетов Николай Викторович": 225,
-      "Пономарев Алексей Алексеевич": 142,
-      "Сечнев Вячеслав Васильевич": 24,
-      "Скрипцов Евгений Николаевич": 17,
-      "Против всех": 441
+      "gas:candidate-vibid:1001000202336": 69,
+      "gas:candidate-vibid:268200070582": 431,
+      "gas:candidate-vibid:1001000220848": 225,
+      "gas:candidate-vibid:1001000121916": 142,
+      "gas:candidate-vibid:1001000195147": 24,
+      "gas:candidate-vibid:268200070689": 17,
+      "special:against-all": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 19,
-      "Дубовик Владимир Анатольевич": 326,
-      "Кочетов Николай Викторович": 17,
-      "Пономарев Алексей Алексеевич": 39,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202336": 19,
+      "gas:candidate-vibid:268200070582": 326,
+      "gas:candidate-vibid:1001000220848": 17,
+      "gas:candidate-vibid:1001000121916": 39,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 160,
-      "Кочетов Николай Викторович": 21,
-      "Пономарев Алексей Алексеевич": 46,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 160,
+      "gas:candidate-vibid:1001000220848": 21,
+      "gas:candidate-vibid:1001000121916": 46,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 125,
-      "Кочетов Николай Викторович": 18,
-      "Пономарев Алексей Алексеевич": 47,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 125,
+      "gas:candidate-vibid:1001000220848": 18,
+      "gas:candidate-vibid:1001000121916": 47,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 60,
-      "Кочетов Николай Викторович": 4,
-      "Пономарев Алексей Алексеевич": 39,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 60,
+      "gas:candidate-vibid:1001000220848": 4,
+      "gas:candidate-vibid:1001000121916": 39,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 52,
-      "Кочетов Николай Викторович": 8,
-      "Пономарев Алексей Алексеевич": 8,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 52,
+      "gas:candidate-vibid:1001000220848": 8,
+      "gas:candidate-vibid:1001000121916": 8,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 44,
-      "Дубовик Владимир Анатольевич": 274,
-      "Кочетов Николай Викторович": 45,
-      "Пономарев Алексей Алексеевич": 67,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000202336": 44,
+      "gas:candidate-vibid:268200070582": 274,
+      "gas:candidate-vibid:1001000220848": 45,
+      "gas:candidate-vibid:1001000121916": 67,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 95,
-      "Кочетов Николай Викторович": 10,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 95,
+      "gas:candidate-vibid:1001000220848": 10,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 151,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 70,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 151,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 70,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 56,
-      "Кочетов Николай Викторович": 3,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 56,
+      "gas:candidate-vibid:1001000220848": 3,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 29,
-      "Кочетов Николай Викторович": 5,
-      "Пономарев Алексей Алексеевич": 7,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 29,
+      "gas:candidate-vibid:1001000220848": 5,
+      "gas:candidate-vibid:1001000121916": 7,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 185,
-      "Кочетов Николай Викторович": 37,
-      "Пономарев Алексей Алексеевич": 123,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 185,
+      "gas:candidate-vibid:1001000220848": 37,
+      "gas:candidate-vibid:1001000121916": 123,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 41,
-      "Кочетов Николай Викторович": 3,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 41,
+      "gas:candidate-vibid:1001000220848": 3,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 151,
-      "Кочетов Николай Викторович": 22,
-      "Пономарев Алексей Алексеевич": 19,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 151,
+      "gas:candidate-vibid:1001000220848": 22,
+      "gas:candidate-vibid:1001000121916": 19,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 25,
-      "Дубовик Владимир Анатольевич": 75,
-      "Кочетов Николай Викторович": 18,
-      "Пономарев Алексей Алексеевич": 24,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202336": 25,
+      "gas:candidate-vibid:268200070582": 75,
+      "gas:candidate-vibid:1001000220848": 18,
+      "gas:candidate-vibid:1001000121916": 24,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 20,
-      "Дубовик Владимир Анатольевич": 204,
-      "Кочетов Николай Викторович": 32,
-      "Пономарев Алексей Алексеевич": 61,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202336": 20,
+      "gas:candidate-vibid:268200070582": 204,
+      "gas:candidate-vibid:1001000220848": 32,
+      "gas:candidate-vibid:1001000121916": 61,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 42,
-      "Кочетов Николай Викторович": 11,
-      "Пономарев Алексей Алексеевич": 8,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 42,
+      "gas:candidate-vibid:1001000220848": 11,
+      "gas:candidate-vibid:1001000121916": 8,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 88,
-      "Дубовик Владимир Анатольевич": 396,
-      "Кочетов Николай Викторович": 63,
-      "Пономарев Алексей Алексеевич": 140,
-      "Сечнев Вячеслав Васильевич": 14,
-      "Скрипцов Евгений Николаевич": 16,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000202336": 88,
+      "gas:candidate-vibid:268200070582": 396,
+      "gas:candidate-vibid:1001000220848": 63,
+      "gas:candidate-vibid:1001000121916": 140,
+      "gas:candidate-vibid:1001000195147": 14,
+      "gas:candidate-vibid:268200070689": 16,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 99,
-      "Дубовик Владимир Анатольевич": 405,
-      "Кочетов Николай Викторович": 85,
-      "Пономарев Алексей Алексеевич": 128,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000202336": 99,
+      "gas:candidate-vibid:268200070582": 405,
+      "gas:candidate-vibid:1001000220848": 85,
+      "gas:candidate-vibid:1001000121916": 128,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 49,
-      "Дубовик Владимир Анатольевич": 398,
-      "Кочетов Николай Викторович": 80,
-      "Пономарев Алексей Алексеевич": 99,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000202336": 49,
+      "gas:candidate-vibid:268200070582": 398,
+      "gas:candidate-vibid:1001000220848": 80,
+      "gas:candidate-vibid:1001000121916": 99,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170499&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 28,
-      "Дубовик Владимир Анатольевич": 318,
-      "Кочетов Николай Викторович": 63,
-      "Пономарев Алексей Алексеевич": 108,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000202336": 28,
+      "gas:candidate-vibid:268200070582": 318,
+      "gas:candidate-vibid:1001000220848": 63,
+      "gas:candidate-vibid:1001000121916": 108,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 322,
-      "Кочетов Николай Викторович": 118,
-      "Пономарев Алексей Алексеевич": 111,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 11,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 322,
+      "gas:candidate-vibid:1001000220848": 118,
+      "gas:candidate-vibid:1001000121916": 111,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 11,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 21,
-      "Дубовик Владимир Анатольевич": 306,
-      "Кочетов Николай Викторович": 64,
-      "Пономарев Алексей Алексеевич": 94,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000202336": 21,
+      "gas:candidate-vibid:268200070582": 306,
+      "gas:candidate-vibid:1001000220848": 64,
+      "gas:candidate-vibid:1001000121916": 94,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 27,
-      "Дубовик Владимир Анатольевич": 362,
-      "Кочетов Николай Викторович": 92,
-      "Пономарев Алексей Алексеевич": 145,
-      "Сечнев Вячеслав Васильевич": 17,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000202336": 27,
+      "gas:candidate-vibid:268200070582": 362,
+      "gas:candidate-vibid:1001000220848": 92,
+      "gas:candidate-vibid:1001000121916": 145,
+      "gas:candidate-vibid:1001000195147": 17,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 14,
-      "Дубовик Владимир Анатольевич": 226,
-      "Кочетов Николай Викторович": 53,
-      "Пономарев Алексей Алексеевич": 168,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202336": 14,
+      "gas:candidate-vibid:268200070582": 226,
+      "gas:candidate-vibid:1001000220848": 53,
+      "gas:candidate-vibid:1001000121916": 168,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 29,
-      "Кочетов Николай Викторович": 5,
-      "Пономарев Алексей Алексеевич": 9,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 29,
+      "gas:candidate-vibid:1001000220848": 5,
+      "gas:candidate-vibid:1001000121916": 9,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 130,
-      "Кочетов Николай Викторович": 19,
-      "Пономарев Алексей Алексеевич": 75,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 130,
+      "gas:candidate-vibid:1001000220848": 19,
+      "gas:candidate-vibid:1001000121916": 75,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 94,
-      "Кочетов Николай Викторович": 21,
-      "Пономарев Алексей Алексеевич": 67,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 94,
+      "gas:candidate-vibid:1001000220848": 21,
+      "gas:candidate-vibid:1001000121916": 67,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 140,
-      "Кочетов Николай Викторович": 34,
-      "Пономарев Алексей Алексеевич": 37,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 140,
+      "gas:candidate-vibid:1001000220848": 34,
+      "gas:candidate-vibid:1001000121916": 37,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 83,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 32,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 83,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 32,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 148,
-      "Кочетов Николай Викторович": 20,
-      "Пономарев Алексей Алексеевич": 40,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 148,
+      "gas:candidate-vibid:1001000220848": 20,
+      "gas:candidate-vibid:1001000121916": 40,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 216,
-      "Кочетов Николай Викторович": 22,
-      "Пономарев Алексей Алексеевич": 35,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 216,
+      "gas:candidate-vibid:1001000220848": 22,
+      "gas:candidate-vibid:1001000121916": 35,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 261,
-      "Кочетов Николай Викторович": 76,
-      "Пономарев Алексей Алексеевич": 86,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 261,
+      "gas:candidate-vibid:1001000220848": 76,
+      "gas:candidate-vibid:1001000121916": 86,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 36,
-      "Дубовик Владимир Анатольевич": 226,
-      "Кочетов Николай Викторович": 43,
-      "Пономарев Алексей Алексеевич": 95,
-      "Сечнев Вячеслав Васильевич": 15,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000202336": 36,
+      "gas:candidate-vibid:268200070582": 226,
+      "gas:candidate-vibid:1001000220848": 43,
+      "gas:candidate-vibid:1001000121916": 95,
+      "gas:candidate-vibid:1001000195147": 15,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 33,
-      "Кочетов Николай Викторович": 23,
-      "Пономарев Алексей Алексеевич": 22,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 33,
+      "gas:candidate-vibid:1001000220848": 23,
+      "gas:candidate-vibid:1001000121916": 22,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 71,
-      "Кочетов Николай Викторович": 7,
-      "Пономарев Алексей Алексеевич": 19,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 71,
+      "gas:candidate-vibid:1001000220848": 7,
+      "gas:candidate-vibid:1001000121916": 19,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 22,
-      "Кочетов Николай Викторович": 4,
-      "Пономарев Алексей Алексеевич": 13,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 22,
+      "gas:candidate-vibid:1001000220848": 4,
+      "gas:candidate-vibid:1001000121916": 13,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 238,
-      "Кочетов Николай Викторович": 52,
-      "Пономарев Алексей Алексеевич": 186,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 238,
+      "gas:candidate-vibid:1001000220848": 52,
+      "gas:candidate-vibid:1001000121916": 186,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 157,
-      "Кочетов Николай Викторович": 25,
-      "Пономарев Алексей Алексеевич": 42,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 157,
+      "gas:candidate-vibid:1001000220848": 25,
+      "gas:candidate-vibid:1001000121916": 42,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 58,
-      "Кочетов Николай Викторович": 11,
-      "Пономарев Алексей Алексеевич": 14,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 58,
+      "gas:candidate-vibid:1001000220848": 11,
+      "gas:candidate-vibid:1001000121916": 14,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 134,
-      "Кочетов Николай Викторович": 44,
-      "Пономарев Алексей Алексеевич": 49,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 134,
+      "gas:candidate-vibid:1001000220848": 44,
+      "gas:candidate-vibid:1001000121916": 49,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 249,
-      "Кочетов Николай Викторович": 59,
-      "Пономарев Алексей Алексеевич": 57,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 249,
+      "gas:candidate-vibid:1001000220848": 59,
+      "gas:candidate-vibid:1001000121916": 57,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 93,
-      "Кочетов Николай Викторович": 20,
-      "Пономарев Алексей Алексеевич": 36,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 93,
+      "gas:candidate-vibid:1001000220848": 20,
+      "gas:candidate-vibid:1001000121916": 36,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 250,
-      "Кочетов Николай Викторович": 35,
-      "Пономарев Алексей Алексеевич": 72,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 250,
+      "gas:candidate-vibid:1001000220848": 35,
+      "gas:candidate-vibid:1001000121916": 72,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 95,
-      "Кочетов Николай Викторович": 31,
-      "Пономарев Алексей Алексеевич": 29,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 95,
+      "gas:candidate-vibid:1001000220848": 31,
+      "gas:candidate-vibid:1001000121916": 29,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 94,
-      "Кочетов Николай Викторович": 9,
-      "Пономарев Алексей Алексеевич": 24,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 94,
+      "gas:candidate-vibid:1001000220848": 9,
+      "gas:candidate-vibid:1001000121916": 24,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 67,
-      "Дубовик Владимир Анатольевич": 3,
-      "Кочетов Николай Викторович": 6,
-      "Пономарев Алексей Алексеевич": 13,
-      "Сечнев Вячеслав Васильевич": 7,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202336": 67,
+      "gas:candidate-vibid:268200070582": 3,
+      "gas:candidate-vibid:1001000220848": 6,
+      "gas:candidate-vibid:1001000121916": 13,
+      "gas:candidate-vibid:1001000195147": 7,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 160,
-      "Кочетов Николай Викторович": 24,
-      "Пономарев Алексей Алексеевич": 27,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 160,
+      "gas:candidate-vibid:1001000220848": 24,
+      "gas:candidate-vibid:1001000121916": 27,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 42,
-      "Кочетов Николай Викторович": 14,
-      "Пономарев Алексей Алексеевич": 9,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 42,
+      "gas:candidate-vibid:1001000220848": 14,
+      "gas:candidate-vibid:1001000121916": 9,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 83,
-      "Кочетов Николай Викторович": 44,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 83,
+      "gas:candidate-vibid:1001000220848": 44,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 68,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 33,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 68,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 33,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 50,
-      "Кочетов Николай Викторович": 14,
-      "Пономарев Алексей Алексеевич": 4,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 50,
+      "gas:candidate-vibid:1001000220848": 14,
+      "gas:candidate-vibid:1001000121916": 4,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 92,
-      "Кочетов Николай Викторович": 24,
-      "Пономарев Алексей Алексеевич": 38,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 92,
+      "gas:candidate-vibid:1001000220848": 24,
+      "gas:candidate-vibid:1001000121916": 38,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 152,
-      "Кочетов Николай Викторович": 23,
-      "Пономарев Алексей Алексеевич": 30,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 152,
+      "gas:candidate-vibid:1001000220848": 23,
+      "gas:candidate-vibid:1001000121916": 30,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 70,
-      "Кочетов Николай Викторович": 5,
-      "Пономарев Алексей Алексеевич": 41,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 70,
+      "gas:candidate-vibid:1001000220848": 5,
+      "gas:candidate-vibid:1001000121916": 41,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 225,
-      "Кочетов Николай Викторович": 26,
-      "Пономарев Алексей Алексеевич": 42,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 225,
+      "gas:candidate-vibid:1001000220848": 26,
+      "gas:candidate-vibid:1001000121916": 42,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 42,
-      "Кочетов Николай Викторович": 12,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 42,
+      "gas:candidate-vibid:1001000220848": 12,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 61,
-      "Кочетов Николай Викторович": 9,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 61,
+      "gas:candidate-vibid:1001000220848": 9,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 123,
-      "Кочетов Николай Викторович": 9,
-      "Пономарев Алексей Алексеевич": 78,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 123,
+      "gas:candidate-vibid:1001000220848": 9,
+      "gas:candidate-vibid:1001000121916": 78,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 196,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 95,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 196,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 95,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 159,
-      "Кочетов Николай Викторович": 14,
-      "Пономарев Алексей Алексеевич": 19,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 159,
+      "gas:candidate-vibid:1001000220848": 14,
+      "gas:candidate-vibid:1001000121916": 19,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 77,
-      "Кочетов Николай Викторович": 8,
-      "Пономарев Алексей Алексеевич": 5,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 77,
+      "gas:candidate-vibid:1001000220848": 8,
+      "gas:candidate-vibid:1001000121916": 5,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 173,
-      "Кочетов Николай Викторович": 23,
-      "Пономарев Алексей Алексеевич": 21,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 173,
+      "gas:candidate-vibid:1001000220848": 23,
+      "gas:candidate-vibid:1001000121916": 21,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 142,
-      "Кочетов Николай Викторович": 41,
-      "Пономарев Алексей Алексеевич": 46,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 142,
+      "gas:candidate-vibid:1001000220848": 41,
+      "gas:candidate-vibid:1001000121916": 46,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 83,
-      "Кочетов Николай Викторович": 14,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 83,
+      "gas:candidate-vibid:1001000220848": 14,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 216,
-      "Кочетов Николай Викторович": 13,
-      "Пономарев Алексей Алексеевич": 21,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 216,
+      "gas:candidate-vibid:1001000220848": 13,
+      "gas:candidate-vibid:1001000121916": 21,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 137,
-      "Кочетов Николай Викторович": 30,
-      "Пономарев Алексей Алексеевич": 53,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 137,
+      "gas:candidate-vibid:1001000220848": 30,
+      "gas:candidate-vibid:1001000121916": 53,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 88,
-      "Кочетов Николай Викторович": 25,
-      "Пономарев Алексей Алексеевич": 81,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 88,
+      "gas:candidate-vibid:1001000220848": 25,
+      "gas:candidate-vibid:1001000121916": 81,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 196,
-      "Кочетов Николай Викторович": 20,
-      "Пономарев Алексей Алексеевич": 69,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 196,
+      "gas:candidate-vibid:1001000220848": 20,
+      "gas:candidate-vibid:1001000121916": 69,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 34,
-      "Кочетов Николай Викторович": 14,
-      "Пономарев Алексей Алексеевич": 16,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 34,
+      "gas:candidate-vibid:1001000220848": 14,
+      "gas:candidate-vibid:1001000121916": 16,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170500&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 40,
-      "Дубовик Владимир Анатольевич": 174,
-      "Кочетов Николай Викторович": 11,
-      "Пономарев Алексей Алексеевич": 36,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202336": 40,
+      "gas:candidate-vibid:268200070582": 174,
+      "gas:candidate-vibid:1001000220848": 11,
+      "gas:candidate-vibid:1001000121916": 36,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 123,
-      "Кочетов Николай Викторович": 25,
-      "Пономарев Алексей Алексеевич": 45,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 123,
+      "gas:candidate-vibid:1001000220848": 25,
+      "gas:candidate-vibid:1001000121916": 45,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 73,
-      "Кочетов Николай Викторович": 22,
-      "Пономарев Алексей Алексеевич": 2,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 73,
+      "gas:candidate-vibid:1001000220848": 22,
+      "gas:candidate-vibid:1001000121916": 2,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 133,
-      "Кочетов Николай Викторович": 47,
-      "Пономарев Алексей Алексеевич": 9,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 133,
+      "gas:candidate-vibid:1001000220848": 47,
+      "gas:candidate-vibid:1001000121916": 9,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 59,
-      "Кочетов Николай Викторович": 32,
-      "Пономарев Алексей Алексеевич": 1,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 59,
+      "gas:candidate-vibid:1001000220848": 32,
+      "gas:candidate-vibid:1001000121916": 1,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 30,
-      "Дубовик Владимир Анатольевич": 164,
-      "Кочетов Николай Викторович": 23,
-      "Пономарев Алексей Алексеевич": 80,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000202336": 30,
+      "gas:candidate-vibid:268200070582": 164,
+      "gas:candidate-vibid:1001000220848": 23,
+      "gas:candidate-vibid:1001000121916": 80,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 48,
-      "Кочетов Николай Викторович": 1,
-      "Пономарев Алексей Алексеевич": 20,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 48,
+      "gas:candidate-vibid:1001000220848": 1,
+      "gas:candidate-vibid:1001000121916": 20,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 82,
-      "Кочетов Николай Викторович": 30,
-      "Пономарев Алексей Алексеевич": 23,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 82,
+      "gas:candidate-vibid:1001000220848": 30,
+      "gas:candidate-vibid:1001000121916": 23,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 28,
-      "Дубовик Владимир Анатольевич": 229,
-      "Кочетов Николай Викторович": 22,
-      "Пономарев Алексей Алексеевич": 75,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 28,
+      "gas:candidate-vibid:268200070582": 229,
+      "gas:candidate-vibid:1001000220848": 22,
+      "gas:candidate-vibid:1001000121916": 75,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 37,
-      "Дубовик Владимир Анатольевич": 115,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 34,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000202336": 37,
+      "gas:candidate-vibid:268200070582": 115,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 34,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 30,
-      "Дубовик Владимир Анатольевич": 61,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 33,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202336": 30,
+      "gas:candidate-vibid:268200070582": 61,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 33,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 46,
-      "Дубовик Владимир Анатольевич": 199,
-      "Кочетов Николай Викторович": 50,
-      "Пономарев Алексей Алексеевич": 49,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000202336": 46,
+      "gas:candidate-vibid:268200070582": 199,
+      "gas:candidate-vibid:1001000220848": 50,
+      "gas:candidate-vibid:1001000121916": 49,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 58,
-      "Кочетов Николай Викторович": 11,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 58,
+      "gas:candidate-vibid:1001000220848": 11,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 197,
-      "Кочетов Николай Викторович": 51,
-      "Пономарев Алексей Алексеевич": 145,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 197,
+      "gas:candidate-vibid:1001000220848": 51,
+      "gas:candidate-vibid:1001000121916": 145,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 57,
-      "Кочетов Николай Викторович": 39,
-      "Пономарев Алексей Алексеевич": 19,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 57,
+      "gas:candidate-vibid:1001000220848": 39,
+      "gas:candidate-vibid:1001000121916": 19,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 15,
-      "Дубовик Владимир Анатольевич": 25,
-      "Кочетов Николай Викторович": 24,
-      "Пономарев Алексей Алексеевич": 3,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 15,
+      "gas:candidate-vibid:268200070582": 25,
+      "gas:candidate-vibid:1001000220848": 24,
+      "gas:candidate-vibid:1001000121916": 3,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 26,
-      "Дубовик Владимир Анатольевич": 59,
-      "Кочетов Николай Викторович": 57,
-      "Пономарев Алексей Алексеевич": 37,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 26,
+      "gas:candidate-vibid:268200070582": 59,
+      "gas:candidate-vibid:1001000220848": 57,
+      "gas:candidate-vibid:1001000121916": 37,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 37,
-      "Дубовик Владимир Анатольевич": 171,
-      "Кочетов Николай Викторович": 138,
-      "Пономарев Алексей Алексеевич": 46,
-      "Сечнев Вячеслав Васильевич": 16,
-      "Скрипцов Евгений Николаевич": 13,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000202336": 37,
+      "gas:candidate-vibid:268200070582": 171,
+      "gas:candidate-vibid:1001000220848": 138,
+      "gas:candidate-vibid:1001000121916": 46,
+      "gas:candidate-vibid:1001000195147": 16,
+      "gas:candidate-vibid:268200070689": 13,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 207,
-      "Кочетов Николай Викторович": 79,
-      "Пономарев Алексей Алексеевич": 60,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 207,
+      "gas:candidate-vibid:1001000220848": 79,
+      "gas:candidate-vibid:1001000121916": 60,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 127,
-      "Кочетов Николай Викторович": 47,
-      "Пономарев Алексей Алексеевич": 50,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 127,
+      "gas:candidate-vibid:1001000220848": 47,
+      "gas:candidate-vibid:1001000121916": 50,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 30,
-      "Дубовик Владимир Анатольевич": 141,
-      "Кочетов Николай Викторович": 103,
-      "Пономарев Алексей Алексеевич": 64,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202336": 30,
+      "gas:candidate-vibid:268200070582": 141,
+      "gas:candidate-vibid:1001000220848": 103,
+      "gas:candidate-vibid:1001000121916": 64,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 38,
-      "Дубовик Владимир Анатольевич": 282,
-      "Кочетов Николай Викторович": 99,
-      "Пономарев Алексей Алексеевич": 54,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000202336": 38,
+      "gas:candidate-vibid:268200070582": 282,
+      "gas:candidate-vibid:1001000220848": 99,
+      "gas:candidate-vibid:1001000121916": 54,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 92,
-      "Кочетов Николай Викторович": 32,
-      "Пономарев Алексей Алексеевич": 10,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 92,
+      "gas:candidate-vibid:1001000220848": 32,
+      "gas:candidate-vibid:1001000121916": 10,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 124,
-      "Кочетов Николай Викторович": 38,
-      "Пономарев Алексей Алексеевич": 47,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 124,
+      "gas:candidate-vibid:1001000220848": 38,
+      "gas:candidate-vibid:1001000121916": 47,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 52,
-      "Кочетов Николай Викторович": 2,
-      "Пономарев Алексей Алексеевич": 2,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 52,
+      "gas:candidate-vibid:1001000220848": 2,
+      "gas:candidate-vibid:1001000121916": 2,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 62,
-      "Кочетов Николай Викторович": 28,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 62,
+      "gas:candidate-vibid:1001000220848": 28,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 22,
-      "Дубовик Владимир Анатольевич": 83,
-      "Кочетов Николай Викторович": 39,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202336": 22,
+      "gas:candidate-vibid:268200070582": 83,
+      "gas:candidate-vibid:1001000220848": 39,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 131,
-      "Кочетов Николай Викторович": 44,
-      "Пономарев Алексей Алексеевич": 39,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 131,
+      "gas:candidate-vibid:1001000220848": 44,
+      "gas:candidate-vibid:1001000121916": 39,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 76,
-      "Кочетов Николай Викторович": 29,
-      "Пономарев Алексей Алексеевич": 31,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 76,
+      "gas:candidate-vibid:1001000220848": 29,
+      "gas:candidate-vibid:1001000121916": 31,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 26,
-      "Дубовик Владимир Анатольевич": 114,
-      "Кочетов Николай Викторович": 61,
-      "Пономарев Алексей Алексеевич": 64,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000202336": 26,
+      "gas:candidate-vibid:268200070582": 114,
+      "gas:candidate-vibid:1001000220848": 61,
+      "gas:candidate-vibid:1001000121916": 64,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 23,
-      "Дубовик Владимир Анатольевич": 203,
-      "Кочетов Николай Викторович": 80,
-      "Пономарев Алексей Алексеевич": 114,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000202336": 23,
+      "gas:candidate-vibid:268200070582": 203,
+      "gas:candidate-vibid:1001000220848": 80,
+      "gas:candidate-vibid:1001000121916": 114,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 44,
-      "Кочетов Николай Викторович": 17,
-      "Пономарев Алексей Алексеевич": 16,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 44,
+      "gas:candidate-vibid:1001000220848": 17,
+      "gas:candidate-vibid:1001000121916": 16,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 103,
-      "Кочетов Николай Викторович": 47,
-      "Пономарев Алексей Алексеевич": 122,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 103,
+      "gas:candidate-vibid:1001000220848": 47,
+      "gas:candidate-vibid:1001000121916": 122,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 38,
-      "Кочетов Николай Викторович": 19,
-      "Пономарев Алексей Алексеевич": 20,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 38,
+      "gas:candidate-vibid:1001000220848": 19,
+      "gas:candidate-vibid:1001000121916": 20,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 14,
-      "Дубовик Владимир Анатольевич": 77,
-      "Кочетов Николай Викторович": 43,
-      "Пономарев Алексей Алексеевич": 16,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202336": 14,
+      "gas:candidate-vibid:268200070582": 77,
+      "gas:candidate-vibid:1001000220848": 43,
+      "gas:candidate-vibid:1001000121916": 16,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 44,
-      "Дубовик Владимир Анатольевич": 154,
-      "Кочетов Николай Викторович": 35,
-      "Пономарев Алексей Алексеевич": 31,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202336": 44,
+      "gas:candidate-vibid:268200070582": 154,
+      "gas:candidate-vibid:1001000220848": 35,
+      "gas:candidate-vibid:1001000121916": 31,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 148,
-      "Кочетов Николай Викторович": 42,
-      "Пономарев Алексей Алексеевич": 92,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 148,
+      "gas:candidate-vibid:1001000220848": 42,
+      "gas:candidate-vibid:1001000121916": 92,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 84,
-      "Кочетов Николай Викторович": 29,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 84,
+      "gas:candidate-vibid:1001000220848": 29,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 304,
-      "Кочетов Николай Викторович": 41,
-      "Пономарев Алексей Алексеевич": 68,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 304,
+      "gas:candidate-vibid:1001000220848": 41,
+      "gas:candidate-vibid:1001000121916": 68,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170502&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 130,
-      "Кочетов Николай Викторович": 302,
-      "Пономарев Алексей Алексеевич": 36,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 130,
+      "gas:candidate-vibid:1001000220848": 302,
+      "gas:candidate-vibid:1001000121916": 36,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 141,
-      "Кочетов Николай Викторович": 236,
-      "Пономарев Алексей Алексеевич": 41,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 141,
+      "gas:candidate-vibid:1001000220848": 236,
+      "gas:candidate-vibid:1001000121916": 41,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 55,
-      "Кочетов Николай Викторович": 8,
-      "Пономарев Алексей Алексеевич": 7,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 55,
+      "gas:candidate-vibid:1001000220848": 8,
+      "gas:candidate-vibid:1001000121916": 7,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 166,
-      "Кочетов Николай Викторович": 38,
-      "Пономарев Алексей Алексеевич": 14,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 166,
+      "gas:candidate-vibid:1001000220848": 38,
+      "gas:candidate-vibid:1001000121916": 14,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 19,
-      "Кочетов Николай Викторович": 215,
-      "Пономарев Алексей Алексеевич": 3,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 19,
+      "gas:candidate-vibid:1001000220848": 215,
+      "gas:candidate-vibid:1001000121916": 3,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 77,
-      "Кочетов Николай Викторович": 54,
-      "Пономарев Алексей Алексеевич": 11,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 77,
+      "gas:candidate-vibid:1001000220848": 54,
+      "gas:candidate-vibid:1001000121916": 11,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 98,
-      "Кочетов Николай Викторович": 51,
-      "Пономарев Алексей Алексеевич": 19,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 98,
+      "gas:candidate-vibid:1001000220848": 51,
+      "gas:candidate-vibid:1001000121916": 19,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 159,
-      "Кочетов Николай Викторович": 50,
-      "Пономарев Алексей Алексеевич": 13,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 159,
+      "gas:candidate-vibid:1001000220848": 50,
+      "gas:candidate-vibid:1001000121916": 13,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 105,
-      "Кочетов Николай Викторович": 73,
-      "Пономарев Алексей Алексеевич": 10,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 105,
+      "gas:candidate-vibid:1001000220848": 73,
+      "gas:candidate-vibid:1001000121916": 10,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 72,
-      "Кочетов Николай Викторович": 10,
-      "Пономарев Алексей Алексеевич": 7,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 72,
+      "gas:candidate-vibid:1001000220848": 10,
+      "gas:candidate-vibid:1001000121916": 7,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 124,
-      "Кочетов Николай Викторович": 177,
-      "Пономарев Алексей Алексеевич": 33,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 124,
+      "gas:candidate-vibid:1001000220848": 177,
+      "gas:candidate-vibid:1001000121916": 33,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 118,
-      "Кочетов Николай Викторович": 15,
-      "Пономарев Алексей Алексеевич": 42,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 118,
+      "gas:candidate-vibid:1001000220848": 15,
+      "gas:candidate-vibid:1001000121916": 42,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 125,
-      "Кочетов Николай Викторович": 91,
-      "Пономарев Алексей Алексеевич": 30,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 125,
+      "gas:candidate-vibid:1001000220848": 91,
+      "gas:candidate-vibid:1001000121916": 30,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 215,
-      "Кочетов Николай Викторович": 65,
-      "Пономарев Алексей Алексеевич": 50,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 215,
+      "gas:candidate-vibid:1001000220848": 65,
+      "gas:candidate-vibid:1001000121916": 50,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 24,
-      "Дубовик Владимир Анатольевич": 193,
-      "Кочетов Николай Викторович": 129,
-      "Пономарев Алексей Алексеевич": 51,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000202336": 24,
+      "gas:candidate-vibid:268200070582": 193,
+      "gas:candidate-vibid:1001000220848": 129,
+      "gas:candidate-vibid:1001000121916": 51,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 14,
-      "Дубовик Владимир Анатольевич": 109,
-      "Кочетов Николай Викторович": 28,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202336": 14,
+      "gas:candidate-vibid:268200070582": 109,
+      "gas:candidate-vibid:1001000220848": 28,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 31,
-      "Кочетов Николай Викторович": 28,
-      "Пономарев Алексей Алексеевич": 18,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 31,
+      "gas:candidate-vibid:1001000220848": 28,
+      "gas:candidate-vibid:1001000121916": 18,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 50,
-      "Кочетов Николай Викторович": 66,
-      "Пономарев Алексей Алексеевич": 38,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 50,
+      "gas:candidate-vibid:1001000220848": 66,
+      "gas:candidate-vibid:1001000121916": 38,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 62,
-      "Кочетов Николай Викторович": 35,
-      "Пономарев Алексей Алексеевич": 4,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 62,
+      "gas:candidate-vibid:1001000220848": 35,
+      "gas:candidate-vibid:1001000121916": 4,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 125,
-      "Кочетов Николай Викторович": 52,
-      "Пономарев Алексей Алексеевич": 14,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 125,
+      "gas:candidate-vibid:1001000220848": 52,
+      "gas:candidate-vibid:1001000121916": 14,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 51,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 5,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 51,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 5,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 105,
-      "Кочетов Николай Викторович": 30,
-      "Пономарев Алексей Алексеевич": 2,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 105,
+      "gas:candidate-vibid:1001000220848": 30,
+      "gas:candidate-vibid:1001000121916": 2,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 170,
-      "Кочетов Николай Викторович": 57,
-      "Пономарев Алексей Алексеевич": 55,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 170,
+      "gas:candidate-vibid:1001000220848": 57,
+      "gas:candidate-vibid:1001000121916": 55,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 160,
-      "Кочетов Николай Викторович": 26,
-      "Пономарев Алексей Алексеевич": 20,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 160,
+      "gas:candidate-vibid:1001000220848": 26,
+      "gas:candidate-vibid:1001000121916": 20,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 26,
-      "Дубовик Владимир Анатольевич": 436,
-      "Кочетов Николай Викторович": 44,
-      "Пономарев Алексей Алексеевич": 44,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 8,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202336": 26,
+      "gas:candidate-vibid:268200070582": 436,
+      "gas:candidate-vibid:1001000220848": 44,
+      "gas:candidate-vibid:1001000121916": 44,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 8,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 32,
-      "Дубовик Владимир Анатольевич": 202,
-      "Кочетов Николай Викторович": 66,
-      "Пономарев Алексей Алексеевич": 136,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 16,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000202336": 32,
+      "gas:candidate-vibid:268200070582": 202,
+      "gas:candidate-vibid:1001000220848": 66,
+      "gas:candidate-vibid:1001000121916": 136,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 16,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 14,
-      "Дубовик Владимир Анатольевич": 308,
-      "Кочетов Николай Викторович": 78,
-      "Пономарев Алексей Алексеевич": 123,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000202336": 14,
+      "gas:candidate-vibid:268200070582": 308,
+      "gas:candidate-vibid:1001000220848": 78,
+      "gas:candidate-vibid:1001000121916": 123,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 85,
-      "Кочетов Николай Викторович": 28,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 85,
+      "gas:candidate-vibid:1001000220848": 28,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 155,
-      "Кочетов Николай Викторович": 31,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 155,
+      "gas:candidate-vibid:1001000220848": 31,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 26,
-      "Дубовик Владимир Анатольевич": 247,
-      "Кочетов Николай Викторович": 96,
-      "Пономарев Алексей Алексеевич": 86,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000202336": 26,
+      "gas:candidate-vibid:268200070582": 247,
+      "gas:candidate-vibid:1001000220848": 96,
+      "gas:candidate-vibid:1001000121916": 86,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 164,
-      "Кочетов Николай Викторович": 43,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 164,
+      "gas:candidate-vibid:1001000220848": 43,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 128,
-      "Кочетов Николай Викторович": 47,
-      "Пономарев Алексей Алексеевич": 23,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 128,
+      "gas:candidate-vibid:1001000220848": 47,
+      "gas:candidate-vibid:1001000121916": 23,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 99,
-      "Кочетов Николай Викторович": 202,
-      "Пономарев Алексей Алексеевич": 98,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 99,
+      "gas:candidate-vibid:1001000220848": 202,
+      "gas:candidate-vibid:1001000121916": 98,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 75,
-      "Кочетов Николай Викторович": 106,
-      "Пономарев Алексей Алексеевич": 47,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 75,
+      "gas:candidate-vibid:1001000220848": 106,
+      "gas:candidate-vibid:1001000121916": 47,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 55,
-      "Кочетов Николай Викторович": 0,
-      "Пономарев Алексей Алексеевич": 1,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 55,
+      "gas:candidate-vibid:1001000220848": 0,
+      "gas:candidate-vibid:1001000121916": 1,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 36,
-      "Кочетов Николай Викторович": 4,
-      "Пономарев Алексей Алексеевич": 21,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 36,
+      "gas:candidate-vibid:1001000220848": 4,
+      "gas:candidate-vibid:1001000121916": 21,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 69,
-      "Кочетов Николай Викторович": 55,
-      "Пономарев Алексей Алексеевич": 41,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 69,
+      "gas:candidate-vibid:1001000220848": 55,
+      "gas:candidate-vibid:1001000121916": 41,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 87,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 8,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 87,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 8,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 33,
-      "Кочетов Николай Викторович": 21,
-      "Пономарев Алексей Алексеевич": 5,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 33,
+      "gas:candidate-vibid:1001000220848": 21,
+      "gas:candidate-vibid:1001000121916": 5,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 37,
-      "Кочетов Николай Викторович": 8,
-      "Пономарев Алексей Алексеевич": 8,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 37,
+      "gas:candidate-vibid:1001000220848": 8,
+      "gas:candidate-vibid:1001000121916": 8,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 16,
-      "Кочетов Николай Викторович": 21,
-      "Пономарев Алексей Алексеевич": 30,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 16,
+      "gas:candidate-vibid:1001000220848": 21,
+      "gas:candidate-vibid:1001000121916": 30,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 77,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 14,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 77,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 14,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 15,
-      "Кочетов Николай Викторович": 7,
-      "Пономарев Алексей Алексеевич": 48,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 15,
+      "gas:candidate-vibid:1001000220848": 7,
+      "gas:candidate-vibid:1001000121916": 48,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 101,
-      "Дубовик Владимир Анатольевич": 19,
-      "Кочетов Николай Викторович": 160,
-      "Пономарев Алексей Алексеевич": 91,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202336": 101,
+      "gas:candidate-vibid:268200070582": 19,
+      "gas:candidate-vibid:1001000220848": 160,
+      "gas:candidate-vibid:1001000121916": 91,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 151,
-      "Кочетов Николай Викторович": 94,
-      "Пономарев Алексей Алексеевич": 34,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 151,
+      "gas:candidate-vibid:1001000220848": 94,
+      "gas:candidate-vibid:1001000121916": 34,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 83,
-      "Кочетов Николай Викторович": 97,
-      "Пономарев Алексей Алексеевич": 32,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 83,
+      "gas:candidate-vibid:1001000220848": 97,
+      "gas:candidate-vibid:1001000121916": 32,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 48,
-      "Кочетов Николай Викторович": 52,
-      "Пономарев Алексей Алексеевич": 45,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 48,
+      "gas:candidate-vibid:1001000220848": 52,
+      "gas:candidate-vibid:1001000121916": 45,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 117,
-      "Кочетов Николай Викторович": 105,
-      "Пономарев Алексей Алексеевич": 18,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 117,
+      "gas:candidate-vibid:1001000220848": 105,
+      "gas:candidate-vibid:1001000121916": 18,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 161,
-      "Кочетов Николай Викторович": 95,
-      "Пономарев Алексей Алексеевич": 63,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 161,
+      "gas:candidate-vibid:1001000220848": 95,
+      "gas:candidate-vibid:1001000121916": 63,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 73,
-      "Кочетов Николай Викторович": 12,
-      "Пономарев Алексей Алексеевич": 1,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 73,
+      "gas:candidate-vibid:1001000220848": 12,
+      "gas:candidate-vibid:1001000121916": 1,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 130,
-      "Кочетов Николай Викторович": 31,
-      "Пономарев Алексей Алексеевич": 15,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 130,
+      "gas:candidate-vibid:1001000220848": 31,
+      "gas:candidate-vibid:1001000121916": 15,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 30,
-      "Дубовик Владимир Анатольевич": 175,
-      "Кочетов Николай Викторович": 166,
-      "Пономарев Алексей Алексеевич": 123,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000202336": 30,
+      "gas:candidate-vibid:268200070582": 175,
+      "gas:candidate-vibid:1001000220848": 166,
+      "gas:candidate-vibid:1001000121916": 123,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 19,
-      "Дубовик Владимир Анатольевич": 160,
-      "Кочетов Николай Викторович": 102,
-      "Пономарев Алексей Алексеевич": 118,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000202336": 19,
+      "gas:candidate-vibid:268200070582": 160,
+      "gas:candidate-vibid:1001000220848": 102,
+      "gas:candidate-vibid:1001000121916": 118,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 49,
-      "Кочетов Николай Викторович": 30,
-      "Пономарев Алексей Алексеевич": 43,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 49,
+      "gas:candidate-vibid:1001000220848": 30,
+      "gas:candidate-vibid:1001000121916": 43,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 161,
-      "Кочетов Николай Викторович": 114,
-      "Пономарев Алексей Алексеевич": 100,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 161,
+      "gas:candidate-vibid:1001000220848": 114,
+      "gas:candidate-vibid:1001000121916": 100,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 28,
-      "Дубовик Владимир Анатольевич": 125,
-      "Кочетов Николай Викторович": 153,
-      "Пономарев Алексей Алексеевич": 62,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 15,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000202336": 28,
+      "gas:candidate-vibid:268200070582": 125,
+      "gas:candidate-vibid:1001000220848": 153,
+      "gas:candidate-vibid:1001000121916": 62,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 15,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 76,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 21,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 8,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 76,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 21,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 8,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 33,
-      "Кочетов Николай Викторович": 20,
-      "Пономарев Алексей Алексеевич": 23,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 33,
+      "gas:candidate-vibid:1001000220848": 20,
+      "gas:candidate-vibid:1001000121916": 23,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 52,
-      "Кочетов Николай Викторович": 73,
-      "Пономарев Алексей Алексеевич": 26,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 52,
+      "gas:candidate-vibid:1001000220848": 73,
+      "gas:candidate-vibid:1001000121916": 26,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 91,
-      "Кочетов Николай Викторович": 38,
-      "Пономарев Алексей Алексеевич": 76,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 91,
+      "gas:candidate-vibid:1001000220848": 38,
+      "gas:candidate-vibid:1001000121916": 76,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 58,
-      "Кочетов Николай Викторович": 30,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 58,
+      "gas:candidate-vibid:1001000220848": 30,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 106,
-      "Кочетов Николай Викторович": 57,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 106,
+      "gas:candidate-vibid:1001000220848": 57,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170503&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 31,
-      "Дубовик Владимир Анатольевич": 274,
-      "Кочетов Николай Викторович": 253,
-      "Пономарев Алексей Алексеевич": 382,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 16,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000202336": 31,
+      "gas:candidate-vibid:268200070582": 274,
+      "gas:candidate-vibid:1001000220848": 253,
+      "gas:candidate-vibid:1001000121916": 382,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 16,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 160,
-      "Кочетов Николай Викторович": 63,
-      "Пономарев Алексей Алексеевич": 68,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 160,
+      "gas:candidate-vibid:1001000220848": 63,
+      "gas:candidate-vibid:1001000121916": 68,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 36,
-      "Дубовик Владимир Анатольевич": 222,
-      "Кочетов Николай Викторович": 144,
-      "Пономарев Алексей Алексеевич": 226,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 17,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000202336": 36,
+      "gas:candidate-vibid:268200070582": 222,
+      "gas:candidate-vibid:1001000220848": 144,
+      "gas:candidate-vibid:1001000121916": 226,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 17,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 45,
-      "Дубовик Владимир Анатольевич": 259,
-      "Кочетов Николай Викторович": 215,
-      "Пономарев Алексей Алексеевич": 258,
-      "Сечнев Вячеслав Васильевич": 13,
-      "Скрипцов Евгений Николаевич": 22,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000202336": 45,
+      "gas:candidate-vibid:268200070582": 259,
+      "gas:candidate-vibid:1001000220848": 215,
+      "gas:candidate-vibid:1001000121916": 258,
+      "gas:candidate-vibid:1001000195147": 13,
+      "gas:candidate-vibid:268200070689": 22,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 61,
-      "Дубовик Владимир Анатольевич": 308,
-      "Кочетов Николай Викторович": 205,
-      "Пономарев Алексей Алексеевич": 262,
-      "Сечнев Вячеслав Васильевич": 16,
-      "Скрипцов Евгений Николаевич": 19,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000202336": 61,
+      "gas:candidate-vibid:268200070582": 308,
+      "gas:candidate-vibid:1001000220848": 205,
+      "gas:candidate-vibid:1001000121916": 262,
+      "gas:candidate-vibid:1001000195147": 16,
+      "gas:candidate-vibid:268200070689": 19,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 36,
-      "Дубовик Владимир Анатольевич": 198,
-      "Кочетов Николай Викторович": 201,
-      "Пономарев Алексей Алексеевич": 195,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 16,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000202336": 36,
+      "gas:candidate-vibid:268200070582": 198,
+      "gas:candidate-vibid:1001000220848": 201,
+      "gas:candidate-vibid:1001000121916": 195,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 16,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 54,
-      "Дубовик Владимир Анатольевич": 150,
-      "Кочетов Николай Викторович": 143,
-      "Пономарев Алексей Алексеевич": 243,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 20,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000202336": 54,
+      "gas:candidate-vibid:268200070582": 150,
+      "gas:candidate-vibid:1001000220848": 143,
+      "gas:candidate-vibid:1001000121916": 243,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 20,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 19,
-      "Дубовик Владимир Анатольевич": 141,
-      "Кочетов Николай Викторович": 119,
-      "Пономарев Алексей Алексеевич": 132,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 11,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000202336": 19,
+      "gas:candidate-vibid:268200070582": 141,
+      "gas:candidate-vibid:1001000220848": 119,
+      "gas:candidate-vibid:1001000121916": 132,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 11,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 46,
-      "Дубовик Владимир Анатольевич": 200,
-      "Кочетов Николай Викторович": 113,
-      "Пономарев Алексей Алексеевич": 146,
-      "Сечнев Вячеслав Васильевич": 16,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000202336": 46,
+      "gas:candidate-vibid:268200070582": 200,
+      "gas:candidate-vibid:1001000220848": 113,
+      "gas:candidate-vibid:1001000121916": 146,
+      "gas:candidate-vibid:1001000195147": 16,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 45,
-      "Дубовик Владимир Анатольевич": 218,
-      "Кочетов Николай Викторович": 188,
-      "Пономарев Алексей Алексеевич": 192,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 19,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000202336": 45,
+      "gas:candidate-vibid:268200070582": 218,
+      "gas:candidate-vibid:1001000220848": 188,
+      "gas:candidate-vibid:1001000121916": 192,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 19,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 26,
-      "Дубовик Владимир Анатольевич": 205,
-      "Кочетов Николай Викторович": 192,
-      "Пономарев Алексей Алексеевич": 134,
-      "Сечнев Вячеслав Васильевич": 7,
-      "Скрипцов Евгений Николаевич": 23,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000202336": 26,
+      "gas:candidate-vibid:268200070582": 205,
+      "gas:candidate-vibid:1001000220848": 192,
+      "gas:candidate-vibid:1001000121916": 134,
+      "gas:candidate-vibid:1001000195147": 7,
+      "gas:candidate-vibid:268200070689": 23,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 25,
-      "Дубовик Владимир Анатольевич": 136,
-      "Кочетов Николай Викторович": 147,
-      "Пономарев Алексей Алексеевич": 116,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000202336": 25,
+      "gas:candidate-vibid:268200070582": 136,
+      "gas:candidate-vibid:1001000220848": 147,
+      "gas:candidate-vibid:1001000121916": 116,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 21,
-      "Дубовик Владимир Анатольевич": 129,
-      "Кочетов Николай Викторович": 196,
-      "Пономарев Алексей Алексеевич": 157,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000202336": 21,
+      "gas:candidate-vibid:268200070582": 129,
+      "gas:candidate-vibid:1001000220848": 196,
+      "gas:candidate-vibid:1001000121916": 157,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 24,
-      "Дубовик Владимир Анатольевич": 163,
-      "Кочетов Николай Викторович": 146,
-      "Пономарев Алексей Алексеевич": 128,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 16,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000202336": 24,
+      "gas:candidate-vibid:268200070582": 163,
+      "gas:candidate-vibid:1001000220848": 146,
+      "gas:candidate-vibid:1001000121916": 128,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 16,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 95,
-      "Кочетов Николай Викторович": 112,
-      "Пономарев Алексей Алексеевич": 113,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 95,
+      "gas:candidate-vibid:1001000220848": 112,
+      "gas:candidate-vibid:1001000121916": 113,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 27,
-      "Дубовик Владимир Анатольевич": 154,
-      "Кочетов Николай Викторович": 150,
-      "Пономарев Алексей Алексеевич": 183,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 18,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000202336": 27,
+      "gas:candidate-vibid:268200070582": 154,
+      "gas:candidate-vibid:1001000220848": 150,
+      "gas:candidate-vibid:1001000121916": 183,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 18,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 24,
-      "Дубовик Владимир Анатольевич": 136,
-      "Кочетов Николай Викторович": 111,
-      "Пономарев Алексей Алексеевич": 104,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 16,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000202336": 24,
+      "gas:candidate-vibid:268200070582": 136,
+      "gas:candidate-vibid:1001000220848": 111,
+      "gas:candidate-vibid:1001000121916": 104,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 16,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 32,
-      "Дубовик Владимир Анатольевич": 227,
-      "Кочетов Николай Викторович": 161,
-      "Пономарев Алексей Алексеевич": 178,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000202336": 32,
+      "gas:candidate-vibid:268200070582": 227,
+      "gas:candidate-vibid:1001000220848": 161,
+      "gas:candidate-vibid:1001000121916": 178,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 22,
-      "Дубовик Владимир Анатольевич": 303,
-      "Кочетов Николай Викторович": 226,
-      "Пономарев Алексей Алексеевич": 180,
-      "Сечнев Вячеслав Васильевич": 13,
-      "Скрипцов Евгений Николаевич": 23,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000202336": 22,
+      "gas:candidate-vibid:268200070582": 303,
+      "gas:candidate-vibid:1001000220848": 226,
+      "gas:candidate-vibid:1001000121916": 180,
+      "gas:candidate-vibid:1001000195147": 13,
+      "gas:candidate-vibid:268200070689": 23,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 60,
-      "Дубовик Владимир Анатольевич": 292,
-      "Кочетов Николай Викторович": 133,
-      "Пономарев Алексей Алексеевич": 168,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000202336": 60,
+      "gas:candidate-vibid:268200070582": 292,
+      "gas:candidate-vibid:1001000220848": 133,
+      "gas:candidate-vibid:1001000121916": 168,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 99,
-      "Кочетов Николай Викторович": 62,
-      "Пономарев Алексей Алексеевич": 103,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 99,
+      "gas:candidate-vibid:1001000220848": 62,
+      "gas:candidate-vibid:1001000121916": 103,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 19,
-      "Дубовик Владимир Анатольевич": 169,
-      "Кочетов Николай Викторович": 206,
-      "Пономарев Алексей Алексеевич": 114,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000202336": 19,
+      "gas:candidate-vibid:268200070582": 169,
+      "gas:candidate-vibid:1001000220848": 206,
+      "gas:candidate-vibid:1001000121916": 114,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 20,
-      "Дубовик Владимир Анатольевич": 211,
-      "Кочетов Николай Викторович": 293,
-      "Пономарев Алексей Алексеевич": 159,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 21,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000202336": 20,
+      "gas:candidate-vibid:268200070582": 211,
+      "gas:candidate-vibid:1001000220848": 293,
+      "gas:candidate-vibid:1001000121916": 159,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 21,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170504&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 97,
-      "Дубовик Владимир Анатольевич": 426,
-      "Кочетов Николай Викторович": 161,
-      "Пономарев Алексей Алексеевич": 174,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000202336": 97,
+      "gas:candidate-vibid:268200070582": 426,
+      "gas:candidate-vibid:1001000220848": 161,
+      "gas:candidate-vibid:1001000121916": 174,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 87,
-      "Дубовик Владимир Анатольевич": 468,
-      "Кочетов Николай Викторович": 221,
-      "Пономарев Алексей Алексеевич": 167,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000202336": 87,
+      "gas:candidate-vibid:268200070582": 468,
+      "gas:candidate-vibid:1001000220848": 221,
+      "gas:candidate-vibid:1001000121916": 167,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 42,
-      "Дубовик Владимир Анатольевич": 257,
-      "Кочетов Николай Викторович": 170,
-      "Пономарев Алексей Алексеевич": 107,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000202336": 42,
+      "gas:candidate-vibid:268200070582": 257,
+      "gas:candidate-vibid:1001000220848": 170,
+      "gas:candidate-vibid:1001000121916": 107,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 72,
-      "Кочетов Николай Викторович": 58,
-      "Пономарев Алексей Алексеевич": 26,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 72,
+      "gas:candidate-vibid:1001000220848": 58,
+      "gas:candidate-vibid:1001000121916": 26,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 46,
-      "Кочетов Николай Викторович": 76,
-      "Пономарев Алексей Алексеевич": 20,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 46,
+      "gas:candidate-vibid:1001000220848": 76,
+      "gas:candidate-vibid:1001000121916": 20,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 23,
-      "Дубовик Владимир Анатольевич": 208,
-      "Кочетов Николай Викторович": 160,
-      "Пономарев Алексей Алексеевич": 84,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202336": 23,
+      "gas:candidate-vibid:268200070582": 208,
+      "gas:candidate-vibid:1001000220848": 160,
+      "gas:candidate-vibid:1001000121916": 84,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 125,
-      "Кочетов Николай Викторович": 63,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 125,
+      "gas:candidate-vibid:1001000220848": 63,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 162,
-      "Кочетов Николай Викторович": 43,
-      "Пономарев Алексей Алексеевич": 31,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 162,
+      "gas:candidate-vibid:1001000220848": 43,
+      "gas:candidate-vibid:1001000121916": 31,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 98,
-      "Кочетов Николай Викторович": 52,
-      "Пономарев Алексей Алексеевич": 56,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 98,
+      "gas:candidate-vibid:1001000220848": 52,
+      "gas:candidate-vibid:1001000121916": 56,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 126,
-      "Кочетов Николай Викторович": 44,
-      "Пономарев Алексей Алексеевич": 45,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 126,
+      "gas:candidate-vibid:1001000220848": 44,
+      "gas:candidate-vibid:1001000121916": 45,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 81,
-      "Кочетов Николай Викторович": 61,
-      "Пономарев Алексей Алексеевич": 139,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 81,
+      "gas:candidate-vibid:1001000220848": 61,
+      "gas:candidate-vibid:1001000121916": 139,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 52,
-      "Кочетов Николай Викторович": 27,
-      "Пономарев Алексей Алексеевич": 76,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 52,
+      "gas:candidate-vibid:1001000220848": 27,
+      "gas:candidate-vibid:1001000121916": 76,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_68_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 61,
-      "Кочетов Николай Викторович": 26,
-      "Пономарев Алексей Алексеевич": 28,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 61,
+      "gas:candidate-vibid:1001000220848": 26,
+      "gas:candidate-vibid:1001000121916": 28,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170505&region=0&sub_region=0&type=429",

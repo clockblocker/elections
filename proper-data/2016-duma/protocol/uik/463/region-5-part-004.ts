@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 648
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 648
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1100
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2291
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 2,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 13,
-      "Пайзулаев Мурат Магомедович": 3,
-      "Саидов Тимур Ахмедович": 6,
-      "Султанов Мажи Курбанович": 3,
-      "Эмиргамзаев Абдулгамид Гасанович": 515
+      "gas:candidate-vibid:2052000942694": 2,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 13,
+      "gas:candidate-vibid:2052000939360": 3,
+      "gas:candidate-vibid:2052000939372": 6,
+      "gas:candidate-vibid:2052000932086": 3,
+      "gas:candidate-vibid:2052000942331": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 263
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 10,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1143
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 10,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 805
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 805
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 521
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 521
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 149
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 9,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 158
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 9,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 3,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 3,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 3,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 156
+      "gas:candidate-vibid:2052000942694": 3,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 3,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 3,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 4,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 307
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 4,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 16,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 879
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 16,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 879
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 124
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 19,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 187
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 19,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 2,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 3,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 2,
-      "Эмиргамзаев Абдулгамид Гасанович": 154
+      "gas:candidate-vibid:2052000942694": 2,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 3,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 2,
+      "gas:candidate-vibid:2052000942331": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895897&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895897&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 11,
-      "Кличханов Ислам Газрединович": 7,
-      "Махмудов Махмуд Гаджулаевич": 42,
-      "Пайзулаев Мурат Магомедович": 17,
-      "Саидов Тимур Ахмедович": 33,
-      "Султанов Мажи Курбанович": 14,
-      "Эмиргамзаев Абдулгамид Гасанович": 1630
+      "gas:candidate-vibid:2052000942694": 11,
+      "gas:candidate-vibid:2052000942961": 7,
+      "gas:candidate-vibid:2052000939321": 42,
+      "gas:candidate-vibid:2052000939360": 17,
+      "gas:candidate-vibid:2052000939372": 33,
+      "gas:candidate-vibid:2052000932086": 14,
+      "gas:candidate-vibid:2052000942331": 1630
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 35,
-      "Кличханов Ислам Газрединович": 19,
-      "Махмудов Махмуд Гаджулаевич": 65,
-      "Пайзулаев Мурат Магомедович": 36,
-      "Саидов Тимур Ахмедович": 69,
-      "Султанов Мажи Курбанович": 31,
-      "Эмиргамзаев Абдулгамид Гасанович": 1165
+      "gas:candidate-vibid:2052000942694": 35,
+      "gas:candidate-vibid:2052000942961": 19,
+      "gas:candidate-vibid:2052000939321": 65,
+      "gas:candidate-vibid:2052000939360": 36,
+      "gas:candidate-vibid:2052000939372": 69,
+      "gas:candidate-vibid:2052000932086": 31,
+      "gas:candidate-vibid:2052000942331": 1165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 27,
-      "Кличханов Ислам Газрединович": 11,
-      "Махмудов Махмуд Гаджулаевич": 57,
-      "Пайзулаев Мурат Магомедович": 23,
-      "Саидов Тимур Ахмедович": 44,
-      "Султанов Мажи Курбанович": 53,
-      "Эмиргамзаев Абдулгамид Гасанович": 1220
+      "gas:candidate-vibid:2052000942694": 27,
+      "gas:candidate-vibid:2052000942961": 11,
+      "gas:candidate-vibid:2052000939321": 57,
+      "gas:candidate-vibid:2052000939360": 23,
+      "gas:candidate-vibid:2052000939372": 44,
+      "gas:candidate-vibid:2052000932086": 53,
+      "gas:candidate-vibid:2052000942331": 1220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 19,
-      "Кличханов Ислам Газрединович": 9,
-      "Махмудов Махмуд Гаджулаевич": 96,
-      "Пайзулаев Мурат Магомедович": 30,
-      "Саидов Тимур Ахмедович": 45,
-      "Султанов Мажи Курбанович": 46,
-      "Эмиргамзаев Абдулгамид Гасанович": 1051
+      "gas:candidate-vibid:2052000942694": 19,
+      "gas:candidate-vibid:2052000942961": 9,
+      "gas:candidate-vibid:2052000939321": 96,
+      "gas:candidate-vibid:2052000939360": 30,
+      "gas:candidate-vibid:2052000939372": 45,
+      "gas:candidate-vibid:2052000932086": 46,
+      "gas:candidate-vibid:2052000942331": 1051
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 23,
-      "Кличханов Ислам Газрединович": 15,
-      "Махмудов Махмуд Гаджулаевич": 21,
-      "Пайзулаев Мурат Магомедович": 9,
-      "Саидов Тимур Ахмедович": 33,
-      "Султанов Мажи Курбанович": 34,
-      "Эмиргамзаев Абдулгамид Гасанович": 1130
+      "gas:candidate-vibid:2052000942694": 23,
+      "gas:candidate-vibid:2052000942961": 15,
+      "gas:candidate-vibid:2052000939321": 21,
+      "gas:candidate-vibid:2052000939360": 9,
+      "gas:candidate-vibid:2052000939372": 33,
+      "gas:candidate-vibid:2052000932086": 34,
+      "gas:candidate-vibid:2052000942331": 1130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 13,
-      "Кличханов Ислам Газрединович": 5,
-      "Махмудов Махмуд Гаджулаевич": 41,
-      "Пайзулаев Мурат Магомедович": 36,
-      "Саидов Тимур Ахмедович": 27,
-      "Султанов Мажи Курбанович": 32,
-      "Эмиргамзаев Абдулгамид Гасанович": 1150
+      "gas:candidate-vibid:2052000942694": 13,
+      "gas:candidate-vibid:2052000942961": 5,
+      "gas:candidate-vibid:2052000939321": 41,
+      "gas:candidate-vibid:2052000939360": 36,
+      "gas:candidate-vibid:2052000939372": 27,
+      "gas:candidate-vibid:2052000932086": 32,
+      "gas:candidate-vibid:2052000942331": 1150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 41,
-      "Кличханов Ислам Газрединович": 9,
-      "Махмудов Махмуд Гаджулаевич": 34,
-      "Пайзулаев Мурат Магомедович": 17,
-      "Саидов Тимур Ахмедович": 23,
-      "Султанов Мажи Курбанович": 41,
-      "Эмиргамзаев Абдулгамид Гасанович": 1461
+      "gas:candidate-vibid:2052000942694": 41,
+      "gas:candidate-vibid:2052000942961": 9,
+      "gas:candidate-vibid:2052000939321": 34,
+      "gas:candidate-vibid:2052000939360": 17,
+      "gas:candidate-vibid:2052000939372": 23,
+      "gas:candidate-vibid:2052000932086": 41,
+      "gas:candidate-vibid:2052000942331": 1461
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 36,
-      "Кличханов Ислам Газрединович": 13,
-      "Махмудов Махмуд Гаджулаевич": 41,
-      "Пайзулаев Мурат Магомедович": 11,
-      "Саидов Тимур Ахмедович": 29,
-      "Султанов Мажи Курбанович": 31,
-      "Эмиргамзаев Абдулгамид Гасанович": 1108
+      "gas:candidate-vibid:2052000942694": 36,
+      "gas:candidate-vibid:2052000942961": 13,
+      "gas:candidate-vibid:2052000939321": 41,
+      "gas:candidate-vibid:2052000939360": 11,
+      "gas:candidate-vibid:2052000939372": 29,
+      "gas:candidate-vibid:2052000932086": 31,
+      "gas:candidate-vibid:2052000942331": 1108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 31,
-      "Кличханов Ислам Газрединович": 27,
-      "Махмудов Махмуд Гаджулаевич": 33,
-      "Пайзулаев Мурат Магомедович": 29,
-      "Саидов Тимур Ахмедович": 41,
-      "Султанов Мажи Курбанович": 29,
-      "Эмиргамзаев Абдулгамид Гасанович": 1238
+      "gas:candidate-vibid:2052000942694": 31,
+      "gas:candidate-vibid:2052000942961": 27,
+      "gas:candidate-vibid:2052000939321": 33,
+      "gas:candidate-vibid:2052000939360": 29,
+      "gas:candidate-vibid:2052000939372": 41,
+      "gas:candidate-vibid:2052000932086": 29,
+      "gas:candidate-vibid:2052000942331": 1238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 34,
-      "Кличханов Ислам Газрединович": 25,
-      "Махмудов Махмуд Гаджулаевич": 43,
-      "Пайзулаев Мурат Магомедович": 23,
-      "Саидов Тимур Ахмедович": 54,
-      "Султанов Мажи Курбанович": 21,
-      "Эмиргамзаев Абдулгамид Гасанович": 1465
+      "gas:candidate-vibid:2052000942694": 34,
+      "gas:candidate-vibid:2052000942961": 25,
+      "gas:candidate-vibid:2052000939321": 43,
+      "gas:candidate-vibid:2052000939360": 23,
+      "gas:candidate-vibid:2052000939372": 54,
+      "gas:candidate-vibid:2052000932086": 21,
+      "gas:candidate-vibid:2052000942331": 1465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 25,
-      "Кличханов Ислам Газрединович": 9,
-      "Махмудов Махмуд Гаджулаевич": 64,
-      "Пайзулаев Мурат Магомедович": 44,
-      "Саидов Тимур Ахмедович": 57,
-      "Султанов Мажи Курбанович": 23,
-      "Эмиргамзаев Абдулгамид Гасанович": 797
+      "gas:candidate-vibid:2052000942694": 25,
+      "gas:candidate-vibid:2052000942961": 9,
+      "gas:candidate-vibid:2052000939321": 64,
+      "gas:candidate-vibid:2052000939360": 44,
+      "gas:candidate-vibid:2052000939372": 57,
+      "gas:candidate-vibid:2052000932086": 23,
+      "gas:candidate-vibid:2052000942331": 797
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 35,
-      "Кличханов Ислам Газрединович": 17,
-      "Махмудов Махмуд Гаджулаевич": 22,
-      "Пайзулаев Мурат Магомедович": 29,
-      "Саидов Тимур Ахмедович": 33,
-      "Султанов Мажи Курбанович": 6,
-      "Эмиргамзаев Абдулгамид Гасанович": 1829
+      "gas:candidate-vibid:2052000942694": 35,
+      "gas:candidate-vibid:2052000942961": 17,
+      "gas:candidate-vibid:2052000939321": 22,
+      "gas:candidate-vibid:2052000939360": 29,
+      "gas:candidate-vibid:2052000939372": 33,
+      "gas:candidate-vibid:2052000932086": 6,
+      "gas:candidate-vibid:2052000942331": 1829
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 44,
-      "Кличханов Ислам Газрединович": 31,
-      "Махмудов Махмуд Гаджулаевич": 33,
-      "Пайзулаев Мурат Магомедович": 36,
-      "Саидов Тимур Ахмедович": 51,
-      "Султанов Мажи Курбанович": 27,
-      "Эмиргамзаев Абдулгамид Гасанович": 1503
+      "gas:candidate-vibid:2052000942694": 44,
+      "gas:candidate-vibid:2052000942961": 31,
+      "gas:candidate-vibid:2052000939321": 33,
+      "gas:candidate-vibid:2052000939360": 36,
+      "gas:candidate-vibid:2052000939372": 51,
+      "gas:candidate-vibid:2052000932086": 27,
+      "gas:candidate-vibid:2052000942331": 1503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 31,
-      "Кличханов Ислам Газрединович": 6,
-      "Махмудов Махмуд Гаджулаевич": 47,
-      "Пайзулаев Мурат Магомедович": 39,
-      "Саидов Тимур Ахмедович": 72,
-      "Султанов Мажи Курбанович": 15,
-      "Эмиргамзаев Абдулгамид Гасанович": 591
+      "gas:candidate-vibid:2052000942694": 31,
+      "gas:candidate-vibid:2052000942961": 6,
+      "gas:candidate-vibid:2052000939321": 47,
+      "gas:candidate-vibid:2052000939360": 39,
+      "gas:candidate-vibid:2052000939372": 72,
+      "gas:candidate-vibid:2052000932086": 15,
+      "gas:candidate-vibid:2052000942331": 591
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 26,
-      "Кличханов Ислам Газрединович": 47,
-      "Махмудов Махмуд Гаджулаевич": 34,
-      "Пайзулаев Мурат Магомедович": 21,
-      "Саидов Тимур Ахмедович": 43,
-      "Султанов Мажи Курбанович": 21,
-      "Эмиргамзаев Абдулгамид Гасанович": 2113
+      "gas:candidate-vibid:2052000942694": 26,
+      "gas:candidate-vibid:2052000942961": 47,
+      "gas:candidate-vibid:2052000939321": 34,
+      "gas:candidate-vibid:2052000939360": 21,
+      "gas:candidate-vibid:2052000939372": 43,
+      "gas:candidate-vibid:2052000932086": 21,
+      "gas:candidate-vibid:2052000942331": 2113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 53,
-      "Кличханов Ислам Газрединович": 34,
-      "Махмудов Махмуд Гаджулаевич": 95,
-      "Пайзулаев Мурат Магомедович": 51,
-      "Саидов Тимур Ахмедович": 119,
-      "Султанов Мажи Курбанович": 44,
-      "Эмиргамзаев Абдулгамид Гасанович": 1191
+      "gas:candidate-vibid:2052000942694": 53,
+      "gas:candidate-vibid:2052000942961": 34,
+      "gas:candidate-vibid:2052000939321": 95,
+      "gas:candidate-vibid:2052000939360": 51,
+      "gas:candidate-vibid:2052000939372": 119,
+      "gas:candidate-vibid:2052000932086": 44,
+      "gas:candidate-vibid:2052000942331": 1191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895898&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895898&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 12,
-      "Махмудов Махмуд Гаджулаевич": 106,
-      "Пайзулаев Мурат Магомедович": 57,
-      "Саидов Тимур Ахмедович": 6,
-      "Султанов Мажи Курбанович": 3,
-      "Эмиргамзаев Абдулгамид Гасанович": 1411
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 12,
+      "gas:candidate-vibid:2052000939321": 106,
+      "gas:candidate-vibid:2052000939360": 57,
+      "gas:candidate-vibid:2052000939372": 6,
+      "gas:candidate-vibid:2052000932086": 3,
+      "gas:candidate-vibid:2052000942331": 1411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 3,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 8,
-      "Пайзулаев Мурат Магомедович": 4,
-      "Саидов Тимур Ахмедович": 5,
-      "Султанов Мажи Курбанович": 1,
-      "Эмиргамзаев Абдулгамид Гасанович": 1074
+      "gas:candidate-vibid:2052000942694": 3,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 8,
+      "gas:candidate-vibid:2052000939360": 4,
+      "gas:candidate-vibid:2052000939372": 5,
+      "gas:candidate-vibid:2052000932086": 1,
+      "gas:candidate-vibid:2052000942331": 1074
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 3,
-      "Кличханов Ислам Газрединович": 1,
-      "Махмудов Махмуд Гаджулаевич": 14,
-      "Пайзулаев Мурат Магомедович": 9,
-      "Саидов Тимур Ахмедович": 2,
-      "Султанов Мажи Курбанович": 6,
-      "Эмиргамзаев Абдулгамид Гасанович": 1172
+      "gas:candidate-vibid:2052000942694": 3,
+      "gas:candidate-vibid:2052000942961": 1,
+      "gas:candidate-vibid:2052000939321": 14,
+      "gas:candidate-vibid:2052000939360": 9,
+      "gas:candidate-vibid:2052000939372": 2,
+      "gas:candidate-vibid:2052000932086": 6,
+      "gas:candidate-vibid:2052000942331": 1172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 3,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 58,
-      "Пайзулаев Мурат Магомедович": 4,
-      "Саидов Тимур Ахмедович": 21,
-      "Султанов Мажи Курбанович": 3,
-      "Эмиргамзаев Абдулгамид Гасанович": 1171
+      "gas:candidate-vibid:2052000942694": 3,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 58,
+      "gas:candidate-vibid:2052000939360": 4,
+      "gas:candidate-vibid:2052000939372": 21,
+      "gas:candidate-vibid:2052000932086": 3,
+      "gas:candidate-vibid:2052000942331": 1171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 2,
-      "Кличханов Ислам Газрединович": 5,
-      "Махмудов Махмуд Гаджулаевич": 74,
-      "Пайзулаев Мурат Магомедович": 5,
-      "Саидов Тимур Ахмедович": 16,
-      "Султанов Мажи Курбанович": 18,
-      "Эмиргамзаев Абдулгамид Гасанович": 1470
+      "gas:candidate-vibid:2052000942694": 2,
+      "gas:candidate-vibid:2052000942961": 5,
+      "gas:candidate-vibid:2052000939321": 74,
+      "gas:candidate-vibid:2052000939360": 5,
+      "gas:candidate-vibid:2052000939372": 16,
+      "gas:candidate-vibid:2052000932086": 18,
+      "gas:candidate-vibid:2052000942331": 1470
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 115,
-      "Пайзулаев Мурат Магомедович": 120,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 25,
-      "Эмиргамзаев Абдулгамид Гасанович": 2310
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 115,
+      "gas:candidate-vibid:2052000939360": 120,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 25,
+      "gas:candidate-vibid:2052000942331": 2310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 5,
-      "Кличханов Ислам Газрединович": 5,
-      "Махмудов Махмуд Гаджулаевич": 78,
-      "Пайзулаев Мурат Магомедович": 68,
-      "Саидов Тимур Ахмедович": 39,
-      "Султанов Мажи Курбанович": 6,
-      "Эмиргамзаев Абдулгамид Гасанович": 974
+      "gas:candidate-vibid:2052000942694": 5,
+      "gas:candidate-vibid:2052000942961": 5,
+      "gas:candidate-vibid:2052000939321": 78,
+      "gas:candidate-vibid:2052000939360": 68,
+      "gas:candidate-vibid:2052000939372": 39,
+      "gas:candidate-vibid:2052000932086": 6,
+      "gas:candidate-vibid:2052000942331": 974
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 1,
-      "Кличханов Ислам Газрединович": 2,
-      "Махмудов Махмуд Гаджулаевич": 92,
-      "Пайзулаев Мурат Магомедович": 46,
-      "Саидов Тимур Ахмедович": 19,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 763
+      "gas:candidate-vibid:2052000942694": 1,
+      "gas:candidate-vibid:2052000942961": 2,
+      "gas:candidate-vibid:2052000939321": 92,
+      "gas:candidate-vibid:2052000939360": 46,
+      "gas:candidate-vibid:2052000939372": 19,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 763
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 3,
-      "Кличханов Ислам Газрединович": 4,
-      "Махмудов Махмуд Гаджулаевич": 85,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 2,
-      "Эмиргамзаев Абдулгамид Гасанович": 1405
+      "gas:candidate-vibid:2052000942694": 3,
+      "gas:candidate-vibid:2052000942961": 4,
+      "gas:candidate-vibid:2052000939321": 85,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 2,
+      "gas:candidate-vibid:2052000942331": 1405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 194,
-      "Пайзулаев Мурат Магомедович": 13,
-      "Саидов Тимур Ахмедович": 8,
-      "Султанов Мажи Курбанович": 41,
-      "Эмиргамзаев Абдулгамид Гасанович": 1344
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 194,
+      "gas:candidate-vibid:2052000939360": 13,
+      "gas:candidate-vibid:2052000939372": 8,
+      "gas:candidate-vibid:2052000932086": 41,
+      "gas:candidate-vibid:2052000942331": 1344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 1,
-      "Кличханов Ислам Газрединович": 1,
-      "Махмудов Махмуд Гаджулаевич": 173,
-      "Пайзулаев Мурат Магомедович": 96,
-      "Саидов Тимур Ахмедович": 11,
-      "Султанов Мажи Курбанович": 1,
-      "Эмиргамзаев Абдулгамид Гасанович": 2412
+      "gas:candidate-vibid:2052000942694": 1,
+      "gas:candidate-vibid:2052000942961": 1,
+      "gas:candidate-vibid:2052000939321": 173,
+      "gas:candidate-vibid:2052000939360": 96,
+      "gas:candidate-vibid:2052000939372": 11,
+      "gas:candidate-vibid:2052000932086": 1,
+      "gas:candidate-vibid:2052000942331": 2412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 6,
-      "Кличханов Ислам Газрединович": 4,
-      "Махмудов Махмуд Гаджулаевич": 116,
-      "Пайзулаев Мурат Магомедович": 146,
-      "Саидов Тимур Ахмедович": 104,
-      "Султанов Мажи Курбанович": 2,
-      "Эмиргамзаев Абдулгамид Гасанович": 1441
+      "gas:candidate-vibid:2052000942694": 6,
+      "gas:candidate-vibid:2052000942961": 4,
+      "gas:candidate-vibid:2052000939321": 116,
+      "gas:candidate-vibid:2052000939360": 146,
+      "gas:candidate-vibid:2052000939372": 104,
+      "gas:candidate-vibid:2052000932086": 2,
+      "gas:candidate-vibid:2052000942331": 1441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 3,
-      "Кличханов Ислам Газрединович": 2,
-      "Махмудов Махмуд Гаджулаевич": 13,
-      "Пайзулаев Мурат Магомедович": 4,
-      "Саидов Тимур Ахмедович": 4,
-      "Султанов Мажи Курбанович": 5,
-      "Эмиргамзаев Абдулгамид Гасанович": 1153
+      "gas:candidate-vibid:2052000942694": 3,
+      "gas:candidate-vibid:2052000942961": 2,
+      "gas:candidate-vibid:2052000939321": 13,
+      "gas:candidate-vibid:2052000939360": 4,
+      "gas:candidate-vibid:2052000939372": 4,
+      "gas:candidate-vibid:2052000932086": 5,
+      "gas:candidate-vibid:2052000942331": 1153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 100,
-      "Пайзулаев Мурат Магомедович": 40,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 1,
-      "Эмиргамзаев Абдулгамид Гасанович": 1320
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 100,
+      "gas:candidate-vibid:2052000939360": 40,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 1,
+      "gas:candidate-vibid:2052000942331": 1320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 180,
-      "Пайзулаев Мурат Магомедович": 130,
-      "Саидов Тимур Ахмедович": 20,
-      "Султанов Мажи Курбанович": 3,
-      "Эмиргамзаев Абдулгамид Гасанович": 2262
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 180,
+      "gas:candidate-vibid:2052000939360": 130,
+      "gas:candidate-vibid:2052000939372": 20,
+      "gas:candidate-vibid:2052000932086": 3,
+      "gas:candidate-vibid:2052000942331": 2262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 182,
-      "Пайзулаев Мурат Магомедович": 63,
-      "Саидов Тимур Ахмедович": 3,
-      "Султанов Мажи Курбанович": 7,
-      "Эмиргамзаев Абдулгамид Гасанович": 1825
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 182,
+      "gas:candidate-vibid:2052000939360": 63,
+      "gas:candidate-vibid:2052000939372": 3,
+      "gas:candidate-vibid:2052000932086": 7,
+      "gas:candidate-vibid:2052000942331": 1825
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 160,
-      "Пайзулаев Мурат Магомедович": 130,
-      "Саидов Тимур Ахмедович": 20,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2190
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 160,
+      "gas:candidate-vibid:2052000939360": 130,
+      "gas:candidate-vibid:2052000939372": 20,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 5,
-      "Кличханов Ислам Газрединович": 1,
-      "Махмудов Махмуд Гаджулаевич": 230,
-      "Пайзулаев Мурат Магомедович": 21,
-      "Саидов Тимур Ахмедович": 15,
-      "Султанов Мажи Курбанович": 6,
-      "Эмиргамзаев Абдулгамид Гасанович": 1207
+      "gas:candidate-vibid:2052000942694": 5,
+      "gas:candidate-vibid:2052000942961": 1,
+      "gas:candidate-vibid:2052000939321": 230,
+      "gas:candidate-vibid:2052000939360": 21,
+      "gas:candidate-vibid:2052000939372": 15,
+      "gas:candidate-vibid:2052000932086": 6,
+      "gas:candidate-vibid:2052000942331": 1207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 2,
-      "Махмудов Махмуд Гаджулаевич": 40,
-      "Пайзулаев Мурат Магомедович": 9,
-      "Саидов Тимур Ахмедович": 11,
-      "Султанов Мажи Курбанович": 14,
-      "Эмиргамзаев Абдулгамид Гасанович": 1713
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 2,
+      "gas:candidate-vibid:2052000939321": 40,
+      "gas:candidate-vibid:2052000939360": 9,
+      "gas:candidate-vibid:2052000939372": 11,
+      "gas:candidate-vibid:2052000932086": 14,
+      "gas:candidate-vibid:2052000942331": 1713
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 150,
-      "Пайзулаев Мурат Магомедович": 55,
-      "Саидов Тимур Ахмедович": 19,
-      "Султанов Мажи Курбанович": 54,
-      "Эмиргамзаев Абдулгамид Гасанович": 1816
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 150,
+      "gas:candidate-vibid:2052000939360": 55,
+      "gas:candidate-vibid:2052000939372": 19,
+      "gas:candidate-vibid:2052000932086": 54,
+      "gas:candidate-vibid:2052000942331": 1816
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 140,
-      "Пайзулаев Мурат Магомедович": 80,
-      "Саидов Тимур Ахмедович": 30,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1630
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 140,
+      "gas:candidate-vibid:2052000939360": 80,
+      "gas:candidate-vibid:2052000939372": 30,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1630
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 138,
-      "Пайзулаев Мурат Магомедович": 92,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1859
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 138,
+      "gas:candidate-vibid:2052000939360": 92,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1859
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 3,
-      "Кличханов Ислам Газрединович": 5,
-      "Махмудов Махмуд Гаджулаевич": 173,
-      "Пайзулаев Мурат Магомедович": 126,
-      "Саидов Тимур Ахмедович": 3,
-      "Султанов Мажи Курбанович": 46,
-      "Эмиргамзаев Абдулгамид Гасанович": 2544
+      "gas:candidate-vibid:2052000942694": 3,
+      "gas:candidate-vibid:2052000942961": 5,
+      "gas:candidate-vibid:2052000939321": 173,
+      "gas:candidate-vibid:2052000939360": 126,
+      "gas:candidate-vibid:2052000939372": 3,
+      "gas:candidate-vibid:2052000932086": 46,
+      "gas:candidate-vibid:2052000942331": 2544
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 220,
-      "Пайзулаев Мурат Магомедович": 113,
-      "Саидов Тимур Ахмедович": 20,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2236
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 220,
+      "gas:candidate-vibid:2052000939360": 113,
+      "gas:candidate-vibid:2052000939372": 20,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 2,
-      "Кличханов Ислам Газрединович": 19,
-      "Махмудов Махмуд Гаджулаевич": 51,
-      "Пайзулаев Мурат Магомедович": 83,
-      "Саидов Тимур Ахмедович": 62,
-      "Султанов Мажи Курбанович": 10,
-      "Эмиргамзаев Абдулгамид Гасанович": 1018
+      "gas:candidate-vibid:2052000942694": 2,
+      "gas:candidate-vibid:2052000942961": 19,
+      "gas:candidate-vibid:2052000939321": 51,
+      "gas:candidate-vibid:2052000939360": 83,
+      "gas:candidate-vibid:2052000939372": 62,
+      "gas:candidate-vibid:2052000932086": 10,
+      "gas:candidate-vibid:2052000942331": 1018
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 11,
-      "Кличханов Ислам Газрединович": 6,
-      "Махмудов Махмуд Гаджулаевич": 39,
-      "Пайзулаев Мурат Магомедович": 5,
-      "Саидов Тимур Ахмедович": 20,
-      "Султанов Мажи Курбанович": 12,
-      "Эмиргамзаев Абдулгамид Гасанович": 1220
+      "gas:candidate-vibid:2052000942694": 11,
+      "gas:candidate-vibid:2052000942961": 6,
+      "gas:candidate-vibid:2052000939321": 39,
+      "gas:candidate-vibid:2052000939360": 5,
+      "gas:candidate-vibid:2052000939372": 20,
+      "gas:candidate-vibid:2052000932086": 12,
+      "gas:candidate-vibid:2052000942331": 1220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 100,
-      "Пайзулаев Мурат Магомедович": 52,
-      "Саидов Тимур Ахмедович": 25,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1301
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 100,
+      "gas:candidate-vibid:2052000939360": 52,
+      "gas:candidate-vibid:2052000939372": 25,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 1,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 154,
-      "Пайзулаев Мурат Магомедович": 112,
-      "Саидов Тимур Ахмедович": 5,
-      "Султанов Мажи Курбанович": 2,
-      "Эмиргамзаев Абдулгамид Гасанович": 1809
+      "gas:candidate-vibid:2052000942694": 1,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 154,
+      "gas:candidate-vibid:2052000939360": 112,
+      "gas:candidate-vibid:2052000939372": 5,
+      "gas:candidate-vibid:2052000932086": 2,
+      "gas:candidate-vibid:2052000942331": 1809
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 12,
-      "Махмудов Махмуд Гаджулаевич": 106,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 7,
-      "Эмиргамзаев Абдулгамид Гасанович": 850
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 12,
+      "gas:candidate-vibid:2052000939321": 106,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 7,
+      "gas:candidate-vibid:2052000942331": 850
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 7,
-      "Кличханов Ислам Газрединович": 5,
-      "Махмудов Махмуд Гаджулаевич": 70,
-      "Пайзулаев Мурат Магомедович": 25,
-      "Саидов Тимур Ахмедович": 10,
-      "Султанов Мажи Курбанович": 53,
-      "Эмиргамзаев Абдулгамид Гасанович": 714
+      "gas:candidate-vibid:2052000942694": 7,
+      "gas:candidate-vibid:2052000942961": 5,
+      "gas:candidate-vibid:2052000939321": 70,
+      "gas:candidate-vibid:2052000939360": 25,
+      "gas:candidate-vibid:2052000939372": 10,
+      "gas:candidate-vibid:2052000932086": 53,
+      "gas:candidate-vibid:2052000942331": 714
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 6,
-      "Кличханов Ислам Газрединович": 11,
-      "Махмудов Махмуд Гаджулаевич": 56,
-      "Пайзулаев Мурат Магомедович": 37,
-      "Саидов Тимур Ахмедович": 29,
-      "Султанов Мажи Курбанович": 11,
-      "Эмиргамзаев Абдулгамид Гасанович": 1480
+      "gas:candidate-vibid:2052000942694": 6,
+      "gas:candidate-vibid:2052000942961": 11,
+      "gas:candidate-vibid:2052000939321": 56,
+      "gas:candidate-vibid:2052000939360": 37,
+      "gas:candidate-vibid:2052000939372": 29,
+      "gas:candidate-vibid:2052000932086": 11,
+      "gas:candidate-vibid:2052000942331": 1480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 156,
-      "Пайзулаев Мурат Магомедович": 95,
-      "Саидов Тимур Ахмедович": 27,
-      "Султанов Мажи Курбанович": 2,
-      "Эмиргамзаев Абдулгамид Гасанович": 1693
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 156,
+      "gas:candidate-vibid:2052000939360": 95,
+      "gas:candidate-vibid:2052000939372": 27,
+      "gas:candidate-vibid:2052000932086": 2,
+      "gas:candidate-vibid:2052000942331": 1693
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 1,
-      "Кличханов Ислам Газрединович": 4,
-      "Махмудов Махмуд Гаджулаевич": 83,
-      "Пайзулаев Мурат Магомедович": 1,
-      "Саидов Тимур Ахмедович": 10,
-      "Султанов Мажи Курбанович": 8,
-      "Эмиргамзаев Абдулгамид Гасанович": 1027
+      "gas:candidate-vibid:2052000942694": 1,
+      "gas:candidate-vibid:2052000942961": 4,
+      "gas:candidate-vibid:2052000939321": 83,
+      "gas:candidate-vibid:2052000939360": 1,
+      "gas:candidate-vibid:2052000939372": 10,
+      "gas:candidate-vibid:2052000932086": 8,
+      "gas:candidate-vibid:2052000942331": 1027
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 5,
-      "Кличханов Ислам Газрединович": 26,
-      "Махмудов Махмуд Гаджулаевич": 137,
-      "Пайзулаев Мурат Магомедович": 12,
-      "Саидов Тимур Ахмедович": 18,
-      "Султанов Мажи Курбанович": 1,
-      "Эмиргамзаев Абдулгамид Гасанович": 1346
+      "gas:candidate-vibid:2052000942694": 5,
+      "gas:candidate-vibid:2052000942961": 26,
+      "gas:candidate-vibid:2052000939321": 137,
+      "gas:candidate-vibid:2052000939360": 12,
+      "gas:candidate-vibid:2052000939372": 18,
+      "gas:candidate-vibid:2052000932086": 1,
+      "gas:candidate-vibid:2052000942331": 1346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 20,
-      "Кличханов Ислам Газрединович": 10,
-      "Махмудов Махмуд Гаджулаевич": 152,
-      "Пайзулаев Мурат Магомедович": 32,
-      "Саидов Тимур Ахмедович": 15,
-      "Султанов Мажи Курбанович": 17,
-      "Эмиргамзаев Абдулгамид Гасанович": 1954
+      "gas:candidate-vibid:2052000942694": 20,
+      "gas:candidate-vibid:2052000942961": 10,
+      "gas:candidate-vibid:2052000939321": 152,
+      "gas:candidate-vibid:2052000939360": 32,
+      "gas:candidate-vibid:2052000939372": 15,
+      "gas:candidate-vibid:2052000932086": 17,
+      "gas:candidate-vibid:2052000942331": 1954
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 140,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 14,
-      "Эмиргамзаев Абдулгамид Гасанович": 1822
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 140,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 14,
+      "gas:candidate-vibid:2052000942331": 1822
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 2,
-      "Махмудов Махмуд Гаджулаевич": 67,
-      "Пайзулаев Мурат Магомедович": 2,
-      "Саидов Тимур Ахмедович": 32,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1887
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 2,
+      "gas:candidate-vibid:2052000939321": 67,
+      "gas:candidate-vibid:2052000939360": 2,
+      "gas:candidate-vibid:2052000939372": 32,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1887
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895899&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895899&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 8,
-      "Саидов Тимур Ахмедович": 3,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1659
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 8,
+      "gas:candidate-vibid:2052000939372": 3,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1659
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2510
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2510
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 10,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 7,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1443
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 10,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 7,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 35,
-      "Кличханов Ислам Газрединович": 25,
-      "Махмудов Махмуд Гаджулаевич": 54,
-      "Пайзулаев Мурат Магомедович": 21,
-      "Саидов Тимур Ахмедович": 33,
-      "Султанов Мажи Курбанович": 23,
-      "Эмиргамзаев Абдулгамид Гасанович": 239
+      "gas:candidate-vibid:2052000942694": 35,
+      "gas:candidate-vibid:2052000942961": 25,
+      "gas:candidate-vibid:2052000939321": 54,
+      "gas:candidate-vibid:2052000939360": 21,
+      "gas:candidate-vibid:2052000939372": 33,
+      "gas:candidate-vibid:2052000932086": 23,
+      "gas:candidate-vibid:2052000942331": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 440
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 440
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 940
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 940
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1040
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1040
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 110
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1100
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1100
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1210
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1990
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1990
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2030
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2030
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 5,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2095
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 5,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2095
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1910
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1910
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1680
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1680
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1810
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1810
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 340
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1570
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 840
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 840
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 370
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 640
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 640
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2540
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 490
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 490
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1680
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1680
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1020
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1020
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1900
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1900
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1450
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 420
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1220
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1720
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1720
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 620
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 620
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1550
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1550
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1500
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1500
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1410
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1800
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1800
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2360
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1550
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1550
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 680
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 680
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 2740
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 2740
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1260
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1440
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1440
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1510
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1510
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 0,
-      "Пайзулаев Мурат Магомедович": 0,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1680
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 0,
+      "gas:candidate-vibid:2052000939360": 0,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1680
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895900&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895900&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 0,
-      "Кличханов Ислам Газрединович": 0,
-      "Махмудов Махмуд Гаджулаевич": 29,
-      "Пайзулаев Мурат Магомедович": 40,
-      "Саидов Тимур Ахмедович": 0,
-      "Султанов Мажи Курбанович": 0,
-      "Эмиргамзаев Абдулгамид Гасанович": 1780
+      "gas:candidate-vibid:2052000942694": 0,
+      "gas:candidate-vibid:2052000942961": 0,
+      "gas:candidate-vibid:2052000939321": 29,
+      "gas:candidate-vibid:2052000939360": 40,
+      "gas:candidate-vibid:2052000939372": 0,
+      "gas:candidate-vibid:2052000932086": 0,
+      "gas:candidate-vibid:2052000942331": 1780
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 7,
-      "Кличханов Ислам Газрединович": 6,
-      "Махмудов Махмуд Гаджулаевич": 43,
-      "Пайзулаев Мурат Магомедович": 5,
-      "Саидов Тимур Ахмедович": 27,
-      "Султанов Мажи Курбанович": 2,
-      "Эмиргамзаев Абдулгамид Гасанович": 1513
+      "gas:candidate-vibid:2052000942694": 7,
+      "gas:candidate-vibid:2052000942961": 6,
+      "gas:candidate-vibid:2052000939321": 43,
+      "gas:candidate-vibid:2052000939360": 5,
+      "gas:candidate-vibid:2052000939372": 27,
+      "gas:candidate-vibid:2052000932086": 2,
+      "gas:candidate-vibid:2052000942331": 1513
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 7,
-      "Кличханов Ислам Газрединович": 12,
-      "Махмудов Махмуд Гаджулаевич": 146,
-      "Пайзулаев Мурат Магомедович": 33,
-      "Саидов Тимур Ахмедович": 17,
-      "Султанов Мажи Курбанович": 3,
-      "Эмиргамзаев Абдулгамид Гасанович": 1496
+      "gas:candidate-vibid:2052000942694": 7,
+      "gas:candidate-vibid:2052000942961": 12,
+      "gas:candidate-vibid:2052000939321": 146,
+      "gas:candidate-vibid:2052000939360": 33,
+      "gas:candidate-vibid:2052000939372": 17,
+      "gas:candidate-vibid:2052000932086": 3,
+      "gas:candidate-vibid:2052000942331": 1496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 12,
-      "Кличханов Ислам Газрединович": 7,
-      "Махмудов Махмуд Гаджулаевич": 181,
-      "Пайзулаев Мурат Магомедович": 18,
-      "Саидов Тимур Ахмедович": 65,
-      "Султанов Мажи Курбанович": 8,
-      "Эмиргамзаев Абдулгамид Гасанович": 2046
+      "gas:candidate-vibid:2052000942694": 12,
+      "gas:candidate-vibid:2052000942961": 7,
+      "gas:candidate-vibid:2052000939321": 181,
+      "gas:candidate-vibid:2052000939360": 18,
+      "gas:candidate-vibid:2052000939372": 65,
+      "gas:candidate-vibid:2052000932086": 8,
+      "gas:candidate-vibid:2052000942331": 2046
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 25,
-      "Кличханов Ислам Газрединович": 22,
-      "Махмудов Махмуд Гаджулаевич": 107,
-      "Пайзулаев Мурат Магомедович": 30,
-      "Саидов Тимур Ахмедович": 74,
-      "Султанов Мажи Курбанович": 23,
-      "Эмиргамзаев Абдулгамид Гасанович": 2219
+      "gas:candidate-vibid:2052000942694": 25,
+      "gas:candidate-vibid:2052000942961": 22,
+      "gas:candidate-vibid:2052000939321": 107,
+      "gas:candidate-vibid:2052000939360": 30,
+      "gas:candidate-vibid:2052000939372": 74,
+      "gas:candidate-vibid:2052000932086": 23,
+      "gas:candidate-vibid:2052000942331": 2219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 6,
-      "Кличханов Ислам Газрединович": 5,
-      "Махмудов Махмуд Гаджулаевич": 80,
-      "Пайзулаев Мурат Магомедович": 30,
-      "Саидов Тимур Ахмедович": 8,
-      "Султанов Мажи Курбанович": 19,
-      "Эмиргамзаев Абдулгамид Гасанович": 1496
+      "gas:candidate-vibid:2052000942694": 6,
+      "gas:candidate-vibid:2052000942961": 5,
+      "gas:candidate-vibid:2052000939321": 80,
+      "gas:candidate-vibid:2052000939360": 30,
+      "gas:candidate-vibid:2052000939372": 8,
+      "gas:candidate-vibid:2052000932086": 19,
+      "gas:candidate-vibid:2052000942331": 1496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 14,
-      "Кличханов Ислам Газрединович": 15,
-      "Махмудов Махмуд Гаджулаевич": 138,
-      "Пайзулаев Мурат Магомедович": 11,
-      "Саидов Тимур Ахмедович": 24,
-      "Султанов Мажи Курбанович": 20,
-      "Эмиргамзаев Абдулгамид Гасанович": 1988
+      "gas:candidate-vibid:2052000942694": 14,
+      "gas:candidate-vibid:2052000942961": 15,
+      "gas:candidate-vibid:2052000939321": 138,
+      "gas:candidate-vibid:2052000939360": 11,
+      "gas:candidate-vibid:2052000939372": 24,
+      "gas:candidate-vibid:2052000932086": 20,
+      "gas:candidate-vibid:2052000942331": 1988
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 6,
-      "Кличханов Ислам Газрединович": 8,
-      "Махмудов Махмуд Гаджулаевич": 54,
-      "Пайзулаев Мурат Магомедович": 7,
-      "Саидов Тимур Ахмедович": 23,
-      "Султанов Мажи Курбанович": 13,
-      "Эмиргамзаев Абдулгамид Гасанович": 933
+      "gas:candidate-vibid:2052000942694": 6,
+      "gas:candidate-vibid:2052000942961": 8,
+      "gas:candidate-vibid:2052000939321": 54,
+      "gas:candidate-vibid:2052000939360": 7,
+      "gas:candidate-vibid:2052000939372": 23,
+      "gas:candidate-vibid:2052000932086": 13,
+      "gas:candidate-vibid:2052000942331": 933
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 9,
-      "Кличханов Ислам Газрединович": 2,
-      "Махмудов Махмуд Гаджулаевич": 18,
-      "Пайзулаев Мурат Магомедович": 64,
-      "Саидов Тимур Ахмедович": 21,
-      "Султанов Мажи Курбанович": 7,
-      "Эмиргамзаев Абдулгамид Гасанович": 1242
+      "gas:candidate-vibid:2052000942694": 9,
+      "gas:candidate-vibid:2052000942961": 2,
+      "gas:candidate-vibid:2052000939321": 18,
+      "gas:candidate-vibid:2052000939360": 64,
+      "gas:candidate-vibid:2052000939372": 21,
+      "gas:candidate-vibid:2052000932086": 7,
+      "gas:candidate-vibid:2052000942331": 1242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 25,
-      "Кличханов Ислам Газрединович": 23,
-      "Махмудов Махмуд Гаджулаевич": 48,
-      "Пайзулаев Мурат Магомедович": 20,
-      "Саидов Тимур Ахмедович": 28,
-      "Султанов Мажи Курбанович": 21,
-      "Эмиргамзаев Абдулгамид Гасанович": 2400
+      "gas:candidate-vibid:2052000942694": 25,
+      "gas:candidate-vibid:2052000942961": 23,
+      "gas:candidate-vibid:2052000939321": 48,
+      "gas:candidate-vibid:2052000939360": 20,
+      "gas:candidate-vibid:2052000939372": 28,
+      "gas:candidate-vibid:2052000932086": 21,
+      "gas:candidate-vibid:2052000942331": 2400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вагабов Исламутдин Шаравович": 18,
-      "Кличханов Ислам Газрединович": 9,
-      "Махмудов Махмуд Гаджулаевич": 67,
-      "Пайзулаев Мурат Магомедович": 34,
-      "Саидов Тимур Ахмедович": 32,
-      "Султанов Мажи Курбанович": 8,
-      "Эмиргамзаев Абдулгамид Гасанович": 1622
+      "gas:candidate-vibid:2052000942694": 18,
+      "gas:candidate-vibid:2052000942961": 9,
+      "gas:candidate-vibid:2052000939321": 67,
+      "gas:candidate-vibid:2052000939360": 34,
+      "gas:candidate-vibid:2052000939372": 32,
+      "gas:candidate-vibid:2052000932086": 8,
+      "gas:candidate-vibid:2052000942331": 1622
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000016&tvd=2052000895901&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895901&type=464",
@@ -7111,17 +7111,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 354,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 191,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 354,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 191,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7172,17 +7172,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 650,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 209,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 650,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 209,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7233,17 +7233,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 108,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 108,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7294,17 +7294,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 200,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 118,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 200,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 118,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7355,17 +7355,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 132,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 132,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7416,17 +7416,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 140,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 8,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 140,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 8,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7477,17 +7477,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 440,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 9,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 440,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 9,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7538,17 +7538,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 215,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 215,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7599,17 +7599,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 1049,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 1049,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7660,17 +7660,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 488,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 55,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 488,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 55,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7721,17 +7721,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 4,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 96,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 4,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 96,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7782,17 +7782,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 1,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 94,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 1,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 94,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7843,17 +7843,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 109,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 109,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7904,17 +7904,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 13,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 126,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 13,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 126,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -7965,17 +7965,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 125,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 67,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 125,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 67,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8026,17 +8026,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 2,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 869,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 2,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 869,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8087,17 +8087,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 170,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 170,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8148,17 +8148,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 221,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 84,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 221,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 84,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8209,17 +8209,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 320,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 14,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 320,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 14,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8270,17 +8270,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 350,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 59,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 350,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 59,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8331,17 +8331,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 193,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 193,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8392,17 +8392,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 50,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 50,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8453,17 +8453,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 50,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 40,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 50,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 40,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8514,17 +8514,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 42,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 145,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 42,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 145,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8575,17 +8575,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 397,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 746,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 397,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 746,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8636,17 +8636,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 180,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 180,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8697,17 +8697,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 459,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 52,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 459,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 52,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8758,17 +8758,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 268,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 268,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8819,17 +8819,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 70,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 70,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8880,17 +8880,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 2,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 183,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 2,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 183,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -8941,17 +8941,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 1750,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 20,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 1750,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 20,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9002,17 +9002,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 2,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 5,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 2,
-      "Маграмов Абдулмажид Варисович": 699,
-      "Умаров Дада Расулович": 3,
-      "Хархаров Абусупьян Магомедович": 186,
-      "Эседов Альберт Абдурахманович": 1,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 2,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 5,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 2,
+      "gas:candidate-vibid:2052000943250": 699,
+      "gas:candidate-vibid:2052000943392": 3,
+      "gas:candidate-vibid:2052000930624": 186,
+      "gas:candidate-vibid:2052000942986": 1,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9063,17 +9063,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 110,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 97,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 110,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 97,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9124,17 +9124,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 301,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 19,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 301,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 19,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9185,17 +9185,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 49,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 177,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 49,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 177,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9246,17 +9246,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 960,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 7,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 960,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 7,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9307,17 +9307,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 559,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 60,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 559,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 60,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9368,17 +9368,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 46,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 46,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9429,17 +9429,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 426,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 698,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 426,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 698,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9490,17 +9490,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 80,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 80,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9551,17 +9551,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 432,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 215,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 432,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 215,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9612,17 +9612,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 0,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 148,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 0,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 148,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9673,17 +9673,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 207,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 161,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 207,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 161,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9734,17 +9734,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 99,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 99,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895903&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895903&type=464",
@@ -9795,17 +9795,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 131,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 33,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 131,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 33,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -9856,17 +9856,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 68,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 10,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 68,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 10,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -9917,17 +9917,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 60,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 63,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 60,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 63,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -9978,17 +9978,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 1,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 1,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 85,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 50,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 3
+      "gas:candidate-vibid:2052000943376": 1,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 1,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 85,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 50,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10039,17 +10039,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 51,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 7,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 51,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 7,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10100,17 +10100,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 169,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 3,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 169,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 3,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10161,17 +10161,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 158,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 40,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 158,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 40,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10222,17 +10222,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 72,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 18,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 72,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 18,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10283,17 +10283,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 88,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 33,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 88,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 33,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10344,17 +10344,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 28,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 6,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 28,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 6,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10405,17 +10405,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 75,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 15,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 75,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 15,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10466,17 +10466,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 1,
-      "Маграмов Абдулмажид Варисович": 84,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 19,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 2
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 1,
+      "gas:candidate-vibid:2052000943250": 84,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 19,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10527,17 +10527,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 3,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 1,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 32,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 28,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 1
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 3,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 1,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 32,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 28,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10588,17 +10588,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 25,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 17,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 25,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 17,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10649,17 +10649,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 67,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 35,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 67,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 35,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10710,17 +10710,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 38,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 42,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 38,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 42,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10771,17 +10771,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 1,
-      "Маграмов Абдулмажид Варисович": 53,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 3,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 1,
+      "gas:candidate-vibid:2052000943250": 53,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 3,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10832,17 +10832,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 165,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 85,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 165,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 85,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10893,17 +10893,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 3,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 1,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 1,
-      "Маграмов Абдулмажид Варисович": 334,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 108,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 1
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 3,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 1,
+      "gas:candidate-vibid:2052000943276": 1,
+      "gas:candidate-vibid:2052000943250": 334,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 108,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -10954,17 +10954,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 98,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 6,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 98,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 6,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11015,17 +11015,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 182,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 3,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 182,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 3,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11076,17 +11076,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 52,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 3,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 52,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 3,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11137,17 +11137,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 56,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 14,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 56,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 14,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11198,17 +11198,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 92,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 23,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 92,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 23,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11259,17 +11259,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 418,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 104,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 418,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 104,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11320,17 +11320,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 147,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 13,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 147,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 13,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11381,17 +11381,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 49,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 40,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 49,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 40,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11442,17 +11442,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 1,
-      "Маграмов Абдулмажид Варисович": 37,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 2,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 1,
+      "gas:candidate-vibid:2052000943250": 37,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 2,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11503,17 +11503,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 20,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 3,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 20,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 3,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11564,17 +11564,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 108,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 63,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 22
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 108,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 63,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11625,17 +11625,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 86,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 11,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 86,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 11,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11686,17 +11686,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 31,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 26,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 31,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 26,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11747,17 +11747,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 1,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 20,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 1,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 20,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11808,17 +11808,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 24,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 5,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 24,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 5,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11869,17 +11869,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 60,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 10,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 60,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 10,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11930,17 +11930,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 22,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 5,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 22,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 5,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -11991,17 +11991,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 31,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 2,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 31,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 2,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12052,17 +12052,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 12,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 2,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 12,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 2,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12113,17 +12113,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 27,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 96,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 30,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 27,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 96,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 30,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12174,17 +12174,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 61,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 29,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 61,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 29,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12235,17 +12235,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 120,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 30,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 120,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 30,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12296,17 +12296,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 1224,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 181,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 1224,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 181,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12357,17 +12357,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 38,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 18,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 38,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 18,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12418,17 +12418,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 34,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 16,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 34,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 16,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12479,17 +12479,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 3,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 23,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 3,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 23,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12540,17 +12540,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 200,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 38,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 200,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 38,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12601,17 +12601,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 123,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 123,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12662,17 +12662,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 4,
-      "Маграмов Абдулмажид Варисович": 332,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 28,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 4,
+      "gas:candidate-vibid:2052000943250": 332,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 28,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12723,17 +12723,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 122,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 29,
-      "Эседов Альберт Абдурахманович": 1,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 122,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 29,
+      "gas:candidate-vibid:2052000942986": 1,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12784,17 +12784,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 33,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 5,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 33,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 5,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12845,17 +12845,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 74,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 18,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 74,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 18,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12906,17 +12906,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 35,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 5,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 35,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 5,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -12967,17 +12967,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 22,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 3,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 22,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 3,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895904&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895904&type=464",
@@ -13028,17 +13028,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 273,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 75,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 273,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 75,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13089,17 +13089,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 381,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 110,
-      "Юзик Юлия Викторовна": 3
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 381,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 110,
+      "gas:candidate-vibid:2052000943006": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13150,17 +13150,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 55,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 186,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 55,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 186,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13211,17 +13211,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 2,
-      "Акулиничев Сергей Вячеславович": 2,
-      "Гаджиев Хаджимурад Абдулхаликович": 13,
-      "Джафаров Ирасхан Раджабович": 4,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 1,
-      "Маграмов Абдулмажид Варисович": 85,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 82,
-      "Эседов Альберт Абдурахманович": 2,
-      "Юзик Юлия Викторовна": 1
+      "gas:candidate-vibid:2052000943376": 2,
+      "gas:candidate-vibid:2052000945506": 2,
+      "gas:candidate-vibid:2052000945550": 13,
+      "gas:candidate-vibid:2052000915760": 4,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 1,
+      "gas:candidate-vibid:2052000943250": 85,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 82,
+      "gas:candidate-vibid:2052000942986": 2,
+      "gas:candidate-vibid:2052000943006": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13272,17 +13272,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 47,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 47,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13333,17 +13333,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 1,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 14,
-      "Умаров Дада Расулович": 1,
-      "Хархаров Абусупьян Магомедович": 7,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 3
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 1,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 14,
+      "gas:candidate-vibid:2052000943392": 1,
+      "gas:candidate-vibid:2052000930624": 7,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13394,17 +13394,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 68,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 32,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 68,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 32,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13455,17 +13455,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 117,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 87,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 117,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 87,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13516,17 +13516,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 4,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 40,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 39,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 1
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 4,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 40,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 39,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13577,17 +13577,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 48,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 35,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 48,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 35,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13638,17 +13638,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 1,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 1,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 90,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 24,
-      "Эседов Альберт Абдурахманович": 1,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 1,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 1,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 90,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 24,
+      "gas:candidate-vibid:2052000942986": 1,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13699,17 +13699,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 241,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 160,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 241,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 160,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13760,17 +13760,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 1,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 25,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 27,
-      "Эседов Альберт Абдурахманович": 1,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 1,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 25,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 27,
+      "gas:candidate-vibid:2052000942986": 1,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13821,17 +13821,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 29,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 80,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 29,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 80,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13882,17 +13882,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 40,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 47,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 40,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 47,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -13943,17 +13943,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 12,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 20,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 12,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 20,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14004,17 +14004,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 84,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 188,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 84,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 188,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14065,17 +14065,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 1,
-      "Акулиничев Сергей Вячеславович": 1,
-      "Гаджиев Хаджимурад Абдулхаликович": 3,
-      "Джафаров Ирасхан Раджабович": 1,
-      "Джиккаев Владимир Мелитонович": 1,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 2,
-      "Маграмов Абдулмажид Варисович": 81,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 16,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 2
+      "gas:candidate-vibid:2052000943376": 1,
+      "gas:candidate-vibid:2052000945506": 1,
+      "gas:candidate-vibid:2052000945550": 3,
+      "gas:candidate-vibid:2052000915760": 1,
+      "gas:candidate-vibid:2052000942307": 1,
+      "gas:candidate-vibid:2052000943276": 2,
+      "gas:candidate-vibid:2052000943250": 81,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 16,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14126,17 +14126,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 115,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 48,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 115,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 48,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14187,17 +14187,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 53,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 29,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 53,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 29,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14248,17 +14248,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 1,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 1,
-      "Маграмов Абдулмажид Варисович": 14,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 4,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 1,
+      "gas:candidate-vibid:2052000943276": 1,
+      "gas:candidate-vibid:2052000943250": 14,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 4,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14309,17 +14309,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 1,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 19,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 12,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 1,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 19,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 12,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14370,17 +14370,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 58,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 58,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14431,17 +14431,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 186,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 38,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 186,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 38,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14492,17 +14492,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 124,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 39,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 124,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 39,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14553,17 +14553,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 1,
-      "Гаджиев Хаджимурад Абдулхаликович": 3,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 168,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 10,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 1,
+      "gas:candidate-vibid:2052000945550": 3,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 168,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 10,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14614,17 +14614,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 23,
-      "Умаров Дада Расулович": 1,
-      "Хархаров Абусупьян Магомедович": 47,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 23,
+      "gas:candidate-vibid:2052000943392": 1,
+      "gas:candidate-vibid:2052000930624": 47,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14675,17 +14675,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 0,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 0,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 48,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 0,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 0,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 0,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 48,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 0,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",
@@ -14736,17 +14736,17 @@ export const duma_2016_uik_463_region_5_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдурахманов Гайирбег Магомедович": 1,
-      "Акулиничев Сергей Вячеславович": 0,
-      "Гаджиев Хаджимурад Абдулхаликович": 1,
-      "Джафаров Ирасхан Раджабович": 0,
-      "Джиккаев Владимир Мелитонович": 0,
-      "Ибрагимгаджиев Ибрагимгаджи Магомедгасанович": 0,
-      "Маграмов Абдулмажид Варисович": 23,
-      "Умаров Дада Расулович": 0,
-      "Хархаров Абусупьян Магомедович": 24,
-      "Эседов Альберт Абдурахманович": 0,
-      "Юзик Юлия Викторовна": 0
+      "gas:candidate-vibid:2052000943376": 1,
+      "gas:candidate-vibid:2052000945506": 0,
+      "gas:candidate-vibid:2052000945550": 1,
+      "gas:candidate-vibid:2052000915760": 0,
+      "gas:candidate-vibid:2052000942307": 0,
+      "gas:candidate-vibid:2052000943276": 0,
+      "gas:candidate-vibid:2052000943250": 23,
+      "gas:candidate-vibid:2052000943392": 0,
+      "gas:candidate-vibid:2052000930624": 24,
+      "gas:candidate-vibid:2052000942986": 0,
+      "gas:candidate-vibid:2052000943006": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000017&tvd=2052000895905&vrn=100100067795849&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=2052000895905&type=464",

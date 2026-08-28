@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 126,
-      "Боос Георгий Валентинович": 762,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 84,
-      "Новодворская Валерия Ильинична": 99,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000394547": 126,
+      "gas:candidate-vibid:1001000226008": 762,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 84,
+      "gas:candidate-vibid:377300670522": 99,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 93,
-      "Боос Георгий Валентинович": 821,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 75,
-      "Новодворская Валерия Ильинична": 74,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000394547": 93,
+      "gas:candidate-vibid:1001000226008": 821,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 75,
+      "gas:candidate-vibid:377300670522": 74,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 119,
-      "Боос Георгий Валентинович": 780,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 82,
-      "Новодворская Валерия Ильинична": 88,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000394547": 119,
+      "gas:candidate-vibid:1001000226008": 780,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 82,
+      "gas:candidate-vibid:377300670522": 88,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 144,
-      "Боос Георгий Валентинович": 654,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 107,
-      "Новодворская Валерия Ильинична": 79,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000394547": 144,
+      "gas:candidate-vibid:1001000226008": 654,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 107,
+      "gas:candidate-vibid:377300670522": 79,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670401&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 69,
-      "Боос Георгий Валентинович": 735,
-      "Голицына Виленина Анатольевна": 39,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 67,
-      "Новодворская Валерия Ильинична": 64,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000394547": 69,
+      "gas:candidate-vibid:1001000226008": 735,
+      "gas:candidate-vibid:1001000289817": 39,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 67,
+      "gas:candidate-vibid:377300670522": 64,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670402&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 129,
-      "Боос Георгий Валентинович": 1194,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 96,
-      "Новодворская Валерия Ильинична": 85,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000394547": 129,
+      "gas:candidate-vibid:1001000226008": 1194,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 96,
+      "gas:candidate-vibid:377300670522": 85,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670402&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 86,
-      "Боос Георгий Валентинович": 741,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 109,
-      "Новодворская Валерия Ильинична": 65,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000394547": 86,
+      "gas:candidate-vibid:1001000226008": 741,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 109,
+      "gas:candidate-vibid:377300670522": 65,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670402&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 179,
-      "Боос Георгий Валентинович": 877,
-      "Голицына Виленина Анатольевна": 33,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 83,
-      "Новодворская Валерия Ильинична": 108,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000394547": 179,
+      "gas:candidate-vibid:1001000226008": 877,
+      "gas:candidate-vibid:1001000289817": 33,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 83,
+      "gas:candidate-vibid:377300670522": 108,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 121,
-      "Боос Георгий Валентинович": 909,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 67,
-      "Новодворская Валерия Ильинична": 66,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000394547": 121,
+      "gas:candidate-vibid:1001000226008": 909,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 67,
+      "gas:candidate-vibid:377300670522": 66,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 144,
-      "Боос Георгий Валентинович": 926,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 100,
-      "Новодворская Валерия Ильинична": 64,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000394547": 144,
+      "gas:candidate-vibid:1001000226008": 926,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 100,
+      "gas:candidate-vibid:377300670522": 64,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 103,
-      "Боос Георгий Валентинович": 891,
-      "Голицына Виленина Анатольевна": 24,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 73,
-      "Новодворская Валерия Ильинична": 77,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000394547": 103,
+      "gas:candidate-vibid:1001000226008": 891,
+      "gas:candidate-vibid:1001000289817": 24,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 73,
+      "gas:candidate-vibid:377300670522": 77,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 109,
-      "Боос Георгий Валентинович": 948,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 84,
-      "Новодворская Валерия Ильинична": 71,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000394547": 109,
+      "gas:candidate-vibid:1001000226008": 948,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 84,
+      "gas:candidate-vibid:377300670522": 71,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 139,
-      "Боос Георгий Валентинович": 996,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 93,
-      "Новодворская Валерия Ильинична": 73,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000394547": 139,
+      "gas:candidate-vibid:1001000226008": 996,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 93,
+      "gas:candidate-vibid:377300670522": 73,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 118,
-      "Боос Георгий Валентинович": 898,
-      "Голицына Виленина Анатольевна": 12,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 80,
-      "Новодворская Валерия Ильинична": 71,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000394547": 118,
+      "gas:candidate-vibid:1001000226008": 898,
+      "gas:candidate-vibid:1001000289817": 12,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 80,
+      "gas:candidate-vibid:377300670522": 71,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 166,
-      "Боос Георгий Валентинович": 888,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 107,
-      "Новодворская Валерия Ильинична": 112,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000394547": 166,
+      "gas:candidate-vibid:1001000226008": 888,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 107,
+      "gas:candidate-vibid:377300670522": 112,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 98,
-      "Боос Георгий Валентинович": 826,
-      "Голицына Виленина Анатольевна": 16,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 62,
-      "Новодворская Валерия Ильинична": 64,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000394547": 98,
+      "gas:candidate-vibid:1001000226008": 826,
+      "gas:candidate-vibid:1001000289817": 16,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 62,
+      "gas:candidate-vibid:377300670522": 64,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 92,
-      "Боос Георгий Валентинович": 656,
-      "Голицына Виленина Анатольевна": 22,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 70,
-      "Новодворская Валерия Ильинична": 57,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000394547": 92,
+      "gas:candidate-vibid:1001000226008": 656,
+      "gas:candidate-vibid:1001000289817": 22,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 70,
+      "gas:candidate-vibid:377300670522": 57,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 138,
-      "Боос Георгий Валентинович": 800,
-      "Голицына Виленина Анатольевна": 17,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 97,
-      "Новодворская Валерия Ильинична": 72,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000394547": 138,
+      "gas:candidate-vibid:1001000226008": 800,
+      "gas:candidate-vibid:1001000289817": 17,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 97,
+      "gas:candidate-vibid:377300670522": 72,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 116,
-      "Боос Георгий Валентинович": 698,
-      "Голицына Виленина Анатольевна": 15,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 53,
-      "Новодворская Валерия Ильинична": 52,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000394547": 116,
+      "gas:candidate-vibid:1001000226008": 698,
+      "gas:candidate-vibid:1001000289817": 15,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 53,
+      "gas:candidate-vibid:377300670522": 52,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 172,
-      "Боос Георгий Валентинович": 728,
-      "Голицына Виленина Анатольевна": 22,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 87,
-      "Новодворская Валерия Ильинична": 74,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000394547": 172,
+      "gas:candidate-vibid:1001000226008": 728,
+      "gas:candidate-vibid:1001000289817": 22,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 87,
+      "gas:candidate-vibid:377300670522": 74,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 162,
-      "Боос Георгий Валентинович": 842,
-      "Голицына Виленина Анатольевна": 20,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 135,
-      "Новодворская Валерия Ильинична": 63,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000394547": 162,
+      "gas:candidate-vibid:1001000226008": 842,
+      "gas:candidate-vibid:1001000289817": 20,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 135,
+      "gas:candidate-vibid:377300670522": 63,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 151,
-      "Боос Георгий Валентинович": 849,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 83,
-      "Новодворская Валерия Ильинична": 70,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000394547": 151,
+      "gas:candidate-vibid:1001000226008": 849,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 83,
+      "gas:candidate-vibid:377300670522": 70,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 170,
-      "Боос Георгий Валентинович": 782,
-      "Голицына Виленина Анатольевна": 22,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 125,
-      "Новодворская Валерия Ильинична": 103,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000394547": 170,
+      "gas:candidate-vibid:1001000226008": 782,
+      "gas:candidate-vibid:1001000289817": 22,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 125,
+      "gas:candidate-vibid:377300670522": 103,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 121,
-      "Боос Георгий Валентинович": 740,
-      "Голицына Виленина Анатольевна": 22,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 88,
-      "Новодворская Валерия Ильинична": 81,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000394547": 121,
+      "gas:candidate-vibid:1001000226008": 740,
+      "gas:candidate-vibid:1001000289817": 22,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 88,
+      "gas:candidate-vibid:377300670522": 81,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 161,
-      "Боос Георгий Валентинович": 921,
-      "Голицына Виленина Анатольевна": 24,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 116,
-      "Новодворская Валерия Ильинична": 102,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000394547": 161,
+      "gas:candidate-vibid:1001000226008": 921,
+      "gas:candidate-vibid:1001000289817": 24,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 116,
+      "gas:candidate-vibid:377300670522": 102,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 123,
-      "Боос Георгий Валентинович": 924,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 159,
-      "Новодворская Валерия Ильинична": 70,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000394547": 123,
+      "gas:candidate-vibid:1001000226008": 924,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 159,
+      "gas:candidate-vibid:377300670522": 70,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670404&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 131,
-      "Боос Георгий Валентинович": 939,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 93,
-      "Новодворская Валерия Ильинична": 67,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000394547": 131,
+      "gas:candidate-vibid:1001000226008": 939,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 93,
+      "gas:candidate-vibid:377300670522": 67,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 122,
-      "Боос Георгий Валентинович": 936,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 85,
-      "Новодворская Валерия Ильинична": 92,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000394547": 122,
+      "gas:candidate-vibid:1001000226008": 936,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 85,
+      "gas:candidate-vibid:377300670522": 92,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 121,
-      "Боос Георгий Валентинович": 792,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 96,
-      "Новодворская Валерия Ильинична": 70,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000394547": 121,
+      "gas:candidate-vibid:1001000226008": 792,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 96,
+      "gas:candidate-vibid:377300670522": 70,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 78,
-      "Боос Георгий Валентинович": 995,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 83,
-      "Новодворская Валерия Ильинична": 73,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000394547": 78,
+      "gas:candidate-vibid:1001000226008": 995,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 83,
+      "gas:candidate-vibid:377300670522": 73,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 127,
-      "Боос Георгий Валентинович": 946,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 74,
-      "Новодворская Валерия Ильинична": 80,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000394547": 127,
+      "gas:candidate-vibid:1001000226008": 946,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 74,
+      "gas:candidate-vibid:377300670522": 80,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 106,
-      "Боос Георгий Валентинович": 847,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 112,
-      "Новодворская Валерия Ильинична": 114,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000394547": 106,
+      "gas:candidate-vibid:1001000226008": 847,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 112,
+      "gas:candidate-vibid:377300670522": 114,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 133,
-      "Боос Георгий Валентинович": 727,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 82,
-      "Новодворская Валерия Ильинична": 98,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000394547": 133,
+      "gas:candidate-vibid:1001000226008": 727,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 82,
+      "gas:candidate-vibid:377300670522": 98,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 144,
-      "Боос Георгий Валентинович": 871,
-      "Голицына Виленина Анатольевна": 46,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 97,
-      "Новодворская Валерия Ильинична": 81,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000394547": 144,
+      "gas:candidate-vibid:1001000226008": 871,
+      "gas:candidate-vibid:1001000289817": 46,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 97,
+      "gas:candidate-vibid:377300670522": 81,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 133,
-      "Боос Георгий Валентинович": 896,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 11,
-      "Миронов Александр Сергеевич": 88,
-      "Новодворская Валерия Ильинична": 79,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000394547": 133,
+      "gas:candidate-vibid:1001000226008": 896,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 11,
+      "gas:candidate-vibid:1001000126653": 88,
+      "gas:candidate-vibid:377300670522": 79,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 105,
-      "Боос Георгий Валентинович": 877,
-      "Голицына Виленина Анатольевна": 38,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 92,
-      "Новодворская Валерия Ильинична": 72,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000394547": 105,
+      "gas:candidate-vibid:1001000226008": 877,
+      "gas:candidate-vibid:1001000289817": 38,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 92,
+      "gas:candidate-vibid:377300670522": 72,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 86,
-      "Боос Георгий Валентинович": 710,
-      "Голицына Виленина Анатольевна": 24,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 72,
-      "Новодворская Валерия Ильинична": 59,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000394547": 86,
+      "gas:candidate-vibid:1001000226008": 710,
+      "gas:candidate-vibid:1001000289817": 24,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 72,
+      "gas:candidate-vibid:377300670522": 59,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 96,
-      "Боос Георгий Валентинович": 761,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 60,
-      "Новодворская Валерия Ильинична": 76,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000394547": 96,
+      "gas:candidate-vibid:1001000226008": 761,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 60,
+      "gas:candidate-vibid:377300670522": 76,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 102,
-      "Боос Георгий Валентинович": 1043,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 97,
-      "Новодворская Валерия Ильинична": 89,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000394547": 102,
+      "gas:candidate-vibid:1001000226008": 1043,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 97,
+      "gas:candidate-vibid:377300670522": 89,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 72,
-      "Боос Георгий Валентинович": 673,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 62,
-      "Новодворская Валерия Ильинична": 56,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000394547": 72,
+      "gas:candidate-vibid:1001000226008": 673,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 62,
+      "gas:candidate-vibid:377300670522": 56,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 68,
-      "Боос Георгий Валентинович": 655,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 65,
-      "Новодворская Валерия Ильинична": 48,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000394547": 68,
+      "gas:candidate-vibid:1001000226008": 655,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 65,
+      "gas:candidate-vibid:377300670522": 48,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 75,
-      "Боос Георгий Валентинович": 570,
-      "Голицына Виленина Анатольевна": 16,
-      "Киптик Михаил Иванович": 11,
-      "Миронов Александр Сергеевич": 72,
-      "Новодворская Валерия Ильинична": 81,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000394547": 75,
+      "gas:candidate-vibid:1001000226008": 570,
+      "gas:candidate-vibid:1001000289817": 16,
+      "gas:candidate-vibid:377300670739": 11,
+      "gas:candidate-vibid:1001000126653": 72,
+      "gas:candidate-vibid:377300670522": 81,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 97,
-      "Боос Георгий Валентинович": 767,
-      "Голицына Виленина Анатольевна": 39,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 76,
-      "Новодворская Валерия Ильинична": 77,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000394547": 97,
+      "gas:candidate-vibid:1001000226008": 767,
+      "gas:candidate-vibid:1001000289817": 39,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 76,
+      "gas:candidate-vibid:377300670522": 77,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 93,
-      "Боос Георгий Валентинович": 785,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 97,
-      "Новодворская Валерия Ильинична": 86,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000394547": 93,
+      "gas:candidate-vibid:1001000226008": 785,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 97,
+      "gas:candidate-vibid:377300670522": 86,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 97,
-      "Боос Георгий Валентинович": 896,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 65,
-      "Новодворская Валерия Ильинична": 70,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000394547": 97,
+      "gas:candidate-vibid:1001000226008": 896,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 65,
+      "gas:candidate-vibid:377300670522": 70,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 98,
-      "Боос Георгий Валентинович": 763,
-      "Голицына Виленина Анатольевна": 30,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 74,
-      "Новодворская Валерия Ильинична": 70,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000394547": 98,
+      "gas:candidate-vibid:1001000226008": 763,
+      "gas:candidate-vibid:1001000289817": 30,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 74,
+      "gas:candidate-vibid:377300670522": 70,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 90,
-      "Боос Георгий Валентинович": 904,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 90,
-      "Новодворская Валерия Ильинична": 80,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000394547": 90,
+      "gas:candidate-vibid:1001000226008": 904,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 90,
+      "gas:candidate-vibid:377300670522": 80,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 107,
-      "Боос Георгий Валентинович": 841,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 86,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000394547": 107,
+      "gas:candidate-vibid:1001000226008": 841,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 86,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 67,
-      "Боос Георгий Валентинович": 755,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 105,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000394547": 67,
+      "gas:candidate-vibid:1001000226008": 755,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 105,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 141,
-      "Боос Георгий Валентинович": 800,
-      "Голицына Виленина Анатольевна": 17,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 114,
-      "Новодворская Валерия Ильинична": 121,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000394547": 141,
+      "gas:candidate-vibid:1001000226008": 800,
+      "gas:candidate-vibid:1001000289817": 17,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 114,
+      "gas:candidate-vibid:377300670522": 121,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 104,
-      "Боос Георгий Валентинович": 785,
-      "Голицына Виленина Анатольевна": 41,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 67,
-      "Новодворская Валерия Ильинична": 66,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000394547": 104,
+      "gas:candidate-vibid:1001000226008": 785,
+      "gas:candidate-vibid:1001000289817": 41,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 67,
+      "gas:candidate-vibid:377300670522": 66,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 123,
-      "Боос Георгий Валентинович": 656,
-      "Голицына Виленина Анатольевна": 25,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 110,
-      "Новодворская Валерия Ильинична": 71,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000394547": 123,
+      "gas:candidate-vibid:1001000226008": 656,
+      "gas:candidate-vibid:1001000289817": 25,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 110,
+      "gas:candidate-vibid:377300670522": 71,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 99,
-      "Боос Георгий Валентинович": 871,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 100,
-      "Новодворская Валерия Ильинична": 80,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000394547": 99,
+      "gas:candidate-vibid:1001000226008": 871,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 100,
+      "gas:candidate-vibid:377300670522": 80,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 126,
-      "Боос Георгий Валентинович": 763,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 100,
-      "Новодворская Валерия Ильинична": 69,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000394547": 126,
+      "gas:candidate-vibid:1001000226008": 763,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 100,
+      "gas:candidate-vibid:377300670522": 69,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 107,
-      "Боос Георгий Валентинович": 941,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 102,
-      "Новодворская Валерия Ильинична": 93,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000394547": 107,
+      "gas:candidate-vibid:1001000226008": 941,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 102,
+      "gas:candidate-vibid:377300670522": 93,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 95,
-      "Боос Георгий Валентинович": 999,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 79,
-      "Новодворская Валерия Ильинична": 32,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000394547": 95,
+      "gas:candidate-vibid:1001000226008": 999,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 79,
+      "gas:candidate-vibid:377300670522": 32,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 127,
-      "Боос Георгий Валентинович": 705,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 16,
-      "Миронов Александр Сергеевич": 109,
-      "Новодворская Валерия Ильинична": 134,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000394547": 127,
+      "gas:candidate-vibid:1001000226008": 705,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 16,
+      "gas:candidate-vibid:1001000126653": 109,
+      "gas:candidate-vibid:377300670522": 134,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 101,
-      "Боос Георгий Валентинович": 898,
-      "Голицына Виленина Анатольевна": 25,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 81,
-      "Новодворская Валерия Ильинична": 69,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000394547": 101,
+      "gas:candidate-vibid:1001000226008": 898,
+      "gas:candidate-vibid:1001000289817": 25,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 81,
+      "gas:candidate-vibid:377300670522": 69,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 115,
-      "Боос Георгий Валентинович": 1188,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 86,
-      "Новодворская Валерия Ильинична": 94,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000394547": 115,
+      "gas:candidate-vibid:1001000226008": 1188,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 86,
+      "gas:candidate-vibid:377300670522": 94,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 127,
-      "Боос Георгий Валентинович": 1233,
-      "Голицына Виленина Анатольевна": 46,
-      "Киптик Михаил Иванович": 31,
-      "Миронов Александр Сергеевич": 144,
-      "Новодворская Валерия Ильинична": 72,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000394547": 127,
+      "gas:candidate-vibid:1001000226008": 1233,
+      "gas:candidate-vibid:1001000289817": 46,
+      "gas:candidate-vibid:377300670739": 31,
+      "gas:candidate-vibid:1001000126653": 144,
+      "gas:candidate-vibid:377300670522": 72,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 112,
-      "Боос Георгий Валентинович": 822,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 15,
-      "Миронов Александр Сергеевич": 102,
-      "Новодворская Валерия Ильинична": 100,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000394547": 112,
+      "gas:candidate-vibid:1001000226008": 822,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 15,
+      "gas:candidate-vibid:1001000126653": 102,
+      "gas:candidate-vibid:377300670522": 100,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 103,
-      "Боос Георгий Валентинович": 802,
-      "Голицына Виленина Анатольевна": 20,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 142,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000394547": 103,
+      "gas:candidate-vibid:1001000226008": 802,
+      "gas:candidate-vibid:1001000289817": 20,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 142,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 104,
-      "Боос Георгий Валентинович": 871,
-      "Голицына Виленина Анатольевна": 30,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 100,
-      "Новодворская Валерия Ильинична": 0,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000394547": 104,
+      "gas:candidate-vibid:1001000226008": 871,
+      "gas:candidate-vibid:1001000289817": 30,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 100,
+      "gas:candidate-vibid:377300670522": 0,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 70,
-      "Боос Георгий Валентинович": 873,
-      "Голицына Виленина Анатольевна": 41,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 79,
-      "Новодворская Валерия Ильинична": 72,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000394547": 70,
+      "gas:candidate-vibid:1001000226008": 873,
+      "gas:candidate-vibid:1001000289817": 41,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 79,
+      "gas:candidate-vibid:377300670522": 72,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 156,
-      "Боос Георгий Валентинович": 849,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 13,
-      "Миронов Александр Сергеевич": 117,
-      "Новодворская Валерия Ильинична": 97,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000394547": 156,
+      "gas:candidate-vibid:1001000226008": 849,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 13,
+      "gas:candidate-vibid:1001000126653": 117,
+      "gas:candidate-vibid:377300670522": 97,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 42,
-      "Боос Георгий Валентинович": 595,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 17,
-      "Новодворская Валерия Ильинична": 44,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000394547": 42,
+      "gas:candidate-vibid:1001000226008": 595,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 17,
+      "gas:candidate-vibid:377300670522": 44,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 91,
-      "Боос Георгий Валентинович": 1021,
-      "Голицына Виленина Анатольевна": 31,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 71,
-      "Новодворская Валерия Ильинична": 64,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000394547": 91,
+      "gas:candidate-vibid:1001000226008": 1021,
+      "gas:candidate-vibid:1001000289817": 31,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 71,
+      "gas:candidate-vibid:377300670522": 64,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 112,
-      "Боос Георгий Валентинович": 918,
-      "Голицына Виленина Анатольевна": 32,
-      "Киптик Михаил Иванович": 16,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 123,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000394547": 112,
+      "gas:candidate-vibid:1001000226008": 918,
+      "gas:candidate-vibid:1001000289817": 32,
+      "gas:candidate-vibid:377300670739": 16,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 123,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 157,
-      "Боос Георгий Валентинович": 815,
-      "Голицына Виленина Анатольевна": 36,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 91,
-      "Новодворская Валерия Ильинична": 80,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000394547": 157,
+      "gas:candidate-vibid:1001000226008": 815,
+      "gas:candidate-vibid:1001000289817": 36,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 91,
+      "gas:candidate-vibid:377300670522": 80,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 8,
-      "Боос Георгий Валентинович": 37,
-      "Голицына Виленина Анатольевна": 1,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 1,
-      "Новодворская Валерия Ильинична": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000394547": 8,
+      "gas:candidate-vibid:1001000226008": 37,
+      "gas:candidate-vibid:1001000289817": 1,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 1,
+      "gas:candidate-vibid:377300670522": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 27,
-      "Боос Георгий Валентинович": 59,
-      "Голицына Виленина Анатольевна": 2,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 10,
-      "Новодворская Валерия Ильинична": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000394547": 27,
+      "gas:candidate-vibid:1001000226008": 59,
+      "gas:candidate-vibid:1001000289817": 2,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 10,
+      "gas:candidate-vibid:377300670522": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 83,
-      "Боос Георгий Валентинович": 136,
-      "Голицына Виленина Анатольевна": 13,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 39,
-      "Новодворская Валерия Ильинична": 43,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000394547": 83,
+      "gas:candidate-vibid:1001000226008": 136,
+      "gas:candidate-vibid:1001000289817": 13,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 39,
+      "gas:candidate-vibid:377300670522": 43,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 64,
-      "Боос Георгий Валентинович": 41,
-      "Голицына Виленина Анатольевна": 8,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 14,
-      "Новодворская Валерия Ильинична": 33,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000394547": 64,
+      "gas:candidate-vibid:1001000226008": 41,
+      "gas:candidate-vibid:1001000289817": 8,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 14,
+      "gas:candidate-vibid:377300670522": 33,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 9,
-      "Боос Георгий Валентинович": 18,
-      "Голицына Виленина Анатольевна": 3,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 12,
-      "Новодворская Валерия Ильинична": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000394547": 9,
+      "gas:candidate-vibid:1001000226008": 18,
+      "gas:candidate-vibid:1001000289817": 3,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 12,
+      "gas:candidate-vibid:377300670522": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 23,
-      "Боос Георгий Валентинович": 78,
-      "Голицына Виленина Анатольевна": 3,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 28,
-      "Новодворская Валерия Ильинична": 11,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000394547": 23,
+      "gas:candidate-vibid:1001000226008": 78,
+      "gas:candidate-vibid:1001000289817": 3,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 28,
+      "gas:candidate-vibid:377300670522": 11,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 4,
-      "Боос Георгий Валентинович": 9,
-      "Голицына Виленина Анатольевна": 0,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 3,
-      "Новодворская Валерия Ильинична": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000394547": 4,
+      "gas:candidate-vibid:1001000226008": 9,
+      "gas:candidate-vibid:1001000289817": 0,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 3,
+      "gas:candidate-vibid:377300670522": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 3,
-      "Боос Георгий Валентинович": 12,
-      "Голицына Виленина Анатольевна": 1,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 1,
-      "Новодворская Валерия Ильинична": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000394547": 3,
+      "gas:candidate-vibid:1001000226008": 12,
+      "gas:candidate-vibid:1001000289817": 1,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 1,
+      "gas:candidate-vibid:377300670522": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 92,
-      "Боос Георгий Валентинович": 236,
-      "Голицына Виленина Анатольевна": 41,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 114,
-      "Новодворская Валерия Ильинична": 67,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000394547": 92,
+      "gas:candidate-vibid:1001000226008": 236,
+      "gas:candidate-vibid:1001000289817": 41,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 114,
+      "gas:candidate-vibid:377300670522": 67,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 50,
-      "Боос Георгий Валентинович": 46,
-      "Голицына Виленина Анатольевна": 6,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 29,
-      "Новодворская Валерия Ильинична": 20,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000394547": 50,
+      "gas:candidate-vibid:1001000226008": 46,
+      "gas:candidate-vibid:1001000289817": 6,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 29,
+      "gas:candidate-vibid:377300670522": 20,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 30,
-      "Боос Георгий Валентинович": 25,
-      "Голицына Виленина Анатольевна": 1,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 11,
-      "Новодворская Валерия Ильинична": 12,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000394547": 30,
+      "gas:candidate-vibid:1001000226008": 25,
+      "gas:candidate-vibid:1001000289817": 1,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 11,
+      "gas:candidate-vibid:377300670522": 12,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 34,
-      "Боос Георгий Валентинович": 18,
-      "Голицына Виленина Анатольевна": 7,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 5,
-      "Новодворская Валерия Ильинична": 14,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000394547": 34,
+      "gas:candidate-vibid:1001000226008": 18,
+      "gas:candidate-vibid:1001000289817": 7,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 5,
+      "gas:candidate-vibid:377300670522": 14,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 125,
-      "Боос Георгий Валентинович": 1287,
-      "Голицына Виленина Анатольевна": 91,
-      "Киптик Михаил Иванович": 17,
-      "Миронов Александр Сергеевич": 826,
-      "Новодворская Валерия Ильинична": 33,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000394547": 125,
+      "gas:candidate-vibid:1001000226008": 1287,
+      "gas:candidate-vibid:1001000289817": 91,
+      "gas:candidate-vibid:377300670739": 17,
+      "gas:candidate-vibid:1001000126653": 826,
+      "gas:candidate-vibid:377300670522": 33,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 122,
-      "Боос Георгий Валентинович": 1196,
-      "Голицына Виленина Анатольевна": 101,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 962,
-      "Новодворская Валерия Ильинична": 35,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000394547": 122,
+      "gas:candidate-vibid:1001000226008": 1196,
+      "gas:candidate-vibid:1001000289817": 101,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 962,
+      "gas:candidate-vibid:377300670522": 35,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 45,
-      "Боос Георгий Валентинович": 442,
-      "Голицына Виленина Анатольевна": 34,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 351,
-      "Новодворская Валерия Ильинична": 17,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000394547": 45,
+      "gas:candidate-vibid:1001000226008": 442,
+      "gas:candidate-vibid:1001000289817": 34,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 351,
+      "gas:candidate-vibid:377300670522": 17,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 60,
-      "Боос Георгий Валентинович": 539,
-      "Голицына Виленина Анатольевна": 60,
-      "Киптик Михаил Иванович": 9,
-      "Миронов Александр Сергеевич": 218,
-      "Новодворская Валерия Ильинична": 25,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000394547": 60,
+      "gas:candidate-vibid:1001000226008": 539,
+      "gas:candidate-vibid:1001000289817": 60,
+      "gas:candidate-vibid:377300670739": 9,
+      "gas:candidate-vibid:1001000126653": 218,
+      "gas:candidate-vibid:377300670522": 25,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 14,
-      "Боос Георгий Валентинович": 20,
-      "Голицына Виленина Анатольевна": 4,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 6,
-      "Новодворская Валерия Ильинична": 21,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000394547": 14,
+      "gas:candidate-vibid:1001000226008": 20,
+      "gas:candidate-vibid:1001000289817": 4,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 6,
+      "gas:candidate-vibid:377300670522": 21,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 13,
-      "Боос Георгий Валентинович": 36,
-      "Голицына Виленина Анатольевна": 2,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 12,
-      "Новодворская Валерия Ильинична": 11,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000394547": 13,
+      "gas:candidate-vibid:1001000226008": 36,
+      "gas:candidate-vibid:1001000289817": 2,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 12,
+      "gas:candidate-vibid:377300670522": 11,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 14,
-      "Боос Георгий Валентинович": 15,
-      "Голицына Виленина Анатольевна": 1,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 5,
-      "Новодворская Валерия Ильинична": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000394547": 14,
+      "gas:candidate-vibid:1001000226008": 15,
+      "gas:candidate-vibid:1001000289817": 1,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 5,
+      "gas:candidate-vibid:377300670522": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 30,
-      "Боос Георгий Валентинович": 23,
-      "Голицына Виленина Анатольевна": 1,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 7,
-      "Новодворская Валерия Ильинична": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000394547": 30,
+      "gas:candidate-vibid:1001000226008": 23,
+      "gas:candidate-vibid:1001000289817": 1,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 7,
+      "gas:candidate-vibid:377300670522": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 55,
-      "Боос Георгий Валентинович": 591,
-      "Голицына Виленина Анатольевна": 80,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 360,
-      "Новодворская Валерия Ильинична": 24,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000394547": 55,
+      "gas:candidate-vibid:1001000226008": 591,
+      "gas:candidate-vibid:1001000289817": 80,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 360,
+      "gas:candidate-vibid:377300670522": 24,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 13,
-      "Боос Георгий Валентинович": 14,
-      "Голицына Виленина Анатольевна": 0,
-      "Киптик Михаил Иванович": 0,
-      "Миронов Александр Сергеевич": 3,
-      "Новодворская Валерия Ильинична": 12,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000394547": 13,
+      "gas:candidate-vibid:1001000226008": 14,
+      "gas:candidate-vibid:1001000289817": 0,
+      "gas:candidate-vibid:377300670739": 0,
+      "gas:candidate-vibid:1001000126653": 3,
+      "gas:candidate-vibid:377300670522": 12,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300670405&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 118,
-      "Боос Георгий Валентинович": 1012,
-      "Голицына Виленина Анатольевна": 18,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 76,
-      "Новодворская Валерия Ильинична": 80,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000394547": 118,
+      "gas:candidate-vibid:1001000226008": 1012,
+      "gas:candidate-vibid:1001000289817": 18,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 76,
+      "gas:candidate-vibid:377300670522": 80,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 173,
-      "Боос Георгий Валентинович": 875,
-      "Голицына Виленина Анатольевна": 26,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 82,
-      "Новодворская Валерия Ильинична": 84,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000394547": 173,
+      "gas:candidate-vibid:1001000226008": 875,
+      "gas:candidate-vibid:1001000289817": 26,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 82,
+      "gas:candidate-vibid:377300670522": 84,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 149,
-      "Боос Георгий Валентинович": 905,
-      "Голицына Виленина Анатольевна": 24,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 78,
-      "Новодворская Валерия Ильинична": 87,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000394547": 149,
+      "gas:candidate-vibid:1001000226008": 905,
+      "gas:candidate-vibid:1001000289817": 24,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 78,
+      "gas:candidate-vibid:377300670522": 87,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 184,
-      "Боос Георгий Валентинович": 949,
-      "Голицына Виленина Анатольевна": 36,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 123,
-      "Новодворская Валерия Ильинична": 61,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000394547": 184,
+      "gas:candidate-vibid:1001000226008": 949,
+      "gas:candidate-vibid:1001000289817": 36,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 123,
+      "gas:candidate-vibid:377300670522": 61,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 118,
-      "Боос Георгий Валентинович": 927,
-      "Голицына Виленина Анатольевна": 28,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 117,
-      "Новодворская Валерия Ильинична": 73,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000394547": 118,
+      "gas:candidate-vibid:1001000226008": 927,
+      "gas:candidate-vibid:1001000289817": 28,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 117,
+      "gas:candidate-vibid:377300670522": 73,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 106,
-      "Боос Георгий Валентинович": 822,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 60,
-      "Новодворская Валерия Ильинична": 60,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000394547": 106,
+      "gas:candidate-vibid:1001000226008": 822,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 60,
+      "gas:candidate-vibid:377300670522": 60,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 98,
-      "Боос Георгий Валентинович": 740,
-      "Голицына Виленина Анатольевна": 17,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 66,
-      "Новодворская Валерия Ильинична": 68,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000394547": 98,
+      "gas:candidate-vibid:1001000226008": 740,
+      "gas:candidate-vibid:1001000289817": 17,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 66,
+      "gas:candidate-vibid:377300670522": 68,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 98,
-      "Боос Георгий Валентинович": 1029,
-      "Голицына Виленина Анатольевна": 33,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 76,
-      "Новодворская Валерия Ильинична": 76,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000394547": 98,
+      "gas:candidate-vibid:1001000226008": 1029,
+      "gas:candidate-vibid:1001000289817": 33,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 76,
+      "gas:candidate-vibid:377300670522": 76,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 102,
-      "Боос Георгий Валентинович": 759,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 6,
-      "Миронов Александр Сергеевич": 79,
-      "Новодворская Валерия Ильинична": 93,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000394547": 102,
+      "gas:candidate-vibid:1001000226008": 759,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 6,
+      "gas:candidate-vibid:1001000126653": 79,
+      "gas:candidate-vibid:377300670522": 93,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 151,
-      "Боос Георгий Валентинович": 1008,
-      "Голицына Виленина Анатольевна": 36,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 79,
-      "Новодворская Валерия Ильинична": 84,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000394547": 151,
+      "gas:candidate-vibid:1001000226008": 1008,
+      "gas:candidate-vibid:1001000289817": 36,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 79,
+      "gas:candidate-vibid:377300670522": 84,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 124,
-      "Боос Георгий Валентинович": 864,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 53,
-      "Новодворская Валерия Ильинична": 67,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000394547": 124,
+      "gas:candidate-vibid:1001000226008": 864,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 53,
+      "gas:candidate-vibid:377300670522": 67,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 108,
-      "Боос Георгий Валентинович": 966,
-      "Голицына Виленина Анатольевна": 30,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 69,
-      "Новодворская Валерия Ильинична": 58,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000394547": 108,
+      "gas:candidate-vibid:1001000226008": 966,
+      "gas:candidate-vibid:1001000289817": 30,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 69,
+      "gas:candidate-vibid:377300670522": 58,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 135,
-      "Боос Георгий Валентинович": 614,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 89,
-      "Новодворская Валерия Ильинична": 85,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000394547": 135,
+      "gas:candidate-vibid:1001000226008": 614,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 89,
+      "gas:candidate-vibid:377300670522": 85,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 168,
-      "Боос Георгий Валентинович": 1004,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 13,
-      "Миронов Александр Сергеевич": 117,
-      "Новодворская Валерия Ильинична": 99,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000394547": 168,
+      "gas:candidate-vibid:1001000226008": 1004,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 13,
+      "gas:candidate-vibid:1001000126653": 117,
+      "gas:candidate-vibid:377300670522": 99,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 146,
-      "Боос Георгий Валентинович": 833,
-      "Голицына Виленина Анатольевна": 19,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 85,
-      "Новодворская Валерия Ильинична": 100,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000394547": 146,
+      "gas:candidate-vibid:1001000226008": 833,
+      "gas:candidate-vibid:1001000289817": 19,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 85,
+      "gas:candidate-vibid:377300670522": 100,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 145,
-      "Боос Георгий Валентинович": 690,
-      "Голицына Виленина Анатольевна": 24,
-      "Киптик Михаил Иванович": 3,
-      "Миронов Александр Сергеевич": 88,
-      "Новодворская Валерия Ильинична": 118,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000394547": 145,
+      "gas:candidate-vibid:1001000226008": 690,
+      "gas:candidate-vibid:1001000289817": 24,
+      "gas:candidate-vibid:377300670739": 3,
+      "gas:candidate-vibid:1001000126653": 88,
+      "gas:candidate-vibid:377300670522": 118,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 87,
-      "Боос Георгий Валентинович": 500,
-      "Голицына Виленина Анатольевна": 13,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 61,
-      "Новодворская Валерия Ильинична": 54,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000394547": 87,
+      "gas:candidate-vibid:1001000226008": 500,
+      "gas:candidate-vibid:1001000289817": 13,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 61,
+      "gas:candidate-vibid:377300670522": 54,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 86,
-      "Боос Георгий Валентинович": 717,
-      "Голицына Виленина Анатольевна": 19,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 60,
-      "Новодворская Валерия Ильинична": 51,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000394547": 86,
+      "gas:candidate-vibid:1001000226008": 717,
+      "gas:candidate-vibid:1001000289817": 19,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 60,
+      "gas:candidate-vibid:377300670522": 51,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 115,
-      "Боос Георгий Валентинович": 988,
-      "Голицына Виленина Анатольевна": 39,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 74,
-      "Новодворская Валерия Ильинична": 83,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000394547": 115,
+      "gas:candidate-vibid:1001000226008": 988,
+      "gas:candidate-vibid:1001000289817": 39,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 74,
+      "gas:candidate-vibid:377300670522": 83,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 115,
-      "Боос Георгий Валентинович": 859,
-      "Голицына Виленина Анатольевна": 37,
-      "Киптик Михаил Иванович": 5,
-      "Миронов Александр Сергеевич": 103,
-      "Новодворская Валерия Ильинична": 77,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000394547": 115,
+      "gas:candidate-vibid:1001000226008": 859,
+      "gas:candidate-vibid:1001000289817": 37,
+      "gas:candidate-vibid:377300670739": 5,
+      "gas:candidate-vibid:1001000126653": 103,
+      "gas:candidate-vibid:377300670522": 77,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 71,
-      "Боос Георгий Валентинович": 952,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 1,
-      "Миронов Александр Сергеевич": 95,
-      "Новодворская Валерия Ильинична": 55,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000394547": 71,
+      "gas:candidate-vibid:1001000226008": 952,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 1,
+      "gas:candidate-vibid:1001000126653": 95,
+      "gas:candidate-vibid:377300670522": 55,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 137,
-      "Боос Георгий Валентинович": 1058,
-      "Голицына Виленина Анатольевна": 22,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 87,
-      "Новодворская Валерия Ильинична": 94,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000394547": 137,
+      "gas:candidate-vibid:1001000226008": 1058,
+      "gas:candidate-vibid:1001000289817": 22,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 87,
+      "gas:candidate-vibid:377300670522": 94,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 146,
-      "Боос Георгий Валентинович": 828,
-      "Голицына Виленина Анатольевна": 29,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 80,
-      "Новодворская Валерия Ильинична": 85,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000394547": 146,
+      "gas:candidate-vibid:1001000226008": 828,
+      "gas:candidate-vibid:1001000289817": 29,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 80,
+      "gas:candidate-vibid:377300670522": 85,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 149,
-      "Боос Георгий Валентинович": 782,
-      "Голицына Виленина Анатольевна": 15,
-      "Киптик Михаил Иванович": 7,
-      "Миронов Александр Сергеевич": 147,
-      "Новодворская Валерия Ильинична": 64,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000394547": 149,
+      "gas:candidate-vibid:1001000226008": 782,
+      "gas:candidate-vibid:1001000289817": 15,
+      "gas:candidate-vibid:377300670739": 7,
+      "gas:candidate-vibid:1001000126653": 147,
+      "gas:candidate-vibid:377300670522": 64,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 130,
-      "Боос Георгий Валентинович": 938,
-      "Голицына Виленина Анатольевна": 27,
-      "Киптик Михаил Иванович": 2,
-      "Миронов Александр Сергеевич": 109,
-      "Новодворская Валерия Ильинична": 80,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000394547": 130,
+      "gas:candidate-vibid:1001000226008": 938,
+      "gas:candidate-vibid:1001000289817": 27,
+      "gas:candidate-vibid:377300670739": 2,
+      "gas:candidate-vibid:1001000126653": 109,
+      "gas:candidate-vibid:377300670522": 80,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 155,
-      "Боос Георгий Валентинович": 756,
-      "Голицына Виленина Анатольевна": 32,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 104,
-      "Новодворская Валерия Ильинична": 84,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000394547": 155,
+      "gas:candidate-vibid:1001000226008": 756,
+      "gas:candidate-vibid:1001000289817": 32,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 104,
+      "gas:candidate-vibid:377300670522": 84,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 135,
-      "Боос Георгий Валентинович": 918,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 8,
-      "Миронов Александр Сергеевич": 71,
-      "Новодворская Валерия Ильинична": 82,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000394547": 135,
+      "gas:candidate-vibid:1001000226008": 918,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 8,
+      "gas:candidate-vibid:1001000126653": 71,
+      "gas:candidate-vibid:377300670522": 82,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 155,
-      "Боос Георгий Валентинович": 812,
-      "Голицына Виленина Анатольевна": 21,
-      "Киптик Михаил Иванович": 10,
-      "Миронов Александр Сергеевич": 96,
-      "Новодворская Валерия Ильинична": 75,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000394547": 155,
+      "gas:candidate-vibid:1001000226008": 812,
+      "gas:candidate-vibid:1001000289817": 21,
+      "gas:candidate-vibid:377300670739": 10,
+      "gas:candidate-vibid:1001000126653": 96,
+      "gas:candidate-vibid:377300670522": 75,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабушкин Андрей Владимирович": 159,
-      "Боос Георгий Валентинович": 721,
-      "Голицына Виленина Анатольевна": 23,
-      "Киптик Михаил Иванович": 4,
-      "Миронов Александр Сергеевич": 105,
-      "Новодворская Валерия Ильинична": 139,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000394547": 159,
+      "gas:candidate-vibid:1001000226008": 721,
+      "gas:candidate-vibid:1001000289817": 23,
+      "gas:candidate-vibid:377300670739": 4,
+      "gas:candidate-vibid:1001000126653": 105,
+      "gas:candidate-vibid:377300670522": 139,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773006008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300671163&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 64,
-      "Затулин Константин Федорович": 676,
-      "Николаев Андрей Иванович": 146,
-      "Николаев Николай Николаевич": 30,
-      "Смирнова Марина Николаевна": 18,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000202344": 64,
+      "gas:candidate-vibid:1001000226009": 676,
+      "gas:candidate-vibid:1001000131424": 146,
+      "gas:candidate-vibid:377300770828": 30,
+      "gas:candidate-vibid:1001000136151": 18,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 79,
-      "Затулин Константин Федорович": 785,
-      "Николаев Андрей Иванович": 221,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 39,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000202344": 79,
+      "gas:candidate-vibid:1001000226009": 785,
+      "gas:candidate-vibid:1001000131424": 221,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 39,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 77,
-      "Затулин Константин Федорович": 574,
-      "Николаев Андрей Иванович": 190,
-      "Николаев Николай Николаевич": 29,
-      "Смирнова Марина Николаевна": 28,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000202344": 77,
+      "gas:candidate-vibid:1001000226009": 574,
+      "gas:candidate-vibid:1001000131424": 190,
+      "gas:candidate-vibid:377300770828": 29,
+      "gas:candidate-vibid:1001000136151": 28,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 60,
-      "Затулин Константин Федорович": 490,
-      "Николаев Андрей Иванович": 157,
-      "Николаев Николай Николаевич": 25,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000202344": 60,
+      "gas:candidate-vibid:1001000226009": 490,
+      "gas:candidate-vibid:1001000131424": 157,
+      "gas:candidate-vibid:377300770828": 25,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 47,
-      "Затулин Константин Федорович": 562,
-      "Николаев Андрей Иванович": 230,
-      "Николаев Николай Николаевич": 37,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000202344": 47,
+      "gas:candidate-vibid:1001000226009": 562,
+      "gas:candidate-vibid:1001000131424": 230,
+      "gas:candidate-vibid:377300770828": 37,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 92,
-      "Затулин Константин Федорович": 509,
-      "Николаев Андрей Иванович": 151,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 26,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000202344": 92,
+      "gas:candidate-vibid:1001000226009": 509,
+      "gas:candidate-vibid:1001000131424": 151,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 26,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 54,
-      "Затулин Константин Федорович": 529,
-      "Николаев Андрей Иванович": 174,
-      "Николаев Николай Николаевич": 36,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 4,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000202344": 54,
+      "gas:candidate-vibid:1001000226009": 529,
+      "gas:candidate-vibid:1001000131424": 174,
+      "gas:candidate-vibid:377300770828": 36,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 4,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 79,
-      "Затулин Константин Федорович": 672,
-      "Николаев Андрей Иванович": 252,
-      "Николаев Николай Николаевич": 31,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000202344": 79,
+      "gas:candidate-vibid:1001000226009": 672,
+      "gas:candidate-vibid:1001000131424": 252,
+      "gas:candidate-vibid:377300770828": 31,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 592,
-      "Николаев Андрей Иванович": 260,
-      "Николаев Николай Николаевич": 36,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 592,
+      "gas:candidate-vibid:1001000131424": 260,
+      "gas:candidate-vibid:377300770828": 36,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 90,
-      "Затулин Константин Федорович": 498,
-      "Николаев Андрей Иванович": 218,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 33,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000202344": 90,
+      "gas:candidate-vibid:1001000226009": 498,
+      "gas:candidate-vibid:1001000131424": 218,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 33,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 46,
-      "Затулин Константин Федорович": 428,
-      "Николаев Андрей Иванович": 95,
-      "Николаев Николай Николаевич": 18,
-      "Смирнова Марина Николаевна": 14,
-      "Сухманский Вадим Сергеевич": 1,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000202344": 46,
+      "gas:candidate-vibid:1001000226009": 428,
+      "gas:candidate-vibid:1001000131424": 95,
+      "gas:candidate-vibid:377300770828": 18,
+      "gas:candidate-vibid:1001000136151": 14,
+      "gas:candidate-vibid:377300770553": 1,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 60,
-      "Затулин Константин Федорович": 360,
-      "Николаев Андрей Иванович": 159,
-      "Николаев Николай Николаевич": 29,
-      "Смирнова Марина Николаевна": 13,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000202344": 60,
+      "gas:candidate-vibid:1001000226009": 360,
+      "gas:candidate-vibid:1001000131424": 159,
+      "gas:candidate-vibid:377300770828": 29,
+      "gas:candidate-vibid:1001000136151": 13,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 61,
-      "Затулин Константин Федорович": 441,
-      "Николаев Андрей Иванович": 178,
-      "Николаев Николай Николаевич": 33,
-      "Смирнова Марина Николаевна": 28,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000202344": 61,
+      "gas:candidate-vibid:1001000226009": 441,
+      "gas:candidate-vibid:1001000131424": 178,
+      "gas:candidate-vibid:377300770828": 33,
+      "gas:candidate-vibid:1001000136151": 28,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 664,
-      "Николаев Андрей Иванович": 196,
-      "Николаев Николай Николаевич": 34,
-      "Смирнова Марина Николаевна": 39,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 664,
+      "gas:candidate-vibid:1001000131424": 196,
+      "gas:candidate-vibid:377300770828": 34,
+      "gas:candidate-vibid:1001000136151": 39,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 101,
-      "Затулин Константин Федорович": 646,
-      "Николаев Андрей Иванович": 306,
-      "Николаев Николай Николаевич": 50,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000202344": 101,
+      "gas:candidate-vibid:1001000226009": 646,
+      "gas:candidate-vibid:1001000131424": 306,
+      "gas:candidate-vibid:377300770828": 50,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 84,
-      "Затулин Константин Федорович": 449,
-      "Николаев Андрей Иванович": 200,
-      "Николаев Николай Николаевич": 35,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000202344": 84,
+      "gas:candidate-vibid:1001000226009": 449,
+      "gas:candidate-vibid:1001000131424": 200,
+      "gas:candidate-vibid:377300770828": 35,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 54,
-      "Затулин Константин Федорович": 514,
-      "Николаев Андрей Иванович": 81,
-      "Николаев Николай Николаевич": 22,
-      "Смирнова Марина Николаевна": 18,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000202344": 54,
+      "gas:candidate-vibid:1001000226009": 514,
+      "gas:candidate-vibid:1001000131424": 81,
+      "gas:candidate-vibid:377300770828": 22,
+      "gas:candidate-vibid:1001000136151": 18,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 87,
-      "Затулин Константин Федорович": 512,
-      "Николаев Андрей Иванович": 193,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 3,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000202344": 87,
+      "gas:candidate-vibid:1001000226009": 512,
+      "gas:candidate-vibid:1001000131424": 193,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 3,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 650,
-      "Николаев Андрей Иванович": 254,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 42,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 650,
+      "gas:candidate-vibid:1001000131424": 254,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 42,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 72,
-      "Затулин Константин Федорович": 480,
-      "Николаев Андрей Иванович": 209,
-      "Николаев Николай Николаевич": 39,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000202344": 72,
+      "gas:candidate-vibid:1001000226009": 480,
+      "gas:candidate-vibid:1001000131424": 209,
+      "gas:candidate-vibid:377300770828": 39,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 41,
-      "Затулин Константин Федорович": 179,
-      "Николаев Андрей Иванович": 92,
-      "Николаев Николай Николаевич": 20,
-      "Смирнова Марина Николаевна": 12,
-      "Сухманский Вадим Сергеевич": 3,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000202344": 41,
+      "gas:candidate-vibid:1001000226009": 179,
+      "gas:candidate-vibid:1001000131424": 92,
+      "gas:candidate-vibid:377300770828": 20,
+      "gas:candidate-vibid:1001000136151": 12,
+      "gas:candidate-vibid:377300770553": 3,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 77,
-      "Затулин Константин Федорович": 591,
-      "Николаев Андрей Иванович": 221,
-      "Николаев Николай Николаевич": 61,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000202344": 77,
+      "gas:candidate-vibid:1001000226009": 591,
+      "gas:candidate-vibid:1001000131424": 221,
+      "gas:candidate-vibid:377300770828": 61,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 78,
-      "Затулин Константин Федорович": 738,
-      "Николаев Андрей Иванович": 375,
-      "Николаев Николай Николаевич": 65,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000202344": 78,
+      "gas:candidate-vibid:1001000226009": 738,
+      "gas:candidate-vibid:1001000131424": 375,
+      "gas:candidate-vibid:377300770828": 65,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 81,
-      "Затулин Константин Федорович": 541,
-      "Николаев Андрей Иванович": 188,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000202344": 81,
+      "gas:candidate-vibid:1001000226009": 541,
+      "gas:candidate-vibid:1001000131424": 188,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 88,
-      "Затулин Константин Федорович": 541,
-      "Николаев Андрей Иванович": 268,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000202344": 88,
+      "gas:candidate-vibid:1001000226009": 541,
+      "gas:candidate-vibid:1001000131424": 268,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 86,
-      "Затулин Константин Федорович": 445,
-      "Николаев Андрей Иванович": 277,
-      "Николаев Николай Николаевич": 33,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000202344": 86,
+      "gas:candidate-vibid:1001000226009": 445,
+      "gas:candidate-vibid:1001000131424": 277,
+      "gas:candidate-vibid:377300770828": 33,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 57,
-      "Затулин Константин Федорович": 492,
-      "Николаев Андрей Иванович": 136,
-      "Николаев Николай Николаевич": 34,
-      "Смирнова Марина Николаевна": 20,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000202344": 57,
+      "gas:candidate-vibid:1001000226009": 492,
+      "gas:candidate-vibid:1001000131424": 136,
+      "gas:candidate-vibid:377300770828": 34,
+      "gas:candidate-vibid:1001000136151": 20,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 61,
-      "Затулин Константин Федорович": 423,
-      "Николаев Андрей Иванович": 116,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000202344": 61,
+      "gas:candidate-vibid:1001000226009": 423,
+      "gas:candidate-vibid:1001000131424": 116,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 66,
-      "Затулин Константин Федорович": 529,
-      "Николаев Андрей Иванович": 147,
-      "Николаев Николай Николаевич": 58,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000202344": 66,
+      "gas:candidate-vibid:1001000226009": 529,
+      "gas:candidate-vibid:1001000131424": 147,
+      "gas:candidate-vibid:377300770828": 58,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 724,
-      "Николаев Андрей Иванович": 241,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 724,
+      "gas:candidate-vibid:1001000131424": 241,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 67,
-      "Затулин Константин Федорович": 384,
-      "Николаев Андрей Иванович": 196,
-      "Николаев Николай Николаевич": 30,
-      "Смирнова Марина Николаевна": 22,
-      "Сухманский Вадим Сергеевич": 2,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000202344": 67,
+      "gas:candidate-vibid:1001000226009": 384,
+      "gas:candidate-vibid:1001000131424": 196,
+      "gas:candidate-vibid:377300770828": 30,
+      "gas:candidate-vibid:1001000136151": 22,
+      "gas:candidate-vibid:377300770553": 2,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 56,
-      "Затулин Константин Федорович": 648,
-      "Николаев Андрей Иванович": 204,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 17,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000202344": 56,
+      "gas:candidate-vibid:1001000226009": 648,
+      "gas:candidate-vibid:1001000131424": 204,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 17,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 60,
-      "Затулин Константин Федорович": 460,
-      "Николаев Андрей Иванович": 180,
-      "Николаев Николай Николаевич": 32,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 3,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000202344": 60,
+      "gas:candidate-vibid:1001000226009": 460,
+      "gas:candidate-vibid:1001000131424": 180,
+      "gas:candidate-vibid:377300770828": 32,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 3,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 90,
-      "Затулин Константин Федорович": 597,
-      "Николаев Андрей Иванович": 335,
-      "Николаев Николай Николаевич": 54,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 365
+      "gas:candidate-vibid:1001000202344": 90,
+      "gas:candidate-vibid:1001000226009": 597,
+      "gas:candidate-vibid:1001000131424": 335,
+      "gas:candidate-vibid:377300770828": 54,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 79,
-      "Затулин Константин Федорович": 562,
-      "Николаев Андрей Иванович": 265,
-      "Николаев Николай Николаевич": 13,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000202344": 79,
+      "gas:candidate-vibid:1001000226009": 562,
+      "gas:candidate-vibid:1001000131424": 265,
+      "gas:candidate-vibid:377300770828": 13,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 88,
-      "Затулин Константин Федорович": 660,
-      "Николаев Андрей Иванович": 251,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 42,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000202344": 88,
+      "gas:candidate-vibid:1001000226009": 660,
+      "gas:candidate-vibid:1001000131424": 251,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 42,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 34,
-      "Затулин Константин Федорович": 268,
-      "Николаев Андрей Иванович": 184,
-      "Николаев Николай Николаевич": 30,
-      "Смирнова Марина Николаевна": 16,
-      "Сухманский Вадим Сергеевич": 2,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000202344": 34,
+      "gas:candidate-vibid:1001000226009": 268,
+      "gas:candidate-vibid:1001000131424": 184,
+      "gas:candidate-vibid:377300770828": 30,
+      "gas:candidate-vibid:1001000136151": 16,
+      "gas:candidate-vibid:377300770553": 2,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 66,
-      "Затулин Константин Федорович": 739,
-      "Николаев Андрей Иванович": 206,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 43,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000202344": 66,
+      "gas:candidate-vibid:1001000226009": 739,
+      "gas:candidate-vibid:1001000131424": 206,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 43,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770597&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 56,
-      "Затулин Константин Федорович": 673,
-      "Николаев Андрей Иванович": 177,
-      "Николаев Николай Николаевич": 18,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000202344": 56,
+      "gas:candidate-vibid:1001000226009": 673,
+      "gas:candidate-vibid:1001000131424": 177,
+      "gas:candidate-vibid:377300770828": 18,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 66,
-      "Затулин Константин Федорович": 673,
-      "Николаев Андрей Иванович": 213,
-      "Николаев Николай Николаевич": 26,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000202344": 66,
+      "gas:candidate-vibid:1001000226009": 673,
+      "gas:candidate-vibid:1001000131424": 213,
+      "gas:candidate-vibid:377300770828": 26,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 85,
-      "Затулин Константин Федорович": 720,
-      "Николаев Андрей Иванович": 319,
-      "Николаев Николай Николаевич": 32,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 4,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000202344": 85,
+      "gas:candidate-vibid:1001000226009": 720,
+      "gas:candidate-vibid:1001000131424": 319,
+      "gas:candidate-vibid:377300770828": 32,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 4,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 52,
-      "Затулин Константин Федорович": 627,
-      "Николаев Андрей Иванович": 188,
-      "Николаев Николай Николаевич": 20,
-      "Смирнова Марина Николаевна": 21,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000202344": 52,
+      "gas:candidate-vibid:1001000226009": 627,
+      "gas:candidate-vibid:1001000131424": 188,
+      "gas:candidate-vibid:377300770828": 20,
+      "gas:candidate-vibid:1001000136151": 21,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 737,
-      "Николаев Андрей Иванович": 188,
-      "Николаев Николай Николаевич": 39,
-      "Смирнова Марина Николаевна": 46,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 737,
+      "gas:candidate-vibid:1001000131424": 188,
+      "gas:candidate-vibid:377300770828": 39,
+      "gas:candidate-vibid:1001000136151": 46,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 77,
-      "Затулин Константин Федорович": 665,
-      "Николаев Андрей Иванович": 194,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000202344": 77,
+      "gas:candidate-vibid:1001000226009": 665,
+      "gas:candidate-vibid:1001000131424": 194,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 74,
-      "Затулин Константин Федорович": 465,
-      "Николаев Андрей Иванович": 305,
-      "Николаев Николай Николаевич": 56,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000202344": 74,
+      "gas:candidate-vibid:1001000226009": 465,
+      "gas:candidate-vibid:1001000131424": 305,
+      "gas:candidate-vibid:377300770828": 56,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 63,
-      "Затулин Константин Федорович": 625,
-      "Николаев Андрей Иванович": 139,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000202344": 63,
+      "gas:candidate-vibid:1001000226009": 625,
+      "gas:candidate-vibid:1001000131424": 139,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 89,
-      "Затулин Константин Федорович": 682,
-      "Николаев Андрей Иванович": 177,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000202344": 89,
+      "gas:candidate-vibid:1001000226009": 682,
+      "gas:candidate-vibid:1001000131424": 177,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 61,
-      "Затулин Константин Федорович": 714,
-      "Николаев Андрей Иванович": 176,
-      "Николаев Николай Николаевич": 30,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000202344": 61,
+      "gas:candidate-vibid:1001000226009": 714,
+      "gas:candidate-vibid:1001000131424": 176,
+      "gas:candidate-vibid:377300770828": 30,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 64,
-      "Затулин Константин Федорович": 555,
-      "Николаев Андрей Иванович": 121,
-      "Николаев Николай Николаевич": 28,
-      "Смирнова Марина Николаевна": 24,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000202344": 64,
+      "gas:candidate-vibid:1001000226009": 555,
+      "gas:candidate-vibid:1001000131424": 121,
+      "gas:candidate-vibid:377300770828": 28,
+      "gas:candidate-vibid:1001000136151": 24,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 69,
-      "Затулин Константин Федорович": 605,
-      "Николаев Андрей Иванович": 182,
-      "Николаев Николай Николаевич": 38,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000202344": 69,
+      "gas:candidate-vibid:1001000226009": 605,
+      "gas:candidate-vibid:1001000131424": 182,
+      "gas:candidate-vibid:377300770828": 38,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 76,
-      "Затулин Константин Федорович": 611,
-      "Николаев Андрей Иванович": 175,
-      "Николаев Николай Николаевич": 24,
-      "Смирнова Марина Николаевна": 34,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000202344": 76,
+      "gas:candidate-vibid:1001000226009": 611,
+      "gas:candidate-vibid:1001000131424": 175,
+      "gas:candidate-vibid:377300770828": 24,
+      "gas:candidate-vibid:1001000136151": 34,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 70,
-      "Затулин Константин Федорович": 701,
-      "Николаев Андрей Иванович": 166,
-      "Николаев Николай Николаевич": 23,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000202344": 70,
+      "gas:candidate-vibid:1001000226009": 701,
+      "gas:candidate-vibid:1001000131424": 166,
+      "gas:candidate-vibid:377300770828": 23,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 59,
-      "Затулин Константин Федорович": 899,
-      "Николаев Андрей Иванович": 260,
-      "Николаев Николай Николаевич": 49,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000202344": 59,
+      "gas:candidate-vibid:1001000226009": 899,
+      "gas:candidate-vibid:1001000131424": 260,
+      "gas:candidate-vibid:377300770828": 49,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 52,
-      "Затулин Константин Федорович": 776,
-      "Николаев Андрей Иванович": 222,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000202344": 52,
+      "gas:candidate-vibid:1001000226009": 776,
+      "gas:candidate-vibid:1001000131424": 222,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 78,
-      "Затулин Константин Федорович": 577,
-      "Николаев Андрей Иванович": 254,
-      "Николаев Николай Николаевич": 38,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000202344": 78,
+      "gas:candidate-vibid:1001000226009": 577,
+      "gas:candidate-vibid:1001000131424": 254,
+      "gas:candidate-vibid:377300770828": 38,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 36,
-      "Затулин Константин Федорович": 494,
-      "Николаев Андрей Иванович": 190,
-      "Николаев Николай Николаевич": 24,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 4,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000202344": 36,
+      "gas:candidate-vibid:1001000226009": 494,
+      "gas:candidate-vibid:1001000131424": 190,
+      "gas:candidate-vibid:377300770828": 24,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 4,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 85,
-      "Затулин Константин Федорович": 452,
-      "Николаев Андрей Иванович": 158,
-      "Николаев Николай Николаевич": 36,
-      "Смирнова Марина Николаевна": 21,
-      "Сухманский Вадим Сергеевич": 3,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000202344": 85,
+      "gas:candidate-vibid:1001000226009": 452,
+      "gas:candidate-vibid:1001000131424": 158,
+      "gas:candidate-vibid:377300770828": 36,
+      "gas:candidate-vibid:1001000136151": 21,
+      "gas:candidate-vibid:377300770553": 3,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 79,
-      "Затулин Константин Федорович": 689,
-      "Николаев Андрей Иванович": 200,
-      "Николаев Николай Николаевич": 35,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000202344": 79,
+      "gas:candidate-vibid:1001000226009": 689,
+      "gas:candidate-vibid:1001000131424": 200,
+      "gas:candidate-vibid:377300770828": 35,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 85,
-      "Затулин Константин Федорович": 748,
-      "Николаев Андрей Иванович": 203,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000202344": 85,
+      "gas:candidate-vibid:1001000226009": 748,
+      "gas:candidate-vibid:1001000131424": 203,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 64,
-      "Затулин Константин Федорович": 726,
-      "Николаев Андрей Иванович": 251,
-      "Николаев Николай Николаевич": 42,
-      "Смирнова Марина Николаевна": 21,
-      "Сухманский Вадим Сергеевич": 4,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000202344": 64,
+      "gas:candidate-vibid:1001000226009": 726,
+      "gas:candidate-vibid:1001000131424": 251,
+      "gas:candidate-vibid:377300770828": 42,
+      "gas:candidate-vibid:1001000136151": 21,
+      "gas:candidate-vibid:377300770553": 4,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 58,
-      "Затулин Константин Федорович": 667,
-      "Николаев Андрей Иванович": 260,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000202344": 58,
+      "gas:candidate-vibid:1001000226009": 667,
+      "gas:candidate-vibid:1001000131424": 260,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 51,
-      "Затулин Константин Федорович": 695,
-      "Николаев Андрей Иванович": 248,
-      "Николаев Николай Николаевич": 34,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000202344": 51,
+      "gas:candidate-vibid:1001000226009": 695,
+      "gas:candidate-vibid:1001000131424": 248,
+      "gas:candidate-vibid:377300770828": 34,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 62,
-      "Затулин Константин Федорович": 767,
-      "Николаев Андрей Иванович": 183,
-      "Николаев Николай Николаевич": 42,
-      "Смирнова Марина Николаевна": 28,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000202344": 62,
+      "gas:candidate-vibid:1001000226009": 767,
+      "gas:candidate-vibid:1001000131424": 183,
+      "gas:candidate-vibid:377300770828": 42,
+      "gas:candidate-vibid:1001000136151": 28,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 37,
-      "Затулин Константин Федорович": 450,
-      "Николаев Андрей Иванович": 123,
-      "Николаев Николай Николаевич": 11,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 4,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000202344": 37,
+      "gas:candidate-vibid:1001000226009": 450,
+      "gas:candidate-vibid:1001000131424": 123,
+      "gas:candidate-vibid:377300770828": 11,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 4,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770598&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 1,
-      "Затулин Константин Федорович": 584,
-      "Николаев Андрей Иванович": 304,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000202344": 1,
+      "gas:candidate-vibid:1001000226009": 584,
+      "gas:candidate-vibid:1001000131424": 304,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 82,
-      "Затулин Константин Федорович": 620,
-      "Николаев Андрей Иванович": 206,
-      "Николаев Николай Николаевич": 33,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000202344": 82,
+      "gas:candidate-vibid:1001000226009": 620,
+      "gas:candidate-vibid:1001000131424": 206,
+      "gas:candidate-vibid:377300770828": 33,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 49,
-      "Затулин Константин Федорович": 475,
-      "Николаев Андрей Иванович": 147,
-      "Николаев Николай Николаевич": 24,
-      "Смирнова Марина Николаевна": 22,
-      "Сухманский Вадим Сергеевич": 4,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000202344": 49,
+      "gas:candidate-vibid:1001000226009": 475,
+      "gas:candidate-vibid:1001000131424": 147,
+      "gas:candidate-vibid:377300770828": 24,
+      "gas:candidate-vibid:1001000136151": 22,
+      "gas:candidate-vibid:377300770553": 4,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 93,
-      "Затулин Константин Федорович": 625,
-      "Николаев Андрей Иванович": 397,
-      "Николаев Николай Николаевич": 49,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000202344": 93,
+      "gas:candidate-vibid:1001000226009": 625,
+      "gas:candidate-vibid:1001000131424": 397,
+      "gas:candidate-vibid:377300770828": 49,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 61,
-      "Затулин Константин Федорович": 613,
-      "Николаев Андрей Иванович": 236,
-      "Николаев Николай Николаевич": 57,
-      "Смирнова Марина Николаевна": 15,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000202344": 61,
+      "gas:candidate-vibid:1001000226009": 613,
+      "gas:candidate-vibid:1001000131424": 236,
+      "gas:candidate-vibid:377300770828": 57,
+      "gas:candidate-vibid:1001000136151": 15,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 63,
-      "Затулин Константин Федорович": 636,
-      "Николаев Андрей Иванович": 251,
-      "Николаев Николай Николаевич": 35,
-      "Смирнова Марина Николаевна": 24,
-      "Сухманский Вадим Сергеевич": 15,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000202344": 63,
+      "gas:candidate-vibid:1001000226009": 636,
+      "gas:candidate-vibid:1001000131424": 251,
+      "gas:candidate-vibid:377300770828": 35,
+      "gas:candidate-vibid:1001000136151": 24,
+      "gas:candidate-vibid:377300770553": 15,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 37,
-      "Затулин Константин Федорович": 689,
-      "Николаев Андрей Иванович": 230,
-      "Николаев Николай Николаевич": 37,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000202344": 37,
+      "gas:candidate-vibid:1001000226009": 689,
+      "gas:candidate-vibid:1001000131424": 230,
+      "gas:candidate-vibid:377300770828": 37,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 79,
-      "Затулин Константин Федорович": 609,
-      "Николаев Андрей Иванович": 279,
-      "Николаев Николай Николаевич": 30,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000202344": 79,
+      "gas:candidate-vibid:1001000226009": 609,
+      "gas:candidate-vibid:1001000131424": 279,
+      "gas:candidate-vibid:377300770828": 30,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 67,
-      "Затулин Константин Федорович": 743,
-      "Николаев Андрей Иванович": 289,
-      "Николаев Николай Николаевич": 33,
-      "Смирнова Марина Николаевна": 34,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000202344": 67,
+      "gas:candidate-vibid:1001000226009": 743,
+      "gas:candidate-vibid:1001000131424": 289,
+      "gas:candidate-vibid:377300770828": 33,
+      "gas:candidate-vibid:1001000136151": 34,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 60,
-      "Затулин Константин Федорович": 581,
-      "Николаев Андрей Иванович": 285,
-      "Николаев Николай Николаевич": 49,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000202344": 60,
+      "gas:candidate-vibid:1001000226009": 581,
+      "gas:candidate-vibid:1001000131424": 285,
+      "gas:candidate-vibid:377300770828": 49,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 58,
-      "Затулин Константин Федорович": 674,
-      "Николаев Андрей Иванович": 344,
-      "Николаев Николай Николаевич": 57,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000202344": 58,
+      "gas:candidate-vibid:1001000226009": 674,
+      "gas:candidate-vibid:1001000131424": 344,
+      "gas:candidate-vibid:377300770828": 57,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 51,
-      "Затулин Константин Федорович": 533,
-      "Николаев Андрей Иванович": 295,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 18,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000202344": 51,
+      "gas:candidate-vibid:1001000226009": 533,
+      "gas:candidate-vibid:1001000131424": 295,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 18,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 65,
-      "Затулин Константин Федорович": 613,
-      "Николаев Андрей Иванович": 197,
-      "Николаев Николай Николаевич": 44,
-      "Смирнова Марина Николаевна": 9,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000202344": 65,
+      "gas:candidate-vibid:1001000226009": 613,
+      "gas:candidate-vibid:1001000131424": 197,
+      "gas:candidate-vibid:377300770828": 44,
+      "gas:candidate-vibid:1001000136151": 9,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 72,
-      "Затулин Константин Федорович": 778,
-      "Николаев Андрей Иванович": 190,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 44,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000202344": 72,
+      "gas:candidate-vibid:1001000226009": 778,
+      "gas:candidate-vibid:1001000131424": 190,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 44,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 91,
-      "Затулин Константин Федорович": 777,
-      "Николаев Андрей Иванович": 238,
-      "Николаев Николай Николаевич": 67,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 369
+      "gas:candidate-vibid:1001000202344": 91,
+      "gas:candidate-vibid:1001000226009": 777,
+      "gas:candidate-vibid:1001000131424": 238,
+      "gas:candidate-vibid:377300770828": 67,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 114,
-      "Затулин Константин Федорович": 742,
-      "Николаев Андрей Иванович": 321,
-      "Николаев Николай Николаевич": 57,
-      "Смирнова Марина Николаевна": 42,
-      "Сухманский Вадим Сергеевич": 22,
-      "Против всех": 388
+      "gas:candidate-vibid:1001000202344": 114,
+      "gas:candidate-vibid:1001000226009": 742,
+      "gas:candidate-vibid:1001000131424": 321,
+      "gas:candidate-vibid:377300770828": 57,
+      "gas:candidate-vibid:1001000136151": 42,
+      "gas:candidate-vibid:377300770553": 22,
+      "special:against-all": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 117,
-      "Затулин Константин Федорович": 776,
-      "Николаев Андрей Иванович": 242,
-      "Николаев Николай Николаевич": 33,
-      "Смирнова Марина Николаевна": 50,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000202344": 117,
+      "gas:candidate-vibid:1001000226009": 776,
+      "gas:candidate-vibid:1001000131424": 242,
+      "gas:candidate-vibid:377300770828": 33,
+      "gas:candidate-vibid:1001000136151": 50,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 71,
-      "Затулин Константин Федорович": 741,
-      "Николаев Андрей Иванович": 188,
-      "Николаев Николай Николаевич": 36,
-      "Смирнова Марина Николаевна": 34,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000202344": 71,
+      "gas:candidate-vibid:1001000226009": 741,
+      "gas:candidate-vibid:1001000131424": 188,
+      "gas:candidate-vibid:377300770828": 36,
+      "gas:candidate-vibid:1001000136151": 34,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 59,
-      "Затулин Константин Федорович": 675,
-      "Николаев Андрей Иванович": 199,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 26,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000202344": 59,
+      "gas:candidate-vibid:1001000226009": 675,
+      "gas:candidate-vibid:1001000131424": 199,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 26,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 75,
-      "Затулин Константин Федорович": 575,
-      "Николаев Андрей Иванович": 273,
-      "Николаев Николай Николаевич": 37,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000202344": 75,
+      "gas:candidate-vibid:1001000226009": 575,
+      "gas:candidate-vibid:1001000131424": 273,
+      "gas:candidate-vibid:377300770828": 37,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 85,
-      "Затулин Константин Федорович": 668,
-      "Николаев Андрей Иванович": 268,
-      "Николаев Николай Николаевич": 39,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000202344": 85,
+      "gas:candidate-vibid:1001000226009": 668,
+      "gas:candidate-vibid:1001000131424": 268,
+      "gas:candidate-vibid:377300770828": 39,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 65,
-      "Затулин Константин Федорович": 768,
-      "Николаев Андрей Иванович": 272,
-      "Николаев Николай Николаевич": 28,
-      "Смирнова Марина Николаевна": 28,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 363
+      "gas:candidate-vibid:1001000202344": 65,
+      "gas:candidate-vibid:1001000226009": 768,
+      "gas:candidate-vibid:1001000131424": 272,
+      "gas:candidate-vibid:377300770828": 28,
+      "gas:candidate-vibid:1001000136151": 28,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 58,
-      "Затулин Константин Федорович": 751,
-      "Николаев Андрей Иванович": 208,
-      "Николаев Николай Николаевич": 56,
-      "Смирнова Марина Николаевна": 45,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000202344": 58,
+      "gas:candidate-vibid:1001000226009": 751,
+      "gas:candidate-vibid:1001000131424": 208,
+      "gas:candidate-vibid:377300770828": 56,
+      "gas:candidate-vibid:1001000136151": 45,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 86,
-      "Затулин Константин Федорович": 648,
-      "Николаев Андрей Иванович": 293,
-      "Николаев Николай Николаевич": 44,
-      "Смирнова Марина Николаевна": 48,
-      "Сухманский Вадим Сергеевич": 23,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000202344": 86,
+      "gas:candidate-vibid:1001000226009": 648,
+      "gas:candidate-vibid:1001000131424": 293,
+      "gas:candidate-vibid:377300770828": 44,
+      "gas:candidate-vibid:1001000136151": 48,
+      "gas:candidate-vibid:377300770553": 23,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 101,
-      "Затулин Константин Федорович": 731,
-      "Николаев Андрей Иванович": 197,
-      "Николаев Николай Николаевич": 36,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000202344": 101,
+      "gas:candidate-vibid:1001000226009": 731,
+      "gas:candidate-vibid:1001000131424": 197,
+      "gas:candidate-vibid:377300770828": 36,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 50,
-      "Затулин Константин Федорович": 578,
-      "Николаев Андрей Иванович": 295,
-      "Николаев Николай Николаевич": 33,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000202344": 50,
+      "gas:candidate-vibid:1001000226009": 578,
+      "gas:candidate-vibid:1001000131424": 295,
+      "gas:candidate-vibid:377300770828": 33,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 96,
-      "Затулин Константин Федорович": 680,
-      "Николаев Андрей Иванович": 324,
-      "Николаев Николай Николаевич": 47,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000202344": 96,
+      "gas:candidate-vibid:1001000226009": 680,
+      "gas:candidate-vibid:1001000131424": 324,
+      "gas:candidate-vibid:377300770828": 47,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 65,
-      "Затулин Константин Федорович": 615,
-      "Николаев Андрей Иванович": 215,
-      "Николаев Николай Николаевич": 44,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000202344": 65,
+      "gas:candidate-vibid:1001000226009": 615,
+      "gas:candidate-vibid:1001000131424": 215,
+      "gas:candidate-vibid:377300770828": 44,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 64,
-      "Затулин Константин Федорович": 757,
-      "Николаев Андрей Иванович": 215,
-      "Николаев Николай Николаевич": 37,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000202344": 64,
+      "gas:candidate-vibid:1001000226009": 757,
+      "gas:candidate-vibid:1001000131424": 215,
+      "gas:candidate-vibid:377300770828": 37,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 64,
-      "Затулин Константин Федорович": 695,
-      "Николаев Андрей Иванович": 226,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000202344": 64,
+      "gas:candidate-vibid:1001000226009": 695,
+      "gas:candidate-vibid:1001000131424": 226,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 66,
-      "Затулин Константин Федорович": 556,
-      "Николаев Андрей Иванович": 223,
-      "Николаев Николай Николаевич": 20,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 3,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000202344": 66,
+      "gas:candidate-vibid:1001000226009": 556,
+      "gas:candidate-vibid:1001000131424": 223,
+      "gas:candidate-vibid:377300770828": 20,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 3,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 4,
-      "Затулин Константин Федорович": 65,
-      "Николаев Андрей Иванович": 34,
-      "Николаев Николай Николаевич": 4,
-      "Смирнова Марина Николаевна": 2,
-      "Сухманский Вадим Сергеевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202344": 4,
+      "gas:candidate-vibid:1001000226009": 65,
+      "gas:candidate-vibid:1001000131424": 34,
+      "gas:candidate-vibid:377300770828": 4,
+      "gas:candidate-vibid:1001000136151": 2,
+      "gas:candidate-vibid:377300770553": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770599&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 99,
-      "Затулин Константин Федорович": 530,
-      "Николаев Андрей Иванович": 261,
-      "Николаев Николай Николаевич": 38,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 18,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000202344": 99,
+      "gas:candidate-vibid:1001000226009": 530,
+      "gas:candidate-vibid:1001000131424": 261,
+      "gas:candidate-vibid:377300770828": 38,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 18,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 126,
-      "Затулин Константин Федорович": 369,
-      "Николаев Андрей Иванович": 157,
-      "Николаев Николай Николаевич": 31,
-      "Смирнова Марина Николаевна": 43,
-      "Сухманский Вадим Сергеевич": 27,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000202344": 126,
+      "gas:candidate-vibid:1001000226009": 369,
+      "gas:candidate-vibid:1001000131424": 157,
+      "gas:candidate-vibid:377300770828": 31,
+      "gas:candidate-vibid:1001000136151": 43,
+      "gas:candidate-vibid:377300770553": 27,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 44,
-      "Затулин Константин Федорович": 525,
-      "Николаев Андрей Иванович": 275,
-      "Николаев Николай Николаевич": 30,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000202344": 44,
+      "gas:candidate-vibid:1001000226009": 525,
+      "gas:candidate-vibid:1001000131424": 275,
+      "gas:candidate-vibid:377300770828": 30,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 98,
-      "Затулин Константин Федорович": 509,
-      "Николаев Андрей Иванович": 329,
-      "Николаев Николай Николаевич": 58,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 24,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000202344": 98,
+      "gas:candidate-vibid:1001000226009": 509,
+      "gas:candidate-vibid:1001000131424": 329,
+      "gas:candidate-vibid:377300770828": 58,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 24,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 70,
-      "Затулин Константин Федорович": 503,
-      "Николаев Андрей Иванович": 253,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 39,
-      "Сухманский Вадим Сергеевич": 17,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000202344": 70,
+      "gas:candidate-vibid:1001000226009": 503,
+      "gas:candidate-vibid:1001000131424": 253,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 39,
+      "gas:candidate-vibid:377300770553": 17,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 113,
-      "Затулин Константин Федорович": 543,
-      "Николаев Андрей Иванович": 246,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000202344": 113,
+      "gas:candidate-vibid:1001000226009": 543,
+      "gas:candidate-vibid:1001000131424": 246,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 107,
-      "Затулин Константин Федорович": 607,
-      "Николаев Андрей Иванович": 367,
-      "Николаев Николай Николаевич": 83,
-      "Смирнова Марина Николаевна": 45,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 423
+      "gas:candidate-vibid:1001000202344": 107,
+      "gas:candidate-vibid:1001000226009": 607,
+      "gas:candidate-vibid:1001000131424": 367,
+      "gas:candidate-vibid:377300770828": 83,
+      "gas:candidate-vibid:1001000136151": 45,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 123,
-      "Затулин Константин Федорович": 518,
-      "Николаев Андрей Иванович": 285,
-      "Николаев Николай Николаевич": 69,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 392
+      "gas:candidate-vibid:1001000202344": 123,
+      "gas:candidate-vibid:1001000226009": 518,
+      "gas:candidate-vibid:1001000131424": 285,
+      "gas:candidate-vibid:377300770828": 69,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 94,
-      "Затулин Константин Федорович": 567,
-      "Николаев Андрей Иванович": 220,
-      "Николаев Николай Николаевич": 55,
-      "Смирнова Марина Николаевна": 28,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000202344": 94,
+      "gas:candidate-vibid:1001000226009": 567,
+      "gas:candidate-vibid:1001000131424": 220,
+      "gas:candidate-vibid:377300770828": 55,
+      "gas:candidate-vibid:1001000136151": 28,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 97,
-      "Затулин Константин Федорович": 460,
-      "Николаев Андрей Иванович": 322,
-      "Николаев Николай Николаевич": 66,
-      "Смирнова Марина Николаевна": 43,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000202344": 97,
+      "gas:candidate-vibid:1001000226009": 460,
+      "gas:candidate-vibid:1001000131424": 322,
+      "gas:candidate-vibid:377300770828": 66,
+      "gas:candidate-vibid:1001000136151": 43,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 98,
-      "Затулин Константин Федорович": 517,
-      "Николаев Андрей Иванович": 243,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 22,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000202344": 98,
+      "gas:candidate-vibid:1001000226009": 517,
+      "gas:candidate-vibid:1001000131424": 243,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 22,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 98,
-      "Затулин Константин Федорович": 551,
-      "Николаев Андрей Иванович": 238,
-      "Николаев Николай Николаевич": 36,
-      "Смирнова Марина Николаевна": 47,
-      "Сухманский Вадим Сергеевич": 23,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000202344": 98,
+      "gas:candidate-vibid:1001000226009": 551,
+      "gas:candidate-vibid:1001000131424": 238,
+      "gas:candidate-vibid:377300770828": 36,
+      "gas:candidate-vibid:1001000136151": 47,
+      "gas:candidate-vibid:377300770553": 23,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 107,
-      "Затулин Константин Федорович": 602,
-      "Николаев Андрей Иванович": 308,
-      "Николаев Николай Николаевич": 45,
-      "Смирнова Марина Николаевна": 24,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000202344": 107,
+      "gas:candidate-vibid:1001000226009": 602,
+      "gas:candidate-vibid:1001000131424": 308,
+      "gas:candidate-vibid:377300770828": 45,
+      "gas:candidate-vibid:1001000136151": 24,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 134,
-      "Затулин Константин Федорович": 694,
-      "Николаев Андрей Иванович": 371,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 53,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 435
+      "gas:candidate-vibid:1001000202344": 134,
+      "gas:candidate-vibid:1001000226009": 694,
+      "gas:candidate-vibid:1001000131424": 371,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 53,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 435
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 149,
-      "Затулин Константин Федорович": 687,
-      "Николаев Андрей Иванович": 307,
-      "Николаев Николай Николаевич": 61,
-      "Смирнова Марина Николаевна": 54,
-      "Сухманский Вадим Сергеевич": 18,
-      "Против всех": 477
+      "gas:candidate-vibid:1001000202344": 149,
+      "gas:candidate-vibid:1001000226009": 687,
+      "gas:candidate-vibid:1001000131424": 307,
+      "gas:candidate-vibid:377300770828": 61,
+      "gas:candidate-vibid:1001000136151": 54,
+      "gas:candidate-vibid:377300770553": 18,
+      "special:against-all": 477
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 109,
-      "Затулин Константин Федорович": 782,
-      "Николаев Андрей Иванович": 226,
-      "Николаев Николай Николаевич": 35,
-      "Смирнова Марина Николаевна": 44,
-      "Сухманский Вадим Сергеевич": 23,
-      "Против всех": 401
+      "gas:candidate-vibid:1001000202344": 109,
+      "gas:candidate-vibid:1001000226009": 782,
+      "gas:candidate-vibid:1001000131424": 226,
+      "gas:candidate-vibid:377300770828": 35,
+      "gas:candidate-vibid:1001000136151": 44,
+      "gas:candidate-vibid:377300770553": 23,
+      "special:against-all": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 83,
-      "Затулин Константин Федорович": 616,
-      "Николаев Андрей Иванович": 350,
-      "Николаев Николай Николаевич": 44,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000202344": 83,
+      "gas:candidate-vibid:1001000226009": 616,
+      "gas:candidate-vibid:1001000131424": 350,
+      "gas:candidate-vibid:377300770828": 44,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 0,
-      "Затулин Константин Федорович": 2,
-      "Николаев Андрей Иванович": 3,
-      "Николаев Николай Николаевич": 0,
-      "Смирнова Марина Николаевна": 0,
-      "Сухманский Вадим Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202344": 0,
+      "gas:candidate-vibid:1001000226009": 2,
+      "gas:candidate-vibid:1001000131424": 3,
+      "gas:candidate-vibid:377300770828": 0,
+      "gas:candidate-vibid:1001000136151": 0,
+      "gas:candidate-vibid:377300770553": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 4,
-      "Затулин Константин Федорович": 15,
-      "Николаев Андрей Иванович": 8,
-      "Николаев Николай Николаевич": 1,
-      "Смирнова Марина Николаевна": 2,
-      "Сухманский Вадим Сергеевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202344": 4,
+      "gas:candidate-vibid:1001000226009": 15,
+      "gas:candidate-vibid:1001000131424": 8,
+      "gas:candidate-vibid:377300770828": 1,
+      "gas:candidate-vibid:1001000136151": 2,
+      "gas:candidate-vibid:377300770553": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 0,
-      "Затулин Константин Федорович": 3,
-      "Николаев Андрей Иванович": 1,
-      "Николаев Николай Николаевич": 1,
-      "Смирнова Марина Николаевна": 0,
-      "Сухманский Вадим Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202344": 0,
+      "gas:candidate-vibid:1001000226009": 3,
+      "gas:candidate-vibid:1001000131424": 1,
+      "gas:candidate-vibid:377300770828": 1,
+      "gas:candidate-vibid:1001000136151": 0,
+      "gas:candidate-vibid:377300770553": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 1,
-      "Затулин Константин Федорович": 2,
-      "Николаев Андрей Иванович": 1,
-      "Николаев Николай Николаевич": 0,
-      "Смирнова Марина Николаевна": 0,
-      "Сухманский Вадим Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202344": 1,
+      "gas:candidate-vibid:1001000226009": 2,
+      "gas:candidate-vibid:1001000131424": 1,
+      "gas:candidate-vibid:377300770828": 0,
+      "gas:candidate-vibid:1001000136151": 0,
+      "gas:candidate-vibid:377300770553": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 0,
-      "Затулин Константин Федорович": 2,
-      "Николаев Андрей Иванович": 2,
-      "Николаев Николай Николаевич": 0,
-      "Смирнова Марина Николаевна": 0,
-      "Сухманский Вадим Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202344": 0,
+      "gas:candidate-vibid:1001000226009": 2,
+      "gas:candidate-vibid:1001000131424": 2,
+      "gas:candidate-vibid:377300770828": 0,
+      "gas:candidate-vibid:1001000136151": 0,
+      "gas:candidate-vibid:377300770553": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770600&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 90,
-      "Затулин Константин Федорович": 664,
-      "Николаев Андрей Иванович": 301,
-      "Николаев Николай Николаевич": 49,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000202344": 90,
+      "gas:candidate-vibid:1001000226009": 664,
+      "gas:candidate-vibid:1001000131424": 301,
+      "gas:candidate-vibid:377300770828": 49,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 111,
-      "Затулин Константин Федорович": 571,
-      "Николаев Андрей Иванович": 326,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 22,
-      "Против всех": 417
+      "gas:candidate-vibid:1001000202344": 111,
+      "gas:candidate-vibid:1001000226009": 571,
+      "gas:candidate-vibid:1001000131424": 326,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 22,
+      "special:against-all": 417
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 108,
-      "Затулин Константин Федорович": 667,
-      "Николаев Андрей Иванович": 299,
-      "Николаев Николай Николаевич": 38,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 20,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000202344": 108,
+      "gas:candidate-vibid:1001000226009": 667,
+      "gas:candidate-vibid:1001000131424": 299,
+      "gas:candidate-vibid:377300770828": 38,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 20,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 69,
-      "Затулин Константин Федорович": 562,
-      "Николаев Андрей Иванович": 182,
-      "Николаев Николай Николаевич": 28,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000202344": 69,
+      "gas:candidate-vibid:1001000226009": 562,
+      "gas:candidate-vibid:1001000131424": 182,
+      "gas:candidate-vibid:377300770828": 28,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 51,
-      "Затулин Константин Федорович": 457,
-      "Николаев Андрей Иванович": 312,
-      "Николаев Николай Николаевич": 39,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000202344": 51,
+      "gas:candidate-vibid:1001000226009": 457,
+      "gas:candidate-vibid:1001000131424": 312,
+      "gas:candidate-vibid:377300770828": 39,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 90,
-      "Затулин Константин Федорович": 472,
-      "Николаев Андрей Иванович": 260,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000202344": 90,
+      "gas:candidate-vibid:1001000226009": 472,
+      "gas:candidate-vibid:1001000131424": 260,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 104,
-      "Затулин Константин Федорович": 556,
-      "Николаев Андрей Иванович": 305,
-      "Николаев Николай Николаевич": 54,
-      "Смирнова Марина Николаевна": 44,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000202344": 104,
+      "gas:candidate-vibid:1001000226009": 556,
+      "gas:candidate-vibid:1001000131424": 305,
+      "gas:candidate-vibid:377300770828": 54,
+      "gas:candidate-vibid:1001000136151": 44,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 82,
-      "Затулин Константин Федорович": 558,
-      "Николаев Андрей Иванович": 309,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 33,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000202344": 82,
+      "gas:candidate-vibid:1001000226009": 558,
+      "gas:candidate-vibid:1001000131424": 309,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 33,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 87,
-      "Затулин Константин Федорович": 612,
-      "Николаев Андрей Иванович": 271,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 50,
-      "Сухманский Вадим Сергеевич": 18,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000202344": 87,
+      "gas:candidate-vibid:1001000226009": 612,
+      "gas:candidate-vibid:1001000131424": 271,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 50,
+      "gas:candidate-vibid:377300770553": 18,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 33
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 91,
-      "Затулин Константин Федорович": 628,
-      "Николаев Андрей Иванович": 236,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000202344": 91,
+      "gas:candidate-vibid:1001000226009": 628,
+      "gas:candidate-vibid:1001000131424": 236,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 96,
-      "Затулин Константин Федорович": 543,
-      "Николаев Андрей Иванович": 298,
-      "Николаев Николай Николаевич": 45,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000202344": 96,
+      "gas:candidate-vibid:1001000226009": 543,
+      "gas:candidate-vibid:1001000131424": 298,
+      "gas:candidate-vibid:377300770828": 45,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_77_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 86,
-      "Затулин Константин Федорович": 581,
-      "Николаев Андрей Иванович": 233,
-      "Николаев Николай Николаевич": 28,
-      "Смирнова Марина Николаевна": 22,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000202344": 86,
+      "gas:candidate-vibid:1001000226009": 581,
+      "gas:candidate-vibid:1001000131424": 233,
+      "gas:candidate-vibid:377300770828": 28,
+      "gas:candidate-vibid:1001000136151": 22,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",

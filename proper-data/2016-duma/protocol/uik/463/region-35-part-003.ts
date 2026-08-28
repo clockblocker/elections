@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 56,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 4,
-      "Тельтевской Александр Дмитриевич": 54,
-      "Шулепов Евгений Борисович": 43
+      "gas:candidate-vibid:2352000916174": 56,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 4,
+      "gas:candidate-vibid:2352000919596": 54,
+      "gas:candidate-vibid:2352000920382": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 122,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 18,
-      "Панько Кирилл Игоревич": 16,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 190,
-      "Шулепов Евгений Борисович": 86
+      "gas:candidate-vibid:2352000916174": 122,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 18,
+      "gas:candidate-vibid:2352000918201": 16,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 190,
+      "gas:candidate-vibid:2352000920382": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 36,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 75,
-      "Шулепов Евгений Борисович": 55
+      "gas:candidate-vibid:2352000916174": 36,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 75,
+      "gas:candidate-vibid:2352000920382": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 39,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 8,
-      "Тельтевской Александр Дмитриевич": 21,
-      "Шулепов Евгений Борисович": 53
+      "gas:candidate-vibid:2352000916174": 39,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 8,
+      "gas:candidate-vibid:2352000919596": 21,
+      "gas:candidate-vibid:2352000920382": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 2,
-      "Тельтевской Александр Дмитриевич": 25,
-      "Шулепов Евгений Борисович": 8
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 2,
+      "gas:candidate-vibid:2352000919596": 25,
+      "gas:candidate-vibid:2352000920382": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 4,
-      "Тельтевской Александр Дмитриевич": 46,
-      "Шулепов Евгений Борисович": 27
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 4,
+      "gas:candidate-vibid:2352000919596": 46,
+      "gas:candidate-vibid:2352000920382": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 12,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 1,
-      "Тельтевской Александр Дмитриевич": 21,
-      "Шулепов Евгений Борисович": 6
+      "gas:candidate-vibid:2352000916174": 12,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 1,
+      "gas:candidate-vibid:2352000919596": 21,
+      "gas:candidate-vibid:2352000920382": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 15,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 0,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 0,
-      "Тельтевской Александр Дмитриевич": 18,
-      "Шулепов Евгений Борисович": 3
+      "gas:candidate-vibid:2352000916174": 15,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 0,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 0,
+      "gas:candidate-vibid:2352000919596": 18,
+      "gas:candidate-vibid:2352000920382": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 79,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 12,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 14,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 26,
-      "Тельтевской Александр Дмитриевич": 162,
-      "Шулепов Евгений Борисович": 113
+      "gas:candidate-vibid:2352000916174": 79,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 12,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 14,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 26,
+      "gas:candidate-vibid:2352000919596": 162,
+      "gas:candidate-vibid:2352000920382": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 96,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 9,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 163,
-      "Шулепов Евгений Борисович": 91
+      "gas:candidate-vibid:2352000916174": 96,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 9,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 163,
+      "gas:candidate-vibid:2352000920382": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 42,
-      "Шулепов Евгений Борисович": 28
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 42,
+      "gas:candidate-vibid:2352000920382": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 0,
-      "Селин Михаил Васильевич": 2,
-      "Тельтевской Александр Дмитриевич": 54,
-      "Шулепов Евгений Борисович": 7
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 0,
+      "gas:candidate-vibid:2352000918267": 2,
+      "gas:candidate-vibid:2352000919596": 54,
+      "gas:candidate-vibid:2352000920382": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 38,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 1,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 76,
-      "Шулепов Евгений Борисович": 63
+      "gas:candidate-vibid:2352000916174": 38,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 1,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 76,
+      "gas:candidate-vibid:2352000920382": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 5,
-      "Тельтевской Александр Дмитриевич": 34,
-      "Шулепов Евгений Борисович": 32
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 5,
+      "gas:candidate-vibid:2352000919596": 34,
+      "gas:candidate-vibid:2352000920382": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 53,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 18,
-      "Тельтевской Александр Дмитриевич": 63,
-      "Шулепов Евгений Борисович": 48
+      "gas:candidate-vibid:2352000916174": 53,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 18,
+      "gas:candidate-vibid:2352000919596": 63,
+      "gas:candidate-vibid:2352000920382": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 94,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 37,
-      "Тельтевской Александр Дмитриевич": 162,
-      "Шулепов Евгений Борисович": 116
+      "gas:candidate-vibid:2352000916174": 94,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 37,
+      "gas:candidate-vibid:2352000919596": 162,
+      "gas:candidate-vibid:2352000920382": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 18,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 4,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 2,
-      "Селин Михаил Васильевич": 6,
-      "Тельтевской Александр Дмитриевич": 31,
-      "Шулепов Евгений Борисович": 29
+      "gas:candidate-vibid:2352000916174": 18,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 4,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 2,
+      "gas:candidate-vibid:2352000918267": 6,
+      "gas:candidate-vibid:2352000919596": 31,
+      "gas:candidate-vibid:2352000920382": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 138,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 16,
-      "Михайлов Алексей Леонидович": 11,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 15,
-      "Селин Михаил Васильевич": 46,
-      "Тельтевской Александр Дмитриевич": 168,
-      "Шулепов Евгений Борисович": 194
+      "gas:candidate-vibid:2352000916174": 138,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 16,
+      "gas:candidate-vibid:2352000951236": 11,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 15,
+      "gas:candidate-vibid:2352000918267": 46,
+      "gas:candidate-vibid:2352000919596": 168,
+      "gas:candidate-vibid:2352000920382": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 53,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 89,
-      "Шулепов Евгений Борисович": 68
+      "gas:candidate-vibid:2352000916174": 53,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 89,
+      "gas:candidate-vibid:2352000920382": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 62,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 9,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 58,
-      "Шулепов Евгений Борисович": 56
+      "gas:candidate-vibid:2352000916174": 62,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 9,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 58,
+      "gas:candidate-vibid:2352000920382": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 62,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 11,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 28,
-      "Тельтевской Александр Дмитриевич": 86,
-      "Шулепов Евгений Борисович": 79
+      "gas:candidate-vibid:2352000916174": 62,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 11,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 28,
+      "gas:candidate-vibid:2352000919596": 86,
+      "gas:candidate-vibid:2352000920382": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 98,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 14,
-      "Михайлов Алексей Леонидович": 6,
-      "Некрасов Алексей Викторович": 10,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 112,
-      "Шулепов Евгений Борисович": 122
+      "gas:candidate-vibid:2352000916174": 98,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 14,
+      "gas:candidate-vibid:2352000951236": 6,
+      "gas:candidate-vibid:2352000920448": 10,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 112,
+      "gas:candidate-vibid:2352000920382": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 32,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 7,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 37,
-      "Шулепов Евгений Борисович": 34
+      "gas:candidate-vibid:2352000916174": 32,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 7,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 37,
+      "gas:candidate-vibid:2352000920382": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869382&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869382&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 100,
-      "Доможиров Евгений Валерьевич": 17,
-      "Милюкова Ольга Николаевна": 31,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 24,
-      "Панько Кирилл Игоревич": 59,
-      "Селин Михаил Васильевич": 135,
-      "Тельтевской Александр Дмитриевич": 116,
-      "Шулепов Евгений Борисович": 377
+      "gas:candidate-vibid:2352000916174": 100,
+      "gas:candidate-vibid:2352000919585": 17,
+      "gas:candidate-vibid:2352000919695": 31,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 24,
+      "gas:candidate-vibid:2352000918201": 59,
+      "gas:candidate-vibid:2352000918267": 135,
+      "gas:candidate-vibid:2352000919596": 116,
+      "gas:candidate-vibid:2352000920382": 377
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 79,
-      "Доможиров Евгений Валерьевич": 8,
-      "Милюкова Ольга Николаевна": 18,
-      "Михайлов Алексей Леонидович": 9,
-      "Некрасов Алексей Викторович": 8,
-      "Панько Кирилл Игоревич": 45,
-      "Селин Михаил Васильевич": 102,
-      "Тельтевской Александр Дмитриевич": 51,
-      "Шулепов Евгений Борисович": 231
+      "gas:candidate-vibid:2352000916174": 79,
+      "gas:candidate-vibid:2352000919585": 8,
+      "gas:candidate-vibid:2352000919695": 18,
+      "gas:candidate-vibid:2352000951236": 9,
+      "gas:candidate-vibid:2352000920448": 8,
+      "gas:candidate-vibid:2352000918201": 45,
+      "gas:candidate-vibid:2352000918267": 102,
+      "gas:candidate-vibid:2352000919596": 51,
+      "gas:candidate-vibid:2352000920382": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 39,
-      "Доможиров Евгений Валерьевич": 5,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 7,
-      "Селин Михаил Васильевич": 13,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 78
+      "gas:candidate-vibid:2352000916174": 39,
+      "gas:candidate-vibid:2352000919585": 5,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 7,
+      "gas:candidate-vibid:2352000918267": 13,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 24,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 8,
-      "Михайлов Алексей Леонидович": 7,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 18,
-      "Селин Михаил Васильевич": 25,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 102
+      "gas:candidate-vibid:2352000916174": 24,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 8,
+      "gas:candidate-vibid:2352000951236": 7,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 18,
+      "gas:candidate-vibid:2352000918267": 25,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 14,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 22,
-      "Тельтевской Александр Дмитриевич": 13,
-      "Шулепов Евгений Борисович": 70
+      "gas:candidate-vibid:2352000916174": 14,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 22,
+      "gas:candidate-vibid:2352000919596": 13,
+      "gas:candidate-vibid:2352000920382": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 16,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 23,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 40
+      "gas:candidate-vibid:2352000916174": 16,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 23,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 12,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 67
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 12,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 9,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 8,
-      "Селин Михаил Васильевич": 34,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 27
+      "gas:candidate-vibid:2352000916174": 9,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 8,
+      "gas:candidate-vibid:2352000918267": 34,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 21,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 14,
-      "Селин Михаил Васильевич": 28,
-      "Тельтевской Александр Дмитриевич": 10,
-      "Шулепов Евгений Борисович": 33
+      "gas:candidate-vibid:2352000916174": 21,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 14,
+      "gas:candidate-vibid:2352000918267": 28,
+      "gas:candidate-vibid:2352000919596": 10,
+      "gas:candidate-vibid:2352000920382": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 13,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 1,
-      "Михайлов Алексей Леонидович": 0,
-      "Некрасов Алексей Викторович": 2,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 7,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 38
+      "gas:candidate-vibid:2352000916174": 13,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 1,
+      "gas:candidate-vibid:2352000951236": 0,
+      "gas:candidate-vibid:2352000920448": 2,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 7,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 4,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 4,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 16,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 45
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 4,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 4,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 16,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 73,
-      "Доможиров Евгений Валерьевич": 3,
-      "Милюкова Ольга Николаевна": 13,
-      "Михайлов Алексей Леонидович": 10,
-      "Некрасов Алексей Викторович": 15,
-      "Панько Кирилл Игоревич": 15,
-      "Селин Михаил Васильевич": 41,
-      "Тельтевской Александр Дмитриевич": 51,
-      "Шулепов Евгений Борисович": 150
+      "gas:candidate-vibid:2352000916174": 73,
+      "gas:candidate-vibid:2352000919585": 3,
+      "gas:candidate-vibid:2352000919695": 13,
+      "gas:candidate-vibid:2352000951236": 10,
+      "gas:candidate-vibid:2352000920448": 15,
+      "gas:candidate-vibid:2352000918201": 15,
+      "gas:candidate-vibid:2352000918267": 41,
+      "gas:candidate-vibid:2352000919596": 51,
+      "gas:candidate-vibid:2352000920382": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 18,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 0,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 41,
-      "Тельтевской Александр Дмитриевич": 6,
-      "Шулепов Евгений Борисович": 40
+      "gas:candidate-vibid:2352000916174": 18,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 0,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 41,
+      "gas:candidate-vibid:2352000919596": 6,
+      "gas:candidate-vibid:2352000920382": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 14,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 6,
-      "Селин Михаил Васильевич": 70,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 77
+      "gas:candidate-vibid:2352000916174": 14,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 6,
+      "gas:candidate-vibid:2352000918267": 70,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 3,
-      "Михайлов Алексей Леонидович": 5,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 36,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 86
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 3,
+      "gas:candidate-vibid:2352000951236": 5,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 36,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 17,
-      "Доможиров Евгений Валерьевич": 7,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 3,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 12,
-      "Шулепов Евгений Борисович": 82
+      "gas:candidate-vibid:2352000916174": 17,
+      "gas:candidate-vibid:2352000919585": 7,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 3,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 12,
+      "gas:candidate-vibid:2352000920382": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 19,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 9,
-      "Селин Михаил Васильевич": 14,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 76
+      "gas:candidate-vibid:2352000916174": 19,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 9,
+      "gas:candidate-vibid:2352000918267": 14,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 23,
-      "Доможиров Евгений Валерьевич": 0,
-      "Милюкова Ольга Николаевна": 6,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 5,
-      "Панько Кирилл Игоревич": 5,
-      "Селин Михаил Васильевич": 9,
-      "Тельтевской Александр Дмитриевич": 11,
-      "Шулепов Евгений Борисович": 53
+      "gas:candidate-vibid:2352000916174": 23,
+      "gas:candidate-vibid:2352000919585": 0,
+      "gas:candidate-vibid:2352000919695": 6,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 5,
+      "gas:candidate-vibid:2352000918201": 5,
+      "gas:candidate-vibid:2352000918267": 9,
+      "gas:candidate-vibid:2352000919596": 11,
+      "gas:candidate-vibid:2352000920382": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 48,
-      "Доможиров Евгений Валерьевич": 6,
-      "Милюкова Ольга Николаевна": 10,
-      "Михайлов Алексей Леонидович": 2,
-      "Некрасов Алексей Викторович": 3,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 50,
-      "Тельтевской Александр Дмитриевич": 46,
-      "Шулепов Евгений Борисович": 126
+      "gas:candidate-vibid:2352000916174": 48,
+      "gas:candidate-vibid:2352000919585": 6,
+      "gas:candidate-vibid:2352000919695": 10,
+      "gas:candidate-vibid:2352000951236": 2,
+      "gas:candidate-vibid:2352000920448": 3,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 50,
+      "gas:candidate-vibid:2352000919596": 46,
+      "gas:candidate-vibid:2352000920382": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 47,
-      "Доможиров Евгений Валерьевич": 1,
-      "Милюкова Ольга Николаевна": 15,
-      "Михайлов Алексей Леонидович": 8,
-      "Некрасов Алексей Викторович": 6,
-      "Панько Кирилл Игоревич": 13,
-      "Селин Михаил Васильевич": 21,
-      "Тельтевской Александр Дмитриевич": 18,
-      "Шулепов Евгений Борисович": 163
+      "gas:candidate-vibid:2352000916174": 47,
+      "gas:candidate-vibid:2352000919585": 1,
+      "gas:candidate-vibid:2352000919695": 15,
+      "gas:candidate-vibid:2352000951236": 8,
+      "gas:candidate-vibid:2352000920448": 6,
+      "gas:candidate-vibid:2352000918201": 13,
+      "gas:candidate-vibid:2352000918267": 21,
+      "gas:candidate-vibid:2352000919596": 18,
+      "gas:candidate-vibid:2352000920382": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 8,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 2,
-      "Михайлов Алексей Леонидович": 3,
-      "Некрасов Алексей Викторович": 4,
-      "Панько Кирилл Игоревич": 10,
-      "Селин Михаил Васильевич": 11,
-      "Тельтевской Александр Дмитриевич": 8,
-      "Шулепов Евгений Борисович": 69
+      "gas:candidate-vibid:2352000916174": 8,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 2,
+      "gas:candidate-vibid:2352000951236": 3,
+      "gas:candidate-vibid:2352000920448": 4,
+      "gas:candidate-vibid:2352000918201": 10,
+      "gas:candidate-vibid:2352000918267": 11,
+      "gas:candidate-vibid:2352000919596": 8,
+      "gas:candidate-vibid:2352000920382": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гримов Антон Юрьевич": 7,
-      "Доможиров Евгений Валерьевич": 2,
-      "Милюкова Ольга Николаевна": 5,
-      "Михайлов Алексей Леонидович": 1,
-      "Некрасов Алексей Викторович": 1,
-      "Панько Кирилл Игоревич": 4,
-      "Селин Михаил Васильевич": 10,
-      "Тельтевской Александр Дмитриевич": 5,
-      "Шулепов Евгений Борисович": 51
+      "gas:candidate-vibid:2352000916174": 7,
+      "gas:candidate-vibid:2352000919585": 2,
+      "gas:candidate-vibid:2352000919695": 5,
+      "gas:candidate-vibid:2352000951236": 1,
+      "gas:candidate-vibid:2352000920448": 1,
+      "gas:candidate-vibid:2352000918201": 4,
+      "gas:candidate-vibid:2352000918267": 10,
+      "gas:candidate-vibid:2352000919596": 5,
+      "gas:candidate-vibid:2352000920382": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000110&tvd=2352000869383&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869383&type=464",
@@ -2698,16 +2698,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 29,
-      "Гончарова Снежана Сергеевна": 8,
-      "Горин Николай Валентинович": 7,
-      "Громов Илья Сергеевич": 28,
-      "Канаев Алексей Валерианович": 97,
-      "Катасонов Сергей Владимирович": 8,
-      "Морозов Александр Николаевич": 41,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 6,
-      "Трубицина Лариса Сергеевна": 6
+      "gas:candidate-vibid:2352000919662": 29,
+      "gas:candidate-vibid:2352000920492": 8,
+      "gas:candidate-vibid:2352000920548": 7,
+      "gas:candidate-vibid:2352000916186": 28,
+      "gas:candidate-vibid:2352000920509": 97,
+      "gas:candidate-vibid:2352000991498": 8,
+      "gas:candidate-vibid:2352000918235": 41,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 6,
+      "gas:candidate-vibid:2352000991564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -2758,16 +2758,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 155,
-      "Гончарова Снежана Сергеевна": 29,
-      "Горин Николай Валентинович": 29,
-      "Громов Илья Сергеевич": 118,
-      "Канаев Алексей Валерианович": 401,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 167,
-      "Платонов Николай Владимирович": 13,
-      "Протасов Александр Анатольевич": 32,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 155,
+      "gas:candidate-vibid:2352000920492": 29,
+      "gas:candidate-vibid:2352000920548": 29,
+      "gas:candidate-vibid:2352000916186": 118,
+      "gas:candidate-vibid:2352000920509": 401,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 167,
+      "gas:candidate-vibid:2352000991587": 13,
+      "gas:candidate-vibid:2352000918215": 32,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -2818,16 +2818,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 194,
-      "Гончарова Снежана Сергеевна": 33,
-      "Горин Николай Валентинович": 27,
-      "Громов Илья Сергеевич": 130,
-      "Канаев Алексей Валерианович": 443,
-      "Катасонов Сергей Владимирович": 13,
-      "Морозов Александр Николаевич": 167,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 37,
-      "Трубицина Лариса Сергеевна": 27
+      "gas:candidate-vibid:2352000919662": 194,
+      "gas:candidate-vibid:2352000920492": 33,
+      "gas:candidate-vibid:2352000920548": 27,
+      "gas:candidate-vibid:2352000916186": 130,
+      "gas:candidate-vibid:2352000920509": 443,
+      "gas:candidate-vibid:2352000991498": 13,
+      "gas:candidate-vibid:2352000918235": 167,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 37,
+      "gas:candidate-vibid:2352000991564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -2878,16 +2878,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 109,
-      "Гончарова Снежана Сергеевна": 18,
-      "Горин Николай Валентинович": 12,
-      "Громов Илья Сергеевич": 83,
-      "Канаев Алексей Валерианович": 196,
-      "Катасонов Сергей Владимирович": 7,
-      "Морозов Александр Николаевич": 99,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 109,
+      "gas:candidate-vibid:2352000920492": 18,
+      "gas:candidate-vibid:2352000920548": 12,
+      "gas:candidate-vibid:2352000916186": 83,
+      "gas:candidate-vibid:2352000920509": 196,
+      "gas:candidate-vibid:2352000991498": 7,
+      "gas:candidate-vibid:2352000918235": 99,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -2938,16 +2938,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 226,
-      "Гончарова Снежана Сергеевна": 25,
-      "Горин Николай Валентинович": 34,
-      "Громов Илья Сергеевич": 167,
-      "Канаев Алексей Валерианович": 408,
-      "Катасонов Сергей Владимирович": 9,
-      "Морозов Александр Николаевич": 178,
-      "Платонов Николай Владимирович": 11,
-      "Протасов Александр Анатольевич": 31,
-      "Трубицина Лариса Сергеевна": 34
+      "gas:candidate-vibid:2352000919662": 226,
+      "gas:candidate-vibid:2352000920492": 25,
+      "gas:candidate-vibid:2352000920548": 34,
+      "gas:candidate-vibid:2352000916186": 167,
+      "gas:candidate-vibid:2352000920509": 408,
+      "gas:candidate-vibid:2352000991498": 9,
+      "gas:candidate-vibid:2352000918235": 178,
+      "gas:candidate-vibid:2352000991587": 11,
+      "gas:candidate-vibid:2352000918215": 31,
+      "gas:candidate-vibid:2352000991564": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -2998,16 +2998,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 169,
-      "Гончарова Снежана Сергеевна": 30,
-      "Горин Николай Валентинович": 20,
-      "Громов Илья Сергеевич": 163,
-      "Канаев Алексей Валерианович": 364,
-      "Катасонов Сергей Владимирович": 8,
-      "Морозов Александр Николаевич": 170,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 34,
-      "Трубицина Лариса Сергеевна": 28
+      "gas:candidate-vibid:2352000919662": 169,
+      "gas:candidate-vibid:2352000920492": 30,
+      "gas:candidate-vibid:2352000920548": 20,
+      "gas:candidate-vibid:2352000916186": 163,
+      "gas:candidate-vibid:2352000920509": 364,
+      "gas:candidate-vibid:2352000991498": 8,
+      "gas:candidate-vibid:2352000918235": 170,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 34,
+      "gas:candidate-vibid:2352000991564": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3058,16 +3058,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 147,
-      "Гончарова Снежана Сергеевна": 14,
-      "Горин Николай Валентинович": 20,
-      "Громов Илья Сергеевич": 105,
-      "Канаев Алексей Валерианович": 271,
-      "Катасонов Сергей Владимирович": 7,
-      "Морозов Александр Николаевич": 137,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 23
+      "gas:candidate-vibid:2352000919662": 147,
+      "gas:candidate-vibid:2352000920492": 14,
+      "gas:candidate-vibid:2352000920548": 20,
+      "gas:candidate-vibid:2352000916186": 105,
+      "gas:candidate-vibid:2352000920509": 271,
+      "gas:candidate-vibid:2352000991498": 7,
+      "gas:candidate-vibid:2352000918235": 137,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3118,16 +3118,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 67,
-      "Гончарова Снежана Сергеевна": 15,
-      "Горин Николай Валентинович": 12,
-      "Громов Илья Сергеевич": 99,
-      "Канаев Алексей Валерианович": 264,
-      "Катасонов Сергей Владимирович": 7,
-      "Морозов Александр Николаевич": 84,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 7
+      "gas:candidate-vibid:2352000919662": 67,
+      "gas:candidate-vibid:2352000920492": 15,
+      "gas:candidate-vibid:2352000920548": 12,
+      "gas:candidate-vibid:2352000916186": 99,
+      "gas:candidate-vibid:2352000920509": 264,
+      "gas:candidate-vibid:2352000991498": 7,
+      "gas:candidate-vibid:2352000918235": 84,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3178,16 +3178,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 46,
-      "Гончарова Снежана Сергеевна": 16,
-      "Горин Николай Валентинович": 12,
-      "Громов Илья Сергеевич": 60,
-      "Канаев Алексей Валерианович": 152,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 56,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 8,
-      "Трубицина Лариса Сергеевна": 5
+      "gas:candidate-vibid:2352000919662": 46,
+      "gas:candidate-vibid:2352000920492": 16,
+      "gas:candidate-vibid:2352000920548": 12,
+      "gas:candidate-vibid:2352000916186": 60,
+      "gas:candidate-vibid:2352000920509": 152,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 56,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 8,
+      "gas:candidate-vibid:2352000991564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3238,16 +3238,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 154,
-      "Гончарова Снежана Сергеевна": 34,
-      "Горин Николай Валентинович": 13,
-      "Громов Илья Сергеевич": 134,
-      "Канаев Алексей Валерианович": 305,
-      "Катасонов Сергей Владимирович": 12,
-      "Морозов Александр Николаевич": 200,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 31,
-      "Трубицина Лариса Сергеевна": 23
+      "gas:candidate-vibid:2352000919662": 154,
+      "gas:candidate-vibid:2352000920492": 34,
+      "gas:candidate-vibid:2352000920548": 13,
+      "gas:candidate-vibid:2352000916186": 134,
+      "gas:candidate-vibid:2352000920509": 305,
+      "gas:candidate-vibid:2352000991498": 12,
+      "gas:candidate-vibid:2352000918235": 200,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 31,
+      "gas:candidate-vibid:2352000991564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3298,16 +3298,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 34,
-      "Гончарова Снежана Сергеевна": 6,
-      "Горин Николай Валентинович": 7,
-      "Громов Илья Сергеевич": 34,
-      "Канаев Алексей Валерианович": 141,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 28,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 7,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 34,
+      "gas:candidate-vibid:2352000920492": 6,
+      "gas:candidate-vibid:2352000920548": 7,
+      "gas:candidate-vibid:2352000916186": 34,
+      "gas:candidate-vibid:2352000920509": 141,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 28,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 7,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3358,16 +3358,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 4,
-      "Гончарова Снежана Сергеевна": 0,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 9,
-      "Канаев Алексей Валерианович": 37,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 6,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 4,
+      "gas:candidate-vibid:2352000920492": 0,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 9,
+      "gas:candidate-vibid:2352000920509": 37,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 6,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3418,16 +3418,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 7,
-      "Гончарова Снежана Сергеевна": 2,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 14,
-      "Канаев Алексей Валерианович": 22,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 8,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 7,
+      "gas:candidate-vibid:2352000920492": 2,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 14,
+      "gas:candidate-vibid:2352000920509": 22,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 8,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3478,16 +3478,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 29,
-      "Гончарова Снежана Сергеевна": 8,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 22,
-      "Канаев Алексей Валерианович": 74,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 19,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 4
+      "gas:candidate-vibid:2352000919662": 29,
+      "gas:candidate-vibid:2352000920492": 8,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 22,
+      "gas:candidate-vibid:2352000920509": 74,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 19,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3538,16 +3538,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 14,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 10,
-      "Канаев Алексей Валерианович": 31,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 8,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 14,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 10,
+      "gas:candidate-vibid:2352000920509": 31,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 8,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3598,16 +3598,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 7,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 7,
-      "Громов Илья Сергеевич": 16,
-      "Канаев Алексей Валерианович": 47,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 10,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 7,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 7,
+      "gas:candidate-vibid:2352000916186": 16,
+      "gas:candidate-vibid:2352000920509": 47,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 10,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3658,16 +3658,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 8,
-      "Гончарова Снежана Сергеевна": 5,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 24,
-      "Канаев Алексей Валерианович": 40,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 11,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 8,
+      "gas:candidate-vibid:2352000920492": 5,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 24,
+      "gas:candidate-vibid:2352000920509": 40,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 11,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3718,16 +3718,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 28,
-      "Гончарова Снежана Сергеевна": 8,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 24,
-      "Канаев Алексей Валерианович": 87,
-      "Катасонов Сергей Владимирович": 4,
-      "Морозов Александр Николаевич": 29,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 7,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 28,
+      "gas:candidate-vibid:2352000920492": 8,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 24,
+      "gas:candidate-vibid:2352000920509": 87,
+      "gas:candidate-vibid:2352000991498": 4,
+      "gas:candidate-vibid:2352000918235": 29,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 7,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3778,16 +3778,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 4,
-      "Гончарова Снежана Сергеевна": 2,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 8,
-      "Канаев Алексей Валерианович": 33,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 7,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 4,
+      "gas:candidate-vibid:2352000920492": 2,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 8,
+      "gas:candidate-vibid:2352000920509": 33,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 7,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3838,16 +3838,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 25,
-      "Гончарова Снежана Сергеевна": 5,
-      "Горин Николай Валентинович": 5,
-      "Громов Илья Сергеевич": 25,
-      "Канаев Алексей Валерианович": 74,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 18,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 6,
-      "Трубицина Лариса Сергеевна": 4
+      "gas:candidate-vibid:2352000919662": 25,
+      "gas:candidate-vibid:2352000920492": 5,
+      "gas:candidate-vibid:2352000920548": 5,
+      "gas:candidate-vibid:2352000916186": 25,
+      "gas:candidate-vibid:2352000920509": 74,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 18,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 6,
+      "gas:candidate-vibid:2352000991564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3898,16 +3898,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 6,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 5,
-      "Канаев Алексей Валерианович": 24,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 9,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 6,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 5,
+      "gas:candidate-vibid:2352000920509": 24,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 9,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -3958,16 +3958,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 37,
-      "Гончарова Снежана Сергеевна": 11,
-      "Горин Николай Валентинович": 12,
-      "Громов Илья Сергеевич": 30,
-      "Канаев Алексей Валерианович": 111,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 42,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 37,
+      "gas:candidate-vibid:2352000920492": 11,
+      "gas:candidate-vibid:2352000920548": 12,
+      "gas:candidate-vibid:2352000916186": 30,
+      "gas:candidate-vibid:2352000920509": 111,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 42,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4018,16 +4018,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 5,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 9,
-      "Канаев Алексей Валерианович": 21,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 2,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 5,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 9,
+      "gas:candidate-vibid:2352000920509": 21,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 2,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4078,16 +4078,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 45,
-      "Гончарова Снежана Сергеевна": 11,
-      "Горин Николай Валентинович": 6,
-      "Громов Илья Сергеевич": 47,
-      "Канаев Алексей Валерианович": 198,
-      "Катасонов Сергей Владимирович": 8,
-      "Морозов Александр Николаевич": 35,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 8,
-      "Трубицина Лариса Сергеевна": 7
+      "gas:candidate-vibid:2352000919662": 45,
+      "gas:candidate-vibid:2352000920492": 11,
+      "gas:candidate-vibid:2352000920548": 6,
+      "gas:candidate-vibid:2352000916186": 47,
+      "gas:candidate-vibid:2352000920509": 198,
+      "gas:candidate-vibid:2352000991498": 8,
+      "gas:candidate-vibid:2352000918235": 35,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 8,
+      "gas:candidate-vibid:2352000991564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4138,16 +4138,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 55,
-      "Гончарова Снежана Сергеевна": 9,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 50,
-      "Канаев Алексей Валерианович": 131,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 36,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 7,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 55,
+      "gas:candidate-vibid:2352000920492": 9,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 50,
+      "gas:candidate-vibid:2352000920509": 131,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 36,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 7,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4198,16 +4198,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 24,
-      "Гончарова Снежана Сергеевна": 2,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 26,
-      "Канаев Алексей Валерианович": 102,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 23,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 6,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 24,
+      "gas:candidate-vibid:2352000920492": 2,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 26,
+      "gas:candidate-vibid:2352000920509": 102,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 23,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 6,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4258,16 +4258,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 18,
-      "Гончарова Снежана Сергеевна": 0,
-      "Горин Николай Валентинович": 5,
-      "Громов Илья Сергеевич": 23,
-      "Канаев Алексей Валерианович": 110,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 18,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 4
+      "gas:candidate-vibid:2352000919662": 18,
+      "gas:candidate-vibid:2352000920492": 0,
+      "gas:candidate-vibid:2352000920548": 5,
+      "gas:candidate-vibid:2352000916186": 23,
+      "gas:candidate-vibid:2352000920509": 110,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 18,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4318,16 +4318,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 24,
-      "Гончарова Снежана Сергеевна": 6,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 17,
-      "Канаев Алексей Валерианович": 70,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 23,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 4
+      "gas:candidate-vibid:2352000919662": 24,
+      "gas:candidate-vibid:2352000920492": 6,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 17,
+      "gas:candidate-vibid:2352000920509": 70,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 23,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4378,16 +4378,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 19,
-      "Гончарова Снежана Сергеевна": 10,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 15,
-      "Канаев Алексей Валерианович": 77,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 29,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 19,
+      "gas:candidate-vibid:2352000920492": 10,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 15,
+      "gas:candidate-vibid:2352000920509": 77,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 29,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4438,16 +4438,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 8,
-      "Гончарова Снежана Сергеевна": 0,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 6,
-      "Канаев Алексей Валерианович": 26,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 6,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 0,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 8,
+      "gas:candidate-vibid:2352000920492": 0,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 6,
+      "gas:candidate-vibid:2352000920509": 26,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 6,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 0,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4498,16 +4498,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 14,
-      "Гончарова Снежана Сергеевна": 5,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 12,
-      "Канаев Алексей Валерианович": 71,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 9,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 14,
+      "gas:candidate-vibid:2352000920492": 5,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 12,
+      "gas:candidate-vibid:2352000920509": 71,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 9,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4558,16 +4558,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 17,
-      "Гончарова Снежана Сергеевна": 5,
-      "Горин Николай Валентинович": 6,
-      "Громов Илья Сергеевич": 25,
-      "Канаев Алексей Валерианович": 87,
-      "Катасонов Сергей Владимирович": 4,
-      "Морозов Александр Николаевич": 14,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 6
+      "gas:candidate-vibid:2352000919662": 17,
+      "gas:candidate-vibid:2352000920492": 5,
+      "gas:candidate-vibid:2352000920548": 6,
+      "gas:candidate-vibid:2352000916186": 25,
+      "gas:candidate-vibid:2352000920509": 87,
+      "gas:candidate-vibid:2352000991498": 4,
+      "gas:candidate-vibid:2352000918235": 14,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4618,16 +4618,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 20,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 11,
-      "Канаев Алексей Валерианович": 96,
-      "Катасонов Сергей Владимирович": 4,
-      "Морозов Александр Николаевич": 26,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 20,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 11,
+      "gas:candidate-vibid:2352000920509": 96,
+      "gas:candidate-vibid:2352000991498": 4,
+      "gas:candidate-vibid:2352000918235": 26,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4678,16 +4678,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 64,
-      "Гончарова Снежана Сергеевна": 35,
-      "Горин Николай Валентинович": 15,
-      "Громов Илья Сергеевич": 90,
-      "Канаев Алексей Валерианович": 647,
-      "Катасонов Сергей Владимирович": 15,
-      "Морозов Александр Николаевич": 61,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 23,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 64,
+      "gas:candidate-vibid:2352000920492": 35,
+      "gas:candidate-vibid:2352000920548": 15,
+      "gas:candidate-vibid:2352000916186": 90,
+      "gas:candidate-vibid:2352000920509": 647,
+      "gas:candidate-vibid:2352000991498": 15,
+      "gas:candidate-vibid:2352000918235": 61,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 23,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869384&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869384&type=464",
@@ -4738,16 +4738,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 59,
-      "Гончарова Снежана Сергеевна": 11,
-      "Горин Николай Валентинович": 6,
-      "Громов Илья Сергеевич": 49,
-      "Канаев Алексей Валерианович": 148,
-      "Катасонов Сергей Владимирович": 4,
-      "Морозов Александр Николаевич": 28,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 5
+      "gas:candidate-vibid:2352000919662": 59,
+      "gas:candidate-vibid:2352000920492": 11,
+      "gas:candidate-vibid:2352000920548": 6,
+      "gas:candidate-vibid:2352000916186": 49,
+      "gas:candidate-vibid:2352000920509": 148,
+      "gas:candidate-vibid:2352000991498": 4,
+      "gas:candidate-vibid:2352000918235": 28,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -4798,16 +4798,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 65,
-      "Гончарова Снежана Сергеевна": 13,
-      "Горин Николай Валентинович": 6,
-      "Громов Илья Сергеевич": 45,
-      "Канаев Алексей Валерианович": 196,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 46,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 65,
+      "gas:candidate-vibid:2352000920492": 13,
+      "gas:candidate-vibid:2352000920548": 6,
+      "gas:candidate-vibid:2352000916186": 45,
+      "gas:candidate-vibid:2352000920509": 196,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 46,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -4858,16 +4858,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 52,
-      "Гончарова Снежана Сергеевна": 22,
-      "Горин Николай Валентинович": 11,
-      "Громов Илья Сергеевич": 54,
-      "Канаев Алексей Валерианович": 166,
-      "Катасонов Сергей Владимирович": 5,
-      "Морозов Александр Николаевич": 66,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 12,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 52,
+      "gas:candidate-vibid:2352000920492": 22,
+      "gas:candidate-vibid:2352000920548": 11,
+      "gas:candidate-vibid:2352000916186": 54,
+      "gas:candidate-vibid:2352000920509": 166,
+      "gas:candidate-vibid:2352000991498": 5,
+      "gas:candidate-vibid:2352000918235": 66,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 12,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -4918,16 +4918,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 15,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 17,
-      "Канаев Алексей Валерианович": 43,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 15,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 0,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 15,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 17,
+      "gas:candidate-vibid:2352000920509": 43,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 15,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 0,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -4978,16 +4978,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 4,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 17,
-      "Канаев Алексей Валерианович": 49,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 10,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 0,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 4,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 17,
+      "gas:candidate-vibid:2352000920509": 49,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 10,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 0,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5038,16 +5038,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 17,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 18,
-      "Канаев Алексей Валерианович": 92,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 17,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 5
+      "gas:candidate-vibid:2352000919662": 17,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 18,
+      "gas:candidate-vibid:2352000920509": 92,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 17,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5098,16 +5098,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 115,
-      "Гончарова Снежана Сергеевна": 22,
-      "Горин Николай Валентинович": 15,
-      "Громов Илья Сергеевич": 105,
-      "Канаев Алексей Валерианович": 240,
-      "Катасонов Сергей Владимирович": 16,
-      "Морозов Александр Николаевич": 70,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 7,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 115,
+      "gas:candidate-vibid:2352000920492": 22,
+      "gas:candidate-vibid:2352000920548": 15,
+      "gas:candidate-vibid:2352000916186": 105,
+      "gas:candidate-vibid:2352000920509": 240,
+      "gas:candidate-vibid:2352000991498": 16,
+      "gas:candidate-vibid:2352000918235": 70,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 7,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5158,16 +5158,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 17,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 28,
-      "Канаев Алексей Валерианович": 43,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 11,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 17,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 28,
+      "gas:candidate-vibid:2352000920509": 43,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 11,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5218,16 +5218,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 163,
-      "Гончарова Снежана Сергеевна": 11,
-      "Горин Николай Валентинович": 13,
-      "Громов Илья Сергеевич": 108,
-      "Канаев Алексей Валерианович": 308,
-      "Катасонов Сергей Владимирович": 12,
-      "Морозов Александр Николаевич": 124,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 18,
-      "Трубицина Лариса Сергеевна": 11
+      "gas:candidate-vibid:2352000919662": 163,
+      "gas:candidate-vibid:2352000920492": 11,
+      "gas:candidate-vibid:2352000920548": 13,
+      "gas:candidate-vibid:2352000916186": 108,
+      "gas:candidate-vibid:2352000920509": 308,
+      "gas:candidate-vibid:2352000991498": 12,
+      "gas:candidate-vibid:2352000918235": 124,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 18,
+      "gas:candidate-vibid:2352000991564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5278,16 +5278,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 76,
-      "Гончарова Снежана Сергеевна": 12,
-      "Горин Николай Валентинович": 19,
-      "Громов Илья Сергеевич": 51,
-      "Канаев Алексей Валерианович": 173,
-      "Катасонов Сергей Владимирович": 8,
-      "Морозов Александр Николаевич": 75,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 13
+      "gas:candidate-vibid:2352000919662": 76,
+      "gas:candidate-vibid:2352000920492": 12,
+      "gas:candidate-vibid:2352000920548": 19,
+      "gas:candidate-vibid:2352000916186": 51,
+      "gas:candidate-vibid:2352000920509": 173,
+      "gas:candidate-vibid:2352000991498": 8,
+      "gas:candidate-vibid:2352000918235": 75,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5338,16 +5338,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 11,
-      "Гончарова Снежана Сергеевна": 2,
-      "Горин Николай Валентинович": 5,
-      "Громов Илья Сергеевич": 14,
-      "Канаев Алексей Валерианович": 53,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 22,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 11,
+      "gas:candidate-vibid:2352000920492": 2,
+      "gas:candidate-vibid:2352000920548": 5,
+      "gas:candidate-vibid:2352000916186": 14,
+      "gas:candidate-vibid:2352000920509": 53,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 22,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5398,16 +5398,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 13,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 7,
-      "Канаев Алексей Валерианович": 53,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 16,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 13,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 7,
+      "gas:candidate-vibid:2352000920509": 53,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 16,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5458,16 +5458,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 104,
-      "Гончарова Снежана Сергеевна": 11,
-      "Горин Николай Валентинович": 9,
-      "Громов Илья Сергеевич": 77,
-      "Канаев Алексей Валерианович": 245,
-      "Катасонов Сергей Владимирович": 11,
-      "Морозов Александр Николаевич": 56,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 13,
-      "Трубицина Лариса Сергеевна": 11
+      "gas:candidate-vibid:2352000919662": 104,
+      "gas:candidate-vibid:2352000920492": 11,
+      "gas:candidate-vibid:2352000920548": 9,
+      "gas:candidate-vibid:2352000916186": 77,
+      "gas:candidate-vibid:2352000920509": 245,
+      "gas:candidate-vibid:2352000991498": 11,
+      "gas:candidate-vibid:2352000918235": 56,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 13,
+      "gas:candidate-vibid:2352000991564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5518,16 +5518,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 49,
-      "Гончарова Снежана Сергеевна": 13,
-      "Горин Николай Валентинович": 13,
-      "Громов Илья Сергеевич": 85,
-      "Канаев Алексей Валерианович": 154,
-      "Катасонов Сергей Владимирович": 9,
-      "Морозов Александр Николаевич": 43,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 11,
-      "Трубицина Лариса Сергеевна": 9
+      "gas:candidate-vibid:2352000919662": 49,
+      "gas:candidate-vibid:2352000920492": 13,
+      "gas:candidate-vibid:2352000920548": 13,
+      "gas:candidate-vibid:2352000916186": 85,
+      "gas:candidate-vibid:2352000920509": 154,
+      "gas:candidate-vibid:2352000991498": 9,
+      "gas:candidate-vibid:2352000918235": 43,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 11,
+      "gas:candidate-vibid:2352000991564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5578,16 +5578,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 64,
-      "Гончарова Снежана Сергеевна": 8,
-      "Горин Николай Валентинович": 6,
-      "Громов Илья Сергеевич": 84,
-      "Канаев Алексей Валерианович": 191,
-      "Катасонов Сергей Владимирович": 7,
-      "Морозов Александр Николаевич": 47,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 64,
+      "gas:candidate-vibid:2352000920492": 8,
+      "gas:candidate-vibid:2352000920548": 6,
+      "gas:candidate-vibid:2352000916186": 84,
+      "gas:candidate-vibid:2352000920509": 191,
+      "gas:candidate-vibid:2352000991498": 7,
+      "gas:candidate-vibid:2352000918235": 47,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5638,16 +5638,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 11,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 24,
-      "Канаев Алексей Валерианович": 30,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 9,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 4,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 11,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 24,
+      "gas:candidate-vibid:2352000920509": 30,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 9,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 4,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5698,16 +5698,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 9,
-      "Гончарова Снежана Сергеевна": 0,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 15,
-      "Канаев Алексей Валерианович": 36,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 15,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 9,
+      "gas:candidate-vibid:2352000920492": 0,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 15,
+      "gas:candidate-vibid:2352000920509": 36,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 15,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5758,16 +5758,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 22,
-      "Гончарова Снежана Сергеевна": 5,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 15,
-      "Канаев Алексей Валерианович": 72,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 23,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 22,
+      "gas:candidate-vibid:2352000920492": 5,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 15,
+      "gas:candidate-vibid:2352000920509": 72,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 23,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5818,16 +5818,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 11,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 16,
-      "Канаев Алексей Валерианович": 40,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 11,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 11,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 16,
+      "gas:candidate-vibid:2352000920509": 40,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 11,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5878,16 +5878,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 106,
-      "Гончарова Снежана Сергеевна": 17,
-      "Горин Николай Валентинович": 11,
-      "Громов Илья Сергеевич": 81,
-      "Канаев Алексей Валерианович": 221,
-      "Катасонов Сергей Владимирович": 11,
-      "Морозов Александр Николаевич": 93,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 13,
-      "Трубицина Лариса Сергеевна": 6
+      "gas:candidate-vibid:2352000919662": 106,
+      "gas:candidate-vibid:2352000920492": 17,
+      "gas:candidate-vibid:2352000920548": 11,
+      "gas:candidate-vibid:2352000916186": 81,
+      "gas:candidate-vibid:2352000920509": 221,
+      "gas:candidate-vibid:2352000991498": 11,
+      "gas:candidate-vibid:2352000918235": 93,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 13,
+      "gas:candidate-vibid:2352000991564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5938,16 +5938,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 72,
-      "Гончарова Снежана Сергеевна": 17,
-      "Горин Николай Валентинович": 12,
-      "Громов Илья Сергеевич": 81,
-      "Канаев Алексей Валерианович": 157,
-      "Катасонов Сергей Владимирович": 8,
-      "Морозов Александр Николаевич": 67,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 13,
-      "Трубицина Лариса Сергеевна": 8
+      "gas:candidate-vibid:2352000919662": 72,
+      "gas:candidate-vibid:2352000920492": 17,
+      "gas:candidate-vibid:2352000920548": 12,
+      "gas:candidate-vibid:2352000916186": 81,
+      "gas:candidate-vibid:2352000920509": 157,
+      "gas:candidate-vibid:2352000991498": 8,
+      "gas:candidate-vibid:2352000918235": 67,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 13,
+      "gas:candidate-vibid:2352000991564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -5998,16 +5998,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 81,
-      "Гончарова Снежана Сергеевна": 16,
-      "Горин Николай Валентинович": 8,
-      "Громов Илья Сергеевич": 65,
-      "Канаев Алексей Валерианович": 223,
-      "Катасонов Сергей Владимирович": 6,
-      "Морозов Александр Николаевич": 49,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 6,
-      "Трубицина Лариса Сергеевна": 7
+      "gas:candidate-vibid:2352000919662": 81,
+      "gas:candidate-vibid:2352000920492": 16,
+      "gas:candidate-vibid:2352000920548": 8,
+      "gas:candidate-vibid:2352000916186": 65,
+      "gas:candidate-vibid:2352000920509": 223,
+      "gas:candidate-vibid:2352000991498": 6,
+      "gas:candidate-vibid:2352000918235": 49,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 6,
+      "gas:candidate-vibid:2352000991564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6058,16 +6058,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 8,
-      "Гончарова Снежана Сергеевна": 2,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 17,
-      "Канаев Алексей Валерианович": 25,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 6,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 8,
+      "gas:candidate-vibid:2352000920492": 2,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 17,
+      "gas:candidate-vibid:2352000920509": 25,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 6,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6118,16 +6118,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 12,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 17,
-      "Канаев Алексей Валерианович": 40,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 17,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 4,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 12,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 17,
+      "gas:candidate-vibid:2352000920509": 40,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 17,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 4,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6178,16 +6178,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 15,
-      "Гончарова Снежана Сергеевна": 5,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 18,
-      "Канаев Алексей Валерианович": 65,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 12,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 7,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 15,
+      "gas:candidate-vibid:2352000920492": 5,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 18,
+      "gas:candidate-vibid:2352000920509": 65,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 12,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 7,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6238,16 +6238,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 98,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 15,
-      "Громов Илья Сергеевич": 116,
-      "Канаев Алексей Валерианович": 248,
-      "Катасонов Сергей Владимирович": 11,
-      "Морозов Александр Николаевич": 87,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 98,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 15,
+      "gas:candidate-vibid:2352000916186": 116,
+      "gas:candidate-vibid:2352000920509": 248,
+      "gas:candidate-vibid:2352000991498": 11,
+      "gas:candidate-vibid:2352000918235": 87,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6298,16 +6298,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 102,
-      "Гончарова Снежана Сергеевна": 21,
-      "Горин Николай Валентинович": 14,
-      "Громов Илья Сергеевич": 122,
-      "Канаев Алексей Валерианович": 244,
-      "Катасонов Сергей Владимирович": 15,
-      "Морозов Александр Николаевич": 98,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 10
+      "gas:candidate-vibid:2352000919662": 102,
+      "gas:candidate-vibid:2352000920492": 21,
+      "gas:candidate-vibid:2352000920548": 14,
+      "gas:candidate-vibid:2352000916186": 122,
+      "gas:candidate-vibid:2352000920509": 244,
+      "gas:candidate-vibid:2352000991498": 15,
+      "gas:candidate-vibid:2352000918235": 98,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6358,16 +6358,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 25,
-      "Гончарова Снежана Сергеевна": 2,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 32,
-      "Канаев Алексей Валерианович": 43,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 18,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 25,
+      "gas:candidate-vibid:2352000920492": 2,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 32,
+      "gas:candidate-vibid:2352000920509": 43,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 18,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6418,16 +6418,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 9,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 20,
-      "Канаев Алексей Валерианович": 81,
-      "Катасонов Сергей Владимирович": 4,
-      "Морозов Александр Николаевич": 29,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 7
+      "gas:candidate-vibid:2352000919662": 9,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 20,
+      "gas:candidate-vibid:2352000920509": 81,
+      "gas:candidate-vibid:2352000991498": 4,
+      "gas:candidate-vibid:2352000918235": 29,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6478,16 +6478,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 14,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 12,
-      "Громов Илья Сергеевич": 36,
-      "Канаев Алексей Валерианович": 82,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 20,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 8,
-      "Трубицина Лариса Сергеевна": 5
+      "gas:candidate-vibid:2352000919662": 14,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 12,
+      "gas:candidate-vibid:2352000916186": 36,
+      "gas:candidate-vibid:2352000920509": 82,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 20,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 8,
+      "gas:candidate-vibid:2352000991564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6538,16 +6538,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 21,
-      "Гончарова Снежана Сергеевна": 7,
-      "Горин Николай Валентинович": 7,
-      "Громов Илья Сергеевич": 38,
-      "Канаев Алексей Валерианович": 155,
-      "Катасонов Сергей Владимирович": 4,
-      "Морозов Александр Николаевич": 40,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 4
+      "gas:candidate-vibid:2352000919662": 21,
+      "gas:candidate-vibid:2352000920492": 7,
+      "gas:candidate-vibid:2352000920548": 7,
+      "gas:candidate-vibid:2352000916186": 38,
+      "gas:candidate-vibid:2352000920509": 155,
+      "gas:candidate-vibid:2352000991498": 4,
+      "gas:candidate-vibid:2352000918235": 40,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6598,16 +6598,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 13,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 6,
-      "Громов Илья Сергеевич": 17,
-      "Канаев Алексей Валерианович": 42,
-      "Катасонов Сергей Владимирович": 7,
-      "Морозов Александр Николаевич": 11,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 13,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 6,
+      "gas:candidate-vibid:2352000916186": 17,
+      "gas:candidate-vibid:2352000920509": 42,
+      "gas:candidate-vibid:2352000991498": 7,
+      "gas:candidate-vibid:2352000918235": 11,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6658,16 +6658,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 12,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 35,
-      "Канаев Алексей Валерианович": 81,
-      "Катасонов Сергей Владимирович": 6,
-      "Морозов Александр Николаевич": 13,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 6
+      "gas:candidate-vibid:2352000919662": 12,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 35,
+      "gas:candidate-vibid:2352000920509": 81,
+      "gas:candidate-vibid:2352000991498": 6,
+      "gas:candidate-vibid:2352000918235": 13,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6718,16 +6718,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 13,
-      "Гончарова Снежана Сергеевна": 6,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 16,
-      "Канаев Алексей Валерианович": 89,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 20,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 4,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 13,
+      "gas:candidate-vibid:2352000920492": 6,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 16,
+      "gas:candidate-vibid:2352000920509": 89,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 20,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 4,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6778,16 +6778,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 8,
-      "Гончарова Снежана Сергеевна": 0,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 2,
-      "Канаев Алексей Валерианович": 30,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 7,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 8,
+      "gas:candidate-vibid:2352000920492": 0,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 2,
+      "gas:candidate-vibid:2352000920509": 30,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 7,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6838,16 +6838,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 5,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 5,
-      "Канаев Алексей Валерианович": 35,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 2,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 5,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 5,
+      "gas:candidate-vibid:2352000920509": 35,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 2,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6898,16 +6898,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 12,
-      "Гончарова Снежана Сергеевна": 6,
-      "Горин Николай Валентинович": 6,
-      "Громов Илья Сергеевич": 36,
-      "Канаев Алексей Валерианович": 95,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 24,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 12,
+      "gas:candidate-vibid:2352000920492": 6,
+      "gas:candidate-vibid:2352000920548": 6,
+      "gas:candidate-vibid:2352000916186": 36,
+      "gas:candidate-vibid:2352000920509": 95,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 24,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -6958,16 +6958,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 15,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 19,
-      "Канаев Алексей Валерианович": 97,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 26,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 15,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 19,
+      "gas:candidate-vibid:2352000920509": 97,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 26,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -7018,16 +7018,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 13,
-      "Гончарова Снежана Сергеевна": 6,
-      "Горин Николай Валентинович": 7,
-      "Громов Илья Сергеевич": 17,
-      "Канаев Алексей Валерианович": 163,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 42,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 6,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 13,
+      "gas:candidate-vibid:2352000920492": 6,
+      "gas:candidate-vibid:2352000920548": 7,
+      "gas:candidate-vibid:2352000916186": 17,
+      "gas:candidate-vibid:2352000920509": 163,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 42,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 6,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -7078,16 +7078,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 70,
-      "Гончарова Снежана Сергеевна": 16,
-      "Горин Николай Валентинович": 13,
-      "Громов Илья Сергеевич": 54,
-      "Канаев Алексей Валерианович": 162,
-      "Катасонов Сергей Владимирович": 6,
-      "Морозов Александр Николаевич": 71,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 12,
-      "Трубицина Лариса Сергеевна": 8
+      "gas:candidate-vibid:2352000919662": 70,
+      "gas:candidate-vibid:2352000920492": 16,
+      "gas:candidate-vibid:2352000920548": 13,
+      "gas:candidate-vibid:2352000916186": 54,
+      "gas:candidate-vibid:2352000920509": 162,
+      "gas:candidate-vibid:2352000991498": 6,
+      "gas:candidate-vibid:2352000918235": 71,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 12,
+      "gas:candidate-vibid:2352000991564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -7138,16 +7138,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 13,
-      "Гончарова Снежана Сергеевна": 9,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 25,
-      "Канаев Алексей Валерианович": 87,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 33,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 13,
+      "gas:candidate-vibid:2352000920492": 9,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 25,
+      "gas:candidate-vibid:2352000920509": 87,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 33,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -7198,16 +7198,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 8,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 8,
-      "Канаев Алексей Валерианович": 29,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 10,
-      "Платонов Николай Владимирович": 1,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 8,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 8,
+      "gas:candidate-vibid:2352000920509": 29,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 10,
+      "gas:candidate-vibid:2352000991587": 1,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -7258,16 +7258,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 4,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 16,
-      "Канаев Алексей Валерианович": 58,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 14,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 3,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 4,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 16,
+      "gas:candidate-vibid:2352000920509": 58,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 14,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 3,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -7318,16 +7318,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 145,
-      "Гончарова Снежана Сергеевна": 22,
-      "Горин Николай Валентинович": 23,
-      "Громов Илья Сергеевич": 100,
-      "Канаев Алексей Валерианович": 285,
-      "Катасонов Сергей Владимирович": 23,
-      "Морозов Александр Николаевич": 128,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 24,
-      "Трубицина Лариса Сергеевна": 19
+      "gas:candidate-vibid:2352000919662": 145,
+      "gas:candidate-vibid:2352000920492": 22,
+      "gas:candidate-vibid:2352000920548": 23,
+      "gas:candidate-vibid:2352000916186": 100,
+      "gas:candidate-vibid:2352000920509": 285,
+      "gas:candidate-vibid:2352000991498": 23,
+      "gas:candidate-vibid:2352000918235": 128,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 24,
+      "gas:candidate-vibid:2352000991564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869385&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869385&type=464",
@@ -7378,16 +7378,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 129,
-      "Гончарова Снежана Сергеевна": 27,
-      "Горин Николай Валентинович": 33,
-      "Громов Илья Сергеевич": 167,
-      "Канаев Алексей Валерианович": 544,
-      "Катасонов Сергей Владимирович": 37,
-      "Морозов Александр Николаевич": 116,
-      "Платонов Николай Владимирович": 19,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 22
+      "gas:candidate-vibid:2352000919662": 129,
+      "gas:candidate-vibid:2352000920492": 27,
+      "gas:candidate-vibid:2352000920548": 33,
+      "gas:candidate-vibid:2352000916186": 167,
+      "gas:candidate-vibid:2352000920509": 544,
+      "gas:candidate-vibid:2352000991498": 37,
+      "gas:candidate-vibid:2352000918235": 116,
+      "gas:candidate-vibid:2352000991587": 19,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7438,16 +7438,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 115,
-      "Гончарова Снежана Сергеевна": 44,
-      "Горин Николай Валентинович": 50,
-      "Громов Илья Сергеевич": 191,
-      "Канаев Алексей Валерианович": 558,
-      "Катасонов Сергей Владимирович": 68,
-      "Морозов Александр Николаевич": 133,
-      "Платонов Николай Владимирович": 16,
-      "Протасов Александр Анатольевич": 28,
-      "Трубицина Лариса Сергеевна": 36
+      "gas:candidate-vibid:2352000919662": 115,
+      "gas:candidate-vibid:2352000920492": 44,
+      "gas:candidate-vibid:2352000920548": 50,
+      "gas:candidate-vibid:2352000916186": 191,
+      "gas:candidate-vibid:2352000920509": 558,
+      "gas:candidate-vibid:2352000991498": 68,
+      "gas:candidate-vibid:2352000918235": 133,
+      "gas:candidate-vibid:2352000991587": 16,
+      "gas:candidate-vibid:2352000918215": 28,
+      "gas:candidate-vibid:2352000991564": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7498,16 +7498,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 106,
-      "Гончарова Снежана Сергеевна": 41,
-      "Горин Николай Валентинович": 33,
-      "Громов Илья Сергеевич": 176,
-      "Канаев Алексей Валерианович": 456,
-      "Катасонов Сергей Владимирович": 36,
-      "Морозов Александр Николаевич": 128,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 25,
-      "Трубицина Лариса Сергеевна": 34
+      "gas:candidate-vibid:2352000919662": 106,
+      "gas:candidate-vibid:2352000920492": 41,
+      "gas:candidate-vibid:2352000920548": 33,
+      "gas:candidate-vibid:2352000916186": 176,
+      "gas:candidate-vibid:2352000920509": 456,
+      "gas:candidate-vibid:2352000991498": 36,
+      "gas:candidate-vibid:2352000918235": 128,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 25,
+      "gas:candidate-vibid:2352000991564": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7558,16 +7558,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 119,
-      "Гончарова Снежана Сергеевна": 38,
-      "Горин Николай Валентинович": 41,
-      "Громов Илья Сергеевич": 203,
-      "Канаев Алексей Валерианович": 573,
-      "Катасонов Сергей Владимирович": 49,
-      "Морозов Александр Николаевич": 139,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 25
+      "gas:candidate-vibid:2352000919662": 119,
+      "gas:candidate-vibid:2352000920492": 38,
+      "gas:candidate-vibid:2352000920548": 41,
+      "gas:candidate-vibid:2352000916186": 203,
+      "gas:candidate-vibid:2352000920509": 573,
+      "gas:candidate-vibid:2352000991498": 49,
+      "gas:candidate-vibid:2352000918235": 139,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7618,16 +7618,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 110,
-      "Гончарова Снежана Сергеевна": 29,
-      "Горин Николай Валентинович": 26,
-      "Громов Илья Сергеевич": 179,
-      "Канаев Алексей Валерианович": 493,
-      "Катасонов Сергей Владимирович": 47,
-      "Морозов Александр Николаевич": 130,
-      "Платонов Николай Владимирович": 11,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 34
+      "gas:candidate-vibid:2352000919662": 110,
+      "gas:candidate-vibid:2352000920492": 29,
+      "gas:candidate-vibid:2352000920548": 26,
+      "gas:candidate-vibid:2352000916186": 179,
+      "gas:candidate-vibid:2352000920509": 493,
+      "gas:candidate-vibid:2352000991498": 47,
+      "gas:candidate-vibid:2352000918235": 130,
+      "gas:candidate-vibid:2352000991587": 11,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7678,16 +7678,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 101,
-      "Гончарова Снежана Сергеевна": 48,
-      "Горин Николай Валентинович": 28,
-      "Громов Илья Сергеевич": 168,
-      "Канаев Алексей Валерианович": 517,
-      "Катасонов Сергей Владимирович": 30,
-      "Морозов Александр Николаевич": 99,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 101,
+      "gas:candidate-vibid:2352000920492": 48,
+      "gas:candidate-vibid:2352000920548": 28,
+      "gas:candidate-vibid:2352000916186": 168,
+      "gas:candidate-vibid:2352000920509": 517,
+      "gas:candidate-vibid:2352000991498": 30,
+      "gas:candidate-vibid:2352000918235": 99,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7738,16 +7738,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 95,
-      "Гончарова Снежана Сергеевна": 42,
-      "Горин Николай Валентинович": 39,
-      "Громов Илья Сергеевич": 155,
-      "Канаев Алексей Валерианович": 405,
-      "Катасонов Сергей Владимирович": 41,
-      "Морозов Александр Николаевич": 143,
-      "Платонов Николай Владимирович": 14,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 24
+      "gas:candidate-vibid:2352000919662": 95,
+      "gas:candidate-vibid:2352000920492": 42,
+      "gas:candidate-vibid:2352000920548": 39,
+      "gas:candidate-vibid:2352000916186": 155,
+      "gas:candidate-vibid:2352000920509": 405,
+      "gas:candidate-vibid:2352000991498": 41,
+      "gas:candidate-vibid:2352000918235": 143,
+      "gas:candidate-vibid:2352000991587": 14,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7798,16 +7798,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 83,
-      "Гончарова Снежана Сергеевна": 35,
-      "Горин Николай Валентинович": 21,
-      "Громов Илья Сергеевич": 141,
-      "Канаев Алексей Валерианович": 409,
-      "Катасонов Сергей Владимирович": 45,
-      "Морозов Александр Николаевич": 127,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 83,
+      "gas:candidate-vibid:2352000920492": 35,
+      "gas:candidate-vibid:2352000920548": 21,
+      "gas:candidate-vibid:2352000916186": 141,
+      "gas:candidate-vibid:2352000920509": 409,
+      "gas:candidate-vibid:2352000991498": 45,
+      "gas:candidate-vibid:2352000918235": 127,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7858,16 +7858,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 132,
-      "Гончарова Снежана Сергеевна": 22,
-      "Горин Николай Валентинович": 29,
-      "Громов Илья Сергеевич": 174,
-      "Канаев Алексей Валерианович": 539,
-      "Катасонов Сергей Владимирович": 33,
-      "Морозов Александр Николаевич": 119,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 23
+      "gas:candidate-vibid:2352000919662": 132,
+      "gas:candidate-vibid:2352000920492": 22,
+      "gas:candidate-vibid:2352000920548": 29,
+      "gas:candidate-vibid:2352000916186": 174,
+      "gas:candidate-vibid:2352000920509": 539,
+      "gas:candidate-vibid:2352000991498": 33,
+      "gas:candidate-vibid:2352000918235": 119,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7918,16 +7918,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 103,
-      "Гончарова Снежана Сергеевна": 38,
-      "Горин Николай Валентинович": 30,
-      "Громов Илья Сергеевич": 131,
-      "Канаев Алексей Валерианович": 409,
-      "Катасонов Сергей Владимирович": 44,
-      "Морозов Александр Николаевич": 121,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 28
+      "gas:candidate-vibid:2352000919662": 103,
+      "gas:candidate-vibid:2352000920492": 38,
+      "gas:candidate-vibid:2352000920548": 30,
+      "gas:candidate-vibid:2352000916186": 131,
+      "gas:candidate-vibid:2352000920509": 409,
+      "gas:candidate-vibid:2352000991498": 44,
+      "gas:candidate-vibid:2352000918235": 121,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -7978,16 +7978,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 114,
-      "Гончарова Снежана Сергеевна": 43,
-      "Горин Николай Валентинович": 28,
-      "Громов Илья Сергеевич": 204,
-      "Канаев Алексей Валерианович": 693,
-      "Катасонов Сергей Владимирович": 44,
-      "Морозов Александр Николаевич": 114,
-      "Платонов Николай Владимирович": 16,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 24
+      "gas:candidate-vibid:2352000919662": 114,
+      "gas:candidate-vibid:2352000920492": 43,
+      "gas:candidate-vibid:2352000920548": 28,
+      "gas:candidate-vibid:2352000916186": 204,
+      "gas:candidate-vibid:2352000920509": 693,
+      "gas:candidate-vibid:2352000991498": 44,
+      "gas:candidate-vibid:2352000918235": 114,
+      "gas:candidate-vibid:2352000991587": 16,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8038,16 +8038,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 94,
-      "Гончарова Снежана Сергеевна": 34,
-      "Горин Николай Валентинович": 27,
-      "Громов Илья Сергеевич": 149,
-      "Канаев Алексей Валерианович": 565,
-      "Катасонов Сергей Владимирович": 37,
-      "Морозов Александр Николаевич": 122,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 36
+      "gas:candidate-vibid:2352000919662": 94,
+      "gas:candidate-vibid:2352000920492": 34,
+      "gas:candidate-vibid:2352000920548": 27,
+      "gas:candidate-vibid:2352000916186": 149,
+      "gas:candidate-vibid:2352000920509": 565,
+      "gas:candidate-vibid:2352000991498": 37,
+      "gas:candidate-vibid:2352000918235": 122,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8098,16 +8098,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 88,
-      "Гончарова Снежана Сергеевна": 41,
-      "Горин Николай Валентинович": 24,
-      "Громов Илья Сергеевич": 151,
-      "Канаев Алексей Валерианович": 503,
-      "Катасонов Сергей Владимирович": 32,
-      "Морозов Александр Николаевич": 105,
-      "Платонов Николай Владимирович": 15,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 26
+      "gas:candidate-vibid:2352000919662": 88,
+      "gas:candidate-vibid:2352000920492": 41,
+      "gas:candidate-vibid:2352000920548": 24,
+      "gas:candidate-vibid:2352000916186": 151,
+      "gas:candidate-vibid:2352000920509": 503,
+      "gas:candidate-vibid:2352000991498": 32,
+      "gas:candidate-vibid:2352000918235": 105,
+      "gas:candidate-vibid:2352000991587": 15,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8158,16 +8158,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 90,
-      "Гончарова Снежана Сергеевна": 31,
-      "Горин Николай Валентинович": 46,
-      "Громов Илья Сергеевич": 162,
-      "Канаев Алексей Валерианович": 494,
-      "Катасонов Сергей Владимирович": 60,
-      "Морозов Александр Николаевич": 142,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 22
+      "gas:candidate-vibid:2352000919662": 90,
+      "gas:candidate-vibid:2352000920492": 31,
+      "gas:candidate-vibid:2352000920548": 46,
+      "gas:candidate-vibid:2352000916186": 162,
+      "gas:candidate-vibid:2352000920509": 494,
+      "gas:candidate-vibid:2352000991498": 60,
+      "gas:candidate-vibid:2352000918235": 142,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8218,16 +8218,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 110,
-      "Гончарова Снежана Сергеевна": 48,
-      "Горин Николай Валентинович": 38,
-      "Громов Илья Сергеевич": 143,
-      "Канаев Алексей Валерианович": 538,
-      "Катасонов Сергей Владимирович": 48,
-      "Морозов Александр Николаевич": 136,
-      "Платонов Николай Владимирович": 13,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 36
+      "gas:candidate-vibid:2352000919662": 110,
+      "gas:candidate-vibid:2352000920492": 48,
+      "gas:candidate-vibid:2352000920548": 38,
+      "gas:candidate-vibid:2352000916186": 143,
+      "gas:candidate-vibid:2352000920509": 538,
+      "gas:candidate-vibid:2352000991498": 48,
+      "gas:candidate-vibid:2352000918235": 136,
+      "gas:candidate-vibid:2352000991587": 13,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8278,16 +8278,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 93,
-      "Гончарова Снежана Сергеевна": 40,
-      "Горин Николай Валентинович": 38,
-      "Громов Илья Сергеевич": 127,
-      "Канаев Алексей Валерианович": 431,
-      "Катасонов Сергей Владимирович": 49,
-      "Морозов Александр Николаевич": 119,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 28
+      "gas:candidate-vibid:2352000919662": 93,
+      "gas:candidate-vibid:2352000920492": 40,
+      "gas:candidate-vibid:2352000920548": 38,
+      "gas:candidate-vibid:2352000916186": 127,
+      "gas:candidate-vibid:2352000920509": 431,
+      "gas:candidate-vibid:2352000991498": 49,
+      "gas:candidate-vibid:2352000918235": 119,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8338,16 +8338,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 128,
-      "Гончарова Снежана Сергеевна": 30,
-      "Горин Николай Валентинович": 14,
-      "Громов Илья Сергеевич": 123,
-      "Канаев Алексей Валерианович": 376,
-      "Катасонов Сергей Владимирович": 25,
-      "Морозов Александр Николаевич": 95,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 128,
+      "gas:candidate-vibid:2352000920492": 30,
+      "gas:candidate-vibid:2352000920548": 14,
+      "gas:candidate-vibid:2352000916186": 123,
+      "gas:candidate-vibid:2352000920509": 376,
+      "gas:candidate-vibid:2352000991498": 25,
+      "gas:candidate-vibid:2352000918235": 95,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8398,16 +8398,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 109,
-      "Гончарова Снежана Сергеевна": 30,
-      "Горин Николай Валентинович": 16,
-      "Громов Илья Сергеевич": 126,
-      "Канаев Алексей Валерианович": 369,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 103,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 12,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 109,
+      "gas:candidate-vibid:2352000920492": 30,
+      "gas:candidate-vibid:2352000920548": 16,
+      "gas:candidate-vibid:2352000916186": 126,
+      "gas:candidate-vibid:2352000920509": 369,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 103,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 12,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8458,16 +8458,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 109,
-      "Гончарова Снежана Сергеевна": 28,
-      "Горин Николай Валентинович": 28,
-      "Громов Илья Сергеевич": 141,
-      "Канаев Алексей Валерианович": 381,
-      "Катасонов Сергей Владимирович": 30,
-      "Морозов Александр Николаевич": 89,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 109,
+      "gas:candidate-vibid:2352000920492": 28,
+      "gas:candidate-vibid:2352000920548": 28,
+      "gas:candidate-vibid:2352000916186": 141,
+      "gas:candidate-vibid:2352000920509": 381,
+      "gas:candidate-vibid:2352000991498": 30,
+      "gas:candidate-vibid:2352000918235": 89,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8518,16 +8518,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 98,
-      "Гончарова Снежана Сергеевна": 18,
-      "Горин Николай Валентинович": 27,
-      "Громов Илья Сергеевич": 131,
-      "Канаев Алексей Валерианович": 403,
-      "Катасонов Сергей Владимирович": 16,
-      "Морозов Александр Николаевич": 89,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 17
+      "gas:candidate-vibid:2352000919662": 98,
+      "gas:candidate-vibid:2352000920492": 18,
+      "gas:candidate-vibid:2352000920548": 27,
+      "gas:candidate-vibid:2352000916186": 131,
+      "gas:candidate-vibid:2352000920509": 403,
+      "gas:candidate-vibid:2352000991498": 16,
+      "gas:candidate-vibid:2352000918235": 89,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8578,16 +8578,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 120,
-      "Гончарова Снежана Сергеевна": 29,
-      "Горин Николай Валентинович": 25,
-      "Громов Илья Сергеевич": 125,
-      "Канаев Алексей Валерианович": 383,
-      "Катасонов Сергей Владимирович": 20,
-      "Морозов Александр Николаевич": 91,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 10
+      "gas:candidate-vibid:2352000919662": 120,
+      "gas:candidate-vibid:2352000920492": 29,
+      "gas:candidate-vibid:2352000920548": 25,
+      "gas:candidate-vibid:2352000916186": 125,
+      "gas:candidate-vibid:2352000920509": 383,
+      "gas:candidate-vibid:2352000991498": 20,
+      "gas:candidate-vibid:2352000918235": 91,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8638,16 +8638,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 92,
-      "Гончарова Снежана Сергеевна": 31,
-      "Горин Николай Валентинович": 22,
-      "Громов Илья Сергеевич": 156,
-      "Канаев Алексей Валерианович": 362,
-      "Катасонов Сергей Владимирович": 15,
-      "Морозов Александр Николаевич": 76,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 92,
+      "gas:candidate-vibid:2352000920492": 31,
+      "gas:candidate-vibid:2352000920548": 22,
+      "gas:candidate-vibid:2352000916186": 156,
+      "gas:candidate-vibid:2352000920509": 362,
+      "gas:candidate-vibid:2352000991498": 15,
+      "gas:candidate-vibid:2352000918235": 76,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8698,16 +8698,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 116,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 18,
-      "Громов Илья Сергеевич": 122,
-      "Канаев Алексей Валерианович": 260,
-      "Катасонов Сергей Владимирович": 7,
-      "Морозов Александр Николаевич": 74,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 18,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 116,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 18,
+      "gas:candidate-vibid:2352000916186": 122,
+      "gas:candidate-vibid:2352000920509": 260,
+      "gas:candidate-vibid:2352000991498": 7,
+      "gas:candidate-vibid:2352000918235": 74,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 18,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8758,16 +8758,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 77,
-      "Гончарова Снежана Сергеевна": 17,
-      "Горин Николай Валентинович": 14,
-      "Громов Илья Сергеевич": 126,
-      "Канаев Алексей Валерианович": 317,
-      "Катасонов Сергей Владимирович": 14,
-      "Морозов Александр Николаевич": 44,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 14
+      "gas:candidate-vibid:2352000919662": 77,
+      "gas:candidate-vibid:2352000920492": 17,
+      "gas:candidate-vibid:2352000920548": 14,
+      "gas:candidate-vibid:2352000916186": 126,
+      "gas:candidate-vibid:2352000920509": 317,
+      "gas:candidate-vibid:2352000991498": 14,
+      "gas:candidate-vibid:2352000918235": 44,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8818,16 +8818,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 80,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 15,
-      "Громов Илья Сергеевич": 108,
-      "Канаев Алексей Валерианович": 307,
-      "Катасонов Сергей Владимирович": 10,
-      "Морозов Александр Николаевич": 71,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 80,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 15,
+      "gas:candidate-vibid:2352000916186": 108,
+      "gas:candidate-vibid:2352000920509": 307,
+      "gas:candidate-vibid:2352000991498": 10,
+      "gas:candidate-vibid:2352000918235": 71,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8878,16 +8878,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 40,
-      "Гончарова Снежана Сергеевна": 27,
-      "Горин Николай Валентинович": 34,
-      "Громов Илья Сергеевич": 68,
-      "Канаев Алексей Валерианович": 240,
-      "Катасонов Сергей Владимирович": 15,
-      "Морозов Александр Николаевич": 57,
-      "Платонов Николай Владимирович": 15,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 29
+      "gas:candidate-vibid:2352000919662": 40,
+      "gas:candidate-vibid:2352000920492": 27,
+      "gas:candidate-vibid:2352000920548": 34,
+      "gas:candidate-vibid:2352000916186": 68,
+      "gas:candidate-vibid:2352000920509": 240,
+      "gas:candidate-vibid:2352000991498": 15,
+      "gas:candidate-vibid:2352000918235": 57,
+      "gas:candidate-vibid:2352000991587": 15,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8938,16 +8938,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 95,
-      "Гончарова Снежана Сергеевна": 21,
-      "Горин Николай Валентинович": 22,
-      "Громов Илья Сергеевич": 155,
-      "Канаев Алексей Валерианович": 398,
-      "Катасонов Сергей Владимирович": 16,
-      "Морозов Александр Николаевич": 88,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 29,
-      "Трубицина Лариса Сергеевна": 19
+      "gas:candidate-vibid:2352000919662": 95,
+      "gas:candidate-vibid:2352000920492": 21,
+      "gas:candidate-vibid:2352000920548": 22,
+      "gas:candidate-vibid:2352000916186": 155,
+      "gas:candidate-vibid:2352000920509": 398,
+      "gas:candidate-vibid:2352000991498": 16,
+      "gas:candidate-vibid:2352000918235": 88,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 29,
+      "gas:candidate-vibid:2352000991564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -8998,16 +8998,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 80,
-      "Гончарова Снежана Сергеевна": 28,
-      "Горин Николай Валентинович": 27,
-      "Громов Илья Сергеевич": 162,
-      "Канаев Алексей Валерианович": 387,
-      "Катасонов Сергей Владимирович": 8,
-      "Морозов Александр Николаевич": 89,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 20
+      "gas:candidate-vibid:2352000919662": 80,
+      "gas:candidate-vibid:2352000920492": 28,
+      "gas:candidate-vibid:2352000920548": 27,
+      "gas:candidate-vibid:2352000916186": 162,
+      "gas:candidate-vibid:2352000920509": 387,
+      "gas:candidate-vibid:2352000991498": 8,
+      "gas:candidate-vibid:2352000918235": 89,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9058,16 +9058,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 93,
-      "Гончарова Снежана Сергеевна": 29,
-      "Горин Николай Валентинович": 32,
-      "Громов Илья Сергеевич": 119,
-      "Канаев Алексей Валерианович": 337,
-      "Катасонов Сергей Владимирович": 23,
-      "Морозов Александр Николаевич": 73,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 22,
-      "Трубицина Лариса Сергеевна": 26
+      "gas:candidate-vibid:2352000919662": 93,
+      "gas:candidate-vibid:2352000920492": 29,
+      "gas:candidate-vibid:2352000920548": 32,
+      "gas:candidate-vibid:2352000916186": 119,
+      "gas:candidate-vibid:2352000920509": 337,
+      "gas:candidate-vibid:2352000991498": 23,
+      "gas:candidate-vibid:2352000918235": 73,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 22,
+      "gas:candidate-vibid:2352000991564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9118,16 +9118,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 92,
-      "Гончарова Снежана Сергеевна": 28,
-      "Горин Николай Валентинович": 48,
-      "Громов Илья Сергеевич": 128,
-      "Канаев Алексей Валерианович": 393,
-      "Катасонов Сергей Владимирович": 33,
-      "Морозов Александр Николаевич": 132,
-      "Платонов Николай Владимирович": 16,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 28
+      "gas:candidate-vibid:2352000919662": 92,
+      "gas:candidate-vibid:2352000920492": 28,
+      "gas:candidate-vibid:2352000920548": 48,
+      "gas:candidate-vibid:2352000916186": 128,
+      "gas:candidate-vibid:2352000920509": 393,
+      "gas:candidate-vibid:2352000991498": 33,
+      "gas:candidate-vibid:2352000918235": 132,
+      "gas:candidate-vibid:2352000991587": 16,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9178,16 +9178,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 53,
-      "Гончарова Снежана Сергеевна": 23,
-      "Горин Николай Валентинович": 14,
-      "Громов Илья Сергеевич": 109,
-      "Канаев Алексей Валерианович": 237,
-      "Катасонов Сергей Владимирович": 10,
-      "Морозов Александр Николаевич": 47,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 12,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 53,
+      "gas:candidate-vibid:2352000920492": 23,
+      "gas:candidate-vibid:2352000920548": 14,
+      "gas:candidate-vibid:2352000916186": 109,
+      "gas:candidate-vibid:2352000920509": 237,
+      "gas:candidate-vibid:2352000991498": 10,
+      "gas:candidate-vibid:2352000918235": 47,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 12,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9238,16 +9238,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 62,
-      "Гончарова Снежана Сергеевна": 21,
-      "Горин Николай Валентинович": 16,
-      "Громов Илья Сергеевич": 147,
-      "Канаев Алексей Валерианович": 275,
-      "Катасонов Сергей Владимирович": 22,
-      "Морозов Александр Николаевич": 65,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 11,
-      "Трубицина Лариса Сергеевна": 20
+      "gas:candidate-vibid:2352000919662": 62,
+      "gas:candidate-vibid:2352000920492": 21,
+      "gas:candidate-vibid:2352000920548": 16,
+      "gas:candidate-vibid:2352000916186": 147,
+      "gas:candidate-vibid:2352000920509": 275,
+      "gas:candidate-vibid:2352000991498": 22,
+      "gas:candidate-vibid:2352000918235": 65,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 11,
+      "gas:candidate-vibid:2352000991564": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9298,16 +9298,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 79,
-      "Гончарова Снежана Сергеевна": 29,
-      "Горин Николай Валентинович": 36,
-      "Громов Илья Сергеевич": 115,
-      "Канаев Алексей Валерианович": 280,
-      "Катасонов Сергей Владимирович": 33,
-      "Морозов Александр Николаевич": 135,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 18,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 79,
+      "gas:candidate-vibid:2352000920492": 29,
+      "gas:candidate-vibid:2352000920548": 36,
+      "gas:candidate-vibid:2352000916186": 115,
+      "gas:candidate-vibid:2352000920509": 280,
+      "gas:candidate-vibid:2352000991498": 33,
+      "gas:candidate-vibid:2352000918235": 135,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 18,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9358,16 +9358,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 106,
-      "Гончарова Снежана Сергеевна": 36,
-      "Горин Николай Валентинович": 31,
-      "Громов Илья Сергеевич": 105,
-      "Канаев Алексей Валерианович": 354,
-      "Катасонов Сергей Владимирович": 24,
-      "Морозов Александр Николаевич": 95,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 106,
+      "gas:candidate-vibid:2352000920492": 36,
+      "gas:candidate-vibid:2352000920548": 31,
+      "gas:candidate-vibid:2352000916186": 105,
+      "gas:candidate-vibid:2352000920509": 354,
+      "gas:candidate-vibid:2352000991498": 24,
+      "gas:candidate-vibid:2352000918235": 95,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9418,16 +9418,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 81,
-      "Гончарова Снежана Сергеевна": 22,
-      "Горин Николай Валентинович": 43,
-      "Громов Илья Сергеевич": 101,
-      "Канаев Алексей Валерианович": 326,
-      "Катасонов Сергей Владимирович": 22,
-      "Морозов Александр Николаевич": 101,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 20
+      "gas:candidate-vibid:2352000919662": 81,
+      "gas:candidate-vibid:2352000920492": 22,
+      "gas:candidate-vibid:2352000920548": 43,
+      "gas:candidate-vibid:2352000916186": 101,
+      "gas:candidate-vibid:2352000920509": 326,
+      "gas:candidate-vibid:2352000991498": 22,
+      "gas:candidate-vibid:2352000918235": 101,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9478,16 +9478,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 89,
-      "Гончарова Снежана Сергеевна": 18,
-      "Горин Николай Валентинович": 27,
-      "Громов Илья Сергеевич": 105,
-      "Канаев Алексей Валерианович": 307,
-      "Катасонов Сергей Владимирович": 19,
-      "Морозов Александр Николаевич": 95,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 13
+      "gas:candidate-vibid:2352000919662": 89,
+      "gas:candidate-vibid:2352000920492": 18,
+      "gas:candidate-vibid:2352000920548": 27,
+      "gas:candidate-vibid:2352000916186": 105,
+      "gas:candidate-vibid:2352000920509": 307,
+      "gas:candidate-vibid:2352000991498": 19,
+      "gas:candidate-vibid:2352000918235": 95,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9538,16 +9538,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 113,
-      "Гончарова Снежана Сергеевна": 27,
-      "Горин Николай Валентинович": 19,
-      "Громов Илья Сергеевич": 100,
-      "Канаев Алексей Валерианович": 387,
-      "Катасонов Сергей Владимирович": 24,
-      "Морозов Александр Николаевич": 104,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 113,
+      "gas:candidate-vibid:2352000920492": 27,
+      "gas:candidate-vibid:2352000920548": 19,
+      "gas:candidate-vibid:2352000916186": 100,
+      "gas:candidate-vibid:2352000920509": 387,
+      "gas:candidate-vibid:2352000991498": 24,
+      "gas:candidate-vibid:2352000918235": 104,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9598,16 +9598,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 100,
-      "Гончарова Снежана Сергеевна": 22,
-      "Горин Николай Валентинович": 28,
-      "Громов Илья Сергеевич": 99,
-      "Канаев Алексей Валерианович": 281,
-      "Катасонов Сергей Владимирович": 11,
-      "Морозов Александр Николаевич": 125,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 22,
-      "Трубицина Лариса Сергеевна": 11
+      "gas:candidate-vibid:2352000919662": 100,
+      "gas:candidate-vibid:2352000920492": 22,
+      "gas:candidate-vibid:2352000920548": 28,
+      "gas:candidate-vibid:2352000916186": 99,
+      "gas:candidate-vibid:2352000920509": 281,
+      "gas:candidate-vibid:2352000991498": 11,
+      "gas:candidate-vibid:2352000918235": 125,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 22,
+      "gas:candidate-vibid:2352000991564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9658,16 +9658,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 109,
-      "Гончарова Снежана Сергеевна": 23,
-      "Горин Николай Валентинович": 18,
-      "Громов Илья Сергеевич": 130,
-      "Канаев Алексей Валерианович": 355,
-      "Катасонов Сергей Владимирович": 18,
-      "Морозов Александр Николаевич": 110,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 17
+      "gas:candidate-vibid:2352000919662": 109,
+      "gas:candidate-vibid:2352000920492": 23,
+      "gas:candidate-vibid:2352000920548": 18,
+      "gas:candidate-vibid:2352000916186": 130,
+      "gas:candidate-vibid:2352000920509": 355,
+      "gas:candidate-vibid:2352000991498": 18,
+      "gas:candidate-vibid:2352000918235": 110,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9718,16 +9718,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 34,
-      "Гончарова Снежана Сергеевна": 13,
-      "Горин Николай Валентинович": 8,
-      "Громов Илья Сергеевич": 63,
-      "Канаев Алексей Валерианович": 132,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 39,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 13
+      "gas:candidate-vibid:2352000919662": 34,
+      "gas:candidate-vibid:2352000920492": 13,
+      "gas:candidate-vibid:2352000920548": 8,
+      "gas:candidate-vibid:2352000916186": 63,
+      "gas:candidate-vibid:2352000920509": 132,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 39,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9778,16 +9778,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 130,
-      "Гончарова Снежана Сергеевна": 41,
-      "Горин Николай Валентинович": 38,
-      "Громов Илья Сергеевич": 150,
-      "Канаев Алексей Валерианович": 475,
-      "Катасонов Сергей Владимирович": 27,
-      "Морозов Александр Николаевич": 155,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 22,
-      "Трубицина Лариса Сергеевна": 19
+      "gas:candidate-vibid:2352000919662": 130,
+      "gas:candidate-vibid:2352000920492": 41,
+      "gas:candidate-vibid:2352000920548": 38,
+      "gas:candidate-vibid:2352000916186": 150,
+      "gas:candidate-vibid:2352000920509": 475,
+      "gas:candidate-vibid:2352000991498": 27,
+      "gas:candidate-vibid:2352000918235": 155,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 22,
+      "gas:candidate-vibid:2352000991564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9838,16 +9838,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 47,
-      "Гончарова Снежана Сергеевна": 26,
-      "Горин Николай Валентинович": 34,
-      "Громов Илья Сергеевич": 65,
-      "Канаев Алексей Валерианович": 297,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 77,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 34
+      "gas:candidate-vibid:2352000919662": 47,
+      "gas:candidate-vibid:2352000920492": 26,
+      "gas:candidate-vibid:2352000920548": 34,
+      "gas:candidate-vibid:2352000916186": 65,
+      "gas:candidate-vibid:2352000920509": 297,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 77,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9898,16 +9898,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 118,
-      "Гончарова Снежана Сергеевна": 25,
-      "Горин Николай Валентинович": 46,
-      "Громов Илья Сергеевич": 114,
-      "Канаев Алексей Валерианович": 373,
-      "Катасонов Сергей Владимирович": 45,
-      "Морозов Александр Николаевич": 126,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 26
+      "gas:candidate-vibid:2352000919662": 118,
+      "gas:candidate-vibid:2352000920492": 25,
+      "gas:candidate-vibid:2352000920548": 46,
+      "gas:candidate-vibid:2352000916186": 114,
+      "gas:candidate-vibid:2352000920509": 373,
+      "gas:candidate-vibid:2352000991498": 45,
+      "gas:candidate-vibid:2352000918235": 126,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -9958,16 +9958,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 75,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 18,
-      "Громов Илья Сергеевич": 115,
-      "Канаев Алексей Валерианович": 353,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 94,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 8
+      "gas:candidate-vibid:2352000919662": 75,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 18,
+      "gas:candidate-vibid:2352000916186": 115,
+      "gas:candidate-vibid:2352000920509": 353,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 94,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10018,16 +10018,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 23,
-      "Гончарова Снежана Сергеевна": 19,
-      "Горин Николай Валентинович": 17,
-      "Громов Илья Сергеевич": 51,
-      "Канаев Алексей Валерианович": 180,
-      "Катасонов Сергей Владимирович": 16,
-      "Морозов Александр Николаевич": 61,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 36
+      "gas:candidate-vibid:2352000919662": 23,
+      "gas:candidate-vibid:2352000920492": 19,
+      "gas:candidate-vibid:2352000920548": 17,
+      "gas:candidate-vibid:2352000916186": 51,
+      "gas:candidate-vibid:2352000920509": 180,
+      "gas:candidate-vibid:2352000991498": 16,
+      "gas:candidate-vibid:2352000918235": 61,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10078,16 +10078,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 123,
-      "Гончарова Снежана Сергеевна": 27,
-      "Горин Николай Валентинович": 41,
-      "Громов Илья Сергеевич": 105,
-      "Канаев Алексей Валерианович": 341,
-      "Катасонов Сергей Владимирович": 35,
-      "Морозов Александр Николаевич": 96,
-      "Платонов Николай Владимирович": 11,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 23
+      "gas:candidate-vibid:2352000919662": 123,
+      "gas:candidate-vibid:2352000920492": 27,
+      "gas:candidate-vibid:2352000920548": 41,
+      "gas:candidate-vibid:2352000916186": 105,
+      "gas:candidate-vibid:2352000920509": 341,
+      "gas:candidate-vibid:2352000991498": 35,
+      "gas:candidate-vibid:2352000918235": 96,
+      "gas:candidate-vibid:2352000991587": 11,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10138,16 +10138,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 134,
-      "Гончарова Снежана Сергеевна": 37,
-      "Горин Николай Валентинович": 37,
-      "Громов Илья Сергеевич": 96,
-      "Канаев Алексей Валерианович": 403,
-      "Катасонов Сергей Владимирович": 43,
-      "Морозов Александр Николаевич": 127,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 24,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 134,
+      "gas:candidate-vibid:2352000920492": 37,
+      "gas:candidate-vibid:2352000920548": 37,
+      "gas:candidate-vibid:2352000916186": 96,
+      "gas:candidate-vibid:2352000920509": 403,
+      "gas:candidate-vibid:2352000991498": 43,
+      "gas:candidate-vibid:2352000918235": 127,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 24,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10198,16 +10198,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 129,
-      "Гончарова Снежана Сергеевна": 39,
-      "Горин Николай Валентинович": 37,
-      "Громов Илья Сергеевич": 139,
-      "Канаев Алексей Валерианович": 405,
-      "Катасонов Сергей Владимирович": 31,
-      "Морозов Александр Николаевич": 143,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 29,
-      "Трубицина Лариса Сергеевна": 17
+      "gas:candidate-vibid:2352000919662": 129,
+      "gas:candidate-vibid:2352000920492": 39,
+      "gas:candidate-vibid:2352000920548": 37,
+      "gas:candidate-vibid:2352000916186": 139,
+      "gas:candidate-vibid:2352000920509": 405,
+      "gas:candidate-vibid:2352000991498": 31,
+      "gas:candidate-vibid:2352000918235": 143,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 29,
+      "gas:candidate-vibid:2352000991564": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10258,16 +10258,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 126,
-      "Гончарова Снежана Сергеевна": 34,
-      "Горин Николай Валентинович": 42,
-      "Громов Илья Сергеевич": 128,
-      "Канаев Алексей Валерианович": 439,
-      "Катасонов Сергей Владимирович": 34,
-      "Морозов Александр Николаевич": 143,
-      "Платонов Николай Владимирович": 13,
-      "Протасов Александр Анатольевич": 25,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 126,
+      "gas:candidate-vibid:2352000920492": 34,
+      "gas:candidate-vibid:2352000920548": 42,
+      "gas:candidate-vibid:2352000916186": 128,
+      "gas:candidate-vibid:2352000920509": 439,
+      "gas:candidate-vibid:2352000991498": 34,
+      "gas:candidate-vibid:2352000918235": 143,
+      "gas:candidate-vibid:2352000991587": 13,
+      "gas:candidate-vibid:2352000918215": 25,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10318,16 +10318,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 162,
-      "Гончарова Снежана Сергеевна": 35,
-      "Горин Николай Валентинович": 38,
-      "Громов Илья Сергеевич": 142,
-      "Канаев Алексей Валерианович": 476,
-      "Катасонов Сергей Владимирович": 39,
-      "Морозов Александр Николаевич": 110,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 23,
-      "Трубицина Лариса Сергеевна": 23
+      "gas:candidate-vibid:2352000919662": 162,
+      "gas:candidate-vibid:2352000920492": 35,
+      "gas:candidate-vibid:2352000920548": 38,
+      "gas:candidate-vibid:2352000916186": 142,
+      "gas:candidate-vibid:2352000920509": 476,
+      "gas:candidate-vibid:2352000991498": 39,
+      "gas:candidate-vibid:2352000918235": 110,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 23,
+      "gas:candidate-vibid:2352000991564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10378,16 +10378,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 140,
-      "Гончарова Снежана Сергеевна": 69,
-      "Горин Николай Валентинович": 43,
-      "Громов Илья Сергеевич": 184,
-      "Канаев Алексей Валерианович": 849,
-      "Катасонов Сергей Владимирович": 42,
-      "Морозов Александр Николаевич": 130,
-      "Платонов Николай Владимирович": 32,
-      "Протасов Александр Анатольевич": 26,
-      "Трубицина Лариса Сергеевна": 30
+      "gas:candidate-vibid:2352000919662": 140,
+      "gas:candidate-vibid:2352000920492": 69,
+      "gas:candidate-vibid:2352000920548": 43,
+      "gas:candidate-vibid:2352000916186": 184,
+      "gas:candidate-vibid:2352000920509": 849,
+      "gas:candidate-vibid:2352000991498": 42,
+      "gas:candidate-vibid:2352000918235": 130,
+      "gas:candidate-vibid:2352000991587": 32,
+      "gas:candidate-vibid:2352000918215": 26,
+      "gas:candidate-vibid:2352000991564": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10438,16 +10438,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 63,
-      "Гончарова Снежана Сергеевна": 16,
-      "Горин Николай Валентинович": 10,
-      "Громов Илья Сергеевич": 74,
-      "Канаев Алексей Валерианович": 175,
-      "Катасонов Сергей Владимирович": 7,
-      "Морозов Александр Николаевич": 49,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 8,
-      "Трубицина Лариса Сергеевна": 8
+      "gas:candidate-vibid:2352000919662": 63,
+      "gas:candidate-vibid:2352000920492": 16,
+      "gas:candidate-vibid:2352000920548": 10,
+      "gas:candidate-vibid:2352000916186": 74,
+      "gas:candidate-vibid:2352000920509": 175,
+      "gas:candidate-vibid:2352000991498": 7,
+      "gas:candidate-vibid:2352000918235": 49,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 8,
+      "gas:candidate-vibid:2352000991564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10498,16 +10498,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 94,
-      "Гончарова Снежана Сергеевна": 26,
-      "Горин Николай Валентинович": 21,
-      "Громов Илья Сергеевич": 149,
-      "Канаев Алексей Валерианович": 415,
-      "Катасонов Сергей Владимирович": 21,
-      "Морозов Александр Николаевич": 108,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 94,
+      "gas:candidate-vibid:2352000920492": 26,
+      "gas:candidate-vibid:2352000920548": 21,
+      "gas:candidate-vibid:2352000916186": 149,
+      "gas:candidate-vibid:2352000920509": 415,
+      "gas:candidate-vibid:2352000991498": 21,
+      "gas:candidate-vibid:2352000918235": 108,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10558,16 +10558,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 87,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 22,
-      "Громов Илья Сергеевич": 124,
-      "Канаев Алексей Валерианович": 482,
-      "Катасонов Сергей Владимирович": 20,
-      "Морозов Александр Николаевич": 109,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 13,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 87,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 22,
+      "gas:candidate-vibid:2352000916186": 124,
+      "gas:candidate-vibid:2352000920509": 482,
+      "gas:candidate-vibid:2352000991498": 20,
+      "gas:candidate-vibid:2352000918235": 109,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 13,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10618,16 +10618,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 60,
-      "Гончарова Снежана Сергеевна": 17,
-      "Горин Николай Валентинович": 22,
-      "Громов Илья Сергеевич": 92,
-      "Канаев Алексей Валерианович": 305,
-      "Катасонов Сергей Владимирович": 12,
-      "Морозов Александр Николаевич": 75,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 12,
-      "Трубицина Лариса Сергеевна": 10
+      "gas:candidate-vibid:2352000919662": 60,
+      "gas:candidate-vibid:2352000920492": 17,
+      "gas:candidate-vibid:2352000920548": 22,
+      "gas:candidate-vibid:2352000916186": 92,
+      "gas:candidate-vibid:2352000920509": 305,
+      "gas:candidate-vibid:2352000991498": 12,
+      "gas:candidate-vibid:2352000918235": 75,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 12,
+      "gas:candidate-vibid:2352000991564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10678,16 +10678,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 90,
-      "Гончарова Снежана Сергеевна": 25,
-      "Горин Николай Валентинович": 20,
-      "Громов Илья Сергеевич": 163,
-      "Канаев Алексей Валерианович": 417,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 135,
-      "Платонов Николай Владимирович": 11,
-      "Протасов Александр Анатольевич": 26,
-      "Трубицина Лариса Сергеевна": 19
+      "gas:candidate-vibid:2352000919662": 90,
+      "gas:candidate-vibid:2352000920492": 25,
+      "gas:candidate-vibid:2352000920548": 20,
+      "gas:candidate-vibid:2352000916186": 163,
+      "gas:candidate-vibid:2352000920509": 417,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 135,
+      "gas:candidate-vibid:2352000991587": 11,
+      "gas:candidate-vibid:2352000918215": 26,
+      "gas:candidate-vibid:2352000991564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10738,16 +10738,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 85,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 15,
-      "Громов Илья Сергеевич": 123,
-      "Канаев Алексей Валерианович": 345,
-      "Катасонов Сергей Владимирович": 20,
-      "Морозов Александр Николаевич": 105,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 12,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 85,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 15,
+      "gas:candidate-vibid:2352000916186": 123,
+      "gas:candidate-vibid:2352000920509": 345,
+      "gas:candidate-vibid:2352000991498": 20,
+      "gas:candidate-vibid:2352000918235": 105,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 12,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10798,16 +10798,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 108,
-      "Гончарова Снежана Сергеевна": 19,
-      "Горин Николай Валентинович": 24,
-      "Громов Илья Сергеевич": 146,
-      "Канаев Алексей Валерианович": 391,
-      "Катасонов Сергей Владимирович": 20,
-      "Морозов Александр Николаевич": 131,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 108,
+      "gas:candidate-vibid:2352000920492": 19,
+      "gas:candidate-vibid:2352000920548": 24,
+      "gas:candidate-vibid:2352000916186": 146,
+      "gas:candidate-vibid:2352000920509": 391,
+      "gas:candidate-vibid:2352000991498": 20,
+      "gas:candidate-vibid:2352000918235": 131,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10858,16 +10858,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 3,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 3,
-      "Канаев Алексей Валерианович": 25,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 2,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 0,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 3,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 3,
+      "gas:candidate-vibid:2352000920509": 25,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 2,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 0,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10918,16 +10918,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 112,
-      "Гончарова Снежана Сергеевна": 21,
-      "Горин Николай Валентинович": 18,
-      "Громов Илья Сергеевич": 127,
-      "Канаев Алексей Валерианович": 400,
-      "Катасонов Сергей Владимирович": 23,
-      "Морозов Александр Николаевич": 126,
-      "Платонов Николай Владимирович": 14,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 112,
+      "gas:candidate-vibid:2352000920492": 21,
+      "gas:candidate-vibid:2352000920548": 18,
+      "gas:candidate-vibid:2352000916186": 127,
+      "gas:candidate-vibid:2352000920509": 400,
+      "gas:candidate-vibid:2352000991498": 23,
+      "gas:candidate-vibid:2352000918235": 126,
+      "gas:candidate-vibid:2352000991587": 14,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -10978,16 +10978,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 80,
-      "Гончарова Снежана Сергеевна": 31,
-      "Горин Николай Валентинович": 16,
-      "Громов Илья Сергеевич": 117,
-      "Канаев Алексей Валерианович": 372,
-      "Катасонов Сергей Владимирович": 20,
-      "Морозов Александр Николаевич": 137,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 22,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 80,
+      "gas:candidate-vibid:2352000920492": 31,
+      "gas:candidate-vibid:2352000920548": 16,
+      "gas:candidate-vibid:2352000916186": 117,
+      "gas:candidate-vibid:2352000920509": 372,
+      "gas:candidate-vibid:2352000991498": 20,
+      "gas:candidate-vibid:2352000918235": 137,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 22,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11038,16 +11038,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 95,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 9,
-      "Громов Илья Сергеевич": 135,
-      "Канаев Алексей Валерианович": 410,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 114,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 15
+      "gas:candidate-vibid:2352000919662": 95,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 9,
+      "gas:candidate-vibid:2352000916186": 135,
+      "gas:candidate-vibid:2352000920509": 410,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 114,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11098,16 +11098,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 110,
-      "Гончарова Снежана Сергеевна": 27,
-      "Горин Николай Валентинович": 21,
-      "Громов Илья Сергеевич": 139,
-      "Канаев Алексей Валерианович": 338,
-      "Катасонов Сергей Владимирович": 26,
-      "Морозов Александр Николаевич": 118,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 9
+      "gas:candidate-vibid:2352000919662": 110,
+      "gas:candidate-vibid:2352000920492": 27,
+      "gas:candidate-vibid:2352000920548": 21,
+      "gas:candidate-vibid:2352000916186": 139,
+      "gas:candidate-vibid:2352000920509": 338,
+      "gas:candidate-vibid:2352000991498": 26,
+      "gas:candidate-vibid:2352000918235": 118,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11158,16 +11158,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 131,
-      "Гончарова Снежана Сергеевна": 32,
-      "Горин Николай Валентинович": 21,
-      "Громов Илья Сергеевич": 147,
-      "Канаев Алексей Валерианович": 377,
-      "Катасонов Сергей Владимирович": 10,
-      "Морозов Александр Николаевич": 109,
-      "Платонов Николай Владимирович": 11,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 19
+      "gas:candidate-vibid:2352000919662": 131,
+      "gas:candidate-vibid:2352000920492": 32,
+      "gas:candidate-vibid:2352000920548": 21,
+      "gas:candidate-vibid:2352000916186": 147,
+      "gas:candidate-vibid:2352000920509": 377,
+      "gas:candidate-vibid:2352000991498": 10,
+      "gas:candidate-vibid:2352000918235": 109,
+      "gas:candidate-vibid:2352000991587": 11,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11218,16 +11218,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 103,
-      "Гончарова Снежана Сергеевна": 30,
-      "Горин Николай Валентинович": 27,
-      "Громов Илья Сергеевич": 145,
-      "Канаев Алексей Валерианович": 412,
-      "Катасонов Сергей Владимирович": 22,
-      "Морозов Александр Николаевич": 136,
-      "Платонов Николай Владимирович": 15,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 17
+      "gas:candidate-vibid:2352000919662": 103,
+      "gas:candidate-vibid:2352000920492": 30,
+      "gas:candidate-vibid:2352000920548": 27,
+      "gas:candidate-vibid:2352000916186": 145,
+      "gas:candidate-vibid:2352000920509": 412,
+      "gas:candidate-vibid:2352000991498": 22,
+      "gas:candidate-vibid:2352000918235": 136,
+      "gas:candidate-vibid:2352000991587": 15,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11278,16 +11278,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 118,
-      "Гончарова Снежана Сергеевна": 33,
-      "Горин Николай Валентинович": 28,
-      "Громов Илья Сергеевич": 129,
-      "Канаев Алексей Валерианович": 409,
-      "Катасонов Сергей Владимирович": 27,
-      "Морозов Александр Николаевич": 114,
-      "Платонов Николай Владимирович": 11,
-      "Протасов Александр Анатольевич": 21,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 118,
+      "gas:candidate-vibid:2352000920492": 33,
+      "gas:candidate-vibid:2352000920548": 28,
+      "gas:candidate-vibid:2352000916186": 129,
+      "gas:candidate-vibid:2352000920509": 409,
+      "gas:candidate-vibid:2352000991498": 27,
+      "gas:candidate-vibid:2352000918235": 114,
+      "gas:candidate-vibid:2352000991587": 11,
+      "gas:candidate-vibid:2352000918215": 21,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11338,16 +11338,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 58,
-      "Гончарова Снежана Сергеевна": 35,
-      "Горин Николай Валентинович": 31,
-      "Громов Илья Сергеевич": 74,
-      "Канаев Алексей Валерианович": 342,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 93,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 36
+      "gas:candidate-vibid:2352000919662": 58,
+      "gas:candidate-vibid:2352000920492": 35,
+      "gas:candidate-vibid:2352000920548": 31,
+      "gas:candidate-vibid:2352000916186": 74,
+      "gas:candidate-vibid:2352000920509": 342,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 93,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11398,16 +11398,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 82,
-      "Гончарова Снежана Сергеевна": 23,
-      "Горин Николай Валентинович": 21,
-      "Громов Илья Сергеевич": 138,
-      "Канаев Алексей Валерианович": 360,
-      "Катасонов Сергей Владимирович": 17,
-      "Морозов Александр Николаевич": 121,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 82,
+      "gas:candidate-vibid:2352000920492": 23,
+      "gas:candidate-vibid:2352000920548": 21,
+      "gas:candidate-vibid:2352000916186": 138,
+      "gas:candidate-vibid:2352000920509": 360,
+      "gas:candidate-vibid:2352000991498": 17,
+      "gas:candidate-vibid:2352000918235": 121,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11458,16 +11458,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 137,
-      "Гончарова Снежана Сергеевна": 31,
-      "Горин Николай Валентинович": 41,
-      "Громов Илья Сергеевич": 117,
-      "Канаев Алексей Валерианович": 424,
-      "Катасонов Сергей Владимирович": 38,
-      "Морозов Александр Николаевич": 121,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 23,
-      "Трубицина Лариса Сергеевна": 14
+      "gas:candidate-vibid:2352000919662": 137,
+      "gas:candidate-vibid:2352000920492": 31,
+      "gas:candidate-vibid:2352000920548": 41,
+      "gas:candidate-vibid:2352000916186": 117,
+      "gas:candidate-vibid:2352000920509": 424,
+      "gas:candidate-vibid:2352000991498": 38,
+      "gas:candidate-vibid:2352000918235": 121,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 23,
+      "gas:candidate-vibid:2352000991564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11518,16 +11518,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 130,
-      "Гончарова Снежана Сергеевна": 19,
-      "Горин Николай Валентинович": 28,
-      "Громов Илья Сергеевич": 110,
-      "Канаев Алексей Валерианович": 446,
-      "Катасонов Сергей Владимирович": 13,
-      "Морозов Александр Николаевич": 133,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 22,
-      "Трубицина Лариса Сергеевна": 29
+      "gas:candidate-vibid:2352000919662": 130,
+      "gas:candidate-vibid:2352000920492": 19,
+      "gas:candidate-vibid:2352000920548": 28,
+      "gas:candidate-vibid:2352000916186": 110,
+      "gas:candidate-vibid:2352000920509": 446,
+      "gas:candidate-vibid:2352000991498": 13,
+      "gas:candidate-vibid:2352000918235": 133,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 22,
+      "gas:candidate-vibid:2352000991564": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11578,16 +11578,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 112,
-      "Гончарова Снежана Сергеевна": 24,
-      "Горин Николай Валентинович": 25,
-      "Громов Илья Сергеевич": 134,
-      "Канаев Алексей Валерианович": 353,
-      "Катасонов Сергей Владимирович": 32,
-      "Морозов Александр Николаевич": 115,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 22,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 112,
+      "gas:candidate-vibid:2352000920492": 24,
+      "gas:candidate-vibid:2352000920548": 25,
+      "gas:candidate-vibid:2352000916186": 134,
+      "gas:candidate-vibid:2352000920509": 353,
+      "gas:candidate-vibid:2352000991498": 32,
+      "gas:candidate-vibid:2352000918235": 115,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 22,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11638,16 +11638,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 32,
-      "Гончарова Снежана Сергеевна": 32,
-      "Горин Николай Валентинович": 15,
-      "Громов Илья Сергеевич": 59,
-      "Канаев Алексей Валерианович": 276,
-      "Катасонов Сергей Владимирович": 12,
-      "Морозов Александр Николаевич": 65,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 35
+      "gas:candidate-vibid:2352000919662": 32,
+      "gas:candidate-vibid:2352000920492": 32,
+      "gas:candidate-vibid:2352000920548": 15,
+      "gas:candidate-vibid:2352000916186": 59,
+      "gas:candidate-vibid:2352000920509": 276,
+      "gas:candidate-vibid:2352000991498": 12,
+      "gas:candidate-vibid:2352000918235": 65,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11698,16 +11698,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 33,
-      "Гончарова Снежана Сергеевна": 37,
-      "Горин Николай Валентинович": 17,
-      "Громов Илья Сергеевич": 65,
-      "Канаев Алексей Валерианович": 292,
-      "Катасонов Сергей Владимирович": 11,
-      "Морозов Александр Николаевич": 65,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 44
+      "gas:candidate-vibid:2352000919662": 33,
+      "gas:candidate-vibid:2352000920492": 37,
+      "gas:candidate-vibid:2352000920548": 17,
+      "gas:candidate-vibid:2352000916186": 65,
+      "gas:candidate-vibid:2352000920509": 292,
+      "gas:candidate-vibid:2352000991498": 11,
+      "gas:candidate-vibid:2352000918235": 65,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11758,16 +11758,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 81,
-      "Гончарова Снежана Сергеевна": 23,
-      "Горин Николай Валентинович": 29,
-      "Громов Илья Сергеевич": 121,
-      "Канаев Алексей Валерианович": 403,
-      "Катасонов Сергей Владимирович": 21,
-      "Морозов Александр Николаевич": 128,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 81,
+      "gas:candidate-vibid:2352000920492": 23,
+      "gas:candidate-vibid:2352000920548": 29,
+      "gas:candidate-vibid:2352000916186": 121,
+      "gas:candidate-vibid:2352000920509": 403,
+      "gas:candidate-vibid:2352000991498": 21,
+      "gas:candidate-vibid:2352000918235": 128,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11818,16 +11818,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 92,
-      "Гончарова Снежана Сергеевна": 28,
-      "Горин Николай Валентинович": 17,
-      "Громов Илья Сергеевич": 89,
-      "Канаев Алексей Валерианович": 390,
-      "Катасонов Сергей Владимирович": 20,
-      "Морозов Александр Николаевич": 105,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 12
+      "gas:candidate-vibid:2352000919662": 92,
+      "gas:candidate-vibid:2352000920492": 28,
+      "gas:candidate-vibid:2352000920548": 17,
+      "gas:candidate-vibid:2352000916186": 89,
+      "gas:candidate-vibid:2352000920509": 390,
+      "gas:candidate-vibid:2352000991498": 20,
+      "gas:candidate-vibid:2352000918235": 105,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11878,16 +11878,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 89,
-      "Гончарова Снежана Сергеевна": 29,
-      "Горин Николай Валентинович": 12,
-      "Громов Илья Сергеевич": 116,
-      "Канаев Алексей Валерианович": 350,
-      "Катасонов Сергей Владимирович": 22,
-      "Морозов Александр Николаевич": 91,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 10
+      "gas:candidate-vibid:2352000919662": 89,
+      "gas:candidate-vibid:2352000920492": 29,
+      "gas:candidate-vibid:2352000920548": 12,
+      "gas:candidate-vibid:2352000916186": 116,
+      "gas:candidate-vibid:2352000920509": 350,
+      "gas:candidate-vibid:2352000991498": 22,
+      "gas:candidate-vibid:2352000918235": 91,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11938,16 +11938,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 102,
-      "Гончарова Снежана Сергеевна": 35,
-      "Горин Николай Валентинович": 30,
-      "Громов Илья Сергеевич": 119,
-      "Канаев Алексей Валерианович": 469,
-      "Катасонов Сергей Владимирович": 25,
-      "Морозов Александр Николаевич": 138,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 102,
+      "gas:candidate-vibid:2352000920492": 35,
+      "gas:candidate-vibid:2352000920548": 30,
+      "gas:candidate-vibid:2352000916186": 119,
+      "gas:candidate-vibid:2352000920509": 469,
+      "gas:candidate-vibid:2352000991498": 25,
+      "gas:candidate-vibid:2352000918235": 138,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -11998,16 +11998,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 98,
-      "Гончарова Снежана Сергеевна": 18,
-      "Горин Николай Валентинович": 30,
-      "Громов Илья Сергеевич": 109,
-      "Канаев Алексей Валерианович": 425,
-      "Катасонов Сергей Владимирович": 30,
-      "Морозов Александр Николаевич": 140,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 12,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 98,
+      "gas:candidate-vibid:2352000920492": 18,
+      "gas:candidate-vibid:2352000920548": 30,
+      "gas:candidate-vibid:2352000916186": 109,
+      "gas:candidate-vibid:2352000920509": 425,
+      "gas:candidate-vibid:2352000991498": 30,
+      "gas:candidate-vibid:2352000918235": 140,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 12,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12058,16 +12058,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 63,
-      "Гончарова Снежана Сергеевна": 19,
-      "Горин Николай Валентинович": 25,
-      "Громов Илья Сергеевич": 86,
-      "Канаев Алексей Валерианович": 282,
-      "Катасонов Сергей Владимирович": 22,
-      "Морозов Александр Николаевич": 99,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 16
+      "gas:candidate-vibid:2352000919662": 63,
+      "gas:candidate-vibid:2352000920492": 19,
+      "gas:candidate-vibid:2352000920548": 25,
+      "gas:candidate-vibid:2352000916186": 86,
+      "gas:candidate-vibid:2352000920509": 282,
+      "gas:candidate-vibid:2352000991498": 22,
+      "gas:candidate-vibid:2352000918235": 99,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12118,16 +12118,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 79,
-      "Гончарова Снежана Сергеевна": 26,
-      "Горин Николай Валентинович": 27,
-      "Громов Илья Сергеевич": 107,
-      "Канаев Алексей Валерианович": 400,
-      "Катасонов Сергей Владимирович": 28,
-      "Морозов Александр Николаевич": 116,
-      "Платонов Николай Владимирович": 14,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 19
+      "gas:candidate-vibid:2352000919662": 79,
+      "gas:candidate-vibid:2352000920492": 26,
+      "gas:candidate-vibid:2352000920548": 27,
+      "gas:candidate-vibid:2352000916186": 107,
+      "gas:candidate-vibid:2352000920509": 400,
+      "gas:candidate-vibid:2352000991498": 28,
+      "gas:candidate-vibid:2352000918235": 116,
+      "gas:candidate-vibid:2352000991587": 14,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12178,16 +12178,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 96,
-      "Гончарова Снежана Сергеевна": 25,
-      "Горин Николай Валентинович": 20,
-      "Громов Илья Сергеевич": 114,
-      "Канаев Алексей Валерианович": 387,
-      "Катасонов Сергей Владимирович": 41,
-      "Морозов Александр Николаевич": 127,
-      "Платонов Николай Владимирович": 14,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 13
+      "gas:candidate-vibid:2352000919662": 96,
+      "gas:candidate-vibid:2352000920492": 25,
+      "gas:candidate-vibid:2352000920548": 20,
+      "gas:candidate-vibid:2352000916186": 114,
+      "gas:candidate-vibid:2352000920509": 387,
+      "gas:candidate-vibid:2352000991498": 41,
+      "gas:candidate-vibid:2352000918235": 127,
+      "gas:candidate-vibid:2352000991587": 14,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12238,16 +12238,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 50,
-      "Гончарова Снежана Сергеевна": 47,
-      "Горин Николай Валентинович": 37,
-      "Громов Илья Сергеевич": 75,
-      "Канаев Алексей Валерианович": 391,
-      "Катасонов Сергей Владимирович": 15,
-      "Морозов Александр Николаевич": 88,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 42
+      "gas:candidate-vibid:2352000919662": 50,
+      "gas:candidate-vibid:2352000920492": 47,
+      "gas:candidate-vibid:2352000920548": 37,
+      "gas:candidate-vibid:2352000916186": 75,
+      "gas:candidate-vibid:2352000920509": 391,
+      "gas:candidate-vibid:2352000991498": 15,
+      "gas:candidate-vibid:2352000918235": 88,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12298,16 +12298,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 115,
-      "Гончарова Снежана Сергеевна": 27,
-      "Горин Николай Валентинович": 24,
-      "Громов Илья Сергеевич": 110,
-      "Канаев Алексей Валерианович": 428,
-      "Катасонов Сергей Владимирович": 33,
-      "Морозов Александр Николаевич": 103,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 115,
+      "gas:candidate-vibid:2352000920492": 27,
+      "gas:candidate-vibid:2352000920548": 24,
+      "gas:candidate-vibid:2352000916186": 110,
+      "gas:candidate-vibid:2352000920509": 428,
+      "gas:candidate-vibid:2352000991498": 33,
+      "gas:candidate-vibid:2352000918235": 103,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12358,16 +12358,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 105,
-      "Гончарова Снежана Сергеевна": 26,
-      "Горин Николай Валентинович": 24,
-      "Громов Илья Сергеевич": 153,
-      "Канаев Алексей Валерианович": 485,
-      "Катасонов Сергей Владимирович": 28,
-      "Морозов Александр Николаевич": 116,
-      "Платонов Николай Владимирович": 8,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 27
+      "gas:candidate-vibid:2352000919662": 105,
+      "gas:candidate-vibid:2352000920492": 26,
+      "gas:candidate-vibid:2352000920548": 24,
+      "gas:candidate-vibid:2352000916186": 153,
+      "gas:candidate-vibid:2352000920509": 485,
+      "gas:candidate-vibid:2352000991498": 28,
+      "gas:candidate-vibid:2352000918235": 116,
+      "gas:candidate-vibid:2352000991587": 8,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12418,16 +12418,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 49,
-      "Гончарова Снежана Сергеевна": 34,
-      "Горин Николай Валентинович": 31,
-      "Громов Илья Сергеевич": 63,
-      "Канаев Алексей Валерианович": 367,
-      "Катасонов Сергей Владимирович": 16,
-      "Морозов Александр Николаевич": 100,
-      "Платонов Николай Владимирович": 13,
-      "Протасов Александр Анатольевич": 24,
-      "Трубицина Лариса Сергеевна": 43
+      "gas:candidate-vibid:2352000919662": 49,
+      "gas:candidate-vibid:2352000920492": 34,
+      "gas:candidate-vibid:2352000920548": 31,
+      "gas:candidate-vibid:2352000916186": 63,
+      "gas:candidate-vibid:2352000920509": 367,
+      "gas:candidate-vibid:2352000991498": 16,
+      "gas:candidate-vibid:2352000918235": 100,
+      "gas:candidate-vibid:2352000991587": 13,
+      "gas:candidate-vibid:2352000918215": 24,
+      "gas:candidate-vibid:2352000991564": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12478,16 +12478,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 85,
-      "Гончарова Снежана Сергеевна": 21,
-      "Горин Николай Валентинович": 36,
-      "Громов Илья Сергеевич": 109,
-      "Канаев Алексей Валерианович": 416,
-      "Катасонов Сергей Владимирович": 27,
-      "Морозов Александр Николаевич": 119,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 11
+      "gas:candidate-vibid:2352000919662": 85,
+      "gas:candidate-vibid:2352000920492": 21,
+      "gas:candidate-vibid:2352000920548": 36,
+      "gas:candidate-vibid:2352000916186": 109,
+      "gas:candidate-vibid:2352000920509": 416,
+      "gas:candidate-vibid:2352000991498": 27,
+      "gas:candidate-vibid:2352000918235": 119,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12538,16 +12538,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 39,
-      "Гончарова Снежана Сергеевна": 22,
-      "Горин Николай Валентинович": 19,
-      "Громов Илья Сергеевич": 62,
-      "Канаев Алексей Валерианович": 300,
-      "Катасонов Сергей Владимирович": 13,
-      "Морозов Александр Николаевич": 63,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 39
+      "gas:candidate-vibid:2352000919662": 39,
+      "gas:candidate-vibid:2352000920492": 22,
+      "gas:candidate-vibid:2352000920548": 19,
+      "gas:candidate-vibid:2352000916186": 62,
+      "gas:candidate-vibid:2352000920509": 300,
+      "gas:candidate-vibid:2352000991498": 13,
+      "gas:candidate-vibid:2352000918235": 63,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12598,16 +12598,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 94,
-      "Гончарова Снежана Сергеевна": 18,
-      "Горин Николай Валентинович": 26,
-      "Громов Илья Сергеевич": 109,
-      "Канаев Алексей Валерианович": 339,
-      "Катасонов Сергей Владимирович": 18,
-      "Морозов Александр Николаевич": 116,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 22
+      "gas:candidate-vibid:2352000919662": 94,
+      "gas:candidate-vibid:2352000920492": 18,
+      "gas:candidate-vibid:2352000920548": 26,
+      "gas:candidate-vibid:2352000916186": 109,
+      "gas:candidate-vibid:2352000920509": 339,
+      "gas:candidate-vibid:2352000991498": 18,
+      "gas:candidate-vibid:2352000918235": 116,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12658,16 +12658,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 96,
-      "Гончарова Снежана Сергеевна": 23,
-      "Горин Николай Валентинович": 20,
-      "Громов Илья Сергеевич": 82,
-      "Канаев Алексей Валерианович": 409,
-      "Катасонов Сергей Владимирович": 27,
-      "Морозов Александр Николаевич": 108,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 18,
-      "Трубицина Лариса Сергеевна": 23
+      "gas:candidate-vibid:2352000919662": 96,
+      "gas:candidate-vibid:2352000920492": 23,
+      "gas:candidate-vibid:2352000920548": 20,
+      "gas:candidate-vibid:2352000916186": 82,
+      "gas:candidate-vibid:2352000920509": 409,
+      "gas:candidate-vibid:2352000991498": 27,
+      "gas:candidate-vibid:2352000918235": 108,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 18,
+      "gas:candidate-vibid:2352000991564": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12718,16 +12718,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 88,
-      "Гончарова Снежана Сергеевна": 26,
-      "Горин Николай Валентинович": 18,
-      "Громов Илья Сергеевич": 129,
-      "Канаев Алексей Валерианович": 374,
-      "Катасонов Сергей Владимирович": 23,
-      "Морозов Александр Николаевич": 109,
-      "Платонов Николай Владимирович": 5,
-      "Протасов Александр Анатольевич": 18,
-      "Трубицина Лариса Сергеевна": 20
+      "gas:candidate-vibid:2352000919662": 88,
+      "gas:candidate-vibid:2352000920492": 26,
+      "gas:candidate-vibid:2352000920548": 18,
+      "gas:candidate-vibid:2352000916186": 129,
+      "gas:candidate-vibid:2352000920509": 374,
+      "gas:candidate-vibid:2352000991498": 23,
+      "gas:candidate-vibid:2352000918235": 109,
+      "gas:candidate-vibid:2352000991587": 5,
+      "gas:candidate-vibid:2352000918215": 18,
+      "gas:candidate-vibid:2352000991564": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12778,16 +12778,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 51,
-      "Гончарова Снежана Сергеевна": 26,
-      "Горин Николай Валентинович": 29,
-      "Громов Илья Сергеевич": 80,
-      "Канаев Алексей Валерианович": 398,
-      "Катасонов Сергей Владимирович": 24,
-      "Морозов Александр Николаевич": 93,
-      "Платонов Николай Владимирович": 11,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 50
+      "gas:candidate-vibid:2352000919662": 51,
+      "gas:candidate-vibid:2352000920492": 26,
+      "gas:candidate-vibid:2352000920548": 29,
+      "gas:candidate-vibid:2352000916186": 80,
+      "gas:candidate-vibid:2352000920509": 398,
+      "gas:candidate-vibid:2352000991498": 24,
+      "gas:candidate-vibid:2352000918235": 93,
+      "gas:candidate-vibid:2352000991587": 11,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12838,16 +12838,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 104,
-      "Гончарова Снежана Сергеевна": 30,
-      "Горин Николай Валентинович": 17,
-      "Громов Илья Сергеевич": 134,
-      "Канаев Алексей Валерианович": 397,
-      "Катасонов Сергей Владимирович": 16,
-      "Морозов Александр Николаевич": 96,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 20,
-      "Трубицина Лариса Сергеевна": 13
+      "gas:candidate-vibid:2352000919662": 104,
+      "gas:candidate-vibid:2352000920492": 30,
+      "gas:candidate-vibid:2352000920548": 17,
+      "gas:candidate-vibid:2352000916186": 134,
+      "gas:candidate-vibid:2352000920509": 397,
+      "gas:candidate-vibid:2352000991498": 16,
+      "gas:candidate-vibid:2352000918235": 96,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 20,
+      "gas:candidate-vibid:2352000991564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12898,16 +12898,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 84,
-      "Гончарова Снежана Сергеевна": 15,
-      "Горин Николай Валентинович": 20,
-      "Громов Илья Сергеевич": 96,
-      "Канаев Алексей Валерианович": 332,
-      "Катасонов Сергей Владимирович": 23,
-      "Морозов Александр Николаевич": 88,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 84,
+      "gas:candidate-vibid:2352000920492": 15,
+      "gas:candidate-vibid:2352000920548": 20,
+      "gas:candidate-vibid:2352000916186": 96,
+      "gas:candidate-vibid:2352000920509": 332,
+      "gas:candidate-vibid:2352000991498": 23,
+      "gas:candidate-vibid:2352000918235": 88,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -12958,16 +12958,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 137,
-      "Гончарова Снежана Сергеевна": 20,
-      "Горин Николай Валентинович": 25,
-      "Громов Илья Сергеевич": 119,
-      "Канаев Алексей Валерианович": 402,
-      "Катасонов Сергей Владимирович": 39,
-      "Морозов Александр Николаевич": 113,
-      "Платонов Николай Владимирович": 12,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 137,
+      "gas:candidate-vibid:2352000920492": 20,
+      "gas:candidate-vibid:2352000920548": 25,
+      "gas:candidate-vibid:2352000916186": 119,
+      "gas:candidate-vibid:2352000920509": 402,
+      "gas:candidate-vibid:2352000991498": 39,
+      "gas:candidate-vibid:2352000918235": 113,
+      "gas:candidate-vibid:2352000991587": 12,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13018,16 +13018,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 80,
-      "Гончарова Снежана Сергеевна": 21,
-      "Горин Николай Валентинович": 23,
-      "Громов Илья Сергеевич": 123,
-      "Канаев Алексей Валерианович": 413,
-      "Катасонов Сергей Владимирович": 34,
-      "Морозов Александр Николаевич": 166,
-      "Платонов Николай Владимирович": 13,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 26
+      "gas:candidate-vibid:2352000919662": 80,
+      "gas:candidate-vibid:2352000920492": 21,
+      "gas:candidate-vibid:2352000920548": 23,
+      "gas:candidate-vibid:2352000916186": 123,
+      "gas:candidate-vibid:2352000920509": 413,
+      "gas:candidate-vibid:2352000991498": 34,
+      "gas:candidate-vibid:2352000918235": 166,
+      "gas:candidate-vibid:2352000991587": 13,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13078,16 +13078,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 93,
-      "Гончарова Снежана Сергеевна": 33,
-      "Горин Николай Валентинович": 28,
-      "Громов Илья Сергеевич": 116,
-      "Канаев Алексей Валерианович": 375,
-      "Катасонов Сергей Владимирович": 34,
-      "Морозов Александр Николаевич": 122,
-      "Платонов Николай Владимирович": 15,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 25
+      "gas:candidate-vibid:2352000919662": 93,
+      "gas:candidate-vibid:2352000920492": 33,
+      "gas:candidate-vibid:2352000920548": 28,
+      "gas:candidate-vibid:2352000916186": 116,
+      "gas:candidate-vibid:2352000920509": 375,
+      "gas:candidate-vibid:2352000991498": 34,
+      "gas:candidate-vibid:2352000918235": 122,
+      "gas:candidate-vibid:2352000991587": 15,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13138,16 +13138,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 125,
-      "Гончарова Снежана Сергеевна": 40,
-      "Горин Николай Валентинович": 18,
-      "Громов Илья Сергеевич": 122,
-      "Канаев Алексей Валерианович": 376,
-      "Катасонов Сергей Владимирович": 27,
-      "Морозов Александр Николаевич": 97,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 19,
-      "Трубицина Лариса Сергеевна": 24
+      "gas:candidate-vibid:2352000919662": 125,
+      "gas:candidate-vibid:2352000920492": 40,
+      "gas:candidate-vibid:2352000920548": 18,
+      "gas:candidate-vibid:2352000916186": 122,
+      "gas:candidate-vibid:2352000920509": 376,
+      "gas:candidate-vibid:2352000991498": 27,
+      "gas:candidate-vibid:2352000918235": 97,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 19,
+      "gas:candidate-vibid:2352000991564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13198,16 +13198,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 85,
-      "Гончарова Снежана Сергеевна": 21,
-      "Горин Николай Валентинович": 14,
-      "Громов Илья Сергеевич": 100,
-      "Канаев Алексей Валерианович": 365,
-      "Катасонов Сергей Владимирович": 25,
-      "Морозов Александр Николаевич": 104,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 16,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 85,
+      "gas:candidate-vibid:2352000920492": 21,
+      "gas:candidate-vibid:2352000920548": 14,
+      "gas:candidate-vibid:2352000916186": 100,
+      "gas:candidate-vibid:2352000920509": 365,
+      "gas:candidate-vibid:2352000991498": 25,
+      "gas:candidate-vibid:2352000918235": 104,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 16,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13258,16 +13258,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 91,
-      "Гончарова Снежана Сергеевна": 23,
-      "Горин Николай Валентинович": 23,
-      "Громов Илья Сергеевич": 123,
-      "Канаев Алексей Валерианович": 365,
-      "Катасонов Сергей Владимирович": 19,
-      "Морозов Александр Николаевич": 97,
-      "Платонов Николай Владимирович": 6,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 17
+      "gas:candidate-vibid:2352000919662": 91,
+      "gas:candidate-vibid:2352000920492": 23,
+      "gas:candidate-vibid:2352000920548": 23,
+      "gas:candidate-vibid:2352000916186": 123,
+      "gas:candidate-vibid:2352000920509": 365,
+      "gas:candidate-vibid:2352000991498": 19,
+      "gas:candidate-vibid:2352000918235": 97,
+      "gas:candidate-vibid:2352000991587": 6,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13318,16 +13318,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 98,
-      "Гончарова Снежана Сергеевна": 28,
-      "Горин Николай Валентинович": 23,
-      "Громов Илья Сергеевич": 122,
-      "Канаев Алексей Валерианович": 398,
-      "Катасонов Сергей Владимирович": 26,
-      "Морозов Александр Николаевич": 13,
-      "Платонов Николай Владимирович": 110,
-      "Протасов Александр Анатольевич": 11,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 98,
+      "gas:candidate-vibid:2352000920492": 28,
+      "gas:candidate-vibid:2352000920548": 23,
+      "gas:candidate-vibid:2352000916186": 122,
+      "gas:candidate-vibid:2352000920509": 398,
+      "gas:candidate-vibid:2352000991498": 26,
+      "gas:candidate-vibid:2352000918235": 13,
+      "gas:candidate-vibid:2352000991587": 110,
+      "gas:candidate-vibid:2352000918215": 11,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13378,16 +13378,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 86,
-      "Гончарова Снежана Сергеевна": 30,
-      "Горин Николай Валентинович": 22,
-      "Громов Илья Сергеевич": 123,
-      "Канаев Алексей Валерианович": 412,
-      "Катасонов Сергей Владимирович": 28,
-      "Морозов Александр Николаевич": 139,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 24,
-      "Трубицина Лариса Сергеевна": 29
+      "gas:candidate-vibid:2352000919662": 86,
+      "gas:candidate-vibid:2352000920492": 30,
+      "gas:candidate-vibid:2352000920548": 22,
+      "gas:candidate-vibid:2352000916186": 123,
+      "gas:candidate-vibid:2352000920509": 412,
+      "gas:candidate-vibid:2352000991498": 28,
+      "gas:candidate-vibid:2352000918235": 139,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 24,
+      "gas:candidate-vibid:2352000991564": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13438,16 +13438,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 38,
-      "Гончарова Снежана Сергеевна": 25,
-      "Горин Николай Валентинович": 18,
-      "Громов Илья Сергеевич": 60,
-      "Канаев Алексей Валерианович": 347,
-      "Катасонов Сергей Владимирович": 21,
-      "Морозов Александр Николаевич": 94,
-      "Платонов Николай Владимирович": 16,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 38
+      "gas:candidate-vibid:2352000919662": 38,
+      "gas:candidate-vibid:2352000920492": 25,
+      "gas:candidate-vibid:2352000920548": 18,
+      "gas:candidate-vibid:2352000916186": 60,
+      "gas:candidate-vibid:2352000920509": 347,
+      "gas:candidate-vibid:2352000991498": 21,
+      "gas:candidate-vibid:2352000918235": 94,
+      "gas:candidate-vibid:2352000991587": 16,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13498,16 +13498,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 42,
-      "Гончарова Снежана Сергеевна": 33,
-      "Горин Николай Валентинович": 19,
-      "Громов Илья Сергеевич": 62,
-      "Канаев Алексей Валерианович": 377,
-      "Катасонов Сергей Владимирович": 23,
-      "Морозов Александр Николаевич": 75,
-      "Платонов Николай Владимирович": 16,
-      "Протасов Александр Анатольевич": 18,
-      "Трубицина Лариса Сергеевна": 55
+      "gas:candidate-vibid:2352000919662": 42,
+      "gas:candidate-vibid:2352000920492": 33,
+      "gas:candidate-vibid:2352000920548": 19,
+      "gas:candidate-vibid:2352000916186": 62,
+      "gas:candidate-vibid:2352000920509": 377,
+      "gas:candidate-vibid:2352000991498": 23,
+      "gas:candidate-vibid:2352000918235": 75,
+      "gas:candidate-vibid:2352000991587": 16,
+      "gas:candidate-vibid:2352000918215": 18,
+      "gas:candidate-vibid:2352000991564": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13558,16 +13558,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 85,
-      "Гончарова Снежана Сергеевна": 34,
-      "Горин Николай Валентинович": 19,
-      "Громов Илья Сергеевич": 118,
-      "Канаев Алексей Валерианович": 476,
-      "Катасонов Сергей Владимирович": 42,
-      "Морозов Александр Николаевич": 118,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 11,
-      "Трубицина Лариса Сергеевна": 21
+      "gas:candidate-vibid:2352000919662": 85,
+      "gas:candidate-vibid:2352000920492": 34,
+      "gas:candidate-vibid:2352000920548": 19,
+      "gas:candidate-vibid:2352000916186": 118,
+      "gas:candidate-vibid:2352000920509": 476,
+      "gas:candidate-vibid:2352000991498": 42,
+      "gas:candidate-vibid:2352000918235": 118,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 11,
+      "gas:candidate-vibid:2352000991564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13618,16 +13618,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 99,
-      "Гончарова Снежана Сергеевна": 27,
-      "Горин Николай Валентинович": 23,
-      "Громов Илья Сергеевич": 127,
-      "Канаев Алексей Валерианович": 437,
-      "Катасонов Сергей Владимирович": 33,
-      "Морозов Александр Николаевич": 133,
-      "Платонов Николай Владимирович": 10,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 18
+      "gas:candidate-vibid:2352000919662": 99,
+      "gas:candidate-vibid:2352000920492": 27,
+      "gas:candidate-vibid:2352000920548": 23,
+      "gas:candidate-vibid:2352000916186": 127,
+      "gas:candidate-vibid:2352000920509": 437,
+      "gas:candidate-vibid:2352000991498": 33,
+      "gas:candidate-vibid:2352000918235": 133,
+      "gas:candidate-vibid:2352000991587": 10,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13678,16 +13678,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 4,
-      "Гончарова Снежана Сергеевна": 2,
-      "Горин Николай Валентинович": 1,
-      "Громов Илья Сергеевич": 9,
-      "Канаев Алексей Валерианович": 19,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 1,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 0,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 4,
+      "gas:candidate-vibid:2352000920492": 2,
+      "gas:candidate-vibid:2352000920548": 1,
+      "gas:candidate-vibid:2352000916186": 9,
+      "gas:candidate-vibid:2352000920509": 19,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 1,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 0,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13738,16 +13738,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 15,
-      "Гончарова Снежана Сергеевна": 11,
-      "Горин Николай Валентинович": 13,
-      "Громов Илья Сергеевич": 44,
-      "Канаев Алексей Валерианович": 120,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 20,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 5,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 15,
+      "gas:candidate-vibid:2352000920492": 11,
+      "gas:candidate-vibid:2352000920548": 13,
+      "gas:candidate-vibid:2352000916186": 44,
+      "gas:candidate-vibid:2352000920509": 120,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 20,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 5,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13798,16 +13798,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 92,
-      "Гончарова Снежана Сергеевна": 38,
-      "Горин Николай Валентинович": 23,
-      "Громов Илья Сергеевич": 111,
-      "Канаев Алексей Валерианович": 436,
-      "Катасонов Сергей Владимирович": 26,
-      "Морозов Александр Николаевич": 122,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 26
+      "gas:candidate-vibid:2352000919662": 92,
+      "gas:candidate-vibid:2352000920492": 38,
+      "gas:candidate-vibid:2352000920548": 23,
+      "gas:candidate-vibid:2352000916186": 111,
+      "gas:candidate-vibid:2352000920509": 436,
+      "gas:candidate-vibid:2352000991498": 26,
+      "gas:candidate-vibid:2352000918235": 122,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13858,16 +13858,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 95,
-      "Гончарова Снежана Сергеевна": 37,
-      "Горин Николай Валентинович": 36,
-      "Громов Илья Сергеевич": 164,
-      "Канаев Алексей Валерианович": 667,
-      "Катасонов Сергей Владимирович": 48,
-      "Морозов Александр Николаевич": 124,
-      "Платонов Николай Владимирович": 9,
-      "Протасов Александр Анатольевич": 30,
-      "Трубицина Лариса Сергеевна": 36
+      "gas:candidate-vibid:2352000919662": 95,
+      "gas:candidate-vibid:2352000920492": 37,
+      "gas:candidate-vibid:2352000920548": 36,
+      "gas:candidate-vibid:2352000916186": 164,
+      "gas:candidate-vibid:2352000920509": 667,
+      "gas:candidate-vibid:2352000991498": 48,
+      "gas:candidate-vibid:2352000918235": 124,
+      "gas:candidate-vibid:2352000991587": 9,
+      "gas:candidate-vibid:2352000918215": 30,
+      "gas:candidate-vibid:2352000991564": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13918,16 +13918,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 3,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 3,
-      "Канаев Алексей Валерианович": 10,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 5,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 3,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 3,
+      "gas:candidate-vibid:2352000920509": 10,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 5,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -13978,16 +13978,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 10,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 3,
-      "Канаев Алексей Валерианович": 23,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 5,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 10,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 3,
+      "gas:candidate-vibid:2352000920509": 23,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 5,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -14038,16 +14038,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 0,
-      "Гончарова Снежана Сергеевна": 0,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 0,
-      "Канаев Алексей Валерианович": 3,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 0,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 1,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 0,
+      "gas:candidate-vibid:2352000920492": 0,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 0,
+      "gas:candidate-vibid:2352000920509": 3,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 0,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 1,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -14098,16 +14098,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 18,
-      "Гончарова Снежана Сергеевна": 7,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 18,
-      "Канаев Алексей Валерианович": 71,
-      "Катасонов Сергей Владимирович": 5,
-      "Морозов Александр Николаевич": 20,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 5
+      "gas:candidate-vibid:2352000919662": 18,
+      "gas:candidate-vibid:2352000920492": 7,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 18,
+      "gas:candidate-vibid:2352000920509": 71,
+      "gas:candidate-vibid:2352000991498": 5,
+      "gas:candidate-vibid:2352000918235": 20,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -14158,16 +14158,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 17,
-      "Гончарова Снежана Сергеевна": 7,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 20,
-      "Канаев Алексей Валерианович": 52,
-      "Катасонов Сергей Владимирович": 5,
-      "Морозов Александр Николаевич": 1,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 2,
-      "Трубицина Лариса Сергеевна": 7
+      "gas:candidate-vibid:2352000919662": 17,
+      "gas:candidate-vibid:2352000920492": 7,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 20,
+      "gas:candidate-vibid:2352000920509": 52,
+      "gas:candidate-vibid:2352000991498": 5,
+      "gas:candidate-vibid:2352000918235": 1,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 2,
+      "gas:candidate-vibid:2352000991564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -14218,16 +14218,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 7,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 2,
-      "Громов Илья Сергеевич": 4,
-      "Канаев Алексей Валерианович": 13,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 9,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 0,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 7,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 2,
+      "gas:candidate-vibid:2352000916186": 4,
+      "gas:candidate-vibid:2352000920509": 13,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 9,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 0,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -14278,16 +14278,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 1,
-      "Гончарова Снежана Сергеевна": 1,
-      "Горин Николай Валентинович": 0,
-      "Громов Илья Сергеевич": 0,
-      "Канаев Алексей Валерианович": 2,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 0,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 0,
-      "Трубицина Лариса Сергеевна": 0
+      "gas:candidate-vibid:2352000919662": 1,
+      "gas:candidate-vibid:2352000920492": 1,
+      "gas:candidate-vibid:2352000920548": 0,
+      "gas:candidate-vibid:2352000916186": 0,
+      "gas:candidate-vibid:2352000920509": 2,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 0,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 0,
+      "gas:candidate-vibid:2352000991564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -14338,16 +14338,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 48,
-      "Гончарова Снежана Сергеевна": 70,
-      "Горин Николай Валентинович": 192,
-      "Громов Илья Сергеевич": 76,
-      "Канаев Алексей Валерианович": 294,
-      "Катасонов Сергей Владимирович": 51,
-      "Морозов Александр Николаевич": 92,
-      "Платонов Николай Владимирович": 25,
-      "Протасов Александр Анатольевич": 14,
-      "Трубицина Лариса Сергеевна": 134
+      "gas:candidate-vibid:2352000919662": 48,
+      "gas:candidate-vibid:2352000920492": 70,
+      "gas:candidate-vibid:2352000920548": 192,
+      "gas:candidate-vibid:2352000916186": 76,
+      "gas:candidate-vibid:2352000920509": 294,
+      "gas:candidate-vibid:2352000991498": 51,
+      "gas:candidate-vibid:2352000918235": 92,
+      "gas:candidate-vibid:2352000991587": 25,
+      "gas:candidate-vibid:2352000918215": 14,
+      "gas:candidate-vibid:2352000991564": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869386&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869386&type=464",
@@ -14398,16 +14398,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 43,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 7,
-      "Громов Илья Сергеевич": 34,
-      "Канаев Алексей Валерианович": 119,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 91,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 13,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 43,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 7,
+      "gas:candidate-vibid:2352000916186": 34,
+      "gas:candidate-vibid:2352000920509": 119,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 91,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 13,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14458,16 +14458,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 48,
-      "Гончарова Снежана Сергеевна": 6,
-      "Горин Николай Валентинович": 7,
-      "Громов Илья Сергеевич": 48,
-      "Канаев Алексей Валерианович": 112,
-      "Катасонов Сергей Владимирович": 4,
-      "Морозов Александр Николаевич": 55,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 17,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 48,
+      "gas:candidate-vibid:2352000920492": 6,
+      "gas:candidate-vibid:2352000920548": 7,
+      "gas:candidate-vibid:2352000916186": 48,
+      "gas:candidate-vibid:2352000920509": 112,
+      "gas:candidate-vibid:2352000991498": 4,
+      "gas:candidate-vibid:2352000918235": 55,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 17,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14518,16 +14518,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 38,
-      "Гончарова Снежана Сергеевна": 5,
-      "Горин Николай Валентинович": 5,
-      "Громов Илья Сергеевич": 37,
-      "Канаев Алексей Валерианович": 106,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 61,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 10
+      "gas:candidate-vibid:2352000919662": 38,
+      "gas:candidate-vibid:2352000920492": 5,
+      "gas:candidate-vibid:2352000920548": 5,
+      "gas:candidate-vibid:2352000916186": 37,
+      "gas:candidate-vibid:2352000920509": 106,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 61,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14578,16 +14578,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 32,
-      "Гончарова Снежана Сергеевна": 8,
-      "Горин Николай Валентинович": 10,
-      "Громов Илья Сергеевич": 36,
-      "Канаев Алексей Валерианович": 121,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 67,
-      "Платонов Николай Владимирович": 7,
-      "Протасов Александр Анатольевич": 10,
-      "Трубицина Лариса Сергеевна": 3
+      "gas:candidate-vibid:2352000919662": 32,
+      "gas:candidate-vibid:2352000920492": 8,
+      "gas:candidate-vibid:2352000920548": 10,
+      "gas:candidate-vibid:2352000916186": 36,
+      "gas:candidate-vibid:2352000920509": 121,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 67,
+      "gas:candidate-vibid:2352000991587": 7,
+      "gas:candidate-vibid:2352000918215": 10,
+      "gas:candidate-vibid:2352000991564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14638,16 +14638,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 33,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 24,
-      "Канаев Алексей Валерианович": 71,
-      "Катасонов Сергей Владимирович": 0,
-      "Морозов Александр Николаевич": 56,
-      "Платонов Николай Владимирович": 3,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 33,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 24,
+      "gas:candidate-vibid:2352000920509": 71,
+      "gas:candidate-vibid:2352000991498": 0,
+      "gas:candidate-vibid:2352000918235": 56,
+      "gas:candidate-vibid:2352000991587": 3,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14698,16 +14698,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 33,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 8,
-      "Громов Илья Сергеевич": 59,
-      "Канаев Алексей Валерианович": 115,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 86,
-      "Платонов Николай Владимирович": 0,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 33,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 8,
+      "gas:candidate-vibid:2352000916186": 59,
+      "gas:candidate-vibid:2352000920509": 115,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 86,
+      "gas:candidate-vibid:2352000991587": 0,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14758,16 +14758,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 29,
-      "Гончарова Снежана Сергеевна": 6,
-      "Горин Николай Валентинович": 8,
-      "Громов Илья Сергеевич": 41,
-      "Канаев Алексей Валерианович": 107,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 59,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 13,
-      "Трубицина Лариса Сергеевна": 2
+      "gas:candidate-vibid:2352000919662": 29,
+      "gas:candidate-vibid:2352000920492": 6,
+      "gas:candidate-vibid:2352000920548": 8,
+      "gas:candidate-vibid:2352000916186": 41,
+      "gas:candidate-vibid:2352000920509": 107,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 59,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 13,
+      "gas:candidate-vibid:2352000991564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14818,16 +14818,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 33,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 23,
-      "Канаев Алексей Валерианович": 52,
-      "Катасонов Сергей Владимирович": 1,
-      "Морозов Александр Николаевич": 31,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 8,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 33,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 23,
+      "gas:candidate-vibid:2352000920509": 52,
+      "gas:candidate-vibid:2352000991498": 1,
+      "gas:candidate-vibid:2352000918235": 31,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 8,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14878,16 +14878,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 31,
-      "Гончарова Снежана Сергеевна": 3,
-      "Горин Николай Валентинович": 3,
-      "Громов Илья Сергеевич": 27,
-      "Канаев Алексей Валерианович": 55,
-      "Катасонов Сергей Владимирович": 3,
-      "Морозов Александр Николаевич": 44,
-      "Платонов Николай Владимирович": 2,
-      "Протасов Александр Анатольевич": 15,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 31,
+      "gas:candidate-vibid:2352000920492": 3,
+      "gas:candidate-vibid:2352000920548": 3,
+      "gas:candidate-vibid:2352000916186": 27,
+      "gas:candidate-vibid:2352000920509": 55,
+      "gas:candidate-vibid:2352000991498": 3,
+      "gas:candidate-vibid:2352000918235": 44,
+      "gas:candidate-vibid:2352000991587": 2,
+      "gas:candidate-vibid:2352000918215": 15,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",
@@ -14938,16 +14938,16 @@ export const duma_2016_uik_463_region_35_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вавилов Виктор Владимирович": 27,
-      "Гончарова Снежана Сергеевна": 4,
-      "Горин Николай Валентинович": 4,
-      "Громов Илья Сергеевич": 33,
-      "Канаев Алексей Валерианович": 52,
-      "Катасонов Сергей Владимирович": 2,
-      "Морозов Александр Николаевич": 31,
-      "Платонов Николай Владимирович": 4,
-      "Протасов Александр Анатольевич": 9,
-      "Трубицина Лариса Сергеевна": 1
+      "gas:candidate-vibid:2352000919662": 27,
+      "gas:candidate-vibid:2352000920492": 4,
+      "gas:candidate-vibid:2352000920548": 4,
+      "gas:candidate-vibid:2352000916186": 33,
+      "gas:candidate-vibid:2352000920509": 52,
+      "gas:candidate-vibid:2352000991498": 2,
+      "gas:candidate-vibid:2352000918235": 31,
+      "gas:candidate-vibid:2352000991587": 4,
+      "gas:candidate-vibid:2352000918215": 9,
+      "gas:candidate-vibid:2352000991564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/vologod?action=show&root=1000111&tvd=2352000869387&vrn=100100067795849&region=35&global=&sub_region=35&prver=0&pronetvd=null&vibid=2352000869387&type=464",

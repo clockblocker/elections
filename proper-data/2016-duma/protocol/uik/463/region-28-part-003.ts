@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 194,
-      "Барило Роман Владимирович": 19,
-      "Волков Евгений Иванович": 29,
-      "Зимин Кирилл Вячеславович": 110,
-      "Калинина Наталья Владимировна": 22,
-      "Кобызов Роман Александрович": 53,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 194,
+      "gas:candidate-vibid:2282000852222": 19,
+      "gas:candidate-vibid:2282000816690": 29,
+      "gas:candidate-vibid:2282000816730": 110,
+      "gas:candidate-vibid:2282000852273": 22,
+      "gas:candidate-vibid:2282000816665": 53,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 523,
-      "Барило Роман Владимирович": 40,
-      "Волков Евгений Иванович": 42,
-      "Зимин Кирилл Вячеславович": 79,
-      "Калинина Наталья Владимировна": 33,
-      "Кобызов Роман Александрович": 192,
-      "Паршинков Валерий Борисович": 26
+      "gas:candidate-vibid:2282000785455": 523,
+      "gas:candidate-vibid:2282000852222": 40,
+      "gas:candidate-vibid:2282000816690": 42,
+      "gas:candidate-vibid:2282000816730": 79,
+      "gas:candidate-vibid:2282000852273": 33,
+      "gas:candidate-vibid:2282000816665": 192,
+      "gas:candidate-vibid:2282000852262": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 518,
-      "Барило Роман Владимирович": 62,
-      "Волков Евгений Иванович": 74,
-      "Зимин Кирилл Вячеславович": 142,
-      "Калинина Наталья Владимировна": 66,
-      "Кобызов Роман Александрович": 194,
-      "Паршинков Валерий Борисович": 39
+      "gas:candidate-vibid:2282000785455": 518,
+      "gas:candidate-vibid:2282000852222": 62,
+      "gas:candidate-vibid:2282000816690": 74,
+      "gas:candidate-vibid:2282000816730": 142,
+      "gas:candidate-vibid:2282000852273": 66,
+      "gas:candidate-vibid:2282000816665": 194,
+      "gas:candidate-vibid:2282000852262": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 415,
-      "Барило Роман Владимирович": 17,
-      "Волков Евгений Иванович": 39,
-      "Зимин Кирилл Вячеславович": 86,
-      "Калинина Наталья Владимировна": 21,
-      "Кобызов Роман Александрович": 106,
-      "Паршинков Валерий Борисович": 23
+      "gas:candidate-vibid:2282000785455": 415,
+      "gas:candidate-vibid:2282000852222": 17,
+      "gas:candidate-vibid:2282000816690": 39,
+      "gas:candidate-vibid:2282000816730": 86,
+      "gas:candidate-vibid:2282000852273": 21,
+      "gas:candidate-vibid:2282000816665": 106,
+      "gas:candidate-vibid:2282000852262": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 542,
-      "Барило Роман Владимирович": 42,
-      "Волков Евгений Иванович": 86,
-      "Зимин Кирилл Вячеславович": 158,
-      "Калинина Наталья Владимировна": 50,
-      "Кобызов Роман Александрович": 223,
-      "Паршинков Валерий Борисович": 45
+      "gas:candidate-vibid:2282000785455": 542,
+      "gas:candidate-vibid:2282000852222": 42,
+      "gas:candidate-vibid:2282000816690": 86,
+      "gas:candidate-vibid:2282000816730": 158,
+      "gas:candidate-vibid:2282000852273": 50,
+      "gas:candidate-vibid:2282000816665": 223,
+      "gas:candidate-vibid:2282000852262": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 451,
-      "Барило Роман Владимирович": 101,
-      "Волков Евгений Иванович": 49,
-      "Зимин Кирилл Вячеславович": 79,
-      "Калинина Наталья Владимировна": 29,
-      "Кобызов Роман Александрович": 173,
-      "Паршинков Валерий Борисович": 21
+      "gas:candidate-vibid:2282000785455": 451,
+      "gas:candidate-vibid:2282000852222": 101,
+      "gas:candidate-vibid:2282000816690": 49,
+      "gas:candidate-vibid:2282000816730": 79,
+      "gas:candidate-vibid:2282000852273": 29,
+      "gas:candidate-vibid:2282000816665": 173,
+      "gas:candidate-vibid:2282000852262": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 376,
-      "Барило Роман Владимирович": 22,
-      "Волков Евгений Иванович": 40,
-      "Зимин Кирилл Вячеславович": 75,
-      "Калинина Наталья Владимировна": 27,
-      "Кобызов Роман Александрович": 158,
-      "Паршинков Валерий Борисович": 26
+      "gas:candidate-vibid:2282000785455": 376,
+      "gas:candidate-vibid:2282000852222": 22,
+      "gas:candidate-vibid:2282000816690": 40,
+      "gas:candidate-vibid:2282000816730": 75,
+      "gas:candidate-vibid:2282000852273": 27,
+      "gas:candidate-vibid:2282000816665": 158,
+      "gas:candidate-vibid:2282000852262": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 417,
-      "Барило Роман Владимирович": 31,
-      "Волков Евгений Иванович": 29,
-      "Зимин Кирилл Вячеславович": 63,
-      "Калинина Наталья Владимировна": 29,
-      "Кобызов Роман Александрович": 135,
-      "Паршинков Валерий Борисович": 108
+      "gas:candidate-vibid:2282000785455": 417,
+      "gas:candidate-vibid:2282000852222": 31,
+      "gas:candidate-vibid:2282000816690": 29,
+      "gas:candidate-vibid:2282000816730": 63,
+      "gas:candidate-vibid:2282000852273": 29,
+      "gas:candidate-vibid:2282000816665": 135,
+      "gas:candidate-vibid:2282000852262": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 312,
-      "Барило Роман Владимирович": 19,
-      "Волков Евгений Иванович": 57,
-      "Зимин Кирилл Вячеславович": 122,
-      "Калинина Наталья Владимировна": 83,
-      "Кобызов Роман Александрович": 75,
-      "Паршинков Валерий Борисович": 47
+      "gas:candidate-vibid:2282000785455": 312,
+      "gas:candidate-vibid:2282000852222": 19,
+      "gas:candidate-vibid:2282000816690": 57,
+      "gas:candidate-vibid:2282000816730": 122,
+      "gas:candidate-vibid:2282000852273": 83,
+      "gas:candidate-vibid:2282000816665": 75,
+      "gas:candidate-vibid:2282000852262": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 255,
-      "Барило Роман Владимирович": 36,
-      "Волков Евгений Иванович": 45,
-      "Зимин Кирилл Вячеславович": 62,
-      "Калинина Наталья Владимировна": 113,
-      "Кобызов Роман Александрович": 76,
-      "Паршинков Валерий Борисович": 30
+      "gas:candidate-vibid:2282000785455": 255,
+      "gas:candidate-vibid:2282000852222": 36,
+      "gas:candidate-vibid:2282000816690": 45,
+      "gas:candidate-vibid:2282000816730": 62,
+      "gas:candidate-vibid:2282000852273": 113,
+      "gas:candidate-vibid:2282000816665": 76,
+      "gas:candidate-vibid:2282000852262": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 432,
-      "Барило Роман Владимирович": 45,
-      "Волков Евгений Иванович": 64,
-      "Зимин Кирилл Вячеславович": 74,
-      "Калинина Наталья Владимировна": 50,
-      "Кобызов Роман Александрович": 128,
-      "Паршинков Валерий Борисович": 51
+      "gas:candidate-vibid:2282000785455": 432,
+      "gas:candidate-vibid:2282000852222": 45,
+      "gas:candidate-vibid:2282000816690": 64,
+      "gas:candidate-vibid:2282000816730": 74,
+      "gas:candidate-vibid:2282000852273": 50,
+      "gas:candidate-vibid:2282000816665": 128,
+      "gas:candidate-vibid:2282000852262": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 527,
-      "Барило Роман Владимирович": 20,
-      "Волков Евгений Иванович": 56,
-      "Зимин Кирилл Вячеславович": 101,
-      "Калинина Наталья Владимировна": 52,
-      "Кобызов Роман Александрович": 176,
-      "Паршинков Валерий Борисович": 24
+      "gas:candidate-vibid:2282000785455": 527,
+      "gas:candidate-vibid:2282000852222": 20,
+      "gas:candidate-vibid:2282000816690": 56,
+      "gas:candidate-vibid:2282000816730": 101,
+      "gas:candidate-vibid:2282000852273": 52,
+      "gas:candidate-vibid:2282000816665": 176,
+      "gas:candidate-vibid:2282000852262": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 460,
-      "Барило Роман Владимирович": 20,
-      "Волков Евгений Иванович": 37,
-      "Зимин Кирилл Вячеславович": 39,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 119,
-      "Паршинков Валерий Борисович": 21
+      "gas:candidate-vibid:2282000785455": 460,
+      "gas:candidate-vibid:2282000852222": 20,
+      "gas:candidate-vibid:2282000816690": 37,
+      "gas:candidate-vibid:2282000816730": 39,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 119,
+      "gas:candidate-vibid:2282000852262": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 248,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 74,
-      "Паршинков Валерий Борисович": 16
+      "gas:candidate-vibid:2282000785455": 248,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 74,
+      "gas:candidate-vibid:2282000852262": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 328,
-      "Барило Роман Владимирович": 23,
-      "Волков Евгений Иванович": 25,
-      "Зимин Кирилл Вячеславович": 37,
-      "Калинина Наталья Владимировна": 17,
-      "Кобызов Роман Александрович": 111,
-      "Паршинков Валерий Борисович": 14
+      "gas:candidate-vibid:2282000785455": 328,
+      "gas:candidate-vibid:2282000852222": 23,
+      "gas:candidate-vibid:2282000816690": 25,
+      "gas:candidate-vibid:2282000816730": 37,
+      "gas:candidate-vibid:2282000852273": 17,
+      "gas:candidate-vibid:2282000816665": 111,
+      "gas:candidate-vibid:2282000852262": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 179,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 22,
-      "Зимин Кирилл Вячеславович": 30,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 51,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 179,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 22,
+      "gas:candidate-vibid:2282000816730": 30,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 51,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 510,
-      "Барило Роман Владимирович": 81,
-      "Волков Евгений Иванович": 114,
-      "Зимин Кирилл Вячеславович": 141,
-      "Калинина Наталья Владимировна": 60,
-      "Кобызов Роман Александрович": 202,
-      "Паршинков Валерий Борисович": 52
+      "gas:candidate-vibid:2282000785455": 510,
+      "gas:candidate-vibid:2282000852222": 81,
+      "gas:candidate-vibid:2282000816690": 114,
+      "gas:candidate-vibid:2282000816730": 141,
+      "gas:candidate-vibid:2282000852273": 60,
+      "gas:candidate-vibid:2282000816665": 202,
+      "gas:candidate-vibid:2282000852262": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 447,
-      "Барило Роман Владимирович": 23,
-      "Волков Евгений Иванович": 44,
-      "Зимин Кирилл Вячеславович": 80,
-      "Калинина Наталья Владимировна": 28,
-      "Кобызов Роман Александрович": 126,
-      "Паршинков Валерий Борисович": 24
+      "gas:candidate-vibid:2282000785455": 447,
+      "gas:candidate-vibid:2282000852222": 23,
+      "gas:candidate-vibid:2282000816690": 44,
+      "gas:candidate-vibid:2282000816730": 80,
+      "gas:candidate-vibid:2282000852273": 28,
+      "gas:candidate-vibid:2282000816665": 126,
+      "gas:candidate-vibid:2282000852262": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777950&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777950&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 40,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 21,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 7,
-      "Паршинков Валерий Борисович": 23
+      "gas:candidate-vibid:2282000785455": 40,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 21,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 7,
+      "gas:candidate-vibid:2282000852262": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 79,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 29,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 19,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 79,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 29,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 19,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 19,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 0,
-      "Зимин Кирилл Вячеславович": 5,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 24,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 19,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 0,
+      "gas:candidate-vibid:2282000816730": 5,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 24,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 62,
-      "Барило Роман Владимирович": 21,
-      "Волков Евгений Иванович": 17,
-      "Зимин Кирилл Вячеславович": 40,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 14,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 62,
+      "gas:candidate-vibid:2282000852222": 21,
+      "gas:candidate-vibid:2282000816690": 17,
+      "gas:candidate-vibid:2282000816730": 40,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 14,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 24,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 0,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 24,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 0,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 19,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 3,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 9,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 19,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 3,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 9,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 57,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 18,
-      "Зимин Кирилл Вячеславович": 21,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 23,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 57,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 18,
+      "gas:candidate-vibid:2282000816730": 21,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 23,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 49,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 21,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 49,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 21,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 338,
-      "Барило Роман Владимирович": 23,
-      "Волков Евгений Иванович": 33,
-      "Зимин Кирилл Вячеславович": 51,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 96,
-      "Паршинков Валерий Борисович": 24
+      "gas:candidate-vibid:2282000785455": 338,
+      "gas:candidate-vibid:2282000852222": 23,
+      "gas:candidate-vibid:2282000816690": 33,
+      "gas:candidate-vibid:2282000816730": 51,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 96,
+      "gas:candidate-vibid:2282000852262": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 264,
-      "Барило Роман Владимирович": 30,
-      "Волков Евгений Иванович": 31,
-      "Зимин Кирилл Вячеславович": 37,
-      "Калинина Наталья Владимировна": 21,
-      "Кобызов Роман Александрович": 89,
-      "Паршинков Валерий Борисович": 14
+      "gas:candidate-vibid:2282000785455": 264,
+      "gas:candidate-vibid:2282000852222": 30,
+      "gas:candidate-vibid:2282000816690": 31,
+      "gas:candidate-vibid:2282000816730": 37,
+      "gas:candidate-vibid:2282000852273": 21,
+      "gas:candidate-vibid:2282000816665": 89,
+      "gas:candidate-vibid:2282000852262": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 57,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 17,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 57,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 17,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 74,
-      "Барило Роман Владимирович": 8,
-      "Волков Евгений Иванович": 15,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 29,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 74,
+      "gas:candidate-vibid:2282000852222": 8,
+      "gas:candidate-vibid:2282000816690": 15,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 29,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 110,
-      "Барило Роман Владимирович": 21,
-      "Волков Евгений Иванович": 13,
-      "Зимин Кирилл Вячеславович": 26,
-      "Калинина Наталья Владимировна": 20,
-      "Кобызов Роман Александрович": 57,
-      "Паршинков Валерий Борисович": 13
+      "gas:candidate-vibid:2282000785455": 110,
+      "gas:candidate-vibid:2282000852222": 21,
+      "gas:candidate-vibid:2282000816690": 13,
+      "gas:candidate-vibid:2282000816730": 26,
+      "gas:candidate-vibid:2282000852273": 20,
+      "gas:candidate-vibid:2282000816665": 57,
+      "gas:candidate-vibid:2282000852262": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 67,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 22,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 17,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 67,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 22,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 17,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 51,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 13,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 51,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 13,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 204,
-      "Барило Роман Владимирович": 22,
-      "Волков Евгений Иванович": 33,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 70,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 204,
+      "gas:candidate-vibid:2282000852222": 22,
+      "gas:candidate-vibid:2282000816690": 33,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 70,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 97,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 17,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 42,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 97,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 17,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 42,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 19,
-      "Барило Роман Владимирович": 14,
-      "Волков Евгений Иванович": 26,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 21,
-      "Кобызов Роман Александрович": 69,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 19,
+      "gas:candidate-vibid:2282000852222": 14,
+      "gas:candidate-vibid:2282000816690": 26,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 21,
+      "gas:candidate-vibid:2282000816665": 69,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 22,
-      "Барило Роман Владимирович": 0,
-      "Волков Евгений Иванович": 2,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 30,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 22,
+      "gas:candidate-vibid:2282000852222": 0,
+      "gas:candidate-vibid:2282000816690": 2,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 30,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 92,
-      "Барило Роман Владимирович": 21,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 13,
-      "Кобызов Роман Александрович": 39,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 92,
+      "gas:candidate-vibid:2282000852222": 21,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 13,
+      "gas:candidate-vibid:2282000816665": 39,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 21,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 7,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 21,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 7,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777952&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777952&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 85,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 37,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 85,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 37,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 76,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 12,
-      "Зимин Кирилл Вячеславович": 17,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 57,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 76,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 12,
+      "gas:candidate-vibid:2282000816730": 17,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 57,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 20,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 11,
-      "Калинина Наталья Владимировна": 7,
-      "Кобызов Роман Александрович": 30,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 20,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 11,
+      "gas:candidate-vibid:2282000852273": 7,
+      "gas:candidate-vibid:2282000816665": 30,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 51,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 4,
-      "Калинина Наталья Владимировна": 7,
-      "Кобызов Роман Александрович": 14,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 51,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 4,
+      "gas:candidate-vibid:2282000852273": 7,
+      "gas:candidate-vibid:2282000816665": 14,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 21,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 9,
-      "Зимин Кирилл Вячеславович": 0,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 11,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 21,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 9,
+      "gas:candidate-vibid:2282000816730": 0,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 11,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 122,
-      "Барило Роман Владимирович": 14,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 22,
-      "Калинина Наталья Владимировна": 20,
-      "Кобызов Роман Александрович": 60,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 122,
+      "gas:candidate-vibid:2282000852222": 14,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 22,
+      "gas:candidate-vibid:2282000852273": 20,
+      "gas:candidate-vibid:2282000816665": 60,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 27,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 4,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 6,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 27,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 4,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 6,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 50,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 21,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 50,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 21,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 68,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 18,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 17,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 68,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 18,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 17,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 57,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 3,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 36,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 57,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 3,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 36,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 39,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 11,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 11,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 39,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 11,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 11,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 29,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 5,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 7,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 29,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 5,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 7,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 458,
-      "Барило Роман Владимирович": 46,
-      "Волков Евгений Иванович": 52,
-      "Зимин Кирилл Вячеславович": 60,
-      "Калинина Наталья Владимировна": 39,
-      "Кобызов Роман Александрович": 102,
-      "Паршинков Валерий Борисович": 23
+      "gas:candidate-vibid:2282000785455": 458,
+      "gas:candidate-vibid:2282000852222": 46,
+      "gas:candidate-vibid:2282000816690": 52,
+      "gas:candidate-vibid:2282000816730": 60,
+      "gas:candidate-vibid:2282000852273": 39,
+      "gas:candidate-vibid:2282000816665": 102,
+      "gas:candidate-vibid:2282000852262": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 232,
-      "Барило Роман Владимирович": 18,
-      "Волков Евгений Иванович": 33,
-      "Зимин Кирилл Вячеславович": 32,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 93,
-      "Паршинков Валерий Борисович": 16
+      "gas:candidate-vibid:2282000785455": 232,
+      "gas:candidate-vibid:2282000852222": 18,
+      "gas:candidate-vibid:2282000816690": 33,
+      "gas:candidate-vibid:2282000816730": 32,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 93,
+      "gas:candidate-vibid:2282000852262": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 275,
-      "Барило Роман Владимирович": 18,
-      "Волков Евгений Иванович": 42,
-      "Зимин Кирилл Вячеславович": 40,
-      "Калинина Наталья Владимировна": 20,
-      "Кобызов Роман Александрович": 140,
-      "Паршинков Валерий Борисович": 27
+      "gas:candidate-vibid:2282000785455": 275,
+      "gas:candidate-vibid:2282000852222": 18,
+      "gas:candidate-vibid:2282000816690": 42,
+      "gas:candidate-vibid:2282000816730": 40,
+      "gas:candidate-vibid:2282000852273": 20,
+      "gas:candidate-vibid:2282000816665": 140,
+      "gas:candidate-vibid:2282000852262": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 442,
-      "Барило Роман Владимирович": 33,
-      "Волков Евгений Иванович": 44,
-      "Зимин Кирилл Вячеславович": 55,
-      "Калинина Наталья Владимировна": 30,
-      "Кобызов Роман Александрович": 181,
-      "Паршинков Валерий Борисович": 28
+      "gas:candidate-vibid:2282000785455": 442,
+      "gas:candidate-vibid:2282000852222": 33,
+      "gas:candidate-vibid:2282000816690": 44,
+      "gas:candidate-vibid:2282000816730": 55,
+      "gas:candidate-vibid:2282000852273": 30,
+      "gas:candidate-vibid:2282000816665": 181,
+      "gas:candidate-vibid:2282000852262": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 441,
-      "Барило Роман Владимирович": 26,
-      "Волков Евгений Иванович": 56,
-      "Зимин Кирилл Вячеславович": 56,
-      "Калинина Наталья Владимировна": 38,
-      "Кобызов Роман Александрович": 153,
-      "Паршинков Валерий Борисович": 20
+      "gas:candidate-vibid:2282000785455": 441,
+      "gas:candidate-vibid:2282000852222": 26,
+      "gas:candidate-vibid:2282000816690": 56,
+      "gas:candidate-vibid:2282000816730": 56,
+      "gas:candidate-vibid:2282000852273": 38,
+      "gas:candidate-vibid:2282000816665": 153,
+      "gas:candidate-vibid:2282000852262": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 256,
-      "Барило Роман Владимирович": 21,
-      "Волков Евгений Иванович": 39,
-      "Зимин Кирилл Вячеславович": 35,
-      "Калинина Наталья Владимировна": 21,
-      "Кобызов Роман Александрович": 66,
-      "Паршинков Валерий Борисович": 16
+      "gas:candidate-vibid:2282000785455": 256,
+      "gas:candidate-vibid:2282000852222": 21,
+      "gas:candidate-vibid:2282000816690": 39,
+      "gas:candidate-vibid:2282000816730": 35,
+      "gas:candidate-vibid:2282000852273": 21,
+      "gas:candidate-vibid:2282000816665": 66,
+      "gas:candidate-vibid:2282000852262": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 34,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 9,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 9,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 34,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 9,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 9,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 135,
-      "Барило Роман Владимирович": 35,
-      "Волков Евгений Иванович": 27,
-      "Зимин Кирилл Вячеславович": 31,
-      "Калинина Наталья Владимировна": 28,
-      "Кобызов Роман Александрович": 17,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 135,
+      "gas:candidate-vibid:2282000852222": 35,
+      "gas:candidate-vibid:2282000816690": 27,
+      "gas:candidate-vibid:2282000816730": 31,
+      "gas:candidate-vibid:2282000852273": 28,
+      "gas:candidate-vibid:2282000816665": 17,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 100,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 38,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 100,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 38,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 41,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 11,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 41,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 11,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777953&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777953&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 116,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 21,
-      "Калинина Наталья Владимировна": 17,
-      "Кобызов Роман Александрович": 51,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 116,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 21,
+      "gas:candidate-vibid:2282000852273": 17,
+      "gas:candidate-vibid:2282000816665": 51,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 146,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 31,
-      "Зимин Кирилл Вячеславович": 43,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 145,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 146,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 31,
+      "gas:candidate-vibid:2282000816730": 43,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 145,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 108,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 13,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 61,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 108,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 13,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 61,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 233,
-      "Барило Роман Владимирович": 29,
-      "Волков Евгений Иванович": 40,
-      "Зимин Кирилл Вячеславович": 38,
-      "Калинина Наталья Владимировна": 18,
-      "Кобызов Роман Александрович": 180,
-      "Паршинков Валерий Борисович": 26
+      "gas:candidate-vibid:2282000785455": 233,
+      "gas:candidate-vibid:2282000852222": 29,
+      "gas:candidate-vibid:2282000816690": 40,
+      "gas:candidate-vibid:2282000816730": 38,
+      "gas:candidate-vibid:2282000852273": 18,
+      "gas:candidate-vibid:2282000816665": 180,
+      "gas:candidate-vibid:2282000852262": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 106,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 27,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 87,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 106,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 27,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 87,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 167,
-      "Барило Роман Владимирович": 16,
-      "Волков Евгений Иванович": 34,
-      "Зимин Кирилл Вячеславович": 25,
-      "Калинина Наталья Владимировна": 15,
-      "Кобызов Роман Александрович": 157,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 167,
+      "gas:candidate-vibid:2282000852222": 16,
+      "gas:candidate-vibid:2282000816690": 34,
+      "gas:candidate-vibid:2282000816730": 25,
+      "gas:candidate-vibid:2282000852273": 15,
+      "gas:candidate-vibid:2282000816665": 157,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 117,
-      "Барило Роман Владимирович": 18,
-      "Волков Евгений Иванович": 29,
-      "Зимин Кирилл Вячеславович": 40,
-      "Калинина Наталья Владимировна": 24,
-      "Кобызов Роман Александрович": 81,
-      "Паршинков Валерий Борисович": 20
+      "gas:candidate-vibid:2282000785455": 117,
+      "gas:candidate-vibid:2282000852222": 18,
+      "gas:candidate-vibid:2282000816690": 29,
+      "gas:candidate-vibid:2282000816730": 40,
+      "gas:candidate-vibid:2282000852273": 24,
+      "gas:candidate-vibid:2282000816665": 81,
+      "gas:candidate-vibid:2282000852262": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 74,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 6,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 13,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 74,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 6,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 13,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 62,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 7,
-      "Кобызов Роман Александрович": 15,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 62,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 7,
+      "gas:candidate-vibid:2282000816665": 15,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 86,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 18,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 28,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 86,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 18,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 28,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 20,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 8,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 20,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 8,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 50,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 15,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 35,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 50,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 15,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 35,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 15,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 3,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 15,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 3,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 11,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 2,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 8,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 11,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 2,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 8,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 23,
-      "Барило Роман Владимирович": 0,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 23,
+      "gas:candidate-vibid:2282000852222": 0,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 63,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 24,
-      "Калинина Наталья Владимировна": 7,
-      "Кобызов Роман Александрович": 49,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 63,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 24,
+      "gas:candidate-vibid:2282000852273": 7,
+      "gas:candidate-vibid:2282000816665": 49,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 27,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 3,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 18,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 27,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 3,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 18,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 12,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 16,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 12,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 16,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 57,
-      "Барило Роман Владимирович": 8,
-      "Волков Евгений Иванович": 29,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 39,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 57,
+      "gas:candidate-vibid:2282000852222": 8,
+      "gas:candidate-vibid:2282000816690": 29,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 39,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 5,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 1,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 7,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 5,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 1,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 7,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 16,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 0,
-      "Кобызов Роман Александрович": 13,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 16,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 0,
+      "gas:candidate-vibid:2282000816665": 13,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 115,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 62,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 115,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 62,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 17,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 9,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 17,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 9,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 20,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 4,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 10,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 20,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 4,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 10,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 56,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 7,
-      "Калинина Наталья Владимировна": 7,
-      "Кобызов Роман Александрович": 28,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 56,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 7,
+      "gas:candidate-vibid:2282000852273": 7,
+      "gas:candidate-vibid:2282000816665": 28,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 56,
-      "Барило Роман Владимирович": 18,
-      "Волков Евгений Иванович": 39,
-      "Зимин Кирилл Вячеславович": 25,
-      "Калинина Наталья Владимировна": 24,
-      "Кобызов Роман Александрович": 49,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 56,
+      "gas:candidate-vibid:2282000852222": 18,
+      "gas:candidate-vibid:2282000816690": 39,
+      "gas:candidate-vibid:2282000816730": 25,
+      "gas:candidate-vibid:2282000852273": 24,
+      "gas:candidate-vibid:2282000816665": 49,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 29,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 11,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 9,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 29,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 11,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 9,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 87,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 32,
-      "Зимин Кирилл Вячеславович": 39,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 68,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 87,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 32,
+      "gas:candidate-vibid:2282000816730": 39,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 68,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 102,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 25,
-      "Зимин Кирилл Вячеславович": 26,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 51,
-      "Паршинков Валерий Борисович": 19
+      "gas:candidate-vibid:2282000785455": 102,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 25,
+      "gas:candidate-vibid:2282000816730": 26,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 51,
+      "gas:candidate-vibid:2282000852262": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 51,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 13,
-      "Зимин Кирилл Вячеславович": 7,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 12,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 51,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 13,
+      "gas:candidate-vibid:2282000816730": 7,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 12,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 30,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 19,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 30,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 19,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 132,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 34,
-      "Зимин Кирилл Вячеславович": 33,
-      "Калинина Наталья Владимировна": 23,
-      "Кобызов Роман Александрович": 85,
-      "Паршинков Валерий Борисович": 19
+      "gas:candidate-vibid:2282000785455": 132,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 34,
+      "gas:candidate-vibid:2282000816730": 33,
+      "gas:candidate-vibid:2282000852273": 23,
+      "gas:candidate-vibid:2282000816665": 85,
+      "gas:candidate-vibid:2282000852262": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777954&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777954&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 346,
-      "Барило Роман Владимирович": 26,
-      "Волков Евгений Иванович": 46,
-      "Зимин Кирилл Вячеславович": 40,
-      "Калинина Наталья Владимировна": 30,
-      "Кобызов Роман Александрович": 166,
-      "Паршинков Валерий Борисович": 45
+      "gas:candidate-vibid:2282000785455": 346,
+      "gas:candidate-vibid:2282000852222": 26,
+      "gas:candidate-vibid:2282000816690": 46,
+      "gas:candidate-vibid:2282000816730": 40,
+      "gas:candidate-vibid:2282000852273": 30,
+      "gas:candidate-vibid:2282000816665": 166,
+      "gas:candidate-vibid:2282000852262": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 218,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 25,
-      "Зимин Кирилл Вячеславович": 27,
-      "Калинина Наталья Владимировна": 23,
-      "Кобызов Роман Александрович": 91,
-      "Паршинков Валерий Борисович": 20
+      "gas:candidate-vibid:2282000785455": 218,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 25,
+      "gas:candidate-vibid:2282000816730": 27,
+      "gas:candidate-vibid:2282000852273": 23,
+      "gas:candidate-vibid:2282000816665": 91,
+      "gas:candidate-vibid:2282000852262": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 383,
-      "Барило Роман Владимирович": 28,
-      "Волков Евгений Иванович": 45,
-      "Зимин Кирилл Вячеславович": 59,
-      "Калинина Наталья Владимировна": 30,
-      "Кобызов Роман Александрович": 139,
-      "Паршинков Валерий Борисович": 45
+      "gas:candidate-vibid:2282000785455": 383,
+      "gas:candidate-vibid:2282000852222": 28,
+      "gas:candidate-vibid:2282000816690": 45,
+      "gas:candidate-vibid:2282000816730": 59,
+      "gas:candidate-vibid:2282000852273": 30,
+      "gas:candidate-vibid:2282000816665": 139,
+      "gas:candidate-vibid:2282000852262": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 516,
-      "Барило Роман Владимирович": 22,
-      "Волков Евгений Иванович": 62,
-      "Зимин Кирилл Вячеславович": 54,
-      "Калинина Наталья Владимировна": 31,
-      "Кобызов Роман Александрович": 241,
-      "Паршинков Валерий Борисович": 36
+      "gas:candidate-vibid:2282000785455": 516,
+      "gas:candidate-vibid:2282000852222": 22,
+      "gas:candidate-vibid:2282000816690": 62,
+      "gas:candidate-vibid:2282000816730": 54,
+      "gas:candidate-vibid:2282000852273": 31,
+      "gas:candidate-vibid:2282000816665": 241,
+      "gas:candidate-vibid:2282000852262": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 302,
-      "Барило Роман Владимирович": 22,
-      "Волков Евгений Иванович": 49,
-      "Зимин Кирилл Вячеславович": 32,
-      "Калинина Наталья Владимировна": 22,
-      "Кобызов Роман Александрович": 128,
-      "Паршинков Валерий Борисович": 31
+      "gas:candidate-vibid:2282000785455": 302,
+      "gas:candidate-vibid:2282000852222": 22,
+      "gas:candidate-vibid:2282000816690": 49,
+      "gas:candidate-vibid:2282000816730": 32,
+      "gas:candidate-vibid:2282000852273": 22,
+      "gas:candidate-vibid:2282000816665": 128,
+      "gas:candidate-vibid:2282000852262": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 369,
-      "Барило Роман Владимирович": 22,
-      "Волков Евгений Иванович": 46,
-      "Зимин Кирилл Вячеславович": 59,
-      "Калинина Наталья Владимировна": 40,
-      "Кобызов Роман Александрович": 122,
-      "Паршинков Валерий Борисович": 42
+      "gas:candidate-vibid:2282000785455": 369,
+      "gas:candidate-vibid:2282000852222": 22,
+      "gas:candidate-vibid:2282000816690": 46,
+      "gas:candidate-vibid:2282000816730": 59,
+      "gas:candidate-vibid:2282000852273": 40,
+      "gas:candidate-vibid:2282000816665": 122,
+      "gas:candidate-vibid:2282000852262": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 252,
-      "Барило Роман Владимирович": 16,
-      "Волков Евгений Иванович": 30,
-      "Зимин Кирилл Вячеславович": 59,
-      "Калинина Наталья Владимировна": 15,
-      "Кобызов Роман Александрович": 112,
-      "Паршинков Валерий Борисович": 60
+      "gas:candidate-vibid:2282000785455": 252,
+      "gas:candidate-vibid:2282000852222": 16,
+      "gas:candidate-vibid:2282000816690": 30,
+      "gas:candidate-vibid:2282000816730": 59,
+      "gas:candidate-vibid:2282000852273": 15,
+      "gas:candidate-vibid:2282000816665": 112,
+      "gas:candidate-vibid:2282000852262": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 72,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 9,
-      "Зимин Кирилл Вячеславович": 4,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 38,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 72,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 9,
+      "gas:candidate-vibid:2282000816730": 4,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 38,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 146,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 32,
-      "Зимин Кирилл Вячеславович": 24,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 76,
-      "Паршинков Валерий Борисович": 16
+      "gas:candidate-vibid:2282000785455": 146,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 32,
+      "gas:candidate-vibid:2282000816730": 24,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 76,
+      "gas:candidate-vibid:2282000852262": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 182,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 26,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 66,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 182,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 26,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 66,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 155,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 36,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 122,
-      "Паршинков Валерий Борисович": 16
+      "gas:candidate-vibid:2282000785455": 155,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 36,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 122,
+      "gas:candidate-vibid:2282000852262": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 169,
-      "Барило Роман Владимирович": 8,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 95,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 169,
+      "gas:candidate-vibid:2282000852222": 8,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 95,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777955&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777955&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 525,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 42,
-      "Зимин Кирилл Вячеславович": 63,
-      "Калинина Наталья Владимировна": 37,
-      "Кобызов Роман Александрович": 206,
-      "Паршинков Валерий Борисович": 24
+      "gas:candidate-vibid:2282000785455": 525,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 42,
+      "gas:candidate-vibid:2282000816730": 63,
+      "gas:candidate-vibid:2282000852273": 37,
+      "gas:candidate-vibid:2282000816665": 206,
+      "gas:candidate-vibid:2282000852262": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 384,
-      "Барило Роман Владимирович": 17,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 43,
-      "Калинина Наталья Владимировна": 17,
-      "Кобызов Роман Александрович": 121,
-      "Паршинков Валерий Борисович": 27
+      "gas:candidate-vibid:2282000785455": 384,
+      "gas:candidate-vibid:2282000852222": 17,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 43,
+      "gas:candidate-vibid:2282000852273": 17,
+      "gas:candidate-vibid:2282000816665": 121,
+      "gas:candidate-vibid:2282000852262": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 325,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 53,
-      "Калинина Наталья Владимировна": 19,
-      "Кобызов Роман Александрович": 143,
-      "Паршинков Валерий Борисович": 16
+      "gas:candidate-vibid:2282000785455": 325,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 53,
+      "gas:candidate-vibid:2282000852273": 19,
+      "gas:candidate-vibid:2282000816665": 143,
+      "gas:candidate-vibid:2282000852262": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 300,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 27,
-      "Калинина Наталья Владимировна": 20,
-      "Кобызов Роман Александрович": 119,
-      "Паршинков Валерий Борисович": 20
+      "gas:candidate-vibid:2282000785455": 300,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 27,
+      "gas:candidate-vibid:2282000852273": 20,
+      "gas:candidate-vibid:2282000816665": 119,
+      "gas:candidate-vibid:2282000852262": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 258,
-      "Барило Роман Владимирович": 17,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 33,
-      "Калинина Наталья Владимировна": 17,
-      "Кобызов Роман Александрович": 86,
-      "Паршинков Валерий Борисович": 19
+      "gas:candidate-vibid:2282000785455": 258,
+      "gas:candidate-vibid:2282000852222": 17,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 33,
+      "gas:candidate-vibid:2282000852273": 17,
+      "gas:candidate-vibid:2282000816665": 86,
+      "gas:candidate-vibid:2282000852262": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 363,
-      "Барило Роман Владимирович": 26,
-      "Волков Евгений Иванович": 47,
-      "Зимин Кирилл Вячеславович": 45,
-      "Калинина Наталья Владимировна": 31,
-      "Кобызов Роман Александрович": 107,
-      "Паршинков Валерий Борисович": 17
+      "gas:candidate-vibid:2282000785455": 363,
+      "gas:candidate-vibid:2282000852222": 26,
+      "gas:candidate-vibid:2282000816690": 47,
+      "gas:candidate-vibid:2282000816730": 45,
+      "gas:candidate-vibid:2282000852273": 31,
+      "gas:candidate-vibid:2282000816665": 107,
+      "gas:candidate-vibid:2282000852262": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 406,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 44,
-      "Зимин Кирилл Вячеславович": 40,
-      "Калинина Наталья Владимировна": 38,
-      "Кобызов Роман Александрович": 118,
-      "Паршинков Валерий Борисович": 21
+      "gas:candidate-vibid:2282000785455": 406,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 44,
+      "gas:candidate-vibid:2282000816730": 40,
+      "gas:candidate-vibid:2282000852273": 38,
+      "gas:candidate-vibid:2282000816665": 118,
+      "gas:candidate-vibid:2282000852262": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 512,
-      "Барило Роман Владимирович": 31,
-      "Волков Евгений Иванович": 33,
-      "Зимин Кирилл Вячеславович": 78,
-      "Калинина Наталья Владимировна": 55,
-      "Кобызов Роман Александрович": 162,
-      "Паршинков Валерий Борисович": 60
+      "gas:candidate-vibid:2282000785455": 512,
+      "gas:candidate-vibid:2282000852222": 31,
+      "gas:candidate-vibid:2282000816690": 33,
+      "gas:candidate-vibid:2282000816730": 78,
+      "gas:candidate-vibid:2282000852273": 55,
+      "gas:candidate-vibid:2282000816665": 162,
+      "gas:candidate-vibid:2282000852262": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 522,
-      "Барило Роман Владимирович": 27,
-      "Волков Евгений Иванович": 37,
-      "Зимин Кирилл Вячеславович": 72,
-      "Калинина Наталья Владимировна": 13,
-      "Кобызов Роман Александрович": 147,
-      "Паршинков Валерий Борисович": 30
+      "gas:candidate-vibid:2282000785455": 522,
+      "gas:candidate-vibid:2282000852222": 27,
+      "gas:candidate-vibid:2282000816690": 37,
+      "gas:candidate-vibid:2282000816730": 72,
+      "gas:candidate-vibid:2282000852273": 13,
+      "gas:candidate-vibid:2282000816665": 147,
+      "gas:candidate-vibid:2282000852262": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 449,
-      "Барило Роман Владимирович": 14,
-      "Волков Евгений Иванович": 32,
-      "Зимин Кирилл Вячеславович": 35,
-      "Калинина Наталья Владимировна": 25,
-      "Кобызов Роман Александрович": 126,
-      "Паршинков Валерий Борисович": 25
+      "gas:candidate-vibid:2282000785455": 449,
+      "gas:candidate-vibid:2282000852222": 14,
+      "gas:candidate-vibid:2282000816690": 32,
+      "gas:candidate-vibid:2282000816730": 35,
+      "gas:candidate-vibid:2282000852273": 25,
+      "gas:candidate-vibid:2282000816665": 126,
+      "gas:candidate-vibid:2282000852262": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 457,
-      "Барило Роман Владимирович": 20,
-      "Волков Евгений Иванович": 26,
-      "Зимин Кирилл Вячеславович": 56,
-      "Калинина Наталья Владимировна": 23,
-      "Кобызов Роман Александрович": 129,
-      "Паршинков Валерий Борисович": 21
+      "gas:candidate-vibid:2282000785455": 457,
+      "gas:candidate-vibid:2282000852222": 20,
+      "gas:candidate-vibid:2282000816690": 26,
+      "gas:candidate-vibid:2282000816730": 56,
+      "gas:candidate-vibid:2282000852273": 23,
+      "gas:candidate-vibid:2282000816665": 129,
+      "gas:candidate-vibid:2282000852262": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 162,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 25,
-      "Калинина Наталья Владимировна": 15,
-      "Кобызов Роман Александрович": 45,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 162,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 25,
+      "gas:candidate-vibid:2282000852273": 15,
+      "gas:candidate-vibid:2282000816665": 45,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777956&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777956&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 83,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 18,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 83,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 18,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 183,
-      "Барило Роман Владимирович": 19,
-      "Волков Евгений Иванович": 32,
-      "Зимин Кирилл Вячеславович": 28,
-      "Калинина Наталья Владимировна": 26,
-      "Кобызов Роман Александрович": 73,
-      "Паршинков Валерий Борисович": 13
+      "gas:candidate-vibid:2282000785455": 183,
+      "gas:candidate-vibid:2282000852222": 19,
+      "gas:candidate-vibid:2282000816690": 32,
+      "gas:candidate-vibid:2282000816730": 28,
+      "gas:candidate-vibid:2282000852273": 26,
+      "gas:candidate-vibid:2282000816665": 73,
+      "gas:candidate-vibid:2282000852262": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 219,
-      "Барило Роман Владимирович": 31,
-      "Волков Евгений Иванович": 65,
-      "Зимин Кирилл Вячеславович": 99,
-      "Калинина Наталья Владимировна": 40,
-      "Кобызов Роман Александрович": 86,
-      "Паршинков Валерий Борисович": 18
+      "gas:candidate-vibid:2282000785455": 219,
+      "gas:candidate-vibid:2282000852222": 31,
+      "gas:candidate-vibid:2282000816690": 65,
+      "gas:candidate-vibid:2282000816730": 99,
+      "gas:candidate-vibid:2282000852273": 40,
+      "gas:candidate-vibid:2282000816665": 86,
+      "gas:candidate-vibid:2282000852262": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 77,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 24,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 77,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 24,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 24,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 28,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 24,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 28,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 37,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 22,
-      "Кобызов Роман Александрович": 10,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 37,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 22,
+      "gas:candidate-vibid:2282000816665": 10,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 48,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 15,
-      "Зимин Кирилл Вячеславович": 11,
-      "Калинина Наталья Владимировна": 21,
-      "Кобызов Роман Александрович": 27,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 48,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 15,
+      "gas:candidate-vibid:2282000816730": 11,
+      "gas:candidate-vibid:2282000852273": 21,
+      "gas:candidate-vibid:2282000816665": 27,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 13,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 0,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 8,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 13,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 0,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 8,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 23,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 44,
-      "Паршинков Валерий Борисович": 21
+      "gas:candidate-vibid:2282000785455": 23,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 44,
+      "gas:candidate-vibid:2282000852262": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 47,
-      "Барило Роман Владимирович": 8,
-      "Волков Евгений Иванович": 12,
-      "Зимин Кирилл Вячеславович": 22,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 37,
-      "Паршинков Валерий Борисович": 19
+      "gas:candidate-vibid:2282000785455": 47,
+      "gas:candidate-vibid:2282000852222": 8,
+      "gas:candidate-vibid:2282000816690": 12,
+      "gas:candidate-vibid:2282000816730": 22,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 37,
+      "gas:candidate-vibid:2282000852262": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 11,
-      "Барило Роман Владимирович": 0,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 4,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 10,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 11,
+      "gas:candidate-vibid:2282000852222": 0,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 4,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 10,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 11,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 17,
-      "Зимин Кирилл Вячеславович": 15,
-      "Калинина Наталья Владимировна": 19,
-      "Кобызов Роман Александрович": 21,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 11,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 17,
+      "gas:candidate-vibid:2282000816730": 15,
+      "gas:candidate-vibid:2282000852273": 19,
+      "gas:candidate-vibid:2282000816665": 21,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 37,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 4,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 37,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 4,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 40,
-      "Барило Роман Владимирович": 23,
-      "Волков Евгений Иванович": 37,
-      "Зимин Кирилл Вячеславович": 34,
-      "Калинина Наталья Владимировна": 34,
-      "Кобызов Роман Александрович": 31,
-      "Паршинков Валерий Борисович": 25
+      "gas:candidate-vibid:2282000785455": 40,
+      "gas:candidate-vibid:2282000852222": 23,
+      "gas:candidate-vibid:2282000816690": 37,
+      "gas:candidate-vibid:2282000816730": 34,
+      "gas:candidate-vibid:2282000852273": 34,
+      "gas:candidate-vibid:2282000816665": 31,
+      "gas:candidate-vibid:2282000852262": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 89,
-      "Барило Роман Владимирович": 19,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 33,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 89,
+      "gas:candidate-vibid:2282000852222": 19,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 33,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 112,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 17,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 18,
-      "Кобызов Роман Александрович": 70,
-      "Паршинков Валерий Борисович": 18
+      "gas:candidate-vibid:2282000785455": 112,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 17,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 18,
+      "gas:candidate-vibid:2282000816665": 70,
+      "gas:candidate-vibid:2282000852262": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 24,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 2,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 24,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 2,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 43,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 13,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 12,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 43,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 13,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 12,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 30,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 9,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 3,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 30,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 9,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 3,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 3,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 2,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 0,
-      "Кобызов Роман Александрович": 3,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 3,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 2,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 0,
+      "gas:candidate-vibid:2282000816665": 3,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 25,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 0,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 1,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 25,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 0,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 1,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 114,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 18,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 32,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 114,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 18,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 32,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 23,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 23,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 38,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 11,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 13,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 38,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 11,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 13,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 20,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 2,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 3,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 20,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 2,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 3,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 46,
-      "Барило Роман Владимирович": 26,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 20,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 19,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 46,
+      "gas:candidate-vibid:2282000852222": 26,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 20,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 19,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 45,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 9,
-      "Зимин Кирилл Вячеславович": 25,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 33,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 45,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 9,
+      "gas:candidate-vibid:2282000816730": 25,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 33,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 7,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 1,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 7,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 1,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 33,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 6,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 33,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 6,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 31,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 6,
-      "Кобызов Роман Александрович": 4,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 31,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 6,
+      "gas:candidate-vibid:2282000816665": 4,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 13,
-      "Барило Роман Владимирович": 0,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 5,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 10,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 13,
+      "gas:candidate-vibid:2282000852222": 0,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 5,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 10,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 172,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 52,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 172,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 52,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 54,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 13,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 24,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 54,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 13,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 24,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 72,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 13,
-      "Кобызов Роман Александрович": 37,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 72,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 13,
+      "gas:candidate-vibid:2282000816665": 37,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777957&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777957&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 103,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 9,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 25,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 103,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 9,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 25,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 258,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 28,
-      "Зимин Кирилл Вячеславович": 39,
-      "Калинина Наталья Владимировна": 17,
-      "Кобызов Роман Александрович": 56,
-      "Паршинков Валерий Борисович": 16
+      "gas:candidate-vibid:2282000785455": 258,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 28,
+      "gas:candidate-vibid:2282000816730": 39,
+      "gas:candidate-vibid:2282000852273": 17,
+      "gas:candidate-vibid:2282000816665": 56,
+      "gas:candidate-vibid:2282000852262": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 176,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 15,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 86,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 176,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 15,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 86,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 267,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 33,
-      "Зимин Кирилл Вячеславович": 26,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 125,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 267,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 33,
+      "gas:candidate-vibid:2282000816730": 26,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 125,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 176,
-      "Барило Роман Владимирович": 8,
-      "Волков Евгений Иванович": 24,
-      "Зимин Кирилл Вячеславович": 29,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 87,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 176,
+      "gas:candidate-vibid:2282000852222": 8,
+      "gas:candidate-vibid:2282000816690": 24,
+      "gas:candidate-vibid:2282000816730": 29,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 87,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 148,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 15,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 38,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 148,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 15,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 38,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 186,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 28,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 79,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 186,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 28,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 79,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 220,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 40,
-      "Зимин Кирилл Вячеславович": 37,
-      "Калинина Наталья Владимировна": 22,
-      "Кобызов Роман Александрович": 80,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 220,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 40,
+      "gas:candidate-vibid:2282000816730": 37,
+      "gas:candidate-vibid:2282000852273": 22,
+      "gas:candidate-vibid:2282000816665": 80,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 167,
-      "Барило Роман Владимирович": 14,
-      "Волков Евгений Иванович": 34,
-      "Зимин Кирилл Вячеславович": 34,
-      "Калинина Наталья Владимировна": 32,
-      "Кобызов Роман Александрович": 62,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 167,
+      "gas:candidate-vibid:2282000852222": 14,
+      "gas:candidate-vibid:2282000816690": 34,
+      "gas:candidate-vibid:2282000816730": 34,
+      "gas:candidate-vibid:2282000852273": 32,
+      "gas:candidate-vibid:2282000816665": 62,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 38,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 10,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 38,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 10,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 315,
-      "Барило Роман Владимирович": 18,
-      "Волков Евгений Иванович": 37,
-      "Зимин Кирилл Вячеславович": 34,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 93,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 315,
+      "gas:candidate-vibid:2282000852222": 18,
+      "gas:candidate-vibid:2282000816690": 37,
+      "gas:candidate-vibid:2282000816730": 34,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 93,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 139,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 37,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 30,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 139,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 37,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 30,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 49,
-      "Барило Роман Владимирович": 0,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 20,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 49,
+      "gas:candidate-vibid:2282000852222": 0,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 20,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 45,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 20,
-      "Калинина Наталья Владимировна": 6,
-      "Кобызов Роман Александрович": 14,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 45,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 20,
+      "gas:candidate-vibid:2282000852273": 6,
+      "gas:candidate-vibid:2282000816665": 14,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 120,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 18,
-      "Зимин Кирилл Вячеславович": 15,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 23,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 120,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 18,
+      "gas:candidate-vibid:2282000816730": 15,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 23,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 57,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 17,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 9,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 57,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 17,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 9,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 144,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 24,
-      "Зимин Кирилл Вячеславович": 30,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 25,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 144,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 24,
+      "gas:candidate-vibid:2282000816730": 30,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 25,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 133,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 30,
-      "Зимин Кирилл Вячеславович": 32,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 48,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 133,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 30,
+      "gas:candidate-vibid:2282000816730": 32,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 48,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 367,
-      "Барило Роман Владимирович": 19,
-      "Волков Евгений Иванович": 52,
-      "Зимин Кирилл Вячеславович": 74,
-      "Калинина Наталья Владимировна": 39,
-      "Кобызов Роман Александрович": 101,
-      "Паршинков Валерий Борисович": 23
+      "gas:candidate-vibid:2282000785455": 367,
+      "gas:candidate-vibid:2282000852222": 19,
+      "gas:candidate-vibid:2282000816690": 52,
+      "gas:candidate-vibid:2282000816730": 74,
+      "gas:candidate-vibid:2282000852273": 39,
+      "gas:candidate-vibid:2282000816665": 101,
+      "gas:candidate-vibid:2282000852262": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 50,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 9,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 14,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 50,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 9,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 14,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 29,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 3,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 12,
-      "Паршинков Валерий Борисович": 0
+      "gas:candidate-vibid:2282000785455": 29,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 3,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 12,
+      "gas:candidate-vibid:2282000852262": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 158,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 25,
-      "Зимин Кирилл Вячеславович": 33,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 45,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 158,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 25,
+      "gas:candidate-vibid:2282000816730": 33,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 45,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 113,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 6,
-      "Кобызов Роман Александрович": 16,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 113,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 6,
+      "gas:candidate-vibid:2282000816665": 16,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 44,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 9,
-      "Зимин Кирилл Вячеславович": 9,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 13,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 44,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 9,
+      "gas:candidate-vibid:2282000816730": 9,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 13,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777960&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777960&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 125,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 15,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 38,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 125,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 15,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 38,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 20,
-      "Барило Роман Владимирович": 0,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 10,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 6,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 20,
+      "gas:candidate-vibid:2282000852222": 0,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 10,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 6,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 49,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 22,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 32,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 49,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 22,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 32,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 211,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 15,
-      "Калинина Наталья Владимировна": 18,
-      "Кобызов Роман Александрович": 72,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 211,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 15,
+      "gas:candidate-vibid:2282000852273": 18,
+      "gas:candidate-vibid:2282000816665": 72,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 116,
-      "Барило Роман Владимирович": 14,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 20,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 52,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 116,
+      "gas:candidate-vibid:2282000852222": 14,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 20,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 52,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 60,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 13,
-      "Зимин Кирилл Вячеславович": 10,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 24,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 60,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 13,
+      "gas:candidate-vibid:2282000816730": 10,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 24,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 87,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 15,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 28,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 87,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 15,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 28,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 151,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 18,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 38,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 151,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 18,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 38,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 51,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 13,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 20,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 51,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 13,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 20,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 33,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 5,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 35,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 33,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 5,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 35,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 43,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 5,
-      "Зимин Кирилл Вячеславович": 10,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 29,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 43,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 5,
+      "gas:candidate-vibid:2282000816730": 10,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 29,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 198,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 33,
-      "Зимин Кирилл Вячеславович": 44,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 88,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 198,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 33,
+      "gas:candidate-vibid:2282000816730": 44,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 88,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 292,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 35,
-      "Зимин Кирилл Вячеславович": 85,
-      "Калинина Наталья Владимировна": 37,
-      "Кобызов Роман Александрович": 114,
-      "Паршинков Валерий Борисович": 33
+      "gas:candidate-vibid:2282000785455": 292,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 35,
+      "gas:candidate-vibid:2282000816730": 85,
+      "gas:candidate-vibid:2282000852273": 37,
+      "gas:candidate-vibid:2282000816665": 114,
+      "gas:candidate-vibid:2282000852262": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 88,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 24,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 35,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 88,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 24,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 35,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 91,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 7,
-      "Калинина Наталья Владимировна": 6,
-      "Кобызов Роман Александрович": 25,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 91,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 7,
+      "gas:candidate-vibid:2282000852273": 6,
+      "gas:candidate-vibid:2282000816665": 25,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 153,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 22,
-      "Зимин Кирилл Вячеславович": 21,
-      "Калинина Наталья Владимировна": 32,
-      "Кобызов Роман Александрович": 38,
-      "Паршинков Валерий Борисович": 24
+      "gas:candidate-vibid:2282000785455": 153,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 22,
+      "gas:candidate-vibid:2282000816730": 21,
+      "gas:candidate-vibid:2282000852273": 32,
+      "gas:candidate-vibid:2282000816665": 38,
+      "gas:candidate-vibid:2282000852262": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 99,
-      "Барило Роман Владимирович": 1,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 17,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 14,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 99,
+      "gas:candidate-vibid:2282000852222": 1,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 17,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 14,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777961&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777961&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 378,
-      "Барило Роман Владимирович": 29,
-      "Волков Евгений Иванович": 40,
-      "Зимин Кирилл Вячеславович": 74,
-      "Калинина Наталья Владимировна": 24,
-      "Кобызов Роман Александрович": 171,
-      "Паршинков Валерий Борисович": 27
+      "gas:candidate-vibid:2282000785455": 378,
+      "gas:candidate-vibid:2282000852222": 29,
+      "gas:candidate-vibid:2282000816690": 40,
+      "gas:candidate-vibid:2282000816730": 74,
+      "gas:candidate-vibid:2282000852273": 24,
+      "gas:candidate-vibid:2282000816665": 171,
+      "gas:candidate-vibid:2282000852262": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 381,
-      "Барило Роман Владимирович": 29,
-      "Волков Евгений Иванович": 47,
-      "Зимин Кирилл Вячеславович": 69,
-      "Калинина Наталья Владимировна": 29,
-      "Кобызов Роман Александрович": 156,
-      "Паршинков Валерий Борисович": 21
+      "gas:candidate-vibid:2282000785455": 381,
+      "gas:candidate-vibid:2282000852222": 29,
+      "gas:candidate-vibid:2282000816690": 47,
+      "gas:candidate-vibid:2282000816730": 69,
+      "gas:candidate-vibid:2282000852273": 29,
+      "gas:candidate-vibid:2282000816665": 156,
+      "gas:candidate-vibid:2282000852262": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 254,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 29,
-      "Зимин Кирилл Вячеславович": 34,
-      "Калинина Наталья Владимировна": 15,
-      "Кобызов Роман Александрович": 67,
-      "Паршинков Валерий Борисович": 23
+      "gas:candidate-vibid:2282000785455": 254,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 29,
+      "gas:candidate-vibid:2282000816730": 34,
+      "gas:candidate-vibid:2282000852273": 15,
+      "gas:candidate-vibid:2282000816665": 67,
+      "gas:candidate-vibid:2282000852262": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 77,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 77,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 111,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 25,
-      "Зимин Кирилл Вячеславович": 30,
-      "Калинина Наталья Владимировна": 20,
-      "Кобызов Роман Александрович": 56,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 111,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 25,
+      "gas:candidate-vibid:2282000816730": 30,
+      "gas:candidate-vibid:2282000852273": 20,
+      "gas:candidate-vibid:2282000816665": 56,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 41,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 8,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 0,
-      "Кобызов Роман Александрович": 11,
-      "Паршинков Валерий Борисович": 10
+      "gas:candidate-vibid:2282000785455": 41,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 8,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 0,
+      "gas:candidate-vibid:2282000816665": 11,
+      "gas:candidate-vibid:2282000852262": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 112,
-      "Барило Роман Владимирович": 8,
-      "Волков Евгений Иванович": 19,
-      "Зимин Кирилл Вячеславович": 17,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 18,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 112,
+      "gas:candidate-vibid:2282000852222": 8,
+      "gas:candidate-vibid:2282000816690": 19,
+      "gas:candidate-vibid:2282000816730": 17,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 18,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 25,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 4,
-      "Калинина Наталья Владимировна": 1,
-      "Кобызов Роман Александрович": 7,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 25,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 4,
+      "gas:candidate-vibid:2282000852273": 1,
+      "gas:candidate-vibid:2282000816665": 7,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 72,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 15,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 47,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 72,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 15,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 47,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 325,
-      "Барило Роман Владимирович": 26,
-      "Волков Евгений Иванович": 24,
-      "Зимин Кирилл Вячеславович": 31,
-      "Калинина Наталья Владимировна": 25,
-      "Кобызов Роман Александрович": 51,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 325,
+      "gas:candidate-vibid:2282000852222": 26,
+      "gas:candidate-vibid:2282000816690": 24,
+      "gas:candidate-vibid:2282000816730": 31,
+      "gas:candidate-vibid:2282000852273": 25,
+      "gas:candidate-vibid:2282000816665": 51,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 143,
-      "Барило Роман Владимирович": 22,
-      "Волков Евгений Иванович": 31,
-      "Зимин Кирилл Вячеславович": 38,
-      "Калинина Наталья Владимировна": 15,
-      "Кобызов Роман Александрович": 47,
-      "Паршинков Валерий Борисович": 12
+      "gas:candidate-vibid:2282000785455": 143,
+      "gas:candidate-vibid:2282000852222": 22,
+      "gas:candidate-vibid:2282000816690": 31,
+      "gas:candidate-vibid:2282000816730": 38,
+      "gas:candidate-vibid:2282000852273": 15,
+      "gas:candidate-vibid:2282000816665": 47,
+      "gas:candidate-vibid:2282000852262": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 172,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 13,
-      "Зимин Кирилл Вячеславович": 28,
-      "Калинина Наталья Владимировна": 14,
-      "Кобызов Роман Александрович": 21,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 172,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 13,
+      "gas:candidate-vibid:2282000816730": 28,
+      "gas:candidate-vibid:2282000852273": 14,
+      "gas:candidate-vibid:2282000816665": 21,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 93,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 20,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 44,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 93,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 20,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 44,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 238,
-      "Барило Роман Владимирович": 34,
-      "Волков Евгений Иванович": 41,
-      "Зимин Кирилл Вячеславович": 55,
-      "Калинина Наталья Владимировна": 41,
-      "Кобызов Роман Александрович": 101,
-      "Паршинков Валерий Борисович": 18
+      "gas:candidate-vibid:2282000785455": 238,
+      "gas:candidate-vibid:2282000852222": 34,
+      "gas:candidate-vibid:2282000816690": 41,
+      "gas:candidate-vibid:2282000816730": 55,
+      "gas:candidate-vibid:2282000852273": 41,
+      "gas:candidate-vibid:2282000816665": 101,
+      "gas:candidate-vibid:2282000852262": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 204,
-      "Барило Роман Владимирович": 18,
-      "Волков Евгений Иванович": 39,
-      "Зимин Кирилл Вячеславович": 44,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 64,
-      "Паршинков Валерий Борисович": 25
+      "gas:candidate-vibid:2282000785455": 204,
+      "gas:candidate-vibid:2282000852222": 18,
+      "gas:candidate-vibid:2282000816690": 39,
+      "gas:candidate-vibid:2282000816730": 44,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 64,
+      "gas:candidate-vibid:2282000852262": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 51,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 11,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 48,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 51,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 11,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 48,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 100,
-      "Барило Роман Владимирович": 12,
-      "Волков Евгений Иванович": 12,
-      "Зимин Кирилл Вячеславович": 20,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 16,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 100,
+      "gas:candidate-vibid:2282000852222": 12,
+      "gas:candidate-vibid:2282000816690": 12,
+      "gas:candidate-vibid:2282000816730": 20,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 16,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 61,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 9,
-      "Зимин Кирилл Вячеславович": 4,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 57,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 61,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 9,
+      "gas:candidate-vibid:2282000816730": 4,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 57,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777963&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777963&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 181,
-      "Барило Роман Владимирович": 8,
-      "Волков Евгений Иванович": 20,
-      "Зимин Кирилл Вячеславович": 17,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 73,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 181,
+      "gas:candidate-vibid:2282000852222": 8,
+      "gas:candidate-vibid:2282000816690": 20,
+      "gas:candidate-vibid:2282000816730": 17,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 73,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 213,
-      "Барило Роман Владимирович": 16,
-      "Волков Евгений Иванович": 27,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 16,
-      "Кобызов Роман Александрович": 52,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 213,
+      "gas:candidate-vibid:2282000852222": 16,
+      "gas:candidate-vibid:2282000816690": 27,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 16,
+      "gas:candidate-vibid:2282000816665": 52,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 435,
-      "Барило Роман Владимирович": 22,
-      "Волков Евгений Иванович": 51,
-      "Зимин Кирилл Вячеславович": 44,
-      "Калинина Наталья Владимировна": 24,
-      "Кобызов Роман Александрович": 166,
-      "Паршинков Валерий Борисович": 24
+      "gas:candidate-vibid:2282000785455": 435,
+      "gas:candidate-vibid:2282000852222": 22,
+      "gas:candidate-vibid:2282000816690": 51,
+      "gas:candidate-vibid:2282000816730": 44,
+      "gas:candidate-vibid:2282000852273": 24,
+      "gas:candidate-vibid:2282000816665": 166,
+      "gas:candidate-vibid:2282000852262": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 437,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 55,
-      "Зимин Кирилл Вячеславович": 39,
-      "Калинина Наталья Владимировна": 24,
-      "Кобызов Роман Александрович": 205,
-      "Паршинков Валерий Борисович": 19
+      "gas:candidate-vibid:2282000785455": 437,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 55,
+      "gas:candidate-vibid:2282000816730": 39,
+      "gas:candidate-vibid:2282000852273": 24,
+      "gas:candidate-vibid:2282000816665": 205,
+      "gas:candidate-vibid:2282000852262": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 76,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 10,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 14,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 76,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 10,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 14,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 125,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 24,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 13,
-      "Кобызов Роман Александрович": 39,
-      "Паршинков Валерий Борисович": 15
+      "gas:candidate-vibid:2282000785455": 125,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 24,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 13,
+      "gas:candidate-vibid:2282000816665": 39,
+      "gas:candidate-vibid:2282000852262": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 290,
-      "Барило Роман Владимирович": 14,
-      "Волков Евгений Иванович": 43,
-      "Зимин Кирилл Вячеславович": 70,
-      "Калинина Наталья Владимировна": 25,
-      "Кобызов Роман Александрович": 168,
-      "Паршинков Валерий Борисович": 36
+      "gas:candidate-vibid:2282000785455": 290,
+      "gas:candidate-vibid:2282000852222": 14,
+      "gas:candidate-vibid:2282000816690": 43,
+      "gas:candidate-vibid:2282000816730": 70,
+      "gas:candidate-vibid:2282000852273": 25,
+      "gas:candidate-vibid:2282000816665": 168,
+      "gas:candidate-vibid:2282000852262": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 298,
-      "Барило Роман Владимирович": 33,
-      "Волков Евгений Иванович": 52,
-      "Зимин Кирилл Вячеславович": 50,
-      "Калинина Наталья Владимировна": 0,
-      "Кобызов Роман Александрович": 147,
-      "Паршинков Валерий Борисович": 29
+      "gas:candidate-vibid:2282000785455": 298,
+      "gas:candidate-vibid:2282000852222": 33,
+      "gas:candidate-vibid:2282000816690": 52,
+      "gas:candidate-vibid:2282000816730": 50,
+      "gas:candidate-vibid:2282000852273": 0,
+      "gas:candidate-vibid:2282000816665": 147,
+      "gas:candidate-vibid:2282000852262": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 74,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 12,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 21,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 74,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 12,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 21,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 75,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 12,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 18,
-      "Кобызов Роман Александрович": 23,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 75,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 12,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 18,
+      "gas:candidate-vibid:2282000816665": 23,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 214,
-      "Барило Роман Владимирович": 18,
-      "Волков Евгений Иванович": 26,
-      "Зимин Кирилл Вячеславович": 20,
-      "Калинина Наталья Владимировна": 20,
-      "Кобызов Роман Александрович": 65,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 214,
+      "gas:candidate-vibid:2282000852222": 18,
+      "gas:candidate-vibid:2282000816690": 26,
+      "gas:candidate-vibid:2282000816730": 20,
+      "gas:candidate-vibid:2282000852273": 20,
+      "gas:candidate-vibid:2282000816665": 65,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 137,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 17,
-      "Калинина Наталья Владимировна": 13,
-      "Кобызов Роман Александрович": 47,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 137,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 17,
+      "gas:candidate-vibid:2282000852273": 13,
+      "gas:candidate-vibid:2282000816665": 47,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 166,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 25,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 15,
-      "Кобызов Роман Александрович": 61,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 166,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 25,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 15,
+      "gas:candidate-vibid:2282000816665": 61,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 14,
-      "Барило Роман Владимирович": 0,
-      "Волков Евгений Иванович": 2,
-      "Зимин Кирилл Вячеславович": 3,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 1
+      "gas:candidate-vibid:2282000785455": 14,
+      "gas:candidate-vibid:2282000852222": 0,
+      "gas:candidate-vibid:2282000816690": 2,
+      "gas:candidate-vibid:2282000816730": 3,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 151,
-      "Барило Роман Владимирович": 9,
-      "Волков Евгений Иванович": 28,
-      "Зимин Кирилл Вячеславович": 21,
-      "Калинина Наталья Владимировна": 21,
-      "Кобызов Роман Александрович": 42,
-      "Паршинков Валерий Борисович": 11
+      "gas:candidate-vibid:2282000785455": 151,
+      "gas:candidate-vibid:2282000852222": 9,
+      "gas:candidate-vibid:2282000816690": 28,
+      "gas:candidate-vibid:2282000816730": 21,
+      "gas:candidate-vibid:2282000852273": 21,
+      "gas:candidate-vibid:2282000816665": 42,
+      "gas:candidate-vibid:2282000852262": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 34,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 6,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 14,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 34,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 6,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 14,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 70,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 23,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 7,
-      "Кобызов Роман Александрович": 21,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 70,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 23,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 7,
+      "gas:candidate-vibid:2282000816665": 21,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 22,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 3,
-      "Зимин Кирилл Вячеславович": 0,
-      "Калинина Наталья Владимировна": 2,
-      "Кобызов Роман Александрович": 1,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 22,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 3,
+      "gas:candidate-vibid:2282000816730": 0,
+      "gas:candidate-vibid:2282000852273": 2,
+      "gas:candidate-vibid:2282000816665": 1,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 97,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 15,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 19,
-      "Паршинков Валерий Борисович": 7
+      "gas:candidate-vibid:2282000785455": 97,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 15,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 19,
+      "gas:candidate-vibid:2282000852262": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 69,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 13,
-      "Зимин Кирилл Вячеславович": 23,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 26,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 69,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 13,
+      "gas:candidate-vibid:2282000816730": 23,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 26,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 89,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 25,
-      "Зимин Кирилл Вячеславович": 12,
-      "Калинина Наталья Владимировна": 11,
-      "Кобызов Роман Александрович": 30,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 89,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 25,
+      "gas:candidate-vibid:2282000816730": 12,
+      "gas:candidate-vibid:2282000852273": 11,
+      "gas:candidate-vibid:2282000816665": 30,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 54,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 13,
-      "Зимин Кирилл Вячеславович": 7,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 35,
-      "Паршинков Валерий Борисович": 9
+      "gas:candidate-vibid:2282000785455": 54,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 13,
+      "gas:candidate-vibid:2282000816730": 7,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 35,
+      "gas:candidate-vibid:2282000852262": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 50,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 11,
-      "Зимин Кирилл Вячеславович": 11,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 16,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 50,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 11,
+      "gas:candidate-vibid:2282000816730": 11,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 16,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 100,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 17,
-      "Зимин Кирилл Вячеславович": 25,
-      "Калинина Наталья Владимировна": 5,
-      "Кобызов Роман Александрович": 25,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 100,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 17,
+      "gas:candidate-vibid:2282000816730": 25,
+      "gas:candidate-vibid:2282000852273": 5,
+      "gas:candidate-vibid:2282000816665": 25,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 90,
-      "Барило Роман Владимирович": 4,
-      "Волков Евгений Иванович": 27,
-      "Зимин Кирилл Вячеславович": 20,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 26,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 90,
+      "gas:candidate-vibid:2282000852222": 4,
+      "gas:candidate-vibid:2282000816690": 27,
+      "gas:candidate-vibid:2282000816730": 20,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 26,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 107,
-      "Барило Роман Владимирович": 15,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 17,
-      "Калинина Наталья Владимировна": 9,
-      "Кобызов Роман Александрович": 26,
-      "Паршинков Валерий Борисович": 4
+      "gas:candidate-vibid:2282000785455": 107,
+      "gas:candidate-vibid:2282000852222": 15,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 17,
+      "gas:candidate-vibid:2282000852273": 9,
+      "gas:candidate-vibid:2282000816665": 26,
+      "gas:candidate-vibid:2282000852262": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777964&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777964&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 54,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 8,
-      "Калинина Наталья Владимировна": 8,
-      "Кобызов Роман Александрович": 20,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 54,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 8,
+      "gas:candidate-vibid:2282000852273": 8,
+      "gas:candidate-vibid:2282000816665": 20,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 42,
-      "Барило Роман Владимирович": 3,
-      "Волков Евгений Иванович": 4,
-      "Зимин Кирилл Вячеславович": 10,
-      "Калинина Наталья Владимировна": 3,
-      "Кобызов Роман Александрович": 31,
-      "Паршинков Валерий Борисович": 5
+      "gas:candidate-vibid:2282000785455": 42,
+      "gas:candidate-vibid:2282000852222": 3,
+      "gas:candidate-vibid:2282000816690": 4,
+      "gas:candidate-vibid:2282000816730": 10,
+      "gas:candidate-vibid:2282000852273": 3,
+      "gas:candidate-vibid:2282000816665": 31,
+      "gas:candidate-vibid:2282000852262": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 81,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 17,
-      "Зимин Кирилл Вячеславович": 9,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 52,
-      "Паршинков Валерий Борисович": 8
+      "gas:candidate-vibid:2282000785455": 81,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 17,
+      "gas:candidate-vibid:2282000816730": 9,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 52,
+      "gas:candidate-vibid:2282000852262": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 82,
-      "Барило Роман Владимирович": 11,
-      "Волков Евгений Иванович": 28,
-      "Зимин Кирилл Вячеславович": 19,
-      "Калинина Наталья Владимировна": 12,
-      "Кобызов Роман Александрович": 69,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 82,
+      "gas:candidate-vibid:2282000852222": 11,
+      "gas:candidate-vibid:2282000816690": 28,
+      "gas:candidate-vibid:2282000816730": 19,
+      "gas:candidate-vibid:2282000852273": 12,
+      "gas:candidate-vibid:2282000816665": 69,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 58,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 16,
-      "Зимин Кирилл Вячеславович": 14,
-      "Калинина Наталья Владимировна": 6,
-      "Кобызов Роман Александрович": 37,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 58,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 16,
+      "gas:candidate-vibid:2282000816730": 14,
+      "gas:candidate-vibid:2282000852273": 6,
+      "gas:candidate-vibid:2282000816665": 37,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 294,
-      "Барило Роман Владимирович": 13,
-      "Волков Евгений Иванович": 47,
-      "Зимин Кирилл Вячеславович": 43,
-      "Калинина Наталья Владимировна": 18,
-      "Кобызов Роман Александрович": 138,
-      "Паршинков Валерий Борисович": 48
+      "gas:candidate-vibid:2282000785455": 294,
+      "gas:candidate-vibid:2282000852222": 13,
+      "gas:candidate-vibid:2282000816690": 47,
+      "gas:candidate-vibid:2282000816730": 43,
+      "gas:candidate-vibid:2282000852273": 18,
+      "gas:candidate-vibid:2282000816665": 138,
+      "gas:candidate-vibid:2282000852262": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 343,
-      "Барило Роман Владимирович": 24,
-      "Волков Евгений Иванович": 52,
-      "Зимин Кирилл Вячеславович": 74,
-      "Калинина Наталья Владимировна": 32,
-      "Кобызов Роман Александрович": 231,
-      "Паршинков Валерий Борисович": 58
+      "gas:candidate-vibid:2282000785455": 343,
+      "gas:candidate-vibid:2282000852222": 24,
+      "gas:candidate-vibid:2282000816690": 52,
+      "gas:candidate-vibid:2282000816730": 74,
+      "gas:candidate-vibid:2282000852273": 32,
+      "gas:candidate-vibid:2282000816665": 231,
+      "gas:candidate-vibid:2282000852262": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 429,
-      "Барило Роман Владимирович": 33,
-      "Волков Евгений Иванович": 74,
-      "Зимин Кирилл Вячеславович": 79,
-      "Калинина Наталья Владимировна": 23,
-      "Кобызов Роман Александрович": 259,
-      "Паршинков Валерий Борисович": 91
+      "gas:candidate-vibid:2282000785455": 429,
+      "gas:candidate-vibid:2282000852222": 33,
+      "gas:candidate-vibid:2282000816690": 74,
+      "gas:candidate-vibid:2282000816730": 79,
+      "gas:candidate-vibid:2282000852273": 23,
+      "gas:candidate-vibid:2282000816665": 259,
+      "gas:candidate-vibid:2282000852262": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 265,
-      "Барило Роман Владимирович": 23,
-      "Волков Евгений Иванович": 51,
-      "Зимин Кирилл Вячеславович": 55,
-      "Калинина Наталья Владимировна": 23,
-      "Кобызов Роман Александрович": 168,
-      "Паршинков Валерий Борисович": 42
+      "gas:candidate-vibid:2282000785455": 265,
+      "gas:candidate-vibid:2282000852222": 23,
+      "gas:candidate-vibid:2282000816690": 51,
+      "gas:candidate-vibid:2282000816730": 55,
+      "gas:candidate-vibid:2282000852273": 23,
+      "gas:candidate-vibid:2282000816665": 168,
+      "gas:candidate-vibid:2282000852262": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 90,
-      "Барило Роман Владимирович": 6,
-      "Волков Евгений Иванович": 14,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 4,
-      "Кобызов Роман Александрович": 51,
-      "Паршинков Валерий Борисович": 13
+      "gas:candidate-vibid:2282000785455": 90,
+      "gas:candidate-vibid:2282000852222": 6,
+      "gas:candidate-vibid:2282000816690": 14,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 4,
+      "gas:candidate-vibid:2282000816665": 51,
+      "gas:candidate-vibid:2282000852262": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777965&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777965&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 15,
-      "Барило Роман Владимирович": 10,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 6,
-      "Калинина Наталья Владимировна": 10,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 15,
+      "gas:candidate-vibid:2282000852222": 10,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 6,
+      "gas:candidate-vibid:2282000852273": 10,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777969&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777969&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 20,
-      "Барило Роман Владимирович": 5,
-      "Волков Евгений Иванович": 7,
-      "Зимин Кирилл Вячеславович": 16,
-      "Калинина Наталья Владимировна": 0,
-      "Кобызов Роман Александрович": 5,
-      "Паршинков Валерий Борисович": 2
+      "gas:candidate-vibid:2282000785455": 20,
+      "gas:candidate-vibid:2282000852222": 5,
+      "gas:candidate-vibid:2282000816690": 7,
+      "gas:candidate-vibid:2282000816730": 16,
+      "gas:candidate-vibid:2282000852273": 0,
+      "gas:candidate-vibid:2282000816665": 5,
+      "gas:candidate-vibid:2282000852262": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777969&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777969&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 21,
-      "Барило Роман Владимирович": 7,
-      "Волков Евгений Иванович": 2,
-      "Зимин Кирилл Вячеславович": 9,
-      "Калинина Наталья Владимировна": 6,
-      "Кобызов Роман Александрович": 10,
-      "Паршинков Валерий Борисович": 6
+      "gas:candidate-vibid:2282000785455": 21,
+      "gas:candidate-vibid:2282000852222": 7,
+      "gas:candidate-vibid:2282000816690": 2,
+      "gas:candidate-vibid:2282000816730": 9,
+      "gas:candidate-vibid:2282000852273": 6,
+      "gas:candidate-vibid:2282000816665": 10,
+      "gas:candidate-vibid:2282000852262": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777969&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777969&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_28_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абрамов Иван Николаевич": 27,
-      "Барило Роман Владимирович": 2,
-      "Волков Евгений Иванович": 0,
-      "Зимин Кирилл Вячеславович": 10,
-      "Калинина Наталья Владимировна": 6,
-      "Кобызов Роман Александрович": 20,
-      "Паршинков Валерий Борисович": 3
+      "gas:candidate-vibid:2282000785455": 27,
+      "gas:candidate-vibid:2282000852222": 2,
+      "gas:candidate-vibid:2282000816690": 0,
+      "gas:candidate-vibid:2282000816730": 10,
+      "gas:candidate-vibid:2282000852273": 6,
+      "gas:candidate-vibid:2282000816665": 20,
+      "gas:candidate-vibid:2282000852262": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/amur?action=show&root=1000089&tvd=2282000777969&vrn=100100067795849&region=28&global=&sub_region=28&prver=0&pronetvd=null&vibid=2282000777969&type=464",

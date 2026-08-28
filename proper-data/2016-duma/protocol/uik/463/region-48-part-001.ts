@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 117,
-      "Валетов Сергей Анатольевич": 16,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 34,
-      "Трофимов Вадим Юрьевич": 12,
-      "Тюнина Светлана Валерьевна": 13,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 19
+      "gas:candidate-vibid:2482000589186": 117,
+      "gas:candidate-vibid:2482000600477": 16,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 34,
+      "gas:candidate-vibid:2482000591037": 12,
+      "gas:candidate-vibid:2482000600784": 13,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 149,
-      "Валетов Сергей Анатольевич": 24,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 48,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 20,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 50
+      "gas:candidate-vibid:2482000589186": 149,
+      "gas:candidate-vibid:2482000600477": 24,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 48,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 20,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 288,
-      "Валетов Сергей Анатольевич": 71,
-      "Еркина Елена Викторовна": 18,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 134,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 82,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 64
+      "gas:candidate-vibid:2482000589186": 288,
+      "gas:candidate-vibid:2482000600477": 71,
+      "gas:candidate-vibid:2482000603368": 18,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 134,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 82,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 341,
-      "Валетов Сергей Анатольевич": 94,
-      "Еркина Елена Викторовна": 24,
-      "Ковригин Вадим Валерьевич": 23,
-      "Разворотнев Николай Васильевич": 147,
-      "Трофимов Вадим Юрьевич": 27,
-      "Тюнина Светлана Валерьевна": 105,
-      "Фомичев Владимир Николаевич": 11,
-      "Халимончук Максим Валентинович": 85
+      "gas:candidate-vibid:2482000589186": 341,
+      "gas:candidate-vibid:2482000600477": 94,
+      "gas:candidate-vibid:2482000603368": 24,
+      "gas:candidate-vibid:2482000600403": 23,
+      "gas:candidate-vibid:2482000586347": 147,
+      "gas:candidate-vibid:2482000591037": 27,
+      "gas:candidate-vibid:2482000600784": 105,
+      "gas:candidate-vibid:2482000600511": 11,
+      "gas:candidate-vibid:2482000588997": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 321,
-      "Валетов Сергей Анатольевич": 97,
-      "Еркина Елена Викторовна": 16,
-      "Ковригин Вадим Валерьевич": 19,
-      "Разворотнев Николай Васильевич": 143,
-      "Трофимов Вадим Юрьевич": 36,
-      "Тюнина Светлана Валерьевна": 52,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 73
+      "gas:candidate-vibid:2482000589186": 321,
+      "gas:candidate-vibid:2482000600477": 97,
+      "gas:candidate-vibid:2482000603368": 16,
+      "gas:candidate-vibid:2482000600403": 19,
+      "gas:candidate-vibid:2482000586347": 143,
+      "gas:candidate-vibid:2482000591037": 36,
+      "gas:candidate-vibid:2482000600784": 52,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 285,
-      "Валетов Сергей Анатольевич": 76,
-      "Еркина Елена Викторовна": 23,
-      "Ковригин Вадим Валерьевич": 21,
-      "Разворотнев Николай Васильевич": 129,
-      "Трофимов Вадим Юрьевич": 24,
-      "Тюнина Светлана Валерьевна": 60,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 61
+      "gas:candidate-vibid:2482000589186": 285,
+      "gas:candidate-vibid:2482000600477": 76,
+      "gas:candidate-vibid:2482000603368": 23,
+      "gas:candidate-vibid:2482000600403": 21,
+      "gas:candidate-vibid:2482000586347": 129,
+      "gas:candidate-vibid:2482000591037": 24,
+      "gas:candidate-vibid:2482000600784": 60,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 223,
-      "Валетов Сергей Анатольевич": 63,
-      "Еркина Елена Викторовна": 12,
-      "Ковригин Вадим Валерьевич": 13,
-      "Разворотнев Николай Васильевич": 116,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 70,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 40
+      "gas:candidate-vibid:2482000589186": 223,
+      "gas:candidate-vibid:2482000600477": 63,
+      "gas:candidate-vibid:2482000603368": 12,
+      "gas:candidate-vibid:2482000600403": 13,
+      "gas:candidate-vibid:2482000586347": 116,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 70,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 309,
-      "Валетов Сергей Анатольевич": 158,
-      "Еркина Елена Викторовна": 26,
-      "Ковригин Вадим Валерьевич": 46,
-      "Разворотнев Николай Васильевич": 180,
-      "Трофимов Вадим Юрьевич": 36,
-      "Тюнина Светлана Валерьевна": 85,
-      "Фомичев Владимир Николаевич": 11,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 309,
+      "gas:candidate-vibid:2482000600477": 158,
+      "gas:candidate-vibid:2482000603368": 26,
+      "gas:candidate-vibid:2482000600403": 46,
+      "gas:candidate-vibid:2482000586347": 180,
+      "gas:candidate-vibid:2482000591037": 36,
+      "gas:candidate-vibid:2482000600784": 85,
+      "gas:candidate-vibid:2482000600511": 11,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 369,
-      "Валетов Сергей Анатольевич": 216,
-      "Еркина Елена Викторовна": 22,
-      "Ковригин Вадим Валерьевич": 37,
-      "Разворотнев Николай Васильевич": 191,
-      "Трофимов Вадим Юрьевич": 30,
-      "Тюнина Светлана Валерьевна": 143,
-      "Фомичев Владимир Николаевич": 10,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 369,
+      "gas:candidate-vibid:2482000600477": 216,
+      "gas:candidate-vibid:2482000603368": 22,
+      "gas:candidate-vibid:2482000600403": 37,
+      "gas:candidate-vibid:2482000586347": 191,
+      "gas:candidate-vibid:2482000591037": 30,
+      "gas:candidate-vibid:2482000600784": 143,
+      "gas:candidate-vibid:2482000600511": 10,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 272,
-      "Валетов Сергей Анатольевич": 132,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 166,
-      "Трофимов Вадим Юрьевич": 24,
-      "Тюнина Светлана Валерьевна": 81,
-      "Фомичев Владимир Николаевич": 9,
-      "Халимончук Максим Валентинович": 87
+      "gas:candidate-vibid:2482000589186": 272,
+      "gas:candidate-vibid:2482000600477": 132,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 166,
+      "gas:candidate-vibid:2482000591037": 24,
+      "gas:candidate-vibid:2482000600784": 81,
+      "gas:candidate-vibid:2482000600511": 9,
+      "gas:candidate-vibid:2482000588997": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 341,
-      "Валетов Сергей Анатольевич": 130,
-      "Еркина Елена Викторовна": 35,
-      "Ковригин Вадим Валерьевич": 41,
-      "Разворотнев Николай Васильевич": 186,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 108,
-      "Фомичев Владимир Николаевич": 20,
-      "Халимончук Максим Валентинович": 121
+      "gas:candidate-vibid:2482000589186": 341,
+      "gas:candidate-vibid:2482000600477": 130,
+      "gas:candidate-vibid:2482000603368": 35,
+      "gas:candidate-vibid:2482000600403": 41,
+      "gas:candidate-vibid:2482000586347": 186,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 108,
+      "gas:candidate-vibid:2482000600511": 20,
+      "gas:candidate-vibid:2482000588997": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 197,
-      "Валетов Сергей Анатольевич": 50,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 13,
-      "Разворотнев Николай Васильевич": 102,
-      "Трофимов Вадим Юрьевич": 32,
-      "Тюнина Светлана Валерьевна": 49,
-      "Фомичев Владимир Николаевич": 11,
-      "Халимончук Максим Валентинович": 50
+      "gas:candidate-vibid:2482000589186": 197,
+      "gas:candidate-vibid:2482000600477": 50,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 13,
+      "gas:candidate-vibid:2482000586347": 102,
+      "gas:candidate-vibid:2482000591037": 32,
+      "gas:candidate-vibid:2482000600784": 49,
+      "gas:candidate-vibid:2482000600511": 11,
+      "gas:candidate-vibid:2482000588997": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 226,
-      "Валетов Сергей Анатольевич": 68,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 25,
-      "Разворотнев Николай Васильевич": 126,
-      "Трофимов Вадим Юрьевич": 27,
-      "Тюнина Светлана Валерьевна": 68,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 66
+      "gas:candidate-vibid:2482000589186": 226,
+      "gas:candidate-vibid:2482000600477": 68,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 25,
+      "gas:candidate-vibid:2482000586347": 126,
+      "gas:candidate-vibid:2482000591037": 27,
+      "gas:candidate-vibid:2482000600784": 68,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 278,
-      "Валетов Сергей Анатольевич": 118,
-      "Еркина Елена Викторовна": 18,
-      "Ковригин Вадим Валерьевич": 32,
-      "Разворотнев Николай Васильевич": 132,
-      "Трофимов Вадим Юрьевич": 40,
-      "Тюнина Светлана Валерьевна": 125,
-      "Фомичев Владимир Николаевич": 9,
-      "Халимончук Максим Валентинович": 57
+      "gas:candidate-vibid:2482000589186": 278,
+      "gas:candidate-vibid:2482000600477": 118,
+      "gas:candidate-vibid:2482000603368": 18,
+      "gas:candidate-vibid:2482000600403": 32,
+      "gas:candidate-vibid:2482000586347": 132,
+      "gas:candidate-vibid:2482000591037": 40,
+      "gas:candidate-vibid:2482000600784": 125,
+      "gas:candidate-vibid:2482000600511": 9,
+      "gas:candidate-vibid:2482000588997": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 236,
-      "Валетов Сергей Анатольевич": 124,
-      "Еркина Елена Викторовна": 16,
-      "Ковригин Вадим Валерьевич": 35,
-      "Разворотнев Николай Васильевич": 130,
-      "Трофимов Вадим Юрьевич": 13,
-      "Тюнина Светлана Валерьевна": 76,
-      "Фомичев Владимир Николаевич": 12,
-      "Халимончук Максим Валентинович": 60
+      "gas:candidate-vibid:2482000589186": 236,
+      "gas:candidate-vibid:2482000600477": 124,
+      "gas:candidate-vibid:2482000603368": 16,
+      "gas:candidate-vibid:2482000600403": 35,
+      "gas:candidate-vibid:2482000586347": 130,
+      "gas:candidate-vibid:2482000591037": 13,
+      "gas:candidate-vibid:2482000600784": 76,
+      "gas:candidate-vibid:2482000600511": 12,
+      "gas:candidate-vibid:2482000588997": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 202,
-      "Валетов Сергей Анатольевич": 93,
-      "Еркина Елена Викторовна": 12,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 135,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 75,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 45
+      "gas:candidate-vibid:2482000589186": 202,
+      "gas:candidate-vibid:2482000600477": 93,
+      "gas:candidate-vibid:2482000603368": 12,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 135,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 75,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 191,
-      "Валетов Сергей Анатольевич": 108,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 113,
-      "Трофимов Вадим Юрьевич": 16,
-      "Тюнина Светлана Валерьевна": 53,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 71
+      "gas:candidate-vibid:2482000589186": 191,
+      "gas:candidate-vibid:2482000600477": 108,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 113,
+      "gas:candidate-vibid:2482000591037": 16,
+      "gas:candidate-vibid:2482000600784": 53,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 180,
-      "Валетов Сергей Анатольевич": 82,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 25,
-      "Разворотнев Николай Васильевич": 110,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 68,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 58
+      "gas:candidate-vibid:2482000589186": 180,
+      "gas:candidate-vibid:2482000600477": 82,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 25,
+      "gas:candidate-vibid:2482000586347": 110,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 68,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 287,
-      "Валетов Сергей Анатольевич": 114,
-      "Еркина Елена Викторовна": 16,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 134,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 93,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 73
+      "gas:candidate-vibid:2482000589186": 287,
+      "gas:candidate-vibid:2482000600477": 114,
+      "gas:candidate-vibid:2482000603368": 16,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 134,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 93,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 319,
-      "Валетов Сергей Анатольевич": 120,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 25,
-      "Разворотнев Николай Васильевич": 135,
-      "Трофимов Вадим Юрьевич": 32,
-      "Тюнина Светлана Валерьевна": 85,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 90
+      "gas:candidate-vibid:2482000589186": 319,
+      "gas:candidate-vibid:2482000600477": 120,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 25,
+      "gas:candidate-vibid:2482000586347": 135,
+      "gas:candidate-vibid:2482000591037": 32,
+      "gas:candidate-vibid:2482000600784": 85,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 231,
-      "Валетов Сергей Анатольевич": 63,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 21,
-      "Разворотнев Николай Васильевич": 96,
-      "Трофимов Вадим Юрьевич": 26,
-      "Тюнина Светлана Валерьевна": 82,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 64
+      "gas:candidate-vibid:2482000589186": 231,
+      "gas:candidate-vibid:2482000600477": 63,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 21,
+      "gas:candidate-vibid:2482000586347": 96,
+      "gas:candidate-vibid:2482000591037": 26,
+      "gas:candidate-vibid:2482000600784": 82,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 205,
-      "Валетов Сергей Анатольевич": 48,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 80,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 83,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 63
+      "gas:candidate-vibid:2482000589186": 205,
+      "gas:candidate-vibid:2482000600477": 48,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 80,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 83,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 207,
-      "Валетов Сергей Анатольевич": 82,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 17,
-      "Разворотнев Николай Васильевич": 101,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 125,
-      "Фомичев Владимир Николаевич": 14,
-      "Халимончук Максим Валентинович": 63
+      "gas:candidate-vibid:2482000589186": 207,
+      "gas:candidate-vibid:2482000600477": 82,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 17,
+      "gas:candidate-vibid:2482000586347": 101,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 125,
+      "gas:candidate-vibid:2482000600511": 14,
+      "gas:candidate-vibid:2482000588997": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 242,
-      "Валетов Сергей Анатольевич": 112,
-      "Еркина Елена Викторовна": 6,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 146,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 164,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 87
+      "gas:candidate-vibid:2482000589186": 242,
+      "gas:candidate-vibid:2482000600477": 112,
+      "gas:candidate-vibid:2482000603368": 6,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 146,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 164,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 250,
-      "Валетов Сергей Анатольевич": 107,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 32,
-      "Разворотнев Николай Васильевич": 140,
-      "Трофимов Вадим Юрьевич": 22,
-      "Тюнина Светлана Валерьевна": 248,
-      "Фомичев Владимир Николаевич": 10,
-      "Халимончук Максим Валентинович": 71
+      "gas:candidate-vibid:2482000589186": 250,
+      "gas:candidate-vibid:2482000600477": 107,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 32,
+      "gas:candidate-vibid:2482000586347": 140,
+      "gas:candidate-vibid:2482000591037": 22,
+      "gas:candidate-vibid:2482000600784": 248,
+      "gas:candidate-vibid:2482000600511": 10,
+      "gas:candidate-vibid:2482000588997": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 288,
-      "Валетов Сергей Анатольевич": 107,
-      "Еркина Елена Викторовна": 18,
-      "Ковригин Вадим Валерьевич": 20,
-      "Разворотнев Николай Васильевич": 145,
-      "Трофимов Вадим Юрьевич": 25,
-      "Тюнина Светлана Валерьевна": 235,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 288,
+      "gas:candidate-vibid:2482000600477": 107,
+      "gas:candidate-vibid:2482000603368": 18,
+      "gas:candidate-vibid:2482000600403": 20,
+      "gas:candidate-vibid:2482000586347": 145,
+      "gas:candidate-vibid:2482000591037": 25,
+      "gas:candidate-vibid:2482000600784": 235,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 187,
-      "Валетов Сергей Анатольевич": 50,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 90,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 125,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 64
+      "gas:candidate-vibid:2482000589186": 187,
+      "gas:candidate-vibid:2482000600477": 50,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 90,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 125,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 163,
-      "Валетов Сергей Анатольевич": 54,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 13,
-      "Разворотнев Николай Васильевич": 78,
-      "Трофимов Вадим Юрьевич": 14,
-      "Тюнина Светлана Валерьевна": 65,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 66
+      "gas:candidate-vibid:2482000589186": 163,
+      "gas:candidate-vibid:2482000600477": 54,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 13,
+      "gas:candidate-vibid:2482000586347": 78,
+      "gas:candidate-vibid:2482000591037": 14,
+      "gas:candidate-vibid:2482000600784": 65,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 236,
-      "Валетов Сергей Анатольевич": 115,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 10,
-      "Разворотнев Николай Васильевич": 90,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 85,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 76
+      "gas:candidate-vibid:2482000589186": 236,
+      "gas:candidate-vibid:2482000600477": 115,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 10,
+      "gas:candidate-vibid:2482000586347": 90,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 85,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 278,
-      "Валетов Сергей Анатольевич": 79,
-      "Еркина Елена Викторовна": 25,
-      "Ковригин Вадим Валерьевич": 22,
-      "Разворотнев Николай Васильевич": 113,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 117,
-      "Фомичев Владимир Николаевич": 10,
-      "Халимончук Максим Валентинович": 71
+      "gas:candidate-vibid:2482000589186": 278,
+      "gas:candidate-vibid:2482000600477": 79,
+      "gas:candidate-vibid:2482000603368": 25,
+      "gas:candidate-vibid:2482000600403": 22,
+      "gas:candidate-vibid:2482000586347": 113,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 117,
+      "gas:candidate-vibid:2482000600511": 10,
+      "gas:candidate-vibid:2482000588997": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 328,
-      "Валетов Сергей Анатольевич": 112,
-      "Еркина Елена Викторовна": 25,
-      "Ковригин Вадим Валерьевич": 24,
-      "Разворотнев Николай Васильевич": 158,
-      "Трофимов Вадим Юрьевич": 40,
-      "Тюнина Светлана Валерьевна": 99,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 93
+      "gas:candidate-vibid:2482000589186": 328,
+      "gas:candidate-vibid:2482000600477": 112,
+      "gas:candidate-vibid:2482000603368": 25,
+      "gas:candidate-vibid:2482000600403": 24,
+      "gas:candidate-vibid:2482000586347": 158,
+      "gas:candidate-vibid:2482000591037": 40,
+      "gas:candidate-vibid:2482000600784": 99,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 282,
-      "Валетов Сергей Анатольевич": 62,
-      "Еркина Елена Викторовна": 22,
-      "Ковригин Вадим Валерьевич": 18,
-      "Разворотнев Николай Васильевич": 91,
-      "Трофимов Вадим Юрьевич": 34,
-      "Тюнина Светлана Валерьевна": 78,
-      "Фомичев Владимир Николаевич": 9,
-      "Халимончук Максим Валентинович": 100
+      "gas:candidate-vibid:2482000589186": 282,
+      "gas:candidate-vibid:2482000600477": 62,
+      "gas:candidate-vibid:2482000603368": 22,
+      "gas:candidate-vibid:2482000600403": 18,
+      "gas:candidate-vibid:2482000586347": 91,
+      "gas:candidate-vibid:2482000591037": 34,
+      "gas:candidate-vibid:2482000600784": 78,
+      "gas:candidate-vibid:2482000600511": 9,
+      "gas:candidate-vibid:2482000588997": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 224,
-      "Валетов Сергей Анатольевич": 54,
-      "Еркина Елена Викторовна": 18,
-      "Ковригин Вадим Валерьевич": 19,
-      "Разворотнев Николай Васильевич": 67,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 59,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 71
+      "gas:candidate-vibid:2482000589186": 224,
+      "gas:candidate-vibid:2482000600477": 54,
+      "gas:candidate-vibid:2482000603368": 18,
+      "gas:candidate-vibid:2482000600403": 19,
+      "gas:candidate-vibid:2482000586347": 67,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 59,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 130,
-      "Валетов Сергей Анатольевич": 40,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 43,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 27,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 30
+      "gas:candidate-vibid:2482000589186": 130,
+      "gas:candidate-vibid:2482000600477": 40,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 43,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 27,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 100,
-      "Валетов Сергей Анатольевич": 12,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 28,
-      "Трофимов Вадим Юрьевич": 13,
-      "Тюнина Светлана Валерьевна": 11,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 11
+      "gas:candidate-vibid:2482000589186": 100,
+      "gas:candidate-vibid:2482000600477": 12,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 28,
+      "gas:candidate-vibid:2482000591037": 13,
+      "gas:candidate-vibid:2482000600784": 11,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 29,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 6,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 0
+      "gas:candidate-vibid:2482000589186": 29,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 6,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 27,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 7,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 21
+      "gas:candidate-vibid:2482000589186": 27,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 7,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 18,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 5,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 18,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 5,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 3,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 1,
-      "Трофимов Вадим Юрьевич": 0,
-      "Тюнина Светлана Валерьевна": 0,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 1
+      "gas:candidate-vibid:2482000589186": 3,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 1,
+      "gas:candidate-vibid:2482000591037": 0,
+      "gas:candidate-vibid:2482000600784": 0,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533382&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533382&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 195,
-      "Валетов Сергей Анатольевич": 69,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 15,
-      "Разворотнев Николай Васильевич": 116,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 75,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 41
+      "gas:candidate-vibid:2482000589186": 195,
+      "gas:candidate-vibid:2482000600477": 69,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 15,
+      "gas:candidate-vibid:2482000586347": 116,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 75,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 153,
-      "Валетов Сергей Анатольевич": 52,
-      "Еркина Елена Викторовна": 12,
-      "Ковригин Вадим Валерьевич": 13,
-      "Разворотнев Николай Васильевич": 89,
-      "Трофимов Вадим Юрьевич": 16,
-      "Тюнина Светлана Валерьевна": 65,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 39
+      "gas:candidate-vibid:2482000589186": 153,
+      "gas:candidate-vibid:2482000600477": 52,
+      "gas:candidate-vibid:2482000603368": 12,
+      "gas:candidate-vibid:2482000600403": 13,
+      "gas:candidate-vibid:2482000586347": 89,
+      "gas:candidate-vibid:2482000591037": 16,
+      "gas:candidate-vibid:2482000600784": 65,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 158,
-      "Валетов Сергей Анатольевич": 58,
-      "Еркина Елена Викторовна": 21,
-      "Ковригин Вадим Валерьевич": 22,
-      "Разворотнев Николай Васильевич": 120,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 75,
-      "Фомичев Владимир Николаевич": 10,
-      "Халимончук Максим Валентинович": 35
+      "gas:candidate-vibid:2482000589186": 158,
+      "gas:candidate-vibid:2482000600477": 58,
+      "gas:candidate-vibid:2482000603368": 21,
+      "gas:candidate-vibid:2482000600403": 22,
+      "gas:candidate-vibid:2482000586347": 120,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 75,
+      "gas:candidate-vibid:2482000600511": 10,
+      "gas:candidate-vibid:2482000588997": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 165,
-      "Валетов Сергей Анатольевич": 62,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 25,
-      "Разворотнев Николай Васильевич": 97,
-      "Трофимов Вадим Юрьевич": 16,
-      "Тюнина Светлана Валерьевна": 51,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 37
+      "gas:candidate-vibid:2482000589186": 165,
+      "gas:candidate-vibid:2482000600477": 62,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 25,
+      "gas:candidate-vibid:2482000586347": 97,
+      "gas:candidate-vibid:2482000591037": 16,
+      "gas:candidate-vibid:2482000600784": 51,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 311,
-      "Валетов Сергей Анатольевич": 128,
-      "Еркина Елена Викторовна": 23,
-      "Ковригин Вадим Валерьевич": 36,
-      "Разворотнев Николай Васильевич": 193,
-      "Трофимов Вадим Юрьевич": 30,
-      "Тюнина Светлана Валерьевна": 124,
-      "Фомичев Владимир Николаевич": 18,
-      "Халимончук Максим Валентинович": 68
+      "gas:candidate-vibid:2482000589186": 311,
+      "gas:candidate-vibid:2482000600477": 128,
+      "gas:candidate-vibid:2482000603368": 23,
+      "gas:candidate-vibid:2482000600403": 36,
+      "gas:candidate-vibid:2482000586347": 193,
+      "gas:candidate-vibid:2482000591037": 30,
+      "gas:candidate-vibid:2482000600784": 124,
+      "gas:candidate-vibid:2482000600511": 18,
+      "gas:candidate-vibid:2482000588997": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 254,
-      "Валетов Сергей Анатольевич": 98,
-      "Еркина Елена Викторовна": 23,
-      "Ковригин Вадим Валерьевич": 41,
-      "Разворотнев Николай Васильевич": 185,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 105,
-      "Фомичев Владимир Николаевич": 18,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 254,
+      "gas:candidate-vibid:2482000600477": 98,
+      "gas:candidate-vibid:2482000603368": 23,
+      "gas:candidate-vibid:2482000600403": 41,
+      "gas:candidate-vibid:2482000586347": 185,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 105,
+      "gas:candidate-vibid:2482000600511": 18,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 222,
-      "Валетов Сергей Анатольевич": 71,
-      "Еркина Елена Викторовна": 19,
-      "Ковригин Вадим Валерьевич": 27,
-      "Разворотнев Николай Васильевич": 149,
-      "Трофимов Вадим Юрьевич": 25,
-      "Тюнина Светлана Валерьевна": 68,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 45
+      "gas:candidate-vibid:2482000589186": 222,
+      "gas:candidate-vibid:2482000600477": 71,
+      "gas:candidate-vibid:2482000603368": 19,
+      "gas:candidate-vibid:2482000600403": 27,
+      "gas:candidate-vibid:2482000586347": 149,
+      "gas:candidate-vibid:2482000591037": 25,
+      "gas:candidate-vibid:2482000600784": 68,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 333,
-      "Валетов Сергей Анатольевич": 117,
-      "Еркина Елена Викторовна": 31,
-      "Ковригин Вадим Валерьевич": 43,
-      "Разворотнев Николай Васильевич": 173,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 91,
-      "Фомичев Владимир Николаевич": 9,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 333,
+      "gas:candidate-vibid:2482000600477": 117,
+      "gas:candidate-vibid:2482000603368": 31,
+      "gas:candidate-vibid:2482000600403": 43,
+      "gas:candidate-vibid:2482000586347": 173,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 91,
+      "gas:candidate-vibid:2482000600511": 9,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 353,
-      "Валетов Сергей Анатольевич": 150,
-      "Еркина Елена Викторовна": 43,
-      "Ковригин Вадим Валерьевич": 35,
-      "Разворотнев Николай Васильевич": 152,
-      "Трофимов Вадим Юрьевич": 27,
-      "Тюнина Светлана Валерьевна": 88,
-      "Фомичев Владимир Николаевич": 14,
-      "Халимончук Максим Валентинович": 97
+      "gas:candidate-vibid:2482000589186": 353,
+      "gas:candidate-vibid:2482000600477": 150,
+      "gas:candidate-vibid:2482000603368": 43,
+      "gas:candidate-vibid:2482000600403": 35,
+      "gas:candidate-vibid:2482000586347": 152,
+      "gas:candidate-vibid:2482000591037": 27,
+      "gas:candidate-vibid:2482000600784": 88,
+      "gas:candidate-vibid:2482000600511": 14,
+      "gas:candidate-vibid:2482000588997": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 361,
-      "Валетов Сергей Анатольевич": 141,
-      "Еркина Елена Викторовна": 30,
-      "Ковригин Вадим Валерьевич": 53,
-      "Разворотнев Николай Васильевич": 167,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 107,
-      "Фомичев Владимир Николаевич": 15,
-      "Халимончук Максим Валентинович": 93
+      "gas:candidate-vibid:2482000589186": 361,
+      "gas:candidate-vibid:2482000600477": 141,
+      "gas:candidate-vibid:2482000603368": 30,
+      "gas:candidate-vibid:2482000600403": 53,
+      "gas:candidate-vibid:2482000586347": 167,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 107,
+      "gas:candidate-vibid:2482000600511": 15,
+      "gas:candidate-vibid:2482000588997": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 247,
-      "Валетов Сергей Анатольевич": 99,
-      "Еркина Елена Викторовна": 26,
-      "Ковригин Вадим Валерьевич": 40,
-      "Разворотнев Николай Васильевич": 165,
-      "Трофимов Вадим Юрьевич": 11,
-      "Тюнина Светлана Валерьевна": 64,
-      "Фомичев Владимир Николаевич": 15,
-      "Халимончук Максим Валентинович": 51
+      "gas:candidate-vibid:2482000589186": 247,
+      "gas:candidate-vibid:2482000600477": 99,
+      "gas:candidate-vibid:2482000603368": 26,
+      "gas:candidate-vibid:2482000600403": 40,
+      "gas:candidate-vibid:2482000586347": 165,
+      "gas:candidate-vibid:2482000591037": 11,
+      "gas:candidate-vibid:2482000600784": 64,
+      "gas:candidate-vibid:2482000600511": 15,
+      "gas:candidate-vibid:2482000588997": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 307,
-      "Валетов Сергей Анатольевич": 90,
-      "Еркина Елена Викторовна": 19,
-      "Ковригин Вадим Валерьевич": 28,
-      "Разворотнев Николай Васильевич": 174,
-      "Трофимов Вадим Юрьевич": 21,
-      "Тюнина Светлана Валерьевна": 80,
-      "Фомичев Владимир Николаевич": 11,
-      "Халимончук Максим Валентинович": 60
+      "gas:candidate-vibid:2482000589186": 307,
+      "gas:candidate-vibid:2482000600477": 90,
+      "gas:candidate-vibid:2482000603368": 19,
+      "gas:candidate-vibid:2482000600403": 28,
+      "gas:candidate-vibid:2482000586347": 174,
+      "gas:candidate-vibid:2482000591037": 21,
+      "gas:candidate-vibid:2482000600784": 80,
+      "gas:candidate-vibid:2482000600511": 11,
+      "gas:candidate-vibid:2482000588997": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 337,
-      "Валетов Сергей Анатольевич": 126,
-      "Еркина Елена Викторовна": 36,
-      "Ковригин Вадим Валерьевич": 34,
-      "Разворотнев Николай Васильевич": 197,
-      "Трофимов Вадим Юрьевич": 28,
-      "Тюнина Светлана Валерьевна": 133,
-      "Фомичев Владимир Николаевич": 11,
-      "Халимончук Максим Валентинович": 75
+      "gas:candidate-vibid:2482000589186": 337,
+      "gas:candidate-vibid:2482000600477": 126,
+      "gas:candidate-vibid:2482000603368": 36,
+      "gas:candidate-vibid:2482000600403": 34,
+      "gas:candidate-vibid:2482000586347": 197,
+      "gas:candidate-vibid:2482000591037": 28,
+      "gas:candidate-vibid:2482000600784": 133,
+      "gas:candidate-vibid:2482000600511": 11,
+      "gas:candidate-vibid:2482000588997": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 255,
-      "Валетов Сергей Анатольевич": 126,
-      "Еркина Елена Викторовна": 21,
-      "Ковригин Вадим Валерьевич": 21,
-      "Разворотнев Николай Васильевич": 140,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 88,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 53
+      "gas:candidate-vibid:2482000589186": 255,
+      "gas:candidate-vibid:2482000600477": 126,
+      "gas:candidate-vibid:2482000603368": 21,
+      "gas:candidate-vibid:2482000600403": 21,
+      "gas:candidate-vibid:2482000586347": 140,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 88,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 245,
-      "Валетов Сергей Анатольевич": 101,
-      "Еркина Елена Викторовна": 25,
-      "Ковригин Вадим Валерьевич": 24,
-      "Разворотнев Николай Васильевич": 132,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 92,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 65
+      "gas:candidate-vibid:2482000589186": 245,
+      "gas:candidate-vibid:2482000600477": 101,
+      "gas:candidate-vibid:2482000603368": 25,
+      "gas:candidate-vibid:2482000600403": 24,
+      "gas:candidate-vibid:2482000586347": 132,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 92,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 506,
-      "Валетов Сергей Анатольевич": 166,
-      "Еркина Елена Викторовна": 47,
-      "Ковригин Вадим Валерьевич": 40,
-      "Разворотнев Николай Васильевич": 173,
-      "Трофимов Вадим Юрьевич": 56,
-      "Тюнина Светлана Валерьевна": 140,
-      "Фомичев Владимир Николаевич": 17,
-      "Халимончук Максим Валентинович": 182
+      "gas:candidate-vibid:2482000589186": 506,
+      "gas:candidate-vibid:2482000600477": 166,
+      "gas:candidate-vibid:2482000603368": 47,
+      "gas:candidate-vibid:2482000600403": 40,
+      "gas:candidate-vibid:2482000586347": 173,
+      "gas:candidate-vibid:2482000591037": 56,
+      "gas:candidate-vibid:2482000600784": 140,
+      "gas:candidate-vibid:2482000600511": 17,
+      "gas:candidate-vibid:2482000588997": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 303,
-      "Валетов Сергей Анатольевич": 167,
-      "Еркина Елена Викторовна": 35,
-      "Ковригин Вадим Валерьевич": 28,
-      "Разворотнев Николай Васильевич": 218,
-      "Трофимов Вадим Юрьевич": 28,
-      "Тюнина Светлана Валерьевна": 114,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 93
+      "gas:candidate-vibid:2482000589186": 303,
+      "gas:candidate-vibid:2482000600477": 167,
+      "gas:candidate-vibid:2482000603368": 35,
+      "gas:candidate-vibid:2482000600403": 28,
+      "gas:candidate-vibid:2482000586347": 218,
+      "gas:candidate-vibid:2482000591037": 28,
+      "gas:candidate-vibid:2482000600784": 114,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 367,
-      "Валетов Сергей Анатольевич": 106,
-      "Еркина Елена Викторовна": 23,
-      "Ковригин Вадим Валерьевич": 37,
-      "Разворотнев Николай Васильевич": 170,
-      "Трофимов Вадим Юрьевич": 26,
-      "Тюнина Светлана Валерьевна": 125,
-      "Фомичев Владимир Николаевич": 12,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 367,
+      "gas:candidate-vibid:2482000600477": 106,
+      "gas:candidate-vibid:2482000603368": 23,
+      "gas:candidate-vibid:2482000600403": 37,
+      "gas:candidate-vibid:2482000586347": 170,
+      "gas:candidate-vibid:2482000591037": 26,
+      "gas:candidate-vibid:2482000600784": 125,
+      "gas:candidate-vibid:2482000600511": 12,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 290,
-      "Валетов Сергей Анатольевич": 122,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 40,
-      "Разворотнев Николай Васильевич": 193,
-      "Трофимов Вадим Юрьевич": 30,
-      "Тюнина Светлана Валерьевна": 114,
-      "Фомичев Владимир Николаевич": 16,
-      "Халимончук Максим Валентинович": 94
+      "gas:candidate-vibid:2482000589186": 290,
+      "gas:candidate-vibid:2482000600477": 122,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 40,
+      "gas:candidate-vibid:2482000586347": 193,
+      "gas:candidate-vibid:2482000591037": 30,
+      "gas:candidate-vibid:2482000600784": 114,
+      "gas:candidate-vibid:2482000600511": 16,
+      "gas:candidate-vibid:2482000588997": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 238,
-      "Валетов Сергей Анатольевич": 69,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 24,
-      "Разворотнев Николай Васильевич": 147,
-      "Трофимов Вадим Юрьевич": 30,
-      "Тюнина Светлана Валерьевна": 88,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 66
+      "gas:candidate-vibid:2482000589186": 238,
+      "gas:candidate-vibid:2482000600477": 69,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 24,
+      "gas:candidate-vibid:2482000586347": 147,
+      "gas:candidate-vibid:2482000591037": 30,
+      "gas:candidate-vibid:2482000600784": 88,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 274,
-      "Валетов Сергей Анатольевич": 67,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 18,
-      "Разворотнев Николай Васильевич": 126,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 75,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 60
+      "gas:candidate-vibid:2482000589186": 274,
+      "gas:candidate-vibid:2482000600477": 67,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 18,
+      "gas:candidate-vibid:2482000586347": 126,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 75,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 235,
-      "Валетов Сергей Анатольевич": 69,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 20,
-      "Разворотнев Николай Васильевич": 114,
-      "Трофимов Вадим Юрьевич": 21,
-      "Тюнина Светлана Валерьевна": 99,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 54
+      "gas:candidate-vibid:2482000589186": 235,
+      "gas:candidate-vibid:2482000600477": 69,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 20,
+      "gas:candidate-vibid:2482000586347": 114,
+      "gas:candidate-vibid:2482000591037": 21,
+      "gas:candidate-vibid:2482000600784": 99,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 251,
-      "Валетов Сергей Анатольевич": 82,
-      "Еркина Елена Викторовна": 16,
-      "Ковригин Вадим Валерьевич": 17,
-      "Разворотнев Николай Васильевич": 144,
-      "Трофимов Вадим Юрьевич": 22,
-      "Тюнина Светлана Валерьевна": 106,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 251,
+      "gas:candidate-vibid:2482000600477": 82,
+      "gas:candidate-vibid:2482000603368": 16,
+      "gas:candidate-vibid:2482000600403": 17,
+      "gas:candidate-vibid:2482000586347": 144,
+      "gas:candidate-vibid:2482000591037": 22,
+      "gas:candidate-vibid:2482000600784": 106,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 296,
-      "Валетов Сергей Анатольевич": 103,
-      "Еркина Елена Викторовна": 19,
-      "Ковригин Вадим Валерьевич": 15,
-      "Разворотнев Николай Васильевич": 122,
-      "Трофимов Вадим Юрьевич": 36,
-      "Тюнина Светлана Валерьевна": 107,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 79
+      "gas:candidate-vibid:2482000589186": 296,
+      "gas:candidate-vibid:2482000600477": 103,
+      "gas:candidate-vibid:2482000603368": 19,
+      "gas:candidate-vibid:2482000600403": 15,
+      "gas:candidate-vibid:2482000586347": 122,
+      "gas:candidate-vibid:2482000591037": 36,
+      "gas:candidate-vibid:2482000600784": 107,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 247,
-      "Валетов Сергей Анатольевич": 61,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 18,
-      "Разворотнев Николай Васильевич": 109,
-      "Трофимов Вадим Юрьевич": 32,
-      "Тюнина Светлана Валерьевна": 99,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 55
+      "gas:candidate-vibid:2482000589186": 247,
+      "gas:candidate-vibid:2482000600477": 61,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 18,
+      "gas:candidate-vibid:2482000586347": 109,
+      "gas:candidate-vibid:2482000591037": 32,
+      "gas:candidate-vibid:2482000600784": 99,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 230,
-      "Валетов Сергей Анатольевич": 62,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 35,
-      "Разворотнев Николай Васильевич": 123,
-      "Трофимов Вадим Юрьевич": 25,
-      "Тюнина Светлана Валерьевна": 89,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 65
+      "gas:candidate-vibid:2482000589186": 230,
+      "gas:candidate-vibid:2482000600477": 62,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 35,
+      "gas:candidate-vibid:2482000586347": 123,
+      "gas:candidate-vibid:2482000591037": 25,
+      "gas:candidate-vibid:2482000600784": 89,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 300,
-      "Валетов Сергей Анатольевич": 93,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 34,
-      "Разворотнев Николай Васильевич": 178,
-      "Трофимов Вадим Юрьевич": 32,
-      "Тюнина Светлана Валерьевна": 105,
-      "Фомичев Владимир Николаевич": 11,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 300,
+      "gas:candidate-vibid:2482000600477": 93,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 34,
+      "gas:candidate-vibid:2482000586347": 178,
+      "gas:candidate-vibid:2482000591037": 32,
+      "gas:candidate-vibid:2482000600784": 105,
+      "gas:candidate-vibid:2482000600511": 11,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 251,
-      "Валетов Сергей Анатольевич": 65,
-      "Еркина Елена Викторовна": 21,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 140,
-      "Трофимов Вадим Юрьевич": 33,
-      "Тюнина Светлана Валерьевна": 91,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 76
+      "gas:candidate-vibid:2482000589186": 251,
+      "gas:candidate-vibid:2482000600477": 65,
+      "gas:candidate-vibid:2482000603368": 21,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 140,
+      "gas:candidate-vibid:2482000591037": 33,
+      "gas:candidate-vibid:2482000600784": 91,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 312,
-      "Валетов Сергей Анатольевич": 78,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 22,
-      "Разворотнев Николай Васильевич": 138,
-      "Трофимов Вадим Юрьевич": 25,
-      "Тюнина Светлана Валерьевна": 89,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 64
+      "gas:candidate-vibid:2482000589186": 312,
+      "gas:candidate-vibid:2482000600477": 78,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 22,
+      "gas:candidate-vibid:2482000586347": 138,
+      "gas:candidate-vibid:2482000591037": 25,
+      "gas:candidate-vibid:2482000600784": 89,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 300,
-      "Валетов Сергей Анатольевич": 84,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 21,
-      "Разворотнев Николай Васильевич": 150,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 101,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 66
+      "gas:candidate-vibid:2482000589186": 300,
+      "gas:candidate-vibid:2482000600477": 84,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 21,
+      "gas:candidate-vibid:2482000586347": 150,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 101,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 346,
-      "Валетов Сергей Анатольевич": 62,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 46,
-      "Разворотнев Николай Васильевич": 212,
-      "Трофимов Вадим Юрьевич": 21,
-      "Тюнина Светлана Валерьевна": 105,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 79
+      "gas:candidate-vibid:2482000589186": 346,
+      "gas:candidate-vibid:2482000600477": 62,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 46,
+      "gas:candidate-vibid:2482000586347": 212,
+      "gas:candidate-vibid:2482000591037": 21,
+      "gas:candidate-vibid:2482000600784": 105,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 284,
-      "Валетов Сергей Анатольевич": 62,
-      "Еркина Елена Викторовна": 12,
-      "Ковригин Вадим Валерьевич": 27,
-      "Разворотнев Николай Васильевич": 154,
-      "Трофимов Вадим Юрьевич": 27,
-      "Тюнина Светлана Валерьевна": 114,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 59
+      "gas:candidate-vibid:2482000589186": 284,
+      "gas:candidate-vibid:2482000600477": 62,
+      "gas:candidate-vibid:2482000603368": 12,
+      "gas:candidate-vibid:2482000600403": 27,
+      "gas:candidate-vibid:2482000586347": 154,
+      "gas:candidate-vibid:2482000591037": 27,
+      "gas:candidate-vibid:2482000600784": 114,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 258,
-      "Валетов Сергей Анатольевич": 71,
-      "Еркина Елена Викторовна": 12,
-      "Ковригин Вадим Валерьевич": 30,
-      "Разворотнев Николай Васильевич": 117,
-      "Трофимов Вадим Юрьевич": 25,
-      "Тюнина Светлана Валерьевна": 119,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 73
+      "gas:candidate-vibid:2482000589186": 258,
+      "gas:candidate-vibid:2482000600477": 71,
+      "gas:candidate-vibid:2482000603368": 12,
+      "gas:candidate-vibid:2482000600403": 30,
+      "gas:candidate-vibid:2482000586347": 117,
+      "gas:candidate-vibid:2482000591037": 25,
+      "gas:candidate-vibid:2482000600784": 119,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 374,
-      "Валетов Сергей Анатольевич": 96,
-      "Еркина Елена Викторовна": 21,
-      "Ковригин Вадим Валерьевич": 31,
-      "Разворотнев Николай Васильевич": 207,
-      "Трофимов Вадим Юрьевич": 36,
-      "Тюнина Светлана Валерьевна": 130,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 374,
+      "gas:candidate-vibid:2482000600477": 96,
+      "gas:candidate-vibid:2482000603368": 21,
+      "gas:candidate-vibid:2482000600403": 31,
+      "gas:candidate-vibid:2482000586347": 207,
+      "gas:candidate-vibid:2482000591037": 36,
+      "gas:candidate-vibid:2482000600784": 130,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 269,
-      "Валетов Сергей Анатольевич": 84,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 20,
-      "Разворотнев Николай Васильевич": 124,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 81,
-      "Фомичев Владимир Николаевич": 16,
-      "Халимончук Максим Валентинович": 63
+      "gas:candidate-vibid:2482000589186": 269,
+      "gas:candidate-vibid:2482000600477": 84,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 20,
+      "gas:candidate-vibid:2482000586347": 124,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 81,
+      "gas:candidate-vibid:2482000600511": 16,
+      "gas:candidate-vibid:2482000588997": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 326,
-      "Валетов Сергей Анатольевич": 67,
-      "Еркина Елена Викторовна": 16,
-      "Ковригин Вадим Валерьевич": 23,
-      "Разворотнев Николай Васильевич": 157,
-      "Трофимов Вадим Юрьевич": 25,
-      "Тюнина Светлана Валерьевна": 119,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 326,
+      "gas:candidate-vibid:2482000600477": 67,
+      "gas:candidate-vibid:2482000603368": 16,
+      "gas:candidate-vibid:2482000600403": 23,
+      "gas:candidate-vibid:2482000586347": 157,
+      "gas:candidate-vibid:2482000591037": 25,
+      "gas:candidate-vibid:2482000600784": 119,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 287,
-      "Валетов Сергей Анатольевич": 55,
-      "Еркина Елена Викторовна": 23,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 90,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 101,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 66
+      "gas:candidate-vibid:2482000589186": 287,
+      "gas:candidate-vibid:2482000600477": 55,
+      "gas:candidate-vibid:2482000603368": 23,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 90,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 101,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 298,
-      "Валетов Сергей Анатольевич": 84,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 29,
-      "Разворотнев Николай Васильевич": 111,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 125,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 79
+      "gas:candidate-vibid:2482000589186": 298,
+      "gas:candidate-vibid:2482000600477": 84,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 29,
+      "gas:candidate-vibid:2482000586347": 111,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 125,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 232,
-      "Валетов Сергей Анатольевич": 78,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 25,
-      "Разворотнев Николай Васильевич": 107,
-      "Трофимов Вадим Юрьевич": 26,
-      "Тюнина Светлана Валерьевна": 88,
-      "Фомичев Владимир Николаевич": 9,
-      "Халимончук Максим Валентинович": 54
+      "gas:candidate-vibid:2482000589186": 232,
+      "gas:candidate-vibid:2482000600477": 78,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 25,
+      "gas:candidate-vibid:2482000586347": 107,
+      "gas:candidate-vibid:2482000591037": 26,
+      "gas:candidate-vibid:2482000600784": 88,
+      "gas:candidate-vibid:2482000600511": 9,
+      "gas:candidate-vibid:2482000588997": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 389,
-      "Валетов Сергей Анатольевич": 113,
-      "Еркина Елена Викторовна": 35,
-      "Ковригин Вадим Валерьевич": 41,
-      "Разворотнев Николай Васильевич": 159,
-      "Трофимов Вадим Юрьевич": 34,
-      "Тюнина Светлана Валерьевна": 104,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 88
+      "gas:candidate-vibid:2482000589186": 389,
+      "gas:candidate-vibid:2482000600477": 113,
+      "gas:candidate-vibid:2482000603368": 35,
+      "gas:candidate-vibid:2482000600403": 41,
+      "gas:candidate-vibid:2482000586347": 159,
+      "gas:candidate-vibid:2482000591037": 34,
+      "gas:candidate-vibid:2482000600784": 104,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 350,
-      "Валетов Сергей Анатольевич": 93,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 141,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 117,
-      "Фомичев Владимир Николаевич": 12,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 350,
+      "gas:candidate-vibid:2482000600477": 93,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 141,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 117,
+      "gas:candidate-vibid:2482000600511": 12,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 310,
-      "Валетов Сергей Анатольевич": 57,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 33,
-      "Разворотнев Николай Васильевич": 138,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 94,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 88
+      "gas:candidate-vibid:2482000589186": 310,
+      "gas:candidate-vibid:2482000600477": 57,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 33,
+      "gas:candidate-vibid:2482000586347": 138,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 94,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 367,
-      "Валетов Сергей Анатольевич": 106,
-      "Еркина Елена Викторовна": 31,
-      "Ковригин Вадим Валерьевич": 40,
-      "Разворотнев Николай Васильевич": 196,
-      "Трофимов Вадим Юрьевич": 40,
-      "Тюнина Светлана Валерьевна": 114,
-      "Фомичев Владимир Николаевич": 12,
-      "Халимончук Максим Валентинович": 89
+      "gas:candidate-vibid:2482000589186": 367,
+      "gas:candidate-vibid:2482000600477": 106,
+      "gas:candidate-vibid:2482000603368": 31,
+      "gas:candidate-vibid:2482000600403": 40,
+      "gas:candidate-vibid:2482000586347": 196,
+      "gas:candidate-vibid:2482000591037": 40,
+      "gas:candidate-vibid:2482000600784": 114,
+      "gas:candidate-vibid:2482000600511": 12,
+      "gas:candidate-vibid:2482000588997": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 368,
-      "Валетов Сергей Анатольевич": 126,
-      "Еркина Елена Викторовна": 25,
-      "Ковригин Вадим Валерьевич": 32,
-      "Разворотнев Николай Васильевич": 216,
-      "Трофимов Вадим Юрьевич": 30,
-      "Тюнина Светлана Валерьевна": 149,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 96
+      "gas:candidate-vibid:2482000589186": 368,
+      "gas:candidate-vibid:2482000600477": 126,
+      "gas:candidate-vibid:2482000603368": 25,
+      "gas:candidate-vibid:2482000600403": 32,
+      "gas:candidate-vibid:2482000586347": 216,
+      "gas:candidate-vibid:2482000591037": 30,
+      "gas:candidate-vibid:2482000600784": 149,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 253,
-      "Валетов Сергей Анатольевич": 103,
-      "Еркина Елена Викторовна": 23,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 101,
-      "Трофимов Вадим Юрьевич": 28,
-      "Тюнина Светлана Валерьевна": 99,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 70
+      "gas:candidate-vibid:2482000589186": 253,
+      "gas:candidate-vibid:2482000600477": 103,
+      "gas:candidate-vibid:2482000603368": 23,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 101,
+      "gas:candidate-vibid:2482000591037": 28,
+      "gas:candidate-vibid:2482000600784": 99,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 205,
-      "Валетов Сергей Анатольевич": 45,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 17,
-      "Разворотнев Николай Васильевич": 99,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 70,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 53
+      "gas:candidate-vibid:2482000589186": 205,
+      "gas:candidate-vibid:2482000600477": 45,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 17,
+      "gas:candidate-vibid:2482000586347": 99,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 70,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 300,
-      "Валетов Сергей Анатольевич": 68,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 18,
-      "Разворотнев Николай Васильевич": 147,
-      "Трофимов Вадим Юрьевич": 24,
-      "Тюнина Светлана Валерьевна": 104,
-      "Фомичев Владимир Николаевич": 14,
-      "Халимончук Максим Валентинович": 64
+      "gas:candidate-vibid:2482000589186": 300,
+      "gas:candidate-vibid:2482000600477": 68,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 18,
+      "gas:candidate-vibid:2482000586347": 147,
+      "gas:candidate-vibid:2482000591037": 24,
+      "gas:candidate-vibid:2482000600784": 104,
+      "gas:candidate-vibid:2482000600511": 14,
+      "gas:candidate-vibid:2482000588997": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 271,
-      "Валетов Сергей Анатольевич": 132,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 157,
-      "Трофимов Вадим Юрьевич": 19,
-      "Тюнина Светлана Валерьевна": 104,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 271,
+      "gas:candidate-vibid:2482000600477": 132,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 157,
+      "gas:candidate-vibid:2482000591037": 19,
+      "gas:candidate-vibid:2482000600784": 104,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 280,
-      "Валетов Сергей Анатольевич": 67,
-      "Еркина Елена Викторовна": 16,
-      "Ковригин Вадим Валерьевич": 28,
-      "Разворотнев Николай Васильевич": 149,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 101,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 59
+      "gas:candidate-vibid:2482000589186": 280,
+      "gas:candidate-vibid:2482000600477": 67,
+      "gas:candidate-vibid:2482000603368": 16,
+      "gas:candidate-vibid:2482000600403": 28,
+      "gas:candidate-vibid:2482000586347": 149,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 101,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 371,
-      "Валетов Сергей Анатольевич": 116,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 170,
-      "Трофимов Вадим Юрьевич": 33,
-      "Тюнина Светлана Валерьевна": 105,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 88
+      "gas:candidate-vibid:2482000589186": 371,
+      "gas:candidate-vibid:2482000600477": 116,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 170,
+      "gas:candidate-vibid:2482000591037": 33,
+      "gas:candidate-vibid:2482000600784": 105,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 350,
-      "Валетов Сергей Анатольевич": 106,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 31,
-      "Разворотнев Николай Васильевич": 170,
-      "Трофимов Вадим Юрьевич": 33,
-      "Тюнина Светлана Валерьевна": 100,
-      "Фомичев Владимир Николаевич": 11,
-      "Халимончук Максим Валентинович": 95
+      "gas:candidate-vibid:2482000589186": 350,
+      "gas:candidate-vibid:2482000600477": 106,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 31,
+      "gas:candidate-vibid:2482000586347": 170,
+      "gas:candidate-vibid:2482000591037": 33,
+      "gas:candidate-vibid:2482000600784": 100,
+      "gas:candidate-vibid:2482000600511": 11,
+      "gas:candidate-vibid:2482000588997": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 263,
-      "Валетов Сергей Анатольевич": 65,
-      "Еркина Елена Викторовна": 18,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 129,
-      "Трофимов Вадим Юрьевич": 27,
-      "Тюнина Светлана Валерьевна": 92,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 263,
+      "gas:candidate-vibid:2482000600477": 65,
+      "gas:candidate-vibid:2482000603368": 18,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 129,
+      "gas:candidate-vibid:2482000591037": 27,
+      "gas:candidate-vibid:2482000600784": 92,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 283,
-      "Валетов Сергей Анатольевич": 74,
-      "Еркина Елена Викторовна": 21,
-      "Ковригин Вадим Валерьевич": 24,
-      "Разворотнев Николай Васильевич": 137,
-      "Трофимов Вадим Юрьевич": 28,
-      "Тюнина Светлана Валерьевна": 90,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 69
+      "gas:candidate-vibid:2482000589186": 283,
+      "gas:candidate-vibid:2482000600477": 74,
+      "gas:candidate-vibid:2482000603368": 21,
+      "gas:candidate-vibid:2482000600403": 24,
+      "gas:candidate-vibid:2482000586347": 137,
+      "gas:candidate-vibid:2482000591037": 28,
+      "gas:candidate-vibid:2482000600784": 90,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 233,
-      "Валетов Сергей Анатольевич": 63,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 17,
-      "Разворотнев Николай Васильевич": 125,
-      "Трофимов Вадим Юрьевич": 24,
-      "Тюнина Светлана Валерьевна": 78,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 69
+      "gas:candidate-vibid:2482000589186": 233,
+      "gas:candidate-vibid:2482000600477": 63,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 17,
+      "gas:candidate-vibid:2482000586347": 125,
+      "gas:candidate-vibid:2482000591037": 24,
+      "gas:candidate-vibid:2482000600784": 78,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 326,
-      "Валетов Сергей Анатольевич": 73,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 25,
-      "Разворотнев Николай Васильевич": 149,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 83,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 79
+      "gas:candidate-vibid:2482000589186": 326,
+      "gas:candidate-vibid:2482000600477": 73,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 25,
+      "gas:candidate-vibid:2482000586347": 149,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 83,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 252,
-      "Валетов Сергей Анатольевич": 64,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 27,
-      "Разворотнев Николай Васильевич": 124,
-      "Трофимов Вадим Юрьевич": 39,
-      "Тюнина Светлана Валерьевна": 73,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 57
+      "gas:candidate-vibid:2482000589186": 252,
+      "gas:candidate-vibid:2482000600477": 64,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 27,
+      "gas:candidate-vibid:2482000586347": 124,
+      "gas:candidate-vibid:2482000591037": 39,
+      "gas:candidate-vibid:2482000600784": 73,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 271,
-      "Валетов Сергей Анатольевич": 99,
-      "Еркина Елена Викторовна": 19,
-      "Ковригин Вадим Валерьевич": 14,
-      "Разворотнев Николай Васильевич": 143,
-      "Трофимов Вадим Юрьевич": 49,
-      "Тюнина Светлана Валерьевна": 90,
-      "Фомичев Владимир Николаевич": 9,
-      "Халимончук Максим Валентинович": 85
+      "gas:candidate-vibid:2482000589186": 271,
+      "gas:candidate-vibid:2482000600477": 99,
+      "gas:candidate-vibid:2482000603368": 19,
+      "gas:candidate-vibid:2482000600403": 14,
+      "gas:candidate-vibid:2482000586347": 143,
+      "gas:candidate-vibid:2482000591037": 49,
+      "gas:candidate-vibid:2482000600784": 90,
+      "gas:candidate-vibid:2482000600511": 9,
+      "gas:candidate-vibid:2482000588997": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 270,
-      "Валетов Сергей Анатольевич": 91,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 140,
-      "Трофимов Вадим Юрьевич": 42,
-      "Тюнина Светлана Валерьевна": 78,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 74
+      "gas:candidate-vibid:2482000589186": 270,
+      "gas:candidate-vibid:2482000600477": 91,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 140,
+      "gas:candidate-vibid:2482000591037": 42,
+      "gas:candidate-vibid:2482000600784": 78,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 380,
-      "Валетов Сергей Анатольевич": 104,
-      "Еркина Елена Викторовна": 23,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 198,
-      "Трофимов Вадим Юрьевич": 55,
-      "Тюнина Светлана Валерьевна": 129,
-      "Фомичев Владимир Николаевич": 16,
-      "Халимончук Максим Валентинович": 102
+      "gas:candidate-vibid:2482000589186": 380,
+      "gas:candidate-vibid:2482000600477": 104,
+      "gas:candidate-vibid:2482000603368": 23,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 198,
+      "gas:candidate-vibid:2482000591037": 55,
+      "gas:candidate-vibid:2482000600784": 129,
+      "gas:candidate-vibid:2482000600511": 16,
+      "gas:candidate-vibid:2482000588997": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 305,
-      "Валетов Сергей Анатольевич": 90,
-      "Еркина Елена Викторовна": 16,
-      "Ковригин Вадим Валерьевич": 27,
-      "Разворотнев Николай Васильевич": 188,
-      "Трофимов Вадим Юрьевич": 71,
-      "Тюнина Светлана Валерьевна": 79,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 77
+      "gas:candidate-vibid:2482000589186": 305,
+      "gas:candidate-vibid:2482000600477": 90,
+      "gas:candidate-vibid:2482000603368": 16,
+      "gas:candidate-vibid:2482000600403": 27,
+      "gas:candidate-vibid:2482000586347": 188,
+      "gas:candidate-vibid:2482000591037": 71,
+      "gas:candidate-vibid:2482000600784": 79,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 162,
-      "Валетов Сергей Анатольевич": 53,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 23,
-      "Разворотнев Николай Васильевич": 82,
-      "Трофимов Вадим Юрьевич": 11,
-      "Тюнина Светлана Валерьевна": 45,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 55
+      "gas:candidate-vibid:2482000589186": 162,
+      "gas:candidate-vibid:2482000600477": 53,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 23,
+      "gas:candidate-vibid:2482000586347": 82,
+      "gas:candidate-vibid:2482000591037": 11,
+      "gas:candidate-vibid:2482000600784": 45,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 388,
-      "Валетов Сергей Анатольевич": 114,
-      "Еркина Елена Викторовна": 39,
-      "Ковригин Вадим Валерьевич": 35,
-      "Разворотнев Николай Васильевич": 122,
-      "Трофимов Вадим Юрьевич": 51,
-      "Тюнина Светлана Валерьевна": 88,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 388,
+      "gas:candidate-vibid:2482000600477": 114,
+      "gas:candidate-vibid:2482000603368": 39,
+      "gas:candidate-vibid:2482000600403": 35,
+      "gas:candidate-vibid:2482000586347": 122,
+      "gas:candidate-vibid:2482000591037": 51,
+      "gas:candidate-vibid:2482000600784": 88,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 186,
-      "Валетов Сергей Анатольевич": 41,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 24,
-      "Разворотнев Николай Васильевич": 48,
-      "Трофимов Вадим Юрьевич": 12,
-      "Тюнина Светлана Валерьевна": 53,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 69
+      "gas:candidate-vibid:2482000589186": 186,
+      "gas:candidate-vibid:2482000600477": 41,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 24,
+      "gas:candidate-vibid:2482000586347": 48,
+      "gas:candidate-vibid:2482000591037": 12,
+      "gas:candidate-vibid:2482000600784": 53,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 442,
-      "Валетов Сергей Анатольевич": 81,
-      "Еркина Елена Викторовна": 18,
-      "Ковригин Вадим Валерьевич": 21,
-      "Разворотнев Николай Васильевич": 183,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 65,
-      "Фомичев Владимир Николаевич": 12,
-      "Халимончук Максим Валентинович": 139
+      "gas:candidate-vibid:2482000589186": 442,
+      "gas:candidate-vibid:2482000600477": 81,
+      "gas:candidate-vibid:2482000603368": 18,
+      "gas:candidate-vibid:2482000600403": 21,
+      "gas:candidate-vibid:2482000586347": 183,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 65,
+      "gas:candidate-vibid:2482000600511": 12,
+      "gas:candidate-vibid:2482000588997": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 398,
-      "Валетов Сергей Анатольевич": 82,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 26,
-      "Разворотнев Николай Васильевич": 124,
-      "Трофимов Вадим Юрьевич": 36,
-      "Тюнина Светлана Валерьевна": 91,
-      "Фомичев Владимир Николаевич": 10,
-      "Халимончук Максим Валентинович": 109
+      "gas:candidate-vibid:2482000589186": 398,
+      "gas:candidate-vibid:2482000600477": 82,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 26,
+      "gas:candidate-vibid:2482000586347": 124,
+      "gas:candidate-vibid:2482000591037": 36,
+      "gas:candidate-vibid:2482000600784": 91,
+      "gas:candidate-vibid:2482000600511": 10,
+      "gas:candidate-vibid:2482000588997": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 331,
-      "Валетов Сергей Анатольевич": 51,
-      "Еркина Елена Викторовна": 22,
-      "Ковригин Вадим Валерьевич": 10,
-      "Разворотнев Николай Васильевич": 128,
-      "Трофимов Вадим Юрьевич": 43,
-      "Тюнина Светлана Валерьевна": 58,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 81
+      "gas:candidate-vibid:2482000589186": 331,
+      "gas:candidate-vibid:2482000600477": 51,
+      "gas:candidate-vibid:2482000603368": 22,
+      "gas:candidate-vibid:2482000600403": 10,
+      "gas:candidate-vibid:2482000586347": 128,
+      "gas:candidate-vibid:2482000591037": 43,
+      "gas:candidate-vibid:2482000600784": 58,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 396,
-      "Валетов Сергей Анатольевич": 75,
-      "Еркина Елена Викторовна": 19,
-      "Ковригин Вадим Валерьевич": 19,
-      "Разворотнев Николай Васильевич": 158,
-      "Трофимов Вадим Юрьевич": 38,
-      "Тюнина Светлана Валерьевна": 90,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 133
+      "gas:candidate-vibid:2482000589186": 396,
+      "gas:candidate-vibid:2482000600477": 75,
+      "gas:candidate-vibid:2482000603368": 19,
+      "gas:candidate-vibid:2482000600403": 19,
+      "gas:candidate-vibid:2482000586347": 158,
+      "gas:candidate-vibid:2482000591037": 38,
+      "gas:candidate-vibid:2482000600784": 90,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 462,
-      "Валетов Сергей Анатольевич": 89,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 28,
-      "Разворотнев Николай Васильевич": 143,
-      "Трофимов Вадим Юрьевич": 49,
-      "Тюнина Светлана Валерьевна": 90,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 107
+      "gas:candidate-vibid:2482000589186": 462,
+      "gas:candidate-vibid:2482000600477": 89,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 28,
+      "gas:candidate-vibid:2482000586347": 143,
+      "gas:candidate-vibid:2482000591037": 49,
+      "gas:candidate-vibid:2482000600784": 90,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 27,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 4,
-      "Трофимов Вадим Юрьевич": 2,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 11
+      "gas:candidate-vibid:2482000589186": 27,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 4,
+      "gas:candidate-vibid:2482000591037": 2,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 19,
-      "Валетов Сергей Анатольевич": 1,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 7,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 3,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 7
+      "gas:candidate-vibid:2482000589186": 19,
+      "gas:candidate-vibid:2482000600477": 1,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 7,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 3,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 34,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 10,
-      "Трофимов Вадим Юрьевич": 2,
-      "Тюнина Светлана Валерьевна": 3,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 34,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 10,
+      "gas:candidate-vibid:2482000591037": 2,
+      "gas:candidate-vibid:2482000600784": 3,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 3352,
-      "Валетов Сергей Анатольевич": 130,
-      "Еркина Елена Викторовна": 63,
-      "Ковригин Вадим Валерьевич": 75,
-      "Разворотнев Николай Васильевич": 160,
-      "Трофимов Вадим Юрьевич": 82,
-      "Тюнина Светлана Валерьевна": 90,
-      "Фомичев Владимир Николаевич": 46,
-      "Халимончук Максим Валентинович": 213
+      "gas:candidate-vibid:2482000589186": 3352,
+      "gas:candidate-vibid:2482000600477": 130,
+      "gas:candidate-vibid:2482000603368": 63,
+      "gas:candidate-vibid:2482000600403": 75,
+      "gas:candidate-vibid:2482000586347": 160,
+      "gas:candidate-vibid:2482000591037": 82,
+      "gas:candidate-vibid:2482000600784": 90,
+      "gas:candidate-vibid:2482000600511": 46,
+      "gas:candidate-vibid:2482000588997": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 998,
-      "Валетов Сергей Анатольевич": 29,
-      "Еркина Елена Викторовна": 26,
-      "Ковригин Вадим Валерьевич": 27,
-      "Разворотнев Николай Васильевич": 50,
-      "Трофимов Вадим Юрьевич": 35,
-      "Тюнина Светлана Валерьевна": 41,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 72
+      "gas:candidate-vibid:2482000589186": 998,
+      "gas:candidate-vibid:2482000600477": 29,
+      "gas:candidate-vibid:2482000603368": 26,
+      "gas:candidate-vibid:2482000600403": 27,
+      "gas:candidate-vibid:2482000586347": 50,
+      "gas:candidate-vibid:2482000591037": 35,
+      "gas:candidate-vibid:2482000600784": 41,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533383&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533383&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 289,
-      "Валетов Сергей Анатольевич": 14,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 29,
-      "Трофимов Вадим Юрьевич": 9,
-      "Тюнина Светлана Валерьевна": 15,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 25
+      "gas:candidate-vibid:2482000589186": 289,
+      "gas:candidate-vibid:2482000600477": 14,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 29,
+      "gas:candidate-vibid:2482000591037": 9,
+      "gas:candidate-vibid:2482000600784": 15,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 292,
-      "Валетов Сергей Анатольевич": 12,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 42,
-      "Трофимов Вадим Юрьевич": 10,
-      "Тюнина Светлана Валерьевна": 7,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 21
+      "gas:candidate-vibid:2482000589186": 292,
+      "gas:candidate-vibid:2482000600477": 12,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 42,
+      "gas:candidate-vibid:2482000591037": 10,
+      "gas:candidate-vibid:2482000600784": 7,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 174,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 30,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 10
+      "gas:candidate-vibid:2482000589186": 174,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 30,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 636,
-      "Валетов Сергей Анатольевич": 31,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 132,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 46,
-      "Фомичев Владимир Николаевич": 13,
-      "Халимончук Максим Валентинович": 36
+      "gas:candidate-vibid:2482000589186": 636,
+      "gas:candidate-vibid:2482000600477": 31,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 132,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 46,
+      "gas:candidate-vibid:2482000600511": 13,
+      "gas:candidate-vibid:2482000588997": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 744,
-      "Валетов Сергей Анатольевич": 31,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 13,
-      "Разворотнев Николай Васильевич": 136,
-      "Трофимов Вадим Юрьевич": 33,
-      "Тюнина Светлана Валерьевна": 65,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 56
+      "gas:candidate-vibid:2482000589186": 744,
+      "gas:candidate-vibid:2482000600477": 31,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 13,
+      "gas:candidate-vibid:2482000586347": 136,
+      "gas:candidate-vibid:2482000591037": 33,
+      "gas:candidate-vibid:2482000600784": 65,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 719,
-      "Валетов Сергей Анатольевич": 59,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 144,
-      "Трофимов Вадим Юрьевич": 28,
-      "Тюнина Светлана Валерьевна": 71,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 51
+      "gas:candidate-vibid:2482000589186": 719,
+      "gas:candidate-vibid:2482000600477": 59,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 144,
+      "gas:candidate-vibid:2482000591037": 28,
+      "gas:candidate-vibid:2482000600784": 71,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 581,
-      "Валетов Сергей Анатольевич": 31,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 19,
-      "Разворотнев Николай Васильевич": 146,
-      "Трофимов Вадим Юрьевич": 30,
-      "Тюнина Светлана Валерьевна": 33,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 51
+      "gas:candidate-vibid:2482000589186": 581,
+      "gas:candidate-vibid:2482000600477": 31,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 19,
+      "gas:candidate-vibid:2482000586347": 146,
+      "gas:candidate-vibid:2482000591037": 30,
+      "gas:candidate-vibid:2482000600784": 33,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 664,
-      "Валетов Сергей Анатольевич": 29,
-      "Еркина Елена Викторовна": 22,
-      "Ковригин Вадим Валерьевич": 14,
-      "Разворотнев Николай Васильевич": 122,
-      "Трофимов Вадим Юрьевич": 19,
-      "Тюнина Светлана Валерьевна": 38,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 56
+      "gas:candidate-vibid:2482000589186": 664,
+      "gas:candidate-vibid:2482000600477": 29,
+      "gas:candidate-vibid:2482000603368": 22,
+      "gas:candidate-vibid:2482000600403": 14,
+      "gas:candidate-vibid:2482000586347": 122,
+      "gas:candidate-vibid:2482000591037": 19,
+      "gas:candidate-vibid:2482000600784": 38,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 58,
-      "Валетов Сергей Анатольевич": 0,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 8,
-      "Трофимов Вадим Юрьевич": 2,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 4
+      "gas:candidate-vibid:2482000589186": 58,
+      "gas:candidate-vibid:2482000600477": 0,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 8,
+      "gas:candidate-vibid:2482000591037": 2,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 357,
-      "Валетов Сергей Анатольевич": 15,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 86,
-      "Трофимов Вадим Юрьевич": 14,
-      "Тюнина Светлана Валерьевна": 22,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 357,
+      "gas:candidate-vibid:2482000600477": 15,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 86,
+      "gas:candidate-vibid:2482000591037": 14,
+      "gas:candidate-vibid:2482000600784": 22,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 140,
-      "Валетов Сергей Анатольевич": 14,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 32,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 12,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 16
+      "gas:candidate-vibid:2482000589186": 140,
+      "gas:candidate-vibid:2482000600477": 14,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 32,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 12,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 339,
-      "Валетов Сергей Анатольевич": 14,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 43,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 20,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 21
+      "gas:candidate-vibid:2482000589186": 339,
+      "gas:candidate-vibid:2482000600477": 14,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 43,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 20,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 511,
-      "Валетов Сергей Анатольевич": 29,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 18,
-      "Разворотнев Николай Васильевич": 95,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 41,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 48
+      "gas:candidate-vibid:2482000589186": 511,
+      "gas:candidate-vibid:2482000600477": 29,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 18,
+      "gas:candidate-vibid:2482000586347": 95,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 41,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 66,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 26,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 3,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 66,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 26,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 3,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 267,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 37,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 17
+      "gas:candidate-vibid:2482000589186": 267,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 37,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 85,
-      "Валетов Сергей Анатольевич": 3,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 10,
-      "Разворотнев Николай Васильевич": 15,
-      "Трофимов Вадим Юрьевич": 13,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 2
+      "gas:candidate-vibid:2482000589186": 85,
+      "gas:candidate-vibid:2482000600477": 3,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 10,
+      "gas:candidate-vibid:2482000586347": 15,
+      "gas:candidate-vibid:2482000591037": 13,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 372,
-      "Валетов Сергей Анатольевич": 15,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 39,
-      "Трофимов Вадим Юрьевич": 11,
-      "Тюнина Светлана Валерьевна": 14,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 26
+      "gas:candidate-vibid:2482000589186": 372,
+      "gas:candidate-vibid:2482000600477": 15,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 39,
+      "gas:candidate-vibid:2482000591037": 11,
+      "gas:candidate-vibid:2482000600784": 14,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 338,
-      "Валетов Сергей Анатольевич": 14,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 25,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 15,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 17
+      "gas:candidate-vibid:2482000589186": 338,
+      "gas:candidate-vibid:2482000600477": 14,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 25,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 15,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 486,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 61,
-      "Трофимов Вадим Юрьевич": 14,
-      "Тюнина Светлана Валерьевна": 17,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 35
+      "gas:candidate-vibid:2482000589186": 486,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 61,
+      "gas:candidate-vibid:2482000591037": 14,
+      "gas:candidate-vibid:2482000600784": 17,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 601,
-      "Валетов Сергей Анатольевич": 29,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 34,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 18
+      "gas:candidate-vibid:2482000589186": 601,
+      "gas:candidate-vibid:2482000600477": 29,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 34,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 334,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 31,
-      "Трофимов Вадим Юрьевич": 10,
-      "Тюнина Светлана Валерьевна": 15,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 24
+      "gas:candidate-vibid:2482000589186": 334,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 31,
+      "gas:candidate-vibid:2482000591037": 10,
+      "gas:candidate-vibid:2482000600784": 15,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 239,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 9,
-      "Разворотнев Николай Васильевич": 70,
-      "Трофимов Вадим Юрьевич": 13,
-      "Тюнина Светлана Валерьевна": 9,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 24
+      "gas:candidate-vibid:2482000589186": 239,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 9,
+      "gas:candidate-vibid:2482000586347": 70,
+      "gas:candidate-vibid:2482000591037": 13,
+      "gas:candidate-vibid:2482000600784": 9,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 253,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 8,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 253,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 8,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 316,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 20,
-      "Трофимов Вадим Юрьевич": 12,
-      "Тюнина Светлана Валерьевна": 14,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 18
+      "gas:candidate-vibid:2482000589186": 316,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 20,
+      "gas:candidate-vibid:2482000591037": 12,
+      "gas:candidate-vibid:2482000600784": 14,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 487,
-      "Валетов Сергей Анатольевич": 14,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 23,
-      "Трофимов Вадим Юрьевич": 11,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 18
+      "gas:candidate-vibid:2482000589186": 487,
+      "gas:candidate-vibid:2482000600477": 14,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 23,
+      "gas:candidate-vibid:2482000591037": 11,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 499,
-      "Валетов Сергей Анатольевич": 8,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 31,
-      "Трофимов Вадим Юрьевич": 9,
-      "Тюнина Светлана Валерьевна": 13,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 15
+      "gas:candidate-vibid:2482000589186": 499,
+      "gas:candidate-vibid:2482000600477": 8,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 31,
+      "gas:candidate-vibid:2482000591037": 9,
+      "gas:candidate-vibid:2482000600784": 13,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 263,
-      "Валетов Сергей Анатольевич": 15,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 33,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 7,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 11
+      "gas:candidate-vibid:2482000589186": 263,
+      "gas:candidate-vibid:2482000600477": 15,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 33,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 7,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 339,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 21,
-      "Трофимов Вадим Юрьевич": 16,
-      "Тюнина Светлана Валерьевна": 12,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 18
+      "gas:candidate-vibid:2482000589186": 339,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 21,
+      "gas:candidate-vibid:2482000591037": 16,
+      "gas:candidate-vibid:2482000600784": 12,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 258,
-      "Валетов Сергей Анатольевич": 8,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 19,
-      "Трофимов Вадим Юрьевич": 9,
-      "Тюнина Светлана Валерьевна": 13,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 258,
+      "gas:candidate-vibid:2482000600477": 8,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 19,
+      "gas:candidate-vibid:2482000591037": 9,
+      "gas:candidate-vibid:2482000600784": 13,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 165,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 9,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 1,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 4
+      "gas:candidate-vibid:2482000589186": 165,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 9,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 1,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 215,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 33,
-      "Трофимов Вадим Юрьевич": 2,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 215,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 33,
+      "gas:candidate-vibid:2482000591037": 2,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 724,
-      "Валетов Сергей Анатольевич": 13,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 9,
-      "Разворотнев Николай Васильевич": 41,
-      "Трофимов Вадим Юрьевич": 28,
-      "Тюнина Светлана Валерьевна": 21,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 724,
+      "gas:candidate-vibid:2482000600477": 13,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 9,
+      "gas:candidate-vibid:2482000586347": 41,
+      "gas:candidate-vibid:2482000591037": 28,
+      "gas:candidate-vibid:2482000600784": 21,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 153,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 12,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 0,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 4
+      "gas:candidate-vibid:2482000589186": 153,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 12,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 0,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 200,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 93,
-      "Трофимов Вадим Юрьевич": 12,
-      "Тюнина Светлана Валерьевна": 13,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 19
+      "gas:candidate-vibid:2482000589186": 200,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 93,
+      "gas:candidate-vibid:2482000591037": 12,
+      "gas:candidate-vibid:2482000600784": 13,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 251,
-      "Валетов Сергей Анатольевич": 11,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 14,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 9,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 251,
+      "gas:candidate-vibid:2482000600477": 11,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 14,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 9,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 235,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 6,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 25,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 235,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 6,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 25,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 248,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 6,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 44,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 23
+      "gas:candidate-vibid:2482000589186": 248,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 6,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 44,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533384&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533384&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 418,
-      "Валетов Сергей Анатольевич": 43,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 96,
-      "Трофимов Вадим Юрьевич": 19,
-      "Тюнина Светлана Валерьевна": 29,
-      "Фомичев Владимир Николаевич": 9,
-      "Халимончук Максим Валентинович": 43
+      "gas:candidate-vibid:2482000589186": 418,
+      "gas:candidate-vibid:2482000600477": 43,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 96,
+      "gas:candidate-vibid:2482000591037": 19,
+      "gas:candidate-vibid:2482000600784": 29,
+      "gas:candidate-vibid:2482000600511": 9,
+      "gas:candidate-vibid:2482000588997": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 95,
-      "Валетов Сергей Анатольевич": 6,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 10,
-      "Трофимов Вадим Юрьевич": 2,
-      "Тюнина Светлана Валерьевна": 3,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 4
+      "gas:candidate-vibid:2482000589186": 95,
+      "gas:candidate-vibid:2482000600477": 6,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 10,
+      "gas:candidate-vibid:2482000591037": 2,
+      "gas:candidate-vibid:2482000600784": 3,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 330,
-      "Валетов Сергей Анатольевич": 35,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 67,
-      "Трофимов Вадим Юрьевич": 22,
-      "Тюнина Светлана Валерьевна": 16,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 28
+      "gas:candidate-vibid:2482000589186": 330,
+      "gas:candidate-vibid:2482000600477": 35,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 67,
+      "gas:candidate-vibid:2482000591037": 22,
+      "gas:candidate-vibid:2482000600784": 16,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 145,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 9,
-      "Разворотнев Николай Васильевич": 16,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 21
+      "gas:candidate-vibid:2482000589186": 145,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 9,
+      "gas:candidate-vibid:2482000586347": 16,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 403,
-      "Валетов Сергей Анатольевич": 35,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 15,
-      "Разворотнев Николай Васильевич": 72,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 31,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 34
+      "gas:candidate-vibid:2482000589186": 403,
+      "gas:candidate-vibid:2482000600477": 35,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 15,
+      "gas:candidate-vibid:2482000586347": 72,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 31,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 414,
-      "Валетов Сергей Анатольевич": 42,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 17,
-      "Разворотнев Николай Васильевич": 88,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 22,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 38
+      "gas:candidate-vibid:2482000589186": 414,
+      "gas:candidate-vibid:2482000600477": 42,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 17,
+      "gas:candidate-vibid:2482000586347": 88,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 22,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 222,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 4,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 3
+      "gas:candidate-vibid:2482000589186": 222,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 4,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 323,
-      "Валетов Сергей Анатольевич": 17,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 56,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 18,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 27
+      "gas:candidate-vibid:2482000589186": 323,
+      "gas:candidate-vibid:2482000600477": 17,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 56,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 18,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 312,
-      "Валетов Сергей Анатольевич": 19,
-      "Еркина Елена Викторовна": 12,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 59,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 28,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 67
+      "gas:candidate-vibid:2482000589186": 312,
+      "gas:candidate-vibid:2482000600477": 19,
+      "gas:candidate-vibid:2482000603368": 12,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 59,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 28,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 72,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 16,
-      "Трофимов Вадим Юрьевич": 9,
-      "Тюнина Светлана Валерьевна": 10,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 72,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 16,
+      "gas:candidate-vibid:2482000591037": 9,
+      "gas:candidate-vibid:2482000600784": 10,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 103,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 18,
-      "Трофимов Вадим Юрьевич": 4,
-      "Тюнина Светлана Валерьевна": 7,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 103,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 18,
+      "gas:candidate-vibid:2482000591037": 4,
+      "gas:candidate-vibid:2482000600784": 7,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 245,
-      "Валетов Сергей Анатольевич": 28,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 15,
-      "Разворотнев Николай Васильевич": 36,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 25,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 33
+      "gas:candidate-vibid:2482000589186": 245,
+      "gas:candidate-vibid:2482000600477": 28,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 15,
+      "gas:candidate-vibid:2482000586347": 36,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 25,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 81,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 7,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 0
+      "gas:candidate-vibid:2482000589186": 81,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 7,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 311,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 30,
-      "Трофимов Вадим Юрьевич": 13,
-      "Тюнина Светлана Валерьевна": 32,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 36
+      "gas:candidate-vibid:2482000589186": 311,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 30,
+      "gas:candidate-vibid:2482000591037": 13,
+      "gas:candidate-vibid:2482000600784": 32,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 103,
-      "Валетов Сергей Анатольевич": 10,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 16,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 103,
+      "gas:candidate-vibid:2482000600477": 10,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 16,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 235,
-      "Валетов Сергей Анатольевич": 18,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 42,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 13,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 32
+      "gas:candidate-vibid:2482000589186": 235,
+      "gas:candidate-vibid:2482000600477": 18,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 42,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 13,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 168,
-      "Валетов Сергей Анатольевич": 8,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 16,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 11,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 19
+      "gas:candidate-vibid:2482000589186": 168,
+      "gas:candidate-vibid:2482000600477": 8,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 16,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 11,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 359,
-      "Валетов Сергей Анатольевич": 8,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 58,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 36
+      "gas:candidate-vibid:2482000589186": 359,
+      "gas:candidate-vibid:2482000600477": 8,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 58,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 111,
-      "Валетов Сергей Анатольевич": 12,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 21,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 9
+      "gas:candidate-vibid:2482000589186": 111,
+      "gas:candidate-vibid:2482000600477": 12,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 21,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 489,
-      "Валетов Сергей Анатольевич": 11,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 18,
-      "Разворотнев Николай Васильевич": 61,
-      "Трофимов Вадим Юрьевич": 11,
-      "Тюнина Светлана Валерьевна": 13,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 28
+      "gas:candidate-vibid:2482000589186": 489,
+      "gas:candidate-vibid:2482000600477": 11,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 18,
+      "gas:candidate-vibid:2482000586347": 61,
+      "gas:candidate-vibid:2482000591037": 11,
+      "gas:candidate-vibid:2482000600784": 13,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 158,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 18,
-      "Трофимов Вадим Юрьевич": 10,
-      "Тюнина Светлана Валерьевна": 10,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 18
+      "gas:candidate-vibid:2482000589186": 158,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 18,
+      "gas:candidate-vibid:2482000591037": 10,
+      "gas:candidate-vibid:2482000600784": 10,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 231,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 32,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 1,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 14
+      "gas:candidate-vibid:2482000589186": 231,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 32,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 1,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 248,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 17,
-      "Трофимов Вадим Юрьевич": 4,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 15
+      "gas:candidate-vibid:2482000589186": 248,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 17,
+      "gas:candidate-vibid:2482000591037": 4,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 234,
-      "Валетов Сергей Анатольевич": 8,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 31,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 14,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 24
+      "gas:candidate-vibid:2482000589186": 234,
+      "gas:candidate-vibid:2482000600477": 8,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 31,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 14,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 336,
-      "Валетов Сергей Анатольевич": 9,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 28,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 12,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 23
+      "gas:candidate-vibid:2482000589186": 336,
+      "gas:candidate-vibid:2482000600477": 9,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 28,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 12,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 250,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 21,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 250,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 21,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 377,
-      "Валетов Сергей Анатольевич": 6,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 55,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 10
+      "gas:candidate-vibid:2482000589186": 377,
+      "gas:candidate-vibid:2482000600477": 6,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 55,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 58,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 8,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 3
+      "gas:candidate-vibid:2482000589186": 58,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 8,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 281,
-      "Валетов Сергей Анатольевич": 18,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 66,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 17,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 281,
+      "gas:candidate-vibid:2482000600477": 18,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 66,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 17,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 152,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 12,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 8
+      "gas:candidate-vibid:2482000589186": 152,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 12,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 418,
-      "Валетов Сергей Анатольевич": 26,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 67,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 20,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 29
+      "gas:candidate-vibid:2482000589186": 418,
+      "gas:candidate-vibid:2482000600477": 26,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 67,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 20,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 275,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 20,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 14
+      "gas:candidate-vibid:2482000589186": 275,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 20,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 183,
-      "Валетов Сергей Анатольевич": 14,
-      "Еркина Елена Викторовна": 6,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 41,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 16,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 26
+      "gas:candidate-vibid:2482000589186": 183,
+      "gas:candidate-vibid:2482000600477": 14,
+      "gas:candidate-vibid:2482000603368": 6,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 41,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 16,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533385&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533385&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 682,
-      "Валетов Сергей Анатольевич": 15,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 16,
-      "Разворотнев Николай Васильевич": 101,
-      "Трофимов Вадим Юрьевич": 31,
-      "Тюнина Светлана Валерьевна": 46,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 84
+      "gas:candidate-vibid:2482000589186": 682,
+      "gas:candidate-vibid:2482000600477": 15,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 16,
+      "gas:candidate-vibid:2482000586347": 101,
+      "gas:candidate-vibid:2482000591037": 31,
+      "gas:candidate-vibid:2482000600784": 46,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 628,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 23,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 16,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 27
+      "gas:candidate-vibid:2482000589186": 628,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 23,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 16,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 206,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 13,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 22
+      "gas:candidate-vibid:2482000589186": 206,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 13,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 272,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 19,
-      "Трофимов Вадим Юрьевич": 11,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 38
+      "gas:candidate-vibid:2482000589186": 272,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 19,
+      "gas:candidate-vibid:2482000591037": 11,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 194,
-      "Валетов Сергей Анатольевич": 8,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 31,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 10,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 18
+      "gas:candidate-vibid:2482000589186": 194,
+      "gas:candidate-vibid:2482000600477": 8,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 31,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 10,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 489,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 6,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 20,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 61
+      "gas:candidate-vibid:2482000589186": 489,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 6,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 20,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 165,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 5,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 20
+      "gas:candidate-vibid:2482000589186": 165,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 5,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 155,
-      "Валетов Сергей Анатольевич": 3,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 16,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 11
+      "gas:candidate-vibid:2482000589186": 155,
+      "gas:candidate-vibid:2482000600477": 3,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 16,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 659,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 17,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 17,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 20
+      "gas:candidate-vibid:2482000589186": 659,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 17,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 17,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 211,
-      "Валетов Сергей Анатольевич": 3,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 7,
-      "Трофимов Вадим Юрьевич": 2,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 8
+      "gas:candidate-vibid:2482000589186": 211,
+      "gas:candidate-vibid:2482000600477": 3,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 7,
+      "gas:candidate-vibid:2482000591037": 2,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 161,
-      "Валетов Сергей Анатольевич": 0,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 10,
-      "Трофимов Вадим Юрьевич": 4,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 8
+      "gas:candidate-vibid:2482000589186": 161,
+      "gas:candidate-vibid:2482000600477": 0,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 10,
+      "gas:candidate-vibid:2482000591037": 4,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 274,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 26,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 12,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 22
+      "gas:candidate-vibid:2482000589186": 274,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 26,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 12,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 312,
-      "Валетов Сергей Анатольевич": 3,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 29,
-      "Трофимов Вадим Юрьевич": 14,
-      "Тюнина Светлана Валерьевна": 24,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 312,
+      "gas:candidate-vibid:2482000600477": 3,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 29,
+      "gas:candidate-vibid:2482000591037": 14,
+      "gas:candidate-vibid:2482000600784": 24,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 94,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 7,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 20,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 10
+      "gas:candidate-vibid:2482000589186": 94,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 7,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 20,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 125,
-      "Валетов Сергей Анатольевич": 3,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 13,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 1
+      "gas:candidate-vibid:2482000589186": 125,
+      "gas:candidate-vibid:2482000600477": 3,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 13,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 623,
-      "Валетов Сергей Анатольевич": 16,
-      "Еркина Елена Викторовна": 17,
-      "Ковригин Вадим Валерьевич": 13,
-      "Разворотнев Николай Васильевич": 78,
-      "Трофимов Вадим Юрьевич": 26,
-      "Тюнина Светлана Валерьевна": 30,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 138
+      "gas:candidate-vibid:2482000589186": 623,
+      "gas:candidate-vibid:2482000600477": 16,
+      "gas:candidate-vibid:2482000603368": 17,
+      "gas:candidate-vibid:2482000600403": 13,
+      "gas:candidate-vibid:2482000586347": 78,
+      "gas:candidate-vibid:2482000591037": 26,
+      "gas:candidate-vibid:2482000600784": 30,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 462,
-      "Валетов Сергей Анатольевич": 24,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 82,
-      "Трофимов Вадим Юрьевич": 36,
-      "Тюнина Светлана Валерьевна": 21,
-      "Фомичев Владимир Николаевич": 12,
-      "Халимончук Максим Валентинович": 112
+      "gas:candidate-vibid:2482000589186": 462,
+      "gas:candidate-vibid:2482000600477": 24,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 82,
+      "gas:candidate-vibid:2482000591037": 36,
+      "gas:candidate-vibid:2482000600784": 21,
+      "gas:candidate-vibid:2482000600511": 12,
+      "gas:candidate-vibid:2482000588997": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 729,
-      "Валетов Сергей Анатольевич": 15,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 61,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 29,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 59
+      "gas:candidate-vibid:2482000589186": 729,
+      "gas:candidate-vibid:2482000600477": 15,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 61,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 29,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 96,
-      "Валетов Сергей Анатольевич": 0,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 2,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 4
+      "gas:candidate-vibid:2482000589186": 96,
+      "gas:candidate-vibid:2482000600477": 0,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 2,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 609,
-      "Валетов Сергей Анатольевич": 17,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 22,
-      "Разворотнев Николай Васильевич": 64,
-      "Трофимов Вадим Юрьевич": 32,
-      "Тюнина Светлана Валерьевна": 32,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 71
+      "gas:candidate-vibid:2482000589186": 609,
+      "gas:candidate-vibid:2482000600477": 17,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 22,
+      "gas:candidate-vibid:2482000586347": 64,
+      "gas:candidate-vibid:2482000591037": 32,
+      "gas:candidate-vibid:2482000600784": 32,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 749,
-      "Валетов Сергей Анатольевич": 20,
-      "Еркина Елена Викторовна": 20,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 61,
-      "Трофимов Вадим Юрьевич": 22,
-      "Тюнина Светлана Валерьевна": 34,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 46
+      "gas:candidate-vibid:2482000589186": 749,
+      "gas:candidate-vibid:2482000600477": 20,
+      "gas:candidate-vibid:2482000603368": 20,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 61,
+      "gas:candidate-vibid:2482000591037": 22,
+      "gas:candidate-vibid:2482000600784": 34,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 468,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 6,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 19,
-      "Трофимов Вадим Юрьевич": 10,
-      "Тюнина Светлана Валерьевна": 13,
-      "Фомичев Владимир Николаевич": 13,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 468,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 6,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 19,
+      "gas:candidate-vibid:2482000591037": 10,
+      "gas:candidate-vibid:2482000600784": 13,
+      "gas:candidate-vibid:2482000600511": 13,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 1468,
-      "Валетов Сергей Анатольевич": 12,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 77,
-      "Трофимов Вадим Юрьевич": 16,
-      "Тюнина Светлана Валерьевна": 43,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 155
+      "gas:candidate-vibid:2482000589186": 1468,
+      "gas:candidate-vibid:2482000600477": 12,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 77,
+      "gas:candidate-vibid:2482000591037": 16,
+      "gas:candidate-vibid:2482000600784": 43,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 399,
-      "Валетов Сергей Анатольевич": 6,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 12,
-      "Разворотнев Николай Васильевич": 18,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 10,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 38
+      "gas:candidate-vibid:2482000589186": 399,
+      "gas:candidate-vibid:2482000600477": 6,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 12,
+      "gas:candidate-vibid:2482000586347": 18,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 10,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 387,
-      "Валетов Сергей Анатольевич": 2,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 30,
-      "Трофимов Вадим Юрьевич": 13,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 387,
+      "gas:candidate-vibid:2482000600477": 2,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 30,
+      "gas:candidate-vibid:2482000591037": 13,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 718,
-      "Валетов Сергей Анатольевич": 19,
-      "Еркина Елена Викторовна": 13,
-      "Ковригин Вадим Валерьевич": 14,
-      "Разворотнев Николай Васильевич": 40,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 20,
-      "Фомичев Владимир Николаевич": 5,
-      "Халимончук Максим Валентинович": 73
+      "gas:candidate-vibid:2482000589186": 718,
+      "gas:candidate-vibid:2482000600477": 19,
+      "gas:candidate-vibid:2482000603368": 13,
+      "gas:candidate-vibid:2482000600403": 14,
+      "gas:candidate-vibid:2482000586347": 40,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 20,
+      "gas:candidate-vibid:2482000600511": 5,
+      "gas:candidate-vibid:2482000588997": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 147,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 9,
-      "Разворотнев Николай Васильевич": 26,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 10,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 30
+      "gas:candidate-vibid:2482000589186": 147,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 9,
+      "gas:candidate-vibid:2482000586347": 26,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 10,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 713,
-      "Валетов Сергей Анатольевич": 0,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 64,
-      "Трофимов Вадим Юрьевич": 25,
-      "Тюнина Светлана Валерьевна": 0,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 83
+      "gas:candidate-vibid:2482000589186": 713,
+      "gas:candidate-vibid:2482000600477": 0,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 64,
+      "gas:candidate-vibid:2482000591037": 25,
+      "gas:candidate-vibid:2482000600784": 0,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 653,
-      "Валетов Сергей Анатольевич": 13,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 41,
-      "Разворотнев Николай Васильевич": 68,
-      "Трофимов Вадим Юрьевич": 35,
-      "Тюнина Светлана Валерьевна": 46,
-      "Фомичев Владимир Николаевич": 13,
-      "Халимончук Максим Валентинович": 74
+      "gas:candidate-vibid:2482000589186": 653,
+      "gas:candidate-vibid:2482000600477": 13,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 41,
+      "gas:candidate-vibid:2482000586347": 68,
+      "gas:candidate-vibid:2482000591037": 35,
+      "gas:candidate-vibid:2482000600784": 46,
+      "gas:candidate-vibid:2482000600511": 13,
+      "gas:candidate-vibid:2482000588997": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 157,
-      "Валетов Сергей Анатольевич": 11,
-      "Еркина Елена Викторовна": 40,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 28,
-      "Трофимов Вадим Юрьевич": 13,
-      "Тюнина Светлана Валерьевна": 18,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 157,
+      "gas:candidate-vibid:2482000600477": 11,
+      "gas:candidate-vibid:2482000603368": 40,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 28,
+      "gas:candidate-vibid:2482000591037": 13,
+      "gas:candidate-vibid:2482000600784": 18,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 597,
-      "Валетов Сергей Анатольевич": 6,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 20,
-      "Трофимов Вадим Юрьевич": 6,
-      "Тюнина Светлана Валерьевна": 15,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 23
+      "gas:candidate-vibid:2482000589186": 597,
+      "gas:candidate-vibid:2482000600477": 6,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 20,
+      "gas:candidate-vibid:2482000591037": 6,
+      "gas:candidate-vibid:2482000600784": 15,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 158,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 12,
-      "Трофимов Вадим Юрьевич": 3,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 23
+      "gas:candidate-vibid:2482000589186": 158,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 12,
+      "gas:candidate-vibid:2482000591037": 3,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533386&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533386&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 951,
-      "Валетов Сергей Анатольевич": 34,
-      "Еркина Елена Викторовна": 6,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 96,
-      "Трофимов Вадим Юрьевич": 19,
-      "Тюнина Светлана Валерьевна": 16,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 44
+      "gas:candidate-vibid:2482000589186": 951,
+      "gas:candidate-vibid:2482000600477": 34,
+      "gas:candidate-vibid:2482000603368": 6,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 96,
+      "gas:candidate-vibid:2482000591037": 19,
+      "gas:candidate-vibid:2482000600784": 16,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 198,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 21,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 38
+      "gas:candidate-vibid:2482000589186": 198,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 21,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 128,
-      "Валетов Сергей Анатольевич": 1,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 11,
-      "Трофимов Вадим Юрьевич": 1,
-      "Тюнина Светлана Валерьевна": 3,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 9
+      "gas:candidate-vibid:2482000589186": 128,
+      "gas:candidate-vibid:2482000600477": 1,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 11,
+      "gas:candidate-vibid:2482000591037": 1,
+      "gas:candidate-vibid:2482000600784": 3,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 186,
-      "Валетов Сергей Анатольевич": 1,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 13,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 10
+      "gas:candidate-vibid:2482000589186": 186,
+      "gas:candidate-vibid:2482000600477": 1,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 13,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 110,
-      "Валетов Сергей Анатольевич": 1,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 23,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 6,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 22
+      "gas:candidate-vibid:2482000589186": 110,
+      "gas:candidate-vibid:2482000600477": 1,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 23,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 6,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 291,
-      "Валетов Сергей Анатольевич": 8,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 40,
-      "Трофимов Вадим Юрьевич": 9,
-      "Тюнина Светлана Валерьевна": 12,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 23
+      "gas:candidate-vibid:2482000589186": 291,
+      "gas:candidate-vibid:2482000600477": 8,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 40,
+      "gas:candidate-vibid:2482000591037": 9,
+      "gas:candidate-vibid:2482000600784": 12,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 87,
-      "Валетов Сергей Анатольевич": 6,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 3,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 1,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 3
+      "gas:candidate-vibid:2482000589186": 87,
+      "gas:candidate-vibid:2482000600477": 6,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 3,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 1,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 251,
-      "Валетов Сергей Анатольевич": 6,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 30,
-      "Трофимов Вадим Юрьевич": 8,
-      "Тюнина Светлана Валерьевна": 0,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 10
+      "gas:candidate-vibid:2482000589186": 251,
+      "gas:candidate-vibid:2482000600477": 6,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 30,
+      "gas:candidate-vibid:2482000591037": 8,
+      "gas:candidate-vibid:2482000600784": 0,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 156,
-      "Валетов Сергей Анатольевич": 1,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 6,
-      "Трофимов Вадим Юрьевич": 0,
-      "Тюнина Светлана Валерьевна": 1,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 5
+      "gas:candidate-vibid:2482000589186": 156,
+      "gas:candidate-vibid:2482000600477": 1,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 6,
+      "gas:candidate-vibid:2482000591037": 0,
+      "gas:candidate-vibid:2482000600784": 1,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 148,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 14,
-      "Трофимов Вадим Юрьевич": 4,
-      "Тюнина Светлана Валерьевна": 3,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 148,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 14,
+      "gas:candidate-vibid:2482000591037": 4,
+      "gas:candidate-vibid:2482000600784": 3,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 229,
-      "Валетов Сергей Анатольевич": 3,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 21,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 9
+      "gas:candidate-vibid:2482000589186": 229,
+      "gas:candidate-vibid:2482000600477": 3,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 21,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 559,
-      "Валетов Сергей Анатольевич": 14,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 98,
-      "Трофимов Вадим Юрьевич": 18,
-      "Тюнина Светлана Валерьевна": 11,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 54
+      "gas:candidate-vibid:2482000589186": 559,
+      "gas:candidate-vibid:2482000600477": 14,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 98,
+      "gas:candidate-vibid:2482000591037": 18,
+      "gas:candidate-vibid:2482000600784": 11,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 248,
-      "Валетов Сергей Анатольевич": 10,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 3,
-      "Разворотнев Николай Васильевич": 37,
-      "Трофимов Вадим Юрьевич": 9,
-      "Тюнина Светлана Валерьевна": 8,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 248,
+      "gas:candidate-vibid:2482000600477": 10,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 3,
+      "gas:candidate-vibid:2482000586347": 37,
+      "gas:candidate-vibid:2482000591037": 9,
+      "gas:candidate-vibid:2482000600784": 8,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 498,
-      "Валетов Сергей Анатольевич": 16,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 109,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 18,
-      "Фомичев Владимир Николаевич": 2,
-      "Халимончук Максим Валентинович": 49
+      "gas:candidate-vibid:2482000589186": 498,
+      "gas:candidate-vibid:2482000600477": 16,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 109,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 18,
+      "gas:candidate-vibid:2482000600511": 2,
+      "gas:candidate-vibid:2482000588997": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 166,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 1,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 16,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 1,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 12
+      "gas:candidate-vibid:2482000589186": 166,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 1,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 16,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 1,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 180,
-      "Валетов Сергей Анатольевич": 0,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 32,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 3,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 180,
+      "gas:candidate-vibid:2482000600477": 0,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 32,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 3,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 264,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 12,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 4,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 264,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 12,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 4,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 124,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 0,
-      "Разворотнев Николай Васильевич": 10,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 1,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 2
+      "gas:candidate-vibid:2482000589186": 124,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 0,
+      "gas:candidate-vibid:2482000586347": 10,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 1,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 151,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 28,
-      "Трофимов Вадим Юрьевич": 5,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 8
+      "gas:candidate-vibid:2482000589186": 151,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 28,
+      "gas:candidate-vibid:2482000591037": 5,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 218,
-      "Валетов Сергей Анатольевич": 3,
-      "Еркина Елена Викторовна": 0,
-      "Ковригин Вадим Валерьевич": 1,
-      "Разворотнев Николай Васильевич": 37,
-      "Трофимов Вадим Юрьевич": 9,
-      "Тюнина Светлана Валерьевна": 0,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 6
+      "gas:candidate-vibid:2482000589186": 218,
+      "gas:candidate-vibid:2482000600477": 3,
+      "gas:candidate-vibid:2482000603368": 0,
+      "gas:candidate-vibid:2482000600403": 1,
+      "gas:candidate-vibid:2482000586347": 37,
+      "gas:candidate-vibid:2482000591037": 9,
+      "gas:candidate-vibid:2482000600784": 0,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 171,
-      "Валетов Сергей Анатольевич": 4,
-      "Еркина Елена Викторовна": 3,
-      "Ковригин Вадим Валерьевич": 2,
-      "Разворотнев Николай Васильевич": 24,
-      "Трофимов Вадим Юрьевич": 7,
-      "Тюнина Светлана Валерьевна": 2,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 8
+      "gas:candidate-vibid:2482000589186": 171,
+      "gas:candidate-vibid:2482000600477": 4,
+      "gas:candidate-vibid:2482000603368": 3,
+      "gas:candidate-vibid:2482000600403": 2,
+      "gas:candidate-vibid:2482000586347": 24,
+      "gas:candidate-vibid:2482000591037": 7,
+      "gas:candidate-vibid:2482000600784": 2,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 222,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 2,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 78,
-      "Трофимов Вадим Юрьевич": 4,
-      "Тюнина Светлана Валерьевна": 5,
-      "Фомичев Владимир Николаевич": 0,
-      "Халимончук Максим Валентинович": 9
+      "gas:candidate-vibid:2482000589186": 222,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 2,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 78,
+      "gas:candidate-vibid:2482000591037": 4,
+      "gas:candidate-vibid:2482000600784": 5,
+      "gas:candidate-vibid:2482000600511": 0,
+      "gas:candidate-vibid:2482000588997": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 287,
-      "Валетов Сергей Анатольевич": 5,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 4,
-      "Разворотнев Николай Васильевич": 28,
-      "Трофимов Вадим Юрьевич": 10,
-      "Тюнина Светлана Валерьевна": 9,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 26
+      "gas:candidate-vibid:2482000589186": 287,
+      "gas:candidate-vibid:2482000600477": 5,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 4,
+      "gas:candidate-vibid:2482000586347": 28,
+      "gas:candidate-vibid:2482000591037": 10,
+      "gas:candidate-vibid:2482000600784": 9,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533387&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533387&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 371,
-      "Валетов Сергей Анатольевич": 21,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 14,
-      "Разворотнев Николай Васильевич": 111,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 35,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 34
+      "gas:candidate-vibid:2482000589186": 371,
+      "gas:candidate-vibid:2482000600477": 21,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 14,
+      "gas:candidate-vibid:2482000586347": 111,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 35,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 510,
-      "Валетов Сергей Анатольевич": 26,
-      "Еркина Елена Викторовна": 14,
-      "Ковригин Вадим Валерьевич": 11,
-      "Разворотнев Николай Васильевич": 140,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 48,
-      "Фомичев Владимир Николаевич": 8,
-      "Халимончук Максим Валентинович": 46
+      "gas:candidate-vibid:2482000589186": 510,
+      "gas:candidate-vibid:2482000600477": 26,
+      "gas:candidate-vibid:2482000603368": 14,
+      "gas:candidate-vibid:2482000600403": 11,
+      "gas:candidate-vibid:2482000586347": 140,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 48,
+      "gas:candidate-vibid:2482000600511": 8,
+      "gas:candidate-vibid:2482000588997": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 421,
-      "Валетов Сергей Анатольевич": 28,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 9,
-      "Разворотнев Николай Васильевич": 145,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 41,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 47
+      "gas:candidate-vibid:2482000589186": 421,
+      "gas:candidate-vibid:2482000600477": 28,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 9,
+      "gas:candidate-vibid:2482000586347": 145,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 41,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 261,
-      "Валетов Сергей Анатольевич": 13,
-      "Еркина Елена Викторовна": 5,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 109,
-      "Трофимов Вадим Юрьевич": 16,
-      "Тюнина Светлана Валерьевна": 21,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 40
+      "gas:candidate-vibid:2482000589186": 261,
+      "gas:candidate-vibid:2482000600477": 13,
+      "gas:candidate-vibid:2482000603368": 5,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 109,
+      "gas:candidate-vibid:2482000591037": 16,
+      "gas:candidate-vibid:2482000600784": 21,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 388,
-      "Валетов Сергей Анатольевич": 25,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 7,
-      "Разворотнев Николай Васильевич": 112,
-      "Трофимов Вадим Юрьевич": 22,
-      "Тюнина Светлана Валерьевна": 38,
-      "Фомичев Владимир Николаевич": 7,
-      "Халимончук Максим Валентинович": 49
+      "gas:candidate-vibid:2482000589186": 388,
+      "gas:candidate-vibid:2482000600477": 25,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 7,
+      "gas:candidate-vibid:2482000586347": 112,
+      "gas:candidate-vibid:2482000591037": 22,
+      "gas:candidate-vibid:2482000600784": 38,
+      "gas:candidate-vibid:2482000600511": 7,
+      "gas:candidate-vibid:2482000588997": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 313,
-      "Валетов Сергей Анатольевич": 18,
-      "Еркина Елена Викторовна": 11,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 129,
-      "Трофимов Вадим Юрьевич": 23,
-      "Тюнина Светлана Валерьевна": 38,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 32
+      "gas:candidate-vibid:2482000589186": 313,
+      "gas:candidate-vibid:2482000600477": 18,
+      "gas:candidate-vibid:2482000603368": 11,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 129,
+      "gas:candidate-vibid:2482000591037": 23,
+      "gas:candidate-vibid:2482000600784": 38,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 264,
-      "Валетов Сергей Анатольевич": 12,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 66,
-      "Трофимов Вадим Юрьевич": 17,
-      "Тюнина Светлана Валерьевна": 12,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 32
+      "gas:candidate-vibid:2482000589186": 264,
+      "gas:candidate-vibid:2482000600477": 12,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 66,
+      "gas:candidate-vibid:2482000591037": 17,
+      "gas:candidate-vibid:2482000600784": 12,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 305,
-      "Валетов Сергей Анатольевич": 20,
-      "Еркина Елена Викторовна": 4,
-      "Ковригин Вадим Валерьевич": 8,
-      "Разворотнев Николай Васильевич": 64,
-      "Трофимов Вадим Юрьевич": 12,
-      "Тюнина Светлана Валерьевна": 22,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 30
+      "gas:candidate-vibid:2482000589186": 305,
+      "gas:candidate-vibid:2482000600477": 20,
+      "gas:candidate-vibid:2482000603368": 4,
+      "gas:candidate-vibid:2482000600403": 8,
+      "gas:candidate-vibid:2482000586347": 64,
+      "gas:candidate-vibid:2482000591037": 12,
+      "gas:candidate-vibid:2482000600784": 22,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 390,
-      "Валетов Сергей Анатольевич": 15,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 142,
-      "Трофимов Вадим Юрьевич": 34,
-      "Тюнина Светлана Валерьевна": 29,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 23
+      "gas:candidate-vibid:2482000589186": 390,
+      "gas:candidate-vibid:2482000600477": 15,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 142,
+      "gas:candidate-vibid:2482000591037": 34,
+      "gas:candidate-vibid:2482000600784": 29,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 398,
-      "Валетов Сергей Анатольевич": 20,
-      "Еркина Елена Викторовна": 10,
-      "Ковригин Вадим Валерьевич": 13,
-      "Разворотнев Николай Васильевич": 136,
-      "Трофимов Вадим Юрьевич": 22,
-      "Тюнина Светлана Валерьевна": 39,
-      "Фомичев Владимир Николаевич": 4,
-      "Халимончук Максим Валентинович": 60
+      "gas:candidate-vibid:2482000589186": 398,
+      "gas:candidate-vibid:2482000600477": 20,
+      "gas:candidate-vibid:2482000603368": 10,
+      "gas:candidate-vibid:2482000600403": 13,
+      "gas:candidate-vibid:2482000586347": 136,
+      "gas:candidate-vibid:2482000591037": 22,
+      "gas:candidate-vibid:2482000600784": 39,
+      "gas:candidate-vibid:2482000600511": 4,
+      "gas:candidate-vibid:2482000588997": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 312,
-      "Валетов Сергей Анатольевич": 22,
-      "Еркина Елена Викторовна": 8,
-      "Ковригин Вадим Валерьевич": 6,
-      "Разворотнев Николай Васильевич": 112,
-      "Трофимов Вадим Юрьевич": 14,
-      "Тюнина Светлана Валерьевна": 30,
-      "Фомичев Владимир Николаевич": 6,
-      "Халимончук Максим Валентинович": 48
+      "gas:candidate-vibid:2482000589186": 312,
+      "gas:candidate-vibid:2482000600477": 22,
+      "gas:candidate-vibid:2482000603368": 8,
+      "gas:candidate-vibid:2482000600403": 6,
+      "gas:candidate-vibid:2482000586347": 112,
+      "gas:candidate-vibid:2482000591037": 14,
+      "gas:candidate-vibid:2482000600784": 30,
+      "gas:candidate-vibid:2482000600511": 6,
+      "gas:candidate-vibid:2482000588997": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 359,
-      "Валетов Сергей Анатольевич": 7,
-      "Еркина Елена Викторовна": 15,
-      "Ковригин Вадим Валерьевич": 5,
-      "Разворотнев Николай Васильевич": 93,
-      "Трофимов Вадим Юрьевич": 15,
-      "Тюнина Светлана Валерьевна": 26,
-      "Фомичев Владимир Николаевич": 1,
-      "Халимончук Максим Валентинович": 31
+      "gas:candidate-vibid:2482000589186": 359,
+      "gas:candidate-vibid:2482000600477": 7,
+      "gas:candidate-vibid:2482000603368": 15,
+      "gas:candidate-vibid:2482000600403": 5,
+      "gas:candidate-vibid:2482000586347": 93,
+      "gas:candidate-vibid:2482000591037": 15,
+      "gas:candidate-vibid:2482000600784": 26,
+      "gas:candidate-vibid:2482000600511": 1,
+      "gas:candidate-vibid:2482000588997": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_48_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борцов Николай Иванович": 252,
-      "Валетов Сергей Анатольевич": 11,
-      "Еркина Елена Викторовна": 9,
-      "Ковригин Вадим Валерьевич": 9,
-      "Разворотнев Николай Васильевич": 90,
-      "Трофимов Вадим Юрьевич": 20,
-      "Тюнина Светлана Валерьевна": 20,
-      "Фомичев Владимир Николаевич": 3,
-      "Халимончук Максим Валентинович": 27
+      "gas:candidate-vibid:2482000589186": 252,
+      "gas:candidate-vibid:2482000600477": 11,
+      "gas:candidate-vibid:2482000603368": 9,
+      "gas:candidate-vibid:2482000600403": 9,
+      "gas:candidate-vibid:2482000586347": 90,
+      "gas:candidate-vibid:2482000591037": 20,
+      "gas:candidate-vibid:2482000600784": 20,
+      "gas:candidate-vibid:2482000600511": 3,
+      "gas:candidate-vibid:2482000588997": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/lipetsk?action=show&root=1000151&tvd=2482000533388&vrn=100100067795849&region=48&global=&sub_region=48&prver=0&pronetvd=null&vibid=2482000533388&type=464",

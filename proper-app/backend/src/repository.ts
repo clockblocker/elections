@@ -30,7 +30,7 @@ export async function metadata(slug: string): Promise<Record<string, unknown> | 
     WHERE e.slug = $1
     GROUP BY r.id ORDER BY r.code::integer
   `, [slug]) as Row[];
-  const methods = await db.unsafe("SELECT slug, version, name, description, parameters FROM analysis_methods WHERE slug = 'peer-clt-v2'") as Row[];
+  const methods = await db.unsafe("SELECT slug, version, name, description, parameters FROM analysis_methods WHERE slug = 'protocol-cloud-clt-v3'") as Row[];
   return {
     election: {
       slug: election.slug,
@@ -73,8 +73,8 @@ export async function points(slug: string, optionId: number, regions: string[]):
       a.registered_voters, a.valid_ballots,
       (a.portable_box_ballots + a.stationary_box_ballots) AS ballots_counted,
       v.votes AS option_votes,
-      100.0 * (a.portable_box_ballots + a.stationary_box_ballots) / a.registered_voters AS turnout,
-      100.0 * v.votes / a.valid_ballots AS result
+      100.0 * (a.portable_box_ballots + a.stationary_box_ballots) / NULLIF(a.registered_voters, 0) AS turnout,
+      100.0 * v.votes / NULLIF(a.valid_ballots, 0) AS result
     FROM protocols pr
     JOIN ballots b ON b.id = pr.ballot_id
     JOIN elections e ON e.id = b.election_id

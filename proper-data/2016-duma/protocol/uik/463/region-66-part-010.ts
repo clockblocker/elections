@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 90,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 70,
-      "Столбов Александр Александрович": 13,
-      "Шилков Данил Евгеньевич": 22,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 90,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 70,
+      "gas:candidate-vibid:4664067141018": 13,
+      "gas:candidate-vibid:4664067140540": 22,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732980&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732980&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 98,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 46,
-      "Столбов Александр Александрович": 18,
-      "Шилков Данил Евгеньевич": 11,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 98,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 46,
+      "gas:candidate-vibid:4664067141018": 18,
+      "gas:candidate-vibid:4664067140540": 11,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732980&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732980&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 57,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 22,
-      "Столбов Александр Александрович": 9,
-      "Шилков Данил Евгеньевич": 15,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 57,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 22,
+      "gas:candidate-vibid:4664067141018": 9,
+      "gas:candidate-vibid:4664067140540": 15,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732980&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732980&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 86,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 27,
-      "Столбов Александр Александрович": 10,
-      "Шилков Данил Евгеньевич": 11,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 86,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 27,
+      "gas:candidate-vibid:4664067141018": 10,
+      "gas:candidate-vibid:4664067140540": 11,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732980&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732980&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 44,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 14,
-      "Столбов Александр Александрович": 3,
-      "Шилков Данил Евгеньевич": 3,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 44,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 14,
+      "gas:candidate-vibid:4664067141018": 3,
+      "gas:candidate-vibid:4664067140540": 3,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732980&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732980&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 0,
-      "Бидонько Сергей Юрьевич": 52,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 21,
-      "Столбов Александр Александрович": 10,
-      "Шилков Данил Евгеньевич": 10,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 0,
+      "gas:candidate-vibid:4664067140933": 52,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 21,
+      "gas:candidate-vibid:4664067141018": 10,
+      "gas:candidate-vibid:4664067140540": 10,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732980&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732980&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 2,
-      "Бидонько Сергей Юрьевич": 98,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 72,
-      "Столбов Александр Александрович": 12,
-      "Шилков Данил Евгеньевич": 17,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 2,
+      "gas:candidate-vibid:4664067140933": 98,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 72,
+      "gas:candidate-vibid:4664067141018": 12,
+      "gas:candidate-vibid:4664067140540": 17,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732980&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732980&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 54,
-      "Бидонько Сергей Юрьевич": 368,
-      "Жаркой Георгий Владимирович": 26,
-      "Ильин Александр Михайлович": 15,
-      "Мордвов Лев Евгеньевич": 24,
-      "Семеновых Сергей Михайлович": 80,
-      "Столбов Александр Александрович": 61,
-      "Шилков Данил Евгеньевич": 92,
-      "Шингаркин Максим Андреевич": 16
+      "gas:candidate-vibid:4664067155362": 54,
+      "gas:candidate-vibid:4664067140933": 368,
+      "gas:candidate-vibid:4664067155280": 26,
+      "gas:candidate-vibid:4664067155189": 15,
+      "gas:candidate-vibid:4664067155206": 24,
+      "gas:candidate-vibid:4664067140819": 80,
+      "gas:candidate-vibid:4664067141018": 61,
+      "gas:candidate-vibid:4664067140540": 92,
+      "gas:candidate-vibid:4664067155376": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732981&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732981&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 32,
-      "Бидонько Сергей Юрьевич": 304,
-      "Жаркой Георгий Владимирович": 19,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 23,
-      "Семеновых Сергей Михайлович": 70,
-      "Столбов Александр Александрович": 42,
-      "Шилков Данил Евгеньевич": 70,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 32,
+      "gas:candidate-vibid:4664067140933": 304,
+      "gas:candidate-vibid:4664067155280": 19,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 23,
+      "gas:candidate-vibid:4664067140819": 70,
+      "gas:candidate-vibid:4664067141018": 42,
+      "gas:candidate-vibid:4664067140540": 70,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732981&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732981&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 50,
-      "Бидонько Сергей Юрьевич": 391,
-      "Жаркой Георгий Владимирович": 22,
-      "Ильин Александр Михайлович": 18,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 70,
-      "Столбов Александр Александрович": 72,
-      "Шилков Данил Евгеньевич": 84,
-      "Шингаркин Максим Андреевич": 12
+      "gas:candidate-vibid:4664067155362": 50,
+      "gas:candidate-vibid:4664067140933": 391,
+      "gas:candidate-vibid:4664067155280": 22,
+      "gas:candidate-vibid:4664067155189": 18,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 70,
+      "gas:candidate-vibid:4664067141018": 72,
+      "gas:candidate-vibid:4664067140540": 84,
+      "gas:candidate-vibid:4664067155376": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732981&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732981&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 248,
-      "Жаркой Георгий Владимирович": 20,
-      "Ильин Александр Михайлович": 13,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 64,
-      "Столбов Александр Александрович": 50,
-      "Шилков Данил Евгеньевич": 79,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 248,
+      "gas:candidate-vibid:4664067155280": 20,
+      "gas:candidate-vibid:4664067155189": 13,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 64,
+      "gas:candidate-vibid:4664067141018": 50,
+      "gas:candidate-vibid:4664067140540": 79,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732981&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732981&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 164,
-      "Бидонько Сергей Юрьевич": 822,
-      "Жаркой Георгий Владимирович": 101,
-      "Ильин Александр Михайлович": 157,
-      "Мордвов Лев Евгеньевич": 73,
-      "Семеновых Сергей Михайлович": 118,
-      "Столбов Александр Александрович": 87,
-      "Шилков Данил Евгеньевич": 204,
-      "Шингаркин Максим Андреевич": 28
+      "gas:candidate-vibid:4664067155362": 164,
+      "gas:candidate-vibid:4664067140933": 822,
+      "gas:candidate-vibid:4664067155280": 101,
+      "gas:candidate-vibid:4664067155189": 157,
+      "gas:candidate-vibid:4664067155206": 73,
+      "gas:candidate-vibid:4664067140819": 118,
+      "gas:candidate-vibid:4664067141018": 87,
+      "gas:candidate-vibid:4664067140540": 204,
+      "gas:candidate-vibid:4664067155376": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732981&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732981&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 49,
-      "Бидонько Сергей Юрьевич": 529,
-      "Жаркой Георгий Владимирович": 19,
-      "Ильин Александр Михайлович": 19,
-      "Мордвов Лев Евгеньевич": 33,
-      "Семеновых Сергей Михайлович": 169,
-      "Столбов Александр Александрович": 148,
-      "Шилков Данил Евгеньевич": 151,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 49,
+      "gas:candidate-vibid:4664067140933": 529,
+      "gas:candidate-vibid:4664067155280": 19,
+      "gas:candidate-vibid:4664067155189": 19,
+      "gas:candidate-vibid:4664067155206": 33,
+      "gas:candidate-vibid:4664067140819": 169,
+      "gas:candidate-vibid:4664067141018": 148,
+      "gas:candidate-vibid:4664067140540": 151,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 39,
-      "Бидонько Сергей Юрьевич": 507,
-      "Жаркой Георгий Владимирович": 25,
-      "Ильин Александр Михайлович": 25,
-      "Мордвов Лев Евгеньевич": 38,
-      "Семеновых Сергей Михайлович": 188,
-      "Столбов Александр Александрович": 172,
-      "Шилков Данил Евгеньевич": 134,
-      "Шингаркин Максим Андреевич": 24
+      "gas:candidate-vibid:4664067155362": 39,
+      "gas:candidate-vibid:4664067140933": 507,
+      "gas:candidate-vibid:4664067155280": 25,
+      "gas:candidate-vibid:4664067155189": 25,
+      "gas:candidate-vibid:4664067155206": 38,
+      "gas:candidate-vibid:4664067140819": 188,
+      "gas:candidate-vibid:4664067141018": 172,
+      "gas:candidate-vibid:4664067140540": 134,
+      "gas:candidate-vibid:4664067155376": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 35,
-      "Бидонько Сергей Юрьевич": 502,
-      "Жаркой Георгий Владимирович": 17,
-      "Ильин Александр Михайлович": 15,
-      "Мордвов Лев Евгеньевич": 44,
-      "Семеновых Сергей Михайлович": 172,
-      "Столбов Александр Александрович": 174,
-      "Шилков Данил Евгеньевич": 148,
-      "Шингаркин Максим Андреевич": 17
+      "gas:candidate-vibid:4664067155362": 35,
+      "gas:candidate-vibid:4664067140933": 502,
+      "gas:candidate-vibid:4664067155280": 17,
+      "gas:candidate-vibid:4664067155189": 15,
+      "gas:candidate-vibid:4664067155206": 44,
+      "gas:candidate-vibid:4664067140819": 172,
+      "gas:candidate-vibid:4664067141018": 174,
+      "gas:candidate-vibid:4664067140540": 148,
+      "gas:candidate-vibid:4664067155376": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 241,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 54,
-      "Столбов Александр Александрович": 87,
-      "Шилков Данил Евгеньевич": 72,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 241,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 54,
+      "gas:candidate-vibid:4664067141018": 87,
+      "gas:candidate-vibid:4664067140540": 72,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 21,
-      "Бидонько Сергей Юрьевич": 206,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 49,
-      "Столбов Александр Александрович": 67,
-      "Шилков Данил Евгеньевич": 75,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 21,
+      "gas:candidate-vibid:4664067140933": 206,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 49,
+      "gas:candidate-vibid:4664067141018": 67,
+      "gas:candidate-vibid:4664067140540": 75,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 42,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 17,
-      "Столбов Александр Александрович": 19,
-      "Шилков Данил Евгеньевич": 22,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 42,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 17,
+      "gas:candidate-vibid:4664067141018": 19,
+      "gas:candidate-vibid:4664067140540": 22,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 16,
-      "Бидонько Сергей Юрьевич": 226,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 16,
-      "Мордвов Лев Евгеньевич": 23,
-      "Семеновых Сергей Михайлович": 69,
-      "Столбов Александр Александрович": 76,
-      "Шилков Данил Евгеньевич": 91,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 16,
+      "gas:candidate-vibid:4664067140933": 226,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 16,
+      "gas:candidate-vibid:4664067155206": 23,
+      "gas:candidate-vibid:4664067140819": 69,
+      "gas:candidate-vibid:4664067141018": 76,
+      "gas:candidate-vibid:4664067140540": 91,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 6,
-      "Бидонько Сергей Юрьевич": 39,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 8,
-      "Столбов Александр Александрович": 19,
-      "Шилков Данил Евгеньевич": 8,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 6,
+      "gas:candidate-vibid:4664067140933": 39,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 8,
+      "gas:candidate-vibid:4664067141018": 19,
+      "gas:candidate-vibid:4664067140540": 8,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 6,
-      "Бидонько Сергей Юрьевич": 17,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 0,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 5,
-      "Столбов Александр Александрович": 12,
-      "Шилков Данил Евгеньевич": 6,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 6,
+      "gas:candidate-vibid:4664067140933": 17,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 0,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 5,
+      "gas:candidate-vibid:4664067141018": 12,
+      "gas:candidate-vibid:4664067140540": 6,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 0,
-      "Бидонько Сергей Юрьевич": 16,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 0,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 0,
-      "Столбов Александр Александрович": 5,
-      "Шилков Данил Евгеньевич": 5,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 0,
+      "gas:candidate-vibid:4664067140933": 16,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 0,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 0,
+      "gas:candidate-vibid:4664067141018": 5,
+      "gas:candidate-vibid:4664067140540": 5,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732982&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732982&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 56,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 23,
-      "Столбов Александр Александрович": 16,
-      "Шилков Данил Евгеньевич": 15,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 56,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 23,
+      "gas:candidate-vibid:4664067141018": 16,
+      "gas:candidate-vibid:4664067140540": 15,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 11,
-      "Бидонько Сергей Юрьевич": 146,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 11,
-      "Семеновых Сергей Михайлович": 59,
-      "Столбов Александр Александрович": 42,
-      "Шилков Данил Евгеньевич": 45,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 11,
+      "gas:candidate-vibid:4664067140933": 146,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 11,
+      "gas:candidate-vibid:4664067140819": 59,
+      "gas:candidate-vibid:4664067141018": 42,
+      "gas:candidate-vibid:4664067140540": 45,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 11,
-      "Бидонько Сергей Юрьевич": 127,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 10,
-      "Семеновых Сергей Михайлович": 52,
-      "Столбов Александр Александрович": 40,
-      "Шилков Данил Евгеньевич": 36,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 11,
+      "gas:candidate-vibid:4664067140933": 127,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 10,
+      "gas:candidate-vibid:4664067140819": 52,
+      "gas:candidate-vibid:4664067141018": 40,
+      "gas:candidate-vibid:4664067140540": 36,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 135,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 55,
-      "Столбов Александр Александрович": 42,
-      "Шилков Данил Евгеньевич": 50,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 135,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 55,
+      "gas:candidate-vibid:4664067141018": 42,
+      "gas:candidate-vibid:4664067140540": 50,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 241,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 24,
-      "Семеновых Сергей Михайлович": 83,
-      "Столбов Александр Александрович": 73,
-      "Шилков Данил Евгеньевич": 78,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 241,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 24,
+      "gas:candidate-vibid:4664067140819": 83,
+      "gas:candidate-vibid:4664067141018": 73,
+      "gas:candidate-vibid:4664067140540": 78,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 28,
-      "Бидонько Сергей Юрьевич": 186,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 62,
-      "Столбов Александр Александрович": 52,
-      "Шилков Данил Евгеньевич": 57,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 28,
+      "gas:candidate-vibid:4664067140933": 186,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 62,
+      "gas:candidate-vibid:4664067141018": 52,
+      "gas:candidate-vibid:4664067140540": 57,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 16,
-      "Бидонько Сергей Юрьевич": 241,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 128,
-      "Столбов Александр Александрович": 63,
-      "Шилков Данил Евгеньевич": 80,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 16,
+      "gas:candidate-vibid:4664067140933": 241,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 128,
+      "gas:candidate-vibid:4664067141018": 63,
+      "gas:candidate-vibid:4664067140540": 80,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 34,
-      "Бидонько Сергей Юрьевич": 172,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 73,
-      "Столбов Александр Александрович": 50,
-      "Шилков Данил Евгеньевич": 47,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 34,
+      "gas:candidate-vibid:4664067140933": 172,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 73,
+      "gas:candidate-vibid:4664067141018": 50,
+      "gas:candidate-vibid:4664067140540": 47,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 201,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 13,
-      "Семеновых Сергей Михайлович": 97,
-      "Столбов Александр Александрович": 53,
-      "Шилков Данил Евгеньевич": 51,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 201,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 13,
+      "gas:candidate-vibid:4664067140819": 97,
+      "gas:candidate-vibid:4664067141018": 53,
+      "gas:candidate-vibid:4664067140540": 51,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 20,
-      "Бидонько Сергей Юрьевич": 186,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 19,
-      "Семеновых Сергей Михайлович": 84,
-      "Столбов Александр Александрович": 57,
-      "Шилков Данил Евгеньевич": 64,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 20,
+      "gas:candidate-vibid:4664067140933": 186,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 19,
+      "gas:candidate-vibid:4664067140819": 84,
+      "gas:candidate-vibid:4664067141018": 57,
+      "gas:candidate-vibid:4664067140540": 64,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 35,
-      "Бидонько Сергей Юрьевич": 421,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 30,
-      "Семеновых Сергей Михайлович": 186,
-      "Столбов Александр Александрович": 112,
-      "Шилков Данил Евгеньевич": 158,
-      "Шингаркин Максим Андреевич": 18
+      "gas:candidate-vibid:4664067155362": 35,
+      "gas:candidate-vibid:4664067140933": 421,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 30,
+      "gas:candidate-vibid:4664067140819": 186,
+      "gas:candidate-vibid:4664067141018": 112,
+      "gas:candidate-vibid:4664067140540": 158,
+      "gas:candidate-vibid:4664067155376": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 11,
-      "Бидонько Сергей Юрьевич": 143,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 45,
-      "Столбов Александр Александрович": 45,
-      "Шилков Данил Евгеньевич": 57,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 11,
+      "gas:candidate-vibid:4664067140933": 143,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 45,
+      "gas:candidate-vibid:4664067141018": 45,
+      "gas:candidate-vibid:4664067140540": 57,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 14,
-      "Бидонько Сергей Юрьевич": 177,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 14,
-      "Семеновых Сергей Михайлович": 53,
-      "Столбов Александр Александрович": 45,
-      "Шилков Данил Евгеньевич": 64,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 14,
+      "gas:candidate-vibid:4664067140933": 177,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 14,
+      "gas:candidate-vibid:4664067140819": 53,
+      "gas:candidate-vibid:4664067141018": 45,
+      "gas:candidate-vibid:4664067140540": 64,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 19,
-      "Бидонько Сергей Юрьевич": 325,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 17,
-      "Семеновых Сергей Михайлович": 146,
-      "Столбов Александр Александрович": 75,
-      "Шилков Данил Евгеньевич": 96,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 19,
+      "gas:candidate-vibid:4664067140933": 325,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 17,
+      "gas:candidate-vibid:4664067140819": 146,
+      "gas:candidate-vibid:4664067141018": 75,
+      "gas:candidate-vibid:4664067140540": 96,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 30,
-      "Бидонько Сергей Юрьевич": 276,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 14,
-      "Семеновых Сергей Михайлович": 122,
-      "Столбов Александр Александрович": 59,
-      "Шилков Данил Евгеньевич": 63,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 30,
+      "gas:candidate-vibid:4664067140933": 276,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 14,
+      "gas:candidate-vibid:4664067140819": 122,
+      "gas:candidate-vibid:4664067141018": 59,
+      "gas:candidate-vibid:4664067140540": 63,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 25,
-      "Бидонько Сергей Юрьевич": 305,
-      "Жаркой Георгий Владимирович": 14,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 24,
-      "Семеновых Сергей Михайлович": 115,
-      "Столбов Александр Александрович": 81,
-      "Шилков Данил Евгеньевич": 92,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 25,
+      "gas:candidate-vibid:4664067140933": 305,
+      "gas:candidate-vibid:4664067155280": 14,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 24,
+      "gas:candidate-vibid:4664067140819": 115,
+      "gas:candidate-vibid:4664067141018": 81,
+      "gas:candidate-vibid:4664067140540": 92,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 51,
-      "Бидонько Сергей Юрьевич": 303,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 27,
-      "Семеновых Сергей Михайлович": 153,
-      "Столбов Александр Александрович": 122,
-      "Шилков Данил Евгеньевич": 110,
-      "Шингаркин Максим Андреевич": 11
+      "gas:candidate-vibid:4664067155362": 51,
+      "gas:candidate-vibid:4664067140933": 303,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 27,
+      "gas:candidate-vibid:4664067140819": 153,
+      "gas:candidate-vibid:4664067141018": 122,
+      "gas:candidate-vibid:4664067140540": 110,
+      "gas:candidate-vibid:4664067155376": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 35,
-      "Бидонько Сергей Юрьевич": 337,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 20,
-      "Семеновых Сергей Михайлович": 151,
-      "Столбов Александр Александрович": 92,
-      "Шилков Данил Евгеньевич": 91,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 35,
+      "gas:candidate-vibid:4664067140933": 337,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 20,
+      "gas:candidate-vibid:4664067140819": 151,
+      "gas:candidate-vibid:4664067141018": 92,
+      "gas:candidate-vibid:4664067140540": 91,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 41,
-      "Бидонько Сергей Юрьевич": 371,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 166,
-      "Столбов Александр Александрович": 123,
-      "Шилков Данил Евгеньевич": 116,
-      "Шингаркин Максим Андреевич": 20
+      "gas:candidate-vibid:4664067155362": 41,
+      "gas:candidate-vibid:4664067140933": 371,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 166,
+      "gas:candidate-vibid:4664067141018": 123,
+      "gas:candidate-vibid:4664067140540": 116,
+      "gas:candidate-vibid:4664067155376": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 38,
-      "Бидонько Сергей Юрьевич": 410,
-      "Жаркой Георгий Владимирович": 20,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 33,
-      "Семеновых Сергей Михайлович": 181,
-      "Столбов Александр Александрович": 130,
-      "Шилков Данил Евгеньевич": 155,
-      "Шингаркин Максим Андреевич": 18
+      "gas:candidate-vibid:4664067155362": 38,
+      "gas:candidate-vibid:4664067140933": 410,
+      "gas:candidate-vibid:4664067155280": 20,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 33,
+      "gas:candidate-vibid:4664067140819": 181,
+      "gas:candidate-vibid:4664067141018": 130,
+      "gas:candidate-vibid:4664067140540": 155,
+      "gas:candidate-vibid:4664067155376": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 33,
-      "Бидонько Сергей Юрьевич": 420,
-      "Жаркой Георгий Владимирович": 14,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 32,
-      "Семеновых Сергей Михайлович": 197,
-      "Столбов Александр Александрович": 118,
-      "Шилков Данил Евгеньевич": 133,
-      "Шингаркин Максим Андреевич": 18
+      "gas:candidate-vibid:4664067155362": 33,
+      "gas:candidate-vibid:4664067140933": 420,
+      "gas:candidate-vibid:4664067155280": 14,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 32,
+      "gas:candidate-vibid:4664067140819": 197,
+      "gas:candidate-vibid:4664067141018": 118,
+      "gas:candidate-vibid:4664067140540": 133,
+      "gas:candidate-vibid:4664067155376": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 29,
-      "Бидонько Сергей Юрьевич": 276,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 16,
-      "Семеновых Сергей Михайлович": 145,
-      "Столбов Александр Александрович": 64,
-      "Шилков Данил Евгеньевич": 77,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 29,
+      "gas:candidate-vibid:4664067140933": 276,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 16,
+      "gas:candidate-vibid:4664067140819": 145,
+      "gas:candidate-vibid:4664067141018": 64,
+      "gas:candidate-vibid:4664067140540": 77,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 32,
-      "Бидонько Сергей Юрьевич": 291,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 28,
-      "Семеновых Сергей Михайлович": 149,
-      "Столбов Александр Александрович": 91,
-      "Шилков Данил Евгеньевич": 112,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 32,
+      "gas:candidate-vibid:4664067140933": 291,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 28,
+      "gas:candidate-vibid:4664067140819": 149,
+      "gas:candidate-vibid:4664067141018": 91,
+      "gas:candidate-vibid:4664067140540": 112,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 42,
-      "Бидонько Сергей Юрьевич": 271,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 164,
-      "Столбов Александр Александрович": 104,
-      "Шилков Данил Евгеньевич": 106,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 42,
+      "gas:candidate-vibid:4664067140933": 271,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 164,
+      "gas:candidate-vibid:4664067141018": 104,
+      "gas:candidate-vibid:4664067140540": 106,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 32,
-      "Бидонько Сергей Юрьевич": 159,
-      "Жаркой Георгий Владимирович": 17,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 17,
-      "Семеновых Сергей Михайлович": 66,
-      "Столбов Александр Александрович": 52,
-      "Шилков Данил Евгеньевич": 55,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 32,
+      "gas:candidate-vibid:4664067140933": 159,
+      "gas:candidate-vibid:4664067155280": 17,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 17,
+      "gas:candidate-vibid:4664067140819": 66,
+      "gas:candidate-vibid:4664067141018": 52,
+      "gas:candidate-vibid:4664067140540": 55,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 2,
-      "Бидонько Сергей Юрьевич": 13,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 3,
-      "Столбов Александр Александрович": 6,
-      "Шилков Данил Евгеньевич": 2,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 2,
+      "gas:candidate-vibid:4664067140933": 13,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 3,
+      "gas:candidate-vibid:4664067141018": 6,
+      "gas:candidate-vibid:4664067140540": 2,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 22,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 7,
-      "Столбов Александр Александрович": 6,
-      "Шилков Данил Евгеньевич": 9,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 22,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 7,
+      "gas:candidate-vibid:4664067141018": 6,
+      "gas:candidate-vibid:4664067140540": 9,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 134,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 33,
-      "Столбов Александр Александрович": 20,
-      "Шилков Данил Евгеньевич": 21,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 134,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 33,
+      "gas:candidate-vibid:4664067141018": 20,
+      "gas:candidate-vibid:4664067140540": 21,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 75,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 38,
-      "Столбов Александр Александрович": 23,
-      "Шилков Данил Евгеньевич": 33,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 75,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 38,
+      "gas:candidate-vibid:4664067141018": 23,
+      "gas:candidate-vibid:4664067140540": 33,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 16,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 8,
-      "Столбов Александр Александрович": 6,
-      "Шилков Данил Евгеньевич": 17,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 16,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 8,
+      "gas:candidate-vibid:4664067141018": 6,
+      "gas:candidate-vibid:4664067140540": 17,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 9,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 0,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 3,
-      "Столбов Александр Александрович": 1,
-      "Шилков Данил Евгеньевич": 2,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 9,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 0,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 3,
+      "gas:candidate-vibid:4664067141018": 1,
+      "gas:candidate-vibid:4664067140540": 2,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732983&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732983&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 29,
-      "Бидонько Сергей Юрьевич": 220,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 26,
-      "Семеновых Сергей Михайлович": 167,
-      "Столбов Александр Александрович": 91,
-      "Шилков Данил Евгеньевич": 98,
-      "Шингаркин Максим Андреевич": 12
+      "gas:candidate-vibid:4664067155362": 29,
+      "gas:candidate-vibid:4664067140933": 220,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 26,
+      "gas:candidate-vibid:4664067140819": 167,
+      "gas:candidate-vibid:4664067141018": 91,
+      "gas:candidate-vibid:4664067140540": 98,
+      "gas:candidate-vibid:4664067155376": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 40,
-      "Бидонько Сергей Юрьевич": 330,
-      "Жаркой Георгий Владимирович": 17,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 18,
-      "Семеновых Сергей Михайлович": 219,
-      "Столбов Александр Александрович": 122,
-      "Шилков Данил Евгеньевич": 118,
-      "Шингаркин Максим Андреевич": 11
+      "gas:candidate-vibid:4664067155362": 40,
+      "gas:candidate-vibid:4664067140933": 330,
+      "gas:candidate-vibid:4664067155280": 17,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 18,
+      "gas:candidate-vibid:4664067140819": 219,
+      "gas:candidate-vibid:4664067141018": 122,
+      "gas:candidate-vibid:4664067140540": 118,
+      "gas:candidate-vibid:4664067155376": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 39,
-      "Бидонько Сергей Юрьевич": 268,
-      "Жаркой Георгий Владимирович": 20,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 175,
-      "Столбов Александр Александрович": 123,
-      "Шилков Данил Евгеньевич": 134,
-      "Шингаркин Максим Андреевич": 14
+      "gas:candidate-vibid:4664067155362": 39,
+      "gas:candidate-vibid:4664067140933": 268,
+      "gas:candidate-vibid:4664067155280": 20,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 175,
+      "gas:candidate-vibid:4664067141018": 123,
+      "gas:candidate-vibid:4664067140540": 134,
+      "gas:candidate-vibid:4664067155376": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 27,
-      "Бидонько Сергей Юрьевич": 266,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 11,
-      "Семеновых Сергей Михайлович": 179,
-      "Столбов Александр Александрович": 93,
-      "Шилков Данил Евгеньевич": 101,
-      "Шингаркин Максим Андреевич": 17
+      "gas:candidate-vibid:4664067155362": 27,
+      "gas:candidate-vibid:4664067140933": 266,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 11,
+      "gas:candidate-vibid:4664067140819": 179,
+      "gas:candidate-vibid:4664067141018": 93,
+      "gas:candidate-vibid:4664067140540": 101,
+      "gas:candidate-vibid:4664067155376": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 17,
-      "Бидонько Сергей Юрьевич": 219,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 19,
-      "Семеновых Сергей Михайлович": 117,
-      "Столбов Александр Александрович": 80,
-      "Шилков Данил Евгеньевич": 47,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 17,
+      "gas:candidate-vibid:4664067140933": 219,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 19,
+      "gas:candidate-vibid:4664067140819": 117,
+      "gas:candidate-vibid:4664067141018": 80,
+      "gas:candidate-vibid:4664067140540": 47,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 12,
-      "Бидонько Сергей Юрьевич": 231,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 162,
-      "Столбов Александр Александрович": 71,
-      "Шилков Данил Евгеньевич": 73,
-      "Шингаркин Максим Андреевич": 17
+      "gas:candidate-vibid:4664067155362": 12,
+      "gas:candidate-vibid:4664067140933": 231,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 162,
+      "gas:candidate-vibid:4664067141018": 71,
+      "gas:candidate-vibid:4664067140540": 73,
+      "gas:candidate-vibid:4664067155376": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 40,
-      "Бидонько Сергей Юрьевич": 490,
-      "Жаркой Георгий Владимирович": 20,
-      "Ильин Александр Михайлович": 26,
-      "Мордвов Лев Евгеньевич": 23,
-      "Семеновых Сергей Михайлович": 213,
-      "Столбов Александр Александрович": 145,
-      "Шилков Данил Евгеньевич": 185,
-      "Шингаркин Максим Андреевич": 15
+      "gas:candidate-vibid:4664067155362": 40,
+      "gas:candidate-vibid:4664067140933": 490,
+      "gas:candidate-vibid:4664067155280": 20,
+      "gas:candidate-vibid:4664067155189": 26,
+      "gas:candidate-vibid:4664067155206": 23,
+      "gas:candidate-vibid:4664067140819": 213,
+      "gas:candidate-vibid:4664067141018": 145,
+      "gas:candidate-vibid:4664067140540": 185,
+      "gas:candidate-vibid:4664067155376": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 37,
-      "Бидонько Сергей Юрьевич": 373,
-      "Жаркой Георгий Владимирович": 15,
-      "Ильин Александр Михайлович": 17,
-      "Мордвов Лев Евгеньевич": 23,
-      "Семеновых Сергей Михайлович": 237,
-      "Столбов Александр Александрович": 141,
-      "Шилков Данил Евгеньевич": 120,
-      "Шингаркин Максим Андреевич": 25
+      "gas:candidate-vibid:4664067155362": 37,
+      "gas:candidate-vibid:4664067140933": 373,
+      "gas:candidate-vibid:4664067155280": 15,
+      "gas:candidate-vibid:4664067155189": 17,
+      "gas:candidate-vibid:4664067155206": 23,
+      "gas:candidate-vibid:4664067140819": 237,
+      "gas:candidate-vibid:4664067141018": 141,
+      "gas:candidate-vibid:4664067140540": 120,
+      "gas:candidate-vibid:4664067155376": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 25,
-      "Бидонько Сергей Юрьевич": 239,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 159,
-      "Столбов Александр Александрович": 87,
-      "Шилков Данил Евгеньевич": 71,
-      "Шингаркин Максим Андреевич": 12
+      "gas:candidate-vibid:4664067155362": 25,
+      "gas:candidate-vibid:4664067140933": 239,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 159,
+      "gas:candidate-vibid:4664067141018": 87,
+      "gas:candidate-vibid:4664067140540": 71,
+      "gas:candidate-vibid:4664067155376": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 43,
-      "Бидонько Сергей Юрьевич": 440,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 28,
-      "Семеновых Сергей Михайлович": 283,
-      "Столбов Александр Александрович": 164,
-      "Шилков Данил Евгеньевич": 89,
-      "Шингаркин Максим Андреевич": 20
+      "gas:candidate-vibid:4664067155362": 43,
+      "gas:candidate-vibid:4664067140933": 440,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 28,
+      "gas:candidate-vibid:4664067140819": 283,
+      "gas:candidate-vibid:4664067141018": 164,
+      "gas:candidate-vibid:4664067140540": 89,
+      "gas:candidate-vibid:4664067155376": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 46,
-      "Бидонько Сергей Юрьевич": 440,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 19,
-      "Мордвов Лев Евгеньевич": 28,
-      "Семеновых Сергей Михайлович": 262,
-      "Столбов Александр Александрович": 167,
-      "Шилков Данил Евгеньевич": 106,
-      "Шингаркин Максим Андреевич": 15
+      "gas:candidate-vibid:4664067155362": 46,
+      "gas:candidate-vibid:4664067140933": 440,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 19,
+      "gas:candidate-vibid:4664067155206": 28,
+      "gas:candidate-vibid:4664067140819": 262,
+      "gas:candidate-vibid:4664067141018": 167,
+      "gas:candidate-vibid:4664067140540": 106,
+      "gas:candidate-vibid:4664067155376": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 277,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 145,
-      "Столбов Александр Александрович": 90,
-      "Шилков Данил Евгеньевич": 72,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 277,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 145,
+      "gas:candidate-vibid:4664067141018": 90,
+      "gas:candidate-vibid:4664067140540": 72,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 46,
-      "Бидонько Сергей Юрьевич": 395,
-      "Жаркой Георгий Владимирович": 25,
-      "Ильин Александр Михайлович": 25,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 245,
-      "Столбов Александр Александрович": 146,
-      "Шилков Данил Евгеньевич": 123,
-      "Шингаркин Максим Андреевич": 21
+      "gas:candidate-vibid:4664067155362": 46,
+      "gas:candidate-vibid:4664067140933": 395,
+      "gas:candidate-vibid:4664067155280": 25,
+      "gas:candidate-vibid:4664067155189": 25,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 245,
+      "gas:candidate-vibid:4664067141018": 146,
+      "gas:candidate-vibid:4664067140540": 123,
+      "gas:candidate-vibid:4664067155376": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 36,
-      "Бидонько Сергей Юрьевич": 372,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 20,
-      "Семеновых Сергей Михайлович": 278,
-      "Столбов Александр Александрович": 141,
-      "Шилков Данил Евгеньевич": 148,
-      "Шингаркин Максим Андреевич": 11
+      "gas:candidate-vibid:4664067155362": 36,
+      "gas:candidate-vibid:4664067140933": 372,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 20,
+      "gas:candidate-vibid:4664067140819": 278,
+      "gas:candidate-vibid:4664067141018": 141,
+      "gas:candidate-vibid:4664067140540": 148,
+      "gas:candidate-vibid:4664067155376": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 44,
-      "Бидонько Сергей Юрьевич": 406,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 24,
-      "Семеновых Сергей Михайлович": 219,
-      "Столбов Александр Александрович": 174,
-      "Шилков Данил Евгеньевич": 111,
-      "Шингаркин Максим Андреевич": 23
+      "gas:candidate-vibid:4664067155362": 44,
+      "gas:candidate-vibid:4664067140933": 406,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 24,
+      "gas:candidate-vibid:4664067140819": 219,
+      "gas:candidate-vibid:4664067141018": 174,
+      "gas:candidate-vibid:4664067140540": 111,
+      "gas:candidate-vibid:4664067155376": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 51,
-      "Бидонько Сергей Юрьевич": 476,
-      "Жаркой Георгий Владимирович": 19,
-      "Ильин Александр Михайлович": 13,
-      "Мордвов Лев Евгеньевич": 28,
-      "Семеновых Сергей Михайлович": 272,
-      "Столбов Александр Александрович": 135,
-      "Шилков Данил Евгеньевич": 134,
-      "Шингаркин Максим Андреевич": 20
+      "gas:candidate-vibid:4664067155362": 51,
+      "gas:candidate-vibid:4664067140933": 476,
+      "gas:candidate-vibid:4664067155280": 19,
+      "gas:candidate-vibid:4664067155189": 13,
+      "gas:candidate-vibid:4664067155206": 28,
+      "gas:candidate-vibid:4664067140819": 272,
+      "gas:candidate-vibid:4664067141018": 135,
+      "gas:candidate-vibid:4664067140540": 134,
+      "gas:candidate-vibid:4664067155376": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 32,
-      "Бидонько Сергей Юрьевич": 352,
-      "Жаркой Георгий Владимирович": 21,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 26,
-      "Семеновых Сергей Михайлович": 220,
-      "Столбов Александр Александрович": 126,
-      "Шилков Данил Евгеньевич": 105,
-      "Шингаркин Максим Андреевич": 23
+      "gas:candidate-vibid:4664067155362": 32,
+      "gas:candidate-vibid:4664067140933": 352,
+      "gas:candidate-vibid:4664067155280": 21,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 26,
+      "gas:candidate-vibid:4664067140819": 220,
+      "gas:candidate-vibid:4664067141018": 126,
+      "gas:candidate-vibid:4664067140540": 105,
+      "gas:candidate-vibid:4664067155376": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 24,
-      "Бидонько Сергей Юрьевич": 198,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 20,
-      "Семеновых Сергей Михайлович": 141,
-      "Столбов Александр Александрович": 107,
-      "Шилков Данил Евгеньевич": 55,
-      "Шингаркин Максим Андреевич": 21
+      "gas:candidate-vibid:4664067155362": 24,
+      "gas:candidate-vibid:4664067140933": 198,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 20,
+      "gas:candidate-vibid:4664067140819": 141,
+      "gas:candidate-vibid:4664067141018": 107,
+      "gas:candidate-vibid:4664067140540": 55,
+      "gas:candidate-vibid:4664067155376": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 37,
-      "Бидонько Сергей Юрьевич": 372,
-      "Жаркой Георгий Владимирович": 19,
-      "Ильин Александр Михайлович": 17,
-      "Мордвов Лев Евгеньевич": 35,
-      "Семеновых Сергей Михайлович": 225,
-      "Столбов Александр Александрович": 153,
-      "Шилков Данил Евгеньевич": 120,
-      "Шингаркин Максим Андреевич": 20
+      "gas:candidate-vibid:4664067155362": 37,
+      "gas:candidate-vibid:4664067140933": 372,
+      "gas:candidate-vibid:4664067155280": 19,
+      "gas:candidate-vibid:4664067155189": 17,
+      "gas:candidate-vibid:4664067155206": 35,
+      "gas:candidate-vibid:4664067140819": 225,
+      "gas:candidate-vibid:4664067141018": 153,
+      "gas:candidate-vibid:4664067140540": 120,
+      "gas:candidate-vibid:4664067155376": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 128,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 66,
-      "Столбов Александр Александрович": 62,
-      "Шилков Данил Евгеньевич": 52,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 128,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 66,
+      "gas:candidate-vibid:4664067141018": 62,
+      "gas:candidate-vibid:4664067140540": 52,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 46,
-      "Бидонько Сергей Юрьевич": 560,
-      "Жаркой Георгий Владимирович": 27,
-      "Ильин Александр Михайлович": 38,
-      "Мордвов Лев Евгеньевич": 31,
-      "Семеновых Сергей Михайлович": 86,
-      "Столбов Александр Александрович": 68,
-      "Шилков Данил Евгеньевич": 91,
-      "Шингаркин Максим Андреевич": 23
+      "gas:candidate-vibid:4664067155362": 46,
+      "gas:candidate-vibid:4664067140933": 560,
+      "gas:candidate-vibid:4664067155280": 27,
+      "gas:candidate-vibid:4664067155189": 38,
+      "gas:candidate-vibid:4664067155206": 31,
+      "gas:candidate-vibid:4664067140819": 86,
+      "gas:candidate-vibid:4664067141018": 68,
+      "gas:candidate-vibid:4664067140540": 91,
+      "gas:candidate-vibid:4664067155376": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 46,
-      "Бидонько Сергей Юрьевич": 425,
-      "Жаркой Георгий Владимирович": 20,
-      "Ильин Александр Михайлович": 18,
-      "Мордвов Лев Евгеньевич": 29,
-      "Семеновых Сергей Михайлович": 272,
-      "Столбов Александр Александрович": 155,
-      "Шилков Данил Евгеньевич": 154,
-      "Шингаркин Максим Андреевич": 34
+      "gas:candidate-vibid:4664067155362": 46,
+      "gas:candidate-vibid:4664067140933": 425,
+      "gas:candidate-vibid:4664067155280": 20,
+      "gas:candidate-vibid:4664067155189": 18,
+      "gas:candidate-vibid:4664067155206": 29,
+      "gas:candidate-vibid:4664067140819": 272,
+      "gas:candidate-vibid:4664067141018": 155,
+      "gas:candidate-vibid:4664067140540": 154,
+      "gas:candidate-vibid:4664067155376": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 65,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 30,
-      "Столбов Александр Александрович": 28,
-      "Шилков Данил Евгеньевич": 25,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 65,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 30,
+      "gas:candidate-vibid:4664067141018": 28,
+      "gas:candidate-vibid:4664067140540": 25,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 125,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 65,
-      "Столбов Александр Александрович": 54,
-      "Шилков Данил Евгеньевич": 38,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 125,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 65,
+      "gas:candidate-vibid:4664067141018": 54,
+      "gas:candidate-vibid:4664067140540": 38,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732984&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732984&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 19,
-      "Бидонько Сергей Юрьевич": 147,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 27,
-      "Столбов Александр Александрович": 48,
-      "Шилков Данил Евгеньевич": 51,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 19,
+      "gas:candidate-vibid:4664067140933": 147,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 27,
+      "gas:candidate-vibid:4664067141018": 48,
+      "gas:candidate-vibid:4664067140540": 51,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 21,
-      "Бидонько Сергей Юрьевич": 252,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 46,
-      "Столбов Александр Александрович": 69,
-      "Шилков Данил Евгеньевич": 93,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 21,
+      "gas:candidate-vibid:4664067140933": 252,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 46,
+      "gas:candidate-vibid:4664067141018": 69,
+      "gas:candidate-vibid:4664067140540": 93,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 93,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 20,
-      "Столбов Александр Александрович": 36,
-      "Шилков Данил Евгеньевич": 45,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 93,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 20,
+      "gas:candidate-vibid:4664067141018": 36,
+      "gas:candidate-vibid:4664067140540": 45,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 15,
-      "Бидонько Сергей Юрьевич": 218,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 11,
-      "Семеновых Сергей Михайлович": 56,
-      "Столбов Александр Александрович": 46,
-      "Шилков Данил Евгеньевич": 80,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 15,
+      "gas:candidate-vibid:4664067140933": 218,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 11,
+      "gas:candidate-vibid:4664067140819": 56,
+      "gas:candidate-vibid:4664067141018": 46,
+      "gas:candidate-vibid:4664067140540": 80,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 384,
-      "Жаркой Георгий Владимирович": 19,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 14,
-      "Семеновых Сергей Михайлович": 106,
-      "Столбов Александр Александрович": 99,
-      "Шилков Данил Евгеньевич": 122,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 384,
+      "gas:candidate-vibid:4664067155280": 19,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 14,
+      "gas:candidate-vibid:4664067140819": 106,
+      "gas:candidate-vibid:4664067141018": 99,
+      "gas:candidate-vibid:4664067140540": 122,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 43,
-      "Бидонько Сергей Юрьевич": 429,
-      "Жаркой Георгий Владимирович": 20,
-      "Ильин Александр Михайлович": 18,
-      "Мордвов Лев Евгеньевич": 22,
-      "Семеновых Сергей Михайлович": 123,
-      "Столбов Александр Александрович": 123,
-      "Шилков Данил Евгеньевич": 145,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 43,
+      "gas:candidate-vibid:4664067140933": 429,
+      "gas:candidate-vibid:4664067155280": 20,
+      "gas:candidate-vibid:4664067155189": 18,
+      "gas:candidate-vibid:4664067155206": 22,
+      "gas:candidate-vibid:4664067140819": 123,
+      "gas:candidate-vibid:4664067141018": 123,
+      "gas:candidate-vibid:4664067140540": 145,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 21,
-      "Бидонько Сергей Юрьевич": 346,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 103,
-      "Столбов Александр Александрович": 122,
-      "Шилков Данил Евгеньевич": 97,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 21,
+      "gas:candidate-vibid:4664067140933": 346,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 103,
+      "gas:candidate-vibid:4664067141018": 122,
+      "gas:candidate-vibid:4664067140540": 97,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 41,
-      "Бидонько Сергей Юрьевич": 347,
-      "Жаркой Георгий Владимирович": 14,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 20,
-      "Семеновых Сергей Михайлович": 106,
-      "Столбов Александр Александрович": 120,
-      "Шилков Данил Евгеньевич": 100,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 41,
+      "gas:candidate-vibid:4664067140933": 347,
+      "gas:candidate-vibid:4664067155280": 14,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 20,
+      "gas:candidate-vibid:4664067140819": 106,
+      "gas:candidate-vibid:4664067141018": 120,
+      "gas:candidate-vibid:4664067140540": 100,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 37,
-      "Бидонько Сергей Юрьевич": 449,
-      "Жаркой Георгий Владимирович": 14,
-      "Ильин Александр Михайлович": 16,
-      "Мордвов Лев Евгеньевич": 24,
-      "Семеновых Сергей Михайлович": 118,
-      "Столбов Александр Александрович": 144,
-      "Шилков Данил Евгеньевич": 176,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 37,
+      "gas:candidate-vibid:4664067140933": 449,
+      "gas:candidate-vibid:4664067155280": 14,
+      "gas:candidate-vibid:4664067155189": 16,
+      "gas:candidate-vibid:4664067155206": 24,
+      "gas:candidate-vibid:4664067140819": 118,
+      "gas:candidate-vibid:4664067141018": 144,
+      "gas:candidate-vibid:4664067140540": 176,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 40,
-      "Бидонько Сергей Юрьевич": 510,
-      "Жаркой Георгий Владимирович": 27,
-      "Ильин Александр Михайлович": 19,
-      "Мордвов Лев Евгеньевич": 23,
-      "Семеновых Сергей Михайлович": 138,
-      "Столбов Александр Александрович": 166,
-      "Шилков Данил Евгеньевич": 164,
-      "Шингаркин Максим Андреевич": 14
+      "gas:candidate-vibid:4664067155362": 40,
+      "gas:candidate-vibid:4664067140933": 510,
+      "gas:candidate-vibid:4664067155280": 27,
+      "gas:candidate-vibid:4664067155189": 19,
+      "gas:candidate-vibid:4664067155206": 23,
+      "gas:candidate-vibid:4664067140819": 138,
+      "gas:candidate-vibid:4664067141018": 166,
+      "gas:candidate-vibid:4664067140540": 164,
+      "gas:candidate-vibid:4664067155376": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 15,
-      "Бидонько Сергей Юрьевич": 136,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 34,
-      "Столбов Александр Александрович": 40,
-      "Шилков Данил Евгеньевич": 90,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 15,
+      "gas:candidate-vibid:4664067140933": 136,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 34,
+      "gas:candidate-vibid:4664067141018": 40,
+      "gas:candidate-vibid:4664067140540": 90,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 21,
-      "Бидонько Сергей Юрьевич": 153,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 16,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 25,
-      "Столбов Александр Александрович": 72,
-      "Шилков Данил Евгеньевич": 74,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 21,
+      "gas:candidate-vibid:4664067140933": 153,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 16,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 25,
+      "gas:candidate-vibid:4664067141018": 72,
+      "gas:candidate-vibid:4664067140540": 74,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 16,
-      "Бидонько Сергей Юрьевич": 220,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 13,
-      "Семеновых Сергей Михайлович": 81,
-      "Столбов Александр Александрович": 90,
-      "Шилков Данил Евгеньевич": 78,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 16,
+      "gas:candidate-vibid:4664067140933": 220,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 13,
+      "gas:candidate-vibid:4664067140819": 81,
+      "gas:candidate-vibid:4664067141018": 90,
+      "gas:candidate-vibid:4664067140540": 78,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 42,
-      "Бидонько Сергей Юрьевич": 306,
-      "Жаркой Георгий Владимирович": 23,
-      "Ильин Александр Михайлович": 17,
-      "Мордвов Лев Евгеньевич": 24,
-      "Семеновых Сергей Михайлович": 103,
-      "Столбов Александр Александрович": 158,
-      "Шилков Данил Евгеньевич": 124,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 42,
+      "gas:candidate-vibid:4664067140933": 306,
+      "gas:candidate-vibid:4664067155280": 23,
+      "gas:candidate-vibid:4664067155189": 17,
+      "gas:candidate-vibid:4664067155206": 24,
+      "gas:candidate-vibid:4664067140819": 103,
+      "gas:candidate-vibid:4664067141018": 158,
+      "gas:candidate-vibid:4664067140540": 124,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 100,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 38,
-      "Столбов Александр Александрович": 27,
-      "Шилков Данил Евгеньевич": 55,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 100,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 38,
+      "gas:candidate-vibid:4664067141018": 27,
+      "gas:candidate-vibid:4664067140540": 55,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 13,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 1,
-      "Столбов Александр Александрович": 1,
-      "Шилков Данил Евгеньевич": 7,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 13,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 1,
+      "gas:candidate-vibid:4664067141018": 1,
+      "gas:candidate-vibid:4664067140540": 7,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 52,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 1,
-      "Столбов Александр Александрович": 7,
-      "Шилков Данил Евгеньевич": 12,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 52,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 1,
+      "gas:candidate-vibid:4664067141018": 7,
+      "gas:candidate-vibid:4664067140540": 12,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 87,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 12,
-      "Столбов Александр Александрович": 13,
-      "Шилков Данил Евгеньевич": 23,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 87,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 12,
+      "gas:candidate-vibid:4664067141018": 13,
+      "gas:candidate-vibid:4664067140540": 23,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 12,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 5,
-      "Столбов Александр Александрович": 9,
-      "Шилков Данил Евгеньевич": 5,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 12,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 5,
+      "gas:candidate-vibid:4664067141018": 9,
+      "gas:candidate-vibid:4664067140540": 5,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732985&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732985&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 45,
-      "Бидонько Сергей Юрьевич": 250,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 75,
-      "Столбов Александр Александрович": 134,
-      "Шилков Данил Евгеньевич": 114,
-      "Шингаркин Максим Андреевич": 12
+      "gas:candidate-vibid:4664067155362": 45,
+      "gas:candidate-vibid:4664067140933": 250,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 75,
+      "gas:candidate-vibid:4664067141018": 134,
+      "gas:candidate-vibid:4664067140540": 114,
+      "gas:candidate-vibid:4664067155376": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 34,
-      "Бидонько Сергей Юрьевич": 232,
-      "Жаркой Георгий Владимирович": 17,
-      "Ильин Александр Михайлович": 13,
-      "Мордвов Лев Евгеньевич": 23,
-      "Семеновых Сергей Михайлович": 99,
-      "Столбов Александр Александрович": 170,
-      "Шилков Данил Евгеньевич": 105,
-      "Шингаркин Максим Андреевич": 17
+      "gas:candidate-vibid:4664067155362": 34,
+      "gas:candidate-vibid:4664067140933": 232,
+      "gas:candidate-vibid:4664067155280": 17,
+      "gas:candidate-vibid:4664067155189": 13,
+      "gas:candidate-vibid:4664067155206": 23,
+      "gas:candidate-vibid:4664067140819": 99,
+      "gas:candidate-vibid:4664067141018": 170,
+      "gas:candidate-vibid:4664067140540": 105,
+      "gas:candidate-vibid:4664067155376": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 39,
-      "Бидонько Сергей Юрьевич": 307,
-      "Жаркой Георгий Владимирович": 22,
-      "Ильин Александр Михайлович": 17,
-      "Мордвов Лев Евгеньевич": 16,
-      "Семеновых Сергей Михайлович": 155,
-      "Столбов Александр Александрович": 170,
-      "Шилков Данил Евгеньевич": 85,
-      "Шингаркин Максим Андреевич": 24
+      "gas:candidate-vibid:4664067155362": 39,
+      "gas:candidate-vibid:4664067140933": 307,
+      "gas:candidate-vibid:4664067155280": 22,
+      "gas:candidate-vibid:4664067155189": 17,
+      "gas:candidate-vibid:4664067155206": 16,
+      "gas:candidate-vibid:4664067140819": 155,
+      "gas:candidate-vibid:4664067141018": 170,
+      "gas:candidate-vibid:4664067140540": 85,
+      "gas:candidate-vibid:4664067155376": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 27,
-      "Бидонько Сергей Юрьевич": 240,
-      "Жаркой Георгий Владимирович": 20,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 155,
-      "Столбов Александр Александрович": 191,
-      "Шилков Данил Евгеньевич": 111,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 27,
+      "gas:candidate-vibid:4664067140933": 240,
+      "gas:candidate-vibid:4664067155280": 20,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 155,
+      "gas:candidate-vibid:4664067141018": 191,
+      "gas:candidate-vibid:4664067140540": 111,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 24,
-      "Бидонько Сергей Юрьевич": 153,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 16,
-      "Мордвов Лев Евгеньевич": 13,
-      "Семеновых Сергей Михайлович": 53,
-      "Столбов Александр Александрович": 113,
-      "Шилков Данил Евгеньевич": 86,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 24,
+      "gas:candidate-vibid:4664067140933": 153,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 16,
+      "gas:candidate-vibid:4664067155206": 13,
+      "gas:candidate-vibid:4664067140819": 53,
+      "gas:candidate-vibid:4664067141018": 113,
+      "gas:candidate-vibid:4664067140540": 86,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 28,
-      "Бидонько Сергей Юрьевич": 196,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 77,
-      "Столбов Александр Александрович": 128,
-      "Шилков Данил Евгеньевич": 79,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 28,
+      "gas:candidate-vibid:4664067140933": 196,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 77,
+      "gas:candidate-vibid:4664067141018": 128,
+      "gas:candidate-vibid:4664067140540": 79,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 29,
-      "Бидонько Сергей Юрьевич": 154,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 54,
-      "Столбов Александр Александрович": 78,
-      "Шилков Данил Евгеньевич": 78,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 29,
+      "gas:candidate-vibid:4664067140933": 154,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 54,
+      "gas:candidate-vibid:4664067141018": 78,
+      "gas:candidate-vibid:4664067140540": 78,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 28,
-      "Бидонько Сергей Юрьевич": 238,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 15,
-      "Семеновых Сергей Михайлович": 98,
-      "Столбов Александр Александрович": 144,
-      "Шилков Данил Евгеньевич": 77,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 28,
+      "gas:candidate-vibid:4664067140933": 238,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 15,
+      "gas:candidate-vibid:4664067140819": 98,
+      "gas:candidate-vibid:4664067141018": 144,
+      "gas:candidate-vibid:4664067140540": 77,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 19,
-      "Бидонько Сергей Юрьевич": 206,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 69,
-      "Столбов Александр Александрович": 115,
-      "Шилков Данил Евгеньевич": 76,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 19,
+      "gas:candidate-vibid:4664067140933": 206,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 69,
+      "gas:candidate-vibid:4664067141018": 115,
+      "gas:candidate-vibid:4664067140540": 76,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 44,
-      "Бидонько Сергей Юрьевич": 264,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 20,
-      "Семеновых Сергей Михайлович": 139,
-      "Столбов Александр Александрович": 207,
-      "Шилков Данил Евгеньевич": 103,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 44,
+      "gas:candidate-vibid:4664067140933": 264,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 20,
+      "gas:candidate-vibid:4664067140819": 139,
+      "gas:candidate-vibid:4664067141018": 207,
+      "gas:candidate-vibid:4664067140540": 103,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 42,
-      "Бидонько Сергей Юрьевич": 272,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 18,
-      "Мордвов Лев Евгеньевич": 27,
-      "Семеновых Сергей Михайлович": 161,
-      "Столбов Александр Александрович": 173,
-      "Шилков Данил Евгеньевич": 93,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 42,
+      "gas:candidate-vibid:4664067140933": 272,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 18,
+      "gas:candidate-vibid:4664067155206": 27,
+      "gas:candidate-vibid:4664067140819": 161,
+      "gas:candidate-vibid:4664067141018": 173,
+      "gas:candidate-vibid:4664067140540": 93,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 29,
-      "Бидонько Сергей Юрьевич": 201,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 126,
-      "Столбов Александр Александрович": 141,
-      "Шилков Данил Евгеньевич": 84,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 29,
+      "gas:candidate-vibid:4664067140933": 201,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 126,
+      "gas:candidate-vibid:4664067141018": 141,
+      "gas:candidate-vibid:4664067140540": 84,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 36,
-      "Бидонько Сергей Юрьевич": 169,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 17,
-      "Семеновых Сергей Михайлович": 65,
-      "Столбов Александр Александрович": 118,
-      "Шилков Данил Евгеньевич": 90,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 36,
+      "gas:candidate-vibid:4664067140933": 169,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 17,
+      "gas:candidate-vibid:4664067140819": 65,
+      "gas:candidate-vibid:4664067141018": 118,
+      "gas:candidate-vibid:4664067140540": 90,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 25,
-      "Бидонько Сергей Юрьевич": 200,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 17,
-      "Семеновых Сергей Михайлович": 88,
-      "Столбов Александр Александрович": 126,
-      "Шилков Данил Евгеньевич": 100,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 25,
+      "gas:candidate-vibid:4664067140933": 200,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 17,
+      "gas:candidate-vibid:4664067140819": 88,
+      "gas:candidate-vibid:4664067141018": 126,
+      "gas:candidate-vibid:4664067140540": 100,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 32,
-      "Бидонько Сергей Юрьевич": 184,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 17,
-      "Семеновых Сергей Михайлович": 85,
-      "Столбов Александр Александрович": 117,
-      "Шилков Данил Евгеньевич": 86,
-      "Шингаркин Максим Андреевич": 20
+      "gas:candidate-vibid:4664067155362": 32,
+      "gas:candidate-vibid:4664067140933": 184,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 17,
+      "gas:candidate-vibid:4664067140819": 85,
+      "gas:candidate-vibid:4664067141018": 117,
+      "gas:candidate-vibid:4664067140540": 86,
+      "gas:candidate-vibid:4664067155376": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 36,
-      "Бидонько Сергей Юрьевич": 256,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 25,
-      "Семеновых Сергей Михайлович": 133,
-      "Столбов Александр Александрович": 165,
-      "Шилков Данил Евгеньевич": 95,
-      "Шингаркин Максим Андреевич": 15
+      "gas:candidate-vibid:4664067155362": 36,
+      "gas:candidate-vibid:4664067140933": 256,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 25,
+      "gas:candidate-vibid:4664067140819": 133,
+      "gas:candidate-vibid:4664067141018": 165,
+      "gas:candidate-vibid:4664067140540": 95,
+      "gas:candidate-vibid:4664067155376": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 40,
-      "Бидонько Сергей Юрьевич": 223,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 16,
-      "Мордвов Лев Евгеньевич": 20,
-      "Семеновых Сергей Михайлович": 115,
-      "Столбов Александр Александрович": 162,
-      "Шилков Данил Евгеньевич": 69,
-      "Шингаркин Максим Андреевич": 16
+      "gas:candidate-vibid:4664067155362": 40,
+      "gas:candidate-vibid:4664067140933": 223,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 16,
+      "gas:candidate-vibid:4664067155206": 20,
+      "gas:candidate-vibid:4664067140819": 115,
+      "gas:candidate-vibid:4664067141018": 162,
+      "gas:candidate-vibid:4664067140540": 69,
+      "gas:candidate-vibid:4664067155376": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 24,
-      "Бидонько Сергей Юрьевич": 208,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 23,
-      "Семеновых Сергей Михайлович": 135,
-      "Столбов Александр Александрович": 135,
-      "Шилков Данил Евгеньевич": 81,
-      "Шингаркин Максим Андреевич": 16
+      "gas:candidate-vibid:4664067155362": 24,
+      "gas:candidate-vibid:4664067140933": 208,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 23,
+      "gas:candidate-vibid:4664067140819": 135,
+      "gas:candidate-vibid:4664067141018": 135,
+      "gas:candidate-vibid:4664067140540": 81,
+      "gas:candidate-vibid:4664067155376": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 45,
-      "Бидонько Сергей Юрьевич": 270,
-      "Жаркой Георгий Владимирович": 21,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 22,
-      "Семеновых Сергей Михайлович": 173,
-      "Столбов Александр Александрович": 156,
-      "Шилков Данил Евгеньевич": 96,
-      "Шингаркин Максим Андреевич": 26
+      "gas:candidate-vibid:4664067155362": 45,
+      "gas:candidate-vibid:4664067140933": 270,
+      "gas:candidate-vibid:4664067155280": 21,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 22,
+      "gas:candidate-vibid:4664067140819": 173,
+      "gas:candidate-vibid:4664067141018": 156,
+      "gas:candidate-vibid:4664067140540": 96,
+      "gas:candidate-vibid:4664067155376": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 39,
-      "Бидонько Сергей Юрьевич": 196,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 13,
-      "Мордвов Лев Евгеньевич": 18,
-      "Семеновых Сергей Михайлович": 112,
-      "Столбов Александр Александрович": 170,
-      "Шилков Данил Евгеньевич": 96,
-      "Шингаркин Максим Андреевич": 16
+      "gas:candidate-vibid:4664067155362": 39,
+      "gas:candidate-vibid:4664067140933": 196,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 13,
+      "gas:candidate-vibid:4664067155206": 18,
+      "gas:candidate-vibid:4664067140819": 112,
+      "gas:candidate-vibid:4664067141018": 170,
+      "gas:candidate-vibid:4664067140540": 96,
+      "gas:candidate-vibid:4664067155376": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732986&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732986&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 304,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 101,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 110,
-      "Столбов Александр Александрович": 79,
-      "Шилков Данил Евгеньевич": 71,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 304,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 101,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 110,
+      "gas:candidate-vibid:4664067141018": 79,
+      "gas:candidate-vibid:4664067140540": 71,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 360,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 125,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 104,
-      "Столбов Александр Александрович": 111,
-      "Шилков Данил Евгеньевич": 54,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 360,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 125,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 104,
+      "gas:candidate-vibid:4664067141018": 111,
+      "gas:candidate-vibid:4664067140540": 54,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 353,
-      "Жаркой Георгий Владимирович": 15,
-      "Ильин Александр Михайлович": 91,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 132,
-      "Столбов Александр Александрович": 88,
-      "Шилков Данил Евгеньевич": 77,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 353,
+      "gas:candidate-vibid:4664067155280": 15,
+      "gas:candidate-vibid:4664067155189": 91,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 132,
+      "gas:candidate-vibid:4664067141018": 88,
+      "gas:candidate-vibid:4664067140540": 77,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 369,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 123,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 142,
-      "Столбов Александр Александрович": 87,
-      "Шилков Данил Евгеньевич": 69,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 369,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 123,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 142,
+      "gas:candidate-vibid:4664067141018": 87,
+      "gas:candidate-vibid:4664067140540": 69,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 274,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 132,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 90,
-      "Столбов Александр Александрович": 102,
-      "Шилков Данил Евгеньевич": 94,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 274,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 132,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 90,
+      "gas:candidate-vibid:4664067141018": 102,
+      "gas:candidate-vibid:4664067140540": 94,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 15,
-      "Бидонько Сергей Юрьевич": 330,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 120,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 107,
-      "Столбов Александр Александрович": 74,
-      "Шилков Данил Евгеньевич": 75,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 15,
+      "gas:candidate-vibid:4664067140933": 330,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 120,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 107,
+      "gas:candidate-vibid:4664067141018": 74,
+      "gas:candidate-vibid:4664067140540": 75,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 26,
-      "Бидонько Сергей Юрьевич": 324,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 103,
-      "Мордвов Лев Евгеньевич": 10,
-      "Семеновых Сергей Михайлович": 117,
-      "Столбов Александр Александрович": 78,
-      "Шилков Данил Евгеньевич": 81,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 26,
+      "gas:candidate-vibid:4664067140933": 324,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 103,
+      "gas:candidate-vibid:4664067155206": 10,
+      "gas:candidate-vibid:4664067140819": 117,
+      "gas:candidate-vibid:4664067141018": 78,
+      "gas:candidate-vibid:4664067140540": 81,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 275,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 102,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 141,
-      "Столбов Александр Александрович": 85,
-      "Шилков Данил Евгеньевич": 71,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 275,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 102,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 141,
+      "gas:candidate-vibid:4664067141018": 85,
+      "gas:candidate-vibid:4664067140540": 71,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 19,
-      "Бидонько Сергей Юрьевич": 317,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 97,
-      "Мордвов Лев Евгеньевич": 13,
-      "Семеновых Сергей Михайлович": 110,
-      "Столбов Александр Александрович": 64,
-      "Шилков Данил Евгеньевич": 53,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 19,
+      "gas:candidate-vibid:4664067140933": 317,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 97,
+      "gas:candidate-vibid:4664067155206": 13,
+      "gas:candidate-vibid:4664067140819": 110,
+      "gas:candidate-vibid:4664067141018": 64,
+      "gas:candidate-vibid:4664067140540": 53,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 27,
-      "Бидонько Сергей Юрьевич": 301,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 90,
-      "Мордвов Лев Евгеньевич": 10,
-      "Семеновых Сергей Михайлович": 82,
-      "Столбов Александр Александрович": 74,
-      "Шилков Данил Евгеньевич": 57,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 27,
+      "gas:candidate-vibid:4664067140933": 301,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 90,
+      "gas:candidate-vibid:4664067155206": 10,
+      "gas:candidate-vibid:4664067140819": 82,
+      "gas:candidate-vibid:4664067141018": 74,
+      "gas:candidate-vibid:4664067140540": 57,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 116,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 40,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 43,
-      "Столбов Александр Александрович": 34,
-      "Шилков Данил Евгеньевич": 37,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 116,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 40,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 43,
+      "gas:candidate-vibid:4664067141018": 34,
+      "gas:candidate-vibid:4664067140540": 37,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 68,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 46,
-      "Мордвов Лев Евгеньевич": 3,
-      "Семеновых Сергей Михайлович": 7,
-      "Столбов Александр Александрович": 6,
-      "Шилков Данил Евгеньевич": 14,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 68,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 46,
+      "gas:candidate-vibid:4664067155206": 3,
+      "gas:candidate-vibid:4664067140819": 7,
+      "gas:candidate-vibid:4664067141018": 6,
+      "gas:candidate-vibid:4664067140540": 14,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 15,
-      "Бидонько Сергей Юрьевич": 220,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 109,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 43,
-      "Столбов Александр Александрович": 40,
-      "Шилков Данил Евгеньевич": 72,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 15,
+      "gas:candidate-vibid:4664067140933": 220,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 109,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 43,
+      "gas:candidate-vibid:4664067141018": 40,
+      "gas:candidate-vibid:4664067140540": 72,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 24,
-      "Бидонько Сергей Юрьевич": 324,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 87,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 97,
-      "Столбов Александр Александрович": 89,
-      "Шилков Данил Евгеньевич": 110,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 24,
+      "gas:candidate-vibid:4664067140933": 324,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 87,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 97,
+      "gas:candidate-vibid:4664067141018": 89,
+      "gas:candidate-vibid:4664067140540": 110,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 24,
-      "Бидонько Сергей Юрьевич": 376,
-      "Жаркой Георгий Владимирович": 11,
-      "Ильин Александр Михайлович": 109,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 110,
-      "Столбов Александр Александрович": 85,
-      "Шилков Данил Евгеньевич": 81,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 24,
+      "gas:candidate-vibid:4664067140933": 376,
+      "gas:candidate-vibid:4664067155280": 11,
+      "gas:candidate-vibid:4664067155189": 109,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 110,
+      "gas:candidate-vibid:4664067141018": 85,
+      "gas:candidate-vibid:4664067140540": 81,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 20,
-      "Бидонько Сергей Юрьевич": 335,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 91,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 68,
-      "Столбов Александр Александрович": 78,
-      "Шилков Данил Евгеньевич": 58,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 20,
+      "gas:candidate-vibid:4664067140933": 335,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 91,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 68,
+      "gas:candidate-vibid:4664067141018": 78,
+      "gas:candidate-vibid:4664067140540": 58,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 14,
-      "Бидонько Сергей Юрьевич": 228,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 69,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 72,
-      "Столбов Александр Александрович": 46,
-      "Шилков Данил Евгеньевич": 62,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 14,
+      "gas:candidate-vibid:4664067140933": 228,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 69,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 72,
+      "gas:candidate-vibid:4664067141018": 46,
+      "gas:candidate-vibid:4664067140540": 62,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 61,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 18,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 7,
-      "Столбов Александр Александрович": 9,
-      "Шилков Данил Евгеньевич": 7,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 61,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 18,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 7,
+      "gas:candidate-vibid:4664067141018": 9,
+      "gas:candidate-vibid:4664067140540": 7,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 0,
-      "Бидонько Сергей Юрьевич": 31,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 3,
-      "Семеновых Сергей Михайлович": 1,
-      "Столбов Александр Александрович": 6,
-      "Шилков Данил Евгеньевич": 9,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 0,
+      "gas:candidate-vibid:4664067140933": 31,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 3,
+      "gas:candidate-vibid:4664067140819": 1,
+      "gas:candidate-vibid:4664067141018": 6,
+      "gas:candidate-vibid:4664067140540": 9,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 297,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 95,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 62,
-      "Столбов Александр Александрович": 81,
-      "Шилков Данил Евгеньевич": 68,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 297,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 95,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 62,
+      "gas:candidate-vibid:4664067141018": 81,
+      "gas:candidate-vibid:4664067140540": 68,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 33,
-      "Бидонько Сергей Юрьевич": 300,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 123,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 129,
-      "Столбов Александр Александрович": 89,
-      "Шилков Данил Евгеньевич": 86,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 33,
+      "gas:candidate-vibid:4664067140933": 300,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 123,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 129,
+      "gas:candidate-vibid:4664067141018": 89,
+      "gas:candidate-vibid:4664067140540": 86,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 6,
-      "Бидонько Сергей Юрьевич": 58,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 9,
-      "Столбов Александр Александрович": 13,
-      "Шилков Данил Евгеньевич": 10,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 6,
+      "gas:candidate-vibid:4664067140933": 58,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 9,
+      "gas:candidate-vibid:4664067141018": 13,
+      "gas:candidate-vibid:4664067140540": 10,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 38,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 20,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 9,
-      "Столбов Александр Александрович": 7,
-      "Шилков Данил Евгеньевич": 5,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 38,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 20,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 9,
+      "gas:candidate-vibid:4664067141018": 7,
+      "gas:candidate-vibid:4664067140540": 5,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 25,
-      "Бидонько Сергей Юрьевич": 381,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 132,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 101,
-      "Столбов Александр Александрович": 89,
-      "Шилков Данил Евгеньевич": 62,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 25,
+      "gas:candidate-vibid:4664067140933": 381,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 132,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 101,
+      "gas:candidate-vibid:4664067141018": 89,
+      "gas:candidate-vibid:4664067140540": 62,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 241,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 99,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 97,
-      "Столбов Александр Александрович": 60,
-      "Шилков Данил Евгеньевич": 72,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 241,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 99,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 97,
+      "gas:candidate-vibid:4664067141018": 60,
+      "gas:candidate-vibid:4664067140540": 72,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 125,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 38,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 27,
-      "Столбов Александр Александрович": 42,
-      "Шилков Данил Евгеньевич": 33,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 125,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 38,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 27,
+      "gas:candidate-vibid:4664067141018": 42,
+      "gas:candidate-vibid:4664067140540": 33,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732987&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732987&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 325,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 54,
-      "Столбов Александр Александрович": 34,
-      "Шилков Данил Евгеньевич": 46,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 325,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 54,
+      "gas:candidate-vibid:4664067141018": 34,
+      "gas:candidate-vibid:4664067140540": 46,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732988&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732988&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 4,
-      "Бидонько Сергей Юрьевич": 159,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 12,
-      "Столбов Александр Александрович": 32,
-      "Шилков Данил Евгеньевич": 43,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 4,
+      "gas:candidate-vibid:4664067140933": 159,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 12,
+      "gas:candidate-vibid:4664067141018": 32,
+      "gas:candidate-vibid:4664067140540": 43,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732988&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732988&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 15,
-      "Бидонько Сергей Юрьевич": 283,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 10,
-      "Семеновых Сергей Михайлович": 56,
-      "Столбов Александр Александрович": 45,
-      "Шилков Данил Евгеньевич": 55,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 15,
+      "gas:candidate-vibid:4664067140933": 283,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 10,
+      "gas:candidate-vibid:4664067140819": 56,
+      "gas:candidate-vibid:4664067141018": 45,
+      "gas:candidate-vibid:4664067140540": 55,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732988&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732988&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 124,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 13,
-      "Столбов Александр Александрович": 14,
-      "Шилков Данил Евгеньевич": 27,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 124,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 13,
+      "gas:candidate-vibid:4664067141018": 14,
+      "gas:candidate-vibid:4664067140540": 27,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732988&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732988&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 6,
-      "Бидонько Сергей Юрьевич": 146,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 13,
-      "Столбов Александр Александрович": 32,
-      "Шилков Данил Евгеньевич": 25,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 6,
+      "gas:candidate-vibid:4664067140933": 146,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 13,
+      "gas:candidate-vibid:4664067141018": 32,
+      "gas:candidate-vibid:4664067140540": 25,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 4,
-      "Бидонько Сергей Юрьевич": 93,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 20,
-      "Столбов Александр Александрович": 23,
-      "Шилков Данил Евгеньевич": 11,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 4,
+      "gas:candidate-vibid:4664067140933": 93,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 20,
+      "gas:candidate-vibid:4664067141018": 23,
+      "gas:candidate-vibid:4664067140540": 11,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 175,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 28,
-      "Столбов Александр Александрович": 38,
-      "Шилков Данил Евгеньевич": 20,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 175,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 28,
+      "gas:candidate-vibid:4664067141018": 38,
+      "gas:candidate-vibid:4664067140540": 20,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 17,
-      "Бидонько Сергей Юрьевич": 365,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 20,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 109,
-      "Столбов Александр Александрович": 110,
-      "Шилков Данил Евгеньевич": 66,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 17,
+      "gas:candidate-vibid:4664067140933": 365,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 20,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 109,
+      "gas:candidate-vibid:4664067141018": 110,
+      "gas:candidate-vibid:4664067140540": 66,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 6,
-      "Бидонько Сергей Юрьевич": 270,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 60,
-      "Столбов Александр Александрович": 61,
-      "Шилков Данил Евгеньевич": 36,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 6,
+      "gas:candidate-vibid:4664067140933": 270,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 60,
+      "gas:candidate-vibid:4664067141018": 61,
+      "gas:candidate-vibid:4664067140540": 36,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 124,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 30,
-      "Столбов Александр Александрович": 23,
-      "Шилков Данил Евгеньевич": 35,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 124,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 30,
+      "gas:candidate-vibid:4664067141018": 23,
+      "gas:candidate-vibid:4664067140540": 35,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 80,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 14,
-      "Столбов Александр Александрович": 15,
-      "Шилков Данил Евгеньевич": 5,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 80,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 14,
+      "gas:candidate-vibid:4664067141018": 15,
+      "gas:candidate-vibid:4664067140540": 5,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 16,
-      "Бидонько Сергей Юрьевич": 392,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 107,
-      "Столбов Александр Александрович": 91,
-      "Шилков Данил Евгеньевич": 63,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 16,
+      "gas:candidate-vibid:4664067140933": 392,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 107,
+      "gas:candidate-vibid:4664067141018": 91,
+      "gas:candidate-vibid:4664067140540": 63,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 17,
-      "Бидонько Сергей Юрьевич": 397,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 14,
-      "Семеновых Сергей Михайлович": 101,
-      "Столбов Александр Александрович": 85,
-      "Шилков Данил Евгеньевич": 56,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 17,
+      "gas:candidate-vibid:4664067140933": 397,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 14,
+      "gas:candidate-vibid:4664067140819": 101,
+      "gas:candidate-vibid:4664067141018": 85,
+      "gas:candidate-vibid:4664067140540": 56,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 189,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 0,
-      "Мордвов Лев Евгеньевич": 3,
-      "Семеновых Сергей Михайлович": 33,
-      "Столбов Александр Александрович": 34,
-      "Шилков Данил Евгеньевич": 25,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 189,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 0,
+      "gas:candidate-vibid:4664067155206": 3,
+      "gas:candidate-vibid:4664067140819": 33,
+      "gas:candidate-vibid:4664067141018": 34,
+      "gas:candidate-vibid:4664067140540": 25,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 66,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 10,
-      "Столбов Александр Александрович": 16,
-      "Шилков Данил Евгеньевич": 14,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 66,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 10,
+      "gas:candidate-vibid:4664067141018": 16,
+      "gas:candidate-vibid:4664067140540": 14,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 281,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 70,
-      "Столбов Александр Александрович": 47,
-      "Шилков Данил Евгеньевич": 51,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 281,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 70,
+      "gas:candidate-vibid:4664067141018": 47,
+      "gas:candidate-vibid:4664067140540": 51,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 20,
-      "Бидонько Сергей Юрьевич": 538,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 127,
-      "Столбов Александр Александрович": 103,
-      "Шилков Данил Евгеньевич": 63,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 20,
+      "gas:candidate-vibid:4664067140933": 538,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 127,
+      "gas:candidate-vibid:4664067141018": 103,
+      "gas:candidate-vibid:4664067140540": 63,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 26,
-      "Бидонько Сергей Юрьевич": 452,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 15,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 100,
-      "Столбов Александр Александрович": 97,
-      "Шилков Данил Евгеньевич": 43,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 26,
+      "gas:candidate-vibid:4664067140933": 452,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 15,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 100,
+      "gas:candidate-vibid:4664067141018": 97,
+      "gas:candidate-vibid:4664067140540": 43,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 19,
-      "Бидонько Сергей Юрьевич": 412,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 107,
-      "Столбов Александр Александрович": 55,
-      "Шилков Данил Евгеньевич": 35,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 19,
+      "gas:candidate-vibid:4664067140933": 412,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 107,
+      "gas:candidate-vibid:4664067141018": 55,
+      "gas:candidate-vibid:4664067140540": 35,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 14,
-      "Бидонько Сергей Юрьевич": 316,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 15,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 113,
-      "Столбов Александр Александрович": 66,
-      "Шилков Данил Евгеньевич": 50,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 14,
+      "gas:candidate-vibid:4664067140933": 316,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 15,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 113,
+      "gas:candidate-vibid:4664067141018": 66,
+      "gas:candidate-vibid:4664067140540": 50,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 99,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 20,
-      "Столбов Александр Александрович": 17,
-      "Шилков Данил Евгеньевич": 11,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 99,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 20,
+      "gas:candidate-vibid:4664067141018": 17,
+      "gas:candidate-vibid:4664067140540": 11,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 381,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 98,
-      "Столбов Александр Александрович": 75,
-      "Шилков Данил Евгеньевич": 51,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 381,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 98,
+      "gas:candidate-vibid:4664067141018": 75,
+      "gas:candidate-vibid:4664067140540": 51,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 292,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 77,
-      "Столбов Александр Александрович": 55,
-      "Шилков Данил Евгеньевич": 33,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 292,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 77,
+      "gas:candidate-vibid:4664067141018": 55,
+      "gas:candidate-vibid:4664067140540": 33,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 274,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 13,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 47,
-      "Столбов Александр Александрович": 56,
-      "Шилков Данил Евгеньевич": 43,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 274,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 13,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 47,
+      "gas:candidate-vibid:4664067141018": 56,
+      "gas:candidate-vibid:4664067140540": 43,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 21,
-      "Бидонько Сергей Юрьевич": 341,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 85,
-      "Столбов Александр Александрович": 65,
-      "Шилков Данил Евгеньевич": 54,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 21,
+      "gas:candidate-vibid:4664067140933": 341,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 85,
+      "gas:candidate-vibid:4664067141018": 65,
+      "gas:candidate-vibid:4664067140540": 54,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 19,
-      "Бидонько Сергей Юрьевич": 275,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 60,
-      "Столбов Александр Александрович": 52,
-      "Шилков Данил Евгеньевич": 46,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 19,
+      "gas:candidate-vibid:4664067140933": 275,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 60,
+      "gas:candidate-vibid:4664067141018": 52,
+      "gas:candidate-vibid:4664067140540": 46,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 258,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 55,
-      "Столбов Александр Александрович": 48,
-      "Шилков Данил Евгеньевич": 34,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 258,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 55,
+      "gas:candidate-vibid:4664067141018": 48,
+      "gas:candidate-vibid:4664067140540": 34,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 211,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 58,
-      "Столбов Александр Александрович": 45,
-      "Шилков Данил Евгеньевич": 17,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 211,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 58,
+      "gas:candidate-vibid:4664067141018": 45,
+      "gas:candidate-vibid:4664067140540": 17,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 100,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 21,
-      "Столбов Александр Александрович": 23,
-      "Шилков Данил Евгеньевич": 9,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 100,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 21,
+      "gas:candidate-vibid:4664067141018": 23,
+      "gas:candidate-vibid:4664067140540": 9,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 171,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 10,
-      "Семеновых Сергей Михайлович": 45,
-      "Столбов Александр Александрович": 35,
-      "Шилков Данил Евгеньевич": 19,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 171,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 10,
+      "gas:candidate-vibid:4664067140819": 45,
+      "gas:candidate-vibid:4664067141018": 35,
+      "gas:candidate-vibid:4664067140540": 19,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 269,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 75,
-      "Столбов Александр Александрович": 59,
-      "Шилков Данил Евгеньевич": 31,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 269,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 75,
+      "gas:candidate-vibid:4664067141018": 59,
+      "gas:candidate-vibid:4664067140540": 31,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 151,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 3,
-      "Семеновых Сергей Михайлович": 36,
-      "Столбов Александр Александрович": 26,
-      "Шилков Данил Евгеньевич": 20,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 151,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 3,
+      "gas:candidate-vibid:4664067140819": 36,
+      "gas:candidate-vibid:4664067141018": 26,
+      "gas:candidate-vibid:4664067140540": 20,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 2,
-      "Бидонько Сергей Юрьевич": 107,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 24,
-      "Столбов Александр Александрович": 15,
-      "Шилков Данил Евгеньевич": 26,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 2,
+      "gas:candidate-vibid:4664067140933": 107,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 24,
+      "gas:candidate-vibid:4664067141018": 15,
+      "gas:candidate-vibid:4664067140540": 26,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 232,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 40,
-      "Столбов Александр Александрович": 42,
-      "Шилков Данил Евгеньевич": 25,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 232,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 40,
+      "gas:candidate-vibid:4664067141018": 42,
+      "gas:candidate-vibid:4664067140540": 25,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 329,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 87,
-      "Столбов Александр Александрович": 38,
-      "Шилков Данил Евгеньевич": 27,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 329,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 87,
+      "gas:candidate-vibid:4664067141018": 38,
+      "gas:candidate-vibid:4664067140540": 27,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 186,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 41,
-      "Столбов Александр Александрович": 33,
-      "Шилков Данил Евгеньевич": 29,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 186,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 41,
+      "gas:candidate-vibid:4664067141018": 33,
+      "gas:candidate-vibid:4664067140540": 29,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 239,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 3,
-      "Семеновых Сергей Михайлович": 51,
-      "Столбов Александр Александрович": 45,
-      "Шилков Данил Евгеньевич": 22,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 239,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 3,
+      "gas:candidate-vibid:4664067140819": 51,
+      "gas:candidate-vibid:4664067141018": 45,
+      "gas:candidate-vibid:4664067140540": 22,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 15,
-      "Бидонько Сергей Юрьевич": 341,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 11,
-      "Семеновых Сергей Михайлович": 96,
-      "Столбов Александр Александрович": 61,
-      "Шилков Данил Евгеньевич": 49,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 15,
+      "gas:candidate-vibid:4664067140933": 341,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 11,
+      "gas:candidate-vibid:4664067140819": 96,
+      "gas:candidate-vibid:4664067141018": 61,
+      "gas:candidate-vibid:4664067140540": 49,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 525,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 11,
-      "Семеновых Сергей Михайлович": 149,
-      "Столбов Александр Александрович": 96,
-      "Шилков Данил Евгеньевич": 75,
-      "Шингаркин Максим Андреевич": 12
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 525,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 11,
+      "gas:candidate-vibid:4664067140819": 149,
+      "gas:candidate-vibid:4664067141018": 96,
+      "gas:candidate-vibid:4664067140540": 75,
+      "gas:candidate-vibid:4664067155376": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 343,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 79,
-      "Столбов Александр Александрович": 49,
-      "Шилков Данил Евгеньевич": 31,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 343,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 79,
+      "gas:candidate-vibid:4664067141018": 49,
+      "gas:candidate-vibid:4664067140540": 31,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 17,
-      "Бидонько Сергей Юрьевич": 278,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 17,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 84,
-      "Столбов Александр Александрович": 57,
-      "Шилков Данил Евгеньевич": 42,
-      "Шингаркин Максим Андреевич": 10
+      "gas:candidate-vibid:4664067155362": 17,
+      "gas:candidate-vibid:4664067140933": 278,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 17,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 84,
+      "gas:candidate-vibid:4664067141018": 57,
+      "gas:candidate-vibid:4664067140540": 42,
+      "gas:candidate-vibid:4664067155376": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 2,
-      "Бидонько Сергей Юрьевич": 39,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 4,
-      "Столбов Александр Александрович": 7,
-      "Шилков Данил Евгеньевич": 14,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 2,
+      "gas:candidate-vibid:4664067140933": 39,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 4,
+      "gas:candidate-vibid:4664067141018": 7,
+      "gas:candidate-vibid:4664067140540": 14,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 291,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 41,
-      "Столбов Александр Александрович": 62,
-      "Шилков Данил Евгеньевич": 36,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 291,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 41,
+      "gas:candidate-vibid:4664067141018": 62,
+      "gas:candidate-vibid:4664067140540": 36,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 55,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 0,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 4,
-      "Столбов Александр Александрович": 2,
-      "Шилков Данил Евгеньевич": 5,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 55,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 0,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 4,
+      "gas:candidate-vibid:4664067141018": 2,
+      "gas:candidate-vibid:4664067140540": 5,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 59,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 1,
-      "Столбов Александр Александрович": 8,
-      "Шилков Данил Евгеньевич": 4,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 59,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 1,
+      "gas:candidate-vibid:4664067141018": 8,
+      "gas:candidate-vibid:4664067140540": 4,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 20,
-      "Бидонько Сергей Юрьевич": 557,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 128,
-      "Столбов Александр Александрович": 87,
-      "Шилков Данил Евгеньевич": 72,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 20,
+      "gas:candidate-vibid:4664067140933": 557,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 128,
+      "gas:candidate-vibid:4664067141018": 87,
+      "gas:candidate-vibid:4664067140540": 72,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732989&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732989&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 6,
-      "Бидонько Сергей Юрьевич": 785,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 59,
-      "Столбов Александр Александрович": 62,
-      "Шилков Данил Евгеньевич": 48,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 6,
+      "gas:candidate-vibid:4664067140933": 785,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 59,
+      "gas:candidate-vibid:4664067141018": 62,
+      "gas:candidate-vibid:4664067140540": 48,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 626,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 59,
-      "Столбов Александр Александрович": 56,
-      "Шилков Данил Евгеньевич": 36,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 626,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 59,
+      "gas:candidate-vibid:4664067141018": 56,
+      "gas:candidate-vibid:4664067140540": 36,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 622,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 60,
-      "Столбов Александр Александрович": 81,
-      "Шилков Данил Евгеньевич": 41,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 622,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 60,
+      "gas:candidate-vibid:4664067141018": 81,
+      "gas:candidate-vibid:4664067140540": 41,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 269,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 10,
-      "Столбов Александр Александрович": 22,
-      "Шилков Данил Евгеньевич": 13,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 269,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 10,
+      "gas:candidate-vibid:4664067141018": 22,
+      "gas:candidate-vibid:4664067140540": 13,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 17,
-      "Бидонько Сергей Юрьевич": 700,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 72,
-      "Столбов Александр Александрович": 91,
-      "Шилков Данил Евгеньевич": 57,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 17,
+      "gas:candidate-vibid:4664067140933": 700,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 72,
+      "gas:candidate-vibid:4664067141018": 91,
+      "gas:candidate-vibid:4664067140540": 57,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 507,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 57,
-      "Столбов Александр Александрович": 66,
-      "Шилков Данил Евгеньевич": 43,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 507,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 57,
+      "gas:candidate-vibid:4664067141018": 66,
+      "gas:candidate-vibid:4664067140540": 43,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 18,
-      "Бидонько Сергей Юрьевич": 619,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 94,
-      "Столбов Александр Александрович": 69,
-      "Шилков Данил Евгеньевич": 21,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 18,
+      "gas:candidate-vibid:4664067140933": 619,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 94,
+      "gas:candidate-vibid:4664067141018": 69,
+      "gas:candidate-vibid:4664067140540": 21,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 380,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 47,
-      "Столбов Александр Александрович": 49,
-      "Шилков Данил Евгеньевич": 42,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 380,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 47,
+      "gas:candidate-vibid:4664067141018": 49,
+      "gas:candidate-vibid:4664067140540": 42,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 368,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 29,
-      "Столбов Александр Александрович": 35,
-      "Шилков Данил Евгеньевич": 38,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 368,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 29,
+      "gas:candidate-vibid:4664067141018": 35,
+      "gas:candidate-vibid:4664067140540": 38,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 695,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 13,
-      "Семеновых Сергей Михайлович": 92,
-      "Столбов Александр Александрович": 79,
-      "Шилков Данил Евгеньевич": 37,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 695,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 13,
+      "gas:candidate-vibid:4664067140819": 92,
+      "gas:candidate-vibid:4664067141018": 79,
+      "gas:candidate-vibid:4664067140540": 37,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 11,
-      "Бидонько Сергей Юрьевич": 638,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 54,
-      "Столбов Александр Александрович": 87,
-      "Шилков Данил Евгеньевич": 38,
-      "Шингаркин Максим Андреевич": 9
+      "gas:candidate-vibid:4664067155362": 11,
+      "gas:candidate-vibid:4664067140933": 638,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 54,
+      "gas:candidate-vibid:4664067141018": 87,
+      "gas:candidate-vibid:4664067140540": 38,
+      "gas:candidate-vibid:4664067155376": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 316,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 34,
-      "Столбов Александр Александрович": 28,
-      "Шилков Данил Евгеньевич": 29,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 316,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 34,
+      "gas:candidate-vibid:4664067141018": 28,
+      "gas:candidate-vibid:4664067140540": 29,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 137,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 19,
-      "Столбов Александр Александрович": 10,
-      "Шилков Данил Евгеньевич": 17,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 137,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 19,
+      "gas:candidate-vibid:4664067141018": 10,
+      "gas:candidate-vibid:4664067140540": 17,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 56,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 2,
-      "Столбов Александр Александрович": 3,
-      "Шилков Данил Евгеньевич": 4,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 56,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 2,
+      "gas:candidate-vibid:4664067141018": 3,
+      "gas:candidate-vibid:4664067140540": 4,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 15,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 0,
-      "Столбов Александр Александрович": 1,
-      "Шилков Данил Евгеньевич": 4,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 15,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 0,
+      "gas:candidate-vibid:4664067141018": 1,
+      "gas:candidate-vibid:4664067140540": 4,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 103,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 8,
-      "Столбов Александр Александрович": 14,
-      "Шилков Данил Евгеньевич": 10,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 103,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 8,
+      "gas:candidate-vibid:4664067141018": 14,
+      "gas:candidate-vibid:4664067140540": 10,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 2,
-      "Бидонько Сергей Юрьевич": 147,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 0,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 9,
-      "Столбов Александр Александрович": 8,
-      "Шилков Данил Евгеньевич": 12,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 2,
+      "gas:candidate-vibid:4664067140933": 147,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 0,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 9,
+      "gas:candidate-vibid:4664067141018": 8,
+      "gas:candidate-vibid:4664067140540": 12,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 126,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 15,
-      "Столбов Александр Александрович": 10,
-      "Шилков Данил Евгеньевич": 21,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 126,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 15,
+      "gas:candidate-vibid:4664067141018": 10,
+      "gas:candidate-vibid:4664067140540": 21,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732990&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732990&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 303,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 51,
-      "Столбов Александр Александрович": 78,
-      "Шилков Данил Евгеньевич": 55,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 303,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 51,
+      "gas:candidate-vibid:4664067141018": 78,
+      "gas:candidate-vibid:4664067140540": 55,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 143,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 22,
-      "Столбов Александр Александрович": 50,
-      "Шилков Данил Евгеньевич": 31,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 143,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 22,
+      "gas:candidate-vibid:4664067141018": 50,
+      "gas:candidate-vibid:4664067140540": 31,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 26,
-      "Бидонько Сергей Юрьевич": 479,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 20,
-      "Мордвов Лев Евгеньевич": 17,
-      "Семеновых Сергей Михайлович": 57,
-      "Столбов Александр Александрович": 107,
-      "Шилков Данил Евгеньевич": 67,
-      "Шингаркин Максим Андреевич": 11
+      "gas:candidate-vibid:4664067155362": 26,
+      "gas:candidate-vibid:4664067140933": 479,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 20,
+      "gas:candidate-vibid:4664067155206": 17,
+      "gas:candidate-vibid:4664067140819": 57,
+      "gas:candidate-vibid:4664067141018": 107,
+      "gas:candidate-vibid:4664067140540": 67,
+      "gas:candidate-vibid:4664067155376": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 25,
-      "Бидонько Сергей Юрьевич": 413,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 22,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 56,
-      "Столбов Александр Александрович": 99,
-      "Шилков Данил Евгеньевич": 86,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 25,
+      "gas:candidate-vibid:4664067140933": 413,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 22,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 56,
+      "gas:candidate-vibid:4664067141018": 99,
+      "gas:candidate-vibid:4664067140540": 86,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 66,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 10,
-      "Столбов Александр Александрович": 17,
-      "Шилков Данил Евгеньевич": 17,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 66,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 10,
+      "gas:candidate-vibid:4664067141018": 17,
+      "gas:candidate-vibid:4664067140540": 17,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 80,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 18,
-      "Столбов Александр Александрович": 17,
-      "Шилков Данил Евгеньевич": 18,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 80,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 18,
+      "gas:candidate-vibid:4664067141018": 17,
+      "gas:candidate-vibid:4664067140540": 18,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 31,
-      "Бидонько Сергей Юрьевич": 477,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 21,
-      "Мордвов Лев Евгеньевич": 20,
-      "Семеновых Сергей Михайлович": 88,
-      "Столбов Александр Александрович": 89,
-      "Шилков Данил Евгеньевич": 98,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 31,
+      "gas:candidate-vibid:4664067140933": 477,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 21,
+      "gas:candidate-vibid:4664067155206": 20,
+      "gas:candidate-vibid:4664067140819": 88,
+      "gas:candidate-vibid:4664067141018": 89,
+      "gas:candidate-vibid:4664067140540": 98,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 287,
-      "Жаркой Георгий Владимирович": 15,
-      "Ильин Александр Михайлович": 22,
-      "Мордвов Лев Евгеньевич": 14,
-      "Семеновых Сергей Михайлович": 40,
-      "Столбов Александр Александрович": 81,
-      "Шилков Данил Евгеньевич": 58,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 287,
+      "gas:candidate-vibid:4664067155280": 15,
+      "gas:candidate-vibid:4664067155189": 22,
+      "gas:candidate-vibid:4664067155206": 14,
+      "gas:candidate-vibid:4664067140819": 40,
+      "gas:candidate-vibid:4664067141018": 81,
+      "gas:candidate-vibid:4664067140540": 58,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 17,
-      "Бидонько Сергей Юрьевич": 165,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 20,
-      "Мордвов Лев Евгеньевич": 13,
-      "Семеновых Сергей Михайлович": 42,
-      "Столбов Александр Александрович": 61,
-      "Шилков Данил Евгеньевич": 52,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 17,
+      "gas:candidate-vibid:4664067140933": 165,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 20,
+      "gas:candidate-vibid:4664067155206": 13,
+      "gas:candidate-vibid:4664067140819": 42,
+      "gas:candidate-vibid:4664067141018": 61,
+      "gas:candidate-vibid:4664067140540": 52,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 301,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 38,
-      "Мордвов Лев Евгеньевич": 14,
-      "Семеновых Сергей Михайлович": 30,
-      "Столбов Александр Александрович": 99,
-      "Шилков Данил Евгеньевич": 75,
-      "Шингаркин Максим Андреевич": 15
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 301,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 38,
+      "gas:candidate-vibid:4664067155206": 14,
+      "gas:candidate-vibid:4664067140819": 30,
+      "gas:candidate-vibid:4664067141018": 99,
+      "gas:candidate-vibid:4664067140540": 75,
+      "gas:candidate-vibid:4664067155376": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 26,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 1,
-      "Столбов Александр Александрович": 5,
-      "Шилков Данил Евгеньевич": 7,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 26,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 1,
+      "gas:candidate-vibid:4664067141018": 5,
+      "gas:candidate-vibid:4664067140540": 7,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 1,
-      "Бидонько Сергей Юрьевич": 32,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 4,
-      "Столбов Александр Александрович": 9,
-      "Шилков Данил Евгеньевич": 5,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 1,
+      "gas:candidate-vibid:4664067140933": 32,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 4,
+      "gas:candidate-vibid:4664067141018": 9,
+      "gas:candidate-vibid:4664067140540": 5,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 3,
-      "Бидонько Сергей Юрьевич": 20,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 4,
-      "Столбов Александр Александрович": 5,
-      "Шилков Данил Евгеньевич": 4,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 3,
+      "gas:candidate-vibid:4664067140933": 20,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 4,
+      "gas:candidate-vibid:4664067141018": 5,
+      "gas:candidate-vibid:4664067140540": 4,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 4,
-      "Бидонько Сергей Юрьевич": 160,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 14,
-      "Столбов Александр Александрович": 8,
-      "Шилков Данил Евгеньевич": 13,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 4,
+      "gas:candidate-vibid:4664067140933": 160,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 14,
+      "gas:candidate-vibid:4664067141018": 8,
+      "gas:candidate-vibid:4664067140540": 13,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 5,
-      "Бидонько Сергей Юрьевич": 81,
-      "Жаркой Георгий Владимирович": 0,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 2,
-      "Семеновых Сергей Михайлович": 12,
-      "Столбов Александр Александрович": 9,
-      "Шилков Данил Евгеньевич": 8,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 5,
+      "gas:candidate-vibid:4664067140933": 81,
+      "gas:candidate-vibid:4664067155280": 0,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 2,
+      "gas:candidate-vibid:4664067140819": 12,
+      "gas:candidate-vibid:4664067141018": 9,
+      "gas:candidate-vibid:4664067140540": 8,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 4,
-      "Бидонько Сергей Юрьевич": 142,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 20,
-      "Столбов Александр Александрович": 9,
-      "Шилков Данил Евгеньевич": 6,
-      "Шингаркин Максим Андреевич": 0
+      "gas:candidate-vibid:4664067155362": 4,
+      "gas:candidate-vibid:4664067140933": 142,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 20,
+      "gas:candidate-vibid:4664067141018": 9,
+      "gas:candidate-vibid:4664067140540": 6,
+      "gas:candidate-vibid:4664067155376": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 125,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 6,
-      "Мордвов Лев Евгеньевич": 1,
-      "Семеновых Сергей Михайлович": 17,
-      "Столбов Александр Александрович": 15,
-      "Шилков Данил Евгеньевич": 17,
-      "Шингаркин Максим Андреевич": 1
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 125,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 6,
+      "gas:candidate-vibid:4664067155206": 1,
+      "gas:candidate-vibid:4664067140819": 17,
+      "gas:candidate-vibid:4664067141018": 15,
+      "gas:candidate-vibid:4664067140540": 17,
+      "gas:candidate-vibid:4664067155376": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 21,
-      "Бидонько Сергей Юрьевич": 195,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 15,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 20,
-      "Столбов Александр Александрович": 26,
-      "Шилков Данил Евгеньевич": 24,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 21,
+      "gas:candidate-vibid:4664067140933": 195,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 15,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 20,
+      "gas:candidate-vibid:4664067141018": 26,
+      "gas:candidate-vibid:4664067140540": 24,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732991&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732991&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 12,
-      "Бидонько Сергей Юрьевич": 581,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 18,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 136,
-      "Столбов Александр Александрович": 61,
-      "Шилков Данил Евгеньевич": 49,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 12,
+      "gas:candidate-vibid:4664067140933": 581,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 18,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 136,
+      "gas:candidate-vibid:4664067141018": 61,
+      "gas:candidate-vibid:4664067140540": 49,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732992&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732992&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 13,
-      "Бидонько Сергей Юрьевич": 430,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 16,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 80,
-      "Столбов Александр Александрович": 52,
-      "Шилков Данил Евгеньевич": 43,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 13,
+      "gas:candidate-vibid:4664067140933": 430,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 16,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 80,
+      "gas:candidate-vibid:4664067141018": 52,
+      "gas:candidate-vibid:4664067140540": 43,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732992&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732992&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 15,
-      "Бидонько Сергей Юрьевич": 438,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 123,
-      "Столбов Александр Александрович": 54,
-      "Шилков Данил Евгеньевич": 39,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 15,
+      "gas:candidate-vibid:4664067140933": 438,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 123,
+      "gas:candidate-vibid:4664067141018": 54,
+      "gas:candidate-vibid:4664067140540": 39,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732992&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732992&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 367,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 29,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 60,
-      "Столбов Александр Александрович": 89,
-      "Шилков Данил Евгеньевич": 53,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 367,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 29,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 60,
+      "gas:candidate-vibid:4664067141018": 89,
+      "gas:candidate-vibid:4664067140540": 53,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732992&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732992&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 16,
-      "Бидонько Сергей Юрьевич": 485,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 19,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 35,
-      "Столбов Александр Александрович": 30,
-      "Шилков Данил Евгеньевич": 20,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 16,
+      "gas:candidate-vibid:4664067140933": 485,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 19,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 35,
+      "gas:candidate-vibid:4664067141018": 30,
+      "gas:candidate-vibid:4664067140540": 20,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732992&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732992&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 11,
-      "Бидонько Сергей Юрьевич": 96,
-      "Жаркой Георгий Владимирович": 10,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 42,
-      "Столбов Александр Александрович": 54,
-      "Шилков Данил Евгеньевич": 60,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 11,
+      "gas:candidate-vibid:4664067140933": 96,
+      "gas:candidate-vibid:4664067155280": 10,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 42,
+      "gas:candidate-vibid:4664067141018": 54,
+      "gas:candidate-vibid:4664067140540": 60,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 70,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 24,
-      "Столбов Александр Александрович": 24,
-      "Шилков Данил Евгеньевич": 36,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 70,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 24,
+      "gas:candidate-vibid:4664067141018": 24,
+      "gas:candidate-vibid:4664067140540": 36,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 8,
-      "Бидонько Сергей Юрьевич": 59,
-      "Жаркой Георгий Владимирович": 4,
-      "Ильин Александр Михайлович": 3,
-      "Мордвов Лев Евгеньевич": 3,
-      "Семеновых Сергей Михайлович": 33,
-      "Столбов Александр Александрович": 18,
-      "Шилков Данил Евгеньевич": 27,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 8,
+      "gas:candidate-vibid:4664067140933": 59,
+      "gas:candidate-vibid:4664067155280": 4,
+      "gas:candidate-vibid:4664067155189": 3,
+      "gas:candidate-vibid:4664067155206": 3,
+      "gas:candidate-vibid:4664067140819": 33,
+      "gas:candidate-vibid:4664067141018": 18,
+      "gas:candidate-vibid:4664067140540": 27,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 10,
-      "Бидонько Сергей Юрьевич": 104,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 48,
-      "Столбов Александр Александрович": 28,
-      "Шилков Данил Евгеньевич": 61,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 10,
+      "gas:candidate-vibid:4664067140933": 104,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 48,
+      "gas:candidate-vibid:4664067141018": 28,
+      "gas:candidate-vibid:4664067140540": 61,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 53,
-      "Жаркой Георгий Владимирович": 3,
-      "Ильин Александр Михайлович": 1,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 24,
-      "Столбов Александр Александрович": 22,
-      "Шилков Данил Евгеньевич": 32,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 53,
+      "gas:candidate-vibid:4664067155280": 3,
+      "gas:candidate-vibid:4664067155189": 1,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 24,
+      "gas:candidate-vibid:4664067141018": 22,
+      "gas:candidate-vibid:4664067140540": 32,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 12,
-      "Бидонько Сергей Юрьевич": 107,
-      "Жаркой Георгий Владимирович": 9,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 5,
-      "Семеновых Сергей Михайлович": 30,
-      "Столбов Александр Александрович": 31,
-      "Шилков Данил Евгеньевич": 45,
-      "Шингаркин Максим Андреевич": 2
+      "gas:candidate-vibid:4664067155362": 12,
+      "gas:candidate-vibid:4664067140933": 107,
+      "gas:candidate-vibid:4664067155280": 9,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 5,
+      "gas:candidate-vibid:4664067140819": 30,
+      "gas:candidate-vibid:4664067141018": 31,
+      "gas:candidate-vibid:4664067140540": 45,
+      "gas:candidate-vibid:4664067155376": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 50,
-      "Жаркой Георгий Владимирович": 2,
-      "Ильин Александр Михайлович": 2,
-      "Мордвов Лев Евгеньевич": 3,
-      "Семеновых Сергей Михайлович": 18,
-      "Столбов Александр Александрович": 34,
-      "Шилков Данил Евгеньевич": 43,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 50,
+      "gas:candidate-vibid:4664067155280": 2,
+      "gas:candidate-vibid:4664067155189": 2,
+      "gas:candidate-vibid:4664067155206": 3,
+      "gas:candidate-vibid:4664067140819": 18,
+      "gas:candidate-vibid:4664067141018": 34,
+      "gas:candidate-vibid:4664067140540": 43,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 31,
-      "Бидонько Сергей Юрьевич": 264,
-      "Жаркой Георгий Владимирович": 15,
-      "Ильин Александр Михайлович": 14,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 73,
-      "Столбов Александр Александрович": 103,
-      "Шилков Данил Евгеньевич": 122,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 31,
+      "gas:candidate-vibid:4664067140933": 264,
+      "gas:candidate-vibid:4664067155280": 15,
+      "gas:candidate-vibid:4664067155189": 14,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 73,
+      "gas:candidate-vibid:4664067141018": 103,
+      "gas:candidate-vibid:4664067140540": 122,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 37,
-      "Бидонько Сергей Юрьевич": 247,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 4,
-      "Семеновых Сергей Михайлович": 85,
-      "Столбов Александр Александрович": 104,
-      "Шилков Данил Евгеньевич": 125,
-      "Шингаркин Максим Андреевич": 11
+      "gas:candidate-vibid:4664067155362": 37,
+      "gas:candidate-vibid:4664067140933": 247,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 4,
+      "gas:candidate-vibid:4664067140819": 85,
+      "gas:candidate-vibid:4664067141018": 104,
+      "gas:candidate-vibid:4664067140540": 125,
+      "gas:candidate-vibid:4664067155376": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 9,
-      "Бидонько Сергей Юрьевич": 130,
-      "Жаркой Георгий Владимирович": 6,
-      "Ильин Александр Михайлович": 5,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 60,
-      "Столбов Александр Александрович": 44,
-      "Шилков Данил Евгеньевич": 69,
-      "Шингаркин Максим Андреевич": 3
+      "gas:candidate-vibid:4664067155362": 9,
+      "gas:candidate-vibid:4664067140933": 130,
+      "gas:candidate-vibid:4664067155280": 6,
+      "gas:candidate-vibid:4664067155189": 5,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 60,
+      "gas:candidate-vibid:4664067141018": 44,
+      "gas:candidate-vibid:4664067140540": 69,
+      "gas:candidate-vibid:4664067155376": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 23,
-      "Бидонько Сергей Юрьевич": 270,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 13,
-      "Семеновых Сергей Михайлович": 124,
-      "Столбов Александр Александрович": 60,
-      "Шилков Данил Евгеньевич": 123,
-      "Шингаркин Максим Андреевич": 14
+      "gas:candidate-vibid:4664067155362": 23,
+      "gas:candidate-vibid:4664067140933": 270,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 13,
+      "gas:candidate-vibid:4664067140819": 124,
+      "gas:candidate-vibid:4664067141018": 60,
+      "gas:candidate-vibid:4664067140540": 123,
+      "gas:candidate-vibid:4664067155376": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 26,
-      "Бидонько Сергей Юрьевич": 203,
-      "Жаркой Георгий Владимирович": 13,
-      "Ильин Александр Михайлович": 12,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 78,
-      "Столбов Александр Александрович": 78,
-      "Шилков Данил Евгеньевич": 116,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 26,
+      "gas:candidate-vibid:4664067140933": 203,
+      "gas:candidate-vibid:4664067155280": 13,
+      "gas:candidate-vibid:4664067155189": 12,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 78,
+      "gas:candidate-vibid:4664067141018": 78,
+      "gas:candidate-vibid:4664067140540": 116,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 21,
-      "Бидонько Сергей Юрьевич": 185,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 11,
-      "Мордвов Лев Евгеньевич": 9,
-      "Семеновых Сергей Михайлович": 102,
-      "Столбов Александр Александрович": 52,
-      "Шилков Данил Евгеньевич": 88,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 21,
+      "gas:candidate-vibid:4664067140933": 185,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 11,
+      "gas:candidate-vibid:4664067155206": 9,
+      "gas:candidate-vibid:4664067140819": 102,
+      "gas:candidate-vibid:4664067141018": 52,
+      "gas:candidate-vibid:4664067140540": 88,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 13,
-      "Бидонько Сергей Юрьевич": 196,
-      "Жаркой Георгий Владимирович": 7,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 81,
-      "Столбов Александр Александрович": 52,
-      "Шилков Данил Евгеньевич": 82,
-      "Шингаркин Максим Андреевич": 7
+      "gas:candidate-vibid:4664067155362": 13,
+      "gas:candidate-vibid:4664067140933": 196,
+      "gas:candidate-vibid:4664067155280": 7,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 81,
+      "gas:candidate-vibid:4664067141018": 52,
+      "gas:candidate-vibid:4664067140540": 82,
+      "gas:candidate-vibid:4664067155376": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 28,
-      "Бидонько Сергей Юрьевич": 311,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 7,
-      "Мордвов Лев Евгеньевич": 6,
-      "Семеновых Сергей Михайлович": 138,
-      "Столбов Александр Александрович": 123,
-      "Шилков Данил Евгеньевич": 110,
-      "Шингаркин Максим Андреевич": 14
+      "gas:candidate-vibid:4664067155362": 28,
+      "gas:candidate-vibid:4664067140933": 311,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 7,
+      "gas:candidate-vibid:4664067155206": 6,
+      "gas:candidate-vibid:4664067140819": 138,
+      "gas:candidate-vibid:4664067141018": 123,
+      "gas:candidate-vibid:4664067140540": 110,
+      "gas:candidate-vibid:4664067155376": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 19,
-      "Бидонько Сергей Юрьевич": 275,
-      "Жаркой Георгий Владимирович": 8,
-      "Ильин Александр Михайлович": 13,
-      "Мордвов Лев Евгеньевич": 10,
-      "Семеновых Сергей Михайлович": 116,
-      "Столбов Александр Александрович": 118,
-      "Шилков Данил Евгеньевич": 90,
-      "Шингаркин Максим Андреевич": 8
+      "gas:candidate-vibid:4664067155362": 19,
+      "gas:candidate-vibid:4664067140933": 275,
+      "gas:candidate-vibid:4664067155280": 8,
+      "gas:candidate-vibid:4664067155189": 13,
+      "gas:candidate-vibid:4664067155206": 10,
+      "gas:candidate-vibid:4664067140819": 116,
+      "gas:candidate-vibid:4664067141018": 118,
+      "gas:candidate-vibid:4664067140540": 90,
+      "gas:candidate-vibid:4664067155376": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 38,
-      "Бидонько Сергей Юрьевич": 360,
-      "Жаркой Георгий Владимирович": 17,
-      "Ильин Александр Михайлович": 10,
-      "Мордвов Лев Евгеньевич": 21,
-      "Семеновых Сергей Михайлович": 182,
-      "Столбов Александр Александрович": 128,
-      "Шилков Данил Евгеньевич": 147,
-      "Шингаркин Максим Андреевич": 5
+      "gas:candidate-vibid:4664067155362": 38,
+      "gas:candidate-vibid:4664067140933": 360,
+      "gas:candidate-vibid:4664067155280": 17,
+      "gas:candidate-vibid:4664067155189": 10,
+      "gas:candidate-vibid:4664067155206": 21,
+      "gas:candidate-vibid:4664067140819": 182,
+      "gas:candidate-vibid:4664067141018": 128,
+      "gas:candidate-vibid:4664067140540": 147,
+      "gas:candidate-vibid:4664067155376": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 22,
-      "Бидонько Сергей Юрьевич": 300,
-      "Жаркой Георгий Владимирович": 16,
-      "Ильин Александр Михайлович": 8,
-      "Мордвов Лев Евгеньевич": 12,
-      "Семеновых Сергей Михайлович": 116,
-      "Столбов Александр Александрович": 107,
-      "Шилков Данил Евгеньевич": 96,
-      "Шингаркин Максим Андреевич": 13
+      "gas:candidate-vibid:4664067155362": 22,
+      "gas:candidate-vibid:4664067140933": 300,
+      "gas:candidate-vibid:4664067155280": 16,
+      "gas:candidate-vibid:4664067155189": 8,
+      "gas:candidate-vibid:4664067155206": 12,
+      "gas:candidate-vibid:4664067140819": 116,
+      "gas:candidate-vibid:4664067141018": 107,
+      "gas:candidate-vibid:4664067140540": 96,
+      "gas:candidate-vibid:4664067155376": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 2,
-      "Бидонько Сергей Юрьевич": 49,
-      "Жаркой Георгий Владимирович": 1,
-      "Ильин Александр Михайлович": 4,
-      "Мордвов Лев Евгеньевич": 0,
-      "Семеновых Сергей Михайлович": 5,
-      "Столбов Александр Александрович": 9,
-      "Шилков Данил Евгеньевич": 25,
-      "Шингаркин Максим Андреевич": 4
+      "gas:candidate-vibid:4664067155362": 2,
+      "gas:candidate-vibid:4664067140933": 49,
+      "gas:candidate-vibid:4664067155280": 1,
+      "gas:candidate-vibid:4664067155189": 4,
+      "gas:candidate-vibid:4664067155206": 0,
+      "gas:candidate-vibid:4664067140819": 5,
+      "gas:candidate-vibid:4664067141018": 9,
+      "gas:candidate-vibid:4664067140540": 25,
+      "gas:candidate-vibid:4664067155376": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 25,
-      "Бидонько Сергей Юрьевич": 214,
-      "Жаркой Георгий Владимирович": 5,
-      "Ильин Александр Михайлович": 9,
-      "Мордвов Лев Евгеньевич": 8,
-      "Семеновых Сергей Михайлович": 45,
-      "Столбов Александр Александрович": 78,
-      "Шилков Данил Евгеньевич": 101,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 25,
+      "gas:candidate-vibid:4664067140933": 214,
+      "gas:candidate-vibid:4664067155280": 5,
+      "gas:candidate-vibid:4664067155189": 9,
+      "gas:candidate-vibid:4664067155206": 8,
+      "gas:candidate-vibid:4664067140819": 45,
+      "gas:candidate-vibid:4664067141018": 78,
+      "gas:candidate-vibid:4664067140540": 101,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_66_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бастрыгина Галина Васильевна": 7,
-      "Бидонько Сергей Юрьевич": 100,
-      "Жаркой Георгий Владимирович": 12,
-      "Ильин Александр Михайлович": 0,
-      "Мордвов Лев Евгеньевич": 7,
-      "Семеновых Сергей Михайлович": 36,
-      "Столбов Александр Александрович": 53,
-      "Шилков Данил Евгеньевич": 42,
-      "Шингаркин Максим Андреевич": 6
+      "gas:candidate-vibid:4664067155362": 7,
+      "gas:candidate-vibid:4664067140933": 100,
+      "gas:candidate-vibid:4664067155280": 12,
+      "gas:candidate-vibid:4664067155189": 0,
+      "gas:candidate-vibid:4664067155206": 7,
+      "gas:candidate-vibid:4664067140819": 36,
+      "gas:candidate-vibid:4664067141018": 53,
+      "gas:candidate-vibid:4664067140540": 42,
+      "gas:candidate-vibid:4664067155376": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000228&tvd=26620001732993&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732993&type=464",

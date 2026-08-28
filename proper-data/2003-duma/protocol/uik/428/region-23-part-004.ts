@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 8,
-      "Горбачев Владимир Лукич": 574,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 8,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 12,
-      "Светлов Виктор Николаевич": 117,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000112191": 8,
+      "gas:candidate-vibid:1001000225914": 574,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 8,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 12,
+      "gas:candidate-vibid:1001000121813": 117,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 14,
-      "Горбачев Владимир Лукич": 394,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 3,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 41,
-      "Светлов Виктор Николаевич": 121,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112191": 14,
+      "gas:candidate-vibid:1001000225914": 394,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 3,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 41,
+      "gas:candidate-vibid:1001000121813": 121,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 6,
-      "Горбачев Владимир Лукич": 139,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 6,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 16,
-      "Светлов Виктор Николаевич": 17,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112191": 6,
+      "gas:candidate-vibid:1001000225914": 139,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 6,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 16,
+      "gas:candidate-vibid:1001000121813": 17,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 29,
-      "Горбачев Владимир Лукич": 470,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 11,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 12,
-      "Светлов Виктор Николаевич": 27,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000112191": 29,
+      "gas:candidate-vibid:1001000225914": 470,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 11,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 12,
+      "gas:candidate-vibid:1001000121813": 27,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 3,
-      "Горбачев Владимир Лукич": 397,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 8,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 2,
-      "Светлов Виктор Николаевич": 95,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000112191": 3,
+      "gas:candidate-vibid:1001000225914": 397,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 8,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 2,
+      "gas:candidate-vibid:1001000121813": 95,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 182,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 0,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 0,
-      "Светлов Виктор Николаевич": 32,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 182,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 0,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 0,
+      "gas:candidate-vibid:1001000121813": 32,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 8,
-      "Горбачев Владимир Лукич": 306,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 4,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 5,
-      "Светлов Виктор Николаевич": 52,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112191": 8,
+      "gas:candidate-vibid:1001000225914": 306,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 4,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 5,
+      "gas:candidate-vibid:1001000121813": 52,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 34,
-      "Горбачев Владимир Лукич": 538,
-      "Грецой Дмитрий Анатольевич": 11,
-      "Дьяков Николай Андреевич": 41,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 10,
-      "Сафронов Анатолий Николаевич": 50,
-      "Светлов Виктор Николаевич": 315,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000112191": 34,
+      "gas:candidate-vibid:1001000225914": 538,
+      "gas:candidate-vibid:323300570466": 11,
+      "gas:candidate-vibid:1001000136016": 41,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 10,
+      "gas:candidate-vibid:1001000187993": 50,
+      "gas:candidate-vibid:1001000121813": 315,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 12,
-      "Горбачев Владимир Лукич": 292,
-      "Грецой Дмитрий Анатольевич": 4,
-      "Дьяков Николай Андреевич": 11,
-      "Лакеев Владимир Михайлович": 4,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 16,
-      "Светлов Виктор Николаевич": 23,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112191": 12,
+      "gas:candidate-vibid:1001000225914": 292,
+      "gas:candidate-vibid:323300570466": 4,
+      "gas:candidate-vibid:1001000136016": 11,
+      "gas:candidate-vibid:1001000195045": 4,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 16,
+      "gas:candidate-vibid:1001000121813": 23,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 15,
-      "Горбачев Владимир Лукич": 667,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 19,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 52,
-      "Светлов Виктор Николаевич": 68,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000112191": 15,
+      "gas:candidate-vibid:1001000225914": 667,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 19,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 52,
+      "gas:candidate-vibid:1001000121813": 68,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 389,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 8,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 25,
-      "Светлов Виктор Николаевич": 106,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 389,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 8,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 25,
+      "gas:candidate-vibid:1001000121813": 106,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 13,
-      "Горбачев Владимир Лукич": 988,
-      "Грецой Дмитрий Анатольевич": 9,
-      "Дьяков Николай Андреевич": 26,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 23,
-      "Светлов Виктор Николаевич": 107,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000112191": 13,
+      "gas:candidate-vibid:1001000225914": 988,
+      "gas:candidate-vibid:323300570466": 9,
+      "gas:candidate-vibid:1001000136016": 26,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 23,
+      "gas:candidate-vibid:1001000121813": 107,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 5,
-      "Горбачев Владимир Лукич": 244,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 0,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 5,
-      "Светлов Виктор Николаевич": 12,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112191": 5,
+      "gas:candidate-vibid:1001000225914": 244,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 0,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 5,
+      "gas:candidate-vibid:1001000121813": 12,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 31,
-      "Горбачев Владимир Лукич": 463,
-      "Грецой Дмитрий Анатольевич": 4,
-      "Дьяков Николай Андреевич": 36,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 21,
-      "Светлов Виктор Николаевич": 104,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000112191": 31,
+      "gas:candidate-vibid:1001000225914": 463,
+      "gas:candidate-vibid:323300570466": 4,
+      "gas:candidate-vibid:1001000136016": 36,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 21,
+      "gas:candidate-vibid:1001000121813": 104,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070380&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 30,
-      "Горбачев Владимир Лукич": 1007,
-      "Грецой Дмитрий Анатольевич": 7,
-      "Дьяков Николай Андреевич": 30,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 72,
-      "Светлов Виктор Николаевич": 108,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000112191": 30,
+      "gas:candidate-vibid:1001000225914": 1007,
+      "gas:candidate-vibid:323300570466": 7,
+      "gas:candidate-vibid:1001000136016": 30,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 72,
+      "gas:candidate-vibid:1001000121813": 108,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 27,
-      "Горбачев Владимир Лукич": 887,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 27,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 72,
-      "Светлов Виктор Николаевич": 144,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000112191": 27,
+      "gas:candidate-vibid:1001000225914": 887,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 27,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 72,
+      "gas:candidate-vibid:1001000121813": 144,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 58,
-      "Горбачев Владимир Лукич": 1099,
-      "Грецой Дмитрий Анатольевич": 10,
-      "Дьяков Николай Андреевич": 34,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 80,
-      "Светлов Виктор Николаевич": 172,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000112191": 58,
+      "gas:candidate-vibid:1001000225914": 1099,
+      "gas:candidate-vibid:323300570466": 10,
+      "gas:candidate-vibid:1001000136016": 34,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 80,
+      "gas:candidate-vibid:1001000121813": 172,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 28,
-      "Горбачев Владимир Лукич": 976,
-      "Грецой Дмитрий Анатольевич": 13,
-      "Дьяков Николай Андреевич": 37,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 11,
-      "Сафронов Анатолий Николаевич": 71,
-      "Светлов Виктор Николаевич": 101,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000112191": 28,
+      "gas:candidate-vibid:1001000225914": 976,
+      "gas:candidate-vibid:323300570466": 13,
+      "gas:candidate-vibid:1001000136016": 37,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 11,
+      "gas:candidate-vibid:1001000187993": 71,
+      "gas:candidate-vibid:1001000121813": 101,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 0,
-      "Горбачев Владимир Лукич": 233,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 2,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 5,
-      "Светлов Виктор Николаевич": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112191": 0,
+      "gas:candidate-vibid:1001000225914": 233,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 2,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 5,
+      "gas:candidate-vibid:1001000121813": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 9,
-      "Горбачев Владимир Лукич": 619,
-      "Грецой Дмитрий Анатольевич": 9,
-      "Дьяков Николай Андреевич": 10,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 19,
-      "Светлов Виктор Николаевич": 66,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000112191": 9,
+      "gas:candidate-vibid:1001000225914": 619,
+      "gas:candidate-vibid:323300570466": 9,
+      "gas:candidate-vibid:1001000136016": 10,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 19,
+      "gas:candidate-vibid:1001000121813": 66,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 32,
-      "Горбачев Владимир Лукич": 732,
-      "Грецой Дмитрий Анатольевич": 8,
-      "Дьяков Николай Андреевич": 31,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 8,
-      "Сафронов Анатолий Николаевич": 32,
-      "Светлов Виктор Николаевич": 141,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112191": 32,
+      "gas:candidate-vibid:1001000225914": 732,
+      "gas:candidate-vibid:323300570466": 8,
+      "gas:candidate-vibid:1001000136016": 31,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 8,
+      "gas:candidate-vibid:1001000187993": 32,
+      "gas:candidate-vibid:1001000121813": 141,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 17,
-      "Горбачев Владимир Лукич": 486,
-      "Грецой Дмитрий Анатольевич": 12,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 11,
-      "Светлов Виктор Николаевич": 116,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112191": 17,
+      "gas:candidate-vibid:1001000225914": 486,
+      "gas:candidate-vibid:323300570466": 12,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 11,
+      "gas:candidate-vibid:1001000121813": 116,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 21,
-      "Горбачев Владимир Лукич": 847,
-      "Грецой Дмитрий Анатольевич": 12,
-      "Дьяков Николай Андреевич": 28,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 6,
-      "Сафронов Анатолий Николаевич": 26,
-      "Светлов Виктор Николаевич": 146,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112191": 21,
+      "gas:candidate-vibid:1001000225914": 847,
+      "gas:candidate-vibid:323300570466": 12,
+      "gas:candidate-vibid:1001000136016": 28,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 6,
+      "gas:candidate-vibid:1001000187993": 26,
+      "gas:candidate-vibid:1001000121813": 146,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 32,
-      "Горбачев Владимир Лукич": 1137,
-      "Грецой Дмитрий Анатольевич": 7,
-      "Дьяков Николай Андреевич": 34,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 31,
-      "Светлов Виктор Николаевич": 278,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000112191": 32,
+      "gas:candidate-vibid:1001000225914": 1137,
+      "gas:candidate-vibid:323300570466": 7,
+      "gas:candidate-vibid:1001000136016": 34,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 31,
+      "gas:candidate-vibid:1001000121813": 278,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 27,
-      "Горбачев Владимир Лукич": 1032,
-      "Грецой Дмитрий Анатольевич": 13,
-      "Дьяков Николай Андреевич": 32,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 41,
-      "Светлов Виктор Николаевич": 180,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000112191": 27,
+      "gas:candidate-vibid:1001000225914": 1032,
+      "gas:candidate-vibid:323300570466": 13,
+      "gas:candidate-vibid:1001000136016": 32,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 41,
+      "gas:candidate-vibid:1001000121813": 180,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 25,
-      "Горбачев Владимир Лукич": 1086,
-      "Грецой Дмитрий Анатольевич": 12,
-      "Дьяков Николай Андреевич": 42,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 6,
-      "Сафронов Анатолий Николаевич": 23,
-      "Светлов Виктор Николаевич": 188,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112191": 25,
+      "gas:candidate-vibid:1001000225914": 1086,
+      "gas:candidate-vibid:323300570466": 12,
+      "gas:candidate-vibid:1001000136016": 42,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 6,
+      "gas:candidate-vibid:1001000187993": 23,
+      "gas:candidate-vibid:1001000121813": 188,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 619,
-      "Грецой Дмитрий Анатольевич": 10,
-      "Дьяков Николай Андреевич": 17,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 7,
-      "Светлов Виктор Николаевич": 84,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 619,
+      "gas:candidate-vibid:323300570466": 10,
+      "gas:candidate-vibid:1001000136016": 17,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 7,
+      "gas:candidate-vibid:1001000121813": 84,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 168,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 3,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 6,
-      "Светлов Виктор Николаевич": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 168,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 3,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 6,
+      "gas:candidate-vibid:1001000121813": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 7,
-      "Горбачев Владимир Лукич": 561,
-      "Грецой Дмитрий Анатольевич": 8,
-      "Дьяков Николай Андреевич": 10,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 2,
-      "Светлов Виктор Николаевич": 106,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112191": 7,
+      "gas:candidate-vibid:1001000225914": 561,
+      "gas:candidate-vibid:323300570466": 8,
+      "gas:candidate-vibid:1001000136016": 10,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 2,
+      "gas:candidate-vibid:1001000121813": 106,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 461,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 1,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 7,
-      "Светлов Виктор Николаевич": 44,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 461,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 1,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 7,
+      "gas:candidate-vibid:1001000121813": 44,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 1,
-      "Горбачев Владимир Лукич": 349,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 0,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 0,
-      "Светлов Виктор Николаевич": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112191": 1,
+      "gas:candidate-vibid:1001000225914": 349,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 0,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 0,
+      "gas:candidate-vibid:1001000121813": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 13,
-      "Горбачев Владимир Лукич": 341,
-      "Грецой Дмитрий Анатольевич": 4,
-      "Дьяков Николай Андреевич": 3,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 11,
-      "Светлов Виктор Николаевич": 38,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112191": 13,
+      "gas:candidate-vibid:1001000225914": 341,
+      "gas:candidate-vibid:323300570466": 4,
+      "gas:candidate-vibid:1001000136016": 3,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 11,
+      "gas:candidate-vibid:1001000121813": 38,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 27,
-      "Горбачев Владимир Лукич": 1227,
-      "Грецой Дмитрий Анатольевич": 15,
-      "Дьяков Николай Андреевич": 36,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 15,
-      "Сафронов Анатолий Николаевич": 29,
-      "Светлов Виктор Николаевич": 181,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112191": 27,
+      "gas:candidate-vibid:1001000225914": 1227,
+      "gas:candidate-vibid:323300570466": 15,
+      "gas:candidate-vibid:1001000136016": 36,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 15,
+      "gas:candidate-vibid:1001000187993": 29,
+      "gas:candidate-vibid:1001000121813": 181,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 169,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 2,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 3,
-      "Светлов Виктор Николаевич": 24,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 169,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 2,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 3,
+      "gas:candidate-vibid:1001000121813": 24,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 25,
-      "Горбачев Владимир Лукич": 452,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 21,
-      "Лакеев Владимир Михайлович": 4,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 11,
-      "Светлов Виктор Николаевич": 132,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000112191": 25,
+      "gas:candidate-vibid:1001000225914": 452,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 21,
+      "gas:candidate-vibid:1001000195045": 4,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 11,
+      "gas:candidate-vibid:1001000121813": 132,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 553,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 7,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 6,
-      "Светлов Виктор Николаевич": 69,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 553,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 7,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 6,
+      "gas:candidate-vibid:1001000121813": 69,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 11,
-      "Горбачев Владимир Лукич": 734,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 8,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 11,
-      "Светлов Виктор Николаевич": 154,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000112191": 11,
+      "gas:candidate-vibid:1001000225914": 734,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 8,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 11,
+      "gas:candidate-vibid:1001000121813": 154,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 16,
-      "Горбачев Владимир Лукич": 750,
-      "Грецой Дмитрий Анатольевич": 7,
-      "Дьяков Николай Андреевич": 19,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 7,
-      "Светлов Виктор Николаевич": 134,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000112191": 16,
+      "gas:candidate-vibid:1001000225914": 750,
+      "gas:candidate-vibid:323300570466": 7,
+      "gas:candidate-vibid:1001000136016": 19,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 7,
+      "gas:candidate-vibid:1001000121813": 134,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 3,
-      "Горбачев Владимир Лукич": 231,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 3,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 2,
-      "Светлов Виктор Николаевич": 19,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112191": 3,
+      "gas:candidate-vibid:1001000225914": 231,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 3,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 2,
+      "gas:candidate-vibid:1001000121813": 19,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070381&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 24,
-      "Горбачев Владимир Лукич": 618,
-      "Грецой Дмитрий Анатольевич": 28,
-      "Дьяков Николай Андреевич": 21,
-      "Лакеев Владимир Михайлович": 5,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 30,
-      "Светлов Виктор Николаевич": 78,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000112191": 24,
+      "gas:candidate-vibid:1001000225914": 618,
+      "gas:candidate-vibid:323300570466": 28,
+      "gas:candidate-vibid:1001000136016": 21,
+      "gas:candidate-vibid:1001000195045": 5,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 30,
+      "gas:candidate-vibid:1001000121813": 78,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 34,
-      "Горбачев Владимир Лукич": 909,
-      "Грецой Дмитрий Анатольевич": 42,
-      "Дьяков Николай Андреевич": 17,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 6,
-      "Сафронов Анатолий Николаевич": 47,
-      "Светлов Виктор Николаевич": 201,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000112191": 34,
+      "gas:candidate-vibid:1001000225914": 909,
+      "gas:candidate-vibid:323300570466": 42,
+      "gas:candidate-vibid:1001000136016": 17,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 6,
+      "gas:candidate-vibid:1001000187993": 47,
+      "gas:candidate-vibid:1001000121813": 201,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 29,
-      "Горбачев Владимир Лукич": 795,
-      "Грецой Дмитрий Анатольевич": 25,
-      "Дьяков Николай Андреевич": 28,
-      "Лакеев Владимир Михайлович": 5,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 47,
-      "Светлов Виктор Николаевич": 222,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000112191": 29,
+      "gas:candidate-vibid:1001000225914": 795,
+      "gas:candidate-vibid:323300570466": 25,
+      "gas:candidate-vibid:1001000136016": 28,
+      "gas:candidate-vibid:1001000195045": 5,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 47,
+      "gas:candidate-vibid:1001000121813": 222,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 35,
-      "Горбачев Владимир Лукич": 665,
-      "Грецой Дмитрий Анатольевич": 27,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 27,
-      "Светлов Виктор Николаевич": 124,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000112191": 35,
+      "gas:candidate-vibid:1001000225914": 665,
+      "gas:candidate-vibid:323300570466": 27,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 27,
+      "gas:candidate-vibid:1001000121813": 124,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 41,
-      "Горбачев Владимир Лукич": 562,
-      "Грецой Дмитрий Анатольевич": 35,
-      "Дьяков Николай Андреевич": 26,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 8,
-      "Сафронов Анатолий Николаевич": 37,
-      "Светлов Виктор Николаевич": 130,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112191": 41,
+      "gas:candidate-vibid:1001000225914": 562,
+      "gas:candidate-vibid:323300570466": 35,
+      "gas:candidate-vibid:1001000136016": 26,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 8,
+      "gas:candidate-vibid:1001000187993": 37,
+      "gas:candidate-vibid:1001000121813": 130,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 28,
-      "Горбачев Владимир Лукич": 606,
-      "Грецой Дмитрий Анатольевич": 29,
-      "Дьяков Николай Андреевич": 15,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 34,
-      "Светлов Виктор Николаевич": 122,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112191": 28,
+      "gas:candidate-vibid:1001000225914": 606,
+      "gas:candidate-vibid:323300570466": 29,
+      "gas:candidate-vibid:1001000136016": 15,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 34,
+      "gas:candidate-vibid:1001000121813": 122,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 41,
-      "Горбачев Владимир Лукич": 1083,
-      "Грецой Дмитрий Анатольевич": 29,
-      "Дьяков Николай Андреевич": 17,
-      "Лакеев Владимир Михайлович": 5,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 48,
-      "Светлов Виктор Николаевич": 114,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000112191": 41,
+      "gas:candidate-vibid:1001000225914": 1083,
+      "gas:candidate-vibid:323300570466": 29,
+      "gas:candidate-vibid:1001000136016": 17,
+      "gas:candidate-vibid:1001000195045": 5,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 48,
+      "gas:candidate-vibid:1001000121813": 114,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 37,
-      "Горбачев Владимир Лукич": 863,
-      "Грецой Дмитрий Анатольевич": 46,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 4,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 32,
-      "Светлов Виктор Николаевич": 205,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112191": 37,
+      "gas:candidate-vibid:1001000225914": 863,
+      "gas:candidate-vibid:323300570466": 46,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 4,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 32,
+      "gas:candidate-vibid:1001000121813": 205,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 26,
-      "Горбачев Владимир Лукич": 618,
-      "Грецой Дмитрий Анатольевич": 31,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 4,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 36,
-      "Светлов Виктор Николаевич": 131,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000112191": 26,
+      "gas:candidate-vibid:1001000225914": 618,
+      "gas:candidate-vibid:323300570466": 31,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 4,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 36,
+      "gas:candidate-vibid:1001000121813": 131,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 9,
-      "Горбачев Владимир Лукич": 623,
-      "Грецой Дмитрий Анатольевич": 25,
-      "Дьяков Николай Андреевич": 22,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 39,
-      "Светлов Виктор Николаевич": 95,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000112191": 9,
+      "gas:candidate-vibid:1001000225914": 623,
+      "gas:candidate-vibid:323300570466": 25,
+      "gas:candidate-vibid:1001000136016": 22,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 39,
+      "gas:candidate-vibid:1001000121813": 95,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 24,
-      "Горбачев Владимир Лукич": 535,
-      "Грецой Дмитрий Анатольевич": 40,
-      "Дьяков Николай Андреевич": 6,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 8,
-      "Светлов Виктор Николаевич": 113,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000112191": 24,
+      "gas:candidate-vibid:1001000225914": 535,
+      "gas:candidate-vibid:323300570466": 40,
+      "gas:candidate-vibid:1001000136016": 6,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 8,
+      "gas:candidate-vibid:1001000121813": 113,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 31,
-      "Горбачев Владимир Лукич": 612,
-      "Грецой Дмитрий Анатольевич": 61,
-      "Дьяков Николай Андреевич": 16,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 14,
-      "Светлов Виктор Николаевич": 111,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000112191": 31,
+      "gas:candidate-vibid:1001000225914": 612,
+      "gas:candidate-vibid:323300570466": 61,
+      "gas:candidate-vibid:1001000136016": 16,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 14,
+      "gas:candidate-vibid:1001000121813": 111,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 28,
-      "Горбачев Владимир Лукич": 746,
-      "Грецой Дмитрий Анатольевич": 49,
-      "Дьяков Николай Андреевич": 18,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 31,
-      "Светлов Виктор Николаевич": 126,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000112191": 28,
+      "gas:candidate-vibid:1001000225914": 746,
+      "gas:candidate-vibid:323300570466": 49,
+      "gas:candidate-vibid:1001000136016": 18,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 31,
+      "gas:candidate-vibid:1001000121813": 126,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 13,
-      "Горбачев Владимир Лукич": 397,
-      "Грецой Дмитрий Анатольевич": 14,
-      "Дьяков Николай Андреевич": 19,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 14,
-      "Светлов Виктор Николаевич": 101,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112191": 13,
+      "gas:candidate-vibid:1001000225914": 397,
+      "gas:candidate-vibid:323300570466": 14,
+      "gas:candidate-vibid:1001000136016": 19,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 14,
+      "gas:candidate-vibid:1001000121813": 101,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 40,
-      "Горбачев Владимир Лукич": 1098,
-      "Грецой Дмитрий Анатольевич": 52,
-      "Дьяков Николай Андреевич": 29,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 40,
-      "Светлов Виктор Николаевич": 163,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112191": 40,
+      "gas:candidate-vibid:1001000225914": 1098,
+      "gas:candidate-vibid:323300570466": 52,
+      "gas:candidate-vibid:1001000136016": 29,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 40,
+      "gas:candidate-vibid:1001000121813": 163,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 11,
-      "Горбачев Владимир Лукич": 415,
-      "Грецой Дмитрий Анатольевич": 14,
-      "Дьяков Николай Андреевич": 12,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 6,
-      "Сафронов Анатолий Николаевич": 17,
-      "Светлов Виктор Николаевич": 77,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112191": 11,
+      "gas:candidate-vibid:1001000225914": 415,
+      "gas:candidate-vibid:323300570466": 14,
+      "gas:candidate-vibid:1001000136016": 12,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 6,
+      "gas:candidate-vibid:1001000187993": 17,
+      "gas:candidate-vibid:1001000121813": 77,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 345,
-      "Грецой Дмитрий Анатольевич": 7,
-      "Дьяков Николай Андреевич": 8,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 9,
-      "Светлов Виктор Николаевич": 33,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 345,
+      "gas:candidate-vibid:323300570466": 7,
+      "gas:candidate-vibid:1001000136016": 8,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 9,
+      "gas:candidate-vibid:1001000121813": 33,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 30,
-      "Горбачев Владимир Лукич": 1007,
-      "Грецой Дмитрий Анатольевич": 28,
-      "Дьяков Николай Андреевич": 34,
-      "Лакеев Владимир Михайлович": 5,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 13,
-      "Светлов Виктор Николаевич": 150,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000112191": 30,
+      "gas:candidate-vibid:1001000225914": 1007,
+      "gas:candidate-vibid:323300570466": 28,
+      "gas:candidate-vibid:1001000136016": 34,
+      "gas:candidate-vibid:1001000195045": 5,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 13,
+      "gas:candidate-vibid:1001000121813": 150,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 35,
-      "Горбачев Владимир Лукич": 922,
-      "Грецой Дмитрий Анатольевич": 13,
-      "Дьяков Николай Андреевич": 24,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 6,
-      "Сафронов Анатолий Николаевич": 19,
-      "Светлов Виктор Николаевич": 126,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000112191": 35,
+      "gas:candidate-vibid:1001000225914": 922,
+      "gas:candidate-vibid:323300570466": 13,
+      "gas:candidate-vibid:1001000136016": 24,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 6,
+      "gas:candidate-vibid:1001000187993": 19,
+      "gas:candidate-vibid:1001000121813": 126,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 17,
-      "Горбачев Владимир Лукич": 991,
-      "Грецой Дмитрий Анатольевич": 15,
-      "Дьяков Николай Андреевич": 23,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 27,
-      "Светлов Виктор Николаевич": 119,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000112191": 17,
+      "gas:candidate-vibid:1001000225914": 991,
+      "gas:candidate-vibid:323300570466": 15,
+      "gas:candidate-vibid:1001000136016": 23,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 27,
+      "gas:candidate-vibid:1001000121813": 119,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 17,
-      "Горбачев Владимир Лукич": 678,
-      "Грецой Дмитрий Анатольевич": 15,
-      "Дьяков Николай Андреевич": 12,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 25,
-      "Светлов Виктор Николаевич": 117,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112191": 17,
+      "gas:candidate-vibid:1001000225914": 678,
+      "gas:candidate-vibid:323300570466": 15,
+      "gas:candidate-vibid:1001000136016": 12,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 25,
+      "gas:candidate-vibid:1001000121813": 117,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 20,
-      "Горбачев Владимир Лукич": 591,
-      "Грецой Дмитрий Анатольевич": 37,
-      "Дьяков Николай Андреевич": 32,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 15,
-      "Светлов Виктор Николаевич": 159,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000112191": 20,
+      "gas:candidate-vibid:1001000225914": 591,
+      "gas:candidate-vibid:323300570466": 37,
+      "gas:candidate-vibid:1001000136016": 32,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 15,
+      "gas:candidate-vibid:1001000121813": 159,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 32,
-      "Горбачев Владимир Лукич": 550,
-      "Грецой Дмитрий Анатольевич": 31,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 14,
-      "Светлов Виктор Николаевич": 115,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000112191": 32,
+      "gas:candidate-vibid:1001000225914": 550,
+      "gas:candidate-vibid:323300570466": 31,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 14,
+      "gas:candidate-vibid:1001000121813": 115,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 25,
-      "Горбачев Владимир Лукич": 455,
-      "Грецой Дмитрий Анатольевич": 14,
-      "Дьяков Николай Андреевич": 18,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 8,
-      "Светлов Виктор Николаевич": 141,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000112191": 25,
+      "gas:candidate-vibid:1001000225914": 455,
+      "gas:candidate-vibid:323300570466": 14,
+      "gas:candidate-vibid:1001000136016": 18,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 8,
+      "gas:candidate-vibid:1001000121813": 141,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 30,
-      "Горбачев Владимир Лукич": 513,
-      "Грецой Дмитрий Анатольевич": 32,
-      "Дьяков Николай Андреевич": 10,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 24,
-      "Светлов Виктор Николаевич": 114,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000112191": 30,
+      "gas:candidate-vibid:1001000225914": 513,
+      "gas:candidate-vibid:323300570466": 32,
+      "gas:candidate-vibid:1001000136016": 10,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 24,
+      "gas:candidate-vibid:1001000121813": 114,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 25,
-      "Горбачев Владимир Лукич": 722,
-      "Грецой Дмитрий Анатольевич": 25,
-      "Дьяков Николай Андреевич": 41,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 16,
-      "Светлов Виктор Николаевич": 132,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000112191": 25,
+      "gas:candidate-vibid:1001000225914": 722,
+      "gas:candidate-vibid:323300570466": 25,
+      "gas:candidate-vibid:1001000136016": 41,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 16,
+      "gas:candidate-vibid:1001000121813": 132,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 29,
-      "Горбачев Владимир Лукич": 825,
-      "Грецой Дмитрий Анатольевич": 19,
-      "Дьяков Николай Андреевич": 22,
-      "Лакеев Владимир Михайлович": 6,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 39,
-      "Светлов Виктор Николаевич": 71,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000112191": 29,
+      "gas:candidate-vibid:1001000225914": 825,
+      "gas:candidate-vibid:323300570466": 19,
+      "gas:candidate-vibid:1001000136016": 22,
+      "gas:candidate-vibid:1001000195045": 6,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 39,
+      "gas:candidate-vibid:1001000121813": 71,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 8,
-      "Горбачев Владимир Лукич": 905,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 31,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 31,
-      "Светлов Виктор Николаевич": 78,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112191": 8,
+      "gas:candidate-vibid:1001000225914": 905,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 31,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 31,
+      "gas:candidate-vibid:1001000121813": 78,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 14,
-      "Горбачев Владимир Лукич": 953,
-      "Грецой Дмитрий Анатольевич": 13,
-      "Дьяков Николай Андреевич": 18,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 25,
-      "Светлов Виктор Николаевич": 105,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000112191": 14,
+      "gas:candidate-vibid:1001000225914": 953,
+      "gas:candidate-vibid:323300570466": 13,
+      "gas:candidate-vibid:1001000136016": 18,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 25,
+      "gas:candidate-vibid:1001000121813": 105,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 20,
-      "Горбачев Владимир Лукич": 967,
-      "Грецой Дмитрий Анатольевич": 11,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 21,
-      "Светлов Виктор Николаевич": 123,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112191": 20,
+      "gas:candidate-vibid:1001000225914": 967,
+      "gas:candidate-vibid:323300570466": 11,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 21,
+      "gas:candidate-vibid:1001000121813": 123,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 12,
-      "Горбачев Владимир Лукич": 299,
-      "Грецой Дмитрий Анатольевич": 17,
-      "Дьяков Николай Андреевич": 12,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 19,
-      "Светлов Виктор Николаевич": 59,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000112191": 12,
+      "gas:candidate-vibid:1001000225914": 299,
+      "gas:candidate-vibid:323300570466": 17,
+      "gas:candidate-vibid:1001000136016": 12,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 19,
+      "gas:candidate-vibid:1001000121813": 59,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 35,
-      "Горбачев Владимир Лукич": 595,
-      "Грецой Дмитрий Анатольевич": 24,
-      "Дьяков Николай Андреевич": 22,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 37,
-      "Светлов Виктор Николаевич": 122,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000112191": 35,
+      "gas:candidate-vibid:1001000225914": 595,
+      "gas:candidate-vibid:323300570466": 24,
+      "gas:candidate-vibid:1001000136016": 22,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 37,
+      "gas:candidate-vibid:1001000121813": 122,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 36,
-      "Горбачев Владимир Лукич": 590,
-      "Грецой Дмитрий Анатольевич": 33,
-      "Дьяков Николай Андреевич": 37,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 9,
-      "Сафронов Анатолий Николаевич": 26,
-      "Светлов Виктор Николаевич": 181,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000112191": 36,
+      "gas:candidate-vibid:1001000225914": 590,
+      "gas:candidate-vibid:323300570466": 33,
+      "gas:candidate-vibid:1001000136016": 37,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 9,
+      "gas:candidate-vibid:1001000187993": 26,
+      "gas:candidate-vibid:1001000121813": 181,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 40,
-      "Горбачев Владимир Лукич": 643,
-      "Грецой Дмитрий Анатольевич": 24,
-      "Дьяков Николай Андреевич": 29,
-      "Лакеев Владимир Михайлович": 6,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 43,
-      "Светлов Виктор Николаевич": 136,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000112191": 40,
+      "gas:candidate-vibid:1001000225914": 643,
+      "gas:candidate-vibid:323300570466": 24,
+      "gas:candidate-vibid:1001000136016": 29,
+      "gas:candidate-vibid:1001000195045": 6,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 43,
+      "gas:candidate-vibid:1001000121813": 136,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 14,
-      "Горбачев Владимир Лукич": 502,
-      "Грецой Дмитрий Анатольевич": 25,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 29,
-      "Светлов Виктор Николаевич": 117,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000112191": 14,
+      "gas:candidate-vibid:1001000225914": 502,
+      "gas:candidate-vibid:323300570466": 25,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 29,
+      "gas:candidate-vibid:1001000121813": 117,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 42,
-      "Горбачев Владимир Лукич": 693,
-      "Грецой Дмитрий Анатольевич": 26,
-      "Дьяков Николай Андреевич": 47,
-      "Лакеев Владимир Михайлович": 7,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 39,
-      "Светлов Виктор Николаевич": 199,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112191": 42,
+      "gas:candidate-vibid:1001000225914": 693,
+      "gas:candidate-vibid:323300570466": 26,
+      "gas:candidate-vibid:1001000136016": 47,
+      "gas:candidate-vibid:1001000195045": 7,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 39,
+      "gas:candidate-vibid:1001000121813": 199,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 42,
-      "Горбачев Владимир Лукич": 878,
-      "Грецой Дмитрий Анатольевич": 38,
-      "Дьяков Николай Андреевич": 30,
-      "Лакеев Владимир Михайлович": 7,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 68,
-      "Светлов Виктор Николаевич": 163,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000112191": 42,
+      "gas:candidate-vibid:1001000225914": 878,
+      "gas:candidate-vibid:323300570466": 38,
+      "gas:candidate-vibid:1001000136016": 30,
+      "gas:candidate-vibid:1001000195045": 7,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 68,
+      "gas:candidate-vibid:1001000121813": 163,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 80,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 7,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 2,
-      "Светлов Виктор Николаевич": 36,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 80,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 7,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 2,
+      "gas:candidate-vibid:1001000121813": 36,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 10,
-      "Горбачев Владимир Лукич": 198,
-      "Грецой Дмитрий Анатольевич": 9,
-      "Дьяков Николай Андреевич": 12,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 9,
-      "Светлов Виктор Николаевич": 63,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112191": 10,
+      "gas:candidate-vibid:1001000225914": 198,
+      "gas:candidate-vibid:323300570466": 9,
+      "gas:candidate-vibid:1001000136016": 12,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 9,
+      "gas:candidate-vibid:1001000121813": 63,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 37,
-      "Горбачев Владимир Лукич": 486,
-      "Грецой Дмитрий Анатольевич": 26,
-      "Дьяков Николай Андреевич": 26,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 13,
-      "Светлов Виктор Николаевич": 94,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000112191": 37,
+      "gas:candidate-vibid:1001000225914": 486,
+      "gas:candidate-vibid:323300570466": 26,
+      "gas:candidate-vibid:1001000136016": 26,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 13,
+      "gas:candidate-vibid:1001000121813": 94,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 60,
-      "Горбачев Владимир Лукич": 1144,
-      "Грецой Дмитрий Анатольевич": 28,
-      "Дьяков Николай Андреевич": 62,
-      "Лакеев Владимир Михайлович": 6,
-      "Мирошников Виталий Сергеевич": 7,
-      "Сафронов Анатолий Николаевич": 66,
-      "Светлов Виктор Николаевич": 135,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000112191": 60,
+      "gas:candidate-vibid:1001000225914": 1144,
+      "gas:candidate-vibid:323300570466": 28,
+      "gas:candidate-vibid:1001000136016": 62,
+      "gas:candidate-vibid:1001000195045": 6,
+      "gas:candidate-vibid:323300570806": 7,
+      "gas:candidate-vibid:1001000187993": 66,
+      "gas:candidate-vibid:1001000121813": 135,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 18,
-      "Горбачев Владимир Лукич": 450,
-      "Грецой Дмитрий Анатольевич": 16,
-      "Дьяков Николай Андреевич": 16,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 9,
-      "Сафронов Анатолий Николаевич": 47,
-      "Светлов Виктор Николаевич": 163,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000112191": 18,
+      "gas:candidate-vibid:1001000225914": 450,
+      "gas:candidate-vibid:323300570466": 16,
+      "gas:candidate-vibid:1001000136016": 16,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 9,
+      "gas:candidate-vibid:1001000187993": 47,
+      "gas:candidate-vibid:1001000121813": 163,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 21,
-      "Горбачев Владимир Лукич": 399,
-      "Грецой Дмитрий Анатольевич": 18,
-      "Дьяков Николай Андреевич": 19,
-      "Лакеев Владимир Михайлович": 6,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 27,
-      "Светлов Виктор Николаевич": 85,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000112191": 21,
+      "gas:candidate-vibid:1001000225914": 399,
+      "gas:candidate-vibid:323300570466": 18,
+      "gas:candidate-vibid:1001000136016": 19,
+      "gas:candidate-vibid:1001000195045": 6,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 27,
+      "gas:candidate-vibid:1001000121813": 85,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 16,
-      "Горбачев Владимир Лукич": 329,
-      "Грецой Дмитрий Анатольевич": 11,
-      "Дьяков Николай Андреевич": 16,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 23,
-      "Светлов Виктор Николаевич": 92,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000112191": 16,
+      "gas:candidate-vibid:1001000225914": 329,
+      "gas:candidate-vibid:323300570466": 11,
+      "gas:candidate-vibid:1001000136016": 16,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 23,
+      "gas:candidate-vibid:1001000121813": 92,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 16,
-      "Горбачев Владимир Лукич": 321,
-      "Грецой Дмитрий Анатольевич": 20,
-      "Дьяков Николай Андреевич": 17,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 9,
-      "Светлов Виктор Николаевич": 106,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112191": 16,
+      "gas:candidate-vibid:1001000225914": 321,
+      "gas:candidate-vibid:323300570466": 20,
+      "gas:candidate-vibid:1001000136016": 17,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 9,
+      "gas:candidate-vibid:1001000121813": 106,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 14,
-      "Горбачев Владимир Лукич": 294,
-      "Грецой Дмитрий Анатольевич": 15,
-      "Дьяков Николай Андреевич": 19,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 21,
-      "Светлов Виктор Николаевич": 43,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000112191": 14,
+      "gas:candidate-vibid:1001000225914": 294,
+      "gas:candidate-vibid:323300570466": 15,
+      "gas:candidate-vibid:1001000136016": 19,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 21,
+      "gas:candidate-vibid:1001000121813": 43,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 31,
-      "Горбачев Владимир Лукич": 643,
-      "Грецой Дмитрий Анатольевич": 25,
-      "Дьяков Николай Андреевич": 27,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 8,
-      "Сафронов Анатолий Николаевич": 51,
-      "Светлов Виктор Николаевич": 147,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000112191": 31,
+      "gas:candidate-vibid:1001000225914": 643,
+      "gas:candidate-vibid:323300570466": 25,
+      "gas:candidate-vibid:1001000136016": 27,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 8,
+      "gas:candidate-vibid:1001000187993": 51,
+      "gas:candidate-vibid:1001000121813": 147,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070382&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 27,
-      "Горбачев Владимир Лукич": 623,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 12,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 190,
-      "Светлов Виктор Николаевич": 117,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112191": 27,
+      "gas:candidate-vibid:1001000225914": 623,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 12,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 190,
+      "gas:candidate-vibid:1001000121813": 117,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 29,
-      "Горбачев Владимир Лукич": 896,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 21,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 218,
-      "Светлов Виктор Николаевич": 153,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112191": 29,
+      "gas:candidate-vibid:1001000225914": 896,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 21,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 218,
+      "gas:candidate-vibid:1001000121813": 153,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 38,
-      "Горбачев Владимир Лукич": 932,
-      "Грецой Дмитрий Анатольевич": 7,
-      "Дьяков Николай Андреевич": 16,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 195,
-      "Светлов Виктор Николаевич": 82,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000112191": 38,
+      "gas:candidate-vibid:1001000225914": 932,
+      "gas:candidate-vibid:323300570466": 7,
+      "gas:candidate-vibid:1001000136016": 16,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 195,
+      "gas:candidate-vibid:1001000121813": 82,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 26,
-      "Горбачев Владимир Лукич": 719,
-      "Грецой Дмитрий Анатольевич": 10,
-      "Дьяков Николай Андреевич": 24,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 180,
-      "Светлов Виктор Николаевич": 104,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112191": 26,
+      "gas:candidate-vibid:1001000225914": 719,
+      "gas:candidate-vibid:323300570466": 10,
+      "gas:candidate-vibid:1001000136016": 24,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 180,
+      "gas:candidate-vibid:1001000121813": 104,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 38,
-      "Горбачев Владимир Лукич": 860,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 20,
-      "Лакеев Владимир Михайлович": 8,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 201,
-      "Светлов Виктор Николаевич": 116,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000112191": 38,
+      "gas:candidate-vibid:1001000225914": 860,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 20,
+      "gas:candidate-vibid:1001000195045": 8,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 201,
+      "gas:candidate-vibid:1001000121813": 116,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 10,
-      "Горбачев Владимир Лукич": 348,
-      "Грецой Дмитрий Анатольевич": 4,
-      "Дьяков Николай Андреевич": 10,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 102,
-      "Светлов Виктор Николаевич": 49,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112191": 10,
+      "gas:candidate-vibid:1001000225914": 348,
+      "gas:candidate-vibid:323300570466": 4,
+      "gas:candidate-vibid:1001000136016": 10,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 102,
+      "gas:candidate-vibid:1001000121813": 49,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 31,
-      "Горбачев Владимир Лукич": 528,
-      "Грецой Дмитрий Анатольевич": 7,
-      "Дьяков Николай Андреевич": 13,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 106,
-      "Светлов Виктор Николаевич": 85,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000112191": 31,
+      "gas:candidate-vibid:1001000225914": 528,
+      "gas:candidate-vibid:323300570466": 7,
+      "gas:candidate-vibid:1001000136016": 13,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 106,
+      "gas:candidate-vibid:1001000121813": 85,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 21,
-      "Горбачев Владимир Лукич": 535,
-      "Грецой Дмитрий Анатольевич": 5,
-      "Дьяков Николай Андреевич": 16,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 140,
-      "Светлов Виктор Николаевич": 91,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000112191": 21,
+      "gas:candidate-vibid:1001000225914": 535,
+      "gas:candidate-vibid:323300570466": 5,
+      "gas:candidate-vibid:1001000136016": 16,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 140,
+      "gas:candidate-vibid:1001000121813": 91,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 36,
-      "Горбачев Владимир Лукич": 846,
-      "Грецой Дмитрий Анатольевич": 9,
-      "Дьяков Николай Андреевич": 18,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 285,
-      "Светлов Виктор Николаевич": 188,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000112191": 36,
+      "gas:candidate-vibid:1001000225914": 846,
+      "gas:candidate-vibid:323300570466": 9,
+      "gas:candidate-vibid:1001000136016": 18,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 285,
+      "gas:candidate-vibid:1001000121813": 188,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 13,
-      "Горбачев Владимир Лукич": 492,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 7,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 76,
-      "Светлов Виктор Николаевич": 46,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000112191": 13,
+      "gas:candidate-vibid:1001000225914": 492,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 7,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 76,
+      "gas:candidate-vibid:1001000121813": 46,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 124,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 3,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 7,
-      "Светлов Виктор Николаевич": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 124,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 3,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 7,
+      "gas:candidate-vibid:1001000121813": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 74,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 2,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 6,
-      "Светлов Виктор Николаевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 74,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 2,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 6,
+      "gas:candidate-vibid:1001000121813": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 1,
-      "Горбачев Владимир Лукич": 73,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 0,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 1,
-      "Светлов Виктор Николаевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112191": 1,
+      "gas:candidate-vibid:1001000225914": 73,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 0,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 1,
+      "gas:candidate-vibid:1001000121813": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 7,
-      "Горбачев Владимир Лукич": 220,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 8,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 8,
-      "Сафронов Анатолий Николаевич": 58,
-      "Светлов Виктор Николаевич": 47,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000112191": 7,
+      "gas:candidate-vibid:1001000225914": 220,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 8,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 8,
+      "gas:candidate-vibid:1001000187993": 58,
+      "gas:candidate-vibid:1001000121813": 47,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 2,
-      "Горбачев Владимир Лукич": 111,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 2,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 11,
-      "Светлов Виктор Николаевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112191": 2,
+      "gas:candidate-vibid:1001000225914": 111,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 2,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 11,
+      "gas:candidate-vibid:1001000121813": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 16,
-      "Горбачев Владимир Лукич": 827,
-      "Грецой Дмитрий Анатольевич": 7,
-      "Дьяков Николай Андреевич": 14,
-      "Лакеев Владимир Михайлович": 3,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 91,
-      "Светлов Виктор Николаевич": 61,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000112191": 16,
+      "gas:candidate-vibid:1001000225914": 827,
+      "gas:candidate-vibid:323300570466": 7,
+      "gas:candidate-vibid:1001000136016": 14,
+      "gas:candidate-vibid:1001000195045": 3,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 91,
+      "gas:candidate-vibid:1001000121813": 61,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 19,
-      "Горбачев Владимир Лукич": 871,
-      "Грецой Дмитрий Анатольевич": 9,
-      "Дьяков Николай Андреевич": 34,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 86,
-      "Светлов Виктор Николаевич": 95,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000112191": 19,
+      "gas:candidate-vibid:1001000225914": 871,
+      "gas:candidate-vibid:323300570466": 9,
+      "gas:candidate-vibid:1001000136016": 34,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 86,
+      "gas:candidate-vibid:1001000121813": 95,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 0,
-      "Горбачев Владимир Лукич": 176,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 0,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 21,
-      "Светлов Виктор Николаевич": 13,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112191": 0,
+      "gas:candidate-vibid:1001000225914": 176,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 0,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 21,
+      "gas:candidate-vibid:1001000121813": 13,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 10,
-      "Горбачев Владимир Лукич": 350,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 13,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 31,
-      "Светлов Виктор Николаевич": 35,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000112191": 10,
+      "gas:candidate-vibid:1001000225914": 350,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 13,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 31,
+      "gas:candidate-vibid:1001000121813": 35,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 11,
-      "Горбачев Владимир Лукич": 577,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 26,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 226,
-      "Светлов Виктор Николаевич": 69,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000112191": 11,
+      "gas:candidate-vibid:1001000225914": 577,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 26,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 226,
+      "gas:candidate-vibid:1001000121813": 69,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 130,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 9,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 56,
-      "Светлов Виктор Николаевич": 12,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 130,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 9,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 56,
+      "gas:candidate-vibid:1001000121813": 12,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 6,
-      "Горбачев Владимир Лукич": 174,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 12,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 46,
-      "Светлов Виктор Николаевич": 13,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112191": 6,
+      "gas:candidate-vibid:1001000225914": 174,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 12,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 46,
+      "gas:candidate-vibid:1001000121813": 13,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 0,
-      "Горбачев Владимир Лукич": 154,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 2,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 40,
-      "Светлов Виктор Николаевич": 14,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112191": 0,
+      "gas:candidate-vibid:1001000225914": 154,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 2,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 40,
+      "gas:candidate-vibid:1001000121813": 14,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 3,
-      "Горбачев Владимир Лукич": 114,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 8,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 12,
-      "Светлов Виктор Николаевич": 63,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112191": 3,
+      "gas:candidate-vibid:1001000225914": 114,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 8,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 12,
+      "gas:candidate-vibid:1001000121813": 63,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 8,
-      "Горбачев Владимир Лукич": 865,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 13,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 74,
-      "Светлов Виктор Николаевич": 71,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112191": 8,
+      "gas:candidate-vibid:1001000225914": 865,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 13,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 74,
+      "gas:candidate-vibid:1001000121813": 71,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 10,
-      "Горбачев Владимир Лукич": 703,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 12,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 5,
-      "Сафронов Анатолий Николаевич": 120,
-      "Светлов Виктор Николаевич": 78,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000112191": 10,
+      "gas:candidate-vibid:1001000225914": 703,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 12,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 5,
+      "gas:candidate-vibid:1001000187993": 120,
+      "gas:candidate-vibid:1001000121813": 78,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 12,
-      "Горбачев Владимир Лукич": 744,
-      "Грецой Дмитрий Анатольевич": 5,
-      "Дьяков Николай Андреевич": 16,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 87,
-      "Светлов Виктор Николаевич": 77,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112191": 12,
+      "gas:candidate-vibid:1001000225914": 744,
+      "gas:candidate-vibid:323300570466": 5,
+      "gas:candidate-vibid:1001000136016": 16,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 87,
+      "gas:candidate-vibid:1001000121813": 77,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 20,
-      "Горбачев Владимир Лукич": 943,
-      "Грецой Дмитрий Анатольевич": 5,
-      "Дьяков Николай Андреевич": 27,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 100,
-      "Светлов Виктор Николаевич": 75,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000112191": 20,
+      "gas:candidate-vibid:1001000225914": 943,
+      "gas:candidate-vibid:323300570466": 5,
+      "gas:candidate-vibid:1001000136016": 27,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 100,
+      "gas:candidate-vibid:1001000121813": 75,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 8,
-      "Горбачев Владимир Лукич": 639,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 16,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 4,
-      "Сафронов Анатолий Николаевич": 46,
-      "Светлов Виктор Николаевич": 90,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112191": 8,
+      "gas:candidate-vibid:1001000225914": 639,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 16,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 4,
+      "gas:candidate-vibid:1001000187993": 46,
+      "gas:candidate-vibid:1001000121813": 90,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 277,
-      "Грецой Дмитрий Анатольевич": 0,
-      "Дьяков Николай Андреевич": 1,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 38,
-      "Светлов Виктор Николаевич": 45,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 277,
+      "gas:candidate-vibid:323300570466": 0,
+      "gas:candidate-vibid:1001000136016": 1,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 38,
+      "gas:candidate-vibid:1001000121813": 45,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 3,
-      "Горбачев Владимир Лукич": 196,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 4,
-      "Лакеев Владимир Михайлович": 2,
-      "Мирошников Виталий Сергеевич": 2,
-      "Сафронов Анатолий Николаевич": 43,
-      "Светлов Виктор Николаевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112191": 3,
+      "gas:candidate-vibid:1001000225914": 196,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 4,
+      "gas:candidate-vibid:1001000195045": 2,
+      "gas:candidate-vibid:323300570806": 2,
+      "gas:candidate-vibid:1001000187993": 43,
+      "gas:candidate-vibid:1001000121813": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 3,
-      "Горбачев Владимир Лукич": 174,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 2,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 21,
-      "Светлов Виктор Николаевич": 16,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112191": 3,
+      "gas:candidate-vibid:1001000225914": 174,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 2,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 21,
+      "gas:candidate-vibid:1001000121813": 16,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 6,
-      "Горбачев Владимир Лукич": 464,
-      "Грецой Дмитрий Анатольевич": 9,
-      "Дьяков Николай Андреевич": 6,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 3,
-      "Сафронов Анатолий Николаевич": 89,
-      "Светлов Виктор Николаевич": 82,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000112191": 6,
+      "gas:candidate-vibid:1001000225914": 464,
+      "gas:candidate-vibid:323300570466": 9,
+      "gas:candidate-vibid:1001000136016": 6,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 3,
+      "gas:candidate-vibid:1001000187993": 89,
+      "gas:candidate-vibid:1001000121813": 82,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 5,
-      "Горбачев Владимир Лукич": 188,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 3,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 36,
-      "Светлов Виктор Николаевич": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112191": 5,
+      "gas:candidate-vibid:1001000225914": 188,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 3,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 36,
+      "gas:candidate-vibid:1001000121813": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 19,
-      "Горбачев Владимир Лукич": 522,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 6,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 80,
-      "Светлов Виктор Николаевич": 187,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000112191": 19,
+      "gas:candidate-vibid:1001000225914": 522,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 6,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 80,
+      "gas:candidate-vibid:1001000121813": 187,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 17,
-      "Горбачев Владимир Лукич": 531,
-      "Грецой Дмитрий Анатольевич": 6,
-      "Дьяков Николай Андреевич": 18,
-      "Лакеев Владимир Михайлович": 5,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 130,
-      "Светлов Виктор Николаевич": 136,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000112191": 17,
+      "gas:candidate-vibid:1001000225914": 531,
+      "gas:candidate-vibid:323300570466": 6,
+      "gas:candidate-vibid:1001000136016": 18,
+      "gas:candidate-vibid:1001000195045": 5,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 130,
+      "gas:candidate-vibid:1001000121813": 136,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 152,
-      "Грецой Дмитрий Анатольевич": 1,
-      "Дьяков Николай Андреевич": 4,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 5,
-      "Светлов Виктор Николаевич": 20,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 152,
+      "gas:candidate-vibid:323300570466": 1,
+      "gas:candidate-vibid:1001000136016": 4,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 5,
+      "gas:candidate-vibid:1001000121813": 20,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 1,
-      "Горбачев Владимир Лукич": 98,
-      "Грецой Дмитрий Анатольевич": 2,
-      "Дьяков Николай Андреевич": 11,
-      "Лакеев Владимир Михайлович": 1,
-      "Мирошников Виталий Сергеевич": 0,
-      "Сафронов Анатолий Николаевич": 19,
-      "Светлов Виктор Николаевич": 11,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112191": 1,
+      "gas:candidate-vibid:1001000225914": 98,
+      "gas:candidate-vibid:323300570466": 2,
+      "gas:candidate-vibid:1001000136016": 11,
+      "gas:candidate-vibid:1001000195045": 1,
+      "gas:candidate-vibid:323300570806": 0,
+      "gas:candidate-vibid:1001000187993": 19,
+      "gas:candidate-vibid:1001000121813": 11,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 4,
-      "Горбачев Владимир Лукич": 256,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 5,
-      "Лакеев Владимир Михайлович": 4,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 33,
-      "Светлов Виктор Николаевич": 35,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000112191": 4,
+      "gas:candidate-vibid:1001000225914": 256,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 5,
+      "gas:candidate-vibid:1001000195045": 4,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 33,
+      "gas:candidate-vibid:1001000121813": 35,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бахметова Любовь Ивановна": 6,
-      "Горбачев Владимир Лукич": 274,
-      "Грецой Дмитрий Анатольевич": 3,
-      "Дьяков Николай Андреевич": 2,
-      "Лакеев Владимир Михайлович": 0,
-      "Мирошников Виталий Сергеевич": 1,
-      "Сафронов Анатолий Николаевич": 33,
-      "Светлов Виктор Николаевич": 26,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000112191": 6,
+      "gas:candidate-vibid:1001000225914": 274,
+      "gas:candidate-vibid:323300570466": 3,
+      "gas:candidate-vibid:1001000136016": 2,
+      "gas:candidate-vibid:1001000195045": 0,
+      "gas:candidate-vibid:323300570806": 1,
+      "gas:candidate-vibid:1001000187993": 33,
+      "gas:candidate-vibid:1001000121813": 26,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070383&region=0&sub_region=0&type=429",
@@ -7350,11 +7350,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 251,
-      "Дорошенко Галина Степановна": 604,
-      "Кретова Светлана Григорьевна": 53,
-      "Оспищева Любовь Шариповна": 24,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000121814": 251,
+      "gas:candidate-vibid:323300270742": 604,
+      "gas:candidate-vibid:1001000112192": 53,
+      "gas:candidate-vibid:323300270834": 24,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7404,11 +7404,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 350,
-      "Дорошенко Галина Степановна": 802,
-      "Кретова Светлана Григорьевна": 60,
-      "Оспищева Любовь Шариповна": 41,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121814": 350,
+      "gas:candidate-vibid:323300270742": 802,
+      "gas:candidate-vibid:1001000112192": 60,
+      "gas:candidate-vibid:323300270834": 41,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7458,11 +7458,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 352,
-      "Дорошенко Галина Степановна": 627,
-      "Кретова Светлана Григорьевна": 66,
-      "Оспищева Любовь Шариповна": 21,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121814": 352,
+      "gas:candidate-vibid:323300270742": 627,
+      "gas:candidate-vibid:1001000112192": 66,
+      "gas:candidate-vibid:323300270834": 21,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7512,11 +7512,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 183,
-      "Дорошенко Галина Степановна": 436,
-      "Кретова Светлана Григорьевна": 29,
-      "Оспищева Любовь Шариповна": 21,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121814": 183,
+      "gas:candidate-vibid:323300270742": 436,
+      "gas:candidate-vibid:1001000112192": 29,
+      "gas:candidate-vibid:323300270834": 21,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7566,11 +7566,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 275,
-      "Дорошенко Галина Степановна": 487,
-      "Кретова Светлана Григорьевна": 32,
-      "Оспищева Любовь Шариповна": 18,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121814": 275,
+      "gas:candidate-vibid:323300270742": 487,
+      "gas:candidate-vibid:1001000112192": 32,
+      "gas:candidate-vibid:323300270834": 18,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7620,11 +7620,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 302,
-      "Дорошенко Галина Степановна": 589,
-      "Кретова Светлана Григорьевна": 33,
-      "Оспищева Любовь Шариповна": 18,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000121814": 302,
+      "gas:candidate-vibid:323300270742": 589,
+      "gas:candidate-vibid:1001000112192": 33,
+      "gas:candidate-vibid:323300270834": 18,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7674,11 +7674,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 222,
-      "Дорошенко Галина Степановна": 481,
-      "Кретова Светлана Григорьевна": 39,
-      "Оспищева Любовь Шариповна": 22,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121814": 222,
+      "gas:candidate-vibid:323300270742": 481,
+      "gas:candidate-vibid:1001000112192": 39,
+      "gas:candidate-vibid:323300270834": 22,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7728,11 +7728,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 284,
-      "Дорошенко Галина Степановна": 596,
-      "Кретова Светлана Григорьевна": 23,
-      "Оспищева Любовь Шариповна": 9,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121814": 284,
+      "gas:candidate-vibid:323300270742": 596,
+      "gas:candidate-vibid:1001000112192": 23,
+      "gas:candidate-vibid:323300270834": 9,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7782,11 +7782,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 231,
-      "Дорошенко Галина Степановна": 864,
-      "Кретова Светлана Григорьевна": 41,
-      "Оспищева Любовь Шариповна": 31,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121814": 231,
+      "gas:candidate-vibid:323300270742": 864,
+      "gas:candidate-vibid:1001000112192": 41,
+      "gas:candidate-vibid:323300270834": 31,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7836,11 +7836,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 116,
-      "Дорошенко Галина Степановна": 704,
-      "Кретова Светлана Григорьевна": 29,
-      "Оспищева Любовь Шариповна": 26,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121814": 116,
+      "gas:candidate-vibid:323300270742": 704,
+      "gas:candidate-vibid:1001000112192": 29,
+      "gas:candidate-vibid:323300270834": 26,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7890,11 +7890,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 226,
-      "Дорошенко Галина Степановна": 595,
-      "Кретова Светлана Григорьевна": 32,
-      "Оспищева Любовь Шариповна": 38,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121814": 226,
+      "gas:candidate-vibid:323300270742": 595,
+      "gas:candidate-vibid:1001000112192": 32,
+      "gas:candidate-vibid:323300270834": 38,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7944,11 +7944,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 186,
-      "Дорошенко Галина Степановна": 343,
-      "Кретова Светлана Григорьевна": 22,
-      "Оспищева Любовь Шариповна": 28,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121814": 186,
+      "gas:candidate-vibid:323300270742": 343,
+      "gas:candidate-vibid:1001000112192": 22,
+      "gas:candidate-vibid:323300270834": 28,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -7998,11 +7998,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 131,
-      "Дорошенко Галина Степановна": 809,
-      "Кретова Светлана Григорьевна": 26,
-      "Оспищева Любовь Шариповна": 22,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000121814": 131,
+      "gas:candidate-vibid:323300270742": 809,
+      "gas:candidate-vibid:1001000112192": 26,
+      "gas:candidate-vibid:323300270834": 22,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -8052,11 +8052,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 136,
-      "Дорошенко Галина Степановна": 566,
-      "Кретова Светлана Григорьевна": 15,
-      "Оспищева Любовь Шариповна": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121814": 136,
+      "gas:candidate-vibid:323300270742": 566,
+      "gas:candidate-vibid:1001000112192": 15,
+      "gas:candidate-vibid:323300270834": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -8106,11 +8106,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 127,
-      "Дорошенко Галина Степановна": 408,
-      "Кретова Светлана Григорьевна": 11,
-      "Оспищева Любовь Шариповна": 10,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121814": 127,
+      "gas:candidate-vibid:323300270742": 408,
+      "gas:candidate-vibid:1001000112192": 11,
+      "gas:candidate-vibid:323300270834": 10,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -8160,11 +8160,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 190,
-      "Дорошенко Галина Степановна": 335,
-      "Кретова Светлана Григорьевна": 16,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121814": 190,
+      "gas:candidate-vibid:323300270742": 335,
+      "gas:candidate-vibid:1001000112192": 16,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -8214,11 +8214,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 43,
-      "Дорошенко Галина Степановна": 105,
-      "Кретова Светлана Григорьевна": 2,
-      "Оспищева Любовь Шариповна": 5,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121814": 43,
+      "gas:candidate-vibid:323300270742": 105,
+      "gas:candidate-vibid:1001000112192": 2,
+      "gas:candidate-vibid:323300270834": 5,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -8268,11 +8268,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 36,
-      "Дорошенко Галина Степановна": 55,
-      "Кретова Светлана Григорьевна": 2,
-      "Оспищева Любовь Шариповна": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121814": 36,
+      "gas:candidate-vibid:323300270742": 55,
+      "gas:candidate-vibid:1001000112192": 2,
+      "gas:candidate-vibid:323300270834": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070384&region=0&sub_region=0&type=429",
@@ -8322,11 +8322,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 127,
-      "Дорошенко Галина Степановна": 519,
-      "Кретова Светлана Григорьевна": 41,
-      "Оспищева Любовь Шариповна": 22,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121814": 127,
+      "gas:candidate-vibid:323300270742": 519,
+      "gas:candidate-vibid:1001000112192": 41,
+      "gas:candidate-vibid:323300270834": 22,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8376,11 +8376,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 227,
-      "Дорошенко Галина Степановна": 599,
-      "Кретова Светлана Григорьевна": 68,
-      "Оспищева Любовь Шариповна": 30,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121814": 227,
+      "gas:candidate-vibid:323300270742": 599,
+      "gas:candidate-vibid:1001000112192": 68,
+      "gas:candidate-vibid:323300270834": 30,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8430,11 +8430,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 127,
-      "Дорошенко Галина Степановна": 373,
-      "Кретова Светлана Григорьевна": 35,
-      "Оспищева Любовь Шариповна": 5,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121814": 127,
+      "gas:candidate-vibid:323300270742": 373,
+      "gas:candidate-vibid:1001000112192": 35,
+      "gas:candidate-vibid:323300270834": 5,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8484,11 +8484,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 193,
-      "Дорошенко Галина Степановна": 675,
-      "Кретова Светлана Григорьевна": 53,
-      "Оспищева Любовь Шариповна": 15,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121814": 193,
+      "gas:candidate-vibid:323300270742": 675,
+      "gas:candidate-vibid:1001000112192": 53,
+      "gas:candidate-vibid:323300270834": 15,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8538,11 +8538,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 184,
-      "Дорошенко Галина Степановна": 621,
-      "Кретова Светлана Григорьевна": 42,
-      "Оспищева Любовь Шариповна": 11,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121814": 184,
+      "gas:candidate-vibid:323300270742": 621,
+      "gas:candidate-vibid:1001000112192": 42,
+      "gas:candidate-vibid:323300270834": 11,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8592,11 +8592,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 139,
-      "Дорошенко Галина Степановна": 574,
-      "Кретова Светлана Григорьевна": 54,
-      "Оспищева Любовь Шариповна": 13,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121814": 139,
+      "gas:candidate-vibid:323300270742": 574,
+      "gas:candidate-vibid:1001000112192": 54,
+      "gas:candidate-vibid:323300270834": 13,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8646,11 +8646,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 192,
-      "Дорошенко Галина Степановна": 733,
-      "Кретова Светлана Григорьевна": 47,
-      "Оспищева Любовь Шариповна": 11,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121814": 192,
+      "gas:candidate-vibid:323300270742": 733,
+      "gas:candidate-vibid:1001000112192": 47,
+      "gas:candidate-vibid:323300270834": 11,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8700,11 +8700,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 272,
-      "Дорошенко Галина Степановна": 609,
-      "Кретова Светлана Григорьевна": 47,
-      "Оспищева Любовь Шариповна": 16,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000121814": 272,
+      "gas:candidate-vibid:323300270742": 609,
+      "gas:candidate-vibid:1001000112192": 47,
+      "gas:candidate-vibid:323300270834": 16,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8754,11 +8754,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 207,
-      "Дорошенко Галина Степановна": 646,
-      "Кретова Светлана Григорьевна": 39,
-      "Оспищева Любовь Шариповна": 12,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000121814": 207,
+      "gas:candidate-vibid:323300270742": 646,
+      "gas:candidate-vibid:1001000112192": 39,
+      "gas:candidate-vibid:323300270834": 12,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8808,11 +8808,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 122,
-      "Дорошенко Галина Степановна": 354,
-      "Кретова Светлана Григорьевна": 47,
-      "Оспищева Любовь Шариповна": 14,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121814": 122,
+      "gas:candidate-vibid:323300270742": 354,
+      "gas:candidate-vibid:1001000112192": 47,
+      "gas:candidate-vibid:323300270834": 14,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8862,11 +8862,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 158,
-      "Дорошенко Галина Степановна": 697,
-      "Кретова Светлана Григорьевна": 27,
-      "Оспищева Любовь Шариповна": 10,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121814": 158,
+      "gas:candidate-vibid:323300270742": 697,
+      "gas:candidate-vibid:1001000112192": 27,
+      "gas:candidate-vibid:323300270834": 10,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8916,11 +8916,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 289,
-      "Дорошенко Галина Степановна": 707,
-      "Кретова Светлана Григорьевна": 68,
-      "Оспищева Любовь Шариповна": 18,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121814": 289,
+      "gas:candidate-vibid:323300270742": 707,
+      "gas:candidate-vibid:1001000112192": 68,
+      "gas:candidate-vibid:323300270834": 18,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -8970,11 +8970,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 14,
-      "Дорошенко Галина Степановна": 131,
-      "Кретова Светлана Григорьевна": 5,
-      "Оспищева Любовь Шариповна": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121814": 14,
+      "gas:candidate-vibid:323300270742": 131,
+      "gas:candidate-vibid:1001000112192": 5,
+      "gas:candidate-vibid:323300270834": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9024,11 +9024,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 21,
-      "Дорошенко Галина Степановна": 210,
-      "Кретова Светлана Григорьевна": 11,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121814": 21,
+      "gas:candidate-vibid:323300270742": 210,
+      "gas:candidate-vibid:1001000112192": 11,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9078,11 +9078,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 30,
-      "Дорошенко Галина Степановна": 109,
-      "Кретова Светлана Григорьевна": 3,
-      "Оспищева Любовь Шариповна": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121814": 30,
+      "gas:candidate-vibid:323300270742": 109,
+      "gas:candidate-vibid:1001000112192": 3,
+      "gas:candidate-vibid:323300270834": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9132,11 +9132,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 152,
-      "Дорошенко Галина Степановна": 687,
-      "Кретова Светлана Григорьевна": 32,
-      "Оспищева Любовь Шариповна": 11,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121814": 152,
+      "gas:candidate-vibid:323300270742": 687,
+      "gas:candidate-vibid:1001000112192": 32,
+      "gas:candidate-vibid:323300270834": 11,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9186,11 +9186,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 50,
-      "Дорошенко Галина Степановна": 84,
-      "Кретова Светлана Григорьевна": 6,
-      "Оспищева Любовь Шариповна": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121814": 50,
+      "gas:candidate-vibid:323300270742": 84,
+      "gas:candidate-vibid:1001000112192": 6,
+      "gas:candidate-vibid:323300270834": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9240,11 +9240,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 115,
-      "Дорошенко Галина Степановна": 334,
-      "Кретова Светлана Григорьевна": 14,
-      "Оспищева Любовь Шариповна": 6,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121814": 115,
+      "gas:candidate-vibid:323300270742": 334,
+      "gas:candidate-vibid:1001000112192": 14,
+      "gas:candidate-vibid:323300270834": 6,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9294,11 +9294,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 57,
-      "Дорошенко Галина Степановна": 132,
-      "Кретова Светлана Григорьевна": 16,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121814": 57,
+      "gas:candidate-vibid:323300270742": 132,
+      "gas:candidate-vibid:1001000112192": 16,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9348,11 +9348,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 163,
-      "Дорошенко Галина Степановна": 436,
-      "Кретова Светлана Григорьевна": 39,
-      "Оспищева Любовь Шариповна": 13,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121814": 163,
+      "gas:candidate-vibid:323300270742": 436,
+      "gas:candidate-vibid:1001000112192": 39,
+      "gas:candidate-vibid:323300270834": 13,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9402,11 +9402,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 229,
-      "Дорошенко Галина Степановна": 466,
-      "Кретова Светлана Григорьевна": 33,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121814": 229,
+      "gas:candidate-vibid:323300270742": 466,
+      "gas:candidate-vibid:1001000112192": 33,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9456,11 +9456,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 60,
-      "Дорошенко Галина Степановна": 114,
-      "Кретова Светлана Григорьевна": 15,
-      "Оспищева Любовь Шариповна": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121814": 60,
+      "gas:candidate-vibid:323300270742": 114,
+      "gas:candidate-vibid:1001000112192": 15,
+      "gas:candidate-vibid:323300270834": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9510,11 +9510,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 17,
-      "Дорошенко Галина Степановна": 48,
-      "Кретова Светлана Григорьевна": 21,
-      "Оспищева Любовь Шариповна": 17,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121814": 17,
+      "gas:candidate-vibid:323300270742": 48,
+      "gas:candidate-vibid:1001000112192": 21,
+      "gas:candidate-vibid:323300270834": 17,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070385&region=0&sub_region=0&type=429",
@@ -9564,11 +9564,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 135,
-      "Дорошенко Галина Степановна": 366,
-      "Кретова Светлана Григорьевна": 15,
-      "Оспищева Любовь Шариповна": 17,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121814": 135,
+      "gas:candidate-vibid:323300270742": 366,
+      "gas:candidate-vibid:1001000112192": 15,
+      "gas:candidate-vibid:323300270834": 17,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9618,11 +9618,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 314,
-      "Дорошенко Галина Степановна": 344,
-      "Кретова Светлана Григорьевна": 56,
-      "Оспищева Любовь Шариповна": 23,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121814": 314,
+      "gas:candidate-vibid:323300270742": 344,
+      "gas:candidate-vibid:1001000112192": 56,
+      "gas:candidate-vibid:323300270834": 23,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9672,11 +9672,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 317,
-      "Дорошенко Галина Степановна": 425,
-      "Кретова Светлана Григорьевна": 58,
-      "Оспищева Любовь Шариповна": 31,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121814": 317,
+      "gas:candidate-vibid:323300270742": 425,
+      "gas:candidate-vibid:1001000112192": 58,
+      "gas:candidate-vibid:323300270834": 31,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9726,11 +9726,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 254,
-      "Дорошенко Галина Степановна": 361,
-      "Кретова Светлана Григорьевна": 72,
-      "Оспищева Любовь Шариповна": 23,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000121814": 254,
+      "gas:candidate-vibid:323300270742": 361,
+      "gas:candidate-vibid:1001000112192": 72,
+      "gas:candidate-vibid:323300270834": 23,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9780,11 +9780,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 163,
-      "Дорошенко Галина Степановна": 279,
-      "Кретова Светлана Григорьевна": 30,
-      "Оспищева Любовь Шариповна": 27,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121814": 163,
+      "gas:candidate-vibid:323300270742": 279,
+      "gas:candidate-vibid:1001000112192": 30,
+      "gas:candidate-vibid:323300270834": 27,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9834,11 +9834,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 337,
-      "Дорошенко Галина Степановна": 679,
-      "Кретова Светлана Григорьевна": 99,
-      "Оспищева Любовь Шариповна": 35,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000121814": 337,
+      "gas:candidate-vibid:323300270742": 679,
+      "gas:candidate-vibid:1001000112192": 99,
+      "gas:candidate-vibid:323300270834": 35,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9888,11 +9888,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 369,
-      "Дорошенко Галина Степановна": 504,
-      "Кретова Светлана Григорьевна": 61,
-      "Оспищева Любовь Шариповна": 31,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000121814": 369,
+      "gas:candidate-vibid:323300270742": 504,
+      "gas:candidate-vibid:1001000112192": 61,
+      "gas:candidate-vibid:323300270834": 31,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9942,11 +9942,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 368,
-      "Дорошенко Галина Степановна": 604,
-      "Кретова Светлана Григорьевна": 62,
-      "Оспищева Любовь Шариповна": 26,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121814": 368,
+      "gas:candidate-vibid:323300270742": 604,
+      "gas:candidate-vibid:1001000112192": 62,
+      "gas:candidate-vibid:323300270834": 26,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -9996,11 +9996,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 243,
-      "Дорошенко Галина Степановна": 376,
-      "Кретова Светлана Григорьевна": 38,
-      "Оспищева Любовь Шариповна": 26,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121814": 243,
+      "gas:candidate-vibid:323300270742": 376,
+      "gas:candidate-vibid:1001000112192": 38,
+      "gas:candidate-vibid:323300270834": 26,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10050,11 +10050,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 370,
-      "Дорошенко Галина Степановна": 499,
-      "Кретова Светлана Григорьевна": 62,
-      "Оспищева Любовь Шариповна": 34,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000121814": 370,
+      "gas:candidate-vibid:323300270742": 499,
+      "gas:candidate-vibid:1001000112192": 62,
+      "gas:candidate-vibid:323300270834": 34,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10104,11 +10104,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 250,
-      "Дорошенко Галина Степановна": 399,
-      "Кретова Светлана Григорьевна": 41,
-      "Оспищева Любовь Шариповна": 21,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121814": 250,
+      "gas:candidate-vibid:323300270742": 399,
+      "gas:candidate-vibid:1001000112192": 41,
+      "gas:candidate-vibid:323300270834": 21,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10158,11 +10158,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 358,
-      "Дорошенко Галина Степановна": 611,
-      "Кретова Светлана Григорьевна": 71,
-      "Оспищева Любовь Шариповна": 28,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000121814": 358,
+      "gas:candidate-vibid:323300270742": 611,
+      "gas:candidate-vibid:1001000112192": 71,
+      "gas:candidate-vibid:323300270834": 28,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10212,11 +10212,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 296,
-      "Дорошенко Галина Степановна": 426,
-      "Кретова Светлана Григорьевна": 41,
-      "Оспищева Любовь Шариповна": 24,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121814": 296,
+      "gas:candidate-vibid:323300270742": 426,
+      "gas:candidate-vibid:1001000112192": 41,
+      "gas:candidate-vibid:323300270834": 24,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10266,11 +10266,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 90,
-      "Дорошенко Галина Степановна": 212,
-      "Кретова Светлана Григорьевна": 22,
-      "Оспищева Любовь Шариповна": 8,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121814": 90,
+      "gas:candidate-vibid:323300270742": 212,
+      "gas:candidate-vibid:1001000112192": 22,
+      "gas:candidate-vibid:323300270834": 8,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10320,11 +10320,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 226,
-      "Дорошенко Галина Степановна": 306,
-      "Кретова Светлана Григорьевна": 58,
-      "Оспищева Любовь Шариповна": 41,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000121814": 226,
+      "gas:candidate-vibid:323300270742": 306,
+      "gas:candidate-vibid:1001000112192": 58,
+      "gas:candidate-vibid:323300270834": 41,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10374,11 +10374,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 99,
-      "Дорошенко Галина Степановна": 483,
-      "Кретова Светлана Григорьевна": 27,
-      "Оспищева Любовь Шариповна": 24,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121814": 99,
+      "gas:candidate-vibid:323300270742": 483,
+      "gas:candidate-vibid:1001000112192": 27,
+      "gas:candidate-vibid:323300270834": 24,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10428,11 +10428,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 19,
-      "Дорошенко Галина Степановна": 84,
-      "Кретова Светлана Григорьевна": 1,
-      "Оспищева Любовь Шариповна": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121814": 19,
+      "gas:candidate-vibid:323300270742": 84,
+      "gas:candidate-vibid:1001000112192": 1,
+      "gas:candidate-vibid:323300270834": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10482,11 +10482,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 70,
-      "Дорошенко Галина Степановна": 187,
-      "Кретова Светлана Григорьевна": 11,
-      "Оспищева Любовь Шариповна": 7,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121814": 70,
+      "gas:candidate-vibid:323300270742": 187,
+      "gas:candidate-vibid:1001000112192": 11,
+      "gas:candidate-vibid:323300270834": 7,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10536,11 +10536,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 30,
-      "Дорошенко Галина Степановна": 125,
-      "Кретова Светлана Григорьевна": 9,
-      "Оспищева Любовь Шариповна": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121814": 30,
+      "gas:candidate-vibid:323300270742": 125,
+      "gas:candidate-vibid:1001000112192": 9,
+      "gas:candidate-vibid:323300270834": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10590,11 +10590,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 172,
-      "Дорошенко Галина Степановна": 281,
-      "Кретова Светлана Григорьевна": 40,
-      "Оспищева Любовь Шариповна": 25,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121814": 172,
+      "gas:candidate-vibid:323300270742": 281,
+      "gas:candidate-vibid:1001000112192": 40,
+      "gas:candidate-vibid:323300270834": 25,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10644,11 +10644,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 74,
-      "Дорошенко Галина Степановна": 109,
-      "Кретова Светлана Григорьевна": 7,
-      "Оспищева Любовь Шариповна": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121814": 74,
+      "gas:candidate-vibid:323300270742": 109,
+      "gas:candidate-vibid:1001000112192": 7,
+      "gas:candidate-vibid:323300270834": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10698,11 +10698,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 267,
-      "Дорошенко Галина Степановна": 608,
-      "Кретова Светлана Григорьевна": 44,
-      "Оспищева Любовь Шариповна": 14,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121814": 267,
+      "gas:candidate-vibid:323300270742": 608,
+      "gas:candidate-vibid:1001000112192": 44,
+      "gas:candidate-vibid:323300270834": 14,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10752,11 +10752,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 202,
-      "Дорошенко Галина Степановна": 533,
-      "Кретова Светлана Григорьевна": 34,
-      "Оспищева Любовь Шариповна": 13,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121814": 202,
+      "gas:candidate-vibid:323300270742": 533,
+      "gas:candidate-vibid:1001000112192": 34,
+      "gas:candidate-vibid:323300270834": 13,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10806,11 +10806,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 57,
-      "Дорошенко Галина Степановна": 120,
-      "Кретова Светлана Григорьевна": 4,
-      "Оспищева Любовь Шариповна": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121814": 57,
+      "gas:candidate-vibid:323300270742": 120,
+      "gas:candidate-vibid:1001000112192": 4,
+      "gas:candidate-vibid:323300270834": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10860,11 +10860,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 340,
-      "Дорошенко Галина Степановна": 368,
-      "Кретова Светлана Григорьевна": 13,
-      "Оспищева Любовь Шариповна": 13,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121814": 340,
+      "gas:candidate-vibid:323300270742": 368,
+      "gas:candidate-vibid:1001000112192": 13,
+      "gas:candidate-vibid:323300270834": 13,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10914,11 +10914,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 174,
-      "Дорошенко Галина Степановна": 409,
-      "Кретова Светлана Григорьевна": 7,
-      "Оспищева Любовь Шариповна": 13,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121814": 174,
+      "gas:candidate-vibid:323300270742": 409,
+      "gas:candidate-vibid:1001000112192": 7,
+      "gas:candidate-vibid:323300270834": 13,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -10968,11 +10968,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 128,
-      "Дорошенко Галина Степановна": 261,
-      "Кретова Светлана Григорьевна": 4,
-      "Оспищева Любовь Шариповна": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121814": 128,
+      "gas:candidate-vibid:323300270742": 261,
+      "gas:candidate-vibid:1001000112192": 4,
+      "gas:candidate-vibid:323300270834": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11022,11 +11022,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 31,
-      "Дорошенко Галина Степановна": 86,
-      "Кретова Светлана Григорьевна": 4,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121814": 31,
+      "gas:candidate-vibid:323300270742": 86,
+      "gas:candidate-vibid:1001000112192": 4,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11076,11 +11076,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 71,
-      "Дорошенко Галина Степановна": 147,
-      "Кретова Светлана Григорьевна": 15,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121814": 71,
+      "gas:candidate-vibid:323300270742": 147,
+      "gas:candidate-vibid:1001000112192": 15,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11130,11 +11130,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 253,
-      "Дорошенко Галина Степановна": 473,
-      "Кретова Светлана Григорьевна": 30,
-      "Оспищева Любовь Шариповна": 15,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121814": 253,
+      "gas:candidate-vibid:323300270742": 473,
+      "gas:candidate-vibid:1001000112192": 30,
+      "gas:candidate-vibid:323300270834": 15,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11184,11 +11184,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 48,
-      "Дорошенко Галина Степановна": 107,
-      "Кретова Светлана Григорьевна": 3,
-      "Оспищева Любовь Шариповна": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121814": 48,
+      "gas:candidate-vibid:323300270742": 107,
+      "gas:candidate-vibid:1001000112192": 3,
+      "gas:candidate-vibid:323300270834": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11238,11 +11238,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 268,
-      "Дорошенко Галина Степановна": 335,
-      "Кретова Светлана Григорьевна": 22,
-      "Оспищева Любовь Шариповна": 15,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121814": 268,
+      "gas:candidate-vibid:323300270742": 335,
+      "gas:candidate-vibid:1001000112192": 22,
+      "gas:candidate-vibid:323300270834": 15,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11292,11 +11292,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 61,
-      "Дорошенко Галина Степановна": 70,
-      "Кретова Светлана Григорьевна": 5,
-      "Оспищева Любовь Шариповна": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121814": 61,
+      "gas:candidate-vibid:323300270742": 70,
+      "gas:candidate-vibid:1001000112192": 5,
+      "gas:candidate-vibid:323300270834": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11346,11 +11346,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 79,
-      "Дорошенко Галина Степановна": 312,
-      "Кретова Светлана Григорьевна": 9,
-      "Оспищева Любовь Шариповна": 9,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121814": 79,
+      "gas:candidate-vibid:323300270742": 312,
+      "gas:candidate-vibid:1001000112192": 9,
+      "gas:candidate-vibid:323300270834": 9,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11400,11 +11400,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 65,
-      "Дорошенко Галина Степановна": 264,
-      "Кретова Светлана Григорьевна": 19,
-      "Оспищева Любовь Шариповна": 12,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121814": 65,
+      "gas:candidate-vibid:323300270742": 264,
+      "gas:candidate-vibid:1001000112192": 19,
+      "gas:candidate-vibid:323300270834": 12,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070386&region=0&sub_region=0&type=429",
@@ -11454,11 +11454,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 266,
-      "Дорошенко Галина Степановна": 938,
-      "Кретова Светлана Григорьевна": 56,
-      "Оспищева Любовь Шариповна": 31,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000121814": 266,
+      "gas:candidate-vibid:323300270742": 938,
+      "gas:candidate-vibid:1001000112192": 56,
+      "gas:candidate-vibid:323300270834": 31,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11508,11 +11508,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 202,
-      "Дорошенко Галина Степановна": 612,
-      "Кретова Светлана Григорьевна": 38,
-      "Оспищева Любовь Шариповна": 14,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121814": 202,
+      "gas:candidate-vibid:323300270742": 612,
+      "gas:candidate-vibid:1001000112192": 38,
+      "gas:candidate-vibid:323300270834": 14,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11562,11 +11562,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 228,
-      "Дорошенко Галина Степановна": 276,
-      "Кретова Светлана Григорьевна": 23,
-      "Оспищева Любовь Шариповна": 17,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121814": 228,
+      "gas:candidate-vibid:323300270742": 276,
+      "gas:candidate-vibid:1001000112192": 23,
+      "gas:candidate-vibid:323300270834": 17,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11616,11 +11616,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 78,
-      "Дорошенко Галина Степановна": 233,
-      "Кретова Светлана Григорьевна": 16,
-      "Оспищева Любовь Шариповна": 5,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121814": 78,
+      "gas:candidate-vibid:323300270742": 233,
+      "gas:candidate-vibid:1001000112192": 16,
+      "gas:candidate-vibid:323300270834": 5,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11670,11 +11670,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 157,
-      "Дорошенко Галина Степановна": 403,
-      "Кретова Светлана Григорьевна": 20,
-      "Оспищева Любовь Шариповна": 8,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121814": 157,
+      "gas:candidate-vibid:323300270742": 403,
+      "gas:candidate-vibid:1001000112192": 20,
+      "gas:candidate-vibid:323300270834": 8,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11724,11 +11724,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 147,
-      "Дорошенко Галина Степановна": 318,
-      "Кретова Светлана Григорьевна": 16,
-      "Оспищева Любовь Шариповна": 19,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121814": 147,
+      "gas:candidate-vibid:323300270742": 318,
+      "gas:candidate-vibid:1001000112192": 16,
+      "gas:candidate-vibid:323300270834": 19,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11778,11 +11778,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 291,
-      "Дорошенко Галина Степановна": 399,
-      "Кретова Светлана Григорьевна": 35,
-      "Оспищева Любовь Шариповна": 26,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121814": 291,
+      "gas:candidate-vibid:323300270742": 399,
+      "gas:candidate-vibid:1001000112192": 35,
+      "gas:candidate-vibid:323300270834": 26,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11832,11 +11832,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 231,
-      "Дорошенко Галина Степановна": 466,
-      "Кретова Светлана Григорьевна": 42,
-      "Оспищева Любовь Шариповна": 23,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121814": 231,
+      "gas:candidate-vibid:323300270742": 466,
+      "gas:candidate-vibid:1001000112192": 42,
+      "gas:candidate-vibid:323300270834": 23,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11886,11 +11886,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 55,
-      "Дорошенко Галина Степановна": 162,
-      "Кретова Светлана Григорьевна": 10,
-      "Оспищева Любовь Шариповна": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121814": 55,
+      "gas:candidate-vibid:323300270742": 162,
+      "gas:candidate-vibid:1001000112192": 10,
+      "gas:candidate-vibid:323300270834": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11940,11 +11940,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 143,
-      "Дорошенко Галина Степановна": 876,
-      "Кретова Светлана Григорьевна": 43,
-      "Оспищева Любовь Шариповна": 23,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121814": 143,
+      "gas:candidate-vibid:323300270742": 876,
+      "gas:candidate-vibid:1001000112192": 43,
+      "gas:candidate-vibid:323300270834": 23,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -11994,11 +11994,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 26,
-      "Дорошенко Галина Степановна": 308,
-      "Кретова Светлана Григорьевна": 1,
-      "Оспищева Любовь Шариповна": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121814": 26,
+      "gas:candidate-vibid:323300270742": 308,
+      "gas:candidate-vibid:1001000112192": 1,
+      "gas:candidate-vibid:323300270834": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12048,11 +12048,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 43,
-      "Дорошенко Галина Степановна": 88,
-      "Кретова Светлана Григорьевна": 6,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121814": 43,
+      "gas:candidate-vibid:323300270742": 88,
+      "gas:candidate-vibid:1001000112192": 6,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12102,11 +12102,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 38,
-      "Дорошенко Галина Степановна": 110,
-      "Кретова Светлана Григорьевна": 4,
-      "Оспищева Любовь Шариповна": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121814": 38,
+      "gas:candidate-vibid:323300270742": 110,
+      "gas:candidate-vibid:1001000112192": 4,
+      "gas:candidate-vibid:323300270834": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12156,11 +12156,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 402,
-      "Дорошенко Галина Степановна": 764,
-      "Кретова Светлана Григорьевна": 45,
-      "Оспищева Любовь Шариповна": 37,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121814": 402,
+      "gas:candidate-vibid:323300270742": 764,
+      "gas:candidate-vibid:1001000112192": 45,
+      "gas:candidate-vibid:323300270834": 37,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12210,11 +12210,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 134,
-      "Дорошенко Галина Степановна": 452,
-      "Кретова Светлана Григорьевна": 32,
-      "Оспищева Любовь Шариповна": 13,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121814": 134,
+      "gas:candidate-vibid:323300270742": 452,
+      "gas:candidate-vibid:1001000112192": 32,
+      "gas:candidate-vibid:323300270834": 13,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12264,11 +12264,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 100,
-      "Дорошенко Галина Степановна": 288,
-      "Кретова Светлана Григорьевна": 29,
-      "Оспищева Любовь Шариповна": 25,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121814": 100,
+      "gas:candidate-vibid:323300270742": 288,
+      "gas:candidate-vibid:1001000112192": 29,
+      "gas:candidate-vibid:323300270834": 25,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12318,11 +12318,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 271,
-      "Дорошенко Галина Степановна": 389,
-      "Кретова Светлана Григорьевна": 35,
-      "Оспищева Любовь Шариповна": 25,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121814": 271,
+      "gas:candidate-vibid:323300270742": 389,
+      "gas:candidate-vibid:1001000112192": 35,
+      "gas:candidate-vibid:323300270834": 25,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12372,11 +12372,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 211,
-      "Дорошенко Галина Степановна": 531,
-      "Кретова Светлана Григорьевна": 37,
-      "Оспищева Любовь Шариповна": 26,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000121814": 211,
+      "gas:candidate-vibid:323300270742": 531,
+      "gas:candidate-vibid:1001000112192": 37,
+      "gas:candidate-vibid:323300270834": 26,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12426,11 +12426,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 318,
-      "Дорошенко Галина Степановна": 572,
-      "Кретова Светлана Григорьевна": 58,
-      "Оспищева Любовь Шариповна": 32,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121814": 318,
+      "gas:candidate-vibid:323300270742": 572,
+      "gas:candidate-vibid:1001000112192": 58,
+      "gas:candidate-vibid:323300270834": 32,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12480,11 +12480,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 179,
-      "Дорошенко Галина Степановна": 408,
-      "Кретова Светлана Григорьевна": 32,
-      "Оспищева Любовь Шариповна": 21,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121814": 179,
+      "gas:candidate-vibid:323300270742": 408,
+      "gas:candidate-vibid:1001000112192": 32,
+      "gas:candidate-vibid:323300270834": 21,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12534,11 +12534,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 264,
-      "Дорошенко Галина Степановна": 576,
-      "Кретова Светлана Григорьевна": 52,
-      "Оспищева Любовь Шариповна": 24,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121814": 264,
+      "gas:candidate-vibid:323300270742": 576,
+      "gas:candidate-vibid:1001000112192": 52,
+      "gas:candidate-vibid:323300270834": 24,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12588,11 +12588,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 276,
-      "Дорошенко Галина Степановна": 694,
-      "Кретова Светлана Григорьевна": 61,
-      "Оспищева Любовь Шариповна": 44,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121814": 276,
+      "gas:candidate-vibid:323300270742": 694,
+      "gas:candidate-vibid:1001000112192": 61,
+      "gas:candidate-vibid:323300270834": 44,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12642,11 +12642,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 190,
-      "Дорошенко Галина Степановна": 424,
-      "Кретова Светлана Григорьевна": 49,
-      "Оспищева Любовь Шариповна": 17,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121814": 190,
+      "gas:candidate-vibid:323300270742": 424,
+      "gas:candidate-vibid:1001000112192": 49,
+      "gas:candidate-vibid:323300270834": 17,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12696,11 +12696,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 276,
-      "Дорошенко Галина Степановна": 709,
-      "Кретова Светлана Григорьевна": 71,
-      "Оспищева Любовь Шариповна": 33,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121814": 276,
+      "gas:candidate-vibid:323300270742": 709,
+      "gas:candidate-vibid:1001000112192": 71,
+      "gas:candidate-vibid:323300270834": 33,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12750,11 +12750,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 141,
-      "Дорошенко Галина Степановна": 481,
-      "Кретова Светлана Григорьевна": 21,
-      "Оспищева Любовь Шариповна": 14,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121814": 141,
+      "gas:candidate-vibid:323300270742": 481,
+      "gas:candidate-vibid:1001000112192": 21,
+      "gas:candidate-vibid:323300270834": 14,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12804,11 +12804,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 189,
-      "Дорошенко Галина Степановна": 479,
-      "Кретова Светлана Григорьевна": 49,
-      "Оспищева Любовь Шариповна": 27,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121814": 189,
+      "gas:candidate-vibid:323300270742": 479,
+      "gas:candidate-vibid:1001000112192": 49,
+      "gas:candidate-vibid:323300270834": 27,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12858,11 +12858,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 125,
-      "Дорошенко Галина Степановна": 344,
-      "Кретова Светлана Григорьевна": 39,
-      "Оспищева Любовь Шариповна": 15,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121814": 125,
+      "gas:candidate-vibid:323300270742": 344,
+      "gas:candidate-vibid:1001000112192": 39,
+      "gas:candidate-vibid:323300270834": 15,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12912,11 +12912,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 213,
-      "Дорошенко Галина Степановна": 522,
-      "Кретова Светлана Григорьевна": 39,
-      "Оспищева Любовь Шариповна": 18,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121814": 213,
+      "gas:candidate-vibid:323300270742": 522,
+      "gas:candidate-vibid:1001000112192": 39,
+      "gas:candidate-vibid:323300270834": 18,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -12966,11 +12966,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 109,
-      "Дорошенко Галина Степановна": 300,
-      "Кретова Светлана Григорьевна": 33,
-      "Оспищева Любовь Шариповна": 16,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121814": 109,
+      "gas:candidate-vibid:323300270742": 300,
+      "gas:candidate-vibid:1001000112192": 33,
+      "gas:candidate-vibid:323300270834": 16,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13020,11 +13020,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 140,
-      "Дорошенко Галина Степановна": 409,
-      "Кретова Светлана Григорьевна": 23,
-      "Оспищева Любовь Шариповна": 24,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121814": 140,
+      "gas:candidate-vibid:323300270742": 409,
+      "gas:candidate-vibid:1001000112192": 23,
+      "gas:candidate-vibid:323300270834": 24,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13074,11 +13074,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 40,
-      "Дорошенко Галина Степановна": 109,
-      "Кретова Светлана Григорьевна": 8,
-      "Оспищева Любовь Шариповна": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121814": 40,
+      "gas:candidate-vibid:323300270742": 109,
+      "gas:candidate-vibid:1001000112192": 8,
+      "gas:candidate-vibid:323300270834": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13128,11 +13128,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 9,
-      "Дорошенко Галина Степановна": 102,
-      "Кретова Светлана Григорьевна": 7,
-      "Оспищева Любовь Шариповна": 10,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121814": 9,
+      "gas:candidate-vibid:323300270742": 102,
+      "gas:candidate-vibid:1001000112192": 7,
+      "gas:candidate-vibid:323300270834": 10,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13182,11 +13182,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 109,
-      "Дорошенко Галина Степановна": 297,
-      "Кретова Светлана Григорьевна": 24,
-      "Оспищева Любовь Шариповна": 19,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121814": 109,
+      "gas:candidate-vibid:323300270742": 297,
+      "gas:candidate-vibid:1001000112192": 24,
+      "gas:candidate-vibid:323300270834": 19,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13236,11 +13236,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 27,
-      "Дорошенко Галина Степановна": 69,
-      "Кретова Светлана Григорьевна": 7,
-      "Оспищева Любовь Шариповна": 7,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121814": 27,
+      "gas:candidate-vibid:323300270742": 69,
+      "gas:candidate-vibid:1001000112192": 7,
+      "gas:candidate-vibid:323300270834": 7,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13290,11 +13290,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 44,
-      "Дорошенко Галина Степановна": 136,
-      "Кретова Светлана Григорьевна": 5,
-      "Оспищева Любовь Шариповна": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121814": 44,
+      "gas:candidate-vibid:323300270742": 136,
+      "gas:candidate-vibid:1001000112192": 5,
+      "gas:candidate-vibid:323300270834": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13344,11 +13344,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 317,
-      "Дорошенко Галина Степановна": 350,
-      "Кретова Светлана Григорьевна": 22,
-      "Оспищева Любовь Шариповна": 13,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121814": 317,
+      "gas:candidate-vibid:323300270742": 350,
+      "gas:candidate-vibid:1001000112192": 22,
+      "gas:candidate-vibid:323300270834": 13,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13398,11 +13398,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 112,
-      "Дорошенко Галина Степановна": 150,
-      "Кретова Светлана Григорьевна": 9,
-      "Оспищева Любовь Шариповна": 10,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121814": 112,
+      "gas:candidate-vibid:323300270742": 150,
+      "gas:candidate-vibid:1001000112192": 9,
+      "gas:candidate-vibid:323300270834": 10,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13452,11 +13452,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 174,
-      "Дорошенко Галина Степановна": 225,
-      "Кретова Светлана Григорьевна": 17,
-      "Оспищева Любовь Шариповна": 9,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121814": 174,
+      "gas:candidate-vibid:323300270742": 225,
+      "gas:candidate-vibid:1001000112192": 17,
+      "gas:candidate-vibid:323300270834": 9,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13506,11 +13506,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 14,
-      "Дорошенко Галина Степановна": 114,
-      "Кретова Светлана Григорьевна": 2,
-      "Оспищева Любовь Шариповна": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121814": 14,
+      "gas:candidate-vibid:323300270742": 114,
+      "gas:candidate-vibid:1001000112192": 2,
+      "gas:candidate-vibid:323300270834": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13560,11 +13560,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 20,
-      "Дорошенко Галина Степановна": 108,
-      "Кретова Светлана Григорьевна": 6,
-      "Оспищева Любовь Шариповна": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121814": 20,
+      "gas:candidate-vibid:323300270742": 108,
+      "gas:candidate-vibid:1001000112192": 6,
+      "gas:candidate-vibid:323300270834": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13614,11 +13614,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 29,
-      "Дорошенко Галина Степановна": 112,
-      "Кретова Светлана Григорьевна": 8,
-      "Оспищева Любовь Шариповна": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121814": 29,
+      "gas:candidate-vibid:323300270742": 112,
+      "gas:candidate-vibid:1001000112192": 8,
+      "gas:candidate-vibid:323300270834": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13668,11 +13668,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 35,
-      "Дорошенко Галина Степановна": 317,
-      "Кретова Светлана Григорьевна": 11,
-      "Оспищева Любовь Шариповна": 9,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121814": 35,
+      "gas:candidate-vibid:323300270742": 317,
+      "gas:candidate-vibid:1001000112192": 11,
+      "gas:candidate-vibid:323300270834": 9,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13722,11 +13722,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 250,
-      "Дорошенко Галина Степановна": 922,
-      "Кретова Светлана Григорьевна": 40,
-      "Оспищева Любовь Шариповна": 31,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121814": 250,
+      "gas:candidate-vibid:323300270742": 922,
+      "gas:candidate-vibid:1001000112192": 40,
+      "gas:candidate-vibid:323300270834": 31,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13776,11 +13776,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 190,
-      "Дорошенко Галина Степановна": 782,
-      "Кретова Светлана Григорьевна": 63,
-      "Оспищева Любовь Шариповна": 34,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121814": 190,
+      "gas:candidate-vibid:323300270742": 782,
+      "gas:candidate-vibid:1001000112192": 63,
+      "gas:candidate-vibid:323300270834": 34,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070387&region=0&sub_region=0&type=429",
@@ -13830,11 +13830,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 167,
-      "Дорошенко Галина Степановна": 398,
-      "Кретова Светлана Григорьевна": 39,
-      "Оспищева Любовь Шариповна": 12,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000121814": 167,
+      "gas:candidate-vibid:323300270742": 398,
+      "gas:candidate-vibid:1001000112192": 39,
+      "gas:candidate-vibid:323300270834": 12,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070388&region=0&sub_region=0&type=429",
@@ -13884,11 +13884,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 221,
-      "Дорошенко Галина Степановна": 411,
-      "Кретова Светлана Григорьевна": 48,
-      "Оспищева Любовь Шариповна": 21,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000121814": 221,
+      "gas:candidate-vibid:323300270742": 411,
+      "gas:candidate-vibid:1001000112192": 48,
+      "gas:candidate-vibid:323300270834": 21,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070388&region=0&sub_region=0&type=429",
@@ -13938,11 +13938,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 220,
-      "Дорошенко Галина Степановна": 440,
-      "Кретова Светлана Григорьевна": 52,
-      "Оспищева Любовь Шариповна": 23,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000121814": 220,
+      "gas:candidate-vibid:323300270742": 440,
+      "gas:candidate-vibid:1001000112192": 52,
+      "gas:candidate-vibid:323300270834": 23,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070388&region=0&sub_region=0&type=429",
@@ -13992,11 +13992,11 @@ export const duma_2003_uik_428_region_23_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурулько Александр Петрович": 261,
-      "Дорошенко Галина Степановна": 602,
-      "Кретова Светлана Григорьевна": 60,
-      "Оспищева Любовь Шариповна": 29,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121814": 261,
+      "gas:candidate-vibid:323300270742": 602,
+      "gas:candidate-vibid:1001000112192": 60,
+      "gas:candidate-vibid:323300270834": 29,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070388&region=0&sub_region=0&type=429",

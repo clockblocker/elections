@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 33,
-      "Дроздова Ольга Павловна": 122,
-      "Кузьмин Александр Сергеевич": 44,
-      "Кузьмин Михаил Владимирович": 539,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 22,
-      "Рукосуев Юрий Викторович": 40,
-      "Сасин Николай Иванович": 35,
-      "Соболев Виктор Иванович": 104
+      "gas:candidate-vibid:2262000863578": 33,
+      "gas:candidate-vibid:2262000773770": 122,
+      "gas:candidate-vibid:2262000862946": 44,
+      "gas:candidate-vibid:2262000863601": 539,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 22,
+      "gas:candidate-vibid:2262000862161": 40,
+      "gas:candidate-vibid:2262000864310": 35,
+      "gas:candidate-vibid:2262000864460": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 26,
-      "Дроздова Ольга Павловна": 70,
-      "Кузьмин Александр Сергеевич": 14,
-      "Кузьмин Михаил Владимирович": 494,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 21,
-      "Соболев Виктор Иванович": 91
+      "gas:candidate-vibid:2262000863578": 26,
+      "gas:candidate-vibid:2262000773770": 70,
+      "gas:candidate-vibid:2262000862946": 14,
+      "gas:candidate-vibid:2262000863601": 494,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 21,
+      "gas:candidate-vibid:2262000864460": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 21,
-      "Дроздова Ольга Павловна": 79,
-      "Кузьмин Александр Сергеевич": 23,
-      "Кузьмин Михаил Владимирович": 307,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 14,
-      "Соболев Виктор Иванович": 69
+      "gas:candidate-vibid:2262000863578": 21,
+      "gas:candidate-vibid:2262000773770": 79,
+      "gas:candidate-vibid:2262000862946": 23,
+      "gas:candidate-vibid:2262000863601": 307,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 14,
+      "gas:candidate-vibid:2262000864460": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 36,
-      "Кузьмин Александр Сергеевич": 12,
-      "Кузьмин Михаил Владимирович": 134,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 41
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 36,
+      "gas:candidate-vibid:2262000862946": 12,
+      "gas:candidate-vibid:2262000863601": 134,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 130,
-      "Кузьмин Александр Сергеевич": 216,
-      "Кузьмин Михаил Владимирович": 635,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 206
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 130,
+      "gas:candidate-vibid:2262000862946": 216,
+      "gas:candidate-vibid:2262000863601": 635,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 31,
-      "Кузьмин Александр Сергеевич": 14,
-      "Кузьмин Михаил Владимирович": 154,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 2,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 14
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 31,
+      "gas:candidate-vibid:2262000862946": 14,
+      "gas:candidate-vibid:2262000863601": 154,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 2,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 61,
-      "Кузьмин Александр Сергеевич": 43,
-      "Кузьмин Михаил Владимирович": 176,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 9,
-      "Сасин Николай Иванович": 14,
-      "Соболев Виктор Иванович": 35
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 61,
+      "gas:candidate-vibid:2262000862946": 43,
+      "gas:candidate-vibid:2262000863601": 176,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 9,
+      "gas:candidate-vibid:2262000864310": 14,
+      "gas:candidate-vibid:2262000864460": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 34,
-      "Кузьмин Александр Сергеевич": 42,
-      "Кузьмин Михаил Владимирович": 479,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 74,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 10
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 34,
+      "gas:candidate-vibid:2262000862946": 42,
+      "gas:candidate-vibid:2262000863601": 479,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 74,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 37,
-      "Дроздова Ольга Павловна": 124,
-      "Кузьмин Александр Сергеевич": 45,
-      "Кузьмин Михаил Владимирович": 384,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 34,
-      "Соболев Виктор Иванович": 123
+      "gas:candidate-vibid:2262000863578": 37,
+      "gas:candidate-vibid:2262000773770": 124,
+      "gas:candidate-vibid:2262000862946": 45,
+      "gas:candidate-vibid:2262000863601": 384,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 34,
+      "gas:candidate-vibid:2262000864460": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 32,
-      "Дроздова Ольга Павловна": 50,
-      "Кузьмин Александр Сергеевич": 40,
-      "Кузьмин Михаил Владимирович": 558,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 19,
-      "Рукосуев Юрий Викторович": 21,
-      "Сасин Николай Иванович": 26,
-      "Соболев Виктор Иванович": 55
+      "gas:candidate-vibid:2262000863578": 32,
+      "gas:candidate-vibid:2262000773770": 50,
+      "gas:candidate-vibid:2262000862946": 40,
+      "gas:candidate-vibid:2262000863601": 558,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 19,
+      "gas:candidate-vibid:2262000862161": 21,
+      "gas:candidate-vibid:2262000864310": 26,
+      "gas:candidate-vibid:2262000864460": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 33,
-      "Дроздова Ольга Павловна": 116,
-      "Кузьмин Александр Сергеевич": 30,
-      "Кузьмин Михаил Владимирович": 295,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 30,
-      "Сасин Николай Иванович": 14,
-      "Соболев Виктор Иванович": 62
+      "gas:candidate-vibid:2262000863578": 33,
+      "gas:candidate-vibid:2262000773770": 116,
+      "gas:candidate-vibid:2262000862946": 30,
+      "gas:candidate-vibid:2262000863601": 295,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 30,
+      "gas:candidate-vibid:2262000864310": 14,
+      "gas:candidate-vibid:2262000864460": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 41,
-      "Дроздова Ольга Павловна": 166,
-      "Кузьмин Александр Сергеевич": 49,
-      "Кузьмин Михаил Владимирович": 339,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 20,
-      "Рукосуев Юрий Викторович": 40,
-      "Сасин Николай Иванович": 40,
-      "Соболев Виктор Иванович": 98
+      "gas:candidate-vibid:2262000863578": 41,
+      "gas:candidate-vibid:2262000773770": 166,
+      "gas:candidate-vibid:2262000862946": 49,
+      "gas:candidate-vibid:2262000863601": 339,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 20,
+      "gas:candidate-vibid:2262000862161": 40,
+      "gas:candidate-vibid:2262000864310": 40,
+      "gas:candidate-vibid:2262000864460": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 78,
-      "Кузьмин Александр Сергеевич": 27,
-      "Кузьмин Михаил Владимирович": 311,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 10,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 28
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 78,
+      "gas:candidate-vibid:2262000862946": 27,
+      "gas:candidate-vibid:2262000863601": 311,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 10,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 33,
-      "Дроздова Ольга Павловна": 198,
-      "Кузьмин Александр Сергеевич": 28,
-      "Кузьмин Михаил Владимирович": 340,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 19,
-      "Рукосуев Юрий Викторович": 36,
-      "Сасин Николай Иванович": 26,
-      "Соболев Виктор Иванович": 115
+      "gas:candidate-vibid:2262000863578": 33,
+      "gas:candidate-vibid:2262000773770": 198,
+      "gas:candidate-vibid:2262000862946": 28,
+      "gas:candidate-vibid:2262000863601": 340,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 19,
+      "gas:candidate-vibid:2262000862161": 36,
+      "gas:candidate-vibid:2262000864310": 26,
+      "gas:candidate-vibid:2262000864460": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 24,
-      "Дроздова Ольга Павловна": 125,
-      "Кузьмин Александр Сергеевич": 45,
-      "Кузьмин Михаил Владимирович": 296,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 21,
-      "Соболев Виктор Иванович": 47
+      "gas:candidate-vibid:2262000863578": 24,
+      "gas:candidate-vibid:2262000773770": 125,
+      "gas:candidate-vibid:2262000862946": 45,
+      "gas:candidate-vibid:2262000863601": 296,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 21,
+      "gas:candidate-vibid:2262000864460": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 37,
-      "Дроздова Ольга Павловна": 274,
-      "Кузьмин Александр Сергеевич": 49,
-      "Кузьмин Михаил Владимирович": 315,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 19,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 42,
-      "Сасин Николай Иванович": 29,
-      "Соболев Виктор Иванович": 90
+      "gas:candidate-vibid:2262000863578": 37,
+      "gas:candidate-vibid:2262000773770": 274,
+      "gas:candidate-vibid:2262000862946": 49,
+      "gas:candidate-vibid:2262000863601": 315,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 19,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 42,
+      "gas:candidate-vibid:2262000864310": 29,
+      "gas:candidate-vibid:2262000864460": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 68,
-      "Кузьмин Александр Сергеевич": 39,
-      "Кузьмин Михаил Владимирович": 147,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 12,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 29
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 68,
+      "gas:candidate-vibid:2262000862946": 39,
+      "gas:candidate-vibid:2262000863601": 147,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 12,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 79,
-      "Кузьмин Александр Сергеевич": 30,
-      "Кузьмин Михаил Владимирович": 222,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 21,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 47
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 79,
+      "gas:candidate-vibid:2262000862946": 30,
+      "gas:candidate-vibid:2262000863601": 222,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 21,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 27,
-      "Дроздова Ольга Павловна": 197,
-      "Кузьмин Александр Сергеевич": 29,
-      "Кузьмин Михаил Владимирович": 337,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 35,
-      "Сасин Николай Иванович": 19,
-      "Соболев Виктор Иванович": 77
+      "gas:candidate-vibid:2262000863578": 27,
+      "gas:candidate-vibid:2262000773770": 197,
+      "gas:candidate-vibid:2262000862946": 29,
+      "gas:candidate-vibid:2262000863601": 337,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 35,
+      "gas:candidate-vibid:2262000864310": 19,
+      "gas:candidate-vibid:2262000864460": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 75,
-      "Кузьмин Александр Сергеевич": 32,
-      "Кузьмин Михаил Владимирович": 186,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 11,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 57
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 75,
+      "gas:candidate-vibid:2262000862946": 32,
+      "gas:candidate-vibid:2262000863601": 186,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 11,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 83,
-      "Кузьмин Александр Сергеевич": 30,
-      "Кузьмин Михаил Владимирович": 351,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 12,
-      "Рукосуев Юрий Викторович": 16,
-      "Сасин Николай Иванович": 34,
-      "Соболев Виктор Иванович": 53
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 83,
+      "gas:candidate-vibid:2262000862946": 30,
+      "gas:candidate-vibid:2262000863601": 351,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 12,
+      "gas:candidate-vibid:2262000862161": 16,
+      "gas:candidate-vibid:2262000864310": 34,
+      "gas:candidate-vibid:2262000864460": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 45,
-      "Кузьмин Александр Сергеевич": 14,
-      "Кузьмин Михаил Владимирович": 97,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 6,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 38
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 45,
+      "gas:candidate-vibid:2262000862946": 14,
+      "gas:candidate-vibid:2262000863601": 97,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 6,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 8,
-      "Кузьмин Александр Сергеевич": 4,
-      "Кузьмин Михаил Владимирович": 34,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 1,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 10
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 8,
+      "gas:candidate-vibid:2262000862946": 4,
+      "gas:candidate-vibid:2262000863601": 34,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 1,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 98,
-      "Кузьмин Александр Сергеевич": 26,
-      "Кузьмин Михаил Владимирович": 336,
-      "Кулагин Сергей Сергеевич": 20,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 18,
-      "Сасин Николай Иванович": 27,
-      "Соболев Виктор Иванович": 64
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 98,
+      "gas:candidate-vibid:2262000862946": 26,
+      "gas:candidate-vibid:2262000863601": 336,
+      "gas:candidate-vibid:2262000864387": 20,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 18,
+      "gas:candidate-vibid:2262000864310": 27,
+      "gas:candidate-vibid:2262000864460": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 35,
-      "Дроздова Ольга Павловна": 157,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 570,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 20,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 46,
-      "Соболев Виктор Иванович": 103
+      "gas:candidate-vibid:2262000863578": 35,
+      "gas:candidate-vibid:2262000773770": 157,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 570,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 20,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 46,
+      "gas:candidate-vibid:2262000864460": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 40,
-      "Дроздова Ольга Павловна": 133,
-      "Кузьмин Александр Сергеевич": 22,
-      "Кузьмин Михаил Владимирович": 517,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 19,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 24,
-      "Соболев Виктор Иванович": 95
+      "gas:candidate-vibid:2262000863578": 40,
+      "gas:candidate-vibid:2262000773770": 133,
+      "gas:candidate-vibid:2262000862946": 22,
+      "gas:candidate-vibid:2262000863601": 517,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 19,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 24,
+      "gas:candidate-vibid:2262000864460": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 24,
-      "Дроздова Ольга Павловна": 167,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 353,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 14,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 29,
-      "Соболев Виктор Иванович": 128
+      "gas:candidate-vibid:2262000863578": 24,
+      "gas:candidate-vibid:2262000773770": 167,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 353,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 14,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 29,
+      "gas:candidate-vibid:2262000864460": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 72,
-      "Кузьмин Александр Сергеевич": 25,
-      "Кузьмин Михаил Владимирович": 255,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 36
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 72,
+      "gas:candidate-vibid:2262000862946": 25,
+      "gas:candidate-vibid:2262000863601": 255,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 21,
-      "Дроздова Ольга Павловна": 165,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 503,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 19,
-      "Соболев Виктор Иванович": 109
+      "gas:candidate-vibid:2262000863578": 21,
+      "gas:candidate-vibid:2262000773770": 165,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 503,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 19,
+      "gas:candidate-vibid:2262000864460": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 28,
-      "Дроздова Ольга Павловна": 121,
-      "Кузьмин Александр Сергеевич": 38,
-      "Кузьмин Михаил Владимирович": 235,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 19,
-      "Мохов Евгений Александрович": 12,
-      "Рукосуев Юрий Викторович": 21,
-      "Сасин Николай Иванович": 28,
-      "Соболев Виктор Иванович": 105
+      "gas:candidate-vibid:2262000863578": 28,
+      "gas:candidate-vibid:2262000773770": 121,
+      "gas:candidate-vibid:2262000862946": 38,
+      "gas:candidate-vibid:2262000863601": 235,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 19,
+      "gas:candidate-vibid:2262000865412": 12,
+      "gas:candidate-vibid:2262000862161": 21,
+      "gas:candidate-vibid:2262000864310": 28,
+      "gas:candidate-vibid:2262000864460": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 40,
-      "Дроздова Ольга Павловна": 167,
-      "Кузьмин Александр Сергеевич": 59,
-      "Кузьмин Михаил Владимирович": 546,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 18,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 32,
-      "Соболев Виктор Иванович": 107
+      "gas:candidate-vibid:2262000863578": 40,
+      "gas:candidate-vibid:2262000773770": 167,
+      "gas:candidate-vibid:2262000862946": 59,
+      "gas:candidate-vibid:2262000863601": 546,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 18,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 32,
+      "gas:candidate-vibid:2262000864460": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 25,
-      "Дроздова Ольга Павловна": 81,
-      "Кузьмин Александр Сергеевич": 33,
-      "Кузьмин Михаил Владимирович": 530,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 22,
-      "Рукосуев Юрий Викторович": 35,
-      "Сасин Николай Иванович": 30,
-      "Соболев Виктор Иванович": 45
+      "gas:candidate-vibid:2262000863578": 25,
+      "gas:candidate-vibid:2262000773770": 81,
+      "gas:candidate-vibid:2262000862946": 33,
+      "gas:candidate-vibid:2262000863601": 530,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 22,
+      "gas:candidate-vibid:2262000862161": 35,
+      "gas:candidate-vibid:2262000864310": 30,
+      "gas:candidate-vibid:2262000864460": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 18,
-      "Дроздова Ольга Павловна": 89,
-      "Кузьмин Александр Сергеевич": 21,
-      "Кузьмин Михаил Владимирович": 435,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 19,
-      "Сасин Николай Иванович": 19,
-      "Соболев Виктор Иванович": 60
+      "gas:candidate-vibid:2262000863578": 18,
+      "gas:candidate-vibid:2262000773770": 89,
+      "gas:candidate-vibid:2262000862946": 21,
+      "gas:candidate-vibid:2262000863601": 435,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 19,
+      "gas:candidate-vibid:2262000864310": 19,
+      "gas:candidate-vibid:2262000864460": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 98,
-      "Кузьмин Александр Сергеевич": 21,
-      "Кузьмин Михаил Владимирович": 201,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 21,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 53
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 98,
+      "gas:candidate-vibid:2262000862946": 21,
+      "gas:candidate-vibid:2262000863601": 201,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 21,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 24,
-      "Кузьмин Александр Сергеевич": 10,
-      "Кузьмин Михаил Владимирович": 62,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 10,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 24
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 24,
+      "gas:candidate-vibid:2262000862946": 10,
+      "gas:candidate-vibid:2262000863601": 62,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 10,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 35,
-      "Дроздова Ольга Павловна": 115,
-      "Кузьмин Александр Сергеевич": 26,
-      "Кузьмин Михаил Владимирович": 230,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 36,
-      "Сасин Николай Иванович": 22,
-      "Соболев Виктор Иванович": 107
+      "gas:candidate-vibid:2262000863578": 35,
+      "gas:candidate-vibid:2262000773770": 115,
+      "gas:candidate-vibid:2262000862946": 26,
+      "gas:candidate-vibid:2262000863601": 230,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 36,
+      "gas:candidate-vibid:2262000864310": 22,
+      "gas:candidate-vibid:2262000864460": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 37,
-      "Дроздова Ольга Павловна": 168,
-      "Кузьмин Александр Сергеевич": 23,
-      "Кузьмин Михаил Владимирович": 711,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 25,
-      "Соболев Виктор Иванович": 82
+      "gas:candidate-vibid:2262000863578": 37,
+      "gas:candidate-vibid:2262000773770": 168,
+      "gas:candidate-vibid:2262000862946": 23,
+      "gas:candidate-vibid:2262000863601": 711,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 25,
+      "gas:candidate-vibid:2262000864460": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 25,
-      "Дроздова Ольга Павловна": 114,
-      "Кузьмин Александр Сергеевич": 23,
-      "Кузьмин Михаил Владимирович": 332,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 54
+      "gas:candidate-vibid:2262000863578": 25,
+      "gas:candidate-vibid:2262000773770": 114,
+      "gas:candidate-vibid:2262000862946": 23,
+      "gas:candidate-vibid:2262000863601": 332,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 29,
-      "Дроздова Ольга Павловна": 113,
-      "Кузьмин Александр Сергеевич": 35,
-      "Кузьмин Михаил Владимирович": 242,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 20,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 63
+      "gas:candidate-vibid:2262000863578": 29,
+      "gas:candidate-vibid:2262000773770": 113,
+      "gas:candidate-vibid:2262000862946": 35,
+      "gas:candidate-vibid:2262000863601": 242,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 20,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 24,
-      "Дроздова Ольга Павловна": 138,
-      "Кузьмин Александр Сергеевич": 26,
-      "Кузьмин Михаил Владимирович": 734,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 25,
-      "Соболев Виктор Иванович": 75
+      "gas:candidate-vibid:2262000863578": 24,
+      "gas:candidate-vibid:2262000773770": 138,
+      "gas:candidate-vibid:2262000862946": 26,
+      "gas:candidate-vibid:2262000863601": 734,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 25,
+      "gas:candidate-vibid:2262000864460": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 111,
-      "Кузьмин Александр Сергеевич": 34,
-      "Кузьмин Михаил Владимирович": 234,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 24,
-      "Соболев Виктор Иванович": 78
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 111,
+      "gas:candidate-vibid:2262000862946": 34,
+      "gas:candidate-vibid:2262000863601": 234,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 24,
+      "gas:candidate-vibid:2262000864460": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 35,
-      "Дроздова Ольга Павловна": 180,
-      "Кузьмин Александр Сергеевич": 42,
-      "Кузьмин Михаил Владимирович": 387,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 22,
-      "Рукосуев Юрий Викторович": 25,
-      "Сасин Николай Иванович": 33,
-      "Соболев Виктор Иванович": 106
+      "gas:candidate-vibid:2262000863578": 35,
+      "gas:candidate-vibid:2262000773770": 180,
+      "gas:candidate-vibid:2262000862946": 42,
+      "gas:candidate-vibid:2262000863601": 387,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 22,
+      "gas:candidate-vibid:2262000862161": 25,
+      "gas:candidate-vibid:2262000864310": 33,
+      "gas:candidate-vibid:2262000864460": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 39,
-      "Дроздова Ольга Павловна": 181,
-      "Кузьмин Александр Сергеевич": 51,
-      "Кузьмин Михаил Владимирович": 529,
-      "Кулагин Сергей Сергеевич": 31,
-      "Лебедев Павел Валерьевич": 20,
-      "Мохов Евгений Александрович": 20,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 39,
-      "Соболев Виктор Иванович": 104
+      "gas:candidate-vibid:2262000863578": 39,
+      "gas:candidate-vibid:2262000773770": 181,
+      "gas:candidate-vibid:2262000862946": 51,
+      "gas:candidate-vibid:2262000863601": 529,
+      "gas:candidate-vibid:2262000864387": 31,
+      "gas:candidate-vibid:2262000865086": 20,
+      "gas:candidate-vibid:2262000865412": 20,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 39,
+      "gas:candidate-vibid:2262000864460": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 36,
-      "Дроздова Ольга Павловна": 253,
-      "Кузьмин Александр Сергеевич": 73,
-      "Кузьмин Михаил Владимирович": 479,
-      "Кулагин Сергей Сергеевич": 21,
-      "Лебедев Павел Валерьевич": 28,
-      "Мохов Евгений Александрович": 25,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 41,
-      "Соболев Виктор Иванович": 116
+      "gas:candidate-vibid:2262000863578": 36,
+      "gas:candidate-vibid:2262000773770": 253,
+      "gas:candidate-vibid:2262000862946": 73,
+      "gas:candidate-vibid:2262000863601": 479,
+      "gas:candidate-vibid:2262000864387": 21,
+      "gas:candidate-vibid:2262000865086": 28,
+      "gas:candidate-vibid:2262000865412": 25,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 41,
+      "gas:candidate-vibid:2262000864460": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 55,
-      "Кузьмин Александр Сергеевич": 7,
-      "Кузьмин Михаил Владимирович": 230,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 11,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 36
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 55,
+      "gas:candidate-vibid:2262000862946": 7,
+      "gas:candidate-vibid:2262000863601": 230,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 11,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 142,
-      "Кузьмин Александр Сергеевич": 45,
-      "Кузьмин Михаил Владимирович": 154,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 14,
-      "Соболев Виктор Иванович": 72
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 142,
+      "gas:candidate-vibid:2262000862946": 45,
+      "gas:candidate-vibid:2262000863601": 154,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 14,
+      "gas:candidate-vibid:2262000864460": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 145,
-      "Кузьмин Александр Сергеевич": 34,
-      "Кузьмин Михаил Владимирович": 281,
-      "Кулагин Сергей Сергеевич": 20,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 98
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 145,
+      "gas:candidate-vibid:2262000862946": 34,
+      "gas:candidate-vibid:2262000863601": 281,
+      "gas:candidate-vibid:2262000864387": 20,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 3,
-      "Кузьмин Александр Сергеевич": 8,
-      "Кузьмин Михаил Владимирович": 27,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 1,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 3
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 3,
+      "gas:candidate-vibid:2262000862946": 8,
+      "gas:candidate-vibid:2262000863601": 27,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 1,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 8,
-      "Кузьмин Александр Сергеевич": 5,
-      "Кузьмин Михаил Владимирович": 15,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 5
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 8,
+      "gas:candidate-vibid:2262000862946": 5,
+      "gas:candidate-vibid:2262000863601": 15,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 3,
-      "Кузьмин Александр Сергеевич": 3,
-      "Кузьмин Михаил Владимирович": 18,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 2,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 1
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 3,
+      "gas:candidate-vibid:2262000862946": 3,
+      "gas:candidate-vibid:2262000863601": 18,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 2,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 1,
-      "Кузьмин Александр Сергеевич": 0,
-      "Кузьмин Михаил Владимирович": 8,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 1,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 1
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 1,
+      "gas:candidate-vibid:2262000862946": 0,
+      "gas:candidate-vibid:2262000863601": 8,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 1,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 2,
-      "Кузьмин Александр Сергеевич": 2,
-      "Кузьмин Михаил Владимирович": 36,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 0
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 2,
+      "gas:candidate-vibid:2262000862946": 2,
+      "gas:candidate-vibid:2262000863601": 36,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 13,
-      "Кузьмин Александр Сергеевич": 15,
-      "Кузьмин Михаил Владимирович": 311,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 1,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 1
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 13,
+      "gas:candidate-vibid:2262000862946": 15,
+      "gas:candidate-vibid:2262000863601": 311,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 1,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 41,
-      "Дроздова Ольга Павловна": 280,
-      "Кузьмин Александр Сергеевич": 47,
-      "Кузьмин Михаил Владимирович": 530,
-      "Кулагин Сергей Сергеевич": 25,
-      "Лебедев Павел Валерьевич": 21,
-      "Мохов Евгений Александрович": 29,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 43,
-      "Соболев Виктор Иванович": 125
+      "gas:candidate-vibid:2262000863578": 41,
+      "gas:candidate-vibid:2262000773770": 280,
+      "gas:candidate-vibid:2262000862946": 47,
+      "gas:candidate-vibid:2262000863601": 530,
+      "gas:candidate-vibid:2262000864387": 25,
+      "gas:candidate-vibid:2262000865086": 21,
+      "gas:candidate-vibid:2262000865412": 29,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 43,
+      "gas:candidate-vibid:2262000864460": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761444&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761444&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 97,
-      "Кузьмин Александр Сергеевич": 35,
-      "Кузьмин Михаил Владимирович": 283,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 18,
-      "Рукосуев Юрий Викторович": 21,
-      "Сасин Николай Иванович": 22,
-      "Соболев Виктор Иванович": 186
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 97,
+      "gas:candidate-vibid:2262000862946": 35,
+      "gas:candidate-vibid:2262000863601": 283,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 18,
+      "gas:candidate-vibid:2262000862161": 21,
+      "gas:candidate-vibid:2262000864310": 22,
+      "gas:candidate-vibid:2262000864460": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 58,
-      "Кузьмин Александр Сергеевич": 13,
-      "Кузьмин Михаил Владимирович": 199,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 11,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 27
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 58,
+      "gas:candidate-vibid:2262000862946": 13,
+      "gas:candidate-vibid:2262000863601": 199,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 11,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 76,
-      "Кузьмин Александр Сергеевич": 25,
-      "Кузьмин Михаил Владимирович": 449,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 26,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 19,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 39
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 76,
+      "gas:candidate-vibid:2262000862946": 25,
+      "gas:candidate-vibid:2262000863601": 449,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 26,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 19,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 58,
-      "Кузьмин Александр Сергеевич": 21,
-      "Кузьмин Михаил Владимирович": 148,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 18,
-      "Рукосуев Юрий Викторович": 16,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 59
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 58,
+      "gas:candidate-vibid:2262000862946": 21,
+      "gas:candidate-vibid:2262000863601": 148,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 18,
+      "gas:candidate-vibid:2262000862161": 16,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 57,
-      "Кузьмин Александр Сергеевич": 23,
-      "Кузьмин Михаил Владимирович": 193,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 13,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 11
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 57,
+      "gas:candidate-vibid:2262000862946": 23,
+      "gas:candidate-vibid:2262000863601": 193,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 13,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 35,
-      "Дроздова Ольга Павловна": 206,
-      "Кузьмин Александр Сергеевич": 56,
-      "Кузьмин Михаил Владимирович": 275,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 35,
-      "Сасин Николай Иванович": 27,
-      "Соболев Виктор Иванович": 105
+      "gas:candidate-vibid:2262000863578": 35,
+      "gas:candidate-vibid:2262000773770": 206,
+      "gas:candidate-vibid:2262000862946": 56,
+      "gas:candidate-vibid:2262000863601": 275,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 35,
+      "gas:candidate-vibid:2262000864310": 27,
+      "gas:candidate-vibid:2262000864460": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 148,
-      "Кузьмин Александр Сергеевич": 44,
-      "Кузьмин Михаил Владимирович": 512,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 32
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 148,
+      "gas:candidate-vibid:2262000862946": 44,
+      "gas:candidate-vibid:2262000863601": 512,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 62,
-      "Кузьмин Александр Сергеевич": 12,
-      "Кузьмин Михаил Владимирович": 322,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 12,
-      "Сасин Николай Иванович": 14,
-      "Соболев Виктор Иванович": 62
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 62,
+      "gas:candidate-vibid:2262000862946": 12,
+      "gas:candidate-vibid:2262000863601": 322,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 12,
+      "gas:candidate-vibid:2262000864310": 14,
+      "gas:candidate-vibid:2262000864460": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 30,
-      "Дроздова Ольга Павловна": 105,
-      "Кузьмин Александр Сергеевич": 42,
-      "Кузьмин Михаил Владимирович": 247,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 52
+      "gas:candidate-vibid:2262000863578": 30,
+      "gas:candidate-vibid:2262000773770": 105,
+      "gas:candidate-vibid:2262000862946": 42,
+      "gas:candidate-vibid:2262000863601": 247,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 71,
-      "Кузьмин Александр Сергеевич": 11,
-      "Кузьмин Михаил Владимирович": 422,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 10,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 11
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 71,
+      "gas:candidate-vibid:2262000862946": 11,
+      "gas:candidate-vibid:2262000863601": 422,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 10,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 18,
-      "Дроздова Ольга Павловна": 111,
-      "Кузьмин Александр Сергеевич": 33,
-      "Кузьмин Михаил Владимирович": 593,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 20,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 72
+      "gas:candidate-vibid:2262000863578": 18,
+      "gas:candidate-vibid:2262000773770": 111,
+      "gas:candidate-vibid:2262000862946": 33,
+      "gas:candidate-vibid:2262000863601": 593,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 20,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 112,
-      "Кузьмин Александр Сергеевич": 49,
-      "Кузьмин Михаил Владимирович": 504,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 13,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 39
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 112,
+      "gas:candidate-vibid:2262000862946": 49,
+      "gas:candidate-vibid:2262000863601": 504,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 13,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 39,
-      "Дроздова Ольга Павловна": 175,
-      "Кузьмин Александр Сергеевич": 75,
-      "Кузьмин Михаил Владимирович": 607,
-      "Кулагин Сергей Сергеевич": 28,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 30,
-      "Рукосуев Юрий Викторович": 45,
-      "Сасин Николай Иванович": 44,
-      "Соболев Виктор Иванович": 134
+      "gas:candidate-vibid:2262000863578": 39,
+      "gas:candidate-vibid:2262000773770": 175,
+      "gas:candidate-vibid:2262000862946": 75,
+      "gas:candidate-vibid:2262000863601": 607,
+      "gas:candidate-vibid:2262000864387": 28,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 30,
+      "gas:candidate-vibid:2262000862161": 45,
+      "gas:candidate-vibid:2262000864310": 44,
+      "gas:candidate-vibid:2262000864460": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 116,
-      "Кузьмин Александр Сергеевич": 35,
-      "Кузьмин Михаил Владимирович": 185,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 17,
-      "Соболев Виктор Иванович": 48
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 116,
+      "gas:candidate-vibid:2262000862946": 35,
+      "gas:candidate-vibid:2262000863601": 185,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 17,
+      "gas:candidate-vibid:2262000864460": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 33,
-      "Дроздова Ольга Павловна": 245,
-      "Кузьмин Александр Сергеевич": 118,
-      "Кузьмин Михаил Владимирович": 392,
-      "Кулагин Сергей Сергеевич": 19,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 24,
-      "Рукосуев Юрий Викторович": 52,
-      "Сасин Николай Иванович": 32,
-      "Соболев Виктор Иванович": 140
+      "gas:candidate-vibid:2262000863578": 33,
+      "gas:candidate-vibid:2262000773770": 245,
+      "gas:candidate-vibid:2262000862946": 118,
+      "gas:candidate-vibid:2262000863601": 392,
+      "gas:candidate-vibid:2262000864387": 19,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 24,
+      "gas:candidate-vibid:2262000862161": 52,
+      "gas:candidate-vibid:2262000864310": 32,
+      "gas:candidate-vibid:2262000864460": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 32,
-      "Дроздова Ольга Павловна": 198,
-      "Кузьмин Александр Сергеевич": 63,
-      "Кузьмин Михаил Владимирович": 575,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 25,
-      "Рукосуев Юрий Викторович": 43,
-      "Сасин Николай Иванович": 30,
-      "Соболев Виктор Иванович": 109
+      "gas:candidate-vibid:2262000863578": 32,
+      "gas:candidate-vibid:2262000773770": 198,
+      "gas:candidate-vibid:2262000862946": 63,
+      "gas:candidate-vibid:2262000863601": 575,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 25,
+      "gas:candidate-vibid:2262000862161": 43,
+      "gas:candidate-vibid:2262000864310": 30,
+      "gas:candidate-vibid:2262000864460": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 137,
-      "Кузьмин Александр Сергеевич": 26,
-      "Кузьмин Михаил Владимирович": 371,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 26,
-      "Соболев Виктор Иванович": 65
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 137,
+      "gas:candidate-vibid:2262000862946": 26,
+      "gas:candidate-vibid:2262000863601": 371,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 26,
+      "gas:candidate-vibid:2262000864460": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 27,
-      "Дроздова Ольга Павловна": 201,
-      "Кузьмин Александр Сергеевич": 55,
-      "Кузьмин Михаил Владимирович": 726,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 17,
-      "Рукосуев Юрий Викторович": 35,
-      "Сасин Николай Иванович": 25,
-      "Соболев Виктор Иванович": 107
+      "gas:candidate-vibid:2262000863578": 27,
+      "gas:candidate-vibid:2262000773770": 201,
+      "gas:candidate-vibid:2262000862946": 55,
+      "gas:candidate-vibid:2262000863601": 726,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 17,
+      "gas:candidate-vibid:2262000862161": 35,
+      "gas:candidate-vibid:2262000864310": 25,
+      "gas:candidate-vibid:2262000864460": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 46,
-      "Дроздова Ольга Павловна": 142,
-      "Кузьмин Александр Сергеевич": 49,
-      "Кузьмин Михаил Владимирович": 396,
-      "Кулагин Сергей Сергеевич": 25,
-      "Лебедев Павел Валерьевич": 20,
-      "Мохов Евгений Александрович": 21,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 31,
-      "Соболев Виктор Иванович": 104
+      "gas:candidate-vibid:2262000863578": 46,
+      "gas:candidate-vibid:2262000773770": 142,
+      "gas:candidate-vibid:2262000862946": 49,
+      "gas:candidate-vibid:2262000863601": 396,
+      "gas:candidate-vibid:2262000864387": 25,
+      "gas:candidate-vibid:2262000865086": 20,
+      "gas:candidate-vibid:2262000865412": 21,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 31,
+      "gas:candidate-vibid:2262000864460": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 30,
-      "Дроздова Ольга Павловна": 164,
-      "Кузьмин Александр Сергеевич": 23,
-      "Кузьмин Михаил Владимирович": 396,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 40,
-      "Сасин Николай Иванович": 31,
-      "Соболев Виктор Иванович": 88
+      "gas:candidate-vibid:2262000863578": 30,
+      "gas:candidate-vibid:2262000773770": 164,
+      "gas:candidate-vibid:2262000862946": 23,
+      "gas:candidate-vibid:2262000863601": 396,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 40,
+      "gas:candidate-vibid:2262000864310": 31,
+      "gas:candidate-vibid:2262000864460": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 31,
-      "Дроздова Ольга Павловна": 182,
-      "Кузьмин Александр Сергеевич": 53,
-      "Кузьмин Михаил Владимирович": 344,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 21,
-      "Мохов Евгений Александрович": 21,
-      "Рукосуев Юрий Викторович": 36,
-      "Сасин Николай Иванович": 29,
-      "Соболев Виктор Иванович": 88
+      "gas:candidate-vibid:2262000863578": 31,
+      "gas:candidate-vibid:2262000773770": 182,
+      "gas:candidate-vibid:2262000862946": 53,
+      "gas:candidate-vibid:2262000863601": 344,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 21,
+      "gas:candidate-vibid:2262000865412": 21,
+      "gas:candidate-vibid:2262000862161": 36,
+      "gas:candidate-vibid:2262000864310": 29,
+      "gas:candidate-vibid:2262000864460": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 43,
-      "Дроздова Ольга Павловна": 181,
-      "Кузьмин Александр Сергеевич": 43,
-      "Кузьмин Михаил Владимирович": 548,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 19,
-      "Мохов Евгений Александрович": 14,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 33,
-      "Соболев Виктор Иванович": 88
+      "gas:candidate-vibid:2262000863578": 43,
+      "gas:candidate-vibid:2262000773770": 181,
+      "gas:candidate-vibid:2262000862946": 43,
+      "gas:candidate-vibid:2262000863601": 548,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 19,
+      "gas:candidate-vibid:2262000865412": 14,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 33,
+      "gas:candidate-vibid:2262000864460": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 28,
-      "Дроздова Ольга Павловна": 166,
-      "Кузьмин Александр Сергеевич": 43,
-      "Кузьмин Михаил Владимирович": 426,
-      "Кулагин Сергей Сергеевич": 24,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 18,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 26,
-      "Соболев Виктор Иванович": 59
+      "gas:candidate-vibid:2262000863578": 28,
+      "gas:candidate-vibid:2262000773770": 166,
+      "gas:candidate-vibid:2262000862946": 43,
+      "gas:candidate-vibid:2262000863601": 426,
+      "gas:candidate-vibid:2262000864387": 24,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 18,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 26,
+      "gas:candidate-vibid:2262000864460": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 29,
-      "Дроздова Ольга Павловна": 224,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 326,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 21,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 42,
-      "Соболев Виктор Иванович": 91
+      "gas:candidate-vibid:2262000863578": 29,
+      "gas:candidate-vibid:2262000773770": 224,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 326,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 21,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 42,
+      "gas:candidate-vibid:2262000864460": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 50,
-      "Дроздова Ольга Павловна": 269,
-      "Кузьмин Александр Сергеевич": 96,
-      "Кузьмин Михаил Владимирович": 376,
-      "Кулагин Сергей Сергеевич": 27,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 22,
-      "Рукосуев Юрий Викторович": 44,
-      "Сасин Николай Иванович": 33,
-      "Соболев Виктор Иванович": 121
+      "gas:candidate-vibid:2262000863578": 50,
+      "gas:candidate-vibid:2262000773770": 269,
+      "gas:candidate-vibid:2262000862946": 96,
+      "gas:candidate-vibid:2262000863601": 376,
+      "gas:candidate-vibid:2262000864387": 27,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 22,
+      "gas:candidate-vibid:2262000862161": 44,
+      "gas:candidate-vibid:2262000864310": 33,
+      "gas:candidate-vibid:2262000864460": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 27,
-      "Дроздова Ольга Павловна": 123,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 550,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 24,
-      "Соболев Виктор Иванович": 122
+      "gas:candidate-vibid:2262000863578": 27,
+      "gas:candidate-vibid:2262000773770": 123,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 550,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 24,
+      "gas:candidate-vibid:2262000864460": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 16,
-      "Кузьмин Александр Сергеевич": 19,
-      "Кузьмин Михаил Владимирович": 299,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 16,
+      "gas:candidate-vibid:2262000862946": 19,
+      "gas:candidate-vibid:2262000863601": 299,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 30,
-      "Дроздова Ольга Павловна": 256,
-      "Кузьмин Александр Сергеевич": 70,
-      "Кузьмин Михаил Владимирович": 345,
-      "Кулагин Сергей Сергеевич": 25,
-      "Лебедев Павел Валерьевич": 24,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 47,
-      "Соболев Виктор Иванович": 97
+      "gas:candidate-vibid:2262000863578": 30,
+      "gas:candidate-vibid:2262000773770": 256,
+      "gas:candidate-vibid:2262000862946": 70,
+      "gas:candidate-vibid:2262000863601": 345,
+      "gas:candidate-vibid:2262000864387": 25,
+      "gas:candidate-vibid:2262000865086": 24,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 47,
+      "gas:candidate-vibid:2262000864460": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 18,
-      "Дроздова Ольга Павловна": 97,
-      "Кузьмин Александр Сергеевич": 17,
-      "Кузьмин Михаил Владимирович": 260,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 21,
-      "Сасин Николай Иванович": 22,
-      "Соболев Виктор Иванович": 51
+      "gas:candidate-vibid:2262000863578": 18,
+      "gas:candidate-vibid:2262000773770": 97,
+      "gas:candidate-vibid:2262000862946": 17,
+      "gas:candidate-vibid:2262000863601": 260,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 21,
+      "gas:candidate-vibid:2262000864310": 22,
+      "gas:candidate-vibid:2262000864460": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 23,
-      "Кузьмин Александр Сергеевич": 7,
-      "Кузьмин Михаил Владимирович": 39,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 12
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 23,
+      "gas:candidate-vibid:2262000862946": 7,
+      "gas:candidate-vibid:2262000863601": 39,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 14,
-      "Кузьмин Александр Сергеевич": 8,
-      "Кузьмин Михаил Владимирович": 54,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 2,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 14,
+      "gas:candidate-vibid:2262000862946": 8,
+      "gas:candidate-vibid:2262000863601": 54,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 2,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 7,
-      "Кузьмин Александр Сергеевич": 3,
-      "Кузьмин Михаил Владимирович": 10,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 4,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 10
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 7,
+      "gas:candidate-vibid:2262000862946": 3,
+      "gas:candidate-vibid:2262000863601": 10,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 4,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761445&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761445&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 166,
-      "Кузьмин Александр Сергеевич": 64,
-      "Кузьмин Михаил Владимирович": 286,
-      "Кулагин Сергей Сергеевич": 22,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 54,
-      "Соболев Виктор Иванович": 117
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 166,
+      "gas:candidate-vibid:2262000862946": 64,
+      "gas:candidate-vibid:2262000863601": 286,
+      "gas:candidate-vibid:2262000864387": 22,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 54,
+      "gas:candidate-vibid:2262000864460": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 98,
-      "Кузьмин Александр Сергеевич": 48,
-      "Кузьмин Михаил Владимирович": 253,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 30,
-      "Сасин Николай Иванович": 31,
-      "Соболев Виктор Иванович": 93
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 98,
+      "gas:candidate-vibid:2262000862946": 48,
+      "gas:candidate-vibid:2262000863601": 253,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 30,
+      "gas:candidate-vibid:2262000864310": 31,
+      "gas:candidate-vibid:2262000864460": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 154,
-      "Кузьмин Александр Сергеевич": 64,
-      "Кузьмин Михаил Владимирович": 284,
-      "Кулагин Сергей Сергеевич": 22,
-      "Лебедев Павел Валерьевич": 24,
-      "Мохов Евгений Александрович": 20,
-      "Рукосуев Юрий Викторович": 44,
-      "Сасин Николай Иванович": 45,
-      "Соболев Виктор Иванович": 112
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 154,
+      "gas:candidate-vibid:2262000862946": 64,
+      "gas:candidate-vibid:2262000863601": 284,
+      "gas:candidate-vibid:2262000864387": 22,
+      "gas:candidate-vibid:2262000865086": 24,
+      "gas:candidate-vibid:2262000865412": 20,
+      "gas:candidate-vibid:2262000862161": 44,
+      "gas:candidate-vibid:2262000864310": 45,
+      "gas:candidate-vibid:2262000864460": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 75,
-      "Кузьмин Александр Сергеевич": 34,
-      "Кузьмин Михаил Владимирович": 186,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 24,
-      "Соболев Виктор Иванович": 90
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 75,
+      "gas:candidate-vibid:2262000862946": 34,
+      "gas:candidate-vibid:2262000863601": 186,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 24,
+      "gas:candidate-vibid:2262000864460": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 92,
-      "Кузьмин Александр Сергеевич": 58,
-      "Кузьмин Михаил Владимирович": 190,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 36,
-      "Соболев Виктор Иванович": 74
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 92,
+      "gas:candidate-vibid:2262000862946": 58,
+      "gas:candidate-vibid:2262000863601": 190,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 36,
+      "gas:candidate-vibid:2262000864460": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 137,
-      "Кузьмин Александр Сергеевич": 67,
-      "Кузьмин Михаил Владимирович": 238,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 27,
-      "Соболев Виктор Иванович": 90
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 137,
+      "gas:candidate-vibid:2262000862946": 67,
+      "gas:candidate-vibid:2262000863601": 238,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 27,
+      "gas:candidate-vibid:2262000864460": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 92,
-      "Кузьмин Александр Сергеевич": 33,
-      "Кузьмин Михаил Владимирович": 218,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 32,
-      "Соболев Виктор Иванович": 74
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 92,
+      "gas:candidate-vibid:2262000862946": 33,
+      "gas:candidate-vibid:2262000863601": 218,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 32,
+      "gas:candidate-vibid:2262000864460": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 57,
-      "Кузьмин Александр Сергеевич": 25,
-      "Кузьмин Михаил Владимирович": 129,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 18,
-      "Соболев Виктор Иванович": 35
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 57,
+      "gas:candidate-vibid:2262000862946": 25,
+      "gas:candidate-vibid:2262000863601": 129,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 18,
+      "gas:candidate-vibid:2262000864460": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 25,
-      "Дроздова Ольга Павловна": 130,
-      "Кузьмин Александр Сергеевич": 56,
-      "Кузьмин Михаил Владимирович": 271,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 27,
-      "Сасин Николай Иванович": 51,
-      "Соболев Виктор Иванович": 126
+      "gas:candidate-vibid:2262000863578": 25,
+      "gas:candidate-vibid:2262000773770": 130,
+      "gas:candidate-vibid:2262000862946": 56,
+      "gas:candidate-vibid:2262000863601": 271,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 27,
+      "gas:candidate-vibid:2262000864310": 51,
+      "gas:candidate-vibid:2262000864460": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 102,
-      "Кузьмин Александр Сергеевич": 42,
-      "Кузьмин Михаил Владимирович": 180,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 14,
-      "Сасин Николай Иванович": 31,
-      "Соболев Виктор Иванович": 75
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 102,
+      "gas:candidate-vibid:2262000862946": 42,
+      "gas:candidate-vibid:2262000863601": 180,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 14,
+      "gas:candidate-vibid:2262000864310": 31,
+      "gas:candidate-vibid:2262000864460": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 121,
-      "Кузьмин Александр Сергеевич": 52,
-      "Кузьмин Михаил Владимирович": 237,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 36,
-      "Сасин Николай Иванович": 30,
-      "Соболев Виктор Иванович": 69
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 121,
+      "gas:candidate-vibid:2262000862946": 52,
+      "gas:candidate-vibid:2262000863601": 237,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 36,
+      "gas:candidate-vibid:2262000864310": 30,
+      "gas:candidate-vibid:2262000864460": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 173,
-      "Кузьмин Александр Сергеевич": 52,
-      "Кузьмин Михаил Владимирович": 194,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 36,
-      "Сасин Николай Иванович": 29,
-      "Соболев Виктор Иванович": 90
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 173,
+      "gas:candidate-vibid:2262000862946": 52,
+      "gas:candidate-vibid:2262000863601": 194,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 36,
+      "gas:candidate-vibid:2262000864310": 29,
+      "gas:candidate-vibid:2262000864460": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 115,
-      "Кузьмин Александр Сергеевич": 32,
-      "Кузьмин Михаил Владимирович": 168,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 27,
-      "Сасин Николай Иванович": 23,
-      "Соболев Виктор Иванович": 49
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 115,
+      "gas:candidate-vibid:2262000862946": 32,
+      "gas:candidate-vibid:2262000863601": 168,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 27,
+      "gas:candidate-vibid:2262000864310": 23,
+      "gas:candidate-vibid:2262000864460": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 21,
-      "Кузьмин Александр Сергеевич": 17,
-      "Кузьмин Михаил Владимирович": 43,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 16,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 11
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 21,
+      "gas:candidate-vibid:2262000862946": 17,
+      "gas:candidate-vibid:2262000863601": 43,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 16,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 89,
-      "Кузьмин Александр Сергеевич": 76,
-      "Кузьмин Михаил Владимирович": 286,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 49,
-      "Сасин Николай Иванович": 18,
-      "Соболев Виктор Иванович": 98
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 89,
+      "gas:candidate-vibid:2262000862946": 76,
+      "gas:candidate-vibid:2262000863601": 286,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 49,
+      "gas:candidate-vibid:2262000864310": 18,
+      "gas:candidate-vibid:2262000864460": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 76,
-      "Кузьмин Александр Сергеевич": 60,
-      "Кузьмин Михаил Владимирович": 282,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 38,
-      "Сасин Николай Иванович": 31,
-      "Соболев Виктор Иванович": 89
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 76,
+      "gas:candidate-vibid:2262000862946": 60,
+      "gas:candidate-vibid:2262000863601": 282,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 38,
+      "gas:candidate-vibid:2262000864310": 31,
+      "gas:candidate-vibid:2262000864460": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 6,
-      "Дроздова Ольга Павловна": 52,
-      "Кузьмин Александр Сергеевич": 37,
-      "Кузьмин Михаил Владимирович": 198,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 20,
-      "Сасин Николай Иванович": 18,
-      "Соболев Виктор Иванович": 53
+      "gas:candidate-vibid:2262000863578": 6,
+      "gas:candidate-vibid:2262000773770": 52,
+      "gas:candidate-vibid:2262000862946": 37,
+      "gas:candidate-vibid:2262000863601": 198,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 20,
+      "gas:candidate-vibid:2262000864310": 18,
+      "gas:candidate-vibid:2262000864460": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 89,
-      "Кузьмин Александр Сергеевич": 72,
-      "Кузьмин Михаил Владимирович": 305,
-      "Кулагин Сергей Сергеевич": 22,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 43,
-      "Сасин Николай Иванович": 24,
-      "Соболев Виктор Иванович": 57
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 89,
+      "gas:candidate-vibid:2262000862946": 72,
+      "gas:candidate-vibid:2262000863601": 305,
+      "gas:candidate-vibid:2262000864387": 22,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 43,
+      "gas:candidate-vibid:2262000864310": 24,
+      "gas:candidate-vibid:2262000864460": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 22,
-      "Кузьмин Александр Сергеевич": 17,
-      "Кузьмин Михаил Владимирович": 113,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 2,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 8
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 22,
+      "gas:candidate-vibid:2262000862946": 17,
+      "gas:candidate-vibid:2262000863601": 113,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 2,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 23,
-      "Дроздова Ольга Павловна": 111,
-      "Кузьмин Александр Сергеевич": 157,
-      "Кузьмин Михаил Владимирович": 283,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 39,
-      "Сасин Николай Иванович": 17,
-      "Соболев Виктор Иванович": 106
+      "gas:candidate-vibid:2262000863578": 23,
+      "gas:candidate-vibid:2262000773770": 111,
+      "gas:candidate-vibid:2262000862946": 157,
+      "gas:candidate-vibid:2262000863601": 283,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 39,
+      "gas:candidate-vibid:2262000864310": 17,
+      "gas:candidate-vibid:2262000864460": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 39,
-      "Дроздова Ольга Павловна": 113,
-      "Кузьмин Александр Сергеевич": 122,
-      "Кузьмин Михаил Владимирович": 350,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 60
+      "gas:candidate-vibid:2262000863578": 39,
+      "gas:candidate-vibid:2262000773770": 113,
+      "gas:candidate-vibid:2262000862946": 122,
+      "gas:candidate-vibid:2262000863601": 350,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 23,
-      "Дроздова Ольга Павловна": 56,
-      "Кузьмин Александр Сергеевич": 59,
-      "Кузьмин Михаил Владимирович": 185,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 18,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 40
+      "gas:candidate-vibid:2262000863578": 23,
+      "gas:candidate-vibid:2262000773770": 56,
+      "gas:candidate-vibid:2262000862946": 59,
+      "gas:candidate-vibid:2262000863601": 185,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 18,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 21,
-      "Дроздова Ольга Павловна": 84,
-      "Кузьмин Александр Сергеевич": 84,
-      "Кузьмин Михаил Владимирович": 263,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 69
+      "gas:candidate-vibid:2262000863578": 21,
+      "gas:candidate-vibid:2262000773770": 84,
+      "gas:candidate-vibid:2262000862946": 84,
+      "gas:candidate-vibid:2262000863601": 263,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 33,
-      "Кузьмин Александр Сергеевич": 46,
-      "Кузьмин Михаил Владимирович": 138,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 14,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 52
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 33,
+      "gas:candidate-vibid:2262000862946": 46,
+      "gas:candidate-vibid:2262000863601": 138,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 14,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761446&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761446&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 169,
-      "Кузьмин Александр Сергеевич": 61,
-      "Кузьмин Михаил Владимирович": 220,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 21,
-      "Соболев Виктор Иванович": 71
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 169,
+      "gas:candidate-vibid:2262000862946": 61,
+      "gas:candidate-vibid:2262000863601": 220,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 21,
+      "gas:candidate-vibid:2262000864460": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 179,
-      "Кузьмин Александр Сергеевич": 80,
-      "Кузьмин Михаил Владимирович": 305,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 24,
-      "Соболев Виктор Иванович": 107
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 179,
+      "gas:candidate-vibid:2262000862946": 80,
+      "gas:candidate-vibid:2262000863601": 305,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 24,
+      "gas:candidate-vibid:2262000864460": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 197,
-      "Кузьмин Александр Сергеевич": 96,
-      "Кузьмин Михаил Владимирович": 289,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 18,
-      "Соболев Виктор Иванович": 119
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 197,
+      "gas:candidate-vibid:2262000862946": 96,
+      "gas:candidate-vibid:2262000863601": 289,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 18,
+      "gas:candidate-vibid:2262000864460": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 205,
-      "Кузьмин Александр Сергеевич": 76,
-      "Кузьмин Михаил Владимирович": 301,
-      "Кулагин Сергей Сергеевич": 21,
-      "Лебедев Павел Валерьевич": 19,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 27,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 111
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 205,
+      "gas:candidate-vibid:2262000862946": 76,
+      "gas:candidate-vibid:2262000863601": 301,
+      "gas:candidate-vibid:2262000864387": 21,
+      "gas:candidate-vibid:2262000865086": 19,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 27,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 85,
-      "Кузьмин Александр Сергеевич": 35,
-      "Кузьмин Михаил Владимирович": 120,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 15,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 30
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 85,
+      "gas:candidate-vibid:2262000862946": 35,
+      "gas:candidate-vibid:2262000863601": 120,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 15,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 18,
-      "Дроздова Ольга Павловна": 153,
-      "Кузьмин Александр Сергеевич": 60,
-      "Кузьмин Михаил Владимирович": 198,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 48
+      "gas:candidate-vibid:2262000863578": 18,
+      "gas:candidate-vibid:2262000773770": 153,
+      "gas:candidate-vibid:2262000862946": 60,
+      "gas:candidate-vibid:2262000863601": 198,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 38,
-      "Кузьмин Александр Сергеевич": 29,
-      "Кузьмин Михаил Владимирович": 82,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 11,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 25
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 38,
+      "gas:candidate-vibid:2262000862946": 29,
+      "gas:candidate-vibid:2262000863601": 82,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 11,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 141,
-      "Кузьмин Александр Сергеевич": 61,
-      "Кузьмин Михаил Владимирович": 185,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 42,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 71
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 141,
+      "gas:candidate-vibid:2262000862946": 61,
+      "gas:candidate-vibid:2262000863601": 185,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 42,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 25,
-      "Дроздова Ольга Павловна": 155,
-      "Кузьмин Александр Сергеевич": 61,
-      "Кузьмин Михаил Владимирович": 228,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 39,
-      "Соболев Виктор Иванович": 81
+      "gas:candidate-vibid:2262000863578": 25,
+      "gas:candidate-vibid:2262000773770": 155,
+      "gas:candidate-vibid:2262000862946": 61,
+      "gas:candidate-vibid:2262000863601": 228,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 39,
+      "gas:candidate-vibid:2262000864460": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 15,
-      "Дроздова Ольга Павловна": 181,
-      "Кузьмин Александр Сергеевич": 74,
-      "Кузьмин Михаил Владимирович": 249,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 78
+      "gas:candidate-vibid:2262000863578": 15,
+      "gas:candidate-vibid:2262000773770": 181,
+      "gas:candidate-vibid:2262000862946": 74,
+      "gas:candidate-vibid:2262000863601": 249,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 167,
-      "Кузьмин Александр Сергеевич": 68,
-      "Кузьмин Михаил Владимирович": 248,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 40,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 67
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 167,
+      "gas:candidate-vibid:2262000862946": 68,
+      "gas:candidate-vibid:2262000863601": 248,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 40,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 188,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 286,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 43,
-      "Сасин Николай Иванович": 18,
-      "Соболев Виктор Иванович": 44
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 188,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 286,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 43,
+      "gas:candidate-vibid:2262000864310": 18,
+      "gas:candidate-vibid:2262000864460": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 89,
-      "Кузьмин Александр Сергеевич": 54,
-      "Кузьмин Михаил Владимирович": 152,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 50
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 89,
+      "gas:candidate-vibid:2262000862946": 54,
+      "gas:candidate-vibid:2262000863601": 152,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 67,
-      "Кузьмин Александр Сергеевич": 41,
-      "Кузьмин Михаил Владимирович": 111,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 52
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 67,
+      "gas:candidate-vibid:2262000862946": 41,
+      "gas:candidate-vibid:2262000863601": 111,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 74,
-      "Кузьмин Александр Сергеевич": 55,
-      "Кузьмин Михаил Владимирович": 237,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 13,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 17
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 74,
+      "gas:candidate-vibid:2262000862946": 55,
+      "gas:candidate-vibid:2262000863601": 237,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 13,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 37,
-      "Кузьмин Александр Сергеевич": 42,
-      "Кузьмин Михаил Владимирович": 150,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 14,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 21
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 37,
+      "gas:candidate-vibid:2262000862946": 42,
+      "gas:candidate-vibid:2262000863601": 150,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 14,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 125,
-      "Кузьмин Александр Сергеевич": 95,
-      "Кузьмин Михаил Владимирович": 426,
-      "Кулагин Сергей Сергеевич": 21,
-      "Лебедев Павел Валерьевич": 20,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 70,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 116
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 125,
+      "gas:candidate-vibid:2262000862946": 95,
+      "gas:candidate-vibid:2262000863601": 426,
+      "gas:candidate-vibid:2262000864387": 21,
+      "gas:candidate-vibid:2262000865086": 20,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 70,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 25,
-      "Дроздова Ольга Павловна": 133,
-      "Кузьмин Александр Сергеевич": 107,
-      "Кузьмин Михаил Владимирович": 300,
-      "Кулагин Сергей Сергеевич": 22,
-      "Лебедев Павел Валерьевич": 28,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 69,
-      "Сасин Николай Иванович": 21,
-      "Соболев Виктор Иванович": 82
+      "gas:candidate-vibid:2262000863578": 25,
+      "gas:candidate-vibid:2262000773770": 133,
+      "gas:candidate-vibid:2262000862946": 107,
+      "gas:candidate-vibid:2262000863601": 300,
+      "gas:candidate-vibid:2262000864387": 22,
+      "gas:candidate-vibid:2262000865086": 28,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 69,
+      "gas:candidate-vibid:2262000864310": 21,
+      "gas:candidate-vibid:2262000864460": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 84,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 181,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 82
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 84,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 181,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 56,
-      "Кузьмин Александр Сергеевич": 38,
-      "Кузьмин Михаил Владимирович": 133,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 27,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 77
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 56,
+      "gas:candidate-vibid:2262000862946": 38,
+      "gas:candidate-vibid:2262000863601": 133,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 27,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 79,
-      "Кузьмин Александр Сергеевич": 68,
-      "Кузьмин Михаил Владимирович": 245,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 12,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 39
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 79,
+      "gas:candidate-vibid:2262000862946": 68,
+      "gas:candidate-vibid:2262000863601": 245,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 12,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 89,
-      "Кузьмин Александр Сергеевич": 58,
-      "Кузьмин Михаил Владимирович": 375,
-      "Кулагин Сергей Сергеевич": 20,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 30,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 124
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 89,
+      "gas:candidate-vibid:2262000862946": 58,
+      "gas:candidate-vibid:2262000863601": 375,
+      "gas:candidate-vibid:2262000864387": 20,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 30,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 15,
-      "Дроздова Ольга Павловна": 103,
-      "Кузьмин Александр Сергеевич": 66,
-      "Кузьмин Михаил Владимирович": 351,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 42,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 121
+      "gas:candidate-vibid:2262000863578": 15,
+      "gas:candidate-vibid:2262000773770": 103,
+      "gas:candidate-vibid:2262000862946": 66,
+      "gas:candidate-vibid:2262000863601": 351,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 42,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 23,
-      "Дроздова Ольга Павловна": 112,
-      "Кузьмин Александр Сергеевич": 91,
-      "Кузьмин Михаил Владимирович": 231,
-      "Кулагин Сергей Сергеевич": 20,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 12,
-      "Рукосуев Юрий Викторович": 47,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 56
+      "gas:candidate-vibid:2262000863578": 23,
+      "gas:candidate-vibid:2262000773770": 112,
+      "gas:candidate-vibid:2262000862946": 91,
+      "gas:candidate-vibid:2262000863601": 231,
+      "gas:candidate-vibid:2262000864387": 20,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 12,
+      "gas:candidate-vibid:2262000862161": 47,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 75,
-      "Кузьмин Александр Сергеевич": 39,
-      "Кузьмин Михаил Владимирович": 126,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 52
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 75,
+      "gas:candidate-vibid:2262000862946": 39,
+      "gas:candidate-vibid:2262000863601": 126,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 63,
-      "Кузьмин Александр Сергеевич": 43,
-      "Кузьмин Михаил Владимирович": 113,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 46
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 63,
+      "gas:candidate-vibid:2262000862946": 43,
+      "gas:candidate-vibid:2262000863601": 113,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 12,
-      "Кузьмин Александр Сергеевич": 52,
-      "Кузьмин Михаил Владимирович": 492,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 50
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 12,
+      "gas:candidate-vibid:2262000862946": 52,
+      "gas:candidate-vibid:2262000863601": 492,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761447&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761447&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 114,
-      "Кузьмин Александр Сергеевич": 73,
-      "Кузьмин Михаил Владимирович": 222,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 162
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 114,
+      "gas:candidate-vibid:2262000862946": 73,
+      "gas:candidate-vibid:2262000863601": 222,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 58,
-      "Кузьмин Александр Сергеевич": 42,
-      "Кузьмин Михаил Владимирович": 137,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 15,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 66
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 58,
+      "gas:candidate-vibid:2262000862946": 42,
+      "gas:candidate-vibid:2262000863601": 137,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 15,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 165,
-      "Кузьмин Александр Сергеевич": 102,
-      "Кузьмин Михаил Владимирович": 339,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 36,
-      "Сасин Николай Иванович": 20,
-      "Соболев Виктор Иванович": 77
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 165,
+      "gas:candidate-vibid:2262000862946": 102,
+      "gas:candidate-vibid:2262000863601": 339,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 36,
+      "gas:candidate-vibid:2262000864310": 20,
+      "gas:candidate-vibid:2262000864460": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 146,
-      "Кузьмин Александр Сергеевич": 109,
-      "Кузьмин Михаил Владимирович": 453,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 59
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 146,
+      "gas:candidate-vibid:2262000862946": 109,
+      "gas:candidate-vibid:2262000863601": 453,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 132,
-      "Кузьмин Александр Сергеевич": 59,
-      "Кузьмин Михаил Владимирович": 411,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 16,
-      "Сасин Николай Иванович": 23,
-      "Соболев Виктор Иванович": 59
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 132,
+      "gas:candidate-vibid:2262000862946": 59,
+      "gas:candidate-vibid:2262000863601": 411,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 16,
+      "gas:candidate-vibid:2262000864310": 23,
+      "gas:candidate-vibid:2262000864460": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 8,
-      "Кузьмин Александр Сергеевич": 8,
-      "Кузьмин Михаил Владимирович": 37,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 3
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 8,
+      "gas:candidate-vibid:2262000862946": 8,
+      "gas:candidate-vibid:2262000863601": 37,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 119,
-      "Кузьмин Александр Сергеевич": 97,
-      "Кузьмин Михаил Владимирович": 303,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 38,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 89
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 119,
+      "gas:candidate-vibid:2262000862946": 97,
+      "gas:candidate-vibid:2262000863601": 303,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 38,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 10,
-      "Кузьмин Александр Сергеевич": 18,
-      "Кузьмин Михаил Владимирович": 45,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 4,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 9
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 10,
+      "gas:candidate-vibid:2262000862946": 18,
+      "gas:candidate-vibid:2262000863601": 45,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 4,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 131,
-      "Кузьмин Александр Сергеевич": 79,
-      "Кузьмин Михаил Владимирович": 388,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 45,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 113
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 131,
+      "gas:candidate-vibid:2262000862946": 79,
+      "gas:candidate-vibid:2262000863601": 388,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 45,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 93,
-      "Кузьмин Александр Сергеевич": 56,
-      "Кузьмин Михаил Владимирович": 215,
-      "Кулагин Сергей Сергеевич": 20,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 23,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 56
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 93,
+      "gas:candidate-vibid:2262000862946": 56,
+      "gas:candidate-vibid:2262000863601": 215,
+      "gas:candidate-vibid:2262000864387": 20,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 23,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 90,
-      "Кузьмин Александр Сергеевич": 39,
-      "Кузьмин Михаил Владимирович": 200,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 13,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 59
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 90,
+      "gas:candidate-vibid:2262000862946": 39,
+      "gas:candidate-vibid:2262000863601": 200,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 13,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 71,
-      "Кузьмин Александр Сергеевич": 68,
-      "Кузьмин Михаил Владимирович": 491,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 35,
-      "Сасин Николай Иванович": 63,
-      "Соболев Виктор Иванович": 91
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 71,
+      "gas:candidate-vibid:2262000862946": 68,
+      "gas:candidate-vibid:2262000863601": 491,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 35,
+      "gas:candidate-vibid:2262000864310": 63,
+      "gas:candidate-vibid:2262000864460": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 18,
-      "Кузьмин Александр Сергеевич": 38,
-      "Кузьмин Михаил Владимирович": 129,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 13
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 18,
+      "gas:candidate-vibid:2262000862946": 38,
+      "gas:candidate-vibid:2262000863601": 129,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 18,
-      "Дроздова Ольга Павловна": 141,
-      "Кузьмин Александр Сергеевич": 96,
-      "Кузьмин Михаил Владимирович": 388,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 41,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 132
+      "gas:candidate-vibid:2262000863578": 18,
+      "gas:candidate-vibid:2262000773770": 141,
+      "gas:candidate-vibid:2262000862946": 96,
+      "gas:candidate-vibid:2262000863601": 388,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 41,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 19,
-      "Кузьмин Александр Сергеевич": 19,
-      "Кузьмин Михаил Владимирович": 106,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 13,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 38
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 19,
+      "gas:candidate-vibid:2262000862946": 19,
+      "gas:candidate-vibid:2262000863601": 106,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 13,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 6,
-      "Дроздова Ольга Павловна": 31,
-      "Кузьмин Александр Сергеевич": 25,
-      "Кузьмин Михаил Владимирович": 59,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 23
+      "gas:candidate-vibid:2262000863578": 6,
+      "gas:candidate-vibid:2262000773770": 31,
+      "gas:candidate-vibid:2262000862946": 25,
+      "gas:candidate-vibid:2262000863601": 59,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 46,
-      "Кузьмин Александр Сергеевич": 26,
-      "Кузьмин Михаил Владимирович": 387,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 22
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 46,
+      "gas:candidate-vibid:2262000862946": 26,
+      "gas:candidate-vibid:2262000863601": 387,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 150,
-      "Кузьмин Александр Сергеевич": 94,
-      "Кузьмин Михаил Владимирович": 501,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 39,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 87
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 150,
+      "gas:candidate-vibid:2262000862946": 94,
+      "gas:candidate-vibid:2262000863601": 501,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 39,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 41,
-      "Кузьмин Александр Сергеевич": 24,
-      "Кузьмин Михаил Владимирович": 120,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 18,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 37
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 41,
+      "gas:candidate-vibid:2262000862946": 24,
+      "gas:candidate-vibid:2262000863601": 120,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 18,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 8,
-      "Кузьмин Александр Сергеевич": 4,
-      "Кузьмин Михаил Владимирович": 56,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 8,
+      "gas:candidate-vibid:2262000862946": 4,
+      "gas:candidate-vibid:2262000863601": 56,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 68,
-      "Дроздова Ольга Павловна": 118,
-      "Кузьмин Александр Сергеевич": 126,
-      "Кузьмин Михаил Владимирович": 514,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 14,
-      "Соболев Виктор Иванович": 27
+      "gas:candidate-vibid:2262000863578": 68,
+      "gas:candidate-vibid:2262000773770": 118,
+      "gas:candidate-vibid:2262000862946": 126,
+      "gas:candidate-vibid:2262000863601": 514,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 14,
+      "gas:candidate-vibid:2262000864460": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761448&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761448&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 11,
-      "Кузьмин Александр Сергеевич": 12,
-      "Кузьмин Михаил Владимирович": 59,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 3,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 11,
+      "gas:candidate-vibid:2262000862946": 12,
+      "gas:candidate-vibid:2262000863601": 59,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 3,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 11,
-      "Кузьмин Александр Сергеевич": 5,
-      "Кузьмин Михаил Владимирович": 34,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 2,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 11
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 11,
+      "gas:candidate-vibid:2262000862946": 5,
+      "gas:candidate-vibid:2262000863601": 34,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 2,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 204,
-      "Кузьмин Александр Сергеевич": 60,
-      "Кузьмин Михаил Владимирович": 256,
-      "Кулагин Сергей Сергеевич": 20,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 78
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 204,
+      "gas:candidate-vibid:2262000862946": 60,
+      "gas:candidate-vibid:2262000863601": 256,
+      "gas:candidate-vibid:2262000864387": 20,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 164,
-      "Кузьмин Александр Сергеевич": 34,
-      "Кузьмин Михаил Владимирович": 656,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 19,
-      "Мохов Евгений Александрович": 21,
-      "Рукосуев Юрий Викторович": 61,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 51
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 164,
+      "gas:candidate-vibid:2262000862946": 34,
+      "gas:candidate-vibid:2262000863601": 656,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 19,
+      "gas:candidate-vibid:2262000865412": 21,
+      "gas:candidate-vibid:2262000862161": 61,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 275,
-      "Кузьмин Александр Сергеевич": 126,
-      "Кузьмин Михаил Владимирович": 487,
-      "Кулагин Сергей Сергеевич": 27,
-      "Лебедев Павел Валерьевич": 24,
-      "Мохов Евгений Александрович": 17,
-      "Рукосуев Юрий Викторович": 63,
-      "Сасин Николай Иванович": 26,
-      "Соболев Виктор Иванович": 200
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 275,
+      "gas:candidate-vibid:2262000862946": 126,
+      "gas:candidate-vibid:2262000863601": 487,
+      "gas:candidate-vibid:2262000864387": 27,
+      "gas:candidate-vibid:2262000865086": 24,
+      "gas:candidate-vibid:2262000865412": 17,
+      "gas:candidate-vibid:2262000862161": 63,
+      "gas:candidate-vibid:2262000864310": 26,
+      "gas:candidate-vibid:2262000864460": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 29,
-      "Дроздова Ольга Павловна": 242,
-      "Кузьмин Александр Сергеевич": 154,
-      "Кузьмин Михаил Владимирович": 536,
-      "Кулагин Сергей Сергеевич": 23,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 21,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 23,
-      "Соболев Виктор Иванович": 159
+      "gas:candidate-vibid:2262000863578": 29,
+      "gas:candidate-vibid:2262000773770": 242,
+      "gas:candidate-vibid:2262000862946": 154,
+      "gas:candidate-vibid:2262000863601": 536,
+      "gas:candidate-vibid:2262000864387": 23,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 21,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 23,
+      "gas:candidate-vibid:2262000864460": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 238,
-      "Кузьмин Александр Сергеевич": 81,
-      "Кузьмин Михаил Владимирович": 1127,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 22,
-      "Рукосуев Юрий Викторович": 48,
-      "Сасин Николай Иванович": 23,
-      "Соболев Виктор Иванович": 154
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 238,
+      "gas:candidate-vibid:2262000862946": 81,
+      "gas:candidate-vibid:2262000863601": 1127,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 22,
+      "gas:candidate-vibid:2262000862161": 48,
+      "gas:candidate-vibid:2262000864310": 23,
+      "gas:candidate-vibid:2262000864460": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 24,
-      "Дроздова Ольга Павловна": 429,
-      "Кузьмин Александр Сергеевич": 88,
-      "Кузьмин Михаил Владимирович": 628,
-      "Кулагин Сергей Сергеевич": 23,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 51,
-      "Сасин Николай Иванович": 22,
-      "Соболев Виктор Иванович": 164
+      "gas:candidate-vibid:2262000863578": 24,
+      "gas:candidate-vibid:2262000773770": 429,
+      "gas:candidate-vibid:2262000862946": 88,
+      "gas:candidate-vibid:2262000863601": 628,
+      "gas:candidate-vibid:2262000864387": 23,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 51,
+      "gas:candidate-vibid:2262000864310": 22,
+      "gas:candidate-vibid:2262000864460": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 49,
-      "Дроздова Ольга Павловна": 120,
-      "Кузьмин Александр Сергеевич": 68,
-      "Кузьмин Михаил Владимирович": 1450,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 44,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 36
+      "gas:candidate-vibid:2262000863578": 49,
+      "gas:candidate-vibid:2262000773770": 120,
+      "gas:candidate-vibid:2262000862946": 68,
+      "gas:candidate-vibid:2262000863601": 1450,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 44,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 21,
-      "Дроздова Ольга Павловна": 207,
-      "Кузьмин Александр Сергеевич": 94,
-      "Кузьмин Михаил Владимирович": 582,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 108
+      "gas:candidate-vibid:2262000863578": 21,
+      "gas:candidate-vibid:2262000773770": 207,
+      "gas:candidate-vibid:2262000862946": 94,
+      "gas:candidate-vibid:2262000863601": 582,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 15,
-      "Кузьмин Александр Сергеевич": 8,
-      "Кузьмин Михаил Владимирович": 110,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 8,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 15,
+      "gas:candidate-vibid:2262000862946": 8,
+      "gas:candidate-vibid:2262000863601": 110,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 8,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 18,
-      "Дроздова Ольга Павловна": 131,
-      "Кузьмин Александр Сергеевич": 67,
-      "Кузьмин Михаил Владимирович": 668,
-      "Кулагин Сергей Сергеевич": 39,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 49,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 101
+      "gas:candidate-vibid:2262000863578": 18,
+      "gas:candidate-vibid:2262000773770": 131,
+      "gas:candidate-vibid:2262000862946": 67,
+      "gas:candidate-vibid:2262000863601": 668,
+      "gas:candidate-vibid:2262000864387": 39,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 49,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 126,
-      "Кузьмин Александр Сергеевич": 30,
-      "Кузьмин Михаил Владимирович": 536,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 89
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 126,
+      "gas:candidate-vibid:2262000862946": 30,
+      "gas:candidate-vibid:2262000863601": 536,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 15,
-      "Дроздова Ольга Павловна": 52,
-      "Кузьмин Александр Сергеевич": 38,
-      "Кузьмин Михаил Владимирович": 177,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 46
+      "gas:candidate-vibid:2262000863578": 15,
+      "gas:candidate-vibid:2262000773770": 52,
+      "gas:candidate-vibid:2262000862946": 38,
+      "gas:candidate-vibid:2262000863601": 177,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 161,
-      "Кузьмин Александр Сергеевич": 68,
-      "Кузьмин Михаил Владимирович": 314,
-      "Кулагин Сергей Сергеевич": 24,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 31,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 152
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 161,
+      "gas:candidate-vibid:2262000862946": 68,
+      "gas:candidate-vibid:2262000863601": 314,
+      "gas:candidate-vibid:2262000864387": 24,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 31,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 110,
-      "Кузьмин Александр Сергеевич": 68,
-      "Кузьмин Михаил Владимирович": 440,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 27,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 53
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 110,
+      "gas:candidate-vibid:2262000862946": 68,
+      "gas:candidate-vibid:2262000863601": 440,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 27,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 8,
-      "Кузьмин Александр Сергеевич": 2,
-      "Кузьмин Михаил Владимирович": 27,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 2
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 8,
+      "gas:candidate-vibid:2262000862946": 2,
+      "gas:candidate-vibid:2262000863601": 27,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 6,
-      "Дроздова Ольга Павловна": 88,
-      "Кузьмин Александр Сергеевич": 48,
-      "Кузьмин Михаил Владимирович": 273,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 20,
-      "Соболев Виктор Иванович": 48
+      "gas:candidate-vibid:2262000863578": 6,
+      "gas:candidate-vibid:2262000773770": 88,
+      "gas:candidate-vibid:2262000862946": 48,
+      "gas:candidate-vibid:2262000863601": 273,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 20,
+      "gas:candidate-vibid:2262000864460": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 27,
-      "Кузьмин Александр Сергеевич": 31,
-      "Кузьмин Михаил Владимирович": 266,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 8,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 23
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 27,
+      "gas:candidate-vibid:2262000862946": 31,
+      "gas:candidate-vibid:2262000863601": 266,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 8,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 77,
-      "Кузьмин Александр Сергеевич": 39,
-      "Кузьмин Михаил Владимирович": 287,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 78
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 77,
+      "gas:candidate-vibid:2262000862946": 39,
+      "gas:candidate-vibid:2262000863601": 287,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 47,
-      "Кузьмин Александр Сергеевич": 11,
-      "Кузьмин Михаил Владимирович": 171,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 4,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 14
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 47,
+      "gas:candidate-vibid:2262000862946": 11,
+      "gas:candidate-vibid:2262000863601": 171,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 4,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 38,
-      "Кузьмин Александр Сергеевич": 14,
-      "Кузьмин Михаил Владимирович": 125,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 12
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 38,
+      "gas:candidate-vibid:2262000862946": 14,
+      "gas:candidate-vibid:2262000863601": 125,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 15,
-      "Дроздова Ольга Павловна": 226,
-      "Кузьмин Александр Сергеевич": 114,
-      "Кузьмин Михаил Владимирович": 883,
-      "Кулагин Сергей Сергеевич": 19,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 89
+      "gas:candidate-vibid:2262000863578": 15,
+      "gas:candidate-vibid:2262000773770": 226,
+      "gas:candidate-vibid:2262000862946": 114,
+      "gas:candidate-vibid:2262000863601": 883,
+      "gas:candidate-vibid:2262000864387": 19,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 145,
-      "Кузьмин Александр Сергеевич": 65,
-      "Кузьмин Михаил Владимирович": 529,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 46
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 145,
+      "gas:candidate-vibid:2262000862946": 65,
+      "gas:candidate-vibid:2262000863601": 529,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 34,
-      "Кузьмин Александр Сергеевич": 21,
-      "Кузьмин Михаил Владимирович": 97,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 6,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 16
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 34,
+      "gas:candidate-vibid:2262000862946": 21,
+      "gas:candidate-vibid:2262000863601": 97,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 6,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 64,
-      "Кузьмин Александр Сергеевич": 31,
-      "Кузьмин Михаил Владимирович": 122,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 28
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 64,
+      "gas:candidate-vibid:2262000862946": 31,
+      "gas:candidate-vibid:2262000863601": 122,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 89,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 391,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 20,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 88
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 89,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 391,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 20,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 5,
-      "Кузьмин Александр Сергеевич": 12,
-      "Кузьмин Михаил Владимирович": 374,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 17
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 5,
+      "gas:candidate-vibid:2262000862946": 12,
+      "gas:candidate-vibid:2262000863601": 374,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 12,
-      "Кузьмин Александр Сергеевич": 5,
-      "Кузьмин Михаил Владимирович": 94,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 3,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 12,
+      "gas:candidate-vibid:2262000862946": 5,
+      "gas:candidate-vibid:2262000863601": 94,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 3,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 11,
-      "Кузьмин Александр Сергеевич": 18,
-      "Кузьмин Михаил Владимирович": 459,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 33
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 11,
+      "gas:candidate-vibid:2262000862946": 18,
+      "gas:candidate-vibid:2262000863601": 459,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 11,
-      "Кузьмин Александр Сергеевич": 27,
-      "Кузьмин Михаил Владимирович": 105,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 14,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 51
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 11,
+      "gas:candidate-vibid:2262000862946": 27,
+      "gas:candidate-vibid:2262000863601": 105,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 14,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 3,
-      "Кузьмин Александр Сергеевич": 9,
-      "Кузьмин Михаил Владимирович": 142,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 14,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 9
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 3,
+      "gas:candidate-vibid:2262000862946": 9,
+      "gas:candidate-vibid:2262000863601": 142,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 14,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 3,
-      "Кузьмин Александр Сергеевич": 7,
-      "Кузьмин Михаил Владимирович": 63,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 2
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 3,
+      "gas:candidate-vibid:2262000862946": 7,
+      "gas:candidate-vibid:2262000863601": 63,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 196,
-      "Кузьмин Александр Сергеевич": 112,
-      "Кузьмин Михаил Владимирович": 402,
-      "Кулагин Сергей Сергеевич": 22,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 17,
-      "Соболев Виктор Иванович": 109
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 196,
+      "gas:candidate-vibid:2262000862946": 112,
+      "gas:candidate-vibid:2262000863601": 402,
+      "gas:candidate-vibid:2262000864387": 22,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 17,
+      "gas:candidate-vibid:2262000864460": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 78,
-      "Кузьмин Александр Сергеевич": 68,
-      "Кузьмин Михаил Владимирович": 470,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 15,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 17
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 78,
+      "gas:candidate-vibid:2262000862946": 68,
+      "gas:candidate-vibid:2262000863601": 470,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 15,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 32,
-      "Кузьмин Александр Сергеевич": 37,
-      "Кузьмин Михаил Владимирович": 911,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 18,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 45
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 32,
+      "gas:candidate-vibid:2262000862946": 37,
+      "gas:candidate-vibid:2262000863601": 911,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 18,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 151,
-      "Кузьмин Александр Сергеевич": 98,
-      "Кузьмин Михаил Владимирович": 809,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 44,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 73
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 151,
+      "gas:candidate-vibid:2262000862946": 98,
+      "gas:candidate-vibid:2262000863601": 809,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 44,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761449&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761449&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 88,
-      "Кузьмин Александр Сергеевич": 56,
-      "Кузьмин Михаил Владимирович": 288,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 42
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 88,
+      "gas:candidate-vibid:2262000862946": 56,
+      "gas:candidate-vibid:2262000863601": 288,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 88,
-      "Кузьмин Александр Сергеевич": 49,
-      "Кузьмин Михаил Владимирович": 297,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 13,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 72
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 88,
+      "gas:candidate-vibid:2262000862946": 49,
+      "gas:candidate-vibid:2262000863601": 297,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 13,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 142,
-      "Кузьмин Александр Сергеевич": 94,
-      "Кузьмин Михаил Владимирович": 398,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 39,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 97
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 142,
+      "gas:candidate-vibid:2262000862946": 94,
+      "gas:candidate-vibid:2262000863601": 398,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 39,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 25,
-      "Дроздова Ольга Павловна": 199,
-      "Кузьмин Александр Сергеевич": 107,
-      "Кузьмин Михаил Владимирович": 612,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 42,
-      "Сасин Николай Иванович": 35,
-      "Соболев Виктор Иванович": 146
+      "gas:candidate-vibid:2262000863578": 25,
+      "gas:candidate-vibid:2262000773770": 199,
+      "gas:candidate-vibid:2262000862946": 107,
+      "gas:candidate-vibid:2262000863601": 612,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 42,
+      "gas:candidate-vibid:2262000864310": 35,
+      "gas:candidate-vibid:2262000864460": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 116,
-      "Кузьмин Александр Сергеевич": 60,
-      "Кузьмин Михаил Владимирович": 271,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 30,
-      "Сасин Николай Иванович": 23,
-      "Соболев Виктор Иванович": 95
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 116,
+      "gas:candidate-vibid:2262000862946": 60,
+      "gas:candidate-vibid:2262000863601": 271,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 30,
+      "gas:candidate-vibid:2262000864310": 23,
+      "gas:candidate-vibid:2262000864460": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 26,
-      "Дроздова Ольга Павловна": 213,
-      "Кузьмин Александр Сергеевич": 112,
-      "Кузьмин Михаил Владимирович": 549,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 46,
-      "Сасин Николай Иванович": 28,
-      "Соболев Виктор Иванович": 130
+      "gas:candidate-vibid:2262000863578": 26,
+      "gas:candidate-vibid:2262000773770": 213,
+      "gas:candidate-vibid:2262000862946": 112,
+      "gas:candidate-vibid:2262000863601": 549,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 46,
+      "gas:candidate-vibid:2262000864310": 28,
+      "gas:candidate-vibid:2262000864460": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 113,
-      "Кузьмин Александр Сергеевич": 66,
-      "Кузьмин Михаил Владимирович": 408,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 18,
-      "Соболев Виктор Иванович": 68
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 113,
+      "gas:candidate-vibid:2262000862946": 66,
+      "gas:candidate-vibid:2262000863601": 408,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 18,
+      "gas:candidate-vibid:2262000864460": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 27,
-      "Дроздова Ольга Павловна": 136,
-      "Кузьмин Александр Сергеевич": 125,
-      "Кузьмин Михаил Владимирович": 524,
-      "Кулагин Сергей Сергеевич": 21,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 79
+      "gas:candidate-vibid:2262000863578": 27,
+      "gas:candidate-vibid:2262000773770": 136,
+      "gas:candidate-vibid:2262000862946": 125,
+      "gas:candidate-vibid:2262000863601": 524,
+      "gas:candidate-vibid:2262000864387": 21,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 120,
-      "Кузьмин Александр Сергеевич": 89,
-      "Кузьмин Михаил Владимирович": 367,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 19,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 79
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 120,
+      "gas:candidate-vibid:2262000862946": 89,
+      "gas:candidate-vibid:2262000863601": 367,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 19,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 26,
-      "Дроздова Ольга Павловна": 143,
-      "Кузьмин Александр Сергеевич": 93,
-      "Кузьмин Михаил Владимирович": 680,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 25,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 95
+      "gas:candidate-vibid:2262000863578": 26,
+      "gas:candidate-vibid:2262000773770": 143,
+      "gas:candidate-vibid:2262000862946": 93,
+      "gas:candidate-vibid:2262000863601": 680,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 25,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 15,
-      "Дроздова Ольга Павловна": 122,
-      "Кузьмин Александр Сергеевич": 88,
-      "Кузьмин Михаил Владимирович": 459,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 21,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 126
+      "gas:candidate-vibid:2262000863578": 15,
+      "gas:candidate-vibid:2262000773770": 122,
+      "gas:candidate-vibid:2262000862946": 88,
+      "gas:candidate-vibid:2262000863601": 459,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 21,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 99,
-      "Кузьмин Александр Сергеевич": 54,
-      "Кузьмин Михаил Владимирович": 497,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 25,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 104
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 99,
+      "gas:candidate-vibid:2262000862946": 54,
+      "gas:candidate-vibid:2262000863601": 497,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 25,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 29,
-      "Кузьмин Александр Сергеевич": 12,
-      "Кузьмин Михаил Владимирович": 58,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 14,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 33
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 29,
+      "gas:candidate-vibid:2262000862946": 12,
+      "gas:candidate-vibid:2262000863601": 58,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 14,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 143,
-      "Кузьмин Александр Сергеевич": 140,
-      "Кузьмин Михаил Владимирович": 923,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 14,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 95
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 143,
+      "gas:candidate-vibid:2262000862946": 140,
+      "gas:candidate-vibid:2262000863601": 923,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 14,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 30,
-      "Дроздова Ольга Павловна": 180,
-      "Кузьмин Александр Сергеевич": 88,
-      "Кузьмин Михаил Владимирович": 711,
-      "Кулагин Сергей Сергеевич": 36,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 55,
-      "Рукосуев Юрий Викторович": 41,
-      "Сасин Николай Иванович": 27,
-      "Соболев Виктор Иванович": 138
+      "gas:candidate-vibid:2262000863578": 30,
+      "gas:candidate-vibid:2262000773770": 180,
+      "gas:candidate-vibid:2262000862946": 88,
+      "gas:candidate-vibid:2262000863601": 711,
+      "gas:candidate-vibid:2262000864387": 36,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 55,
+      "gas:candidate-vibid:2262000862161": 41,
+      "gas:candidate-vibid:2262000864310": 27,
+      "gas:candidate-vibid:2262000864460": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 62,
-      "Кузьмин Александр Сергеевич": 50,
-      "Кузьмин Михаил Владимирович": 306,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 38
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 62,
+      "gas:candidate-vibid:2262000862946": 50,
+      "gas:candidate-vibid:2262000863601": 306,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 121,
-      "Кузьмин Александр Сергеевич": 101,
-      "Кузьмин Михаил Владимирович": 613,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 8,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 47
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 121,
+      "gas:candidate-vibid:2262000862946": 101,
+      "gas:candidate-vibid:2262000863601": 613,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 8,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 15,
-      "Дроздова Ольга Павловна": 75,
-      "Кузьмин Александр Сергеевич": 59,
-      "Кузьмин Михаил Владимирович": 222,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 27,
-      "Соболев Виктор Иванович": 92
+      "gas:candidate-vibid:2262000863578": 15,
+      "gas:candidate-vibid:2262000773770": 75,
+      "gas:candidate-vibid:2262000862946": 59,
+      "gas:candidate-vibid:2262000863601": 222,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 27,
+      "gas:candidate-vibid:2262000864460": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 65,
-      "Кузьмин Александр Сергеевич": 87,
-      "Кузьмин Михаил Владимирович": 487,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 14,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 47
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 65,
+      "gas:candidate-vibid:2262000862946": 87,
+      "gas:candidate-vibid:2262000863601": 487,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 14,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 14,
-      "Кузьмин Александр Сергеевич": 16,
-      "Кузьмин Михаил Владимирович": 517,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 2,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 14
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 14,
+      "gas:candidate-vibid:2262000862946": 16,
+      "gas:candidate-vibid:2262000863601": 517,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 2,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761450&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761450&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 147,
-      "Кузьмин Александр Сергеевич": 122,
-      "Кузьмин Михаил Владимирович": 396,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 26,
-      "Соболев Виктор Иванович": 98
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 147,
+      "gas:candidate-vibid:2262000862946": 122,
+      "gas:candidate-vibid:2262000863601": 396,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 26,
+      "gas:candidate-vibid:2262000864460": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 66,
-      "Кузьмин Александр Сергеевич": 73,
-      "Кузьмин Михаил Владимирович": 231,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 19,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 46
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 66,
+      "gas:candidate-vibid:2262000862946": 73,
+      "gas:candidate-vibid:2262000863601": 231,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 19,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 116,
-      "Кузьмин Александр Сергеевич": 103,
-      "Кузьмин Михаил Владимирович": 279,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 19,
-      "Соболев Виктор Иванович": 97
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 116,
+      "gas:candidate-vibid:2262000862946": 103,
+      "gas:candidate-vibid:2262000863601": 279,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 19,
+      "gas:candidate-vibid:2262000864460": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 76,
-      "Кузьмин Александр Сергеевич": 63,
-      "Кузьмин Михаил Владимирович": 413,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 9,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 26
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 76,
+      "gas:candidate-vibid:2262000862946": 63,
+      "gas:candidate-vibid:2262000863601": 413,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 9,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 84,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 521,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 40
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 84,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 521,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 19,
-      "Кузьмин Александр Сергеевич": 57,
-      "Кузьмин Михаил Владимирович": 140,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 23,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 38
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 19,
+      "gas:candidate-vibid:2262000862946": 57,
+      "gas:candidate-vibid:2262000863601": 140,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 23,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 100,
-      "Кузьмин Александр Сергеевич": 77,
-      "Кузьмин Михаил Владимирович": 243,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 19,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 39,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 216
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 100,
+      "gas:candidate-vibid:2262000862946": 77,
+      "gas:candidate-vibid:2262000863601": 243,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 19,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 39,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 23,
-      "Кузьмин Александр Сергеевич": 50,
-      "Кузьмин Михаил Владимирович": 149,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 15,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 36
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 23,
+      "gas:candidate-vibid:2262000862946": 50,
+      "gas:candidate-vibid:2262000863601": 149,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 15,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 108,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 297,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 80
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 108,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 297,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 31,
-      "Кузьмин Александр Сергеевич": 37,
-      "Кузьмин Михаил Владимирович": 74,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 10,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 17
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 31,
+      "gas:candidate-vibid:2262000862946": 37,
+      "gas:candidate-vibid:2262000863601": 74,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 10,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 101,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 177,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 25,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 44
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 101,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 177,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 25,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 39,
-      "Кузьмин Александр Сергеевич": 41,
-      "Кузьмин Михаил Владимирович": 111,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 9,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 34
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 39,
+      "gas:candidate-vibid:2262000862946": 41,
+      "gas:candidate-vibid:2262000863601": 111,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 9,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 11,
-      "Кузьмин Александр Сергеевич": 8,
-      "Кузьмин Михаил Владимирович": 133,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 9,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 16
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 11,
+      "gas:candidate-vibid:2262000862946": 8,
+      "gas:candidate-vibid:2262000863601": 133,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 9,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761451&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761451&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 114,
-      "Кузьмин Александр Сергеевич": 37,
-      "Кузьмин Михаил Владимирович": 256,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 42
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 114,
+      "gas:candidate-vibid:2262000862946": 37,
+      "gas:candidate-vibid:2262000863601": 256,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 107,
-      "Кузьмин Александр Сергеевич": 50,
-      "Кузьмин Михаил Владимирович": 221,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 77
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 107,
+      "gas:candidate-vibid:2262000862946": 50,
+      "gas:candidate-vibid:2262000863601": 221,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 122,
-      "Кузьмин Александр Сергеевич": 51,
-      "Кузьмин Михаил Владимирович": 210,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 14,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 53
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 122,
+      "gas:candidate-vibid:2262000862946": 51,
+      "gas:candidate-vibid:2262000863601": 210,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 14,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 102,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 244,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 14,
-      "Рукосуев Юрий Викторович": 20,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 69
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 102,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 244,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 14,
+      "gas:candidate-vibid:2262000862161": 20,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 109,
-      "Кузьмин Александр Сергеевич": 56,
-      "Кузьмин Михаил Владимирович": 268,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 51
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 109,
+      "gas:candidate-vibid:2262000862946": 56,
+      "gas:candidate-vibid:2262000863601": 268,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 94,
-      "Кузьмин Александр Сергеевич": 59,
-      "Кузьмин Михаил Владимирович": 299,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 84
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 94,
+      "gas:candidate-vibid:2262000862946": 59,
+      "gas:candidate-vibid:2262000863601": 299,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 114,
-      "Кузьмин Александр Сергеевич": 66,
-      "Кузьмин Михаил Владимирович": 303,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 19,
-      "Рукосуев Юрий Викторович": 30,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 59
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 114,
+      "gas:candidate-vibid:2262000862946": 66,
+      "gas:candidate-vibid:2262000863601": 303,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 19,
+      "gas:candidate-vibid:2262000862161": 30,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 18,
-      "Дроздова Ольга Павловна": 143,
-      "Кузьмин Александр Сергеевич": 49,
-      "Кузьмин Михаил Владимирович": 291,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 60
+      "gas:candidate-vibid:2262000863578": 18,
+      "gas:candidate-vibid:2262000773770": 143,
+      "gas:candidate-vibid:2262000862946": 49,
+      "gas:candidate-vibid:2262000863601": 291,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 119,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 485,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 70
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 119,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 485,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 21,
-      "Дроздова Ольга Павловна": 122,
-      "Кузьмин Александр Сергеевич": 48,
-      "Кузьмин Михаил Владимирович": 193,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 72
+      "gas:candidate-vibid:2262000863578": 21,
+      "gas:candidate-vibid:2262000773770": 122,
+      "gas:candidate-vibid:2262000862946": 48,
+      "gas:candidate-vibid:2262000863601": 193,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 104,
-      "Кузьмин Александр Сергеевич": 21,
-      "Кузьмин Михаил Владимирович": 319,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 17,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 82
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 104,
+      "gas:candidate-vibid:2262000862946": 21,
+      "gas:candidate-vibid:2262000863601": 319,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 17,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 146,
-      "Кузьмин Александр Сергеевич": 42,
-      "Кузьмин Михаил Владимирович": 273,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 72
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 146,
+      "gas:candidate-vibid:2262000862946": 42,
+      "gas:candidate-vibid:2262000863601": 273,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 117,
-      "Кузьмин Александр Сергеевич": 53,
-      "Кузьмин Михаил Владимирович": 204,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 20,
-      "Рукосуев Юрий Викторович": 27,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 56
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 117,
+      "gas:candidate-vibid:2262000862946": 53,
+      "gas:candidate-vibid:2262000863601": 204,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 20,
+      "gas:candidate-vibid:2262000862161": 27,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 145,
-      "Кузьмин Александр Сергеевич": 78,
-      "Кузьмин Михаил Владимирович": 226,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 18,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 80
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 145,
+      "gas:candidate-vibid:2262000862946": 78,
+      "gas:candidate-vibid:2262000863601": 226,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 18,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 107,
-      "Кузьмин Александр Сергеевич": 55,
-      "Кузьмин Михаил Владимирович": 226,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 55
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 107,
+      "gas:candidate-vibid:2262000862946": 55,
+      "gas:candidate-vibid:2262000863601": 226,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 82,
-      "Кузьмин Александр Сергеевич": 36,
-      "Кузьмин Михаил Владимирович": 334,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 74
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 82,
+      "gas:candidate-vibid:2262000862946": 36,
+      "gas:candidate-vibid:2262000863601": 334,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 109,
-      "Кузьмин Александр Сергеевич": 55,
-      "Кузьмин Михаил Владимирович": 177,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 24,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 49
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 109,
+      "gas:candidate-vibid:2262000862946": 55,
+      "gas:candidate-vibid:2262000863601": 177,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 24,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 109,
-      "Кузьмин Александр Сергеевич": 58,
-      "Кузьмин Михаил Владимирович": 248,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 17,
-      "Рукосуев Юрий Викторович": 27,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 64
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 109,
+      "gas:candidate-vibid:2262000862946": 58,
+      "gas:candidate-vibid:2262000863601": 248,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 17,
+      "gas:candidate-vibid:2262000862161": 27,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 124,
-      "Кузьмин Александр Сергеевич": 56,
-      "Кузьмин Михаил Владимирович": 178,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 22,
-      "Рукосуев Юрий Викторович": 25,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 37
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 124,
+      "gas:candidate-vibid:2262000862946": 56,
+      "gas:candidate-vibid:2262000863601": 178,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 22,
+      "gas:candidate-vibid:2262000862161": 25,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 65,
-      "Кузьмин Александр Сергеевич": 13,
-      "Кузьмин Михаил Владимирович": 238,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 13,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 20
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 65,
+      "gas:candidate-vibid:2262000862946": 13,
+      "gas:candidate-vibid:2262000863601": 238,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 13,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 15,
-      "Кузьмин Александр Сергеевич": 22,
-      "Кузьмин Михаил Владимирович": 43,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 2,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 2
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 15,
+      "gas:candidate-vibid:2262000862946": 22,
+      "gas:candidate-vibid:2262000863601": 43,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 2,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_26_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 41,
-      "Кузьмин Александр Сергеевич": 32,
-      "Кузьмин Михаил Владимирович": 123,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 12
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 41,
+      "gas:candidate-vibid:2262000862946": 32,
+      "gas:candidate-vibid:2262000863601": 123,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",

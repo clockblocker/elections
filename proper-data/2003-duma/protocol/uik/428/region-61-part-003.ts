@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 77,
-      "Дятленко Валерий Владимирович": 399,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 108,
-      "Лебедь Александр Александрович": 38,
-      "Топилин Виктор Михайлович": 227,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000195125": 77,
+      "gas:candidate-vibid:1001000225973": 399,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 108,
+      "gas:candidate-vibid:1001000190402": 38,
+      "gas:candidate-vibid:1001000131407": 227,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 31,
-      "Дятленко Валерий Владимирович": 331,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 66,
-      "Лебедь Александр Александрович": 43,
-      "Топилин Виктор Михайлович": 179,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000195125": 31,
+      "gas:candidate-vibid:1001000225973": 331,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 66,
+      "gas:candidate-vibid:1001000190402": 43,
+      "gas:candidate-vibid:1001000131407": 179,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 50,
-      "Дятленко Валерий Владимирович": 367,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 59,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 140,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000195125": 50,
+      "gas:candidate-vibid:1001000225973": 367,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 59,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 140,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 115,
-      "Дятленко Валерий Владимирович": 516,
-      "Желуницын Георгий Георгиевич": 19,
-      "Карпов Владимир Васильевич": 110,
-      "Лебедь Александр Александрович": 57,
-      "Топилин Виктор Михайлович": 245,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000195125": 115,
+      "gas:candidate-vibid:1001000225973": 516,
+      "gas:candidate-vibid:361300270604": 19,
+      "gas:candidate-vibid:1001000136105": 110,
+      "gas:candidate-vibid:1001000190402": 57,
+      "gas:candidate-vibid:1001000131407": 245,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 55,
-      "Дятленко Валерий Владимирович": 544,
-      "Желуницын Георгий Георгиевич": 18,
-      "Карпов Владимир Васильевич": 89,
-      "Лебедь Александр Александрович": 42,
-      "Топилин Виктор Михайлович": 263,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000195125": 55,
+      "gas:candidate-vibid:1001000225973": 544,
+      "gas:candidate-vibid:361300270604": 18,
+      "gas:candidate-vibid:1001000136105": 89,
+      "gas:candidate-vibid:1001000190402": 42,
+      "gas:candidate-vibid:1001000131407": 263,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 40,
-      "Дятленко Валерий Владимирович": 253,
-      "Желуницын Георгий Георгиевич": 16,
-      "Карпов Владимир Васильевич": 39,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 81,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000195125": 40,
+      "gas:candidate-vibid:1001000225973": 253,
+      "gas:candidate-vibid:361300270604": 16,
+      "gas:candidate-vibid:1001000136105": 39,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 81,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 61,
-      "Дятленко Валерий Владимирович": 523,
-      "Желуницын Георгий Георгиевич": 16,
-      "Карпов Владимир Васильевич": 93,
-      "Лебедь Александр Александрович": 47,
-      "Топилин Виктор Михайлович": 209,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000195125": 61,
+      "gas:candidate-vibid:1001000225973": 523,
+      "gas:candidate-vibid:361300270604": 16,
+      "gas:candidate-vibid:1001000136105": 93,
+      "gas:candidate-vibid:1001000190402": 47,
+      "gas:candidate-vibid:1001000131407": 209,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 20,
-      "Дятленко Валерий Владимирович": 101,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 39,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000195125": 20,
+      "gas:candidate-vibid:1001000225973": 101,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 39,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 52,
-      "Дятленко Валерий Владимирович": 529,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 45,
-      "Лебедь Александр Александрович": 25,
-      "Топилин Виктор Михайлович": 130,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000195125": 52,
+      "gas:candidate-vibid:1001000225973": 529,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 45,
+      "gas:candidate-vibid:1001000190402": 25,
+      "gas:candidate-vibid:1001000131407": 130,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 318,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 31,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 318,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 31,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 57,
-      "Дятленко Валерий Владимирович": 336,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 46,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 57,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000195125": 57,
+      "gas:candidate-vibid:1001000225973": 336,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 46,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 57,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 155,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 44,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 140,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 155,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 44,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 140,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 42,
-      "Дятленко Валерий Владимирович": 489,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 42,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 110,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000195125": 42,
+      "gas:candidate-vibid:1001000225973": 489,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 42,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 110,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 486,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 30,
-      "Топилин Виктор Михайлович": 172,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 486,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 30,
+      "gas:candidate-vibid:1001000131407": 172,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 16,
-      "Дятленко Валерий Владимирович": 260,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 13,
-      "Топилин Виктор Михайлович": 59,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000195125": 16,
+      "gas:candidate-vibid:1001000225973": 260,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 13,
+      "gas:candidate-vibid:1001000131407": 59,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 101,
-      "Дятленко Валерий Владимирович": 913,
-      "Желуницын Георгий Георгиевич": 19,
-      "Карпов Владимир Васильевич": 92,
-      "Лебедь Александр Александрович": 64,
-      "Топилин Виктор Михайлович": 169,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000195125": 101,
+      "gas:candidate-vibid:1001000225973": 913,
+      "gas:candidate-vibid:361300270604": 19,
+      "gas:candidate-vibid:1001000136105": 92,
+      "gas:candidate-vibid:1001000190402": 64,
+      "gas:candidate-vibid:1001000131407": 169,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 34,
-      "Дятленко Валерий Владимирович": 311,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 14,
-      "Топилин Виктор Михайлович": 100,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195125": 34,
+      "gas:candidate-vibid:1001000225973": 311,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 14,
+      "gas:candidate-vibid:1001000131407": 100,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 252,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 26,
-      "Лебедь Александр Александрович": 32,
-      "Топилин Виктор Михайлович": 67,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 252,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 26,
+      "gas:candidate-vibid:1001000190402": 32,
+      "gas:candidate-vibid:1001000131407": 67,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 260,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 13,
-      "Топилин Виктор Михайлович": 38,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 260,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 13,
+      "gas:candidate-vibid:1001000131407": 38,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 405,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 405,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 730,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 47,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 84,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 730,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 47,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 84,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 53,
-      "Дятленко Валерий Владимирович": 396,
-      "Желуницын Георгий Георгиевич": 16,
-      "Карпов Владимир Васильевич": 48,
-      "Лебедь Александр Александрович": 54,
-      "Топилин Виктор Михайлович": 121,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195125": 53,
+      "gas:candidate-vibid:1001000225973": 396,
+      "gas:candidate-vibid:361300270604": 16,
+      "gas:candidate-vibid:1001000136105": 48,
+      "gas:candidate-vibid:1001000190402": 54,
+      "gas:candidate-vibid:1001000131407": 121,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 51,
-      "Дятленко Валерий Владимирович": 253,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 36,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 108,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000195125": 51,
+      "gas:candidate-vibid:1001000225973": 253,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 36,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 108,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 97,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 27,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 97,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 27,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 81,
-      "Дятленко Валерий Владимирович": 471,
-      "Желуницын Георгий Георгиевич": 19,
-      "Карпов Владимир Васильевич": 63,
-      "Лебедь Александр Александрович": 60,
-      "Топилин Виктор Михайлович": 151,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000195125": 81,
+      "gas:candidate-vibid:1001000225973": 471,
+      "gas:candidate-vibid:361300270604": 19,
+      "gas:candidate-vibid:1001000136105": 63,
+      "gas:candidate-vibid:1001000190402": 60,
+      "gas:candidate-vibid:1001000131407": 151,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 14,
-      "Дятленко Валерий Владимирович": 93,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195125": 14,
+      "gas:candidate-vibid:1001000225973": 93,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 33,
-      "Дятленко Валерий Владимирович": 310,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 14,
-      "Топилин Виктор Михайлович": 39,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195125": 33,
+      "gas:candidate-vibid:1001000225973": 310,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 14,
+      "gas:candidate-vibid:1001000131407": 39,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 455,
-      "Желуницын Георгий Георгиевич": 12,
-      "Карпов Владимир Васильевич": 29,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 119,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 455,
+      "gas:candidate-vibid:361300270604": 12,
+      "gas:candidate-vibid:1001000136105": 29,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 119,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 213,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 10,
-      "Топилин Виктор Михайлович": 28,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 213,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 10,
+      "gas:candidate-vibid:1001000131407": 28,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 32,
-      "Дятленко Валерий Владимирович": 309,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 50,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195125": 32,
+      "gas:candidate-vibid:1001000225973": 309,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 50,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 276,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 33,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 276,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 33,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 440,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 14,
-      "Топилин Виктор Михайлович": 49,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 440,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 14,
+      "gas:candidate-vibid:1001000131407": 49,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 63,
-      "Дятленко Валерий Владимирович": 366,
-      "Желуницын Георгий Георгиевич": 15,
-      "Карпов Владимир Васильевич": 74,
-      "Лебедь Александр Александрович": 45,
-      "Топилин Виктор Михайлович": 183,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000195125": 63,
+      "gas:candidate-vibid:1001000225973": 366,
+      "gas:candidate-vibid:361300270604": 15,
+      "gas:candidate-vibid:1001000136105": 74,
+      "gas:candidate-vibid:1001000190402": 45,
+      "gas:candidate-vibid:1001000131407": 183,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 68,
-      "Дятленко Валерий Владимирович": 391,
-      "Желуницын Георгий Георгиевич": 15,
-      "Карпов Владимир Васильевич": 70,
-      "Лебедь Александр Александрович": 67,
-      "Топилин Виктор Михайлович": 139,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000195125": 68,
+      "gas:candidate-vibid:1001000225973": 391,
+      "gas:candidate-vibid:361300270604": 15,
+      "gas:candidate-vibid:1001000136105": 70,
+      "gas:candidate-vibid:1001000190402": 67,
+      "gas:candidate-vibid:1001000131407": 139,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 102,
-      "Дятленко Валерий Владимирович": 453,
-      "Желуницын Георгий Георгиевич": 17,
-      "Карпов Владимир Васильевич": 94,
-      "Лебедь Александр Александрович": 45,
-      "Топилин Виктор Михайлович": 181,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000195125": 102,
+      "gas:candidate-vibid:1001000225973": 453,
+      "gas:candidate-vibid:361300270604": 17,
+      "gas:candidate-vibid:1001000136105": 94,
+      "gas:candidate-vibid:1001000190402": 45,
+      "gas:candidate-vibid:1001000131407": 181,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 70,
-      "Дятленко Валерий Владимирович": 628,
-      "Желуницын Георгий Георгиевич": 13,
-      "Карпов Владимир Васильевич": 80,
-      "Лебедь Александр Александрович": 78,
-      "Топилин Виктор Михайлович": 147,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000195125": 70,
+      "gas:candidate-vibid:1001000225973": 628,
+      "gas:candidate-vibid:361300270604": 13,
+      "gas:candidate-vibid:1001000136105": 80,
+      "gas:candidate-vibid:1001000190402": 78,
+      "gas:candidate-vibid:1001000131407": 147,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 310,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 31,
-      "Лебедь Александр Александрович": 25,
-      "Топилин Виктор Михайлович": 53,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 310,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 31,
+      "gas:candidate-vibid:1001000190402": 25,
+      "gas:candidate-vibid:1001000131407": 53,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 25,
-      "Дятленко Валерий Владимирович": 176,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 43,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000195125": 25,
+      "gas:candidate-vibid:1001000225973": 176,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 43,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 99,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 49,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 99,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 49,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 14,
-      "Дятленко Валерий Владимирович": 137,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 26,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 57,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195125": 14,
+      "gas:candidate-vibid:1001000225973": 137,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 26,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 57,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 54,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 54,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 22,
-      "Дятленко Валерий Владимирович": 137,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195125": 22,
+      "gas:candidate-vibid:1001000225973": 137,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 100,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 18,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 100,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 18,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 53,
-      "Дятленко Валерий Владимирович": 208,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 64,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195125": 53,
+      "gas:candidate-vibid:1001000225973": 208,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 64,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 26,
-      "Дятленко Валерий Владимирович": 216,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 13,
-      "Топилин Виктор Михайлович": 19,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195125": 26,
+      "gas:candidate-vibid:1001000225973": 216,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 13,
+      "gas:candidate-vibid:1001000131407": 19,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 220,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 10,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 38,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 220,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 10,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 38,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 456,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 32,
-      "Лебедь Александр Александрович": 39,
-      "Топилин Виктор Михайлович": 44,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 456,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 32,
+      "gas:candidate-vibid:1001000190402": 39,
+      "gas:candidate-vibid:1001000131407": 44,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 24,
-      "Дятленко Валерий Владимирович": 160,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 19,
-      "Топилин Виктор Михайлович": 27,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195125": 24,
+      "gas:candidate-vibid:1001000225973": 160,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 19,
+      "gas:candidate-vibid:1001000131407": 27,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 78,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 10,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 20,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 78,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 10,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 20,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 33,
-      "Дятленко Валерий Владимирович": 1452,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 44,
-      "Лебедь Александр Александрович": 39,
-      "Топилин Виктор Михайлович": 118,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000195125": 33,
+      "gas:candidate-vibid:1001000225973": 1452,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 44,
+      "gas:candidate-vibid:1001000190402": 39,
+      "gas:candidate-vibid:1001000131407": 118,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 45,
-      "Дятленко Валерий Владимирович": 1245,
-      "Желуницын Георгий Георгиевич": 12,
-      "Карпов Владимир Васильевич": 41,
-      "Лебедь Александр Александрович": 45,
-      "Топилин Виктор Михайлович": 104,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000195125": 45,
+      "gas:candidate-vibid:1001000225973": 1245,
+      "gas:candidate-vibid:361300270604": 12,
+      "gas:candidate-vibid:1001000136105": 41,
+      "gas:candidate-vibid:1001000190402": 45,
+      "gas:candidate-vibid:1001000131407": 104,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 54,
-      "Дятленко Валерий Владимирович": 1120,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 43,
-      "Лебедь Александр Александрович": 32,
-      "Топилин Виктор Михайлович": 108,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000195125": 54,
+      "gas:candidate-vibid:1001000225973": 1120,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 43,
+      "gas:candidate-vibid:1001000190402": 32,
+      "gas:candidate-vibid:1001000131407": 108,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 58,
-      "Дятленко Валерий Владимирович": 1333,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 72,
-      "Лебедь Александр Александрович": 68,
-      "Топилин Виктор Михайлович": 102,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000195125": 58,
+      "gas:candidate-vibid:1001000225973": 1333,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 72,
+      "gas:candidate-vibid:1001000190402": 68,
+      "gas:candidate-vibid:1001000131407": 102,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 413,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 35,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 413,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 35,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 221,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 221,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 31,
-      "Дятленко Валерий Владимирович": 1281,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 36,
-      "Топилин Виктор Михайлович": 1,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000195125": 31,
+      "gas:candidate-vibid:1001000225973": 1281,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 36,
+      "gas:candidate-vibid:1001000131407": 1,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 5,
-      "Дятленко Валерий Владимирович": 336,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195125": 5,
+      "gas:candidate-vibid:1001000225973": 336,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 161,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 161,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 2,
-      "Дятленко Валерий Владимирович": 586,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195125": 2,
+      "gas:candidate-vibid:1001000225973": 586,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 586,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 586,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 10,
-      "Дятленко Валерий Владимирович": 587,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195125": 10,
+      "gas:candidate-vibid:1001000225973": 587,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 24,
-      "Дятленко Валерий Владимирович": 528,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 36,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 54,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195125": 24,
+      "gas:candidate-vibid:1001000225973": 528,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 36,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 54,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 19,
-      "Дятленко Валерий Владимирович": 364,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 9,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 18,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195125": 19,
+      "gas:candidate-vibid:1001000225973": 364,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 9,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 18,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 832,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 7,
-      "Лебедь Александр Александрович": 19,
-      "Топилин Виктор Михайлович": 0,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 832,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 7,
+      "gas:candidate-vibid:1001000190402": 19,
+      "gas:candidate-vibid:1001000131407": 0,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 0,
-      "Дятленко Валерий Владимирович": 137,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195125": 0,
+      "gas:candidate-vibid:1001000225973": 137,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 14,
-      "Дятленко Валерий Владимирович": 689,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195125": 14,
+      "gas:candidate-vibid:1001000225973": 689,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 31,
-      "Дятленко Валерий Владимирович": 719,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 60,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000195125": 31,
+      "gas:candidate-vibid:1001000225973": 719,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 60,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 2,
-      "Дятленко Валерий Владимирович": 856,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195125": 2,
+      "gas:candidate-vibid:1001000225973": 856,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 5,
-      "Дятленко Валерий Владимирович": 579,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 24,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195125": 5,
+      "gas:candidate-vibid:1001000225973": 579,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 24,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 38,
-      "Дятленко Валерий Владимирович": 519,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 37,
-      "Топилин Виктор Михайлович": 45,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000195125": 38,
+      "gas:candidate-vibid:1001000225973": 519,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 37,
+      "gas:candidate-vibid:1001000131407": 45,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 10,
-      "Дятленко Валерий Владимирович": 155,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 22,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195125": 10,
+      "gas:candidate-vibid:1001000225973": 155,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 22,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 207,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 21,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 207,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 21,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 62,
-      "Дятленко Валерий Владимирович": 1254,
-      "Желуницын Георгий Георгиевич": 22,
-      "Карпов Владимир Васильевич": 68,
-      "Лебедь Александр Александрович": 68,
-      "Топилин Виктор Михайлович": 162,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000195125": 62,
+      "gas:candidate-vibid:1001000225973": 1254,
+      "gas:candidate-vibid:361300270604": 22,
+      "gas:candidate-vibid:1001000136105": 68,
+      "gas:candidate-vibid:1001000190402": 68,
+      "gas:candidate-vibid:1001000131407": 162,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 20,
-      "Дятленко Валерий Владимирович": 144,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195125": 20,
+      "gas:candidate-vibid:1001000225973": 144,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070565&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 67,
-      "Дятленко Валерий Владимирович": 442,
-      "Желуницын Георгий Георгиевич": 12,
-      "Карпов Владимир Васильевич": 66,
-      "Лебедь Александр Александрович": 65,
-      "Топилин Виктор Михайлович": 89,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000195125": 67,
+      "gas:candidate-vibid:1001000225973": 442,
+      "gas:candidate-vibid:361300270604": 12,
+      "gas:candidate-vibid:1001000136105": 66,
+      "gas:candidate-vibid:1001000190402": 65,
+      "gas:candidate-vibid:1001000131407": 89,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 71,
-      "Дятленко Валерий Владимирович": 541,
-      "Желуницын Георгий Георгиевич": 16,
-      "Карпов Владимир Васильевич": 68,
-      "Лебедь Александр Александрович": 74,
-      "Топилин Виктор Михайлович": 159,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000195125": 71,
+      "gas:candidate-vibid:1001000225973": 541,
+      "gas:candidate-vibid:361300270604": 16,
+      "gas:candidate-vibid:1001000136105": 68,
+      "gas:candidate-vibid:1001000190402": 74,
+      "gas:candidate-vibid:1001000131407": 159,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 37,
-      "Дятленко Валерий Владимирович": 532,
-      "Желуницын Георгий Георгиевич": 15,
-      "Карпов Владимир Васильевич": 72,
-      "Лебедь Александр Александрович": 61,
-      "Топилин Виктор Михайлович": 106,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000195125": 37,
+      "gas:candidate-vibid:1001000225973": 532,
+      "gas:candidate-vibid:361300270604": 15,
+      "gas:candidate-vibid:1001000136105": 72,
+      "gas:candidate-vibid:1001000190402": 61,
+      "gas:candidate-vibid:1001000131407": 106,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 44,
-      "Дятленко Валерий Владимирович": 393,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 72,
-      "Лебедь Александр Александрович": 55,
-      "Топилин Виктор Михайлович": 88,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000195125": 44,
+      "gas:candidate-vibid:1001000225973": 393,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 72,
+      "gas:candidate-vibid:1001000190402": 55,
+      "gas:candidate-vibid:1001000131407": 88,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 47,
-      "Дятленко Валерий Владимирович": 474,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 72,
-      "Лебедь Александр Александрович": 59,
-      "Топилин Виктор Михайлович": 118,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000195125": 47,
+      "gas:candidate-vibid:1001000225973": 474,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 72,
+      "gas:candidate-vibid:1001000190402": 59,
+      "gas:candidate-vibid:1001000131407": 118,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 55,
-      "Дятленко Валерий Владимирович": 602,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 86,
-      "Лебедь Александр Александрович": 58,
-      "Топилин Виктор Михайлович": 100,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000195125": 55,
+      "gas:candidate-vibid:1001000225973": 602,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 86,
+      "gas:candidate-vibid:1001000190402": 58,
+      "gas:candidate-vibid:1001000131407": 100,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 124,
-      "Дятленко Валерий Владимирович": 420,
-      "Желуницын Георгий Георгиевич": 16,
-      "Карпов Владимир Васильевич": 68,
-      "Лебедь Александр Александрович": 67,
-      "Топилин Виктор Михайлович": 95,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000195125": 124,
+      "gas:candidate-vibid:1001000225973": 420,
+      "gas:candidate-vibid:361300270604": 16,
+      "gas:candidate-vibid:1001000136105": 68,
+      "gas:candidate-vibid:1001000190402": 67,
+      "gas:candidate-vibid:1001000131407": 95,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 37,
-      "Дятленко Валерий Владимирович": 389,
-      "Желуницын Георгий Георгиевич": 16,
-      "Карпов Владимир Васильевич": 41,
-      "Лебедь Александр Александрович": 36,
-      "Топилин Виктор Михайлович": 82,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000195125": 37,
+      "gas:candidate-vibid:1001000225973": 389,
+      "gas:candidate-vibid:361300270604": 16,
+      "gas:candidate-vibid:1001000136105": 41,
+      "gas:candidate-vibid:1001000190402": 36,
+      "gas:candidate-vibid:1001000131407": 82,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 65,
-      "Дятленко Валерий Владимирович": 551,
-      "Желуницын Георгий Георгиевич": 13,
-      "Карпов Владимир Васильевич": 101,
-      "Лебедь Александр Александрович": 70,
-      "Топилин Виктор Михайлович": 150,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000195125": 65,
+      "gas:candidate-vibid:1001000225973": 551,
+      "gas:candidate-vibid:361300270604": 13,
+      "gas:candidate-vibid:1001000136105": 101,
+      "gas:candidate-vibid:1001000190402": 70,
+      "gas:candidate-vibid:1001000131407": 150,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 39,
-      "Дятленко Валерий Владимирович": 480,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 87,
-      "Лебедь Александр Александрович": 46,
-      "Топилин Виктор Михайлович": 115,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000195125": 39,
+      "gas:candidate-vibid:1001000225973": 480,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 87,
+      "gas:candidate-vibid:1001000190402": 46,
+      "gas:candidate-vibid:1001000131407": 115,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 130,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 130,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 222,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 16,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 222,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 16,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 30,
-      "Дятленко Валерий Владимирович": 546,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 55,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 64,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195125": 30,
+      "gas:candidate-vibid:1001000225973": 546,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 55,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 64,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 146,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 32,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 33,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 146,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 32,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 33,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 204,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 19,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 204,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 19,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 277,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 24,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 277,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 24,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 224,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 13,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 224,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 13,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 2,
-      "Дятленко Валерий Владимирович": 67,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 2,
+      "gas:candidate-vibid:1001000225973": 67,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 8,
-      "Дятленко Валерий Владимирович": 56,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 7,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 25,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195125": 8,
+      "gas:candidate-vibid:1001000225973": 56,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 7,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 25,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 29,
-      "Дятленко Валерий Владимирович": 335,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 20,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 37,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000195125": 29,
+      "gas:candidate-vibid:1001000225973": 335,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 20,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 37,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 71,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 6,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 15,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 71,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 6,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 15,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 14,
-      "Дятленко Валерий Владимирович": 188,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 25,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195125": 14,
+      "gas:candidate-vibid:1001000225973": 188,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 25,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 293,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 19,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 293,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 19,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 77,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 6,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 12,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 77,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 6,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 12,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 26,
-      "Дятленко Валерий Владимирович": 411,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000195125": 26,
+      "gas:candidate-vibid:1001000225973": 411,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 153,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 7,
-      "Лебедь Александр Александрович": 10,
-      "Топилин Виктор Михайлович": 17,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 153,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 7,
+      "gas:candidate-vibid:1001000190402": 10,
+      "gas:candidate-vibid:1001000131407": 17,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 205,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 54,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 205,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 54,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 847,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 42,
-      "Лебедь Александр Александрович": 25,
-      "Топилин Виктор Михайлович": 35,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 847,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 42,
+      "gas:candidate-vibid:1001000190402": 25,
+      "gas:candidate-vibid:1001000131407": 35,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070567&region=0&sub_region=0&type=429",
@@ -5754,14 +5754,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 136,
-      "Аверченко Владимир Александрович": 569,
-      "Волгунин Евгений Павлович": 119,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 22,
-      "Холодов Юрий Федорович": 26,
-      "Шукшунов Валентин Ефимович": 186,
-      "Против всех": 122
+      "gas:candidate-vibid:361300170951": 136,
+      "gas:candidate-vibid:1001000131406": 569,
+      "gas:candidate-vibid:1001000121894": 119,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 22,
+      "gas:candidate-vibid:361300170902": 26,
+      "gas:candidate-vibid:361300170322": 186,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -5811,14 +5811,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 47,
-      "Аверченко Владимир Александрович": 352,
-      "Волгунин Евгений Павлович": 45,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 16,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 191,
-      "Против всех": 50
+      "gas:candidate-vibid:361300170951": 47,
+      "gas:candidate-vibid:1001000131406": 352,
+      "gas:candidate-vibid:1001000121894": 45,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 16,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 191,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -5868,14 +5868,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 86,
-      "Аверченко Владимир Александрович": 463,
-      "Волгунин Евгений Павлович": 116,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 48,
-      "Холодов Юрий Федорович": 8,
-      "Шукшунов Валентин Ефимович": 204,
-      "Против всех": 89
+      "gas:candidate-vibid:361300170951": 86,
+      "gas:candidate-vibid:1001000131406": 463,
+      "gas:candidate-vibid:1001000121894": 116,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 48,
+      "gas:candidate-vibid:361300170902": 8,
+      "gas:candidate-vibid:361300170322": 204,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -5925,14 +5925,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 71,
-      "Аверченко Владимир Александрович": 464,
-      "Волгунин Евгений Павлович": 107,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 19,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 189,
-      "Против всех": 67
+      "gas:candidate-vibid:361300170951": 71,
+      "gas:candidate-vibid:1001000131406": 464,
+      "gas:candidate-vibid:1001000121894": 107,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 19,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 189,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -5982,14 +5982,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 124,
-      "Аверченко Владимир Александрович": 505,
-      "Волгунин Евгений Павлович": 244,
-      "Мороз Петр Петрович": 13,
-      "Прядильников Сергей Павлович": 52,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 258,
-      "Против всех": 116
+      "gas:candidate-vibid:361300170951": 124,
+      "gas:candidate-vibid:1001000131406": 505,
+      "gas:candidate-vibid:1001000121894": 244,
+      "gas:candidate-vibid:1001000195124": 13,
+      "gas:candidate-vibid:1001000136104": 52,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 258,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6039,14 +6039,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 141,
-      "Аверченко Владимир Александрович": 643,
-      "Волгунин Евгений Павлович": 221,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 28,
-      "Холодов Юрий Федорович": 23,
-      "Шукшунов Валентин Ефимович": 258,
-      "Против всех": 87
+      "gas:candidate-vibid:361300170951": 141,
+      "gas:candidate-vibid:1001000131406": 643,
+      "gas:candidate-vibid:1001000121894": 221,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 28,
+      "gas:candidate-vibid:361300170902": 23,
+      "gas:candidate-vibid:361300170322": 258,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6096,14 +6096,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 99,
-      "Аверченко Владимир Александрович": 511,
-      "Волгунин Евгений Павлович": 89,
-      "Мороз Петр Петрович": 16,
-      "Прядильников Сергей Павлович": 20,
-      "Холодов Юрий Федорович": 33,
-      "Шукшунов Валентин Ефимович": 441,
-      "Против всех": 55
+      "gas:candidate-vibid:361300170951": 99,
+      "gas:candidate-vibid:1001000131406": 511,
+      "gas:candidate-vibid:1001000121894": 89,
+      "gas:candidate-vibid:1001000195124": 16,
+      "gas:candidate-vibid:1001000136104": 20,
+      "gas:candidate-vibid:361300170902": 33,
+      "gas:candidate-vibid:361300170322": 441,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6153,14 +6153,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 52,
-      "Аверченко Владимир Александрович": 270,
-      "Волгунин Евгений Павлович": 62,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 13,
-      "Холодов Юрий Федорович": 43,
-      "Шукшунов Валентин Ефимович": 285,
-      "Против всех": 65
+      "gas:candidate-vibid:361300170951": 52,
+      "gas:candidate-vibid:1001000131406": 270,
+      "gas:candidate-vibid:1001000121894": 62,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 13,
+      "gas:candidate-vibid:361300170902": 43,
+      "gas:candidate-vibid:361300170322": 285,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6210,14 +6210,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 77,
-      "Аверченко Владимир Александрович": 193,
-      "Волгунин Евгений Павлович": 43,
-      "Мороз Петр Петрович": 14,
-      "Прядильников Сергей Павлович": 53,
-      "Холодов Юрий Федорович": 80,
-      "Шукшунов Валентин Ефимович": 233,
-      "Против всех": 227
+      "gas:candidate-vibid:361300170951": 77,
+      "gas:candidate-vibid:1001000131406": 193,
+      "gas:candidate-vibid:1001000121894": 43,
+      "gas:candidate-vibid:1001000195124": 14,
+      "gas:candidate-vibid:1001000136104": 53,
+      "gas:candidate-vibid:361300170902": 80,
+      "gas:candidate-vibid:361300170322": 233,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6267,14 +6267,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 48,
-      "Аверченко Владимир Александрович": 485,
-      "Волгунин Евгений Павлович": 20,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 13,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 81,
-      "Против всех": 45
+      "gas:candidate-vibid:361300170951": 48,
+      "gas:candidate-vibid:1001000131406": 485,
+      "gas:candidate-vibid:1001000121894": 20,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 13,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 81,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6324,14 +6324,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 48,
-      "Аверченко Владимир Александрович": 261,
-      "Волгунин Евгений Павлович": 45,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 197,
-      "Против всех": 17
+      "gas:candidate-vibid:361300170951": 48,
+      "gas:candidate-vibid:1001000131406": 261,
+      "gas:candidate-vibid:1001000121894": 45,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 197,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6381,14 +6381,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 14,
-      "Аверченко Владимир Александрович": 200,
-      "Волгунин Евгений Павлович": 28,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 1,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 97,
-      "Против всех": 5
+      "gas:candidate-vibid:361300170951": 14,
+      "gas:candidate-vibid:1001000131406": 200,
+      "gas:candidate-vibid:1001000121894": 28,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 1,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 97,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6438,14 +6438,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 59,
-      "Аверченко Владимир Александрович": 204,
-      "Волгунин Евгений Павлович": 54,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 12,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 72,
-      "Против всех": 35
+      "gas:candidate-vibid:361300170951": 59,
+      "gas:candidate-vibid:1001000131406": 204,
+      "gas:candidate-vibid:1001000121894": 54,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 12,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 72,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6495,14 +6495,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 71,
-      "Аверченко Владимир Александрович": 299,
-      "Волгунин Евгений Павлович": 52,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 19,
-      "Холодов Юрий Федорович": 13,
-      "Шукшунов Валентин Ефимович": 104,
-      "Против всех": 37
+      "gas:candidate-vibid:361300170951": 71,
+      "gas:candidate-vibid:1001000131406": 299,
+      "gas:candidate-vibid:1001000121894": 52,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 19,
+      "gas:candidate-vibid:361300170902": 13,
+      "gas:candidate-vibid:361300170322": 104,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6552,14 +6552,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 0,
-      "Аверченко Владимир Александрович": 514,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 0,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 544,
-      "Против всех": 11
+      "gas:candidate-vibid:361300170951": 0,
+      "gas:candidate-vibid:1001000131406": 514,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 0,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 544,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6609,14 +6609,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 12,
-      "Аверченко Владимир Александрович": 134,
-      "Волгунин Евгений Павлович": 16,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 3,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 41,
-      "Против всех": 15
+      "gas:candidate-vibid:361300170951": 12,
+      "gas:candidate-vibid:1001000131406": 134,
+      "gas:candidate-vibid:1001000121894": 16,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 3,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 41,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6666,14 +6666,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 93,
-      "Аверченко Владимир Александрович": 307,
-      "Волгунин Евгений Павлович": 71,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 18,
-      "Шукшунов Валентин Ефимович": 245,
-      "Против всех": 28
+      "gas:candidate-vibid:361300170951": 93,
+      "gas:candidate-vibid:1001000131406": 307,
+      "gas:candidate-vibid:1001000121894": 71,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 18,
+      "gas:candidate-vibid:361300170322": 245,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6723,14 +6723,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 69,
-      "Аверченко Владимир Александрович": 170,
-      "Волгунин Евгений Павлович": 66,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 27,
-      "Холодов Юрий Федорович": 58,
-      "Шукшунов Валентин Ефимович": 470,
-      "Против всех": 122
+      "gas:candidate-vibid:361300170951": 69,
+      "gas:candidate-vibid:1001000131406": 170,
+      "gas:candidate-vibid:1001000121894": 66,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 27,
+      "gas:candidate-vibid:361300170902": 58,
+      "gas:candidate-vibid:361300170322": 470,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6780,14 +6780,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 36,
-      "Аверченко Владимир Александрович": 187,
-      "Волгунин Евгений Павлович": 17,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 383,
-      "Против всех": 30
+      "gas:candidate-vibid:361300170951": 36,
+      "gas:candidate-vibid:1001000131406": 187,
+      "gas:candidate-vibid:1001000121894": 17,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 383,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6837,14 +6837,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 16,
-      "Аверченко Владимир Александрович": 376,
-      "Волгунин Евгений Павлович": 23,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 0,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 375,
-      "Против всех": 9
+      "gas:candidate-vibid:361300170951": 16,
+      "gas:candidate-vibid:1001000131406": 376,
+      "gas:candidate-vibid:1001000121894": 23,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 0,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 375,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6894,14 +6894,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 148,
-      "Аверченко Владимир Александрович": 727,
-      "Волгунин Евгений Павлович": 117,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 23,
-      "Холодов Юрий Федорович": 31,
-      "Шукшунов Валентин Ефимович": 482,
-      "Против всех": 108
+      "gas:candidate-vibid:361300170951": 148,
+      "gas:candidate-vibid:1001000131406": 727,
+      "gas:candidate-vibid:1001000121894": 117,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 23,
+      "gas:candidate-vibid:361300170902": 31,
+      "gas:candidate-vibid:361300170322": 482,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -6951,14 +6951,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 42,
-      "Аверченко Владимир Александрович": 626,
-      "Волгунин Евгений Павлович": 43,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 5,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 34,
-      "Против всех": 39
+      "gas:candidate-vibid:361300170951": 42,
+      "gas:candidate-vibid:1001000131406": 626,
+      "gas:candidate-vibid:1001000121894": 43,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 5,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 34,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -7008,14 +7008,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 111,
-      "Аверченко Владимир Александрович": 583,
-      "Волгунин Евгений Павлович": 55,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 19,
-      "Шукшунов Валентин Ефимович": 304,
-      "Против всех": 61
+      "gas:candidate-vibid:361300170951": 111,
+      "gas:candidate-vibid:1001000131406": 583,
+      "gas:candidate-vibid:1001000121894": 55,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 19,
+      "gas:candidate-vibid:361300170322": 304,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300170372&region=0&sub_region=0&type=429",
@@ -7065,14 +7065,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 23,
-      "Аверченко Владимир Александрович": 49,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 110,
-      "Против всех": 41
+      "gas:candidate-vibid:361300170951": 23,
+      "gas:candidate-vibid:1001000131406": 49,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 110,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7122,14 +7122,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 69,
-      "Аверченко Владимир Александрович": 229,
-      "Волгунин Евгений Павлович": 59,
-      "Мороз Петр Петрович": 21,
-      "Прядильников Сергей Павлович": 56,
-      "Холодов Юрий Федорович": 42,
-      "Шукшунов Валентин Ефимович": 384,
-      "Против всех": 112
+      "gas:candidate-vibid:361300170951": 69,
+      "gas:candidate-vibid:1001000131406": 229,
+      "gas:candidate-vibid:1001000121894": 59,
+      "gas:candidate-vibid:1001000195124": 21,
+      "gas:candidate-vibid:1001000136104": 56,
+      "gas:candidate-vibid:361300170902": 42,
+      "gas:candidate-vibid:361300170322": 384,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7179,14 +7179,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 135,
-      "Аверченко Владимир Александрович": 252,
-      "Волгунин Евгений Павлович": 101,
-      "Мороз Петр Петрович": 19,
-      "Прядильников Сергей Павлович": 56,
-      "Холодов Юрий Федорович": 41,
-      "Шукшунов Валентин Ефимович": 301,
-      "Против всех": 149
+      "gas:candidate-vibid:361300170951": 135,
+      "gas:candidate-vibid:1001000131406": 252,
+      "gas:candidate-vibid:1001000121894": 101,
+      "gas:candidate-vibid:1001000195124": 19,
+      "gas:candidate-vibid:1001000136104": 56,
+      "gas:candidate-vibid:361300170902": 41,
+      "gas:candidate-vibid:361300170322": 301,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7236,14 +7236,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 74,
-      "Аверченко Владимир Александрович": 205,
-      "Волгунин Евгений Павлович": 55,
-      "Мороз Петр Петрович": 17,
-      "Прядильников Сергей Павлович": 48,
-      "Холодов Юрий Федорович": 47,
-      "Шукшунов Валентин Ефимович": 319,
-      "Против всех": 114
+      "gas:candidate-vibid:361300170951": 74,
+      "gas:candidate-vibid:1001000131406": 205,
+      "gas:candidate-vibid:1001000121894": 55,
+      "gas:candidate-vibid:1001000195124": 17,
+      "gas:candidate-vibid:1001000136104": 48,
+      "gas:candidate-vibid:361300170902": 47,
+      "gas:candidate-vibid:361300170322": 319,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7293,14 +7293,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 117,
-      "Аверченко Владимир Александрович": 356,
-      "Волгунин Евгений Павлович": 107,
-      "Мороз Петр Петрович": 19,
-      "Прядильников Сергей Павлович": 41,
-      "Холодов Юрий Федорович": 45,
-      "Шукшунов Валентин Ефимович": 272,
-      "Против всех": 155
+      "gas:candidate-vibid:361300170951": 117,
+      "gas:candidate-vibid:1001000131406": 356,
+      "gas:candidate-vibid:1001000121894": 107,
+      "gas:candidate-vibid:1001000195124": 19,
+      "gas:candidate-vibid:1001000136104": 41,
+      "gas:candidate-vibid:361300170902": 45,
+      "gas:candidate-vibid:361300170322": 272,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7350,14 +7350,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 118,
-      "Аверченко Владимир Александрович": 324,
-      "Волгунин Евгений Павлович": 114,
-      "Мороз Петр Петрович": 23,
-      "Прядильников Сергей Павлович": 63,
-      "Холодов Юрий Федорович": 77,
-      "Шукшунов Валентин Ефимович": 467,
-      "Против всех": 200
+      "gas:candidate-vibid:361300170951": 118,
+      "gas:candidate-vibid:1001000131406": 324,
+      "gas:candidate-vibid:1001000121894": 114,
+      "gas:candidate-vibid:1001000195124": 23,
+      "gas:candidate-vibid:1001000136104": 63,
+      "gas:candidate-vibid:361300170902": 77,
+      "gas:candidate-vibid:361300170322": 467,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7407,14 +7407,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 72,
-      "Аверченко Владимир Александрович": 229,
-      "Волгунин Евгений Павлович": 77,
-      "Мороз Петр Петрович": 14,
-      "Прядильников Сергей Павлович": 42,
-      "Холодов Юрий Федорович": 66,
-      "Шукшунов Валентин Ефимович": 346,
-      "Против всех": 151
+      "gas:candidate-vibid:361300170951": 72,
+      "gas:candidate-vibid:1001000131406": 229,
+      "gas:candidate-vibid:1001000121894": 77,
+      "gas:candidate-vibid:1001000195124": 14,
+      "gas:candidate-vibid:1001000136104": 42,
+      "gas:candidate-vibid:361300170902": 66,
+      "gas:candidate-vibid:361300170322": 346,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7464,14 +7464,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 101,
-      "Аверченко Владимир Александрович": 285,
-      "Волгунин Евгений Павлович": 75,
-      "Мороз Петр Петрович": 14,
-      "Прядильников Сергей Павлович": 47,
-      "Холодов Юрий Федорович": 60,
-      "Шукшунов Валентин Ефимович": 318,
-      "Против всех": 172
+      "gas:candidate-vibid:361300170951": 101,
+      "gas:candidate-vibid:1001000131406": 285,
+      "gas:candidate-vibid:1001000121894": 75,
+      "gas:candidate-vibid:1001000195124": 14,
+      "gas:candidate-vibid:1001000136104": 47,
+      "gas:candidate-vibid:361300170902": 60,
+      "gas:candidate-vibid:361300170322": 318,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7521,14 +7521,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 42,
-      "Аверченко Владимир Александрович": 114,
-      "Волгунин Евгений Павлович": 18,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 19,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 108,
-      "Против всех": 59
+      "gas:candidate-vibid:361300170951": 42,
+      "gas:candidate-vibid:1001000131406": 114,
+      "gas:candidate-vibid:1001000121894": 18,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 19,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 108,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7578,14 +7578,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 90,
-      "Аверченко Владимир Александрович": 271,
-      "Волгунин Евгений Павлович": 80,
-      "Мороз Петр Петрович": 13,
-      "Прядильников Сергей Павлович": 33,
-      "Холодов Юрий Федорович": 21,
-      "Шукшунов Валентин Ефимович": 443,
-      "Против всех": 90
+      "gas:candidate-vibid:361300170951": 90,
+      "gas:candidate-vibid:1001000131406": 271,
+      "gas:candidate-vibid:1001000121894": 80,
+      "gas:candidate-vibid:1001000195124": 13,
+      "gas:candidate-vibid:1001000136104": 33,
+      "gas:candidate-vibid:361300170902": 21,
+      "gas:candidate-vibid:361300170322": 443,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7635,14 +7635,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 22,
-      "Аверченко Владимир Александрович": 54,
-      "Волгунин Евгений Павлович": 7,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 29,
-      "Против всех": 12
+      "gas:candidate-vibid:361300170951": 22,
+      "gas:candidate-vibid:1001000131406": 54,
+      "gas:candidate-vibid:1001000121894": 7,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 29,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7692,14 +7692,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 19,
-      "Аверченко Владимир Александрович": 64,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 31,
-      "Против всех": 14
+      "gas:candidate-vibid:361300170951": 19,
+      "gas:candidate-vibid:1001000131406": 64,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 31,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7749,14 +7749,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 102,
-      "Аверченко Владимир Александрович": 438,
-      "Волгунин Евгений Павлович": 62,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 29,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 239,
-      "Против всех": 78
+      "gas:candidate-vibid:361300170951": 102,
+      "gas:candidate-vibid:1001000131406": 438,
+      "gas:candidate-vibid:1001000121894": 62,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 29,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 239,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7806,14 +7806,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 79,
-      "Аверченко Владимир Александрович": 184,
-      "Волгунин Евгений Павлович": 26,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 31,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 167,
-      "Против всех": 85
+      "gas:candidate-vibid:361300170951": 79,
+      "gas:candidate-vibid:1001000131406": 184,
+      "gas:candidate-vibid:1001000121894": 26,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 31,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 167,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7863,14 +7863,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 114,
-      "Аверченко Владимир Александрович": 201,
-      "Волгунин Евгений Павлович": 66,
-      "Мороз Петр Петрович": 20,
-      "Прядильников Сергей Павлович": 23,
-      "Холодов Юрий Федорович": 27,
-      "Шукшунов Валентин Ефимович": 203,
-      "Против всех": 90
+      "gas:candidate-vibid:361300170951": 114,
+      "gas:candidate-vibid:1001000131406": 201,
+      "gas:candidate-vibid:1001000121894": 66,
+      "gas:candidate-vibid:1001000195124": 20,
+      "gas:candidate-vibid:1001000136104": 23,
+      "gas:candidate-vibid:361300170902": 27,
+      "gas:candidate-vibid:361300170322": 203,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7920,14 +7920,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 109,
-      "Аверченко Владимир Александрович": 189,
-      "Волгунин Евгений Павлович": 137,
-      "Мороз Петр Петрович": 39,
-      "Прядильников Сергей Павлович": 52,
-      "Холодов Юрий Федорович": 30,
-      "Шукшунов Валентин Ефимович": 404,
-      "Против всех": 117
+      "gas:candidate-vibid:361300170951": 109,
+      "gas:candidate-vibid:1001000131406": 189,
+      "gas:candidate-vibid:1001000121894": 137,
+      "gas:candidate-vibid:1001000195124": 39,
+      "gas:candidate-vibid:1001000136104": 52,
+      "gas:candidate-vibid:361300170902": 30,
+      "gas:candidate-vibid:361300170322": 404,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -7977,14 +7977,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 54,
-      "Аверченко Владимир Александрович": 207,
-      "Волгунин Евгений Павлович": 19,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 11,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 40,
-      "Против всех": 21
+      "gas:candidate-vibid:361300170951": 54,
+      "gas:candidate-vibid:1001000131406": 207,
+      "gas:candidate-vibid:1001000121894": 19,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 11,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 40,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8034,14 +8034,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 60,
-      "Аверченко Владимир Александрович": 144,
-      "Волгунин Евгений Павлович": 25,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 100,
-      "Против всех": 35
+      "gas:candidate-vibid:361300170951": 60,
+      "gas:candidate-vibid:1001000131406": 144,
+      "gas:candidate-vibid:1001000121894": 25,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 100,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8091,14 +8091,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 30,
-      "Аверченко Владимир Александрович": 86,
-      "Волгунин Евгений Павлович": 11,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 105,
-      "Против всех": 54
+      "gas:candidate-vibid:361300170951": 30,
+      "gas:candidate-vibid:1001000131406": 86,
+      "gas:candidate-vibid:1001000121894": 11,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 105,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8148,14 +8148,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 88,
-      "Аверченко Владимир Александрович": 319,
-      "Волгунин Евгений Павлович": 45,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 37,
-      "Холодов Юрий Федорович": 25,
-      "Шукшунов Валентин Ефимович": 369,
-      "Против всех": 144
+      "gas:candidate-vibid:361300170951": 88,
+      "gas:candidate-vibid:1001000131406": 319,
+      "gas:candidate-vibid:1001000121894": 45,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 37,
+      "gas:candidate-vibid:361300170902": 25,
+      "gas:candidate-vibid:361300170322": 369,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8205,14 +8205,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 46,
-      "Аверченко Владимир Александрович": 106,
-      "Волгунин Евгений Павлович": 31,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 127,
-      "Против всех": 62
+      "gas:candidate-vibid:361300170951": 46,
+      "gas:candidate-vibid:1001000131406": 106,
+      "gas:candidate-vibid:1001000121894": 31,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 127,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8262,14 +8262,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 86,
-      "Аверченко Владимир Александрович": 188,
-      "Волгунин Евгений Павлович": 34,
-      "Мороз Петр Петрович": 17,
-      "Прядильников Сергей Павлович": 28,
-      "Холодов Юрий Федорович": 20,
-      "Шукшунов Валентин Ефимович": 217,
-      "Против всех": 56
+      "gas:candidate-vibid:361300170951": 86,
+      "gas:candidate-vibid:1001000131406": 188,
+      "gas:candidate-vibid:1001000121894": 34,
+      "gas:candidate-vibid:1001000195124": 17,
+      "gas:candidate-vibid:1001000136104": 28,
+      "gas:candidate-vibid:361300170902": 20,
+      "gas:candidate-vibid:361300170322": 217,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8319,14 +8319,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 65,
-      "Аверченко Владимир Александрович": 109,
-      "Волгунин Евгений Павлович": 16,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 262,
-      "Против всех": 52
+      "gas:candidate-vibid:361300170951": 65,
+      "gas:candidate-vibid:1001000131406": 109,
+      "gas:candidate-vibid:1001000121894": 16,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 262,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8376,14 +8376,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 64,
-      "Аверченко Владимир Александрович": 167,
-      "Волгунин Евгений Павлович": 41,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 13,
-      "Холодов Юрий Федорович": 16,
-      "Шукшунов Валентин Ефимович": 133,
-      "Против всех": 36
+      "gas:candidate-vibid:361300170951": 64,
+      "gas:candidate-vibid:1001000131406": 167,
+      "gas:candidate-vibid:1001000121894": 41,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 13,
+      "gas:candidate-vibid:361300170902": 16,
+      "gas:candidate-vibid:361300170322": 133,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8433,14 +8433,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 66,
-      "Аверченко Владимир Александрович": 166,
-      "Волгунин Евгений Павлович": 37,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 300,
-      "Против всех": 53
+      "gas:candidate-vibid:361300170951": 66,
+      "gas:candidate-vibid:1001000131406": 166,
+      "gas:candidate-vibid:1001000121894": 37,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 300,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8490,14 +8490,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 4,
-      "Аверченко Владимир Александрович": 30,
-      "Волгунин Евгений Павлович": 8,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 6,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 143,
-      "Против всех": 22
+      "gas:candidate-vibid:361300170951": 4,
+      "gas:candidate-vibid:1001000131406": 30,
+      "gas:candidate-vibid:1001000121894": 8,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 6,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 143,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8547,14 +8547,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 21,
-      "Аверченко Владимир Александрович": 71,
-      "Волгунин Евгений Павлович": 22,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 159,
-      "Против всех": 33
+      "gas:candidate-vibid:361300170951": 21,
+      "gas:candidate-vibid:1001000131406": 71,
+      "gas:candidate-vibid:1001000121894": 22,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 159,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8604,14 +8604,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 29,
-      "Аверченко Владимир Александрович": 118,
-      "Волгунин Евгений Павлович": 21,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 11,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 50,
-      "Против всех": 36
+      "gas:candidate-vibid:361300170951": 29,
+      "gas:candidate-vibid:1001000131406": 118,
+      "gas:candidate-vibid:1001000121894": 21,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 11,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 50,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8661,14 +8661,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 36,
-      "Аверченко Владимир Александрович": 255,
-      "Волгунин Евгений Павлович": 29,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 13,
-      "Холодов Юрий Федорович": 14,
-      "Шукшунов Валентин Ефимович": 137,
-      "Против всех": 56
+      "gas:candidate-vibid:361300170951": 36,
+      "gas:candidate-vibid:1001000131406": 255,
+      "gas:candidate-vibid:1001000121894": 29,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 13,
+      "gas:candidate-vibid:361300170902": 14,
+      "gas:candidate-vibid:361300170322": 137,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8718,14 +8718,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 58,
-      "Аверченко Владимир Александрович": 134,
-      "Волгунин Евгений Павлович": 44,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 12,
-      "Холодов Юрий Федорович": 18,
-      "Шукшунов Валентин Ефимович": 141,
-      "Против всех": 75
+      "gas:candidate-vibid:361300170951": 58,
+      "gas:candidate-vibid:1001000131406": 134,
+      "gas:candidate-vibid:1001000121894": 44,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 12,
+      "gas:candidate-vibid:361300170902": 18,
+      "gas:candidate-vibid:361300170322": 141,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8775,14 +8775,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 59,
-      "Аверченко Владимир Александрович": 118,
-      "Волгунин Евгений Павлович": 22,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 14,
-      "Шукшунов Валентин Ефимович": 142,
-      "Против всех": 69
+      "gas:candidate-vibid:361300170951": 59,
+      "gas:candidate-vibid:1001000131406": 118,
+      "gas:candidate-vibid:1001000121894": 22,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 14,
+      "gas:candidate-vibid:361300170322": 142,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8832,14 +8832,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 59,
-      "Аверченко Владимир Александрович": 139,
-      "Волгунин Евгений Павлович": 35,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 15,
-      "Шукшунов Валентин Ефимович": 184,
-      "Против всех": 31
+      "gas:candidate-vibid:361300170951": 59,
+      "gas:candidate-vibid:1001000131406": 139,
+      "gas:candidate-vibid:1001000121894": 35,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 15,
+      "gas:candidate-vibid:361300170322": 184,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8889,14 +8889,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 26,
-      "Аверченко Владимир Александрович": 61,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 126,
-      "Против всех": 34
+      "gas:candidate-vibid:361300170951": 26,
+      "gas:candidate-vibid:1001000131406": 61,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 126,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -8946,14 +8946,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 75,
-      "Аверченко Владимир Александрович": 206,
-      "Волгунин Евгений Павлович": 56,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 11,
-      "Холодов Юрий Федорович": 26,
-      "Шукшунов Валентин Ефимович": 372,
-      "Против всех": 44
+      "gas:candidate-vibid:361300170951": 75,
+      "gas:candidate-vibid:1001000131406": 206,
+      "gas:candidate-vibid:1001000121894": 56,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 11,
+      "gas:candidate-vibid:361300170902": 26,
+      "gas:candidate-vibid:361300170322": 372,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -9003,14 +9003,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 26,
-      "Аверченко Владимир Александрович": 51,
-      "Волгунин Евгений Павлович": 21,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 97,
-      "Против всех": 19
+      "gas:candidate-vibid:361300170951": 26,
+      "gas:candidate-vibid:1001000131406": 51,
+      "gas:candidate-vibid:1001000121894": 21,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 97,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -9060,14 +9060,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 25,
-      "Аверченко Владимир Александрович": 50,
-      "Волгунин Евгений Павлович": 7,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 63,
-      "Против всех": 13
+      "gas:candidate-vibid:361300170951": 25,
+      "gas:candidate-vibid:1001000131406": 50,
+      "gas:candidate-vibid:1001000121894": 7,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 63,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -9117,14 +9117,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 42,
-      "Аверченко Владимир Александрович": 81,
-      "Волгунин Евгений Павлович": 23,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 21,
-      "Холодов Юрий Федорович": 28,
-      "Шукшунов Валентин Ефимович": 171,
-      "Против всех": 53
+      "gas:candidate-vibid:361300170951": 42,
+      "gas:candidate-vibid:1001000131406": 81,
+      "gas:candidate-vibid:1001000121894": 23,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 21,
+      "gas:candidate-vibid:361300170902": 28,
+      "gas:candidate-vibid:361300170322": 171,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -9174,14 +9174,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 68,
-      "Аверченко Владимир Александрович": 230,
-      "Волгунин Евгений Павлович": 58,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 42,
-      "Холодов Юрий Федорович": 40,
-      "Шукшунов Валентин Ефимович": 251,
-      "Против всех": 153
+      "gas:candidate-vibid:361300170951": 68,
+      "gas:candidate-vibid:1001000131406": 230,
+      "gas:candidate-vibid:1001000121894": 58,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 42,
+      "gas:candidate-vibid:361300170902": 40,
+      "gas:candidate-vibid:361300170322": 251,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -9231,14 +9231,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 39,
-      "Аверченко Владимир Александрович": 118,
-      "Волгунин Евгений Павлович": 17,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 8,
-      "Шукшунов Валентин Ефимович": 90,
-      "Против всех": 37
+      "gas:candidate-vibid:361300170951": 39,
+      "gas:candidate-vibid:1001000131406": 118,
+      "gas:candidate-vibid:1001000121894": 17,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 8,
+      "gas:candidate-vibid:361300170322": 90,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171309&region=0&sub_region=0&type=429",
@@ -9288,14 +9288,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 68,
-      "Аверченко Владимир Александрович": 366,
-      "Волгунин Евгений Павлович": 50,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 102,
-      "Холодов Юрий Федорович": 12,
-      "Шукшунов Валентин Ефимович": 96,
-      "Против всех": 175
+      "gas:candidate-vibid:361300170951": 68,
+      "gas:candidate-vibid:1001000131406": 366,
+      "gas:candidate-vibid:1001000121894": 50,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 102,
+      "gas:candidate-vibid:361300170902": 12,
+      "gas:candidate-vibid:361300170322": 96,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9345,14 +9345,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 64,
-      "Аверченко Владимир Александрович": 394,
-      "Волгунин Евгений Павлович": 42,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 108,
-      "Холодов Юрий Федорович": 23,
-      "Шукшунов Валентин Ефимович": 87,
-      "Против всех": 125
+      "gas:candidate-vibid:361300170951": 64,
+      "gas:candidate-vibid:1001000131406": 394,
+      "gas:candidate-vibid:1001000121894": 42,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 108,
+      "gas:candidate-vibid:361300170902": 23,
+      "gas:candidate-vibid:361300170322": 87,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9402,14 +9402,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 54,
-      "Аверченко Владимир Александрович": 240,
-      "Волгунин Евгений Павлович": 36,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 37,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 102,
-      "Против всех": 45
+      "gas:candidate-vibid:361300170951": 54,
+      "gas:candidate-vibid:1001000131406": 240,
+      "gas:candidate-vibid:1001000121894": 36,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 37,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 102,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9459,14 +9459,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 74,
-      "Аверченко Владимир Александрович": 448,
-      "Волгунин Евгений Павлович": 68,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 95,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 186,
-      "Против всех": 104
+      "gas:candidate-vibid:361300170951": 74,
+      "gas:candidate-vibid:1001000131406": 448,
+      "gas:candidate-vibid:1001000121894": 68,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 95,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 186,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9516,14 +9516,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 44,
-      "Аверченко Владимир Александрович": 234,
-      "Волгунин Евгений Павлович": 43,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 57,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 137,
-      "Против всех": 57
+      "gas:candidate-vibid:361300170951": 44,
+      "gas:candidate-vibid:1001000131406": 234,
+      "gas:candidate-vibid:1001000121894": 43,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 57,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 137,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9573,14 +9573,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 33,
-      "Аверченко Владимир Александрович": 193,
-      "Волгунин Евгений Павлович": 45,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 39,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 90,
-      "Против всех": 43
+      "gas:candidate-vibid:361300170951": 33,
+      "gas:candidate-vibid:1001000131406": 193,
+      "gas:candidate-vibid:1001000121894": 45,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 39,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 90,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9630,14 +9630,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 63,
-      "Аверченко Владимир Александрович": 384,
-      "Волгунин Евгений Павлович": 68,
-      "Мороз Петр Петрович": 13,
-      "Прядильников Сергей Павлович": 113,
-      "Холодов Юрий Федорович": 13,
-      "Шукшунов Валентин Ефимович": 179,
-      "Против всех": 102
+      "gas:candidate-vibid:361300170951": 63,
+      "gas:candidate-vibid:1001000131406": 384,
+      "gas:candidate-vibid:1001000121894": 68,
+      "gas:candidate-vibid:1001000195124": 13,
+      "gas:candidate-vibid:1001000136104": 113,
+      "gas:candidate-vibid:361300170902": 13,
+      "gas:candidate-vibid:361300170322": 179,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9687,14 +9687,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 61,
-      "Аверченко Владимир Александрович": 323,
-      "Волгунин Евгений Павлович": 72,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 99,
-      "Холодов Юрий Федорович": 14,
-      "Шукшунов Валентин Ефимович": 162,
-      "Против всех": 100
+      "gas:candidate-vibid:361300170951": 61,
+      "gas:candidate-vibid:1001000131406": 323,
+      "gas:candidate-vibid:1001000121894": 72,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 99,
+      "gas:candidate-vibid:361300170902": 14,
+      "gas:candidate-vibid:361300170322": 162,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9744,14 +9744,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 95,
-      "Аверченко Владимир Александрович": 605,
-      "Волгунин Евгений Павлович": 133,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 147,
-      "Холодов Юрий Федорович": 33,
-      "Шукшунов Валентин Ефимович": 293,
-      "Против всех": 145
+      "gas:candidate-vibid:361300170951": 95,
+      "gas:candidate-vibid:1001000131406": 605,
+      "gas:candidate-vibid:1001000121894": 133,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 147,
+      "gas:candidate-vibid:361300170902": 33,
+      "gas:candidate-vibid:361300170322": 293,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9801,14 +9801,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 66,
-      "Аверченко Владимир Александрович": 422,
-      "Волгунин Евгений Павлович": 95,
-      "Мороз Петр Петрович": 14,
-      "Прядильников Сергей Павлович": 98,
-      "Холодов Юрий Федорович": 21,
-      "Шукшунов Валентин Ефимович": 213,
-      "Против всех": 140
+      "gas:candidate-vibid:361300170951": 66,
+      "gas:candidate-vibid:1001000131406": 422,
+      "gas:candidate-vibid:1001000121894": 95,
+      "gas:candidate-vibid:1001000195124": 14,
+      "gas:candidate-vibid:1001000136104": 98,
+      "gas:candidate-vibid:361300170902": 21,
+      "gas:candidate-vibid:361300170322": 213,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9858,14 +9858,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 45,
-      "Аверченко Владимир Александрович": 320,
-      "Волгунин Евгений Павлович": 101,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 111,
-      "Холодов Юрий Федорович": 28,
-      "Шукшунов Валентин Ефимович": 206,
-      "Против всех": 86
+      "gas:candidate-vibid:361300170951": 45,
+      "gas:candidate-vibid:1001000131406": 320,
+      "gas:candidate-vibid:1001000121894": 101,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 111,
+      "gas:candidate-vibid:361300170902": 28,
+      "gas:candidate-vibid:361300170322": 206,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9915,14 +9915,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 59,
-      "Аверченко Владимир Александрович": 366,
-      "Волгунин Евгений Павлович": 81,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 126,
-      "Холодов Юрий Федорович": 8,
-      "Шукшунов Валентин Ефимович": 271,
-      "Против всех": 86
+      "gas:candidate-vibid:361300170951": 59,
+      "gas:candidate-vibid:1001000131406": 366,
+      "gas:candidate-vibid:1001000121894": 81,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 126,
+      "gas:candidate-vibid:361300170902": 8,
+      "gas:candidate-vibid:361300170322": 271,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -9972,14 +9972,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 92,
-      "Аверченко Владимир Александрович": 433,
-      "Волгунин Евгений Павлович": 138,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 125,
-      "Холодов Юрий Федорович": 40,
-      "Шукшунов Валентин Ефимович": 233,
-      "Против всех": 122
+      "gas:candidate-vibid:361300170951": 92,
+      "gas:candidate-vibid:1001000131406": 433,
+      "gas:candidate-vibid:1001000121894": 138,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 125,
+      "gas:candidate-vibid:361300170902": 40,
+      "gas:candidate-vibid:361300170322": 233,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10029,14 +10029,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 82,
-      "Аверченко Владимир Александрович": 466,
-      "Волгунин Евгений Павлович": 86,
-      "Мороз Петр Петрович": 11,
-      "Прядильников Сергей Павлович": 133,
-      "Холодов Юрий Федорович": 30,
-      "Шукшунов Валентин Ефимович": 151,
-      "Против всех": 148
+      "gas:candidate-vibid:361300170951": 82,
+      "gas:candidate-vibid:1001000131406": 466,
+      "gas:candidate-vibid:1001000121894": 86,
+      "gas:candidate-vibid:1001000195124": 11,
+      "gas:candidate-vibid:1001000136104": 133,
+      "gas:candidate-vibid:361300170902": 30,
+      "gas:candidate-vibid:361300170322": 151,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10086,14 +10086,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 97,
-      "Аверченко Владимир Александрович": 613,
-      "Волгунин Евгений Павлович": 83,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 188,
-      "Холодов Юрий Федорович": 15,
-      "Шукшунов Валентин Ефимович": 178,
-      "Против всех": 193
+      "gas:candidate-vibid:361300170951": 97,
+      "gas:candidate-vibid:1001000131406": 613,
+      "gas:candidate-vibid:1001000121894": 83,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 188,
+      "gas:candidate-vibid:361300170902": 15,
+      "gas:candidate-vibid:361300170322": 178,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10143,14 +10143,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 102,
-      "Аверченко Владимир Александрович": 578,
-      "Волгунин Евгений Павлович": 66,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 165,
-      "Холодов Юрий Федорович": 44,
-      "Шукшунов Валентин Ефимович": 207,
-      "Против всех": 187
+      "gas:candidate-vibid:361300170951": 102,
+      "gas:candidate-vibid:1001000131406": 578,
+      "gas:candidate-vibid:1001000121894": 66,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 165,
+      "gas:candidate-vibid:361300170902": 44,
+      "gas:candidate-vibid:361300170322": 207,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10200,14 +10200,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 128,
-      "Аверченко Владимир Александрович": 667,
-      "Волгунин Евгений Павлович": 97,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 157,
-      "Холодов Юрий Федорович": 16,
-      "Шукшунов Валентин Ефимович": 176,
-      "Против всех": 149
+      "gas:candidate-vibid:361300170951": 128,
+      "gas:candidate-vibid:1001000131406": 667,
+      "gas:candidate-vibid:1001000121894": 97,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 157,
+      "gas:candidate-vibid:361300170902": 16,
+      "gas:candidate-vibid:361300170322": 176,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10257,14 +10257,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 40,
-      "Аверченко Владимир Александрович": 282,
-      "Волгунин Евгений Павлович": 47,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 89,
-      "Холодов Юрий Федорович": 8,
-      "Шукшунов Валентин Ефимович": 201,
-      "Против всех": 76
+      "gas:candidate-vibid:361300170951": 40,
+      "gas:candidate-vibid:1001000131406": 282,
+      "gas:candidate-vibid:1001000121894": 47,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 89,
+      "gas:candidate-vibid:361300170902": 8,
+      "gas:candidate-vibid:361300170322": 201,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10314,14 +10314,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 34,
-      "Аверченко Владимир Александрович": 119,
-      "Волгунин Евгений Павлович": 49,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 17,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 58,
-      "Против всех": 20
+      "gas:candidate-vibid:361300170951": 34,
+      "gas:candidate-vibid:1001000131406": 119,
+      "gas:candidate-vibid:1001000121894": 49,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 17,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 58,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10371,14 +10371,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 42,
-      "Аверченко Владимир Александрович": 147,
-      "Волгунин Евгений Павлович": 24,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 20,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 23,
-      "Против всех": 18
+      "gas:candidate-vibid:361300170951": 42,
+      "gas:candidate-vibid:1001000131406": 147,
+      "gas:candidate-vibid:1001000121894": 24,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 20,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 23,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10428,14 +10428,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 58,
-      "Аверченко Владимир Александрович": 156,
-      "Волгунин Евгений Павлович": 50,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 6,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 36,
-      "Против всех": 23
+      "gas:candidate-vibid:361300170951": 58,
+      "gas:candidate-vibid:1001000131406": 156,
+      "gas:candidate-vibid:1001000121894": 50,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 6,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 36,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10485,14 +10485,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 56,
-      "Аверченко Владимир Александрович": 213,
-      "Волгунин Евгений Павлович": 119,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 42,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 43,
-      "Против всех": 48
+      "gas:candidate-vibid:361300170951": 56,
+      "gas:candidate-vibid:1001000131406": 213,
+      "gas:candidate-vibid:1001000121894": 119,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 42,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 43,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10542,14 +10542,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 56,
-      "Аверченко Владимир Александрович": 273,
-      "Волгунин Евгений Павлович": 110,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 62,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 76,
-      "Против всех": 68
+      "gas:candidate-vibid:361300170951": 56,
+      "gas:candidate-vibid:1001000131406": 273,
+      "gas:candidate-vibid:1001000121894": 110,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 62,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 76,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10599,14 +10599,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 69,
-      "Аверченко Владимир Александрович": 258,
-      "Волгунин Евгений Павлович": 142,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 53,
-      "Холодов Юрий Федорович": 12,
-      "Шукшунов Валентин Ефимович": 87,
-      "Против всех": 55
+      "gas:candidate-vibid:361300170951": 69,
+      "gas:candidate-vibid:1001000131406": 258,
+      "gas:candidate-vibid:1001000121894": 142,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 53,
+      "gas:candidate-vibid:361300170902": 12,
+      "gas:candidate-vibid:361300170322": 87,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10656,14 +10656,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 35,
-      "Аверченко Владимир Александрович": 202,
-      "Волгунин Евгений Павлович": 13,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 21,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 32,
-      "Против всех": 27
+      "gas:candidate-vibid:361300170951": 35,
+      "gas:candidate-vibid:1001000131406": 202,
+      "gas:candidate-vibid:1001000121894": 13,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 21,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 32,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10713,14 +10713,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 11,
-      "Аверченко Владимир Александрович": 102,
-      "Волгунин Евгений Павлович": 17,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 40,
-      "Против всех": 9
+      "gas:candidate-vibid:361300170951": 11,
+      "gas:candidate-vibid:1001000131406": 102,
+      "gas:candidate-vibid:1001000121894": 17,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 40,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10770,14 +10770,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 11,
-      "Аверченко Владимир Александрович": 75,
-      "Волгунин Евгений Павлович": 7,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 6,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 29,
-      "Против всех": 19
+      "gas:candidate-vibid:361300170951": 11,
+      "gas:candidate-vibid:1001000131406": 75,
+      "gas:candidate-vibid:1001000121894": 7,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 6,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 29,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10827,14 +10827,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 38,
-      "Аверченко Владимир Александрович": 167,
-      "Волгунин Евгений Павлович": 191,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 38,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 141,
-      "Против всех": 51
+      "gas:candidate-vibid:361300170951": 38,
+      "gas:candidate-vibid:1001000131406": 167,
+      "gas:candidate-vibid:1001000121894": 191,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 38,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 141,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10884,14 +10884,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 44,
-      "Аверченко Владимир Александрович": 185,
-      "Волгунин Евгений Павлович": 110,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 49,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 84,
-      "Против всех": 40
+      "gas:candidate-vibid:361300170951": 44,
+      "gas:candidate-vibid:1001000131406": 185,
+      "gas:candidate-vibid:1001000121894": 110,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 49,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 84,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10941,14 +10941,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 47,
-      "Аверченко Владимир Александрович": 240,
-      "Волгунин Евгений Павлович": 138,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 56,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 88,
-      "Против всех": 54
+      "gas:candidate-vibid:361300170951": 47,
+      "gas:candidate-vibid:1001000131406": 240,
+      "gas:candidate-vibid:1001000121894": 138,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 56,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 88,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -10998,14 +10998,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 16,
-      "Аверченко Владимир Александрович": 114,
-      "Волгунин Евгений Павлович": 49,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 20,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 46,
-      "Против всех": 17
+      "gas:candidate-vibid:361300170951": 16,
+      "gas:candidate-vibid:1001000131406": 114,
+      "gas:candidate-vibid:1001000121894": 49,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 20,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 46,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11055,14 +11055,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 27,
-      "Аверченко Владимир Александрович": 162,
-      "Волгунин Евгений Павлович": 44,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 21,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 22,
-      "Против всех": 38
+      "gas:candidate-vibid:361300170951": 27,
+      "gas:candidate-vibid:1001000131406": 162,
+      "gas:candidate-vibid:1001000121894": 44,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 21,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 22,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11112,14 +11112,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 22,
-      "Аверченко Владимир Александрович": 189,
-      "Волгунин Евгений Павлович": 37,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 23,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 63,
-      "Против всех": 36
+      "gas:candidate-vibid:361300170951": 22,
+      "gas:candidate-vibid:1001000131406": 189,
+      "gas:candidate-vibid:1001000121894": 37,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 23,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 63,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11169,14 +11169,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 10,
-      "Аверченко Владимир Александрович": 94,
-      "Волгунин Евгений Павлович": 3,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 36,
-      "Против всех": 6
+      "gas:candidate-vibid:361300170951": 10,
+      "gas:candidate-vibid:1001000131406": 94,
+      "gas:candidate-vibid:1001000121894": 3,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 36,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11226,14 +11226,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 101,
-      "Аверченко Владимир Александрович": 649,
-      "Волгунин Евгений Павлович": 116,
-      "Мороз Петр Петрович": 15,
-      "Прядильников Сергей Павлович": 75,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 219,
-      "Против всех": 103
+      "gas:candidate-vibid:361300170951": 101,
+      "gas:candidate-vibid:1001000131406": 649,
+      "gas:candidate-vibid:1001000121894": 116,
+      "gas:candidate-vibid:1001000195124": 15,
+      "gas:candidate-vibid:1001000136104": 75,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 219,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11283,14 +11283,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 95,
-      "Аверченко Владимир Александрович": 501,
-      "Волгунин Евгений Павлович": 178,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 69,
-      "Холодов Юрий Федорович": 16,
-      "Шукшунов Валентин Ефимович": 314,
-      "Против всех": 124
+      "gas:candidate-vibid:361300170951": 95,
+      "gas:candidate-vibid:1001000131406": 501,
+      "gas:candidate-vibid:1001000121894": 178,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 69,
+      "gas:candidate-vibid:361300170902": 16,
+      "gas:candidate-vibid:361300170322": 314,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11340,14 +11340,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 72,
-      "Аверченко Владимир Александрович": 353,
-      "Волгунин Евгений Павлович": 169,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 65,
-      "Холодов Юрий Федорович": 6,
-      "Шукшунов Валентин Ефимович": 337,
-      "Против всех": 101
+      "gas:candidate-vibid:361300170951": 72,
+      "gas:candidate-vibid:1001000131406": 353,
+      "gas:candidate-vibid:1001000121894": 169,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 65,
+      "gas:candidate-vibid:361300170902": 6,
+      "gas:candidate-vibid:361300170322": 337,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11397,14 +11397,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 49,
-      "Аверченко Владимир Александрович": 241,
-      "Волгунин Евгений Павлович": 95,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 76,
-      "Холодов Юрий Федорович": 17,
-      "Шукшунов Валентин Ефимович": 346,
-      "Против всех": 102
+      "gas:candidate-vibid:361300170951": 49,
+      "gas:candidate-vibid:1001000131406": 241,
+      "gas:candidate-vibid:1001000121894": 95,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 76,
+      "gas:candidate-vibid:361300170902": 17,
+      "gas:candidate-vibid:361300170322": 346,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11454,14 +11454,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 50,
-      "Аверченко Владимир Александрович": 333,
-      "Волгунин Евгений Павлович": 131,
-      "Мороз Петр Петрович": 18,
-      "Прядильников Сергей Павлович": 78,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 306,
-      "Против всех": 78
+      "gas:candidate-vibid:361300170951": 50,
+      "gas:candidate-vibid:1001000131406": 333,
+      "gas:candidate-vibid:1001000121894": 131,
+      "gas:candidate-vibid:1001000195124": 18,
+      "gas:candidate-vibid:1001000136104": 78,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 306,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11511,14 +11511,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 60,
-      "Аверченко Владимир Александрович": 249,
-      "Волгунин Евгений Павлович": 120,
-      "Мороз Петр Петрович": 17,
-      "Прядильников Сергей Павлович": 86,
-      "Холодов Юрий Федорович": 19,
-      "Шукшунов Валентин Ефимович": 229,
-      "Против всех": 106
+      "gas:candidate-vibid:361300170951": 60,
+      "gas:candidate-vibid:1001000131406": 249,
+      "gas:candidate-vibid:1001000121894": 120,
+      "gas:candidate-vibid:1001000195124": 17,
+      "gas:candidate-vibid:1001000136104": 86,
+      "gas:candidate-vibid:361300170902": 19,
+      "gas:candidate-vibid:361300170322": 229,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11568,14 +11568,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 61,
-      "Аверченко Владимир Александрович": 349,
-      "Волгунин Евгений Павлович": 118,
-      "Мороз Петр Петрович": 12,
-      "Прядильников Сергей Павлович": 85,
-      "Холодов Юрий Федорович": 13,
-      "Шукшунов Валентин Ефимович": 238,
-      "Против всех": 144
+      "gas:candidate-vibid:361300170951": 61,
+      "gas:candidate-vibid:1001000131406": 349,
+      "gas:candidate-vibid:1001000121894": 118,
+      "gas:candidate-vibid:1001000195124": 12,
+      "gas:candidate-vibid:1001000136104": 85,
+      "gas:candidate-vibid:361300170902": 13,
+      "gas:candidate-vibid:361300170322": 238,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11625,14 +11625,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 30,
-      "Аверченко Владимир Александрович": 297,
-      "Волгунин Евгений Павлович": 26,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 31,
-      "Против всех": 19
+      "gas:candidate-vibid:361300170951": 30,
+      "gas:candidate-vibid:1001000131406": 297,
+      "gas:candidate-vibid:1001000121894": 26,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 31,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11682,14 +11682,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 7,
-      "Аверченко Владимир Александрович": 83,
-      "Волгунин Евгений Павлович": 7,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:361300170951": 7,
+      "gas:candidate-vibid:1001000131406": 83,
+      "gas:candidate-vibid:1001000121894": 7,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11739,14 +11739,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 38,
-      "Аверченко Владимир Александрович": 369,
-      "Волгунин Евгений Павлович": 105,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 88,
-      "Против всех": 30
+      "gas:candidate-vibid:361300170951": 38,
+      "gas:candidate-vibid:1001000131406": 369,
+      "gas:candidate-vibid:1001000121894": 105,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 88,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11796,14 +11796,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 29,
-      "Аверченко Владимир Александрович": 209,
-      "Волгунин Евгений Павлович": 14,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 21,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 26,
-      "Против всех": 17
+      "gas:candidate-vibid:361300170951": 29,
+      "gas:candidate-vibid:1001000131406": 209,
+      "gas:candidate-vibid:1001000121894": 14,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 21,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 26,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11853,14 +11853,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 12,
-      "Аверченко Владимир Александрович": 90,
-      "Волгунин Евгений Павлович": 6,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:361300170951": 12,
+      "gas:candidate-vibid:1001000131406": 90,
+      "gas:candidate-vibid:1001000121894": 6,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11910,14 +11910,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 27,
-      "Аверченко Владимир Александрович": 187,
-      "Волгунин Евгений Павлович": 22,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 61,
-      "Против всех": 15
+      "gas:candidate-vibid:361300170951": 27,
+      "gas:candidate-vibid:1001000131406": 187,
+      "gas:candidate-vibid:1001000121894": 22,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 61,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -11967,14 +11967,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 103,
-      "Аверченко Владимир Александрович": 558,
-      "Волгунин Евгений Павлович": 78,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 37,
-      "Холодов Юрий Федорович": 16,
-      "Шукшунов Валентин Ефимович": 84,
-      "Против всех": 61
+      "gas:candidate-vibid:361300170951": 103,
+      "gas:candidate-vibid:1001000131406": 558,
+      "gas:candidate-vibid:1001000121894": 78,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 37,
+      "gas:candidate-vibid:361300170902": 16,
+      "gas:candidate-vibid:361300170322": 84,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12024,14 +12024,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 60,
-      "Аверченко Владимир Александрович": 617,
-      "Волгунин Евгений Павлович": 67,
-      "Мороз Петр Петрович": 6,
-      "Прядильников Сергей Павлович": 31,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 88,
-      "Против всех": 45
+      "gas:candidate-vibid:361300170951": 60,
+      "gas:candidate-vibid:1001000131406": 617,
+      "gas:candidate-vibid:1001000121894": 67,
+      "gas:candidate-vibid:1001000195124": 6,
+      "gas:candidate-vibid:1001000136104": 31,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 88,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12081,14 +12081,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 34,
-      "Аверченко Владимир Александрович": 163,
-      "Волгунин Евгений Павлович": 12,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 60,
-      "Против всех": 12
+      "gas:candidate-vibid:361300170951": 34,
+      "gas:candidate-vibid:1001000131406": 163,
+      "gas:candidate-vibid:1001000121894": 12,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 60,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12138,14 +12138,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 39,
-      "Аверченко Владимир Александрович": 179,
-      "Волгунин Евгений Павлович": 24,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 26,
-      "Холодов Юрий Федорович": 10,
-      "Шукшунов Валентин Ефимович": 64,
-      "Против всех": 35
+      "gas:candidate-vibid:361300170951": 39,
+      "gas:candidate-vibid:1001000131406": 179,
+      "gas:candidate-vibid:1001000121894": 24,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 26,
+      "gas:candidate-vibid:361300170902": 10,
+      "gas:candidate-vibid:361300170322": 64,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12195,14 +12195,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 52,
-      "Аверченко Владимир Александрович": 213,
-      "Волгунин Евгений Павлович": 35,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 24,
-      "Холодов Юрий Федорович": 8,
-      "Шукшунов Валентин Ефимович": 90,
-      "Против всех": 32
+      "gas:candidate-vibid:361300170951": 52,
+      "gas:candidate-vibid:1001000131406": 213,
+      "gas:candidate-vibid:1001000121894": 35,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 24,
+      "gas:candidate-vibid:361300170902": 8,
+      "gas:candidate-vibid:361300170322": 90,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12252,14 +12252,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 20,
-      "Аверченко Владимир Александрович": 117,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 38,
-      "Против всех": 5
+      "gas:candidate-vibid:361300170951": 20,
+      "gas:candidate-vibid:1001000131406": 117,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 38,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12309,14 +12309,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 45,
-      "Аверченко Владимир Александрович": 227,
-      "Волгунин Евгений Павлович": 52,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 21,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 54,
-      "Против всех": 45
+      "gas:candidate-vibid:361300170951": 45,
+      "gas:candidate-vibid:1001000131406": 227,
+      "gas:candidate-vibid:1001000121894": 52,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 21,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 54,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12366,14 +12366,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 79,
-      "Аверченко Владимир Александрович": 433,
-      "Волгунин Евгений Павлович": 87,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 61,
-      "Холодов Юрий Федорович": 10,
-      "Шукшунов Валентин Ефимович": 83,
-      "Против всех": 71
+      "gas:candidate-vibid:361300170951": 79,
+      "gas:candidate-vibid:1001000131406": 433,
+      "gas:candidate-vibid:1001000121894": 87,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 61,
+      "gas:candidate-vibid:361300170902": 10,
+      "gas:candidate-vibid:361300170322": 83,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12423,14 +12423,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 36,
-      "Аверченко Владимир Александрович": 421,
-      "Волгунин Евгений Павлович": 8,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 19,
-      "Холодов Юрий Федорович": 11,
-      "Шукшунов Валентин Ефимович": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:361300170951": 36,
+      "gas:candidate-vibid:1001000131406": 421,
+      "gas:candidate-vibid:1001000121894": 8,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 19,
+      "gas:candidate-vibid:361300170902": 11,
+      "gas:candidate-vibid:361300170322": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12480,14 +12480,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 27,
-      "Аверченко Владимир Александрович": 173,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 37,
-      "Против всех": 16
+      "gas:candidate-vibid:361300170951": 27,
+      "gas:candidate-vibid:1001000131406": 173,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 37,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12537,14 +12537,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 27,
-      "Аверченко Владимир Александрович": 152,
-      "Волгунин Евгений Павлович": 13,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 26,
-      "Против всех": 10
+      "gas:candidate-vibid:361300170951": 27,
+      "gas:candidate-vibid:1001000131406": 152,
+      "gas:candidate-vibid:1001000121894": 13,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 26,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12594,14 +12594,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 31,
-      "Аверченко Владимир Александрович": 273,
-      "Волгунин Евгений Павлович": 7,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 20,
-      "Против всех": 17
+      "gas:candidate-vibid:361300170951": 31,
+      "gas:candidate-vibid:1001000131406": 273,
+      "gas:candidate-vibid:1001000121894": 7,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 20,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12651,14 +12651,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 46,
-      "Аверченко Владимир Александрович": 263,
-      "Волгунин Евгений Павлович": 45,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 21,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 43,
-      "Против всех": 22
+      "gas:candidate-vibid:361300170951": 46,
+      "gas:candidate-vibid:1001000131406": 263,
+      "gas:candidate-vibid:1001000121894": 45,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 21,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 43,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12708,14 +12708,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 8,
-      "Аверченко Владимир Александрович": 43,
-      "Волгунин Евгений Павлович": 6,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 2,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:361300170951": 8,
+      "gas:candidate-vibid:1001000131406": 43,
+      "gas:candidate-vibid:1001000121894": 6,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 2,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12765,14 +12765,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 35,
-      "Аверченко Владимир Александрович": 346,
-      "Волгунин Евгений Павлович": 41,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 13,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 57,
-      "Против всех": 23
+      "gas:candidate-vibid:361300170951": 35,
+      "gas:candidate-vibid:1001000131406": 346,
+      "gas:candidate-vibid:1001000121894": 41,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 13,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 57,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12822,14 +12822,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 20,
-      "Аверченко Владимир Александрович": 219,
-      "Волгунин Евгений Павлович": 9,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:361300170951": 20,
+      "gas:candidate-vibid:1001000131406": 219,
+      "gas:candidate-vibid:1001000121894": 9,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12879,14 +12879,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 26,
-      "Аверченко Владимир Александрович": 233,
-      "Волгунин Евгений Павлович": 16,
-      "Мороз Петр Петрович": 5,
-      "Прядильников Сергей Павлович": 12,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 26,
-      "Против всех": 16
+      "gas:candidate-vibid:361300170951": 26,
+      "gas:candidate-vibid:1001000131406": 233,
+      "gas:candidate-vibid:1001000121894": 16,
+      "gas:candidate-vibid:1001000195124": 5,
+      "gas:candidate-vibid:1001000136104": 12,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 26,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12936,14 +12936,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 63,
-      "Аверченко Владимир Александрович": 452,
-      "Волгунин Евгений Павлович": 51,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 30,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 99,
-      "Против всех": 41
+      "gas:candidate-vibid:361300170951": 63,
+      "gas:candidate-vibid:1001000131406": 452,
+      "gas:candidate-vibid:1001000121894": 51,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 30,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 99,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -12993,14 +12993,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 68,
-      "Аверченко Владимир Александрович": 296,
-      "Волгунин Евгений Павлович": 33,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 15,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 32,
-      "Против всех": 30
+      "gas:candidate-vibid:361300170951": 68,
+      "gas:candidate-vibid:1001000131406": 296,
+      "gas:candidate-vibid:1001000121894": 33,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 15,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 32,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13050,14 +13050,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 16,
-      "Аверченко Владимир Александрович": 136,
-      "Волгунин Евгений Павлович": 5,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 9,
-      "Холодов Юрий Федорович": 4,
-      "Шукшунов Валентин Ефимович": 64,
-      "Против всех": 27
+      "gas:candidate-vibid:361300170951": 16,
+      "gas:candidate-vibid:1001000131406": 136,
+      "gas:candidate-vibid:1001000121894": 5,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 9,
+      "gas:candidate-vibid:361300170902": 4,
+      "gas:candidate-vibid:361300170322": 64,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13107,14 +13107,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 22,
-      "Аверченко Владимир Александрович": 304,
-      "Волгунин Евгений Павлович": 16,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 17,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 71,
-      "Против всех": 20
+      "gas:candidate-vibid:361300170951": 22,
+      "gas:candidate-vibid:1001000131406": 304,
+      "gas:candidate-vibid:1001000121894": 16,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 17,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 71,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13164,14 +13164,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 7,
-      "Аверченко Владимир Александрович": 83,
-      "Волгунин Евгений Павлович": 3,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 0,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 21,
-      "Против всех": 6
+      "gas:candidate-vibid:361300170951": 7,
+      "gas:candidate-vibid:1001000131406": 83,
+      "gas:candidate-vibid:1001000121894": 3,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 0,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 21,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13221,14 +13221,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 58,
-      "Аверченко Владимир Александрович": 440,
-      "Волгунин Евгений Павлович": 54,
-      "Мороз Петр Петрович": 9,
-      "Прядильников Сергей Павлович": 102,
-      "Холодов Юрий Федорович": 12,
-      "Шукшунов Валентин Ефимович": 117,
-      "Против всех": 128
+      "gas:candidate-vibid:361300170951": 58,
+      "gas:candidate-vibid:1001000131406": 440,
+      "gas:candidate-vibid:1001000121894": 54,
+      "gas:candidate-vibid:1001000195124": 9,
+      "gas:candidate-vibid:1001000136104": 102,
+      "gas:candidate-vibid:361300170902": 12,
+      "gas:candidate-vibid:361300170322": 117,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13278,14 +13278,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 26,
-      "Аверченко Владимир Александрович": 57,
-      "Волгунин Евгений Павлович": 9,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 4,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:361300170951": 26,
+      "gas:candidate-vibid:1001000131406": 57,
+      "gas:candidate-vibid:1001000121894": 9,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 4,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13335,14 +13335,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 20,
-      "Аверченко Владимир Александрович": 51,
-      "Волгунин Евгений Павлович": 12,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 8,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:361300170951": 20,
+      "gas:candidate-vibid:1001000131406": 51,
+      "gas:candidate-vibid:1001000121894": 12,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 8,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13392,14 +13392,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 42,
-      "Аверченко Владимир Александрович": 175,
-      "Волгунин Евгений Павлович": 56,
-      "Мороз Петр Петрович": 10,
-      "Прядильников Сергей Павлович": 34,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 228,
-      "Против всех": 54
+      "gas:candidate-vibid:361300170951": 42,
+      "gas:candidate-vibid:1001000131406": 175,
+      "gas:candidate-vibid:1001000121894": 56,
+      "gas:candidate-vibid:1001000195124": 10,
+      "gas:candidate-vibid:1001000136104": 34,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 228,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13449,14 +13449,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 10,
-      "Аверченко Владимир Александрович": 85,
-      "Волгунин Евгений Павлович": 53,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 10,
-      "Холодов Юрий Федорович": 2,
-      "Шукшунов Валентин Ефимович": 54,
-      "Против всех": 8
+      "gas:candidate-vibid:361300170951": 10,
+      "gas:candidate-vibid:1001000131406": 85,
+      "gas:candidate-vibid:1001000121894": 53,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 10,
+      "gas:candidate-vibid:361300170902": 2,
+      "gas:candidate-vibid:361300170322": 54,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171418&region=0&sub_region=0&type=429",
@@ -13506,14 +13506,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 11,
-      "Аверченко Владимир Александрович": 64,
-      "Волгунин Евгений Павлович": 19,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 6,
-      "Холодов Юрий Федорович": 0,
-      "Шукшунов Валентин Ефимович": 39,
-      "Против всех": 11
+      "gas:candidate-vibid:361300170951": 11,
+      "gas:candidate-vibid:1001000131406": 64,
+      "gas:candidate-vibid:1001000121894": 19,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 6,
+      "gas:candidate-vibid:361300170902": 0,
+      "gas:candidate-vibid:361300170322": 39,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13563,14 +13563,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 32,
-      "Аверченко Владимир Александрович": 174,
-      "Волгунин Евгений Павлович": 21,
-      "Мороз Петр Петрович": 4,
-      "Прядильников Сергей Павлович": 5,
-      "Холодов Юрий Федорович": 5,
-      "Шукшунов Валентин Ефимович": 85,
-      "Против всех": 34
+      "gas:candidate-vibid:361300170951": 32,
+      "gas:candidate-vibid:1001000131406": 174,
+      "gas:candidate-vibid:1001000121894": 21,
+      "gas:candidate-vibid:1001000195124": 4,
+      "gas:candidate-vibid:1001000136104": 5,
+      "gas:candidate-vibid:361300170902": 5,
+      "gas:candidate-vibid:361300170322": 85,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13620,14 +13620,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 44,
-      "Аверченко Владимир Александрович": 244,
-      "Волгунин Евгений Павлович": 38,
-      "Мороз Петр Петрович": 7,
-      "Прядильников Сергей Павлович": 19,
-      "Холодов Юрий Федорович": 12,
-      "Шукшунов Валентин Ефимович": 162,
-      "Против всех": 58
+      "gas:candidate-vibid:361300170951": 44,
+      "gas:candidate-vibid:1001000131406": 244,
+      "gas:candidate-vibid:1001000121894": 38,
+      "gas:candidate-vibid:1001000195124": 7,
+      "gas:candidate-vibid:1001000136104": 19,
+      "gas:candidate-vibid:361300170902": 12,
+      "gas:candidate-vibid:361300170322": 162,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13677,14 +13677,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 83,
-      "Аверченко Владимир Александрович": 280,
-      "Волгунин Евгений Павлович": 43,
-      "Мороз Петр Петрович": 13,
-      "Прядильников Сергей Павлович": 24,
-      "Холодов Юрий Федорович": 14,
-      "Шукшунов Валентин Ефимович": 275,
-      "Против всех": 94
+      "gas:candidate-vibid:361300170951": 83,
+      "gas:candidate-vibid:1001000131406": 280,
+      "gas:candidate-vibid:1001000121894": 43,
+      "gas:candidate-vibid:1001000195124": 13,
+      "gas:candidate-vibid:1001000136104": 24,
+      "gas:candidate-vibid:361300170902": 14,
+      "gas:candidate-vibid:361300170322": 275,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13734,14 +13734,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 68,
-      "Аверченко Владимир Александрович": 331,
-      "Волгунин Евгений Павлович": 33,
-      "Мороз Петр Петрович": 8,
-      "Прядильников Сергей Павлович": 16,
-      "Холодов Юрий Федорович": 9,
-      "Шукшунов Валентин Ефимович": 96,
-      "Против всех": 57
+      "gas:candidate-vibid:361300170951": 68,
+      "gas:candidate-vibid:1001000131406": 331,
+      "gas:candidate-vibid:1001000121894": 33,
+      "gas:candidate-vibid:1001000195124": 8,
+      "gas:candidate-vibid:1001000136104": 16,
+      "gas:candidate-vibid:361300170902": 9,
+      "gas:candidate-vibid:361300170322": 96,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13791,14 +13791,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 61,
-      "Аверченко Владимир Александрович": 382,
-      "Волгунин Евгений Павлович": 44,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 7,
-      "Холодов Юрий Федорович": 7,
-      "Шукшунов Валентин Ефимович": 198,
-      "Против всех": 64
+      "gas:candidate-vibid:361300170951": 61,
+      "gas:candidate-vibid:1001000131406": 382,
+      "gas:candidate-vibid:1001000121894": 44,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 7,
+      "gas:candidate-vibid:361300170902": 7,
+      "gas:candidate-vibid:361300170322": 198,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13848,14 +13848,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 34,
-      "Аверченко Владимир Александрович": 147,
-      "Волгунин Евгений Павлович": 8,
-      "Мороз Петр Петрович": 3,
-      "Прядильников Сергей Павлович": 0,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 25,
-      "Против всех": 18
+      "gas:candidate-vibid:361300170951": 34,
+      "gas:candidate-vibid:1001000131406": 147,
+      "gas:candidate-vibid:1001000121894": 8,
+      "gas:candidate-vibid:1001000195124": 3,
+      "gas:candidate-vibid:1001000136104": 0,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 25,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13905,14 +13905,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 18,
-      "Аверченко Владимир Александрович": 102,
-      "Волгунин Евгений Павлович": 5,
-      "Мороз Петр Петрович": 0,
-      "Прядильников Сергей Павлович": 3,
-      "Холодов Юрий Федорович": 3,
-      "Шукшунов Валентин Ефимович": 33,
-      "Против всех": 10
+      "gas:candidate-vibid:361300170951": 18,
+      "gas:candidate-vibid:1001000131406": 102,
+      "gas:candidate-vibid:1001000121894": 5,
+      "gas:candidate-vibid:1001000195124": 0,
+      "gas:candidate-vibid:1001000136104": 3,
+      "gas:candidate-vibid:361300170902": 3,
+      "gas:candidate-vibid:361300170322": 33,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -13962,14 +13962,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 15,
-      "Аверченко Владимир Александрович": 82,
-      "Волгунин Евгений Павлович": 10,
-      "Мороз Петр Петрович": 1,
-      "Прядильников Сергей Павлович": 1,
-      "Холодов Юрий Федорович": 1,
-      "Шукшунов Валентин Ефимович": 30,
-      "Против всех": 8
+      "gas:candidate-vibid:361300170951": 15,
+      "gas:candidate-vibid:1001000131406": 82,
+      "gas:candidate-vibid:1001000121894": 10,
+      "gas:candidate-vibid:1001000195124": 1,
+      "gas:candidate-vibid:1001000136104": 1,
+      "gas:candidate-vibid:361300170902": 1,
+      "gas:candidate-vibid:361300170322": 30,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -14019,14 +14019,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 41,
-      "Аверченко Владимир Александрович": 239,
-      "Волгунин Евгений Павлович": 31,
-      "Мороз Петр Петрович": 2,
-      "Прядильников Сергей Павлович": 18,
-      "Холодов Юрий Федорович": 13,
-      "Шукшунов Валентин Ефимович": 82,
-      "Против всех": 33
+      "gas:candidate-vibid:361300170951": 41,
+      "gas:candidate-vibid:1001000131406": 239,
+      "gas:candidate-vibid:1001000121894": 31,
+      "gas:candidate-vibid:1001000195124": 2,
+      "gas:candidate-vibid:1001000136104": 18,
+      "gas:candidate-vibid:361300170902": 13,
+      "gas:candidate-vibid:361300170322": 82,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -14076,14 +14076,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 102,
-      "Аверченко Владимир Александрович": 503,
-      "Волгунин Евгений Павлович": 100,
-      "Мороз Петр Петрович": 21,
-      "Прядильников Сергей Павлович": 33,
-      "Холодов Юрий Федорович": 39,
-      "Шукшунов Валентин Ефимович": 315,
-      "Против всех": 205
+      "gas:candidate-vibid:361300170951": 102,
+      "gas:candidate-vibid:1001000131406": 503,
+      "gas:candidate-vibid:1001000121894": 100,
+      "gas:candidate-vibid:1001000195124": 21,
+      "gas:candidate-vibid:1001000136104": 33,
+      "gas:candidate-vibid:361300170902": 39,
+      "gas:candidate-vibid:361300170322": 315,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",
@@ -14133,14 +14133,14 @@ export const duma_2003_uik_428_region_61_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аверченко Алексей Евгеньевич": 105,
-      "Аверченко Владимир Александрович": 658,
-      "Волгунин Евгений Павлович": 214,
-      "Мороз Петр Петрович": 16,
-      "Прядильников Сергей Павлович": 33,
-      "Холодов Юрий Федорович": 51,
-      "Шукшунов Валентин Ефимович": 300,
-      "Против всех": 181
+      "gas:candidate-vibid:361300170951": 105,
+      "gas:candidate-vibid:1001000131406": 658,
+      "gas:candidate-vibid:1001000121894": 214,
+      "gas:candidate-vibid:1001000195124": 16,
+      "gas:candidate-vibid:1001000136104": 33,
+      "gas:candidate-vibid:361300170902": 51,
+      "gas:candidate-vibid:361300170322": 300,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613001020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300171470&region=0&sub_region=0&type=429",

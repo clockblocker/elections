@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 105,
-      "Аюбов Валерий Хусинович": 148,
-      "Боташев Расул Борисович": 431,
-      "Бытдаев Кемал Курманович": 105,
-      "Джантемиров Мурадин Султанович": 65,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 10,
-      "Маршанкулов Эдуард Муратбиевич": 260,
-      "Нашева Инна Гериевна": 145
+      "gas:candidate-vibid:2092000381878": 105,
+      "gas:candidate-vibid:2092000379483": 148,
+      "gas:candidate-vibid:2092000381744": 431,
+      "gas:candidate-vibid:2092000379471": 105,
+      "gas:candidate-vibid:2092000381900": 65,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 10,
+      "gas:candidate-vibid:2092000381682": 260,
+      "gas:candidate-vibid:2092000381919": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 141,
-      "Аюбов Валерий Хусинович": 105,
-      "Боташев Расул Борисович": 406,
-      "Бытдаев Кемал Курманович": 99,
-      "Джантемиров Мурадин Султанович": 52,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 345,
-      "Нашева Инна Гериевна": 164
+      "gas:candidate-vibid:2092000381878": 141,
+      "gas:candidate-vibid:2092000379483": 105,
+      "gas:candidate-vibid:2092000381744": 406,
+      "gas:candidate-vibid:2092000379471": 99,
+      "gas:candidate-vibid:2092000381900": 52,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 345,
+      "gas:candidate-vibid:2092000381919": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 84,
-      "Аюбов Валерий Хусинович": 84,
-      "Боташев Расул Борисович": 402,
-      "Бытдаев Кемал Курманович": 74,
-      "Джантемиров Мурадин Султанович": 32,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 241,
-      "Нашева Инна Гериевна": 122
+      "gas:candidate-vibid:2092000381878": 84,
+      "gas:candidate-vibid:2092000379483": 84,
+      "gas:candidate-vibid:2092000381744": 402,
+      "gas:candidate-vibid:2092000379471": 74,
+      "gas:candidate-vibid:2092000381900": 32,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 241,
+      "gas:candidate-vibid:2092000381919": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 146,
-      "Аюбов Валерий Хусинович": 32,
-      "Боташев Расул Борисович": 125,
-      "Бытдаев Кемал Курманович": 36,
-      "Джантемиров Мурадин Султанович": 12,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 92,
-      "Нашева Инна Гериевна": 84
+      "gas:candidate-vibid:2092000381878": 146,
+      "gas:candidate-vibid:2092000379483": 32,
+      "gas:candidate-vibid:2092000381744": 125,
+      "gas:candidate-vibid:2092000379471": 36,
+      "gas:candidate-vibid:2092000381900": 12,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 92,
+      "gas:candidate-vibid:2092000381919": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 31,
-      "Аюбов Валерий Хусинович": 26,
-      "Боташев Расул Борисович": 136,
-      "Бытдаев Кемал Курманович": 17,
-      "Джантемиров Мурадин Султанович": 15,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 124,
-      "Нашева Инна Гериевна": 37
+      "gas:candidate-vibid:2092000381878": 31,
+      "gas:candidate-vibid:2092000379483": 26,
+      "gas:candidate-vibid:2092000381744": 136,
+      "gas:candidate-vibid:2092000379471": 17,
+      "gas:candidate-vibid:2092000381900": 15,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 124,
+      "gas:candidate-vibid:2092000381919": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 17,
-      "Аюбов Валерий Хусинович": 19,
-      "Боташев Расул Борисович": 95,
-      "Бытдаев Кемал Курманович": 11,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 51,
-      "Нашева Инна Гериевна": 25
+      "gas:candidate-vibid:2092000381878": 17,
+      "gas:candidate-vibid:2092000379483": 19,
+      "gas:candidate-vibid:2092000381744": 95,
+      "gas:candidate-vibid:2092000379471": 11,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 51,
+      "gas:candidate-vibid:2092000381919": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 12,
-      "Боташев Расул Борисович": 42,
-      "Бытдаев Кемал Курманович": 9,
-      "Джантемиров Мурадин Султанович": 9,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 59,
-      "Нашева Инна Гериевна": 19
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 12,
+      "gas:candidate-vibid:2092000381744": 42,
+      "gas:candidate-vibid:2092000379471": 9,
+      "gas:candidate-vibid:2092000381900": 9,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 59,
+      "gas:candidate-vibid:2092000381919": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 25,
-      "Аюбов Валерий Хусинович": 21,
-      "Боташев Расул Борисович": 163,
-      "Бытдаев Кемал Курманович": 45,
-      "Джантемиров Мурадин Султанович": 11,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 109,
-      "Нашева Инна Гериевна": 57
+      "gas:candidate-vibid:2092000381878": 25,
+      "gas:candidate-vibid:2092000379483": 21,
+      "gas:candidate-vibid:2092000381744": 163,
+      "gas:candidate-vibid:2092000379471": 45,
+      "gas:candidate-vibid:2092000381900": 11,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 109,
+      "gas:candidate-vibid:2092000381919": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 11,
-      "Боташев Расул Борисович": 79,
-      "Бытдаев Кемал Курманович": 9,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 67,
-      "Нашева Инна Гериевна": 21
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 11,
+      "gas:candidate-vibid:2092000381744": 79,
+      "gas:candidate-vibid:2092000379471": 9,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 67,
+      "gas:candidate-vibid:2092000381919": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 15,
-      "Аюбов Валерий Хусинович": 15,
-      "Боташев Расул Борисович": 42,
-      "Бытдаев Кемал Курманович": 76,
-      "Джантемиров Мурадин Султанович": 24,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 64,
-      "Нашева Инна Гериевна": 29
+      "gas:candidate-vibid:2092000381878": 15,
+      "gas:candidate-vibid:2092000379483": 15,
+      "gas:candidate-vibid:2092000381744": 42,
+      "gas:candidate-vibid:2092000379471": 76,
+      "gas:candidate-vibid:2092000381900": 24,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 64,
+      "gas:candidate-vibid:2092000381919": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 124,
-      "Аюбов Валерий Хусинович": 56,
-      "Боташев Расул Борисович": 364,
-      "Бытдаев Кемал Курманович": 44,
-      "Джантемиров Мурадин Султанович": 29,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 147,
-      "Нашева Инна Гериевна": 104
+      "gas:candidate-vibid:2092000381878": 124,
+      "gas:candidate-vibid:2092000379483": 56,
+      "gas:candidate-vibid:2092000381744": 364,
+      "gas:candidate-vibid:2092000379471": 44,
+      "gas:candidate-vibid:2092000381900": 29,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 147,
+      "gas:candidate-vibid:2092000381919": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 41,
-      "Аюбов Валерий Хусинович": 61,
-      "Боташев Расул Борисович": 260,
-      "Бытдаев Кемал Курманович": 54,
-      "Джантемиров Мурадин Султанович": 25,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 211,
-      "Нашева Инна Гериевна": 74
+      "gas:candidate-vibid:2092000381878": 41,
+      "gas:candidate-vibid:2092000379483": 61,
+      "gas:candidate-vibid:2092000381744": 260,
+      "gas:candidate-vibid:2092000379471": 54,
+      "gas:candidate-vibid:2092000381900": 25,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 211,
+      "gas:candidate-vibid:2092000381919": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 34,
-      "Аюбов Валерий Хусинович": 114,
-      "Боташев Расул Борисович": 272,
-      "Бытдаев Кемал Курманович": 22,
-      "Джантемиров Мурадин Султанович": 21,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 5,
-      "Маршанкулов Эдуард Муратбиевич": 333,
-      "Нашева Инна Гериевна": 324
+      "gas:candidate-vibid:2092000381878": 34,
+      "gas:candidate-vibid:2092000379483": 114,
+      "gas:candidate-vibid:2092000381744": 272,
+      "gas:candidate-vibid:2092000379471": 22,
+      "gas:candidate-vibid:2092000381900": 21,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 5,
+      "gas:candidate-vibid:2092000381682": 333,
+      "gas:candidate-vibid:2092000381919": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 178,
-      "Аюбов Валерий Хусинович": 24,
-      "Боташев Расул Борисович": 42,
-      "Бытдаев Кемал Курманович": 19,
-      "Джантемиров Мурадин Султанович": 9,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 29,
-      "Нашева Инна Гериевна": 48
+      "gas:candidate-vibid:2092000381878": 178,
+      "gas:candidate-vibid:2092000379483": 24,
+      "gas:candidate-vibid:2092000381744": 42,
+      "gas:candidate-vibid:2092000379471": 19,
+      "gas:candidate-vibid:2092000381900": 9,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 29,
+      "gas:candidate-vibid:2092000381919": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 18,
-      "Аюбов Валерий Хусинович": 17,
-      "Боташев Расул Борисович": 87,
-      "Бытдаев Кемал Курманович": 14,
-      "Джантемиров Мурадин Султанович": 8,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 17,
-      "Нашева Инна Гериевна": 67
+      "gas:candidate-vibid:2092000381878": 18,
+      "gas:candidate-vibid:2092000379483": 17,
+      "gas:candidate-vibid:2092000381744": 87,
+      "gas:candidate-vibid:2092000379471": 14,
+      "gas:candidate-vibid:2092000381900": 8,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 17,
+      "gas:candidate-vibid:2092000381919": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375737&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375737&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 140,
-      "Бытдаев Кемал Курманович": 41,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 51,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 140,
+      "gas:candidate-vibid:2092000379471": 41,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 51,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 15,
-      "Аюбов Валерий Хусинович": 20,
-      "Боташев Расул Борисович": 470,
-      "Бытдаев Кемал Курманович": 110,
-      "Джантемиров Мурадин Султанович": 3,
-      "Касаев Алим Халитович": 9,
-      "Коджаков Олег Юнусович": 12,
-      "Маршанкулов Эдуард Муратбиевич": 173,
-      "Нашева Инна Гериевна": 7
+      "gas:candidate-vibid:2092000381878": 15,
+      "gas:candidate-vibid:2092000379483": 20,
+      "gas:candidate-vibid:2092000381744": 470,
+      "gas:candidate-vibid:2092000379471": 110,
+      "gas:candidate-vibid:2092000381900": 3,
+      "gas:candidate-vibid:2092000378363": 9,
+      "gas:candidate-vibid:2092000381671": 12,
+      "gas:candidate-vibid:2092000381682": 173,
+      "gas:candidate-vibid:2092000381919": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 851,
-      "Бытдаев Кемал Курманович": 164,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 21,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 300,
-      "Нашева Инна Гериевна": 19
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 851,
+      "gas:candidate-vibid:2092000379471": 164,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 21,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 300,
+      "gas:candidate-vibid:2092000381919": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 747,
-      "Бытдаев Кемал Курманович": 167,
-      "Джантемиров Мурадин Султанович": 11,
-      "Касаев Алим Халитович": 78,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 251,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 747,
+      "gas:candidate-vibid:2092000379471": 167,
+      "gas:candidate-vibid:2092000381900": 11,
+      "gas:candidate-vibid:2092000378363": 78,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 251,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 19,
-      "Аюбов Валерий Хусинович": 31,
-      "Боташев Расул Борисович": 920,
-      "Бытдаев Кемал Курманович": 207,
-      "Джантемиров Мурадин Султанович": 10,
-      "Касаев Алим Халитович": 21,
-      "Коджаков Олег Юнусович": 38,
-      "Маршанкулов Эдуард Муратбиевич": 310,
-      "Нашева Инна Гериевна": 12
+      "gas:candidate-vibid:2092000381878": 19,
+      "gas:candidate-vibid:2092000379483": 31,
+      "gas:candidate-vibid:2092000381744": 920,
+      "gas:candidate-vibid:2092000379471": 207,
+      "gas:candidate-vibid:2092000381900": 10,
+      "gas:candidate-vibid:2092000378363": 21,
+      "gas:candidate-vibid:2092000381671": 38,
+      "gas:candidate-vibid:2092000381682": 310,
+      "gas:candidate-vibid:2092000381919": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 25,
-      "Аюбов Валерий Хусинович": 55,
-      "Боташев Расул Борисович": 1182,
-      "Бытдаев Кемал Курманович": 266,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 58,
-      "Коджаков Олег Юнусович": 47,
-      "Маршанкулов Эдуард Муратбиевич": 382,
-      "Нашева Инна Гериевна": 28
+      "gas:candidate-vibid:2092000381878": 25,
+      "gas:candidate-vibid:2092000379483": 55,
+      "gas:candidate-vibid:2092000381744": 1182,
+      "gas:candidate-vibid:2092000379471": 266,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 58,
+      "gas:candidate-vibid:2092000381671": 47,
+      "gas:candidate-vibid:2092000381682": 382,
+      "gas:candidate-vibid:2092000381919": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 28,
-      "Боташев Расул Борисович": 804,
-      "Бытдаев Кемал Курманович": 194,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 18,
-      "Коджаков Олег Юнусович": 39,
-      "Маршанкулов Эдуард Муратбиевич": 308,
-      "Нашева Инна Гериевна": 9
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 28,
+      "gas:candidate-vibid:2092000381744": 804,
+      "gas:candidate-vibid:2092000379471": 194,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 18,
+      "gas:candidate-vibid:2092000381671": 39,
+      "gas:candidate-vibid:2092000381682": 308,
+      "gas:candidate-vibid:2092000381919": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 15,
-      "Боташев Расул Борисович": 480,
-      "Бытдаев Кемал Курманович": 114,
-      "Джантемиров Мурадин Султанович": 8,
-      "Касаев Алим Халитович": 14,
-      "Коджаков Олег Юнусович": 21,
-      "Маршанкулов Эдуард Муратбиевич": 163,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 15,
+      "gas:candidate-vibid:2092000381744": 480,
+      "gas:candidate-vibid:2092000379471": 114,
+      "gas:candidate-vibid:2092000381900": 8,
+      "gas:candidate-vibid:2092000378363": 14,
+      "gas:candidate-vibid:2092000381671": 21,
+      "gas:candidate-vibid:2092000381682": 163,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 15,
-      "Боташев Расул Борисович": 600,
-      "Бытдаев Кемал Курманович": 130,
-      "Джантемиров Мурадин Султанович": 18,
-      "Касаев Алим Халитович": 23,
-      "Коджаков Олег Юнусович": 17,
-      "Маршанкулов Эдуард Муратбиевич": 220,
-      "Нашева Инна Гериевна": 13
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 15,
+      "gas:candidate-vibid:2092000381744": 600,
+      "gas:candidate-vibid:2092000379471": 130,
+      "gas:candidate-vibid:2092000381900": 18,
+      "gas:candidate-vibid:2092000378363": 23,
+      "gas:candidate-vibid:2092000381671": 17,
+      "gas:candidate-vibid:2092000381682": 220,
+      "gas:candidate-vibid:2092000381919": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 18,
-      "Аюбов Валерий Хусинович": 11,
-      "Боташев Расул Борисович": 896,
-      "Бытдаев Кемал Курманович": 186,
-      "Джантемиров Мурадин Султанович": 14,
-      "Касаев Алим Халитович": 29,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 292,
-      "Нашева Инна Гериевна": 17
+      "gas:candidate-vibid:2092000381878": 18,
+      "gas:candidate-vibid:2092000379483": 11,
+      "gas:candidate-vibid:2092000381744": 896,
+      "gas:candidate-vibid:2092000379471": 186,
+      "gas:candidate-vibid:2092000381900": 14,
+      "gas:candidate-vibid:2092000378363": 29,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 292,
+      "gas:candidate-vibid:2092000381919": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 36,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 36,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 201,
-      "Бытдаев Кемал Курманович": 46,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 8,
-      "Коджаков Олег Юнусович": 5,
-      "Маршанкулов Эдуард Муратбиевич": 73,
-      "Нашева Инна Гериевна": 8
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 201,
+      "gas:candidate-vibid:2092000379471": 46,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 8,
+      "gas:candidate-vibid:2092000381671": 5,
+      "gas:candidate-vibid:2092000381682": 73,
+      "gas:candidate-vibid:2092000381919": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 780,
-      "Бытдаев Кемал Курманович": 241,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 89,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 239,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 780,
+      "gas:candidate-vibid:2092000379471": 241,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 89,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 239,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 12,
-      "Аюбов Валерий Хусинович": 18,
-      "Боташев Расул Борисович": 390,
-      "Бытдаев Кемал Курманович": 88,
-      "Джантемиров Мурадин Султанович": 14,
-      "Касаев Алим Халитович": 15,
-      "Коджаков Олег Юнусович": 12,
-      "Маршанкулов Эдуард Муратбиевич": 124,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 12,
+      "gas:candidate-vibid:2092000379483": 18,
+      "gas:candidate-vibid:2092000381744": 390,
+      "gas:candidate-vibid:2092000379471": 88,
+      "gas:candidate-vibid:2092000381900": 14,
+      "gas:candidate-vibid:2092000378363": 15,
+      "gas:candidate-vibid:2092000381671": 12,
+      "gas:candidate-vibid:2092000381682": 124,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 21,
-      "Боташев Расул Борисович": 491,
-      "Бытдаев Кемал Курманович": 108,
-      "Джантемиров Мурадин Султанович": 7,
-      "Касаев Алим Халитович": 17,
-      "Коджаков Олег Юнусович": 19,
-      "Маршанкулов Эдуард Муратбиевич": 166,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 21,
+      "gas:candidate-vibid:2092000381744": 491,
+      "gas:candidate-vibid:2092000379471": 108,
+      "gas:candidate-vibid:2092000381900": 7,
+      "gas:candidate-vibid:2092000378363": 17,
+      "gas:candidate-vibid:2092000381671": 19,
+      "gas:candidate-vibid:2092000381682": 166,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 8,
-      "Аюбов Валерий Хусинович": 18,
-      "Боташев Расул Борисович": 550,
-      "Бытдаев Кемал Курманович": 140,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 20,
-      "Коджаков Олег Юнусович": 25,
-      "Маршанкулов Эдуард Муратбиевич": 193,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 8,
+      "gas:candidate-vibid:2092000379483": 18,
+      "gas:candidate-vibid:2092000381744": 550,
+      "gas:candidate-vibid:2092000379471": 140,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 20,
+      "gas:candidate-vibid:2092000381671": 25,
+      "gas:candidate-vibid:2092000381682": 193,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 169,
-      "Бытдаев Кемал Курманович": 38,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 54,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 169,
+      "gas:candidate-vibid:2092000379471": 38,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 54,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 12,
-      "Боташев Расул Борисович": 597,
-      "Бытдаев Кемал Курманович": 135,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 26,
-      "Коджаков Олег Юнусович": 31,
-      "Маршанкулов Эдуард Муратбиевич": 225,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 12,
+      "gas:candidate-vibid:2092000381744": 597,
+      "gas:candidate-vibid:2092000379471": 135,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 26,
+      "gas:candidate-vibid:2092000381671": 31,
+      "gas:candidate-vibid:2092000381682": 225,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 17,
-      "Боташев Расул Борисович": 465,
-      "Бытдаев Кемал Курманович": 114,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 12,
-      "Коджаков Олег Юнусович": 42,
-      "Маршанкулов Эдуард Муратбиевич": 195,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 17,
+      "gas:candidate-vibid:2092000381744": 465,
+      "gas:candidate-vibid:2092000379471": 114,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 12,
+      "gas:candidate-vibid:2092000381671": 42,
+      "gas:candidate-vibid:2092000381682": 195,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 20,
-      "Боташев Расул Борисович": 531,
-      "Бытдаев Кемал Курманович": 133,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 31,
-      "Коджаков Олег Юнусович": 51,
-      "Маршанкулов Эдуард Муратбиевич": 203,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 20,
+      "gas:candidate-vibid:2092000381744": 531,
+      "gas:candidate-vibid:2092000379471": 133,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 31,
+      "gas:candidate-vibid:2092000381671": 51,
+      "gas:candidate-vibid:2092000381682": 203,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 18,
-      "Аюбов Валерий Хусинович": 21,
-      "Боташев Расул Борисович": 540,
-      "Бытдаев Кемал Курманович": 120,
-      "Джантемиров Мурадин Султанович": 7,
-      "Касаев Алим Халитович": 13,
-      "Коджаков Олег Юнусович": 16,
-      "Маршанкулов Эдуард Муратбиевич": 180,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 18,
+      "gas:candidate-vibid:2092000379483": 21,
+      "gas:candidate-vibid:2092000381744": 540,
+      "gas:candidate-vibid:2092000379471": 120,
+      "gas:candidate-vibid:2092000381900": 7,
+      "gas:candidate-vibid:2092000378363": 13,
+      "gas:candidate-vibid:2092000381671": 16,
+      "gas:candidate-vibid:2092000381682": 180,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 21,
-      "Боташев Расул Борисович": 581,
-      "Бытдаев Кемал Курманович": 138,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 45,
-      "Коджаков Олег Юнусович": 41,
-      "Маршанкулов Эдуард Муратбиевич": 205,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 21,
+      "gas:candidate-vibid:2092000381744": 581,
+      "gas:candidate-vibid:2092000379471": 138,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 45,
+      "gas:candidate-vibid:2092000381671": 41,
+      "gas:candidate-vibid:2092000381682": 205,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 22,
-      "Аюбов Валерий Хусинович": 10,
-      "Боташев Расул Борисович": 65,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 27,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 22,
+      "gas:candidate-vibid:2092000379483": 10,
+      "gas:candidate-vibid:2092000381744": 65,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 27,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 8,
-      "Аюбов Валерий Хусинович": 12,
-      "Боташев Расул Борисович": 325,
-      "Бытдаев Кемал Курманович": 63,
-      "Джантемиров Мурадин Султанович": 8,
-      "Касаев Алим Халитович": 11,
-      "Коджаков Олег Юнусович": 12,
-      "Маршанкулов Эдуард Муратбиевич": 126,
-      "Нашева Инна Гериевна": 9
+      "gas:candidate-vibid:2092000381878": 8,
+      "gas:candidate-vibid:2092000379483": 12,
+      "gas:candidate-vibid:2092000381744": 325,
+      "gas:candidate-vibid:2092000379471": 63,
+      "gas:candidate-vibid:2092000381900": 8,
+      "gas:candidate-vibid:2092000378363": 11,
+      "gas:candidate-vibid:2092000381671": 12,
+      "gas:candidate-vibid:2092000381682": 126,
+      "gas:candidate-vibid:2092000381919": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 35,
-      "Боташев Расул Борисович": 571,
-      "Бытдаев Кемал Курманович": 125,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 19,
-      "Коджаков Олег Юнусович": 65,
-      "Маршанкулов Эдуард Муратбиевич": 204,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 35,
+      "gas:candidate-vibid:2092000381744": 571,
+      "gas:candidate-vibid:2092000379471": 125,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 19,
+      "gas:candidate-vibid:2092000381671": 65,
+      "gas:candidate-vibid:2092000381682": 204,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 11,
-      "Боташев Расул Борисович": 395,
-      "Бытдаев Кемал Курманович": 95,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 18,
-      "Маршанкулов Эдуард Муратбиевич": 136,
-      "Нашева Инна Гериевна": 7
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 11,
+      "gas:candidate-vibid:2092000381744": 395,
+      "gas:candidate-vibid:2092000379471": 95,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 18,
+      "gas:candidate-vibid:2092000381682": 136,
+      "gas:candidate-vibid:2092000381919": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 12,
-      "Боташев Расул Борисович": 123,
-      "Бытдаев Кемал Курманович": 21,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 41,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 12,
+      "gas:candidate-vibid:2092000381744": 123,
+      "gas:candidate-vibid:2092000379471": 21,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 41,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 6,
-      "Аюбов Валерий Хусинович": 9,
-      "Боташев Расул Борисович": 600,
-      "Бытдаев Кемал Курманович": 115,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 27,
-      "Коджаков Олег Юнусович": 51,
-      "Маршанкулов Эдуард Муратбиевич": 230,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 6,
+      "gas:candidate-vibid:2092000379483": 9,
+      "gas:candidate-vibid:2092000381744": 600,
+      "gas:candidate-vibid:2092000379471": 115,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 27,
+      "gas:candidate-vibid:2092000381671": 51,
+      "gas:candidate-vibid:2092000381682": 230,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 116,
-      "Бытдаев Кемал Курманович": 24,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 50,
-      "Нашева Инна Гериевна": 8
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 116,
+      "gas:candidate-vibid:2092000379471": 24,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 50,
+      "gas:candidate-vibid:2092000381919": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 137,
-      "Бытдаев Кемал Курманович": 33,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 45,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 137,
+      "gas:candidate-vibid:2092000379471": 33,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 45,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 319,
-      "Бытдаев Кемал Курманович": 27,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 26,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 319,
+      "gas:candidate-vibid:2092000379471": 27,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 26,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 221,
-      "Бытдаев Кемал Курманович": 55,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 129,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 221,
+      "gas:candidate-vibid:2092000379471": 55,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 129,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 638,
-      "Бытдаев Кемал Курманович": 150,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 15,
-      "Маршанкулов Эдуард Муратбиевич": 301,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 638,
+      "gas:candidate-vibid:2092000379471": 150,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 15,
+      "gas:candidate-vibid:2092000381682": 301,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 30,
-      "Боташев Расул Борисович": 574,
-      "Бытдаев Кемал Курманович": 130,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 20,
-      "Маршанкулов Эдуард Муратбиевич": 251,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 30,
+      "gas:candidate-vibid:2092000381744": 574,
+      "gas:candidate-vibid:2092000379471": 130,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 20,
+      "gas:candidate-vibid:2092000381682": 251,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 761,
-      "Бытдаев Кемал Курманович": 162,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 18,
-      "Маршанкулов Эдуард Муратбиевич": 240,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 761,
+      "gas:candidate-vibid:2092000379471": 162,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 18,
+      "gas:candidate-vibid:2092000381682": 240,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 217,
-      "Бытдаев Кемал Курманович": 48,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 11,
-      "Маршанкулов Эдуард Муратбиевич": 79,
-      "Нашева Инна Гериевна": 11
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 217,
+      "gas:candidate-vibid:2092000379471": 48,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 11,
+      "gas:candidate-vibid:2092000381682": 79,
+      "gas:candidate-vibid:2092000381919": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 93,
-      "Аюбов Валерий Хусинович": 54,
-      "Боташев Расул Борисович": 911,
-      "Бытдаев Кемал Курманович": 230,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 69,
-      "Коджаков Олег Юнусович": 132,
-      "Маршанкулов Эдуард Муратбиевич": 304,
-      "Нашева Инна Гериевна": 21
+      "gas:candidate-vibid:2092000381878": 93,
+      "gas:candidate-vibid:2092000379483": 54,
+      "gas:candidate-vibid:2092000381744": 911,
+      "gas:candidate-vibid:2092000379471": 230,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 69,
+      "gas:candidate-vibid:2092000381671": 132,
+      "gas:candidate-vibid:2092000381682": 304,
+      "gas:candidate-vibid:2092000381919": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 52,
-      "Боташев Расул Борисович": 250,
-      "Бытдаев Кемал Курманович": 78,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 48,
-      "Коджаков Олег Юнусович": 38,
-      "Маршанкулов Эдуард Муратбиевич": 110,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 52,
+      "gas:candidate-vibid:2092000381744": 250,
+      "gas:candidate-vibid:2092000379471": 78,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 48,
+      "gas:candidate-vibid:2092000381671": 38,
+      "gas:candidate-vibid:2092000381682": 110,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375738&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375738&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 333,
-      "Бытдаев Кемал Курманович": 56,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 176,
-      "Коджаков Олег Юнусович": 31,
-      "Маршанкулов Эдуард Муратбиевич": 305,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 333,
+      "gas:candidate-vibid:2092000379471": 56,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 176,
+      "gas:candidate-vibid:2092000381671": 31,
+      "gas:candidate-vibid:2092000381682": 305,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 387,
-      "Бытдаев Кемал Курманович": 57,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 63,
-      "Коджаков Олег Юнусович": 27,
-      "Маршанкулов Эдуард Муратбиевич": 302,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 387,
+      "gas:candidate-vibid:2092000379471": 57,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 63,
+      "gas:candidate-vibid:2092000381671": 27,
+      "gas:candidate-vibid:2092000381682": 302,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 239,
-      "Бытдаев Кемал Курманович": 36,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 23,
-      "Коджаков Олег Юнусович": 17,
-      "Маршанкулов Эдуард Муратбиевич": 145,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 239,
+      "gas:candidate-vibid:2092000379471": 36,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 23,
+      "gas:candidate-vibid:2092000381671": 17,
+      "gas:candidate-vibid:2092000381682": 145,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 765,
-      "Бытдаев Кемал Курманович": 90,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 11,
-      "Коджаков Олег Юнусович": 236,
-      "Маршанкулов Эдуард Муратбиевич": 671,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 765,
+      "gas:candidate-vibid:2092000379471": 90,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 11,
+      "gas:candidate-vibid:2092000381671": 236,
+      "gas:candidate-vibid:2092000381682": 671,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 307,
-      "Бытдаев Кемал Курманович": 49,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 37,
-      "Коджаков Олег Юнусович": 33,
-      "Маршанкулов Эдуард Муратбиевич": 210,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 307,
+      "gas:candidate-vibid:2092000379471": 49,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 37,
+      "gas:candidate-vibid:2092000381671": 33,
+      "gas:candidate-vibid:2092000381682": 210,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 299,
-      "Бытдаев Кемал Курманович": 40,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 12,
-      "Маршанкулов Эдуард Муратбиевич": 204,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 299,
+      "gas:candidate-vibid:2092000379471": 40,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 12,
+      "gas:candidate-vibid:2092000381682": 204,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 450,
-      "Бытдаев Кемал Курманович": 57,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 355,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 450,
+      "gas:candidate-vibid:2092000379471": 57,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 355,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 582,
-      "Бытдаев Кемал Курманович": 102,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 44,
-      "Маршанкулов Эдуард Муратбиевич": 675,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 582,
+      "gas:candidate-vibid:2092000379471": 102,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 44,
+      "gas:candidate-vibid:2092000381682": 675,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 956,
-      "Бытдаев Кемал Курманович": 144,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 11,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 676,
-      "Нашева Инна Гериевна": 19
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 956,
+      "gas:candidate-vibid:2092000379471": 144,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 11,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 676,
+      "gas:candidate-vibid:2092000381919": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 202,
-      "Бытдаев Кемал Курманович": 76,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 13,
-      "Коджаков Олег Юнусович": 5,
-      "Маршанкулов Эдуард Муратбиевич": 112,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 202,
+      "gas:candidate-vibid:2092000379471": 76,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 13,
+      "gas:candidate-vibid:2092000381671": 5,
+      "gas:candidate-vibid:2092000381682": 112,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 606,
-      "Бытдаев Кемал Курманович": 68,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 10,
-      "Маршанкулов Эдуард Муратбиевич": 511,
-      "Нашева Инна Гериевна": 15
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 606,
+      "gas:candidate-vibid:2092000379471": 68,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 10,
+      "gas:candidate-vibid:2092000381682": 511,
+      "gas:candidate-vibid:2092000381919": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 41,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 754,
-      "Бытдаев Кемал Курманович": 229,
-      "Джантемиров Мурадин Султанович": 17,
-      "Касаев Алим Халитович": 27,
-      "Коджаков Олег Юнусович": 15,
-      "Маршанкулов Эдуард Муратбиевич": 637,
-      "Нашева Инна Гериевна": 13
+      "gas:candidate-vibid:2092000381878": 41,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 754,
+      "gas:candidate-vibid:2092000379471": 229,
+      "gas:candidate-vibid:2092000381900": 17,
+      "gas:candidate-vibid:2092000378363": 27,
+      "gas:candidate-vibid:2092000381671": 15,
+      "gas:candidate-vibid:2092000381682": 637,
+      "gas:candidate-vibid:2092000381919": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 19,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 40,
-      "Бытдаев Кемал Курманович": 19,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 12,
-      "Нашева Инна Гериевна": 8
+      "gas:candidate-vibid:2092000381878": 19,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 40,
+      "gas:candidate-vibid:2092000379471": 19,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 12,
+      "gas:candidate-vibid:2092000381919": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 13,
-      "Аюбов Валерий Хусинович": 17,
-      "Боташев Расул Борисович": 314,
-      "Бытдаев Кемал Курманович": 49,
-      "Джантемиров Мурадин Султанович": 399,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 220,
-      "Нашева Инна Гериевна": 20
+      "gas:candidate-vibid:2092000381878": 13,
+      "gas:candidate-vibid:2092000379483": 17,
+      "gas:candidate-vibid:2092000381744": 314,
+      "gas:candidate-vibid:2092000379471": 49,
+      "gas:candidate-vibid:2092000381900": 399,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 220,
+      "gas:candidate-vibid:2092000381919": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 407,
-      "Бытдаев Кемал Курманович": 371,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 180,
-      "Коджаков Олег Юнусович": 157,
-      "Маршанкулов Эдуард Муратбиевич": 316,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 407,
+      "gas:candidate-vibid:2092000379471": 371,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 180,
+      "gas:candidate-vibid:2092000381671": 157,
+      "gas:candidate-vibid:2092000381682": 316,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 324,
-      "Бытдаев Кемал Курманович": 449,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 247,
-      "Коджаков Олег Юнусович": 178,
-      "Маршанкулов Эдуард Муратбиевич": 229,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 324,
+      "gas:candidate-vibid:2092000379471": 449,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 247,
+      "gas:candidate-vibid:2092000381671": 178,
+      "gas:candidate-vibid:2092000381682": 229,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 43,
-      "Аюбов Валерий Хусинович": 20,
-      "Боташев Расул Борисович": 551,
-      "Бытдаев Кемал Курманович": 376,
-      "Джантемиров Мурадин Султанович": 21,
-      "Касаев Алим Халитович": 72,
-      "Коджаков Олег Юнусович": 150,
-      "Маршанкулов Эдуард Муратбиевич": 452,
-      "Нашева Инна Гериевна": 9
+      "gas:candidate-vibid:2092000381878": 43,
+      "gas:candidate-vibid:2092000379483": 20,
+      "gas:candidate-vibid:2092000381744": 551,
+      "gas:candidate-vibid:2092000379471": 376,
+      "gas:candidate-vibid:2092000381900": 21,
+      "gas:candidate-vibid:2092000378363": 72,
+      "gas:candidate-vibid:2092000381671": 150,
+      "gas:candidate-vibid:2092000381682": 452,
+      "gas:candidate-vibid:2092000381919": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375739&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375739&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 141,
-      "Бытдаев Кемал Курманович": 39,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 141,
+      "gas:candidate-vibid:2092000379471": 39,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 735,
-      "Бытдаев Кемал Курманович": 174,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 329,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 735,
+      "gas:candidate-vibid:2092000379471": 174,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 329,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 618,
-      "Бытдаев Кемал Курманович": 265,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 8,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 539,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 618,
+      "gas:candidate-vibid:2092000379471": 265,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 8,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 539,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 598,
-      "Бытдаев Кемал Курманович": 398,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 502,
-      "Нашева Инна Гериевна": 8
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 598,
+      "gas:candidate-vibid:2092000379471": 398,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 502,
+      "gas:candidate-vibid:2092000381919": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 601,
-      "Бытдаев Кемал Курманович": 198,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 12,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 511,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 601,
+      "gas:candidate-vibid:2092000379471": 198,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 12,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 511,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 438,
-      "Бытдаев Кемал Курманович": 93,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 119,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 438,
+      "gas:candidate-vibid:2092000379471": 93,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 119,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 1202,
-      "Бытдаев Кемал Курманович": 246,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 17,
-      "Маршанкулов Эдуард Муратбиевич": 546,
-      "Нашева Инна Гериевна": 13
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 1202,
+      "gas:candidate-vibid:2092000379471": 246,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 17,
+      "gas:candidate-vibid:2092000381682": 546,
+      "gas:candidate-vibid:2092000381919": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 532,
-      "Бытдаев Кемал Курманович": 42,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 178,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 532,
+      "gas:candidate-vibid:2092000379471": 42,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 178,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 419,
-      "Бытдаев Кемал Курманович": 61,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 81,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 419,
+      "gas:candidate-vibid:2092000379471": 61,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 81,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 11,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 1609,
-      "Бытдаев Кемал Курманович": 97,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 11,
-      "Коджаков Олег Юнусович": 29,
-      "Маршанкулов Эдуард Муратбиевич": 775,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 11,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 1609,
+      "gas:candidate-vibid:2092000379471": 97,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 11,
+      "gas:candidate-vibid:2092000381671": 29,
+      "gas:candidate-vibid:2092000381682": 775,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 81,
-      "Аюбов Валерий Хусинович": 17,
-      "Боташев Расул Борисович": 206,
-      "Бытдаев Кемал Курманович": 198,
-      "Джантемиров Мурадин Султанович": 73,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 93,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 81,
+      "gas:candidate-vibid:2092000379483": 17,
+      "gas:candidate-vibid:2092000381744": 206,
+      "gas:candidate-vibid:2092000379471": 198,
+      "gas:candidate-vibid:2092000381900": 73,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 93,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 62,
-      "Аюбов Валерий Хусинович": 28,
-      "Боташев Расул Борисович": 598,
-      "Бытдаев Кемал Курманович": 164,
-      "Джантемиров Мурадин Султанович": 12,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 437,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 62,
+      "gas:candidate-vibid:2092000379483": 28,
+      "gas:candidate-vibid:2092000381744": 598,
+      "gas:candidate-vibid:2092000379471": 164,
+      "gas:candidate-vibid:2092000381900": 12,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 437,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 358,
-      "Бытдаев Кемал Курманович": 72,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 445,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 358,
+      "gas:candidate-vibid:2092000379471": 72,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 445,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 293,
-      "Бытдаев Кемал Курманович": 61,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 547,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 293,
+      "gas:candidate-vibid:2092000379471": 61,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 547,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 210,
-      "Бытдаев Кемал Курманович": 36,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 534,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 210,
+      "gas:candidate-vibid:2092000379471": 36,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 534,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 234,
-      "Бытдаев Кемал Курманович": 82,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 352,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 234,
+      "gas:candidate-vibid:2092000379471": 82,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 352,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 168,
-      "Бытдаев Кемал Курманович": 8,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 16,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 168,
+      "gas:candidate-vibid:2092000379471": 8,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 16,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375740&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375740&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 384,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 11,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 384,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 11,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 307,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 6,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 307,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 6,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 9,
-      "Боташев Расул Борисович": 2338,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 5,
-      "Нашева Инна Гериевна": 9
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 9,
+      "gas:candidate-vibid:2092000381744": 2338,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 5,
+      "gas:candidate-vibid:2092000381919": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1510,
-      "Бытдаев Кемал Курманович": 5,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 1,
-      "Нашева Инна Гериевна": 24
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1510,
+      "gas:candidate-vibid:2092000379471": 5,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 1,
+      "gas:candidate-vibid:2092000381919": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 16,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 1145,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 8,
-      "Нашева Инна Гериевна": 13
+      "gas:candidate-vibid:2092000381878": 16,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 1145,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 8,
+      "gas:candidate-vibid:2092000381919": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 1828,
-      "Бытдаев Кемал Курманович": 7,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 4,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 1828,
+      "gas:candidate-vibid:2092000379471": 7,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 4,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 13,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 1221,
-      "Бытдаев Кемал Курманович": 4,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 1,
-      "Нашева Инна Гериевна": 17
+      "gas:candidate-vibid:2092000381878": 13,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 1221,
+      "gas:candidate-vibid:2092000379471": 4,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 1,
+      "gas:candidate-vibid:2092000381919": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 24,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 2082,
-      "Бытдаев Кемал Курманович": 19,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 9,
-      "Нашева Инна Гериевна": 20
+      "gas:candidate-vibid:2092000381878": 24,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 2082,
+      "gas:candidate-vibid:2092000379471": 19,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 9,
+      "gas:candidate-vibid:2092000381919": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 20,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 1924,
-      "Бытдаев Кемал Курманович": 1,
-      "Джантемиров Мурадин Султанович": 7,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 7,
-      "Нашева Инна Гериевна": 10
+      "gas:candidate-vibid:2092000381878": 20,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 1924,
+      "gas:candidate-vibid:2092000379471": 1,
+      "gas:candidate-vibid:2092000381900": 7,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 7,
+      "gas:candidate-vibid:2092000381919": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 19,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 2336,
-      "Бытдаев Кемал Курманович": 14,
-      "Джантемиров Мурадин Султанович": 3,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 4,
-      "Нашева Инна Гериевна": 8
+      "gas:candidate-vibid:2092000381878": 19,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 2336,
+      "gas:candidate-vibid:2092000379471": 14,
+      "gas:candidate-vibid:2092000381900": 3,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 4,
+      "gas:candidate-vibid:2092000381919": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 21,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 1622,
-      "Бытдаев Кемал Курманович": 4,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 7,
-      "Нашева Инна Гериевна": 18
+      "gas:candidate-vibid:2092000381878": 21,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 1622,
+      "gas:candidate-vibid:2092000379471": 4,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 7,
+      "gas:candidate-vibid:2092000381919": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 18,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 1891,
-      "Бытдаев Кемал Курманович": 1,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 3,
-      "Нашева Инна Гериевна": 21
+      "gas:candidate-vibid:2092000381878": 18,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 1891,
+      "gas:candidate-vibid:2092000379471": 1,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 3,
+      "gas:candidate-vibid:2092000381919": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 17,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 2014,
-      "Бытдаев Кемал Курманович": 1,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 9,
-      "Нашева Инна Гериевна": 13
+      "gas:candidate-vibid:2092000381878": 17,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 2014,
+      "gas:candidate-vibid:2092000379471": 1,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 9,
+      "gas:candidate-vibid:2092000381919": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1983,
-      "Бытдаев Кемал Курманович": 2,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 5,
-      "Маршанкулов Эдуард Муратбиевич": 5,
-      "Нашева Инна Гериевна": 19
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1983,
+      "gas:candidate-vibid:2092000379471": 2,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 5,
+      "gas:candidate-vibid:2092000381682": 5,
+      "gas:candidate-vibid:2092000381919": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 13,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 535,
-      "Бытдаев Кемал Курманович": 10,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 4,
-      "Нашева Инна Гериевна": 10
+      "gas:candidate-vibid:2092000381878": 13,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 535,
+      "gas:candidate-vibid:2092000379471": 10,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 4,
+      "gas:candidate-vibid:2092000381919": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 101,
-      "Аюбов Валерий Хусинович": 19,
-      "Боташев Расул Борисович": 896,
-      "Бытдаев Кемал Курманович": 9,
-      "Джантемиров Мурадин Султанович": 3,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 6,
-      "Нашева Инна Гериевна": 99
+      "gas:candidate-vibid:2092000381878": 101,
+      "gas:candidate-vibid:2092000379483": 19,
+      "gas:candidate-vibid:2092000381744": 896,
+      "gas:candidate-vibid:2092000379471": 9,
+      "gas:candidate-vibid:2092000381900": 3,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 6,
+      "gas:candidate-vibid:2092000381919": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 103,
-      "Аюбов Валерий Хусинович": 10,
-      "Боташев Расул Борисович": 748,
-      "Бытдаев Кемал Курманович": 10,
-      "Джантемиров Мурадин Султанович": 10,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 4,
-      "Нашева Инна Гериевна": 101
+      "gas:candidate-vibid:2092000381878": 103,
+      "gas:candidate-vibid:2092000379483": 10,
+      "gas:candidate-vibid:2092000381744": 748,
+      "gas:candidate-vibid:2092000379471": 10,
+      "gas:candidate-vibid:2092000381900": 10,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 4,
+      "gas:candidate-vibid:2092000381919": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375741&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375741&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 13,
-      "Аюбов Валерий Хусинович": 19,
-      "Боташев Расул Борисович": 1263,
-      "Бытдаев Кемал Курманович": 209,
-      "Джантемиров Мурадин Султанович": 17,
-      "Касаев Алим Халитович": 8,
-      "Коджаков Олег Юнусович": 24,
-      "Маршанкулов Эдуард Муратбиевич": 553,
-      "Нашева Инна Гериевна": 8
+      "gas:candidate-vibid:2092000381878": 13,
+      "gas:candidate-vibid:2092000379483": 19,
+      "gas:candidate-vibid:2092000381744": 1263,
+      "gas:candidate-vibid:2092000379471": 209,
+      "gas:candidate-vibid:2092000381900": 17,
+      "gas:candidate-vibid:2092000378363": 8,
+      "gas:candidate-vibid:2092000381671": 24,
+      "gas:candidate-vibid:2092000381682": 553,
+      "gas:candidate-vibid:2092000381919": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 353,
-      "Бытдаев Кемал Курманович": 58,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 155,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 353,
+      "gas:candidate-vibid:2092000379471": 58,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 155,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 189,
-      "Бытдаев Кемал Курманович": 31,
-      "Джантемиров Мурадин Султанович": 3,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 83,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 189,
+      "gas:candidate-vibid:2092000379471": 31,
+      "gas:candidate-vibid:2092000381900": 3,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 83,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 347,
-      "Бытдаев Кемал Курманович": 57,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 152,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 347,
+      "gas:candidate-vibid:2092000379471": 57,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 152,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 194,
-      "Бытдаев Кемал Курманович": 32,
-      "Джантемиров Мурадин Султанович": 3,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 85,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 194,
+      "gas:candidate-vibid:2092000379471": 32,
+      "gas:candidate-vibid:2092000381900": 3,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 85,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 415,
-      "Бытдаев Кемал Курманович": 69,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 182,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 415,
+      "gas:candidate-vibid:2092000379471": 69,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 182,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 6,
-      "Аюбов Валерий Хусинович": 10,
-      "Боташев Расул Борисович": 617,
-      "Бытдаев Кемал Курманович": 102,
-      "Джантемиров Мурадин Султанович": 8,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 12,
-      "Маршанкулов Эдуард Муратбиевич": 270,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 6,
+      "gas:candidate-vibid:2092000379483": 10,
+      "gas:candidate-vibid:2092000381744": 617,
+      "gas:candidate-vibid:2092000379471": 102,
+      "gas:candidate-vibid:2092000381900": 8,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 12,
+      "gas:candidate-vibid:2092000381682": 270,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 169,
-      "Бытдаев Кемал Курманович": 28,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 73,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 169,
+      "gas:candidate-vibid:2092000379471": 28,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 73,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 90,
-      "Бытдаев Кемал Курманович": 15,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 39,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 90,
+      "gas:candidate-vibid:2092000379471": 15,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 39,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 323,
-      "Бытдаев Кемал Курманович": 53,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 142,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 323,
+      "gas:candidate-vibid:2092000379471": 53,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 142,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 7,
-      "Боташев Расул Борисович": 473,
-      "Бытдаев Кемал Курманович": 78,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 207,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 7,
+      "gas:candidate-vibid:2092000381744": 473,
+      "gas:candidate-vibid:2092000379471": 78,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 207,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 7,
-      "Аюбов Валерий Хусинович": 10,
-      "Боташев Расул Борисович": 655,
-      "Бытдаев Кемал Курманович": 108,
-      "Джантемиров Мурадин Султанович": 9,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 12,
-      "Маршанкулов Эдуард Муратбиевич": 287,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 7,
+      "gas:candidate-vibid:2092000379483": 10,
+      "gas:candidate-vibid:2092000381744": 655,
+      "gas:candidate-vibid:2092000379471": 108,
+      "gas:candidate-vibid:2092000381900": 9,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 12,
+      "gas:candidate-vibid:2092000381682": 287,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 371,
-      "Бытдаев Кемал Курманович": 61,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 163,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 371,
+      "gas:candidate-vibid:2092000379471": 61,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 163,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 294,
-      "Бытдаев Кемал Курманович": 49,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 129,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 294,
+      "gas:candidate-vibid:2092000379471": 49,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 129,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 7,
-      "Боташев Расул Борисович": 428,
-      "Бытдаев Кемал Курманович": 71,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 188,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 7,
+      "gas:candidate-vibid:2092000381744": 428,
+      "gas:candidate-vibid:2092000379471": 71,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 188,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 7,
-      "Аюбов Валерий Хусинович": 11,
-      "Боташев Расул Борисович": 697,
-      "Бытдаев Кемал Курманович": 115,
-      "Джантемиров Мурадин Султанович": 10,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 13,
-      "Маршанкулов Эдуард Муратбиевич": 305,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 7,
+      "gas:candidate-vibid:2092000379483": 11,
+      "gas:candidate-vibid:2092000381744": 697,
+      "gas:candidate-vibid:2092000379471": 115,
+      "gas:candidate-vibid:2092000381900": 10,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 13,
+      "gas:candidate-vibid:2092000381682": 305,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 396,
-      "Бытдаев Кемал Курманович": 66,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 174,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 396,
+      "gas:candidate-vibid:2092000379471": 66,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 174,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 503,
-      "Бытдаев Кемал Курманович": 83,
-      "Джантемиров Мурадин Султанович": 7,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 220,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 503,
+      "gas:candidate-vibid:2092000379471": 83,
+      "gas:candidate-vibid:2092000381900": 7,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 220,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 7,
-      "Аюбов Валерий Хусинович": 11,
-      "Боташев Расул Борисович": 709,
-      "Бытдаев Кемал Курманович": 117,
-      "Джантемиров Мурадин Султанович": 10,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 13,
-      "Маршанкулов Эдуард Муратбиевич": 311,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 7,
+      "gas:candidate-vibid:2092000379483": 11,
+      "gas:candidate-vibid:2092000381744": 709,
+      "gas:candidate-vibid:2092000379471": 117,
+      "gas:candidate-vibid:2092000381900": 10,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 13,
+      "gas:candidate-vibid:2092000381682": 311,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 8,
-      "Аюбов Валерий Хусинович": 12,
-      "Боташев Расул Борисович": 767,
-      "Бытдаев Кемал Курманович": 128,
-      "Джантемиров Мурадин Султанович": 11,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 14,
-      "Маршанкулов Эдуард Муратбиевич": 336,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 8,
+      "gas:candidate-vibid:2092000379483": 12,
+      "gas:candidate-vibid:2092000381744": 767,
+      "gas:candidate-vibid:2092000379471": 128,
+      "gas:candidate-vibid:2092000381900": 11,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 14,
+      "gas:candidate-vibid:2092000381682": 336,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 8,
-      "Аюбов Валерий Хусинович": 12,
-      "Боташев Расул Борисович": 788,
-      "Бытдаев Кемал Курманович": 130,
-      "Джантемиров Мурадин Султанович": 11,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 15,
-      "Маршанкулов Эдуард Муратбиевич": 345,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 8,
+      "gas:candidate-vibid:2092000379483": 12,
+      "gas:candidate-vibid:2092000381744": 788,
+      "gas:candidate-vibid:2092000379471": 130,
+      "gas:candidate-vibid:2092000381900": 11,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 15,
+      "gas:candidate-vibid:2092000381682": 345,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 15,
-      "Боташев Расул Борисович": 985,
-      "Бытдаев Кемал Курманович": 163,
-      "Джантемиров Мурадин Султанович": 14,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 18,
-      "Маршанкулов Эдуард Муратбиевич": 432,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 15,
+      "gas:candidate-vibid:2092000381744": 985,
+      "gas:candidate-vibid:2092000379471": 163,
+      "gas:candidate-vibid:2092000381900": 14,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 18,
+      "gas:candidate-vibid:2092000381682": 432,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 15,
-      "Боташев Расул Борисович": 985,
-      "Бытдаев Кемал Курманович": 163,
-      "Джантемиров Мурадин Султанович": 14,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 18,
-      "Маршанкулов Эдуард Муратбиевич": 431,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 15,
+      "gas:candidate-vibid:2092000381744": 985,
+      "gas:candidate-vibid:2092000379471": 163,
+      "gas:candidate-vibid:2092000381900": 14,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 18,
+      "gas:candidate-vibid:2092000381682": 431,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375742&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375742&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 8,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 321,
-      "Бытдаев Кемал Курманович": 24,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 10,
-      "Коджаков Олег Юнусович": 16,
-      "Маршанкулов Эдуард Муратбиевич": 278,
-      "Нашева Инна Гериевна": 15
+      "gas:candidate-vibid:2092000381878": 8,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 321,
+      "gas:candidate-vibid:2092000379471": 24,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 10,
+      "gas:candidate-vibid:2092000381671": 16,
+      "gas:candidate-vibid:2092000381682": 278,
+      "gas:candidate-vibid:2092000381919": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 12,
-      "Аюбов Валерий Хусинович": 14,
-      "Боташев Расул Борисович": 392,
-      "Бытдаев Кемал Курманович": 142,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 36,
-      "Коджаков Олег Юнусович": 44,
-      "Маршанкулов Эдуард Муратбиевич": 894,
-      "Нашева Инна Гериевна": 12
+      "gas:candidate-vibid:2092000381878": 12,
+      "gas:candidate-vibid:2092000379483": 14,
+      "gas:candidate-vibid:2092000381744": 392,
+      "gas:candidate-vibid:2092000379471": 142,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 36,
+      "gas:candidate-vibid:2092000381671": 44,
+      "gas:candidate-vibid:2092000381682": 894,
+      "gas:candidate-vibid:2092000381919": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 14,
-      "Аюбов Валерий Хусинович": 13,
-      "Боташев Расул Борисович": 369,
-      "Бытдаев Кемал Курманович": 137,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 33,
-      "Коджаков Олег Юнусович": 39,
-      "Маршанкулов Эдуард Муратбиевич": 769,
-      "Нашева Инна Гериевна": 15
+      "gas:candidate-vibid:2092000381878": 14,
+      "gas:candidate-vibid:2092000379483": 13,
+      "gas:candidate-vibid:2092000381744": 369,
+      "gas:candidate-vibid:2092000379471": 137,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 33,
+      "gas:candidate-vibid:2092000381671": 39,
+      "gas:candidate-vibid:2092000381682": 769,
+      "gas:candidate-vibid:2092000381919": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 10,
-      "Аюбов Валерий Хусинович": 18,
-      "Боташев Расул Борисович": 528,
-      "Бытдаев Кемал Курманович": 101,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 28,
-      "Коджаков Олег Юнусович": 33,
-      "Маршанкулов Эдуард Муратбиевич": 425,
-      "Нашева Инна Гериевна": 11
+      "gas:candidate-vibid:2092000381878": 10,
+      "gas:candidate-vibid:2092000379483": 18,
+      "gas:candidate-vibid:2092000381744": 528,
+      "gas:candidate-vibid:2092000379471": 101,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 28,
+      "gas:candidate-vibid:2092000381671": 33,
+      "gas:candidate-vibid:2092000381682": 425,
+      "gas:candidate-vibid:2092000381919": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 7,
-      "Аюбов Валерий Хусинович": 20,
-      "Боташев Расул Борисович": 724,
-      "Бытдаев Кемал Курманович": 123,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 52,
-      "Коджаков Олег Юнусович": 60,
-      "Маршанкулов Эдуард Муратбиевич": 554,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 7,
+      "gas:candidate-vibid:2092000379483": 20,
+      "gas:candidate-vibid:2092000381744": 724,
+      "gas:candidate-vibid:2092000379471": 123,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 52,
+      "gas:candidate-vibid:2092000381671": 60,
+      "gas:candidate-vibid:2092000381682": 554,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 7,
-      "Боташев Расул Борисович": 178,
-      "Бытдаев Кемал Курманович": 25,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 119,
-      "Нашева Инна Гериевна": 7
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 7,
+      "gas:candidate-vibid:2092000381744": 178,
+      "gas:candidate-vibid:2092000379471": 25,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 119,
+      "gas:candidate-vibid:2092000381919": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 8,
-      "Аюбов Валерий Хусинович": 7,
-      "Боташев Расул Борисович": 765,
-      "Бытдаев Кемал Курманович": 99,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 31,
-      "Коджаков Олег Юнусович": 28,
-      "Маршанкулов Эдуард Муратбиевич": 294,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 8,
+      "gas:candidate-vibid:2092000379483": 7,
+      "gas:candidate-vibid:2092000381744": 765,
+      "gas:candidate-vibid:2092000379471": 99,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 31,
+      "gas:candidate-vibid:2092000381671": 28,
+      "gas:candidate-vibid:2092000381682": 294,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 470,
-      "Бытдаев Кемал Курманович": 37,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 7,
-      "Маршанкулов Эдуард Муратбиевич": 54,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 470,
+      "gas:candidate-vibid:2092000379471": 37,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 7,
+      "gas:candidate-vibid:2092000381682": 54,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 71,
-      "Бытдаев Кемал Курманович": 2,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 5,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 71,
+      "gas:candidate-vibid:2092000379471": 2,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 5,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 148,
-      "Бытдаев Кемал Курманович": 22,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 115,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 148,
+      "gas:candidate-vibid:2092000379471": 22,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 115,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 258,
-      "Бытдаев Кемал Курманович": 26,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 11,
-      "Коджаков Олег Юнусович": 8,
-      "Маршанкулов Эдуард Муратбиевич": 99,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 258,
+      "gas:candidate-vibid:2092000379471": 26,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 11,
+      "gas:candidate-vibid:2092000381671": 8,
+      "gas:candidate-vibid:2092000381682": 99,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 675,
-      "Бытдаев Кемал Курманович": 46,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 29,
-      "Коджаков Олег Юнусович": 30,
-      "Маршанкулов Эдуард Муратбиевич": 406,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 675,
+      "gas:candidate-vibid:2092000379471": 46,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 29,
+      "gas:candidate-vibid:2092000381671": 30,
+      "gas:candidate-vibid:2092000381682": 406,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 481,
-      "Бытдаев Кемал Курманович": 27,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 19,
-      "Коджаков Олег Юнусович": 17,
-      "Маршанкулов Эдуард Муратбиевич": 170,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 481,
+      "gas:candidate-vibid:2092000379471": 27,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 19,
+      "gas:candidate-vibid:2092000381671": 17,
+      "gas:candidate-vibid:2092000381682": 170,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 264,
-      "Бытдаев Кемал Курманович": 10,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 10,
-      "Маршанкулов Эдуард Муратбиевич": 105,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 264,
+      "gas:candidate-vibid:2092000379471": 10,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 10,
+      "gas:candidate-vibid:2092000381682": 105,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 288,
-      "Бытдаев Кемал Курманович": 10,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 69,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 288,
+      "gas:candidate-vibid:2092000379471": 10,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 69,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375743&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375743&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 40,
-      "Аюбов Валерий Хусинович": 51,
-      "Боташев Расул Борисович": 582,
-      "Бытдаев Кемал Курманович": 84,
-      "Джантемиров Мурадин Султанович": 158,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 51,
-      "Маршанкулов Эдуард Муратбиевич": 371,
-      "Нашева Инна Гериевна": 98
+      "gas:candidate-vibid:2092000381878": 40,
+      "gas:candidate-vibid:2092000379483": 51,
+      "gas:candidate-vibid:2092000381744": 582,
+      "gas:candidate-vibid:2092000379471": 84,
+      "gas:candidate-vibid:2092000381900": 158,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 51,
+      "gas:candidate-vibid:2092000381682": 371,
+      "gas:candidate-vibid:2092000381919": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 31,
-      "Аюбов Валерий Хусинович": 29,
-      "Боташев Расул Борисович": 435,
-      "Бытдаев Кемал Курманович": 79,
-      "Джантемиров Мурадин Султанович": 144,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 54,
-      "Маршанкулов Эдуард Муратбиевич": 408,
-      "Нашева Инна Гериевна": 74
+      "gas:candidate-vibid:2092000381878": 31,
+      "gas:candidate-vibid:2092000379483": 29,
+      "gas:candidate-vibid:2092000381744": 435,
+      "gas:candidate-vibid:2092000379471": 79,
+      "gas:candidate-vibid:2092000381900": 144,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 54,
+      "gas:candidate-vibid:2092000381682": 408,
+      "gas:candidate-vibid:2092000381919": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 41,
-      "Аюбов Валерий Хусинович": 42,
-      "Боташев Расул Борисович": 419,
-      "Бытдаев Кемал Курманович": 91,
-      "Джантемиров Мурадин Султанович": 127,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 46,
-      "Маршанкулов Эдуард Муратбиевич": 346,
-      "Нашева Инна Гериевна": 69
+      "gas:candidate-vibid:2092000381878": 41,
+      "gas:candidate-vibid:2092000379483": 42,
+      "gas:candidate-vibid:2092000381744": 419,
+      "gas:candidate-vibid:2092000379471": 91,
+      "gas:candidate-vibid:2092000381900": 127,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 46,
+      "gas:candidate-vibid:2092000381682": 346,
+      "gas:candidate-vibid:2092000381919": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 54,
-      "Аюбов Валерий Хусинович": 47,
-      "Боташев Расул Борисович": 271,
-      "Бытдаев Кемал Курманович": 71,
-      "Джантемиров Мурадин Султанович": 198,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 32,
-      "Маршанкулов Эдуард Муратбиевич": 259,
-      "Нашева Инна Гериевна": 94
+      "gas:candidate-vibid:2092000381878": 54,
+      "gas:candidate-vibid:2092000379483": 47,
+      "gas:candidate-vibid:2092000381744": 271,
+      "gas:candidate-vibid:2092000379471": 71,
+      "gas:candidate-vibid:2092000381900": 198,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 32,
+      "gas:candidate-vibid:2092000381682": 259,
+      "gas:candidate-vibid:2092000381919": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 715,
-      "Бытдаев Кемал Курманович": 131,
-      "Джантемиров Мурадин Султанович": 70,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 106,
-      "Маршанкулов Эдуард Муратбиевич": 433,
-      "Нашева Инна Гериевна": 73
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 715,
+      "gas:candidate-vibid:2092000379471": 131,
+      "gas:candidate-vibid:2092000381900": 70,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 106,
+      "gas:candidate-vibid:2092000381682": 433,
+      "gas:candidate-vibid:2092000381919": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 987,
-      "Бытдаев Кемал Курманович": 98,
-      "Джантемиров Мурадин Султанович": 49,
-      "Касаев Алим Халитович": 8,
-      "Коджаков Олег Юнусович": 49,
-      "Маршанкулов Эдуард Муратбиевич": 348,
-      "Нашева Инна Гериевна": 56
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 987,
+      "gas:candidate-vibid:2092000379471": 98,
+      "gas:candidate-vibid:2092000381900": 49,
+      "gas:candidate-vibid:2092000378363": 8,
+      "gas:candidate-vibid:2092000381671": 49,
+      "gas:candidate-vibid:2092000381682": 348,
+      "gas:candidate-vibid:2092000381919": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 1089,
-      "Бытдаев Кемал Курманович": 74,
-      "Джантемиров Мурадин Султанович": 178,
-      "Касаев Алим Халитович": 11,
-      "Коджаков Олег Юнусович": 95,
-      "Маршанкулов Эдуард Муратбиевич": 477,
-      "Нашева Инна Гериевна": 71
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 1089,
+      "gas:candidate-vibid:2092000379471": 74,
+      "gas:candidate-vibid:2092000381900": 178,
+      "gas:candidate-vibid:2092000378363": 11,
+      "gas:candidate-vibid:2092000381671": 95,
+      "gas:candidate-vibid:2092000381682": 477,
+      "gas:candidate-vibid:2092000381919": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 1283,
-      "Бытдаев Кемал Курманович": 68,
-      "Джантемиров Мурадин Султанович": 123,
-      "Касаев Алим Халитович": 9,
-      "Коджаков Олег Юнусович": 77,
-      "Маршанкулов Эдуард Муратбиевич": 571,
-      "Нашева Инна Гериевна": 43
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 1283,
+      "gas:candidate-vibid:2092000379471": 68,
+      "gas:candidate-vibid:2092000381900": 123,
+      "gas:candidate-vibid:2092000378363": 9,
+      "gas:candidate-vibid:2092000381671": 77,
+      "gas:candidate-vibid:2092000381682": 571,
+      "gas:candidate-vibid:2092000381919": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 1066,
-      "Бытдаев Кемал Курманович": 70,
-      "Джантемиров Мурадин Султанович": 157,
-      "Касаев Алим Халитович": 12,
-      "Коджаков Олег Юнусович": 91,
-      "Маршанкулов Эдуард Муратбиевич": 447,
-      "Нашева Инна Гериевна": 56
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 1066,
+      "gas:candidate-vibid:2092000379471": 70,
+      "gas:candidate-vibid:2092000381900": 157,
+      "gas:candidate-vibid:2092000378363": 12,
+      "gas:candidate-vibid:2092000381671": 91,
+      "gas:candidate-vibid:2092000381682": 447,
+      "gas:candidate-vibid:2092000381919": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 13,
-      "Боташев Расул Борисович": 916,
-      "Бытдаев Кемал Курманович": 101,
-      "Джантемиров Мурадин Султанович": 95,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 80,
-      "Маршанкулов Эдуард Муратбиевич": 369,
-      "Нашева Инна Гериевна": 21
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 13,
+      "gas:candidate-vibid:2092000381744": 916,
+      "gas:candidate-vibid:2092000379471": 101,
+      "gas:candidate-vibid:2092000381900": 95,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 80,
+      "gas:candidate-vibid:2092000381682": 369,
+      "gas:candidate-vibid:2092000381919": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 9,
-      "Боташев Расул Борисович": 875,
-      "Бытдаев Кемал Курманович": 83,
-      "Джантемиров Мурадин Султанович": 54,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 74,
-      "Маршанкулов Эдуард Муратбиевич": 368,
-      "Нашева Инна Гериевна": 19
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 9,
+      "gas:candidate-vibid:2092000381744": 875,
+      "gas:candidate-vibid:2092000379471": 83,
+      "gas:candidate-vibid:2092000381900": 54,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 74,
+      "gas:candidate-vibid:2092000381682": 368,
+      "gas:candidate-vibid:2092000381919": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 14,
-      "Боташев Расул Борисович": 513,
-      "Бытдаев Кемал Курманович": 69,
-      "Джантемиров Мурадин Султанович": 27,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 68,
-      "Маршанкулов Эдуард Муратбиевич": 331,
-      "Нашева Инна Гериевна": 14
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 14,
+      "gas:candidate-vibid:2092000381744": 513,
+      "gas:candidate-vibid:2092000379471": 69,
+      "gas:candidate-vibid:2092000381900": 27,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 68,
+      "gas:candidate-vibid:2092000381682": 331,
+      "gas:candidate-vibid:2092000381919": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 18,
-      "Боташев Расул Борисович": 520,
-      "Бытдаев Кемал Курманович": 48,
-      "Джантемиров Мурадин Султанович": 30,
-      "Касаев Алим Халитович": 8,
-      "Коджаков Олег Юнусович": 77,
-      "Маршанкулов Эдуард Муратбиевич": 187,
-      "Нашева Инна Гериевна": 11
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 18,
+      "gas:candidate-vibid:2092000381744": 520,
+      "gas:candidate-vibid:2092000379471": 48,
+      "gas:candidate-vibid:2092000381900": 30,
+      "gas:candidate-vibid:2092000378363": 8,
+      "gas:candidate-vibid:2092000381671": 77,
+      "gas:candidate-vibid:2092000381682": 187,
+      "gas:candidate-vibid:2092000381919": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 658,
-      "Бытдаев Кемал Курманович": 134,
-      "Джантемиров Мурадин Султанович": 17,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 49,
-      "Маршанкулов Эдуард Муратбиевич": 199,
-      "Нашева Инна Гериевна": 22
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 658,
+      "gas:candidate-vibid:2092000379471": 134,
+      "gas:candidate-vibid:2092000381900": 17,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 49,
+      "gas:candidate-vibid:2092000381682": 199,
+      "gas:candidate-vibid:2092000381919": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 792,
-      "Бытдаев Кемал Курманович": 148,
-      "Джантемиров Мурадин Султанович": 15,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 58,
-      "Маршанкулов Эдуард Муратбиевич": 208,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 792,
+      "gas:candidate-vibid:2092000379471": 148,
+      "gas:candidate-vibid:2092000381900": 15,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 58,
+      "gas:candidate-vibid:2092000381682": 208,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 19,
-      "Боташев Расул Борисович": 1029,
-      "Бытдаев Кемал Курманович": 71,
-      "Джантемиров Мурадин Султанович": 52,
-      "Касаев Алим Халитович": 8,
-      "Коджаков Олег Юнусович": 49,
-      "Маршанкулов Эдуард Муратбиевич": 380,
-      "Нашева Инна Гериевна": 39
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 19,
+      "gas:candidate-vibid:2092000381744": 1029,
+      "gas:candidate-vibid:2092000379471": 71,
+      "gas:candidate-vibid:2092000381900": 52,
+      "gas:candidate-vibid:2092000378363": 8,
+      "gas:candidate-vibid:2092000381671": 49,
+      "gas:candidate-vibid:2092000381682": 380,
+      "gas:candidate-vibid:2092000381919": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 13,
-      "Боташев Расул Борисович": 785,
-      "Бытдаев Кемал Курманович": 85,
-      "Джантемиров Мурадин Султанович": 26,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 70,
-      "Маршанкулов Эдуард Муратбиевич": 216,
-      "Нашева Инна Гериевна": 28
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 13,
+      "gas:candidate-vibid:2092000381744": 785,
+      "gas:candidate-vibid:2092000379471": 85,
+      "gas:candidate-vibid:2092000381900": 26,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 70,
+      "gas:candidate-vibid:2092000381682": 216,
+      "gas:candidate-vibid:2092000381919": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 432,
-      "Бытдаев Кемал Курманович": 124,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 54,
-      "Маршанкулов Эдуард Муратбиевич": 167,
-      "Нашева Инна Гериевна": 9
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 432,
+      "gas:candidate-vibid:2092000379471": 124,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 54,
+      "gas:candidate-vibid:2092000381682": 167,
+      "gas:candidate-vibid:2092000381919": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 6,
-      "Боташев Расул Борисович": 735,
-      "Бытдаев Кемал Курманович": 104,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 4,
-      "Коджаков Олег Юнусович": 91,
-      "Маршанкулов Эдуард Муратбиевич": 221,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 6,
+      "gas:candidate-vibid:2092000381744": 735,
+      "gas:candidate-vibid:2092000379471": 104,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 4,
+      "gas:candidate-vibid:2092000381671": 91,
+      "gas:candidate-vibid:2092000381682": 221,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 4,
-      "Боташев Расул Борисович": 875,
-      "Бытдаев Кемал Курманович": 101,
-      "Джантемиров Мурадин Султанович": 7,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 68,
-      "Маршанкулов Эдуард Муратбиевич": 198,
-      "Нашева Инна Гериевна": 18
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 4,
+      "gas:candidate-vibid:2092000381744": 875,
+      "gas:candidate-vibid:2092000379471": 101,
+      "gas:candidate-vibid:2092000381900": 7,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 68,
+      "gas:candidate-vibid:2092000381682": 198,
+      "gas:candidate-vibid:2092000381919": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 5,
-      "Боташев Расул Борисович": 850,
-      "Бытдаев Кемал Курманович": 142,
-      "Джантемиров Мурадин Султанович": 9,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 83,
-      "Маршанкулов Эдуард Муратбиевич": 215,
-      "Нашева Инна Гериевна": 11
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 5,
+      "gas:candidate-vibid:2092000381744": 850,
+      "gas:candidate-vibid:2092000379471": 142,
+      "gas:candidate-vibid:2092000381900": 9,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 83,
+      "gas:candidate-vibid:2092000381682": 215,
+      "gas:candidate-vibid:2092000381919": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 486,
-      "Бытдаев Кемал Курманович": 115,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 1,
-      "Коджаков Олег Юнусович": 74,
-      "Маршанкулов Эдуард Муратбиевич": 274,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 486,
+      "gas:candidate-vibid:2092000379471": 115,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 1,
+      "gas:candidate-vibid:2092000381671": 74,
+      "gas:candidate-vibid:2092000381682": 274,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 3,
-      "Боташев Расул Борисович": 859,
-      "Бытдаев Кемал Курманович": 110,
-      "Джантемиров Мурадин Султанович": 8,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 87,
-      "Маршанкулов Эдуард Муратбиевич": 240,
-      "Нашева Инна Гериевна": 14
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 3,
+      "gas:candidate-vibid:2092000381744": 859,
+      "gas:candidate-vibid:2092000379471": 110,
+      "gas:candidate-vibid:2092000381900": 8,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 87,
+      "gas:candidate-vibid:2092000381682": 240,
+      "gas:candidate-vibid:2092000381919": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 1,
-      "Аюбов Валерий Хусинович": 1,
-      "Боташев Расул Борисович": 496,
-      "Бытдаев Кемал Курманович": 105,
-      "Джантемиров Мурадин Султанович": 6,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 99,
-      "Маршанкулов Эдуард Муратбиевич": 286,
-      "Нашева Инна Гериевна": 22
+      "gas:candidate-vibid:2092000381878": 1,
+      "gas:candidate-vibid:2092000379483": 1,
+      "gas:candidate-vibid:2092000381744": 496,
+      "gas:candidate-vibid:2092000379471": 105,
+      "gas:candidate-vibid:2092000381900": 6,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 99,
+      "gas:candidate-vibid:2092000381682": 286,
+      "gas:candidate-vibid:2092000381919": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 65,
-      "Аюбов Валерий Хусинович": 10,
-      "Боташев Расул Борисович": 165,
-      "Бытдаев Кемал Курманович": 29,
-      "Джантемиров Мурадин Султанович": 111,
-      "Касаев Алим Халитович": 9,
-      "Коджаков Олег Юнусович": 21,
-      "Маршанкулов Эдуард Муратбиевич": 57,
-      "Нашева Инна Гериевна": 69
+      "gas:candidate-vibid:2092000381878": 65,
+      "gas:candidate-vibid:2092000379483": 10,
+      "gas:candidate-vibid:2092000381744": 165,
+      "gas:candidate-vibid:2092000379471": 29,
+      "gas:candidate-vibid:2092000381900": 111,
+      "gas:candidate-vibid:2092000378363": 9,
+      "gas:candidate-vibid:2092000381671": 21,
+      "gas:candidate-vibid:2092000381682": 57,
+      "gas:candidate-vibid:2092000381919": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375744&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375744&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 7,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1290,
-      "Бытдаев Кемал Курманович": 2,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 1,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 7,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1290,
+      "gas:candidate-vibid:2092000379471": 2,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 1,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 12,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1539,
-      "Бытдаев Кемал Курманович": 11,
-      "Джантемиров Мурадин Султанович": 16,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 3,
-      "Нашева Инна Гериевна": 7
+      "gas:candidate-vibid:2092000381878": 12,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1539,
+      "gas:candidate-vibid:2092000379471": 11,
+      "gas:candidate-vibid:2092000381900": 16,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 3,
+      "gas:candidate-vibid:2092000381919": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 16,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1325,
-      "Бытдаев Кемал Курманович": 14,
-      "Джантемиров Мурадин Султанович": 10,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 2,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 16,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1325,
+      "gas:candidate-vibid:2092000379471": 14,
+      "gas:candidate-vibid:2092000381900": 10,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 2,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 2024,
-      "Бытдаев Кемал Курманович": 1,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 2024,
+      "gas:candidate-vibid:2092000379471": 1,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 2168,
-      "Бытдаев Кемал Курманович": 2,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 2,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 2168,
+      "gas:candidate-vibid:2092000379471": 2,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 2,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 6,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1953,
-      "Бытдаев Кемал Курманович": 12,
-      "Джантемиров Мурадин Султанович": 11,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 2,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 6,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1953,
+      "gas:candidate-vibid:2092000379471": 12,
+      "gas:candidate-vibid:2092000381900": 11,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 2,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 14,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1705,
-      "Бытдаев Кемал Курманович": 7,
-      "Джантемиров Мурадин Султанович": 9,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 3,
-      "Нашева Инна Гериевна": 6
+      "gas:candidate-vibid:2092000381878": 14,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1705,
+      "gas:candidate-vibid:2092000379471": 7,
+      "gas:candidate-vibid:2092000381900": 9,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 3,
+      "gas:candidate-vibid:2092000381919": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 13,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 930,
-      "Бытдаев Кемал Курманович": 10,
-      "Джантемиров Мурадин Султанович": 8,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 2,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 13,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 930,
+      "gas:candidate-vibid:2092000379471": 10,
+      "gas:candidate-vibid:2092000381900": 8,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 2,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 5,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 460,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 3,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 1,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 5,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 460,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 3,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 1,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 244,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 1,
-      "Нашева Инна Гериевна": 1
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 244,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 1,
+      "gas:candidate-vibid:2092000381919": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 4,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 203,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 4,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 203,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 2,
-      "Боташев Расул Борисович": 1256,
-      "Бытдаев Кемал Курманович": 6,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 1,
-      "Нашева Инна Гериевна": 8
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 2,
+      "gas:candidate-vibid:2092000381744": 1256,
+      "gas:candidate-vibid:2092000379471": 6,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 1,
+      "gas:candidate-vibid:2092000381919": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 0,
-      "Аюбов Валерий Хусинович": 8,
-      "Боташев Расул Борисович": 382,
-      "Бытдаев Кемал Курманович": 3,
-      "Джантемиров Мурадин Султанович": 0,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 0
+      "gas:candidate-vibid:2092000381878": 0,
+      "gas:candidate-vibid:2092000379483": 8,
+      "gas:candidate-vibid:2092000381744": 382,
+      "gas:candidate-vibid:2092000379471": 3,
+      "gas:candidate-vibid:2092000381900": 0,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 13,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 1965,
-      "Бытдаев Кемал Курманович": 2,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 7
+      "gas:candidate-vibid:2092000381878": 13,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 1965,
+      "gas:candidate-vibid:2092000379471": 2,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 0,
-      "Боташев Расул Борисович": 787,
-      "Бытдаев Кемал Курманович": 0,
-      "Джантемиров Мурадин Султанович": 1,
-      "Касаев Алим Халитович": 0,
-      "Коджаков Олег Юнусович": 1,
-      "Маршанкулов Эдуард Муратбиевич": 0,
-      "Нашева Инна Гериевна": 4
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 0,
+      "gas:candidate-vibid:2092000381744": 787,
+      "gas:candidate-vibid:2092000379471": 0,
+      "gas:candidate-vibid:2092000381900": 1,
+      "gas:candidate-vibid:2092000378363": 0,
+      "gas:candidate-vibid:2092000381671": 1,
+      "gas:candidate-vibid:2092000381682": 0,
+      "gas:candidate-vibid:2092000381919": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375745&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375745&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 44,
-      "Аюбов Валерий Хусинович": 116,
-      "Боташев Расул Борисович": 784,
-      "Бытдаев Кемал Курманович": 88,
-      "Джантемиров Мурадин Султанович": 116,
-      "Касаев Алим Халитович": 51,
-      "Коджаков Олег Юнусович": 116,
-      "Маршанкулов Эдуард Муратбиевич": 745,
-      "Нашева Инна Гериевна": 63
+      "gas:candidate-vibid:2092000381878": 44,
+      "gas:candidate-vibid:2092000379483": 116,
+      "gas:candidate-vibid:2092000381744": 784,
+      "gas:candidate-vibid:2092000379471": 88,
+      "gas:candidate-vibid:2092000381900": 116,
+      "gas:candidate-vibid:2092000378363": 51,
+      "gas:candidate-vibid:2092000381671": 116,
+      "gas:candidate-vibid:2092000381682": 745,
+      "gas:candidate-vibid:2092000381919": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 40,
-      "Аюбов Валерий Хусинович": 105,
-      "Боташев Расул Борисович": 707,
-      "Бытдаев Кемал Курманович": 78,
-      "Джантемиров Мурадин Султанович": 105,
-      "Касаев Алим Халитович": 46,
-      "Коджаков Олег Юнусович": 105,
-      "Маршанкулов Эдуард Муратбиевич": 672,
-      "Нашева Инна Гериевна": 57
+      "gas:candidate-vibid:2092000381878": 40,
+      "gas:candidate-vibid:2092000379483": 105,
+      "gas:candidate-vibid:2092000381744": 707,
+      "gas:candidate-vibid:2092000379471": 78,
+      "gas:candidate-vibid:2092000381900": 105,
+      "gas:candidate-vibid:2092000378363": 46,
+      "gas:candidate-vibid:2092000381671": 105,
+      "gas:candidate-vibid:2092000381682": 672,
+      "gas:candidate-vibid:2092000381919": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 23,
-      "Аюбов Валерий Хусинович": 61,
-      "Боташев Расул Борисович": 412,
-      "Бытдаев Кемал Курманович": 46,
-      "Джантемиров Мурадин Султанович": 61,
-      "Касаев Алим Халитович": 27,
-      "Коджаков Олег Юнусович": 61,
-      "Маршанкулов Эдуард Муратбиевич": 391,
-      "Нашева Инна Гериевна": 33
+      "gas:candidate-vibid:2092000381878": 23,
+      "gas:candidate-vibid:2092000379483": 61,
+      "gas:candidate-vibid:2092000381744": 412,
+      "gas:candidate-vibid:2092000379471": 46,
+      "gas:candidate-vibid:2092000381900": 61,
+      "gas:candidate-vibid:2092000378363": 27,
+      "gas:candidate-vibid:2092000381671": 61,
+      "gas:candidate-vibid:2092000381682": 391,
+      "gas:candidate-vibid:2092000381919": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 41,
-      "Аюбов Валерий Хусинович": 108,
-      "Боташев Расул Борисович": 727,
-      "Бытдаев Кемал Курманович": 81,
-      "Джантемиров Мурадин Султанович": 108,
-      "Касаев Алим Халитович": 48,
-      "Коджаков Олег Юнусович": 108,
-      "Маршанкулов Эдуард Муратбиевич": 692,
-      "Нашева Инна Гериевна": 58
+      "gas:candidate-vibid:2092000381878": 41,
+      "gas:candidate-vibid:2092000379483": 108,
+      "gas:candidate-vibid:2092000381744": 727,
+      "gas:candidate-vibid:2092000379471": 81,
+      "gas:candidate-vibid:2092000381900": 108,
+      "gas:candidate-vibid:2092000378363": 48,
+      "gas:candidate-vibid:2092000381671": 108,
+      "gas:candidate-vibid:2092000381682": 692,
+      "gas:candidate-vibid:2092000381919": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 33,
-      "Аюбов Валерий Хусинович": 88,
-      "Боташев Расул Борисович": 590,
-      "Бытдаев Кемал Курманович": 66,
-      "Джантемиров Мурадин Султанович": 88,
-      "Касаев Алим Халитович": 39,
-      "Коджаков Олег Юнусович": 87,
-      "Маршанкулов Эдуард Муратбиевич": 560,
-      "Нашева Инна Гериевна": 47
+      "gas:candidate-vibid:2092000381878": 33,
+      "gas:candidate-vibid:2092000379483": 88,
+      "gas:candidate-vibid:2092000381744": 590,
+      "gas:candidate-vibid:2092000379471": 66,
+      "gas:candidate-vibid:2092000381900": 88,
+      "gas:candidate-vibid:2092000378363": 39,
+      "gas:candidate-vibid:2092000381671": 87,
+      "gas:candidate-vibid:2092000381682": 560,
+      "gas:candidate-vibid:2092000381919": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 29,
-      "Аюбов Валерий Хусинович": 77,
-      "Боташев Расул Борисович": 520,
-      "Бытдаев Кемал Курманович": 58,
-      "Джантемиров Мурадин Султанович": 77,
-      "Касаев Алим Халитович": 34,
-      "Коджаков Олег Юнусович": 77,
-      "Маршанкулов Эдуард Муратбиевич": 494,
-      "Нашева Инна Гериевна": 42
+      "gas:candidate-vibid:2092000381878": 29,
+      "gas:candidate-vibid:2092000379483": 77,
+      "gas:candidate-vibid:2092000381744": 520,
+      "gas:candidate-vibid:2092000379471": 58,
+      "gas:candidate-vibid:2092000381900": 77,
+      "gas:candidate-vibid:2092000378363": 34,
+      "gas:candidate-vibid:2092000381671": 77,
+      "gas:candidate-vibid:2092000381682": 494,
+      "gas:candidate-vibid:2092000381919": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 39,
-      "Аюбов Валерий Хусинович": 104,
-      "Боташев Расул Борисович": 702,
-      "Бытдаев Кемал Курманович": 78,
-      "Джантемиров Мурадин Султанович": 104,
-      "Касаев Алим Халитович": 46,
-      "Коджаков Олег Юнусович": 104,
-      "Маршанкулов Эдуард Муратбиевич": 666,
-      "Нашева Инна Гериевна": 56
+      "gas:candidate-vibid:2092000381878": 39,
+      "gas:candidate-vibid:2092000379483": 104,
+      "gas:candidate-vibid:2092000381744": 702,
+      "gas:candidate-vibid:2092000379471": 78,
+      "gas:candidate-vibid:2092000381900": 104,
+      "gas:candidate-vibid:2092000378363": 46,
+      "gas:candidate-vibid:2092000381671": 104,
+      "gas:candidate-vibid:2092000381682": 666,
+      "gas:candidate-vibid:2092000381919": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 42,
-      "Аюбов Валерий Хусинович": 111,
-      "Боташев Расул Борисович": 745,
-      "Бытдаев Кемал Курманович": 83,
-      "Джантемиров Мурадин Султанович": 111,
-      "Касаев Алим Халитович": 49,
-      "Коджаков Олег Юнусович": 110,
-      "Маршанкулов Эдуард Муратбиевич": 708,
-      "Нашева Инна Гериевна": 60
+      "gas:candidate-vibid:2092000381878": 42,
+      "gas:candidate-vibid:2092000379483": 111,
+      "gas:candidate-vibid:2092000381744": 745,
+      "gas:candidate-vibid:2092000379471": 83,
+      "gas:candidate-vibid:2092000381900": 111,
+      "gas:candidate-vibid:2092000378363": 49,
+      "gas:candidate-vibid:2092000381671": 110,
+      "gas:candidate-vibid:2092000381682": 708,
+      "gas:candidate-vibid:2092000381919": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 38,
-      "Аюбов Валерий Хусинович": 99,
-      "Боташев Расул Борисович": 168,
-      "Бытдаев Кемал Курманович": 75,
-      "Джантемиров Мурадин Султанович": 99,
-      "Касаев Алим Халитович": 44,
-      "Коджаков Олег Юнусович": 99,
-      "Маршанкулов Эдуард Муратбиевич": 1136,
-      "Нашева Инна Гериевна": 54
+      "gas:candidate-vibid:2092000381878": 38,
+      "gas:candidate-vibid:2092000379483": 99,
+      "gas:candidate-vibid:2092000381744": 168,
+      "gas:candidate-vibid:2092000379471": 75,
+      "gas:candidate-vibid:2092000381900": 99,
+      "gas:candidate-vibid:2092000378363": 44,
+      "gas:candidate-vibid:2092000381671": 99,
+      "gas:candidate-vibid:2092000381682": 1136,
+      "gas:candidate-vibid:2092000381919": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 17,
-      "Аюбов Валерий Хусинович": 45,
-      "Боташев Расул Борисович": 308,
-      "Бытдаев Кемал Курманович": 34,
-      "Джантемиров Мурадин Султанович": 45,
-      "Касаев Алим Халитович": 20,
-      "Коджаков Олег Юнусович": 45,
-      "Маршанкулов Эдуард Муратбиевич": 291,
-      "Нашева Инна Гериевна": 25
+      "gas:candidate-vibid:2092000381878": 17,
+      "gas:candidate-vibid:2092000379483": 45,
+      "gas:candidate-vibid:2092000381744": 308,
+      "gas:candidate-vibid:2092000379471": 34,
+      "gas:candidate-vibid:2092000381900": 45,
+      "gas:candidate-vibid:2092000378363": 20,
+      "gas:candidate-vibid:2092000381671": 45,
+      "gas:candidate-vibid:2092000381682": 291,
+      "gas:candidate-vibid:2092000381919": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 36,
-      "Аюбов Валерий Хусинович": 95,
-      "Боташев Расул Борисович": 143,
-      "Бытдаев Кемал Курманович": 72,
-      "Джантемиров Мурадин Султанович": 95,
-      "Касаев Алим Халитович": 42,
-      "Коджаков Олег Юнусович": 95,
-      "Маршанкулов Эдуард Муратбиевич": 1104,
-      "Нашева Инна Гериевна": 51
+      "gas:candidate-vibid:2092000381878": 36,
+      "gas:candidate-vibid:2092000379483": 95,
+      "gas:candidate-vibid:2092000381744": 143,
+      "gas:candidate-vibid:2092000379471": 72,
+      "gas:candidate-vibid:2092000381900": 95,
+      "gas:candidate-vibid:2092000378363": 42,
+      "gas:candidate-vibid:2092000381671": 95,
+      "gas:candidate-vibid:2092000381682": 1104,
+      "gas:candidate-vibid:2092000381919": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 47,
-      "Аюбов Валерий Хусинович": 123,
-      "Боташев Расул Борисович": 829,
-      "Бытдаев Кемал Курманович": 93,
-      "Джантемиров Мурадин Султанович": 123,
-      "Касаев Алим Халитович": 54,
-      "Коджаков Олег Юнусович": 123,
-      "Маршанкулов Эдуард Муратбиевич": 789,
-      "Нашева Инна Гериевна": 65
+      "gas:candidate-vibid:2092000381878": 47,
+      "gas:candidate-vibid:2092000379483": 123,
+      "gas:candidate-vibid:2092000381744": 829,
+      "gas:candidate-vibid:2092000379471": 93,
+      "gas:candidate-vibid:2092000381900": 123,
+      "gas:candidate-vibid:2092000378363": 54,
+      "gas:candidate-vibid:2092000381671": 123,
+      "gas:candidate-vibid:2092000381682": 789,
+      "gas:candidate-vibid:2092000381919": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 28,
-      "Аюбов Валерий Хусинович": 73,
-      "Боташев Расул Борисович": 494,
-      "Бытдаев Кемал Курманович": 55,
-      "Джантемиров Мурадин Султанович": 73,
-      "Касаев Алим Халитович": 32,
-      "Коджаков Олег Юнусович": 73,
-      "Маршанкулов Эдуард Муратбиевич": 469,
-      "Нашева Инна Гериевна": 40
+      "gas:candidate-vibid:2092000381878": 28,
+      "gas:candidate-vibid:2092000379483": 73,
+      "gas:candidate-vibid:2092000381744": 494,
+      "gas:candidate-vibid:2092000379471": 55,
+      "gas:candidate-vibid:2092000381900": 73,
+      "gas:candidate-vibid:2092000378363": 32,
+      "gas:candidate-vibid:2092000381671": 73,
+      "gas:candidate-vibid:2092000381682": 469,
+      "gas:candidate-vibid:2092000381919": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 24,
-      "Аюбов Валерий Хусинович": 64,
-      "Боташев Расул Борисович": 431,
-      "Бытдаев Кемал Курманович": 48,
-      "Джантемиров Мурадин Султанович": 64,
-      "Касаев Алим Халитович": 28,
-      "Коджаков Олег Юнусович": 64,
-      "Маршанкулов Эдуард Муратбиевич": 409,
-      "Нашева Инна Гериевна": 34
+      "gas:candidate-vibid:2092000381878": 24,
+      "gas:candidate-vibid:2092000379483": 64,
+      "gas:candidate-vibid:2092000381744": 431,
+      "gas:candidate-vibid:2092000379471": 48,
+      "gas:candidate-vibid:2092000381900": 64,
+      "gas:candidate-vibid:2092000378363": 28,
+      "gas:candidate-vibid:2092000381671": 64,
+      "gas:candidate-vibid:2092000381682": 409,
+      "gas:candidate-vibid:2092000381919": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 25,
-      "Аюбов Валерий Хусинович": 67,
-      "Боташев Расул Борисович": 453,
-      "Бытдаев Кемал Курманович": 51,
-      "Джантемиров Мурадин Султанович": 67,
-      "Касаев Алим Халитович": 30,
-      "Коджаков Олег Юнусович": 67,
-      "Маршанкулов Эдуард Муратбиевич": 431,
-      "Нашева Инна Гериевна": 36
+      "gas:candidate-vibid:2092000381878": 25,
+      "gas:candidate-vibid:2092000379483": 67,
+      "gas:candidate-vibid:2092000381744": 453,
+      "gas:candidate-vibid:2092000379471": 51,
+      "gas:candidate-vibid:2092000381900": 67,
+      "gas:candidate-vibid:2092000378363": 30,
+      "gas:candidate-vibid:2092000381671": 67,
+      "gas:candidate-vibid:2092000381682": 431,
+      "gas:candidate-vibid:2092000381919": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 8,
-      "Аюбов Валерий Хусинович": 22,
-      "Боташев Расул Борисович": 153,
-      "Бытдаев Кемал Курманович": 17,
-      "Джантемиров Мурадин Султанович": 22,
-      "Касаев Алим Халитович": 10,
-      "Коджаков Олег Юнусович": 22,
-      "Маршанкулов Эдуард Муратбиевич": 144,
-      "Нашева Инна Гериевна": 12
+      "gas:candidate-vibid:2092000381878": 8,
+      "gas:candidate-vibid:2092000379483": 22,
+      "gas:candidate-vibid:2092000381744": 153,
+      "gas:candidate-vibid:2092000379471": 17,
+      "gas:candidate-vibid:2092000381900": 22,
+      "gas:candidate-vibid:2092000378363": 10,
+      "gas:candidate-vibid:2092000381671": 22,
+      "gas:candidate-vibid:2092000381682": 144,
+      "gas:candidate-vibid:2092000381919": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 27,
-      "Аюбов Валерий Хусинович": 73,
-      "Боташев Расул Борисович": 488,
-      "Бытдаев Кемал Курманович": 55,
-      "Джантемиров Мурадин Султанович": 73,
-      "Касаев Алим Халитович": 32,
-      "Коджаков Олег Юнусович": 72,
-      "Маршанкулов Эдуард Муратбиевич": 465,
-      "Нашева Инна Гериевна": 39
+      "gas:candidate-vibid:2092000381878": 27,
+      "gas:candidate-vibid:2092000379483": 73,
+      "gas:candidate-vibid:2092000381744": 488,
+      "gas:candidate-vibid:2092000379471": 55,
+      "gas:candidate-vibid:2092000381900": 73,
+      "gas:candidate-vibid:2092000378363": 32,
+      "gas:candidate-vibid:2092000381671": 72,
+      "gas:candidate-vibid:2092000381682": 465,
+      "gas:candidate-vibid:2092000381919": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 16,
-      "Аюбов Валерий Хусинович": 43,
-      "Боташев Расул Борисович": 295,
-      "Бытдаев Кемал Курманович": 33,
-      "Джантемиров Мурадин Султанович": 43,
-      "Касаев Алим Халитович": 19,
-      "Коджаков Олег Юнусович": 43,
-      "Маршанкулов Эдуард Муратбиевич": 279,
-      "Нашева Инна Гериевна": 23
+      "gas:candidate-vibid:2092000381878": 16,
+      "gas:candidate-vibid:2092000379483": 43,
+      "gas:candidate-vibid:2092000381744": 295,
+      "gas:candidate-vibid:2092000379471": 33,
+      "gas:candidate-vibid:2092000381900": 43,
+      "gas:candidate-vibid:2092000378363": 19,
+      "gas:candidate-vibid:2092000381671": 43,
+      "gas:candidate-vibid:2092000381682": 279,
+      "gas:candidate-vibid:2092000381919": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 31,
-      "Аюбов Валерий Хусинович": 82,
-      "Боташев Расул Борисович": 737,
-      "Бытдаев Кемал Курманович": 62,
-      "Джантемиров Мурадин Султанович": 82,
-      "Касаев Алим Халитович": 36,
-      "Коджаков Олег Юнусович": 82,
-      "Маршанкулов Эдуард Муратбиевич": 524,
-      "Нашева Инна Гериевна": 44
+      "gas:candidate-vibid:2092000381878": 31,
+      "gas:candidate-vibid:2092000379483": 82,
+      "gas:candidate-vibid:2092000381744": 737,
+      "gas:candidate-vibid:2092000379471": 62,
+      "gas:candidate-vibid:2092000381900": 82,
+      "gas:candidate-vibid:2092000378363": 36,
+      "gas:candidate-vibid:2092000381671": 82,
+      "gas:candidate-vibid:2092000381682": 524,
+      "gas:candidate-vibid:2092000381919": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 21,
-      "Аюбов Валерий Хусинович": 56,
-      "Боташев Расул Борисович": 374,
-      "Бытдаев Кемал Курманович": 42,
-      "Джантемиров Мурадин Султанович": 56,
-      "Касаев Алим Халитович": 25,
-      "Коджаков Олег Юнусович": 55,
-      "Маршанкулов Эдуард Муратбиевич": 356,
-      "Нашева Инна Гериевна": 30
+      "gas:candidate-vibid:2092000381878": 21,
+      "gas:candidate-vibid:2092000379483": 56,
+      "gas:candidate-vibid:2092000381744": 374,
+      "gas:candidate-vibid:2092000379471": 42,
+      "gas:candidate-vibid:2092000381900": 56,
+      "gas:candidate-vibid:2092000378363": 25,
+      "gas:candidate-vibid:2092000381671": 55,
+      "gas:candidate-vibid:2092000381682": 356,
+      "gas:candidate-vibid:2092000381919": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 32,
-      "Аюбов Валерий Хусинович": 84,
-      "Боташев Расул Борисович": 570,
-      "Бытдаев Кемал Курманович": 64,
-      "Джантемиров Мурадин Султанович": 84,
-      "Касаев Алим Халитович": 37,
-      "Коджаков Олег Юнусович": 84,
-      "Маршанкулов Эдуард Муратбиевич": 541,
-      "Нашева Инна Гериевна": 46
+      "gas:candidate-vibid:2092000381878": 32,
+      "gas:candidate-vibid:2092000379483": 84,
+      "gas:candidate-vibid:2092000381744": 570,
+      "gas:candidate-vibid:2092000379471": 64,
+      "gas:candidate-vibid:2092000381900": 84,
+      "gas:candidate-vibid:2092000378363": 37,
+      "gas:candidate-vibid:2092000381671": 84,
+      "gas:candidate-vibid:2092000381682": 541,
+      "gas:candidate-vibid:2092000381919": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 26,
-      "Аюбов Валерий Хусинович": 69,
-      "Боташев Расул Борисович": 464,
-      "Бытдаев Кемал Курманович": 52,
-      "Джантемиров Мурадин Султанович": 69,
-      "Касаев Алим Халитович": 30,
-      "Коджаков Олег Юнусович": 69,
-      "Маршанкулов Эдуард Муратбиевич": 441,
-      "Нашева Инна Гериевна": 37
+      "gas:candidate-vibid:2092000381878": 26,
+      "gas:candidate-vibid:2092000379483": 69,
+      "gas:candidate-vibid:2092000381744": 464,
+      "gas:candidate-vibid:2092000379471": 52,
+      "gas:candidate-vibid:2092000381900": 69,
+      "gas:candidate-vibid:2092000378363": 30,
+      "gas:candidate-vibid:2092000381671": 69,
+      "gas:candidate-vibid:2092000381682": 441,
+      "gas:candidate-vibid:2092000381919": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 31,
-      "Аюбов Валерий Хусинович": 82,
-      "Боташев Расул Борисович": 551,
-      "Бытдаев Кемал Курманович": 62,
-      "Джантемиров Мурадин Султанович": 82,
-      "Касаев Алим Халитович": 36,
-      "Коджаков Олег Юнусович": 82,
-      "Маршанкулов Эдуард Муратбиевич": 524,
-      "Нашева Инна Гериевна": 44
+      "gas:candidate-vibid:2092000381878": 31,
+      "gas:candidate-vibid:2092000379483": 82,
+      "gas:candidate-vibid:2092000381744": 551,
+      "gas:candidate-vibid:2092000379471": 62,
+      "gas:candidate-vibid:2092000381900": 82,
+      "gas:candidate-vibid:2092000378363": 36,
+      "gas:candidate-vibid:2092000381671": 82,
+      "gas:candidate-vibid:2092000381682": 524,
+      "gas:candidate-vibid:2092000381919": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 24,
-      "Аюбов Валерий Хусинович": 65,
-      "Боташев Расул Борисович": 435,
-      "Бытдаев Кемал Курманович": 49,
-      "Джантемиров Мурадин Султанович": 65,
-      "Касаев Алим Халитович": 29,
-      "Коджаков Олег Юнусович": 64,
-      "Маршанкулов Эдуард Муратбиевич": 413,
-      "Нашева Инна Гериевна": 35
+      "gas:candidate-vibid:2092000381878": 24,
+      "gas:candidate-vibid:2092000379483": 65,
+      "gas:candidate-vibid:2092000381744": 435,
+      "gas:candidate-vibid:2092000379471": 49,
+      "gas:candidate-vibid:2092000381900": 65,
+      "gas:candidate-vibid:2092000378363": 29,
+      "gas:candidate-vibid:2092000381671": 64,
+      "gas:candidate-vibid:2092000381682": 413,
+      "gas:candidate-vibid:2092000381919": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 19,
-      "Аюбов Валерий Хусинович": 50,
-      "Боташев Расул Борисович": 339,
-      "Бытдаев Кемал Курманович": 38,
-      "Джантемиров Мурадин Султанович": 50,
-      "Касаев Алим Халитович": 22,
-      "Коджаков Олег Юнусович": 50,
-      "Маршанкулов Эдуард Муратбиевич": 322,
-      "Нашева Инна Гериевна": 27
+      "gas:candidate-vibid:2092000381878": 19,
+      "gas:candidate-vibid:2092000379483": 50,
+      "gas:candidate-vibid:2092000381744": 339,
+      "gas:candidate-vibid:2092000379471": 38,
+      "gas:candidate-vibid:2092000381900": 50,
+      "gas:candidate-vibid:2092000378363": 22,
+      "gas:candidate-vibid:2092000381671": 50,
+      "gas:candidate-vibid:2092000381682": 322,
+      "gas:candidate-vibid:2092000381919": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 26,
-      "Аюбов Валерий Хусинович": 70,
-      "Боташев Расул Борисович": 470,
-      "Бытдаев Кемал Курманович": 53,
-      "Джантемиров Мурадин Султанович": 70,
-      "Касаев Алим Халитович": 31,
-      "Коджаков Олег Юнусович": 70,
-      "Маршанкулов Эдуард Муратбиевич": 446,
-      "Нашева Инна Гериевна": 38
+      "gas:candidate-vibid:2092000381878": 26,
+      "gas:candidate-vibid:2092000379483": 70,
+      "gas:candidate-vibid:2092000381744": 470,
+      "gas:candidate-vibid:2092000379471": 53,
+      "gas:candidate-vibid:2092000381900": 70,
+      "gas:candidate-vibid:2092000378363": 31,
+      "gas:candidate-vibid:2092000381671": 70,
+      "gas:candidate-vibid:2092000381682": 446,
+      "gas:candidate-vibid:2092000381919": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 27,
-      "Аюбов Валерий Хусинович": 71,
-      "Боташев Расул Борисович": 482,
-      "Бытдаев Кемал Курманович": 54,
-      "Джантемиров Мурадин Султанович": 71,
-      "Касаев Алим Халитович": 32,
-      "Коджаков Олег Юнусович": 71,
-      "Маршанкулов Эдуард Муратбиевич": 458,
-      "Нашева Инна Гериевна": 39
+      "gas:candidate-vibid:2092000381878": 27,
+      "gas:candidate-vibid:2092000379483": 71,
+      "gas:candidate-vibid:2092000381744": 482,
+      "gas:candidate-vibid:2092000379471": 54,
+      "gas:candidate-vibid:2092000381900": 71,
+      "gas:candidate-vibid:2092000378363": 32,
+      "gas:candidate-vibid:2092000381671": 71,
+      "gas:candidate-vibid:2092000381682": 458,
+      "gas:candidate-vibid:2092000381919": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 33,
-      "Аюбов Валерий Хусинович": 88,
-      "Боташев Расул Борисович": 595,
-      "Бытдаев Кемал Курманович": 66,
-      "Джантемиров Мурадин Султанович": 88,
-      "Касаев Алим Халитович": 39,
-      "Коджаков Олег Юнусович": 88,
-      "Маршанкулов Эдуард Муратбиевич": 564,
-      "Нашева Инна Гериевна": 47
+      "gas:candidate-vibid:2092000381878": 33,
+      "gas:candidate-vibid:2092000379483": 88,
+      "gas:candidate-vibid:2092000381744": 595,
+      "gas:candidate-vibid:2092000379471": 66,
+      "gas:candidate-vibid:2092000381900": 88,
+      "gas:candidate-vibid:2092000378363": 39,
+      "gas:candidate-vibid:2092000381671": 88,
+      "gas:candidate-vibid:2092000381682": 564,
+      "gas:candidate-vibid:2092000381919": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 41,
-      "Аюбов Валерий Хусинович": 108,
-      "Боташев Расул Борисович": 728,
-      "Бытдаев Кемал Курманович": 82,
-      "Джантемиров Мурадин Султанович": 108,
-      "Касаев Алим Халитович": 48,
-      "Коджаков Олег Юнусович": 108,
-      "Маршанкулов Эдуард Муратбиевич": 691,
-      "Нашева Инна Гериевна": 58
+      "gas:candidate-vibid:2092000381878": 41,
+      "gas:candidate-vibid:2092000379483": 108,
+      "gas:candidate-vibid:2092000381744": 728,
+      "gas:candidate-vibid:2092000379471": 82,
+      "gas:candidate-vibid:2092000381900": 108,
+      "gas:candidate-vibid:2092000378363": 48,
+      "gas:candidate-vibid:2092000381671": 108,
+      "gas:candidate-vibid:2092000381682": 691,
+      "gas:candidate-vibid:2092000381919": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 17,
-      "Аюбов Валерий Хусинович": 43,
-      "Боташев Расул Борисович": 307,
-      "Бытдаев Кемал Курманович": 44,
-      "Джантемиров Мурадин Султанович": 43,
-      "Касаев Алим Халитович": 19,
-      "Коджаков Олег Юнусович": 43,
-      "Маршанкулов Эдуард Муратбиевич": 293,
-      "Нашева Инна Гериевна": 24
+      "gas:candidate-vibid:2092000381878": 17,
+      "gas:candidate-vibid:2092000379483": 43,
+      "gas:candidate-vibid:2092000381744": 307,
+      "gas:candidate-vibid:2092000379471": 44,
+      "gas:candidate-vibid:2092000381900": 43,
+      "gas:candidate-vibid:2092000378363": 19,
+      "gas:candidate-vibid:2092000381671": 43,
+      "gas:candidate-vibid:2092000381682": 293,
+      "gas:candidate-vibid:2092000381919": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 34,
-      "Аюбов Валерий Хусинович": 90,
-      "Боташев Расул Борисович": 607,
-      "Бытдаев Кемал Курманович": 68,
-      "Джантемиров Мурадин Султанович": 90,
-      "Касаев Алим Халитович": 40,
-      "Коджаков Олег Юнусович": 90,
-      "Маршанкулов Эдуард Муратбиевич": 578,
-      "Нашева Инна Гериевна": 49
+      "gas:candidate-vibid:2092000381878": 34,
+      "gas:candidate-vibid:2092000379483": 90,
+      "gas:candidate-vibid:2092000381744": 607,
+      "gas:candidate-vibid:2092000379471": 68,
+      "gas:candidate-vibid:2092000381900": 90,
+      "gas:candidate-vibid:2092000378363": 40,
+      "gas:candidate-vibid:2092000381671": 90,
+      "gas:candidate-vibid:2092000381682": 578,
+      "gas:candidate-vibid:2092000381919": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 21,
-      "Аюбов Валерий Хусинович": 54,
-      "Боташев Расул Борисович": 366,
-      "Бытдаев Кемал Курманович": 41,
-      "Джантемиров Мурадин Султанович": 54,
-      "Касаев Алим Халитович": 24,
-      "Коджаков Олег Юнусович": 54,
-      "Маршанкулов Эдуард Муратбиевич": 348,
-      "Нашева Инна Гериевна": 29
+      "gas:candidate-vibid:2092000381878": 21,
+      "gas:candidate-vibid:2092000379483": 54,
+      "gas:candidate-vibid:2092000381744": 366,
+      "gas:candidate-vibid:2092000379471": 41,
+      "gas:candidate-vibid:2092000381900": 54,
+      "gas:candidate-vibid:2092000378363": 24,
+      "gas:candidate-vibid:2092000381671": 54,
+      "gas:candidate-vibid:2092000381682": 348,
+      "gas:candidate-vibid:2092000381919": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 39,
-      "Аюбов Валерий Хусинович": 103,
-      "Боташев Расул Борисович": 697,
-      "Бытдаев Кемал Курманович": 78,
-      "Джантемиров Мурадин Султанович": 104,
-      "Касаев Алим Халитович": 46,
-      "Коджаков Олег Юнусович": 103,
-      "Маршанкулов Эдуард Муратбиевич": 664,
-      "Нашева Инна Гериевна": 56
+      "gas:candidate-vibid:2092000381878": 39,
+      "gas:candidate-vibid:2092000379483": 103,
+      "gas:candidate-vibid:2092000381744": 697,
+      "gas:candidate-vibid:2092000379471": 78,
+      "gas:candidate-vibid:2092000381900": 104,
+      "gas:candidate-vibid:2092000378363": 46,
+      "gas:candidate-vibid:2092000381671": 103,
+      "gas:candidate-vibid:2092000381682": 664,
+      "gas:candidate-vibid:2092000381919": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 26,
-      "Аюбов Валерий Хусинович": 69,
-      "Боташев Расул Борисович": 465,
-      "Бытдаев Кемал Курманович": 52,
-      "Джантемиров Мурадин Султанович": 69,
-      "Касаев Алим Халитович": 30,
-      "Коджаков Олег Юнусович": 69,
-      "Маршанкулов Эдуард Муратбиевич": 442,
-      "Нашева Инна Гериевна": 37
+      "gas:candidate-vibid:2092000381878": 26,
+      "gas:candidate-vibid:2092000379483": 69,
+      "gas:candidate-vibid:2092000381744": 465,
+      "gas:candidate-vibid:2092000379471": 52,
+      "gas:candidate-vibid:2092000381900": 69,
+      "gas:candidate-vibid:2092000378363": 30,
+      "gas:candidate-vibid:2092000381671": 69,
+      "gas:candidate-vibid:2092000381682": 442,
+      "gas:candidate-vibid:2092000381919": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 38,
-      "Аюбов Валерий Хусинович": 101,
-      "Боташев Расул Борисович": 679,
-      "Бытдаев Кемал Курманович": 76,
-      "Джантемиров Мурадин Султанович": 101,
-      "Касаев Алим Халитович": 44,
-      "Коджаков Олег Юнусович": 100,
-      "Маршанкулов Эдуард Муратбиевич": 645,
-      "Нашева Инна Гериевна": 54
+      "gas:candidate-vibid:2092000381878": 38,
+      "gas:candidate-vibid:2092000379483": 101,
+      "gas:candidate-vibid:2092000381744": 679,
+      "gas:candidate-vibid:2092000379471": 76,
+      "gas:candidate-vibid:2092000381900": 101,
+      "gas:candidate-vibid:2092000378363": 44,
+      "gas:candidate-vibid:2092000381671": 100,
+      "gas:candidate-vibid:2092000381682": 645,
+      "gas:candidate-vibid:2092000381919": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 35,
-      "Аюбов Валерий Хусинович": 93,
-      "Боташев Расул Борисович": 624,
-      "Бытдаев Кемал Курманович": 70,
-      "Джантемиров Мурадин Султанович": 93,
-      "Касаев Алим Халитович": 41,
-      "Коджаков Олег Юнусович": 92,
-      "Маршанкулов Эдуард Муратбиевич": 593,
-      "Нашева Инна Гериевна": 50
+      "gas:candidate-vibid:2092000381878": 35,
+      "gas:candidate-vibid:2092000379483": 93,
+      "gas:candidate-vibid:2092000381744": 624,
+      "gas:candidate-vibid:2092000379471": 70,
+      "gas:candidate-vibid:2092000381900": 93,
+      "gas:candidate-vibid:2092000378363": 41,
+      "gas:candidate-vibid:2092000381671": 92,
+      "gas:candidate-vibid:2092000381682": 593,
+      "gas:candidate-vibid:2092000381919": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 19,
-      "Аюбов Валерий Хусинович": 52,
-      "Боташев Расул Борисович": 343,
-      "Бытдаев Кемал Курманович": 38,
-      "Джантемиров Мурадин Султанович": 51,
-      "Касаев Алим Халитович": 22,
-      "Коджаков Олег Юнусович": 51,
-      "Маршанкулов Эдуард Муратбиевич": 326,
-      "Нашева Инна Гериевна": 27
+      "gas:candidate-vibid:2092000381878": 19,
+      "gas:candidate-vibid:2092000379483": 52,
+      "gas:candidate-vibid:2092000381744": 343,
+      "gas:candidate-vibid:2092000379471": 38,
+      "gas:candidate-vibid:2092000381900": 51,
+      "gas:candidate-vibid:2092000378363": 22,
+      "gas:candidate-vibid:2092000381671": 51,
+      "gas:candidate-vibid:2092000381682": 326,
+      "gas:candidate-vibid:2092000381919": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 32,
-      "Аюбов Валерий Хусинович": 101,
-      "Боташев Расул Борисович": 687,
-      "Бытдаев Кемал Курманович": 76,
-      "Джантемиров Мурадин Султанович": 101,
-      "Касаев Алим Халитович": 45,
-      "Коджаков Олег Юнусович": 101,
-      "Маршанкулов Эдуард Муратбиевич": 647,
-      "Нашева Инна Гериевна": 54
+      "gas:candidate-vibid:2092000381878": 32,
+      "gas:candidate-vibid:2092000379483": 101,
+      "gas:candidate-vibid:2092000381744": 687,
+      "gas:candidate-vibid:2092000379471": 76,
+      "gas:candidate-vibid:2092000381900": 101,
+      "gas:candidate-vibid:2092000378363": 45,
+      "gas:candidate-vibid:2092000381671": 101,
+      "gas:candidate-vibid:2092000381682": 647,
+      "gas:candidate-vibid:2092000381919": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 44,
-      "Аюбов Валерий Хусинович": 115,
-      "Боташев Расул Борисович": 775,
-      "Бытдаев Кемал Курманович": 87,
-      "Джантемиров Мурадин Султанович": 115,
-      "Касаев Алим Халитович": 51,
-      "Коджаков Олег Юнусович": 115,
-      "Маршанкулов Эдуард Муратбиевич": 737,
-      "Нашева Инна Гериевна": 62
+      "gas:candidate-vibid:2092000381878": 44,
+      "gas:candidate-vibid:2092000379483": 115,
+      "gas:candidate-vibid:2092000381744": 775,
+      "gas:candidate-vibid:2092000379471": 87,
+      "gas:candidate-vibid:2092000381900": 115,
+      "gas:candidate-vibid:2092000378363": 51,
+      "gas:candidate-vibid:2092000381671": 115,
+      "gas:candidate-vibid:2092000381682": 737,
+      "gas:candidate-vibid:2092000381919": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 18,
-      "Аюбов Валерий Хусинович": 48,
-      "Боташев Расул Борисович": 321,
-      "Бытдаев Кемал Курманович": 36,
-      "Джантемиров Мурадин Султанович": 48,
-      "Касаев Алим Халитович": 21,
-      "Коджаков Олег Юнусович": 47,
-      "Маршанкулов Эдуард Муратбиевич": 304,
-      "Нашева Инна Гериевна": 26
+      "gas:candidate-vibid:2092000381878": 18,
+      "gas:candidate-vibid:2092000379483": 48,
+      "gas:candidate-vibid:2092000381744": 321,
+      "gas:candidate-vibid:2092000379471": 36,
+      "gas:candidate-vibid:2092000381900": 48,
+      "gas:candidate-vibid:2092000378363": 21,
+      "gas:candidate-vibid:2092000381671": 47,
+      "gas:candidate-vibid:2092000381682": 304,
+      "gas:candidate-vibid:2092000381919": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 22,
-      "Аюбов Валерий Хусинович": 58,
-      "Боташев Расул Борисович": 391,
-      "Бытдаев Кемал Курманович": 44,
-      "Джантемиров Мурадин Султанович": 58,
-      "Касаев Алим Халитович": 26,
-      "Коджаков Олег Юнусович": 58,
-      "Маршанкулов Эдуард Муратбиевич": 372,
-      "Нашева Инна Гериевна": 31
+      "gas:candidate-vibid:2092000381878": 22,
+      "gas:candidate-vibid:2092000379483": 58,
+      "gas:candidate-vibid:2092000381744": 391,
+      "gas:candidate-vibid:2092000379471": 44,
+      "gas:candidate-vibid:2092000381900": 58,
+      "gas:candidate-vibid:2092000378363": 26,
+      "gas:candidate-vibid:2092000381671": 58,
+      "gas:candidate-vibid:2092000381682": 372,
+      "gas:candidate-vibid:2092000381919": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 24,
-      "Аюбов Валерий Хусинович": 63,
-      "Боташев Расул Борисович": 421,
-      "Бытдаев Кемал Курманович": 47,
-      "Джантемиров Мурадин Султанович": 63,
-      "Касаев Алим Халитович": 28,
-      "Коджаков Олег Юнусович": 62,
-      "Маршанкулов Эдуард Муратбиевич": 400,
-      "Нашева Инна Гериевна": 34
+      "gas:candidate-vibid:2092000381878": 24,
+      "gas:candidate-vibid:2092000379483": 63,
+      "gas:candidate-vibid:2092000381744": 421,
+      "gas:candidate-vibid:2092000379471": 47,
+      "gas:candidate-vibid:2092000381900": 63,
+      "gas:candidate-vibid:2092000378363": 28,
+      "gas:candidate-vibid:2092000381671": 62,
+      "gas:candidate-vibid:2092000381682": 400,
+      "gas:candidate-vibid:2092000381919": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 28,
-      "Аюбов Валерий Хусинович": 73,
-      "Боташев Расул Борисович": 491,
-      "Бытдаев Кемал Курманович": 55,
-      "Джантемиров Мурадин Султанович": 73,
-      "Касаев Алим Халитович": 32,
-      "Коджаков Олег Юнусович": 73,
-      "Маршанкулов Эдуард Муратбиевич": 468,
-      "Нашева Инна Гериевна": 39
+      "gas:candidate-vibid:2092000381878": 28,
+      "gas:candidate-vibid:2092000379483": 73,
+      "gas:candidate-vibid:2092000381744": 491,
+      "gas:candidate-vibid:2092000379471": 55,
+      "gas:candidate-vibid:2092000381900": 73,
+      "gas:candidate-vibid:2092000378363": 32,
+      "gas:candidate-vibid:2092000381671": 73,
+      "gas:candidate-vibid:2092000381682": 468,
+      "gas:candidate-vibid:2092000381919": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 41,
-      "Аюбов Валерий Хусинович": 108,
-      "Боташев Расул Борисович": 728,
-      "Бытдаев Кемал Курманович": 82,
-      "Джантемиров Мурадин Султанович": 108,
-      "Касаев Алим Халитович": 48,
-      "Коджаков Олег Юнусович": 108,
-      "Маршанкулов Эдуард Муратбиевич": 692,
-      "Нашева Инна Гериевна": 58
+      "gas:candidate-vibid:2092000381878": 41,
+      "gas:candidate-vibid:2092000379483": 108,
+      "gas:candidate-vibid:2092000381744": 728,
+      "gas:candidate-vibid:2092000379471": 82,
+      "gas:candidate-vibid:2092000381900": 108,
+      "gas:candidate-vibid:2092000378363": 48,
+      "gas:candidate-vibid:2092000381671": 108,
+      "gas:candidate-vibid:2092000381682": 692,
+      "gas:candidate-vibid:2092000381919": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 33,
-      "Аюбов Валерий Хусинович": 87,
-      "Боташев Расул Борисович": 587,
-      "Бытдаев Кемал Курманович": 66,
-      "Джантемиров Мурадин Султанович": 87,
-      "Касаев Алим Халитович": 39,
-      "Коджаков Олег Юнусович": 87,
-      "Маршанкулов Эдуард Муратбиевич": 559,
-      "Нашева Инна Гериевна": 47
+      "gas:candidate-vibid:2092000381878": 33,
+      "gas:candidate-vibid:2092000379483": 87,
+      "gas:candidate-vibid:2092000381744": 587,
+      "gas:candidate-vibid:2092000379471": 66,
+      "gas:candidate-vibid:2092000381900": 87,
+      "gas:candidate-vibid:2092000378363": 39,
+      "gas:candidate-vibid:2092000381671": 87,
+      "gas:candidate-vibid:2092000381682": 559,
+      "gas:candidate-vibid:2092000381919": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 35,
-      "Аюбов Валерий Хусинович": 91,
-      "Боташев Расул Борисович": 616,
-      "Бытдаев Кемал Курманович": 69,
-      "Джантемиров Мурадин Султанович": 91,
-      "Касаев Алим Халитович": 40,
-      "Коджаков Олег Юнусович": 91,
-      "Маршанкулов Эдуард Муратбиевич": 585,
-      "Нашева Инна Гериевна": 49
+      "gas:candidate-vibid:2092000381878": 35,
+      "gas:candidate-vibid:2092000379483": 91,
+      "gas:candidate-vibid:2092000381744": 616,
+      "gas:candidate-vibid:2092000379471": 69,
+      "gas:candidate-vibid:2092000381900": 91,
+      "gas:candidate-vibid:2092000378363": 40,
+      "gas:candidate-vibid:2092000381671": 91,
+      "gas:candidate-vibid:2092000381682": 585,
+      "gas:candidate-vibid:2092000381919": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 37,
-      "Аюбов Валерий Хусинович": 97,
-      "Боташев Расул Борисович": 651,
-      "Бытдаев Кемал Курманович": 73,
-      "Джантемиров Мурадин Султанович": 97,
-      "Касаев Алим Халитович": 43,
-      "Коджаков Олег Юнусович": 97,
-      "Маршанкулов Эдуард Муратбиевич": 619,
-      "Нашева Инна Гериевна": 52
+      "gas:candidate-vibid:2092000381878": 37,
+      "gas:candidate-vibid:2092000379483": 97,
+      "gas:candidate-vibid:2092000381744": 651,
+      "gas:candidate-vibid:2092000379471": 73,
+      "gas:candidate-vibid:2092000381900": 97,
+      "gas:candidate-vibid:2092000378363": 43,
+      "gas:candidate-vibid:2092000381671": 97,
+      "gas:candidate-vibid:2092000381682": 619,
+      "gas:candidate-vibid:2092000381919": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 46,
-      "Аюбов Валерий Хусинович": 122,
-      "Боташев Расул Борисович": 823,
-      "Бытдаев Кемал Курманович": 92,
-      "Джантемиров Мурадин Султанович": 122,
-      "Касаев Алим Халитович": 54,
-      "Коджаков Олег Юнусович": 122,
-      "Маршанкулов Эдуард Муратбиевич": 783,
-      "Нашева Инна Гериевна": 66
+      "gas:candidate-vibid:2092000381878": 46,
+      "gas:candidate-vibid:2092000379483": 122,
+      "gas:candidate-vibid:2092000381744": 823,
+      "gas:candidate-vibid:2092000379471": 92,
+      "gas:candidate-vibid:2092000381900": 122,
+      "gas:candidate-vibid:2092000378363": 54,
+      "gas:candidate-vibid:2092000381671": 122,
+      "gas:candidate-vibid:2092000381682": 783,
+      "gas:candidate-vibid:2092000381919": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 30,
-      "Аюбов Валерий Хусинович": 78,
-      "Боташев Расул Борисович": 551,
-      "Бытдаев Кемал Курманович": 59,
-      "Джантемиров Мурадин Султанович": 78,
-      "Касаев Алим Халитович": 34,
-      "Коджаков Олег Юнусович": 78,
-      "Маршанкулов Эдуард Муратбиевич": 500,
-      "Нашева Инна Гериевна": 42
+      "gas:candidate-vibid:2092000381878": 30,
+      "gas:candidate-vibid:2092000379483": 78,
+      "gas:candidate-vibid:2092000381744": 551,
+      "gas:candidate-vibid:2092000379471": 59,
+      "gas:candidate-vibid:2092000381900": 78,
+      "gas:candidate-vibid:2092000378363": 34,
+      "gas:candidate-vibid:2092000381671": 78,
+      "gas:candidate-vibid:2092000381682": 500,
+      "gas:candidate-vibid:2092000381919": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 46,
-      "Аюбов Валерий Хусинович": 122,
-      "Боташев Расул Борисович": 821,
-      "Бытдаев Кемал Курманович": 92,
-      "Джантемиров Мурадин Султанович": 122,
-      "Касаев Алим Халитович": 54,
-      "Коджаков Олег Юнусович": 122,
-      "Маршанкулов Эдуард Муратбиевич": 781,
-      "Нашева Инна Гериевна": 66
+      "gas:candidate-vibid:2092000381878": 46,
+      "gas:candidate-vibid:2092000379483": 122,
+      "gas:candidate-vibid:2092000381744": 821,
+      "gas:candidate-vibid:2092000379471": 92,
+      "gas:candidate-vibid:2092000381900": 122,
+      "gas:candidate-vibid:2092000378363": 54,
+      "gas:candidate-vibid:2092000381671": 122,
+      "gas:candidate-vibid:2092000381682": 781,
+      "gas:candidate-vibid:2092000381919": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 42,
-      "Аюбов Валерий Хусинович": 111,
-      "Боташев Расул Борисович": 247,
-      "Бытдаев Кемал Курманович": 84,
-      "Джантемиров Мурадин Султанович": 111,
-      "Касаев Алим Халитович": 49,
-      "Коджаков Олег Юнусович": 111,
-      "Маршанкулов Эдуард Муратбиевич": 1210,
-      "Нашева Инна Гериевна": 58
+      "gas:candidate-vibid:2092000381878": 42,
+      "gas:candidate-vibid:2092000379483": 111,
+      "gas:candidate-vibid:2092000381744": 247,
+      "gas:candidate-vibid:2092000379471": 84,
+      "gas:candidate-vibid:2092000381900": 111,
+      "gas:candidate-vibid:2092000378363": 49,
+      "gas:candidate-vibid:2092000381671": 111,
+      "gas:candidate-vibid:2092000381682": 1210,
+      "gas:candidate-vibid:2092000381919": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 44,
-      "Аюбов Валерий Хусинович": 116,
-      "Боташев Расул Борисович": 785,
-      "Бытдаев Кемал Курманович": 88,
-      "Джантемиров Мурадин Султанович": 116,
-      "Касаев Алим Халитович": 51,
-      "Коджаков Олег Юнусович": 116,
-      "Маршанкулов Эдуард Муратбиевич": 746,
-      "Нашева Инна Гериевна": 63
+      "gas:candidate-vibid:2092000381878": 44,
+      "gas:candidate-vibid:2092000379483": 116,
+      "gas:candidate-vibid:2092000381744": 785,
+      "gas:candidate-vibid:2092000379471": 88,
+      "gas:candidate-vibid:2092000381900": 116,
+      "gas:candidate-vibid:2092000378363": 51,
+      "gas:candidate-vibid:2092000381671": 116,
+      "gas:candidate-vibid:2092000381682": 746,
+      "gas:candidate-vibid:2092000381919": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375746&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375746&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 210,
-      "Аюбов Валерий Хусинович": 33,
-      "Боташев Расул Борисович": 387,
-      "Бытдаев Кемал Курманович": 75,
-      "Джантемиров Мурадин Султанович": 78,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 165,
-      "Нашева Инна Гериевна": 328
+      "gas:candidate-vibid:2092000381878": 210,
+      "gas:candidate-vibid:2092000379483": 33,
+      "gas:candidate-vibid:2092000381744": 387,
+      "gas:candidate-vibid:2092000379471": 75,
+      "gas:candidate-vibid:2092000381900": 78,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 165,
+      "gas:candidate-vibid:2092000381919": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375747&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375747&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 195,
-      "Аюбов Валерий Хусинович": 25,
-      "Боташев Расул Борисович": 380,
-      "Бытдаев Кемал Курманович": 68,
-      "Джантемиров Мурадин Султанович": 69,
-      "Касаев Алим Халитович": 7,
-      "Коджаков Олег Юнусович": 3,
-      "Маршанкулов Эдуард Муратбиевич": 228,
-      "Нашева Инна Гериевна": 311
+      "gas:candidate-vibid:2092000381878": 195,
+      "gas:candidate-vibid:2092000379483": 25,
+      "gas:candidate-vibid:2092000381744": 380,
+      "gas:candidate-vibid:2092000379471": 68,
+      "gas:candidate-vibid:2092000381900": 69,
+      "gas:candidate-vibid:2092000378363": 7,
+      "gas:candidate-vibid:2092000381671": 3,
+      "gas:candidate-vibid:2092000381682": 228,
+      "gas:candidate-vibid:2092000381919": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375747&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375747&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 36,
-      "Аюбов Валерий Хусинович": 15,
-      "Боташев Расул Борисович": 255,
-      "Бытдаев Кемал Курманович": 9,
-      "Джантемиров Мурадин Султанович": 5,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 0,
-      "Маршанкулов Эдуард Муратбиевич": 11,
-      "Нашева Инна Гериевна": 16
+      "gas:candidate-vibid:2092000381878": 36,
+      "gas:candidate-vibid:2092000379483": 15,
+      "gas:candidate-vibid:2092000381744": 255,
+      "gas:candidate-vibid:2092000379471": 9,
+      "gas:candidate-vibid:2092000381900": 5,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 0,
+      "gas:candidate-vibid:2092000381682": 11,
+      "gas:candidate-vibid:2092000381919": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375747&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375747&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 421,
-      "Аюбов Валерий Хусинович": 56,
-      "Боташев Расул Борисович": 595,
-      "Бытдаев Кемал Курманович": 248,
-      "Джантемиров Мурадин Султанович": 130,
-      "Касаев Алим Халитович": 18,
-      "Коджаков Олег Юнусович": 15,
-      "Маршанкулов Эдуард Муратбиевич": 380,
-      "Нашева Инна Гериевна": 173
+      "gas:candidate-vibid:2092000381878": 421,
+      "gas:candidate-vibid:2092000379483": 56,
+      "gas:candidate-vibid:2092000381744": 595,
+      "gas:candidate-vibid:2092000379471": 248,
+      "gas:candidate-vibid:2092000381900": 130,
+      "gas:candidate-vibid:2092000378363": 18,
+      "gas:candidate-vibid:2092000381671": 15,
+      "gas:candidate-vibid:2092000381682": 380,
+      "gas:candidate-vibid:2092000381919": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375747&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375747&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 320,
-      "Аюбов Валерий Хусинович": 48,
-      "Боташев Расул Борисович": 572,
-      "Бытдаев Кемал Курманович": 130,
-      "Джантемиров Мурадин Султанович": 121,
-      "Касаев Алим Халитович": 19,
-      "Коджаков Олег Юнусович": 19,
-      "Маршанкулов Эдуард Муратбиевич": 211,
-      "Нашева Инна Гериевна": 166
+      "gas:candidate-vibid:2092000381878": 320,
+      "gas:candidate-vibid:2092000379483": 48,
+      "gas:candidate-vibid:2092000381744": 572,
+      "gas:candidate-vibid:2092000379471": 130,
+      "gas:candidate-vibid:2092000381900": 121,
+      "gas:candidate-vibid:2092000378363": 19,
+      "gas:candidate-vibid:2092000381671": 19,
+      "gas:candidate-vibid:2092000381682": 211,
+      "gas:candidate-vibid:2092000381919": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375747&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375747&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 355,
-      "Аюбов Валерий Хусинович": 48,
-      "Боташев Расул Борисович": 597,
-      "Бытдаев Кемал Курманович": 103,
-      "Джантемиров Мурадин Султанович": 132,
-      "Касаев Алим Халитович": 16,
-      "Коджаков Олег Юнусович": 9,
-      "Маршанкулов Эдуард Муратбиевич": 452,
-      "Нашева Инна Гериевна": 49
+      "gas:candidate-vibid:2092000381878": 355,
+      "gas:candidate-vibid:2092000379483": 48,
+      "gas:candidate-vibid:2092000381744": 597,
+      "gas:candidate-vibid:2092000379471": 103,
+      "gas:candidate-vibid:2092000381900": 132,
+      "gas:candidate-vibid:2092000378363": 16,
+      "gas:candidate-vibid:2092000381671": 9,
+      "gas:candidate-vibid:2092000381682": 452,
+      "gas:candidate-vibid:2092000381919": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375747&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375747&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 110,
-      "Аюбов Валерий Хусинович": 23,
-      "Боташев Расул Борисович": 546,
-      "Бытдаев Кемал Курманович": 152,
-      "Джантемиров Мурадин Султанович": 32,
-      "Касаев Алим Халитович": 9,
-      "Коджаков Олег Юнусович": 6,
-      "Маршанкулов Эдуард Муратбиевич": 381,
-      "Нашева Инна Гериевна": 346
+      "gas:candidate-vibid:2092000381878": 110,
+      "gas:candidate-vibid:2092000379483": 23,
+      "gas:candidate-vibid:2092000381744": 546,
+      "gas:candidate-vibid:2092000379471": 152,
+      "gas:candidate-vibid:2092000381900": 32,
+      "gas:candidate-vibid:2092000378363": 9,
+      "gas:candidate-vibid:2092000381671": 6,
+      "gas:candidate-vibid:2092000381682": 381,
+      "gas:candidate-vibid:2092000381919": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375747&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375747&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 18,
-      "Аюбов Валерий Хусинович": 178,
-      "Боташев Расул Борисович": 772,
-      "Бытдаев Кемал Курманович": 203,
-      "Джантемиров Мурадин Султанович": 19,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 67,
-      "Маршанкулов Эдуард Муратбиевич": 626,
-      "Нашева Инна Гериевна": 11
+      "gas:candidate-vibid:2092000381878": 18,
+      "gas:candidate-vibid:2092000379483": 178,
+      "gas:candidate-vibid:2092000381744": 772,
+      "gas:candidate-vibid:2092000379471": 203,
+      "gas:candidate-vibid:2092000381900": 19,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 67,
+      "gas:candidate-vibid:2092000381682": 626,
+      "gas:candidate-vibid:2092000381919": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 14,
-      "Аюбов Валерий Хусинович": 172,
-      "Боташев Расул Борисович": 550,
-      "Бытдаев Кемал Курманович": 178,
-      "Джантемиров Мурадин Султанович": 43,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 44,
-      "Маршанкулов Эдуард Муратбиевич": 456,
-      "Нашева Инна Гериевна": 12
+      "gas:candidate-vibid:2092000381878": 14,
+      "gas:candidate-vibid:2092000379483": 172,
+      "gas:candidate-vibid:2092000381744": 550,
+      "gas:candidate-vibid:2092000379471": 178,
+      "gas:candidate-vibid:2092000381900": 43,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 44,
+      "gas:candidate-vibid:2092000381682": 456,
+      "gas:candidate-vibid:2092000381919": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 7,
-      "Аюбов Валерий Хусинович": 141,
-      "Боташев Расул Борисович": 589,
-      "Бытдаев Кемал Курманович": 92,
-      "Джантемиров Мурадин Султанович": 8,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 30,
-      "Маршанкулов Эдуард Муратбиевич": 70,
-      "Нашева Инна Гериевна": 5
+      "gas:candidate-vibid:2092000381878": 7,
+      "gas:candidate-vibid:2092000379483": 141,
+      "gas:candidate-vibid:2092000381744": 589,
+      "gas:candidate-vibid:2092000379471": 92,
+      "gas:candidate-vibid:2092000381900": 8,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 30,
+      "gas:candidate-vibid:2092000381682": 70,
+      "gas:candidate-vibid:2092000381919": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 20,
-      "Аюбов Валерий Хусинович": 708,
-      "Боташев Расул Борисович": 866,
-      "Бытдаев Кемал Курманович": 226,
-      "Джантемиров Мурадин Султанович": 28,
-      "Касаев Алим Халитович": 6,
-      "Коджаков Олег Юнусович": 85,
-      "Маршанкулов Эдуард Муратбиевич": 680,
-      "Нашева Инна Гериевна": 18
+      "gas:candidate-vibid:2092000381878": 20,
+      "gas:candidate-vibid:2092000379483": 708,
+      "gas:candidate-vibid:2092000381744": 866,
+      "gas:candidate-vibid:2092000379471": 226,
+      "gas:candidate-vibid:2092000381900": 28,
+      "gas:candidate-vibid:2092000378363": 6,
+      "gas:candidate-vibid:2092000381671": 85,
+      "gas:candidate-vibid:2092000381682": 680,
+      "gas:candidate-vibid:2092000381919": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 3,
-      "Аюбов Валерий Хусинович": 40,
-      "Боташев Расул Борисович": 68,
-      "Бытдаев Кемал Курманович": 15,
-      "Джантемиров Мурадин Султанович": 4,
-      "Касаев Алим Халитович": 2,
-      "Коджаков Олег Юнусович": 5,
-      "Маршанкулов Эдуард Муратбиевич": 10,
-      "Нашева Инна Гериевна": 2
+      "gas:candidate-vibid:2092000381878": 3,
+      "gas:candidate-vibid:2092000379483": 40,
+      "gas:candidate-vibid:2092000381744": 68,
+      "gas:candidate-vibid:2092000379471": 15,
+      "gas:candidate-vibid:2092000381900": 4,
+      "gas:candidate-vibid:2092000378363": 2,
+      "gas:candidate-vibid:2092000381671": 5,
+      "gas:candidate-vibid:2092000381682": 10,
+      "gas:candidate-vibid:2092000381919": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 14,
-      "Аюбов Валерий Хусинович": 173,
-      "Боташев Расул Борисович": 462,
-      "Бытдаев Кемал Курманович": 124,
-      "Джантемиров Мурадин Султанович": 26,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 26,
-      "Маршанкулов Эдуард Муратбиевич": 427,
-      "Нашева Инна Гериевна": 7
+      "gas:candidate-vibid:2092000381878": 14,
+      "gas:candidate-vibid:2092000379483": 173,
+      "gas:candidate-vibid:2092000381744": 462,
+      "gas:candidate-vibid:2092000379471": 124,
+      "gas:candidate-vibid:2092000381900": 26,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 26,
+      "gas:candidate-vibid:2092000381682": 427,
+      "gas:candidate-vibid:2092000381919": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 2,
-      "Аюбов Валерий Хусинович": 18,
-      "Боташев Расул Борисович": 53,
-      "Бытдаев Кемал Курманович": 13,
-      "Джантемиров Мурадин Султанович": 2,
-      "Касаев Алим Халитович": 3,
-      "Коджаков Олег Юнусович": 4,
-      "Маршанкулов Эдуард Муратбиевич": 19,
-      "Нашева Инна Гериевна": 3
+      "gas:candidate-vibid:2092000381878": 2,
+      "gas:candidate-vibid:2092000379483": 18,
+      "gas:candidate-vibid:2092000381744": 53,
+      "gas:candidate-vibid:2092000379471": 13,
+      "gas:candidate-vibid:2092000381900": 2,
+      "gas:candidate-vibid:2092000378363": 3,
+      "gas:candidate-vibid:2092000381671": 4,
+      "gas:candidate-vibid:2092000381682": 19,
+      "gas:candidate-vibid:2092000381919": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_9_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абазов Ахмед Назирович": 9,
-      "Аюбов Валерий Хусинович": 157,
-      "Боташев Расул Борисович": 350,
-      "Бытдаев Кемал Курманович": 101,
-      "Джантемиров Мурадин Султанович": 23,
-      "Касаев Алим Халитович": 5,
-      "Коджаков Олег Юнусович": 21,
-      "Маршанкулов Эдуард Муратбиевич": 289,
-      "Нашева Инна Гериевна": 10
+      "gas:candidate-vibid:2092000381878": 9,
+      "gas:candidate-vibid:2092000379483": 157,
+      "gas:candidate-vibid:2092000381744": 350,
+      "gas:candidate-vibid:2092000379471": 101,
+      "gas:candidate-vibid:2092000381900": 23,
+      "gas:candidate-vibid:2092000378363": 5,
+      "gas:candidate-vibid:2092000381671": 21,
+      "gas:candidate-vibid:2092000381682": 289,
+      "gas:candidate-vibid:2092000381919": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/karachaev-cherkess?action=show&root=1000025&tvd=2092000375748&vrn=100100067795849&region=9&global=&sub_region=9&prver=0&pronetvd=null&vibid=2092000375748&type=464",

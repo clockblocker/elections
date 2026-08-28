@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 6,
-      "Коновалова Нина Николаевна": 5,
-      "Лобода Александр Павлович": 17,
-      "Огиенко Денис Сергеевич": 21,
-      "Резник Владислав Матусович": 2023,
-      "Салов Евгений Иванович": 30
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 6,
+      "gas:candidate-vibid:2012000310865": 5,
+      "gas:candidate-vibid:2012000304413": 17,
+      "gas:candidate-vibid:2012000303330": 21,
+      "gas:candidate-vibid:2012000296989": 2023,
+      "gas:candidate-vibid:2012000308646": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295675&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295675&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 8,
-      "Гукасян Сергей Георгиевич": 4,
-      "Коновалова Нина Николаевна": 6,
-      "Лобода Александр Павлович": 9,
-      "Огиенко Денис Сергеевич": 146,
-      "Резник Владислав Матусович": 1198,
-      "Салов Евгений Иванович": 93
+      "gas:candidate-vibid:2012000310434": 8,
+      "gas:candidate-vibid:2012000308711": 4,
+      "gas:candidate-vibid:2012000310865": 6,
+      "gas:candidate-vibid:2012000304413": 9,
+      "gas:candidate-vibid:2012000303330": 146,
+      "gas:candidate-vibid:2012000296989": 1198,
+      "gas:candidate-vibid:2012000308646": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295675&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295675&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 42,
-      "Гукасян Сергей Георгиевич": 34,
-      "Коновалова Нина Николаевна": 45,
-      "Лобода Александр Павлович": 30,
-      "Огиенко Денис Сергеевич": 54,
-      "Резник Владислав Матусович": 2297,
-      "Салов Евгений Иванович": 101
+      "gas:candidate-vibid:2012000310434": 42,
+      "gas:candidate-vibid:2012000308711": 34,
+      "gas:candidate-vibid:2012000310865": 45,
+      "gas:candidate-vibid:2012000304413": 30,
+      "gas:candidate-vibid:2012000303330": 54,
+      "gas:candidate-vibid:2012000296989": 2297,
+      "gas:candidate-vibid:2012000308646": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295675&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295675&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 21,
-      "Огиенко Денис Сергеевич": 48,
-      "Резник Владислав Матусович": 1672,
-      "Салов Евгений Иванович": 19
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 21,
+      "gas:candidate-vibid:2012000303330": 48,
+      "gas:candidate-vibid:2012000296989": 1672,
+      "gas:candidate-vibid:2012000308646": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295675&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295675&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 12,
-      "Лобода Александр Павлович": 9,
-      "Огиенко Денис Сергеевич": 8,
-      "Резник Владислав Матусович": 254,
-      "Салов Евгений Иванович": 55
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 12,
+      "gas:candidate-vibid:2012000304413": 9,
+      "gas:candidate-vibid:2012000303330": 8,
+      "gas:candidate-vibid:2012000296989": 254,
+      "gas:candidate-vibid:2012000308646": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295675&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295675&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 18,
-      "Огиенко Денис Сергеевич": 11,
-      "Резник Владислав Матусович": 935,
-      "Салов Евгений Иванович": 13
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 18,
+      "gas:candidate-vibid:2012000303330": 11,
+      "gas:candidate-vibid:2012000296989": 935,
+      "gas:candidate-vibid:2012000308646": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295675&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295675&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 60,
-      "Коновалова Нина Николаевна": 129,
-      "Лобода Александр Павлович": 57,
-      "Огиенко Денис Сергеевич": 93,
-      "Резник Владислав Матусович": 439,
-      "Салов Евгений Иванович": 166
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 60,
+      "gas:candidate-vibid:2012000310865": 129,
+      "gas:candidate-vibid:2012000304413": 57,
+      "gas:candidate-vibid:2012000303330": 93,
+      "gas:candidate-vibid:2012000296989": 439,
+      "gas:candidate-vibid:2012000308646": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 36,
-      "Коновалова Нина Николаевна": 99,
-      "Лобода Александр Павлович": 43,
-      "Огиенко Денис Сергеевич": 77,
-      "Резник Владислав Матусович": 355,
-      "Салов Евгений Иванович": 136
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 36,
+      "gas:candidate-vibid:2012000310865": 99,
+      "gas:candidate-vibid:2012000304413": 43,
+      "gas:candidate-vibid:2012000303330": 77,
+      "gas:candidate-vibid:2012000296989": 355,
+      "gas:candidate-vibid:2012000308646": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 52,
-      "Коновалова Нина Николаевна": 169,
-      "Лобода Александр Павлович": 73,
-      "Огиенко Денис Сергеевич": 77,
-      "Резник Владислав Матусович": 423,
-      "Салов Евгений Иванович": 222
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 52,
+      "gas:candidate-vibid:2012000310865": 169,
+      "gas:candidate-vibid:2012000304413": 73,
+      "gas:candidate-vibid:2012000303330": 77,
+      "gas:candidate-vibid:2012000296989": 423,
+      "gas:candidate-vibid:2012000308646": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 22,
-      "Гукасян Сергей Георгиевич": 41,
-      "Коновалова Нина Николаевна": 116,
-      "Лобода Александр Павлович": 46,
-      "Огиенко Денис Сергеевич": 52,
-      "Резник Владислав Матусович": 332,
-      "Салов Евгений Иванович": 187
+      "gas:candidate-vibid:2012000310434": 22,
+      "gas:candidate-vibid:2012000308711": 41,
+      "gas:candidate-vibid:2012000310865": 116,
+      "gas:candidate-vibid:2012000304413": 46,
+      "gas:candidate-vibid:2012000303330": 52,
+      "gas:candidate-vibid:2012000296989": 332,
+      "gas:candidate-vibid:2012000308646": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 14,
-      "Гукасян Сергей Георгиевич": 38,
-      "Коновалова Нина Николаевна": 95,
-      "Лобода Александр Павлович": 41,
-      "Огиенко Денис Сергеевич": 55,
-      "Резник Владислав Матусович": 358,
-      "Салов Евгений Иванович": 120
+      "gas:candidate-vibid:2012000310434": 14,
+      "gas:candidate-vibid:2012000308711": 38,
+      "gas:candidate-vibid:2012000310865": 95,
+      "gas:candidate-vibid:2012000304413": 41,
+      "gas:candidate-vibid:2012000303330": 55,
+      "gas:candidate-vibid:2012000296989": 358,
+      "gas:candidate-vibid:2012000308646": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 19,
-      "Гукасян Сергей Георгиевич": 32,
-      "Коновалова Нина Николаевна": 70,
-      "Лобода Александр Павлович": 23,
-      "Огиенко Денис Сергеевич": 45,
-      "Резник Владислав Матусович": 231,
-      "Салов Евгений Иванович": 79
+      "gas:candidate-vibid:2012000310434": 19,
+      "gas:candidate-vibid:2012000308711": 32,
+      "gas:candidate-vibid:2012000310865": 70,
+      "gas:candidate-vibid:2012000304413": 23,
+      "gas:candidate-vibid:2012000303330": 45,
+      "gas:candidate-vibid:2012000296989": 231,
+      "gas:candidate-vibid:2012000308646": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 14,
-      "Гукасян Сергей Георгиевич": 34,
-      "Коновалова Нина Николаевна": 39,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 62,
-      "Резник Владислав Матусович": 242,
-      "Салов Евгений Иванович": 107
+      "gas:candidate-vibid:2012000310434": 14,
+      "gas:candidate-vibid:2012000308711": 34,
+      "gas:candidate-vibid:2012000310865": 39,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 62,
+      "gas:candidate-vibid:2012000296989": 242,
+      "gas:candidate-vibid:2012000308646": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 11,
-      "Гукасян Сергей Георгиевич": 25,
-      "Коновалова Нина Николаевна": 39,
-      "Лобода Александр Павлович": 21,
-      "Огиенко Денис Сергеевич": 28,
-      "Резник Владислав Матусович": 387,
-      "Салов Евгений Иванович": 87
+      "gas:candidate-vibid:2012000310434": 11,
+      "gas:candidate-vibid:2012000308711": 25,
+      "gas:candidate-vibid:2012000310865": 39,
+      "gas:candidate-vibid:2012000304413": 21,
+      "gas:candidate-vibid:2012000303330": 28,
+      "gas:candidate-vibid:2012000296989": 387,
+      "gas:candidate-vibid:2012000308646": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 8,
-      "Коновалова Нина Николаевна": 7,
-      "Лобода Александр Павлович": 7,
-      "Огиенко Денис Сергеевич": 11,
-      "Резник Владислав Матусович": 48,
-      "Салов Евгений Иванович": 9
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 8,
+      "gas:candidate-vibid:2012000310865": 7,
+      "gas:candidate-vibid:2012000304413": 7,
+      "gas:candidate-vibid:2012000303330": 11,
+      "gas:candidate-vibid:2012000296989": 48,
+      "gas:candidate-vibid:2012000308646": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 9,
-      "Гукасян Сергей Георгиевич": 18,
-      "Коновалова Нина Николаевна": 14,
-      "Лобода Александр Павлович": 7,
-      "Огиенко Денис Сергеевич": 22,
-      "Резник Владислав Матусович": 307,
-      "Салов Евгений Иванович": 42
+      "gas:candidate-vibid:2012000310434": 9,
+      "gas:candidate-vibid:2012000308711": 18,
+      "gas:candidate-vibid:2012000310865": 14,
+      "gas:candidate-vibid:2012000304413": 7,
+      "gas:candidate-vibid:2012000303330": 22,
+      "gas:candidate-vibid:2012000296989": 307,
+      "gas:candidate-vibid:2012000308646": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 5,
-      "Коновалова Нина Николаевна": 6,
-      "Лобода Александр Павлович": 3,
-      "Огиенко Денис Сергеевич": 8,
-      "Резник Владислав Матусович": 58,
-      "Салов Евгений Иванович": 14
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 5,
+      "gas:candidate-vibid:2012000310865": 6,
+      "gas:candidate-vibid:2012000304413": 3,
+      "gas:candidate-vibid:2012000303330": 8,
+      "gas:candidate-vibid:2012000296989": 58,
+      "gas:candidate-vibid:2012000308646": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 1,
-      "Гукасян Сергей Георгиевич": 1,
-      "Коновалова Нина Николаевна": 3,
-      "Лобода Александр Павлович": 1,
-      "Огиенко Денис Сергеевич": 6,
-      "Резник Владислав Матусович": 9,
-      "Салов Евгений Иванович": 12
+      "gas:candidate-vibid:2012000310434": 1,
+      "gas:candidate-vibid:2012000308711": 1,
+      "gas:candidate-vibid:2012000310865": 3,
+      "gas:candidate-vibid:2012000304413": 1,
+      "gas:candidate-vibid:2012000303330": 6,
+      "gas:candidate-vibid:2012000296989": 9,
+      "gas:candidate-vibid:2012000308646": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 15,
-      "Гукасян Сергей Георгиевич": 50,
-      "Коновалова Нина Николаевна": 57,
-      "Лобода Александр Павлович": 18,
-      "Огиенко Денис Сергеевич": 22,
-      "Резник Владислав Матусович": 177,
-      "Салов Евгений Иванович": 90
+      "gas:candidate-vibid:2012000310434": 15,
+      "gas:candidate-vibid:2012000308711": 50,
+      "gas:candidate-vibid:2012000310865": 57,
+      "gas:candidate-vibid:2012000304413": 18,
+      "gas:candidate-vibid:2012000303330": 22,
+      "gas:candidate-vibid:2012000296989": 177,
+      "gas:candidate-vibid:2012000308646": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 58,
-      "Лобода Александр Павлович": 16,
-      "Огиенко Денис Сергеевич": 33,
-      "Резник Владислав Матусович": 214,
-      "Салов Евгений Иванович": 110
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 58,
+      "gas:candidate-vibid:2012000304413": 16,
+      "gas:candidate-vibid:2012000303330": 33,
+      "gas:candidate-vibid:2012000296989": 214,
+      "gas:candidate-vibid:2012000308646": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 15,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 45,
-      "Лобода Александр Павлович": 14,
-      "Огиенко Денис Сергеевич": 29,
-      "Резник Владислав Матусович": 172,
-      "Салов Евгений Иванович": 110
+      "gas:candidate-vibid:2012000310434": 15,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 45,
+      "gas:candidate-vibid:2012000304413": 14,
+      "gas:candidate-vibid:2012000303330": 29,
+      "gas:candidate-vibid:2012000296989": 172,
+      "gas:candidate-vibid:2012000308646": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 14,
-      "Коновалова Нина Николаевна": 22,
-      "Лобода Александр Павлович": 10,
-      "Огиенко Денис Сергеевич": 18,
-      "Резник Владислав Матусович": 84,
-      "Салов Евгений Иванович": 72
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 14,
+      "gas:candidate-vibid:2012000310865": 22,
+      "gas:candidate-vibid:2012000304413": 10,
+      "gas:candidate-vibid:2012000303330": 18,
+      "gas:candidate-vibid:2012000296989": 84,
+      "gas:candidate-vibid:2012000308646": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 14,
-      "Гукасян Сергей Георгиевич": 17,
-      "Коновалова Нина Николаевна": 37,
-      "Лобода Александр Павлович": 23,
-      "Огиенко Денис Сергеевич": 23,
-      "Резник Владислав Матусович": 256,
-      "Салов Евгений Иванович": 107
+      "gas:candidate-vibid:2012000310434": 14,
+      "gas:candidate-vibid:2012000308711": 17,
+      "gas:candidate-vibid:2012000310865": 37,
+      "gas:candidate-vibid:2012000304413": 23,
+      "gas:candidate-vibid:2012000303330": 23,
+      "gas:candidate-vibid:2012000296989": 256,
+      "gas:candidate-vibid:2012000308646": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 18,
-      "Коновалова Нина Николаевна": 55,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 57,
-      "Резник Владислав Матусович": 275,
-      "Салов Евгений Иванович": 79
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 18,
+      "gas:candidate-vibid:2012000310865": 55,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 57,
+      "gas:candidate-vibid:2012000296989": 275,
+      "gas:candidate-vibid:2012000308646": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 7,
-      "Коновалова Нина Николаевна": 22,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 46,
-      "Салов Евгений Иванович": 16
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 7,
+      "gas:candidate-vibid:2012000310865": 22,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 46,
+      "gas:candidate-vibid:2012000308646": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 65,
-      "Лобода Александр Павлович": 12,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 116,
-      "Салов Евгений Иванович": 59
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 65,
+      "gas:candidate-vibid:2012000304413": 12,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 116,
+      "gas:candidate-vibid:2012000308646": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 1,
-      "Гукасян Сергей Георгиевич": 2,
-      "Коновалова Нина Николаевна": 10,
-      "Лобода Александр Павлович": 2,
-      "Огиенко Денис Сергеевич": 13,
-      "Резник Владислав Матусович": 61,
-      "Салов Евгений Иванович": 2
+      "gas:candidate-vibid:2012000310434": 1,
+      "gas:candidate-vibid:2012000308711": 2,
+      "gas:candidate-vibid:2012000310865": 10,
+      "gas:candidate-vibid:2012000304413": 2,
+      "gas:candidate-vibid:2012000303330": 13,
+      "gas:candidate-vibid:2012000296989": 61,
+      "gas:candidate-vibid:2012000308646": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 16,
-      "Коновалова Нина Николаевна": 45,
-      "Лобода Александр Павлович": 13,
-      "Огиенко Денис Сергеевич": 16,
-      "Резник Владислав Матусович": 123,
-      "Салов Евгений Иванович": 45
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 16,
+      "gas:candidate-vibid:2012000310865": 45,
+      "gas:candidate-vibid:2012000304413": 13,
+      "gas:candidate-vibid:2012000303330": 16,
+      "gas:candidate-vibid:2012000296989": 123,
+      "gas:candidate-vibid:2012000308646": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 31,
-      "Коновалова Нина Николаевна": 50,
-      "Лобода Александр Павлович": 18,
-      "Огиенко Денис Сергеевич": 43,
-      "Резник Владислав Матусович": 214,
-      "Салов Евгений Иванович": 102
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 31,
+      "gas:candidate-vibid:2012000310865": 50,
+      "gas:candidate-vibid:2012000304413": 18,
+      "gas:candidate-vibid:2012000303330": 43,
+      "gas:candidate-vibid:2012000296989": 214,
+      "gas:candidate-vibid:2012000308646": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 2,
-      "Гукасян Сергей Георгиевич": 5,
-      "Коновалова Нина Николаевна": 8,
-      "Лобода Александр Павлович": 3,
-      "Огиенко Денис Сергеевич": 8,
-      "Резник Владислав Матусович": 27,
-      "Салов Евгений Иванович": 14
+      "gas:candidate-vibid:2012000310434": 2,
+      "gas:candidate-vibid:2012000308711": 5,
+      "gas:candidate-vibid:2012000310865": 8,
+      "gas:candidate-vibid:2012000304413": 3,
+      "gas:candidate-vibid:2012000303330": 8,
+      "gas:candidate-vibid:2012000296989": 27,
+      "gas:candidate-vibid:2012000308646": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295676&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295676&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 16,
-      "Коновалова Нина Николаевна": 42,
-      "Лобода Александр Павлович": 10,
-      "Огиенко Денис Сергеевич": 6,
-      "Резник Владислав Матусович": 1091,
-      "Салов Евгений Иванович": 70
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 16,
+      "gas:candidate-vibid:2012000310865": 42,
+      "gas:candidate-vibid:2012000304413": 10,
+      "gas:candidate-vibid:2012000303330": 6,
+      "gas:candidate-vibid:2012000296989": 1091,
+      "gas:candidate-vibid:2012000308646": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 2,
-      "Коновалова Нина Николаевна": 4,
-      "Лобода Александр Павлович": 3,
-      "Огиенко Денис Сергеевич": 3,
-      "Резник Владислав Матусович": 112,
-      "Салов Евгений Иванович": 3
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 2,
+      "gas:candidate-vibid:2012000310865": 4,
+      "gas:candidate-vibid:2012000304413": 3,
+      "gas:candidate-vibid:2012000303330": 3,
+      "gas:candidate-vibid:2012000296989": 112,
+      "gas:candidate-vibid:2012000308646": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 4,
-      "Коновалова Нина Николаевна": 3,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 5,
-      "Резник Владислав Матусович": 149,
-      "Салов Евгений Иванович": 9
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 4,
+      "gas:candidate-vibid:2012000310865": 3,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 5,
+      "gas:candidate-vibid:2012000296989": 149,
+      "gas:candidate-vibid:2012000308646": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 15,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 6,
-      "Резник Владислав Матусович": 340,
-      "Салов Евгений Иванович": 12
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 15,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 6,
+      "gas:candidate-vibid:2012000296989": 340,
+      "gas:candidate-vibid:2012000308646": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 48,
-      "Коновалова Нина Николаевна": 65,
-      "Лобода Александр Павлович": 30,
-      "Огиенко Денис Сергеевич": 53,
-      "Резник Владислав Матусович": 1211,
-      "Салов Евгений Иванович": 66
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 48,
+      "gas:candidate-vibid:2012000310865": 65,
+      "gas:candidate-vibid:2012000304413": 30,
+      "gas:candidate-vibid:2012000303330": 53,
+      "gas:candidate-vibid:2012000296989": 1211,
+      "gas:candidate-vibid:2012000308646": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 30,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 10,
-      "Резник Владислав Матусович": 357,
-      "Салов Евгений Иванович": 10
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 30,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 10,
+      "gas:candidate-vibid:2012000296989": 357,
+      "gas:candidate-vibid:2012000308646": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 17,
-      "Коновалова Нина Николаевна": 56,
-      "Лобода Александр Павлович": 211,
-      "Огиенко Денис Сергеевич": 27,
-      "Резник Владислав Матусович": 328,
-      "Салов Евгений Иванович": 236
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 17,
+      "gas:candidate-vibid:2012000310865": 56,
+      "gas:candidate-vibid:2012000304413": 211,
+      "gas:candidate-vibid:2012000303330": 27,
+      "gas:candidate-vibid:2012000296989": 328,
+      "gas:candidate-vibid:2012000308646": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 17,
-      "Гукасян Сергей Георгиевич": 17,
-      "Коновалова Нина Николаевна": 54,
-      "Лобода Александр Павлович": 17,
-      "Огиенко Денис Сергеевич": 35,
-      "Резник Владислав Матусович": 792,
-      "Салов Евгений Иванович": 34
+      "gas:candidate-vibid:2012000310434": 17,
+      "gas:candidate-vibid:2012000308711": 17,
+      "gas:candidate-vibid:2012000310865": 54,
+      "gas:candidate-vibid:2012000304413": 17,
+      "gas:candidate-vibid:2012000303330": 35,
+      "gas:candidate-vibid:2012000296989": 792,
+      "gas:candidate-vibid:2012000308646": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 4,
-      "Коновалова Нина Николаевна": 8,
-      "Лобода Александр Павлович": 3,
-      "Огиенко Денис Сергеевич": 3,
-      "Резник Владислав Матусович": 52,
-      "Салов Евгений Иванович": 7
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 4,
+      "gas:candidate-vibid:2012000310865": 8,
+      "gas:candidate-vibid:2012000304413": 3,
+      "gas:candidate-vibid:2012000303330": 3,
+      "gas:candidate-vibid:2012000296989": 52,
+      "gas:candidate-vibid:2012000308646": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 17,
-      "Гукасян Сергей Георгиевич": 35,
-      "Коновалова Нина Николаевна": 196,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 34,
-      "Резник Владислав Матусович": 424,
-      "Салов Евгений Иванович": 106
+      "gas:candidate-vibid:2012000310434": 17,
+      "gas:candidate-vibid:2012000308711": 35,
+      "gas:candidate-vibid:2012000310865": 196,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 34,
+      "gas:candidate-vibid:2012000296989": 424,
+      "gas:candidate-vibid:2012000308646": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 3,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 2,
-      "Резник Владислав Матусович": 929,
-      "Салов Евгений Иванович": 68
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 3,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 2,
+      "gas:candidate-vibid:2012000296989": 929,
+      "gas:candidate-vibid:2012000308646": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 985,
-      "Салов Евгений Иванович": 166
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 985,
+      "gas:candidate-vibid:2012000308646": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 16,
-      "Коновалова Нина Николаевна": 28,
-      "Лобода Александр Павлович": 13,
-      "Огиенко Денис Сергеевич": 16,
-      "Резник Владислав Матусович": 585,
-      "Салов Евгений Иванович": 23
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 16,
+      "gas:candidate-vibid:2012000310865": 28,
+      "gas:candidate-vibid:2012000304413": 13,
+      "gas:candidate-vibid:2012000303330": 16,
+      "gas:candidate-vibid:2012000296989": 585,
+      "gas:candidate-vibid:2012000308646": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 25,
-      "Коновалова Нина Николаевна": 35,
-      "Лобода Александр Павлович": 25,
-      "Огиенко Денис Сергеевич": 17,
-      "Резник Владислав Матусович": 1123,
-      "Салов Евгений Иванович": 83
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 25,
+      "gas:candidate-vibid:2012000310865": 35,
+      "gas:candidate-vibid:2012000304413": 25,
+      "gas:candidate-vibid:2012000303330": 17,
+      "gas:candidate-vibid:2012000296989": 1123,
+      "gas:candidate-vibid:2012000308646": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 273,
-      "Гукасян Сергей Георгиевич": 174,
-      "Коновалова Нина Николаевна": 197,
-      "Лобода Александр Павлович": 177,
-      "Огиенко Денис Сергеевич": 192,
-      "Резник Владислав Матусович": 357,
-      "Салов Евгений Иванович": 296
+      "gas:candidate-vibid:2012000310434": 273,
+      "gas:candidate-vibid:2012000308711": 174,
+      "gas:candidate-vibid:2012000310865": 197,
+      "gas:candidate-vibid:2012000304413": 177,
+      "gas:candidate-vibid:2012000303330": 192,
+      "gas:candidate-vibid:2012000296989": 357,
+      "gas:candidate-vibid:2012000308646": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 221,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 1039,
-      "Салов Евгений Иванович": 527
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 221,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 1039,
+      "gas:candidate-vibid:2012000308646": 527
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 71,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 32,
-      "Лобода Александр Павлович": 150,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 780,
-      "Салов Евгений Иванович": 107
+      "gas:candidate-vibid:2012000310434": 71,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 32,
+      "gas:candidate-vibid:2012000304413": 150,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 780,
+      "gas:candidate-vibid:2012000308646": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 1,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 5,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 81,
-      "Салов Евгений Иванович": 3
+      "gas:candidate-vibid:2012000310434": 1,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 5,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 81,
+      "gas:candidate-vibid:2012000308646": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 19,
-      "Коновалова Нина Николаевна": 22,
-      "Лобода Александр Павлович": 20,
-      "Огиенко Денис Сергеевич": 17,
-      "Резник Владислав Матусович": 516,
-      "Салов Евгений Иванович": 46
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 19,
+      "gas:candidate-vibid:2012000310865": 22,
+      "gas:candidate-vibid:2012000304413": 20,
+      "gas:candidate-vibid:2012000303330": 17,
+      "gas:candidate-vibid:2012000296989": 516,
+      "gas:candidate-vibid:2012000308646": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 154,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 18,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 8,
-      "Резник Владислав Матусович": 266,
-      "Салов Евгений Иванович": 25
+      "gas:candidate-vibid:2012000310434": 154,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 18,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 8,
+      "gas:candidate-vibid:2012000296989": 266,
+      "gas:candidate-vibid:2012000308646": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 14,
-      "Коновалова Нина Николаевна": 10,
-      "Лобода Александр Павлович": 2,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 444,
-      "Салов Евгений Иванович": 37
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 14,
+      "gas:candidate-vibid:2012000310865": 10,
+      "gas:candidate-vibid:2012000304413": 2,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 444,
+      "gas:candidate-vibid:2012000308646": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 455,
-      "Салов Евгений Иванович": 7
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 455,
+      "gas:candidate-vibid:2012000308646": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295677&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295677&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 24,
-      "Гукасян Сергей Георгиевич": 21,
-      "Коновалова Нина Николаевна": 41,
-      "Лобода Александр Павлович": 33,
-      "Огиенко Денис Сергеевич": 25,
-      "Резник Владислав Матусович": 641,
-      "Салов Евгений Иванович": 98
+      "gas:candidate-vibid:2012000310434": 24,
+      "gas:candidate-vibid:2012000308711": 21,
+      "gas:candidate-vibid:2012000310865": 41,
+      "gas:candidate-vibid:2012000304413": 33,
+      "gas:candidate-vibid:2012000303330": 25,
+      "gas:candidate-vibid:2012000296989": 641,
+      "gas:candidate-vibid:2012000308646": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 17,
-      "Гукасян Сергей Георгиевич": 27,
-      "Коновалова Нина Николаевна": 52,
-      "Лобода Александр Павлович": 47,
-      "Огиенко Денис Сергеевич": 48,
-      "Резник Владислав Матусович": 1164,
-      "Салов Евгений Иванович": 96
+      "gas:candidate-vibid:2012000310434": 17,
+      "gas:candidate-vibid:2012000308711": 27,
+      "gas:candidate-vibid:2012000310865": 52,
+      "gas:candidate-vibid:2012000304413": 47,
+      "gas:candidate-vibid:2012000303330": 48,
+      "gas:candidate-vibid:2012000296989": 1164,
+      "gas:candidate-vibid:2012000308646": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 8,
-      "Гукасян Сергей Георгиевич": 21,
-      "Коновалова Нина Николаевна": 42,
-      "Лобода Александр Павлович": 16,
-      "Огиенко Денис Сергеевич": 31,
-      "Резник Владислав Матусович": 690,
-      "Салов Евгений Иванович": 132
+      "gas:candidate-vibid:2012000310434": 8,
+      "gas:candidate-vibid:2012000308711": 21,
+      "gas:candidate-vibid:2012000310865": 42,
+      "gas:candidate-vibid:2012000304413": 16,
+      "gas:candidate-vibid:2012000303330": 31,
+      "gas:candidate-vibid:2012000296989": 690,
+      "gas:candidate-vibid:2012000308646": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 38,
-      "Коновалова Нина Николаевна": 51,
-      "Лобода Александр Павлович": 53,
-      "Огиенко Денис Сергеевич": 88,
-      "Резник Владислав Матусович": 968,
-      "Салов Евгений Иванович": 262
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 38,
+      "gas:candidate-vibid:2012000310865": 51,
+      "gas:candidate-vibid:2012000304413": 53,
+      "gas:candidate-vibid:2012000303330": 88,
+      "gas:candidate-vibid:2012000296989": 968,
+      "gas:candidate-vibid:2012000308646": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 18,
-      "Гукасян Сергей Георгиевич": 39,
-      "Коновалова Нина Николаевна": 110,
-      "Лобода Александр Павлович": 48,
-      "Огиенко Денис Сергеевич": 91,
-      "Резник Владислав Матусович": 748,
-      "Салов Евгений Иванович": 282
+      "gas:candidate-vibid:2012000310434": 18,
+      "gas:candidate-vibid:2012000308711": 39,
+      "gas:candidate-vibid:2012000310865": 110,
+      "gas:candidate-vibid:2012000304413": 48,
+      "gas:candidate-vibid:2012000303330": 91,
+      "gas:candidate-vibid:2012000296989": 748,
+      "gas:candidate-vibid:2012000308646": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 39,
-      "Гукасян Сергей Георгиевич": 37,
-      "Коновалова Нина Николаевна": 103,
-      "Лобода Александр Павлович": 52,
-      "Огиенко Денис Сергеевич": 81,
-      "Резник Владислав Матусович": 1176,
-      "Салов Евгений Иванович": 293
+      "gas:candidate-vibid:2012000310434": 39,
+      "gas:candidate-vibid:2012000308711": 37,
+      "gas:candidate-vibid:2012000310865": 103,
+      "gas:candidate-vibid:2012000304413": 52,
+      "gas:candidate-vibid:2012000303330": 81,
+      "gas:candidate-vibid:2012000296989": 1176,
+      "gas:candidate-vibid:2012000308646": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 8,
-      "Коновалова Нина Николаевна": 18,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 9,
-      "Резник Владислав Матусович": 775,
-      "Салов Евгений Иванович": 35
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 8,
+      "gas:candidate-vibid:2012000310865": 18,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 9,
+      "gas:candidate-vibid:2012000296989": 775,
+      "gas:candidate-vibid:2012000308646": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 11,
-      "Гукасян Сергей Георгиевич": 30,
-      "Коновалова Нина Николаевна": 43,
-      "Лобода Александр Павлович": 13,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 748,
-      "Салов Евгений Иванович": 33
+      "gas:candidate-vibid:2012000310434": 11,
+      "gas:candidate-vibid:2012000308711": 30,
+      "gas:candidate-vibid:2012000310865": 43,
+      "gas:candidate-vibid:2012000304413": 13,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 748,
+      "gas:candidate-vibid:2012000308646": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 35,
-      "Гукасян Сергей Георгиевич": 73,
-      "Коновалова Нина Николаевна": 135,
-      "Лобода Александр Павлович": 48,
-      "Огиенко Денис Сергеевич": 42,
-      "Резник Владислав Матусович": 1093,
-      "Салов Евгений Иванович": 447
+      "gas:candidate-vibid:2012000310434": 35,
+      "gas:candidate-vibid:2012000308711": 73,
+      "gas:candidate-vibid:2012000310865": 135,
+      "gas:candidate-vibid:2012000304413": 48,
+      "gas:candidate-vibid:2012000303330": 42,
+      "gas:candidate-vibid:2012000296989": 1093,
+      "gas:candidate-vibid:2012000308646": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 8,
-      "Гукасян Сергей Георгиевич": 10,
-      "Коновалова Нина Николаевна": 28,
-      "Лобода Александр Павлович": 13,
-      "Огиенко Денис Сергеевич": 44,
-      "Резник Владислав Матусович": 427,
-      "Салов Евгений Иванович": 28
+      "gas:candidate-vibid:2012000310434": 8,
+      "gas:candidate-vibid:2012000308711": 10,
+      "gas:candidate-vibid:2012000310865": 28,
+      "gas:candidate-vibid:2012000304413": 13,
+      "gas:candidate-vibid:2012000303330": 44,
+      "gas:candidate-vibid:2012000296989": 427,
+      "gas:candidate-vibid:2012000308646": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 19,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 10,
-      "Резник Владислав Матусович": 651,
-      "Салов Евгений Иванович": 36
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 19,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 10,
+      "gas:candidate-vibid:2012000296989": 651,
+      "gas:candidate-vibid:2012000308646": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 36,
-      "Лобода Александр Павлович": 23,
-      "Огиенко Денис Сергеевич": 21,
-      "Резник Владислав Матусович": 456,
-      "Салов Евгений Иванович": 35
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 36,
+      "gas:candidate-vibid:2012000304413": 23,
+      "gas:candidate-vibid:2012000303330": 21,
+      "gas:candidate-vibid:2012000296989": 456,
+      "gas:candidate-vibid:2012000308646": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 10,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 204,
-      "Салов Евгений Иванович": 42
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 10,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 204,
+      "gas:candidate-vibid:2012000308646": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 16,
-      "Коновалова Нина Николаевна": 12,
-      "Лобода Александр Павлович": 8,
-      "Огиенко Денис Сергеевич": 18,
-      "Резник Владислав Матусович": 269,
-      "Салов Евгений Иванович": 15
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 16,
+      "gas:candidate-vibid:2012000310865": 12,
+      "gas:candidate-vibid:2012000304413": 8,
+      "gas:candidate-vibid:2012000303330": 18,
+      "gas:candidate-vibid:2012000296989": 269,
+      "gas:candidate-vibid:2012000308646": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 2,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 18,
-      "Резник Владислав Матусович": 640,
-      "Салов Евгений Иванович": 30
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 2,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 18,
+      "gas:candidate-vibid:2012000296989": 640,
+      "gas:candidate-vibid:2012000308646": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 18,
-      "Коновалова Нина Николаевна": 24,
-      "Лобода Александр Павлович": 9,
-      "Огиенко Денис Сергеевич": 39,
-      "Резник Владислав Матусович": 651,
-      "Салов Евгений Иванович": 59
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 18,
+      "gas:candidate-vibid:2012000310865": 24,
+      "gas:candidate-vibid:2012000304413": 9,
+      "gas:candidate-vibid:2012000303330": 39,
+      "gas:candidate-vibid:2012000296989": 651,
+      "gas:candidate-vibid:2012000308646": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 7,
-      "Коновалова Нина Николаевна": 12,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 15,
-      "Резник Владислав Матусович": 216,
-      "Салов Евгений Иванович": 23
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 7,
+      "gas:candidate-vibid:2012000310865": 12,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 15,
+      "gas:candidate-vibid:2012000296989": 216,
+      "gas:candidate-vibid:2012000308646": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 18,
-      "Коновалова Нина Николаевна": 39,
-      "Лобода Александр Павлович": 21,
-      "Огиенко Денис Сергеевич": 36,
-      "Резник Владислав Матусович": 1043,
-      "Салов Евгений Иванович": 48
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 18,
+      "gas:candidate-vibid:2012000310865": 39,
+      "gas:candidate-vibid:2012000304413": 21,
+      "gas:candidate-vibid:2012000303330": 36,
+      "gas:candidate-vibid:2012000296989": 1043,
+      "gas:candidate-vibid:2012000308646": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 1,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 467,
-      "Салов Евгений Иванович": 13
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 1,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 467,
+      "gas:candidate-vibid:2012000308646": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 11,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 260,
-      "Салов Евгений Иванович": 14
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 11,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 260,
+      "gas:candidate-vibid:2012000308646": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 8,
-      "Коновалова Нина Николаевна": 8,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 6,
-      "Резник Владислав Матусович": 1037,
-      "Салов Евгений Иванович": 41
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 8,
+      "gas:candidate-vibid:2012000310865": 8,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 6,
+      "gas:candidate-vibid:2012000296989": 1037,
+      "gas:candidate-vibid:2012000308646": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295678&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295678&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 48,
-      "Гукасян Сергей Георгиевич": 46,
-      "Коновалова Нина Николаевна": 129,
-      "Лобода Александр Павлович": 86,
-      "Огиенко Денис Сергеевич": 64,
-      "Резник Владислав Матусович": 520,
-      "Салов Евгений Иванович": 202
+      "gas:candidate-vibid:2012000310434": 48,
+      "gas:candidate-vibid:2012000308711": 46,
+      "gas:candidate-vibid:2012000310865": 129,
+      "gas:candidate-vibid:2012000304413": 86,
+      "gas:candidate-vibid:2012000303330": 64,
+      "gas:candidate-vibid:2012000296989": 520,
+      "gas:candidate-vibid:2012000308646": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 46,
-      "Гукасян Сергей Георгиевич": 78,
-      "Коновалова Нина Николаевна": 114,
-      "Лобода Александр Павлович": 101,
-      "Огиенко Денис Сергеевич": 66,
-      "Резник Владислав Матусович": 486,
-      "Салов Евгений Иванович": 174
+      "gas:candidate-vibid:2012000310434": 46,
+      "gas:candidate-vibid:2012000308711": 78,
+      "gas:candidate-vibid:2012000310865": 114,
+      "gas:candidate-vibid:2012000304413": 101,
+      "gas:candidate-vibid:2012000303330": 66,
+      "gas:candidate-vibid:2012000296989": 486,
+      "gas:candidate-vibid:2012000308646": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 53,
-      "Коновалова Нина Николаевна": 123,
-      "Лобода Александр Павлович": 66,
-      "Огиенко Денис Сергеевич": 51,
-      "Резник Владислав Матусович": 611,
-      "Салов Евгений Иванович": 136
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 53,
+      "gas:candidate-vibid:2012000310865": 123,
+      "gas:candidate-vibid:2012000304413": 66,
+      "gas:candidate-vibid:2012000303330": 51,
+      "gas:candidate-vibid:2012000296989": 611,
+      "gas:candidate-vibid:2012000308646": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 42,
-      "Гукасян Сергей Георгиевич": 90,
-      "Коновалова Нина Николаевна": 110,
-      "Лобода Александр Павлович": 83,
-      "Огиенко Денис Сергеевич": 77,
-      "Резник Владислав Матусович": 512,
-      "Салов Евгений Иванович": 134
+      "gas:candidate-vibid:2012000310434": 42,
+      "gas:candidate-vibid:2012000308711": 90,
+      "gas:candidate-vibid:2012000310865": 110,
+      "gas:candidate-vibid:2012000304413": 83,
+      "gas:candidate-vibid:2012000303330": 77,
+      "gas:candidate-vibid:2012000296989": 512,
+      "gas:candidate-vibid:2012000308646": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 29,
-      "Коновалова Нина Николаевна": 22,
-      "Лобода Александр Павлович": 17,
-      "Огиенко Денис Сергеевич": 14,
-      "Резник Владислав Матусович": 133,
-      "Салов Евгений Иванович": 61
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 29,
+      "gas:candidate-vibid:2012000310865": 22,
+      "gas:candidate-vibid:2012000304413": 17,
+      "gas:candidate-vibid:2012000303330": 14,
+      "gas:candidate-vibid:2012000296989": 133,
+      "gas:candidate-vibid:2012000308646": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 8,
-      "Гукасян Сергей Георгиевич": 18,
-      "Коновалова Нина Николаевна": 44,
-      "Лобода Александр Павлович": 30,
-      "Огиенко Денис Сергеевич": 30,
-      "Резник Владислав Матусович": 302,
-      "Салов Евгений Иванович": 142
+      "gas:candidate-vibid:2012000310434": 8,
+      "gas:candidate-vibid:2012000308711": 18,
+      "gas:candidate-vibid:2012000310865": 44,
+      "gas:candidate-vibid:2012000304413": 30,
+      "gas:candidate-vibid:2012000303330": 30,
+      "gas:candidate-vibid:2012000296989": 302,
+      "gas:candidate-vibid:2012000308646": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 9,
-      "Гукасян Сергей Георгиевич": 109,
-      "Коновалова Нина Николаевна": 18,
-      "Лобода Александр Павлович": 19,
-      "Огиенко Денис Сергеевич": 23,
-      "Резник Владислав Матусович": 186,
-      "Салов Евгений Иванович": 73
+      "gas:candidate-vibid:2012000310434": 9,
+      "gas:candidate-vibid:2012000308711": 109,
+      "gas:candidate-vibid:2012000310865": 18,
+      "gas:candidate-vibid:2012000304413": 19,
+      "gas:candidate-vibid:2012000303330": 23,
+      "gas:candidate-vibid:2012000296989": 186,
+      "gas:candidate-vibid:2012000308646": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 15,
-      "Гукасян Сергей Георгиевич": 24,
-      "Коновалова Нина Николаевна": 34,
-      "Лобода Александр Павлович": 39,
-      "Огиенко Денис Сергеевич": 36,
-      "Резник Владислав Матусович": 393,
-      "Салов Евгений Иванович": 115
+      "gas:candidate-vibid:2012000310434": 15,
+      "gas:candidate-vibid:2012000308711": 24,
+      "gas:candidate-vibid:2012000310865": 34,
+      "gas:candidate-vibid:2012000304413": 39,
+      "gas:candidate-vibid:2012000303330": 36,
+      "gas:candidate-vibid:2012000296989": 393,
+      "gas:candidate-vibid:2012000308646": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 27,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 27,
-      "Резник Владислав Матусович": 235,
-      "Салов Евгений Иванович": 68
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 27,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 27,
+      "gas:candidate-vibid:2012000296989": 235,
+      "gas:candidate-vibid:2012000308646": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 14,
-      "Коновалова Нина Николаевна": 6,
-      "Лобода Александр Павлович": 7,
-      "Огиенко Денис Сергеевич": 2,
-      "Резник Владислав Матусович": 103,
-      "Салов Евгений Иванович": 41
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 14,
+      "gas:candidate-vibid:2012000310865": 6,
+      "gas:candidate-vibid:2012000304413": 7,
+      "gas:candidate-vibid:2012000303330": 2,
+      "gas:candidate-vibid:2012000296989": 103,
+      "gas:candidate-vibid:2012000308646": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 10,
-      "Коновалова Нина Николаевна": 25,
-      "Лобода Александр Павлович": 14,
-      "Огиенко Денис Сергеевич": 20,
-      "Резник Владислав Матусович": 242,
-      "Салов Евгений Иванович": 184
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 10,
+      "gas:candidate-vibid:2012000310865": 25,
+      "gas:candidate-vibid:2012000304413": 14,
+      "gas:candidate-vibid:2012000303330": 20,
+      "gas:candidate-vibid:2012000296989": 242,
+      "gas:candidate-vibid:2012000308646": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 7,
-      "Коновалова Нина Николаевна": 8,
-      "Лобода Александр Павлович": 42,
-      "Огиенко Денис Сергеевич": 7,
-      "Резник Владислав Матусович": 107,
-      "Салов Евгений Иванович": 17
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 7,
+      "gas:candidate-vibid:2012000310865": 8,
+      "gas:candidate-vibid:2012000304413": 42,
+      "gas:candidate-vibid:2012000303330": 7,
+      "gas:candidate-vibid:2012000296989": 107,
+      "gas:candidate-vibid:2012000308646": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 6,
-      "Коновалова Нина Николаевна": 18,
-      "Лобода Александр Павлович": 21,
-      "Огиенко Денис Сергеевич": 8,
-      "Резник Владислав Матусович": 132,
-      "Салов Евгений Иванович": 26
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 6,
+      "gas:candidate-vibid:2012000310865": 18,
+      "gas:candidate-vibid:2012000304413": 21,
+      "gas:candidate-vibid:2012000303330": 8,
+      "gas:candidate-vibid:2012000296989": 132,
+      "gas:candidate-vibid:2012000308646": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 11,
-      "Гукасян Сергей Георгиевич": 20,
-      "Коновалова Нина Николаевна": 42,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 26,
-      "Резник Владислав Матусович": 150,
-      "Салов Евгений Иванович": 193
+      "gas:candidate-vibid:2012000310434": 11,
+      "gas:candidate-vibid:2012000308711": 20,
+      "gas:candidate-vibid:2012000310865": 42,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 26,
+      "gas:candidate-vibid:2012000296989": 150,
+      "gas:candidate-vibid:2012000308646": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 14,
-      "Гукасян Сергей Георгиевич": 21,
-      "Коновалова Нина Николаевна": 56,
-      "Лобода Александр Павлович": 36,
-      "Огиенко Денис Сергеевич": 44,
-      "Резник Владислав Матусович": 190,
-      "Салов Евгений Иванович": 221
+      "gas:candidate-vibid:2012000310434": 14,
+      "gas:candidate-vibid:2012000308711": 21,
+      "gas:candidate-vibid:2012000310865": 56,
+      "gas:candidate-vibid:2012000304413": 36,
+      "gas:candidate-vibid:2012000303330": 44,
+      "gas:candidate-vibid:2012000296989": 190,
+      "gas:candidate-vibid:2012000308646": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 19,
-      "Коновалова Нина Николаевна": 47,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 34,
-      "Резник Владислав Матусович": 237,
-      "Салов Евгений Иванович": 162
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 19,
+      "gas:candidate-vibid:2012000310865": 47,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 34,
+      "gas:candidate-vibid:2012000296989": 237,
+      "gas:candidate-vibid:2012000308646": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 17,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 39,
-      "Лобода Александр Павлович": 24,
-      "Огиенко Денис Сергеевич": 54,
-      "Резник Владислав Матусович": 220,
-      "Салов Евгений Иванович": 144
+      "gas:candidate-vibid:2012000310434": 17,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 39,
+      "gas:candidate-vibid:2012000304413": 24,
+      "gas:candidate-vibid:2012000303330": 54,
+      "gas:candidate-vibid:2012000296989": 220,
+      "gas:candidate-vibid:2012000308646": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 2,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 7,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 24,
-      "Салов Евгений Иванович": 7
+      "gas:candidate-vibid:2012000310434": 2,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 7,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 24,
+      "gas:candidate-vibid:2012000308646": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 32,
-      "Лобода Александр Павлович": 14,
-      "Огиенко Денис Сергеевич": 15,
-      "Резник Владислав Матусович": 241,
-      "Салов Евгений Иванович": 92
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 32,
+      "gas:candidate-vibid:2012000304413": 14,
+      "gas:candidate-vibid:2012000303330": 15,
+      "gas:candidate-vibid:2012000296989": 241,
+      "gas:candidate-vibid:2012000308646": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 1,
-      "Коновалова Нина Николаевна": 6,
-      "Лобода Александр Павлович": 1,
-      "Огиенко Денис Сергеевич": 3,
-      "Резник Владислав Матусович": 87,
-      "Салов Евгений Иванович": 9
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 1,
+      "gas:candidate-vibid:2012000310865": 6,
+      "gas:candidate-vibid:2012000304413": 1,
+      "gas:candidate-vibid:2012000303330": 3,
+      "gas:candidate-vibid:2012000296989": 87,
+      "gas:candidate-vibid:2012000308646": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 1,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 8,
-      "Лобода Александр Павлович": 18,
-      "Огиенко Денис Сергеевич": 6,
-      "Резник Владислав Матусович": 69,
-      "Салов Евгений Иванович": 7
+      "gas:candidate-vibid:2012000310434": 1,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 8,
+      "gas:candidate-vibid:2012000304413": 18,
+      "gas:candidate-vibid:2012000303330": 6,
+      "gas:candidate-vibid:2012000296989": 69,
+      "gas:candidate-vibid:2012000308646": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 19,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 15,
-      "Лобода Александр Павлович": 1,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 136,
-      "Салов Евгений Иванович": 72
+      "gas:candidate-vibid:2012000310434": 19,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 15,
+      "gas:candidate-vibid:2012000304413": 1,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 136,
+      "gas:candidate-vibid:2012000308646": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 24,
-      "Коновалова Нина Николаевна": 39,
-      "Лобода Александр Павлович": 38,
-      "Огиенко Денис Сергеевич": 36,
-      "Резник Владислав Матусович": 439,
-      "Салов Евгений Иванович": 89
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 24,
+      "gas:candidate-vibid:2012000310865": 39,
+      "gas:candidate-vibid:2012000304413": 38,
+      "gas:candidate-vibid:2012000303330": 36,
+      "gas:candidate-vibid:2012000296989": 439,
+      "gas:candidate-vibid:2012000308646": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 2,
-      "Гукасян Сергей Георгиевич": 11,
-      "Коновалова Нина Николаевна": 16,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 18,
-      "Резник Владислав Матусович": 150,
-      "Салов Евгений Иванович": 25
+      "gas:candidate-vibid:2012000310434": 2,
+      "gas:candidate-vibid:2012000308711": 11,
+      "gas:candidate-vibid:2012000310865": 16,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 18,
+      "gas:candidate-vibid:2012000296989": 150,
+      "gas:candidate-vibid:2012000308646": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 50,
-      "Гукасян Сергей Георгиевич": 73,
-      "Коновалова Нина Николаевна": 116,
-      "Лобода Александр Павлович": 72,
-      "Огиенко Денис Сергеевич": 115,
-      "Резник Владислав Матусович": 435,
-      "Салов Евгений Иванович": 140
+      "gas:candidate-vibid:2012000310434": 50,
+      "gas:candidate-vibid:2012000308711": 73,
+      "gas:candidate-vibid:2012000310865": 116,
+      "gas:candidate-vibid:2012000304413": 72,
+      "gas:candidate-vibid:2012000303330": 115,
+      "gas:candidate-vibid:2012000296989": 435,
+      "gas:candidate-vibid:2012000308646": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 46,
-      "Гукасян Сергей Георгиевич": 101,
-      "Коновалова Нина Николаевна": 140,
-      "Лобода Александр Павлович": 83,
-      "Огиенко Денис Сергеевич": 120,
-      "Резник Владислав Матусович": 453,
-      "Салов Евгений Иванович": 177
+      "gas:candidate-vibid:2012000310434": 46,
+      "gas:candidate-vibid:2012000308711": 101,
+      "gas:candidate-vibid:2012000310865": 140,
+      "gas:candidate-vibid:2012000304413": 83,
+      "gas:candidate-vibid:2012000303330": 120,
+      "gas:candidate-vibid:2012000296989": 453,
+      "gas:candidate-vibid:2012000308646": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 24,
-      "Гукасян Сергей Георгиевич": 23,
-      "Коновалова Нина Николаевна": 46,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 63,
-      "Резник Владислав Матусович": 301,
-      "Салов Евгений Иванович": 89
+      "gas:candidate-vibid:2012000310434": 24,
+      "gas:candidate-vibid:2012000308711": 23,
+      "gas:candidate-vibid:2012000310865": 46,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 63,
+      "gas:candidate-vibid:2012000296989": 301,
+      "gas:candidate-vibid:2012000308646": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 16,
-      "Коновалова Нина Николаевна": 34,
-      "Лобода Александр Павлович": 24,
-      "Огиенко Денис Сергеевич": 40,
-      "Резник Владислав Матусович": 78,
-      "Салов Евгений Иванович": 94
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 16,
+      "gas:candidate-vibid:2012000310865": 34,
+      "gas:candidate-vibid:2012000304413": 24,
+      "gas:candidate-vibid:2012000303330": 40,
+      "gas:candidate-vibid:2012000296989": 78,
+      "gas:candidate-vibid:2012000308646": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 16,
-      "Гукасян Сергей Георгиевич": 33,
-      "Коновалова Нина Николаевна": 67,
-      "Лобода Александр Павлович": 44,
-      "Огиенко Денис Сергеевич": 57,
-      "Резник Владислав Матусович": 183,
-      "Салов Евгений Иванович": 148
+      "gas:candidate-vibid:2012000310434": 16,
+      "gas:candidate-vibid:2012000308711": 33,
+      "gas:candidate-vibid:2012000310865": 67,
+      "gas:candidate-vibid:2012000304413": 44,
+      "gas:candidate-vibid:2012000303330": 57,
+      "gas:candidate-vibid:2012000296989": 183,
+      "gas:candidate-vibid:2012000308646": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 22,
-      "Гукасян Сергей Георгиевич": 30,
-      "Коновалова Нина Николаевна": 73,
-      "Лобода Александр Павлович": 36,
-      "Огиенко Денис Сергеевич": 37,
-      "Резник Владислав Матусович": 125,
-      "Салов Евгений Иванович": 102
+      "gas:candidate-vibid:2012000310434": 22,
+      "gas:candidate-vibid:2012000308711": 30,
+      "gas:candidate-vibid:2012000310865": 73,
+      "gas:candidate-vibid:2012000304413": 36,
+      "gas:candidate-vibid:2012000303330": 37,
+      "gas:candidate-vibid:2012000296989": 125,
+      "gas:candidate-vibid:2012000308646": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 9,
-      "Гукасян Сергей Георгиевич": 44,
-      "Коновалова Нина Николаевна": 23,
-      "Лобода Александр Павлович": 12,
-      "Огиенко Денис Сергеевич": 2,
-      "Резник Владислав Матусович": 155,
-      "Салов Евгений Иванович": 44
+      "gas:candidate-vibid:2012000310434": 9,
+      "gas:candidate-vibid:2012000308711": 44,
+      "gas:candidate-vibid:2012000310865": 23,
+      "gas:candidate-vibid:2012000304413": 12,
+      "gas:candidate-vibid:2012000303330": 2,
+      "gas:candidate-vibid:2012000296989": 155,
+      "gas:candidate-vibid:2012000308646": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 20,
-      "Коновалова Нина Николаевна": 30,
-      "Лобода Александр Павлович": 21,
-      "Огиенко Денис Сергеевич": 23,
-      "Резник Владислав Матусович": 85,
-      "Салов Евгений Иванович": 25
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 20,
+      "gas:candidate-vibid:2012000310865": 30,
+      "gas:candidate-vibid:2012000304413": 21,
+      "gas:candidate-vibid:2012000303330": 23,
+      "gas:candidate-vibid:2012000296989": 85,
+      "gas:candidate-vibid:2012000308646": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 151,
-      "Коновалова Нина Николаевна": 42,
-      "Лобода Александр Павлович": 39,
-      "Огиенко Денис Сергеевич": 25,
-      "Резник Владислав Матусович": 149,
-      "Салов Евгений Иванович": 42
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 151,
+      "gas:candidate-vibid:2012000310865": 42,
+      "gas:candidate-vibid:2012000304413": 39,
+      "gas:candidate-vibid:2012000303330": 25,
+      "gas:candidate-vibid:2012000296989": 149,
+      "gas:candidate-vibid:2012000308646": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 16,
-      "Гукасян Сергей Георгиевич": 90,
-      "Коновалова Нина Николаевна": 51,
-      "Лобода Александр Павлович": 31,
-      "Огиенко Денис Сергеевич": 22,
-      "Резник Владислав Матусович": 249,
-      "Салов Евгений Иванович": 53
+      "gas:candidate-vibid:2012000310434": 16,
+      "gas:candidate-vibid:2012000308711": 90,
+      "gas:candidate-vibid:2012000310865": 51,
+      "gas:candidate-vibid:2012000304413": 31,
+      "gas:candidate-vibid:2012000303330": 22,
+      "gas:candidate-vibid:2012000296989": 249,
+      "gas:candidate-vibid:2012000308646": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 23,
-      "Коновалова Нина Николаевна": 11,
-      "Лобода Александр Павлович": 10,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 69,
-      "Салов Евгений Иванович": 17
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 23,
+      "gas:candidate-vibid:2012000310865": 11,
+      "gas:candidate-vibid:2012000304413": 10,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 69,
+      "gas:candidate-vibid:2012000308646": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 157,
-      "Коновалова Нина Николаевна": 10,
-      "Лобода Александр Павлович": 20,
-      "Огиенко Денис Сергеевич": 2,
-      "Резник Владислав Матусович": 85,
-      "Салов Евгений Иванович": 15
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 157,
+      "gas:candidate-vibid:2012000310865": 10,
+      "gas:candidate-vibid:2012000304413": 20,
+      "gas:candidate-vibid:2012000303330": 2,
+      "gas:candidate-vibid:2012000296989": 85,
+      "gas:candidate-vibid:2012000308646": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 74,
-      "Коновалова Нина Николаевна": 15,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 14,
-      "Резник Владислав Матусович": 75,
-      "Салов Евгений Иванович": 19
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 74,
+      "gas:candidate-vibid:2012000310865": 15,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 14,
+      "gas:candidate-vibid:2012000296989": 75,
+      "gas:candidate-vibid:2012000308646": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 11,
-      "Гукасян Сергей Георгиевич": 29,
-      "Коновалова Нина Николаевна": 65,
-      "Лобода Александр Павлович": 26,
-      "Огиенко Денис Сергеевич": 33,
-      "Резник Владислав Матусович": 338,
-      "Салов Евгений Иванович": 122
+      "gas:candidate-vibid:2012000310434": 11,
+      "gas:candidate-vibid:2012000308711": 29,
+      "gas:candidate-vibid:2012000310865": 65,
+      "gas:candidate-vibid:2012000304413": 26,
+      "gas:candidate-vibid:2012000303330": 33,
+      "gas:candidate-vibid:2012000296989": 338,
+      "gas:candidate-vibid:2012000308646": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 42,
-      "Коновалова Нина Николаевна": 40,
-      "Лобода Александр Павлович": 26,
-      "Огиенко Денис Сергеевич": 44,
-      "Резник Владислав Матусович": 187,
-      "Салов Евгений Иванович": 65
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 42,
+      "gas:candidate-vibid:2012000310865": 40,
+      "gas:candidate-vibid:2012000304413": 26,
+      "gas:candidate-vibid:2012000303330": 44,
+      "gas:candidate-vibid:2012000296989": 187,
+      "gas:candidate-vibid:2012000308646": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 54,
-      "Коновалова Нина Николаевна": 56,
-      "Лобода Александр Павлович": 43,
-      "Огиенко Денис Сергеевич": 44,
-      "Резник Владислав Матусович": 225,
-      "Салов Евгений Иванович": 94
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 54,
+      "gas:candidate-vibid:2012000310865": 56,
+      "gas:candidate-vibid:2012000304413": 43,
+      "gas:candidate-vibid:2012000303330": 44,
+      "gas:candidate-vibid:2012000296989": 225,
+      "gas:candidate-vibid:2012000308646": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 10,
-      "Коновалова Нина Николаевна": 15,
-      "Лобода Александр Павлович": 9,
-      "Огиенко Денис Сергеевич": 11,
-      "Резник Владислав Матусович": 62,
-      "Салов Евгений Иванович": 36
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 10,
+      "gas:candidate-vibid:2012000310865": 15,
+      "gas:candidate-vibid:2012000304413": 9,
+      "gas:candidate-vibid:2012000303330": 11,
+      "gas:candidate-vibid:2012000296989": 62,
+      "gas:candidate-vibid:2012000308646": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295679&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295679&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 11,
-      "Коновалова Нина Николаевна": 19,
-      "Лобода Александр Павлович": 27,
-      "Огиенко Денис Сергеевич": 22,
-      "Резник Владислав Матусович": 81,
-      "Салов Евгений Иванович": 69
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 11,
+      "gas:candidate-vibid:2012000310865": 19,
+      "gas:candidate-vibid:2012000304413": 27,
+      "gas:candidate-vibid:2012000303330": 22,
+      "gas:candidate-vibid:2012000296989": 81,
+      "gas:candidate-vibid:2012000308646": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 35,
-      "Гукасян Сергей Георгиевич": 35,
-      "Коновалова Нина Николаевна": 87,
-      "Лобода Александр Павлович": 78,
-      "Огиенко Денис Сергеевич": 56,
-      "Резник Владислав Матусович": 221,
-      "Салов Евгений Иванович": 144
+      "gas:candidate-vibid:2012000310434": 35,
+      "gas:candidate-vibid:2012000308711": 35,
+      "gas:candidate-vibid:2012000310865": 87,
+      "gas:candidate-vibid:2012000304413": 78,
+      "gas:candidate-vibid:2012000303330": 56,
+      "gas:candidate-vibid:2012000296989": 221,
+      "gas:candidate-vibid:2012000308646": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 37,
-      "Гукасян Сергей Георгиевич": 36,
-      "Коновалова Нина Николаевна": 92,
-      "Лобода Александр Павлович": 94,
-      "Огиенко Денис Сергеевич": 85,
-      "Резник Владислав Матусович": 334,
-      "Салов Евгений Иванович": 164
+      "gas:candidate-vibid:2012000310434": 37,
+      "gas:candidate-vibid:2012000308711": 36,
+      "gas:candidate-vibid:2012000310865": 92,
+      "gas:candidate-vibid:2012000304413": 94,
+      "gas:candidate-vibid:2012000303330": 85,
+      "gas:candidate-vibid:2012000296989": 334,
+      "gas:candidate-vibid:2012000308646": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 32,
-      "Гукасян Сергей Георгиевич": 47,
-      "Коновалова Нина Николаевна": 94,
-      "Лобода Александр Павлович": 54,
-      "Огиенко Денис Сергеевич": 81,
-      "Резник Владислав Матусович": 221,
-      "Салов Евгений Иванович": 176
+      "gas:candidate-vibid:2012000310434": 32,
+      "gas:candidate-vibid:2012000308711": 47,
+      "gas:candidate-vibid:2012000310865": 94,
+      "gas:candidate-vibid:2012000304413": 54,
+      "gas:candidate-vibid:2012000303330": 81,
+      "gas:candidate-vibid:2012000296989": 221,
+      "gas:candidate-vibid:2012000308646": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 33,
-      "Гукасян Сергей Георгиевич": 42,
-      "Коновалова Нина Николаевна": 87,
-      "Лобода Александр Павлович": 58,
-      "Огиенко Денис Сергеевич": 59,
-      "Резник Владислав Матусович": 230,
-      "Салов Евгений Иванович": 174
+      "gas:candidate-vibid:2012000310434": 33,
+      "gas:candidate-vibid:2012000308711": 42,
+      "gas:candidate-vibid:2012000310865": 87,
+      "gas:candidate-vibid:2012000304413": 58,
+      "gas:candidate-vibid:2012000303330": 59,
+      "gas:candidate-vibid:2012000296989": 230,
+      "gas:candidate-vibid:2012000308646": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 27,
-      "Гукасян Сергей Георгиевич": 28,
-      "Коновалова Нина Николаевна": 61,
-      "Лобода Александр Павлович": 74,
-      "Огиенко Денис Сергеевич": 72,
-      "Резник Владислав Матусович": 195,
-      "Салов Евгений Иванович": 150
+      "gas:candidate-vibid:2012000310434": 27,
+      "gas:candidate-vibid:2012000308711": 28,
+      "gas:candidate-vibid:2012000310865": 61,
+      "gas:candidate-vibid:2012000304413": 74,
+      "gas:candidate-vibid:2012000303330": 72,
+      "gas:candidate-vibid:2012000296989": 195,
+      "gas:candidate-vibid:2012000308646": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 30,
-      "Гукасян Сергей Георгиевич": 35,
-      "Коновалова Нина Николаевна": 86,
-      "Лобода Александр Павлович": 58,
-      "Огиенко Денис Сергеевич": 65,
-      "Резник Владислав Матусович": 297,
-      "Салов Евгений Иванович": 131
+      "gas:candidate-vibid:2012000310434": 30,
+      "gas:candidate-vibid:2012000308711": 35,
+      "gas:candidate-vibid:2012000310865": 86,
+      "gas:candidate-vibid:2012000304413": 58,
+      "gas:candidate-vibid:2012000303330": 65,
+      "gas:candidate-vibid:2012000296989": 297,
+      "gas:candidate-vibid:2012000308646": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 35,
-      "Гукасян Сергей Георгиевич": 39,
-      "Коновалова Нина Николаевна": 60,
-      "Лобода Александр Павлович": 69,
-      "Огиенко Денис Сергеевич": 71,
-      "Резник Владислав Матусович": 214,
-      "Салов Евгений Иванович": 142
+      "gas:candidate-vibid:2012000310434": 35,
+      "gas:candidate-vibid:2012000308711": 39,
+      "gas:candidate-vibid:2012000310865": 60,
+      "gas:candidate-vibid:2012000304413": 69,
+      "gas:candidate-vibid:2012000303330": 71,
+      "gas:candidate-vibid:2012000296989": 214,
+      "gas:candidate-vibid:2012000308646": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 64,
-      "Гукасян Сергей Георгиевич": 52,
-      "Коновалова Нина Николаевна": 123,
-      "Лобода Александр Павлович": 117,
-      "Огиенко Денис Сергеевич": 147,
-      "Резник Владислав Матусович": 322,
-      "Салов Евгений Иванович": 204
+      "gas:candidate-vibid:2012000310434": 64,
+      "gas:candidate-vibid:2012000308711": 52,
+      "gas:candidate-vibid:2012000310865": 123,
+      "gas:candidate-vibid:2012000304413": 117,
+      "gas:candidate-vibid:2012000303330": 147,
+      "gas:candidate-vibid:2012000296989": 322,
+      "gas:candidate-vibid:2012000308646": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 66,
-      "Гукасян Сергей Георгиевич": 58,
-      "Коновалова Нина Николаевна": 125,
-      "Лобода Александр Павлович": 132,
-      "Огиенко Денис Сергеевич": 153,
-      "Резник Владислав Матусович": 395,
-      "Салов Евгений Иванович": 253
+      "gas:candidate-vibid:2012000310434": 66,
+      "gas:candidate-vibid:2012000308711": 58,
+      "gas:candidate-vibid:2012000310865": 125,
+      "gas:candidate-vibid:2012000304413": 132,
+      "gas:candidate-vibid:2012000303330": 153,
+      "gas:candidate-vibid:2012000296989": 395,
+      "gas:candidate-vibid:2012000308646": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 53,
-      "Гукасян Сергей Георгиевич": 49,
-      "Коновалова Нина Николаевна": 113,
-      "Лобода Александр Павлович": 110,
-      "Огиенко Денис Сергеевич": 105,
-      "Резник Владислав Матусович": 287,
-      "Салов Евгений Иванович": 299
+      "gas:candidate-vibid:2012000310434": 53,
+      "gas:candidate-vibid:2012000308711": 49,
+      "gas:candidate-vibid:2012000310865": 113,
+      "gas:candidate-vibid:2012000304413": 110,
+      "gas:candidate-vibid:2012000303330": 105,
+      "gas:candidate-vibid:2012000296989": 287,
+      "gas:candidate-vibid:2012000308646": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 62,
-      "Гукасян Сергей Георгиевич": 40,
-      "Коновалова Нина Николаевна": 105,
-      "Лобода Александр Павлович": 94,
-      "Огиенко Денис Сергеевич": 107,
-      "Резник Владислав Матусович": 292,
-      "Салов Евгений Иванович": 173
+      "gas:candidate-vibid:2012000310434": 62,
+      "gas:candidate-vibid:2012000308711": 40,
+      "gas:candidate-vibid:2012000310865": 105,
+      "gas:candidate-vibid:2012000304413": 94,
+      "gas:candidate-vibid:2012000303330": 107,
+      "gas:candidate-vibid:2012000296989": 292,
+      "gas:candidate-vibid:2012000308646": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 37,
-      "Коновалова Нина Николаевна": 64,
-      "Лобода Александр Павлович": 73,
-      "Огиенко Денис Сергеевич": 44,
-      "Резник Владислав Матусович": 297,
-      "Салов Евгений Иванович": 142
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 37,
+      "gas:candidate-vibid:2012000310865": 64,
+      "gas:candidate-vibid:2012000304413": 73,
+      "gas:candidate-vibid:2012000303330": 44,
+      "gas:candidate-vibid:2012000296989": 297,
+      "gas:candidate-vibid:2012000308646": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 51,
-      "Гукасян Сергей Георгиевич": 40,
-      "Коновалова Нина Николаевна": 120,
-      "Лобода Александр Павлович": 120,
-      "Огиенко Денис Сергеевич": 93,
-      "Резник Владислав Матусович": 249,
-      "Салов Евгений Иванович": 215
+      "gas:candidate-vibid:2012000310434": 51,
+      "gas:candidate-vibid:2012000308711": 40,
+      "gas:candidate-vibid:2012000310865": 120,
+      "gas:candidate-vibid:2012000304413": 120,
+      "gas:candidate-vibid:2012000303330": 93,
+      "gas:candidate-vibid:2012000296989": 249,
+      "gas:candidate-vibid:2012000308646": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 30,
-      "Гукасян Сергей Георгиевич": 37,
-      "Коновалова Нина Николаевна": 77,
-      "Лобода Александр Павлович": 52,
-      "Огиенко Денис Сергеевич": 50,
-      "Резник Владислав Матусович": 159,
-      "Салов Евгений Иванович": 143
+      "gas:candidate-vibid:2012000310434": 30,
+      "gas:candidate-vibid:2012000308711": 37,
+      "gas:candidate-vibid:2012000310865": 77,
+      "gas:candidate-vibid:2012000304413": 52,
+      "gas:candidate-vibid:2012000303330": 50,
+      "gas:candidate-vibid:2012000296989": 159,
+      "gas:candidate-vibid:2012000308646": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 30,
-      "Гукасян Сергей Георгиевич": 38,
-      "Коновалова Нина Николаевна": 106,
-      "Лобода Александр Павлович": 47,
-      "Огиенко Денис Сергеевич": 80,
-      "Резник Владислав Матусович": 329,
-      "Салов Евгений Иванович": 134
+      "gas:candidate-vibid:2012000310434": 30,
+      "gas:candidate-vibid:2012000308711": 38,
+      "gas:candidate-vibid:2012000310865": 106,
+      "gas:candidate-vibid:2012000304413": 47,
+      "gas:candidate-vibid:2012000303330": 80,
+      "gas:candidate-vibid:2012000296989": 329,
+      "gas:candidate-vibid:2012000308646": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 34,
-      "Гукасян Сергей Георгиевич": 44,
-      "Коновалова Нина Николаевна": 75,
-      "Лобода Александр Павлович": 81,
-      "Огиенко Денис Сергеевич": 54,
-      "Резник Владислав Матусович": 308,
-      "Салов Евгений Иванович": 146
+      "gas:candidate-vibid:2012000310434": 34,
+      "gas:candidate-vibid:2012000308711": 44,
+      "gas:candidate-vibid:2012000310865": 75,
+      "gas:candidate-vibid:2012000304413": 81,
+      "gas:candidate-vibid:2012000303330": 54,
+      "gas:candidate-vibid:2012000296989": 308,
+      "gas:candidate-vibid:2012000308646": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 42,
-      "Гукасян Сергей Георгиевич": 50,
-      "Коновалова Нина Николаевна": 84,
-      "Лобода Александр Павлович": 80,
-      "Огиенко Денис Сергеевич": 108,
-      "Резник Владислав Матусович": 342,
-      "Салов Евгений Иванович": 167
+      "gas:candidate-vibid:2012000310434": 42,
+      "gas:candidate-vibid:2012000308711": 50,
+      "gas:candidate-vibid:2012000310865": 84,
+      "gas:candidate-vibid:2012000304413": 80,
+      "gas:candidate-vibid:2012000303330": 108,
+      "gas:candidate-vibid:2012000296989": 342,
+      "gas:candidate-vibid:2012000308646": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 23,
-      "Гукасян Сергей Георгиевич": 25,
-      "Коновалова Нина Николаевна": 105,
-      "Лобода Александр Павлович": 74,
-      "Огиенко Денис Сергеевич": 54,
-      "Резник Владислав Матусович": 212,
-      "Салов Евгений Иванович": 189
+      "gas:candidate-vibid:2012000310434": 23,
+      "gas:candidate-vibid:2012000308711": 25,
+      "gas:candidate-vibid:2012000310865": 105,
+      "gas:candidate-vibid:2012000304413": 74,
+      "gas:candidate-vibid:2012000303330": 54,
+      "gas:candidate-vibid:2012000296989": 212,
+      "gas:candidate-vibid:2012000308646": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 37,
-      "Гукасян Сергей Георгиевич": 23,
-      "Коновалова Нина Николаевна": 88,
-      "Лобода Александр Павлович": 107,
-      "Огиенко Денис Сергеевич": 55,
-      "Резник Владислав Матусович": 210,
-      "Салов Евгений Иванович": 201
+      "gas:candidate-vibid:2012000310434": 37,
+      "gas:candidate-vibid:2012000308711": 23,
+      "gas:candidate-vibid:2012000310865": 88,
+      "gas:candidate-vibid:2012000304413": 107,
+      "gas:candidate-vibid:2012000303330": 55,
+      "gas:candidate-vibid:2012000296989": 210,
+      "gas:candidate-vibid:2012000308646": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 38,
-      "Гукасян Сергей Георгиевич": 29,
-      "Коновалова Нина Николаевна": 77,
-      "Лобода Александр Павлович": 93,
-      "Огиенко Денис Сергеевич": 59,
-      "Резник Владислав Матусович": 234,
-      "Салов Евгений Иванович": 204
+      "gas:candidate-vibid:2012000310434": 38,
+      "gas:candidate-vibid:2012000308711": 29,
+      "gas:candidate-vibid:2012000310865": 77,
+      "gas:candidate-vibid:2012000304413": 93,
+      "gas:candidate-vibid:2012000303330": 59,
+      "gas:candidate-vibid:2012000296989": 234,
+      "gas:candidate-vibid:2012000308646": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 65,
-      "Гукасян Сергей Георгиевич": 31,
-      "Коновалова Нина Николаевна": 78,
-      "Лобода Александр Павлович": 104,
-      "Огиенко Денис Сергеевич": 60,
-      "Резник Владислав Матусович": 225,
-      "Салов Евгений Иванович": 182
+      "gas:candidate-vibid:2012000310434": 65,
+      "gas:candidate-vibid:2012000308711": 31,
+      "gas:candidate-vibid:2012000310865": 78,
+      "gas:candidate-vibid:2012000304413": 104,
+      "gas:candidate-vibid:2012000303330": 60,
+      "gas:candidate-vibid:2012000296989": 225,
+      "gas:candidate-vibid:2012000308646": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 69,
-      "Гукасян Сергей Георгиевич": 50,
-      "Коновалова Нина Николаевна": 114,
-      "Лобода Александр Павлович": 166,
-      "Огиенко Денис Сергеевич": 92,
-      "Резник Владислав Матусович": 345,
-      "Салов Евгений Иванович": 242
+      "gas:candidate-vibid:2012000310434": 69,
+      "gas:candidate-vibid:2012000308711": 50,
+      "gas:candidate-vibid:2012000310865": 114,
+      "gas:candidate-vibid:2012000304413": 166,
+      "gas:candidate-vibid:2012000303330": 92,
+      "gas:candidate-vibid:2012000296989": 345,
+      "gas:candidate-vibid:2012000308646": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 43,
-      "Гукасян Сергей Георгиевич": 43,
-      "Коновалова Нина Николаевна": 87,
-      "Лобода Александр Павлович": 147,
-      "Огиенко Денис Сергеевич": 72,
-      "Резник Владислав Матусович": 271,
-      "Салов Евгений Иванович": 316
+      "gas:candidate-vibid:2012000310434": 43,
+      "gas:candidate-vibid:2012000308711": 43,
+      "gas:candidate-vibid:2012000310865": 87,
+      "gas:candidate-vibid:2012000304413": 147,
+      "gas:candidate-vibid:2012000303330": 72,
+      "gas:candidate-vibid:2012000296989": 271,
+      "gas:candidate-vibid:2012000308646": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 35,
-      "Гукасян Сергей Георгиевич": 28,
-      "Коновалова Нина Николаевна": 71,
-      "Лобода Александр Павлович": 99,
-      "Огиенко Денис Сергеевич": 54,
-      "Резник Владислав Матусович": 187,
-      "Салов Евгений Иванович": 227
+      "gas:candidate-vibid:2012000310434": 35,
+      "gas:candidate-vibid:2012000308711": 28,
+      "gas:candidate-vibid:2012000310865": 71,
+      "gas:candidate-vibid:2012000304413": 99,
+      "gas:candidate-vibid:2012000303330": 54,
+      "gas:candidate-vibid:2012000296989": 187,
+      "gas:candidate-vibid:2012000308646": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 57,
-      "Гукасян Сергей Георгиевич": 38,
-      "Коновалова Нина Николаевна": 169,
-      "Лобода Александр Павлович": 163,
-      "Огиенко Денис Сергеевич": 100,
-      "Резник Владислав Матусович": 264,
-      "Салов Евгений Иванович": 287
+      "gas:candidate-vibid:2012000310434": 57,
+      "gas:candidate-vibid:2012000308711": 38,
+      "gas:candidate-vibid:2012000310865": 169,
+      "gas:candidate-vibid:2012000304413": 163,
+      "gas:candidate-vibid:2012000303330": 100,
+      "gas:candidate-vibid:2012000296989": 264,
+      "gas:candidate-vibid:2012000308646": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 70,
-      "Гукасян Сергей Георгиевич": 49,
-      "Коновалова Нина Николаевна": 122,
-      "Лобода Александр Павлович": 104,
-      "Огиенко Денис Сергеевич": 134,
-      "Резник Владислав Матусович": 378,
-      "Салов Евгений Иванович": 247
+      "gas:candidate-vibid:2012000310434": 70,
+      "gas:candidate-vibid:2012000308711": 49,
+      "gas:candidate-vibid:2012000310865": 122,
+      "gas:candidate-vibid:2012000304413": 104,
+      "gas:candidate-vibid:2012000303330": 134,
+      "gas:candidate-vibid:2012000296989": 378,
+      "gas:candidate-vibid:2012000308646": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 20,
-      "Гукасян Сергей Георгиевич": 20,
-      "Коновалова Нина Николаевна": 58,
-      "Лобода Александр Павлович": 47,
-      "Огиенко Денис Сергеевич": 47,
-      "Резник Владислав Матусович": 176,
-      "Салов Евгений Иванович": 126
+      "gas:candidate-vibid:2012000310434": 20,
+      "gas:candidate-vibid:2012000308711": 20,
+      "gas:candidate-vibid:2012000310865": 58,
+      "gas:candidate-vibid:2012000304413": 47,
+      "gas:candidate-vibid:2012000303330": 47,
+      "gas:candidate-vibid:2012000296989": 176,
+      "gas:candidate-vibid:2012000308646": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 41,
-      "Коновалова Нина Николаевна": 84,
-      "Лобода Александр Павлович": 65,
-      "Огиенко Денис Сергеевич": 65,
-      "Резник Владислав Матусович": 185,
-      "Салов Евгений Иванович": 155
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 41,
+      "gas:candidate-vibid:2012000310865": 84,
+      "gas:candidate-vibid:2012000304413": 65,
+      "gas:candidate-vibid:2012000303330": 65,
+      "gas:candidate-vibid:2012000296989": 185,
+      "gas:candidate-vibid:2012000308646": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 25,
-      "Коновалова Нина Николаевна": 60,
-      "Лобода Александр Павлович": 55,
-      "Огиенко Денис Сергеевич": 49,
-      "Резник Владислав Матусович": 162,
-      "Салов Евгений Иванович": 132
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 25,
+      "gas:candidate-vibid:2012000310865": 60,
+      "gas:candidate-vibid:2012000304413": 55,
+      "gas:candidate-vibid:2012000303330": 49,
+      "gas:candidate-vibid:2012000296989": 162,
+      "gas:candidate-vibid:2012000308646": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 37,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 69,
-      "Лобода Александр Павлович": 80,
-      "Огиенко Денис Сергеевич": 40,
-      "Резник Владислав Матусович": 163,
-      "Салов Евгений Иванович": 154
+      "gas:candidate-vibid:2012000310434": 37,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 69,
+      "gas:candidate-vibid:2012000304413": 80,
+      "gas:candidate-vibid:2012000303330": 40,
+      "gas:candidate-vibid:2012000296989": 163,
+      "gas:candidate-vibid:2012000308646": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 35,
-      "Гукасян Сергей Георгиевич": 23,
-      "Коновалова Нина Николаевна": 50,
-      "Лобода Александр Павлович": 41,
-      "Огиенко Денис Сергеевич": 62,
-      "Резник Владислав Матусович": 183,
-      "Салов Евгений Иванович": 127
+      "gas:candidate-vibid:2012000310434": 35,
+      "gas:candidate-vibid:2012000308711": 23,
+      "gas:candidate-vibid:2012000310865": 50,
+      "gas:candidate-vibid:2012000304413": 41,
+      "gas:candidate-vibid:2012000303330": 62,
+      "gas:candidate-vibid:2012000296989": 183,
+      "gas:candidate-vibid:2012000308646": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 37,
-      "Гукасян Сергей Георгиевич": 39,
-      "Коновалова Нина Николаевна": 86,
-      "Лобода Александр Павлович": 63,
-      "Огиенко Денис Сергеевич": 59,
-      "Резник Владислав Матусович": 225,
-      "Салов Евгений Иванович": 110
+      "gas:candidate-vibid:2012000310434": 37,
+      "gas:candidate-vibid:2012000308711": 39,
+      "gas:candidate-vibid:2012000310865": 86,
+      "gas:candidate-vibid:2012000304413": 63,
+      "gas:candidate-vibid:2012000303330": 59,
+      "gas:candidate-vibid:2012000296989": 225,
+      "gas:candidate-vibid:2012000308646": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 30,
-      "Гукасян Сергей Георгиевич": 22,
-      "Коновалова Нина Николаевна": 93,
-      "Лобода Александр Павлович": 67,
-      "Огиенко Денис Сергеевич": 86,
-      "Резник Владислав Матусович": 276,
-      "Салов Евгений Иванович": 142
+      "gas:candidate-vibid:2012000310434": 30,
+      "gas:candidate-vibid:2012000308711": 22,
+      "gas:candidate-vibid:2012000310865": 93,
+      "gas:candidate-vibid:2012000304413": 67,
+      "gas:candidate-vibid:2012000303330": 86,
+      "gas:candidate-vibid:2012000296989": 276,
+      "gas:candidate-vibid:2012000308646": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 35,
-      "Коновалова Нина Николаевна": 67,
-      "Лобода Александр Павлович": 51,
-      "Огиенко Денис Сергеевич": 62,
-      "Резник Владислав Матусович": 278,
-      "Салов Евгений Иванович": 97
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 35,
+      "gas:candidate-vibid:2012000310865": 67,
+      "gas:candidate-vibid:2012000304413": 51,
+      "gas:candidate-vibid:2012000303330": 62,
+      "gas:candidate-vibid:2012000296989": 278,
+      "gas:candidate-vibid:2012000308646": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 59,
-      "Гукасян Сергей Георгиевич": 53,
-      "Коновалова Нина Николаевна": 137,
-      "Лобода Александр Павлович": 157,
-      "Огиенко Денис Сергеевич": 49,
-      "Резник Владислав Матусович": 293,
-      "Салов Евгений Иванович": 215
+      "gas:candidate-vibid:2012000310434": 59,
+      "gas:candidate-vibid:2012000308711": 53,
+      "gas:candidate-vibid:2012000310865": 137,
+      "gas:candidate-vibid:2012000304413": 157,
+      "gas:candidate-vibid:2012000303330": 49,
+      "gas:candidate-vibid:2012000296989": 293,
+      "gas:candidate-vibid:2012000308646": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 44,
-      "Гукасян Сергей Георгиевич": 64,
-      "Коновалова Нина Николаевна": 124,
-      "Лобода Александр Павлович": 104,
-      "Огиенко Денис Сергеевич": 77,
-      "Резник Владислав Матусович": 203,
-      "Салов Евгений Иванович": 183
+      "gas:candidate-vibid:2012000310434": 44,
+      "gas:candidate-vibid:2012000308711": 64,
+      "gas:candidate-vibid:2012000310865": 124,
+      "gas:candidate-vibid:2012000304413": 104,
+      "gas:candidate-vibid:2012000303330": 77,
+      "gas:candidate-vibid:2012000296989": 203,
+      "gas:candidate-vibid:2012000308646": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 48,
-      "Гукасян Сергей Георгиевич": 29,
-      "Коновалова Нина Николаевна": 141,
-      "Лобода Александр Павлович": 139,
-      "Огиенко Денис Сергеевич": 48,
-      "Резник Владислав Матусович": 322,
-      "Салов Евгений Иванович": 166
+      "gas:candidate-vibid:2012000310434": 48,
+      "gas:candidate-vibid:2012000308711": 29,
+      "gas:candidate-vibid:2012000310865": 141,
+      "gas:candidate-vibid:2012000304413": 139,
+      "gas:candidate-vibid:2012000303330": 48,
+      "gas:candidate-vibid:2012000296989": 322,
+      "gas:candidate-vibid:2012000308646": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 25,
-      "Гукасян Сергей Георгиевич": 48,
-      "Коновалова Нина Николаевна": 151,
-      "Лобода Александр Павлович": 120,
-      "Огиенко Денис Сергеевич": 77,
-      "Резник Владислав Матусович": 277,
-      "Салов Евгений Иванович": 154
+      "gas:candidate-vibid:2012000310434": 25,
+      "gas:candidate-vibid:2012000308711": 48,
+      "gas:candidate-vibid:2012000310865": 151,
+      "gas:candidate-vibid:2012000304413": 120,
+      "gas:candidate-vibid:2012000303330": 77,
+      "gas:candidate-vibid:2012000296989": 277,
+      "gas:candidate-vibid:2012000308646": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 30,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 86,
-      "Лобода Александр Павлович": 76,
-      "Огиенко Денис Сергеевич": 49,
-      "Резник Владислав Матусович": 152,
-      "Салов Евгений Иванович": 108
+      "gas:candidate-vibid:2012000310434": 30,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 86,
+      "gas:candidate-vibid:2012000304413": 76,
+      "gas:candidate-vibid:2012000303330": 49,
+      "gas:candidate-vibid:2012000296989": 152,
+      "gas:candidate-vibid:2012000308646": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 55,
-      "Гукасян Сергей Георгиевич": 47,
-      "Коновалова Нина Николаевна": 60,
-      "Лобода Александр Павлович": 78,
-      "Огиенко Денис Сергеевич": 44,
-      "Резник Владислав Матусович": 221,
-      "Салов Евгений Иванович": 184
+      "gas:candidate-vibid:2012000310434": 55,
+      "gas:candidate-vibid:2012000308711": 47,
+      "gas:candidate-vibid:2012000310865": 60,
+      "gas:candidate-vibid:2012000304413": 78,
+      "gas:candidate-vibid:2012000303330": 44,
+      "gas:candidate-vibid:2012000296989": 221,
+      "gas:candidate-vibid:2012000308646": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 25,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 39,
-      "Лобода Александр Павлович": 34,
-      "Огиенко Денис Сергеевич": 29,
-      "Резник Владислав Матусович": 136,
-      "Салов Евгений Иванович": 91
+      "gas:candidate-vibid:2012000310434": 25,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 39,
+      "gas:candidate-vibid:2012000304413": 34,
+      "gas:candidate-vibid:2012000303330": 29,
+      "gas:candidate-vibid:2012000296989": 136,
+      "gas:candidate-vibid:2012000308646": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 31,
-      "Коновалова Нина Николаевна": 74,
-      "Лобода Александр Павлович": 71,
-      "Огиенко Денис Сергеевич": 62,
-      "Резник Владислав Матусович": 201,
-      "Салов Евгений Иванович": 166
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 31,
+      "gas:candidate-vibid:2012000310865": 74,
+      "gas:candidate-vibid:2012000304413": 71,
+      "gas:candidate-vibid:2012000303330": 62,
+      "gas:candidate-vibid:2012000296989": 201,
+      "gas:candidate-vibid:2012000308646": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 61,
-      "Коновалова Нина Николаевна": 131,
-      "Лобода Александр Павлович": 96,
-      "Огиенко Денис Сергеевич": 106,
-      "Резник Владислав Матусович": 263,
-      "Салов Евгений Иванович": 227
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 61,
+      "gas:candidate-vibid:2012000310865": 131,
+      "gas:candidate-vibid:2012000304413": 96,
+      "gas:candidate-vibid:2012000303330": 106,
+      "gas:candidate-vibid:2012000296989": 263,
+      "gas:candidate-vibid:2012000308646": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 33,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 72,
-      "Лобода Александр Павлович": 62,
-      "Огиенко Денис Сергеевич": 56,
-      "Резник Владислав Матусович": 124,
-      "Салов Евгений Иванович": 141
+      "gas:candidate-vibid:2012000310434": 33,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 72,
+      "gas:candidate-vibid:2012000304413": 62,
+      "gas:candidate-vibid:2012000303330": 56,
+      "gas:candidate-vibid:2012000296989": 124,
+      "gas:candidate-vibid:2012000308646": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 53,
-      "Гукасян Сергей Георгиевич": 45,
-      "Коновалова Нина Николаевна": 203,
-      "Лобода Александр Павлович": 138,
-      "Огиенко Денис Сергеевич": 118,
-      "Резник Владислав Матусович": 505,
-      "Салов Евгений Иванович": 193
+      "gas:candidate-vibid:2012000310434": 53,
+      "gas:candidate-vibid:2012000308711": 45,
+      "gas:candidate-vibid:2012000310865": 203,
+      "gas:candidate-vibid:2012000304413": 138,
+      "gas:candidate-vibid:2012000303330": 118,
+      "gas:candidate-vibid:2012000296989": 505,
+      "gas:candidate-vibid:2012000308646": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 33,
-      "Гукасян Сергей Георгиевич": 55,
-      "Коновалова Нина Николаевна": 102,
-      "Лобода Александр Павлович": 71,
-      "Огиенко Денис Сергеевич": 85,
-      "Резник Владислав Матусович": 585,
-      "Салов Евгений Иванович": 139
+      "gas:candidate-vibid:2012000310434": 33,
+      "gas:candidate-vibid:2012000308711": 55,
+      "gas:candidate-vibid:2012000310865": 102,
+      "gas:candidate-vibid:2012000304413": 71,
+      "gas:candidate-vibid:2012000303330": 85,
+      "gas:candidate-vibid:2012000296989": 585,
+      "gas:candidate-vibid:2012000308646": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 42,
-      "Гукасян Сергей Георгиевич": 32,
-      "Коновалова Нина Николаевна": 133,
-      "Лобода Александр Павлович": 125,
-      "Огиенко Денис Сергеевич": 79,
-      "Резник Владислав Матусович": 370,
-      "Салов Евгений Иванович": 247
+      "gas:candidate-vibid:2012000310434": 42,
+      "gas:candidate-vibid:2012000308711": 32,
+      "gas:candidate-vibid:2012000310865": 133,
+      "gas:candidate-vibid:2012000304413": 125,
+      "gas:candidate-vibid:2012000303330": 79,
+      "gas:candidate-vibid:2012000296989": 370,
+      "gas:candidate-vibid:2012000308646": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 9,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 24,
-      "Лобода Александр Павлович": 33,
-      "Огиенко Денис Сергеевич": 45,
-      "Резник Владислав Матусович": 246,
-      "Салов Евгений Иванович": 59
+      "gas:candidate-vibid:2012000310434": 9,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 24,
+      "gas:candidate-vibid:2012000304413": 33,
+      "gas:candidate-vibid:2012000303330": 45,
+      "gas:candidate-vibid:2012000296989": 246,
+      "gas:candidate-vibid:2012000308646": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 20,
-      "Гукасян Сергей Георгиевич": 14,
-      "Коновалова Нина Николаевна": 18,
-      "Лобода Александр Павлович": 19,
-      "Огиенко Денис Сергеевич": 17,
-      "Резник Владислав Матусович": 51,
-      "Салов Евгений Иванович": 34
+      "gas:candidate-vibid:2012000310434": 20,
+      "gas:candidate-vibid:2012000308711": 14,
+      "gas:candidate-vibid:2012000310865": 18,
+      "gas:candidate-vibid:2012000304413": 19,
+      "gas:candidate-vibid:2012000303330": 17,
+      "gas:candidate-vibid:2012000296989": 51,
+      "gas:candidate-vibid:2012000308646": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 37,
-      "Гукасян Сергей Георгиевич": 39,
-      "Коновалова Нина Николаевна": 101,
-      "Лобода Александр Павлович": 77,
-      "Огиенко Денис Сергеевич": 75,
-      "Резник Владислав Матусович": 310,
-      "Салов Евгений Иванович": 139
+      "gas:candidate-vibid:2012000310434": 37,
+      "gas:candidate-vibid:2012000308711": 39,
+      "gas:candidate-vibid:2012000310865": 101,
+      "gas:candidate-vibid:2012000304413": 77,
+      "gas:candidate-vibid:2012000303330": 75,
+      "gas:candidate-vibid:2012000296989": 310,
+      "gas:candidate-vibid:2012000308646": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 32,
-      "Коновалова Нина Николаевна": 114,
-      "Лобода Александр Павлович": 103,
-      "Огиенко Денис Сергеевич": 83,
-      "Резник Владислав Матусович": 269,
-      "Салов Евгений Иванович": 235
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 32,
+      "gas:candidate-vibid:2012000310865": 114,
+      "gas:candidate-vibid:2012000304413": 103,
+      "gas:candidate-vibid:2012000303330": 83,
+      "gas:candidate-vibid:2012000296989": 269,
+      "gas:candidate-vibid:2012000308646": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 31,
-      "Коновалова Нина Николаевна": 136,
-      "Лобода Александр Павлович": 119,
-      "Огиенко Денис Сергеевич": 81,
-      "Резник Владислав Матусович": 256,
-      "Салов Евгений Иванович": 265
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 31,
+      "gas:candidate-vibid:2012000310865": 136,
+      "gas:candidate-vibid:2012000304413": 119,
+      "gas:candidate-vibid:2012000303330": 81,
+      "gas:candidate-vibid:2012000296989": 256,
+      "gas:candidate-vibid:2012000308646": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 50,
-      "Гукасян Сергей Георгиевич": 49,
-      "Коновалова Нина Николаевна": 165,
-      "Лобода Александр Павлович": 154,
-      "Огиенко Денис Сергеевич": 109,
-      "Резник Владислав Матусович": 296,
-      "Салов Евгений Иванович": 223
+      "gas:candidate-vibid:2012000310434": 50,
+      "gas:candidate-vibid:2012000308711": 49,
+      "gas:candidate-vibid:2012000310865": 165,
+      "gas:candidate-vibid:2012000304413": 154,
+      "gas:candidate-vibid:2012000303330": 109,
+      "gas:candidate-vibid:2012000296989": 296,
+      "gas:candidate-vibid:2012000308646": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 19,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 61,
-      "Лобода Александр Павлович": 44,
-      "Огиенко Денис Сергеевич": 58,
-      "Резник Владислав Матусович": 328,
-      "Салов Евгений Иванович": 105
+      "gas:candidate-vibid:2012000310434": 19,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 61,
+      "gas:candidate-vibid:2012000304413": 44,
+      "gas:candidate-vibid:2012000303330": 58,
+      "gas:candidate-vibid:2012000296989": 328,
+      "gas:candidate-vibid:2012000308646": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 75,
-      "Гукасян Сергей Георгиевич": 97,
-      "Коновалова Нина Николаевна": 178,
-      "Лобода Александр Павлович": 129,
-      "Огиенко Денис Сергеевич": 135,
-      "Резник Владислав Матусович": 381,
-      "Салов Евгений Иванович": 73
+      "gas:candidate-vibid:2012000310434": 75,
+      "gas:candidate-vibid:2012000308711": 97,
+      "gas:candidate-vibid:2012000310865": 178,
+      "gas:candidate-vibid:2012000304413": 129,
+      "gas:candidate-vibid:2012000303330": 135,
+      "gas:candidate-vibid:2012000296989": 381,
+      "gas:candidate-vibid:2012000308646": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 93,
-      "Гукасян Сергей Георгиевич": 57,
-      "Коновалова Нина Николаевна": 98,
-      "Лобода Александр Павлович": 86,
-      "Огиенко Денис Сергеевич": 59,
-      "Резник Владислав Матусович": 409,
-      "Салов Евгений Иванович": 240
+      "gas:candidate-vibid:2012000310434": 93,
+      "gas:candidate-vibid:2012000308711": 57,
+      "gas:candidate-vibid:2012000310865": 98,
+      "gas:candidate-vibid:2012000304413": 86,
+      "gas:candidate-vibid:2012000303330": 59,
+      "gas:candidate-vibid:2012000296989": 409,
+      "gas:candidate-vibid:2012000308646": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 26,
-      "Гукасян Сергей Георгиевич": 57,
-      "Коновалова Нина Николаевна": 72,
-      "Лобода Александр Павлович": 88,
-      "Огиенко Денис Сергеевич": 57,
-      "Резник Владислав Матусович": 410,
-      "Салов Евгений Иванович": 151
+      "gas:candidate-vibid:2012000310434": 26,
+      "gas:candidate-vibid:2012000308711": 57,
+      "gas:candidate-vibid:2012000310865": 72,
+      "gas:candidate-vibid:2012000304413": 88,
+      "gas:candidate-vibid:2012000303330": 57,
+      "gas:candidate-vibid:2012000296989": 410,
+      "gas:candidate-vibid:2012000308646": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 18,
-      "Гукасян Сергей Георгиевич": 18,
-      "Коновалова Нина Николаевна": 15,
-      "Лобода Александр Павлович": 16,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 111,
-      "Салов Евгений Иванович": 35
+      "gas:candidate-vibid:2012000310434": 18,
+      "gas:candidate-vibid:2012000308711": 18,
+      "gas:candidate-vibid:2012000310865": 15,
+      "gas:candidate-vibid:2012000304413": 16,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 111,
+      "gas:candidate-vibid:2012000308646": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 58,
-      "Гукасян Сергей Георгиевич": 25,
-      "Коновалова Нина Николаевна": 86,
-      "Лобода Александр Павлович": 66,
-      "Огиенко Денис Сергеевич": 104,
-      "Резник Владислав Матусович": 407,
-      "Салов Евгений Иванович": 143
+      "gas:candidate-vibid:2012000310434": 58,
+      "gas:candidate-vibid:2012000308711": 25,
+      "gas:candidate-vibid:2012000310865": 86,
+      "gas:candidate-vibid:2012000304413": 66,
+      "gas:candidate-vibid:2012000303330": 104,
+      "gas:candidate-vibid:2012000296989": 407,
+      "gas:candidate-vibid:2012000308646": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 60,
-      "Гукасян Сергей Георгиевич": 28,
-      "Коновалова Нина Николаевна": 96,
-      "Лобода Александр Павлович": 88,
-      "Огиенко Денис Сергеевич": 154,
-      "Резник Владислав Матусович": 413,
-      "Салов Евгений Иванович": 150
+      "gas:candidate-vibid:2012000310434": 60,
+      "gas:candidate-vibid:2012000308711": 28,
+      "gas:candidate-vibid:2012000310865": 96,
+      "gas:candidate-vibid:2012000304413": 88,
+      "gas:candidate-vibid:2012000303330": 154,
+      "gas:candidate-vibid:2012000296989": 413,
+      "gas:candidate-vibid:2012000308646": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 77,
-      "Гукасян Сергей Георгиевич": 29,
-      "Коновалова Нина Николаевна": 59,
-      "Лобода Александр Павлович": 33,
-      "Огиенко Денис Сергеевич": 72,
-      "Резник Владислав Матусович": 238,
-      "Салов Евгений Иванович": 81
+      "gas:candidate-vibid:2012000310434": 77,
+      "gas:candidate-vibid:2012000308711": 29,
+      "gas:candidate-vibid:2012000310865": 59,
+      "gas:candidate-vibid:2012000304413": 33,
+      "gas:candidate-vibid:2012000303330": 72,
+      "gas:candidate-vibid:2012000296989": 238,
+      "gas:candidate-vibid:2012000308646": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 17,
-      "Гукасян Сергей Георгиевич": 19,
-      "Коновалова Нина Николаевна": 42,
-      "Лобода Александр Павлович": 38,
-      "Огиенко Денис Сергеевич": 44,
-      "Резник Владислав Матусович": 218,
-      "Салов Евгений Иванович": 39
+      "gas:candidate-vibid:2012000310434": 17,
+      "gas:candidate-vibid:2012000308711": 19,
+      "gas:candidate-vibid:2012000310865": 42,
+      "gas:candidate-vibid:2012000304413": 38,
+      "gas:candidate-vibid:2012000303330": 44,
+      "gas:candidate-vibid:2012000296989": 218,
+      "gas:candidate-vibid:2012000308646": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 19,
-      "Лобода Александр Павлович": 22,
-      "Огиенко Денис Сергеевич": 11,
-      "Резник Владислав Матусович": 181,
-      "Салов Евгений Иванович": 29
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 19,
+      "gas:candidate-vibid:2012000304413": 22,
+      "gas:candidate-vibid:2012000303330": 11,
+      "gas:candidate-vibid:2012000296989": 181,
+      "gas:candidate-vibid:2012000308646": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 16,
-      "Гукасян Сергей Георгиевич": 24,
-      "Коновалова Нина Николаевна": 38,
-      "Лобода Александр Павлович": 29,
-      "Огиенко Денис Сергеевич": 36,
-      "Резник Владислав Матусович": 262,
-      "Салов Евгений Иванович": 86
+      "gas:candidate-vibid:2012000310434": 16,
+      "gas:candidate-vibid:2012000308711": 24,
+      "gas:candidate-vibid:2012000310865": 38,
+      "gas:candidate-vibid:2012000304413": 29,
+      "gas:candidate-vibid:2012000303330": 36,
+      "gas:candidate-vibid:2012000296989": 262,
+      "gas:candidate-vibid:2012000308646": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 5,
-      "Гукасян Сергей Георгиевич": 8,
-      "Коновалова Нина Николаевна": 2,
-      "Лобода Александр Павлович": 3,
-      "Огиенко Денис Сергеевич": 11,
-      "Резник Владислав Матусович": 133,
-      "Салов Евгений Иванович": 11
+      "gas:candidate-vibid:2012000310434": 5,
+      "gas:candidate-vibid:2012000308711": 8,
+      "gas:candidate-vibid:2012000310865": 2,
+      "gas:candidate-vibid:2012000304413": 3,
+      "gas:candidate-vibid:2012000303330": 11,
+      "gas:candidate-vibid:2012000296989": 133,
+      "gas:candidate-vibid:2012000308646": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 30,
-      "Коновалова Нина Николаевна": 69,
-      "Лобода Александр Павлович": 66,
-      "Огиенко Денис Сергеевич": 61,
-      "Резник Владислав Матусович": 679,
-      "Салов Евгений Иванович": 116
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 30,
+      "gas:candidate-vibid:2012000310865": 69,
+      "gas:candidate-vibid:2012000304413": 66,
+      "gas:candidate-vibid:2012000303330": 61,
+      "gas:candidate-vibid:2012000296989": 679,
+      "gas:candidate-vibid:2012000308646": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 69,
-      "Гукасян Сергей Георгиевич": 37,
-      "Коновалова Нина Николаевна": 64,
-      "Лобода Александр Павлович": 56,
-      "Огиенко Денис Сергеевич": 82,
-      "Резник Владислав Матусович": 282,
-      "Салов Евгений Иванович": 108
+      "gas:candidate-vibid:2012000310434": 69,
+      "gas:candidate-vibid:2012000308711": 37,
+      "gas:candidate-vibid:2012000310865": 64,
+      "gas:candidate-vibid:2012000304413": 56,
+      "gas:candidate-vibid:2012000303330": 82,
+      "gas:candidate-vibid:2012000296989": 282,
+      "gas:candidate-vibid:2012000308646": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 22,
-      "Коновалова Нина Николаевна": 27,
-      "Лобода Александр Павлович": 28,
-      "Огиенко Денис Сергеевич": 21,
-      "Резник Владислав Матусович": 132,
-      "Салов Евгений Иванович": 54
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 22,
+      "gas:candidate-vibid:2012000310865": 27,
+      "gas:candidate-vibid:2012000304413": 28,
+      "gas:candidate-vibid:2012000303330": 21,
+      "gas:candidate-vibid:2012000296989": 132,
+      "gas:candidate-vibid:2012000308646": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 15,
-      "Гукасян Сергей Георгиевич": 22,
-      "Коновалова Нина Николаевна": 45,
-      "Лобода Александр Павлович": 34,
-      "Огиенко Денис Сергеевич": 27,
-      "Резник Владислав Матусович": 79,
-      "Салов Евгений Иванович": 43
+      "gas:candidate-vibid:2012000310434": 15,
+      "gas:candidate-vibid:2012000308711": 22,
+      "gas:candidate-vibid:2012000310865": 45,
+      "gas:candidate-vibid:2012000304413": 34,
+      "gas:candidate-vibid:2012000303330": 27,
+      "gas:candidate-vibid:2012000296989": 79,
+      "gas:candidate-vibid:2012000308646": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 11,
-      "Коновалова Нина Николаевна": 17,
-      "Лобода Александр Павлович": 25,
-      "Огиенко Денис Сергеевич": 7,
-      "Резник Владислав Матусович": 74,
-      "Салов Евгений Иванович": 23
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 11,
+      "gas:candidate-vibid:2012000310865": 17,
+      "gas:candidate-vibid:2012000304413": 25,
+      "gas:candidate-vibid:2012000303330": 7,
+      "gas:candidate-vibid:2012000296989": 74,
+      "gas:candidate-vibid:2012000308646": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295680&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295680&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 20,
-      "Гукасян Сергей Георгиевич": 48,
-      "Коновалова Нина Николаевна": 51,
-      "Лобода Александр Павлович": 26,
-      "Огиенко Денис Сергеевич": 16,
-      "Резник Владислав Матусович": 328,
-      "Салов Евгений Иванович": 100
+      "gas:candidate-vibid:2012000310434": 20,
+      "gas:candidate-vibid:2012000308711": 48,
+      "gas:candidate-vibid:2012000310865": 51,
+      "gas:candidate-vibid:2012000304413": 26,
+      "gas:candidate-vibid:2012000303330": 16,
+      "gas:candidate-vibid:2012000296989": 328,
+      "gas:candidate-vibid:2012000308646": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 48,
-      "Гукасян Сергей Георгиевич": 42,
-      "Коновалова Нина Николаевна": 56,
-      "Лобода Александр Павлович": 37,
-      "Огиенко Денис Сергеевич": 25,
-      "Резник Владислав Матусович": 512,
-      "Салов Евгений Иванович": 111
+      "gas:candidate-vibid:2012000310434": 48,
+      "gas:candidate-vibid:2012000308711": 42,
+      "gas:candidate-vibid:2012000310865": 56,
+      "gas:candidate-vibid:2012000304413": 37,
+      "gas:candidate-vibid:2012000303330": 25,
+      "gas:candidate-vibid:2012000296989": 512,
+      "gas:candidate-vibid:2012000308646": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 44,
-      "Гукасян Сергей Георгиевич": 40,
-      "Коновалова Нина Николаевна": 54,
-      "Лобода Александр Павлович": 40,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 692,
-      "Салов Евгений Иванович": 96
+      "gas:candidate-vibid:2012000310434": 44,
+      "gas:candidate-vibid:2012000308711": 40,
+      "gas:candidate-vibid:2012000310865": 54,
+      "gas:candidate-vibid:2012000304413": 40,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 692,
+      "gas:candidate-vibid:2012000308646": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 22,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 47,
-      "Лобода Александр Павлович": 23,
-      "Огиенко Денис Сергеевич": 25,
-      "Резник Владислав Матусович": 239,
-      "Салов Евгений Иванович": 31
+      "gas:candidate-vibid:2012000310434": 22,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 47,
+      "gas:candidate-vibid:2012000304413": 23,
+      "gas:candidate-vibid:2012000303330": 25,
+      "gas:candidate-vibid:2012000296989": 239,
+      "gas:candidate-vibid:2012000308646": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 8,
-      "Гукасян Сергей Георгиевич": 8,
-      "Коновалова Нина Николаевна": 21,
-      "Лобода Александр Павлович": 9,
-      "Огиенко Денис Сергеевич": 14,
-      "Резник Владислав Матусович": 180,
-      "Салов Евгений Иванович": 18
+      "gas:candidate-vibid:2012000310434": 8,
+      "gas:candidate-vibid:2012000308711": 8,
+      "gas:candidate-vibid:2012000310865": 21,
+      "gas:candidate-vibid:2012000304413": 9,
+      "gas:candidate-vibid:2012000303330": 14,
+      "gas:candidate-vibid:2012000296989": 180,
+      "gas:candidate-vibid:2012000308646": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 6,
-      "Коновалова Нина Николаевна": 7,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 163,
-      "Салов Евгений Иванович": 15
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 6,
+      "gas:candidate-vibid:2012000310865": 7,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 163,
+      "gas:candidate-vibid:2012000308646": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 31,
-      "Гукасян Сергей Георгиевич": 36,
-      "Коновалова Нина Николаевна": 96,
-      "Лобода Александр Павлович": 71,
-      "Огиенко Денис Сергеевич": 77,
-      "Резник Владислав Матусович": 1652,
-      "Салов Евгений Иванович": 124
+      "gas:candidate-vibid:2012000310434": 31,
+      "gas:candidate-vibid:2012000308711": 36,
+      "gas:candidate-vibid:2012000310865": 96,
+      "gas:candidate-vibid:2012000304413": 71,
+      "gas:candidate-vibid:2012000303330": 77,
+      "gas:candidate-vibid:2012000296989": 1652,
+      "gas:candidate-vibid:2012000308646": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 31,
-      "Гукасян Сергей Георгиевич": 28,
-      "Коновалова Нина Николаевна": 55,
-      "Лобода Александр Павлович": 60,
-      "Огиенко Денис Сергеевич": 67,
-      "Резник Владислав Матусович": 1293,
-      "Салов Евгений Иванович": 83
+      "gas:candidate-vibid:2012000310434": 31,
+      "gas:candidate-vibid:2012000308711": 28,
+      "gas:candidate-vibid:2012000310865": 55,
+      "gas:candidate-vibid:2012000304413": 60,
+      "gas:candidate-vibid:2012000303330": 67,
+      "gas:candidate-vibid:2012000296989": 1293,
+      "gas:candidate-vibid:2012000308646": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 18,
-      "Гукасян Сергей Георгиевич": 18,
-      "Коновалова Нина Николаевна": 49,
-      "Лобода Александр Павлович": 64,
-      "Огиенко Денис Сергеевич": 48,
-      "Резник Владислав Матусович": 989,
-      "Салов Евгений Иванович": 96
+      "gas:candidate-vibid:2012000310434": 18,
+      "gas:candidate-vibid:2012000308711": 18,
+      "gas:candidate-vibid:2012000310865": 49,
+      "gas:candidate-vibid:2012000304413": 64,
+      "gas:candidate-vibid:2012000303330": 48,
+      "gas:candidate-vibid:2012000296989": 989,
+      "gas:candidate-vibid:2012000308646": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 26,
-      "Гукасян Сергей Георгиевич": 37,
-      "Коновалова Нина Николаевна": 72,
-      "Лобода Александр Павлович": 224,
-      "Огиенко Денис Сергеевич": 140,
-      "Резник Владислав Матусович": 887,
-      "Салов Евгений Иванович": 79
+      "gas:candidate-vibid:2012000310434": 26,
+      "gas:candidate-vibid:2012000308711": 37,
+      "gas:candidate-vibid:2012000310865": 72,
+      "gas:candidate-vibid:2012000304413": 224,
+      "gas:candidate-vibid:2012000303330": 140,
+      "gas:candidate-vibid:2012000296989": 887,
+      "gas:candidate-vibid:2012000308646": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 32,
-      "Коновалова Нина Николаевна": 79,
-      "Лобода Александр Павлович": 38,
-      "Огиенко Денис Сергеевич": 51,
-      "Резник Владислав Матусович": 429,
-      "Салов Евгений Иванович": 99
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 32,
+      "gas:candidate-vibid:2012000310865": 79,
+      "gas:candidate-vibid:2012000304413": 38,
+      "gas:candidate-vibid:2012000303330": 51,
+      "gas:candidate-vibid:2012000296989": 429,
+      "gas:candidate-vibid:2012000308646": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 31,
-      "Гукасян Сергей Георгиевич": 25,
-      "Коновалова Нина Николаевна": 52,
-      "Лобода Александр Павлович": 46,
-      "Огиенко Денис Сергеевич": 50,
-      "Резник Владислав Матусович": 293,
-      "Салов Евгений Иванович": 63
+      "gas:candidate-vibid:2012000310434": 31,
+      "gas:candidate-vibid:2012000308711": 25,
+      "gas:candidate-vibid:2012000310865": 52,
+      "gas:candidate-vibid:2012000304413": 46,
+      "gas:candidate-vibid:2012000303330": 50,
+      "gas:candidate-vibid:2012000296989": 293,
+      "gas:candidate-vibid:2012000308646": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 16,
-      "Гукасян Сергей Георгиевич": 22,
-      "Коновалова Нина Николаевна": 50,
-      "Лобода Александр Павлович": 30,
-      "Огиенко Денис Сергеевич": 28,
-      "Резник Владислав Матусович": 197,
-      "Салов Евгений Иванович": 57
+      "gas:candidate-vibid:2012000310434": 16,
+      "gas:candidate-vibid:2012000308711": 22,
+      "gas:candidate-vibid:2012000310865": 50,
+      "gas:candidate-vibid:2012000304413": 30,
+      "gas:candidate-vibid:2012000303330": 28,
+      "gas:candidate-vibid:2012000296989": 197,
+      "gas:candidate-vibid:2012000308646": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 28,
-      "Коновалова Нина Николаевна": 55,
-      "Лобода Александр Павлович": 34,
-      "Огиенко Денис Сергеевич": 38,
-      "Резник Владислав Матусович": 946,
-      "Салов Евгений Иванович": 79
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 28,
+      "gas:candidate-vibid:2012000310865": 55,
+      "gas:candidate-vibid:2012000304413": 34,
+      "gas:candidate-vibid:2012000303330": 38,
+      "gas:candidate-vibid:2012000296989": 946,
+      "gas:candidate-vibid:2012000308646": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 10,
-      "Коновалова Нина Николаевна": 9,
-      "Лобода Александр Павлович": 2,
-      "Огиенко Денис Сергеевич": 5,
-      "Резник Владислав Матусович": 93,
-      "Салов Евгений Иванович": 7
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 10,
+      "gas:candidate-vibid:2012000310865": 9,
+      "gas:candidate-vibid:2012000304413": 2,
+      "gas:candidate-vibid:2012000303330": 5,
+      "gas:candidate-vibid:2012000296989": 93,
+      "gas:candidate-vibid:2012000308646": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 12,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 9,
-      "Резник Владислав Матусович": 143,
-      "Салов Евгений Иванович": 7
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 12,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 9,
+      "gas:candidate-vibid:2012000296989": 143,
+      "gas:candidate-vibid:2012000308646": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 9,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 26,
-      "Лобода Александр Павлович": 13,
-      "Огиенко Денис Сергеевич": 15,
-      "Резник Владислав Матусович": 336,
-      "Салов Евгений Иванович": 26
+      "gas:candidate-vibid:2012000310434": 9,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 26,
+      "gas:candidate-vibid:2012000304413": 13,
+      "gas:candidate-vibid:2012000303330": 15,
+      "gas:candidate-vibid:2012000296989": 336,
+      "gas:candidate-vibid:2012000308646": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 16,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 6,
-      "Резник Владислав Матусович": 62,
-      "Салов Евгений Иванович": 17
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 16,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 6,
+      "gas:candidate-vibid:2012000296989": 62,
+      "gas:candidate-vibid:2012000308646": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 41,
-      "Гукасян Сергей Георгиевич": 70,
-      "Коновалова Нина Николаевна": 79,
-      "Лобода Александр Павлович": 39,
-      "Огиенко Денис Сергеевич": 51,
-      "Резник Владислав Матусович": 470,
-      "Салов Евгений Иванович": 57
+      "gas:candidate-vibid:2012000310434": 41,
+      "gas:candidate-vibid:2012000308711": 70,
+      "gas:candidate-vibid:2012000310865": 79,
+      "gas:candidate-vibid:2012000304413": 39,
+      "gas:candidate-vibid:2012000303330": 51,
+      "gas:candidate-vibid:2012000296989": 470,
+      "gas:candidate-vibid:2012000308646": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 22,
-      "Гукасян Сергей Георгиевич": 34,
-      "Коновалова Нина Николаевна": 44,
-      "Лобода Александр Павлович": 43,
-      "Огиенко Денис Сергеевич": 45,
-      "Резник Владислав Матусович": 653,
-      "Салов Евгений Иванович": 64
+      "gas:candidate-vibid:2012000310434": 22,
+      "gas:candidate-vibid:2012000308711": 34,
+      "gas:candidate-vibid:2012000310865": 44,
+      "gas:candidate-vibid:2012000304413": 43,
+      "gas:candidate-vibid:2012000303330": 45,
+      "gas:candidate-vibid:2012000296989": 653,
+      "gas:candidate-vibid:2012000308646": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 39,
-      "Гукасян Сергей Георгиевич": 36,
-      "Коновалова Нина Николаевна": 49,
-      "Лобода Александр Павлович": 40,
-      "Огиенко Денис Сергеевич": 101,
-      "Резник Владислав Матусович": 244,
-      "Салов Евгений Иванович": 75
+      "gas:candidate-vibid:2012000310434": 39,
+      "gas:candidate-vibid:2012000308711": 36,
+      "gas:candidate-vibid:2012000310865": 49,
+      "gas:candidate-vibid:2012000304413": 40,
+      "gas:candidate-vibid:2012000303330": 101,
+      "gas:candidate-vibid:2012000296989": 244,
+      "gas:candidate-vibid:2012000308646": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 14,
-      "Гукасян Сергей Георгиевич": 30,
-      "Коновалова Нина Николаевна": 44,
-      "Лобода Александр Павлович": 26,
-      "Огиенко Денис Сергеевич": 106,
-      "Резник Владислав Матусович": 204,
-      "Салов Евгений Иванович": 54
+      "gas:candidate-vibid:2012000310434": 14,
+      "gas:candidate-vibid:2012000308711": 30,
+      "gas:candidate-vibid:2012000310865": 44,
+      "gas:candidate-vibid:2012000304413": 26,
+      "gas:candidate-vibid:2012000303330": 106,
+      "gas:candidate-vibid:2012000296989": 204,
+      "gas:candidate-vibid:2012000308646": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 45,
-      "Гукасян Сергей Георгиевич": 63,
-      "Коновалова Нина Николаевна": 64,
-      "Лобода Александр Павлович": 61,
-      "Огиенко Денис Сергеевич": 149,
-      "Резник Владислав Матусович": 359,
-      "Салов Евгений Иванович": 127
+      "gas:candidate-vibid:2012000310434": 45,
+      "gas:candidate-vibid:2012000308711": 63,
+      "gas:candidate-vibid:2012000310865": 64,
+      "gas:candidate-vibid:2012000304413": 61,
+      "gas:candidate-vibid:2012000303330": 149,
+      "gas:candidate-vibid:2012000296989": 359,
+      "gas:candidate-vibid:2012000308646": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 30,
-      "Гукасян Сергей Георгиевич": 44,
-      "Коновалова Нина Николаевна": 56,
-      "Лобода Александр Павлович": 43,
-      "Огиенко Денис Сергеевич": 96,
-      "Резник Владислав Матусович": 356,
-      "Салов Евгений Иванович": 81
+      "gas:candidate-vibid:2012000310434": 30,
+      "gas:candidate-vibid:2012000308711": 44,
+      "gas:candidate-vibid:2012000310865": 56,
+      "gas:candidate-vibid:2012000304413": 43,
+      "gas:candidate-vibid:2012000303330": 96,
+      "gas:candidate-vibid:2012000296989": 356,
+      "gas:candidate-vibid:2012000308646": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 51,
-      "Гукасян Сергей Георгиевич": 31,
-      "Коновалова Нина Николаевна": 66,
-      "Лобода Александр Павлович": 48,
-      "Огиенко Денис Сергеевич": 128,
-      "Резник Владислав Матусович": 352,
-      "Салов Евгений Иванович": 110
+      "gas:candidate-vibid:2012000310434": 51,
+      "gas:candidate-vibid:2012000308711": 31,
+      "gas:candidate-vibid:2012000310865": 66,
+      "gas:candidate-vibid:2012000304413": 48,
+      "gas:candidate-vibid:2012000303330": 128,
+      "gas:candidate-vibid:2012000296989": 352,
+      "gas:candidate-vibid:2012000308646": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 20,
-      "Гукасян Сергей Георгиевич": 21,
-      "Коновалова Нина Николаевна": 34,
-      "Лобода Александр Павлович": 36,
-      "Огиенко Денис Сергеевич": 45,
-      "Резник Владислав Матусович": 203,
-      "Салов Евгений Иванович": 63
+      "gas:candidate-vibid:2012000310434": 20,
+      "gas:candidate-vibid:2012000308711": 21,
+      "gas:candidate-vibid:2012000310865": 34,
+      "gas:candidate-vibid:2012000304413": 36,
+      "gas:candidate-vibid:2012000303330": 45,
+      "gas:candidate-vibid:2012000296989": 203,
+      "gas:candidate-vibid:2012000308646": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 28,
-      "Гукасян Сергей Георгиевич": 31,
-      "Коновалова Нина Николаевна": 37,
-      "Лобода Александр Павлович": 31,
-      "Огиенко Денис Сергеевич": 88,
-      "Резник Владислав Матусович": 254,
-      "Салов Евгений Иванович": 51
+      "gas:candidate-vibid:2012000310434": 28,
+      "gas:candidate-vibid:2012000308711": 31,
+      "gas:candidate-vibid:2012000310865": 37,
+      "gas:candidate-vibid:2012000304413": 31,
+      "gas:candidate-vibid:2012000303330": 88,
+      "gas:candidate-vibid:2012000296989": 254,
+      "gas:candidate-vibid:2012000308646": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 31,
-      "Гукасян Сергей Георгиевич": 25,
-      "Коновалова Нина Николаевна": 35,
-      "Лобода Александр Павлович": 40,
-      "Огиенко Денис Сергеевич": 52,
-      "Резник Владислав Матусович": 527,
-      "Салов Евгений Иванович": 54
+      "gas:candidate-vibid:2012000310434": 31,
+      "gas:candidate-vibid:2012000308711": 25,
+      "gas:candidate-vibid:2012000310865": 35,
+      "gas:candidate-vibid:2012000304413": 40,
+      "gas:candidate-vibid:2012000303330": 52,
+      "gas:candidate-vibid:2012000296989": 527,
+      "gas:candidate-vibid:2012000308646": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 19,
-      "Гукасян Сергей Георгиевич": 22,
-      "Коновалова Нина Николаевна": 59,
-      "Лобода Александр Павлович": 30,
-      "Огиенко Денис Сергеевич": 50,
-      "Резник Владислав Матусович": 284,
-      "Салов Евгений Иванович": 42
+      "gas:candidate-vibid:2012000310434": 19,
+      "gas:candidate-vibid:2012000308711": 22,
+      "gas:candidate-vibid:2012000310865": 59,
+      "gas:candidate-vibid:2012000304413": 30,
+      "gas:candidate-vibid:2012000303330": 50,
+      "gas:candidate-vibid:2012000296989": 284,
+      "gas:candidate-vibid:2012000308646": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 2,
-      "Коновалова Нина Николаевна": 8,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 4,
-      "Резник Владислав Матусович": 16,
-      "Салов Евгений Иванович": 2
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 2,
+      "gas:candidate-vibid:2012000310865": 8,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 4,
+      "gas:candidate-vibid:2012000296989": 16,
+      "gas:candidate-vibid:2012000308646": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 24,
-      "Гукасян Сергей Георгиевич": 26,
-      "Коновалова Нина Николаевна": 61,
-      "Лобода Александр Павлович": 47,
-      "Огиенко Денис Сергеевич": 108,
-      "Резник Владислав Матусович": 297,
-      "Салов Евгений Иванович": 66
+      "gas:candidate-vibid:2012000310434": 24,
+      "gas:candidate-vibid:2012000308711": 26,
+      "gas:candidate-vibid:2012000310865": 61,
+      "gas:candidate-vibid:2012000304413": 47,
+      "gas:candidate-vibid:2012000303330": 108,
+      "gas:candidate-vibid:2012000296989": 297,
+      "gas:candidate-vibid:2012000308646": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 24,
-      "Гукасян Сергей Георгиевич": 46,
-      "Коновалова Нина Николаевна": 71,
-      "Лобода Александр Павлович": 30,
-      "Огиенко Денис Сергеевич": 22,
-      "Резник Владислав Матусович": 386,
-      "Салов Евгений Иванович": 36
+      "gas:candidate-vibid:2012000310434": 24,
+      "gas:candidate-vibid:2012000308711": 46,
+      "gas:candidate-vibid:2012000310865": 71,
+      "gas:candidate-vibid:2012000304413": 30,
+      "gas:candidate-vibid:2012000303330": 22,
+      "gas:candidate-vibid:2012000296989": 386,
+      "gas:candidate-vibid:2012000308646": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 46,
-      "Гукасян Сергей Георгиевич": 38,
-      "Коновалова Нина Николаевна": 64,
-      "Лобода Александр Павлович": 38,
-      "Огиенко Денис Сергеевич": 42,
-      "Резник Владислав Матусович": 247,
-      "Салов Евгений Иванович": 37
+      "gas:candidate-vibid:2012000310434": 46,
+      "gas:candidate-vibid:2012000308711": 38,
+      "gas:candidate-vibid:2012000310865": 64,
+      "gas:candidate-vibid:2012000304413": 38,
+      "gas:candidate-vibid:2012000303330": 42,
+      "gas:candidate-vibid:2012000296989": 247,
+      "gas:candidate-vibid:2012000308646": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 5,
-      "Коновалова Нина Николаевна": 18,
-      "Лобода Александр Павлович": 7,
-      "Огиенко Денис Сергеевич": 19,
-      "Резник Владислав Матусович": 144,
-      "Салов Евгений Иванович": 15
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 5,
+      "gas:candidate-vibid:2012000310865": 18,
+      "gas:candidate-vibid:2012000304413": 7,
+      "gas:candidate-vibid:2012000303330": 19,
+      "gas:candidate-vibid:2012000296989": 144,
+      "gas:candidate-vibid:2012000308646": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 12,
-      "Гукасян Сергей Георгиевич": 50,
-      "Коновалова Нина Николаевна": 32,
-      "Лобода Александр Павлович": 45,
-      "Огиенко Денис Сергеевич": 108,
-      "Резник Владислав Матусович": 735,
-      "Салов Евгений Иванович": 144
+      "gas:candidate-vibid:2012000310434": 12,
+      "gas:candidate-vibid:2012000308711": 50,
+      "gas:candidate-vibid:2012000310865": 32,
+      "gas:candidate-vibid:2012000304413": 45,
+      "gas:candidate-vibid:2012000303330": 108,
+      "gas:candidate-vibid:2012000296989": 735,
+      "gas:candidate-vibid:2012000308646": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 19,
-      "Коновалова Нина Николаевна": 29,
-      "Лобода Александр Павлович": 162,
-      "Огиенко Денис Сергеевич": 111,
-      "Резник Владислав Матусович": 708,
-      "Салов Евгений Иванович": 99
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 19,
+      "gas:candidate-vibid:2012000310865": 29,
+      "gas:candidate-vibid:2012000304413": 162,
+      "gas:candidate-vibid:2012000303330": 111,
+      "gas:candidate-vibid:2012000296989": 708,
+      "gas:candidate-vibid:2012000308646": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 9,
-      "Коновалова Нина Николаевна": 14,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 2,
-      "Резник Владислав Матусович": 280,
-      "Салов Евгений Иванович": 32
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 9,
+      "gas:candidate-vibid:2012000310865": 14,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 2,
+      "gas:candidate-vibid:2012000296989": 280,
+      "gas:candidate-vibid:2012000308646": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 2,
-      "Гукасян Сергей Георгиевич": 7,
-      "Коновалова Нина Николаевна": 12,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 10,
-      "Резник Владислав Матусович": 95,
-      "Салов Евгений Иванович": 35
+      "gas:candidate-vibid:2012000310434": 2,
+      "gas:candidate-vibid:2012000308711": 7,
+      "gas:candidate-vibid:2012000310865": 12,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 10,
+      "gas:candidate-vibid:2012000296989": 95,
+      "gas:candidate-vibid:2012000308646": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 6,
-      "Гукасян Сергей Георгиевич": 8,
-      "Коновалова Нина Николаевна": 10,
-      "Лобода Александр Павлович": 8,
-      "Огиенко Денис Сергеевич": 36,
-      "Резник Владислав Матусович": 88,
-      "Салов Евгений Иванович": 7
+      "gas:candidate-vibid:2012000310434": 6,
+      "gas:candidate-vibid:2012000308711": 8,
+      "gas:candidate-vibid:2012000310865": 10,
+      "gas:candidate-vibid:2012000304413": 8,
+      "gas:candidate-vibid:2012000303330": 36,
+      "gas:candidate-vibid:2012000296989": 88,
+      "gas:candidate-vibid:2012000308646": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 24,
-      "Гукасян Сергей Георгиевич": 12,
-      "Коновалова Нина Николаевна": 28,
-      "Лобода Александр Павлович": 20,
-      "Огиенко Денис Сергеевич": 71,
-      "Резник Владислав Матусович": 178,
-      "Салов Евгений Иванович": 45
+      "gas:candidate-vibid:2012000310434": 24,
+      "gas:candidate-vibid:2012000308711": 12,
+      "gas:candidate-vibid:2012000310865": 28,
+      "gas:candidate-vibid:2012000304413": 20,
+      "gas:candidate-vibid:2012000303330": 71,
+      "gas:candidate-vibid:2012000296989": 178,
+      "gas:candidate-vibid:2012000308646": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295681&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295681&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 100,
-      "Резник Владислав Матусович": 735,
-      "Салов Евгений Иванович": 210
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 100,
+      "gas:candidate-vibid:2012000296989": 735,
+      "gas:candidate-vibid:2012000308646": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 48,
-      "Гукасян Сергей Георгиевич": 20,
-      "Коновалова Нина Николаевна": 41,
-      "Лобода Александр Павлович": 38,
-      "Огиенко Денис Сергеевич": 51,
-      "Резник Владислав Матусович": 711,
-      "Салов Евгений Иванович": 118
+      "gas:candidate-vibid:2012000310434": 48,
+      "gas:candidate-vibid:2012000308711": 20,
+      "gas:candidate-vibid:2012000310865": 41,
+      "gas:candidate-vibid:2012000304413": 38,
+      "gas:candidate-vibid:2012000303330": 51,
+      "gas:candidate-vibid:2012000296989": 711,
+      "gas:candidate-vibid:2012000308646": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 1,
-      "Коновалова Нина Николаевна": 7,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 5,
-      "Резник Владислав Матусович": 135,
-      "Салов Евгений Иванович": 45
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 1,
+      "gas:candidate-vibid:2012000310865": 7,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 5,
+      "gas:candidate-vibid:2012000296989": 135,
+      "gas:candidate-vibid:2012000308646": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 8,
-      "Коновалова Нина Николаевна": 15,
-      "Лобода Александр Павлович": 5,
-      "Огиенко Денис Сергеевич": 10,
-      "Резник Владислав Матусович": 62,
-      "Салов Евгений Иванович": 19
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 8,
+      "gas:candidate-vibid:2012000310865": 15,
+      "gas:candidate-vibid:2012000304413": 5,
+      "gas:candidate-vibid:2012000303330": 10,
+      "gas:candidate-vibid:2012000296989": 62,
+      "gas:candidate-vibid:2012000308646": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 66,
-      "Салов Евгений Иванович": 22
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 66,
+      "gas:candidate-vibid:2012000308646": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 4,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 12,
-      "Лобода Александр Павлович": 2,
-      "Огиенко Денис Сергеевич": 3,
-      "Резник Владислав Матусович": 98,
-      "Салов Евгений Иванович": 12
+      "gas:candidate-vibid:2012000310434": 4,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 12,
+      "gas:candidate-vibid:2012000304413": 2,
+      "gas:candidate-vibid:2012000303330": 3,
+      "gas:candidate-vibid:2012000296989": 98,
+      "gas:candidate-vibid:2012000308646": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 2,
-      "Гукасян Сергей Георгиевич": 2,
-      "Коновалова Нина Николаевна": 2,
-      "Лобода Александр Павлович": 3,
-      "Огиенко Денис Сергеевич": 2,
-      "Резник Владислав Матусович": 504,
-      "Салов Евгений Иванович": 37
+      "gas:candidate-vibid:2012000310434": 2,
+      "gas:candidate-vibid:2012000308711": 2,
+      "gas:candidate-vibid:2012000310865": 2,
+      "gas:candidate-vibid:2012000304413": 3,
+      "gas:candidate-vibid:2012000303330": 2,
+      "gas:candidate-vibid:2012000296989": 504,
+      "gas:candidate-vibid:2012000308646": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 30,
-      "Гукасян Сергей Георгиевич": 45,
-      "Коновалова Нина Николаевна": 50,
-      "Лобода Александр Павлович": 33,
-      "Огиенко Денис Сергеевич": 59,
-      "Резник Владислав Матусович": 705,
-      "Салов Евгений Иванович": 110
+      "gas:candidate-vibid:2012000310434": 30,
+      "gas:candidate-vibid:2012000308711": 45,
+      "gas:candidate-vibid:2012000310865": 50,
+      "gas:candidate-vibid:2012000304413": 33,
+      "gas:candidate-vibid:2012000303330": 59,
+      "gas:candidate-vibid:2012000296989": 705,
+      "gas:candidate-vibid:2012000308646": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 132,
-      "Резник Владислав Матусович": 1437,
-      "Салов Евгений Иванович": 504
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 132,
+      "gas:candidate-vibid:2012000296989": 1437,
+      "gas:candidate-vibid:2012000308646": 504
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 15,
-      "Резник Владислав Матусович": 239,
-      "Салов Евгений Иванович": 75
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 15,
+      "gas:candidate-vibid:2012000296989": 239,
+      "gas:candidate-vibid:2012000308646": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 137,
-      "Салов Евгений Иванович": 40
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 137,
+      "gas:candidate-vibid:2012000308646": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 410,
-      "Салов Евгений Иванович": 160
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 410,
+      "gas:candidate-vibid:2012000308646": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 38,
-      "Гукасян Сергей Георгиевич": 30,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 651,
-      "Салов Евгений Иванович": 350
+      "gas:candidate-vibid:2012000310434": 38,
+      "gas:candidate-vibid:2012000308711": 30,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 651,
+      "gas:candidate-vibid:2012000308646": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 49,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 7,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 88,
-      "Салов Евгений Иванович": 26
+      "gas:candidate-vibid:2012000310434": 49,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 7,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 88,
+      "gas:candidate-vibid:2012000308646": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 10,
-      "Гукасян Сергей Георгиевич": 10,
-      "Коновалова Нина Николаевна": 10,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 10,
-      "Резник Владислав Матусович": 331,
-      "Салов Евгений Иванович": 100
+      "gas:candidate-vibid:2012000310434": 10,
+      "gas:candidate-vibid:2012000308711": 10,
+      "gas:candidate-vibid:2012000310865": 10,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 10,
+      "gas:candidate-vibid:2012000296989": 331,
+      "gas:candidate-vibid:2012000308646": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 4,
-      "Коновалова Нина Николаевна": 5,
-      "Лобода Александр Павлович": 11,
-      "Огиенко Денис Сергеевич": 10,
-      "Резник Владислав Матусович": 81,
-      "Салов Евгений Иванович": 25
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 4,
+      "gas:candidate-vibid:2012000310865": 5,
+      "gas:candidate-vibid:2012000304413": 11,
+      "gas:candidate-vibid:2012000303330": 10,
+      "gas:candidate-vibid:2012000296989": 81,
+      "gas:candidate-vibid:2012000308646": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 1,
-      "Гукасян Сергей Георгиевич": 5,
-      "Коновалова Нина Николаевна": 2,
-      "Лобода Александр Павлович": 2,
-      "Огиенко Денис Сергеевич": 15,
-      "Резник Владислав Матусович": 100,
-      "Салов Евгений Иванович": 19
+      "gas:candidate-vibid:2012000310434": 1,
+      "gas:candidate-vibid:2012000308711": 5,
+      "gas:candidate-vibid:2012000310865": 2,
+      "gas:candidate-vibid:2012000304413": 2,
+      "gas:candidate-vibid:2012000303330": 15,
+      "gas:candidate-vibid:2012000296989": 100,
+      "gas:candidate-vibid:2012000308646": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 36,
-      "Гукасян Сергей Георгиевич": 15,
-      "Коновалова Нина Николаевна": 8,
-      "Лобода Александр Павлович": 6,
-      "Огиенко Денис Сергеевич": 11,
-      "Резник Владислав Матусович": 194,
-      "Салов Евгений Иванович": 60
+      "gas:candidate-vibid:2012000310434": 36,
+      "gas:candidate-vibid:2012000308711": 15,
+      "gas:candidate-vibid:2012000310865": 8,
+      "gas:candidate-vibid:2012000304413": 6,
+      "gas:candidate-vibid:2012000303330": 11,
+      "gas:candidate-vibid:2012000296989": 194,
+      "gas:candidate-vibid:2012000308646": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 108,
-      "Резник Владислав Матусович": 845,
-      "Салов Евгений Иванович": 239
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 108,
+      "gas:candidate-vibid:2012000296989": 845,
+      "gas:candidate-vibid:2012000308646": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Коновалова Нина Николаевна": 0,
-      "Лобода Александр Павлович": 0,
-      "Огиенко Денис Сергеевич": 0,
-      "Резник Владислав Матусович": 313,
-      "Салов Евгений Иванович": 104
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 0,
+      "gas:candidate-vibid:2012000310865": 0,
+      "gas:candidate-vibid:2012000304413": 0,
+      "gas:candidate-vibid:2012000303330": 0,
+      "gas:candidate-vibid:2012000296989": 313,
+      "gas:candidate-vibid:2012000308646": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 14,
-      "Гукасян Сергей Георгиевич": 7,
-      "Коновалова Нина Николаевна": 11,
-      "Лобода Александр Павлович": 8,
-      "Огиенко Денис Сергеевич": 5,
-      "Резник Владислав Матусович": 81,
-      "Салов Евгений Иванович": 26
+      "gas:candidate-vibid:2012000310434": 14,
+      "gas:candidate-vibid:2012000308711": 7,
+      "gas:candidate-vibid:2012000310865": 11,
+      "gas:candidate-vibid:2012000304413": 8,
+      "gas:candidate-vibid:2012000303330": 5,
+      "gas:candidate-vibid:2012000296989": 81,
+      "gas:candidate-vibid:2012000308646": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295682&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295682&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 8,
-      "Гукасян Сергей Георгиевич": 13,
-      "Коновалова Нина Николаевна": 21,
-      "Лобода Александр Павлович": 8,
-      "Огиенко Денис Сергеевич": 27,
-      "Резник Владислав Матусович": 221,
-      "Салов Евгений Иванович": 54
+      "gas:candidate-vibid:2012000310434": 8,
+      "gas:candidate-vibid:2012000308711": 13,
+      "gas:candidate-vibid:2012000310865": 21,
+      "gas:candidate-vibid:2012000304413": 8,
+      "gas:candidate-vibid:2012000303330": 27,
+      "gas:candidate-vibid:2012000296989": 221,
+      "gas:candidate-vibid:2012000308646": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295683&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295683&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 13,
-      "Гукасян Сергей Георгиевич": 20,
-      "Коновалова Нина Николаевна": 31,
-      "Лобода Александр Павлович": 9,
-      "Огиенко Денис Сергеевич": 28,
-      "Резник Владислав Матусович": 455,
-      "Салов Евгений Иванович": 78
+      "gas:candidate-vibid:2012000310434": 13,
+      "gas:candidate-vibid:2012000308711": 20,
+      "gas:candidate-vibid:2012000310865": 31,
+      "gas:candidate-vibid:2012000304413": 9,
+      "gas:candidate-vibid:2012000303330": 28,
+      "gas:candidate-vibid:2012000296989": 455,
+      "gas:candidate-vibid:2012000308646": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295683&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295683&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 0,
-      "Гукасян Сергей Георгиевич": 3,
-      "Коновалова Нина Николаевна": 12,
-      "Лобода Александр Павлович": 4,
-      "Огиенко Денис Сергеевич": 13,
-      "Резник Владислав Матусович": 249,
-      "Салов Евгений Иванович": 18
+      "gas:candidate-vibid:2012000310434": 0,
+      "gas:candidate-vibid:2012000308711": 3,
+      "gas:candidate-vibid:2012000310865": 12,
+      "gas:candidate-vibid:2012000304413": 4,
+      "gas:candidate-vibid:2012000303330": 13,
+      "gas:candidate-vibid:2012000296989": 249,
+      "gas:candidate-vibid:2012000308646": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295683&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295683&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бриних Валерий Александрович": 7,
-      "Гукасян Сергей Георгиевич": 20,
-      "Коновалова Нина Николаевна": 23,
-      "Лобода Александр Павлович": 9,
-      "Огиенко Денис Сергеевич": 23,
-      "Резник Владислав Матусович": 649,
-      "Салов Евгений Иванович": 148
+      "gas:candidate-vibid:2012000310434": 7,
+      "gas:candidate-vibid:2012000308711": 20,
+      "gas:candidate-vibid:2012000310865": 23,
+      "gas:candidate-vibid:2012000304413": 9,
+      "gas:candidate-vibid:2012000303330": 23,
+      "gas:candidate-vibid:2012000296989": 649,
+      "gas:candidate-vibid:2012000308646": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000295683&vrn=100100067795849&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000295683&type=464",

@@ -9,6 +9,7 @@ import "./styles.css";
 const integer = new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 });
 const compact = new Intl.NumberFormat("en-US", { notation: "compact", maximumFractionDigits: 2 });
 const percent = new Intl.NumberFormat("en-US", { style: "percent", maximumFractionDigits: 0 });
+const thresholdPercent = new Intl.NumberFormat("en-US", { style: "percent", maximumFractionDigits: 1 });
 
 function finiteOr(value: string | null, fallback: number): number {
   const parsed = Number(value);
@@ -22,9 +23,8 @@ function initialQuery() {
     region: query.get("region") || null,
     parameters: {
       ...DEFAULT_PARAMETERS,
-      turnoutWindow: finiteOr(query.get("window"), DEFAULT_PARAMETERS.turnoutWindow),
-      minTikPeers: finiteOr(query.get("minPeers"), DEFAULT_PARAMETERS.minTikPeers),
-      fdrThreshold: finiteOr(query.get("fdr"), DEFAULT_PARAMETERS.fdrThreshold)
+      coreFraction: finiteOr(query.get("core"), DEFAULT_PARAMETERS.coreFraction),
+      reviewThreshold: finiteOr(query.get("review"), DEFAULT_PARAMETERS.reviewThreshold)
     } satisfies AnalysisParameters,
     selected: query.get("uik")
   };
@@ -109,8 +109,8 @@ export default function App() {
   useEffect(() => {
     if (!optionId) return;
     const query = new URLSearchParams({
-      party: String(optionId), window: String(parameters.turnoutWindow),
-      minPeers: String(parameters.minTikPeers), fdr: String(parameters.fdrThreshold)
+      party: String(optionId), core: String(parameters.coreFraction),
+      review: String(parameters.reviewThreshold)
     });
     if (region) query.set("region", region); if (selectedId) query.set("uik", selectedId);
     window.history.replaceState(null, "", `${window.location.pathname}?${query}`);
@@ -132,13 +132,14 @@ export default function App() {
     const result = {
       election: "2021-duma", scope: "physical-uik-party-list", degIncluded: false,
       geography: region ?? "all", party: { id: party.id, position: party.position, name: party.name },
-      method: analysis.value.method, parameters, calibrationPopulation: "all physical UIKs",
-      pSusMeaning: "empirical percentile of the leave-one-out positive CLT residual; not probability of fraud",
-      multipleTesting: "Benjamini-Yekutieli q-value", summary, estimates
+      method: analysis.value.method, parameters, modeledPopulation: "all physical UIK protocols",
+      pSusMeaning: "incompatibility with the robust election-wide protocol core; not probability of fraud",
+      multipleTestingDiagnostic: "Benjamini-Yekutieli q-value from the bivariate core tail",
+      core: analysis.value.core, summary, estimates
     };
     const anchor = document.createElement("a");
     anchor.href = URL.createObjectURL(new Blob([JSON.stringify(result, null, 2)], { type: "application/json" }));
-    anchor.download = `2021-duma-${party.shortName.replace(/\s+/g, "-").toLowerCase()}-peer-clt-v2.json`;
+    anchor.download = `2021-duma-${party.shortName.replace(/\s+/g, "-").toLowerCase()}-protocol-cloud-v3.json`;
     anchor.click(); URL.revokeObjectURL(anchor.href);
   };
 
@@ -154,33 +155,32 @@ export default function App() {
     {notice && <div className="toast" role="status">{notice}</div>}
     <main className="workbench">
       <aside className="control-panel">
-        <div className="panel-title"><span className="panel-index">01</span><div><span className="eyebrow">Model controls</span><h1>Peer-CLT parameters</h1></div></div>
+        <div className="panel-title"><span className="panel-index">01</span><div><span className="eyebrow">Model controls</span><h1>Protocol-field parameters</h1></div></div>
         <label className="field"><span>Election</span><select disabled><option>State Duma · 2021</option></select></label>
         <label className="field"><span>Ballot</span><select disabled><option>Federal party list</option></select></label>
         <label className="field"><span>Target party</span><select value={optionId ?? ""} onChange={(event) => setOptionId(Number(event.target.value))}>{metadata.options.map((option) => <option value={option.id} key={option.id}>{option.position}. {option.shortName}</option>)}</select></label>
         <label className="field"><span>Display geography</span><select value={region ?? ""} onChange={(event) => { setRegion(event.target.value || null); setSelectedId(null); }}><option value="">All 85 regions</option>{metadata.regions.map((item) => <option value={item.code} key={item.code}>{item.code} · {item.name} · {integer.format(item.precincts)}</option>)}</select></label>
 
-        <fieldset className="parameter-group"><legend>Comparable turnout</legend><p>Learn each result from other UIKs near its turnout, with the target UIK removed.</p><div className="threshold"><input aria-label="Peer turnout window" type="range" min="5" max="25" step="2.5" value={parameters.turnoutWindow} onChange={(event) => updateParameter("turnoutWindow", Number(event.target.value))} /><output>±{parameters.turnoutWindow}%</output></div></fieldset>
-        <fieldset className="parameter-group"><legend>TIK support floor</legend><p>Sparse TIK estimates fall back to a shrunk regional peer curve.</p><div className="number-pair single-number"><label><span>Minimum peer UIKs</span><input type="number" min="2" max="40" step="1" value={parameters.minTikPeers} onChange={(event) => updateParameter("minTikPeers", Number(event.target.value))} /></label></div></fieldset>
-        <label className="field parameter-select"><span>Review false-discovery rate</span><select value={parameters.fdrThreshold} onChange={(event) => updateParameter("fdrThreshold", Number(event.target.value))}><option value="0.01">1% · strict</option><option value="0.05">5% · default</option><option value="0.1">10% · exploratory</option></select></label>
+        <fieldset className="parameter-group"><legend>Robust central field</legend><p>Fit the expected bivariate distribution to the densest central share of all 2021 physical UIK protocols.</p><div className="threshold"><input aria-label="Core protocol fraction" type="range" min="0.35" max="0.7" step="0.05" value={parameters.coreFraction} onChange={(event) => updateParameter("coreFraction", Number(event.target.value))} /><output>{percent.format(parameters.coreFraction)}</output></div></fieldset>
+        <label className="field parameter-select"><span>P_sus review threshold</span><select value={parameters.reviewThreshold} onChange={(event) => updateParameter("reviewThreshold", Number(event.target.value))}><option value="0.95">P1 · 95%</option><option value="0.99">P2 · 99%</option><option value="0.999">P3 · 99.9% default</option></select></label>
 
-        <section className="scope-note neutral-note"><span className="eyebrow">What P_sus means</span><h2>A peer-anomaly grade</h2><p>P_sus is the percentile of a protocol’s positive, overdispersion-adjusted CLT residual among all physical UIKs. It is not a probability of fraud. BY q-values separately control the review queue.</p></section>
+        <section className="scope-note neutral-note"><span className="eyebrow">What P_sus means</span><h2>Distance from the election core</h2><p>P_sus grades each complete UIK protocol against the robust turnout × result distribution fitted to all physical UIKs. Dense high-high tails remain deviations; they are not learned as local normality. It is not a probability of fraud.</p></section>
         <section className="scope-note"><span className="eyebrow">Analysis boundary</span><h2>Why DEG is absent</h2><p>Electronic results are aggregate returns without the physical precinct distribution this model compares. They remain outside every fit and denominator.</p></section>
         <section className="coverage"><span>{metadata.coverage.importedProtocols.toLocaleString()} imported protocols</span><span>{metadata.coverage.missingProtocols} source gaps retained</span><span>{metadata.coverage.tiks.toLocaleString()} TIKs</span></section>
       </aside>
 
       <section className="analysis-column">
-        <div className="analysis-heading"><div><span className="eyebrow">02 · Conditional CLT screen</span><h1>{party?.shortName ?? "Party"} expected × actual field</h1><p>{region ? `${metadata.regions.find((item) => item.code === region)?.name} · scores fixed to national calibration` : "Russian Federation · TIK → region → national partial pooling"}</p></div>{loading && <span className="loading-pill">Loading protocols…</span>}</div>
+        <div className="analysis-heading"><div><span className="eyebrow">02 · Election-wide protocol screen</span><h1>{party?.shortName ?? "Party"} turnout × result field</h1><p>{region ? `${metadata.regions.find((item) => item.code === region)?.name} · scores fixed to the all-UIK model` : `Russian Federation · robust core of ${analysis.value?.core.protocols.toLocaleString() ?? "all"} protocols`}</p></div>{loading && <span className="loading-pill">Loading protocols…</span>}</div>
         {analysis.error && <div className="analysis-error">{analysis.error}</div>}
         {summary && <div className="metric-row">
-          <article><span>BY review queue</span><strong>{integer.format(summary.flaggedProtocols)}</strong><small>q ≤ {percent.format(parameters.fdrThreshold)}</small></article>
-          <article><span>Observed / expected</span><strong>{compact.format(summary.observedVotes)} / {compact.format(summary.expectedVotes)}</strong><small>target-party votes</small></article>
+          <article><span>P_sus review queue</span><strong>{integer.format(summary.flaggedProtocols)}</strong><small>score ≥ {thresholdPercent.format(parameters.reviewThreshold)}</small></article>
+          <article><span>Observed / core expectation</span><strong>{compact.format(summary.observedVotes)} / {compact.format(summary.expectedVotes)}</strong><small>target-party votes</small></article>
           <article><span>Flagged residual</span><strong>{integer.format(summary.flaggedResidualVotes)}</strong><small>actual − expected votes</small></article>
-          <article><span>CLT coverage</span><strong>{integer.format(summary.scoredProtocols)} / {integer.format(summary.protocols)}</strong><small>{summary.unscoredProtocols} explicitly unscored</small></article>
+          <article><span>Model coverage</span><strong>{integer.format(summary.scoredProtocols)} / {integer.format(summary.protocols)}</strong><small>{summary.unscoredProtocols} explicitly unscored</small></article>
         </div>}
-        {visiblePoints.length && party && analysis.value ? <Scatterplot points={visiblePoints} estimates={analysis.value.estimates} parameters={parameters} color={party.color} selectedId={selectedId} onSelect={(point) => setSelectedId(point.id)} /> : !loading && <div className="empty-chart">No physical UIK points match this selection.</div>}
-        {reviewQueue.length > 0 && <section className="review-queue"><div><span className="eyebrow">Highest peer incompatibility</span><h2>Protocol review queue</h2></div><div className="review-items">{reviewQueue.map(({ point, estimate }) => <button key={point.id} onClick={() => setSelectedId(point.id)} className={selectedId === point.id ? "selected" : ""}><span><b>UIK {point.uikNumber}</b><small>{point.regionName}</small></span><strong>{estimate?.grade}</strong><em>{percent.format(estimate?.pSus ?? 0)}</em></button>)}</div></section>}
-        <section className="method-strip"><div><span className="eyebrow">Method note</span><h2>Peer-conditioned CLT · v2</h2></div><p>The expected party share is learned out of sample from similar-turnout UIKs, preferring the same TIK and shrinking sparse groups toward regional and national peers. Predictive variance includes binomial noise, baseline uncertainty, and robust TIK/region heterogeneity. P_sus is an empirical residual percentile; the review queue uses conservative dependence-aware BY q-values. Aggregate returns alone cannot identify fraud.</p><code>peer-clt-v2 · physical UIKs · DEG=false</code></section>
+        {visiblePoints.length && party && analysis.value ? <Scatterplot points={visiblePoints} estimates={analysis.value.estimates} coreContour={analysis.value.core.contour95} color={party.color} selectedId={selectedId} onSelect={(point) => setSelectedId(point.id)} /> : !loading && <div className="empty-chart">No physical UIK points match this selection.</div>}
+        {reviewQueue.length > 0 && <section className="review-queue"><div><span className="eyebrow">Highest election-core incompatibility</span><h2>Protocol review queue</h2></div><div className="review-items">{reviewQueue.map(({ point, estimate }) => <button key={point.id} onClick={() => setSelectedId(point.id)} className={selectedId === point.id ? "selected" : ""}><span><b>UIK {point.uikNumber}</b><small>{point.regionName}</small></span><strong>{estimate?.grade}</strong><em>{percent.format(estimate?.pSus ?? 0)}</em></button>)}</div></section>}
+        <section className="method-strip"><div><span className="eyebrow">Method note</span><h2>Protocol-cloud CLT · v3</h2></div><p>Each UIK protocol is one observation. A robust bivariate Gaussian core is fitted on continuity-corrected turnout and selected-party result logits across the complete election. P_sus is the chi-square incompatibility of the actual protocol with that core, including finite-protocol sampling variance. The fit is deliberately not conditioned on turnout, TIK, or region, so a coordinated high-turnout/high-result tail remains visible. Aggregate returns alone still cannot identify fraud.</p><code>protocol-cloud-clt-v3 · all physical UIKs · DEG=false</code></section>
       </section>
 
       <ProtocolPanel point={selected} estimate={selected ? analysis.value?.estimates.get(selected.id) : undefined} detail={detail} loading={detailLoading} onClose={() => setSelectedId(null)} />

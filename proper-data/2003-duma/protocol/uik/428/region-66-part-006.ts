@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 51,
-      "Гольцев Евгений Михайлович": 21,
-      "Смоляков Сергей Аркадьевич": 26,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 268,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000113981": 51,
+      "gas:candidate-vibid:1001000136123": 21,
+      "gas:candidate-vibid:366300366843": 26,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 268,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 133,
-      "Гольцев Евгений Михайлович": 26,
-      "Смоляков Сергей Аркадьевич": 52,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 529,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000113981": 133,
+      "gas:candidate-vibid:1001000136123": 26,
+      "gas:candidate-vibid:366300366843": 52,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 529,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366750&region=0&sub_region=0&type=429",
@@ -152,14 +152,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 19,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 20,
-      "Муцоев Зелимхан Аликоевич": 253,
-      "Новиков Александр Васильевич": 26,
-      "Останин Дмитрий Дмитриевич": 49,
-      "Чекашев Дмитрий Владимирович": 10,
-      "Против всех": 95
+      "gas:candidate-vibid:366300466927": 19,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 20,
+      "gas:candidate-vibid:1001000131414": 253,
+      "gas:candidate-vibid:1001000136125": 26,
+      "gas:candidate-vibid:1001000217955": 49,
+      "gas:candidate-vibid:366300466769": 10,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -209,14 +209,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 34,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 38,
-      "Муцоев Зелимхан Аликоевич": 292,
-      "Новиков Александр Васильевич": 47,
-      "Останин Дмитрий Дмитриевич": 60,
-      "Чекашев Дмитрий Владимирович": 29,
-      "Против всех": 157
+      "gas:candidate-vibid:366300466927": 34,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 38,
+      "gas:candidate-vibid:1001000131414": 292,
+      "gas:candidate-vibid:1001000136125": 47,
+      "gas:candidate-vibid:1001000217955": 60,
+      "gas:candidate-vibid:366300466769": 29,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -266,14 +266,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 22,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 35,
-      "Муцоев Зелимхан Аликоевич": 256,
-      "Новиков Александр Васильевич": 32,
-      "Останин Дмитрий Дмитриевич": 48,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 82
+      "gas:candidate-vibid:366300466927": 22,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 35,
+      "gas:candidate-vibid:1001000131414": 256,
+      "gas:candidate-vibid:1001000136125": 32,
+      "gas:candidate-vibid:1001000217955": 48,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -323,14 +323,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 52,
-      "Дорожкин Андрей Вячеславович": 11,
-      "Железняк Петр Иванович": 35,
-      "Муцоев Зелимхан Аликоевич": 211,
-      "Новиков Александр Васильевич": 33,
-      "Останин Дмитрий Дмитриевич": 69,
-      "Чекашев Дмитрий Владимирович": 27,
-      "Против всех": 111
+      "gas:candidate-vibid:366300466927": 52,
+      "gas:candidate-vibid:366300466677": 11,
+      "gas:candidate-vibid:1001000121912": 35,
+      "gas:candidate-vibid:1001000131414": 211,
+      "gas:candidate-vibid:1001000136125": 33,
+      "gas:candidate-vibid:1001000217955": 69,
+      "gas:candidate-vibid:366300466769": 27,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -380,14 +380,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 12,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 23,
-      "Муцоев Зелимхан Аликоевич": 150,
-      "Новиков Александр Васильевич": 31,
-      "Останин Дмитрий Дмитриевич": 20,
-      "Чекашев Дмитрий Владимирович": 6,
-      "Против всех": 63
+      "gas:candidate-vibid:366300466927": 12,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 23,
+      "gas:candidate-vibid:1001000131414": 150,
+      "gas:candidate-vibid:1001000136125": 31,
+      "gas:candidate-vibid:1001000217955": 20,
+      "gas:candidate-vibid:366300466769": 6,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -437,14 +437,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 41,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 66,
-      "Муцоев Зелимхан Аликоевич": 331,
-      "Новиков Александр Васильевич": 45,
-      "Останин Дмитрий Дмитриевич": 67,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 233
+      "gas:candidate-vibid:366300466927": 41,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 66,
+      "gas:candidate-vibid:1001000131414": 331,
+      "gas:candidate-vibid:1001000136125": 45,
+      "gas:candidate-vibid:1001000217955": 67,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -494,14 +494,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 41,
-      "Дорожкин Андрей Вячеславович": 13,
-      "Железняк Петр Иванович": 53,
-      "Муцоев Зелимхан Аликоевич": 310,
-      "Новиков Александр Васильевич": 71,
-      "Останин Дмитрий Дмитриевич": 67,
-      "Чекашев Дмитрий Владимирович": 27,
-      "Против всех": 192
+      "gas:candidate-vibid:366300466927": 41,
+      "gas:candidate-vibid:366300466677": 13,
+      "gas:candidate-vibid:1001000121912": 53,
+      "gas:candidate-vibid:1001000131414": 310,
+      "gas:candidate-vibid:1001000136125": 71,
+      "gas:candidate-vibid:1001000217955": 67,
+      "gas:candidate-vibid:366300466769": 27,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -551,14 +551,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 26,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 24,
-      "Муцоев Зелимхан Аликоевич": 164,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 24,
-      "Чекашев Дмитрий Владимирович": 6,
-      "Против всех": 57
+      "gas:candidate-vibid:366300466927": 26,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 24,
+      "gas:candidate-vibid:1001000131414": 164,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 24,
+      "gas:candidate-vibid:366300466769": 6,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -608,14 +608,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 42,
-      "Дорожкин Андрей Вячеславович": 11,
-      "Железняк Петр Иванович": 79,
-      "Муцоев Зелимхан Аликоевич": 411,
-      "Новиков Александр Васильевич": 40,
-      "Останин Дмитрий Дмитриевич": 165,
-      "Чекашев Дмитрий Владимирович": 16,
-      "Против всех": 190
+      "gas:candidate-vibid:366300466927": 42,
+      "gas:candidate-vibid:366300466677": 11,
+      "gas:candidate-vibid:1001000121912": 79,
+      "gas:candidate-vibid:1001000131414": 411,
+      "gas:candidate-vibid:1001000136125": 40,
+      "gas:candidate-vibid:1001000217955": 165,
+      "gas:candidate-vibid:366300466769": 16,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -665,14 +665,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 82,
-      "Дорожкин Андрей Вячеславович": 13,
-      "Железняк Петр Иванович": 50,
-      "Муцоев Зелимхан Аликоевич": 351,
-      "Новиков Александр Васильевич": 33,
-      "Останин Дмитрий Дмитриевич": 135,
-      "Чекашев Дмитрий Владимирович": 40,
-      "Против всех": 192
+      "gas:candidate-vibid:366300466927": 82,
+      "gas:candidate-vibid:366300466677": 13,
+      "gas:candidate-vibid:1001000121912": 50,
+      "gas:candidate-vibid:1001000131414": 351,
+      "gas:candidate-vibid:1001000136125": 33,
+      "gas:candidate-vibid:1001000217955": 135,
+      "gas:candidate-vibid:366300466769": 40,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -722,14 +722,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 57,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 51,
-      "Муцоев Зелимхан Аликоевич": 206,
-      "Новиков Александр Васильевич": 33,
-      "Останин Дмитрий Дмитриевич": 75,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 172
+      "gas:candidate-vibid:366300466927": 57,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 51,
+      "gas:candidate-vibid:1001000131414": 206,
+      "gas:candidate-vibid:1001000136125": 33,
+      "gas:candidate-vibid:1001000217955": 75,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -779,14 +779,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 64,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 39,
-      "Муцоев Зелимхан Аликоевич": 256,
-      "Новиков Александр Васильевич": 29,
-      "Останин Дмитрий Дмитриевич": 80,
-      "Чекашев Дмитрий Владимирович": 21,
-      "Против всех": 128
+      "gas:candidate-vibid:366300466927": 64,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 39,
+      "gas:candidate-vibid:1001000131414": 256,
+      "gas:candidate-vibid:1001000136125": 29,
+      "gas:candidate-vibid:1001000217955": 80,
+      "gas:candidate-vibid:366300466769": 21,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -836,14 +836,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 83,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 75,
-      "Муцоев Зелимхан Аликоевич": 374,
-      "Новиков Александр Васильевич": 54,
-      "Останин Дмитрий Дмитриевич": 95,
-      "Чекашев Дмитрий Владимирович": 20,
-      "Против всех": 207
+      "gas:candidate-vibid:366300466927": 83,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 75,
+      "gas:candidate-vibid:1001000131414": 374,
+      "gas:candidate-vibid:1001000136125": 54,
+      "gas:candidate-vibid:1001000217955": 95,
+      "gas:candidate-vibid:366300466769": 20,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -893,14 +893,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 42,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 32,
-      "Муцоев Зелимхан Аликоевич": 246,
-      "Новиков Александр Васильевич": 45,
-      "Останин Дмитрий Дмитриевич": 81,
-      "Чекашев Дмитрий Владимирович": 27,
-      "Против всех": 113
+      "gas:candidate-vibid:366300466927": 42,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 32,
+      "gas:candidate-vibid:1001000131414": 246,
+      "gas:candidate-vibid:1001000136125": 45,
+      "gas:candidate-vibid:1001000217955": 81,
+      "gas:candidate-vibid:366300466769": 27,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -950,14 +950,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 23,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 30,
-      "Муцоев Зелимхан Аликоевич": 320,
-      "Новиков Александр Васильевич": 35,
-      "Останин Дмитрий Дмитриевич": 46,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 91
+      "gas:candidate-vibid:366300466927": 23,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 30,
+      "gas:candidate-vibid:1001000131414": 320,
+      "gas:candidate-vibid:1001000136125": 35,
+      "gas:candidate-vibid:1001000217955": 46,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1007,14 +1007,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 25,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 22,
-      "Муцоев Зелимхан Аликоевич": 120,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 37,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 87
+      "gas:candidate-vibid:366300466927": 25,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 22,
+      "gas:candidate-vibid:1001000131414": 120,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 37,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1064,14 +1064,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 29,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 36,
-      "Муцоев Зелимхан Аликоевич": 194,
-      "Новиков Александр Васильевич": 40,
-      "Останин Дмитрий Дмитриевич": 56,
-      "Чекашев Дмитрий Владимирович": 16,
-      "Против всех": 92
+      "gas:candidate-vibid:366300466927": 29,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 36,
+      "gas:candidate-vibid:1001000131414": 194,
+      "gas:candidate-vibid:1001000136125": 40,
+      "gas:candidate-vibid:1001000217955": 56,
+      "gas:candidate-vibid:366300466769": 16,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1121,14 +1121,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 55,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 34,
-      "Муцоев Зелимхан Аликоевич": 129,
-      "Новиков Александр Васильевич": 33,
-      "Останин Дмитрий Дмитриевич": 47,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 119
+      "gas:candidate-vibid:366300466927": 55,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 34,
+      "gas:candidate-vibid:1001000131414": 129,
+      "gas:candidate-vibid:1001000136125": 33,
+      "gas:candidate-vibid:1001000217955": 47,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1178,14 +1178,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 15,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 22,
-      "Муцоев Зелимхан Аликоевич": 148,
-      "Новиков Александр Васильевич": 15,
-      "Останин Дмитрий Дмитриевич": 40,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 75
+      "gas:candidate-vibid:366300466927": 15,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 22,
+      "gas:candidate-vibid:1001000131414": 148,
+      "gas:candidate-vibid:1001000136125": 15,
+      "gas:candidate-vibid:1001000217955": 40,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1235,14 +1235,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 68,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 59,
-      "Муцоев Зелимхан Аликоевич": 219,
-      "Новиков Александр Васильевич": 36,
-      "Останин Дмитрий Дмитриевич": 83,
-      "Чекашев Дмитрий Владимирович": 27,
-      "Против всех": 158
+      "gas:candidate-vibid:366300466927": 68,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 59,
+      "gas:candidate-vibid:1001000131414": 219,
+      "gas:candidate-vibid:1001000136125": 36,
+      "gas:candidate-vibid:1001000217955": 83,
+      "gas:candidate-vibid:366300466769": 27,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1292,14 +1292,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 19,
-      "Муцоев Зелимхан Аликоевич": 80,
-      "Новиков Александр Васильевич": 16,
-      "Останин Дмитрий Дмитриевич": 28,
-      "Чекашев Дмитрий Владимирович": 10,
-      "Против всех": 89
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 19,
+      "gas:candidate-vibid:1001000131414": 80,
+      "gas:candidate-vibid:1001000136125": 16,
+      "gas:candidate-vibid:1001000217955": 28,
+      "gas:candidate-vibid:366300466769": 10,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1349,14 +1349,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 50,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 46,
-      "Муцоев Зелимхан Аликоевич": 197,
-      "Новиков Александр Васильевич": 27,
-      "Останин Дмитрий Дмитриевич": 77,
-      "Чекашев Дмитрий Владимирович": 18,
-      "Против всех": 123
+      "gas:candidate-vibid:366300466927": 50,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 46,
+      "gas:candidate-vibid:1001000131414": 197,
+      "gas:candidate-vibid:1001000136125": 27,
+      "gas:candidate-vibid:1001000217955": 77,
+      "gas:candidate-vibid:366300466769": 18,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1406,14 +1406,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 51,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 37,
-      "Муцоев Зелимхан Аликоевич": 150,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 52,
-      "Чекашев Дмитрий Владимирович": 10,
-      "Против всех": 77
+      "gas:candidate-vibid:366300466927": 51,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 37,
+      "gas:candidate-vibid:1001000131414": 150,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 52,
+      "gas:candidate-vibid:366300466769": 10,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1463,14 +1463,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 50,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 36,
-      "Муцоев Зелимхан Аликоевич": 271,
-      "Новиков Александр Васильевич": 45,
-      "Останин Дмитрий Дмитриевич": 69,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 181
+      "gas:candidate-vibid:366300466927": 50,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 36,
+      "gas:candidate-vibid:1001000131414": 271,
+      "gas:candidate-vibid:1001000136125": 45,
+      "gas:candidate-vibid:1001000217955": 69,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1520,14 +1520,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 37,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 45,
-      "Муцоев Зелимхан Аликоевич": 167,
-      "Новиков Александр Васильевич": 37,
-      "Останин Дмитрий Дмитриевич": 69,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 136
+      "gas:candidate-vibid:366300466927": 37,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 45,
+      "gas:candidate-vibid:1001000131414": 167,
+      "gas:candidate-vibid:1001000136125": 37,
+      "gas:candidate-vibid:1001000217955": 69,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1577,14 +1577,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 29,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 29,
-      "Муцоев Зелимхан Аликоевич": 114,
-      "Новиков Александр Васильевич": 21,
-      "Останин Дмитрий Дмитриевич": 37,
-      "Чекашев Дмитрий Владимирович": 17,
-      "Против всех": 90
+      "gas:candidate-vibid:366300466927": 29,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 29,
+      "gas:candidate-vibid:1001000131414": 114,
+      "gas:candidate-vibid:1001000136125": 21,
+      "gas:candidate-vibid:1001000217955": 37,
+      "gas:candidate-vibid:366300466769": 17,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1634,14 +1634,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 2,
-      "Муцоев Зелимхан Аликоевич": 18,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 2,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 2,
+      "gas:candidate-vibid:1001000131414": 18,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 2,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466954&region=0&sub_region=0&type=429",
@@ -1691,14 +1691,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 60,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 11,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 24
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 60,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 11,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -1748,14 +1748,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 33,
-      "Муцоев Зелимхан Аликоевич": 340,
-      "Новиков Александр Васильевич": 14,
-      "Останин Дмитрий Дмитриевич": 30,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 77
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 33,
+      "gas:candidate-vibid:1001000131414": 340,
+      "gas:candidate-vibid:1001000136125": 14,
+      "gas:candidate-vibid:1001000217955": 30,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -1805,14 +1805,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 14,
-      "Муцоев Зелимхан Аликоевич": 86,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 40,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 54
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 14,
+      "gas:candidate-vibid:1001000131414": 86,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 40,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -1862,14 +1862,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 19,
-      "Муцоев Зелимхан Аликоевич": 48,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 15,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 19,
+      "gas:candidate-vibid:1001000131414": 48,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 15,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -1919,14 +1919,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 34,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 34,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -1976,14 +1976,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 25,
-      "Муцоев Зелимхан Аликоевич": 146,
-      "Новиков Александр Васильевич": 10,
-      "Останин Дмитрий Дмитриевич": 56,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 36
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 25,
+      "gas:candidate-vibid:1001000131414": 146,
+      "gas:candidate-vibid:1001000136125": 10,
+      "gas:candidate-vibid:1001000217955": 56,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2033,14 +2033,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 53,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 0,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 53,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 0,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2090,14 +2090,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 19,
-      "Муцоев Зелимхан Аликоевич": 231,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 14,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 19,
+      "gas:candidate-vibid:1001000131414": 231,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 14,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2147,14 +2147,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 5,
-      "Муцоев Зелимхан Аликоевич": 89,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 21,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 5,
+      "gas:candidate-vibid:1001000131414": 89,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 21,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2204,14 +2204,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 9,
-      "Железняк Петр Иванович": 16,
-      "Муцоев Зелимхан Аликоевич": 113,
-      "Новиков Александр Васильевич": 16,
-      "Останин Дмитрий Дмитриевич": 35,
-      "Чекашев Дмитрий Владимирович": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 9,
+      "gas:candidate-vibid:1001000121912": 16,
+      "gas:candidate-vibid:1001000131414": 113,
+      "gas:candidate-vibid:1001000136125": 16,
+      "gas:candidate-vibid:1001000217955": 35,
+      "gas:candidate-vibid:366300466769": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2261,14 +2261,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 13,
-      "Муцоев Зелимхан Аликоевич": 80,
-      "Новиков Александр Васильевич": 8,
-      "Останин Дмитрий Дмитриевич": 29,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 54
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 13,
+      "gas:candidate-vibid:1001000131414": 80,
+      "gas:candidate-vibid:1001000136125": 8,
+      "gas:candidate-vibid:1001000217955": 29,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2318,14 +2318,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 124,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 16,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 124,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 16,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2375,14 +2375,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 14,
-      "Муцоев Зелимхан Аликоевич": 125,
-      "Новиков Александр Васильевич": 19,
-      "Останин Дмитрий Дмитриевич": 32,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 22
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 14,
+      "gas:candidate-vibid:1001000131414": 125,
+      "gas:candidate-vibid:1001000136125": 19,
+      "gas:candidate-vibid:1001000217955": 32,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2432,14 +2432,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 30,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 49,
-      "Муцоев Зелимхан Аликоевич": 310,
-      "Новиков Александр Васильевич": 50,
-      "Останин Дмитрий Дмитриевич": 89,
-      "Чекашев Дмитрий Владимирович": 18,
-      "Против всех": 190
+      "gas:candidate-vibid:366300466927": 30,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 49,
+      "gas:candidate-vibid:1001000131414": 310,
+      "gas:candidate-vibid:1001000136125": 50,
+      "gas:candidate-vibid:1001000217955": 89,
+      "gas:candidate-vibid:366300466769": 18,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2489,14 +2489,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 40,
-      "Новиков Александр Васильевич": 1,
-      "Останин Дмитрий Дмитриевич": 0,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 40,
+      "gas:candidate-vibid:1001000136125": 1,
+      "gas:candidate-vibid:1001000217955": 0,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2546,14 +2546,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 17,
-      "Муцоев Зелимхан Аликоевич": 69,
-      "Новиков Александр Васильевич": 17,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 48
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 17,
+      "gas:candidate-vibid:1001000131414": 69,
+      "gas:candidate-vibid:1001000136125": 17,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2603,14 +2603,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 9,
-      "Муцоев Зелимхан Аликоевич": 46,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 8,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 9,
+      "gas:candidate-vibid:1001000131414": 46,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 8,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2660,14 +2660,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 11,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 20,
-      "Муцоев Зелимхан Аликоевич": 223,
-      "Новиков Александр Васильевич": 40,
-      "Останин Дмитрий Дмитриевич": 40,
-      "Чекашев Дмитрий Владимирович": 17,
-      "Против всех": 59
+      "gas:candidate-vibid:366300466927": 11,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 20,
+      "gas:candidate-vibid:1001000131414": 223,
+      "gas:candidate-vibid:1001000136125": 40,
+      "gas:candidate-vibid:1001000217955": 40,
+      "gas:candidate-vibid:366300466769": 17,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2717,14 +2717,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 156,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 5,
-      "Чекашев Дмитрий Владимирович": 18,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 156,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 5,
+      "gas:candidate-vibid:366300466769": 18,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2774,14 +2774,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 62,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 12,
-      "Муцоев Зелимхан Аликоевич": 185,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 17,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 31
+      "gas:candidate-vibid:366300466927": 62,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 12,
+      "gas:candidate-vibid:1001000131414": 185,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 17,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2831,14 +2831,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 33,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 29,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 3,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:366300466927": 33,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 29,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 3,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2888,14 +2888,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 5,
-      "Муцоев Зелимхан Аликоевич": 87,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 109,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 5,
+      "gas:candidate-vibid:1001000131414": 87,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 109,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -2945,14 +2945,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 65,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 65,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3002,14 +3002,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 35,
-      "Дорожкин Андрей Вячеславович": 12,
-      "Железняк Петр Иванович": 28,
-      "Муцоев Зелимхан Аликоевич": 300,
-      "Новиков Александр Васильевич": 34,
-      "Останин Дмитрий Дмитриевич": 154,
-      "Чекашев Дмитрий Владимирович": 25,
-      "Против всех": 209
+      "gas:candidate-vibid:366300466927": 35,
+      "gas:candidate-vibid:366300466677": 12,
+      "gas:candidate-vibid:1001000121912": 28,
+      "gas:candidate-vibid:1001000131414": 300,
+      "gas:candidate-vibid:1001000136125": 34,
+      "gas:candidate-vibid:1001000217955": 154,
+      "gas:candidate-vibid:366300466769": 25,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3059,14 +3059,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 47,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 7,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 47,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 7,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3116,14 +3116,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 11,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 15,
-      "Муцоев Зелимхан Аликоевич": 65,
-      "Новиков Александр Васильевич": 17,
-      "Останин Дмитрий Дмитриевич": 20,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 44
+      "gas:candidate-vibid:366300466927": 11,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 15,
+      "gas:candidate-vibid:1001000131414": 65,
+      "gas:candidate-vibid:1001000136125": 17,
+      "gas:candidate-vibid:1001000217955": 20,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3173,14 +3173,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 58,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 7,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 58,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 7,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3230,14 +3230,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 78,
-      "Новиков Александр Васильевич": 14,
-      "Останин Дмитрий Дмитриевич": 26,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 44
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 78,
+      "gas:candidate-vibid:1001000136125": 14,
+      "gas:candidate-vibid:1001000217955": 26,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3287,14 +3287,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 10,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 12,
-      "Муцоев Зелимхан Аликоевич": 100,
-      "Новиков Александр Васильевич": 6,
-      "Останин Дмитрий Дмитриевич": 39,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:366300466927": 10,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 12,
+      "gas:candidate-vibid:1001000131414": 100,
+      "gas:candidate-vibid:1001000136125": 6,
+      "gas:candidate-vibid:1001000217955": 39,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3344,14 +3344,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 72,
-      "Муцоев Зелимхан Аликоевич": 262,
-      "Новиков Александр Васильевич": 52,
-      "Останин Дмитрий Дмитриевич": 40,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 116
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 72,
+      "gas:candidate-vibid:1001000131414": 262,
+      "gas:candidate-vibid:1001000136125": 52,
+      "gas:candidate-vibid:1001000217955": 40,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3401,14 +3401,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 9,
-      "Железняк Петр Иванович": 39,
-      "Муцоев Зелимхан Аликоевич": 267,
-      "Новиков Александр Васильевич": 29,
-      "Останин Дмитрий Дмитриевич": 40,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 112
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 9,
+      "gas:candidate-vibid:1001000121912": 39,
+      "gas:candidate-vibid:1001000131414": 267,
+      "gas:candidate-vibid:1001000136125": 29,
+      "gas:candidate-vibid:1001000217955": 40,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3458,14 +3458,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 34,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 9,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 34,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 9,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3515,14 +3515,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 12,
-      "Железняк Петр Иванович": 65,
-      "Муцоев Зелимхан Аликоевич": 354,
-      "Новиков Александр Васильевич": 43,
-      "Останин Дмитрий Дмитриевич": 76,
-      "Чекашев Дмитрий Владимирович": 29,
-      "Против всех": 128
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 12,
+      "gas:candidate-vibid:1001000121912": 65,
+      "gas:candidate-vibid:1001000131414": 354,
+      "gas:candidate-vibid:1001000136125": 43,
+      "gas:candidate-vibid:1001000217955": 76,
+      "gas:candidate-vibid:366300466769": 29,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3572,14 +3572,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 19,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 100,
-      "Муцоев Зелимхан Аликоевич": 149,
-      "Новиков Александр Васильевич": 24,
-      "Останин Дмитрий Дмитриевич": 56,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 65
+      "gas:candidate-vibid:366300466927": 19,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 100,
+      "gas:candidate-vibid:1001000131414": 149,
+      "gas:candidate-vibid:1001000136125": 24,
+      "gas:candidate-vibid:1001000217955": 56,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3629,14 +3629,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 14,
-      "Муцоев Зелимхан Аликоевич": 158,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 18,
-      "Чекашев Дмитрий Владимирович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 14,
+      "gas:candidate-vibid:1001000131414": 158,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 18,
+      "gas:candidate-vibid:366300466769": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3686,14 +3686,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 18,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 110,
-      "Новиков Александр Васильевич": 6,
-      "Останин Дмитрий Дмитриевич": 39,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:366300466927": 18,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 110,
+      "gas:candidate-vibid:1001000136125": 6,
+      "gas:candidate-vibid:1001000217955": 39,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3743,14 +3743,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 15,
-      "Муцоев Зелимхан Аликоевич": 104,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 24,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 15,
+      "gas:candidate-vibid:1001000131414": 104,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 24,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3800,14 +3800,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 11,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 17,
-      "Муцоев Зелимхан Аликоевич": 151,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 38,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:366300466927": 11,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 17,
+      "gas:candidate-vibid:1001000131414": 151,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 38,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3857,14 +3857,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 16,
-      "Муцоев Зелимхан Аликоевич": 112,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 23,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 16,
+      "gas:candidate-vibid:1001000131414": 112,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 23,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3914,14 +3914,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 23,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 17,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 23,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 17,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -3971,14 +3971,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 16,
-      "Муцоев Зелимхан Аликоевич": 61,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 22,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 16,
+      "gas:candidate-vibid:1001000131414": 61,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 22,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4028,14 +4028,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 39,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 18,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 39,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 18,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4085,14 +4085,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 21,
-      "Муцоев Зелимхан Аликоевич": 78,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 18,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 14
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 21,
+      "gas:candidate-vibid:1001000131414": 78,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 18,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4142,14 +4142,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 84,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 7,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 84,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 7,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4199,14 +4199,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 18,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 52,
-      "Муцоев Зелимхан Аликоевич": 161,
-      "Новиков Александр Васильевич": 21,
-      "Останин Дмитрий Дмитриевич": 66,
-      "Чекашев Дмитрий Владимирович": 23,
-      "Против всех": 32
+      "gas:candidate-vibid:366300466927": 18,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 52,
+      "gas:candidate-vibid:1001000131414": 161,
+      "gas:candidate-vibid:1001000136125": 21,
+      "gas:candidate-vibid:1001000217955": 66,
+      "gas:candidate-vibid:366300466769": 23,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4256,14 +4256,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 136,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 88,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 136,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 88,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4313,14 +4313,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 16,
-      "Муцоев Зелимхан Аликоевич": 90,
-      "Новиков Александр Васильевич": 15,
-      "Останин Дмитрий Дмитриевич": 59,
-      "Чекашев Дмитрий Владимирович": 6,
-      "Против всех": 39
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 16,
+      "gas:candidate-vibid:1001000131414": 90,
+      "gas:candidate-vibid:1001000136125": 15,
+      "gas:candidate-vibid:1001000217955": 59,
+      "gas:candidate-vibid:366300466769": 6,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4370,14 +4370,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 12,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 9,
-      "Муцоев Зелимхан Аликоевич": 50,
-      "Новиков Александр Васильевич": 11,
-      "Останин Дмитрий Дмитриевич": 69,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:366300466927": 12,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 9,
+      "gas:candidate-vibid:1001000131414": 50,
+      "gas:candidate-vibid:1001000136125": 11,
+      "gas:candidate-vibid:1001000217955": 69,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4427,14 +4427,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 122,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 68,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 36
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 122,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 68,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4484,14 +4484,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 18,
-      "Муцоев Зелимхан Аликоевич": 97,
-      "Новиков Александр Васильевич": 14,
-      "Останин Дмитрий Дмитриевич": 18,
-      "Чекашев Дмитрий Владимирович": 15,
-      "Против всех": 39
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 18,
+      "gas:candidate-vibid:1001000131414": 97,
+      "gas:candidate-vibid:1001000136125": 14,
+      "gas:candidate-vibid:1001000217955": 18,
+      "gas:candidate-vibid:366300466769": 15,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466955&region=0&sub_region=0&type=429",
@@ -4541,14 +4541,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 34,
-      "Муцоев Зелимхан Аликоевич": 114,
-      "Новиков Александр Васильевич": 17,
-      "Останин Дмитрий Дмитриевич": 32,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 25
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 34,
+      "gas:candidate-vibid:1001000131414": 114,
+      "gas:candidate-vibid:1001000136125": 17,
+      "gas:candidate-vibid:1001000217955": 32,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4598,14 +4598,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 32,
-      "Муцоев Зелимхан Аликоевич": 213,
-      "Новиков Александр Васильевич": 15,
-      "Останин Дмитрий Дмитриевич": 13,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 32,
+      "gas:candidate-vibid:1001000131414": 213,
+      "gas:candidate-vibid:1001000136125": 15,
+      "gas:candidate-vibid:1001000217955": 13,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4655,14 +4655,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 55,
-      "Муцоев Зелимхан Аликоевич": 238,
-      "Новиков Александр Васильевич": 26,
-      "Останин Дмитрий Дмитриевич": 38,
-      "Чекашев Дмитрий Владимирович": 15,
-      "Против всех": 74
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 55,
+      "gas:candidate-vibid:1001000131414": 238,
+      "gas:candidate-vibid:1001000136125": 26,
+      "gas:candidate-vibid:1001000217955": 38,
+      "gas:candidate-vibid:366300466769": 15,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4712,14 +4712,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 17,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 67,
-      "Муцоев Зелимхан Аликоевич": 306,
-      "Новиков Александр Васильевич": 23,
-      "Останин Дмитрий Дмитриевич": 24,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 48
+      "gas:candidate-vibid:366300466927": 17,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 67,
+      "gas:candidate-vibid:1001000131414": 306,
+      "gas:candidate-vibid:1001000136125": 23,
+      "gas:candidate-vibid:1001000217955": 24,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4769,14 +4769,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 10,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 45,
-      "Муцоев Зелимхан Аликоевич": 261,
-      "Новиков Александр Васильевич": 20,
-      "Останин Дмитрий Дмитриевич": 22,
-      "Чекашев Дмитрий Владимирович": 16,
-      "Против всех": 56
+      "gas:candidate-vibid:366300466927": 10,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 45,
+      "gas:candidate-vibid:1001000131414": 261,
+      "gas:candidate-vibid:1001000136125": 20,
+      "gas:candidate-vibid:1001000217955": 22,
+      "gas:candidate-vibid:366300466769": 16,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4826,14 +4826,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 11,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 38,
-      "Муцоев Зелимхан Аликоевич": 295,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 28,
-      "Чекашев Дмитрий Владимирович": 23,
-      "Против всех": 69
+      "gas:candidate-vibid:366300466927": 11,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 38,
+      "gas:candidate-vibid:1001000131414": 295,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 28,
+      "gas:candidate-vibid:366300466769": 23,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4883,14 +4883,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 61,
-      "Муцоев Зелимхан Аликоевич": 221,
-      "Новиков Александр Васильевич": 28,
-      "Останин Дмитрий Дмитриевич": 38,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 58
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 61,
+      "gas:candidate-vibid:1001000131414": 221,
+      "gas:candidate-vibid:1001000136125": 28,
+      "gas:candidate-vibid:1001000217955": 38,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4940,14 +4940,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 24,
-      "Муцоев Зелимхан Аликоевич": 74,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 26,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 24,
+      "gas:candidate-vibid:1001000131414": 74,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 26,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -4997,14 +4997,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 70,
-      "Новиков Александр Васильевич": 8,
-      "Останин Дмитрий Дмитриевич": 2,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 70,
+      "gas:candidate-vibid:1001000136125": 8,
+      "gas:candidate-vibid:1001000217955": 2,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466956&region=0&sub_region=0&type=429",
@@ -5054,14 +5054,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 18,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 35,
-      "Муцоев Зелимхан Аликоевич": 386,
-      "Новиков Александр Васильевич": 41,
-      "Останин Дмитрий Дмитриевич": 83,
-      "Чекашев Дмитрий Владимирович": 23,
-      "Против всех": 139
+      "gas:candidate-vibid:366300466927": 18,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 35,
+      "gas:candidate-vibid:1001000131414": 386,
+      "gas:candidate-vibid:1001000136125": 41,
+      "gas:candidate-vibid:1001000217955": 83,
+      "gas:candidate-vibid:366300466769": 23,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5111,14 +5111,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 12,
-      "Муцоев Зелимхан Аликоевич": 205,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 26,
-      "Чекашев Дмитрий Владимирович": 6,
-      "Против всех": 61
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 12,
+      "gas:candidate-vibid:1001000131414": 205,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 26,
+      "gas:candidate-vibid:366300466769": 6,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5168,14 +5168,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 15,
-      "Дорожкин Андрей Вячеславович": 9,
-      "Железняк Петр Иванович": 51,
-      "Муцоев Зелимхан Аликоевич": 298,
-      "Новиков Александр Васильевич": 25,
-      "Останин Дмитрий Дмитриевич": 51,
-      "Чекашев Дмитрий Владимирович": 10,
-      "Против всех": 88
+      "gas:candidate-vibid:366300466927": 15,
+      "gas:candidate-vibid:366300466677": 9,
+      "gas:candidate-vibid:1001000121912": 51,
+      "gas:candidate-vibid:1001000131414": 298,
+      "gas:candidate-vibid:1001000136125": 25,
+      "gas:candidate-vibid:1001000217955": 51,
+      "gas:candidate-vibid:366300466769": 10,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5225,14 +5225,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 34,
-      "Дорожкин Андрей Вячеславович": 9,
-      "Железняк Петр Иванович": 51,
-      "Муцоев Зелимхан Аликоевич": 693,
-      "Новиков Александр Васильевич": 38,
-      "Останин Дмитрий Дмитриевич": 91,
-      "Чекашев Дмитрий Владимирович": 32,
-      "Против всех": 176
+      "gas:candidate-vibid:366300466927": 34,
+      "gas:candidate-vibid:366300466677": 9,
+      "gas:candidate-vibid:1001000121912": 51,
+      "gas:candidate-vibid:1001000131414": 693,
+      "gas:candidate-vibid:1001000136125": 38,
+      "gas:candidate-vibid:1001000217955": 91,
+      "gas:candidate-vibid:366300466769": 32,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5282,14 +5282,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 69,
-      "Муцоев Зелимхан Аликоевич": 700,
-      "Новиков Александр Васильевич": 69,
-      "Останин Дмитрий Дмитриевич": 150,
-      "Чекашев Дмитрий Владимирович": 39,
-      "Против всех": 182
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 69,
+      "gas:candidate-vibid:1001000131414": 700,
+      "gas:candidate-vibid:1001000136125": 69,
+      "gas:candidate-vibid:1001000217955": 150,
+      "gas:candidate-vibid:366300466769": 39,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5339,14 +5339,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 19,
-      "Дорожкин Андрей Вячеславович": 16,
-      "Железняк Петр Иванович": 66,
-      "Муцоев Зелимхан Аликоевич": 543,
-      "Новиков Александр Васильевич": 32,
-      "Останин Дмитрий Дмитриевич": 113,
-      "Чекашев Дмитрий Владимирович": 27,
-      "Против всех": 205
+      "gas:candidate-vibid:366300466927": 19,
+      "gas:candidate-vibid:366300466677": 16,
+      "gas:candidate-vibid:1001000121912": 66,
+      "gas:candidate-vibid:1001000131414": 543,
+      "gas:candidate-vibid:1001000136125": 32,
+      "gas:candidate-vibid:1001000217955": 113,
+      "gas:candidate-vibid:366300466769": 27,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5396,14 +5396,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 24,
-      "Муцоев Зелимхан Аликоевич": 65,
-      "Новиков Александр Васильевич": 12,
-      "Останин Дмитрий Дмитриевич": 26,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 58
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 24,
+      "gas:candidate-vibid:1001000131414": 65,
+      "gas:candidate-vibid:1001000136125": 12,
+      "gas:candidate-vibid:1001000217955": 26,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5453,14 +5453,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 22,
-      "Дорожкин Андрей Вячеславович": 11,
-      "Железняк Петр Иванович": 43,
-      "Муцоев Зелимхан Аликоевич": 152,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 70,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 57
+      "gas:candidate-vibid:366300466927": 22,
+      "gas:candidate-vibid:366300466677": 11,
+      "gas:candidate-vibid:1001000121912": 43,
+      "gas:candidate-vibid:1001000131414": 152,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 70,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5510,14 +5510,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 33,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 33,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5567,14 +5567,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 28,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 28,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5624,14 +5624,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 49,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 5,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 49,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 5,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5681,14 +5681,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 14,
-      "Муцоев Зелимхан Аликоевич": 104,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 40,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 14,
+      "gas:candidate-vibid:1001000131414": 104,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 40,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5738,14 +5738,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 76,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 2,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 76,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 2,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5795,14 +5795,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 2,
-      "Муцоев Зелимхан Аликоевич": 34,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 4,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 2,
+      "gas:candidate-vibid:1001000131414": 34,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 4,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5852,14 +5852,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 9,
-      "Муцоев Зелимхан Аликоевич": 74,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 5,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 9,
+      "gas:candidate-vibid:1001000131414": 74,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 5,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5909,14 +5909,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 25,
-      "Новиков Александр Васильевич": 1,
-      "Останин Дмитрий Дмитриевич": 4,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 25,
+      "gas:candidate-vibid:1001000136125": 1,
+      "gas:candidate-vibid:1001000217955": 4,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -5966,14 +5966,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 10,
-      "Муцоев Зелимхан Аликоевич": 121,
-      "Новиков Александр Васильевич": 11,
-      "Останин Дмитрий Дмитриевич": 39,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 46
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 10,
+      "gas:candidate-vibid:1001000131414": 121,
+      "gas:candidate-vibid:1001000136125": 11,
+      "gas:candidate-vibid:1001000217955": 39,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6023,14 +6023,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 18,
-      "Дорожкин Андрей Вячеславович": 13,
-      "Железняк Петр Иванович": 66,
-      "Муцоев Зелимхан Аликоевич": 88,
-      "Новиков Александр Васильевич": 19,
-      "Останин Дмитрий Дмитриевич": 82,
-      "Чекашев Дмитрий Владимирович": 18,
-      "Против всех": 83
+      "gas:candidate-vibid:366300466927": 18,
+      "gas:candidate-vibid:366300466677": 13,
+      "gas:candidate-vibid:1001000121912": 66,
+      "gas:candidate-vibid:1001000131414": 88,
+      "gas:candidate-vibid:1001000136125": 19,
+      "gas:candidate-vibid:1001000217955": 82,
+      "gas:candidate-vibid:366300466769": 18,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6080,14 +6080,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 9,
-      "Муцоев Зелимхан Аликоевич": 12,
-      "Новиков Александр Васильевич": 1,
-      "Останин Дмитрий Дмитриевич": 53,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 9,
+      "gas:candidate-vibid:1001000131414": 12,
+      "gas:candidate-vibid:1001000136125": 1,
+      "gas:candidate-vibid:1001000217955": 53,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6137,14 +6137,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 26,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 32,
-      "Муцоев Зелимхан Аликоевич": 45,
-      "Новиков Александр Васильевич": 14,
-      "Останин Дмитрий Дмитриевич": 69,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 106
+      "gas:candidate-vibid:366300466927": 26,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 32,
+      "gas:candidate-vibid:1001000131414": 45,
+      "gas:candidate-vibid:1001000136125": 14,
+      "gas:candidate-vibid:1001000217955": 69,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6194,14 +6194,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 20,
-      "Муцоев Зелимхан Аликоевич": 48,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 35,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 52
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 20,
+      "gas:candidate-vibid:1001000131414": 48,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 35,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6251,14 +6251,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 4,
-      "Муцоев Зелимхан Аликоевич": 21,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 3,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 4,
+      "gas:candidate-vibid:1001000131414": 21,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 3,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6308,14 +6308,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 29,
-      "Дорожкин Андрей Вячеславович": 15,
-      "Железняк Петр Иванович": 54,
-      "Муцоев Зелимхан Аликоевич": 292,
-      "Новиков Александр Васильевич": 33,
-      "Останин Дмитрий Дмитриевич": 155,
-      "Чекашев Дмитрий Владимирович": 38,
-      "Против всех": 178
+      "gas:candidate-vibid:366300466927": 29,
+      "gas:candidate-vibid:366300466677": 15,
+      "gas:candidate-vibid:1001000121912": 54,
+      "gas:candidate-vibid:1001000131414": 292,
+      "gas:candidate-vibid:1001000136125": 33,
+      "gas:candidate-vibid:1001000217955": 155,
+      "gas:candidate-vibid:366300466769": 38,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6365,14 +6365,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 18,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 14,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 18,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 14,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6422,14 +6422,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 18,
-      "Муцоев Зелимхан Аликоевич": 22,
-      "Новиков Александр Васильевич": 6,
-      "Останин Дмитрий Дмитриевич": 19,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 18,
+      "gas:candidate-vibid:1001000131414": 22,
+      "gas:candidate-vibid:1001000136125": 6,
+      "gas:candidate-vibid:1001000217955": 19,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6479,14 +6479,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 21,
-      "Муцоев Зелимхан Аликоевич": 49,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 31,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 21,
+      "gas:candidate-vibid:1001000131414": 49,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 31,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6536,14 +6536,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 9,
-      "Муцоев Зелимхан Аликоевич": 15,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 5,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 9,
+      "gas:candidate-vibid:1001000131414": 15,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 5,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6593,14 +6593,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 14,
-      "Муцоев Зелимхан Аликоевич": 22,
-      "Новиков Александр Васильевич": 11,
-      "Останин Дмитрий Дмитриевич": 18,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 14,
+      "gas:candidate-vibid:1001000131414": 22,
+      "gas:candidate-vibid:1001000136125": 11,
+      "gas:candidate-vibid:1001000217955": 18,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6650,14 +6650,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 36,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 73,
-      "Новиков Александр Васильевич": 11,
-      "Останин Дмитрий Дмитриевич": 47,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:366300466927": 36,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 73,
+      "gas:candidate-vibid:1001000136125": 11,
+      "gas:candidate-vibid:1001000217955": 47,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6707,14 +6707,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 33,
-      "Муцоев Зелимхан Аликоевич": 216,
-      "Новиков Александр Васильевич": 11,
-      "Останин Дмитрий Дмитриевич": 61,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 57
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 33,
+      "gas:candidate-vibid:1001000131414": 216,
+      "gas:candidate-vibid:1001000136125": 11,
+      "gas:candidate-vibid:1001000217955": 61,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6764,14 +6764,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 164,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 8,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 164,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 8,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6821,14 +6821,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 12,
-      "Муцоев Зелимхан Аликоевич": 201,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 94,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 12,
+      "gas:candidate-vibid:1001000131414": 201,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 94,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6878,14 +6878,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 35,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 42,
-      "Муцоев Зелимхан Аликоевич": 153,
-      "Новиков Александр Васильевич": 26,
-      "Останин Дмитрий Дмитриевич": 37,
-      "Чекашев Дмитрий Владимирович": 15,
-      "Против всех": 80
+      "gas:candidate-vibid:366300466927": 35,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 42,
+      "gas:candidate-vibid:1001000131414": 153,
+      "gas:candidate-vibid:1001000136125": 26,
+      "gas:candidate-vibid:1001000217955": 37,
+      "gas:candidate-vibid:366300466769": 15,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6935,14 +6935,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 25,
-      "Новиков Александр Васильевич": 1,
-      "Останин Дмитрий Дмитриевич": 0,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 25,
+      "gas:candidate-vibid:1001000136125": 1,
+      "gas:candidate-vibid:1001000217955": 0,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -6992,14 +6992,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 24,
-      "Новиков Александр Васильевич": 9,
-      "Останин Дмитрий Дмитриевич": 0,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 24,
+      "gas:candidate-vibid:1001000136125": 9,
+      "gas:candidate-vibid:1001000217955": 0,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7049,14 +7049,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 40,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 10,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 40,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 10,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7106,14 +7106,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 47,
-      "Муцоев Зелимхан Аликоевич": 319,
-      "Новиков Александр Васильевич": 27,
-      "Останин Дмитрий Дмитриевич": 75,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 47,
+      "gas:candidate-vibid:1001000131414": 319,
+      "gas:candidate-vibid:1001000136125": 27,
+      "gas:candidate-vibid:1001000217955": 75,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7163,14 +7163,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 57,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 28,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 57,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 28,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7220,14 +7220,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 13,
-      "Муцоев Зелимхан Аликоевич": 47,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 13,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 13,
+      "gas:candidate-vibid:1001000131414": 47,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 13,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7277,14 +7277,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 46,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 1,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 46,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 1,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7334,14 +7334,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 18,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 26,
-      "Муцоев Зелимхан Аликоевич": 307,
-      "Новиков Александр Васильевич": 17,
-      "Останин Дмитрий Дмитриевич": 60,
-      "Чекашев Дмитрий Владимирович": 17,
-      "Против всех": 79
+      "gas:candidate-vibid:366300466927": 18,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 26,
+      "gas:candidate-vibid:1001000131414": 307,
+      "gas:candidate-vibid:1001000136125": 17,
+      "gas:candidate-vibid:1001000217955": 60,
+      "gas:candidate-vibid:366300466769": 17,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7391,14 +7391,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 18,
-      "Муцоев Зелимхан Аликоевич": 67,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 32,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 18,
+      "gas:candidate-vibid:1001000131414": 67,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 32,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7448,14 +7448,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 10,
-      "Муцоев Зелимхан Аликоевич": 110,
-      "Новиков Александр Васильевич": 8,
-      "Останин Дмитрий Дмитриевич": 32,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 31
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 10,
+      "gas:candidate-vibid:1001000131414": 110,
+      "gas:candidate-vibid:1001000136125": 8,
+      "gas:candidate-vibid:1001000217955": 32,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7505,14 +7505,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 87,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 15,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 87,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 15,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7562,14 +7562,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 12,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 14,
-      "Муцоев Зелимхан Аликоевич": 87,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 49,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:366300466927": 12,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 14,
+      "gas:candidate-vibid:1001000131414": 87,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 49,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7619,14 +7619,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 31,
-      "Муцоев Зелимхан Аликоевич": 212,
-      "Новиков Александр Васильевич": 19,
-      "Останин Дмитрий Дмитриевич": 65,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 61
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 31,
+      "gas:candidate-vibid:1001000131414": 212,
+      "gas:candidate-vibid:1001000136125": 19,
+      "gas:candidate-vibid:1001000217955": 65,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7676,14 +7676,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 0,
-      "Муцоев Зелимхан Аликоевич": 19,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 25,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 0,
+      "gas:candidate-vibid:1001000131414": 19,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 25,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7733,14 +7733,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 13,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 13,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7790,14 +7790,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 52,
-      "Муцоев Зелимхан Аликоевич": 165,
-      "Новиков Александр Васильевич": 12,
-      "Останин Дмитрий Дмитриевич": 85,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 50
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 52,
+      "gas:candidate-vibid:1001000131414": 165,
+      "gas:candidate-vibid:1001000136125": 12,
+      "gas:candidate-vibid:1001000217955": 85,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7847,14 +7847,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 41,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 30,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 41,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 30,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7904,14 +7904,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 126,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 126,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -7961,14 +7961,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 126,
-      "Новиков Александр Васильевич": 1,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 126,
+      "gas:candidate-vibid:1001000136125": 1,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466957&region=0&sub_region=0&type=429",
@@ -8018,14 +8018,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 24,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 66,
-      "Муцоев Зелимхан Аликоевич": 580,
-      "Новиков Александр Васильевич": 93,
-      "Останин Дмитрий Дмитриевич": 115,
-      "Чекашев Дмитрий Владимирович": 46,
-      "Против всех": 433
+      "gas:candidate-vibid:366300466927": 24,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 66,
+      "gas:candidate-vibid:1001000131414": 580,
+      "gas:candidate-vibid:1001000136125": 93,
+      "gas:candidate-vibid:1001000217955": 115,
+      "gas:candidate-vibid:366300466769": 46,
+      "special:against-all": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8075,14 +8075,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 27,
-      "Дорожкин Андрей Вячеславович": 20,
-      "Железняк Петр Иванович": 73,
-      "Муцоев Зелимхан Аликоевич": 555,
-      "Новиков Александр Васильевич": 67,
-      "Останин Дмитрий Дмитриевич": 126,
-      "Чекашев Дмитрий Владимирович": 52,
-      "Против всех": 420
+      "gas:candidate-vibid:366300466927": 27,
+      "gas:candidate-vibid:366300466677": 20,
+      "gas:candidate-vibid:1001000121912": 73,
+      "gas:candidate-vibid:1001000131414": 555,
+      "gas:candidate-vibid:1001000136125": 67,
+      "gas:candidate-vibid:1001000217955": 126,
+      "gas:candidate-vibid:366300466769": 52,
+      "special:against-all": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8132,14 +8132,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 11,
-      "Железняк Петр Иванович": 29,
-      "Муцоев Зелимхан Аликоевич": 256,
-      "Новиков Александр Васильевич": 23,
-      "Останин Дмитрий Дмитриевич": 49,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 149
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 11,
+      "gas:candidate-vibid:1001000121912": 29,
+      "gas:candidate-vibid:1001000131414": 256,
+      "gas:candidate-vibid:1001000136125": 23,
+      "gas:candidate-vibid:1001000217955": 49,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8189,14 +8189,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 23,
-      "Дорожкин Андрей Вячеславович": 12,
-      "Железняк Петр Иванович": 61,
-      "Муцоев Зелимхан Аликоевич": 463,
-      "Новиков Александр Васильевич": 57,
-      "Останин Дмитрий Дмитриевич": 87,
-      "Чекашев Дмитрий Владимирович": 36,
-      "Против всех": 212
+      "gas:candidate-vibid:366300466927": 23,
+      "gas:candidate-vibid:366300466677": 12,
+      "gas:candidate-vibid:1001000121912": 61,
+      "gas:candidate-vibid:1001000131414": 463,
+      "gas:candidate-vibid:1001000136125": 57,
+      "gas:candidate-vibid:1001000217955": 87,
+      "gas:candidate-vibid:366300466769": 36,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8246,14 +8246,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 18,
-      "Дорожкин Андрей Вячеславович": 11,
-      "Железняк Петр Иванович": 70,
-      "Муцоев Зелимхан Аликоевич": 418,
-      "Новиков Александр Васильевич": 54,
-      "Останин Дмитрий Дмитриевич": 112,
-      "Чекашев Дмитрий Владимирович": 37,
-      "Против всех": 216
+      "gas:candidate-vibid:366300466927": 18,
+      "gas:candidate-vibid:366300466677": 11,
+      "gas:candidate-vibid:1001000121912": 70,
+      "gas:candidate-vibid:1001000131414": 418,
+      "gas:candidate-vibid:1001000136125": 54,
+      "gas:candidate-vibid:1001000217955": 112,
+      "gas:candidate-vibid:366300466769": 37,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8303,14 +8303,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 47,
-      "Дорожкин Андрей Вячеславович": 16,
-      "Железняк Петр Иванович": 75,
-      "Муцоев Зелимхан Аликоевич": 490,
-      "Новиков Александр Васильевич": 67,
-      "Останин Дмитрий Дмитриевич": 124,
-      "Чекашев Дмитрий Владимирович": 51,
-      "Против всех": 329
+      "gas:candidate-vibid:366300466927": 47,
+      "gas:candidate-vibid:366300466677": 16,
+      "gas:candidate-vibid:1001000121912": 75,
+      "gas:candidate-vibid:1001000131414": 490,
+      "gas:candidate-vibid:1001000136125": 67,
+      "gas:candidate-vibid:1001000217955": 124,
+      "gas:candidate-vibid:366300466769": 51,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8360,14 +8360,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 33,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 53,
-      "Муцоев Зелимхан Аликоевич": 320,
-      "Новиков Александр Васильевич": 56,
-      "Останин Дмитрий Дмитриевич": 108,
-      "Чекашев Дмитрий Владимирович": 47,
-      "Против всех": 302
+      "gas:candidate-vibid:366300466927": 33,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 53,
+      "gas:candidate-vibid:1001000131414": 320,
+      "gas:candidate-vibid:1001000136125": 56,
+      "gas:candidate-vibid:1001000217955": 108,
+      "gas:candidate-vibid:366300466769": 47,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8417,14 +8417,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 21,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 26,
-      "Муцоев Зелимхан Аликоевич": 310,
-      "Новиков Александр Васильевич": 44,
-      "Останин Дмитрий Дмитриевич": 75,
-      "Чекашев Дмитрий Владимирович": 39,
-      "Против всех": 307
+      "gas:candidate-vibid:366300466927": 21,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 26,
+      "gas:candidate-vibid:1001000131414": 310,
+      "gas:candidate-vibid:1001000136125": 44,
+      "gas:candidate-vibid:1001000217955": 75,
+      "gas:candidate-vibid:366300466769": 39,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8474,14 +8474,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 39,
-      "Муцоев Зелимхан Аликоевич": 303,
-      "Новиков Александр Васильевич": 36,
-      "Останин Дмитрий Дмитриевич": 52,
-      "Чекашев Дмитрий Владимирович": 18,
-      "Против всех": 144
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 39,
+      "gas:candidate-vibid:1001000131414": 303,
+      "gas:candidate-vibid:1001000136125": 36,
+      "gas:candidate-vibid:1001000217955": 52,
+      "gas:candidate-vibid:366300466769": 18,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8531,14 +8531,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 30,
-      "Дорожкин Андрей Вячеславович": 22,
-      "Железняк Петр Иванович": 66,
-      "Муцоев Зелимхан Аликоевич": 442,
-      "Новиков Александр Васильевич": 73,
-      "Останин Дмитрий Дмитриевич": 115,
-      "Чекашев Дмитрий Владимирович": 31,
-      "Против всех": 354
+      "gas:candidate-vibid:366300466927": 30,
+      "gas:candidate-vibid:366300466677": 22,
+      "gas:candidate-vibid:1001000121912": 66,
+      "gas:candidate-vibid:1001000131414": 442,
+      "gas:candidate-vibid:1001000136125": 73,
+      "gas:candidate-vibid:1001000217955": 115,
+      "gas:candidate-vibid:366300466769": 31,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8588,14 +8588,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 24,
-      "Дорожкин Андрей Вячеславович": 12,
-      "Железняк Петр Иванович": 66,
-      "Муцоев Зелимхан Аликоевич": 333,
-      "Новиков Александр Васильевич": 84,
-      "Останин Дмитрий Дмитриевич": 133,
-      "Чекашев Дмитрий Владимирович": 44,
-      "Против всех": 419
+      "gas:candidate-vibid:366300466927": 24,
+      "gas:candidate-vibid:366300466677": 12,
+      "gas:candidate-vibid:1001000121912": 66,
+      "gas:candidate-vibid:1001000131414": 333,
+      "gas:candidate-vibid:1001000136125": 84,
+      "gas:candidate-vibid:1001000217955": 133,
+      "gas:candidate-vibid:366300466769": 44,
+      "special:against-all": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8645,14 +8645,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 24,
-      "Дорожкин Андрей Вячеславович": 9,
-      "Железняк Петр Иванович": 77,
-      "Муцоев Зелимхан Аликоевич": 364,
-      "Новиков Александр Васильевич": 86,
-      "Останин Дмитрий Дмитриевич": 111,
-      "Чекашев Дмитрий Владимирович": 31,
-      "Против всех": 315
+      "gas:candidate-vibid:366300466927": 24,
+      "gas:candidate-vibid:366300466677": 9,
+      "gas:candidate-vibid:1001000121912": 77,
+      "gas:candidate-vibid:1001000131414": 364,
+      "gas:candidate-vibid:1001000136125": 86,
+      "gas:candidate-vibid:1001000217955": 111,
+      "gas:candidate-vibid:366300466769": 31,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8702,14 +8702,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 21,
-      "Дорожкин Андрей Вячеславович": 12,
-      "Железняк Петр Иванович": 50,
-      "Муцоев Зелимхан Аликоевич": 446,
-      "Новиков Александр Васильевич": 57,
-      "Останин Дмитрий Дмитриевич": 107,
-      "Чекашев Дмитрий Владимирович": 36,
-      "Против всех": 290
+      "gas:candidate-vibid:366300466927": 21,
+      "gas:candidate-vibid:366300466677": 12,
+      "gas:candidate-vibid:1001000121912": 50,
+      "gas:candidate-vibid:1001000131414": 446,
+      "gas:candidate-vibid:1001000136125": 57,
+      "gas:candidate-vibid:1001000217955": 107,
+      "gas:candidate-vibid:366300466769": 36,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8759,14 +8759,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 11,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 36,
-      "Муцоев Зелимхан Аликоевич": 196,
-      "Новиков Александр Васильевич": 28,
-      "Останин Дмитрий Дмитриевич": 46,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 123
+      "gas:candidate-vibid:366300466927": 11,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 36,
+      "gas:candidate-vibid:1001000131414": 196,
+      "gas:candidate-vibid:1001000136125": 28,
+      "gas:candidate-vibid:1001000217955": 46,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8816,14 +8816,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 35,
-      "Дорожкин Андрей Вячеславович": 15,
-      "Железняк Петр Иванович": 45,
-      "Муцоев Зелимхан Аликоевич": 419,
-      "Новиков Александр Васильевич": 70,
-      "Останин Дмитрий Дмитриевич": 85,
-      "Чекашев Дмитрий Владимирович": 34,
-      "Против всех": 327
+      "gas:candidate-vibid:366300466927": 35,
+      "gas:candidate-vibid:366300466677": 15,
+      "gas:candidate-vibid:1001000121912": 45,
+      "gas:candidate-vibid:1001000131414": 419,
+      "gas:candidate-vibid:1001000136125": 70,
+      "gas:candidate-vibid:1001000217955": 85,
+      "gas:candidate-vibid:366300466769": 34,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8873,14 +8873,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 21,
-      "Дорожкин Андрей Вячеславович": 13,
-      "Железняк Петр Иванович": 36,
-      "Муцоев Зелимхан Аликоевич": 271,
-      "Новиков Александр Васильевич": 33,
-      "Останин Дмитрий Дмитриевич": 49,
-      "Чекашев Дмитрий Владимирович": 28,
-      "Против всех": 177
+      "gas:candidate-vibid:366300466927": 21,
+      "gas:candidate-vibid:366300466677": 13,
+      "gas:candidate-vibid:1001000121912": 36,
+      "gas:candidate-vibid:1001000131414": 271,
+      "gas:candidate-vibid:1001000136125": 33,
+      "gas:candidate-vibid:1001000217955": 49,
+      "gas:candidate-vibid:366300466769": 28,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8930,14 +8930,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 74,
-      "Дорожкин Андрей Вячеславович": 48,
-      "Железняк Петр Иванович": 104,
-      "Муцоев Зелимхан Аликоевич": 675,
-      "Новиков Александр Васильевич": 119,
-      "Останин Дмитрий Дмитриевич": 94,
-      "Чекашев Дмитрий Владимирович": 80,
-      "Против всех": 413
+      "gas:candidate-vibid:366300466927": 74,
+      "gas:candidate-vibid:366300466677": 48,
+      "gas:candidate-vibid:1001000121912": 104,
+      "gas:candidate-vibid:1001000131414": 675,
+      "gas:candidate-vibid:1001000136125": 119,
+      "gas:candidate-vibid:1001000217955": 94,
+      "gas:candidate-vibid:366300466769": 80,
+      "special:against-all": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -8987,14 +8987,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 11,
-      "Дорожкин Андрей Вячеславович": 22,
-      "Железняк Петр Иванович": 43,
-      "Муцоев Зелимхан Аликоевич": 442,
-      "Новиков Александр Васильевич": 37,
-      "Останин Дмитрий Дмитриевич": 66,
-      "Чекашев Дмитрий Владимирович": 21,
-      "Против всех": 178
+      "gas:candidate-vibid:366300466927": 11,
+      "gas:candidate-vibid:366300466677": 22,
+      "gas:candidate-vibid:1001000121912": 43,
+      "gas:candidate-vibid:1001000131414": 442,
+      "gas:candidate-vibid:1001000136125": 37,
+      "gas:candidate-vibid:1001000217955": 66,
+      "gas:candidate-vibid:366300466769": 21,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9044,14 +9044,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 47,
-      "Дорожкин Андрей Вячеславович": 16,
-      "Железняк Петр Иванович": 80,
-      "Муцоев Зелимхан Аликоевич": 487,
-      "Новиков Александр Васильевич": 68,
-      "Останин Дмитрий Дмитриевич": 132,
-      "Чекашев Дмитрий Владимирович": 48,
-      "Против всех": 330
+      "gas:candidate-vibid:366300466927": 47,
+      "gas:candidate-vibid:366300466677": 16,
+      "gas:candidate-vibid:1001000121912": 80,
+      "gas:candidate-vibid:1001000131414": 487,
+      "gas:candidate-vibid:1001000136125": 68,
+      "gas:candidate-vibid:1001000217955": 132,
+      "gas:candidate-vibid:366300466769": 48,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9101,14 +9101,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 16,
-      "Муцоев Зелимхан Аликоевич": 156,
-      "Новиков Александр Васильевич": 15,
-      "Останин Дмитрий Дмитриевич": 40,
-      "Чекашев Дмитрий Владимирович": 21,
-      "Против всех": 103
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 16,
+      "gas:candidate-vibid:1001000131414": 156,
+      "gas:candidate-vibid:1001000136125": 15,
+      "gas:candidate-vibid:1001000217955": 40,
+      "gas:candidate-vibid:366300466769": 21,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9158,14 +9158,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 6,
-      "Муцоев Зелимхан Аликоевич": 39,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 14,
-      "Чекашев Дмитрий Владимирович": 10,
-      "Против всех": 41
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 6,
+      "gas:candidate-vibid:1001000131414": 39,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 14,
+      "gas:candidate-vibid:366300466769": 10,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9215,14 +9215,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 15,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 41,
-      "Муцоев Зелимхан Аликоевич": 442,
-      "Новиков Александр Васильевич": 48,
-      "Останин Дмитрий Дмитриевич": 88,
-      "Чекашев Дмитрий Владимирович": 29,
-      "Против всех": 182
+      "gas:candidate-vibid:366300466927": 15,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 41,
+      "gas:candidate-vibid:1001000131414": 442,
+      "gas:candidate-vibid:1001000136125": 48,
+      "gas:candidate-vibid:1001000217955": 88,
+      "gas:candidate-vibid:366300466769": 29,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9272,14 +9272,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 9,
-      "Муцоев Зелимхан Аликоевич": 66,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 28,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 30
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 9,
+      "gas:candidate-vibid:1001000131414": 66,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 28,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9329,14 +9329,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 31,
-      "Муцоев Зелимхан Аликоевич": 202,
-      "Новиков Александр Васильевич": 32,
-      "Останин Дмитрий Дмитриевич": 53,
-      "Чекашев Дмитрий Владимирович": 28,
-      "Против всех": 130
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 31,
+      "gas:candidate-vibid:1001000131414": 202,
+      "gas:candidate-vibid:1001000136125": 32,
+      "gas:candidate-vibid:1001000217955": 53,
+      "gas:candidate-vibid:366300466769": 28,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9386,14 +9386,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 10,
-      "Муцоев Зелимхан Аликоевич": 89,
-      "Новиков Александр Васильевич": 27,
-      "Останин Дмитрий Дмитриевич": 23,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 68
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 10,
+      "gas:candidate-vibid:1001000131414": 89,
+      "gas:candidate-vibid:1001000136125": 27,
+      "gas:candidate-vibid:1001000217955": 23,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9443,14 +9443,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 32,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 50,
-      "Муцоев Зелимхан Аликоевич": 447,
-      "Новиков Александр Васильевич": 44,
-      "Останин Дмитрий Дмитриевич": 49,
-      "Чекашев Дмитрий Владимирович": 18,
-      "Против всех": 150
+      "gas:candidate-vibid:366300466927": 32,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 50,
+      "gas:candidate-vibid:1001000131414": 447,
+      "gas:candidate-vibid:1001000136125": 44,
+      "gas:candidate-vibid:1001000217955": 49,
+      "gas:candidate-vibid:366300466769": 18,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9500,14 +9500,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 70,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 70,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9557,14 +9557,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 34,
-      "Дорожкин Андрей Вячеславович": 13,
-      "Железняк Петр Иванович": 41,
-      "Муцоев Зелимхан Аликоевич": 251,
-      "Новиков Александр Васильевич": 39,
-      "Останин Дмитрий Дмитриевич": 124,
-      "Чекашев Дмитрий Владимирович": 18,
-      "Против всех": 172
+      "gas:candidate-vibid:366300466927": 34,
+      "gas:candidate-vibid:366300466677": 13,
+      "gas:candidate-vibid:1001000121912": 41,
+      "gas:candidate-vibid:1001000131414": 251,
+      "gas:candidate-vibid:1001000136125": 39,
+      "gas:candidate-vibid:1001000217955": 124,
+      "gas:candidate-vibid:366300466769": 18,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9614,14 +9614,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 21,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 17,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 30
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 21,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 17,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9671,14 +9671,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 29,
-      "Новиков Александр Васильевич": 9,
-      "Останин Дмитрий Дмитриевич": 29,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 29,
+      "gas:candidate-vibid:1001000136125": 9,
+      "gas:candidate-vibid:1001000217955": 29,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9728,14 +9728,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 5,
-      "Муцоев Зелимхан Аликоевич": 33,
-      "Новиков Александр Васильевич": 9,
-      "Останин Дмитрий Дмитриевич": 21,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 5,
+      "gas:candidate-vibid:1001000131414": 33,
+      "gas:candidate-vibid:1001000136125": 9,
+      "gas:candidate-vibid:1001000217955": 21,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9785,14 +9785,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 2,
-      "Муцоев Зелимхан Аликоевич": 41,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 3,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 2,
+      "gas:candidate-vibid:1001000131414": 41,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 3,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9842,14 +9842,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 36,
-      "Муцоев Зелимхан Аликоевич": 148,
-      "Новиков Александр Васильевич": 41,
-      "Останин Дмитрий Дмитриевич": 57,
-      "Чекашев Дмитрий Владимирович": 20,
-      "Против всех": 146
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 36,
+      "gas:candidate-vibid:1001000131414": 148,
+      "gas:candidate-vibid:1001000136125": 41,
+      "gas:candidate-vibid:1001000217955": 57,
+      "gas:candidate-vibid:366300466769": 20,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9899,14 +9899,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 148,
-      "Новиков Александр Васильевич": 9,
-      "Останин Дмитрий Дмитриевич": 2,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 31
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 148,
+      "gas:candidate-vibid:1001000136125": 9,
+      "gas:candidate-vibid:1001000217955": 2,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466959&region=0&sub_region=0&type=429",
@@ -9956,14 +9956,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 52,
-      "Муцоев Зелимхан Аликоевич": 302,
-      "Новиков Александр Васильевич": 16,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 52,
+      "gas:candidate-vibid:1001000131414": 302,
+      "gas:candidate-vibid:1001000136125": 16,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10013,14 +10013,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 137,
-      "Муцоев Зелимхан Аликоевич": 579,
-      "Новиков Александр Васильевич": 8,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 83
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 137,
+      "gas:candidate-vibid:1001000131414": 579,
+      "gas:candidate-vibid:1001000136125": 8,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10070,14 +10070,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 28,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 142,
-      "Муцоев Зелимхан Аликоевич": 724,
-      "Новиков Александр Васильевич": 32,
-      "Останин Дмитрий Дмитриевич": 29,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 114
+      "gas:candidate-vibid:366300466927": 28,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 142,
+      "gas:candidate-vibid:1001000131414": 724,
+      "gas:candidate-vibid:1001000136125": 32,
+      "gas:candidate-vibid:1001000217955": 29,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10127,14 +10127,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 21,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 198,
-      "Муцоев Зелимхан Аликоевич": 778,
-      "Новиков Александр Васильевич": 25,
-      "Останин Дмитрий Дмитриевич": 26,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 105
+      "gas:candidate-vibid:366300466927": 21,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 198,
+      "gas:candidate-vibid:1001000131414": 778,
+      "gas:candidate-vibid:1001000136125": 25,
+      "gas:candidate-vibid:1001000217955": 26,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10184,14 +10184,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 124,
-      "Муцоев Зелимхан Аликоевич": 634,
-      "Новиков Александр Васильевич": 21,
-      "Останин Дмитрий Дмитриевич": 28,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 70
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 124,
+      "gas:candidate-vibid:1001000131414": 634,
+      "gas:candidate-vibid:1001000136125": 21,
+      "gas:candidate-vibid:1001000217955": 28,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10241,14 +10241,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 23,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 118,
-      "Муцоев Зелимхан Аликоевич": 516,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 34,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 93
+      "gas:candidate-vibid:366300466927": 23,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 118,
+      "gas:candidate-vibid:1001000131414": 516,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 34,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10298,14 +10298,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 10,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 73,
-      "Муцоев Зелимхан Аликоевич": 311,
-      "Новиков Александр Васильевич": 17,
-      "Останин Дмитрий Дмитриевич": 19,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 55
+      "gas:candidate-vibid:366300466927": 10,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 73,
+      "gas:candidate-vibid:1001000131414": 311,
+      "gas:candidate-vibid:1001000136125": 17,
+      "gas:candidate-vibid:1001000217955": 19,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10355,14 +10355,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 26,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 117,
-      "Муцоев Зелимхан Аликоевич": 448,
-      "Новиков Александр Васильевич": 14,
-      "Останин Дмитрий Дмитриевич": 22,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 61
+      "gas:candidate-vibid:366300466927": 26,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 117,
+      "gas:candidate-vibid:1001000131414": 448,
+      "gas:candidate-vibid:1001000136125": 14,
+      "gas:candidate-vibid:1001000217955": 22,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10412,14 +10412,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 141,
-      "Муцоев Зелимхан Аликоевич": 579,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 27,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 73
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 141,
+      "gas:candidate-vibid:1001000131414": 579,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 27,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10469,14 +10469,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 90,
-      "Муцоев Зелимхан Аликоевич": 517,
-      "Новиков Александр Васильевич": 9,
-      "Останин Дмитрий Дмитриевич": 19,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 80
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 90,
+      "gas:candidate-vibid:1001000131414": 517,
+      "gas:candidate-vibid:1001000136125": 9,
+      "gas:candidate-vibid:1001000217955": 19,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10526,14 +10526,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 12,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 122,
-      "Муцоев Зелимхан Аликоевич": 597,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 17,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 77
+      "gas:candidate-vibid:366300466927": 12,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 122,
+      "gas:candidate-vibid:1001000131414": 597,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 17,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10583,14 +10583,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 11,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 84,
-      "Муцоев Зелимхан Аликоевич": 553,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 20,
-      "Чекашев Дмитрий Владимирович": 12,
-      "Против всех": 67
+      "gas:candidate-vibid:366300466927": 11,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 84,
+      "gas:candidate-vibid:1001000131414": 553,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 20,
+      "gas:candidate-vibid:366300466769": 12,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10640,14 +10640,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 140,
-      "Муцоев Зелимхан Аликоевич": 585,
-      "Новиков Александр Васильевич": 24,
-      "Останин Дмитрий Дмитриевич": 39,
-      "Чекашев Дмитрий Владимирович": 12,
-      "Против всех": 57
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 140,
+      "gas:candidate-vibid:1001000131414": 585,
+      "gas:candidate-vibid:1001000136125": 24,
+      "gas:candidate-vibid:1001000217955": 39,
+      "gas:candidate-vibid:366300466769": 12,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10697,14 +10697,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 12,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 97,
-      "Муцоев Зелимхан Аликоевич": 418,
-      "Новиков Александр Васильевич": 10,
-      "Останин Дмитрий Дмитриевич": 16,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 59
+      "gas:candidate-vibid:366300466927": 12,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 97,
+      "gas:candidate-vibid:1001000131414": 418,
+      "gas:candidate-vibid:1001000136125": 10,
+      "gas:candidate-vibid:1001000217955": 16,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10754,14 +10754,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 137,
-      "Муцоев Зелимхан Аликоевич": 773,
-      "Новиков Александр Васильевич": 32,
-      "Останин Дмитрий Дмитриевич": 45,
-      "Чекашев Дмитрий Владимирович": 15,
-      "Против всех": 125
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 137,
+      "gas:candidate-vibid:1001000131414": 773,
+      "gas:candidate-vibid:1001000136125": 32,
+      "gas:candidate-vibid:1001000217955": 45,
+      "gas:candidate-vibid:366300466769": 15,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10811,14 +10811,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 142,
-      "Муцоев Зелимхан Аликоевич": 710,
-      "Новиков Александр Васильевич": 21,
-      "Останин Дмитрий Дмитриевич": 34,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 136
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 142,
+      "gas:candidate-vibid:1001000131414": 710,
+      "gas:candidate-vibid:1001000136125": 21,
+      "gas:candidate-vibid:1001000217955": 34,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10868,14 +10868,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 81,
-      "Муцоев Зелимхан Аликоевич": 447,
-      "Новиков Александр Васильевич": 23,
-      "Останин Дмитрий Дмитриевич": 16,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 73
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 81,
+      "gas:candidate-vibid:1001000131414": 447,
+      "gas:candidate-vibid:1001000136125": 23,
+      "gas:candidate-vibid:1001000217955": 16,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10925,14 +10925,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 17,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 183,
-      "Муцоев Зелимхан Аликоевич": 707,
-      "Новиков Александр Васильевич": 22,
-      "Останин Дмитрий Дмитриевич": 29,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 166
+      "gas:candidate-vibid:366300466927": 17,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 183,
+      "gas:candidate-vibid:1001000131414": 707,
+      "gas:candidate-vibid:1001000136125": 22,
+      "gas:candidate-vibid:1001000217955": 29,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -10982,14 +10982,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 5,
-      "Железняк Петр Иванович": 97,
-      "Муцоев Зелимхан Аликоевич": 603,
-      "Новиков Александр Васильевич": 35,
-      "Останин Дмитрий Дмитриевич": 20,
-      "Чекашев Дмитрий Владимирович": 25,
-      "Против всех": 148
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 5,
+      "gas:candidate-vibid:1001000121912": 97,
+      "gas:candidate-vibid:1001000131414": 603,
+      "gas:candidate-vibid:1001000136125": 35,
+      "gas:candidate-vibid:1001000217955": 20,
+      "gas:candidate-vibid:366300466769": 25,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11039,14 +11039,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 28,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 128,
-      "Муцоев Зелимхан Аликоевич": 611,
-      "Новиков Александр Васильевич": 47,
-      "Останин Дмитрий Дмитриевич": 25,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 101
+      "gas:candidate-vibid:366300466927": 28,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 128,
+      "gas:candidate-vibid:1001000131414": 611,
+      "gas:candidate-vibid:1001000136125": 47,
+      "gas:candidate-vibid:1001000217955": 25,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11096,14 +11096,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 31,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 102,
-      "Муцоев Зелимхан Аликоевич": 678,
-      "Новиков Александр Васильевич": 33,
-      "Останин Дмитрий Дмитриевич": 32,
-      "Чекашев Дмитрий Владимирович": 15,
-      "Против всех": 100
+      "gas:candidate-vibid:366300466927": 31,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 102,
+      "gas:candidate-vibid:1001000131414": 678,
+      "gas:candidate-vibid:1001000136125": 33,
+      "gas:candidate-vibid:1001000217955": 32,
+      "gas:candidate-vibid:366300466769": 15,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11153,14 +11153,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 18,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 95,
-      "Муцоев Зелимхан Аликоевич": 596,
-      "Новиков Александр Васильевич": 17,
-      "Останин Дмитрий Дмитриевич": 30,
-      "Чекашев Дмитрий Владимирович": 24,
-      "Против всех": 143
+      "gas:candidate-vibid:366300466927": 18,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 95,
+      "gas:candidate-vibid:1001000131414": 596,
+      "gas:candidate-vibid:1001000136125": 17,
+      "gas:candidate-vibid:1001000217955": 30,
+      "gas:candidate-vibid:366300466769": 24,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11210,14 +11210,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 27,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 80,
-      "Муцоев Зелимхан Аликоевич": 544,
-      "Новиков Александр Васильевич": 42,
-      "Останин Дмитрий Дмитриевич": 19,
-      "Чекашев Дмитрий Владимирович": 16,
-      "Против всех": 90
+      "gas:candidate-vibid:366300466927": 27,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 80,
+      "gas:candidate-vibid:1001000131414": 544,
+      "gas:candidate-vibid:1001000136125": 42,
+      "gas:candidate-vibid:1001000217955": 19,
+      "gas:candidate-vibid:366300466769": 16,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11267,14 +11267,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 21,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 108,
-      "Муцоев Зелимхан Аликоевич": 466,
-      "Новиков Александр Васильевич": 16,
-      "Останин Дмитрий Дмитриевич": 20,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 80
+      "gas:candidate-vibid:366300466927": 21,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 108,
+      "gas:candidate-vibid:1001000131414": 466,
+      "gas:candidate-vibid:1001000136125": 16,
+      "gas:candidate-vibid:1001000217955": 20,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11324,14 +11324,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 19,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 176,
-      "Муцоев Зелимхан Аликоевич": 588,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 21,
-      "Чекашев Дмитрий Владимирович": 12,
-      "Против всех": 76
+      "gas:candidate-vibid:366300466927": 19,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 176,
+      "gas:candidate-vibid:1001000131414": 588,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 21,
+      "gas:candidate-vibid:366300466769": 12,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11381,14 +11381,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 61,
-      "Муцоев Зелимхан Аликоевич": 285,
-      "Новиков Александр Васильевич": 16,
-      "Останин Дмитрий Дмитриевич": 16,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 54
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 61,
+      "gas:candidate-vibid:1001000131414": 285,
+      "gas:candidate-vibid:1001000136125": 16,
+      "gas:candidate-vibid:1001000217955": 16,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11438,14 +11438,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 19,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 77,
-      "Муцоев Зелимхан Аликоевич": 322,
-      "Новиков Александр Васильевич": 23,
-      "Останин Дмитрий Дмитриевич": 30,
-      "Чекашев Дмитрий Владимирович": 11,
-      "Против всех": 55
+      "gas:candidate-vibid:366300466927": 19,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 77,
+      "gas:candidate-vibid:1001000131414": 322,
+      "gas:candidate-vibid:1001000136125": 23,
+      "gas:candidate-vibid:1001000217955": 30,
+      "gas:candidate-vibid:366300466769": 11,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11495,14 +11495,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 27,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 69,
-      "Муцоев Зелимхан Аликоевич": 276,
-      "Новиков Александр Васильевич": 12,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:366300466927": 27,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 69,
+      "gas:candidate-vibid:1001000131414": 276,
+      "gas:candidate-vibid:1001000136125": 12,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11552,14 +11552,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 28,
-      "Муцоев Зелимхан Аликоевич": 109,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 11,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 28,
+      "gas:candidate-vibid:1001000131414": 109,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 11,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11609,14 +11609,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 15,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 27,
-      "Муцоев Зелимхан Аликоевич": 344,
-      "Новиков Александр Васильевич": 9,
-      "Останин Дмитрий Дмитриевич": 13,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 43
+      "gas:candidate-vibid:366300466927": 15,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 27,
+      "gas:candidate-vibid:1001000131414": 344,
+      "gas:candidate-vibid:1001000136125": 9,
+      "gas:candidate-vibid:1001000217955": 13,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11666,14 +11666,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 13,
-      "Муцоев Зелимхан Аликоевич": 117,
-      "Новиков Александр Васильевич": 21,
-      "Останин Дмитрий Дмитриевич": 7,
-      "Чекашев Дмитрий Владимирович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 13,
+      "gas:candidate-vibid:1001000131414": 117,
+      "gas:candidate-vibid:1001000136125": 21,
+      "gas:candidate-vibid:1001000217955": 7,
+      "gas:candidate-vibid:366300466769": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11723,14 +11723,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 24,
-      "Муцоев Зелимхан Аликоевич": 153,
-      "Новиков Александр Васильевич": 8,
-      "Останин Дмитрий Дмитриевич": 13,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 24,
+      "gas:candidate-vibid:1001000131414": 153,
+      "gas:candidate-vibid:1001000136125": 8,
+      "gas:candidate-vibid:1001000217955": 13,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11780,14 +11780,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 37,
-      "Муцоев Зелимхан Аликоевич": 283,
-      "Новиков Александр Васильевич": 10,
-      "Останин Дмитрий Дмитриевич": 11,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 30
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 37,
+      "gas:candidate-vibid:1001000131414": 283,
+      "gas:candidate-vibid:1001000136125": 10,
+      "gas:candidate-vibid:1001000217955": 11,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11837,14 +11837,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 23,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 20,
-      "Муцоев Зелимхан Аликоевич": 246,
-      "Новиков Александр Васильевич": 15,
-      "Останин Дмитрий Дмитриевич": 10,
-      "Чекашев Дмитрий Владимирович": 15,
-      "Против всех": 48
+      "gas:candidate-vibid:366300466927": 23,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 20,
+      "gas:candidate-vibid:1001000131414": 246,
+      "gas:candidate-vibid:1001000136125": 15,
+      "gas:candidate-vibid:1001000217955": 10,
+      "gas:candidate-vibid:366300466769": 15,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11894,14 +11894,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 10,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 25,
-      "Муцоев Зелимхан Аликоевич": 402,
-      "Новиков Александр Васильевич": 15,
-      "Останин Дмитрий Дмитриевич": 11,
-      "Чекашев Дмитрий Владимирович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:366300466927": 10,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 25,
+      "gas:candidate-vibid:1001000131414": 402,
+      "gas:candidate-vibid:1001000136125": 15,
+      "gas:candidate-vibid:1001000217955": 11,
+      "gas:candidate-vibid:366300466769": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466962&region=0&sub_region=0&type=429",
@@ -11951,14 +11951,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 86,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 54,
-      "Муцоев Зелимхан Аликоевич": 348,
-      "Новиков Александр Васильевич": 46,
-      "Останин Дмитрий Дмитриевич": 117,
-      "Чекашев Дмитрий Владимирович": 19,
-      "Против всех": 169
+      "gas:candidate-vibid:366300466927": 86,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 54,
+      "gas:candidate-vibid:1001000131414": 348,
+      "gas:candidate-vibid:1001000136125": 46,
+      "gas:candidate-vibid:1001000217955": 117,
+      "gas:candidate-vibid:366300466769": 19,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12008,14 +12008,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 79,
-      "Дорожкин Андрей Вячеславович": 12,
-      "Железняк Петр Иванович": 63,
-      "Муцоев Зелимхан Аликоевич": 339,
-      "Новиков Александр Васильевич": 55,
-      "Останин Дмитрий Дмитриевич": 146,
-      "Чекашев Дмитрий Владимирович": 16,
-      "Против всех": 189
+      "gas:candidate-vibid:366300466927": 79,
+      "gas:candidate-vibid:366300466677": 12,
+      "gas:candidate-vibid:1001000121912": 63,
+      "gas:candidate-vibid:1001000131414": 339,
+      "gas:candidate-vibid:1001000136125": 55,
+      "gas:candidate-vibid:1001000217955": 146,
+      "gas:candidate-vibid:366300466769": 16,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12065,14 +12065,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 33,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 4,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 33,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 4,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12122,14 +12122,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 19,
-      "Муцоев Зелимхан Аликоевич": 111,
-      "Новиков Александр Васильевич": 12,
-      "Останин Дмитрий Дмитриевич": 97,
-      "Чекашев Дмитрий Владимирович": 14,
-      "Против всех": 45
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 19,
+      "gas:candidate-vibid:1001000131414": 111,
+      "gas:candidate-vibid:1001000136125": 12,
+      "gas:candidate-vibid:1001000217955": 97,
+      "gas:candidate-vibid:366300466769": 14,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12179,14 +12179,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 89,
-      "Новиков Александр Васильевич": 10,
-      "Останин Дмитрий Дмитриевич": 14,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 89,
+      "gas:candidate-vibid:1001000136125": 10,
+      "gas:candidate-vibid:1001000217955": 14,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12236,14 +12236,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 14,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 78,
-      "Новиков Александр Васильевич": 10,
-      "Останин Дмитрий Дмитриевич": 25,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 46
+      "gas:candidate-vibid:366300466927": 14,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 78,
+      "gas:candidate-vibid:1001000136125": 10,
+      "gas:candidate-vibid:1001000217955": 25,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12293,14 +12293,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 4,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 121,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 4,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 121,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12350,14 +12350,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 15,
-      "Дорожкин Андрей Вячеславович": 13,
-      "Железняк Петр Иванович": 32,
-      "Муцоев Зелимхан Аликоевич": 166,
-      "Новиков Александр Васильевич": 28,
-      "Останин Дмитрий Дмитриевич": 74,
-      "Чекашев Дмитрий Владимирович": 25,
-      "Против всех": 83
+      "gas:candidate-vibid:366300466927": 15,
+      "gas:candidate-vibid:366300466677": 13,
+      "gas:candidate-vibid:1001000121912": 32,
+      "gas:candidate-vibid:1001000131414": 166,
+      "gas:candidate-vibid:1001000136125": 28,
+      "gas:candidate-vibid:1001000217955": 74,
+      "gas:candidate-vibid:366300466769": 25,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12407,14 +12407,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 10,
-      "Муцоев Зелимхан Аликоевич": 74,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 15,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 10,
+      "gas:candidate-vibid:1001000131414": 74,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 15,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12464,14 +12464,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 8,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 69,
-      "Новиков Александр Васильевич": 9,
-      "Останин Дмитрий Дмитриевич": 11,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:366300466927": 8,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 69,
+      "gas:candidate-vibid:1001000136125": 9,
+      "gas:candidate-vibid:1001000217955": 11,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12521,14 +12521,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 5,
-      "Муцоев Зелимхан Аликоевич": 42,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 7,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 5,
+      "gas:candidate-vibid:1001000131414": 42,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 7,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12578,14 +12578,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 9,
-      "Муцоев Зелимхан Аликоевич": 195,
-      "Новиков Александр Васильевич": 13,
-      "Останин Дмитрий Дмитриевич": 34,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 42
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 9,
+      "gas:candidate-vibid:1001000131414": 195,
+      "gas:candidate-vibid:1001000136125": 13,
+      "gas:candidate-vibid:1001000217955": 34,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12635,14 +12635,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 3,
-      "Муцоев Зелимхан Аликоевич": 60,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 3,
+      "gas:candidate-vibid:1001000131414": 60,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12692,14 +12692,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 1,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 2,
-      "Муцоев Зелимхан Аликоевич": 96,
-      "Новиков Александр Васильевич": 0,
-      "Останин Дмитрий Дмитриевич": 11,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 1,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 2,
+      "gas:candidate-vibid:1001000131414": 96,
+      "gas:candidate-vibid:1001000136125": 0,
+      "gas:candidate-vibid:1001000217955": 11,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12749,14 +12749,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 5,
-      "Муцоев Зелимхан Аликоевич": 66,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 16,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 5,
+      "gas:candidate-vibid:1001000131414": 66,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 16,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12806,14 +12806,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 19,
-      "Дорожкин Андрей Вячеславович": 11,
-      "Железняк Петр Иванович": 28,
-      "Муцоев Зелимхан Аликоевич": 155,
-      "Новиков Александр Васильевич": 18,
-      "Останин Дмитрий Дмитриевич": 31,
-      "Чекашев Дмитрий Владимирович": 23,
-      "Против всех": 65
+      "gas:candidate-vibid:366300466927": 19,
+      "gas:candidate-vibid:366300466677": 11,
+      "gas:candidate-vibid:1001000121912": 28,
+      "gas:candidate-vibid:1001000131414": 155,
+      "gas:candidate-vibid:1001000136125": 18,
+      "gas:candidate-vibid:1001000217955": 31,
+      "gas:candidate-vibid:366300466769": 23,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12863,14 +12863,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 116,
-      "Новиков Александр Васильевич": 16,
-      "Останин Дмитрий Дмитриевич": 11,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 116,
+      "gas:candidate-vibid:1001000136125": 16,
+      "gas:candidate-vibid:1001000217955": 11,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12920,14 +12920,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 37,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 6,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 37,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 6,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -12977,14 +12977,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 2,
-      "Муцоев Зелимхан Аликоевич": 30,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 1,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 2,
+      "gas:candidate-vibid:1001000131414": 30,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 1,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13034,14 +13034,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 73,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 10,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 73,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 10,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13091,14 +13091,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 17,
-      "Муцоев Зелимхан Аликоевич": 211,
-      "Новиков Александр Васильевич": 19,
-      "Останин Дмитрий Дмитриевич": 42,
-      "Чекашев Дмитрий Владимирович": 20,
-      "Против всех": 45
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 17,
+      "gas:candidate-vibid:1001000131414": 211,
+      "gas:candidate-vibid:1001000136125": 19,
+      "gas:candidate-vibid:1001000217955": 42,
+      "gas:candidate-vibid:366300466769": 20,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13148,14 +13148,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 10,
-      "Муцоев Зелимхан Аликоевич": 36,
-      "Новиков Александр Васильевич": 1,
-      "Останин Дмитрий Дмитриевич": 12,
-      "Чекашев Дмитрий Владимирович": 12,
-      "Против всех": 26
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 10,
+      "gas:candidate-vibid:1001000131414": 36,
+      "gas:candidate-vibid:1001000136125": 1,
+      "gas:candidate-vibid:1001000217955": 12,
+      "gas:candidate-vibid:366300466769": 12,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13205,14 +13205,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 5,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 183,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 10,
-      "Чекашев Дмитрий Владимирович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:366300466927": 5,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 183,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 10,
+      "gas:candidate-vibid:366300466769": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13262,14 +13262,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 6,
-      "Железняк Петр Иванович": 23,
-      "Муцоев Зелимхан Аликоевич": 112,
-      "Новиков Александр Васильевич": 17,
-      "Останин Дмитрий Дмитриевич": 44,
-      "Чекашев Дмитрий Владимирович": 15,
-      "Против всех": 46
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 6,
+      "gas:candidate-vibid:1001000121912": 23,
+      "gas:candidate-vibid:1001000131414": 112,
+      "gas:candidate-vibid:1001000136125": 17,
+      "gas:candidate-vibid:1001000217955": 44,
+      "gas:candidate-vibid:366300466769": 15,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13319,14 +13319,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 40,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 0,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 40,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 0,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13376,14 +13376,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 3,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 12,
-      "Муцоев Зелимхан Аликоевич": 209,
-      "Новиков Александр Васильевич": 1,
-      "Останин Дмитрий Дмитриевич": 14,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:366300466927": 3,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 12,
+      "gas:candidate-vibid:1001000131414": 209,
+      "gas:candidate-vibid:1001000136125": 1,
+      "gas:candidate-vibid:1001000217955": 14,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13433,14 +13433,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 7,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 8,
-      "Муцоев Зелимхан Аликоевич": 55,
-      "Новиков Александр Васильевич": 5,
-      "Останин Дмитрий Дмитриевич": 3,
-      "Чекашев Дмитрий Владимирович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:366300466927": 7,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 8,
+      "gas:candidate-vibid:1001000131414": 55,
+      "gas:candidate-vibid:1001000136125": 5,
+      "gas:candidate-vibid:1001000217955": 3,
+      "gas:candidate-vibid:366300466769": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13490,14 +13490,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 1,
-      "Муцоев Зелимхан Аликоевич": 44,
-      "Новиков Александр Васильевич": 3,
-      "Останин Дмитрий Дмитриевич": 5,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 1,
+      "gas:candidate-vibid:1001000131414": 44,
+      "gas:candidate-vibid:1001000136125": 3,
+      "gas:candidate-vibid:1001000217955": 5,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13547,14 +13547,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 10,
-      "Дорожкин Андрей Вячеславович": 1,
-      "Железняк Петр Иванович": 21,
-      "Муцоев Зелимхан Аликоевич": 79,
-      "Новиков Александр Васильевич": 15,
-      "Останин Дмитрий Дмитриевич": 9,
-      "Чекашев Дмитрий Владимирович": 8,
-      "Против всех": 37
+      "gas:candidate-vibid:366300466927": 10,
+      "gas:candidate-vibid:366300466677": 1,
+      "gas:candidate-vibid:1001000121912": 21,
+      "gas:candidate-vibid:1001000131414": 79,
+      "gas:candidate-vibid:1001000136125": 15,
+      "gas:candidate-vibid:1001000217955": 9,
+      "gas:candidate-vibid:366300466769": 8,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13604,14 +13604,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 0,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 7,
-      "Муцоев Зелимхан Аликоевич": 53,
-      "Новиков Александр Васильевич": 7,
-      "Останин Дмитрий Дмитриевич": 3,
-      "Чекашев Дмитрий Владимирович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:366300466927": 0,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 7,
+      "gas:candidate-vibid:1001000131414": 53,
+      "gas:candidate-vibid:1001000136125": 7,
+      "gas:candidate-vibid:1001000217955": 3,
+      "gas:candidate-vibid:366300466769": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13661,14 +13661,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 2,
-      "Железняк Петр Иванович": 18,
-      "Муцоев Зелимхан Аликоевич": 38,
-      "Новиков Александр Васильевич": 2,
-      "Останин Дмитрий Дмитриевич": 7,
-      "Чекашев Дмитрий Владимирович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 2,
+      "gas:candidate-vibid:1001000121912": 18,
+      "gas:candidate-vibid:1001000131414": 38,
+      "gas:candidate-vibid:1001000136125": 2,
+      "gas:candidate-vibid:1001000217955": 7,
+      "gas:candidate-vibid:366300466769": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13718,14 +13718,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 0,
-      "Железняк Петр Иванович": 11,
-      "Муцоев Зелимхан Аликоевич": 27,
-      "Новиков Александр Васильевич": 4,
-      "Останин Дмитрий Дмитриевич": 4,
-      "Чекашев Дмитрий Владимирович": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 0,
+      "gas:candidate-vibid:1001000121912": 11,
+      "gas:candidate-vibid:1001000131414": 27,
+      "gas:candidate-vibid:1001000136125": 4,
+      "gas:candidate-vibid:1001000217955": 4,
+      "gas:candidate-vibid:366300466769": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13775,14 +13775,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 16,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 38,
-      "Муцоев Зелимхан Аликоевич": 137,
-      "Новиков Александр Васильевич": 23,
-      "Останин Дмитрий Дмитриевич": 48,
-      "Чекашев Дмитрий Владимирович": 13,
-      "Против всех": 84
+      "gas:candidate-vibid:366300466927": 16,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 38,
+      "gas:candidate-vibid:1001000131414": 137,
+      "gas:candidate-vibid:1001000136125": 23,
+      "gas:candidate-vibid:1001000217955": 48,
+      "gas:candidate-vibid:366300466769": 13,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13832,14 +13832,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 53,
-      "Дорожкин Андрей Вячеславович": 8,
-      "Железняк Петр Иванович": 86,
-      "Муцоев Зелимхан Аликоевич": 282,
-      "Новиков Александр Васильевич": 31,
-      "Останин Дмитрий Дмитриевич": 81,
-      "Чекашев Дмитрий Владимирович": 27,
-      "Против всех": 180
+      "gas:candidate-vibid:366300466927": 53,
+      "gas:candidate-vibid:366300466677": 8,
+      "gas:candidate-vibid:1001000121912": 86,
+      "gas:candidate-vibid:1001000131414": 282,
+      "gas:candidate-vibid:1001000136125": 31,
+      "gas:candidate-vibid:1001000217955": 81,
+      "gas:candidate-vibid:366300466769": 27,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466963&region=0&sub_region=0&type=429",
@@ -13889,14 +13889,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 6,
-      "Дорожкин Андрей Вячеславович": 4,
-      "Железняк Петр Иванович": 44,
-      "Муцоев Зелимхан Аликоевич": 899,
-      "Новиков Александр Васильевич": 22,
-      "Останин Дмитрий Дмитриевич": 29,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 56
+      "gas:candidate-vibid:366300466927": 6,
+      "gas:candidate-vibid:366300466677": 4,
+      "gas:candidate-vibid:1001000121912": 44,
+      "gas:candidate-vibid:1001000131414": 899,
+      "gas:candidate-vibid:1001000136125": 22,
+      "gas:candidate-vibid:1001000217955": 29,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466964&region=0&sub_region=0&type=429",
@@ -13946,14 +13946,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 13,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 31,
-      "Муцоев Зелимхан Аликоевич": 215,
-      "Новиков Александр Васильевич": 24,
-      "Останин Дмитрий Дмитриевич": 30,
-      "Чекашев Дмитрий Владимирович": 6,
-      "Против всех": 34
+      "gas:candidate-vibid:366300466927": 13,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 31,
+      "gas:candidate-vibid:1001000131414": 215,
+      "gas:candidate-vibid:1001000136125": 24,
+      "gas:candidate-vibid:1001000217955": 30,
+      "gas:candidate-vibid:366300466769": 6,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466965&region=0&sub_region=0&type=429",
@@ -14003,14 +14003,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 2,
-      "Дорожкин Андрей Вячеславович": 3,
-      "Железняк Петр Иванович": 33,
-      "Муцоев Зелимхан Аликоевич": 109,
-      "Новиков Александр Васильевич": 12,
-      "Останин Дмитрий Дмитриевич": 10,
-      "Чекашев Дмитрий Владимирович": 9,
-      "Против всех": 32
+      "gas:candidate-vibid:366300466927": 2,
+      "gas:candidate-vibid:366300466677": 3,
+      "gas:candidate-vibid:1001000121912": 33,
+      "gas:candidate-vibid:1001000131414": 109,
+      "gas:candidate-vibid:1001000136125": 12,
+      "gas:candidate-vibid:1001000217955": 10,
+      "gas:candidate-vibid:366300466769": 9,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466965&region=0&sub_region=0&type=429",
@@ -14060,14 +14060,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 30,
-      "Дорожкин Андрей Вячеславович": 10,
-      "Железняк Петр Иванович": 52,
-      "Муцоев Зелимхан Аликоевич": 238,
-      "Новиков Александр Васильевич": 22,
-      "Останин Дмитрий Дмитриевич": 53,
-      "Чекашев Дмитрий Владимирович": 20,
-      "Против всех": 124
+      "gas:candidate-vibid:366300466927": 30,
+      "gas:candidate-vibid:366300466677": 10,
+      "gas:candidate-vibid:1001000121912": 52,
+      "gas:candidate-vibid:1001000131414": 238,
+      "gas:candidate-vibid:1001000136125": 22,
+      "gas:candidate-vibid:1001000217955": 53,
+      "gas:candidate-vibid:366300466769": 20,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466965&region=0&sub_region=0&type=429",
@@ -14117,14 +14117,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 24,
-      "Дорожкин Андрей Вячеславович": 16,
-      "Железняк Петр Иванович": 41,
-      "Муцоев Зелимхан Аликоевич": 264,
-      "Новиков Александр Васильевич": 39,
-      "Останин Дмитрий Дмитриевич": 65,
-      "Чекашев Дмитрий Владимирович": 20,
-      "Против всех": 119
+      "gas:candidate-vibid:366300466927": 24,
+      "gas:candidate-vibid:366300466677": 16,
+      "gas:candidate-vibid:1001000121912": 41,
+      "gas:candidate-vibid:1001000131414": 264,
+      "gas:candidate-vibid:1001000136125": 39,
+      "gas:candidate-vibid:1001000217955": 65,
+      "gas:candidate-vibid:366300466769": 20,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466965&region=0&sub_region=0&type=429",
@@ -14174,14 +14174,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 20,
-      "Дорожкин Андрей Вячеславович": 16,
-      "Железняк Петр Иванович": 44,
-      "Муцоев Зелимхан Аликоевич": 248,
-      "Новиков Александр Васильевич": 14,
-      "Останин Дмитрий Дмитриевич": 34,
-      "Чекашев Дмитрий Владимирович": 22,
-      "Против всех": 84
+      "gas:candidate-vibid:366300466927": 20,
+      "gas:candidate-vibid:366300466677": 16,
+      "gas:candidate-vibid:1001000121912": 44,
+      "gas:candidate-vibid:1001000131414": 248,
+      "gas:candidate-vibid:1001000136125": 14,
+      "gas:candidate-vibid:1001000217955": 34,
+      "gas:candidate-vibid:366300466769": 22,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466965&region=0&sub_region=0&type=429",
@@ -14231,14 +14231,14 @@ export const duma_2003_uik_428_region_66_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дмитриев Владимир Анатольевич": 9,
-      "Дорожкин Андрей Вячеславович": 7,
-      "Железняк Петр Иванович": 25,
-      "Муцоев Зелимхан Аликоевич": 129,
-      "Новиков Александр Васильевич": 10,
-      "Останин Дмитрий Дмитриевич": 27,
-      "Чекашев Дмитрий Владимирович": 19,
-      "Против всех": 73
+      "gas:candidate-vibid:366300466927": 9,
+      "gas:candidate-vibid:366300466677": 7,
+      "gas:candidate-vibid:1001000121912": 25,
+      "gas:candidate-vibid:1001000131414": 129,
+      "gas:candidate-vibid:1001000136125": 10,
+      "gas:candidate-vibid:1001000217955": 27,
+      "gas:candidate-vibid:366300466769": 19,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300466965&region=0&sub_region=0&type=429",

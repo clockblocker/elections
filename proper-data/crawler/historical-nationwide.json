@@ -7,6 +7,37 @@
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=1001000882950&tvd=1001000882951",
       "contests": {
         "candidate": {"tic": 227, "uik": 226}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 221,
+          "scope": "election",
+          "expected_count": 11,
+          "expected_unique_count": 11,
+          "expected_registered_count": 6,
+          "expected_partial_tik_candidate_maps": [
+            "206200075649",
+            "228200074900",
+            "241200070733",
+            "241200070735",
+            "243200083386",
+            "251200077705",
+            "265200075594",
+            "266200078108",
+            "266200078117",
+            "266200084492",
+            "266200084493",
+            "2772000100984",
+            "289200072363",
+            "784700068324"
+          ],
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=1001000882951&vrn=1001000882950&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=1001000882950&type=221"
+        },
+        "winner": {
+          "report_type": 226,
+          "scope": "election",
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=1001000882951&vrn=1001000882950&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=1001000882951&type=226"
+        }
       }
     },
     "2008": {
@@ -15,6 +46,21 @@
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100022176412&tvd=100100022249920",
       "contests": {
         "candidate": {"tic": 227, "uik": 226}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 221,
+          "scope": "election",
+          "expected_count": 15,
+          "expected_unique_count": 15,
+          "expected_registered_count": 4,
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100022249920&vrn=100100022176412&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100022176412&type=221"
+        },
+        "winner": {
+          "report_type": 226,
+          "scope": "election",
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100022249920&vrn=100100022176412&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100022249920&type=226"
+        }
       }
     },
     "2012": {
@@ -23,6 +69,21 @@
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100031793505&tvd=100100031793509",
       "contests": {
         "candidate": {"tic": 227, "uik": 226}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 221,
+          "scope": "election",
+          "expected_count": 14,
+          "expected_unique_count": 14,
+          "expected_registered_count": 5,
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100031793509&vrn=100100031793505&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100031793505&type=221"
+        },
+        "winner": {
+          "report_type": 226,
+          "scope": "election",
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100031793509&vrn=100100031793505&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100031793509&type=226"
+        }
       }
     },
     "2018": {
@@ -31,6 +92,21 @@
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100084849062&tvd=100100084849066",
       "contests": {
         "candidate": {"tic": 227, "uik": 226}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 221,
+          "scope": "election",
+          "expected_count": 38,
+          "expected_unique_count": 38,
+          "expected_registered_count": 8,
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100084849066&vrn=100100084849062&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100084849062&type=221"
+        },
+        "winner": {
+          "report_type": 226,
+          "scope": "election",
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100084849066&vrn=100100084849062&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100084849066&type=226"
+        }
       }
     },
     "2024": {
@@ -38,7 +114,22 @@
       "election_vrn": "100100339410030",
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100339410030&tvd=100100339410034",
       "contests": {
-        "candidate": {"tic": 227, "uik": 226}
+        "candidate": {"tic": 226, "uik": 226}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 221,
+          "scope": "election",
+          "expected_count": 15,
+          "expected_unique_count": 15,
+          "expected_registered_count": 4,
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100339410034&vrn=100100339410030&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100339410030&type=221"
+        },
+        "winner": {
+          "report_type": 226,
+          "scope": "election",
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100339410034&vrn=100100339410030&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100339410034&type=226"
+        }
       }
     },
     "2003": {
@@ -47,6 +138,56 @@
       "contests": {
         "party": {"tic": 431, "uik": 430},
         "candidate": {"tic": 429, "uik": 428}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 220,
+          "scope": "district",
+          "expected_count": 3031,
+          "expected_unique_count": 3027,
+          "expected_literal_elected_count": 210,
+          "expected_mutable_status_districts": [66, 134, 142, 144, 160, 179, 183, 187, 196, 199, 201, 220],
+          "expected_district_count": 225,
+          "result_identity_anomalies": [
+            {"district_number": 39, "label": "Багишвили Евгений Нодариевич", "reason": "official result label is absent from the official type=220 registry"},
+            {"district_number": 57, "label": "Трембачева Татьяна Викторовна", "reason": "official result label is absent from the official type=220 registry"},
+            {"district_number": 60, "label": "Кузьмин Алексанр Николаевич", "reason": "official result label conflicts with the official type=220 spelling Александр"},
+            {"district_number": 126, "label": "Шадт Александр Евгеньевич", "reason": "official result label conflicts with the official type=220 patronymic Александрович"}
+          ],
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100095621&vrn=100100095619&region=0&global=1&sub_region=0&prver=0&pronetvd=0&vibid=100100095619&type=220"
+        },
+        "party": {
+          "report_type": 236,
+          "scope": "election",
+          "expected_count": 32,
+          "expected_ballot_count": 23,
+          "detail_report_type": 303,
+          "expected_detail_count": 32
+        },
+        "winner": {
+          "report_type": 223,
+          "scope": "district",
+          "expected_count": 225,
+          "expected_special_winner_districts": [162, 181, 207],
+          "expected_obfuscated_winner_labels": [
+            {"district_number": 3, "label": "9."},
+            {"district_number": 6, "label": "9."},
+            {"district_number": 9, "label": "5."},
+            {"district_number": 19, "label": "6."},
+            {"district_number": 30, "label": "7."},
+            {"district_number": 48, "label": "2."},
+            {"district_number": 64, "label": "3."},
+            {"district_number": 66, "label": "4."},
+            {"district_number": 67, "label": "8."},
+            {"district_number": 115, "label": "6."},
+            {"district_number": 138, "label": "4."},
+            {"district_number": 139, "label": "2."},
+            {"district_number": 143, "label": "2."},
+            {"district_number": 145, "label": "3."},
+            {"district_number": 173, "label": "5."},
+            {"district_number": 222, "label": "6."}
+          ]
+        }
       }
     },
     "2007": {
@@ -54,6 +195,14 @@
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100021960181",
       "contests": {
         "party": {"tic": 233, "uik": 242}
+      },
+      "registry_reports": {
+        "party": {
+          "report_type": 236,
+          "scope": "election",
+          "expected_count": 14,
+          "expected_ballot_count": 11
+        }
       }
     },
     "2011": {
@@ -61,6 +210,14 @@
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100028713299",
       "contests": {
         "party": {"tic": 233, "uik": 242}
+      },
+      "registry_reports": {
+        "party": {
+          "report_type": 236,
+          "scope": "election",
+          "expected_count": 7,
+          "expected_ballot_count": 7
+        }
       }
     },
     "2016": {
@@ -69,6 +226,50 @@
       "contests": {
         "party": {"tic": 233, "uik": 242},
         "candidate": {"tic": 464, "uik": 463}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 220,
+          "scope": "district",
+          "expected_count": 2446,
+          "expected_unique_count": 2446,
+          "expected_registered_count": 2030,
+          "expected_literal_elected_count": 206,
+          "expected_mutable_status_districts": [
+            70,
+            71,
+            77,
+            96,
+            98,
+            110,
+            112,
+            134,
+            137,
+            143,
+            145,
+            147,
+            151,
+            158,
+            163,
+            165,
+            174,
+            180,
+            194
+          ],
+          "expected_district_count": 225,
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100067795854&vrn=100100067795849&region=0&global=1&sub_region=0&prver=0&pronetvd=0&vibid=100100067795849&type=220"
+        },
+        "party": {
+          "report_type": 236,
+          "scope": "election",
+          "expected_count": 22,
+          "expected_ballot_count": 14
+        },
+        "winner": {
+          "report_type": 463,
+          "scope": "district",
+          "expected_count": 225
+        }
       }
     }
   }

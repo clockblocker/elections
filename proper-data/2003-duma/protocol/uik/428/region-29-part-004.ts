@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 20,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 20,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 16,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 22,
-      "Мальчихин Валерий Андреевич": 161,
-      "Сманцер Андрей Владимирович": 116,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 16,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 22,
+      "gas:candidate-vibid:1001000225925": 161,
+      "gas:candidate-vibid:329300270338": 116,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 16,
-      "Енягин Владимир Николаевич": 26,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 14,
-      "Мальчихин Валерий Андреевич": 136,
-      "Сманцер Андрей Владимирович": 51,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121831": 16,
+      "gas:candidate-vibid:1001000187999": 26,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 14,
+      "gas:candidate-vibid:1001000225925": 136,
+      "gas:candidate-vibid:329300270338": 51,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 45,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 45,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 88,
-      "Сманцер Андрей Владимирович": 8,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 88,
+      "gas:candidate-vibid:329300270338": 8,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 17,
-      "Зверев Виктор Прохорович": 86,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 16,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 17,
+      "gas:candidate-vibid:329300270503": 86,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 16,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 30,
-      "Енягин Владимир Николаевич": 97,
-      "Зверев Виктор Прохорович": 151,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 159,
-      "Мальчихин Валерий Андреевич": 351,
-      "Сманцер Андрей Владимирович": 43,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121831": 30,
+      "gas:candidate-vibid:1001000187999": 97,
+      "gas:candidate-vibid:329300270503": 151,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 159,
+      "gas:candidate-vibid:1001000225925": 351,
+      "gas:candidate-vibid:329300270338": 43,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 45,
-      "Енягин Владимир Николаевич": 139,
-      "Зверев Виктор Прохорович": 147,
-      "Корыгин Александр Алексеевич": 21,
-      "Лиханова Галина Ивановна": 83,
-      "Мальчихин Валерий Андреевич": 281,
-      "Сманцер Андрей Владимирович": 101,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121831": 45,
+      "gas:candidate-vibid:1001000187999": 139,
+      "gas:candidate-vibid:329300270503": 147,
+      "gas:candidate-vibid:1001000131391": 21,
+      "gas:candidate-vibid:1001000195058": 83,
+      "gas:candidate-vibid:1001000225925": 281,
+      "gas:candidate-vibid:329300270338": 101,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 21,
-      "Зверев Виктор Прохорович": 22,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 17,
-      "Мальчихин Валерий Андреевич": 88,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 21,
+      "gas:candidate-vibid:329300270503": 22,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 17,
+      "gas:candidate-vibid:1001000225925": 88,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 43,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 54,
-      "Сманцер Андрей Владимирович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 43,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 54,
+      "gas:candidate-vibid:329300270338": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 17,
-      "Зверев Виктор Прохорович": 42,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 16,
-      "Мальчихин Валерий Андреевич": 47,
-      "Сманцер Андрей Владимирович": 7,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 17,
+      "gas:candidate-vibid:329300270503": 42,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 16,
+      "gas:candidate-vibid:1001000225925": 47,
+      "gas:candidate-vibid:329300270338": 7,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070525&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 105,
-      "Енягин Владимир Николаевич": 89,
-      "Зверев Виктор Прохорович": 131,
-      "Корыгин Александр Алексеевич": 30,
-      "Лиханова Галина Ивановна": 79,
-      "Мальчихин Валерий Андреевич": 602,
-      "Сманцер Андрей Владимирович": 184,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000121831": 105,
+      "gas:candidate-vibid:1001000187999": 89,
+      "gas:candidate-vibid:329300270503": 131,
+      "gas:candidate-vibid:1001000131391": 30,
+      "gas:candidate-vibid:1001000195058": 79,
+      "gas:candidate-vibid:1001000225925": 602,
+      "gas:candidate-vibid:329300270338": 184,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 50,
-      "Енягин Владимир Николаевич": 54,
-      "Зверев Виктор Прохорович": 128,
-      "Корыгин Александр Алексеевич": 27,
-      "Лиханова Галина Ивановна": 48,
-      "Мальчихин Валерий Андреевич": 456,
-      "Сманцер Андрей Владимирович": 128,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121831": 50,
+      "gas:candidate-vibid:1001000187999": 54,
+      "gas:candidate-vibid:329300270503": 128,
+      "gas:candidate-vibid:1001000131391": 27,
+      "gas:candidate-vibid:1001000195058": 48,
+      "gas:candidate-vibid:1001000225925": 456,
+      "gas:candidate-vibid:329300270338": 128,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 13,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 69,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 14,
-      "Мальчихин Валерий Андреевич": 110,
-      "Сманцер Андрей Владимирович": 37,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121831": 13,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 69,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 14,
+      "gas:candidate-vibid:1001000225925": 110,
+      "gas:candidate-vibid:329300270338": 37,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 12,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 39,
-      "Сманцер Андрей Владимирович": 15,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 12,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 39,
+      "gas:candidate-vibid:329300270338": 15,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 73,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 28,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 115,
-      "Сманцер Андрей Владимирович": 18,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121831": 73,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 28,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 115,
+      "gas:candidate-vibid:329300270338": 18,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 12,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 66,
-      "Сманцер Андрей Владимирович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 12,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 66,
+      "gas:candidate-vibid:329300270338": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 21,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 28,
-      "Сманцер Андрей Владимирович": 14,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 21,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 28,
+      "gas:candidate-vibid:329300270338": 14,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 17,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 91,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 174,
-      "Сманцер Андрей Владимирович": 61,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 17,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 91,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 174,
+      "gas:candidate-vibid:329300270338": 61,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 18,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 16,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 111,
-      "Сманцер Андрей Владимирович": 35,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 18,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 16,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 111,
+      "gas:candidate-vibid:329300270338": 35,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 23,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 52,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 20,
-      "Мальчихин Валерий Андреевич": 191,
-      "Сманцер Андрей Владимирович": 72,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 23,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 52,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 20,
+      "gas:candidate-vibid:1001000225925": 191,
+      "gas:candidate-vibid:329300270338": 72,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 7,
-      "Зверев Виктор Прохорович": 27,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 352,
-      "Сманцер Андрей Владимирович": 45,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 7,
+      "gas:candidate-vibid:329300270503": 27,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 352,
+      "gas:candidate-vibid:329300270338": 45,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 212,
-      "Сманцер Андрей Владимирович": 49,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 212,
+      "gas:candidate-vibid:329300270338": 49,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 23,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 112,
-      "Сманцер Андрей Владимирович": 18,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121831": 23,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 112,
+      "gas:candidate-vibid:329300270338": 18,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 13,
-      "Зверев Виктор Прохорович": 35,
-      "Корыгин Александр Алексеевич": 20,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 128,
-      "Сманцер Андрей Владимирович": 34,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 13,
+      "gas:candidate-vibid:329300270503": 35,
+      "gas:candidate-vibid:1001000131391": 20,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 128,
+      "gas:candidate-vibid:329300270338": 34,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 49,
-      "Енягин Владимир Николаевич": 57,
-      "Зверев Виктор Прохорович": 16,
-      "Корыгин Александр Алексеевич": 24,
-      "Лиханова Галина Ивановна": 113,
-      "Мальчихин Валерий Андреевич": 273,
-      "Сманцер Андрей Владимирович": 63,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121831": 49,
+      "gas:candidate-vibid:1001000187999": 57,
+      "gas:candidate-vibid:329300270503": 16,
+      "gas:candidate-vibid:1001000131391": 24,
+      "gas:candidate-vibid:1001000195058": 113,
+      "gas:candidate-vibid:1001000225925": 273,
+      "gas:candidate-vibid:329300270338": 63,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 15,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 50,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 193,
-      "Сманцер Андрей Владимирович": 25,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 15,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 50,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 193,
+      "gas:candidate-vibid:329300270338": 25,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 27,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 26,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 45,
-      "Сманцер Андрей Владимирович": 23,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 27,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 26,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 45,
+      "gas:candidate-vibid:329300270338": 23,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 24,
-      "Мальчихин Валерий Андреевич": 102,
-      "Сманцер Андрей Владимирович": 16,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 24,
+      "gas:candidate-vibid:1001000225925": 102,
+      "gas:candidate-vibid:329300270338": 16,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 15,
-      "Лиханова Галина Ивановна": 23,
-      "Мальчихин Валерий Андреевич": 108,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 15,
+      "gas:candidate-vibid:1001000195058": 23,
+      "gas:candidate-vibid:1001000225925": 108,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 50,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 19,
-      "Корыгин Александр Алексеевич": 22,
-      "Лиханова Галина Ивановна": 55,
-      "Мальчихин Валерий Андреевич": 540,
-      "Сманцер Андрей Владимирович": 107,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121831": 50,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 19,
+      "gas:candidate-vibid:1001000131391": 22,
+      "gas:candidate-vibid:1001000195058": 55,
+      "gas:candidate-vibid:1001000225925": 540,
+      "gas:candidate-vibid:329300270338": 107,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 14,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 64,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 14,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 64,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 60,
-      "Сманцер Андрей Владимирович": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 60,
+      "gas:candidate-vibid:329300270338": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 14,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 127,
-      "Сманцер Андрей Владимирович": 27,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 14,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 127,
+      "gas:candidate-vibid:329300270338": 27,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 55,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 55,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070526&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 52,
-      "Енягин Владимир Николаевич": 37,
-      "Зверев Виктор Прохорович": 207,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 88,
-      "Мальчихин Валерий Андреевич": 369,
-      "Сманцер Андрей Владимирович": 99,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121831": 52,
+      "gas:candidate-vibid:1001000187999": 37,
+      "gas:candidate-vibid:329300270503": 207,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 88,
+      "gas:candidate-vibid:1001000225925": 369,
+      "gas:candidate-vibid:329300270338": 99,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 38,
-      "Енягин Владимир Николаевич": 28,
-      "Зверев Виктор Прохорович": 47,
-      "Корыгин Александр Алексеевич": 16,
-      "Лиханова Галина Ивановна": 39,
-      "Мальчихин Валерий Андреевич": 230,
-      "Сманцер Андрей Владимирович": 47,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121831": 38,
+      "gas:candidate-vibid:1001000187999": 28,
+      "gas:candidate-vibid:329300270503": 47,
+      "gas:candidate-vibid:1001000131391": 16,
+      "gas:candidate-vibid:1001000195058": 39,
+      "gas:candidate-vibid:1001000225925": 230,
+      "gas:candidate-vibid:329300270338": 47,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 7,
-      "Зверев Виктор Прохорович": 41,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 22,
-      "Мальчихин Валерий Андреевич": 103,
-      "Сманцер Андрей Владимирович": 42,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 7,
+      "gas:candidate-vibid:329300270503": 41,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 22,
+      "gas:candidate-vibid:1001000225925": 103,
+      "gas:candidate-vibid:329300270338": 42,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 12,
-      "Енягин Владимир Николаевич": 20,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 32,
-      "Мальчихин Валерий Андреевич": 100,
-      "Сманцер Андрей Владимирович": 26,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 12,
+      "gas:candidate-vibid:1001000187999": 20,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 32,
+      "gas:candidate-vibid:1001000225925": 100,
+      "gas:candidate-vibid:329300270338": 26,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 152,
-      "Енягин Владимир Николаевич": 71,
-      "Зверев Виктор Прохорович": 110,
-      "Корыгин Александр Алексеевич": 34,
-      "Лиханова Галина Ивановна": 117,
-      "Мальчихин Валерий Андреевич": 472,
-      "Сманцер Андрей Владимирович": 229,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121831": 152,
+      "gas:candidate-vibid:1001000187999": 71,
+      "gas:candidate-vibid:329300270503": 110,
+      "gas:candidate-vibid:1001000131391": 34,
+      "gas:candidate-vibid:1001000195058": 117,
+      "gas:candidate-vibid:1001000225925": 472,
+      "gas:candidate-vibid:329300270338": 229,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 26,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 26,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 15,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 42,
-      "Сманцер Андрей Владимирович": 20,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 15,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 42,
+      "gas:candidate-vibid:329300270338": 20,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 28,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 26,
-      "Мальчихин Валерий Андреевич": 165,
-      "Сманцер Андрей Владимирович": 89,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 28,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 26,
+      "gas:candidate-vibid:1001000225925": 165,
+      "gas:candidate-vibid:329300270338": 89,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 15,
-      "Енягин Владимир Николаевич": 20,
-      "Зверев Виктор Прохорович": 50,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 51,
-      "Мальчихин Валерий Андреевич": 131,
-      "Сманцер Андрей Владимирович": 78,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121831": 15,
+      "gas:candidate-vibid:1001000187999": 20,
+      "gas:candidate-vibid:329300270503": 50,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 51,
+      "gas:candidate-vibid:1001000225925": 131,
+      "gas:candidate-vibid:329300270338": 78,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 15,
-      "Зверев Виктор Прохорович": 13,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 121,
-      "Сманцер Андрей Владимирович": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 15,
+      "gas:candidate-vibid:329300270503": 13,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 121,
+      "gas:candidate-vibid:329300270338": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 54,
-      "Енягин Владимир Николаевич": 37,
-      "Зверев Виктор Прохорович": 53,
-      "Корыгин Александр Алексеевич": 13,
-      "Лиханова Галина Ивановна": 82,
-      "Мальчихин Валерий Андреевич": 284,
-      "Сманцер Андрей Владимирович": 69,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121831": 54,
+      "gas:candidate-vibid:1001000187999": 37,
+      "gas:candidate-vibid:329300270503": 53,
+      "gas:candidate-vibid:1001000131391": 13,
+      "gas:candidate-vibid:1001000195058": 82,
+      "gas:candidate-vibid:1001000225925": 284,
+      "gas:candidate-vibid:329300270338": 69,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 150,
-      "Енягин Владимир Николаевич": 49,
-      "Зверев Виктор Прохорович": 79,
-      "Корыгин Александр Алексеевич": 26,
-      "Лиханова Галина Ивановна": 141,
-      "Мальчихин Валерий Андреевич": 431,
-      "Сманцер Андрей Владимирович": 172,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121831": 150,
+      "gas:candidate-vibid:1001000187999": 49,
+      "gas:candidate-vibid:329300270503": 79,
+      "gas:candidate-vibid:1001000131391": 26,
+      "gas:candidate-vibid:1001000195058": 141,
+      "gas:candidate-vibid:1001000225925": 431,
+      "gas:candidate-vibid:329300270338": 172,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 19,
-      "Зверев Виктор Прохорович": 88,
-      "Корыгин Александр Алексеевич": 23,
-      "Лиханова Галина Ивановна": 86,
-      "Мальчихин Валерий Андреевич": 320,
-      "Сманцер Андрей Владимирович": 50,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 19,
+      "gas:candidate-vibid:329300270503": 88,
+      "gas:candidate-vibid:1001000131391": 23,
+      "gas:candidate-vibid:1001000195058": 86,
+      "gas:candidate-vibid:1001000225925": 320,
+      "gas:candidate-vibid:329300270338": 50,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 29,
-      "Енягин Владимир Николаевич": 25,
-      "Зверев Виктор Прохорович": 65,
-      "Корыгин Александр Алексеевич": 32,
-      "Лиханова Галина Ивановна": 63,
-      "Мальчихин Валерий Андреевич": 351,
-      "Сманцер Андрей Владимирович": 69,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121831": 29,
+      "gas:candidate-vibid:1001000187999": 25,
+      "gas:candidate-vibid:329300270503": 65,
+      "gas:candidate-vibid:1001000131391": 32,
+      "gas:candidate-vibid:1001000195058": 63,
+      "gas:candidate-vibid:1001000225925": 351,
+      "gas:candidate-vibid:329300270338": 69,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 17,
-      "Зверев Виктор Прохорович": 41,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 38,
-      "Мальчихин Валерий Андреевич": 73,
-      "Сманцер Андрей Владимирович": 51,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 17,
+      "gas:candidate-vibid:329300270503": 41,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 38,
+      "gas:candidate-vibid:1001000225925": 73,
+      "gas:candidate-vibid:329300270338": 51,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 12,
-      "Енягин Владимир Николаевич": 24,
-      "Зверев Виктор Прохорович": 33,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 50,
-      "Мальчихин Валерий Андреевич": 154,
-      "Сманцер Андрей Владимирович": 35,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121831": 12,
+      "gas:candidate-vibid:1001000187999": 24,
+      "gas:candidate-vibid:329300270503": 33,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 50,
+      "gas:candidate-vibid:1001000225925": 154,
+      "gas:candidate-vibid:329300270338": 35,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 27,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 19,
-      "Мальчихин Валерий Андреевич": 52,
-      "Сманцер Андрей Владимирович": 25,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 27,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 19,
+      "gas:candidate-vibid:1001000225925": 52,
+      "gas:candidate-vibid:329300270338": 25,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 18,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 62,
-      "Сманцер Андрей Владимирович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 18,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 62,
+      "gas:candidate-vibid:329300270338": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 53,
-      "Енягин Владимир Николаевич": 44,
-      "Зверев Виктор Прохорович": 157,
-      "Корыгин Александр Алексеевич": 17,
-      "Лиханова Галина Ивановна": 50,
-      "Мальчихин Валерий Андреевич": 192,
-      "Сманцер Андрей Владимирович": 35,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121831": 53,
+      "gas:candidate-vibid:1001000187999": 44,
+      "gas:candidate-vibid:329300270503": 157,
+      "gas:candidate-vibid:1001000131391": 17,
+      "gas:candidate-vibid:1001000195058": 50,
+      "gas:candidate-vibid:1001000225925": 192,
+      "gas:candidate-vibid:329300270338": 35,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 82,
-      "Енягин Владимир Николаевич": 33,
-      "Зверев Виктор Прохорович": 127,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 41,
-      "Мальчихин Валерий Андреевич": 167,
-      "Сманцер Андрей Владимирович": 25,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121831": 82,
+      "gas:candidate-vibid:1001000187999": 33,
+      "gas:candidate-vibid:329300270503": 127,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 41,
+      "gas:candidate-vibid:1001000225925": 167,
+      "gas:candidate-vibid:329300270338": 25,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 18,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 25,
-      "Мальчихин Валерий Андреевич": 102,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 18,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 25,
+      "gas:candidate-vibid:1001000225925": 102,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 21,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 94,
-      "Сманцер Андрей Владимирович": 17,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 21,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 94,
+      "gas:candidate-vibid:329300270338": 17,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 26,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 17,
-      "Мальчихин Валерий Андреевич": 109,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 26,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 17,
+      "gas:candidate-vibid:1001000225925": 109,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 41,
-      "Енягин Владимир Николаевич": 81,
-      "Зверев Виктор Прохорович": 55,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 54,
-      "Мальчихин Валерий Андреевич": 619,
-      "Сманцер Андрей Владимирович": 51,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000121831": 41,
+      "gas:candidate-vibid:1001000187999": 81,
+      "gas:candidate-vibid:329300270503": 55,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 54,
+      "gas:candidate-vibid:1001000225925": 619,
+      "gas:candidate-vibid:329300270338": 51,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070527&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 40,
-      "Енягин Владимир Николаевич": 35,
-      "Зверев Виктор Прохорович": 115,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 48,
-      "Мальчихин Валерий Андреевич": 493,
-      "Сманцер Андрей Владимирович": 73,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121831": 40,
+      "gas:candidate-vibid:1001000187999": 35,
+      "gas:candidate-vibid:329300270503": 115,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 48,
+      "gas:candidate-vibid:1001000225925": 493,
+      "gas:candidate-vibid:329300270338": 73,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 62,
-      "Енягин Владимир Николаевич": 47,
-      "Зверев Виктор Прохорович": 143,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 45,
-      "Мальчихин Валерий Андреевич": 807,
-      "Сманцер Андрей Владимирович": 143,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000121831": 62,
+      "gas:candidate-vibid:1001000187999": 47,
+      "gas:candidate-vibid:329300270503": 143,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 45,
+      "gas:candidate-vibid:1001000225925": 807,
+      "gas:candidate-vibid:329300270338": 143,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 64,
-      "Енягин Владимир Николаевич": 59,
-      "Зверев Виктор Прохорович": 84,
-      "Корыгин Александр Алексеевич": 17,
-      "Лиханова Галина Ивановна": 51,
-      "Мальчихин Валерий Андреевич": 839,
-      "Сманцер Андрей Владимирович": 133,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121831": 64,
+      "gas:candidate-vibid:1001000187999": 59,
+      "gas:candidate-vibid:329300270503": 84,
+      "gas:candidate-vibid:1001000131391": 17,
+      "gas:candidate-vibid:1001000195058": 51,
+      "gas:candidate-vibid:1001000225925": 839,
+      "gas:candidate-vibid:329300270338": 133,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 60,
-      "Енягин Владимир Николаевич": 45,
-      "Зверев Виктор Прохорович": 212,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 72,
-      "Мальчихин Валерий Андреевич": 873,
-      "Сманцер Андрей Владимирович": 84,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000121831": 60,
+      "gas:candidate-vibid:1001000187999": 45,
+      "gas:candidate-vibid:329300270503": 212,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 72,
+      "gas:candidate-vibid:1001000225925": 873,
+      "gas:candidate-vibid:329300270338": 84,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 44,
-      "Енягин Владимир Николаевич": 45,
-      "Зверев Виктор Прохорович": 120,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 71,
-      "Мальчихин Валерий Андреевич": 861,
-      "Сманцер Андрей Владимирович": 134,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000121831": 44,
+      "gas:candidate-vibid:1001000187999": 45,
+      "gas:candidate-vibid:329300270503": 120,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 71,
+      "gas:candidate-vibid:1001000225925": 861,
+      "gas:candidate-vibid:329300270338": 134,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 52,
-      "Енягин Владимир Николаевич": 46,
-      "Зверев Виктор Прохорович": 130,
-      "Корыгин Александр Алексеевич": 15,
-      "Лиханова Галина Ивановна": 46,
-      "Мальчихин Валерий Андреевич": 873,
-      "Сманцер Андрей Владимирович": 119,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000121831": 52,
+      "gas:candidate-vibid:1001000187999": 46,
+      "gas:candidate-vibid:329300270503": 130,
+      "gas:candidate-vibid:1001000131391": 15,
+      "gas:candidate-vibid:1001000195058": 46,
+      "gas:candidate-vibid:1001000225925": 873,
+      "gas:candidate-vibid:329300270338": 119,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 77,
-      "Енягин Владимир Николаевич": 55,
-      "Зверев Виктор Прохорович": 255,
-      "Корыгин Александр Алексеевич": 18,
-      "Лиханова Галина Ивановна": 72,
-      "Мальчихин Валерий Андреевич": 949,
-      "Сманцер Андрей Владимирович": 128,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000121831": 77,
+      "gas:candidate-vibid:1001000187999": 55,
+      "gas:candidate-vibid:329300270503": 255,
+      "gas:candidate-vibid:1001000131391": 18,
+      "gas:candidate-vibid:1001000195058": 72,
+      "gas:candidate-vibid:1001000225925": 949,
+      "gas:candidate-vibid:329300270338": 128,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 44,
-      "Енягин Владимир Николаевич": 55,
-      "Зверев Виктор Прохорович": 160,
-      "Корыгин Александр Алексеевич": 17,
-      "Лиханова Галина Ивановна": 64,
-      "Мальчихин Валерий Андреевич": 770,
-      "Сманцер Андрей Владимирович": 139,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000121831": 44,
+      "gas:candidate-vibid:1001000187999": 55,
+      "gas:candidate-vibid:329300270503": 160,
+      "gas:candidate-vibid:1001000131391": 17,
+      "gas:candidate-vibid:1001000195058": 64,
+      "gas:candidate-vibid:1001000225925": 770,
+      "gas:candidate-vibid:329300270338": 139,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 48,
-      "Енягин Владимир Николаевич": 66,
-      "Зверев Виктор Прохорович": 193,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 63,
-      "Мальчихин Валерий Андреевич": 810,
-      "Сманцер Андрей Владимирович": 131,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000121831": 48,
+      "gas:candidate-vibid:1001000187999": 66,
+      "gas:candidate-vibid:329300270503": 193,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 63,
+      "gas:candidate-vibid:1001000225925": 810,
+      "gas:candidate-vibid:329300270338": 131,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 47,
-      "Енягин Владимир Николаевич": 42,
-      "Зверев Виктор Прохорович": 131,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 79,
-      "Мальчихин Валерий Андреевич": 1049,
-      "Сманцер Андрей Владимирович": 162,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000121831": 47,
+      "gas:candidate-vibid:1001000187999": 42,
+      "gas:candidate-vibid:329300270503": 131,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 79,
+      "gas:candidate-vibid:1001000225925": 1049,
+      "gas:candidate-vibid:329300270338": 162,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 40,
-      "Енягин Владимир Николаевич": 40,
-      "Зверев Виктор Прохорович": 147,
-      "Корыгин Александр Алексеевич": 20,
-      "Лиханова Галина Ивановна": 68,
-      "Мальчихин Валерий Андреевич": 1014,
-      "Сманцер Андрей Владимирович": 164,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000121831": 40,
+      "gas:candidate-vibid:1001000187999": 40,
+      "gas:candidate-vibid:329300270503": 147,
+      "gas:candidate-vibid:1001000131391": 20,
+      "gas:candidate-vibid:1001000195058": 68,
+      "gas:candidate-vibid:1001000225925": 1014,
+      "gas:candidate-vibid:329300270338": 164,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 67,
-      "Енягин Владимир Николаевич": 60,
-      "Зверев Виктор Прохорович": 158,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 78,
-      "Мальчихин Валерий Андреевич": 966,
-      "Сманцер Андрей Владимирович": 176,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000121831": 67,
+      "gas:candidate-vibid:1001000187999": 60,
+      "gas:candidate-vibid:329300270503": 158,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 78,
+      "gas:candidate-vibid:1001000225925": 966,
+      "gas:candidate-vibid:329300270338": 176,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 52,
-      "Енягин Владимир Николаевич": 52,
-      "Зверев Виктор Прохорович": 152,
-      "Корыгин Александр Алексеевич": 18,
-      "Лиханова Галина Ивановна": 49,
-      "Мальчихин Валерий Андреевич": 767,
-      "Сманцер Андрей Владимирович": 157,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121831": 52,
+      "gas:candidate-vibid:1001000187999": 52,
+      "gas:candidate-vibid:329300270503": 152,
+      "gas:candidate-vibid:1001000131391": 18,
+      "gas:candidate-vibid:1001000195058": 49,
+      "gas:candidate-vibid:1001000225925": 767,
+      "gas:candidate-vibid:329300270338": 157,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070529&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 66,
-      "Сманцер Андрей Владимирович": 20,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 66,
+      "gas:candidate-vibid:329300270338": 20,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 41,
-      "Енягин Владимир Николаевич": 63,
-      "Зверев Виктор Прохорович": 81,
-      "Корыгин Александр Алексеевич": 13,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 113,
-      "Сманцер Андрей Владимирович": 90,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121831": 41,
+      "gas:candidate-vibid:1001000187999": 63,
+      "gas:candidate-vibid:329300270503": 81,
+      "gas:candidate-vibid:1001000131391": 13,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 113,
+      "gas:candidate-vibid:329300270338": 90,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 26,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 99,
-      "Сманцер Андрей Владимирович": 39,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 26,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 99,
+      "gas:candidate-vibid:329300270338": 39,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 20,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 28,
-      "Сманцер Андрей Владимирович": 38,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 20,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 28,
+      "gas:candidate-vibid:329300270338": 38,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 21,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 134,
-      "Сманцер Андрей Владимирович": 94,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 21,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 134,
+      "gas:candidate-vibid:329300270338": 94,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 39,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 147,
-      "Сманцер Андрей Владимирович": 35,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 39,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 147,
+      "gas:candidate-vibid:329300270338": 35,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 54,
-      "Сманцер Андрей Владимирович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 54,
+      "gas:candidate-vibid:329300270338": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 103,
-      "Сманцер Андрей Владимирович": 37,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 103,
+      "gas:candidate-vibid:329300270338": 37,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 0,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 25,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121831": 0,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 25,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 21,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 41,
-      "Сманцер Андрей Владимирович": 10,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 21,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 41,
+      "gas:candidate-vibid:329300270338": 10,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 117,
-      "Енягин Владимир Николаевич": 72,
-      "Зверев Виктор Прохорович": 36,
-      "Корыгин Александр Алексеевич": 22,
-      "Лиханова Галина Ивановна": 77,
-      "Мальчихин Валерий Андреевич": 359,
-      "Сманцер Андрей Владимирович": 311,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121831": 117,
+      "gas:candidate-vibid:1001000187999": 72,
+      "gas:candidate-vibid:329300270503": 36,
+      "gas:candidate-vibid:1001000131391": 22,
+      "gas:candidate-vibid:1001000195058": 77,
+      "gas:candidate-vibid:1001000225925": 359,
+      "gas:candidate-vibid:329300270338": 311,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 33,
-      "Енягин Владимир Николаевич": 46,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 17,
-      "Мальчихин Валерий Андреевич": 65,
-      "Сманцер Андрей Владимирович": 78,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121831": 33,
+      "gas:candidate-vibid:1001000187999": 46,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 17,
+      "gas:candidate-vibid:1001000225925": 65,
+      "gas:candidate-vibid:329300270338": 78,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 21,
-      "Сманцер Андрей Владимирович": 27,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 21,
+      "gas:candidate-vibid:329300270338": 27,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 31,
-      "Зверев Виктор Прохорович": 30,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 78,
-      "Сманцер Андрей Владимирович": 39,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 31,
+      "gas:candidate-vibid:329300270503": 30,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 78,
+      "gas:candidate-vibid:329300270338": 39,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 8,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 19,
-      "Сманцер Андрей Владимирович": 11,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 8,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 19,
+      "gas:candidate-vibid:329300270338": 11,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 0,
-      "Енягин Владимир Николаевич": 7,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 19,
-      "Сманцер Андрей Владимирович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121831": 0,
+      "gas:candidate-vibid:1001000187999": 7,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 19,
+      "gas:candidate-vibid:329300270338": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 30,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 90,
-      "Сманцер Андрей Владимирович": 44,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 30,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 90,
+      "gas:candidate-vibid:329300270338": 44,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 27,
-      "Енягин Владимир Николаевич": 114,
-      "Зверев Виктор Прохорович": 65,
-      "Корыгин Александр Алексеевич": 22,
-      "Лиханова Галина Ивановна": 32,
-      "Мальчихин Валерий Андреевич": 215,
-      "Сманцер Андрей Владимирович": 193,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121831": 27,
+      "gas:candidate-vibid:1001000187999": 114,
+      "gas:candidate-vibid:329300270503": 65,
+      "gas:candidate-vibid:1001000131391": 22,
+      "gas:candidate-vibid:1001000195058": 32,
+      "gas:candidate-vibid:1001000225925": 215,
+      "gas:candidate-vibid:329300270338": 193,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 52,
-      "Енягин Владимир Николаевич": 126,
-      "Зверев Виктор Прохорович": 136,
-      "Корыгин Александр Алексеевич": 25,
-      "Лиханова Галина Ивановна": 52,
-      "Мальчихин Валерий Андреевич": 301,
-      "Сманцер Андрей Владимирович": 219,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121831": 52,
+      "gas:candidate-vibid:1001000187999": 126,
+      "gas:candidate-vibid:329300270503": 136,
+      "gas:candidate-vibid:1001000131391": 25,
+      "gas:candidate-vibid:1001000195058": 52,
+      "gas:candidate-vibid:1001000225925": 301,
+      "gas:candidate-vibid:329300270338": 219,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 46,
-      "Енягин Владимир Николаевич": 127,
-      "Зверев Виктор Прохорович": 59,
-      "Корыгин Александр Алексеевич": 19,
-      "Лиханова Галина Ивановна": 33,
-      "Мальчихин Валерий Андреевич": 234,
-      "Сманцер Андрей Владимирович": 179,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121831": 46,
+      "gas:candidate-vibid:1001000187999": 127,
+      "gas:candidate-vibid:329300270503": 59,
+      "gas:candidate-vibid:1001000131391": 19,
+      "gas:candidate-vibid:1001000195058": 33,
+      "gas:candidate-vibid:1001000225925": 234,
+      "gas:candidate-vibid:329300270338": 179,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 17,
-      "Енягин Владимир Николаевич": 88,
-      "Зверев Виктор Прохорович": 26,
-      "Корыгин Александр Алексеевич": 17,
-      "Лиханова Галина Ивановна": 33,
-      "Мальчихин Валерий Андреевич": 231,
-      "Сманцер Андрей Владимирович": 151,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121831": 17,
+      "gas:candidate-vibid:1001000187999": 88,
+      "gas:candidate-vibid:329300270503": 26,
+      "gas:candidate-vibid:1001000131391": 17,
+      "gas:candidate-vibid:1001000195058": 33,
+      "gas:candidate-vibid:1001000225925": 231,
+      "gas:candidate-vibid:329300270338": 151,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 25,
-      "Енягин Владимир Николаевич": 65,
-      "Зверев Виктор Прохорович": 39,
-      "Корыгин Александр Алексеевич": 15,
-      "Лиханова Галина Ивановна": 18,
-      "Мальчихин Валерий Андреевич": 194,
-      "Сманцер Андрей Владимирович": 123,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121831": 25,
+      "gas:candidate-vibid:1001000187999": 65,
+      "gas:candidate-vibid:329300270503": 39,
+      "gas:candidate-vibid:1001000131391": 15,
+      "gas:candidate-vibid:1001000195058": 18,
+      "gas:candidate-vibid:1001000225925": 194,
+      "gas:candidate-vibid:329300270338": 123,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 78,
-      "Зверев Виктор Прохорович": 45,
-      "Корыгин Александр Алексеевич": 19,
-      "Лиханова Галина Ивановна": 26,
-      "Мальчихин Валерий Андреевич": 239,
-      "Сманцер Андрей Владимирович": 150,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 78,
+      "gas:candidate-vibid:329300270503": 45,
+      "gas:candidate-vibid:1001000131391": 19,
+      "gas:candidate-vibid:1001000195058": 26,
+      "gas:candidate-vibid:1001000225925": 239,
+      "gas:candidate-vibid:329300270338": 150,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 48,
-      "Зверев Виктор Прохорович": 72,
-      "Корыгин Александр Алексеевич": 16,
-      "Лиханова Галина Ивановна": 21,
-      "Мальчихин Валерий Андреевич": 115,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 48,
+      "gas:candidate-vibid:329300270503": 72,
+      "gas:candidate-vibid:1001000131391": 16,
+      "gas:candidate-vibid:1001000195058": 21,
+      "gas:candidate-vibid:1001000225925": 115,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 31,
-      "Зверев Виктор Прохорович": 15,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 40,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 31,
+      "gas:candidate-vibid:329300270503": 15,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 40,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 21,
-      "Зверев Виктор Прохорович": 60,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 38,
-      "Сманцер Андрей Владимирович": 50,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 21,
+      "gas:candidate-vibid:329300270503": 60,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 38,
+      "gas:candidate-vibid:329300270338": 50,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 19,
-      "Зверев Виктор Прохорович": 38,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 65,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 19,
+      "gas:candidate-vibid:329300270503": 38,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 65,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 50,
-      "Енягин Владимир Николаевич": 162,
-      "Зверев Виктор Прохорович": 52,
-      "Корыгин Александр Алексеевич": 19,
-      "Лиханова Галина Ивановна": 37,
-      "Мальчихин Валерий Андреевич": 340,
-      "Сманцер Андрей Владимирович": 422,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000121831": 50,
+      "gas:candidate-vibid:1001000187999": 162,
+      "gas:candidate-vibid:329300270503": 52,
+      "gas:candidate-vibid:1001000131391": 19,
+      "gas:candidate-vibid:1001000195058": 37,
+      "gas:candidate-vibid:1001000225925": 340,
+      "gas:candidate-vibid:329300270338": 422,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 37,
-      "Зверев Виктор Прохорович": 13,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 33,
-      "Сманцер Андрей Владимирович": 22,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 37,
+      "gas:candidate-vibid:329300270503": 13,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 33,
+      "gas:candidate-vibid:329300270338": 22,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 18,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 18,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 26,
-      "Зверев Виктор Прохорович": 8,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 38,
-      "Сманцер Андрей Владимирович": 47,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 26,
+      "gas:candidate-vibid:329300270503": 8,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 38,
+      "gas:candidate-vibid:329300270338": 47,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 20,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 20,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 25,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 41,
-      "Сманцер Андрей Владимирович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 25,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 41,
+      "gas:candidate-vibid:329300270338": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 38,
-      "Сманцер Андрей Владимирович": 56,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 38,
+      "gas:candidate-vibid:329300270338": 56,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 26,
-      "Енягин Владимир Николаевич": 55,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 132,
-      "Сманцер Андрей Владимирович": 120,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121831": 26,
+      "gas:candidate-vibid:1001000187999": 55,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 132,
+      "gas:candidate-vibid:329300270338": 120,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 13,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 52,
-      "Сманцер Андрей Владимирович": 58,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 13,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 52,
+      "gas:candidate-vibid:329300270338": 58,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 16,
-      "Енягин Владимир Николаевич": 35,
-      "Зверев Виктор Прохорович": 18,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 102,
-      "Сманцер Андрей Владимирович": 30,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 16,
+      "gas:candidate-vibid:1001000187999": 35,
+      "gas:candidate-vibid:329300270503": 18,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 102,
+      "gas:candidate-vibid:329300270338": 30,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 34,
-      "Сманцер Андрей Владимирович": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 34,
+      "gas:candidate-vibid:329300270338": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 43,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 40,
-      "Сманцер Андрей Владимирович": 29,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 43,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 40,
+      "gas:candidate-vibid:329300270338": 29,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070530&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 63,
-      "Енягин Владимир Николаевич": 108,
-      "Зверев Виктор Прохорович": 62,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 37,
-      "Мальчихин Валерий Андреевич": 373,
-      "Сманцер Андрей Владимирович": 133,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121831": 63,
+      "gas:candidate-vibid:1001000187999": 108,
+      "gas:candidate-vibid:329300270503": 62,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 37,
+      "gas:candidate-vibid:1001000225925": 373,
+      "gas:candidate-vibid:329300270338": 133,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 78,
-      "Енягин Владимир Николаевич": 118,
-      "Зверев Виктор Прохорович": 46,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 41,
-      "Мальчихин Валерий Андреевич": 336,
-      "Сманцер Андрей Владимирович": 133,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121831": 78,
+      "gas:candidate-vibid:1001000187999": 118,
+      "gas:candidate-vibid:329300270503": 46,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 41,
+      "gas:candidate-vibid:1001000225925": 336,
+      "gas:candidate-vibid:329300270338": 133,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 61,
-      "Енягин Владимир Николаевич": 101,
-      "Зверев Виктор Прохорович": 71,
-      "Корыгин Александр Алексеевич": 23,
-      "Лиханова Галина Ивановна": 30,
-      "Мальчихин Валерий Андреевич": 282,
-      "Сманцер Андрей Владимирович": 137,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121831": 61,
+      "gas:candidate-vibid:1001000187999": 101,
+      "gas:candidate-vibid:329300270503": 71,
+      "gas:candidate-vibid:1001000131391": 23,
+      "gas:candidate-vibid:1001000195058": 30,
+      "gas:candidate-vibid:1001000225925": 282,
+      "gas:candidate-vibid:329300270338": 137,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 95,
-      "Енягин Владимир Николаевич": 155,
-      "Зверев Виктор Прохорович": 91,
-      "Корыгин Александр Алексеевич": 23,
-      "Лиханова Галина Ивановна": 62,
-      "Мальчихин Валерий Андреевич": 337,
-      "Сманцер Андрей Владимирович": 131,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121831": 95,
+      "gas:candidate-vibid:1001000187999": 155,
+      "gas:candidate-vibid:329300270503": 91,
+      "gas:candidate-vibid:1001000131391": 23,
+      "gas:candidate-vibid:1001000195058": 62,
+      "gas:candidate-vibid:1001000225925": 337,
+      "gas:candidate-vibid:329300270338": 131,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 33,
-      "Енягин Владимир Николаевич": 69,
-      "Зверев Виктор Прохорович": 68,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 21,
-      "Мальчихин Валерий Андреевич": 176,
-      "Сманцер Андрей Владимирович": 58,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121831": 33,
+      "gas:candidate-vibid:1001000187999": 69,
+      "gas:candidate-vibid:329300270503": 68,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 21,
+      "gas:candidate-vibid:1001000225925": 176,
+      "gas:candidate-vibid:329300270338": 58,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 49,
-      "Енягин Владимир Николаевич": 70,
-      "Зверев Виктор Прохорович": 70,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 30,
-      "Мальчихин Валерий Андреевич": 287,
-      "Сманцер Андрей Владимирович": 109,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121831": 49,
+      "gas:candidate-vibid:1001000187999": 70,
+      "gas:candidate-vibid:329300270503": 70,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 30,
+      "gas:candidate-vibid:1001000225925": 287,
+      "gas:candidate-vibid:329300270338": 109,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 29,
-      "Енягин Владимир Николаевич": 120,
-      "Зверев Виктор Прохорович": 91,
-      "Корыгин Александр Алексеевич": 27,
-      "Лиханова Галина Ивановна": 37,
-      "Мальчихин Валерий Андреевич": 170,
-      "Сманцер Андрей Владимирович": 154,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121831": 29,
+      "gas:candidate-vibid:1001000187999": 120,
+      "gas:candidate-vibid:329300270503": 91,
+      "gas:candidate-vibid:1001000131391": 27,
+      "gas:candidate-vibid:1001000195058": 37,
+      "gas:candidate-vibid:1001000225925": 170,
+      "gas:candidate-vibid:329300270338": 154,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 30,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 42,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 30,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 42,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 20,
-      "Сманцер Андрей Владимирович": 8,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 20,
+      "gas:candidate-vibid:329300270338": 8,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 34,
-      "Сманцер Андрей Владимирович": 41,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 34,
+      "gas:candidate-vibid:329300270338": 41,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 13,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 17,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 39,
-      "Сманцер Андрей Владимирович": 44,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 13,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 17,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 39,
+      "gas:candidate-vibid:329300270338": 44,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 13,
-      "Енягин Владимир Николаевич": 23,
-      "Зверев Виктор Прохорович": 16,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 132,
-      "Сманцер Андрей Владимирович": 90,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 13,
+      "gas:candidate-vibid:1001000187999": 23,
+      "gas:candidate-vibid:329300270503": 16,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 132,
+      "gas:candidate-vibid:329300270338": 90,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 18,
-      "Сманцер Андрей Владимирович": 13,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 18,
+      "gas:candidate-vibid:329300270338": 13,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 14,
-      "Енягин Владимир Николаевич": 17,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 104,
-      "Сманцер Андрей Владимирович": 30,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121831": 14,
+      "gas:candidate-vibid:1001000187999": 17,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 104,
+      "gas:candidate-vibid:329300270338": 30,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 20,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 17,
-      "Сманцер Андрей Владимирович": 25,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 20,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 17,
+      "gas:candidate-vibid:329300270338": 25,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 16,
-      "Зверев Виктор Прохорович": 26,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 74,
-      "Сманцер Андрей Владимирович": 70,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 16,
+      "gas:candidate-vibid:329300270503": 26,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 74,
+      "gas:candidate-vibid:329300270338": 70,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 23,
-      "Енягин Владимир Николаевич": 76,
-      "Зверев Виктор Прохорович": 19,
-      "Корыгин Александр Алексеевич": 18,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 78,
-      "Сманцер Андрей Владимирович": 67,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121831": 23,
+      "gas:candidate-vibid:1001000187999": 76,
+      "gas:candidate-vibid:329300270503": 19,
+      "gas:candidate-vibid:1001000131391": 18,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 78,
+      "gas:candidate-vibid:329300270338": 67,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 14,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 29,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 14,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 29,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 9,
-      "Сманцер Андрей Владимирович": 14,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 9,
+      "gas:candidate-vibid:329300270338": 14,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 10,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 25,
-      "Сманцер Андрей Владимирович": 13,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 10,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 25,
+      "gas:candidate-vibid:329300270338": 13,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 18,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 38,
-      "Сманцер Андрей Владимирович": 16,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 18,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 38,
+      "gas:candidate-vibid:329300270338": 16,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 47,
-      "Зверев Виктор Прохорович": 18,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 137,
-      "Сманцер Андрей Владимирович": 46,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 47,
+      "gas:candidate-vibid:329300270503": 18,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 137,
+      "gas:candidate-vibid:329300270338": 46,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 18,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 46,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 18,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 46,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 16,
-      "Сманцер Андрей Владимирович": 30,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 16,
+      "gas:candidate-vibid:329300270338": 30,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 23,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 26,
-      "Сманцер Андрей Владимирович": 30,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 23,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 26,
+      "gas:candidate-vibid:329300270338": 30,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 90,
-      "Зверев Виктор Прохорович": 16,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 114,
-      "Сманцер Андрей Владимирович": 50,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 90,
+      "gas:candidate-vibid:329300270503": 16,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 114,
+      "gas:candidate-vibid:329300270338": 50,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 13,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 68,
-      "Сманцер Андрей Владимирович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 13,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 68,
+      "gas:candidate-vibid:329300270338": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 51,
-      "Сманцер Андрей Владимирович": 32,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 51,
+      "gas:candidate-vibid:329300270338": 32,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 33,
-      "Енягин Владимир Николаевич": 160,
-      "Зверев Виктор Прохорович": 25,
-      "Корыгин Александр Алексеевич": 18,
-      "Лиханова Галина Ивановна": 19,
-      "Мальчихин Валерий Андреевич": 160,
-      "Сманцер Андрей Владимирович": 73,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121831": 33,
+      "gas:candidate-vibid:1001000187999": 160,
+      "gas:candidate-vibid:329300270503": 25,
+      "gas:candidate-vibid:1001000131391": 18,
+      "gas:candidate-vibid:1001000195058": 19,
+      "gas:candidate-vibid:1001000225925": 160,
+      "gas:candidate-vibid:329300270338": 73,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 19,
-      "Зверев Виктор Прохорович": 5,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 111,
-      "Сманцер Андрей Владимирович": 44,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 19,
+      "gas:candidate-vibid:329300270503": 5,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 111,
+      "gas:candidate-vibid:329300270338": 44,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 14,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 45,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 78,
-      "Сманцер Андрей Владимирович": 40,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 14,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 45,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 78,
+      "gas:candidate-vibid:329300270338": 40,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 39,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 18,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 153,
-      "Сманцер Андрей Владимирович": 79,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 39,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 18,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 153,
+      "gas:candidate-vibid:329300270338": 79,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 34,
-      "Зверев Виктор Прохорович": 16,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 115,
-      "Сманцер Андрей Владимирович": 113,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 34,
+      "gas:candidate-vibid:329300270503": 16,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 115,
+      "gas:candidate-vibid:329300270338": 113,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 13,
-      "Зверев Виктор Прохорович": 20,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 60,
-      "Сманцер Андрей Владимирович": 27,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 13,
+      "gas:candidate-vibid:329300270503": 20,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 60,
+      "gas:candidate-vibid:329300270338": 27,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 35,
-      "Енягин Владимир Николаевич": 51,
-      "Зверев Виктор Прохорович": 15,
-      "Корыгин Александр Алексеевич": 16,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 179,
-      "Сманцер Андрей Владимирович": 115,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121831": 35,
+      "gas:candidate-vibid:1001000187999": 51,
+      "gas:candidate-vibid:329300270503": 15,
+      "gas:candidate-vibid:1001000131391": 16,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 179,
+      "gas:candidate-vibid:329300270338": 115,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 34,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 29,
-      "Сманцер Андрей Владимирович": 43,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 34,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 29,
+      "gas:candidate-vibid:329300270338": 43,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070531&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 17,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 36,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 95,
-      "Сманцер Андрей Владимирович": 62,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 17,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 36,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 95,
+      "gas:candidate-vibid:329300270338": 62,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 27,
-      "Енягин Владимир Николаевич": 32,
-      "Зверев Виктор Прохорович": 36,
-      "Корыгин Александр Алексеевич": 25,
-      "Лиханова Галина Ивановна": 29,
-      "Мальчихин Валерий Андреевич": 188,
-      "Сманцер Андрей Владимирович": 45,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121831": 27,
+      "gas:candidate-vibid:1001000187999": 32,
+      "gas:candidate-vibid:329300270503": 36,
+      "gas:candidate-vibid:1001000131391": 25,
+      "gas:candidate-vibid:1001000195058": 29,
+      "gas:candidate-vibid:1001000225925": 188,
+      "gas:candidate-vibid:329300270338": 45,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 7,
-      "Зверев Виктор Прохорович": 5,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 21,
-      "Сманцер Андрей Владимирович": 15,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 7,
+      "gas:candidate-vibid:329300270503": 5,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 21,
+      "gas:candidate-vibid:329300270338": 15,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 15,
-      "Зверев Виктор Прохорович": 14,
-      "Корыгин Александр Алексеевич": 16,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 97,
-      "Сманцер Андрей Владимирович": 52,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 15,
+      "gas:candidate-vibid:329300270503": 14,
+      "gas:candidate-vibid:1001000131391": 16,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 97,
+      "gas:candidate-vibid:329300270338": 52,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 5,
-      "Сманцер Андрей Владимирович": 6,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 5,
+      "gas:candidate-vibid:329300270338": 6,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 139,
-      "Енягин Владимир Николаевич": 48,
-      "Зверев Виктор Прохорович": 178,
-      "Корыгин Александр Алексеевич": 53,
-      "Лиханова Галина Ивановна": 55,
-      "Мальчихин Валерий Андреевич": 268,
-      "Сманцер Андрей Владимирович": 158,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121831": 139,
+      "gas:candidate-vibid:1001000187999": 48,
+      "gas:candidate-vibid:329300270503": 178,
+      "gas:candidate-vibid:1001000131391": 53,
+      "gas:candidate-vibid:1001000195058": 55,
+      "gas:candidate-vibid:1001000225925": 268,
+      "gas:candidate-vibid:329300270338": 158,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 31,
-      "Енягин Владимир Николаевич": 24,
-      "Зверев Виктор Прохорович": 10,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 64,
-      "Сманцер Андрей Владимирович": 30,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121831": 31,
+      "gas:candidate-vibid:1001000187999": 24,
+      "gas:candidate-vibid:329300270503": 10,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 64,
+      "gas:candidate-vibid:329300270338": 30,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 14,
-      "Енягин Владимир Николаевич": 23,
-      "Зверев Виктор Прохорович": 20,
-      "Корыгин Александр Алексеевич": 16,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 64,
-      "Сманцер Андрей Владимирович": 27,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 14,
+      "gas:candidate-vibid:1001000187999": 23,
+      "gas:candidate-vibid:329300270503": 20,
+      "gas:candidate-vibid:1001000131391": 16,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 64,
+      "gas:candidate-vibid:329300270338": 27,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 22,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 21,
-      "Сманцер Андрей Владимирович": 17,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 22,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 21,
+      "gas:candidate-vibid:329300270338": 17,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 42,
-      "Енягин Владимир Николаевич": 32,
-      "Зверев Виктор Прохорович": 14,
-      "Корыгин Александр Алексеевич": 19,
-      "Лиханова Галина Ивановна": 30,
-      "Мальчихин Валерий Андреевич": 147,
-      "Сманцер Андрей Владимирович": 39,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121831": 42,
+      "gas:candidate-vibid:1001000187999": 32,
+      "gas:candidate-vibid:329300270503": 14,
+      "gas:candidate-vibid:1001000131391": 19,
+      "gas:candidate-vibid:1001000195058": 30,
+      "gas:candidate-vibid:1001000225925": 147,
+      "gas:candidate-vibid:329300270338": 39,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 14,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 35,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 24,
-      "Сманцер Андрей Владимирович": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121831": 14,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 35,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 24,
+      "gas:candidate-vibid:329300270338": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 29,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 24,
-      "Сманцер Андрей Владимирович": 13,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 29,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 24,
+      "gas:candidate-vibid:329300270338": 13,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 29,
-      "Енягин Владимир Николаевич": 72,
-      "Зверев Виктор Прохорович": 112,
-      "Корыгин Александр Алексеевич": 25,
-      "Лиханова Галина Ивановна": 25,
-      "Мальчихин Валерий Андреевич": 261,
-      "Сманцер Андрей Владимирович": 102,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121831": 29,
+      "gas:candidate-vibid:1001000187999": 72,
+      "gas:candidate-vibid:329300270503": 112,
+      "gas:candidate-vibid:1001000131391": 25,
+      "gas:candidate-vibid:1001000195058": 25,
+      "gas:candidate-vibid:1001000225925": 261,
+      "gas:candidate-vibid:329300270338": 102,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 32,
-      "Сманцер Андрей Владимирович": 17,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 32,
+      "gas:candidate-vibid:329300270338": 17,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 19,
-      "Сманцер Андрей Владимирович": 17,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 19,
+      "gas:candidate-vibid:329300270338": 17,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 49,
-      "Енягин Владимир Николаевич": 32,
-      "Зверев Виктор Прохорович": 33,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 89,
-      "Сманцер Андрей Владимирович": 28,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121831": 49,
+      "gas:candidate-vibid:1001000187999": 32,
+      "gas:candidate-vibid:329300270503": 33,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 89,
+      "gas:candidate-vibid:329300270338": 28,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 42,
-      "Зверев Виктор Прохорович": 38,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 69,
-      "Сманцер Андрей Владимирович": 25,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 42,
+      "gas:candidate-vibid:329300270503": 38,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 69,
+      "gas:candidate-vibid:329300270338": 25,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 14,
-      "Енягин Владимир Николаевич": 86,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 83,
-      "Сманцер Андрей Владимирович": 13,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121831": 14,
+      "gas:candidate-vibid:1001000187999": 86,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 83,
+      "gas:candidate-vibid:329300270338": 13,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 26,
-      "Зверев Виктор Прохорович": 27,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 91,
-      "Сманцер Андрей Владимирович": 32,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 26,
+      "gas:candidate-vibid:329300270503": 27,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 91,
+      "gas:candidate-vibid:329300270338": 32,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 26,
-      "Енягин Владимир Николаевич": 25,
-      "Зверев Виктор Прохорович": 20,
-      "Корыгин Александр Алексеевич": 13,
-      "Лиханова Галина Ивановна": 19,
-      "Мальчихин Валерий Андреевич": 75,
-      "Сманцер Андрей Владимирович": 98,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121831": 26,
+      "gas:candidate-vibid:1001000187999": 25,
+      "gas:candidate-vibid:329300270503": 20,
+      "gas:candidate-vibid:1001000131391": 13,
+      "gas:candidate-vibid:1001000195058": 19,
+      "gas:candidate-vibid:1001000225925": 75,
+      "gas:candidate-vibid:329300270338": 98,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 33,
-      "Енягин Владимир Николаевич": 94,
-      "Зверев Виктор Прохорович": 171,
-      "Корыгин Александр Алексеевич": 26,
-      "Лиханова Галина Ивановна": 31,
-      "Мальчихин Валерий Андреевич": 185,
-      "Сманцер Андрей Владимирович": 100,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121831": 33,
+      "gas:candidate-vibid:1001000187999": 94,
+      "gas:candidate-vibid:329300270503": 171,
+      "gas:candidate-vibid:1001000131391": 26,
+      "gas:candidate-vibid:1001000195058": 31,
+      "gas:candidate-vibid:1001000225925": 185,
+      "gas:candidate-vibid:329300270338": 100,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 77,
-      "Енягин Владимир Николаевич": 145,
-      "Зверев Виктор Прохорович": 155,
-      "Корыгин Александр Алексеевич": 30,
-      "Лиханова Галина Ивановна": 54,
-      "Мальчихин Валерий Андреевич": 345,
-      "Сманцер Андрей Владимирович": 211,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000121831": 77,
+      "gas:candidate-vibid:1001000187999": 145,
+      "gas:candidate-vibid:329300270503": 155,
+      "gas:candidate-vibid:1001000131391": 30,
+      "gas:candidate-vibid:1001000195058": 54,
+      "gas:candidate-vibid:1001000225925": 345,
+      "gas:candidate-vibid:329300270338": 211,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 70,
-      "Енягин Владимир Николаевич": 87,
-      "Зверев Виктор Прохорович": 130,
-      "Корыгин Александр Алексеевич": 34,
-      "Лиханова Галина Ивановна": 33,
-      "Мальчихин Валерий Андреевич": 259,
-      "Сманцер Андрей Владимирович": 148,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121831": 70,
+      "gas:candidate-vibid:1001000187999": 87,
+      "gas:candidate-vibid:329300270503": 130,
+      "gas:candidate-vibid:1001000131391": 34,
+      "gas:candidate-vibid:1001000195058": 33,
+      "gas:candidate-vibid:1001000225925": 259,
+      "gas:candidate-vibid:329300270338": 148,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 15,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 20,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 32,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 15,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 20,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 32,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 20,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 15,
-      "Лиханова Галина Ивановна": 40,
-      "Мальчихин Валерий Андреевич": 67,
-      "Сманцер Андрей Владимирович": 58,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121831": 20,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 15,
+      "gas:candidate-vibid:1001000195058": 40,
+      "gas:candidate-vibid:1001000225925": 67,
+      "gas:candidate-vibid:329300270338": 58,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 18,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 18,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 37,
-      "Енягин Владимир Николаевич": 29,
-      "Зверев Виктор Прохорович": 29,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 98,
-      "Сманцер Андрей Владимирович": 62,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121831": 37,
+      "gas:candidate-vibid:1001000187999": 29,
+      "gas:candidate-vibid:329300270503": 29,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 98,
+      "gas:candidate-vibid:329300270338": 62,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 13,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 5,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 30,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 13,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 5,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 30,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 8,
-      "Сманцер Андрей Владимирович": 23,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 8,
+      "gas:candidate-vibid:329300270338": 23,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 46,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 48,
-      "Сманцер Андрей Владимирович": 133,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 46,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 48,
+      "gas:candidate-vibid:329300270338": 133,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 9,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 9,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070532&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 24,
-      "Енягин Владимир Николаевич": 60,
-      "Зверев Виктор Прохорович": 84,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 14,
-      "Мальчихин Валерий Андреевич": 215,
-      "Сманцер Андрей Владимирович": 27,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121831": 24,
+      "gas:candidate-vibid:1001000187999": 60,
+      "gas:candidate-vibid:329300270503": 84,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 14,
+      "gas:candidate-vibid:1001000225925": 215,
+      "gas:candidate-vibid:329300270338": 27,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 48,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 63,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 48,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 63,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 34,
-      "Енягин Владимир Николаевич": 103,
-      "Зверев Виктор Прохорович": 22,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 48,
-      "Мальчихин Валерий Андреевич": 168,
-      "Сманцер Андрей Владимирович": 23,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 34,
+      "gas:candidate-vibid:1001000187999": 103,
+      "gas:candidate-vibid:329300270503": 22,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 48,
+      "gas:candidate-vibid:1001000225925": 168,
+      "gas:candidate-vibid:329300270338": 23,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 13,
-      "Зверев Виктор Прохорович": 34,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 17,
-      "Мальчихин Валерий Андреевич": 164,
-      "Сманцер Андрей Владимирович": 16,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 13,
+      "gas:candidate-vibid:329300270503": 34,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 17,
+      "gas:candidate-vibid:1001000225925": 164,
+      "gas:candidate-vibid:329300270338": 16,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 40,
-      "Енягин Владимир Николаевич": 39,
-      "Зверев Виктор Прохорович": 43,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 18,
-      "Мальчихин Валерий Андреевич": 58,
-      "Сманцер Андрей Владимирович": 25,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121831": 40,
+      "gas:candidate-vibid:1001000187999": 39,
+      "gas:candidate-vibid:329300270503": 43,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 18,
+      "gas:candidate-vibid:1001000225925": 58,
+      "gas:candidate-vibid:329300270338": 25,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 41,
-      "Енягин Владимир Николаевич": 66,
-      "Зверев Виктор Прохорович": 55,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 35,
-      "Мальчихин Валерий Андреевич": 311,
-      "Сманцер Андрей Владимирович": 57,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121831": 41,
+      "gas:candidate-vibid:1001000187999": 66,
+      "gas:candidate-vibid:329300270503": 55,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 35,
+      "gas:candidate-vibid:1001000225925": 311,
+      "gas:candidate-vibid:329300270338": 57,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 43,
-      "Зверев Виктор Прохорович": 35,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 16,
-      "Мальчихин Валерий Андреевич": 212,
-      "Сманцер Андрей Владимирович": 39,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 43,
+      "gas:candidate-vibid:329300270503": 35,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 16,
+      "gas:candidate-vibid:1001000225925": 212,
+      "gas:candidate-vibid:329300270338": 39,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 12,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 93,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 12,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 93,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 34,
-      "Зверев Виктор Прохорович": 8,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 110,
-      "Сманцер Андрей Владимирович": 42,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 34,
+      "gas:candidate-vibid:329300270503": 8,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 110,
+      "gas:candidate-vibid:329300270338": 42,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 16,
-      "Енягин Владимир Николаевич": 21,
-      "Зверев Виктор Прохорович": 74,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 15,
-      "Мальчихин Валерий Андреевич": 166,
-      "Сманцер Андрей Владимирович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 16,
+      "gas:candidate-vibid:1001000187999": 21,
+      "gas:candidate-vibid:329300270503": 74,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 15,
+      "gas:candidate-vibid:1001000225925": 166,
+      "gas:candidate-vibid:329300270338": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 14,
-      "Зверев Виктор Прохорович": 75,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 89,
-      "Сманцер Андрей Владимирович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 14,
+      "gas:candidate-vibid:329300270503": 75,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 89,
+      "gas:candidate-vibid:329300270338": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 85,
-      "Енягин Владимир Николаевич": 157,
-      "Зверев Виктор Прохорович": 217,
-      "Корыгин Александр Алексеевич": 19,
-      "Лиханова Галина Ивановна": 93,
-      "Мальчихин Валерий Андреевич": 816,
-      "Сманцер Андрей Владимирович": 80,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121831": 85,
+      "gas:candidate-vibid:1001000187999": 157,
+      "gas:candidate-vibid:329300270503": 217,
+      "gas:candidate-vibid:1001000131391": 19,
+      "gas:candidate-vibid:1001000195058": 93,
+      "gas:candidate-vibid:1001000225925": 816,
+      "gas:candidate-vibid:329300270338": 80,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 42,
-      "Енягин Владимир Николаевич": 53,
-      "Зверев Виктор Прохорович": 105,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 69,
-      "Мальчихин Валерий Андреевич": 452,
-      "Сманцер Андрей Владимирович": 39,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121831": 42,
+      "gas:candidate-vibid:1001000187999": 53,
+      "gas:candidate-vibid:329300270503": 105,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 69,
+      "gas:candidate-vibid:1001000225925": 452,
+      "gas:candidate-vibid:329300270338": 39,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 0,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 48,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 43,
-      "Сманцер Андрей Владимирович": 18,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 0,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 48,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 43,
+      "gas:candidate-vibid:329300270338": 18,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 24,
-      "Енягин Владимир Николаевич": 59,
-      "Зверев Виктор Прохорович": 81,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 50,
-      "Мальчихин Валерий Андреевич": 218,
-      "Сманцер Андрей Владимирович": 50,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121831": 24,
+      "gas:candidate-vibid:1001000187999": 59,
+      "gas:candidate-vibid:329300270503": 81,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 50,
+      "gas:candidate-vibid:1001000225925": 218,
+      "gas:candidate-vibid:329300270338": 50,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 8,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 22,
-      "Сманцер Андрей Владимирович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 8,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 22,
+      "gas:candidate-vibid:329300270338": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 0,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 13,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 52,
-      "Сманцер Андрей Владимирович": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 0,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 13,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 52,
+      "gas:candidate-vibid:329300270338": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 23,
-      "Зверев Виктор Прохорович": 12,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 109,
-      "Сманцер Андрей Владимирович": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 23,
+      "gas:candidate-vibid:329300270503": 12,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 109,
+      "gas:candidate-vibid:329300270338": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070533&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 46,
-      "Сманцер Андрей Владимирович": 58,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 46,
+      "gas:candidate-vibid:329300270338": 58,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 14,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 92,
-      "Сманцер Андрей Владимирович": 38,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121831": 14,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 92,
+      "gas:candidate-vibid:329300270338": 38,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 84,
-      "Сманцер Андрей Владимирович": 79,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 84,
+      "gas:candidate-vibid:329300270338": 79,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 9,
-      "Сманцер Андрей Владимирович": 26,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 9,
+      "gas:candidate-vibid:329300270338": 26,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 25,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 17,
-      "Лиханова Галина Ивановна": 26,
-      "Мальчихин Валерий Андреевич": 134,
-      "Сманцер Андрей Владимирович": 175,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121831": 25,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 17,
+      "gas:candidate-vibid:1001000195058": 26,
+      "gas:candidate-vibid:1001000225925": 134,
+      "gas:candidate-vibid:329300270338": 175,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 41,
-      "Сманцер Андрей Владимирович": 36,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 41,
+      "gas:candidate-vibid:329300270338": 36,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 125,
-      "Сманцер Андрей Владимирович": 151,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 125,
+      "gas:candidate-vibid:329300270338": 151,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 101,
-      "Сманцер Андрей Владимирович": 40,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 101,
+      "gas:candidate-vibid:329300270338": 40,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 54,
-      "Сманцер Андрей Владимирович": 56,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 54,
+      "gas:candidate-vibid:329300270338": 56,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 19,
-      "Сманцер Андрей Владимирович": 30,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 19,
+      "gas:candidate-vibid:329300270338": 30,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 54,
-      "Сманцер Андрей Владимирович": 27,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 54,
+      "gas:candidate-vibid:329300270338": 27,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 46,
-      "Сманцер Андрей Владимирович": 15,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 46,
+      "gas:candidate-vibid:329300270338": 15,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 68,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 38,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 37,
-      "Мальчихин Валерий Андреевич": 385,
-      "Сманцер Андрей Владимирович": 93,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121831": 68,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 38,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 37,
+      "gas:candidate-vibid:1001000225925": 385,
+      "gas:candidate-vibid:329300270338": 93,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 128,
-      "Енягин Владимир Николаевич": 33,
-      "Зверев Виктор Прохорович": 84,
-      "Корыгин Александр Алексеевич": 41,
-      "Лиханова Галина Ивановна": 62,
-      "Мальчихин Валерий Андреевич": 583,
-      "Сманцер Андрей Владимирович": 200,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000121831": 128,
+      "gas:candidate-vibid:1001000187999": 33,
+      "gas:candidate-vibid:329300270503": 84,
+      "gas:candidate-vibid:1001000131391": 41,
+      "gas:candidate-vibid:1001000195058": 62,
+      "gas:candidate-vibid:1001000225925": 583,
+      "gas:candidate-vibid:329300270338": 200,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 43,
-      "Енягин Владимир Николаевич": 28,
-      "Зверев Виктор Прохорович": 112,
-      "Корыгин Александр Алексеевич": 17,
-      "Лиханова Галина Ивановна": 82,
-      "Мальчихин Валерий Андреевич": 493,
-      "Сманцер Андрей Владимирович": 306,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121831": 43,
+      "gas:candidate-vibid:1001000187999": 28,
+      "gas:candidate-vibid:329300270503": 112,
+      "gas:candidate-vibid:1001000131391": 17,
+      "gas:candidate-vibid:1001000195058": 82,
+      "gas:candidate-vibid:1001000225925": 493,
+      "gas:candidate-vibid:329300270338": 306,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 47,
-      "Сманцер Андрей Владимирович": 31,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 47,
+      "gas:candidate-vibid:329300270338": 31,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 18,
-      "Мальчихин Валерий Андреевич": 90,
-      "Сманцер Андрей Владимирович": 85,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 18,
+      "gas:candidate-vibid:1001000225925": 90,
+      "gas:candidate-vibid:329300270338": 85,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 16,
-      "Мальчихин Валерий Андреевич": 52,
-      "Сманцер Андрей Владимирович": 38,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 16,
+      "gas:candidate-vibid:1001000225925": 52,
+      "gas:candidate-vibid:329300270338": 38,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 18,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 132,
-      "Сманцер Андрей Владимирович": 44,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121831": 18,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 132,
+      "gas:candidate-vibid:329300270338": 44,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 43,
-      "Сманцер Андрей Владимирович": 14,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 43,
+      "gas:candidate-vibid:329300270338": 14,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 0,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 13,
-      "Сманцер Андрей Владимирович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121831": 0,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 13,
+      "gas:candidate-vibid:329300270338": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 0,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 10,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121831": 0,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 10,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 26,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 8,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 95,
-      "Сманцер Андрей Владимирович": 42,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121831": 26,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 8,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 95,
+      "gas:candidate-vibid:329300270338": 42,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 25,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 47,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121831": 25,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 47,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 17,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 42,
-      "Сманцер Андрей Владимирович": 64,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 17,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 42,
+      "gas:candidate-vibid:329300270338": 64,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 35,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 18,
-      "Сманцер Андрей Владимирович": 33,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 35,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 18,
+      "gas:candidate-vibid:329300270338": 33,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 67,
-      "Енягин Владимир Николаевич": 61,
-      "Зверев Виктор Прохорович": 110,
-      "Корыгин Александр Алексеевич": 31,
-      "Лиханова Галина Ивановна": 31,
-      "Мальчихин Валерий Андреевич": 341,
-      "Сманцер Андрей Владимирович": 143,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121831": 67,
+      "gas:candidate-vibid:1001000187999": 61,
+      "gas:candidate-vibid:329300270503": 110,
+      "gas:candidate-vibid:1001000131391": 31,
+      "gas:candidate-vibid:1001000195058": 31,
+      "gas:candidate-vibid:1001000225925": 341,
+      "gas:candidate-vibid:329300270338": 143,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 16,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 26,
-      "Сманцер Андрей Владимирович": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 16,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 26,
+      "gas:candidate-vibid:329300270338": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 15,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 34,
-      "Сманцер Андрей Владимирович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 15,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 34,
+      "gas:candidate-vibid:329300270338": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 7,
-      "Зверев Виктор Прохорович": 36,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 45,
-      "Сманцер Андрей Владимирович": 42,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 7,
+      "gas:candidate-vibid:329300270503": 36,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 45,
+      "gas:candidate-vibid:329300270338": 42,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 53,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 101,
-      "Сманцер Андрей Владимирович": 33,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 53,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 101,
+      "gas:candidate-vibid:329300270338": 33,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 35,
-      "Сманцер Андрей Владимирович": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 35,
+      "gas:candidate-vibid:329300270338": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 32,
-      "Енягин Владимир Николаевич": 13,
-      "Зверев Виктор Прохорович": 51,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 228,
-      "Сманцер Андрей Владимирович": 67,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121831": 32,
+      "gas:candidate-vibid:1001000187999": 13,
+      "gas:candidate-vibid:329300270503": 51,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 228,
+      "gas:candidate-vibid:329300270338": 67,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 61,
-      "Сманцер Андрей Владимирович": 32,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 61,
+      "gas:candidate-vibid:329300270338": 32,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 15,
-      "Зверев Виктор Прохорович": 13,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 19,
-      "Мальчихин Валерий Андреевич": 129,
-      "Сманцер Андрей Владимирович": 112,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 15,
+      "gas:candidate-vibid:329300270503": 13,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 19,
+      "gas:candidate-vibid:1001000225925": 129,
+      "gas:candidate-vibid:329300270338": 112,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 8,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 32,
-      "Сманцер Андрей Владимирович": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 8,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 32,
+      "gas:candidate-vibid:329300270338": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 0,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 12,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121831": 0,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 12,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 34,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 49,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 15,
-      "Мальчихин Валерий Андреевич": 171,
-      "Сманцер Андрей Владимирович": 110,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121831": 34,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 49,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 15,
+      "gas:candidate-vibid:1001000225925": 171,
+      "gas:candidate-vibid:329300270338": 110,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 43,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 134,
-      "Сманцер Андрей Владимирович": 70,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 43,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 134,
+      "gas:candidate-vibid:329300270338": 70,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 81,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 46,
-      "Сманцер Андрей Владимирович": 17,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 81,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 46,
+      "gas:candidate-vibid:329300270338": 17,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 12,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 13,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 87,
-      "Сманцер Андрей Владимирович": 23,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121831": 12,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 13,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 87,
+      "gas:candidate-vibid:329300270338": 23,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070534&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 66,
-      "Енягин Владимир Николаевич": 259,
-      "Зверев Виктор Прохорович": 64,
-      "Корыгин Александр Алексеевич": 17,
-      "Лиханова Галина Ивановна": 53,
-      "Мальчихин Валерий Андреевич": 184,
-      "Сманцер Андрей Владимирович": 105,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121831": 66,
+      "gas:candidate-vibid:1001000187999": 259,
+      "gas:candidate-vibid:329300270503": 64,
+      "gas:candidate-vibid:1001000131391": 17,
+      "gas:candidate-vibid:1001000195058": 53,
+      "gas:candidate-vibid:1001000225925": 184,
+      "gas:candidate-vibid:329300270338": 105,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 24,
-      "Енягин Владимир Николаевич": 153,
-      "Зверев Виктор Прохорович": 82,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 22,
-      "Мальчихин Валерий Андреевич": 85,
-      "Сманцер Андрей Владимирович": 55,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121831": 24,
+      "gas:candidate-vibid:1001000187999": 153,
+      "gas:candidate-vibid:329300270503": 82,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 22,
+      "gas:candidate-vibid:1001000225925": 85,
+      "gas:candidate-vibid:329300270338": 55,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 41,
-      "Енягин Владимир Николаевич": 240,
-      "Зверев Виктор Прохорович": 52,
-      "Корыгин Александр Алексеевич": 24,
-      "Лиханова Галина Ивановна": 39,
-      "Мальчихин Валерий Андреевич": 138,
-      "Сманцер Андрей Владимирович": 76,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121831": 41,
+      "gas:candidate-vibid:1001000187999": 240,
+      "gas:candidate-vibid:329300270503": 52,
+      "gas:candidate-vibid:1001000131391": 24,
+      "gas:candidate-vibid:1001000195058": 39,
+      "gas:candidate-vibid:1001000225925": 138,
+      "gas:candidate-vibid:329300270338": 76,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 25,
-      "Енягин Владимир Николаевич": 152,
-      "Зверев Виктор Прохорович": 59,
-      "Корыгин Александр Алексеевич": 20,
-      "Лиханова Галина Ивановна": 47,
-      "Мальчихин Валерий Андреевич": 121,
-      "Сманцер Андрей Владимирович": 48,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121831": 25,
+      "gas:candidate-vibid:1001000187999": 152,
+      "gas:candidate-vibid:329300270503": 59,
+      "gas:candidate-vibid:1001000131391": 20,
+      "gas:candidate-vibid:1001000195058": 47,
+      "gas:candidate-vibid:1001000225925": 121,
+      "gas:candidate-vibid:329300270338": 48,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 38,
-      "Енягин Владимир Николаевич": 223,
-      "Зверев Виктор Прохорович": 230,
-      "Корыгин Александр Алексеевич": 18,
-      "Лиханова Галина Ивановна": 32,
-      "Мальчихин Валерий Андреевич": 138,
-      "Сманцер Андрей Владимирович": 83,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121831": 38,
+      "gas:candidate-vibid:1001000187999": 223,
+      "gas:candidate-vibid:329300270503": 230,
+      "gas:candidate-vibid:1001000131391": 18,
+      "gas:candidate-vibid:1001000195058": 32,
+      "gas:candidate-vibid:1001000225925": 138,
+      "gas:candidate-vibid:329300270338": 83,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 34,
-      "Енягин Владимир Николаевич": 180,
-      "Зверев Виктор Прохорович": 64,
-      "Корыгин Александр Алексеевич": 25,
-      "Лиханова Галина Ивановна": 46,
-      "Мальчихин Валерий Андреевич": 121,
-      "Сманцер Андрей Владимирович": 76,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121831": 34,
+      "gas:candidate-vibid:1001000187999": 180,
+      "gas:candidate-vibid:329300270503": 64,
+      "gas:candidate-vibid:1001000131391": 25,
+      "gas:candidate-vibid:1001000195058": 46,
+      "gas:candidate-vibid:1001000225925": 121,
+      "gas:candidate-vibid:329300270338": 76,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 53,
-      "Енягин Владимир Николаевич": 338,
-      "Зверев Виктор Прохорович": 133,
-      "Корыгин Александр Алексеевич": 31,
-      "Лиханова Галина Ивановна": 55,
-      "Мальчихин Валерий Андреевич": 197,
-      "Сманцер Андрей Владимирович": 162,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121831": 53,
+      "gas:candidate-vibid:1001000187999": 338,
+      "gas:candidate-vibid:329300270503": 133,
+      "gas:candidate-vibid:1001000131391": 31,
+      "gas:candidate-vibid:1001000195058": 55,
+      "gas:candidate-vibid:1001000225925": 197,
+      "gas:candidate-vibid:329300270338": 162,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 102,
-      "Зверев Виктор Прохорович": 118,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 42,
-      "Мальчихин Валерий Андреевич": 93,
-      "Сманцер Андрей Владимирович": 57,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 102,
+      "gas:candidate-vibid:329300270503": 118,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 42,
+      "gas:candidate-vibid:1001000225925": 93,
+      "gas:candidate-vibid:329300270338": 57,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 29,
-      "Енягин Владимир Николаевич": 229,
-      "Зверев Виктор Прохорович": 178,
-      "Корыгин Александр Алексеевич": 41,
-      "Лиханова Галина Ивановна": 59,
-      "Мальчихин Валерий Андреевич": 139,
-      "Сманцер Андрей Владимирович": 55,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121831": 29,
+      "gas:candidate-vibid:1001000187999": 229,
+      "gas:candidate-vibid:329300270503": 178,
+      "gas:candidate-vibid:1001000131391": 41,
+      "gas:candidate-vibid:1001000195058": 59,
+      "gas:candidate-vibid:1001000225925": 139,
+      "gas:candidate-vibid:329300270338": 55,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 44,
-      "Енягин Владимир Николаевич": 207,
-      "Зверев Виктор Прохорович": 98,
-      "Корыгин Александр Алексеевич": 25,
-      "Лиханова Галина Ивановна": 36,
-      "Мальчихин Валерий Андреевич": 164,
-      "Сманцер Андрей Владимирович": 66,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121831": 44,
+      "gas:candidate-vibid:1001000187999": 207,
+      "gas:candidate-vibid:329300270503": 98,
+      "gas:candidate-vibid:1001000131391": 25,
+      "gas:candidate-vibid:1001000195058": 36,
+      "gas:candidate-vibid:1001000225925": 164,
+      "gas:candidate-vibid:329300270338": 66,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 24,
-      "Енягин Владимир Николаевич": 205,
-      "Зверев Виктор Прохорович": 131,
-      "Корыгин Александр Алексеевич": 13,
-      "Лиханова Галина Ивановна": 38,
-      "Мальчихин Валерий Андреевич": 175,
-      "Сманцер Андрей Владимирович": 63,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121831": 24,
+      "gas:candidate-vibid:1001000187999": 205,
+      "gas:candidate-vibid:329300270503": 131,
+      "gas:candidate-vibid:1001000131391": 13,
+      "gas:candidate-vibid:1001000195058": 38,
+      "gas:candidate-vibid:1001000225925": 175,
+      "gas:candidate-vibid:329300270338": 63,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 15,
-      "Енягин Владимир Николаевич": 117,
-      "Зверев Виктор Прохорович": 108,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 14,
-      "Мальчихин Валерий Андреевич": 92,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121831": 15,
+      "gas:candidate-vibid:1001000187999": 117,
+      "gas:candidate-vibid:329300270503": 108,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 14,
+      "gas:candidate-vibid:1001000225925": 92,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_29_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 46,
-      "Енягин Владимир Николаевич": 190,
-      "Зверев Виктор Прохорович": 136,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 24,
-      "Мальчихин Валерий Андреевич": 100,
-      "Сманцер Андрей Владимирович": 77,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121831": 46,
+      "gas:candidate-vibid:1001000187999": 190,
+      "gas:candidate-vibid:329300270503": 136,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 24,
+      "gas:candidate-vibid:1001000225925": 100,
+      "gas:candidate-vibid:329300270338": 77,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=293002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=329300271178&region=0&sub_region=0&type=429",

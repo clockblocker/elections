@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 113,
-      "Гордеева Марина Владимировна": 47,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 163,
-      "Михайлов Владимир Викторович": 140,
-      "Сардаров Сард Селимович": 52,
-      "Сторожев Леонид Вадимович": 22,
-      "Трепов Евгений Александрович": 126,
-      "Чуев Александр Викторович": 48,
-      "Против всех": 106
+      "gas:candidate-vibid:244200070464": 113,
+      "gas:candidate-vibid:1001000190355": 47,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 163,
+      "gas:candidate-vibid:1001000131396": 140,
+      "gas:candidate-vibid:244200071430": 52,
+      "gas:candidate-vibid:1001000112218": 22,
+      "gas:candidate-vibid:1001000225946": 126,
+      "gas:candidate-vibid:1001000188005": 48,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 88,
-      "Гордеева Марина Владимировна": 35,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 97,
-      "Михайлов Владимир Викторович": 99,
-      "Сардаров Сард Селимович": 53,
-      "Сторожев Леонид Вадимович": 9,
-      "Трепов Евгений Александрович": 165,
-      "Чуев Александр Викторович": 39,
-      "Против всех": 99
+      "gas:candidate-vibid:244200070464": 88,
+      "gas:candidate-vibid:1001000190355": 35,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 97,
+      "gas:candidate-vibid:1001000131396": 99,
+      "gas:candidate-vibid:244200071430": 53,
+      "gas:candidate-vibid:1001000112218": 9,
+      "gas:candidate-vibid:1001000225946": 165,
+      "gas:candidate-vibid:1001000188005": 39,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 75,
-      "Гордеева Марина Владимировна": 35,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 98,
-      "Михайлов Владимир Викторович": 97,
-      "Сардаров Сард Селимович": 49,
-      "Сторожев Леонид Вадимович": 17,
-      "Трепов Евгений Александрович": 159,
-      "Чуев Александр Викторович": 22,
-      "Против всех": 88
+      "gas:candidate-vibid:244200070464": 75,
+      "gas:candidate-vibid:1001000190355": 35,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 98,
+      "gas:candidate-vibid:1001000131396": 97,
+      "gas:candidate-vibid:244200071430": 49,
+      "gas:candidate-vibid:1001000112218": 17,
+      "gas:candidate-vibid:1001000225946": 159,
+      "gas:candidate-vibid:1001000188005": 22,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 87,
-      "Гордеева Марина Владимировна": 46,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 22,
-      "Комиссаров Сергей Юрьевич": 152,
-      "Михайлов Владимир Викторович": 143,
-      "Сардаров Сард Селимович": 73,
-      "Сторожев Леонид Вадимович": 18,
-      "Трепов Евгений Александрович": 225,
-      "Чуев Александр Викторович": 57,
-      "Против всех": 112
+      "gas:candidate-vibid:244200070464": 87,
+      "gas:candidate-vibid:1001000190355": 46,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 22,
+      "gas:candidate-vibid:244200071218": 152,
+      "gas:candidate-vibid:1001000131396": 143,
+      "gas:candidate-vibid:244200071430": 73,
+      "gas:candidate-vibid:1001000112218": 18,
+      "gas:candidate-vibid:1001000225946": 225,
+      "gas:candidate-vibid:1001000188005": 57,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 47,
-      "Гордеева Марина Владимировна": 18,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 70,
-      "Михайлов Владимир Викторович": 49,
-      "Сардаров Сард Селимович": 34,
-      "Сторожев Леонид Вадимович": 8,
-      "Трепов Евгений Александрович": 132,
-      "Чуев Александр Викторович": 31,
-      "Против всех": 66
+      "gas:candidate-vibid:244200070464": 47,
+      "gas:candidate-vibid:1001000190355": 18,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 70,
+      "gas:candidate-vibid:1001000131396": 49,
+      "gas:candidate-vibid:244200071430": 34,
+      "gas:candidate-vibid:1001000112218": 8,
+      "gas:candidate-vibid:1001000225946": 132,
+      "gas:candidate-vibid:1001000188005": 31,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 49,
-      "Гордеева Марина Владимировна": 32,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 22,
-      "Комиссаров Сергей Юрьевич": 101,
-      "Михайлов Владимир Викторович": 69,
-      "Сардаров Сард Селимович": 65,
-      "Сторожев Леонид Вадимович": 14,
-      "Трепов Евгений Александрович": 115,
-      "Чуев Александр Викторович": 33,
-      "Против всех": 64
+      "gas:candidate-vibid:244200070464": 49,
+      "gas:candidate-vibid:1001000190355": 32,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 22,
+      "gas:candidate-vibid:244200071218": 101,
+      "gas:candidate-vibid:1001000131396": 69,
+      "gas:candidate-vibid:244200071430": 65,
+      "gas:candidate-vibid:1001000112218": 14,
+      "gas:candidate-vibid:1001000225946": 115,
+      "gas:candidate-vibid:1001000188005": 33,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 103,
-      "Гордеева Марина Владимировна": 45,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 26,
-      "Комиссаров Сергей Юрьевич": 140,
-      "Михайлов Владимир Викторович": 124,
-      "Сардаров Сард Селимович": 75,
-      "Сторожев Леонид Вадимович": 18,
-      "Трепов Евгений Александрович": 175,
-      "Чуев Александр Викторович": 46,
-      "Против всех": 91
+      "gas:candidate-vibid:244200070464": 103,
+      "gas:candidate-vibid:1001000190355": 45,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 26,
+      "gas:candidate-vibid:244200071218": 140,
+      "gas:candidate-vibid:1001000131396": 124,
+      "gas:candidate-vibid:244200071430": 75,
+      "gas:candidate-vibid:1001000112218": 18,
+      "gas:candidate-vibid:1001000225946": 175,
+      "gas:candidate-vibid:1001000188005": 46,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 65,
-      "Гордеева Марина Владимировна": 37,
-      "Зайцев Анатолий Васильевич": 15,
-      "Карлашов Михаил Васильевич": 34,
-      "Комиссаров Сергей Юрьевич": 807,
-      "Михайлов Владимир Викторович": 111,
-      "Сардаров Сард Селимович": 84,
-      "Сторожев Леонид Вадимович": 25,
-      "Трепов Евгений Александрович": 175,
-      "Чуев Александр Викторович": 49,
-      "Против всех": 200
+      "gas:candidate-vibid:244200070464": 65,
+      "gas:candidate-vibid:1001000190355": 37,
+      "gas:candidate-vibid:1001000195085": 15,
+      "gas:candidate-vibid:1001000136066": 34,
+      "gas:candidate-vibid:244200071218": 807,
+      "gas:candidate-vibid:1001000131396": 111,
+      "gas:candidate-vibid:244200071430": 84,
+      "gas:candidate-vibid:1001000112218": 25,
+      "gas:candidate-vibid:1001000225946": 175,
+      "gas:candidate-vibid:1001000188005": 49,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 105,
-      "Гордеева Марина Владимировна": 71,
-      "Зайцев Анатолий Васильевич": 15,
-      "Карлашов Михаил Васильевич": 35,
-      "Комиссаров Сергей Юрьевич": 296,
-      "Михайлов Владимир Викторович": 205,
-      "Сардаров Сард Селимович": 116,
-      "Сторожев Леонид Вадимович": 19,
-      "Трепов Евгений Александрович": 327,
-      "Чуев Александр Викторович": 100,
-      "Против всех": 173
+      "gas:candidate-vibid:244200070464": 105,
+      "gas:candidate-vibid:1001000190355": 71,
+      "gas:candidate-vibid:1001000195085": 15,
+      "gas:candidate-vibid:1001000136066": 35,
+      "gas:candidate-vibid:244200071218": 296,
+      "gas:candidate-vibid:1001000131396": 205,
+      "gas:candidate-vibid:244200071430": 116,
+      "gas:candidate-vibid:1001000112218": 19,
+      "gas:candidate-vibid:1001000225946": 327,
+      "gas:candidate-vibid:1001000188005": 100,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 45,
-      "Гордеева Марина Владимировна": 36,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 16,
-      "Комиссаров Сергей Юрьевич": 71,
-      "Михайлов Владимир Викторович": 63,
-      "Сардаров Сард Селимович": 58,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 129,
-      "Чуев Александр Викторович": 23,
-      "Против всех": 59
+      "gas:candidate-vibid:244200070464": 45,
+      "gas:candidate-vibid:1001000190355": 36,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 16,
+      "gas:candidate-vibid:244200071218": 71,
+      "gas:candidate-vibid:1001000131396": 63,
+      "gas:candidate-vibid:244200071430": 58,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 129,
+      "gas:candidate-vibid:1001000188005": 23,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 146,
-      "Гордеева Марина Владимировна": 40,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 31,
-      "Комиссаров Сергей Юрьевич": 174,
-      "Михайлов Владимир Викторович": 241,
-      "Сардаров Сард Селимович": 110,
-      "Сторожев Леонид Вадимович": 20,
-      "Трепов Евгений Александрович": 373,
-      "Чуев Александр Викторович": 55,
-      "Против всех": 145
+      "gas:candidate-vibid:244200070464": 146,
+      "gas:candidate-vibid:1001000190355": 40,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 31,
+      "gas:candidate-vibid:244200071218": 174,
+      "gas:candidate-vibid:1001000131396": 241,
+      "gas:candidate-vibid:244200071430": 110,
+      "gas:candidate-vibid:1001000112218": 20,
+      "gas:candidate-vibid:1001000225946": 373,
+      "gas:candidate-vibid:1001000188005": 55,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 91,
-      "Гордеева Марина Владимировна": 59,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 26,
-      "Комиссаров Сергей Юрьевич": 287,
-      "Михайлов Владимир Викторович": 242,
-      "Сардаров Сард Селимович": 130,
-      "Сторожев Леонид Вадимович": 39,
-      "Трепов Евгений Александрович": 401,
-      "Чуев Александр Викторович": 100,
-      "Против всех": 207
+      "gas:candidate-vibid:244200070464": 91,
+      "gas:candidate-vibid:1001000190355": 59,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 26,
+      "gas:candidate-vibid:244200071218": 287,
+      "gas:candidate-vibid:1001000131396": 242,
+      "gas:candidate-vibid:244200071430": 130,
+      "gas:candidate-vibid:1001000112218": 39,
+      "gas:candidate-vibid:1001000225946": 401,
+      "gas:candidate-vibid:1001000188005": 100,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 76,
-      "Гордеева Марина Владимировна": 35,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 23,
-      "Комиссаров Сергей Юрьевич": 176,
-      "Михайлов Владимир Викторович": 127,
-      "Сардаров Сард Селимович": 91,
-      "Сторожев Леонид Вадимович": 16,
-      "Трепов Евгений Александрович": 191,
-      "Чуев Александр Викторович": 53,
-      "Против всех": 105
+      "gas:candidate-vibid:244200070464": 76,
+      "gas:candidate-vibid:1001000190355": 35,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 23,
+      "gas:candidate-vibid:244200071218": 176,
+      "gas:candidate-vibid:1001000131396": 127,
+      "gas:candidate-vibid:244200071430": 91,
+      "gas:candidate-vibid:1001000112218": 16,
+      "gas:candidate-vibid:1001000225946": 191,
+      "gas:candidate-vibid:1001000188005": 53,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 133,
-      "Гордеева Марина Владимировна": 67,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 31,
-      "Комиссаров Сергей Юрьевич": 211,
-      "Михайлов Владимир Викторович": 169,
-      "Сардаров Сард Селимович": 105,
-      "Сторожев Леонид Вадимович": 22,
-      "Трепов Евгений Александрович": 254,
-      "Чуев Александр Викторович": 85,
-      "Против всех": 164
+      "gas:candidate-vibid:244200070464": 133,
+      "gas:candidate-vibid:1001000190355": 67,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 31,
+      "gas:candidate-vibid:244200071218": 211,
+      "gas:candidate-vibid:1001000131396": 169,
+      "gas:candidate-vibid:244200071430": 105,
+      "gas:candidate-vibid:1001000112218": 22,
+      "gas:candidate-vibid:1001000225946": 254,
+      "gas:candidate-vibid:1001000188005": 85,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 128,
-      "Гордеева Марина Владимировна": 80,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 32,
-      "Комиссаров Сергей Юрьевич": 276,
-      "Михайлов Владимир Викторович": 268,
-      "Сардаров Сард Селимович": 123,
-      "Сторожев Леонид Вадимович": 32,
-      "Трепов Евгений Александрович": 351,
-      "Чуев Александр Викторович": 96,
-      "Против всех": 219
+      "gas:candidate-vibid:244200070464": 128,
+      "gas:candidate-vibid:1001000190355": 80,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 32,
+      "gas:candidate-vibid:244200071218": 276,
+      "gas:candidate-vibid:1001000131396": 268,
+      "gas:candidate-vibid:244200071430": 123,
+      "gas:candidate-vibid:1001000112218": 32,
+      "gas:candidate-vibid:1001000225946": 351,
+      "gas:candidate-vibid:1001000188005": 96,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 142,
-      "Гордеева Марина Владимировна": 81,
-      "Зайцев Анатолий Васильевич": 10,
-      "Карлашов Михаил Васильевич": 33,
-      "Комиссаров Сергей Юрьевич": 311,
-      "Михайлов Владимир Викторович": 266,
-      "Сардаров Сард Селимович": 122,
-      "Сторожев Леонид Вадимович": 32,
-      "Трепов Евгений Александрович": 378,
-      "Чуев Александр Викторович": 111,
-      "Против всех": 249
+      "gas:candidate-vibid:244200070464": 142,
+      "gas:candidate-vibid:1001000190355": 81,
+      "gas:candidate-vibid:1001000195085": 10,
+      "gas:candidate-vibid:1001000136066": 33,
+      "gas:candidate-vibid:244200071218": 311,
+      "gas:candidate-vibid:1001000131396": 266,
+      "gas:candidate-vibid:244200071430": 122,
+      "gas:candidate-vibid:1001000112218": 32,
+      "gas:candidate-vibid:1001000225946": 378,
+      "gas:candidate-vibid:1001000188005": 111,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 117,
-      "Гордеева Марина Владимировна": 90,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 24,
-      "Комиссаров Сергей Юрьевич": 226,
-      "Михайлов Владимир Викторович": 236,
-      "Сардаров Сард Селимович": 123,
-      "Сторожев Леонид Вадимович": 18,
-      "Трепов Евгений Александрович": 260,
-      "Чуев Александр Викторович": 90,
-      "Против всех": 185
+      "gas:candidate-vibid:244200070464": 117,
+      "gas:candidate-vibid:1001000190355": 90,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 24,
+      "gas:candidate-vibid:244200071218": 226,
+      "gas:candidate-vibid:1001000131396": 236,
+      "gas:candidate-vibid:244200071430": 123,
+      "gas:candidate-vibid:1001000112218": 18,
+      "gas:candidate-vibid:1001000225946": 260,
+      "gas:candidate-vibid:1001000188005": 90,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 205,
-      "Гордеева Марина Владимировна": 65,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 35,
-      "Комиссаров Сергей Юрьевич": 227,
-      "Михайлов Владимир Викторович": 205,
-      "Сардаров Сард Селимович": 149,
-      "Сторожев Леонид Вадимович": 27,
-      "Трепов Евгений Александрович": 331,
-      "Чуев Александр Викторович": 143,
-      "Против всех": 221
+      "gas:candidate-vibid:244200070464": 205,
+      "gas:candidate-vibid:1001000190355": 65,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 35,
+      "gas:candidate-vibid:244200071218": 227,
+      "gas:candidate-vibid:1001000131396": 205,
+      "gas:candidate-vibid:244200071430": 149,
+      "gas:candidate-vibid:1001000112218": 27,
+      "gas:candidate-vibid:1001000225946": 331,
+      "gas:candidate-vibid:1001000188005": 143,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 144,
-      "Гордеева Марина Владимировна": 90,
-      "Зайцев Анатолий Васильевич": 12,
-      "Карлашов Михаил Васильевич": 34,
-      "Комиссаров Сергей Юрьевич": 322,
-      "Михайлов Владимир Викторович": 237,
-      "Сардаров Сард Селимович": 135,
-      "Сторожев Леонид Вадимович": 22,
-      "Трепов Евгений Александрович": 330,
-      "Чуев Александр Викторович": 127,
-      "Против всех": 233
+      "gas:candidate-vibid:244200070464": 144,
+      "gas:candidate-vibid:1001000190355": 90,
+      "gas:candidate-vibid:1001000195085": 12,
+      "gas:candidate-vibid:1001000136066": 34,
+      "gas:candidate-vibid:244200071218": 322,
+      "gas:candidate-vibid:1001000131396": 237,
+      "gas:candidate-vibid:244200071430": 135,
+      "gas:candidate-vibid:1001000112218": 22,
+      "gas:candidate-vibid:1001000225946": 330,
+      "gas:candidate-vibid:1001000188005": 127,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 121,
-      "Гордеева Марина Владимировна": 66,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 22,
-      "Комиссаров Сергей Юрьевич": 232,
-      "Михайлов Владимир Викторович": 179,
-      "Сардаров Сард Селимович": 117,
-      "Сторожев Леонид Вадимович": 22,
-      "Трепов Евгений Александрович": 242,
-      "Чуев Александр Викторович": 107,
-      "Против всех": 216
+      "gas:candidate-vibid:244200070464": 121,
+      "gas:candidate-vibid:1001000190355": 66,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 22,
+      "gas:candidate-vibid:244200071218": 232,
+      "gas:candidate-vibid:1001000131396": 179,
+      "gas:candidate-vibid:244200071430": 117,
+      "gas:candidate-vibid:1001000112218": 22,
+      "gas:candidate-vibid:1001000225946": 242,
+      "gas:candidate-vibid:1001000188005": 107,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 174,
-      "Гордеева Марина Владимировна": 81,
-      "Зайцев Анатолий Васильевич": 18,
-      "Карлашов Михаил Васильевич": 26,
-      "Комиссаров Сергей Юрьевич": 278,
-      "Михайлов Владимир Викторович": 221,
-      "Сардаров Сард Селимович": 189,
-      "Сторожев Леонид Вадимович": 26,
-      "Трепов Евгений Александрович": 274,
-      "Чуев Александр Викторович": 106,
-      "Против всех": 234
+      "gas:candidate-vibid:244200070464": 174,
+      "gas:candidate-vibid:1001000190355": 81,
+      "gas:candidate-vibid:1001000195085": 18,
+      "gas:candidate-vibid:1001000136066": 26,
+      "gas:candidate-vibid:244200071218": 278,
+      "gas:candidate-vibid:1001000131396": 221,
+      "gas:candidate-vibid:244200071430": 189,
+      "gas:candidate-vibid:1001000112218": 26,
+      "gas:candidate-vibid:1001000225946": 274,
+      "gas:candidate-vibid:1001000188005": 106,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 155,
-      "Гордеева Марина Владимировна": 69,
-      "Зайцев Анатолий Васильевич": 13,
-      "Карлашов Михаил Васильевич": 40,
-      "Комиссаров Сергей Юрьевич": 234,
-      "Михайлов Владимир Викторович": 223,
-      "Сардаров Сард Селимович": 150,
-      "Сторожев Леонид Вадимович": 35,
-      "Трепов Евгений Александрович": 275,
-      "Чуев Александр Викторович": 149,
-      "Против всех": 223
+      "gas:candidate-vibid:244200070464": 155,
+      "gas:candidate-vibid:1001000190355": 69,
+      "gas:candidate-vibid:1001000195085": 13,
+      "gas:candidate-vibid:1001000136066": 40,
+      "gas:candidate-vibid:244200071218": 234,
+      "gas:candidate-vibid:1001000131396": 223,
+      "gas:candidate-vibid:244200071430": 150,
+      "gas:candidate-vibid:1001000112218": 35,
+      "gas:candidate-vibid:1001000225946": 275,
+      "gas:candidate-vibid:1001000188005": 149,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 70,
-      "Гордеева Марина Владимировна": 78,
-      "Зайцев Анатолий Васильевич": 13,
-      "Карлашов Михаил Васильевич": 41,
-      "Комиссаров Сергей Юрьевич": 186,
-      "Михайлов Владимир Викторович": 141,
-      "Сардаров Сард Селимович": 97,
-      "Сторожев Леонид Вадимович": 17,
-      "Трепов Евгений Александрович": 287,
-      "Чуев Александр Викторович": 59,
-      "Против всех": 255
+      "gas:candidate-vibid:244200070464": 70,
+      "gas:candidate-vibid:1001000190355": 78,
+      "gas:candidate-vibid:1001000195085": 13,
+      "gas:candidate-vibid:1001000136066": 41,
+      "gas:candidate-vibid:244200071218": 186,
+      "gas:candidate-vibid:1001000131396": 141,
+      "gas:candidate-vibid:244200071430": 97,
+      "gas:candidate-vibid:1001000112218": 17,
+      "gas:candidate-vibid:1001000225946": 287,
+      "gas:candidate-vibid:1001000188005": 59,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 88,
-      "Гордеева Марина Владимировна": 46,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 10,
-      "Комиссаров Сергей Юрьевич": 197,
-      "Михайлов Владимир Викторович": 182,
-      "Сардаров Сард Селимович": 87,
-      "Сторожев Леонид Вадимович": 20,
-      "Трепов Евгений Александрович": 423,
-      "Чуев Александр Викторович": 107,
-      "Против всех": 165
+      "gas:candidate-vibid:244200070464": 88,
+      "gas:candidate-vibid:1001000190355": 46,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 10,
+      "gas:candidate-vibid:244200071218": 197,
+      "gas:candidate-vibid:1001000131396": 182,
+      "gas:candidate-vibid:244200071430": 87,
+      "gas:candidate-vibid:1001000112218": 20,
+      "gas:candidate-vibid:1001000225946": 423,
+      "gas:candidate-vibid:1001000188005": 107,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 81,
-      "Гордеева Марина Владимировна": 37,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 21,
-      "Комиссаров Сергей Юрьевич": 162,
-      "Михайлов Владимир Викторович": 170,
-      "Сардаров Сард Селимович": 85,
-      "Сторожев Леонид Вадимович": 18,
-      "Трепов Евгений Александрович": 406,
-      "Чуев Александр Викторович": 87,
-      "Против всех": 137
+      "gas:candidate-vibid:244200070464": 81,
+      "gas:candidate-vibid:1001000190355": 37,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 21,
+      "gas:candidate-vibid:244200071218": 162,
+      "gas:candidate-vibid:1001000131396": 170,
+      "gas:candidate-vibid:244200071430": 85,
+      "gas:candidate-vibid:1001000112218": 18,
+      "gas:candidate-vibid:1001000225946": 406,
+      "gas:candidate-vibid:1001000188005": 87,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 73,
-      "Гордеева Марина Владимировна": 54,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 25,
-      "Комиссаров Сергей Юрьевич": 200,
-      "Михайлов Владимир Викторович": 180,
-      "Сардаров Сард Селимович": 91,
-      "Сторожев Леонид Вадимович": 24,
-      "Трепов Евгений Александрович": 414,
-      "Чуев Александр Викторович": 68,
-      "Против всех": 174
+      "gas:candidate-vibid:244200070464": 73,
+      "gas:candidate-vibid:1001000190355": 54,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 25,
+      "gas:candidate-vibid:244200071218": 200,
+      "gas:candidate-vibid:1001000131396": 180,
+      "gas:candidate-vibid:244200071430": 91,
+      "gas:candidate-vibid:1001000112218": 24,
+      "gas:candidate-vibid:1001000225946": 414,
+      "gas:candidate-vibid:1001000188005": 68,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 87,
-      "Гордеева Марина Владимировна": 22,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 20,
-      "Комиссаров Сергей Юрьевич": 117,
-      "Михайлов Владимир Викторович": 115,
-      "Сардаров Сард Селимович": 74,
-      "Сторожев Леонид Вадимович": 14,
-      "Трепов Евгений Александрович": 175,
-      "Чуев Александр Викторович": 67,
-      "Против всех": 106
+      "gas:candidate-vibid:244200070464": 87,
+      "gas:candidate-vibid:1001000190355": 22,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 20,
+      "gas:candidate-vibid:244200071218": 117,
+      "gas:candidate-vibid:1001000131396": 115,
+      "gas:candidate-vibid:244200071430": 74,
+      "gas:candidate-vibid:1001000112218": 14,
+      "gas:candidate-vibid:1001000225946": 175,
+      "gas:candidate-vibid:1001000188005": 67,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 68,
-      "Гордеева Марина Владимировна": 35,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 106,
-      "Михайлов Владимир Викторович": 122,
-      "Сардаров Сард Селимович": 60,
-      "Сторожев Леонид Вадимович": 10,
-      "Трепов Евгений Александрович": 155,
-      "Чуев Александр Викторович": 60,
-      "Против всех": 78
+      "gas:candidate-vibid:244200070464": 68,
+      "gas:candidate-vibid:1001000190355": 35,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 106,
+      "gas:candidate-vibid:1001000131396": 122,
+      "gas:candidate-vibid:244200071430": 60,
+      "gas:candidate-vibid:1001000112218": 10,
+      "gas:candidate-vibid:1001000225946": 155,
+      "gas:candidate-vibid:1001000188005": 60,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 206,
-      "Гордеева Марина Владимировна": 45,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 17,
-      "Комиссаров Сергей Юрьевич": 276,
-      "Михайлов Владимир Викторович": 196,
-      "Сардаров Сард Селимович": 99,
-      "Сторожев Леонид Вадимович": 21,
-      "Трепов Евгений Александрович": 299,
-      "Чуев Александр Викторович": 94,
-      "Против всех": 169
+      "gas:candidate-vibid:244200070464": 206,
+      "gas:candidate-vibid:1001000190355": 45,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 17,
+      "gas:candidate-vibid:244200071218": 276,
+      "gas:candidate-vibid:1001000131396": 196,
+      "gas:candidate-vibid:244200071430": 99,
+      "gas:candidate-vibid:1001000112218": 21,
+      "gas:candidate-vibid:1001000225946": 299,
+      "gas:candidate-vibid:1001000188005": 94,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 111,
-      "Гордеева Марина Владимировна": 33,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 19,
-      "Комиссаров Сергей Юрьевич": 134,
-      "Михайлов Владимир Викторович": 105,
-      "Сардаров Сард Селимович": 60,
-      "Сторожев Леонид Вадимович": 15,
-      "Трепов Евгений Александрович": 152,
-      "Чуев Александр Викторович": 57,
-      "Против всех": 133
+      "gas:candidate-vibid:244200070464": 111,
+      "gas:candidate-vibid:1001000190355": 33,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 19,
+      "gas:candidate-vibid:244200071218": 134,
+      "gas:candidate-vibid:1001000131396": 105,
+      "gas:candidate-vibid:244200071430": 60,
+      "gas:candidate-vibid:1001000112218": 15,
+      "gas:candidate-vibid:1001000225946": 152,
+      "gas:candidate-vibid:1001000188005": 57,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 117,
-      "Гордеева Марина Владимировна": 48,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 15,
-      "Комиссаров Сергей Юрьевич": 183,
-      "Михайлов Владимир Викторович": 176,
-      "Сардаров Сард Селимович": 87,
-      "Сторожев Леонид Вадимович": 21,
-      "Трепов Евгений Александрович": 300,
-      "Чуев Александр Викторович": 69,
-      "Против всех": 138
+      "gas:candidate-vibid:244200070464": 117,
+      "gas:candidate-vibid:1001000190355": 48,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 15,
+      "gas:candidate-vibid:244200071218": 183,
+      "gas:candidate-vibid:1001000131396": 176,
+      "gas:candidate-vibid:244200071430": 87,
+      "gas:candidate-vibid:1001000112218": 21,
+      "gas:candidate-vibid:1001000225946": 300,
+      "gas:candidate-vibid:1001000188005": 69,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 91,
-      "Гордеева Марина Владимировна": 69,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 25,
-      "Комиссаров Сергей Юрьевич": 272,
-      "Михайлов Владимир Викторович": 207,
-      "Сардаров Сард Селимович": 135,
-      "Сторожев Леонид Вадимович": 20,
-      "Трепов Евгений Александрович": 368,
-      "Чуев Александр Викторович": 92,
-      "Против всех": 198
+      "gas:candidate-vibid:244200070464": 91,
+      "gas:candidate-vibid:1001000190355": 69,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 25,
+      "gas:candidate-vibid:244200071218": 272,
+      "gas:candidate-vibid:1001000131396": 207,
+      "gas:candidate-vibid:244200071430": 135,
+      "gas:candidate-vibid:1001000112218": 20,
+      "gas:candidate-vibid:1001000225946": 368,
+      "gas:candidate-vibid:1001000188005": 92,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 55,
-      "Гордеева Марина Владимировна": 33,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 8,
-      "Комиссаров Сергей Юрьевич": 115,
-      "Михайлов Владимир Викторович": 105,
-      "Сардаров Сард Селимович": 64,
-      "Сторожев Леонид Вадимович": 7,
-      "Трепов Евгений Александрович": 155,
-      "Чуев Александр Викторович": 27,
-      "Против всех": 79
+      "gas:candidate-vibid:244200070464": 55,
+      "gas:candidate-vibid:1001000190355": 33,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 8,
+      "gas:candidate-vibid:244200071218": 115,
+      "gas:candidate-vibid:1001000131396": 105,
+      "gas:candidate-vibid:244200071430": 64,
+      "gas:candidate-vibid:1001000112218": 7,
+      "gas:candidate-vibid:1001000225946": 155,
+      "gas:candidate-vibid:1001000188005": 27,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 106,
-      "Гордеева Марина Владимировна": 43,
-      "Зайцев Анатолий Васильевич": 10,
-      "Карлашов Михаил Васильевич": 30,
-      "Комиссаров Сергей Юрьевич": 216,
-      "Михайлов Владимир Викторович": 193,
-      "Сардаров Сард Селимович": 107,
-      "Сторожев Леонид Вадимович": 18,
-      "Трепов Евгений Александрович": 313,
-      "Чуев Александр Викторович": 92,
-      "Против всех": 169
+      "gas:candidate-vibid:244200070464": 106,
+      "gas:candidate-vibid:1001000190355": 43,
+      "gas:candidate-vibid:1001000195085": 10,
+      "gas:candidate-vibid:1001000136066": 30,
+      "gas:candidate-vibid:244200071218": 216,
+      "gas:candidate-vibid:1001000131396": 193,
+      "gas:candidate-vibid:244200071430": 107,
+      "gas:candidate-vibid:1001000112218": 18,
+      "gas:candidate-vibid:1001000225946": 313,
+      "gas:candidate-vibid:1001000188005": 92,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 83,
-      "Гордеева Марина Владимировна": 58,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 31,
-      "Комиссаров Сергей Юрьевич": 214,
-      "Михайлов Владимир Викторович": 248,
-      "Сардаров Сард Селимович": 129,
-      "Сторожев Леонид Вадимович": 21,
-      "Трепов Евгений Александрович": 416,
-      "Чуев Александр Викторович": 79,
-      "Против всех": 202
+      "gas:candidate-vibid:244200070464": 83,
+      "gas:candidate-vibid:1001000190355": 58,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 31,
+      "gas:candidate-vibid:244200071218": 214,
+      "gas:candidate-vibid:1001000131396": 248,
+      "gas:candidate-vibid:244200071430": 129,
+      "gas:candidate-vibid:1001000112218": 21,
+      "gas:candidate-vibid:1001000225946": 416,
+      "gas:candidate-vibid:1001000188005": 79,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 130,
-      "Гордеева Марина Владимировна": 95,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 32,
-      "Комиссаров Сергей Юрьевич": 234,
-      "Михайлов Владимир Викторович": 229,
-      "Сардаров Сард Селимович": 152,
-      "Сторожев Леонид Вадимович": 20,
-      "Трепов Евгений Александрович": 405,
-      "Чуев Александр Викторович": 96,
-      "Против всех": 215
+      "gas:candidate-vibid:244200070464": 130,
+      "gas:candidate-vibid:1001000190355": 95,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 32,
+      "gas:candidate-vibid:244200071218": 234,
+      "gas:candidate-vibid:1001000131396": 229,
+      "gas:candidate-vibid:244200071430": 152,
+      "gas:candidate-vibid:1001000112218": 20,
+      "gas:candidate-vibid:1001000225946": 405,
+      "gas:candidate-vibid:1001000188005": 96,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 88,
-      "Гордеева Марина Владимировна": 68,
-      "Зайцев Анатолий Васильевич": 11,
-      "Карлашов Михаил Васильевич": 35,
-      "Комиссаров Сергей Юрьевич": 243,
-      "Михайлов Владимир Викторович": 160,
-      "Сардаров Сард Селимович": 91,
-      "Сторожев Леонид Вадимович": 20,
-      "Трепов Евгений Александрович": 343,
-      "Чуев Александр Викторович": 70,
-      "Против всех": 244
+      "gas:candidate-vibid:244200070464": 88,
+      "gas:candidate-vibid:1001000190355": 68,
+      "gas:candidate-vibid:1001000195085": 11,
+      "gas:candidate-vibid:1001000136066": 35,
+      "gas:candidate-vibid:244200071218": 243,
+      "gas:candidate-vibid:1001000131396": 160,
+      "gas:candidate-vibid:244200071430": 91,
+      "gas:candidate-vibid:1001000112218": 20,
+      "gas:candidate-vibid:1001000225946": 343,
+      "gas:candidate-vibid:1001000188005": 70,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 98,
-      "Гордеева Марина Владимировна": 55,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 40,
-      "Комиссаров Сергей Юрьевич": 313,
-      "Михайлов Владимир Викторович": 287,
-      "Сардаров Сард Селимович": 113,
-      "Сторожев Леонид Вадимович": 24,
-      "Трепов Евгений Александрович": 427,
-      "Чуев Александр Викторович": 96,
-      "Против всех": 247
+      "gas:candidate-vibid:244200070464": 98,
+      "gas:candidate-vibid:1001000190355": 55,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 40,
+      "gas:candidate-vibid:244200071218": 313,
+      "gas:candidate-vibid:1001000131396": 287,
+      "gas:candidate-vibid:244200071430": 113,
+      "gas:candidate-vibid:1001000112218": 24,
+      "gas:candidate-vibid:1001000225946": 427,
+      "gas:candidate-vibid:1001000188005": 96,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 47,
-      "Гордеева Марина Владимировна": 53,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 57,
-      "Комиссаров Сергей Юрьевич": 319,
-      "Михайлов Владимир Викторович": 153,
-      "Сардаров Сард Селимович": 112,
-      "Сторожев Леонид Вадимович": 15,
-      "Трепов Евгений Александрович": 224,
-      "Чуев Александр Викторович": 43,
-      "Против всех": 215
+      "gas:candidate-vibid:244200070464": 47,
+      "gas:candidate-vibid:1001000190355": 53,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 57,
+      "gas:candidate-vibid:244200071218": 319,
+      "gas:candidate-vibid:1001000131396": 153,
+      "gas:candidate-vibid:244200071430": 112,
+      "gas:candidate-vibid:1001000112218": 15,
+      "gas:candidate-vibid:1001000225946": 224,
+      "gas:candidate-vibid:1001000188005": 43,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 125,
-      "Гордеева Марина Владимировна": 93,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 293,
-      "Михайлов Владимир Викторович": 287,
-      "Сардаров Сард Селимович": 111,
-      "Сторожев Леонид Вадимович": 22,
-      "Трепов Евгений Александрович": 391,
-      "Чуев Александр Викторович": 118,
-      "Против всех": 206
+      "gas:candidate-vibid:244200070464": 125,
+      "gas:candidate-vibid:1001000190355": 93,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 293,
+      "gas:candidate-vibid:1001000131396": 287,
+      "gas:candidate-vibid:244200071430": 111,
+      "gas:candidate-vibid:1001000112218": 22,
+      "gas:candidate-vibid:1001000225946": 391,
+      "gas:candidate-vibid:1001000188005": 118,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 115,
-      "Гордеева Марина Владимировна": 55,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 23,
-      "Комиссаров Сергей Юрьевич": 323,
-      "Михайлов Владимир Викторович": 265,
-      "Сардаров Сард Селимович": 158,
-      "Сторожев Леонид Вадимович": 17,
-      "Трепов Евгений Александрович": 379,
-      "Чуев Александр Викторович": 151,
-      "Против всех": 190
+      "gas:candidate-vibid:244200070464": 115,
+      "gas:candidate-vibid:1001000190355": 55,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 23,
+      "gas:candidate-vibid:244200071218": 323,
+      "gas:candidate-vibid:1001000131396": 265,
+      "gas:candidate-vibid:244200071430": 158,
+      "gas:candidate-vibid:1001000112218": 17,
+      "gas:candidate-vibid:1001000225946": 379,
+      "gas:candidate-vibid:1001000188005": 151,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 79,
-      "Гордеева Марина Владимировна": 47,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 10,
-      "Комиссаров Сергей Юрьевич": 201,
-      "Михайлов Владимир Викторович": 143,
-      "Сардаров Сард Селимович": 95,
-      "Сторожев Леонид Вадимович": 27,
-      "Трепов Евгений Александрович": 241,
-      "Чуев Александр Викторович": 58,
-      "Против всех": 111
+      "gas:candidate-vibid:244200070464": 79,
+      "gas:candidate-vibid:1001000190355": 47,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 10,
+      "gas:candidate-vibid:244200071218": 201,
+      "gas:candidate-vibid:1001000131396": 143,
+      "gas:candidate-vibid:244200071430": 95,
+      "gas:candidate-vibid:1001000112218": 27,
+      "gas:candidate-vibid:1001000225946": 241,
+      "gas:candidate-vibid:1001000188005": 58,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 109,
-      "Гордеева Марина Владимировна": 56,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 27,
-      "Комиссаров Сергей Юрьевич": 174,
-      "Михайлов Владимир Викторович": 172,
-      "Сардаров Сард Селимович": 107,
-      "Сторожев Леонид Вадимович": 23,
-      "Трепов Евгений Александрович": 340,
-      "Чуев Александр Викторович": 73,
-      "Против всех": 151
+      "gas:candidate-vibid:244200070464": 109,
+      "gas:candidate-vibid:1001000190355": 56,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 27,
+      "gas:candidate-vibid:244200071218": 174,
+      "gas:candidate-vibid:1001000131396": 172,
+      "gas:candidate-vibid:244200071430": 107,
+      "gas:candidate-vibid:1001000112218": 23,
+      "gas:candidate-vibid:1001000225946": 340,
+      "gas:candidate-vibid:1001000188005": 73,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 131,
-      "Гордеева Марина Владимировна": 57,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 8,
-      "Комиссаров Сергей Юрьевич": 150,
-      "Михайлов Владимир Викторович": 121,
-      "Сардаров Сард Селимович": 79,
-      "Сторожев Леонид Вадимович": 19,
-      "Трепов Евгений Александрович": 298,
-      "Чуев Александр Викторович": 74,
-      "Против всех": 119
+      "gas:candidate-vibid:244200070464": 131,
+      "gas:candidate-vibid:1001000190355": 57,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 8,
+      "gas:candidate-vibid:244200071218": 150,
+      "gas:candidate-vibid:1001000131396": 121,
+      "gas:candidate-vibid:244200071430": 79,
+      "gas:candidate-vibid:1001000112218": 19,
+      "gas:candidate-vibid:1001000225946": 298,
+      "gas:candidate-vibid:1001000188005": 74,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 86,
-      "Гордеева Марина Владимировна": 46,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 30,
-      "Комиссаров Сергей Юрьевич": 199,
-      "Михайлов Владимир Викторович": 188,
-      "Сардаров Сард Селимович": 107,
-      "Сторожев Леонид Вадимович": 17,
-      "Трепов Евгений Александрович": 362,
-      "Чуев Александр Викторович": 57,
-      "Против всех": 135
+      "gas:candidate-vibid:244200070464": 86,
+      "gas:candidate-vibid:1001000190355": 46,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 30,
+      "gas:candidate-vibid:244200071218": 199,
+      "gas:candidate-vibid:1001000131396": 188,
+      "gas:candidate-vibid:244200071430": 107,
+      "gas:candidate-vibid:1001000112218": 17,
+      "gas:candidate-vibid:1001000225946": 362,
+      "gas:candidate-vibid:1001000188005": 57,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 67,
-      "Гордеева Марина Владимировна": 46,
-      "Зайцев Анатолий Васильевич": 10,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 159,
-      "Михайлов Владимир Викторович": 220,
-      "Сардаров Сард Селимович": 89,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 358,
-      "Чуев Александр Викторович": 64,
-      "Против всех": 156
+      "gas:candidate-vibid:244200070464": 67,
+      "gas:candidate-vibid:1001000190355": 46,
+      "gas:candidate-vibid:1001000195085": 10,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 159,
+      "gas:candidate-vibid:1001000131396": 220,
+      "gas:candidate-vibid:244200071430": 89,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 358,
+      "gas:candidate-vibid:1001000188005": 64,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 202,
-      "Гордеева Марина Владимировна": 54,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 17,
-      "Комиссаров Сергей Юрьевич": 240,
-      "Михайлов Владимир Викторович": 234,
-      "Сардаров Сард Селимович": 113,
-      "Сторожев Леонид Вадимович": 27,
-      "Трепов Евгений Александрович": 387,
-      "Чуев Александр Викторович": 126,
-      "Против всех": 198
+      "gas:candidate-vibid:244200070464": 202,
+      "gas:candidate-vibid:1001000190355": 54,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 17,
+      "gas:candidate-vibid:244200071218": 240,
+      "gas:candidate-vibid:1001000131396": 234,
+      "gas:candidate-vibid:244200071430": 113,
+      "gas:candidate-vibid:1001000112218": 27,
+      "gas:candidate-vibid:1001000225946": 387,
+      "gas:candidate-vibid:1001000188005": 126,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 106,
-      "Гордеева Марина Владимировна": 50,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 28,
-      "Комиссаров Сергей Юрьевич": 260,
-      "Михайлов Владимир Викторович": 241,
-      "Сардаров Сард Селимович": 121,
-      "Сторожев Леонид Вадимович": 32,
-      "Трепов Евгений Александрович": 395,
-      "Чуев Александр Викторович": 108,
-      "Против всех": 238
+      "gas:candidate-vibid:244200070464": 106,
+      "gas:candidate-vibid:1001000190355": 50,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 28,
+      "gas:candidate-vibid:244200071218": 260,
+      "gas:candidate-vibid:1001000131396": 241,
+      "gas:candidate-vibid:244200071430": 121,
+      "gas:candidate-vibid:1001000112218": 32,
+      "gas:candidate-vibid:1001000225946": 395,
+      "gas:candidate-vibid:1001000188005": 108,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 110,
-      "Гордеева Марина Владимировна": 62,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 27,
-      "Комиссаров Сергей Юрьевич": 227,
-      "Михайлов Владимир Викторович": 268,
-      "Сардаров Сард Селимович": 146,
-      "Сторожев Леонид Вадимович": 19,
-      "Трепов Евгений Александрович": 371,
-      "Чуев Александр Викторович": 94,
-      "Против всех": 218
+      "gas:candidate-vibid:244200070464": 110,
+      "gas:candidate-vibid:1001000190355": 62,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 27,
+      "gas:candidate-vibid:244200071218": 227,
+      "gas:candidate-vibid:1001000131396": 268,
+      "gas:candidate-vibid:244200071430": 146,
+      "gas:candidate-vibid:1001000112218": 19,
+      "gas:candidate-vibid:1001000225946": 371,
+      "gas:candidate-vibid:1001000188005": 94,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 107,
-      "Гордеева Марина Владимировна": 75,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 33,
-      "Комиссаров Сергей Юрьевич": 297,
-      "Михайлов Владимир Викторович": 248,
-      "Сардаров Сард Селимович": 141,
-      "Сторожев Леонид Вадимович": 33,
-      "Трепов Евгений Александрович": 457,
-      "Чуев Александр Викторович": 117,
-      "Против всех": 246
+      "gas:candidate-vibid:244200070464": 107,
+      "gas:candidate-vibid:1001000190355": 75,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 33,
+      "gas:candidate-vibid:244200071218": 297,
+      "gas:candidate-vibid:1001000131396": 248,
+      "gas:candidate-vibid:244200071430": 141,
+      "gas:candidate-vibid:1001000112218": 33,
+      "gas:candidate-vibid:1001000225946": 457,
+      "gas:candidate-vibid:1001000188005": 117,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 120,
-      "Гордеева Марина Владимировна": 81,
-      "Зайцев Анатолий Васильевич": 11,
-      "Карлашов Михаил Васильевич": 36,
-      "Комиссаров Сергей Юрьевич": 260,
-      "Михайлов Владимир Викторович": 270,
-      "Сардаров Сард Селимович": 138,
-      "Сторожев Леонид Вадимович": 30,
-      "Трепов Евгений Александрович": 414,
-      "Чуев Александр Викторович": 134,
-      "Против всех": 248
+      "gas:candidate-vibid:244200070464": 120,
+      "gas:candidate-vibid:1001000190355": 81,
+      "gas:candidate-vibid:1001000195085": 11,
+      "gas:candidate-vibid:1001000136066": 36,
+      "gas:candidate-vibid:244200071218": 260,
+      "gas:candidate-vibid:1001000131396": 270,
+      "gas:candidate-vibid:244200071430": 138,
+      "gas:candidate-vibid:1001000112218": 30,
+      "gas:candidate-vibid:1001000225946": 414,
+      "gas:candidate-vibid:1001000188005": 134,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 118,
-      "Гордеева Марина Владимировна": 64,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 34,
-      "Комиссаров Сергей Юрьевич": 269,
-      "Михайлов Владимир Викторович": 241,
-      "Сардаров Сард Селимович": 143,
-      "Сторожев Леонид Вадимович": 22,
-      "Трепов Евгений Александрович": 408,
-      "Чуев Александр Викторович": 112,
-      "Против всех": 245
+      "gas:candidate-vibid:244200070464": 118,
+      "gas:candidate-vibid:1001000190355": 64,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 34,
+      "gas:candidate-vibid:244200071218": 269,
+      "gas:candidate-vibid:1001000131396": 241,
+      "gas:candidate-vibid:244200071430": 143,
+      "gas:candidate-vibid:1001000112218": 22,
+      "gas:candidate-vibid:1001000225946": 408,
+      "gas:candidate-vibid:1001000188005": 112,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 90,
-      "Гордеева Марина Владимировна": 63,
-      "Зайцев Анатолий Васильевич": 11,
-      "Карлашов Михаил Васильевич": 41,
-      "Комиссаров Сергей Юрьевич": 204,
-      "Михайлов Владимир Викторович": 225,
-      "Сардаров Сард Селимович": 99,
-      "Сторожев Леонид Вадимович": 16,
-      "Трепов Евгений Александрович": 359,
-      "Чуев Александр Викторович": 91,
-      "Против всех": 195
+      "gas:candidate-vibid:244200070464": 90,
+      "gas:candidate-vibid:1001000190355": 63,
+      "gas:candidate-vibid:1001000195085": 11,
+      "gas:candidate-vibid:1001000136066": 41,
+      "gas:candidate-vibid:244200071218": 204,
+      "gas:candidate-vibid:1001000131396": 225,
+      "gas:candidate-vibid:244200071430": 99,
+      "gas:candidate-vibid:1001000112218": 16,
+      "gas:candidate-vibid:1001000225946": 359,
+      "gas:candidate-vibid:1001000188005": 91,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 116,
-      "Гордеева Марина Владимировна": 60,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 18,
-      "Комиссаров Сергей Юрьевич": 193,
-      "Михайлов Владимир Викторович": 187,
-      "Сардаров Сард Селимович": 97,
-      "Сторожев Леонид Вадимович": 27,
-      "Трепов Евгений Александрович": 301,
-      "Чуев Александр Викторович": 100,
-      "Против всех": 220
+      "gas:candidate-vibid:244200070464": 116,
+      "gas:candidate-vibid:1001000190355": 60,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 18,
+      "gas:candidate-vibid:244200071218": 193,
+      "gas:candidate-vibid:1001000131396": 187,
+      "gas:candidate-vibid:244200071430": 97,
+      "gas:candidate-vibid:1001000112218": 27,
+      "gas:candidate-vibid:1001000225946": 301,
+      "gas:candidate-vibid:1001000188005": 100,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 72,
-      "Гордеева Марина Владимировна": 73,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 23,
-      "Михайлов Владимир Викторович": 28,
-      "Сардаров Сард Селимович": 19,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 45,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:244200070464": 72,
+      "gas:candidate-vibid:1001000190355": 73,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 23,
+      "gas:candidate-vibid:1001000131396": 28,
+      "gas:candidate-vibid:244200071430": 19,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 45,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 131,
-      "Гордеева Марина Владимировна": 68,
-      "Зайцев Анатолий Васильевич": 17,
-      "Карлашов Михаил Васильевич": 33,
-      "Комиссаров Сергей Юрьевич": 244,
-      "Михайлов Владимир Викторович": 217,
-      "Сардаров Сард Селимович": 132,
-      "Сторожев Леонид Вадимович": 15,
-      "Трепов Евгений Александрович": 326,
-      "Чуев Александр Викторович": 125,
-      "Против всех": 287
+      "gas:candidate-vibid:244200070464": 131,
+      "gas:candidate-vibid:1001000190355": 68,
+      "gas:candidate-vibid:1001000195085": 17,
+      "gas:candidate-vibid:1001000136066": 33,
+      "gas:candidate-vibid:244200071218": 244,
+      "gas:candidate-vibid:1001000131396": 217,
+      "gas:candidate-vibid:244200071430": 132,
+      "gas:candidate-vibid:1001000112218": 15,
+      "gas:candidate-vibid:1001000225946": 326,
+      "gas:candidate-vibid:1001000188005": 125,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 48,
-      "Гордеева Марина Владимировна": 47,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 184,
-      "Михайлов Владимир Викторович": 125,
-      "Сардаров Сард Селимович": 67,
-      "Сторожев Леонид Вадимович": 14,
-      "Трепов Евгений Александрович": 157,
-      "Чуев Александр Викторович": 35,
-      "Против всех": 108
+      "gas:candidate-vibid:244200070464": 48,
+      "gas:candidate-vibid:1001000190355": 47,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 184,
+      "gas:candidate-vibid:1001000131396": 125,
+      "gas:candidate-vibid:244200071430": 67,
+      "gas:candidate-vibid:1001000112218": 14,
+      "gas:candidate-vibid:1001000225946": 157,
+      "gas:candidate-vibid:1001000188005": 35,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 106,
-      "Гордеева Марина Владимировна": 64,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 26,
-      "Комиссаров Сергей Юрьевич": 219,
-      "Михайлов Владимир Викторович": 190,
-      "Сардаров Сард Селимович": 96,
-      "Сторожев Леонид Вадимович": 28,
-      "Трепов Евгений Александрович": 282,
-      "Чуев Александр Викторович": 83,
-      "Против всех": 143
+      "gas:candidate-vibid:244200070464": 106,
+      "gas:candidate-vibid:1001000190355": 64,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 26,
+      "gas:candidate-vibid:244200071218": 219,
+      "gas:candidate-vibid:1001000131396": 190,
+      "gas:candidate-vibid:244200071430": 96,
+      "gas:candidate-vibid:1001000112218": 28,
+      "gas:candidate-vibid:1001000225946": 282,
+      "gas:candidate-vibid:1001000188005": 83,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 62,
-      "Гордеева Марина Владимировна": 36,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 25,
-      "Комиссаров Сергей Юрьевич": 130,
-      "Михайлов Владимир Викторович": 142,
-      "Сардаров Сард Селимович": 81,
-      "Сторожев Леонид Вадимович": 14,
-      "Трепов Евгений Александрович": 219,
-      "Чуев Александр Викторович": 63,
-      "Против всех": 135
+      "gas:candidate-vibid:244200070464": 62,
+      "gas:candidate-vibid:1001000190355": 36,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 25,
+      "gas:candidate-vibid:244200071218": 130,
+      "gas:candidate-vibid:1001000131396": 142,
+      "gas:candidate-vibid:244200071430": 81,
+      "gas:candidate-vibid:1001000112218": 14,
+      "gas:candidate-vibid:1001000225946": 219,
+      "gas:candidate-vibid:1001000188005": 63,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 83,
-      "Гордеева Марина Владимировна": 46,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 17,
-      "Комиссаров Сергей Юрьевич": 148,
-      "Михайлов Владимир Викторович": 152,
-      "Сардаров Сард Селимович": 79,
-      "Сторожев Леонид Вадимович": 16,
-      "Трепов Евгений Александрович": 242,
-      "Чуев Александр Викторович": 61,
-      "Против всех": 133
+      "gas:candidate-vibid:244200070464": 83,
+      "gas:candidate-vibid:1001000190355": 46,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 17,
+      "gas:candidate-vibid:244200071218": 148,
+      "gas:candidate-vibid:1001000131396": 152,
+      "gas:candidate-vibid:244200071430": 79,
+      "gas:candidate-vibid:1001000112218": 16,
+      "gas:candidate-vibid:1001000225946": 242,
+      "gas:candidate-vibid:1001000188005": 61,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 127,
-      "Гордеева Марина Владимировна": 63,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 15,
-      "Комиссаров Сергей Юрьевич": 239,
-      "Михайлов Владимир Викторович": 164,
-      "Сардаров Сард Селимович": 103,
-      "Сторожев Леонид Вадимович": 16,
-      "Трепов Евгений Александрович": 272,
-      "Чуев Александр Викторович": 81,
-      "Против всех": 184
+      "gas:candidate-vibid:244200070464": 127,
+      "gas:candidate-vibid:1001000190355": 63,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 15,
+      "gas:candidate-vibid:244200071218": 239,
+      "gas:candidate-vibid:1001000131396": 164,
+      "gas:candidate-vibid:244200071430": 103,
+      "gas:candidate-vibid:1001000112218": 16,
+      "gas:candidate-vibid:1001000225946": 272,
+      "gas:candidate-vibid:1001000188005": 81,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 79,
-      "Гордеева Марина Владимировна": 59,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 210,
-      "Михайлов Владимир Викторович": 160,
-      "Сардаров Сард Селимович": 106,
-      "Сторожев Леонид Вадимович": 15,
-      "Трепов Евгений Александрович": 292,
-      "Чуев Александр Викторович": 80,
-      "Против всех": 160
+      "gas:candidate-vibid:244200070464": 79,
+      "gas:candidate-vibid:1001000190355": 59,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 210,
+      "gas:candidate-vibid:1001000131396": 160,
+      "gas:candidate-vibid:244200071430": 106,
+      "gas:candidate-vibid:1001000112218": 15,
+      "gas:candidate-vibid:1001000225946": 292,
+      "gas:candidate-vibid:1001000188005": 80,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 103,
-      "Гордеева Марина Владимировна": 51,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 26,
-      "Комиссаров Сергей Юрьевич": 210,
-      "Михайлов Владимир Викторович": 178,
-      "Сардаров Сард Селимович": 110,
-      "Сторожев Леонид Вадимович": 10,
-      "Трепов Евгений Александрович": 277,
-      "Чуев Александр Викторович": 97,
-      "Против всех": 165
+      "gas:candidate-vibid:244200070464": 103,
+      "gas:candidate-vibid:1001000190355": 51,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 26,
+      "gas:candidate-vibid:244200071218": 210,
+      "gas:candidate-vibid:1001000131396": 178,
+      "gas:candidate-vibid:244200071430": 110,
+      "gas:candidate-vibid:1001000112218": 10,
+      "gas:candidate-vibid:1001000225946": 277,
+      "gas:candidate-vibid:1001000188005": 97,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 131,
-      "Гордеева Марина Владимировна": 43,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 16,
-      "Комиссаров Сергей Юрьевич": 287,
-      "Михайлов Владимир Викторович": 203,
-      "Сардаров Сард Селимович": 94,
-      "Сторожев Леонид Вадимович": 13,
-      "Трепов Евгений Александрович": 286,
-      "Чуев Александр Викторович": 99,
-      "Против всех": 201
+      "gas:candidate-vibid:244200070464": 131,
+      "gas:candidate-vibid:1001000190355": 43,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 16,
+      "gas:candidate-vibid:244200071218": 287,
+      "gas:candidate-vibid:1001000131396": 203,
+      "gas:candidate-vibid:244200071430": 94,
+      "gas:candidate-vibid:1001000112218": 13,
+      "gas:candidate-vibid:1001000225946": 286,
+      "gas:candidate-vibid:1001000188005": 99,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 32,
-      "Гордеева Марина Владимировна": 27,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 25,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 13,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 105,
-      "Чуев Александр Викторович": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:244200070464": 32,
+      "gas:candidate-vibid:1001000190355": 27,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 25,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 13,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 105,
+      "gas:candidate-vibid:1001000188005": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 110,
-      "Гордеева Марина Владимировна": 67,
-      "Зайцев Анатолий Васильевич": 10,
-      "Карлашов Михаил Васильевич": 20,
-      "Комиссаров Сергей Юрьевич": 258,
-      "Михайлов Владимир Викторович": 240,
-      "Сардаров Сард Селимович": 113,
-      "Сторожев Леонид Вадимович": 27,
-      "Трепов Евгений Александрович": 322,
-      "Чуев Александр Викторович": 79,
-      "Против всех": 189
+      "gas:candidate-vibid:244200070464": 110,
+      "gas:candidate-vibid:1001000190355": 67,
+      "gas:candidate-vibid:1001000195085": 10,
+      "gas:candidate-vibid:1001000136066": 20,
+      "gas:candidate-vibid:244200071218": 258,
+      "gas:candidate-vibid:1001000131396": 240,
+      "gas:candidate-vibid:244200071430": 113,
+      "gas:candidate-vibid:1001000112218": 27,
+      "gas:candidate-vibid:1001000225946": 322,
+      "gas:candidate-vibid:1001000188005": 79,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 105,
-      "Гордеева Марина Владимировна": 76,
-      "Зайцев Анатолий Васильевич": 11,
-      "Карлашов Михаил Васильевич": 34,
-      "Комиссаров Сергей Юрьевич": 270,
-      "Михайлов Владимир Викторович": 268,
-      "Сардаров Сард Селимович": 131,
-      "Сторожев Леонид Вадимович": 20,
-      "Трепов Евгений Александрович": 401,
-      "Чуев Александр Викторович": 121,
-      "Против всех": 224
+      "gas:candidate-vibid:244200070464": 105,
+      "gas:candidate-vibid:1001000190355": 76,
+      "gas:candidate-vibid:1001000195085": 11,
+      "gas:candidate-vibid:1001000136066": 34,
+      "gas:candidate-vibid:244200071218": 270,
+      "gas:candidate-vibid:1001000131396": 268,
+      "gas:candidate-vibid:244200071430": 131,
+      "gas:candidate-vibid:1001000112218": 20,
+      "gas:candidate-vibid:1001000225946": 401,
+      "gas:candidate-vibid:1001000188005": 121,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 71,
-      "Гордеева Марина Владимировна": 34,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 22,
-      "Комиссаров Сергей Юрьевич": 167,
-      "Михайлов Владимир Викторович": 119,
-      "Сардаров Сард Селимович": 55,
-      "Сторожев Леонид Вадимович": 12,
-      "Трепов Евгений Александрович": 218,
-      "Чуев Александр Викторович": 63,
-      "Против всех": 124
+      "gas:candidate-vibid:244200070464": 71,
+      "gas:candidate-vibid:1001000190355": 34,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 22,
+      "gas:candidate-vibid:244200071218": 167,
+      "gas:candidate-vibid:1001000131396": 119,
+      "gas:candidate-vibid:244200071430": 55,
+      "gas:candidate-vibid:1001000112218": 12,
+      "gas:candidate-vibid:1001000225946": 218,
+      "gas:candidate-vibid:1001000188005": 63,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 95,
-      "Гордеева Марина Владимировна": 50,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 15,
-      "Комиссаров Сергей Юрьевич": 228,
-      "Михайлов Владимир Викторович": 223,
-      "Сардаров Сард Селимович": 64,
-      "Сторожев Леонид Вадимович": 23,
-      "Трепов Евгений Александрович": 286,
-      "Чуев Александр Викторович": 94,
-      "Против всех": 160
+      "gas:candidate-vibid:244200070464": 95,
+      "gas:candidate-vibid:1001000190355": 50,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 15,
+      "gas:candidate-vibid:244200071218": 228,
+      "gas:candidate-vibid:1001000131396": 223,
+      "gas:candidate-vibid:244200071430": 64,
+      "gas:candidate-vibid:1001000112218": 23,
+      "gas:candidate-vibid:1001000225946": 286,
+      "gas:candidate-vibid:1001000188005": 94,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 102,
-      "Гордеева Марина Владимировна": 80,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 23,
-      "Комиссаров Сергей Юрьевич": 305,
-      "Михайлов Владимир Викторович": 225,
-      "Сардаров Сард Селимович": 82,
-      "Сторожев Леонид Вадимович": 9,
-      "Трепов Евгений Александрович": 321,
-      "Чуев Александр Викторович": 114,
-      "Против всех": 238
+      "gas:candidate-vibid:244200070464": 102,
+      "gas:candidate-vibid:1001000190355": 80,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 23,
+      "gas:candidate-vibid:244200071218": 305,
+      "gas:candidate-vibid:1001000131396": 225,
+      "gas:candidate-vibid:244200071430": 82,
+      "gas:candidate-vibid:1001000112218": 9,
+      "gas:candidate-vibid:1001000225946": 321,
+      "gas:candidate-vibid:1001000188005": 114,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 71,
-      "Гордеева Марина Владимировна": 60,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 23,
-      "Комиссаров Сергей Юрьевич": 274,
-      "Михайлов Владимир Викторович": 205,
-      "Сардаров Сард Селимович": 93,
-      "Сторожев Леонид Вадимович": 25,
-      "Трепов Евгений Александрович": 359,
-      "Чуев Александр Викторович": 82,
-      "Против всех": 213
+      "gas:candidate-vibid:244200070464": 71,
+      "gas:candidate-vibid:1001000190355": 60,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 23,
+      "gas:candidate-vibid:244200071218": 274,
+      "gas:candidate-vibid:1001000131396": 205,
+      "gas:candidate-vibid:244200071430": 93,
+      "gas:candidate-vibid:1001000112218": 25,
+      "gas:candidate-vibid:1001000225946": 359,
+      "gas:candidate-vibid:1001000188005": 82,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 76,
-      "Гордеева Марина Владимировна": 67,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 11,
-      "Комиссаров Сергей Юрьевич": 242,
-      "Михайлов Владимир Викторович": 189,
-      "Сардаров Сард Селимович": 88,
-      "Сторожев Леонид Вадимович": 15,
-      "Трепов Евгений Александрович": 254,
-      "Чуев Александр Викторович": 64,
-      "Против всех": 198
+      "gas:candidate-vibid:244200070464": 76,
+      "gas:candidate-vibid:1001000190355": 67,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 11,
+      "gas:candidate-vibid:244200071218": 242,
+      "gas:candidate-vibid:1001000131396": 189,
+      "gas:candidate-vibid:244200071430": 88,
+      "gas:candidate-vibid:1001000112218": 15,
+      "gas:candidate-vibid:1001000225946": 254,
+      "gas:candidate-vibid:1001000188005": 64,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070604&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 51,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 47,
-      "Михайлов Владимир Викторович": 47,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 45,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:244200070464": 51,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 47,
+      "gas:candidate-vibid:1001000131396": 47,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 45,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 23,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 57,
-      "Михайлов Владимир Викторович": 17,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 59,
-      "Чуев Александр Викторович": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 23,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 57,
+      "gas:candidate-vibid:1001000131396": 17,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 59,
+      "gas:candidate-vibid:1001000188005": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 12,
-      "Гордеева Марина Владимировна": 10,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 68,
-      "Михайлов Владимир Викторович": 19,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 33,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:244200070464": 12,
+      "gas:candidate-vibid:1001000190355": 10,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 68,
+      "gas:candidate-vibid:1001000131396": 19,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 33,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 21,
-      "Гордеева Марина Владимировна": 1,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 21,
-      "Михайлов Владимир Викторович": 15,
-      "Сардаров Сард Селимович": 5,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 39,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:244200070464": 21,
+      "gas:candidate-vibid:1001000190355": 1,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 21,
+      "gas:candidate-vibid:1001000131396": 15,
+      "gas:candidate-vibid:244200071430": 5,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 39,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 53,
-      "Гордеева Марина Владимировна": 7,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 14,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 16,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 59,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:244200070464": 53,
+      "gas:candidate-vibid:1001000190355": 7,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 14,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 16,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 59,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 9,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 18,
-      "Михайлов Владимир Викторович": 17,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 31,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:244200070464": 9,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 18,
+      "gas:candidate-vibid:1001000131396": 17,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 31,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 16,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 19,
-      "Михайлов Владимир Викторович": 32,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 96,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:244200070464": 16,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 19,
+      "gas:candidate-vibid:1001000131396": 32,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 96,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 34,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 10,
-      "Михайлов Владимир Викторович": 19,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 10,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 34,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 10,
+      "gas:candidate-vibid:1001000131396": 19,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 10,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 14,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 20,
-      "Михайлов Владимир Викторович": 15,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 34,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 14,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 20,
+      "gas:candidate-vibid:1001000131396": 15,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 34,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 4,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 49,
-      "Михайлов Владимир Викторович": 25,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 18,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 4,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 49,
+      "gas:candidate-vibid:1001000131396": 25,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 18,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 36,
-      "Гордеева Марина Владимировна": 11,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 32,
-      "Михайлов Владимир Викторович": 45,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 47,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:244200070464": 36,
+      "gas:candidate-vibid:1001000190355": 11,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 32,
+      "gas:candidate-vibid:1001000131396": 45,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 47,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 12,
-      "Гордеева Марина Владимировна": 8,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 41,
-      "Михайлов Владимир Викторович": 29,
-      "Сардаров Сард Селимович": 13,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 85,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:244200070464": 12,
+      "gas:candidate-vibid:1001000190355": 8,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 41,
+      "gas:candidate-vibid:1001000131396": 29,
+      "gas:candidate-vibid:244200071430": 13,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 85,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 130,
-      "Гордеева Марина Владимировна": 53,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 113,
-      "Михайлов Владимир Викторович": 123,
-      "Сардаров Сард Селимович": 12,
-      "Сторожев Леонид Вадимович": 7,
-      "Трепов Евгений Александрович": 143,
-      "Чуев Александр Викторович": 20,
-      "Против всех": 58
+      "gas:candidate-vibid:244200070464": 130,
+      "gas:candidate-vibid:1001000190355": 53,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 113,
+      "gas:candidate-vibid:1001000131396": 123,
+      "gas:candidate-vibid:244200071430": 12,
+      "gas:candidate-vibid:1001000112218": 7,
+      "gas:candidate-vibid:1001000225946": 143,
+      "gas:candidate-vibid:1001000188005": 20,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 47,
-      "Гордеева Марина Владимировна": 19,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 33,
-      "Михайлов Владимир Викторович": 36,
-      "Сардаров Сард Селимович": 14,
-      "Сторожев Леонид Вадимович": 6,
-      "Трепов Евгений Александрович": 56,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:244200070464": 47,
+      "gas:candidate-vibid:1001000190355": 19,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 33,
+      "gas:candidate-vibid:1001000131396": 36,
+      "gas:candidate-vibid:244200071430": 14,
+      "gas:candidate-vibid:1001000112218": 6,
+      "gas:candidate-vibid:1001000225946": 56,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 160,
-      "Гордеева Марина Владимировна": 56,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 148,
-      "Михайлов Владимир Викторович": 139,
-      "Сардаров Сард Селимович": 28,
-      "Сторожев Леонид Вадимович": 13,
-      "Трепов Евгений Александрович": 159,
-      "Чуев Александр Викторович": 21,
-      "Против всех": 54
+      "gas:candidate-vibid:244200070464": 160,
+      "gas:candidate-vibid:1001000190355": 56,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 148,
+      "gas:candidate-vibid:1001000131396": 139,
+      "gas:candidate-vibid:244200071430": 28,
+      "gas:candidate-vibid:1001000112218": 13,
+      "gas:candidate-vibid:1001000225946": 159,
+      "gas:candidate-vibid:1001000188005": 21,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 18,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 47,
-      "Михайлов Владимир Викторович": 26,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 45,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 18,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 47,
+      "gas:candidate-vibid:1001000131396": 26,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 45,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 21,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 21,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 21,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 21,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 21,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 21,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070605&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 84,
-      "Гордеева Марина Владимировна": 35,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 11,
-      "Комиссаров Сергей Юрьевич": 84,
-      "Михайлов Владимир Викторович": 107,
-      "Сардаров Сард Селимович": 25,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 208,
-      "Чуев Александр Викторович": 17,
-      "Против всех": 77
+      "gas:candidate-vibid:244200070464": 84,
+      "gas:candidate-vibid:1001000190355": 35,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 11,
+      "gas:candidate-vibid:244200071218": 84,
+      "gas:candidate-vibid:1001000131396": 107,
+      "gas:candidate-vibid:244200071430": 25,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 208,
+      "gas:candidate-vibid:1001000188005": 17,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 4,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 17,
-      "Михайлов Владимир Викторович": 4,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 35,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:244200070464": 4,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 17,
+      "gas:candidate-vibid:1001000131396": 4,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 35,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 8,
-      "Гордеева Марина Владимировна": 14,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 54,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 20,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 45,
-      "Чуев Александр Викторович": 18,
-      "Против всех": 10
+      "gas:candidate-vibid:244200070464": 8,
+      "gas:candidate-vibid:1001000190355": 14,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 54,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 20,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 45,
+      "gas:candidate-vibid:1001000188005": 18,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 56,
-      "Гордеева Марина Владимировна": 25,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 8,
-      "Комиссаров Сергей Юрьевич": 123,
-      "Михайлов Владимир Викторович": 104,
-      "Сардаров Сард Селимович": 33,
-      "Сторожев Леонид Вадимович": 6,
-      "Трепов Евгений Александрович": 108,
-      "Чуев Александр Викторович": 18,
-      "Против всех": 44
+      "gas:candidate-vibid:244200070464": 56,
+      "gas:candidate-vibid:1001000190355": 25,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 8,
+      "gas:candidate-vibid:244200071218": 123,
+      "gas:candidate-vibid:1001000131396": 104,
+      "gas:candidate-vibid:244200071430": 33,
+      "gas:candidate-vibid:1001000112218": 6,
+      "gas:candidate-vibid:1001000225946": 108,
+      "gas:candidate-vibid:1001000188005": 18,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 112,
-      "Гордеева Марина Владимировна": 58,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 10,
-      "Комиссаров Сергей Юрьевич": 221,
-      "Михайлов Владимир Викторович": 57,
-      "Сардаров Сард Селимович": 40,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 242,
-      "Чуев Александр Викторович": 7,
-      "Против всех": 79
+      "gas:candidate-vibid:244200070464": 112,
+      "gas:candidate-vibid:1001000190355": 58,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 10,
+      "gas:candidate-vibid:244200071218": 221,
+      "gas:candidate-vibid:1001000131396": 57,
+      "gas:candidate-vibid:244200071430": 40,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 242,
+      "gas:candidate-vibid:1001000188005": 7,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 30,
-      "Гордеева Марина Владимировна": 12,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 34,
-      "Михайлов Владимир Викторович": 25,
-      "Сардаров Сард Селимович": 13,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 122,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:244200070464": 30,
+      "gas:candidate-vibid:1001000190355": 12,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 34,
+      "gas:candidate-vibid:1001000131396": 25,
+      "gas:candidate-vibid:244200071430": 13,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 122,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 182,
-      "Гордеева Марина Владимировна": 48,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 22,
-      "Комиссаров Сергей Юрьевич": 122,
-      "Михайлов Владимир Викторович": 108,
-      "Сардаров Сард Селимович": 50,
-      "Сторожев Леонид Вадимович": 30,
-      "Трепов Евгений Александрович": 263,
-      "Чуев Александр Викторович": 56,
-      "Против всех": 119
+      "gas:candidate-vibid:244200070464": 182,
+      "gas:candidate-vibid:1001000190355": 48,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 22,
+      "gas:candidate-vibid:244200071218": 122,
+      "gas:candidate-vibid:1001000131396": 108,
+      "gas:candidate-vibid:244200071430": 50,
+      "gas:candidate-vibid:1001000112218": 30,
+      "gas:candidate-vibid:1001000225946": 263,
+      "gas:candidate-vibid:1001000188005": 56,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 252,
-      "Гордеева Марина Владимировна": 47,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 27,
-      "Комиссаров Сергей Юрьевич": 187,
-      "Михайлов Владимир Викторович": 195,
-      "Сардаров Сард Селимович": 71,
-      "Сторожев Леонид Вадимович": 23,
-      "Трепов Евгений Александрович": 415,
-      "Чуев Александр Викторович": 75,
-      "Против всех": 169
+      "gas:candidate-vibid:244200070464": 252,
+      "gas:candidate-vibid:1001000190355": 47,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 27,
+      "gas:candidate-vibid:244200071218": 187,
+      "gas:candidate-vibid:1001000131396": 195,
+      "gas:candidate-vibid:244200071430": 71,
+      "gas:candidate-vibid:1001000112218": 23,
+      "gas:candidate-vibid:1001000225946": 415,
+      "gas:candidate-vibid:1001000188005": 75,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 119,
-      "Гордеева Марина Владимировна": 28,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 160,
-      "Михайлов Владимир Викторович": 182,
-      "Сардаров Сард Селимович": 44,
-      "Сторожев Леонид Вадимович": 23,
-      "Трепов Евгений Александрович": 262,
-      "Чуев Александр Викторович": 39,
-      "Против всех": 146
+      "gas:candidate-vibid:244200070464": 119,
+      "gas:candidate-vibid:1001000190355": 28,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 160,
+      "gas:candidate-vibid:1001000131396": 182,
+      "gas:candidate-vibid:244200071430": 44,
+      "gas:candidate-vibid:1001000112218": 23,
+      "gas:candidate-vibid:1001000225946": 262,
+      "gas:candidate-vibid:1001000188005": 39,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 37,
-      "Гордеева Марина Владимировна": 25,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 84,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 19,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 124,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:244200070464": 37,
+      "gas:candidate-vibid:1001000190355": 25,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 84,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 19,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 124,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 10,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 28,
-      "Михайлов Владимир Викторович": 3,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 28,
-      "Чуев Александр Викторович": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:244200070464": 10,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 28,
+      "gas:candidate-vibid:1001000131396": 3,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 28,
+      "gas:candidate-vibid:1001000188005": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 34,
-      "Гордеева Марина Владимировна": 34,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 51,
-      "Михайлов Владимир Викторович": 10,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 67,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 19
+      "gas:candidate-vibid:244200070464": 34,
+      "gas:candidate-vibid:1001000190355": 34,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 51,
+      "gas:candidate-vibid:1001000131396": 10,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 67,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 5,
-      "Гордеева Марина Владимировна": 0,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 23,
-      "Михайлов Владимир Викторович": 6,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 31,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:244200070464": 5,
+      "gas:candidate-vibid:1001000190355": 0,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 23,
+      "gas:candidate-vibid:1001000131396": 6,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 31,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 95,
-      "Гордеева Марина Владимировна": 32,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 72,
-      "Михайлов Владимир Викторович": 40,
-      "Сардаров Сард Селимович": 22,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 76,
-      "Чуев Александр Викторович": 10,
-      "Против всех": 59
+      "gas:candidate-vibid:244200070464": 95,
+      "gas:candidate-vibid:1001000190355": 32,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 72,
+      "gas:candidate-vibid:1001000131396": 40,
+      "gas:candidate-vibid:244200071430": 22,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 76,
+      "gas:candidate-vibid:1001000188005": 10,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 297,
-      "Гордеева Марина Владимировна": 24,
-      "Зайцев Анатолий Васильевич": 10,
-      "Карлашов Михаил Васильевич": 126,
-      "Комиссаров Сергей Юрьевич": 182,
-      "Михайлов Владимир Викторович": 42,
-      "Сардаров Сард Селимович": 232,
-      "Сторожев Леонид Вадимович": 23,
-      "Трепов Евгений Александрович": 3,
-      "Чуев Александр Викторович": 45,
-      "Против всех": 127
+      "gas:candidate-vibid:244200070464": 297,
+      "gas:candidate-vibid:1001000190355": 24,
+      "gas:candidate-vibid:1001000195085": 10,
+      "gas:candidate-vibid:1001000136066": 126,
+      "gas:candidate-vibid:244200071218": 182,
+      "gas:candidate-vibid:1001000131396": 42,
+      "gas:candidate-vibid:244200071430": 232,
+      "gas:candidate-vibid:1001000112218": 23,
+      "gas:candidate-vibid:1001000225946": 3,
+      "gas:candidate-vibid:1001000188005": 45,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 9,
-      "Гордеева Марина Владимировна": 14,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 72,
-      "Михайлов Владимир Викторович": 14,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 57,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:244200070464": 9,
+      "gas:candidate-vibid:1001000190355": 14,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 72,
+      "gas:candidate-vibid:1001000131396": 14,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 57,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 36,
-      "Михайлов Владимир Викторович": 10,
-      "Сардаров Сард Селимович": 14,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 38,
-      "Чуев Александр Викторович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 36,
+      "gas:candidate-vibid:1001000131396": 10,
+      "gas:candidate-vibid:244200071430": 14,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 38,
+      "gas:candidate-vibid:1001000188005": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 82,
-      "Гордеева Марина Владимировна": 52,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 18,
-      "Комиссаров Сергей Юрьевич": 179,
-      "Михайлов Владимир Викторович": 123,
-      "Сардаров Сард Селимович": 59,
-      "Сторожев Леонид Вадимович": 12,
-      "Трепов Евгений Александрович": 320,
-      "Чуев Александр Викторович": 54,
-      "Против всех": 103
+      "gas:candidate-vibid:244200070464": 82,
+      "gas:candidate-vibid:1001000190355": 52,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 18,
+      "gas:candidate-vibid:244200071218": 179,
+      "gas:candidate-vibid:1001000131396": 123,
+      "gas:candidate-vibid:244200071430": 59,
+      "gas:candidate-vibid:1001000112218": 12,
+      "gas:candidate-vibid:1001000225946": 320,
+      "gas:candidate-vibid:1001000188005": 54,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 85,
-      "Гордеева Марина Владимировна": 59,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 15,
-      "Комиссаров Сергей Юрьевич": 135,
-      "Михайлов Владимир Викторович": 96,
-      "Сардаров Сард Селимович": 52,
-      "Сторожев Леонид Вадимович": 13,
-      "Трепов Евгений Александрович": 265,
-      "Чуев Александр Викторович": 36,
-      "Против всех": 82
+      "gas:candidate-vibid:244200070464": 85,
+      "gas:candidate-vibid:1001000190355": 59,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 15,
+      "gas:candidate-vibid:244200071218": 135,
+      "gas:candidate-vibid:1001000131396": 96,
+      "gas:candidate-vibid:244200071430": 52,
+      "gas:candidate-vibid:1001000112218": 13,
+      "gas:candidate-vibid:1001000225946": 265,
+      "gas:candidate-vibid:1001000188005": 36,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 45,
-      "Гордеева Марина Владимировна": 32,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 52,
-      "Михайлов Владимир Викторович": 39,
-      "Сардаров Сард Селимович": 32,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 128,
-      "Чуев Александр Викторович": 16,
-      "Против всех": 36
+      "gas:candidate-vibid:244200070464": 45,
+      "gas:candidate-vibid:1001000190355": 32,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 52,
+      "gas:candidate-vibid:1001000131396": 39,
+      "gas:candidate-vibid:244200071430": 32,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 128,
+      "gas:candidate-vibid:1001000188005": 16,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 32,
-      "Гордеева Марина Владимировна": 22,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 52,
-      "Михайлов Владимир Викторович": 35,
-      "Сардаров Сард Селимович": 18,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 105,
-      "Чуев Александр Викторович": 16,
-      "Против всех": 45
+      "gas:candidate-vibid:244200070464": 32,
+      "gas:candidate-vibid:1001000190355": 22,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 52,
+      "gas:candidate-vibid:1001000131396": 35,
+      "gas:candidate-vibid:244200071430": 18,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 105,
+      "gas:candidate-vibid:1001000188005": 16,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 159,
-      "Гордеева Марина Владимировна": 34,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 137,
-      "Михайлов Владимир Викторович": 54,
-      "Сардаров Сард Селимович": 46,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 157,
-      "Чуев Александр Викторович": 22,
-      "Против всех": 58
+      "gas:candidate-vibid:244200070464": 159,
+      "gas:candidate-vibid:1001000190355": 34,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 137,
+      "gas:candidate-vibid:1001000131396": 54,
+      "gas:candidate-vibid:244200071430": 46,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 157,
+      "gas:candidate-vibid:1001000188005": 22,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 17,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 14,
-      "Михайлов Владимир Викторович": 50,
-      "Сардаров Сард Селимович": 0,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 37,
-      "Чуев Александр Викторович": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 17,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 14,
+      "gas:candidate-vibid:1001000131396": 50,
+      "gas:candidate-vibid:244200071430": 0,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 37,
+      "gas:candidate-vibid:1001000188005": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 45,
-      "Гордеева Марина Владимировна": 38,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 14,
-      "Комиссаров Сергей Юрьевич": 296,
-      "Михайлов Владимир Викторович": 85,
-      "Сардаров Сард Селимович": 21,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 128,
-      "Чуев Александр Викторович": 12,
-      "Против всех": 73
+      "gas:candidate-vibid:244200070464": 45,
+      "gas:candidate-vibid:1001000190355": 38,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 14,
+      "gas:candidate-vibid:244200071218": 296,
+      "gas:candidate-vibid:1001000131396": 85,
+      "gas:candidate-vibid:244200071430": 21,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 128,
+      "gas:candidate-vibid:1001000188005": 12,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 23,
-      "Гордеева Марина Владимировна": 8,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 24,
-      "Михайлов Владимир Викторович": 31,
-      "Сардаров Сард Селимович": 13,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 81,
-      "Чуев Александр Викторович": 10,
-      "Против всех": 28
+      "gas:candidate-vibid:244200070464": 23,
+      "gas:candidate-vibid:1001000190355": 8,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 24,
+      "gas:candidate-vibid:1001000131396": 31,
+      "gas:candidate-vibid:244200071430": 13,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 81,
+      "gas:candidate-vibid:1001000188005": 10,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 82,
-      "Гордеева Марина Владимировна": 18,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 86,
-      "Михайлов Владимир Викторович": 55,
-      "Сардаров Сард Селимович": 20,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 119,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 46
+      "gas:candidate-vibid:244200070464": 82,
+      "gas:candidate-vibid:1001000190355": 18,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 86,
+      "gas:candidate-vibid:1001000131396": 55,
+      "gas:candidate-vibid:244200071430": 20,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 119,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 32,
-      "Гордеева Марина Владимировна": 38,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 15,
-      "Михайлов Владимир Викторович": 5,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 30,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:244200070464": 32,
+      "gas:candidate-vibid:1001000190355": 38,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 15,
+      "gas:candidate-vibid:1001000131396": 5,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 30,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 13,
-      "Гордеева Марина Владимировна": 16,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 51,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 16,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 49,
-      "Чуев Александр Викторович": 6,
-      "Против всех": 22
+      "gas:candidate-vibid:244200070464": 13,
+      "gas:candidate-vibid:1001000190355": 16,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 51,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 16,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 49,
+      "gas:candidate-vibid:1001000188005": 6,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 115,
-      "Гордеева Марина Владимировна": 27,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 20,
-      "Комиссаров Сергей Юрьевич": 115,
-      "Михайлов Владимир Викторович": 76,
-      "Сардаров Сард Селимович": 33,
-      "Сторожев Леонид Вадимович": 8,
-      "Трепов Евгений Александрович": 228,
-      "Чуев Александр Викторович": 14,
-      "Против всех": 62
+      "gas:candidate-vibid:244200070464": 115,
+      "gas:candidate-vibid:1001000190355": 27,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 20,
+      "gas:candidate-vibid:244200071218": 115,
+      "gas:candidate-vibid:1001000131396": 76,
+      "gas:candidate-vibid:244200071430": 33,
+      "gas:candidate-vibid:1001000112218": 8,
+      "gas:candidate-vibid:1001000225946": 228,
+      "gas:candidate-vibid:1001000188005": 14,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 79,
-      "Гордеева Марина Владимировна": 32,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 48,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 9,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 156,
-      "Чуев Александр Викторович": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:244200070464": 79,
+      "gas:candidate-vibid:1001000190355": 32,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 48,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 9,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 156,
+      "gas:candidate-vibid:1001000188005": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 88,
-      "Гордеева Марина Владимировна": 15,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 43,
-      "Михайлов Владимир Викторович": 51,
-      "Сардаров Сард Селимович": 17,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 160,
-      "Чуев Александр Викторович": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:244200070464": 88,
+      "gas:candidate-vibid:1001000190355": 15,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 43,
+      "gas:candidate-vibid:1001000131396": 51,
+      "gas:candidate-vibid:244200071430": 17,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 160,
+      "gas:candidate-vibid:1001000188005": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 89,
-      "Гордеева Марина Владимировна": 39,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 8,
-      "Комиссаров Сергей Юрьевич": 200,
-      "Михайлов Владимир Викторович": 43,
-      "Сардаров Сард Селимович": 37,
-      "Сторожев Леонид Вадимович": 11,
-      "Трепов Евгений Александрович": 285,
-      "Чуев Александр Викторович": 24,
-      "Против всех": 56
+      "gas:candidate-vibid:244200070464": 89,
+      "gas:candidate-vibid:1001000190355": 39,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 8,
+      "gas:candidate-vibid:244200071218": 200,
+      "gas:candidate-vibid:1001000131396": 43,
+      "gas:candidate-vibid:244200071430": 37,
+      "gas:candidate-vibid:1001000112218": 11,
+      "gas:candidate-vibid:1001000225946": 285,
+      "gas:candidate-vibid:1001000188005": 24,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 17,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 25,
-      "Михайлов Владимир Викторович": 4,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 18,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:244200070464": 17,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 25,
+      "gas:candidate-vibid:1001000131396": 4,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 18,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 242,
-      "Гордеева Марина Владимировна": 26,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 33,
-      "Комиссаров Сергей Юрьевич": 67,
-      "Михайлов Владимир Викторович": 44,
-      "Сардаров Сард Селимович": 31,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 117,
-      "Чуев Александр Викторович": 15,
-      "Против всех": 75
+      "gas:candidate-vibid:244200070464": 242,
+      "gas:candidate-vibid:1001000190355": 26,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 33,
+      "gas:candidate-vibid:244200071218": 67,
+      "gas:candidate-vibid:1001000131396": 44,
+      "gas:candidate-vibid:244200071430": 31,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 117,
+      "gas:candidate-vibid:1001000188005": 15,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 236,
-      "Гордеева Марина Владимировна": 12,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 8,
-      "Михайлов Владимир Викторович": 11,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 35,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:244200070464": 236,
+      "gas:candidate-vibid:1001000190355": 12,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 8,
+      "gas:candidate-vibid:1001000131396": 11,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 35,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 145,
-      "Гордеева Марина Владимировна": 17,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 45,
-      "Михайлов Владимир Викторович": 59,
-      "Сардаров Сард Селимович": 30,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 77,
-      "Чуев Александр Викторович": 6,
-      "Против всех": 59
+      "gas:candidate-vibid:244200070464": 145,
+      "gas:candidate-vibid:1001000190355": 17,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 45,
+      "gas:candidate-vibid:1001000131396": 59,
+      "gas:candidate-vibid:244200071430": 30,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 77,
+      "gas:candidate-vibid:1001000188005": 6,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 125,
-      "Гордеева Марина Владимировна": 26,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 44,
-      "Михайлов Владимир Викторович": 32,
-      "Сардаров Сард Селимович": 13,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 73,
-      "Чуев Александр Викторович": 10,
-      "Против всех": 40
+      "gas:candidate-vibid:244200070464": 125,
+      "gas:candidate-vibid:1001000190355": 26,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 44,
+      "gas:candidate-vibid:1001000131396": 32,
+      "gas:candidate-vibid:244200071430": 13,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 73,
+      "gas:candidate-vibid:1001000188005": 10,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 218,
-      "Гордеева Марина Владимировна": 1,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 10,
-      "Михайлов Владимир Викторович": 5,
-      "Сардаров Сард Селимович": 10,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 35,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:244200070464": 218,
+      "gas:candidate-vibid:1001000190355": 1,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 10,
+      "gas:candidate-vibid:1001000131396": 5,
+      "gas:candidate-vibid:244200071430": 10,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 35,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070606&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 156,
-      "Гордеева Марина Владимировна": 134,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 38,
-      "Комиссаров Сергей Юрьевич": 148,
-      "Михайлов Владимир Викторович": 122,
-      "Сардаров Сард Селимович": 54,
-      "Сторожев Леонид Вадимович": 21,
-      "Трепов Евгений Александрович": 327,
-      "Чуев Александр Викторович": 24,
-      "Против всех": 70
+      "gas:candidate-vibid:244200070464": 156,
+      "gas:candidate-vibid:1001000190355": 134,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 38,
+      "gas:candidate-vibid:244200071218": 148,
+      "gas:candidate-vibid:1001000131396": 122,
+      "gas:candidate-vibid:244200071430": 54,
+      "gas:candidate-vibid:1001000112218": 21,
+      "gas:candidate-vibid:1001000225946": 327,
+      "gas:candidate-vibid:1001000188005": 24,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 120,
-      "Гордеева Марина Владимировна": 88,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 17,
-      "Комиссаров Сергей Юрьевич": 127,
-      "Михайлов Владимир Викторович": 141,
-      "Сардаров Сард Селимович": 34,
-      "Сторожев Леонид Вадимович": 22,
-      "Трепов Евгений Александрович": 266,
-      "Чуев Александр Викторович": 20,
-      "Против всех": 52
+      "gas:candidate-vibid:244200070464": 120,
+      "gas:candidate-vibid:1001000190355": 88,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 17,
+      "gas:candidate-vibid:244200071218": 127,
+      "gas:candidate-vibid:1001000131396": 141,
+      "gas:candidate-vibid:244200071430": 34,
+      "gas:candidate-vibid:1001000112218": 22,
+      "gas:candidate-vibid:1001000225946": 266,
+      "gas:candidate-vibid:1001000188005": 20,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 36,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 9,
-      "Михайлов Владимир Викторович": 7,
-      "Сардаров Сард Селимович": 14,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 40,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 36,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 9,
+      "gas:candidate-vibid:1001000131396": 7,
+      "gas:candidate-vibid:244200071430": 14,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 40,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 5,
-      "Гордеева Марина Владимировна": 22,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 15,
-      "Михайлов Владимир Викторович": 3,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 27,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 5,
+      "gas:candidate-vibid:1001000190355": 22,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 15,
+      "gas:candidate-vibid:1001000131396": 3,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 27,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 64,
-      "Гордеева Марина Владимировна": 46,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 30,
-      "Михайлов Владимир Викторович": 35,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 79,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:244200070464": 64,
+      "gas:candidate-vibid:1001000190355": 46,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 30,
+      "gas:candidate-vibid:1001000131396": 35,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 79,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 37,
-      "Гордеева Марина Владимировна": 68,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 7,
-      "Комиссаров Сергей Юрьевич": 50,
-      "Михайлов Владимир Викторович": 17,
-      "Сардаров Сард Селимович": 13,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 95,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 37,
+      "gas:candidate-vibid:1001000190355": 68,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 7,
+      "gas:candidate-vibid:244200071218": 50,
+      "gas:candidate-vibid:1001000131396": 17,
+      "gas:candidate-vibid:244200071430": 13,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 95,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 8,
-      "Гордеева Марина Владимировна": 13,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 28,
-      "Михайлов Владимир Викторович": 29,
-      "Сардаров Сард Селимович": 19,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 91,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 8,
+      "gas:candidate-vibid:1001000190355": 13,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 28,
+      "gas:candidate-vibid:1001000131396": 29,
+      "gas:candidate-vibid:244200071430": 19,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 91,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 4,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 35,
-      "Михайлов Владимир Викторович": 15,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 41,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:244200070464": 4,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 35,
+      "gas:candidate-vibid:1001000131396": 15,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 41,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 22,
-      "Гордеева Марина Владимировна": 13,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 8,
-      "Комиссаров Сергей Юрьевич": 19,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 65,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:244200070464": 22,
+      "gas:candidate-vibid:1001000190355": 13,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 8,
+      "gas:candidate-vibid:244200071218": 19,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 65,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 28,
-      "Гордеева Марина Владимировна": 17,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 11,
-      "Комиссаров Сергей Юрьевич": 69,
-      "Михайлов Владимир Викторович": 20,
-      "Сардаров Сард Селимович": 17,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 46,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 28,
+      "gas:candidate-vibid:1001000190355": 17,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 11,
+      "gas:candidate-vibid:244200071218": 69,
+      "gas:candidate-vibid:1001000131396": 20,
+      "gas:candidate-vibid:244200071430": 17,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 46,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 32,
-      "Гордеева Марина Владимировна": 4,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 10,
-      "Михайлов Владимир Викторович": 6,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 22,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 32,
+      "gas:candidate-vibid:1001000190355": 4,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 10,
+      "gas:candidate-vibid:1001000131396": 6,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 22,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 13,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 42,
-      "Михайлов Владимир Викторович": 16,
-      "Сардаров Сард Селимович": 0,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 26,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 13,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 42,
+      "gas:candidate-vibid:1001000131396": 16,
+      "gas:candidate-vibid:244200071430": 0,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 26,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 14,
-      "Гордеева Марина Владимировна": 39,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 19,
-      "Михайлов Владимир Викторович": 5,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 9,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 14,
+      "gas:candidate-vibid:1001000190355": 39,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 19,
+      "gas:candidate-vibid:1001000131396": 5,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 9,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 24,
-      "Гордеева Марина Владимировна": 27,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 58,
-      "Михайлов Владимир Викторович": 11,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 64,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 24,
+      "gas:candidate-vibid:1001000190355": 27,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 58,
+      "gas:candidate-vibid:1001000131396": 11,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 64,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 21,
-      "Гордеева Марина Владимировна": 23,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 7,
-      "Михайлов Владимир Викторович": 17,
-      "Сардаров Сард Селимович": 9,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 27,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 21,
+      "gas:candidate-vibid:1001000190355": 23,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 7,
+      "gas:candidate-vibid:1001000131396": 17,
+      "gas:candidate-vibid:244200071430": 9,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 27,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 15,
-      "Гордеева Марина Владимировна": 38,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 30,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 16,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 57,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:244200070464": 15,
+      "gas:candidate-vibid:1001000190355": 38,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 30,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 16,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 57,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 19,
-      "Гордеева Марина Владимировна": 13,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 47,
-      "Михайлов Владимир Викторович": 4,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 44,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 19,
+      "gas:candidate-vibid:1001000190355": 13,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 47,
+      "gas:candidate-vibid:1001000131396": 4,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 44,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 25,
-      "Гордеева Марина Владимировна": 45,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 37,
-      "Михайлов Владимир Викторович": 18,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 54,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:244200070464": 25,
+      "gas:candidate-vibid:1001000190355": 45,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 37,
+      "gas:candidate-vibid:1001000131396": 18,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 54,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 8,
-      "Гордеева Марина Владимировна": 13,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 17,
-      "Михайлов Владимир Викторович": 3,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 16,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:244200070464": 8,
+      "gas:candidate-vibid:1001000190355": 13,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 17,
+      "gas:candidate-vibid:1001000131396": 3,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 16,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 61,
-      "Гордеева Марина Владимировна": 24,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 21,
-      "Михайлов Владимир Викторович": 8,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 59,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 61,
+      "gas:candidate-vibid:1001000190355": 24,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 21,
+      "gas:candidate-vibid:1001000131396": 8,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 59,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 36,
-      "Гордеева Марина Владимировна": 86,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 34,
-      "Михайлов Владимир Викторович": 33,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 10,
-      "Трепов Евгений Александрович": 43,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:244200070464": 36,
+      "gas:candidate-vibid:1001000190355": 86,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 34,
+      "gas:candidate-vibid:1001000131396": 33,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 10,
+      "gas:candidate-vibid:1001000225946": 43,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 131,
-      "Гордеева Марина Владимировна": 32,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 15,
-      "Комиссаров Сергей Юрьевич": 63,
-      "Михайлов Владимир Викторович": 43,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 45,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:244200070464": 131,
+      "gas:candidate-vibid:1001000190355": 32,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 15,
+      "gas:candidate-vibid:244200071218": 63,
+      "gas:candidate-vibid:1001000131396": 43,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 45,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 48,
-      "Гордеева Марина Владимировна": 19,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 34,
-      "Михайлов Владимир Викторович": 9,
-      "Сардаров Сард Селимович": 10,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 13,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:244200070464": 48,
+      "gas:candidate-vibid:1001000190355": 19,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 34,
+      "gas:candidate-vibid:1001000131396": 9,
+      "gas:candidate-vibid:244200071430": 10,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 13,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 29,
-      "Гордеева Марина Владимировна": 38,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 19,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 52,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 29,
+      "gas:candidate-vibid:1001000190355": 38,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 19,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 52,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 18,
-      "Гордеева Марина Владимировна": 38,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 46,
-      "Михайлов Владимир Викторович": 3,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 38,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 18,
+      "gas:candidate-vibid:1001000190355": 38,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 46,
+      "gas:candidate-vibid:1001000131396": 3,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 38,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 4,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 38,
-      "Михайлов Владимир Викторович": 2,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 31,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 4,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 38,
+      "gas:candidate-vibid:1001000131396": 2,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 31,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 23,
-      "Гордеева Марина Владимировна": 43,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 17,
-      "Комиссаров Сергей Юрьевич": 30,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 40,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:244200070464": 23,
+      "gas:candidate-vibid:1001000190355": 43,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 17,
+      "gas:candidate-vibid:244200071218": 30,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 40,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 15,
-      "Гордеева Марина Владимировна": 53,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 76,
-      "Михайлов Владимир Викторович": 23,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 37,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 15,
+      "gas:candidate-vibid:1001000190355": 53,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 76,
+      "gas:candidate-vibid:1001000131396": 23,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 37,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070607&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 46,
-      "Гордеева Марина Владимировна": 31,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 80,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 30,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 320,
-      "Чуев Александр Викторович": 18,
-      "Против всех": 46
+      "gas:candidate-vibid:244200070464": 46,
+      "gas:candidate-vibid:1001000190355": 31,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 80,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 30,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 320,
+      "gas:candidate-vibid:1001000188005": 18,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 24,
-      "Гордеева Марина Владимировна": 33,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 59,
-      "Михайлов Владимир Викторович": 40,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 8,
-      "Трепов Евгений Александрович": 218,
-      "Чуев Александр Викторович": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:244200070464": 24,
+      "gas:candidate-vibid:1001000190355": 33,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 59,
+      "gas:candidate-vibid:1001000131396": 40,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 8,
+      "gas:candidate-vibid:1001000225946": 218,
+      "gas:candidate-vibid:1001000188005": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 153,
-      "Гордеева Марина Владимировна": 71,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 269,
-      "Михайлов Владимир Викторович": 78,
-      "Сардаров Сард Селимович": 26,
-      "Сторожев Леонид Вадимович": 18,
-      "Трепов Евгений Александрович": 384,
-      "Чуев Александр Викторович": 38,
-      "Против всех": 109
+      "gas:candidate-vibid:244200070464": 153,
+      "gas:candidate-vibid:1001000190355": 71,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 269,
+      "gas:candidate-vibid:1001000131396": 78,
+      "gas:candidate-vibid:244200071430": 26,
+      "gas:candidate-vibid:1001000112218": 18,
+      "gas:candidate-vibid:1001000225946": 384,
+      "gas:candidate-vibid:1001000188005": 38,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 131,
-      "Гордеева Марина Владимировна": 33,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 152,
-      "Михайлов Владимир Викторович": 53,
-      "Сардаров Сард Селимович": 18,
-      "Сторожев Леонид Вадимович": 10,
-      "Трепов Евгений Александрович": 258,
-      "Чуев Александр Викторович": 19,
-      "Против всех": 83
+      "gas:candidate-vibid:244200070464": 131,
+      "gas:candidate-vibid:1001000190355": 33,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 152,
+      "gas:candidate-vibid:1001000131396": 53,
+      "gas:candidate-vibid:244200071430": 18,
+      "gas:candidate-vibid:1001000112218": 10,
+      "gas:candidate-vibid:1001000225946": 258,
+      "gas:candidate-vibid:1001000188005": 19,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 104,
-      "Гордеева Марина Владимировна": 45,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 209,
-      "Михайлов Владимир Викторович": 43,
-      "Сардаров Сард Селимович": 28,
-      "Сторожев Леонид Вадимович": 19,
-      "Трепов Евгений Александрович": 283,
-      "Чуев Александр Викторович": 48,
-      "Против всех": 106
+      "gas:candidate-vibid:244200070464": 104,
+      "gas:candidate-vibid:1001000190355": 45,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 209,
+      "gas:candidate-vibid:1001000131396": 43,
+      "gas:candidate-vibid:244200071430": 28,
+      "gas:candidate-vibid:1001000112218": 19,
+      "gas:candidate-vibid:1001000225946": 283,
+      "gas:candidate-vibid:1001000188005": 48,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 52,
-      "Гордеева Марина Владимировна": 26,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 116,
-      "Михайлов Владимир Викторович": 34,
-      "Сардаров Сард Селимович": 24,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 283,
-      "Чуев Александр Викторович": 12,
-      "Против всех": 46
+      "gas:candidate-vibid:244200070464": 52,
+      "gas:candidate-vibid:1001000190355": 26,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 116,
+      "gas:candidate-vibid:1001000131396": 34,
+      "gas:candidate-vibid:244200071430": 24,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 283,
+      "gas:candidate-vibid:1001000188005": 12,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 14,
-      "Гордеева Марина Владимировна": 19,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 11,
-      "Комиссаров Сергей Юрьевич": 128,
-      "Михайлов Владимир Викторович": 32,
-      "Сардаров Сард Селимович": 21,
-      "Сторожев Леонид Вадимович": 9,
-      "Трепов Евгений Александрович": 250,
-      "Чуев Александр Викторович": 11,
-      "Против всех": 53
+      "gas:candidate-vibid:244200070464": 14,
+      "gas:candidate-vibid:1001000190355": 19,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 11,
+      "gas:candidate-vibid:244200071218": 128,
+      "gas:candidate-vibid:1001000131396": 32,
+      "gas:candidate-vibid:244200071430": 21,
+      "gas:candidate-vibid:1001000112218": 9,
+      "gas:candidate-vibid:1001000225946": 250,
+      "gas:candidate-vibid:1001000188005": 11,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 53,
-      "Гордеева Марина Владимировна": 28,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 12,
-      "Комиссаров Сергей Юрьевич": 168,
-      "Михайлов Владимир Викторович": 32,
-      "Сардаров Сард Селимович": 16,
-      "Сторожев Леонид Вадимович": 10,
-      "Трепов Евгений Александрович": 288,
-      "Чуев Александр Викторович": 14,
-      "Против всех": 62
+      "gas:candidate-vibid:244200070464": 53,
+      "gas:candidate-vibid:1001000190355": 28,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 12,
+      "gas:candidate-vibid:244200071218": 168,
+      "gas:candidate-vibid:1001000131396": 32,
+      "gas:candidate-vibid:244200071430": 16,
+      "gas:candidate-vibid:1001000112218": 10,
+      "gas:candidate-vibid:1001000225946": 288,
+      "gas:candidate-vibid:1001000188005": 14,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 30,
-      "Гордеева Марина Владимировна": 24,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 7,
-      "Комиссаров Сергей Юрьевич": 111,
-      "Михайлов Владимир Викторович": 21,
-      "Сардаров Сард Селимович": 16,
-      "Сторожев Леонид Вадимович": 9,
-      "Трепов Евгений Александрович": 259,
-      "Чуев Александр Викторович": 14,
-      "Против всех": 31
+      "gas:candidate-vibid:244200070464": 30,
+      "gas:candidate-vibid:1001000190355": 24,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 7,
+      "gas:candidate-vibid:244200071218": 111,
+      "gas:candidate-vibid:1001000131396": 21,
+      "gas:candidate-vibid:244200071430": 16,
+      "gas:candidate-vibid:1001000112218": 9,
+      "gas:candidate-vibid:1001000225946": 259,
+      "gas:candidate-vibid:1001000188005": 14,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 58,
-      "Гордеева Марина Владимировна": 33,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 21,
-      "Комиссаров Сергей Юрьевич": 188,
-      "Михайлов Владимир Викторович": 35,
-      "Сардаров Сард Селимович": 19,
-      "Сторожев Леонид Вадимович": 7,
-      "Трепов Евгений Александрович": 411,
-      "Чуев Александр Викторович": 31,
-      "Против всех": 68
+      "gas:candidate-vibid:244200070464": 58,
+      "gas:candidate-vibid:1001000190355": 33,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 21,
+      "gas:candidate-vibid:244200071218": 188,
+      "gas:candidate-vibid:1001000131396": 35,
+      "gas:candidate-vibid:244200071430": 19,
+      "gas:candidate-vibid:1001000112218": 7,
+      "gas:candidate-vibid:1001000225946": 411,
+      "gas:candidate-vibid:1001000188005": 31,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 70,
-      "Гордеева Марина Владимировна": 42,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 130,
-      "Михайлов Владимир Викторович": 37,
-      "Сардаров Сард Селимович": 28,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 330,
-      "Чуев Александр Викторович": 16,
-      "Против всех": 42
+      "gas:candidate-vibid:244200070464": 70,
+      "gas:candidate-vibid:1001000190355": 42,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 130,
+      "gas:candidate-vibid:1001000131396": 37,
+      "gas:candidate-vibid:244200071430": 28,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 330,
+      "gas:candidate-vibid:1001000188005": 16,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 25,
-      "Гордеева Марина Владимировна": 16,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 139,
-      "Михайлов Владимир Викторович": 12,
-      "Сардаров Сард Селимович": 15,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 162,
-      "Чуев Александр Викторович": 7,
-      "Против всех": 20
+      "gas:candidate-vibid:244200070464": 25,
+      "gas:candidate-vibid:1001000190355": 16,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 139,
+      "gas:candidate-vibid:1001000131396": 12,
+      "gas:candidate-vibid:244200071430": 15,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 162,
+      "gas:candidate-vibid:1001000188005": 7,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070608&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 37,
-      "Гордеева Марина Владимировна": 71,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 13,
-      "Комиссаров Сергей Юрьевич": 173,
-      "Михайлов Владимир Викторович": 173,
-      "Сардаров Сард Селимович": 23,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 270,
-      "Чуев Александр Викторович": 11,
-      "Против всех": 40
+      "gas:candidate-vibid:244200070464": 37,
+      "gas:candidate-vibid:1001000190355": 71,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 13,
+      "gas:candidate-vibid:244200071218": 173,
+      "gas:candidate-vibid:1001000131396": 173,
+      "gas:candidate-vibid:244200071430": 23,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 270,
+      "gas:candidate-vibid:1001000188005": 11,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 32,
-      "Гордеева Марина Владимировна": 11,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 21,
-      "Михайлов Владимир Викторович": 18,
-      "Сардаров Сард Селимович": 14,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 49,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 32,
+      "gas:candidate-vibid:1001000190355": 11,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 21,
+      "gas:candidate-vibid:1001000131396": 18,
+      "gas:candidate-vibid:244200071430": 14,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 49,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 12,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 25,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 20,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 12,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 25,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 20,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 1,
-      "Гордеева Марина Владимировна": 0,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 21,
-      "Михайлов Владимир Викторович": 10,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 5,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 1,
+      "gas:candidate-vibid:1001000190355": 0,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 21,
+      "gas:candidate-vibid:1001000131396": 10,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 5,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 2,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 56,
-      "Михайлов Владимир Викторович": 48,
-      "Сардаров Сард Селимович": 18,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 46,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:244200070464": 2,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 56,
+      "gas:candidate-vibid:1001000131396": 48,
+      "gas:candidate-vibid:244200071430": 18,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 46,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 35,
-      "Гордеева Марина Владимировна": 60,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 20,
-      "Комиссаров Сергей Юрьевич": 147,
-      "Михайлов Владимир Викторович": 170,
-      "Сардаров Сард Селимович": 29,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 290,
-      "Чуев Александр Викторович": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:244200070464": 35,
+      "gas:candidate-vibid:1001000190355": 60,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 20,
+      "gas:candidate-vibid:244200071218": 147,
+      "gas:candidate-vibid:1001000131396": 170,
+      "gas:candidate-vibid:244200071430": 29,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 290,
+      "gas:candidate-vibid:1001000188005": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 1,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 33,
-      "Михайлов Владимир Викторович": 25,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 45,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:244200070464": 1,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 33,
+      "gas:candidate-vibid:1001000131396": 25,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 45,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 20,
-      "Михайлов Владимир Викторович": 27,
-      "Сардаров Сард Селимович": 5,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 28,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 20,
+      "gas:candidate-vibid:1001000131396": 27,
+      "gas:candidate-vibid:244200071430": 5,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 28,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 2,
-      "Гордеева Марина Владимировна": 15,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 75,
-      "Михайлов Владимир Викторович": 38,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 42,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 2,
+      "gas:candidate-vibid:1001000190355": 15,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 75,
+      "gas:candidate-vibid:1001000131396": 38,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 42,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 1,
-      "Гордеева Марина Владимировна": 14,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 69,
-      "Михайлов Владимир Викторович": 10,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 55,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 1,
+      "gas:candidate-vibid:1001000190355": 14,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 69,
+      "gas:candidate-vibid:1001000131396": 10,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 55,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 2,
-      "Гордеева Марина Владимировна": 16,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 90,
-      "Михайлов Владимир Викторович": 31,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 45,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 2,
+      "gas:candidate-vibid:1001000190355": 16,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 90,
+      "gas:candidate-vibid:1001000131396": 31,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 45,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 1,
-      "Гордеева Марина Владимировна": 39,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 47,
-      "Михайлов Владимир Викторович": 52,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 35,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:244200070464": 1,
+      "gas:candidate-vibid:1001000190355": 39,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 47,
+      "gas:candidate-vibid:1001000131396": 52,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 35,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 1,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 55,
-      "Михайлов Владимир Викторович": 7,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 61,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 1,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 55,
+      "gas:candidate-vibid:1001000131396": 7,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 61,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 5,
-      "Гордеева Марина Владимировна": 15,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 56,
-      "Михайлов Владимир Викторович": 16,
-      "Сардаров Сард Селимович": 5,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 26,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 5,
+      "gas:candidate-vibid:1001000190355": 15,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 56,
+      "gas:candidate-vibid:1001000131396": 16,
+      "gas:candidate-vibid:244200071430": 5,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 26,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 39,
-      "Гордеева Марина Владимировна": 14,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 7,
-      "Комиссаров Сергей Юрьевич": 103,
-      "Михайлов Владимир Викторович": 65,
-      "Сардаров Сард Селимович": 9,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 87,
-      "Чуев Александр Викторович": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 39,
+      "gas:candidate-vibid:1001000190355": 14,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 7,
+      "gas:candidate-vibid:244200071218": 103,
+      "gas:candidate-vibid:1001000131396": 65,
+      "gas:candidate-vibid:244200071430": 9,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 87,
+      "gas:candidate-vibid:1001000188005": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 13,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 18,
-      "Михайлов Владимир Викторович": 37,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 9,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 13,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 18,
+      "gas:candidate-vibid:1001000131396": 37,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 9,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 24,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 78,
-      "Михайлов Владимир Викторович": 41,
-      "Сардаров Сард Селимович": 10,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 27,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 24,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 78,
+      "gas:candidate-vibid:1001000131396": 41,
+      "gas:candidate-vibid:244200071430": 10,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 27,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 3,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 72,
-      "Михайлов Владимир Викторович": 8,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 2,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:244200070464": 3,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 72,
+      "gas:candidate-vibid:1001000131396": 8,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 2,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 2,
-      "Гордеева Марина Владимировна": 0,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 45,
-      "Михайлов Владимир Викторович": 16,
-      "Сардаров Сард Селимович": 0,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 10,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:244200070464": 2,
+      "gas:candidate-vibid:1001000190355": 0,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 45,
+      "gas:candidate-vibid:1001000131396": 16,
+      "gas:candidate-vibid:244200071430": 0,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 10,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 6,
-      "Гордеева Марина Владимировна": 1,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 50,
-      "Михайлов Владимир Викторович": 25,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 37,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:244200070464": 6,
+      "gas:candidate-vibid:1001000190355": 1,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 50,
+      "gas:candidate-vibid:1001000131396": 25,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 37,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 4,
-      "Гордеева Марина Владимировна": 11,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 65,
-      "Михайлов Владимир Викторович": 81,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 113,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 4,
+      "gas:candidate-vibid:1001000190355": 11,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 65,
+      "gas:candidate-vibid:1001000131396": 81,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 113,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070609&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 45,
-      "Гордеева Марина Владимировна": 35,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 11,
-      "Комиссаров Сергей Юрьевич": 87,
-      "Михайлов Владимир Викторович": 107,
-      "Сардаров Сард Селимович": 22,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 156,
-      "Чуев Александр Викторович": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:244200070464": 45,
+      "gas:candidate-vibid:1001000190355": 35,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 11,
+      "gas:candidate-vibid:244200071218": 87,
+      "gas:candidate-vibid:1001000131396": 107,
+      "gas:candidate-vibid:244200071430": 22,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 156,
+      "gas:candidate-vibid:1001000188005": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 59,
-      "Гордеева Марина Владимировна": 32,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 17,
-      "Комиссаров Сергей Юрьевич": 71,
-      "Михайлов Владимир Викторович": 86,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 7,
-      "Трепов Евгений Александрович": 127,
-      "Чуев Александр Викторович": 12,
-      "Против всех": 35
+      "gas:candidate-vibid:244200070464": 59,
+      "gas:candidate-vibid:1001000190355": 32,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 17,
+      "gas:candidate-vibid:244200071218": 71,
+      "gas:candidate-vibid:1001000131396": 86,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 7,
+      "gas:candidate-vibid:1001000225946": 127,
+      "gas:candidate-vibid:1001000188005": 12,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 55,
-      "Гордеева Марина Владимировна": 34,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 11,
-      "Комиссаров Сергей Юрьевич": 104,
-      "Михайлов Владимир Викторович": 86,
-      "Сардаров Сард Селимович": 15,
-      "Сторожев Леонид Вадимович": 8,
-      "Трепов Евгений Александрович": 168,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:244200070464": 55,
+      "gas:candidate-vibid:1001000190355": 34,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 11,
+      "gas:candidate-vibid:244200071218": 104,
+      "gas:candidate-vibid:1001000131396": 86,
+      "gas:candidate-vibid:244200071430": 15,
+      "gas:candidate-vibid:1001000112218": 8,
+      "gas:candidate-vibid:1001000225946": 168,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 29,
-      "Гордеева Марина Владимировна": 47,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 10,
-      "Комиссаров Сергей Юрьевич": 103,
-      "Михайлов Владимир Викторович": 117,
-      "Сардаров Сард Селимович": 22,
-      "Сторожев Леонид Вадимович": 8,
-      "Трепов Евгений Александрович": 166,
-      "Чуев Александр Викторович": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 29,
+      "gas:candidate-vibid:1001000190355": 47,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 10,
+      "gas:candidate-vibid:244200071218": 103,
+      "gas:candidate-vibid:1001000131396": 117,
+      "gas:candidate-vibid:244200071430": 22,
+      "gas:candidate-vibid:1001000112218": 8,
+      "gas:candidate-vibid:1001000225946": 166,
+      "gas:candidate-vibid:1001000188005": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 58,
-      "Гордеева Марина Владимировна": 40,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 9,
-      "Комиссаров Сергей Юрьевич": 76,
-      "Михайлов Владимир Викторович": 90,
-      "Сардаров Сард Селимович": 19,
-      "Сторожев Леонид Вадимович": 11,
-      "Трепов Евгений Александрович": 159,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 28
+      "gas:candidate-vibid:244200070464": 58,
+      "gas:candidate-vibid:1001000190355": 40,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 9,
+      "gas:candidate-vibid:244200071218": 76,
+      "gas:candidate-vibid:1001000131396": 90,
+      "gas:candidate-vibid:244200071430": 19,
+      "gas:candidate-vibid:1001000112218": 11,
+      "gas:candidate-vibid:1001000225946": 159,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 26,
-      "Гордеева Марина Владимировна": 32,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 7,
-      "Комиссаров Сергей Юрьевич": 74,
-      "Михайлов Владимир Викторович": 53,
-      "Сардаров Сард Селимович": 16,
-      "Сторожев Леонид Вадимович": 7,
-      "Трепов Евгений Александрович": 100,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:244200070464": 26,
+      "gas:candidate-vibid:1001000190355": 32,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 7,
+      "gas:candidate-vibid:244200071218": 74,
+      "gas:candidate-vibid:1001000131396": 53,
+      "gas:candidate-vibid:244200071430": 16,
+      "gas:candidate-vibid:1001000112218": 7,
+      "gas:candidate-vibid:1001000225946": 100,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 5,
-      "Гордеева Марина Владимировна": 5,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 12,
-      "Михайлов Владимир Викторович": 14,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 103,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 5,
+      "gas:candidate-vibid:1001000190355": 5,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 12,
+      "gas:candidate-vibid:1001000131396": 14,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 103,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 0,
-      "Гордеева Марина Владимировна": 1,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 9,
-      "Михайлов Владимир Викторович": 0,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 15,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:244200070464": 0,
+      "gas:candidate-vibid:1001000190355": 1,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 9,
+      "gas:candidate-vibid:1001000131396": 0,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 15,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 0,
-      "Гордеева Марина Владимировна": 4,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 8,
-      "Михайлов Владимир Викторович": 9,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 46,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:244200070464": 0,
+      "gas:candidate-vibid:1001000190355": 4,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 8,
+      "gas:candidate-vibid:1001000131396": 9,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 46,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 25,
-      "Гордеева Марина Владимировна": 1,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 18,
-      "Михайлов Владимир Викторович": 36,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 44,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 25,
+      "gas:candidate-vibid:1001000190355": 1,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 18,
+      "gas:candidate-vibid:1001000131396": 36,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 44,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 7,
-      "Гордеева Марина Владимировна": 5,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 25,
-      "Михайлов Владимир Викторович": 61,
-      "Сардаров Сард Селимович": 2,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 71,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 7,
+      "gas:candidate-vibid:1001000190355": 5,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 25,
+      "gas:candidate-vibid:1001000131396": 61,
+      "gas:candidate-vibid:244200071430": 2,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 71,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 10,
-      "Гордеева Марина Владимировна": 5,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 31,
-      "Михайлов Владимир Викторович": 107,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 53,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:244200070464": 10,
+      "gas:candidate-vibid:1001000190355": 5,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 31,
+      "gas:candidate-vibid:1001000131396": 107,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 53,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 1,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 8,
-      "Михайлов Владимир Викторович": 8,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 37,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:244200070464": 1,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 8,
+      "gas:candidate-vibid:1001000131396": 8,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 37,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 14,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 38,
-      "Михайлов Владимир Викторович": 16,
-      "Сардаров Сард Селимович": 5,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 53,
-      "Чуев Александр Викторович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:244200070464": 14,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 38,
+      "gas:candidate-vibid:1001000131396": 16,
+      "gas:candidate-vibid:244200071430": 5,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 53,
+      "gas:candidate-vibid:1001000188005": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 15,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 15,
-      "Михайлов Владимир Викторович": 21,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 44,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:244200070464": 15,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 15,
+      "gas:candidate-vibid:1001000131396": 21,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 44,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 10,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 25,
-      "Михайлов Владимир Викторович": 16,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 58,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:244200070464": 10,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 25,
+      "gas:candidate-vibid:1001000131396": 16,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 58,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 2,
-      "Гордеева Марина Владимировна": 7,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 8,
-      "Михайлов Владимир Викторович": 15,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 89,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 2,
+      "gas:candidate-vibid:1001000190355": 7,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 8,
+      "gas:candidate-vibid:1001000131396": 15,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 89,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 32,
-      "Гордеева Марина Владимировна": 19,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 7,
-      "Комиссаров Сергей Юрьевич": 43,
-      "Михайлов Владимир Викторович": 36,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 128,
-      "Чуев Александр Викторович": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:244200070464": 32,
+      "gas:candidate-vibid:1001000190355": 19,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 7,
+      "gas:candidate-vibid:244200071218": 43,
+      "gas:candidate-vibid:1001000131396": 36,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 128,
+      "gas:candidate-vibid:1001000188005": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 4,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 19,
-      "Михайлов Владимир Викторович": 10,
-      "Сардаров Сард Селимович": 5,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 95,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 4,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 19,
+      "gas:candidate-vibid:1001000131396": 10,
+      "gas:candidate-vibid:244200071430": 5,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 95,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 50,
-      "Гордеева Марина Владимировна": 10,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 23,
-      "Михайлов Владимир Викторович": 15,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 56,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 50,
+      "gas:candidate-vibid:1001000190355": 10,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 23,
+      "gas:candidate-vibid:1001000131396": 15,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 56,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 29,
-      "Гордеева Марина Владимировна": 8,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 37,
-      "Михайлов Владимир Викторович": 59,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 86,
-      "Чуев Александр Викторович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 29,
+      "gas:candidate-vibid:1001000190355": 8,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 37,
+      "gas:candidate-vibid:1001000131396": 59,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 86,
+      "gas:candidate-vibid:1001000188005": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 10,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 21,
-      "Михайлов Владимир Викторович": 11,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 30,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:244200070464": 10,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 21,
+      "gas:candidate-vibid:1001000131396": 11,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 30,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 37,
-      "Гордеева Марина Владимировна": 22,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 24,
-      "Комиссаров Сергей Юрьевич": 103,
-      "Михайлов Владимир Викторович": 143,
-      "Сардаров Сард Селимович": 23,
-      "Сторожев Леонид Вадимович": 16,
-      "Трепов Евгений Александрович": 283,
-      "Чуев Александр Викторович": 26,
-      "Против всех": 46
+      "gas:candidate-vibid:244200070464": 37,
+      "gas:candidate-vibid:1001000190355": 22,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 24,
+      "gas:candidate-vibid:244200071218": 103,
+      "gas:candidate-vibid:1001000131396": 143,
+      "gas:candidate-vibid:244200071430": 23,
+      "gas:candidate-vibid:1001000112218": 16,
+      "gas:candidate-vibid:1001000225946": 283,
+      "gas:candidate-vibid:1001000188005": 26,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 120,
-      "Гордеева Марина Владимировна": 17,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 14,
-      "Комиссаров Сергей Юрьевич": 136,
-      "Михайлов Владимир Викторович": 27,
-      "Сардаров Сард Селимович": 28,
-      "Сторожев Леонид Вадимович": 7,
-      "Трепов Евгений Александрович": 166,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 33
+      "gas:candidate-vibid:244200070464": 120,
+      "gas:candidate-vibid:1001000190355": 17,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 14,
+      "gas:candidate-vibid:244200071218": 136,
+      "gas:candidate-vibid:1001000131396": 27,
+      "gas:candidate-vibid:244200071430": 28,
+      "gas:candidate-vibid:1001000112218": 7,
+      "gas:candidate-vibid:1001000225946": 166,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 55,
-      "Гордеева Марина Владимировна": 9,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 32,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 121,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:244200070464": 55,
+      "gas:candidate-vibid:1001000190355": 9,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 32,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 121,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 31,
-      "Гордеева Марина Владимировна": 10,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 6,
-      "Комиссаров Сергей Юрьевич": 110,
-      "Михайлов Владимир Викторович": 39,
-      "Сардаров Сард Селимович": 19,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 212,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:244200070464": 31,
+      "gas:candidate-vibid:1001000190355": 10,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 6,
+      "gas:candidate-vibid:244200071218": 110,
+      "gas:candidate-vibid:1001000131396": 39,
+      "gas:candidate-vibid:244200071430": 19,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 212,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 21,
-      "Гордеева Марина Владимировна": 14,
-      "Зайцев Анатолий Васильевич": 4,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 74,
-      "Михайлов Владимир Викторович": 14,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 79,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:244200070464": 21,
+      "gas:candidate-vibid:1001000190355": 14,
+      "gas:candidate-vibid:1001000195085": 4,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 74,
+      "gas:candidate-vibid:1001000131396": 14,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 79,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 16,
-      "Гордеева Марина Владимировна": 8,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 115,
-      "Михайлов Владимир Викторович": 9,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 118,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 16,
+      "gas:candidate-vibid:1001000190355": 8,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 115,
+      "gas:candidate-vibid:1001000131396": 9,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 118,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 4,
-      "Гордеева Марина Владимировна": 7,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 15,
-      "Комиссаров Сергей Юрьевич": 106,
-      "Михайлов Владимир Викторович": 17,
-      "Сардаров Сард Селимович": 9,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 78,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 4,
+      "gas:candidate-vibid:1001000190355": 7,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 15,
+      "gas:candidate-vibid:244200071218": 106,
+      "gas:candidate-vibid:1001000131396": 17,
+      "gas:candidate-vibid:244200071430": 9,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 78,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 0,
-      "Гордеева Марина Владимировна": 2,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 53,
-      "Михайлов Владимир Викторович": 10,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 23,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 0,
+      "gas:candidate-vibid:1001000190355": 2,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 53,
+      "gas:candidate-vibid:1001000131396": 10,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 23,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 43,
-      "Гордеева Марина Владимировна": 3,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 41,
-      "Михайлов Владимир Викторович": 11,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 71,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 3
+      "gas:candidate-vibid:244200070464": 43,
+      "gas:candidate-vibid:1001000190355": 3,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 41,
+      "gas:candidate-vibid:1001000131396": 11,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 71,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 14,
-      "Гордеева Марина Владимировна": 1,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 48,
-      "Михайлов Владимир Викторович": 1,
-      "Сардаров Сард Селимович": 0,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 26,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:244200070464": 14,
+      "gas:candidate-vibid:1001000190355": 1,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 48,
+      "gas:candidate-vibid:1001000131396": 1,
+      "gas:candidate-vibid:244200071430": 0,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 26,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070610&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 27,
-      "Гордеева Марина Владимировна": 1,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 13,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 48,
-      "Чуев Александр Викторович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 27,
+      "gas:candidate-vibid:1001000190355": 1,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 13,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 48,
+      "gas:candidate-vibid:1001000188005": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 70,
-      "Гордеева Марина Владимировна": 11,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 47,
-      "Михайлов Владимир Викторович": 16,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 102,
-      "Чуев Александр Викторович": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 70,
+      "gas:candidate-vibid:1001000190355": 11,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 47,
+      "gas:candidate-vibid:1001000131396": 16,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 102,
+      "gas:candidate-vibid:1001000188005": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 32,
-      "Гордеева Марина Владимировна": 60,
-      "Зайцев Анатолий Васильевич": 15,
-      "Карлашов Михаил Васильевич": 23,
-      "Комиссаров Сергей Юрьевич": 175,
-      "Михайлов Владимир Викторович": 92,
-      "Сардаров Сард Селимович": 24,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 353,
-      "Чуев Александр Викторович": 19,
-      "Против всех": 41
+      "gas:candidate-vibid:244200070464": 32,
+      "gas:candidate-vibid:1001000190355": 60,
+      "gas:candidate-vibid:1001000195085": 15,
+      "gas:candidate-vibid:1001000136066": 23,
+      "gas:candidate-vibid:244200071218": 175,
+      "gas:candidate-vibid:1001000131396": 92,
+      "gas:candidate-vibid:244200071430": 24,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 353,
+      "gas:candidate-vibid:1001000188005": 19,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 4,
-      "Гордеева Марина Владимировна": 17,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 24,
-      "Михайлов Владимир Викторович": 17,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 62,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 4,
+      "gas:candidate-vibid:1001000190355": 17,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 24,
+      "gas:candidate-vibid:1001000131396": 17,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 62,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 9,
-      "Гордеева Марина Владимировна": 4,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 15,
-      "Михайлов Владимир Викторович": 64,
-      "Сардаров Сард Селимович": 3,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 137,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 9,
+      "gas:candidate-vibid:1001000190355": 4,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 15,
+      "gas:candidate-vibid:1001000131396": 64,
+      "gas:candidate-vibid:244200071430": 3,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 137,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 24,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 8,
-      "Комиссаров Сергей Юрьевич": 41,
-      "Михайлов Владимир Викторович": 52,
-      "Сардаров Сард Селимович": 11,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 77,
-      "Чуев Александр Викторович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 24,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 8,
+      "gas:candidate-vibid:244200071218": 41,
+      "gas:candidate-vibid:1001000131396": 52,
+      "gas:candidate-vibid:244200071430": 11,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 77,
+      "gas:candidate-vibid:1001000188005": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 74,
-      "Гордеева Марина Владимировна": 58,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 16,
-      "Комиссаров Сергей Юрьевич": 180,
-      "Михайлов Владимир Викторович": 187,
-      "Сардаров Сард Селимович": 56,
-      "Сторожев Леонид Вадимович": 5,
-      "Трепов Евгений Александрович": 392,
-      "Чуев Александр Викторович": 18,
-      "Против всех": 55
+      "gas:candidate-vibid:244200070464": 74,
+      "gas:candidate-vibid:1001000190355": 58,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 16,
+      "gas:candidate-vibid:244200071218": 180,
+      "gas:candidate-vibid:1001000131396": 187,
+      "gas:candidate-vibid:244200071430": 56,
+      "gas:candidate-vibid:1001000112218": 5,
+      "gas:candidate-vibid:1001000225946": 392,
+      "gas:candidate-vibid:1001000188005": 18,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 34,
-      "Гордеева Марина Владимировна": 15,
-      "Зайцев Анатолий Васильевич": 8,
-      "Карлашов Михаил Васильевич": 14,
-      "Комиссаров Сергей Юрьевич": 88,
-      "Михайлов Владимир Викторович": 81,
-      "Сардаров Сард Селимович": 16,
-      "Сторожев Леонид Вадимович": 8,
-      "Трепов Евгений Александрович": 156,
-      "Чуев Александр Викторович": 13,
-      "Против всех": 30
+      "gas:candidate-vibid:244200070464": 34,
+      "gas:candidate-vibid:1001000190355": 15,
+      "gas:candidate-vibid:1001000195085": 8,
+      "gas:candidate-vibid:1001000136066": 14,
+      "gas:candidate-vibid:244200071218": 88,
+      "gas:candidate-vibid:1001000131396": 81,
+      "gas:candidate-vibid:244200071430": 16,
+      "gas:candidate-vibid:1001000112218": 8,
+      "gas:candidate-vibid:1001000225946": 156,
+      "gas:candidate-vibid:1001000188005": 13,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 6,
-      "Гордеева Марина Владимировна": 5,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 54,
-      "Михайлов Владимир Викторович": 29,
-      "Сардаров Сард Селимович": 5,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 35,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:244200070464": 6,
+      "gas:candidate-vibid:1001000190355": 5,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 54,
+      "gas:candidate-vibid:1001000131396": 29,
+      "gas:candidate-vibid:244200071430": 5,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 35,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 44,
-      "Гордеева Марина Владимировна": 20,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 21,
-      "Михайлов Владимир Викторович": 13,
-      "Сардаров Сард Селимович": 1,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 15,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:244200070464": 44,
+      "gas:candidate-vibid:1001000190355": 20,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 21,
+      "gas:candidate-vibid:1001000131396": 13,
+      "gas:candidate-vibid:244200071430": 1,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 15,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 13,
-      "Гордеева Марина Владимировна": 7,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 17,
-      "Михайлов Владимир Викторович": 39,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 58,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:244200070464": 13,
+      "gas:candidate-vibid:1001000190355": 7,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 17,
+      "gas:candidate-vibid:1001000131396": 39,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 58,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 11,
-      "Гордеева Марина Владимировна": 4,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 30,
-      "Михайлов Владимир Викторович": 28,
-      "Сардаров Сард Селимович": 0,
-      "Сторожев Леонид Вадимович": 3,
-      "Трепов Евгений Александрович": 70,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:244200070464": 11,
+      "gas:candidate-vibid:1001000190355": 4,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 30,
+      "gas:candidate-vibid:1001000131396": 28,
+      "gas:candidate-vibid:244200071430": 0,
+      "gas:candidate-vibid:1001000112218": 3,
+      "gas:candidate-vibid:1001000225946": 70,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070611&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 81,
-      "Гордеева Марина Владимировна": 175,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 35,
-      "Комиссаров Сергей Юрьевич": 180,
-      "Михайлов Владимир Викторович": 56,
-      "Сардаров Сард Селимович": 49,
-      "Сторожев Леонид Вадимович": 32,
-      "Трепов Евгений Александрович": 529,
-      "Чуев Александр Викторович": 91,
-      "Против всех": 161
+      "gas:candidate-vibid:244200070464": 81,
+      "gas:candidate-vibid:1001000190355": 175,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 35,
+      "gas:candidate-vibid:244200071218": 180,
+      "gas:candidate-vibid:1001000131396": 56,
+      "gas:candidate-vibid:244200071430": 49,
+      "gas:candidate-vibid:1001000112218": 32,
+      "gas:candidate-vibid:1001000225946": 529,
+      "gas:candidate-vibid:1001000188005": 91,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070612&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 59,
-      "Гордеева Марина Владимировна": 206,
-      "Зайцев Анатолий Васильевич": 11,
-      "Карлашов Михаил Васильевич": 37,
-      "Комиссаров Сергей Юрьевич": 260,
-      "Михайлов Владимир Викторович": 65,
-      "Сардаров Сард Селимович": 59,
-      "Сторожев Леонид Вадимович": 58,
-      "Трепов Евгений Александрович": 543,
-      "Чуев Александр Викторович": 99,
-      "Против всех": 211
+      "gas:candidate-vibid:244200070464": 59,
+      "gas:candidate-vibid:1001000190355": 206,
+      "gas:candidate-vibid:1001000195085": 11,
+      "gas:candidate-vibid:1001000136066": 37,
+      "gas:candidate-vibid:244200071218": 260,
+      "gas:candidate-vibid:1001000131396": 65,
+      "gas:candidate-vibid:244200071430": 59,
+      "gas:candidate-vibid:1001000112218": 58,
+      "gas:candidate-vibid:1001000225946": 543,
+      "gas:candidate-vibid:1001000188005": 99,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070612&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 69,
-      "Гордеева Марина Владимировна": 165,
-      "Зайцев Анатолий Васильевич": 6,
-      "Карлашов Михаил Васильевич": 34,
-      "Комиссаров Сергей Юрьевич": 277,
-      "Михайлов Владимир Викторович": 57,
-      "Сардаров Сард Селимович": 42,
-      "Сторожев Леонид Вадимович": 28,
-      "Трепов Евгений Александрович": 524,
-      "Чуев Александр Викторович": 62,
-      "Против всех": 163
+      "gas:candidate-vibid:244200070464": 69,
+      "gas:candidate-vibid:1001000190355": 165,
+      "gas:candidate-vibid:1001000195085": 6,
+      "gas:candidate-vibid:1001000136066": 34,
+      "gas:candidate-vibid:244200071218": 277,
+      "gas:candidate-vibid:1001000131396": 57,
+      "gas:candidate-vibid:244200071430": 42,
+      "gas:candidate-vibid:1001000112218": 28,
+      "gas:candidate-vibid:1001000225946": 524,
+      "gas:candidate-vibid:1001000188005": 62,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070612&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 68,
-      "Гордеева Марина Владимировна": 118,
-      "Зайцев Анатолий Васильевич": 67,
-      "Карлашов Михаил Васильевич": 21,
-      "Комиссаров Сергей Юрьевич": 231,
-      "Михайлов Владимир Викторович": 89,
-      "Сардаров Сард Селимович": 53,
-      "Сторожев Леонид Вадимович": 33,
-      "Трепов Евгений Александрович": 480,
-      "Чуев Александр Викторович": 105,
-      "Против всех": 220
+      "gas:candidate-vibid:244200070464": 68,
+      "gas:candidate-vibid:1001000190355": 118,
+      "gas:candidate-vibid:1001000195085": 67,
+      "gas:candidate-vibid:1001000136066": 21,
+      "gas:candidate-vibid:244200071218": 231,
+      "gas:candidate-vibid:1001000131396": 89,
+      "gas:candidate-vibid:244200071430": 53,
+      "gas:candidate-vibid:1001000112218": 33,
+      "gas:candidate-vibid:1001000225946": 480,
+      "gas:candidate-vibid:1001000188005": 105,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070612&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 83,
-      "Гордеева Марина Владимировна": 165,
-      "Зайцев Анатолий Васильевич": 9,
-      "Карлашов Михаил Васильевич": 27,
-      "Комиссаров Сергей Юрьевич": 264,
-      "Михайлов Владимир Викторович": 93,
-      "Сардаров Сард Селимович": 39,
-      "Сторожев Леонид Вадимович": 47,
-      "Трепов Евгений Александрович": 521,
-      "Чуев Александр Викторович": 99,
-      "Против всех": 205
+      "gas:candidate-vibid:244200070464": 83,
+      "gas:candidate-vibid:1001000190355": 165,
+      "gas:candidate-vibid:1001000195085": 9,
+      "gas:candidate-vibid:1001000136066": 27,
+      "gas:candidate-vibid:244200071218": 264,
+      "gas:candidate-vibid:1001000131396": 93,
+      "gas:candidate-vibid:244200071430": 39,
+      "gas:candidate-vibid:1001000112218": 47,
+      "gas:candidate-vibid:1001000225946": 521,
+      "gas:candidate-vibid:1001000188005": 99,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070612&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 69,
-      "Гордеева Марина Владимировна": 212,
-      "Зайцев Анатолий Васильевич": 7,
-      "Карлашов Михаил Васильевич": 25,
-      "Комиссаров Сергей Юрьевич": 273,
-      "Михайлов Владимир Викторович": 59,
-      "Сардаров Сард Селимович": 62,
-      "Сторожев Леонид Вадимович": 31,
-      "Трепов Евгений Александрович": 466,
-      "Чуев Александр Викторович": 77,
-      "Против всех": 242
+      "gas:candidate-vibid:244200070464": 69,
+      "gas:candidate-vibid:1001000190355": 212,
+      "gas:candidate-vibid:1001000195085": 7,
+      "gas:candidate-vibid:1001000136066": 25,
+      "gas:candidate-vibid:244200071218": 273,
+      "gas:candidate-vibid:1001000131396": 59,
+      "gas:candidate-vibid:244200071430": 62,
+      "gas:candidate-vibid:1001000112218": 31,
+      "gas:candidate-vibid:1001000225946": 466,
+      "gas:candidate-vibid:1001000188005": 77,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070612&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 14,
-      "Гордеева Марина Владимировна": 25,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 34,
-      "Михайлов Владимир Викторович": 4,
-      "Сардаров Сард Селимович": 5,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 19,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:244200070464": 14,
+      "gas:candidate-vibid:1001000190355": 25,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 34,
+      "gas:candidate-vibid:1001000131396": 4,
+      "gas:candidate-vibid:244200071430": 5,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 19,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 5,
-      "Гордеева Марина Владимировна": 5,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 24,
-      "Михайлов Владимир Викторович": 5,
-      "Сардаров Сард Селимович": 7,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 29,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:244200070464": 5,
+      "gas:candidate-vibid:1001000190355": 5,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 24,
+      "gas:candidate-vibid:1001000131396": 5,
+      "gas:candidate-vibid:244200071430": 7,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 29,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 153,
-      "Гордеева Марина Владимировна": 140,
-      "Зайцев Анатолий Васильевич": 5,
-      "Карлашов Михаил Васильевич": 11,
-      "Комиссаров Сергей Юрьевич": 391,
-      "Михайлов Владимир Викторович": 93,
-      "Сардаров Сард Селимович": 27,
-      "Сторожев Леонид Вадимович": 13,
-      "Трепов Евгений Александрович": 308,
-      "Чуев Александр Викторович": 14,
-      "Против всех": 47
+      "gas:candidate-vibid:244200070464": 153,
+      "gas:candidate-vibid:1001000190355": 140,
+      "gas:candidate-vibid:1001000195085": 5,
+      "gas:candidate-vibid:1001000136066": 11,
+      "gas:candidate-vibid:244200071218": 391,
+      "gas:candidate-vibid:1001000131396": 93,
+      "gas:candidate-vibid:244200071430": 27,
+      "gas:candidate-vibid:1001000112218": 13,
+      "gas:candidate-vibid:1001000225946": 308,
+      "gas:candidate-vibid:1001000188005": 14,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 14,
-      "Гордеева Марина Владимировна": 5,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 46,
-      "Михайлов Владимир Викторович": 4,
-      "Сардаров Сард Селимович": 22,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 12,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 14,
+      "gas:candidate-vibid:1001000190355": 5,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 46,
+      "gas:candidate-vibid:1001000131396": 4,
+      "gas:candidate-vibid:244200071430": 22,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 12,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 39,
-      "Гордеева Марина Владимировна": 15,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 30,
-      "Михайлов Владимир Викторович": 24,
-      "Сардаров Сард Селимович": 10,
-      "Сторожев Леонид Вадимович": 6,
-      "Трепов Евгений Александрович": 47,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 39,
+      "gas:candidate-vibid:1001000190355": 15,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 30,
+      "gas:candidate-vibid:1001000131396": 24,
+      "gas:candidate-vibid:244200071430": 10,
+      "gas:candidate-vibid:1001000112218": 6,
+      "gas:candidate-vibid:1001000225946": 47,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 48,
-      "Гордеева Марина Владимировна": 6,
-      "Зайцев Анатолий Васильевич": 3,
-      "Карлашов Михаил Васильевич": 1,
-      "Комиссаров Сергей Юрьевич": 40,
-      "Михайлов Владимир Викторович": 15,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 48,
-      "Чуев Александр Викторович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:244200070464": 48,
+      "gas:candidate-vibid:1001000190355": 6,
+      "gas:candidate-vibid:1001000195085": 3,
+      "gas:candidate-vibid:1001000136066": 1,
+      "gas:candidate-vibid:244200071218": 40,
+      "gas:candidate-vibid:1001000131396": 15,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 48,
+      "gas:candidate-vibid:1001000188005": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 30,
-      "Гордеева Марина Владимировна": 22,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 3,
-      "Комиссаров Сергей Юрьевич": 102,
-      "Михайлов Владимир Викторович": 9,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 36,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:244200070464": 30,
+      "gas:candidate-vibid:1001000190355": 22,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 3,
+      "gas:candidate-vibid:244200071218": 102,
+      "gas:candidate-vibid:1001000131396": 9,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 36,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 26,
-      "Гордеева Марина Владимировна": 59,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 5,
-      "Комиссаров Сергей Юрьевич": 77,
-      "Михайлов Владимир Викторович": 11,
-      "Сардаров Сард Селимович": 6,
-      "Сторожев Леонид Вадимович": 1,
-      "Трепов Евгений Александрович": 44,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:244200070464": 26,
+      "gas:candidate-vibid:1001000190355": 59,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 5,
+      "gas:candidate-vibid:244200071218": 77,
+      "gas:candidate-vibid:1001000131396": 11,
+      "gas:candidate-vibid:244200071430": 6,
+      "gas:candidate-vibid:1001000112218": 1,
+      "gas:candidate-vibid:1001000225946": 44,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 35,
-      "Гордеева Марина Владимировна": 12,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 39,
-      "Михайлов Владимир Викторович": 14,
-      "Сардаров Сард Селимович": 8,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 20,
-      "Чуев Александр Викторович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:244200070464": 35,
+      "gas:candidate-vibid:1001000190355": 12,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 39,
+      "gas:candidate-vibid:1001000131396": 14,
+      "gas:candidate-vibid:244200071430": 8,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 20,
+      "gas:candidate-vibid:1001000188005": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 22,
-      "Гордеева Марина Владимировна": 14,
-      "Зайцев Анатолий Васильевич": 0,
-      "Карлашов Михаил Васильевич": 4,
-      "Комиссаров Сергей Юрьевич": 28,
-      "Михайлов Владимир Викторович": 7,
-      "Сардаров Сард Селимович": 9,
-      "Сторожев Леонид Вадимович": 0,
-      "Трепов Евгений Александрович": 24,
-      "Чуев Александр Викторович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:244200070464": 22,
+      "gas:candidate-vibid:1001000190355": 14,
+      "gas:candidate-vibid:1001000195085": 0,
+      "gas:candidate-vibid:1001000136066": 4,
+      "gas:candidate-vibid:244200071218": 28,
+      "gas:candidate-vibid:1001000131396": 7,
+      "gas:candidate-vibid:244200071430": 9,
+      "gas:candidate-vibid:1001000112218": 0,
+      "gas:candidate-vibid:1001000225946": 24,
+      "gas:candidate-vibid:1001000188005": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 35,
-      "Гордеева Марина Владимировна": 4,
-      "Зайцев Анатолий Васильевич": 1,
-      "Карлашов Михаил Васильевич": 0,
-      "Комиссаров Сергей Юрьевич": 28,
-      "Михайлов Владимир Викторович": 11,
-      "Сардаров Сард Селимович": 4,
-      "Сторожев Леонид Вадимович": 2,
-      "Трепов Евгений Александрович": 14,
-      "Чуев Александр Викторович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:244200070464": 35,
+      "gas:candidate-vibid:1001000190355": 4,
+      "gas:candidate-vibid:1001000195085": 1,
+      "gas:candidate-vibid:1001000136066": 0,
+      "gas:candidate-vibid:244200071218": 28,
+      "gas:candidate-vibid:1001000131396": 11,
+      "gas:candidate-vibid:244200071430": 4,
+      "gas:candidate-vibid:1001000112218": 2,
+      "gas:candidate-vibid:1001000225946": 14,
+      "gas:candidate-vibid:1001000188005": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_44_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васин Михаил Николаевич": 31,
-      "Гордеева Марина Владимировна": 47,
-      "Зайцев Анатолий Васильевич": 2,
-      "Карлашов Михаил Васильевич": 2,
-      "Комиссаров Сергей Юрьевич": 85,
-      "Михайлов Владимир Викторович": 15,
-      "Сардаров Сард Селимович": 23,
-      "Сторожев Леонид Вадимович": 4,
-      "Трепов Евгений Александрович": 73,
-      "Чуев Александр Викторович": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:244200070464": 31,
+      "gas:candidate-vibid:1001000190355": 47,
+      "gas:candidate-vibid:1001000195085": 2,
+      "gas:candidate-vibid:1001000136066": 2,
+      "gas:candidate-vibid:244200071218": 85,
+      "gas:candidate-vibid:1001000131396": 15,
+      "gas:candidate-vibid:244200071430": 23,
+      "gas:candidate-vibid:1001000112218": 4,
+      "gas:candidate-vibid:1001000225946": 73,
+      "gas:candidate-vibid:1001000188005": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=442000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=244200070613&region=0&sub_region=0&type=429",

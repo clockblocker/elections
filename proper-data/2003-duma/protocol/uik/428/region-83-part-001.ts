@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 52,
-      "Песков Владислав Владимирович": 16,
-      "Романов Юрий Степанович": 13,
-      "Ружников Андрей Григорьевич": 3,
-      "Ружников Дмитрий Евгеньевич": 8,
-      "Рыбак Элек Лейбович": 4,
-      "Султанов Сергей Николаевич": 3,
-      "Чилингаров Артур Николаевич": 69,
-      "Против всех": 33
+      "gas:candidate-vibid:283200070608": 52,
+      "gas:candidate-vibid:283200070462": 16,
+      "gas:candidate-vibid:1001000121954": 13,
+      "gas:candidate-vibid:283200070749": 3,
+      "gas:candidate-vibid:283200070453": 8,
+      "gas:candidate-vibid:283200070469": 4,
+      "gas:candidate-vibid:283200070800": 3,
+      "gas:candidate-vibid:1001000226022": 69,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 17,
-      "Песков Владислав Владимирович": 2,
-      "Романов Юрий Степанович": 0,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 0,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:283200070608": 17,
+      "gas:candidate-vibid:283200070462": 2,
+      "gas:candidate-vibid:1001000121954": 0,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 0,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 38,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 0,
-      "Ружников Андрей Григорьевич": 1,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 1,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:283200070608": 38,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 0,
+      "gas:candidate-vibid:283200070749": 1,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 1,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 123,
-      "Песков Владислав Владимирович": 59,
-      "Романов Юрий Степанович": 11,
-      "Ружников Андрей Григорьевич": 4,
-      "Ружников Дмитрий Евгеньевич": 13,
-      "Рыбак Элек Лейбович": 46,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 277,
-      "Против всех": 26
+      "gas:candidate-vibid:283200070608": 123,
+      "gas:candidate-vibid:283200070462": 59,
+      "gas:candidate-vibid:1001000121954": 11,
+      "gas:candidate-vibid:283200070749": 4,
+      "gas:candidate-vibid:283200070453": 13,
+      "gas:candidate-vibid:283200070469": 46,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 277,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 9,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 1,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 3,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:283200070608": 9,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 1,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 3,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 33,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 16,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 15,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:283200070608": 33,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 16,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 15,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 86,
-      "Песков Владислав Владимирович": 43,
-      "Романов Юрий Степанович": 29,
-      "Ружников Андрей Григорьевич": 6,
-      "Ружников Дмитрий Евгеньевич": 15,
-      "Рыбак Элек Лейбович": 48,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 144,
-      "Против всех": 18
+      "gas:candidate-vibid:283200070608": 86,
+      "gas:candidate-vibid:283200070462": 43,
+      "gas:candidate-vibid:1001000121954": 29,
+      "gas:candidate-vibid:283200070749": 6,
+      "gas:candidate-vibid:283200070453": 15,
+      "gas:candidate-vibid:283200070469": 48,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 144,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 37,
-      "Песков Владислав Владимирович": 5,
-      "Романов Юрий Степанович": 1,
-      "Ружников Андрей Григорьевич": 1,
-      "Ружников Дмитрий Евгеньевич": 3,
-      "Рыбак Элек Лейбович": 3,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:283200070608": 37,
+      "gas:candidate-vibid:283200070462": 5,
+      "gas:candidate-vibid:1001000121954": 1,
+      "gas:candidate-vibid:283200070749": 1,
+      "gas:candidate-vibid:283200070453": 3,
+      "gas:candidate-vibid:283200070469": 3,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 137,
-      "Песков Владислав Владимирович": 12,
-      "Романов Юрий Степанович": 20,
-      "Ружников Андрей Григорьевич": 8,
-      "Ружников Дмитрий Евгеньевич": 4,
-      "Рыбак Элек Лейбович": 23,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 122,
-      "Против всех": 31
+      "gas:candidate-vibid:283200070608": 137,
+      "gas:candidate-vibid:283200070462": 12,
+      "gas:candidate-vibid:1001000121954": 20,
+      "gas:candidate-vibid:283200070749": 8,
+      "gas:candidate-vibid:283200070453": 4,
+      "gas:candidate-vibid:283200070469": 23,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 122,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 61,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 16,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 9,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:283200070608": 61,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 16,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 9,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 49,
-      "Песков Владислав Владимирович": 2,
-      "Романов Юрий Степанович": 2,
-      "Ружников Андрей Григорьевич": 1,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 40,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:283200070608": 49,
+      "gas:candidate-vibid:283200070462": 2,
+      "gas:candidate-vibid:1001000121954": 2,
+      "gas:candidate-vibid:283200070749": 1,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 40,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 20,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 2,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 14,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:283200070608": 20,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 2,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 14,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 9,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 2,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 4,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:283200070608": 9,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 2,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 4,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 76,
-      "Песков Владислав Владимирович": 73,
-      "Романов Юрий Степанович": 6,
-      "Ружников Андрей Григорьевич": 1,
-      "Ружников Дмитрий Евгеньевич": 3,
-      "Рыбак Элек Лейбович": 32,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 81,
-      "Против всех": 18
+      "gas:candidate-vibid:283200070608": 76,
+      "gas:candidate-vibid:283200070462": 73,
+      "gas:candidate-vibid:1001000121954": 6,
+      "gas:candidate-vibid:283200070749": 1,
+      "gas:candidate-vibid:283200070453": 3,
+      "gas:candidate-vibid:283200070469": 32,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 81,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 46,
-      "Песков Владислав Владимирович": 10,
-      "Романов Юрий Степанович": 0,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 27,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 10,
-      "Против всех": 3
+      "gas:candidate-vibid:283200070608": 46,
+      "gas:candidate-vibid:283200070462": 10,
+      "gas:candidate-vibid:1001000121954": 0,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 27,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 10,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 73,
-      "Песков Владислав Владимирович": 4,
-      "Романов Юрий Степанович": 35,
-      "Ружников Андрей Григорьевич": 6,
-      "Ружников Дмитрий Евгеньевич": 9,
-      "Рыбак Элек Лейбович": 34,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 54,
-      "Против всех": 14
+      "gas:candidate-vibid:283200070608": 73,
+      "gas:candidate-vibid:283200070462": 4,
+      "gas:candidate-vibid:1001000121954": 35,
+      "gas:candidate-vibid:283200070749": 6,
+      "gas:candidate-vibid:283200070453": 9,
+      "gas:candidate-vibid:283200070469": 34,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 54,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 59,
-      "Песков Владислав Владимирович": 2,
-      "Романов Юрий Степанович": 20,
-      "Ружников Андрей Григорьевич": 9,
-      "Ружников Дмитрий Евгеньевич": 2,
-      "Рыбак Элек Лейбович": 155,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 96,
-      "Против всех": 26
+      "gas:candidate-vibid:283200070608": 59,
+      "gas:candidate-vibid:283200070462": 2,
+      "gas:candidate-vibid:1001000121954": 20,
+      "gas:candidate-vibid:283200070749": 9,
+      "gas:candidate-vibid:283200070453": 2,
+      "gas:candidate-vibid:283200070469": 155,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 96,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 26,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 1,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 30,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:283200070608": 26,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 1,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 30,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 20,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 0,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 43,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 12,
-      "Против всех": 4
+      "gas:candidate-vibid:283200070608": 20,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 0,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 43,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 12,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 55,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 13,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 30,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 29,
-      "Против всех": 8
+      "gas:candidate-vibid:283200070608": 55,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 13,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 30,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 29,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 10,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 1,
-      "Ружников Андрей Григорьевич": 2,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 11,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:283200070608": 10,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 1,
+      "gas:candidate-vibid:283200070749": 2,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 11,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 53,
-      "Песков Владислав Владимирович": 10,
-      "Романов Юрий Степанович": 18,
-      "Ружников Андрей Григорьевич": 1,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 21,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 50,
-      "Против всех": 8
+      "gas:candidate-vibid:283200070608": 53,
+      "gas:candidate-vibid:283200070462": 10,
+      "gas:candidate-vibid:1001000121954": 18,
+      "gas:candidate-vibid:283200070749": 1,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 21,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 50,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 18,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 11,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 11,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 54,
-      "Против всех": 3
+      "gas:candidate-vibid:283200070608": 18,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 11,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 11,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 54,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 76,
-      "Песков Владислав Владимирович": 3,
-      "Романов Юрий Степанович": 11,
-      "Ружников Андрей Григорьевич": 3,
-      "Ружников Дмитрий Евгеньевич": 5,
-      "Рыбак Элек Лейбович": 18,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 94,
-      "Против всех": 15
+      "gas:candidate-vibid:283200070608": 76,
+      "gas:candidate-vibid:283200070462": 3,
+      "gas:candidate-vibid:1001000121954": 11,
+      "gas:candidate-vibid:283200070749": 3,
+      "gas:candidate-vibid:283200070453": 5,
+      "gas:candidate-vibid:283200070469": 18,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 94,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 55,
-      "Песков Владислав Владимирович": 3,
-      "Романов Юрий Степанович": 7,
-      "Ружников Андрей Григорьевич": 24,
-      "Ружников Дмитрий Евгеньевич": 5,
-      "Рыбак Элек Лейбович": 14,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 123,
-      "Против всех": 8
+      "gas:candidate-vibid:283200070608": 55,
+      "gas:candidate-vibid:283200070462": 3,
+      "gas:candidate-vibid:1001000121954": 7,
+      "gas:candidate-vibid:283200070749": 24,
+      "gas:candidate-vibid:283200070453": 5,
+      "gas:candidate-vibid:283200070469": 14,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 123,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 66,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 8,
-      "Ружников Андрей Григорьевич": 1,
-      "Ружников Дмитрий Евгеньевич": 4,
-      "Рыбак Элек Лейбович": 10,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 67,
-      "Против всех": 3
+      "gas:candidate-vibid:283200070608": 66,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 8,
+      "gas:candidate-vibid:283200070749": 1,
+      "gas:candidate-vibid:283200070453": 4,
+      "gas:candidate-vibid:283200070469": 10,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 67,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 25,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 4,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 8,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:283200070608": 25,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 4,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 8,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 352,
-      "Песков Владислав Владимирович": 59,
-      "Романов Юрий Степанович": 12,
-      "Ружников Андрей Григорьевич": 17,
-      "Ружников Дмитрий Евгеньевич": 9,
-      "Рыбак Элек Лейбович": 47,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 145,
-      "Против всех": 38
+      "gas:candidate-vibid:283200070608": 352,
+      "gas:candidate-vibid:283200070462": 59,
+      "gas:candidate-vibid:1001000121954": 12,
+      "gas:candidate-vibid:283200070749": 17,
+      "gas:candidate-vibid:283200070453": 9,
+      "gas:candidate-vibid:283200070469": 47,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 145,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 198,
-      "Песков Владислав Владимирович": 29,
-      "Романов Юрий Степанович": 10,
-      "Ружников Андрей Григорьевич": 3,
-      "Ружников Дмитрий Евгеньевич": 4,
-      "Рыбак Элек Лейбович": 37,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 127,
-      "Против всех": 22
+      "gas:candidate-vibid:283200070608": 198,
+      "gas:candidate-vibid:283200070462": 29,
+      "gas:candidate-vibid:1001000121954": 10,
+      "gas:candidate-vibid:283200070749": 3,
+      "gas:candidate-vibid:283200070453": 4,
+      "gas:candidate-vibid:283200070469": 37,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 127,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 50,
-      "Песков Владислав Владимирович": 2,
-      "Романов Юрий Степанович": 3,
-      "Ружников Андрей Григорьевич": 8,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 13,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 58,
-      "Против всех": 7
+      "gas:candidate-vibid:283200070608": 50,
+      "gas:candidate-vibid:283200070462": 2,
+      "gas:candidate-vibid:1001000121954": 3,
+      "gas:candidate-vibid:283200070749": 8,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 13,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 58,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 4,
-      "Песков Владислав Владимирович": 0,
-      "Романов Юрий Степанович": 0,
-      "Ружников Андрей Григорьевич": 1,
-      "Ружников Дмитрий Евгеньевич": 0,
-      "Рыбак Элек Лейбович": 0,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:283200070608": 4,
+      "gas:candidate-vibid:283200070462": 0,
+      "gas:candidate-vibid:1001000121954": 0,
+      "gas:candidate-vibid:283200070749": 1,
+      "gas:candidate-vibid:283200070453": 0,
+      "gas:candidate-vibid:283200070469": 0,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 49,
-      "Песков Владислав Владимирович": 44,
-      "Романов Юрий Степанович": 9,
-      "Ружников Андрей Григорьевич": 3,
-      "Ружников Дмитрий Евгеньевич": 6,
-      "Рыбак Элек Лейбович": 9,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 157,
-      "Против всех": 35
+      "gas:candidate-vibid:283200070608": 49,
+      "gas:candidate-vibid:283200070462": 44,
+      "gas:candidate-vibid:1001000121954": 9,
+      "gas:candidate-vibid:283200070749": 3,
+      "gas:candidate-vibid:283200070453": 6,
+      "gas:candidate-vibid:283200070469": 9,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 157,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 126,
-      "Песков Владислав Владимирович": 10,
-      "Романов Юрий Степанович": 5,
-      "Ружников Андрей Григорьевич": 0,
-      "Ружников Дмитрий Евгеньевич": 4,
-      "Рыбак Элек Лейбович": 21,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 64,
-      "Против всех": 16
+      "gas:candidate-vibid:283200070608": 126,
+      "gas:candidate-vibid:283200070462": 10,
+      "gas:candidate-vibid:1001000121954": 5,
+      "gas:candidate-vibid:283200070749": 0,
+      "gas:candidate-vibid:283200070453": 4,
+      "gas:candidate-vibid:283200070469": 21,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 64,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 117,
-      "Песков Владислав Владимирович": 16,
-      "Романов Юрий Степанович": 6,
-      "Ружников Андрей Григорьевич": 14,
-      "Ружников Дмитрий Евгеньевич": 12,
-      "Рыбак Элек Лейбович": 26,
-      "Султанов Сергей Николаевич": 4,
-      "Чилингаров Артур Николаевич": 137,
-      "Против всех": 18
+      "gas:candidate-vibid:283200070608": 117,
+      "gas:candidate-vibid:283200070462": 16,
+      "gas:candidate-vibid:1001000121954": 6,
+      "gas:candidate-vibid:283200070749": 14,
+      "gas:candidate-vibid:283200070453": 12,
+      "gas:candidate-vibid:283200070469": 26,
+      "gas:candidate-vibid:283200070800": 4,
+      "gas:candidate-vibid:1001000226022": 137,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 103,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 1,
-      "Ружников Андрей Григорьевич": 2,
-      "Ружников Дмитрий Евгеньевич": 2,
-      "Рыбак Элек Лейбович": 21,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 124,
-      "Против всех": 15
+      "gas:candidate-vibid:283200070608": 103,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 1,
+      "gas:candidate-vibid:283200070749": 2,
+      "gas:candidate-vibid:283200070453": 2,
+      "gas:candidate-vibid:283200070469": 21,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 124,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 55,
-      "Песков Владислав Владимирович": 17,
-      "Романов Юрий Степанович": 1,
-      "Ружников Андрей Григорьевич": 2,
-      "Ружников Дмитрий Евгеньевич": 1,
-      "Рыбак Элек Лейбович": 10,
-      "Султанов Сергей Николаевич": 10,
-      "Чилингаров Артур Николаевич": 73,
-      "Против всех": 21
+      "gas:candidate-vibid:283200070608": 55,
+      "gas:candidate-vibid:283200070462": 17,
+      "gas:candidate-vibid:1001000121954": 1,
+      "gas:candidate-vibid:283200070749": 2,
+      "gas:candidate-vibid:283200070453": 1,
+      "gas:candidate-vibid:283200070469": 10,
+      "gas:candidate-vibid:283200070800": 10,
+      "gas:candidate-vibid:1001000226022": 73,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 64,
-      "Песков Владислав Владимирович": 3,
-      "Романов Юрий Степанович": 12,
-      "Ружников Андрей Григорьевич": 9,
-      "Ружников Дмитрий Евгеньевич": 21,
-      "Рыбак Элек Лейбович": 30,
-      "Султанов Сергей Николаевич": 11,
-      "Чилингаров Артур Николаевич": 80,
-      "Против всех": 37
+      "gas:candidate-vibid:283200070608": 64,
+      "gas:candidate-vibid:283200070462": 3,
+      "gas:candidate-vibid:1001000121954": 12,
+      "gas:candidate-vibid:283200070749": 9,
+      "gas:candidate-vibid:283200070453": 21,
+      "gas:candidate-vibid:283200070469": 30,
+      "gas:candidate-vibid:283200070800": 11,
+      "gas:candidate-vibid:1001000226022": 80,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 173,
-      "Песков Владислав Владимирович": 29,
-      "Романов Юрий Степанович": 62,
-      "Ружников Андрей Григорьевич": 20,
-      "Ружников Дмитрий Евгеньевич": 35,
-      "Рыбак Элек Лейбович": 142,
-      "Султанов Сергей Николаевич": 2,
-      "Чилингаров Артур Николаевич": 711,
-      "Против всех": 134
+      "gas:candidate-vibid:283200070608": 173,
+      "gas:candidate-vibid:283200070462": 29,
+      "gas:candidate-vibid:1001000121954": 62,
+      "gas:candidate-vibid:283200070749": 20,
+      "gas:candidate-vibid:283200070453": 35,
+      "gas:candidate-vibid:283200070469": 142,
+      "gas:candidate-vibid:283200070800": 2,
+      "gas:candidate-vibid:1001000226022": 711,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 117,
-      "Песков Владислав Владимирович": 12,
-      "Романов Юрий Степанович": 40,
-      "Ружников Андрей Григорьевич": 19,
-      "Ружников Дмитрий Евгеньевич": 35,
-      "Рыбак Элек Лейбович": 116,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 504,
-      "Против всех": 94
+      "gas:candidate-vibid:283200070608": 117,
+      "gas:candidate-vibid:283200070462": 12,
+      "gas:candidate-vibid:1001000121954": 40,
+      "gas:candidate-vibid:283200070749": 19,
+      "gas:candidate-vibid:283200070453": 35,
+      "gas:candidate-vibid:283200070469": 116,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 504,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 35,
-      "Песков Владислав Владимирович": 9,
-      "Романов Юрий Степанович": 13,
-      "Ружников Андрей Григорьевич": 6,
-      "Ружников Дмитрий Евгеньевич": 6,
-      "Рыбак Элек Лейбович": 26,
-      "Султанов Сергей Николаевич": 2,
-      "Чилингаров Артур Николаевич": 146,
-      "Против всех": 31
+      "gas:candidate-vibid:283200070608": 35,
+      "gas:candidate-vibid:283200070462": 9,
+      "gas:candidate-vibid:1001000121954": 13,
+      "gas:candidate-vibid:283200070749": 6,
+      "gas:candidate-vibid:283200070453": 6,
+      "gas:candidate-vibid:283200070469": 26,
+      "gas:candidate-vibid:283200070800": 2,
+      "gas:candidate-vibid:1001000226022": 146,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 62,
-      "Песков Владислав Владимирович": 6,
-      "Романов Юрий Степанович": 10,
-      "Ружников Андрей Григорьевич": 10,
-      "Ружников Дмитрий Евгеньевич": 19,
-      "Рыбак Элек Лейбович": 126,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 197,
-      "Против всех": 42
+      "gas:candidate-vibid:283200070608": 62,
+      "gas:candidate-vibid:283200070462": 6,
+      "gas:candidate-vibid:1001000121954": 10,
+      "gas:candidate-vibid:283200070749": 10,
+      "gas:candidate-vibid:283200070453": 19,
+      "gas:candidate-vibid:283200070469": 126,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 197,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070441&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 63,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 18,
-      "Ружников Андрей Григорьевич": 8,
-      "Ружников Дмитрий Евгеньевич": 19,
-      "Рыбак Элек Лейбович": 50,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 213,
-      "Против всех": 40
+      "gas:candidate-vibid:283200070608": 63,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 18,
+      "gas:candidate-vibid:283200070749": 8,
+      "gas:candidate-vibid:283200070453": 19,
+      "gas:candidate-vibid:283200070469": 50,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 213,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 148,
-      "Песков Владислав Владимирович": 35,
-      "Романов Юрий Степанович": 46,
-      "Ружников Андрей Григорьевич": 30,
-      "Ружников Дмитрий Евгеньевич": 57,
-      "Рыбак Элек Лейбович": 112,
-      "Султанов Сергей Николаевич": 2,
-      "Чилингаров Артур Николаевич": 449,
-      "Против всех": 74
+      "gas:candidate-vibid:283200070608": 148,
+      "gas:candidate-vibid:283200070462": 35,
+      "gas:candidate-vibid:1001000121954": 46,
+      "gas:candidate-vibid:283200070749": 30,
+      "gas:candidate-vibid:283200070453": 57,
+      "gas:candidate-vibid:283200070469": 112,
+      "gas:candidate-vibid:283200070800": 2,
+      "gas:candidate-vibid:1001000226022": 449,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 61,
-      "Песков Владислав Владимирович": 9,
-      "Романов Юрий Степанович": 41,
-      "Ружников Андрей Григорьевич": 7,
-      "Ружников Дмитрий Евгеньевич": 21,
-      "Рыбак Элек Лейбович": 51,
-      "Султанов Сергей Николаевич": 2,
-      "Чилингаров Артур Николаевич": 329,
-      "Против всех": 34
+      "gas:candidate-vibid:283200070608": 61,
+      "gas:candidate-vibid:283200070462": 9,
+      "gas:candidate-vibid:1001000121954": 41,
+      "gas:candidate-vibid:283200070749": 7,
+      "gas:candidate-vibid:283200070453": 21,
+      "gas:candidate-vibid:283200070469": 51,
+      "gas:candidate-vibid:283200070800": 2,
+      "gas:candidate-vibid:1001000226022": 329,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 131,
-      "Песков Владислав Владимирович": 16,
-      "Романов Юрий Степанович": 80,
-      "Ружников Андрей Григорьевич": 34,
-      "Ружников Дмитрий Евгеньевич": 55,
-      "Рыбак Элек Лейбович": 141,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 506,
-      "Против всех": 78
+      "gas:candidate-vibid:283200070608": 131,
+      "gas:candidate-vibid:283200070462": 16,
+      "gas:candidate-vibid:1001000121954": 80,
+      "gas:candidate-vibid:283200070749": 34,
+      "gas:candidate-vibid:283200070453": 55,
+      "gas:candidate-vibid:283200070469": 141,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 506,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 68,
-      "Песков Владислав Владимирович": 15,
-      "Романов Юрий Степанович": 19,
-      "Ружников Андрей Григорьевич": 12,
-      "Ружников Дмитрий Евгеньевич": 34,
-      "Рыбак Элек Лейбович": 68,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 236,
-      "Против всех": 42
+      "gas:candidate-vibid:283200070608": 68,
+      "gas:candidate-vibid:283200070462": 15,
+      "gas:candidate-vibid:1001000121954": 19,
+      "gas:candidate-vibid:283200070749": 12,
+      "gas:candidate-vibid:283200070453": 34,
+      "gas:candidate-vibid:283200070469": 68,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 236,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 58,
-      "Песков Владислав Владимирович": 11,
-      "Романов Юрий Степанович": 19,
-      "Ружников Андрей Григорьевич": 19,
-      "Ружников Дмитрий Евгеньевич": 16,
-      "Рыбак Элек Лейбович": 39,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 232,
-      "Против всех": 59
+      "gas:candidate-vibid:283200070608": 58,
+      "gas:candidate-vibid:283200070462": 11,
+      "gas:candidate-vibid:1001000121954": 19,
+      "gas:candidate-vibid:283200070749": 19,
+      "gas:candidate-vibid:283200070453": 16,
+      "gas:candidate-vibid:283200070469": 39,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 232,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 147,
-      "Песков Владислав Владимирович": 21,
-      "Романов Юрий Степанович": 80,
-      "Ружников Андрей Григорьевич": 9,
-      "Ружников Дмитрий Евгеньевич": 27,
-      "Рыбак Элек Лейбович": 105,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 471,
-      "Против всех": 86
+      "gas:candidate-vibid:283200070608": 147,
+      "gas:candidate-vibid:283200070462": 21,
+      "gas:candidate-vibid:1001000121954": 80,
+      "gas:candidate-vibid:283200070749": 9,
+      "gas:candidate-vibid:283200070453": 27,
+      "gas:candidate-vibid:283200070469": 105,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 471,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 69,
-      "Песков Владислав Владимирович": 3,
-      "Романов Юрий Степанович": 26,
-      "Ружников Андрей Григорьевич": 17,
-      "Ружников Дмитрий Евгеньевич": 13,
-      "Рыбак Элек Лейбович": 49,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 186,
-      "Против всех": 22
+      "gas:candidate-vibid:283200070608": 69,
+      "gas:candidate-vibid:283200070462": 3,
+      "gas:candidate-vibid:1001000121954": 26,
+      "gas:candidate-vibid:283200070749": 17,
+      "gas:candidate-vibid:283200070453": 13,
+      "gas:candidate-vibid:283200070469": 49,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 186,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 114,
-      "Песков Владислав Владимирович": 5,
-      "Романов Юрий Степанович": 24,
-      "Ружников Андрей Григорьевич": 14,
-      "Ружников Дмитрий Евгеньевич": 19,
-      "Рыбак Элек Лейбович": 100,
-      "Султанов Сергей Николаевич": 2,
-      "Чилингаров Артур Николаевич": 333,
-      "Против всех": 40
+      "gas:candidate-vibid:283200070608": 114,
+      "gas:candidate-vibid:283200070462": 5,
+      "gas:candidate-vibid:1001000121954": 24,
+      "gas:candidate-vibid:283200070749": 14,
+      "gas:candidate-vibid:283200070453": 19,
+      "gas:candidate-vibid:283200070469": 100,
+      "gas:candidate-vibid:283200070800": 2,
+      "gas:candidate-vibid:1001000226022": 333,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 94,
-      "Песков Владислав Владимирович": 11,
-      "Романов Юрий Степанович": 21,
-      "Ружников Андрей Григорьевич": 12,
-      "Ружников Дмитрий Евгеньевич": 35,
-      "Рыбак Элек Лейбович": 58,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 279,
-      "Против всех": 44
+      "gas:candidate-vibid:283200070608": 94,
+      "gas:candidate-vibid:283200070462": 11,
+      "gas:candidate-vibid:1001000121954": 21,
+      "gas:candidate-vibid:283200070749": 12,
+      "gas:candidate-vibid:283200070453": 35,
+      "gas:candidate-vibid:283200070469": 58,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 279,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 24,
-      "Песков Владислав Владимирович": 1,
-      "Романов Юрий Степанович": 6,
-      "Ружников Андрей Григорьевич": 11,
-      "Ружников Дмитрий Евгеньевич": 11,
-      "Рыбак Элек Лейбович": 41,
-      "Султанов Сергей Николаевич": 2,
-      "Чилингаров Артур Николаевич": 107,
-      "Против всех": 14
+      "gas:candidate-vibid:283200070608": 24,
+      "gas:candidate-vibid:283200070462": 1,
+      "gas:candidate-vibid:1001000121954": 6,
+      "gas:candidate-vibid:283200070749": 11,
+      "gas:candidate-vibid:283200070453": 11,
+      "gas:candidate-vibid:283200070469": 41,
+      "gas:candidate-vibid:283200070800": 2,
+      "gas:candidate-vibid:1001000226022": 107,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 102,
-      "Песков Владислав Владимирович": 11,
-      "Романов Юрий Степанович": 28,
-      "Ружников Андрей Григорьевич": 55,
-      "Ружников Дмитрий Евгеньевич": 14,
-      "Рыбак Элек Лейбович": 160,
-      "Султанов Сергей Николаевич": 3,
-      "Чилингаров Артур Николаевич": 554,
-      "Против всех": 69
+      "gas:candidate-vibid:283200070608": 102,
+      "gas:candidate-vibid:283200070462": 11,
+      "gas:candidate-vibid:1001000121954": 28,
+      "gas:candidate-vibid:283200070749": 55,
+      "gas:candidate-vibid:283200070453": 14,
+      "gas:candidate-vibid:283200070469": 160,
+      "gas:candidate-vibid:283200070800": 3,
+      "gas:candidate-vibid:1001000226022": 554,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 30,
-      "Песков Владислав Владимирович": 4,
-      "Романов Юрий Степанович": 7,
-      "Ружников Андрей Григорьевич": 7,
-      "Ружников Дмитрий Евгеньевич": 5,
-      "Рыбак Элек Лейбович": 29,
-      "Султанов Сергей Николаевич": 1,
-      "Чилингаров Артур Николаевич": 78,
-      "Против всех": 14
+      "gas:candidate-vibid:283200070608": 30,
+      "gas:candidate-vibid:283200070462": 4,
+      "gas:candidate-vibid:1001000121954": 7,
+      "gas:candidate-vibid:283200070749": 7,
+      "gas:candidate-vibid:283200070453": 5,
+      "gas:candidate-vibid:283200070469": 29,
+      "gas:candidate-vibid:283200070800": 1,
+      "gas:candidate-vibid:1001000226022": 78,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 73,
-      "Песков Владислав Владимирович": 13,
-      "Романов Юрий Степанович": 49,
-      "Ружников Андрей Григорьевич": 15,
-      "Ружников Дмитрий Евгеньевич": 22,
-      "Рыбак Элек Лейбович": 78,
-      "Султанов Сергей Николаевич": 2,
-      "Чилингаров Артур Николаевич": 365,
-      "Против всех": 42
+      "gas:candidate-vibid:283200070608": 73,
+      "gas:candidate-vibid:283200070462": 13,
+      "gas:candidate-vibid:1001000121954": 49,
+      "gas:candidate-vibid:283200070749": 15,
+      "gas:candidate-vibid:283200070453": 22,
+      "gas:candidate-vibid:283200070469": 78,
+      "gas:candidate-vibid:283200070800": 2,
+      "gas:candidate-vibid:1001000226022": 365,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_83_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Корепанов Вячеслав Кузьмич": 16,
-      "Песков Владислав Владимирович": 6,
-      "Романов Юрий Степанович": 5,
-      "Ружников Андрей Григорьевич": 2,
-      "Ружников Дмитрий Евгеньевич": 6,
-      "Рыбак Элек Лейбович": 11,
-      "Султанов Сергей Николаевич": 0,
-      "Чилингаров Артур Николаевич": 65,
-      "Против всех": 10
+      "gas:candidate-vibid:283200070608": 16,
+      "gas:candidate-vibid:283200070462": 6,
+      "gas:candidate-vibid:1001000121954": 5,
+      "gas:candidate-vibid:283200070749": 2,
+      "gas:candidate-vibid:283200070453": 6,
+      "gas:candidate-vibid:283200070469": 11,
+      "gas:candidate-vibid:283200070800": 0,
+      "gas:candidate-vibid:1001000226022": 65,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=832000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=283200070442&region=0&sub_region=0&type=429",

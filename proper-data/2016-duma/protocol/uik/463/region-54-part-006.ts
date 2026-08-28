@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 29,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 29,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234756&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234756&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 23,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 10,
-      "Карелин Александр Александрович": 78,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 12,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 23,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 10,
+      "gas:candidate-vibid:25420001433204": 78,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 12,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234756&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234756&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 105,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 13,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 105,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 13,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234756&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234756&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 73,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 26,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 73,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 26,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234756&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234756&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 28,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 129,
-      "Лоскутова Людмила Ивановна": 11,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 35,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 28,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 129,
+      "gas:candidate-vibid:25420001432346": 11,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 35,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 56,
-      "Лоскутова Людмила Ивановна": 9,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 12,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 56,
+      "gas:candidate-vibid:25420001432346": 9,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 12,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 35,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 12,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 35,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 12,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 12,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 63,
-      "Лоскутова Людмила Ивановна": 9,
-      "Мадин Анатолий Дмитриевич": 6,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 19,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 12,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 63,
+      "gas:candidate-vibid:25420001432346": 9,
+      "gas:candidate-vibid:25420001434719": 6,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 19,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 23,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 11,
-      "Карелин Александр Александрович": 106,
-      "Лоскутова Людмила Ивановна": 9,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 35,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 23,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 11,
+      "gas:candidate-vibid:25420001433204": 106,
+      "gas:candidate-vibid:25420001432346": 9,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 35,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 69,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 50,
-      "Карелин Александр Александрович": 241,
-      "Лоскутова Людмила Ивановна": 25,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 131,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 69,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 50,
+      "gas:candidate-vibid:25420001433204": 241,
+      "gas:candidate-vibid:25420001432346": 25,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 131,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 70,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 49,
-      "Карелин Александр Александрович": 196,
-      "Лоскутова Людмила Ивановна": 37,
-      "Мадин Анатолий Дмитриевич": 6,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 118,
-      "Хазин Михаил Леонидович": 12,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 70,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 49,
+      "gas:candidate-vibid:25420001433204": 196,
+      "gas:candidate-vibid:25420001432346": 37,
+      "gas:candidate-vibid:25420001434719": 6,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 118,
+      "gas:candidate-vibid:25420001434367": 12,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 96,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 51,
-      "Карелин Александр Александрович": 168,
-      "Лоскутова Людмила Ивановна": 23,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 10,
-      "Суворов Олег Геннадьевич": 71,
-      "Хазин Михаил Леонидович": 13,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 96,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 51,
+      "gas:candidate-vibid:25420001433204": 168,
+      "gas:candidate-vibid:25420001432346": 23,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 10,
+      "gas:candidate-vibid:25420001360422": 71,
+      "gas:candidate-vibid:25420001434367": 13,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 83,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 55,
-      "Карелин Александр Александрович": 190,
-      "Лоскутова Людмила Ивановна": 22,
-      "Мадин Анатолий Дмитриевич": 6,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 107,
-      "Хазин Михаил Леонидович": 13,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 83,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 55,
+      "gas:candidate-vibid:25420001433204": 190,
+      "gas:candidate-vibid:25420001432346": 22,
+      "gas:candidate-vibid:25420001434719": 6,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 107,
+      "gas:candidate-vibid:25420001434367": 13,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 74,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 42,
-      "Карелин Александр Александрович": 167,
-      "Лоскутова Людмила Ивановна": 29,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 75,
-      "Хазин Михаил Леонидович": 8,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 74,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 42,
+      "gas:candidate-vibid:25420001433204": 167,
+      "gas:candidate-vibid:25420001432346": 29,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 75,
+      "gas:candidate-vibid:25420001434367": 8,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 93,
-      "Гричуков Иван Сергеевич": 9,
-      "Иванов Данил Сергеевич": 44,
-      "Карелин Александр Александрович": 281,
-      "Лоскутова Людмила Ивановна": 25,
-      "Мадин Анатолий Дмитриевич": 10,
-      "Савин Егор Григорьевич": 10,
-      "Суворов Олег Геннадьевич": 119,
-      "Хазин Михаил Леонидович": 10,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 93,
+      "gas:candidate-vibid:25420001434824": 9,
+      "gas:candidate-vibid:25420001431039": 44,
+      "gas:candidate-vibid:25420001433204": 281,
+      "gas:candidate-vibid:25420001432346": 25,
+      "gas:candidate-vibid:25420001434719": 10,
+      "gas:candidate-vibid:25420001430618": 10,
+      "gas:candidate-vibid:25420001360422": 119,
+      "gas:candidate-vibid:25420001434367": 10,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 90,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 47,
-      "Карелин Александр Александрович": 174,
-      "Лоскутова Людмила Ивановна": 28,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 10,
-      "Суворов Олег Геннадьевич": 96,
-      "Хазин Михаил Леонидович": 17,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 90,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 47,
+      "gas:candidate-vibid:25420001433204": 174,
+      "gas:candidate-vibid:25420001432346": 28,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 10,
+      "gas:candidate-vibid:25420001360422": 96,
+      "gas:candidate-vibid:25420001434367": 17,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 75,
-      "Гричуков Иван Сергеевич": 9,
-      "Иванов Данил Сергеевич": 52,
-      "Карелин Александр Александрович": 164,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 96,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 6
+      "gas:candidate-vibid:25420001431685": 75,
+      "gas:candidate-vibid:25420001434824": 9,
+      "gas:candidate-vibid:25420001431039": 52,
+      "gas:candidate-vibid:25420001433204": 164,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 96,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 81,
-      "Гричуков Иван Сергеевич": 7,
-      "Иванов Данил Сергеевич": 50,
-      "Карелин Александр Александрович": 222,
-      "Лоскутова Людмила Ивановна": 24,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 9,
-      "Суворов Олег Геннадьевич": 96,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 8
+      "gas:candidate-vibid:25420001431685": 81,
+      "gas:candidate-vibid:25420001434824": 7,
+      "gas:candidate-vibid:25420001431039": 50,
+      "gas:candidate-vibid:25420001433204": 222,
+      "gas:candidate-vibid:25420001432346": 24,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 9,
+      "gas:candidate-vibid:25420001360422": 96,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 77,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 61,
-      "Карелин Александр Александрович": 185,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 93,
-      "Хазин Михаил Леонидович": 11,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 77,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 61,
+      "gas:candidate-vibid:25420001433204": 185,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 93,
+      "gas:candidate-vibid:25420001434367": 11,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 59,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 48,
-      "Карелин Александр Александрович": 143,
-      "Лоскутова Людмила Ивановна": 27,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 81,
-      "Хазин Михаил Леонидович": 5,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 59,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 48,
+      "gas:candidate-vibid:25420001433204": 143,
+      "gas:candidate-vibid:25420001432346": 27,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 81,
+      "gas:candidate-vibid:25420001434367": 5,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 75,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 58,
-      "Карелин Александр Александрович": 201,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 92,
-      "Хазин Михаил Леонидович": 18,
-      "Языковский Игорь Игоревич": 8
+      "gas:candidate-vibid:25420001431685": 75,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 58,
+      "gas:candidate-vibid:25420001433204": 201,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 92,
+      "gas:candidate-vibid:25420001434367": 18,
+      "gas:candidate-vibid:25420001434347": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 87,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 22,
-      "Карелин Александр Александрович": 225,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 78,
-      "Хазин Михаил Леонидович": 12,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 87,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 22,
+      "gas:candidate-vibid:25420001433204": 225,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 78,
+      "gas:candidate-vibid:25420001434367": 12,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 26,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 10,
-      "Карелин Александр Александрович": 104,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 39,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 26,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 10,
+      "gas:candidate-vibid:25420001433204": 104,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 39,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 19,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 33,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 14,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 19,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 33,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 14,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 9,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 10,
-      "Карелин Александр Александрович": 55,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 17,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 9,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 10,
+      "gas:candidate-vibid:25420001433204": 55,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 17,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 74,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 22,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 74,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 22,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 50,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 11,
-      "Карелин Александр Александрович": 104,
-      "Лоскутова Людмила Ивановна": 9,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 50,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 50,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 11,
+      "gas:candidate-vibid:25420001433204": 104,
+      "gas:candidate-vibid:25420001432346": 9,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 50,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 109,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 47,
-      "Карелин Александр Александрович": 300,
-      "Лоскутова Людмила Ивановна": 37,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 10,
-      "Суворов Олег Геннадьевич": 134,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 109,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 47,
+      "gas:candidate-vibid:25420001433204": 300,
+      "gas:candidate-vibid:25420001432346": 37,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 10,
+      "gas:candidate-vibid:25420001360422": 134,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 21,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 57,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 34,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 21,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 57,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 34,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 89,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 37,
-      "Карелин Александр Александрович": 250,
-      "Лоскутова Людмила Ивановна": 36,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 9,
-      "Суворов Олег Геннадьевич": 100,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 6
+      "gas:candidate-vibid:25420001431685": 89,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 37,
+      "gas:candidate-vibid:25420001433204": 250,
+      "gas:candidate-vibid:25420001432346": 36,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 9,
+      "gas:candidate-vibid:25420001360422": 100,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 34,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 11,
-      "Карелин Александр Александрович": 130,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 34,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 34,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 11,
+      "gas:candidate-vibid:25420001433204": 130,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 34,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 74,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 42,
-      "Карелин Александр Александрович": 320,
-      "Лоскутова Людмила Ивановна": 22,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 11,
-      "Суворов Олег Геннадьевич": 75,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 74,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 42,
+      "gas:candidate-vibid:25420001433204": 320,
+      "gas:candidate-vibid:25420001432346": 22,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 11,
+      "gas:candidate-vibid:25420001360422": 75,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 16,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 13,
-      "Карелин Александр Александрович": 91,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 52,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 16,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 13,
+      "gas:candidate-vibid:25420001433204": 91,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 52,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 28,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 16,
-      "Карелин Александр Александрович": 162,
-      "Лоскутова Людмила Ивановна": 15,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 23,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 28,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 16,
+      "gas:candidate-vibid:25420001433204": 162,
+      "gas:candidate-vibid:25420001432346": 15,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 23,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 26,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 16,
-      "Карелин Александр Александрович": 113,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 22,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 26,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 16,
+      "gas:candidate-vibid:25420001433204": 113,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 22,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 22,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 8,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 22,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 8,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 87,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 32,
-      "Карелин Александр Александрович": 154,
-      "Лоскутова Людмила Ивановна": 24,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 11,
-      "Суворов Олег Геннадьевич": 76,
-      "Хазин Михаил Леонидович": 11,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 87,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 32,
+      "gas:candidate-vibid:25420001433204": 154,
+      "gas:candidate-vibid:25420001432346": 24,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 11,
+      "gas:candidate-vibid:25420001360422": 76,
+      "gas:candidate-vibid:25420001434367": 11,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 25,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 17,
-      "Карелин Александр Александрович": 84,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 20,
-      "Суворов Олег Геннадьевич": 23,
-      "Хазин Михаил Леонидович": 8,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 25,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 17,
+      "gas:candidate-vibid:25420001433204": 84,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 20,
+      "gas:candidate-vibid:25420001360422": 23,
+      "gas:candidate-vibid:25420001434367": 8,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 14,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 93,
-      "Лоскутова Людмила Ивановна": 11,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 19,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 14,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 93,
+      "gas:candidate-vibid:25420001432346": 11,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 19,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 18,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 121,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 8,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 18,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 121,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 8,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 10,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 16,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 4,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 10,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 16,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 4,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 2,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 38,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 14,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 2,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 38,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 14,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 13,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 66,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 34,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 13,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 66,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 34,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 51,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 13,
-      "Карелин Александр Александрович": 158,
-      "Лоскутова Людмила Ивановна": 15,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 44,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 51,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 13,
+      "gas:candidate-vibid:25420001433204": 158,
+      "gas:candidate-vibid:25420001432346": 15,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 44,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 20,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 15,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 20,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 15,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 14,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 6,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 14,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 6,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 23,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 18,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 23,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 18,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 32,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 124,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 46,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 15
+      "gas:candidate-vibid:25420001431685": 32,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 124,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 46,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 9,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 82,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 19,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 9,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 82,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 19,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 42,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 14,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 42,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 14,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 74,
-      "Гричуков Иван Сергеевич": 7,
-      "Иванов Данил Сергеевич": 29,
-      "Карелин Александр Александрович": 302,
-      "Лоскутова Людмила Ивановна": 14,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 73,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 74,
+      "gas:candidate-vibid:25420001434824": 7,
+      "gas:candidate-vibid:25420001431039": 29,
+      "gas:candidate-vibid:25420001433204": 302,
+      "gas:candidate-vibid:25420001432346": 14,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 73,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 9,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 60,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 12,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 9,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 60,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 12,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 9,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 11,
-      "Карелин Александр Александрович": 57,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 15,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 9,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 11,
+      "gas:candidate-vibid:25420001433204": 57,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 15,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 17,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 35,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 7,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 17,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 35,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 7,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 28,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 20,
-      "Карелин Александр Александрович": 103,
-      "Лоскутова Людмила Ивановна": 15,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 44,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 28,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 20,
+      "gas:candidate-vibid:25420001433204": 103,
+      "gas:candidate-vibid:25420001432346": 15,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 44,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 53,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 7,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 53,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 7,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 2,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 29,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 2,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 2,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 29,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 2,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 12,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 43,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 8,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 12,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 43,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 8,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 32,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 140,
-      "Лоскутова Людмила Ивановна": 19,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 29,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 32,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 140,
+      "gas:candidate-vibid:25420001432346": 19,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 29,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 22,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 4,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 22,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 4,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 1,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 30,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 8,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 1,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 30,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 8,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 69,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 4,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 69,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 4,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 51,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 32,
-      "Карелин Александр Александрович": 250,
-      "Лоскутова Людмила Ивановна": 22,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 51,
-      "Хазин Михаил Леонидович": 10,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 51,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 32,
+      "gas:candidate-vibid:25420001433204": 250,
+      "gas:candidate-vibid:25420001432346": 22,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 51,
+      "gas:candidate-vibid:25420001434367": 10,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 108,
-      "Гричуков Иван Сергеевич": 12,
-      "Иванов Данил Сергеевич": 37,
-      "Карелин Александр Александрович": 461,
-      "Лоскутова Людмила Ивановна": 58,
-      "Мадин Анатолий Дмитриевич": 6,
-      "Савин Егор Григорьевич": 12,
-      "Суворов Олег Геннадьевич": 174,
-      "Хазин Михаил Леонидович": 27,
-      "Языковский Игорь Игоревич": 10
+      "gas:candidate-vibid:25420001431685": 108,
+      "gas:candidate-vibid:25420001434824": 12,
+      "gas:candidate-vibid:25420001431039": 37,
+      "gas:candidate-vibid:25420001433204": 461,
+      "gas:candidate-vibid:25420001432346": 58,
+      "gas:candidate-vibid:25420001434719": 6,
+      "gas:candidate-vibid:25420001430618": 12,
+      "gas:candidate-vibid:25420001360422": 174,
+      "gas:candidate-vibid:25420001434367": 27,
+      "gas:candidate-vibid:25420001434347": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 19,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 128,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 25,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 19,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 128,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 25,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 136,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 37,
-      "Хазин Михаил Леонидович": 10,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 136,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 37,
+      "gas:candidate-vibid:25420001434367": 10,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 38,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 15,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 38,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 15,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 48,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 10,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 48,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 10,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 67,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 24,
-      "Карелин Александр Александрович": 219,
-      "Лоскутова Людмила Ивановна": 19,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 30,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 67,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 24,
+      "gas:candidate-vibid:25420001433204": 219,
+      "gas:candidate-vibid:25420001432346": 19,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 30,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 32,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 14,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 32,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 14,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 36,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 168,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 47,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 36,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 168,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 47,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 15,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 49,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 3,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 15,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 49,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 3,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 57,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 23,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 57,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 23,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 68,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 27,
-      "Карелин Александр Александрович": 265,
-      "Лоскутова Людмила Ивановна": 25,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 48,
-      "Хазин Михаил Леонидович": 5,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 68,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 27,
+      "gas:candidate-vibid:25420001433204": 265,
+      "gas:candidate-vibid:25420001432346": 25,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 48,
+      "gas:candidate-vibid:25420001434367": 5,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 52,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 18,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 52,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 18,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 46,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 5,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 46,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 5,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 32,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 10,
-      "Карелин Александр Александрович": 91,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 52,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 32,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 10,
+      "gas:candidate-vibid:25420001433204": 91,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 52,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 17,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 76,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 8,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 17,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 76,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 8,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 0,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 28,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 0,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 28,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 10,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 47,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 10,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 47,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 41,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 5,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 41,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 5,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 13,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 170,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 27,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 13,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 170,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 27,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 26,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 3,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 26,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 3,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 54,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 54,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 69,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 69,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234757&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234757&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 77,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 22,
-      "Карелин Александр Александрович": 196,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 91,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 77,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 22,
+      "gas:candidate-vibid:25420001433204": 196,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 91,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 132,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 47,
-      "Карелин Александр Александрович": 244,
-      "Лоскутова Людмила Ивановна": 36,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 123,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 10
+      "gas:candidate-vibid:25420001431685": 132,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 47,
+      "gas:candidate-vibid:25420001433204": 244,
+      "gas:candidate-vibid:25420001432346": 36,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 123,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 89,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 22,
-      "Карелин Александр Александрович": 227,
-      "Лоскутова Людмила Ивановна": 23,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 91,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 89,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 22,
+      "gas:candidate-vibid:25420001433204": 227,
+      "gas:candidate-vibid:25420001432346": 23,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 91,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 90,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 19,
-      "Карелин Александр Александрович": 198,
-      "Лоскутова Людмила Ивановна": 25,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 97,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 90,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 19,
+      "gas:candidate-vibid:25420001433204": 198,
+      "gas:candidate-vibid:25420001432346": 25,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 97,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 74,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 17,
-      "Карелин Александр Александрович": 171,
-      "Лоскутова Людмила Ивановна": 23,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 102,
-      "Хазин Михаил Леонидович": 5,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 74,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 17,
+      "gas:candidate-vibid:25420001433204": 171,
+      "gas:candidate-vibid:25420001432346": 23,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 102,
+      "gas:candidate-vibid:25420001434367": 5,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 92,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 13,
-      "Карелин Александр Александрович": 163,
-      "Лоскутова Людмила Ивановна": 21,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 118,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 92,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 13,
+      "gas:candidate-vibid:25420001433204": 163,
+      "gas:candidate-vibid:25420001432346": 21,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 118,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 75,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 20,
-      "Карелин Александр Александрович": 159,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 60,
-      "Хазин Михаил Леонидович": 5,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 75,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 20,
+      "gas:candidate-vibid:25420001433204": 159,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 60,
+      "gas:candidate-vibid:25420001434367": 5,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 96,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 29,
-      "Карелин Александр Александрович": 175,
-      "Лоскутова Людмила Ивановна": 27,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 94,
-      "Хазин Михаил Леонидович": 8,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 96,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 29,
+      "gas:candidate-vibid:25420001433204": 175,
+      "gas:candidate-vibid:25420001432346": 27,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 94,
+      "gas:candidate-vibid:25420001434367": 8,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 53,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 147,
-      "Лоскутова Людмила Ивановна": 13,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 45,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 53,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 147,
+      "gas:candidate-vibid:25420001432346": 13,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 45,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 62,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 20,
-      "Карелин Александр Александрович": 166,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 63,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 62,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 20,
+      "gas:candidate-vibid:25420001433204": 166,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 63,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 120,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 36,
-      "Карелин Александр Александрович": 212,
-      "Лоскутова Людмила Ивановна": 28,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 86,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 120,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 36,
+      "gas:candidate-vibid:25420001433204": 212,
+      "gas:candidate-vibid:25420001432346": 28,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 86,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 104,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 34,
-      "Карелин Александр Александрович": 249,
-      "Лоскутова Людмила Ивановна": 17,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 89,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 104,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 34,
+      "gas:candidate-vibid:25420001433204": 249,
+      "gas:candidate-vibid:25420001432346": 17,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 89,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 140,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 28,
-      "Карелин Александр Александрович": 230,
-      "Лоскутова Людмила Ивановна": 30,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 87,
-      "Хазин Михаил Леонидович": 9,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 140,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 28,
+      "gas:candidate-vibid:25420001433204": 230,
+      "gas:candidate-vibid:25420001432346": 30,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 87,
+      "gas:candidate-vibid:25420001434367": 9,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 103,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 30,
-      "Карелин Александр Александрович": 186,
-      "Лоскутова Людмила Ивановна": 21,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 14,
-      "Суворов Олег Геннадьевич": 88,
-      "Хазин Михаил Леонидович": 13,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 103,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 30,
+      "gas:candidate-vibid:25420001433204": 186,
+      "gas:candidate-vibid:25420001432346": 21,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 14,
+      "gas:candidate-vibid:25420001360422": 88,
+      "gas:candidate-vibid:25420001434367": 13,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 92,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 24,
-      "Карелин Александр Александрович": 248,
-      "Лоскутова Людмила Ивановна": 31,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 112,
-      "Хазин Михаил Леонидович": 8,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 92,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 24,
+      "gas:candidate-vibid:25420001433204": 248,
+      "gas:candidate-vibid:25420001432346": 31,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 112,
+      "gas:candidate-vibid:25420001434367": 8,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 52,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 155,
-      "Лоскутова Людмила Ивановна": 13,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 29,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 52,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 155,
+      "gas:candidate-vibid:25420001432346": 13,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 29,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 39,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 175,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 42,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 39,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 175,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 42,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 20,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 85,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 21,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 20,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 85,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 21,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 30,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 66,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 24,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 30,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 66,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 24,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 45,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 20,
-      "Карелин Александр Александрович": 204,
-      "Лоскутова Людмила Ивановна": 13,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 27,
-      "Хазин Михаил Леонидович": 5,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 45,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 20,
+      "gas:candidate-vibid:25420001433204": 204,
+      "gas:candidate-vibid:25420001432346": 13,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 27,
+      "gas:candidate-vibid:25420001434367": 5,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 44,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 20,
-      "Карелин Александр Александрович": 116,
-      "Лоскутова Людмила Ивановна": 21,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 28,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 44,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 20,
+      "gas:candidate-vibid:25420001433204": 116,
+      "gas:candidate-vibid:25420001432346": 21,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 28,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 18,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 27,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 4,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 18,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 27,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 4,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 104,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 164,
-      "Лоскутова Людмила Ивановна": 29,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 45,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 104,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 164,
+      "gas:candidate-vibid:25420001432346": 29,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 45,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 38,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 13,
-      "Карелин Александр Александрович": 70,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 13,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 38,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 13,
+      "gas:candidate-vibid:25420001433204": 70,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 13,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 17,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 67,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 35,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 17,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 67,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 35,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 17,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 10,
-      "Карелин Александр Александрович": 135,
-      "Лоскутова Людмила Ивановна": 14,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 43,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 17,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 10,
+      "gas:candidate-vibid:25420001433204": 135,
+      "gas:candidate-vibid:25420001432346": 14,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 43,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 3,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 45,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 1,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 3,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 45,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 1,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 6,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 39,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 14,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 6,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 39,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 14,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 0,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 29,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 0,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 29,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 38,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 125,
-      "Лоскутова Людмила Ивановна": 11,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 50,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 38,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 125,
+      "gas:candidate-vibid:25420001432346": 11,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 50,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 51,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 104,
-      "Лоскутова Людмила Ивановна": 14,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 26,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 51,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 104,
+      "gas:candidate-vibid:25420001432346": 14,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 26,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 47,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 81,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 1,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 47,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 81,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 1,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 4,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 27,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 5,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 4,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 27,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 5,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 45,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 11,
-      "Карелин Александр Александрович": 118,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 33,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 45,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 11,
+      "gas:candidate-vibid:25420001433204": 118,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 33,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 19,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 72,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 19,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 72,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 13,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 72,
-      "Лоскутова Людмила Ивановна": 13,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 13,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 72,
+      "gas:candidate-vibid:25420001432346": 13,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 17,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 41,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 8,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 21,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 17,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 41,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 8,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 21,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 4,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 33,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 11,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 4,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 33,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 11,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 46,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 136,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 29,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 46,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 136,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 29,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 82,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 12,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 82,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 12,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 33,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 4,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 33,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 4,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 20,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 88,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 30,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 20,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 88,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 30,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 22,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 46,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 27,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 22,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 46,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 27,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 17,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 92,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 32,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 17,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 92,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 32,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 26,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 10,
-      "Карелин Александр Александрович": 63,
-      "Лоскутова Людмила Ивановна": 14,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 31,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 26,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 10,
+      "gas:candidate-vibid:25420001433204": 63,
+      "gas:candidate-vibid:25420001432346": 14,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 31,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 49,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 17,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 49,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 17,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 77,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 20,
-      "Карелин Александр Александрович": 218,
-      "Лоскутова Людмила Ивановна": 26,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 55,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 77,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 20,
+      "gas:candidate-vibid:25420001433204": 218,
+      "gas:candidate-vibid:25420001432346": 26,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 55,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 13,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 2,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 13,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 2,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 48,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 118,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 34,
-      "Хазин Михаил Леонидович": 8,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 48,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 118,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 34,
+      "gas:candidate-vibid:25420001434367": 8,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 18,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 17,
-      "Карелин Александр Александрович": 146,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 15,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 18,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 17,
+      "gas:candidate-vibid:25420001433204": 146,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 15,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 4,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 43,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 4,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 4,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 43,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 4,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 22,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 80,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 1,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 22,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 80,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 1,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 85,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 18,
-      "Карелин Александр Александрович": 163,
-      "Лоскутова Людмила Ивановна": 26,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 81,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 85,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 18,
+      "gas:candidate-vibid:25420001433204": 163,
+      "gas:candidate-vibid:25420001432346": 26,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 81,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 104,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 37,
-      "Карелин Александр Александрович": 260,
-      "Лоскутова Людмила Ивановна": 30,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 115,
-      "Хазин Михаил Леонидович": 5,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 104,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 37,
+      "gas:candidate-vibid:25420001433204": 260,
+      "gas:candidate-vibid:25420001432346": 30,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 115,
+      "gas:candidate-vibid:25420001434367": 5,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 93,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 28,
-      "Карелин Александр Александрович": 183,
-      "Лоскутова Людмила Ивановна": 31,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 97,
-      "Хазин Михаил Леонидович": 10,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 93,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 28,
+      "gas:candidate-vibid:25420001433204": 183,
+      "gas:candidate-vibid:25420001432346": 31,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 97,
+      "gas:candidate-vibid:25420001434367": 10,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234758&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234758&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 3,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 27,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 3,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 3,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 27,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 3,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 76,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 21,
-      "Карелин Александр Александрович": 218,
-      "Лоскутова Людмила Ивановна": 23,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 41,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 76,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 21,
+      "gas:candidate-vibid:25420001433204": 218,
+      "gas:candidate-vibid:25420001432346": 23,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 41,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 23,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 68,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 18,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 23,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 68,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 18,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 53,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 24,
-      "Карелин Александр Александрович": 165,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 63,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 53,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 24,
+      "gas:candidate-vibid:25420001433204": 165,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 63,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 12,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 72,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 17,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 12,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 72,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 17,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 78,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 24,
-      "Карелин Александр Александрович": 313,
-      "Лоскутова Людмила Ивановна": 23,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 70,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 5
+      "gas:candidate-vibid:25420001431685": 78,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 24,
+      "gas:candidate-vibid:25420001433204": 313,
+      "gas:candidate-vibid:25420001432346": 23,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 70,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 194,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 36,
-      "Карелин Александр Александрович": 474,
-      "Лоскутова Людмила Ивановна": 31,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 15,
-      "Суворов Олег Геннадьевич": 133,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 194,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 36,
+      "gas:candidate-vibid:25420001433204": 474,
+      "gas:candidate-vibid:25420001432346": 31,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 15,
+      "gas:candidate-vibid:25420001360422": 133,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 61,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 157,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 72,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 61,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 157,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 72,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 34,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 16,
-      "Карелин Александр Александрович": 192,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 29,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 34,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 16,
+      "gas:candidate-vibid:25420001433204": 192,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 29,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 19,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 61,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 31,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 19,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 61,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 31,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 30,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 94,
-      "Лоскутова Людмила Ивановна": 13,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 36,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 30,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 94,
+      "gas:candidate-vibid:25420001432346": 13,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 36,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 46,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 18,
-      "Карелин Александр Александрович": 155,
-      "Лоскутова Людмила Ивановна": 11,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 68,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 46,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 18,
+      "gas:candidate-vibid:25420001433204": 155,
+      "gas:candidate-vibid:25420001432346": 11,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 68,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 48,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 158,
-      "Лоскутова Людмила Ивановна": 17,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 48,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 6
+      "gas:candidate-vibid:25420001431685": 48,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 158,
+      "gas:candidate-vibid:25420001432346": 17,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 48,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 38,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 101,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 30,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 38,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 101,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 30,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 13,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 38,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 23,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 13,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 38,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 23,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 12,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 27,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 11,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 12,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 27,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 11,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234759&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234759&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 35,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 54,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 33,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 35,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 54,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 33,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 98,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 16,
-      "Карелин Александр Александрович": 163,
-      "Лоскутова Людмила Ивановна": 25,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 49,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 98,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 16,
+      "gas:candidate-vibid:25420001433204": 163,
+      "gas:candidate-vibid:25420001432346": 25,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 49,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 70,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 133,
-      "Лоскутова Людмила Ивановна": 22,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 50,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 70,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 133,
+      "gas:candidate-vibid:25420001432346": 22,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 50,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 24,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 54,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 30,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 24,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 54,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 30,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 59,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 106,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 55,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 59,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 106,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 55,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 56,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 239,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 40,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 56,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 239,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 40,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 6,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 26,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 2,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 6,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 26,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 2,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 30,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 10,
-      "Карелин Александр Александрович": 205,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 58,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 30,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 10,
+      "gas:candidate-vibid:25420001433204": 205,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 58,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 51,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 10,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 51,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 10,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 4,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 23,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 4,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 23,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 93,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 121,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 17,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 93,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 121,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 17,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 54,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 127,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 34,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 54,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 127,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 34,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 24,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 2,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 24,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 2,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 98,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 11,
-      "Карелин Александр Александрович": 136,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 24,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 98,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 11,
+      "gas:candidate-vibid:25420001433204": 136,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 24,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 28,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 21,
-      "Карелин Александр Александрович": 146,
-      "Лоскутова Людмила Ивановна": 19,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 31,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 28,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 21,
+      "gas:candidate-vibid:25420001433204": 146,
+      "gas:candidate-vibid:25420001432346": 19,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 31,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 16,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 69,
-      "Лоскутова Людмила Ивановна": 9,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 16,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 69,
+      "gas:candidate-vibid:25420001432346": 9,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 28,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 14,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 28,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 14,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 26,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 107,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 14,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 26,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 107,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 14,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 44,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 5,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 44,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 5,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 157,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 35,
-      "Карелин Александр Александрович": 398,
-      "Лоскутова Людмила Ивановна": 30,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 104,
-      "Хазин Михаил Леонидович": 6,
-      "Языковский Игорь Игоревич": 13
+      "gas:candidate-vibid:25420001431685": 157,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 35,
+      "gas:candidate-vibid:25420001433204": 398,
+      "gas:candidate-vibid:25420001432346": 30,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 104,
+      "gas:candidate-vibid:25420001434367": 6,
+      "gas:candidate-vibid:25420001434347": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 167,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 34,
-      "Карелин Александр Александрович": 400,
-      "Лоскутова Людмила Ивановна": 26,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 125,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 6
+      "gas:candidate-vibid:25420001431685": 167,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 34,
+      "gas:candidate-vibid:25420001433204": 400,
+      "gas:candidate-vibid:25420001432346": 26,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 125,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 167,
-      "Гричуков Иван Сергеевич": 8,
-      "Иванов Данил Сергеевич": 37,
-      "Карелин Александр Александрович": 413,
-      "Лоскутова Людмила Ивановна": 47,
-      "Мадин Анатолий Дмитриевич": 9,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 116,
-      "Хазин Михаил Леонидович": 8,
-      "Языковский Игорь Игоревич": 13
+      "gas:candidate-vibid:25420001431685": 167,
+      "gas:candidate-vibid:25420001434824": 8,
+      "gas:candidate-vibid:25420001431039": 37,
+      "gas:candidate-vibid:25420001433204": 413,
+      "gas:candidate-vibid:25420001432346": 47,
+      "gas:candidate-vibid:25420001434719": 9,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 116,
+      "gas:candidate-vibid:25420001434367": 8,
+      "gas:candidate-vibid:25420001434347": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 152,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 32,
-      "Карелин Александр Александрович": 343,
-      "Лоскутова Людмила Ивановна": 41,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 106,
-      "Хазин Михаил Леонидович": 9,
-      "Языковский Игорь Игоревич": 8
+      "gas:candidate-vibid:25420001431685": 152,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 32,
+      "gas:candidate-vibid:25420001433204": 343,
+      "gas:candidate-vibid:25420001432346": 41,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 106,
+      "gas:candidate-vibid:25420001434367": 9,
+      "gas:candidate-vibid:25420001434347": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 8,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 4,
-      "Карелин Александр Александрович": 41,
-      "Лоскутова Людмила Ивановна": 4,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 8,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 8,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 4,
+      "gas:candidate-vibid:25420001433204": 41,
+      "gas:candidate-vibid:25420001432346": 4,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 8,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 43,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 127,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 22,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 43,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 127,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 22,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 23,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 17,
-      "Карелин Александр Александрович": 112,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 15,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 23,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 17,
+      "gas:candidate-vibid:25420001433204": 112,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 15,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 6,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 9,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 1,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 6,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 9,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 1,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 27,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 91,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 13,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 27,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 91,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 13,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 92,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 21,
-      "Карелин Александр Александрович": 176,
-      "Лоскутова Людмила Ивановна": 27,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 42,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 92,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 21,
+      "gas:candidate-vibid:25420001433204": 176,
+      "gas:candidate-vibid:25420001432346": 27,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 42,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 27,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 13,
-      "Карелин Александр Александрович": 101,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 18,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 27,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 13,
+      "gas:candidate-vibid:25420001433204": 101,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 18,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 69,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 150,
-      "Лоскутова Людмила Ивановна": 27,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 31,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 69,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 150,
+      "gas:candidate-vibid:25420001432346": 27,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 31,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 2,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 10,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 3,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 2,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 10,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 3,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 54,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 18,
-      "Карелин Александр Александрович": 219,
-      "Лоскутова Людмила Ивановна": 29,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 55,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 54,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 18,
+      "gas:candidate-vibid:25420001433204": 219,
+      "gas:candidate-vibid:25420001432346": 29,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 55,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 54,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 106,
-      "Лоскутова Людмила Ивановна": 21,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 15,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 54,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 106,
+      "gas:candidate-vibid:25420001432346": 21,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 15,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 86,
-      "Гричуков Иван Сергеевич": 9,
-      "Иванов Данил Сергеевич": 16,
-      "Карелин Александр Александрович": 205,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 30,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 86,
+      "gas:candidate-vibid:25420001434824": 9,
+      "gas:candidate-vibid:25420001431039": 16,
+      "gas:candidate-vibid:25420001433204": 205,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 30,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 21,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 79,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 21,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 79,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 0,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 23,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 1,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 0,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 23,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 1,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 3,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 12,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 3,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 3,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 12,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 3,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 48,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 17,
-      "Карелин Александр Александрович": 198,
-      "Лоскутова Людмила Ивановна": 15,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 36,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 48,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 17,
+      "gas:candidate-vibid:25420001433204": 198,
+      "gas:candidate-vibid:25420001432346": 15,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 36,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 25,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 14,
-      "Карелин Александр Александрович": 132,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 29,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 25,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 14,
+      "gas:candidate-vibid:25420001433204": 132,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 29,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 68,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 188,
-      "Лоскутова Людмила Ивановна": 17,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 32,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 68,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 188,
+      "gas:candidate-vibid:25420001432346": 17,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 32,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 4,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 9,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 0,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 4,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 9,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 0,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 46,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 3,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 46,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 3,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 24,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 107,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 11,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 24,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 107,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 11,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 44,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 21,
-      "Карелин Александр Александрович": 141,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 36,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 44,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 21,
+      "gas:candidate-vibid:25420001433204": 141,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 36,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 6,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 83,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 10,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 6,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 83,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 10,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 23,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 7,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 2,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 23,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 7,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 2,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 6,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 23,
-      "Лоскутова Людмила Ивановна": 2,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 6,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 23,
+      "gas:candidate-vibid:25420001432346": 2,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 46,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 17,
-      "Карелин Александр Александрович": 263,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 30,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 46,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 17,
+      "gas:candidate-vibid:25420001433204": 263,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 30,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 63,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 21,
-      "Карелин Александр Александрович": 231,
-      "Лоскутова Людмила Ивановна": 19,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 69,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 63,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 21,
+      "gas:candidate-vibid:25420001433204": 231,
+      "gas:candidate-vibid:25420001432346": 19,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 69,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 54,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 118,
-      "Лоскутова Людмила Ивановна": 17,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 33,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 54,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 118,
+      "gas:candidate-vibid:25420001432346": 17,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 33,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 25,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 90,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 19,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 25,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 90,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 19,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234760&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234760&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 103,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 13,
-      "Карелин Александр Александрович": 349,
-      "Лоскутова Людмила Ивановна": 27,
-      "Мадин Анатолий Дмитриевич": 6,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 77,
-      "Хазин Михаил Леонидович": 11,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 103,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 13,
+      "gas:candidate-vibid:25420001433204": 349,
+      "gas:candidate-vibid:25420001432346": 27,
+      "gas:candidate-vibid:25420001434719": 6,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 77,
+      "gas:candidate-vibid:25420001434367": 11,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 32,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 7,
-      "Карелин Александр Александрович": 55,
-      "Лоскутова Людмила Ивановна": 10,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 28,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 32,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 7,
+      "gas:candidate-vibid:25420001433204": 55,
+      "gas:candidate-vibid:25420001432346": 10,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 28,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 19,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 37,
-      "Лоскутова Людмила Ивановна": 7,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 12,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 19,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 37,
+      "gas:candidate-vibid:25420001432346": 7,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 12,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 175,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 54,
-      "Карелин Александр Александрович": 332,
-      "Лоскутова Людмила Ивановна": 24,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 52,
-      "Суворов Олег Геннадьевич": 63,
-      "Хазин Михаил Леонидович": 44,
-      "Языковский Игорь Игоревич": 12
+      "gas:candidate-vibid:25420001431685": 175,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 54,
+      "gas:candidate-vibid:25420001433204": 332,
+      "gas:candidate-vibid:25420001432346": 24,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 52,
+      "gas:candidate-vibid:25420001360422": 63,
+      "gas:candidate-vibid:25420001434367": 44,
+      "gas:candidate-vibid:25420001434347": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 231,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 73,
-      "Карелин Александр Александрович": 251,
-      "Лоскутова Людмила Ивановна": 40,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 26,
-      "Суворов Олег Геннадьевич": 49,
-      "Хазин Михаил Леонидович": 51,
-      "Языковский Игорь Игоревич": 22
+      "gas:candidate-vibid:25420001431685": 231,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 73,
+      "gas:candidate-vibid:25420001433204": 251,
+      "gas:candidate-vibid:25420001432346": 40,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 26,
+      "gas:candidate-vibid:25420001360422": 49,
+      "gas:candidate-vibid:25420001434367": 51,
+      "gas:candidate-vibid:25420001434347": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 202,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 77,
-      "Карелин Александр Александрович": 372,
-      "Лоскутова Людмила Ивановна": 21,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 30,
-      "Суворов Олег Геннадьевич": 54,
-      "Хазин Михаил Леонидович": 39,
-      "Языковский Игорь Игоревич": 17
+      "gas:candidate-vibid:25420001431685": 202,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 77,
+      "gas:candidate-vibid:25420001433204": 372,
+      "gas:candidate-vibid:25420001432346": 21,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 30,
+      "gas:candidate-vibid:25420001360422": 54,
+      "gas:candidate-vibid:25420001434367": 39,
+      "gas:candidate-vibid:25420001434347": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 325,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 81,
-      "Карелин Александр Александрович": 477,
-      "Лоскутова Людмила Ивановна": 48,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 42,
-      "Суворов Олег Геннадьевич": 93,
-      "Хазин Михаил Леонидович": 48,
-      "Языковский Игорь Игоревич": 23
+      "gas:candidate-vibid:25420001431685": 325,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 81,
+      "gas:candidate-vibid:25420001433204": 477,
+      "gas:candidate-vibid:25420001432346": 48,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 42,
+      "gas:candidate-vibid:25420001360422": 93,
+      "gas:candidate-vibid:25420001434367": 48,
+      "gas:candidate-vibid:25420001434347": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 275,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 99,
-      "Карелин Александр Александрович": 433,
-      "Лоскутова Людмила Ивановна": 50,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 33,
-      "Суворов Олег Геннадьевич": 89,
-      "Хазин Михаил Леонидович": 43,
-      "Языковский Игорь Игоревич": 19
+      "gas:candidate-vibid:25420001431685": 275,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 99,
+      "gas:candidate-vibid:25420001433204": 433,
+      "gas:candidate-vibid:25420001432346": 50,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 33,
+      "gas:candidate-vibid:25420001360422": 89,
+      "gas:candidate-vibid:25420001434367": 43,
+      "gas:candidate-vibid:25420001434347": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 120,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 79,
-      "Карелин Александр Александрович": 299,
-      "Лоскутова Людмила Ивановна": 16,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 17,
-      "Суворов Олег Геннадьевич": 60,
-      "Хазин Михаил Леонидович": 35,
-      "Языковский Игорь Игоревич": 18
+      "gas:candidate-vibid:25420001431685": 120,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 79,
+      "gas:candidate-vibid:25420001433204": 299,
+      "gas:candidate-vibid:25420001432346": 16,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 17,
+      "gas:candidate-vibid:25420001360422": 60,
+      "gas:candidate-vibid:25420001434367": 35,
+      "gas:candidate-vibid:25420001434347": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 145,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 53,
-      "Карелин Александр Александрович": 213,
-      "Лоскутова Людмила Ивановна": 43,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 9,
-      "Суворов Олег Геннадьевич": 92,
-      "Хазин Михаил Леонидович": 11,
-      "Языковский Игорь Игоревич": 9
+      "gas:candidate-vibid:25420001431685": 145,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 53,
+      "gas:candidate-vibid:25420001433204": 213,
+      "gas:candidate-vibid:25420001432346": 43,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 9,
+      "gas:candidate-vibid:25420001360422": 92,
+      "gas:candidate-vibid:25420001434367": 11,
+      "gas:candidate-vibid:25420001434347": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 105,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 29,
-      "Карелин Александр Александрович": 194,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 12,
-      "Суворов Олег Геннадьевич": 36,
-      "Хазин Михаил Леонидович": 24,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 105,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 29,
+      "gas:candidate-vibid:25420001433204": 194,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 12,
+      "gas:candidate-vibid:25420001360422": 36,
+      "gas:candidate-vibid:25420001434367": 24,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 96,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 23,
-      "Карелин Александр Александрович": 284,
-      "Лоскутова Людмила Ивановна": 24,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 9,
-      "Суворов Олег Геннадьевич": 69,
-      "Хазин Михаил Леонидович": 15,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 96,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 23,
+      "gas:candidate-vibid:25420001433204": 284,
+      "gas:candidate-vibid:25420001432346": 24,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 9,
+      "gas:candidate-vibid:25420001360422": 69,
+      "gas:candidate-vibid:25420001434367": 15,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 34,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 11,
-      "Карелин Александр Александрович": 119,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 7,
-      "Суворов Олег Геннадьевич": 21,
-      "Хазин Михаил Леонидович": 10,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 34,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 11,
+      "gas:candidate-vibid:25420001433204": 119,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 7,
+      "gas:candidate-vibid:25420001360422": 21,
+      "gas:candidate-vibid:25420001434367": 10,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 142,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 49,
-      "Карелин Александр Александрович": 384,
-      "Лоскутова Людмила Ивановна": 20,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 13,
-      "Суворов Олег Геннадьевич": 68,
-      "Хазин Михаил Леонидович": 31,
-      "Языковский Игорь Игоревич": 17
+      "gas:candidate-vibid:25420001431685": 142,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 49,
+      "gas:candidate-vibid:25420001433204": 384,
+      "gas:candidate-vibid:25420001432346": 20,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 13,
+      "gas:candidate-vibid:25420001360422": 68,
+      "gas:candidate-vibid:25420001434367": 31,
+      "gas:candidate-vibid:25420001434347": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 125,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 51,
-      "Карелин Александр Александрович": 261,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 32,
-      "Суворов Олег Геннадьевич": 73,
-      "Хазин Михаил Леонидович": 53,
-      "Языковский Игорь Игоревич": 14
+      "gas:candidate-vibid:25420001431685": 125,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 51,
+      "gas:candidate-vibid:25420001433204": 261,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 32,
+      "gas:candidate-vibid:25420001360422": 73,
+      "gas:candidate-vibid:25420001434367": 53,
+      "gas:candidate-vibid:25420001434347": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234761&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234761&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 69,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 36,
-      "Карелин Александр Александрович": 344,
-      "Лоскутова Людмила Ивановна": 38,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 125,
-      "Хазин Михаил Леонидович": 9,
-      "Языковский Игорь Игоревич": 6
+      "gas:candidate-vibid:25420001431685": 69,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 36,
+      "gas:candidate-vibid:25420001433204": 344,
+      "gas:candidate-vibid:25420001432346": 38,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 125,
+      "gas:candidate-vibid:25420001434367": 9,
+      "gas:candidate-vibid:25420001434347": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 74,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 30,
-      "Карелин Александр Александрович": 384,
-      "Лоскутова Людмила Ивановна": 27,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 132,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 7
+      "gas:candidate-vibid:25420001431685": 74,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 30,
+      "gas:candidate-vibid:25420001433204": 384,
+      "gas:candidate-vibid:25420001432346": 27,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 132,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 67,
-      "Гричуков Иван Сергеевич": 6,
-      "Иванов Данил Сергеевич": 39,
-      "Карелин Александр Александрович": 304,
-      "Лоскутова Людмила Ивановна": 31,
-      "Мадин Анатолий Дмитриевич": 6,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 135,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 67,
+      "gas:candidate-vibid:25420001434824": 6,
+      "gas:candidate-vibid:25420001431039": 39,
+      "gas:candidate-vibid:25420001433204": 304,
+      "gas:candidate-vibid:25420001432346": 31,
+      "gas:candidate-vibid:25420001434719": 6,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 135,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 103,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 36,
-      "Карелин Александр Александрович": 432,
-      "Лоскутова Людмила Ивановна": 31,
-      "Мадин Анатолий Дмитриевич": 8,
-      "Савин Егор Григорьевич": 19,
-      "Суворов Олег Геннадьевич": 100,
-      "Хазин Михаил Леонидович": 13,
-      "Языковский Игорь Игоревич": 6
+      "gas:candidate-vibid:25420001431685": 103,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 36,
+      "gas:candidate-vibid:25420001433204": 432,
+      "gas:candidate-vibid:25420001432346": 31,
+      "gas:candidate-vibid:25420001434719": 8,
+      "gas:candidate-vibid:25420001430618": 19,
+      "gas:candidate-vibid:25420001360422": 100,
+      "gas:candidate-vibid:25420001434367": 13,
+      "gas:candidate-vibid:25420001434347": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 72,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 18,
-      "Карелин Александр Александрович": 335,
-      "Лоскутова Людмила Ивановна": 25,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 129,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 8
+      "gas:candidate-vibid:25420001431685": 72,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 18,
+      "gas:candidate-vibid:25420001433204": 335,
+      "gas:candidate-vibid:25420001432346": 25,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 129,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 11,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 71,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 32,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 11,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 71,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 32,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 46,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 120,
-      "Лоскутова Людмила Ивановна": 11,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 38,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 46,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 120,
+      "gas:candidate-vibid:25420001432346": 11,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 38,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 0,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 36,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 6,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 0,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 36,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 6,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 63,
-      "Гричуков Иван Сергеевич": 5,
-      "Иванов Данил Сергеевич": 25,
-      "Карелин Александр Александрович": 391,
-      "Лоскутова Людмила Ивановна": 30,
-      "Мадин Анатолий Дмитриевич": 7,
-      "Савин Егор Григорьевич": 8,
-      "Суворов Олег Геннадьевич": 119,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 8
+      "gas:candidate-vibid:25420001431685": 63,
+      "gas:candidate-vibid:25420001434824": 5,
+      "gas:candidate-vibid:25420001431039": 25,
+      "gas:candidate-vibid:25420001433204": 391,
+      "gas:candidate-vibid:25420001432346": 30,
+      "gas:candidate-vibid:25420001434719": 7,
+      "gas:candidate-vibid:25420001430618": 8,
+      "gas:candidate-vibid:25420001360422": 119,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 18,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 206,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 3,
-      "Суворов Олег Геннадьевич": 69,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 18,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 206,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 3,
+      "gas:candidate-vibid:25420001360422": 69,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 27,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 8,
-      "Карелин Александр Александрович": 110,
-      "Лоскутова Людмила Ивановна": 14,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 54,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 3
+      "gas:candidate-vibid:25420001431685": 27,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 8,
+      "gas:candidate-vibid:25420001433204": 110,
+      "gas:candidate-vibid:25420001432346": 14,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 54,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 13,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 2,
-      "Карелин Александр Александрович": 79,
-      "Лоскутова Людмила Ивановна": 3,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 25,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 13,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 2,
+      "gas:candidate-vibid:25420001433204": 79,
+      "gas:candidate-vibid:25420001432346": 3,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 25,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 16,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 12,
-      "Карелин Александр Александрович": 321,
-      "Лоскутова Людмила Ивановна": 13,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 48,
-      "Хазин Михаил Леонидович": 1,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 16,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 12,
+      "gas:candidate-vibid:25420001433204": 321,
+      "gas:candidate-vibid:25420001432346": 13,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 48,
+      "gas:candidate-vibid:25420001434367": 1,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 54,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 18,
-      "Карелин Александр Александрович": 848,
-      "Лоскутова Людмила Ивановна": 23,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 93,
-      "Хазин Михаил Леонидович": 8,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 54,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 18,
+      "gas:candidate-vibid:25420001433204": 848,
+      "gas:candidate-vibid:25420001432346": 23,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 93,
+      "gas:candidate-vibid:25420001434367": 8,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 13,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 184,
-      "Лоскутова Людмила Ивановна": 12,
-      "Мадин Анатолий Дмитриевич": 2,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 32,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 13,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 184,
+      "gas:candidate-vibid:25420001432346": 12,
+      "gas:candidate-vibid:25420001434719": 2,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 32,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 26,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 89,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 33,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 26,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 89,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 33,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 7,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 0,
-      "Карелин Александр Александрович": 32,
-      "Лоскутова Людмила Ивановна": 1,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 9,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 7,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 0,
+      "gas:candidate-vibid:25420001433204": 32,
+      "gas:candidate-vibid:25420001432346": 1,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 9,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 68,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 31,
-      "Карелин Александр Александрович": 344,
-      "Лоскутова Людмила Ивановна": 29,
-      "Мадин Анатолий Дмитриевич": 5,
-      "Савин Егор Григорьевич": 6,
-      "Суворов Олег Геннадьевич": 110,
-      "Хазин Михаил Леонидович": 15,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 68,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 31,
+      "gas:candidate-vibid:25420001433204": 344,
+      "gas:candidate-vibid:25420001432346": 29,
+      "gas:candidate-vibid:25420001434719": 5,
+      "gas:candidate-vibid:25420001430618": 6,
+      "gas:candidate-vibid:25420001360422": 110,
+      "gas:candidate-vibid:25420001434367": 15,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 1,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 1,
-      "Карелин Александр Александрович": 45,
-      "Лоскутова Людмила Ивановна": 0,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 1,
-      "Суворов Олег Геннадьевич": 2,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 1,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 1,
+      "gas:candidate-vibid:25420001433204": 45,
+      "gas:candidate-vibid:25420001432346": 0,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 1,
+      "gas:candidate-vibid:25420001360422": 2,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 9,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 95,
-      "Лоскутова Людмила Ивановна": 5,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 25,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 9,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 95,
+      "gas:candidate-vibid:25420001432346": 5,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 25,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 5,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 5,
-      "Карелин Александр Александрович": 52,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 2,
-      "Суворов Олег Геннадьевич": 17,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 0
+      "gas:candidate-vibid:25420001431685": 5,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 5,
+      "gas:candidate-vibid:25420001433204": 52,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 2,
+      "gas:candidate-vibid:25420001360422": 17,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 49,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 9,
-      "Карелин Александр Александрович": 296,
-      "Лоскутова Людмила Ивановна": 19,
-      "Мадин Анатолий Дмитриевич": 1,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 86,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 2
+      "gas:candidate-vibid:25420001431685": 49,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 9,
+      "gas:candidate-vibid:25420001433204": 296,
+      "gas:candidate-vibid:25420001432346": 19,
+      "gas:candidate-vibid:25420001434719": 1,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 86,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 27,
-      "Гричуков Иван Сергеевич": 2,
-      "Иванов Данил Сергеевич": 23,
-      "Карелин Александр Александрович": 197,
-      "Лоскутова Людмила Ивановна": 17,
-      "Мадин Анатолий Дмитриевич": 3,
-      "Савин Егор Григорьевич": 4,
-      "Суворов Олег Геннадьевич": 90,
-      "Хазин Михаил Леонидович": 2,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 27,
+      "gas:candidate-vibid:25420001434824": 2,
+      "gas:candidate-vibid:25420001431039": 23,
+      "gas:candidate-vibid:25420001433204": 197,
+      "gas:candidate-vibid:25420001432346": 17,
+      "gas:candidate-vibid:25420001434719": 3,
+      "gas:candidate-vibid:25420001430618": 4,
+      "gas:candidate-vibid:25420001360422": 90,
+      "gas:candidate-vibid:25420001434367": 2,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 10,
-      "Гричуков Иван Сергеевич": 0,
-      "Иванов Данил Сергеевич": 3,
-      "Карелин Александр Александрович": 74,
-      "Лоскутова Людмила Ивановна": 6,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 15,
-      "Хазин Михаил Леонидович": 0,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 10,
+      "gas:candidate-vibid:25420001434824": 0,
+      "gas:candidate-vibid:25420001431039": 3,
+      "gas:candidate-vibid:25420001433204": 74,
+      "gas:candidate-vibid:25420001432346": 6,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 15,
+      "gas:candidate-vibid:25420001434367": 0,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 44,
-      "Гричуков Иван Сергеевич": 1,
-      "Иванов Данил Сергеевич": 20,
-      "Карелин Александр Александрович": 239,
-      "Лоскутова Людмила Ивановна": 18,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 64,
-      "Хазин Михаил Леонидович": 7,
-      "Языковский Игорь Игоревич": 4
+      "gas:candidate-vibid:25420001431685": 44,
+      "gas:candidate-vibid:25420001434824": 1,
+      "gas:candidate-vibid:25420001431039": 20,
+      "gas:candidate-vibid:25420001433204": 239,
+      "gas:candidate-vibid:25420001432346": 18,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 64,
+      "gas:candidate-vibid:25420001434367": 7,
+      "gas:candidate-vibid:25420001434347": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 35,
-      "Гричуков Иван Сергеевич": 4,
-      "Иванов Данил Сергеевич": 19,
-      "Карелин Александр Александрович": 246,
-      "Лоскутова Людмила Ивановна": 21,
-      "Мадин Анатолий Дмитриевич": 4,
-      "Савин Егор Григорьевич": 5,
-      "Суворов Олег Геннадьевич": 91,
-      "Хазин Михаил Леонидович": 3,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 35,
+      "gas:candidate-vibid:25420001434824": 4,
+      "gas:candidate-vibid:25420001431039": 19,
+      "gas:candidate-vibid:25420001433204": 246,
+      "gas:candidate-vibid:25420001432346": 21,
+      "gas:candidate-vibid:25420001434719": 4,
+      "gas:candidate-vibid:25420001430618": 5,
+      "gas:candidate-vibid:25420001360422": 91,
+      "gas:candidate-vibid:25420001434367": 3,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_54_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абалаков Александр Николаевич": 16,
-      "Гричуков Иван Сергеевич": 3,
-      "Иванов Данил Сергеевич": 6,
-      "Карелин Александр Александрович": 96,
-      "Лоскутова Людмила Ивановна": 8,
-      "Мадин Анатолий Дмитриевич": 0,
-      "Савин Егор Григорьевич": 0,
-      "Суворов Олег Геннадьевич": 26,
-      "Хазин Михаил Леонидович": 4,
-      "Языковский Игорь Игоревич": 1
+      "gas:candidate-vibid:25420001431685": 16,
+      "gas:candidate-vibid:25420001434824": 3,
+      "gas:candidate-vibid:25420001431039": 6,
+      "gas:candidate-vibid:25420001433204": 96,
+      "gas:candidate-vibid:25420001432346": 8,
+      "gas:candidate-vibid:25420001434719": 0,
+      "gas:candidate-vibid:25420001430618": 0,
+      "gas:candidate-vibid:25420001360422": 26,
+      "gas:candidate-vibid:25420001434367": 4,
+      "gas:candidate-vibid:25420001434347": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000180&tvd=25420001234762&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234762&type=464",

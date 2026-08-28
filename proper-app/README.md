@@ -55,3 +55,26 @@ bun run db:import
 
 The import is idempotent and processes one generated shard at a time. The 732 MB source
 tree is never loaded as one JavaScript module.
+
+## Analysis contract
+
+The workbench uses `protocol-cloud-clt-v3`. One complete physical UIK protocol is one
+observation, and all valid protocols for the selected election and ballot option form a
+single nationwide dataset. The model fits a robust central 50% bivariate core to
+half-count-corrected turnout and selected-option result logits. It removes the core
+members' average finite-count sampling covariance to estimate between-protocol spread,
+then adds each target protocol's own finite-count covariance. The actual turnout/result
+pair is measured with squared Mahalanobis distance `D2`; the two-degree-of-freedom
+chi-square tail `p = exp(-D2 / 2)` defines `P_sus = 1 - p`.
+
+`P_sus` is incompatibility with the fitted election-wide core, not a probability of
+fraud. The central limit theorem does not imply that the untransformed nationwide UIK
+cloud is Gaussian, and unmodeled geography, electorate composition, protocol type, or
+other heterogeneity can produce high scores. Tiny denominators receive wider
+finite-count uncertainty. Benjamini–Yekutieli `q` values are retained as a separate
+multiple-testing diagnostic; they do not define `P_sus` or the grade.
+
+The display bands are P0 below 95%, P1 from 95%, P2 from 99%, and P3 from 99.9%; invalid
+or incomplete protocols are retained as U with an explicit reason. Geography filters
+never refit the nationwide score family. See
+[`research/METHOD.md`](research/METHOD.md) for the formulas and interpretation limits.

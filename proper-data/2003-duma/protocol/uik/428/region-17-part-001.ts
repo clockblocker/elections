@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 7,
-      "Ондар Чылгычы Чимит-Доржуевич": 410,
-      "Ушкалов Вячеслав Андреевич": 8,
-      "Чучев Иван Васильевич": 100,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 7,
+      "gas:candidate-vibid:217200066797": 410,
+      "gas:candidate-vibid:1001000254926": 8,
+      "gas:candidate-vibid:1001000121802": 100,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066675&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 339,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 117,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 339,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 117,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066675&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 8,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 298,
-      "Ушкалов Вячеслав Андреевич": 12,
-      "Чучев Иван Васильевич": 116,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136005": 8,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 298,
+      "gas:candidate-vibid:1001000254926": 12,
+      "gas:candidate-vibid:1001000121802": 116,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066675&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 264,
-      "Ушкалов Вячеслав Андреевич": 10,
-      "Чучев Иван Васильевич": 151,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 264,
+      "gas:candidate-vibid:1001000254926": 10,
+      "gas:candidate-vibid:1001000121802": 151,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066675&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 7,
-      "Ондар Чылгычы Чимит-Доржуевич": 354,
-      "Ушкалов Вячеслав Андреевич": 11,
-      "Чучев Иван Васильевич": 85,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 7,
+      "gas:candidate-vibid:217200066797": 354,
+      "gas:candidate-vibid:1001000254926": 11,
+      "gas:candidate-vibid:1001000121802": 85,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066675&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 9,
-      "Ондар Чылгычы Чимит-Доржуевич": 265,
-      "Ушкалов Вячеслав Андреевич": 6,
-      "Чучев Иван Васильевич": 116,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 9,
+      "gas:candidate-vibid:217200066797": 265,
+      "gas:candidate-vibid:1001000254926": 6,
+      "gas:candidate-vibid:1001000121802": 116,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066675&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 636,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 173,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 636,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 173,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066677&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 259,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 68,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 259,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 68,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066677&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 236,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 44,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 236,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 44,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066677&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 314,
-      "Ушкалов Вячеслав Андреевич": 8,
-      "Чучев Иван Васильевич": 56,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 314,
+      "gas:candidate-vibid:1001000254926": 8,
+      "gas:candidate-vibid:1001000121802": 56,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066677&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 571,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 45,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 571,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 45,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066677&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 490,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 79,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 490,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 79,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066677&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 300,
-      "Ушкалов Вячеслав Андреевич": 11,
-      "Чучев Иван Васильевич": 305,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 300,
+      "gas:candidate-vibid:1001000254926": 11,
+      "gas:candidate-vibid:1001000121802": 305,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066677&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 158,
-      "Ушкалов Вячеслав Андреевич": 8,
-      "Чучев Иван Васильевич": 253,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 158,
+      "gas:candidate-vibid:1001000254926": 8,
+      "gas:candidate-vibid:1001000121802": 253,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 15,
-      "Манчын Экер-оол Маринович": 18,
-      "Ондар Чылгычы Чимит-Доржуевич": 516,
-      "Ушкалов Вячеслав Андреевич": 8,
-      "Чучев Иван Васильевич": 260,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136005": 15,
+      "gas:candidate-vibid:1001000202283": 18,
+      "gas:candidate-vibid:217200066797": 516,
+      "gas:candidate-vibid:1001000254926": 8,
+      "gas:candidate-vibid:1001000121802": 260,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 229,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 83,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 229,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 83,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 176,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 44,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 176,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 44,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 191,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 83,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 191,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 83,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 280,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 280,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 286,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 171,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 286,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 171,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 194,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 15,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 194,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 15,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 285,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 69,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 285,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 69,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 302,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 212,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 302,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 212,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066679&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 378,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 29,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 378,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 29,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 428,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 32,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 428,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 32,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 485,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 32,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 485,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 32,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 11,
-      "Ондар Чылгычы Чимит-Доржуевич": 404,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 25,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 11,
+      "gas:candidate-vibid:217200066797": 404,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 25,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 720,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 720,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 381,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 55,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 381,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 55,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 311,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 15,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 311,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 15,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 401,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 19,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 401,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 19,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 437,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 33,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 437,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 33,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 315,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 14,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 315,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 14,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 148,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 25,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 148,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 25,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 395,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 29,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 395,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 29,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 246,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 246,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 288,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 288,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066681&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 258,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 28,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 258,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 28,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 296,
-      "Ушкалов Вячеслав Андреевич": 10,
-      "Чучев Иван Васильевич": 62,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 296,
+      "gas:candidate-vibid:1001000254926": 10,
+      "gas:candidate-vibid:1001000121802": 62,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 7,
-      "Ондар Чылгычы Чимит-Доржуевич": 246,
-      "Ушкалов Вячеслав Андреевич": 10,
-      "Чучев Иван Васильевич": 23,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 7,
+      "gas:candidate-vibid:217200066797": 246,
+      "gas:candidate-vibid:1001000254926": 10,
+      "gas:candidate-vibid:1001000121802": 23,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 6,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 273,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 38,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 6,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 273,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 38,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 50,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 50,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 183,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 33,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 183,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 33,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 20,
-      "Манчын Экер-оол Маринович": 10,
-      "Ондар Чылгычы Чимит-Доржуевич": 355,
-      "Ушкалов Вячеслав Андреевич": 101,
-      "Чучев Иван Васильевич": 226,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136005": 20,
+      "gas:candidate-vibid:1001000202283": 10,
+      "gas:candidate-vibid:217200066797": 355,
+      "gas:candidate-vibid:1001000254926": 101,
+      "gas:candidate-vibid:1001000121802": 226,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 20,
-      "Манчын Экер-оол Маринович": 12,
-      "Ондар Чылгычы Чимит-Доржуевич": 292,
-      "Ушкалов Вячеслав Андреевич": 113,
-      "Чучев Иван Васильевич": 247,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136005": 20,
+      "gas:candidate-vibid:1001000202283": 12,
+      "gas:candidate-vibid:217200066797": 292,
+      "gas:candidate-vibid:1001000254926": 113,
+      "gas:candidate-vibid:1001000121802": 247,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 236,
-      "Ушкалов Вячеслав Андреевич": 17,
-      "Чучев Иван Васильевич": 35,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 236,
+      "gas:candidate-vibid:1001000254926": 17,
+      "gas:candidate-vibid:1001000121802": 35,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 251,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 40,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 251,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 40,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 80,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 80,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 106,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 14,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 106,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 14,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 50,
-      "Ушкалов Вячеслав Андреевич": 9,
-      "Чучев Иван Васильевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 50,
+      "gas:candidate-vibid:1001000254926": 9,
+      "gas:candidate-vibid:1001000121802": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 31,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 31,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 293,
-      "Ушкалов Вячеслав Андреевич": 11,
-      "Чучев Иван Васильевич": 57,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 293,
+      "gas:candidate-vibid:1001000254926": 11,
+      "gas:candidate-vibid:1001000121802": 57,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 245,
-      "Ушкалов Вячеслав Андреевич": 20,
-      "Чучев Иван Васильевич": 88,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 245,
+      "gas:candidate-vibid:1001000254926": 20,
+      "gas:candidate-vibid:1001000121802": 88,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066683&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 11,
-      "Манчын Экер-оол Маринович": 19,
-      "Ондар Чылгычы Чимит-Доржуевич": 188,
-      "Ушкалов Вячеслав Андреевич": 43,
-      "Чучев Иван Васильевич": 389,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136005": 11,
+      "gas:candidate-vibid:1001000202283": 19,
+      "gas:candidate-vibid:217200066797": 188,
+      "gas:candidate-vibid:1001000254926": 43,
+      "gas:candidate-vibid:1001000121802": 389,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 13,
-      "Манчын Экер-оол Маринович": 22,
-      "Ондар Чылгычы Чимит-Доржуевич": 278,
-      "Ушкалов Вячеслав Андреевич": 55,
-      "Чучев Иван Васильевич": 341,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136005": 13,
+      "gas:candidate-vibid:1001000202283": 22,
+      "gas:candidate-vibid:217200066797": 278,
+      "gas:candidate-vibid:1001000254926": 55,
+      "gas:candidate-vibid:1001000121802": 341,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 12,
-      "Манчын Экер-оол Маринович": 10,
-      "Ондар Чылгычы Чимит-Доржуевич": 209,
-      "Ушкалов Вячеслав Андреевич": 25,
-      "Чучев Иван Васильевич": 269,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136005": 12,
+      "gas:candidate-vibid:1001000202283": 10,
+      "gas:candidate-vibid:217200066797": 209,
+      "gas:candidate-vibid:1001000254926": 25,
+      "gas:candidate-vibid:1001000121802": 269,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 16,
-      "Манчын Экер-оол Маринович": 24,
-      "Ондар Чылгычы Чимит-Доржуевич": 297,
-      "Ушкалов Вячеслав Андреевич": 62,
-      "Чучев Иван Васильевич": 446,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136005": 16,
+      "gas:candidate-vibid:1001000202283": 24,
+      "gas:candidate-vibid:217200066797": 297,
+      "gas:candidate-vibid:1001000254926": 62,
+      "gas:candidate-vibid:1001000121802": 446,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 13,
-      "Манчын Экер-оол Маринович": 7,
-      "Ондар Чылгычы Чимит-Доржуевич": 108,
-      "Ушкалов Вячеслав Андреевич": 38,
-      "Чучев Иван Васильевич": 287,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136005": 13,
+      "gas:candidate-vibid:1001000202283": 7,
+      "gas:candidate-vibid:217200066797": 108,
+      "gas:candidate-vibid:1001000254926": 38,
+      "gas:candidate-vibid:1001000121802": 287,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 40,
-      "Манчын Экер-оол Маринович": 34,
-      "Ондар Чылгычы Чимит-Доржуевич": 214,
-      "Ушкалов Вячеслав Андреевич": 147,
-      "Чучев Иван Васильевич": 619,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136005": 40,
+      "gas:candidate-vibid:1001000202283": 34,
+      "gas:candidate-vibid:217200066797": 214,
+      "gas:candidate-vibid:1001000254926": 147,
+      "gas:candidate-vibid:1001000121802": 619,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 9,
-      "Манчын Экер-оол Маринович": 13,
-      "Ондар Чылгычы Чимит-Доржуевич": 212,
-      "Ушкалов Вячеслав Андреевич": 54,
-      "Чучев Иван Васильевич": 319,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136005": 9,
+      "gas:candidate-vibid:1001000202283": 13,
+      "gas:candidate-vibid:217200066797": 212,
+      "gas:candidate-vibid:1001000254926": 54,
+      "gas:candidate-vibid:1001000121802": 319,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 23,
-      "Манчын Экер-оол Маринович": 33,
-      "Ондар Чылгычы Чимит-Доржуевич": 289,
-      "Ушкалов Вячеслав Андреевич": 58,
-      "Чучев Иван Васильевич": 376,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136005": 23,
+      "gas:candidate-vibid:1001000202283": 33,
+      "gas:candidate-vibid:217200066797": 289,
+      "gas:candidate-vibid:1001000254926": 58,
+      "gas:candidate-vibid:1001000121802": 376,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 14,
-      "Манчын Экер-оол Маринович": 44,
-      "Ондар Чылгычы Чимит-Доржуевич": 496,
-      "Ушкалов Вячеслав Андреевич": 47,
-      "Чучев Иван Васильевич": 382,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136005": 14,
+      "gas:candidate-vibid:1001000202283": 44,
+      "gas:candidate-vibid:217200066797": 496,
+      "gas:candidate-vibid:1001000254926": 47,
+      "gas:candidate-vibid:1001000121802": 382,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 8,
-      "Манчын Экер-оол Маринович": 16,
-      "Ондар Чылгычы Чимит-Доржуевич": 299,
-      "Ушкалов Вячеслав Андреевич": 33,
-      "Чучев Иван Васильевич": 165,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136005": 8,
+      "gas:candidate-vibid:1001000202283": 16,
+      "gas:candidate-vibid:217200066797": 299,
+      "gas:candidate-vibid:1001000254926": 33,
+      "gas:candidate-vibid:1001000121802": 165,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 12,
-      "Манчын Экер-оол Маринович": 33,
-      "Ондар Чылгычы Чимит-Доржуевич": 270,
-      "Ушкалов Вячеслав Андреевич": 33,
-      "Чучев Иван Васильевич": 331,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136005": 12,
+      "gas:candidate-vibid:1001000202283": 33,
+      "gas:candidate-vibid:217200066797": 270,
+      "gas:candidate-vibid:1001000254926": 33,
+      "gas:candidate-vibid:1001000121802": 331,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 13,
-      "Ондар Чылгычы Чимит-Доржуевич": 149,
-      "Ушкалов Вячеслав Андреевич": 20,
-      "Чучев Иван Васильевич": 239,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 13,
+      "gas:candidate-vibid:217200066797": 149,
+      "gas:candidate-vibid:1001000254926": 20,
+      "gas:candidate-vibid:1001000121802": 239,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 26,
-      "Манчын Экер-оол Маринович": 34,
-      "Ондар Чылгычы Чимит-Доржуевич": 600,
-      "Ушкалов Вячеслав Андреевич": 56,
-      "Чучев Иван Васильевич": 430,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136005": 26,
+      "gas:candidate-vibid:1001000202283": 34,
+      "gas:candidate-vibid:217200066797": 600,
+      "gas:candidate-vibid:1001000254926": 56,
+      "gas:candidate-vibid:1001000121802": 430,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 17,
-      "Манчын Экер-оол Маринович": 55,
-      "Ондар Чылгычы Чимит-Доржуевич": 367,
-      "Ушкалов Вячеслав Андреевич": 59,
-      "Чучев Иван Васильевич": 471,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136005": 17,
+      "gas:candidate-vibid:1001000202283": 55,
+      "gas:candidate-vibid:217200066797": 367,
+      "gas:candidate-vibid:1001000254926": 59,
+      "gas:candidate-vibid:1001000121802": 471,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 15,
-      "Манчын Экер-оол Маринович": 32,
-      "Ондар Чылгычы Чимит-Доржуевич": 284,
-      "Ушкалов Вячеслав Андреевич": 83,
-      "Чучев Иван Васильевич": 530,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136005": 15,
+      "gas:candidate-vibid:1001000202283": 32,
+      "gas:candidate-vibid:217200066797": 284,
+      "gas:candidate-vibid:1001000254926": 83,
+      "gas:candidate-vibid:1001000121802": 530,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 14,
-      "Манчын Экер-оол Маринович": 38,
-      "Ондар Чылгычы Чимит-Доржуевич": 356,
-      "Ушкалов Вячеслав Андреевич": 52,
-      "Чучев Иван Васильевич": 402,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136005": 14,
+      "gas:candidate-vibid:1001000202283": 38,
+      "gas:candidate-vibid:217200066797": 356,
+      "gas:candidate-vibid:1001000254926": 52,
+      "gas:candidate-vibid:1001000121802": 402,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 12,
-      "Манчын Экер-оол Маринович": 17,
-      "Ондар Чылгычы Чимит-Доржуевич": 229,
-      "Ушкалов Вячеслав Андреевич": 91,
-      "Чучев Иван Васильевич": 328,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136005": 12,
+      "gas:candidate-vibid:1001000202283": 17,
+      "gas:candidate-vibid:217200066797": 229,
+      "gas:candidate-vibid:1001000254926": 91,
+      "gas:candidate-vibid:1001000121802": 328,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 9,
-      "Манчын Экер-оол Маринович": 22,
-      "Ондар Чылгычы Чимит-Доржуевич": 329,
-      "Ушкалов Вячеслав Андреевич": 29,
-      "Чучев Иван Васильевич": 263,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136005": 9,
+      "gas:candidate-vibid:1001000202283": 22,
+      "gas:candidate-vibid:217200066797": 329,
+      "gas:candidate-vibid:1001000254926": 29,
+      "gas:candidate-vibid:1001000121802": 263,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 11,
-      "Манчын Экер-оол Маринович": 38,
-      "Ондар Чылгычы Чимит-Доржуевич": 385,
-      "Ушкалов Вячеслав Андреевич": 39,
-      "Чучев Иван Васильевич": 383,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136005": 11,
+      "gas:candidate-vibid:1001000202283": 38,
+      "gas:candidate-vibid:217200066797": 385,
+      "gas:candidate-vibid:1001000254926": 39,
+      "gas:candidate-vibid:1001000121802": 383,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 10,
-      "Манчын Экер-оол Маринович": 39,
-      "Ондар Чылгычы Чимит-Доржуевич": 288,
-      "Ушкалов Вячеслав Андреевич": 60,
-      "Чучев Иван Васильевич": 443,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136005": 10,
+      "gas:candidate-vibid:1001000202283": 39,
+      "gas:candidate-vibid:217200066797": 288,
+      "gas:candidate-vibid:1001000254926": 60,
+      "gas:candidate-vibid:1001000121802": 443,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 18,
-      "Манчын Экер-оол Маринович": 31,
-      "Ондар Чылгычы Чимит-Доржуевич": 217,
-      "Ушкалов Вячеслав Андреевич": 73,
-      "Чучев Иван Васильевич": 462,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136005": 18,
+      "gas:candidate-vibid:1001000202283": 31,
+      "gas:candidate-vibid:217200066797": 217,
+      "gas:candidate-vibid:1001000254926": 73,
+      "gas:candidate-vibid:1001000121802": 462,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 18,
-      "Манчын Экер-оол Маринович": 30,
-      "Ондар Чылгычы Чимит-Доржуевич": 408,
-      "Ушкалов Вячеслав Андреевич": 46,
-      "Чучев Иван Васильевич": 291,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136005": 18,
+      "gas:candidate-vibid:1001000202283": 30,
+      "gas:candidate-vibid:217200066797": 408,
+      "gas:candidate-vibid:1001000254926": 46,
+      "gas:candidate-vibid:1001000121802": 291,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 19,
-      "Манчын Экер-оол Маринович": 26,
-      "Ондар Чылгычы Чимит-Доржуевич": 307,
-      "Ушкалов Вячеслав Андреевич": 71,
-      "Чучев Иван Васильевич": 521,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136005": 19,
+      "gas:candidate-vibid:1001000202283": 26,
+      "gas:candidate-vibid:217200066797": 307,
+      "gas:candidate-vibid:1001000254926": 71,
+      "gas:candidate-vibid:1001000121802": 521,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 16,
-      "Манчын Экер-оол Маринович": 23,
-      "Ондар Чылгычы Чимит-Доржуевич": 336,
-      "Ушкалов Вячеслав Андреевич": 51,
-      "Чучев Иван Васильевич": 325,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136005": 16,
+      "gas:candidate-vibid:1001000202283": 23,
+      "gas:candidate-vibid:217200066797": 336,
+      "gas:candidate-vibid:1001000254926": 51,
+      "gas:candidate-vibid:1001000121802": 325,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 41,
-      "Ондар Чылгычы Чимит-Доржуевич": 241,
-      "Ушкалов Вячеслав Андреевич": 67,
-      "Чучев Иван Васильевич": 383,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 41,
+      "gas:candidate-vibid:217200066797": 241,
+      "gas:candidate-vibid:1001000254926": 67,
+      "gas:candidate-vibid:1001000121802": 383,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 12,
-      "Манчын Экер-оол Маринович": 16,
-      "Ондар Чылгычы Чимит-Доржуевич": 357,
-      "Ушкалов Вячеслав Андреевич": 31,
-      "Чучев Иван Васильевич": 197,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136005": 12,
+      "gas:candidate-vibid:1001000202283": 16,
+      "gas:candidate-vibid:217200066797": 357,
+      "gas:candidate-vibid:1001000254926": 31,
+      "gas:candidate-vibid:1001000121802": 197,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 19,
-      "Манчын Экер-оол Маринович": 14,
-      "Ондар Чылгычы Чимит-Доржуевич": 165,
-      "Ушкалов Вячеслав Андреевич": 85,
-      "Чучев Иван Васильевич": 427,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136005": 19,
+      "gas:candidate-vibid:1001000202283": 14,
+      "gas:candidate-vibid:217200066797": 165,
+      "gas:candidate-vibid:1001000254926": 85,
+      "gas:candidate-vibid:1001000121802": 427,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 9,
-      "Манчын Экер-оол Маринович": 14,
-      "Ондар Чылгычы Чимит-Доржуевич": 125,
-      "Ушкалов Вячеслав Андреевич": 55,
-      "Чучев Иван Васильевич": 347,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136005": 9,
+      "gas:candidate-vibid:1001000202283": 14,
+      "gas:candidate-vibid:217200066797": 125,
+      "gas:candidate-vibid:1001000254926": 55,
+      "gas:candidate-vibid:1001000121802": 347,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 19,
-      "Манчын Экер-оол Маринович": 35,
-      "Ондар Чылгычы Чимит-Доржуевич": 367,
-      "Ушкалов Вячеслав Андреевич": 74,
-      "Чучев Иван Васильевич": 411,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136005": 19,
+      "gas:candidate-vibid:1001000202283": 35,
+      "gas:candidate-vibid:217200066797": 367,
+      "gas:candidate-vibid:1001000254926": 74,
+      "gas:candidate-vibid:1001000121802": 411,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 24,
-      "Манчын Экер-оол Маринович": 26,
-      "Ондар Чылгычы Чимит-Доржуевич": 347,
-      "Ушкалов Вячеслав Андреевич": 70,
-      "Чучев Иван Васильевич": 471,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136005": 24,
+      "gas:candidate-vibid:1001000202283": 26,
+      "gas:candidate-vibid:217200066797": 347,
+      "gas:candidate-vibid:1001000254926": 70,
+      "gas:candidate-vibid:1001000121802": 471,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 8,
-      "Ондар Чылгычы Чимит-Доржуевич": 165,
-      "Ушкалов Вячеслав Андреевич": 13,
-      "Чучев Иван Васильевич": 110,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 8,
+      "gas:candidate-vibid:217200066797": 165,
+      "gas:candidate-vibid:1001000254926": 13,
+      "gas:candidate-vibid:1001000121802": 110,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066685&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 14,
-      "Манчын Экер-оол Маринович": 10,
-      "Ондар Чылгычы Чимит-Доржуевич": 152,
-      "Ушкалов Вячеслав Андреевич": 32,
-      "Чучев Иван Васильевич": 285,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136005": 14,
+      "gas:candidate-vibid:1001000202283": 10,
+      "gas:candidate-vibid:217200066797": 152,
+      "gas:candidate-vibid:1001000254926": 32,
+      "gas:candidate-vibid:1001000121802": 285,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 13,
-      "Манчын Экер-оол Маринович": 48,
-      "Ондар Чылгычы Чимит-Доржуевич": 381,
-      "Ушкалов Вячеслав Андреевич": 50,
-      "Чучев Иван Васильевич": 631,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136005": 13,
+      "gas:candidate-vibid:1001000202283": 48,
+      "gas:candidate-vibid:217200066797": 381,
+      "gas:candidate-vibid:1001000254926": 50,
+      "gas:candidate-vibid:1001000121802": 631,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 6,
-      "Манчын Экер-оол Маринович": 20,
-      "Ондар Чылгычы Чимит-Доржуевич": 131,
-      "Ушкалов Вячеслав Андреевич": 49,
-      "Чучев Иван Васильевич": 407,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136005": 6,
+      "gas:candidate-vibid:1001000202283": 20,
+      "gas:candidate-vibid:217200066797": 131,
+      "gas:candidate-vibid:1001000254926": 49,
+      "gas:candidate-vibid:1001000121802": 407,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 19,
-      "Манчын Экер-оол Маринович": 16,
-      "Ондар Чылгычы Чимит-Доржуевич": 473,
-      "Ушкалов Вячеслав Андреевич": 31,
-      "Чучев Иван Васильевич": 243,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136005": 19,
+      "gas:candidate-vibid:1001000202283": 16,
+      "gas:candidate-vibid:217200066797": 473,
+      "gas:candidate-vibid:1001000254926": 31,
+      "gas:candidate-vibid:1001000121802": 243,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 162,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 42,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 162,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 42,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 8,
-      "Ондар Чылгычы Чимит-Доржуевич": 370,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 61,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 8,
+      "gas:candidate-vibid:217200066797": 370,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 61,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 9,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 249,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 109,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136005": 9,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 249,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 109,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 212,
-      "Ушкалов Вячеслав Андреевич": 29,
-      "Чучев Иван Васильевич": 157,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 212,
+      "gas:candidate-vibid:1001000254926": 29,
+      "gas:candidate-vibid:1001000121802": 157,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 155,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 35,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 155,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 35,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 10,
-      "Ондар Чылгычы Чимит-Доржуевич": 375,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 63,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 10,
+      "gas:candidate-vibid:217200066797": 375,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 63,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 9,
-      "Ондар Чылгычы Чимит-Доржуевич": 209,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 83,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 9,
+      "gas:candidate-vibid:217200066797": 209,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 83,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 280,
-      "Ушкалов Вячеслав Андреевич": 6,
-      "Чучев Иван Васильевич": 105,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 280,
+      "gas:candidate-vibid:1001000254926": 6,
+      "gas:candidate-vibid:1001000121802": 105,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066687&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 7,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 615,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 29,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 7,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 615,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 29,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066689&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 11,
-      "Ондар Чылгычы Чимит-Доржуевич": 640,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 48,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 11,
+      "gas:candidate-vibid:217200066797": 640,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 48,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066689&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 553,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 553,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066689&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 204,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 14,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 204,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 14,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066691&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 348,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 13,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 348,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 13,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066691&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 372,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 25,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 372,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 25,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066691&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 9,
-      "Ондар Чылгычы Чимит-Доржуевич": 793,
-      "Ушкалов Вячеслав Андреевич": 7,
-      "Чучев Иван Васильевич": 100,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 9,
+      "gas:candidate-vibid:217200066797": 793,
+      "gas:candidate-vibid:1001000254926": 7,
+      "gas:candidate-vibid:1001000121802": 100,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066691&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 408,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 408,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066691&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 431,
-      "Ушкалов Вячеслав Андреевич": 6,
-      "Чучев Иван Васильевич": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 431,
+      "gas:candidate-vibid:1001000254926": 6,
+      "gas:candidate-vibid:1001000121802": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066691&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 163,
-      "Ушкалов Вячеслав Андреевич": 25,
-      "Чучев Иван Васильевич": 104,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 163,
+      "gas:candidate-vibid:1001000254926": 25,
+      "gas:candidate-vibid:1001000121802": 104,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 7,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 68,
-      "Ушкалов Вячеслав Андреевич": 16,
-      "Чучев Иван Васильевич": 75,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136005": 7,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 68,
+      "gas:candidate-vibid:1001000254926": 16,
+      "gas:candidate-vibid:1001000121802": 75,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 13,
-      "Манчын Экер-оол Маринович": 7,
-      "Ондар Чылгычы Чимит-Доржуевич": 230,
-      "Ушкалов Вячеслав Андреевич": 59,
-      "Чучев Иван Васильевич": 180,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136005": 13,
+      "gas:candidate-vibid:1001000202283": 7,
+      "gas:candidate-vibid:217200066797": 230,
+      "gas:candidate-vibid:1001000254926": 59,
+      "gas:candidate-vibid:1001000121802": 180,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 9,
-      "Манчын Экер-оол Маринович": 8,
-      "Ондар Чылгычы Чимит-Доржуевич": 118,
-      "Ушкалов Вячеслав Андреевич": 42,
-      "Чучев Иван Васильевич": 184,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136005": 9,
+      "gas:candidate-vibid:1001000202283": 8,
+      "gas:candidate-vibid:217200066797": 118,
+      "gas:candidate-vibid:1001000254926": 42,
+      "gas:candidate-vibid:1001000121802": 184,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 64,
-      "Ушкалов Вячеслав Андреевич": 24,
-      "Чучев Иван Васильевич": 111,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 64,
+      "gas:candidate-vibid:1001000254926": 24,
+      "gas:candidate-vibid:1001000121802": 111,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 7,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 102,
-      "Ушкалов Вячеслав Андреевич": 7,
-      "Чучев Иван Васильевич": 25,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136005": 7,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 102,
+      "gas:candidate-vibid:1001000254926": 7,
+      "gas:candidate-vibid:1001000121802": 25,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 68,
-      "Ушкалов Вячеслав Андреевич": 9,
-      "Чучев Иван Васильевич": 14,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 68,
+      "gas:candidate-vibid:1001000254926": 9,
+      "gas:candidate-vibid:1001000121802": 14,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 7,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 288,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 22,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 7,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 288,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 22,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 176,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 15,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 176,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 15,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 213,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 36,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 213,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 36,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 9,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 277,
-      "Ушкалов Вячеслав Андреевич": 11,
-      "Чучев Иван Васильевич": 48,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136005": 9,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 277,
+      "gas:candidate-vibid:1001000254926": 11,
+      "gas:candidate-vibid:1001000121802": 48,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 170,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 23,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 170,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 23,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 277,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 277,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 192,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 192,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066693&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 532,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 532,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066695&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 258,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 12,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 258,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 12,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066695&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 337,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 19,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 337,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 19,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066695&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 795,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 87,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 795,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 87,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066695&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 362,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 362,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066695&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 219,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 219,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066695&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 452,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 452,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066695&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 17,
-      "Манчын Экер-оол Маринович": 23,
-      "Ондар Чылгычы Чимит-Доржуевич": 510,
-      "Ушкалов Вячеслав Андреевич": 46,
-      "Чучев Иван Васильевич": 355,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136005": 17,
+      "gas:candidate-vibid:1001000202283": 23,
+      "gas:candidate-vibid:217200066797": 510,
+      "gas:candidate-vibid:1001000254926": 46,
+      "gas:candidate-vibid:1001000121802": 355,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 6,
-      "Манчын Экер-оол Маринович": 7,
-      "Ондар Чылгычы Чимит-Доржуевич": 321,
-      "Ушкалов Вячеслав Андреевич": 13,
-      "Чучев Иван Васильевич": 161,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136005": 6,
+      "gas:candidate-vibid:1001000202283": 7,
+      "gas:candidate-vibid:217200066797": 321,
+      "gas:candidate-vibid:1001000254926": 13,
+      "gas:candidate-vibid:1001000121802": 161,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 180,
-      "Ушкалов Вячеслав Андреевич": 8,
-      "Чучев Иван Васильевич": 111,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 180,
+      "gas:candidate-vibid:1001000254926": 8,
+      "gas:candidate-vibid:1001000121802": 111,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 57,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 57,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 16,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 434,
-      "Ушкалов Вячеслав Андреевич": 29,
-      "Чучев Иван Васильевич": 544,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136005": 16,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 434,
+      "gas:candidate-vibid:1001000254926": 29,
+      "gas:candidate-vibid:1001000121802": 544,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 193,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 19,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 193,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 19,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 68,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 47,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 68,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 47,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 245,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 93,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 245,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 93,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 360,
-      "Ушкалов Вячеслав Андреевич": 7,
-      "Чучев Иван Васильевич": 75,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 360,
+      "gas:candidate-vibid:1001000254926": 7,
+      "gas:candidate-vibid:1001000121802": 75,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 134,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 25,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 134,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 25,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 328,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 10,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 328,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 10,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066697&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 12,
-      "Манчын Экер-оол Маринович": 13,
-      "Ондар Чылгычы Чимит-Доржуевич": 648,
-      "Ушкалов Вячеслав Андреевич": 5,
-      "Чучев Иван Васильевич": 87,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136005": 12,
+      "gas:candidate-vibid:1001000202283": 13,
+      "gas:candidate-vibid:217200066797": 648,
+      "gas:candidate-vibid:1001000254926": 5,
+      "gas:candidate-vibid:1001000121802": 87,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066699&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 281,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 32,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 281,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 32,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066699&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 254,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 56,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 254,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 56,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066699&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 173,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 70,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 173,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 70,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066699&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 0,
-      "Ондар Чылгычы Чимит-Доржуевич": 112,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 26,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 0,
+      "gas:candidate-vibid:217200066797": 112,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 26,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066699&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 7,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 281,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 32,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 7,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 281,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 32,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066699&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 6,
-      "Манчын Экер-оол Маринович": 12,
-      "Ондар Чылгычы Чимит-Доржуевич": 262,
-      "Ушкалов Вячеслав Андреевич": 37,
-      "Чучев Иван Васильевич": 34,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136005": 6,
+      "gas:candidate-vibid:1001000202283": 12,
+      "gas:candidate-vibid:217200066797": 262,
+      "gas:candidate-vibid:1001000254926": 37,
+      "gas:candidate-vibid:1001000121802": 34,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066699&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 11,
-      "Манчын Экер-оол Маринович": 17,
-      "Ондар Чылгычы Чимит-Доржуевич": 447,
-      "Ушкалов Вячеслав Андреевич": 41,
-      "Чучев Иван Васильевич": 104,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136005": 11,
+      "gas:candidate-vibid:1001000202283": 17,
+      "gas:candidate-vibid:217200066797": 447,
+      "gas:candidate-vibid:1001000254926": 41,
+      "gas:candidate-vibid:1001000121802": 104,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066701&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 55,
-      "Ушкалов Вячеслав Андреевич": 45,
-      "Чучев Иван Васильевич": 37,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 55,
+      "gas:candidate-vibid:1001000254926": 45,
+      "gas:candidate-vibid:1001000121802": 37,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066701&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 383,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 383,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066701&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 429,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 9,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 429,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 9,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066701&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 132,
-      "Ушкалов Вячеслав Андреевич": 23,
-      "Чучев Иван Васильевич": 21,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 132,
+      "gas:candidate-vibid:1001000254926": 23,
+      "gas:candidate-vibid:1001000121802": 21,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066701&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 68,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 8,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 68,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 8,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066701&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 18,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 14,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 18,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 14,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066701&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 16,
-      "Манчын Экер-оол Маринович": 21,
-      "Ондар Чылгычы Чимит-Доржуевич": 355,
-      "Ушкалов Вячеслав Андреевич": 21,
-      "Чучев Иван Васильевич": 103,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136005": 16,
+      "gas:candidate-vibid:1001000202283": 21,
+      "gas:candidate-vibid:217200066797": 355,
+      "gas:candidate-vibid:1001000254926": 21,
+      "gas:candidate-vibid:1001000121802": 103,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 10,
-      "Манчын Экер-оол Маринович": 19,
-      "Ондар Чылгычы Чимит-Доржуевич": 281,
-      "Ушкалов Вячеслав Андреевич": 11,
-      "Чучев Иван Васильевич": 60,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136005": 10,
+      "gas:candidate-vibid:1001000202283": 19,
+      "gas:candidate-vibid:217200066797": 281,
+      "gas:candidate-vibid:1001000254926": 11,
+      "gas:candidate-vibid:1001000121802": 60,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 23,
-      "Манчын Экер-оол Маринович": 27,
-      "Ондар Чылгычы Чимит-Доржуевич": 333,
-      "Ушкалов Вячеслав Андреевич": 40,
-      "Чучев Иван Васильевич": 188,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000136005": 23,
+      "gas:candidate-vibid:1001000202283": 27,
+      "gas:candidate-vibid:217200066797": 333,
+      "gas:candidate-vibid:1001000254926": 40,
+      "gas:candidate-vibid:1001000121802": 188,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 6,
-      "Манчын Экер-оол Маринович": 14,
-      "Ондар Чылгычы Чимит-Доржуевич": 275,
-      "Ушкалов Вячеслав Андреевич": 32,
-      "Чучев Иван Васильевич": 117,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136005": 6,
+      "gas:candidate-vibid:1001000202283": 14,
+      "gas:candidate-vibid:217200066797": 275,
+      "gas:candidate-vibid:1001000254926": 32,
+      "gas:candidate-vibid:1001000121802": 117,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 8,
-      "Манчын Экер-оол Маринович": 8,
-      "Ондар Чылгычы Чимит-Доржуевич": 226,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 18,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136005": 8,
+      "gas:candidate-vibid:1001000202283": 8,
+      "gas:candidate-vibid:217200066797": 226,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 18,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 12,
-      "Манчын Экер-оол Маринович": 19,
-      "Ондар Чылгычы Чимит-Доржуевич": 489,
-      "Ушкалов Вячеслав Андреевич": 10,
-      "Чучев Иван Васильевич": 60,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136005": 12,
+      "gas:candidate-vibid:1001000202283": 19,
+      "gas:candidate-vibid:217200066797": 489,
+      "gas:candidate-vibid:1001000254926": 10,
+      "gas:candidate-vibid:1001000121802": 60,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 13,
-      "Ондар Чылгычы Чимит-Доржуевич": 191,
-      "Ушкалов Вячеслав Андреевич": 6,
-      "Чучев Иван Васильевич": 38,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 13,
+      "gas:candidate-vibid:217200066797": 191,
+      "gas:candidate-vibid:1001000254926": 6,
+      "gas:candidate-vibid:1001000121802": 38,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 11,
-      "Манчын Экер-оол Маринович": 10,
-      "Ондар Чылгычы Чимит-Доржуевич": 247,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 34,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136005": 11,
+      "gas:candidate-vibid:1001000202283": 10,
+      "gas:candidate-vibid:217200066797": 247,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 34,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 30,
-      "Манчын Экер-оол Маринович": 36,
-      "Ондар Чылгычы Чимит-Доржуевич": 317,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 54,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136005": 30,
+      "gas:candidate-vibid:1001000202283": 36,
+      "gas:candidate-vibid:217200066797": 317,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 54,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 11,
-      "Манчын Экер-оол Маринович": 16,
-      "Ондар Чылгычы Чимит-Доржуевич": 180,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 20,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136005": 11,
+      "gas:candidate-vibid:1001000202283": 16,
+      "gas:candidate-vibid:217200066797": 180,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 20,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 13,
-      "Манчын Экер-оол Маринович": 19,
-      "Ондар Чылгычы Чимит-Доржуевич": 364,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 32,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136005": 13,
+      "gas:candidate-vibid:1001000202283": 19,
+      "gas:candidate-vibid:217200066797": 364,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 32,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 8,
-      "Манчын Экер-оол Маринович": 14,
-      "Ондар Чылгычы Чимит-Доржуевич": 197,
-      "Ушкалов Вячеслав Андреевич": 2,
-      "Чучев Иван Васильевич": 19,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136005": 8,
+      "gas:candidate-vibid:1001000202283": 14,
+      "gas:candidate-vibid:217200066797": 197,
+      "gas:candidate-vibid:1001000254926": 2,
+      "gas:candidate-vibid:1001000121802": 19,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 6,
-      "Ондар Чылгычы Чимит-Доржуевич": 157,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 23,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 6,
+      "gas:candidate-vibid:217200066797": 157,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 23,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066703&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 19,
-      "Манчын Экер-оол Маринович": 29,
-      "Ондар Чылгычы Чимит-Доржуевич": 748,
-      "Ушкалов Вячеслав Андреевич": 13,
-      "Чучев Иван Васильевич": 188,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136005": 19,
+      "gas:candidate-vibid:1001000202283": 29,
+      "gas:candidate-vibid:217200066797": 748,
+      "gas:candidate-vibid:1001000254926": 13,
+      "gas:candidate-vibid:1001000121802": 188,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066705&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 4,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 339,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 29,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 4,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 339,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 29,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066705&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 108,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 27,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 108,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 27,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066705&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 374,
-      "Ушкалов Вячеслав Андреевич": 7,
-      "Чучев Иван Васильевич": 60,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 374,
+      "gas:candidate-vibid:1001000254926": 7,
+      "gas:candidate-vibid:1001000121802": 60,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066705&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 6,
-      "Манчын Экер-оол Маринович": 179,
-      "Ондар Чылгычы Чимит-Доржуевич": 786,
-      "Ушкалов Вячеслав Андреевич": 31,
-      "Чучев Иван Васильевич": 200,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136005": 6,
+      "gas:candidate-vibid:1001000202283": 179,
+      "gas:candidate-vibid:217200066797": 786,
+      "gas:candidate-vibid:1001000254926": 31,
+      "gas:candidate-vibid:1001000121802": 200,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066707&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 86,
-      "Ондар Чылгычы Чимит-Доржуевич": 218,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 91,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 86,
+      "gas:candidate-vibid:217200066797": 218,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 91,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066707&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 28,
-      "Ондар Чылгычы Чимит-Доржуевич": 316,
-      "Ушкалов Вячеслав Андреевич": 6,
-      "Чучев Иван Васильевич": 27,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 28,
+      "gas:candidate-vibid:217200066797": 316,
+      "gas:candidate-vibid:1001000254926": 6,
+      "gas:candidate-vibid:1001000121802": 27,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066707&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 3,
-      "Ондар Чылгычы Чимит-Доржуевич": 83,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 3,
+      "gas:candidate-vibid:217200066797": 83,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066707&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 8,
-      "Ондар Чылгычы Чимит-Доржуевич": 132,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 8,
+      "gas:candidate-vibid:217200066797": 132,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066707&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 26,
-      "Ондар Чылгычы Чимит-Доржуевич": 401,
-      "Ушкалов Вячеслав Андреевич": 4,
-      "Чучев Иван Васильевич": 59,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 26,
+      "gas:candidate-vibid:217200066797": 401,
+      "gas:candidate-vibid:1001000254926": 4,
+      "gas:candidate-vibid:1001000121802": 59,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066707&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 2,
-      "Манчын Экер-оол Маринович": 136,
-      "Ондар Чылгычы Чимит-Доржуевич": 204,
-      "Ушкалов Вячеслав Андреевич": 1,
-      "Чучев Иван Васильевич": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 2,
+      "gas:candidate-vibid:1001000202283": 136,
+      "gas:candidate-vibid:217200066797": 204,
+      "gas:candidate-vibid:1001000254926": 1,
+      "gas:candidate-vibid:1001000121802": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066711&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 3,
-      "Манчын Экер-оол Маринович": 104,
-      "Ондар Чылгычы Чимит-Доржуевич": 218,
-      "Ушкалов Вячеслав Андреевич": 3,
-      "Чучев Иван Васильевич": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 3,
+      "gas:candidate-vibid:1001000202283": 104,
+      "gas:candidate-vibid:217200066797": 218,
+      "gas:candidate-vibid:1001000254926": 3,
+      "gas:candidate-vibid:1001000121802": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200066711&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 1,
-      "Манчын Экер-оол Маринович": 5,
-      "Ондар Чылгычы Чимит-Доржуевич": 371,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 28,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 1,
+      "gas:candidate-vibid:1001000202283": 5,
+      "gas:candidate-vibid:217200066797": 371,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 28,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200068936&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 15,
-      "Манчын Экер-оол Маринович": 33,
-      "Ондар Чылгычы Чимит-Доржуевич": 610,
-      "Ушкалов Вячеслав Андреевич": 14,
-      "Чучев Иван Васильевич": 102,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136005": 15,
+      "gas:candidate-vibid:1001000202283": 33,
+      "gas:candidate-vibid:217200066797": 610,
+      "gas:candidate-vibid:1001000254926": 14,
+      "gas:candidate-vibid:1001000121802": 102,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200068936&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 1,
-      "Ондар Чылгычы Чимит-Доржуевич": 350,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 68,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 1,
+      "gas:candidate-vibid:217200066797": 350,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 68,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200068936&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 5,
-      "Манчын Экер-оол Маринович": 4,
-      "Ондар Чылгычы Чимит-Доржуевич": 287,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 17,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136005": 5,
+      "gas:candidate-vibid:1001000202283": 4,
+      "gas:candidate-vibid:217200066797": 287,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 17,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200068936&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 12,
-      "Манчын Экер-оол Маринович": 11,
-      "Ондар Чылгычы Чимит-Доржуевич": 561,
-      "Ушкалов Вячеслав Андреевич": 13,
-      "Чучев Иван Васильевич": 109,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136005": 12,
+      "gas:candidate-vibid:1001000202283": 11,
+      "gas:candidate-vibid:217200066797": 561,
+      "gas:candidate-vibid:1001000254926": 13,
+      "gas:candidate-vibid:1001000121802": 109,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200068936&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_17_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамба-Хуурак Остап Дамбарович": 0,
-      "Манчын Экер-оол Маринович": 2,
-      "Ондар Чылгычы Чимит-Доржуевич": 117,
-      "Ушкалов Вячеслав Андреевич": 0,
-      "Чучев Иван Васильевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136005": 0,
+      "gas:candidate-vibid:1001000202283": 2,
+      "gas:candidate-vibid:217200066797": 117,
+      "gas:candidate-vibid:1001000254926": 0,
+      "gas:candidate-vibid:1001000121802": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=172000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=217200068936&region=0&sub_region=0&type=429",

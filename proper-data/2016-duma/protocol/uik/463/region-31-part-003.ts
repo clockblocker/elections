@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 332,
-      "Порхун Вера Семёновна": 32,
-      "Свищёв Андрей Викторович": 22,
-      "Селиванов Юрий Алексеевич": 211,
-      "Старовойтов Александр Сергеевич": 121,
-      "Хорошилов Руслан Николаевич": 57,
-      "Чернышова Наталия Александровна": 33,
-      "Шевляков Валерий Алексеевич": 156
+      "gas:candidate-vibid:2312000566472": 332,
+      "gas:candidate-vibid:2312000565986": 32,
+      "gas:candidate-vibid:2312000566138": 22,
+      "gas:candidate-vibid:2312000564809": 211,
+      "gas:candidate-vibid:2312000538570": 121,
+      "gas:candidate-vibid:2312000566273": 57,
+      "gas:candidate-vibid:2312000565731": 33,
+      "gas:candidate-vibid:2312000564503": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 281,
-      "Порхун Вера Семёновна": 18,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 83,
-      "Старовойтов Александр Сергеевич": 66,
-      "Хорошилов Руслан Николаевич": 38,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 56
+      "gas:candidate-vibid:2312000566472": 281,
+      "gas:candidate-vibid:2312000565986": 18,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 83,
+      "gas:candidate-vibid:2312000538570": 66,
+      "gas:candidate-vibid:2312000566273": 38,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 190,
-      "Порхун Вера Семёновна": 23,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 130,
-      "Старовойтов Александр Сергеевич": 86,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 97
+      "gas:candidate-vibid:2312000566472": 190,
+      "gas:candidate-vibid:2312000565986": 23,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 130,
+      "gas:candidate-vibid:2312000538570": 86,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 279,
-      "Порхун Вера Семёновна": 25,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 82,
-      "Старовойтов Александр Сергеевич": 92,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 12,
-      "Шевляков Валерий Алексеевич": 82
+      "gas:candidate-vibid:2312000566472": 279,
+      "gas:candidate-vibid:2312000565986": 25,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 82,
+      "gas:candidate-vibid:2312000538570": 92,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 12,
+      "gas:candidate-vibid:2312000564503": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 345,
-      "Порхун Вера Семёновна": 31,
-      "Свищёв Андрей Викторович": 25,
-      "Селиванов Юрий Алексеевич": 196,
-      "Старовойтов Александр Сергеевич": 102,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 29,
-      "Шевляков Валерий Алексеевич": 162
+      "gas:candidate-vibid:2312000566472": 345,
+      "gas:candidate-vibid:2312000565986": 31,
+      "gas:candidate-vibid:2312000566138": 25,
+      "gas:candidate-vibid:2312000564809": 196,
+      "gas:candidate-vibid:2312000538570": 102,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 29,
+      "gas:candidate-vibid:2312000564503": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 202,
-      "Порхун Вера Семёновна": 29,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 110,
-      "Старовойтов Александр Сергеевич": 85,
-      "Хорошилов Руслан Николаевич": 28,
-      "Чернышова Наталия Александровна": 22,
-      "Шевляков Валерий Алексеевич": 95
+      "gas:candidate-vibid:2312000566472": 202,
+      "gas:candidate-vibid:2312000565986": 29,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 110,
+      "gas:candidate-vibid:2312000538570": 85,
+      "gas:candidate-vibid:2312000566273": 28,
+      "gas:candidate-vibid:2312000565731": 22,
+      "gas:candidate-vibid:2312000564503": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 310,
-      "Порхун Вера Семёновна": 35,
-      "Свищёв Андрей Викторович": 28,
-      "Селиванов Юрий Алексеевич": 176,
-      "Старовойтов Александр Сергеевич": 101,
-      "Хорошилов Руслан Николаевич": 50,
-      "Чернышова Наталия Александровна": 36,
-      "Шевляков Валерий Алексеевич": 123
+      "gas:candidate-vibid:2312000566472": 310,
+      "gas:candidate-vibid:2312000565986": 35,
+      "gas:candidate-vibid:2312000566138": 28,
+      "gas:candidate-vibid:2312000564809": 176,
+      "gas:candidate-vibid:2312000538570": 101,
+      "gas:candidate-vibid:2312000566273": 50,
+      "gas:candidate-vibid:2312000565731": 36,
+      "gas:candidate-vibid:2312000564503": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 328,
-      "Порхун Вера Семёновна": 21,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 137,
-      "Старовойтов Александр Сергеевич": 73,
-      "Хорошилов Руслан Николаевич": 39,
-      "Чернышова Наталия Александровна": 34,
-      "Шевляков Валерий Алексеевич": 115
+      "gas:candidate-vibid:2312000566472": 328,
+      "gas:candidate-vibid:2312000565986": 21,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 137,
+      "gas:candidate-vibid:2312000538570": 73,
+      "gas:candidate-vibid:2312000566273": 39,
+      "gas:candidate-vibid:2312000565731": 34,
+      "gas:candidate-vibid:2312000564503": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 302,
-      "Порхун Вера Семёновна": 35,
-      "Свищёв Андрей Викторович": 24,
-      "Селиванов Юрий Алексеевич": 147,
-      "Старовойтов Александр Сергеевич": 103,
-      "Хорошилов Руслан Николаевич": 45,
-      "Чернышова Наталия Александровна": 34,
-      "Шевляков Валерий Алексеевич": 130
+      "gas:candidate-vibid:2312000566472": 302,
+      "gas:candidate-vibid:2312000565986": 35,
+      "gas:candidate-vibid:2312000566138": 24,
+      "gas:candidate-vibid:2312000564809": 147,
+      "gas:candidate-vibid:2312000538570": 103,
+      "gas:candidate-vibid:2312000566273": 45,
+      "gas:candidate-vibid:2312000565731": 34,
+      "gas:candidate-vibid:2312000564503": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 206,
-      "Порхун Вера Семёновна": 27,
-      "Свищёв Андрей Викторович": 22,
-      "Селиванов Юрий Алексеевич": 116,
-      "Старовойтов Александр Сергеевич": 65,
-      "Хорошилов Руслан Николаевич": 32,
-      "Чернышова Наталия Александровна": 23,
-      "Шевляков Валерий Алексеевич": 93
+      "gas:candidate-vibid:2312000566472": 206,
+      "gas:candidate-vibid:2312000565986": 27,
+      "gas:candidate-vibid:2312000566138": 22,
+      "gas:candidate-vibid:2312000564809": 116,
+      "gas:candidate-vibid:2312000538570": 65,
+      "gas:candidate-vibid:2312000566273": 32,
+      "gas:candidate-vibid:2312000565731": 23,
+      "gas:candidate-vibid:2312000564503": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 218,
-      "Порхун Вера Семёновна": 18,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 98,
-      "Старовойтов Александр Сергеевич": 62,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 22,
-      "Шевляков Валерий Алексеевич": 93
+      "gas:candidate-vibid:2312000566472": 218,
+      "gas:candidate-vibid:2312000565986": 18,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 98,
+      "gas:candidate-vibid:2312000538570": 62,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 22,
+      "gas:candidate-vibid:2312000564503": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 147,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 75,
-      "Старовойтов Александр Сергеевич": 77,
-      "Хорошилов Руслан Николаевич": 20,
-      "Чернышова Наталия Александровна": 15,
-      "Шевляков Валерий Алексеевич": 51
+      "gas:candidate-vibid:2312000566472": 147,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 75,
+      "gas:candidate-vibid:2312000538570": 77,
+      "gas:candidate-vibid:2312000566273": 20,
+      "gas:candidate-vibid:2312000565731": 15,
+      "gas:candidate-vibid:2312000564503": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 145,
-      "Порхун Вера Семёновна": 15,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 76,
-      "Старовойтов Александр Сергеевич": 62,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 14,
-      "Шевляков Валерий Алексеевич": 59
+      "gas:candidate-vibid:2312000566472": 145,
+      "gas:candidate-vibid:2312000565986": 15,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 76,
+      "gas:candidate-vibid:2312000538570": 62,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 14,
+      "gas:candidate-vibid:2312000564503": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 369,
-      "Порхун Вера Семёновна": 36,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 296,
-      "Старовойтов Александр Сергеевич": 135,
-      "Хорошилов Руслан Николаевич": 48,
-      "Чернышова Наталия Александровна": 29,
-      "Шевляков Валерий Алексеевич": 101
+      "gas:candidate-vibid:2312000566472": 369,
+      "gas:candidate-vibid:2312000565986": 36,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 296,
+      "gas:candidate-vibid:2312000538570": 135,
+      "gas:candidate-vibid:2312000566273": 48,
+      "gas:candidate-vibid:2312000565731": 29,
+      "gas:candidate-vibid:2312000564503": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 266,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 142,
-      "Старовойтов Александр Сергеевич": 99,
-      "Хорошилов Руслан Николаевич": 31,
-      "Чернышова Наталия Александровна": 19,
-      "Шевляков Валерий Алексеевич": 48
+      "gas:candidate-vibid:2312000566472": 266,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 142,
+      "gas:candidate-vibid:2312000538570": 99,
+      "gas:candidate-vibid:2312000566273": 31,
+      "gas:candidate-vibid:2312000565731": 19,
+      "gas:candidate-vibid:2312000564503": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 199,
-      "Порхун Вера Семёновна": 23,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 204,
-      "Старовойтов Александр Сергеевич": 72,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 27,
-      "Шевляков Валерий Алексеевич": 86
+      "gas:candidate-vibid:2312000566472": 199,
+      "gas:candidate-vibid:2312000565986": 23,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 204,
+      "gas:candidate-vibid:2312000538570": 72,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 27,
+      "gas:candidate-vibid:2312000564503": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 188,
-      "Порхун Вера Семёновна": 10,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 190,
-      "Старовойтов Александр Сергеевич": 69,
-      "Хорошилов Руслан Николаевич": 28,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 66
+      "gas:candidate-vibid:2312000566472": 188,
+      "gas:candidate-vibid:2312000565986": 10,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 190,
+      "gas:candidate-vibid:2312000538570": 69,
+      "gas:candidate-vibid:2312000566273": 28,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 248,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 220,
-      "Старовойтов Александр Сергеевич": 83,
-      "Хорошилов Руслан Николаевич": 60,
-      "Чернышова Наталия Александровна": 19,
-      "Шевляков Валерий Алексеевич": 91
+      "gas:candidate-vibid:2312000566472": 248,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 220,
+      "gas:candidate-vibid:2312000538570": 83,
+      "gas:candidate-vibid:2312000566273": 60,
+      "gas:candidate-vibid:2312000565731": 19,
+      "gas:candidate-vibid:2312000564503": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 246,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 141,
-      "Старовойтов Александр Сергеевич": 87,
-      "Хорошилов Руслан Николаевич": 32,
-      "Чернышова Наталия Александровна": 22,
-      "Шевляков Валерий Алексеевич": 69
+      "gas:candidate-vibid:2312000566472": 246,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 141,
+      "gas:candidate-vibid:2312000538570": 87,
+      "gas:candidate-vibid:2312000566273": 32,
+      "gas:candidate-vibid:2312000565731": 22,
+      "gas:candidate-vibid:2312000564503": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 203,
-      "Порхун Вера Семёновна": 18,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 121,
-      "Старовойтов Александр Сергеевич": 73,
-      "Хорошилов Руслан Николаевич": 27,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 111
+      "gas:candidate-vibid:2312000566472": 203,
+      "gas:candidate-vibid:2312000565986": 18,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 121,
+      "gas:candidate-vibid:2312000538570": 73,
+      "gas:candidate-vibid:2312000566273": 27,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 239,
-      "Порхун Вера Семёновна": 42,
-      "Свищёв Андрей Викторович": 23,
-      "Селиванов Юрий Алексеевич": 133,
-      "Старовойтов Александр Сергеевич": 74,
-      "Хорошилов Руслан Николаевич": 45,
-      "Чернышова Наталия Александровна": 31,
-      "Шевляков Валерий Алексеевич": 123
+      "gas:candidate-vibid:2312000566472": 239,
+      "gas:candidate-vibid:2312000565986": 42,
+      "gas:candidate-vibid:2312000566138": 23,
+      "gas:candidate-vibid:2312000564809": 133,
+      "gas:candidate-vibid:2312000538570": 74,
+      "gas:candidate-vibid:2312000566273": 45,
+      "gas:candidate-vibid:2312000565731": 31,
+      "gas:candidate-vibid:2312000564503": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 557,
-      "Порхун Вера Семёновна": 59,
-      "Свищёв Андрей Викторович": 52,
-      "Селиванов Юрий Алексеевич": 226,
-      "Старовойтов Александр Сергеевич": 209,
-      "Хорошилов Руслан Николаевич": 120,
-      "Чернышова Наталия Александровна": 165,
-      "Шевляков Валерий Алексеевич": 147
+      "gas:candidate-vibid:2312000566472": 557,
+      "gas:candidate-vibid:2312000565986": 59,
+      "gas:candidate-vibid:2312000566138": 52,
+      "gas:candidate-vibid:2312000564809": 226,
+      "gas:candidate-vibid:2312000538570": 209,
+      "gas:candidate-vibid:2312000566273": 120,
+      "gas:candidate-vibid:2312000565731": 165,
+      "gas:candidate-vibid:2312000564503": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 245,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 18,
-      "Селиванов Юрий Алексеевич": 134,
-      "Старовойтов Александр Сергеевич": 98,
-      "Хорошилов Руслан Николаевич": 39,
-      "Чернышова Наталия Александровна": 17,
-      "Шевляков Валерий Алексеевич": 80
+      "gas:candidate-vibid:2312000566472": 245,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 18,
+      "gas:candidate-vibid:2312000564809": 134,
+      "gas:candidate-vibid:2312000538570": 98,
+      "gas:candidate-vibid:2312000566273": 39,
+      "gas:candidate-vibid:2312000565731": 17,
+      "gas:candidate-vibid:2312000564503": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 298,
-      "Порхун Вера Семёновна": 34,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 141,
-      "Старовойтов Александр Сергеевич": 99,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 26,
-      "Шевляков Валерий Алексеевич": 137
+      "gas:candidate-vibid:2312000566472": 298,
+      "gas:candidate-vibid:2312000565986": 34,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 141,
+      "gas:candidate-vibid:2312000538570": 99,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 26,
+      "gas:candidate-vibid:2312000564503": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 255,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 17,
-      "Селиванов Юрий Алексеевич": 143,
-      "Старовойтов Александр Сергеевич": 84,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 19,
-      "Шевляков Валерий Алексеевич": 108
+      "gas:candidate-vibid:2312000566472": 255,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 17,
+      "gas:candidate-vibid:2312000564809": 143,
+      "gas:candidate-vibid:2312000538570": 84,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 19,
+      "gas:candidate-vibid:2312000564503": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 150,
-      "Порхун Вера Семёновна": 15,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 90,
-      "Старовойтов Александр Сергеевич": 44,
-      "Хорошилов Руслан Николаевич": 24,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 81
+      "gas:candidate-vibid:2312000566472": 150,
+      "gas:candidate-vibid:2312000565986": 15,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 90,
+      "gas:candidate-vibid:2312000538570": 44,
+      "gas:candidate-vibid:2312000566273": 24,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 274,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 87,
-      "Старовойтов Александр Сергеевич": 48,
-      "Хорошилов Руслан Николаевич": 31,
-      "Чернышова Наталия Александровна": 20,
-      "Шевляков Валерий Алексеевич": 57
+      "gas:candidate-vibid:2312000566472": 274,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 87,
+      "gas:candidate-vibid:2312000538570": 48,
+      "gas:candidate-vibid:2312000566273": 31,
+      "gas:candidate-vibid:2312000565731": 20,
+      "gas:candidate-vibid:2312000564503": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 362,
-      "Порхун Вера Семёновна": 51,
-      "Свищёв Андрей Викторович": 23,
-      "Селиванов Юрий Алексеевич": 128,
-      "Старовойтов Александр Сергеевич": 67,
-      "Хорошилов Руслан Николаевич": 30,
-      "Чернышова Наталия Александровна": 36,
-      "Шевляков Валерий Алексеевич": 131
+      "gas:candidate-vibid:2312000566472": 362,
+      "gas:candidate-vibid:2312000565986": 51,
+      "gas:candidate-vibid:2312000566138": 23,
+      "gas:candidate-vibid:2312000564809": 128,
+      "gas:candidate-vibid:2312000538570": 67,
+      "gas:candidate-vibid:2312000566273": 30,
+      "gas:candidate-vibid:2312000565731": 36,
+      "gas:candidate-vibid:2312000564503": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 391,
-      "Порхун Вера Семёновна": 32,
-      "Свищёв Андрей Викторович": 36,
-      "Селиванов Юрий Алексеевич": 111,
-      "Старовойтов Александр Сергеевич": 74,
-      "Хорошилов Руслан Николаевич": 38,
-      "Чернышова Наталия Александровна": 25,
-      "Шевляков Валерий Алексеевич": 78
+      "gas:candidate-vibid:2312000566472": 391,
+      "gas:candidate-vibid:2312000565986": 32,
+      "gas:candidate-vibid:2312000566138": 36,
+      "gas:candidate-vibid:2312000564809": 111,
+      "gas:candidate-vibid:2312000538570": 74,
+      "gas:candidate-vibid:2312000566273": 38,
+      "gas:candidate-vibid:2312000565731": 25,
+      "gas:candidate-vibid:2312000564503": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 318,
-      "Порхун Вера Семёновна": 39,
-      "Свищёв Андрей Викторович": 24,
-      "Селиванов Юрий Алексеевич": 188,
-      "Старовойтов Александр Сергеевич": 113,
-      "Хорошилов Руслан Николаевич": 76,
-      "Чернышова Наталия Александровна": 32,
-      "Шевляков Валерий Алексеевич": 124
+      "gas:candidate-vibid:2312000566472": 318,
+      "gas:candidate-vibid:2312000565986": 39,
+      "gas:candidate-vibid:2312000566138": 24,
+      "gas:candidate-vibid:2312000564809": 188,
+      "gas:candidate-vibid:2312000538570": 113,
+      "gas:candidate-vibid:2312000566273": 76,
+      "gas:candidate-vibid:2312000565731": 32,
+      "gas:candidate-vibid:2312000564503": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 300,
-      "Порхун Вера Семёновна": 37,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 201,
-      "Старовойтов Александр Сергеевич": 109,
-      "Хорошилов Руслан Николаевич": 57,
-      "Чернышова Наталия Александровна": 33,
-      "Шевляков Валерий Алексеевич": 168
+      "gas:candidate-vibid:2312000566472": 300,
+      "gas:candidate-vibid:2312000565986": 37,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 201,
+      "gas:candidate-vibid:2312000538570": 109,
+      "gas:candidate-vibid:2312000566273": 57,
+      "gas:candidate-vibid:2312000565731": 33,
+      "gas:candidate-vibid:2312000564503": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 192,
-      "Порхун Вера Семёновна": 26,
-      "Свищёв Андрей Викторович": 18,
-      "Селиванов Юрий Алексеевич": 150,
-      "Старовойтов Александр Сергеевич": 75,
-      "Хорошилов Руслан Николаевич": 51,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 114
+      "gas:candidate-vibid:2312000566472": 192,
+      "gas:candidate-vibid:2312000565986": 26,
+      "gas:candidate-vibid:2312000566138": 18,
+      "gas:candidate-vibid:2312000564809": 150,
+      "gas:candidate-vibid:2312000538570": 75,
+      "gas:candidate-vibid:2312000566273": 51,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 301,
-      "Порхун Вера Семёновна": 33,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 251,
-      "Старовойтов Александр Сергеевич": 110,
-      "Хорошилов Руслан Николаевич": 38,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 132
+      "gas:candidate-vibid:2312000566472": 301,
+      "gas:candidate-vibid:2312000565986": 33,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 251,
+      "gas:candidate-vibid:2312000538570": 110,
+      "gas:candidate-vibid:2312000566273": 38,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 293,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 26,
-      "Селиванов Юрий Алексеевич": 181,
-      "Старовойтов Александр Сергеевич": 89,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 86
+      "gas:candidate-vibid:2312000566472": 293,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 26,
+      "gas:candidate-vibid:2312000564809": 181,
+      "gas:candidate-vibid:2312000538570": 89,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 327,
-      "Порхун Вера Семёновна": 43,
-      "Свищёв Андрей Викторович": 28,
-      "Селиванов Юрий Алексеевич": 165,
-      "Старовойтов Александр Сергеевич": 121,
-      "Хорошилов Руслан Николаевич": 52,
-      "Чернышова Наталия Александровна": 35,
-      "Шевляков Валерий Алексеевич": 120
+      "gas:candidate-vibid:2312000566472": 327,
+      "gas:candidate-vibid:2312000565986": 43,
+      "gas:candidate-vibid:2312000566138": 28,
+      "gas:candidate-vibid:2312000564809": 165,
+      "gas:candidate-vibid:2312000538570": 121,
+      "gas:candidate-vibid:2312000566273": 52,
+      "gas:candidate-vibid:2312000565731": 35,
+      "gas:candidate-vibid:2312000564503": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 338,
-      "Порхун Вера Семёновна": 27,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 254,
-      "Старовойтов Александр Сергеевич": 105,
-      "Хорошилов Руслан Николаевич": 61,
-      "Чернышова Наталия Александровна": 36,
-      "Шевляков Валерий Алексеевич": 119
+      "gas:candidate-vibid:2312000566472": 338,
+      "gas:candidate-vibid:2312000565986": 27,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 254,
+      "gas:candidate-vibid:2312000538570": 105,
+      "gas:candidate-vibid:2312000566273": 61,
+      "gas:candidate-vibid:2312000565731": 36,
+      "gas:candidate-vibid:2312000564503": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 302,
-      "Порхун Вера Семёновна": 29,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 214,
-      "Старовойтов Александр Сергеевич": 102,
-      "Хорошилов Руслан Николаевич": 52,
-      "Чернышова Наталия Александровна": 32,
-      "Шевляков Валерий Алексеевич": 139
+      "gas:candidate-vibid:2312000566472": 302,
+      "gas:candidate-vibid:2312000565986": 29,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 214,
+      "gas:candidate-vibid:2312000538570": 102,
+      "gas:candidate-vibid:2312000566273": 52,
+      "gas:candidate-vibid:2312000565731": 32,
+      "gas:candidate-vibid:2312000564503": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 314,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 29,
-      "Селиванов Юрий Алексеевич": 157,
-      "Старовойтов Александр Сергеевич": 75,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 88
+      "gas:candidate-vibid:2312000566472": 314,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 29,
+      "gas:candidate-vibid:2312000564809": 157,
+      "gas:candidate-vibid:2312000538570": 75,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 283,
-      "Порхун Вера Семёновна": 27,
-      "Свищёв Андрей Викторович": 23,
-      "Селиванов Юрий Алексеевич": 161,
-      "Старовойтов Александр Сергеевич": 81,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 27,
-      "Шевляков Валерий Алексеевич": 121
+      "gas:candidate-vibid:2312000566472": 283,
+      "gas:candidate-vibid:2312000565986": 27,
+      "gas:candidate-vibid:2312000566138": 23,
+      "gas:candidate-vibid:2312000564809": 161,
+      "gas:candidate-vibid:2312000538570": 81,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 27,
+      "gas:candidate-vibid:2312000564503": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 263,
-      "Порхун Вера Семёновна": 29,
-      "Свищёв Андрей Викторович": 17,
-      "Селиванов Юрий Алексеевич": 162,
-      "Старовойтов Александр Сергеевич": 88,
-      "Хорошилов Руслан Николаевич": 53,
-      "Чернышова Наталия Александровна": 25,
-      "Шевляков Валерий Алексеевич": 139
+      "gas:candidate-vibid:2312000566472": 263,
+      "gas:candidate-vibid:2312000565986": 29,
+      "gas:candidate-vibid:2312000566138": 17,
+      "gas:candidate-vibid:2312000564809": 162,
+      "gas:candidate-vibid:2312000538570": 88,
+      "gas:candidate-vibid:2312000566273": 53,
+      "gas:candidate-vibid:2312000565731": 25,
+      "gas:candidate-vibid:2312000564503": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 292,
-      "Порхун Вера Семёновна": 21,
-      "Свищёв Андрей Викторович": 25,
-      "Селиванов Юрий Алексеевич": 207,
-      "Старовойтов Александр Сергеевич": 108,
-      "Хорошилов Руслан Николаевич": 45,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 148
+      "gas:candidate-vibid:2312000566472": 292,
+      "gas:candidate-vibid:2312000565986": 21,
+      "gas:candidate-vibid:2312000566138": 25,
+      "gas:candidate-vibid:2312000564809": 207,
+      "gas:candidate-vibid:2312000538570": 108,
+      "gas:candidate-vibid:2312000566273": 45,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 297,
-      "Порхун Вера Семёновна": 42,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 163,
-      "Старовойтов Александр Сергеевич": 80,
-      "Хорошилов Руслан Николаевич": 53,
-      "Чернышова Наталия Александровна": 38,
-      "Шевляков Валерий Алексеевич": 70
+      "gas:candidate-vibid:2312000566472": 297,
+      "gas:candidate-vibid:2312000565986": 42,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 163,
+      "gas:candidate-vibid:2312000538570": 80,
+      "gas:candidate-vibid:2312000566273": 53,
+      "gas:candidate-vibid:2312000565731": 38,
+      "gas:candidate-vibid:2312000564503": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 272,
-      "Порхун Вера Семёновна": 27,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 222,
-      "Старовойтов Александр Сергеевич": 97,
-      "Хорошилов Руслан Николаевич": 54,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 113
+      "gas:candidate-vibid:2312000566472": 272,
+      "gas:candidate-vibid:2312000565986": 27,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 222,
+      "gas:candidate-vibid:2312000538570": 97,
+      "gas:candidate-vibid:2312000566273": 54,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 251,
-      "Порхун Вера Семёновна": 27,
-      "Свищёв Андрей Викторович": 26,
-      "Селиванов Юрий Алексеевич": 96,
-      "Старовойтов Александр Сергеевич": 72,
-      "Хорошилов Руслан Николаевич": 38,
-      "Чернышова Наталия Александровна": 14,
-      "Шевляков Валерий Алексеевич": 55
+      "gas:candidate-vibid:2312000566472": 251,
+      "gas:candidate-vibid:2312000565986": 27,
+      "gas:candidate-vibid:2312000566138": 26,
+      "gas:candidate-vibid:2312000564809": 96,
+      "gas:candidate-vibid:2312000538570": 72,
+      "gas:candidate-vibid:2312000566273": 38,
+      "gas:candidate-vibid:2312000565731": 14,
+      "gas:candidate-vibid:2312000564503": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 58,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 21,
-      "Старовойтов Александр Сергеевич": 21,
-      "Хорошилов Руслан Николаевич": 9,
-      "Чернышова Наталия Александровна": 10,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 58,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 21,
+      "gas:candidate-vibid:2312000538570": 21,
+      "gas:candidate-vibid:2312000566273": 9,
+      "gas:candidate-vibid:2312000565731": 10,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 197,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 74,
-      "Старовойтов Александр Сергеевич": 52,
-      "Хорошилов Руслан Николаевич": 17,
-      "Чернышова Наталия Александровна": 10,
-      "Шевляков Валерий Алексеевич": 20
+      "gas:candidate-vibid:2312000566472": 197,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 74,
+      "gas:candidate-vibid:2312000538570": 52,
+      "gas:candidate-vibid:2312000566273": 17,
+      "gas:candidate-vibid:2312000565731": 10,
+      "gas:candidate-vibid:2312000564503": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 267,
-      "Порхун Вера Семёновна": 10,
-      "Свищёв Андрей Викторович": 9,
-      "Селиванов Юрий Алексеевич": 109,
-      "Старовойтов Александр Сергеевич": 74,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 61
+      "gas:candidate-vibid:2312000566472": 267,
+      "gas:candidate-vibid:2312000565986": 10,
+      "gas:candidate-vibid:2312000566138": 9,
+      "gas:candidate-vibid:2312000564809": 109,
+      "gas:candidate-vibid:2312000538570": 74,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 131,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 5,
-      "Селиванов Юрий Алексеевич": 31,
-      "Старовойтов Александр Сергеевич": 29,
-      "Хорошилов Руслан Николаевич": 14,
-      "Чернышова Наталия Александровна": 11,
-      "Шевляков Валерий Алексеевич": 14
+      "gas:candidate-vibid:2312000566472": 131,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 5,
+      "gas:candidate-vibid:2312000564809": 31,
+      "gas:candidate-vibid:2312000538570": 29,
+      "gas:candidate-vibid:2312000566273": 14,
+      "gas:candidate-vibid:2312000565731": 11,
+      "gas:candidate-vibid:2312000564503": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 43,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 5,
-      "Селиванов Юрий Алексеевич": 17,
-      "Старовойтов Александр Сергеевич": 15,
-      "Хорошилов Руслан Николаевич": 13,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 11
+      "gas:candidate-vibid:2312000566472": 43,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 5,
+      "gas:candidate-vibid:2312000564809": 17,
+      "gas:candidate-vibid:2312000538570": 15,
+      "gas:candidate-vibid:2312000566273": 13,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 116,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 25,
-      "Старовойтов Александр Сергеевич": 21,
-      "Хорошилов Руслан Николаевич": 8,
-      "Чернышова Наталия Александровна": 7,
-      "Шевляков Валерий Алексеевич": 17
+      "gas:candidate-vibid:2312000566472": 116,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 25,
+      "gas:candidate-vibid:2312000538570": 21,
+      "gas:candidate-vibid:2312000566273": 8,
+      "gas:candidate-vibid:2312000565731": 7,
+      "gas:candidate-vibid:2312000564503": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 67,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 23,
-      "Старовойтов Александр Сергеевич": 34,
-      "Хорошилов Руслан Николаевич": 11,
-      "Чернышова Наталия Александровна": 6,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 67,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 23,
+      "gas:candidate-vibid:2312000538570": 34,
+      "gas:candidate-vibid:2312000566273": 11,
+      "gas:candidate-vibid:2312000565731": 6,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 18,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 6,
-      "Старовойтов Александр Сергеевич": 7,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 4
+      "gas:candidate-vibid:2312000566472": 18,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 6,
+      "gas:candidate-vibid:2312000538570": 7,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 45,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 23,
-      "Старовойтов Александр Сергеевич": 9,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 13
+      "gas:candidate-vibid:2312000566472": 45,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 23,
+      "gas:candidate-vibid:2312000538570": 9,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 144,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 2,
-      "Старовойтов Александр Сергеевич": 8,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 1,
-      "Шевляков Валерий Алексеевич": 0
+      "gas:candidate-vibid:2312000566472": 144,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 2,
+      "gas:candidate-vibid:2312000538570": 8,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 1,
+      "gas:candidate-vibid:2312000564503": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533604&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533604&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 11,
-      "Бочарников Сергей Иванович": 21,
-      "Климашевский Константин Александрович": 34,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 53,
-      "Скоч Андрей Владимирович": 884,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:2312000535426": 11,
+      "gas:candidate-vibid:2312000564822": 21,
+      "gas:candidate-vibid:2312000538590": 34,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 53,
+      "gas:candidate-vibid:2312000565782": 884,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 8,
-      "Бочарников Сергей Иванович": 22,
-      "Климашевский Константин Александрович": 38,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 71,
-      "Скоч Андрей Владимирович": 698,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 22
+      "gas:candidate-vibid:2312000535426": 8,
+      "gas:candidate-vibid:2312000564822": 22,
+      "gas:candidate-vibid:2312000538590": 38,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 71,
+      "gas:candidate-vibid:2312000565782": 698,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 28,
-      "Климашевский Константин Александрович": 53,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 70,
-      "Скоч Андрей Владимирович": 871,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 28,
+      "gas:candidate-vibid:2312000538590": 53,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 70,
+      "gas:candidate-vibid:2312000565782": 871,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 14,
-      "Бочарников Сергей Иванович": 13,
-      "Климашевский Константин Александрович": 34,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 50,
-      "Скоч Андрей Владимирович": 762,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:2312000535426": 14,
+      "gas:candidate-vibid:2312000564822": 13,
+      "gas:candidate-vibid:2312000538590": 34,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 50,
+      "gas:candidate-vibid:2312000565782": 762,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 8,
-      "Бочарников Сергей Иванович": 26,
-      "Климашевский Константин Александрович": 64,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 60,
-      "Скоч Андрей Владимирович": 846,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:2312000535426": 8,
+      "gas:candidate-vibid:2312000564822": 26,
+      "gas:candidate-vibid:2312000538590": 64,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 60,
+      "gas:candidate-vibid:2312000565782": 846,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 21,
-      "Климашевский Константин Александрович": 35,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 40,
-      "Скоч Андрей Владимирович": 869,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 21,
+      "gas:candidate-vibid:2312000538590": 35,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 40,
+      "gas:candidate-vibid:2312000565782": 869,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 17,
-      "Климашевский Константин Александрович": 51,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 69,
-      "Скоч Андрей Владимирович": 1074,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 17,
+      "gas:candidate-vibid:2312000538590": 51,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 69,
+      "gas:candidate-vibid:2312000565782": 1074,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 11,
-      "Бочарников Сергей Иванович": 10,
-      "Климашевский Константин Александрович": 41,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 74,
-      "Скоч Андрей Владимирович": 985,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 11,
+      "gas:candidate-vibid:2312000564822": 10,
+      "gas:candidate-vibid:2312000538590": 41,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 74,
+      "gas:candidate-vibid:2312000565782": 985,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 13,
-      "Климашевский Константин Александрович": 21,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 35,
-      "Скоч Андрей Владимирович": 511,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 13,
+      "gas:candidate-vibid:2312000538590": 21,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 35,
+      "gas:candidate-vibid:2312000565782": 511,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 4,
-      "Климашевский Константин Александрович": 12,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 25,
-      "Скоч Андрей Владимирович": 272,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 4,
+      "gas:candidate-vibid:2312000538590": 12,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 25,
+      "gas:candidate-vibid:2312000565782": 272,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 0,
-      "Бочарников Сергей Иванович": 0,
-      "Климашевский Константин Александрович": 1,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 13,
-      "Скоч Андрей Владимирович": 125,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 0,
+      "gas:candidate-vibid:2312000564822": 0,
+      "gas:candidate-vibid:2312000538590": 1,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 13,
+      "gas:candidate-vibid:2312000565782": 125,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 6,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 9,
-      "Скоч Андрей Владимирович": 130,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 6,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 9,
+      "gas:candidate-vibid:2312000565782": 130,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 4,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 2,
-      "Скоч Андрей Владимирович": 107,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 4,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 2,
+      "gas:candidate-vibid:2312000565782": 107,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 0,
-      "Бочарников Сергей Иванович": 0,
-      "Климашевский Константин Александрович": 1,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 9,
-      "Скоч Андрей Владимирович": 81,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 0,
+      "gas:candidate-vibid:2312000564822": 0,
+      "gas:candidate-vibid:2312000538590": 1,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 9,
+      "gas:candidate-vibid:2312000565782": 81,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 13,
-      "Климашевский Константин Александрович": 12,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 46,
-      "Скоч Андрей Владимирович": 248,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 13,
+      "gas:candidate-vibid:2312000538590": 12,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 46,
+      "gas:candidate-vibid:2312000565782": 248,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 5,
-      "Климашевский Константин Александрович": 10,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 7,
-      "Скоч Андрей Владимирович": 160,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 5,
+      "gas:candidate-vibid:2312000538590": 10,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 7,
+      "gas:candidate-vibid:2312000565782": 160,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 1,
-      "Климашевский Константин Александрович": 2,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 9,
-      "Скоч Андрей Владимирович": 193,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 1,
+      "gas:candidate-vibid:2312000538590": 2,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 9,
+      "gas:candidate-vibid:2312000565782": 193,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 3,
-      "Климашевский Константин Александрович": 3,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 3,
-      "Скоч Андрей Владимирович": 495,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 3,
+      "gas:candidate-vibid:2312000538590": 3,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 3,
+      "gas:candidate-vibid:2312000565782": 495,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 6,
-      "Бочарников Сергей Иванович": 10,
-      "Климашевский Константин Александрович": 64,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 55,
-      "Скоч Андрей Владимирович": 937,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 6,
+      "gas:candidate-vibid:2312000564822": 10,
+      "gas:candidate-vibid:2312000538590": 64,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 55,
+      "gas:candidate-vibid:2312000565782": 937,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 4,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 18,
-      "Скоч Андрей Владимирович": 127,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 4,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 18,
+      "gas:candidate-vibid:2312000565782": 127,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 1,
-      "Климашевский Константин Александрович": 5,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 7,
-      "Скоч Андрей Владимирович": 122,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 1,
+      "gas:candidate-vibid:2312000538590": 5,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 7,
+      "gas:candidate-vibid:2312000565782": 122,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 7,
-      "Климашевский Константин Александрович": 7,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 27,
-      "Скоч Андрей Владимирович": 530,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 7,
+      "gas:candidate-vibid:2312000538590": 7,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 27,
+      "gas:candidate-vibid:2312000565782": 530,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 8,
-      "Бочарников Сергей Иванович": 3,
-      "Климашевский Константин Александрович": 17,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 28,
-      "Скоч Андрей Владимирович": 275,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 8,
+      "gas:candidate-vibid:2312000564822": 3,
+      "gas:candidate-vibid:2312000538590": 17,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 28,
+      "gas:candidate-vibid:2312000565782": 275,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 9,
-      "Климашевский Константин Александрович": 9,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 6,
-      "Скоч Андрей Владимирович": 359,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 9,
+      "gas:candidate-vibid:2312000538590": 9,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 6,
+      "gas:candidate-vibid:2312000565782": 359,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 7,
-      "Климашевский Константин Александрович": 15,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 34,
-      "Скоч Андрей Владимирович": 438,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 7,
+      "gas:candidate-vibid:2312000538590": 15,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 34,
+      "gas:candidate-vibid:2312000565782": 438,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 8,
-      "Климашевский Константин Александрович": 3,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 14,
-      "Скоч Андрей Владимирович": 80,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 8,
+      "gas:candidate-vibid:2312000538590": 3,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 14,
+      "gas:candidate-vibid:2312000565782": 80,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 0,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 3,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 4,
-      "Скоч Андрей Владимирович": 65,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 0,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 3,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 4,
+      "gas:candidate-vibid:2312000565782": 65,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 0,
-      "Климашевский Константин Александрович": 1,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 3,
-      "Скоч Андрей Владимирович": 94,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 0,
+      "gas:candidate-vibid:2312000538590": 1,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 3,
+      "gas:candidate-vibid:2312000565782": 94,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 3,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 9,
-      "Скоч Андрей Владимирович": 329,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 3,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 9,
+      "gas:candidate-vibid:2312000565782": 329,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 0,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 2,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 5,
-      "Скоч Андрей Владимирович": 96,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 0,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 2,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 5,
+      "gas:candidate-vibid:2312000565782": 96,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 8,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 24,
-      "Скоч Андрей Владимирович": 290,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 8,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 24,
+      "gas:candidate-vibid:2312000565782": 290,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 0,
-      "Климашевский Константин Александрович": 1,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 11,
-      "Скоч Андрей Владимирович": 164,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 0,
+      "gas:candidate-vibid:2312000538590": 1,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 11,
+      "gas:candidate-vibid:2312000565782": 164,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 16,
-      "Климашевский Константин Александрович": 21,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 23,
-      "Скоч Андрей Владимирович": 481,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 16,
+      "gas:candidate-vibid:2312000538590": 21,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 23,
+      "gas:candidate-vibid:2312000565782": 481,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 0,
-      "Бочарников Сергей Иванович": 0,
-      "Климашевский Константин Александрович": 7,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 3,
-      "Скоч Андрей Владимирович": 170,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 0,
+      "gas:candidate-vibid:2312000564822": 0,
+      "gas:candidate-vibid:2312000538590": 7,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 3,
+      "gas:candidate-vibid:2312000565782": 170,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 6,
-      "Бочарников Сергей Иванович": 11,
-      "Климашевский Константин Александрович": 17,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 10,
-      "Скоч Андрей Владимирович": 410,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 6,
+      "gas:candidate-vibid:2312000564822": 11,
+      "gas:candidate-vibid:2312000538590": 17,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 10,
+      "gas:candidate-vibid:2312000565782": 410,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 1,
-      "Климашевский Константин Александрович": 1,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 2,
-      "Скоч Андрей Владимирович": 93,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 1,
+      "gas:candidate-vibid:2312000538590": 1,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 2,
+      "gas:candidate-vibid:2312000565782": 93,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 6,
-      "Климашевский Константин Александрович": 10,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 11,
-      "Скоч Андрей Владимирович": 196,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 6,
+      "gas:candidate-vibid:2312000538590": 10,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 11,
+      "gas:candidate-vibid:2312000565782": 196,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 1,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 6,
-      "Скоч Андрей Владимирович": 158,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 1,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 6,
+      "gas:candidate-vibid:2312000565782": 158,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 9,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 12,
-      "Скоч Андрей Владимирович": 157,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 9,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 12,
+      "gas:candidate-vibid:2312000565782": 157,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 7,
-      "Бочарников Сергей Иванович": 6,
-      "Климашевский Константин Александрович": 8,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 10,
-      "Скоч Андрей Владимирович": 316,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 7,
+      "gas:candidate-vibid:2312000564822": 6,
+      "gas:candidate-vibid:2312000538590": 8,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 10,
+      "gas:candidate-vibid:2312000565782": 316,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 0,
-      "Бочарников Сергей Иванович": 0,
-      "Климашевский Константин Александрович": 2,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 1,
-      "Скоч Андрей Владимирович": 79,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 0,
+      "gas:candidate-vibid:2312000564822": 0,
+      "gas:candidate-vibid:2312000538590": 2,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 1,
+      "gas:candidate-vibid:2312000565782": 79,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 6,
-      "Климашевский Константин Александрович": 32,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 14,
-      "Скоч Андрей Владимирович": 489,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 6,
+      "gas:candidate-vibid:2312000538590": 32,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 14,
+      "gas:candidate-vibid:2312000565782": 489,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 7,
-      "Бочарников Сергей Иванович": 13,
-      "Климашевский Константин Александрович": 17,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 18,
-      "Скоч Андрей Владимирович": 503,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:2312000535426": 7,
+      "gas:candidate-vibid:2312000564822": 13,
+      "gas:candidate-vibid:2312000538590": 17,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 18,
+      "gas:candidate-vibid:2312000565782": 503,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533605&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533605&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 24,
-      "Бочарников Сергей Иванович": 33,
-      "Климашевский Константин Александрович": 61,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 124,
-      "Скоч Андрей Владимирович": 446,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:2312000535426": 24,
+      "gas:candidate-vibid:2312000564822": 33,
+      "gas:candidate-vibid:2312000538590": 61,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 124,
+      "gas:candidate-vibid:2312000565782": 446,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 26,
-      "Бочарников Сергей Иванович": 44,
-      "Климашевский Константин Александрович": 48,
-      "Майсак Андрей Иванович": 14,
-      "Панов Станислав Геннадьевич": 129,
-      "Скоч Андрей Владимирович": 552,
-      "Соболев Александр Геннадиевич": 21,
-      "Федорченко Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:2312000535426": 26,
+      "gas:candidate-vibid:2312000564822": 44,
+      "gas:candidate-vibid:2312000538590": 48,
+      "gas:candidate-vibid:2312000565701": 14,
+      "gas:candidate-vibid:2312000565555": 129,
+      "gas:candidate-vibid:2312000565782": 552,
+      "gas:candidate-vibid:2312000566499": 21,
+      "gas:candidate-vibid:2312000566284": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 81,
-      "Климашевский Константин Александрович": 44,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 114,
-      "Скоч Андрей Владимирович": 484,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 81,
+      "gas:candidate-vibid:2312000538590": 44,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 114,
+      "gas:candidate-vibid:2312000565782": 484,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 72,
-      "Климашевский Константин Александрович": 38,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 119,
-      "Скоч Андрей Владимирович": 417,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 72,
+      "gas:candidate-vibid:2312000538590": 38,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 119,
+      "gas:candidate-vibid:2312000565782": 417,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 12,
-      "Бочарников Сергей Иванович": 32,
-      "Климашевский Константин Александрович": 45,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 65,
-      "Скоч Андрей Владимирович": 335,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 22
+      "gas:candidate-vibid:2312000535426": 12,
+      "gas:candidate-vibid:2312000564822": 32,
+      "gas:candidate-vibid:2312000538590": 45,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 65,
+      "gas:candidate-vibid:2312000565782": 335,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 22,
-      "Бочарников Сергей Иванович": 60,
-      "Климашевский Константин Александрович": 41,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 107,
-      "Скоч Андрей Владимирович": 394,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 22,
+      "gas:candidate-vibid:2312000564822": 60,
+      "gas:candidate-vibid:2312000538590": 41,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 107,
+      "gas:candidate-vibid:2312000565782": 394,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 44,
-      "Климашевский Константин Александрович": 36,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 84,
-      "Скоч Андрей Владимирович": 331,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 44,
+      "gas:candidate-vibid:2312000538590": 36,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 84,
+      "gas:candidate-vibid:2312000565782": 331,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 46,
-      "Климашевский Константин Александрович": 28,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 89,
-      "Скоч Андрей Владимирович": 312,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 46,
+      "gas:candidate-vibid:2312000538590": 28,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 89,
+      "gas:candidate-vibid:2312000565782": 312,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 14,
-      "Бочарников Сергей Иванович": 96,
-      "Климашевский Константин Александрович": 51,
-      "Майсак Андрей Иванович": 11,
-      "Панов Станислав Геннадьевич": 125,
-      "Скоч Андрей Владимирович": 536,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 14,
+      "gas:candidate-vibid:2312000564822": 96,
+      "gas:candidate-vibid:2312000538590": 51,
+      "gas:candidate-vibid:2312000565701": 11,
+      "gas:candidate-vibid:2312000565555": 125,
+      "gas:candidate-vibid:2312000565782": 536,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 25,
-      "Бочарников Сергей Иванович": 86,
-      "Климашевский Константин Александрович": 63,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 134,
-      "Скоч Андрей Владимирович": 552,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 23
+      "gas:candidate-vibid:2312000535426": 25,
+      "gas:candidate-vibid:2312000564822": 86,
+      "gas:candidate-vibid:2312000538590": 63,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 134,
+      "gas:candidate-vibid:2312000565782": 552,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 14,
-      "Бочарников Сергей Иванович": 96,
-      "Климашевский Константин Александрович": 57,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 120,
-      "Скоч Андрей Владимирович": 494,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:2312000535426": 14,
+      "gas:candidate-vibid:2312000564822": 96,
+      "gas:candidate-vibid:2312000538590": 57,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 120,
+      "gas:candidate-vibid:2312000565782": 494,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 17,
-      "Бочарников Сергей Иванович": 84,
-      "Климашевский Константин Александрович": 68,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 118,
-      "Скоч Андрей Владимирович": 459,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 23
+      "gas:candidate-vibid:2312000535426": 17,
+      "gas:candidate-vibid:2312000564822": 84,
+      "gas:candidate-vibid:2312000538590": 68,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 118,
+      "gas:candidate-vibid:2312000565782": 459,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 65,
-      "Климашевский Константин Александрович": 47,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 86,
-      "Скоч Андрей Владимирович": 451,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 65,
+      "gas:candidate-vibid:2312000538590": 47,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 86,
+      "gas:candidate-vibid:2312000565782": 451,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 14,
-      "Бочарников Сергей Иванович": 78,
-      "Климашевский Константин Александрович": 52,
-      "Майсак Андрей Иванович": 15,
-      "Панов Станислав Геннадьевич": 123,
-      "Скоч Андрей Владимирович": 513,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 22
+      "gas:candidate-vibid:2312000535426": 14,
+      "gas:candidate-vibid:2312000564822": 78,
+      "gas:candidate-vibid:2312000538590": 52,
+      "gas:candidate-vibid:2312000565701": 15,
+      "gas:candidate-vibid:2312000565555": 123,
+      "gas:candidate-vibid:2312000565782": 513,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 78,
-      "Климашевский Константин Александрович": 47,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 121,
-      "Скоч Андрей Владимирович": 454,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 78,
+      "gas:candidate-vibid:2312000538590": 47,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 121,
+      "gas:candidate-vibid:2312000565782": 454,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 8,
-      "Климашевский Константин Александрович": 5,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 16,
-      "Скоч Андрей Владимирович": 58,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 2
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 8,
+      "gas:candidate-vibid:2312000538590": 5,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 16,
+      "gas:candidate-vibid:2312000565782": 58,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 101,
-      "Климашевский Константин Александрович": 69,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 169,
-      "Скоч Андрей Владимирович": 557,
-      "Соболев Александр Геннадиевич": 13,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 101,
+      "gas:candidate-vibid:2312000538590": 69,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 169,
+      "gas:candidate-vibid:2312000565782": 557,
+      "gas:candidate-vibid:2312000566499": 13,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 14,
-      "Бочарников Сергей Иванович": 77,
-      "Климашевский Константин Александрович": 51,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 140,
-      "Скоч Андрей Владимирович": 611,
-      "Соболев Александр Геннадиевич": 14,
-      "Федорченко Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:2312000535426": 14,
+      "gas:candidate-vibid:2312000564822": 77,
+      "gas:candidate-vibid:2312000538590": 51,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 140,
+      "gas:candidate-vibid:2312000565782": 611,
+      "gas:candidate-vibid:2312000566499": 14,
+      "gas:candidate-vibid:2312000566284": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 16,
-      "Бочарников Сергей Иванович": 71,
-      "Климашевский Константин Александрович": 42,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 106,
-      "Скоч Андрей Владимирович": 327,
-      "Соболев Александр Геннадиевич": 13,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 16,
+      "gas:candidate-vibid:2312000564822": 71,
+      "gas:candidate-vibid:2312000538590": 42,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 106,
+      "gas:candidate-vibid:2312000565782": 327,
+      "gas:candidate-vibid:2312000566499": 13,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 59,
-      "Климашевский Константин Александрович": 19,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 70,
-      "Скоч Андрей Владимирович": 434,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 59,
+      "gas:candidate-vibid:2312000538590": 19,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 70,
+      "gas:candidate-vibid:2312000565782": 434,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 72,
-      "Климашевский Константин Александрович": 33,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 92,
-      "Скоч Андрей Владимирович": 368,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 72,
+      "gas:candidate-vibid:2312000538590": 33,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 92,
+      "gas:candidate-vibid:2312000565782": 368,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 18,
-      "Бочарников Сергей Иванович": 72,
-      "Климашевский Константин Александрович": 70,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 147,
-      "Скоч Андрей Владимирович": 590,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 31
+      "gas:candidate-vibid:2312000535426": 18,
+      "gas:candidate-vibid:2312000564822": 72,
+      "gas:candidate-vibid:2312000538590": 70,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 147,
+      "gas:candidate-vibid:2312000565782": 590,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 12,
-      "Бочарников Сергей Иванович": 59,
-      "Климашевский Константин Александрович": 39,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 74,
-      "Скоч Андрей Владимирович": 377,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 12,
+      "gas:candidate-vibid:2312000564822": 59,
+      "gas:candidate-vibid:2312000538590": 39,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 74,
+      "gas:candidate-vibid:2312000565782": 377,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 92,
-      "Климашевский Константин Александрович": 63,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 83,
-      "Скоч Андрей Владимирович": 491,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 92,
+      "gas:candidate-vibid:2312000538590": 63,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 83,
+      "gas:candidate-vibid:2312000565782": 491,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 11,
-      "Бочарников Сергей Иванович": 69,
-      "Климашевский Константин Александрович": 45,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 92,
-      "Скоч Андрей Владимирович": 493,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:2312000535426": 11,
+      "gas:candidate-vibid:2312000564822": 69,
+      "gas:candidate-vibid:2312000538590": 45,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 92,
+      "gas:candidate-vibid:2312000565782": 493,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 11,
-      "Бочарников Сергей Иванович": 86,
-      "Климашевский Константин Александрович": 60,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 107,
-      "Скоч Андрей Владимирович": 536,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:2312000535426": 11,
+      "gas:candidate-vibid:2312000564822": 86,
+      "gas:candidate-vibid:2312000538590": 60,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 107,
+      "gas:candidate-vibid:2312000565782": 536,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 103,
-      "Климашевский Константин Александрович": 51,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 145,
-      "Скоч Андрей Владимирович": 513,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 103,
+      "gas:candidate-vibid:2312000538590": 51,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 145,
+      "gas:candidate-vibid:2312000565782": 513,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 16,
-      "Бочарников Сергей Иванович": 72,
-      "Климашевский Константин Александрович": 39,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 88,
-      "Скоч Андрей Владимирович": 445,
-      "Соболев Александр Геннадиевич": 14,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 16,
+      "gas:candidate-vibid:2312000564822": 72,
+      "gas:candidate-vibid:2312000538590": 39,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 88,
+      "gas:candidate-vibid:2312000565782": 445,
+      "gas:candidate-vibid:2312000566499": 14,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 54,
-      "Климашевский Константин Александрович": 43,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 96,
-      "Скоч Андрей Владимирович": 410,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 54,
+      "gas:candidate-vibid:2312000538590": 43,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 96,
+      "gas:candidate-vibid:2312000565782": 410,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 8,
-      "Бочарников Сергей Иванович": 53,
-      "Климашевский Константин Александрович": 42,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 94,
-      "Скоч Андрей Владимирович": 351,
-      "Соболев Александр Геннадиевич": 15,
-      "Федорченко Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:2312000535426": 8,
+      "gas:candidate-vibid:2312000564822": 53,
+      "gas:candidate-vibid:2312000538590": 42,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 94,
+      "gas:candidate-vibid:2312000565782": 351,
+      "gas:candidate-vibid:2312000566499": 15,
+      "gas:candidate-vibid:2312000566284": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 49,
-      "Климашевский Константин Александрович": 34,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 65,
-      "Скоч Андрей Владимирович": 390,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 49,
+      "gas:candidate-vibid:2312000538590": 34,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 65,
+      "gas:candidate-vibid:2312000565782": 390,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 50,
-      "Климашевский Константин Александрович": 49,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 103,
-      "Скоч Андрей Владимирович": 442,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 50,
+      "gas:candidate-vibid:2312000538590": 49,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 103,
+      "gas:candidate-vibid:2312000565782": 442,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 27,
-      "Бочарников Сергей Иванович": 122,
-      "Климашевский Константин Александрович": 83,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 163,
-      "Скоч Андрей Владимирович": 589,
-      "Соболев Александр Геннадиевич": 18,
-      "Федорченко Дмитрий Евгеньевич": 33
+      "gas:candidate-vibid:2312000535426": 27,
+      "gas:candidate-vibid:2312000564822": 122,
+      "gas:candidate-vibid:2312000538590": 83,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 163,
+      "gas:candidate-vibid:2312000565782": 589,
+      "gas:candidate-vibid:2312000566499": 18,
+      "gas:candidate-vibid:2312000566284": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 43,
-      "Климашевский Константин Александрович": 28,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 89,
-      "Скоч Андрей Владимирович": 320,
-      "Соболев Александр Геннадиевич": 18,
-      "Федорченко Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 43,
+      "gas:candidate-vibid:2312000538590": 28,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 89,
+      "gas:candidate-vibid:2312000565782": 320,
+      "gas:candidate-vibid:2312000566499": 18,
+      "gas:candidate-vibid:2312000566284": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 67,
-      "Климашевский Константин Александрович": 53,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 131,
-      "Скоч Андрей Владимирович": 526,
-      "Соболев Александр Геннадиевич": 15,
-      "Федорченко Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 67,
+      "gas:candidate-vibid:2312000538590": 53,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 131,
+      "gas:candidate-vibid:2312000565782": 526,
+      "gas:candidate-vibid:2312000566499": 15,
+      "gas:candidate-vibid:2312000566284": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 25,
-      "Бочарников Сергей Иванович": 52,
-      "Климашевский Константин Александрович": 68,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 120,
-      "Скоч Андрей Владимирович": 524,
-      "Соболев Александр Геннадиевич": 17,
-      "Федорченко Дмитрий Евгеньевич": 23
+      "gas:candidate-vibid:2312000535426": 25,
+      "gas:candidate-vibid:2312000564822": 52,
+      "gas:candidate-vibid:2312000538590": 68,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 120,
+      "gas:candidate-vibid:2312000565782": 524,
+      "gas:candidate-vibid:2312000566499": 17,
+      "gas:candidate-vibid:2312000566284": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 7,
-      "Бочарников Сергей Иванович": 25,
-      "Климашевский Константин Александрович": 26,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 70,
-      "Скоч Андрей Владимирович": 223,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:2312000535426": 7,
+      "gas:candidate-vibid:2312000564822": 25,
+      "gas:candidate-vibid:2312000538590": 26,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 70,
+      "gas:candidate-vibid:2312000565782": 223,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 12,
-      "Климашевский Константин Александрович": 17,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 27,
-      "Скоч Андрей Владимирович": 186,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 12,
+      "gas:candidate-vibid:2312000538590": 17,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 27,
+      "gas:candidate-vibid:2312000565782": 186,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 26,
-      "Климашевский Константин Александрович": 42,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 83,
-      "Скоч Андрей Владимирович": 413,
-      "Соболев Александр Геннадиевич": 17,
-      "Федорченко Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 26,
+      "gas:candidate-vibid:2312000538590": 42,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 83,
+      "gas:candidate-vibid:2312000565782": 413,
+      "gas:candidate-vibid:2312000566499": 17,
+      "gas:candidate-vibid:2312000566284": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 16,
-      "Бочарников Сергей Иванович": 34,
-      "Климашевский Константин Александрович": 50,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 159,
-      "Скоч Андрей Владимирович": 401,
-      "Соболев Александр Геннадиевич": 18,
-      "Федорченко Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:2312000535426": 16,
+      "gas:candidate-vibid:2312000564822": 34,
+      "gas:candidate-vibid:2312000538590": 50,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 159,
+      "gas:candidate-vibid:2312000565782": 401,
+      "gas:candidate-vibid:2312000566499": 18,
+      "gas:candidate-vibid:2312000566284": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 38,
-      "Климашевский Константин Александрович": 36,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 86,
-      "Скоч Андрей Владимирович": 318,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 38,
+      "gas:candidate-vibid:2312000538590": 36,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 86,
+      "gas:candidate-vibid:2312000565782": 318,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 19,
-      "Бочарников Сергей Иванович": 52,
-      "Климашевский Константин Александрович": 48,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 119,
-      "Скоч Андрей Владимирович": 500,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 23
+      "gas:candidate-vibid:2312000535426": 19,
+      "gas:candidate-vibid:2312000564822": 52,
+      "gas:candidate-vibid:2312000538590": 48,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 119,
+      "gas:candidate-vibid:2312000565782": 500,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 17,
-      "Климашевский Константин Александрович": 28,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 48,
-      "Скоч Андрей Владимирович": 235,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 17,
+      "gas:candidate-vibid:2312000538590": 28,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 48,
+      "gas:candidate-vibid:2312000565782": 235,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 8,
-      "Климашевский Константин Александрович": 21,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 44,
-      "Скоч Андрей Владимирович": 183,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 8,
+      "gas:candidate-vibid:2312000538590": 21,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 44,
+      "gas:candidate-vibid:2312000565782": 183,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 39,
-      "Климашевский Константин Александрович": 51,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 67,
-      "Скоч Андрей Владимирович": 301,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 39,
+      "gas:candidate-vibid:2312000538590": 51,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 67,
+      "gas:candidate-vibid:2312000565782": 301,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 6,
-      "Бочарников Сергей Иванович": 17,
-      "Климашевский Константин Александрович": 18,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 60,
-      "Скоч Андрей Владимирович": 235,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 6,
+      "gas:candidate-vibid:2312000564822": 17,
+      "gas:candidate-vibid:2312000538590": 18,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 60,
+      "gas:candidate-vibid:2312000565782": 235,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 16,
-      "Климашевский Константин Александрович": 23,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 57,
-      "Скоч Андрей Владимирович": 260,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 16,
+      "gas:candidate-vibid:2312000538590": 23,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 57,
+      "gas:candidate-vibid:2312000565782": 260,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 11,
-      "Климашевский Константин Александрович": 32,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 53,
-      "Скоч Андрей Владимирович": 240,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 11,
+      "gas:candidate-vibid:2312000538590": 32,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 53,
+      "gas:candidate-vibid:2312000565782": 240,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 44,
-      "Климашевский Константин Александрович": 40,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 71,
-      "Скоч Андрей Владимирович": 287,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 44,
+      "gas:candidate-vibid:2312000538590": 40,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 71,
+      "gas:candidate-vibid:2312000565782": 287,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 12,
-      "Бочарников Сергей Иванович": 45,
-      "Климашевский Константин Александрович": 42,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 94,
-      "Скоч Андрей Владимирович": 401,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:2312000535426": 12,
+      "gas:candidate-vibid:2312000564822": 45,
+      "gas:candidate-vibid:2312000538590": 42,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 94,
+      "gas:candidate-vibid:2312000565782": 401,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 27,
-      "Климашевский Константин Александрович": 37,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 106,
-      "Скоч Андрей Владимирович": 296,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 27,
+      "gas:candidate-vibid:2312000538590": 37,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 106,
+      "gas:candidate-vibid:2312000565782": 296,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 19,
-      "Климашевский Константин Александрович": 31,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 70,
-      "Скоч Андрей Владимирович": 250,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 19,
+      "gas:candidate-vibid:2312000538590": 31,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 70,
+      "gas:candidate-vibid:2312000565782": 250,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 21,
-      "Климашевский Константин Александрович": 29,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 70,
-      "Скоч Андрей Владимирович": 238,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 21,
+      "gas:candidate-vibid:2312000538590": 29,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 70,
+      "gas:candidate-vibid:2312000565782": 238,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 7,
-      "Климашевский Константин Александрович": 14,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 56,
-      "Скоч Андрей Владимирович": 227,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 7,
+      "gas:candidate-vibid:2312000538590": 14,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 56,
+      "gas:candidate-vibid:2312000565782": 227,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 8,
-      "Бочарников Сергей Иванович": 16,
-      "Климашевский Константин Александрович": 34,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 81,
-      "Скоч Андрей Владимирович": 367,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:2312000535426": 8,
+      "gas:candidate-vibid:2312000564822": 16,
+      "gas:candidate-vibid:2312000538590": 34,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 81,
+      "gas:candidate-vibid:2312000565782": 367,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 19,
-      "Климашевский Константин Александрович": 25,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 52,
-      "Скоч Андрей Владимирович": 167,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 19,
+      "gas:candidate-vibid:2312000538590": 25,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 52,
+      "gas:candidate-vibid:2312000565782": 167,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 11,
-      "Бочарников Сергей Иванович": 29,
-      "Климашевский Константин Александрович": 30,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 82,
-      "Скоч Андрей Владимирович": 368,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:2312000535426": 11,
+      "gas:candidate-vibid:2312000564822": 29,
+      "gas:candidate-vibid:2312000538590": 30,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 82,
+      "gas:candidate-vibid:2312000565782": 368,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 62,
-      "Климашевский Константин Александрович": 35,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 126,
-      "Скоч Андрей Владимирович": 503,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 62,
+      "gas:candidate-vibid:2312000538590": 35,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 126,
+      "gas:candidate-vibid:2312000565782": 503,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 64,
-      "Климашевский Константин Александрович": 52,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 124,
-      "Скоч Андрей Владимирович": 486,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 16
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 64,
+      "gas:candidate-vibid:2312000538590": 52,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 124,
+      "gas:candidate-vibid:2312000565782": 486,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 12,
-      "Бочарников Сергей Иванович": 44,
-      "Климашевский Константин Александрович": 41,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 114,
-      "Скоч Андрей Владимирович": 462,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 24
+      "gas:candidate-vibid:2312000535426": 12,
+      "gas:candidate-vibid:2312000564822": 44,
+      "gas:candidate-vibid:2312000538590": 41,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 114,
+      "gas:candidate-vibid:2312000565782": 462,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 21,
-      "Бочарников Сергей Иванович": 94,
-      "Климашевский Константин Александрович": 56,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 128,
-      "Скоч Андрей Владимирович": 552,
-      "Соболев Александр Геннадиевич": 14,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 21,
+      "gas:candidate-vibid:2312000564822": 94,
+      "gas:candidate-vibid:2312000538590": 56,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 128,
+      "gas:candidate-vibid:2312000565782": 552,
+      "gas:candidate-vibid:2312000566499": 14,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 53,
-      "Климашевский Константин Александрович": 35,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 127,
-      "Скоч Андрей Владимирович": 507,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 53,
+      "gas:candidate-vibid:2312000538590": 35,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 127,
+      "gas:candidate-vibid:2312000565782": 507,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 38,
-      "Бочарников Сергей Иванович": 83,
-      "Климашевский Константин Александрович": 65,
-      "Майсак Андрей Иванович": 16,
-      "Панов Станислав Геннадьевич": 147,
-      "Скоч Андрей Владимирович": 601,
-      "Соболев Александр Геннадиевич": 17,
-      "Федорченко Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:2312000535426": 38,
+      "gas:candidate-vibid:2312000564822": 83,
+      "gas:candidate-vibid:2312000538590": 65,
+      "gas:candidate-vibid:2312000565701": 16,
+      "gas:candidate-vibid:2312000565555": 147,
+      "gas:candidate-vibid:2312000565782": 601,
+      "gas:candidate-vibid:2312000566499": 17,
+      "gas:candidate-vibid:2312000566284": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 25,
-      "Бочарников Сергей Иванович": 78,
-      "Климашевский Константин Александрович": 66,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 134,
-      "Скоч Андрей Владимирович": 657,
-      "Соболев Александр Геннадиевич": 19,
-      "Федорченко Дмитрий Евгеньевич": 33
+      "gas:candidate-vibid:2312000535426": 25,
+      "gas:candidate-vibid:2312000564822": 78,
+      "gas:candidate-vibid:2312000538590": 66,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 134,
+      "gas:candidate-vibid:2312000565782": 657,
+      "gas:candidate-vibid:2312000566499": 19,
+      "gas:candidate-vibid:2312000566284": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 22,
-      "Бочарников Сергей Иванович": 86,
-      "Климашевский Константин Александрович": 62,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 125,
-      "Скоч Андрей Владимирович": 642,
-      "Соболев Александр Геннадиевич": 22,
-      "Федорченко Дмитрий Евгеньевич": 36
+      "gas:candidate-vibid:2312000535426": 22,
+      "gas:candidate-vibid:2312000564822": 86,
+      "gas:candidate-vibid:2312000538590": 62,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 125,
+      "gas:candidate-vibid:2312000565782": 642,
+      "gas:candidate-vibid:2312000566499": 22,
+      "gas:candidate-vibid:2312000566284": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 82,
-      "Климашевский Константин Александрович": 72,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 157,
-      "Скоч Андрей Владимирович": 571,
-      "Соболев Александр Геннадиевич": 18,
-      "Федорченко Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 82,
+      "gas:candidate-vibid:2312000538590": 72,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 157,
+      "gas:candidate-vibid:2312000565782": 571,
+      "gas:candidate-vibid:2312000566499": 18,
+      "gas:candidate-vibid:2312000566284": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 24,
-      "Бочарников Сергей Иванович": 78,
-      "Климашевский Константин Александрович": 71,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 148,
-      "Скоч Андрей Владимирович": 582,
-      "Соболев Александр Геннадиевич": 15,
-      "Федорченко Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:2312000535426": 24,
+      "gas:candidate-vibid:2312000564822": 78,
+      "gas:candidate-vibid:2312000538590": 71,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 148,
+      "gas:candidate-vibid:2312000565782": 582,
+      "gas:candidate-vibid:2312000566499": 15,
+      "gas:candidate-vibid:2312000566284": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 19,
-      "Бочарников Сергей Иванович": 100,
-      "Климашевский Константин Александрович": 74,
-      "Майсак Андрей Иванович": 15,
-      "Панов Станислав Геннадьевич": 156,
-      "Скоч Андрей Владимирович": 609,
-      "Соболев Александр Геннадиевич": 16,
-      "Федорченко Дмитрий Евгеньевич": 37
+      "gas:candidate-vibid:2312000535426": 19,
+      "gas:candidate-vibid:2312000564822": 100,
+      "gas:candidate-vibid:2312000538590": 74,
+      "gas:candidate-vibid:2312000565701": 15,
+      "gas:candidate-vibid:2312000565555": 156,
+      "gas:candidate-vibid:2312000565782": 609,
+      "gas:candidate-vibid:2312000566499": 16,
+      "gas:candidate-vibid:2312000566284": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 49,
-      "Климашевский Константин Александрович": 37,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 113,
-      "Скоч Андрей Владимирович": 406,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 49,
+      "gas:candidate-vibid:2312000538590": 37,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 113,
+      "gas:candidate-vibid:2312000565782": 406,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 18,
-      "Бочарников Сергей Иванович": 44,
-      "Климашевский Константин Александрович": 50,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 117,
-      "Скоч Андрей Владимирович": 442,
-      "Соболев Александр Геннадиевич": 12,
-      "Федорченко Дмитрий Евгеньевич": 24
+      "gas:candidate-vibid:2312000535426": 18,
+      "gas:candidate-vibid:2312000564822": 44,
+      "gas:candidate-vibid:2312000538590": 50,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 117,
+      "gas:candidate-vibid:2312000565782": 442,
+      "gas:candidate-vibid:2312000566499": 12,
+      "gas:candidate-vibid:2312000566284": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 40,
-      "Климашевский Константин Александрович": 25,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 95,
-      "Скоч Андрей Владимирович": 350,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 40,
+      "gas:candidate-vibid:2312000538590": 25,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 95,
+      "gas:candidate-vibid:2312000565782": 350,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 19,
-      "Бочарников Сергей Иванович": 73,
-      "Климашевский Константин Александрович": 53,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 137,
-      "Скоч Андрей Владимирович": 592,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:2312000535426": 19,
+      "gas:candidate-vibid:2312000564822": 73,
+      "gas:candidate-vibid:2312000538590": 53,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 137,
+      "gas:candidate-vibid:2312000565782": 592,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 19,
-      "Бочарников Сергей Иванович": 57,
-      "Климашевский Константин Александрович": 47,
-      "Майсак Андрей Иванович": 18,
-      "Панов Станислав Геннадьевич": 199,
-      "Скоч Андрей Владимирович": 703,
-      "Соболев Александр Геннадиевич": 14,
-      "Федорченко Дмитрий Евгеньевич": 25
+      "gas:candidate-vibid:2312000535426": 19,
+      "gas:candidate-vibid:2312000564822": 57,
+      "gas:candidate-vibid:2312000538590": 47,
+      "gas:candidate-vibid:2312000565701": 18,
+      "gas:candidate-vibid:2312000565555": 199,
+      "gas:candidate-vibid:2312000565782": 703,
+      "gas:candidate-vibid:2312000566499": 14,
+      "gas:candidate-vibid:2312000566284": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 16,
-      "Бочарников Сергей Иванович": 53,
-      "Климашевский Константин Александрович": 53,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 123,
-      "Скоч Андрей Владимирович": 524,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 23
+      "gas:candidate-vibid:2312000535426": 16,
+      "gas:candidate-vibid:2312000564822": 53,
+      "gas:candidate-vibid:2312000538590": 53,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 123,
+      "gas:candidate-vibid:2312000565782": 524,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 29,
-      "Бочарников Сергей Иванович": 65,
-      "Климашевский Константин Александрович": 58,
-      "Майсак Андрей Иванович": 13,
-      "Панов Станислав Геннадьевич": 135,
-      "Скоч Андрей Владимирович": 580,
-      "Соболев Александр Геннадиевич": 15,
-      "Федорченко Дмитрий Евгеньевич": 29
+      "gas:candidate-vibid:2312000535426": 29,
+      "gas:candidate-vibid:2312000564822": 65,
+      "gas:candidate-vibid:2312000538590": 58,
+      "gas:candidate-vibid:2312000565701": 13,
+      "gas:candidate-vibid:2312000565555": 135,
+      "gas:candidate-vibid:2312000565782": 580,
+      "gas:candidate-vibid:2312000566499": 15,
+      "gas:candidate-vibid:2312000566284": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 21,
-      "Бочарников Сергей Иванович": 57,
-      "Климашевский Константин Александрович": 52,
-      "Майсак Андрей Иванович": 13,
-      "Панов Станислав Геннадьевич": 158,
-      "Скоч Андрей Владимирович": 646,
-      "Соболев Александр Геннадиевич": 18,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 21,
+      "gas:candidate-vibid:2312000564822": 57,
+      "gas:candidate-vibid:2312000538590": 52,
+      "gas:candidate-vibid:2312000565701": 13,
+      "gas:candidate-vibid:2312000565555": 158,
+      "gas:candidate-vibid:2312000565782": 646,
+      "gas:candidate-vibid:2312000566499": 18,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 31,
-      "Бочарников Сергей Иванович": 80,
-      "Климашевский Константин Александрович": 59,
-      "Майсак Андрей Иванович": 16,
-      "Панов Станислав Геннадьевич": 179,
-      "Скоч Андрей Владимирович": 611,
-      "Соболев Александр Геннадиевич": 25,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 31,
+      "gas:candidate-vibid:2312000564822": 80,
+      "gas:candidate-vibid:2312000538590": 59,
+      "gas:candidate-vibid:2312000565701": 16,
+      "gas:candidate-vibid:2312000565555": 179,
+      "gas:candidate-vibid:2312000565782": 611,
+      "gas:candidate-vibid:2312000566499": 25,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 29,
-      "Бочарников Сергей Иванович": 97,
-      "Климашевский Константин Александрович": 68,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 170,
-      "Скоч Андрей Владимирович": 606,
-      "Соболев Александр Геннадиевич": 18,
-      "Федорченко Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:2312000535426": 29,
+      "gas:candidate-vibid:2312000564822": 97,
+      "gas:candidate-vibid:2312000538590": 68,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 170,
+      "gas:candidate-vibid:2312000565782": 606,
+      "gas:candidate-vibid:2312000566499": 18,
+      "gas:candidate-vibid:2312000566284": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 110,
-      "Климашевский Константин Александрович": 53,
-      "Майсак Андрей Иванович": 13,
-      "Панов Станислав Геннадьевич": 151,
-      "Скоч Андрей Владимирович": 664,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 32
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 110,
+      "gas:candidate-vibid:2312000538590": 53,
+      "gas:candidate-vibid:2312000565701": 13,
+      "gas:candidate-vibid:2312000565555": 151,
+      "gas:candidate-vibid:2312000565782": 664,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 22,
-      "Бочарников Сергей Иванович": 84,
-      "Климашевский Константин Александрович": 62,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 162,
-      "Скоч Андрей Владимирович": 656,
-      "Соболев Александр Геннадиевич": 24,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 22,
+      "gas:candidate-vibid:2312000564822": 84,
+      "gas:candidate-vibid:2312000538590": 62,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 162,
+      "gas:candidate-vibid:2312000565782": 656,
+      "gas:candidate-vibid:2312000566499": 24,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 84,
-      "Климашевский Константин Александрович": 66,
-      "Майсак Андрей Иванович": 16,
-      "Панов Станислав Геннадьевич": 178,
-      "Скоч Андрей Владимирович": 694,
-      "Соболев Александр Геннадиевич": 15,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 84,
+      "gas:candidate-vibid:2312000538590": 66,
+      "gas:candidate-vibid:2312000565701": 16,
+      "gas:candidate-vibid:2312000565555": 178,
+      "gas:candidate-vibid:2312000565782": 694,
+      "gas:candidate-vibid:2312000566499": 15,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 25,
-      "Бочарников Сергей Иванович": 94,
-      "Климашевский Константин Александрович": 71,
-      "Майсак Андрей Иванович": 11,
-      "Панов Станислав Геннадьевич": 168,
-      "Скоч Андрей Владимирович": 647,
-      "Соболев Александр Геннадиевич": 23,
-      "Федорченко Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:2312000535426": 25,
+      "gas:candidate-vibid:2312000564822": 94,
+      "gas:candidate-vibid:2312000538590": 71,
+      "gas:candidate-vibid:2312000565701": 11,
+      "gas:candidate-vibid:2312000565555": 168,
+      "gas:candidate-vibid:2312000565782": 647,
+      "gas:candidate-vibid:2312000566499": 23,
+      "gas:candidate-vibid:2312000566284": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 30,
-      "Бочарников Сергей Иванович": 76,
-      "Климашевский Константин Александрович": 64,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 171,
-      "Скоч Андрей Владимирович": 607,
-      "Соболев Александр Геннадиевич": 22,
-      "Федорченко Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:2312000535426": 30,
+      "gas:candidate-vibid:2312000564822": 76,
+      "gas:candidate-vibid:2312000538590": 64,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 171,
+      "gas:candidate-vibid:2312000565782": 607,
+      "gas:candidate-vibid:2312000566499": 22,
+      "gas:candidate-vibid:2312000566284": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 12,
-      "Бочарников Сергей Иванович": 89,
-      "Климашевский Константин Александрович": 39,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 146,
-      "Скоч Андрей Владимирович": 465,
-      "Соболев Александр Геннадиевич": 9,
-      "Федорченко Дмитрий Евгеньевич": 20
+      "gas:candidate-vibid:2312000535426": 12,
+      "gas:candidate-vibid:2312000564822": 89,
+      "gas:candidate-vibid:2312000538590": 39,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 146,
+      "gas:candidate-vibid:2312000565782": 465,
+      "gas:candidate-vibid:2312000566499": 9,
+      "gas:candidate-vibid:2312000566284": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 66,
-      "Климашевский Константин Александрович": 38,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 112,
-      "Скоч Андрей Владимирович": 455,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 66,
+      "gas:candidate-vibid:2312000538590": 38,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 112,
+      "gas:candidate-vibid:2312000565782": 455,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 18,
-      "Бочарников Сергей Иванович": 82,
-      "Климашевский Константин Александрович": 62,
-      "Майсак Андрей Иванович": 11,
-      "Панов Станислав Геннадьевич": 139,
-      "Скоч Андрей Владимирович": 575,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 27
+      "gas:candidate-vibid:2312000535426": 18,
+      "gas:candidate-vibid:2312000564822": 82,
+      "gas:candidate-vibid:2312000538590": 62,
+      "gas:candidate-vibid:2312000565701": 11,
+      "gas:candidate-vibid:2312000565555": 139,
+      "gas:candidate-vibid:2312000565782": 575,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 14,
-      "Бочарников Сергей Иванович": 82,
-      "Климашевский Константин Александрович": 39,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 114,
-      "Скоч Андрей Владимирович": 421,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:2312000535426": 14,
+      "gas:candidate-vibid:2312000564822": 82,
+      "gas:candidate-vibid:2312000538590": 39,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 114,
+      "gas:candidate-vibid:2312000565782": 421,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 25,
-      "Бочарников Сергей Иванович": 79,
-      "Климашевский Константин Александрович": 72,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 149,
-      "Скоч Андрей Владимирович": 614,
-      "Соболев Александр Геннадиевич": 16,
-      "Федорченко Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:2312000535426": 25,
+      "gas:candidate-vibid:2312000564822": 79,
+      "gas:candidate-vibid:2312000538590": 72,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 149,
+      "gas:candidate-vibid:2312000565782": 614,
+      "gas:candidate-vibid:2312000566499": 16,
+      "gas:candidate-vibid:2312000566284": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 23,
-      "Бочарников Сергей Иванович": 101,
-      "Климашевский Константин Александрович": 47,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 114,
-      "Скоч Андрей Владимирович": 483,
-      "Соболев Александр Геннадиевич": 17,
-      "Федорченко Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:2312000535426": 23,
+      "gas:candidate-vibid:2312000564822": 101,
+      "gas:candidate-vibid:2312000538590": 47,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 114,
+      "gas:candidate-vibid:2312000565782": 483,
+      "gas:candidate-vibid:2312000566499": 17,
+      "gas:candidate-vibid:2312000566284": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 16,
-      "Бочарников Сергей Иванович": 76,
-      "Климашевский Константин Александрович": 37,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 107,
-      "Скоч Андрей Владимирович": 518,
-      "Соболев Александр Геннадиевич": 17,
-      "Федорченко Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:2312000535426": 16,
+      "gas:candidate-vibid:2312000564822": 76,
+      "gas:candidate-vibid:2312000538590": 37,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 107,
+      "gas:candidate-vibid:2312000565782": 518,
+      "gas:candidate-vibid:2312000566499": 17,
+      "gas:candidate-vibid:2312000566284": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 19,
-      "Бочарников Сергей Иванович": 81,
-      "Климашевский Константин Александрович": 57,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 162,
-      "Скоч Андрей Владимирович": 627,
-      "Соболев Александр Геннадиевич": 22,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 19,
+      "gas:candidate-vibid:2312000564822": 81,
+      "gas:candidate-vibid:2312000538590": 57,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 162,
+      "gas:candidate-vibid:2312000565782": 627,
+      "gas:candidate-vibid:2312000566499": 22,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 105,
-      "Климашевский Константин Александрович": 56,
-      "Майсак Андрей Иванович": 8,
-      "Панов Станислав Геннадьевич": 145,
-      "Скоч Андрей Владимирович": 689,
-      "Соболев Александр Геннадиевич": 15,
-      "Федорченко Дмитрий Евгеньевич": 38
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 105,
+      "gas:candidate-vibid:2312000538590": 56,
+      "gas:candidate-vibid:2312000565701": 8,
+      "gas:candidate-vibid:2312000565555": 145,
+      "gas:candidate-vibid:2312000565782": 689,
+      "gas:candidate-vibid:2312000566499": 15,
+      "gas:candidate-vibid:2312000566284": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 75,
-      "Климашевский Константин Александрович": 36,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 145,
-      "Скоч Андрей Владимирович": 512,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 17
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 75,
+      "gas:candidate-vibid:2312000538590": 36,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 145,
+      "gas:candidate-vibid:2312000565782": 512,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 18,
-      "Бочарников Сергей Иванович": 88,
-      "Климашевский Константин Александрович": 66,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 151,
-      "Скоч Андрей Владимирович": 727,
-      "Соболев Александр Геннадиевич": 10,
-      "Федорченко Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:2312000535426": 18,
+      "gas:candidate-vibid:2312000564822": 88,
+      "gas:candidate-vibid:2312000538590": 66,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 151,
+      "gas:candidate-vibid:2312000565782": 727,
+      "gas:candidate-vibid:2312000566499": 10,
+      "gas:candidate-vibid:2312000566284": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 22,
-      "Бочарников Сергей Иванович": 117,
-      "Климашевский Константин Александрович": 73,
-      "Майсак Андрей Иванович": 11,
-      "Панов Станислав Геннадьевич": 198,
-      "Скоч Андрей Владимирович": 693,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:2312000535426": 22,
+      "gas:candidate-vibid:2312000564822": 117,
+      "gas:candidate-vibid:2312000538590": 73,
+      "gas:candidate-vibid:2312000565701": 11,
+      "gas:candidate-vibid:2312000565555": 198,
+      "gas:candidate-vibid:2312000565782": 693,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 24,
-      "Бочарников Сергей Иванович": 86,
-      "Климашевский Константин Александрович": 46,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 127,
-      "Скоч Андрей Владимирович": 527,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 37
+      "gas:candidate-vibid:2312000535426": 24,
+      "gas:candidate-vibid:2312000564822": 86,
+      "gas:candidate-vibid:2312000538590": 46,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 127,
+      "gas:candidate-vibid:2312000565782": 527,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 17,
-      "Бочарников Сергей Иванович": 49,
-      "Климашевский Константин Александрович": 53,
-      "Майсак Андрей Иванович": 12,
-      "Панов Станислав Геннадьевич": 132,
-      "Скоч Андрей Владимирович": 539,
-      "Соболев Александр Геннадиевич": 14,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 17,
+      "gas:candidate-vibid:2312000564822": 49,
+      "gas:candidate-vibid:2312000538590": 53,
+      "gas:candidate-vibid:2312000565701": 12,
+      "gas:candidate-vibid:2312000565555": 132,
+      "gas:candidate-vibid:2312000565782": 539,
+      "gas:candidate-vibid:2312000566499": 14,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 39,
-      "Бочарников Сергей Иванович": 71,
-      "Климашевский Константин Александрович": 66,
-      "Майсак Андрей Иванович": 10,
-      "Панов Станислав Геннадьевич": 159,
-      "Скоч Андрей Владимирович": 729,
-      "Соболев Александр Геннадиевич": 29,
-      "Федорченко Дмитрий Евгеньевич": 30
+      "gas:candidate-vibid:2312000535426": 39,
+      "gas:candidate-vibid:2312000564822": 71,
+      "gas:candidate-vibid:2312000538590": 66,
+      "gas:candidate-vibid:2312000565701": 10,
+      "gas:candidate-vibid:2312000565555": 159,
+      "gas:candidate-vibid:2312000565782": 729,
+      "gas:candidate-vibid:2312000566499": 29,
+      "gas:candidate-vibid:2312000566284": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 54,
-      "Бочарников Сергей Иванович": 76,
-      "Климашевский Константин Александрович": 106,
-      "Майсак Андрей Иванович": 15,
-      "Панов Станислав Геннадьевич": 197,
-      "Скоч Андрей Владимирович": 906,
-      "Соболев Александр Геннадиевич": 27,
-      "Федорченко Дмитрий Евгеньевич": 25
+      "gas:candidate-vibid:2312000535426": 54,
+      "gas:candidate-vibid:2312000564822": 76,
+      "gas:candidate-vibid:2312000538590": 106,
+      "gas:candidate-vibid:2312000565701": 15,
+      "gas:candidate-vibid:2312000565555": 197,
+      "gas:candidate-vibid:2312000565782": 906,
+      "gas:candidate-vibid:2312000566499": 27,
+      "gas:candidate-vibid:2312000566284": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 38,
-      "Бочарников Сергей Иванович": 35,
-      "Климашевский Константин Александрович": 61,
-      "Майсак Андрей Иванович": 15,
-      "Панов Станислав Геннадьевич": 168,
-      "Скоч Андрей Владимирович": 586,
-      "Соболев Александр Геннадиевич": 29,
-      "Федорченко Дмитрий Евгеньевич": 23
+      "gas:candidate-vibid:2312000535426": 38,
+      "gas:candidate-vibid:2312000564822": 35,
+      "gas:candidate-vibid:2312000538590": 61,
+      "gas:candidate-vibid:2312000565701": 15,
+      "gas:candidate-vibid:2312000565555": 168,
+      "gas:candidate-vibid:2312000565782": 586,
+      "gas:candidate-vibid:2312000566499": 29,
+      "gas:candidate-vibid:2312000566284": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 11,
-      "Климашевский Константин Александрович": 30,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 34,
-      "Скоч Андрей Владимирович": 333,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 11,
+      "gas:candidate-vibid:2312000538590": 30,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 34,
+      "gas:candidate-vibid:2312000565782": 333,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 19,
-      "Климашевский Константин Александрович": 17,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 55,
-      "Скоч Андрей Владимирович": 533,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 19,
+      "gas:candidate-vibid:2312000538590": 17,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 55,
+      "gas:candidate-vibid:2312000565782": 533,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 10,
-      "Бочарников Сергей Иванович": 32,
-      "Климашевский Константин Александрович": 54,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 76,
-      "Скоч Андрей Владимирович": 566,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:2312000535426": 10,
+      "gas:candidate-vibid:2312000564822": 32,
+      "gas:candidate-vibid:2312000538590": 54,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 76,
+      "gas:candidate-vibid:2312000565782": 566,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 6,
-      "Бочарников Сергей Иванович": 24,
-      "Климашевский Константин Александрович": 35,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 104,
-      "Скоч Андрей Владимирович": 569,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 28
+      "gas:candidate-vibid:2312000535426": 6,
+      "gas:candidate-vibid:2312000564822": 24,
+      "gas:candidate-vibid:2312000538590": 35,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 104,
+      "gas:candidate-vibid:2312000565782": 569,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 5,
-      "Климашевский Константин Александрович": 8,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 25,
-      "Скоч Андрей Владимирович": 265,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 5,
+      "gas:candidate-vibid:2312000538590": 8,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 25,
+      "gas:candidate-vibid:2312000565782": 265,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 15,
-      "Климашевский Константин Александрович": 18,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 75,
-      "Скоч Андрей Владимирович": 400,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 15,
+      "gas:candidate-vibid:2312000538590": 18,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 75,
+      "gas:candidate-vibid:2312000565782": 400,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 8,
-      "Бочарников Сергей Иванович": 14,
-      "Климашевский Константин Александрович": 18,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 42,
-      "Скоч Андрей Владимирович": 335,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:2312000535426": 8,
+      "gas:candidate-vibid:2312000564822": 14,
+      "gas:candidate-vibid:2312000538590": 18,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 42,
+      "gas:candidate-vibid:2312000565782": 335,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 7,
-      "Климашевский Константин Александрович": 7,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 14,
-      "Скоч Андрей Владимирович": 110,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 7,
+      "gas:candidate-vibid:2312000538590": 7,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 14,
+      "gas:candidate-vibid:2312000565782": 110,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 6,
-      "Бочарников Сергей Иванович": 17,
-      "Климашевский Константин Александрович": 21,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 58,
-      "Скоч Андрей Владимирович": 313,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:2312000535426": 6,
+      "gas:candidate-vibid:2312000564822": 17,
+      "gas:candidate-vibid:2312000538590": 21,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 58,
+      "gas:candidate-vibid:2312000565782": 313,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 10,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 16,
-      "Скоч Андрей Владимирович": 96,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 10,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 16,
+      "gas:candidate-vibid:2312000565782": 96,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 7,
-      "Бочарников Сергей Иванович": 11,
-      "Климашевский Константин Александрович": 10,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 28,
-      "Скоч Андрей Владимирович": 265,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 7,
+      "gas:candidate-vibid:2312000564822": 11,
+      "gas:candidate-vibid:2312000538590": 10,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 28,
+      "gas:candidate-vibid:2312000565782": 265,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 12,
-      "Климашевский Константин Александрович": 14,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 33,
-      "Скоч Андрей Владимирович": 183,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 12,
+      "gas:candidate-vibid:2312000538590": 14,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 33,
+      "gas:candidate-vibid:2312000565782": 183,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 9,
-      "Климашевский Константин Александрович": 11,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 21,
-      "Скоч Андрей Владимирович": 258,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 9,
+      "gas:candidate-vibid:2312000538590": 11,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 21,
+      "gas:candidate-vibid:2312000565782": 258,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 7,
-      "Бочарников Сергей Иванович": 14,
-      "Климашевский Константин Александрович": 21,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 58,
-      "Скоч Андрей Владимирович": 416,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:2312000535426": 7,
+      "gas:candidate-vibid:2312000564822": 14,
+      "gas:candidate-vibid:2312000538590": 21,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 58,
+      "gas:candidate-vibid:2312000565782": 416,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 18,
-      "Климашевский Константин Александрович": 15,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 17,
-      "Скоч Андрей Владимирович": 188,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 18,
+      "gas:candidate-vibid:2312000538590": 15,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 17,
+      "gas:candidate-vibid:2312000565782": 188,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 18,
-      "Бочарников Сергей Иванович": 32,
-      "Климашевский Константин Александрович": 66,
-      "Майсак Андрей Иванович": 11,
-      "Панов Станислав Геннадьевич": 109,
-      "Скоч Андрей Владимирович": 512,
-      "Соболев Александр Геннадиевич": 11,
-      "Федорченко Дмитрий Евгеньевич": 21
+      "gas:candidate-vibid:2312000535426": 18,
+      "gas:candidate-vibid:2312000564822": 32,
+      "gas:candidate-vibid:2312000538590": 66,
+      "gas:candidate-vibid:2312000565701": 11,
+      "gas:candidate-vibid:2312000565555": 109,
+      "gas:candidate-vibid:2312000565782": 512,
+      "gas:candidate-vibid:2312000566499": 11,
+      "gas:candidate-vibid:2312000566284": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 8,
-      "Климашевский Константин Александрович": 25,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 37,
-      "Скоч Андрей Владимирович": 152,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 8,
+      "gas:candidate-vibid:2312000538590": 25,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 37,
+      "gas:candidate-vibid:2312000565782": 152,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 38,
-      "Климашевский Константин Александрович": 50,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 104,
-      "Скоч Андрей Владимирович": 671,
-      "Соболев Александр Геннадиевич": 20,
-      "Федорченко Дмитрий Евгеньевич": 29
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 38,
+      "gas:candidate-vibid:2312000538590": 50,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 104,
+      "gas:candidate-vibid:2312000565782": 671,
+      "gas:candidate-vibid:2312000566499": 20,
+      "gas:candidate-vibid:2312000566284": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 15,
-      "Бочарников Сергей Иванович": 20,
-      "Климашевский Константин Александрович": 49,
-      "Майсак Андрей Иванович": 9,
-      "Панов Станислав Геннадьевич": 102,
-      "Скоч Андрей Владимирович": 459,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 15,
+      "gas:candidate-vibid:2312000564822": 20,
+      "gas:candidate-vibid:2312000538590": 49,
+      "gas:candidate-vibid:2312000565701": 9,
+      "gas:candidate-vibid:2312000565555": 102,
+      "gas:candidate-vibid:2312000565782": 459,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 7,
-      "Бочарников Сергей Иванович": 29,
-      "Климашевский Константин Александрович": 21,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 41,
-      "Скоч Андрей Владимирович": 339,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 14
+      "gas:candidate-vibid:2312000535426": 7,
+      "gas:candidate-vibid:2312000564822": 29,
+      "gas:candidate-vibid:2312000538590": 21,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 41,
+      "gas:candidate-vibid:2312000565782": 339,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 7,
-      "Климашевский Константин Александрович": 14,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 14,
-      "Скоч Андрей Владимирович": 137,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 7,
+      "gas:candidate-vibid:2312000538590": 14,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 14,
+      "gas:candidate-vibid:2312000565782": 137,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 6,
-      "Бочарников Сергей Иванович": 14,
-      "Климашевский Константин Александрович": 9,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 20,
-      "Скоч Андрей Владимирович": 142,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 6,
+      "gas:candidate-vibid:2312000564822": 14,
+      "gas:candidate-vibid:2312000538590": 9,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 20,
+      "gas:candidate-vibid:2312000565782": 142,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 17,
-      "Бочарников Сергей Иванович": 16,
-      "Климашевский Константин Александрович": 24,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 109,
-      "Скоч Андрей Владимирович": 518,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 17,
+      "gas:candidate-vibid:2312000564822": 16,
+      "gas:candidate-vibid:2312000538590": 24,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 109,
+      "gas:candidate-vibid:2312000565782": 518,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 28,
-      "Климашевский Константин Александрович": 22,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 59,
-      "Скоч Андрей Владимирович": 270,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 28,
+      "gas:candidate-vibid:2312000538590": 22,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 59,
+      "gas:candidate-vibid:2312000565782": 270,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 11,
-      "Климашевский Константин Александрович": 8,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 27,
-      "Скоч Андрей Владимирович": 268,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 11,
+      "gas:candidate-vibid:2312000538590": 8,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 27,
+      "gas:candidate-vibid:2312000565782": 268,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 22,
-      "Климашевский Константин Александрович": 18,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 37,
-      "Скоч Андрей Владимирович": 304,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 22,
+      "gas:candidate-vibid:2312000538590": 18,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 37,
+      "gas:candidate-vibid:2312000565782": 304,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 6,
-      "Бочарников Сергей Иванович": 9,
-      "Климашевский Константин Александрович": 10,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 42,
-      "Скоч Андрей Владимирович": 386,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:2312000535426": 6,
+      "gas:candidate-vibid:2312000564822": 9,
+      "gas:candidate-vibid:2312000538590": 10,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 42,
+      "gas:candidate-vibid:2312000565782": 386,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 25,
-      "Климашевский Константин Александрович": 12,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 53,
-      "Скоч Андрей Владимирович": 376,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 25,
+      "gas:candidate-vibid:2312000538590": 12,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 53,
+      "gas:candidate-vibid:2312000565782": 376,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 1,
-      "Климашевский Константин Александрович": 6,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 27,
-      "Скоч Андрей Владимирович": 82,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 1,
+      "gas:candidate-vibid:2312000538590": 6,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 27,
+      "gas:candidate-vibid:2312000565782": 82,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 11,
-      "Бочарников Сергей Иванович": 23,
-      "Климашевский Константин Александрович": 41,
-      "Майсак Андрей Иванович": 7,
-      "Панов Станислав Геннадьевич": 63,
-      "Скоч Андрей Владимирович": 533,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 11,
+      "gas:candidate-vibid:2312000564822": 23,
+      "gas:candidate-vibid:2312000538590": 41,
+      "gas:candidate-vibid:2312000565701": 7,
+      "gas:candidate-vibid:2312000565555": 63,
+      "gas:candidate-vibid:2312000565782": 533,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 12,
-      "Бочарников Сергей Иванович": 24,
-      "Климашевский Константин Александрович": 47,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 72,
-      "Скоч Андрей Владимирович": 335,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 12,
+      "gas:candidate-vibid:2312000564822": 24,
+      "gas:candidate-vibid:2312000538590": 47,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 72,
+      "gas:candidate-vibid:2312000565782": 335,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 20,
-      "Бочарников Сергей Иванович": 52,
-      "Климашевский Константин Александрович": 36,
-      "Майсак Андрей Иванович": 13,
-      "Панов Станислав Геннадьевич": 104,
-      "Скоч Андрей Владимирович": 381,
-      "Соболев Александр Геннадиевич": 15,
-      "Федорченко Дмитрий Евгеньевич": 26
+      "gas:candidate-vibid:2312000535426": 20,
+      "gas:candidate-vibid:2312000564822": 52,
+      "gas:candidate-vibid:2312000538590": 36,
+      "gas:candidate-vibid:2312000565701": 13,
+      "gas:candidate-vibid:2312000565555": 104,
+      "gas:candidate-vibid:2312000565782": 381,
+      "gas:candidate-vibid:2312000566499": 15,
+      "gas:candidate-vibid:2312000566284": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 13,
-      "Бочарников Сергей Иванович": 47,
-      "Климашевский Константин Александрович": 28,
-      "Майсак Андрей Иванович": 6,
-      "Панов Станислав Геннадьевич": 72,
-      "Скоч Андрей Владимирович": 432,
-      "Соболев Александр Геннадиевич": 6,
-      "Федорченко Дмитрий Евгеньевич": 18
+      "gas:candidate-vibid:2312000535426": 13,
+      "gas:candidate-vibid:2312000564822": 47,
+      "gas:candidate-vibid:2312000538590": 28,
+      "gas:candidate-vibid:2312000565701": 6,
+      "gas:candidate-vibid:2312000565555": 72,
+      "gas:candidate-vibid:2312000565782": 432,
+      "gas:candidate-vibid:2312000566499": 6,
+      "gas:candidate-vibid:2312000566284": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 8,
-      "Бочарников Сергей Иванович": 15,
-      "Климашевский Константин Александрович": 29,
-      "Майсак Андрей Иванович": 5,
-      "Панов Станислав Геннадьевич": 64,
-      "Скоч Андрей Владимирович": 277,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 7
+      "gas:candidate-vibid:2312000535426": 8,
+      "gas:candidate-vibid:2312000564822": 15,
+      "gas:candidate-vibid:2312000538590": 29,
+      "gas:candidate-vibid:2312000565701": 5,
+      "gas:candidate-vibid:2312000565555": 64,
+      "gas:candidate-vibid:2312000565782": 277,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 17,
-      "Климашевский Константин Александрович": 39,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 96,
-      "Скоч Андрей Владимирович": 699,
-      "Соболев Александр Геннадиевич": 7,
-      "Федорченко Дмитрий Евгеньевич": 13
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 17,
+      "gas:candidate-vibid:2312000538590": 39,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 96,
+      "gas:candidate-vibid:2312000565782": 699,
+      "gas:candidate-vibid:2312000566499": 7,
+      "gas:candidate-vibid:2312000566284": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 13,
-      "Климашевский Константин Александрович": 10,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 29,
-      "Скоч Андрей Владимирович": 197,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 13,
+      "gas:candidate-vibid:2312000538590": 10,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 29,
+      "gas:candidate-vibid:2312000565782": 197,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 1,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 0,
-      "Скоч Андрей Владимирович": 109,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 0
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 1,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 0,
+      "gas:candidate-vibid:2312000565782": 109,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 1,
-      "Бочарников Сергей Иванович": 10,
-      "Климашевский Константин Александрович": 8,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 4,
-      "Скоч Андрей Владимирович": 45,
-      "Соболев Александр Геннадиевич": 0,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 1,
+      "gas:candidate-vibid:2312000564822": 10,
+      "gas:candidate-vibid:2312000538590": 8,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 4,
+      "gas:candidate-vibid:2312000565782": 45,
+      "gas:candidate-vibid:2312000566499": 0,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 16,
-      "Климашевский Константин Александрович": 11,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 15,
-      "Скоч Андрей Владимирович": 107,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 16,
+      "gas:candidate-vibid:2312000538590": 11,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 15,
+      "gas:candidate-vibid:2312000565782": 107,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533606&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533606&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 12,
-      "Климашевский Константин Александрович": 15,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 56,
-      "Скоч Андрей Владимирович": 498,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 9
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 12,
+      "gas:candidate-vibid:2312000538590": 15,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 56,
+      "gas:candidate-vibid:2312000565782": 498,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 7,
-      "Климашевский Константин Александрович": 12,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 55,
-      "Скоч Андрей Владимирович": 201,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 11
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 7,
+      "gas:candidate-vibid:2312000538590": 12,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 55,
+      "gas:candidate-vibid:2312000565782": 201,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 8,
-      "Климашевский Константин Александрович": 11,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 50,
-      "Скоч Андрей Владимирович": 315,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 19
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 8,
+      "gas:candidate-vibid:2312000538590": 11,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 50,
+      "gas:candidate-vibid:2312000565782": 315,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 0,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 6,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 25,
-      "Скоч Андрей Владимирович": 193,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 3
+      "gas:candidate-vibid:2312000535426": 0,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 6,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 25,
+      "gas:candidate-vibid:2312000565782": 193,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 10,
-      "Климашевский Константин Александрович": 15,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 76,
-      "Скоч Андрей Владимирович": 350,
-      "Соболев Александр Геннадиевич": 5,
-      "Федорченко Дмитрий Евгеньевич": 10
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 10,
+      "gas:candidate-vibid:2312000538590": 15,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 76,
+      "gas:candidate-vibid:2312000565782": 350,
+      "gas:candidate-vibid:2312000566499": 5,
+      "gas:candidate-vibid:2312000566284": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 1,
-      "Климашевский Константин Александрович": 8,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 45,
-      "Скоч Андрей Владимирович": 206,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 5
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 1,
+      "gas:candidate-vibid:2312000538590": 8,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 45,
+      "gas:candidate-vibid:2312000565782": 206,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 3,
-      "Климашевский Константин Александрович": 17,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 60,
-      "Скоч Андрей Владимирович": 310,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 12
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 3,
+      "gas:candidate-vibid:2312000538590": 17,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 60,
+      "gas:candidate-vibid:2312000565782": 310,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 5,
-      "Майсак Андрей Иванович": 3,
-      "Панов Станислав Геннадьевич": 45,
-      "Скоч Андрей Владимирович": 201,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 5,
+      "gas:candidate-vibid:2312000565701": 3,
+      "gas:candidate-vibid:2312000565555": 45,
+      "gas:candidate-vibid:2312000565782": 201,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 9,
-      "Бочарников Сергей Иванович": 22,
-      "Климашевский Константин Александрович": 30,
-      "Майсак Андрей Иванович": 4,
-      "Панов Станислав Геннадьевич": 119,
-      "Скоч Андрей Владимирович": 370,
-      "Соболев Александр Геннадиевич": 8,
-      "Федорченко Дмитрий Евгеньевич": 15
+      "gas:candidate-vibid:2312000535426": 9,
+      "gas:candidate-vibid:2312000564822": 22,
+      "gas:candidate-vibid:2312000538590": 30,
+      "gas:candidate-vibid:2312000565701": 4,
+      "gas:candidate-vibid:2312000565555": 119,
+      "gas:candidate-vibid:2312000565782": 370,
+      "gas:candidate-vibid:2312000566499": 8,
+      "gas:candidate-vibid:2312000566284": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 3,
-      "Бочарников Сергей Иванович": 4,
-      "Климашевский Константин Александрович": 25,
-      "Майсак Андрей Иванович": 2,
-      "Панов Станислав Геннадьевич": 40,
-      "Скоч Андрей Владимирович": 206,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 6
+      "gas:candidate-vibid:2312000535426": 3,
+      "gas:candidate-vibid:2312000564822": 4,
+      "gas:candidate-vibid:2312000538590": 25,
+      "gas:candidate-vibid:2312000565701": 2,
+      "gas:candidate-vibid:2312000565555": 40,
+      "gas:candidate-vibid:2312000565782": 206,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 17,
-      "Климашевский Константин Александрович": 22,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 62,
-      "Скоч Андрей Владимирович": 307,
-      "Соболев Александр Геннадиевич": 4,
-      "Федорченко Дмитрий Евгеньевич": 8
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 17,
+      "gas:candidate-vibid:2312000538590": 22,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 62,
+      "gas:candidate-vibid:2312000565782": 307,
+      "gas:candidate-vibid:2312000566499": 4,
+      "gas:candidate-vibid:2312000566284": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 2,
-      "Бочарников Сергей Иванович": 2,
-      "Климашевский Константин Александрович": 4,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 19,
-      "Скоч Андрей Владимирович": 84,
-      "Соболев Александр Геннадиевич": 2,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 2,
+      "gas:candidate-vibid:2312000564822": 2,
+      "gas:candidate-vibid:2312000538590": 4,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 19,
+      "gas:candidate-vibid:2312000565782": 84,
+      "gas:candidate-vibid:2312000566499": 2,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 4,
-      "Бочарников Сергей Иванович": 8,
-      "Климашевский Константин Александрович": 4,
-      "Майсак Андрей Иванович": 0,
-      "Панов Станислав Геннадьевич": 31,
-      "Скоч Андрей Владимирович": 78,
-      "Соболев Александр Геннадиевич": 3,
-      "Федорченко Дмитрий Евгеньевич": 4
+      "gas:candidate-vibid:2312000535426": 4,
+      "gas:candidate-vibid:2312000564822": 8,
+      "gas:candidate-vibid:2312000538590": 4,
+      "gas:candidate-vibid:2312000565701": 0,
+      "gas:candidate-vibid:2312000565555": 31,
+      "gas:candidate-vibid:2312000565782": 78,
+      "gas:candidate-vibid:2312000566499": 3,
+      "gas:candidate-vibid:2312000566284": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_31_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Борисовский Валерий Викторович": 5,
-      "Бочарников Сергей Иванович": 0,
-      "Климашевский Константин Александрович": 7,
-      "Майсак Андрей Иванович": 1,
-      "Панов Станислав Геннадьевич": 12,
-      "Скоч Андрей Владимирович": 114,
-      "Соболев Александр Геннадиевич": 1,
-      "Федорченко Дмитрий Евгеньевич": 1
+      "gas:candidate-vibid:2312000535426": 5,
+      "gas:candidate-vibid:2312000564822": 0,
+      "gas:candidate-vibid:2312000538590": 7,
+      "gas:candidate-vibid:2312000565701": 1,
+      "gas:candidate-vibid:2312000565555": 12,
+      "gas:candidate-vibid:2312000565782": 114,
+      "gas:candidate-vibid:2312000566499": 1,
+      "gas:candidate-vibid:2312000566284": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000097&tvd=2312000533607&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533607&type=464",

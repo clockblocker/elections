@@ -43,17 +43,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 47,
-      "Дивинский Игорь Борисович": 706,
-      "Иванов Андрей Спартакович": 65,
-      "Койфман Михаил Израилевич": 18,
-      "Кочанжи Сергей Павлович": 77,
-      "Лавринюк Константин Васильевич": 19,
-      "Ложечко Виктор Петрович": 43,
-      "Мельникова Ирина Николаевна": 69,
-      "Савин Юрий Анатольевич": 44,
-      "Ступаков Михаил Николаевич": 66,
-      "Ходунова Ольга Архиповна": 50
+      "gas:candidate-vibid:4784011200428": 47,
+      "gas:candidate-vibid:4784011200368": 706,
+      "gas:candidate-vibid:4784011200589": 65,
+      "gas:candidate-vibid:4784011200528": 18,
+      "gas:candidate-vibid:4784011199650": 77,
+      "gas:candidate-vibid:4784011200614": 19,
+      "gas:candidate-vibid:4784011200220": 43,
+      "gas:candidate-vibid:4784011200325": 69,
+      "gas:candidate-vibid:4784011200015": 44,
+      "gas:candidate-vibid:4784011200492": 66,
+      "gas:candidate-vibid:4784011200253": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -104,17 +104,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 63,
-      "Дивинский Игорь Борисович": 119,
-      "Иванов Андрей Спартакович": 17,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 27,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 24,
-      "Мельникова Ирина Николаевна": 44,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 83,
-      "Ходунова Ольга Архиповна": 65
+      "gas:candidate-vibid:4784011200428": 63,
+      "gas:candidate-vibid:4784011200368": 119,
+      "gas:candidate-vibid:4784011200589": 17,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 27,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 24,
+      "gas:candidate-vibid:4784011200325": 44,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 83,
+      "gas:candidate-vibid:4784011200253": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -165,17 +165,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 42,
-      "Дивинский Игорь Борисович": 136,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 37,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 29,
-      "Мельникова Ирина Николаевна": 28,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 78,
-      "Ходунова Ольга Архиповна": 34
+      "gas:candidate-vibid:4784011200428": 42,
+      "gas:candidate-vibid:4784011200368": 136,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 37,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 29,
+      "gas:candidate-vibid:4784011200325": 28,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 78,
+      "gas:candidate-vibid:4784011200253": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -226,17 +226,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 38,
-      "Дивинский Игорь Борисович": 137,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 33,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 17,
-      "Мельникова Ирина Николаевна": 30,
-      "Савин Юрий Анатольевич": 13,
-      "Ступаков Михаил Николаевич": 65,
-      "Ходунова Ольга Архиповна": 26
+      "gas:candidate-vibid:4784011200428": 38,
+      "gas:candidate-vibid:4784011200368": 137,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 33,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 17,
+      "gas:candidate-vibid:4784011200325": 30,
+      "gas:candidate-vibid:4784011200015": 13,
+      "gas:candidate-vibid:4784011200492": 65,
+      "gas:candidate-vibid:4784011200253": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -287,17 +287,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 63,
-      "Дивинский Игорь Борисович": 382,
-      "Иванов Андрей Спартакович": 52,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 78,
-      "Лавринюк Константин Васильевич": 16,
-      "Ложечко Виктор Петрович": 42,
-      "Мельникова Ирина Николаевна": 53,
-      "Савин Юрий Анатольевич": 42,
-      "Ступаков Михаил Николаевич": 96,
-      "Ходунова Ольга Архиповна": 84
+      "gas:candidate-vibid:4784011200428": 63,
+      "gas:candidate-vibid:4784011200368": 382,
+      "gas:candidate-vibid:4784011200589": 52,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 78,
+      "gas:candidate-vibid:4784011200614": 16,
+      "gas:candidate-vibid:4784011200220": 42,
+      "gas:candidate-vibid:4784011200325": 53,
+      "gas:candidate-vibid:4784011200015": 42,
+      "gas:candidate-vibid:4784011200492": 96,
+      "gas:candidate-vibid:4784011200253": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -348,17 +348,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 80,
-      "Дивинский Игорь Борисович": 217,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 41,
-      "Лавринюк Константин Васильевич": 1,
-      "Ложечко Виктор Петрович": 23,
-      "Мельникова Ирина Николаевна": 41,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 136,
-      "Ходунова Ольга Архиповна": 72
+      "gas:candidate-vibid:4784011200428": 80,
+      "gas:candidate-vibid:4784011200368": 217,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 41,
+      "gas:candidate-vibid:4784011200614": 1,
+      "gas:candidate-vibid:4784011200220": 23,
+      "gas:candidate-vibid:4784011200325": 41,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 136,
+      "gas:candidate-vibid:4784011200253": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -409,17 +409,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 90,
-      "Дивинский Игорь Борисович": 196,
-      "Иванов Андрей Спартакович": 35,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 44,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 57,
-      "Мельникова Ирина Николаевна": 69,
-      "Савин Юрий Анатольевич": 31,
-      "Ступаков Михаил Николаевич": 130,
-      "Ходунова Ольга Архиповна": 88
+      "gas:candidate-vibid:4784011200428": 90,
+      "gas:candidate-vibid:4784011200368": 196,
+      "gas:candidate-vibid:4784011200589": 35,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 44,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 57,
+      "gas:candidate-vibid:4784011200325": 69,
+      "gas:candidate-vibid:4784011200015": 31,
+      "gas:candidate-vibid:4784011200492": 130,
+      "gas:candidate-vibid:4784011200253": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -470,17 +470,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 86,
-      "Дивинский Игорь Борисович": 220,
-      "Иванов Андрей Спартакович": 50,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 59,
-      "Лавринюк Константин Васильевич": 15,
-      "Ложечко Виктор Петрович": 52,
-      "Мельникова Ирина Николаевна": 48,
-      "Савин Юрий Анатольевич": 35,
-      "Ступаков Михаил Николаевич": 133,
-      "Ходунова Ольга Архиповна": 71
+      "gas:candidate-vibid:4784011200428": 86,
+      "gas:candidate-vibid:4784011200368": 220,
+      "gas:candidate-vibid:4784011200589": 50,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 59,
+      "gas:candidate-vibid:4784011200614": 15,
+      "gas:candidate-vibid:4784011200220": 52,
+      "gas:candidate-vibid:4784011200325": 48,
+      "gas:candidate-vibid:4784011200015": 35,
+      "gas:candidate-vibid:4784011200492": 133,
+      "gas:candidate-vibid:4784011200253": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -531,17 +531,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 49,
-      "Дивинский Игорь Борисович": 127,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 27,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 28,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 88,
-      "Ходунова Ольга Архиповна": 55
+      "gas:candidate-vibid:4784011200428": 49,
+      "gas:candidate-vibid:4784011200368": 127,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 27,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 28,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 88,
+      "gas:candidate-vibid:4784011200253": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -592,17 +592,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 38,
-      "Дивинский Игорь Борисович": 97,
-      "Иванов Андрей Спартакович": 10,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 15,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 11,
-      "Мельникова Ирина Николаевна": 17,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 57,
-      "Ходунова Ольга Архиповна": 14
+      "gas:candidate-vibid:4784011200428": 38,
+      "gas:candidate-vibid:4784011200368": 97,
+      "gas:candidate-vibid:4784011200589": 10,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 15,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 11,
+      "gas:candidate-vibid:4784011200325": 17,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 57,
+      "gas:candidate-vibid:4784011200253": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -653,17 +653,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 73,
-      "Дивинский Игорь Борисович": 209,
-      "Иванов Андрей Спартакович": 32,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 50,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 28,
-      "Мельникова Ирина Николаевна": 44,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 130,
-      "Ходунова Ольга Архиповна": 53
+      "gas:candidate-vibid:4784011200428": 73,
+      "gas:candidate-vibid:4784011200368": 209,
+      "gas:candidate-vibid:4784011200589": 32,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 50,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 28,
+      "gas:candidate-vibid:4784011200325": 44,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 130,
+      "gas:candidate-vibid:4784011200253": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -714,17 +714,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 61,
-      "Дивинский Игорь Борисович": 203,
-      "Иванов Андрей Спартакович": 30,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 38,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 34,
-      "Мельникова Ирина Николаевна": 36,
-      "Савин Юрий Анатольевич": 41,
-      "Ступаков Михаил Николаевич": 99,
-      "Ходунова Ольга Архиповна": 61
+      "gas:candidate-vibid:4784011200428": 61,
+      "gas:candidate-vibid:4784011200368": 203,
+      "gas:candidate-vibid:4784011200589": 30,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 38,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 34,
+      "gas:candidate-vibid:4784011200325": 36,
+      "gas:candidate-vibid:4784011200015": 41,
+      "gas:candidate-vibid:4784011200492": 99,
+      "gas:candidate-vibid:4784011200253": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -775,17 +775,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 47,
-      "Дивинский Игорь Борисович": 145,
-      "Иванов Андрей Спартакович": 21,
-      "Койфман Михаил Израилевич": 8,
-      "Кочанжи Сергей Павлович": 33,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 31,
-      "Мельникова Ирина Николаевна": 33,
-      "Савин Юрий Анатольевич": 9,
-      "Ступаков Михаил Николаевич": 107,
-      "Ходунова Ольга Архиповна": 51
+      "gas:candidate-vibid:4784011200428": 47,
+      "gas:candidate-vibid:4784011200368": 145,
+      "gas:candidate-vibid:4784011200589": 21,
+      "gas:candidate-vibid:4784011200528": 8,
+      "gas:candidate-vibid:4784011199650": 33,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 31,
+      "gas:candidate-vibid:4784011200325": 33,
+      "gas:candidate-vibid:4784011200015": 9,
+      "gas:candidate-vibid:4784011200492": 107,
+      "gas:candidate-vibid:4784011200253": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -836,17 +836,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 39,
-      "Дивинский Игорь Борисович": 117,
-      "Иванов Андрей Спартакович": 18,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 35,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 20,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 55,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 39,
+      "gas:candidate-vibid:4784011200368": 117,
+      "gas:candidate-vibid:4784011200589": 18,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 35,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 20,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 55,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -897,17 +897,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 42,
-      "Дивинский Игорь Борисович": 164,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 43,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 37,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 97,
-      "Ходунова Ольга Архиповна": 50
+      "gas:candidate-vibid:4784011200428": 42,
+      "gas:candidate-vibid:4784011200368": 164,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 43,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 37,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 97,
+      "gas:candidate-vibid:4784011200253": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -958,17 +958,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 53,
-      "Дивинский Игорь Борисович": 198,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 42,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 39,
-      "Мельникова Ирина Николаевна": 45,
-      "Савин Юрий Анатольевич": 33,
-      "Ступаков Михаил Николаевич": 86,
-      "Ходунова Ольга Архиповна": 48
+      "gas:candidate-vibid:4784011200428": 53,
+      "gas:candidate-vibid:4784011200368": 198,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 42,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 39,
+      "gas:candidate-vibid:4784011200325": 45,
+      "gas:candidate-vibid:4784011200015": 33,
+      "gas:candidate-vibid:4784011200492": 86,
+      "gas:candidate-vibid:4784011200253": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1019,17 +1019,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 56,
-      "Дивинский Игорь Борисович": 225,
-      "Иванов Андрей Спартакович": 32,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 36,
-      "Мельникова Ирина Николаевна": 43,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 99,
-      "Ходунова Ольга Архиповна": 49
+      "gas:candidate-vibid:4784011200428": 56,
+      "gas:candidate-vibid:4784011200368": 225,
+      "gas:candidate-vibid:4784011200589": 32,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 36,
+      "gas:candidate-vibid:4784011200325": 43,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 99,
+      "gas:candidate-vibid:4784011200253": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1080,17 +1080,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 56,
-      "Дивинский Игорь Борисович": 211,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 37,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 36,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 34,
-      "Ступаков Михаил Николаевич": 124,
-      "Ходунова Ольга Архиповна": 66
+      "gas:candidate-vibid:4784011200428": 56,
+      "gas:candidate-vibid:4784011200368": 211,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 37,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 36,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 34,
+      "gas:candidate-vibid:4784011200492": 124,
+      "gas:candidate-vibid:4784011200253": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1141,17 +1141,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 63,
-      "Дивинский Игорь Борисович": 134,
-      "Иванов Андрей Спартакович": 10,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 38,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 27,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 24,
-      "Ступаков Михаил Николаевич": 73,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 63,
+      "gas:candidate-vibid:4784011200368": 134,
+      "gas:candidate-vibid:4784011200589": 10,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 38,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 27,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 24,
+      "gas:candidate-vibid:4784011200492": 73,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1202,17 +1202,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 47,
-      "Дивинский Игорь Борисович": 190,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 39,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 38,
-      "Мельникова Ирина Николаевна": 36,
-      "Савин Юрий Анатольевич": 31,
-      "Ступаков Михаил Николаевич": 88,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 47,
+      "gas:candidate-vibid:4784011200368": 190,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 39,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 38,
+      "gas:candidate-vibid:4784011200325": 36,
+      "gas:candidate-vibid:4784011200015": 31,
+      "gas:candidate-vibid:4784011200492": 88,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1263,17 +1263,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 72,
-      "Дивинский Игорь Борисович": 164,
-      "Иванов Андрей Спартакович": 30,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 53,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 42,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 96,
-      "Ходунова Ольга Архиповна": 52
+      "gas:candidate-vibid:4784011200428": 72,
+      "gas:candidate-vibid:4784011200368": 164,
+      "gas:candidate-vibid:4784011200589": 30,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 53,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 42,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 96,
+      "gas:candidate-vibid:4784011200253": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1324,17 +1324,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 57,
-      "Дивинский Игорь Борисович": 164,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 38,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 41,
-      "Мельникова Ирина Николаевна": 33,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 74,
-      "Ходунова Ольга Архиповна": 54
+      "gas:candidate-vibid:4784011200428": 57,
+      "gas:candidate-vibid:4784011200368": 164,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 38,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 41,
+      "gas:candidate-vibid:4784011200325": 33,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 74,
+      "gas:candidate-vibid:4784011200253": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1385,17 +1385,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 34,
-      "Дивинский Игорь Борисович": 151,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 30,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 21,
-      "Мельникова Ирина Николаевна": 35,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 71,
-      "Ходунова Ольга Архиповна": 31
+      "gas:candidate-vibid:4784011200428": 34,
+      "gas:candidate-vibid:4784011200368": 151,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 30,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 21,
+      "gas:candidate-vibid:4784011200325": 35,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 71,
+      "gas:candidate-vibid:4784011200253": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1446,17 +1446,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 49,
-      "Дивинский Игорь Борисович": 190,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 30,
-      "Мельникова Ирина Николаевна": 40,
-      "Савин Юрий Анатольевич": 44,
-      "Ступаков Михаил Николаевич": 74,
-      "Ходунова Ольга Архиповна": 54
+      "gas:candidate-vibid:4784011200428": 49,
+      "gas:candidate-vibid:4784011200368": 190,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 30,
+      "gas:candidate-vibid:4784011200325": 40,
+      "gas:candidate-vibid:4784011200015": 44,
+      "gas:candidate-vibid:4784011200492": 74,
+      "gas:candidate-vibid:4784011200253": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1507,17 +1507,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 40,
-      "Дивинский Игорь Борисович": 135,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 31,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 24,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 41,
-      "Ходунова Ольга Архиповна": 26
+      "gas:candidate-vibid:4784011200428": 40,
+      "gas:candidate-vibid:4784011200368": 135,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 31,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 24,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 41,
+      "gas:candidate-vibid:4784011200253": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1568,17 +1568,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 58,
-      "Дивинский Игорь Борисович": 280,
-      "Иванов Андрей Спартакович": 28,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 56,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 58,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 36,
-      "Ступаков Михаил Николаевич": 60,
-      "Ходунова Ольга Архиповна": 76
+      "gas:candidate-vibid:4784011200428": 58,
+      "gas:candidate-vibid:4784011200368": 280,
+      "gas:candidate-vibid:4784011200589": 28,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 56,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 58,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 36,
+      "gas:candidate-vibid:4784011200492": 60,
+      "gas:candidate-vibid:4784011200253": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1629,17 +1629,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 55,
-      "Дивинский Игорь Борисович": 218,
-      "Иванов Андрей Спартакович": 36,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 56,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 44,
-      "Мельникова Ирина Николаевна": 48,
-      "Савин Юрий Анатольевич": 42,
-      "Ступаков Михаил Николаевич": 116,
-      "Ходунова Ольга Архиповна": 56
+      "gas:candidate-vibid:4784011200428": 55,
+      "gas:candidate-vibid:4784011200368": 218,
+      "gas:candidate-vibid:4784011200589": 36,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 56,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 44,
+      "gas:candidate-vibid:4784011200325": 48,
+      "gas:candidate-vibid:4784011200015": 42,
+      "gas:candidate-vibid:4784011200492": 116,
+      "gas:candidate-vibid:4784011200253": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1690,17 +1690,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 64,
-      "Дивинский Игорь Борисович": 180,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 12,
-      "Кочанжи Сергей Павлович": 49,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 34,
-      "Мельникова Ирина Николаевна": 40,
-      "Савин Юрий Анатольевич": 35,
-      "Ступаков Михаил Николаевич": 95,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 64,
+      "gas:candidate-vibid:4784011200368": 180,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 12,
+      "gas:candidate-vibid:4784011199650": 49,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 34,
+      "gas:candidate-vibid:4784011200325": 40,
+      "gas:candidate-vibid:4784011200015": 35,
+      "gas:candidate-vibid:4784011200492": 95,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1751,17 +1751,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 52,
-      "Дивинский Игорь Борисович": 151,
-      "Иванов Андрей Спартакович": 16,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 25,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 22,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 34,
-      "Ступаков Михаил Николаевич": 65,
-      "Ходунова Ольга Архиповна": 35
+      "gas:candidate-vibid:4784011200428": 52,
+      "gas:candidate-vibid:4784011200368": 151,
+      "gas:candidate-vibid:4784011200589": 16,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 25,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 22,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 34,
+      "gas:candidate-vibid:4784011200492": 65,
+      "gas:candidate-vibid:4784011200253": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1812,17 +1812,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 39,
-      "Дивинский Игорь Борисович": 159,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 30,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 29,
-      "Мельникова Ирина Николаевна": 23,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 54,
-      "Ходунова Ольга Архиповна": 30
+      "gas:candidate-vibid:4784011200428": 39,
+      "gas:candidate-vibid:4784011200368": 159,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 30,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 29,
+      "gas:candidate-vibid:4784011200325": 23,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 54,
+      "gas:candidate-vibid:4784011200253": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1873,17 +1873,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 63,
-      "Дивинский Игорь Борисович": 254,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 70,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 39,
-      "Мельникова Ирина Николаевна": 33,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 69,
-      "Ходунова Ольга Архиповна": 56
+      "gas:candidate-vibid:4784011200428": 63,
+      "gas:candidate-vibid:4784011200368": 254,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 70,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 39,
+      "gas:candidate-vibid:4784011200325": 33,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 69,
+      "gas:candidate-vibid:4784011200253": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1934,17 +1934,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 37,
-      "Дивинский Игорь Борисович": 181,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 32,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 23,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 32,
-      "Ступаков Михаил Николаевич": 72,
-      "Ходунова Ольга Архиповна": 60
+      "gas:candidate-vibid:4784011200428": 37,
+      "gas:candidate-vibid:4784011200368": 181,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 32,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 23,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 32,
+      "gas:candidate-vibid:4784011200492": 72,
+      "gas:candidate-vibid:4784011200253": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -1995,17 +1995,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 61,
-      "Дивинский Игорь Борисович": 201,
-      "Иванов Андрей Спартакович": 14,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 44,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 36,
-      "Мельникова Ирина Николаевна": 38,
-      "Савин Юрий Анатольевич": 32,
-      "Ступаков Михаил Николаевич": 87,
-      "Ходунова Ольга Архиповна": 56
+      "gas:candidate-vibid:4784011200428": 61,
+      "gas:candidate-vibid:4784011200368": 201,
+      "gas:candidate-vibid:4784011200589": 14,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 44,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 36,
+      "gas:candidate-vibid:4784011200325": 38,
+      "gas:candidate-vibid:4784011200015": 32,
+      "gas:candidate-vibid:4784011200492": 87,
+      "gas:candidate-vibid:4784011200253": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -2056,17 +2056,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 29,
-      "Дивинский Игорь Борисович": 168,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 46,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 18,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 10,
-      "Ступаков Михаил Николаевич": 40,
-      "Ходунова Ольга Архиповна": 45
+      "gas:candidate-vibid:4784011200428": 29,
+      "gas:candidate-vibid:4784011200368": 168,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 46,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 18,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 10,
+      "gas:candidate-vibid:4784011200492": 40,
+      "gas:candidate-vibid:4784011200253": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -2117,17 +2117,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 60,
-      "Дивинский Игорь Борисович": 147,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 41,
-      "Лавринюк Константин Васильевич": 14,
-      "Ложечко Виктор Петрович": 26,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 24,
-      "Ступаков Михаил Николаевич": 74,
-      "Ходунова Ольга Архиповна": 53
+      "gas:candidate-vibid:4784011200428": 60,
+      "gas:candidate-vibid:4784011200368": 147,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 41,
+      "gas:candidate-vibid:4784011200614": 14,
+      "gas:candidate-vibid:4784011200220": 26,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 24,
+      "gas:candidate-vibid:4784011200492": 74,
+      "gas:candidate-vibid:4784011200253": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -2178,17 +2178,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 52,
-      "Дивинский Игорь Борисович": 161,
-      "Иванов Андрей Спартакович": 21,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 27,
-      "Мельникова Ирина Николаевна": 38,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 51,
-      "Ходунова Ольга Архиповна": 30
+      "gas:candidate-vibid:4784011200428": 52,
+      "gas:candidate-vibid:4784011200368": 161,
+      "gas:candidate-vibid:4784011200589": 21,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 27,
+      "gas:candidate-vibid:4784011200325": 38,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 51,
+      "gas:candidate-vibid:4784011200253": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -2239,17 +2239,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 0,
-      "Дивинский Игорь Борисович": 0,
-      "Иванов Андрей Спартакович": 0,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 1,
-      "Лавринюк Константин Васильевич": 0,
-      "Ложечко Виктор Петрович": 0,
-      "Мельникова Ирина Николаевна": 0,
-      "Савин Юрий Анатольевич": 0,
-      "Ступаков Михаил Николаевич": 1,
-      "Ходунова Ольга Архиповна": 0
+      "gas:candidate-vibid:4784011200428": 0,
+      "gas:candidate-vibid:4784011200368": 0,
+      "gas:candidate-vibid:4784011200589": 0,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 1,
+      "gas:candidate-vibid:4784011200614": 0,
+      "gas:candidate-vibid:4784011200220": 0,
+      "gas:candidate-vibid:4784011200325": 0,
+      "gas:candidate-vibid:4784011200015": 0,
+      "gas:candidate-vibid:4784011200492": 1,
+      "gas:candidate-vibid:4784011200253": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678269&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678269&type=464",
@@ -2300,17 +2300,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 56,
-      "Дивинский Игорь Борисович": 271,
-      "Иванов Андрей Спартакович": 39,
-      "Койфман Михаил Израилевич": 11,
-      "Кочанжи Сергей Павлович": 98,
-      "Лавринюк Константин Васильевич": 13,
-      "Ложечко Виктор Петрович": 47,
-      "Мельникова Ирина Николаевна": 51,
-      "Савин Юрий Анатольевич": 34,
-      "Ступаков Михаил Николаевич": 86,
-      "Ходунова Ольга Архиповна": 45
+      "gas:candidate-vibid:4784011200428": 56,
+      "gas:candidate-vibid:4784011200368": 271,
+      "gas:candidate-vibid:4784011200589": 39,
+      "gas:candidate-vibid:4784011200528": 11,
+      "gas:candidate-vibid:4784011199650": 98,
+      "gas:candidate-vibid:4784011200614": 13,
+      "gas:candidate-vibid:4784011200220": 47,
+      "gas:candidate-vibid:4784011200325": 51,
+      "gas:candidate-vibid:4784011200015": 34,
+      "gas:candidate-vibid:4784011200492": 86,
+      "gas:candidate-vibid:4784011200253": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2361,17 +2361,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 61,
-      "Дивинский Игорь Борисович": 163,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 56,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 29,
-      "Мельникова Ирина Николаевна": 39,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 36,
-      "Ходунова Ольга Архиповна": 35
+      "gas:candidate-vibid:4784011200428": 61,
+      "gas:candidate-vibid:4784011200368": 163,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 56,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 29,
+      "gas:candidate-vibid:4784011200325": 39,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 36,
+      "gas:candidate-vibid:4784011200253": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2422,17 +2422,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 61,
-      "Дивинский Игорь Борисович": 167,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 48,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 33,
-      "Мельникова Ирина Николаевна": 33,
-      "Савин Юрий Анатольевич": 30,
-      "Ступаков Михаил Николаевич": 67,
-      "Ходунова Ольга Архиповна": 44
+      "gas:candidate-vibid:4784011200428": 61,
+      "gas:candidate-vibid:4784011200368": 167,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 48,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 33,
+      "gas:candidate-vibid:4784011200325": 33,
+      "gas:candidate-vibid:4784011200015": 30,
+      "gas:candidate-vibid:4784011200492": 67,
+      "gas:candidate-vibid:4784011200253": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2483,17 +2483,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 64,
-      "Дивинский Игорь Борисович": 156,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 46,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 33,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 58,
-      "Ходунова Ольга Архиповна": 39
+      "gas:candidate-vibid:4784011200428": 64,
+      "gas:candidate-vibid:4784011200368": 156,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 46,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 33,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 58,
+      "gas:candidate-vibid:4784011200253": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2544,17 +2544,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 64,
-      "Дивинский Игорь Борисович": 169,
-      "Иванов Андрей Спартакович": 21,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 52,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 25,
-      "Мельникова Ирина Николаевна": 30,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 54,
-      "Ходунова Ольга Архиповна": 41
+      "gas:candidate-vibid:4784011200428": 64,
+      "gas:candidate-vibid:4784011200368": 169,
+      "gas:candidate-vibid:4784011200589": 21,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 52,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 25,
+      "gas:candidate-vibid:4784011200325": 30,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 54,
+      "gas:candidate-vibid:4784011200253": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2605,17 +2605,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 47,
-      "Дивинский Игорь Борисович": 113,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 36,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 24,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 7,
-      "Ступаков Михаил Николаевич": 33,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 47,
+      "gas:candidate-vibid:4784011200368": 113,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 36,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 24,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 7,
+      "gas:candidate-vibid:4784011200492": 33,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2666,17 +2666,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 55,
-      "Дивинский Игорь Борисович": 164,
-      "Иванов Андрей Спартакович": 33,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 45,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 41,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 13,
-      "Ступаков Михаил Николаевич": 51,
-      "Ходунова Ольга Архиповна": 57
+      "gas:candidate-vibid:4784011200428": 55,
+      "gas:candidate-vibid:4784011200368": 164,
+      "gas:candidate-vibid:4784011200589": 33,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 45,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 41,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 13,
+      "gas:candidate-vibid:4784011200492": 51,
+      "gas:candidate-vibid:4784011200253": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2727,17 +2727,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 66,
-      "Дивинский Игорь Борисович": 197,
-      "Иванов Андрей Спартакович": 21,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 39,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 31,
-      "Мельникова Ирина Николаевна": 34,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 48,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 66,
+      "gas:candidate-vibid:4784011200368": 197,
+      "gas:candidate-vibid:4784011200589": 21,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 39,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 31,
+      "gas:candidate-vibid:4784011200325": 34,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 48,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2788,17 +2788,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 53,
-      "Дивинский Игорь Борисович": 156,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 31,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 29,
-      "Мельникова Ирина Николаевна": 40,
-      "Савин Юрий Анатольевич": 24,
-      "Ступаков Михаил Николаевич": 40,
-      "Ходунова Ольга Архиповна": 46
+      "gas:candidate-vibid:4784011200428": 53,
+      "gas:candidate-vibid:4784011200368": 156,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 31,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 29,
+      "gas:candidate-vibid:4784011200325": 40,
+      "gas:candidate-vibid:4784011200015": 24,
+      "gas:candidate-vibid:4784011200492": 40,
+      "gas:candidate-vibid:4784011200253": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2849,17 +2849,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 61,
-      "Дивинский Игорь Борисович": 175,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 46,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 39,
-      "Мельникова Ирина Николаевна": 43,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 33,
-      "Ходунова Ольга Архиповна": 47
+      "gas:candidate-vibid:4784011200428": 61,
+      "gas:candidate-vibid:4784011200368": 175,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 46,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 39,
+      "gas:candidate-vibid:4784011200325": 43,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 33,
+      "gas:candidate-vibid:4784011200253": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2910,17 +2910,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 48,
-      "Дивинский Игорь Борисович": 210,
-      "Иванов Андрей Спартакович": 39,
-      "Койфман Михаил Израилевич": 8,
-      "Кочанжи Сергей Павлович": 60,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 30,
-      "Мельникова Ирина Николаевна": 40,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 48,
-      "Ходунова Ольга Архиповна": 55
+      "gas:candidate-vibid:4784011200428": 48,
+      "gas:candidate-vibid:4784011200368": 210,
+      "gas:candidate-vibid:4784011200589": 39,
+      "gas:candidate-vibid:4784011200528": 8,
+      "gas:candidate-vibid:4784011199650": 60,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 30,
+      "gas:candidate-vibid:4784011200325": 40,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 48,
+      "gas:candidate-vibid:4784011200253": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -2971,17 +2971,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 61,
-      "Дивинский Игорь Борисович": 179,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 45,
-      "Лавринюк Константин Васильевич": 14,
-      "Ложечко Виктор Петрович": 40,
-      "Мельникова Ирина Николаевна": 33,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 71,
-      "Ходунова Ольга Архиповна": 58
+      "gas:candidate-vibid:4784011200428": 61,
+      "gas:candidate-vibid:4784011200368": 179,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 45,
+      "gas:candidate-vibid:4784011200614": 14,
+      "gas:candidate-vibid:4784011200220": 40,
+      "gas:candidate-vibid:4784011200325": 33,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 71,
+      "gas:candidate-vibid:4784011200253": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3032,17 +3032,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 80,
-      "Дивинский Игорь Борисович": 249,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 38,
-      "Мельникова Ирина Николаевна": 39,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 42,
-      "Ходунова Ольга Архиповна": 57
+      "gas:candidate-vibid:4784011200428": 80,
+      "gas:candidate-vibid:4784011200368": 249,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 38,
+      "gas:candidate-vibid:4784011200325": 39,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 42,
+      "gas:candidate-vibid:4784011200253": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3093,17 +3093,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 80,
-      "Дивинский Игорь Борисович": 230,
-      "Иванов Андрей Спартакович": 10,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 41,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 41,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 40,
-      "Ходунова Ольга Архиповна": 48
+      "gas:candidate-vibid:4784011200428": 80,
+      "gas:candidate-vibid:4784011200368": 230,
+      "gas:candidate-vibid:4784011200589": 10,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 41,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 41,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 40,
+      "gas:candidate-vibid:4784011200253": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3154,17 +3154,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 73,
-      "Дивинский Игорь Борисович": 168,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 38,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 28,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 29,
-      "Ходунова Ольга Архиповна": 45
+      "gas:candidate-vibid:4784011200428": 73,
+      "gas:candidate-vibid:4784011200368": 168,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 38,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 28,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 29,
+      "gas:candidate-vibid:4784011200253": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3215,17 +3215,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 58,
-      "Дивинский Игорь Борисович": 168,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 50,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 26,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 38,
-      "Ходунова Ольга Архиповна": 55
+      "gas:candidate-vibid:4784011200428": 58,
+      "gas:candidate-vibid:4784011200368": 168,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 50,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 26,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 38,
+      "gas:candidate-vibid:4784011200253": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3276,17 +3276,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 79,
-      "Дивинский Игорь Борисович": 184,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 53,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 27,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 40,
-      "Ходунова Ольга Архиповна": 38
+      "gas:candidate-vibid:4784011200428": 79,
+      "gas:candidate-vibid:4784011200368": 184,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 53,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 27,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 40,
+      "gas:candidate-vibid:4784011200253": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3337,17 +3337,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 60,
-      "Дивинский Игорь Борисович": 131,
-      "Иванов Андрей Спартакович": 11,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 38,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 24,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 33,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 60,
+      "gas:candidate-vibid:4784011200368": 131,
+      "gas:candidate-vibid:4784011200589": 11,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 38,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 24,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 33,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3398,17 +3398,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 43,
-      "Дивинский Игорь Борисович": 236,
-      "Иванов Андрей Спартакович": 5,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 30,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 17,
-      "Мельникова Ирина Николаевна": 20,
-      "Савин Юрий Анатольевич": 12,
-      "Ступаков Михаил Николаевич": 34,
-      "Ходунова Ольга Архиповна": 31
+      "gas:candidate-vibid:4784011200428": 43,
+      "gas:candidate-vibid:4784011200368": 236,
+      "gas:candidate-vibid:4784011200589": 5,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 30,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 17,
+      "gas:candidate-vibid:4784011200325": 20,
+      "gas:candidate-vibid:4784011200015": 12,
+      "gas:candidate-vibid:4784011200492": 34,
+      "gas:candidate-vibid:4784011200253": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3459,17 +3459,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 84,
-      "Дивинский Игорь Борисович": 192,
-      "Иванов Андрей Спартакович": 13,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 48,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 21,
-      "Мельникова Ирина Николаевна": 13,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 51,
-      "Ходунова Ольга Архиповна": 52
+      "gas:candidate-vibid:4784011200428": 84,
+      "gas:candidate-vibid:4784011200368": 192,
+      "gas:candidate-vibid:4784011200589": 13,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 48,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 21,
+      "gas:candidate-vibid:4784011200325": 13,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 51,
+      "gas:candidate-vibid:4784011200253": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3520,17 +3520,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 88,
-      "Дивинский Игорь Борисович": 182,
-      "Иванов Андрей Спартакович": 13,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 48,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 30,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 14,
-      "Ступаков Михаил Николаевич": 62,
-      "Ходунова Ольга Архиповна": 66
+      "gas:candidate-vibid:4784011200428": 88,
+      "gas:candidate-vibid:4784011200368": 182,
+      "gas:candidate-vibid:4784011200589": 13,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 48,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 30,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 14,
+      "gas:candidate-vibid:4784011200492": 62,
+      "gas:candidate-vibid:4784011200253": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3581,17 +3581,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 90,
-      "Дивинский Игорь Борисович": 148,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 42,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 30,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 60,
-      "Ходунова Ольга Архиповна": 44
+      "gas:candidate-vibid:4784011200428": 90,
+      "gas:candidate-vibid:4784011200368": 148,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 42,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 30,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 60,
+      "gas:candidate-vibid:4784011200253": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3642,17 +3642,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 80,
-      "Дивинский Игорь Борисович": 162,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 34,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 26,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 70,
-      "Ходунова Ольга Архиповна": 60
+      "gas:candidate-vibid:4784011200428": 80,
+      "gas:candidate-vibid:4784011200368": 162,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 34,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 26,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 70,
+      "gas:candidate-vibid:4784011200253": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3703,17 +3703,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 89,
-      "Дивинский Игорь Борисович": 143,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 42,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 19,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 58,
-      "Ходунова Ольга Архиповна": 51
+      "gas:candidate-vibid:4784011200428": 89,
+      "gas:candidate-vibid:4784011200368": 143,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 42,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 19,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 58,
+      "gas:candidate-vibid:4784011200253": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3764,17 +3764,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 155,
-      "Дивинский Игорь Борисович": 202,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 49,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 40,
-      "Мельникова Ирина Николаевна": 20,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 45,
-      "Ходунова Ольга Архиповна": 54
+      "gas:candidate-vibid:4784011200428": 155,
+      "gas:candidate-vibid:4784011200368": 202,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 49,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 40,
+      "gas:candidate-vibid:4784011200325": 20,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 45,
+      "gas:candidate-vibid:4784011200253": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3825,17 +3825,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 141,
-      "Дивинский Игорь Борисович": 192,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 43,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 33,
-      "Мельникова Ирина Николаевна": 28,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 42,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 141,
+      "gas:candidate-vibid:4784011200368": 192,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 43,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 33,
+      "gas:candidate-vibid:4784011200325": 28,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 42,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3886,17 +3886,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 168,
-      "Дивинский Игорь Борисович": 156,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 49,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 36,
-      "Мельникова Ирина Николаевна": 22,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 38,
-      "Ходунова Ольга Архиповна": 38
+      "gas:candidate-vibid:4784011200428": 168,
+      "gas:candidate-vibid:4784011200368": 156,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 49,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 36,
+      "gas:candidate-vibid:4784011200325": 22,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 38,
+      "gas:candidate-vibid:4784011200253": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -3947,17 +3947,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 159,
-      "Дивинский Игорь Борисович": 202,
-      "Иванов Андрей Спартакович": 9,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 55,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 49,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 47,
-      "Ходунова Ольга Архиповна": 52
+      "gas:candidate-vibid:4784011200428": 159,
+      "gas:candidate-vibid:4784011200368": 202,
+      "gas:candidate-vibid:4784011200589": 9,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 55,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 49,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 47,
+      "gas:candidate-vibid:4784011200253": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4008,17 +4008,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 248,
-      "Дивинский Игорь Борисович": 240,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 45,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 31,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 23,
-      "Ходунова Ольга Архиповна": 24
+      "gas:candidate-vibid:4784011200428": 248,
+      "gas:candidate-vibid:4784011200368": 240,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 45,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 31,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 23,
+      "gas:candidate-vibid:4784011200253": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4069,17 +4069,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 126,
-      "Дивинский Игорь Борисович": 146,
-      "Иванов Андрей Спартакович": 16,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 42,
-      "Лавринюк Константин Васильевич": 1,
-      "Ложечко Виктор Петрович": 26,
-      "Мельникова Ирина Николаевна": 9,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 27,
-      "Ходунова Ольга Архиповна": 41
+      "gas:candidate-vibid:4784011200428": 126,
+      "gas:candidate-vibid:4784011200368": 146,
+      "gas:candidate-vibid:4784011200589": 16,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 42,
+      "gas:candidate-vibid:4784011200614": 1,
+      "gas:candidate-vibid:4784011200220": 26,
+      "gas:candidate-vibid:4784011200325": 9,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 27,
+      "gas:candidate-vibid:4784011200253": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4130,17 +4130,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 142,
-      "Дивинский Игорь Борисович": 221,
-      "Иванов Андрей Спартакович": 0,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 49,
-      "Лавринюк Константин Васильевич": 0,
-      "Ложечко Виктор Петрович": 25,
-      "Мельникова Ирина Николаевна": 0,
-      "Савин Юрий Анатольевич": 8,
-      "Ступаков Михаил Николаевич": 23,
-      "Ходунова Ольга Архиповна": 25
+      "gas:candidate-vibid:4784011200428": 142,
+      "gas:candidate-vibid:4784011200368": 221,
+      "gas:candidate-vibid:4784011200589": 0,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 49,
+      "gas:candidate-vibid:4784011200614": 0,
+      "gas:candidate-vibid:4784011200220": 25,
+      "gas:candidate-vibid:4784011200325": 0,
+      "gas:candidate-vibid:4784011200015": 8,
+      "gas:candidate-vibid:4784011200492": 23,
+      "gas:candidate-vibid:4784011200253": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4191,17 +4191,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 147,
-      "Дивинский Игорь Борисович": 274,
-      "Иванов Андрей Спартакович": 5,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 56,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 19,
-      "Мельникова Ирина Николаевна": 4,
-      "Савин Юрий Анатольевич": 3,
-      "Ступаков Михаил Николаевич": 4,
-      "Ходунова Ольга Архиповна": 4
+      "gas:candidate-vibid:4784011200428": 147,
+      "gas:candidate-vibid:4784011200368": 274,
+      "gas:candidate-vibid:4784011200589": 5,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 56,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 19,
+      "gas:candidate-vibid:4784011200325": 4,
+      "gas:candidate-vibid:4784011200015": 3,
+      "gas:candidate-vibid:4784011200492": 4,
+      "gas:candidate-vibid:4784011200253": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4252,17 +4252,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 219,
-      "Дивинский Игорь Борисович": 230,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 78,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 42,
-      "Мельникова Ирина Николаевна": 39,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 85,
-      "Ходунова Ольга Архиповна": 44
+      "gas:candidate-vibid:4784011200428": 219,
+      "gas:candidate-vibid:4784011200368": 230,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 78,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 42,
+      "gas:candidate-vibid:4784011200325": 39,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 85,
+      "gas:candidate-vibid:4784011200253": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4313,17 +4313,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 107,
-      "Дивинский Игорь Борисович": 151,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 43,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 60,
-      "Ходунова Ольга Архиповна": 41
+      "gas:candidate-vibid:4784011200428": 107,
+      "gas:candidate-vibid:4784011200368": 151,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 43,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 60,
+      "gas:candidate-vibid:4784011200253": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4374,17 +4374,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 144,
-      "Дивинский Игорь Борисович": 231,
-      "Иванов Андрей Спартакович": 7,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 22,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 24,
-      "Мельникова Ирина Николаевна": 8,
-      "Савин Юрий Анатольевич": 15,
-      "Ступаков Михаил Николаевич": 49,
-      "Ходунова Ольга Архиповна": 19
+      "gas:candidate-vibid:4784011200428": 144,
+      "gas:candidate-vibid:4784011200368": 231,
+      "gas:candidate-vibid:4784011200589": 7,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 22,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 24,
+      "gas:candidate-vibid:4784011200325": 8,
+      "gas:candidate-vibid:4784011200015": 15,
+      "gas:candidate-vibid:4784011200492": 49,
+      "gas:candidate-vibid:4784011200253": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4435,17 +4435,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 61,
-      "Дивинский Игорь Борисович": 271,
-      "Иванов Андрей Спартакович": 7,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 85,
-      "Лавринюк Константин Васильевич": 1,
-      "Ложечко Виктор Петрович": 2,
-      "Мельникова Ирина Николаевна": 4,
-      "Савин Юрий Анатольевич": 0,
-      "Ступаков Михаил Николаевич": 7,
-      "Ходунова Ольга Архиповна": 2
+      "gas:candidate-vibid:4784011200428": 61,
+      "gas:candidate-vibid:4784011200368": 271,
+      "gas:candidate-vibid:4784011200589": 7,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 85,
+      "gas:candidate-vibid:4784011200614": 1,
+      "gas:candidate-vibid:4784011200220": 2,
+      "gas:candidate-vibid:4784011200325": 4,
+      "gas:candidate-vibid:4784011200015": 0,
+      "gas:candidate-vibid:4784011200492": 7,
+      "gas:candidate-vibid:4784011200253": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4496,17 +4496,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 126,
-      "Дивинский Игорь Борисович": 119,
-      "Иванов Андрей Спартакович": 16,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 43,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 32,
-      "Мельникова Ирина Николаевна": 16,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 22,
-      "Ходунова Ольга Архиповна": 30
+      "gas:candidate-vibid:4784011200428": 126,
+      "gas:candidate-vibid:4784011200368": 119,
+      "gas:candidate-vibid:4784011200589": 16,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 43,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 32,
+      "gas:candidate-vibid:4784011200325": 16,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 22,
+      "gas:candidate-vibid:4784011200253": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4557,17 +4557,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 88,
-      "Дивинский Игорь Борисович": 124,
-      "Иванов Андрей Спартакович": 9,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 34,
-      "Лавринюк Константин Васильевич": 1,
-      "Ложечко Виктор Петрович": 22,
-      "Мельникова Ирина Николаевна": 14,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 14,
-      "Ходунова Ольга Архиповна": 17
+      "gas:candidate-vibid:4784011200428": 88,
+      "gas:candidate-vibid:4784011200368": 124,
+      "gas:candidate-vibid:4784011200589": 9,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 34,
+      "gas:candidate-vibid:4784011200614": 1,
+      "gas:candidate-vibid:4784011200220": 22,
+      "gas:candidate-vibid:4784011200325": 14,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 14,
+      "gas:candidate-vibid:4784011200253": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4618,17 +4618,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 134,
-      "Дивинский Игорь Борисович": 143,
-      "Иванов Андрей Спартакович": 8,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 45,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 27,
-      "Мельникова Ирина Николаевна": 28,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 27,
-      "Ходунова Ольга Архиповна": 45
+      "gas:candidate-vibid:4784011200428": 134,
+      "gas:candidate-vibid:4784011200368": 143,
+      "gas:candidate-vibid:4784011200589": 8,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 45,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 27,
+      "gas:candidate-vibid:4784011200325": 28,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 27,
+      "gas:candidate-vibid:4784011200253": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4679,17 +4679,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 148,
-      "Дивинский Игорь Борисович": 192,
-      "Иванов Андрей Спартакович": 7,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 33,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 37,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 25,
-      "Ходунова Ольга Архиповна": 28
+      "gas:candidate-vibid:4784011200428": 148,
+      "gas:candidate-vibid:4784011200368": 192,
+      "gas:candidate-vibid:4784011200589": 7,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 33,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 37,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 25,
+      "gas:candidate-vibid:4784011200253": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4740,17 +4740,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 137,
-      "Дивинский Игорь Борисович": 123,
-      "Иванов Андрей Спартакович": 11,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 49,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 21,
-      "Мельникова Ирина Николаевна": 9,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 25,
-      "Ходунова Ольга Архиповна": 17
+      "gas:candidate-vibid:4784011200428": 137,
+      "gas:candidate-vibid:4784011200368": 123,
+      "gas:candidate-vibid:4784011200589": 11,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 49,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 21,
+      "gas:candidate-vibid:4784011200325": 9,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 25,
+      "gas:candidate-vibid:4784011200253": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4801,17 +4801,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 126,
-      "Дивинский Игорь Борисович": 209,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 70,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 36,
-      "Мельникова Ирина Николаевна": 35,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 39,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 126,
+      "gas:candidate-vibid:4784011200368": 209,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 70,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 36,
+      "gas:candidate-vibid:4784011200325": 35,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 39,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4862,17 +4862,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 112,
-      "Дивинский Игорь Борисович": 301,
-      "Иванов Андрей Спартакович": 5,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 63,
-      "Лавринюк Константин Васильевич": 0,
-      "Ложечко Виктор Петрович": 63,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 43,
-      "Ходунова Ольга Архиповна": 55
+      "gas:candidate-vibid:4784011200428": 112,
+      "gas:candidate-vibid:4784011200368": 301,
+      "gas:candidate-vibid:4784011200589": 5,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 63,
+      "gas:candidate-vibid:4784011200614": 0,
+      "gas:candidate-vibid:4784011200220": 63,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 43,
+      "gas:candidate-vibid:4784011200253": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4923,17 +4923,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 116,
-      "Дивинский Игорь Борисович": 237,
-      "Иванов Андрей Спартакович": 13,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 57,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 51,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 57,
-      "Ходунова Ольга Архиповна": 57
+      "gas:candidate-vibid:4784011200428": 116,
+      "gas:candidate-vibid:4784011200368": 237,
+      "gas:candidate-vibid:4784011200589": 13,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 57,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 51,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 57,
+      "gas:candidate-vibid:4784011200253": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -4984,17 +4984,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 112,
-      "Дивинский Игорь Борисович": 296,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 38,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 39,
-      "Мельникова Ирина Николаевна": 20,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 37,
-      "Ходунова Ольга Архиповна": 66
+      "gas:candidate-vibid:4784011200428": 112,
+      "gas:candidate-vibid:4784011200368": 296,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 38,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 39,
+      "gas:candidate-vibid:4784011200325": 20,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 37,
+      "gas:candidate-vibid:4784011200253": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5045,17 +5045,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 102,
-      "Дивинский Игорь Борисович": 318,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 40,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 44,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 42,
-      "Ходунова Ольга Архиповна": 84
+      "gas:candidate-vibid:4784011200428": 102,
+      "gas:candidate-vibid:4784011200368": 318,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 40,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 44,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 42,
+      "gas:candidate-vibid:4784011200253": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5106,17 +5106,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 99,
-      "Дивинский Игорь Борисович": 249,
-      "Иванов Андрей Спартакович": 29,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 72,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 53,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 39,
-      "Ступаков Михаил Николаевич": 26,
-      "Ходунова Ольга Архиповна": 89
+      "gas:candidate-vibid:4784011200428": 99,
+      "gas:candidate-vibid:4784011200368": 249,
+      "gas:candidate-vibid:4784011200589": 29,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 72,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 53,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 39,
+      "gas:candidate-vibid:4784011200492": 26,
+      "gas:candidate-vibid:4784011200253": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5167,17 +5167,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 95,
-      "Дивинский Игорь Борисович": 240,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 58,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 37,
-      "Мельникова Ирина Николаевна": 25,
-      "Савин Юрий Анатольевич": 24,
-      "Ступаков Михаил Николаевич": 45,
-      "Ходунова Ольга Архиповна": 62
+      "gas:candidate-vibid:4784011200428": 95,
+      "gas:candidate-vibid:4784011200368": 240,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 58,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 37,
+      "gas:candidate-vibid:4784011200325": 25,
+      "gas:candidate-vibid:4784011200015": 24,
+      "gas:candidate-vibid:4784011200492": 45,
+      "gas:candidate-vibid:4784011200253": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5228,17 +5228,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 83,
-      "Дивинский Игорь Борисович": 280,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 52,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 52,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 66,
-      "Ходунова Ольга Архиповна": 47
+      "gas:candidate-vibid:4784011200428": 83,
+      "gas:candidate-vibid:4784011200368": 280,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 52,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 52,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 66,
+      "gas:candidate-vibid:4784011200253": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5289,17 +5289,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 112,
-      "Дивинский Игорь Борисович": 188,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 63,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 38,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 41,
-      "Ходунова Ольга Архиповна": 46
+      "gas:candidate-vibid:4784011200428": 112,
+      "gas:candidate-vibid:4784011200368": 188,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 63,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 38,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 41,
+      "gas:candidate-vibid:4784011200253": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5350,17 +5350,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 91,
-      "Дивинский Игорь Борисович": 364,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 46,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 28,
-      "Мельникова Ирина Николаевна": 22,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 34,
-      "Ходунова Ольга Архиповна": 19
+      "gas:candidate-vibid:4784011200428": 91,
+      "gas:candidate-vibid:4784011200368": 364,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 46,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 28,
+      "gas:candidate-vibid:4784011200325": 22,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 34,
+      "gas:candidate-vibid:4784011200253": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5411,17 +5411,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 158,
-      "Дивинский Игорь Борисович": 293,
-      "Иванов Андрей Спартакович": 34,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 57,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 54,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 34,
-      "Ступаков Михаил Николаевич": 57,
-      "Ходунова Ольга Архиповна": 63
+      "gas:candidate-vibid:4784011200428": 158,
+      "gas:candidate-vibid:4784011200368": 293,
+      "gas:candidate-vibid:4784011200589": 34,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 57,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 54,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 34,
+      "gas:candidate-vibid:4784011200492": 57,
+      "gas:candidate-vibid:4784011200253": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5472,17 +5472,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 201,
-      "Дивинский Игорь Борисович": 554,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 29,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 20,
-      "Мельникова Ирина Николаевна": 18,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 27,
-      "Ходунова Ольга Архиповна": 26
+      "gas:candidate-vibid:4784011200428": 201,
+      "gas:candidate-vibid:4784011200368": 554,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 29,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 20,
+      "gas:candidate-vibid:4784011200325": 18,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 27,
+      "gas:candidate-vibid:4784011200253": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5533,17 +5533,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 76,
-      "Дивинский Игорь Борисович": 222,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 58,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 43,
-      "Мельникова Ирина Николаевна": 14,
-      "Савин Юрий Анатольевич": 32,
-      "Ступаков Михаил Николаевич": 40,
-      "Ходунова Ольга Архиповна": 31
+      "gas:candidate-vibid:4784011200428": 76,
+      "gas:candidate-vibid:4784011200368": 222,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 58,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 43,
+      "gas:candidate-vibid:4784011200325": 14,
+      "gas:candidate-vibid:4784011200015": 32,
+      "gas:candidate-vibid:4784011200492": 40,
+      "gas:candidate-vibid:4784011200253": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5594,17 +5594,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 111,
-      "Дивинский Игорь Борисович": 249,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 56,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 41,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 34,
-      "Ступаков Михаил Николаевич": 27,
-      "Ходунова Ольга Архиповна": 58
+      "gas:candidate-vibid:4784011200428": 111,
+      "gas:candidate-vibid:4784011200368": 249,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 56,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 41,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 34,
+      "gas:candidate-vibid:4784011200492": 27,
+      "gas:candidate-vibid:4784011200253": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5655,17 +5655,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 75,
-      "Дивинский Игорь Борисович": 206,
-      "Иванов Андрей Спартакович": 21,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 68,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 39,
-      "Мельникова Ирина Николаевна": 25,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 48,
-      "Ходунова Ольга Архиповна": 66
+      "gas:candidate-vibid:4784011200428": 75,
+      "gas:candidate-vibid:4784011200368": 206,
+      "gas:candidate-vibid:4784011200589": 21,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 68,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 39,
+      "gas:candidate-vibid:4784011200325": 25,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 48,
+      "gas:candidate-vibid:4784011200253": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5716,17 +5716,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 131,
-      "Дивинский Игорь Борисович": 203,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 48,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 43,
-      "Ходунова Ольга Архиповна": 52
+      "gas:candidate-vibid:4784011200428": 131,
+      "gas:candidate-vibid:4784011200368": 203,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 48,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 43,
+      "gas:candidate-vibid:4784011200253": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5777,17 +5777,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 143,
-      "Дивинский Игорь Борисович": 279,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 60,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 44,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 36,
-      "Ступаков Михаил Николаевич": 89,
-      "Ходунова Ольга Архиповна": 64
+      "gas:candidate-vibid:4784011200428": 143,
+      "gas:candidate-vibid:4784011200368": 279,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 60,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 44,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 36,
+      "gas:candidate-vibid:4784011200492": 89,
+      "gas:candidate-vibid:4784011200253": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5838,17 +5838,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 115,
-      "Дивинский Игорь Борисович": 271,
-      "Иванов Андрей Спартакович": 34,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 71,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 57,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 54,
-      "Ходунова Ольга Архиповна": 52
+      "gas:candidate-vibid:4784011200428": 115,
+      "gas:candidate-vibid:4784011200368": 271,
+      "gas:candidate-vibid:4784011200589": 34,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 71,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 57,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 54,
+      "gas:candidate-vibid:4784011200253": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5899,17 +5899,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 125,
-      "Дивинский Игорь Борисович": 280,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 40,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 36,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 24,
-      "Ступаков Михаил Николаевич": 36,
-      "Ходунова Ольга Архиповна": 66
+      "gas:candidate-vibid:4784011200428": 125,
+      "gas:candidate-vibid:4784011200368": 280,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 40,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 36,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 24,
+      "gas:candidate-vibid:4784011200492": 36,
+      "gas:candidate-vibid:4784011200253": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678270&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678270&type=464",
@@ -5960,17 +5960,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 87,
-      "Дивинский Игорь Борисович": 253,
-      "Иванов Андрей Спартакович": 17,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 78,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 32,
-      "Мельникова Ирина Николаевна": 40,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 59,
-      "Ходунова Ольга Архиповна": 38
+      "gas:candidate-vibid:4784011200428": 87,
+      "gas:candidate-vibid:4784011200368": 253,
+      "gas:candidate-vibid:4784011200589": 17,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 78,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 32,
+      "gas:candidate-vibid:4784011200325": 40,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 59,
+      "gas:candidate-vibid:4784011200253": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6021,17 +6021,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 88,
-      "Дивинский Игорь Борисович": 383,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 69,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 61,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 34,
-      "Ступаков Михаил Николаевич": 39,
-      "Ходунова Ольга Архиповна": 46
+      "gas:candidate-vibid:4784011200428": 88,
+      "gas:candidate-vibid:4784011200368": 383,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 69,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 61,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 34,
+      "gas:candidate-vibid:4784011200492": 39,
+      "gas:candidate-vibid:4784011200253": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6082,17 +6082,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 64,
-      "Дивинский Игорь Борисович": 204,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 64,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 49,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 13,
-      "Ступаков Михаил Николаевич": 22,
-      "Ходунова Ольга Архиповна": 30
+      "gas:candidate-vibid:4784011200428": 64,
+      "gas:candidate-vibid:4784011200368": 204,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 64,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 49,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 13,
+      "gas:candidate-vibid:4784011200492": 22,
+      "gas:candidate-vibid:4784011200253": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6143,17 +6143,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 58,
-      "Дивинский Игорь Борисович": 174,
-      "Иванов Андрей Спартакович": 13,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 57,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 44,
-      "Мельникова Ирина Николаевна": 16,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 37,
-      "Ходунова Ольга Архиповна": 34
+      "gas:candidate-vibid:4784011200428": 58,
+      "gas:candidate-vibid:4784011200368": 174,
+      "gas:candidate-vibid:4784011200589": 13,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 57,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 44,
+      "gas:candidate-vibid:4784011200325": 16,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 37,
+      "gas:candidate-vibid:4784011200253": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6204,17 +6204,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 75,
-      "Дивинский Игорь Борисович": 169,
-      "Иванов Андрей Спартакович": 28,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 50,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 40,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 41,
-      "Ходунова Ольга Архиповна": 42
+      "gas:candidate-vibid:4784011200428": 75,
+      "gas:candidate-vibid:4784011200368": 169,
+      "gas:candidate-vibid:4784011200589": 28,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 50,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 40,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 41,
+      "gas:candidate-vibid:4784011200253": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6265,17 +6265,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 70,
-      "Дивинский Игорь Борисович": 204,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 66,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 38,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 45,
-      "Ходунова Ольга Архиповна": 37
+      "gas:candidate-vibid:4784011200428": 70,
+      "gas:candidate-vibid:4784011200368": 204,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 66,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 38,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 45,
+      "gas:candidate-vibid:4784011200253": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6326,17 +6326,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 114,
-      "Дивинский Игорь Борисович": 251,
-      "Иванов Андрей Спартакович": 35,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 73,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 73,
-      "Мельникова Ирина Николаевна": 45,
-      "Савин Юрий Анатольевич": 35,
-      "Ступаков Михаил Николаевич": 85,
-      "Ходунова Ольга Архиповна": 83
+      "gas:candidate-vibid:4784011200428": 114,
+      "gas:candidate-vibid:4784011200368": 251,
+      "gas:candidate-vibid:4784011200589": 35,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 73,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 73,
+      "gas:candidate-vibid:4784011200325": 45,
+      "gas:candidate-vibid:4784011200015": 35,
+      "gas:candidate-vibid:4784011200492": 85,
+      "gas:candidate-vibid:4784011200253": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6387,17 +6387,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 88,
-      "Дивинский Игорь Борисович": 376,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 73,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 24,
-      "Мельникова Ирина Николаевна": 15,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 55,
-      "Ходунова Ольга Архиповна": 71
+      "gas:candidate-vibid:4784011200428": 88,
+      "gas:candidate-vibid:4784011200368": 376,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 73,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 24,
+      "gas:candidate-vibid:4784011200325": 15,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 55,
+      "gas:candidate-vibid:4784011200253": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6448,17 +6448,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 92,
-      "Дивинский Игорь Борисович": 258,
-      "Иванов Андрей Спартакович": 29,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 57,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 59,
-      "Мельникова Ирина Николаевна": 22,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 47,
-      "Ходунова Ольга Архиповна": 45
+      "gas:candidate-vibid:4784011200428": 92,
+      "gas:candidate-vibid:4784011200368": 258,
+      "gas:candidate-vibid:4784011200589": 29,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 57,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 59,
+      "gas:candidate-vibid:4784011200325": 22,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 47,
+      "gas:candidate-vibid:4784011200253": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6509,17 +6509,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 53,
-      "Дивинский Игорь Борисович": 177,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 42,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 57,
-      "Мельникова Ирина Николаевна": 25,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 36,
-      "Ходунова Ольга Архиповна": 48
+      "gas:candidate-vibid:4784011200428": 53,
+      "gas:candidate-vibid:4784011200368": 177,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 42,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 57,
+      "gas:candidate-vibid:4784011200325": 25,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 36,
+      "gas:candidate-vibid:4784011200253": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6570,17 +6570,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 77,
-      "Дивинский Игорь Борисович": 230,
-      "Иванов Андрей Спартакович": 28,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 62,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 70,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 34,
-      "Ходунова Ольга Архиповна": 51
+      "gas:candidate-vibid:4784011200428": 77,
+      "gas:candidate-vibid:4784011200368": 230,
+      "gas:candidate-vibid:4784011200589": 28,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 62,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 70,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 34,
+      "gas:candidate-vibid:4784011200253": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6631,17 +6631,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 85,
-      "Дивинский Игорь Борисович": 224,
-      "Иванов Андрей Спартакович": 17,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 56,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 36,
-      "Мельникова Ирина Николаевна": 18,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 41,
-      "Ходунова Ольга Архиповна": 57
+      "gas:candidate-vibid:4784011200428": 85,
+      "gas:candidate-vibid:4784011200368": 224,
+      "gas:candidate-vibid:4784011200589": 17,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 56,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 36,
+      "gas:candidate-vibid:4784011200325": 18,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 41,
+      "gas:candidate-vibid:4784011200253": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6692,17 +6692,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 72,
-      "Дивинский Игорь Борисович": 224,
-      "Иванов Андрей Спартакович": 10,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 50,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 33,
-      "Мельникова Ирина Николаевна": 20,
-      "Савин Юрий Анатольевич": 30,
-      "Ступаков Михаил Николаевич": 30,
-      "Ходунова Ольга Архиповна": 42
+      "gas:candidate-vibid:4784011200428": 72,
+      "gas:candidate-vibid:4784011200368": 224,
+      "gas:candidate-vibid:4784011200589": 10,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 50,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 33,
+      "gas:candidate-vibid:4784011200325": 20,
+      "gas:candidate-vibid:4784011200015": 30,
+      "gas:candidate-vibid:4784011200492": 30,
+      "gas:candidate-vibid:4784011200253": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6753,17 +6753,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 66,
-      "Дивинский Игорь Борисович": 179,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 54,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 59,
-      "Мельникова Ирина Николаевна": 20,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 35,
-      "Ходунова Ольга Архиповна": 44
+      "gas:candidate-vibid:4784011200428": 66,
+      "gas:candidate-vibid:4784011200368": 179,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 54,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 59,
+      "gas:candidate-vibid:4784011200325": 20,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 35,
+      "gas:candidate-vibid:4784011200253": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6814,17 +6814,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 84,
-      "Дивинский Игорь Борисович": 282,
-      "Иванов Андрей Спартакович": 12,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 70,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 60,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 30,
-      "Ступаков Михаил Николаевич": 41,
-      "Ходунова Ольга Архиповна": 55
+      "gas:candidate-vibid:4784011200428": 84,
+      "gas:candidate-vibid:4784011200368": 282,
+      "gas:candidate-vibid:4784011200589": 12,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 70,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 60,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 30,
+      "gas:candidate-vibid:4784011200492": 41,
+      "gas:candidate-vibid:4784011200253": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6875,17 +6875,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 101,
-      "Дивинский Игорь Борисович": 264,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 61,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 40,
-      "Мельникова Ирина Николаевна": 23,
-      "Савин Юрий Анатольевич": 30,
-      "Ступаков Михаил Николаевич": 51,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 101,
+      "gas:candidate-vibid:4784011200368": 264,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 61,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 40,
+      "gas:candidate-vibid:4784011200325": 23,
+      "gas:candidate-vibid:4784011200015": 30,
+      "gas:candidate-vibid:4784011200492": 51,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6936,17 +6936,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 57,
-      "Дивинский Игорь Борисович": 199,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 8,
-      "Кочанжи Сергей Павлович": 52,
-      "Лавринюк Константин Васильевич": 15,
-      "Ложечко Виктор Петрович": 49,
-      "Мельникова Ирина Николаевна": 20,
-      "Савин Юрий Анатольевич": 32,
-      "Ступаков Михаил Николаевич": 41,
-      "Ходунова Ольга Архиповна": 51
+      "gas:candidate-vibid:4784011200428": 57,
+      "gas:candidate-vibid:4784011200368": 199,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 8,
+      "gas:candidate-vibid:4784011199650": 52,
+      "gas:candidate-vibid:4784011200614": 15,
+      "gas:candidate-vibid:4784011200220": 49,
+      "gas:candidate-vibid:4784011200325": 20,
+      "gas:candidate-vibid:4784011200015": 32,
+      "gas:candidate-vibid:4784011200492": 41,
+      "gas:candidate-vibid:4784011200253": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -6997,17 +6997,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 84,
-      "Дивинский Игорь Борисович": 229,
-      "Иванов Андрей Спартакович": 21,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 70,
-      "Лавринюк Константин Васильевич": 13,
-      "Ложечко Виктор Петрович": 47,
-      "Мельникова Ирина Николаевна": 25,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 40,
-      "Ходунова Ольга Архиповна": 39
+      "gas:candidate-vibid:4784011200428": 84,
+      "gas:candidate-vibid:4784011200368": 229,
+      "gas:candidate-vibid:4784011200589": 21,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 70,
+      "gas:candidate-vibid:4784011200614": 13,
+      "gas:candidate-vibid:4784011200220": 47,
+      "gas:candidate-vibid:4784011200325": 25,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 40,
+      "gas:candidate-vibid:4784011200253": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7058,17 +7058,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 80,
-      "Дивинский Игорь Борисович": 176,
-      "Иванов Андрей Спартакович": 15,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 50,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 40,
-      "Мельникова Ирина Николаевна": 18,
-      "Савин Юрий Анатольевич": 16,
-      "Ступаков Михаил Николаевич": 46,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 80,
+      "gas:candidate-vibid:4784011200368": 176,
+      "gas:candidate-vibid:4784011200589": 15,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 50,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 40,
+      "gas:candidate-vibid:4784011200325": 18,
+      "gas:candidate-vibid:4784011200015": 16,
+      "gas:candidate-vibid:4784011200492": 46,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7119,17 +7119,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 126,
-      "Дивинский Игорь Борисович": 291,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 63,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 76,
-      "Мельникова Ирина Николаевна": 36,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 93,
-      "Ходунова Ольга Архиповна": 83
+      "gas:candidate-vibid:4784011200428": 126,
+      "gas:candidate-vibid:4784011200368": 291,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 63,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 76,
+      "gas:candidate-vibid:4784011200325": 36,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 93,
+      "gas:candidate-vibid:4784011200253": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7180,17 +7180,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 81,
-      "Дивинский Игорь Борисович": 287,
-      "Иванов Андрей Спартакович": 36,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 81,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 52,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 36,
-      "Ступаков Михаил Николаевич": 54,
-      "Ходунова Ольга Архиповна": 72
+      "gas:candidate-vibid:4784011200428": 81,
+      "gas:candidate-vibid:4784011200368": 287,
+      "gas:candidate-vibid:4784011200589": 36,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 81,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 52,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 36,
+      "gas:candidate-vibid:4784011200492": 54,
+      "gas:candidate-vibid:4784011200253": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7241,17 +7241,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 74,
-      "Дивинский Игорь Борисович": 216,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 61,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 61,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 70,
-      "Ходунова Ольга Архиповна": 60
+      "gas:candidate-vibid:4784011200428": 74,
+      "gas:candidate-vibid:4784011200368": 216,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 61,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 61,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 70,
+      "gas:candidate-vibid:4784011200253": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7302,17 +7302,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 50,
-      "Дивинский Игорь Борисович": 210,
-      "Иванов Андрей Спартакович": 11,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 66,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 82,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 32,
-      "Ступаков Михаил Николаевич": 28,
-      "Ходунова Ольга Архиповна": 56
+      "gas:candidate-vibid:4784011200428": 50,
+      "gas:candidate-vibid:4784011200368": 210,
+      "gas:candidate-vibid:4784011200589": 11,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 66,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 82,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 32,
+      "gas:candidate-vibid:4784011200492": 28,
+      "gas:candidate-vibid:4784011200253": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7363,17 +7363,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 74,
-      "Дивинский Игорь Борисович": 236,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 51,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 89,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 34,
-      "Ступаков Михаил Николаевич": 48,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 74,
+      "gas:candidate-vibid:4784011200368": 236,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 51,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 89,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 34,
+      "gas:candidate-vibid:4784011200492": 48,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7424,17 +7424,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 66,
-      "Дивинский Игорь Борисович": 217,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 62,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 90,
-      "Мельникова Ирина Николаевна": 25,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 50,
-      "Ходунова Ольга Архиповна": 51
+      "gas:candidate-vibid:4784011200428": 66,
+      "gas:candidate-vibid:4784011200368": 217,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 62,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 90,
+      "gas:candidate-vibid:4784011200325": 25,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 50,
+      "gas:candidate-vibid:4784011200253": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7485,17 +7485,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 70,
-      "Дивинский Игорь Борисович": 167,
-      "Иванов Андрей Спартакович": 28,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 37,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 77,
-      "Мельникова Ирина Николаевна": 35,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 44,
-      "Ходунова Ольга Архиповна": 49
+      "gas:candidate-vibid:4784011200428": 70,
+      "gas:candidate-vibid:4784011200368": 167,
+      "gas:candidate-vibid:4784011200589": 28,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 37,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 77,
+      "gas:candidate-vibid:4784011200325": 35,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 44,
+      "gas:candidate-vibid:4784011200253": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7546,17 +7546,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 86,
-      "Дивинский Игорь Борисович": 249,
-      "Иванов Андрей Спартакович": 32,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 67,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 110,
-      "Мельникова Ирина Николаевна": 23,
-      "Савин Юрий Анатольевич": 41,
-      "Ступаков Михаил Николаевич": 42,
-      "Ходунова Ольга Архиповна": 82
+      "gas:candidate-vibid:4784011200428": 86,
+      "gas:candidate-vibid:4784011200368": 249,
+      "gas:candidate-vibid:4784011200589": 32,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 67,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 110,
+      "gas:candidate-vibid:4784011200325": 23,
+      "gas:candidate-vibid:4784011200015": 41,
+      "gas:candidate-vibid:4784011200492": 42,
+      "gas:candidate-vibid:4784011200253": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7607,17 +7607,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 72,
-      "Дивинский Игорь Борисович": 201,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 59,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 91,
-      "Мельникова Ирина Николаевна": 13,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 47,
-      "Ходунова Ольга Архиповна": 70
+      "gas:candidate-vibid:4784011200428": 72,
+      "gas:candidate-vibid:4784011200368": 201,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 59,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 91,
+      "gas:candidate-vibid:4784011200325": 13,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 47,
+      "gas:candidate-vibid:4784011200253": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7668,17 +7668,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 53,
-      "Дивинский Игорь Борисович": 314,
-      "Иванов Андрей Спартакович": 17,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 30,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 39,
-      "Мельникова Ирина Николаевна": 16,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 29,
-      "Ходунова Ольга Архиповна": 16
+      "gas:candidate-vibid:4784011200428": 53,
+      "gas:candidate-vibid:4784011200368": 314,
+      "gas:candidate-vibid:4784011200589": 17,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 30,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 39,
+      "gas:candidate-vibid:4784011200325": 16,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 29,
+      "gas:candidate-vibid:4784011200253": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7729,17 +7729,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 48,
-      "Дивинский Игорь Борисович": 220,
-      "Иванов Андрей Спартакович": 11,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 41,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 58,
-      "Мельникова Ирина Николаевна": 28,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 40,
-      "Ходунова Ольга Архиповна": 47
+      "gas:candidate-vibid:4784011200428": 48,
+      "gas:candidate-vibid:4784011200368": 220,
+      "gas:candidate-vibid:4784011200589": 11,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 41,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 58,
+      "gas:candidate-vibid:4784011200325": 28,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 40,
+      "gas:candidate-vibid:4784011200253": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7790,17 +7790,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 62,
-      "Дивинский Игорь Борисович": 252,
-      "Иванов Андрей Спартакович": 9,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 52,
-      "Мельникова Ирина Николаевна": 27,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 29,
-      "Ходунова Ольга Архиповна": 29
+      "gas:candidate-vibid:4784011200428": 62,
+      "gas:candidate-vibid:4784011200368": 252,
+      "gas:candidate-vibid:4784011200589": 9,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 52,
+      "gas:candidate-vibid:4784011200325": 27,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 29,
+      "gas:candidate-vibid:4784011200253": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7851,17 +7851,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 70,
-      "Дивинский Игорь Борисович": 198,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 44,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 67,
-      "Мельникова Ирина Николаевна": 15,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 62,
-      "Ходунова Ольга Архиповна": 57
+      "gas:candidate-vibid:4784011200428": 70,
+      "gas:candidate-vibid:4784011200368": 198,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 44,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 67,
+      "gas:candidate-vibid:4784011200325": 15,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 62,
+      "gas:candidate-vibid:4784011200253": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7912,17 +7912,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 92,
-      "Дивинский Игорь Борисович": 234,
-      "Иванов Андрей Спартакович": 16,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 46,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 70,
-      "Мельникова Ирина Николаевна": 21,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 69,
-      "Ходунова Ольга Архиповна": 53
+      "gas:candidate-vibid:4784011200428": 92,
+      "gas:candidate-vibid:4784011200368": 234,
+      "gas:candidate-vibid:4784011200589": 16,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 46,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 70,
+      "gas:candidate-vibid:4784011200325": 21,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 69,
+      "gas:candidate-vibid:4784011200253": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -7973,17 +7973,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 70,
-      "Дивинский Игорь Борисович": 178,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 65,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 85,
-      "Мельникова Ирина Николаевна": 26,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 32,
-      "Ходунова Ольга Архиповна": 54
+      "gas:candidate-vibid:4784011200428": 70,
+      "gas:candidate-vibid:4784011200368": 178,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 65,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 85,
+      "gas:candidate-vibid:4784011200325": 26,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 32,
+      "gas:candidate-vibid:4784011200253": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8034,17 +8034,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 75,
-      "Дивинский Игорь Борисович": 241,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 60,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 81,
-      "Мельникова Ирина Николаевна": 25,
-      "Савин Юрий Анатольевич": 31,
-      "Ступаков Михаил Николаевич": 60,
-      "Ходунова Ольга Архиповна": 29
+      "gas:candidate-vibid:4784011200428": 75,
+      "gas:candidate-vibid:4784011200368": 241,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 60,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 81,
+      "gas:candidate-vibid:4784011200325": 25,
+      "gas:candidate-vibid:4784011200015": 31,
+      "gas:candidate-vibid:4784011200492": 60,
+      "gas:candidate-vibid:4784011200253": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8095,17 +8095,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 63,
-      "Дивинский Игорь Борисович": 218,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 51,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 102,
-      "Мельникова Ирина Николаевна": 38,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 60,
-      "Ходунова Ольга Архиповна": 81
+      "gas:candidate-vibid:4784011200428": 63,
+      "gas:candidate-vibid:4784011200368": 218,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 51,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 102,
+      "gas:candidate-vibid:4784011200325": 38,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 60,
+      "gas:candidate-vibid:4784011200253": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8156,17 +8156,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 71,
-      "Дивинский Игорь Борисович": 238,
-      "Иванов Андрей Спартакович": 33,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 67,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 98,
-      "Мельникова Ирина Николаевна": 45,
-      "Савин Юрий Анатольевич": 38,
-      "Ступаков Михаил Николаевич": 66,
-      "Ходунова Ольга Архиповна": 60
+      "gas:candidate-vibid:4784011200428": 71,
+      "gas:candidate-vibid:4784011200368": 238,
+      "gas:candidate-vibid:4784011200589": 33,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 67,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 98,
+      "gas:candidate-vibid:4784011200325": 45,
+      "gas:candidate-vibid:4784011200015": 38,
+      "gas:candidate-vibid:4784011200492": 66,
+      "gas:candidate-vibid:4784011200253": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8217,17 +8217,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 66,
-      "Дивинский Игорь Борисович": 236,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 52,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 129,
-      "Мельникова Ирина Николаевна": 40,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 63,
-      "Ходунова Ольга Архиповна": 67
+      "gas:candidate-vibid:4784011200428": 66,
+      "gas:candidate-vibid:4784011200368": 236,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 52,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 129,
+      "gas:candidate-vibid:4784011200325": 40,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 63,
+      "gas:candidate-vibid:4784011200253": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8278,17 +8278,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 55,
-      "Дивинский Игорь Борисович": 162,
-      "Иванов Андрей Спартакович": 18,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 39,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 97,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 11,
-      "Ступаков Михаил Николаевич": 59,
-      "Ходунова Ольга Архиповна": 41
+      "gas:candidate-vibid:4784011200428": 55,
+      "gas:candidate-vibid:4784011200368": 162,
+      "gas:candidate-vibid:4784011200589": 18,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 39,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 97,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 11,
+      "gas:candidate-vibid:4784011200492": 59,
+      "gas:candidate-vibid:4784011200253": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8339,17 +8339,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 44,
-      "Дивинский Игорь Борисович": 179,
-      "Иванов Андрей Спартакович": 9,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 36,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 132,
-      "Мельникова Ирина Николаевна": 23,
-      "Савин Юрий Анатольевич": 15,
-      "Ступаков Михаил Николаевич": 43,
-      "Ходунова Ольга Архиповна": 50
+      "gas:candidate-vibid:4784011200428": 44,
+      "gas:candidate-vibid:4784011200368": 179,
+      "gas:candidate-vibid:4784011200589": 9,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 36,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 132,
+      "gas:candidate-vibid:4784011200325": 23,
+      "gas:candidate-vibid:4784011200015": 15,
+      "gas:candidate-vibid:4784011200492": 43,
+      "gas:candidate-vibid:4784011200253": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8400,17 +8400,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 58,
-      "Дивинский Игорь Борисович": 188,
-      "Иванов Андрей Спартакович": 30,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 40,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 94,
-      "Мельникова Ирина Николаевна": 35,
-      "Савин Юрий Анатольевич": 15,
-      "Ступаков Михаил Николаевич": 62,
-      "Ходунова Ольга Архиповна": 50
+      "gas:candidate-vibid:4784011200428": 58,
+      "gas:candidate-vibid:4784011200368": 188,
+      "gas:candidate-vibid:4784011200589": 30,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 40,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 94,
+      "gas:candidate-vibid:4784011200325": 35,
+      "gas:candidate-vibid:4784011200015": 15,
+      "gas:candidate-vibid:4784011200492": 62,
+      "gas:candidate-vibid:4784011200253": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8461,17 +8461,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 48,
-      "Дивинский Игорь Борисович": 168,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 43,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 152,
-      "Мельникова Ирина Николаевна": 34,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 44,
-      "Ходунова Ольга Архиповна": 43
+      "gas:candidate-vibid:4784011200428": 48,
+      "gas:candidate-vibid:4784011200368": 168,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 43,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 152,
+      "gas:candidate-vibid:4784011200325": 34,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 44,
+      "gas:candidate-vibid:4784011200253": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8522,17 +8522,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 63,
-      "Дивинский Игорь Борисович": 198,
-      "Иванов Андрей Спартакович": 18,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 53,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 99,
-      "Мельникова Ирина Николаевна": 30,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 47,
-      "Ходунова Ольга Архиповна": 62
+      "gas:candidate-vibid:4784011200428": 63,
+      "gas:candidate-vibid:4784011200368": 198,
+      "gas:candidate-vibid:4784011200589": 18,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 53,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 99,
+      "gas:candidate-vibid:4784011200325": 30,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 47,
+      "gas:candidate-vibid:4784011200253": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8583,17 +8583,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 65,
-      "Дивинский Игорь Борисович": 199,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 39,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 124,
-      "Мельникова Ирина Николаевна": 35,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 42,
-      "Ходунова Ольга Архиповна": 53
+      "gas:candidate-vibid:4784011200428": 65,
+      "gas:candidate-vibid:4784011200368": 199,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 39,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 124,
+      "gas:candidate-vibid:4784011200325": 35,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 42,
+      "gas:candidate-vibid:4784011200253": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8644,17 +8644,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 27,
-      "Дивинский Игорь Борисович": 310,
-      "Иванов Андрей Спартакович": 8,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 60,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 35,
-      "Мельникова Ирина Николаевна": 24,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 28,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 27,
+      "gas:candidate-vibid:4784011200368": 310,
+      "gas:candidate-vibid:4784011200589": 8,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 60,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 35,
+      "gas:candidate-vibid:4784011200325": 24,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 28,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8705,17 +8705,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 41,
-      "Дивинский Игорь Борисович": 374,
-      "Иванов Андрей Спартакович": 3,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 39,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 79,
-      "Мельникова Ирина Николаевна": 15,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 21,
-      "Ходунова Ольга Архиповна": 38
+      "gas:candidate-vibid:4784011200428": 41,
+      "gas:candidate-vibid:4784011200368": 374,
+      "gas:candidate-vibid:4784011200589": 3,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 39,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 79,
+      "gas:candidate-vibid:4784011200325": 15,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 21,
+      "gas:candidate-vibid:4784011200253": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8766,17 +8766,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 35,
-      "Дивинский Игорь Борисович": 244,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 71,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 99,
-      "Мельникова Ирина Николаевна": 33,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 46,
-      "Ходунова Ольга Архиповна": 52
+      "gas:candidate-vibid:4784011200428": 35,
+      "gas:candidate-vibid:4784011200368": 244,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 71,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 99,
+      "gas:candidate-vibid:4784011200325": 33,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 46,
+      "gas:candidate-vibid:4784011200253": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8827,17 +8827,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 65,
-      "Дивинский Игорь Борисович": 235,
-      "Иванов Андрей Спартакович": 12,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 92,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 91,
-      "Мельникова Ирина Николаевна": 42,
-      "Савин Юрий Анатольевич": 30,
-      "Ступаков Михаил Николаевич": 61,
-      "Ходунова Ольга Архиповна": 65
+      "gas:candidate-vibid:4784011200428": 65,
+      "gas:candidate-vibid:4784011200368": 235,
+      "gas:candidate-vibid:4784011200589": 12,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 92,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 91,
+      "gas:candidate-vibid:4784011200325": 42,
+      "gas:candidate-vibid:4784011200015": 30,
+      "gas:candidate-vibid:4784011200492": 61,
+      "gas:candidate-vibid:4784011200253": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8888,17 +8888,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 68,
-      "Дивинский Игорь Борисович": 229,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 64,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 132,
-      "Мельникова Ирина Николаевна": 51,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 47,
-      "Ходунова Ольга Архиповна": 67
+      "gas:candidate-vibid:4784011200428": 68,
+      "gas:candidate-vibid:4784011200368": 229,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 64,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 132,
+      "gas:candidate-vibid:4784011200325": 51,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 47,
+      "gas:candidate-vibid:4784011200253": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -8949,17 +8949,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 47,
-      "Дивинский Игорь Борисович": 284,
-      "Иванов Андрей Спартакович": 10,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 66,
-      "Лавринюк Константин Васильевич": 13,
-      "Ложечко Виктор Петрович": 112,
-      "Мельникова Ирина Николаевна": 29,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 52,
-      "Ходунова Ольга Архиповна": 61
+      "gas:candidate-vibid:4784011200428": 47,
+      "gas:candidate-vibid:4784011200368": 284,
+      "gas:candidate-vibid:4784011200589": 10,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 66,
+      "gas:candidate-vibid:4784011200614": 13,
+      "gas:candidate-vibid:4784011200220": 112,
+      "gas:candidate-vibid:4784011200325": 29,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 52,
+      "gas:candidate-vibid:4784011200253": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9010,17 +9010,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 56,
-      "Дивинский Игорь Борисович": 174,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 61,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 89,
-      "Мельникова Ирина Николаевна": 48,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 44,
-      "Ходунова Ольга Архиповна": 60
+      "gas:candidate-vibid:4784011200428": 56,
+      "gas:candidate-vibid:4784011200368": 174,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 61,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 89,
+      "gas:candidate-vibid:4784011200325": 48,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 44,
+      "gas:candidate-vibid:4784011200253": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9071,17 +9071,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 58,
-      "Дивинский Игорь Борисович": 153,
-      "Иванов Андрей Спартакович": 29,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 53,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 81,
-      "Мельникова Ирина Николаевна": 39,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 42,
-      "Ходунова Ольга Архиповна": 44
+      "gas:candidate-vibid:4784011200428": 58,
+      "gas:candidate-vibid:4784011200368": 153,
+      "gas:candidate-vibid:4784011200589": 29,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 53,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 81,
+      "gas:candidate-vibid:4784011200325": 39,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 42,
+      "gas:candidate-vibid:4784011200253": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9132,17 +9132,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 21,
-      "Дивинский Игорь Борисович": 356,
-      "Иванов Андрей Спартакович": 12,
-      "Койфман Михаил Израилевич": 0,
-      "Кочанжи Сергей Павлович": 27,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 89,
-      "Мельникова Ирина Николаевна": 22,
-      "Савин Юрий Анатольевич": 12,
-      "Ступаков Михаил Николаевич": 32,
-      "Ходунова Ольга Архиповна": 21
+      "gas:candidate-vibid:4784011200428": 21,
+      "gas:candidate-vibid:4784011200368": 356,
+      "gas:candidate-vibid:4784011200589": 12,
+      "gas:candidate-vibid:4784011200528": 0,
+      "gas:candidate-vibid:4784011199650": 27,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 89,
+      "gas:candidate-vibid:4784011200325": 22,
+      "gas:candidate-vibid:4784011200015": 12,
+      "gas:candidate-vibid:4784011200492": 32,
+      "gas:candidate-vibid:4784011200253": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9193,17 +9193,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 59,
-      "Дивинский Игорь Борисович": 221,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 57,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 109,
-      "Мельникова Ирина Николаевна": 52,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 48,
-      "Ходунова Ольга Архиповна": 54
+      "gas:candidate-vibid:4784011200428": 59,
+      "gas:candidate-vibid:4784011200368": 221,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 57,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 109,
+      "gas:candidate-vibid:4784011200325": 52,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 48,
+      "gas:candidate-vibid:4784011200253": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9254,17 +9254,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 39,
-      "Дивинский Игорь Борисович": 242,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 84,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 101,
-      "Мельникова Ирина Николаевна": 68,
-      "Савин Юрий Анатольевич": 31,
-      "Ступаков Михаил Николаевич": 68,
-      "Ходунова Ольга Архиповна": 63
+      "gas:candidate-vibid:4784011200428": 39,
+      "gas:candidate-vibid:4784011200368": 242,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 84,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 101,
+      "gas:candidate-vibid:4784011200325": 68,
+      "gas:candidate-vibid:4784011200015": 31,
+      "gas:candidate-vibid:4784011200492": 68,
+      "gas:candidate-vibid:4784011200253": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9315,17 +9315,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 80,
-      "Дивинский Игорь Борисович": 265,
-      "Иванов Андрей Спартакович": 36,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 82,
-      "Лавринюк Константин Васильевич": 16,
-      "Ложечко Виктор Петрович": 133,
-      "Мельникова Ирина Николаевна": 57,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 101,
-      "Ходунова Ольга Архиповна": 103
+      "gas:candidate-vibid:4784011200428": 80,
+      "gas:candidate-vibid:4784011200368": 265,
+      "gas:candidate-vibid:4784011200589": 36,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 82,
+      "gas:candidate-vibid:4784011200614": 16,
+      "gas:candidate-vibid:4784011200220": 133,
+      "gas:candidate-vibid:4784011200325": 57,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 101,
+      "gas:candidate-vibid:4784011200253": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9376,17 +9376,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 65,
-      "Дивинский Игорь Борисович": 272,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 69,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 130,
-      "Мельникова Ирина Николаевна": 38,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 66,
-      "Ходунова Ольга Архиповна": 74
+      "gas:candidate-vibid:4784011200428": 65,
+      "gas:candidate-vibid:4784011200368": 272,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 69,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 130,
+      "gas:candidate-vibid:4784011200325": 38,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 66,
+      "gas:candidate-vibid:4784011200253": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9437,17 +9437,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 50,
-      "Дивинский Игорь Борисович": 242,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 71,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 138,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 53,
-      "Ходунова Ольга Архиповна": 51
+      "gas:candidate-vibid:4784011200428": 50,
+      "gas:candidate-vibid:4784011200368": 242,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 71,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 138,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 53,
+      "gas:candidate-vibid:4784011200253": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9498,17 +9498,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 62,
-      "Дивинский Игорь Борисович": 233,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 68,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 105,
-      "Мельникова Ирина Николаевна": 69,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 90,
-      "Ходунова Ольга Архиповна": 91
+      "gas:candidate-vibid:4784011200428": 62,
+      "gas:candidate-vibid:4784011200368": 233,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 68,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 105,
+      "gas:candidate-vibid:4784011200325": 69,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 90,
+      "gas:candidate-vibid:4784011200253": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9559,17 +9559,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 38,
-      "Дивинский Игорь Борисович": 338,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 34,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 54,
-      "Мельникова Ирина Николаевна": 15,
-      "Савин Юрий Анатольевич": 15,
-      "Ступаков Михаил Николаевич": 29,
-      "Ходунова Ольга Архиповна": 40
+      "gas:candidate-vibid:4784011200428": 38,
+      "gas:candidate-vibid:4784011200368": 338,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 34,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 54,
+      "gas:candidate-vibid:4784011200325": 15,
+      "gas:candidate-vibid:4784011200015": 15,
+      "gas:candidate-vibid:4784011200492": 29,
+      "gas:candidate-vibid:4784011200253": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9620,17 +9620,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 49,
-      "Дивинский Игорь Борисович": 237,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 54,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 82,
-      "Мельникова Ирина Николаевна": 41,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 56,
-      "Ходунова Ольга Архиповна": 61
+      "gas:candidate-vibid:4784011200428": 49,
+      "gas:candidate-vibid:4784011200368": 237,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 54,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 82,
+      "gas:candidate-vibid:4784011200325": 41,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 56,
+      "gas:candidate-vibid:4784011200253": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9681,17 +9681,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 49,
-      "Дивинский Игорь Борисович": 186,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 53,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 64,
-      "Мельникова Ирина Николаевна": 32,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 55,
-      "Ходунова Ольга Архиповна": 57
+      "gas:candidate-vibid:4784011200428": 49,
+      "gas:candidate-vibid:4784011200368": 186,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 53,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 64,
+      "gas:candidate-vibid:4784011200325": 32,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 55,
+      "gas:candidate-vibid:4784011200253": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9742,17 +9742,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 53,
-      "Дивинский Игорь Борисович": 185,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 41,
-      "Лавринюк Константин Васильевич": 1,
-      "Ложечко Виктор Петрович": 55,
-      "Мельникова Ирина Николаевна": 45,
-      "Савин Юрий Анатольевич": 12,
-      "Ступаков Михаил Николаевич": 48,
-      "Ходунова Ольга Архиповна": 50
+      "gas:candidate-vibid:4784011200428": 53,
+      "gas:candidate-vibid:4784011200368": 185,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 41,
+      "gas:candidate-vibid:4784011200614": 1,
+      "gas:candidate-vibid:4784011200220": 55,
+      "gas:candidate-vibid:4784011200325": 45,
+      "gas:candidate-vibid:4784011200015": 12,
+      "gas:candidate-vibid:4784011200492": 48,
+      "gas:candidate-vibid:4784011200253": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9803,17 +9803,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 46,
-      "Дивинский Игорь Борисович": 235,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 55,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 100,
-      "Мельникова Ирина Николаевна": 33,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 60,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 46,
+      "gas:candidate-vibid:4784011200368": 235,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 55,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 100,
+      "gas:candidate-vibid:4784011200325": 33,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 60,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9864,17 +9864,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 51,
-      "Дивинский Игорь Борисович": 216,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 61,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 87,
-      "Мельникова Ирина Николаевна": 34,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 45,
-      "Ходунова Ольга Архиповна": 72
+      "gas:candidate-vibid:4784011200428": 51,
+      "gas:candidate-vibid:4784011200368": 216,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 61,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 87,
+      "gas:candidate-vibid:4784011200325": 34,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 45,
+      "gas:candidate-vibid:4784011200253": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9925,17 +9925,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 49,
-      "Дивинский Игорь Борисович": 331,
-      "Иванов Андрей Спартакович": 33,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 54,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 84,
-      "Мельникова Ирина Николаевна": 36,
-      "Савин Юрий Анатольевич": 14,
-      "Ступаков Михаил Николаевич": 56,
-      "Ходунова Ольга Архиповна": 61
+      "gas:candidate-vibid:4784011200428": 49,
+      "gas:candidate-vibid:4784011200368": 331,
+      "gas:candidate-vibid:4784011200589": 33,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 54,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 84,
+      "gas:candidate-vibid:4784011200325": 36,
+      "gas:candidate-vibid:4784011200015": 14,
+      "gas:candidate-vibid:4784011200492": 56,
+      "gas:candidate-vibid:4784011200253": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -9986,17 +9986,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 77,
-      "Дивинский Игорь Борисович": 262,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 66,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 101,
-      "Мельникова Ирина Николаевна": 34,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 82,
-      "Ходунова Ольга Архиповна": 70
+      "gas:candidate-vibid:4784011200428": 77,
+      "gas:candidate-vibid:4784011200368": 262,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 66,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 101,
+      "gas:candidate-vibid:4784011200325": 34,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 82,
+      "gas:candidate-vibid:4784011200253": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10047,17 +10047,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 33,
-      "Дивинский Игорь Борисович": 217,
-      "Иванов Андрей Спартакович": 21,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 101,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 62,
-      "Мельникова Ирина Николаевна": 43,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 54,
-      "Ходунова Ольга Архиповна": 57
+      "gas:candidate-vibid:4784011200428": 33,
+      "gas:candidate-vibid:4784011200368": 217,
+      "gas:candidate-vibid:4784011200589": 21,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 101,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 62,
+      "gas:candidate-vibid:4784011200325": 43,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 54,
+      "gas:candidate-vibid:4784011200253": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10108,17 +10108,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 72,
-      "Дивинский Игорь Борисович": 234,
-      "Иванов Андрей Спартакович": 32,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 110,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 116,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 58,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 72,
+      "gas:candidate-vibid:4784011200368": 234,
+      "gas:candidate-vibid:4784011200589": 32,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 110,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 116,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 58,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10169,17 +10169,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 49,
-      "Дивинский Игорь Борисович": 188,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 69,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 78,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 54,
-      "Ходунова Ольга Архиповна": 62
+      "gas:candidate-vibid:4784011200428": 49,
+      "gas:candidate-vibid:4784011200368": 188,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 69,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 78,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 54,
+      "gas:candidate-vibid:4784011200253": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10230,17 +10230,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 69,
-      "Дивинский Игорь Борисович": 249,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 116,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 111,
-      "Мельникова Ирина Николаевна": 47,
-      "Савин Юрий Анатольевич": 24,
-      "Ступаков Михаил Николаевич": 57,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 69,
+      "gas:candidate-vibid:4784011200368": 249,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 116,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 111,
+      "gas:candidate-vibid:4784011200325": 47,
+      "gas:candidate-vibid:4784011200015": 24,
+      "gas:candidate-vibid:4784011200492": 57,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10291,17 +10291,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 53,
-      "Дивинский Игорь Борисович": 223,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 47,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 60,
-      "Мельникова Ирина Николаевна": 30,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 42,
-      "Ходунова Ольга Архиповна": 48
+      "gas:candidate-vibid:4784011200428": 53,
+      "gas:candidate-vibid:4784011200368": 223,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 47,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 60,
+      "gas:candidate-vibid:4784011200325": 30,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 42,
+      "gas:candidate-vibid:4784011200253": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10352,17 +10352,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 85,
-      "Дивинский Игорь Борисович": 248,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 68,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 71,
-      "Мельникова Ирина Николаевна": 39,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 112,
-      "Ходунова Ольга Архиповна": 63
+      "gas:candidate-vibid:4784011200428": 85,
+      "gas:candidate-vibid:4784011200368": 248,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 68,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 71,
+      "gas:candidate-vibid:4784011200325": 39,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 112,
+      "gas:candidate-vibid:4784011200253": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10413,17 +10413,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 44,
-      "Дивинский Игорь Борисович": 206,
-      "Иванов Андрей Спартакович": 41,
-      "Койфман Михаил Израилевич": 1,
-      "Кочанжи Сергей Павлович": 69,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 60,
-      "Мельникова Ирина Николаевна": 39,
-      "Савин Юрий Анатольевич": 14,
-      "Ступаков Михаил Николаевич": 51,
-      "Ходунова Ольга Архиповна": 76
+      "gas:candidate-vibid:4784011200428": 44,
+      "gas:candidate-vibid:4784011200368": 206,
+      "gas:candidate-vibid:4784011200589": 41,
+      "gas:candidate-vibid:4784011200528": 1,
+      "gas:candidate-vibid:4784011199650": 69,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 60,
+      "gas:candidate-vibid:4784011200325": 39,
+      "gas:candidate-vibid:4784011200015": 14,
+      "gas:candidate-vibid:4784011200492": 51,
+      "gas:candidate-vibid:4784011200253": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10474,17 +10474,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 66,
-      "Дивинский Игорь Борисович": 295,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 67,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 71,
-      "Мельникова Ирина Николаевна": 53,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 47,
-      "Ходунова Ольга Архиповна": 65
+      "gas:candidate-vibid:4784011200428": 66,
+      "gas:candidate-vibid:4784011200368": 295,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 67,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 71,
+      "gas:candidate-vibid:4784011200325": 53,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 47,
+      "gas:candidate-vibid:4784011200253": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10535,17 +10535,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 62,
-      "Дивинский Игорь Борисович": 261,
-      "Иванов Андрей Спартакович": 20,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 85,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 94,
-      "Мельникова Ирина Николаевна": 50,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 87,
-      "Ходунова Ольга Архиповна": 81
+      "gas:candidate-vibid:4784011200428": 62,
+      "gas:candidate-vibid:4784011200368": 261,
+      "gas:candidate-vibid:4784011200589": 20,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 85,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 94,
+      "gas:candidate-vibid:4784011200325": 50,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 87,
+      "gas:candidate-vibid:4784011200253": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10596,17 +10596,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 69,
-      "Дивинский Игорь Борисович": 223,
-      "Иванов Андрей Спартакович": 25,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 90,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 87,
-      "Мельникова Ирина Николаевна": 45,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 76,
-      "Ходунова Ольга Архиповна": 82
+      "gas:candidate-vibid:4784011200428": 69,
+      "gas:candidate-vibid:4784011200368": 223,
+      "gas:candidate-vibid:4784011200589": 25,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 90,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 87,
+      "gas:candidate-vibid:4784011200325": 45,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 76,
+      "gas:candidate-vibid:4784011200253": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10657,17 +10657,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 69,
-      "Дивинский Игорь Борисович": 275,
-      "Иванов Андрей Спартакович": 30,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 97,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 67,
-      "Мельникова Ирина Николаевна": 41,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 88,
-      "Ходунова Ольга Архиповна": 78
+      "gas:candidate-vibid:4784011200428": 69,
+      "gas:candidate-vibid:4784011200368": 275,
+      "gas:candidate-vibid:4784011200589": 30,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 97,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 67,
+      "gas:candidate-vibid:4784011200325": 41,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 88,
+      "gas:candidate-vibid:4784011200253": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10718,17 +10718,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 56,
-      "Дивинский Игорь Борисович": 223,
-      "Иванов Андрей Спартакович": 38,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 54,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 67,
-      "Мельникова Ирина Николаевна": 41,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 66,
-      "Ходунова Ольга Архиповна": 66
+      "gas:candidate-vibid:4784011200428": 56,
+      "gas:candidate-vibid:4784011200368": 223,
+      "gas:candidate-vibid:4784011200589": 38,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 54,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 67,
+      "gas:candidate-vibid:4784011200325": 41,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 66,
+      "gas:candidate-vibid:4784011200253": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10779,17 +10779,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 66,
-      "Дивинский Игорь Борисович": 240,
-      "Иванов Андрей Спартакович": 18,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 59,
-      "Лавринюк Константин Васильевич": 4,
-      "Ложечко Виктор Петрович": 75,
-      "Мельникова Ирина Николаевна": 40,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 53,
-      "Ходунова Ольга Архиповна": 67
+      "gas:candidate-vibid:4784011200428": 66,
+      "gas:candidate-vibid:4784011200368": 240,
+      "gas:candidate-vibid:4784011200589": 18,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 59,
+      "gas:candidate-vibid:4784011200614": 4,
+      "gas:candidate-vibid:4784011200220": 75,
+      "gas:candidate-vibid:4784011200325": 40,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 53,
+      "gas:candidate-vibid:4784011200253": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10840,17 +10840,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 40,
-      "Дивинский Игорь Борисович": 243,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 66,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 68,
-      "Мельникова Ирина Николаевна": 31,
-      "Савин Юрий Анатольевич": 14,
-      "Ступаков Михаил Николаевич": 47,
-      "Ходунова Ольга Архиповна": 39
+      "gas:candidate-vibid:4784011200428": 40,
+      "gas:candidate-vibid:4784011200368": 243,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 66,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 68,
+      "gas:candidate-vibid:4784011200325": 31,
+      "gas:candidate-vibid:4784011200015": 14,
+      "gas:candidate-vibid:4784011200492": 47,
+      "gas:candidate-vibid:4784011200253": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10901,17 +10901,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 51,
-      "Дивинский Игорь Борисович": 249,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 91,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 68,
-      "Мельникова Ирина Николаевна": 44,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 44,
-      "Ходунова Ольга Архиповна": 56
+      "gas:candidate-vibid:4784011200428": 51,
+      "gas:candidate-vibid:4784011200368": 249,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 91,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 68,
+      "gas:candidate-vibid:4784011200325": 44,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 44,
+      "gas:candidate-vibid:4784011200253": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -10962,17 +10962,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 32,
-      "Дивинский Игорь Борисович": 278,
-      "Иванов Андрей Спартакович": 18,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 84,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 87,
-      "Мельникова Ирина Николаевна": 50,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 57,
-      "Ходунова Ольга Архиповна": 62
+      "gas:candidate-vibid:4784011200428": 32,
+      "gas:candidate-vibid:4784011200368": 278,
+      "gas:candidate-vibid:4784011200589": 18,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 84,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 87,
+      "gas:candidate-vibid:4784011200325": 50,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 57,
+      "gas:candidate-vibid:4784011200253": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11023,17 +11023,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 43,
-      "Дивинский Игорь Борисович": 300,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 73,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 76,
-      "Мельникова Ирина Николаевна": 43,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 19,
-      "Ходунова Ольга Архиповна": 65
+      "gas:candidate-vibid:4784011200428": 43,
+      "gas:candidate-vibid:4784011200368": 300,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 73,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 76,
+      "gas:candidate-vibid:4784011200325": 43,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 19,
+      "gas:candidate-vibid:4784011200253": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11084,17 +11084,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 48,
-      "Дивинский Игорь Борисович": 263,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 74,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 76,
-      "Мельникова Ирина Николаевна": 45,
-      "Савин Юрий Анатольевич": 31,
-      "Ступаков Михаил Николаевич": 45,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 48,
+      "gas:candidate-vibid:4784011200368": 263,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 74,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 76,
+      "gas:candidate-vibid:4784011200325": 45,
+      "gas:candidate-vibid:4784011200015": 31,
+      "gas:candidate-vibid:4784011200492": 45,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11145,17 +11145,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 48,
-      "Дивинский Игорь Борисович": 227,
-      "Иванов Андрей Спартакович": 16,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 81,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 52,
-      "Мельникова Ирина Николаевна": 43,
-      "Савин Юрий Анатольевич": 17,
-      "Ступаков Михаил Николаевич": 43,
-      "Ходунова Ольга Архиповна": 55
+      "gas:candidate-vibid:4784011200428": 48,
+      "gas:candidate-vibid:4784011200368": 227,
+      "gas:candidate-vibid:4784011200589": 16,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 81,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 52,
+      "gas:candidate-vibid:4784011200325": 43,
+      "gas:candidate-vibid:4784011200015": 17,
+      "gas:candidate-vibid:4784011200492": 43,
+      "gas:candidate-vibid:4784011200253": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11206,17 +11206,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 22,
-      "Дивинский Игорь Борисович": 299,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 13,
-      "Кочанжи Сергей Павлович": 17,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 14,
-      "Мельникова Ирина Николаевна": 19,
-      "Савин Юрий Анатольевич": 12,
-      "Ступаков Михаил Николаевич": 10,
-      "Ходунова Ольга Архиповна": 16
+      "gas:candidate-vibid:4784011200428": 22,
+      "gas:candidate-vibid:4784011200368": 299,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 13,
+      "gas:candidate-vibid:4784011199650": 17,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 14,
+      "gas:candidate-vibid:4784011200325": 19,
+      "gas:candidate-vibid:4784011200015": 12,
+      "gas:candidate-vibid:4784011200492": 10,
+      "gas:candidate-vibid:4784011200253": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11267,17 +11267,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 71,
-      "Дивинский Игорь Борисович": 358,
-      "Иванов Андрей Спартакович": 48,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 86,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 93,
-      "Мельникова Ирина Николаевна": 59,
-      "Савин Юрий Анатольевич": 36,
-      "Ступаков Михаил Николаевич": 97,
-      "Ходунова Ольга Архиповна": 71
+      "gas:candidate-vibid:4784011200428": 71,
+      "gas:candidate-vibid:4784011200368": 358,
+      "gas:candidate-vibid:4784011200589": 48,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 86,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 93,
+      "gas:candidate-vibid:4784011200325": 59,
+      "gas:candidate-vibid:4784011200015": 36,
+      "gas:candidate-vibid:4784011200492": 97,
+      "gas:candidate-vibid:4784011200253": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11328,17 +11328,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 70,
-      "Дивинский Игорь Борисович": 271,
-      "Иванов Андрей Спартакович": 32,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 78,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 117,
-      "Мельникова Ирина Николаевна": 56,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 63,
-      "Ходунова Ольга Архиповна": 80
+      "gas:candidate-vibid:4784011200428": 70,
+      "gas:candidate-vibid:4784011200368": 271,
+      "gas:candidate-vibid:4784011200589": 32,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 78,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 117,
+      "gas:candidate-vibid:4784011200325": 56,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 63,
+      "gas:candidate-vibid:4784011200253": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11389,17 +11389,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 49,
-      "Дивинский Игорь Борисович": 296,
-      "Иванов Андрей Спартакович": 32,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 75,
-      "Лавринюк Константин Васильевич": 15,
-      "Ложечко Виктор Петрович": 68,
-      "Мельникова Ирина Николаевна": 48,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 49,
-      "Ходунова Ольга Архиповна": 54
+      "gas:candidate-vibid:4784011200428": 49,
+      "gas:candidate-vibid:4784011200368": 296,
+      "gas:candidate-vibid:4784011200589": 32,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 75,
+      "gas:candidate-vibid:4784011200614": 15,
+      "gas:candidate-vibid:4784011200220": 68,
+      "gas:candidate-vibid:4784011200325": 48,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 49,
+      "gas:candidate-vibid:4784011200253": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11450,17 +11450,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 84,
-      "Дивинский Игорь Борисович": 329,
-      "Иванов Андрей Спартакович": 30,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 77,
-      "Лавринюк Константин Васильевич": 13,
-      "Ложечко Виктор Петрович": 82,
-      "Мельникова Ирина Николаевна": 67,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 83,
-      "Ходунова Ольга Архиповна": 89
+      "gas:candidate-vibid:4784011200428": 84,
+      "gas:candidate-vibid:4784011200368": 329,
+      "gas:candidate-vibid:4784011200589": 30,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 77,
+      "gas:candidate-vibid:4784011200614": 13,
+      "gas:candidate-vibid:4784011200220": 82,
+      "gas:candidate-vibid:4784011200325": 67,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 83,
+      "gas:candidate-vibid:4784011200253": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11511,17 +11511,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 52,
-      "Дивинский Игорь Борисович": 262,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 62,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 63,
-      "Мельникова Ирина Николаевна": 60,
-      "Савин Юрий Анатольевич": 28,
-      "Ступаков Михаил Николаевич": 67,
-      "Ходунова Ольга Архиповна": 68
+      "gas:candidate-vibid:4784011200428": 52,
+      "gas:candidate-vibid:4784011200368": 262,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 62,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 63,
+      "gas:candidate-vibid:4784011200325": 60,
+      "gas:candidate-vibid:4784011200015": 28,
+      "gas:candidate-vibid:4784011200492": 67,
+      "gas:candidate-vibid:4784011200253": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11572,17 +11572,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 59,
-      "Дивинский Игорь Борисович": 240,
-      "Иванов Андрей Спартакович": 17,
-      "Койфман Михаил Израилевич": 8,
-      "Кочанжи Сергей Павлович": 60,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 57,
-      "Мельникова Ирина Николаевна": 43,
-      "Савин Юрий Анатольевич": 18,
-      "Ступаков Михаил Николаевич": 49,
-      "Ходунова Ольга Архиповна": 56
+      "gas:candidate-vibid:4784011200428": 59,
+      "gas:candidate-vibid:4784011200368": 240,
+      "gas:candidate-vibid:4784011200589": 17,
+      "gas:candidate-vibid:4784011200528": 8,
+      "gas:candidate-vibid:4784011199650": 60,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 57,
+      "gas:candidate-vibid:4784011200325": 43,
+      "gas:candidate-vibid:4784011200015": 18,
+      "gas:candidate-vibid:4784011200492": 49,
+      "gas:candidate-vibid:4784011200253": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11633,17 +11633,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 80,
-      "Дивинский Игорь Борисович": 279,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 73,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 76,
-      "Мельникова Ирина Николаевна": 68,
-      "Савин Юрий Анатольевич": 27,
-      "Ступаков Михаил Николаевич": 84,
-      "Ходунова Ольга Архиповна": 93
+      "gas:candidate-vibid:4784011200428": 80,
+      "gas:candidate-vibid:4784011200368": 279,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 73,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 76,
+      "gas:candidate-vibid:4784011200325": 68,
+      "gas:candidate-vibid:4784011200015": 27,
+      "gas:candidate-vibid:4784011200492": 84,
+      "gas:candidate-vibid:4784011200253": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11694,17 +11694,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 71,
-      "Дивинский Игорь Борисович": 308,
-      "Иванов Андрей Спартакович": 24,
-      "Койфман Михаил Израилевич": 2,
-      "Кочанжи Сергей Павлович": 65,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 80,
-      "Мельникова Ирина Николаевна": 61,
-      "Савин Юрий Анатольевич": 20,
-      "Ступаков Михаил Николаевич": 73,
-      "Ходунова Ольга Архиповна": 76
+      "gas:candidate-vibid:4784011200428": 71,
+      "gas:candidate-vibid:4784011200368": 308,
+      "gas:candidate-vibid:4784011200589": 24,
+      "gas:candidate-vibid:4784011200528": 2,
+      "gas:candidate-vibid:4784011199650": 65,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 80,
+      "gas:candidate-vibid:4784011200325": 61,
+      "gas:candidate-vibid:4784011200015": 20,
+      "gas:candidate-vibid:4784011200492": 73,
+      "gas:candidate-vibid:4784011200253": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11755,17 +11755,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 64,
-      "Дивинский Игорь Борисович": 315,
-      "Иванов Андрей Спартакович": 45,
-      "Койфман Михаил Израилевич": 8,
-      "Кочанжи Сергей Павлович": 99,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 103,
-      "Мельникова Ирина Николаевна": 61,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 84,
-      "Ходунова Ольга Архиповна": 86
+      "gas:candidate-vibid:4784011200428": 64,
+      "gas:candidate-vibid:4784011200368": 315,
+      "gas:candidate-vibid:4784011200589": 45,
+      "gas:candidate-vibid:4784011200528": 8,
+      "gas:candidate-vibid:4784011199650": 99,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 103,
+      "gas:candidate-vibid:4784011200325": 61,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 84,
+      "gas:candidate-vibid:4784011200253": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11816,17 +11816,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 69,
-      "Дивинский Игорь Борисович": 263,
-      "Иванов Андрей Спартакович": 26,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 82,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 85,
-      "Мельникова Ирина Николаевна": 66,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 74,
-      "Ходунова Ольга Архиповна": 78
+      "gas:candidate-vibid:4784011200428": 69,
+      "gas:candidate-vibid:4784011200368": 263,
+      "gas:candidate-vibid:4784011200589": 26,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 82,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 85,
+      "gas:candidate-vibid:4784011200325": 66,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 74,
+      "gas:candidate-vibid:4784011200253": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11877,17 +11877,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 56,
-      "Дивинский Игорь Борисович": 390,
-      "Иванов Андрей Спартакович": 38,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 61,
-      "Лавринюк Константин Васильевич": 10,
-      "Ложечко Виктор Петрович": 89,
-      "Мельникова Ирина Николаевна": 65,
-      "Савин Юрий Анатольевич": 33,
-      "Ступаков Михаил Николаевич": 81,
-      "Ходунова Ольга Архиповна": 63
+      "gas:candidate-vibid:4784011200428": 56,
+      "gas:candidate-vibid:4784011200368": 390,
+      "gas:candidate-vibid:4784011200589": 38,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 61,
+      "gas:candidate-vibid:4784011200614": 10,
+      "gas:candidate-vibid:4784011200220": 89,
+      "gas:candidate-vibid:4784011200325": 65,
+      "gas:candidate-vibid:4784011200015": 33,
+      "gas:candidate-vibid:4784011200492": 81,
+      "gas:candidate-vibid:4784011200253": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11938,17 +11938,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 65,
-      "Дивинский Игорь Борисович": 322,
-      "Иванов Андрей Спартакович": 23,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 45,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 87,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 12,
-      "Ступаков Михаил Николаевич": 75,
-      "Ходунова Ольга Архиповна": 81
+      "gas:candidate-vibid:4784011200428": 65,
+      "gas:candidate-vibid:4784011200368": 322,
+      "gas:candidate-vibid:4784011200589": 23,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 45,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 87,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 12,
+      "gas:candidate-vibid:4784011200492": 75,
+      "gas:candidate-vibid:4784011200253": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -11999,17 +11999,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 51,
-      "Дивинский Игорь Борисович": 189,
-      "Иванов Андрей Спартакович": 28,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 59,
-      "Лавринюк Константин Васильевич": 5,
-      "Ложечко Виктор Петрович": 72,
-      "Мельникова Ирина Николаевна": 39,
-      "Савин Юрий Анатольевич": 21,
-      "Ступаков Михаил Николаевич": 67,
-      "Ходунова Ольга Архиповна": 51
+      "gas:candidate-vibid:4784011200428": 51,
+      "gas:candidate-vibid:4784011200368": 189,
+      "gas:candidate-vibid:4784011200589": 28,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 59,
+      "gas:candidate-vibid:4784011200614": 5,
+      "gas:candidate-vibid:4784011200220": 72,
+      "gas:candidate-vibid:4784011200325": 39,
+      "gas:candidate-vibid:4784011200015": 21,
+      "gas:candidate-vibid:4784011200492": 67,
+      "gas:candidate-vibid:4784011200253": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12060,17 +12060,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 94,
-      "Дивинский Игорь Борисович": 288,
-      "Иванов Андрей Спартакович": 31,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 67,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 54,
-      "Мельникова Ирина Николаевна": 53,
-      "Савин Юрий Анатольевич": 23,
-      "Ступаков Михаил Николаевич": 74,
-      "Ходунова Ольга Архиповна": 69
+      "gas:candidate-vibid:4784011200428": 94,
+      "gas:candidate-vibid:4784011200368": 288,
+      "gas:candidate-vibid:4784011200589": 31,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 67,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 54,
+      "gas:candidate-vibid:4784011200325": 53,
+      "gas:candidate-vibid:4784011200015": 23,
+      "gas:candidate-vibid:4784011200492": 74,
+      "gas:candidate-vibid:4784011200253": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12121,17 +12121,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 67,
-      "Дивинский Игорь Борисович": 297,
-      "Иванов Андрей Спартакович": 35,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 84,
-      "Лавринюк Константин Васильевич": 14,
-      "Ложечко Виктор Петрович": 69,
-      "Мельникова Ирина Николаевна": 64,
-      "Савин Юрий Анатольевич": 32,
-      "Ступаков Михаил Николаевич": 78,
-      "Ходунова Ольга Архиповна": 87
+      "gas:candidate-vibid:4784011200428": 67,
+      "gas:candidate-vibid:4784011200368": 297,
+      "gas:candidate-vibid:4784011200589": 35,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 84,
+      "gas:candidate-vibid:4784011200614": 14,
+      "gas:candidate-vibid:4784011200220": 69,
+      "gas:candidate-vibid:4784011200325": 64,
+      "gas:candidate-vibid:4784011200015": 32,
+      "gas:candidate-vibid:4784011200492": 78,
+      "gas:candidate-vibid:4784011200253": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12182,17 +12182,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 30,
-      "Дивинский Игорь Борисович": 301,
-      "Иванов Андрей Спартакович": 5,
-      "Койфман Михаил Израилевич": 5,
-      "Кочанжи Сергей Павлович": 68,
-      "Лавринюк Константин Васильевич": 6,
-      "Ложечко Виктор Петрович": 83,
-      "Мельникова Ирина Николаевна": 57,
-      "Савин Юрий Анатольевич": 40,
-      "Ступаков Михаил Николаевич": 50,
-      "Ходунова Ольга Архиповна": 68
+      "gas:candidate-vibid:4784011200428": 30,
+      "gas:candidate-vibid:4784011200368": 301,
+      "gas:candidate-vibid:4784011200589": 5,
+      "gas:candidate-vibid:4784011200528": 5,
+      "gas:candidate-vibid:4784011199650": 68,
+      "gas:candidate-vibid:4784011200614": 6,
+      "gas:candidate-vibid:4784011200220": 83,
+      "gas:candidate-vibid:4784011200325": 57,
+      "gas:candidate-vibid:4784011200015": 40,
+      "gas:candidate-vibid:4784011200492": 50,
+      "gas:candidate-vibid:4784011200253": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12243,17 +12243,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 70,
-      "Дивинский Игорь Борисович": 302,
-      "Иванов Андрей Спартакович": 30,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 88,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 85,
-      "Мельникова Ирина Николаевна": 68,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 64,
-      "Ходунова Ольга Архиповна": 79
+      "gas:candidate-vibid:4784011200428": 70,
+      "gas:candidate-vibid:4784011200368": 302,
+      "gas:candidate-vibid:4784011200589": 30,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 88,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 85,
+      "gas:candidate-vibid:4784011200325": 68,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 64,
+      "gas:candidate-vibid:4784011200253": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12304,17 +12304,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 64,
-      "Дивинский Игорь Борисович": 286,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 4,
-      "Кочанжи Сергей Павлович": 92,
-      "Лавринюк Константин Васильевич": 7,
-      "Ложечко Виктор Петрович": 85,
-      "Мельникова Ирина Николаевна": 34,
-      "Савин Юрий Анатольевич": 25,
-      "Ступаков Михаил Николаевич": 87,
-      "Ходунова Ольга Архиповна": 59
+      "gas:candidate-vibid:4784011200428": 64,
+      "gas:candidate-vibid:4784011200368": 286,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 4,
+      "gas:candidate-vibid:4784011199650": 92,
+      "gas:candidate-vibid:4784011200614": 7,
+      "gas:candidate-vibid:4784011200220": 85,
+      "gas:candidate-vibid:4784011200325": 34,
+      "gas:candidate-vibid:4784011200015": 25,
+      "gas:candidate-vibid:4784011200492": 87,
+      "gas:candidate-vibid:4784011200253": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12365,17 +12365,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 78,
-      "Дивинский Игорь Борисович": 318,
-      "Иванов Андрей Спартакович": 41,
-      "Койфман Михаил Израилевич": 7,
-      "Кочанжи Сергей Павлович": 85,
-      "Лавринюк Константин Васильевич": 14,
-      "Ложечко Виктор Петрович": 76,
-      "Мельникова Ирина Николаевна": 53,
-      "Савин Юрий Анатольевич": 22,
-      "Ступаков Михаил Николаевич": 75,
-      "Ходунова Ольга Архиповна": 87
+      "gas:candidate-vibid:4784011200428": 78,
+      "gas:candidate-vibid:4784011200368": 318,
+      "gas:candidate-vibid:4784011200589": 41,
+      "gas:candidate-vibid:4784011200528": 7,
+      "gas:candidate-vibid:4784011199650": 85,
+      "gas:candidate-vibid:4784011200614": 14,
+      "gas:candidate-vibid:4784011200220": 76,
+      "gas:candidate-vibid:4784011200325": 53,
+      "gas:candidate-vibid:4784011200015": 22,
+      "gas:candidate-vibid:4784011200492": 75,
+      "gas:candidate-vibid:4784011200253": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12426,17 +12426,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 59,
-      "Дивинский Игорь Борисович": 209,
-      "Иванов Андрей Спартакович": 27,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 67,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 84,
-      "Мельникова Ирина Николаевна": 62,
-      "Савин Юрий Анатольевич": 19,
-      "Ступаков Михаил Николаевич": 75,
-      "Ходунова Ольга Архиповна": 85
+      "gas:candidate-vibid:4784011200428": 59,
+      "gas:candidate-vibid:4784011200368": 209,
+      "gas:candidate-vibid:4784011200589": 27,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 67,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 84,
+      "gas:candidate-vibid:4784011200325": 62,
+      "gas:candidate-vibid:4784011200015": 19,
+      "gas:candidate-vibid:4784011200492": 75,
+      "gas:candidate-vibid:4784011200253": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12487,17 +12487,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 78,
-      "Дивинский Игорь Борисович": 299,
-      "Иванов Андрей Спартакович": 36,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 87,
-      "Лавринюк Константин Васильевич": 12,
-      "Ложечко Виктор Петрович": 81,
-      "Мельникова Ирина Николаевна": 67,
-      "Савин Юрий Анатольевич": 30,
-      "Ступаков Михаил Николаевич": 67,
-      "Ходунова Ольга Архиповна": 91
+      "gas:candidate-vibid:4784011200428": 78,
+      "gas:candidate-vibid:4784011200368": 299,
+      "gas:candidate-vibid:4784011200589": 36,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 87,
+      "gas:candidate-vibid:4784011200614": 12,
+      "gas:candidate-vibid:4784011200220": 81,
+      "gas:candidate-vibid:4784011200325": 67,
+      "gas:candidate-vibid:4784011200015": 30,
+      "gas:candidate-vibid:4784011200492": 67,
+      "gas:candidate-vibid:4784011200253": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12548,17 +12548,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 76,
-      "Дивинский Игорь Борисович": 290,
-      "Иванов Андрей Спартакович": 35,
-      "Койфман Михаил Израилевич": 6,
-      "Кочанжи Сергей Павлович": 57,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 122,
-      "Мельникова Ирина Николаевна": 49,
-      "Савин Юрий Анатольевич": 26,
-      "Ступаков Михаил Николаевич": 107,
-      "Ходунова Ольга Архиповна": 68
+      "gas:candidate-vibid:4784011200428": 76,
+      "gas:candidate-vibid:4784011200368": 290,
+      "gas:candidate-vibid:4784011200589": 35,
+      "gas:candidate-vibid:4784011200528": 6,
+      "gas:candidate-vibid:4784011199650": 57,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 122,
+      "gas:candidate-vibid:4784011200325": 49,
+      "gas:candidate-vibid:4784011200015": 26,
+      "gas:candidate-vibid:4784011200492": 107,
+      "gas:candidate-vibid:4784011200253": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12609,17 +12609,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 75,
-      "Дивинский Игорь Борисович": 239,
-      "Иванов Андрей Спартакович": 33,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 64,
-      "Лавринюк Константин Васильевич": 9,
-      "Ложечко Виктор Петрович": 79,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 29,
-      "Ступаков Михаил Николаевич": 85,
-      "Ходунова Ольга Архиповна": 61
+      "gas:candidate-vibid:4784011200428": 75,
+      "gas:candidate-vibid:4784011200368": 239,
+      "gas:candidate-vibid:4784011200589": 33,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 64,
+      "gas:candidate-vibid:4784011200614": 9,
+      "gas:candidate-vibid:4784011200220": 79,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 29,
+      "gas:candidate-vibid:4784011200492": 85,
+      "gas:candidate-vibid:4784011200253": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12670,17 +12670,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 51,
-      "Дивинский Игорь Борисович": 224,
-      "Иванов Андрей Спартакович": 22,
-      "Койфман Михаил Израилевич": 9,
-      "Кочанжи Сергей Павлович": 40,
-      "Лавринюк Константин Васильевич": 11,
-      "Ложечко Виктор Петрович": 47,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 15,
-      "Ступаков Михаил Николаевич": 51,
-      "Ходунова Ольга Архиповна": 31
+      "gas:candidate-vibid:4784011200428": 51,
+      "gas:candidate-vibid:4784011200368": 224,
+      "gas:candidate-vibid:4784011200589": 22,
+      "gas:candidate-vibid:4784011200528": 9,
+      "gas:candidate-vibid:4784011199650": 40,
+      "gas:candidate-vibid:4784011200614": 11,
+      "gas:candidate-vibid:4784011200220": 47,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 15,
+      "gas:candidate-vibid:4784011200492": 51,
+      "gas:candidate-vibid:4784011200253": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12731,17 +12731,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 11,
-      "Дивинский Игорь Борисович": 69,
-      "Иванов Андрей Спартакович": 6,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 5,
-      "Лавринюк Константин Васильевич": 3,
-      "Ложечко Виктор Петрович": 6,
-      "Мельникова Ирина Николаевна": 4,
-      "Савин Юрий Анатольевич": 2,
-      "Ступаков Михаил Николаевич": 5,
-      "Ходунова Ольга Архиповна": 6
+      "gas:candidate-vibid:4784011200428": 11,
+      "gas:candidate-vibid:4784011200368": 69,
+      "gas:candidate-vibid:4784011200589": 6,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 5,
+      "gas:candidate-vibid:4784011200614": 3,
+      "gas:candidate-vibid:4784011200220": 6,
+      "gas:candidate-vibid:4784011200325": 4,
+      "gas:candidate-vibid:4784011200015": 2,
+      "gas:candidate-vibid:4784011200492": 5,
+      "gas:candidate-vibid:4784011200253": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12792,17 +12792,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 12,
-      "Дивинский Игорь Борисович": 117,
-      "Иванов Андрей Спартакович": 6,
-      "Койфман Михаил Израилевич": 3,
-      "Кочанжи Сергей Павлович": 20,
-      "Лавринюк Константин Васильевич": 8,
-      "Ложечко Виктор Петрович": 29,
-      "Мельникова Ирина Николаевна": 37,
-      "Савин Юрий Анатольевич": 13,
-      "Ступаков Михаил Николаевич": 14,
-      "Ходунова Ольга Архиповна": 14
+      "gas:candidate-vibid:4784011200428": 12,
+      "gas:candidate-vibid:4784011200368": 117,
+      "gas:candidate-vibid:4784011200589": 6,
+      "gas:candidate-vibid:4784011200528": 3,
+      "gas:candidate-vibid:4784011199650": 20,
+      "gas:candidate-vibid:4784011200614": 8,
+      "gas:candidate-vibid:4784011200220": 29,
+      "gas:candidate-vibid:4784011200325": 37,
+      "gas:candidate-vibid:4784011200015": 13,
+      "gas:candidate-vibid:4784011200492": 14,
+      "gas:candidate-vibid:4784011200253": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12853,17 +12853,17 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бакулин Владислав Юрьевич": 20,
-      "Дивинский Игорь Борисович": 118,
-      "Иванов Андрей Спартакович": 19,
-      "Койфман Михаил Израилевич": 10,
-      "Кочанжи Сергей Павлович": 21,
-      "Лавринюк Константин Васильевич": 2,
-      "Ложечко Виктор Петрович": 5,
-      "Мельникова Ирина Николаевна": 34,
-      "Савин Юрий Анатольевич": 5,
-      "Ступаков Михаил Николаевич": 69,
-      "Ходунова Ольга Архиповна": 19
+      "gas:candidate-vibid:4784011200428": 20,
+      "gas:candidate-vibid:4784011200368": 118,
+      "gas:candidate-vibid:4784011200589": 19,
+      "gas:candidate-vibid:4784011200528": 10,
+      "gas:candidate-vibid:4784011199650": 21,
+      "gas:candidate-vibid:4784011200614": 2,
+      "gas:candidate-vibid:4784011200220": 5,
+      "gas:candidate-vibid:4784011200325": 34,
+      "gas:candidate-vibid:4784011200015": 5,
+      "gas:candidate-vibid:4784011200492": 69,
+      "gas:candidate-vibid:4784011200253": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000276&tvd=2782000678271&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678271&type=464",
@@ -12914,18 +12914,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 42,
-      "Басангова Кермен Маратовна": 20,
-      "Вострецов Сергей Алексеевич": 107,
-      "Галкина Ольга Владимировна": 82,
-      "Герасимов Алексей Петрович": 27,
-      "Едрышев Владимир Павлович": 15,
-      "Замараева Анна Сергеевна": 74,
-      "Львов Илья Александрович": 15,
-      "Ольховский Александр Сергеевич": 65,
-      "Палевич Андрей Анатольевич": 53,
-      "Тарсуков Василий Васильевич": 7,
-      "Ушаков Дмитрий Владимирович": 107
+      "gas:candidate-vibid:4784026168600": 42,
+      "gas:candidate-vibid:4784026168568": 20,
+      "gas:candidate-vibid:4784026168792": 107,
+      "gas:candidate-vibid:4784026168688": 82,
+      "gas:candidate-vibid:4784026168726": 27,
+      "gas:candidate-vibid:4784026168881": 15,
+      "gas:candidate-vibid:4784026168637": 74,
+      "gas:candidate-vibid:4784026168370": 15,
+      "gas:candidate-vibid:4784026168478": 65,
+      "gas:candidate-vibid:4784026168523": 53,
+      "gas:candidate-vibid:4784026168506": 7,
+      "gas:candidate-vibid:4784026168588": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -12976,18 +12976,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 32,
-      "Басангова Кермен Маратовна": 17,
-      "Вострецов Сергей Алексеевич": 108,
-      "Галкина Ольга Владимировна": 59,
-      "Герасимов Алексей Петрович": 27,
-      "Едрышев Владимир Павлович": 12,
-      "Замараева Анна Сергеевна": 65,
-      "Львов Илья Александрович": 14,
-      "Ольховский Александр Сергеевич": 74,
-      "Палевич Андрей Анатольевич": 50,
-      "Тарсуков Василий Васильевич": 10,
-      "Ушаков Дмитрий Владимирович": 105
+      "gas:candidate-vibid:4784026168600": 32,
+      "gas:candidate-vibid:4784026168568": 17,
+      "gas:candidate-vibid:4784026168792": 108,
+      "gas:candidate-vibid:4784026168688": 59,
+      "gas:candidate-vibid:4784026168726": 27,
+      "gas:candidate-vibid:4784026168881": 12,
+      "gas:candidate-vibid:4784026168637": 65,
+      "gas:candidate-vibid:4784026168370": 14,
+      "gas:candidate-vibid:4784026168478": 74,
+      "gas:candidate-vibid:4784026168523": 50,
+      "gas:candidate-vibid:4784026168506": 10,
+      "gas:candidate-vibid:4784026168588": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13038,18 +13038,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 35,
-      "Басангова Кермен Маратовна": 15,
-      "Вострецов Сергей Алексеевич": 146,
-      "Галкина Ольга Владимировна": 90,
-      "Герасимов Алексей Петрович": 28,
-      "Едрышев Владимир Павлович": 9,
-      "Замараева Анна Сергеевна": 73,
-      "Львов Илья Александрович": 24,
-      "Ольховский Александр Сергеевич": 66,
-      "Палевич Андрей Анатольевич": 42,
-      "Тарсуков Василий Васильевич": 6,
-      "Ушаков Дмитрий Владимирович": 102
+      "gas:candidate-vibid:4784026168600": 35,
+      "gas:candidate-vibid:4784026168568": 15,
+      "gas:candidate-vibid:4784026168792": 146,
+      "gas:candidate-vibid:4784026168688": 90,
+      "gas:candidate-vibid:4784026168726": 28,
+      "gas:candidate-vibid:4784026168881": 9,
+      "gas:candidate-vibid:4784026168637": 73,
+      "gas:candidate-vibid:4784026168370": 24,
+      "gas:candidate-vibid:4784026168478": 66,
+      "gas:candidate-vibid:4784026168523": 42,
+      "gas:candidate-vibid:4784026168506": 6,
+      "gas:candidate-vibid:4784026168588": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13100,18 +13100,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 27,
-      "Басангова Кермен Маратовна": 20,
-      "Вострецов Сергей Алексеевич": 149,
-      "Галкина Ольга Владимировна": 72,
-      "Герасимов Алексей Петрович": 24,
-      "Едрышев Владимир Павлович": 8,
-      "Замараева Анна Сергеевна": 65,
-      "Львов Илья Александрович": 17,
-      "Ольховский Александр Сергеевич": 82,
-      "Палевич Андрей Анатольевич": 41,
-      "Тарсуков Василий Васильевич": 12,
-      "Ушаков Дмитрий Владимирович": 93
+      "gas:candidate-vibid:4784026168600": 27,
+      "gas:candidate-vibid:4784026168568": 20,
+      "gas:candidate-vibid:4784026168792": 149,
+      "gas:candidate-vibid:4784026168688": 72,
+      "gas:candidate-vibid:4784026168726": 24,
+      "gas:candidate-vibid:4784026168881": 8,
+      "gas:candidate-vibid:4784026168637": 65,
+      "gas:candidate-vibid:4784026168370": 17,
+      "gas:candidate-vibid:4784026168478": 82,
+      "gas:candidate-vibid:4784026168523": 41,
+      "gas:candidate-vibid:4784026168506": 12,
+      "gas:candidate-vibid:4784026168588": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13162,18 +13162,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 30,
-      "Басангова Кермен Маратовна": 12,
-      "Вострецов Сергей Алексеевич": 139,
-      "Галкина Ольга Владимировна": 67,
-      "Герасимов Алексей Петрович": 27,
-      "Едрышев Владимир Павлович": 12,
-      "Замараева Анна Сергеевна": 72,
-      "Львов Илья Александрович": 13,
-      "Ольховский Александр Сергеевич": 107,
-      "Палевич Андрей Анатольевич": 45,
-      "Тарсуков Василий Васильевич": 6,
-      "Ушаков Дмитрий Владимирович": 116
+      "gas:candidate-vibid:4784026168600": 30,
+      "gas:candidate-vibid:4784026168568": 12,
+      "gas:candidate-vibid:4784026168792": 139,
+      "gas:candidate-vibid:4784026168688": 67,
+      "gas:candidate-vibid:4784026168726": 27,
+      "gas:candidate-vibid:4784026168881": 12,
+      "gas:candidate-vibid:4784026168637": 72,
+      "gas:candidate-vibid:4784026168370": 13,
+      "gas:candidate-vibid:4784026168478": 107,
+      "gas:candidate-vibid:4784026168523": 45,
+      "gas:candidate-vibid:4784026168506": 6,
+      "gas:candidate-vibid:4784026168588": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13224,18 +13224,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 32,
-      "Басангова Кермен Маратовна": 23,
-      "Вострецов Сергей Алексеевич": 142,
-      "Галкина Ольга Владимировна": 63,
-      "Герасимов Алексей Петрович": 43,
-      "Едрышев Владимир Павлович": 10,
-      "Замараева Анна Сергеевна": 94,
-      "Львов Илья Александрович": 19,
-      "Ольховский Александр Сергеевич": 115,
-      "Палевич Андрей Анатольевич": 55,
-      "Тарсуков Василий Васильевич": 8,
-      "Ушаков Дмитрий Владимирович": 88
+      "gas:candidate-vibid:4784026168600": 32,
+      "gas:candidate-vibid:4784026168568": 23,
+      "gas:candidate-vibid:4784026168792": 142,
+      "gas:candidate-vibid:4784026168688": 63,
+      "gas:candidate-vibid:4784026168726": 43,
+      "gas:candidate-vibid:4784026168881": 10,
+      "gas:candidate-vibid:4784026168637": 94,
+      "gas:candidate-vibid:4784026168370": 19,
+      "gas:candidate-vibid:4784026168478": 115,
+      "gas:candidate-vibid:4784026168523": 55,
+      "gas:candidate-vibid:4784026168506": 8,
+      "gas:candidate-vibid:4784026168588": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13286,18 +13286,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 39,
-      "Басангова Кермен Маратовна": 24,
-      "Вострецов Сергей Алексеевич": 168,
-      "Галкина Ольга Владимировна": 68,
-      "Герасимов Алексей Петрович": 22,
-      "Едрышев Владимир Павлович": 6,
-      "Замараева Анна Сергеевна": 98,
-      "Львов Илья Александрович": 14,
-      "Ольховский Александр Сергеевич": 70,
-      "Палевич Андрей Анатольевич": 65,
-      "Тарсуков Василий Васильевич": 3,
-      "Ушаков Дмитрий Владимирович": 137
+      "gas:candidate-vibid:4784026168600": 39,
+      "gas:candidate-vibid:4784026168568": 24,
+      "gas:candidate-vibid:4784026168792": 168,
+      "gas:candidate-vibid:4784026168688": 68,
+      "gas:candidate-vibid:4784026168726": 22,
+      "gas:candidate-vibid:4784026168881": 6,
+      "gas:candidate-vibid:4784026168637": 98,
+      "gas:candidate-vibid:4784026168370": 14,
+      "gas:candidate-vibid:4784026168478": 70,
+      "gas:candidate-vibid:4784026168523": 65,
+      "gas:candidate-vibid:4784026168506": 3,
+      "gas:candidate-vibid:4784026168588": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13348,18 +13348,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 21,
-      "Басангова Кермен Маратовна": 20,
-      "Вострецов Сергей Алексеевич": 164,
-      "Галкина Ольга Владимировна": 70,
-      "Герасимов Алексей Петрович": 11,
-      "Едрышев Владимир Павлович": 14,
-      "Замараева Анна Сергеевна": 78,
-      "Львов Илья Александрович": 16,
-      "Ольховский Александр Сергеевич": 65,
-      "Палевич Андрей Анатольевич": 41,
-      "Тарсуков Василий Васильевич": 4,
-      "Ушаков Дмитрий Владимирович": 100
+      "gas:candidate-vibid:4784026168600": 21,
+      "gas:candidate-vibid:4784026168568": 20,
+      "gas:candidate-vibid:4784026168792": 164,
+      "gas:candidate-vibid:4784026168688": 70,
+      "gas:candidate-vibid:4784026168726": 11,
+      "gas:candidate-vibid:4784026168881": 14,
+      "gas:candidate-vibid:4784026168637": 78,
+      "gas:candidate-vibid:4784026168370": 16,
+      "gas:candidate-vibid:4784026168478": 65,
+      "gas:candidate-vibid:4784026168523": 41,
+      "gas:candidate-vibid:4784026168506": 4,
+      "gas:candidate-vibid:4784026168588": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13410,18 +13410,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 54,
-      "Басангова Кермен Маратовна": 30,
-      "Вострецов Сергей Алексеевич": 166,
-      "Галкина Ольга Владимировна": 79,
-      "Герасимов Алексей Петрович": 27,
-      "Едрышев Владимир Павлович": 2,
-      "Замараева Анна Сергеевна": 66,
-      "Львов Илья Александрович": 21,
-      "Ольховский Александр Сергеевич": 102,
-      "Палевич Андрей Анатольевич": 45,
-      "Тарсуков Василий Васильевич": 8,
-      "Ушаков Дмитрий Владимирович": 108
+      "gas:candidate-vibid:4784026168600": 54,
+      "gas:candidate-vibid:4784026168568": 30,
+      "gas:candidate-vibid:4784026168792": 166,
+      "gas:candidate-vibid:4784026168688": 79,
+      "gas:candidate-vibid:4784026168726": 27,
+      "gas:candidate-vibid:4784026168881": 2,
+      "gas:candidate-vibid:4784026168637": 66,
+      "gas:candidate-vibid:4784026168370": 21,
+      "gas:candidate-vibid:4784026168478": 102,
+      "gas:candidate-vibid:4784026168523": 45,
+      "gas:candidate-vibid:4784026168506": 8,
+      "gas:candidate-vibid:4784026168588": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13472,18 +13472,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 48,
-      "Басангова Кермен Маратовна": 43,
-      "Вострецов Сергей Алексеевич": 179,
-      "Галкина Ольга Владимировна": 80,
-      "Герасимов Алексей Петрович": 31,
-      "Едрышев Владимир Павлович": 29,
-      "Замараева Анна Сергеевна": 88,
-      "Львов Илья Александрович": 23,
-      "Ольховский Александр Сергеевич": 115,
-      "Палевич Андрей Анатольевич": 58,
-      "Тарсуков Василий Васильевич": 10,
-      "Ушаков Дмитрий Владимирович": 107
+      "gas:candidate-vibid:4784026168600": 48,
+      "gas:candidate-vibid:4784026168568": 43,
+      "gas:candidate-vibid:4784026168792": 179,
+      "gas:candidate-vibid:4784026168688": 80,
+      "gas:candidate-vibid:4784026168726": 31,
+      "gas:candidate-vibid:4784026168881": 29,
+      "gas:candidate-vibid:4784026168637": 88,
+      "gas:candidate-vibid:4784026168370": 23,
+      "gas:candidate-vibid:4784026168478": 115,
+      "gas:candidate-vibid:4784026168523": 58,
+      "gas:candidate-vibid:4784026168506": 10,
+      "gas:candidate-vibid:4784026168588": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13534,18 +13534,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 28,
-      "Басангова Кермен Маратовна": 15,
-      "Вострецов Сергей Алексеевич": 137,
-      "Галкина Ольга Владимировна": 61,
-      "Герасимов Алексей Петрович": 18,
-      "Едрышев Владимир Павлович": 11,
-      "Замараева Анна Сергеевна": 73,
-      "Львов Илья Александрович": 14,
-      "Ольховский Александр Сергеевич": 63,
-      "Палевич Андрей Анатольевич": 22,
-      "Тарсуков Василий Васильевич": 13,
-      "Ушаков Дмитрий Владимирович": 111
+      "gas:candidate-vibid:4784026168600": 28,
+      "gas:candidate-vibid:4784026168568": 15,
+      "gas:candidate-vibid:4784026168792": 137,
+      "gas:candidate-vibid:4784026168688": 61,
+      "gas:candidate-vibid:4784026168726": 18,
+      "gas:candidate-vibid:4784026168881": 11,
+      "gas:candidate-vibid:4784026168637": 73,
+      "gas:candidate-vibid:4784026168370": 14,
+      "gas:candidate-vibid:4784026168478": 63,
+      "gas:candidate-vibid:4784026168523": 22,
+      "gas:candidate-vibid:4784026168506": 13,
+      "gas:candidate-vibid:4784026168588": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13596,18 +13596,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 33,
-      "Басангова Кермен Маратовна": 14,
-      "Вострецов Сергей Алексеевич": 109,
-      "Галкина Ольга Владимировна": 54,
-      "Герасимов Алексей Петрович": 17,
-      "Едрышев Владимир Павлович": 4,
-      "Замараева Анна Сергеевна": 85,
-      "Львов Илья Александрович": 11,
-      "Ольховский Александр Сергеевич": 81,
-      "Палевич Андрей Анатольевич": 48,
-      "Тарсуков Василий Васильевич": 5,
-      "Ушаков Дмитрий Владимирович": 105
+      "gas:candidate-vibid:4784026168600": 33,
+      "gas:candidate-vibid:4784026168568": 14,
+      "gas:candidate-vibid:4784026168792": 109,
+      "gas:candidate-vibid:4784026168688": 54,
+      "gas:candidate-vibid:4784026168726": 17,
+      "gas:candidate-vibid:4784026168881": 4,
+      "gas:candidate-vibid:4784026168637": 85,
+      "gas:candidate-vibid:4784026168370": 11,
+      "gas:candidate-vibid:4784026168478": 81,
+      "gas:candidate-vibid:4784026168523": 48,
+      "gas:candidate-vibid:4784026168506": 5,
+      "gas:candidate-vibid:4784026168588": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13658,18 +13658,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 29,
-      "Басангова Кермен Маратовна": 14,
-      "Вострецов Сергей Алексеевич": 106,
-      "Галкина Ольга Владимировна": 53,
-      "Герасимов Алексей Петрович": 28,
-      "Едрышев Владимир Павлович": 4,
-      "Замараева Анна Сергеевна": 53,
-      "Львов Илья Александрович": 6,
-      "Ольховский Александр Сергеевич": 43,
-      "Палевич Андрей Анатольевич": 45,
-      "Тарсуков Василий Васильевич": 8,
-      "Ушаков Дмитрий Владимирович": 90
+      "gas:candidate-vibid:4784026168600": 29,
+      "gas:candidate-vibid:4784026168568": 14,
+      "gas:candidate-vibid:4784026168792": 106,
+      "gas:candidate-vibid:4784026168688": 53,
+      "gas:candidate-vibid:4784026168726": 28,
+      "gas:candidate-vibid:4784026168881": 4,
+      "gas:candidate-vibid:4784026168637": 53,
+      "gas:candidate-vibid:4784026168370": 6,
+      "gas:candidate-vibid:4784026168478": 43,
+      "gas:candidate-vibid:4784026168523": 45,
+      "gas:candidate-vibid:4784026168506": 8,
+      "gas:candidate-vibid:4784026168588": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13720,18 +13720,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 43,
-      "Басангова Кермен Маратовна": 29,
-      "Вострецов Сергей Алексеевич": 190,
-      "Галкина Ольга Владимировна": 69,
-      "Герасимов Алексей Петрович": 26,
-      "Едрышев Владимир Павлович": 19,
-      "Замараева Анна Сергеевна": 74,
-      "Львов Илья Александрович": 15,
-      "Ольховский Александр Сергеевич": 63,
-      "Палевич Андрей Анатольевич": 41,
-      "Тарсуков Василий Васильевич": 7,
-      "Ушаков Дмитрий Владимирович": 122
+      "gas:candidate-vibid:4784026168600": 43,
+      "gas:candidate-vibid:4784026168568": 29,
+      "gas:candidate-vibid:4784026168792": 190,
+      "gas:candidate-vibid:4784026168688": 69,
+      "gas:candidate-vibid:4784026168726": 26,
+      "gas:candidate-vibid:4784026168881": 19,
+      "gas:candidate-vibid:4784026168637": 74,
+      "gas:candidate-vibid:4784026168370": 15,
+      "gas:candidate-vibid:4784026168478": 63,
+      "gas:candidate-vibid:4784026168523": 41,
+      "gas:candidate-vibid:4784026168506": 7,
+      "gas:candidate-vibid:4784026168588": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13782,18 +13782,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 30,
-      "Басангова Кермен Маратовна": 20,
-      "Вострецов Сергей Алексеевич": 145,
-      "Галкина Ольга Владимировна": 65,
-      "Герасимов Алексей Петрович": 18,
-      "Едрышев Владимир Павлович": 15,
-      "Замараева Анна Сергеевна": 76,
-      "Львов Илья Александрович": 16,
-      "Ольховский Александр Сергеевич": 78,
-      "Палевич Андрей Анатольевич": 44,
-      "Тарсуков Василий Васильевич": 8,
-      "Ушаков Дмитрий Владимирович": 98
+      "gas:candidate-vibid:4784026168600": 30,
+      "gas:candidate-vibid:4784026168568": 20,
+      "gas:candidate-vibid:4784026168792": 145,
+      "gas:candidate-vibid:4784026168688": 65,
+      "gas:candidate-vibid:4784026168726": 18,
+      "gas:candidate-vibid:4784026168881": 15,
+      "gas:candidate-vibid:4784026168637": 76,
+      "gas:candidate-vibid:4784026168370": 16,
+      "gas:candidate-vibid:4784026168478": 78,
+      "gas:candidate-vibid:4784026168523": 44,
+      "gas:candidate-vibid:4784026168506": 8,
+      "gas:candidate-vibid:4784026168588": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13844,18 +13844,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 29,
-      "Басангова Кермен Маратовна": 17,
-      "Вострецов Сергей Алексеевич": 395,
-      "Галкина Ольга Владимировна": 40,
-      "Герасимов Алексей Петрович": 20,
-      "Едрышев Владимир Павлович": 11,
-      "Замараева Анна Сергеевна": 61,
-      "Львов Илья Александрович": 16,
-      "Ольховский Александр Сергеевич": 63,
-      "Палевич Андрей Анатольевич": 37,
-      "Тарсуков Василий Васильевич": 3,
-      "Ушаков Дмитрий Владимирович": 82
+      "gas:candidate-vibid:4784026168600": 29,
+      "gas:candidate-vibid:4784026168568": 17,
+      "gas:candidate-vibid:4784026168792": 395,
+      "gas:candidate-vibid:4784026168688": 40,
+      "gas:candidate-vibid:4784026168726": 20,
+      "gas:candidate-vibid:4784026168881": 11,
+      "gas:candidate-vibid:4784026168637": 61,
+      "gas:candidate-vibid:4784026168370": 16,
+      "gas:candidate-vibid:4784026168478": 63,
+      "gas:candidate-vibid:4784026168523": 37,
+      "gas:candidate-vibid:4784026168506": 3,
+      "gas:candidate-vibid:4784026168588": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13906,18 +13906,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 28,
-      "Басангова Кермен Маратовна": 28,
-      "Вострецов Сергей Алексеевич": 221,
-      "Галкина Ольга Владимировна": 62,
-      "Герасимов Алексей Петрович": 22,
-      "Едрышев Владимир Павлович": 8,
-      "Замараева Анна Сергеевна": 62,
-      "Львов Илья Александрович": 9,
-      "Ольховский Александр Сергеевич": 68,
-      "Палевич Андрей Анатольевич": 38,
-      "Тарсуков Василий Васильевич": 1,
-      "Ушаков Дмитрий Владимирович": 107
+      "gas:candidate-vibid:4784026168600": 28,
+      "gas:candidate-vibid:4784026168568": 28,
+      "gas:candidate-vibid:4784026168792": 221,
+      "gas:candidate-vibid:4784026168688": 62,
+      "gas:candidate-vibid:4784026168726": 22,
+      "gas:candidate-vibid:4784026168881": 8,
+      "gas:candidate-vibid:4784026168637": 62,
+      "gas:candidate-vibid:4784026168370": 9,
+      "gas:candidate-vibid:4784026168478": 68,
+      "gas:candidate-vibid:4784026168523": 38,
+      "gas:candidate-vibid:4784026168506": 1,
+      "gas:candidate-vibid:4784026168588": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -13968,18 +13968,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 32,
-      "Басангова Кермен Маратовна": 17,
-      "Вострецов Сергей Алексеевич": 152,
-      "Галкина Ольга Владимировна": 60,
-      "Герасимов Алексей Петрович": 28,
-      "Едрышев Владимир Павлович": 9,
-      "Замараева Анна Сергеевна": 66,
-      "Львов Илья Александрович": 24,
-      "Ольховский Александр Сергеевич": 83,
-      "Палевич Андрей Анатольевич": 41,
-      "Тарсуков Василий Васильевич": 6,
-      "Ушаков Дмитрий Владимирович": 142
+      "gas:candidate-vibid:4784026168600": 32,
+      "gas:candidate-vibid:4784026168568": 17,
+      "gas:candidate-vibid:4784026168792": 152,
+      "gas:candidate-vibid:4784026168688": 60,
+      "gas:candidate-vibid:4784026168726": 28,
+      "gas:candidate-vibid:4784026168881": 9,
+      "gas:candidate-vibid:4784026168637": 66,
+      "gas:candidate-vibid:4784026168370": 24,
+      "gas:candidate-vibid:4784026168478": 83,
+      "gas:candidate-vibid:4784026168523": 41,
+      "gas:candidate-vibid:4784026168506": 6,
+      "gas:candidate-vibid:4784026168588": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14030,18 +14030,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 31,
-      "Басангова Кермен Маратовна": 20,
-      "Вострецов Сергей Алексеевич": 145,
-      "Галкина Ольга Владимировна": 48,
-      "Герасимов Алексей Петрович": 18,
-      "Едрышев Владимир Павлович": 12,
-      "Замараева Анна Сергеевна": 53,
-      "Львов Илья Александрович": 11,
-      "Ольховский Александр Сергеевич": 81,
-      "Палевич Андрей Анатольевич": 40,
-      "Тарсуков Василий Васильевич": 2,
-      "Ушаков Дмитрий Владимирович": 93
+      "gas:candidate-vibid:4784026168600": 31,
+      "gas:candidate-vibid:4784026168568": 20,
+      "gas:candidate-vibid:4784026168792": 145,
+      "gas:candidate-vibid:4784026168688": 48,
+      "gas:candidate-vibid:4784026168726": 18,
+      "gas:candidate-vibid:4784026168881": 12,
+      "gas:candidate-vibid:4784026168637": 53,
+      "gas:candidate-vibid:4784026168370": 11,
+      "gas:candidate-vibid:4784026168478": 81,
+      "gas:candidate-vibid:4784026168523": 40,
+      "gas:candidate-vibid:4784026168506": 2,
+      "gas:candidate-vibid:4784026168588": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14092,18 +14092,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 8,
-      "Басангова Кермен Маратовна": 4,
-      "Вострецов Сергей Алексеевич": 35,
-      "Галкина Ольга Владимировна": 13,
-      "Герасимов Алексей Петрович": 1,
-      "Едрышев Владимир Павлович": 1,
-      "Замараева Анна Сергеевна": 14,
-      "Львов Илья Александрович": 3,
-      "Ольховский Александр Сергеевич": 3,
-      "Палевич Андрей Анатольевич": 4,
-      "Тарсуков Василий Васильевич": 3,
-      "Ушаков Дмитрий Владимирович": 9
+      "gas:candidate-vibid:4784026168600": 8,
+      "gas:candidate-vibid:4784026168568": 4,
+      "gas:candidate-vibid:4784026168792": 35,
+      "gas:candidate-vibid:4784026168688": 13,
+      "gas:candidate-vibid:4784026168726": 1,
+      "gas:candidate-vibid:4784026168881": 1,
+      "gas:candidate-vibid:4784026168637": 14,
+      "gas:candidate-vibid:4784026168370": 3,
+      "gas:candidate-vibid:4784026168478": 3,
+      "gas:candidate-vibid:4784026168523": 4,
+      "gas:candidate-vibid:4784026168506": 3,
+      "gas:candidate-vibid:4784026168588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14154,18 +14154,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 25,
-      "Басангова Кермен Маратовна": 18,
-      "Вострецов Сергей Алексеевич": 139,
-      "Галкина Ольга Владимировна": 68,
-      "Герасимов Алексей Петрович": 34,
-      "Едрышев Владимир Павлович": 7,
-      "Замараева Анна Сергеевна": 58,
-      "Львов Илья Александрович": 11,
-      "Ольховский Александр Сергеевич": 84,
-      "Палевич Андрей Анатольевич": 40,
-      "Тарсуков Василий Васильевич": 11,
-      "Ушаков Дмитрий Владимирович": 93
+      "gas:candidate-vibid:4784026168600": 25,
+      "gas:candidate-vibid:4784026168568": 18,
+      "gas:candidate-vibid:4784026168792": 139,
+      "gas:candidate-vibid:4784026168688": 68,
+      "gas:candidate-vibid:4784026168726": 34,
+      "gas:candidate-vibid:4784026168881": 7,
+      "gas:candidate-vibid:4784026168637": 58,
+      "gas:candidate-vibid:4784026168370": 11,
+      "gas:candidate-vibid:4784026168478": 84,
+      "gas:candidate-vibid:4784026168523": 40,
+      "gas:candidate-vibid:4784026168506": 11,
+      "gas:candidate-vibid:4784026168588": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14216,18 +14216,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 29,
-      "Басангова Кермен Маратовна": 17,
-      "Вострецов Сергей Алексеевич": 166,
-      "Галкина Ольга Владимировна": 75,
-      "Герасимов Алексей Петрович": 19,
-      "Едрышев Владимир Павлович": 8,
-      "Замараева Анна Сергеевна": 65,
-      "Львов Илья Александрович": 13,
-      "Ольховский Александр Сергеевич": 83,
-      "Палевич Андрей Анатольевич": 49,
-      "Тарсуков Василий Васильевич": 11,
-      "Ушаков Дмитрий Владимирович": 110
+      "gas:candidate-vibid:4784026168600": 29,
+      "gas:candidate-vibid:4784026168568": 17,
+      "gas:candidate-vibid:4784026168792": 166,
+      "gas:candidate-vibid:4784026168688": 75,
+      "gas:candidate-vibid:4784026168726": 19,
+      "gas:candidate-vibid:4784026168881": 8,
+      "gas:candidate-vibid:4784026168637": 65,
+      "gas:candidate-vibid:4784026168370": 13,
+      "gas:candidate-vibid:4784026168478": 83,
+      "gas:candidate-vibid:4784026168523": 49,
+      "gas:candidate-vibid:4784026168506": 11,
+      "gas:candidate-vibid:4784026168588": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14278,18 +14278,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 33,
-      "Басангова Кермен Маратовна": 24,
-      "Вострецов Сергей Алексеевич": 186,
-      "Галкина Ольга Владимировна": 91,
-      "Герасимов Алексей Петрович": 26,
-      "Едрышев Владимир Павлович": 20,
-      "Замараева Анна Сергеевна": 61,
-      "Львов Илья Александрович": 29,
-      "Ольховский Александр Сергеевич": 93,
-      "Палевич Андрей Анатольевич": 61,
-      "Тарсуков Василий Васильевич": 11,
-      "Ушаков Дмитрий Владимирович": 111
+      "gas:candidate-vibid:4784026168600": 33,
+      "gas:candidate-vibid:4784026168568": 24,
+      "gas:candidate-vibid:4784026168792": 186,
+      "gas:candidate-vibid:4784026168688": 91,
+      "gas:candidate-vibid:4784026168726": 26,
+      "gas:candidate-vibid:4784026168881": 20,
+      "gas:candidate-vibid:4784026168637": 61,
+      "gas:candidate-vibid:4784026168370": 29,
+      "gas:candidate-vibid:4784026168478": 93,
+      "gas:candidate-vibid:4784026168523": 61,
+      "gas:candidate-vibid:4784026168506": 11,
+      "gas:candidate-vibid:4784026168588": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14340,18 +14340,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 35,
-      "Басангова Кермен Маратовна": 27,
-      "Вострецов Сергей Алексеевич": 193,
-      "Галкина Ольга Владимировна": 91,
-      "Герасимов Алексей Петрович": 26,
-      "Едрышев Владимир Павлович": 8,
-      "Замараева Анна Сергеевна": 55,
-      "Львов Илья Александрович": 21,
-      "Ольховский Александр Сергеевич": 85,
-      "Палевич Андрей Анатольевич": 62,
-      "Тарсуков Василий Васильевич": 7,
-      "Ушаков Дмитрий Владимирович": 131
+      "gas:candidate-vibid:4784026168600": 35,
+      "gas:candidate-vibid:4784026168568": 27,
+      "gas:candidate-vibid:4784026168792": 193,
+      "gas:candidate-vibid:4784026168688": 91,
+      "gas:candidate-vibid:4784026168726": 26,
+      "gas:candidate-vibid:4784026168881": 8,
+      "gas:candidate-vibid:4784026168637": 55,
+      "gas:candidate-vibid:4784026168370": 21,
+      "gas:candidate-vibid:4784026168478": 85,
+      "gas:candidate-vibid:4784026168523": 62,
+      "gas:candidate-vibid:4784026168506": 7,
+      "gas:candidate-vibid:4784026168588": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14402,18 +14402,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 43,
-      "Басангова Кермен Маратовна": 28,
-      "Вострецов Сергей Алексеевич": 246,
-      "Галкина Ольга Владимировна": 64,
-      "Герасимов Алексей Петрович": 28,
-      "Едрышев Владимир Павлович": 12,
-      "Замараева Анна Сергеевна": 77,
-      "Львов Илья Александрович": 26,
-      "Ольховский Александр Сергеевич": 80,
-      "Палевич Андрей Анатольевич": 65,
-      "Тарсуков Василий Васильевич": 10,
-      "Ушаков Дмитрий Владимирович": 123
+      "gas:candidate-vibid:4784026168600": 43,
+      "gas:candidate-vibid:4784026168568": 28,
+      "gas:candidate-vibid:4784026168792": 246,
+      "gas:candidate-vibid:4784026168688": 64,
+      "gas:candidate-vibid:4784026168726": 28,
+      "gas:candidate-vibid:4784026168881": 12,
+      "gas:candidate-vibid:4784026168637": 77,
+      "gas:candidate-vibid:4784026168370": 26,
+      "gas:candidate-vibid:4784026168478": 80,
+      "gas:candidate-vibid:4784026168523": 65,
+      "gas:candidate-vibid:4784026168506": 10,
+      "gas:candidate-vibid:4784026168588": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14464,18 +14464,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 27,
-      "Басангова Кермен Маратовна": 23,
-      "Вострецов Сергей Алексеевич": 115,
-      "Галкина Ольга Владимировна": 67,
-      "Герасимов Алексей Петрович": 17,
-      "Едрышев Владимир Павлович": 4,
-      "Замараева Анна Сергеевна": 68,
-      "Львов Илья Александрович": 8,
-      "Ольховский Александр Сергеевич": 49,
-      "Палевич Андрей Анатольевич": 52,
-      "Тарсуков Василий Васильевич": 9,
-      "Ушаков Дмитрий Владимирович": 110
+      "gas:candidate-vibid:4784026168600": 27,
+      "gas:candidate-vibid:4784026168568": 23,
+      "gas:candidate-vibid:4784026168792": 115,
+      "gas:candidate-vibid:4784026168688": 67,
+      "gas:candidate-vibid:4784026168726": 17,
+      "gas:candidate-vibid:4784026168881": 4,
+      "gas:candidate-vibid:4784026168637": 68,
+      "gas:candidate-vibid:4784026168370": 8,
+      "gas:candidate-vibid:4784026168478": 49,
+      "gas:candidate-vibid:4784026168523": 52,
+      "gas:candidate-vibid:4784026168506": 9,
+      "gas:candidate-vibid:4784026168588": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14526,18 +14526,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 33,
-      "Басангова Кермен Маратовна": 27,
-      "Вострецов Сергей Алексеевич": 229,
-      "Галкина Ольга Владимировна": 73,
-      "Герасимов Алексей Петрович": 34,
-      "Едрышев Владимир Павлович": 14,
-      "Замараева Анна Сергеевна": 68,
-      "Львов Илья Александрович": 16,
-      "Ольховский Александр Сергеевич": 77,
-      "Палевич Андрей Анатольевич": 40,
-      "Тарсуков Василий Васильевич": 12,
-      "Ушаков Дмитрий Владимирович": 46
+      "gas:candidate-vibid:4784026168600": 33,
+      "gas:candidate-vibid:4784026168568": 27,
+      "gas:candidate-vibid:4784026168792": 229,
+      "gas:candidate-vibid:4784026168688": 73,
+      "gas:candidate-vibid:4784026168726": 34,
+      "gas:candidate-vibid:4784026168881": 14,
+      "gas:candidate-vibid:4784026168637": 68,
+      "gas:candidate-vibid:4784026168370": 16,
+      "gas:candidate-vibid:4784026168478": 77,
+      "gas:candidate-vibid:4784026168523": 40,
+      "gas:candidate-vibid:4784026168506": 12,
+      "gas:candidate-vibid:4784026168588": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14588,18 +14588,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 8,
-      "Басангова Кермен Маратовна": 9,
-      "Вострецов Сергей Алексеевич": 413,
-      "Галкина Ольга Владимировна": 23,
-      "Герасимов Алексей Петрович": 5,
-      "Едрышев Владимир Павлович": 4,
-      "Замараева Анна Сергеевна": 9,
-      "Львов Илья Александрович": 5,
-      "Ольховский Александр Сергеевич": 5,
-      "Палевич Андрей Анатольевич": 7,
-      "Тарсуков Василий Васильевич": 0,
-      "Ушаков Дмитрий Владимирович": 2
+      "gas:candidate-vibid:4784026168600": 8,
+      "gas:candidate-vibid:4784026168568": 9,
+      "gas:candidate-vibid:4784026168792": 413,
+      "gas:candidate-vibid:4784026168688": 23,
+      "gas:candidate-vibid:4784026168726": 5,
+      "gas:candidate-vibid:4784026168881": 4,
+      "gas:candidate-vibid:4784026168637": 9,
+      "gas:candidate-vibid:4784026168370": 5,
+      "gas:candidate-vibid:4784026168478": 5,
+      "gas:candidate-vibid:4784026168523": 7,
+      "gas:candidate-vibid:4784026168506": 0,
+      "gas:candidate-vibid:4784026168588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14650,18 +14650,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 16,
-      "Басангова Кермен Маратовна": 13,
-      "Вострецов Сергей Алексеевич": 150,
-      "Галкина Ольга Владимировна": 61,
-      "Герасимов Алексей Петрович": 21,
-      "Едрышев Владимир Павлович": 2,
-      "Замараева Анна Сергеевна": 41,
-      "Львов Илья Александрович": 16,
-      "Ольховский Александр Сергеевич": 48,
-      "Палевич Андрей Анатольевич": 48,
-      "Тарсуков Василий Васильевич": 4,
-      "Ушаков Дмитрий Владимирович": 56
+      "gas:candidate-vibid:4784026168600": 16,
+      "gas:candidate-vibid:4784026168568": 13,
+      "gas:candidate-vibid:4784026168792": 150,
+      "gas:candidate-vibid:4784026168688": 61,
+      "gas:candidate-vibid:4784026168726": 21,
+      "gas:candidate-vibid:4784026168881": 2,
+      "gas:candidate-vibid:4784026168637": 41,
+      "gas:candidate-vibid:4784026168370": 16,
+      "gas:candidate-vibid:4784026168478": 48,
+      "gas:candidate-vibid:4784026168523": 48,
+      "gas:candidate-vibid:4784026168506": 4,
+      "gas:candidate-vibid:4784026168588": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14712,18 +14712,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 19,
-      "Басангова Кермен Маратовна": 11,
-      "Вострецов Сергей Алексеевич": 199,
-      "Галкина Ольга Владимировна": 56,
-      "Герасимов Алексей Петрович": 19,
-      "Едрышев Владимир Павлович": 4,
-      "Замараева Анна Сергеевна": 78,
-      "Львов Илья Александрович": 19,
-      "Ольховский Александр Сергеевич": 50,
-      "Палевич Андрей Анатольевич": 31,
-      "Тарсуков Василий Васильевич": 8,
-      "Ушаков Дмитрий Владимирович": 74
+      "gas:candidate-vibid:4784026168600": 19,
+      "gas:candidate-vibid:4784026168568": 11,
+      "gas:candidate-vibid:4784026168792": 199,
+      "gas:candidate-vibid:4784026168688": 56,
+      "gas:candidate-vibid:4784026168726": 19,
+      "gas:candidate-vibid:4784026168881": 4,
+      "gas:candidate-vibid:4784026168637": 78,
+      "gas:candidate-vibid:4784026168370": 19,
+      "gas:candidate-vibid:4784026168478": 50,
+      "gas:candidate-vibid:4784026168523": 31,
+      "gas:candidate-vibid:4784026168506": 8,
+      "gas:candidate-vibid:4784026168588": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14774,18 +14774,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 16,
-      "Басангова Кермен Маратовна": 22,
-      "Вострецов Сергей Алексеевич": 144,
-      "Галкина Ольга Владимировна": 59,
-      "Герасимов Алексей Петрович": 19,
-      "Едрышев Владимир Павлович": 2,
-      "Замараева Анна Сергеевна": 52,
-      "Львов Илья Александрович": 10,
-      "Ольховский Александр Сергеевич": 42,
-      "Палевич Андрей Анатольевич": 28,
-      "Тарсуков Василий Васильевич": 6,
-      "Ушаков Дмитрий Владимирович": 79
+      "gas:candidate-vibid:4784026168600": 16,
+      "gas:candidate-vibid:4784026168568": 22,
+      "gas:candidate-vibid:4784026168792": 144,
+      "gas:candidate-vibid:4784026168688": 59,
+      "gas:candidate-vibid:4784026168726": 19,
+      "gas:candidate-vibid:4784026168881": 2,
+      "gas:candidate-vibid:4784026168637": 52,
+      "gas:candidate-vibid:4784026168370": 10,
+      "gas:candidate-vibid:4784026168478": 42,
+      "gas:candidate-vibid:4784026168523": 28,
+      "gas:candidate-vibid:4784026168506": 6,
+      "gas:candidate-vibid:4784026168588": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14836,18 +14836,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 26,
-      "Басангова Кермен Маратовна": 26,
-      "Вострецов Сергей Алексеевич": 221,
-      "Галкина Ольга Владимировна": 75,
-      "Герасимов Алексей Петрович": 23,
-      "Едрышев Владимир Павлович": 7,
-      "Замараева Анна Сергеевна": 51,
-      "Львов Илья Александрович": 16,
-      "Ольховский Александр Сергеевич": 78,
-      "Палевич Андрей Анатольевич": 55,
-      "Тарсуков Василий Васильевич": 7,
-      "Ушаков Дмитрий Владимирович": 76
+      "gas:candidate-vibid:4784026168600": 26,
+      "gas:candidate-vibid:4784026168568": 26,
+      "gas:candidate-vibid:4784026168792": 221,
+      "gas:candidate-vibid:4784026168688": 75,
+      "gas:candidate-vibid:4784026168726": 23,
+      "gas:candidate-vibid:4784026168881": 7,
+      "gas:candidate-vibid:4784026168637": 51,
+      "gas:candidate-vibid:4784026168370": 16,
+      "gas:candidate-vibid:4784026168478": 78,
+      "gas:candidate-vibid:4784026168523": 55,
+      "gas:candidate-vibid:4784026168506": 7,
+      "gas:candidate-vibid:4784026168588": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14898,18 +14898,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 21,
-      "Басангова Кермен Маратовна": 19,
-      "Вострецов Сергей Алексеевич": 172,
-      "Галкина Ольга Владимировна": 55,
-      "Герасимов Алексей Петрович": 10,
-      "Едрышев Владимир Павлович": 8,
-      "Замараева Анна Сергеевна": 56,
-      "Львов Илья Александрович": 16,
-      "Ольховский Александр Сергеевич": 45,
-      "Палевич Андрей Анатольевич": 41,
-      "Тарсуков Василий Васильевич": 3,
-      "Ушаков Дмитрий Владимирович": 72
+      "gas:candidate-vibid:4784026168600": 21,
+      "gas:candidate-vibid:4784026168568": 19,
+      "gas:candidate-vibid:4784026168792": 172,
+      "gas:candidate-vibid:4784026168688": 55,
+      "gas:candidate-vibid:4784026168726": 10,
+      "gas:candidate-vibid:4784026168881": 8,
+      "gas:candidate-vibid:4784026168637": 56,
+      "gas:candidate-vibid:4784026168370": 16,
+      "gas:candidate-vibid:4784026168478": 45,
+      "gas:candidate-vibid:4784026168523": 41,
+      "gas:candidate-vibid:4784026168506": 3,
+      "gas:candidate-vibid:4784026168588": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -14960,18 +14960,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 19,
-      "Басангова Кермен Маратовна": 11,
-      "Вострецов Сергей Алексеевич": 170,
-      "Галкина Ольга Владимировна": 43,
-      "Герасимов Алексей Петрович": 19,
-      "Едрышев Владимир Павлович": 3,
-      "Замараева Анна Сергеевна": 55,
-      "Львов Илья Александрович": 10,
-      "Ольховский Александр Сергеевич": 66,
-      "Палевич Андрей Анатольевич": 36,
-      "Тарсуков Василий Васильевич": 4,
-      "Ушаков Дмитрий Владимирович": 83
+      "gas:candidate-vibid:4784026168600": 19,
+      "gas:candidate-vibid:4784026168568": 11,
+      "gas:candidate-vibid:4784026168792": 170,
+      "gas:candidate-vibid:4784026168688": 43,
+      "gas:candidate-vibid:4784026168726": 19,
+      "gas:candidate-vibid:4784026168881": 3,
+      "gas:candidate-vibid:4784026168637": 55,
+      "gas:candidate-vibid:4784026168370": 10,
+      "gas:candidate-vibid:4784026168478": 66,
+      "gas:candidate-vibid:4784026168523": 36,
+      "gas:candidate-vibid:4784026168506": 4,
+      "gas:candidate-vibid:4784026168588": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -15022,18 +15022,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 9,
-      "Басангова Кермен Маратовна": 11,
-      "Вострецов Сергей Алексеевич": 172,
-      "Галкина Ольга Владимировна": 30,
-      "Герасимов Алексей Петрович": 11,
-      "Едрышев Владимир Павлович": 3,
-      "Замараева Анна Сергеевна": 39,
-      "Львов Илья Александрович": 3,
-      "Ольховский Александр Сергеевич": 24,
-      "Палевич Андрей Анатольевич": 15,
-      "Тарсуков Василий Васильевич": 2,
-      "Ушаков Дмитрий Владимирович": 35
+      "gas:candidate-vibid:4784026168600": 9,
+      "gas:candidate-vibid:4784026168568": 11,
+      "gas:candidate-vibid:4784026168792": 172,
+      "gas:candidate-vibid:4784026168688": 30,
+      "gas:candidate-vibid:4784026168726": 11,
+      "gas:candidate-vibid:4784026168881": 3,
+      "gas:candidate-vibid:4784026168637": 39,
+      "gas:candidate-vibid:4784026168370": 3,
+      "gas:candidate-vibid:4784026168478": 24,
+      "gas:candidate-vibid:4784026168523": 15,
+      "gas:candidate-vibid:4784026168506": 2,
+      "gas:candidate-vibid:4784026168588": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -15084,18 +15084,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 15,
-      "Басангова Кермен Маратовна": 23,
-      "Вострецов Сергей Алексеевич": 140,
-      "Галкина Ольга Владимировна": 44,
-      "Герасимов Алексей Петрович": 18,
-      "Едрышев Владимир Павлович": 1,
-      "Замараева Анна Сергеевна": 49,
-      "Львов Илья Александрович": 10,
-      "Ольховский Александр Сергеевич": 59,
-      "Палевич Андрей Анатольевич": 24,
-      "Тарсуков Василий Васильевич": 2,
-      "Ушаков Дмитрий Владимирович": 41
+      "gas:candidate-vibid:4784026168600": 15,
+      "gas:candidate-vibid:4784026168568": 23,
+      "gas:candidate-vibid:4784026168792": 140,
+      "gas:candidate-vibid:4784026168688": 44,
+      "gas:candidate-vibid:4784026168726": 18,
+      "gas:candidate-vibid:4784026168881": 1,
+      "gas:candidate-vibid:4784026168637": 49,
+      "gas:candidate-vibid:4784026168370": 10,
+      "gas:candidate-vibid:4784026168478": 59,
+      "gas:candidate-vibid:4784026168523": 24,
+      "gas:candidate-vibid:4784026168506": 2,
+      "gas:candidate-vibid:4784026168588": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -15146,18 +15146,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 71,
-      "Басангова Кермен Маратовна": 40,
-      "Вострецов Сергей Алексеевич": 319,
-      "Галкина Ольга Владимировна": 61,
-      "Герасимов Алексей Петрович": 46,
-      "Едрышев Владимир Павлович": 16,
-      "Замараева Анна Сергеевна": 125,
-      "Львов Илья Александрович": 18,
-      "Ольховский Александр Сергеевич": 61,
-      "Палевич Андрей Анатольевич": 26,
-      "Тарсуков Василий Васильевич": 5,
-      "Ушаков Дмитрий Владимирович": 96
+      "gas:candidate-vibid:4784026168600": 71,
+      "gas:candidate-vibid:4784026168568": 40,
+      "gas:candidate-vibid:4784026168792": 319,
+      "gas:candidate-vibid:4784026168688": 61,
+      "gas:candidate-vibid:4784026168726": 46,
+      "gas:candidate-vibid:4784026168881": 16,
+      "gas:candidate-vibid:4784026168637": 125,
+      "gas:candidate-vibid:4784026168370": 18,
+      "gas:candidate-vibid:4784026168478": 61,
+      "gas:candidate-vibid:4784026168523": 26,
+      "gas:candidate-vibid:4784026168506": 5,
+      "gas:candidate-vibid:4784026168588": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -15208,18 +15208,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 34,
-      "Басангова Кермен Маратовна": 22,
-      "Вострецов Сергей Алексеевич": 212,
-      "Галкина Ольга Владимировна": 75,
-      "Герасимов Алексей Петрович": 24,
-      "Едрышев Владимир Павлович": 16,
-      "Замараева Анна Сергеевна": 67,
-      "Львов Илья Александрович": 9,
-      "Ольховский Александр Сергеевич": 84,
-      "Палевич Андрей Анатольевич": 41,
-      "Тарсуков Василий Васильевич": 11,
-      "Ушаков Дмитрий Владимирович": 104
+      "gas:candidate-vibid:4784026168600": 34,
+      "gas:candidate-vibid:4784026168568": 22,
+      "gas:candidate-vibid:4784026168792": 212,
+      "gas:candidate-vibid:4784026168688": 75,
+      "gas:candidate-vibid:4784026168726": 24,
+      "gas:candidate-vibid:4784026168881": 16,
+      "gas:candidate-vibid:4784026168637": 67,
+      "gas:candidate-vibid:4784026168370": 9,
+      "gas:candidate-vibid:4784026168478": 84,
+      "gas:candidate-vibid:4784026168523": 41,
+      "gas:candidate-vibid:4784026168506": 11,
+      "gas:candidate-vibid:4784026168588": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",
@@ -15270,18 +15270,18 @@ export const duma_2016_uik_463_region_78_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Баранюк Александр Дмитриевич": 19,
-      "Басангова Кермен Маратовна": 22,
-      "Вострецов Сергей Алексеевич": 105,
-      "Галкина Ольга Владимировна": 35,
-      "Герасимов Алексей Петрович": 9,
-      "Едрышев Владимир Павлович": 4,
-      "Замараева Анна Сергеевна": 48,
-      "Львов Илья Александрович": 4,
-      "Ольховский Александр Сергеевич": 45,
-      "Палевич Андрей Анатольевич": 16,
-      "Тарсуков Василий Васильевич": 4,
-      "Ушаков Дмитрий Владимирович": 26
+      "gas:candidate-vibid:4784026168600": 19,
+      "gas:candidate-vibid:4784026168568": 22,
+      "gas:candidate-vibid:4784026168792": 105,
+      "gas:candidate-vibid:4784026168688": 35,
+      "gas:candidate-vibid:4784026168726": 9,
+      "gas:candidate-vibid:4784026168881": 4,
+      "gas:candidate-vibid:4784026168637": 48,
+      "gas:candidate-vibid:4784026168370": 4,
+      "gas:candidate-vibid:4784026168478": 45,
+      "gas:candidate-vibid:4784026168523": 16,
+      "gas:candidate-vibid:4784026168506": 4,
+      "gas:candidate-vibid:4784026168588": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/st-petersburg?action=show&root=1000277&tvd=2782000678272&vrn=100100067795849&region=78&global=&sub_region=78&prver=0&pronetvd=null&vibid=2782000678272&type=464",

@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 351,
-      "Барсуков Николай Александрович": 54,
-      "Вотинцев Алексей Владимирович": 84,
-      "Мальцев Александр Николаевич": 63,
-      "Орлов Андрей Евгеньевич": 16,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 21
+      "gas:candidate-vibid:2432000880419": 351,
+      "gas:candidate-vibid:2432000869611": 54,
+      "gas:candidate-vibid:2432000872151": 84,
+      "gas:candidate-vibid:2432000871789": 63,
+      "gas:candidate-vibid:2432000886353": 16,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 305,
-      "Барсуков Николай Александрович": 55,
-      "Вотинцев Алексей Владимирович": 123,
-      "Мальцев Александр Николаевич": 96,
-      "Орлов Андрей Евгеньевич": 20,
-      "Перов Андрей Игоревич": 16,
-      "Рогожкин Сергей Валентинович": 19
+      "gas:candidate-vibid:2432000880419": 305,
+      "gas:candidate-vibid:2432000869611": 55,
+      "gas:candidate-vibid:2432000872151": 123,
+      "gas:candidate-vibid:2432000871789": 96,
+      "gas:candidate-vibid:2432000886353": 20,
+      "gas:candidate-vibid:2432000880430": 16,
+      "gas:candidate-vibid:2432000872588": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 348,
-      "Барсуков Николай Александрович": 76,
-      "Вотинцев Алексей Владимирович": 93,
-      "Мальцев Александр Николаевич": 104,
-      "Орлов Андрей Евгеньевич": 28,
-      "Перов Андрей Игоревич": 17,
-      "Рогожкин Сергей Валентинович": 32
+      "gas:candidate-vibid:2432000880419": 348,
+      "gas:candidate-vibid:2432000869611": 76,
+      "gas:candidate-vibid:2432000872151": 93,
+      "gas:candidate-vibid:2432000871789": 104,
+      "gas:candidate-vibid:2432000886353": 28,
+      "gas:candidate-vibid:2432000880430": 17,
+      "gas:candidate-vibid:2432000872588": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 299,
-      "Барсуков Николай Александрович": 42,
-      "Вотинцев Алексей Владимирович": 117,
-      "Мальцев Александр Николаевич": 104,
-      "Орлов Андрей Евгеньевич": 15,
-      "Перов Андрей Игоревич": 19,
-      "Рогожкин Сергей Валентинович": 16
+      "gas:candidate-vibid:2432000880419": 299,
+      "gas:candidate-vibid:2432000869611": 42,
+      "gas:candidate-vibid:2432000872151": 117,
+      "gas:candidate-vibid:2432000871789": 104,
+      "gas:candidate-vibid:2432000886353": 15,
+      "gas:candidate-vibid:2432000880430": 19,
+      "gas:candidate-vibid:2432000872588": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773491&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773491&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 18,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 17,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 18,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 17,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 40,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 5,
-      "Мальцев Александр Николаевич": 5,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 40,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 5,
+      "gas:candidate-vibid:2432000871789": 5,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 69,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 13,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 69,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 13,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 117,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 26,
-      "Мальцев Александр Николаевич": 32,
-      "Орлов Андрей Евгеньевич": 7,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 117,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 26,
+      "gas:candidate-vibid:2432000871789": 32,
+      "gas:candidate-vibid:2432000886353": 7,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 129,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 21,
-      "Мальцев Александр Николаевич": 23,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 129,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 21,
+      "gas:candidate-vibid:2432000871789": 23,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 64,
-      "Барсуков Николай Александрович": 22,
-      "Вотинцев Алексей Владимирович": 28,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 64,
+      "gas:candidate-vibid:2432000869611": 22,
+      "gas:candidate-vibid:2432000872151": 28,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 318,
-      "Барсуков Николай Александрович": 41,
-      "Вотинцев Алексей Владимирович": 96,
-      "Мальцев Александр Николаевич": 37,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 12
+      "gas:candidate-vibid:2432000880419": 318,
+      "gas:candidate-vibid:2432000869611": 41,
+      "gas:candidate-vibid:2432000872151": 96,
+      "gas:candidate-vibid:2432000871789": 37,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 175,
-      "Барсуков Николай Александрович": 15,
-      "Вотинцев Алексей Владимирович": 40,
-      "Мальцев Александр Николаевич": 37,
-      "Орлов Андрей Евгеньевич": 12,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 175,
+      "gas:candidate-vibid:2432000869611": 15,
+      "gas:candidate-vibid:2432000872151": 40,
+      "gas:candidate-vibid:2432000871789": 37,
+      "gas:candidate-vibid:2432000886353": 12,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 275,
-      "Барсуков Николай Александрович": 29,
-      "Вотинцев Алексей Владимирович": 82,
-      "Мальцев Александр Николаевич": 62,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 275,
+      "gas:candidate-vibid:2432000869611": 29,
+      "gas:candidate-vibid:2432000872151": 82,
+      "gas:candidate-vibid:2432000871789": 62,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 323,
-      "Барсуков Николай Александрович": 26,
-      "Вотинцев Алексей Владимирович": 93,
-      "Мальцев Александр Николаевич": 41,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 15
+      "gas:candidate-vibid:2432000880419": 323,
+      "gas:candidate-vibid:2432000869611": 26,
+      "gas:candidate-vibid:2432000872151": 93,
+      "gas:candidate-vibid:2432000871789": 41,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 265,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 60,
-      "Мальцев Александр Николаевич": 44,
-      "Орлов Андрей Евгеньевич": 14,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 15
+      "gas:candidate-vibid:2432000880419": 265,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 60,
+      "gas:candidate-vibid:2432000871789": 44,
+      "gas:candidate-vibid:2432000886353": 14,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 300,
-      "Барсуков Николай Александрович": 29,
-      "Вотинцев Алексей Владимирович": 76,
-      "Мальцев Александр Николаевич": 61,
-      "Орлов Андрей Евгеньевич": 22,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 20
+      "gas:candidate-vibid:2432000880419": 300,
+      "gas:candidate-vibid:2432000869611": 29,
+      "gas:candidate-vibid:2432000872151": 76,
+      "gas:candidate-vibid:2432000871789": 61,
+      "gas:candidate-vibid:2432000886353": 22,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 76,
-      "Барсуков Николай Александрович": 8,
-      "Вотинцев Алексей Владимирович": 19,
-      "Мальцев Александр Николаевич": 16,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 76,
+      "gas:candidate-vibid:2432000869611": 8,
+      "gas:candidate-vibid:2432000872151": 19,
+      "gas:candidate-vibid:2432000871789": 16,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 205,
-      "Барсуков Николай Александрович": 13,
-      "Вотинцев Алексей Владимирович": 29,
-      "Мальцев Александр Николаевич": 29,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 205,
+      "gas:candidate-vibid:2432000869611": 13,
+      "gas:candidate-vibid:2432000872151": 29,
+      "gas:candidate-vibid:2432000871789": 29,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 155,
-      "Барсуков Николай Александрович": 20,
-      "Вотинцев Алексей Владимирович": 41,
-      "Мальцев Александр Николаевич": 44,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 155,
+      "gas:candidate-vibid:2432000869611": 20,
+      "gas:candidate-vibid:2432000872151": 41,
+      "gas:candidate-vibid:2432000871789": 44,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 62,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 20,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 1
+      "gas:candidate-vibid:2432000880419": 62,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 20,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 31,
-      "Барсуков Николай Александрович": 1,
-      "Вотинцев Алексей Владимирович": 8,
-      "Мальцев Александр Николаевич": 1,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 31,
+      "gas:candidate-vibid:2432000869611": 1,
+      "gas:candidate-vibid:2432000872151": 8,
+      "gas:candidate-vibid:2432000871789": 1,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 73,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 35,
-      "Мальцев Александр Николаевич": 21,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 73,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 35,
+      "gas:candidate-vibid:2432000871789": 21,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 69,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 69,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 63,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 19,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 63,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 19,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773492&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773492&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 139,
-      "Барсуков Николай Александрович": 26,
-      "Вотинцев Алексей Владимирович": 29,
-      "Мальцев Александр Николаевич": 22,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 139,
+      "gas:candidate-vibid:2432000869611": 26,
+      "gas:candidate-vibid:2432000872151": 29,
+      "gas:candidate-vibid:2432000871789": 22,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 119,
-      "Барсуков Николай Александрович": 24,
-      "Вотинцев Алексей Владимирович": 32,
-      "Мальцев Александр Николаевич": 38,
-      "Орлов Андрей Евгеньевич": 12,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 119,
+      "gas:candidate-vibid:2432000869611": 24,
+      "gas:candidate-vibid:2432000872151": 32,
+      "gas:candidate-vibid:2432000871789": 38,
+      "gas:candidate-vibid:2432000886353": 12,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 70,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 25,
-      "Мальцев Александр Николаевич": 22,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 70,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 25,
+      "gas:candidate-vibid:2432000871789": 22,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 104,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 104,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 139,
-      "Барсуков Николай Александрович": 21,
-      "Вотинцев Алексей Владимирович": 26,
-      "Мальцев Александр Николаевич": 52,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 20
+      "gas:candidate-vibid:2432000880419": 139,
+      "gas:candidate-vibid:2432000869611": 21,
+      "gas:candidate-vibid:2432000872151": 26,
+      "gas:candidate-vibid:2432000871789": 52,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 149,
-      "Барсуков Николай Александрович": 20,
-      "Вотинцев Алексей Владимирович": 36,
-      "Мальцев Александр Николаевич": 58,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 11
+      "gas:candidate-vibid:2432000880419": 149,
+      "gas:candidate-vibid:2432000869611": 20,
+      "gas:candidate-vibid:2432000872151": 36,
+      "gas:candidate-vibid:2432000871789": 58,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 69,
-      "Барсуков Николай Александрович": 11,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 25,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 69,
+      "gas:candidate-vibid:2432000869611": 11,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 25,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 51,
-      "Барсуков Николай Александрович": 5,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 51,
+      "gas:candidate-vibid:2432000869611": 5,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 62,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 9,
-      "Мальцев Александр Николаевич": 11,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 62,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 9,
+      "gas:candidate-vibid:2432000871789": 11,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 184,
-      "Барсуков Николай Александрович": 71,
-      "Вотинцев Алексей Владимирович": 69,
-      "Мальцев Александр Николаевич": 81,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 19
+      "gas:candidate-vibid:2432000880419": 184,
+      "gas:candidate-vibid:2432000869611": 71,
+      "gas:candidate-vibid:2432000872151": 69,
+      "gas:candidate-vibid:2432000871789": 81,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 178,
-      "Барсуков Николай Александрович": 52,
-      "Вотинцев Алексей Владимирович": 56,
-      "Мальцев Александр Николаевич": 109,
-      "Орлов Андрей Евгеньевич": 27,
-      "Перов Андрей Игоревич": 17,
-      "Рогожкин Сергей Валентинович": 18
+      "gas:candidate-vibid:2432000880419": 178,
+      "gas:candidate-vibid:2432000869611": 52,
+      "gas:candidate-vibid:2432000872151": 56,
+      "gas:candidate-vibid:2432000871789": 109,
+      "gas:candidate-vibid:2432000886353": 27,
+      "gas:candidate-vibid:2432000880430": 17,
+      "gas:candidate-vibid:2432000872588": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 220,
-      "Барсуков Николай Александрович": 45,
-      "Вотинцев Алексей Владимирович": 50,
-      "Мальцев Александр Николаевич": 103,
-      "Орлов Андрей Евгеньевич": 32,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 30
+      "gas:candidate-vibid:2432000880419": 220,
+      "gas:candidate-vibid:2432000869611": 45,
+      "gas:candidate-vibid:2432000872151": 50,
+      "gas:candidate-vibid:2432000871789": 103,
+      "gas:candidate-vibid:2432000886353": 32,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 411,
-      "Барсуков Николай Александрович": 68,
-      "Вотинцев Алексей Владимирович": 105,
-      "Мальцев Александр Николаевич": 224,
-      "Орлов Андрей Евгеньевич": 37,
-      "Перов Андрей Игоревич": 24,
-      "Рогожкин Сергей Валентинович": 36
+      "gas:candidate-vibid:2432000880419": 411,
+      "gas:candidate-vibid:2432000869611": 68,
+      "gas:candidate-vibid:2432000872151": 105,
+      "gas:candidate-vibid:2432000871789": 224,
+      "gas:candidate-vibid:2432000886353": 37,
+      "gas:candidate-vibid:2432000880430": 24,
+      "gas:candidate-vibid:2432000872588": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 225,
-      "Барсуков Николай Александрович": 52,
-      "Вотинцев Алексей Владимирович": 108,
-      "Мальцев Александр Николаевич": 144,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 10,
-      "Рогожкин Сергей Валентинович": 26
+      "gas:candidate-vibid:2432000880419": 225,
+      "gas:candidate-vibid:2432000869611": 52,
+      "gas:candidate-vibid:2432000872151": 108,
+      "gas:candidate-vibid:2432000871789": 144,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 10,
+      "gas:candidate-vibid:2432000872588": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 405,
-      "Барсуков Николай Александрович": 63,
-      "Вотинцев Алексей Владимирович": 100,
-      "Мальцев Александр Николаевич": 158,
-      "Орлов Андрей Евгеньевич": 32,
-      "Перов Андрей Игоревич": 20,
-      "Рогожкин Сергей Валентинович": 29
+      "gas:candidate-vibid:2432000880419": 405,
+      "gas:candidate-vibid:2432000869611": 63,
+      "gas:candidate-vibid:2432000872151": 100,
+      "gas:candidate-vibid:2432000871789": 158,
+      "gas:candidate-vibid:2432000886353": 32,
+      "gas:candidate-vibid:2432000880430": 20,
+      "gas:candidate-vibid:2432000872588": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 340,
-      "Барсуков Николай Александрович": 65,
-      "Вотинцев Алексей Владимирович": 83,
-      "Мальцев Александр Николаевич": 97,
-      "Орлов Андрей Евгеньевич": 22,
-      "Перов Андрей Игоревич": 18,
-      "Рогожкин Сергей Валентинович": 22
+      "gas:candidate-vibid:2432000880419": 340,
+      "gas:candidate-vibid:2432000869611": 65,
+      "gas:candidate-vibid:2432000872151": 83,
+      "gas:candidate-vibid:2432000871789": 97,
+      "gas:candidate-vibid:2432000886353": 22,
+      "gas:candidate-vibid:2432000880430": 18,
+      "gas:candidate-vibid:2432000872588": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 143,
-      "Барсуков Николай Александрович": 20,
-      "Вотинцев Алексей Владимирович": 30,
-      "Мальцев Александр Николаевич": 44,
-      "Орлов Андрей Евгеньевич": 17,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 16
+      "gas:candidate-vibid:2432000880419": 143,
+      "gas:candidate-vibid:2432000869611": 20,
+      "gas:candidate-vibid:2432000872151": 30,
+      "gas:candidate-vibid:2432000871789": 44,
+      "gas:candidate-vibid:2432000886353": 17,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 351,
-      "Барсуков Николай Александрович": 43,
-      "Вотинцев Алексей Владимирович": 46,
-      "Мальцев Александр Николаевич": 47,
-      "Орлов Андрей Евгеньевич": 16,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 351,
+      "gas:candidate-vibid:2432000869611": 43,
+      "gas:candidate-vibid:2432000872151": 46,
+      "gas:candidate-vibid:2432000871789": 47,
+      "gas:candidate-vibid:2432000886353": 16,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 201,
-      "Барсуков Николай Александрович": 24,
-      "Вотинцев Алексей Владимирович": 38,
-      "Мальцев Александр Николаевич": 58,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 13
+      "gas:candidate-vibid:2432000880419": 201,
+      "gas:candidate-vibid:2432000869611": 24,
+      "gas:candidate-vibid:2432000872151": 38,
+      "gas:candidate-vibid:2432000871789": 58,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 82,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 10,
-      "Мальцев Александр Николаевич": 16,
-      "Орлов Андрей Евгеньевич": 10,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 82,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 10,
+      "gas:candidate-vibid:2432000871789": 16,
+      "gas:candidate-vibid:2432000886353": 10,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 87,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 22,
-      "Мальцев Александр Николаевич": 24,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 87,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 22,
+      "gas:candidate-vibid:2432000871789": 24,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 115,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 28,
-      "Мальцев Александр Николаевич": 24,
-      "Орлов Андрей Евгеньевич": 2,
-      "Перов Андрей Игоревич": 8,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 115,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 28,
+      "gas:candidate-vibid:2432000871789": 24,
+      "gas:candidate-vibid:2432000886353": 2,
+      "gas:candidate-vibid:2432000880430": 8,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 160,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 32,
-      "Мальцев Александр Николаевич": 26,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 10
+      "gas:candidate-vibid:2432000880419": 160,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 32,
+      "gas:candidate-vibid:2432000871789": 26,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 120,
-      "Барсуков Николай Александрович": 25,
-      "Вотинцев Алексей Владимирович": 40,
-      "Мальцев Александр Николаевич": 30,
-      "Орлов Андрей Евгеньевич": 13,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 120,
+      "gas:candidate-vibid:2432000869611": 25,
+      "gas:candidate-vibid:2432000872151": 40,
+      "gas:candidate-vibid:2432000871789": 30,
+      "gas:candidate-vibid:2432000886353": 13,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 75,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 27,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 75,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 27,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 145,
-      "Барсуков Николай Александрович": 14,
-      "Вотинцев Алексей Владимирович": 13,
-      "Мальцев Александр Николаевич": 19,
-      "Орлов Андрей Евгеньевич": 10,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 145,
+      "gas:candidate-vibid:2432000869611": 14,
+      "gas:candidate-vibid:2432000872151": 13,
+      "gas:candidate-vibid:2432000871789": 19,
+      "gas:candidate-vibid:2432000886353": 10,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 150,
-      "Барсуков Николай Александрович": 18,
-      "Вотинцев Алексей Владимирович": 28,
-      "Мальцев Александр Николаевич": 50,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 150,
+      "gas:candidate-vibid:2432000869611": 18,
+      "gas:candidate-vibid:2432000872151": 28,
+      "gas:candidate-vibid:2432000871789": 50,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 92,
-      "Барсуков Николай Александрович": 17,
-      "Вотинцев Алексей Владимирович": 28,
-      "Мальцев Александр Николаевич": 31,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 92,
+      "gas:candidate-vibid:2432000869611": 17,
+      "gas:candidate-vibid:2432000872151": 28,
+      "gas:candidate-vibid:2432000871789": 31,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 105,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 16,
-      "Мальцев Александр Николаевич": 41,
-      "Орлов Андрей Евгеньевич": 8,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 12
+      "gas:candidate-vibid:2432000880419": 105,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 16,
+      "gas:candidate-vibid:2432000871789": 41,
+      "gas:candidate-vibid:2432000886353": 8,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 113,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 23,
-      "Мальцев Александр Николаевич": 23,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 113,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 23,
+      "gas:candidate-vibid:2432000871789": 23,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 68,
-      "Барсуков Николай Александрович": 7,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 68,
+      "gas:candidate-vibid:2432000869611": 7,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 82,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 18,
-      "Мальцев Александр Николаевич": 16,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 82,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 18,
+      "gas:candidate-vibid:2432000871789": 16,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773493&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773493&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 275,
-      "Барсуков Николай Александрович": 45,
-      "Вотинцев Алексей Владимирович": 59,
-      "Мальцев Александр Николаевич": 58,
-      "Орлов Андрей Евгеньевич": 15,
-      "Перов Андрей Игоревич": 4,
-      "Рогожкин Сергей Валентинович": 25
+      "gas:candidate-vibid:2432000880419": 275,
+      "gas:candidate-vibid:2432000869611": 45,
+      "gas:candidate-vibid:2432000872151": 59,
+      "gas:candidate-vibid:2432000871789": 58,
+      "gas:candidate-vibid:2432000886353": 15,
+      "gas:candidate-vibid:2432000880430": 4,
+      "gas:candidate-vibid:2432000872588": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 560,
-      "Барсуков Николай Александрович": 96,
-      "Вотинцев Алексей Владимирович": 136,
-      "Мальцев Александр Николаевич": 109,
-      "Орлов Андрей Евгеньевич": 25,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 28
+      "gas:candidate-vibid:2432000880419": 560,
+      "gas:candidate-vibid:2432000869611": 96,
+      "gas:candidate-vibid:2432000872151": 136,
+      "gas:candidate-vibid:2432000871789": 109,
+      "gas:candidate-vibid:2432000886353": 25,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 72,
-      "Барсуков Николай Александрович": 12,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 72,
+      "gas:candidate-vibid:2432000869611": 12,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 126,
-      "Барсуков Николай Александрович": 13,
-      "Вотинцев Алексей Владимирович": 15,
-      "Мальцев Александр Николаевич": 16,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 7
+      "gas:candidate-vibid:2432000880419": 126,
+      "gas:candidate-vibid:2432000869611": 13,
+      "gas:candidate-vibid:2432000872151": 15,
+      "gas:candidate-vibid:2432000871789": 16,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 85,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 13,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 85,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 13,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 52,
-      "Барсуков Николай Александрович": 6,
-      "Вотинцев Алексей Владимирович": 7,
-      "Мальцев Александр Николаевич": 9,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 52,
+      "gas:candidate-vibid:2432000869611": 6,
+      "gas:candidate-vibid:2432000872151": 7,
+      "gas:candidate-vibid:2432000871789": 9,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 234,
-      "Барсуков Николай Александрович": 43,
-      "Вотинцев Алексей Владимирович": 48,
-      "Мальцев Александр Николаевич": 36,
-      "Орлов Андрей Евгеньевич": 6,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 234,
+      "gas:candidate-vibid:2432000869611": 43,
+      "gas:candidate-vibid:2432000872151": 48,
+      "gas:candidate-vibid:2432000871789": 36,
+      "gas:candidate-vibid:2432000886353": 6,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 156,
-      "Барсуков Николай Александрович": 31,
-      "Вотинцев Алексей Владимирович": 46,
-      "Мальцев Александр Николаевич": 41,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 156,
+      "gas:candidate-vibid:2432000869611": 31,
+      "gas:candidate-vibid:2432000872151": 46,
+      "gas:candidate-vibid:2432000871789": 41,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 336,
-      "Барсуков Николай Александрович": 65,
-      "Вотинцев Алексей Владимирович": 78,
-      "Мальцев Александр Николаевич": 93,
-      "Орлов Андрей Евгеньевич": 12,
-      "Перов Андрей Игоревич": 9,
-      "Рогожкин Сергей Валентинович": 20
+      "gas:candidate-vibid:2432000880419": 336,
+      "gas:candidate-vibid:2432000869611": 65,
+      "gas:candidate-vibid:2432000872151": 78,
+      "gas:candidate-vibid:2432000871789": 93,
+      "gas:candidate-vibid:2432000886353": 12,
+      "gas:candidate-vibid:2432000880430": 9,
+      "gas:candidate-vibid:2432000872588": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 395,
-      "Барсуков Николай Александрович": 47,
-      "Вотинцев Алексей Владимирович": 94,
-      "Мальцев Александр Николаевич": 116,
-      "Орлов Андрей Евгеньевич": 11,
-      "Перов Андрей Игоревич": 6,
-      "Рогожкин Сергей Валентинович": 23
+      "gas:candidate-vibid:2432000880419": 395,
+      "gas:candidate-vibid:2432000869611": 47,
+      "gas:candidate-vibid:2432000872151": 94,
+      "gas:candidate-vibid:2432000871789": 116,
+      "gas:candidate-vibid:2432000886353": 11,
+      "gas:candidate-vibid:2432000880430": 6,
+      "gas:candidate-vibid:2432000872588": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 118,
-      "Барсуков Николай Александрович": 9,
-      "Вотинцев Алексей Владимирович": 12,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 0,
-      "Рогожкин Сергей Валентинович": 4
+      "gas:candidate-vibid:2432000880419": 118,
+      "gas:candidate-vibid:2432000869611": 9,
+      "gas:candidate-vibid:2432000872151": 12,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 0,
+      "gas:candidate-vibid:2432000872588": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 136,
-      "Барсуков Николай Александрович": 16,
-      "Вотинцев Алексей Владимирович": 14,
-      "Мальцев Александр Николаевич": 14,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 6
+      "gas:candidate-vibid:2432000880419": 136,
+      "gas:candidate-vibid:2432000869611": 16,
+      "gas:candidate-vibid:2432000872151": 14,
+      "gas:candidate-vibid:2432000871789": 14,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 141,
-      "Барсуков Николай Александрович": 19,
-      "Вотинцев Алексей Владимирович": 31,
-      "Мальцев Александр Николаевич": 30,
-      "Орлов Андрей Евгеньевич": 3,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 141,
+      "gas:candidate-vibid:2432000869611": 19,
+      "gas:candidate-vibid:2432000872151": 31,
+      "gas:candidate-vibid:2432000871789": 30,
+      "gas:candidate-vibid:2432000886353": 3,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 94,
-      "Барсуков Николай Александрович": 10,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 10,
-      "Орлов Андрей Евгеньевич": 1,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 2
+      "gas:candidate-vibid:2432000880419": 94,
+      "gas:candidate-vibid:2432000869611": 10,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 10,
+      "gas:candidate-vibid:2432000886353": 1,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 50,
-      "Барсуков Николай Александрович": 18,
-      "Вотинцев Алексей Владимирович": 20,
-      "Мальцев Александр Николаевич": 12,
-      "Орлов Андрей Евгеньевич": 5,
-      "Перов Андрей Игоревич": 2,
-      "Рогожкин Сергей Валентинович": 8
+      "gas:candidate-vibid:2432000880419": 50,
+      "gas:candidate-vibid:2432000869611": 18,
+      "gas:candidate-vibid:2432000872151": 20,
+      "gas:candidate-vibid:2432000871789": 12,
+      "gas:candidate-vibid:2432000886353": 5,
+      "gas:candidate-vibid:2432000880430": 2,
+      "gas:candidate-vibid:2432000872588": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 184,
-      "Барсуков Николай Александрович": 23,
-      "Вотинцев Алексей Владимирович": 19,
-      "Мальцев Александр Николаевич": 18,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 7,
-      "Рогожкин Сергей Валентинович": 9
+      "gas:candidate-vibid:2432000880419": 184,
+      "gas:candidate-vibid:2432000869611": 23,
+      "gas:candidate-vibid:2432000872151": 19,
+      "gas:candidate-vibid:2432000871789": 18,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 7,
+      "gas:candidate-vibid:2432000872588": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 112,
-      "Барсуков Николай Александрович": 18,
-      "Вотинцев Алексей Владимирович": 15,
-      "Мальцев Александр Николаевич": 31,
-      "Орлов Андрей Евгеньевич": 9,
-      "Перов Андрей Игоревич": 5,
-      "Рогожкин Сергей Валентинович": 5
+      "gas:candidate-vibid:2432000880419": 112,
+      "gas:candidate-vibid:2432000869611": 18,
+      "gas:candidate-vibid:2432000872151": 15,
+      "gas:candidate-vibid:2432000871789": 31,
+      "gas:candidate-vibid:2432000886353": 9,
+      "gas:candidate-vibid:2432000880430": 5,
+      "gas:candidate-vibid:2432000872588": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 106,
-      "Барсуков Николай Александрович": 4,
-      "Вотинцев Алексей Владимирович": 21,
-      "Мальцев Александр Николаевич": 13,
-      "Орлов Андрей Евгеньевич": 4,
-      "Перов Андрей Игоревич": 3,
-      "Рогожкин Сергей Валентинович": 3
+      "gas:candidate-vibid:2432000880419": 106,
+      "gas:candidate-vibid:2432000869611": 4,
+      "gas:candidate-vibid:2432000872151": 21,
+      "gas:candidate-vibid:2432000871789": 13,
+      "gas:candidate-vibid:2432000886353": 4,
+      "gas:candidate-vibid:2432000880430": 3,
+      "gas:candidate-vibid:2432000872588": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Азимов Рахим Азизбоевич": 55,
-      "Барсуков Николай Александрович": 12,
-      "Вотинцев Алексей Владимирович": 4,
-      "Мальцев Александр Николаевич": 6,
-      "Орлов Андрей Евгеньевич": 0,
-      "Перов Андрей Игоревич": 1,
-      "Рогожкин Сергей Валентинович": 0
+      "gas:candidate-vibid:2432000880419": 55,
+      "gas:candidate-vibid:2432000869611": 12,
+      "gas:candidate-vibid:2432000872151": 4,
+      "gas:candidate-vibid:2432000871789": 6,
+      "gas:candidate-vibid:2432000886353": 0,
+      "gas:candidate-vibid:2432000880430": 1,
+      "gas:candidate-vibid:2432000872588": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000137&tvd=2432000773497&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773497&type=464",
@@ -4318,15 +4318,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 135,
-      "Доронин Сергей Александрович": 61,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 49,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 81,
-      "Порческу Владимир Васильевич": 9,
-      "Шаклеина Ольга Анатольевна": 11
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 135,
+      "gas:candidate-vibid:2432000871800": 61,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 49,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 81,
+      "gas:candidate-vibid:2432000869622": 9,
+      "gas:candidate-vibid:2432000882694": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4377,15 +4377,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 221,
-      "Доронин Сергей Александрович": 172,
-      "Кассин Олег Валерьевич": 6,
-      "Костин Владимир Александрович": 86,
-      "Лугинин Федор Васильевич": 8,
-      "Мамаев Сергей Павлинович": 144,
-      "Порческу Владимир Васильевич": 18,
-      "Шаклеина Ольга Анатольевна": 24
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 221,
+      "gas:candidate-vibid:2432000871800": 172,
+      "gas:candidate-vibid:2432000874707": 6,
+      "gas:candidate-vibid:2432000825885": 86,
+      "gas:candidate-vibid:2432000880441": 8,
+      "gas:candidate-vibid:2432000872173": 144,
+      "gas:candidate-vibid:2432000869622": 18,
+      "gas:candidate-vibid:2432000882694": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4436,15 +4436,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 151,
-      "Доронин Сергей Александрович": 96,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 77,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 88,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 18
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 151,
+      "gas:candidate-vibid:2432000871800": 96,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 77,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 88,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4495,15 +4495,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 131,
-      "Доронин Сергей Александрович": 93,
-      "Кассин Олег Валерьевич": 6,
-      "Костин Владимир Александрович": 68,
-      "Лугинин Федор Васильевич": 6,
-      "Мамаев Сергей Павлинович": 85,
-      "Порческу Владимир Васильевич": 10,
-      "Шаклеина Ольга Анатольевна": 11
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 131,
+      "gas:candidate-vibid:2432000871800": 93,
+      "gas:candidate-vibid:2432000874707": 6,
+      "gas:candidate-vibid:2432000825885": 68,
+      "gas:candidate-vibid:2432000880441": 6,
+      "gas:candidate-vibid:2432000872173": 85,
+      "gas:candidate-vibid:2432000869622": 10,
+      "gas:candidate-vibid:2432000882694": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4554,15 +4554,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 9,
-      "Валенчук Олег Дорианович": 218,
-      "Доронин Сергей Александрович": 115,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 80,
-      "Лугинин Федор Васильевич": 10,
-      "Мамаев Сергей Павлинович": 122,
-      "Порческу Владимир Васильевич": 20,
-      "Шаклеина Ольга Анатольевна": 30
+      "gas:candidate-vibid:2432000889127": 9,
+      "gas:candidate-vibid:2432000872162": 218,
+      "gas:candidate-vibid:2432000871800": 115,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 80,
+      "gas:candidate-vibid:2432000880441": 10,
+      "gas:candidate-vibid:2432000872173": 122,
+      "gas:candidate-vibid:2432000869622": 20,
+      "gas:candidate-vibid:2432000882694": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4613,15 +4613,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 180,
-      "Доронин Сергей Александрович": 92,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 54,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 81,
-      "Порческу Владимир Васильевич": 14,
-      "Шаклеина Ольга Анатольевна": 16
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 180,
+      "gas:candidate-vibid:2432000871800": 92,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 54,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 81,
+      "gas:candidate-vibid:2432000869622": 14,
+      "gas:candidate-vibid:2432000882694": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4672,15 +4672,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 85,
-      "Доронин Сергей Александрович": 49,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 40,
-      "Лугинин Федор Васильевич": 8,
-      "Мамаев Сергей Павлинович": 41,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 11
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 85,
+      "gas:candidate-vibid:2432000871800": 49,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 40,
+      "gas:candidate-vibid:2432000880441": 8,
+      "gas:candidate-vibid:2432000872173": 41,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4731,15 +4731,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 70,
-      "Доронин Сергей Александрович": 51,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 26,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 32,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 8
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 70,
+      "gas:candidate-vibid:2432000871800": 51,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 26,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 32,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4790,15 +4790,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 145,
-      "Доронин Сергей Александрович": 97,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 79,
-      "Лугинин Федор Васильевич": 5,
-      "Мамаев Сергей Павлинович": 54,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 17
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 145,
+      "gas:candidate-vibid:2432000871800": 97,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 79,
+      "gas:candidate-vibid:2432000880441": 5,
+      "gas:candidate-vibid:2432000872173": 54,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4849,15 +4849,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 9,
-      "Валенчук Олег Дорианович": 131,
-      "Доронин Сергей Александрович": 111,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 76,
-      "Лугинин Федор Васильевич": 9,
-      "Мамаев Сергей Павлинович": 100,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 15
+      "gas:candidate-vibid:2432000889127": 9,
+      "gas:candidate-vibid:2432000872162": 131,
+      "gas:candidate-vibid:2432000871800": 111,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 76,
+      "gas:candidate-vibid:2432000880441": 9,
+      "gas:candidate-vibid:2432000872173": 100,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4908,15 +4908,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 210,
-      "Доронин Сергей Александрович": 144,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 69,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 107,
-      "Порческу Владимир Васильевич": 12,
-      "Шаклеина Ольга Анатольевна": 25
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 210,
+      "gas:candidate-vibid:2432000871800": 144,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 69,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 107,
+      "gas:candidate-vibid:2432000869622": 12,
+      "gas:candidate-vibid:2432000882694": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -4967,15 +4967,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 96,
-      "Доронин Сергей Александрович": 35,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 17,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 96,
+      "gas:candidate-vibid:2432000871800": 35,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 17,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5026,15 +5026,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 32,
-      "Доронин Сергей Александрович": 22,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 18,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 32,
+      "gas:candidate-vibid:2432000871800": 22,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 18,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5085,15 +5085,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 37,
-      "Доронин Сергей Александрович": 17,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 14,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 37,
+      "gas:candidate-vibid:2432000871800": 17,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 14,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5144,15 +5144,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 41,
-      "Доронин Сергей Александрович": 19,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 14,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 5,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 41,
+      "gas:candidate-vibid:2432000871800": 19,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 14,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 5,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5203,15 +5203,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 95,
-      "Доронин Сергей Александрович": 14,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 5,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 7,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 95,
+      "gas:candidate-vibid:2432000871800": 14,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 5,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 7,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5262,15 +5262,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 84,
-      "Доронин Сергей Александрович": 46,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 23,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 38,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 84,
+      "gas:candidate-vibid:2432000871800": 46,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 23,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 38,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5321,15 +5321,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 81,
-      "Доронин Сергей Александрович": 41,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 28,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 30,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 8
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 81,
+      "gas:candidate-vibid:2432000871800": 41,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 28,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 30,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5380,15 +5380,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 52,
-      "Доронин Сергей Александрович": 48,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 24,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 14,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 52,
+      "gas:candidate-vibid:2432000871800": 48,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 24,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 14,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5439,15 +5439,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 40,
-      "Доронин Сергей Александрович": 23,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 28,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 40,
+      "gas:candidate-vibid:2432000871800": 23,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 28,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5498,15 +5498,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 74,
-      "Доронин Сергей Александрович": 21,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 17,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 4,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 74,
+      "gas:candidate-vibid:2432000871800": 21,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 17,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 4,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5557,15 +5557,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 85,
-      "Доронин Сергей Александрович": 32,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 32,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 14,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 9
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 85,
+      "gas:candidate-vibid:2432000871800": 32,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 32,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 14,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5616,15 +5616,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 96,
-      "Доронин Сергей Александрович": 28,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 28,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 12,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 96,
+      "gas:candidate-vibid:2432000871800": 28,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 28,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 12,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5675,15 +5675,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 102,
-      "Доронин Сергей Александрович": 28,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 19,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 13,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 102,
+      "gas:candidate-vibid:2432000871800": 28,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 19,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 13,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5734,15 +5734,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 59,
-      "Доронин Сергей Александрович": 24,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 59,
+      "gas:candidate-vibid:2432000871800": 24,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5793,15 +5793,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 59,
-      "Доронин Сергей Александрович": 22,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 20,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 16,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 59,
+      "gas:candidate-vibid:2432000871800": 22,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 20,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 16,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5852,15 +5852,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 132,
-      "Доронин Сергей Александрович": 27,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 24,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 132,
+      "gas:candidate-vibid:2432000871800": 27,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 24,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5911,15 +5911,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 125,
-      "Доронин Сергей Александрович": 47,
-      "Кассин Олег Валерьевич": 16,
-      "Костин Владимир Александрович": 24,
-      "Лугинин Федор Васильевич": 5,
-      "Мамаев Сергей Павлинович": 27,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 20
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 125,
+      "gas:candidate-vibid:2432000871800": 47,
+      "gas:candidate-vibid:2432000874707": 16,
+      "gas:candidate-vibid:2432000825885": 24,
+      "gas:candidate-vibid:2432000880441": 5,
+      "gas:candidate-vibid:2432000872173": 27,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -5970,15 +5970,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 36,
-      "Доронин Сергей Александрович": 19,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 36,
+      "gas:candidate-vibid:2432000871800": 19,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6029,15 +6029,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 58,
-      "Доронин Сергей Александрович": 24,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 18,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 10,
-      "Порческу Владимир Васильевич": 10,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 58,
+      "gas:candidate-vibid:2432000871800": 24,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 18,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 10,
+      "gas:candidate-vibid:2432000869622": 10,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6088,15 +6088,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 146,
-      "Доронин Сергей Александрович": 36,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 17,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 30,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 146,
+      "gas:candidate-vibid:2432000871800": 36,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 17,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 30,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6147,15 +6147,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 38,
-      "Доронин Сергей Александрович": 11,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 12,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 2,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 38,
+      "gas:candidate-vibid:2432000871800": 11,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 12,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 2,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6206,15 +6206,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 41,
-      "Доронин Сергей Александрович": 16,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 16,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 41,
+      "gas:candidate-vibid:2432000871800": 16,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 16,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6265,15 +6265,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 104,
-      "Доронин Сергей Александрович": 34,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 16,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 37,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 8
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 104,
+      "gas:candidate-vibid:2432000871800": 34,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 16,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 37,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6324,15 +6324,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 38,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 24,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 38,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 24,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6383,15 +6383,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 92,
-      "Доронин Сергей Александрович": 14,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 26,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 24,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 92,
+      "gas:candidate-vibid:2432000871800": 14,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 26,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 24,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6442,15 +6442,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 108,
-      "Доронин Сергей Александрович": 20,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 24,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 16,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 108,
+      "gas:candidate-vibid:2432000871800": 20,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 24,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 16,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773536&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773536&type=464",
@@ -6501,15 +6501,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 237,
-      "Доронин Сергей Александрович": 102,
-      "Кассин Олег Валерьевич": 7,
-      "Костин Владимир Александрович": 72,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 59,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 22
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 237,
+      "gas:candidate-vibid:2432000871800": 102,
+      "gas:candidate-vibid:2432000874707": 7,
+      "gas:candidate-vibid:2432000825885": 72,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 59,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6560,15 +6560,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 144,
-      "Доронин Сергей Александрович": 88,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 59,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 61,
-      "Порческу Владимир Васильевич": 16,
-      "Шаклеина Ольга Анатольевна": 13
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 144,
+      "gas:candidate-vibid:2432000871800": 88,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 59,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 61,
+      "gas:candidate-vibid:2432000869622": 16,
+      "gas:candidate-vibid:2432000882694": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6619,15 +6619,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 210,
-      "Доронин Сергей Александрович": 133,
-      "Кассин Олег Валерьевич": 9,
-      "Костин Владимир Александрович": 71,
-      "Лугинин Федор Васильевич": 8,
-      "Мамаев Сергей Павлинович": 96,
-      "Порческу Владимир Васильевич": 13,
-      "Шаклеина Ольга Анатольевна": 13
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 210,
+      "gas:candidate-vibid:2432000871800": 133,
+      "gas:candidate-vibid:2432000874707": 9,
+      "gas:candidate-vibid:2432000825885": 71,
+      "gas:candidate-vibid:2432000880441": 8,
+      "gas:candidate-vibid:2432000872173": 96,
+      "gas:candidate-vibid:2432000869622": 13,
+      "gas:candidate-vibid:2432000882694": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6678,15 +6678,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 238,
-      "Доронин Сергей Александрович": 104,
-      "Кассин Олег Валерьевич": 12,
-      "Костин Владимир Александрович": 76,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 74,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 11
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 238,
+      "gas:candidate-vibid:2432000871800": 104,
+      "gas:candidate-vibid:2432000874707": 12,
+      "gas:candidate-vibid:2432000825885": 76,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 74,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6737,15 +6737,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 215,
-      "Доронин Сергей Александрович": 116,
-      "Кассин Олег Валерьевич": 10,
-      "Костин Владимир Александрович": 110,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 71,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 11
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 215,
+      "gas:candidate-vibid:2432000871800": 116,
+      "gas:candidate-vibid:2432000874707": 10,
+      "gas:candidate-vibid:2432000825885": 110,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 71,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6796,15 +6796,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 7,
-      "Валенчук Олег Дорианович": 246,
-      "Доронин Сергей Александрович": 174,
-      "Кассин Олег Валерьевич": 11,
-      "Костин Владимир Александрович": 86,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 101,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 19
+      "gas:candidate-vibid:2432000889127": 7,
+      "gas:candidate-vibid:2432000872162": 246,
+      "gas:candidate-vibid:2432000871800": 174,
+      "gas:candidate-vibid:2432000874707": 11,
+      "gas:candidate-vibid:2432000825885": 86,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 101,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6855,15 +6855,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 25,
-      "Доронин Сергей Александрович": 10,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 25,
+      "gas:candidate-vibid:2432000871800": 10,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6914,15 +6914,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 119,
-      "Доронин Сергей Александрович": 46,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 43,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 10
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 119,
+      "gas:candidate-vibid:2432000871800": 46,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 43,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -6973,15 +6973,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 46,
-      "Доронин Сергей Александрович": 14,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 46,
+      "gas:candidate-vibid:2432000871800": 14,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7032,15 +7032,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 36,
-      "Доронин Сергей Александрович": 3,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 4,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 4,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 0
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 36,
+      "gas:candidate-vibid:2432000871800": 3,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 4,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 4,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7091,15 +7091,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 149,
-      "Доронин Сергей Александрович": 35,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 18,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 31,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 11
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 149,
+      "gas:candidate-vibid:2432000871800": 35,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 18,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 31,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7150,15 +7150,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 95,
-      "Доронин Сергей Александрович": 41,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 36,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 20,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 95,
+      "gas:candidate-vibid:2432000871800": 41,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 36,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 20,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7209,15 +7209,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 31,
-      "Доронин Сергей Александрович": 17,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 5,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 7,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 31,
+      "gas:candidate-vibid:2432000871800": 17,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 5,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 7,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7268,15 +7268,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 56,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 28,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 7,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 56,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 28,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 7,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7327,15 +7327,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 118,
-      "Доронин Сергей Александрович": 54,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 35,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 40,
-      "Порческу Владимир Васильевич": 9,
-      "Шаклеина Ольга Анатольевна": 9
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 118,
+      "gas:candidate-vibid:2432000871800": 54,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 35,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 40,
+      "gas:candidate-vibid:2432000869622": 9,
+      "gas:candidate-vibid:2432000882694": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7386,15 +7386,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 44,
-      "Доронин Сергей Александрович": 18,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 12,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 44,
+      "gas:candidate-vibid:2432000871800": 18,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 12,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7445,15 +7445,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 47,
-      "Доронин Сергей Александрович": 12,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 2,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 47,
+      "gas:candidate-vibid:2432000871800": 12,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 2,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7504,15 +7504,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 12,
-      "Валенчук Олег Дорианович": 224,
-      "Доронин Сергей Александрович": 60,
-      "Кассин Олег Валерьевич": 7,
-      "Костин Владимир Александрович": 65,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 62,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 14
+      "gas:candidate-vibid:2432000889127": 12,
+      "gas:candidate-vibid:2432000872162": 224,
+      "gas:candidate-vibid:2432000871800": 60,
+      "gas:candidate-vibid:2432000874707": 7,
+      "gas:candidate-vibid:2432000825885": 65,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 62,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7563,15 +7563,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 71,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 16,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 71,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 16,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7622,15 +7622,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 129,
-      "Доронин Сергей Александрович": 27,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 28,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 52,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 8
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 129,
+      "gas:candidate-vibid:2432000871800": 27,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 28,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 52,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7681,15 +7681,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 20,
-      "Валенчук Олег Дорианович": 208,
-      "Доронин Сергей Александрович": 86,
-      "Кассин Олег Валерьевич": 7,
-      "Костин Владимир Александрович": 61,
-      "Лугинин Федор Васильевич": 5,
-      "Мамаев Сергей Павлинович": 55,
-      "Порческу Владимир Васильевич": 18,
-      "Шаклеина Ольга Анатольевна": 31
+      "gas:candidate-vibid:2432000889127": 20,
+      "gas:candidate-vibid:2432000872162": 208,
+      "gas:candidate-vibid:2432000871800": 86,
+      "gas:candidate-vibid:2432000874707": 7,
+      "gas:candidate-vibid:2432000825885": 61,
+      "gas:candidate-vibid:2432000880441": 5,
+      "gas:candidate-vibid:2432000872173": 55,
+      "gas:candidate-vibid:2432000869622": 18,
+      "gas:candidate-vibid:2432000882694": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7740,15 +7740,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 77,
-      "Доронин Сергей Александрович": 9,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 10,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 19,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 77,
+      "gas:candidate-vibid:2432000871800": 9,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 10,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 19,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7799,15 +7799,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 90,
-      "Доронин Сергей Александрович": 37,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 22,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 32,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 8
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 90,
+      "gas:candidate-vibid:2432000871800": 37,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 22,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 32,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7858,15 +7858,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 49,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 7,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 21,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 49,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 7,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 21,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7917,15 +7917,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 42,
-      "Доронин Сергей Александрович": 20,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 13,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 19,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 42,
+      "gas:candidate-vibid:2432000871800": 20,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 13,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 19,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -7976,15 +7976,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 66,
-      "Доронин Сергей Александрович": 6,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 4,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 17,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 66,
+      "gas:candidate-vibid:2432000871800": 6,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 4,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 17,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8035,15 +8035,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 26,
-      "Доронин Сергей Александрович": 9,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 10,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 26,
+      "gas:candidate-vibid:2432000871800": 9,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 10,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8094,15 +8094,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 130,
-      "Доронин Сергей Александрович": 69,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 26,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 40,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 130,
+      "gas:candidate-vibid:2432000871800": 69,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 26,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 40,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8153,15 +8153,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 23,
-      "Доронин Сергей Александрович": 16,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 7,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 14,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 23,
+      "gas:candidate-vibid:2432000871800": 16,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 7,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 14,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8212,15 +8212,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 157,
-      "Доронин Сергей Александрович": 55,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 24,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 31,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 157,
+      "gas:candidate-vibid:2432000871800": 55,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 24,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 31,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8271,15 +8271,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 9,
-      "Валенчук Олег Дорианович": 58,
-      "Доронин Сергей Александрович": 35,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 32,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 25,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 12
+      "gas:candidate-vibid:2432000889127": 9,
+      "gas:candidate-vibid:2432000872162": 58,
+      "gas:candidate-vibid:2432000871800": 35,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 32,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 25,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8330,15 +8330,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 168,
-      "Доронин Сергей Александрович": 16,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 28,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 16,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 168,
+      "gas:candidate-vibid:2432000871800": 16,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 28,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 16,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8389,15 +8389,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 93,
-      "Доронин Сергей Александрович": 27,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 25,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 93,
+      "gas:candidate-vibid:2432000871800": 27,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 25,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8448,15 +8448,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 98,
-      "Доронин Сергей Александрович": 30,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 10,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 98,
+      "gas:candidate-vibid:2432000871800": 30,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 10,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8507,15 +8507,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 189,
-      "Доронин Сергей Александрович": 75,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 72,
-      "Лугинин Федор Васильевич": 6,
-      "Мамаев Сергей Павлинович": 68,
-      "Порческу Владимир Васильевич": 16,
-      "Шаклеина Ольга Анатольевна": 17
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 189,
+      "gas:candidate-vibid:2432000871800": 75,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 72,
+      "gas:candidate-vibid:2432000880441": 6,
+      "gas:candidate-vibid:2432000872173": 68,
+      "gas:candidate-vibid:2432000869622": 16,
+      "gas:candidate-vibid:2432000882694": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8566,15 +8566,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 49,
-      "Доронин Сергей Александрович": 6,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 17,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 49,
+      "gas:candidate-vibid:2432000871800": 6,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 17,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8625,15 +8625,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 117,
-      "Доронин Сергей Александрович": 26,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 28,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 25,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 9
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 117,
+      "gas:candidate-vibid:2432000871800": 26,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 28,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 25,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8684,15 +8684,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 129,
-      "Доронин Сергей Александрович": 32,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 17,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 15,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 10
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 129,
+      "gas:candidate-vibid:2432000871800": 32,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 17,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 15,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8743,15 +8743,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 61,
-      "Доронин Сергей Александрович": 22,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 20,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 15,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 61,
+      "gas:candidate-vibid:2432000871800": 22,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 20,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 15,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8802,15 +8802,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 58,
-      "Доронин Сергей Александрович": 23,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 5,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 58,
+      "gas:candidate-vibid:2432000871800": 23,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 5,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8861,15 +8861,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 90,
-      "Доронин Сергей Александрович": 24,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 17,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 20,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 90,
+      "gas:candidate-vibid:2432000871800": 24,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 17,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 20,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8920,15 +8920,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 33,
-      "Доронин Сергей Александрович": 13,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 3,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 13,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 0
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 33,
+      "gas:candidate-vibid:2432000871800": 13,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 3,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 13,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -8979,15 +8979,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 188,
-      "Доронин Сергей Александрович": 35,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 59,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 63,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 188,
+      "gas:candidate-vibid:2432000871800": 35,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 59,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 63,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -9038,15 +9038,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 71,
-      "Доронин Сергей Александрович": 10,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 8,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 71,
+      "gas:candidate-vibid:2432000871800": 10,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 8,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -9097,15 +9097,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 76,
-      "Доронин Сергей Александрович": 14,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 26,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 23,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 76,
+      "gas:candidate-vibid:2432000871800": 14,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 26,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 23,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773537&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773537&type=464",
@@ -9156,15 +9156,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 56,
-      "Доронин Сергей Александрович": 22,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 17,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 56,
+      "gas:candidate-vibid:2432000871800": 22,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 17,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9215,15 +9215,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 70,
-      "Доронин Сергей Александрович": 12,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 4,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 21,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 0
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 70,
+      "gas:candidate-vibid:2432000871800": 12,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 4,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 21,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9274,15 +9274,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 20,
-      "Доронин Сергей Александрович": 12,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 4,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 20,
+      "gas:candidate-vibid:2432000871800": 12,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 4,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9333,15 +9333,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 24,
-      "Доронин Сергей Александрович": 16,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 3,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 5,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 0
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 24,
+      "gas:candidate-vibid:2432000871800": 16,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 3,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 5,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9392,15 +9392,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 102,
-      "Доронин Сергей Александрович": 63,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 20,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 18,
-      "Порческу Владимир Васильевич": 5,
-      "Шаклеина Ольга Анатольевна": 15
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 102,
+      "gas:candidate-vibid:2432000871800": 63,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 20,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 18,
+      "gas:candidate-vibid:2432000869622": 5,
+      "gas:candidate-vibid:2432000882694": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9451,15 +9451,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 92,
-      "Доронин Сергей Александрович": 38,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 13,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 36,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 92,
+      "gas:candidate-vibid:2432000871800": 38,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 13,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 36,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9510,15 +9510,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 49,
-      "Доронин Сергей Александрович": 13,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 6,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 7,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 49,
+      "gas:candidate-vibid:2432000871800": 13,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 6,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 7,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9569,15 +9569,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 47,
-      "Доронин Сергей Александрович": 13,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 5,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 8,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 47,
+      "gas:candidate-vibid:2432000871800": 13,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 5,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 8,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9628,15 +9628,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 92,
-      "Доронин Сергей Александрович": 38,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 19,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 27,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 8
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 92,
+      "gas:candidate-vibid:2432000871800": 38,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 19,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 27,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9687,15 +9687,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 158,
-      "Доронин Сергей Александрович": 73,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 39,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 47,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 158,
+      "gas:candidate-vibid:2432000871800": 73,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 39,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 47,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9746,15 +9746,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 92,
-      "Доронин Сергей Александрович": 22,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 6,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 14,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 92,
+      "gas:candidate-vibid:2432000871800": 22,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 6,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 14,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9805,15 +9805,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 64,
-      "Доронин Сергей Александрович": 39,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 12,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 64,
+      "gas:candidate-vibid:2432000871800": 39,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 12,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9864,15 +9864,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 31,
-      "Доронин Сергей Александрович": 13,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 2,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 14,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 31,
+      "gas:candidate-vibid:2432000871800": 13,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 2,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 14,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9923,15 +9923,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 34,
-      "Доронин Сергей Александрович": 22,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 5,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 18,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 34,
+      "gas:candidate-vibid:2432000871800": 22,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 5,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 18,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -9982,15 +9982,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 299,
-      "Доронин Сергей Александрович": 190,
-      "Кассин Олег Валерьевич": 15,
-      "Костин Владимир Александрович": 44,
-      "Лугинин Федор Васильевич": 5,
-      "Мамаев Сергей Павлинович": 82,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 20
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 299,
+      "gas:candidate-vibid:2432000871800": 190,
+      "gas:candidate-vibid:2432000874707": 15,
+      "gas:candidate-vibid:2432000825885": 44,
+      "gas:candidate-vibid:2432000880441": 5,
+      "gas:candidate-vibid:2432000872173": 82,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -10041,15 +10041,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 258,
-      "Доронин Сергей Александрович": 143,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 43,
-      "Лугинин Федор Васильевич": 6,
-      "Мамаев Сергей Павлинович": 56,
-      "Порческу Владимир Васильевич": 12,
-      "Шаклеина Ольга Анатольевна": 14
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 258,
+      "gas:candidate-vibid:2432000871800": 143,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 43,
+      "gas:candidate-vibid:2432000880441": 6,
+      "gas:candidate-vibid:2432000872173": 56,
+      "gas:candidate-vibid:2432000869622": 12,
+      "gas:candidate-vibid:2432000882694": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -10100,15 +10100,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 271,
-      "Доронин Сергей Александрович": 185,
-      "Кассин Олег Валерьевич": 6,
-      "Костин Владимир Александрович": 61,
-      "Лугинин Федор Васильевич": 6,
-      "Мамаев Сергей Павлинович": 69,
-      "Порческу Владимир Васильевич": 9,
-      "Шаклеина Ольга Анатольевна": 15
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 271,
+      "gas:candidate-vibid:2432000871800": 185,
+      "gas:candidate-vibid:2432000874707": 6,
+      "gas:candidate-vibid:2432000825885": 61,
+      "gas:candidate-vibid:2432000880441": 6,
+      "gas:candidate-vibid:2432000872173": 69,
+      "gas:candidate-vibid:2432000869622": 9,
+      "gas:candidate-vibid:2432000882694": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -10159,15 +10159,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 204,
-      "Доронин Сергей Александрович": 159,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 51,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 60,
-      "Порческу Владимир Васильевич": 10,
-      "Шаклеина Ольга Анатольевна": 18
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 204,
+      "gas:candidate-vibid:2432000871800": 159,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 51,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 60,
+      "gas:candidate-vibid:2432000869622": 10,
+      "gas:candidate-vibid:2432000882694": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -10218,15 +10218,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 57,
-      "Доронин Сергей Александрович": 19,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 18,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 57,
+      "gas:candidate-vibid:2432000871800": 19,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 18,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -10277,15 +10277,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 60,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 10,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 3,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 60,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 10,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 3,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773538&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773538&type=464",
@@ -10336,15 +10336,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 71,
-      "Доронин Сергей Александрович": 20,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 15,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 71,
+      "gas:candidate-vibid:2432000871800": 20,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 15,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10395,15 +10395,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 36,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 6,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 4,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 36,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 6,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 4,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10454,15 +10454,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 85,
-      "Доронин Сергей Александрович": 30,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 20,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 37,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 85,
+      "gas:candidate-vibid:2432000871800": 30,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 20,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 37,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10513,15 +10513,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 22,
-      "Доронин Сергей Александрович": 27,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 6,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 5,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 22,
+      "gas:candidate-vibid:2432000871800": 27,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 6,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 5,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10572,15 +10572,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 33,
-      "Доронин Сергей Александрович": 16,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 7,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 19,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 33,
+      "gas:candidate-vibid:2432000871800": 16,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 7,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 19,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10631,15 +10631,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 80,
-      "Доронин Сергей Александрович": 22,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 40,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 80,
+      "gas:candidate-vibid:2432000871800": 22,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 40,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10690,15 +10690,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 7,
-      "Валенчук Олег Дорианович": 123,
-      "Доронин Сергей Александрович": 44,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 20,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 31,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 7,
+      "gas:candidate-vibid:2432000872162": 123,
+      "gas:candidate-vibid:2432000871800": 44,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 20,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 31,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10749,15 +10749,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 84,
-      "Доронин Сергей Александрович": 32,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 13,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 26,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 84,
+      "gas:candidate-vibid:2432000871800": 32,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 13,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 26,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10808,15 +10808,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 86,
-      "Доронин Сергей Александрович": 25,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 15,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 15,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 86,
+      "gas:candidate-vibid:2432000871800": 25,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 15,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 15,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10867,15 +10867,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 70,
-      "Доронин Сергей Александрович": 32,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 70,
+      "gas:candidate-vibid:2432000871800": 32,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10926,15 +10926,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 46,
-      "Доронин Сергей Александрович": 11,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 3,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 6,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 46,
+      "gas:candidate-vibid:2432000871800": 11,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 3,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 6,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -10985,15 +10985,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 48,
-      "Доронин Сергей Александрович": 9,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 0,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 12,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 48,
+      "gas:candidate-vibid:2432000871800": 9,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 0,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 12,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -11044,15 +11044,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 199,
-      "Доронин Сергей Александрович": 100,
-      "Кассин Олег Валерьевич": 6,
-      "Костин Владимир Александрович": 45,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 58,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 7
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 199,
+      "gas:candidate-vibid:2432000871800": 100,
+      "gas:candidate-vibid:2432000874707": 6,
+      "gas:candidate-vibid:2432000825885": 45,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 58,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -11103,15 +11103,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 327,
-      "Доронин Сергей Александрович": 167,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 66,
-      "Лугинин Федор Васильевич": 9,
-      "Мамаев Сергей Павлинович": 93,
-      "Порческу Владимир Васильевич": 9,
-      "Шаклеина Ольга Анатольевна": 19
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 327,
+      "gas:candidate-vibid:2432000871800": 167,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 66,
+      "gas:candidate-vibid:2432000880441": 9,
+      "gas:candidate-vibid:2432000872173": 93,
+      "gas:candidate-vibid:2432000869622": 9,
+      "gas:candidate-vibid:2432000882694": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -11162,15 +11162,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 11,
-      "Валенчук Олег Дорианович": 333,
-      "Доронин Сергей Александрович": 195,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 45,
-      "Лугинин Федор Васильевич": 5,
-      "Мамаев Сергей Павлинович": 81,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 13
+      "gas:candidate-vibid:2432000889127": 11,
+      "gas:candidate-vibid:2432000872162": 333,
+      "gas:candidate-vibid:2432000871800": 195,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 45,
+      "gas:candidate-vibid:2432000880441": 5,
+      "gas:candidate-vibid:2432000872173": 81,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773539&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773539&type=464",
@@ -11221,15 +11221,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 9,
-      "Валенчук Олег Дорианович": 268,
-      "Доронин Сергей Александрович": 130,
-      "Кассин Олег Валерьевич": 10,
-      "Костин Владимир Александрович": 91,
-      "Лугинин Федор Васильевич": 10,
-      "Мамаев Сергей Павлинович": 104,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 18
+      "gas:candidate-vibid:2432000889127": 9,
+      "gas:candidate-vibid:2432000872162": 268,
+      "gas:candidate-vibid:2432000871800": 130,
+      "gas:candidate-vibid:2432000874707": 10,
+      "gas:candidate-vibid:2432000825885": 91,
+      "gas:candidate-vibid:2432000880441": 10,
+      "gas:candidate-vibid:2432000872173": 104,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11280,15 +11280,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 110,
-      "Доронин Сергей Александрович": 33,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 50,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 35,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 110,
+      "gas:candidate-vibid:2432000871800": 33,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 50,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 35,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11339,15 +11339,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 146,
-      "Доронин Сергей Александрович": 51,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 56,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 55,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 10
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 146,
+      "gas:candidate-vibid:2432000871800": 51,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 56,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 55,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11398,15 +11398,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 77,
-      "Доронин Сергей Александрович": 23,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 22,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 77,
+      "gas:candidate-vibid:2432000871800": 23,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 22,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11457,15 +11457,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 77,
-      "Доронин Сергей Александрович": 25,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 5,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 77,
+      "gas:candidate-vibid:2432000871800": 25,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 5,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11516,15 +11516,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 42,
-      "Доронин Сергей Александрович": 5,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 7,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 4,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 42,
+      "gas:candidate-vibid:2432000871800": 5,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 7,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 4,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11575,15 +11575,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 48,
-      "Доронин Сергей Александрович": 14,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 5,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 48,
+      "gas:candidate-vibid:2432000871800": 14,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 5,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11634,15 +11634,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 61,
-      "Доронин Сергей Александрович": 23,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 14,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 24,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 61,
+      "gas:candidate-vibid:2432000871800": 23,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 14,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 24,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11693,15 +11693,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 61,
-      "Доронин Сергей Александрович": 21,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 13,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 61,
+      "gas:candidate-vibid:2432000871800": 21,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 13,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11752,15 +11752,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 37,
-      "Доронин Сергей Александрович": 5,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 7,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 7,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 37,
+      "gas:candidate-vibid:2432000871800": 5,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 7,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 7,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11811,15 +11811,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 20,
-      "Доронин Сергей Александрович": 8,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 4,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 1,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 20,
+      "gas:candidate-vibid:2432000871800": 8,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 4,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 1,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11870,15 +11870,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 35,
-      "Доронин Сергей Александрович": 11,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 15,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 16,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 35,
+      "gas:candidate-vibid:2432000871800": 11,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 15,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 16,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11929,15 +11929,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 15,
-      "Доронин Сергей Александрович": 13,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 1,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 15,
+      "gas:candidate-vibid:2432000871800": 13,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 1,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -11988,15 +11988,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 31,
-      "Доронин Сергей Александрович": 5,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 6,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 31,
+      "gas:candidate-vibid:2432000871800": 5,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 6,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -12047,15 +12047,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 66,
-      "Доронин Сергей Александрович": 12,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 14,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 23,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 66,
+      "gas:candidate-vibid:2432000871800": 12,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 14,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 23,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773540&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773540&type=464",
@@ -12106,15 +12106,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 142,
-      "Доронин Сергей Александрович": 49,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 27,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 68,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 9
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 142,
+      "gas:candidate-vibid:2432000871800": 49,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 27,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 68,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12165,15 +12165,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 33,
-      "Доронин Сергей Александрович": 12,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 7,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 18,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 33,
+      "gas:candidate-vibid:2432000871800": 12,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 7,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 18,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12224,15 +12224,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 60,
-      "Доронин Сергей Александрович": 7,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 14,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 60,
+      "gas:candidate-vibid:2432000871800": 7,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 14,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12283,15 +12283,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 46,
-      "Доронин Сергей Александрович": 9,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 4,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 17,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 46,
+      "gas:candidate-vibid:2432000871800": 9,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 4,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 17,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12342,15 +12342,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 204,
-      "Доронин Сергей Александрович": 46,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 21,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 48,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 12
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 204,
+      "gas:candidate-vibid:2432000871800": 46,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 21,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 48,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12401,15 +12401,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 54,
-      "Доронин Сергей Александрович": 19,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 5,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 12,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 54,
+      "gas:candidate-vibid:2432000871800": 19,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 5,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 12,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12460,15 +12460,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 131,
-      "Доронин Сергей Александрович": 19,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 14,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 100,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 8
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 131,
+      "gas:candidate-vibid:2432000871800": 19,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 14,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 100,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12519,15 +12519,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 33,
-      "Доронин Сергей Александрович": 13,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 6,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 18,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 33,
+      "gas:candidate-vibid:2432000871800": 13,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 6,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 18,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12578,15 +12578,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 40,
-      "Доронин Сергей Александрович": 6,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 0
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 40,
+      "gas:candidate-vibid:2432000871800": 6,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12637,15 +12637,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 197,
-      "Доронин Сергей Александрович": 45,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 41,
-      "Лугинин Федор Васильевич": 5,
-      "Мамаев Сергей Павлинович": 90,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 24
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 197,
+      "gas:candidate-vibid:2432000871800": 45,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 41,
+      "gas:candidate-vibid:2432000880441": 5,
+      "gas:candidate-vibid:2432000872173": 90,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12696,15 +12696,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 78,
-      "Доронин Сергей Александрович": 20,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 28,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 78,
+      "gas:candidate-vibid:2432000871800": 20,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 28,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12755,15 +12755,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 35,
-      "Доронин Сергей Александрович": 21,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 4,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 11,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 3
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 35,
+      "gas:candidate-vibid:2432000871800": 21,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 4,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 11,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12814,15 +12814,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 87,
-      "Доронин Сергей Александрович": 17,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 18,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 13,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 87,
+      "gas:candidate-vibid:2432000871800": 17,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 18,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 13,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12873,15 +12873,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 57,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 8,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 40,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 57,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 8,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 40,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12932,15 +12932,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 55,
-      "Доронин Сергей Александрович": 7,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 23,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 55,
+      "gas:candidate-vibid:2432000871800": 7,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 23,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -12991,15 +12991,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 107,
-      "Доронин Сергей Александрович": 24,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 19,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 44,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 107,
+      "gas:candidate-vibid:2432000871800": 24,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 19,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 44,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13050,15 +13050,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 26,
-      "Доронин Сергей Александрович": 4,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 1,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 4,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 26,
+      "gas:candidate-vibid:2432000871800": 4,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 1,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 4,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13109,15 +13109,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 34,
-      "Доронин Сергей Александрович": 4,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 5,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 4,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 34,
+      "gas:candidate-vibid:2432000871800": 4,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 5,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 4,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13168,15 +13168,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 66,
-      "Доронин Сергей Александрович": 25,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 20,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 29,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 66,
+      "gas:candidate-vibid:2432000871800": 25,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 20,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 29,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13227,15 +13227,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 1,
-      "Валенчук Олег Дорианович": 40,
-      "Доронин Сергей Александрович": 16,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 12,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 39,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 2
+      "gas:candidate-vibid:2432000889127": 1,
+      "gas:candidate-vibid:2432000872162": 40,
+      "gas:candidate-vibid:2432000871800": 16,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 12,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 39,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13286,15 +13286,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 3,
-      "Валенчук Олег Дорианович": 77,
-      "Доронин Сергей Александрович": 15,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 11,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 15,
-      "Порческу Владимир Васильевич": 2,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 3,
+      "gas:candidate-vibid:2432000872162": 77,
+      "gas:candidate-vibid:2432000871800": 15,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 11,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 15,
+      "gas:candidate-vibid:2432000869622": 2,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13345,15 +13345,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 55,
-      "Доронин Сергей Александрович": 19,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 9,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 18,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 55,
+      "gas:candidate-vibid:2432000871800": 19,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 9,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 18,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13404,15 +13404,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 7,
-      "Валенчук Олег Дорианович": 173,
-      "Доронин Сергей Александрович": 84,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 68,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 116,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 25
+      "gas:candidate-vibid:2432000889127": 7,
+      "gas:candidate-vibid:2432000872162": 173,
+      "gas:candidate-vibid:2432000871800": 84,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 68,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 116,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13463,15 +13463,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 41,
-      "Доронин Сергей Александрович": 5,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 3,
-      "Лугинин Федор Васильевич": 2,
-      "Мамаев Сергей Павлинович": 16,
-      "Порческу Владимир Васильевич": 1,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 41,
+      "gas:candidate-vibid:2432000871800": 5,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 3,
+      "gas:candidate-vibid:2432000880441": 2,
+      "gas:candidate-vibid:2432000872173": 16,
+      "gas:candidate-vibid:2432000869622": 1,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13522,15 +13522,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 8,
-      "Валенчук Олег Дорианович": 198,
-      "Доронин Сергей Александрович": 93,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 52,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 127,
-      "Порческу Владимир Васильевич": 10,
-      "Шаклеина Ольга Анатольевна": 23
+      "gas:candidate-vibid:2432000889127": 8,
+      "gas:candidate-vibid:2432000872162": 198,
+      "gas:candidate-vibid:2432000871800": 93,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 52,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 127,
+      "gas:candidate-vibid:2432000869622": 10,
+      "gas:candidate-vibid:2432000882694": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13581,15 +13581,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 10,
-      "Валенчук Олег Дорианович": 263,
-      "Доронин Сергей Александрович": 125,
-      "Кассин Олег Валерьевич": 11,
-      "Костин Владимир Александрович": 59,
-      "Лугинин Федор Васильевич": 6,
-      "Мамаев Сергей Павлинович": 152,
-      "Порческу Владимир Васильевич": 10,
-      "Шаклеина Ольга Анатольевна": 35
+      "gas:candidate-vibid:2432000889127": 10,
+      "gas:candidate-vibid:2432000872162": 263,
+      "gas:candidate-vibid:2432000871800": 125,
+      "gas:candidate-vibid:2432000874707": 11,
+      "gas:candidate-vibid:2432000825885": 59,
+      "gas:candidate-vibid:2432000880441": 6,
+      "gas:candidate-vibid:2432000872173": 152,
+      "gas:candidate-vibid:2432000869622": 10,
+      "gas:candidate-vibid:2432000882694": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13640,15 +13640,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 9,
-      "Валенчук Олег Дорианович": 234,
-      "Доронин Сергей Александрович": 128,
-      "Кассин Олег Валерьевич": 7,
-      "Костин Владимир Александрович": 50,
-      "Лугинин Федор Васильевич": 5,
-      "Мамаев Сергей Павлинович": 126,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 27
+      "gas:candidate-vibid:2432000889127": 9,
+      "gas:candidate-vibid:2432000872162": 234,
+      "gas:candidate-vibid:2432000871800": 128,
+      "gas:candidate-vibid:2432000874707": 7,
+      "gas:candidate-vibid:2432000825885": 50,
+      "gas:candidate-vibid:2432000880441": 5,
+      "gas:candidate-vibid:2432000872173": 126,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13699,15 +13699,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 8,
-      "Валенчук Олег Дорианович": 199,
-      "Доронин Сергей Александрович": 99,
-      "Кассин Олег Валерьевич": 6,
-      "Костин Владимир Александрович": 29,
-      "Лугинин Федор Васильевич": 6,
-      "Мамаев Сергей Павлинович": 129,
-      "Порческу Владимир Васильевич": 7,
-      "Шаклеина Ольга Анатольевна": 21
+      "gas:candidate-vibid:2432000889127": 8,
+      "gas:candidate-vibid:2432000872162": 199,
+      "gas:candidate-vibid:2432000871800": 99,
+      "gas:candidate-vibid:2432000874707": 6,
+      "gas:candidate-vibid:2432000825885": 29,
+      "gas:candidate-vibid:2432000880441": 6,
+      "gas:candidate-vibid:2432000872173": 129,
+      "gas:candidate-vibid:2432000869622": 7,
+      "gas:candidate-vibid:2432000882694": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13758,15 +13758,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 13,
-      "Валенчук Олег Дорианович": 219,
-      "Доронин Сергей Александрович": 130,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 54,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 139,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 14
+      "gas:candidate-vibid:2432000889127": 13,
+      "gas:candidate-vibid:2432000872162": 219,
+      "gas:candidate-vibid:2432000871800": 130,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 54,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 139,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13817,15 +13817,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 7,
-      "Валенчук Олег Дорианович": 234,
-      "Доронин Сергей Александрович": 143,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 45,
-      "Лугинин Федор Васильевич": 8,
-      "Мамаев Сергей Павлинович": 157,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 19
+      "gas:candidate-vibid:2432000889127": 7,
+      "gas:candidate-vibid:2432000872162": 234,
+      "gas:candidate-vibid:2432000871800": 143,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 45,
+      "gas:candidate-vibid:2432000880441": 8,
+      "gas:candidate-vibid:2432000872173": 157,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13876,15 +13876,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 6,
-      "Валенчук Олег Дорианович": 252,
-      "Доронин Сергей Александрович": 128,
-      "Кассин Олег Валерьевич": 7,
-      "Костин Владимир Александрович": 43,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 133,
-      "Порческу Владимир Васильевич": 9,
-      "Шаклеина Ольга Анатольевна": 28
+      "gas:candidate-vibid:2432000889127": 6,
+      "gas:candidate-vibid:2432000872162": 252,
+      "gas:candidate-vibid:2432000871800": 128,
+      "gas:candidate-vibid:2432000874707": 7,
+      "gas:candidate-vibid:2432000825885": 43,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 133,
+      "gas:candidate-vibid:2432000869622": 9,
+      "gas:candidate-vibid:2432000882694": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13935,15 +13935,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 8,
-      "Валенчук Олег Дорианович": 279,
-      "Доронин Сергей Александрович": 170,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 67,
-      "Лугинин Федор Васильевич": 9,
-      "Мамаев Сергей Павлинович": 218,
-      "Порческу Владимир Васильевич": 9,
-      "Шаклеина Ольга Анатольевна": 33
+      "gas:candidate-vibid:2432000889127": 8,
+      "gas:candidate-vibid:2432000872162": 279,
+      "gas:candidate-vibid:2432000871800": 170,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 67,
+      "gas:candidate-vibid:2432000880441": 9,
+      "gas:candidate-vibid:2432000872173": 218,
+      "gas:candidate-vibid:2432000869622": 9,
+      "gas:candidate-vibid:2432000882694": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -13994,15 +13994,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 7,
-      "Валенчук Олег Дорианович": 169,
-      "Доронин Сергей Александрович": 42,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 34,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 62,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 9
+      "gas:candidate-vibid:2432000889127": 7,
+      "gas:candidate-vibid:2432000872162": 169,
+      "gas:candidate-vibid:2432000871800": 42,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 34,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 62,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773541&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773541&type=464",
@@ -14053,15 +14053,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 15,
-      "Валенчук Олег Дорианович": 302,
-      "Доронин Сергей Александрович": 114,
-      "Кассин Олег Валерьевич": 6,
-      "Костин Владимир Александрович": 50,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 70,
-      "Порческу Владимир Васильевич": 11,
-      "Шаклеина Ольга Анатольевна": 12
+      "gas:candidate-vibid:2432000889127": 15,
+      "gas:candidate-vibid:2432000872162": 302,
+      "gas:candidate-vibid:2432000871800": 114,
+      "gas:candidate-vibid:2432000874707": 6,
+      "gas:candidate-vibid:2432000825885": 50,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 70,
+      "gas:candidate-vibid:2432000869622": 11,
+      "gas:candidate-vibid:2432000882694": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14112,15 +14112,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 8,
-      "Валенчук Олег Дорианович": 260,
-      "Доронин Сергей Александрович": 138,
-      "Кассин Олег Валерьевич": 7,
-      "Костин Владимир Александрович": 49,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 90,
-      "Порческу Владимир Васильевич": 14,
-      "Шаклеина Ольга Анатольевна": 16
+      "gas:candidate-vibid:2432000889127": 8,
+      "gas:candidate-vibid:2432000872162": 260,
+      "gas:candidate-vibid:2432000871800": 138,
+      "gas:candidate-vibid:2432000874707": 7,
+      "gas:candidate-vibid:2432000825885": 49,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 90,
+      "gas:candidate-vibid:2432000869622": 14,
+      "gas:candidate-vibid:2432000882694": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14171,15 +14171,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 5,
-      "Валенчук Олег Дорианович": 131,
-      "Доронин Сергей Александрович": 72,
-      "Кассин Олег Валерьевич": 3,
-      "Костин Владимир Александрович": 24,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 52,
-      "Порческу Владимир Васильевич": 9,
-      "Шаклеина Ольга Анатольевна": 6
+      "gas:candidate-vibid:2432000889127": 5,
+      "gas:candidate-vibid:2432000872162": 131,
+      "gas:candidate-vibid:2432000871800": 72,
+      "gas:candidate-vibid:2432000874707": 3,
+      "gas:candidate-vibid:2432000825885": 24,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 52,
+      "gas:candidate-vibid:2432000869622": 9,
+      "gas:candidate-vibid:2432000882694": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14230,15 +14230,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 180,
-      "Доронин Сергей Александрович": 61,
-      "Кассин Олег Валерьевич": 5,
-      "Костин Владимир Александрович": 56,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 38,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 12
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 180,
+      "gas:candidate-vibid:2432000871800": 61,
+      "gas:candidate-vibid:2432000874707": 5,
+      "gas:candidate-vibid:2432000825885": 56,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 38,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14289,15 +14289,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 201,
-      "Доронин Сергей Александрович": 65,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 32,
-      "Лугинин Федор Васильевич": 7,
-      "Мамаев Сергей Павлинович": 38,
-      "Порческу Владимир Васильевич": 8,
-      "Шаклеина Ольга Анатольевна": 13
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 201,
+      "gas:candidate-vibid:2432000871800": 65,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 32,
+      "gas:candidate-vibid:2432000880441": 7,
+      "gas:candidate-vibid:2432000872173": 38,
+      "gas:candidate-vibid:2432000869622": 8,
+      "gas:candidate-vibid:2432000882694": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14348,15 +14348,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 75,
-      "Доронин Сергей Александрович": 18,
-      "Кассин Олег Валерьевич": 1,
-      "Костин Владимир Александрович": 3,
-      "Лугинин Федор Васильевич": 4,
-      "Мамаев Сергей Павлинович": 10,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 4
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 75,
+      "gas:candidate-vibid:2432000871800": 18,
+      "gas:candidate-vibid:2432000874707": 1,
+      "gas:candidate-vibid:2432000825885": 3,
+      "gas:candidate-vibid:2432000880441": 4,
+      "gas:candidate-vibid:2432000872173": 10,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14407,15 +14407,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 93,
-      "Доронин Сергей Александрович": 18,
-      "Кассин Олег Валерьевич": 4,
-      "Костин Владимир Александрович": 16,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 9,
-      "Порческу Владимир Васильевич": 3,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 93,
+      "gas:candidate-vibid:2432000871800": 18,
+      "gas:candidate-vibid:2432000874707": 4,
+      "gas:candidate-vibid:2432000825885": 16,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 9,
+      "gas:candidate-vibid:2432000869622": 3,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14466,15 +14466,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 4,
-      "Валенчук Олег Дорианович": 159,
-      "Доронин Сергей Александрович": 27,
-      "Кассин Олег Валерьевич": 8,
-      "Костин Владимир Александрович": 32,
-      "Лугинин Федор Васильевич": 3,
-      "Мамаев Сергей Павлинович": 39,
-      "Порческу Владимир Васильевич": 6,
-      "Шаклеина Ольга Анатольевна": 5
+      "gas:candidate-vibid:2432000889127": 4,
+      "gas:candidate-vibid:2432000872162": 159,
+      "gas:candidate-vibid:2432000871800": 27,
+      "gas:candidate-vibid:2432000874707": 8,
+      "gas:candidate-vibid:2432000825885": 32,
+      "gas:candidate-vibid:2432000880441": 3,
+      "gas:candidate-vibid:2432000872173": 39,
+      "gas:candidate-vibid:2432000869622": 6,
+      "gas:candidate-vibid:2432000882694": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14525,15 +14525,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 0,
-      "Валенчук Олег Дорианович": 48,
-      "Доронин Сергей Александрович": 6,
-      "Кассин Олег Валерьевич": 0,
-      "Костин Владимир Александрович": 3,
-      "Лугинин Федор Васильевич": 0,
-      "Мамаев Сергей Павлинович": 3,
-      "Порческу Владимир Васильевич": 0,
-      "Шаклеина Ольга Анатольевна": 0
+      "gas:candidate-vibid:2432000889127": 0,
+      "gas:candidate-vibid:2432000872162": 48,
+      "gas:candidate-vibid:2432000871800": 6,
+      "gas:candidate-vibid:2432000874707": 0,
+      "gas:candidate-vibid:2432000825885": 3,
+      "gas:candidate-vibid:2432000880441": 0,
+      "gas:candidate-vibid:2432000872173": 3,
+      "gas:candidate-vibid:2432000869622": 0,
+      "gas:candidate-vibid:2432000882694": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",
@@ -14584,15 +14584,15 @@ export const duma_2016_uik_463_region_43_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абашев Артур Магсумович": 2,
-      "Валенчук Олег Дорианович": 68,
-      "Доронин Сергей Александрович": 13,
-      "Кассин Олег Валерьевич": 2,
-      "Костин Владимир Александрович": 2,
-      "Лугинин Федор Васильевич": 1,
-      "Мамаев Сергей Павлинович": 3,
-      "Порческу Владимир Васильевич": 4,
-      "Шаклеина Ольга Анатольевна": 1
+      "gas:candidate-vibid:2432000889127": 2,
+      "gas:candidate-vibid:2432000872162": 68,
+      "gas:candidate-vibid:2432000871800": 13,
+      "gas:candidate-vibid:2432000874707": 2,
+      "gas:candidate-vibid:2432000825885": 2,
+      "gas:candidate-vibid:2432000880441": 1,
+      "gas:candidate-vibid:2432000872173": 3,
+      "gas:candidate-vibid:2432000869622": 4,
+      "gas:candidate-vibid:2432000882694": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kirov?action=show&root=1000138&tvd=2432000773542&vrn=100100067795849&region=43&global=&sub_region=43&prver=0&pronetvd=null&vibid=2432000773542&type=464",

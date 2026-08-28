@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1365,
-      "Маигов Саламбек Сайдиевич": 205,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 170,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 210,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1365,
+      "gas:candidate-vibid:220200070374": 205,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 170,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 210,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 940,
-      "Маигов Саламбек Сайдиевич": 396,
-      "Мусаев Алауди Нажмудинович": 5,
-      "Осмаев Амин Ахмедович": 202,
-      "Сайдулаев Милан Мингаевич": 67,
-      "Хазбулатов Бекхан Абусупьянович": 274,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:220200070368": 940,
+      "gas:candidate-vibid:220200070374": 396,
+      "gas:candidate-vibid:220200070377": 5,
+      "gas:candidate-vibid:1001000258382": 202,
+      "gas:candidate-vibid:220200070393": 67,
+      "gas:candidate-vibid:220200070398": 274,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 386,
-      "Маигов Саламбек Сайдиевич": 565,
-      "Мусаев Алауди Нажмудинович": 21,
-      "Осмаев Амин Ахмедович": 295,
-      "Сайдулаев Милан Мингаевич": 191,
-      "Хазбулатов Бекхан Абусупьянович": 468,
-      "Эльмурзаев Герсолт Хасанович": 14,
-      "Против всех": 17
+      "gas:candidate-vibid:220200070368": 386,
+      "gas:candidate-vibid:220200070374": 565,
+      "gas:candidate-vibid:220200070377": 21,
+      "gas:candidate-vibid:1001000258382": 295,
+      "gas:candidate-vibid:220200070393": 191,
+      "gas:candidate-vibid:220200070398": 468,
+      "gas:candidate-vibid:1001000290467": 14,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 400,
-      "Маигов Саламбек Сайдиевич": 502,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 294,
-      "Сайдулаев Милан Мингаевич": 294,
-      "Хазбулатов Бекхан Абусупьянович": 310,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 400,
+      "gas:candidate-vibid:220200070374": 502,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 294,
+      "gas:candidate-vibid:220200070393": 294,
+      "gas:candidate-vibid:220200070398": 310,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 675,
-      "Маигов Саламбек Сайдиевич": 161,
-      "Мусаев Алауди Нажмудинович": 6,
-      "Осмаев Амин Ахмедович": 57,
-      "Сайдулаев Милан Мингаевич": 29,
-      "Хазбулатов Бекхан Абусупьянович": 46,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:220200070368": 675,
+      "gas:candidate-vibid:220200070374": 161,
+      "gas:candidate-vibid:220200070377": 6,
+      "gas:candidate-vibid:1001000258382": 57,
+      "gas:candidate-vibid:220200070393": 29,
+      "gas:candidate-vibid:220200070398": 46,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 197,
-      "Маигов Саламбек Сайдиевич": 179,
-      "Мусаев Алауди Нажмудинович": 67,
-      "Осмаев Амин Ахмедович": 26,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 390,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:220200070368": 197,
+      "gas:candidate-vibid:220200070374": 179,
+      "gas:candidate-vibid:220200070377": 67,
+      "gas:candidate-vibid:1001000258382": 26,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 390,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 433,
-      "Маигов Саламбек Сайдиевич": 273,
-      "Мусаев Алауди Нажмудинович": 4,
-      "Осмаев Амин Ахмедович": 208,
-      "Сайдулаев Милан Мингаевич": 211,
-      "Хазбулатов Бекхан Абусупьянович": 316,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:220200070368": 433,
+      "gas:candidate-vibid:220200070374": 273,
+      "gas:candidate-vibid:220200070377": 4,
+      "gas:candidate-vibid:1001000258382": 208,
+      "gas:candidate-vibid:220200070393": 211,
+      "gas:candidate-vibid:220200070398": 316,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 187,
-      "Маигов Саламбек Сайдиевич": 99,
-      "Мусаев Алауди Нажмудинович": 19,
-      "Осмаев Амин Ахмедович": 239,
-      "Сайдулаев Милан Мингаевич": 137,
-      "Хазбулатов Бекхан Абусупьянович": 180,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 187,
+      "gas:candidate-vibid:220200070374": 99,
+      "gas:candidate-vibid:220200070377": 19,
+      "gas:candidate-vibid:1001000258382": 239,
+      "gas:candidate-vibid:220200070393": 137,
+      "gas:candidate-vibid:220200070398": 180,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 212,
-      "Маигов Саламбек Сайдиевич": 23,
-      "Мусаев Алауди Нажмудинович": 33,
-      "Осмаев Амин Ахмедович": 98,
-      "Сайдулаев Милан Мингаевич": 13,
-      "Хазбулатов Бекхан Абусупьянович": 12,
-      "Эльмурзаев Герсолт Хасанович": 19,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 212,
+      "gas:candidate-vibid:220200070374": 23,
+      "gas:candidate-vibid:220200070377": 33,
+      "gas:candidate-vibid:1001000258382": 98,
+      "gas:candidate-vibid:220200070393": 13,
+      "gas:candidate-vibid:220200070398": 12,
+      "gas:candidate-vibid:1001000290467": 19,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071654&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 439,
-      "Маигов Саламбек Сайдиевич": 26,
-      "Мусаев Алауди Нажмудинович": 8,
-      "Осмаев Амин Ахмедович": 10,
-      "Сайдулаев Милан Мингаевич": 14,
-      "Хазбулатов Бекхан Абусупьянович": 112,
-      "Эльмурзаев Герсолт Хасанович": 14,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 439,
+      "gas:candidate-vibid:220200070374": 26,
+      "gas:candidate-vibid:220200070377": 8,
+      "gas:candidate-vibid:1001000258382": 10,
+      "gas:candidate-vibid:220200070393": 14,
+      "gas:candidate-vibid:220200070398": 112,
+      "gas:candidate-vibid:1001000290467": 14,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 16,
-      "Маигов Саламбек Сайдиевич": 18,
-      "Мусаев Алауди Нажмудинович": 1,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 380,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 16,
+      "gas:candidate-vibid:220200070374": 18,
+      "gas:candidate-vibid:220200070377": 1,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 380,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 39,
-      "Маигов Саламбек Сайдиевич": 20,
-      "Мусаев Алауди Нажмудинович": 3,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 81,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 39,
+      "gas:candidate-vibid:220200070374": 20,
+      "gas:candidate-vibid:220200070377": 3,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 81,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 13,
-      "Маигов Саламбек Сайдиевич": 22,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 96,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 13,
+      "gas:candidate-vibid:220200070374": 22,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 96,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 472,
-      "Маигов Саламбек Сайдиевич": 19,
-      "Мусаев Алауди Нажмудинович": 13,
-      "Осмаев Амин Ахмедович": 9,
-      "Сайдулаев Милан Мингаевич": 12,
-      "Хазбулатов Бекхан Абусупьянович": 48,
-      "Эльмурзаев Герсолт Хасанович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 472,
+      "gas:candidate-vibid:220200070374": 19,
+      "gas:candidate-vibid:220200070377": 13,
+      "gas:candidate-vibid:1001000258382": 9,
+      "gas:candidate-vibid:220200070393": 12,
+      "gas:candidate-vibid:220200070398": 48,
+      "gas:candidate-vibid:1001000290467": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 406,
-      "Маигов Саламбек Сайдиевич": 20,
-      "Мусаев Алауди Нажмудинович": 15,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 4,
-      "Хазбулатов Бекхан Абусупьянович": 20,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:220200070368": 406,
+      "gas:candidate-vibid:220200070374": 20,
+      "gas:candidate-vibid:220200070377": 15,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 4,
+      "gas:candidate-vibid:220200070398": 20,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 2,
-      "Маигов Саламбек Сайдиевич": 2,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 299,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 2,
+      "gas:candidate-vibid:220200070374": 2,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 299,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 101,
-      "Маигов Саламбек Сайдиевич": 4,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 295,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 101,
+      "gas:candidate-vibid:220200070374": 4,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 295,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 42,
-      "Маигов Саламбек Сайдиевич": 46,
-      "Мусаев Алауди Нажмудинович": 32,
-      "Осмаев Амин Ахмедович": 8,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 445,
-      "Эльмурзаев Герсолт Хасанович": 15,
-      "Против всех": 230
+      "gas:candidate-vibid:220200070368": 42,
+      "gas:candidate-vibid:220200070374": 46,
+      "gas:candidate-vibid:220200070377": 32,
+      "gas:candidate-vibid:1001000258382": 8,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 445,
+      "gas:candidate-vibid:1001000290467": 15,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 121,
-      "Маигов Саламбек Сайдиевич": 5,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 30,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 121,
+      "gas:candidate-vibid:220200070374": 5,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 30,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 93,
-      "Маигов Саламбек Сайдиевич": 7,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 6,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 93,
+      "gas:candidate-vibid:220200070374": 7,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 6,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 208,
-      "Маигов Саламбек Сайдиевич": 22,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 32,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 208,
+      "gas:candidate-vibid:220200070374": 22,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 32,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 143,
-      "Маигов Саламбек Сайдиевич": 3,
-      "Мусаев Алауди Нажмудинович": 33,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 18,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 143,
+      "gas:candidate-vibid:220200070374": 3,
+      "gas:candidate-vibid:220200070377": 33,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 18,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 255,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 9,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 142,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 255,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 9,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 142,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 203,
-      "Маигов Саламбек Сайдиевич": 6,
-      "Мусаев Алауди Нажмудинович": 9,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 11,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 203,
+      "gas:candidate-vibid:220200070374": 6,
+      "gas:candidate-vibid:220200070377": 9,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 11,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 47,
-      "Маигов Саламбек Сайдиевич": 30,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 41,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 47,
+      "gas:candidate-vibid:220200070374": 30,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 41,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 420,
-      "Маигов Саламбек Сайдиевич": 83,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 9,
-      "Хазбулатов Бекхан Абусупьянович": 535,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:220200070368": 420,
+      "gas:candidate-vibid:220200070374": 83,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 9,
+      "gas:candidate-vibid:220200070398": 535,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 376,
-      "Маигов Саламбек Сайдиевич": 68,
-      "Мусаев Алауди Нажмудинович": 6,
-      "Осмаев Амин Ахмедович": 76,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 38,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 376,
+      "gas:candidate-vibid:220200070374": 68,
+      "gas:candidate-vibid:220200070377": 6,
+      "gas:candidate-vibid:1001000258382": 76,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 38,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 8,
-      "Маигов Саламбек Сайдиевич": 522,
-      "Мусаев Алауди Нажмудинович": 3,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 20,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:220200070368": 8,
+      "gas:candidate-vibid:220200070374": 522,
+      "gas:candidate-vibid:220200070377": 3,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 20,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 8,
-      "Маигов Саламбек Сайдиевич": 1148,
-      "Мусаев Алауди Нажмудинович": 2,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 18,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 8,
+      "gas:candidate-vibid:220200070374": 1148,
+      "gas:candidate-vibid:220200070377": 2,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 18,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 3,
-      "Маигов Саламбек Сайдиевич": 241,
-      "Мусаев Алауди Нажмудинович": 2,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 1,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 3,
+      "gas:candidate-vibid:220200070374": 241,
+      "gas:candidate-vibid:220200070377": 2,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 1,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 58,
-      "Маигов Саламбек Сайдиевич": 42,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 29,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 58,
+      "gas:candidate-vibid:220200070374": 42,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 29,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 108,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 7,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 108,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 7,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 365,
-      "Маигов Саламбек Сайдиевич": 23,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 11,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 365,
+      "gas:candidate-vibid:220200070374": 23,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 11,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 480,
-      "Маигов Саламбек Сайдиевич": 3,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 20,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 480,
+      "gas:candidate-vibid:220200070374": 3,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 20,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 29,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 29,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 591,
-      "Маигов Саламбек Сайдиевич": 18,
-      "Мусаев Алауди Нажмудинович": 644,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 2,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 268
+      "gas:candidate-vibid:220200070368": 591,
+      "gas:candidate-vibid:220200070374": 18,
+      "gas:candidate-vibid:220200070377": 644,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 2,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071655&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 839,
-      "Маигов Саламбек Сайдиевич": 173,
-      "Мусаев Алауди Нажмудинович": 57,
-      "Осмаев Амин Ахмедович": 78,
-      "Сайдулаев Милан Мингаевич": 120,
-      "Хазбулатов Бекхан Абусупьянович": 6,
-      "Эльмурзаев Герсолт Хасанович": 102,
-      "Против всех": 26
+      "gas:candidate-vibid:220200070368": 839,
+      "gas:candidate-vibid:220200070374": 173,
+      "gas:candidate-vibid:220200070377": 57,
+      "gas:candidate-vibid:1001000258382": 78,
+      "gas:candidate-vibid:220200070393": 120,
+      "gas:candidate-vibid:220200070398": 6,
+      "gas:candidate-vibid:1001000290467": 102,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 756,
-      "Маигов Саламбек Сайдиевич": 107,
-      "Мусаев Алауди Нажмудинович": 218,
-      "Осмаев Амин Ахмедович": 58,
-      "Сайдулаев Милан Мингаевич": 83,
-      "Хазбулатов Бекхан Абусупьянович": 137,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 756,
+      "gas:candidate-vibid:220200070374": 107,
+      "gas:candidate-vibid:220200070377": 218,
+      "gas:candidate-vibid:1001000258382": 58,
+      "gas:candidate-vibid:220200070393": 83,
+      "gas:candidate-vibid:220200070398": 137,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 632,
-      "Маигов Саламбек Сайдиевич": 62,
-      "Мусаев Алауди Нажмудинович": 31,
-      "Осмаев Амин Ахмедович": 21,
-      "Сайдулаев Милан Мингаевич": 16,
-      "Хазбулатов Бекхан Абусупьянович": 51,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 632,
+      "gas:candidate-vibid:220200070374": 62,
+      "gas:candidate-vibid:220200070377": 31,
+      "gas:candidate-vibid:1001000258382": 21,
+      "gas:candidate-vibid:220200070393": 16,
+      "gas:candidate-vibid:220200070398": 51,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 537,
-      "Маигов Саламбек Сайдиевич": 112,
-      "Мусаев Алауди Нажмудинович": 42,
-      "Осмаев Амин Ахмедович": 19,
-      "Сайдулаев Милан Мингаевич": 22,
-      "Хазбулатов Бекхан Абусупьянович": 102,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 537,
+      "gas:candidate-vibid:220200070374": 112,
+      "gas:candidate-vibid:220200070377": 42,
+      "gas:candidate-vibid:1001000258382": 19,
+      "gas:candidate-vibid:220200070393": 22,
+      "gas:candidate-vibid:220200070398": 102,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 522,
-      "Маигов Саламбек Сайдиевич": 37,
-      "Мусаев Алауди Нажмудинович": 211,
-      "Осмаев Амин Ахмедович": 38,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 244,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 522,
+      "gas:candidate-vibid:220200070374": 37,
+      "gas:candidate-vibid:220200070377": 211,
+      "gas:candidate-vibid:1001000258382": 38,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 244,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 749,
-      "Маигов Саламбек Сайдиевич": 38,
-      "Мусаев Алауди Нажмудинович": 87,
-      "Осмаев Амин Ахмедович": 39,
-      "Сайдулаев Милан Мингаевич": 44,
-      "Хазбулатов Бекхан Абусупьянович": 53,
-      "Эльмурзаев Герсолт Хасанович": 24,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 749,
+      "gas:candidate-vibid:220200070374": 38,
+      "gas:candidate-vibid:220200070377": 87,
+      "gas:candidate-vibid:1001000258382": 39,
+      "gas:candidate-vibid:220200070393": 44,
+      "gas:candidate-vibid:220200070398": 53,
+      "gas:candidate-vibid:1001000290467": 24,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 605,
-      "Маигов Саламбек Сайдиевич": 152,
-      "Мусаев Алауди Нажмудинович": 131,
-      "Осмаев Амин Ахмедович": 55,
-      "Сайдулаев Милан Мингаевич": 32,
-      "Хазбулатов Бекхан Абусупьянович": 98,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 605,
+      "gas:candidate-vibid:220200070374": 152,
+      "gas:candidate-vibid:220200070377": 131,
+      "gas:candidate-vibid:1001000258382": 55,
+      "gas:candidate-vibid:220200070393": 32,
+      "gas:candidate-vibid:220200070398": 98,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 224,
-      "Маигов Саламбек Сайдиевич": 129,
-      "Мусаев Алауди Нажмудинович": 109,
-      "Осмаев Амин Ахмедович": 63,
-      "Сайдулаев Милан Мингаевич": 52,
-      "Хазбулатов Бекхан Абусупьянович": 187,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 224,
+      "gas:candidate-vibid:220200070374": 129,
+      "gas:candidate-vibid:220200070377": 109,
+      "gas:candidate-vibid:1001000258382": 63,
+      "gas:candidate-vibid:220200070393": 52,
+      "gas:candidate-vibid:220200070398": 187,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 225,
-      "Маигов Саламбек Сайдиевич": 244,
-      "Мусаев Алауди Нажмудинович": 271,
-      "Осмаев Амин Ахмедович": 232,
-      "Сайдулаев Милан Мингаевич": 50,
-      "Хазбулатов Бекхан Абусупьянович": 122,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 225,
+      "gas:candidate-vibid:220200070374": 244,
+      "gas:candidate-vibid:220200070377": 271,
+      "gas:candidate-vibid:1001000258382": 232,
+      "gas:candidate-vibid:220200070393": 50,
+      "gas:candidate-vibid:220200070398": 122,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 541,
-      "Маигов Саламбек Сайдиевич": 73,
-      "Мусаев Алауди Нажмудинович": 157,
-      "Осмаев Амин Ахмедович": 97,
-      "Сайдулаев Милан Мингаевич": 61,
-      "Хазбулатов Бекхан Абусупьянович": 134,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 541,
+      "gas:candidate-vibid:220200070374": 73,
+      "gas:candidate-vibid:220200070377": 157,
+      "gas:candidate-vibid:1001000258382": 97,
+      "gas:candidate-vibid:220200070393": 61,
+      "gas:candidate-vibid:220200070398": 134,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 710,
-      "Маигов Саламбек Сайдиевич": 16,
-      "Мусаев Алауди Нажмудинович": 264,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 6,
-      "Хазбулатов Бекхан Абусупьянович": 152,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 710,
+      "gas:candidate-vibid:220200070374": 16,
+      "gas:candidate-vibid:220200070377": 264,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 6,
+      "gas:candidate-vibid:220200070398": 152,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 772,
-      "Маигов Саламбек Сайдиевич": 112,
-      "Мусаев Алауди Нажмудинович": 108,
-      "Осмаев Амин Ахмедович": 328,
-      "Сайдулаев Милан Мингаевич": 242,
-      "Хазбулатов Бекхан Абусупьянович": 55,
-      "Эльмурзаев Герсолт Хасанович": 33,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 772,
+      "gas:candidate-vibid:220200070374": 112,
+      "gas:candidate-vibid:220200070377": 108,
+      "gas:candidate-vibid:1001000258382": 328,
+      "gas:candidate-vibid:220200070393": 242,
+      "gas:candidate-vibid:220200070398": 55,
+      "gas:candidate-vibid:1001000290467": 33,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 259,
-      "Маигов Саламбек Сайдиевич": 47,
-      "Мусаев Алауди Нажмудинович": 254,
-      "Осмаев Амин Ахмедович": 234,
-      "Сайдулаев Милан Мингаевич": 28,
-      "Хазбулатов Бекхан Абусупьянович": 230,
-      "Эльмурзаев Герсолт Хасанович": 31,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 259,
+      "gas:candidate-vibid:220200070374": 47,
+      "gas:candidate-vibid:220200070377": 254,
+      "gas:candidate-vibid:1001000258382": 234,
+      "gas:candidate-vibid:220200070393": 28,
+      "gas:candidate-vibid:220200070398": 230,
+      "gas:candidate-vibid:1001000290467": 31,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 30,
-      "Маигов Саламбек Сайдиевич": 109,
-      "Мусаев Алауди Нажмудинович": 406,
-      "Осмаев Амин Ахмедович": 217,
-      "Сайдулаев Милан Мингаевич": 580,
-      "Хазбулатов Бекхан Абусупьянович": 154,
-      "Эльмурзаев Герсолт Хасанович": 23,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 30,
+      "gas:candidate-vibid:220200070374": 109,
+      "gas:candidate-vibid:220200070377": 406,
+      "gas:candidate-vibid:1001000258382": 217,
+      "gas:candidate-vibid:220200070393": 580,
+      "gas:candidate-vibid:220200070398": 154,
+      "gas:candidate-vibid:1001000290467": 23,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 352,
-      "Маигов Саламбек Сайдиевич": 61,
-      "Мусаев Алауди Нажмудинович": 552,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 35,
-      "Хазбулатов Бекхан Абусупьянович": 477,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 352,
+      "gas:candidate-vibid:220200070374": 61,
+      "gas:candidate-vibid:220200070377": 552,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 35,
+      "gas:candidate-vibid:220200070398": 477,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 572,
-      "Маигов Саламбек Сайдиевич": 90,
-      "Мусаев Алауди Нажмудинович": 401,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 300,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 572,
+      "gas:candidate-vibid:220200070374": 90,
+      "gas:candidate-vibid:220200070377": 401,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 300,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 627,
-      "Маигов Саламбек Сайдиевич": 138,
-      "Мусаев Алауди Нажмудинович": 291,
-      "Осмаев Амин Ахмедович": 111,
-      "Сайдулаев Милан Мингаевич": 77,
-      "Хазбулатов Бекхан Абусупьянович": 133,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 627,
+      "gas:candidate-vibid:220200070374": 138,
+      "gas:candidate-vibid:220200070377": 291,
+      "gas:candidate-vibid:1001000258382": 111,
+      "gas:candidate-vibid:220200070393": 77,
+      "gas:candidate-vibid:220200070398": 133,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 110,
-      "Маигов Саламбек Сайдиевич": 72,
-      "Мусаев Алауди Нажмудинович": 1027,
-      "Осмаев Амин Ахмедович": 57,
-      "Сайдулаев Милан Мингаевич": 123,
-      "Хазбулатов Бекхан Абусупьянович": 53,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 110,
+      "gas:candidate-vibid:220200070374": 72,
+      "gas:candidate-vibid:220200070377": 1027,
+      "gas:candidate-vibid:1001000258382": 57,
+      "gas:candidate-vibid:220200070393": 123,
+      "gas:candidate-vibid:220200070398": 53,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 80,
-      "Маигов Саламбек Сайдиевич": 345,
-      "Мусаев Алауди Нажмудинович": 848,
-      "Осмаев Амин Ахмедович": 15,
-      "Сайдулаев Милан Мингаевич": 141,
-      "Хазбулатов Бекхан Абусупьянович": 146,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:220200070368": 80,
+      "gas:candidate-vibid:220200070374": 345,
+      "gas:candidate-vibid:220200070377": 848,
+      "gas:candidate-vibid:1001000258382": 15,
+      "gas:candidate-vibid:220200070393": 141,
+      "gas:candidate-vibid:220200070398": 146,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 216,
-      "Маигов Саламбек Сайдиевич": 111,
-      "Мусаев Алауди Нажмудинович": 157,
-      "Осмаев Амин Ахмедович": 14,
-      "Сайдулаев Милан Мингаевич": 83,
-      "Хазбулатов Бекхан Абусупьянович": 197,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 216,
+      "gas:candidate-vibid:220200070374": 111,
+      "gas:candidate-vibid:220200070377": 157,
+      "gas:candidate-vibid:1001000258382": 14,
+      "gas:candidate-vibid:220200070393": 83,
+      "gas:candidate-vibid:220200070398": 197,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 617,
-      "Маигов Саламбек Сайдиевич": 32,
-      "Мусаев Алауди Нажмудинович": 36,
-      "Осмаев Амин Ахмедович": 12,
-      "Сайдулаев Милан Мингаевич": 25,
-      "Хазбулатов Бекхан Абусупьянович": 47,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 617,
+      "gas:candidate-vibid:220200070374": 32,
+      "gas:candidate-vibid:220200070377": 36,
+      "gas:candidate-vibid:1001000258382": 12,
+      "gas:candidate-vibid:220200070393": 25,
+      "gas:candidate-vibid:220200070398": 47,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 192,
-      "Маигов Саламбек Сайдиевич": 55,
-      "Мусаев Алауди Нажмудинович": 158,
-      "Осмаев Амин Ахмедович": 7,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 87,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 192,
+      "gas:candidate-vibid:220200070374": 55,
+      "gas:candidate-vibid:220200070377": 158,
+      "gas:candidate-vibid:1001000258382": 7,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 87,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 174,
-      "Маигов Саламбек Сайдиевич": 17,
-      "Мусаев Алауди Нажмудинович": 12,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 45,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 174,
+      "gas:candidate-vibid:220200070374": 17,
+      "gas:candidate-vibid:220200070377": 12,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 45,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 516,
-      "Маигов Саламбек Сайдиевич": 113,
-      "Мусаев Алауди Нажмудинович": 1005,
-      "Осмаев Амин Ахмедович": 50,
-      "Сайдулаев Милан Мингаевич": 101,
-      "Хазбулатов Бекхан Абусупьянович": 123,
-      "Эльмурзаев Герсолт Хасанович": 7,
-      "Против всех": 103
+      "gas:candidate-vibid:220200070368": 516,
+      "gas:candidate-vibid:220200070374": 113,
+      "gas:candidate-vibid:220200070377": 1005,
+      "gas:candidate-vibid:1001000258382": 50,
+      "gas:candidate-vibid:220200070393": 101,
+      "gas:candidate-vibid:220200070398": 123,
+      "gas:candidate-vibid:1001000290467": 7,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071656&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 208,
-      "Маигов Саламбек Сайдиевич": 46,
-      "Мусаев Алауди Нажмудинович": 3,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 1593,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 208,
+      "gas:candidate-vibid:220200070374": 46,
+      "gas:candidate-vibid:220200070377": 3,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 1593,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 207,
-      "Маигов Саламбек Сайдиевич": 66,
-      "Мусаев Алауди Нажмудинович": 1,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 13,
-      "Хазбулатов Бекхан Абусупьянович": 1664,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:220200070368": 207,
+      "gas:candidate-vibid:220200070374": 66,
+      "gas:candidate-vibid:220200070377": 1,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 13,
+      "gas:candidate-vibid:220200070398": 1664,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 925,
-      "Маигов Саламбек Сайдиевич": 101,
-      "Мусаев Алауди Нажмудинович": 110,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 256,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 925,
+      "gas:candidate-vibid:220200070374": 101,
+      "gas:candidate-vibid:220200070377": 110,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 256,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 352,
-      "Маигов Саламбек Сайдиевич": 24,
-      "Мусаев Алауди Нажмудинович": 4,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 540,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 59
+      "gas:candidate-vibid:220200070368": 352,
+      "gas:candidate-vibid:220200070374": 24,
+      "gas:candidate-vibid:220200070377": 4,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 540,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 360,
-      "Маигов Саламбек Сайдиевич": 7,
-      "Мусаев Алауди Нажмудинович": 3,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 286,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 360,
+      "gas:candidate-vibid:220200070374": 7,
+      "gas:candidate-vibid:220200070377": 3,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 286,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 616,
-      "Маигов Саламбек Сайдиевич": 74,
-      "Мусаев Алауди Нажмудинович": 8,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 15,
-      "Хазбулатов Бекхан Абусупьянович": 255,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 616,
+      "gas:candidate-vibid:220200070374": 74,
+      "gas:candidate-vibid:220200070377": 8,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 15,
+      "gas:candidate-vibid:220200070398": 255,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 401,
-      "Маигов Саламбек Сайдиевич": 44,
-      "Мусаев Алауди Нажмудинович": 33,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 171,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 401,
+      "gas:candidate-vibid:220200070374": 44,
+      "gas:candidate-vibid:220200070377": 33,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 171,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 489,
-      "Маигов Саламбек Сайдиевич": 11,
-      "Мусаев Алауди Нажмудинович": 141,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 221,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 489,
+      "gas:candidate-vibid:220200070374": 11,
+      "gas:candidate-vibid:220200070377": 141,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 221,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 473,
-      "Маигов Саламбек Сайдиевич": 270,
-      "Мусаев Алауди Нажмудинович": 9,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 129,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 473,
+      "gas:candidate-vibid:220200070374": 270,
+      "gas:candidate-vibid:220200070377": 9,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 129,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 338,
-      "Маигов Саламбек Сайдиевич": 324,
-      "Мусаев Алауди Нажмудинович": 325,
-      "Осмаев Амин Ахмедович": 100,
-      "Сайдулаев Милан Мингаевич": 42,
-      "Хазбулатов Бекхан Абусупьянович": 335,
-      "Эльмурзаев Герсолт Хасанович": 16,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 338,
+      "gas:candidate-vibid:220200070374": 324,
+      "gas:candidate-vibid:220200070377": 325,
+      "gas:candidate-vibid:1001000258382": 100,
+      "gas:candidate-vibid:220200070393": 42,
+      "gas:candidate-vibid:220200070398": 335,
+      "gas:candidate-vibid:1001000290467": 16,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 170,
-      "Маигов Саламбек Сайдиевич": 351,
-      "Мусаев Алауди Нажмудинович": 5,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 18,
-      "Хазбулатов Бекхан Абусупьянович": 134,
-      "Эльмурзаев Герсолт Хасанович": 8,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 170,
+      "gas:candidate-vibid:220200070374": 351,
+      "gas:candidate-vibid:220200070377": 5,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 18,
+      "gas:candidate-vibid:220200070398": 134,
+      "gas:candidate-vibid:1001000290467": 8,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 411,
-      "Маигов Саламбек Сайдиевич": 374,
-      "Мусаев Алауди Нажмудинович": 5,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 218,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 411,
+      "gas:candidate-vibid:220200070374": 374,
+      "gas:candidate-vibid:220200070377": 5,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 218,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 347,
-      "Маигов Саламбек Сайдиевич": 390,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 109,
-      "Эльмурзаев Герсолт Хасанович": 7,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 347,
+      "gas:candidate-vibid:220200070374": 390,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 109,
+      "gas:candidate-vibid:1001000290467": 7,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 380,
-      "Маигов Саламбек Сайдиевич": 638,
-      "Мусаев Алауди Нажмудинович": 48,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 19,
-      "Хазбулатов Бекхан Абусупьянович": 235,
-      "Эльмурзаев Герсолт Хасанович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 380,
+      "gas:candidate-vibid:220200070374": 638,
+      "gas:candidate-vibid:220200070377": 48,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 19,
+      "gas:candidate-vibid:220200070398": 235,
+      "gas:candidate-vibid:1001000290467": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 930,
-      "Маигов Саламбек Сайдиевич": 251,
-      "Мусаев Алауди Нажмудинович": 47,
-      "Осмаев Амин Ахмедович": 49,
-      "Сайдулаев Милан Мингаевич": 9,
-      "Хазбулатов Бекхан Абусупьянович": 573,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 930,
+      "gas:candidate-vibid:220200070374": 251,
+      "gas:candidate-vibid:220200070377": 47,
+      "gas:candidate-vibid:1001000258382": 49,
+      "gas:candidate-vibid:220200070393": 9,
+      "gas:candidate-vibid:220200070398": 573,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 568,
-      "Маигов Саламбек Сайдиевич": 665,
-      "Мусаев Алауди Нажмудинович": 11,
-      "Осмаев Амин Ахмедович": 33,
-      "Сайдулаев Милан Мингаевич": 95,
-      "Хазбулатов Бекхан Абусупьянович": 582,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:220200070368": 568,
+      "gas:candidate-vibid:220200070374": 665,
+      "gas:candidate-vibid:220200070377": 11,
+      "gas:candidate-vibid:1001000258382": 33,
+      "gas:candidate-vibid:220200070393": 95,
+      "gas:candidate-vibid:220200070398": 582,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 164,
-      "Маигов Саламбек Сайдиевич": 257,
-      "Мусаев Алауди Нажмудинович": 265,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 206,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:220200070368": 164,
+      "gas:candidate-vibid:220200070374": 257,
+      "gas:candidate-vibid:220200070377": 265,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 206,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 849,
-      "Маигов Саламбек Сайдиевич": 523,
-      "Мусаев Алауди Нажмудинович": 44,
-      "Осмаев Амин Ахмедович": 463,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 543,
-      "Эльмурзаев Герсолт Хасанович": 14,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 849,
+      "gas:candidate-vibid:220200070374": 523,
+      "gas:candidate-vibid:220200070377": 44,
+      "gas:candidate-vibid:1001000258382": 463,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 543,
+      "gas:candidate-vibid:1001000290467": 14,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 775,
-      "Маигов Саламбек Сайдиевич": 26,
-      "Мусаев Алауди Нажмудинович": 15,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 19,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 775,
+      "gas:candidate-vibid:220200070374": 26,
+      "gas:candidate-vibid:220200070377": 15,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 19,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 539,
-      "Маигов Саламбек Сайдиевич": 403,
-      "Мусаев Алауди Нажмудинович": 120,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 20,
-      "Хазбулатов Бекхан Абусупьянович": 445,
-      "Эльмурзаев Герсолт Хасанович": 15,
-      "Против всех": 20
+      "gas:candidate-vibid:220200070368": 539,
+      "gas:candidate-vibid:220200070374": 403,
+      "gas:candidate-vibid:220200070377": 120,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 20,
+      "gas:candidate-vibid:220200070398": 445,
+      "gas:candidate-vibid:1001000290467": 15,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 814,
-      "Маигов Саламбек Сайдиевич": 393,
-      "Мусаев Алауди Нажмудинович": 115,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 38,
-      "Хазбулатов Бекхан Абусупьянович": 251,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 814,
+      "gas:candidate-vibid:220200070374": 393,
+      "gas:candidate-vibid:220200070377": 115,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 38,
+      "gas:candidate-vibid:220200070398": 251,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 476,
-      "Маигов Саламбек Сайдиевич": 121,
-      "Мусаев Алауди Нажмудинович": 106,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 47,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 476,
+      "gas:candidate-vibid:220200070374": 121,
+      "gas:candidate-vibid:220200070377": 106,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 47,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 439,
-      "Маигов Саламбек Сайдиевич": 87,
-      "Мусаев Алауди Нажмудинович": 96,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 12,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 439,
+      "gas:candidate-vibid:220200070374": 87,
+      "gas:candidate-vibid:220200070377": 96,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 12,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 91,
-      "Маигов Саламбек Сайдиевич": 298,
-      "Мусаев Алауди Нажмудинович": 16,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 30,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 91,
+      "gas:candidate-vibid:220200070374": 298,
+      "gas:candidate-vibid:220200070377": 16,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 30,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 75,
-      "Маигов Саламбек Сайдиевич": 307,
-      "Мусаев Алауди Нажмудинович": 71,
-      "Осмаев Амин Ахмедович": 9,
-      "Сайдулаев Милан Мингаевич": 17,
-      "Хазбулатов Бекхан Абусупьянович": 32,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:220200070368": 75,
+      "gas:candidate-vibid:220200070374": 307,
+      "gas:candidate-vibid:220200070377": 71,
+      "gas:candidate-vibid:1001000258382": 9,
+      "gas:candidate-vibid:220200070393": 17,
+      "gas:candidate-vibid:220200070398": 32,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 89,
-      "Маигов Саламбек Сайдиевич": 589,
-      "Мусаев Алауди Нажмудинович": 186,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 19,
-      "Хазбулатов Бекхан Абусупьянович": 162,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:220200070368": 89,
+      "gas:candidate-vibid:220200070374": 589,
+      "gas:candidate-vibid:220200070377": 186,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 19,
+      "gas:candidate-vibid:220200070398": 162,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 646,
-      "Маигов Саламбек Сайдиевич": 222,
-      "Мусаев Алауди Нажмудинович": 106,
-      "Осмаев Амин Ахмедович": 174,
-      "Сайдулаев Милан Мингаевич": 100,
-      "Хазбулатов Бекхан Абусупьянович": 294,
-      "Эльмурзаев Герсолт Хасанович": 107,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 646,
+      "gas:candidate-vibid:220200070374": 222,
+      "gas:candidate-vibid:220200070377": 106,
+      "gas:candidate-vibid:1001000258382": 174,
+      "gas:candidate-vibid:220200070393": 100,
+      "gas:candidate-vibid:220200070398": 294,
+      "gas:candidate-vibid:1001000290467": 107,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 641,
-      "Маигов Саламбек Сайдиевич": 196,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 153,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 584,
-      "Эльмурзаев Герсолт Хасанович": 13,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 641,
+      "gas:candidate-vibid:220200070374": 196,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 153,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 584,
+      "gas:candidate-vibid:1001000290467": 13,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 213,
-      "Маигов Саламбек Сайдиевич": 57,
-      "Мусаев Алауди Нажмудинович": 60,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 15,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 213,
+      "gas:candidate-vibid:220200070374": 57,
+      "gas:candidate-vibid:220200070377": 60,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 15,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 49,
-      "Маигов Саламбек Сайдиевич": 229,
-      "Мусаев Алауди Нажмудинович": 1772,
-      "Осмаев Амин Ахмедович": 8,
-      "Сайдулаев Милан Мингаевич": 135,
-      "Хазбулатов Бекхан Абусупьянович": 150,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 49,
+      "gas:candidate-vibid:220200070374": 229,
+      "gas:candidate-vibid:220200070377": 1772,
+      "gas:candidate-vibid:1001000258382": 8,
+      "gas:candidate-vibid:220200070393": 135,
+      "gas:candidate-vibid:220200070398": 150,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 705,
-      "Маигов Саламбек Сайдиевич": 34,
-      "Мусаев Алауди Нажмудинович": 1078,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 202,
-      "Хазбулатов Бекхан Абусупьянович": 38,
-      "Эльмурзаев Герсолт Хасанович": 18,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 705,
+      "gas:candidate-vibid:220200070374": 34,
+      "gas:candidate-vibid:220200070377": 1078,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 202,
+      "gas:candidate-vibid:220200070398": 38,
+      "gas:candidate-vibid:1001000290467": 18,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 566,
-      "Маигов Саламбек Сайдиевич": 92,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 234,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:220200070368": 566,
+      "gas:candidate-vibid:220200070374": 92,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 234,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 905,
-      "Маигов Саламбек Сайдиевич": 92,
-      "Мусаев Алауди Нажмудинович": 30,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 13,
-      "Хазбулатов Бекхан Абусупьянович": 390,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 905,
+      "gas:candidate-vibid:220200070374": 92,
+      "gas:candidate-vibid:220200070377": 30,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 13,
+      "gas:candidate-vibid:220200070398": 390,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 436,
-      "Маигов Саламбек Сайдиевич": 336,
-      "Мусаев Алауди Нажмудинович": 336,
-      "Осмаев Амин Ахмедович": 29,
-      "Сайдулаев Милан Мингаевич": 75,
-      "Хазбулатов Бекхан Абусупьянович": 166,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 436,
+      "gas:candidate-vibid:220200070374": 336,
+      "gas:candidate-vibid:220200070377": 336,
+      "gas:candidate-vibid:1001000258382": 29,
+      "gas:candidate-vibid:220200070393": 75,
+      "gas:candidate-vibid:220200070398": 166,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 416,
-      "Маигов Саламбек Сайдиевич": 365,
-      "Мусаев Алауди Нажмудинович": 18,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 221,
-      "Хазбулатов Бекхан Абусупьянович": 374,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 416,
+      "gas:candidate-vibid:220200070374": 365,
+      "gas:candidate-vibid:220200070377": 18,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 221,
+      "gas:candidate-vibid:220200070398": 374,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 684,
-      "Маигов Саламбек Сайдиевич": 294,
-      "Мусаев Алауди Нажмудинович": 24,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 25,
-      "Хазбулатов Бекхан Абусупьянович": 593,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 684,
+      "gas:candidate-vibid:220200070374": 294,
+      "gas:candidate-vibid:220200070377": 24,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 25,
+      "gas:candidate-vibid:220200070398": 593,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1299,
-      "Маигов Саламбек Сайдиевич": 106,
-      "Мусаев Алауди Нажмудинович": 585,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 85,
-      "Хазбулатов Бекхан Абусупьянович": 114,
-      "Эльмурзаев Герсолт Хасанович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1299,
+      "gas:candidate-vibid:220200070374": 106,
+      "gas:candidate-vibid:220200070377": 585,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 85,
+      "gas:candidate-vibid:220200070398": 114,
+      "gas:candidate-vibid:1001000290467": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 270,
-      "Маигов Саламбек Сайдиевич": 545,
-      "Мусаев Алауди Нажмудинович": 32,
-      "Осмаев Амин Ахмедович": 18,
-      "Сайдулаев Милан Мингаевич": 23,
-      "Хазбулатов Бекхан Абусупьянович": 68,
-      "Эльмурзаев Герсолт Хасанович": 13,
-      "Против всех": 306
+      "gas:candidate-vibid:220200070368": 270,
+      "gas:candidate-vibid:220200070374": 545,
+      "gas:candidate-vibid:220200070377": 32,
+      "gas:candidate-vibid:1001000258382": 18,
+      "gas:candidate-vibid:220200070393": 23,
+      "gas:candidate-vibid:220200070398": 68,
+      "gas:candidate-vibid:1001000290467": 13,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 88,
-      "Маигов Саламбек Сайдиевич": 492,
-      "Мусаев Алауди Нажмудинович": 23,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 63,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 88,
+      "gas:candidate-vibid:220200070374": 492,
+      "gas:candidate-vibid:220200070377": 23,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 63,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071657&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1722,
-      "Маигов Саламбек Сайдиевич": 91,
-      "Мусаев Алауди Нажмудинович": 26,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 21,
-      "Хазбулатов Бекхан Абусупьянович": 78,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 1722,
+      "gas:candidate-vibid:220200070374": 91,
+      "gas:candidate-vibid:220200070377": 26,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 21,
+      "gas:candidate-vibid:220200070398": 78,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 885,
-      "Маигов Саламбек Сайдиевич": 202,
-      "Мусаев Алауди Нажмудинович": 19,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 59,
-      "Хазбулатов Бекхан Абусупьянович": 728,
-      "Эльмурзаев Герсолт Хасанович": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:220200070368": 885,
+      "gas:candidate-vibid:220200070374": 202,
+      "gas:candidate-vibid:220200070377": 19,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 59,
+      "gas:candidate-vibid:220200070398": 728,
+      "gas:candidate-vibid:1001000290467": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 786,
-      "Маигов Саламбек Сайдиевич": 142,
-      "Мусаев Алауди Нажмудинович": 14,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 18,
-      "Хазбулатов Бекхан Абусупьянович": 150,
-      "Эльмурзаев Герсолт Хасанович": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 786,
+      "gas:candidate-vibid:220200070374": 142,
+      "gas:candidate-vibid:220200070377": 14,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 18,
+      "gas:candidate-vibid:220200070398": 150,
+      "gas:candidate-vibid:1001000290467": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1287,
-      "Маигов Саламбек Сайдиевич": 303,
-      "Мусаев Алауди Нажмудинович": 192,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 24,
-      "Хазбулатов Бекхан Абусупьянович": 105,
-      "Эльмурзаев Герсолт Хасанович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 1287,
+      "gas:candidate-vibid:220200070374": 303,
+      "gas:candidate-vibid:220200070377": 192,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 24,
+      "gas:candidate-vibid:220200070398": 105,
+      "gas:candidate-vibid:1001000290467": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1039,
-      "Маигов Саламбек Сайдиевич": 120,
-      "Мусаев Алауди Нажмудинович": 21,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 19,
-      "Хазбулатов Бекхан Абусупьянович": 214,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1039,
+      "gas:candidate-vibid:220200070374": 120,
+      "gas:candidate-vibid:220200070377": 21,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 19,
+      "gas:candidate-vibid:220200070398": 214,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1280,
-      "Маигов Саламбек Сайдиевич": 111,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 32,
-      "Хазбулатов Бекхан Абусупьянович": 115,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 38
+      "gas:candidate-vibid:220200070368": 1280,
+      "gas:candidate-vibid:220200070374": 111,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 32,
+      "gas:candidate-vibid:220200070398": 115,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 477,
-      "Маигов Саламбек Сайдиевич": 150,
-      "Мусаев Алауди Нажмудинович": 167,
-      "Осмаев Амин Ахмедович": 7,
-      "Сайдулаев Милан Мингаевич": 18,
-      "Хазбулатов Бекхан Абусупьянович": 239,
-      "Эльмурзаев Герсолт Хасанович": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 477,
+      "gas:candidate-vibid:220200070374": 150,
+      "gas:candidate-vibid:220200070377": 167,
+      "gas:candidate-vibid:1001000258382": 7,
+      "gas:candidate-vibid:220200070393": 18,
+      "gas:candidate-vibid:220200070398": 239,
+      "gas:candidate-vibid:1001000290467": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 558,
-      "Маигов Саламбек Сайдиевич": 93,
-      "Мусаев Алауди Нажмудинович": 130,
-      "Осмаев Амин Ахмедович": 33,
-      "Сайдулаев Милан Мингаевич": 54,
-      "Хазбулатов Бекхан Абусупьянович": 96,
-      "Эльмурзаев Герсолт Хасанович": 33,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 558,
+      "gas:candidate-vibid:220200070374": 93,
+      "gas:candidate-vibid:220200070377": 130,
+      "gas:candidate-vibid:1001000258382": 33,
+      "gas:candidate-vibid:220200070393": 54,
+      "gas:candidate-vibid:220200070398": 96,
+      "gas:candidate-vibid:1001000290467": 33,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 640,
-      "Маигов Саламбек Сайдиевич": 36,
-      "Мусаев Алауди Нажмудинович": 11,
-      "Осмаев Амин Ахмедович": 7,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 200,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 640,
+      "gas:candidate-vibid:220200070374": 36,
+      "gas:candidate-vibid:220200070377": 11,
+      "gas:candidate-vibid:1001000258382": 7,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 200,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 857,
-      "Маигов Саламбек Сайдиевич": 54,
-      "Мусаев Алауди Нажмудинович": 10,
-      "Осмаев Амин Ахмедович": 14,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 61,
-      "Эльмурзаев Герсолт Хасанович": 23,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 857,
+      "gas:candidate-vibid:220200070374": 54,
+      "gas:candidate-vibid:220200070377": 10,
+      "gas:candidate-vibid:1001000258382": 14,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 61,
+      "gas:candidate-vibid:1001000290467": 23,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 840,
-      "Маигов Саламбек Сайдиевич": 91,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 140,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 303,
-      "Эльмурзаев Герсолт Хасанович": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 840,
+      "gas:candidate-vibid:220200070374": 91,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 140,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 303,
+      "gas:candidate-vibid:1001000290467": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 460,
-      "Маигов Саламбек Сайдиевич": 430,
-      "Мусаев Алауди Нажмудинович": 338,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 19,
-      "Хазбулатов Бекхан Абусупьянович": 335,
-      "Эльмурзаев Герсолт Хасанович": 349,
-      "Против всех": 9
+      "gas:candidate-vibid:220200070368": 460,
+      "gas:candidate-vibid:220200070374": 430,
+      "gas:candidate-vibid:220200070377": 338,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 19,
+      "gas:candidate-vibid:220200070398": 335,
+      "gas:candidate-vibid:1001000290467": 349,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 922,
-      "Маигов Саламбек Сайдиевич": 211,
-      "Мусаев Алауди Нажмудинович": 6,
-      "Осмаев Амин Ахмедович": 141,
-      "Сайдулаев Милан Мингаевич": 73,
-      "Хазбулатов Бекхан Абусупьянович": 215,
-      "Эльмурзаев Герсолт Хасанович": 44,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 922,
+      "gas:candidate-vibid:220200070374": 211,
+      "gas:candidate-vibid:220200070377": 6,
+      "gas:candidate-vibid:1001000258382": 141,
+      "gas:candidate-vibid:220200070393": 73,
+      "gas:candidate-vibid:220200070398": 215,
+      "gas:candidate-vibid:1001000290467": 44,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 795,
-      "Маигов Саламбек Сайдиевич": 144,
-      "Мусаев Алауди Нажмудинович": 46,
-      "Осмаев Амин Ахмедович": 12,
-      "Сайдулаев Милан Мингаевич": 19,
-      "Хазбулатов Бекхан Абусупьянович": 65,
-      "Эльмурзаев Герсолт Хасанович": 25,
-      "Против всех": 77
+      "gas:candidate-vibid:220200070368": 795,
+      "gas:candidate-vibid:220200070374": 144,
+      "gas:candidate-vibid:220200070377": 46,
+      "gas:candidate-vibid:1001000258382": 12,
+      "gas:candidate-vibid:220200070393": 19,
+      "gas:candidate-vibid:220200070398": 65,
+      "gas:candidate-vibid:1001000290467": 25,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 638,
-      "Маигов Саламбек Сайдиевич": 83,
-      "Мусаев Алауди Нажмудинович": 26,
-      "Осмаев Амин Ахмедович": 9,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 178,
-      "Эльмурзаев Герсолт Хасанович": 14,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 638,
+      "gas:candidate-vibid:220200070374": 83,
+      "gas:candidate-vibid:220200070377": 26,
+      "gas:candidate-vibid:1001000258382": 9,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 178,
+      "gas:candidate-vibid:1001000290467": 14,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 533,
-      "Маигов Саламбек Сайдиевич": 166,
-      "Мусаев Алауди Нажмудинович": 116,
-      "Осмаев Амин Ахмедович": 23,
-      "Сайдулаев Милан Мингаевич": 9,
-      "Хазбулатов Бекхан Абусупьянович": 309,
-      "Эльмурзаев Герсолт Хасанович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:220200070368": 533,
+      "gas:candidate-vibid:220200070374": 166,
+      "gas:candidate-vibid:220200070377": 116,
+      "gas:candidate-vibid:1001000258382": 23,
+      "gas:candidate-vibid:220200070393": 9,
+      "gas:candidate-vibid:220200070398": 309,
+      "gas:candidate-vibid:1001000290467": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 325,
-      "Маигов Саламбек Сайдиевич": 120,
-      "Мусаев Алауди Нажмудинович": 648,
-      "Осмаев Амин Ахмедович": 11,
-      "Сайдулаев Милан Мингаевич": 6,
-      "Хазбулатов Бекхан Абусупьянович": 272,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 325,
+      "gas:candidate-vibid:220200070374": 120,
+      "gas:candidate-vibid:220200070377": 648,
+      "gas:candidate-vibid:1001000258382": 11,
+      "gas:candidate-vibid:220200070393": 6,
+      "gas:candidate-vibid:220200070398": 272,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 581,
-      "Маигов Саламбек Сайдиевич": 60,
-      "Мусаев Алауди Нажмудинович": 906,
-      "Осмаев Амин Ахмедович": 10,
-      "Сайдулаев Милан Мингаевич": 27,
-      "Хазбулатов Бекхан Абусупьянович": 508,
-      "Эльмурзаев Герсолт Хасанович": 12,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 581,
+      "gas:candidate-vibid:220200070374": 60,
+      "gas:candidate-vibid:220200070377": 906,
+      "gas:candidate-vibid:1001000258382": 10,
+      "gas:candidate-vibid:220200070393": 27,
+      "gas:candidate-vibid:220200070398": 508,
+      "gas:candidate-vibid:1001000290467": 12,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 885,
-      "Маигов Саламбек Сайдиевич": 247,
-      "Мусаев Алауди Нажмудинович": 771,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 50,
-      "Хазбулатов Бекхан Абусупьянович": 185,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:220200070368": 885,
+      "gas:candidate-vibid:220200070374": 247,
+      "gas:candidate-vibid:220200070377": 771,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 50,
+      "gas:candidate-vibid:220200070398": 185,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 692,
-      "Маигов Саламбек Сайдиевич": 77,
-      "Мусаев Алауди Нажмудинович": 337,
-      "Осмаев Амин Ахмедович": 7,
-      "Сайдулаев Милан Мингаевич": 59,
-      "Хазбулатов Бекхан Абусупьянович": 129,
-      "Эльмурзаев Герсолт Хасанович": 8,
-      "Против всех": 27
+      "gas:candidate-vibid:220200070368": 692,
+      "gas:candidate-vibid:220200070374": 77,
+      "gas:candidate-vibid:220200070377": 337,
+      "gas:candidate-vibid:1001000258382": 7,
+      "gas:candidate-vibid:220200070393": 59,
+      "gas:candidate-vibid:220200070398": 129,
+      "gas:candidate-vibid:1001000290467": 8,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 449,
-      "Маигов Саламбек Сайдиевич": 14,
-      "Мусаев Алауди Нажмудинович": 307,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 6,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:220200070368": 449,
+      "gas:candidate-vibid:220200070374": 14,
+      "gas:candidate-vibid:220200070377": 307,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 6,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 328,
-      "Маигов Саламбек Сайдиевич": 5,
-      "Мусаев Алауди Нажмудинович": 319,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 212,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 328,
+      "gas:candidate-vibid:220200070374": 5,
+      "gas:candidate-vibid:220200070377": 319,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 212,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 280,
-      "Маигов Саламбек Сайдиевич": 248,
-      "Мусаев Алауди Нажмудинович": 713,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 126,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:220200070368": 280,
+      "gas:candidate-vibid:220200070374": 248,
+      "gas:candidate-vibid:220200070377": 713,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 126,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 477,
-      "Маигов Саламбек Сайдиевич": 178,
-      "Мусаев Алауди Нажмудинович": 696,
-      "Осмаев Амин Ахмедович": 8,
-      "Сайдулаев Милан Мингаевич": 20,
-      "Хазбулатов Бекхан Абусупьянович": 67,
-      "Эльмурзаев Герсолт Хасанович": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 477,
+      "gas:candidate-vibid:220200070374": 178,
+      "gas:candidate-vibid:220200070377": 696,
+      "gas:candidate-vibid:1001000258382": 8,
+      "gas:candidate-vibid:220200070393": 20,
+      "gas:candidate-vibid:220200070398": 67,
+      "gas:candidate-vibid:1001000290467": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 138,
-      "Маигов Саламбек Сайдиевич": 226,
-      "Мусаев Алауди Нажмудинович": 93,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 25,
-      "Хазбулатов Бекхан Абусупьянович": 129,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 138,
+      "gas:candidate-vibid:220200070374": 226,
+      "gas:candidate-vibid:220200070377": 93,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 25,
+      "gas:candidate-vibid:220200070398": 129,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 176,
-      "Маигов Саламбек Сайдиевич": 99,
-      "Мусаев Алауди Нажмудинович": 50,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 192,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 176,
+      "gas:candidate-vibid:220200070374": 99,
+      "gas:candidate-vibid:220200070377": 50,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 192,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1149,
-      "Маигов Саламбек Сайдиевич": 80,
-      "Мусаев Алауди Нажмудинович": 158,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 129,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1149,
+      "gas:candidate-vibid:220200070374": 80,
+      "gas:candidate-vibid:220200070377": 158,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 129,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 467,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 656,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 342,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 467,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 656,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 342,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 148,
-      "Маигов Саламбек Сайдиевич": 132,
-      "Мусаев Алауди Нажмудинович": 1026,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 258,
-      "Эльмурзаев Герсолт Хасанович": 51,
-      "Против всех": 4
+      "gas:candidate-vibid:220200070368": 148,
+      "gas:candidate-vibid:220200070374": 132,
+      "gas:candidate-vibid:220200070377": 1026,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 258,
+      "gas:candidate-vibid:1001000290467": 51,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 974,
-      "Маигов Саламбек Сайдиевич": 74,
-      "Мусаев Алауди Нажмудинович": 147,
-      "Осмаев Амин Ахмедович": 7,
-      "Сайдулаев Милан Мингаевич": 14,
-      "Хазбулатов Бекхан Абусупьянович": 250,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 974,
+      "gas:candidate-vibid:220200070374": 74,
+      "gas:candidate-vibid:220200070377": 147,
+      "gas:candidate-vibid:1001000258382": 7,
+      "gas:candidate-vibid:220200070393": 14,
+      "gas:candidate-vibid:220200070398": 250,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1245,
-      "Маигов Саламбек Сайдиевич": 193,
-      "Мусаев Алауди Нажмудинович": 395,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 11,
-      "Хазбулатов Бекхан Абусупьянович": 380,
-      "Эльмурзаев Герсолт Хасанович": 11,
-      "Против всех": 9
+      "gas:candidate-vibid:220200070368": 1245,
+      "gas:candidate-vibid:220200070374": 193,
+      "gas:candidate-vibid:220200070377": 395,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 11,
+      "gas:candidate-vibid:220200070398": 380,
+      "gas:candidate-vibid:1001000290467": 11,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1099,
-      "Маигов Саламбек Сайдиевич": 225,
-      "Мусаев Алауди Нажмудинович": 73,
-      "Осмаев Амин Ахмедович": 22,
-      "Сайдулаев Милан Мингаевич": 19,
-      "Хазбулатов Бекхан Абусупьянович": 116,
-      "Эльмурзаев Герсолт Хасанович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:220200070368": 1099,
+      "gas:candidate-vibid:220200070374": 225,
+      "gas:candidate-vibid:220200070377": 73,
+      "gas:candidate-vibid:1001000258382": 22,
+      "gas:candidate-vibid:220200070393": 19,
+      "gas:candidate-vibid:220200070398": 116,
+      "gas:candidate-vibid:1001000290467": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 592,
-      "Маигов Саламбек Сайдиевич": 423,
-      "Мусаев Алауди Нажмудинович": 99,
-      "Осмаев Амин Ахмедович": 19,
-      "Сайдулаев Милан Мингаевич": 24,
-      "Хазбулатов Бекхан Абусупьянович": 233,
-      "Эльмурзаев Герсолт Хасанович": 21,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 592,
+      "gas:candidate-vibid:220200070374": 423,
+      "gas:candidate-vibid:220200070377": 99,
+      "gas:candidate-vibid:1001000258382": 19,
+      "gas:candidate-vibid:220200070393": 24,
+      "gas:candidate-vibid:220200070398": 233,
+      "gas:candidate-vibid:1001000290467": 21,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1666,
-      "Маигов Саламбек Сайдиевич": 463,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 36,
-      "Хазбулатов Бекхан Абусупьянович": 94,
-      "Эльмурзаев Герсолт Хасанович": 21,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1666,
+      "gas:candidate-vibid:220200070374": 463,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 36,
+      "gas:candidate-vibid:220200070398": 94,
+      "gas:candidate-vibid:1001000290467": 21,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 713,
-      "Маигов Саламбек Сайдиевич": 179,
-      "Мусаев Алауди Нажмудинович": 70,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 71,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 713,
+      "gas:candidate-vibid:220200070374": 179,
+      "gas:candidate-vibid:220200070377": 70,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 71,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1056,
-      "Маигов Саламбек Сайдиевич": 611,
-      "Мусаев Алауди Нажмудинович": 275,
-      "Осмаев Амин Ахмедович": 7,
-      "Сайдулаев Милан Мингаевич": 20,
-      "Хазбулатов Бекхан Абусупьянович": 615,
-      "Эльмурзаев Герсолт Хасанович": 122,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1056,
+      "gas:candidate-vibid:220200070374": 611,
+      "gas:candidate-vibid:220200070377": 275,
+      "gas:candidate-vibid:1001000258382": 7,
+      "gas:candidate-vibid:220200070393": 20,
+      "gas:candidate-vibid:220200070398": 615,
+      "gas:candidate-vibid:1001000290467": 122,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 264,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 101,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 43,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 264,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 101,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 43,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 352,
-      "Маигов Саламбек Сайдиевич": 74,
-      "Мусаев Алауди Нажмудинович": 138,
-      "Осмаев Амин Ахмедович": 10,
-      "Сайдулаев Милан Мингаевич": 16,
-      "Хазбулатов Бекхан Абусупьянович": 61,
-      "Эльмурзаев Герсолт Хасанович": 28,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 352,
+      "gas:candidate-vibid:220200070374": 74,
+      "gas:candidate-vibid:220200070377": 138,
+      "gas:candidate-vibid:1001000258382": 10,
+      "gas:candidate-vibid:220200070393": 16,
+      "gas:candidate-vibid:220200070398": 61,
+      "gas:candidate-vibid:1001000290467": 28,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 744,
-      "Маигов Саламбек Сайдиевич": 496,
-      "Мусаев Алауди Нажмудинович": 129,
-      "Осмаев Амин Ахмедович": 44,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 311,
-      "Эльмурзаев Герсолт Хасанович": 10,
-      "Против всех": 13
+      "gas:candidate-vibid:220200070368": 744,
+      "gas:candidate-vibid:220200070374": 496,
+      "gas:candidate-vibid:220200070377": 129,
+      "gas:candidate-vibid:1001000258382": 44,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 311,
+      "gas:candidate-vibid:1001000290467": 10,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 484,
-      "Маигов Саламбек Сайдиевич": 12,
-      "Мусаев Алауди Нажмудинович": 19,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 200,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 484,
+      "gas:candidate-vibid:220200070374": 12,
+      "gas:candidate-vibid:220200070377": 19,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 200,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1294,
-      "Маигов Саламбек Сайдиевич": 27,
-      "Мусаев Алауди Нажмудинович": 29,
-      "Осмаев Амин Ахмедович": 12,
-      "Сайдулаев Милан Мингаевич": 29,
-      "Хазбулатов Бекхан Абусупьянович": 215,
-      "Эльмурзаев Герсолт Хасанович": 45,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 1294,
+      "gas:candidate-vibid:220200070374": 27,
+      "gas:candidate-vibid:220200070377": 29,
+      "gas:candidate-vibid:1001000258382": 12,
+      "gas:candidate-vibid:220200070393": 29,
+      "gas:candidate-vibid:220200070398": 215,
+      "gas:candidate-vibid:1001000290467": 45,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 740,
-      "Маигов Саламбек Сайдиевич": 84,
-      "Мусаев Алауди Нажмудинович": 3,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 18,
-      "Хазбулатов Бекхан Абусупьянович": 116,
-      "Эльмурзаев Герсолт Хасанович": 8,
-      "Против всех": 9
+      "gas:candidate-vibid:220200070368": 740,
+      "gas:candidate-vibid:220200070374": 84,
+      "gas:candidate-vibid:220200070377": 3,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 18,
+      "gas:candidate-vibid:220200070398": 116,
+      "gas:candidate-vibid:1001000290467": 8,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071658&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 159,
-      "Маигов Саламбек Сайдиевич": 25,
-      "Мусаев Алауди Нажмудинович": 33,
-      "Осмаев Амин Ахмедович": 142,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 17,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 107
+      "gas:candidate-vibid:220200070368": 159,
+      "gas:candidate-vibid:220200070374": 25,
+      "gas:candidate-vibid:220200070377": 33,
+      "gas:candidate-vibid:1001000258382": 142,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 17,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 46,
-      "Маигов Саламбек Сайдиевич": 26,
-      "Мусаев Алауди Нажмудинович": 71,
-      "Осмаев Амин Ахмедович": 133,
-      "Сайдулаев Милан Мингаевич": 6,
-      "Хазбулатов Бекхан Абусупьянович": 48,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:220200070368": 46,
+      "gas:candidate-vibid:220200070374": 26,
+      "gas:candidate-vibid:220200070377": 71,
+      "gas:candidate-vibid:1001000258382": 133,
+      "gas:candidate-vibid:220200070393": 6,
+      "gas:candidate-vibid:220200070398": 48,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 9,
-      "Маигов Саламбек Сайдиевич": 39,
-      "Мусаев Алауди Нажмудинович": 32,
-      "Осмаев Амин Ахмедович": 72,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 3,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 9,
+      "gas:candidate-vibid:220200070374": 39,
+      "gas:candidate-vibid:220200070377": 32,
+      "gas:candidate-vibid:1001000258382": 72,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 3,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 13,
-      "Маигов Саламбек Сайдиевич": 31,
-      "Мусаев Алауди Нажмудинович": 39,
-      "Осмаев Амин Ахмедович": 55,
-      "Сайдулаев Милан Мингаевич": 9,
-      "Хазбулатов Бекхан Абусупьянович": 19,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 13,
+      "gas:candidate-vibid:220200070374": 31,
+      "gas:candidate-vibid:220200070377": 39,
+      "gas:candidate-vibid:1001000258382": 55,
+      "gas:candidate-vibid:220200070393": 9,
+      "gas:candidate-vibid:220200070398": 19,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 54,
-      "Маигов Саламбек Сайдиевич": 19,
-      "Мусаев Алауди Нажмудинович": 20,
-      "Осмаев Амин Ахмедович": 84,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 7,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 137
+      "gas:candidate-vibid:220200070368": 54,
+      "gas:candidate-vibid:220200070374": 19,
+      "gas:candidate-vibid:220200070377": 20,
+      "gas:candidate-vibid:1001000258382": 84,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 7,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 6,
-      "Маигов Саламбек Сайдиевич": 31,
-      "Мусаев Алауди Нажмудинович": 13,
-      "Осмаев Амин Ахмедович": 44,
-      "Сайдулаев Милан Мингаевич": 4,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 6,
+      "gas:candidate-vibid:220200070374": 31,
+      "gas:candidate-vibid:220200070377": 13,
+      "gas:candidate-vibid:1001000258382": 44,
+      "gas:candidate-vibid:220200070393": 4,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 0,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 62,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 0,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 62,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 12,
-      "Маигов Саламбек Сайдиевич": 58,
-      "Мусаев Алауди Нажмудинович": 16,
-      "Осмаев Амин Ахмедович": 65,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 6,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 12,
+      "gas:candidate-vibid:220200070374": 58,
+      "gas:candidate-vibid:220200070377": 16,
+      "gas:candidate-vibid:1001000258382": 65,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 6,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 25,
-      "Маигов Саламбек Сайдиевич": 31,
-      "Мусаев Алауди Нажмудинович": 23,
-      "Осмаев Амин Ахмедович": 19,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 4,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 25,
+      "gas:candidate-vibid:220200070374": 31,
+      "gas:candidate-vibid:220200070377": 23,
+      "gas:candidate-vibid:1001000258382": 19,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 4,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 358,
-      "Маигов Саламбек Сайдиевич": 40,
-      "Мусаев Алауди Нажмудинович": 245,
-      "Осмаев Амин Ахмедович": 58,
-      "Сайдулаев Милан Мингаевич": 20,
-      "Хазбулатов Бекхан Абусупьянович": 35,
-      "Эльмурзаев Герсолт Хасанович": 22,
-      "Против всех": 317
+      "gas:candidate-vibid:220200070368": 358,
+      "gas:candidate-vibid:220200070374": 40,
+      "gas:candidate-vibid:220200070377": 245,
+      "gas:candidate-vibid:1001000258382": 58,
+      "gas:candidate-vibid:220200070393": 20,
+      "gas:candidate-vibid:220200070398": 35,
+      "gas:candidate-vibid:1001000290467": 22,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 308,
-      "Маигов Саламбек Сайдиевич": 3,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 6,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 103
+      "gas:candidate-vibid:220200070368": 308,
+      "gas:candidate-vibid:220200070374": 3,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 6,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 311,
-      "Маигов Саламбек Сайдиевич": 2,
-      "Мусаев Алауди Нажмудинович": 6,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 5,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 52
+      "gas:candidate-vibid:220200070368": 311,
+      "gas:candidate-vibid:220200070374": 2,
+      "gas:candidate-vibid:220200070377": 6,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 5,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 301,
-      "Маигов Саламбек Сайдиевич": 4,
-      "Мусаев Алауди Нажмудинович": 3,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 3,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:220200070368": 301,
+      "gas:candidate-vibid:220200070374": 4,
+      "gas:candidate-vibid:220200070377": 3,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 3,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071659&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 928,
-      "Маигов Саламбек Сайдиевич": 583,
-      "Мусаев Алауди Нажмудинович": 102,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 20,
-      "Хазбулатов Бекхан Абусупьянович": 591,
-      "Эльмурзаев Герсолт Хасанович": 25,
-      "Против всех": 71
+      "gas:candidate-vibid:220200070368": 928,
+      "gas:candidate-vibid:220200070374": 583,
+      "gas:candidate-vibid:220200070377": 102,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 20,
+      "gas:candidate-vibid:220200070398": 591,
+      "gas:candidate-vibid:1001000290467": 25,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1361,
-      "Маигов Саламбек Сайдиевич": 217,
-      "Мусаев Алауди Нажмудинович": 193,
-      "Осмаев Амин Ахмедович": 2,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 512,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 1361,
+      "gas:candidate-vibid:220200070374": 217,
+      "gas:candidate-vibid:220200070377": 193,
+      "gas:candidate-vibid:1001000258382": 2,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 512,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1843,
-      "Маигов Саламбек Сайдиевич": 300,
-      "Мусаев Алауди Нажмудинович": 32,
-      "Осмаев Амин Ахмедович": 11,
-      "Сайдулаев Милан Мингаевич": 83,
-      "Хазбулатов Бекхан Абусупьянович": 173,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1843,
+      "gas:candidate-vibid:220200070374": 300,
+      "gas:candidate-vibid:220200070377": 32,
+      "gas:candidate-vibid:1001000258382": 11,
+      "gas:candidate-vibid:220200070393": 83,
+      "gas:candidate-vibid:220200070398": 173,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1106,
-      "Маигов Саламбек Сайдиевич": 220,
-      "Мусаев Алауди Нажмудинович": 57,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 215,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:220200070368": 1106,
+      "gas:candidate-vibid:220200070374": 220,
+      "gas:candidate-vibid:220200070377": 57,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 215,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1728,
-      "Маигов Саламбек Сайдиевич": 19,
-      "Мусаев Алауди Нажмудинович": 100,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 326,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1728,
+      "gas:candidate-vibid:220200070374": 19,
+      "gas:candidate-vibid:220200070377": 100,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 326,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1365,
-      "Маигов Саламбек Сайдиевич": 66,
-      "Мусаев Алауди Нажмудинович": 81,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 288,
-      "Эльмурзаев Герсолт Хасанович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1365,
+      "gas:candidate-vibid:220200070374": 66,
+      "gas:candidate-vibid:220200070377": 81,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 288,
+      "gas:candidate-vibid:1001000290467": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1429,
-      "Маигов Саламбек Сайдиевич": 29,
-      "Мусаев Алауди Нажмудинович": 160,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 663,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:220200070368": 1429,
+      "gas:candidate-vibid:220200070374": 29,
+      "gas:candidate-vibid:220200070377": 160,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 663,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1623,
-      "Маигов Саламбек Сайдиевич": 317,
-      "Мусаев Алауди Нажмудинович": 183,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 15,
-      "Хазбулатов Бекхан Абусупьянович": 460,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:220200070368": 1623,
+      "gas:candidate-vibid:220200070374": 317,
+      "gas:candidate-vibid:220200070377": 183,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 15,
+      "gas:candidate-vibid:220200070398": 460,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 2092,
-      "Маигов Саламбек Сайдиевич": 150,
-      "Мусаев Алауди Нажмудинович": 172,
-      "Осмаев Амин Ахмедович": 8,
-      "Сайдулаев Милан Мингаевич": 11,
-      "Хазбулатов Бекхан Абусупьянович": 307,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 2092,
+      "gas:candidate-vibid:220200070374": 150,
+      "gas:candidate-vibid:220200070377": 172,
+      "gas:candidate-vibid:1001000258382": 8,
+      "gas:candidate-vibid:220200070393": 11,
+      "gas:candidate-vibid:220200070398": 307,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 962,
-      "Маигов Саламбек Сайдиевич": 152,
-      "Мусаев Алауди Нажмудинович": 366,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 12,
-      "Хазбулатов Бекхан Абусупьянович": 547,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 962,
+      "gas:candidate-vibid:220200070374": 152,
+      "gas:candidate-vibid:220200070377": 366,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 12,
+      "gas:candidate-vibid:220200070398": 547,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 501,
-      "Маигов Саламбек Сайдиевич": 274,
-      "Мусаев Алауди Нажмудинович": 464,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 688,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 501,
+      "gas:candidate-vibid:220200070374": 274,
+      "gas:candidate-vibid:220200070377": 464,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 688,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 616,
-      "Маигов Саламбек Сайдиевич": 33,
-      "Мусаев Алауди Нажмудинович": 142,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 436,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 58
+      "gas:candidate-vibid:220200070368": 616,
+      "gas:candidate-vibid:220200070374": 33,
+      "gas:candidate-vibid:220200070377": 142,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 436,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1344,
-      "Маигов Саламбек Сайдиевич": 19,
-      "Мусаев Алауди Нажмудинович": 364,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 537,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 1344,
+      "gas:candidate-vibid:220200070374": 19,
+      "gas:candidate-vibid:220200070377": 364,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 537,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1242,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 466,
-      "Осмаев Амин Ахмедович": 2,
-      "Сайдулаев Милан Мингаевич": 18,
-      "Хазбулатов Бекхан Абусупьянович": 521,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 1242,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 466,
+      "gas:candidate-vibid:1001000258382": 2,
+      "gas:candidate-vibid:220200070393": 18,
+      "gas:candidate-vibid:220200070398": 521,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1197,
-      "Маигов Саламбек Сайдиевич": 693,
-      "Мусаев Алауди Нажмудинович": 18,
-      "Осмаев Амин Ахмедович": 10,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 225,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 57
+      "gas:candidate-vibid:220200070368": 1197,
+      "gas:candidate-vibid:220200070374": 693,
+      "gas:candidate-vibid:220200070377": 18,
+      "gas:candidate-vibid:1001000258382": 10,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 225,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 862,
-      "Маигов Саламбек Сайдиевич": 772,
-      "Мусаев Алауди Нажмудинович": 39,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 223,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:220200070368": 862,
+      "gas:candidate-vibid:220200070374": 772,
+      "gas:candidate-vibid:220200070377": 39,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 223,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 649,
-      "Маигов Саламбек Сайдиевич": 12,
-      "Мусаев Алауди Нажмудинович": 391,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 118,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 649,
+      "gas:candidate-vibid:220200070374": 12,
+      "gas:candidate-vibid:220200070377": 391,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 118,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 225,
-      "Маигов Саламбек Сайдиевич": 16,
-      "Мусаев Алауди Нажмудинович": 117,
-      "Осмаев Амин Ахмедович": 2,
-      "Сайдулаев Милан Мингаевич": 44,
-      "Хазбулатов Бекхан Абусупьянович": 27,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 225,
+      "gas:candidate-vibid:220200070374": 16,
+      "gas:candidate-vibid:220200070377": 117,
+      "gas:candidate-vibid:1001000258382": 2,
+      "gas:candidate-vibid:220200070393": 44,
+      "gas:candidate-vibid:220200070398": 27,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 347,
-      "Маигов Саламбек Сайдиевич": 55,
-      "Мусаев Алауди Нажмудинович": 35,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 37,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 347,
+      "gas:candidate-vibid:220200070374": 55,
+      "gas:candidate-vibid:220200070377": 35,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 37,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 386,
-      "Маигов Саламбек Сайдиевич": 159,
-      "Мусаев Алауди Нажмудинович": 37,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 61,
-      "Эльмурзаев Герсолт Хасанович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 386,
+      "gas:candidate-vibid:220200070374": 159,
+      "gas:candidate-vibid:220200070377": 37,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 61,
+      "gas:candidate-vibid:1001000290467": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 321,
-      "Маигов Саламбек Сайдиевич": 9,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 19,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 321,
+      "gas:candidate-vibid:220200070374": 9,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 19,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 116,
-      "Маигов Саламбек Сайдиевич": 8,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 116,
+      "gas:candidate-vibid:220200070374": 8,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 136,
-      "Маигов Саламбек Сайдиевич": 25,
-      "Мусаев Алауди Нажмудинович": 8,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 136,
+      "gas:candidate-vibid:220200070374": 25,
+      "gas:candidate-vibid:220200070377": 8,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 238,
-      "Маигов Саламбек Сайдиевич": 40,
-      "Мусаев Алауди Нажмудинович": 25,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 2,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 238,
+      "gas:candidate-vibid:220200070374": 40,
+      "gas:candidate-vibid:220200070377": 25,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 2,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 311,
-      "Маигов Саламбек Сайдиевич": 68,
-      "Мусаев Алауди Нажмудинович": 16,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 4,
-      "Хазбулатов Бекхан Абусупьянович": 30,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 311,
+      "gas:candidate-vibid:220200070374": 68,
+      "gas:candidate-vibid:220200070377": 16,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 4,
+      "gas:candidate-vibid:220200070398": 30,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071660&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 451,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 1,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 451,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 1,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 801,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 2,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 801,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 2,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1239,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 14,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1239,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 14,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1464,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 9,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1464,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 9,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1650,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 30,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1650,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 30,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1427,
-      "Маигов Саламбек Сайдиевич": 2,
-      "Мусаев Алауди Нажмудинович": 2,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 19,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1427,
+      "gas:candidate-vibid:220200070374": 2,
+      "gas:candidate-vibid:220200070377": 2,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 19,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1284,
-      "Маигов Саламбек Сайдиевич": 17,
-      "Мусаев Алауди Нажмудинович": 10,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 104,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 1284,
+      "gas:candidate-vibid:220200070374": 17,
+      "gas:candidate-vibid:220200070377": 10,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 104,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1380,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 1,
-      "Осмаев Амин Ахмедович": 8,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 10,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1380,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 1,
+      "gas:candidate-vibid:1001000258382": 8,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 10,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1983,
-      "Маигов Саламбек Сайдиевич": 2,
-      "Мусаев Алауди Нажмудинович": 41,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 7,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 1983,
+      "gas:candidate-vibid:220200070374": 2,
+      "gas:candidate-vibid:220200070377": 41,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 7,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1377,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 7,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1377,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 7,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1226,
-      "Маигов Саламбек Сайдиевич": 2,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 11,
-      "Сайдулаев Милан Мингаевич": 2,
-      "Хазбулатов Бекхан Абусупьянович": 2,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1226,
+      "gas:candidate-vibid:220200070374": 2,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 11,
+      "gas:candidate-vibid:220200070393": 2,
+      "gas:candidate-vibid:220200070398": 2,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 3046,
-      "Маигов Саламбек Сайдиевич": 1,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 1,
-      "Хазбулатов Бекхан Абусупьянович": 2,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 3046,
+      "gas:candidate-vibid:220200070374": 1,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 1,
+      "gas:candidate-vibid:220200070398": 2,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 2020,
-      "Маигов Саламбек Сайдиевич": 2,
-      "Мусаев Алауди Нажмудинович": 4,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 3,
-      "Хазбулатов Бекхан Абусупьянович": 7,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 2020,
+      "gas:candidate-vibid:220200070374": 2,
+      "gas:candidate-vibid:220200070377": 4,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 3,
+      "gas:candidate-vibid:220200070398": 7,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 2195,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 2,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 2195,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 2,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 2653,
-      "Маигов Саламбек Сайдиевич": 2,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 8,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 17,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 2653,
+      "gas:candidate-vibid:220200070374": 2,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 8,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 17,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 496,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 2,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 2,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 496,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 2,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 2,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 759,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 8,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 759,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 8,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1475,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 10,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 1475,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 10,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1037,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 9,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1037,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 9,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071661&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 126,
-      "Маигов Саламбек Сайдиевич": 397,
-      "Мусаев Алауди Нажмудинович": 229,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 9,
-      "Хазбулатов Бекхан Абусупьянович": 196,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:220200070368": 126,
+      "gas:candidate-vibid:220200070374": 397,
+      "gas:candidate-vibid:220200070377": 229,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 9,
+      "gas:candidate-vibid:220200070398": 196,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 354,
-      "Маигов Саламбек Сайдиевич": 471,
-      "Мусаев Алауди Нажмудинович": 15,
-      "Осмаев Амин Ахмедович": 3,
-      "Сайдулаев Милан Мингаевич": 19,
-      "Хазбулатов Бекхан Абусупьянович": 95,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 354,
+      "gas:candidate-vibid:220200070374": 471,
+      "gas:candidate-vibid:220200070377": 15,
+      "gas:candidate-vibid:1001000258382": 3,
+      "gas:candidate-vibid:220200070393": 19,
+      "gas:candidate-vibid:220200070398": 95,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 203,
-      "Маигов Саламбек Сайдиевич": 320,
-      "Мусаев Алауди Нажмудинович": 76,
-      "Осмаев Амин Ахмедович": 2,
-      "Сайдулаев Милан Мингаевич": 15,
-      "Хазбулатов Бекхан Абусупьянович": 96,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:220200070368": 203,
+      "gas:candidate-vibid:220200070374": 320,
+      "gas:candidate-vibid:220200070377": 76,
+      "gas:candidate-vibid:1001000258382": 2,
+      "gas:candidate-vibid:220200070393": 15,
+      "gas:candidate-vibid:220200070398": 96,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 381,
-      "Маигов Саламбек Сайдиевич": 754,
-      "Мусаев Алауди Нажмудинович": 17,
-      "Осмаев Амин Ахмедович": 6,
-      "Сайдулаев Милан Мингаевич": 11,
-      "Хазбулатов Бекхан Абусупьянович": 262,
-      "Эльмурзаев Герсолт Хасанович": 15,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 381,
+      "gas:candidate-vibid:220200070374": 754,
+      "gas:candidate-vibid:220200070377": 17,
+      "gas:candidate-vibid:1001000258382": 6,
+      "gas:candidate-vibid:220200070393": 11,
+      "gas:candidate-vibid:220200070398": 262,
+      "gas:candidate-vibid:1001000290467": 15,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 530,
-      "Маигов Саламбек Сайдиевич": 383,
-      "Мусаев Алауди Нажмудинович": 166,
-      "Осмаев Амин Ахмедович": 14,
-      "Сайдулаев Милан Мингаевич": 80,
-      "Хазбулатов Бекхан Абусупьянович": 191,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:220200070368": 530,
+      "gas:candidate-vibid:220200070374": 383,
+      "gas:candidate-vibid:220200070377": 166,
+      "gas:candidate-vibid:1001000258382": 14,
+      "gas:candidate-vibid:220200070393": 80,
+      "gas:candidate-vibid:220200070398": 191,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 231,
-      "Маигов Саламбек Сайдиевич": 156,
-      "Мусаев Алауди Нажмудинович": 50,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 13,
-      "Хазбулатов Бекхан Абусупьянович": 110,
-      "Эльмурзаев Герсолт Хасанович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 231,
+      "gas:candidate-vibid:220200070374": 156,
+      "gas:candidate-vibid:220200070377": 50,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 13,
+      "gas:candidate-vibid:220200070398": 110,
+      "gas:candidate-vibid:1001000290467": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 402,
-      "Маигов Саламбек Сайдиевич": 556,
-      "Мусаев Алауди Нажмудинович": 52,
-      "Осмаев Амин Ахмедович": 104,
-      "Сайдулаев Милан Мингаевич": 48,
-      "Хазбулатов Бекхан Абусупьянович": 156,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:220200070368": 402,
+      "gas:candidate-vibid:220200070374": 556,
+      "gas:candidate-vibid:220200070377": 52,
+      "gas:candidate-vibid:1001000258382": 104,
+      "gas:candidate-vibid:220200070393": 48,
+      "gas:candidate-vibid:220200070398": 156,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 461,
-      "Маигов Саламбек Сайдиевич": 567,
-      "Мусаев Алауди Нажмудинович": 31,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 18,
-      "Хазбулатов Бекхан Абусупьянович": 93,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:220200070368": 461,
+      "gas:candidate-vibid:220200070374": 567,
+      "gas:candidate-vibid:220200070377": 31,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 18,
+      "gas:candidate-vibid:220200070398": 93,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 391,
-      "Маигов Саламбек Сайдиевич": 190,
-      "Мусаев Алауди Нажмудинович": 121,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 107,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 391,
+      "gas:candidate-vibid:220200070374": 190,
+      "gas:candidate-vibid:220200070377": 121,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 107,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 402,
-      "Маигов Саламбек Сайдиевич": 789,
-      "Мусаев Алауди Нажмудинович": 215,
-      "Осмаев Амин Ахмедович": 19,
-      "Сайдулаев Милан Мингаевич": 57,
-      "Хазбулатов Бекхан Абусупьянович": 113,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:220200070368": 402,
+      "gas:candidate-vibid:220200070374": 789,
+      "gas:candidate-vibid:220200070377": 215,
+      "gas:candidate-vibid:1001000258382": 19,
+      "gas:candidate-vibid:220200070393": 57,
+      "gas:candidate-vibid:220200070398": 113,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 228,
-      "Маигов Саламбек Сайдиевич": 121,
-      "Мусаев Алауди Нажмудинович": 122,
-      "Осмаев Амин Ахмедович": 37,
-      "Сайдулаев Милан Мингаевич": 56,
-      "Хазбулатов Бекхан Абусупьянович": 35,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:220200070368": 228,
+      "gas:candidate-vibid:220200070374": 121,
+      "gas:candidate-vibid:220200070377": 122,
+      "gas:candidate-vibid:1001000258382": 37,
+      "gas:candidate-vibid:220200070393": 56,
+      "gas:candidate-vibid:220200070398": 35,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 624,
-      "Маигов Саламбек Сайдиевич": 209,
-      "Мусаев Алауди Нажмудинович": 440,
-      "Осмаев Амин Ахмедович": 137,
-      "Сайдулаев Милан Мингаевич": 26,
-      "Хазбулатов Бекхан Абусупьянович": 76,
-      "Эльмурзаев Герсолт Хасанович": 21,
-      "Против всех": 28
+      "gas:candidate-vibid:220200070368": 624,
+      "gas:candidate-vibid:220200070374": 209,
+      "gas:candidate-vibid:220200070377": 440,
+      "gas:candidate-vibid:1001000258382": 137,
+      "gas:candidate-vibid:220200070393": 26,
+      "gas:candidate-vibid:220200070398": 76,
+      "gas:candidate-vibid:1001000290467": 21,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 696,
-      "Маигов Саламбек Сайдиевич": 265,
-      "Мусаев Алауди Нажмудинович": 176,
-      "Осмаев Амин Ахмедович": 63,
-      "Сайдулаев Милан Мингаевич": 78,
-      "Хазбулатов Бекхан Абусупьянович": 113,
-      "Эльмурзаев Герсолт Хасанович": 13,
-      "Против всех": 99
+      "gas:candidate-vibid:220200070368": 696,
+      "gas:candidate-vibid:220200070374": 265,
+      "gas:candidate-vibid:220200070377": 176,
+      "gas:candidate-vibid:1001000258382": 63,
+      "gas:candidate-vibid:220200070393": 78,
+      "gas:candidate-vibid:220200070398": 113,
+      "gas:candidate-vibid:1001000290467": 13,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1677,
-      "Маигов Саламбек Сайдиевич": 120,
-      "Мусаев Алауди Нажмудинович": 360,
-      "Осмаев Амин Ахмедович": 105,
-      "Сайдулаев Милан Мингаевич": 36,
-      "Хазбулатов Бекхан Абусупьянович": 67,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1677,
+      "gas:candidate-vibid:220200070374": 120,
+      "gas:candidate-vibid:220200070377": 360,
+      "gas:candidate-vibid:1001000258382": 105,
+      "gas:candidate-vibid:220200070393": 36,
+      "gas:candidate-vibid:220200070398": 67,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 541,
-      "Маигов Саламбек Сайдиевич": 279,
-      "Мусаев Алауди Нажмудинович": 279,
-      "Осмаев Амин Ахмедович": 10,
-      "Сайдулаев Милан Мингаевич": 177,
-      "Хазбулатов Бекхан Абусупьянович": 69,
-      "Эльмурзаев Герсолт Хасанович": 12,
-      "Против всех": 20
+      "gas:candidate-vibid:220200070368": 541,
+      "gas:candidate-vibid:220200070374": 279,
+      "gas:candidate-vibid:220200070377": 279,
+      "gas:candidate-vibid:1001000258382": 10,
+      "gas:candidate-vibid:220200070393": 177,
+      "gas:candidate-vibid:220200070398": 69,
+      "gas:candidate-vibid:1001000290467": 12,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 447,
-      "Маигов Саламбек Сайдиевич": 250,
-      "Мусаев Алауди Нажмудинович": 353,
-      "Осмаев Амин Ахмедович": 12,
-      "Сайдулаев Милан Мингаевич": 87,
-      "Хазбулатов Бекхан Абусупьянович": 83,
-      "Эльмурзаев Герсолт Хасанович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 447,
+      "gas:candidate-vibid:220200070374": 250,
+      "gas:candidate-vibid:220200070377": 353,
+      "gas:candidate-vibid:1001000258382": 12,
+      "gas:candidate-vibid:220200070393": 87,
+      "gas:candidate-vibid:220200070398": 83,
+      "gas:candidate-vibid:1001000290467": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 754,
-      "Маигов Саламбек Сайдиевич": 72,
-      "Мусаев Алауди Нажмудинович": 139,
-      "Осмаев Амин Ахмедович": 11,
-      "Сайдулаев Милан Мингаевич": 53,
-      "Хазбулатов Бекхан Абусупьянович": 133,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:220200070368": 754,
+      "gas:candidate-vibid:220200070374": 72,
+      "gas:candidate-vibid:220200070377": 139,
+      "gas:candidate-vibid:1001000258382": 11,
+      "gas:candidate-vibid:220200070393": 53,
+      "gas:candidate-vibid:220200070398": 133,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1978,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 2,
-      "Осмаев Амин Ахмедович": 5,
-      "Сайдулаев Милан Мингаевич": 6,
-      "Хазбулатов Бекхан Абусупьянович": 7,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:220200070368": 1978,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 2,
+      "gas:candidate-vibid:1001000258382": 5,
+      "gas:candidate-vibid:220200070393": 6,
+      "gas:candidate-vibid:220200070398": 7,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 360,
-      "Маигов Саламбек Сайдиевич": 5,
-      "Мусаев Алауди Нажмудинович": 129,
-      "Осмаев Амин Ахмедович": 8,
-      "Сайдулаев Милан Мингаевич": 8,
-      "Хазбулатов Бекхан Абусупьянович": 14,
-      "Эльмурзаев Герсолт Хасанович": 6,
-      "Против всех": 33
+      "gas:candidate-vibid:220200070368": 360,
+      "gas:candidate-vibid:220200070374": 5,
+      "gas:candidate-vibid:220200070377": 129,
+      "gas:candidate-vibid:1001000258382": 8,
+      "gas:candidate-vibid:220200070393": 8,
+      "gas:candidate-vibid:220200070398": 14,
+      "gas:candidate-vibid:1001000290467": 6,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071662&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 2140,
-      "Маигов Саламбек Сайдиевич": 94,
-      "Мусаев Алауди Нажмудинович": 123,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 232,
-      "Эльмурзаев Герсолт Хасанович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:220200070368": 2140,
+      "gas:candidate-vibid:220200070374": 94,
+      "gas:candidate-vibid:220200070377": 123,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 232,
+      "gas:candidate-vibid:1001000290467": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 330,
-      "Маигов Саламбек Сайдиевич": 11,
-      "Мусаев Алауди Нажмудинович": 12,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 43,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 330,
+      "gas:candidate-vibid:220200070374": 11,
+      "gas:candidate-vibid:220200070377": 12,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 43,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1683,
-      "Маигов Саламбек Сайдиевич": 150,
-      "Мусаев Алауди Нажмудинович": 150,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 348,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 1683,
+      "gas:candidate-vibid:220200070374": 150,
+      "gas:candidate-vibid:220200070377": 150,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 348,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 599,
-      "Маигов Саламбек Сайдиевич": 28,
-      "Мусаев Алауди Нажмудинович": 33,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 55,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 599,
+      "gas:candidate-vibid:220200070374": 28,
+      "gas:candidate-vibid:220200070377": 33,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 55,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 480,
-      "Маигов Саламбек Сайдиевич": 50,
-      "Мусаев Алауди Нажмудинович": 36,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 90,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 480,
+      "gas:candidate-vibid:220200070374": 50,
+      "gas:candidate-vibid:220200070377": 36,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 90,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 200,
-      "Маигов Саламбек Сайдиевич": 16,
-      "Мусаев Алауди Нажмудинович": 34,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 14,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 200,
+      "gas:candidate-vibid:220200070374": 16,
+      "gas:candidate-vibid:220200070377": 34,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 14,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 597,
-      "Маигов Саламбек Сайдиевич": 40,
-      "Мусаев Алауди Нажмудинович": 12,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 17,
-      "Эльмурзаев Герсолт Хасанович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 597,
+      "gas:candidate-vibid:220200070374": 40,
+      "gas:candidate-vibid:220200070377": 12,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 17,
+      "gas:candidate-vibid:1001000290467": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 538,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 538,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 417,
-      "Маигов Саламбек Сайдиевич": 207,
-      "Мусаев Алауди Нажмудинович": 2,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 3,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:220200070368": 417,
+      "gas:candidate-vibid:220200070374": 207,
+      "gas:candidate-vibid:220200070377": 2,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 3,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 614,
-      "Маигов Саламбек Сайдиевич": 6,
-      "Мусаев Алауди Нажмудинович": 3,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 4,
-      "Эльмурзаев Герсолт Хасанович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 614,
+      "gas:candidate-vibid:220200070374": 6,
+      "gas:candidate-vibid:220200070377": 3,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 4,
+      "gas:candidate-vibid:1001000290467": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 2118,
-      "Маигов Саламбек Сайдиевич": 1,
-      "Мусаев Алауди Нажмудинович": 10,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 2118,
+      "gas:candidate-vibid:220200070374": 1,
+      "gas:candidate-vibid:220200070377": 10,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 376,
-      "Маигов Саламбек Сайдиевич": 21,
-      "Мусаев Алауди Нажмудинович": 21,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 376,
+      "gas:candidate-vibid:220200070374": 21,
+      "gas:candidate-vibid:220200070377": 21,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 75,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 0,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 75,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 0,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 526,
-      "Маигов Саламбек Сайдиевич": 106,
-      "Мусаев Алауди Нажмудинович": 20,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 8,
-      "Эльмурзаев Герсолт Хасанович": 9,
-      "Против всех": 2
+      "gas:candidate-vibid:220200070368": 526,
+      "gas:candidate-vibid:220200070374": 106,
+      "gas:candidate-vibid:220200070377": 20,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 8,
+      "gas:candidate-vibid:1001000290467": 9,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 278,
-      "Маигов Саламбек Сайдиевич": 18,
-      "Мусаев Алауди Нажмудинович": 12,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 278,
+      "gas:candidate-vibid:220200070374": 18,
+      "gas:candidate-vibid:220200070377": 12,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 176,
-      "Маигов Саламбек Сайдиевич": 72,
-      "Мусаев Алауди Нажмудинович": 39,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 20,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 176,
+      "gas:candidate-vibid:220200070374": 72,
+      "gas:candidate-vibid:220200070377": 39,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 20,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 165,
-      "Маигов Саламбек Сайдиевич": 3,
-      "Мусаев Алауди Нажмудинович": 2,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 165,
+      "gas:candidate-vibid:220200070374": 3,
+      "gas:candidate-vibid:220200070377": 2,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 181,
-      "Маигов Саламбек Сайдиевич": 7,
-      "Мусаев Алауди Нажмудинович": 30,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 7,
-      "Хазбулатов Бекхан Абусупьянович": 8,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 181,
+      "gas:candidate-vibid:220200070374": 7,
+      "gas:candidate-vibid:220200070377": 30,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 7,
+      "gas:candidate-vibid:220200070398": 8,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 463,
-      "Маигов Саламбек Сайдиевич": 24,
-      "Мусаев Алауди Нажмудинович": 5,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 6,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 463,
+      "gas:candidate-vibid:220200070374": 24,
+      "gas:candidate-vibid:220200070377": 5,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 6,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 524,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 92,
-      "Осмаев Амин Ахмедович": 2,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 38,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 524,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 92,
+      "gas:candidate-vibid:1001000258382": 2,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 38,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 293,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 73,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 293,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 73,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 178,
-      "Маигов Саламбек Сайдиевич": 5,
-      "Мусаев Алауди Нажмудинович": 14,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 178,
+      "gas:candidate-vibid:220200070374": 5,
+      "gas:candidate-vibid:220200070377": 14,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 375,
-      "Маигов Саламбек Сайдиевич": 3,
-      "Мусаев Алауди Нажмудинович": 20,
-      "Осмаев Амин Ахмедович": 4,
-      "Сайдулаев Милан Мингаевич": 5,
-      "Хазбулатов Бекхан Абусупьянович": 9,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:220200070368": 375,
+      "gas:candidate-vibid:220200070374": 3,
+      "gas:candidate-vibid:220200070377": 20,
+      "gas:candidate-vibid:1001000258382": 4,
+      "gas:candidate-vibid:220200070393": 5,
+      "gas:candidate-vibid:220200070398": 9,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 467,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 20,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 26,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 467,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 20,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 26,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 122,
-      "Маигов Саламбек Сайдиевич": 19,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 122,
+      "gas:candidate-vibid:220200070374": 19,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1490,
-      "Маигов Саламбек Сайдиевич": 93,
-      "Мусаев Алауди Нажмудинович": 21,
-      "Осмаев Амин Ахмедович": 41,
-      "Сайдулаев Милан Мингаевич": 18,
-      "Хазбулатов Бекхан Абусупьянович": 68,
-      "Эльмурзаев Герсолт Хасанович": 68,
-      "Против всех": 7
+      "gas:candidate-vibid:220200070368": 1490,
+      "gas:candidate-vibid:220200070374": 93,
+      "gas:candidate-vibid:220200070377": 21,
+      "gas:candidate-vibid:1001000258382": 41,
+      "gas:candidate-vibid:220200070393": 18,
+      "gas:candidate-vibid:220200070398": 68,
+      "gas:candidate-vibid:1001000290467": 68,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 173,
-      "Маигов Саламбек Сайдиевич": 30,
-      "Мусаев Алауди Нажмудинович": 49,
-      "Осмаев Амин Ахмедович": 47,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 55,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 173,
+      "gas:candidate-vibid:220200070374": 30,
+      "gas:candidate-vibid:220200070377": 49,
+      "gas:candidate-vibid:1001000258382": 47,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 55,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 625,
-      "Маигов Саламбек Сайдиевич": 0,
-      "Мусаев Алауди Нажмудинович": 23,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 65,
-      "Эльмурзаев Герсолт Хасанович": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 625,
+      "gas:candidate-vibid:220200070374": 0,
+      "gas:candidate-vibid:220200070377": 23,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 65,
+      "gas:candidate-vibid:1001000290467": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 747,
-      "Маигов Саламбек Сайдиевич": 1,
-      "Мусаев Алауди Нажмудинович": 37,
-      "Осмаев Амин Ахмедович": 1,
-      "Сайдулаев Милан Мингаевич": 4,
-      "Хазбулатов Бекхан Абусупьянович": 30,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:220200070368": 747,
+      "gas:candidate-vibid:220200070374": 1,
+      "gas:candidate-vibid:220200070377": 37,
+      "gas:candidate-vibid:1001000258382": 1,
+      "gas:candidate-vibid:220200070393": 4,
+      "gas:candidate-vibid:220200070398": 30,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 1121,
-      "Маигов Саламбек Сайдиевич": 8,
-      "Мусаев Алауди Нажмудинович": 7,
-      "Осмаев Амин Ахмедович": 0,
-      "Сайдулаев Милан Мингаевич": 25,
-      "Хазбулатов Бекхан Абусупьянович": 0,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:220200070368": 1121,
+      "gas:candidate-vibid:220200070374": 8,
+      "gas:candidate-vibid:220200070377": 7,
+      "gas:candidate-vibid:1001000258382": 0,
+      "gas:candidate-vibid:220200070393": 25,
+      "gas:candidate-vibid:220200070398": 0,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071663&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 162,
-      "Маигов Саламбек Сайдиевич": 33,
-      "Мусаев Алауди Нажмудинович": 2253,
-      "Осмаев Амин Ахмедович": 87,
-      "Сайдулаев Милан Мингаевич": 11,
-      "Хазбулатов Бекхан Абусупьянович": 120,
-      "Эльмурзаев Герсолт Хасанович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:220200070368": 162,
+      "gas:candidate-vibid:220200070374": 33,
+      "gas:candidate-vibid:220200070377": 2253,
+      "gas:candidate-vibid:1001000258382": 87,
+      "gas:candidate-vibid:220200070393": 11,
+      "gas:candidate-vibid:220200070398": 120,
+      "gas:candidate-vibid:1001000290467": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071664&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 324,
-      "Маигов Саламбек Сайдиевич": 95,
-      "Мусаев Алауди Нажмудинович": 1528,
-      "Осмаев Амин Ахмедович": 316,
-      "Сайдулаев Милан Мингаевич": 0,
-      "Хазбулатов Бекхан Абусупьянович": 187,
-      "Эльмурзаев Герсолт Хасанович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 324,
+      "gas:candidate-vibid:220200070374": 95,
+      "gas:candidate-vibid:220200070377": 1528,
+      "gas:candidate-vibid:1001000258382": 316,
+      "gas:candidate-vibid:220200070393": 0,
+      "gas:candidate-vibid:220200070398": 187,
+      "gas:candidate-vibid:1001000290467": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071664&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_20_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Завгаев Ахмар Гапурович": 123,
-      "Маигов Саламбек Сайдиевич": 70,
-      "Мусаев Алауди Нажмудинович": 1473,
-      "Осмаев Амин Ахмедович": 104,
-      "Сайдулаев Милан Мингаевич": 79,
-      "Хазбулатов Бекхан Абусупьянович": 222,
-      "Эльмурзаев Герсолт Хасанович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:220200070368": 123,
+      "gas:candidate-vibid:220200070374": 70,
+      "gas:candidate-vibid:220200070377": 1473,
+      "gas:candidate-vibid:1001000258382": 104,
+      "gas:candidate-vibid:220200070393": 79,
+      "gas:candidate-vibid:220200070398": 222,
+      "gas:candidate-vibid:1001000290467": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=202000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=220200071664&region=0&sub_region=0&type=429",

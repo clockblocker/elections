@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 244,
-      "Кочетов Николай Викторович": 55,
-      "Пономарев Алексей Алексеевич": 25,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 244,
+      "gas:candidate-vibid:1001000220848": 55,
+      "gas:candidate-vibid:1001000121916": 25,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 100,
-      "Кочетов Николай Викторович": 25,
-      "Пономарев Алексей Алексеевич": 13,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 100,
+      "gas:candidate-vibid:1001000220848": 25,
+      "gas:candidate-vibid:1001000121916": 13,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 111,
-      "Кочетов Николай Викторович": 19,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 111,
+      "gas:candidate-vibid:1001000220848": 19,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 147,
-      "Кочетов Николай Викторович": 56,
-      "Пономарев Алексей Алексеевич": 9,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 147,
+      "gas:candidate-vibid:1001000220848": 56,
+      "gas:candidate-vibid:1001000121916": 9,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 116,
-      "Кочетов Николай Викторович": 106,
-      "Пономарев Алексей Алексеевич": 18,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 116,
+      "gas:candidate-vibid:1001000220848": 106,
+      "gas:candidate-vibid:1001000121916": 18,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 43,
-      "Кочетов Николай Викторович": 5,
-      "Пономарев Алексей Алексеевич": 21,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 43,
+      "gas:candidate-vibid:1001000220848": 5,
+      "gas:candidate-vibid:1001000121916": 21,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 129,
-      "Кочетов Николай Викторович": 76,
-      "Пономарев Алексей Алексеевич": 8,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 129,
+      "gas:candidate-vibid:1001000220848": 76,
+      "gas:candidate-vibid:1001000121916": 8,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 115,
-      "Кочетов Николай Викторович": 39,
-      "Пономарев Алексей Алексеевич": 27,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 115,
+      "gas:candidate-vibid:1001000220848": 39,
+      "gas:candidate-vibid:1001000121916": 27,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 111,
-      "Кочетов Николай Викторович": 15,
-      "Пономарев Алексей Алексеевич": 23,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 111,
+      "gas:candidate-vibid:1001000220848": 15,
+      "gas:candidate-vibid:1001000121916": 23,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 79,
-      "Кочетов Николай Викторович": 27,
-      "Пономарев Алексей Алексеевич": 14,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 79,
+      "gas:candidate-vibid:1001000220848": 27,
+      "gas:candidate-vibid:1001000121916": 14,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 213,
-      "Кочетов Николай Викторович": 87,
-      "Пономарев Алексей Алексеевич": 36,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 213,
+      "gas:candidate-vibid:1001000220848": 87,
+      "gas:candidate-vibid:1001000121916": 36,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 176,
-      "Кочетов Николай Викторович": 116,
-      "Пономарев Алексей Алексеевич": 27,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 176,
+      "gas:candidate-vibid:1001000220848": 116,
+      "gas:candidate-vibid:1001000121916": 27,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 196,
-      "Кочетов Николай Викторович": 4,
-      "Пономарев Алексей Алексеевич": 22,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 196,
+      "gas:candidate-vibid:1001000220848": 4,
+      "gas:candidate-vibid:1001000121916": 22,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 99,
-      "Кочетов Николай Викторович": 15,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 99,
+      "gas:candidate-vibid:1001000220848": 15,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 201,
-      "Кочетов Николай Викторович": 44,
-      "Пономарев Алексей Алексеевич": 45,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 201,
+      "gas:candidate-vibid:1001000220848": 44,
+      "gas:candidate-vibid:1001000121916": 45,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 63,
-      "Кочетов Николай Викторович": 6,
-      "Пономарев Алексей Алексеевич": 5,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 63,
+      "gas:candidate-vibid:1001000220848": 6,
+      "gas:candidate-vibid:1001000121916": 5,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 17,
-      "Дубовик Владимир Анатольевич": 239,
-      "Кочетов Николай Викторович": 35,
-      "Пономарев Алексей Алексеевич": 96,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 15,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202336": 17,
+      "gas:candidate-vibid:268200070582": 239,
+      "gas:candidate-vibid:1001000220848": 35,
+      "gas:candidate-vibid:1001000121916": 96,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 15,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 147,
-      "Кочетов Николай Викторович": 19,
-      "Пономарев Алексей Алексеевич": 63,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 147,
+      "gas:candidate-vibid:1001000220848": 19,
+      "gas:candidate-vibid:1001000121916": 63,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 91,
-      "Кочетов Николай Викторович": 35,
-      "Пономарев Алексей Алексеевич": 21,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 91,
+      "gas:candidate-vibid:1001000220848": 35,
+      "gas:candidate-vibid:1001000121916": 21,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 165,
-      "Кочетов Николай Викторович": 17,
-      "Пономарев Алексей Алексеевич": 59,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 165,
+      "gas:candidate-vibid:1001000220848": 17,
+      "gas:candidate-vibid:1001000121916": 59,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 0,
-      "Дубовик Владимир Анатольевич": 57,
-      "Кочетов Николай Викторович": 31,
-      "Пономарев Алексей Алексеевич": 16,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202336": 0,
+      "gas:candidate-vibid:268200070582": 57,
+      "gas:candidate-vibid:1001000220848": 31,
+      "gas:candidate-vibid:1001000121916": 16,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 156,
-      "Кочетов Николай Викторович": 88,
-      "Пономарев Алексей Алексеевич": 85,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 156,
+      "gas:candidate-vibid:1001000220848": 88,
+      "gas:candidate-vibid:1001000121916": 85,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 159,
-      "Кочетов Николай Викторович": 31,
-      "Пономарев Алексей Алексеевич": 103,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 159,
+      "gas:candidate-vibid:1001000220848": 31,
+      "gas:candidate-vibid:1001000121916": 103,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 196,
-      "Кочетов Николай Викторович": 10,
-      "Пономарев Алексей Алексеевич": 57,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 196,
+      "gas:candidate-vibid:1001000220848": 10,
+      "gas:candidate-vibid:1001000121916": 57,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170513&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 20,
-      "Дубовик Владимир Анатольевич": 169,
-      "Кочетов Николай Викторович": 154,
-      "Пономарев Алексей Алексеевич": 119,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 13,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000202336": 20,
+      "gas:candidate-vibid:268200070582": 169,
+      "gas:candidate-vibid:1001000220848": 154,
+      "gas:candidate-vibid:1001000121916": 119,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 13,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 37,
-      "Дубовик Владимир Анатольевич": 222,
-      "Кочетов Николай Викторович": 239,
-      "Пономарев Алексей Алексеевич": 285,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 24,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000202336": 37,
+      "gas:candidate-vibid:268200070582": 222,
+      "gas:candidate-vibid:1001000220848": 239,
+      "gas:candidate-vibid:1001000121916": 285,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 24,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 35,
-      "Дубовик Владимир Анатольевич": 211,
-      "Кочетов Николай Викторович": 221,
-      "Пономарев Алексей Алексеевич": 247,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 11,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000202336": 35,
+      "gas:candidate-vibid:268200070582": 211,
+      "gas:candidate-vibid:1001000220848": 221,
+      "gas:candidate-vibid:1001000121916": 247,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 11,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 32,
-      "Дубовик Владимир Анатольевич": 308,
-      "Кочетов Николай Викторович": 169,
-      "Пономарев Алексей Алексеевич": 263,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 15,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000202336": 32,
+      "gas:candidate-vibid:268200070582": 308,
+      "gas:candidate-vibid:1001000220848": 169,
+      "gas:candidate-vibid:1001000121916": 263,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 15,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 168,
-      "Кочетов Николай Викторович": 251,
-      "Пономарев Алексей Алексеевич": 121,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 15,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 168,
+      "gas:candidate-vibid:1001000220848": 251,
+      "gas:candidate-vibid:1001000121916": 121,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 15,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 265,
-      "Кочетов Николай Викторович": 56,
-      "Пономарев Алексей Алексеевич": 125,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 265,
+      "gas:candidate-vibid:1001000220848": 56,
+      "gas:candidate-vibid:1001000121916": 125,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 159,
-      "Кочетов Николай Викторович": 37,
-      "Пономарев Алексей Алексеевич": 105,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 159,
+      "gas:candidate-vibid:1001000220848": 37,
+      "gas:candidate-vibid:1001000121916": 105,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 19,
-      "Дубовик Владимир Анатольевич": 253,
-      "Кочетов Николай Викторович": 157,
-      "Пономарев Алексей Алексеевич": 158,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 18,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000202336": 19,
+      "gas:candidate-vibid:268200070582": 253,
+      "gas:candidate-vibid:1001000220848": 157,
+      "gas:candidate-vibid:1001000121916": 158,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 18,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 20,
-      "Дубовик Владимир Анатольевич": 383,
-      "Кочетов Николай Викторович": 249,
-      "Пономарев Алексей Алексеевич": 223,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 24,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000202336": 20,
+      "gas:candidate-vibid:268200070582": 383,
+      "gas:candidate-vibid:1001000220848": 249,
+      "gas:candidate-vibid:1001000121916": 223,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 24,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 29,
-      "Дубовик Владимир Анатольевич": 350,
-      "Кочетов Николай Викторович": 184,
-      "Пономарев Алексей Алексеевич": 239,
-      "Сечнев Вячеслав Васильевич": 13,
-      "Скрипцов Евгений Николаевич": 19,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000202336": 29,
+      "gas:candidate-vibid:268200070582": 350,
+      "gas:candidate-vibid:1001000220848": 184,
+      "gas:candidate-vibid:1001000121916": 239,
+      "gas:candidate-vibid:1001000195147": 13,
+      "gas:candidate-vibid:268200070689": 19,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 25,
-      "Дубовик Владимир Анатольевич": 414,
-      "Кочетов Николай Викторович": 291,
-      "Пономарев Алексей Алексеевич": 249,
-      "Сечнев Вячеслав Васильевич": 24,
-      "Скрипцов Евгений Николаевич": 28,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000202336": 25,
+      "gas:candidate-vibid:268200070582": 414,
+      "gas:candidate-vibid:1001000220848": 291,
+      "gas:candidate-vibid:1001000121916": 249,
+      "gas:candidate-vibid:1001000195147": 24,
+      "gas:candidate-vibid:268200070689": 28,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 305,
-      "Кочетов Николай Викторович": 136,
-      "Пономарев Алексей Алексеевич": 178,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 305,
+      "gas:candidate-vibid:1001000220848": 136,
+      "gas:candidate-vibid:1001000121916": 178,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 332,
-      "Кочетов Николай Викторович": 100,
-      "Пономарев Алексей Алексеевич": 174,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 21,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 332,
+      "gas:candidate-vibid:1001000220848": 100,
+      "gas:candidate-vibid:1001000121916": 174,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 21,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 349,
-      "Кочетов Николай Викторович": 93,
-      "Пономарев Алексей Алексеевич": 135,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 349,
+      "gas:candidate-vibid:1001000220848": 93,
+      "gas:candidate-vibid:1001000121916": 135,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 24,
-      "Кочетов Николай Викторович": 19,
-      "Пономарев Алексей Алексеевич": 27,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 24,
+      "gas:candidate-vibid:1001000220848": 19,
+      "gas:candidate-vibid:1001000121916": 27,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 13,
-      "Кочетов Николай Викторович": 12,
-      "Пономарев Алексей Алексеевич": 9,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 13,
+      "gas:candidate-vibid:1001000220848": 12,
+      "gas:candidate-vibid:1001000121916": 9,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170514&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 23,
-      "Дубовик Владимир Анатольевич": 125,
-      "Кочетов Николай Викторович": 50,
-      "Пономарев Алексей Алексеевич": 66,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202336": 23,
+      "gas:candidate-vibid:268200070582": 125,
+      "gas:candidate-vibid:1001000220848": 50,
+      "gas:candidate-vibid:1001000121916": 66,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 17,
-      "Дубовик Владимир Анатольевич": 43,
-      "Кочетов Николай Викторович": 25,
-      "Пономарев Алексей Алексеевич": 31,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202336": 17,
+      "gas:candidate-vibid:268200070582": 43,
+      "gas:candidate-vibid:1001000220848": 25,
+      "gas:candidate-vibid:1001000121916": 31,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 92,
-      "Кочетов Николай Викторович": 36,
-      "Пономарев Алексей Алексеевич": 63,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 92,
+      "gas:candidate-vibid:1001000220848": 36,
+      "gas:candidate-vibid:1001000121916": 63,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 24,
-      "Дубовик Владимир Анатольевич": 142,
-      "Кочетов Николай Викторович": 30,
-      "Пономарев Алексей Алексеевич": 90,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 24,
+      "gas:candidate-vibid:268200070582": 142,
+      "gas:candidate-vibid:1001000220848": 30,
+      "gas:candidate-vibid:1001000121916": 90,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 81,
-      "Кочетов Николай Викторович": 29,
-      "Пономарев Алексей Алексеевич": 18,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 81,
+      "gas:candidate-vibid:1001000220848": 29,
+      "gas:candidate-vibid:1001000121916": 18,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 32,
-      "Дубовик Владимир Анатольевич": 99,
-      "Кочетов Николай Викторович": 79,
-      "Пономарев Алексей Алексеевич": 139,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000202336": 32,
+      "gas:candidate-vibid:268200070582": 99,
+      "gas:candidate-vibid:1001000220848": 79,
+      "gas:candidate-vibid:1001000121916": 139,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 19,
-      "Дубовик Владимир Анатольевич": 74,
-      "Кочетов Николай Викторович": 56,
-      "Пономарев Алексей Алексеевич": 21,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202336": 19,
+      "gas:candidate-vibid:268200070582": 74,
+      "gas:candidate-vibid:1001000220848": 56,
+      "gas:candidate-vibid:1001000121916": 21,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 14,
-      "Дубовик Владимир Анатольевич": 58,
-      "Кочетов Николай Викторович": 21,
-      "Пономарев Алексей Алексеевич": 41,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202336": 14,
+      "gas:candidate-vibid:268200070582": 58,
+      "gas:candidate-vibid:1001000220848": 21,
+      "gas:candidate-vibid:1001000121916": 41,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 2,
-      "Дубовик Владимир Анатольевич": 36,
-      "Кочетов Николай Викторович": 22,
-      "Пономарев Алексей Алексеевич": 8,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202336": 2,
+      "gas:candidate-vibid:268200070582": 36,
+      "gas:candidate-vibid:1001000220848": 22,
+      "gas:candidate-vibid:1001000121916": 8,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 23,
-      "Дубовик Владимир Анатольевич": 165,
-      "Кочетов Николай Викторович": 77,
-      "Пономарев Алексей Алексеевич": 46,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202336": 23,
+      "gas:candidate-vibid:268200070582": 165,
+      "gas:candidate-vibid:1001000220848": 77,
+      "gas:candidate-vibid:1001000121916": 46,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 85,
-      "Кочетов Николай Викторович": 45,
-      "Пономарев Алексей Алексеевич": 17,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 85,
+      "gas:candidate-vibid:1001000220848": 45,
+      "gas:candidate-vibid:1001000121916": 17,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 164,
-      "Кочетов Николай Викторович": 91,
-      "Пономарев Алексей Алексеевич": 75,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 164,
+      "gas:candidate-vibid:1001000220848": 91,
+      "gas:candidate-vibid:1001000121916": 75,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 216,
-      "Кочетов Николай Викторович": 76,
-      "Пономарев Алексей Алексеевич": 51,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 216,
+      "gas:candidate-vibid:1001000220848": 76,
+      "gas:candidate-vibid:1001000121916": 51,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 39,
-      "Кочетов Николай Викторович": 9,
-      "Пономарев Алексей Алексеевич": 5,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 39,
+      "gas:candidate-vibid:1001000220848": 9,
+      "gas:candidate-vibid:1001000121916": 5,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 10,
-      "Дубовик Владимир Анатольевич": 100,
-      "Кочетов Николай Викторович": 114,
-      "Пономарев Алексей Алексеевич": 23,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202336": 10,
+      "gas:candidate-vibid:268200070582": 100,
+      "gas:candidate-vibid:1001000220848": 114,
+      "gas:candidate-vibid:1001000121916": 23,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 7,
-      "Дубовик Владимир Анатольевич": 33,
-      "Кочетов Николай Викторович": 33,
-      "Пономарев Алексей Алексеевич": 3,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 7,
+      "gas:candidate-vibid:268200070582": 33,
+      "gas:candidate-vibid:1001000220848": 33,
+      "gas:candidate-vibid:1001000121916": 3,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 48,
-      "Дубовик Владимир Анатольевич": 363,
-      "Кочетов Николай Викторович": 366,
-      "Пономарев Алексей Алексеевич": 218,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 13,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000202336": 48,
+      "gas:candidate-vibid:268200070582": 363,
+      "gas:candidate-vibid:1001000220848": 366,
+      "gas:candidate-vibid:1001000121916": 218,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 13,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 4,
-      "Дубовик Владимир Анатольевич": 20,
-      "Кочетов Николай Викторович": 16,
-      "Пономарев Алексей Алексеевич": 12,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202336": 4,
+      "gas:candidate-vibid:268200070582": 20,
+      "gas:candidate-vibid:1001000220848": 16,
+      "gas:candidate-vibid:1001000121916": 12,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 23,
-      "Дубовик Владимир Анатольевич": 173,
-      "Кочетов Николай Викторович": 65,
-      "Пономарев Алексей Алексеевич": 129,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000202336": 23,
+      "gas:candidate-vibid:268200070582": 173,
+      "gas:candidate-vibid:1001000220848": 65,
+      "gas:candidate-vibid:1001000121916": 129,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 43,
-      "Кочетов Николай Викторович": 26,
-      "Пономарев Алексей Алексеевич": 8,
-      "Сечнев Вячеслав Васильевич": 2,
-      "Скрипцов Евгений Николаевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 43,
+      "gas:candidate-vibid:1001000220848": 26,
+      "gas:candidate-vibid:1001000121916": 8,
+      "gas:candidate-vibid:1001000195147": 2,
+      "gas:candidate-vibid:268200070689": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 3,
-      "Дубовик Владимир Анатольевич": 101,
-      "Кочетов Николай Викторович": 95,
-      "Пономарев Алексей Алексеевич": 60,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202336": 3,
+      "gas:candidate-vibid:268200070582": 101,
+      "gas:candidate-vibid:1001000220848": 95,
+      "gas:candidate-vibid:1001000121916": 60,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 1,
-      "Дубовик Владимир Анатольевич": 82,
-      "Кочетов Николай Викторович": 77,
-      "Пономарев Алексей Алексеевич": 31,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202336": 1,
+      "gas:candidate-vibid:268200070582": 82,
+      "gas:candidate-vibid:1001000220848": 77,
+      "gas:candidate-vibid:1001000121916": 31,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 31,
-      "Дубовик Владимир Анатольевич": 212,
-      "Кочетов Николай Викторович": 126,
-      "Пономарев Алексей Алексеевич": 269,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202336": 31,
+      "gas:candidate-vibid:268200070582": 212,
+      "gas:candidate-vibid:1001000220848": 126,
+      "gas:candidate-vibid:1001000121916": 269,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 85,
-      "Кочетов Николай Викторович": 6,
-      "Пономарев Алексей Алексеевич": 7,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 85,
+      "gas:candidate-vibid:1001000220848": 6,
+      "gas:candidate-vibid:1001000121916": 7,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 197,
-      "Кочетов Николай Викторович": 95,
-      "Пономарев Алексей Алексеевич": 63,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 197,
+      "gas:candidate-vibid:1001000220848": 95,
+      "gas:candidate-vibid:1001000121916": 63,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170516&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 14,
-      "Дубовик Владимир Анатольевич": 235,
-      "Кочетов Николай Викторович": 225,
-      "Пономарев Алексей Алексеевич": 152,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000202336": 14,
+      "gas:candidate-vibid:268200070582": 235,
+      "gas:candidate-vibid:1001000220848": 225,
+      "gas:candidate-vibid:1001000121916": 152,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 268,
-      "Кочетов Николай Викторович": 110,
-      "Пономарев Алексей Алексеевич": 121,
-      "Сечнев Вячеслав Васильевич": 7,
-      "Скрипцов Евгений Николаевич": 8,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 268,
+      "gas:candidate-vibid:1001000220848": 110,
+      "gas:candidate-vibid:1001000121916": 121,
+      "gas:candidate-vibid:1001000195147": 7,
+      "gas:candidate-vibid:268200070689": 8,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 22,
-      "Дубовик Владимир Анатольевич": 239,
-      "Кочетов Николай Викторович": 101,
-      "Пономарев Алексей Алексеевич": 127,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000202336": 22,
+      "gas:candidate-vibid:268200070582": 239,
+      "gas:candidate-vibid:1001000220848": 101,
+      "gas:candidate-vibid:1001000121916": 127,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 30,
-      "Дубовик Владимир Анатольевич": 314,
-      "Кочетов Николай Викторович": 140,
-      "Пономарев Алексей Алексеевич": 211,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000202336": 30,
+      "gas:candidate-vibid:268200070582": 314,
+      "gas:candidate-vibid:1001000220848": 140,
+      "gas:candidate-vibid:1001000121916": 211,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 247,
-      "Кочетов Николай Викторович": 129,
-      "Пономарев Алексей Алексеевич": 198,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 247,
+      "gas:candidate-vibid:1001000220848": 129,
+      "gas:candidate-vibid:1001000121916": 198,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 191,
-      "Кочетов Николай Викторович": 126,
-      "Пономарев Алексей Алексеевич": 97,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 191,
+      "gas:candidate-vibid:1001000220848": 126,
+      "gas:candidate-vibid:1001000121916": 97,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 21,
-      "Дубовик Владимир Анатольевич": 217,
-      "Кочетов Николай Викторович": 95,
-      "Пономарев Алексей Алексеевич": 106,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 15,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000202336": 21,
+      "gas:candidate-vibid:268200070582": 217,
+      "gas:candidate-vibid:1001000220848": 95,
+      "gas:candidate-vibid:1001000121916": 106,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 15,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 182,
-      "Кочетов Николай Викторович": 93,
-      "Пономарев Алексей Алексеевич": 64,
-      "Сечнев Вячеслав Васильевич": 0,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 182,
+      "gas:candidate-vibid:1001000220848": 93,
+      "gas:candidate-vibid:1001000121916": 64,
+      "gas:candidate-vibid:1001000195147": 0,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 20,
-      "Дубовик Владимир Анатольевич": 314,
-      "Кочетов Николай Викторович": 177,
-      "Пономарев Алексей Алексеевич": 213,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 13,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000202336": 20,
+      "gas:candidate-vibid:268200070582": 314,
+      "gas:candidate-vibid:1001000220848": 177,
+      "gas:candidate-vibid:1001000121916": 213,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 13,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 17,
-      "Дубовик Владимир Анатольевич": 352,
-      "Кочетов Николай Викторович": 115,
-      "Пономарев Алексей Алексеевич": 155,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000202336": 17,
+      "gas:candidate-vibid:268200070582": 352,
+      "gas:candidate-vibid:1001000220848": 115,
+      "gas:candidate-vibid:1001000121916": 155,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 19,
-      "Дубовик Владимир Анатольевич": 213,
-      "Кочетов Николай Викторович": 109,
-      "Пономарев Алексей Алексеевич": 114,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000202336": 19,
+      "gas:candidate-vibid:268200070582": 213,
+      "gas:candidate-vibid:1001000220848": 109,
+      "gas:candidate-vibid:1001000121916": 114,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 155,
-      "Кочетов Николай Викторович": 48,
-      "Пономарев Алексей Алексеевич": 73,
-      "Сечнев Вячеслав Васильевич": 3,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 155,
+      "gas:candidate-vibid:1001000220848": 48,
+      "gas:candidate-vibid:1001000121916": 73,
+      "gas:candidate-vibid:1001000195147": 3,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 35,
-      "Дубовик Владимир Анатольевич": 441,
-      "Кочетов Николай Викторович": 156,
-      "Пономарев Алексей Алексеевич": 219,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000202336": 35,
+      "gas:candidate-vibid:268200070582": 441,
+      "gas:candidate-vibid:1001000220848": 156,
+      "gas:candidate-vibid:1001000121916": 219,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 255,
-      "Кочетов Николай Викторович": 96,
-      "Пономарев Алексей Алексеевич": 137,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 8,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 255,
+      "gas:candidate-vibid:1001000220848": 96,
+      "gas:candidate-vibid:1001000121916": 137,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 8,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 11,
-      "Дубовик Владимир Анатольевич": 163,
-      "Кочетов Николай Викторович": 67,
-      "Пономарев Алексей Алексеевич": 47,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000202336": 11,
+      "gas:candidate-vibid:268200070582": 163,
+      "gas:candidate-vibid:1001000220848": 67,
+      "gas:candidate-vibid:1001000121916": 47,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 172,
-      "Кочетов Николай Викторович": 52,
-      "Пономарев Алексей Алексеевич": 72,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 172,
+      "gas:candidate-vibid:1001000220848": 52,
+      "gas:candidate-vibid:1001000121916": 72,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 248,
-      "Кочетов Николай Викторович": 122,
-      "Пономарев Алексей Алексеевич": 226,
-      "Сечнев Вячеслав Васильевич": 13,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 248,
+      "gas:candidate-vibid:1001000220848": 122,
+      "gas:candidate-vibid:1001000121916": 226,
+      "gas:candidate-vibid:1001000195147": 13,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 229,
-      "Кочетов Николай Викторович": 66,
-      "Пономарев Алексей Алексеевич": 227,
-      "Сечнев Вячеслав Васильевич": 17,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 229,
+      "gas:candidate-vibid:1001000220848": 66,
+      "gas:candidate-vibid:1001000121916": 227,
+      "gas:candidate-vibid:1001000195147": 17,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 247,
-      "Кочетов Николай Викторович": 122,
-      "Пономарев Алексей Алексеевич": 166,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 247,
+      "gas:candidate-vibid:1001000220848": 122,
+      "gas:candidate-vibid:1001000121916": 166,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 16,
-      "Дубовик Владимир Анатольевич": 312,
-      "Кочетов Николай Викторович": 142,
-      "Пономарев Алексей Алексеевич": 142,
-      "Сечнев Вячеслав Васильевич": 8,
-      "Скрипцов Евгений Николаевич": 13,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000202336": 16,
+      "gas:candidate-vibid:268200070582": 312,
+      "gas:candidate-vibid:1001000220848": 142,
+      "gas:candidate-vibid:1001000121916": 142,
+      "gas:candidate-vibid:1001000195147": 8,
+      "gas:candidate-vibid:268200070689": 13,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 46,
-      "Дубовик Владимир Анатольевич": 338,
-      "Кочетов Николай Викторович": 155,
-      "Пономарев Алексей Алексеевич": 190,
-      "Сечнев Вячеслав Васильевич": 17,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000202336": 46,
+      "gas:candidate-vibid:268200070582": 338,
+      "gas:candidate-vibid:1001000220848": 155,
+      "gas:candidate-vibid:1001000121916": 190,
+      "gas:candidate-vibid:1001000195147": 17,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 339,
-      "Кочетов Николай Викторович": 48,
-      "Пономарев Алексей Алексеевич": 60,
-      "Сечнев Вячеслав Васильевич": 1,
-      "Скрипцов Евгений Николаевич": 1,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 339,
+      "gas:candidate-vibid:1001000220848": 48,
+      "gas:candidate-vibid:1001000121916": 60,
+      "gas:candidate-vibid:1001000195147": 1,
+      "gas:candidate-vibid:268200070689": 1,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 21,
-      "Дубовик Владимир Анатольевич": 230,
-      "Кочетов Николай Викторович": 70,
-      "Пономарев Алексей Алексеевич": 132,
-      "Сечнев Вячеслав Васильевич": 15,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000202336": 21,
+      "gas:candidate-vibid:268200070582": 230,
+      "gas:candidate-vibid:1001000220848": 70,
+      "gas:candidate-vibid:1001000121916": 132,
+      "gas:candidate-vibid:1001000195147": 15,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 34,
-      "Дубовик Владимир Анатольевич": 475,
-      "Кочетов Николай Викторович": 169,
-      "Пономарев Алексей Алексеевич": 362,
-      "Сечнев Вячеслав Васильевич": 17,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000202336": 34,
+      "gas:candidate-vibid:268200070582": 475,
+      "gas:candidate-vibid:1001000220848": 169,
+      "gas:candidate-vibid:1001000121916": 362,
+      "gas:candidate-vibid:1001000195147": 17,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 49,
-      "Дубовик Владимир Анатольевич": 471,
-      "Кочетов Николай Викторович": 122,
-      "Пономарев Алексей Алексеевич": 302,
-      "Сечнев Вячеслав Васильевич": 18,
-      "Скрипцов Евгений Николаевич": 12,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000202336": 49,
+      "gas:candidate-vibid:268200070582": 471,
+      "gas:candidate-vibid:1001000220848": 122,
+      "gas:candidate-vibid:1001000121916": 302,
+      "gas:candidate-vibid:1001000195147": 18,
+      "gas:candidate-vibid:268200070689": 12,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 35,
-      "Дубовик Владимир Анатольевич": 373,
-      "Кочетов Николай Викторович": 124,
-      "Пономарев Алексей Алексеевич": 238,
-      "Сечнев Вячеслав Васильевич": 20,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000202336": 35,
+      "gas:candidate-vibid:268200070582": 373,
+      "gas:candidate-vibid:1001000220848": 124,
+      "gas:candidate-vibid:1001000121916": 238,
+      "gas:candidate-vibid:1001000195147": 20,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 15,
-      "Дубовик Владимир Анатольевич": 374,
-      "Кочетов Николай Викторович": 85,
-      "Пономарев Алексей Алексеевич": 141,
-      "Сечнев Вячеслав Васильевич": 11,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000202336": 15,
+      "gas:candidate-vibid:268200070582": 374,
+      "gas:candidate-vibid:1001000220848": 85,
+      "gas:candidate-vibid:1001000121916": 141,
+      "gas:candidate-vibid:1001000195147": 11,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 26,
-      "Дубовик Владимир Анатольевич": 333,
-      "Кочетов Николай Викторович": 162,
-      "Пономарев Алексей Алексеевич": 193,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000202336": 26,
+      "gas:candidate-vibid:268200070582": 333,
+      "gas:candidate-vibid:1001000220848": 162,
+      "gas:candidate-vibid:1001000121916": 193,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 28,
-      "Дубовик Владимир Анатольевич": 330,
-      "Кочетов Николай Викторович": 109,
-      "Пономарев Алексей Алексеевич": 162,
-      "Сечнев Вячеслав Васильевич": 13,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000202336": 28,
+      "gas:candidate-vibid:268200070582": 330,
+      "gas:candidate-vibid:1001000220848": 109,
+      "gas:candidate-vibid:1001000121916": 162,
+      "gas:candidate-vibid:1001000195147": 13,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 17,
-      "Дубовик Владимир Анатольевич": 269,
-      "Кочетов Николай Викторович": 115,
-      "Пономарев Алексей Алексеевич": 222,
-      "Сечнев Вячеслав Васильевич": 9,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000202336": 17,
+      "gas:candidate-vibid:268200070582": 269,
+      "gas:candidate-vibid:1001000220848": 115,
+      "gas:candidate-vibid:1001000121916": 222,
+      "gas:candidate-vibid:1001000195147": 9,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 15,
-      "Дубовик Владимир Анатольевич": 165,
-      "Кочетов Николай Викторович": 83,
-      "Пономарев Алексей Алексеевич": 120,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 4,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000202336": 15,
+      "gas:candidate-vibid:268200070582": 165,
+      "gas:candidate-vibid:1001000220848": 83,
+      "gas:candidate-vibid:1001000121916": 120,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 4,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 14,
-      "Дубовик Владимир Анатольевич": 309,
-      "Кочетов Николай Викторович": 109,
-      "Пономарев Алексей Алексеевич": 104,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000202336": 14,
+      "gas:candidate-vibid:268200070582": 309,
+      "gas:candidate-vibid:1001000220848": 109,
+      "gas:candidate-vibid:1001000121916": 104,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 9,
-      "Дубовик Владимир Анатольевич": 183,
-      "Кочетов Николай Викторович": 32,
-      "Пономарев Алексей Алексеевич": 44,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 9,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202336": 9,
+      "gas:candidate-vibid:268200070582": 183,
+      "gas:candidate-vibid:1001000220848": 32,
+      "gas:candidate-vibid:1001000121916": 44,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 9,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 269,
-      "Кочетов Николай Викторович": 100,
-      "Пономарев Алексей Алексеевич": 72,
-      "Сечнев Вячеслав Васильевич": 4,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 269,
+      "gas:candidate-vibid:1001000220848": 100,
+      "gas:candidate-vibid:1001000121916": 72,
+      "gas:candidate-vibid:1001000195147": 4,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 6,
-      "Дубовик Владимир Анатольевич": 144,
-      "Кочетов Николай Викторович": 86,
-      "Пономарев Алексей Алексеевич": 82,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 5,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000202336": 6,
+      "gas:candidate-vibid:268200070582": 144,
+      "gas:candidate-vibid:1001000220848": 86,
+      "gas:candidate-vibid:1001000121916": 82,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 5,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 29,
-      "Дубовик Владимир Анатольевич": 235,
-      "Кочетов Николай Викторович": 130,
-      "Пономарев Алексей Алексеевич": 193,
-      "Сечнев Вячеслав Васильевич": 6,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000202336": 29,
+      "gas:candidate-vibid:268200070582": 235,
+      "gas:candidate-vibid:1001000220848": 130,
+      "gas:candidate-vibid:1001000121916": 193,
+      "gas:candidate-vibid:1001000195147": 6,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 28,
-      "Дубовик Владимир Анатольевич": 332,
-      "Кочетов Николай Викторович": 167,
-      "Пономарев Алексей Алексеевич": 257,
-      "Сечнев Вячеслав Васильевич": 17,
-      "Скрипцов Евгений Николаевич": 25,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000202336": 28,
+      "gas:candidate-vibid:268200070582": 332,
+      "gas:candidate-vibid:1001000220848": 167,
+      "gas:candidate-vibid:1001000121916": 257,
+      "gas:candidate-vibid:1001000195147": 17,
+      "gas:candidate-vibid:268200070689": 25,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 29,
-      "Дубовик Владимир Анатольевич": 324,
-      "Кочетов Николай Викторович": 135,
-      "Пономарев Алексей Алексеевич": 137,
-      "Сечнев Вячеслав Васильевич": 20,
-      "Скрипцов Евгений Николаевич": 18,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000202336": 29,
+      "gas:candidate-vibid:268200070582": 324,
+      "gas:candidate-vibid:1001000220848": 135,
+      "gas:candidate-vibid:1001000121916": 137,
+      "gas:candidate-vibid:1001000195147": 20,
+      "gas:candidate-vibid:268200070689": 18,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 8,
-      "Дубовик Владимир Анатольевич": 146,
-      "Кочетов Николай Викторович": 64,
-      "Пономарев Алексей Алексеевич": 58,
-      "Сечнев Вячеслав Васильевич": 10,
-      "Скрипцов Евгений Николаевич": 2,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000202336": 8,
+      "gas:candidate-vibid:268200070582": 146,
+      "gas:candidate-vibid:1001000220848": 64,
+      "gas:candidate-vibid:1001000121916": 58,
+      "gas:candidate-vibid:1001000195147": 10,
+      "gas:candidate-vibid:268200070689": 2,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 5,
-      "Дубовик Владимир Анатольевич": 194,
-      "Кочетов Николай Викторович": 123,
-      "Пономарев Алексей Алексеевич": 106,
-      "Сечнев Вячеслав Васильевич": 7,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000202336": 5,
+      "gas:candidate-vibid:268200070582": 194,
+      "gas:candidate-vibid:1001000220848": 123,
+      "gas:candidate-vibid:1001000121916": 106,
+      "gas:candidate-vibid:1001000195147": 7,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 30,
-      "Дубовик Владимир Анатольевич": 168,
-      "Кочетов Николай Викторович": 113,
-      "Пономарев Алексей Алексеевич": 146,
-      "Сечнев Вячеслав Васильевич": 5,
-      "Скрипцов Евгений Николаевич": 3,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000202336": 30,
+      "gas:candidate-vibid:268200070582": 168,
+      "gas:candidate-vibid:1001000220848": 113,
+      "gas:candidate-vibid:1001000121916": 146,
+      "gas:candidate-vibid:1001000195147": 5,
+      "gas:candidate-vibid:268200070689": 3,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 18,
-      "Дубовик Владимир Анатольевич": 253,
-      "Кочетов Николай Викторович": 118,
-      "Пономарев Алексей Алексеевич": 159,
-      "Сечнев Вячеслав Васильевич": 7,
-      "Скрипцов Евгений Николаевич": 13,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000202336": 18,
+      "gas:candidate-vibid:268200070582": 253,
+      "gas:candidate-vibid:1001000220848": 118,
+      "gas:candidate-vibid:1001000121916": 159,
+      "gas:candidate-vibid:1001000195147": 7,
+      "gas:candidate-vibid:268200070689": 13,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 13,
-      "Дубовик Владимир Анатольевич": 198,
-      "Кочетов Николай Викторович": 69,
-      "Пономарев Алексей Алексеевич": 126,
-      "Сечнев Вячеслав Васильевич": 14,
-      "Скрипцов Евгений Николаевич": 14,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000202336": 13,
+      "gas:candidate-vibid:268200070582": 198,
+      "gas:candidate-vibid:1001000220848": 69,
+      "gas:candidate-vibid:1001000121916": 126,
+      "gas:candidate-vibid:1001000195147": 14,
+      "gas:candidate-vibid:268200070689": 14,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 12,
-      "Дубовик Владимир Анатольевич": 202,
-      "Кочетов Николай Викторович": 96,
-      "Пономарев Алексей Алексеевич": 161,
-      "Сечнев Вячеслав Васильевич": 12,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000202336": 12,
+      "gas:candidate-vibid:268200070582": 202,
+      "gas:candidate-vibid:1001000220848": 96,
+      "gas:candidate-vibid:1001000121916": 161,
+      "gas:candidate-vibid:1001000195147": 12,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 54,
-      "Дубовик Владимир Анатольевич": 289,
-      "Кочетов Николай Викторович": 147,
-      "Пономарев Алексей Алексеевич": 256,
-      "Сечнев Вячеслав Васильевич": 17,
-      "Скрипцов Евгений Николаевич": 7,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000202336": 54,
+      "gas:candidate-vibid:268200070582": 289,
+      "gas:candidate-vibid:1001000220848": 147,
+      "gas:candidate-vibid:1001000121916": 256,
+      "gas:candidate-vibid:1001000195147": 17,
+      "gas:candidate-vibid:268200070689": 7,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 29,
-      "Дубовик Владимир Анатольевич": 243,
-      "Кочетов Николай Викторович": 141,
-      "Пономарев Алексей Алексеевич": 225,
-      "Сечнев Вячеслав Васильевич": 15,
-      "Скрипцов Евгений Николаевич": 6,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000202336": 29,
+      "gas:candidate-vibid:268200070582": 243,
+      "gas:candidate-vibid:1001000220848": 141,
+      "gas:candidate-vibid:1001000121916": 225,
+      "gas:candidate-vibid:1001000195147": 15,
+      "gas:candidate-vibid:268200070689": 6,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 30,
-      "Дубовик Владимир Анатольевич": 313,
-      "Кочетов Николай Викторович": 124,
-      "Пономарев Алексей Алексеевич": 217,
-      "Сечнев Вячеслав Васильевич": 13,
-      "Скрипцов Евгений Николаевич": 15,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000202336": 30,
+      "gas:candidate-vibid:268200070582": 313,
+      "gas:candidate-vibid:1001000220848": 124,
+      "gas:candidate-vibid:1001000121916": 217,
+      "gas:candidate-vibid:1001000195147": 13,
+      "gas:candidate-vibid:268200070689": 15,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гетманов Андрей Владимирович": 47,
-      "Дубовик Владимир Анатольевич": 240,
-      "Кочетов Николай Викторович": 127,
-      "Пономарев Алексей Алексеевич": 240,
-      "Сечнев Вячеслав Васильевич": 15,
-      "Скрипцов Евгений Николаевич": 10,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000202336": 47,
+      "gas:candidate-vibid:268200070582": 240,
+      "gas:candidate-vibid:1001000220848": 127,
+      "gas:candidate-vibid:1001000121916": 240,
+      "gas:candidate-vibid:1001000195147": 15,
+      "gas:candidate-vibid:268200070689": 10,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683001019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300170901&region=0&sub_region=0&type=429",
@@ -6370,15 +6370,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 26,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 26,
-      "Левченко Олег Иванович": 9,
-      "Плетнева Тамара Васильевна": 26,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 8,
-      "Против всех": 25
+      "gas:candidate-vibid:268200070684": 26,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 26,
+      "gas:candidate-vibid:268200070483": 9,
+      "gas:candidate-vibid:1001000121917": 26,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 8,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6428,15 +6428,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 179,
-      "Воробьев Николай Иванович": 37,
-      "Гришкин Валерий Андреевич": 6,
-      "Коваль Нина Александровна": 154,
-      "Левченко Олег Иванович": 53,
-      "Плетнева Тамара Васильевна": 220,
-      "Томильчик Валерий Григорьевич": 13,
-      "Филонов Владимир Леонидович": 13,
-      "Против всех": 147
+      "gas:candidate-vibid:268200070684": 179,
+      "gas:candidate-vibid:268200070617": 37,
+      "gas:candidate-vibid:1001000195148": 6,
+      "gas:candidate-vibid:268200070486": 154,
+      "gas:candidate-vibid:268200070483": 53,
+      "gas:candidate-vibid:1001000121917": 220,
+      "gas:candidate-vibid:1001000112261": 13,
+      "gas:candidate-vibid:1001000190421": 13,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6486,15 +6486,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 258,
-      "Воробьев Николай Иванович": 52,
-      "Гришкин Валерий Андреевич": 8,
-      "Коваль Нина Александровна": 147,
-      "Левченко Олег Иванович": 77,
-      "Плетнева Тамара Васильевна": 228,
-      "Томильчик Валерий Григорьевич": 15,
-      "Филонов Владимир Леонидович": 15,
-      "Против всех": 173
+      "gas:candidate-vibid:268200070684": 258,
+      "gas:candidate-vibid:268200070617": 52,
+      "gas:candidate-vibid:1001000195148": 8,
+      "gas:candidate-vibid:268200070486": 147,
+      "gas:candidate-vibid:268200070483": 77,
+      "gas:candidate-vibid:1001000121917": 228,
+      "gas:candidate-vibid:1001000112261": 15,
+      "gas:candidate-vibid:1001000190421": 15,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6544,15 +6544,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 319,
-      "Воробьев Николай Иванович": 51,
-      "Гришкин Валерий Андреевич": 10,
-      "Коваль Нина Александровна": 171,
-      "Левченко Олег Иванович": 103,
-      "Плетнева Тамара Васильевна": 409,
-      "Томильчик Валерий Григорьевич": 23,
-      "Филонов Владимир Леонидович": 17,
-      "Против всех": 195
+      "gas:candidate-vibid:268200070684": 319,
+      "gas:candidate-vibid:268200070617": 51,
+      "gas:candidate-vibid:1001000195148": 10,
+      "gas:candidate-vibid:268200070486": 171,
+      "gas:candidate-vibid:268200070483": 103,
+      "gas:candidate-vibid:1001000121917": 409,
+      "gas:candidate-vibid:1001000112261": 23,
+      "gas:candidate-vibid:1001000190421": 17,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6602,15 +6602,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 265,
-      "Воробьев Николай Иванович": 61,
-      "Гришкин Валерий Андреевич": 8,
-      "Коваль Нина Александровна": 181,
-      "Левченко Олег Иванович": 79,
-      "Плетнева Тамара Васильевна": 239,
-      "Томильчик Валерий Григорьевич": 17,
-      "Филонов Владимир Леонидович": 16,
-      "Против всех": 176
+      "gas:candidate-vibid:268200070684": 265,
+      "gas:candidate-vibid:268200070617": 61,
+      "gas:candidate-vibid:1001000195148": 8,
+      "gas:candidate-vibid:268200070486": 181,
+      "gas:candidate-vibid:268200070483": 79,
+      "gas:candidate-vibid:1001000121917": 239,
+      "gas:candidate-vibid:1001000112261": 17,
+      "gas:candidate-vibid:1001000190421": 16,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6660,15 +6660,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 289,
-      "Воробьев Николай Иванович": 39,
-      "Гришкин Валерий Андреевич": 15,
-      "Коваль Нина Александровна": 167,
-      "Левченко Олег Иванович": 83,
-      "Плетнева Тамара Васильевна": 243,
-      "Томильчик Валерий Григорьевич": 11,
-      "Филонов Владимир Леонидович": 15,
-      "Против всех": 192
+      "gas:candidate-vibid:268200070684": 289,
+      "gas:candidate-vibid:268200070617": 39,
+      "gas:candidate-vibid:1001000195148": 15,
+      "gas:candidate-vibid:268200070486": 167,
+      "gas:candidate-vibid:268200070483": 83,
+      "gas:candidate-vibid:1001000121917": 243,
+      "gas:candidate-vibid:1001000112261": 11,
+      "gas:candidate-vibid:1001000190421": 15,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6718,15 +6718,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 58,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 36,
-      "Левченко Олег Иванович": 22,
-      "Плетнева Тамара Васильевна": 64,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:268200070684": 58,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 36,
+      "gas:candidate-vibid:268200070483": 22,
+      "gas:candidate-vibid:1001000121917": 64,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6776,15 +6776,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 311,
-      "Воробьев Николай Иванович": 55,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 174,
-      "Левченко Олег Иванович": 82,
-      "Плетнева Тамара Васильевна": 277,
-      "Томильчик Валерий Григорьевич": 20,
-      "Филонов Владимир Леонидович": 7,
-      "Против всех": 202
+      "gas:candidate-vibid:268200070684": 311,
+      "gas:candidate-vibid:268200070617": 55,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 174,
+      "gas:candidate-vibid:268200070483": 82,
+      "gas:candidate-vibid:1001000121917": 277,
+      "gas:candidate-vibid:1001000112261": 20,
+      "gas:candidate-vibid:1001000190421": 7,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6834,15 +6834,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 192,
-      "Воробьев Николай Иванович": 31,
-      "Гришкин Валерий Андреевич": 9,
-      "Коваль Нина Александровна": 112,
-      "Левченко Олег Иванович": 52,
-      "Плетнева Тамара Васильевна": 173,
-      "Томильчик Валерий Григорьевич": 11,
-      "Филонов Владимир Леонидович": 11,
-      "Против всех": 135
+      "gas:candidate-vibid:268200070684": 192,
+      "gas:candidate-vibid:268200070617": 31,
+      "gas:candidate-vibid:1001000195148": 9,
+      "gas:candidate-vibid:268200070486": 112,
+      "gas:candidate-vibid:268200070483": 52,
+      "gas:candidate-vibid:1001000121917": 173,
+      "gas:candidate-vibid:1001000112261": 11,
+      "gas:candidate-vibid:1001000190421": 11,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6892,15 +6892,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 289,
-      "Воробьев Николай Иванович": 23,
-      "Гришкин Валерий Андреевич": 11,
-      "Коваль Нина Александровна": 167,
-      "Левченко Олег Иванович": 100,
-      "Плетнева Тамара Васильевна": 261,
-      "Томильчик Валерий Григорьевич": 16,
-      "Филонов Владимир Леонидович": 20,
-      "Против всех": 199
+      "gas:candidate-vibid:268200070684": 289,
+      "gas:candidate-vibid:268200070617": 23,
+      "gas:candidate-vibid:1001000195148": 11,
+      "gas:candidate-vibid:268200070486": 167,
+      "gas:candidate-vibid:268200070483": 100,
+      "gas:candidate-vibid:1001000121917": 261,
+      "gas:candidate-vibid:1001000112261": 16,
+      "gas:candidate-vibid:1001000190421": 20,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -6950,15 +6950,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 173,
-      "Воробьев Николай Иванович": 50,
-      "Гришкин Валерий Андреевич": 9,
-      "Коваль Нина Александровна": 132,
-      "Левченко Олег Иванович": 72,
-      "Плетнева Тамара Васильевна": 251,
-      "Томильчик Валерий Григорьевич": 15,
-      "Филонов Владимир Леонидович": 7,
-      "Против всех": 160
+      "gas:candidate-vibid:268200070684": 173,
+      "gas:candidate-vibid:268200070617": 50,
+      "gas:candidate-vibid:1001000195148": 9,
+      "gas:candidate-vibid:268200070486": 132,
+      "gas:candidate-vibid:268200070483": 72,
+      "gas:candidate-vibid:1001000121917": 251,
+      "gas:candidate-vibid:1001000112261": 15,
+      "gas:candidate-vibid:1001000190421": 7,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7008,15 +7008,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 14,
-      "Воробьев Николай Иванович": 4,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 11,
-      "Левченко Олег Иванович": 7,
-      "Плетнева Тамара Васильевна": 19,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:268200070684": 14,
+      "gas:candidate-vibid:268200070617": 4,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 11,
+      "gas:candidate-vibid:268200070483": 7,
+      "gas:candidate-vibid:1001000121917": 19,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7066,15 +7066,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 394,
-      "Воробьев Николай Иванович": 80,
-      "Гришкин Валерий Андреевич": 12,
-      "Коваль Нина Александровна": 165,
-      "Левченко Олег Иванович": 140,
-      "Плетнева Тамара Васильевна": 525,
-      "Томильчик Валерий Григорьевич": 45,
-      "Филонов Владимир Леонидович": 30,
-      "Против всех": 303
+      "gas:candidate-vibid:268200070684": 394,
+      "gas:candidate-vibid:268200070617": 80,
+      "gas:candidate-vibid:1001000195148": 12,
+      "gas:candidate-vibid:268200070486": 165,
+      "gas:candidate-vibid:268200070483": 140,
+      "gas:candidate-vibid:1001000121917": 525,
+      "gas:candidate-vibid:1001000112261": 45,
+      "gas:candidate-vibid:1001000190421": 30,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7124,15 +7124,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 313,
-      "Воробьев Николай Иванович": 79,
-      "Гришкин Валерий Андреевич": 13,
-      "Коваль Нина Александровна": 257,
-      "Левченко Олег Иванович": 121,
-      "Плетнева Тамара Васильевна": 393,
-      "Томильчик Валерий Григорьевич": 39,
-      "Филонов Владимир Леонидович": 31,
-      "Против всех": 344
+      "gas:candidate-vibid:268200070684": 313,
+      "gas:candidate-vibid:268200070617": 79,
+      "gas:candidate-vibid:1001000195148": 13,
+      "gas:candidate-vibid:268200070486": 257,
+      "gas:candidate-vibid:268200070483": 121,
+      "gas:candidate-vibid:1001000121917": 393,
+      "gas:candidate-vibid:1001000112261": 39,
+      "gas:candidate-vibid:1001000190421": 31,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7182,15 +7182,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 98,
-      "Воробьев Николай Иванович": 26,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 98,
-      "Левченко Олег Иванович": 68,
-      "Плетнева Тамара Васильевна": 184,
-      "Томильчик Валерий Григорьевич": 16,
-      "Филонов Владимир Леонидович": 10,
-      "Против всех": 79
+      "gas:candidate-vibid:268200070684": 98,
+      "gas:candidate-vibid:268200070617": 26,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 98,
+      "gas:candidate-vibid:268200070483": 68,
+      "gas:candidate-vibid:1001000121917": 184,
+      "gas:candidate-vibid:1001000112261": 16,
+      "gas:candidate-vibid:1001000190421": 10,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7240,15 +7240,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 66,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 60,
-      "Левченко Олег Иванович": 24,
-      "Плетнева Тамара Васильевна": 73,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 72
+      "gas:candidate-vibid:268200070684": 66,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 60,
+      "gas:candidate-vibid:268200070483": 24,
+      "gas:candidate-vibid:1001000121917": 73,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7298,15 +7298,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 293,
-      "Воробьев Николай Иванович": 75,
-      "Гришкин Валерий Андреевич": 8,
-      "Коваль Нина Александровна": 202,
-      "Левченко Олег Иванович": 132,
-      "Плетнева Тамара Васильевна": 406,
-      "Томильчик Валерий Григорьевич": 34,
-      "Филонов Владимир Леонидович": 22,
-      "Против всех": 190
+      "gas:candidate-vibid:268200070684": 293,
+      "gas:candidate-vibid:268200070617": 75,
+      "gas:candidate-vibid:1001000195148": 8,
+      "gas:candidate-vibid:268200070486": 202,
+      "gas:candidate-vibid:268200070483": 132,
+      "gas:candidate-vibid:1001000121917": 406,
+      "gas:candidate-vibid:1001000112261": 34,
+      "gas:candidate-vibid:1001000190421": 22,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7356,15 +7356,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 251,
-      "Воробьев Николай Иванович": 41,
-      "Гришкин Валерий Андреевич": 9,
-      "Коваль Нина Александровна": 137,
-      "Левченко Олег Иванович": 107,
-      "Плетнева Тамара Васильевна": 313,
-      "Томильчик Валерий Григорьевич": 14,
-      "Филонов Владимир Леонидович": 14,
-      "Против всех": 181
+      "gas:candidate-vibid:268200070684": 251,
+      "gas:candidate-vibid:268200070617": 41,
+      "gas:candidate-vibid:1001000195148": 9,
+      "gas:candidate-vibid:268200070486": 137,
+      "gas:candidate-vibid:268200070483": 107,
+      "gas:candidate-vibid:1001000121917": 313,
+      "gas:candidate-vibid:1001000112261": 14,
+      "gas:candidate-vibid:1001000190421": 14,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7414,15 +7414,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 264,
-      "Воробьев Николай Иванович": 54,
-      "Гришкин Валерий Андреевич": 11,
-      "Коваль Нина Александровна": 174,
-      "Левченко Олег Иванович": 112,
-      "Плетнева Тамара Васильевна": 305,
-      "Томильчик Валерий Григорьевич": 24,
-      "Филонов Владимир Леонидович": 18,
-      "Против всех": 257
+      "gas:candidate-vibid:268200070684": 264,
+      "gas:candidate-vibid:268200070617": 54,
+      "gas:candidate-vibid:1001000195148": 11,
+      "gas:candidate-vibid:268200070486": 174,
+      "gas:candidate-vibid:268200070483": 112,
+      "gas:candidate-vibid:1001000121917": 305,
+      "gas:candidate-vibid:1001000112261": 24,
+      "gas:candidate-vibid:1001000190421": 18,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7472,15 +7472,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 13,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 9,
-      "Левченко Олег Иванович": 1,
-      "Плетнева Тамара Васильевна": 15,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:268200070684": 13,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 9,
+      "gas:candidate-vibid:268200070483": 1,
+      "gas:candidate-vibid:1001000121917": 15,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7530,15 +7530,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 255,
-      "Воробьев Николай Иванович": 59,
-      "Гришкин Валерий Андреевич": 28,
-      "Коваль Нина Александровна": 125,
-      "Левченко Олег Иванович": 116,
-      "Плетнева Тамара Васильевна": 322,
-      "Томильчик Валерий Григорьевич": 37,
-      "Филонов Владимир Леонидович": 19,
-      "Против всех": 272
+      "gas:candidate-vibid:268200070684": 255,
+      "gas:candidate-vibid:268200070617": 59,
+      "gas:candidate-vibid:1001000195148": 28,
+      "gas:candidate-vibid:268200070486": 125,
+      "gas:candidate-vibid:268200070483": 116,
+      "gas:candidate-vibid:1001000121917": 322,
+      "gas:candidate-vibid:1001000112261": 37,
+      "gas:candidate-vibid:1001000190421": 19,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7588,15 +7588,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 269,
-      "Воробьев Николай Иванович": 35,
-      "Гришкин Валерий Андреевич": 11,
-      "Коваль Нина Александровна": 109,
-      "Левченко Олег Иванович": 98,
-      "Плетнева Тамара Васильевна": 267,
-      "Томильчик Валерий Григорьевич": 11,
-      "Филонов Владимир Леонидович": 17,
-      "Против всех": 173
+      "gas:candidate-vibid:268200070684": 269,
+      "gas:candidate-vibid:268200070617": 35,
+      "gas:candidate-vibid:1001000195148": 11,
+      "gas:candidate-vibid:268200070486": 109,
+      "gas:candidate-vibid:268200070483": 98,
+      "gas:candidate-vibid:1001000121917": 267,
+      "gas:candidate-vibid:1001000112261": 11,
+      "gas:candidate-vibid:1001000190421": 17,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270571&region=0&sub_region=0&type=429",
@@ -7646,15 +7646,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 276,
-      "Воробьев Николай Иванович": 13,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 61,
-      "Левченко Олег Иванович": 47,
-      "Плетнева Тамара Васильевна": 313,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 72
+      "gas:candidate-vibid:268200070684": 276,
+      "gas:candidate-vibid:268200070617": 13,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 61,
+      "gas:candidate-vibid:268200070483": 47,
+      "gas:candidate-vibid:1001000121917": 313,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -7704,15 +7704,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 245,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 24,
-      "Левченко Олег Иванович": 28,
-      "Плетнева Тамара Васильевна": 19,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:268200070684": 245,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 24,
+      "gas:candidate-vibid:268200070483": 28,
+      "gas:candidate-vibid:1001000121917": 19,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -7762,15 +7762,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 188,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 18,
-      "Левченко Олег Иванович": 22,
-      "Плетнева Тамара Васильевна": 46,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:268200070684": 188,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 18,
+      "gas:candidate-vibid:268200070483": 22,
+      "gas:candidate-vibid:1001000121917": 46,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -7820,15 +7820,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 115,
-      "Воробьев Николай Иванович": 6,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 25,
-      "Левченко Олег Иванович": 14,
-      "Плетнева Тамара Васильевна": 107,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:268200070684": 115,
+      "gas:candidate-vibid:268200070617": 6,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 25,
+      "gas:candidate-vibid:268200070483": 14,
+      "gas:candidate-vibid:1001000121917": 107,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -7878,15 +7878,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 133,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 33,
-      "Левченко Олег Иванович": 15,
-      "Плетнева Тамара Васильевна": 89,
-      "Томильчик Валерий Григорьевич": 5,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:268200070684": 133,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 33,
+      "gas:candidate-vibid:268200070483": 15,
+      "gas:candidate-vibid:1001000121917": 89,
+      "gas:candidate-vibid:1001000112261": 5,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -7936,15 +7936,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 91,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 22,
-      "Левченко Олег Иванович": 22,
-      "Плетнева Тамара Васильевна": 63,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:268200070684": 91,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 22,
+      "gas:candidate-vibid:268200070483": 22,
+      "gas:candidate-vibid:1001000121917": 63,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -7994,15 +7994,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 59,
-      "Воробьев Николай Иванович": 6,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 9,
-      "Левченко Олег Иванович": 8,
-      "Плетнева Тамара Васильевна": 73,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:268200070684": 59,
+      "gas:candidate-vibid:268200070617": 6,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 9,
+      "gas:candidate-vibid:268200070483": 8,
+      "gas:candidate-vibid:1001000121917": 73,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8052,15 +8052,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 179,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 38,
-      "Левченко Олег Иванович": 19,
-      "Плетнева Тамара Васильевна": 117,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 52
+      "gas:candidate-vibid:268200070684": 179,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 38,
+      "gas:candidate-vibid:268200070483": 19,
+      "gas:candidate-vibid:1001000121917": 117,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8110,15 +8110,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 152,
-      "Воробьев Николай Иванович": 10,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 24,
-      "Левченко Олег Иванович": 16,
-      "Плетнева Тамара Васильевна": 81,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:268200070684": 152,
+      "gas:candidate-vibid:268200070617": 10,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 24,
+      "gas:candidate-vibid:268200070483": 16,
+      "gas:candidate-vibid:1001000121917": 81,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8168,15 +8168,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 67,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 31,
-      "Левченко Олег Иванович": 19,
-      "Плетнева Тамара Васильевна": 171,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:268200070684": 67,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 31,
+      "gas:candidate-vibid:268200070483": 19,
+      "gas:candidate-vibid:1001000121917": 171,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8226,15 +8226,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 62,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 27,
-      "Левченко Олег Иванович": 11,
-      "Плетнева Тамара Васильевна": 77,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:268200070684": 62,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 27,
+      "gas:candidate-vibid:268200070483": 11,
+      "gas:candidate-vibid:1001000121917": 77,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8284,15 +8284,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 56,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 14,
-      "Левченко Олег Иванович": 0,
-      "Плетнева Тамара Васильевна": 21,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:268200070684": 56,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 14,
+      "gas:candidate-vibid:268200070483": 0,
+      "gas:candidate-vibid:1001000121917": 21,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8342,15 +8342,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 18,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 9,
-      "Левченко Олег Иванович": 5,
-      "Плетнева Тамара Васильевна": 49,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:268200070684": 18,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 9,
+      "gas:candidate-vibid:268200070483": 5,
+      "gas:candidate-vibid:1001000121917": 49,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8400,15 +8400,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 37,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 11,
-      "Левченко Олег Иванович": 6,
-      "Плетнева Тамара Васильевна": 58,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:268200070684": 37,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 11,
+      "gas:candidate-vibid:268200070483": 6,
+      "gas:candidate-vibid:1001000121917": 58,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8458,15 +8458,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 126,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 19,
-      "Левченко Олег Иванович": 6,
-      "Плетнева Тамара Васильевна": 62,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:268200070684": 126,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 19,
+      "gas:candidate-vibid:268200070483": 6,
+      "gas:candidate-vibid:1001000121917": 62,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8516,15 +8516,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 69,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 3,
-      "Левченко Олег Иванович": 8,
-      "Плетнева Тамара Васильевна": 34,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:268200070684": 69,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 3,
+      "gas:candidate-vibid:268200070483": 8,
+      "gas:candidate-vibid:1001000121917": 34,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8574,15 +8574,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 225,
-      "Воробьев Николай Иванович": 15,
-      "Гришкин Валерий Андреевич": 14,
-      "Коваль Нина Александровна": 51,
-      "Левченко Олег Иванович": 40,
-      "Плетнева Тамара Васильевна": 146,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:268200070684": 225,
+      "gas:candidate-vibid:268200070617": 15,
+      "gas:candidate-vibid:1001000195148": 14,
+      "gas:candidate-vibid:268200070486": 51,
+      "gas:candidate-vibid:268200070483": 40,
+      "gas:candidate-vibid:1001000121917": 146,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8632,15 +8632,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 71,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 6,
-      "Левченко Олег Иванович": 2,
-      "Плетнева Тамара Васильевна": 18,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:268200070684": 71,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 6,
+      "gas:candidate-vibid:268200070483": 2,
+      "gas:candidate-vibid:1001000121917": 18,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8690,15 +8690,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 163,
-      "Воробьев Николай Иванович": 4,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 49,
-      "Левченко Олег Иванович": 18,
-      "Плетнева Тамара Васильевна": 54,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 38
+      "gas:candidate-vibid:268200070684": 163,
+      "gas:candidate-vibid:268200070617": 4,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 49,
+      "gas:candidate-vibid:268200070483": 18,
+      "gas:candidate-vibid:1001000121917": 54,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8748,15 +8748,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 134,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 18,
-      "Коваль Нина Александровна": 5,
-      "Левченко Олег Иванович": 81,
-      "Плетнева Тамара Васильевна": 4,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 39
+      "gas:candidate-vibid:268200070684": 134,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 18,
+      "gas:candidate-vibid:268200070486": 5,
+      "gas:candidate-vibid:268200070483": 81,
+      "gas:candidate-vibid:1001000121917": 4,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8806,15 +8806,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 171,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 11,
-      "Левченко Олег Иванович": 6,
-      "Плетнева Тамара Васильевна": 12,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:268200070684": 171,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 11,
+      "gas:candidate-vibid:268200070483": 6,
+      "gas:candidate-vibid:1001000121917": 12,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8864,15 +8864,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 90,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 4,
-      "Левченко Олег Иванович": 10,
-      "Плетнева Тамара Васильевна": 27,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:268200070684": 90,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 4,
+      "gas:candidate-vibid:268200070483": 10,
+      "gas:candidate-vibid:1001000121917": 27,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8922,15 +8922,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 108,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 21,
-      "Левченко Олег Иванович": 17,
-      "Плетнева Тамара Васильевна": 47,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:268200070684": 108,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 21,
+      "gas:candidate-vibid:268200070483": 17,
+      "gas:candidate-vibid:1001000121917": 47,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -8980,15 +8980,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 76,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 9,
-      "Левченко Олег Иванович": 13,
-      "Плетнева Тамара Васильевна": 27,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:268200070684": 76,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 9,
+      "gas:candidate-vibid:268200070483": 13,
+      "gas:candidate-vibid:1001000121917": 27,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9038,15 +9038,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 163,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 50,
-      "Левченко Олег Иванович": 42,
-      "Плетнева Тамара Васильевна": 55,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 42
+      "gas:candidate-vibid:268200070684": 163,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 50,
+      "gas:candidate-vibid:268200070483": 42,
+      "gas:candidate-vibid:1001000121917": 55,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9096,15 +9096,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 188,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 23,
-      "Левченко Олег Иванович": 18,
-      "Плетнева Тамара Васильевна": 36,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 41
+      "gas:candidate-vibid:268200070684": 188,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 23,
+      "gas:candidate-vibid:268200070483": 18,
+      "gas:candidate-vibid:1001000121917": 36,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9154,15 +9154,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 144,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 24,
-      "Левченко Олег Иванович": 19,
-      "Плетнева Тамара Васильевна": 27,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:268200070684": 144,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 24,
+      "gas:candidate-vibid:268200070483": 19,
+      "gas:candidate-vibid:1001000121917": 27,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9212,15 +9212,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 31,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 11,
-      "Левченко Олег Иванович": 1,
-      "Плетнева Тамара Васильевна": 14,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:268200070684": 31,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 11,
+      "gas:candidate-vibid:268200070483": 1,
+      "gas:candidate-vibid:1001000121917": 14,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9270,15 +9270,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 253,
-      "Воробьев Николай Иванович": 18,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 68,
-      "Левченко Олег Иванович": 33,
-      "Плетнева Тамара Васильевна": 285,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 94
+      "gas:candidate-vibid:268200070684": 253,
+      "gas:candidate-vibid:268200070617": 18,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 68,
+      "gas:candidate-vibid:268200070483": 33,
+      "gas:candidate-vibid:1001000121917": 285,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9328,15 +9328,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 192,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 27,
-      "Левченко Олег Иванович": 23,
-      "Плетнева Тамара Васильевна": 135,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 39
+      "gas:candidate-vibid:268200070684": 192,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 27,
+      "gas:candidate-vibid:268200070483": 23,
+      "gas:candidate-vibid:1001000121917": 135,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9386,15 +9386,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 194,
-      "Воробьев Николай Иванович": 10,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 45,
-      "Левченко Олег Иванович": 22,
-      "Плетнева Тамара Васильевна": 113,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 42
+      "gas:candidate-vibid:268200070684": 194,
+      "gas:candidate-vibid:268200070617": 10,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 45,
+      "gas:candidate-vibid:268200070483": 22,
+      "gas:candidate-vibid:1001000121917": 113,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9444,15 +9444,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 236,
-      "Воробьев Николай Иванович": 12,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 89,
-      "Левченко Олег Иванович": 85,
-      "Плетнева Тамара Васильевна": 197,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 143
+      "gas:candidate-vibid:268200070684": 236,
+      "gas:candidate-vibid:268200070617": 12,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 89,
+      "gas:candidate-vibid:268200070483": 85,
+      "gas:candidate-vibid:1001000121917": 197,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270586&region=0&sub_region=0&type=429",
@@ -9502,15 +9502,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 227,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 39,
-      "Левченко Олег Иванович": 94,
-      "Плетнева Тамара Васильевна": 144,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 64
+      "gas:candidate-vibid:268200070684": 227,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 39,
+      "gas:candidate-vibid:268200070483": 94,
+      "gas:candidate-vibid:1001000121917": 144,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9560,15 +9560,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 233,
-      "Воробьев Николай Иванович": 12,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 41,
-      "Левченко Олег Иванович": 54,
-      "Плетнева Тамара Васильевна": 154,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 55
+      "gas:candidate-vibid:268200070684": 233,
+      "gas:candidate-vibid:268200070617": 12,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 41,
+      "gas:candidate-vibid:268200070483": 54,
+      "gas:candidate-vibid:1001000121917": 154,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9618,15 +9618,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 208,
-      "Воробьев Николай Иванович": 10,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 30,
-      "Левченко Олег Иванович": 35,
-      "Плетнева Тамара Васильевна": 117,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 53
+      "gas:candidate-vibid:268200070684": 208,
+      "gas:candidate-vibid:268200070617": 10,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 30,
+      "gas:candidate-vibid:268200070483": 35,
+      "gas:candidate-vibid:1001000121917": 117,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9676,15 +9676,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 275,
-      "Воробьев Николай Иванович": 12,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 61,
-      "Левченко Олег Иванович": 64,
-      "Плетнева Тамара Васильевна": 136,
-      "Томильчик Валерий Григорьевич": 5,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 54
+      "gas:candidate-vibid:268200070684": 275,
+      "gas:candidate-vibid:268200070617": 12,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 61,
+      "gas:candidate-vibid:268200070483": 64,
+      "gas:candidate-vibid:1001000121917": 136,
+      "gas:candidate-vibid:1001000112261": 5,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9734,15 +9734,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 210,
-      "Воробьев Николай Иванович": 10,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 46,
-      "Левченко Олег Иванович": 23,
-      "Плетнева Тамара Васильевна": 137,
-      "Томильчик Валерий Григорьевич": 6,
-      "Филонов Владимир Леонидович": 5,
-      "Против всех": 51
+      "gas:candidate-vibid:268200070684": 210,
+      "gas:candidate-vibid:268200070617": 10,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 46,
+      "gas:candidate-vibid:268200070483": 23,
+      "gas:candidate-vibid:1001000121917": 137,
+      "gas:candidate-vibid:1001000112261": 6,
+      "gas:candidate-vibid:1001000190421": 5,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9792,15 +9792,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 333,
-      "Воробьев Николай Иванович": 4,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 62,
-      "Левченко Олег Иванович": 33,
-      "Плетнева Тамара Васильевна": 163,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 88
+      "gas:candidate-vibid:268200070684": 333,
+      "gas:candidate-vibid:268200070617": 4,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 62,
+      "gas:candidate-vibid:268200070483": 33,
+      "gas:candidate-vibid:1001000121917": 163,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9850,15 +9850,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 210,
-      "Воробьев Николай Иванович": 8,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 44,
-      "Левченко Олег Иванович": 36,
-      "Плетнева Тамара Васильевна": 162,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 78
+      "gas:candidate-vibid:268200070684": 210,
+      "gas:candidate-vibid:268200070617": 8,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 44,
+      "gas:candidate-vibid:268200070483": 36,
+      "gas:candidate-vibid:1001000121917": 162,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9908,15 +9908,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 192,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 31,
-      "Левченко Олег Иванович": 38,
-      "Плетнева Тамара Васильевна": 111,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:268200070684": 192,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 31,
+      "gas:candidate-vibid:268200070483": 38,
+      "gas:candidate-vibid:1001000121917": 111,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -9966,15 +9966,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 274,
-      "Воробьев Николай Иванович": 8,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 30,
-      "Левченко Олег Иванович": 54,
-      "Плетнева Тамара Васильевна": 169,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:268200070684": 274,
+      "gas:candidate-vibid:268200070617": 8,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 30,
+      "gas:candidate-vibid:268200070483": 54,
+      "gas:candidate-vibid:1001000121917": 169,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -10024,15 +10024,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 140,
-      "Воробьев Николай Иванович": 10,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 29,
-      "Левченко Олег Иванович": 36,
-      "Плетнева Тамара Васильевна": 165,
-      "Томильчик Валерий Григорьевич": 10,
-      "Филонов Владимир Леонидович": 7,
-      "Против всех": 77
+      "gas:candidate-vibid:268200070684": 140,
+      "gas:candidate-vibid:268200070617": 10,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 29,
+      "gas:candidate-vibid:268200070483": 36,
+      "gas:candidate-vibid:1001000121917": 165,
+      "gas:candidate-vibid:1001000112261": 10,
+      "gas:candidate-vibid:1001000190421": 7,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -10082,15 +10082,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 308,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 45,
-      "Левченко Олег Иванович": 69,
-      "Плетнева Тамара Васильевна": 137,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 6,
-      "Против всех": 100
+      "gas:candidate-vibid:268200070684": 308,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 45,
+      "gas:candidate-vibid:268200070483": 69,
+      "gas:candidate-vibid:1001000121917": 137,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 6,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -10140,15 +10140,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 214,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 70,
-      "Левченко Олег Иванович": 57,
-      "Плетнева Тамара Васильевна": 137,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 72
+      "gas:candidate-vibid:268200070684": 214,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 70,
+      "gas:candidate-vibid:268200070483": 57,
+      "gas:candidate-vibid:1001000121917": 137,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -10198,15 +10198,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 144,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 54,
-      "Левченко Олег Иванович": 68,
-      "Плетнева Тамара Васильевна": 143,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 65
+      "gas:candidate-vibid:268200070684": 144,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 54,
+      "gas:candidate-vibid:268200070483": 68,
+      "gas:candidate-vibid:1001000121917": 143,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -10256,15 +10256,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 237,
-      "Воробьев Николай Иванович": 20,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 29,
-      "Левченко Олег Иванович": 62,
-      "Плетнева Тамара Васильевна": 99,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 78
+      "gas:candidate-vibid:268200070684": 237,
+      "gas:candidate-vibid:268200070617": 20,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 29,
+      "gas:candidate-vibid:268200070483": 62,
+      "gas:candidate-vibid:1001000121917": 99,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270587&region=0&sub_region=0&type=429",
@@ -10314,15 +10314,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 394,
-      "Воробьев Николай Иванович": 33,
-      "Гришкин Валерий Андреевич": 11,
-      "Коваль Нина Александровна": 225,
-      "Левченко Олег Иванович": 121,
-      "Плетнева Тамара Васильевна": 381,
-      "Томильчик Валерий Григорьевич": 16,
-      "Филонов Владимир Леонидович": 8,
-      "Против всех": 256
+      "gas:candidate-vibid:268200070684": 394,
+      "gas:candidate-vibid:268200070617": 33,
+      "gas:candidate-vibid:1001000195148": 11,
+      "gas:candidate-vibid:268200070486": 225,
+      "gas:candidate-vibid:268200070483": 121,
+      "gas:candidate-vibid:1001000121917": 381,
+      "gas:candidate-vibid:1001000112261": 16,
+      "gas:candidate-vibid:1001000190421": 8,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10372,15 +10372,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 358,
-      "Воробьев Николай Иванович": 31,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 189,
-      "Левченко Олег Иванович": 102,
-      "Плетнева Тамара Васильевна": 386,
-      "Томильчик Валерий Григорьевич": 8,
-      "Филонов Владимир Леонидович": 9,
-      "Против всех": 212
+      "gas:candidate-vibid:268200070684": 358,
+      "gas:candidate-vibid:268200070617": 31,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 189,
+      "gas:candidate-vibid:268200070483": 102,
+      "gas:candidate-vibid:1001000121917": 386,
+      "gas:candidate-vibid:1001000112261": 8,
+      "gas:candidate-vibid:1001000190421": 9,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10430,15 +10430,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 322,
-      "Воробьев Николай Иванович": 18,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 153,
-      "Левченко Олег Иванович": 76,
-      "Плетнева Тамара Васильевна": 309,
-      "Томильчик Валерий Григорьевич": 13,
-      "Филонов Владимир Леонидович": 13,
-      "Против всех": 219
+      "gas:candidate-vibid:268200070684": 322,
+      "gas:candidate-vibid:268200070617": 18,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 153,
+      "gas:candidate-vibid:268200070483": 76,
+      "gas:candidate-vibid:1001000121917": 309,
+      "gas:candidate-vibid:1001000112261": 13,
+      "gas:candidate-vibid:1001000190421": 13,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10488,15 +10488,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 310,
-      "Воробьев Николай Иванович": 19,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 154,
-      "Левченко Олег Иванович": 74,
-      "Плетнева Тамара Васильевна": 195,
-      "Томильчик Валерий Григорьевич": 8,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 163
+      "gas:candidate-vibid:268200070684": 310,
+      "gas:candidate-vibid:268200070617": 19,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 154,
+      "gas:candidate-vibid:268200070483": 74,
+      "gas:candidate-vibid:1001000121917": 195,
+      "gas:candidate-vibid:1001000112261": 8,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10546,15 +10546,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 261,
-      "Воробьев Николай Иванович": 13,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 148,
-      "Левченко Олег Иванович": 49,
-      "Плетнева Тамара Васильевна": 208,
-      "Томильчик Валерий Григорьевич": 9,
-      "Филонов Владимир Леонидович": 7,
-      "Против всех": 126
+      "gas:candidate-vibid:268200070684": 261,
+      "gas:candidate-vibid:268200070617": 13,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 148,
+      "gas:candidate-vibid:268200070483": 49,
+      "gas:candidate-vibid:1001000121917": 208,
+      "gas:candidate-vibid:1001000112261": 9,
+      "gas:candidate-vibid:1001000190421": 7,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10604,15 +10604,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 293,
-      "Воробьев Николай Иванович": 13,
-      "Гришкин Валерий Андреевич": 10,
-      "Коваль Нина Александровна": 145,
-      "Левченко Олег Иванович": 57,
-      "Плетнева Тамара Васильевна": 193,
-      "Томильчик Валерий Григорьевич": 17,
-      "Филонов Владимир Леонидович": 5,
-      "Против всех": 153
+      "gas:candidate-vibid:268200070684": 293,
+      "gas:candidate-vibid:268200070617": 13,
+      "gas:candidate-vibid:1001000195148": 10,
+      "gas:candidate-vibid:268200070486": 145,
+      "gas:candidate-vibid:268200070483": 57,
+      "gas:candidate-vibid:1001000121917": 193,
+      "gas:candidate-vibid:1001000112261": 17,
+      "gas:candidate-vibid:1001000190421": 5,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10662,15 +10662,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 384,
-      "Воробьев Николай Иванович": 25,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 130,
-      "Левченко Олег Иванович": 75,
-      "Плетнева Тамара Васильевна": 223,
-      "Томильчик Валерий Григорьевич": 11,
-      "Филонов Владимир Леонидович": 7,
-      "Против всех": 202
+      "gas:candidate-vibid:268200070684": 384,
+      "gas:candidate-vibid:268200070617": 25,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 130,
+      "gas:candidate-vibid:268200070483": 75,
+      "gas:candidate-vibid:1001000121917": 223,
+      "gas:candidate-vibid:1001000112261": 11,
+      "gas:candidate-vibid:1001000190421": 7,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10720,15 +10720,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 464,
-      "Воробьев Николай Иванович": 29,
-      "Гришкин Валерий Андреевич": 7,
-      "Коваль Нина Александровна": 143,
-      "Левченко Олег Иванович": 105,
-      "Плетнева Тамара Васильевна": 370,
-      "Томильчик Валерий Григорьевич": 8,
-      "Филонов Владимир Леонидович": 7,
-      "Против всех": 222
+      "gas:candidate-vibid:268200070684": 464,
+      "gas:candidate-vibid:268200070617": 29,
+      "gas:candidate-vibid:1001000195148": 7,
+      "gas:candidate-vibid:268200070486": 143,
+      "gas:candidate-vibid:268200070483": 105,
+      "gas:candidate-vibid:1001000121917": 370,
+      "gas:candidate-vibid:1001000112261": 8,
+      "gas:candidate-vibid:1001000190421": 7,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10778,15 +10778,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 389,
-      "Воробьев Николай Иванович": 23,
-      "Гришкин Валерий Андреевич": 7,
-      "Коваль Нина Александровна": 134,
-      "Левченко Олег Иванович": 131,
-      "Плетнева Тамара Васильевна": 339,
-      "Томильчик Валерий Григорьевич": 15,
-      "Филонов Владимир Леонидович": 11,
-      "Против всех": 165
+      "gas:candidate-vibid:268200070684": 389,
+      "gas:candidate-vibid:268200070617": 23,
+      "gas:candidate-vibid:1001000195148": 7,
+      "gas:candidate-vibid:268200070486": 134,
+      "gas:candidate-vibid:268200070483": 131,
+      "gas:candidate-vibid:1001000121917": 339,
+      "gas:candidate-vibid:1001000112261": 15,
+      "gas:candidate-vibid:1001000190421": 11,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10836,15 +10836,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 400,
-      "Воробьев Николай Иванович": 36,
-      "Гришкин Валерий Андреевич": 6,
-      "Коваль Нина Александровна": 209,
-      "Левченко Олег Иванович": 88,
-      "Плетнева Тамара Васильевна": 444,
-      "Томильчик Валерий Григорьевич": 18,
-      "Филонов Владимир Леонидович": 11,
-      "Против всех": 270
+      "gas:candidate-vibid:268200070684": 400,
+      "gas:candidate-vibid:268200070617": 36,
+      "gas:candidate-vibid:1001000195148": 6,
+      "gas:candidate-vibid:268200070486": 209,
+      "gas:candidate-vibid:268200070483": 88,
+      "gas:candidate-vibid:1001000121917": 444,
+      "gas:candidate-vibid:1001000112261": 18,
+      "gas:candidate-vibid:1001000190421": 11,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10894,15 +10894,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 386,
-      "Воробьев Николай Иванович": 37,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 227,
-      "Левченко Олег Иванович": 108,
-      "Плетнева Тамара Васильевна": 463,
-      "Томильчик Валерий Григорьевич": 17,
-      "Филонов Владимир Леонидович": 10,
-      "Против всех": 275
+      "gas:candidate-vibid:268200070684": 386,
+      "gas:candidate-vibid:268200070617": 37,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 227,
+      "gas:candidate-vibid:268200070483": 108,
+      "gas:candidate-vibid:1001000121917": 463,
+      "gas:candidate-vibid:1001000112261": 17,
+      "gas:candidate-vibid:1001000190421": 10,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -10952,15 +10952,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 410,
-      "Воробьев Николай Иванович": 34,
-      "Гришкин Валерий Андреевич": 9,
-      "Коваль Нина Александровна": 149,
-      "Левченко Олег Иванович": 110,
-      "Плетнева Тамара Васильевна": 407,
-      "Томильчик Валерий Григорьевич": 10,
-      "Филонов Владимир Леонидович": 18,
-      "Против всех": 303
+      "gas:candidate-vibid:268200070684": 410,
+      "gas:candidate-vibid:268200070617": 34,
+      "gas:candidate-vibid:1001000195148": 9,
+      "gas:candidate-vibid:268200070486": 149,
+      "gas:candidate-vibid:268200070483": 110,
+      "gas:candidate-vibid:1001000121917": 407,
+      "gas:candidate-vibid:1001000112261": 10,
+      "gas:candidate-vibid:1001000190421": 18,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -11010,15 +11010,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 116,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 38,
-      "Левченко Олег Иванович": 9,
-      "Плетнева Тамара Васильевна": 45,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:268200070684": 116,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 38,
+      "gas:candidate-vibid:268200070483": 9,
+      "gas:candidate-vibid:1001000121917": 45,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -11068,15 +11068,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 44,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 17,
-      "Левченко Олег Иванович": 12,
-      "Плетнева Тамара Васильевна": 48,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:268200070684": 44,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 17,
+      "gas:candidate-vibid:268200070483": 12,
+      "gas:candidate-vibid:1001000121917": 48,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270588&region=0&sub_region=0&type=429",
@@ -11126,15 +11126,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 179,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 146,
-      "Левченко Олег Иванович": 94,
-      "Плетнева Тамара Васильевна": 117,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 5,
-      "Против всех": 43
+      "gas:candidate-vibid:268200070684": 179,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 146,
+      "gas:candidate-vibid:268200070483": 94,
+      "gas:candidate-vibid:1001000121917": 117,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 5,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11184,15 +11184,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 46,
-      "Воробьев Николай Иванович": 4,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 47,
-      "Левченко Олег Иванович": 79,
-      "Плетнева Тамара Васильевна": 38,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:268200070684": 46,
+      "gas:candidate-vibid:268200070617": 4,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 47,
+      "gas:candidate-vibid:268200070483": 79,
+      "gas:candidate-vibid:1001000121917": 38,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11242,15 +11242,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 42,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 43,
-      "Левченко Олег Иванович": 46,
-      "Плетнева Тамара Васильевна": 70,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:268200070684": 42,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 43,
+      "gas:candidate-vibid:268200070483": 46,
+      "gas:candidate-vibid:1001000121917": 70,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11300,15 +11300,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 66,
-      "Воробьев Николай Иванович": 8,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 100,
-      "Левченко Олег Иванович": 34,
-      "Плетнева Тамара Васильевна": 38,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:268200070684": 66,
+      "gas:candidate-vibid:268200070617": 8,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 100,
+      "gas:candidate-vibid:268200070483": 34,
+      "gas:candidate-vibid:1001000121917": 38,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11358,15 +11358,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 27,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 3,
-      "Левченко Олег Иванович": 6,
-      "Плетнева Тамара Васильевна": 48,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:268200070684": 27,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 3,
+      "gas:candidate-vibid:268200070483": 6,
+      "gas:candidate-vibid:1001000121917": 48,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11416,15 +11416,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 102,
-      "Воробьев Николай Иванович": 18,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 65,
-      "Левченко Олег Иванович": 41,
-      "Плетнева Тамара Васильевна": 80,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:268200070684": 102,
+      "gas:candidate-vibid:268200070617": 18,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 65,
+      "gas:candidate-vibid:268200070483": 41,
+      "gas:candidate-vibid:1001000121917": 80,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11474,15 +11474,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 39,
-      "Воробьев Николай Иванович": 6,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 41,
-      "Левченко Олег Иванович": 29,
-      "Плетнева Тамара Васильевна": 115,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:268200070684": 39,
+      "gas:candidate-vibid:268200070617": 6,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 41,
+      "gas:candidate-vibid:268200070483": 29,
+      "gas:candidate-vibid:1001000121917": 115,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11532,15 +11532,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 66,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 34,
-      "Левченко Олег Иванович": 49,
-      "Плетнева Тамара Васильевна": 27,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:268200070684": 66,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 34,
+      "gas:candidate-vibid:268200070483": 49,
+      "gas:candidate-vibid:1001000121917": 27,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11590,15 +11590,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 28,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 77,
-      "Левченко Олег Иванович": 73,
-      "Плетнева Тамара Васильевна": 27,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:268200070684": 28,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 77,
+      "gas:candidate-vibid:268200070483": 73,
+      "gas:candidate-vibid:1001000121917": 27,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11648,15 +11648,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 5,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 11,
-      "Левченко Олег Иванович": 15,
-      "Плетнева Тамара Васильевна": 28,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:268200070684": 5,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 11,
+      "gas:candidate-vibid:268200070483": 15,
+      "gas:candidate-vibid:1001000121917": 28,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11706,15 +11706,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 88,
-      "Воробьев Николай Иванович": 6,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 130,
-      "Левченко Олег Иванович": 44,
-      "Плетнева Тамара Васильевна": 75,
-      "Томильчик Валерий Григорьевич": 6,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:268200070684": 88,
+      "gas:candidate-vibid:268200070617": 6,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 130,
+      "gas:candidate-vibid:268200070483": 44,
+      "gas:candidate-vibid:1001000121917": 75,
+      "gas:candidate-vibid:1001000112261": 6,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11764,15 +11764,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 119,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 82,
-      "Левченко Олег Иванович": 104,
-      "Плетнева Тамара Васильевна": 74,
-      "Томильчик Валерий Григорьевич": 5,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 73
+      "gas:candidate-vibid:268200070684": 119,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 82,
+      "gas:candidate-vibid:268200070483": 104,
+      "gas:candidate-vibid:1001000121917": 74,
+      "gas:candidate-vibid:1001000112261": 5,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11822,15 +11822,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 128,
-      "Воробьев Николай Иванович": 14,
-      "Гришкин Валерий Андреевич": 3,
-      "Коваль Нина Александровна": 114,
-      "Левченко Олег Иванович": 115,
-      "Плетнева Тамара Васильевна": 194,
-      "Томильчик Валерий Григорьевич": 6,
-      "Филонов Владимир Леонидович": 5,
-      "Против всех": 69
+      "gas:candidate-vibid:268200070684": 128,
+      "gas:candidate-vibid:268200070617": 14,
+      "gas:candidate-vibid:1001000195148": 3,
+      "gas:candidate-vibid:268200070486": 114,
+      "gas:candidate-vibid:268200070483": 115,
+      "gas:candidate-vibid:1001000121917": 194,
+      "gas:candidate-vibid:1001000112261": 6,
+      "gas:candidate-vibid:1001000190421": 5,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11880,15 +11880,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 125,
-      "Воробьев Николай Иванович": 6,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 63,
-      "Левченко Олег Иванович": 133,
-      "Плетнева Тамара Васильевна": 131,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 67
+      "gas:candidate-vibid:268200070684": 125,
+      "gas:candidate-vibid:268200070617": 6,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 63,
+      "gas:candidate-vibid:268200070483": 133,
+      "gas:candidate-vibid:1001000121917": 131,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11938,15 +11938,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 35,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 52,
-      "Левченко Олег Иванович": 48,
-      "Плетнева Тамара Васильевна": 25,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:268200070684": 35,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 52,
+      "gas:candidate-vibid:268200070483": 48,
+      "gas:candidate-vibid:1001000121917": 25,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -11996,15 +11996,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 53,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 49,
-      "Левченко Олег Иванович": 66,
-      "Плетнева Тамара Васильевна": 28,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:268200070684": 53,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 49,
+      "gas:candidate-vibid:268200070483": 66,
+      "gas:candidate-vibid:1001000121917": 28,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12054,15 +12054,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 22,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 17,
-      "Левченко Олег Иванович": 5,
-      "Плетнева Тамара Васильевна": 24,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:268200070684": 22,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 17,
+      "gas:candidate-vibid:268200070483": 5,
+      "gas:candidate-vibid:1001000121917": 24,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12112,15 +12112,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 9,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 43,
-      "Левченко Олег Иванович": 12,
-      "Плетнева Тамара Васильевна": 22,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:268200070684": 9,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 43,
+      "gas:candidate-vibid:268200070483": 12,
+      "gas:candidate-vibid:1001000121917": 22,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12170,15 +12170,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 83,
-      "Воробьев Николай Иванович": 7,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 47,
-      "Левченко Олег Иванович": 60,
-      "Плетнева Тамара Васильевна": 53,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:268200070684": 83,
+      "gas:candidate-vibid:268200070617": 7,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 47,
+      "gas:candidate-vibid:268200070483": 60,
+      "gas:candidate-vibid:1001000121917": 53,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12228,15 +12228,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 70,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 51,
-      "Левченко Олег Иванович": 72,
-      "Плетнева Тамара Васильевна": 25,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:268200070684": 70,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 51,
+      "gas:candidate-vibid:268200070483": 72,
+      "gas:candidate-vibid:1001000121917": 25,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12286,15 +12286,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 68,
-      "Воробьев Николай Иванович": 6,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 115,
-      "Левченко Олег Иванович": 41,
-      "Плетнева Тамара Васильевна": 128,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:268200070684": 68,
+      "gas:candidate-vibid:268200070617": 6,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 115,
+      "gas:candidate-vibid:268200070483": 41,
+      "gas:candidate-vibid:1001000121917": 128,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12344,15 +12344,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 39,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 67,
-      "Левченко Олег Иванович": 26,
-      "Плетнева Тамара Васильевна": 67,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:268200070684": 39,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 67,
+      "gas:candidate-vibid:268200070483": 26,
+      "gas:candidate-vibid:1001000121917": 67,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12402,15 +12402,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 55,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 57,
-      "Левченко Олег Иванович": 33,
-      "Плетнева Тамара Васильевна": 91,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:268200070684": 55,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 57,
+      "gas:candidate-vibid:268200070483": 33,
+      "gas:candidate-vibid:1001000121917": 91,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12460,15 +12460,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 88,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 31,
-      "Левченко Олег Иванович": 39,
-      "Плетнева Тамара Васильевна": 98,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:268200070684": 88,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 31,
+      "gas:candidate-vibid:268200070483": 39,
+      "gas:candidate-vibid:1001000121917": 98,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12518,15 +12518,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 24,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 17,
-      "Левченко Олег Иванович": 11,
-      "Плетнева Тамара Васильевна": 30,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:268200070684": 24,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 17,
+      "gas:candidate-vibid:268200070483": 11,
+      "gas:candidate-vibid:1001000121917": 30,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12576,15 +12576,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 120,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 125,
-      "Левченко Олег Иванович": 83,
-      "Плетнева Тамара Васильевна": 52,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 45
+      "gas:candidate-vibid:268200070684": 120,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 125,
+      "gas:candidate-vibid:268200070483": 83,
+      "gas:candidate-vibid:1001000121917": 52,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12634,15 +12634,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 85,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 45,
-      "Левченко Олег Иванович": 21,
-      "Плетнева Тамара Васильевна": 24,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:268200070684": 85,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 45,
+      "gas:candidate-vibid:268200070483": 21,
+      "gas:candidate-vibid:1001000121917": 24,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12692,15 +12692,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 58,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 53,
-      "Левченко Олег Иванович": 13,
-      "Плетнева Тамара Васильевна": 26,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:268200070684": 58,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 53,
+      "gas:candidate-vibid:268200070483": 13,
+      "gas:candidate-vibid:1001000121917": 26,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12750,15 +12750,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 97,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 97,
-      "Левченко Олег Иванович": 45,
-      "Плетнева Тамара Васильевна": 60,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:268200070684": 97,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 97,
+      "gas:candidate-vibid:268200070483": 45,
+      "gas:candidate-vibid:1001000121917": 60,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12808,15 +12808,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 54,
-      "Воробьев Николай Иванович": 11,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 89,
-      "Левченко Олег Иванович": 45,
-      "Плетнева Тамара Васильевна": 135,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 5,
-      "Против всех": 32
+      "gas:candidate-vibid:268200070684": 54,
+      "gas:candidate-vibid:268200070617": 11,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 89,
+      "gas:candidate-vibid:268200070483": 45,
+      "gas:candidate-vibid:1001000121917": 135,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 5,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12866,15 +12866,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 125,
-      "Воробьев Николай Иванович": 3,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 26,
-      "Левченко Олег Иванович": 38,
-      "Плетнева Тамара Васильевна": 51,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:268200070684": 125,
+      "gas:candidate-vibid:268200070617": 3,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 26,
+      "gas:candidate-vibid:268200070483": 38,
+      "gas:candidate-vibid:1001000121917": 51,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12924,15 +12924,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 12,
-      "Воробьев Николай Иванович": 5,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 34,
-      "Левченко Олег Иванович": 31,
-      "Плетнева Тамара Васильевна": 19,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:268200070684": 12,
+      "gas:candidate-vibid:268200070617": 5,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 34,
+      "gas:candidate-vibid:268200070483": 31,
+      "gas:candidate-vibid:1001000121917": 19,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -12982,15 +12982,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 31,
-      "Воробьев Николай Иванович": 6,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 39,
-      "Левченко Олег Иванович": 19,
-      "Плетнева Тамара Васильевна": 16,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:268200070684": 31,
+      "gas:candidate-vibid:268200070617": 6,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 39,
+      "gas:candidate-vibid:268200070483": 19,
+      "gas:candidate-vibid:1001000121917": 16,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -13040,15 +13040,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 46,
-      "Воробьев Николай Иванович": 0,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 18,
-      "Левченко Олег Иванович": 7,
-      "Плетнева Тамара Васильевна": 12,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:268200070684": 46,
+      "gas:candidate-vibid:268200070617": 0,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 18,
+      "gas:candidate-vibid:268200070483": 7,
+      "gas:candidate-vibid:1001000121917": 12,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270590&region=0&sub_region=0&type=429",
@@ -13098,15 +13098,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 91,
-      "Воробьев Николай Иванович": 9,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 119,
-      "Левченко Олег Иванович": 75,
-      "Плетнева Тамара Васильевна": 164,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 59
+      "gas:candidate-vibid:268200070684": 91,
+      "gas:candidate-vibid:268200070617": 9,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 119,
+      "gas:candidate-vibid:268200070483": 75,
+      "gas:candidate-vibid:1001000121917": 164,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13156,15 +13156,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 190,
-      "Воробьев Николай Иванович": 14,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 163,
-      "Левченко Олег Иванович": 130,
-      "Плетнева Тамара Васильевна": 232,
-      "Томильчик Валерий Григорьевич": 7,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 90
+      "gas:candidate-vibid:268200070684": 190,
+      "gas:candidate-vibid:268200070617": 14,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 163,
+      "gas:candidate-vibid:268200070483": 130,
+      "gas:candidate-vibid:1001000121917": 232,
+      "gas:candidate-vibid:1001000112261": 7,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13214,15 +13214,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 70,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 34,
-      "Левченко Олег Иванович": 66,
-      "Плетнева Тамара Васильевна": 43,
-      "Томильчик Валерий Григорьевич": 1,
-      "Филонов Владимир Леонидович": 2,
-      "Против всех": 55
+      "gas:candidate-vibid:268200070684": 70,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 34,
+      "gas:candidate-vibid:268200070483": 66,
+      "gas:candidate-vibid:1001000121917": 43,
+      "gas:candidate-vibid:1001000112261": 1,
+      "gas:candidate-vibid:1001000190421": 2,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13272,15 +13272,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 185,
-      "Воробьев Николай Иванович": 20,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 139,
-      "Левченко Олег Иванович": 131,
-      "Плетнева Тамара Васильевна": 270,
-      "Томильчик Валерий Григорьевич": 6,
-      "Филонов Владимир Леонидович": 11,
-      "Против всех": 131
+      "gas:candidate-vibid:268200070684": 185,
+      "gas:candidate-vibid:268200070617": 20,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 139,
+      "gas:candidate-vibid:268200070483": 131,
+      "gas:candidate-vibid:1001000121917": 270,
+      "gas:candidate-vibid:1001000112261": 6,
+      "gas:candidate-vibid:1001000190421": 11,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13330,15 +13330,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 99,
-      "Воробьев Николай Иванович": 11,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 136,
-      "Левченко Олег Иванович": 95,
-      "Плетнева Тамара Васильевна": 184,
-      "Томильчик Валерий Григорьевич": 6,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 85
+      "gas:candidate-vibid:268200070684": 99,
+      "gas:candidate-vibid:268200070617": 11,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 136,
+      "gas:candidate-vibid:268200070483": 95,
+      "gas:candidate-vibid:1001000121917": 184,
+      "gas:candidate-vibid:1001000112261": 6,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13388,15 +13388,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 170,
-      "Воробьев Николай Иванович": 23,
-      "Гришкин Валерий Андреевич": 7,
-      "Коваль Нина Александровна": 132,
-      "Левченко Олег Иванович": 154,
-      "Плетнева Тамара Васильевна": 201,
-      "Томильчик Валерий Григорьевич": 8,
-      "Филонов Владимир Леонидович": 11,
-      "Против всех": 194
+      "gas:candidate-vibid:268200070684": 170,
+      "gas:candidate-vibid:268200070617": 23,
+      "gas:candidate-vibid:1001000195148": 7,
+      "gas:candidate-vibid:268200070486": 132,
+      "gas:candidate-vibid:268200070483": 154,
+      "gas:candidate-vibid:1001000121917": 201,
+      "gas:candidate-vibid:1001000112261": 8,
+      "gas:candidate-vibid:1001000190421": 11,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13446,15 +13446,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 173,
-      "Воробьев Николай Иванович": 46,
-      "Гришкин Валерий Андреевич": 9,
-      "Коваль Нина Александровна": 130,
-      "Левченко Олег Иванович": 138,
-      "Плетнева Тамара Васильевна": 205,
-      "Томильчик Валерий Григорьевич": 7,
-      "Филонов Владимир Леонидович": 12,
-      "Против всех": 154
+      "gas:candidate-vibid:268200070684": 173,
+      "gas:candidate-vibid:268200070617": 46,
+      "gas:candidate-vibid:1001000195148": 9,
+      "gas:candidate-vibid:268200070486": 130,
+      "gas:candidate-vibid:268200070483": 138,
+      "gas:candidate-vibid:1001000121917": 205,
+      "gas:candidate-vibid:1001000112261": 7,
+      "gas:candidate-vibid:1001000190421": 12,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13504,15 +13504,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 137,
-      "Воробьев Николай Иванович": 19,
-      "Гришкин Валерий Андреевич": 4,
-      "Коваль Нина Александровна": 127,
-      "Левченко Олег Иванович": 105,
-      "Плетнева Тамара Васильевна": 123,
-      "Томильчик Валерий Григорьевич": 7,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 104
+      "gas:candidate-vibid:268200070684": 137,
+      "gas:candidate-vibid:268200070617": 19,
+      "gas:candidate-vibid:1001000195148": 4,
+      "gas:candidate-vibid:268200070486": 127,
+      "gas:candidate-vibid:268200070483": 105,
+      "gas:candidate-vibid:1001000121917": 123,
+      "gas:candidate-vibid:1001000112261": 7,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13562,15 +13562,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 131,
-      "Воробьев Николай Иванович": 11,
-      "Гришкин Валерий Андреевич": 0,
-      "Коваль Нина Александровна": 114,
-      "Левченко Олег Иванович": 71,
-      "Плетнева Тамара Васильевна": 119,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 106
+      "gas:candidate-vibid:268200070684": 131,
+      "gas:candidate-vibid:268200070617": 11,
+      "gas:candidate-vibid:1001000195148": 0,
+      "gas:candidate-vibid:268200070486": 114,
+      "gas:candidate-vibid:268200070483": 71,
+      "gas:candidate-vibid:1001000121917": 119,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13620,15 +13620,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 188,
-      "Воробьев Николай Иванович": 11,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 156,
-      "Левченко Олег Иванович": 78,
-      "Плетнева Тамара Васильевна": 227,
-      "Томильчик Валерий Григорьевич": 16,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 90
+      "gas:candidate-vibid:268200070684": 188,
+      "gas:candidate-vibid:268200070617": 11,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 156,
+      "gas:candidate-vibid:268200070483": 78,
+      "gas:candidate-vibid:1001000121917": 227,
+      "gas:candidate-vibid:1001000112261": 16,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13678,15 +13678,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 189,
-      "Воробьев Николай Иванович": 30,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 214,
-      "Левченко Олег Иванович": 116,
-      "Плетнева Тамара Васильевна": 217,
-      "Томильчик Валерий Григорьевич": 10,
-      "Филонов Владимир Леонидович": 6,
-      "Против всех": 172
+      "gas:candidate-vibid:268200070684": 189,
+      "gas:candidate-vibid:268200070617": 30,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 214,
+      "gas:candidate-vibid:268200070483": 116,
+      "gas:candidate-vibid:1001000121917": 217,
+      "gas:candidate-vibid:1001000112261": 10,
+      "gas:candidate-vibid:1001000190421": 6,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13736,15 +13736,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 262,
-      "Воробьев Николай Иванович": 27,
-      "Гришкин Валерий Андреевич": 31,
-      "Коваль Нина Александровна": 134,
-      "Левченко Олег Иванович": 172,
-      "Плетнева Тамара Васильевна": 340,
-      "Томильчик Валерий Григорьевич": 15,
-      "Филонов Владимир Леонидович": 9,
-      "Против всех": 195
+      "gas:candidate-vibid:268200070684": 262,
+      "gas:candidate-vibid:268200070617": 27,
+      "gas:candidate-vibid:1001000195148": 31,
+      "gas:candidate-vibid:268200070486": 134,
+      "gas:candidate-vibid:268200070483": 172,
+      "gas:candidate-vibid:1001000121917": 340,
+      "gas:candidate-vibid:1001000112261": 15,
+      "gas:candidate-vibid:1001000190421": 9,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13794,15 +13794,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 202,
-      "Воробьев Николай Иванович": 17,
-      "Гришкин Валерий Андреевич": 5,
-      "Коваль Нина Александровна": 109,
-      "Левченко Олег Иванович": 97,
-      "Плетнева Тамара Васильевна": 190,
-      "Томильчик Валерий Григорьевич": 11,
-      "Филонов Владимир Леонидович": 16,
-      "Против всех": 107
+      "gas:candidate-vibid:268200070684": 202,
+      "gas:candidate-vibid:268200070617": 17,
+      "gas:candidate-vibid:1001000195148": 5,
+      "gas:candidate-vibid:268200070486": 109,
+      "gas:candidate-vibid:268200070483": 97,
+      "gas:candidate-vibid:1001000121917": 190,
+      "gas:candidate-vibid:1001000112261": 11,
+      "gas:candidate-vibid:1001000190421": 16,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13852,15 +13852,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 72,
-      "Воробьев Николай Иванович": 2,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 86,
-      "Левченко Олег Иванович": 14,
-      "Плетнева Тамара Васильевна": 68,
-      "Томильчик Валерий Григорьевич": 2,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 31
+      "gas:candidate-vibid:268200070684": 72,
+      "gas:candidate-vibid:268200070617": 2,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 86,
+      "gas:candidate-vibid:268200070483": 14,
+      "gas:candidate-vibid:1001000121917": 68,
+      "gas:candidate-vibid:1001000112261": 2,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13910,15 +13910,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 153,
-      "Воробьев Николай Иванович": 21,
-      "Гришкин Валерий Андреевич": 9,
-      "Коваль Нина Александровна": 193,
-      "Левченко Олег Иванович": 81,
-      "Плетнева Тамара Васильевна": 222,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 9,
-      "Против всех": 104
+      "gas:candidate-vibid:268200070684": 153,
+      "gas:candidate-vibid:268200070617": 21,
+      "gas:candidate-vibid:1001000195148": 9,
+      "gas:candidate-vibid:268200070486": 193,
+      "gas:candidate-vibid:268200070483": 81,
+      "gas:candidate-vibid:1001000121917": 222,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 9,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -13968,15 +13968,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 148,
-      "Воробьев Николай Иванович": 30,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 182,
-      "Левченко Олег Иванович": 91,
-      "Плетнева Тамара Васильевна": 173,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 9,
-      "Против всех": 101
+      "gas:candidate-vibid:268200070684": 148,
+      "gas:candidate-vibid:268200070617": 30,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 182,
+      "gas:candidate-vibid:268200070483": 91,
+      "gas:candidate-vibid:1001000121917": 173,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 9,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -14026,15 +14026,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 176,
-      "Воробьев Николай Иванович": 21,
-      "Гришкин Валерий Андреевич": 7,
-      "Коваль Нина Александровна": 166,
-      "Левченко Олег Иванович": 85,
-      "Плетнева Тамара Васильевна": 163,
-      "Томильчик Валерий Григорьевич": 8,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 109
+      "gas:candidate-vibid:268200070684": 176,
+      "gas:candidate-vibid:268200070617": 21,
+      "gas:candidate-vibid:1001000195148": 7,
+      "gas:candidate-vibid:268200070486": 166,
+      "gas:candidate-vibid:268200070483": 85,
+      "gas:candidate-vibid:1001000121917": 163,
+      "gas:candidate-vibid:1001000112261": 8,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -14084,15 +14084,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 139,
-      "Воробьев Николай Иванович": 17,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 111,
-      "Левченко Олег Иванович": 47,
-      "Плетнева Тамара Васильевна": 106,
-      "Томильчик Валерий Григорьевич": 4,
-      "Филонов Владимир Леонидович": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:268200070684": 139,
+      "gas:candidate-vibid:268200070617": 17,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 111,
+      "gas:candidate-vibid:268200070483": 47,
+      "gas:candidate-vibid:1001000121917": 106,
+      "gas:candidate-vibid:1001000112261": 4,
+      "gas:candidate-vibid:1001000190421": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -14142,15 +14142,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 161,
-      "Воробьев Николай Иванович": 11,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 132,
-      "Левченко Олег Иванович": 62,
-      "Плетнева Тамара Васильевна": 136,
-      "Томильчик Валерий Григорьевич": 8,
-      "Филонов Владимир Леонидович": 4,
-      "Против всех": 78
+      "gas:candidate-vibid:268200070684": 161,
+      "gas:candidate-vibid:268200070617": 11,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 132,
+      "gas:candidate-vibid:268200070483": 62,
+      "gas:candidate-vibid:1001000121917": 136,
+      "gas:candidate-vibid:1001000112261": 8,
+      "gas:candidate-vibid:1001000190421": 4,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -14200,15 +14200,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 150,
-      "Воробьев Николай Иванович": 21,
-      "Гришкин Валерий Андреевич": 2,
-      "Коваль Нина Александровна": 198,
-      "Левченко Олег Иванович": 98,
-      "Плетнева Тамара Васильевна": 215,
-      "Томильчик Валерий Григорьевич": 3,
-      "Филонов Владимир Леонидович": 12,
-      "Против всех": 102
+      "gas:candidate-vibid:268200070684": 150,
+      "gas:candidate-vibid:268200070617": 21,
+      "gas:candidate-vibid:1001000195148": 2,
+      "gas:candidate-vibid:268200070486": 198,
+      "gas:candidate-vibid:268200070483": 98,
+      "gas:candidate-vibid:1001000121917": 215,
+      "gas:candidate-vibid:1001000112261": 3,
+      "gas:candidate-vibid:1001000190421": 12,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",
@@ -14258,15 +14258,15 @@ export const duma_2003_uik_428_region_68_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Иван Афанасьевич": 15,
-      "Воробьев Николай Иванович": 1,
-      "Гришкин Валерий Андреевич": 1,
-      "Коваль Нина Александровна": 17,
-      "Левченко Олег Иванович": 10,
-      "Плетнева Тамара Васильевна": 9,
-      "Томильчик Валерий Григорьевич": 0,
-      "Филонов Владимир Леонидович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:268200070684": 15,
+      "gas:candidate-vibid:268200070617": 1,
+      "gas:candidate-vibid:1001000195148": 1,
+      "gas:candidate-vibid:268200070486": 17,
+      "gas:candidate-vibid:268200070483": 10,
+      "gas:candidate-vibid:1001000121917": 9,
+      "gas:candidate-vibid:1001000112261": 0,
+      "gas:candidate-vibid:1001000190421": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=683002027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=368300270591&region=0&sub_region=0&type=429",

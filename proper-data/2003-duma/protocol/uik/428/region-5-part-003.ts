@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 113,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 161,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 113,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 161,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 33,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 65,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 33,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 65,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 180,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 510,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 180,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 510,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 18,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 106,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 18,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 106,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 299,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 387,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 299,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 387,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 462,
-      "Даниялов Марат Гаджиалиевич": 2,
-      "Омаров Гаджимурад Заирбекович": 528,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 462,
+      "gas:candidate-vibid:305300170462": 2,
+      "gas:candidate-vibid:1001000131371": 528,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 136,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 139,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 136,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 139,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 26,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 259,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 26,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 259,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 101,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 129,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 101,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 129,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 117,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 157,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 117,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 157,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 184,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 164,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 184,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 164,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 243,
-      "Даниялов Марат Гаджиалиевич": 6,
-      "Омаров Гаджимурад Заирбекович": 675,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 243,
+      "gas:candidate-vibid:305300170462": 6,
+      "gas:candidate-vibid:1001000131371": 675,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070508&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 279,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 65,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 279,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 65,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 97,
-      "Даниялов Марат Гаджиалиевич": 2,
-      "Омаров Гаджимурад Заирбекович": 192,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:305300170468": 97,
+      "gas:candidate-vibid:305300170462": 2,
+      "gas:candidate-vibid:1001000131371": 192,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 366,
-      "Даниялов Марат Гаджиалиевич": 2,
-      "Омаров Гаджимурад Заирбекович": 41,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 366,
+      "gas:candidate-vibid:305300170462": 2,
+      "gas:candidate-vibid:1001000131371": 41,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 220,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 220,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 3,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 60,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:305300170468": 60,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 2,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 583,
-      "Даниялов Марат Гаджиалиевич": 2,
-      "Омаров Гаджимурад Заирбекович": 4,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 583,
+      "gas:candidate-vibid:305300170462": 2,
+      "gas:candidate-vibid:1001000131371": 4,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 115,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 115,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 255,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 20,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 255,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 20,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 497,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 497,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 223,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 223,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 292,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 292,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 240,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 240,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 1051,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 1051,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 111,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 111,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 46,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 46,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 108,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 108,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 91,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 91,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 280,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 280,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 234,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:305300170468": 234,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 2,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 39,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 39,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 519,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 205,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 519,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 205,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 164,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 164,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 288,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 33,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:305300170468": 288,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 33,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 102,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 4,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 102,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 4,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 72,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 72,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 103,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 65,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 103,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 65,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 37,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 17,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 37,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 17,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 45,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 10,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 45,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 10,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 103,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 8,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 103,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 8,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 118,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 118,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 179,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 179,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 365,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 365,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 60,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 60,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 230,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 24,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 230,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 24,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 253,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 253,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 187,
-      "Даниялов Марат Гаджиалиевич": 43,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 187,
+      "gas:candidate-vibid:305300170462": 43,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 75,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 31,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 75,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 31,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 217,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 33,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 217,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 33,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 20,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 73,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 20,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 73,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 145,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 15,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 145,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 15,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 61,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 118,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 61,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 118,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 128,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 46,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 128,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 46,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 50,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 26,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:305300170468": 50,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 26,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 250,
-      "Даниялов Марат Гаджиалиевич": 3,
-      "Омаров Гаджимурад Заирбекович": 114,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:305300170468": 250,
+      "gas:candidate-vibid:305300170462": 3,
+      "gas:candidate-vibid:1001000131371": 114,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 320,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 320,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 103,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 103,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 121,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 121,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 278,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 278,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 81,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 81,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070509&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 65,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 65,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 46,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 46,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 73,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 73,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 367,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 216,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 367,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 216,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 305,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 242,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 305,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 242,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 70,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 70,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 94,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 8,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 94,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 8,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 68,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 37,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 68,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 37,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 169,
-      "Даниялов Марат Гаджиалиевич": 2,
-      "Омаров Гаджимурад Заирбекович": 98,
-      "Шамилов Магомед Шамилович": 1,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:305300170468": 169,
+      "gas:candidate-vibid:305300170462": 2,
+      "gas:candidate-vibid:1001000131371": 98,
+      "gas:candidate-vibid:1001000270069": 1,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 75,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 75,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 59,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 41,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 59,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 41,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 143,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 36,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 143,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 36,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 133,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 70,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 133,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 70,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 41,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 41,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 170,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 41,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 170,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 41,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 400,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 100,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 400,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 100,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 206,
-      "Даниялов Марат Гаджиалиевич": 3,
-      "Омаров Гаджимурад Заирбекович": 179,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 206,
+      "gas:candidate-vibid:305300170462": 3,
+      "gas:candidate-vibid:1001000131371": 179,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 378,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 8,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 378,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 8,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 112,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 112,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 186,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 186,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 182,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 182,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 2,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 118,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 118,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 279,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 12,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 279,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 12,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 135,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 71,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 135,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 71,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 92,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 92,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 204,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 204,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 92,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 92,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 139,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 106,
-      "Шамилов Магомед Шамилович": 3,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 42
+      "gas:candidate-vibid:305300170468": 139,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 106,
+      "gas:candidate-vibid:1001000270069": 3,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 196,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 196,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 103,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 103,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 42,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 42,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 197,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 197,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 71,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 71,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 204,
-      "Даниялов Марат Гаджиалиевич": 103,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:305300170468": 204,
+      "gas:candidate-vibid:305300170462": 103,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 306,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 306,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 344,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 344,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 188,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 188,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 3,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 84,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 84,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 171,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 2,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 171,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 2,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 65,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:305300170468": 65,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 3,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 30,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 30,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 281,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:305300170468": 281,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 162,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:305300170468": 162,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 106,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:305300170468": 106,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 3,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 162,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 118,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:305300170468": 162,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 118,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 54,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 54,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 32,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 32,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 54,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 54,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070510&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 376,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 11,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 376,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 11,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 103,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 7,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 103,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 7,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 125,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 125,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 95,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 47,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 95,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 47,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 109,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 109,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 71,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 114,
-      "Шамилов Магомед Шамилович": 2,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 71,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 114,
+      "gas:candidate-vibid:1001000270069": 2,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 727,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 35,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 727,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 35,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 5,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 380,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 5,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 380,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 9,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 173,
-      "Шамилов Магомед Шамилович": 1,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:305300170468": 9,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 173,
+      "gas:candidate-vibid:1001000270069": 1,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 300,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 300,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 207,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 111,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 207,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 111,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 157,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 157,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 7,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 61,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 7,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 61,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 81,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 81,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 5,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 57,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 53,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 57,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 53,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 600,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 301,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 600,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 301,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 5,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 370,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 5,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 370,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 398,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 398,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 219,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 18,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 219,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 18,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 12,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 48,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 12,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 48,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 196,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 196,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 0,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1959,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 0,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1959,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 560,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 28,
-      "Шамилов Магомед Шамилович": 2,
-      "Шамхалов Джамалдин Забидович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 560,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 28,
+      "gas:candidate-vibid:1001000270069": 2,
+      "gas:candidate-vibid:305300170782": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 37,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 43,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 37,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 43,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 6,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 731,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 6,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 731,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 142,
-      "Даниялов Марат Гаджиалиевич": 2,
-      "Омаров Гаджимурад Заирбекович": 7,
-      "Шамилов Магомед Шамилович": 1,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 142,
+      "gas:candidate-vibid:305300170462": 2,
+      "gas:candidate-vibid:1001000131371": 7,
+      "gas:candidate-vibid:1001000270069": 1,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 5,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 726,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 5,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 726,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 187,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 111,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:305300170468": 187,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 111,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 50,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 10,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 50,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 10,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 646,
-      "Даниялов Марат Гаджиалиевич": 9,
-      "Омаров Гаджимурад Заирбекович": 230,
-      "Шамилов Магомед Шамилович": 4,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:305300170468": 646,
+      "gas:candidate-vibid:305300170462": 9,
+      "gas:candidate-vibid:1001000131371": 230,
+      "gas:candidate-vibid:1001000270069": 4,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 99,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 99,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 403,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:305300170468": 403,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 110,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 72,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 110,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 72,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 199,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 199,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 24,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 36,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 24,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 36,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 0,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 184,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 0,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 184,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 6,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 284,
-      "Шамилов Магомед Шамилович": 3,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 6,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 284,
+      "gas:candidate-vibid:1001000270069": 3,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 587,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 200,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 587,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 200,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 382,
-      "Даниялов Марат Гаджиалиевич": 1,
-      "Омаров Гаджимурад Заирбекович": 52,
-      "Шамилов Магомед Шамилович": 3,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:305300170468": 382,
+      "gas:candidate-vibid:305300170462": 1,
+      "gas:candidate-vibid:1001000131371": 52,
+      "gas:candidate-vibid:1001000270069": 3,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 4,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 270,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 4,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 270,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 468,
-      "Даниялов Марат Гаджиалиевич": 4,
-      "Омаров Гаджимурад Заирбекович": 468,
-      "Шамилов Магомед Шамилович": 1,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 468,
+      "gas:candidate-vibid:305300170462": 4,
+      "gas:candidate-vibid:1001000131371": 468,
+      "gas:candidate-vibid:1001000270069": 1,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 6,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 261,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 6,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 261,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 140,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 145,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 140,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 145,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 84,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 57,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 84,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 57,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070511&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 397,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 397,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 101,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 101,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 110,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 110,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 26,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 26,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 126,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 126,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 71,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 71,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 213,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:305300170468": 213,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 100,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 100,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 78,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 78,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 62,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 62,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 198,
-      "Даниялов Марат Гаджиалиевич": 2,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:305300170468": 198,
+      "gas:candidate-vibid:305300170462": 2,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 55,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 55,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 1049,
-      "Даниялов Марат Гаджиалиевич": 4,
-      "Омаров Гаджимурад Заирбекович": 5,
-      "Шамилов Магомед Шамилович": 1,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:305300170468": 1049,
+      "gas:candidate-vibid:305300170462": 4,
+      "gas:candidate-vibid:1001000131371": 5,
+      "gas:candidate-vibid:1001000270069": 1,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 34,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 34,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 43,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 43,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 49,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 49,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 200,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 200,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 122,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 122,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 74,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 74,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 30,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 30,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 196,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 196,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 100,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 100,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 119,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 119,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 71,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 71,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 74,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 74,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 71,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 71,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 65,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 65,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 33,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 33,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 172,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 172,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 26,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 26,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 60,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 60,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 101,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 101,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 66,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 66,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 18,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 3,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 18,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 3,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 26,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 26,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 144,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 144,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 54,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 54,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 76,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 76,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 63,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 1,
-      "Шамилов Магомед Шамилович": 2,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:305300170468": 63,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 1,
+      "gas:candidate-vibid:1001000270069": 2,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 427,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 6,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 427,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 6,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 83,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 83,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 48,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 48,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 178,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 178,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 70,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 70,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 130,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 130,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гаджиев Магомед Тажудинович": 348,
-      "Даниялов Марат Гаджиалиевич": 0,
-      "Омаров Гаджимурад Заирбекович": 0,
-      "Шамилов Магомед Шамилович": 0,
-      "Шамхалов Джамалдин Забидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:305300170468": 348,
+      "gas:candidate-vibid:305300170462": 0,
+      "gas:candidate-vibid:1001000131371": 0,
+      "gas:candidate-vibid:1001000270069": 0,
+      "gas:candidate-vibid:305300170782": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070512&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 42,
-      "Омаров Магомед Омарович": 101,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 42,
+      "gas:candidate-vibid:305300370508": 101,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 42,
-      "Омаров Магомед Омарович": 65,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 42,
+      "gas:candidate-vibid:305300370508": 65,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 18,
-      "Омаров Магомед Омарович": 144,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 18,
+      "gas:candidate-vibid:305300370508": 144,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 15,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 6,
-      "Омаров Магомед Омарович": 248,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 15,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 6,
+      "gas:candidate-vibid:305300370508": 248,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 48,
-      "Омаров Магомед Омарович": 159,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 48,
+      "gas:candidate-vibid:305300370508": 159,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 39,
-      "Омаров Магомед Омарович": 132,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 39,
+      "gas:candidate-vibid:305300370508": 132,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 30,
-      "Омаров Магомед Омарович": 99,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 30,
+      "gas:candidate-vibid:305300370508": 99,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 56,
-      "Омаров Магомед Омарович": 188,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 56,
+      "gas:candidate-vibid:305300370508": 188,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 54,
-      "Омаров Магомед Омарович": 126,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 54,
+      "gas:candidate-vibid:305300370508": 126,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 130,
-      "Омаров Магомед Омарович": 433,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 130,
+      "gas:candidate-vibid:305300370508": 433,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 256,
-      "Омаров Магомед Омарович": 856,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 256,
+      "gas:candidate-vibid:305300370508": 856,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 87,
-      "Омаров Магомед Омарович": 289,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 87,
+      "gas:candidate-vibid:305300370508": 289,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 55,
-      "Омаров Магомед Омарович": 184,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 55,
+      "gas:candidate-vibid:305300370508": 184,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 39,
-      "Омаров Магомед Омарович": 131,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 39,
+      "gas:candidate-vibid:305300370508": 131,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 72,
-      "Омаров Магомед Омарович": 174,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 72,
+      "gas:candidate-vibid:305300370508": 174,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 10,
-      "Омаров Магомед Омарович": 35,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 10,
+      "gas:candidate-vibid:305300370508": 35,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 42,
-      "Омаров Магомед Омарович": 143,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 42,
+      "gas:candidate-vibid:305300370508": 143,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070516&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 115,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 115,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 51,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 51,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 60,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 60,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 399,
-      "Омаров Магомед Омарович": 33,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 399,
+      "gas:candidate-vibid:305300370508": 33,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 6,
-      "Магомедов Абдулкерим Шахбанкадиевич": 7,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 681,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 6,
+      "gas:candidate-vibid:305300370502": 7,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 681,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 75,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 75,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 140,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 140,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 560,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 560,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 278,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 278,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 540,
-      "Омаров Магомед Омарович": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 540,
+      "gas:candidate-vibid:305300370508": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 250,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 250,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 262,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 262,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 56,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 56,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 386,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 386,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 121,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 121,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 316,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 316,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 8,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 198,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 8,
+      "gas:candidate-vibid:305300371205": 198,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 325,
-      "Омаров Магомед Омарович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 325,
+      "gas:candidate-vibid:305300370508": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 5,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 99,
-      "Омаров Магомед Омарович": 98,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190277": 5,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 99,
+      "gas:candidate-vibid:305300370508": 98,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 850,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 850,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 128,
-      "Омаров Магомед Омарович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 128,
+      "gas:candidate-vibid:305300370508": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 129,
-      "Омаров Магомед Омарович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 129,
+      "gas:candidate-vibid:305300370508": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 93,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 93,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 5,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 615,
-      "Омаров Магомед Омарович": 163,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 5,
+      "gas:candidate-vibid:305300371205": 615,
+      "gas:candidate-vibid:305300370508": 163,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 19,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 332,
-      "Омаров Магомед Омарович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 19,
+      "gas:candidate-vibid:305300371205": 332,
+      "gas:candidate-vibid:305300370508": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 373,
-      "Омаров Магомед Омарович": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 373,
+      "gas:candidate-vibid:305300370508": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 64,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 64,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 310,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 310,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 32,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 32,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 143,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 143,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 259,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 259,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 331,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 331,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 119,
-      "Омаров Магомед Омарович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 119,
+      "gas:candidate-vibid:305300370508": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_5_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 220,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 220,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070537&region=0&sub_region=0&type=429",

@@ -38,11 +38,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 116,
-      "Миронов Сергей Михайлович": 16,
-      "Прохоров Михаил Дмитриевич": 15,
-      "Путин Владимир Владимирович": 540
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 116,
+      "gas:candidate-vibid:100100032143255": 16,
+      "gas:candidate-vibid:100100032152563": 15,
+      "gas:candidate-vibid:100100032111402": 540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -88,11 +88,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 18,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 122
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 18,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -138,11 +138,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 35,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 134
+      "gas:candidate-vibid:100100032152680": 5,
+      "gas:candidate-vibid:100100032159240": 35,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -188,11 +188,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 54,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 402
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 54,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -238,11 +238,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 17,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 181
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 17,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -288,11 +288,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 72,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 376
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 72,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -338,11 +338,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 59,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 200
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 59,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -388,11 +388,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 53,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 196
+      "gas:candidate-vibid:100100032152680": 14,
+      "gas:candidate-vibid:100100032159240": 53,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -438,11 +438,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 247,
-      "Миронов Сергей Михайлович": 29,
-      "Прохоров Михаил Дмитриевич": 28,
-      "Путин Владимир Владимирович": 1118
+      "gas:candidate-vibid:100100032152680": 33,
+      "gas:candidate-vibid:100100032159240": 247,
+      "gas:candidate-vibid:100100032143255": 29,
+      "gas:candidate-vibid:100100032152563": 28,
+      "gas:candidate-vibid:100100032111402": 1118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -488,11 +488,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 30,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 184
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 30,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -538,11 +538,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 4,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 71
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 4,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -588,11 +588,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 16,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 176
+      "gas:candidate-vibid:100100032152680": 4,
+      "gas:candidate-vibid:100100032159240": 16,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -638,11 +638,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 39,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 120
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 39,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -688,11 +688,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 93,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 12,
-      "Путин Владимир Владимирович": 212
+      "gas:candidate-vibid:100100032152680": 10,
+      "gas:candidate-vibid:100100032159240": 93,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 12,
+      "gas:candidate-vibid:100100032111402": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -738,11 +738,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 60,
-      "Миронов Сергей Михайлович": 14,
-      "Прохоров Михаил Дмитриевич": 17,
-      "Путин Владимир Владимирович": 398
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 60,
+      "gas:candidate-vibid:100100032143255": 14,
+      "gas:candidate-vibid:100100032152563": 17,
+      "gas:candidate-vibid:100100032111402": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -788,11 +788,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 32,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 301
+      "gas:candidate-vibid:100100032152680": 4,
+      "gas:candidate-vibid:100100032159240": 32,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -838,11 +838,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 133,
-      "Миронов Сергей Михайлович": 34,
-      "Прохоров Михаил Дмитриевич": 29,
-      "Путин Владимир Владимирович": 839
+      "gas:candidate-vibid:100100032152680": 44,
+      "gas:candidate-vibid:100100032159240": 133,
+      "gas:candidate-vibid:100100032143255": 34,
+      "gas:candidate-vibid:100100032152563": 29,
+      "gas:candidate-vibid:100100032111402": 839
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -888,11 +888,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 106,
-      "Миронов Сергей Михайлович": 24,
-      "Прохоров Михаил Дмитриевич": 31,
-      "Путин Владимир Владимирович": 725
+      "gas:candidate-vibid:100100032152680": 17,
+      "gas:candidate-vibid:100100032159240": 106,
+      "gas:candidate-vibid:100100032143255": 24,
+      "gas:candidate-vibid:100100032152563": 31,
+      "gas:candidate-vibid:100100032111402": 725
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -938,11 +938,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 90,
-      "Миронов Сергей Михайлович": 23,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 647
+      "gas:candidate-vibid:100100032152680": 8,
+      "gas:candidate-vibid:100100032159240": 90,
+      "gas:candidate-vibid:100100032143255": 23,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 647
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -988,11 +988,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 38,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 105
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 38,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -1038,11 +1038,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 31,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 143
+      "gas:candidate-vibid:100100032152680": 5,
+      "gas:candidate-vibid:100100032159240": 31,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -1088,11 +1088,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 16,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 176
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 16,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414853&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414853&type=227",
@@ -1138,11 +1138,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 168,
-      "Миронов Сергей Михайлович": 19,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 490
+      "gas:candidate-vibid:100100032152680": 16,
+      "gas:candidate-vibid:100100032159240": 168,
+      "gas:candidate-vibid:100100032143255": 19,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 490
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1188,11 +1188,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 253,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 932
+      "gas:candidate-vibid:100100032152680": 28,
+      "gas:candidate-vibid:100100032159240": 253,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 932
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1238,11 +1238,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 255,
-      "Миронов Сергей Михайлович": 49,
-      "Прохоров Михаил Дмитриевич": 62,
-      "Путин Владимир Владимирович": 832
+      "gas:candidate-vibid:100100032152680": 95,
+      "gas:candidate-vibid:100100032159240": 255,
+      "gas:candidate-vibid:100100032143255": 49,
+      "gas:candidate-vibid:100100032152563": 62,
+      "gas:candidate-vibid:100100032111402": 832
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1288,11 +1288,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 106,
-      "Зюганов Геннадий Андреевич": 336,
-      "Миронов Сергей Михайлович": 100,
-      "Прохоров Михаил Дмитриевич": 88,
-      "Путин Владимир Владимирович": 1190
+      "gas:candidate-vibid:100100032152680": 106,
+      "gas:candidate-vibid:100100032159240": 336,
+      "gas:candidate-vibid:100100032143255": 100,
+      "gas:candidate-vibid:100100032152563": 88,
+      "gas:candidate-vibid:100100032111402": 1190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1338,11 +1338,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 3,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 168
+      "gas:candidate-vibid:100100032152680": 5,
+      "gas:candidate-vibid:100100032159240": 3,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1388,11 +1388,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 46,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 915
+      "gas:candidate-vibid:100100032152680": 17,
+      "gas:candidate-vibid:100100032159240": 46,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 915
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1438,11 +1438,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 30,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 213
+      "gas:candidate-vibid:100100032152680": 10,
+      "gas:candidate-vibid:100100032159240": 30,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1488,11 +1488,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 35,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 199
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 35,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1538,11 +1538,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 115,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 49,
-      "Путин Владимир Владимирович": 372
+      "gas:candidate-vibid:100100032152680": 52,
+      "gas:candidate-vibid:100100032159240": 115,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 49,
+      "gas:candidate-vibid:100100032111402": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1588,11 +1588,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 134,
-      "Миронов Сергей Михайлович": 58,
-      "Прохоров Михаил Дмитриевич": 49,
-      "Путин Владимир Владимирович": 418
+      "gas:candidate-vibid:100100032152680": 56,
+      "gas:candidate-vibid:100100032159240": 134,
+      "gas:candidate-vibid:100100032143255": 58,
+      "gas:candidate-vibid:100100032152563": 49,
+      "gas:candidate-vibid:100100032111402": 418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1638,11 +1638,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 157,
-      "Миронов Сергей Михайлович": 103,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 960
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 157,
+      "gas:candidate-vibid:100100032143255": 103,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 960
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1688,11 +1688,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 139,
-      "Миронов Сергей Михайлович": 60,
-      "Прохоров Михаил Дмитриевич": 78,
-      "Путин Владимир Владимирович": 436
+      "gas:candidate-vibid:100100032152680": 44,
+      "gas:candidate-vibid:100100032159240": 139,
+      "gas:candidate-vibid:100100032143255": 60,
+      "gas:candidate-vibid:100100032152563": 78,
+      "gas:candidate-vibid:100100032111402": 436
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1738,11 +1738,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 49,
-      "Зюганов Геннадий Андреевич": 99,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 41,
-      "Путин Владимир Владимирович": 358
+      "gas:candidate-vibid:100100032152680": 49,
+      "gas:candidate-vibid:100100032159240": 99,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 41,
+      "gas:candidate-vibid:100100032111402": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1788,11 +1788,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 4,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 40
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 4,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1838,11 +1838,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 50,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 28,
-      "Путин Владимир Владимирович": 269
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 50,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 28,
+      "gas:candidate-vibid:100100032111402": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1888,11 +1888,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 22,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 68
+      "gas:candidate-vibid:100100032152680": 17,
+      "gas:candidate-vibid:100100032159240": 22,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1938,11 +1938,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 52,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 258
+      "gas:candidate-vibid:100100032152680": 14,
+      "gas:candidate-vibid:100100032159240": 52,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -1988,11 +1988,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 19,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 104
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 19,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2038,11 +2038,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 11,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 143
+      "gas:candidate-vibid:100100032152680": 16,
+      "gas:candidate-vibid:100100032159240": 11,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2088,11 +2088,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 90,
-      "Миронов Сергей Михайлович": 14,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 199
+      "gas:candidate-vibid:100100032152680": 25,
+      "gas:candidate-vibid:100100032159240": 90,
+      "gas:candidate-vibid:100100032143255": 14,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2138,11 +2138,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 56,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 133
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 56,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2188,11 +2188,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 34,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 172
+      "gas:candidate-vibid:100100032152680": 13,
+      "gas:candidate-vibid:100100032159240": 34,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2238,11 +2238,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 26,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 12,
-      "Путин Владимир Владимирович": 112
+      "gas:candidate-vibid:100100032152680": 13,
+      "gas:candidate-vibid:100100032159240": 26,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 12,
+      "gas:candidate-vibid:100100032111402": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2288,11 +2288,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 225,
-      "Миронов Сергей Михайлович": 41,
-      "Прохоров Михаил Дмитриевич": 33,
-      "Путин Владимир Владимирович": 656
+      "gas:candidate-vibid:100100032152680": 65,
+      "gas:candidate-vibid:100100032159240": 225,
+      "gas:candidate-vibid:100100032143255": 41,
+      "gas:candidate-vibid:100100032152563": 33,
+      "gas:candidate-vibid:100100032111402": 656
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2338,11 +2338,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 19,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 89
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 19,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2388,11 +2388,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 41,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 180
+      "gas:candidate-vibid:100100032152680": 8,
+      "gas:candidate-vibid:100100032159240": 41,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2438,11 +2438,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 32,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 20,
-      "Путин Владимир Владимирович": 220
+      "gas:candidate-vibid:100100032152680": 18,
+      "gas:candidate-vibid:100100032159240": 32,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 20,
+      "gas:candidate-vibid:100100032111402": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2488,11 +2488,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 34,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 113
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 34,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2538,11 +2538,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 68,
-      "Миронов Сергей Михайлович": 17,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 209
+      "gas:candidate-vibid:100100032152680": 28,
+      "gas:candidate-vibid:100100032159240": 68,
+      "gas:candidate-vibid:100100032143255": 17,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2588,11 +2588,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 84,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 326
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 84,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2638,11 +2638,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 131,
-      "Миронов Сергей Михайлович": 17,
-      "Прохоров Михаил Дмитриевич": 22,
-      "Путин Владимир Владимирович": 323
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 131,
+      "gas:candidate-vibid:100100032143255": 17,
+      "gas:candidate-vibid:100100032152563": 22,
+      "gas:candidate-vibid:100100032111402": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2688,11 +2688,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 97,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 10,
-      "Путин Владимир Владимирович": 244
+      "gas:candidate-vibid:100100032152680": 30,
+      "gas:candidate-vibid:100100032159240": 97,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 10,
+      "gas:candidate-vibid:100100032111402": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2738,11 +2738,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 13,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 70
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 13,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2788,11 +2788,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 111,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 253
+      "gas:candidate-vibid:100100032152680": 23,
+      "gas:candidate-vibid:100100032159240": 111,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2838,11 +2838,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 67,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 368
+      "gas:candidate-vibid:100100032152680": 33,
+      "gas:candidate-vibid:100100032159240": 67,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2888,11 +2888,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 27,
-      "Миронов Сергей Михайлович": 18,
-      "Прохоров Михаил Дмитриевич": 22,
-      "Путин Владимир Владимирович": 174
+      "gas:candidate-vibid:100100032152680": 23,
+      "gas:candidate-vibid:100100032159240": 27,
+      "gas:candidate-vibid:100100032143255": 18,
+      "gas:candidate-vibid:100100032152563": 22,
+      "gas:candidate-vibid:100100032111402": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2938,11 +2938,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 160,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 40,
-      "Путин Владимир Владимирович": 468
+      "gas:candidate-vibid:100100032152680": 68,
+      "gas:candidate-vibid:100100032159240": 160,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 40,
+      "gas:candidate-vibid:100100032111402": 468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -2988,11 +2988,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 49,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 190
+      "gas:candidate-vibid:100100032152680": 12,
+      "gas:candidate-vibid:100100032159240": 49,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -3038,11 +3038,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 85,
-      "Миронов Сергей Михайлович": 21,
-      "Прохоров Михаил Дмитриевич": 23,
-      "Путин Владимир Владимирович": 389
+      "gas:candidate-vibid:100100032152680": 47,
+      "gas:candidate-vibid:100100032159240": 85,
+      "gas:candidate-vibid:100100032143255": 21,
+      "gas:candidate-vibid:100100032152563": 23,
+      "gas:candidate-vibid:100100032111402": 389
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -3088,11 +3088,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 48,
-      "Миронов Сергей Михайлович": 18,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 215
+      "gas:candidate-vibid:100100032152680": 33,
+      "gas:candidate-vibid:100100032159240": 48,
+      "gas:candidate-vibid:100100032143255": 18,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -3138,11 +3138,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 22,
-      "Миронов Сергей Михайлович": 10,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 225
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 22,
+      "gas:candidate-vibid:100100032143255": 10,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414854&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414854&type=227",
@@ -3188,11 +3188,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 159,
-      "Зюганов Геннадий Андреевич": 297,
-      "Миронов Сергей Михайлович": 74,
-      "Прохоров Михаил Дмитриевич": 122,
-      "Путин Владимир Владимирович": 888
+      "gas:candidate-vibid:100100032152680": 159,
+      "gas:candidate-vibid:100100032159240": 297,
+      "gas:candidate-vibid:100100032143255": 74,
+      "gas:candidate-vibid:100100032152563": 122,
+      "gas:candidate-vibid:100100032111402": 888
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3238,11 +3238,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 126,
-      "Зюганов Геннадий Андреевич": 356,
-      "Миронов Сергей Михайлович": 78,
-      "Прохоров Михаил Дмитриевич": 118,
-      "Путин Владимир Владимирович": 892
+      "gas:candidate-vibid:100100032152680": 126,
+      "gas:candidate-vibid:100100032159240": 356,
+      "gas:candidate-vibid:100100032143255": 78,
+      "gas:candidate-vibid:100100032152563": 118,
+      "gas:candidate-vibid:100100032111402": 892
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3288,11 +3288,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 198,
-      "Зюганов Геннадий Андреевич": 280,
-      "Миронов Сергей Михайлович": 81,
-      "Прохоров Михаил Дмитриевич": 108,
-      "Путин Владимир Владимирович": 1000
+      "gas:candidate-vibid:100100032152680": 198,
+      "gas:candidate-vibid:100100032159240": 280,
+      "gas:candidate-vibid:100100032143255": 81,
+      "gas:candidate-vibid:100100032152563": 108,
+      "gas:candidate-vibid:100100032111402": 1000
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3338,11 +3338,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 167,
-      "Зюганов Геннадий Андреевич": 262,
-      "Миронов Сергей Михайлович": 84,
-      "Прохоров Михаил Дмитриевич": 82,
-      "Путин Владимир Владимирович": 814
+      "gas:candidate-vibid:100100032152680": 167,
+      "gas:candidate-vibid:100100032159240": 262,
+      "gas:candidate-vibid:100100032143255": 84,
+      "gas:candidate-vibid:100100032152563": 82,
+      "gas:candidate-vibid:100100032111402": 814
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3388,11 +3388,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 312,
-      "Миронов Сергей Михайлович": 74,
-      "Прохоров Михаил Дмитриевич": 104,
-      "Путин Владимир Владимирович": 851
+      "gas:candidate-vibid:100100032152680": 114,
+      "gas:candidate-vibid:100100032159240": 312,
+      "gas:candidate-vibid:100100032143255": 74,
+      "gas:candidate-vibid:100100032152563": 104,
+      "gas:candidate-vibid:100100032111402": 851
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3438,11 +3438,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 209,
-      "Зюганов Геннадий Андреевич": 344,
-      "Миронов Сергей Михайлович": 71,
-      "Прохоров Михаил Дмитриевич": 99,
-      "Путин Владимир Владимирович": 1031
+      "gas:candidate-vibid:100100032152680": 209,
+      "gas:candidate-vibid:100100032159240": 344,
+      "gas:candidate-vibid:100100032143255": 71,
+      "gas:candidate-vibid:100100032152563": 99,
+      "gas:candidate-vibid:100100032111402": 1031
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3488,11 +3488,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 173,
-      "Зюганов Геннадий Андреевич": 308,
-      "Миронов Сергей Михайлович": 107,
-      "Прохоров Михаил Дмитриевич": 149,
-      "Путин Владимир Владимирович": 974
+      "gas:candidate-vibid:100100032152680": 173,
+      "gas:candidate-vibid:100100032159240": 308,
+      "gas:candidate-vibid:100100032143255": 107,
+      "gas:candidate-vibid:100100032152563": 149,
+      "gas:candidate-vibid:100100032111402": 974
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3538,11 +3538,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 170,
-      "Зюганов Геннадий Андреевич": 332,
-      "Миронов Сергей Михайлович": 76,
-      "Прохоров Михаил Дмитриевич": 138,
-      "Путин Владимир Владимирович": 1156
+      "gas:candidate-vibid:100100032152680": 170,
+      "gas:candidate-vibid:100100032159240": 332,
+      "gas:candidate-vibid:100100032143255": 76,
+      "gas:candidate-vibid:100100032152563": 138,
+      "gas:candidate-vibid:100100032111402": 1156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3588,11 +3588,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 144,
-      "Зюганов Геннадий Андреевич": 298,
-      "Миронов Сергей Михайлович": 62,
-      "Прохоров Михаил Дмитриевич": 108,
-      "Путин Владимир Владимирович": 971
+      "gas:candidate-vibid:100100032152680": 144,
+      "gas:candidate-vibid:100100032159240": 298,
+      "gas:candidate-vibid:100100032143255": 62,
+      "gas:candidate-vibid:100100032152563": 108,
+      "gas:candidate-vibid:100100032111402": 971
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3638,11 +3638,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 125,
-      "Зюганов Геннадий Андреевич": 257,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 80,
-      "Путин Владимир Владимирович": 693
+      "gas:candidate-vibid:100100032152680": 125,
+      "gas:candidate-vibid:100100032159240": 257,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 80,
+      "gas:candidate-vibid:100100032111402": 693
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414855&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414855&type=227",
@@ -3688,11 +3688,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 229,
-      "Миронов Сергей Михайлович": 36,
-      "Прохоров Михаил Дмитриевич": 31,
-      "Путин Владимир Владимирович": 466
+      "gas:candidate-vibid:100100032152680": 45,
+      "gas:candidate-vibid:100100032159240": 229,
+      "gas:candidate-vibid:100100032143255": 36,
+      "gas:candidate-vibid:100100032152563": 31,
+      "gas:candidate-vibid:100100032111402": 466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -3738,11 +3738,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 205,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 27,
-      "Путин Владимир Владимирович": 352
+      "gas:candidate-vibid:100100032152680": 57,
+      "gas:candidate-vibid:100100032159240": 205,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 27,
+      "gas:candidate-vibid:100100032111402": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -3788,11 +3788,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 97,
-      "Зюганов Геннадий Андреевич": 400,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 68,
-      "Путин Владимир Владимирович": 528
+      "gas:candidate-vibid:100100032152680": 97,
+      "gas:candidate-vibid:100100032159240": 400,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 68,
+      "gas:candidate-vibid:100100032111402": 528
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -3838,11 +3838,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 53,
-      "Зюганов Геннадий Андреевич": 143,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 22,
-      "Путин Владимир Владимирович": 295
+      "gas:candidate-vibid:100100032152680": 53,
+      "gas:candidate-vibid:100100032159240": 143,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 22,
+      "gas:candidate-vibid:100100032111402": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -3888,11 +3888,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 207,
-      "Миронов Сергей Михайлович": 24,
-      "Прохоров Михаил Дмитриевич": 47,
-      "Путин Владимир Владимирович": 359
+      "gas:candidate-vibid:100100032152680": 48,
+      "gas:candidate-vibid:100100032159240": 207,
+      "gas:candidate-vibid:100100032143255": 24,
+      "gas:candidate-vibid:100100032152563": 47,
+      "gas:candidate-vibid:100100032111402": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -3938,11 +3938,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 187,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 289
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 187,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -3988,11 +3988,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 274,
-      "Миронов Сергей Михайлович": 32,
-      "Прохоров Михаил Дмитриевич": 30,
-      "Путин Владимир Владимирович": 480
+      "gas:candidate-vibid:100100032152680": 81,
+      "gas:candidate-vibid:100100032159240": 274,
+      "gas:candidate-vibid:100100032143255": 32,
+      "gas:candidate-vibid:100100032152563": 30,
+      "gas:candidate-vibid:100100032111402": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -4038,11 +4038,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 77,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 224
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 77,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -4088,11 +4088,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 36,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 156
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 36,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -4138,11 +4138,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 96,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 20,
-      "Путин Владимир Владимирович": 326
+      "gas:candidate-vibid:100100032152680": 21,
+      "gas:candidate-vibid:100100032159240": 96,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 20,
+      "gas:candidate-vibid:100100032111402": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -4188,11 +4188,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 143,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 21,
-      "Путин Владимир Владимирович": 243
+      "gas:candidate-vibid:100100032152680": 25,
+      "gas:candidate-vibid:100100032159240": 143,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 21,
+      "gas:candidate-vibid:100100032111402": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -4238,11 +4238,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 152,
-      "Миронов Сергей Михайлович": 22,
-      "Прохоров Михаил Дмитриевич": 27,
-      "Путин Владимир Владимирович": 506
+      "gas:candidate-vibid:100100032152680": 37,
+      "gas:candidate-vibid:100100032159240": 152,
+      "gas:candidate-vibid:100100032143255": 22,
+      "gas:candidate-vibid:100100032152563": 27,
+      "gas:candidate-vibid:100100032111402": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",
@@ -4288,11 +4288,11 @@ export const president_2012_uik_226_region_30_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 155,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 18,
-      "Путин Владимир Владимирович": 469
+      "gas:candidate-vibid:100100032152680": 57,
+      "gas:candidate-vibid:100100032159240": 155,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 18,
+      "gas:candidate-vibid:100100032111402": 469
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000009&tvd=2302000414856&vrn=100100031793505&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000414856&type=227",

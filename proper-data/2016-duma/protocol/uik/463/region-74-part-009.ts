@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 150,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 251,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 42,
-      "Панкратов Николай Викторович": 24,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 11,
-      "Тургумбаев Валихан Урсбаевич": 48
+      "gas:candidate-vibid:4744010236011": 150,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 251,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 42,
+      "gas:candidate-vibid:4744010235842": 24,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 11,
+      "gas:candidate-vibid:4744010236380": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 128,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 238,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 37,
-      "Панкратов Николай Викторович": 31,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 12,
-      "Тургумбаев Валихан Урсбаевич": 46
+      "gas:candidate-vibid:4744010236011": 128,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 238,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 37,
+      "gas:candidate-vibid:4744010235842": 31,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 12,
+      "gas:candidate-vibid:4744010236380": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 165,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 226,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 44,
-      "Панкратов Николай Викторович": 23,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 36
+      "gas:candidate-vibid:4744010236011": 165,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 226,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 44,
+      "gas:candidate-vibid:4744010235842": 23,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 141,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 260,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 38,
-      "Панкратов Николай Викторович": 37,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 54
+      "gas:candidate-vibid:4744010236011": 141,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 260,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 38,
+      "gas:candidate-vibid:4744010235842": 37,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 121,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 203,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 30,
-      "Панкратов Николай Викторович": 15,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 11,
-      "Тургумбаев Валихан Урсбаевич": 35
+      "gas:candidate-vibid:4744010236011": 121,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 203,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 30,
+      "gas:candidate-vibid:4744010235842": 15,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 11,
+      "gas:candidate-vibid:4744010236380": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 166,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 199,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 20,
-      "Панкратов Николай Викторович": 16,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 7,
-      "Тургумбаев Валихан Урсбаевич": 33
+      "gas:candidate-vibid:4744010236011": 166,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 199,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 20,
+      "gas:candidate-vibid:4744010235842": 16,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 7,
+      "gas:candidate-vibid:4744010236380": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 107,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 151,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 12,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 28
+      "gas:candidate-vibid:4744010236011": 107,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 151,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 12,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 63,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 84,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 22,
-      "Панкратов Николай Викторович": 23,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 11,
-      "Тургумбаев Валихан Урсбаевич": 22
+      "gas:candidate-vibid:4744010236011": 63,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 84,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 22,
+      "gas:candidate-vibid:4744010235842": 23,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 11,
+      "gas:candidate-vibid:4744010236380": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 166,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 191,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 37,
-      "Панкратов Николай Викторович": 13,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 21
+      "gas:candidate-vibid:4744010236011": 166,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 191,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 37,
+      "gas:candidate-vibid:4744010235842": 13,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 108,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 153,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 43,
-      "Панкратов Николай Викторович": 7,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 36
+      "gas:candidate-vibid:4744010236011": 108,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 153,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 43,
+      "gas:candidate-vibid:4744010235842": 7,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 88,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 223,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 25,
-      "Панкратов Николай Викторович": 20,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 15
+      "gas:candidate-vibid:4744010236011": 88,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 223,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 25,
+      "gas:candidate-vibid:4744010235842": 20,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 52,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 97,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 6,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 19
+      "gas:candidate-vibid:4744010236011": 52,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 97,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 6,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 76,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 117,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 16,
-      "Панкратов Николай Викторович": 16,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 71
+      "gas:candidate-vibid:4744010236011": 76,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 117,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 16,
+      "gas:candidate-vibid:4744010235842": 16,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143178&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143178&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 279,
-      "Гуменюк Юрий Юрьевич": 12,
-      "Колесников Олег Алексеевич": 157,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 76,
-      "Панкратов Николай Викторович": 60,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 22,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 279,
+      "gas:candidate-vibid:4744010236439": 12,
+      "gas:candidate-vibid:4744010236290": 157,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 76,
+      "gas:candidate-vibid:4744010235842": 60,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 22,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 281,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 164,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 59,
-      "Панкратов Николай Викторович": 36,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 25,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 281,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 164,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 59,
+      "gas:candidate-vibid:4744010235842": 36,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 25,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 316,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 263,
-      "Кошмар Василий Эдуардович": 18,
-      "Никитчук Иван Игнатьевич": 109,
-      "Панкратов Николай Викторович": 32,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 24,
-      "Тургумбаев Валихан Урсбаевич": 29
+      "gas:candidate-vibid:4744010236011": 316,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 263,
+      "gas:candidate-vibid:4744010236321": 18,
+      "gas:candidate-vibid:4744010236139": 109,
+      "gas:candidate-vibid:4744010235842": 32,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 24,
+      "gas:candidate-vibid:4744010236380": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 288,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 188,
-      "Кошмар Василий Эдуардович": 19,
-      "Никитчук Иван Игнатьевич": 95,
-      "Панкратов Николай Викторович": 49,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 28,
-      "Тургумбаев Валихан Урсбаевич": 10
+      "gas:candidate-vibid:4744010236011": 288,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 188,
+      "gas:candidate-vibid:4744010236321": 19,
+      "gas:candidate-vibid:4744010236139": 95,
+      "gas:candidate-vibid:4744010235842": 49,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 28,
+      "gas:candidate-vibid:4744010236380": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 276,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 121,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 77,
-      "Панкратов Николай Викторович": 35,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 14
+      "gas:candidate-vibid:4744010236011": 276,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 121,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 77,
+      "gas:candidate-vibid:4744010235842": 35,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 146,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 61,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 26,
-      "Панкратов Николай Викторович": 6,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 146,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 61,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 26,
+      "gas:candidate-vibid:4744010235842": 6,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 328,
-      "Гуменюк Юрий Юрьевич": 15,
-      "Колесников Олег Алексеевич": 244,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 93,
-      "Панкратов Николай Викторович": 34,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 30,
-      "Тургумбаев Валихан Урсбаевич": 15
+      "gas:candidate-vibid:4744010236011": 328,
+      "gas:candidate-vibid:4744010236439": 15,
+      "gas:candidate-vibid:4744010236290": 244,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 93,
+      "gas:candidate-vibid:4744010235842": 34,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 30,
+      "gas:candidate-vibid:4744010236380": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 273,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 156,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 67,
-      "Панкратов Николай Викторович": 44,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 18,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 273,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 156,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 67,
+      "gas:candidate-vibid:4744010235842": 44,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 18,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 246,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 113,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 55,
-      "Панкратов Николай Викторович": 29,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 246,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 113,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 55,
+      "gas:candidate-vibid:4744010235842": 29,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 236,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 125,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 45,
-      "Панкратов Николай Викторович": 20,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 7
+      "gas:candidate-vibid:4744010236011": 236,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 125,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 45,
+      "gas:candidate-vibid:4744010235842": 20,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 406,
-      "Гуменюк Юрий Юрьевич": 14,
-      "Колесников Олег Алексеевич": 281,
-      "Кошмар Василий Эдуардович": 15,
-      "Никитчук Иван Игнатьевич": 85,
-      "Панкратов Николай Викторович": 35,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 31,
-      "Тургумбаев Валихан Урсбаевич": 19
+      "gas:candidate-vibid:4744010236011": 406,
+      "gas:candidate-vibid:4744010236439": 14,
+      "gas:candidate-vibid:4744010236290": 281,
+      "gas:candidate-vibid:4744010236321": 15,
+      "gas:candidate-vibid:4744010236139": 85,
+      "gas:candidate-vibid:4744010235842": 35,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 31,
+      "gas:candidate-vibid:4744010236380": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 140,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 144,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 69,
-      "Панкратов Николай Викторович": 21,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 13,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 140,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 144,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 69,
+      "gas:candidate-vibid:4744010235842": 21,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 13,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 173,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 93,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 100,
-      "Панкратов Николай Викторович": 34,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 173,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 93,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 100,
+      "gas:candidate-vibid:4744010235842": 34,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 152,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 139,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 84,
-      "Панкратов Николай Викторович": 29,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 152,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 139,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 84,
+      "gas:candidate-vibid:4744010235842": 29,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 162,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 128,
-      "Кошмар Василий Эдуардович": 21,
-      "Никитчук Иван Игнатьевич": 83,
-      "Панкратов Николай Викторович": 41,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 24,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 162,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 128,
+      "gas:candidate-vibid:4744010236321": 21,
+      "gas:candidate-vibid:4744010236139": 83,
+      "gas:candidate-vibid:4744010235842": 41,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 24,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 60,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 37,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 26,
-      "Панкратов Николай Викторович": 5,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 7,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 60,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 37,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 26,
+      "gas:candidate-vibid:4744010235842": 5,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 7,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 26,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 27,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 3,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 26,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 27,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 3,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 104,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 214,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 76,
-      "Панкратов Николай Викторович": 24,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 15
+      "gas:candidate-vibid:4744010236011": 104,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 214,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 76,
+      "gas:candidate-vibid:4744010235842": 24,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 44,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 51,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 0,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 44,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 51,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 0,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 86,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 195,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 37,
-      "Панкратов Николай Викторович": 18,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 86,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 195,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 37,
+      "gas:candidate-vibid:4744010235842": 18,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 43,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 34,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 2,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 43,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 34,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 2,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 43,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 24,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 4,
-      "Панкратов Николай Викторович": 1,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 43,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 24,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 4,
+      "gas:candidate-vibid:4744010235842": 1,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 122,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 225,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 49,
-      "Панкратов Николай Викторович": 12,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 10
+      "gas:candidate-vibid:4744010236011": 122,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 225,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 49,
+      "gas:candidate-vibid:4744010235842": 12,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143179&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143179&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 154,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 276,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 77,
-      "Панкратов Николай Викторович": 91,
-      "Потапов Василий Сергеевич": 18,
-      "Таврина Наталья Юрьевна": 24,
-      "Тургумбаев Валихан Урсбаевич": 25
+      "gas:candidate-vibid:4744010236011": 154,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 276,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 77,
+      "gas:candidate-vibid:4744010235842": 91,
+      "gas:candidate-vibid:4744010236226": 18,
+      "gas:candidate-vibid:4744010236461": 24,
+      "gas:candidate-vibid:4744010236380": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 168,
-      "Гуменюк Юрий Юрьевич": 12,
-      "Колесников Олег Алексеевич": 254,
-      "Кошмар Василий Эдуардович": 14,
-      "Никитчук Иван Игнатьевич": 71,
-      "Панкратов Николай Викторович": 98,
-      "Потапов Василий Сергеевич": 12,
-      "Таврина Наталья Юрьевна": 22,
-      "Тургумбаев Валихан Урсбаевич": 17
+      "gas:candidate-vibid:4744010236011": 168,
+      "gas:candidate-vibid:4744010236439": 12,
+      "gas:candidate-vibid:4744010236290": 254,
+      "gas:candidate-vibid:4744010236321": 14,
+      "gas:candidate-vibid:4744010236139": 71,
+      "gas:candidate-vibid:4744010235842": 98,
+      "gas:candidate-vibid:4744010236226": 12,
+      "gas:candidate-vibid:4744010236461": 22,
+      "gas:candidate-vibid:4744010236380": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 190,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 255,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 56,
-      "Панкратов Николай Викторович": 113,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 26,
-      "Тургумбаев Валихан Урсбаевич": 15
+      "gas:candidate-vibid:4744010236011": 190,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 255,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 56,
+      "gas:candidate-vibid:4744010235842": 113,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 26,
+      "gas:candidate-vibid:4744010236380": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 175,
-      "Гуменюк Юрий Юрьевич": 20,
-      "Колесников Олег Алексеевич": 266,
-      "Кошмар Василий Эдуардович": 19,
-      "Никитчук Иван Игнатьевич": 69,
-      "Панкратов Николай Викторович": 108,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 22,
-      "Тургумбаев Валихан Урсбаевич": 22
+      "gas:candidate-vibid:4744010236011": 175,
+      "gas:candidate-vibid:4744010236439": 20,
+      "gas:candidate-vibid:4744010236290": 266,
+      "gas:candidate-vibid:4744010236321": 19,
+      "gas:candidate-vibid:4744010236139": 69,
+      "gas:candidate-vibid:4744010235842": 108,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 22,
+      "gas:candidate-vibid:4744010236380": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 163,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 237,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 48,
-      "Панкратов Николай Викторович": 145,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 33
+      "gas:candidate-vibid:4744010236011": 163,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 237,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 48,
+      "gas:candidate-vibid:4744010235842": 145,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 178,
-      "Гуменюк Юрий Юрьевич": 23,
-      "Колесников Олег Алексеевич": 234,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 77,
-      "Панкратов Николай Викторович": 110,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 27,
-      "Тургумбаев Валихан Урсбаевич": 22
+      "gas:candidate-vibid:4744010236011": 178,
+      "gas:candidate-vibid:4744010236439": 23,
+      "gas:candidate-vibid:4744010236290": 234,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 77,
+      "gas:candidate-vibid:4744010235842": 110,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 27,
+      "gas:candidate-vibid:4744010236380": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 353,
-      "Гуменюк Юрий Юрьевич": 24,
-      "Колесников Олег Алексеевич": 560,
-      "Кошмар Василий Эдуардович": 32,
-      "Никитчук Иван Игнатьевич": 156,
-      "Панкратов Николай Викторович": 289,
-      "Потапов Василий Сергеевич": 18,
-      "Таврина Наталья Юрьевна": 63,
-      "Тургумбаев Валихан Урсбаевич": 43
+      "gas:candidate-vibid:4744010236011": 353,
+      "gas:candidate-vibid:4744010236439": 24,
+      "gas:candidate-vibid:4744010236290": 560,
+      "gas:candidate-vibid:4744010236321": 32,
+      "gas:candidate-vibid:4744010236139": 156,
+      "gas:candidate-vibid:4744010235842": 289,
+      "gas:candidate-vibid:4744010236226": 18,
+      "gas:candidate-vibid:4744010236461": 63,
+      "gas:candidate-vibid:4744010236380": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 326,
-      "Гуменюк Юрий Юрьевич": 19,
-      "Колесников Олег Алексеевич": 550,
-      "Кошмар Василий Эдуардович": 22,
-      "Никитчук Иван Игнатьевич": 171,
-      "Панкратов Николай Викторович": 279,
-      "Потапов Василий Сергеевич": 17,
-      "Таврина Наталья Юрьевна": 56,
-      "Тургумбаев Валихан Урсбаевич": 58
+      "gas:candidate-vibid:4744010236011": 326,
+      "gas:candidate-vibid:4744010236439": 19,
+      "gas:candidate-vibid:4744010236290": 550,
+      "gas:candidate-vibid:4744010236321": 22,
+      "gas:candidate-vibid:4744010236139": 171,
+      "gas:candidate-vibid:4744010235842": 279,
+      "gas:candidate-vibid:4744010236226": 17,
+      "gas:candidate-vibid:4744010236461": 56,
+      "gas:candidate-vibid:4744010236380": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 158,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 223,
-      "Кошмар Василий Эдуардович": 15,
-      "Никитчук Иван Игнатьевич": 51,
-      "Панкратов Николай Викторович": 123,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 26,
-      "Тургумбаев Валихан Урсбаевич": 17
+      "gas:candidate-vibid:4744010236011": 158,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 223,
+      "gas:candidate-vibid:4744010236321": 15,
+      "gas:candidate-vibid:4744010236139": 51,
+      "gas:candidate-vibid:4744010235842": 123,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 26,
+      "gas:candidate-vibid:4744010236380": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 330,
-      "Гуменюк Юрий Юрьевич": 30,
-      "Колесников Олег Алексеевич": 483,
-      "Кошмар Василий Эдуардович": 32,
-      "Никитчук Иван Игнатьевич": 138,
-      "Панкратов Николай Викторович": 208,
-      "Потапов Василий Сергеевич": 21,
-      "Таврина Наталья Юрьевна": 36,
-      "Тургумбаев Валихан Урсбаевич": 52
+      "gas:candidate-vibid:4744010236011": 330,
+      "gas:candidate-vibid:4744010236439": 30,
+      "gas:candidate-vibid:4744010236290": 483,
+      "gas:candidate-vibid:4744010236321": 32,
+      "gas:candidate-vibid:4744010236139": 138,
+      "gas:candidate-vibid:4744010235842": 208,
+      "gas:candidate-vibid:4744010236226": 21,
+      "gas:candidate-vibid:4744010236461": 36,
+      "gas:candidate-vibid:4744010236380": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 166,
-      "Гуменюк Юрий Юрьевич": 14,
-      "Колесников Олег Алексеевич": 226,
-      "Кошмар Василий Эдуардович": 14,
-      "Никитчук Иван Игнатьевич": 72,
-      "Панкратов Николай Викторович": 106,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 23
+      "gas:candidate-vibid:4744010236011": 166,
+      "gas:candidate-vibid:4744010236439": 14,
+      "gas:candidate-vibid:4744010236290": 226,
+      "gas:candidate-vibid:4744010236321": 14,
+      "gas:candidate-vibid:4744010236139": 72,
+      "gas:candidate-vibid:4744010235842": 106,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 214,
-      "Гуменюк Юрий Юрьевич": 14,
-      "Колесников Олег Алексеевич": 294,
-      "Кошмар Василий Эдуардович": 22,
-      "Никитчук Иван Игнатьевич": 70,
-      "Панкратов Николай Викторович": 116,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 25,
-      "Тургумбаев Валихан Урсбаевич": 28
+      "gas:candidate-vibid:4744010236011": 214,
+      "gas:candidate-vibid:4744010236439": 14,
+      "gas:candidate-vibid:4744010236290": 294,
+      "gas:candidate-vibid:4744010236321": 22,
+      "gas:candidate-vibid:4744010236139": 70,
+      "gas:candidate-vibid:4744010235842": 116,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 25,
+      "gas:candidate-vibid:4744010236380": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 378,
-      "Гуменюк Юрий Юрьевич": 17,
-      "Колесников Олег Алексеевич": 603,
-      "Кошмар Василий Эдуардович": 37,
-      "Никитчук Иван Игнатьевич": 174,
-      "Панкратов Николай Викторович": 227,
-      "Потапов Василий Сергеевич": 25,
-      "Таврина Наталья Юрьевна": 60,
-      "Тургумбаев Валихан Урсбаевич": 46
+      "gas:candidate-vibid:4744010236011": 378,
+      "gas:candidate-vibid:4744010236439": 17,
+      "gas:candidate-vibid:4744010236290": 603,
+      "gas:candidate-vibid:4744010236321": 37,
+      "gas:candidate-vibid:4744010236139": 174,
+      "gas:candidate-vibid:4744010235842": 227,
+      "gas:candidate-vibid:4744010236226": 25,
+      "gas:candidate-vibid:4744010236461": 60,
+      "gas:candidate-vibid:4744010236380": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 303,
-      "Гуменюк Юрий Юрьевич": 12,
-      "Колесников Олег Алексеевич": 546,
-      "Кошмар Василий Эдуардович": 21,
-      "Никитчук Иван Игнатьевич": 132,
-      "Панкратов Николай Викторович": 229,
-      "Потапов Василий Сергеевич": 20,
-      "Таврина Наталья Юрьевна": 41,
-      "Тургумбаев Валихан Урсбаевич": 61
+      "gas:candidate-vibid:4744010236011": 303,
+      "gas:candidate-vibid:4744010236439": 12,
+      "gas:candidate-vibid:4744010236290": 546,
+      "gas:candidate-vibid:4744010236321": 21,
+      "gas:candidate-vibid:4744010236139": 132,
+      "gas:candidate-vibid:4744010235842": 229,
+      "gas:candidate-vibid:4744010236226": 20,
+      "gas:candidate-vibid:4744010236461": 41,
+      "gas:candidate-vibid:4744010236380": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 173,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 624,
-      "Кошмар Василий Эдуардович": 25,
-      "Никитчук Иван Игнатьевич": 54,
-      "Панкратов Николай Викторович": 32,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 24,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 173,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 624,
+      "gas:candidate-vibid:4744010236321": 25,
+      "gas:candidate-vibid:4744010236139": 54,
+      "gas:candidate-vibid:4744010235842": 32,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 24,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143180&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143180&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 108,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 169,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 51,
-      "Панкратов Николай Викторович": 52,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 108,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 169,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 51,
+      "gas:candidate-vibid:4744010235842": 52,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 124,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 201,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 81,
-      "Панкратов Николай Викторович": 58,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 22
+      "gas:candidate-vibid:4744010236011": 124,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 201,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 81,
+      "gas:candidate-vibid:4744010235842": 58,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 103,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 186,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 66,
-      "Панкратов Николай Викторович": 58,
-      "Потапов Василий Сергеевич": 13,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 10
+      "gas:candidate-vibid:4744010236011": 103,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 186,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 66,
+      "gas:candidate-vibid:4744010235842": 58,
+      "gas:candidate-vibid:4744010236226": 13,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 124,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 253,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 81,
-      "Панкратов Николай Викторович": 81,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 17,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 124,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 253,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 81,
+      "gas:candidate-vibid:4744010235842": 81,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 17,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 72,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 119,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 26,
-      "Панкратов Николай Викторович": 41,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 72,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 119,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 26,
+      "gas:candidate-vibid:4744010235842": 41,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 193,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 357,
-      "Кошмар Василий Эдуардович": 14,
-      "Никитчук Иван Игнатьевич": 160,
-      "Панкратов Николай Викторович": 167,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 49,
-      "Тургумбаев Валихан Урсбаевич": 23
+      "gas:candidate-vibid:4744010236011": 193,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 357,
+      "gas:candidate-vibid:4744010236321": 14,
+      "gas:candidate-vibid:4744010236139": 160,
+      "gas:candidate-vibid:4744010235842": 167,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 49,
+      "gas:candidate-vibid:4744010236380": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 131,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 185,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 47,
-      "Панкратов Николай Викторович": 46,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 11,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 131,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 185,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 47,
+      "gas:candidate-vibid:4744010235842": 46,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 11,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 140,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 234,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 49,
-      "Панкратов Николай Викторович": 55,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 140,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 234,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 49,
+      "gas:candidate-vibid:4744010235842": 55,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 80,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 93,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 22,
-      "Панкратов Николай Викторович": 21,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 80,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 93,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 22,
+      "gas:candidate-vibid:4744010235842": 21,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 61,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 109,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 19,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 61,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 109,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 19,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 151,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 191,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 55,
-      "Панкратов Николай Викторович": 31,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 4,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 151,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 191,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 55,
+      "gas:candidate-vibid:4744010235842": 31,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 4,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 86,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 70,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 31,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 86,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 70,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 31,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 52,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 24,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 52,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 24,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 108,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 210,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 81,
-      "Панкратов Николай Викторович": 60,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 13,
-      "Тургумбаев Валихан Урсбаевич": 7
+      "gas:candidate-vibid:4744010236011": 108,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 210,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 81,
+      "gas:candidate-vibid:4744010235842": 60,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 13,
+      "gas:candidate-vibid:4744010236380": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 128,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 193,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 82,
-      "Панкратов Николай Викторович": 56,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 12,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 128,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 193,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 82,
+      "gas:candidate-vibid:4744010235842": 56,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 12,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 160,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 219,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 55,
-      "Панкратов Николай Викторович": 45,
-      "Потапов Василий Сергеевич": 12,
-      "Таврина Наталья Юрьевна": 18,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 160,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 219,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 55,
+      "gas:candidate-vibid:4744010235842": 45,
+      "gas:candidate-vibid:4744010236226": 12,
+      "gas:candidate-vibid:4744010236461": 18,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 164,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 163,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 42,
-      "Панкратов Николай Викторович": 37,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 4,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 164,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 163,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 42,
+      "gas:candidate-vibid:4744010235842": 37,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 4,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 84,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 128,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 33,
-      "Панкратов Николай Викторович": 30,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 16
+      "gas:candidate-vibid:4744010236011": 84,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 128,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 33,
+      "gas:candidate-vibid:4744010235842": 30,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 154,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 229,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 72,
-      "Панкратов Николай Викторович": 77,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 14
+      "gas:candidate-vibid:4744010236011": 154,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 229,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 72,
+      "gas:candidate-vibid:4744010235842": 77,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 196,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 218,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 61,
-      "Панкратов Николай Викторович": 56,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 18,
-      "Тургумбаев Валихан Урсбаевич": 26
+      "gas:candidate-vibid:4744010236011": 196,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 218,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 61,
+      "gas:candidate-vibid:4744010235842": 56,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 18,
+      "gas:candidate-vibid:4744010236380": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 200,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 164,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 53,
-      "Панкратов Николай Викторович": 64,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 16
+      "gas:candidate-vibid:4744010236011": 200,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 164,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 53,
+      "gas:candidate-vibid:4744010235842": 64,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 222,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 197,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 52,
-      "Панкратов Николай Викторович": 42,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 4,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 222,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 197,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 52,
+      "gas:candidate-vibid:4744010235842": 42,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 4,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 148,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 196,
-      "Кошмар Василий Эдуардович": 14,
-      "Никитчук Иван Игнатьевич": 52,
-      "Панкратов Николай Викторович": 35,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 148,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 196,
+      "gas:candidate-vibid:4744010236321": 14,
+      "gas:candidate-vibid:4744010236139": 52,
+      "gas:candidate-vibid:4744010235842": 35,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 81,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 141,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 17,
-      "Панкратов Николай Викторович": 15,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 4,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 81,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 141,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 17,
+      "gas:candidate-vibid:4744010235842": 15,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 4,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 96,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 106,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 31,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 7
+      "gas:candidate-vibid:4744010236011": 96,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 106,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 31,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 18,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 38,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 11,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 18,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 38,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 11,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 21,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 75,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 27,
-      "Панкратов Николай Викторович": 14,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 21,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 75,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 27,
+      "gas:candidate-vibid:4744010235842": 14,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 71,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 110,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 28,
-      "Панкратов Николай Викторович": 17,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 71,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 110,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 28,
+      "gas:candidate-vibid:4744010235842": 17,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 23,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 104,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 19,
-      "Панкратов Николай Викторович": 3,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 23,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 104,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 19,
+      "gas:candidate-vibid:4744010235842": 3,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 31,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 86,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 7,
-      "Панкратов Николай Викторович": 13,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 31,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 86,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 7,
+      "gas:candidate-vibid:4744010235842": 13,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 46,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 110,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 32,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 46,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 110,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 32,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 30,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 67,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 45,
-      "Панкратов Николай Викторович": 8,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 30,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 67,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 45,
+      "gas:candidate-vibid:4744010235842": 8,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 25,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 35,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 5,
-      "Панкратов Николай Викторович": 12,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 25,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 35,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 5,
+      "gas:candidate-vibid:4744010235842": 12,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 9,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 33,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 9,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 33,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 6,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 16,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 6,
-      "Панкратов Николай Викторович": 7,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 6,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 16,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 6,
+      "gas:candidate-vibid:4744010235842": 7,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 44,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 69,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 24,
-      "Панкратов Николай Викторович": 14,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 44,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 69,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 24,
+      "gas:candidate-vibid:4744010235842": 14,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 45,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 47,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 26,
-      "Панкратов Николай Викторович": 11,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 45,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 47,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 26,
+      "gas:candidate-vibid:4744010235842": 11,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 70,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 89,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 14,
-      "Панкратов Николай Викторович": 30,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 70,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 89,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 14,
+      "gas:candidate-vibid:4744010235842": 30,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 58,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 72,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 16,
-      "Панкратов Николай Викторович": 27,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 58,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 72,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 16,
+      "gas:candidate-vibid:4744010235842": 27,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143181&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143181&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 90,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 49,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 27,
-      "Панкратов Николай Викторович": 15,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 90,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 49,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 27,
+      "gas:candidate-vibid:4744010235842": 15,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 53,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 54,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 11,
-      "Панкратов Николай Викторович": 12,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 53,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 54,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 11,
+      "gas:candidate-vibid:4744010235842": 12,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 129,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 86,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 21,
-      "Панкратов Николай Викторович": 27,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 129,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 86,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 21,
+      "gas:candidate-vibid:4744010235842": 27,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 106,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 84,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 30,
-      "Панкратов Николай Викторович": 53,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 10
+      "gas:candidate-vibid:4744010236011": 106,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 84,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 30,
+      "gas:candidate-vibid:4744010235842": 53,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 190,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 190,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 67,
-      "Панкратов Николай Викторович": 112,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 13,
-      "Тургумбаев Валихан Урсбаевич": 28
+      "gas:candidate-vibid:4744010236011": 190,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 190,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 67,
+      "gas:candidate-vibid:4744010235842": 112,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 13,
+      "gas:candidate-vibid:4744010236380": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 223,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 266,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 86,
-      "Панкратов Николай Викторович": 164,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 47
+      "gas:candidate-vibid:4744010236011": 223,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 266,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 86,
+      "gas:candidate-vibid:4744010235842": 164,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 90,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 82,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 25,
-      "Панкратов Николай Викторович": 32,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 90,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 82,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 25,
+      "gas:candidate-vibid:4744010235842": 32,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 26,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 22,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 6,
-      "Панкратов Николай Викторович": 13,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 26,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 22,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 6,
+      "gas:candidate-vibid:4744010235842": 13,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 24,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 80,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 4,
-      "Панкратов Николай Викторович": 19,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 24,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 80,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 4,
+      "gas:candidate-vibid:4744010235842": 19,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 98,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 86,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 28,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 98,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 86,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 28,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 48,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 40,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 3,
-      "Панкратов Николай Викторович": 9,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 48,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 40,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 3,
+      "gas:candidate-vibid:4744010235842": 9,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 33,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 51,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 7,
-      "Панкратов Николай Викторович": 16,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 33,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 51,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 7,
+      "gas:candidate-vibid:4744010235842": 16,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 33,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 59,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 4,
-      "Панкратов Николай Викторович": 12,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 33,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 59,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 4,
+      "gas:candidate-vibid:4744010235842": 12,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 18,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 20,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 7,
-      "Панкратов Николай Викторович": 4,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 18,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 20,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 7,
+      "gas:candidate-vibid:4744010235842": 4,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 164,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 101,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 16,
-      "Панкратов Николай Викторович": 18,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 164,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 101,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 16,
+      "gas:candidate-vibid:4744010235842": 18,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143182&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143182&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 232,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 289,
-      "Кошмар Василий Эдуардович": 27,
-      "Никитчук Иван Игнатьевич": 88,
-      "Панкратов Николай Викторович": 64,
-      "Потапов Василий Сергеевич": 15,
-      "Таврина Наталья Юрьевна": 28,
-      "Тургумбаев Валихан Урсбаевич": 42
+      "gas:candidate-vibid:4744010236011": 232,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 289,
+      "gas:candidate-vibid:4744010236321": 27,
+      "gas:candidate-vibid:4744010236139": 88,
+      "gas:candidate-vibid:4744010235842": 64,
+      "gas:candidate-vibid:4744010236226": 15,
+      "gas:candidate-vibid:4744010236461": 28,
+      "gas:candidate-vibid:4744010236380": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 225,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 332,
-      "Кошмар Василий Эдуардович": 18,
-      "Никитчук Иван Игнатьевич": 106,
-      "Панкратов Николай Викторович": 81,
-      "Потапов Василий Сергеевич": 23,
-      "Таврина Наталья Юрьевна": 20,
-      "Тургумбаев Валихан Урсбаевич": 33
+      "gas:candidate-vibid:4744010236011": 225,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 332,
+      "gas:candidate-vibid:4744010236321": 18,
+      "gas:candidate-vibid:4744010236139": 106,
+      "gas:candidate-vibid:4744010235842": 81,
+      "gas:candidate-vibid:4744010236226": 23,
+      "gas:candidate-vibid:4744010236461": 20,
+      "gas:candidate-vibid:4744010236380": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 116,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 127,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 55,
-      "Панкратов Николай Викторович": 30,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 13
+      "gas:candidate-vibid:4744010236011": 116,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 127,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 55,
+      "gas:candidate-vibid:4744010235842": 30,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 217,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 282,
-      "Кошмар Василий Эдуардович": 25,
-      "Никитчук Иван Игнатьевич": 137,
-      "Панкратов Николай Викторович": 74,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 26,
-      "Тургумбаев Валихан Урсбаевич": 30
+      "gas:candidate-vibid:4744010236011": 217,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 282,
+      "gas:candidate-vibid:4744010236321": 25,
+      "gas:candidate-vibid:4744010236139": 137,
+      "gas:candidate-vibid:4744010235842": 74,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 26,
+      "gas:candidate-vibid:4744010236380": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 156,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 206,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 92,
-      "Панкратов Николай Викторович": 59,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 25,
-      "Тургумбаев Валихан Урсбаевич": 28
+      "gas:candidate-vibid:4744010236011": 156,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 206,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 92,
+      "gas:candidate-vibid:4744010235842": 59,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 25,
+      "gas:candidate-vibid:4744010236380": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 182,
-      "Гуменюк Юрий Юрьевич": 14,
-      "Колесников Олег Алексеевич": 257,
-      "Кошмар Василий Эдуардович": 19,
-      "Никитчук Иван Игнатьевич": 99,
-      "Панкратов Николай Викторович": 78,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 27,
-      "Тургумбаев Валихан Урсбаевич": 29
+      "gas:candidate-vibid:4744010236011": 182,
+      "gas:candidate-vibid:4744010236439": 14,
+      "gas:candidate-vibid:4744010236290": 257,
+      "gas:candidate-vibid:4744010236321": 19,
+      "gas:candidate-vibid:4744010236139": 99,
+      "gas:candidate-vibid:4744010235842": 78,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 27,
+      "gas:candidate-vibid:4744010236380": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 137,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 166,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 67,
-      "Панкратов Николай Викторович": 53,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 13
+      "gas:candidate-vibid:4744010236011": 137,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 166,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 67,
+      "gas:candidate-vibid:4744010235842": 53,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 135,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 137,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 52,
-      "Панкратов Николай Викторович": 24,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 12,
-      "Тургумбаев Валихан Урсбаевич": 27
+      "gas:candidate-vibid:4744010236011": 135,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 137,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 52,
+      "gas:candidate-vibid:4744010235842": 24,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 12,
+      "gas:candidate-vibid:4744010236380": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 84,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 135,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 55,
-      "Панкратов Николай Викторович": 41,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 84,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 135,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 55,
+      "gas:candidate-vibid:4744010235842": 41,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 112,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 111,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 51,
-      "Панкратов Николай Викторович": 33,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 112,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 111,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 51,
+      "gas:candidate-vibid:4744010235842": 33,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 205,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 190,
-      "Кошмар Василий Эдуардович": 16,
-      "Никитчук Иван Игнатьевич": 91,
-      "Панкратов Николай Викторович": 41,
-      "Потапов Василий Сергеевич": 15,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 29
+      "gas:candidate-vibid:4744010236011": 205,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 190,
+      "gas:candidate-vibid:4744010236321": 16,
+      "gas:candidate-vibid:4744010236139": 91,
+      "gas:candidate-vibid:4744010235842": 41,
+      "gas:candidate-vibid:4744010236226": 15,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 99,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 115,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 42,
-      "Панкратов Николай Викторович": 23,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 13
+      "gas:candidate-vibid:4744010236011": 99,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 115,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 42,
+      "gas:candidate-vibid:4744010235842": 23,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 98,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 75,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 30,
-      "Панкратов Николай Викторович": 20,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 14
+      "gas:candidate-vibid:4744010236011": 98,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 75,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 30,
+      "gas:candidate-vibid:4744010235842": 20,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 190,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 262,
-      "Кошмар Василий Эдуардович": 18,
-      "Никитчук Иван Игнатьевич": 130,
-      "Панкратов Николай Викторович": 85,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 39
+      "gas:candidate-vibid:4744010236011": 190,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 262,
+      "gas:candidate-vibid:4744010236321": 18,
+      "gas:candidate-vibid:4744010236139": 130,
+      "gas:candidate-vibid:4744010235842": 85,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 105,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 120,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 80,
-      "Панкратов Николай Викторович": 53,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 18,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 105,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 120,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 80,
+      "gas:candidate-vibid:4744010235842": 53,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 18,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 103,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 148,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 68,
-      "Панкратов Николай Викторович": 54,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 103,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 148,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 68,
+      "gas:candidate-vibid:4744010235842": 54,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 162,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 165,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 70,
-      "Панкратов Николай Викторович": 75,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 24,
-      "Тургумбаев Валихан Урсбаевич": 22
+      "gas:candidate-vibid:4744010236011": 162,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 165,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 70,
+      "gas:candidate-vibid:4744010235842": 75,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 24,
+      "gas:candidate-vibid:4744010236380": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 231,
-      "Гуменюк Юрий Юрьевич": 20,
-      "Колесников Олег Алексеевич": 242,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 105,
-      "Панкратов Николай Викторович": 90,
-      "Потапов Василий Сергеевич": 17,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 57
+      "gas:candidate-vibid:4744010236011": 231,
+      "gas:candidate-vibid:4744010236439": 20,
+      "gas:candidate-vibid:4744010236290": 242,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 105,
+      "gas:candidate-vibid:4744010235842": 90,
+      "gas:candidate-vibid:4744010236226": 17,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 155,
-      "Гуменюк Юрий Юрьевич": 17,
-      "Колесников Олег Алексеевич": 201,
-      "Кошмар Василий Эдуардович": 23,
-      "Никитчук Иван Игнатьевич": 110,
-      "Панкратов Николай Викторович": 127,
-      "Потапов Василий Сергеевич": 12,
-      "Таврина Наталья Юрьевна": 43,
-      "Тургумбаев Валихан Урсбаевич": 61
+      "gas:candidate-vibid:4744010236011": 155,
+      "gas:candidate-vibid:4744010236439": 17,
+      "gas:candidate-vibid:4744010236290": 201,
+      "gas:candidate-vibid:4744010236321": 23,
+      "gas:candidate-vibid:4744010236139": 110,
+      "gas:candidate-vibid:4744010235842": 127,
+      "gas:candidate-vibid:4744010236226": 12,
+      "gas:candidate-vibid:4744010236461": 43,
+      "gas:candidate-vibid:4744010236380": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 158,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 219,
-      "Кошмар Василий Эдуардович": 21,
-      "Никитчук Иван Игнатьевич": 118,
-      "Панкратов Николай Викторович": 95,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 26,
-      "Тургумбаев Валихан Урсбаевич": 68
+      "gas:candidate-vibid:4744010236011": 158,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 219,
+      "gas:candidate-vibid:4744010236321": 21,
+      "gas:candidate-vibid:4744010236139": 118,
+      "gas:candidate-vibid:4744010235842": 95,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 26,
+      "gas:candidate-vibid:4744010236380": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 134,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 147,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 63,
-      "Панкратов Николай Викторович": 63,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 34
+      "gas:candidate-vibid:4744010236011": 134,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 147,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 63,
+      "gas:candidate-vibid:4744010235842": 63,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 89,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 144,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 67,
-      "Панкратов Николай Викторович": 50,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 34
+      "gas:candidate-vibid:4744010236011": 89,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 144,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 67,
+      "gas:candidate-vibid:4744010235842": 50,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 89,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 109,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 63,
-      "Панкратов Николай Викторович": 68,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 17
+      "gas:candidate-vibid:4744010236011": 89,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 109,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 63,
+      "gas:candidate-vibid:4744010235842": 68,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 163,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 246,
-      "Кошмар Василий Эдуардович": 15,
-      "Никитчук Иван Игнатьевич": 110,
-      "Панкратов Николай Викторович": 89,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 23,
-      "Тургумбаев Валихан Урсбаевич": 45
+      "gas:candidate-vibid:4744010236011": 163,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 246,
+      "gas:candidate-vibid:4744010236321": 15,
+      "gas:candidate-vibid:4744010236139": 110,
+      "gas:candidate-vibid:4744010235842": 89,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 23,
+      "gas:candidate-vibid:4744010236380": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 176,
-      "Гуменюк Юрий Юрьевич": 21,
-      "Колесников Олег Алексеевич": 227,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 110,
-      "Панкратов Николай Викторович": 77,
-      "Потапов Василий Сергеевич": 19,
-      "Таврина Наталья Юрьевна": 39,
-      "Тургумбаев Валихан Урсбаевич": 59
+      "gas:candidate-vibid:4744010236011": 176,
+      "gas:candidate-vibid:4744010236439": 21,
+      "gas:candidate-vibid:4744010236290": 227,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 110,
+      "gas:candidate-vibid:4744010235842": 77,
+      "gas:candidate-vibid:4744010236226": 19,
+      "gas:candidate-vibid:4744010236461": 39,
+      "gas:candidate-vibid:4744010236380": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 217,
-      "Гуменюк Юрий Юрьевич": 18,
-      "Колесников Олег Алексеевич": 249,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 160,
-      "Панкратов Николай Викторович": 90,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 33,
-      "Тургумбаев Валихан Урсбаевич": 80
+      "gas:candidate-vibid:4744010236011": 217,
+      "gas:candidate-vibid:4744010236439": 18,
+      "gas:candidate-vibid:4744010236290": 249,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 160,
+      "gas:candidate-vibid:4744010235842": 90,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 33,
+      "gas:candidate-vibid:4744010236380": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 190,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 256,
-      "Кошмар Василий Эдуардович": 14,
-      "Никитчук Иван Игнатьевич": 127,
-      "Панкратов Николай Викторович": 79,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 24,
-      "Тургумбаев Валихан Урсбаевич": 39
+      "gas:candidate-vibid:4744010236011": 190,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 256,
+      "gas:candidate-vibid:4744010236321": 14,
+      "gas:candidate-vibid:4744010236139": 127,
+      "gas:candidate-vibid:4744010235842": 79,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 24,
+      "gas:candidate-vibid:4744010236380": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 126,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 206,
-      "Кошмар Василий Эдуардович": 14,
-      "Никитчук Иван Игнатьевич": 95,
-      "Панкратов Николай Викторович": 82,
-      "Потапов Василий Сергеевич": 12,
-      "Таврина Наталья Юрьевна": 32,
-      "Тургумбаев Валихан Урсбаевич": 50
+      "gas:candidate-vibid:4744010236011": 126,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 206,
+      "gas:candidate-vibid:4744010236321": 14,
+      "gas:candidate-vibid:4744010236139": 95,
+      "gas:candidate-vibid:4744010235842": 82,
+      "gas:candidate-vibid:4744010236226": 12,
+      "gas:candidate-vibid:4744010236461": 32,
+      "gas:candidate-vibid:4744010236380": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 125,
-      "Гуменюк Юрий Юрьевич": 18,
-      "Колесников Олег Алексеевич": 177,
-      "Кошмар Василий Эдуардович": 18,
-      "Никитчук Иван Игнатьевич": 139,
-      "Панкратов Николай Викторович": 93,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 41,
-      "Тургумбаев Валихан Урсбаевич": 54
+      "gas:candidate-vibid:4744010236011": 125,
+      "gas:candidate-vibid:4744010236439": 18,
+      "gas:candidate-vibid:4744010236290": 177,
+      "gas:candidate-vibid:4744010236321": 18,
+      "gas:candidate-vibid:4744010236139": 139,
+      "gas:candidate-vibid:4744010235842": 93,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 41,
+      "gas:candidate-vibid:4744010236380": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 138,
-      "Гуменюк Юрий Юрьевич": 12,
-      "Колесников Олег Алексеевич": 236,
-      "Кошмар Василий Эдуардович": 21,
-      "Никитчук Иван Игнатьевич": 101,
-      "Панкратов Николай Викторович": 119,
-      "Потапов Василий Сергеевич": 13,
-      "Таврина Наталья Юрьевна": 25,
-      "Тургумбаев Валихан Урсбаевич": 71
+      "gas:candidate-vibid:4744010236011": 138,
+      "gas:candidate-vibid:4744010236439": 12,
+      "gas:candidate-vibid:4744010236290": 236,
+      "gas:candidate-vibid:4744010236321": 21,
+      "gas:candidate-vibid:4744010236139": 101,
+      "gas:candidate-vibid:4744010235842": 119,
+      "gas:candidate-vibid:4744010236226": 13,
+      "gas:candidate-vibid:4744010236461": 25,
+      "gas:candidate-vibid:4744010236380": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 116,
-      "Гуменюк Юрий Юрьевич": 15,
-      "Колесников Олег Алексеевич": 187,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 110,
-      "Панкратов Николай Викторович": 109,
-      "Потапов Василий Сергеевич": 13,
-      "Таврина Наталья Юрьевна": 27,
-      "Тургумбаев Валихан Урсбаевич": 51
+      "gas:candidate-vibid:4744010236011": 116,
+      "gas:candidate-vibid:4744010236439": 15,
+      "gas:candidate-vibid:4744010236290": 187,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 110,
+      "gas:candidate-vibid:4744010235842": 109,
+      "gas:candidate-vibid:4744010236226": 13,
+      "gas:candidate-vibid:4744010236461": 27,
+      "gas:candidate-vibid:4744010236380": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 88,
-      "Гуменюк Юрий Юрьевич": 14,
-      "Колесников Олег Алексеевич": 162,
-      "Кошмар Василий Эдуардович": 18,
-      "Никитчук Иван Игнатьевич": 95,
-      "Панкратов Николай Викторович": 102,
-      "Потапов Василий Сергеевич": 15,
-      "Таврина Наталья Юрьевна": 22,
-      "Тургумбаев Валихан Урсбаевич": 46
+      "gas:candidate-vibid:4744010236011": 88,
+      "gas:candidate-vibid:4744010236439": 14,
+      "gas:candidate-vibid:4744010236290": 162,
+      "gas:candidate-vibid:4744010236321": 18,
+      "gas:candidate-vibid:4744010236139": 95,
+      "gas:candidate-vibid:4744010235842": 102,
+      "gas:candidate-vibid:4744010236226": 15,
+      "gas:candidate-vibid:4744010236461": 22,
+      "gas:candidate-vibid:4744010236380": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 175,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 238,
-      "Кошмар Василий Эдуардович": 19,
-      "Никитчук Иван Игнатьевич": 118,
-      "Панкратов Николай Викторович": 140,
-      "Потапов Василий Сергеевич": 17,
-      "Таврина Наталья Юрьевна": 37,
-      "Тургумбаев Валихан Урсбаевич": 71
+      "gas:candidate-vibid:4744010236011": 175,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 238,
+      "gas:candidate-vibid:4744010236321": 19,
+      "gas:candidate-vibid:4744010236139": 118,
+      "gas:candidate-vibid:4744010235842": 140,
+      "gas:candidate-vibid:4744010236226": 17,
+      "gas:candidate-vibid:4744010236461": 37,
+      "gas:candidate-vibid:4744010236380": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 155,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 252,
-      "Кошмар Василий Эдуардович": 16,
-      "Никитчук Иван Игнатьевич": 115,
-      "Панкратов Николай Викторович": 124,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 47,
-      "Тургумбаев Валихан Урсбаевич": 94
+      "gas:candidate-vibid:4744010236011": 155,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 252,
+      "gas:candidate-vibid:4744010236321": 16,
+      "gas:candidate-vibid:4744010236139": 115,
+      "gas:candidate-vibid:4744010235842": 124,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 47,
+      "gas:candidate-vibid:4744010236380": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 166,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 230,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 105,
-      "Панкратов Николай Викторович": 133,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 42,
-      "Тургумбаев Валихан Урсбаевич": 84
+      "gas:candidate-vibid:4744010236011": 166,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 230,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 105,
+      "gas:candidate-vibid:4744010235842": 133,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 42,
+      "gas:candidate-vibid:4744010236380": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 140,
-      "Гуменюк Юрий Юрьевич": 21,
-      "Колесников Олег Алексеевич": 213,
-      "Кошмар Василий Эдуардович": 22,
-      "Никитчук Иван Игнатьевич": 128,
-      "Панкратов Николай Викторович": 118,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 28,
-      "Тургумбаев Валихан Урсбаевич": 72
+      "gas:candidate-vibid:4744010236011": 140,
+      "gas:candidate-vibid:4744010236439": 21,
+      "gas:candidate-vibid:4744010236290": 213,
+      "gas:candidate-vibid:4744010236321": 22,
+      "gas:candidate-vibid:4744010236139": 128,
+      "gas:candidate-vibid:4744010235842": 118,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 28,
+      "gas:candidate-vibid:4744010236380": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 83,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 111,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 50,
-      "Панкратов Николай Викторович": 53,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 28
+      "gas:candidate-vibid:4744010236011": 83,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 111,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 50,
+      "gas:candidate-vibid:4744010235842": 53,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 144,
-      "Гуменюк Юрий Юрьевич": 19,
-      "Колесников Олег Алексеевич": 284,
-      "Кошмар Василий Эдуардович": 26,
-      "Никитчук Иван Игнатьевич": 170,
-      "Панкратов Николай Викторович": 192,
-      "Потапов Василий Сергеевич": 24,
-      "Таврина Наталья Юрьевна": 44,
-      "Тургумбаев Валихан Урсбаевич": 96
+      "gas:candidate-vibid:4744010236011": 144,
+      "gas:candidate-vibid:4744010236439": 19,
+      "gas:candidate-vibid:4744010236290": 284,
+      "gas:candidate-vibid:4744010236321": 26,
+      "gas:candidate-vibid:4744010236139": 170,
+      "gas:candidate-vibid:4744010235842": 192,
+      "gas:candidate-vibid:4744010236226": 24,
+      "gas:candidate-vibid:4744010236461": 44,
+      "gas:candidate-vibid:4744010236380": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 132,
-      "Гуменюк Юрий Юрьевич": 18,
-      "Колесников Олег Алексеевич": 302,
-      "Кошмар Василий Эдуардович": 18,
-      "Никитчук Иван Игнатьевич": 134,
-      "Панкратов Николай Викторович": 197,
-      "Потапов Василий Сергеевич": 15,
-      "Таврина Наталья Юрьевна": 47,
-      "Тургумбаев Валихан Урсбаевич": 98
+      "gas:candidate-vibid:4744010236011": 132,
+      "gas:candidate-vibid:4744010236439": 18,
+      "gas:candidate-vibid:4744010236290": 302,
+      "gas:candidate-vibid:4744010236321": 18,
+      "gas:candidate-vibid:4744010236139": 134,
+      "gas:candidate-vibid:4744010235842": 197,
+      "gas:candidate-vibid:4744010236226": 15,
+      "gas:candidate-vibid:4744010236461": 47,
+      "gas:candidate-vibid:4744010236380": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 184,
-      "Гуменюк Юрий Юрьевич": 19,
-      "Колесников Олег Алексеевич": 310,
-      "Кошмар Василий Эдуардович": 25,
-      "Никитчук Иван Игнатьевич": 161,
-      "Панкратов Николай Викторович": 192,
-      "Потапов Василий Сергеевич": 18,
-      "Таврина Наталья Юрьевна": 49,
-      "Тургумбаев Валихан Урсбаевич": 101
+      "gas:candidate-vibid:4744010236011": 184,
+      "gas:candidate-vibid:4744010236439": 19,
+      "gas:candidate-vibid:4744010236290": 310,
+      "gas:candidate-vibid:4744010236321": 25,
+      "gas:candidate-vibid:4744010236139": 161,
+      "gas:candidate-vibid:4744010235842": 192,
+      "gas:candidate-vibid:4744010236226": 18,
+      "gas:candidate-vibid:4744010236461": 49,
+      "gas:candidate-vibid:4744010236380": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 152,
-      "Гуменюк Юрий Юрьевич": 19,
-      "Колесников Олег Алексеевич": 252,
-      "Кошмар Василий Эдуардович": 20,
-      "Никитчук Иван Игнатьевич": 122,
-      "Панкратов Николай Викторович": 134,
-      "Потапов Василий Сергеевич": 20,
-      "Таврина Наталья Юрьевна": 28,
-      "Тургумбаев Валихан Урсбаевич": 86
+      "gas:candidate-vibid:4744010236011": 152,
+      "gas:candidate-vibid:4744010236439": 19,
+      "gas:candidate-vibid:4744010236290": 252,
+      "gas:candidate-vibid:4744010236321": 20,
+      "gas:candidate-vibid:4744010236139": 122,
+      "gas:candidate-vibid:4744010235842": 134,
+      "gas:candidate-vibid:4744010236226": 20,
+      "gas:candidate-vibid:4744010236461": 28,
+      "gas:candidate-vibid:4744010236380": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 100,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 124,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 49,
-      "Панкратов Николай Викторович": 55,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 23
+      "gas:candidate-vibid:4744010236011": 100,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 124,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 49,
+      "gas:candidate-vibid:4744010235842": 55,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 184,
-      "Гуменюк Юрий Юрьевич": 14,
-      "Колесников Олег Алексеевич": 226,
-      "Кошмар Василий Эдуардович": 17,
-      "Никитчук Иван Игнатьевич": 88,
-      "Панкратов Николай Викторович": 93,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 58
+      "gas:candidate-vibid:4744010236011": 184,
+      "gas:candidate-vibid:4744010236439": 14,
+      "gas:candidate-vibid:4744010236290": 226,
+      "gas:candidate-vibid:4744010236321": 17,
+      "gas:candidate-vibid:4744010236139": 88,
+      "gas:candidate-vibid:4744010235842": 93,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 149,
-      "Гуменюк Юрий Юрьевич": 21,
-      "Колесников Олег Алексеевич": 229,
-      "Кошмар Василий Эдуардович": 17,
-      "Никитчук Иван Игнатьевич": 85,
-      "Панкратов Николай Викторович": 102,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 25,
-      "Тургумбаев Валихан Урсбаевич": 43
+      "gas:candidate-vibid:4744010236011": 149,
+      "gas:candidate-vibid:4744010236439": 21,
+      "gas:candidate-vibid:4744010236290": 229,
+      "gas:candidate-vibid:4744010236321": 17,
+      "gas:candidate-vibid:4744010236139": 85,
+      "gas:candidate-vibid:4744010235842": 102,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 25,
+      "gas:candidate-vibid:4744010236380": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 170,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 247,
-      "Кошмар Василий Эдуардович": 30,
-      "Никитчук Иван Игнатьевич": 90,
-      "Панкратов Николай Викторович": 94,
-      "Потапов Василий Сергеевич": 12,
-      "Таврина Наталья Юрьевна": 22,
-      "Тургумбаев Валихан Урсбаевич": 44
+      "gas:candidate-vibid:4744010236011": 170,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 247,
+      "gas:candidate-vibid:4744010236321": 30,
+      "gas:candidate-vibid:4744010236139": 90,
+      "gas:candidate-vibid:4744010235842": 94,
+      "gas:candidate-vibid:4744010236226": 12,
+      "gas:candidate-vibid:4744010236461": 22,
+      "gas:candidate-vibid:4744010236380": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 133,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 198,
-      "Кошмар Василий Эдуардович": 21,
-      "Никитчук Иван Игнатьевич": 76,
-      "Панкратов Николай Викторович": 95,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 38
+      "gas:candidate-vibid:4744010236011": 133,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 198,
+      "gas:candidate-vibid:4744010236321": 21,
+      "gas:candidate-vibid:4744010236139": 76,
+      "gas:candidate-vibid:4744010235842": 95,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 128,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 192,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 104,
-      "Панкратов Николай Викторович": 88,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 20,
-      "Тургумбаев Валихан Урсбаевич": 37
+      "gas:candidate-vibid:4744010236011": 128,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 192,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 104,
+      "gas:candidate-vibid:4744010235842": 88,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 20,
+      "gas:candidate-vibid:4744010236380": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 130,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 215,
-      "Кошмар Василий Эдуардович": 15,
-      "Никитчук Иван Игнатьевич": 97,
-      "Панкратов Николай Викторович": 107,
-      "Потапов Василий Сергеевич": 16,
-      "Таврина Наталья Юрьевна": 22,
-      "Тургумбаев Валихан Урсбаевич": 39
+      "gas:candidate-vibid:4744010236011": 130,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 215,
+      "gas:candidate-vibid:4744010236321": 15,
+      "gas:candidate-vibid:4744010236139": 97,
+      "gas:candidate-vibid:4744010235842": 107,
+      "gas:candidate-vibid:4744010236226": 16,
+      "gas:candidate-vibid:4744010236461": 22,
+      "gas:candidate-vibid:4744010236380": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 131,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 203,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 92,
-      "Панкратов Николай Викторович": 77,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 31,
-      "Тургумбаев Валихан Урсбаевич": 49
+      "gas:candidate-vibid:4744010236011": 131,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 203,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 92,
+      "gas:candidate-vibid:4744010235842": 77,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 31,
+      "gas:candidate-vibid:4744010236380": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 161,
-      "Гуменюк Юрий Юрьевич": 20,
-      "Колесников Олег Алексеевич": 243,
-      "Кошмар Василий Эдуардович": 18,
-      "Никитчук Иван Игнатьевич": 82,
-      "Панкратов Николай Викторович": 87,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 28,
-      "Тургумбаев Валихан Урсбаевич": 57
+      "gas:candidate-vibid:4744010236011": 161,
+      "gas:candidate-vibid:4744010236439": 20,
+      "gas:candidate-vibid:4744010236290": 243,
+      "gas:candidate-vibid:4744010236321": 18,
+      "gas:candidate-vibid:4744010236139": 82,
+      "gas:candidate-vibid:4744010235842": 87,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 28,
+      "gas:candidate-vibid:4744010236380": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 164,
-      "Гуменюк Юрий Юрьевич": 13,
-      "Колесников Олег Алексеевич": 288,
-      "Кошмар Василий Эдуардович": 17,
-      "Никитчук Иван Игнатьевич": 116,
-      "Панкратов Николай Викторович": 148,
-      "Потапов Василий Сергеевич": 19,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 57
+      "gas:candidate-vibid:4744010236011": 164,
+      "gas:candidate-vibid:4744010236439": 13,
+      "gas:candidate-vibid:4744010236290": 288,
+      "gas:candidate-vibid:4744010236321": 17,
+      "gas:candidate-vibid:4744010236139": 116,
+      "gas:candidate-vibid:4744010235842": 148,
+      "gas:candidate-vibid:4744010236226": 19,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 80,
-      "Гуменюк Юрий Юрьевич": 16,
-      "Колесников Олег Алексеевич": 179,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 82,
-      "Панкратов Николай Викторович": 83,
-      "Потапов Василий Сергеевич": 12,
-      "Таврина Наталья Юрьевна": 23,
-      "Тургумбаев Валихан Урсбаевич": 60
+      "gas:candidate-vibid:4744010236011": 80,
+      "gas:candidate-vibid:4744010236439": 16,
+      "gas:candidate-vibid:4744010236290": 179,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 82,
+      "gas:candidate-vibid:4744010235842": 83,
+      "gas:candidate-vibid:4744010236226": 12,
+      "gas:candidate-vibid:4744010236461": 23,
+      "gas:candidate-vibid:4744010236380": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 47,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 49,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 27,
-      "Панкратов Николай Викторович": 9,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 47,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 49,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 27,
+      "gas:candidate-vibid:4744010235842": 9,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 39,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 69,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 21,
-      "Панкратов Николай Викторович": 22,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 19
+      "gas:candidate-vibid:4744010236011": 39,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 69,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 21,
+      "gas:candidate-vibid:4744010235842": 22,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 108,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 137,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 40,
-      "Панкратов Николай Викторович": 32,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 24
+      "gas:candidate-vibid:4744010236011": 108,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 137,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 40,
+      "gas:candidate-vibid:4744010235842": 32,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 59,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 78,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 26,
-      "Панкратов Николай Викторович": 23,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 59,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 78,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 26,
+      "gas:candidate-vibid:4744010235842": 23,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 134,
-      "Гуменюк Юрий Юрьевич": 12,
-      "Колесников Олег Алексеевич": 178,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 71,
-      "Панкратов Николай Викторович": 45,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 21
+      "gas:candidate-vibid:4744010236011": 134,
+      "gas:candidate-vibid:4744010236439": 12,
+      "gas:candidate-vibid:4744010236290": 178,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 71,
+      "gas:candidate-vibid:4744010235842": 45,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 90,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 100,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 40,
-      "Панкратов Николай Викторович": 31,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 12,
-      "Тургумбаев Валихан Урсбаевич": 17
+      "gas:candidate-vibid:4744010236011": 90,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 100,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 40,
+      "gas:candidate-vibid:4744010235842": 31,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 12,
+      "gas:candidate-vibid:4744010236380": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 145,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 142,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 73,
-      "Панкратов Николай Викторович": 54,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 53
+      "gas:candidate-vibid:4744010236011": 145,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 142,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 73,
+      "gas:candidate-vibid:4744010235842": 54,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 203,
-      "Гуменюк Юрий Юрьевич": 14,
-      "Колесников Олег Алексеевич": 165,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 80,
-      "Панкратов Николай Викторович": 65,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 18,
-      "Тургумбаев Валихан Урсбаевич": 37
+      "gas:candidate-vibid:4744010236011": 203,
+      "gas:candidate-vibid:4744010236439": 14,
+      "gas:candidate-vibid:4744010236290": 165,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 80,
+      "gas:candidate-vibid:4744010235842": 65,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 18,
+      "gas:candidate-vibid:4744010236380": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 210,
-      "Гуменюк Юрий Юрьевич": 13,
-      "Колесников Олег Алексеевич": 209,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 69,
-      "Панкратов Николай Викторович": 71,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 29,
-      "Тургумбаев Валихан Урсбаевич": 64
+      "gas:candidate-vibid:4744010236011": 210,
+      "gas:candidate-vibid:4744010236439": 13,
+      "gas:candidate-vibid:4744010236290": 209,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 69,
+      "gas:candidate-vibid:4744010235842": 71,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 29,
+      "gas:candidate-vibid:4744010236380": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 146,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 182,
-      "Кошмар Василий Эдуардович": 16,
-      "Никитчук Иван Игнатьевич": 97,
-      "Панкратов Николай Викторович": 65,
-      "Потапов Василий Сергеевич": 13,
-      "Таврина Наталья Юрьевна": 30,
-      "Тургумбаев Валихан Урсбаевич": 62
+      "gas:candidate-vibid:4744010236011": 146,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 182,
+      "gas:candidate-vibid:4744010236321": 16,
+      "gas:candidate-vibid:4744010236139": 97,
+      "gas:candidate-vibid:4744010235842": 65,
+      "gas:candidate-vibid:4744010236226": 13,
+      "gas:candidate-vibid:4744010236461": 30,
+      "gas:candidate-vibid:4744010236380": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 168,
-      "Гуменюк Юрий Юрьевич": 15,
-      "Колесников Олег Алексеевич": 194,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 114,
-      "Панкратов Николай Викторович": 88,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 29,
-      "Тургумбаев Валихан Урсбаевич": 51
+      "gas:candidate-vibid:4744010236011": 168,
+      "gas:candidate-vibid:4744010236439": 15,
+      "gas:candidate-vibid:4744010236290": 194,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 114,
+      "gas:candidate-vibid:4744010235842": 88,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 29,
+      "gas:candidate-vibid:4744010236380": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 175,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 141,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 121,
-      "Панкратов Николай Викторович": 65,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 20,
-      "Тургумбаев Валихан Урсбаевич": 31
+      "gas:candidate-vibid:4744010236011": 175,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 141,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 121,
+      "gas:candidate-vibid:4744010235842": 65,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 20,
+      "gas:candidate-vibid:4744010236380": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 185,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 175,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 135,
-      "Панкратов Николай Викторович": 53,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 27,
-      "Тургумбаев Валихан Урсбаевич": 50
+      "gas:candidate-vibid:4744010236011": 185,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 175,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 135,
+      "gas:candidate-vibid:4744010235842": 53,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 27,
+      "gas:candidate-vibid:4744010236380": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 147,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 166,
-      "Кошмар Василий Эдуардович": 16,
-      "Никитчук Иван Игнатьевич": 119,
-      "Панкратов Николай Викторович": 53,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 32,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 147,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 166,
+      "gas:candidate-vibid:4744010236321": 16,
+      "gas:candidate-vibid:4744010236139": 119,
+      "gas:candidate-vibid:4744010235842": 53,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 32,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 120,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 155,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 86,
-      "Панкратов Николай Викторович": 68,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 28
+      "gas:candidate-vibid:4744010236011": 120,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 155,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 86,
+      "gas:candidate-vibid:4744010235842": 68,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 164,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 147,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 70,
-      "Панкратов Николай Викторович": 42,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 20,
-      "Тургумбаев Валихан Урсбаевич": 24
+      "gas:candidate-vibid:4744010236011": 164,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 147,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 70,
+      "gas:candidate-vibid:4744010235842": 42,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 20,
+      "gas:candidate-vibid:4744010236380": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 147,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 176,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 90,
-      "Панкратов Николай Викторович": 66,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 20,
-      "Тургумбаев Валихан Урсбаевич": 28
+      "gas:candidate-vibid:4744010236011": 147,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 176,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 90,
+      "gas:candidate-vibid:4744010235842": 66,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 20,
+      "gas:candidate-vibid:4744010236380": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 85,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 103,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 51,
-      "Панкратов Николай Викторович": 28,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 11,
-      "Тургумбаев Валихан Урсбаевич": 16
+      "gas:candidate-vibid:4744010236011": 85,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 103,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 51,
+      "gas:candidate-vibid:4744010235842": 28,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 11,
+      "gas:candidate-vibid:4744010236380": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 115,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 124,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 60,
-      "Панкратов Николай Викторович": 33,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 12,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 115,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 124,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 60,
+      "gas:candidate-vibid:4744010235842": 33,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 12,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 119,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 99,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 63,
-      "Панкратов Николай Викторович": 29,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 11,
-      "Тургумбаев Валихан Урсбаевич": 14
+      "gas:candidate-vibid:4744010236011": 119,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 99,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 63,
+      "gas:candidate-vibid:4744010235842": 29,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 11,
+      "gas:candidate-vibid:4744010236380": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 176,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 181,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 98,
-      "Панкратов Николай Викторович": 54,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 32
+      "gas:candidate-vibid:4744010236011": 176,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 181,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 98,
+      "gas:candidate-vibid:4744010235842": 54,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 124,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 169,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 65,
-      "Панкратов Николай Викторович": 31,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 32
+      "gas:candidate-vibid:4744010236011": 124,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 169,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 65,
+      "gas:candidate-vibid:4744010235842": 31,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 121,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 143,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 57,
-      "Панкратов Николай Викторович": 24,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 121,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 143,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 57,
+      "gas:candidate-vibid:4744010235842": 24,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 123,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 170,
-      "Кошмар Василий Эдуардович": 11,
-      "Никитчук Иван Игнатьевич": 42,
-      "Панкратов Николай Викторович": 37,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 23
+      "gas:candidate-vibid:4744010236011": 123,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 170,
+      "gas:candidate-vibid:4744010236321": 11,
+      "gas:candidate-vibid:4744010236139": 42,
+      "gas:candidate-vibid:4744010235842": 37,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 29,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 122,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 11,
-      "Панкратов Николай Викторович": 7,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 29,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 122,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 11,
+      "gas:candidate-vibid:4744010235842": 7,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 125,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 186,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 42,
-      "Панкратов Николай Викторович": 12,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 19
+      "gas:candidate-vibid:4744010236011": 125,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 186,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 42,
+      "gas:candidate-vibid:4744010235842": 12,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 20,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 32,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 19,
-      "Панкратов Николай Викторович": 13,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 10
+      "gas:candidate-vibid:4744010236011": 20,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 32,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 19,
+      "gas:candidate-vibid:4744010235842": 13,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 43,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 264,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 3,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 4,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 43,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 264,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 3,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 4,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 33,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 81,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 29,
-      "Панкратов Николай Викторович": 18,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 13
+      "gas:candidate-vibid:4744010236011": 33,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 81,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 29,
+      "gas:candidate-vibid:4744010235842": 18,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 100,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 66,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 18,
-      "Панкратов Николай Викторович": 10,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 100,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 66,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 18,
+      "gas:candidate-vibid:4744010235842": 10,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143183&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143183&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 128,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 237,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 53,
-      "Панкратов Николай Викторович": 58,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 18,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 128,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 237,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 53,
+      "gas:candidate-vibid:4744010235842": 58,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 18,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 68,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 148,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 22,
-      "Панкратов Николай Викторович": 41,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 12,
-      "Тургумбаев Валихан Урсбаевич": 14
+      "gas:candidate-vibid:4744010236011": 68,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 148,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 22,
+      "gas:candidate-vibid:4744010235842": 41,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 12,
+      "gas:candidate-vibid:4744010236380": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 140,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 215,
-      "Кошмар Василий Эдуардович": 15,
-      "Никитчук Иван Игнатьевич": 47,
-      "Панкратов Николай Викторович": 65,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 13
+      "gas:candidate-vibid:4744010236011": 140,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 215,
+      "gas:candidate-vibid:4744010236321": 15,
+      "gas:candidate-vibid:4744010236139": 47,
+      "gas:candidate-vibid:4744010235842": 65,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 100,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 237,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 59,
-      "Панкратов Николай Викторович": 74,
-      "Потапов Василий Сергеевич": 12,
-      "Таврина Наталья Юрьевна": 25,
-      "Тургумбаев Валихан Урсбаевич": 17
+      "gas:candidate-vibid:4744010236011": 100,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 237,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 59,
+      "gas:candidate-vibid:4744010235842": 74,
+      "gas:candidate-vibid:4744010236226": 12,
+      "gas:candidate-vibid:4744010236461": 25,
+      "gas:candidate-vibid:4744010236380": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 103,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 142,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 29,
-      "Панкратов Николай Викторович": 40,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 10
+      "gas:candidate-vibid:4744010236011": 103,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 142,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 29,
+      "gas:candidate-vibid:4744010235842": 40,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 197,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 204,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 55,
-      "Панкратов Николай Викторович": 65,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 197,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 204,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 55,
+      "gas:candidate-vibid:4744010235842": 65,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 135,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 236,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 60,
-      "Панкратов Николай Викторович": 84,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 32,
-      "Тургумбаев Валихан Урсбаевич": 17
+      "gas:candidate-vibid:4744010236011": 135,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 236,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 60,
+      "gas:candidate-vibid:4744010235842": 84,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 32,
+      "gas:candidate-vibid:4744010236380": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 174,
-      "Гуменюк Юрий Юрьевич": 20,
-      "Колесников Олег Алексеевич": 274,
-      "Кошмар Василий Эдуардович": 13,
-      "Никитчук Иван Игнатьевич": 60,
-      "Панкратов Николай Викторович": 100,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 15
+      "gas:candidate-vibid:4744010236011": 174,
+      "gas:candidate-vibid:4744010236439": 20,
+      "gas:candidate-vibid:4744010236290": 274,
+      "gas:candidate-vibid:4744010236321": 13,
+      "gas:candidate-vibid:4744010236139": 60,
+      "gas:candidate-vibid:4744010235842": 100,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 102,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 176,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 61,
-      "Панкратов Николай Викторович": 63,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 18,
-      "Тургумбаев Валихан Урсбаевич": 16
+      "gas:candidate-vibid:4744010236011": 102,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 176,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 61,
+      "gas:candidate-vibid:4744010235842": 63,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 18,
+      "gas:candidate-vibid:4744010236380": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 175,
-      "Гуменюк Юрий Юрьевич": 12,
-      "Колесников Олег Алексеевич": 335,
-      "Кошмар Василий Эдуардович": 14,
-      "Никитчук Иван Игнатьевич": 68,
-      "Панкратов Николай Викторович": 111,
-      "Потапов Василий Сергеевич": 15,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 23
+      "gas:candidate-vibid:4744010236011": 175,
+      "gas:candidate-vibid:4744010236439": 12,
+      "gas:candidate-vibid:4744010236290": 335,
+      "gas:candidate-vibid:4744010236321": 14,
+      "gas:candidate-vibid:4744010236139": 68,
+      "gas:candidate-vibid:4744010235842": 111,
+      "gas:candidate-vibid:4744010236226": 15,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 74,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 124,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 29,
-      "Панкратов Николай Викторович": 24,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 74,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 124,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 29,
+      "gas:candidate-vibid:4744010235842": 24,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 106,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 142,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 34,
-      "Панкратов Николай Викторович": 24,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 9
+      "gas:candidate-vibid:4744010236011": 106,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 142,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 34,
+      "gas:candidate-vibid:4744010235842": 24,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 61,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 71,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 15,
-      "Панкратов Николай Викторович": 17,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 4,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 61,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 71,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 15,
+      "gas:candidate-vibid:4744010235842": 17,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 4,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 217,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 160,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 24,
-      "Панкратов Николай Викторович": 24,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 10
+      "gas:candidate-vibid:4744010236011": 217,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 160,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 24,
+      "gas:candidate-vibid:4744010235842": 24,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 104,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 116,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 20,
-      "Панкратов Николай Викторович": 9,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 104,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 116,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 20,
+      "gas:candidate-vibid:4744010235842": 9,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 179,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 184,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 29,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 179,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 184,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 29,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 187,
-      "Гуменюк Юрий Юрьевич": 10,
-      "Колесников Олег Алексеевич": 206,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 48,
-      "Панкратов Николай Викторович": 37,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 17,
-      "Тургумбаев Валихан Урсбаевич": 14
+      "gas:candidate-vibid:4744010236011": 187,
+      "gas:candidate-vibid:4744010236439": 10,
+      "gas:candidate-vibid:4744010236290": 206,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 48,
+      "gas:candidate-vibid:4744010235842": 37,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 17,
+      "gas:candidate-vibid:4744010236380": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 144,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 154,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 31,
-      "Панкратов Николай Викторович": 25,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 13
+      "gas:candidate-vibid:4744010236011": 144,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 154,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 31,
+      "gas:candidate-vibid:4744010235842": 25,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 167,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 89,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 29,
-      "Панкратов Николай Викторович": 27,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 13
+      "gas:candidate-vibid:4744010236011": 167,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 89,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 29,
+      "gas:candidate-vibid:4744010235842": 27,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 292,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 296,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 65,
-      "Панкратов Николай Викторович": 124,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 29
+      "gas:candidate-vibid:4744010236011": 292,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 296,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 65,
+      "gas:candidate-vibid:4744010235842": 124,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 50,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 40,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 5,
-      "Панкратов Николай Викторович": 5,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 50,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 40,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 5,
+      "gas:candidate-vibid:4744010235842": 5,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 60,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 60,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 12,
-      "Панкратов Николай Викторович": 18,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 60,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 60,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 12,
+      "gas:candidate-vibid:4744010235842": 18,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 115,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 111,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 20,
-      "Панкратов Николай Викторович": 21,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 115,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 111,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 20,
+      "gas:candidate-vibid:4744010235842": 21,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 92,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 148,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 78,
-      "Панкратов Николай Викторович": 25,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 92,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 148,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 78,
+      "gas:candidate-vibid:4744010235842": 25,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 99,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 194,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 90,
-      "Панкратов Николай Викторович": 30,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 7,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 99,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 194,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 90,
+      "gas:candidate-vibid:4744010235842": 30,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 7,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 108,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 182,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 101,
-      "Панкратов Николай Викторович": 25,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 108,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 182,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 101,
+      "gas:candidate-vibid:4744010235842": 25,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 75,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 139,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 68,
-      "Панкратов Николай Викторович": 23,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 75,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 139,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 68,
+      "gas:candidate-vibid:4744010235842": 23,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 97,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 162,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 81,
-      "Панкратов Николай Викторович": 25,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 97,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 162,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 81,
+      "gas:candidate-vibid:4744010235842": 25,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 73,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 109,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 56,
-      "Панкратов Николай Викторович": 13,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 4
+      "gas:candidate-vibid:4744010236011": 73,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 109,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 56,
+      "gas:candidate-vibid:4744010235842": 13,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 142,
-      "Гуменюк Юрий Юрьевич": 6,
-      "Колесников Олег Алексеевич": 219,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 56,
-      "Панкратов Николай Викторович": 15,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 142,
+      "gas:candidate-vibid:4744010236439": 6,
+      "gas:candidate-vibid:4744010236290": 219,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 56,
+      "gas:candidate-vibid:4744010235842": 15,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 67,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 78,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 18,
-      "Панкратов Николай Викторович": 12,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 67,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 78,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 18,
+      "gas:candidate-vibid:4744010235842": 12,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 138,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 177,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 95,
-      "Панкратов Николай Викторович": 51,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 9
+      "gas:candidate-vibid:4744010236011": 138,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 177,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 95,
+      "gas:candidate-vibid:4744010235842": 51,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 98,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 174,
-      "Кошмар Василий Эдуардович": 6,
-      "Никитчук Иван Игнатьевич": 64,
-      "Панкратов Николай Викторович": 39,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 17,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 98,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 174,
+      "gas:candidate-vibid:4744010236321": 6,
+      "gas:candidate-vibid:4744010236139": 64,
+      "gas:candidate-vibid:4744010235842": 39,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 17,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 20,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 61,
-      "Кошмар Василий Эдуардович": 2,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 7,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 20,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 61,
+      "gas:candidate-vibid:4744010236321": 2,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 7,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 124,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 178,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 82,
-      "Панкратов Николай Викторович": 40,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 14,
-      "Тургумбаев Валихан Урсбаевич": 11
+      "gas:candidate-vibid:4744010236011": 124,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 178,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 82,
+      "gas:candidate-vibid:4744010235842": 40,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 14,
+      "gas:candidate-vibid:4744010236380": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 125,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 169,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 77,
-      "Панкратов Николай Викторович": 61,
-      "Потапов Василий Сергеевич": 7,
-      "Таврина Наталья Юрьевна": 17,
-      "Тургумбаев Валихан Урсбаевич": 8
+      "gas:candidate-vibid:4744010236011": 125,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 169,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 77,
+      "gas:candidate-vibid:4744010235842": 61,
+      "gas:candidate-vibid:4744010236226": 7,
+      "gas:candidate-vibid:4744010236461": 17,
+      "gas:candidate-vibid:4744010236380": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 101,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 130,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 18,
-      "Панкратов Николай Викторович": 25,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 6
+      "gas:candidate-vibid:4744010236011": 101,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 130,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 18,
+      "gas:candidate-vibid:4744010235842": 25,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 170,
-      "Гуменюк Юрий Юрьевич": 7,
-      "Колесников Олег Алексеевич": 192,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 73,
-      "Панкратов Николай Викторович": 55,
-      "Потапов Василий Сергеевич": 10,
-      "Таврина Наталья Юрьевна": 17,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 170,
+      "gas:candidate-vibid:4744010236439": 7,
+      "gas:candidate-vibid:4744010236290": 192,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 73,
+      "gas:candidate-vibid:4744010235842": 55,
+      "gas:candidate-vibid:4744010236226": 10,
+      "gas:candidate-vibid:4744010236461": 17,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 115,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 137,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 43,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 10,
-      "Тургумбаев Валихан Урсбаевич": 3
+      "gas:candidate-vibid:4744010236011": 115,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 137,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 43,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 10,
+      "gas:candidate-vibid:4744010236380": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 137,
-      "Гуменюк Юрий Юрьевич": 9,
-      "Колесников Олег Алексеевич": 108,
-      "Кошмар Василий Эдуардович": 7,
-      "Никитчук Иван Игнатьевич": 48,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 6,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 137,
+      "gas:candidate-vibid:4744010236439": 9,
+      "gas:candidate-vibid:4744010236290": 108,
+      "gas:candidate-vibid:4744010236321": 7,
+      "gas:candidate-vibid:4744010236139": 48,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 6,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 170,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 81,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 37,
-      "Панкратов Николай Викторович": 17,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 9,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 170,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 81,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 37,
+      "gas:candidate-vibid:4744010235842": 17,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 9,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 70,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 90,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 16,
-      "Панкратов Николай Викторович": 9,
-      "Потапов Василий Сергеевич": 2,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 70,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 90,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 16,
+      "gas:candidate-vibid:4744010235842": 9,
+      "gas:candidate-vibid:4744010236226": 2,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 32,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 39,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 11,
-      "Панкратов Николай Викторович": 5,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 32,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 39,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 11,
+      "gas:candidate-vibid:4744010235842": 5,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 54,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 140,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 40,
-      "Панкратов Николай Викторович": 18,
-      "Потапов Василий Сергеевич": 6,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 54,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 140,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 40,
+      "gas:candidate-vibid:4744010235842": 18,
+      "gas:candidate-vibid:4744010236226": 6,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 122,
-      "Гуменюк Юрий Юрьевич": 4,
-      "Колесников Олег Алексеевич": 263,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 49,
-      "Панкратов Николай Викторович": 26,
-      "Потапов Василий Сергеевич": 8,
-      "Таврина Наталья Юрьевна": 15,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 122,
+      "gas:candidate-vibid:4744010236439": 4,
+      "gas:candidate-vibid:4744010236290": 263,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 49,
+      "gas:candidate-vibid:4744010235842": 26,
+      "gas:candidate-vibid:4744010236226": 8,
+      "gas:candidate-vibid:4744010236461": 15,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 59,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 118,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 10,
-      "Панкратов Николай Викторович": 4,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 59,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 118,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 10,
+      "gas:candidate-vibid:4744010235842": 4,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 14,
-      "Гуменюк Юрий Юрьевич": 1,
-      "Колесников Олег Алексеевич": 36,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 9,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 14,
+      "gas:candidate-vibid:4744010236439": 1,
+      "gas:candidate-vibid:4744010236290": 36,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 9,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 3,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 34,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 0,
-      "Панкратов Николай Викторович": 1,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 3,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 34,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 0,
+      "gas:candidate-vibid:4744010235842": 1,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 9,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 30,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 3,
-      "Панкратов Николай Викторович": 0,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 9,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 30,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 3,
+      "gas:candidate-vibid:4744010235842": 0,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 8,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 76,
-      "Кошмар Василий Эдуардович": 3,
-      "Никитчук Иван Игнатьевич": 5,
-      "Панкратов Николай Викторович": 1,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 2,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 8,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 76,
+      "gas:candidate-vibid:4744010236321": 3,
+      "gas:candidate-vibid:4744010236139": 5,
+      "gas:candidate-vibid:4744010235842": 1,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 2,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 23,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 44,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 7,
-      "Панкратов Николай Викторович": 11,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 0,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 23,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 44,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 7,
+      "gas:candidate-vibid:4744010235842": 11,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 0,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 134,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 189,
-      "Кошмар Василий Эдуардович": 10,
-      "Никитчук Иван Игнатьевич": 25,
-      "Панкратов Николай Викторович": 29,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 5,
-      "Тургумбаев Валихан Урсбаевич": 5
+      "gas:candidate-vibid:4744010236011": 134,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 189,
+      "gas:candidate-vibid:4744010236321": 10,
+      "gas:candidate-vibid:4744010236139": 25,
+      "gas:candidate-vibid:4744010235842": 29,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 5,
+      "gas:candidate-vibid:4744010236380": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 15,
-      "Гуменюк Юрий Юрьевич": 2,
-      "Колесников Олег Алексеевич": 41,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 11,
-      "Панкратов Николай Викторович": 0,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 0
+      "gas:candidate-vibid:4744010236011": 15,
+      "gas:candidate-vibid:4744010236439": 2,
+      "gas:candidate-vibid:4744010236290": 41,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 11,
+      "gas:candidate-vibid:4744010235842": 0,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 14,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 51,
-      "Кошмар Василий Эдуардович": 1,
-      "Никитчук Иван Игнатьевич": 10,
-      "Панкратов Николай Викторович": 5,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 14,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 51,
+      "gas:candidate-vibid:4744010236321": 1,
+      "gas:candidate-vibid:4744010236139": 10,
+      "gas:candidate-vibid:4744010235842": 5,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 33,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 57,
-      "Кошмар Василий Эдуардович": 5,
-      "Никитчук Иван Игнатьевич": 13,
-      "Панкратов Николай Викторович": 8,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 4,
-      "Тургумбаев Валихан Урсбаевич": 12
+      "gas:candidate-vibid:4744010236011": 33,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 57,
+      "gas:candidate-vibid:4744010236321": 5,
+      "gas:candidate-vibid:4744010236139": 13,
+      "gas:candidate-vibid:4744010235842": 8,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 4,
+      "gas:candidate-vibid:4744010236380": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143184&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143184&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 173,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 209,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 113,
-      "Панкратов Николай Викторович": 65,
-      "Потапов Василий Сергеевич": 4,
-      "Таврина Наталья Юрьевна": 24,
-      "Тургумбаев Валихан Урсбаевич": 18
+      "gas:candidate-vibid:4744010236011": 173,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 209,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 113,
+      "gas:candidate-vibid:4744010235842": 65,
+      "gas:candidate-vibid:4744010236226": 4,
+      "gas:candidate-vibid:4744010236461": 24,
+      "gas:candidate-vibid:4744010236380": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 158,
-      "Гуменюк Юрий Юрьевич": 8,
-      "Колесников Олег Алексеевич": 243,
-      "Кошмар Василий Эдуардович": 8,
-      "Никитчук Иван Игнатьевич": 148,
-      "Панкратов Николай Викторович": 65,
-      "Потапов Василий Сергеевич": 9,
-      "Таврина Наталья Юрьевна": 21,
-      "Тургумбаев Валихан Урсбаевич": 22
+      "gas:candidate-vibid:4744010236011": 158,
+      "gas:candidate-vibid:4744010236439": 8,
+      "gas:candidate-vibid:4744010236290": 243,
+      "gas:candidate-vibid:4744010236321": 8,
+      "gas:candidate-vibid:4744010236139": 148,
+      "gas:candidate-vibid:4744010235842": 65,
+      "gas:candidate-vibid:4744010236226": 9,
+      "gas:candidate-vibid:4744010236461": 21,
+      "gas:candidate-vibid:4744010236380": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 180,
-      "Гуменюк Юрий Юрьевич": 11,
-      "Колесников Олег Алексеевич": 213,
-      "Кошмар Василий Эдуардович": 12,
-      "Никитчук Иван Игнатьевич": 149,
-      "Панкратов Николай Викторович": 107,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 16,
-      "Тургумбаев Валихан Урсбаевич": 27
+      "gas:candidate-vibid:4744010236011": 180,
+      "gas:candidate-vibid:4744010236439": 11,
+      "gas:candidate-vibid:4744010236290": 213,
+      "gas:candidate-vibid:4744010236321": 12,
+      "gas:candidate-vibid:4744010236139": 149,
+      "gas:candidate-vibid:4744010235842": 107,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 16,
+      "gas:candidate-vibid:4744010236380": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 261,
-      "Гуменюк Юрий Юрьевич": 13,
-      "Колесников Олег Алексеевич": 288,
-      "Кошмар Василий Эдуардович": 15,
-      "Никитчук Иван Игнатьевич": 138,
-      "Панкратов Николай Викторович": 55,
-      "Потапов Василий Сергеевич": 11,
-      "Таврина Наталья Юрьевна": 19,
-      "Тургумбаев Валихан Урсбаевич": 15
+      "gas:candidate-vibid:4744010236011": 261,
+      "gas:candidate-vibid:4744010236439": 13,
+      "gas:candidate-vibid:4744010236290": 288,
+      "gas:candidate-vibid:4744010236321": 15,
+      "gas:candidate-vibid:4744010236139": 138,
+      "gas:candidate-vibid:4744010235842": 55,
+      "gas:candidate-vibid:4744010236226": 11,
+      "gas:candidate-vibid:4744010236461": 19,
+      "gas:candidate-vibid:4744010236380": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 118,
-      "Гуменюк Юрий Юрьевич": 5,
-      "Колесников Олег Алексеевич": 137,
-      "Кошмар Василий Эдуардович": 9,
-      "Никитчук Иван Игнатьевич": 104,
-      "Панкратов Николай Викторович": 46,
-      "Потапов Василий Сергеевич": 3,
-      "Таврина Наталья Юрьевна": 17,
-      "Тургумбаев Валихан Урсбаевич": 20
+      "gas:candidate-vibid:4744010236011": 118,
+      "gas:candidate-vibid:4744010236439": 5,
+      "gas:candidate-vibid:4744010236290": 137,
+      "gas:candidate-vibid:4744010236321": 9,
+      "gas:candidate-vibid:4744010236139": 104,
+      "gas:candidate-vibid:4744010235842": 46,
+      "gas:candidate-vibid:4744010236226": 3,
+      "gas:candidate-vibid:4744010236461": 17,
+      "gas:candidate-vibid:4744010236380": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 64,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 214,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 84,
-      "Панкратов Николай Викторович": 17,
-      "Потапов Василий Сергеевич": 5,
-      "Таврина Наталья Юрьевна": 8,
-      "Тургумбаев Валихан Урсбаевич": 17
+      "gas:candidate-vibid:4744010236011": 64,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 214,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 84,
+      "gas:candidate-vibid:4744010235842": 17,
+      "gas:candidate-vibid:4744010236226": 5,
+      "gas:candidate-vibid:4744010236461": 8,
+      "gas:candidate-vibid:4744010236380": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 12,
-      "Гуменюк Юрий Юрьевич": 0,
-      "Колесников Олег Алексеевич": 39,
-      "Кошмар Василий Эдуардович": 0,
-      "Никитчук Иван Игнатьевич": 4,
-      "Панкратов Николай Викторович": 2,
-      "Потапов Василий Сергеевич": 0,
-      "Таврина Наталья Юрьевна": 1,
-      "Тургумбаев Валихан Урсбаевич": 1
+      "gas:candidate-vibid:4744010236011": 12,
+      "gas:candidate-vibid:4744010236439": 0,
+      "gas:candidate-vibid:4744010236290": 39,
+      "gas:candidate-vibid:4744010236321": 0,
+      "gas:candidate-vibid:4744010236139": 4,
+      "gas:candidate-vibid:4744010235842": 2,
+      "gas:candidate-vibid:4744010236226": 0,
+      "gas:candidate-vibid:4744010236461": 1,
+      "gas:candidate-vibid:4744010236380": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_74_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вайнштейн Сергей Евгеньевич": 34,
-      "Гуменюк Юрий Юрьевич": 3,
-      "Колесников Олег Алексеевич": 81,
-      "Кошмар Василий Эдуардович": 4,
-      "Никитчук Иван Игнатьевич": 19,
-      "Панкратов Николай Викторович": 11,
-      "Потапов Василий Сергеевич": 1,
-      "Таврина Наталья Юрьевна": 3,
-      "Тургумбаев Валихан Урсбаевич": 2
+      "gas:candidate-vibid:4744010236011": 34,
+      "gas:candidate-vibid:4744010236439": 3,
+      "gas:candidate-vibid:4744010236290": 81,
+      "gas:candidate-vibid:4744010236321": 4,
+      "gas:candidate-vibid:4744010236139": 19,
+      "gas:candidate-vibid:4744010235842": 11,
+      "gas:candidate-vibid:4744010236226": 1,
+      "gas:candidate-vibid:4744010236461": 3,
+      "gas:candidate-vibid:4744010236380": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chelyabinsk?action=show&root=1000255&tvd=27420001143185&vrn=100100067795849&region=74&global=&sub_region=74&prver=0&pronetvd=null&vibid=27420001143185&type=464",

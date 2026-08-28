@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 674,
-      "Дорохин Владимир Нефедович": 40,
-      "Леонов Василий Алексеевич": 21,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:255200067127": 674,
+      "gas:candidate-vibid:1001000121883": 40,
+      "gas:candidate-vibid:1001000217941": 21,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 120,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 120,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 117,
-      "Дорохин Владимир Нефедович": 38,
-      "Леонов Василий Алексеевич": 13,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 117,
+      "gas:candidate-vibid:1001000121883": 38,
+      "gas:candidate-vibid:1001000217941": 13,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 550,
-      "Дорохин Владимир Нефедович": 36,
-      "Леонов Василий Алексеевич": 13,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:255200067127": 550,
+      "gas:candidate-vibid:1001000121883": 36,
+      "gas:candidate-vibid:1001000217941": 13,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 374,
-      "Дорохин Владимир Нефедович": 40,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:255200067127": 374,
+      "gas:candidate-vibid:1001000121883": 40,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 136,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 136,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 101,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 101,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 61,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 61,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 93,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 93,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 123,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 123,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 463,
-      "Дорохин Владимир Нефедович": 89,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 39
+      "gas:candidate-vibid:255200067127": 463,
+      "gas:candidate-vibid:1001000121883": 89,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 948,
-      "Дорохин Владимир Нефедович": 155,
-      "Леонов Василий Алексеевич": 32,
-      "Макушин Леонид Алексеевич": 44,
-      "Против всех": 79
+      "gas:candidate-vibid:255200067127": 948,
+      "gas:candidate-vibid:1001000121883": 155,
+      "gas:candidate-vibid:1001000217941": 32,
+      "gas:candidate-vibid:1001000113961": 44,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 858,
-      "Дорохин Владимир Нефедович": 181,
-      "Леонов Василий Алексеевич": 32,
-      "Макушин Леонид Алексеевич": 35,
-      "Против всех": 66
+      "gas:candidate-vibid:255200067127": 858,
+      "gas:candidate-vibid:1001000121883": 181,
+      "gas:candidate-vibid:1001000217941": 32,
+      "gas:candidate-vibid:1001000113961": 35,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 86,
-      "Дорохин Владимир Нефедович": 23,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 86,
+      "gas:candidate-vibid:1001000121883": 23,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266791&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 365,
-      "Дорохин Владимир Нефедович": 38,
-      "Леонов Василий Алексеевич": 18,
-      "Макушин Леонид Алексеевич": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:255200067127": 365,
+      "gas:candidate-vibid:1001000121883": 38,
+      "gas:candidate-vibid:1001000217941": 18,
+      "gas:candidate-vibid:1001000113961": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 497,
-      "Дорохин Владимир Нефедович": 73,
-      "Леонов Василий Алексеевич": 14,
-      "Макушин Леонид Алексеевич": 18,
-      "Против всех": 72
+      "gas:candidate-vibid:255200067127": 497,
+      "gas:candidate-vibid:1001000121883": 73,
+      "gas:candidate-vibid:1001000217941": 14,
+      "gas:candidate-vibid:1001000113961": 18,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 484,
-      "Дорохин Владимир Нефедович": 61,
-      "Леонов Василий Алексеевич": 14,
-      "Макушин Леонид Алексеевич": 19,
-      "Против всех": 42
+      "gas:candidate-vibid:255200067127": 484,
+      "gas:candidate-vibid:1001000121883": 61,
+      "gas:candidate-vibid:1001000217941": 14,
+      "gas:candidate-vibid:1001000113961": 19,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 516,
-      "Дорохин Владимир Нефедович": 59,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 19,
-      "Против всех": 41
+      "gas:candidate-vibid:255200067127": 516,
+      "gas:candidate-vibid:1001000121883": 59,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 19,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 91,
-      "Дорохин Владимир Нефедович": 25,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:255200067127": 91,
+      "gas:candidate-vibid:1001000121883": 25,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 71,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 71,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 436,
-      "Дорохин Владимир Нефедович": 59,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 14,
-      "Против всех": 44
+      "gas:candidate-vibid:255200067127": 436,
+      "gas:candidate-vibid:1001000121883": 59,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 14,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 491,
-      "Дорохин Владимир Нефедович": 89,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 22,
-      "Против всех": 37
+      "gas:candidate-vibid:255200067127": 491,
+      "gas:candidate-vibid:1001000121883": 89,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 22,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 332,
-      "Дорохин Владимир Нефедович": 26,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 332,
+      "gas:candidate-vibid:1001000121883": 26,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 79,
-      "Дорохин Владимир Нефедович": 27,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 79,
+      "gas:candidate-vibid:1001000121883": 27,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 139,
-      "Дорохин Владимир Нефедович": 69,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:255200067127": 139,
+      "gas:candidate-vibid:1001000121883": 69,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 99,
-      "Дорохин Владимир Нефедович": 18,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 99,
+      "gas:candidate-vibid:1001000121883": 18,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 240,
-      "Дорохин Владимир Нефедович": 83,
-      "Леонов Василий Алексеевич": 14,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:255200067127": 240,
+      "gas:candidate-vibid:1001000121883": 83,
+      "gas:candidate-vibid:1001000217941": 14,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 193,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 10,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 193,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 10,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 59,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 59,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 41,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 41,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 202,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:255200067127": 202,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 392,
-      "Дорохин Владимир Нефедович": 190,
-      "Леонов Василий Алексеевич": 32,
-      "Макушин Леонид Алексеевич": 32,
-      "Против всех": 59
+      "gas:candidate-vibid:255200067127": 392,
+      "gas:candidate-vibid:1001000121883": 190,
+      "gas:candidate-vibid:1001000217941": 32,
+      "gas:candidate-vibid:1001000113961": 32,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 286,
-      "Дорохин Владимир Нефедович": 63,
-      "Леонов Василий Алексеевич": 15,
-      "Макушин Леонид Алексеевич": 25,
-      "Против всех": 32
+      "gas:candidate-vibid:255200067127": 286,
+      "gas:candidate-vibid:1001000121883": 63,
+      "gas:candidate-vibid:1001000217941": 15,
+      "gas:candidate-vibid:1001000113961": 25,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 127,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 127,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 300,
-      "Дорохин Владимир Нефедович": 51,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:255200067127": 300,
+      "gas:candidate-vibid:1001000121883": 51,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 43,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 43,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 60,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 60,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 222,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 222,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 69,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 69,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 58,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 58,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 80,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 80,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 316,
-      "Дорохин Владимир Нефедович": 76,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 20
+      "gas:candidate-vibid:255200067127": 316,
+      "gas:candidate-vibid:1001000121883": 76,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 37,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 37,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 100,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 100,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 52,
-      "Дорохин Владимир Нефедович": 19,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 52,
+      "gas:candidate-vibid:1001000121883": 19,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 38,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 38,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 75,
-      "Дорохин Владимир Нефедович": 18,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 75,
+      "gas:candidate-vibid:1001000121883": 18,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 250,
-      "Дорохин Владимир Нефедович": 65,
-      "Леонов Василий Алексеевич": 16,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 250,
+      "gas:candidate-vibid:1001000121883": 65,
+      "gas:candidate-vibid:1001000217941": 16,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 82,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 82,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 86,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 86,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 57,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 57,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 234,
-      "Дорохин Владимир Нефедович": 44,
-      "Леонов Василий Алексеевич": 19,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:255200067127": 234,
+      "gas:candidate-vibid:1001000121883": 44,
+      "gas:candidate-vibid:1001000217941": 19,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 69,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 69,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 73,
-      "Дорохин Владимир Нефедович": 32,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 73,
+      "gas:candidate-vibid:1001000121883": 32,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266792&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 81,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 81,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 178,
-      "Дорохин Владимир Нефедович": 11,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 178,
+      "gas:candidate-vibid:1001000121883": 11,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 136,
-      "Дорохин Владимир Нефедович": 21,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 136,
+      "gas:candidate-vibid:1001000121883": 21,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 317,
-      "Дорохин Владимир Нефедович": 11,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 317,
+      "gas:candidate-vibid:1001000121883": 11,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 53,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 53,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 578,
-      "Дорохин Владимир Нефедович": 91,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 46
+      "gas:candidate-vibid:255200067127": 578,
+      "gas:candidate-vibid:1001000121883": 91,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 132,
-      "Дорохин Владимир Нефедович": 65,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 132,
+      "gas:candidate-vibid:1001000121883": 65,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 151,
-      "Дорохин Владимир Нефедович": 11,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 151,
+      "gas:candidate-vibid:1001000121883": 11,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 41,
-      "Дорохин Владимир Нефедович": 15,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 41,
+      "gas:candidate-vibid:1001000121883": 15,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 147,
-      "Дорохин Владимир Нефедович": 23,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:255200067127": 147,
+      "gas:candidate-vibid:1001000121883": 23,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 95,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 95,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 115,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 115,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 167,
-      "Дорохин Владимир Нефедович": 20,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 167,
+      "gas:candidate-vibid:1001000121883": 20,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 85,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 85,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 160,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 160,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 318,
-      "Дорохин Владимир Нефедович": 42,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:255200067127": 318,
+      "gas:candidate-vibid:1001000121883": 42,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 84,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 84,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 94,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 94,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 83,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 83,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 237,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 237,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 131,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 131,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 67,
-      "Дорохин Владимир Нефедович": 2,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 67,
+      "gas:candidate-vibid:1001000121883": 2,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 159,
-      "Дорохин Владимир Нефедович": 37,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:255200067127": 159,
+      "gas:candidate-vibid:1001000121883": 37,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 70,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 70,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 389,
-      "Дорохин Владимир Нефедович": 50,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:255200067127": 389,
+      "gas:candidate-vibid:1001000121883": 50,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 526,
-      "Дорохин Владимир Нефедович": 88,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:255200067127": 526,
+      "gas:candidate-vibid:1001000121883": 88,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 346,
-      "Дорохин Владимир Нефедович": 70,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:255200067127": 346,
+      "gas:candidate-vibid:1001000121883": 70,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 375,
-      "Дорохин Владимир Нефедович": 48,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 38
+      "gas:candidate-vibid:255200067127": 375,
+      "gas:candidate-vibid:1001000121883": 48,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 305,
-      "Дорохин Владимир Нефедович": 24,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 30
+      "gas:candidate-vibid:255200067127": 305,
+      "gas:candidate-vibid:1001000121883": 24,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 128,
-      "Дорохин Владимир Нефедович": 27,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 128,
+      "gas:candidate-vibid:1001000121883": 27,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 71,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 71,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266793&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 159,
-      "Дорохин Владимир Нефедович": 72,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 10,
-      "Против всех": 16
+      "gas:candidate-vibid:255200067127": 159,
+      "gas:candidate-vibid:1001000121883": 72,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 10,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 231,
-      "Дорохин Владимир Нефедович": 97,
-      "Леонов Василий Алексеевич": 16,
-      "Макушин Леонид Алексеевич": 15,
-      "Против всех": 20
+      "gas:candidate-vibid:255200067127": 231,
+      "gas:candidate-vibid:1001000121883": 97,
+      "gas:candidate-vibid:1001000217941": 16,
+      "gas:candidate-vibid:1001000113961": 15,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 459,
-      "Дорохин Владимир Нефедович": 130,
-      "Леонов Василий Алексеевич": 19,
-      "Макушин Леонид Алексеевич": 24,
-      "Против всех": 52
+      "gas:candidate-vibid:255200067127": 459,
+      "gas:candidate-vibid:1001000121883": 130,
+      "gas:candidate-vibid:1001000217941": 19,
+      "gas:candidate-vibid:1001000113961": 24,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -4794,11 +4794,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 93,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 93,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -4848,11 +4848,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 428,
-      "Дорохин Владимир Нефедович": 125,
-      "Леонов Василий Алексеевич": 19,
-      "Макушин Леонид Алексеевич": 32,
-      "Против всех": 76
+      "gas:candidate-vibid:255200067127": 428,
+      "gas:candidate-vibid:1001000121883": 125,
+      "gas:candidate-vibid:1001000217941": 19,
+      "gas:candidate-vibid:1001000113961": 32,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -4902,11 +4902,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 405,
-      "Дорохин Владимир Нефедович": 117,
-      "Леонов Василий Алексеевич": 19,
-      "Макушин Леонид Алексеевич": 17,
-      "Против всех": 70
+      "gas:candidate-vibid:255200067127": 405,
+      "gas:candidate-vibid:1001000121883": 117,
+      "gas:candidate-vibid:1001000217941": 19,
+      "gas:candidate-vibid:1001000113961": 17,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -4956,11 +4956,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 189,
-      "Дорохин Владимир Нефедович": 106,
-      "Леонов Василий Алексеевич": 25,
-      "Макушин Леонид Алексеевич": 13,
-      "Против всех": 42
+      "gas:candidate-vibid:255200067127": 189,
+      "gas:candidate-vibid:1001000121883": 106,
+      "gas:candidate-vibid:1001000217941": 25,
+      "gas:candidate-vibid:1001000113961": 13,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5010,11 +5010,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 353,
-      "Дорохин Владимир Нефедович": 88,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 24,
-      "Против всех": 63
+      "gas:candidate-vibid:255200067127": 353,
+      "gas:candidate-vibid:1001000121883": 88,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 24,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5064,11 +5064,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 94,
-      "Дорохин Владимир Нефедович": 18,
-      "Леонов Василий Алексеевич": 10,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 94,
+      "gas:candidate-vibid:1001000121883": 18,
+      "gas:candidate-vibid:1001000217941": 10,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5118,11 +5118,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 49,
-      "Дорохин Владимир Нефедович": 19,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 17,
-      "Против всех": 11
+      "gas:candidate-vibid:255200067127": 49,
+      "gas:candidate-vibid:1001000121883": 19,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 17,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5172,11 +5172,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 547,
-      "Дорохин Владимир Нефедович": 97,
-      "Леонов Василий Алексеевич": 23,
-      "Макушин Леонид Алексеевич": 30,
-      "Против всех": 75
+      "gas:candidate-vibid:255200067127": 547,
+      "gas:candidate-vibid:1001000121883": 97,
+      "gas:candidate-vibid:1001000217941": 23,
+      "gas:candidate-vibid:1001000113961": 30,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5226,11 +5226,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 340,
-      "Дорохин Владимир Нефедович": 74,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 14,
-      "Против всех": 48
+      "gas:candidate-vibid:255200067127": 340,
+      "gas:candidate-vibid:1001000121883": 74,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 14,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5280,11 +5280,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 388,
-      "Дорохин Владимир Нефедович": 152,
-      "Леонов Василий Алексеевич": 17,
-      "Макушин Леонид Алексеевич": 27,
-      "Против всех": 50
+      "gas:candidate-vibid:255200067127": 388,
+      "gas:candidate-vibid:1001000121883": 152,
+      "gas:candidate-vibid:1001000217941": 17,
+      "gas:candidate-vibid:1001000113961": 27,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5334,11 +5334,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 521,
-      "Дорохин Владимир Нефедович": 192,
-      "Леонов Василий Алексеевич": 23,
-      "Макушин Леонид Алексеевич": 43,
-      "Против всех": 85
+      "gas:candidate-vibid:255200067127": 521,
+      "gas:candidate-vibid:1001000121883": 192,
+      "gas:candidate-vibid:1001000217941": 23,
+      "gas:candidate-vibid:1001000113961": 43,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5388,11 +5388,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 230,
-      "Дорохин Владимир Нефедович": 62,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 11,
-      "Против всех": 28
+      "gas:candidate-vibid:255200067127": 230,
+      "gas:candidate-vibid:1001000121883": 62,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 11,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5442,11 +5442,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 362,
-      "Дорохин Владимир Нефедович": 114,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 19,
-      "Против всех": 48
+      "gas:candidate-vibid:255200067127": 362,
+      "gas:candidate-vibid:1001000121883": 114,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 19,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5496,11 +5496,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 587,
-      "Дорохин Владимир Нефедович": 124,
-      "Леонов Василий Алексеевич": 15,
-      "Макушин Леонид Алексеевич": 28,
-      "Против всех": 58
+      "gas:candidate-vibid:255200067127": 587,
+      "gas:candidate-vibid:1001000121883": 124,
+      "gas:candidate-vibid:1001000217941": 15,
+      "gas:candidate-vibid:1001000113961": 28,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5550,11 +5550,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 402,
-      "Дорохин Владимир Нефедович": 117,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 25,
-      "Против всех": 62
+      "gas:candidate-vibid:255200067127": 402,
+      "gas:candidate-vibid:1001000121883": 117,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 25,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5604,11 +5604,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 404,
-      "Дорохин Владимир Нефедович": 83,
-      "Леонов Василий Алексеевич": 19,
-      "Макушин Леонид Алексеевич": 20,
-      "Против всех": 57
+      "gas:candidate-vibid:255200067127": 404,
+      "gas:candidate-vibid:1001000121883": 83,
+      "gas:candidate-vibid:1001000217941": 19,
+      "gas:candidate-vibid:1001000113961": 20,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5658,11 +5658,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 377,
-      "Дорохин Владимир Нефедович": 62,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 33,
-      "Против всех": 41
+      "gas:candidate-vibid:255200067127": 377,
+      "gas:candidate-vibid:1001000121883": 62,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 33,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5712,11 +5712,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 364,
-      "Дорохин Владимир Нефедович": 107,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 36,
-      "Против всех": 56
+      "gas:candidate-vibid:255200067127": 364,
+      "gas:candidate-vibid:1001000121883": 107,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 36,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5766,11 +5766,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 292,
-      "Дорохин Владимир Нефедович": 58,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:255200067127": 292,
+      "gas:candidate-vibid:1001000121883": 58,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5820,11 +5820,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 219,
-      "Дорохин Владимир Нефедович": 32,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 219,
+      "gas:candidate-vibid:1001000121883": 32,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5874,11 +5874,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 163,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 163,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5928,11 +5928,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 60,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 60,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -5982,11 +5982,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 31,
-      "Дорохин Владимир Нефедович": 15,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 31,
+      "gas:candidate-vibid:1001000121883": 15,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6036,11 +6036,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 89,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 89,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6090,11 +6090,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 208,
-      "Дорохин Владимир Нефедович": 20,
-      "Леонов Василий Алексеевич": 10,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 208,
+      "gas:candidate-vibid:1001000121883": 20,
+      "gas:candidate-vibid:1001000217941": 10,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6144,11 +6144,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 92,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 92,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6198,11 +6198,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 35,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 35,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6252,11 +6252,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 16,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 16,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6306,11 +6306,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 302,
-      "Дорохин Владимир Нефедович": 30,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:255200067127": 302,
+      "gas:candidate-vibid:1001000121883": 30,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6360,11 +6360,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 98,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:255200067127": 98,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6414,11 +6414,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 40,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 40,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6468,11 +6468,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 345,
-      "Дорохин Владимир Нефедович": 114,
-      "Леонов Василий Алексеевич": 16,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 54
+      "gas:candidate-vibid:255200067127": 345,
+      "gas:candidate-vibid:1001000121883": 114,
+      "gas:candidate-vibid:1001000217941": 16,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6522,11 +6522,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 103,
-      "Дорохин Владимир Нефедович": 38,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 103,
+      "gas:candidate-vibid:1001000121883": 38,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6576,11 +6576,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 173,
-      "Дорохин Владимир Нефедович": 33,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 173,
+      "gas:candidate-vibid:1001000121883": 33,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6630,11 +6630,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 208,
-      "Дорохин Владимир Нефедович": 35,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 208,
+      "gas:candidate-vibid:1001000121883": 35,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6684,11 +6684,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 315,
-      "Дорохин Владимир Нефедович": 118,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 29
+      "gas:candidate-vibid:255200067127": 315,
+      "gas:candidate-vibid:1001000121883": 118,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6738,11 +6738,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 89,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 89,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6792,11 +6792,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 463,
-      "Дорохин Владимир Нефедович": 65,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 28,
-      "Против всех": 64
+      "gas:candidate-vibid:255200067127": 463,
+      "gas:candidate-vibid:1001000121883": 65,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 28,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6846,11 +6846,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 233,
-      "Дорохин Владимир Нефедович": 33,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 21
+      "gas:candidate-vibid:255200067127": 233,
+      "gas:candidate-vibid:1001000121883": 33,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6900,11 +6900,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 334,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:255200067127": 334,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -6954,11 +6954,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 191,
-      "Дорохин Владимир Нефедович": 57,
-      "Леонов Василий Алексеевич": 13,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 191,
+      "gas:candidate-vibid:1001000121883": 57,
+      "gas:candidate-vibid:1001000217941": 13,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7008,11 +7008,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 68,
-      "Дорохин Владимир Нефедович": 15,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 68,
+      "gas:candidate-vibid:1001000121883": 15,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7062,11 +7062,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 8,
-      "Дорохин Владимир Нефедович": 17,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 8,
+      "gas:candidate-vibid:1001000121883": 17,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7116,11 +7116,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 363,
-      "Дорохин Владимир Нефедович": 94,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:255200067127": 363,
+      "gas:candidate-vibid:1001000121883": 94,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7170,11 +7170,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 113,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 113,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7224,11 +7224,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 217,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 10,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:255200067127": 217,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 10,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7278,11 +7278,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 67,
-      "Дорохин Владимир Нефедович": 8,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 67,
+      "gas:candidate-vibid:1001000121883": 8,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7332,11 +7332,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 101,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 101,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7386,11 +7386,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 80,
-      "Дорохин Владимир Нефедович": 26,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 80,
+      "gas:candidate-vibid:1001000121883": 26,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7440,11 +7440,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 125,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 125,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7494,11 +7494,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 94,
-      "Дорохин Владимир Нефедович": 1,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 94,
+      "gas:candidate-vibid:1001000121883": 1,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7548,11 +7548,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 319,
-      "Дорохин Владимир Нефедович": 24,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:255200067127": 319,
+      "gas:candidate-vibid:1001000121883": 24,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7602,11 +7602,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 68,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 68,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7656,11 +7656,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 141,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 141,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7710,11 +7710,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 267,
-      "Дорохин Владимир Нефедович": 25,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 267,
+      "gas:candidate-vibid:1001000121883": 25,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7764,11 +7764,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 132,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:255200067127": 132,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7818,11 +7818,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 32,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 32,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7872,11 +7872,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 222,
-      "Дорохин Владимир Нефедович": 20,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 222,
+      "gas:candidate-vibid:1001000121883": 20,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7926,11 +7926,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 46,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 46,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -7980,11 +7980,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 205,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:255200067127": 205,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8034,11 +8034,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 115,
-      "Дорохин Владимир Нефедович": 0,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 115,
+      "gas:candidate-vibid:1001000121883": 0,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8088,11 +8088,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 141,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:255200067127": 141,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8142,11 +8142,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 87,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 87,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8196,11 +8196,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 68,
-      "Дорохин Владимир Нефедович": 3,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 68,
+      "gas:candidate-vibid:1001000121883": 3,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8250,11 +8250,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 258,
-      "Дорохин Владимир Нефедович": 131,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:255200067127": 258,
+      "gas:candidate-vibid:1001000121883": 131,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8304,11 +8304,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 95,
-      "Дорохин Владимир Нефедович": 36,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 95,
+      "gas:candidate-vibid:1001000121883": 36,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8358,11 +8358,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 204,
-      "Дорохин Владимир Нефедович": 77,
-      "Леонов Василий Алексеевич": 13,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:255200067127": 204,
+      "gas:candidate-vibid:1001000121883": 77,
+      "gas:candidate-vibid:1001000217941": 13,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8412,11 +8412,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 49,
-      "Дорохин Владимир Нефедович": 37,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 49,
+      "gas:candidate-vibid:1001000121883": 37,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8466,11 +8466,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 366,
-      "Дорохин Владимир Нефедович": 46,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 11,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 366,
+      "gas:candidate-vibid:1001000121883": 46,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 11,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8520,11 +8520,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 80,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 80,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8574,11 +8574,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 209,
-      "Дорохин Владимир Нефедович": 47,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 209,
+      "gas:candidate-vibid:1001000121883": 47,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8628,11 +8628,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 91,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 91,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8682,11 +8682,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 426,
-      "Дорохин Владимир Нефедович": 95,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 426,
+      "gas:candidate-vibid:1001000121883": 95,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8736,11 +8736,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 316,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 316,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8790,11 +8790,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 173,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:255200067127": 173,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8844,11 +8844,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 63,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 63,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8898,11 +8898,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 139,
-      "Дорохин Владимир Нефедович": 21,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 139,
+      "gas:candidate-vibid:1001000121883": 21,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -8952,11 +8952,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 38,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:255200067127": 38,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266794&region=0&sub_region=0&type=429",
@@ -9006,11 +9006,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 589,
-      "Дорохин Владимир Нефедович": 101,
-      "Леонов Василий Алексеевич": 15,
-      "Макушин Леонид Алексеевич": 15,
-      "Против всех": 49
+      "gas:candidate-vibid:255200067127": 589,
+      "gas:candidate-vibid:1001000121883": 101,
+      "gas:candidate-vibid:1001000217941": 15,
+      "gas:candidate-vibid:1001000113961": 15,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9060,11 +9060,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 539,
-      "Дорохин Владимир Нефедович": 63,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 11,
-      "Против всех": 40
+      "gas:candidate-vibid:255200067127": 539,
+      "gas:candidate-vibid:1001000121883": 63,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 11,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9114,11 +9114,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 676,
-      "Дорохин Владимир Нефедович": 92,
-      "Леонов Василий Алексеевич": 20,
-      "Макушин Леонид Алексеевич": 20,
-      "Против всех": 50
+      "gas:candidate-vibid:255200067127": 676,
+      "gas:candidate-vibid:1001000121883": 92,
+      "gas:candidate-vibid:1001000217941": 20,
+      "gas:candidate-vibid:1001000113961": 20,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9168,11 +9168,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 425,
-      "Дорохин Владимир Нефедович": 71,
-      "Леонов Василий Алексеевич": 10,
-      "Макушин Леонид Алексеевич": 13,
-      "Против всех": 33
+      "gas:candidate-vibid:255200067127": 425,
+      "gas:candidate-vibid:1001000121883": 71,
+      "gas:candidate-vibid:1001000217941": 10,
+      "gas:candidate-vibid:1001000113961": 13,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9222,11 +9222,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 103,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 103,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9276,11 +9276,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 59,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 59,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9330,11 +9330,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 27,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 27,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9384,11 +9384,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 273,
-      "Дорохин Владимир Нефедович": 25,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 273,
+      "gas:candidate-vibid:1001000121883": 25,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9438,11 +9438,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 121,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:255200067127": 121,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9492,11 +9492,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 112,
-      "Дорохин Владимир Нефедович": 40,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 112,
+      "gas:candidate-vibid:1001000121883": 40,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9546,11 +9546,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 432,
-      "Дорохин Владимир Нефедович": 53,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:255200067127": 432,
+      "gas:candidate-vibid:1001000121883": 53,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9600,11 +9600,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 202,
-      "Дорохин Владимир Нефедович": 54,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 202,
+      "gas:candidate-vibid:1001000121883": 54,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9654,11 +9654,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 143,
-      "Дорохин Владимир Нефедович": 15,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 143,
+      "gas:candidate-vibid:1001000121883": 15,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9708,11 +9708,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 234,
-      "Дорохин Владимир Нефедович": 28,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 234,
+      "gas:candidate-vibid:1001000121883": 28,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9762,11 +9762,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 256,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 256,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9816,11 +9816,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 207,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 207,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9870,11 +9870,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 193,
-      "Дорохин Владимир Нефедович": 50,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 193,
+      "gas:candidate-vibid:1001000121883": 50,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9924,11 +9924,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 220,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 220,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -9978,11 +9978,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 68,
-      "Дорохин Владимир Нефедович": 40,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 68,
+      "gas:candidate-vibid:1001000121883": 40,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10032,11 +10032,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 83,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 83,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10086,11 +10086,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 242,
-      "Дорохин Владимир Нефедович": 15,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 242,
+      "gas:candidate-vibid:1001000121883": 15,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10140,11 +10140,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 392,
-      "Дорохин Владимир Нефедович": 46,
-      "Леонов Василий Алексеевич": 7,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:255200067127": 392,
+      "gas:candidate-vibid:1001000121883": 46,
+      "gas:candidate-vibid:1001000217941": 7,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10194,11 +10194,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 191,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 191,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10248,11 +10248,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 72,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 72,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10302,11 +10302,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 138,
-      "Дорохин Владимир Нефедович": 12,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 138,
+      "gas:candidate-vibid:1001000121883": 12,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10356,11 +10356,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 171,
-      "Дорохин Владимир Нефедович": 37,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 171,
+      "gas:candidate-vibid:1001000121883": 37,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10410,11 +10410,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 240,
-      "Дорохин Владимир Нефедович": 29,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:255200067127": 240,
+      "gas:candidate-vibid:1001000121883": 29,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10464,11 +10464,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 183,
-      "Дорохин Владимир Нефедович": 20,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 183,
+      "gas:candidate-vibid:1001000121883": 20,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10518,11 +10518,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 82,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 82,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266795&region=0&sub_region=0&type=429",
@@ -10572,11 +10572,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 561,
-      "Дорохин Владимир Нефедович": 222,
-      "Леонов Василий Алексеевич": 22,
-      "Макушин Леонид Алексеевич": 26,
-      "Против всех": 56
+      "gas:candidate-vibid:255200067127": 561,
+      "gas:candidate-vibid:1001000121883": 222,
+      "gas:candidate-vibid:1001000217941": 22,
+      "gas:candidate-vibid:1001000113961": 26,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -10626,11 +10626,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 505,
-      "Дорохин Владимир Нефедович": 148,
-      "Леонов Василий Алексеевич": 26,
-      "Макушин Леонид Алексеевич": 21,
-      "Против всех": 54
+      "gas:candidate-vibid:255200067127": 505,
+      "gas:candidate-vibid:1001000121883": 148,
+      "gas:candidate-vibid:1001000217941": 26,
+      "gas:candidate-vibid:1001000113961": 21,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -10680,11 +10680,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 313,
-      "Дорохин Владимир Нефедович": 72,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:255200067127": 313,
+      "gas:candidate-vibid:1001000121883": 72,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -10734,11 +10734,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 573,
-      "Дорохин Владимир Нефедович": 213,
-      "Леонов Василий Алексеевич": 22,
-      "Макушин Леонид Алексеевич": 22,
-      "Против всех": 52
+      "gas:candidate-vibid:255200067127": 573,
+      "gas:candidate-vibid:1001000121883": 213,
+      "gas:candidate-vibid:1001000217941": 22,
+      "gas:candidate-vibid:1001000113961": 22,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -10788,11 +10788,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 454,
-      "Дорохин Владимир Нефедович": 154,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 21,
-      "Против всех": 41
+      "gas:candidate-vibid:255200067127": 454,
+      "gas:candidate-vibid:1001000121883": 154,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 21,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -10842,11 +10842,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 167,
-      "Дорохин Владимир Нефедович": 44,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:255200067127": 167,
+      "gas:candidate-vibid:1001000121883": 44,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -10896,11 +10896,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 342,
-      "Дорохин Владимир Нефедович": 184,
-      "Леонов Василий Алексеевич": 20,
-      "Макушин Леонид Алексеевич": 22,
-      "Против всех": 31
+      "gas:candidate-vibid:255200067127": 342,
+      "gas:candidate-vibid:1001000121883": 184,
+      "gas:candidate-vibid:1001000217941": 20,
+      "gas:candidate-vibid:1001000113961": 22,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -10950,11 +10950,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 314,
-      "Дорохин Владимир Нефедович": 106,
-      "Леонов Василий Алексеевич": 24,
-      "Макушин Леонид Алексеевич": 13,
-      "Против всех": 25
+      "gas:candidate-vibid:255200067127": 314,
+      "gas:candidate-vibid:1001000121883": 106,
+      "gas:candidate-vibid:1001000217941": 24,
+      "gas:candidate-vibid:1001000113961": 13,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11004,11 +11004,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 324,
-      "Дорохин Владимир Нефедович": 41,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:255200067127": 324,
+      "gas:candidate-vibid:1001000121883": 41,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11058,11 +11058,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 33,
-      "Дорохин Владимир Нефедович": 19,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 33,
+      "gas:candidate-vibid:1001000121883": 19,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11112,11 +11112,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 41,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 41,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11166,11 +11166,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 51,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 51,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11220,11 +11220,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 171,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 171,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11274,11 +11274,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 56,
-      "Дорохин Владимир Нефедович": 8,
-      "Леонов Василий Алексеевич": 6,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 56,
+      "gas:candidate-vibid:1001000121883": 8,
+      "gas:candidate-vibid:1001000217941": 6,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11328,11 +11328,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 166,
-      "Дорохин Владимир Нефедович": 33,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 166,
+      "gas:candidate-vibid:1001000121883": 33,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11382,11 +11382,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 33,
-      "Дорохин Владимир Нефедович": 15,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 33,
+      "gas:candidate-vibid:1001000121883": 15,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11436,11 +11436,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 71,
-      "Дорохин Владимир Нефедович": 19,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 71,
+      "gas:candidate-vibid:1001000121883": 19,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11490,11 +11490,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 18,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 18,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11544,11 +11544,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 198,
-      "Дорохин Владимир Нефедович": 80,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 5
+      "gas:candidate-vibid:255200067127": 198,
+      "gas:candidate-vibid:1001000121883": 80,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11598,11 +11598,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 155,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:255200067127": 155,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11652,11 +11652,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 38,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 38,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11706,11 +11706,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 118,
-      "Дорохин Владимир Нефедович": 16,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:255200067127": 118,
+      "gas:candidate-vibid:1001000121883": 16,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11760,11 +11760,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 199,
-      "Дорохин Владимир Нефедович": 72,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:255200067127": 199,
+      "gas:candidate-vibid:1001000121883": 72,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11814,11 +11814,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 34,
-      "Дорохин Владимир Нефедович": 43,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 34,
+      "gas:candidate-vibid:1001000121883": 43,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11868,11 +11868,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 56,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 56,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11922,11 +11922,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 55,
-      "Дорохин Владимир Нефедович": 19,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 55,
+      "gas:candidate-vibid:1001000121883": 19,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -11976,11 +11976,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 50,
-      "Дорохин Владимир Нефедович": 7,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 50,
+      "gas:candidate-vibid:1001000121883": 7,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12030,11 +12030,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 24,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 24,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12084,11 +12084,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 238,
-      "Дорохин Владимир Нефедович": 88,
-      "Леонов Василий Алексеевич": 12,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:255200067127": 238,
+      "gas:candidate-vibid:1001000121883": 88,
+      "gas:candidate-vibid:1001000217941": 12,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12138,11 +12138,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 103,
-      "Дорохин Владимир Нефедович": 17,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 103,
+      "gas:candidate-vibid:1001000121883": 17,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12192,11 +12192,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 67,
-      "Дорохин Владимир Нефедович": 34,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 67,
+      "gas:candidate-vibid:1001000121883": 34,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12246,11 +12246,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 201,
-      "Дорохин Владимир Нефедович": 134,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 7,
-      "Против всех": 20
+      "gas:candidate-vibid:255200067127": 201,
+      "gas:candidate-vibid:1001000121883": 134,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 7,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12300,11 +12300,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 16,
-      "Дорохин Владимир Нефедович": 14,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 16,
+      "gas:candidate-vibid:1001000121883": 14,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12354,11 +12354,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 41,
-      "Дорохин Владимир Нефедович": 10,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 41,
+      "gas:candidate-vibid:1001000121883": 10,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12408,11 +12408,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 50,
-      "Дорохин Владимир Нефедович": 13,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 50,
+      "gas:candidate-vibid:1001000121883": 13,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12462,11 +12462,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 25,
-      "Дорохин Владимир Нефедович": 19,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 25,
+      "gas:candidate-vibid:1001000121883": 19,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12516,11 +12516,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 69,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 69,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12570,11 +12570,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 232,
-      "Дорохин Владимир Нефедович": 55,
-      "Леонов Василий Алексеевич": 21,
-      "Макушин Леонид Алексеевич": 8,
-      "Против всех": 18
+      "gas:candidate-vibid:255200067127": 232,
+      "gas:candidate-vibid:1001000121883": 55,
+      "gas:candidate-vibid:1001000217941": 21,
+      "gas:candidate-vibid:1001000113961": 8,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12624,11 +12624,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 26,
-      "Дорохин Владимир Нефедович": 22,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 26,
+      "gas:candidate-vibid:1001000121883": 22,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12678,11 +12678,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 14,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 14,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12732,11 +12732,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 40,
-      "Дорохин Владимир Нефедович": 5,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 40,
+      "gas:candidate-vibid:1001000121883": 5,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12786,11 +12786,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 104,
-      "Дорохин Владимир Нефедович": 6,
-      "Леонов Василий Алексеевич": 4,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 104,
+      "gas:candidate-vibid:1001000121883": 6,
+      "gas:candidate-vibid:1001000217941": 4,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12840,11 +12840,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 197,
-      "Дорохин Владимир Нефедович": 56,
-      "Леонов Василий Алексеевич": 8,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:255200067127": 197,
+      "gas:candidate-vibid:1001000121883": 56,
+      "gas:candidate-vibid:1001000217941": 8,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12894,11 +12894,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 66,
-      "Дорохин Владимир Нефедович": 9,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 66,
+      "gas:candidate-vibid:1001000121883": 9,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -12948,11 +12948,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 53,
-      "Дорохин Владимир Нефедович": 2,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 53,
+      "gas:candidate-vibid:1001000121883": 2,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13002,11 +13002,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 185,
-      "Дорохин Владимир Нефедович": 28,
-      "Леонов Василий Алексеевич": 5,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 185,
+      "gas:candidate-vibid:1001000121883": 28,
+      "gas:candidate-vibid:1001000217941": 5,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13056,11 +13056,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 47,
-      "Дорохин Владимир Нефедович": 9,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 47,
+      "gas:candidate-vibid:1001000121883": 9,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13110,11 +13110,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 64,
-      "Дорохин Владимир Нефедович": 27,
-      "Леонов Василий Алексеевич": 2,
-      "Макушин Леонид Алексеевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 64,
+      "gas:candidate-vibid:1001000121883": 27,
+      "gas:candidate-vibid:1001000217941": 2,
+      "gas:candidate-vibid:1001000113961": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13164,11 +13164,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 337,
-      "Дорохин Владимир Нефедович": 47,
-      "Леонов Василий Алексеевич": 11,
-      "Макушин Леонид Алексеевич": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:255200067127": 337,
+      "gas:candidate-vibid:1001000121883": 47,
+      "gas:candidate-vibid:1001000217941": 11,
+      "gas:candidate-vibid:1001000113961": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13218,11 +13218,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 41,
-      "Дорохин Владимир Нефедович": 17,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:255200067127": 41,
+      "gas:candidate-vibid:1001000121883": 17,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13272,11 +13272,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 42,
-      "Дорохин Владимир Нефедович": 4,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:255200067127": 42,
+      "gas:candidate-vibid:1001000121883": 4,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13326,11 +13326,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 30,
-      "Дорохин Владимир Нефедович": 25,
-      "Леонов Василий Алексеевич": 0,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:255200067127": 30,
+      "gas:candidate-vibid:1001000121883": 25,
+      "gas:candidate-vibid:1001000217941": 0,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13380,11 +13380,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 245,
-      "Дорохин Владимир Нефедович": 109,
-      "Леонов Василий Алексеевич": 9,
-      "Макушин Леонид Алексеевич": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:255200067127": 245,
+      "gas:candidate-vibid:1001000121883": 109,
+      "gas:candidate-vibid:1001000217941": 9,
+      "gas:candidate-vibid:1001000113961": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13434,11 +13434,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 67,
-      "Дорохин Владимир Нефедович": 8,
-      "Леонов Василий Алексеевич": 1,
-      "Макушин Леонид Алексеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:255200067127": 67,
+      "gas:candidate-vibid:1001000121883": 8,
+      "gas:candidate-vibid:1001000217941": 1,
+      "gas:candidate-vibid:1001000113961": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",
@@ -13488,11 +13488,11 @@ export const duma_2003_uik_428_region_55_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Воробчуков Сергей Анатольевич": 36,
-      "Дорохин Владимир Нефедович": 26,
-      "Леонов Василий Алексеевич": 3,
-      "Макушин Леонид Алексеевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:255200067127": 36,
+      "gas:candidate-vibid:1001000121883": 26,
+      "gas:candidate-vibid:1001000217941": 3,
+      "gas:candidate-vibid:1001000113961": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=553002025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=355300266796&region=0&sub_region=0&type=429",

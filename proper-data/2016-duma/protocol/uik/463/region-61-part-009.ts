@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 28,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 84,
-      "Тищенко Александр Алексеевич": 16,
-      "Хугаев Георгий Русланович": 26,
-      "Щаблыкин Максим Иванович": 745,
-      "Щербаков Геннадий Венедиктович": 78
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 28,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 84,
+      "gas:candidate-vibid:4614037250517": 16,
+      "gas:candidate-vibid:4614037249193": 26,
+      "gas:candidate-vibid:4614037250235": 745,
+      "gas:candidate-vibid:4614037249700": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455482&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455482&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 8,
-      "Маслинников Николай Алексеевич": 69,
-      "Минин Альфред Альфредович": 10,
-      "Сарабьев Сергей Анатольевич": 12,
-      "Сорокин Михаил Александрович": 89,
-      "Тищенко Александр Алексеевич": 14,
-      "Хугаев Георгий Русланович": 22,
-      "Щаблыкин Максим Иванович": 830,
-      "Щербаков Геннадий Венедиктович": 65
+      "gas:candidate-vibid:4614037250679": 8,
+      "gas:candidate-vibid:4614037249721": 69,
+      "gas:candidate-vibid:4614037250480": 10,
+      "gas:candidate-vibid:4614037250654": 12,
+      "gas:candidate-vibid:4614037239585": 89,
+      "gas:candidate-vibid:4614037250517": 14,
+      "gas:candidate-vibid:4614037249193": 22,
+      "gas:candidate-vibid:4614037250235": 830,
+      "gas:candidate-vibid:4614037249700": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455482&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455482&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 37,
-      "Минин Альфред Альфредович": 11,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 66,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 17,
-      "Щаблыкин Максим Иванович": 688,
-      "Щербаков Геннадий Венедиктович": 49
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 37,
+      "gas:candidate-vibid:4614037250480": 11,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 66,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 17,
+      "gas:candidate-vibid:4614037250235": 688,
+      "gas:candidate-vibid:4614037249700": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455482&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455482&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 28,
-      "Маслинников Николай Алексеевич": 13,
-      "Минин Альфред Альфредович": 48,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 17,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 71,
-      "Щербаков Геннадий Венедиктович": 14
+      "gas:candidate-vibid:4614037250679": 28,
+      "gas:candidate-vibid:4614037249721": 13,
+      "gas:candidate-vibid:4614037250480": 48,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 17,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 71,
+      "gas:candidate-vibid:4614037249700": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455482&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455482&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 54,
-      "Маслинников Николай Алексеевич": 45,
-      "Минин Альфред Альфредович": 119,
-      "Сарабьев Сергей Анатольевич": 8,
-      "Сорокин Михаил Александрович": 43,
-      "Тищенко Александр Алексеевич": 26,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 166,
-      "Щербаков Геннадий Венедиктович": 47
+      "gas:candidate-vibid:4614037250679": 54,
+      "gas:candidate-vibid:4614037249721": 45,
+      "gas:candidate-vibid:4614037250480": 119,
+      "gas:candidate-vibid:4614037250654": 8,
+      "gas:candidate-vibid:4614037239585": 43,
+      "gas:candidate-vibid:4614037250517": 26,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 166,
+      "gas:candidate-vibid:4614037249700": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455482&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455482&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 54,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 49,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 8,
-      "Щаблыкин Максим Иванович": 722,
-      "Щербаков Геннадий Венедиктович": 43
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 54,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 49,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 8,
+      "gas:candidate-vibid:4614037250235": 722,
+      "gas:candidate-vibid:4614037249700": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 63,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 8,
-      "Сорокин Михаил Александрович": 39,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 14,
-      "Щаблыкин Максим Иванович": 613,
-      "Щербаков Геннадий Венедиктович": 43
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 63,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 8,
+      "gas:candidate-vibid:4614037239585": 39,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 14,
+      "gas:candidate-vibid:4614037250235": 613,
+      "gas:candidate-vibid:4614037249700": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 102,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 60,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 17,
-      "Щаблыкин Максим Иванович": 693,
-      "Щербаков Геннадий Венедиктович": 47
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 102,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 60,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 17,
+      "gas:candidate-vibid:4614037250235": 693,
+      "gas:candidate-vibid:4614037249700": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 45,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 59,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 434,
-      "Щербаков Геннадий Венедиктович": 56
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 45,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 59,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 434,
+      "gas:candidate-vibid:4614037249700": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 45,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 58,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 420,
-      "Щербаков Геннадий Венедиктович": 56
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 45,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 58,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 420,
+      "gas:candidate-vibid:4614037249700": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 17,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 31,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 6,
-      "Щаблыкин Максим Иванович": 282,
-      "Щербаков Геннадий Венедиктович": 26
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 17,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 31,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 6,
+      "gas:candidate-vibid:4614037250235": 282,
+      "gas:candidate-vibid:4614037249700": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 50,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 31,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 190,
-      "Щербаков Геннадий Венедиктович": 31
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 50,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 31,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 190,
+      "gas:candidate-vibid:4614037249700": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 75,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 42,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 127,
-      "Щербаков Геннадий Венедиктович": 19
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 75,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 42,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 127,
+      "gas:candidate-vibid:4614037249700": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 41,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 41,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 431,
-      "Щербаков Геннадий Венедиктович": 35
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 41,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 41,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 431,
+      "gas:candidate-vibid:4614037249700": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 38,
-      "Минин Альфред Альфредович": 11,
-      "Сарабьев Сергей Анатольевич": 8,
-      "Сорокин Михаил Александрович": 23,
-      "Тищенко Александр Алексеевич": 0,
-      "Хугаев Георгий Русланович": 11,
-      "Щаблыкин Максим Иванович": 433,
-      "Щербаков Геннадий Венедиктович": 18
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 38,
+      "gas:candidate-vibid:4614037250480": 11,
+      "gas:candidate-vibid:4614037250654": 8,
+      "gas:candidate-vibid:4614037239585": 23,
+      "gas:candidate-vibid:4614037250517": 0,
+      "gas:candidate-vibid:4614037249193": 11,
+      "gas:candidate-vibid:4614037250235": 433,
+      "gas:candidate-vibid:4614037249700": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 35,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 37,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 469,
-      "Щербаков Геннадий Венедиктович": 31
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 35,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 37,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 469,
+      "gas:candidate-vibid:4614037249700": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 34,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 40,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 8,
-      "Щаблыкин Максим Иванович": 494,
-      "Щербаков Геннадий Венедиктович": 33
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 34,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 40,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 8,
+      "gas:candidate-vibid:4614037250235": 494,
+      "gas:candidate-vibid:4614037249700": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 23,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 29,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 6,
-      "Щаблыкин Максим Иванович": 342,
-      "Щербаков Геннадий Венедиктович": 20
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 23,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 29,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 6,
+      "gas:candidate-vibid:4614037250235": 342,
+      "gas:candidate-vibid:4614037249700": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 57,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 73,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 345,
-      "Щербаков Геннадий Венедиктович": 27
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 57,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 73,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 345,
+      "gas:candidate-vibid:4614037249700": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 18,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 26,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 2,
-      "Щаблыкин Максим Иванович": 232,
-      "Щербаков Геннадий Венедиктович": 24
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 18,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 26,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 2,
+      "gas:candidate-vibid:4614037250235": 232,
+      "gas:candidate-vibid:4614037249700": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 21,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 20,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 324,
-      "Щербаков Геннадий Венедиктович": 36
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 21,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 20,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 324,
+      "gas:candidate-vibid:4614037249700": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 58,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 67,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 11,
-      "Щаблыкин Максим Иванович": 431,
-      "Щербаков Геннадий Венедиктович": 71
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 58,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 67,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 11,
+      "gas:candidate-vibid:4614037250235": 431,
+      "gas:candidate-vibid:4614037249700": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 17,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 23,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 3,
-      "Щаблыкин Максим Иванович": 485,
-      "Щербаков Геннадий Венедиктович": 42
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 17,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 23,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 3,
+      "gas:candidate-vibid:4614037250235": 485,
+      "gas:candidate-vibid:4614037249700": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 19,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 33,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 2,
-      "Щаблыкин Максим Иванович": 451,
-      "Щербаков Геннадий Венедиктович": 27
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 19,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 33,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 2,
+      "gas:candidate-vibid:4614037250235": 451,
+      "gas:candidate-vibid:4614037249700": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 41,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 40,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 11,
-      "Щаблыкин Максим Иванович": 570,
-      "Щербаков Геннадий Венедиктович": 55
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 41,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 40,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 11,
+      "gas:candidate-vibid:4614037250235": 570,
+      "gas:candidate-vibid:4614037249700": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 71,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 21,
-      "Тищенко Александр Алексеевич": 0,
-      "Хугаев Георгий Русланович": 0,
-      "Щаблыкин Максим Иванович": 792,
-      "Щербаков Геннадий Венедиктович": 33
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 71,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 21,
+      "gas:candidate-vibid:4614037250517": 0,
+      "gas:candidate-vibid:4614037249193": 0,
+      "gas:candidate-vibid:4614037250235": 792,
+      "gas:candidate-vibid:4614037249700": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 9,
-      "Маслинников Николай Алексеевич": 58,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 68,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 786,
-      "Щербаков Геннадий Венедиктович": 62
+      "gas:candidate-vibid:4614037250679": 9,
+      "gas:candidate-vibid:4614037249721": 58,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 68,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 786,
+      "gas:candidate-vibid:4614037249700": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 66,
-      "Минин Альфред Альфредович": 14,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 41,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 10,
-      "Щаблыкин Максим Иванович": 688,
-      "Щербаков Геннадий Венедиктович": 31
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 66,
+      "gas:candidate-vibid:4614037250480": 14,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 41,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 10,
+      "gas:candidate-vibid:4614037250235": 688,
+      "gas:candidate-vibid:4614037249700": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 70,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 50,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 942,
-      "Щербаков Геннадий Венедиктович": 43
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 70,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 50,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 942,
+      "gas:candidate-vibid:4614037249700": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 58,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 68,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 8,
-      "Щаблыкин Максим Иванович": 623,
-      "Щербаков Геннадий Венедиктович": 81
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 58,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 68,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 8,
+      "gas:candidate-vibid:4614037250235": 623,
+      "gas:candidate-vibid:4614037249700": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 45,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 9,
-      "Сорокин Михаил Александрович": 62,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 7,
-      "Щаблыкин Максим Иванович": 566,
-      "Щербаков Геннадий Венедиктович": 83
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 45,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 9,
+      "gas:candidate-vibid:4614037239585": 62,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 7,
+      "gas:candidate-vibid:4614037250235": 566,
+      "gas:candidate-vibid:4614037249700": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 28,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 18,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 8,
-      "Щаблыкин Максим Иванович": 506,
-      "Щербаков Геннадий Венедиктович": 32
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 28,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 18,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 8,
+      "gas:candidate-vibid:4614037250235": 506,
+      "gas:candidate-vibid:4614037249700": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 41,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 31,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 612,
-      "Щербаков Геннадий Венедиктович": 61
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 41,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 31,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 612,
+      "gas:candidate-vibid:4614037249700": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 34,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 19,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 2,
-      "Щаблыкин Максим Иванович": 570,
-      "Щербаков Геннадий Венедиктович": 39
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 34,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 19,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 2,
+      "gas:candidate-vibid:4614037250235": 570,
+      "gas:candidate-vibid:4614037249700": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 32,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 35,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 298,
-      "Щербаков Геннадий Венедиктович": 23
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 32,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 35,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 298,
+      "gas:candidate-vibid:4614037249700": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 21,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 36,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 411,
-      "Щербаков Геннадий Венедиктович": 20
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 21,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 36,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 411,
+      "gas:candidate-vibid:4614037249700": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 20,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 18,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 2,
-      "Щаблыкин Максим Иванович": 310,
-      "Щербаков Геннадий Венедиктович": 31
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 20,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 18,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 2,
+      "gas:candidate-vibid:4614037250235": 310,
+      "gas:candidate-vibid:4614037249700": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 51,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 36,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 10,
-      "Щаблыкин Максим Иванович": 550,
-      "Щербаков Геннадий Венедиктович": 52
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 51,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 36,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 10,
+      "gas:candidate-vibid:4614037250235": 550,
+      "gas:candidate-vibid:4614037249700": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 17,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 35,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 6,
-      "Щаблыкин Максим Иванович": 584,
-      "Щербаков Геннадий Венедиктович": 18
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 17,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 35,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 6,
+      "gas:candidate-vibid:4614037250235": 584,
+      "gas:candidate-vibid:4614037249700": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 49,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 17,
-      "Сорокин Михаил Александрович": 68,
-      "Тищенко Александр Алексеевич": 15,
-      "Хугаев Георгий Русланович": 24,
-      "Щаблыкин Максим Иванович": 747,
-      "Щербаков Геннадий Венедиктович": 78
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 49,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 17,
+      "gas:candidate-vibid:4614037239585": 68,
+      "gas:candidate-vibid:4614037250517": 15,
+      "gas:candidate-vibid:4614037249193": 24,
+      "gas:candidate-vibid:4614037250235": 747,
+      "gas:candidate-vibid:4614037249700": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 26,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 28,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 473,
-      "Щербаков Геннадий Венедиктович": 32
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 26,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 28,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 473,
+      "gas:candidate-vibid:4614037249700": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 47,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 70,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 23,
-      "Щаблыкин Максим Иванович": 748,
-      "Щербаков Геннадий Венедиктович": 64
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 47,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 70,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 23,
+      "gas:candidate-vibid:4614037250235": 748,
+      "gas:candidate-vibid:4614037249700": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 51,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 8,
-      "Сорокин Михаил Александрович": 68,
-      "Тищенко Александр Алексеевич": 11,
-      "Хугаев Георгий Русланович": 18,
-      "Щаблыкин Максим Иванович": 834,
-      "Щербаков Геннадий Венедиктович": 45
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 51,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 8,
+      "gas:candidate-vibid:4614037239585": 68,
+      "gas:candidate-vibid:4614037250517": 11,
+      "gas:candidate-vibid:4614037249193": 18,
+      "gas:candidate-vibid:4614037250235": 834,
+      "gas:candidate-vibid:4614037249700": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 63,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 58,
-      "Тищенко Александр Алексеевич": 15,
-      "Хугаев Георгий Русланович": 14,
-      "Щаблыкин Максим Иванович": 806,
-      "Щербаков Геннадий Венедиктович": 64
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 63,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 58,
+      "gas:candidate-vibid:4614037250517": 15,
+      "gas:candidate-vibid:4614037249193": 14,
+      "gas:candidate-vibid:4614037250235": 806,
+      "gas:candidate-vibid:4614037249700": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 25,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 43,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 689,
-      "Щербаков Геннадий Венедиктович": 45
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 25,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 43,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 689,
+      "gas:candidate-vibid:4614037249700": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 19,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 33,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 269,
-      "Щербаков Геннадий Венедиктович": 30
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 19,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 33,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 269,
+      "gas:candidate-vibid:4614037249700": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 23,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 37,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 8,
-      "Щаблыкин Максим Иванович": 386,
-      "Щербаков Геннадий Венедиктович": 40
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 23,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 37,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 8,
+      "gas:candidate-vibid:4614037250235": 386,
+      "gas:candidate-vibid:4614037249700": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 11,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 20,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 6,
-      "Щаблыкин Максим Иванович": 186,
-      "Щербаков Геннадий Венедиктович": 14
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 11,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 20,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 6,
+      "gas:candidate-vibid:4614037250235": 186,
+      "gas:candidate-vibid:4614037249700": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 53,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 45,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 573,
-      "Щербаков Геннадий Венедиктович": 50
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 53,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 45,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 573,
+      "gas:candidate-vibid:4614037249700": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 23,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 26,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 530,
-      "Щербаков Геннадий Венедиктович": 37
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 23,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 26,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 530,
+      "gas:candidate-vibid:4614037249700": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 61,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 73,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 18,
-      "Щаблыкин Максим Иванович": 948,
-      "Щербаков Геннадий Венедиктович": 56
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 61,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 73,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 18,
+      "gas:candidate-vibid:4614037250235": 948,
+      "gas:candidate-vibid:4614037249700": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 65,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 60,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 17,
-      "Щаблыкин Максим Иванович": 593,
-      "Щербаков Геннадий Венедиктович": 62
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 65,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 60,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 17,
+      "gas:candidate-vibid:4614037250235": 593,
+      "gas:candidate-vibid:4614037249700": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 21,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 38,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 312,
-      "Щербаков Геннадий Венедиктович": 34
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 21,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 38,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 312,
+      "gas:candidate-vibid:4614037249700": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 72,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 76,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 707,
-      "Щербаков Геннадий Венедиктович": 57
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 72,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 76,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 707,
+      "gas:candidate-vibid:4614037249700": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 51,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 62,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 16,
-      "Щаблыкин Максим Иванович": 568,
-      "Щербаков Геннадий Венедиктович": 56
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 51,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 62,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 16,
+      "gas:candidate-vibid:4614037250235": 568,
+      "gas:candidate-vibid:4614037249700": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 35,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 53,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 11,
-      "Щаблыкин Максим Иванович": 858,
-      "Щербаков Геннадий Венедиктович": 51
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 35,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 53,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 11,
+      "gas:candidate-vibid:4614037250235": 858,
+      "gas:candidate-vibid:4614037249700": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 25,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 23,
-      "Тищенко Александр Алексеевич": 0,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 475,
-      "Щербаков Геннадий Венедиктович": 37
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 25,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 23,
+      "gas:candidate-vibid:4614037250517": 0,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 475,
+      "gas:candidate-vibid:4614037249700": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 12,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 24,
-      "Тищенко Александр Алексеевич": 0,
-      "Хугаев Георгий Русланович": 4,
-      "Щаблыкин Максим Иванович": 329,
-      "Щербаков Геннадий Венедиктович": 14
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 12,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 24,
+      "gas:candidate-vibid:4614037250517": 0,
+      "gas:candidate-vibid:4614037249193": 4,
+      "gas:candidate-vibid:4614037250235": 329,
+      "gas:candidate-vibid:4614037249700": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 38,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 52,
-      "Тищенко Александр Алексеевич": 13,
-      "Хугаев Георгий Русланович": 24,
-      "Щаблыкин Максим Иванович": 636,
-      "Щербаков Геннадий Венедиктович": 62
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 38,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 52,
+      "gas:candidate-vibid:4614037250517": 13,
+      "gas:candidate-vibid:4614037249193": 24,
+      "gas:candidate-vibid:4614037250235": 636,
+      "gas:candidate-vibid:4614037249700": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 21,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 56,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 233,
-      "Щербаков Геннадий Венедиктович": 45
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 21,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 56,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 233,
+      "gas:candidate-vibid:4614037249700": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 45,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 14,
-      "Сорокин Михаил Александрович": 103,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 29,
-      "Щаблыкин Максим Иванович": 459,
-      "Щербаков Геннадий Венедиктович": 76
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 45,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 14,
+      "gas:candidate-vibid:4614037239585": 103,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 29,
+      "gas:candidate-vibid:4614037250235": 459,
+      "gas:candidate-vibid:4614037249700": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 30,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 33,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 464,
-      "Щербаков Геннадий Венедиктович": 38
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 30,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 33,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 464,
+      "gas:candidate-vibid:4614037249700": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455483&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455483&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 13,
-      "Маслинников Николай Алексеевич": 90,
-      "Минин Альфред Альфредович": 9,
-      "Сарабьев Сергей Анатольевич": 27,
-      "Сорокин Михаил Александрович": 132,
-      "Тищенко Александр Алексеевич": 13,
-      "Хугаев Георгий Русланович": 36,
-      "Щаблыкин Максим Иванович": 611,
-      "Щербаков Геннадий Венедиктович": 115
+      "gas:candidate-vibid:4614037250679": 13,
+      "gas:candidate-vibid:4614037249721": 90,
+      "gas:candidate-vibid:4614037250480": 9,
+      "gas:candidate-vibid:4614037250654": 27,
+      "gas:candidate-vibid:4614037239585": 132,
+      "gas:candidate-vibid:4614037250517": 13,
+      "gas:candidate-vibid:4614037249193": 36,
+      "gas:candidate-vibid:4614037250235": 611,
+      "gas:candidate-vibid:4614037249700": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 36,
-      "Минин Альфред Альфредович": 9,
-      "Сарабьев Сергей Анатольевич": 8,
-      "Сорокин Михаил Александрович": 85,
-      "Тищенко Александр Алексеевич": 14,
-      "Хугаев Георгий Русланович": 32,
-      "Щаблыкин Максим Иванович": 642,
-      "Щербаков Геннадий Венедиктович": 87
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 36,
+      "gas:candidate-vibid:4614037250480": 9,
+      "gas:candidate-vibid:4614037250654": 8,
+      "gas:candidate-vibid:4614037239585": 85,
+      "gas:candidate-vibid:4614037250517": 14,
+      "gas:candidate-vibid:4614037249193": 32,
+      "gas:candidate-vibid:4614037250235": 642,
+      "gas:candidate-vibid:4614037249700": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 71,
-      "Минин Альфред Альфредович": 11,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 104,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 31,
-      "Щаблыкин Максим Иванович": 406,
-      "Щербаков Геннадий Венедиктович": 135
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 71,
+      "gas:candidate-vibid:4614037250480": 11,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 104,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 31,
+      "gas:candidate-vibid:4614037250235": 406,
+      "gas:candidate-vibid:4614037249700": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 25,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 98,
-      "Тищенко Александр Алексеевич": 19,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 324,
-      "Щербаков Геннадий Венедиктович": 45
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 25,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 98,
+      "gas:candidate-vibid:4614037250517": 19,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 324,
+      "gas:candidate-vibid:4614037249700": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 14,
-      "Маслинников Николай Алексеевич": 19,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 71,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 174,
-      "Щербаков Геннадий Венедиктович": 55
+      "gas:candidate-vibid:4614037250679": 14,
+      "gas:candidate-vibid:4614037249721": 19,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 71,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 174,
+      "gas:candidate-vibid:4614037249700": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 12,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 50,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 18,
-      "Щаблыкин Максим Иванович": 148,
-      "Щербаков Геннадий Венедиктович": 42
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 12,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 50,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 18,
+      "gas:candidate-vibid:4614037250235": 148,
+      "gas:candidate-vibid:4614037249700": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 19,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 68,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 7,
-      "Щаблыкин Максим Иванович": 425,
-      "Щербаков Геннадий Венедиктович": 41
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 19,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 68,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 7,
+      "gas:candidate-vibid:4614037250235": 425,
+      "gas:candidate-vibid:4614037249700": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 33,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 73,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 22,
-      "Щаблыкин Максим Иванович": 196,
-      "Щербаков Геннадий Венедиктович": 65
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 33,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 73,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 22,
+      "gas:candidate-vibid:4614037250235": 196,
+      "gas:candidate-vibid:4614037249700": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 35,
-      "Минин Альфред Альфредович": 9,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 111,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 31,
-      "Щаблыкин Максим Иванович": 333,
-      "Щербаков Геннадий Венедиктович": 78
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 35,
+      "gas:candidate-vibid:4614037250480": 9,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 111,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 31,
+      "gas:candidate-vibid:4614037250235": 333,
+      "gas:candidate-vibid:4614037249700": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 9,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 40,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 129,
-      "Щербаков Геннадий Венедиктович": 24
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 9,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 40,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 129,
+      "gas:candidate-vibid:4614037249700": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 16,
-      "Маслинников Николай Алексеевич": 38,
-      "Минин Альфред Альфредович": 9,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 98,
-      "Тищенко Александр Алексеевич": 17,
-      "Хугаев Георгий Русланович": 36,
-      "Щаблыкин Максим Иванович": 228,
-      "Щербаков Геннадий Венедиктович": 119
+      "gas:candidate-vibid:4614037250679": 16,
+      "gas:candidate-vibid:4614037249721": 38,
+      "gas:candidate-vibid:4614037250480": 9,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 98,
+      "gas:candidate-vibid:4614037250517": 17,
+      "gas:candidate-vibid:4614037249193": 36,
+      "gas:candidate-vibid:4614037250235": 228,
+      "gas:candidate-vibid:4614037249700": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 42,
-      "Минин Альфред Альфредович": 9,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 121,
-      "Тищенко Александр Алексеевич": 29,
-      "Хугаев Георгий Русланович": 38,
-      "Щаблыкин Максим Иванович": 682,
-      "Щербаков Геннадий Венедиктович": 133
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 42,
+      "gas:candidate-vibid:4614037250480": 9,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 121,
+      "gas:candidate-vibid:4614037250517": 29,
+      "gas:candidate-vibid:4614037249193": 38,
+      "gas:candidate-vibid:4614037250235": 682,
+      "gas:candidate-vibid:4614037249700": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 9,
-      "Маслинников Николай Алексеевич": 22,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 90,
-      "Тищенко Александр Алексеевич": 17,
-      "Хугаев Георгий Русланович": 25,
-      "Щаблыкин Максим Иванович": 342,
-      "Щербаков Геннадий Венедиктович": 104
+      "gas:candidate-vibid:4614037250679": 9,
+      "gas:candidate-vibid:4614037249721": 22,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 90,
+      "gas:candidate-vibid:4614037250517": 17,
+      "gas:candidate-vibid:4614037249193": 25,
+      "gas:candidate-vibid:4614037250235": 342,
+      "gas:candidate-vibid:4614037249700": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 6,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 20,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 352,
-      "Щербаков Геннадий Венедиктович": 78
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 6,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 20,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 352,
+      "gas:candidate-vibid:4614037249700": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 8,
-      "Маслинников Николай Алексеевич": 52,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 95,
-      "Тищенко Александр Алексеевич": 16,
-      "Хугаев Георгий Русланович": 24,
-      "Щаблыкин Максим Иванович": 285,
-      "Щербаков Геннадий Венедиктович": 157
+      "gas:candidate-vibid:4614037250679": 8,
+      "gas:candidate-vibid:4614037249721": 52,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 95,
+      "gas:candidate-vibid:4614037250517": 16,
+      "gas:candidate-vibid:4614037249193": 24,
+      "gas:candidate-vibid:4614037250235": 285,
+      "gas:candidate-vibid:4614037249700": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 48,
-      "Минин Альфред Альфредович": 10,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 102,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 24,
-      "Щаблыкин Максим Иванович": 274,
-      "Щербаков Геннадий Венедиктович": 173
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 48,
+      "gas:candidate-vibid:4614037250480": 10,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 102,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 24,
+      "gas:candidate-vibid:4614037250235": 274,
+      "gas:candidate-vibid:4614037249700": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 10,
-      "Маслинников Николай Алексеевич": 69,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 74,
-      "Тищенко Александр Алексеевич": 16,
-      "Хугаев Георгий Русланович": 28,
-      "Щаблыкин Максим Иванович": 365,
-      "Щербаков Геннадий Венедиктович": 131
+      "gas:candidate-vibid:4614037250679": 10,
+      "gas:candidate-vibid:4614037249721": 69,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 74,
+      "gas:candidate-vibid:4614037250517": 16,
+      "gas:candidate-vibid:4614037249193": 28,
+      "gas:candidate-vibid:4614037250235": 365,
+      "gas:candidate-vibid:4614037249700": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 47,
-      "Минин Альфред Альфредович": 11,
-      "Сарабьев Сергей Анатольевич": 16,
-      "Сорокин Михаил Александрович": 84,
-      "Тищенко Александр Алексеевич": 19,
-      "Хугаев Георгий Русланович": 36,
-      "Щаблыкин Максим Иванович": 351,
-      "Щербаков Геннадий Венедиктович": 167
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 47,
+      "gas:candidate-vibid:4614037250480": 11,
+      "gas:candidate-vibid:4614037250654": 16,
+      "gas:candidate-vibid:4614037239585": 84,
+      "gas:candidate-vibid:4614037250517": 19,
+      "gas:candidate-vibid:4614037249193": 36,
+      "gas:candidate-vibid:4614037250235": 351,
+      "gas:candidate-vibid:4614037249700": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 9,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 71,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 0,
-      "Щаблыкин Максим Иванович": 580,
-      "Щербаков Геннадий Венедиктович": 76
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 9,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 71,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 0,
+      "gas:candidate-vibid:4614037250235": 580,
+      "gas:candidate-vibid:4614037249700": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 11,
-      "Маслинников Николай Алексеевич": 17,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 9,
-      "Сорокин Михаил Александрович": 80,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 14,
-      "Щаблыкин Максим Иванович": 153,
-      "Щербаков Геннадий Венедиктович": 80
+      "gas:candidate-vibid:4614037250679": 11,
+      "gas:candidate-vibid:4614037249721": 17,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 9,
+      "gas:candidate-vibid:4614037239585": 80,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 14,
+      "gas:candidate-vibid:4614037250235": 153,
+      "gas:candidate-vibid:4614037249700": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 14,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 43,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 99,
-      "Щербаков Геннадий Венедиктович": 58
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 14,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 43,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 99,
+      "gas:candidate-vibid:4614037249700": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 42,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 14,
-      "Сорокин Михаил Александрович": 69,
-      "Тищенко Александр Алексеевич": 14,
-      "Хугаев Георгий Русланович": 24,
-      "Щаблыкин Максим Иванович": 209,
-      "Щербаков Геннадий Венедиктович": 101
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 42,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 14,
+      "gas:candidate-vibid:4614037239585": 69,
+      "gas:candidate-vibid:4614037250517": 14,
+      "gas:candidate-vibid:4614037249193": 24,
+      "gas:candidate-vibid:4614037250235": 209,
+      "gas:candidate-vibid:4614037249700": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 28,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 94,
-      "Тищенко Александр Алексеевич": 14,
-      "Хугаев Георгий Русланович": 14,
-      "Щаблыкин Максим Иванович": 248,
-      "Щербаков Геннадий Венедиктович": 62
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 28,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 94,
+      "gas:candidate-vibid:4614037250517": 14,
+      "gas:candidate-vibid:4614037249193": 14,
+      "gas:candidate-vibid:4614037250235": 248,
+      "gas:candidate-vibid:4614037249700": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 0,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 0,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 1,
-      "Щаблыкин Максим Иванович": 281,
-      "Щербаков Геннадий Венедиктович": 3
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 0,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 0,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 1,
+      "gas:candidate-vibid:4614037250235": 281,
+      "gas:candidate-vibid:4614037249700": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 12,
-      "Маслинников Николай Алексеевич": 24,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 8,
-      "Сорокин Михаил Александрович": 71,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 460,
-      "Щербаков Геннадий Венедиктович": 36
+      "gas:candidate-vibid:4614037250679": 12,
+      "gas:candidate-vibid:4614037249721": 24,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 8,
+      "gas:candidate-vibid:4614037239585": 71,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 460,
+      "gas:candidate-vibid:4614037249700": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 11,
-      "Маслинников Николай Алексеевич": 47,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 17,
-      "Сорокин Михаил Александрович": 116,
-      "Тищенко Александр Алексеевич": 29,
-      "Хугаев Георгий Русланович": 26,
-      "Щаблыкин Максим Иванович": 602,
-      "Щербаков Геннадий Венедиктович": 63
+      "gas:candidate-vibid:4614037250679": 11,
+      "gas:candidate-vibid:4614037249721": 47,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 17,
+      "gas:candidate-vibid:4614037239585": 116,
+      "gas:candidate-vibid:4614037250517": 29,
+      "gas:candidate-vibid:4614037249193": 26,
+      "gas:candidate-vibid:4614037250235": 602,
+      "gas:candidate-vibid:4614037249700": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 0,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 2,
-      "Тищенко Александр Алексеевич": 0,
-      "Хугаев Георгий Русланович": 2,
-      "Щаблыкин Максим Иванович": 96,
-      "Щербаков Геннадий Венедиктович": 0
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 0,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 2,
+      "gas:candidate-vibid:4614037250517": 0,
+      "gas:candidate-vibid:4614037249193": 2,
+      "gas:candidate-vibid:4614037250235": 96,
+      "gas:candidate-vibid:4614037249700": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 10,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 42,
-      "Тищенко Александр Алексеевич": 18,
-      "Хугаев Георгий Русланович": 7,
-      "Щаблыкин Максим Иванович": 385,
-      "Щербаков Геннадий Венедиктович": 31
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 10,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 42,
+      "gas:candidate-vibid:4614037250517": 18,
+      "gas:candidate-vibid:4614037249193": 7,
+      "gas:candidate-vibid:4614037250235": 385,
+      "gas:candidate-vibid:4614037249700": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 9,
-      "Маслинников Николай Алексеевич": 14,
-      "Минин Альфред Альфредович": 13,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 56,
-      "Тищенко Александр Алексеевич": 26,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 342,
-      "Щербаков Геннадий Венедиктович": 41
+      "gas:candidate-vibid:4614037250679": 9,
+      "gas:candidate-vibid:4614037249721": 14,
+      "gas:candidate-vibid:4614037250480": 13,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 56,
+      "gas:candidate-vibid:4614037250517": 26,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 342,
+      "gas:candidate-vibid:4614037249700": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 0,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 1,
-      "Тищенко Александр Алексеевич": 0,
-      "Хугаев Георгий Русланович": 0,
-      "Щаблыкин Максим Иванович": 175,
-      "Щербаков Геннадий Венедиктович": 47
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 0,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 1,
+      "gas:candidate-vibid:4614037250517": 0,
+      "gas:candidate-vibid:4614037249193": 0,
+      "gas:candidate-vibid:4614037250235": 175,
+      "gas:candidate-vibid:4614037249700": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 8,
-      "Маслинников Николай Алексеевич": 33,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 11,
-      "Сорокин Михаил Александрович": 236,
-      "Тищенко Александр Алексеевич": 23,
-      "Хугаев Георгий Русланович": 31,
-      "Щаблыкин Максим Иванович": 689,
-      "Щербаков Геннадий Венедиктович": 157
+      "gas:candidate-vibid:4614037250679": 8,
+      "gas:candidate-vibid:4614037249721": 33,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 11,
+      "gas:candidate-vibid:4614037239585": 236,
+      "gas:candidate-vibid:4614037250517": 23,
+      "gas:candidate-vibid:4614037249193": 31,
+      "gas:candidate-vibid:4614037250235": 689,
+      "gas:candidate-vibid:4614037249700": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 10,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 23,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 127,
-      "Щербаков Геннадий Венедиктович": 57
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 10,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 23,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 127,
+      "gas:candidate-vibid:4614037249700": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 9,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 31,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 121,
-      "Щербаков Геннадий Венедиктович": 21
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 9,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 31,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 121,
+      "gas:candidate-vibid:4614037249700": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 10,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 28,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 11,
-      "Щаблыкин Максим Иванович": 147,
-      "Щербаков Геннадий Венедиктович": 54
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 10,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 28,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 11,
+      "gas:candidate-vibid:4614037250235": 147,
+      "gas:candidate-vibid:4614037249700": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 2,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 12,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 3,
-      "Щаблыкин Максим Иванович": 148,
-      "Щербаков Геннадий Венедиктович": 10
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 2,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 12,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 3,
+      "gas:candidate-vibid:4614037250235": 148,
+      "gas:candidate-vibid:4614037249700": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 2,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 5,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 4,
-      "Щаблыкин Максим Иванович": 337,
-      "Щербаков Геннадий Венедиктович": 22
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 2,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 5,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 4,
+      "gas:candidate-vibid:4614037250235": 337,
+      "gas:candidate-vibid:4614037249700": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 8,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 39,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 10,
-      "Щаблыкин Максим Иванович": 251,
-      "Щербаков Геннадий Венедиктович": 31
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 8,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 39,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 10,
+      "gas:candidate-vibid:4614037250235": 251,
+      "gas:candidate-vibid:4614037249700": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 8,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 21,
-      "Тищенко Александр Алексеевич": 0,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 80,
-      "Щербаков Геннадий Венедиктович": 28
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 8,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 21,
+      "gas:candidate-vibid:4614037250517": 0,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 80,
+      "gas:candidate-vibid:4614037249700": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 5,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 15,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 117,
-      "Щербаков Геннадий Венедиктович": 6
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 5,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 15,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 117,
+      "gas:candidate-vibid:4614037249700": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 17,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 44,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 4,
-      "Щаблыкин Максим Иванович": 314,
-      "Щербаков Геннадий Венедиктович": 20
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 17,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 44,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 4,
+      "gas:candidate-vibid:4614037250235": 314,
+      "gas:candidate-vibid:4614037249700": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 5,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 13,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 3,
-      "Щаблыкин Максим Иванович": 164,
-      "Щербаков Геннадий Венедиктович": 7
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 5,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 13,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 3,
+      "gas:candidate-vibid:4614037250235": 164,
+      "gas:candidate-vibid:4614037249700": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 10,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 12,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 192,
-      "Щербаков Геннадий Венедиктович": 36
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 10,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 12,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 192,
+      "gas:candidate-vibid:4614037249700": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 4,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 18,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 1,
-      "Щаблыкин Максим Иванович": 140,
-      "Щербаков Геннадий Венедиктович": 13
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 4,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 18,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 1,
+      "gas:candidate-vibid:4614037250235": 140,
+      "gas:candidate-vibid:4614037249700": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 6,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 3,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 72,
-      "Щербаков Геннадий Венедиктович": 5
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 6,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 3,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 72,
+      "gas:candidate-vibid:4614037249700": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 16,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 62,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 8,
-      "Щаблыкин Максим Иванович": 162,
-      "Щербаков Геннадий Венедиктович": 12
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 16,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 62,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 8,
+      "gas:candidate-vibid:4614037250235": 162,
+      "gas:candidate-vibid:4614037249700": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 1,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 4,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 3,
-      "Щаблыкин Максим Иванович": 14,
-      "Щербаков Геннадий Венедиктович": 14
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 1,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 4,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 3,
+      "gas:candidate-vibid:4614037250235": 14,
+      "gas:candidate-vibid:4614037249700": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 14,
-      "Маслинников Николай Алексеевич": 25,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 86,
-      "Тищенко Александр Алексеевич": 13,
-      "Хугаев Георгий Русланович": 33,
-      "Щаблыкин Максим Иванович": 585,
-      "Щербаков Геннадий Венедиктович": 102
+      "gas:candidate-vibid:4614037250679": 14,
+      "gas:candidate-vibid:4614037249721": 25,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 86,
+      "gas:candidate-vibid:4614037250517": 13,
+      "gas:candidate-vibid:4614037249193": 33,
+      "gas:candidate-vibid:4614037250235": 585,
+      "gas:candidate-vibid:4614037249700": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 25,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 53,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 23,
-      "Щаблыкин Максим Иванович": 265,
-      "Щербаков Геннадий Венедиктович": 142
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 25,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 53,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 23,
+      "gas:candidate-vibid:4614037250235": 265,
+      "gas:candidate-vibid:4614037249700": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 14,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 31,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 16,
-      "Щаблыкин Максим Иванович": 106,
-      "Щербаков Геннадий Венедиктович": 47
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 14,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 31,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 16,
+      "gas:candidate-vibid:4614037250235": 106,
+      "gas:candidate-vibid:4614037249700": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 15,
-      "Маслинников Николай Алексеевич": 55,
-      "Минин Альфред Альфредович": 11,
-      "Сарабьев Сергей Анатольевич": 22,
-      "Сорокин Михаил Александрович": 98,
-      "Тищенко Александр Алексеевич": 27,
-      "Хугаев Георгий Русланович": 47,
-      "Щаблыкин Максим Иванович": 418,
-      "Щербаков Геннадий Венедиктович": 139
+      "gas:candidate-vibid:4614037250679": 15,
+      "gas:candidate-vibid:4614037249721": 55,
+      "gas:candidate-vibid:4614037250480": 11,
+      "gas:candidate-vibid:4614037250654": 22,
+      "gas:candidate-vibid:4614037239585": 98,
+      "gas:candidate-vibid:4614037250517": 27,
+      "gas:candidate-vibid:4614037249193": 47,
+      "gas:candidate-vibid:4614037250235": 418,
+      "gas:candidate-vibid:4614037249700": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 13,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 30,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 10,
-      "Щаблыкин Максим Иванович": 286,
-      "Щербаков Геннадий Венедиктович": 50
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 13,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 30,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 10,
+      "gas:candidate-vibid:4614037250235": 286,
+      "gas:candidate-vibid:4614037249700": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 4,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 15,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 6,
-      "Щаблыкин Максим Иванович": 137,
-      "Щербаков Геннадий Венедиктович": 19
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 4,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 15,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 6,
+      "gas:candidate-vibid:4614037250235": 137,
+      "gas:candidate-vibid:4614037249700": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 7,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 16,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 177,
-      "Щербаков Геннадий Венедиктович": 20
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 7,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 16,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 177,
+      "gas:candidate-vibid:4614037249700": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 27,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 55,
-      "Тищенко Александр Алексеевич": 19,
-      "Хугаев Георгий Русланович": 23,
-      "Щаблыкин Максим Иванович": 607,
-      "Щербаков Геннадий Венедиктович": 53
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 27,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 55,
+      "gas:candidate-vibid:4614037250517": 19,
+      "gas:candidate-vibid:4614037249193": 23,
+      "gas:candidate-vibid:4614037250235": 607,
+      "gas:candidate-vibid:4614037249700": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 18,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 24,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 7,
-      "Щаблыкин Максим Иванович": 186,
-      "Щербаков Геннадий Венедиктович": 10
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 18,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 24,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 7,
+      "gas:candidate-vibid:4614037250235": 186,
+      "gas:candidate-vibid:4614037249700": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 6,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 22,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 5,
-      "Щаблыкин Максим Иванович": 150,
-      "Щербаков Геннадий Венедиктович": 20
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 6,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 22,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 5,
+      "gas:candidate-vibid:4614037250235": 150,
+      "gas:candidate-vibid:4614037249700": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 16,
-      "Маслинников Николай Алексеевич": 27,
-      "Минин Альфред Альфредович": 16,
-      "Сарабьев Сергей Анатольевич": 32,
-      "Сорокин Михаил Александрович": 69,
-      "Тищенко Александр Алексеевич": 17,
-      "Хугаев Георгий Русланович": 30,
-      "Щаблыкин Максим Иванович": 356,
-      "Щербаков Геннадий Венедиктович": 95
+      "gas:candidate-vibid:4614037250679": 16,
+      "gas:candidate-vibid:4614037249721": 27,
+      "gas:candidate-vibid:4614037250480": 16,
+      "gas:candidate-vibid:4614037250654": 32,
+      "gas:candidate-vibid:4614037239585": 69,
+      "gas:candidate-vibid:4614037250517": 17,
+      "gas:candidate-vibid:4614037249193": 30,
+      "gas:candidate-vibid:4614037250235": 356,
+      "gas:candidate-vibid:4614037249700": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 11,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 16,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 170,
-      "Щербаков Геннадий Венедиктович": 24
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 11,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 16,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 170,
+      "gas:candidate-vibid:4614037249700": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 4,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 4,
-      "Сорокин Михаил Александрович": 20,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 7,
-      "Щаблыкин Максим Иванович": 78,
-      "Щербаков Геннадий Венедиктович": 23
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 4,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 4,
+      "gas:candidate-vibid:4614037239585": 20,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 7,
+      "gas:candidate-vibid:4614037250235": 78,
+      "gas:candidate-vibid:4614037249700": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 1,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 13,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 4,
-      "Щаблыкин Максим Иванович": 95,
-      "Щербаков Геннадий Венедиктович": 5
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 1,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 13,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 4,
+      "gas:candidate-vibid:4614037250235": 95,
+      "gas:candidate-vibid:4614037249700": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 3,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 23,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 0,
-      "Щаблыкин Максим Иванович": 610,
-      "Щербаков Геннадий Венедиктович": 21
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 3,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 23,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 0,
+      "gas:candidate-vibid:4614037250235": 610,
+      "gas:candidate-vibid:4614037249700": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 12,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 18,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 3,
-      "Щаблыкин Максим Иванович": 113,
-      "Щербаков Геннадий Венедиктович": 7
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 12,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 18,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 3,
+      "gas:candidate-vibid:4614037250235": 113,
+      "gas:candidate-vibid:4614037249700": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 21,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 18,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 14,
-      "Щаблыкин Максим Иванович": 432,
-      "Щербаков Геннадий Венедиктович": 63
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 21,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 18,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 14,
+      "gas:candidate-vibid:4614037250235": 432,
+      "gas:candidate-vibid:4614037249700": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 19,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 1,
-      "Сорокин Михаил Александрович": 40,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 0,
-      "Щаблыкин Максим Иванович": 389,
-      "Щербаков Геннадий Венедиктович": 32
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 19,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 1,
+      "gas:candidate-vibid:4614037239585": 40,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 0,
+      "gas:candidate-vibid:4614037250235": 389,
+      "gas:candidate-vibid:4614037249700": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 14,
-      "Маслинников Николай Алексеевич": 29,
-      "Минин Альфред Альфредович": 10,
-      "Сарабьев Сергей Анатольевич": 17,
-      "Сорокин Михаил Александрович": 111,
-      "Тищенко Александр Алексеевич": 15,
-      "Хугаев Георгий Русланович": 29,
-      "Щаблыкин Максим Иванович": 506,
-      "Щербаков Геннадий Венедиктович": 200
+      "gas:candidate-vibid:4614037250679": 14,
+      "gas:candidate-vibid:4614037249721": 29,
+      "gas:candidate-vibid:4614037250480": 10,
+      "gas:candidate-vibid:4614037250654": 17,
+      "gas:candidate-vibid:4614037239585": 111,
+      "gas:candidate-vibid:4614037250517": 15,
+      "gas:candidate-vibid:4614037249193": 29,
+      "gas:candidate-vibid:4614037250235": 506,
+      "gas:candidate-vibid:4614037249700": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 2,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 0,
-      "Сорокин Михаил Александрович": 9,
-      "Тищенко Александр Алексеевич": 1,
-      "Хугаев Георгий Русланович": 4,
-      "Щаблыкин Максим Иванович": 67,
-      "Щербаков Геннадий Венедиктович": 9
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 2,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 0,
+      "gas:candidate-vibid:4614037239585": 9,
+      "gas:candidate-vibid:4614037250517": 1,
+      "gas:candidate-vibid:4614037249193": 4,
+      "gas:candidate-vibid:4614037250235": 67,
+      "gas:candidate-vibid:4614037249700": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455484&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455484&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 14,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 54,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 16,
-      "Щаблыкин Максим Иванович": 278,
-      "Щербаков Геннадий Венедиктович": 98
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 14,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 54,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 16,
+      "gas:candidate-vibid:4614037250235": 278,
+      "gas:candidate-vibid:4614037249700": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 31,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 12,
-      "Сорокин Михаил Александрович": 77,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 23,
-      "Щаблыкин Максим Иванович": 360,
-      "Щербаков Геннадий Венедиктович": 68
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 31,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 12,
+      "gas:candidate-vibid:4614037239585": 77,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 23,
+      "gas:candidate-vibid:4614037250235": 360,
+      "gas:candidate-vibid:4614037249700": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 16,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 12,
-      "Сорокин Михаил Александрович": 76,
-      "Тищенко Александр Алексеевич": 14,
-      "Хугаев Георгий Русланович": 26,
-      "Щаблыкин Максим Иванович": 454,
-      "Щербаков Геннадий Венедиктович": 70
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 16,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 12,
+      "gas:candidate-vibid:4614037239585": 76,
+      "gas:candidate-vibid:4614037250517": 14,
+      "gas:candidate-vibid:4614037249193": 26,
+      "gas:candidate-vibid:4614037250235": 454,
+      "gas:candidate-vibid:4614037249700": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 9,
-      "Маслинников Николай Алексеевич": 19,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 8,
-      "Сорокин Михаил Александрович": 74,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 18,
-      "Щаблыкин Максим Иванович": 437,
-      "Щербаков Геннадий Венедиктович": 60
+      "gas:candidate-vibid:4614037250679": 9,
+      "gas:candidate-vibid:4614037249721": 19,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 8,
+      "gas:candidate-vibid:4614037239585": 74,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 18,
+      "gas:candidate-vibid:4614037250235": 437,
+      "gas:candidate-vibid:4614037249700": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 27,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 17,
-      "Сорокин Михаил Александрович": 82,
-      "Тищенко Александр Алексеевич": 13,
-      "Хугаев Георгий Русланович": 14,
-      "Щаблыкин Максим Иванович": 208,
-      "Щербаков Геннадий Венедиктович": 69
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 27,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 17,
+      "gas:candidate-vibid:4614037239585": 82,
+      "gas:candidate-vibid:4614037250517": 13,
+      "gas:candidate-vibid:4614037249193": 14,
+      "gas:candidate-vibid:4614037250235": 208,
+      "gas:candidate-vibid:4614037249700": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 24,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 11,
-      "Сорокин Михаил Александрович": 87,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 17,
-      "Щаблыкин Максим Иванович": 314,
-      "Щербаков Геннадий Венедиктович": 75
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 24,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 11,
+      "gas:candidate-vibid:4614037239585": 87,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 17,
+      "gas:candidate-vibid:4614037250235": 314,
+      "gas:candidate-vibid:4614037249700": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 9,
-      "Маслинников Николай Алексеевич": 20,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 14,
-      "Сорокин Михаил Александрович": 65,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 21,
-      "Щаблыкин Максим Иванович": 220,
-      "Щербаков Геннадий Венедиктович": 101
+      "gas:candidate-vibid:4614037250679": 9,
+      "gas:candidate-vibid:4614037249721": 20,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 14,
+      "gas:candidate-vibid:4614037239585": 65,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 21,
+      "gas:candidate-vibid:4614037250235": 220,
+      "gas:candidate-vibid:4614037249700": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 9,
-      "Маслинников Николай Алексеевич": 22,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 80,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 586,
-      "Щербаков Геннадий Венедиктович": 90
+      "gas:candidate-vibid:4614037250679": 9,
+      "gas:candidate-vibid:4614037249721": 22,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 80,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 586,
+      "gas:candidate-vibid:4614037249700": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 11,
-      "Маслинников Николай Алексеевич": 36,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 15,
-      "Сорокин Михаил Александрович": 110,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 308,
-      "Щербаков Геннадий Венедиктович": 97
+      "gas:candidate-vibid:4614037250679": 11,
+      "gas:candidate-vibid:4614037249721": 36,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 15,
+      "gas:candidate-vibid:4614037239585": 110,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 308,
+      "gas:candidate-vibid:4614037249700": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 9,
-      "Маслинников Николай Алексеевич": 29,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 71,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 18,
-      "Щаблыкин Максим Иванович": 458,
-      "Щербаков Геннадий Венедиктович": 64
+      "gas:candidate-vibid:4614037250679": 9,
+      "gas:candidate-vibid:4614037249721": 29,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 71,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 18,
+      "gas:candidate-vibid:4614037250235": 458,
+      "gas:candidate-vibid:4614037249700": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 56,
-      "Минин Альфред Альфредович": 12,
-      "Сарабьев Сергей Анатольевич": 21,
-      "Сорокин Михаил Александрович": 74,
-      "Тищенко Александр Алексеевич": 17,
-      "Хугаев Георгий Русланович": 11,
-      "Щаблыкин Максим Иванович": 489,
-      "Щербаков Геннадий Венедиктович": 77
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 56,
+      "gas:candidate-vibid:4614037250480": 12,
+      "gas:candidate-vibid:4614037250654": 21,
+      "gas:candidate-vibid:4614037239585": 74,
+      "gas:candidate-vibid:4614037250517": 17,
+      "gas:candidate-vibid:4614037249193": 11,
+      "gas:candidate-vibid:4614037250235": 489,
+      "gas:candidate-vibid:4614037249700": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 31,
-      "Минин Альфред Альфредович": 11,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 67,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 464,
-      "Щербаков Геннадий Венедиктович": 72
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 31,
+      "gas:candidate-vibid:4614037250480": 11,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 67,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 464,
+      "gas:candidate-vibid:4614037249700": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 23,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 9,
-      "Сорокин Михаил Александрович": 78,
-      "Тищенко Александр Алексеевич": 13,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 244,
-      "Щербаков Геннадий Венедиктович": 94
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 23,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 9,
+      "gas:candidate-vibid:4614037239585": 78,
+      "gas:candidate-vibid:4614037250517": 13,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 244,
+      "gas:candidate-vibid:4614037249700": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 8,
-      "Маслинников Николай Алексеевич": 33,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 18,
-      "Сорокин Михаил Александрович": 83,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 350,
-      "Щербаков Геннадий Венедиктович": 96
+      "gas:candidate-vibid:4614037250679": 8,
+      "gas:candidate-vibid:4614037249721": 33,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 18,
+      "gas:candidate-vibid:4614037239585": 83,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 350,
+      "gas:candidate-vibid:4614037249700": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 25,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 10,
-      "Сорокин Михаил Александрович": 64,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 4,
-      "Щаблыкин Максим Иванович": 477,
-      "Щербаков Геннадий Венедиктович": 57
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 25,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 10,
+      "gas:candidate-vibid:4614037239585": 64,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 4,
+      "gas:candidate-vibid:4614037250235": 477,
+      "gas:candidate-vibid:4614037249700": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455485&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455485&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 42,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 19,
-      "Сорокин Михаил Александрович": 97,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 25,
-      "Щаблыкин Максим Иванович": 291,
-      "Щербаков Геннадий Венедиктович": 167
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 42,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 19,
+      "gas:candidate-vibid:4614037239585": 97,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 25,
+      "gas:candidate-vibid:4614037250235": 291,
+      "gas:candidate-vibid:4614037249700": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 64,
-      "Минин Альфред Альфредович": 10,
-      "Сарабьев Сергей Анатольевич": 37,
-      "Сорокин Михаил Александрович": 109,
-      "Тищенко Александр Алексеевич": 14,
-      "Хугаев Георгий Русланович": 33,
-      "Щаблыкин Максим Иванович": 243,
-      "Щербаков Геннадий Венедиктович": 251
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 64,
+      "gas:candidate-vibid:4614037250480": 10,
+      "gas:candidate-vibid:4614037250654": 37,
+      "gas:candidate-vibid:4614037239585": 109,
+      "gas:candidate-vibid:4614037250517": 14,
+      "gas:candidate-vibid:4614037249193": 33,
+      "gas:candidate-vibid:4614037250235": 243,
+      "gas:candidate-vibid:4614037249700": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 66,
-      "Минин Альфред Альфредович": 9,
-      "Сарабьев Сергей Анатольевич": 51,
-      "Сорокин Михаил Александрович": 142,
-      "Тищенко Александр Алексеевич": 18,
-      "Хугаев Георгий Русланович": 23,
-      "Щаблыкин Максим Иванович": 270,
-      "Щербаков Геннадий Венедиктович": 178
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 66,
+      "gas:candidate-vibid:4614037250480": 9,
+      "gas:candidate-vibid:4614037250654": 51,
+      "gas:candidate-vibid:4614037239585": 142,
+      "gas:candidate-vibid:4614037250517": 18,
+      "gas:candidate-vibid:4614037249193": 23,
+      "gas:candidate-vibid:4614037250235": 270,
+      "gas:candidate-vibid:4614037249700": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 22,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 23,
-      "Сорокин Михаил Александрович": 39,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 8,
-      "Щаблыкин Максим Иванович": 101,
-      "Щербаков Геннадий Венедиктович": 72
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 22,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 23,
+      "gas:candidate-vibid:4614037239585": 39,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 8,
+      "gas:candidate-vibid:4614037250235": 101,
+      "gas:candidate-vibid:4614037249700": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 37,
-      "Минин Альфред Альфредович": 11,
-      "Сарабьев Сергей Анатольевич": 42,
-      "Сорокин Михаил Александрович": 58,
-      "Тищенко Александр Алексеевич": 12,
-      "Хугаев Георгий Русланович": 17,
-      "Щаблыкин Максим Иванович": 230,
-      "Щербаков Геннадий Венедиктович": 110
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 37,
+      "gas:candidate-vibid:4614037250480": 11,
+      "gas:candidate-vibid:4614037250654": 42,
+      "gas:candidate-vibid:4614037239585": 58,
+      "gas:candidate-vibid:4614037250517": 12,
+      "gas:candidate-vibid:4614037249193": 17,
+      "gas:candidate-vibid:4614037250235": 230,
+      "gas:candidate-vibid:4614037249700": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 5,
-      "Маслинников Николай Алексеевич": 42,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 43,
-      "Сорокин Михаил Александрович": 102,
-      "Тищенко Александр Алексеевич": 16,
-      "Хугаев Георгий Русланович": 27,
-      "Щаблыкин Максим Иванович": 216,
-      "Щербаков Геннадий Венедиктович": 164
+      "gas:candidate-vibid:4614037250679": 5,
+      "gas:candidate-vibid:4614037249721": 42,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 43,
+      "gas:candidate-vibid:4614037239585": 102,
+      "gas:candidate-vibid:4614037250517": 16,
+      "gas:candidate-vibid:4614037249193": 27,
+      "gas:candidate-vibid:4614037250235": 216,
+      "gas:candidate-vibid:4614037249700": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 24,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 16,
-      "Сорокин Михаил Александрович": 51,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 10,
-      "Щаблыкин Максим Иванович": 237,
-      "Щербаков Геннадий Венедиктович": 109
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 24,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 16,
+      "gas:candidate-vibid:4614037239585": 51,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 10,
+      "gas:candidate-vibid:4614037250235": 237,
+      "gas:candidate-vibid:4614037249700": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 14,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 14,
-      "Сорокин Михаил Александрович": 55,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 16,
-      "Щаблыкин Максим Иванович": 159,
-      "Щербаков Геннадий Венедиктович": 84
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 14,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 14,
+      "gas:candidate-vibid:4614037239585": 55,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 16,
+      "gas:candidate-vibid:4614037250235": 159,
+      "gas:candidate-vibid:4614037249700": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 43,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 38,
-      "Сорокин Михаил Александрович": 83,
-      "Тищенко Александр Алексеевич": 16,
-      "Хугаев Георгий Русланович": 23,
-      "Щаблыкин Максим Иванович": 261,
-      "Щербаков Геннадий Венедиктович": 186
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 43,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 38,
+      "gas:candidate-vibid:4614037239585": 83,
+      "gas:candidate-vibid:4614037250517": 16,
+      "gas:candidate-vibid:4614037249193": 23,
+      "gas:candidate-vibid:4614037250235": 261,
+      "gas:candidate-vibid:4614037249700": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 34,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 12,
-      "Сорокин Михаил Александрович": 73,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 322,
-      "Щербаков Геннадий Венедиктович": 178
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 34,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 12,
+      "gas:candidate-vibid:4614037239585": 73,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 322,
+      "gas:candidate-vibid:4614037249700": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 8,
-      "Маслинников Николай Алексеевич": 46,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 26,
-      "Сорокин Михаил Александрович": 89,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 339,
-      "Щербаков Геннадий Венедиктович": 145
+      "gas:candidate-vibid:4614037250679": 8,
+      "gas:candidate-vibid:4614037249721": 46,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 26,
+      "gas:candidate-vibid:4614037239585": 89,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 339,
+      "gas:candidate-vibid:4614037249700": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 23,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 18,
-      "Сорокин Михаил Александрович": 65,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 147,
-      "Щербаков Геннадий Венедиктович": 120
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 23,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 18,
+      "gas:candidate-vibid:4614037239585": 65,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 147,
+      "gas:candidate-vibid:4614037249700": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 16,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 11,
-      "Сорокин Михаил Александрович": 29,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 132,
-      "Щербаков Геннадий Венедиктович": 66
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 16,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 11,
+      "gas:candidate-vibid:4614037239585": 29,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 132,
+      "gas:candidate-vibid:4614037249700": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 14,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 5,
-      "Сорокин Михаил Александрович": 36,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 17,
-      "Щаблыкин Максим Иванович": 101,
-      "Щербаков Геннадий Венедиктович": 64
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 14,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 5,
+      "gas:candidate-vibid:4614037239585": 36,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 17,
+      "gas:candidate-vibid:4614037250235": 101,
+      "gas:candidate-vibid:4614037249700": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 27,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 86,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 167,
-      "Щербаков Геннадий Венедиктович": 114
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 27,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 86,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 167,
+      "gas:candidate-vibid:4614037249700": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 43,
-      "Минин Альфред Альфредович": 5,
-      "Сарабьев Сергей Анатольевич": 15,
-      "Сорокин Михаил Александрович": 93,
-      "Тищенко Александр Алексеевич": 15,
-      "Хугаев Георгий Русланович": 28,
-      "Щаблыкин Максим Иванович": 421,
-      "Щербаков Геннадий Венедиктович": 159
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 43,
+      "gas:candidate-vibid:4614037250480": 5,
+      "gas:candidate-vibid:4614037250654": 15,
+      "gas:candidate-vibid:4614037239585": 93,
+      "gas:candidate-vibid:4614037250517": 15,
+      "gas:candidate-vibid:4614037249193": 28,
+      "gas:candidate-vibid:4614037250235": 421,
+      "gas:candidate-vibid:4614037249700": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 6,
-      "Маслинников Николай Алексеевич": 45,
-      "Минин Альфред Альфредович": 10,
-      "Сарабьев Сергей Анатольевич": 30,
-      "Сорокин Михаил Александрович": 107,
-      "Тищенко Александр Алексеевич": 14,
-      "Хугаев Георгий Русланович": 24,
-      "Щаблыкин Максим Иванович": 246,
-      "Щербаков Геннадий Венедиктович": 218
+      "gas:candidate-vibid:4614037250679": 6,
+      "gas:candidate-vibid:4614037249721": 45,
+      "gas:candidate-vibid:4614037250480": 10,
+      "gas:candidate-vibid:4614037250654": 30,
+      "gas:candidate-vibid:4614037239585": 107,
+      "gas:candidate-vibid:4614037250517": 14,
+      "gas:candidate-vibid:4614037249193": 24,
+      "gas:candidate-vibid:4614037250235": 246,
+      "gas:candidate-vibid:4614037249700": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 11,
-      "Маслинников Николай Алексеевич": 57,
-      "Минин Альфред Альфредович": 8,
-      "Сарабьев Сергей Анатольевич": 39,
-      "Сорокин Михаил Александрович": 119,
-      "Тищенко Александр Алексеевич": 21,
-      "Хугаев Георгий Русланович": 28,
-      "Щаблыкин Максим Иванович": 223,
-      "Щербаков Геннадий Венедиктович": 179
+      "gas:candidate-vibid:4614037250679": 11,
+      "gas:candidate-vibid:4614037249721": 57,
+      "gas:candidate-vibid:4614037250480": 8,
+      "gas:candidate-vibid:4614037250654": 39,
+      "gas:candidate-vibid:4614037239585": 119,
+      "gas:candidate-vibid:4614037250517": 21,
+      "gas:candidate-vibid:4614037249193": 28,
+      "gas:candidate-vibid:4614037250235": 223,
+      "gas:candidate-vibid:4614037249700": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 7,
-      "Маслинников Николай Алексеевич": 31,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 12,
-      "Сорокин Михаил Александрович": 68,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 136,
-      "Щербаков Геннадий Венедиктович": 110
+      "gas:candidate-vibid:4614037250679": 7,
+      "gas:candidate-vibid:4614037249721": 31,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 12,
+      "gas:candidate-vibid:4614037239585": 68,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 136,
+      "gas:candidate-vibid:4614037249700": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 22,
-      "Минин Альфред Альфредович": 7,
-      "Сарабьев Сергей Анатольевич": 14,
-      "Сорокин Михаил Александрович": 45,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 104,
-      "Щербаков Геннадий Венедиктович": 65
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 22,
+      "gas:candidate-vibid:4614037250480": 7,
+      "gas:candidate-vibid:4614037250654": 14,
+      "gas:candidate-vibid:4614037239585": 45,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 104,
+      "gas:candidate-vibid:4614037249700": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 8,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 11,
-      "Сорокин Михаил Александрович": 47,
-      "Тищенко Александр Алексеевич": 9,
-      "Хугаев Георгий Русланович": 12,
-      "Щаблыкин Максим Иванович": 61,
-      "Щербаков Геннадий Венедиктович": 48
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 8,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 11,
+      "gas:candidate-vibid:4614037239585": 47,
+      "gas:candidate-vibid:4614037250517": 9,
+      "gas:candidate-vibid:4614037249193": 12,
+      "gas:candidate-vibid:4614037250235": 61,
+      "gas:candidate-vibid:4614037249700": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 12,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 12,
-      "Сорокин Михаил Александрович": 58,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 323,
-      "Щербаков Геннадий Венедиктович": 73
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 12,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 12,
+      "gas:candidate-vibid:4614037239585": 58,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 323,
+      "gas:candidate-vibid:4614037249700": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 18,
-      "Минин Альфред Альфредович": 6,
-      "Сарабьев Сергей Анатольевич": 17,
-      "Сорокин Михаил Александрович": 59,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 24,
-      "Щаблыкин Максим Иванович": 184,
-      "Щербаков Геннадий Венедиктович": 98
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 18,
+      "gas:candidate-vibid:4614037250480": 6,
+      "gas:candidate-vibid:4614037250654": 17,
+      "gas:candidate-vibid:4614037239585": 59,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 24,
+      "gas:candidate-vibid:4614037250235": 184,
+      "gas:candidate-vibid:4614037249700": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 13,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 27,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 98,
-      "Щербаков Геннадий Венедиктович": 56
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 13,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 27,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 98,
+      "gas:candidate-vibid:4614037249700": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 23,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 11,
-      "Сорокин Михаил Александрович": 39,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 15,
-      "Щаблыкин Максим Иванович": 166,
-      "Щербаков Геннадий Венедиктович": 63
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 23,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 11,
+      "gas:candidate-vibid:4614037239585": 39,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 15,
+      "gas:candidate-vibid:4614037250235": 166,
+      "gas:candidate-vibid:4614037249700": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 34,
-      "Минин Альфред Альфредович": 4,
-      "Сарабьев Сергей Анатольевич": 13,
-      "Сорокин Михаил Александрович": 42,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 17,
-      "Щаблыкин Максим Иванович": 110,
-      "Щербаков Геннадий Венедиктович": 78
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 34,
+      "gas:candidate-vibid:4614037250480": 4,
+      "gas:candidate-vibid:4614037250654": 13,
+      "gas:candidate-vibid:4614037239585": 42,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 17,
+      "gas:candidate-vibid:4614037250235": 110,
+      "gas:candidate-vibid:4614037249700": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 15,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 24,
-      "Сорокин Михаил Александрович": 38,
-      "Тищенко Александр Алексеевич": 7,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 84,
-      "Щербаков Геннадий Венедиктович": 78
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 15,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 24,
+      "gas:candidate-vibid:4614037239585": 38,
+      "gas:candidate-vibid:4614037250517": 7,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 84,
+      "gas:candidate-vibid:4614037249700": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 8,
-      "Маслинников Николай Алексеевич": 16,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 11,
-      "Сорокин Михаил Александрович": 48,
-      "Тищенко Александр Алексеевич": 10,
-      "Хугаев Георгий Русланович": 19,
-      "Щаблыкин Максим Иванович": 137,
-      "Щербаков Геннадий Венедиктович": 71
+      "gas:candidate-vibid:4614037250679": 8,
+      "gas:candidate-vibid:4614037249721": 16,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 11,
+      "gas:candidate-vibid:4614037239585": 48,
+      "gas:candidate-vibid:4614037250517": 10,
+      "gas:candidate-vibid:4614037249193": 19,
+      "gas:candidate-vibid:4614037250235": 137,
+      "gas:candidate-vibid:4614037249700": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 0,
-      "Маслинников Николай Алексеевич": 15,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 34,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 7,
-      "Щаблыкин Максим Иванович": 76,
-      "Щербаков Геннадий Венедиктович": 35
+      "gas:candidate-vibid:4614037250679": 0,
+      "gas:candidate-vibid:4614037249721": 15,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 34,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 7,
+      "gas:candidate-vibid:4614037250235": 76,
+      "gas:candidate-vibid:4614037249700": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 17,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 11,
-      "Сорокин Михаил Александрович": 74,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 11,
-      "Щаблыкин Максим Иванович": 129,
-      "Щербаков Геннадий Венедиктович": 77
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 17,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 11,
+      "gas:candidate-vibid:4614037239585": 74,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 11,
+      "gas:candidate-vibid:4614037250235": 129,
+      "gas:candidate-vibid:4614037249700": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 12,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 7,
-      "Сорокин Михаил Александрович": 36,
-      "Тищенко Александр Алексеевич": 6,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 78,
-      "Щербаков Геннадий Венедиктович": 61
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 12,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 7,
+      "gas:candidate-vibid:4614037239585": 36,
+      "gas:candidate-vibid:4614037250517": 6,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 78,
+      "gas:candidate-vibid:4614037249700": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 20,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 12,
-      "Сорокин Михаил Александрович": 53,
-      "Тищенко Александр Алексеевич": 8,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 195,
-      "Щербаков Геннадий Венедиктович": 112
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 20,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 12,
+      "gas:candidate-vibid:4614037239585": 53,
+      "gas:candidate-vibid:4614037250517": 8,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 195,
+      "gas:candidate-vibid:4614037249700": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 2,
-      "Маслинников Николай Алексеевич": 16,
-      "Минин Альфред Альфредович": 3,
-      "Сарабьев Сергей Анатольевич": 14,
-      "Сорокин Михаил Александрович": 29,
-      "Тищенко Александр Алексеевич": 3,
-      "Хугаев Георгий Русланович": 10,
-      "Щаблыкин Максим Иванович": 162,
-      "Щербаков Геннадий Венедиктович": 67
+      "gas:candidate-vibid:4614037250679": 2,
+      "gas:candidate-vibid:4614037249721": 16,
+      "gas:candidate-vibid:4614037250480": 3,
+      "gas:candidate-vibid:4614037250654": 14,
+      "gas:candidate-vibid:4614037239585": 29,
+      "gas:candidate-vibid:4614037250517": 3,
+      "gas:candidate-vibid:4614037249193": 10,
+      "gas:candidate-vibid:4614037250235": 162,
+      "gas:candidate-vibid:4614037249700": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 1,
-      "Маслинников Николай Алексеевич": 6,
-      "Минин Альфред Альфредович": 1,
-      "Сарабьев Сергей Анатольевич": 3,
-      "Сорокин Михаил Александрович": 8,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 2,
-      "Щаблыкин Максим Иванович": 29,
-      "Щербаков Геннадий Венедиктович": 34
+      "gas:candidate-vibid:4614037250679": 1,
+      "gas:candidate-vibid:4614037249721": 6,
+      "gas:candidate-vibid:4614037250480": 1,
+      "gas:candidate-vibid:4614037250654": 3,
+      "gas:candidate-vibid:4614037239585": 8,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 2,
+      "gas:candidate-vibid:4614037250235": 29,
+      "gas:candidate-vibid:4614037249700": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 6,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 6,
-      "Сорокин Михаил Александрович": 27,
-      "Тищенко Александр Алексеевич": 5,
-      "Хугаев Георгий Русланович": 9,
-      "Щаблыкин Максим Иванович": 121,
-      "Щербаков Геннадий Венедиктович": 79
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 6,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 6,
+      "gas:candidate-vibid:4614037239585": 27,
+      "gas:candidate-vibid:4614037250517": 5,
+      "gas:candidate-vibid:4614037249193": 9,
+      "gas:candidate-vibid:4614037250235": 121,
+      "gas:candidate-vibid:4614037249700": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 3,
-      "Маслинников Николай Алексеевич": 21,
-      "Минин Альфред Альфредович": 0,
-      "Сарабьев Сергей Анатольевич": 2,
-      "Сорокин Михаил Александрович": 52,
-      "Тищенко Александр Алексеевич": 2,
-      "Хугаев Георгий Русланович": 21,
-      "Щаблыкин Максим Иванович": 148,
-      "Щербаков Геннадий Венедиктович": 109
+      "gas:candidate-vibid:4614037250679": 3,
+      "gas:candidate-vibid:4614037249721": 21,
+      "gas:candidate-vibid:4614037250480": 0,
+      "gas:candidate-vibid:4614037250654": 2,
+      "gas:candidate-vibid:4614037239585": 52,
+      "gas:candidate-vibid:4614037250517": 2,
+      "gas:candidate-vibid:4614037249193": 21,
+      "gas:candidate-vibid:4614037250235": 148,
+      "gas:candidate-vibid:4614037249700": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анипко Сергей Викторович": 4,
-      "Маслинников Николай Алексеевич": 17,
-      "Минин Альфред Альфредович": 2,
-      "Сарабьев Сергей Анатольевич": 16,
-      "Сорокин Михаил Александрович": 37,
-      "Тищенко Александр Алексеевич": 4,
-      "Хугаев Георгий Русланович": 13,
-      "Щаблыкин Максим Иванович": 114,
-      "Щербаков Геннадий Венедиктович": 90
+      "gas:candidate-vibid:4614037250679": 4,
+      "gas:candidate-vibid:4614037249721": 17,
+      "gas:candidate-vibid:4614037250480": 2,
+      "gas:candidate-vibid:4614037250654": 16,
+      "gas:candidate-vibid:4614037239585": 37,
+      "gas:candidate-vibid:4614037250517": 4,
+      "gas:candidate-vibid:4614037249193": 13,
+      "gas:candidate-vibid:4614037250235": 114,
+      "gas:candidate-vibid:4614037249700": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000203&tvd=26120001455486&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455486&type=464",
@@ -10663,14 +10663,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 148,
-      "Дерябкин Виктор Ефимович": 235,
-      "Кошельников Юрий Викторович": 19,
-      "Лютов Алексей Павлович": 24,
-      "Малыхин Сергей Викторович": 67,
-      "Пахолков Олег Владимирович": 207,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 22
+      "gas:candidate-vibid:4614057216263": 148,
+      "gas:candidate-vibid:4614057216679": 235,
+      "gas:candidate-vibid:4614057218528": 19,
+      "gas:candidate-vibid:4614057219054": 24,
+      "gas:candidate-vibid:4614057215977": 67,
+      "gas:candidate-vibid:4614057216667": 207,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -10721,14 +10721,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 151,
-      "Дерябкин Виктор Ефимович": 257,
-      "Кошельников Юрий Викторович": 15,
-      "Лютов Алексей Павлович": 19,
-      "Малыхин Сергей Викторович": 64,
-      "Пахолков Олег Владимирович": 263,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 18
+      "gas:candidate-vibid:4614057216263": 151,
+      "gas:candidate-vibid:4614057216679": 257,
+      "gas:candidate-vibid:4614057218528": 15,
+      "gas:candidate-vibid:4614057219054": 19,
+      "gas:candidate-vibid:4614057215977": 64,
+      "gas:candidate-vibid:4614057216667": 263,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -10779,14 +10779,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 63,
-      "Дерябкин Виктор Ефимович": 158,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 13,
-      "Малыхин Сергей Викторович": 40,
-      "Пахолков Олег Владимирович": 93,
-      "Степаненко Вячеслав Геннадьевич": 9,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 63,
+      "gas:candidate-vibid:4614057216679": 158,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 13,
+      "gas:candidate-vibid:4614057215977": 40,
+      "gas:candidate-vibid:4614057216667": 93,
+      "gas:candidate-vibid:4614057218699": 9,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -10837,14 +10837,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 74,
-      "Дерябкин Виктор Ефимович": 151,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 11,
-      "Малыхин Сергей Викторович": 50,
-      "Пахолков Олег Владимирович": 89,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 74,
+      "gas:candidate-vibid:4614057216679": 151,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 11,
+      "gas:candidate-vibid:4614057215977": 50,
+      "gas:candidate-vibid:4614057216667": 89,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -10895,14 +10895,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 110,
-      "Дерябкин Виктор Ефимович": 307,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 1,
-      "Малыхин Сергей Викторович": 87,
-      "Пахолков Олег Владимирович": 177,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 2
+      "gas:candidate-vibid:4614057216263": 110,
+      "gas:candidate-vibid:4614057216679": 307,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 1,
+      "gas:candidate-vibid:4614057215977": 87,
+      "gas:candidate-vibid:4614057216667": 177,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -10953,14 +10953,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 156,
-      "Дерябкин Виктор Ефимович": 187,
-      "Кошельников Юрий Викторович": 12,
-      "Лютов Алексей Павлович": 11,
-      "Малыхин Сергей Викторович": 48,
-      "Пахолков Олег Владимирович": 170,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 156,
+      "gas:candidate-vibid:4614057216679": 187,
+      "gas:candidate-vibid:4614057218528": 12,
+      "gas:candidate-vibid:4614057219054": 11,
+      "gas:candidate-vibid:4614057215977": 48,
+      "gas:candidate-vibid:4614057216667": 170,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11011,14 +11011,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 115,
-      "Дерябкин Виктор Ефимович": 187,
-      "Кошельников Юрий Викторович": 9,
-      "Лютов Алексей Павлович": 20,
-      "Малыхин Сергей Викторович": 62,
-      "Пахолков Олег Владимирович": 134,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 115,
+      "gas:candidate-vibid:4614057216679": 187,
+      "gas:candidate-vibid:4614057218528": 9,
+      "gas:candidate-vibid:4614057219054": 20,
+      "gas:candidate-vibid:4614057215977": 62,
+      "gas:candidate-vibid:4614057216667": 134,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11069,14 +11069,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 88,
-      "Дерябкин Виктор Ефимович": 182,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 17,
-      "Малыхин Сергей Викторович": 64,
-      "Пахолков Олег Владимирович": 146,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 88,
+      "gas:candidate-vibid:4614057216679": 182,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 17,
+      "gas:candidate-vibid:4614057215977": 64,
+      "gas:candidate-vibid:4614057216667": 146,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11127,14 +11127,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 34,
-      "Дерябкин Виктор Ефимович": 75,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 21,
-      "Пахолков Олег Владимирович": 56,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 34,
+      "gas:candidate-vibid:4614057216679": 75,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 21,
+      "gas:candidate-vibid:4614057216667": 56,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11185,14 +11185,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 26,
-      "Дерябкин Виктор Ефимович": 67,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 27,
-      "Пахолков Олег Владимирович": 55,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 2
+      "gas:candidate-vibid:4614057216263": 26,
+      "gas:candidate-vibid:4614057216679": 67,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 27,
+      "gas:candidate-vibid:4614057216667": 55,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11243,14 +11243,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 29,
-      "Дерябкин Виктор Ефимович": 135,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 12,
-      "Малыхин Сергей Викторович": 37,
-      "Пахолков Олег Владимирович": 125,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 29,
+      "gas:candidate-vibid:4614057216679": 135,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 12,
+      "gas:candidate-vibid:4614057215977": 37,
+      "gas:candidate-vibid:4614057216667": 125,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11301,14 +11301,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 17,
-      "Дерябкин Виктор Ефимович": 83,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 59,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 17,
+      "gas:candidate-vibid:4614057216679": 83,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 59,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11359,14 +11359,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 11,
-      "Дерябкин Виктор Ефимович": 63,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 46,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 11,
+      "gas:candidate-vibid:4614057216679": 63,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 46,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11417,14 +11417,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 153,
-      "Дерябкин Виктор Ефимович": 329,
-      "Кошельников Юрий Викторович": 14,
-      "Лютов Алексей Павлович": 16,
-      "Малыхин Сергей Викторович": 91,
-      "Пахолков Олег Владимирович": 193,
-      "Степаненко Вячеслав Геннадьевич": 9,
-      "Яценко Роман Михайлович": 26
+      "gas:candidate-vibid:4614057216263": 153,
+      "gas:candidate-vibid:4614057216679": 329,
+      "gas:candidate-vibid:4614057218528": 14,
+      "gas:candidate-vibid:4614057219054": 16,
+      "gas:candidate-vibid:4614057215977": 91,
+      "gas:candidate-vibid:4614057216667": 193,
+      "gas:candidate-vibid:4614057218699": 9,
+      "gas:candidate-vibid:4614057218740": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11475,14 +11475,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 121,
-      "Дерябкин Виктор Ефимович": 252,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 30,
-      "Малыхин Сергей Викторович": 71,
-      "Пахолков Олег Владимирович": 181,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 19
+      "gas:candidate-vibid:4614057216263": 121,
+      "gas:candidate-vibid:4614057216679": 252,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 30,
+      "gas:candidate-vibid:4614057215977": 71,
+      "gas:candidate-vibid:4614057216667": 181,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11533,14 +11533,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 12,
-      "Дерябкин Виктор Ефимович": 90,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 14,
-      "Пахолков Олег Владимирович": 87,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 12,
+      "gas:candidate-vibid:4614057216679": 90,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 14,
+      "gas:candidate-vibid:4614057216667": 87,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11591,14 +11591,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 23,
-      "Дерябкин Виктор Ефимович": 59,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 17,
-      "Пахолков Олег Владимирович": 71,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 23,
+      "gas:candidate-vibid:4614057216679": 59,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 17,
+      "gas:candidate-vibid:4614057216667": 71,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11649,14 +11649,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 69,
-      "Дерябкин Виктор Ефимович": 217,
-      "Кошельников Юрий Викторович": 8,
-      "Лютов Алексей Павлович": 14,
-      "Малыхин Сергей Викторович": 48,
-      "Пахолков Олег Владимирович": 141,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 17
+      "gas:candidate-vibid:4614057216263": 69,
+      "gas:candidate-vibid:4614057216679": 217,
+      "gas:candidate-vibid:4614057218528": 8,
+      "gas:candidate-vibid:4614057219054": 14,
+      "gas:candidate-vibid:4614057215977": 48,
+      "gas:candidate-vibid:4614057216667": 141,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11707,14 +11707,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 12,
-      "Дерябкин Виктор Ефимович": 58,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 17,
-      "Пахолков Олег Владимирович": 53,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 12,
+      "gas:candidate-vibid:4614057216679": 58,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 17,
+      "gas:candidate-vibid:4614057216667": 53,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11765,14 +11765,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 8,
-      "Дерябкин Виктор Ефимович": 36,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 0,
-      "Малыхин Сергей Викторович": 8,
-      "Пахолков Олег Владимирович": 24,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 8,
+      "gas:candidate-vibid:4614057216679": 36,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 0,
+      "gas:candidate-vibid:4614057215977": 8,
+      "gas:candidate-vibid:4614057216667": 24,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11823,14 +11823,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 20,
-      "Дерябкин Виктор Ефимович": 124,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 18,
-      "Пахолков Олег Владимирович": 93,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 20,
+      "gas:candidate-vibid:4614057216679": 124,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 18,
+      "gas:candidate-vibid:4614057216667": 93,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11881,14 +11881,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 14,
-      "Дерябкин Виктор Ефимович": 23,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 4,
-      "Пахолков Олег Владимирович": 21,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 14,
+      "gas:candidate-vibid:4614057216679": 23,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 4,
+      "gas:candidate-vibid:4614057216667": 21,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11939,14 +11939,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 15,
-      "Дерябкин Виктор Ефимович": 32,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 6,
-      "Пахолков Олег Владимирович": 35,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 0
+      "gas:candidate-vibid:4614057216263": 15,
+      "gas:candidate-vibid:4614057216679": 32,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 6,
+      "gas:candidate-vibid:4614057216667": 35,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -11997,14 +11997,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 38,
-      "Дерябкин Виктор Ефимович": 123,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 85,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 38,
+      "gas:candidate-vibid:4614057216679": 123,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 85,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12055,14 +12055,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 38,
-      "Дерябкин Виктор Ефимович": 150,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 18,
-      "Пахолков Олег Владимирович": 126,
-      "Степаненко Вячеслав Геннадьевич": 3,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 38,
+      "gas:candidate-vibid:4614057216679": 150,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 18,
+      "gas:candidate-vibid:4614057216667": 126,
+      "gas:candidate-vibid:4614057218699": 3,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12113,14 +12113,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 23,
-      "Дерябкин Виктор Ефимович": 52,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 10,
-      "Пахолков Олег Владимирович": 38,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 23,
+      "gas:candidate-vibid:4614057216679": 52,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 10,
+      "gas:candidate-vibid:4614057216667": 38,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12171,14 +12171,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 15,
-      "Дерябкин Виктор Ефимович": 30,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 0,
-      "Малыхин Сергей Викторович": 5,
-      "Пахолков Олег Владимирович": 35,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 2
+      "gas:candidate-vibid:4614057216263": 15,
+      "gas:candidate-vibid:4614057216679": 30,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 0,
+      "gas:candidate-vibid:4614057215977": 5,
+      "gas:candidate-vibid:4614057216667": 35,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12229,14 +12229,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 47,
-      "Дерябкин Виктор Ефимович": 206,
-      "Кошельников Юрий Викторович": 6,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 38,
-      "Пахолков Олег Владимирович": 159,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 14
+      "gas:candidate-vibid:4614057216263": 47,
+      "gas:candidate-vibid:4614057216679": 206,
+      "gas:candidate-vibid:4614057218528": 6,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 38,
+      "gas:candidate-vibid:4614057216667": 159,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12287,14 +12287,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 19,
-      "Дерябкин Виктор Ефимович": 62,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 10,
-      "Пахолков Олег Владимирович": 49,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 9
+      "gas:candidate-vibid:4614057216263": 19,
+      "gas:candidate-vibid:4614057216679": 62,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 10,
+      "gas:candidate-vibid:4614057216667": 49,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12345,14 +12345,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 54,
-      "Дерябкин Виктор Ефимович": 211,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 46,
-      "Пахолков Олег Владимирович": 173,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 54,
+      "gas:candidate-vibid:4614057216679": 211,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 46,
+      "gas:candidate-vibid:4614057216667": 173,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12403,14 +12403,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 20,
-      "Дерябкин Виктор Ефимович": 77,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 15,
-      "Пахолков Олег Владимирович": 43,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 20,
+      "gas:candidate-vibid:4614057216679": 77,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 15,
+      "gas:candidate-vibid:4614057216667": 43,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455487&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455487&type=464",
@@ -12461,14 +12461,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 10,
-      "Дерябкин Виктор Ефимович": 120,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 9,
-      "Пахолков Олег Владимирович": 11,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 0
+      "gas:candidate-vibid:4614057216263": 10,
+      "gas:candidate-vibid:4614057216679": 120,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 9,
+      "gas:candidate-vibid:4614057216667": 11,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12519,14 +12519,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 18,
-      "Дерябкин Виктор Ефимович": 127,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 7,
-      "Малыхин Сергей Викторович": 26,
-      "Пахолков Олег Владимирович": 21,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 18,
+      "gas:candidate-vibid:4614057216679": 127,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 7,
+      "gas:candidate-vibid:4614057215977": 26,
+      "gas:candidate-vibid:4614057216667": 21,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12577,14 +12577,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 39,
-      "Дерябкин Виктор Ефимович": 600,
-      "Кошельников Юрий Викторович": 9,
-      "Лютов Алексей Павлович": 11,
-      "Малыхин Сергей Викторович": 47,
-      "Пахолков Олег Владимирович": 38,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 13
+      "gas:candidate-vibid:4614057216263": 39,
+      "gas:candidate-vibid:4614057216679": 600,
+      "gas:candidate-vibid:4614057218528": 9,
+      "gas:candidate-vibid:4614057219054": 11,
+      "gas:candidate-vibid:4614057215977": 47,
+      "gas:candidate-vibid:4614057216667": 38,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12635,14 +12635,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 59,
-      "Дерябкин Виктор Ефимович": 739,
-      "Кошельников Юрий Викторович": 17,
-      "Лютов Алексей Павлович": 28,
-      "Малыхин Сергей Викторович": 74,
-      "Пахолков Олег Владимирович": 45,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 59,
+      "gas:candidate-vibid:4614057216679": 739,
+      "gas:candidate-vibid:4614057218528": 17,
+      "gas:candidate-vibid:4614057219054": 28,
+      "gas:candidate-vibid:4614057215977": 74,
+      "gas:candidate-vibid:4614057216667": 45,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12693,14 +12693,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 54,
-      "Дерябкин Виктор Ефимович": 377,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 24,
-      "Малыхин Сергей Викторович": 32,
-      "Пахолков Олег Владимирович": 25,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 14
+      "gas:candidate-vibid:4614057216263": 54,
+      "gas:candidate-vibid:4614057216679": 377,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 24,
+      "gas:candidate-vibid:4614057215977": 32,
+      "gas:candidate-vibid:4614057216667": 25,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12751,14 +12751,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 27,
-      "Дерябкин Виктор Ефимович": 223,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 8,
-      "Малыхин Сергей Викторович": 37,
-      "Пахолков Олег Владимирович": 14,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 13
+      "gas:candidate-vibid:4614057216263": 27,
+      "gas:candidate-vibid:4614057216679": 223,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 8,
+      "gas:candidate-vibid:4614057215977": 37,
+      "gas:candidate-vibid:4614057216667": 14,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12809,14 +12809,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 14,
-      "Дерябкин Виктор Ефимович": 156,
-      "Кошельников Юрий Викторович": 2,
-      "Лютов Алексей Павлович": 12,
-      "Малыхин Сергей Викторович": 14,
-      "Пахолков Олег Владимирович": 21,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 14,
+      "gas:candidate-vibid:4614057216679": 156,
+      "gas:candidate-vibid:4614057218528": 2,
+      "gas:candidate-vibid:4614057219054": 12,
+      "gas:candidate-vibid:4614057215977": 14,
+      "gas:candidate-vibid:4614057216667": 21,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12867,14 +12867,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 6,
-      "Дерябкин Виктор Ефимович": 230,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 9,
-      "Пахолков Олег Владимирович": 10,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 0
+      "gas:candidate-vibid:4614057216263": 6,
+      "gas:candidate-vibid:4614057216679": 230,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 9,
+      "gas:candidate-vibid:4614057216667": 10,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12925,14 +12925,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 15,
-      "Дерябкин Виктор Ефимович": 131,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 0,
-      "Малыхин Сергей Викторович": 11,
-      "Пахолков Олег Владимирович": 12,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 15,
+      "gas:candidate-vibid:4614057216679": 131,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 0,
+      "gas:candidate-vibid:4614057215977": 11,
+      "gas:candidate-vibid:4614057216667": 12,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -12983,14 +12983,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 8,
-      "Дерябкин Виктор Ефимович": 125,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 2,
-      "Пахолков Олег Владимирович": 11,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 8,
+      "gas:candidate-vibid:4614057216679": 125,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 2,
+      "gas:candidate-vibid:4614057216667": 11,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13041,14 +13041,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 35,
-      "Дерябкин Виктор Ефимович": 426,
-      "Кошельников Юрий Викторович": 3,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 57,
-      "Пахолков Олег Владимирович": 39,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 7
+      "gas:candidate-vibid:4614057216263": 35,
+      "gas:candidate-vibid:4614057216679": 426,
+      "gas:candidate-vibid:4614057218528": 3,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 57,
+      "gas:candidate-vibid:4614057216667": 39,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13099,14 +13099,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 12,
-      "Дерябкин Виктор Ефимович": 125,
-      "Кошельников Юрий Викторович": 1,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 13,
-      "Пахолков Олег Владимирович": 11,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 3
+      "gas:candidate-vibid:4614057216263": 12,
+      "gas:candidate-vibid:4614057216679": 125,
+      "gas:candidate-vibid:4614057218528": 1,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 13,
+      "gas:candidate-vibid:4614057216667": 11,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13157,14 +13157,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 153,
-      "Дерябкин Виктор Ефимович": 831,
-      "Кошельников Юрий Викторович": 24,
-      "Лютов Алексей Павлович": 33,
-      "Малыхин Сергей Викторович": 112,
-      "Пахолков Олег Владимирович": 157,
-      "Степаненко Вячеслав Геннадьевич": 24,
-      "Яценко Роман Михайлович": 38
+      "gas:candidate-vibid:4614057216263": 153,
+      "gas:candidate-vibid:4614057216679": 831,
+      "gas:candidate-vibid:4614057218528": 24,
+      "gas:candidate-vibid:4614057219054": 33,
+      "gas:candidate-vibid:4614057215977": 112,
+      "gas:candidate-vibid:4614057216667": 157,
+      "gas:candidate-vibid:4614057218699": 24,
+      "gas:candidate-vibid:4614057218740": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13215,14 +13215,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 198,
-      "Дерябкин Виктор Ефимович": 702,
-      "Кошельников Юрий Викторович": 15,
-      "Лютов Алексей Павлович": 38,
-      "Малыхин Сергей Викторович": 113,
-      "Пахолков Олег Владимирович": 167,
-      "Степаненко Вячеслав Геннадьевич": 14,
-      "Яценко Роман Михайлович": 28
+      "gas:candidate-vibid:4614057216263": 198,
+      "gas:candidate-vibid:4614057216679": 702,
+      "gas:candidate-vibid:4614057218528": 15,
+      "gas:candidate-vibid:4614057219054": 38,
+      "gas:candidate-vibid:4614057215977": 113,
+      "gas:candidate-vibid:4614057216667": 167,
+      "gas:candidate-vibid:4614057218699": 14,
+      "gas:candidate-vibid:4614057218740": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13273,14 +13273,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 162,
-      "Дерябкин Виктор Ефимович": 721,
-      "Кошельников Юрий Викторович": 21,
-      "Лютов Алексей Павлович": 26,
-      "Малыхин Сергей Викторович": 130,
-      "Пахолков Олег Владимирович": 187,
-      "Степаненко Вячеслав Геннадьевич": 16,
-      "Яценко Роман Михайлович": 43
+      "gas:candidate-vibid:4614057216263": 162,
+      "gas:candidate-vibid:4614057216679": 721,
+      "gas:candidate-vibid:4614057218528": 21,
+      "gas:candidate-vibid:4614057219054": 26,
+      "gas:candidate-vibid:4614057215977": 130,
+      "gas:candidate-vibid:4614057216667": 187,
+      "gas:candidate-vibid:4614057218699": 16,
+      "gas:candidate-vibid:4614057218740": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13331,14 +13331,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 86,
-      "Дерябкин Виктор Ефимович": 304,
-      "Кошельников Юрий Викторович": 7,
-      "Лютов Алексей Павлович": 12,
-      "Малыхин Сергей Викторович": 92,
-      "Пахолков Олег Владимирович": 142,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 25
+      "gas:candidate-vibid:4614057216263": 86,
+      "gas:candidate-vibid:4614057216679": 304,
+      "gas:candidate-vibid:4614057218528": 7,
+      "gas:candidate-vibid:4614057219054": 12,
+      "gas:candidate-vibid:4614057215977": 92,
+      "gas:candidate-vibid:4614057216667": 142,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13389,14 +13389,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 70,
-      "Дерябкин Виктор Ефимович": 345,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 9,
-      "Малыхин Сергей Викторович": 49,
-      "Пахолков Олег Владимирович": 54,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 70,
+      "gas:candidate-vibid:4614057216679": 345,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 9,
+      "gas:candidate-vibid:4614057215977": 49,
+      "gas:candidate-vibid:4614057216667": 54,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13447,14 +13447,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 14,
-      "Дерябкин Виктор Ефимович": 189,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 3,
-      "Малыхин Сергей Викторович": 19,
-      "Пахолков Олег Владимирович": 21,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 14,
+      "gas:candidate-vibid:4614057216679": 189,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 3,
+      "gas:candidate-vibid:4614057215977": 19,
+      "gas:candidate-vibid:4614057216667": 21,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13505,14 +13505,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 42,
-      "Дерябкин Виктор Ефимович": 206,
-      "Кошельников Юрий Викторович": 4,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 30,
-      "Пахолков Олег Владимирович": 32,
-      "Степаненко Вячеслав Геннадьевич": 2,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 42,
+      "gas:candidate-vibid:4614057216679": 206,
+      "gas:candidate-vibid:4614057218528": 4,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 30,
+      "gas:candidate-vibid:4614057216667": 32,
+      "gas:candidate-vibid:4614057218699": 2,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13563,14 +13563,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 31,
-      "Дерябкин Виктор Ефимович": 290,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 34,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 0
+      "gas:candidate-vibid:4614057216263": 31,
+      "gas:candidate-vibid:4614057216679": 290,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 34,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13621,14 +13621,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 15,
-      "Дерябкин Виктор Ефимович": 200,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 22,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 15,
+      "gas:candidate-vibid:4614057216679": 200,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 22,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13679,14 +13679,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 20,
-      "Дерябкин Виктор Ефимович": 439,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 12,
-      "Пахолков Олег Владимирович": 19,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 6
+      "gas:candidate-vibid:4614057216263": 20,
+      "gas:candidate-vibid:4614057216679": 439,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 12,
+      "gas:candidate-vibid:4614057216667": 19,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13737,14 +13737,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 6,
-      "Дерябкин Виктор Ефимович": 293,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 12,
-      "Малыхин Сергей Викторович": 10,
-      "Пахолков Олег Владимирович": 6,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 8
+      "gas:candidate-vibid:4614057216263": 6,
+      "gas:candidate-vibid:4614057216679": 293,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 12,
+      "gas:candidate-vibid:4614057215977": 10,
+      "gas:candidate-vibid:4614057216667": 6,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13795,14 +13795,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 15,
-      "Дерябкин Виктор Ефимович": 179,
-      "Кошельников Юрий Викторович": 5,
-      "Лютов Алексей Павлович": 2,
-      "Малыхин Сергей Викторович": 16,
-      "Пахолков Олег Владимирович": 11,
-      "Степаненко Вячеслав Геннадьевич": 1,
-      "Яценко Роман Михайлович": 5
+      "gas:candidate-vibid:4614057216263": 15,
+      "gas:candidate-vibid:4614057216679": 179,
+      "gas:candidate-vibid:4614057218528": 5,
+      "gas:candidate-vibid:4614057219054": 2,
+      "gas:candidate-vibid:4614057215977": 16,
+      "gas:candidate-vibid:4614057216667": 11,
+      "gas:candidate-vibid:4614057218699": 1,
+      "gas:candidate-vibid:4614057218740": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13853,14 +13853,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 4,
-      "Дерябкин Виктор Ефимович": 360,
-      "Кошельников Юрий Викторович": 0,
-      "Лютов Алексей Павлович": 1,
-      "Малыхин Сергей Викторович": 0,
-      "Пахолков Олег Владимирович": 11,
-      "Степаненко Вячеслав Геннадьевич": 0,
-      "Яценко Роман Михайлович": 0
+      "gas:candidate-vibid:4614057216263": 4,
+      "gas:candidate-vibid:4614057216679": 360,
+      "gas:candidate-vibid:4614057218528": 0,
+      "gas:candidate-vibid:4614057219054": 1,
+      "gas:candidate-vibid:4614057215977": 0,
+      "gas:candidate-vibid:4614057216667": 11,
+      "gas:candidate-vibid:4614057218699": 0,
+      "gas:candidate-vibid:4614057218740": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13911,14 +13911,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 87,
-      "Дерябкин Виктор Ефимович": 366,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 12,
-      "Малыхин Сергей Викторович": 19,
-      "Пахолков Олег Владимирович": 40,
-      "Степаненко Вячеслав Геннадьевич": 12,
-      "Яценко Роман Михайлович": 11
+      "gas:candidate-vibid:4614057216263": 87,
+      "gas:candidate-vibid:4614057216679": 366,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 12,
+      "gas:candidate-vibid:4614057215977": 19,
+      "gas:candidate-vibid:4614057216667": 40,
+      "gas:candidate-vibid:4614057218699": 12,
+      "gas:candidate-vibid:4614057218740": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -13969,14 +13969,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 6,
-      "Дерябкин Виктор Ефимович": 117,
-      "Кошельников Юрий Викторович": 22,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 10,
-      "Пахолков Олег Владимирович": 23,
-      "Степаненко Вячеслав Геннадьевич": 16,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 6,
+      "gas:candidate-vibid:4614057216679": 117,
+      "gas:candidate-vibid:4614057218528": 22,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 10,
+      "gas:candidate-vibid:4614057216667": 23,
+      "gas:candidate-vibid:4614057218699": 16,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -14027,14 +14027,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 30,
-      "Дерябкин Виктор Ефимович": 112,
-      "Кошельников Юрий Викторович": 32,
-      "Лютов Алексей Павлович": 7,
-      "Малыхин Сергей Викторович": 27,
-      "Пахолков Олег Владимирович": 22,
-      "Степаненко Вячеслав Геннадьевич": 22,
-      "Яценко Роман Михайлович": 4
+      "gas:candidate-vibid:4614057216263": 30,
+      "gas:candidate-vibid:4614057216679": 112,
+      "gas:candidate-vibid:4614057218528": 32,
+      "gas:candidate-vibid:4614057219054": 7,
+      "gas:candidate-vibid:4614057215977": 27,
+      "gas:candidate-vibid:4614057216667": 22,
+      "gas:candidate-vibid:4614057218699": 22,
+      "gas:candidate-vibid:4614057218740": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -14085,14 +14085,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 15,
-      "Дерябкин Виктор Ефимович": 82,
-      "Кошельников Юрий Викторович": 62,
-      "Лютов Алексей Павлович": 5,
-      "Малыхин Сергей Викторович": 7,
-      "Пахолков Олег Владимирович": 16,
-      "Степаненко Вячеслав Геннадьевич": 29,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 15,
+      "gas:candidate-vibid:4614057216679": 82,
+      "gas:candidate-vibid:4614057218528": 62,
+      "gas:candidate-vibid:4614057219054": 5,
+      "gas:candidate-vibid:4614057215977": 7,
+      "gas:candidate-vibid:4614057216667": 16,
+      "gas:candidate-vibid:4614057218699": 29,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -14143,14 +14143,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 5,
-      "Дерябкин Виктор Ефимович": 32,
-      "Кошельников Юрий Викторович": 10,
-      "Лютов Алексей Павлович": 4,
-      "Малыхин Сергей Викторович": 9,
-      "Пахолков Олег Владимирович": 7,
-      "Степаненко Вячеслав Геннадьевич": 4,
-      "Яценко Роман Михайлович": 1
+      "gas:candidate-vibid:4614057216263": 5,
+      "gas:candidate-vibid:4614057216679": 32,
+      "gas:candidate-vibid:4614057218528": 10,
+      "gas:candidate-vibid:4614057219054": 4,
+      "gas:candidate-vibid:4614057215977": 9,
+      "gas:candidate-vibid:4614057216667": 7,
+      "gas:candidate-vibid:4614057218699": 4,
+      "gas:candidate-vibid:4614057218740": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -14201,14 +14201,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 76,
-      "Дерябкин Виктор Ефимович": 340,
-      "Кошельников Юрий Викторович": 25,
-      "Лютов Алексей Павлович": 25,
-      "Малыхин Сергей Викторович": 35,
-      "Пахолков Олег Владимирович": 20,
-      "Степаненко Вячеслав Геннадьевич": 9,
-      "Яценко Роман Михайлович": 13
+      "gas:candidate-vibid:4614057216263": 76,
+      "gas:candidate-vibid:4614057216679": 340,
+      "gas:candidate-vibid:4614057218528": 25,
+      "gas:candidate-vibid:4614057219054": 25,
+      "gas:candidate-vibid:4614057215977": 35,
+      "gas:candidate-vibid:4614057216667": 20,
+      "gas:candidate-vibid:4614057218699": 9,
+      "gas:candidate-vibid:4614057218740": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455488&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455488&type=464",
@@ -14259,14 +14259,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 30,
-      "Дерябкин Виктор Ефимович": 261,
-      "Кошельников Юрий Викторович": 8,
-      "Лютов Алексей Павлович": 10,
-      "Малыхин Сергей Викторович": 26,
-      "Пахолков Олег Владимирович": 36,
-      "Степаненко Вячеслав Геннадьевич": 6,
-      "Яценко Роман Михайлович": 10
+      "gas:candidate-vibid:4614057216263": 30,
+      "gas:candidate-vibid:4614057216679": 261,
+      "gas:candidate-vibid:4614057218528": 8,
+      "gas:candidate-vibid:4614057219054": 10,
+      "gas:candidate-vibid:4614057215977": 26,
+      "gas:candidate-vibid:4614057216667": 36,
+      "gas:candidate-vibid:4614057218699": 6,
+      "gas:candidate-vibid:4614057218740": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",
@@ -14317,14 +14317,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 82,
-      "Дерябкин Виктор Ефимович": 195,
-      "Кошельников Юрий Викторович": 11,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 75,
-      "Пахолков Олег Владимирович": 76,
-      "Степаненко Вячеслав Геннадьевич": 7,
-      "Яценко Роман Михайлович": 21
+      "gas:candidate-vibid:4614057216263": 82,
+      "gas:candidate-vibid:4614057216679": 195,
+      "gas:candidate-vibid:4614057218528": 11,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 75,
+      "gas:candidate-vibid:4614057216667": 76,
+      "gas:candidate-vibid:4614057218699": 7,
+      "gas:candidate-vibid:4614057218740": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",
@@ -14375,14 +14375,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 145,
-      "Дерябкин Виктор Ефимович": 392,
-      "Кошельников Юрий Викторович": 19,
-      "Лютов Алексей Павлович": 23,
-      "Малыхин Сергей Викторович": 156,
-      "Пахолков Олег Владимирович": 132,
-      "Степаненко Вячеслав Геннадьевич": 10,
-      "Яценко Роман Михайлович": 29
+      "gas:candidate-vibid:4614057216263": 145,
+      "gas:candidate-vibid:4614057216679": 392,
+      "gas:candidate-vibid:4614057218528": 19,
+      "gas:candidate-vibid:4614057219054": 23,
+      "gas:candidate-vibid:4614057215977": 156,
+      "gas:candidate-vibid:4614057216667": 132,
+      "gas:candidate-vibid:4614057218699": 10,
+      "gas:candidate-vibid:4614057218740": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",
@@ -14433,14 +14433,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 63,
-      "Дерябкин Виктор Ефимович": 215,
-      "Кошельников Юрий Викторович": 8,
-      "Лютов Алексей Павлович": 12,
-      "Малыхин Сергей Викторович": 74,
-      "Пахолков Олег Владимирович": 43,
-      "Степаненко Вячеслав Геннадьевич": 8,
-      "Яценко Роман Михайлович": 15
+      "gas:candidate-vibid:4614057216263": 63,
+      "gas:candidate-vibid:4614057216679": 215,
+      "gas:candidate-vibid:4614057218528": 8,
+      "gas:candidate-vibid:4614057219054": 12,
+      "gas:candidate-vibid:4614057215977": 74,
+      "gas:candidate-vibid:4614057216667": 43,
+      "gas:candidate-vibid:4614057218699": 8,
+      "gas:candidate-vibid:4614057218740": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",
@@ -14491,14 +14491,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 115,
-      "Дерябкин Виктор Ефимович": 344,
-      "Кошельников Юрий Викторович": 15,
-      "Лютов Алексей Павлович": 32,
-      "Малыхин Сергей Викторович": 124,
-      "Пахолков Олег Владимирович": 78,
-      "Степаненко Вячеслав Геннадьевич": 17,
-      "Яценко Роман Михайлович": 26
+      "gas:candidate-vibid:4614057216263": 115,
+      "gas:candidate-vibid:4614057216679": 344,
+      "gas:candidate-vibid:4614057218528": 15,
+      "gas:candidate-vibid:4614057219054": 32,
+      "gas:candidate-vibid:4614057215977": 124,
+      "gas:candidate-vibid:4614057216667": 78,
+      "gas:candidate-vibid:4614057218699": 17,
+      "gas:candidate-vibid:4614057218740": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",
@@ -14549,14 +14549,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 184,
-      "Дерябкин Виктор Ефимович": 479,
-      "Кошельников Юрий Викторович": 16,
-      "Лютов Алексей Павлович": 49,
-      "Малыхин Сергей Викторович": 150,
-      "Пахолков Олег Владимирович": 91,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 42
+      "gas:candidate-vibid:4614057216263": 184,
+      "gas:candidate-vibid:4614057216679": 479,
+      "gas:candidate-vibid:4614057218528": 16,
+      "gas:candidate-vibid:4614057219054": 49,
+      "gas:candidate-vibid:4614057215977": 150,
+      "gas:candidate-vibid:4614057216667": 91,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",
@@ -14607,14 +14607,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 70,
-      "Дерябкин Виктор Ефимович": 174,
-      "Кошельников Юрий Викторович": 12,
-      "Лютов Алексей Павлович": 6,
-      "Малыхин Сергей Викторович": 60,
-      "Пахолков Олег Владимирович": 64,
-      "Степаненко Вячеслав Геннадьевич": 5,
-      "Яценко Роман Михайлович": 20
+      "gas:candidate-vibid:4614057216263": 70,
+      "gas:candidate-vibid:4614057216679": 174,
+      "gas:candidate-vibid:4614057218528": 12,
+      "gas:candidate-vibid:4614057219054": 6,
+      "gas:candidate-vibid:4614057215977": 60,
+      "gas:candidate-vibid:4614057216667": 64,
+      "gas:candidate-vibid:4614057218699": 5,
+      "gas:candidate-vibid:4614057218740": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",
@@ -14665,14 +14665,14 @@ export const duma_2016_uik_463_region_61_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дедович Александр Дмитриевич": 143,
-      "Дерябкин Виктор Ефимович": 366,
-      "Кошельников Юрий Викторович": 20,
-      "Лютов Алексей Павлович": 30,
-      "Малыхин Сергей Викторович": 135,
-      "Пахолков Олег Владимирович": 138,
-      "Степаненко Вячеслав Геннадьевич": 11,
-      "Яценко Роман Михайлович": 37
+      "gas:candidate-vibid:4614057216263": 143,
+      "gas:candidate-vibid:4614057216679": 366,
+      "gas:candidate-vibid:4614057218528": 20,
+      "gas:candidate-vibid:4614057219054": 30,
+      "gas:candidate-vibid:4614057215977": 135,
+      "gas:candidate-vibid:4614057216667": 138,
+      "gas:candidate-vibid:4614057218699": 11,
+      "gas:candidate-vibid:4614057218740": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000204&tvd=26120001455489&vrn=100100067795849&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120001455489&type=464",

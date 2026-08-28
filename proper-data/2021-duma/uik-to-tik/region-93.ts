@@ -8,7020 +8,18720 @@ export const duma_2021_uik_to_tik_region_93 = [
     "uikNumber": 1,
     "uikTvd": "4934001220792",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №1",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4934001220793",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №2",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4934001220794",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №3",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4934001220795",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №4",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4934001220796",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №5",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4934001220797",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №6",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4934001220798",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №7",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4934001220799",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №8",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4934001220800",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №9",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4934001220801",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №10",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4934001220802",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №11",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4934001220803",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №12",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4934001220804",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №13",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4934001220805",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №14",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4934001220806",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №15",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4934001220807",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №16",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4934001220808",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №17",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4934001220809",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №18",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4934001220810",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №19",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4934001220811",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №20",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4934001220812",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №21",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4934001220813",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №22",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4934001220814",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №23",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4934001220815",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №24",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4934001220816",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №25",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4934001220817",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №26",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4934001220818",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №27",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4934001220819",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №28",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4934001220820",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №29",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4934001220821",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №30",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4934001220822",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №31",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4934001220823",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №32",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4934001220824",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №33",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4934001220825",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №34",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4934001220826",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №35",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4934001220827",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №36",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4934001224611",
     "tikTvd": "2932000698067",
-    "tikName": "Алуштинская городская"
+    "tikName": "Алуштинская городская",
+    "uikName": "УИК №37",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4934002155334",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №41",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4934002155335",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №42",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4934002155336",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №43",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4934002155337",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №44",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4934002155338",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №45",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4934002155339",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №46",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4934002155340",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №47",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4934002155341",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №48",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4934002155342",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №49",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4934002155343",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №50",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4934002155344",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №51",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4934002155345",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №52",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4934002155346",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №53",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4934002155347",
     "tikTvd": "2932000698087",
-    "tikName": "Армянская городская"
+    "tikName": "Армянская городская",
+    "uikName": "УИК №54",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4934005171349",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №57",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4934005171350",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №58",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4934005171351",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №59",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4934005171352",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №60",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4934005171353",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №61",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4934005171354",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №62",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4934005171355",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №63",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4934005171356",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №64",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4934005171357",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №65",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4934005171358",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №66",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4934005171359",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №67",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4934005171360",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №68",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4934005171361",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №69",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4934005171362",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №70",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4934005171363",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №71",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4934005171364",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №72",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4934005171365",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №73",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4934005174752",
     "tikTvd": "2932000698086",
-    "tikName": "Джанкойская городская"
+    "tikName": "Джанкойская городская",
+    "uikName": "УИК №74",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4934007218624",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №76",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4934007218625",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №77",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4934007218626",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №78",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4934007218627",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №79",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4934007218628",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №80",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4934007218629",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №81",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4934007218630",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №82",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4934007218631",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №83",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4934007218632",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №84",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4934007218633",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №85",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4934007218634",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №86",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4934007218635",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №87",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4934007218636",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №88",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4934007218637",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №89",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4934007218638",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №90",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4934007218639",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №91",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4934007218640",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №92",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4934007218641",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №93",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4934007218642",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №94",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4934007218643",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №95",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4934007218644",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №96",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4934007218645",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №97",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4934007218646",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №98",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4934007218647",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №99",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4934007218648",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №100",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4934007218649",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №101",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4934007218650",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №102",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4934007218651",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №103",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4934007218652",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №104",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4934007218653",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №105",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4934007218654",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №106",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4934007218655",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №107",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4934007218656",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №108",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4934007218657",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №109",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4934007218658",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №110",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4934007218659",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №111",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4934007218660",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №112",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4934007218661",
     "tikTvd": "2932000698084",
-    "tikName": "Евпаторийская городская"
+    "tikName": "Евпаторийская городская",
+    "uikName": "УИК №113",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4934008315939",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №118",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4934008315941",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №119",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4934008315943",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №120",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4934008315945",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №121",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4934008315947",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №122",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4934008315949",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №123",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4934008315951",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №124",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4934008315953",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №125",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4934008315955",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №126",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4934008315957",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №127",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4934008315959",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №128",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4934008315961",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №129",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4934008315963",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №130",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4934008315965",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №131",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4934008315967",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №132",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4934008315969",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №133",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4934008315971",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №134",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4934008315973",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №135",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4934008315975",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №136",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4934008315977",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №137",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4934008315979",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №138",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4934008315981",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №139",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4934008315983",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №140",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4934008315985",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №141",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4934008315987",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №142",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4934008315989",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №143",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4934008315991",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №144",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4934008315993",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №145",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4934008315995",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №146",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4934008315997",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №147",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4934008315999",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №148",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4934008316001",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №149",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4934008316003",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №150",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4934008316005",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №151",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4934008316007",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №152",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4934008316009",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №153",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4934008316011",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №154",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4934008316013",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №155",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4934008316015",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №156",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4934008316017",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №157",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4934008316019",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №158",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4934008316021",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №159",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4934008316023",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №160",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4934008316025",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №161",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4934008316027",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №162",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4934008316029",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №163",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4934008316031",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №164",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4934008316033",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №165",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4934008316035",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №166",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4934008316037",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №167",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4934008316039",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №168",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4934008316041",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №169",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4934008316043",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №170",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4934008316045",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №171",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4934008316047",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №172",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4934008316049",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №173",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4934008316051",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №174",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4934008316053",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №175",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4934008316055",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №176",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4934008316057",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №177",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4934008316059",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №178",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4934008316061",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №179",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4934008316063",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №180",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4934008316065",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №181",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4934008316067",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №182",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4934008316069",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №183",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4934008324773",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №184",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4934008324775",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №185",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4934008324781",
     "tikTvd": "2932000698074",
-    "tikName": "Керченская городская"
+    "tikName": "Керченская городская",
+    "uikName": "УИК №186",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4934011172269",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №193",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4934011172270",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №194",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4934011172271",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №195",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4934011172272",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №196",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4934011172273",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №197",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4934011172274",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №198",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4934011172275",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №199",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4934011172276",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №200",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4934011172277",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №201",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4934011172278",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №202",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4934011172279",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №203",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4934011172280",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №204",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4934011174855",
     "tikTvd": "2932000698083",
-    "tikName": "Красноперекопская городская"
+    "tikName": "Красноперекопская городская",
+    "uikName": "УИК №205",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4934017148212",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №209",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4934017148213",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №210",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4934017148214",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №211",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4934017148215",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №212",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4934017148216",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №213",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4934017148217",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №214",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4934017148218",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №215",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4934017148219",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №216",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4934017148220",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №217",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4934017148221",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №218",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4934017148222",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №219",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4934017148223",
     "tikTvd": "2932000698080",
-    "tikName": "Сакская городская"
+    "tikName": "Сакская городская",
+    "uikName": "УИК №220",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4934021252250",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №223",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4934021252252",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №224",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4934021245116",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №225",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4934021245118",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №226",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4934021245119",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №227",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4934021245120",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №228",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4934021245121",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №229",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4934021245122",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №230",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4934021245123",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №231",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4934021245124",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №232",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4934021245125",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №233",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4934021245126",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №234",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4934021245127",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №235",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4934021245128",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №236",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4934021245129",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №237",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4934021245130",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №238",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4934021245131",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №239",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4934021245132",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №240",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4934021245133",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №241",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4934021245134",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №242",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4934021245135",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №243",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4934021245136",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №244",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4934021245137",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №245",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4934021245138",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №246",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4934021245139",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №247",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4934021245140",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №248",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4934021245141",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №249",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4934021245142",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №250",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4934021245143",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №251",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4934021245144",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №252",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4934021245145",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №253",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4934021245146",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №254",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4934021245147",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №255",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4934021245148",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №256",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4934021245149",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №257",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4934021245150",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №258",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4934021245151",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №259",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4934021245152",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №260",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4934021245153",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №261",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4934021245154",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №262",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4934021245155",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №263",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4934021245156",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №264",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4934021245157",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №265",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4934021245158",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №266",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4934021245159",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №267",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4934021245160",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №268",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4934021245164",
     "tikTvd": "2932000698064",
-    "tikName": "Симферополь, Центральная"
+    "tikName": "Симферополь, Центральная",
+    "uikName": "УИК №269",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4934019265907",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №271",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4934019265908",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №272",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4934019265909",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №273",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4934019265910",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №274",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4934019265911",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №275",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4934019265912",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №276",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4934019265913",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №277",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4934019265914",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №278",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4934019265915",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №279",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4934019265916",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №280",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4934019265917",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №281",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4934019265918",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №282",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4934019265919",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №283",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4934019265920",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №284",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4934019265921",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №285",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4934019265922",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №286",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4934019265923",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №287",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4934019265924",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №288",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4934019265925",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №289",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4934019265926",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №290",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4934019265927",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №291",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4934019265928",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №292",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4934019265929",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №293",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4934019265930",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №294",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4934019265931",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №295",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4934019265932",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №296",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4934019265933",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №297",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4934019265934",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №298",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4934019265935",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №299",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4934019265936",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №300",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4934019265937",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №301",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4934019265938",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №302",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4934019265939",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №303",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4934019265940",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №304",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4934019265941",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №305",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4934019265942",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №306",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4934019265943",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №307",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4934019265944",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №308",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4934019265945",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №309",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4934019270911",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №310",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4934019270912",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №311",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4934019270913",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №312",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4934019270914",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №313",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4934019270915",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №314",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4934019270916",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №315",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4934019270917",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №316",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4934019270918",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №317",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4934019270919",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №318",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4934019270920",
     "tikTvd": "2932000698078",
-    "tikName": "Симферополь, Железнодорожная"
+    "tikName": "Симферополь, Железнодорожная",
+    "uikName": "УИК №319",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4934020409543",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №321",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4934020409544",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №322",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4934020409545",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №323",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4934020409546",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №324",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4934020409547",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №325",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4934020409548",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №326",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4934020409549",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №327",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4934020409550",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №328",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4934020409551",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №329",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4934020409552",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №330",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4934020409553",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №331",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4934020409554",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №332",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4934020409555",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №333",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4934020409556",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №334",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4934020409557",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №335",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4934020409558",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №336",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4934020409559",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №337",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4934020409560",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №338",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4934020409561",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №339",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4934020409562",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №340",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4934020409563",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №341",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4934020409564",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №342",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4934020409565",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №343",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4934020409566",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №344",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4934020409567",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №345",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4934020409568",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №346",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4934020409569",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №347",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4934020409570",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №348",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4934020409571",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №349",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4934020409572",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №350",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4934020409573",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №351",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4934020409574",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №352",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4934020409575",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №353",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4934020409576",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №354",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4934020409577",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №355",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4934020409578",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №356",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4934020409579",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №357",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4934020409580",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №358",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4934020409581",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №359",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4934020409582",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №360",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4934020409583",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №361",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4934020409584",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №362",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4934020409585",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №363",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4934020409586",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №364",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4934020409587",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №365",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4934020409588",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №366",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4934020409589",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №367",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4934020409590",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №368",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4934020409591",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №369",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4934020409592",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №370",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4934020409593",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №371",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4934020409594",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №372",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4934020409595",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №373",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4934020409596",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №374",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4934020409597",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №375",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4934020409598",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №376",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4934020409599",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №377",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4934020409600",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №378",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4934020409601",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №379",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4934020409602",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №380",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4934020409603",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №381",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4934020409604",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №382",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4934020409605",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №383",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4934020409606",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №384",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4934020419762",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №385",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4934020419766",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №386",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4934020419768",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №387",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4934020419770",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №388",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4934020419772",
     "tikTvd": "2932000698069",
-    "tikName": "Симферополь, Киевская"
+    "tikName": "Симферополь, Киевская",
+    "uikName": "УИК №389",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4934024173428",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №398",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4934024173430",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №399",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4934024173432",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №400",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4934024173434",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №401",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4934024173436",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №402",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4934024173438",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №403",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4934024173440",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №404",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4934024173442",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №405",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4934024173444",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №406",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4934024173446",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №407",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4934024173448",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №408",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4934024173450",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №409",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4934024173452",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №410",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4934024173454",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №411",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4934024173456",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №412",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4934024173458",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №413",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4934024173460",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №414",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4934024173462",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №415",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4934024173464",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №416",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4934024173466",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №417",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4934024173468",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №418",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4934024173470",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №419",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4934024175752",
     "tikTvd": "2932000698062",
-    "tikName": "Судакская городская"
+    "tikName": "Судакская городская",
+    "uikName": "УИК №420",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4934025229045",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №423",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4934025229046",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №424",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4934025229047",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №425",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4934025229048",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №426",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4934025229049",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №427",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4934025229050",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №428",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4934025229051",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №429",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4934025229052",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №430",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4934025229053",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №431",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4934025229054",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №432",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4934025229055",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №433",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4934025229056",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №434",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4934025229057",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №435",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4934025229058",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №436",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4934025229059",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №437",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4934025229060",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №438",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4934025229061",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №439",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4934025229062",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №440",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4934025229063",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №441",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4934025229064",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №442",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4934025229065",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №443",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4934025229066",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №444",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4934025229067",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №445",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4934025229068",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №446",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4934025229069",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №447",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4934025229070",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №448",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4934025229071",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №449",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4934025229072",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №450",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4934025229073",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №451",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4934025229074",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №452",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4934025229075",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №453",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4934025229076",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №454",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4934025229077",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №455",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4934025229078",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №456",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4934025229079",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №457",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4934025229080",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №458",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4934025229081",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №459",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4934025229082",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №460",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4934025229083",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №461",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4934025229084",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №462",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4934025229085",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №463",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4934025229086",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №464",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4934025229087",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №465",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4934025229088",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №466",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4934025229089",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №467",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4934025229090",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №468",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4934025229091",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №469",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4934025231645",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №470",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4934025231646",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №471",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4934025231647",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №472",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4934025231648",
     "tikTvd": "2932000698061",
-    "tikName": "Феодосийская городская"
+    "tikName": "Феодосийская городская",
+    "uikName": "УИК №473",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4934027315834",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №477",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4934027315835",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №478",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4934027315836",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №479",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4934027315837",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №480",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4934027315838",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №481",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4934027315839",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №482",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4934027315840",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №483",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4934027315841",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №484",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4934027315842",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №485",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4934027315843",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №486",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4934027315844",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №487",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4934027315845",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №488",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4934027315846",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №489",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4934027315847",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №490",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4934027315848",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №491",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4934027315849",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №492",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4934027315850",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №493",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4934027315851",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №494",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4934027315852",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №495",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4934027315853",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №496",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4934027315854",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №497",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4934027315855",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №498",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4934027315856",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №499",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4934027315857",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №500",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4934027315858",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №501",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4934027315859",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №502",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4934027315860",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №503",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4934027315861",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №504",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4934027315862",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №505",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4934027315863",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №506",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4934027315864",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №507",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4934027315865",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №508",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4934027315866",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №509",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4934027315867",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №510",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4934027315868",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №511",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4934027315869",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №512",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4934027315870",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №513",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4934027315871",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №514",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4934027315872",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №515",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4934027315873",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №516",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4934027315874",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №517",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4934027315875",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №518",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4934027315876",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №519",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4934027315877",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №520",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4934027315878",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №521",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4934027315879",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №522",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4934027315880",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №523",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4934027315881",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №524",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4934027315882",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №525",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4934027315883",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №526",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4934027315884",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №527",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4934027315885",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №528",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4934027315886",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №529",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4934027315887",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №530",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4934027315888",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №531",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4934027315889",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №532",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4934027315890",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №533",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4934027315891",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №534",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4934027315892",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №535",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4934027315893",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №536",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4934027315894",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №537",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4934027315895",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №538",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4934027315896",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №539",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4934027315897",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №540",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4934027315898",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №541",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4934027315899",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №542",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4934027315900",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №543",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4934027328065",
     "tikTvd": "2932000698060",
-    "tikName": "Ялтинская городская"
+    "tikName": "Ялтинская городская",
+    "uikName": "УИК №544",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4934003227454",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №550",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4934003227455",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №551",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4934003227456",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №552",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4934003227457",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №553",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4934003227458",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №554",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4934003227459",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №555",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4934003227460",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №556",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4934003227461",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №557",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4934003227462",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №558",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4934003227463",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №559",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4934003227464",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №560",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4934003227465",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №561",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4934003227466",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №562",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4934003227467",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №563",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4934003227468",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №564",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4934003227469",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №565",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4934003227470",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №566",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4934003227471",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №567",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4934003227472",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №568",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4934003227473",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №569",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4934003227474",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №570",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4934003227475",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №571",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4934003227476",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №572",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4934003227477",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №573",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4934003227478",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №574",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4934003227479",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №575",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4934003227480",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №576",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4934003227481",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №577",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4934003227482",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №578",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4934003227483",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №579",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4934003227484",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №580",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4934003227485",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №581",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4934003227486",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №582",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4934003227487",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №583",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4934003227488",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №584",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4934003227489",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №585",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4934003227490",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №586",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4934003227491",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №587",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4934003227492",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №588",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4934003227493",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №589",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4934003227494",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №590",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4934003227495",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №591",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4934003227496",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №592",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4934003227497",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №593",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4934003227498",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №594",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4934003227499",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №595",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4934003227500",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №596",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4934003227501",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №597",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4934003227502",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №598",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4934003227503",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №599",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4934003227504",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №600",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4934003227505",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №601",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4934003227506",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №602",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4934003227507",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №603",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4934003227508",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №604",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4934003227509",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №605",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4934003227510",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №606",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4934003227511",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №607",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4934003227512",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №608",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4934003227513",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №609",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4934003227514",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №610",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4934003227515",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №611",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4934003227516",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №612",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4934003227517",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №613",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4934003227518",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №614",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4934003227519",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №615",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4934003227520",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №616",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4934003227521",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №617",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4934003227522",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №618",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4934003227523",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №619",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4934003227524",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №620",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4934003231735",
     "tikTvd": "2932000698066",
-    "tikName": "Бахчисарайская"
+    "tikName": "Бахчисарайская",
+    "uikName": "УИК №621",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4934004243432",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №628",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4934004243433",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №629",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4934004243434",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №630",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4934004243435",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №631",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4934004243436",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №632",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4934004243437",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №633",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4934004243438",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №634",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4934004243439",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №635",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4934004243440",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №636",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4934004243441",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №637",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4934004243442",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №638",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4934004243443",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №639",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4934004243444",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №640",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4934004243445",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №641",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4934004243446",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №642",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4934004243447",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №643",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4934004243448",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №644",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4934004243449",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №645",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4934004243450",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №646",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4934004243451",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №647",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4934004243452",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №648",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4934004243453",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №649",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4934004243454",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №650",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4934004243455",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №651",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4934004243456",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №652",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4934004243457",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №653",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4934004243458",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №654",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4934004243459",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №655",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4934004243460",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №656",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4934004243461",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №657",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4934004243462",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №658",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4934004243463",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №659",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4934004243464",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №660",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4934004243465",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №661",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4934004243466",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №662",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4934004243467",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №663",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4934004243468",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №664",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4934004243469",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №665",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4934004243470",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №666",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4934004243471",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №667",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4934004243472",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №668",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4934004246793",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №669",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4934004246795",
     "tikTvd": "2932000698065",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "uikName": "УИК №670",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4934006324254",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №691",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4934006324255",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №692",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4934006324256",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №693",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4934006324257",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №694",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4934006324258",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №695",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4934006324259",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №696",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4934006324260",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №697",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4934006324261",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №698",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4934006324262",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №699",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4934006324263",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №700",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4934006324264",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №701",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4934006324265",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №702",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4934006324266",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №703",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4934006324267",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №704",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4934006324268",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №705",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4934006324269",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №706",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4934006324270",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №707",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4934006324271",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №708",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4934006324272",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №709",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4934006324273",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №710",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4934006324274",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №711",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4934006324275",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №712",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4934006324276",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №713",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4934006324277",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №714",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4934006324278",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №715",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4934006324279",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №716",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4934006324280",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №717",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4934006324281",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №718",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4934006324282",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №719",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4934006324283",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №720",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4934006324284",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №721",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4934006324285",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №722",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4934006324286",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №723",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4934006324287",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №724",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4934006324288",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №725",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4934006324289",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №726",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4934006324290",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №727",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4934006324291",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №728",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4934006324292",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №729",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4934006324293",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №730",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4934006324294",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №731",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4934006324295",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №732",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4934006324296",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №733",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4934006324297",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №734",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4934006324298",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №735",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4934006324299",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №736",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4934006324300",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №737",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4934006324301",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №738",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4934006324302",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №739",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4934006324303",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №740",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4934006324304",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №741",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4934006324305",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №742",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4934006324306",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №743",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4934006324307",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №744",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4934006324308",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №745",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4934006324309",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №746",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4934006324310",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №747",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4934006324311",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №748",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4934006324312",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №749",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4934006324313",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №750",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4934006324314",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №751",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4934006324315",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №752",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4934006324316",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №753",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4934006324317",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №754",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4934006324318",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №755",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4934006324319",
     "tikTvd": "2932000698085",
-    "tikName": "Джанкойская"
+    "tikName": "Джанкойская",
+    "uikName": "УИК №756",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4934009197757",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №769",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4934009197758",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №770",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4934009197759",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №771",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4934009197760",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №772",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4934009197761",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №773",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4934009197762",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №774",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4934009197763",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №775",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4934009197764",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №776",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4934009197765",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №777",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4934009197766",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №778",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4934009197767",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №779",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4934009197768",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №780",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4934009197769",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №781",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4934009197770",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №782",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4934009197771",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №783",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4934009197772",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №784",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4934009197773",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №785",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4934009197774",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №786",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4934009197775",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №787",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4934009197776",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №788",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4934009197777",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №789",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4934009197778",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №790",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4934009197779",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №791",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4934009197780",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №792",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4934009197781",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №793",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4934009197782",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №794",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4934009197783",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №795",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4934009197784",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №796",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4934009197785",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №797",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4934009197786",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №798",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4934009197787",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №799",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4934009197788",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №800",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4934009197789",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №801",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4934009197790",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №802",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4934009197791",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №803",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4934009197792",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №804",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4934009197793",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №805",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4934009197794",
     "tikTvd": "2932000698073",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "uikName": "УИК №806",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4934010278164",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №810",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4934010278165",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №811",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4934010278166",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №812",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4934010278167",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №813",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4934010278168",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №814",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4934010278169",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №815",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4934010278170",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №816",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4934010278171",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №817",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4934010278172",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №818",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4934010278173",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №819",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4934010278174",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №820",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4934010278175",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №821",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4934010278176",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №822",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4934010278177",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №823",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4934010278178",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №824",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4934010278179",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №825",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4934010278180",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №826",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4934010278181",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №827",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4934010278182",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №828",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4934010278183",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №829",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4934010278184",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №830",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4934010278185",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №831",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4934010278186",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №832",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4934010278187",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №833",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4934010278188",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №834",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4934010278189",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №835",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4934010278190",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №836",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4934010278191",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №837",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4934010278192",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №838",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4934010278193",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №839",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4934010278194",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №840",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4934010278195",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №841",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4934010278196",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №842",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4934010278197",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №843",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4934010278198",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №844",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4934010278199",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №845",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4934010278200",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №846",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4934010278201",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №847",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4934010278202",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №848",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4934010278203",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №849",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4934010278204",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №850",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4934010278205",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №851",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4934010278206",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №852",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4934010278207",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №853",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4934010278208",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №854",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4934010278209",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №855",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4934010278210",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №856",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4934010278211",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №857",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4934010278212",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №858",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4934010278213",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №859",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4934010278214",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №860",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4934010278215",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №861",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4934010278216",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №862",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4934010278217",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №863",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4934010278218",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №864",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4934010278219",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №865",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4934010278220",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №866",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4934010278221",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №867",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4934010278222",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №868",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4934010278223",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №869",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4934010278224",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №870",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4934010278225",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №871",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4934010278226",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №872",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4934010278227",
     "tikTvd": "2932000698072",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №873",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4934012172991",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №877",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4934012172992",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №878",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4934012172993",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №879",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4934012172994",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №880",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4934012172995",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №881",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4934012172996",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №882",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4934012172997",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №883",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4934012172998",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №884",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4934012172999",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №885",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4934012173000",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №886",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4934012173001",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №887",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4934012173002",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №888",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4934012173003",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №889",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4934012173004",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №891",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4934012173005",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №892",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4934012173006",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №893",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4934012173007",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №894",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4934012173008",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №895",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4934012173009",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №896",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4934012173010",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №897",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4934012173011",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №898",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4934012173012",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №899",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4934012173013",
     "tikTvd": "2932000698089",
-    "tikName": "Красноперекопская"
+    "tikName": "Красноперекопская",
+    "uikName": "УИК №900",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4934013201492",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №904",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4934013201493",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №905",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4934013201494",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №906",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4934013201495",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №907",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4934013201496",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №908",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4934013201497",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №909",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4934013201498",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №910",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4934013201499",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №911",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4934013201500",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №912",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4934013201501",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №913",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4934013201502",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №914",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4934013201503",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №915",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4934013201504",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №916",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4934013201505",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №917",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4934013201506",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №918",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4934013201507",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №919",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4934013201508",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №920",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4934013201509",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №921",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4934013201510",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №922",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4934013201511",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №923",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4934013201512",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №924",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4934013201513",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №925",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4934013201514",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №926",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4934013201515",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №927",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4934013201516",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №928",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4934013201517",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №929",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4934013201518",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №930",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4934013201519",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №931",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4934013201520",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №932",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4934013201521",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №933",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4934013201522",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №934",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4934013201523",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №935",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4934013201524",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №936",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4934013201525",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №937",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4934013201526",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №938",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4934013201527",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №939",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4934013201528",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №940",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4934013201529",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №941",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4934013201530",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №942",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4934013201531",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №943",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4934013201532",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №944",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4934013201533",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №945",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4934013201489",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №946",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4934013204946",
     "tikTvd": "2932000698088",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "uikName": "УИК №947",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4934014201031",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №951",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4934014201032",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №952",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4934014201033",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №953",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4934014201034",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №954",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4934014201035",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №955",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4934014201036",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №956",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4934014201037",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №957",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4934014201038",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №958",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4934014201039",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №959",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4934014201040",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №960",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4934014201041",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №961",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4934014201042",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №962",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4934014201043",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №963",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4934014201044",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №964",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4934014201045",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №965",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4934014201046",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №966",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4934014201047",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №967",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4934014201048",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №968",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4934014201049",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №969",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4934014201050",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №970",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4934014201051",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №971",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4934014201052",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №972",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4934014201053",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №973",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4934014201054",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №974",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4934014201055",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №975",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4934014201056",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №976",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4934014201057",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №977",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4934014201058",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №978",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4934014201059",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №979",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4934014201060",
     "tikTvd": "2932000698070",
-    "tikName": "Нижнегорская"
+    "tikName": "Нижнегорская",
+    "uikName": "УИК №980",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4934015164397",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №983",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4934015164399",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №984",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4934015164401",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №985",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4934015164403",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №986",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4934015164405",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №987",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4934015164407",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №988",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4934015164409",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №989",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4934015164411",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №990",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4934015164413",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №991",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4934015164415",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №992",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4934015164417",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №993",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4934015164419",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №994",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4934015164421",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №995",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4934015164423",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №996",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4934015164425",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №997",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4934015164427",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №998",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4934015164429",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №999",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4934015164431",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1000",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4934015164433",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1001",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4934015164435",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1002",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4934015164437",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1003",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4934015164439",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1004",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4934015164441",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1005",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4934015164443",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1006",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4934015164445",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1007",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4934015164447",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1008",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4934015164449",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1009",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4934015164451",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1010",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4934015164453",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1011",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4934015164455",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1012",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4934015164457",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1013",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4934015164459",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1014",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4934015164461",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1015",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4934015166187",
     "tikTvd": "2932000698082",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "uikName": "УИК №1016",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4934016190016",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1019",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4934016190018",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1020",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4934016190020",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1021",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4934016190022",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1022",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4934016190024",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1023",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4934016190026",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1024",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4934016190028",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1025",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4934016190030",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1026",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4934016190032",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1027",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4934016190034",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1028",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4934016190036",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1029",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4934016190038",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1030",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4934016190040",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1031",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4934016190042",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1032",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4934016190044",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1033",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4934016190046",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1034",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4934016190048",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1035",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4934016190050",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1036",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4934016190052",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1037",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4934016190054",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1038",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4934016190056",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1039",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4934016190058",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1040",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4934016190060",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1041",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4934016190062",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1042",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4934016190064",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1043",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4934016190066",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1044",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4934016190068",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1045",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4934016190070",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1046",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4934016190072",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1047",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4934016190074",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1048",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4934016190076",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1049",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4934016192239",
     "tikTvd": "2932000698081",
-    "tikName": "Раздольненская"
+    "tikName": "Раздольненская",
+    "uikName": "УИК №1050",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4934018209898",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1053",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4934018209899",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1054",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4934018209900",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1055",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4934018209901",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1056",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4934018209902",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1057",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4934018209903",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1058",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4934018209904",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1059",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4934018209905",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1060",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4934018209906",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1061",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4934018209907",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1062",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4934018209908",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1063",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4934018209909",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1064",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4934018209910",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1065",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4934018209911",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1066",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4934018209912",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1067",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4934018209913",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1068",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4934018209914",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1069",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4934018209915",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1070",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4934018209916",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1071",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4934018209917",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1072",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4934018209918",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1073",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4934018209919",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1074",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4934018209920",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1075",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4934018209921",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1076",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4934018209922",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1077",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4934018209923",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1078",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4934018209924",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1079",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4934018209925",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1080",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4934018209926",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1081",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4934018209927",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1082",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4934018209928",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1083",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4934018209929",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1084",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4934018209930",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1085",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4934018209931",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1086",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4934018209932",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1087",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4934018209933",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1088",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4934018209934",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1089",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4934018209935",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1090",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4934018209936",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1091",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4934018209937",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1092",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4934018209938",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1093",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4934018209939",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1094",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4934018209940",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1095",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4934018209941",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1096",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4934018209942",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1097",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4934018209943",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1098",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4934018209944",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1099",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4934018209945",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1100",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4934018209946",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1101",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4934018209947",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1102",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4934018209948",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1103",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4934018209949",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1104",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4934018209950",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1105",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4934018209951",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1106",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4934018209952",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1107",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4934018209953",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1108",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4934018209954",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1109",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4934018209955",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1110",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4934018209956",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1111",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4934018209957",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1112",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4934018209958",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1113",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4934018209959",
     "tikTvd": "2932000698079",
-    "tikName": "Сакская"
+    "tikName": "Сакская",
+    "uikName": "УИК №1114",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4934022408397",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1121",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4934022389562",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1122",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4934022389563",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1123",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4934022389564",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1124",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4934022389565",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1125",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4934022389566",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1126",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4934022389567",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1127",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4934022389568",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1128",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4934022389569",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1129",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4934022389570",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1130",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4934022389571",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1131",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4934022389512",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1132",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4934022389531",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1133",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4934022389532",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1134",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4934022389533",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1135",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4934022389534",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1136",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4934022389572",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1137",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4934022389573",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1138",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4934022389574",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1139",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4934022389575",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1140",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4934022389513",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1141",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4934022389514",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1142",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4934022389515",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1143",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4934022389516",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1144",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4934022389576",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1145",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4934022389577",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1146",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4934022389535",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1147",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4934022389536",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1148",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4934022389578",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1149",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4934022389579",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1150",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4934022389580",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1151",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4934022389537",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1152",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4934022389538",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1153",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4934022389517",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1154",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4934022389518",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1155",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4934022389519",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1156",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4934022389520",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1157",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4934022389521",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1158",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4934022389522",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1159",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4934022389523",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1160",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4934022389524",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1161",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4934022389581",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1162",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4934022389525",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1163",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4934022389539",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1164",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4934022389540",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1165",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4934022389541",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1166",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4934022389542",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1167",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4934022389543",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1168",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4934022389544",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1169",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4934022389545",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1170",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4934022389546",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1171",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4934022389547",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1172",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4934022389548",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1173",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4934022389582",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1174",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4934022389583",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1175",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4934022389584",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1176",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4934022389585",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1177",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4934022389586",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1178",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4934022389587",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1179",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4934022389526",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1180",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4934022389527",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1181",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4934022389528",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1182",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4934022389529",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1183",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4934022389549",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1184",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4934022389550",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1185",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4934022389551",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1186",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4934022389552",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1187",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4934022389553",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1188",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4934022389554",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1189",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4934022389555",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1190",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4934022389556",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1191",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4934022389588",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1192",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4934022389589",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1193",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4934022389590",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1194",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4934022389591",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1195",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4934022389592",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1196",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4934022389593",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1197",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4934022389594",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1198",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4934022389595",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1199",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4934022389596",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1200",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4934022389557",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1201",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4934022389558",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1202",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4934022389559",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1203",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4934022389560",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1204",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4934022389530",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1205",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4934022389597",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1206",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4934022408378",
     "tikTvd": "2932000698077",
-    "tikName": "Симферопольская - 21"
+    "tikName": "Симферопольская - 21",
+    "uikName": "УИК №1207",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4934022408395",
     "tikTvd": "2932000698063",
-    "tikName": "Симферопольская - 19"
+    "tikName": "Симферопольская - 19",
+    "uikName": "УИК №1208",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883743",
+    "oikName": "Республика Крым – Симферопольский",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100225883743"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4934022408398",
     "tikTvd": "2932000698075",
-    "tikName": "Симферопольская - 20"
+    "tikName": "Симферопольская - 20",
+    "uikName": "УИК №1209",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4934023184943",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1210",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4934023184944",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1211",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4934023184945",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1212",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4934023184946",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1213",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4934023184947",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1214",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4934023184948",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1215",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4934023184949",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1216",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4934023184950",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1217",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4934023184951",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1218",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4934023184952",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1219",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4934023184953",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1220",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4934023184954",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1221",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4934023184955",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1222",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4934023184956",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1223",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4934023184957",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1224",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4934023184958",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1225",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4934023184959",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1226",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4934023184960",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1227",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4934023184961",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1228",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4934023184962",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1229",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4934023184963",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1230",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4934023184964",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1231",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4934023184965",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1232",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4934023184966",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1233",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4934023184967",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1234",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4934023184968",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1235",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4934023184969",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1236",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4934023184970",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1237",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4934023184971",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1238",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4934023184972",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1239",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4934023184973",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1240",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4934023184974",
     "tikTvd": "2932000698068",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1241",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883744",
+    "oikName": "Республика Крым – Керченский",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100225883744"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4934026178935",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1245",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4934026178936",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1246",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4934026178937",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1247",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4934026178938",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1248",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4934026178939",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1249",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4934026178940",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1250",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4934026178941",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1251",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4934026178942",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1252",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4934026178943",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1253",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4934026178944",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1254",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4934026178945",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1255",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4934026178946",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1256",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4934026178947",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1257",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4934026178948",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1258",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4934026178949",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1259",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4934026178950",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1260",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4934026178951",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1261",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4934026178952",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1262",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4934026178953",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1263",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4934026178954",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1264",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4934026178955",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1265",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4934026178956",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1266",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4934026178957",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1267",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "4934026178958",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1268",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4934026178959",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1269",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4934026178960",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1270",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4934026178961",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1271",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4934026178962",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1272",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4934026178963",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1273",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4934026178964",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1274",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4934026178965",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1275",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "4934026178966",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1276",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4934026178967",
     "tikTvd": "2932000698076",
-    "tikName": "Черноморская"
+    "tikName": "Черноморская",
+    "uikName": "УИК №1277",
+    "regionCode": "93",
+    "regionTvd": "100100225883742",
+    "regionName": "Республика Крым",
+    "oikTvd": "100100225883745",
+    "oikName": "Республика Крым – Евпаторийский",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100225883745"
+    }
   }
 ] satisfies readonly UikTikRelation[];

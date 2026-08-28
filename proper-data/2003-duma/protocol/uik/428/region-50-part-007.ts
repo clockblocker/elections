@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 214,
-      "Баскаев Аркадий Георгиевич": 202,
-      "Деркач Валентина Петровна": 12,
-      "Зоркальцев Виктор Ильич": 105,
-      "Клименко Иван Фёдорович": 12,
-      "Надеждин Борис Борисович": 109,
-      "Титов Игорь Борисович": 39,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 167
+      "gas:candidate-vibid:250200071225": 214,
+      "gas:candidate-vibid:1001000131402": 202,
+      "gas:candidate-vibid:250200071660": 12,
+      "gas:candidate-vibid:1001000121867": 105,
+      "gas:candidate-vibid:1001000217935": 12,
+      "gas:candidate-vibid:1001000113948": 109,
+      "gas:candidate-vibid:1001000195097": 39,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 249,
-      "Баскаев Аркадий Георгиевич": 273,
-      "Деркач Валентина Петровна": 37,
-      "Зоркальцев Виктор Ильич": 137,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 277,
-      "Титов Игорь Борисович": 84,
-      "Утешев Виталий Викторович": 30,
-      "Против всех": 227
+      "gas:candidate-vibid:250200071225": 249,
+      "gas:candidate-vibid:1001000131402": 273,
+      "gas:candidate-vibid:250200071660": 37,
+      "gas:candidate-vibid:1001000121867": 137,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 277,
+      "gas:candidate-vibid:1001000195097": 84,
+      "gas:candidate-vibid:1001000136077": 30,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 232,
-      "Баскаев Аркадий Георгиевич": 433,
-      "Деркач Валентина Петровна": 40,
-      "Зоркальцев Виктор Ильич": 234,
-      "Клименко Иван Фёдорович": 19,
-      "Надеждин Борис Борисович": 217,
-      "Титов Игорь Борисович": 80,
-      "Утешев Виталий Викторович": 14,
-      "Против всех": 201
+      "gas:candidate-vibid:250200071225": 232,
+      "gas:candidate-vibid:1001000131402": 433,
+      "gas:candidate-vibid:250200071660": 40,
+      "gas:candidate-vibid:1001000121867": 234,
+      "gas:candidate-vibid:1001000217935": 19,
+      "gas:candidate-vibid:1001000113948": 217,
+      "gas:candidate-vibid:1001000195097": 80,
+      "gas:candidate-vibid:1001000136077": 14,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 202,
-      "Баскаев Аркадий Георгиевич": 337,
-      "Деркач Валентина Петровна": 24,
-      "Зоркальцев Виктор Ильич": 155,
-      "Клименко Иван Фёдорович": 17,
-      "Надеждин Борис Борисович": 214,
-      "Титов Игорь Борисович": 77,
-      "Утешев Виталий Викторович": 19,
-      "Против всех": 205
+      "gas:candidate-vibid:250200071225": 202,
+      "gas:candidate-vibid:1001000131402": 337,
+      "gas:candidate-vibid:250200071660": 24,
+      "gas:candidate-vibid:1001000121867": 155,
+      "gas:candidate-vibid:1001000217935": 17,
+      "gas:candidate-vibid:1001000113948": 214,
+      "gas:candidate-vibid:1001000195097": 77,
+      "gas:candidate-vibid:1001000136077": 19,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 135,
-      "Баскаев Аркадий Георгиевич": 223,
-      "Деркач Валентина Петровна": 40,
-      "Зоркальцев Виктор Ильич": 111,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 161,
-      "Титов Игорь Борисович": 52,
-      "Утешев Виталий Викторович": 19,
-      "Против всех": 151
+      "gas:candidate-vibid:250200071225": 135,
+      "gas:candidate-vibid:1001000131402": 223,
+      "gas:candidate-vibid:250200071660": 40,
+      "gas:candidate-vibid:1001000121867": 111,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 161,
+      "gas:candidate-vibid:1001000195097": 52,
+      "gas:candidate-vibid:1001000136077": 19,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 190,
-      "Баскаев Аркадий Георгиевич": 408,
-      "Деркач Валентина Петровна": 50,
-      "Зоркальцев Виктор Ильич": 131,
-      "Клименко Иван Фёдорович": 23,
-      "Надеждин Борис Борисович": 300,
-      "Титов Игорь Борисович": 83,
-      "Утешев Виталий Викторович": 27,
-      "Против всех": 354
+      "gas:candidate-vibid:250200071225": 190,
+      "gas:candidate-vibid:1001000131402": 408,
+      "gas:candidate-vibid:250200071660": 50,
+      "gas:candidate-vibid:1001000121867": 131,
+      "gas:candidate-vibid:1001000217935": 23,
+      "gas:candidate-vibid:1001000113948": 300,
+      "gas:candidate-vibid:1001000195097": 83,
+      "gas:candidate-vibid:1001000136077": 27,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 207,
-      "Баскаев Аркадий Георгиевич": 360,
-      "Деркач Валентина Петровна": 23,
-      "Зоркальцев Виктор Ильич": 168,
-      "Клименко Иван Фёдорович": 17,
-      "Надеждин Борис Борисович": 240,
-      "Титов Игорь Борисович": 66,
-      "Утешев Виталий Викторович": 21,
-      "Против всех": 252
+      "gas:candidate-vibid:250200071225": 207,
+      "gas:candidate-vibid:1001000131402": 360,
+      "gas:candidate-vibid:250200071660": 23,
+      "gas:candidate-vibid:1001000121867": 168,
+      "gas:candidate-vibid:1001000217935": 17,
+      "gas:candidate-vibid:1001000113948": 240,
+      "gas:candidate-vibid:1001000195097": 66,
+      "gas:candidate-vibid:1001000136077": 21,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 289,
-      "Баскаев Аркадий Георгиевич": 325,
-      "Деркач Валентина Петровна": 17,
-      "Зоркальцев Виктор Ильич": 147,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 185,
-      "Титов Игорь Борисович": 77,
-      "Утешев Виталий Викторович": 22,
-      "Против всех": 277
+      "gas:candidate-vibid:250200071225": 289,
+      "gas:candidate-vibid:1001000131402": 325,
+      "gas:candidate-vibid:250200071660": 17,
+      "gas:candidate-vibid:1001000121867": 147,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 185,
+      "gas:candidate-vibid:1001000195097": 77,
+      "gas:candidate-vibid:1001000136077": 22,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 250,
-      "Баскаев Аркадий Георгиевич": 479,
-      "Деркач Валентина Петровна": 31,
-      "Зоркальцев Виктор Ильич": 202,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 245,
-      "Титов Игорь Борисович": 61,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 252
+      "gas:candidate-vibid:250200071225": 250,
+      "gas:candidate-vibid:1001000131402": 479,
+      "gas:candidate-vibid:250200071660": 31,
+      "gas:candidate-vibid:1001000121867": 202,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 245,
+      "gas:candidate-vibid:1001000195097": 61,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 214,
-      "Баскаев Аркадий Георгиевич": 354,
-      "Деркач Валентина Петровна": 56,
-      "Зоркальцев Виктор Ильич": 183,
-      "Клименко Иван Фёдорович": 20,
-      "Надеждин Борис Борисович": 223,
-      "Титов Игорь Борисович": 58,
-      "Утешев Виталий Викторович": 19,
-      "Против всех": 269
+      "gas:candidate-vibid:250200071225": 214,
+      "gas:candidate-vibid:1001000131402": 354,
+      "gas:candidate-vibid:250200071660": 56,
+      "gas:candidate-vibid:1001000121867": 183,
+      "gas:candidate-vibid:1001000217935": 20,
+      "gas:candidate-vibid:1001000113948": 223,
+      "gas:candidate-vibid:1001000195097": 58,
+      "gas:candidate-vibid:1001000136077": 19,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 262,
-      "Баскаев Аркадий Георгиевич": 382,
-      "Деркач Валентина Петровна": 31,
-      "Зоркальцев Виктор Ильич": 183,
-      "Клименко Иван Фёдорович": 11,
-      "Надеждин Борис Борисович": 257,
-      "Титов Игорь Борисович": 92,
-      "Утешев Виталий Викторович": 25,
-      "Против всех": 298
+      "gas:candidate-vibid:250200071225": 262,
+      "gas:candidate-vibid:1001000131402": 382,
+      "gas:candidate-vibid:250200071660": 31,
+      "gas:candidate-vibid:1001000121867": 183,
+      "gas:candidate-vibid:1001000217935": 11,
+      "gas:candidate-vibid:1001000113948": 257,
+      "gas:candidate-vibid:1001000195097": 92,
+      "gas:candidate-vibid:1001000136077": 25,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 165,
-      "Баскаев Аркадий Георгиевич": 250,
-      "Деркач Валентина Петровна": 26,
-      "Зоркальцев Виктор Ильич": 79,
-      "Клименко Иван Фёдорович": 17,
-      "Надеждин Борис Борисович": 227,
-      "Титов Игорь Борисович": 53,
-      "Утешев Виталий Викторович": 10,
-      "Против всех": 218
+      "gas:candidate-vibid:250200071225": 165,
+      "gas:candidate-vibid:1001000131402": 250,
+      "gas:candidate-vibid:250200071660": 26,
+      "gas:candidate-vibid:1001000121867": 79,
+      "gas:candidate-vibid:1001000217935": 17,
+      "gas:candidate-vibid:1001000113948": 227,
+      "gas:candidate-vibid:1001000195097": 53,
+      "gas:candidate-vibid:1001000136077": 10,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 292,
-      "Баскаев Аркадий Георгиевич": 291,
-      "Деркач Валентина Петровна": 39,
-      "Зоркальцев Виктор Ильич": 197,
-      "Клименко Иван Фёдорович": 34,
-      "Надеждин Борис Борисович": 269,
-      "Титов Игорь Борисович": 95,
-      "Утешев Виталий Викторович": 36,
-      "Против всех": 401
+      "gas:candidate-vibid:250200071225": 292,
+      "gas:candidate-vibid:1001000131402": 291,
+      "gas:candidate-vibid:250200071660": 39,
+      "gas:candidate-vibid:1001000121867": 197,
+      "gas:candidate-vibid:1001000217935": 34,
+      "gas:candidate-vibid:1001000113948": 269,
+      "gas:candidate-vibid:1001000195097": 95,
+      "gas:candidate-vibid:1001000136077": 36,
+      "special:against-all": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 209,
-      "Баскаев Аркадий Георгиевич": 418,
-      "Деркач Валентина Петровна": 51,
-      "Зоркальцев Виктор Ильич": 189,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 228,
-      "Титов Игорь Борисович": 66,
-      "Утешев Виталий Викторович": 19,
-      "Против всех": 277
+      "gas:candidate-vibid:250200071225": 209,
+      "gas:candidate-vibid:1001000131402": 418,
+      "gas:candidate-vibid:250200071660": 51,
+      "gas:candidate-vibid:1001000121867": 189,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 228,
+      "gas:candidate-vibid:1001000195097": 66,
+      "gas:candidate-vibid:1001000136077": 19,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 247,
-      "Баскаев Аркадий Георгиевич": 386,
-      "Деркач Валентина Петровна": 36,
-      "Зоркальцев Виктор Ильич": 166,
-      "Клименко Иван Фёдорович": 16,
-      "Надеждин Борис Борисович": 351,
-      "Титов Игорь Борисович": 111,
-      "Утешев Виталий Викторович": 21,
-      "Против всех": 321
+      "gas:candidate-vibid:250200071225": 247,
+      "gas:candidate-vibid:1001000131402": 386,
+      "gas:candidate-vibid:250200071660": 36,
+      "gas:candidate-vibid:1001000121867": 166,
+      "gas:candidate-vibid:1001000217935": 16,
+      "gas:candidate-vibid:1001000113948": 351,
+      "gas:candidate-vibid:1001000195097": 111,
+      "gas:candidate-vibid:1001000136077": 21,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 28,
-      "Баскаев Аркадий Георгиевич": 50,
-      "Деркач Валентина Петровна": 4,
-      "Зоркальцев Виктор Ильич": 22,
-      "Клименко Иван Фёдорович": 3,
-      "Надеждин Борис Борисович": 41,
-      "Титов Игорь Борисович": 16,
-      "Утешев Виталий Викторович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:250200071225": 28,
+      "gas:candidate-vibid:1001000131402": 50,
+      "gas:candidate-vibid:250200071660": 4,
+      "gas:candidate-vibid:1001000121867": 22,
+      "gas:candidate-vibid:1001000217935": 3,
+      "gas:candidate-vibid:1001000113948": 41,
+      "gas:candidate-vibid:1001000195097": 16,
+      "gas:candidate-vibid:1001000136077": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 6,
-      "Баскаев Аркадий Георгиевич": 54,
-      "Деркач Валентина Петровна": 2,
-      "Зоркальцев Виктор Ильич": 9,
-      "Клименко Иван Фёдорович": 3,
-      "Надеждин Борис Борисович": 12,
-      "Титов Игорь Борисович": 5,
-      "Утешев Виталий Викторович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:250200071225": 6,
+      "gas:candidate-vibid:1001000131402": 54,
+      "gas:candidate-vibid:250200071660": 2,
+      "gas:candidate-vibid:1001000121867": 9,
+      "gas:candidate-vibid:1001000217935": 3,
+      "gas:candidate-vibid:1001000113948": 12,
+      "gas:candidate-vibid:1001000195097": 5,
+      "gas:candidate-vibid:1001000136077": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 36,
-      "Баскаев Аркадий Георгиевич": 84,
-      "Деркач Валентина Петровна": 5,
-      "Зоркальцев Виктор Ильич": 24,
-      "Клименко Иван Фёдорович": 3,
-      "Надеждин Борис Борисович": 22,
-      "Титов Игорь Борисович": 6,
-      "Утешев Виталий Викторович": 1,
-      "Против всех": 39
+      "gas:candidate-vibid:250200071225": 36,
+      "gas:candidate-vibid:1001000131402": 84,
+      "gas:candidate-vibid:250200071660": 5,
+      "gas:candidate-vibid:1001000121867": 24,
+      "gas:candidate-vibid:1001000217935": 3,
+      "gas:candidate-vibid:1001000113948": 22,
+      "gas:candidate-vibid:1001000195097": 6,
+      "gas:candidate-vibid:1001000136077": 1,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 11,
-      "Баскаев Аркадий Георгиевич": 33,
-      "Деркач Валентина Петровна": 1,
-      "Зоркальцев Виктор Ильич": 12,
-      "Клименко Иван Фёдорович": 1,
-      "Надеждин Борис Борисович": 5,
-      "Титов Игорь Борисович": 4,
-      "Утешев Виталий Викторович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:250200071225": 11,
+      "gas:candidate-vibid:1001000131402": 33,
+      "gas:candidate-vibid:250200071660": 1,
+      "gas:candidate-vibid:1001000121867": 12,
+      "gas:candidate-vibid:1001000217935": 1,
+      "gas:candidate-vibid:1001000113948": 5,
+      "gas:candidate-vibid:1001000195097": 4,
+      "gas:candidate-vibid:1001000136077": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 121,
-      "Баскаев Аркадий Георгиевич": 301,
-      "Деркач Валентина Петровна": 18,
-      "Зоркальцев Виктор Ильич": 102,
-      "Клименко Иван Фёдорович": 8,
-      "Надеждин Борис Борисович": 100,
-      "Титов Игорь Борисович": 40,
-      "Утешев Виталий Викторович": 17,
-      "Против всех": 139
+      "gas:candidate-vibid:250200071225": 121,
+      "gas:candidate-vibid:1001000131402": 301,
+      "gas:candidate-vibid:250200071660": 18,
+      "gas:candidate-vibid:1001000121867": 102,
+      "gas:candidate-vibid:1001000217935": 8,
+      "gas:candidate-vibid:1001000113948": 100,
+      "gas:candidate-vibid:1001000195097": 40,
+      "gas:candidate-vibid:1001000136077": 17,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 126,
-      "Баскаев Аркадий Георгиевич": 303,
-      "Деркач Валентина Петровна": 16,
-      "Зоркальцев Виктор Ильич": 120,
-      "Клименко Иван Фёдорович": 15,
-      "Надеждин Борис Борисович": 158,
-      "Титов Игорь Борисович": 45,
-      "Утешев Виталий Викторович": 11,
-      "Против всех": 127
+      "gas:candidate-vibid:250200071225": 126,
+      "gas:candidate-vibid:1001000131402": 303,
+      "gas:candidate-vibid:250200071660": 16,
+      "gas:candidate-vibid:1001000121867": 120,
+      "gas:candidate-vibid:1001000217935": 15,
+      "gas:candidate-vibid:1001000113948": 158,
+      "gas:candidate-vibid:1001000195097": 45,
+      "gas:candidate-vibid:1001000136077": 11,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 83,
-      "Баскаев Аркадий Георгиевич": 196,
-      "Деркач Валентина Петровна": 16,
-      "Зоркальцев Виктор Ильич": 106,
-      "Клименко Иван Фёдорович": 6,
-      "Надеждин Борис Борисович": 89,
-      "Титов Игорь Борисович": 41,
-      "Утешев Виталий Викторович": 5,
-      "Против всех": 110
+      "gas:candidate-vibid:250200071225": 83,
+      "gas:candidate-vibid:1001000131402": 196,
+      "gas:candidate-vibid:250200071660": 16,
+      "gas:candidate-vibid:1001000121867": 106,
+      "gas:candidate-vibid:1001000217935": 6,
+      "gas:candidate-vibid:1001000113948": 89,
+      "gas:candidate-vibid:1001000195097": 41,
+      "gas:candidate-vibid:1001000136077": 5,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 120,
-      "Баскаев Аркадий Георгиевич": 178,
-      "Деркач Валентина Петровна": 11,
-      "Зоркальцев Виктор Ильич": 107,
-      "Клименко Иван Фёдорович": 6,
-      "Надеждин Борис Борисович": 133,
-      "Титов Игорь Борисович": 40,
-      "Утешев Виталий Викторович": 18,
-      "Против всех": 137
+      "gas:candidate-vibid:250200071225": 120,
+      "gas:candidate-vibid:1001000131402": 178,
+      "gas:candidate-vibid:250200071660": 11,
+      "gas:candidate-vibid:1001000121867": 107,
+      "gas:candidate-vibid:1001000217935": 6,
+      "gas:candidate-vibid:1001000113948": 133,
+      "gas:candidate-vibid:1001000195097": 40,
+      "gas:candidate-vibid:1001000136077": 18,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 52,
-      "Баскаев Аркадий Георгиевич": 137,
-      "Деркач Валентина Петровна": 8,
-      "Зоркальцев Виктор Ильич": 36,
-      "Клименко Иван Фёдорович": 8,
-      "Надеждин Борис Борисович": 45,
-      "Титов Игорь Борисович": 14,
-      "Утешев Виталий Викторович": 10,
-      "Против всех": 61
+      "gas:candidate-vibid:250200071225": 52,
+      "gas:candidate-vibid:1001000131402": 137,
+      "gas:candidate-vibid:250200071660": 8,
+      "gas:candidate-vibid:1001000121867": 36,
+      "gas:candidate-vibid:1001000217935": 8,
+      "gas:candidate-vibid:1001000113948": 45,
+      "gas:candidate-vibid:1001000195097": 14,
+      "gas:candidate-vibid:1001000136077": 10,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 15,
-      "Баскаев Аркадий Георгиевич": 61,
-      "Деркач Валентина Петровна": 8,
-      "Зоркальцев Виктор Ильич": 23,
-      "Клименко Иван Фёдорович": 2,
-      "Надеждин Борис Борисович": 16,
-      "Титов Игорь Борисович": 4,
-      "Утешев Виталий Викторович": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:250200071225": 15,
+      "gas:candidate-vibid:1001000131402": 61,
+      "gas:candidate-vibid:250200071660": 8,
+      "gas:candidate-vibid:1001000121867": 23,
+      "gas:candidate-vibid:1001000217935": 2,
+      "gas:candidate-vibid:1001000113948": 16,
+      "gas:candidate-vibid:1001000195097": 4,
+      "gas:candidate-vibid:1001000136077": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 186,
-      "Баскаев Аркадий Георгиевич": 223,
-      "Деркач Валентина Петровна": 20,
-      "Зоркальцев Виктор Ильич": 129,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 150,
-      "Титов Игорь Борисович": 41,
-      "Утешев Виталий Викторович": 24,
-      "Против всех": 177
+      "gas:candidate-vibid:250200071225": 186,
+      "gas:candidate-vibid:1001000131402": 223,
+      "gas:candidate-vibid:250200071660": 20,
+      "gas:candidate-vibid:1001000121867": 129,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 150,
+      "gas:candidate-vibid:1001000195097": 41,
+      "gas:candidate-vibid:1001000136077": 24,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 109,
-      "Баскаев Аркадий Георгиевич": 250,
-      "Деркач Валентина Петровна": 24,
-      "Зоркальцев Виктор Ильич": 73,
-      "Клименко Иван Фёдорович": 11,
-      "Надеждин Борис Борисович": 99,
-      "Титов Игорь Борисович": 42,
-      "Утешев Виталий Викторович": 28,
-      "Против всех": 172
+      "gas:candidate-vibid:250200071225": 109,
+      "gas:candidate-vibid:1001000131402": 250,
+      "gas:candidate-vibid:250200071660": 24,
+      "gas:candidate-vibid:1001000121867": 73,
+      "gas:candidate-vibid:1001000217935": 11,
+      "gas:candidate-vibid:1001000113948": 99,
+      "gas:candidate-vibid:1001000195097": 42,
+      "gas:candidate-vibid:1001000136077": 28,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 122,
-      "Баскаев Аркадий Георгиевич": 257,
-      "Деркач Валентина Петровна": 25,
-      "Зоркальцев Виктор Ильич": 103,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 115,
-      "Титов Игорь Борисович": 56,
-      "Утешев Виталий Викторович": 26,
-      "Против всех": 217
+      "gas:candidate-vibid:250200071225": 122,
+      "gas:candidate-vibid:1001000131402": 257,
+      "gas:candidate-vibid:250200071660": 25,
+      "gas:candidate-vibid:1001000121867": 103,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 115,
+      "gas:candidate-vibid:1001000195097": 56,
+      "gas:candidate-vibid:1001000136077": 26,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 59,
-      "Баскаев Аркадий Георгиевич": 70,
-      "Деркач Валентина Петровна": 3,
-      "Зоркальцев Виктор Ильич": 71,
-      "Клименко Иван Фёдорович": 12,
-      "Надеждин Борис Борисович": 64,
-      "Титов Игорь Борисович": 13,
-      "Утешев Виталий Викторович": 10,
-      "Против всех": 52
+      "gas:candidate-vibid:250200071225": 59,
+      "gas:candidate-vibid:1001000131402": 70,
+      "gas:candidate-vibid:250200071660": 3,
+      "gas:candidate-vibid:1001000121867": 71,
+      "gas:candidate-vibid:1001000217935": 12,
+      "gas:candidate-vibid:1001000113948": 64,
+      "gas:candidate-vibid:1001000195097": 13,
+      "gas:candidate-vibid:1001000136077": 10,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 12,
-      "Баскаев Аркадий Георгиевич": 28,
-      "Деркач Валентина Петровна": 2,
-      "Зоркальцев Виктор Ильич": 8,
-      "Клименко Иван Фёдорович": 5,
-      "Надеждин Борис Борисович": 12,
-      "Титов Игорь Борисович": 6,
-      "Утешев Виталий Викторович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:250200071225": 12,
+      "gas:candidate-vibid:1001000131402": 28,
+      "gas:candidate-vibid:250200071660": 2,
+      "gas:candidate-vibid:1001000121867": 8,
+      "gas:candidate-vibid:1001000217935": 5,
+      "gas:candidate-vibid:1001000113948": 12,
+      "gas:candidate-vibid:1001000195097": 6,
+      "gas:candidate-vibid:1001000136077": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 6,
-      "Баскаев Аркадий Георгиевич": 20,
-      "Деркач Валентина Петровна": 2,
-      "Зоркальцев Виктор Ильич": 27,
-      "Клименко Иван Фёдорович": 2,
-      "Надеждин Борис Борисович": 6,
-      "Титов Игорь Борисович": 2,
-      "Утешев Виталий Викторович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:250200071225": 6,
+      "gas:candidate-vibid:1001000131402": 20,
+      "gas:candidate-vibid:250200071660": 2,
+      "gas:candidate-vibid:1001000121867": 27,
+      "gas:candidate-vibid:1001000217935": 2,
+      "gas:candidate-vibid:1001000113948": 6,
+      "gas:candidate-vibid:1001000195097": 2,
+      "gas:candidate-vibid:1001000136077": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 130,
-      "Баскаев Аркадий Георгиевич": 293,
-      "Деркач Валентина Петровна": 17,
-      "Зоркальцев Виктор Ильич": 91,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 88,
-      "Титов Игорь Борисович": 35,
-      "Утешев Виталий Викторович": 10,
-      "Против всех": 143
+      "gas:candidate-vibid:250200071225": 130,
+      "gas:candidate-vibid:1001000131402": 293,
+      "gas:candidate-vibid:250200071660": 17,
+      "gas:candidate-vibid:1001000121867": 91,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 88,
+      "gas:candidate-vibid:1001000195097": 35,
+      "gas:candidate-vibid:1001000136077": 10,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 180,
-      "Баскаев Аркадий Георгиевич": 362,
-      "Деркач Валентина Петровна": 26,
-      "Зоркальцев Виктор Ильич": 123,
-      "Клименко Иван Фёдорович": 35,
-      "Надеждин Борис Борисович": 98,
-      "Титов Игорь Борисович": 63,
-      "Утешев Виталий Викторович": 22,
-      "Против всех": 208
+      "gas:candidate-vibid:250200071225": 180,
+      "gas:candidate-vibid:1001000131402": 362,
+      "gas:candidate-vibid:250200071660": 26,
+      "gas:candidate-vibid:1001000121867": 123,
+      "gas:candidate-vibid:1001000217935": 35,
+      "gas:candidate-vibid:1001000113948": 98,
+      "gas:candidate-vibid:1001000195097": 63,
+      "gas:candidate-vibid:1001000136077": 22,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 158,
-      "Баскаев Аркадий Георгиевич": 461,
-      "Деркач Валентина Петровна": 33,
-      "Зоркальцев Виктор Ильич": 114,
-      "Клименко Иван Фёдорович": 19,
-      "Надеждин Борис Борисович": 132,
-      "Титов Игорь Борисович": 62,
-      "Утешев Виталий Викторович": 27,
-      "Против всех": 248
+      "gas:candidate-vibid:250200071225": 158,
+      "gas:candidate-vibid:1001000131402": 461,
+      "gas:candidate-vibid:250200071660": 33,
+      "gas:candidate-vibid:1001000121867": 114,
+      "gas:candidate-vibid:1001000217935": 19,
+      "gas:candidate-vibid:1001000113948": 132,
+      "gas:candidate-vibid:1001000195097": 62,
+      "gas:candidate-vibid:1001000136077": 27,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570418&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 101,
-      "Баскаев Аркадий Георгиевич": 454,
-      "Деркач Валентина Петровна": 26,
-      "Зоркальцев Виктор Ильич": 67,
-      "Клименко Иван Фёдорович": 19,
-      "Надеждин Борис Борисович": 144,
-      "Титов Игорь Борисович": 14,
-      "Утешев Виталий Викторович": 21,
-      "Против всех": 129
+      "gas:candidate-vibid:250200071225": 101,
+      "gas:candidate-vibid:1001000131402": 454,
+      "gas:candidate-vibid:250200071660": 26,
+      "gas:candidate-vibid:1001000121867": 67,
+      "gas:candidate-vibid:1001000217935": 19,
+      "gas:candidate-vibid:1001000113948": 144,
+      "gas:candidate-vibid:1001000195097": 14,
+      "gas:candidate-vibid:1001000136077": 21,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 146,
-      "Баскаев Аркадий Георгиевич": 473,
-      "Деркач Валентина Петровна": 28,
-      "Зоркальцев Виктор Ильич": 58,
-      "Клименко Иван Фёдорович": 9,
-      "Надеждин Борис Борисович": 172,
-      "Титов Игорь Борисович": 9,
-      "Утешев Виталий Викторович": 22,
-      "Против всех": 156
+      "gas:candidate-vibid:250200071225": 146,
+      "gas:candidate-vibid:1001000131402": 473,
+      "gas:candidate-vibid:250200071660": 28,
+      "gas:candidate-vibid:1001000121867": 58,
+      "gas:candidate-vibid:1001000217935": 9,
+      "gas:candidate-vibid:1001000113948": 172,
+      "gas:candidate-vibid:1001000195097": 9,
+      "gas:candidate-vibid:1001000136077": 22,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 186,
-      "Баскаев Аркадий Георгиевич": 541,
-      "Деркач Валентина Петровна": 54,
-      "Зоркальцев Виктор Ильич": 115,
-      "Клименко Иван Фёдорович": 16,
-      "Надеждин Борис Борисович": 255,
-      "Титов Игорь Борисович": 6,
-      "Утешев Виталий Викторович": 17,
-      "Против всех": 165
+      "gas:candidate-vibid:250200071225": 186,
+      "gas:candidate-vibid:1001000131402": 541,
+      "gas:candidate-vibid:250200071660": 54,
+      "gas:candidate-vibid:1001000121867": 115,
+      "gas:candidate-vibid:1001000217935": 16,
+      "gas:candidate-vibid:1001000113948": 255,
+      "gas:candidate-vibid:1001000195097": 6,
+      "gas:candidate-vibid:1001000136077": 17,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 152,
-      "Баскаев Аркадий Георгиевич": 340,
-      "Деркач Валентина Петровна": 44,
-      "Зоркальцев Виктор Ильич": 72,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 146,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 21,
-      "Против всех": 137
+      "gas:candidate-vibid:250200071225": 152,
+      "gas:candidate-vibid:1001000131402": 340,
+      "gas:candidate-vibid:250200071660": 44,
+      "gas:candidate-vibid:1001000121867": 72,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 146,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 21,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 175,
-      "Баскаев Аркадий Георгиевич": 547,
-      "Деркач Валентина Петровна": 53,
-      "Зоркальцев Виктор Ильич": 95,
-      "Клименко Иван Фёдорович": 11,
-      "Надеждин Борис Борисович": 289,
-      "Титов Игорь Борисович": 13,
-      "Утешев Виталий Викторович": 24,
-      "Против всех": 181
+      "gas:candidate-vibid:250200071225": 175,
+      "gas:candidate-vibid:1001000131402": 547,
+      "gas:candidate-vibid:250200071660": 53,
+      "gas:candidate-vibid:1001000121867": 95,
+      "gas:candidate-vibid:1001000217935": 11,
+      "gas:candidate-vibid:1001000113948": 289,
+      "gas:candidate-vibid:1001000195097": 13,
+      "gas:candidate-vibid:1001000136077": 24,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 152,
-      "Баскаев Аркадий Георгиевич": 627,
-      "Деркач Валентина Петровна": 38,
-      "Зоркальцев Виктор Ильич": 70,
-      "Клименко Иван Фёдорович": 19,
-      "Надеждин Борис Борисович": 209,
-      "Титов Игорь Борисович": 9,
-      "Утешев Виталий Викторович": 16,
-      "Против всех": 194
+      "gas:candidate-vibid:250200071225": 152,
+      "gas:candidate-vibid:1001000131402": 627,
+      "gas:candidate-vibid:250200071660": 38,
+      "gas:candidate-vibid:1001000121867": 70,
+      "gas:candidate-vibid:1001000217935": 19,
+      "gas:candidate-vibid:1001000113948": 209,
+      "gas:candidate-vibid:1001000195097": 9,
+      "gas:candidate-vibid:1001000136077": 16,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 157,
-      "Баскаев Аркадий Георгиевич": 484,
-      "Деркач Валентина Петровна": 33,
-      "Зоркальцев Виктор Ильич": 69,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 124,
-      "Титов Игорь Борисович": 11,
-      "Утешев Виталий Викторович": 16,
-      "Против всех": 117
+      "gas:candidate-vibid:250200071225": 157,
+      "gas:candidate-vibid:1001000131402": 484,
+      "gas:candidate-vibid:250200071660": 33,
+      "gas:candidate-vibid:1001000121867": 69,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 124,
+      "gas:candidate-vibid:1001000195097": 11,
+      "gas:candidate-vibid:1001000136077": 16,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 197,
-      "Баскаев Аркадий Георгиевич": 536,
-      "Деркач Валентина Петровна": 22,
-      "Зоркальцев Виктор Ильич": 51,
-      "Клименко Иван Фёдорович": 17,
-      "Надеждин Борис Борисович": 164,
-      "Титов Игорь Борисович": 10,
-      "Утешев Виталий Викторович": 33,
-      "Против всех": 154
+      "gas:candidate-vibid:250200071225": 197,
+      "gas:candidate-vibid:1001000131402": 536,
+      "gas:candidate-vibid:250200071660": 22,
+      "gas:candidate-vibid:1001000121867": 51,
+      "gas:candidate-vibid:1001000217935": 17,
+      "gas:candidate-vibid:1001000113948": 164,
+      "gas:candidate-vibid:1001000195097": 10,
+      "gas:candidate-vibid:1001000136077": 33,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 174,
-      "Баскаев Аркадий Георгиевич": 480,
-      "Деркач Валентина Петровна": 39,
-      "Зоркальцев Виктор Ильич": 52,
-      "Клименко Иван Фёдорович": 12,
-      "Надеждин Борис Борисович": 135,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 18,
-      "Против всех": 120
+      "gas:candidate-vibid:250200071225": 174,
+      "gas:candidate-vibid:1001000131402": 480,
+      "gas:candidate-vibid:250200071660": 39,
+      "gas:candidate-vibid:1001000121867": 52,
+      "gas:candidate-vibid:1001000217935": 12,
+      "gas:candidate-vibid:1001000113948": 135,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 18,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 172,
-      "Баскаев Аркадий Георгиевич": 534,
-      "Деркач Валентина Петровна": 29,
-      "Зоркальцев Виктор Ильич": 68,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 184,
-      "Титов Игорь Борисович": 12,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 186
+      "gas:candidate-vibid:250200071225": 172,
+      "gas:candidate-vibid:1001000131402": 534,
+      "gas:candidate-vibid:250200071660": 29,
+      "gas:candidate-vibid:1001000121867": 68,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 184,
+      "gas:candidate-vibid:1001000195097": 12,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 88,
-      "Баскаев Аркадий Георгиевич": 572,
-      "Деркач Валентина Петровна": 23,
-      "Зоркальцев Виктор Ильич": 74,
-      "Клименко Иван Фёдорович": 16,
-      "Надеждин Борис Борисович": 183,
-      "Титов Игорь Борисович": 14,
-      "Утешев Виталий Викторович": 24,
-      "Против всех": 157
+      "gas:candidate-vibid:250200071225": 88,
+      "gas:candidate-vibid:1001000131402": 572,
+      "gas:candidate-vibid:250200071660": 23,
+      "gas:candidate-vibid:1001000121867": 74,
+      "gas:candidate-vibid:1001000217935": 16,
+      "gas:candidate-vibid:1001000113948": 183,
+      "gas:candidate-vibid:1001000195097": 14,
+      "gas:candidate-vibid:1001000136077": 24,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 129,
-      "Баскаев Аркадий Георгиевич": 482,
-      "Деркач Валентина Петровна": 27,
-      "Зоркальцев Виктор Ильич": 90,
-      "Клименко Иван Фёдорович": 15,
-      "Надеждин Борис Борисович": 137,
-      "Титов Игорь Борисович": 10,
-      "Утешев Виталий Викторович": 18,
-      "Против всех": 153
+      "gas:candidate-vibid:250200071225": 129,
+      "gas:candidate-vibid:1001000131402": 482,
+      "gas:candidate-vibid:250200071660": 27,
+      "gas:candidate-vibid:1001000121867": 90,
+      "gas:candidate-vibid:1001000217935": 15,
+      "gas:candidate-vibid:1001000113948": 137,
+      "gas:candidate-vibid:1001000195097": 10,
+      "gas:candidate-vibid:1001000136077": 18,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 145,
-      "Баскаев Аркадий Георгиевич": 552,
-      "Деркач Валентина Петровна": 34,
-      "Зоркальцев Виктор Ильич": 65,
-      "Клименко Иван Фёдорович": 17,
-      "Надеждин Борис Борисович": 160,
-      "Титов Игорь Борисович": 11,
-      "Утешев Виталий Викторович": 26,
-      "Против всех": 133
+      "gas:candidate-vibid:250200071225": 145,
+      "gas:candidate-vibid:1001000131402": 552,
+      "gas:candidate-vibid:250200071660": 34,
+      "gas:candidate-vibid:1001000121867": 65,
+      "gas:candidate-vibid:1001000217935": 17,
+      "gas:candidate-vibid:1001000113948": 160,
+      "gas:candidate-vibid:1001000195097": 11,
+      "gas:candidate-vibid:1001000136077": 26,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 108,
-      "Баскаев Аркадий Георгиевич": 456,
-      "Деркач Валентина Петровна": 33,
-      "Зоркальцев Виктор Ильич": 46,
-      "Клименко Иван Фёдорович": 5,
-      "Надеждин Борис Борисович": 124,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 19,
-      "Против всех": 122
+      "gas:candidate-vibid:250200071225": 108,
+      "gas:candidate-vibid:1001000131402": 456,
+      "gas:candidate-vibid:250200071660": 33,
+      "gas:candidate-vibid:1001000121867": 46,
+      "gas:candidate-vibid:1001000217935": 5,
+      "gas:candidate-vibid:1001000113948": 124,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 19,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 154,
-      "Баскаев Аркадий Георгиевич": 419,
-      "Деркач Валентина Петровна": 38,
-      "Зоркальцев Виктор Ильич": 55,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 201,
-      "Титов Игорь Борисович": 10,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 145
+      "gas:candidate-vibid:250200071225": 154,
+      "gas:candidate-vibid:1001000131402": 419,
+      "gas:candidate-vibid:250200071660": 38,
+      "gas:candidate-vibid:1001000121867": 55,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 201,
+      "gas:candidate-vibid:1001000195097": 10,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 98,
-      "Баскаев Аркадий Георгиевич": 400,
-      "Деркач Валентина Петровна": 18,
-      "Зоркальцев Виктор Ильич": 57,
-      "Клименко Иван Фёдорович": 8,
-      "Надеждин Борис Борисович": 101,
-      "Титов Игорь Борисович": 4,
-      "Утешев Виталий Викторович": 12,
-      "Против всех": 91
+      "gas:candidate-vibid:250200071225": 98,
+      "gas:candidate-vibid:1001000131402": 400,
+      "gas:candidate-vibid:250200071660": 18,
+      "gas:candidate-vibid:1001000121867": 57,
+      "gas:candidate-vibid:1001000217935": 8,
+      "gas:candidate-vibid:1001000113948": 101,
+      "gas:candidate-vibid:1001000195097": 4,
+      "gas:candidate-vibid:1001000136077": 12,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 131,
-      "Баскаев Аркадий Георгиевич": 487,
-      "Деркач Валентина Петровна": 44,
-      "Зоркальцев Виктор Ильич": 52,
-      "Клименко Иван Фёдорович": 20,
-      "Надеждин Борис Борисович": 120,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 19,
-      "Против всех": 143
+      "gas:candidate-vibid:250200071225": 131,
+      "gas:candidate-vibid:1001000131402": 487,
+      "gas:candidate-vibid:250200071660": 44,
+      "gas:candidate-vibid:1001000121867": 52,
+      "gas:candidate-vibid:1001000217935": 20,
+      "gas:candidate-vibid:1001000113948": 120,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 19,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 146,
-      "Баскаев Аркадий Георгиевич": 517,
-      "Деркач Валентина Петровна": 27,
-      "Зоркальцев Виктор Ильич": 58,
-      "Клименко Иван Фёдорович": 12,
-      "Надеждин Борис Борисович": 181,
-      "Титов Игорь Борисович": 6,
-      "Утешев Виталий Викторович": 6,
-      "Против всех": 136
+      "gas:candidate-vibid:250200071225": 146,
+      "gas:candidate-vibid:1001000131402": 517,
+      "gas:candidate-vibid:250200071660": 27,
+      "gas:candidate-vibid:1001000121867": 58,
+      "gas:candidate-vibid:1001000217935": 12,
+      "gas:candidate-vibid:1001000113948": 181,
+      "gas:candidate-vibid:1001000195097": 6,
+      "gas:candidate-vibid:1001000136077": 6,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 110,
-      "Баскаев Аркадий Георгиевич": 383,
-      "Деркач Валентина Петровна": 15,
-      "Зоркальцев Виктор Ильич": 72,
-      "Клименко Иван Фёдорович": 5,
-      "Надеждин Борис Борисович": 185,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 6,
-      "Против всех": 97
+      "gas:candidate-vibid:250200071225": 110,
+      "gas:candidate-vibid:1001000131402": 383,
+      "gas:candidate-vibid:250200071660": 15,
+      "gas:candidate-vibid:1001000121867": 72,
+      "gas:candidate-vibid:1001000217935": 5,
+      "gas:candidate-vibid:1001000113948": 185,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 6,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 142,
-      "Баскаев Аркадий Георгиевич": 313,
-      "Деркач Валентина Петровна": 18,
-      "Зоркальцев Виктор Ильич": 54,
-      "Клименко Иван Фёдорович": 8,
-      "Надеждин Борис Борисович": 210,
-      "Титов Игорь Борисович": 3,
-      "Утешев Виталий Викторович": 7,
-      "Против всех": 98
+      "gas:candidate-vibid:250200071225": 142,
+      "gas:candidate-vibid:1001000131402": 313,
+      "gas:candidate-vibid:250200071660": 18,
+      "gas:candidate-vibid:1001000121867": 54,
+      "gas:candidate-vibid:1001000217935": 8,
+      "gas:candidate-vibid:1001000113948": 210,
+      "gas:candidate-vibid:1001000195097": 3,
+      "gas:candidate-vibid:1001000136077": 7,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 158,
-      "Баскаев Аркадий Георгиевич": 339,
-      "Деркач Валентина Петровна": 29,
-      "Зоркальцев Виктор Ильич": 43,
-      "Клименко Иван Фёдорович": 4,
-      "Надеждин Борис Борисович": 101,
-      "Титов Игорь Борисович": 6,
-      "Утешев Виталий Викторович": 8,
-      "Против всех": 80
+      "gas:candidate-vibid:250200071225": 158,
+      "gas:candidate-vibid:1001000131402": 339,
+      "gas:candidate-vibid:250200071660": 29,
+      "gas:candidate-vibid:1001000121867": 43,
+      "gas:candidate-vibid:1001000217935": 4,
+      "gas:candidate-vibid:1001000113948": 101,
+      "gas:candidate-vibid:1001000195097": 6,
+      "gas:candidate-vibid:1001000136077": 8,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 185,
-      "Баскаев Аркадий Георгиевич": 339,
-      "Деркач Валентина Петровна": 14,
-      "Зоркальцев Виктор Ильич": 57,
-      "Клименко Иван Фёдорович": 10,
-      "Надеждин Борис Борисович": 140,
-      "Титов Игорь Борисович": 16,
-      "Утешев Виталий Викторович": 21,
-      "Против всех": 111
+      "gas:candidate-vibid:250200071225": 185,
+      "gas:candidate-vibid:1001000131402": 339,
+      "gas:candidate-vibid:250200071660": 14,
+      "gas:candidate-vibid:1001000121867": 57,
+      "gas:candidate-vibid:1001000217935": 10,
+      "gas:candidate-vibid:1001000113948": 140,
+      "gas:candidate-vibid:1001000195097": 16,
+      "gas:candidate-vibid:1001000136077": 21,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 125,
-      "Баскаев Аркадий Георгиевич": 391,
-      "Деркач Валентина Петровна": 15,
-      "Зоркальцев Виктор Ильич": 62,
-      "Клименко Иван Фёдорович": 4,
-      "Надеждин Борис Борисович": 102,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 9,
-      "Против всех": 78
+      "gas:candidate-vibid:250200071225": 125,
+      "gas:candidate-vibid:1001000131402": 391,
+      "gas:candidate-vibid:250200071660": 15,
+      "gas:candidate-vibid:1001000121867": 62,
+      "gas:candidate-vibid:1001000217935": 4,
+      "gas:candidate-vibid:1001000113948": 102,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 9,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 214,
-      "Баскаев Аркадий Георгиевич": 480,
-      "Деркач Валентина Петровна": 24,
-      "Зоркальцев Виктор Ильич": 74,
-      "Клименко Иван Фёдорович": 15,
-      "Надеждин Борис Борисович": 135,
-      "Титов Игорь Борисович": 12,
-      "Утешев Виталий Викторович": 13,
-      "Против всех": 165
+      "gas:candidate-vibid:250200071225": 214,
+      "gas:candidate-vibid:1001000131402": 480,
+      "gas:candidate-vibid:250200071660": 24,
+      "gas:candidate-vibid:1001000121867": 74,
+      "gas:candidate-vibid:1001000217935": 15,
+      "gas:candidate-vibid:1001000113948": 135,
+      "gas:candidate-vibid:1001000195097": 12,
+      "gas:candidate-vibid:1001000136077": 13,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 120,
-      "Баскаев Аркадий Георгиевич": 541,
-      "Деркач Валентина Петровна": 35,
-      "Зоркальцев Виктор Ильич": 149,
-      "Клименко Иван Фёдорович": 22,
-      "Надеждин Борис Борисович": 201,
-      "Титов Игорь Борисович": 19,
-      "Утешев Виталий Викторович": 16,
-      "Против всех": 185
+      "gas:candidate-vibid:250200071225": 120,
+      "gas:candidate-vibid:1001000131402": 541,
+      "gas:candidate-vibid:250200071660": 35,
+      "gas:candidate-vibid:1001000121867": 149,
+      "gas:candidate-vibid:1001000217935": 22,
+      "gas:candidate-vibid:1001000113948": 201,
+      "gas:candidate-vibid:1001000195097": 19,
+      "gas:candidate-vibid:1001000136077": 16,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 11,
-      "Баскаев Аркадий Георгиевич": 83,
-      "Деркач Валентина Петровна": 5,
-      "Зоркальцев Виктор Ильич": 10,
-      "Клименко Иван Фёдорович": 1,
-      "Надеждин Борис Борисович": 36,
-      "Титов Игорь Борисович": 7,
-      "Утешев Виталий Викторович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:250200071225": 11,
+      "gas:candidate-vibid:1001000131402": 83,
+      "gas:candidate-vibid:250200071660": 5,
+      "gas:candidate-vibid:1001000121867": 10,
+      "gas:candidate-vibid:1001000217935": 1,
+      "gas:candidate-vibid:1001000113948": 36,
+      "gas:candidate-vibid:1001000195097": 7,
+      "gas:candidate-vibid:1001000136077": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570420&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 29,
-      "Баскаев Аркадий Георгиевич": 42,
-      "Деркач Валентина Петровна": 5,
-      "Зоркальцев Виктор Ильич": 25,
-      "Клименко Иван Фёдорович": 2,
-      "Надеждин Борис Борисович": 62,
-      "Титов Игорь Борисович": 4,
-      "Утешев Виталий Викторович": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:250200071225": 29,
+      "gas:candidate-vibid:1001000131402": 42,
+      "gas:candidate-vibid:250200071660": 5,
+      "gas:candidate-vibid:1001000121867": 25,
+      "gas:candidate-vibid:1001000217935": 2,
+      "gas:candidate-vibid:1001000113948": 62,
+      "gas:candidate-vibid:1001000195097": 4,
+      "gas:candidate-vibid:1001000136077": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 44,
-      "Баскаев Аркадий Георгиевич": 12,
-      "Деркач Валентина Петровна": 8,
-      "Зоркальцев Виктор Ильич": 55,
-      "Клименко Иван Фёдорович": 7,
-      "Надеждин Борис Борисович": 577,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 15,
-      "Против всех": 123
+      "gas:candidate-vibid:250200071225": 44,
+      "gas:candidate-vibid:1001000131402": 12,
+      "gas:candidate-vibid:250200071660": 8,
+      "gas:candidate-vibid:1001000121867": 55,
+      "gas:candidate-vibid:1001000217935": 7,
+      "gas:candidate-vibid:1001000113948": 577,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 15,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 83,
-      "Баскаев Аркадий Георгиевич": 130,
-      "Деркач Валентина Петровна": 7,
-      "Зоркальцев Виктор Ильич": 53,
-      "Клименко Иван Фёдорович": 8,
-      "Надеждин Борис Борисович": 119,
-      "Титов Игорь Борисович": 2,
-      "Утешев Виталий Викторович": 6,
-      "Против всех": 85
+      "gas:candidate-vibid:250200071225": 83,
+      "gas:candidate-vibid:1001000131402": 130,
+      "gas:candidate-vibid:250200071660": 7,
+      "gas:candidate-vibid:1001000121867": 53,
+      "gas:candidate-vibid:1001000217935": 8,
+      "gas:candidate-vibid:1001000113948": 119,
+      "gas:candidate-vibid:1001000195097": 2,
+      "gas:candidate-vibid:1001000136077": 6,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 76,
-      "Баскаев Аркадий Георгиевич": 233,
-      "Деркач Валентина Петровна": 15,
-      "Зоркальцев Виктор Ильич": 86,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 236,
-      "Титов Игорь Борисович": 7,
-      "Утешев Виталий Викторович": 10,
-      "Против всех": 80
+      "gas:candidate-vibid:250200071225": 76,
+      "gas:candidate-vibid:1001000131402": 233,
+      "gas:candidate-vibid:250200071660": 15,
+      "gas:candidate-vibid:1001000121867": 86,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 236,
+      "gas:candidate-vibid:1001000195097": 7,
+      "gas:candidate-vibid:1001000136077": 10,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 106,
-      "Баскаев Аркадий Георгиевич": 316,
-      "Деркач Валентина Петровна": 21,
-      "Зоркальцев Виктор Ильич": 134,
-      "Клименко Иван Фёдорович": 6,
-      "Надеждин Борис Борисович": 229,
-      "Титов Игорь Борисович": 6,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 152
+      "gas:candidate-vibid:250200071225": 106,
+      "gas:candidate-vibid:1001000131402": 316,
+      "gas:candidate-vibid:250200071660": 21,
+      "gas:candidate-vibid:1001000121867": 134,
+      "gas:candidate-vibid:1001000217935": 6,
+      "gas:candidate-vibid:1001000113948": 229,
+      "gas:candidate-vibid:1001000195097": 6,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 108,
-      "Баскаев Аркадий Георгиевич": 230,
-      "Деркач Валентина Петровна": 16,
-      "Зоркальцев Виктор Ильич": 65,
-      "Клименко Иван Фёдорович": 11,
-      "Надеждин Борис Борисович": 160,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 5,
-      "Против всех": 121
+      "gas:candidate-vibid:250200071225": 108,
+      "gas:candidate-vibid:1001000131402": 230,
+      "gas:candidate-vibid:250200071660": 16,
+      "gas:candidate-vibid:1001000121867": 65,
+      "gas:candidate-vibid:1001000217935": 11,
+      "gas:candidate-vibid:1001000113948": 160,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 5,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 91,
-      "Баскаев Аркадий Георгиевич": 351,
-      "Деркач Валентина Петровна": 17,
-      "Зоркальцев Виктор Ильич": 139,
-      "Клименко Иван Фёдорович": 20,
-      "Надеждин Борис Борисович": 284,
-      "Титов Игорь Борисович": 7,
-      "Утешев Виталий Викторович": 15,
-      "Против всех": 108
+      "gas:candidate-vibid:250200071225": 91,
+      "gas:candidate-vibid:1001000131402": 351,
+      "gas:candidate-vibid:250200071660": 17,
+      "gas:candidate-vibid:1001000121867": 139,
+      "gas:candidate-vibid:1001000217935": 20,
+      "gas:candidate-vibid:1001000113948": 284,
+      "gas:candidate-vibid:1001000195097": 7,
+      "gas:candidate-vibid:1001000136077": 15,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 43,
-      "Баскаев Аркадий Георгиевич": 230,
-      "Деркач Валентина Петровна": 8,
-      "Зоркальцев Виктор Ильич": 76,
-      "Клименко Иван Фёдорович": 16,
-      "Надеждин Борис Борисович": 154,
-      "Титов Игорь Борисович": 5,
-      "Утешев Виталий Викторович": 12,
-      "Против всех": 84
+      "gas:candidate-vibid:250200071225": 43,
+      "gas:candidate-vibid:1001000131402": 230,
+      "gas:candidate-vibid:250200071660": 8,
+      "gas:candidate-vibid:1001000121867": 76,
+      "gas:candidate-vibid:1001000217935": 16,
+      "gas:candidate-vibid:1001000113948": 154,
+      "gas:candidate-vibid:1001000195097": 5,
+      "gas:candidate-vibid:1001000136077": 12,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 169,
-      "Баскаев Аркадий Георгиевич": 383,
-      "Деркач Валентина Петровна": 17,
-      "Зоркальцев Виктор Ильич": 121,
-      "Клименко Иван Фёдорович": 21,
-      "Надеждин Борис Борисович": 362,
-      "Титов Игорь Борисович": 9,
-      "Утешев Виталий Викторович": 13,
-      "Против всех": 187
+      "gas:candidate-vibid:250200071225": 169,
+      "gas:candidate-vibid:1001000131402": 383,
+      "gas:candidate-vibid:250200071660": 17,
+      "gas:candidate-vibid:1001000121867": 121,
+      "gas:candidate-vibid:1001000217935": 21,
+      "gas:candidate-vibid:1001000113948": 362,
+      "gas:candidate-vibid:1001000195097": 9,
+      "gas:candidate-vibid:1001000136077": 13,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 23,
-      "Баскаев Аркадий Георгиевич": 61,
-      "Деркач Валентина Петровна": 2,
-      "Зоркальцев Виктор Ильич": 22,
-      "Клименко Иван Фёдорович": 1,
-      "Надеждин Борис Борисович": 33,
-      "Титов Игорь Борисович": 1,
-      "Утешев Виталий Викторович": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:250200071225": 23,
+      "gas:candidate-vibid:1001000131402": 61,
+      "gas:candidate-vibid:250200071660": 2,
+      "gas:candidate-vibid:1001000121867": 22,
+      "gas:candidate-vibid:1001000217935": 1,
+      "gas:candidate-vibid:1001000113948": 33,
+      "gas:candidate-vibid:1001000195097": 1,
+      "gas:candidate-vibid:1001000136077": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 165,
-      "Баскаев Аркадий Георгиевич": 438,
-      "Деркач Валентина Петровна": 21,
-      "Зоркальцев Виктор Ильич": 118,
-      "Клименко Иван Фёдорович": 25,
-      "Надеждин Борис Борисович": 292,
-      "Титов Игорь Борисович": 20,
-      "Утешев Виталий Викторович": 18,
-      "Против всех": 182
+      "gas:candidate-vibid:250200071225": 165,
+      "gas:candidate-vibid:1001000131402": 438,
+      "gas:candidate-vibid:250200071660": 21,
+      "gas:candidate-vibid:1001000121867": 118,
+      "gas:candidate-vibid:1001000217935": 25,
+      "gas:candidate-vibid:1001000113948": 292,
+      "gas:candidate-vibid:1001000195097": 20,
+      "gas:candidate-vibid:1001000136077": 18,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 4
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 140,
-      "Баскаев Аркадий Георгиевич": 371,
-      "Деркач Валентина Петровна": 12,
-      "Зоркальцев Виктор Ильич": 121,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 316,
-      "Титов Игорь Борисович": 9,
-      "Утешев Виталий Викторович": 14,
-      "Против всех": 144
+      "gas:candidate-vibid:250200071225": 140,
+      "gas:candidate-vibid:1001000131402": 371,
+      "gas:candidate-vibid:250200071660": 12,
+      "gas:candidate-vibid:1001000121867": 121,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 316,
+      "gas:candidate-vibid:1001000195097": 9,
+      "gas:candidate-vibid:1001000136077": 14,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 173,
-      "Баскаев Аркадий Георгиевич": 525,
-      "Деркач Валентина Петровна": 22,
-      "Зоркальцев Виктор Ильич": 192,
-      "Клименко Иван Фёдорович": 31,
-      "Надеждин Борис Борисович": 331,
-      "Титов Игорь Борисович": 24,
-      "Утешев Виталий Викторович": 21,
-      "Против всех": 211
+      "gas:candidate-vibid:250200071225": 173,
+      "gas:candidate-vibid:1001000131402": 525,
+      "gas:candidate-vibid:250200071660": 22,
+      "gas:candidate-vibid:1001000121867": 192,
+      "gas:candidate-vibid:1001000217935": 31,
+      "gas:candidate-vibid:1001000113948": 331,
+      "gas:candidate-vibid:1001000195097": 24,
+      "gas:candidate-vibid:1001000136077": 21,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 172,
-      "Баскаев Аркадий Георгиевич": 367,
-      "Деркач Валентина Петровна": 17,
-      "Зоркальцев Виктор Ильич": 177,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 289,
-      "Титов Игорь Борисович": 19,
-      "Утешев Виталий Викторович": 21,
-      "Против всех": 243
+      "gas:candidate-vibid:250200071225": 172,
+      "gas:candidate-vibid:1001000131402": 367,
+      "gas:candidate-vibid:250200071660": 17,
+      "gas:candidate-vibid:1001000121867": 177,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 289,
+      "gas:candidate-vibid:1001000195097": 19,
+      "gas:candidate-vibid:1001000136077": 21,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 110,
-      "Баскаев Аркадий Георгиевич": 489,
-      "Деркач Валентина Петровна": 28,
-      "Зоркальцев Виктор Ильич": 125,
-      "Клименко Иван Фёдорович": 19,
-      "Надеждин Борис Борисович": 303,
-      "Титов Игорь Борисович": 16,
-      "Утешев Виталий Викторович": 18,
-      "Против всех": 223
+      "gas:candidate-vibid:250200071225": 110,
+      "gas:candidate-vibid:1001000131402": 489,
+      "gas:candidate-vibid:250200071660": 28,
+      "gas:candidate-vibid:1001000121867": 125,
+      "gas:candidate-vibid:1001000217935": 19,
+      "gas:candidate-vibid:1001000113948": 303,
+      "gas:candidate-vibid:1001000195097": 16,
+      "gas:candidate-vibid:1001000136077": 18,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 195,
-      "Баскаев Аркадий Георгиевич": 457,
-      "Деркач Валентина Петровна": 14,
-      "Зоркальцев Виктор Ильич": 148,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 221,
-      "Титов Игорь Борисович": 10,
-      "Утешев Виталий Викторович": 15,
-      "Против всех": 138
+      "gas:candidate-vibid:250200071225": 195,
+      "gas:candidate-vibid:1001000131402": 457,
+      "gas:candidate-vibid:250200071660": 14,
+      "gas:candidate-vibid:1001000121867": 148,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 221,
+      "gas:candidate-vibid:1001000195097": 10,
+      "gas:candidate-vibid:1001000136077": 15,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 149,
-      "Баскаев Аркадий Георгиевич": 558,
-      "Деркач Валентина Петровна": 0,
-      "Зоркальцев Виктор Ильич": 152,
-      "Клименко Иван Фёдорович": 11,
-      "Надеждин Борис Борисович": 266,
-      "Титов Игорь Борисович": 21,
-      "Утешев Виталий Викторович": 0,
-      "Против всех": 194
+      "gas:candidate-vibid:250200071225": 149,
+      "gas:candidate-vibid:1001000131402": 558,
+      "gas:candidate-vibid:250200071660": 0,
+      "gas:candidate-vibid:1001000121867": 152,
+      "gas:candidate-vibid:1001000217935": 11,
+      "gas:candidate-vibid:1001000113948": 266,
+      "gas:candidate-vibid:1001000195097": 21,
+      "gas:candidate-vibid:1001000136077": 0,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 250,
-      "Баскаев Аркадий Георгиевич": 565,
-      "Деркач Валентина Петровна": 28,
-      "Зоркальцев Виктор Ильич": 131,
-      "Клименко Иван Фёдорович": 26,
-      "Надеждин Борис Борисович": 283,
-      "Титов Игорь Борисович": 27,
-      "Утешев Виталий Викторович": 23,
-      "Против всех": 241
+      "gas:candidate-vibid:250200071225": 250,
+      "gas:candidate-vibid:1001000131402": 565,
+      "gas:candidate-vibid:250200071660": 28,
+      "gas:candidate-vibid:1001000121867": 131,
+      "gas:candidate-vibid:1001000217935": 26,
+      "gas:candidate-vibid:1001000113948": 283,
+      "gas:candidate-vibid:1001000195097": 27,
+      "gas:candidate-vibid:1001000136077": 23,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 155,
-      "Баскаев Аркадий Георгиевич": 490,
-      "Деркач Валентина Петровна": 14,
-      "Зоркальцев Виктор Ильич": 81,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 310,
-      "Титов Игорь Борисович": 19,
-      "Утешев Виталий Викторович": 12,
-      "Против всех": 275
+      "gas:candidate-vibid:250200071225": 155,
+      "gas:candidate-vibid:1001000131402": 490,
+      "gas:candidate-vibid:250200071660": 14,
+      "gas:candidate-vibid:1001000121867": 81,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 310,
+      "gas:candidate-vibid:1001000195097": 19,
+      "gas:candidate-vibid:1001000136077": 12,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 182,
-      "Баскаев Аркадий Георгиевич": 587,
-      "Деркач Валентина Петровна": 29,
-      "Зоркальцев Виктор Ильич": 123,
-      "Клименко Иван Фёдорович": 16,
-      "Надеждин Борис Борисович": 310,
-      "Титов Игорь Борисович": 15,
-      "Утешев Виталий Викторович": 22,
-      "Против всех": 190
+      "gas:candidate-vibid:250200071225": 182,
+      "gas:candidate-vibid:1001000131402": 587,
+      "gas:candidate-vibid:250200071660": 29,
+      "gas:candidate-vibid:1001000121867": 123,
+      "gas:candidate-vibid:1001000217935": 16,
+      "gas:candidate-vibid:1001000113948": 310,
+      "gas:candidate-vibid:1001000195097": 15,
+      "gas:candidate-vibid:1001000136077": 22,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 174,
-      "Баскаев Аркадий Георгиевич": 665,
-      "Деркач Валентина Петровна": 24,
-      "Зоркальцев Виктор Ильич": 107,
-      "Клименко Иван Фёдорович": 21,
-      "Надеждин Борис Борисович": 193,
-      "Титов Игорь Борисович": 16,
-      "Утешев Виталий Викторович": 16,
-      "Против всех": 221
+      "gas:candidate-vibid:250200071225": 174,
+      "gas:candidate-vibid:1001000131402": 665,
+      "gas:candidate-vibid:250200071660": 24,
+      "gas:candidate-vibid:1001000121867": 107,
+      "gas:candidate-vibid:1001000217935": 21,
+      "gas:candidate-vibid:1001000113948": 193,
+      "gas:candidate-vibid:1001000195097": 16,
+      "gas:candidate-vibid:1001000136077": 16,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 181,
-      "Баскаев Аркадий Георгиевич": 473,
-      "Деркач Валентина Петровна": 28,
-      "Зоркальцев Виктор Ильич": 110,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 260,
-      "Титов Игорь Борисович": 18,
-      "Утешев Виталий Викторович": 35,
-      "Против всех": 278
+      "gas:candidate-vibid:250200071225": 181,
+      "gas:candidate-vibid:1001000131402": 473,
+      "gas:candidate-vibid:250200071660": 28,
+      "gas:candidate-vibid:1001000121867": 110,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 260,
+      "gas:candidate-vibid:1001000195097": 18,
+      "gas:candidate-vibid:1001000136077": 35,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 138,
-      "Баскаев Аркадий Георгиевич": 475,
-      "Деркач Валентина Петровна": 25,
-      "Зоркальцев Виктор Ильич": 97,
-      "Клименко Иван Фёдорович": 19,
-      "Надеждин Борис Борисович": 282,
-      "Титов Игорь Борисович": 16,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 230
+      "gas:candidate-vibid:250200071225": 138,
+      "gas:candidate-vibid:1001000131402": 475,
+      "gas:candidate-vibid:250200071660": 25,
+      "gas:candidate-vibid:1001000121867": 97,
+      "gas:candidate-vibid:1001000217935": 19,
+      "gas:candidate-vibid:1001000113948": 282,
+      "gas:candidate-vibid:1001000195097": 16,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 164,
-      "Баскаев Аркадий Георгиевич": 504,
-      "Деркач Валентина Петровна": 16,
-      "Зоркальцев Виктор Ильич": 116,
-      "Клименко Иван Фёдорович": 23,
-      "Надеждин Борис Борисович": 226,
-      "Титов Игорь Борисович": 18,
-      "Утешев Виталий Викторович": 17,
-      "Против всех": 209
+      "gas:candidate-vibid:250200071225": 164,
+      "gas:candidate-vibid:1001000131402": 504,
+      "gas:candidate-vibid:250200071660": 16,
+      "gas:candidate-vibid:1001000121867": 116,
+      "gas:candidate-vibid:1001000217935": 23,
+      "gas:candidate-vibid:1001000113948": 226,
+      "gas:candidate-vibid:1001000195097": 18,
+      "gas:candidate-vibid:1001000136077": 17,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 100,
-      "Баскаев Аркадий Георгиевич": 371,
-      "Деркач Валентина Петровна": 13,
-      "Зоркальцев Виктор Ильич": 109,
-      "Клименко Иван Фёдорович": 12,
-      "Надеждин Борис Борисович": 227,
-      "Титов Игорь Борисович": 7,
-      "Утешев Виталий Викторович": 15,
-      "Против всех": 161
+      "gas:candidate-vibid:250200071225": 100,
+      "gas:candidate-vibid:1001000131402": 371,
+      "gas:candidate-vibid:250200071660": 13,
+      "gas:candidate-vibid:1001000121867": 109,
+      "gas:candidate-vibid:1001000217935": 12,
+      "gas:candidate-vibid:1001000113948": 227,
+      "gas:candidate-vibid:1001000195097": 7,
+      "gas:candidate-vibid:1001000136077": 15,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 95,
-      "Баскаев Аркадий Георгиевич": 342,
-      "Деркач Валентина Петровна": 7,
-      "Зоркальцев Виктор Ильич": 65,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 196,
-      "Титов Игорь Борисович": 10,
-      "Утешев Виталий Викторович": 13,
-      "Против всех": 166
+      "gas:candidate-vibid:250200071225": 95,
+      "gas:candidate-vibid:1001000131402": 342,
+      "gas:candidate-vibid:250200071660": 7,
+      "gas:candidate-vibid:1001000121867": 65,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 196,
+      "gas:candidate-vibid:1001000195097": 10,
+      "gas:candidate-vibid:1001000136077": 13,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 56,
-      "Баскаев Аркадий Георгиевич": 221,
-      "Деркач Валентина Петровна": 13,
-      "Зоркальцев Виктор Ильич": 39,
-      "Клименко Иван Фёдорович": 7,
-      "Надеждин Борис Борисович": 101,
-      "Титов Игорь Борисович": 9,
-      "Утешев Виталий Викторович": 5,
-      "Против всех": 103
+      "gas:candidate-vibid:250200071225": 56,
+      "gas:candidate-vibid:1001000131402": 221,
+      "gas:candidate-vibid:250200071660": 13,
+      "gas:candidate-vibid:1001000121867": 39,
+      "gas:candidate-vibid:1001000217935": 7,
+      "gas:candidate-vibid:1001000113948": 101,
+      "gas:candidate-vibid:1001000195097": 9,
+      "gas:candidate-vibid:1001000136077": 5,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 259,
-      "Баскаев Аркадий Георгиевич": 489,
-      "Деркач Валентина Петровна": 16,
-      "Зоркальцев Виктор Ильич": 104,
-      "Клименко Иван Фёдорович": 28,
-      "Надеждин Борис Борисович": 182,
-      "Титов Игорь Борисович": 21,
-      "Утешев Виталий Викторович": 37,
-      "Против всех": 310
+      "gas:candidate-vibid:250200071225": 259,
+      "gas:candidate-vibid:1001000131402": 489,
+      "gas:candidate-vibid:250200071660": 16,
+      "gas:candidate-vibid:1001000121867": 104,
+      "gas:candidate-vibid:1001000217935": 28,
+      "gas:candidate-vibid:1001000113948": 182,
+      "gas:candidate-vibid:1001000195097": 21,
+      "gas:candidate-vibid:1001000136077": 37,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 187,
-      "Баскаев Аркадий Георгиевич": 643,
-      "Деркач Валентина Петровна": 15,
-      "Зоркальцев Виктор Ильич": 105,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 197,
-      "Титов Игорь Борисович": 12,
-      "Утешев Виталий Викторович": 16,
-      "Против всех": 209
+      "gas:candidate-vibid:250200071225": 187,
+      "gas:candidate-vibid:1001000131402": 643,
+      "gas:candidate-vibid:250200071660": 15,
+      "gas:candidate-vibid:1001000121867": 105,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 197,
+      "gas:candidate-vibid:1001000195097": 12,
+      "gas:candidate-vibid:1001000136077": 16,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 57,
-      "Баскаев Аркадий Георгиевич": 207,
-      "Деркач Валентина Петровна": 7,
-      "Зоркальцев Виктор Ильич": 55,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 109,
-      "Титов Игорь Борисович": 10,
-      "Утешев Виталий Викторович": 10,
-      "Против всех": 79
+      "gas:candidate-vibid:250200071225": 57,
+      "gas:candidate-vibid:1001000131402": 207,
+      "gas:candidate-vibid:250200071660": 7,
+      "gas:candidate-vibid:1001000121867": 55,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 109,
+      "gas:candidate-vibid:1001000195097": 10,
+      "gas:candidate-vibid:1001000136077": 10,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 45,
-      "Баскаев Аркадий Георгиевич": 142,
-      "Деркач Валентина Петровна": 10,
-      "Зоркальцев Виктор Ильич": 29,
-      "Клименко Иван Фёдорович": 9,
-      "Надеждин Борис Борисович": 99,
-      "Титов Игорь Борисович": 8,
-      "Утешев Виталий Викторович": 13,
-      "Против всех": 70
+      "gas:candidate-vibid:250200071225": 45,
+      "gas:candidate-vibid:1001000131402": 142,
+      "gas:candidate-vibid:250200071660": 10,
+      "gas:candidate-vibid:1001000121867": 29,
+      "gas:candidate-vibid:1001000217935": 9,
+      "gas:candidate-vibid:1001000113948": 99,
+      "gas:candidate-vibid:1001000195097": 8,
+      "gas:candidate-vibid:1001000136077": 13,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 36,
-      "Баскаев Аркадий Георгиевич": 113,
-      "Деркач Валентина Петровна": 7,
-      "Зоркальцев Виктор Ильич": 32,
-      "Клименко Иван Фёдорович": 5,
-      "Надеждин Борис Борисович": 103,
-      "Титов Игорь Борисович": 1,
-      "Утешев Виталий Викторович": 7,
-      "Против всех": 73
+      "gas:candidate-vibid:250200071225": 36,
+      "gas:candidate-vibid:1001000131402": 113,
+      "gas:candidate-vibid:250200071660": 7,
+      "gas:candidate-vibid:1001000121867": 32,
+      "gas:candidate-vibid:1001000217935": 5,
+      "gas:candidate-vibid:1001000113948": 103,
+      "gas:candidate-vibid:1001000195097": 1,
+      "gas:candidate-vibid:1001000136077": 7,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 48,
-      "Баскаев Аркадий Георгиевич": 255,
-      "Деркач Валентина Петровна": 6,
-      "Зоркальцев Виктор Ильич": 34,
-      "Клименко Иван Фёдорович": 18,
-      "Надеждин Борис Борисович": 88,
-      "Титов Игорь Борисович": 15,
-      "Утешев Виталий Викторович": 6,
-      "Против всех": 92
+      "gas:candidate-vibid:250200071225": 48,
+      "gas:candidate-vibid:1001000131402": 255,
+      "gas:candidate-vibid:250200071660": 6,
+      "gas:candidate-vibid:1001000121867": 34,
+      "gas:candidate-vibid:1001000217935": 18,
+      "gas:candidate-vibid:1001000113948": 88,
+      "gas:candidate-vibid:1001000195097": 15,
+      "gas:candidate-vibid:1001000136077": 6,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 163,
-      "Баскаев Аркадий Георгиевич": 176,
-      "Деркач Валентина Петровна": 7,
-      "Зоркальцев Виктор Ильич": 28,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 48,
-      "Титов Игорь Борисович": 6,
-      "Утешев Виталий Викторович": 11,
-      "Против всех": 78
+      "gas:candidate-vibid:250200071225": 163,
+      "gas:candidate-vibid:1001000131402": 176,
+      "gas:candidate-vibid:250200071660": 7,
+      "gas:candidate-vibid:1001000121867": 28,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 48,
+      "gas:candidate-vibid:1001000195097": 6,
+      "gas:candidate-vibid:1001000136077": 11,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 13,
-      "Баскаев Аркадий Георгиевич": 15,
-      "Деркач Валентина Петровна": 5,
-      "Зоркальцев Виктор Ильич": 3,
-      "Клименко Иван Фёдорович": 3,
-      "Надеждин Борис Борисович": 4,
-      "Титов Игорь Борисович": 9,
-      "Утешев Виталий Викторович": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:250200071225": 13,
+      "gas:candidate-vibid:1001000131402": 15,
+      "gas:candidate-vibid:250200071660": 5,
+      "gas:candidate-vibid:1001000121867": 3,
+      "gas:candidate-vibid:1001000217935": 3,
+      "gas:candidate-vibid:1001000113948": 4,
+      "gas:candidate-vibid:1001000195097": 9,
+      "gas:candidate-vibid:1001000136077": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570474&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 270,
-      "Баскаев Аркадий Георгиевич": 295,
-      "Деркач Валентина Петровна": 25,
-      "Зоркальцев Виктор Ильич": 181,
-      "Клименко Иван Фёдорович": 13,
-      "Надеждин Борис Борисович": 152,
-      "Титов Игорь Борисович": 26,
-      "Утешев Виталий Викторович": 16,
-      "Против всех": 175
+      "gas:candidate-vibid:250200071225": 270,
+      "gas:candidate-vibid:1001000131402": 295,
+      "gas:candidate-vibid:250200071660": 25,
+      "gas:candidate-vibid:1001000121867": 181,
+      "gas:candidate-vibid:1001000217935": 13,
+      "gas:candidate-vibid:1001000113948": 152,
+      "gas:candidate-vibid:1001000195097": 26,
+      "gas:candidate-vibid:1001000136077": 16,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 210,
-      "Баскаев Аркадий Георгиевич": 376,
-      "Деркач Валентина Петровна": 28,
-      "Зоркальцев Виктор Ильич": 245,
-      "Клименко Иван Фёдорович": 23,
-      "Надеждин Борис Борисович": 124,
-      "Титов Игорь Борисович": 37,
-      "Утешев Виталий Викторович": 23,
-      "Против всех": 239
+      "gas:candidate-vibid:250200071225": 210,
+      "gas:candidate-vibid:1001000131402": 376,
+      "gas:candidate-vibid:250200071660": 28,
+      "gas:candidate-vibid:1001000121867": 245,
+      "gas:candidate-vibid:1001000217935": 23,
+      "gas:candidate-vibid:1001000113948": 124,
+      "gas:candidate-vibid:1001000195097": 37,
+      "gas:candidate-vibid:1001000136077": 23,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 225,
-      "Баскаев Аркадий Георгиевич": 493,
-      "Деркач Валентина Петровна": 49,
-      "Зоркальцев Виктор Ильич": 334,
-      "Клименко Иван Фёдорович": 20,
-      "Надеждин Борис Борисович": 187,
-      "Титов Игорь Борисович": 30,
-      "Утешев Виталий Викторович": 16,
-      "Против всех": 203
+      "gas:candidate-vibid:250200071225": 225,
+      "gas:candidate-vibid:1001000131402": 493,
+      "gas:candidate-vibid:250200071660": 49,
+      "gas:candidate-vibid:1001000121867": 334,
+      "gas:candidate-vibid:1001000217935": 20,
+      "gas:candidate-vibid:1001000113948": 187,
+      "gas:candidate-vibid:1001000195097": 30,
+      "gas:candidate-vibid:1001000136077": 16,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 186,
-      "Баскаев Аркадий Георгиевич": 520,
-      "Деркач Валентина Петровна": 41,
-      "Зоркальцев Виктор Ильич": 291,
-      "Клименко Иван Фёдорович": 25,
-      "Надеждин Борис Борисович": 184,
-      "Титов Игорь Борисович": 60,
-      "Утешев Виталий Викторович": 29,
-      "Против всех": 304
+      "gas:candidate-vibid:250200071225": 186,
+      "gas:candidate-vibid:1001000131402": 520,
+      "gas:candidate-vibid:250200071660": 41,
+      "gas:candidate-vibid:1001000121867": 291,
+      "gas:candidate-vibid:1001000217935": 25,
+      "gas:candidate-vibid:1001000113948": 184,
+      "gas:candidate-vibid:1001000195097": 60,
+      "gas:candidate-vibid:1001000136077": 29,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 312,
-      "Баскаев Аркадий Георгиевич": 443,
-      "Деркач Валентина Петровна": 40,
-      "Зоркальцев Виктор Ильич": 475,
-      "Клименко Иван Фёдорович": 19,
-      "Надеждин Борис Борисович": 217,
-      "Титов Игорь Борисович": 38,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 220
+      "gas:candidate-vibid:250200071225": 312,
+      "gas:candidate-vibid:1001000131402": 443,
+      "gas:candidate-vibid:250200071660": 40,
+      "gas:candidate-vibid:1001000121867": 475,
+      "gas:candidate-vibid:1001000217935": 19,
+      "gas:candidate-vibid:1001000113948": 217,
+      "gas:candidate-vibid:1001000195097": 38,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 248,
-      "Баскаев Аркадий Георгиевич": 335,
-      "Деркач Валентина Петровна": 53,
-      "Зоркальцев Виктор Ильич": 240,
-      "Клименко Иван Фёдорович": 38,
-      "Надеждин Борис Борисович": 233,
-      "Титов Игорь Борисович": 53,
-      "Утешев Виталий Викторович": 37,
-      "Против всех": 244
+      "gas:candidate-vibid:250200071225": 248,
+      "gas:candidate-vibid:1001000131402": 335,
+      "gas:candidate-vibid:250200071660": 53,
+      "gas:candidate-vibid:1001000121867": 240,
+      "gas:candidate-vibid:1001000217935": 38,
+      "gas:candidate-vibid:1001000113948": 233,
+      "gas:candidate-vibid:1001000195097": 53,
+      "gas:candidate-vibid:1001000136077": 37,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 7
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 192,
-      "Баскаев Аркадий Георгиевич": 397,
-      "Деркач Валентина Петровна": 29,
-      "Зоркальцев Виктор Ильич": 210,
-      "Клименко Иван Фёдорович": 16,
-      "Надеждин Борис Борисович": 210,
-      "Титов Игорь Борисович": 37,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 267
+      "gas:candidate-vibid:250200071225": 192,
+      "gas:candidate-vibid:1001000131402": 397,
+      "gas:candidate-vibid:250200071660": 29,
+      "gas:candidate-vibid:1001000121867": 210,
+      "gas:candidate-vibid:1001000217935": 16,
+      "gas:candidate-vibid:1001000113948": 210,
+      "gas:candidate-vibid:1001000195097": 37,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 260,
-      "Баскаев Аркадий Георгиевич": 348,
-      "Деркач Валентина Петровна": 18,
-      "Зоркальцев Виктор Ильич": 188,
-      "Клименко Иван Фёдорович": 14,
-      "Надеждин Борис Борисович": 186,
-      "Титов Игорь Борисович": 50,
-      "Утешев Виталий Викторович": 20,
-      "Против всех": 236
+      "gas:candidate-vibid:250200071225": 260,
+      "gas:candidate-vibid:1001000131402": 348,
+      "gas:candidate-vibid:250200071660": 18,
+      "gas:candidate-vibid:1001000121867": 188,
+      "gas:candidate-vibid:1001000217935": 14,
+      "gas:candidate-vibid:1001000113948": 186,
+      "gas:candidate-vibid:1001000195097": 50,
+      "gas:candidate-vibid:1001000136077": 20,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 212,
-      "Баскаев Аркадий Георгиевич": 551,
-      "Деркач Валентина Петровна": 54,
-      "Зоркальцев Виктор Ильич": 268,
-      "Клименко Иван Фёдорович": 28,
-      "Надеждин Борис Борисович": 173,
-      "Титов Игорь Борисович": 53,
-      "Утешев Виталий Викторович": 29,
-      "Против всех": 218
+      "gas:candidate-vibid:250200071225": 212,
+      "gas:candidate-vibid:1001000131402": 551,
+      "gas:candidate-vibid:250200071660": 54,
+      "gas:candidate-vibid:1001000121867": 268,
+      "gas:candidate-vibid:1001000217935": 28,
+      "gas:candidate-vibid:1001000113948": 173,
+      "gas:candidate-vibid:1001000195097": 53,
+      "gas:candidate-vibid:1001000136077": 29,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аристархов Владимир Владимирович": 215,
-      "Баскаев Аркадий Георгиевич": 452,
-      "Деркач Валентина Петровна": 42,
-      "Зоркальцев Виктор Ильич": 232,
-      "Клименко Иван Фёдорович": 25,
-      "Надеждин Борис Борисович": 256,
-      "Титов Игорь Борисович": 46,
-      "Утешев Виталий Викторович": 23,
-      "Против всех": 236
+      "gas:candidate-vibid:250200071225": 215,
+      "gas:candidate-vibid:1001000131402": 452,
+      "gas:candidate-vibid:250200071660": 42,
+      "gas:candidate-vibid:1001000121867": 232,
+      "gas:candidate-vibid:1001000217935": 25,
+      "gas:candidate-vibid:1001000113948": 256,
+      "gas:candidate-vibid:1001000195097": 46,
+      "gas:candidate-vibid:1001000136077": 23,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503005006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300570475&region=0&sub_region=0&type=429",
@@ -6132,13 +6132,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 53,
-      "Ведехов Алексей Владимирович": 109,
-      "Голубев Сергей Олегович": 31,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 442,
-      "Сонин Анатолий Алексеевич": 83,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000190373": 53,
+      "gas:candidate-vibid:250200071323": 109,
+      "gas:candidate-vibid:350300670408": 31,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 442,
+      "gas:candidate-vibid:1001000113949": 83,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6188,13 +6188,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 40,
-      "Ведехов Алексей Владимирович": 123,
-      "Голубев Сергей Олегович": 22,
-      "Кулаков Сергей Иванович": 23,
-      "Пекарев Владимир Янович": 395,
-      "Сонин Анатолий Алексеевич": 65,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190373": 40,
+      "gas:candidate-vibid:250200071323": 123,
+      "gas:candidate-vibid:350300670408": 22,
+      "gas:candidate-vibid:1001000195098": 23,
+      "gas:candidate-vibid:250200071326": 395,
+      "gas:candidate-vibid:1001000113949": 65,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6244,13 +6244,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 33,
-      "Ведехов Алексей Владимирович": 155,
-      "Голубев Сергей Олегович": 46,
-      "Кулаков Сергей Иванович": 52,
-      "Пекарев Владимир Янович": 470,
-      "Сонин Анатолий Алексеевич": 73,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000190373": 33,
+      "gas:candidate-vibid:250200071323": 155,
+      "gas:candidate-vibid:350300670408": 46,
+      "gas:candidate-vibid:1001000195098": 52,
+      "gas:candidate-vibid:250200071326": 470,
+      "gas:candidate-vibid:1001000113949": 73,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6300,13 +6300,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 78,
-      "Голубев Сергей Олегович": 16,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 476,
-      "Сонин Анатолий Алексеевич": 71,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 78,
+      "gas:candidate-vibid:350300670408": 16,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 476,
+      "gas:candidate-vibid:1001000113949": 71,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6356,13 +6356,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 12,
-      "Ведехов Алексей Владимирович": 20,
-      "Голубев Сергей Олегович": 112,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 388,
-      "Сонин Анатолий Алексеевич": 38,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000190373": 12,
+      "gas:candidate-vibid:250200071323": 20,
+      "gas:candidate-vibid:350300670408": 112,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 388,
+      "gas:candidate-vibid:1001000113949": 38,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6412,13 +6412,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 62,
-      "Ведехов Алексей Владимирович": 124,
-      "Голубев Сергей Олегович": 30,
-      "Кулаков Сергей Иванович": 29,
-      "Пекарев Владимир Янович": 512,
-      "Сонин Анатолий Алексеевич": 55,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000190373": 62,
+      "gas:candidate-vibid:250200071323": 124,
+      "gas:candidate-vibid:350300670408": 30,
+      "gas:candidate-vibid:1001000195098": 29,
+      "gas:candidate-vibid:250200071326": 512,
+      "gas:candidate-vibid:1001000113949": 55,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6468,13 +6468,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 46,
-      "Ведехов Алексей Владимирович": 165,
-      "Голубев Сергей Олегович": 44,
-      "Кулаков Сергей Иванович": 33,
-      "Пекарев Владимир Янович": 449,
-      "Сонин Анатолий Алексеевич": 52,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000190373": 46,
+      "gas:candidate-vibid:250200071323": 165,
+      "gas:candidate-vibid:350300670408": 44,
+      "gas:candidate-vibid:1001000195098": 33,
+      "gas:candidate-vibid:250200071326": 449,
+      "gas:candidate-vibid:1001000113949": 52,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6524,13 +6524,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 32,
-      "Ведехов Алексей Владимирович": 93,
-      "Голубев Сергей Олегович": 37,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 502,
-      "Сонин Анатолий Алексеевич": 69,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000190373": 32,
+      "gas:candidate-vibid:250200071323": 93,
+      "gas:candidate-vibid:350300670408": 37,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 502,
+      "gas:candidate-vibid:1001000113949": 69,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6580,13 +6580,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 50,
-      "Ведехов Алексей Владимирович": 118,
-      "Голубев Сергей Олегович": 44,
-      "Кулаков Сергей Иванович": 29,
-      "Пекарев Владимир Янович": 485,
-      "Сонин Анатолий Алексеевич": 68,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190373": 50,
+      "gas:candidate-vibid:250200071323": 118,
+      "gas:candidate-vibid:350300670408": 44,
+      "gas:candidate-vibid:1001000195098": 29,
+      "gas:candidate-vibid:250200071326": 485,
+      "gas:candidate-vibid:1001000113949": 68,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670567&region=0&sub_region=0&type=429",
@@ -6636,13 +6636,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 60,
-      "Ведехов Алексей Владимирович": 114,
-      "Голубев Сергей Олегович": 50,
-      "Кулаков Сергей Иванович": 59,
-      "Пекарев Владимир Янович": 533,
-      "Сонин Анатолий Алексеевич": 65,
-      "Против всех": 409
+      "gas:candidate-vibid:1001000190373": 60,
+      "gas:candidate-vibid:250200071323": 114,
+      "gas:candidate-vibid:350300670408": 50,
+      "gas:candidate-vibid:1001000195098": 59,
+      "gas:candidate-vibid:250200071326": 533,
+      "gas:candidate-vibid:1001000113949": 65,
+      "special:against-all": 409
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -6692,13 +6692,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 53,
-      "Ведехов Алексей Владимирович": 144,
-      "Голубев Сергей Олегович": 45,
-      "Кулаков Сергей Иванович": 44,
-      "Пекарев Владимир Янович": 357,
-      "Сонин Анатолий Алексеевич": 61,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000190373": 53,
+      "gas:candidate-vibid:250200071323": 144,
+      "gas:candidate-vibid:350300670408": 45,
+      "gas:candidate-vibid:1001000195098": 44,
+      "gas:candidate-vibid:250200071326": 357,
+      "gas:candidate-vibid:1001000113949": 61,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -6748,13 +6748,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 72,
-      "Ведехов Алексей Владимирович": 178,
-      "Голубев Сергей Олегович": 61,
-      "Кулаков Сергей Иванович": 43,
-      "Пекарев Владимир Янович": 523,
-      "Сонин Анатолий Алексеевич": 121,
-      "Против всех": 370
+      "gas:candidate-vibid:1001000190373": 72,
+      "gas:candidate-vibid:250200071323": 178,
+      "gas:candidate-vibid:350300670408": 61,
+      "gas:candidate-vibid:1001000195098": 43,
+      "gas:candidate-vibid:250200071326": 523,
+      "gas:candidate-vibid:1001000113949": 121,
+      "special:against-all": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -6804,13 +6804,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 70,
-      "Ведехов Алексей Владимирович": 155,
-      "Голубев Сергей Олегович": 27,
-      "Кулаков Сергей Иванович": 53,
-      "Пекарев Владимир Янович": 358,
-      "Сонин Анатолий Алексеевич": 125,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000190373": 70,
+      "gas:candidate-vibid:250200071323": 155,
+      "gas:candidate-vibid:350300670408": 27,
+      "gas:candidate-vibid:1001000195098": 53,
+      "gas:candidate-vibid:250200071326": 358,
+      "gas:candidate-vibid:1001000113949": 125,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -6860,13 +6860,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 57,
-      "Ведехов Алексей Владимирович": 138,
-      "Голубев Сергей Олегович": 58,
-      "Кулаков Сергей Иванович": 38,
-      "Пекарев Владимир Янович": 415,
-      "Сонин Анатолий Алексеевич": 86,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000190373": 57,
+      "gas:candidate-vibid:250200071323": 138,
+      "gas:candidate-vibid:350300670408": 58,
+      "gas:candidate-vibid:1001000195098": 38,
+      "gas:candidate-vibid:250200071326": 415,
+      "gas:candidate-vibid:1001000113949": 86,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -6916,13 +6916,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 37,
-      "Ведехов Алексей Владимирович": 136,
-      "Голубев Сергей Олегович": 75,
-      "Кулаков Сергей Иванович": 55,
-      "Пекарев Владимир Янович": 621,
-      "Сонин Анатолий Алексеевич": 139,
-      "Против всех": 503
+      "gas:candidate-vibid:1001000190373": 37,
+      "gas:candidate-vibid:250200071323": 136,
+      "gas:candidate-vibid:350300670408": 75,
+      "gas:candidate-vibid:1001000195098": 55,
+      "gas:candidate-vibid:250200071326": 621,
+      "gas:candidate-vibid:1001000113949": 139,
+      "special:against-all": 503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -6972,13 +6972,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 84,
-      "Ведехов Алексей Владимирович": 187,
-      "Голубев Сергей Олегович": 59,
-      "Кулаков Сергей Иванович": 52,
-      "Пекарев Владимир Янович": 622,
-      "Сонин Анатолий Алексеевич": 120,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000190373": 84,
+      "gas:candidate-vibid:250200071323": 187,
+      "gas:candidate-vibid:350300670408": 59,
+      "gas:candidate-vibid:1001000195098": 52,
+      "gas:candidate-vibid:250200071326": 622,
+      "gas:candidate-vibid:1001000113949": 120,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7028,13 +7028,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 67,
-      "Ведехов Алексей Владимирович": 129,
-      "Голубев Сергей Олегович": 63,
-      "Кулаков Сергей Иванович": 51,
-      "Пекарев Владимир Янович": 419,
-      "Сонин Анатолий Алексеевич": 84,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000190373": 67,
+      "gas:candidate-vibid:250200071323": 129,
+      "gas:candidate-vibid:350300670408": 63,
+      "gas:candidate-vibid:1001000195098": 51,
+      "gas:candidate-vibid:250200071326": 419,
+      "gas:candidate-vibid:1001000113949": 84,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7084,13 +7084,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 57,
-      "Ведехов Алексей Владимирович": 137,
-      "Голубев Сергей Олегович": 65,
-      "Кулаков Сергей Иванович": 44,
-      "Пекарев Владимир Янович": 548,
-      "Сонин Анатолий Алексеевич": 94,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000190373": 57,
+      "gas:candidate-vibid:250200071323": 137,
+      "gas:candidate-vibid:350300670408": 65,
+      "gas:candidate-vibid:1001000195098": 44,
+      "gas:candidate-vibid:250200071326": 548,
+      "gas:candidate-vibid:1001000113949": 94,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7140,13 +7140,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 61,
-      "Ведехов Алексей Владимирович": 204,
-      "Голубев Сергей Олегович": 58,
-      "Кулаков Сергей Иванович": 48,
-      "Пекарев Владимир Янович": 564,
-      "Сонин Анатолий Алексеевич": 78,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000190373": 61,
+      "gas:candidate-vibid:250200071323": 204,
+      "gas:candidate-vibid:350300670408": 58,
+      "gas:candidate-vibid:1001000195098": 48,
+      "gas:candidate-vibid:250200071326": 564,
+      "gas:candidate-vibid:1001000113949": 78,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7196,13 +7196,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 215,
-      "Голубев Сергей Олегович": 44,
-      "Кулаков Сергей Иванович": 51,
-      "Пекарев Владимир Янович": 593,
-      "Сонин Анатолий Алексеевич": 82,
-      "Против всех": 368
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 215,
+      "gas:candidate-vibid:350300670408": 44,
+      "gas:candidate-vibid:1001000195098": 51,
+      "gas:candidate-vibid:250200071326": 593,
+      "gas:candidate-vibid:1001000113949": 82,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7252,13 +7252,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 54,
-      "Ведехов Алексей Владимирович": 238,
-      "Голубев Сергей Олегович": 70,
-      "Кулаков Сергей Иванович": 52,
-      "Пекарев Владимир Янович": 613,
-      "Сонин Анатолий Алексеевич": 100,
-      "Против всех": 378
+      "gas:candidate-vibid:1001000190373": 54,
+      "gas:candidate-vibid:250200071323": 238,
+      "gas:candidate-vibid:350300670408": 70,
+      "gas:candidate-vibid:1001000195098": 52,
+      "gas:candidate-vibid:250200071326": 613,
+      "gas:candidate-vibid:1001000113949": 100,
+      "special:against-all": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7308,13 +7308,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 61,
-      "Ведехов Алексей Владимирович": 158,
-      "Голубев Сергей Олегович": 62,
-      "Кулаков Сергей Иванович": 46,
-      "Пекарев Владимир Янович": 637,
-      "Сонин Анатолий Алексеевич": 106,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000190373": 61,
+      "gas:candidate-vibid:250200071323": 158,
+      "gas:candidate-vibid:350300670408": 62,
+      "gas:candidate-vibid:1001000195098": 46,
+      "gas:candidate-vibid:250200071326": 637,
+      "gas:candidate-vibid:1001000113949": 106,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7364,13 +7364,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 81,
-      "Ведехов Алексей Владимирович": 186,
-      "Голубев Сергей Олегович": 93,
-      "Кулаков Сергей Иванович": 60,
-      "Пекарев Владимир Янович": 682,
-      "Сонин Анатолий Алексеевич": 103,
-      "Против всех": 432
+      "gas:candidate-vibid:1001000190373": 81,
+      "gas:candidate-vibid:250200071323": 186,
+      "gas:candidate-vibid:350300670408": 93,
+      "gas:candidate-vibid:1001000195098": 60,
+      "gas:candidate-vibid:250200071326": 682,
+      "gas:candidate-vibid:1001000113949": 103,
+      "special:against-all": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7420,13 +7420,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 62,
-      "Ведехов Алексей Владимирович": 167,
-      "Голубев Сергей Олегович": 70,
-      "Кулаков Сергей Иванович": 51,
-      "Пекарев Владимир Янович": 569,
-      "Сонин Анатолий Алексеевич": 132,
-      "Против всех": 517
+      "gas:candidate-vibid:1001000190373": 62,
+      "gas:candidate-vibid:250200071323": 167,
+      "gas:candidate-vibid:350300670408": 70,
+      "gas:candidate-vibid:1001000195098": 51,
+      "gas:candidate-vibid:250200071326": 569,
+      "gas:candidate-vibid:1001000113949": 132,
+      "special:against-all": 517
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7476,13 +7476,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 56,
-      "Ведехов Алексей Владимирович": 227,
-      "Голубев Сергей Олегович": 81,
-      "Кулаков Сергей Иванович": 58,
-      "Пекарев Владимир Янович": 559,
-      "Сонин Анатолий Алексеевич": 117,
-      "Против всех": 452
+      "gas:candidate-vibid:1001000190373": 56,
+      "gas:candidate-vibid:250200071323": 227,
+      "gas:candidate-vibid:350300670408": 81,
+      "gas:candidate-vibid:1001000195098": 58,
+      "gas:candidate-vibid:250200071326": 559,
+      "gas:candidate-vibid:1001000113949": 117,
+      "special:against-all": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7532,13 +7532,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 71,
-      "Ведехов Алексей Владимирович": 182,
-      "Голубев Сергей Олегович": 77,
-      "Кулаков Сергей Иванович": 44,
-      "Пекарев Владимир Янович": 463,
-      "Сонин Анатолий Алексеевич": 87,
-      "Против всех": 429
+      "gas:candidate-vibid:1001000190373": 71,
+      "gas:candidate-vibid:250200071323": 182,
+      "gas:candidate-vibid:350300670408": 77,
+      "gas:candidate-vibid:1001000195098": 44,
+      "gas:candidate-vibid:250200071326": 463,
+      "gas:candidate-vibid:1001000113949": 87,
+      "special:against-all": 429
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7588,13 +7588,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 11,
-      "Ведехов Алексей Владимирович": 20,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 94,
-      "Сонин Анатолий Алексеевич": 20,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190373": 11,
+      "gas:candidate-vibid:250200071323": 20,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 94,
+      "gas:candidate-vibid:1001000113949": 20,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670568&region=0&sub_region=0&type=429",
@@ -7644,13 +7644,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 4,
-      "Ведехов Алексей Владимирович": 18,
-      "Голубев Сергей Олегович": 0,
-      "Кулаков Сергей Иванович": 0,
-      "Пекарев Владимир Янович": 45,
-      "Сонин Анатолий Алексеевич": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190373": 4,
+      "gas:candidate-vibid:250200071323": 18,
+      "gas:candidate-vibid:350300670408": 0,
+      "gas:candidate-vibid:1001000195098": 0,
+      "gas:candidate-vibid:250200071326": 45,
+      "gas:candidate-vibid:1001000113949": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -7700,13 +7700,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 1,
-      "Ведехов Алексей Владимирович": 4,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 1,
-      "Пекарев Владимир Янович": 87,
-      "Сонин Анатолий Алексеевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190373": 1,
+      "gas:candidate-vibid:250200071323": 4,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 1,
+      "gas:candidate-vibid:250200071326": 87,
+      "gas:candidate-vibid:1001000113949": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -7756,13 +7756,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 162,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 41,
-      "Пекарев Владимир Янович": 584,
-      "Сонин Анатолий Алексеевич": 92,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 162,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 41,
+      "gas:candidate-vibid:250200071326": 584,
+      "gas:candidate-vibid:1001000113949": 92,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -7812,13 +7812,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 34,
-      "Ведехов Алексей Владимирович": 187,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 29,
-      "Пекарев Владимир Янович": 656,
-      "Сонин Анатолий Алексеевич": 112,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000190373": 34,
+      "gas:candidate-vibid:250200071323": 187,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 29,
+      "gas:candidate-vibid:250200071326": 656,
+      "gas:candidate-vibid:1001000113949": 112,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -7868,13 +7868,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 36,
-      "Ведехов Алексей Владимирович": 224,
-      "Голубев Сергей Олегович": 11,
-      "Кулаков Сергей Иванович": 40,
-      "Пекарев Владимир Янович": 721,
-      "Сонин Анатолий Алексеевич": 116,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000190373": 36,
+      "gas:candidate-vibid:250200071323": 224,
+      "gas:candidate-vibid:350300670408": 11,
+      "gas:candidate-vibid:1001000195098": 40,
+      "gas:candidate-vibid:250200071326": 721,
+      "gas:candidate-vibid:1001000113949": 116,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -7924,13 +7924,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 31,
-      "Ведехов Алексей Владимирович": 177,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 35,
-      "Пекарев Владимир Янович": 647,
-      "Сонин Анатолий Алексеевич": 139,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000190373": 31,
+      "gas:candidate-vibid:250200071323": 177,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 35,
+      "gas:candidate-vibid:250200071326": 647,
+      "gas:candidate-vibid:1001000113949": 139,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -7980,13 +7980,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 49,
-      "Ведехов Алексей Владимирович": 207,
-      "Голубев Сергей Олегович": 24,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 649,
-      "Сонин Анатолий Алексеевич": 164,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000190373": 49,
+      "gas:candidate-vibid:250200071323": 207,
+      "gas:candidate-vibid:350300670408": 24,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 649,
+      "gas:candidate-vibid:1001000113949": 164,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -8036,13 +8036,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 160,
-      "Голубев Сергей Олегович": 26,
-      "Кулаков Сергей Иванович": 28,
-      "Пекарев Владимир Янович": 625,
-      "Сонин Анатолий Алексеевич": 146,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 160,
+      "gas:candidate-vibid:350300670408": 26,
+      "gas:candidate-vibid:1001000195098": 28,
+      "gas:candidate-vibid:250200071326": 625,
+      "gas:candidate-vibid:1001000113949": 146,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -8092,13 +8092,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 27,
-      "Ведехов Алексей Владимирович": 223,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 26,
-      "Пекарев Владимир Янович": 541,
-      "Сонин Анатолий Алексеевич": 174,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000190373": 27,
+      "gas:candidate-vibid:250200071323": 223,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 26,
+      "gas:candidate-vibid:250200071326": 541,
+      "gas:candidate-vibid:1001000113949": 174,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670569&region=0&sub_region=0&type=429",
@@ -8148,13 +8148,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 23,
-      "Ведехов Алексей Владимирович": 28,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 23,
-      "Пекарев Владимир Янович": 673,
-      "Сонин Анатолий Алексеевич": 26,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190373": 23,
+      "gas:candidate-vibid:250200071323": 28,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 23,
+      "gas:candidate-vibid:250200071326": 673,
+      "gas:candidate-vibid:1001000113949": 26,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8204,13 +8204,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 22,
-      "Ведехов Алексей Владимирович": 69,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 13,
-      "Пекарев Владимир Янович": 674,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000190373": 22,
+      "gas:candidate-vibid:250200071323": 69,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 13,
+      "gas:candidate-vibid:250200071326": 674,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8260,13 +8260,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 23,
-      "Ведехов Алексей Владимирович": 83,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 23,
-      "Пекарев Владимир Янович": 683,
-      "Сонин Анатолий Алексеевич": 15,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190373": 23,
+      "gas:candidate-vibid:250200071323": 83,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 23,
+      "gas:candidate-vibid:250200071326": 683,
+      "gas:candidate-vibid:1001000113949": 15,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8316,13 +8316,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 38,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 785,
-      "Сонин Анатолий Алексеевич": 28,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 38,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 785,
+      "gas:candidate-vibid:1001000113949": 28,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8372,13 +8372,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 16,
-      "Ведехов Алексей Владимирович": 31,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 19,
-      "Пекарев Владимир Янович": 490,
-      "Сонин Анатолий Алексеевич": 19,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000190373": 16,
+      "gas:candidate-vibid:250200071323": 31,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 19,
+      "gas:candidate-vibid:250200071326": 490,
+      "gas:candidate-vibid:1001000113949": 19,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8428,13 +8428,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 9,
-      "Ведехов Алексей Владимирович": 35,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 398,
-      "Сонин Анатолий Алексеевич": 15,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000190373": 9,
+      "gas:candidate-vibid:250200071323": 35,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 398,
+      "gas:candidate-vibid:1001000113949": 15,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8484,13 +8484,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 34,
-      "Ведехов Алексей Владимирович": 96,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 28,
-      "Пекарев Владимир Янович": 899,
-      "Сонин Анатолий Алексеевич": 27,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000190373": 34,
+      "gas:candidate-vibid:250200071323": 96,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 28,
+      "gas:candidate-vibid:250200071326": 899,
+      "gas:candidate-vibid:1001000113949": 27,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8540,13 +8540,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 27,
-      "Ведехов Алексей Владимирович": 107,
-      "Голубев Сергей Олегович": 19,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 887,
-      "Сонин Анатолий Алексеевич": 21,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000190373": 27,
+      "gas:candidate-vibid:250200071323": 107,
+      "gas:candidate-vibid:350300670408": 19,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 887,
+      "gas:candidate-vibid:1001000113949": 21,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8596,13 +8596,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 26,
-      "Ведехов Алексей Владимирович": 27,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 10,
-      "Пекарев Владимир Янович": 377,
-      "Сонин Анатолий Алексеевич": 17,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000190373": 26,
+      "gas:candidate-vibid:250200071323": 27,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 10,
+      "gas:candidate-vibid:250200071326": 377,
+      "gas:candidate-vibid:1001000113949": 17,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8652,13 +8652,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 20,
-      "Ведехов Алексей Владимирович": 14,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 589,
-      "Сонин Анатолий Алексеевич": 11,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000190373": 20,
+      "gas:candidate-vibid:250200071323": 14,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 589,
+      "gas:candidate-vibid:1001000113949": 11,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8708,13 +8708,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 14,
-      "Ведехов Алексей Владимирович": 33,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 8,
-      "Пекарев Владимир Янович": 583,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000190373": 14,
+      "gas:candidate-vibid:250200071323": 33,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 8,
+      "gas:candidate-vibid:250200071326": 583,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8764,13 +8764,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 17,
-      "Ведехов Алексей Владимирович": 22,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 566,
-      "Сонин Анатолий Алексеевич": 15,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000190373": 17,
+      "gas:candidate-vibid:250200071323": 22,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 566,
+      "gas:candidate-vibid:1001000113949": 15,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8820,13 +8820,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 34,
-      "Ведехов Алексей Владимирович": 60,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 19,
-      "Пекарев Владимир Янович": 859,
-      "Сонин Анатолий Алексеевич": 22,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190373": 34,
+      "gas:candidate-vibid:250200071323": 60,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 19,
+      "gas:candidate-vibid:250200071326": 859,
+      "gas:candidate-vibid:1001000113949": 22,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8876,13 +8876,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 26,
-      "Ведехов Алексей Владимирович": 34,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 551,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190373": 26,
+      "gas:candidate-vibid:250200071323": 34,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 551,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8932,13 +8932,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 48,
-      "Ведехов Алексей Владимирович": 114,
-      "Голубев Сергей Олегович": 11,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 645,
-      "Сонин Анатолий Алексеевич": 26,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190373": 48,
+      "gas:candidate-vibid:250200071323": 114,
+      "gas:candidate-vibid:350300670408": 11,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 645,
+      "gas:candidate-vibid:1001000113949": 26,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -8988,13 +8988,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 11,
-      "Ведехов Алексей Владимирович": 12,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 2,
-      "Пекарев Владимир Янович": 220,
-      "Сонин Анатолий Алексеевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190373": 11,
+      "gas:candidate-vibid:250200071323": 12,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 2,
+      "gas:candidate-vibid:250200071326": 220,
+      "gas:candidate-vibid:1001000113949": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9044,13 +9044,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 10,
-      "Ведехов Алексей Владимирович": 41,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 276,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000190373": 10,
+      "gas:candidate-vibid:250200071323": 41,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 276,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9100,13 +9100,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 10,
-      "Ведехов Алексей Владимирович": 32,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 418,
-      "Сонин Анатолий Алексеевич": 8,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000190373": 10,
+      "gas:candidate-vibid:250200071323": 32,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 418,
+      "gas:candidate-vibid:1001000113949": 8,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9156,13 +9156,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 6,
-      "Ведехов Алексей Владимирович": 2,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 86,
-      "Сонин Анатолий Алексеевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190373": 6,
+      "gas:candidate-vibid:250200071323": 2,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 86,
+      "gas:candidate-vibid:1001000113949": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9212,13 +9212,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 14,
-      "Ведехов Алексей Владимирович": 60,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 659,
-      "Сонин Анатолий Алексеевич": 6,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000190373": 14,
+      "gas:candidate-vibid:250200071323": 60,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 659,
+      "gas:candidate-vibid:1001000113949": 6,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9268,13 +9268,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 29,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 514,
-      "Сонин Анатолий Алексеевич": 15,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 29,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 514,
+      "gas:candidate-vibid:1001000113949": 15,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9324,13 +9324,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 9,
-      "Ведехов Алексей Владимирович": 31,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 526,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000190373": 9,
+      "gas:candidate-vibid:250200071323": 31,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 526,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9380,13 +9380,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 25,
-      "Ведехов Алексей Владимирович": 66,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 475,
-      "Сонин Анатолий Алексеевич": 6,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190373": 25,
+      "gas:candidate-vibid:250200071323": 66,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 475,
+      "gas:candidate-vibid:1001000113949": 6,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9436,13 +9436,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 73,
-      "Ведехов Алексей Владимирович": 64,
-      "Голубев Сергей Олегович": 35,
-      "Кулаков Сергей Иванович": 37,
-      "Пекарев Владимир Янович": 661,
-      "Сонин Анатолий Алексеевич": 48,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000190373": 73,
+      "gas:candidate-vibid:250200071323": 64,
+      "gas:candidate-vibid:350300670408": 35,
+      "gas:candidate-vibid:1001000195098": 37,
+      "gas:candidate-vibid:250200071326": 661,
+      "gas:candidate-vibid:1001000113949": 48,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9492,13 +9492,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 46,
-      "Ведехов Алексей Владимирович": 125,
-      "Голубев Сергей Олегович": 30,
-      "Кулаков Сергей Иванович": 34,
-      "Пекарев Владимир Янович": 592,
-      "Сонин Анатолий Алексеевич": 32,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000190373": 46,
+      "gas:candidate-vibid:250200071323": 125,
+      "gas:candidate-vibid:350300670408": 30,
+      "gas:candidate-vibid:1001000195098": 34,
+      "gas:candidate-vibid:250200071326": 592,
+      "gas:candidate-vibid:1001000113949": 32,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9548,13 +9548,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 34,
-      "Ведехов Алексей Владимирович": 135,
-      "Голубев Сергей Олегович": 20,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 448,
-      "Сонин Анатолий Алексеевич": 29,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000190373": 34,
+      "gas:candidate-vibid:250200071323": 135,
+      "gas:candidate-vibid:350300670408": 20,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 448,
+      "gas:candidate-vibid:1001000113949": 29,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9604,13 +9604,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 9,
-      "Ведехов Алексей Владимирович": 23,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 8,
-      "Пекарев Владимир Янович": 304,
-      "Сонин Анатолий Алексеевич": 8,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190373": 9,
+      "gas:candidate-vibid:250200071323": 23,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 8,
+      "gas:candidate-vibid:250200071326": 304,
+      "gas:candidate-vibid:1001000113949": 8,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9660,13 +9660,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 12,
-      "Ведехов Алексей Владимирович": 26,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 16,
-      "Пекарев Владимир Янович": 326,
-      "Сонин Анатолий Алексеевич": 17,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000190373": 12,
+      "gas:candidate-vibid:250200071323": 26,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 16,
+      "gas:candidate-vibid:250200071326": 326,
+      "gas:candidate-vibid:1001000113949": 17,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9716,13 +9716,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 36,
-      "Ведехов Алексей Владимирович": 101,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 768,
-      "Сонин Анатолий Алексеевич": 16,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000190373": 36,
+      "gas:candidate-vibid:250200071323": 101,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 768,
+      "gas:candidate-vibid:1001000113949": 16,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9772,13 +9772,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 11,
-      "Ведехов Алексей Владимирович": 32,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 485,
-      "Сонин Анатолий Алексеевич": 17,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000190373": 11,
+      "gas:candidate-vibid:250200071323": 32,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 485,
+      "gas:candidate-vibid:1001000113949": 17,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9828,13 +9828,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 12,
-      "Ведехов Алексей Владимирович": 12,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 8,
-      "Пекарев Владимир Янович": 334,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190373": 12,
+      "gas:candidate-vibid:250200071323": 12,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 8,
+      "gas:candidate-vibid:250200071326": 334,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9884,13 +9884,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Буров Сергей Александрович": 21,
-      "Ведехов Алексей Владимирович": 44,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 15,
-      "Пекарев Владимир Янович": 603,
-      "Сонин Анатолий Алексеевич": 18,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190373": 21,
+      "gas:candidate-vibid:250200071323": 44,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 15,
+      "gas:candidate-vibid:250200071326": 603,
+      "gas:candidate-vibid:1001000113949": 18,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9940,13 +9940,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 27,
-      "Ведехов Алексей Владимирович": 128,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 17,
-      "Пекарев Владимир Янович": 747,
-      "Сонин Анатолий Алексеевич": 31,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000190373": 27,
+      "gas:candidate-vibid:250200071323": 128,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 17,
+      "gas:candidate-vibid:250200071326": 747,
+      "gas:candidate-vibid:1001000113949": 31,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -9996,13 +9996,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 15,
-      "Ведехов Алексей Владимирович": 59,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 619,
-      "Сонин Анатолий Алексеевич": 17,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190373": 15,
+      "gas:candidate-vibid:250200071323": 59,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 619,
+      "gas:candidate-vibid:1001000113949": 17,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10052,13 +10052,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 32,
-      "Ведехов Алексей Владимирович": 69,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 23,
-      "Пекарев Владимир Янович": 760,
-      "Сонин Анатолий Алексеевич": 15,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190373": 32,
+      "gas:candidate-vibid:250200071323": 69,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 23,
+      "gas:candidate-vibid:250200071326": 760,
+      "gas:candidate-vibid:1001000113949": 15,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10108,13 +10108,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 6,
-      "Ведехов Алексей Владимирович": 28,
-      "Голубев Сергей Олегович": 1,
-      "Кулаков Сергей Иванович": 4,
-      "Пекарев Владимир Янович": 290,
-      "Сонин Анатолий Алексеевич": 6,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190373": 6,
+      "gas:candidate-vibid:250200071323": 28,
+      "gas:candidate-vibid:350300670408": 1,
+      "gas:candidate-vibid:1001000195098": 4,
+      "gas:candidate-vibid:250200071326": 290,
+      "gas:candidate-vibid:1001000113949": 6,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10164,13 +10164,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 20,
-      "Ведехов Алексей Владимирович": 65,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 811,
-      "Сонин Анатолий Алексеевич": 35,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000190373": 20,
+      "gas:candidate-vibid:250200071323": 65,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 811,
+      "gas:candidate-vibid:1001000113949": 35,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10220,13 +10220,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 39,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 318,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 39,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 318,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10276,13 +10276,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 25,
-      "Ведехов Алексей Владимирович": 68,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 24,
-      "Пекарев Владимир Янович": 665,
-      "Сонин Анатолий Алексеевич": 38,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190373": 25,
+      "gas:candidate-vibid:250200071323": 68,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 24,
+      "gas:candidate-vibid:250200071326": 665,
+      "gas:candidate-vibid:1001000113949": 38,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10332,13 +10332,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 16,
-      "Ведехов Алексей Владимирович": 76,
-      "Голубев Сергей Олегович": 11,
-      "Кулаков Сергей Иванович": 17,
-      "Пекарев Владимир Янович": 496,
-      "Сонин Анатолий Алексеевич": 28,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000190373": 16,
+      "gas:candidate-vibid:250200071323": 76,
+      "gas:candidate-vibid:350300670408": 11,
+      "gas:candidate-vibid:1001000195098": 17,
+      "gas:candidate-vibid:250200071326": 496,
+      "gas:candidate-vibid:1001000113949": 28,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10388,13 +10388,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 25,
-      "Ведехов Алексей Владимирович": 94,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 20,
-      "Пекарев Владимир Янович": 561,
-      "Сонин Анатолий Алексеевич": 26,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190373": 25,
+      "gas:candidate-vibid:250200071323": 94,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 20,
+      "gas:candidate-vibid:250200071326": 561,
+      "gas:candidate-vibid:1001000113949": 26,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10444,13 +10444,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 17,
-      "Ведехов Алексей Владимирович": 66,
-      "Голубев Сергей Олегович": 12,
-      "Кулаков Сергей Иванович": 14,
-      "Пекарев Владимир Янович": 545,
-      "Сонин Анатолий Алексеевич": 25,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000190373": 17,
+      "gas:candidate-vibid:250200071323": 66,
+      "gas:candidate-vibid:350300670408": 12,
+      "gas:candidate-vibid:1001000195098": 14,
+      "gas:candidate-vibid:250200071326": 545,
+      "gas:candidate-vibid:1001000113949": 25,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10500,13 +10500,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 3,
-      "Ведехов Алексей Владимирович": 4,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 4,
-      "Пекарев Владимир Янович": 107,
-      "Сонин Анатолий Алексеевич": 1,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190373": 3,
+      "gas:candidate-vibid:250200071323": 4,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 4,
+      "gas:candidate-vibid:250200071326": 107,
+      "gas:candidate-vibid:1001000113949": 1,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10556,13 +10556,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 20,
-      "Ведехов Алексей Владимирович": 46,
-      "Голубев Сергей Олегович": 11,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 807,
-      "Сонин Анатолий Алексеевич": 32,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000190373": 20,
+      "gas:candidate-vibid:250200071323": 46,
+      "gas:candidate-vibid:350300670408": 11,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 807,
+      "gas:candidate-vibid:1001000113949": 32,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10612,13 +10612,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 40,
-      "Ведехов Алексей Владимирович": 61,
-      "Голубев Сергей Олегович": 32,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 746,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000190373": 40,
+      "gas:candidate-vibid:250200071323": 61,
+      "gas:candidate-vibid:350300670408": 32,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 746,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10668,13 +10668,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 6,
-      "Ведехов Алексей Владимирович": 17,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 245,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000190373": 6,
+      "gas:candidate-vibid:250200071323": 17,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 245,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10724,13 +10724,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 21,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 416,
-      "Сонин Анатолий Алексеевич": 11,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 21,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 416,
+      "gas:candidate-vibid:1001000113949": 11,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10780,13 +10780,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 7,
-      "Ведехов Алексей Владимирович": 35,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 23,
-      "Пекарев Владимир Янович": 517,
-      "Сонин Анатолий Алексеевич": 20,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000190373": 7,
+      "gas:candidate-vibid:250200071323": 35,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 23,
+      "gas:candidate-vibid:250200071326": 517,
+      "gas:candidate-vibid:1001000113949": 20,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10836,13 +10836,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 72,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 754,
-      "Сонин Анатолий Алексеевич": 48,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 72,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 754,
+      "gas:candidate-vibid:1001000113949": 48,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10892,13 +10892,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 11,
-      "Ведехов Алексей Владимирович": 13,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 11,
-      "Пекарев Владимир Янович": 366,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000190373": 11,
+      "gas:candidate-vibid:250200071323": 13,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 11,
+      "gas:candidate-vibid:250200071326": 366,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -10948,13 +10948,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 70,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 772,
-      "Сонин Анатолий Алексеевич": 30,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 70,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 772,
+      "gas:candidate-vibid:1001000113949": 30,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11004,13 +11004,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 22,
-      "Ведехов Алексей Владимирович": 72,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 24,
-      "Пекарев Владимир Янович": 510,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000190373": 22,
+      "gas:candidate-vibid:250200071323": 72,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 24,
+      "gas:candidate-vibid:250200071326": 510,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11060,13 +11060,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 27,
-      "Ведехов Алексей Владимирович": 45,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 608,
-      "Сонин Анатолий Алексеевич": 16,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190373": 27,
+      "gas:candidate-vibid:250200071323": 45,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 608,
+      "gas:candidate-vibid:1001000113949": 16,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11116,13 +11116,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 19,
-      "Ведехов Алексей Владимирович": 30,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 519,
-      "Сонин Анатолий Алексеевич": 8,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000190373": 19,
+      "gas:candidate-vibid:250200071323": 30,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 519,
+      "gas:candidate-vibid:1001000113949": 8,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11172,13 +11172,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 13,
-      "Ведехов Алексей Владимирович": 14,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 10,
-      "Пекарев Владимир Янович": 413,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000190373": 13,
+      "gas:candidate-vibid:250200071323": 14,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 10,
+      "gas:candidate-vibid:250200071326": 413,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11228,13 +11228,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 16,
-      "Ведехов Алексей Владимирович": 19,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 8,
-      "Пекарев Владимир Янович": 665,
-      "Сонин Анатолий Алексеевич": 19,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000190373": 16,
+      "gas:candidate-vibid:250200071323": 19,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 8,
+      "gas:candidate-vibid:250200071326": 665,
+      "gas:candidate-vibid:1001000113949": 19,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11284,13 +11284,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 30,
-      "Ведехов Алексей Владимирович": 47,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 808,
-      "Сонин Анатолий Алексеевич": 24,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000190373": 30,
+      "gas:candidate-vibid:250200071323": 47,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 808,
+      "gas:candidate-vibid:1001000113949": 24,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11340,13 +11340,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 20,
-      "Ведехов Алексей Владимирович": 46,
-      "Голубев Сергей Олегович": 13,
-      "Кулаков Сергей Иванович": 30,
-      "Пекарев Владимир Янович": 866,
-      "Сонин Анатолий Алексеевич": 16,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000190373": 20,
+      "gas:candidate-vibid:250200071323": 46,
+      "gas:candidate-vibid:350300670408": 13,
+      "gas:candidate-vibid:1001000195098": 30,
+      "gas:candidate-vibid:250200071326": 866,
+      "gas:candidate-vibid:1001000113949": 16,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11396,13 +11396,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 32,
-      "Ведехов Алексей Владимирович": 54,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 22,
-      "Пекарев Владимир Янович": 615,
-      "Сонин Анатолий Алексеевич": 12,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190373": 32,
+      "gas:candidate-vibid:250200071323": 54,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 22,
+      "gas:candidate-vibid:250200071326": 615,
+      "gas:candidate-vibid:1001000113949": 12,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11452,13 +11452,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 18,
-      "Ведехов Алексей Владимирович": 63,
-      "Голубев Сергей Олегович": 10,
-      "Кулаков Сергей Иванович": 32,
-      "Пекарев Владимир Янович": 627,
-      "Сонин Анатолий Алексеевич": 37,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000190373": 18,
+      "gas:candidate-vibid:250200071323": 63,
+      "gas:candidate-vibid:350300670408": 10,
+      "gas:candidate-vibid:1001000195098": 32,
+      "gas:candidate-vibid:250200071326": 627,
+      "gas:candidate-vibid:1001000113949": 37,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11508,13 +11508,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 13,
-      "Ведехов Алексей Владимирович": 8,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 11,
-      "Пекарев Владимир Янович": 329,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000190373": 13,
+      "gas:candidate-vibid:250200071323": 8,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 11,
+      "gas:candidate-vibid:250200071326": 329,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11564,13 +11564,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 4,
-      "Ведехов Алексей Владимирович": 4,
-      "Голубев Сергей Олегович": 1,
-      "Кулаков Сергей Иванович": 4,
-      "Пекарев Владимир Янович": 221,
-      "Сонин Анатолий Алексеевич": 4,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000190373": 4,
+      "gas:candidate-vibid:250200071323": 4,
+      "gas:candidate-vibid:350300670408": 1,
+      "gas:candidate-vibid:1001000195098": 4,
+      "gas:candidate-vibid:250200071326": 221,
+      "gas:candidate-vibid:1001000113949": 4,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11620,13 +11620,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 2,
-      "Ведехов Алексей Владимирович": 9,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 3,
-      "Пекарев Владимир Янович": 175,
-      "Сонин Анатолий Алексеевич": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190373": 2,
+      "gas:candidate-vibid:250200071323": 9,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 3,
+      "gas:candidate-vibid:250200071326": 175,
+      "gas:candidate-vibid:1001000113949": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11676,13 +11676,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 14,
-      "Ведехов Алексей Владимирович": 6,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 4,
-      "Пекарев Владимир Янович": 146,
-      "Сонин Анатолий Алексеевич": 9,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190373": 14,
+      "gas:candidate-vibid:250200071323": 6,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 4,
+      "gas:candidate-vibid:250200071326": 146,
+      "gas:candidate-vibid:1001000113949": 9,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11732,13 +11732,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 43,
-      "Ведехов Алексей Владимирович": 22,
-      "Голубев Сергей Олегович": 10,
-      "Кулаков Сергей Иванович": 13,
-      "Пекарев Владимир Янович": 566,
-      "Сонин Анатолий Алексеевич": 21,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000190373": 43,
+      "gas:candidate-vibid:250200071323": 22,
+      "gas:candidate-vibid:350300670408": 10,
+      "gas:candidate-vibid:1001000195098": 13,
+      "gas:candidate-vibid:250200071326": 566,
+      "gas:candidate-vibid:1001000113949": 21,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11788,13 +11788,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 33,
-      "Ведехов Алексей Владимирович": 21,
-      "Голубев Сергей Олегович": 10,
-      "Кулаков Сергей Иванович": 21,
-      "Пекарев Владимир Янович": 612,
-      "Сонин Анатолий Алексеевич": 17,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000190373": 33,
+      "gas:candidate-vibid:250200071323": 21,
+      "gas:candidate-vibid:350300670408": 10,
+      "gas:candidate-vibid:1001000195098": 21,
+      "gas:candidate-vibid:250200071326": 612,
+      "gas:candidate-vibid:1001000113949": 17,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11844,13 +11844,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 211,
-      "Ведехов Алексей Владимирович": 75,
-      "Голубев Сергей Олегович": 71,
-      "Кулаков Сергей Иванович": 70,
-      "Пекарев Владимир Янович": 447,
-      "Сонин Анатолий Алексеевич": 77,
-      "Против всех": 516
+      "gas:candidate-vibid:1001000190373": 211,
+      "gas:candidate-vibid:250200071323": 75,
+      "gas:candidate-vibid:350300670408": 71,
+      "gas:candidate-vibid:1001000195098": 70,
+      "gas:candidate-vibid:250200071326": 447,
+      "gas:candidate-vibid:1001000113949": 77,
+      "special:against-all": 516
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11900,13 +11900,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 13,
-      "Ведехов Алексей Владимирович": 26,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 279,
-      "Сонин Анатолий Алексеевич": 2,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190373": 13,
+      "gas:candidate-vibid:250200071323": 26,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 279,
+      "gas:candidate-vibid:1001000113949": 2,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -11956,13 +11956,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 30,
-      "Ведехов Алексей Владимирович": 21,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 9,
-      "Пекарев Владимир Янович": 403,
-      "Сонин Анатолий Алексеевич": 11,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000190373": 30,
+      "gas:candidate-vibid:250200071323": 21,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 9,
+      "gas:candidate-vibid:250200071326": 403,
+      "gas:candidate-vibid:1001000113949": 11,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12012,13 +12012,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 8,
-      "Ведехов Алексей Владимирович": 12,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 2,
-      "Пекарев Владимир Янович": 215,
-      "Сонин Анатолий Алексеевич": 5,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190373": 8,
+      "gas:candidate-vibid:250200071323": 12,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 2,
+      "gas:candidate-vibid:250200071326": 215,
+      "gas:candidate-vibid:1001000113949": 5,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12068,13 +12068,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 2,
-      "Ведехов Алексей Владимирович": 16,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 1,
-      "Пекарев Владимир Янович": 71,
-      "Сонин Анатолий Алексеевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190373": 2,
+      "gas:candidate-vibid:250200071323": 16,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 1,
+      "gas:candidate-vibid:250200071326": 71,
+      "gas:candidate-vibid:1001000113949": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12124,13 +12124,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 10,
-      "Ведехов Алексей Владимирович": 13,
-      "Голубев Сергей Олегович": 4,
-      "Кулаков Сергей Иванович": 3,
-      "Пекарев Владимир Янович": 466,
-      "Сонин Анатолий Алексеевич": 6,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190373": 10,
+      "gas:candidate-vibid:250200071323": 13,
+      "gas:candidate-vibid:350300670408": 4,
+      "gas:candidate-vibid:1001000195098": 3,
+      "gas:candidate-vibid:250200071326": 466,
+      "gas:candidate-vibid:1001000113949": 6,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12180,13 +12180,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 35,
-      "Ведехов Алексей Владимирович": 17,
-      "Голубев Сергей Олегович": 7,
-      "Кулаков Сергей Иванович": 15,
-      "Пекарев Владимир Янович": 285,
-      "Сонин Анатолий Алексеевич": 13,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000190373": 35,
+      "gas:candidate-vibid:250200071323": 17,
+      "gas:candidate-vibid:350300670408": 7,
+      "gas:candidate-vibid:1001000195098": 15,
+      "gas:candidate-vibid:250200071326": 285,
+      "gas:candidate-vibid:1001000113949": 13,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12236,13 +12236,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 48,
-      "Ведехов Алексей Владимирович": 45,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 39,
-      "Пекарев Владимир Янович": 550,
-      "Сонин Анатолий Алексеевич": 41,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190373": 48,
+      "gas:candidate-vibid:250200071323": 45,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 39,
+      "gas:candidate-vibid:250200071326": 550,
+      "gas:candidate-vibid:1001000113949": 41,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12292,13 +12292,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Буров Сергей Александрович": 54,
-      "Ведехов Алексей Владимирович": 58,
-      "Голубев Сергей Олегович": 26,
-      "Кулаков Сергей Иванович": 46,
-      "Пекарев Владимир Янович": 676,
-      "Сонин Анатолий Алексеевич": 49,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000190373": 54,
+      "gas:candidate-vibid:250200071323": 58,
+      "gas:candidate-vibid:350300670408": 26,
+      "gas:candidate-vibid:1001000195098": 46,
+      "gas:candidate-vibid:250200071326": 676,
+      "gas:candidate-vibid:1001000113949": 49,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12348,13 +12348,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 57,
-      "Ведехов Алексей Владимирович": 58,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 25,
-      "Пекарев Владимир Янович": 635,
-      "Сонин Анатолий Алексеевич": 36,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190373": 57,
+      "gas:candidate-vibid:250200071323": 58,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 25,
+      "gas:candidate-vibid:250200071326": 635,
+      "gas:candidate-vibid:1001000113949": 36,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12404,13 +12404,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 56,
-      "Ведехов Алексей Владимирович": 52,
-      "Голубев Сергей Олегович": 18,
-      "Кулаков Сергей Иванович": 46,
-      "Пекарев Владимир Янович": 759,
-      "Сонин Анатолий Алексеевич": 45,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000190373": 56,
+      "gas:candidate-vibid:250200071323": 52,
+      "gas:candidate-vibid:350300670408": 18,
+      "gas:candidate-vibid:1001000195098": 46,
+      "gas:candidate-vibid:250200071326": 759,
+      "gas:candidate-vibid:1001000113949": 45,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12460,13 +12460,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 65,
-      "Ведехов Алексей Владимирович": 35,
-      "Голубев Сергей Олегович": 29,
-      "Кулаков Сергей Иванович": 16,
-      "Пекарев Владимир Янович": 713,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000190373": 65,
+      "gas:candidate-vibid:250200071323": 35,
+      "gas:candidate-vibid:350300670408": 29,
+      "gas:candidate-vibid:1001000195098": 16,
+      "gas:candidate-vibid:250200071326": 713,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12516,13 +12516,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 46,
-      "Ведехов Алексей Владимирович": 50,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 43,
-      "Пекарев Владимир Янович": 768,
-      "Сонин Анатолий Алексеевич": 42,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000190373": 46,
+      "gas:candidate-vibid:250200071323": 50,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 43,
+      "gas:candidate-vibid:250200071326": 768,
+      "gas:candidate-vibid:1001000113949": 42,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12572,13 +12572,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 44,
-      "Ведехов Алексей Владимирович": 46,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 27,
-      "Пекарев Владимир Янович": 739,
-      "Сонин Анатолий Алексеевич": 29,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000190373": 44,
+      "gas:candidate-vibid:250200071323": 46,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 27,
+      "gas:candidate-vibid:250200071326": 739,
+      "gas:candidate-vibid:1001000113949": 29,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12628,13 +12628,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 23,
-      "Ведехов Алексей Владимирович": 90,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 18,
-      "Пекарев Владимир Янович": 500,
-      "Сонин Анатолий Алексеевич": 32,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000190373": 23,
+      "gas:candidate-vibid:250200071323": 90,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 18,
+      "gas:candidate-vibid:250200071326": 500,
+      "gas:candidate-vibid:1001000113949": 32,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12684,13 +12684,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 33,
-      "Ведехов Алексей Владимирович": 76,
-      "Голубев Сергей Олегович": 11,
-      "Кулаков Сергей Иванович": 28,
-      "Пекарев Владимир Янович": 593,
-      "Сонин Анатолий Алексеевич": 37,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000190373": 33,
+      "gas:candidate-vibid:250200071323": 76,
+      "gas:candidate-vibid:350300670408": 11,
+      "gas:candidate-vibid:1001000195098": 28,
+      "gas:candidate-vibid:250200071326": 593,
+      "gas:candidate-vibid:1001000113949": 37,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12740,13 +12740,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 32,
-      "Ведехов Алексей Владимирович": 118,
-      "Голубев Сергей Олегович": 12,
-      "Кулаков Сергей Иванович": 19,
-      "Пекарев Владимир Янович": 488,
-      "Сонин Анатолий Алексеевич": 15,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000190373": 32,
+      "gas:candidate-vibid:250200071323": 118,
+      "gas:candidate-vibid:350300670408": 12,
+      "gas:candidate-vibid:1001000195098": 19,
+      "gas:candidate-vibid:250200071326": 488,
+      "gas:candidate-vibid:1001000113949": 15,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12796,13 +12796,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 51,
-      "Ведехов Алексей Владимирович": 148,
-      "Голубев Сергей Олегович": 23,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 716,
-      "Сонин Анатолий Алексеевич": 51,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190373": 51,
+      "gas:candidate-vibid:250200071323": 148,
+      "gas:candidate-vibid:350300670408": 23,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 716,
+      "gas:candidate-vibid:1001000113949": 51,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12852,13 +12852,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 53,
-      "Ведехов Алексей Владимирович": 168,
-      "Голубев Сергей Олегович": 19,
-      "Кулаков Сергей Иванович": 29,
-      "Пекарев Владимир Янович": 770,
-      "Сонин Анатолий Алексеевич": 50,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000190373": 53,
+      "gas:candidate-vibid:250200071323": 168,
+      "gas:candidate-vibid:350300670408": 19,
+      "gas:candidate-vibid:1001000195098": 29,
+      "gas:candidate-vibid:250200071326": 770,
+      "gas:candidate-vibid:1001000113949": 50,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12908,13 +12908,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 51,
-      "Ведехов Алексей Владимирович": 132,
-      "Голубев Сергей Олегович": 9,
-      "Кулаков Сергей Иванович": 26,
-      "Пекарев Владимир Янович": 677,
-      "Сонин Анатолий Алексеевич": 47,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190373": 51,
+      "gas:candidate-vibid:250200071323": 132,
+      "gas:candidate-vibid:350300670408": 9,
+      "gas:candidate-vibid:1001000195098": 26,
+      "gas:candidate-vibid:250200071326": 677,
+      "gas:candidate-vibid:1001000113949": 47,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -12964,13 +12964,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 49,
-      "Ведехов Алексей Владимирович": 139,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 38,
-      "Пекарев Владимир Янович": 703,
-      "Сонин Анатолий Алексеевич": 49,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000190373": 49,
+      "gas:candidate-vibid:250200071323": 139,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 38,
+      "gas:candidate-vibid:250200071326": 703,
+      "gas:candidate-vibid:1001000113949": 49,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13020,13 +13020,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 32,
-      "Ведехов Алексей Владимирович": 77,
-      "Голубев Сергей Олегович": 15,
-      "Кулаков Сергей Иванович": 13,
-      "Пекарев Владимир Янович": 420,
-      "Сонин Анатолий Алексеевич": 31,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000190373": 32,
+      "gas:candidate-vibid:250200071323": 77,
+      "gas:candidate-vibid:350300670408": 15,
+      "gas:candidate-vibid:1001000195098": 13,
+      "gas:candidate-vibid:250200071326": 420,
+      "gas:candidate-vibid:1001000113949": 31,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13076,13 +13076,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 89,
-      "Ведехов Алексей Владимирович": 80,
-      "Голубев Сергей Олегович": 51,
-      "Кулаков Сергей Иванович": 63,
-      "Пекарев Владимир Янович": 188,
-      "Сонин Анатолий Алексеевич": 60,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190373": 89,
+      "gas:candidate-vibid:250200071323": 80,
+      "gas:candidate-vibid:350300670408": 51,
+      "gas:candidate-vibid:1001000195098": 63,
+      "gas:candidate-vibid:250200071326": 188,
+      "gas:candidate-vibid:1001000113949": 60,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13132,13 +13132,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 59,
-      "Ведехов Алексей Владимирович": 60,
-      "Голубев Сергей Олегович": 28,
-      "Кулаков Сергей Иванович": 92,
-      "Пекарев Владимир Янович": 294,
-      "Сонин Анатолий Алексеевич": 50,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000190373": 59,
+      "gas:candidate-vibid:250200071323": 60,
+      "gas:candidate-vibid:350300670408": 28,
+      "gas:candidate-vibid:1001000195098": 92,
+      "gas:candidate-vibid:250200071326": 294,
+      "gas:candidate-vibid:1001000113949": 50,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13188,13 +13188,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 9,
-      "Ведехов Алексей Владимирович": 36,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 149,
-      "Сонин Анатолий Алексеевич": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000190373": 9,
+      "gas:candidate-vibid:250200071323": 36,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 149,
+      "gas:candidate-vibid:1001000113949": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13244,13 +13244,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 56,
-      "Ведехов Алексей Владимирович": 36,
-      "Голубев Сергей Олегович": 10,
-      "Кулаков Сергей Иванович": 34,
-      "Пекарев Владимир Янович": 343,
-      "Сонин Анатолий Алексеевич": 41,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000190373": 56,
+      "gas:candidate-vibid:250200071323": 36,
+      "gas:candidate-vibid:350300670408": 10,
+      "gas:candidate-vibid:1001000195098": 34,
+      "gas:candidate-vibid:250200071326": 343,
+      "gas:candidate-vibid:1001000113949": 41,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13300,13 +13300,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 38,
-      "Ведехов Алексей Владимирович": 20,
-      "Голубев Сергей Олегович": 17,
-      "Кулаков Сергей Иванович": 31,
-      "Пекарев Владимир Янович": 295,
-      "Сонин Анатолий Алексеевич": 37,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000190373": 38,
+      "gas:candidate-vibid:250200071323": 20,
+      "gas:candidate-vibid:350300670408": 17,
+      "gas:candidate-vibid:1001000195098": 31,
+      "gas:candidate-vibid:250200071326": 295,
+      "gas:candidate-vibid:1001000113949": 37,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13356,13 +13356,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 6,
-      "Ведехов Алексей Владимирович": 7,
-      "Голубев Сергей Олегович": 6,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 175,
-      "Сонин Анатолий Алексеевич": 7,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190373": 6,
+      "gas:candidate-vibid:250200071323": 7,
+      "gas:candidate-vibid:350300670408": 6,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 175,
+      "gas:candidate-vibid:1001000113949": 7,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13412,13 +13412,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 7,
-      "Ведехов Алексей Владимирович": 16,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 7,
-      "Пекарев Владимир Янович": 129,
-      "Сонин Анатолий Алексеевич": 13,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000190373": 7,
+      "gas:candidate-vibid:250200071323": 16,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 7,
+      "gas:candidate-vibid:250200071326": 129,
+      "gas:candidate-vibid:1001000113949": 13,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13468,13 +13468,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 9,
-      "Ведехов Алексей Владимирович": 9,
-      "Голубев Сергей Олегович": 2,
-      "Кулаков Сергей Иванович": 8,
-      "Пекарев Владимир Янович": 190,
-      "Сонин Анатолий Алексеевич": 10,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190373": 9,
+      "gas:candidate-vibid:250200071323": 9,
+      "gas:candidate-vibid:350300670408": 2,
+      "gas:candidate-vibid:1001000195098": 8,
+      "gas:candidate-vibid:250200071326": 190,
+      "gas:candidate-vibid:1001000113949": 10,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13524,13 +13524,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 29,
-      "Ведехов Алексей Владимирович": 8,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 14,
-      "Пекарев Владимир Янович": 193,
-      "Сонин Анатолий Алексеевич": 14,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190373": 29,
+      "gas:candidate-vibid:250200071323": 8,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 14,
+      "gas:candidate-vibid:250200071326": 193,
+      "gas:candidate-vibid:1001000113949": 14,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13580,13 +13580,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 14,
-      "Ведехов Алексей Владимирович": 10,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 32,
-      "Пекарев Владимир Янович": 148,
-      "Сонин Анатолий Алексеевич": 9,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000190373": 14,
+      "gas:candidate-vibid:250200071323": 10,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 32,
+      "gas:candidate-vibid:250200071326": 148,
+      "gas:candidate-vibid:1001000113949": 9,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13636,13 +13636,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 46,
-      "Ведехов Алексей Владимирович": 26,
-      "Голубев Сергей Олегович": 5,
-      "Кулаков Сергей Иванович": 14,
-      "Пекарев Владимир Янович": 718,
-      "Сонин Анатолий Алексеевич": 22,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000190373": 46,
+      "gas:candidate-vibid:250200071323": 26,
+      "gas:candidate-vibid:350300670408": 5,
+      "gas:candidate-vibid:1001000195098": 14,
+      "gas:candidate-vibid:250200071326": 718,
+      "gas:candidate-vibid:1001000113949": 22,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13692,13 +13692,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 14,
-      "Ведехов Алексей Владимирович": 6,
-      "Голубев Сергей Олегович": 1,
-      "Кулаков Сергей Иванович": 6,
-      "Пекарев Владимир Янович": 380,
-      "Сонин Анатолий Алексеевич": 8,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000190373": 14,
+      "gas:candidate-vibid:250200071323": 6,
+      "gas:candidate-vibid:350300670408": 1,
+      "gas:candidate-vibid:1001000195098": 6,
+      "gas:candidate-vibid:250200071326": 380,
+      "gas:candidate-vibid:1001000113949": 8,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13748,13 +13748,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 65,
-      "Ведехов Алексей Владимирович": 35,
-      "Голубев Сергей Олегович": 14,
-      "Кулаков Сергей Иванович": 19,
-      "Пекарев Владимир Янович": 191,
-      "Сонин Анатолий Алексеевич": 20,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000190373": 65,
+      "gas:candidate-vibid:250200071323": 35,
+      "gas:candidate-vibid:350300670408": 14,
+      "gas:candidate-vibid:1001000195098": 19,
+      "gas:candidate-vibid:250200071326": 191,
+      "gas:candidate-vibid:1001000113949": 20,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13804,13 +13804,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 17,
-      "Ведехов Алексей Владимирович": 28,
-      "Голубев Сергей Олегович": 8,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 197,
-      "Сонин Анатолий Алексеевич": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190373": 17,
+      "gas:candidate-vibid:250200071323": 28,
+      "gas:candidate-vibid:350300670408": 8,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 197,
+      "gas:candidate-vibid:1001000113949": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13860,13 +13860,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 17,
-      "Ведехов Алексей Владимирович": 59,
-      "Голубев Сергей Олегович": 10,
-      "Кулаков Сергей Иванович": 12,
-      "Пекарев Владимир Янович": 280,
-      "Сонин Анатолий Алексеевич": 11,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190373": 17,
+      "gas:candidate-vibid:250200071323": 59,
+      "gas:candidate-vibid:350300670408": 10,
+      "gas:candidate-vibid:1001000195098": 12,
+      "gas:candidate-vibid:250200071326": 280,
+      "gas:candidate-vibid:1001000113949": 11,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13916,13 +13916,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 2,
-      "Ведехов Алексей Владимирович": 6,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 140,
-      "Сонин Анатолий Алексеевич": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190373": 2,
+      "gas:candidate-vibid:250200071323": 6,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 140,
+      "gas:candidate-vibid:1001000113949": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -13972,13 +13972,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 4,
-      "Ведехов Алексей Владимирович": 11,
-      "Голубев Сергей Олегович": 1,
-      "Кулаков Сергей Иванович": 3,
-      "Пекарев Владимир Янович": 231,
-      "Сонин Анатолий Алексеевич": 9,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190373": 4,
+      "gas:candidate-vibid:250200071323": 11,
+      "gas:candidate-vibid:350300670408": 1,
+      "gas:candidate-vibid:1001000195098": 3,
+      "gas:candidate-vibid:250200071326": 231,
+      "gas:candidate-vibid:1001000113949": 9,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -14028,13 +14028,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 4,
-      "Ведехов Алексей Владимирович": 13,
-      "Голубев Сергей Олегович": 1,
-      "Кулаков Сергей Иванович": 1,
-      "Пекарев Владимир Янович": 83,
-      "Сонин Анатолий Алексеевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190373": 4,
+      "gas:candidate-vibid:250200071323": 13,
+      "gas:candidate-vibid:350300670408": 1,
+      "gas:candidate-vibid:1001000195098": 1,
+      "gas:candidate-vibid:250200071326": 83,
+      "gas:candidate-vibid:1001000113949": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -14084,13 +14084,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 9,
-      "Ведехов Алексей Владимирович": 8,
-      "Голубев Сергей Олегович": 3,
-      "Кулаков Сергей Иванович": 5,
-      "Пекарев Владимир Янович": 153,
-      "Сонин Анатолий Алексеевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190373": 9,
+      "gas:candidate-vibid:250200071323": 8,
+      "gas:candidate-vibid:350300670408": 3,
+      "gas:candidate-vibid:1001000195098": 5,
+      "gas:candidate-vibid:250200071326": 153,
+      "gas:candidate-vibid:1001000113949": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -14140,13 +14140,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 55,
-      "Ведехов Алексей Владимирович": 114,
-      "Голубев Сергей Олегович": 21,
-      "Кулаков Сергей Иванович": 40,
-      "Пекарев Владимир Янович": 736,
-      "Сонин Анатолий Алексеевич": 51,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000190373": 55,
+      "gas:candidate-vibid:250200071323": 114,
+      "gas:candidate-vibid:350300670408": 21,
+      "gas:candidate-vibid:1001000195098": 40,
+      "gas:candidate-vibid:250200071326": 736,
+      "gas:candidate-vibid:1001000113949": 51,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
@@ -14196,13 +14196,13 @@ export const duma_2003_uik_428_region_50_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Буров Сергей Александрович": 41,
-      "Ведехов Алексей Владимирович": 95,
-      "Голубев Сергей Олегович": 16,
-      "Кулаков Сергей Иванович": 37,
-      "Пекарев Владимир Янович": 582,
-      "Сонин Анатолий Алексеевич": 46,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190373": 41,
+      "gas:candidate-vibid:250200071323": 95,
+      "gas:candidate-vibid:350300670408": 16,
+      "gas:candidate-vibid:1001000195098": 37,
+      "gas:candidate-vibid:250200071326": 582,
+      "gas:candidate-vibid:1001000113949": 46,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300670571&region=0&sub_region=0&type=429",
